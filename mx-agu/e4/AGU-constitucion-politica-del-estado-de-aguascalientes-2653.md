@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2016-11-08"
+last_updated: "2016-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 7 DE DICIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -339,7 +341,9 @@ En todo caso, la duración de las campañas será de sesenta días para la elecc
 
 Las elecciones ordinarias deberán celebrase, el primer domingo de junio del año de la elección.
 
-Los partidos políticos nacionales acreditados en el Estado, podrán participar en las elecciones para gobernador, diputados y ayuntamientos, debiendo respetar las reglas para garantizar la paridad entre géneros en candidaturas a diputaciones locales y de los ayuntamientos en términos de la ley general respectiva; asimismo, estarán facultados para participar en la vida política del Estado, para lo cual tendrán acceso al financiamiento público en términos de la ley de la materia.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+Los partidos políticos acreditados en el Estado, podrán participar en las elecciones para gobernador, diputados y ayuntamientos, debiendo respetar las reglas para garantizar la paridad horizontal y en su caso vertical entre los géneros en candidaturas a diputaciones locales y de los ayuntamientos, en términos de las leyes aplicables; asimismo, estarán facultados para participar en la vida política del Estado, para lo cual tendrán acceso al financiamiento público en términos de la ley de la materia. Los partidos políticos locales garantizarán la paridad de género en la integración de sus órganos de dirección.
 
 La participación de candidatos independientes en procesos electorales locales, se sujetará a lo que disponga la ley. Al igual que los partidos políticos, las fórmulas de las candidaturas independientes deberán integrarse por personas del mismo género.
 
@@ -351,9 +355,9 @@ La Ley General en Materia de Delitos Electorales, determinará los tipos penales
 
 El Sistema Estatal Electoral, estará regulado por la ley de la materia, y deberá garantizar en todo momento los derechos y obligaciones establecidos en los Artículos 41 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2016)</small>
 
-C. Con relación a las figuras del Plebiscito y el Referéndum, el Instituto Estatal Electoral será el órgano responsable de organizarlo, previa aprobación del H. Congreso del Estado.
+C. Con relación a las figuras del Plebiscito y el Referéndum, el Instituto Estatal Electoral será el órgano responsable de organizarlo, previa aprobación del H. Congreso del Estado, y coadyuvará con los ayuntamientos en la realización de la consulta pública para la implementación del presupuesto participativo.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)</small>
 
@@ -412,6 +416,10 @@ c) Se dará trámite a la Iniciativa en los términos y procedimientos de la Ley
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
 
 La ley regulará la revocación del mandato de las autoridades de elección popular y señalará las causales, los procedimientos para su solicitud y los mecanismos para que la misma se lleve a cabo.
+
+> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+EI presupuesto participativo será un mecanismo de participación ciudadana por el cual el destino de al menos el 3% del presupuesto anual para obra pública de gasto no etiquetado de cada Municipio, sea determinado por los ciudadanos domiciliados en su territorio, en los términos que establezca la Ley.
 
 ###### Artículo 17 Bis.
 
@@ -3110,3 +3118,19 @@ II.- Se elegirá a un comisionado que durará en su encargo cinco años; y
 III.- Se elegirá a un comisionado que durará en su encargo siete años.
 
 Los comisionados nombrados en términos de lo señalado en las fracciones anteriores, no tendrán derecho a reelegirse.
+
+P.O. 5 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 408.- SE REFORMA Y ADICIONA EL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)”.]
+
+###### ARTÍCULO ÚNICO.
+
+EI presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 409.- SE REFORMA EL PÁRRAFO DÉCIMO TERCERO DEL APARTADO B DEL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES. (CERTIFICACIÓN DE PLAZO, DECLARATORIA CONSTITUCIONAL, DECRETO)”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
