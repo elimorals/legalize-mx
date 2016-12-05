@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2013-04-29"
+last_updated: "2016-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -75,7 +75,9 @@ III. Municipio: A los Ayuntamientos que integran el Estado;
 
 IV. Ente Público: Las autoridades locales del Gobierno del Estado; los órganos que conforman la Administración Pública; los órganos autónomos por ley, y aquellos que la legislación local reconozca como de interés público y ejerzan gasto público;
 
-V. Grupos en situación de discriminación: Se consideran grupos en situación de discriminación las niñas, los niños, los jóvenes, las mujeres, las personas que viven con VIH-SIDA, con discapacidad, con problemas de salud mental, orientación sexual e identidad de género, adultas mayores, privadas de su libertad, en situación de calle, migrantes, pueblos indígenas, y aquellos que sufran algún tipo de discriminación como consecuencia de las transformaciones sociales, culturales y económicas.
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+V. Grupos en situación de discriminación: Se consideran grupos en situación de discriminación las niñas, los niños, los jóvenes, las mujeres, las personas que viven con VIH-SIDA, con discapacidad, con problemas de salud mental, de talla pequeña orientación sexual e identidad de género, adultas mayores, privadas de su libertad, en situación de calle, migrantes, pueblos indígenas, y aquellos que sufran algún tipo de discriminación como consecuencia de las transformaciones sociales, culturales y económicas;
 
 VI. Identidad de género: La identidad de género se refiere a la manifestación personal de pertenencia a un género determinado, a la aceptación o rechazo entre el género biológico y el género psicológico;
 
@@ -89,13 +91,19 @@ X. Persona adulta mayor: Aquella que cuente con sesenta años o más de edad;
 
 XI. Persona con discapacidad: Todo ser humano que presenta temporal o permanentemente una disminución en sus facultades físicas, intelectuales, o sensoriales que le limitan realizar una actividad normal;
 
+> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+XI. bis Personas de talla pequeña: Todo ser humano que presenta un trastorno del crecimiento caracterizado por una estatura y un peso inferiores a los que se consideran normales, en los individuos de la misma especie y edad, a menudo acompañados de desproporción;
+
 XII. Persona en situación de calle: Todo ser humano quien sin contar con un espacio que pueda ser caracterizado como vivienda, aunque el mismo sea precario, se halle pernoctando en lugares públicos o privados; y
 
 XIII. Pueblos indígenas: Aquellos grupos que se consideren así por el hecho de descender de poblaciones que habitaban en el país y que, cualquiera que sea su situación jurídica, conservan sus instituciones sociales, económicas, culturales y políticas, o parte de ellas.
 
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 6.
 
-Se considerará como discriminación toda distinción, exclusión o restricción que, basada en el origen étnico o social, el sexo, la lengua, la religión, la condición social o económica, la edad, la discapacidad, las condiciones de salud, embarazo, la apariencia física, la orientación sexual, la identidad de género, el estado civil, la ocupación o actividad, o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de las garantías fundamentales, así como la igualdad real de oportunidades de las personas.
+Se considerará como discriminación toda distinción, exclusión o restricción que, basada en el origen étnico o social, el sexo, la lengua, la religión, la condición social o económica, la edad, la discapacidad, la talla pequeña, las condiciones de salud, embarazo, la apariencia física, la orientación sexual, la identidad de género, el estado civil, la ocupación o actividad, o cualquier otra que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio, de las garantías fundamentales, así como la igualdad real de oportunidades de las personas.
 
 ###### Artículo 7.
 
@@ -245,9 +253,13 @@ IV. Elaborar una agenda de empleo para los grupos en situación de discriminaci�
 
 V. Crear programas permanentes de capacitación para el empleo y fomento a la integración laboral de los grupos en situación de discriminación congruentes con la ley de la materia;
 
-VI. Promover un entorno urbano que permita el libre acceso y desplazamiento para las personas con discapacidad, las personas adultas mayores y mujeres embarazadas;
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
 
-VII. Procurar la accesibilidad en los medios de transporte público de uso general para las personas con discapacidad, adultos mayores y mujeres embarazadas, congruentes con la ley de la materia; y
+VI. Promover un entorno urbano que permita el libre acceso y desplazamiento para las personas con discapacidad, de talla pequeña, las personas adultas mayores y mujeres embarazadas;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+
+VII. Procurar la accesibilidad en los medios de transporte público de uso general para las personas con discapacidad, de talla pequeña, adultos mayores y mujeres embarazadas, congruentes con la ley de la materia; y
 
 VIII. De acuerdo con lo previsto en las leyes aplicables, prevenir y erradicar toda práctica discriminatoria relativa al ingreso en todos los lugares y servicios previstos para el público en general; entre ellos restaurantes, hoteles, teatros y salas de variedades, discotecas u otros.
 
@@ -524,3 +536,9 @@ P.O. 29 DE ABRIL DE 2013.
 PRIMERO.- El presente decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas (sic) disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 5 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 93 POR EL QUE “SE REFORMA LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN XI BIS AL ARTÍCULO 5, SE REFORMA EL ARTÍCULO 6 Y LAS FRACCIONES VI Y VII DEL ARTÍCULO 16 DE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE”.]
+
+Único. El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
