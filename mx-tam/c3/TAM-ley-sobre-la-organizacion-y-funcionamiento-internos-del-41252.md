@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2016-11-15"
+last_updated: "2016-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -805,7 +805,37 @@ Todo diputado podrá asistir a las reuniones de las comisiones ordinarias y espe
 
 3. Con objeto de propiciar el fortalecimiento de los elementos que requiere el desempeño de las tareas constitucionales a cargo del Congreso y de sus órganos, en cada Legislatura se integrará el Comité del Centro de Estudios sobre las Finanzas Públicas.
 
-#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN CUARTA. DE LOS AUXILIARES DE DICTAMINACIÓN
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 52 BIS.
+
+1. En apoyo al trabajo de las Comisiones y Comités, el Congreso del Estado contará con Auxiliares de Dictaminación, que estarán adscritos a la Unidad de Servicios Parlamentarios, los que tendrán el rango de asesores.
+
+2. Los Auxiliares de Dictaminación serán coordinados por el Titular de la Unidad de Servicios Parlamentarios y se encargarán de las actividades inherentes al análisis y elaboración de proyectos de dictámenes de los asuntos turnados a las Comisiones Ordinarias, así como apoyar a las Comisiones Especiales y Comités en la atención de los asuntos de su competencia.
+
+3. Quienes ocupen los cargos de Auxiliares de Dictaminación, deberán contar con licenciatura en carreras afines al derecho o la administración pública.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 52 TER.
+
+1. Habrá un Auxiliar de Dictaminación responsable por cada una de las siguientes secciones:
+
+a) De Asuntos de carácter Social;
+
+b) De Asuntos Económicos, Fiscales y Financieros;
+
+c) De Asuntos Gubernamentales;
+
+d) De Asuntos de Seguridad Pública y Justicia; y
+
+e) De Asuntos Patrimoniales y Municipales.
+
+2. A cada Sección corresponderán las Comisiones y Comités afines a su nomenclatura que acuerde la Junta de Coordinación Política al inicio de la Legislatura.
 
 ### CAPITULO SEPTIMO. DE LA ORGANIZACION TECNICA Y ADMINISTRATIVA
 
@@ -875,9 +905,9 @@ Para el desempeño de sus atribuciones, la Diputación Permanente aplicará en l
 
 ### CAPITULO PRIMERO. DE LOS DIPUTADOS Y EL COMPORTAMIENTO PARLAMENTARIO
 
-#### SECCION SEGUNDA. DEL PROCEDIMIENTO DE ADICIONES Y REFORMAS A LA CONSTITUCION GENERAL DE LA REPUBLICA
+#### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
-#### SECCION TERCERA. DEL PROCEDIMIENTO DE ADICIONES Y REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO
+#### SECCION SEGUNDA. DEL PROCEDIMIENTO DE ADICIONES Y REFORMAS A LA CONSTITUCION GENERAL DE LA REPUBLICA
 
 ### CAPITULO SEGUNDO. DE LAS SESIONES
 
@@ -937,23 +967,49 @@ g) Remitir a la Secretaría de Finanzas del Poder Ejecutivo la información nece
 
 1. La Unidad de Servicios Parlamentarios tiene a su cargo los siguientes servicios:
 
-a) De Asistencia Técnica a la Presidencia de la Mesa Directiva, que comprende los de: comunicaciones y correspondencia; turnos y control de documentos; certificación y autentificación documental; instrumentos de identificación y diligencias relacionadas con el fuero de los diputados; registro biográfico de los integrantes de las legislaturas; y protocolo, ceremonial y relaciones públicas;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
-b) De la Sesión, que comprende los de: preparación y desarrollo de los trabajos del Pleno; registro y seguimiento de las iniciativas de ley o decreto y minutas de reformas y adiciones a la Constitución General de la República; divulgación entre los legisladores de los documentos sujetos a su conocimiento; asistencia a los secretarios para verificar el quórum de asistencia, el cómputo y registro de las votaciones y la información estadística de las actividades del Pleno; elaboración, registro y compilación de las actas de las sesiones, y registro de leyes, decretos, acuerdos y resoluciones adoptados por el Pleno;
+a) De Asistencia Técnica a la Presidencia de la Mesa Directiva, que comprende los de: despacho de los turnos y determinaciones recaídos a la correspondencia, iniciativas y propuestas presentadas en el Pleno Legislativo; apoyo en las diligencias relacionadas con el fuero de los Diputados; registro biográfico de los integrantes de las Legislaturas; y asistencia técnica en las actividades de dirección parlamentaria que atañen al Presidente de la Mesa Directiva;
 
-c) De las Comisiones, que comprende los de: organización y asistencia para la celebración de sus reuniones; registro de sus integrantes; seguimiento e información sobre el estado que guardan los asuntos turnados a su conocimiento; formulación de opiniones técnicas y documentos solicitados para el desahogo de las tareas de las comisiones; y preparación, elaboración y registro de los documentos relativos a sus reuniones;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
-d) De Litigios Constitucionales que comprende los de: análisis de las demandas de amparo, controversias constitucionales y acciones de inconstitucionalidad que se notifiquen al Congreso con relación a sus actos; preparación de informes, contestación y documentos relacionados con dichos litigios; y seguimiento y formulación de informes sobre su tramitación y desahogo hasta su conclusión;
+b) De la Sesión, que comprende los de: preparación y desarrollo de los trabajos del Pleno; elaboración del proyecto de instructivo para la conducción de la sesión; apoyo en actividades del protocolo y ceremonial; asesoría a los integrantes de la Mesa Directiva sobre el desahogo de los procedimientos parlamentarios; elaboración, registro y compilación de las actas de la sesión; y, asistencia a los Secretarios para verificar el quórum, el cómputo y registro de las votaciones;
 
-e) Del Registro Parlamentario y Diario de los Debates, que comprende los de: elaboración integral de la versión estenográfica de las sesiones y del Diario de los Debates; de edición y reproducción de la Constitución Política del Estado y leyes, decretos y acuerdos aprobados por el Pleno; de servicios de informática relacionados con las actividades del propio Pleno;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
-f) De Archivo, que comprende los de: formación, clasificación y custodia de expedientes derivados de las actividades del Pleno y, en su caso, de las Comisiones; desahogo de consultas sobre documentos relacionados con esos expedientes para los órganos del Congreso y los integrantes del Pleno; y preparación de documentos y estudios de valor histórico o de interés general para su edición o reproducción por el Congreso, y
+c) De las Comisiones, que comprende los de: organización y asistencia para la celebración de sus reuniones; elaboración de la agenda semanal de reuniones; actividades de logística y estadística; registro de sus integrantes; atención en la solicitud de documentos para el desahogo de sus actividades; y apoyo a los Auxiliares de Dictaminación en la planeación y desarrollo de las reuniones de comisiones;
 
-g) De Biblioteca, que comprenden el acervo de libros, periódicos y revistas, videograbaciones, multimedia e informática parlamentaria.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2007)</small>
+d) De Litigios Constitucionales que comprende los de: análisis, registro y trámite de las demandas de amparo, controversias constitucionales, acciones de inconstitucionalidad que se notifiquen al Congreso con relación a sus actos, así como brindar asesoría en la atención de procedimientos inherentes a denuncias administrativas, juicios políticos y de procedencia; auxiliar en la preparación de proyectos de informes y documentos relacionados con dichos litigios; formulación de constancias de certificación y autenticación documental; y opiniones técnicas que le sean solicitadas por el Presidente de la Mesa Directiva o por la Secretaría General respecto a la constitucionalidad de actos jurídicos relativos a la función legislativa;
 
-h) De Apoyo Técnico, que comprende los de apoyo para el perfeccionamiento de formatos, asesoría de técnica legislativa, corrección, estilo y redacción de dictámenes, iniciativas y en general de documentos inherentes al proceso legislativo.
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+e) Del Registro Parlamentario y Diario de los Debates, que comprende los de: elaboración de la Gaceta Parlamentaria; versión estenográfica de las sesiones y de las reuniones de comisiones; Diario de los Debates, bitácoras de Decretos y Acuerdos; registro de participaciones de los Diputados en el Pleno; y, elaboración y tramitación de la expedición de leyes, decretos y acuerdos para su publicación en el Periódico Oficial del Estado;
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+f) De Archivo, que comprende los de: formación, clasificación y custodia de expedientes derivados de las actividades del Pleno y de los órganos parlamentarios; desahogo de consultas institucionales y públicas sobre documentos relacionados con esos expedientes; conservación, preparación de documentos y estudios de valor histórico o de interés general para su edición o reproducción por el Congreso; elaboración y actualización de un respaldo electrónico de toda la información documental existente físicamente en el archivo; y, atención en lo conducente de los lineamientos establecidos por las leyes generales y locales en materia de transparencia y acceso a la información, archivo público y protección de datos personales;
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+g) De Biblioteca, que comprende los de: resguardo, administración y actualización del acervo de libros, periódicos y revistas, videograbaciones e información parlamentaria en versiones impresas y/o electrónicas, así como la organización y promoción de eventos institucionales de carácter cultural para vincular y difundir entre la sociedad las actividades de la función legislativa;
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+h) De Apoyo Técnico, que comprende los de: registro y control de iniciativas y propuestas; estadística de las leyes, decretos y acuerdos expedidos por el Pleno Legislativo; elaboración de informes sobre el trabajo del Congreso; asesoría de técnica legislativa en la elaboración de documentos inherentes al proceso legislativo; y, auxiliar al titular de la Unidad de Servicios Parlamentarios en el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+i) De Actualización Legislativa, que comprende los de: edición, reproducción, sistematización y actualización de la Constitución Política del Estado, leyes, códigos y reglamentos estatales vigentes que se difunden en la página web oficial del Congreso, así como el registro y clasificación de la legislación abrogada;
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+j) De Documentación, que comprende los de: recopilación, escaneo, reproducción y distribución, entre los Diputados, de los documentos inherentes al desarrollo de la sesión y su incorporación a la página web oficial del Congreso; así como proveer de documentación a los Auxiliares de Dictaminación; y
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+k) De Oficialía de Partes, que comprende los de recibir y registrar la correspondencia remitida al Congreso del Estado, informando a la Secretaría General por conducto del titular de la Unidad de Servicios Parlamentarios para efectos del trámite conducente.
 
 2. Los servicios establecidos en el párrafo anterior tendrán la estructura administrativa que prevea el presupuesto de egresos del Congreso.
 
@@ -965,13 +1021,27 @@ h) De Apoyo Técnico, que comprende los de apoyo para el perfeccionamiento de fo
 
 a) Asistir al secretario general en el cumplimiento de sus funciones y acordar con él los asuntos de su responsabilidad, así como suplirlo cuando no pueda concurrir a las reuniones de la Mesa Directiva, o de la Junta de Coordinación Política en asuntos parlamentarios;
 
-b) Compilar y registrar los acuerdos, precedentes y prácticas de carácter parlamentario que se adopten por el Pleno;
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+b) Elaborar un resumen de cada sesión en el que se registren los detalles de los asuntos desahogados en el Pleno o la Diputación Permanente, así como la síntesis de los acuerdos adoptados y los debates suscitados;
 
 c) Dirigir los trabajos de los servicios bajo su adscripción y acordar con sus titulares los asuntos de su competencia;
 
-d) Realizar estudios sobre la organización, el funcionamiento y los procedimientos del Congreso, así como promover investigaciones de derecho parlamentario, y
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
-e) Cumplir las demás funciones que le confiere esta ley, los ordenamientos relativos a la actividad parlamentaria del Congreso y que le encomiende el secretario general.
+d) Elaborar y mantener actualizado el manual de operación de los servicios parlamentarios, en el que se establezcan los procedimientos inherentes a las actividades de cada departamento de la unidad;
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+e) Otorgar asesoría y formular opiniones técnicas en apoyo al trabajo de Comisiones sobre iniciativas y propuestas turnadas para dictamen;
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+f) Coordinar y supervisar el trabajo de los Auxiliares de Dictaminación; y
+
+(REUBICADO Y REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)
+
+g) Cumplir las demás funciones que le confiere esta ley, los ordenamientos relativos a la actividad parlamentaria del Congreso y que le encomiende la Secretaría General.
 
 2. El titular de la Unidad de Servicios Parlamentarios velará por la imparcialidad de los servicios a su cargo.
 
@@ -1403,11 +1473,7 @@ h) Clausura de la sesión y cita para la celebración de la siguiente.
 
 ### CAPITULO SEXTO. DE LAS GALERIAS
 
-#### SECCION CUARTA. DEL PROCEDIMIENTO LEGISLATIVO ORDINARIO
-
-APARTADO A
-
-DEL DERECHO DE INICIATIVA
+#### SECCION TERCERA. DEL PROCEDIMIENTO DE ADICIONES Y REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO
 
 ###### ARTICULO 86.
 
@@ -1421,7 +1487,11 @@ DEL DERECHO DE INICIATIVA
 
 4. La información inherente al desarrollo de los procedimientos previstos en el presente capítulo se dará a conocer a los integrantes del Pleno a través de medios o vías de comunicación electrónica, o en forma impresa.
 
-#### SECCION QUINTA. DEL PROCEDIMIENTO PRESUPUESTARIO
+#### SECCION CUARTA. DEL PROCEDIMIENTO LEGISLATIVO ORDINARIO
+
+APARTADO A
+
+DEL DERECHO DE INICIATIVA
 
 ###### ARTICULO 87.
 
@@ -1445,7 +1515,7 @@ Las minutas-proyecto de Decreto sobre adiciones y reformas a la Constitución Ge
 
 7. Independientemente del sentido de la determinación del Pleno en torno a cada minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, cuando el Congreso de la Unión o la Comisión Permanente del mismo realicen el cómputo y la declaración a que se refiere el párrafo 2 del artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, el presidente de la Mesa Directiva o de la Diputación Permanente, en su caso, comunicará a los Poderes Ejecutivo y Judicial, al Instituto Estatal Electoral, al Tribunal Estatal Electoral, a la Comisión de Derechos Humanos del Estado y a los Ayuntamientos del mismo, la emisión de la declaración de haber sido aprobada la adición o reforma correspondiente.
 
-#### SECCION SEXTA. DEL PROCEDIMIENTO DE COMPARECENCIAS
+#### SECCION QUINTA. DEL PROCEDIMIENTO PRESUPUESTARIO
 
 ###### ARTICULO 89.
 
@@ -1477,7 +1547,7 @@ En tratándose de dictámenes sobre iniciativas de reforma y adición a la Const
 
 2. Independientemente de lo dispuesto en el párrafo anterior, el presidente de la Mesa Directiva comunicará al Poder Judicial del Estado, a los entes públicos con autonomía de los Poderes del Estado y a los Ayuntamientos del mismo el decreto de reformas y adiciones a la Constitución Política del Estado.
 
-#### SECCION SEPTIMA. DEL PROCEDIMIENTO DE NOMBRAMIENTOS
+#### SECCION SEXTA. DEL PROCEDIMIENTO DE COMPARECENCIAS
 
 ###### ARTICULO 93.
 
@@ -1839,7 +1909,7 @@ DE LAS OBSERVACIONES DEL EJECUTIVO
 
 Cuando se formulen observaciones particulares a las disposiciones aprobadas por el Congreso para una ley o decreto, en tanto éstas se dictaminan en los términos establecidos, a instancia del Presidente de la Mesa Directiva o de la Diputación Permanente podrá el Congreso plantear al Ejecutivo del Estado la promulgación y publicación de las normas de la ley o decreto de que se trate sobre las que no hubieren formulado observaciones, siempre que ello resulte posible en términos de la aplicación de las normas aprobadas y no observadas.
 
-#### SECCION OCTAVA. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+#### SECCION SEPTIMA. DEL PROCEDIMIENTO DE NOMBRAMIENTOS
 
 ###### ARTICULO 124.
 
@@ -1885,7 +1955,7 @@ En todo caso, con motivo del proceso presupuestario imperará el principio de eq
 
 Para la formulación, presentación, discusión y votación de los dictámenes sobre la revisión y calificación de las cuentas públicas se aplicarán, en lo conducente, las previsiones sobre el funcionamiento de las comisiones y en torno al procedimiento legislativo ordinario.
 
-#### SECCION NOVENA. DEL PROCEDIMIENTO DE OTORGAMIENTO Y ENTREGA DE LA MEDALLA AL MERITO "LUIS GARCIA DE ARELLANO"
+#### SECCION OCTAVA. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
 ###### ARTICULO 130.
 
@@ -1939,7 +2009,7 @@ Este plazo podrá ampliarse por acuerdo del presidente del órgano que correspon
 
 5. El Presidente de la Mesa Directiva o de la Diputación Permanente, previo a la discusión del dictamen, consultará al Pleno Legislativo o a la Diputación Permanente si el desahogo de éste se realiza en forma reservada.
 
-#### SECCION DECIMA. DE LAS PROPUESTAS QUE NO CONSTITUYAN INICIATIVA
+#### SECCION NOVENA. DEL PROCEDIMIENTO DE OTORGAMIENTO Y ENTREGA DE LA MEDALLA AL MERITO "LUIS GARCIA DE ARELLANO"
 
 ###### ARTICULO 133.
 
@@ -2024,6 +2094,8 @@ g) El Titular de la Presidencia y los integrantes del Consejo Consultivo de la C
 ###### ARTICULO 135.
 
 Cuando el Pleno apruebe dictámenes relacionados con el nombramiento de servidores públicos comprendidos en el párrafo 1 del artículo 133, en la sesión de que se trate o en la más próxima, se le invitará a que rinda protesta constitucional para el inicio de su encargo.
+
+#### SECCION DECIMA. DE LAS PROPUESTAS QUE NO CONSTITUYAN INICIATIVA
 
 ###### ARTICULO 136.
 
@@ -2802,3 +2874,11 @@ El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondi
 ###### ARTÍCULO TERCERO.
 
 Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. LXIII-52 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 61 PÁRRAFO 1, INCISOS A) AL H), Y 62 PÁRRAFO 1, INCISOS B), D) Y E); Y SE ADICIONA LA SECCIÓN CUARTA AL CAPÍTULO QUINTO DEL TÍTULO SEGUNDO, DENOMINADA “DE LOS AUXILIARES DE DICTAMINACIÓN” QUE CONTIENE LOS ARTÍCULOS 52 BIS Y 52 TER, ASÍ COMO LOS INCISOS I), J) Y K) AL PÁRRAFO 1 DEL ARTÍCULO 61, Y LOS INCISOS E) Y F) RECORRIÉNDOSE EL INCISO E) PARA SER INCISO G) AL PÁRRAFO 1 DEL ARTÍCULO 62, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y se mandará publicar al Periódico Oficial del Estado.
