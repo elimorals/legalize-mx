@@ -4,7 +4,7 @@ identifier: "GRO-reglamento-interior-de-la-secretaria-de-la-juventud-43686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-02-01"
-last_updated: "2005-02-01"
+last_updated: "2016-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE LA JUVENTUD
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA JUVENTUD
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA JUVENTUD Y LA NIÑEZ, PUBLICADO EN EL P.O. DE 6 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA JUVENTUD DEL ESTADO DE GUERRERO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Guerrero, el martes 1 de febrero de 2005.
 
@@ -664,3 +666,17 @@ El Secretario de la Juventud.
 C. LIC. RAUL GARCIA LEYVA.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA JUVENTUD Y LA NIÑEZ”.]
+
+Primero. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+Segundo. Se abroga el Reglamento Interior de la Secretaría de la Juventud, publicada (sic) en el Periódico Oficial del Gobierno del Estado de Guerrero número 10 de fecha 1 de febrero de 2005 y todas aquellas disposiciones sobre la materia que contravengan este Reglamento.
+
+Tercero. En caso de autorizarse por la Secretaría de Contraloría y Transparencia Gubernamental y la Secretaría de Finanzas y Administración, la creación de nuevas unidades administrativas dentro de la estructura orgánica de la Secretaría, el titular de la misma remitirá al Gobernador del Estado, el proyecto de decreto de reformas y adiciones al presente Reglamento.
+
+Cuarto. En tanto se expiden los manuales de organización, procedimientos y servicios al público, el Secretario resolverá las cuestiones de procedimiento y operación que se originen por la aplicación de este Reglamento.
