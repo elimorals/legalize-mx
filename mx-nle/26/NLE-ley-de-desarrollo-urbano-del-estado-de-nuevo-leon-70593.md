@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-urbano-del-estado-de-nuevo-leon-70593"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-09"
-last_updated: "2014-07-03"
+last_updated: "2016-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de septiembre de 2009.
 
@@ -395,7 +395,7 @@ V. Vigilar y Evaluar el cumplimiento de los programas de desarrollo urbano de co
 
 VI. Formular y difundir los Atlas de Riesgo conforme a las disposiciones de esta Ley, así como asesorar a los municipios que lo soliciten en la expedición de las autorizaciones o licencias que se otorgan en las zonas de riesgo;
 
-VII. Crear y administrar sistemas de información geográfica y estadística para la planeación urbana y regional del Estado a través del Centro de Colaboración Geospacial;
+VII. Crear y administrar sistemas de información geográfica y estadística para la planeación urbana y regional del Estado a través del Centro de Colaboración Geospacial (sic);
 
 VIII. Convenir con los municipios su participación en el proyecto y ejecución de acciones, inversiones, obras y servicios en materia de desarrollo urbano;
 
@@ -445,13 +445,17 @@ XXII. Prever o convenir, en forma conjunta con los municipios involucrados, y co
 
 XXIII. Tramitar y resolver los recursos administrativos que le competen conforme a esta Ley, cuando sean impugnados sus actos o resoluciones;
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+XXIV. Participar conjunta y coordinadamente con las instancias federales de Educación correspondientes, en el análisis de terrenos susceptibles de ser utilizados para la construcción de escuelas;
+
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2014)</small>
 
-XXIV. Coadyuvar en la elaboración de la normatividad técnica para regular la Accesibilidad Universal de las personas con discapacidad dentro del territorio del Estado; y
+XXV. Coadyuvar en la elaboración de la normatividad técnica para regular la Accesibilidad Universal de las personas con discapacidad dentro del territorio del Estado; y
 
 > <small>(ADICIONADA, P.O. 3 DE JULIO DE 2014)</small>
 
-XXV. Las demás que le atribuya esta Ley.
+XXVI. Las demás que le atribuya esta Ley.
 
 ###### ARTÍCULO 10.
 
@@ -1491,7 +1495,7 @@ El Programa Sectorial del Agua tendrá por objeto articular el desarrollo ordena
 
 ###### ARTÍCULO 76.
 
-El Programa Sectorial del Agua deberá contener, además lo (sic) dispuesto en el artículo 61 de esta Ley, lo siguiente:
+El Programa Sectorial del Agua deberá contener, además (sic) lo dispuesto en el artículo 61 de esta Ley, lo siguiente:
 
 I. La estrategia general, para atender la demanda del servicio y comercialización del agua;
 
@@ -3831,7 +3835,7 @@ Las zonas deterioradas física o funcionalmente en forma total o parcial podrán
 
 Para la realización de acciones de mejoramiento los municipios deberán atender los ordenamientos y regulaciones que sobre el particular establece esta Ley, la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes, y a las demás regulaciones emitidas al respecto, y cumplir con lo siguiente:
 
-I. Identificar y señalar en los planes o programas de desarrollo urbano correspondientes (sic), las áreas, zonas sujetas a mejoramiento;
+I. Identificar y señalar en los planes o programas de desarrollo urbano correspondientes, las áreas, zonas sujetas a mejoramiento;
 
 II. Identificar y señalar en los planes o programas Parciales de desarrollo urbano, las áreas que, quedan sujetas a mejoramiento y a estudios especializados ya sea de medio ambiente o de infraestructura y servicios;
 
@@ -4545,11 +4549,11 @@ Las licencias de uso de suelo perderán su vigencia si dentro del término de tr
 
 #### SECCIÓN SEGUNDA. DE LA LICENCIA DE CONSTRUCCIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 286.
 
-Toda obra, construcción o edificación que se realice en el territorio del Estado requerirá de la licencia de construcción, expedida por el municipio, de acuerdo con la zonificación establecida en los planes o programas de desarrollo urbano, conforme a las normas de esta Ley, la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
+Toda obra, construcción o edificación que se realice en el territorio del Estado requerirá de la licencia de construcción, expedida por el municipio, de acuerdo con la zonificación establecida en los planes o programas de desarrollo urbano, asimismo el establecimiento de los criterios para la identificación y selección de terrenos susceptibles de ser utilizados para la construcción de escuelas públicas y particulares de todos los tipos educativos, los cuales deberán ubicarse a una distancia mínima de 400 metros perimetrales contados a partir de los límites de los inmuebles donde se encuentren establecimientos de alojamiento, cabarets y centros nocturnos debiéndose establecer conforme a las normas de esta Ley, la Ley para la Protección de los Derechos de las Personas con Discapacidad y tomar en cuenta las Normas Oficiales Mexicanas en materia de Accesibilidad Universal vigentes.
 
 Los reglamentos municipales en materia de construcciones establecerán las normas técnicas para lograr la satisfacción de los requerimientos de funcionamiento, higiene, seguridad, estabilidad, prevención de riesgos, acceso en los inmuebles y edificaciones, siendo su objetivo principal el bienestar y seguridad de sus ocupantes.
 
@@ -5848,3 +5852,15 @@ Segundo.- Se abroga la Ley de Personas con Discapacidad del Estado de Nuevo Leó
 Tercero.- El Comité Técnico y el Consejo para la Certificación de Perros de Asistencia ya instaladas continuarán operando en los términos de esta Ley.
 
 Cuarto.- El Poder Ejecutivo y las Autoridades Municipales dentro del ámbito de sus respectivas competencias, deberán adecuar su normatividad en los términos del presente Decreto, en un plazo no mayor a seis meses a partir de la entrada en vigor del presente Decreto.
+
+P.O. 6 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 169. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN CIVIL, LA LEY DE SEÑALAMIENTOS VIALES, LA LEY DE DESARROLLO URBANO Y LA LEY DE EDUCACIÓN TODAS DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+Tercero.- En un término que no exceda los 120 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos, en el ámbito de sus respectivas competencias realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con el presente Decreto.
+
+Cuarto.- La Dirección de Protección Civil Estatal deberá elaborar y presentar en un plazo no mayor de 120 días naturales para su aprobación el Programa Escolar de Protección Civil a que se refiere el Artículo Primero del presente Decreto.
