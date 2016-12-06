@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-senalamientos-viales-para-el-estado-de-nuevo-leon-69886"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-21"
-last_updated: "2012-06-11"
+last_updated: "2016-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEÑALAMIENTOS VIALES PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de agosto de 2009.
 
@@ -50,6 +50,10 @@ La presente Ley es de interés público y tiene por objeto establecer las bases 
 ###### Artículo 2.
 
 La colocación de los señalamientos viales para el control del tránsito corresponderá a las autoridades estatales cuando se trate de carreteras y caminos de jurisdicción estatal, y a las autoridades municipales en el resto de las vías públicas del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+Los Municipios por conducto de sus dependencias serán los responsables de implementar señalamientos viales, así como dispositivos de señalamiento horizontal en zonas escolares y en las zonas adyacentes a los planteles educativos de educación básica, que permitan advertir cualquier situación de peligro, de acuerdo a las normas técnicas aplicables.
 
 Los particulares que realicen actos regulados por las leyes, mediante las cuales se establezca la obligación de colocar algún tipo de señalamiento vial, así como los que en virtud de contrato con el Estado o con un Municipio se obliguen a la fabricación o instalación de señalamientos viales, deberán cumplir para tales efectos con las Normas Técnicas Estatales para el Control del Tránsito. En estos casos, el Estado o Municipio, al momento de formalizar la recepción de las obras o los materiales, o la conclusión de los servicios, deberá verificar el cumplimiento de la obligación señalada en este párrafo.
 
@@ -342,3 +346,15 @@ P.O. 24 DE DICIEMBRE DE 2010.
 P.O. 11 DE JUNIO DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 6 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 169. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN CIVIL, LA LEY DE SEÑALAMIENTOS VIALES, LA LEY DE DESARROLLO URBANO Y LA LEY DE EDUCACIÓN TODAS DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+Tercero.- En un término que no exceda los 120 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos, en el ámbito de sus respectivas competencias realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con el presente Decreto.
+
+Cuarto.- La Dirección de Protección Civil Estatal deberá elaborar y presentar en un plazo no mayor de 120 días naturales para su aprobación el Programa Escolar de Protección Civil a que se refiere el Artículo Primero del presente Decreto.
