@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2015-11-04"
+last_updated: "2016-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -399,13 +399,21 @@ La autoridad educativa estatal apoyará a las instituciones educativas públicas
 
 La autoridad educativa estatal deberá coordinarse con las autoridades municipales, estatales y federales competentes para:
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
-I.- Salvaguardar la integridad física de los educandos en las escuelas, especialmente en los casos de educación inicial, básica y media superior; y
+I.- Salvaguardar la integridad física de los educandos en las escuelas, especialmente en los casos de educación inicial, básica y media superior;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2016)</small>
 
-II.- Vigilar que en el interior o en los alrededores de los planteles educativos no se distribuyan o consuman drogas psicotrópicas o enervantes, debiendo acudir a las autoridades correspondientes a denunciar cualquier hecho en este sentido, a efecto de que sea seguido el procedimiento legal correspondiente.
+II.- Vigilar que en el interior y en los alrededores de los planteles educativos se garantice la integridad física y moral de la comunidad educativa, en materia de protección civil y señalamientos viales con la finalidad de que exista un entorno seguro para quienes acuden a los centros escolares.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+III.- Resguardar y proteger las instalaciones fuera del horario escolar o cuando se encuentren sin personal administrativo o alumnado, y cuando el plantel educativo sea objeto de robo o daño en sus instalaciones, deberá acudir a las autoridades correspondientes a denunciar cualquier hecho en ese sentido, a efecto de que sea seguido el procedimiento legal correspondiente; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+IV.- Vigilar que en el interior o en los alrededores de los planteles educativos no se distribuyan o consuman drogas psicotrópicas o enervantes, debiendo acudir a las autoridades correspondientes a denunciar cualquier hecho en este sentido, a efecto de que sea seguido el procedimiento legal correspondiente.
 
 > <small>(REFORMADO, P.O. 14 DE MARZO DE 2014)</small>
 
@@ -2010,3 +2018,15 @@ P.O. 4 DE NOVIEMBRE DE 2015.
 DECRETO NÚMERO 012, POR EL QUE SE ADICIONA UN PÁRRAFO SEXTO AL ARTICULO 36, DE LA LEY DE EDUCACIÓN DEL ESTADO.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 169. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN CIVIL, LA LEY DE SEÑALAMIENTOS VIALES, LA LEY DE DESARROLLO URBANO Y LA LEY DE EDUCACIÓN TODAS DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+Tercero.- En un término que no exceda los 120 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos, en el ámbito de sus respectivas competencias realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con el presente Decreto.
+
+Cuarto.- La Dirección de Protección Civil Estatal deberá elaborar y presentar en un plazo no mayor de 120 días naturales para su aprobación el Programa Escolar de Protección Civil a que se refiere el Artículo Primero del presente Decreto.
