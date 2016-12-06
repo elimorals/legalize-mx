@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-civil-para-el-estado-de-nuevo-leon-22837"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-22"
-last_updated: "2012-04-02"
+last_updated: "2016-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de enero de 1997.
 
@@ -461,9 +461,15 @@ Tratándose de la instalación de estaciones de servicio denominadas gasolineras
 
 XXII. Señalar las medidas de seguridad necesarias e imponer las sanciones correspondientes conforme a la presente Ley;
 
-XXIII. Coadyuvar con el Consejo de Protección Civil del Estado de Nuevo León en la conducción y operación del Sistema Estatal de Protección Civil, así como en la reunión, introducción y actualización de la información del mismo; y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
-XXIV. Las demás que le confiera el Ejecutivo del Estado, Secretario General de Gobierno, la presente Ley, y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo de Protección Civil del Estado de Nuevo León.
+XXIII. Coadyuvar con el Consejo de Protección Civil del Estado de Nuevo León en la conducción y operación del Sistema Estatal de Protección Civil, así como en la reunión, introducción y actualización de la información del mismo;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+XXIV. Elaborar y presentar anualmente para su aprobación al Presidente del Consejo de Protección Civil, el Programa Escolar de Protección Civil, con el propósito de establecer acciones de prevención, auxilio y recuperación destinadas a salvaguardar la integridad física de la comunidad educativa, así como proteger las instalaciones, bienes muebles e información, ante la ocurrencia de cualquier situación de emergencia, del cual se deberá rendir informe anual que indicará sus alcances; y
+
+XXV. Las demás que le confiera el Ejecutivo del Estado, Secretario General de Gobierno, la presente Ley, y otros ordenamientos legales, así como las que se determinen por acuerdos y resoluciones del Consejo de Protección Civil del Estado de Nuevo León.
 
 ###### Artículo 27.
 
@@ -535,7 +541,9 @@ Los sistemas municipales sin importar la forma de organización que haya adoptad
 
 I. Poner a la consideración del Ayuntamiento, y en su caso ejecutar el Programa Municipal;
 
-II. Promover la cultura de protección civil, desarrollando acciones de educación y capacitación a la población, en coordinación con las autoridades de la materia;
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+II. Ejecutar y en su caso estandarizar el Programa Escolar de Protección Civil, así como implementar los mecanismos de coordinación, con las dependencias y organismos públicos, privados y sociales para su seguimiento;
 
 III. Fomentar la participación activa y responsable de todos los habitantes del Municipio;
 
@@ -941,7 +949,7 @@ III. No dar cumplimiento a los requerimientos de la autoridad competente;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2012)</small>
 
-IV.No dar cumplimiento a las resoluciones de la autoridad competente que impongan cualquier medida de seguridad en los términos de esta Ley;
+IV. No dar cumplimiento a las resoluciones de la autoridad competente que impongan cualquier medida de seguridad en los términos de esta Ley;
 
 > <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2012)</small>
 
@@ -1090,3 +1098,15 @@ Segundo.- Las disposiciones contenidas en el Artículo Segundo del presente Decr
 P.O. 2 DE ABRIL DE 2012.
 
 Único.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 6 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 169. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN CIVIL, LA LEY DE SEÑALAMIENTOS VIALES, LA LEY DE DESARROLLO URBANO Y LA LEY DE EDUCACIÓN TODAS DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+Tercero.- En un término que no exceda los 120 días naturales a partir de la entrada en vigor del presente Decreto, los Ayuntamientos, en el ámbito de sus respectivas competencias realizarán las adecuaciones a las disposiciones reglamentarias vinculadas con el presente Decreto.
+
+Cuarto.- La Dirección de Protección Civil Estatal deberá elaborar y presentar en un plazo no mayor de 120 días naturales para su aprobación el Programa Escolar de Protección Civil a que se refiere el Artículo Primero del presente Decreto.
