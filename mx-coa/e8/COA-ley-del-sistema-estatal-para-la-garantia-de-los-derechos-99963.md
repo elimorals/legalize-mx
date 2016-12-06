@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2016-08-09"
+last_updated: "2016-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "COA"
 ---
 # LEY DEL SISTEMA ESTATAL PARA LA GARANTIA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 19 DE MAYO DE 2015, EN LOS CASOS EN QUE SE REFIERAN A HOGAR SUSTITUTO O A HOGAR PROVISIONAL, DEBERÁ ENTENDERSE COMO FAMILIA DE ACOGIDA O FAMILIA DE ACOGIMIENTO PRE - ADOPTIVA RESPECTIVAMENTE.</small>
-
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -1023,11 +1021,11 @@ A fin de garantizar el derecho de un niño o niña expósito a ser inscrito inme
 
 La omisión del registro provisional que se menciona en este artículo por la autoridad que tenga la obligación de solicitarlo o realizarlo acarrea la responsabilidad administrativa que corresponda por negligencia.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 62.
 
-Los directores y el personal encargado de los centros de salud, educativos, albergues, guarderías, estancias infantiles o cualquier otro sitio donde permanezcan, se atienda o se le preste algún servicio a niños, niñas o adolescentes, sean públicos o privados, están obligados a reportar cualquier situación de riesgo, amenaza o afectación de los derechos de los mismos.
+Los directores y el personal encargado de los centros de salud, educativos, albergues, guarderías, estancias infantiles o cualquier otro sitio donde permanezcan, se atienda o se le preste algún servicio a niños, niñas o adolescentes, sean públicos o privados, están obligados a reportar a la Procuraduría para los Niños, Niñas y la Familia, cualquier condición o circunstancia de la cual pudiera derivar la sospecha de que exista una situación de riesgo, amenaza o bien denunciar cualquier afectación de los derechos de los mismos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -1078,6 +1076,8 @@ VIII. Las pruebas con que cuenta la Procuraduría; y
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2015)</small>
 
 IX. Las demás que establezca la legislación civil aplicable.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 19 DE MAYO DE 2015, EN LOS CASOS EN QUE SE REFIERAN A HOGAR SUSTITUTO O A HOGAR PROVISIONAL, DEBERÁ ENTENDERSE COMO FAMILIA DE ACOGIDA O FAMILIA DE ACOGIMIENTO PRE - ADOPTIVA RESPECTIVAMENTE.]</small>
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2015)</small>
 
@@ -1560,3 +1560,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 598.- SE ADICIONA UN SEXTO PÁRRAFO AL ARTÍCULO 36 DE LA LEY ESTATAL DE EDUCACIÓN Y SE REFORMA EL ARTÍCULO 62 DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
