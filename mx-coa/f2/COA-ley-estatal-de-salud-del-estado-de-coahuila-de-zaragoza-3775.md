@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2016-08-09"
+last_updated: "2016-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -42,6 +42,10 @@ LEY ESTATAL DE SALUD
 ###### Artículo 1o.
 
 La presente Ley es de orden público e interés social y tiene por objeto la protección de la salud, así como establecer las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado y la concurrencia de éste y sus municipios en materia de salubridad local, en términos del Artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y de la Ley General de Salud. Es de aplicación en el Estado de Coahuila.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+
+Los recursos destinados por el estado y los municipios a la protección de la salud son prioritarios y el presupuesto correspondiente no podrá disminuirse con respecto al ejercicio fiscal anterior.
 
 ###### Artículo 2o.
 
@@ -1219,7 +1223,7 @@ III. Coadyuvar en la aplicación de programas y actividades que establezca la Se
 
 ###### Artículo 107.
 
-El Gobierno del Estado, a través de la Secretaría de Salud y en coordinación con las autoridades sanitarias federales, elaborará programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salud general a la población.
+El Gobierno del Estado, a través de la Secretaría de Salud y en coordinación con las autoridades sanitarias federales, elaborará programas o campañas temporales o permanentes, para el contro lo erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la protección de la salud general a la población.
 
 Asimismo, realizarán actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
@@ -3296,3 +3300,11 @@ P.O. 9 DE AGOSTO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 599.- SE ADICIONA UN NUEVO PÁRRAFO AL ARTÍCULO 1° DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
