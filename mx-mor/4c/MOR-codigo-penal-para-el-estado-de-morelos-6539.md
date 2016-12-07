@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2016-10-19"
+last_updated: "2016-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -229,7 +229,7 @@ Dicho en términos muy generales, un Código Penal es el catálogo de las conduc
 
 Se estima necesario revisar esa sistemática. Si el ser humano es el eje de la vida social, el depositario de los más altos valores políticos y morales, la razón de ser de la sociedad y el Estado, resulta natural que el catálogo de los delitos se inicie con aquéllos que afectan a la persona humana, y ante todo con los que vulneran el bien jurídico de más alto rango: la vida. Es por ello que estas conductas aparecen en la primera porción del Libro Segundo. Posteriormente figuran, en sendos agrupamientos típicos, los delitos contra el orden familiar, contra la sociedad y contra el Estado. De este modo se sigue una ordenación lógica consecuente con el compromiso humanista de la sociedad mexicana, al que sirve, en su propio espacio, el ordenamiento penal.
 
-También se ha revisado la ordenación de las "familias" o agrupamientos de delitos dentro de cada título y capítulo, con el propósito de colocar en primer término los que lesionan bienes de mayor rango o causan daños o peligros de mayor gravedad, y ubicar en seguida aquellos otros delitos de la misma especie que lesionan bienes menos relevantes o lo hacen con menor intensidad.
+También se ha revisado la ordenación de las "familias" o agrupamientos de delitos dentro de cada título o capítulo, con el propósito de colocar en primer término los que lesionan bienes de mayor rango o causan daños o peligros de mayor gravedad, y ubicar en seguida aquellos otros delitos de la misma especie que lesionan bienes menos relevantes o lo hacen con menor intensidad.
 
 Se obedece a la moderna tendencia de ampliar, en términos razonables, el número de los delitos perseguibles por instancia del ofendido o de la persona legitimada para formular querella. Con ello se procura concentrar la actuación oficiosa del Estado en las conductas ilícitas más graves, donde el interés social persecutorio prevalece sobre cualquier otra consideración particular. La persecución por querella permite evitar la vía jurisdiccional cuando es conveniente y razonable hacerlo, y promover, al través de la composición legítima entre la víctima y el victimario, una solución juiciosa al litigio penal, tomando en cuenta, sobre todo, la posibilidad de satisfacción de los intereses del ofendido.
 
@@ -281,7 +281,7 @@ Además de los supuestos, bien conocidos, de sustracción o retención indebida 
 
 Este Código prevé el delito de corrupción de menores, que deviene calificado, y por ende se sanciona con pena mayor, cuando el menor contrae un hábito dañoso o incurre en un delito como consecuencia de la conducta corruptora del agente; se trata de niños que aún no llegan a doce años de edad, o participa en el delito la persona que ejerce potestad o custodia sobre el menor (artículos 211 y 212).
 
-El Título Decimotercero del Libro Segundo abarca sendos supuestos de alteración de la verdad que causa daño o pone en peligro la seguridad de las relaciones jurídicas, agrupados bajo los conceptos de falsificación y falsedad. Aquello corresponde a objetos diversos, así como al empleo de los bienes, artículos o instrumentos alterados; y lo segundo se refiere a la variación de ciertas referencias de uso corriente y necesario en las relaciones jurídicas, como son el nombre y el domicilio, a los que este ordenamiento añade la ciudadanía morelense (artículo 223, fracción IV). Las razones que mueven a sancionar la falsedad en general, determinan que se prevenga la punición de una de sus variantes: usurpación de funciones (artículo 224).
+El Título Decimotercero del Libro Segundo abarca sendos supuestos de alteración de la verdad que causa daño o pone en peligro la seguridad de las relaciones jurídicas, agrupados bajo los conceptos de falsificación y falsedad. Aquéllo corresponde a objetos diversos, así como al empleo de los bienes, artículos o instrumentos alterados; y lo segundo se refiere a la variación de ciertas referencias de uso corriente y necesario en las relaciones jurídicas, como son el nombre y el domicilio, a los que este ordenamiento añade la ciudadanía morelense (artículo 223, fracción IV). Las razones que mueven a sancionar la falsedad en general, determinan que se prevenga la punición de una de sus variantes: usurpación de funciones (artículo 224).
 
 El desarrollo de la vida moderna provee a la sociedad de numerosos medios de comunicación de ideas y transporte de bienes y personas, que es preciso proteger. Así lo hace el Código al través de una serie de tipos penales referentes a la seguridad y el normal funcionamiento de los medios de transporte y las vías de comunicación. En todo caso se trata de vías y medios de jurisdicción local, conforme a las disposiciones contenidas en el sistema jurídico del Estado de Morelos.
 
@@ -2625,6 +2625,12 @@ ARTICULO 202 TER.- Se equipara al delito de violencia familiar y se le impondrá
 
 ARTICULO 202 QUATER.- En los casos de violencia familiar el agente del Ministerio Público acordará las medidas preventivas necesarias para salvaguardar la integridad física y psíquica, o ambas, de la víctima, y exhortará al probable responsable para que se abstenga de cualquier conducta que sea ofensiva para la víctima. En todos los casos el agente del Ministerio Público solicitará al juez dicte las medidas precautorias que considere pertinentes.
 
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 202 QUINTUS.- Se equipara al delito de violencia familiar y se le impondrán las mismas sanciones a que se refiere dicho ilícito, a quien realice los actos señalados en el artículo 202 BIS, en contra de una persona con la que tenga una relación de hecho.
+
+Se entenderá por relación de hecho, la que exista entre quienes mantengan una relación de pareja, aunque no vivan en el mismo domicilio.
+
 ###### ARTICULO 197.
 
 A quien con ánimo de lucro, después de la ejecución del delito y sin haber participado en éste, adquiera, reciba, posea, traslade, enajene, trafique u oculte el producto de aquél, se le aplicará prisión de seis meses a cinco años y de cincuenta a quinientos días multa.
@@ -4874,3 +4880,11 @@ P.O. 19 DE OCTUBRE DE 2016.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su sanción, promulgación y publicación respectiva de conformidad con los artículo (sic) 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del estado de Morelos.
+
+P.O. 7 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL VEINTIDÓS POR EL QUE SE ADICIONA UN ARTÍCULO 202 QUINTUS AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, CON EL PROPÓSITO DE EQUIPARAR LA VIOLENCIA EN EL NOVIAZGO A LA VIOLENCIA FAMILIAR".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado de Morelos.
