@@ -4,7 +4,7 @@ identifier: "MOR-estatuto-organico-del-regimen-estatal-de-proteccion-social-9314
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-03-06"
-last_updated: "2013-03-06"
+last_updated: "2016-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ESTATUTO ORGANICO DEL REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL ESTATUTO ORGÁNICO DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE MORELOS, PUBLICADO EN EL P.O. DE 7 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2016.
 
 Estatuto publicado en el Periódico Oficial del Estado de Morelos, el miércoles 6 de marzo de 2013.
 
@@ -31,7 +33,9 @@ Al margen izquierdo un Escudo del Estado de Morelos que dice: "Tierra y Libertad
 
 GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 70 FRACCIÓN XXVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; DE CONFORMIDAD CON LO DISPUESTO POR LOS ARTÍCULOS 1, 2, 5, 9 y 10 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, Y CON BASE EN LA SIGUIENTE:
 
-EXPOSICIÓN DE MOTIVOS...
+EXPOSICIÓN DE MOTIVOS
+
+[...]
 
 Por lo anteriormente expuesto y fundado tengo a bien expedir el siguiente:
 
@@ -436,3 +440,25 @@ EL SECRETARIO EJECUTIVO DEL RÉGIMEN ESTATAL DEPROTECCIÓN (SIC) SOCIAL EN SALUD
 LIC. JOSÉ JAVIER BECERRA CHÁVEZ HITA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE MORELOS".]
+
+PRIMERA. El presente Estatuto Orgánico entrará en vigor a los cinco días hábiles siguientes a su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Estatuto Orgánico del Régimen Estatal de Protección Social en Salud de Morelos publicado en el Periódico Oficial “Tierra y Libertad” número 5074, de fecha 06 de marzo de 2013; y se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Estatuto Orgánico.
+
+TERCERA. Dentro del plazo de 120 días hábiles posteriores a la entrada en vigor del presente Estatuto Orgánico, el Régimen Estatal de Protección Social en Salud de Morelos deberá emitir los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan.
+
+CUARTA. El Director General deberá inscribir el presente Estatuto Orgánico en el Registro Público de los Organismos Descentralizados del Estado de Morelos, en cumplimiento a lo dispuesto en los artículos 78, penúltimo párrafo, y 86, fracción II, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+
+QUINTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; así como 11, fracción XXXV, y 18, fracción XXVI, del Reglamento Interior de la Secretaría de Gobierno; el Régimen Estatal de Protección Social en Salud de Morelos, dentro del plazo de cinco días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente instrumento, deberá registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las Unidades Administrativas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+SEXTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, el Régimen Estatal de Protección Social en Salud de Morelos deberá realizar los trámites correspondientes para la identificación y asignación de plazas, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SÉPTIMA. Dentro de un plazo no mayor a 30 días hábiles, contados a partir de la entrada en vigor del presente Estatuto Orgánico, deberá instalarse el Subcomité de Adquisiciones, Arrendamientos y Servicios del Régimen Estatal de Protección Social en Salud de Morelos.
+
+OCTAVA. Los conflictos que se susciten por la aplicación e interpretación del presente Estatuto Orgánico serán resueltos por el Director General, de conformidad con la normativa aplicable.
