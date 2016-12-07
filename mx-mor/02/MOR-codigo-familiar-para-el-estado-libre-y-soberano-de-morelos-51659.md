@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-11-30"
+last_updated: "2016-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -573,7 +573,7 @@ ACREEDOR ALIMENTISTA. Es acreedor alimentista toda aquella persona que no pueda 
 
 ###### ARTÍCULO 37.
 
-OBLIGACIÓN ALlMENTARIA ENTRE CONYUGES. Los cónyuges deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de divorcio.
+OBLIGACIÓN ALIMENTARIA ENTRE CONYUGES. Los cónyuges deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de divorcio.
 
 Los concubinos están obligados, en igual forma, a darse alimentos si se satisfacen los requisitos señalados por los artículos 65 y 737 de este Código.
 
@@ -977,7 +977,7 @@ PROHIBICIÓN MATRIMONIAL DEL ADOPTANTE. El adoptante no puede contraer matrimoni
 
 ###### ARTÍCULO 81.
 
-IMPEDIMENTO POR POSIBLE GRAVIDEZ DE LA MUJER. La mujer no puede contraer matrimonio sino hasta pasados trescientos días después de la disolución del anterior. En los casos de nulidad o de divorcio, debe contarse este tiempo desde que se interrumpió la cohabitación.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2016)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
 
@@ -6442,3 +6442,11 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS VEINTINUEVE POR EL CUAL SE REFORMAN DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PROCESAL FAMILIAR Y DEL CÓDIGO FAMILIAR, AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
