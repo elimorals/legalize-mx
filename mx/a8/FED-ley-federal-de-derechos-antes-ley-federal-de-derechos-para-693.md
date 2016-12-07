@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "2015-12-23"
+last_updated: "2016-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1981-12-30"
 
 LEY FEDERAL DE DERECHOS
 
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 23 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2016.
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2015.
+ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 23 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 31 de diciembre de 1981.
 
@@ -389,11 +389,11 @@ Lo dispuesto en el presente artículo, también será aplicable a cualquier órg
 
 Por la recepción, estudio de la solicitud y, en su caso, la expedición del documento migratorio que acredita la condición de estancia se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-I. Visitante sin permiso para realizar actividades remuneradas $390.00
+I. Visitante sin permiso para realizar actividades remuneradas $500.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -595,15 +595,11 @@ IV. Autorización o reposición de la condición de estancia de Residente Tempor
 
 No pagarán la cuota señalada en la fracción III del presente artículo, los extranjeros cuando sean autorizados al amparo de un instrumento jurídico de movilidad de personas o convenios de cooperación internacional en consideración a aspectos de reciprocidad internacional.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 14.
 
-Por el estudio, trámite y, en su caso, autorización o renovación para ser miembro del Programa Viajero Confiable, se pagarán derechos conforme a la cuota de $1,460.66 $1,461
+(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
 
 > <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
 
@@ -695,13 +691,17 @@ Por el estudio, trámite y, en su caso, la expedición de la tarjeta de viaje AP
 
 Por la reposición de la tarjeta, se pagará la misma cuota.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 16.
 
-No pagarán los derechos por los servicios contenidos en esta Sección los extranjeros, cuando el tipo de trabajo o servicio a realizar tenga por remuneración el salario mínimo general vigente en la zona donde prestarán sus servicios o ingresos de menor cuantía al mismo, así como tratándose de Visitantes por razones humanitarias.
+No pagarán los derechos por los servicios contenidos en esta Sección los extranjeros, cuando el tipo de trabajo o servicio a realizar tenga por remuneración el equivalente al valor de la Unidad de Medida y Actualización, o si se trata de Visitantes por razones humanitarias.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.]</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
 
 Los extranjeros a los que se les autorice la condición de estancia bajo los supuestos previstos en la fracción I del artículo 54 de la Ley de Migración, no pagarán los derechos por internación al país ni por el otorgamiento o la reposición de documentos, establecidos en esta Sección.
 
@@ -979,21 +979,11 @@ IV.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
 V.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VI.- Por el trámite, estudio y, en su caso, clasificación y autorización de:
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-a) Películas, por cada una $1,768.96 $1,769
-
-b) Telenovelas y teleteatros
-
-grabados destinados a su
-
-exhibición en televisión, por
-
-capítulo $1,070.25 $1,070
-
-c) Series filmadas, por capítulo $788.99 $789
+VI. Por el trámite, estudio, clasificación y, en su caso, autorización de materiales grabados, se pagarán derechos por cada 15 minutos o fracción de duración por material, la cuota de $270.62
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1069,7 +1059,23 @@ por transmisiones en idioma
 
 extranjero $1,202.87 $1,203
 
-IV.- (DEROGADA, D.O.F. 21 DE DICIEMBRE DE 2005)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+IV. Por el trámite, estudio,
+
+clasificación y, en su caso,
+
+autorización de materiales
+
+grabados, se pagarán derechos
+
+por cada 15 minutos o fracción
+
+de duración por material, la
+
+cuota de $270.49
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -1277,9 +1283,19 @@ b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 c).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-d).- Ordinarias en pasaportes
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-extranjeros $616.33 $615
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+d). Por la recepción,
+
+estudio de la solicitud y,
+
+en su caso, la autorización
+
+de las visas ordinarias en
+
+pasaportes extranjeros $616.33
 
 e).- (DEROGADO, D.O.F. 1 DE DICIEMBRE DE 2004)
 
@@ -1490,6 +1506,12 @@ d).- Trámites de Nacionalidad
 > <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2006)</small>
 
 e). Actuaciones del Registro Civil
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+f). Credenciales para Votar en el Extranjero.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -1723,23 +1745,17 @@ Las cuotas de los derechos señaladas en el presente Capítulo, se ajustarán pa
 
 #### SECCION PRIMERA. Inspección y Vigilancia
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
 ###### ARTICULO 27.
 
-Los beneficiarios de estímulos fiscales, pagarán por concepto de derechos de vigilancia una cuota equivalente al 4% sobre el monto del beneficio concedido, excepto cuando en las disposiciones en las que se concedan dichos estímulos se establezca una tasa diferente, la cual no excederá de por ciento antes mencionado.
+(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
 
-En las propias disposiciones en las que se establezcan estímulos fiscales, o en sus reglas de aplicación, se señalará la forma y el lugar en que los beneficiarios de los mismos harán el pago de los derechos de vigilancia correspondientes.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Para los efectos de este artículo, no se considerarán estímulos fiscales, las devoluciones de impuestos indirectos y a la importación, incluyendo los certificados de devolución de impuestos a las exportaciones de productos manufacturados en el país.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 28.
 
-No se considerará dentro de la base para calcular los derechos a que se refiere el artículo anterior:
-
-I.- El importe de los estímulos que se concedan de conformidad con la Ley del Impuesto sobre la Renta.
-
-II.- El importe de los estímulos cuando en la disposición en que se otorguen, se exima expresamente del pago de estos derechos.
+(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
 
 > <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
 
@@ -3265,23 +3281,33 @@ Crediticia, pagará la cantidad
 
 de: $1,299,989.77 $1,299,990
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXI. Sociedades Distribuidoras de Acciones de Sociedades de Inversión:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-Cada entidad que pertenezca al sector de Sociedades Distribuidoras de Acciones de Sociedades de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Sociedades de Inversión, pagará conforme a lo siguiente:
+XXI. Sociedades Distribuidoras de Acciones de Fondos de Inversión:
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2016)</small>
+
+Cada entidad que pertenezca al sector de Sociedades Distribuidoras de Acciones de Fondos de Inversión, entendiéndose por ello a las sociedades a que con tal carácter se refiere la Ley de Fondos de Inversión, pagará conforme a lo siguiente:
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
 a). Que actúen como
 
 referenciadoras: $47,894.36 $47,894
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+
 b). Que actúen como
 
 integrales: $95,788.73 $95,789
 
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Para efectos de lo previsto en esta fracción, se entenderá que pertenecen al sector de Sociedades Distribuidoras de Acciones de Sociedades de Inversión las instituciones de crédito, casas de bolsa, instituciones de seguros, organizaciones auxiliares del crédito, casas de cambio, sociedades financieras de objeto limitado y sociedades operadoras de sociedades de inversión, que proporcionen de manera directa a las sociedades de inversión servicios de distribución de acciones.
+> <small>(DEROGADO TERCER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -4811,11 +4837,11 @@ Tratándose de los derechos de trámite aduanero que se recauden en Colombia, Nu
 
 (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1994)
 
-> <small>(REFORMADO, D.O.F. 1 DE DICIEMBRE DE 2004)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 50-B.
 
-Para los efectos del artículo 49 de esta Ley, Petróleos Mexicanos y sus organismos subsidiarios no estarán obligados al pago de los derechos de trámite aduanero a que se refieren dichos preceptos, cuando importen o exporten gas natural, así como por el aprovisionamiento de combustible a embarcaciones de matrícula extranjera arrendados por dichos organismos para la realización de los fines que les son propios.
+(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 50-C.
 
@@ -4941,39 +4967,21 @@ muestra analizada, la cuota de: $3,948.30 $3,948
 
 #### SECCION OCTAVA. Resoluciones Relativas a Precios o Montos de Contraprestaciones entre Partes Relacionadas
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 53-G.
 
-Por el estudio cuota sin cuota con
+Por el estudio y trámite de cada solicitud de resolución relativa a los precios o montos de contraprestaciones entre partes relacionadas, se pagarán derechos conforme a la cuota de $216,308.51
 
-y trámite de cada solicitud de ajuste ajuste
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-resolución relativa a los precios
-
-o montos de contraprestaciones
-
-entre partes relacionadas, se
-
-pagarán derechos conforme a la
-
-cuota de $12,912.63 $12,913
-
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 53-H.
 
-Por cada revisión cuota sin cuota con
-
-del informe anual sobre la aplicación ajuste ajuste
-
-de las resoluciones a que se refiere
-
-el artículo anterior, se pagarán
-
-derechos conforme a la
-
-cuota de $2,582.39 $2,582
+Por cada revisión del informe anual sobre la aplicación de las resoluciones a que se refiere el artículo anterior, se pagarán derechos conforme a la cuota de $43,261.70
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5313,67 +5321,17 @@ a). El 50 por ciento de la cuota establecida en la fracción I del presente art�
 
 b). (DEROGADO, D.O.F. 24 DE DICIEMBRE DE 2007)
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 58-A.
 
-Por la supervisión de la operación y el mantenimiento de las actividades de transporte y distribución por medio de ductos de los productos que se obtengan de la refinación del petróleo y de los petroquímicos básicos, así como de los sistemas de almacenamiento que se encuentren directamente vinculados a éstos, Petróleos Mexicanos y sus organismos subsidiarios pagarán anualmente derechos conforme a las siguientes cuotas:
+(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
 
-I. Por las terminales de almacenamiento
-
-y recepción $611,646.28 $611,646
-
-II. Por los ductos interconectados
-
-a las terminales de almacenamiento
-
-y recepción $493,255.07 $493,255
-
-III. Por otros sistemas de transporte
-
-por medio de ductos $179,179.33 $179,179
-
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 58-B.
 
-Por el análisis y, en su caso, la expedición de la resolución sobre las propuestas de Petróleos Mexicanos y sus organismos subsidiarios, dichos organismos pagarán derechos conforme a las siguientes cuotas:
-
-I. Respecto de los términos y condiciones
-
-de las ventas de primera mano del gas,
-
-del combustóleo y de los petroquímicos
-
-básicos $614,261.96 $614,262
-
-II. Respecto de los términos y condiciones
-
-del transporte y distribución por medio
-
-de ductos de los productos que se obtengan
-
-de la refinación del petróleo y de los
-
-petroquímicos básicos; así como los
-
-sistemas de almacenamiento que se
-
-encuentren directamente vinculados a
-
-éstos, o que forman parte integral de
-
-las terminales de importación o distribución
-
-de dichos productos $625,658.56 $625,659
+(DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
 
 > <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
 
@@ -6339,17 +6297,21 @@ III.- Lugares en donde exista personal adscrito las 24 horas del día.
 
 IV.- Por el cumplimiento de disposiciones especiales, tendientes a proteger la sanidad fitopecuaria del país.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.]</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 86-A.
 
-Por la expedición de certificados zoosanitarios y fitosanitarios, se pagará el derecho de certificación en materia de sanidad agropecuaria, conforme a las siguientes cuotas:
+Por la expedición de certificados zoosanitarios, fitosanitarios o de sanidad acuícola, se pagará el derecho de certificación en materia de sanidad agropecuaria y acuícola, conforme a las siguientes cuotas:
 
 cuota sin cuota con
 
 ajuste ajuste
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 I.- Por cada certificado fitosanitario
 
@@ -6358,6 +6320,8 @@ para la movilización nacional de
 productos y subproductos vegetales
 
 sujetos a regulación fitosanitaria $96.63 $97
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II.- Por cada certificado zoosanitario
 
@@ -6369,6 +6333,8 @@ subproductos animales, sujetos a
 
 regulación zoosanitaria $96.63 $97
 
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
 III.- Por cada certificado fitosanitario
 
 internacional para la exportación
@@ -6376,6 +6342,8 @@ internacional para la exportación
 de vegetales, sus productos y
 
 subproductos $484.07 $484
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IV.- Por cada certificado zoosanitario
 
@@ -6391,6 +6359,8 @@ alimenticios para uso en animales
 
 y consumo por éstos $484.07 $484
 
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
 V.- Por cada certificado fitosanitario
 
 internacional para la importación de
@@ -6398,6 +6368,8 @@ internacional para la importación de
 vegetales, sus productos y
 
 subproductos $2,087.34 $2,087
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VI.- Por cada certificado zoosanitario
 
@@ -6413,17 +6385,21 @@ y alimenticios para uso en animales
 
 y consumo por éstos $2,087.34 $2,087
 
-VII.- Por cada certificación de la
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-calidad zoosanitaria de un
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-establecimiento Tipo Inspección
+VII. Por cada autorización
 
-Federal, cuando sea realizada
+de la certificación como
 
-por la Comisión Nacional de
+establecimiento Tipo
 
-Sanidad Agropecuaria $19,051.76 $19,052
+Inspección Federal (TIF)
+
+o ampliación de la misma $19,051.76
+
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VIII.- Por la certificación
 
@@ -6446,6 +6422,26 @@ tratamiento cuarentenario,
 centros de acopio de granos y
 
 semillas regulados $936.06 $936
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+IX. Por cada certificado de
+
+sanidad acuícola de importación
+
+de especies acuícolas, sus
+
+productos y subproductos, así
+
+como de productos biológicos,
+
+químicos, farmacéuticos o
+
+alimenticios para uso o consumo
+
+de dichas especies $2,175.88
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -6803,19 +6799,9 @@ finalmente no certificada $372.08 $372
 
 Por la expedición de cada certificado de sanidad acuícola, se pagará el derecho de certificación de sanidad acuícola, conforme a las siguientes cuotas:
 
-I. Para importación de especies
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-acuáticas, sus productos y
-
-subproductos, así como de
-
-productos biológicos, químicos,
-
-farmacéuticos o alimenticios para
-
-uso o consumo de
-
-dichas especies $2,108.41 $2,108
+I. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2016)
 
 II. Para exportación de especies
 
@@ -8311,11 +8297,11 @@ b).- Personal de tierra $484.07 $484
 
 III.- Por reposición de la licencia $484.07 $484
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-No se pagará el derecho a que se refiere la fracción II de este artículo por la revalidación de licencias al personal técnico aeronáutico de la Secretaría de Comunicaciones y Transportes.
+No se pagarán los derechos a que se refieren las fracciones I y II de este artículo cuando los servicios correspondientes sean solicitados por el personal técnico aeronáutico de la Secretaría de Comunicaciones y Transportes.
 
 > <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
 
@@ -10505,17 +10491,21 @@ I. Por la expedición del título de concesión $29,582.17 $29,582
 
 II. Por la prórroga $12,520.82 $12,521
 
-Cuando la explotación de los servicios objeto de la concesión de bandas de frecuencias a las que se refieren los apartados A, B, fracciones I y II y C, requiera el otorgamiento de un título de concesión única, en términos del artículo 75 de la Ley Federal de Telecomunicaciones y Radiodifusión, el pago de derechos correspondiente al de bandas de frecuencias, comprenderá la expedición de la concesión única respectiva.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+Cuando la explotación de los servicios objeto de la concesión de bandas de frecuencias o recursos orbitales a los que se refieren los apartados A, B, fracciones I y II y C, requiera el otorgamiento de un título de concesión única, en términos del artículo 75 de la Ley Federal de Telecomunicaciones y Radiodifusión, el pago de derechos correspondiente al de bandas de frecuencias o recursos orbitales, comprenderá la expedición de la concesión única respectiva.
 
 Los estudios de solicitudes y, en su caso, la expedición de título o prórroga de concesiones o de autorizaciones de bandas de frecuencias que vayan a ser utilizadas por embajadas o durante las visitas al país de jefes de estado y misiones diplomáticas extranjeras, cuyas autorizaciones sean gestionadas por conducto de las embajadas en el país o por la Secretaría de Relaciones Exteriores, estarán exentas del pago del derecho previsto en este artículo.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 173-A.
+###### ARTÍCULO 173-A.
 
-Por el estudio de la solicitud y, en su caso, la autorización de arrendamiento de bandas de frecuencias concesionadas para uso comercial o privado, en este último caso con propósitos de comunicación privada, se pagarán derechos conforme a la cuota de $11,923.41 $11,923
+Por el estudio de la solicitud y, en su caso, la autorización de arrendamiento y subarrendamiento de bandas de frecuencias concesionadas para uso comercial o privado, en este último caso con propósitos de comunicación privada, se pagarán derechos conforme a la cuota de 11,923.41
 
 > <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
 
@@ -10561,35 +10551,67 @@ a). Por la expedición del título de concesión $16,911.01 $16,911
 
 b). Por la prórroga $7,481.90 $7,482
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
+> <small>[N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.]</small>
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTICULO 174-C.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-Por el estudio y, en su caso, la autorización de las solicitudes de modificaciones técnicas, administrativas, operativas y legales de los títulos de concesión en materia de telecomunicaciones y radiodifusión, se pagarán derechos conforme a las siguientes cuotas:
+###### ARTÍCULO 174-C.
+
+Por el estudio y, en su caso, la autorización de las solicitudes de modificaciones técnicas, administrativas, operativas y legales de los títulos de concesión en materia de telecomunicaciones y radiodifusión, o cualquier otra autorización relacionada con las características citadas, se pagarán derechos conforme a las siguientes cuotas:
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 I. Por la acreditación de representantes o apoderados, después de los primeramente designados $1,365.18 $1,365
 
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
 II. Por el cambio de la titularidad por cesión de derechos $14,816.10 $14,816
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 III. Por reformas a los estatutos sociales $2,955.81 $2,956
 
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
 IV. Por la prestación de un servicio adicional para concesiones que hagan uso del espectro radioeléctrico $18,686.30 $18,686
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 V. Por la prestación de un servicio adicional para concesiones que no hagan uso del espectro radioeléctrico $6,832.24 $6,832
 
-VI. Por la ampliación de plazos para el cumplimiento de obligaciones establecidas en el título de concesión $1,040.43 $1,040
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+VI. Por la ampliación de plazos para el cumplimiento de obligaciones establecidas en el título de concesión o autorizaciones $1,040.43
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 VII. Por cualquier supuesto de suscripción o enajenación de acciones o partes sociales que requiera autorización en términos de la Ley Federal de Telecomunicaciones y Radiodifusión $10,670.82 $10,671
 
-VIII. Por las modificaciones a cada estación de radiodifusión que requiera de estudio técnico, tales como potencia, ubicación de planta transmisora, instalación y operación de equipo complementario de zona de sombra y cambio de altura del centro eléctrico o soporte estructural $9,930.05 $9,930
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IX. Por las modificaciones a cada estación de radiodifusión que no requiera de estudio técnico, tales como cambio de equipo transmisor principal o auxiliar, ubicación de estudios, horario de operación, distintivo de llamada $5,431.25 5,431
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+VIII. Por las modificaciones a cada estación de radiodifusión que requiera de estudio técnico, tales como potencia, ubicación de planta transmisora, instalación y operación de equipo complementario de zona de sombra y cambio de altura del centro eléctrico $9,930.05
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+IX. Por las modificaciones a cada estación de radiodifusión que no requiera de estudio técnico, tales como horario de operación, distintivo de llamada y autorización de transmisiones digitales $5,431.25
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 X. Por el cambio de canal, frecuencias, bandas de frecuencias o recursos orbitales $11,952.32 $11,952
 
-XI. Por la instalación y operación de un equipo complementario de zona de sombra, un canal adicional u operación intermitente para la televisión digital terrestre $9,930.05 $9,930
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XI. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2016)
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 XII. Por la transición a concesión única o la consolidación de una o más concesiones para instalar, operar y explotar una red pública de telecomunicaciones $11,253.59 $11,254
 
@@ -10729,21 +10751,33 @@ II. Por Exámenes $606.29 $606
 
 III. Por Revalidación $878.17 $878
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 174-L.
+###### ARTÍCULO 174-L.
 
-Para los efectos de los artículos 173, 174-B y 174-C, se estará a lo siguiente:
+Para los efectos de los artículos 173, 174-A, 174-B y 174-C, se estará a lo siguiente:
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 I. Tratándose de las concesiones para uso público y social, previstas en el artículo 173, se pagará el 20% de las cuotas establecidas en el apartado C del mismo.
 
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
+
 II. Tratándose de las concesiones para uso social, previstas en el artículo 174-B, se pagará el 20% de las cuotas establecidas en la fracción II del mismo.
 
-III. No se pagarán los derechos a que se refieren los artículos 173 y 174-B, cuando el servicio se vincule a concesiones para uso social comunitario o indígena.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+III. No se pagarán los derechos a que se refieren los artículos 173, 174-A y 174-B, cuando el servicio se vincule a concesiones para uso social comunitario o indígena.
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 IV. Tratándose de las modificaciones de concesiones para uso público y social previstas en el artículo 174-C, se pagará el 50% de las cuotas establecidas en el mismo, según corresponda.
+
+> <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
 V. Tratándose de las modificaciones de concesiones para uso social comunitario o indígena, previstas en el artículo 174-C, se pagará el 20% de las cuotas establecidas en el mismo, según corresponda.
 
@@ -11571,9 +11605,9 @@ a).- En curso de verano $159.85 $160
 
 b).- En curso de regularización $159.85 $160
 
-c).- Cursos de capacitación para el
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-trabajo industrial $461.18 $461
+c).- (DEROGADO, D.O.F. 7 DE DICIEMBRE DE 2016)
 
 XXV.- Materias libres para alumnos
 
@@ -11583,9 +11617,13 @@ XXVI.- Expedición de duplicado de
 
 credencial de la preparatoria abierta $37.03 $37
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXVII. (DEROGADA, D.O.F. 12 DE DICIEMBRE DE 2011)
+> <small>(ADICIONADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+XXVII. Por hora de capacitación
+
+para el trabajo industrial 7.35
 
 ### CAPITULO XI. De la Secretaría de la Reforma Agraria
 
@@ -14085,11 +14123,17 @@ directo o indirecto, para la salud
 
 humana $ 1,017.89 $ 1,018
 
-V.- Sobre pozos de agua para
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-abastecimiento privado, para
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-determinar su calidad sanitaria $ 5,410.40 $ 5,410
+V. Sobre sistemas de abastecimiento
+
+de agua privados, para determinar
+
+la condición sanitaria de las
+
+instalaciones hidráulicas $5,410.40
 
 VI.- Sobre la calidad sanitaria
 
@@ -16823,7 +16867,11 @@ II.- El 3.5% anual del valor del inmueble concesionado o permisionado, cuando se
 
 III.- El 2% anual del valor del inmueble concesionado o permisionado, cuando en el inmueble se realicen actividades agropecuarias.
 
-Para los efectos de las fracciones I, II y III que anteceden, el valor del inmueble se determinará conforme a un avalúo que emita la Comisión de Avalúos de Bienes Nacionales, mismo que será actualizado anualmente en términos de lo dispuesto en el artículo 17-A del Código Fiscal de la Federación.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos de las fracciones I, II y III que anteceden, el valor del inmueble se determinará conforme a un avalúo que emita el Instituto de Administración y Avalúos de Bienes Nacionales, mismo que será actualizado anualmente en términos de lo dispuesto en el artículo 17-A del Código Fiscal de la Federación.
 
 Cada cinco años como máximo deberá realizarse un nuevo avalúo, si el término de la concesión o permiso excede del periodo mencionado. Dicho avalúo únicamente deberá considerar el inmueble como originalmente se concesionó o permisionó, sin incluir las mejoras y adiciones que se hubieren efectuado durante la concesión o el permiso.
 
@@ -16889,35 +16937,7 @@ consista en la realización
 
 de actividades de acuacultura.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-VIII.- Por instalaciones de telecomunicación:
-
-a).- En espacios cerrados, por cada
-
-metro cuadrado o fracción,
-
-mensualmente $678.46 $678
-
-b).- En espacios abiertos, mensualmente:
-
-1.- Por cada antena instalada $326.39 $326
-
-2.- Por cada torre instalada $678.46 $678
-
-c).- Por el uso del derecho de vía de
-
-las carreteras, vías férreas y puentes
-
-de jurisdicción federal con las
-
-instalaciones de ductos o cableados
-
-de redes públicas de
-
-telecomunicaciones, anualmente,
-
-por cada kilómetro o fracción $491.76 $492
+VIII. (DEROGADA, D.O.F. 7 DE DICIEMBRE DE 2016)
 
 IX.- Por los espacios dentro de
 
@@ -16989,9 +17009,11 @@ c).- Las empresas contratistas y arrendadoras financieras que ejecuten obras den
 
 d).- Las instituciones de crédito que proporcionen a las dependencias del Gobierno Federal, los servicios bancarios de consulta, depósito y retiro de los montos de las cuentas del personal que labore en dichos inmuebles, mediante el servicio de cajeros automáticos, por el espacio que ocupen dichos cajeros en los inmuebles del Gobierno Federal o de sus organismos descentralizados.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2003)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-e).- Los auxiliares de Tesorería de la Federación a que se refiere la fracción III del artículo 5o. de la Ley del Servicio de Tesorería de la Federación, que presten el servicio de cajas recaudadoras de contribuciones federales, por el espacio que ocupen dichos auxiliares dentro de los inmuebles de la Federación o de los organismos descentralizados de la Administración Pública Federal Paraestatal, así como por el equipo que instalen dentro de los inmuebles señalados.
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+e). Las instituciones de crédito y entidades financieras que sean autorizadas para funcionar como auxiliares conforme a lo dispuesto por la Ley de Tesorería de la Federación y que realicen la función de recaudación de contribuciones federales, por el espacio que ocupen dichos auxiliares dentro de los inmuebles de la Federación o de los organismos descentralizados de la Administración Pública Federal Paraestatal, así como por el equipo que instalen dentro de los inmuebles señalados.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -17143,11 +17165,11 @@ ZONA IX. Estado de Baja California Sur: La Paz; Estado de Guerrero: José Azueta
 
 ZONA X. Estado de Baja California Sur: Los Cabos; Estado de Guerrero: Acapulco de Juárez; Estado de Jalisco: Puerto Vallarta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE ZONA, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE ZONA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA, D.O.F. 13 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quintana Roo: Benito Juárez, Solidaridad y Tulum.
+ZONA XI. Subzona A. Estado de Quintana Roo: Cozumel. Subzona B. Estado de Quintana Roo: Benito Juárez, Puerto Morelos, Solidaridad y Tulum.
 
 > <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO NÚMERO 19 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 23 DE DICIEMBRE DE 2015.</small>
 
@@ -18975,23 +18997,23 @@ El pago del derecho señalado en este artículo, se efectuará con independencia
 
 El Servicio de Administración Tributaria podrá expedir las disposiciones de carácter general necesarias para la correcta y debida aplicación de este artículo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 271.
 
 El Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros se integrará con los recursos por derechos sobre minería a que se refieren los artículos 268, 269 y 270 de esta Ley y deberán ser empleados en inversión física con un impacto social, ambiental y de desarrollo urbano positivo, incluyendo:
 
-I. La construcción, remodelación y equipamiento de centros escolares;
+I. La construcción, remodelación y equipamiento de centros escolares, así como de espacios públicos urbanos;
 
-II. Pavimentación y mantenimiento de calles y caminos locales, así como la instalación y mantenimiento de alumbrado público;
+II. Obras de pavimentación y mantenimiento de calles y caminos locales, de instalación y mantenimiento de alumbrado público, respetuosas con el ambiente, así como de servicios públicos basados en la eficiencia energética y las energías renovables;
 
-III. Rellenos sanitarios, plantas de tratamiento de agua, instalación y mantenimiento de obras de drenaje público, manejo de residuos sólidos, y mejora de calidad del aire;
+III. Obras de infraestructura para la protección ambiental, como rellenos sanitarios, plantas de tratamiento de agua, instalación y mantenimiento de obras de drenaje público, manejo integral de residuos sólidos urbanos, mejora y monitoreo de calidad del aire, agua y suelo, así como para el suministro de agua potable;
 
-IV. Obras que preserven áreas naturales, como por ejemplo, reforestación y rescate o rehabilitación de ríos y otros cuerpos de agua, y
+IV. Obras que preserven áreas naturales, como por ejemplo protección, restauración, rescate o rehabilitación de ecosistemas acuáticos y terrestres, y para la conservación y aprovechamiento sustentable de la vida silvestre, y
 
-V. Obras que afecten de manera positiva la movilidad urbana, incluyendo sistemas de trenes suburbanos, metrocable de transporte o equivalentes.
+V. Obras que afecten de manera positiva la movilidad urbana, incluyendo sistemas de trenes suburbanos, metrocable de transporte o equivalentes, o cualquier otro sistema de transporte público respetuoso con el ambiente y de bajas emisiones de carbono.
 
 ###### ARTICULO 272.
 
@@ -19005,21 +19027,41 @@ V. Obras que afecten de manera positiva la movilidad urbana, incluyendo sistemas
 
 (DEROGADO, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 275.
 
-Los Estados y el Distrito Federal participarán en los ingresos de los derechos sobre minería a que se refieren los artículos 263 y 267 de esta Ley, en los términos de la Ley de Coordinación Fiscal.
+Los Estados y la Ciudad de México participarán en los ingresos de los derechos sobre minería a que se refiere el artículo 263 de esta Ley, en los términos de la Ley de Coordinación Fiscal.
 
-Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, y se destinará en un 80% al Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, el cual se distribuirá, en un 62.5% a los municipios y demarcaciones del Distrito Federal en los que tuvo lugar la explotación y obtención de sustancias minerales y el 37.5% restante a la entidad federativa correspondiente, a fin de que se apliquen en términos de lo dispuesto por el artículo 271 de esta Ley.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos del artículo 2o. de la Ley de Coordinación Fiscal, no se incluirá en la recaudación federal participable, la recaudación total que se obtenga de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, y se destinará en un 77.5% al Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, el cual se distribuirá, en un 62.5% a los municipios y demarcaciones territoriales de la Ciudad de México en los que tuvo lugar la explotación y obtención de sustancias minerales y el 37.5% restante a la entidad federativa correspondiente, a fin de que se apliquen en términos de lo dispuesto por el artículo 271 de esta Ley, y en un 2.5% a la Secretaría de Desarrollo Agrario, Territorial y Urbano para desempeñar las funciones encomendadas en el presente Capítulo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.]</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 La distribución de estos recursos entre los municipios y demarcaciones del Distrito Federal, y entre las entidades federativas correspondientes, se determinará con base en el porcentaje del valor de la actividad extractiva del municipio o demarcación del Distrito Federal correspondiente, respecto del valor total de la actividad extractiva en el territorio nacional, de acuerdo al registro estadístico de producción minera que para tales efectos elabore la Secretaría de Economía en el año que corresponda.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.]</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
 Para aplicar los recursos del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, se conformará en cada entidad federativa un Comité de Desarrollo Regional para las Zonas Mineras, el cual estará integrado por un representante de la Administración Pública Federal, en este caso, por parte del titular de la Secretaría de Desarrollo Agrario, Territorial y Urbano a cargo del Comité; un representante del Gobierno del Estado o del Distrito Federal; un representante del o de los municipios o demarcaciones en donde se localicen las actividades mineras; en los casos en donde éstas se realicen en comunidades indígenas o agrarias, un representante de dichas comunidades, así como un representante de las empresas mineras relevantes con actividades en la demarcación.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.]</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
+
 Los ingresos que obtenga el Gobierno Federal derivado de la aplicación de los derechos a que se refieren los artículos 268, 269 y 270 de esta Ley, se destinaran a programas de infraestructura aprobados en el Presupuesto de Egresos de la Federación del ejercicio que corresponda.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.]</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE DICIEMBRE DE 2013)</small>
 
 Con periodicidad trimestral, las entidades federativas deberán publicar, entre otros medios, a través de su página oficial de Internet, y entregar a la Secretaría de Hacienda y Crédito Público, la información relativa a los montos que reciban, el ejercicio y destino del Fondo para el Desarrollo Regional Sustentable de Estados y Municipios Mineros, desagregándola en términos de la Ley General de Contabilidad Gubernamental.
 
@@ -24958,3 +25000,33 @@ I. Estar al corriente en el pago y demás obligaciones fiscales en materia de lo
 II. Llenar y mantener actualizada toda la información en el Padrón Único de Usuarios y Contribuyentes, y
 
 III. No tener créditos fiscales determinados pendientes de pago o, en caso de haber sido impugnados en algún medio de defensa, estén totalmente garantizados.
+
+D.O.F. 7 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS".]
+
+Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2017, salvo la derogación del artículo 232, fracción VIII de esta Ley, la cual entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Durante el año 2017, en materia de derechos se aplicarán las siguientes disposiciones:
+
+I. Por el registro de título de técnico o profesional técnico expedidos por Instituciones del Sistema Educativo Nacional que impartan educación del tipo medio superior, así como la expedición de la respectiva cédula profesional, se pagará el 30% del monto que corresponda en términos de las fracciones IV y IX del artículo 185 de la Ley Federal de Derechos.
+
+II. Las entidades financieras sujetas a la supervisión de la Comisión Nacional Bancaria y de Valores a que se refiere el artículo 29-D de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2017, con excepción de las instituciones de banca múltiple, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-D, podrán pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2016 hubieren optado por pagar para el referido ejercicio fiscal, más el 3% de dicha cuota. En ningún caso los derechos a pagar para el ejercicio fiscal de 2017 por concepto de inspección y vigilancia, podrán ser inferiores a la cuota mínima establecida para cada sector para el ejercicio fiscal de 2017, conforme a lo previsto en el propio artículo 29-D.
+
+Las entidades financieras a que se refiere el artículo 29-D, fracciones I, III, V, VI, VIII, IX, XI, XIII, XV, XVIII y XIX de la Ley Federal de Derechos que se hayan constituido en el ejercicio fiscal de 2016, podrán pagar la cuota mínima correspondiente para el ejercicio fiscal de 2017 conforme a las citadas fracciones del artículo 29-D, en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en tales fracciones de la referida Ley.
+
+Tratándose de las casas de bolsa, para determinar la cuota mínima correspondiente al ejercicio fiscal de 2017 para los efectos de la opción a que se refieren los párrafos anteriores, se considerará como capital mínimo requerido para funcionar como casa de bolsa el equivalente en moneda nacional a tres millones de unidades de inversión.
+
+III. Las instituciones de banca múltiple a que se refiere el artículo 29-D, fracción IV de la Ley Federal de Derechos, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere dicha fracción, podrán optar por pagar la cuota que de conformidad con las disposiciones vigentes en el ejercicio fiscal de 2016 hubieren optado por pagar para dicho ejercicio fiscal, más el 10% del resultado de la suma de los incisos a) y b) de la propia fracción IV del citado artículo 29-D. En ningún caso los derechos a pagar podrán ser inferiores a la cuota mínima establecida para dicho sector para el ejercicio fiscal de 2017, conforme a lo previsto en la mencionada fracción IV del artículo 29-D.
+
+Las entidades financieras a que se refiere el párrafo anterior que se hayan constituido en el ejercicio fiscal de 2016, podrán optar por pagar la cuota mínima para el ejercicio fiscal de 2017 conforme a la citada fracción del referido artículo 29-D en lugar de pagar el derecho por concepto de inspección y vigilancia en términos de lo dispuesto en dicha fracción.
+
+IV. Las bolsas de valores a que se refiere el artículo 29-E, fracción III de la Ley Federal de Derechos vigente para el ejercicio fiscal de 2017, en lugar de pagar el derecho por concepto de inspección y vigilancia a que se refiere el citado artículo 29-E, fracción III, podrán optar por pagar la cantidad equivalente en moneda nacional que resulte de multiplicar 1% por su capital contable. En caso de ejercer la opción a que se refiere el presente artículo, las bolsas de valores deberán estarse a lo dispuesto por el artículo 29-K, fracción II de la Ley Federal de Derechos.
+
+V. Cuando los contribuyentes ejerzan la opción de pagar los derechos por concepto de inspección y vigilancia en los términos previstos por las fracciones II a IV de este artículo y realicen el pago anual durante el primer trimestre del ejercicio fiscal de 2017, no les será aplicable el descuento del 5% establecido en la fracción I del artículo 29-K de la Ley Federal de Derechos.
+
+VI. Los mexicanos que deseen obtener testamento público abierto en una oficina consular en el extranjero, pagarán el 50% del monto que corresponda en términos de la fracción III del artículo 23 de la Ley Federal de Derechos.
+
+VII. Los usuarios de las bandas del espectro radioeléctrico dedicadas a actividades de seguridad nacional, que a la entrada en vigor del presente Decreto tengan adeudos por concepto de créditos fiscales derivados de la causación del derecho por el uso del espectro radioeléctrico a que se refiere el artículo 239, quinto y sexto párrafos de la Ley Federal de Derechos, generados durante los ejercicios fiscales de 2015 y 2016, como consecuencia de las reformas a dicho precepto, efectuadas mediante el "Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley del Impuesto al Valor Agregado; de la Ley del Impuesto Especial sobre Producción y Servicios; de la Ley Federal de Derechos, se expide la Ley del Impuesto sobre la Renta, y se abrogan la Ley del Impuesto Empresarial a Tasa Única, y la Ley del Impuesto a los Depósitos en Efectivo, publicado en el Diario Oficial de la Federación el 11 de diciembre de 2013", podrán obtener la condonación de los créditos fiscales a su cargo, correspondientes a las bandas de frecuencias del espectro radioeléctrico a las que hayan renunciado, siempre y cuando estén al corriente en el pago de los derechos por el uso del espectro radioeléctrico correspondientes al ejercicio fiscal de 2017 por las bandas de frecuencia que utilizan.
+
+Para obtener la condonación a que se refiere el párrafo anterior, el concesionario deberá informar al Instituto Federal de Telecomunicaciones las bandas de frecuencia renunciadas y adjuntar el comprobante de pago de derechos por el uso del espectro radioeléctrico por las concesiones, permisos o asignaciones que conservan correspondiente al ejercicio fiscal de 2017, mismos que deberán presentarse a más tardar el último día hábil del mes de marzo de dicho ejercicio fiscal.
