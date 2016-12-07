@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-secretariado-ejecutivo-del-sistema-7753
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-10-23"
-last_updated: "2010-10-23"
+last_updated: "2016-12-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE TABASCO
 
-REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA DEL ESTADO DE TABASCO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 7 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 23 de octubre de 2010.
 
@@ -469,7 +471,7 @@ Corresponde al Director del Centro de Evaluación y Control de Confianza, guarda
 
 El Centro de Evaluación y Control de Confianza, contará con los elementos técnicos suficientes para la toma de decisiones y tendrá autonomía técnica y será supervisado por la Comisión Permanente de Certificación y Acreditación que determine el Consejo.
 
-### CAPÍTULO XI. DE LA UNIDAD ACCESO (SIC) A LA INFORMACIÓN
+### CAPÍTULO XI. DE LA UNIDAD (SIC) ACCESO A LA INFORMACIÓN
 
 ###### Artículo 20.
 
@@ -516,3 +518,21 @@ SECRETARIO DE GOBIERNO
 LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL SECRETARIADO EJECUTIVO DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública del Estado de Tabasco, publicado el 23 de octubre de 2010, en el Suplemento "E", al Periódico Oficial del Estado número 7109.
+
+TERCERO. Se derogan las disposiciones jurídicas y administrativas que se opongan al presente Reglamento.
+
+CUARTO. Los asuntos pendientes al entrar en vigor el presente Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra, continuarán su trámite y serán resueltos por aquella o aquellas a las que a partir de la vigencia de este reglamento se les haya otorgado competencia.
+
+QUINTO. Para mejor desempeño, el Secretariado Ejecutivo deberá elaborar su Manual de Organización y el Manual de Procedimientos con base en las funciones y atribuciones conferidas en el presente Reglamento.
+
+SEXTO. En tanto se expidan los manuales señalados en el transitorio que antecede, el Secretario Ejecutivo queda facultado para resolver las cuestiones que conforme a los mismos se deba regular.
