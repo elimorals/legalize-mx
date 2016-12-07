@@ -4,7 +4,7 @@ identifier: "LIH"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-08-11"
-last_updated: "2016-04-01"
+last_updated: "2016-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,9 +24,7 @@ abbreviation: "LIH"
 
 LEY DE INGRESOS SOBRE HIDROCARBUROS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE LEY VÉASE ARTÍCULO SEGUNDO DE LAS DISPOSICIONES TRANSITORIAS.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección de la Edición Vespertina del Diario Oficial de la Federación, el lunes 11 de agosto de 2014.
 
@@ -94,7 +92,9 @@ VIII. Fondo Mexicano del Petróleo: el Fondo Mexicano del Petróleo para la Esta
 
 IX. Límite de Recuperación de Costos: el resultado de multiplicar el Porcentaje de Recuperación de Costos por el Valor Contractual de los Hidrocarburos. El producto de dicha multiplicación determinará la proporción máxima del Valor Contractual de los Hidrocarburos que podrá destinarse en cada Periodo a la recuperación de costos;
 
-X. Mecanismo de Ajuste: fórmula que establece la Secretaría en cada Contrato, que a partir de la rentabilidad en cada Periodo del Contratista, aumenta las Contraprestaciones a favor del Estado, mediante la modificación de alguno de los parámetros que determinan las Contraprestaciones del Contrato. La aplicación del Mecanismo de Ajuste tiene el propósito de que el Estado Mexicano capture la rentabilidad extraordinaria que, en su caso, se genere por el Contrato;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+X. Mecanismo de Ajuste: fórmula que establece la Secretaría en cada Contrato que aumenta las Contraprestaciones a favor del Estado, mediante la modificación de alguno de los parámetros que determinan las Contraprestaciones del Contrato. La aplicación del Mecanismo de Ajuste tiene el propósito de que el Estado Mexicano capture la rentabilidad extraordinaria que, en su caso, se genere por el Contrato;
 
 XI. Periodo: mes calendario.
 
@@ -174,9 +174,11 @@ Las Contraprestaciones señaladas en las fracciones II, III y IV del apartado A 
 
 En la migración de áreas bajo Asignación al esquema de Contrato de licencia en términos de la Ley de Hidrocarburos, la Secretaría determinará los términos económicos a que se refiere el apartado A del artículo 6 de esta Ley, cuidando que los ingresos a través del tiempo para el Estado no sean inferiores a los que se hubieran obtenido bajo la Asignación original.
 
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 10.
 
-Con el propósito de permitir al Estado Mexicano capturar la rentabilidad extraordinaria que en su caso se genere por la Extracción de los Hidrocarburos, la tasa a que se refiere la fracción IV del apartado A del artículo 6 de esta Ley será modificada a través del Mecanismo de Ajuste que se incluirá en el Contrato y en las bases de la licitación para su adjudicación o en los Contratos que sean resultado de una migración.
+Con el propósito de permitir al Estado Mexicano capturar la rentabilidad extraordinaria que en su caso se genere por la Extracción de los Hidrocarburos, la tasa o el monto que resulte de la contraprestación a que se refiere la fracción IV del apartado A del artículo 6 de esta Ley se modificará a través del Mecanismo de Ajuste que se incluirá en el Contrato y en las bases de la licitación para su adjudicación o en los Contratos que sean resultado de una migración.
 
 #### Sección Segunda. De las Contraprestaciones en los Contratos de Utilidad Compartida y de Producción Compartida
 
@@ -486,11 +488,15 @@ a) Nombren a uno de los integrantes del consorcio como operador para realizar op
 
 b) Los integrantes del consorcio acepten que los comprobantes fiscales que se emitan por los gastos que se realicen para el desarrollo de las actividades necesarias para la ejecución del Contrato, sean expedidos a nombre del operador, y
 
-c) Reflejen el porcentaje de la participación que le corresponda a cada integrante del consorcio, el cual deberá ser congruente con el Contrato;
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+c) Reflejen el porcentaje de la participación que le corresponda a cada integrante del consorcio y establezcan los mecanismos mediante los cuales dicha participación pudiera variar durante la vigencia del Contrato;
 
 II. El operador deberá entregar a cada integrante del consorcio una relación de las operaciones que realice al amparo del Contrato, debiendo conservar copia de la misma, así como un duplicado de los comprobantes con requisitos fiscales que le hayan expedido, los que deberán coincidir con dicha relación;
 
-III. El operador expedirá los comprobantes fiscales a los integrantes del consorcio que amparen los gastos realizados derivado de la ejecución del Contrato en la proporción que corresponda a su participación en el Contrato;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+III. El operador expedirá los comprobantes fiscales a los integrantes del consorcio que amparen los gastos realizados en cada Periodo derivado de la ejecución del Contrato que efectivamente haya cubierto cada integrante del consorcio;
 
 IV. El operador deberá proporcionar, a más tardar el día 15 de febrero de cada año, a la autoridad fiscal, la información de las operaciones realizadas en el ejercicio inmediato anterior por cuenta de los integrantes del consorcio, identificando por cada uno la parte proporcional que les corresponda del total de las operaciones efectuadas;
 
@@ -498,7 +504,9 @@ V. Los integrantes del consorcio podrán deducir, en forma individual, la parte 
 
 VI. No se considerará como ingreso acumulable para el operador, las cantidades que se perciban para efectuar gastos por cuenta de los integrantes del consorcio, siempre y cuando dichas cantidades se encuentren respaldadas con los comprobantes fiscales que expida el operador a cada uno de los integrantes del consorcio en términos de la fracción III anterior;
 
-VII. El operador sólo podrá deducir la parte proporcional que le corresponda, conforme a su participación en el consorcio, del importe total amparado en los comprobantes que le sean expedidos en términos de la fracción I, inciso b), anterior;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+VII. El operador sólo podrá deducir la parte proporcional del importe total amparado en los comprobantes que le sean expedidos en términos de la fracción I, inciso b), anterior, que corresponda a los gastos que efectivamente haya cubierto en cada Periodo;
 
 VIII. Los integrantes del consorcio podrán optar por recibir cada uno, en la proporción que les corresponda dentro del consorcio, las Contraprestaciones que de acuerdo al Contrato deban cubrirse al Contratista, o que las Contraprestaciones sean entregadas al operador para que éste las distribuya entre los integrantes del consorcio en las proporciones respectivas.
 
@@ -626,9 +634,13 @@ Para efectos del cálculo del derecho por la utilidad compartida, no serán dedu
 
 Asimismo, el monto de la deducción por concepto de los costos, gastos e inversiones deducibles de las fracciones I a IV del artículo 40 de esta Ley, en ningún caso será mayor a los siguientes montos:
 
-I. 12.500% del valor anual de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas terrestres;
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-II. 12.500% del valor anual de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas marítimas con tirante de agua inferior a quinientos metros;
+I. Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas terrestres, el monto que resulte mayor de entre 12.500% del valor anual de los Hidrocarburos, y 8.30 dólares de los Estados Unidos de América por Barril de petróleo crudo equivalente extraído en el periodo de que se trate;
+
+> <small>(REFORMADA, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+II. Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas marítimas con tirante de agua inferior a quinientos metros, el monto que resulte mayor de entre 12.500% del valor anual de los Hidrocarburos, y 6.10 dólares de los Estados Unidos de América por Barril de petróleo crudo equivalente extraído en el periodo de que se trate;
 
 III. 80% del valor anual del Gas Natural No Asociado incluyendo, en su caso, el valor anual de los Condensados extraídos de campos de Gas Natural No Asociado;
 
@@ -638,21 +650,33 @@ V. 60% del valor anual de los Hidrocarburos distintos al Gas Natural No Asociado
 
 La parte deducible de los gastos, costos e inversiones conforme a las fracciones I a IV del artículo 40 de esta Ley que rebase el monto máximo de deducción conforme al párrafo anterior, se podrá deducir en los ejercicios inmediatos posteriores a aquél al que correspondan de conformidad con las disposiciones de carácter general que al efecto emita la Secretaría, sin que dicha deducción pueda aplicarse en la determinación de los derechos relativos a otra región conforme la clasificación contenida en la fracción X del artículo 48 de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos de las fracciones I y II de este artículo se considerará como Barril de petróleo crudo equivalente a la suma del volumen de Petróleo y Condensados extraídos en Barriles más el volumen de Gas Natural extraído en millones de BTU dividido entre el factor de 5.15.
+
 ###### Artículo 42.
 
 A cuenta del derecho a que se refiere el artículo 39 de esta Ley se harán pagos provisionales mensuales, a más tardar el último día hábil del mes posterior a aquél a que correspondan los pagos provisionales, aplicando la tasa establecida en el primer párrafo del artículo 39 al valor de los Hidrocarburos extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, disminuyéndose de dicho valor los siguientes conceptos:
 
 I. Los costos, gastos y la parte proporcional de las inversiones correspondientes al mismo periodo conforme a lo dispuesto en el artículo 40 de esta Ley, sin que excedan de los montos máximos en los siguientes términos:
 
-a) 12.500% del valor de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, en áreas terrestres;
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
 
-b) 12.500% del valor de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, en áreas marítimas con tirante de agua inferior a quinientos metros;
+a) Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en áreas terrestres en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, el monto que resulte mayor de entre 12.500% del valor de los Hidrocarburos, y 8.30 dólares de los Estados Unidos de América por Barril de petróleo crudo equivalente extraído en el periodo de que se trate;
+
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+b) Tratándose de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados extraídos en áreas marítimas con tirante de agua inferior a quinientos metros en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, el monto que resulte mayor de entre 12.500% del valor de los Hidrocarburos, y 6.10 dólares de los Estados Unidos de América por Barril de petróleo crudo equivalente extraído en el periodo de que se trate;
 
 c) 80% del valor del Gas Natural No Asociado incluyendo, en su caso, el valor anual de los Condensados extraídos, en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, de campos de Gas Natural No Asociado;
 
 d) 60% del valor de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, en áreas marítimas con tirante de agua superior a quinientos metros, y
 
 e) 60% del valor de los Hidrocarburos distintos al Gas Natural No Asociado y sus Condensados, extraídos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponda el pago, en el Paleocanal de Chicontepec;
+
+> <small>(ADICIONADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos de los incisos a) y b) de esta fracción se considerará como Barril de petróleo crudo equivalente a la suma del volumen de Petróleo y Condensados extraídos en Barriles más el volumen de Gas Natural extraído en millones de BTU dividido entre el factor de 5.15.
 
 La parte proporcional del monto deducible de la inversión, que se efectuará en el por ciento que represente el número de meses completos en los que el bien o bienes objeto de la inversión hayan sido utilizados por el Asignatario respecto de doce meses, en la proporción que el número de meses comprendidos desde el inicio del ejercicio y hasta el último día del mes del periodo al que corresponda el pago, representen en el total de meses comprendidos en el año, y
 
@@ -1038,9 +1062,11 @@ Para tal fin, la Secretaría y la Secretaría de Energía crearán anualmente la
 
 En los casos en que derivado de resolución administrativa o penal firme se haya demostrado la actuación dolosa o de mala fe del servidor público, o la comisión de actos ilícitos, se cancelarán de manera definitiva los apoyos y se procederá en términos de las disposiciones legales aplicables para exigir el reintegro de los apoyos que hubieran sido pagados.
 
+> <small>(REFORMADO, D.O.F. 7 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 63.
 
-La Secretaría podrá instruir al Servicio de Administración Tributaria la realización de las auditorías a que se refiere la fracción VII del apartado B del artículo 37 de esta Ley.
+La Secretaría podrá instruir al Servicio de Administración Tributaria la realización de las auditorías y visitas a que se refiere la fracción VII del apartado B del artículo 37 de esta Ley.
 
 ###### Artículo 64.
 
@@ -1120,4 +1146,14 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 
 RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 1 DE ABRIL DE 2016.
 
-> <small>[N. DE E. VÉASE ANEXO 27 PUBLICADO EN EL D.O.F. DE 1 DE ABRIL DE 2016, PÁGINA 54, EN "PRIMERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016 Y SUS ANEXOS 1-A, 23 Y 27".]</small>
+> <small>[N. DE E. VÉASE ANEXO 27 PUBLICADO EN EL D.O.F. DE 1 DE ABRIL DE 2016, PÁGINA 54, EN “PRIMERA RESOLUCIÓN DE MODIFICACIONES A LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016 Y SUS ANEXOS 1-A, 23 Y 27”.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 7 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INGRESOS SOBRE HIDROCARBUROS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Respecto de los montos máximos de deducción por concepto de costos, gastos e inversiones, previstos en los artículos 41, segundo párrafo, fracciones I y II y 42, fracción I, incisos a) y b) de la Ley de Ingresos sobre Hidrocarburos, durante los ejercicios fiscales de 2017 y 2018, continuará aplicando el régimen de transición previsto en el artículo Segundo, fracción VII del Decreto por el que se expide la Ley de Ingresos sobre Hidrocarburos, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos y de la Ley de Coordinación Fiscal y se expide la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, publicado el 11 de agosto de 2014 en el Diario Oficial de la Federación.
