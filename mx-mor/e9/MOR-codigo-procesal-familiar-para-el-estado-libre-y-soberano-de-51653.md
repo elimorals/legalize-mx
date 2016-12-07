@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2016-11-30"
+last_updated: "2016-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2016.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1475,9 +1475,7 @@ Si se trata de persona moral en el domicilio social, y en sus oficinas o princip
 
 El notificador deberá cerciorarse de que el señalamiento reúne estas circunstancias antes de hacerlo, pudiendo ser autorizado para notificarlo personalmente en el lugar donde habitualmente trabaje o en cualquier lugar en que se encuentre la persona física o representante emplazado dentro de la jurisdicción; pero en este caso, deberá entenderse directamente con la persona que se trate, y el notificador hará constar específicamente en la diligencia los medios de que se valió para identificarlo, comprobar su personalidad en caso de representación y demás particulares;
 
-III. El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándose copia de la demanda y demás documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio y demás para hora fija, dentro de las horas hábiles del día siguiente. En caso de que no espere, se le hará la notificación por cédula. La célula (sic) en estos casos se entregará a los parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en las diligencias. La cédula contendrá mención del juicio de que se trate y la inserción de auto o proveído que deba notificarse, y se entregará junto con las copias del traslado.
-
-La persona que recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón en la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el juez determine lo que proceda. Solo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no se encuentre presente; en los demás casos deberá hacerse personal y directamente, aún en el lugar en donde el demandado se encuentre, previa identificación;
+III. El emplazamiento se entenderá directamente con el interesado si estuviere presente, entregándose copia de la demanda y demás documentos y del auto o proveído que deba notificarse. Si la persona a quien se hace el emplazamiento no fuere encontrada en su domicilio se le dejará citatorio y demás para hora fija, dentro de las horas hábiles del día siguiente. En caso de que no espere, se le hará la notificación por cédula. La célula (sic) en estos casos se entregará a los parientes o domésticos del interesado, o a cualquier otra persona adulta que viva en la casa, después de que el notificador se haya cerciorado de que allí tiene su domicilio la persona que debe ser citada, de todo lo cual asentará razón en las diligencias. La cédula contendrá mención del juicio de que se trate y la inserción de auto o proveído que deba notificarse, y se entregará junto con las copias del traslado. La persona que recoja deberá firmar por su recibo, y si se rehusare a hacerlo, se pondrá razón en la diligencia, debiendo expresarse el nombre de ella o la manifestación de que se negó a darlo. Si se informare al notificador que el emplazado está ausente del lugar del juicio se hará constar esta circunstancia a efecto de que el juez determine lo que proceda. Solo podrá hacerse el emplazamiento por cédula cuando se realice en el domicilio del emplazado y éste no se encuentre presente; en los demás casos deberá hacerse personal y directamente, aún en el lugar en donde el demandado se encuentre, previa identificación;
 
 IV. Cuando la persona a quien deba emplearse radique dentro de la República, pero fuera del Estado de Morelos, y fuere conocido su domicilio, el emplazamiento se le hará por despacho o exhorto de acuerdo con la forma prevista en el capítulo anterior. Si una vez despachado el exhorto sobreviniere un cambio de domicilio de la persona a quien se pretende emplazar, dentro de la jurisdicción del juez requerido, éste se entenderá facultado para hacer el emplazamiento en el nuevo domicilio, sin necesidad de nuevo exhorto basando que así lo pida la parte interesada ente (sic) el juez exhortado;
 
@@ -4105,15 +4103,15 @@ La autorización a que se refiere este artículo en ningún caso podrá exceder 
 
 ## TÍTULO QUINTO. DIVORCIO POR MUTUO CONSENTIMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 488.
 
-DE LA TRAMITACIÓN JUDICIAL DE LOS ASUNTOS DE DIVORCIO POR MUTUO CONSENTIMIENTO. El divorcio por mutuo consentimiento deberá ser declarado por un Juez de lo Familiar y procederá siempre y cuando exista manifestación expresa de la libre voluntad de los cónyuges de disolver el vínculo matrimonial y se llenen los requisitos que este Código señala y exige.
+DE LA TRAMITACIÓN JUDICIAL DE LOS ASUNTOS DE DIVORCIO POR MUTUO CONSENTIMIENTO. El divorcio por mutuo consentimiento deberá ser declarado por un Juez de lo Familiar y procederá siempre y cuando exista manifestación expresa de la libre voluntad de los cónyuges de disolver el vínculo matrimonial y se cumpla con los requisitos que este Código señala y exige.
 
 La demanda será formulada por escrito por ambos cónyuges, quienes deberán suscribirla con sus firmas completas y auténticas, y, además la huella digital pulgar derecha de cada uno.
 
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 17 DE AGOSTO DE 2016)</small>
-
-El divorcio voluntario no puede pedirse sino pasado un año de la celebración del matrimonio.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2007)</small>
 
@@ -4191,7 +4189,7 @@ REUNIÓN VOLUNTARIA DE LOS QUE SOLICITARON EL DIVORCIO POR MUTUO CONSENTIMIENTO.
 
 ###### ARTÍCULO 499.
 
-PROHIBICIÓN A LOS CÓNYUGES RECONCILIADOS DE PROMOVER UN NUEVO DIVORCIO. Los cónyuges no podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año de su reconciliación.
+(DEROGADO, P.O. 7 DE DICIEMBRE DE 2016)
 
 ###### ARTÍCULO 500.
 
@@ -7032,3 +7030,11 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 7 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS VEINTINUEVE.- POR EL CUAL SE REFORMAN DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PROCESAL FAMILIAR Y DEL CÓDIGO FAMILIAR, AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
