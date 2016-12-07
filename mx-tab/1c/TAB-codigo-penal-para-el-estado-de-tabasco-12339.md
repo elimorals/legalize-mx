@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2015-12-23"
+last_updated: "2016-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "TAB"
 ---
 # CODIGO PENAL PARA EL ESTADO DE TABASCO
 
-> <small>N. DE E. SE ADVIERTE QUE EN ATENCIÓN A LO DISPUESTO POR EL ARTÍCULO ÚNICO DEL DECRETO 119 DEL CONGRESO DEL ESTADO DE TABASCO, DE FECHA 5 DE AGOSTO DE 2014, POR EL CUAL SE HIZO LA DECLARACIÓN DE INCORPORACIÓN AL RÉGIMEN JURÍDICO ESTATAL DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EL PRESENTE DECRETO NÚMERO 288 INICIARÁ SU APLICACIÓN EN LAS REGIONES 1, 2, 3, 4, 5, 6 Y 7, A LOS 30 DÍAS NATURALES CONTADOS A PARTIR DEL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -439,11 +437,11 @@ El tratamiento en libertad, la semilibertad, la multa y el trabajo en favor de l
 
 ### CAPITULO II. PRISION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-La prisión consiste en la privación de la libertad personal. Ninguna punibilidad privativa de la libertad personal podrá ser menor de tres meses ni mayor de cincuenta años. Su ejecución se llevará a cabo en las dependencias del Ejecutivo del Estado o del Ejecutivo Federal conforme a lo dispuesto en la legislación correspondiente y a la resolución judicial respectiva.
+La prisión consiste en la privación de la libertad personal. Ninguna punibilidad privativa de la libertad personal podrá ser menor de tres meses ni mayor de sesenta años. Su ejecución se llevará a cabo en las dependencias del Ejecutivo del Estado o del Ejecutivo Federal, conforme a lo dispuesto en la legislación correspondiente y a la resolución judicial respectiva.
 
 En toda pena de prisión se computará el tiempo de detención.
 
@@ -1247,7 +1245,7 @@ Cuando la ley suprima un tipo penal, la autoridad competente de oficio se pronun
 
 ###### Artículo 93.
 
-La muerte del inculpado o imputado, extingue la pretensión punitiva; la del sentenciado. extingue a su vez las penas o medidas de seguridad impuestas, a excepción del decomiso y la reparación del daño, en su caso, respecto de los terceros obligados.
+La muerte del inculpado o imputado, extingue la pretensión punitiva; la del sentenciado, extingue a su vez las penas o medidas de seguridad impuestas, a excepción del decomiso y la reparación del daño, en su caso, respecto de los terceros obligados.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
@@ -1441,45 +1439,45 @@ A quien prive de la vida a otra persona, por petición expresa, libre, reiterada
 
 Se considera feminicidio el homicidio de una mujer realizado por razones de género. Existen razones de género cuando concurra cualquiera de las circunstancias siguientes:
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
-I. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo, cualquier otra relación de hecho o amistad;
+I. Haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, noviazgo, o cualquier otra relación de hecho o amistad;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
-II. Exista o haya existido entre el activo y la víctima una relación laboral, docente, o cualquier otra que implique confianza, subordinación o superioridad;
+II. Haya existido entre el activo y la víctima una relación laboral, docente, o cualquier otra que implique confianza, subordinación o superioridad;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
-III. Cuando el sujeto activo abuse de su cargo público para la comisión del delito;
+III. El sujeto activo haya abusado de su cargo público para la comisión del delito;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
-IV. La víctima presente signos de violencia sexual;
+IV. La víctima presente signos de violencia sexual de cualquier tipo;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
-V. Cuando a la víctima se le hayan infligido lesiones infamantes o degradantes, o mutilaciones, previa o posteriormente a la privación de la vida;
+V. A la víctima se le hayan infligido lesiones infamantes o degradantes, o mutilaciones, previa o posteriormente a la privación de la vida, o actos de necrofilia;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
-VI. Cuando existan antecedentes de cualquier tipo de violencia sexual, física, psicológica, patrimonial o económica, producidas en el ámbito familiar;
+VI. Existan antecedentes o datos de cualquier tipo de violencia sexual, física, psicológica, patrimonial o económica, en el ámbito familiar, laboral o escolar, generada por el sujeto activo en contra de la víctima;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
-VII. Cuando se establezca que se cometieron amenazas, asedio o lesiones en contra de la víctima;
+VII. Existan antecedentes o datos que establezcan que se cometieron amenazas relacionadas con el hecho delictuoso, asedio, acoso o lesiones del sujeto activo en contra de la víctima;
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
-VIII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento; o
+VIII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida; o
 
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
-IX. El cuerpo de la víctima sea expuesto en forma degradante en lugar abierto.
+IX. El cuerpo de la víctima sea expuesto o exhibido en lugar público.
 
-> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2016)</small>
 
-A quien cometa el delito de feminicidio se le impondrán de treinta a cincuenta años de prisión y de quinientos a mil días multa.
+A quien cometa el delito de feminicidio se le impondrán de cuarenta a sesenta años de prisión y de quinientos a mil días multa.
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
@@ -1488,6 +1486,14 @@ Además de la sanción anterior, el sujeto activo perderá todos los derechos co
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2012)</small>
 
 Si además del feminicidio, resulta delito diverso, se estará a las reglas del concurso de delitos.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2016)</small>
+
+En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2016)</small>
+
+Al servidor público que retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia respecto del feminicidio, se le impondrá pena de prisión de tres a ocho años y de quinientos a mil quinientos días multa; además será destituido e inhabilitado de tres a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO II. LESIONES
 
@@ -4638,3 +4644,9 @@ QUINTO.- Los delitos que se hubieren cometido con anterioridad a la entrada en v
 SEXTO.- Se derogan todas las disposiciones en lo que se opongan al presente Decreto.
 
 SÉPTIMO.- Publíquese el presente Decreto en el Periódico Oficial del Estado de Tabasco.
+
+P.O. 7 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 031 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 18, PÁRRAFO PRIMERO; Y 115 BIS, FRACCIONES I A IX DEL PÁRRAFO PRIMERO, Y SU PÁRRAFO SEGUNDO. SE ADICIONAN LOS PÁRRAFOS QUINTO Y SEXTO, AL ARTÍCULO 115 BIS; AMBOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
