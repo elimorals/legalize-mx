@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2016-11-18"
+last_updated: "2016-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2016.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -2637,6 +2637,8 @@ Las mismas sanciones se impondrán a quien acepte la identificación.
 
 ### CAPÍTULO IX. COHECHO
 
+> <small>(REFORMADO EN SU TÍTULO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 243.
 
 Abuso de autoridad y uso ilegal de la fuerza pública
@@ -2783,13 +2785,23 @@ A quien teniendo la calidad de servidor público, por sí o por interpósita per
 
 ###### Artículo 252.
 
-Cohecho
+Cohecho pasivo.
 
 A quien teniendo la calidad de servidor público, por sí o por interpósita persona, solicite o reciba indebidamente para sí o para otro, dinero o cualquier otra dádiva, o acepte una promesa para hacer o dejar de hacer algo relacionado con sus funciones, se le impondrá las siguientes sanciones:
 
 I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Estado al momento de cometerse el delito, o no sea valuable, se impondrá de uno a tres años de prisión y de cincuenta a doscientos días multa; y,
 
 II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces el salario mínimo diario vigente en el Estado al momento de cometerse el delito, se impondrá de dos a siete años de prisión y de doscientos a setecientos días multa.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
+Artículo 252 bis. Cohecho activo.
+
+A quien otorgue u ofrezca dinero o cualquier otra dádiva a algún servidor público para hacer o dejar de hacer algo relacionado con sus funciones, se le impondrá las siguientes sanciones:
+
+I. Cuando la cantidad o el valor de la dádiva, promesa o prestación no exceda del equivalente de quinientas veces la unidad de medida y actualización vigente al momento de cometerse el delito, se impondrá de uno a tres años de prisión y de cincuenta a doscientos días multa; y,
+
+II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces la unidad de medida y actualización vigente al momento de cometerse el delito, se impondrá de dos a siete años de prisión y de doscientos a setecientos días multa.
 
 ### CAPÍTULO II. DELITOS CONTRA LA PROCURACIÓN Y ADMINISTRACIÓN DE JUSTICIA
 
@@ -3604,5 +3616,11 @@ P.O. 18 DE NOVIEMBRE DE 2016.
 P.O. 18 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO LEGISLATIVO NÚMERO 186 POR EL QUE "SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 182 POR EL QUE "SE REFORMA EL ARTÍCULO 252 EN SU TÍTULO Y SE ADICIONA EL ARTÍCULO 252 BIS AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
