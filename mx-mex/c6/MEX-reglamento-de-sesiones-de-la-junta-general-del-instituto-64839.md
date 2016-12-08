@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-sesiones-de-la-junta-general-del-instituto-64839"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-27"
-last_updated: "2014-09-30"
+last_updated: "2016-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DE SESIONES DE LA JUNTA GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL "ACUERDO SEGUNDO DEL REGLAMENTO DE SESIONES DE LA JUNTA GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 8 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO".]</small>
+
 REGLAMENTO DE SESIONES DE LA JUNTA GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 30 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 8 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta Oficial del Estado de México, el jueves 27 de noviembre de 2008.
 
@@ -598,3 +600,11 @@ G.G. 30 DE SEPTIEMBRE DE 2014.
 PRIMERO.- Las adecuaciones aprobadas por el presente Acuerdo entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno".
 
 SEGUNDO.- Publíquese el presente Acuerdo y su anexo en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
+
+G.G. 8 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. IEEM/CG/III/2016.- POR EL QUE SE EXPIDE EL REGLAMENTO DE SESIONES DE LA JUNTA GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- El Reglamento expedido por el presente Acuerdo surtirá efectos a partir de su aprobación por el Consejo General del Instituto Electoral del Estado de México.
+
+SEGUNDO.- Publíquese el presente instrumento, así como el Reglamento emitido por el mismo, en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México, "Gaceta del Gobierno", así como en la página electrónica del Instituto Electoral del Estado de México.
