@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2016-08-10"
+last_updated: "2016-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -1581,11 +1581,17 @@ v) De prevención social de la violencia y la delincuencia;
 
 w). De Derechos Humanos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, G.G. 15 DE JUNIO DE 2016)</small>
+x). Atención a la violencia en contra de las mujeres.
 
-x) Las demás que determine el ayuntamiento, de acuerdo con las necesidades del municipio.
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2016)</small>
+
+y). De Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2016)</small>
+
+z). Las demás que determine el Ayuntamiento, de acuerdo con las necesidades del municipio.
 
 II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
 
@@ -4494,3 +4500,21 @@ QUINTO. El Consejo Intermunicipal de Seguridad Pública deberá instalarse en t�
 Asimismo, en su primera sesión ordinaria deberá aprobar el estatuto a que se refiere esta Ley.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 8 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 165.- POR EL QUE SE REFORMA UN INCISO X) Y ADICIONA EL INCISO Y) DE LA FRACCIÓN I DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 8 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 166.- POR EL QUE SE ADICIONA EL INCISO Y) RECORRIÉNDOSE EL ACTUAL INCISO Y) PARA SER EL INCISO Z) DE LA FRACCIÓN I DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
