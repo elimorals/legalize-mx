@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-prevenir-y-eliminar-la-discriminacion-y-la-65198"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-02"
-last_updated: "2016-11-18"
+last_updated: "2016-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 2 de enero de 2009.
 
@@ -675,9 +675,11 @@ Los sujetos obligados rendirán los informes y presentarán la documentación so
 
 El Consejo investigará los hechos, acciones, omisiones o prácticas presuntamente de discriminación y violencia imputadas a los sujetos obligados e impondrá en su caso, las sanciones y medidas administrativas que esta Ley previene.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 44.
 
-El procedimiento se regirá por los principios de inmediatez, concentración, eficacia, profesionalismo, buena fe, suplencia de la deficiencia de la queja; procurando las medidas conciliatorias entre las partes.
+El procedimiento se regirá por los principios de justicia, legalidad, imparcialidad, inmediatez, concentración, eficacia, profesionalismo, buena fe, y el de suplencia de la deficiencia de la queja; procurando las medidas conciliatorias entre las partes.
 
 ###### Artículo 45.
 
@@ -830,5 +832,11 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LE
 P.O. 18 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 187.- MEDIANTE EL CUAL SE REFORMA LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 8 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 194 POR EL QUE “SE REFORMA EL ARTÍCULO 44 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
