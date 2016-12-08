@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-instituto-mexiquense-del-emprendedor-48
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-27"
-last_updated: "2014-06-23"
+last_updated: "2016-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO MEXIQUENSE DEL EMPRENDEDOR
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE DICIEMBRE DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO MEXIQUENSE DEL EMPRENDEDOR
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el viernes 27 de enero de 2006.
 
@@ -181,9 +183,7 @@ XII. Diseñar e impulsar programas de capacitación para los emprendedores que b
 
 XIII. Diseñar e impulsar programas que incidan en mejorar la competitividad y modernización de las MIPYMES, especialmente de aquellas que generen innovaciones tecnológicas, así como programas de capacitación y estudios de mercado que sean necesarios para consolidar su actividad económica;
 
-> <small>(ADICIONADA, G.G. 23 DE JUNIO DE 2014)</small>
-
-XIV. Integrar el Comité Organizador del Premio Mexiquense a la Excelencia Empresarial;
+XIV. (DEROGADA, G.G. 8 DE DICIEMBRE DE 2016)
 
 > <small>(ADICIONADA, G.G. 23 DE JUNIO DE 2014)</small>
 
@@ -203,21 +203,31 @@ II. Vigilar que los fondos de financiamiento que opera o en los que participa el
 
 III. Promover que los fondos para el financiamiento se orienten a cumplir con las prioridades y estrategias establecidas para el desarrollo de proyectos de los emprendedores y las micro, pequeñas y medianas empresas.
 
-IV. Integrar y dar seguimiento a la operación de los fondos de financiamiento.
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2016)</small>
 
-V. Informar bimestralmente a los comités técnicos de los fondos de financiamiento sobre los resultados obtenidos.
+IV. Integrar y dar seguimiento a la operación de fondos de financiamiento y fideicomisos.
 
-VI. Verificar el cumplimiento de los acuerdos de los comités técnicos de los fondos de financiamiento.
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2016)</small>
+
+V. Informar bimestralmente a los comités técnicos de los fondos de financiamiento y fideicomisos sobre los resultados obtenidos.
+
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2016)</small>
+
+VI. Verificar el cumplimiento de los acuerdos de los comités técnicos de los fondos de financiamiento y fideicomisos.
 
 VII. Atender y dar seguimiento, en el ámbito de su competencia, a las recomendaciones emitidas por la contraloría interna del Instituto, relativas a la administración y control de los fondos.
 
 VIII. Detectar y, en su caso, aprovechar otras fuentes de financiamiento para la ejecución de los proyectos y programas del Organismo.
 
-IX. Administrar e integrar la información financiera y contable de los fondos de financiamiento.
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2016)</small>
+
+IX. Administrar e integrar la información financiera y contable de los fondos de financiamiento y fideicomisos.
 
 X. Elaborar las solicitudes de apoyo para ser presentadas y analizadas por el subcomité correspondiente.
 
-XI. Preparar la documentación necesaria que deberá ser entregada a los sujetos susceptibles de crédito de los fondos.
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2016)</small>
+
+XI. Preparar la documentación necesaria que deberá ser entregada a los sujetos susceptibles de crédito de los fondos de financiamiento y fideicomisos.
 
 XII. Promover y vigilar el cumplimiento de pago por parte de los emprendedores y las micro, pequeñas y medianas empresas, de los recursos que les fueron otorgados para el desarrollo de sus proyectos y, en su caso, exigir el cobro del adeudo.
 
@@ -289,9 +299,35 @@ X. Difundir entre los ayuntamientos, cámaras y organismos empresariales, los pr
 
 XI. Impulsar la creación y aprobar la consolidación de cadenas productivas;
 
-> <small>(ADICIONADA, G.G. 23 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2016)</small>
 
-XII. Las demás que le establecen otros ordenamientos legales y aquellas que le establezca el Director General.
+XII. Integrar el Comité Organizador del Premio Mexiquense a la Excelencia Empresarial.
+
+> <small>(ADICIONADA, G.G. 8 DE DICIEMBRE DE 2016)</small>
+
+XIII. Las demás que le establecen otros ordenamientos legales y aquellas que le establezca el Director General.
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 15 Bis.
+
+Corresponde a la Unidad Jurídica Consultiva:
+
+I. Representar al Instituto y a sus unidades administrativas en los asuntos jurídicos en los que sean parte, previo mandato que al efecto le otorgue el Director General y realizar el oportuno seguimiento a los procedimientos hasta su conclusión.
+
+II. Compilar y difundir los ordenamientos jurídicos relacionados con la organización y el funcionamiento del Instituto.
+
+III. Elaborar y revisar los proyectos de ordenamientos jurídicos que regulen la organización y el funcionamiento del Instituto y someterlos a la consideración y aprobación del Director General.
+
+IV. Asesorar jurídicamente a los servidores públicos del Instituto en asuntos relacionados con sus atribuciones.
+
+V. Presentar las denuncias en contra de los probables responsables por la comisión de actos u omisiones en agravio del Instituto.
+
+VI. Contribuir a que las unidades administrativas del Instituto observen la normatividad en la que se sustenta su organización y funcionamiento.
+
+VII. Formular y analizar los proyectos de acuerdos, convenios y contratos que pretenda suscribir el Director General o las unidades administrativas del Instituto.
+
+VIII. Las demás que le establecen otros ordenamientos legales y aquellas que le establezca el Director General.
 
 ###### Artículo 16.
 
@@ -440,5 +476,15 @@ G.G. 23 DE JUNIO DE 2014.
 PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
+
+G.G. 8 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO MEXIQUENSE DEL EMPRENDEDOR”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a las establecidas en el presente Acuerdo.
