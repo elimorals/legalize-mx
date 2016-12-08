@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2016-11-29"
+last_updated: "2016-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -129,7 +129,9 @@ XX. Reservas: Las áreas previstas en un programa de desarrollo urbano para el c
 
 XXI. Reserva Ecológica: Área determinada en un programa de desarrollo urbano, dentro de los límites de crecimiento de los centros de población, que establece un adecuado equilibrio entre éste en el territorio y ambiente que circunda;
 
-XXII. Secretaría: La Secretaría de Urbanismo y Medio Ambiente del Estado;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
+XXII. Secretaría: La Secretaría de Desarrollo Territorial, Urbano y Movilidad;
 
 > <small>(REFORMADA, P.O. 28 DE MAYO DE 2015)</small>
 
@@ -677,7 +679,9 @@ I. Un Presidente, que será el Gobernador;
 
 II. Un Secretario Técnico, que será el titular de la Secretaría;
 
-III. Un vocal del Congreso del Estado, representado por el Presidente de la Comisión de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
+III. Un vocal del Congreso del Estado, representado por el Presidente de la Comisión de Desarrollo Urbano, Obra Pública y Vivienda;
 
 IV. Tres vocales designados por la totalidad de los ayuntamientos del Estado;
 
@@ -857,7 +861,9 @@ I. Un Presidente, que será el Gobernador;
 
 II. Los presidentes municipales de los ayuntamientos, en donde se localice la zona conurbada;
 
-III. Un Secretario Técnico, que será el Secretario de Urbanismo y Medio Ambiente del Estado;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
+III. Un Secretario Técnico, que será el Secretario de Desarrollo Territorial, Urbano y Movilidad;
 
 IV. Hasta cinco vocales invitados por cada uno de los ayuntamientos involucrados, representantes de los sectores social y privado, de las autoridades auxiliares municipales o funcionarios municipales; y,
 
@@ -3197,7 +3203,11 @@ VI. Que se ubiquen a una distancia de resguardo de 150 metros contados a partir 
 
 VII. El predio propuesto para una estación de servicio deberá garantizar vialidades internas, áreas de servicio público y de almacenamiento, así como los diversos elementos requeridos para su construcción y operación que establecen los manuales de especificaciones técnicas para proyecto y construcción de estaciones de servicio de gasolina y diesel, las Normas Oficiales Mexicanas aplicables y las establecidas por la Secretaría de Energía; y,
 
-VIII. Los demás que para el efecto establezcan las Secretarias de Energía, la de Comunicaciones y Transportes y la de Economía Federal, la Secretaría de Urbanismo y Medio Ambiente del Gobierno del Estado de Michoacán, la Junta de Caminos del Estado de Michoacán, las áreas de Protección Civil Estatal y municipales, los programas de desarrollo urbano, los ordenamientos ecológicos, los reglamentos de construcción de cada Municipio en donde se pretendan establecer y demás normatividad aplicable.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 193 PUBLICADO EN EL P.O. DE 8 DE DICIEMBRE DE 2016, PÁGINA 2.]</small>
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
+VIII. Los demás que para el efecto establezcan las Secretarías de Energía, la de Comunicaciones y Transportes y la de Economía Federal, la Secretaría, la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático del Gobierno del Estado de Michoacán, la Junta de Caminos del Estado de Michoacán, las áreas de Protección Civil Estatal y municipales, los programas de desarrollo urbano, los ordenamientos ecológicos, los reglamentos de construcción de cada Municipio en donde se pretendan establecer y demás normatividad aplicable. La expedición de la licencia de uso de suelo no es motivo para dar inicio a construcción, adaptación o modificación de obra, hasta en tanto se obtenga la licencia de construcción correspondiente.
 
 La expedición de la licencia de uso de suelo no es motivo para dar inicio a construcción, adaptación o modificación de obra, hasta en tanto se obtenga la licencia de construcción correspondiente.
 
@@ -3223,7 +3233,9 @@ b) Una distancia mínima de 50 metros medidos desde las tangentes de los tanques
 
 V. Que se ubiquen a una distancia de resguardo de 150 metros a partir de los límites de propiedad del predio en cuestión de cualquier industria o comercio que emplee productos químicos, soldadura o gas, se dedique a la fundición o utilice fuego o combustión; y,
 
-VI. Los demás que para el efecto establezcan las Secretarías de Energía, Comunicaciones y Transportes y Economía Federal, la Secretaría de Urbanismo y Medio Ambiente del Gobierno del Estado de Michoacán, la Junta de Caminos del Estado de Michoacán, las áreas de Protección Civil estatal y municipales, los programas de desarrollo urbano, los ordenamientos ecológicos, los reglamentos de construcción de cada Municipio en donde se pretendan establecer y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
+VI. Los demás que para el efecto establezcan las Secretarías de Energía, Comunicaciones y Transportes y Economía Federal, la Secretaría, la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático del Gobierno del Estado de Michoacán, la Junta de Caminos del Estado de Michoacán, las áreas de Protección Civil Estatal y municipales, los programas de desarrollo urbano, los ordenamientos ecológicos, los reglamentos de construcción de cada Municipio en donde se pretendan establecer y demás normatividad aplicable.
 
 La expedición de la licencia de uso de suelo no es motivo para dar inicio a construcción, adaptación o modificación de obra, hasta en tanto se obtenga la licencia de construcción correspondiente.
 
@@ -3981,7 +3993,9 @@ h) Placas de nomenclatura, señalamientos viales y de tránsito en esquina de vi
 
 i) Caseta de vigilancia.
 
-Este tipo de fraccionamientos deberán ubicarse fuera de los límites del área urbana, siendo factible su establecimiento en las zonas de crecimiento del centro de población. Los Fraccionamientos Habitacionales Suburbanos tipo campestres podrán autorizarse fuera de los límites del centro de población, siempre y cuando cuente con el estudio de impacto ambiental correspondiente sancionado por la Secretaría y en sentido positivo, de conformidad con la normatividad y criterios e indicadores de carácter ambiental.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
+Este tipo de fraccionamientos deberán ubicarse fuera de los límites del área urbana, siendo factible su establecimiento en las zonas de crecimiento del centro de población. Los Fraccionamientos Habitacionales Suburbanos tipo campestres podrán autorizarse fuera de los límites del centro de población, siempre y cuando cuente con el estudio de impacto ambiental correspondiente sancionado por la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático y en sentido positivo, de conformidad con la normatividad y criterios e indicadores de carácter ambiental.
 
 En este caso el Ayuntamiento podrá recibir las áreas de donación en especie o determinarle el valor comercial, a efecto de que el propietario lo entere a la Tesorería Municipal correspondiente, cuyo objetivo será la creación de un fideicomiso para la adquisición de reserva territorial municipal.
 
@@ -3999,7 +4013,9 @@ III. Vialidad: las vialidades principales deberán tener como mínimo una anchur
 
 IV. Infraestructura y equipamiento urbano: todo fraccionamiento que sea aprobado dentro de este tipo deberá contar, como mínimo, con las obras de urbanización establecidas en la fracción IV del artículo anterior.
 
-Este tipo de fraccionamientos se deberán ubicar fuera de los límites de las áreas de crecimiento del centro (sic) población. Los Fraccionamientos Habitacionales Suburbanos rústicos tipo granja se podrán autorizar siempre y cuando cuente con el estudio de impacto ambiental correspondiente sancionado por la Secretaría en sentido positivo de conformidad con la normatividad y criterios e indicadores de carácter ambiental.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
+Este tipo de fraccionamientos se deberán ubicar fuera de los límites de las áreas de crecimiento del centro de población. Los Fraccionamientos Habitacionales Suburbanos rústicos tipo granja se podrán autorizar siempre y cuando cuente con el estudio de impacto ambiental correspondiente sancionado por la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, en sentido positivo de conformidad con la normatividad y criterios e indicadores de carácter ambiental.
 
 En este caso el Ayuntamiento podrá recibir las áreas de donación en especie o determinarle el valor comercial, a efecto de que el propietario lo entere a la Tesorería Municipal correspondiente, cuyo objetivo será la creación de un fideicomiso para la adquisición de reserva territorial municipal.
 
@@ -4325,7 +4341,9 @@ II. Oficios que acrediten la factibilidad de los servicios de energía eléctric
 
 III. Certificado y plano de medición y deslinde catastral expedido por la Dirección de Catastro del Estado;
 
-IV. Manifestación de impacto ambiental y oficio de la autorización del estudio emitida por la Secretaría y en su caso, estudio de impacto en el entorno;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
+IV. Manifestación de impacto ambiental y oficio de la autorización del estudio emitida por la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, y en su caso, estudio de impacto en el entorno;
 
 V. En caso que el predio por fraccionar colinde o cuente con algún servicio de la federación, estado o municipio, deberá presentar los certificados de no afectación o autorizaciones de concesión de las áreas;
 
@@ -5177,9 +5195,11 @@ VIII. A quienes sin contar con la autorización correspondiente se anuncien o po
 
 En el caso de que los infractores fuesen los Directores Responsables de Obra, se procederá además a la cancelación de su registro del padrón correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 444.
 
-Son infracciones de los Servidores Públicos de la Secretaría y de los ayuntamientos:
+Son infracciones de los Servidores Públicos de la Secretaría, la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático y de los ayuntamientos:
 
 I. Autorizar programas de desarrollo urbano, documentos, contratos o convenios que contravengan lo dispuesto en este Código y los programas de desarrollo urbano del Estado o del Municipio respectivo;
 
@@ -5382,3 +5402,9 @@ P.O. 29 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Se otorga un término de noventa días para que los Ayuntamientos del Estado y Concejos Municipales, elaboren, actualicen y regulen en sus reglamentos el contenido de esta reforma, para que en el ámbito de sus facultades, se eficientice la inspección y vigilancia de la prestación de servicio de los estacionamientos, de conformidad con el presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO 193 POR EL QUE SE “REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 2, LA FRACCIÓN III DEL ARTÍCULO 20, LA FRACCIÓN III DEL ARTÍCULO 39, LA FRACCIÓN VIII DEL ARTÍCULO 281 BIS, LA FRACCIÓN VI DEL ARTÍCULO 281 TER, EL SEGUNDO PÁRRAFO DEL INCISO I) FRACCIÓN IV DEL ARTÍCULO 321, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 322, LA FRACCIÓN IV DEL ARTÍCULO 349 Y EL ARTÍCULO 444 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
