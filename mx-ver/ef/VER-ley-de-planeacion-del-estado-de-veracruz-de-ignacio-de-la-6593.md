@@ -4,7 +4,7 @@ identifier: "VER-ley-de-planeacion-del-estado-de-veracruz-de-ignacio-de-la-6593"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-29"
-last_updated: "2014-12-19"
+last_updated: "2016-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE PLANEACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 29 de enero de 1987.
 
@@ -66,6 +66,12 @@ A través de la planeación, se fijarán objetivos, estrategias, acciones, metas
 ###### ARTICULO 4o.
 
 El Ejecutivo del Estado y los Ayuntamientos, son responsables de conducir, en el área de sus competencias, la planeación del desarrollo, con la participación democrática de los grupos sociales y privados, de conformidad con lo dispuesto por esta Ley.
+
+> <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 4o Bis.
+
+Para los efectos de esta ley, se entenderá por Plan Estatal de Desarrollo el documento en el que se plasman objetivos, metas, estrategias y prioridades de ejecución del desarrollo integral del Estado.
 
 ### CAPITULO II
 
@@ -147,9 +153,11 @@ REFORMADO POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONA
 
 a).- Presidir y conducir el Comité de Planeación para el Desarrollo del Estado de Veracruz de Ignacio de la Llave.
 
-b).- Remitir el Plan Estatal de Desarrollo al Poder Legislativo para su conocimiento, opinión y observaciones. Para tal efecto, la Diputación Permanente convocará a un período extraordinario de sesiones de la Legislatura del Estado.
+> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2016)</small>
 
-c).- Aprobar el Plan Estatal de Desarrollo.
+b).- Remitir el Plan Estatal de Desarrollo al Poder Legislativo para su análisis y aprobación. Para tal efecto, la Diputación Permanente convocará a un periodo extraordinario de sesiones de la Legislatura del Estado.
+
+c).- (DEROGADO, G.O. 8 DE DICIEMBRE DE 2016)
 
 d).- Ordenar la publicación del Plan Estatal de Desarrollo y los Programas Sectoriales.
 
@@ -552,3 +560,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las autoridades municipales de las zonas metropolitanas elaborarán sus Programas Sectoriales de Desarrollo Metropolitano en los términos del presente decreto, a efecto de que los mismos inicien su vigencia a partir del próximo ejercicio fiscal correspondiente
 
 TERCERO.- Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 8 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 3 QUE ADICIONA EL ARTÍCULO 4º BIS, REFORMA EL INCISO B) Y SE DEROGA EL INCISO C) DE LA FRACCIÓN DEL (SIC) ARTÍCULO 9º DE LA LEY DE PLANEACIÓN DEL ESTADO DE VERACRUZ".]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
