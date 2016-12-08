@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-procuraduria-general-de-justicia-del-106240"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-02-26"
-last_updated: "2015-02-26"
+last_updated: "2016-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 26 de febrero de 2015.
 
@@ -1025,9 +1025,11 @@ El Consejo Técnico del Fondo Auxiliar para la Procuración de Justicia, sesiona
 
 ### CAPÍTULO XI. CERTIFICACIONES Y CARTAS DE NO ANTECEDENTES PENALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 63.
 
-Expedición de certificaciones y cartas de no antecedentes penales
+Expedición de certificaciones y cartas de no antecedentes penales.
 
 Considerando las bases de datos correspondientes, la Procuraduría podrá expedir certificaciones o cartas que determinen los registros o ausencia de estos, respecto a datos relacionados con la investigación y persecución de delitos.
 
@@ -1042,6 +1044,10 @@ II. Los sentenciados por delito culposo que hayan cumplido la pena impuesta por 
 III. Los primo delincuentes sentenciados por delito doloso que hayan cumplido la pena impuesta por la autoridad judicial; y,
 
 IV. Los que se encuentren sujetos a proceso penal que no hayan sido condenados mediante sentencia ejecutoriada.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de cartas de no antecedentes penales, el interesado podrá presentar documentos certificados por la autoridad judicial de haber cumplido la pena impuesta. La respuesta de la autoridad será notificada en un plazo no mayor a tres días.
 
 Los procedimientos, requisitos y trámites se establecerán en el Reglamento.
 
@@ -1084,3 +1090,11 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 25 veinticinco días del mes de febrero del año 2015 dos mil quince.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- LIC. JAIME AHUIZÓTL ESPARZA CORTINA.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 195 POR EL QUE “SE ADICIONA UN CUARTO PÁRRAFO RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE AL ARTÍCULO 63 (SIC) LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
