@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2016-05-30"
+last_updated: "2016-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -119,9 +119,17 @@ XXIII. Recursos públicos: los ingresos que con base en las Leyes de Ingresos ob
 
 XXIV. Secretaría: la Secretaría de Planeación y Finanzas, dependiente del Poder Ejecutivo del Estado de Querétaro;
 
-XXV. Sistema de Alertas: la publicación que realice la Entidad Superior de Fiscalización del Estado de Querétaro sobre indicadores de endeudamiento, así como el balance presupuestario, el registro de contingencias laborales, civiles o fiscales, del Estado y los Municipios, y la situación que guardan las observaciones emitidas por los entes fiscalizadores, y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
-XXVI. Sujetos de la Ley: los indicados en el artículo 3 de la presente Ley.
+XXV. Sistema de Alertas: la publicación que realice la Entidad Superior de Fiscalización del Estado de Querétaro sobre indicadores de endeudamiento, así como el balance presupuestario, el registro de contingencias laborales, civiles o fiscales, del Estado y los Municipios, y la situación que guardan las observaciones emitidas por los entes fiscalizadores;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+XXVI. Sujetos de la Ley: los indicados en el artículo 3 de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+XXVII. Techo de Financiamiento Neto: el límite de Financiamiento Neto anual que podrá contratar un Ente Público, con Fuente de pago de Ingresos de libre disposición. Dicha Fuente de pago podrá estar afectada a un vehículo específico de pago, o provenir directamente del Presupuesto de Egresos.
 
 ###### Artículo 3.
 
@@ -1129,6 +1137,24 @@ La evaluación a que se refiere el párrafo anterior, se realizará por la Entid
 
 De manera adicional, el Sistema de Alertas contendrá la información que permita generar un reporte de las contingencias financieras derivadas de, entre otras, avales, juicios laborales, civiles, fiscales, etc.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 110 Bis.
+
+La medición del Sistema de Alertas se realizará con base en los siguientes indicadores:
+
+I. De Deuda Pública y Obligaciones sobre Ingresos de libre disposición. El cual está vinculado con la sostenibilidad de la deuda de un Ente Público.
+
+Para el caso de los proyectos contratados bajo esquemas de Asociación Público Privada, sólo se contabilizará la parte correspondiente a la inversión por infraestructura;
+
+II. De Servicio de la Deuda y de Obligaciones sobre Ingresos de libre disposición. Indicador que está vinculado con la capacidad de pago. Para su cálculo se incluirán las amortizaciones, intereses, anualidades y costos financieros atados a cada financiamiento y pago por servicios derivados de esquemas de Asociación Público Privada destinados al pago de la inversión; y
+
+III. De Obligaciones a Corto Plazo, Proveedores y Contratistas sobre Ingresos totales. El cual muestra la disponibilidad financiera del Ente Público para hacer frente a sus obligaciones contratadas a plazos menores de 12 meses en relación con los Ingresos totales.
+
+La definición específica de cada indicador, su aplicación, periodicidad de medición y la obligación de entrega de información por parte de los Entes Públicos, serán establecidas en las disposiciones que al efecto emita la Entidad Superior de Fiscalización del Estado de Querétaro, quien podrá apoyarse para ello de la Secretaría. En caso de modificación de dichas disposiciones, como mínimo deberá establecerse un período de 180 días para su entrada en vigor.
+
+En caso de que, a consideración de la Entidad Superior de Fiscalización del Estado de Querétaro exista otro indicador que resulte relevante para el análisis del nivel de endeudamiento del Estado y de los municipios podrá publicarlo, sin que ello tenga incidencia en la clasificación de los Entes Públicos dentro del Sistema de Alertas.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
@@ -1143,6 +1169,18 @@ II. Endeudamiento en observación, y
 
 III. Endeudamiento elevado.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 111 Bis.
+
+Para efecto de determinar el nivel de endeudamiento a que se refiere el artículo que precede se consideraran los siguientes parámetros:
+
+I. Bajo; un endeudamiento sostenible. Corresponderá el Techo de Financiamiento Neto de hasta el equivalente al 15 por ciento de sus Ingresos de libre disposición;
+
+II. En observación; un endeudamiento el cual tendrá como Techo de Financiamiento Neto el equivalente al 5 por ciento de sus Ingresos de libre disposición; y
+
+III. Elevado; un nivel de endeudamiento que tendrá un Techo de Financiamiento Neto igual a cero.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
@@ -1153,13 +1191,11 @@ En caso de que el Estado o algún municipio se ubique en un nivel de endeudamien
 
 El seguimiento de las acciones a que se refiere el párrafo anterior, estará a cargo de la Entidad Superior de Fiscalización del Estado de Querétaro, debiendo publicarse a través de las páginas oficiales de Internet de dicha entidad, así como de la del Estado o municipio que corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 113.
 
-El Sistema de Alertas será publicado en la página de Internet de la Entidad Superior de Fiscalización del Estado de Querétaro de manera permanente, debiendo actualizarse semestralmente, dentro de los 30 días naturales posteriores al término de cada semestre.
+El Sistema de Alertas será publicado en la página de Internet de la Entidad Superior de Fiscalización del Estado de Querétaro de manera permanente, debiendo actualizarse semestralmente, dentro de los 30 días naturales posteriores al vencimiento del plazo a que se refiere el segundo párrafo del artículo 117 de ésta ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1191,13 +1227,13 @@ Para la cancelación de la inscripción en el Registro Estatal de Deuda Pública
 
 La Entidad Superior de Fiscalización del Estado de Querétaro, podrá solicitar a las instituciones otorgantes del financiamiento u obligación que corresponda, la información relacionada con el Estado o el municipio de que se trate, con el fin de conciliar la información del Registro Estatal de Deuda Pública. En caso de detectar diferencias, éstas deberán publicarse en el Registro Estatal de Deuda Pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 117.
 
-Para mantener actualizado el Registro Estatal de Deuda Pública, los sujetos de la Ley deberán enviar semestralmente a la Secretaría, dentro del plazo de 30 días naturales posteriores al término de los meses de junio y diciembre, la información correspondiente a cada financiamiento y obligación.
+Para mantener actualizado el Registro Estatal de Deuda Pública, los sujetos de la Ley deberán enviar semestralmente a la Secretaría, dentro del plazo de 15 días naturales posteriores al término de los meses de junio y diciembre, la información correspondiente a cada financiamiento y obligación.
+
+La Secretaría deberá integrar la información y subirla al Registro Estatal de Deuda Pública a más tardar el último día de los meses de julio y enero de cada año, a fin de que la Entidad Superior de Fiscalización del Estado de Querétaro pueda llevar a cabo la evaluación a que se refiere el artículo 110 y publique el Sistema de Alertas actualizado semestralmente.
 
 ## TRANSITORIOS
 
@@ -1265,7 +1301,7 @@ Rúbrica
 
 P.O. 20 DE DICIEMBRE DE 2014.
 
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO".]
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE COORDINACIÓN FISCAL ESTATAL INTERMUNICIPAL DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2015.
 
@@ -1518,3 +1554,11 @@ Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Est
 Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
 
 En tanto no se expidan las disposiciones reglamentarias de la Ley que crea la Comisión Estatal de Infraestructura de Querétaro, el Consejo de Administración dictará los criterios y lineamientos para su debida observancia.
+
+P.O. 9 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
