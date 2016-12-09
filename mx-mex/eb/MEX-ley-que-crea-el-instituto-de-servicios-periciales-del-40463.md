@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-instituto-de-servicios-periciales-del-40463"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-10"
-last_updated: "2013-08-20"
+last_updated: "2016-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY QUE CREA EL INSTITUTO DE SERVICIOS PERICIALES DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO SÉPTIMO DEL DECRETO NÚMERO 167, PUBLICADO EN LA SECCIÓN QUINTA DEL P.O. DE 9 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE CREA EL INSTITUTO DE SERVICIOS PERICIALES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 9 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el martes 10 de agosto de 2004.
 
@@ -895,7 +897,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 26 DE OCTUBRE DE 2011.
 
@@ -920,3 +922,53 @@ G.G. 20 DE AGOSTO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 9 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 167.- POR EL QUE SE EXPIDE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO Y SE EMITE LA DECLARATORIA DE LA ENTRADA EN VIGOR DE LA AUTONOMÍA CONSTITUCIONAL DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese la presente Ley en el periódico oficial “Gaceta de (sic) Gobierno”.
+
+SEGUNDO. La presente Ley entrará en vigor al día siguiente de su publicación en el periódico oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, publicada en el periódico oficial “Gaceta del Gobierno” el 20 de marzo de 2009.
+
+CUARTO. La o el titular de la Fiscalía General de Justicia del Estado de México expedirá en un plazo no mayor a ciento ochenta días hábiles a la entrada en vigor de la presente Ley, el Reglamento de la Ley de la Fiscalía General de Justicia del Estado de México.
+
+QUINTO. El personal operativo de la Procuraduría General de Justicia deberá someterse al procedimiento de evaluación para migrar a la Fiscalía General de Justicia que comprende la certificación vigente de control de confianza, de competencias laborales y evaluación del desempeño, conforme las disposiciones de permanencia en el servicio previstas en esta Ley y las complementarias que dicte la o el Fiscal General de Justicia. El proceso de migración deberá realizarse en los dos años siguientes a la entrada en vigor de la presente Ley. Para ser parte del servicio de carrera deberán cubrirse las disposiciones legales aplicables y ganar los concursos para las plazas de carrera.
+
+SEXTO. En términos del segundo y tercer párrafos del artículo cuarto transitorio del Decreto número 104 de fecha veintiocho de julio de 2016, los servidores públicos de base que se encuentren prestando sus servicios en la Procuraduría General de Justicia del Estado de México, a la entrada en vigor del presente decreto, podrán solicitar sea reasignada su plaza al Poder Ejecutivo del Estado, conservando la misma calidad y los derechos laborales que les corresponda, ante la transición a Fiscalía General de Justicia, preservando su antigüedad en los términos de la normatividad aplicable.
+
+SÉPTIMO. Las facultades conferidas a la o el Procurador General de Justicia del Estado de México en los ordenamientos jurídicos, se entenderán conferidas a la o el Fiscal General de Justicia del Estado de México.
+
+OCTAVO. En todos los ordenamientos jurídicos donde se establezca Procuraduría General de Justicia del Estado de México se entenderá por Fiscalía General de Justicia del Estado de México.
+
+NOVENO. La o el titular de la Procuraduría General de Justicia del Estado de México permanecerá en su cargo hasta en tanto se realice la designación de la o el Fiscal General de Justicia del Estado de México en términos de la Constitución Política del Estado Libre y Soberano de México.
+
+Para la primera designación de la o el Fiscal General, el Titular del Ejecutivo contará con un plazo de cuatro días naturales, contados a partir de la entrada en vigor del presente Decreto, para enviar a la Legislatura del Estado la terna de candidatas o candidatos al puesto de Fiscal General.
+
+DÉCIMO. Los procedimientos jurisdiccionales y administrativos relacionados con la separación, remoción, cese, o cualquier otra forma de terminación del servicio de las y los servidores públicos de la Procuraduría General de Justicia del Estado de México iniciados hasta la entrada en vigor de la presente ley, concluirán conforme a la normatividad que les fue aplicable en el momento de inicio del procedimiento.
+
+Los procedimientos iniciados después de la entrada en vigor de la presente ley, serán substanciados y resueltos conforme a lo dispuesto por esta Ley, para tal efecto se celebrarán los convenios de coordinación necesarios a fin de facilitar la colaboración entre la Fiscalía General de Justicia del Estado de México, la Secretaría de la Contraloría del Estado de México y la Inspección General de las Instituciones de Seguridad Pública.
+
+Son agentes del Ministerio Público las y los secretarios de Ministerio Público habilitados por la o el Procurador General de Justicia como agentes por cumplir los requisitos para ser parte de la institución del Ministerio Público, por lo que les aplican todas sus obligaciones y facultades. Las y los conciliadores son las y los facilitadores a que se refiere la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal siempre que cumplan los requisitos para ello.
+
+DÉCIMO PRIMERO. La Fiscalía General de Justicia del Estado de México expedirá en un plazo no mayor a ciento ochenta días hábiles a la entrada en vigor de la presente Ley, el Reglamento del Servicio de Carrera.
+
+DÉCIMO SEGUNDO. Hasta en tanto se expidan las disposiciones administrativas aplicables, la Fiscalía General de Justicia del Estado de México se apoyará en la Administración Pública del Gobierno del Estado de México, para procedimientos de adquisiciones, servicios, obra pública, tecnologías de la información y demás aspectos administrativos que resulten necesarios.
+
+DÉCIMO TERCERO. Todos los recursos materiales y presupuestales de la Procuraduría General de Justicia del Estado de México, quedarán transferidos a la Fiscalía General de Justicia del Estado de México al iniciar su vigencia la presente Ley.
+
+DÉCIMO CUARTO. Hasta en tanto entren en vigor las disposiciones jurídicas en materia de responsabilidades administrativas de las y los servidores públicos, acordes al Sistema Nacional Anticorrupción, se aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, la Contraloría Interna, tendrá las atribuciones que prevé la Ley General de Responsabilidades, una vez que ésta entre en vigor.
+
+De igual manera, hasta en tanto entren en vigor las disposiciones en materia anticorrupción en el Estado de México, se designará al Fiscal especializado en dicha materia.
+
+DÉCIMO QUINTO. Los recursos materiales, financieros y tecnológicos asignados o destinados a la Procuraduría General de Justicia del Estado de México se tendrán por transferidos a la Fiscalía General de Justicia del Estado de México, a fin de evitar la afectación del servicio.
+
+El Gobierno del Estado de México y la Fiscalía General de Justicia del Estado de México regularizarán la transmisión de la propiedad a favor de esta última dentro del año siguiente a la entrada en vigor de la presente Ley.
+
+DÉCIMO SEXTO. La Fiscalía General de Justicia del Estado de México en un plazo no mayor a ciento ochenta días hábiles deberá crear un órgano especializado en mecanismos alternativos de solución de controversias de materia penal, de conformidad con la Ley Nacional de Mecanismos Alternativos de Solución de Controversias en Materia Penal.
+
+DÉCIMO SÉPTIMO. Se abroga la Ley que crea el Instituto de Servicios Periciales del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el 10 de agosto de 2004.
+
+DÉCIMO OCTAVO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan a la presente Ley.
