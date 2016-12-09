@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-la-administracion-publica-para-el-municipio-60268
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-02-22"
-last_updated: "2016-09-09"
+last_updated: "2016-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60268&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE LA ADMINISTRACION PUBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 22 de febrero de 2008.
 
@@ -2946,3 +2948,47 @@ P.O. 9 DE SEPTIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA DICTAMEN 023/2016 RELATIVO A REFORMAR EL ARTÍCULO 63 DEL REGLAMENTO DE ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, B.C.”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA ABROGACIÓN DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NO. 8, DE FECHA 22 DE FEBRERO DEL 2008 Y CREACIÓN DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+PRIMER.- El presente Reglamento deberá ser publicado en el Periódico Oficial, órgano de difusión del Gobierno del Estado de BajaCalifornia (sic) y entrará en vigor a partir del primero de enero del 2017;
+
+SEGUNDO.- Se abroga el Reglamento de la Administración Pública para el Municipio de Ensenada, Baja California publicado en el Periódico Oficial No. 8, de fecha 22 de febrero de 2008;
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Reglamento, continuando con validez plena los ordenamientos reglamentarios vigentes a la fecha;
+
+CUARTO.- Las dependencias y órganos desconcentrados de la Administración Pública Municipal, deberán elaborar los manuales de organización a que se refiere el artículo 10 del presente, en un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Reglamento;
+
+QUINTO.- Las dependencias y órganos desconcentrados de la Administración Pública Municipal, deberán elaborar los manuales de procedimientos y servicios al público a que se refiere el artículo 10 del presente, en un plazo no mayor a seis meses, contados a partir de la entrada en vigor del presente Reglamento;
+
+SEXTO.- La Oficialía Mayor deberá elaborar el catálogo general de puestos tipo a que se refiere el artículo 77, fracción VI del presente, en un plazo no mayor a doce meses, contados a partir de la entrada en vigor del presente Reglamento;
+
+SÉPTIMO.- Las dependencias y los órganos desconcentrados de la Administración Pública Municipal cuando así proceda, deberán elaborar el catálogo de puestos específicos a que se refiere el artículo 27 fracción VI del presente Reglamento en un plazo no mayor de seis meses.
+
+Dicho plazo iniciará su cómputo a partir de la entrada en vigor del catálogo general de puestos tipo;
+
+OCTAVO.- El Presidente Municipal con el apoyo de las dependencias involucradas deberá elaborar el Reglamento de Entidades Paramunicipales a que se refiere el artículo 194 del presente Reglamento en un plazo no mayor a seis meses y someterlo a la aprobación del Ayuntamiento.
+
+Dicho plazo iniciará su cómputo a partir de la entrada en vigor del presente Reglamento;
+
+NOVENO.- El Presidente Municipal con el apoyo de las dependencias involucradas deberá elaborar el Acuerdo de Sectorización de las dependencias y entidades paramunicipales de la Administración Pública Municipal a que se refiere el artículo 191 del presente, en un plazo no mayor a seis meses y someterlo a la aprobación del Ayuntamiento.
+
+Dicho plazo iniciará su cómputo a partir de la entrada en vigor del presente Reglamento;
+
+DÉCIMO.- Los traspasos que por motivo de esta Reforma deban realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias que comprenden las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como los traspasos de recursos humanos y de los activos patrimoniales tales como bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la dependencia haya utilizado para los asuntos a su cargo;
+
+DÉCIMO PRIMERO.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente, pase de una dependencia a otra, se respetarán conforme a la Ley;
+
+DÉCIMO SEGUNDO.- Los asuntos que con motivo de esta Reforma, deban pasar de una dependencia a otra, seguirán su trámite normal y serán despachados por las autoridades que tomen el control de la dependencia que hubiese adquirido dichas obligaciones y facultades, para lo cual deberá realizarse el correspondiente proceso de entrega recepción a primera hora del día de entrada en vigor de esta Reforma;
+
+DÉCIMO TERCERO.- Las adecuaciones presupuestarias y traspasos de recursos humanos, materiales y financieros, así como de activos patrimoniales, deberán concluirse en un plazo no mayor de tres meses, a partir de la entrada en vigor de la presente Reforma, mediante el procedimiento que marca la Ley en la materia;
+
+DÉCIMO CUARTO.- Las atribuciones, obligaciones y facultades que en otras disposiciones reglamentarias o leyes estén otorgadas a los titulares de las Secretarías y Direcciones que se modifican o desaparecen conforme a esta reforma, quedarán otorgadas a los titulares de las direcciones, subdirecciones, dependencias, órganos desconcentrados y entidades paramunicipales, que tengan las mismas atribuciones, obligaciones y facultades correspondientes, de acuerdo a este Reglamento, en tanto no se dé cumplimiento a lo dispuesto por el Artículo DÉCIMO QUINTOTransitorio (sic) que precede;
+
+DÉCIMO QUINTO.- El Ayuntamiento deberá dentro de un término de noventa días contados a partir de la entrada en vigor de la presente reforma, llevar a cabo las adecuaciones reglamentarias al marco jurídico municipal, derivadas de la presente reforma al Reglamento de la Administración Pública para el Municipio de Ensenada Baja California;
+
+DÉCIMO SEXTO.- Los derechos que se establecen en la Ley de Ingresos por los servicios que presten las dependencias, órganos desconcentrados y entidades paramunicipales que se suprimen, fusionan y/o modifican de acuerdo con la presente reforma, serán aplicados respecto de la dependencia que preste el servicio de conformidad a la presente reforma; y
+
+DECIMO SEPTIMO.- El Ayuntamiento aprobará una norma técnica relativa a la elaboración y aprobación de manuales de organización, procedimientos y de servicios al público, en un término de 120 días contados a partir del inicio de la vigencia del presente Reglamento.
