@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2016-05-13"
+last_updated: "2016-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2016.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -91,7 +91,9 @@ Para favorecer la profesionalización de los agentes del Ministerio Público, pe
 
 El Estado respeta, reconoce, protege y garantiza el derecho a la vida de todo ser humano, desde el momento de la fecundación, como un bien jurídico tutelado y se le reputa como nacido para todos los efectos legales correspondientes, hasta la muerte. Esta disposición no deroga las excusas absolutorias ya contempladas en la legislación penal.
 
-Las autoridades del Estado salvaguardarán el régimen de los derechos y libertades de todas las personas, por el sólo hecho de encontrarse en el territorio estatal. Los derechos humanos no podrán ser limitados o restringidos; en su interpretación se resolverá siempre a favor del gobernado.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+Las autoridades del Estado salvaguardarán el régimen de los derechos y libertades de todas las personas, por el sólo hecho de encontrarse en el territorio estatal. Los Derechos humanos no podrán ser limitados o restringidos; en su interpretación se resolverá siempre a favor del gobernado, además garantizarán el ejercicio de la Justicia Cotidiana, entendiéndose ésta como las instituciones, procedimientos e instrumentos, orientados a dar solución a los conflictos que genera la convivencia diaria en una sociedad democrática.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -1654,3 +1656,11 @@ Artículo Sexto. Se derogan todas las disposiciones que se opongan a la presente
 Artículo Séptimo. La denominación de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro entrará en vigor el 1 de julio de 2016.
 
 Artículo Octavo. Remítase la presente al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 9 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
