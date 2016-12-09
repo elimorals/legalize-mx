@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2016-03-18"
+last_updated: "2016-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
+REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -41,11 +41,9 @@ SECRETARIO FEDATARIO DEL XVII AYUNTAMIENTO
 
 LIC. GUILLERMO BERNARDO ISLAS LEON
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO SEGUNDO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE MARZO DE 2016)</small>
-
-REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE ENSENADA, B. C.
+REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -1367,11 +1365,11 @@ Las sesiones de las Comisiones no serán públicas; sin embargo, cuando así lo 
 
 Los funcionarios y/o servidores públicos no serán sujetos de reclamos o llamadas de atención en estas sesiones.
 
-### CAPITULO SEGUNDO. DE LAS COMISIONES PERMANENTES
+### CAPITULO SEGUNDO. DE LAS COMISIONES PERMANENTES COMISIONES PERMANENTES (SIC)
 
 COMISIONES PERMANENTES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 114.
 
@@ -1387,73 +1385,41 @@ IV.- Equidad y Género;
 
 V.- Obras y Servicios Públicos;
 
-VI.- Desarrollo Urbano y Ecología;
+VI.- Desarrollo Urbano;
 
 VII.- Seguridad, Tránsito y Transporte;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
-
 VIII.- Planeación y Desarrollo Económico;
-
-> <small>(REFORMADA, P.O. 24 DE ENERO DE 2014)</small>
 
 IX.- Salud y Asistencia Social;
 
 X.- Turismo;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
-
 XI.- Educación, Cultura, Ciencia y Tecnología;
 
 XII.- Comercio y Espectáculos;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2010)</small>
-
 XIII.- Desarrollo Rural Sustentable y Delegaciones;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 18 DE JULIO DE 2008)</small>
 
 XIV.- Asuntos Indígenas;
 
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2008)</small>
-
 XV.- Pesca y Acuacultura Sustentables.
 
-(ADICIONADA, P.O. 2 DE JULIO DE 2010) (ADICIONADA [N. DE E. REPUBLICADA], P.O. 29 DE OCTUBRE DE 2010)
+XVI.- Comisión del Agua;
 
-XVI.- Comisión del Agua.
+XVII.- Comisión de Juventud;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2011)</small>
+XVIII.- Comisión del Deporte;
 
-XVII.- Comisión de Juventud.
+XIX.- Desarrollo Social;
 
-> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 28 DE OCTUBRE DE 2011)</small>
+XX.- Comisión de Transparencia y Rendición de Cuentas;
 
-XVIII.- Comisión del Deporte.
+XXI.- Comisión de la Familia;
 
-> <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2014)</small>
+XXII.- Protección Civil; y
 
-XIX.- Desarrollo Social
-
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
-
-XX.- Comisión de Transparencia y Rendición de Cuentas.
-
-> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
-
-XXI.- Comisión de la Familia.
-
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2014)</small>
-
-XXII.- Protección Civil.
-
-Para efectos de crear nuevas comisiones, nombrar, cambiar o remover coordinadores o integrantes de las mismas, el Presidente Municipal lo propondrá al Ayuntamiento en Sesión de Cabildo, en donde éste, determinará por mayoría absoluta la aprobación en su caso.
-
-Las comisiones permanentes tendrán las atribuciones que se le confieran expresamente en este Reglamento y las que otros ordenamientos y el Ayuntamiento le encomienden.
-
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
-
-Para efectos de la elaboración de dictámenes, con independencia del apoyo de la secretaría técnica, podrán solicitar la colaboración y consulta de la unidad o área administrativa encargada de los asuntos jurídicos del propio Ayuntamiento
+XXIII.- Ecología y Medio Ambiente.
 
 COMISION DE GOBERNACION Y LEGISLACION.
 
@@ -1551,43 +1517,33 @@ IV.- Dictaminar respecto de los proyectos de convenio por los que el Ayuntamient
 
 V.- Dictaminar sobre el programa anual de obra pública municipal.
 
-COMISION DE DESARROLLO URBANO Y ECOLOGIA.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+COMISION DE DESARROLLO URBANO
 
 ###### ARTÍCULO 119.
 
 Atribuciones:
 
-I.- Dictaminar respecto de los proyectos de Reglamentos y disposiciones normativas de observancia general en materia de desarrollo urbano y control ecológico;
+I.- Dictaminar respecto de los proyectos de Reglamentos y disposiciones normativas de observancia general en materia de desarrollo urbano;
 
-II.- Vigilar la elaboración y actualización del Plan y los Programas de Desarrollo Urbano del Municipio, así como el Programa Municipal de Protección al Ambiente y los Programas de Ordenamiento Ecológico, dictaminando en su caso, los proyectos que le sean turnados;
+II.- Vigilar la elaboración y actualización del Plan y los Programas de Desarrollo Urbano del Municipio, dictaminando en su caso, los proyectos que le sean turnados;
 
-III.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para eficientar los programas de desarrollo urbano y control ecológico que implemento el Gobierno Municipal;
-
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2015)</small>
+III.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para optimizar los programas de desarrollo urbano que implemente el Gobierno Municipal;
 
 IV.- Opinar y dictaminar en su caso, respecto a asuntos relacionados con la nomenclatura de las vialidades o los centros de población del Municipio;
 
-V.- Dictaminar sobre los cambios de uso de suelo y autorización de fraccionamientos.
+V.- Dictaminar sobre los cambios de uso de suelo y autorización de fraccionamientos;
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2015)</small>
+VI.- Colaborar conjuntamente con el Presidente Municipal y la Dirección de Relaciones Públicas y Comunicación Social, para brindar información a la población de los conocimientos necesarios en materias catastral y de control urbano;
 
-VI.- Colaborar conjuntamente con el Presidente Municipal y el área de Comunicación Social, para brindar información a la población de los conocimientos necesarios en materias catastral, de control urbano y ecológicos;
+VII.- Inspeccionar a solicitud ciudadana la correcta expedición de los diversos dictámenes de uso de suelo, licencias y demás procedimientos conforme a la normatividad en la materia, preferentemente orientados a edificios, locales y establecimientos públicos de alta concurrencia, emitiendo las recomendaciones que considere necesarias,
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2015)</small>
+VIII.- Opinar y dictaminar en su caso, en las campañas de información y divulgación a la población en materia de control urbano, cumpliendo con las directrices dadas por el Ayuntamiento;
 
-VII.- Inspeccionar a solicitud ciudadana la correcta expedición de los diversos dictámenes de uso de suelo, licencias y demás procedimientos conforme a la normatividad en la materia, preferentemente orientados a edificios, locales y establecimientos públicos de alta concurrencia, emitiendo las recomendaciones que considere necesarias, así como los relativos a los procedimientos que realiza la dirección de Ecología Municipal;
+IX.- Vigilar los proyectos integrales en materia de Fraccionamientos ya existentes y en su caso en coordinación con las dependencias de los tres órdenes de gobierno; y
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2015)</small>
-
-VIII.- Opinar y dictaminar en su caso, en las campañas de información y divulgación a la población en materia de control urbano y cuidado ecológico, cumpliendo con las directrices dadas por el Ayuntamiento;
-
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2015)</small>
-
-IX.- Vigilar los proyectos integrales en materia de Fraccionamientos ya existentes y en su caso en coordinación con las dependencias de los tres órdenes de gobierno;
-
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
-
-X.- Solicitar opinión técnica a la Unidad de Protección Civil y a la Subdirección de bomberos relativo (sic) a la seguridad del inmueble y riesgos colindantes de donde se pretende instalar y autorizar los Centros de Atención, Cuidado y Desarrollo Integral Infantil.
+X.- Solicitar opinión técnica a la Dirección de Protección Civil y a la Dirección de Bomberos relativa a la seguridad del inmueble y riesgos colindantes de donde se pretende instalar y autorizar los Centros de Atención, Cuidado y Desarrollo Integral Infantil.
 
 COMISIÓN DE SEGURIDAD, TRANSITO Y TRANSPORTE.
 
@@ -1819,7 +1775,7 @@ IV.- Evaluar y vigilar los trabajos de las dependencias e institutos municipales
 
 COMISIÓN DE DESARROLLO SOCIAL
 
-Articulo 127 Septer.- Atribuciones:
+ARTÍCULO 127 SEPTER.- Atribuciones:
 
 I.- Proponer, analizar, estudiar y dictaminar iniciativas en materia de Desarrollo Social:
 
@@ -1894,6 +1850,24 @@ V.- Opinar y dictaminar en su caso, en las campañas constantes de información 
 VI.- Vigilar el funcionamiento de los servicios públicos y los sistemas estratégicos en caso de riesgo, catástrofe o accidente, en coordinación con las dependencias de los tres órdenes de gobierno.
 
 VII.- Las demás atribuciones afines a estas, que establezcan las leyes y reglamentos de la materia.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+COMISIÓN DE ECOLOGÍA Y MEDIO AMBIENTE
+
+ARTÍCULO 127 UNDECIES.- Atribuciones:
+
+I.- Dictaminar respecto de los proyectos de Reglamentos y disposiciones normativas de observancia general en materia de ecología y medio ambiente;
+
+II.- Vigilar la elaboración y actualización del Programa Municipal de Protección al Ambiente y los Programas de Ordenamiento Ecológico, dictaminando en su caso, los proyectos que le sean turnados;
+
+III.- Proponer al Ayuntamiento los mecanismos e instrumentos que resulten necesarios para optimizar los programas de control ecológico que implemente el Gobierno Municipal;
+
+IV.- Colaborar conjuntamente con el Presidente Municipal y la Dirección de Relaciones Públicas y Comunicación Social para brindar información a la población de los conocimientos necesarios en materia (sic) protección y conservación del medio ambiente;
+
+V.- Inspeccionar a solicitud ciudadana la correcta expedición de los diversos permisos, licencias y demás procedimientos que realiza la Subdirección de Ecología y Medio Ambiente conforme a la normatividad en la materia, emitiendo las recomendaciones que considere necesarias; y
+
+VI.- Opinar y dictaminar en su caso, en las campañas de información y divulgación a la población en materia de ecología y protección al medio ambiente, cumpliendo con las directrices dadas por el Ayuntamiento, disposiciones estatales y federales;
 
 ### CAPITULO TERCERO. DEL PROCEDIMIENTO EN COMISIONES
 
@@ -2210,3 +2184,9 @@ PRIMERO.- Una vez aprobada la presente reforma publíquese en el periódico ofic
 SEGUNDO.- La presente reforma entrará en vigor a partir del primero de Diciembre del 2016.
 
 TERCERO.- Se derogan todas las disposiciones contrarias a la presente reforma.
+
+P.O. 9 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA DE LOS ARTÍCULOS 114 Y 119, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 127 UNDECIES DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
