@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-sorteo-melate-revancha-de-pronosticos-para-31949
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-18"
-last_updated: "2012-03-07"
+last_updated: "2016-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31949&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-19"
 
 REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MARZO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de junio de 2003.
 
@@ -295,7 +295,7 @@ e) A quinto lugar, a las combinaciones dentro de las cuales figuren 4 (cuatro) d
 
 f) A sexto lugar, a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números naturales y el adicional.
 
-g) A séptimo lugar, a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números naturales, y (sic)
+g) A séptimo lugar, a las combinaciones dentro de las cuales figuren 3 (tres) de los 6 (seis) números naturales, y
 
 h) A octavo lugar, a las combinaciones dentro de las cuales figuren 2 (dos) de los 6 (seis) números naturales y el adicional.
 
@@ -335,17 +335,13 @@ El Consejo Directivo de Pronósticos autorizará la asignación del fondo destin
 
 El total para premiación asignado a cada una de las categorías se prorrateará entre todas las combinaciones de números ganadores a la misma categoría de premiación redondeando importes conforme a lo dispuesto en la Ley Monetaria de los Estados Unidos Mexicanos.
 
-> <small>N. DE E. PARA CONSULTAR LA ENTRADA EN VIGOR DE LAS PRESENTES MODIFICACIONES FAVOR DE CONSULTAR EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO DE REFORMAS, D.O.F. 8 DE SEPTIEMBRE DE 2006.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 20o.
 
 Cuando en un sorteo no hubiere combinación ganadora a primer lugar, el premio asignado a esta categoría incrementará en su totalidad el monto del premio al primer lugar del siguiente sorteo de Melate, y si en éste tampoco la hubiere se seguirá el mismo procedimiento, y así sucesivamente, hasta que hubiere combinación ganadora en esta categoría de premiación.
 
-> <small>(REFORMADO, D.O.F. 19 DE AGOSTO DE 2010)</small>
-
-De no haber combinación ganadora al segundo lugar, lo asignado a esta categoría acrecentará en su totalidad el premio al primer lugar.
+De no haber combinación ganadora al segundo lugar, lo asignado a esta categoría acrecentará en su totalidad el premio al tercer lugar.
 
 De no haber combinación ganadora al tercer lugar lo asignado a esta categoría acrecentará en su totalidad el premio asignado al cuarto lugar.
 
@@ -354,8 +350,6 @@ De no haber combinación ganadora al cuarto lugar lo asignado a esta categoría 
 De no haber combinación ganadora a los lugares segundo, tercero, cuarto y quinto, el total de los premios vacantes correspondientes a dichas categorías acrecentará el premio asignado al primer lugar del siguiente sorteo.
 
 Las categorías de sexto, séptimo y octavo lugar no tienen premios acumulativos y, por lo tanto, sus importes asignados deberán repartirse en cada sorteo.
-
-> <small>(REFORMADO, D.O.F. 8 DE SEPTIEMBRE DE 2006)</small>
 
 Los montos asignados para la premiación de las cinco primeras categorías son variables y se establecen en función de las ventas del sorteo y los porcentajes de distribución establecidos para cada una de ellas. Los porcentajes de distribución se aplican al fondo de premiación una vez sustraído el monto destinado a cubrir el pago de premios de la sexta a la novena categoría.
 
@@ -976,3 +970,11 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se contrapongan a las esta
 D.O.F. 7 DE MARZO DE 2012.
 
 UNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 9 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMA EL ARTÍCULO 20º DEL REGLAMENTO DEL SORTEO MELATE-REVANCHA DE PRONÓSTICOS PARA LA ASISTENCIA PÚBLICA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día hábil siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente acuerdo.
