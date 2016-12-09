@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-general-de-gobierno-12393"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-23"
-last_updated: "2016-07-15"
+last_updated: "2016-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 23 de enero de 1998.
 
@@ -59,11 +59,23 @@ a).- La Dirección de Desarrollo Político; y
 
 b).- La Dirección de Enlace Internacional.
 
-d).- (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2008) (SIC)
+d) (SIC).- (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2008)
 
-III.- La Subsecretaría Jurídica y de Servicios, integrada por:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
-La Dirección General de Asuntos Jurídicos, de la que a su vez dependen:
+III.- La Subsecretaría de Derechos Humanos y Asuntos Jurídicos, integrada por:
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+1. La Dirección General de Derechos Humanos, de la que a su vez dependen:
+
+a) La Dirección de Derechos Humanos y Políticas Públicas.
+
+b) Dirección de Seguimiento y Atención de Casos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+2. La Dirección General de Asuntos Jurídicos, de la que a su vez dependen:
 
 a).- La Dirección Jurídica;
 
@@ -223,9 +235,9 @@ IV.- Coordinar con otros servidores públicos de la Secretaría las labores que 
 
 V.- Suscribir los documentos relativos al ejercicio de sus atribuciones, así como los concernientes a los asuntos que les sean delegados o les correspondan por suplencia;
 
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
-El Subsecretario Jurídico y de Servicios, podrá intervenir con la representación jurídica del Gobernador del Estado y del Secretario General de Gobierno, en todos los juicios del orden civil, laboral, amparo, penal, contencioso administrativo, agrario, y en general en todos los negocios en que participen como parte o con cualquier carácter en el que tengan interés jurídico, a saber de manera enunciativa más no limitativa: ejercer representación con el carácter de apoderado legal; firmar en los juicios de amparo, en nombre y representación del Gobernador del Estado y del Secretario General de Gobierno, en ausencia de éstos, los informes previos y justificados que deban rendir cuando sean señalados como autoridades responsables; con facultades para acreditar delegados, rendir pruebas, alegar, realizar promociones y atender requerimientos, e interponer los recursos que procedan; representarlo en todos y cada uno de los medios de control constitucional jurisdiccionales y no jurisdiccionales; proseguir la tramitación de todos los procesos y procedimientos, ofrecer todas las pruebas y medios de convicción a su alcance o que resulten procedentes, intervenir en las audiencias e interponer o hacer valer, los recursos legales o medios de impugnación que procedan y, en general, realizar toda clase de trámites y actuaciones que correspondan para la adecuada defensa de los intereses del Gobernador y del Secretario General de Gobierno.
+El Subsecretario de Derechos Humanos y Asuntos Jurídicos, podrá intervenir con la representación jurídica del Gobernador del Estado y del Secretario General de Gobierno, en todos los juicios del orden civil, laboral, amparo, penal, contencioso administrativo, agrario, y en general en todos los negocios en que participen como parte o con cualquier carácter en el que tengan interés jurídico, a saber de manera enunciativa más no limitativa: ejercer representación con el carácter de apoderado legal; firmar en los juicios de amparo, en nombre y representación del Gobernador del Estado y del Secretario General de Gobierno, en ausencia de éstos, los informes previos y justificados que deban rendir cuando sean señalados como autoridades responsables; con facultades para acreditar delegados, rendir pruebas, alegar, realizar promociones y atender requerimientos, e interponer los recursos que procedan; representarlo en todos y cada uno de los medios de control constitucional jurisdiccionales y no jurisdiccionales; proseguir la tramitación de todos los procesos y procedimientos, ofrecer todas las pruebas y medios de convicción a su alcance o que resulten procedentes, intervenir en las audiencias e interponer o hacer valer, los recursos legales o medios de impugnación que procedan y, en general, realizar toda clase de trámites y actuaciones que correspondan para la adecuada defensa de los intereses del Gobernador y del Secretario General de Gobierno.
 
 VI.- Proporcionar, previo acuerdo con el Secretario, la información, los datos o la cooperación que les sean requeridos internamente o por otras dependencias del Ejecutivo del Estado, conforme a las políticas establecidas al respecto;
 
@@ -236,6 +248,10 @@ VIII.- Recibir en acuerdo ordinario a los servidores públicos que dependan del 
 IX.- Promover, formular e instrumentar en las áreas a su cargo el Programa de Modernización Administrativa, conforme a los lineamientos emitidos al respecto; y
 
 X.- Las demás que las disposiciones legales y reglamentarias les atribuyan, así como aquéllas que les confiera la Superioridad.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 8 BIS.- El Subsecretario de Derechos Humanos y Asuntos Jurídicos auxiliará al Titular del Poder Ejecutivo del Estado y al Secretario General de Gobierno en todas y cada una de las atribuciones que en materia de derechos humanos le otorga la Ley Orgánica de la Administración Pública del Estado y será el encargado y responsable de dar seguimiento a las políticas, programas, acciones, labores y cualquier otra gestión que en esa materia requiera de coordinación en la administración pública estatal por sí o a través de las unidades a su cargo.
 
 ATRIBUCIONES DE LOS DIRECTORES GENERALES.
 
@@ -397,47 +413,65 @@ XIII.- Promover y, en su caso, desarrollar programas de orientación y capacitac
 
 XIV.- Las demás que les señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 9 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 15.
 
-Competen a la Dirección del Trabajo y Previsión Social las siguientes atribuciones:
+Compete a la Dirección General de Derechos Humanos:
 
-I.- Ejercer, por delegación del Ejecutivo y en el ámbito estatal, las atribuciones que le correspondan en materia de administración laboral, con apego al artículo 529 de la Ley Federal del Trabajo;
+I. Coordinar, orientar y dar seguimiento a los trabajos y tareas de protección y defensa de los derechos humanos que lleven a cabo las dependencias y entidades de la Administración Pública del Estado;
 
-II.- Intervenir administrativamente, en la solución de los conflictos individuales o colectivos que surjan en la Entidad en materia de las relaciones de trabajo, cuando el conocimiento de esos conflictos no corresponda a las autoridades federales, así como proporcionar a los trabajadores la asesoría jurídica que soliciten en materia de administración de trabajo;
+II. Dar atención y seguimiento a las recomendaciones emitidas por las Comisiones de Derechos Humanos y diversos organismos en materia de protección de Derechos Humanos.
 
-III.- Auxiliar a las autoridades en coordinación con las dependencias federales de la materia, en la vigilancia del cumplimiento de las disposiciones legales vigentes que regulen las relaciones obrero-patronales;
+III. Coordinar y verificar la ejecución de las resoluciones dictadas por los organismos nacionales e internacionales de derechos humanos que involucren al Estado;
 
-IV.- Imponer sanciones pecuniarias a las personas que violen las disposiciones legales vigentes en la materia, tunándolas a la Secretaria de Finanzas para que las haga efectivas;
+IV. Coordinar y dar seguimiento al Programa Estatal de Derechos Humanos.
 
-V.- En el área de su competencia y existiendo causa que lo amerite, expedir citatorios a fin de que los destinatarios de los mismos comparezcan ante la Dirección;
+V. Así como todas y cada una de las acciones que sean necesarias en el ejercicio de las atribuciones otorgadas por ley a la Secretaria General de Gobierno en coadyuvancia con la Subsecretaria de Derechos Humanos y Asuntos Jurídicos, por sí o a través de sus unidades.
 
-VI.- Participar en la selección de representantes obrero-patronales para la integración de los tribunales locales del trabajo;
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
-VII.- Supervisar la correcta aplicación de las disposiciones y resoluciones legales, relativas a la participación de los trabajadores en las utilidades de las empresas, salarios mínimos y capacitación, así como de las medidas de seguridad e higiene industrial;
+ARTICULO 15 BIS.- Competen a la Dirección de Derechos Humanos y Políticas Públicas las siguientes atribuciones:
 
-VIII.- Proponer al superior jerárquico la implementación de las medidas administrativas que se estimen conducentes en materia de seguridad industrial, prevención del desempleo, accesos a las oportunidades laborales para obreros desocupados y de protección al menor y a las mujeres trabajadoras;
+I. Promover, orientar y dar seguimiento a políticas públicas en materia de derechos humanos que incorporen las dependencias y entidades de la Administración Pública Estatal sus distintos programas, en congruencia con las disposiciones constitucionales en materia de derechos humanos;
 
-IX.- Fomentar las actividades educativas entre los obreros y sus familiares, difundiendo por medio de folletos y conferencias, conocimientos sobre seguridad industrial, economía domestica y preparación técnica, sindical y social;
+II. Realizar acciones y proponer estrategias para consolidar una política de Estado transversal en materia de derechos humanos;
 
-X.- Procurar las medidas de previsión social en los centros de trabajo;
+III. Vincular sus acciones con organismos nacionales e internacionales en materia de derechos humanos, para generar propuestas que incidan en la planeación de políticas públicas en materia de derechos humanos;
 
-XI.- Supervisar la constitución y el funcionamiento de las comisiones mixtas de capacitación y adiestramiento;
+IV. Coordinar con las entidades de la administración estatal las propuestas de estrategias, programas y acciones que aseguren que la elaboración e implementación de políticas públicas sean congruentes con los principios constitucionales en materia de derechos humanos;
 
-XII.- Practicar los exámenes de competencia a los jefes de planta, operadores, fogoneros y personal especializado que determine la Ley Federal del Trabajo, expidiendo, así como expedir en su caso (sic), las licencias correspondientes;
+V. Realizar diagnósticos del respeto a los derechos humanos en el territorio estatal e identificar a las comunidades que requieran mayor asistencia en la materia, para la elaboración de políticas públicas que permitan atender dichos derechos;
 
-XIII.- Proponer la celebración de los convenios con instituciones públicas, privadas y sociales en materia de empleo y previsión social, así como vigilar su cumplimiento;
+VI. Coordinar y, en su caso, proponer a la Subsecretaría de Derechos Humanos y Asuntos Jurídicos los programas que integren la política en materia de derechos humanos;
 
-XIV.- Coordinar y, en su caso, ejecutar los programa de desarrollo cultural y recreativo para los trabajadores y sus familias;
+VII. Realizar estudios y coordinar mesas de diálogo en materia de derechos humanos;
 
-XV.- Apoyar a las organizaciones sindicales en el desarrollo de sus programas de formación gremial;
+VIII. Establecer mecanismos de colaboración y vinculación con organizaciones de la sociedad civil, sector académico e instancias públicas para promover el respeto a los derechos humanos.
 
-XVI.- Formular y ejecutar programas de protección al salario; y
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
-XVII.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad.
+ARTICULO 15 TER.- Compete a la Dirección de Seguimiento y Atención de Casos:
 
-ARTICULO 15 BIS.- (DEROGADO, P.O. 28 DE AGOSTO DE 2004)
+I. Coordinar, orientar y dar seguimiento a los trabajos y tareas de protección y defensa de los derechos humanos que lleven a cabo las dependencias y entidades de la Administración Pública Estatal;
 
-ARTICULO 15 TER.- (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2008)
+II. Dar seguimiento para el adecuado cumplimiento de las recomendaciones emitidas por la Comisión Nacional de los Derechos Humanos y por la Comisión Estatal de Derechos Humanos;
+
+III. Sistematizar y difundir información relativa al cumplimiento de las recomendaciones emitidas por la Comisión Nacional de Derechos Humanos y por la Comisión Estatal de Derechos Humanos;
+
+IV. Fungir corno vínculo entre el Gobierno del Estado y las organizaciones de la sociedad civil dedicadas a la defensa de los derechos humanos, así como atender y, en su caso, remitir a las instancias competentes las peticiones que éstas le formulen, sin perjuicio de las atribuciones de otras unidades administrativas de la Secretaría;
+
+V. Someter a consideración del superior jerárquico la forma en que serán atendidas las recomendaciones y sentencias dictadas por organismos internacionales en materia de derechos humanos cuya competencia, procedimientos y resoluciones sean reconocidos por el Estado mexicano y que competan a la administración pública estatal;
+
+VI. Vincular sus acciones con organismos nacionales e internacionales en materia de derechos humanos, para la colaboración y atención de asuntos en esta materia;
+
+VII. Recomendar reformas al marco jurídico en materia de derechos humanos y las garantías para su protección;
+
+VIII. Coordinar la atención de las solicitudes de medidas precautorias o cautelares necesarias para prevenir la violación de derechos humanos, así como instrumentar dichas medidas, siempre que no sean de la competencia de alguna otra dependencia de la administración pública estatal;
+
+IX. Coordinar y supervisar, en la Secretaría, el cumplimiento a obligaciones que en materia de protección y defensa de los derechos humanos le correspondan; y
+
+X. Dictar, previo acuerdo con su superior jerárquico, las medidas administrativas que sean necesarias para que las autoridades estatales, en el ámbito de sus respectivas competencias, procuren el cumplimiento de los preceptos constitucionales, en lo relativo a los derechos humanos y a las garantías para su protección.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2002)</small>
 
@@ -1086,3 +1120,11 @@ P.O. 15 DE JULIO DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 Segundo. Se abrogan todas aquellas disposiciones que se opongan al presente decreto administrativo.
+
+P.O. 9 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA EL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
+
+SEGUNDO. Se abrogan todas aquellas disposiciones que se opongan al presente decreto administrativo.
