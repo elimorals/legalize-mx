@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2015-05-15"
+last_updated: "2016-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -831,6 +831,10 @@ XII. De la Familia.
 
 XIII. Por los Derechos de las Personas con Discapacidad, Adultos Mayores y Niñez
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+XIV. Del Transporte Publico
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 COMISIÓN DE GOBERNACION, LEGISLACION Y MIGRACION
@@ -1217,6 +1221,22 @@ VII. Ser integrante del consejo municipal por los derechos de personas con disca
 
 VIII. Y en general aquellas que el Cabildo le encomiende.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 82 OCTA.- La Comisión del Transporte Público tendrá las siguientes atribuciones:
+
+I. Proponer, y en su caso dictaminar sobre proyectos de emisión, adecuación o modificación de bandos, reglamentos, iniciativas de Ley, decretos y disposiciones normativas de observancia general en materia de transporte público municipal;
+
+II. Vigilar y promover en el ámbito municipal el cumplimento a las Leyes, reglamentos y demás disposiciones de carácter legal de carácter Federal y Estatal en materia de transporte público.
+
+III. Proponer al Cabildo los mecanismos e instrumentos necesarios para mejorar el transporte público;
+
+IV. Dictaminar sobre proyectos de movilidad y transporte publico relacionados con la coordinación y concurrencia del Ayuntamiento con otros gobiernos municipales, así como con el federal y estatal;
+
+V. Opinar sobre la apertura, mantenimiento y conservación de vías públicas para el uso de transporte público; y
+
+VI. Las demás que el H. Cabildo le encomiende.
+
 REMISION A COMISIONES
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2008)</small>
@@ -1416,3 +1436,19 @@ P.O. 24 DE ABRIL DE 2015.
 P.O. 15 DE MAYO DE 2015.
 
 ÚNICO.- La presente Reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS AL REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA, PARA LA CREACIÓN E INTEGRACIÓN DE LA COMISIÓN PERMANENTE DEL TRANSPORTE PÚBLICO DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA, ASIMISMO SE APRUEBA LA CREACIÓN DEL ORGANISMO DESCENTRALIZADO DENOMINADO “SISTEMA DE TRANSPORTE MUNICIPAL DE TECATE, BAJA CALIFORNIA”, Y SE APRUEBA DIVERSAS REFORMAS AL REGLAMENTO DE TRANSPORTE PÚBLICO PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA”.]
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Segundo.- La instalación de la Junta de Gobierno, se deberá llevar a cabo dentro de los treinta días hábiles siguientes a partir de la entrada en vigor del presente acuerdo.
+
+Tercero.- El Presidente Municipal, en su facultad de Presidente de la Junta de Gobierno, deberá nombrar al Director General del SITMUN interino, mismo que deberá ser ratificado por la Junta de Gobierno.
+
+Cuarto.- La Junta de Gobierno dentro de los 60 días posteriores a la entrada en vigor del presente Acuerdo, deberá presentar para su aprobación, el Reglamento Interior que habrá de regirlo.
+
+Quinto.- La Administración Pública del Municipio de Tecate por conducto del Presidente Municipal tomará las medidas conducentes con la finalidad de que el SITMUN cuente con los recursos humanos, materiales y financieros que sean necesarios para el inicio de sus actividades.
+
+Sexto: Se derogan todas y cada una de las disposiciones Normativas y Reglamentarias derivadas de Acuerdos y Reglamentos que se opongan a las presentes disposiciones legales.
