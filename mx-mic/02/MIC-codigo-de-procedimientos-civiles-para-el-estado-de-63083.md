@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-para-el-estado-de-63083"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-06"
-last_updated: "2015-06-24"
+last_updated: "2016-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2016.
 
 Código publicado en la Sección Extraordinaria del Periódico Oficial del Estado de Michoacán, el sábado 6 de septiembre de 2008.
 
@@ -275,25 +275,27 @@ V. La división;
 
 VI. La excusión;
 
-VII. La de arraigo personal o fianza de estar a derecho cuando el actor fuere extranjero o transeúnte; y,
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
-VIII. Las demás a que dieren ese carácter las leyes.
+VII. La de arraigo personal o fianza de estar a derecho cuando el actor fuere extranjero o transeúnte;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+VIII. La eficacia refleja de la cosa juzgada; y,
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
+IX. Las demás a que dieren ese carácter las leyes.
 
 ###### Artículo 34.
 
 La excepción dilatoria de falta de formación de inventarios, sólo podrá hacerse valer dentro de los cien días siguientes al del fallecimiento del autor de la sucesión.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 35.
 
-Sólo las excepciones de incompetencia, falta de personalidad, de personería, cosa juzgada, litispendencia y Iitisconsorcio se decidirán en artículo de previo y especial pronunciamiento. La primera se substanciará en los términos señalados en el Capítulo IV del Título Segundo y las demás en la forma señalada para los incidentes.
-
-La excepción de litispendencia procede cuando un juez conoce ya de un juicio en el que exista igualdad entre partes, acciones y cosas con el juicio en que se haga valer. De proceder la excepción de litispendencia, se sobreseerá el segundo juicio.
-
-Existirá litisconsorcio cuando las cuestiones materia de un juicio afecten o favorezcan a dos o más personas, de manera que no sea posible pronunciar sentencia valida, sin oírlas a todas ellas, en virtud de existir entre éstas comunidad jurídica con respecto al objeto litigioso o tengan un mismo derecho o se encuentren obligados por igual causa, de hecho o jurídica.
-
-De prosperar esta excepción, tendrá el efecto de que no se entre al estudio de fondo de la acción ejercitada y se dejen a salvo los derechos de las partes para que de considerarlo conveniente los hagan valer en la vía y forma que legalmente corresponda.
+Sólo las excepciones de incompetencia, falta de personalidad, de personería, cosa juzgada, litispendencia, litisconsorcio y la eficacia refleja de la cosa juzgada, se decidirán en artículo de previo y especial pronunciamiento. La primera se substanciaral (sic) en los términos señalados en el capítulo IV del Título Segundo y las demás en la forma señalada para los incidentes.
 
 ###### Artículo 36.
 
@@ -3333,11 +3335,17 @@ Las sentencias ejecutoriadas, en virtud de las cuales se trasmita o modifique la
 
 La sentencia que cause ejecutoria producirá la acción y excepción de cosa juzgada.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 592.
 
-Para que la acción o excepción de cosa juzgada surta efecto en otro juicio, es necesario que entre el caso resuelto por la sentencia y aquél en que ésta sea invocada, concurran identidad en las cosas, las causas, las personas de los litigantes y la calidad con que lo fueren.
+La acción, la excepción de cosa juzgada o la eficacia refleja de la misma procederán, cuando por sentencia firme pronunciada en juicio diverso, ya se encuentre resuelto el mismo fondo substancial controvertido nuevamente en el juicio de donde se oponga tal excepción, y concurran identidad en las cosas, causas, en las personas y en las calidades con que estas intervinieron. Procederái (sic) la eficacia refleja, cuando alguna parte del fondo del asunto ya fue decidido.
 
-Se entiende que hay identidad de personas, siempre que los litigantes del segundo pleito sean causa-habientes de los que contendieron en el pleito anterior o estén unidos a ellos por solidaridad o indivisibilidad de las prestaciones entre los que tienen derecho a exigirlas u obligación de satisfacerlas.
+Se entiende que hay identidad de personas siempre que los litigantes del segundo pleito sean causa-habientes de los que contendieron en el pleito anterior o estén unidos a ellos por solidaridad o indivisibilidad de las prestaciones entre los que tienen derecho a exigirlas u obligación de satisfacerlas.
+
+Esta excepción produce efecto tanto contra los que litigaron como contra aquellos que fueron legalmente llamados a juicio, salvo el proceso fraudulento y excluye la posibilidad de volver a tratar en juicio la cuestión resuelta por sentencia firme. Tanto el Juez como el Tribunal de alzada deben examinar y declarar de oficio la cosa juzgada si tuvieren conocimiento de ella.
+
+En las cuestiones relativas al estado civil de las personas y a las de validez o nulidad de las disposiciones testamentarias, la presunción de cosa juzgada es eficaz contra terceros aunque no hubiesen litigado.
 
 ###### Artículo 593.
 
@@ -6820,5 +6828,11 @@ P.O. 1 DE FEBRERO DE 2012.
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 P.O. 24 DE JUNIO DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 9 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 180 POR EL QUE “SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 33, LOS ARTÍCULOS 35 Y 592 Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 33 TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
