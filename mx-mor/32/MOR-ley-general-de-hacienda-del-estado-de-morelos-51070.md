@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2016-08-10"
+last_updated: "2016-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 10 DE AGOSTO DE 2016 NO APLICA A LAS REFORMAS DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS PUBLICADAS DEL DECRETO NÚMERO NOVECIENTOS NOVENTA Y CUATRO PUBLICADO EN EL P.O. DE 10 DE AGOSTO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -1889,7 +1887,7 @@ Para los efectos de este Capítulo, las cantidades retenidas por los Fedatarios 
 
 ### CAPÍTULO SEXTO. SERVICIOS RELACIONADOS CON EL DESARROLLO SUSTENTABLE
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 82.
 
@@ -2535,701 +2533,899 @@ Artículo 84 BIS-3. No obstante lo dispuesto por el artículo 84 BIS, en el ejer
 
 Los servicios en materia de desarrollo sustentable causarán derechos y se pagarán previamente por los interesados, en la siguiente forma:
 
-TARIFA
+Tarifa en UMA
 
-I. EN MATERIA DE CALIDAD DEL AIRE:
+I. En materia de calidad del aire:
 
-A) FUENTES FIJAS.
+A) Fuentes fijas:
 
-1. Combustión a cielo abierto por cada evento a realizar se
+1. Combustión a cielo abierto,
 
-pagará $411.00
+por cada evento a realizar se pagará: 6.00
 
-B) FUENTES MÓVILES
+B) Fuentes móviles:
 
-1. Costo de la Verificación por tipo de Holograma:
+1. Costo de la verificación por
 
-1.1. Por verificación vehicular tipo "1"; $220.00
+tipo de holograma:
 
-1.2. Por verificación vehicular tipo "2"; $220.00
+1.1. Por la verificación vehicular tipo "1": 3.01
 
-1.3. Por verificación vehicular tipo "0"; $319.00
+1.2. Por la verificación vehicular tipo "2": 3.01
 
-1.4. Por verificación vehicular tipo "00"; $638.00
+1.3. Por la verificación vehicular tipo "0": 4.36
 
-1.5. Holograma tipo E"; exento
+1.4. Por la verificación vehicular tipo “00”: 8.73
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2016)</small>
+1.5. Holograma tipo E: EXENTO
 
-2. Por otorgamiento de autorización para establecer, equipar
+2. Por otorgamiento de autorización por
 
-y operar un verificentro, por cada equipo analizador de gases,
+cada Línea de Verificación en equipos
 
-en los términos de la Ley del Equilibrio Ecológico y la Protección
+analizadores de gases:
 
-al Ambiente del Estado de Morelos y la Convocatoria que
+2.1. Por cada línea de verificación dinámica,
 
-corresponda $51,813.00
+(tratándose de equipos para gasolina, gas
 
-3. (DEROGADO, P.O. 21 DE JULIO DE 2016)
+licuado de petróleo y gas natural): 4107.34
 
-4. Por la alta de un técnico verificador de
+2.2. Por cada línea de verificación dual,
 
-verificentro o centro de diagnóstico de emisiones
+(con capacidad de prueba estática y diésel): 6161.01
 
-contaminantes: $410.00
+3. Certificación, acreditación y autorización
 
-5. Por el trámite de la certificación de la verificación
+a personas físicas o morales para comercializar
 
-vehicular: $40.00
+o instalar sistemas, equipos y dispositivos
 
-6. Multas por verificación extemporánea del servicio
+de control de emisiones: 72.00
 
-particular por periodo vencido:
+4. Por el alta de un técnico verificador de
 
-PERIODOS VENCIDOS MONTO
+Centros de Verificación Vehicular: 8.50
 
-1 $210.00
+5. Por el trámite de la certificación de la
 
-2 $561.00
+verificación vehicular: 1.00
 
-3 $911.00
+6. Multa por el incumplimiento de
 
-4 $1,262.00
+la verificación vehicular obligatoria o
 
-5 $1,612.00
+ser ostensiblemente contaminante: 14.00
 
-6 $1,963.00
+II. En materia de impacto ambiental:
 
-7 $2,313.00
+A) Dictamen de sujeción al procedimiento
 
-8 $2,664.00
+de evaluación del impacto ambiental: 4.50
 
-9 $3,014.00
+B) Por evaluación y autorización de informe
 
-10 $3,365.00
+preventivo: 112.50
 
-7. MULTAS POR VERIFICACIÓN EXTEMPORÁNEA,
+C) Por evaluación de la manifestación de
 
-SERVICIO PÚBLICO, POR PERIODO VENCIDO:
+impacto ambiental modalidad general:
 
-PERIODOS VENCIDOS MONTO
+1. Considerando proyectos industriales,
 
-1 $351.00
+comerciales, de servicios, habitacionales,
 
-2 $1,052.00
+de aprovechamiento, turísticos o
 
-3 $1,753.00
+agropecuarios en una superficie menor a
 
-4 $2,454.00
+una hectárea: 169.00
 
-5 $3,155.00
+2 Por cada hectárea adicional en la
 
-6 $3,856.00
+superficie del predio:
 
-7 $4,457.00
+2.1. Proyectos turísticos y agropecuarios: 170.00
 
-8 $5,258.00
+2.2. Proyectos habitacionales, comerciales
 
-9 $5,959.00
+y de servicios: 213.00
 
-10 $6,660.00
+2.3. Proyectos industriales y de
 
-II. EN MATERIA DE IMPACTO AMBIENTAL
+aprovechamiento: 248.00
 
-A) Dictamen de sujeción al procedimiento de evaluación
+2.4. Por compensación ambiental, en proyectos
 
-del impacto ambiental: $328.00
+donde la construcción sea mayor a los 200
 
-B) Por evaluación y autorización de informe preventivo: $8,210.00
+metros cuadrados, se pagará adicionalmente
 
-C) Por evaluación de la manifestación de impacto
+por cada metro cuadrado de construcción: 0.25
 
-ambiental modalidad general:
+D) Por evaluación de la manifestación de
 
-Modalidad en general
-
-1. Considerando proyectos industriales. Comerciales, de
-
-servicios, habitacionales, de aprovechamiento, turísticos
-
-o agropecuarios en una superficie menor a una hectárea: $12,315.00
-
-2. Por cada hectárea adicional en la superficie del predio:
-
-2.1. Proyectos turísticos y agropecuarios: $12,397.00
-
-2.2. Proyectos habitacionales, comerciales y de servicios: $15,518.00
-
-2.3. Proyectos industriales y de aprovechamiento: $18,062.00
-
-2.4. Por compensación ambiental, en proyectos donde la
-
-construcción sea mayor a los 200 metros cuadrados,
-
-se pagará adicionalmente por cada metro cuadrado
-
-de construcción: $8.00
-
-D) Por evaluación de manifestación de impacto ambiental
-
-modalidad específica $28,736.00
+impacto ambiental modalidad específica: 394.00
 
 1. Por cada hectárea adicional:
 
-1.1 Proyectos turísticos y agropecuarios $25,781.00
+1.1 Proyectos turísticos y agropecuarios: 353.00
 
-1.2 Proyectos habitacionales, comerciales y de servicios $27,833.00
+1.2 Proyectos habitacionales, comerciales
 
-1.3. Proyecto industriales y de aprovechamiento $30,953.00
+y de servicios: 381.50
 
-E) Por estudio de riesgo ambiental
+1.3 Proyectos industriales y de
 
-1. Nivel uno $4,105.00
+aprovechamiento: 424.00
 
-2. Nivel dos $5,173.00
+E) Por estudios de riesgo ambiental:
 
-F) Por la revalidación del resolutivo de impacto ambiental $12,315.00
+1. Nivel uno: 56.50
 
-III. EN MATERIA DE MEJORAMIENTO ECOSISTÉMICO:
+2. Nivel dos: 71.00
 
-A) Venta de Planta Forestal de edad menor a un año, por unidad
+F) Por la revalidación del resolutivo de
 
-1. En Charola: $3.00
+impacto ambiental: 169.00
 
-2. En Bolsa 15 x 25: $6.00
+III. En materia de mejoramiento ecosistémico:
 
-B) Venta de Planta de edad mayor a un año, por unidad
+A) Venta de planta forestal de edad menor
 
-1. En Charola: $6.00
+a un año, por unidad:
 
-2. En Bolsa mayor a 15 x 25: $10.00
+1. En charola: 0.10
 
-C) Venta de planta frutal para beneficiarios del programa
+2. En bolsa 15 x 25: 0.10
 
-de concurrencia con entidades federativas (por unidad):
+B) Venta de planta forestal de edad mayor
 
-1. Aguacate (Hass y Selección Méndez): $25.00
+a un año, por unidad:
 
-2. Limón persa: $25.00
+1. En charola: 0.10
 
-3. Naranja valencia: $13.00
+2. En bolsa 15 x 25: 0.25
 
-4. Higo Mission: $10.00
+C) Venta de planta frutal para
 
-5. Durazno (diamante y robin): $30.00
+beneficiarios del programa de
 
-D) Venta de planta frutal a público en general (por unidad):
+concurrencia con entidades
 
-1. Aguacate (Hass y Selección Méndez): $60.00
+federativas (por unidad):
 
-2. Limón persa: $50.00
+1. Aguacate (Hass y selección Méndez): 0.50
 
-3. Naranja valencia: $50.00
+2. Limón persa: 0.50
 
-4. Higo mission: $25.00
+3. Naranja valencia: 0.50
 
-5. Durazno (diamante y robin): $20.00
+4. Higo Mission: 0.50
 
-IV. EN MATERIA DE GESTIÓN INTEGRAL DE RESIDUOS:
+5. Durazno (Diamante y Robin): 0.50
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2016)</small>
+D) Venta de planta frutal a público
 
-A) Autorizaciones o concesiones en materia de gestión integral
+en general (por unidad):
+
+1. Aguacate (Hass y selección Méndez): 1.00
+
+2. Limón persa: 1.00
+
+3. Naranja valencia: 1.00
+
+4. Higo Mission: 0.50
+
+5. Durazno (Diamante y Robin): 0.50
+
+IV En materia de gestión integral de residuos:
+
+A) Autorizaciones en materia de gestión integral
 
 de residuos en sus diferentes modalidades:
 
-1. De transporte de residuos sólidos urbanos y de manejo
+1. De transporte de residuos sólidos urbanos
 
-especial, para vehículos en función de su capacidad de transporte:
+y de manejo especial, para vehículos en
 
-1.1. Hasta 3.5 toneladas: $903.00
+función de su capacidad de transporte:
 
-1.2. De más de 3.5 y hasta 8 toneladas: $1,806.00
+1.1. Hasta 3.5 toneladas: 12.50
 
-1.3. De más de 8 toneladas: $3,613.00
+1.2. De más de 3.5 y hasta 8 toneladas: 25.00
 
-2. De tratamiento de residuos orgánicos, por capacidad
+1.3. De más de 8 toneladas: 50.00
 
-de almacenamiento:
+2. De tratamiento de residuos orgánicos,
 
-2.1. Hasta 30 toneladas: $903.00
+por capacidad de almacenamiento:
 
-2.2. De más de 30 y hasta 60 toneladas: $1,806.00
+2.1. Hasta 30 toneladas: 12.50
 
-2.3. De más de 60 toneladas: $3,613.00
+2.2. De más de 30 y hasta 60 toneladas: 25.00
 
-3. De capacidad de almacenamiento temporal y centros
+2.3. De más de 60 toneladas: 50.00
 
-de acopio de residuos sólidos urbanos y de manejo especial:
+3. De capacidad •de almacenamiento
 
-3.1. Hasta 30 toneladas: $903.00
-
-3.2: de más de 30 y hasta 60 toneladas: $1,806.00
-
-3.3. De más de 60 toneladas: $3,613.00
-
-4. De capacidad de tratamientos térmicos, químicos,
-
-físicos o biológicos dé residuos sólidos urbanos•
-
-y de manejo especial:
-
-4.1. Hasta 30 toneladas: $1,994.00
-
-4.2. De más de 30 y hasta 60 toneladas: $2,388.00
-
-4.3. De más de 60 toneladas: $4, 775.00
-
-5. De operación de un centro de transferencia o disposición
-
-final de residuos sólidos:
-
-5.1. Cantidad de residuos que ingresan hasta 10 toneladas: $3,980.00
-
-5.2. Cantidad de residuos que ingresan de más de 10 y
-
-hasta 50 toneladas: $6,367.00
-
-5.3. Cantidad de residuos que ingresan de más de 50 y
-
-hasta 100 toneladas: $9,550.00
-
-5.4. Cantidad de residuos que ingresan mayor
-
-a 100 toneladas: $15,918.00
-
-6. De remediación de suelos contaminados por residuos
+temporal y centros de acopio de residuos
 
 sólidos urbanos y de manejo especial:
 
-6.1. Por hectárea contaminada: $1,994.00
+3.1. Hasta 30 toneladas: 12.50
 
-7. Plan de manejo de residuos sólidos urbanos y de manejo especial:
+3.2. De más de 30 y hasta 60 toneladas: 25.00
 
-7.1. Registro de plan de manejo de residuos sólidos
+3.3. De más de 60 toneladas: 50.00
 
-urbanos y de manejo especial: $1,274.00
+4. De capacidad de tratamientos térmicos,
 
-7.2. Actualización cada tercer año posterior al registro: $637.00
+químicos, físicos o biológicos de residuos
 
-7.3. Por cada metro cuadrado a constituir considerando
+sólidos urbanos y de manejo especial:
 
-proyectos comerciales, de servicios, habitacionales en
+4.1. Hasta 30 toneladas: 27.50
 
-centros urbanos o ecoturísticos o agropecuarios: $8.00
+4.2. De más de 30 y hasta 60 toneladas: 33.00
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2016)</small>
+4.3. De más de 60 toneladas: 65.50
 
-8. De operación y administración de plantas de valorización
+5. De operación de un centro de transferencia
 
-de residuos sólidos y comercialización de productos y
+o disposición final de residuos sólidos:
 
-subproductos
+5.1. Cantidad de residuos que ingresan hasta
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+10 toneladas: 54.50
 
-8.1. Plantas o unidades de valorización de residuos
+5.2. Cantidad de residuos que ingresan de
 
-Sólidos $51,813.00
+más de 10 y hasta 50 toneladas: 87.50
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+5.3. Cantidad de residuos que ingresan de
 
-8.2. Comercialización de productos y subproductos
+más de 50 y hasta 100 toneladas: 131.00
 
-derivados de la actividad $51,813.00
+5.4. Cantidad de residuos que ingresan más
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+de 100 toneladas: 218.00
 
-8.3. Plantas industriales de metanización de la
+6. De remediación de suelos contaminados
 
-fracción orgánica de residuos sólidos urbanos
+por residuos sólidos urbanos y de manejo
 
-$51,813.00
+especial:
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2016)</small>
+6.1. Por hectárea contaminada: 27.50
 
-9. Disposición de residuos sólidos urbanos a los
+7. Plan de manejo de residuos sólidos
 
-Ayuntamientos del Estado de Morelos
+urbanos y de manejo especial:
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+7.1. Registro de plan de manejo de residuos
 
-9.1. Por tonelada de residuos mezclados
+sólidos urbanos y de manejo especial: 17.50
 
-$58.00
+7.2. Actualización cada tercer año posterior al
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+registro: 9.00
+
+7.3. Por cada metro cuadrado a constituir
+
+considerando proyectos comerciales, de
+
+servicios, habitacionales en centros
+
+urbanos o ecoturisticos o agropecuarios: 0.25
+
+8. De operación y administración de
+
+plantas de valorización de
+
+residuos sólidos y comercialización de
+
+productos y subproductos:
+
+8.1. Plantas o unidades de valorización
+
+de residuos sólidos: 709.50
+
+8.2. Comercialización de productos y
+
+subproductos derivados de la actividad: 709.50
+
+8.3. Plantas industriales de metanización
+
+de la fracción orgánica de residuos
+
+sólidos urbanos: 709.50
+
+9. Disposición de residuos sólidos
+
+urbanos a los Ayuntamientos del
+
+Estado de Morelos:
+
+9.1. Por tonelada de residuos mezclados: 1.00
 
 9.2. Por tonelada de residuos separados
 
-(separación primaria al 100%) $58.00
+(separación primaria al 100%): 1.00
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2016)</small>
+10. Disposición de residuos sólidos
 
-10. Disposición de residuos sólidos urbanos a
+urbanos a particulares
 
-particulares
-
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
-
-10.1. Por tonelada $210.00
-
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2016)</small>
+10.1. Por tonelada 3.00
 
 11. Combustible Derivado de Residuos
 
-(CDR)
+(CDR):
 
-> <small>(ADICIONADO, P.O. 21 DE JULIO DE 2016)</small>
+11.1. Por kcal de acuerdo a su valor
 
-11.1. Por kcal de acuerdo a su valor promedio
+promedio: 0.01
 
-$0.05
+B) Manifiesto de entrega-recepción de
 
-B) Manifiesto de entrega-recepción de residuos sólidos
+residuos sólidos urbanos y de manejo
 
-urbanos y de manejo especial: EXENTO
+especial:
 
-V. LICENCIA AMBIENTAL MORELOS:
+V. Licencia ambiental Morelos:
 
-Para proyectos de construcción o establecimientos
+A) Para proyectos de construcción o
 
-industriales, agropecuarios, turísticos, comerciales, de
+establecimientos industriales,
 
-servicios, y de aprovechamiento que tengan interés
+agropecuarios, turísticos, comerciales,
 
-en instalarse en el Estado de Morelos (nuevos):
+de servicios, y de aprovechamiento
 
-Micro: $13,629.00
+que tengan interés en instalarse en el
 
-Pequeña: $19,705.00
+estado de Morelos (nuevos):
 
-Mediana: $36,865.00
+1. Micro: 187.00
 
-Gran: $65,683.00
+2. Pequeño: 270.00
 
-B). Para proyectos de construcción o establecimientos comerciales,
+3. Mediano: 505.00
 
-de servicios, industriales, turísticos, agropecuarios que
+4. Grande: 900.00
 
-ya cuenten con resolutivo de impacto ambiental vigente y
+B) Para proyectos de construcción
 
-pretendan regularizarse en las demás autorizaciones
+o establecimientos comerciales, de
 
-ambientales en competencia ambiental por cada una de:
+servicios, industriales, turísticos,
 
-Micro: $3,367.00
+agropecuarios que ya cuenten con
 
-Pequeña: $4,926.00
+resolutivo de impacto ambiental
 
-Mediana: $9,195.00
+vigente y pretendan regularizarse
 
-Gran: $16,421.00
+en las demás autorizaciones
 
-C) Para proyectos de construcción o establecimientos industriales,
+ambientales en competencia
 
-agropecuarios, turísticos, comerciales, de servicios, y de
+ambiental por cada una de:
 
-aprovechamiento que ya cuenten con todas las
+1. Micro: 46.50
 
-autorizaciones ambientales de competencia estatal
+2. Pequeño: 68.00
 
-vigentes y pretendan obtener la Licencia Ambiental Morelos,
+3. Mediano: 126.00
 
-por cada una de ellas:
+4. Grande: 225.00
 
-Micro: EXENTO
+C) Para proyectos de construcción
 
-Pequeña: EXENTO
+o establecimientos industriales,
 
-Mediana: EXENTO
+agropecuarios, turísticos, comerciales,
 
-Gran: EXENTO
+de servicios, y de aprovechamiento
 
-VI. EN MATERIA DE ADMINISTRACIÓN URBANA:
+que ya cuenten con todas las
 
-A) Búsqueda de expediente de administración urbana: $88.00
+autorizaciones ambientales de
 
-B) Copia simple de documentos del archivo en materia
+competencia estatal vigentes y
 
-de administración urbana:
+pretendan obtener la licencia
 
-Hoja tamaño carta:
+ambiental Morelos, por cada
 
-1.1. Por la primer hoja: $26.00
+una de ellas:
 
-1.2. De la hoja 2 a la hoja 50 por hoja: $1.00
+1 Micro: EXENTO
 
-1.3. De la hoja 51 en adelante por hoja: $0.60
+2. Pequeño: EXENTO
 
-2. Hoja tamaño oficio:
+3. Mediano: EXENTO
 
-2.1. Por la primer hoja: $28.00
+4. Grande: EXENTO
 
-2.2. De la hoja 2 a la hoja 50 por hoja: $2.50
+VI En materia de administración urbana:
 
-2.3. De la hoja 51 en adelante por hoja: $1.00
+A) Búsqueda de expediente: 1.369
 
-3. Hoja tamaño doble carta:
+B) Consulta de expediente con una duración
 
-3.1. Por la primer hoja: $29.00
+máxima de 1 hora 30 minutos, dentro del
 
-3.2. De la hoja 2 a la hoja 50 por hoja: $4.00
+horario autorizado de 8:00 a 15:00 horas: 2.0536
 
-3.3. De la hoja 51 en adelante por hoja: $2.00
+C) Copia simple de documentos:
 
-C) Copia simple de plano del archivo en materia
+1. Copia tamaño carta:
 
-de administración urbana:
+1.1. Por la primer página: 0.0684
 
-1. Plano de 90 cm x 60 cm (5,400 cm2): $75.00
+1.2. De la página 2 a la página 50,
 
-2. Por cada fracción adicional (por lado):
+por página: 0.0136
 
-2.1. Por cada 30 cm adicionales de ancho (1,800 cm2): $38.00
+1.3. De la página 51 en adelante,
 
-2.2. Por cada 30 cm adicionales de longitud (2,700 cm2): $25.00
+por página: 0.0068
 
-D) Copia certificada de documentos del archivo en
+2. Copia tamaño oficio:
 
-materia de administración urbana:
+2.1. Por la primer página: 0.1026
 
-1. Por la primera hoja: $96.00
+2.2. De la página 2 a la página 50,
 
-2. De la hoja 2 a la hoja 50 por hoja: $91.00
+por página: 0.02053
 
-3. De la hoja 51 en adelante por hoja: $88.00
+2.3. De la página 51 en adelante
 
-E) Copia certificada de plano del archivo en materia de impacto urbano:
+por página: 0.0136
 
-1. Plano de 90 cm x 60 cm (5,400 cm2 ): $225.00
+3. Copia tamaño doble carta:
 
-Por cada fracción adicional (por lado):
+3.1. Por la primer página: 0.1369
 
-2.1. Por cada 30 cm adicionales de ancho (1,800 cm2): $38.00
+3.2. De la página 2 a la página 50,
 
-2.2. Por cada 30 cm adicionales de longitud (2,700 cm2): $25.00
+por página: 0.027382
 
-F) Opinión técnica:
+3.3. De la página 51 en adelante
 
-1. Sobre el uso de suelo y unidad de gestión ambiental
+por página: 0.0136
 
-de un predio, sin mapas: $125.00
+D) Copia simple de plano:
 
-2. Sobre el uso de suelo y unidad de gestión ambiental
+1. Plano de hasta 90 cm x 60 cm: 1.8483
 
-de un predio, con mapas: $375.00
+2. Por cada fracción adicional
 
-3. 3Sobre (sic) uso de suelo, unidad de gestión ambiental y
+(por lado):
 
-compatibilidades, con mapas: $500.00
+2.1. Por cada 30 cm adicionales
 
-4. Sobre viabilidad urbano-ambiental de un proyecto
+de ancho: 0.8899
 
-arquitectónico o urbano, con mapas: $625.00
+2.2. Por cada 30 cm adicionales
 
-G) Asesoría y orientación a promoventes de proyectos en
+de longitud: 0.6161
 
-materia de administración urbana, planeación urbana
+E) Copia certificada de documento:
 
-o impactos urbanos y viales, por sesión de 1 hora:
+1. Por la primera página: 0.5476
 
-H) Asesoría a ciudadanos en materia de administración
+2. De la página 2 a la página 50
 
-urbana, por sesión de una hora: EXENTO
+por página: 0.273
 
-VII. EN MATERIA DE IMPACTO URBANO Y VIAL:
+3. De la página 51 en adelante por
 
-A) Dictamen de impacto vial: $2,463.00
+página: 0.205
 
-B) Dictamen de protección civil en materia de riesgos
+F) Copia certificada de plano:
 
-y vulnerabilidad: $2,463.00
+1. Plano de 90 cm x 60 cm: 3.080
 
-C) Constancia de no requerimiento de impacto urbano: $2,493.00
+2. Por cada fracción adicional
 
-D) Dictamen de impacto urbano, por tipo de proyecto:
+(por lado):
 
-1. Apertura, prolongación y ampliación de vías públicas,
+2.1. Por cada 30 cm adicionales
 
-de carácter regional o primario, no previstas en los
+de ancho: 1.506
 
-programas de desarrollo urbano sustentable, así
+2.2. Por cada 30 cm adicionales de
 
-como para los centros de población que carezcan de éstas: $8,210.00
+longitud: 1.02
 
-2. Autorización de fraccionamientos, condominios
+G) Opinión técnica en el marco de
 
-y conjuntos urbanos que utilicen políticas de redensificación
+los Programas de Desarrollo Urbano
 
-focal y en las áreas aptas para el desarrollo urbano para
+Sustentable:
 
-los proyectos iguales o superiores a cien viviendas: $8,210.00
+1. De un predio, parcela o polígono
 
-3. Proyectos de ampliación de vivienda, cuando la suma
+sin compatibilidades de suelo: 2.05
 
-de lo existente y el incremento rebase los 5,000 metros
+2. De un predio, parcela o polígono
 
-cuadrados de construcción o cuando ya se tenga una
+con compatibilidades de un
 
-evaluación de impacto urbano, y se incrementen más
+solo uso de suelo 4.107
 
-de 2,500 metros cuadrados de construcción: $8,210.00
+3. De un predio, parcela o polígono
 
-4. Proyectos de ampliación de usos no habitacionales,
+con compatibilidades de varios
 
-cuando la suma de lo existente y el incremento
+usos de suelo: 6.845
 
-rebase 5,000 metros cuadrados de construcción o cuando
+4. Sobre viabilidad de un proyecto
 
-ya se tenga evaluación de impacto urbano y se incrementen
+o anteproyecto (sin planos
 
-más de 2,500 metros cuadrados de construcción: $9,852.00
+arquitectónicos) ubicado en un
 
-5. De 1,000 metros cuadrados de construcción en adelante:
+predio, parcela o polígono: 4.107
 
-5.1. Edificación de oficinas, bodegas, almacenes,
+5. Sobre viabilidad de un proyecto
 
-despachos y consultorios, locales de comercios
+o anteproyecto (anexando planos
 
-o servicios; industria química, farmacéutica, mecánica,
+arquitectónicos) sobre un predio,
 
-automotriz, de ensamblaje, plantas de manufactura,
+parcela o polígono: 9.652
 
-tratamiento o producción de cualquier tipo, o equipamiento: $12,315.00
+6. Sobre el potencial de redensificación
 
-5.2. Hoteles, moteles, hostales o posadas: $12,315.00
+(poblacional o de vivienda) sobre un predio,
 
-5.3. Centros comunitarios regionales y culturales,
+parcela o polígono: 9.652
 
-museos, centros de exposiciones temporales,
+7. Sobre el potencial de redensificiacíón
 
-galerías y similares: $9,852.00
+(poblacional o de vivienda) sobre un predio,
 
-5.4. Auditorios, cines, teatros, salas de conciertos o
+parcela o polígono (anexando planos
 
-plazas de espectáculos: $12,315.00
+arquitectónicos): 13.691
 
-5.5. Centros de convenciones y salones o jardines
+VII. En materia de impacto urbano:
 
-destinados para fiestas y banquetes: $12,315.00
+A) Constancia de no requerimiento de
 
-5.6. Restaurantes, bares, cantinas, botaneras,
+impacto urbano: 34.227
 
-centros o clubes nocturnos, centros de espectáculos,
+B) Dictamen de impacto urbano,
 
-discotecas: $12,315.00
+en general:
 
-6. De 5,000 metros cuadrados de construcción en adelante:
+1. Costo adicional por tipo de proyecto:
 
-6.1. Centrales de abasto de cualquier tipo: $16,421.00
+1.1. Apertura; prolongación y
 
-6.2. Academias e institutos de capacitación técnica,
+ampliación de vías públicas, de
 
-profesional o comercial: $12,315.00
+carácter regional o primario,
 
-7. De 10,000 metros cuadrados de terreno en adelante:
+no previstas en los programas
 
-7.1. Granjas, rastros, zoológicos, acuarios y jardines
+de desarrollo urbano sustentable,
 
-botánicos, etnobotánicas, piscícolas, aviarios, herbolarios,
+así como para los centros de
 
-o locales que contengan de forma legal flora o fauna
+población que carezcan de ésta: 6.845
 
-de cualquier especie: $7,971.00
+1.2. Autorización de fraccionamientos,
 
-7.2. Proyectos de usos mixtos (habitacional, comercio,
+condominios y conjuntos urbanos que
 
-servicios o equipamiento): $20,525.00
+utilicen políticas de redensificación focal
 
-7.3. Oficinas, despachos y consultorios, comercios,
+y en las áreas aptas para el desarrollo
 
-servicios, industria o equipamiento: $20,525.00
+urbano para los proyectos iguales o
 
-8. Cualquier superficie:
+superiores a cien viviendas:
 
-8.1. Depósitos o almacenamiento de combustible; estaciones
+1.2.1. Redensificación máxima permitida
 
-de servicio de combustible para carburación diésel, gas LP
+que se encuentre en el rango de 1 a
 
-y gas natural; tiendas de autoservicio, departamentales,
+50 viviendas: 6.845
 
-centros comerciales y mercados, con excepción de las
+1.2.2. Redensificación máxima permitida
 
-tiendas de conveniencia; institutos o escuelas de educación
+que se encuentre en el rango de 51 a
 
-media superior y universidades o institutos politécnicos;
+100 viviendas: 13.691
 
-instituciones o centros de estudio de posgrado y
+1.2.3. 1.2.1 (sic) Redensificación máxima
 
-centros de investigación públicos o privados;
+permitida que se encuentre en el
 
-panteones, crematorios, velatorios y columbarios;
+rango de 101 a 500 viviendas: 68.455
 
-arenas de box y luchas, plazas de toros, lienzos charros,
+1.2.4. Redensificación máxima permitida
 
-palenques y similares; estadios, hipódromos, autódromos,
+que se encuentre en el rango de
 
-velódromos y similares: $24,631.00
+501 a 1000 viviendas: 136.91
 
-8.2. Centros de readaptación o reintegración social,
+1.2.5. Redensificación máxima permitida
 
-clínicas contra adicciones, reformatorios o tutelares: $24,631.00
+que se encuentre en el rango de 1,001 a
 
-8.3. Centros de espectáculos; terminales de autobuses
+2,500 viviendas: 342.27
 
-de pasajeros o aeropuertos, y parques industriales: $24,631.00
+1.2.5 (sic). Redensificación máxima
 
-VIII. EN MATERIA DEL PARQUE ESTATAL
+permitida que se encuentre en el
 
-URBANO BARRANCA DE CHAPULTEPEC:
+rango de 2,501 viviendas en adelante: 410.733
 
-A) Admisión general al parque estatal urbano barranca de chapultepec:
+1.3. Proyectos de ampliación de vivienda:
 
-1. Admisión general; $10.00
+1.3.1. Cuando la suma de lo existente
 
-2. Adultos mayores y personas con discapacidad: EXENTO
+y el incremento rebase los 5,000 metros
 
-B) Atracciones concesionadas del parque estatal urbano
+cuadrados de construcción: 68.455
 
-barranca de chapultepec:
+1.3.2. Cuando ya se tenga una evaluación
 
-1. Herpetario: $10.00
+de impacto, y se incrementen más de 2,500
 
-2. Granjita paraíso: $10.00
+metros cuadrados de construcción: 34.227
 
-3. Eco lanchas: $10.00
+1.4. Proyectos de ampliación de usos
 
-4. Tirolesa: $30.00
+no habitacionales:
 
-5. Muro de escalar: $30.00
+1.4.1. Cuando la suma de lo existente y
 
-C) Atracciones propias del parque estatal urbano barranca de Chapultepec:
+el incremento rebase 5,000 metros cuadrados
 
-1. Tren: $10.00
+de construcción: 68.455
 
-2. Cabaña: $10.00
+1.4.2. Cuando ya se tenga evaluación de
 
-3. Planetario: $10.00
+impacto urbano y se incrementen más de
 
-4. Eurobongie: $30.00
+2,500 metros cuadrados de construcción: 34.227
 
-5. Inflables: $10.00
+1.5. De 1,000 metros cuadrados de
 
-D) Otros servicios del parque estatal urbano barranca de Chapultepec:
+construcción en adelante:
 
-1. Acceso a trotapista de 6:00 a 9:00 horas (corredores): $2.00
+1.5.1. Edificación de oficinas, bodegas,
 
-2. Acceso a trotapista de 6:00 a 9:00 horas-paquete
+almacenes, despachos y consultorios,
 
-de 30 días (corredores): $50.00
+locales de comercios o servicios: 54.764
 
-3. Renta de local comercial por metro cuadrado
+1.5.2. Bodegas o almacenes: 82.146
 
-(mensual por metro cuadrado): $77.00
+1.5.3. Industria química, farmacéutica,
 
-4. Exposiciones semifijas (por día): $155.00
+mecánica, automotriz, de ensamble,
+
+plantas de manufactura, tratamiento o
+
+producción de cualquier tipo: 164.29
+
+1.5.4. Equipamiento: 54.764
+
+1.5.5. Hoteles, moteles, hostales o
+
+posadas: 54.764
+
+1.5.6. Centros comunitarios regionales
+
+y culturales, museos, centros de
+
+exposiciones temporales, galerías y
+
+similares: 54.764
+
+1.5.7. Auditorios, cines, teatros, salas de
+
+conciertos o plazas de espectáculos: 164.29
+
+1.5.8. Centros de convenciones y salones o
+
+jardines destinados para fiestas y banquetes: 136.911
+
+1.5.9. Restaurantes, bares, cantinas,
+
+botoneras, centros o clubes nocturnos,
+
+centros de espectáculos, discotecas: 136.911
+
+1.6. De 5,000 metros cuadrados de
+
+construcción en adelante:
+
+1.6.1. Centrales de abasto de cualquier tipo: 301.204
+
+1.6.2. Academias e institutos de capacitación
+
+técnica, profesional o comercial: 164. 29
+
+1.7. De 10,000 metros cuadrados de terreno
+
+en adelante:
+
+1.7.1. Granjas, rastros, zoológicos, acuarios
+
+y jardines botánicos, etnobotánicas, piscícolas,
+
+aviarios, herbolarios, o locales que contengan
+
+de forma legal flora o fauna de cualquier
+
+especie: 301.204
+
+1.7.2. Locales que contengan de forma legal
+
+flora o fauna de cualquier especie: 136.911
+
+17.3 (sic). Proyectos de usos mixtos
+
+(habitacional, comercio, servicios o
+
+equipamiento): 164.29
+
+1.7.4. Oficinas, despachos y consultorios,
+
+comercios, servicios: 301.204
+
+1.7.5. Industria: 410.73
+
+1.7.6. Equipamiento: 301.204
+
+1.8. Cualquier superficie:
+
+1.8.1. Depósitos o almacenamiento de
+
+combustible; estaciones de servicio de
+
+combustible para carburación diésel,
+
+gas LP y gas natural: 438.11
+
+1.8.2. Tiendas de autoservicio,
+
+departamentales, centros comerciales
+
+y mercados, con excepción de las
+
+tiendas de conveniencia: 301.204
+
+1.8.3. Institutos o escuelas de
+
+educación media superior y
+
+universidades o institutos
+
+politécnicos; instituciones
+
+o centros de estudio de
+
+posgrado y centros de
+
+investigación públicos
+
+o privados: 301.204
+
+1.8.4. Panteones, crematorios,
+
+velatorios y columbarios; 301.204
+
+1.8.5. Arenas de box y luchas,
+
+plazas de toros, lienzos charros,
+
+palenques y similares; estadios,
+
+hipódromos, autódromos,
+
+velódromos y similares;
+
+centros de espectáculos: 438.11
+
+1.8.5. Centros de readaptación
+
+o reintegración social, clínicas
+
+contra adicciones, reformatorios
+
+o tutelares: 337.50
+
+1.8.6. Terminales de autobuses
+
+de pasajeros: 301.204
+
+1.8.7. Aeropuertos y parques
+
+industriales: 547.645
+
+VIII. En materia del parque estatal
+
+urbano barranca de Chapultepec:
+
+A) Admisión general al
+
+parque estatal urbano
+
+barranca de Chapultepec:
+
+1. Admisión general: 0.25
+
+2. Adultos mayores y personas
+
+con discapacidad: EXENTO
+
+B) Atracciones concesionadas
+
+del parque estatal urbano
+
+barranca de Chapultepec:
+
+1. Herpetario: 0.25
+
+2. Granjita paraíso: 0.25
+
+3. Eco lanchas: 0.25
+
+4. Tirolesa: 0.50
+
+5. Muro de escalar: 0.50
+
+C) Atracciones propias del
+
+parque estatal urbano
+
+barranca de Chapultepec:
+
+1. Tren: 0.25
+
+2. Cabaña: 0.25
+
+3. Planetario: 0.25
+
+4. Eurobongie: 0.50
+
+5. Inflables: 0.25
+
+D) Otros servicios del
+
+parque estatal urbano
+
+barranca de Chapultepec:
+
+1. Acceso a trotapista de 6:00
+
+a 9:00 horas (corredores): 0.05
+
+2. Acceso a trotapista de 6:00
+
+a 9:00 horas paquete de
+
+30 días (corredores): 1.00
+
+3. Renta de local comercial
+
+por metro cuadrado
+
+(mensual por metro cuadrado): 1.50
+
+4. Exposiciones semifijas
+
+(por día): 2.50
 
 ###### Artículo 86.
 
@@ -5120,3 +5316,13 @@ SEGUNDA. El presente Decreto entrará en vigor el día siguiente al de su public
 TERCERA. En un plazo no mayor a 180 días hábiles contados a partir del día siguiente al que dé inicio la vigencia del presente Decreto, deberán actualizarse o modificarse las disposiciones reglamentarias que derivan de los instrumentos legislativos reformados.
 
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS SETENTA Y CUATRO.- POR EL QUE SE REFORMA EL ARTÍCULO 85 DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
