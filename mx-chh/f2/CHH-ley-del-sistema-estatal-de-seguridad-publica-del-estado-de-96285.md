@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-9628
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-12"
-last_updated: "2016-10-03"
+last_updated: "2016-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 12 de octubre de 2013.
 
@@ -859,7 +859,7 @@ XXV. Abstenerse de realizar conductas que desacrediten su persona o la imagen de
 
 XXVI. Impedir que personas ajenas a la Institución realicen actos inherentes a la misma; asimismo, abstenerse de hacerse acompañar de dichas personas al realizar actos del servicio.
 
-XXVII, Abstenerse de participar en actos de rebeldía e indisciplina contra el mando o alguna otra autoridad.
+XXVII. Abstenerse de participar en actos de rebeldía e indisciplina contra el mando o alguna otra autoridad.
 
 XXVIII. Las demás que establezcan otras disposiciones legales aplicables.
 
@@ -1349,7 +1349,7 @@ XII. No ausentarse del servicio sin causa justificada, por un periodo de tres d�
 
 XIII. Para el caso de las Instituciones Policiales, no superar la edad máxima de retiro establecida en la presente Ley.
 
-XIV Los demás que establezcan otras disposiciones legales aplicables.
+XIV. Los demás que establezcan otras disposiciones legales aplicables.
 
 ###### Artículo 113.
 
@@ -3041,11 +3041,7 @@ Los particulares autorizados para prestar servicios de seguridad privada, así c
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
-
-Artículo 305 (SIC). El Estado proporcionará seguridad y protección personal al Fiscal General del Estado y al Director General de la Policía Estatal Única, previa solicitud de parte, durante los cuatro años siguientes a la conclusión de sus nombramientos.
-
-> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 298.
 
@@ -3059,11 +3055,65 @@ El Estado y los municipios coadyuvarán con las instancias federales competentes
 
 La Fiscalía General se coordinará con la Federación para el ejercicio de la función a que se refiere el artículo anterior, así como para garantizar la seguridad perimetral y el apoyo operativo en caso necesario.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO DÉCIMO. DEL REGISTRO DE LAS PERSONAS CUIDADORAS DE VEHÍCULOS ESTACIONADOS EN LAS VÍAS PÚBLICAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 301.
+
+El registro para acreditar a las personas que se dediquen a cuidar o vigilar los vehículos automotores estacionados en las vías públicas, estará a cargo de la Fiscalía General del Estado.
+
+Para tales efectos, se deberá extender gratuitamente una identificación que contendrá el número de registro que lo acredite como persona debidamente inscrita, así como la zona asignada por la autoridad; debiendo ser renovada cada año.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 302.
+
+Las personas durante el desarrollo de la actividad para cuidar o vigilar los vehículos, tendrán las siguientes obligaciones:
+
+I. Portar la identificación con fotografía de forma visible y permanente.
+
+II. Utilizar el chaleco de seguridad con las especificaciones que para tales efectos expida la Fiscalía, que invariablemente deberá contener como mínimo un número telefónico para reportar alguna irregularidad.
+
+III. Ejercer la actividad en el lugar o lugares indicados por la autoridad.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 303.
+
+Se prohíbe a las personas que realizan la actividad de cuidar o vigilar los vehículos en la vía pública:
+
+I. Ejercer la actividad en estado de intoxicación por cualquier cantidad de alcohol o bajo el influjo de drogas u otras sustancias igualmente tóxicas que produzcan efectos similares, sin que medie prescripción médica que certifique su capacidad.
+
+II. Cobrar tarifa alguna. Solo podrán recibir propina en caso de ser ofrecida por el usuario.
+
+III. Impedir u obstruir el uso de la vía pública.
+
+Cualquier infracción a estos numerales le será suspendida su acreditación, en los términos del Reglamento respectivo, sin perjuicio de la responsabilidad civil o penal correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 304.
+
+Los usuarios de los vehículos estacionados en la vía pública no están obligados a pagar o aceptar el ofrecimiento de vigilancia.
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2016)</small>
 
-## TÍTULO UNDÉCIMO (SIC). DE LA SEGURIDAD Y PROTECCIÓN PERSONAL DE FUNCIONARIOS PÚBLICOS AL CONCLUIR SU ENCARGO O NOMBRAMIENTO
+## TÍTULO UNDÉCIMO. DE LA SEGURIDAD Y PROTECCIÓN PERSONAL DE FUNCIONARIOS PÚBLICOS AL CONCLUIR SU ENCARGO O NOMBRAMIENTO
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE OCTUBRE DE 2016)</small>
+
+###### Artículo 305.
+
+El Estado proporcionará seguridad y protección personal al Fiscal General del Estado y al Director General de la Policía Estatal Única, previa solicitud de parte, durante los cuatro años siguientes a la conclusión de sus nombramientos.
+
+> <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2016)</small>
 
 ###### Artículo 306.
 
@@ -3234,3 +3284,15 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1571/2016 XXI P.E., MEDIANTE EL CUAL SE ADICIONA UN TÍTULO DÉCIMO PARA DENOMINARLO “DEL REGISTRO DE LAS PERSONAS CUIDADORAS DE VEHÍCULOS ESTACIONADOS EN LAS VÍAS PÚBLICAS”, ASÍ COMO LOS ARTÍCULOS 301 AL 304 A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo contará con 180 días para reglamentar el presente Decreto y crear el Registro de las Personas Cuidadoras de Vehículos del Estado, a partir de su publicación en el Periódico Oficial del Estado.
