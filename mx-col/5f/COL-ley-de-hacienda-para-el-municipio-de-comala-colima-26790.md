@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-comala-colima-26790"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2016-11-22"
+last_updated: "2016-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COMALA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -403,9 +403,11 @@ Los organismos públicos descentralizados del Gobierno Federal o Estatal, que te
 
 Únicamente están exentos del pago de este impuesto los bienes del dominio público de la federación, del Estado y de sus municipios, salvo que sean utilizados por entidades paraestatales, paramunicipales o por particulares, bajo cualquier título, con fines administrativos o propósitos distintos a su objeto público.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Se concede el 14, 12 y 10 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de medida y actualización, en predios urbanos y 3 UMA, en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufra la unidad de medida y actualización durante el ejercicio correspondiente.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
+
+Se concede el 15, 13 y 11 por ciento de bonificación a los contribuyentes que paguen el impuesto predial por anualidad adelantada durante los meses de enero, febrero y marzo, respectivamente; siempre que el monto de dicho impuesto sea mayor a 2 unidades de medida y actualización, en predios urbanos y 3 unidades de medida y actualización en predios rústicos. Quienes cubran la anualidad por adelantado quedan liberados del pago de los incrementos que sufran las unidades de medida y actualización durante el ejercicio correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -889,7 +891,7 @@ Para la determinación del monto, forma y plazos de pago, se estará a lo que di
 
 ###### ARTICULO 54.
 
-No se pagará esta contribución por los bienes del dominio público de la federación, del Estado y de los municipios, salvo que tales bienes sean utilizados por entidades paraestatales (sic), paramunicipales o por particulares, bajo cualquier título para fines administrativo o propósitos distintos a los de su objeto público.
+No se pagará esta contribución por los bienes del dominio público de la federación, del Estado y de los municipios, salvo que tales bienes sean utilizados por entidades paraestateles (sic), paramunicipales o por particulares, bajo cualquier título para fines administrativo o propósitos distintos a los de su objeto público.
 
 ###### ARTICULO 55.
 
@@ -3620,3 +3622,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 10 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 174 POR EL QUE SE REFORMA EL ARTÍCULO 19 DE LAS DIEZ LEYES DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de enero de 2017, previa su publicación en el Periódico Oficial "El Estado de Colima.
