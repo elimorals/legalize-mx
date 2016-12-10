@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2016-10-14"
+last_updated: "2016-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2016.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -1956,6 +1956,10 @@ V. Cuando se haya suministrado a la víctima alguna sustancia tóxica que le imp
 En el caso de que el infractor tenga parentesco por consanguinidad o civil con el ofendido, perderá además la patria potestad o la tutela, en los casos en que la ejerciera sobre la víctima.
 
 Cuando el delito fuere cometido en el desempeño de un cargo o empleo público, o utilice los medios que su profesión le proporcione, además de la pena de prisión, será destituido del cargo que ocupa y suspendido por el termino de dos años en el ejercicio de su profesión.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 178 BIS. Comete el delito de abuso sexual equiparado, quien mediante el uso de medios electrónicos o de cualquier tecnología, contacte, obligue, induzca o facilite a una persona menor de dieciocho años, o de una persona que por su condición no tenga la capacidad de comprender el significado del hecho, o que no tiene capacidad para resistirlo, a realizar actos de exhibicionismo corporal o sexuales simulados o no, con fin lascivo o sexual.
 
 ### CAPÍTULO III. Discriminación
 
@@ -3974,3 +3978,11 @@ P.O. 14 DE OCTUBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor el uno de enero de 2017, previa publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0435.- SE ADICIONA EL ARTÍCULO 178 BIS, AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
