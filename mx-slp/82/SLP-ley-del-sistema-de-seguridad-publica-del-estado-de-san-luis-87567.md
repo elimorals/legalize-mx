@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2015-05-23"
+last_updated: "2016-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -493,11 +493,11 @@ Estas deberán llevar en el reverso la firma del titular de los respectivos cuer
 
 Los servidores públicos a que se refiere este artículo incurrirán en responsabilidad, cuando expidan credenciales a personas que no pertenezcan a las instituciones de seguridad pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 35.
 
-Las autoridades de seguridad pública del Estado dictarán las medidas conducentes, para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado; Secretario General de Gobierno; Procurador General de Justicia; Secretario de Seguridad Pública; Director General de Seguridad Pública del Estado, y de los municipios; Director General de Prevención y Reinserción Social; Director General de la Academia; y el Director General de la Policía Investigadora del Estado; asimismo, brindarán servicio de protección a aquéllas personas que la autoridad electoral determine conforme a la ley.
+Las autoridades de seguridad pública del Estado dictarán las medidas conducentes para brindar la protección necesaria a los siguientes servidores públicos estatales: Gobernador del Estado; y Secretario General de Gobierno; asimismo, brindarán servicio de protección a aquéllas personas que la autoridad electoral determine conforme a la ley.
 
 Los servidores públicos a que se hace referencia en el párrafo anterior, tendrán derecho a que los cuerpos de seguridad pública otorguen protección a su integridad física y a la de sus familias durante el ejercicio de su encargo, y hasta un año siguiente a la conclusión del mismo; término que será prorrogable a juicio de la autoridad competente, tomando en consideración las circunstancias particulares del caso.
 
@@ -2254,5 +2254,13 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE MAYO DE 2015.
 
 PRIMERO. Este Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0436.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 35, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
