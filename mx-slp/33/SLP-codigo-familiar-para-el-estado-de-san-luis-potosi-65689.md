@@ -4,7 +4,7 @@ identifier: "SLP-codigo-familiar-para-el-estado-de-san-luis-potosi-65689"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-18"
-last_updated: "2016-11-08"
+last_updated: "2016-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2016.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -1045,11 +1045,13 @@ La y el cónyuge; o la concubina y el concubinario, tendrán siempre el derecho 
 
 Los cónyuges, los concubinos, deben darse alimentos. La ley determinará cuando quede subsistente esta obligación en los casos de divorcio, o disolución de concubinato.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 145.
 
-La madre y el padre están obligados a dar alimentos a sus hijas o hijos. A falta o por imposibilidad de éstos, la obligación recae en los ascendientes más próximos en grado, por ambas líneas.
+La madre y el padre están obligados a dar alimentos a sus hijas o hijos. A falta o por imposibilidad de ambos, la obligación recae en los ascendientes más próximos en grado, por ambas líneas, simultáneamente.
+
+El hecho o, la circunstancia de que los progenitores no tengan trabajo, no actualiza la imposibilidad a que se refiere este artículo, ni la obligación subsidiaria de los ascendientes.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -3480,6 +3482,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0421.- SE ADICIONA PÁRRAFO ÚLTIMO AL ARTÍCULO 17, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ; SE REFORMA EL ARTÍCULO 97 EN SU PÁRRAFO SEGUNDO; Y ADICIONA AL MISMO ARTÍCULO 97 PÁRRAFO TERCERO, DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0433.- SE REFORMA EL ARTÍCULO 145, DEL CÓDIGO FAMILIAR PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
