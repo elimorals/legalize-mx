@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2016-11-22"
+last_updated: "2016-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -1425,6 +1425,12 @@ X. Las demás que el Congreso determine, según las condiciones territoriales y 
 
 Los ayuntamientos vigilarán que la prestación de los servicios públicos se realice en igualdad de condiciones a todos los habitantes del municipio, en forma permanente, general, uniforme y continua.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 86 Bis.
+
+Las Unidades Municipales de Protección Civil funcionarán como un órgano con autonomía de operación financiera y administrativa, dependiente del Ayuntamiento, las cuales coordinarán todas las acciones públicas municipales a favor de la protección civil, así como promover, apoyar, fomentar, vigilar y evaluar las estrategias y programas que se deriven de una gestión integral de riesgos en concordancia con los criterios que establezca la Unidad Estatal de Protección Civil.
+
 ###### ARTICULO 87.
 
 El ayuntamiento prestará los servicios públicos de la siguiente forma:
@@ -2204,3 +2210,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 10 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 181 POR EL QUE SE ADICIONA EL ARTÍCULO 86 BIS A LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima.
