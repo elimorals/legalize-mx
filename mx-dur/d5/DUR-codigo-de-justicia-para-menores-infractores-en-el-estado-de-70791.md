@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-justicia-para-menores-infractores-en-el-estado-de-707
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-11"
-last_updated: "2014-12-28"
+last_updated: "2016-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70791&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 11 de octubre de 2009.
 
@@ -151,7 +151,9 @@ De igual forma las personas menores de doce años que hubieren cometido una cond
 
 Son autoridades competentes para la aplicación de este Código:
 
-I. La Procuraduría General de Justicia del Estado de Durango, por conducto del Ministerio Público, en lo que corresponde a la investigación de las conductas tipificadas como delitos, en el Código Penal o en las Leyes Estatales, atribuidas a los menores; así como promover la incoación del proceso ante el Juez para Menores;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2016)</small>
+
+I. La Fiscalía General del Estado de Durango, por conducto del Ministerio Público, en lo que corresponde a la investigación de las conductas tipificadas como delitos, en el Código Penal o en las Leyes Estatales, atribuidas a los menores; así como promover la incoación del proceso ante el Juez para Menores;
 
 II. El Tribunal para Menores Infractores del Estado de Durango, en lo relativo al juzgamiento de los menores, determinación de las medidas aplicables y su ejecución;
 
@@ -1909,7 +1911,9 @@ El debate se realizará con la presencia ininterrumpida del Juez de Menores y de
 
 Si el defensor no comparece al debate o se aleja de la audiencia, se considerará abandonada la defensa y se procederá a su reemplazo inmediato por un defensor público, hasta en tanto el menor acusado designe un defensor de su elección, conforme a las reglas respectivas de este Código.
 
-Si el Ministerio Público no comparece al debate o se retira de la audiencia sin causa justificada, se procederá a su reemplazo inmediato, según los mecanismos que determine la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2016)</small>
+
+Si el Ministerio Público no comparece al debate o se retira de la audiencia sin causa justificada, se procederá a su reemplazo inmediato, según los mecanismos que determine la Fiscalía General del Estado de Durango.
 
 El Ministerio Público sustituto o el defensor, podrán solicitar al Juez de Menores que aplace el inicio de la audiencia por un plazo razonable para la adecuada preparación de su intervención en juicio. El Juez de Menores resolverá considerando la complejidad del caso, las circunstancias del abandono del Ministerio Público y las posibilidades de aplazamiento.
 
@@ -2023,7 +2027,9 @@ Los incidentes promovidos en el transcurso de la audiencia de debate de juicio o
 
 Las decisiones que recaigan sobre estos incidentes no serán susceptibles de recurso alguno.
 
-Si durante el desarrollo de la audiencia de debate de juicio oral, alguna de las partes promoviera el sobreseimiento o el Ministerio Público se desistiera de la acusación previa autorización por escrito del titular de la Procuraduría General de Justicia del Estado o en quien delegue esta facultad, el Juez de Menores resolverá lo conducente en la misma audiencia, conforme a las reglas generales de sobreseimiento para su procedencia previstas en el artículo 199 del presente código. El Juez de Menores podrá desechar de plano la petición de sobreseimiento planteada por el menor acusado por notoriamente improcedente o reservar su decisión para el dictado de la sentencia definitiva.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2016)</small>
+
+Si durante el desarrollo de la audiencia de debate de juicio oral, alguna de las partes promoviera el sobreseimiento o el Ministerio Público se desistiera de la acusación previa autorización por escrito del titular de la Fiscalía General del Estado de Durango o en quien delegue esta facultad, el Juez de Menores resolverá lo conducente en la misma audiencia conforme a las reglas generales de sobreseimiento para su procedencia previstas en el artículo 199 del presente código. El Juez de Menores podrá desechar de plano la petición de sobreseimiento planteada por el menor acusado por notoriamente improcedente o reservar su decisión para el dictado de la sentencia definitiva.
 
 ###### Artículo 230.
 
@@ -3964,3 +3970,11 @@ El presente decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que contravengan a las contenidas en el presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 10.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO DE JUSTICIA PARA MENORES INFRACTORES EN EL ESTADO DE DURANGO”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
