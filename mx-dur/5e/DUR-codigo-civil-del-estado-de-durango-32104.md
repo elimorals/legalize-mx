@@ -4,7 +4,7 @@ identifier: "DUR-codigo-civil-del-estado-de-durango-32104"
 country: "mx"
 rank: "codigo"
 publication_date: "1948-01-22"
-last_updated: "2016-07-07"
+last_updated: "2016-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CÓDIGO CIVIL DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2016.
 
 Código publicado en los Periódicos Oficiales del Gobierno Constitucional del Estado Libre y Soberano de Durango, 22, 25, 29 de enero, 1, 5, 8, 12, 15, 19, 22, 26, 29 de febrero, 4, 7, 11, 14, 18, 28 de marzo, 1, 4, 15, 18, 22, 25, 29 de abril, 2, 6, 9, 13, 16 de mayo, 6, 10, 13, 24 de junio, 1, 8, 15, 18, 22, 25, 29 de julio, 1, 5, 8, 12, 15 y 19 de agosto de 1948.
 
@@ -355,11 +355,15 @@ Además de los nombres de los padres se hará constar en el Acta de Nacimiento s
 
 ART. 61.- Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o algunos de ellos la presencia del Oficial del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se menciona su nombre; todo lo cual se asentará en el acta.
 
-ART. 62.- Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere, pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2016)</small>
+
+ART. 62.- Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Oficial del Registro Civil asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
 
 ART. 63.- Cuando el hijo nazca de mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
 
-ART. 64.- Podrá reconocerse el hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta, pero en ella no se expresará que el hijo en (sic) incestuoso.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2016)</small>
+
+ART. 64.- Podrá reconocerse al hijo nacido de una relación entre parientes consanguíneos. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -391,9 +395,9 @@ ART. 71.- Si al dar aviso de un nacimiento se comunicare también la muerte del 
 
 ART. 72.- Cuando se trate de parto múltiple, se levantará un acta por cada uno de los nacidos, en la cual además de los requisitos que señala el artículo 58, de manera excepcional se harán constar las particularidades que los distingan, si las hubiere, y el orden en que ocurrió su nacimiento, según la información que proporcionen el médico, la partera o las personas que hayan asistido el parto y, además, se imprimirán las huellas digitales de los presentados. El Oficial del Registro Civil deberá relacionar las actas.
 
-### CAPITULO III.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE DICIEMBRE DE 2016)</small>
 
-De las actas de reconocimiento de hijos naturales.
+### CAPITULO III.. De las actas de reconocimiento
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -879,9 +883,7 @@ De estos impedimentos sólo son dispensables la falta de edad y el parentesco de
 
 ART. 152.- El adoptante no puede contraer matrimonio con el adoptado o sus descendientes.
 
-ART. 153.- La mujer no puede contraer nuevo matrimonio con persona distinta sino hasta pasados 300 días después de la disolución anterior a menos que dentro de ese plazo diere a luz un hijo.
-
-En los casos de nulidad o de divorcio, puede contarse ese tiempo desde que se interrumpió la cohabitación.
+ART. 153.- (DEROGADO, P.O. 11 DE DICIEMBRE DE 2016)
 
 ART. 154.- El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Presidente Municipal respetcivo (sic) sino cuando hayan sido aprobadas las cuentas de la tutela.
 
@@ -1277,7 +1279,9 @@ ART. 259.- Es ilícito, pero no nulo el matrimonio:
 
 I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
 
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 154, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 153 y 289.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2016)</small>
+
+II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 154, y cuando se celebre sin que haya transcurrido el término fijado en el artículo 289.
 
 ART. 260.- Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señala el Código de la materia.
 
@@ -1747,7 +1751,9 @@ ART. 327.- Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la raz�
 
 ART. 328.- Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo, no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
 
-ART. 329.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias dentro del período prohibido por el artículo 153, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2016)</small>
+
+ART. 329.- Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
 I.- Se presume que el hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
 
@@ -10525,7 +10531,23 @@ SEGUNDO. Se derogan todas las disposiciones que se oponga (sic) a la presente.
 
 P.O. 7 DE JULIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 561.- QUE CONTIENE REFORMA AL PÁRRAFO SEXTO DEL ARTÍCULO 1800 TER DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 561.- QUE CONTIENE REFORMA AL PÁRRAFO SEXTO DEL ARTÍCULO 1800 TER DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 8.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 11 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 9.- POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO CUARTO DEL LIBRO PRIMERO DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO".]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
