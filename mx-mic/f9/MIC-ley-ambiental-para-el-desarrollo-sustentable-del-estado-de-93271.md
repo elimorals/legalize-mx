@@ -4,7 +4,7 @@ identifier: "MIC-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9327
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-12"
-last_updated: "2016-11-29"
+last_updated: "2016-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el martes 12 de marzo de 2013.
 
@@ -183,7 +183,9 @@ XXXI. Riesgo Ambiental: La posibilidad inminente de daño ambiental;
 
 XXXII. Proveedor de Servicios Ambientales: Son aquellos que contribuyen a la conservación de los ecosistemas que son fuente de los servicios ambientales.
 
-XXXIII. Secretaría: La Secretaría de Urbanismo y Medio Ambiente;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+XXXIII. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático;
 
 XXXIV. Secretariado Técnico: El Secretariado Técnico del Consejo Estatal de Ecología;
 
@@ -217,7 +219,9 @@ Son autoridades ambientales en el Estado:
 
 I. El Titular del Poder Ejecutivo del Estado;
 
-II. La Secretaría de Urbanismo y Medio Ambiente;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+II. La Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático;
 
 III. La Procuraduría de Protección al Ambiente; y,
 
@@ -371,9 +375,11 @@ IV. Tener conocimiento y experiencia acreditable en materia ambiental, así como
 
 Durante el desempeño de su cargo, el Procurador y demás titulares de las unidades administrativas de la Procuraduría, estarán impedidos para desempeñar cualquier otro puesto público o privado, salvo los de carácter docente, honorífico y los de causa propia, que no interfieran con el desarrollo de sus funciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 15.
 
-La Procuraduría de Protección al Ambiente es el órgano desconcentrado de la Secretaría de Urbanismo y Medio Ambiente, con autonomía técnica, administrativa y de gestión, cuyo objeto es realizar investigaciones sobre las denuncias de hechos, actos u omisiones que causen daño al ambiente o representen riesgos graves para el mismo, así como sancionar todas aquellas violaciones a la presente Ley y su Reglamento de acuerdo a lo siguiente:
+La Procuraduría de Protección al Ambiente es el órgano desconcentrado de la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, con autonomía técnica, administrativa y de gestión, cuyo objeto es realizar investigaciones sobre las denuncias de hechos, actos u omisiones que causen daño al ambiente o representen riesgos graves para el mismo, así como sancionar todas aquellas violaciones a la presente Ley y su Reglamento de acuerdo a lo siguiente:
 
 I. Realizar visitas de inspección para verificar el cumplimiento de los preceptos de esta Ley, su Reglamento, normas aplicables en materia ambiental, ordenamiento ecológico del territorio, declaratorias de áreas naturales protegidas, programas de manejo, las condicionantes y los términos que en materia ambiental se impongan en los registros, documentos y autorizaciones que se emitan, y en general vigilar y sancionar todas aquellas materias que regula esta Ley;
 
@@ -895,9 +901,11 @@ El reglamento y las normas que en su caso emita la Secretaría, determinarán lo
 
 ### Capítulo V. De la Promoción de la Educación y Cultura Ambiental para el Desarrollo Sustentable
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 56.
 
-La Secretaría de Urbanismo y Medio Ambiente en coordinación con la Secretaría de Educación en el Estado promoverá:
+La Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático en coordinación con la Secretaría de Educación en el Estado promoverá:
 
 I. La concientización de la sociedad para su corresponsabilidad en la protección y mejoramiento del medio ambiente en su dimensión humana, privilegiando la formación de valores y actitudes dentro de un proceso permanente de aprendizaje, mediante el cual el individuo interactúe en armonía con la naturaleza;
 
@@ -1687,7 +1695,9 @@ f) El Presidente de la Comisión de Desarrollo Sustentable y Medio Ambiente del 
 
 g) El Presidente de la Comisión de Desarrollo Urbano, Obra Pública y Vivienda del Honorable Congreso del Estado;
 
-h) El Secretario de Urbanismo y Medio Ambiente;
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+h) El Secretario de Medio Ambiente, Recursos Naturales y Cambio Climático;
 
 i) El Secretario de Educación del Estado;
 
@@ -2182,3 +2192,11 @@ P.O. 29 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 190.- SE REFORMA LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 Artículo Único. El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 200 POR EL QUE "SE REFORMAN LA FRACCIÓN XXXIII DEL ARTÍCULO 4, LA FRACCIÓN II DEL ARTÍCULO 6, EL ARTÍCULO 15, EL ARTÍCULO 56 Y LA FRACCIÓN III DEL ARTÍCULO 149 DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
