@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cambio-climatico-del-estado-de-michoacan-de-ocampo-97993
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-21"
-last_updated: "2016-06-23"
+last_updated: "2016-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97993&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 21 de enero de 2014.
 
@@ -113,7 +113,9 @@ XVI. Programa Estatal: Programa Estatal de Cambio Climático del Estado de Micho
 
 XVII. Programa Municipal: Programa Municipal de Cambio Climático;
 
-XVIII. Secretaría: Secretaría de Urbanismo y Medio Ambiente;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+XVIII. Secretaría: Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático;
 
 XIX. Secretarías: Las dependencias de la Administración Pública Centralizada del Estado de Michoacán de Ocampo; y,
 
@@ -497,7 +499,9 @@ La Comisión Intersecretarial será integrada por los titulares de:
 
 I. El Titular del Poder Ejecutivo del Estado o la persona que éste designe, quien tendrá el carácter de Presidente;
 
-II. La Secretaría de Urbanismo y Medio Ambiente, cuyo titular fungirá como Vicepresidente;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+Il. La Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático, cuyo titular fungirá como Vicepresidente;
 
 III. La Secretaria de Gobierno;
 
@@ -1130,3 +1134,11 @@ P.O. 23 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 148 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 1° DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 Único. El presente decreto entrara en vigor al siguiente día de su publicación en el periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 200 POR EL QUE “SE REFORMAN LA FRACCIÓN XVIII DEL ARTÍCULO 3 Y LA FRACCIÓN II DEL ARTÍCULO 25 DE LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
