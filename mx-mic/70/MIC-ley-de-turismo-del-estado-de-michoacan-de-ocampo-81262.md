@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2015-08-26"
+last_updated: "2016-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -649,7 +649,9 @@ II. Un representante de la Secretaría de Finanzas y Administración;
 
 III. Un representante de la Secretaría de Desarrollo Económico;
 
-IV. Un representante de la Secretaría de Urbanismo y Medio Ambiente;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+IV. Un representante de la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático;
 
 V. Un representante de la Secretaría de Cultura;
 
@@ -693,7 +695,9 @@ IV. El titular de la Secretaría de Desarrollo Económico;
 
 V. El titular de la Secretaría de Cultura;
 
-VI. El titular de la Secretaría de Urbanismo y Medio Ambiente;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+VI. El Titular de la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático;
 
 VII. El titular de la Secretaría de Comunicaciones y Obras Públicas del Estado;
 
@@ -847,9 +851,13 @@ El Programa de Ordenamiento Turístico del Estado, será formulado por el Ejecut
 
 I. Determinar la regionalización turística del territorio estatal, a partir del diagnóstico de las características, disponibilidad y demanda de los recursos turísticos, incluyendo un análisis de riesgos de las mismas;
 
-II. Conocer y proponer a la Secretaría de Urbanismo y Medio Ambiente la zonificación en los planes de desarrollo urbano, así como el uso del suelo, con el propósito de preservar los recursos naturales y aprovechar de manera ordenada y sustentable los recursos turísticos; y,
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
-III. Establecer, en coordinación con la Secretaría de Urbanismo y Medio Ambiente los lineamientos y estrategias turísticas para la preservación y el aprovechamiento ordenado y sustentable de los recursos turísticos.
+II. Conocer y proponer a la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático la zonificación en los planes de desarrollo urbano, así como el uso del suelo, con el propósito de preservar los recursos naturales y aprovechar de manera ordenada y sustentable los recursos turísticos; y,
+
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+III. Establecer, en coordinación con la Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático los lineamientos y estrategias turísticas para la preservación y el aprovechamiento ordenado y sustentable de los recursos turísticos.
 
 ###### ARTÍCULO 86.
 
@@ -1252,3 +1260,11 @@ P.O. 15 DE DICIEMBRE DE 2014.
 P.O. 26 DE AGOSTO DE 2015.
 
 ÚNICO. El presente Decreto, entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 200 POR EL QUE “SE REFORMAN LA FRACCIÓN IV DEL ARTÍCULO 67, LA FRACCIÓN VI DEL ARTÍCULO 69 Y LAS FRACCIONES II Y III DEL ARTÍCULO 85 DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO.”]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
