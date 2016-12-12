@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2015-10-03"
+last_updated: "2016-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2016.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -1007,35 +1007,15 @@ X.- Determinar, conforme a la Constitución Política de los Estados Unidos Mexi
 
 XI.- Autorizar al Ejecutivo, cuando así lo dispongan las leyes respectivas, para que celebre los instrumentos jurídicos necesarios con la Federación, otros estados y los municipios de la entidad, sobre asuntos relacionados con la administración;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
-XII.- Dar bases conforme a las cuales el Ejecutivo y los Ayuntamientos puedan celebrar financiamientos a nombre del Estado y de los Municipios, respectivamente; aprobar esos mismos financiamientos, cuyo plazo sea superior a un año y reconocer e instruir el pago de la deuda del Estado y de los Municipios contraída.
+XII.- Establecer en la ley las bases conforme a las cuales el Ejecutivo y los Ayuntamientos puedan contraer obligaciones o empréstitos a nombre del Estado y de los Municipios, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos, siempre y cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, bajo las mejores condiciones del mercado. De igual modo se establecerán las bases para el otorgamiento de garantías que otorgue el Estado respecto del endeudamiento de los municipios. Los ejecutivos informarán de su ejercicio al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.
 
-Dichas bases se fijarán conforme a lo establecido en el artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
+Las bases referidas en el párrafo anterior se fijarán conforme a lo establecido en el artículo 117, fracción VIII, de la Constitución Política de los Estados Unidos Mexicanos y en las leyes generales aplicables.
 
-El Ejecutivo y los Municipios podrán contratar financiamiento cuya vigencia no sea mayor a un año, sin requerir autorización expresa del Congreso. Invariablemente deberán sujetarse a las siguientes bases:
+El Congreso del Estado, por el voto de cuando menos las dos terceras partes de sus miembros presentes, deberá autorizar los montos máximos para contratar empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago. Las operaciones de Refinanciamiento o Reestructura no requerirán autorización del Congreso, siempre y cuando se cumplan los requisitos que señala la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-a) (DEROGADO, P.O. 14 DE MAYO DE 2010)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MAYO DE 2010)</small>
-
-b) El límite máximo de este tipo de financiamientos que podrá contratar el Gobierno del Estado y los Municipios será de 15% de sus ingresos ordinarios determinados en sus leyes de ingresos vigentes.
-
-Se entenderá por Ingresos Ordinarios: la suma de los Impuestos, Derechos, Productos y Aprovechamientos así como las Participaciones Federales y cualquier otro ingreso de carácter federal que no tenga un uso o fin especifico.
-
-c) No se afectará en garantía o en pago el derecho a recibir participaciones derivadas de la coordinación fiscal o cualquier otro ingreso o derecho.
-
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2010)</small>
-
-d) El financiamiento así contratado podrá ser refinanciado o reestructurado a efecto de mejorar las condiciones del empréstito, en los términos y bajo los límites que la Ley determine.
-
-e) El Gobierno del Estado y los Ayuntamientos deberán informar al Congreso de Estado la contratación, liquidación y conclusión del financiamiento en un plazo que no exceda de 30 días naturales siguientes de cada uno de los actos correspondientes.
-
-f) El incumplimiento de las disposiciones anteriores dará lugar a la aplicación de responsabilidades y sanciones administrativas en el servicio público.
-
-Adicionalmente el Ejecutivo y los Municipios se sujetaran a las bases que al efecto se establezcan en las Leyes secundarias.
-
-No se entenderá como deuda pública las obligaciones económicas o financieras plurianuales derivadas del ejercicio de la facultad consagrada en la fracción XLIV de este mismo artículo;
+El Ejecutivo y los Municipios podrán contratar obligaciones a corto plazo, sin requerir autorización expresa del Congreso, conforme a las bases, montos, porcentajes y condiciones que se establecen en la Ley general citada en el párrafo anterior;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
@@ -1085,7 +1065,9 @@ XXII.- Convocar a elecciones extraordinarias para cubrir las vacantes definitiva
 
 XXIII.- Convocar a elecciones Extraordinarias de Ayuntamientos, en los términos de la legislación aplicable.
 
-XXIV.- (DEROGADA, P.O. 1 DE AGOSTO DE 2015)
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+XXIV.- Legislar, en el ámbito competencial del Estado, en materia de disciplina y responsabilidad hacendaria para el manejo sostenible de las finanzas públicas, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, las leyes generales respectivas y esta Constitución;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 2015)</small>
 
@@ -1253,17 +1235,19 @@ IX. Las demás que le otorguen esta Constitución y otras disposiciones legales.
 
 ### CAPITULO VII. DE LA FISCALIZACION SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 40.
 
-El Órgano Superior de Fiscalización del Estado dependerá del Congreso y, sin excepción, revisará y fiscalizará las cuentas del erario estatal, de los municipios y de los organismos autónomos. Será un órgano técnico auxiliar de naturaleza desconcentrada, que tendrá autonomía funcional y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley. La función de fiscalización a cargo de esta entidad se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
+El Órgano Superior de Fiscalización del Estado dependerá del Congreso y, sin excepción, revisará y fiscalizará las cuentas del erario estatal, de los municipios y de los organismos autónomos. Será un órgano con autonomía técnica y de gestión en el ejercido (sic) de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley. La función de fiscalización a cargo de esta entidad se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2002)</small>
 
 El Órgano Superior de Fiscalización del Estado, tendrá las siguientes facultades:
 
-I.- Revisar y fiscalizar los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado y de los entes públicos locales, así como el cumplimiento de los objetivos contenidos en los programas estatales, a través de los informes técnicos y financieros, que se rendirán en los términos que disponga la ley;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+I.- Revisar y fiscalizar las acciones de los Poderes del Estado, los Municipios y demás entes públicos locales, en materia de fondos, recursos locales y deuda pública. Los informes de auditoría de la entidad estatal de fiscalización tendrán carácter público;
 
 II.- Fiscalizará los recursos que como aportaciones del erario federal a la Hacienda estatal o municipal, administren y ejerzan las entidades del Gobierno del Estado, los municipios, y en su caso, los particulares, en los términos de la Constitución Política de los Estados Unidos Mexicanos, y demás leyes que de ella emanen;
 
@@ -1333,19 +1317,19 @@ Durante el ejercicio de su encargo no podrá formar parte de ningún partido pol
 
 Podrá ser sujeto de juicio político y en su caso, removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 41.
 
-Los entes públicos deberán entregar sus cuentas públicas al Congreso del Estado a través del Órgano Superior de Fiscalización, a más tardar el 31 de marzo del año siguiente, para su examen y calificación. La cuenta pública deberá contener los estados y la información financiera con los criterios que rigen la contabilidad pública debidamente armonizada, de acuerdo a lo establecido en las disposiciones legales, reglamentarias y administrativas aplicables.
+Los entes públicos deberán entregar sus cuentas públicas al Congreso del Estado a través del Órgano Superior de Fiscalización, a más tardar el 30 de abril del año siguiente, para su examen y calificación. La cuenta pública deberá contener los estados y la información financiera con los criterios que rigen la contabilidad pública debidamente armonizada, de acuerdo a lo establecido en las disposiciones legales, reglamentarias y administrativas aplicables.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
 Conforme a la ley de la materia, el Órgano podrá solicitar la documentación soporte de las acciones que consideren pertinentes durante el período de fiscalización. Una vez calificada la cuenta pública y de no existir mandato en contrario, será devuelta oportunamente la documentación remitida, para su debida guarda y custodia.
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
-Así mismo, el Órgano deberá concluir la fiscalización y entregar el informe de resultados, al Congreso del Estado, a más tardar el primero de agosto del año siguiente de que se trate. El incumplimiento de este precepto imputable a los servidores públicos del citado órgano, es causa de responsabilidad en los términos de las leyes aplicables.
+Así mismo, el Órgano deberá concluir la fiscalización y entregar el informe de resultados, al Congreso del Estado, a más tardar el 31 de agosto del año siguiente de que se trate. El incumplimiento de este precepto imputable a los servidores públicos del citado órgano, es causa de responsabilidad en los términos de las leyes aplicables. Los informes (sic) resultados que presente el Órgano tendrán carácter público.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2011)</small>
 
@@ -1511,9 +1495,9 @@ V.- Solicitar a la Comisión Permanente que convoque a sesiones extraordinarias;
 
 VI.- Facilitar al Poder Judicial los auxilios que necesite, para hacer expedito el ejercicio de sus funciones;
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
-VII.- Remitir al H. Congreso del Estado, a través del Órgano Superior de Fiscalización, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal; así como entregar a dicho órgano, a más tardar el 31 de marzo del ejercicio fiscal siguiente, la cuenta pública, en los términos del artículo 41 de esta Constitución. La cuenta pública deberá contener de manera homogénea, la información financiera, de ingresos y egresos, así como patrimonial, debidamente registrada conforme al sistema de contabilidad gubernamental y las disposiciones que emita el Consejo Nacional de Armonización Contable, a fin de garantizar su armonización a nivel nacional.
+VII. Remitir al H. Congreso del Estado, a través del Órgano Superior de Fiscalización, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal; así como entregar a dicho órgano, a más tardar el 30 de abril del ejercicio fiscal siguiente, la cuenta pública, en los términos del artículo 41 de esta Constitución. La cuenta pública deberá contener de manera homogénea, la información financiera, de ingresos y egresos, así como patrimonial, debidamente registrada conforme al sistema de contabilidad gubernamental y las disposiciones que emita el Consejo Nacional de Armonización Contable, a fin de garantizar su armonización a nivel nacional.
 
 VIII.- Otorgar los títulos profesionales conforme a las leyes que regulen los estudios correspondientes;
 
@@ -2157,21 +2141,25 @@ Los Presupuestos de Egresos aprobados por los Ayuntamientos, sobre la base de su
 
 Para la aprobación de la Ley de Ingresos de los Ayuntamientos, éstos enviarán sus proyectos conforme a las disposiciones legales aplicables a la Legislatura Local, directamente o por conducto del Ejecutivo, a más tardar en el mes de octubre de cada año.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
-Cada Ayuntamiento deberá prever las partidas presupuéstales necesarias para solventar las obligaciones contraídas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Ayuntamiento o de las entidades paramunicipales y que cuenten con la garantía del Ayuntamiento o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, así como aquellas que se requieran para cubrir los compromisos derivados de contratos de proyectos para prestación de servicios aprobados por el Ayuntamiento conforme a las leyes aplicables.
+Cada Ayuntamiento deberá prever las partidas presupuestales necesarias para solventar las obligaciones contraídas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Ayuntamiento o de las entidades paramunicipales y que cuenten con la garantía del Ayuntamiento o del Estado, conforme a lo previsto por las leyes y los decretos correspondientes.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
-La cuenta pública de los ayuntamientos o concejos municipales, se analizará, fiscalizará y calificará anualmente por el Congreso del Estado, para tal efecto, aquellos entregarán a éste mensualmente a través del Órgano Superior de Fiscalización del Estado, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, para su examen y calificación, entregarán la cuenta pública a más tardar el 31 de marzo del año siguiente al ejercicio fiscal que corresponda, en los términos del artículo 41 de esta Constitución. La cuenta pública deberá contener de manera homogénea, la información financiera, de ingresos y egresos, así como patrimonial, debidamente registrada conforme al sistema de contabilidad gubernamental y disposiciones que emita el Consejo Nacional de Armonización Contable, a fin de garantizar su armonización a nivel nacional.
+La cuenta pública de los ayuntamientos o concejos municipales, se analizará, fiscalizará y calificará anualmente por el Congreso del Estado, para tal efecto, aquellos entregarán a éste mensualmente a través del Órgano Superior de Fiscalización del Estado, dentro del mes siguiente respectivo, los informes que contengan el avance financiero y presupuestal. Asimismo, para su examen y calificación, entregarán la cuenta pública a más tardar el 30 de abril del año siguiente al ejercicio fiscal que corresponda, en los términos del artículo 41 de esta Constitución. La cuenta pública deberá contener de manera homogénea, la información financiera, de ingresos y egresos, así como patrimonial, debidamente registrada conforme al sistema de contabilidad gubernamental y disposiciones que emita el Consejo Nacional de Armonización Contable, a fin de garantizar su armonización a nivel nacional.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 17 DE FEBRERO DE 2007)</small>
 
 Al presentar el informe del primer mes del ejercicio, deberá adjuntarse el presupuesto de egresos aprobados para dicho ejercicio fiscal. Los ajustes presupuéstales autorizados deberán presentarse en el informe mensual correspondiente.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
-Los Ayuntamientos no podrán contraer empréstitos cuya duración exceda de un año, ni enajenar bienes inmuebles sin autorización de las dos terceras partes de los integrantes del Cabildo, ni cobrar contribuciones que correspondan al año siguiente de su período. Tratándose de empréstitos que excedan del plazo de un año, se deberá contar con la autorización del Congreso Local en los términos que señale la Ley en la materia.
+Los Ayuntamientos no podrán contraer empréstitos cuya duración exceda de un año, ni enajenar bienes inmuebles sin autorización de las dos terceras partes de los integrantes del Cabildo, ni cobrar contribuciones que correspondan al año siguiente de su período. Tratándose de empréstitos que excedan del plazo de un año, se deberá contar con la autorización del Congreso Local en los términos que señale la fracción XII del artículo 36 de esta Constitución y la Ley General en la materia.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
 
 > <small>(ADICIONADA, P.O. 25 DE JULIO DE 2001)</small>
 
@@ -2227,9 +2215,13 @@ Para los efectos de las responsabilidades a que alude este título, se considera
 
 El Gobernador del Estado, para los efectos de este Título, sólo será responsable en los términos del Artículo 110, segundo párrafo de la Constitución Federal.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
 
-Los Diputados al Congreso del Estado, los Magistrados del Poder Judicial del Estado, los Titulares de las dependencias del Poder Ejecutivo, los presidentes municipales de los Ayuntamientos y los titulares de los órganos autónomos, serán responsables por violaciones que cometan en contra de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución, de las leyes federales y locales que de ellas emanen, así como por el manejo indebido de fondos y recursos del Estado y de los Municipios.
+Los Diputados al Congreso del Estado, los Magistrados del Poder Judicial del Estado, los Titulares de las dependencias del Poder Ejecutivo, los integrantes de los Ayuntamientos y los titulares de los órganos autónomos, serán responsables por violaciones que cometan en contra de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución, de las leyes federales y locales que de ellas emanen, así como por el manejo indebido de fondos y recursos públicos y la deuda pública del Estado y de los Municipios.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley. Asimismo deberán presentar su declaración fiscal anual, conforme lo disponga la legislación de la materia.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 1983)</small>
 
@@ -2411,7 +2403,9 @@ VI. El Congreso del Estado, expedirá las leyes para hacer efectivo el cumplimie
 
 Corresponde al Estado la Rectoría del Desarrollo de la Entidad, para Garantizar que éste sea integral, que fortalezca su soberanía y su Régimen Democrático y que, mediante el Crecimiento Económico que fomente el empleo, y una más justa distribución del ingreso y la riqueza, permita el pleno ejercicio de las libertades y la dignidad de los individuos, grupos y clases sociales cuya seguridad protege el derecho.
 
-El Estado Planeará, Conducirá, Coordinará y Orientará la Actividad Económica Estatal, y llevará a cabo la regulación y fomento de las Actividades que demande el interés General, en el marco de las Libertades Otorgadas por la Ley.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+El Estado Planeará, Conducirá, Coordinará y Orientará la Actividad Económica Estatal, y llevará a cabo la regulación y fomento de las Actividades que demande el interés General, en el marco de las Libertades Otorgadas por la Ley. De igual modo, velará por el cumplimiento del principio de estabilidad de las finanzas públicas de la entidad, a fin de coadyuvar a la generación de condiciones favorables para el crecimiento económico y el empleo. El Plan Estatal de Desarrollo y los planes municipales deberán observar dicho principio.
 
 Al Desarrollo Económico Estatal Concurrirán con Responsabilidad Social, el Sector Público, el Sector Social y el Sector Privado, sin menoscabo de otras formas de Actividad Económica que contribuyan al Desarrollo de la Entidad.
 
@@ -3147,35 +3141,7 @@ P.O. 24 DE ABRIL DE 2004.
 
 Este decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
-P.O. 8 DE MARZO DE 2006.
-
-PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero del año 2007.
-
-P.O. 8 DE SEPTIEMBRE DE 2006.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose expedir y en su caso reformar las leyes; así como crear y adecuar las instituciones y autoridades que se requieran para su aplicación.
-
-SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del Acuerdo del pleno y de su expediente, para que emitan su voto de aprobación o rechazo a las reformas y adición acordadas por la soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se le tendrá como aprobatorio el voto del Ayuntamiento omiso.
-
-P. O. 17 DE FEBRERO DE 2007.
-
-PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 22 DE DICIEMBRE DE 2007.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Hasta en tanto no se hagan las reformas pertinentes a las disposiciones jurídicas secundarias seguirán aplicándose las vigentes en lo que no se opongan al presente Decreto.
-
-TERCERO.- Al Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, creado por mandato de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, publicada en el suplemento C, al Periódico Oficial 6723, el 10 de febrero de 2007, le será otorgada de manera inmediata la autonomía de gestión y presupuestaria con personalidad jurídica y patrimonio propio, sin que para ello deba crearse un nuevo Instituto, ni elegirse en consecuencia nuevos consejeros.
-
-CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del correspondiente Decreto, para que emitan su voto de aprobación o rechazo a las reformas y adición acordada, por la soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se tendrá como aprobatorio el voto del Ayuntamiento omiso.
-
-P.O. 8 DE NOVIEMBRE DE 2008.
+P.O. 12 DE DICIEMBRE DE 2016.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3504,3 +3470,41 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Sexagésima Primera Legislatura deberá expedir la nueva Ley que norme su integración y procedimientos, antes de la conclusión del tercer año de su ejercicio constitucional.
 
 TERCERO.- En tanto se expiden las nuevas disposiciones legales y reglamentarias seguirán aplicándose, en lo conducente, las disposiciones de la Ley Orgánica del Poder Legislativo y del Reglamento Interior del Congreso, en todo lo que no se opongan a este Decreto.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 032 POR EL QUE “SE REFORMAN: LA FRACCIÓN XII DEL ARTICULO 36; EL PÁRRAFO PRIMERO Y LA FRACCIÓN I DEL PÁRRAFO SEGUNDO, DEL ARTÍCULO 40; LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTICULO 41; LA FRACCIÓN VII DEL ARTICULO 51; LOS PÁRRAFOS CUARTO, QUINTO Y SÉPTIMO DE LA FRACCIÓN VI DEL ARTICULO 65; EL PÁRRAFO TERCERO DEL ARTÍCULO 66; Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 76. SE ADICIONAN: UNA FRACCIÓN XXIV AL ARTÍCULO 36; UN PÁRRAFO OCTAVO A LA FRACCIÓN VI DEL ARTICULO 65; Y UN PÁRRAFO CUARTO AL ARTÍCULO 66; TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- EI Congreso del Estado deberá realizar las adecuaciones normativas a las leyes locales que resulten pertinentes, en la forma y plazos previstos en el régimen transitorio del Decreto de reformas a la Constitución General de la República, publicado el 26 de mayo de 2015; así como en el del Decreto de 27 de abril de 2016, por el que se publicó la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, las presentes reformas y adiciones fueron aprobadas por los Ayuntamientos de la entidad.
+
+P.O. 8 DE MARZO DE 2006.
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero del año 2007.
+
+P.O. 8 DE SEPTIEMBRE DE 2006.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose expedir y en su caso reformar las leyes; así como crear y adecuar las instituciones y autoridades que se requieran para su aplicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del Acuerdo del pleno y de su expediente, para que emitan su voto de aprobación o rechazo a las reformas y adición acordadas por la soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se le tendrá como aprobatorio el voto del Ayuntamiento omiso.
+
+P. O. 17 DE FEBRERO DE 2007.
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2007.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Hasta en tanto no se hagan las reformas pertinentes a las disposiciones jurídicas secundarias seguirán aplicándose las vigentes en lo que no se opongan al presente Decreto.
+
+TERCERO.- Al Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, creado por mandato de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, publicada en el suplemento C, al Periódico Oficial 6723, el 10 de febrero de 2007, le será otorgada de manera inmediata la autonomía de gestión y presupuestaria con personalidad jurídica y patrimonio propio, sin que para ello deba crearse un nuevo Instituto, ni elegirse en consecuencia nuevos consejeros.
+
+CUARTO.- De conformidad con lo establecido en el artículo 83 de la Constitución Política del Estado Libre y Soberano de Tabasco, háganse llegar a cada uno de los 17 Ayuntamientos del Estado, copia fiel y exacta del correspondiente Decreto, para que emitan su voto de aprobación o rechazo a las reformas y adición acordada, por la soberanía legislativa, con la previsión que si dentro del término de 15 días naturales siguientes a la fecha de su recepción y notificación respectiva, no emiten su voto, se tendrá como aprobatorio el voto del Ayuntamiento omiso.
+
+P.O. 8 DE NOVIEMBRE DE 2008.
