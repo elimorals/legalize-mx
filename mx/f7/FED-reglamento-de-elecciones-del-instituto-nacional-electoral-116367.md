@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-elecciones-del-instituto-nacional-electoral-11636
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-13"
-last_updated: "2016-10-04"
+last_updated: "2016-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O.F. DE 4 DE OCTUBRE DE 2016 NO APLICA AL ARTICULADO DEL REGLAMENTO DE ELECCIONES DEL INSTITUTO NACIONAL ELECTORAL PUBLICADO EN EL D.O.F. DE 13 DE SEPTIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Tercera, Cuarta, Quinta y Sexta Secciones del Diario Oficial de la Federación, el martes 13 de septiembre de 2016.
 
@@ -797,17 +795,9 @@ d) Delegación. Facultad del Instituto de conferirle al OPL, la realización de 
 
 ###### Artículo 41.
 
-1. En los casos de asunción total y delegación, las solicitudes respectivas se deberán presentar, al menos, cuarenta y cinco días antes del inicio del proceso electoral que corresponda.
+(DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2016) 1
 
-2. Tratándose de la asunción parcial, las solicitudes se deberán presentar una vez iniciado el proceso electoral correspondiente, con al menos treinta días previos a aquel en que se deba realizar la función solicitada.
-
-3. La solicitud de atracción se podrá presentar antes del inicio o durante el desarrollo del proceso electoral respectivo. En caso que se presentara antes del inicio del proceso, el plazo para su presentación será de al menos treinta días antes a que deba atraerse a conocimiento del Instituto el asunto de la competencia del OPL. En caso que se presentara durante el desarrollo del proceso, el plazo señalado se computará en días naturales.
-
-4. La solicitud de asunción parcial para la implementación y operación del PREP, conteos rápidos u otra actividad que implique el desarrollo de sistemas informáticos, podrá ser presentada para análisis y resolución del procedimiento correspondiente, por lo menos siete meses antes de la fecha en que se celebre la jornada electoral.
-
-5. La sola presentación de una solicitud dentro de los plazos señalados, no supone el ejercicio de la facultad, sino que dicha solicitud deberá someterse al procedimiento correspondiente, para su resolución.
-
-6. En caso que se presente una solicitud fuera de los plazos previstos en este artículo, el Instituto valorará su procedencia de manera excepcional, siempre que sea hasta quince días antes del inicio del proceso electoral respectivo.
+[N. DE E “1 ARTÍCULO SUPRIMIDO EN ACATAMIENTO A LA SENTENCIA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN SUP-RAP-460/2016 Y ACUMULADOS, DICTADA EL DOS DE NOVIEMBRE DE DOS MIL DIECISÉIS”.]
 
 ###### Artículo 42.
 
@@ -821,7 +811,9 @@ c) Ya se hubiera resuelto un procedimiento previo sobre el mismo proceso elector
 
 d) No se hubieran aportado pruebas que permitan, aun de forma indiciaria, acreditar el dicho del peticionario, y
 
-e) Se hubiera presentado fuera de los tiempos previstos en el presente Reglamento.
+e) (DEROGADO, D.O.F. 12 DE DICIEMBRE DE 2016) 2
+
+> <small>[N. DE E. “2 SE SUPRIME EL INCISO E), DEL NUMERAL 1, DEL ARTÍCULO 42, EN ACATAMIENTO A LA SENTENCIA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN SUP-RAP-460/2016 Y ACUMULADOS, DICTADA EL DOS DE NOVIEMBRE DE DOS MIL DIECISÉIS”.]</small>
 
 ###### Artículo 43.
 
@@ -3173,9 +3165,17 @@ g) Las boletas de la elección de diputados en las que aparezca la leyenda "repr
 
 4. En las entidades federativas con elecciones concurrentes, los candidatos independientes a cargo de elección federal, podrán acreditar a un representante propietario y un suplente ante cada mesa directiva de casilla, del ámbito geográfico del cargo por el que contienda.
 
-5. En las entidades federativas con elecciones concurrentes, los partidos políticos con registro estatal, así como los candidatos independientes en la elección local, podrán acreditar a un representante propietario y un suplente ante cada mesa directiva de casilla, del ámbito geográfico del cargo por el que contienda.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2016)</small>
 
-6. Los partidos políticos nacionales y estatales, así como los candidatos independientes para las elecciones tanto federales como locales, podrán acreditar a un representante general por cada diez casillas electorales ubicadas en zonas urbanas y uno por cada cinco casillas rurales en cada distrito electoral federal uninominal, del ámbito geográfico del cargo por el que contienda.
+5. En las entidades federativas en que se celebren elecciones locales concurrentes con la federal, los partidos políticos con registro estatal y candidatos independientes en las elecciones locales, podrán acreditar a un representante propietario y un suplente ante cada mesa directiva de casilla. 3
+
+> <small>[N. DE E. “3 TEXTO MODIFICADO EN ACATAMIENTO A LA SENTENCIA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN SUP-RAP-460/2016 Y ACUMULADOS, DICTADA EL DOS DE NOVIEMBRE DE DOS MIL DIECISÉIS”.]</small>
+
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2016)</small>
+
+6. Los Partidos Políticos Nacionales, estatales y candidatos independientes para las elecciones tanto federales como locales, podrán acreditar un representante general por cada diez casillas electorales ubicadas en zonas urbanas y uno por cada cinco casillas rurales en cada Distrito electoral federal uninominal o en el ámbito territorial de su interés jurídico. 4
+
+> <small>[N. DE E. “4 TEXTO MODIFICADO EN ACATAMIENTO A LA SENTENCIA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN SUP-RAP-460/2016 Y ACUMULADOS, DICTADA EL DOS DE NOVIEMBRE DE DOS MIL DIECISÉIS”.]</small>
 
 7. A efecto de privilegiar y salvaguardar los derechos de representación de los partidos políticos y candidatos independientes, así como garantizar la efectiva vigilancia de los comicios, cuando el resultado de la división para determinar el número de representantes generales arroje dentro del resultado una fracción, cualquiera que se trate, invariablemente deberá redondearse al número entero superior.
 
@@ -4023,7 +4023,11 @@ f) Tipo de intervención que se requiere al Instituto.
 
 3. El o los organizadores del debate deberán informar al Secretario Ejecutivo del Instituto, en caso de debates entre los candidatos a Presidente de la República; al consejo local que corresponda, en caso de debates entre los candidatos a senador; al consejo distrital respectivo, para el caso de debates entre los candidatos a diputados federales, o al OPL que corresponda, para el caso de debates en el ámbito de elecciones locales, los detalles de su realización, el formato y tiempos de intervención acordados, la fecha para la celebración, el lugar, el nombre de la persona o personas que actuarán como moderadores y los temas a tratar. Lo anterior, hasta tres días antes de la fecha propuesta para la celebración del debate.
 
-4. Los organizadores de los debates a que se refiere este apartado, deberán sujetarse a lo dispuesto en el artículo 218, numeral 6, de la LGIPE.
+> <small>(REFORMADO, D.O.F. 12 DE DICIEMBRE DE 2016)</small>
+
+4. Los organizadores de los debates a que se refiere este apartado, deberán sujetarse a lo dispuesto en el artículo 218, numeral 6, de la LGIPE. Para la realización de los debates es obligatorio que se convoque fehaciente a todas las candidatas y candidatos. 5
+
+> <small>[N. DE E. “5 TEXTO MODIFICADO EN ACATAMIENTO A LA SENTENCIA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN SUP-RAP-460/2016 Y ACUMULADOS, DICTADA EL DOS DE NOVIEMBRE DE DOS MIL DIECISÉIS”.]</small>
 
 5. Los programas que contengan debates en ejercicio de la libertad periodística, podrán ser difundidos en la cobertura noticiosa de las campañas electorales, por cualquier medio de comunicación.
 
@@ -5810,5 +5814,13 @@ DÉCIMO CUARTO. Las actividades y tareas llevadas a cabo con anterioridad al ini
 > <small>[N. DE E. VÉASE ANEXO 15 LINEAMIENTOS PARA EL DISEÑO DE LAS TABLAS DE RESULTADOS ELECTORALES DE LOS OPL ELECTORALES PARA SU INCORPORACIÓN AL SISTEMA DE CONSULTA DE LA ESTADÍSTICA ELECTORAL, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 105 A LA 125.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO 16 PROCEDIMIENTO PARA LA DESTRUCCIÓN DE DOCUMENTACIÓN ELECTORAL, EN LA SEXTA SECCIÓN DEL D.O.F. DE 13 DE SEPTIEMBRE DE 2016, PÁGINAS DE LA 125 A LA 128.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE LOS “EFECTOS DE LA SENTENCIA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN SUP-RAP-460/2016 Y ACUMULADOS, DICTADA EL DOS DE NOVIEMBRE DE DOS MIL DIECISÉIS”.]
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
 
 #### SECCIÓN SEGUNDA. SESIÓN ESPECIAL DE CÓMPUTOS
