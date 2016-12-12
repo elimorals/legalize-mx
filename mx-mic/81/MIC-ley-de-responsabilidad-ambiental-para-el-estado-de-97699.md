@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-responsabilidad-ambiental-para-el-estado-de-97699"
 country: "mx"
 rank: "ley"
 publication_date: "2014-01-10"
-last_updated: "2014-01-10"
+last_updated: "2016-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE RESPONSABILIDAD AMBIENTAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el viernes 10 de enero de 2014.
 
@@ -51,11 +51,13 @@ El régimen de responsabilidad ambiental reconoce que el daño ocasionado al amb
 
 Los procesos jurisdiccionales previstos en el presente Capítulo se dirigirán a determinar la responsabilidad ambiental, sin menoscabo de los procesos para determinar otras formas de responsabilidad que procedan en términos patrimoniales, administrativos o penales.
 
+> <small>[N. DE E. AL PRESENTE PÁRRAFO SE LE INCORPORA EL ANTERIOR PÁRRAFO SEGUNDO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 2.
 
-Para los efectos de esta Ley se estará a las siguientes definiciones, así como aquellas previstas en la Ley Ambiental para el Desarrollo Sustentable del Estado de Michoacán de Ocampo, las leyes ambientales y los tratados internacionales de los que México sea parte.
-
-Se entiende por:
+Para los efectos de esta Ley se estará a las siguientes definiciones, así como aquellas previstas en la Ley Ambiental para el Desarrollo Sustentable del Estado de Michoacán de Ocampo, las leyes ambientales y los tratados internacionales de los que México sea parte. Se entiende por:
 
 I. Cadena causal: La secuencia de influencias de causa y efecto de un fenómeno que se representa por eslabones relacionados;
 
@@ -79,7 +81,9 @@ X. Mecanismos alternativos: Los mecanismos alternativos de solución de controve
 
 XI. Sanción económica: El pago que imponga el órgano jurisdiccional para penalizar una conducta ilícita y dolosa, con la finalidad de lograr una prevención general y especial e inhibir en el futuro comportamientos prohibidos;
 
-XII. Secretaría: La Secretaría de Urbanismo y Medio Ambiente del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2016)</small>
+
+XII. Secretaría: La Secretaría de Medio Ambiente, Recursos Naturales y Cambio Climático;
 
 XIII. Servicios ambientales: Las funciones que desempeña un elemento o recurso natural en beneficio de otro elemento o recurso natural, los hábitat, ecosistema o sociedad; y,
 
@@ -474,3 +478,13 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 03 tres días del mes de diciembre del año 2013 dos mil trece.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO.- LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 200 POR EL QUE "SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 2 DE LA LEY DE RESPONSABILIDAD AMBIENTAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
