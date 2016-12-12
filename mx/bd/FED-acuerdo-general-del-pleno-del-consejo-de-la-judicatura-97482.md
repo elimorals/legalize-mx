@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2016-10-20"
+last_updated: "2016-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE DICIEMBRE DE 2016.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -2197,7 +2197,9 @@ III. En visita ordinaria física, el periodo a inspeccionar cerrará datos el ú
 
 IV. En visita ordinaria a distancia, el periodo que comprenda el informe circunstanciado concluirá el día último del mes previo al de la rendición del propio informe;
 
-V. Las visitas físicas iniciarán a partir del sexto día hábil o laborable de cada mes. En los primeros cinco días es admisible la conclusión de las empezadas a finales del mes precedente, y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELACIONADO CON LAS REGLAS DE LAS VISITAS ORDINARIAS, D.O.F. 12 DE DICIEMBRE DE 2016)</small>
+
+V. Las visitas físicas iniciarán a partir del cuarto día hábil o laborable de cada mes. En los primeros tres días hábiles o laborables es admisible la conclusión de las empezadas a finales del mes precedente; y
 
 VI. Los informes circunstanciados se rendirán dentro del plazo de quince días naturales posteriores al día de cierre de datos. Si el último día fuere inhábil, dicho plazo se correrá al primer día hábil siguiente.
 
@@ -3188,3 +3190,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Los procedimientos en trámite a la entrada en vigor del presente Acuerdo, deberán concluirse con las disposiciones con las que dieron inicio.
+
+D.O.F. 12 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELACIONADO CON LAS REGLAS DE LAS VISITAS ORDINARIAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
