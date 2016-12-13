@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-premios-estimulos-y-recompensas-del-estado-de-8192"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-26"
-last_updated: "2011-11-22"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
 
-LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
+LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 26 de diciembre de 1987.
 
@@ -453,11 +453,11 @@ Sólo serán beneficiarias de este premio las personas físicas, individualmente
 
 Merecerán este premio, quienes se distingan, según lo exige la naturaleza de cada área, en el uso correcto de los medios de comunicación y la estética de la expresión; por la veracidad y objetividad de las informaciones, de los artículos y de los programas culturales, así como el interés que susciten y el efecto socialmente benéfico que produzcan. Esta última cualidad será la consideración básica para premiar publicaciones o programas destinados a la niñez y a la juventud. El otorgamiento de estos premios no estará condicionado por la amplitud de la cobertura del órgano de difusión.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 57.
 
-El Premio Estatal de Periodismo y de Información se tramitará ante la Secretaría General de Gobierno, cuyo titular será quien presida el Consejo de Premiación. Éste se integrará además, con el titular de la Coordinación General de Comunicación Social y con el titular de la Secretaría de Desarrollo Social.
+El Premio Estatal de Periodismo y de Información se tramitará ante la Secretaría General de Gobierno, cuyo titular será quien presida el Consejo de Premiación. Éste se integrará además, con el titular de la Coordinación General de Comunicación Social y con el titular de la Secretaría de Bienestar Social.
 
 ###### ARTICULO 58.
 
@@ -487,11 +487,11 @@ El premio se declarará desierto en las áreas donde no se registren candidatos 
 
 El Premio Estatal a la Productividad y Calidad del Trabajo se conferirá a las personas físicas o morales que diseñen y/o instrumenten estrategias o proyectos, con la finalidad de promover una nueva cultura de eficiencia, calidad y exportación, cuyos resultados se traduzcan en elevar la competitividad en las empresas y lograr mejores niveles de vida para los trabajadores.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 63.
 
-El premio se tramitará ante la Secretaría del Trabajo, cuyo titular presidirá el Consejo de Premiación. Éste se integrará con los titulares de la Secretaría General de Gobierno, de Administración, de Desarrollo Económico y Turismo y de Desarrollo Rural, además, con el Presidente de la Comisión de Trabajo y Seguridad Social del H. Congreso del Estado.
+El premio se tramitará ante la Secretaría del Trabajo, cuyo titular presidirá el Consejo de Premiación. Éste se integrará con los titulares de la Secretaría General de Gobierno, de Administración, de Desarrollo Económico y de Desarrollo Rural, además, con el Presidente de la Comisión de Trabajo y Seguridad Social del H. Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -513,11 +513,11 @@ Corresponde al premio una placa. El Consejo de Premiación podrá proponer al Go
 
 Serán merecedores de este premio, los jóvenes menores de 29 años, cuya conducta o dedicación al estudio o al trabajo se considere ejemplo para la sociedad.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 67.
 
-Este premio se tramitará ante la Secretaría de Desarrollo Social, cuyo titular presidirá el Consejo de Premiación y quedará integrado por los titulares de la Secretaría de Educación, del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, del Instituto de la Juventud de Tamaulipas y del Rector de la Universidad Autónoma de Tamaulipas.
+Este premio se tramitará ante la Secretaría de Bienestar Social, cuyo titular presidirá el Consejo de Premiación y quedará integrado por los titulares de la Secretaría de Educación, del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, del Instituto de la Juventud de Tamaulipas y del Rector de la Universidad Autónoma de Tamaulipas.
 
 ###### ARTICULO 68.
 
@@ -533,11 +533,11 @@ El premio consistirá en una medalla y se acompañará con entrega en numerario 
 
 Son acreedores a este premio, quienes desinteresadamente y por propia voluntad, con sacrificio económico o de su tiempo, hayan realizado o estén realizando actos de manifiesta solidaridad humana, que contribuyan al bienestar social y propicien el desarrollo de la comunidad; ya sea cooperando al alivio de necesidades en casos de catástrofe o de siniestro; ya sea prestando ayuda o asistencia a sectores socialmente marginados.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 71.
 
-Este premio se tramitará ante la Secretaría de Desarrollo Social, cuyo titular presidirá el Consejo de Premiación, que se integrará además con los titulares de la Secretaría General de Gobierno, de Salud y del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
+Este premio se tramitará ante la Secretaría de Bienestar Social, cuyo titular presidirá el Consejo de Premiación, que se integrará además con los titulares de la Secretaría General de Gobierno, de Salud y del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
 ###### ARTICULO 72.
 
@@ -665,9 +665,9 @@ El Premio consistirá en placa y podrá acompañarse de una entrega en numerario
 
 ARTICULO 89 BIS.- El Premio Estatal al mérito ciudadano General José Bernardo Maximiliano Gutiérrez de Lara y el Premio Estatal al mérito ciudadano General Alberto Carrera Torres, se conferirán de manera indistinta a aquél individuo que se distinga entre la población por su labor de fortalecimiento de las libertades, los derechos humanos y la democracia.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-El premio se tramitará ante la Secretaría General de Gobierno, cuyo titular presidirá el Consejo de Premiación, el cual se integrará, además, por el Presidente de la Comisión de Derechos Humanos del Estado y los titulares de la Secretaría de Desarrollo Económico y Turismo, de Desarrollo Social, de Educación y el Presidente de la Comisión de Derechos Humanos del H. Congreso del Estado.
+El premio se tramitará ante la Secretaría General de Gobierno, cuyo titular presidirá el Consejo de Premiación, el cual se integrará, además, por el Presidente de la Comisión de Derechos Humanos del Estado y los titulares de la Secretaría de Desarrollo Económico, de Bienestar Social, de Educación y el Presidente de la Comisión de Derechos Humanos del H. Congreso del Estado.
 
 El premio consistirá en una medalla y podrá promoverlo cualquier persona.
 
@@ -771,7 +771,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los quince días del mes de diciembre de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. HERIBERTO BATRES GARCIA.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE JUNIO DE 1994
 
@@ -810,3 +810,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los procedimientos para otorgar algún premio, estímulo o recompensa, que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán su trámite conforme a las disposiciones aplicables al momento de su inicio.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
