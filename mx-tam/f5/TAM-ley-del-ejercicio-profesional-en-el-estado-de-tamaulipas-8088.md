@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-ejercicio-profesional-en-el-estado-de-tamaulipas-8088"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2013-09-30"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -53,11 +53,11 @@ Esta Ley es de orden público e interés social; sus disposiciones regirán en e
 
 Cuando determinados aspectos relacionados con alguna rama o especialidad profesional no se encuentren regulados en esta Ley, pero sí en una diversa Ley local, se aplicará ésta última.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 3.
 
-La aplicación de esta Ley corresponde al Ejecutivo del Estado, por conducto de la Dirección de Permisos y Legalizaciones de la Secretaría del Trabajo y Asuntos Jurídicos, a la que, para los efectos de esta Ley, se aludirá en su texto como "la Dirección".
+La aplicación de esta Ley corresponde al Ejecutivo del Estado, por conducto de la Dirección de Permisos y Legalizaciones de la Secretaría del Trabajo, a la que, para los efectos de esta Ley, se aludirá en su texto como "la Dirección".
 
 ### CAPITULO II. Del Título Profesional y de las Profesiones que lo requieran para su ejercicio
 
@@ -353,9 +353,9 @@ b).- La Universidad Autónoma de Tamaulipas, y las instituciones universitarias 
 
 c).- El Colegio de Tamaulipas, en términos de la Ley que lo rige.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-La legalización de los títulos mencionados en este artículo quedará a cargo de la Secretaría del Trabajo y Asuntos Jurídicos, cuya facultad podrá delegar su titular en los servidores públicos de la dependencia.
+La legalización de los títulos mencionados en este artículo quedará a cargo de la Secretaría del Trabajo, cuya facultad podrá delegar su titular en los servidores públicos de la dependencia.
 
 ### CAPITULO IV
 
@@ -915,11 +915,11 @@ El profesionista que se considere afectado por una sanción impuesta por la Dire
 
 ### CAPÍTULO ÚNICO. De la Dirección de Permisos y Legalizaciones
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 67.
 
-La Dirección tendrá a su cargo la supervisión del ejercicio profesional en el Estado. Dependerá de la Secretaría del Trabajo y Asuntos Jurídicos y tendrá las atribuciones que establecen esta Ley, la de Educación Pública y demás disposiciones relativas.
+La Dirección tendrá a su cargo la supervisión del ejercicio profesional en el Estado. Dependerá de la Secretaría del Trabajo y tendrá las atribuciones que establecen esta Ley, la de Educación Pública y demás disposiciones relativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1053,13 +1053,13 @@ El Reglamento para el Registro de Peritos del Estado, se deberá expedir en un p
 
 En un plazo no mayor a 30 días posteriores a la entrada en vigor del presente Decreto, deberá quedar instalada la Comisión de Valuación de la Secretaría del Trabajo y Asuntos Jurídicos.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 225 ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES II Y III DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 90, Y SE ADICIONA UNA FRACCIÓN IV AL MISMO ARTÍCULO 90 DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 26 DE JULIO DE 2021.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 248.- ARTÍCULO PRIMERO.- SE REFORMAN LA FRACCIÓN LV DEL ARTÍCULO 7º; LAS FRACCIONES I, V, VIII Y IX DEL ARTÍCULO 15; EL ARTÍCULO 47; LAS FRACCIONES III Y VI DEL ARTÍCULO 48; LAS FRACCIONES IV, V, Y VI DEL ARTÍCULO 49; EL ARTÍCULO 50; Y LA FRACCIÓN IV DEL ARTÍCULO 209. ASÍ COMO SE ADICIONAN UNAS FRACCIONES VII, VIII Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 49; TODOS DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE DEROGA EL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO NÚMERO 288 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES, EL 30 DE ABRIL DE 2018, POR EL CUAL FUE EXPEDIDA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
 
