@@ -4,7 +4,7 @@ identifier: "FED-manual-general-de-puestos-del-consejo-de-la-judicatura-81302"
 country: "mx"
 rank: "manual"
 publication_date: "2011-05-17"
-last_updated: "2016-11-18"
+last_updated: "2016-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81302&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2011-05-04"
 
 MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE DICIEMBRE DE 2016.
 
 Manual publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el martes 17 de mayo de 2011.
 
@@ -7309,11 +7309,13 @@ II.2 Funciones:
 
 3. Atender las instrucciones que le encomiende el titular del órgano jurisdiccional que se relacionen con actividades jurídico-administrativas del propio órgano; entre otras, visitas de inspección, control y manejo de archivo, SISE CB; y en el caso de las videoconferencias, coordinarse con la Dirección General de Tecnologías de la Información.
 
-4. Cumplir con las funciones establecidas en los manuales, lineamientos, directrices o instrucciones que determine el Pleno o las Comisiones.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL, EN RELACIÓN CON LAS FUNCIONES DE LOS COORDINADORES TÉCNICOS ADMINISTRATIVOS, COMO AGENTES CERTIFICADORES, D.O.F. 18 DE NOVIEMBRE DE 2016)</small>
+4. Fungir como agente certificador para tramitar la emisión, renovación y revocación de Certificados Digitales de la Firma Electrónica Certificada del Poder Judicial de la Federación, de conformidad con el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo y demás disposiciones aplicables, cumpliendo con el rol establecido por la Dirección General de Estadística Judicial.
 
-5. Fungir como agente certificador para tramitar la emisión, renovación y revocación de Certificados Digitales de la Firma Electrónica Certificada del Poder Judicial de la Federación, de conformidad con el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo y demás disposiciones aplicables, cumpliendo con el rol establecido por la Dirección General de Estadística Judicial.
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 2016)</small>
+
+5. Cumplir con las funciones establecidas en los manuales, lineamientos, directrices o instrucciones que determine el Pleno o las Comisiones.
 
 > <small>(ADICIONADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DE LOS ÓRGANOS JURISDICCIONALES, ASÍ COMO MEDIANTE EL CUAL SE ACTUALIZA EL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL, EN RELACIÓN CON LAS FUNCIONES DE LOS COORDINADORES TÉCNICOS ADMINISTRATIVOS, COMO AGENTES CERTIFICADORES, D.O.F. 18 DE NOVIEMBRE DE 2016)</small>
 
@@ -10333,6 +10335,8 @@ Anexo 3. Registro de Actualizaciones.
 
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 26 DE AGOSTO DE 2016, PÁGINA 83.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, D.O.F. 13 DE DICIEMBRE DE 2016, PÁGINAS DE LA 101 A LA 102.]</small>
+
 EL MAGISTRADO J. GUADALUPE TAFOYA HERNANDEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que la actualización al Manual General de Puestos del Consejo de la Judicatura Federal, fue aprobada por el Pleno del propio Consejo, en sesión ordinaria de nueve de marzo de dos mil once, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, Juan Carlos Cruz Razo, César Esquinca Muñoa, César Alejandro Jáuregui Robles y Jorge Moreno Collado.- México, Distrito Federal, a cuatro de mayo de dos mil once.- Conste.- Rúbrica.
 
 > <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
@@ -10356,3 +10360,7 @@ D.O.F. 18 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 13 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. LAS "MODIFICACIONES AL MANUAL GENERAL DE PUESTOS DEL CONSEJO DE LA JUDICATURA FEDERAL", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
