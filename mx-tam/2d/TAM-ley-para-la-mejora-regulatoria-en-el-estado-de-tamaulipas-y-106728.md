@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-mejora-regulatoria-en-el-estado-de-tamaulipas-y-106
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-18"
-last_updated: "2015-03-18"
+last_updated: "2016-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR TREINTA DÍAS POSTERIORES A SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 18 de marzo de 2015.
 
@@ -337,7 +335,9 @@ I. El Gobernador del Estado, quien fungirá como Presidente, quien en su ausenci
 
 II. El Titular de la Contraloría, quien fungirá como Vicepresidente;
 
-III. El Titular de la Secretaría de Desarrollo Económico y Turismo, quien fungirá como Asesor;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+III. El Titular de la Secretaría de Desarrollo Económico, quien fungirá como Asesor;
 
 IV. El Presidente de la Junta de Coordinación Política del Congreso del Estado, quien será miembro permanente;
 
@@ -403,7 +403,9 @@ II. Los Presidentes Municipales de los municipios que conforman la Región, quie
 
 III. El Titular de la Contraloría, o bien por un representante que para tal efecto designe;
 
-IV. El Titular de la Secretaría de Desarrollo Económico y Turismo, o bien por un representante que para tal efecto designe;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+IV. El Titular de la Secretaría de Desarrollo Económico, o bien por un representante que para tal efecto designe;
 
 V. Un Diputado del Congreso del Estado, quien será miembro permanente;
 
@@ -577,7 +579,9 @@ IX. Celebrar convenios en materia de mejora regulatoria con el Ejecutivo del Est
 
 X. Brindar a la Comisión Estatal la información necesaria para la integración del informe que, en su caso, la Contraloría presente al Congreso del Estado, al Consejo Estatal y a los Consejos Regionales;
 
-XI. Promover, en coordinación con la Secretaría de Desarrollo Económico y Turismo y la Contraloría, el establecimiento del SARE y ventanillas únicas, respectivamente;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+XI. Promover, en coordinación con la Secretaría de Desarrollo Económico y la Contraloría, el establecimiento del SARE y ventanillas únicas, respectivamente;
 
 XII. Participar en los Consejos Regionales y representar a su región en el Consejo Estatal;
 
@@ -1009,9 +1013,11 @@ h) Solicitud de inscripción, firmada autógrafa o electrónicamente, en su caso
 
 El SARE fungirá como una instancia de enlace entre las dependencias y entidades, con los empresarios o sus representantes legales, para todo lo relacionado con la gestoría de los trámites y autorizaciones necesarias para establecer una empresa; y ofrecerán la información y asesoría especializada para facilitar la inversión productiva y la generación de empleos.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 64.
 
-El SARE estará a cargo, en su funcionamiento interior, de la Secretaría de Desarrollo Económico y Turismo. El acuerdo interinstitucional para el funcionamiento del SARE que al efecto se expida, deberá indicar qué funcionarios de las diversas dependencias y entidades lo integrarán, así como la forma de organización del mismo.
+El SARE estará a cargo, en su funcionamiento interior, de la Secretaría de Desarrollo Económico. El acuerdo interinstitucional para el funcionamiento del SARE que al efecto se expida, deberá indicar qué funcionarios de las diversas dependencias y entidades lo integrarán, así como la forma de organización del mismo.
 
 ###### ARTÍCULO 65.
 
@@ -1120,3 +1126,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiséis días del mes de febrero del año dos mil quince.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
