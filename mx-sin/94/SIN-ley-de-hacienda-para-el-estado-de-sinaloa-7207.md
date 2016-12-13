@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2016-05-04"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -523,9 +523,27 @@ ART. 17.- Se encuentran obligadas al pago de este impuesto las personas físicas
 
 Para los efectos de este impuesto, se considerarán erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás prestaciones que se deriven de una relación laboral y cuando el servicio se preste en otro Estado no se causará este impuesto por los pagos que realicen por estas erogaciones.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 18.- El impuesto se determinará aplicando la tasa del 1.5% sobre el monto total de las erogaciones gravadas, realizadas por concepto de remuneración al trabajo personal subordinado.
+ART. 18. El impuesto sobre nóminas se determinará sobre el monto total de las erogaciones gravadas, realizadas por concepto de remuneración al trabajo personal subordinado (base gravable), mediante la aplicación de la tarifa y procedimientos siguientes:
+
+Tarifa
+
+Límite inferior Límite superior Por ciento a aplicar sobre
+
+base gravable
+
+$ $ %
+
+0.01 500,000.00 2.40%
+
+500,000.01 700,000.00 2.60%
+
+700,000.01 900,000.00 2.80%
+
+900,000.01 En adelante 3.00%
+
+Para los efectos de este artículo, la base gravable se ubicará dentro de los límites establecidos en columnas denominadas límite inferior y límite superior de la tarifa. A la base gravable se le aplicará el porcentaje que para el mismo renglón se establece en la última columna.
 
 Sobre el impuesto previsto en este Capítulo no se causará impuesto adicional alguno.
 
@@ -533,7 +551,9 @@ Sobre el impuesto previsto en este Capítulo no se causará impuesto adicional a
 
 ART. 19.- Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración, que deberá presentarse ante la Oficina Recaudadora correspondiente al domicilio del contribuyente o ante la Oficina autorizada al efecto. El pago deberá efectuarse mediante declaración bimestral, dentro de los primeros quince días de los meses de marzo, mayo, julio, septiembre, noviembre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero, cuarto, quinto y sexto bimestre del año; según corresponda.
 
-Aquellos contribuyentes cuyas erogaciones mensuales por concepto de remuneración al trabajo personal subordinado, no excedan el importe del equivalente de diez veces el salario mínimo general elevado a 30 días del área geográfica de Sinaloa, podrán efectuar el pago mediante declaración trimestral, dentro de los primeros quince días de los meses de abril, julio, octubre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero y cuarto trimestre del año, según corresponda.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+Aquellos contribuyentes cuyas erogaciones mensuales por concepto de remuneración al trabajo personal subordinado, no excedan el importe del equivalente de diez veces el valor diario de la unidad de medida y actualización elevado a 30 días, podrán efectuar el pago mediante declaración trimestral, dentro de los primeros quince días de los meses de abril, julio, octubre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero y cuarto trimestre del año, según corresponda.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -571,7 +591,9 @@ g).- Gastos de representación y viáticos efectivamente erogados por cuenta del
 
 h).- Pagos a trabajadores domésticos;
 
-i).-Aguinaldo y gratificaciones que perciban los trabajadores de sus patrones durante el año de calendario, hasta el equivalente a un salario mínimo general del Estado de Sinaloa elevado a 30 días, cuando dichas gratificaciones se otorguen en forma general; y,
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+i).- Aguinaldo y gratificaciones que perciban los trabajadores de sus patrones durante el año de calendario, hasta el equivalente a una vez el valor diario de la unidad de medida y actualización elevado a 30 días, cuando dichas gratificaciones se otorguen en forma general; y,
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -605,9 +627,9 @@ ART. 24.- (DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
 
 ### CAPITULO IV. IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 25.- Es objeto de este impuesto la prestación de servicios de hospedaje, proporcionados a través de Hoteles, Moteles, Albergues, Posadas, Mesones, Hosterías, Campamentos, Paraderos de casas rodantes y otros establecimientos que presten servicios de esa naturaleza dentro del Territorio del Estado, incluyendo los que presten estos servicios bajo la modalidad de tiempo compartido.
+ART. 25. Es objeto de este impuesto la prestación de servicios de hospedaje, proporcionados a través de Hoteles, Moteles, Suites, Villas, Bungalows, Marinas Turísticas, Albergues, Posadas, Casas de Huéspedes, Mesones, Hosterías, Multipropiedad, Casas y Departamentos amueblados y otros inmuebles o establecimientos que de manera ocasional o permanente presten servicios de esta naturaleza dentro del territorio del Estado, incluyendo Campamentos, Paraderos de casas rodantes, así como los que presten servicios bajo la modalidad de tiempo compartido y de todo incluido.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -617,21 +639,29 @@ Para efecto de este impuesto se entiende por prestación de servicios de hospeda
 
 I.- La prestación de servicios bajo el sistema de tiempo compartido o de cualquier otra denominación mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual o una unidad variable dentro de una clase determinada, durante un período específico, a intervalos previamente establecidos, determinados o determinables, que no sea adquirido en propiedad;
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 II.- La prestación de servicios de paraderos de casa rodantes, móviles o autotransportables, mediante los que se otorga el espacio e instalaciones para estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorgan espacio para acampar.
 
-Este impuesto no se causa por los servicios proporcionados por las casas de hospedaje, excepto las que incluyen en sus servicios la opción de consumir vinos, licores y cerveza. Asimismo, no se considerarán servicios de hospedaje, el albergue o alojamiento prestados por Hospitales, Clínicas, Asilos, Conventos, Seminarios o Internados, ni las cuotas que se cobren por mantenimiento en tiempos compartidos adquiridos en propiedad.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por Hospitales, Clínicas, Asilos, Conventos, Seminarios o Internados, Instituciones de beneficencia pública y privada, albergues tutelares, incluyéndose los de propiedad del Sistema para el Desarrollo Integral de la Familia (DIF), así como los que presten los sindicatos a sus agremiados y los destinados expresamente a pensionados y jubilados, y el prestado a estudiantes cuyo servicio derive de contratos de arrendamiento, ni las cuotas que se cobren por mantenimiento en tiempos compartidos adquiridos en propiedad.
 
-ART. 26.- Son sujetos de este impuesto las personas físicas o morales que presten los servicios de hospedaje a que se refiere el artículo anterior.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+ART. 26. Son sujetos de este impuesto las personas físicas o morales que dentro del Estado de Sinaloa de manera permanente o temporal presten sus servicios de albergue u hospedaje de acuerdo a lo establecido en el artículo anterior.
 
-Los sujetos de este impuesto trasladarán su importe en forma expresa y por separado a las personas que reciban los servicios objeto de este impuesto y se causará al momento en que se perciba el importe correspondiente a la contraprestación por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos de toda clase, bienes convencionales y cualquier otro concepto de la misma naturaleza.
+Los sujetos de este impuesto trasladarán su importe en forma expresa y por separado a las personas que reciban los servicios objeto de este impuesto y se causarán en el momento en que ocurra el primero de cualquiera de los siguientes supuestos:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+I. Se efectúen el pago por la prestación de los servicios gravados;
 
-Asimismo, cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios tales como transportación, comida, uso de instalaciones u otros similares deberán desglosar el importe de cada contraprestación pactada.
+II. Se hagan exigibles los pagos por la prestación de los servicios gravados; o,
+
+III. Se expida el comprobante de pago correspondiente.
+
+Estos incluyen depósitos, anticipos, gastos de toda clase, bienes convencionales y cualquier otro concepto de la misma naturaleza.
+
+Cuando los contribuyentes no desglosen y demuestren la prestación de servicios accesorios, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -641,6 +671,10 @@ ART. 27.- La base gravable de este impuesto será el monto total de la contrapre
 
 En la hipótesis señalada en el artículo 25 fracción I, la base gravable será la cuota que se cobre por mantenimiento.
 
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+Los contribuyentes del impuesto de hospedaje, cuando presten servicios bajo el sistema denominado “todo incluido" por el cual el pago de la contraprestación contemple servicios adicionales al de hospedaje, tales como los de transportación, alimentos, bebidas, uso de instalaciones y otros similares, calcularán el impuesto considerando como base gravable únicamente el importe correspondiente al albergue, de tal forma que el sistema contable que lleven, permita identificar el importe correspondiente al servicio de hospedaje, y desglosarlo en el comprobante que ampare los servicios prestados. El contribuyente podrá estimar el importe relativo al servicio de hospedaje dentro del sistema "todo incluido", sin que en ningún caso pueda ser inferior al 40% del importe total de los servicios comprendidos bajo este sistema, excluyendo las propinas y los impuestos que se trasladen al consumidor.
+
 > <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
 
 ART. 28.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 3%.
@@ -648,6 +682,10 @@ ART. 28.- El monto del impuesto se determinará aplicando a la base gravable a q
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1997)</small>
 
 ART. 29.- Este impuesto se cobrará al momento de elaborarse la factura correspondiente, y deberá enterarse mediante declaración que presentará el contribuyente en los formatos oficialmente aprobados ante las oficinas autorizadas para ello, dentro de los primeros quince días de cada mes, debiendo contener dichas declaraciones la información y demás datos relativos a las altas y operaciones objeto de este impuesto que se hayan realizado en el mes anterior.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+La obligación de presentar la declaración subsistirá aun cuando no se hayan obtenido ingresos gravados, si no se presenta el aviso de suspensión de actividades.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -661,7 +699,9 @@ I.- Solicitar su inscripción en el registro estatal de contribuyentes ante la a
 
 II.- Trasladar a los usuarios de sus servicios el impuesto correspondiente y enterarlo a las oficinas autorizadas por los períodos y en las fechas a que se refiere el articulo 29;
 
-III.- Llevar los controles necesarios que acrediten en forma fehaciente cada uno de los actos de este impuesto;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+III. Llevar un registro acorde con sus sistemas de contabilidad en el cual se consigne el monto correspondiente al valor de la contraprestación por los servicios de hospedaje que perciban o se hagan exigibles, donde además se desglosen los servicios accesorios que en su caso se presten;
 
 IV.- Presentar ante las oficinas autorizadas para ello en los términos del Código Fiscal del Estado los avisos respectivos en los casos de cambio de nombre, denominación o razón social, domicilio, traslado, traspaso, clausura, fusión, escisión, liquidación, o transformación de personas morales; suspensión o reanudación de actividades u obligaciones o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en el documento de inscripción en los plazos señalados por el citado Código Fiscal.
 
@@ -675,85 +715,211 @@ II.- No proporcione la información que la autoridad fiscal le solicite, su cont
 
 III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones de los servicios objeto de este impuesto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 33.- El importe de lo recaudado por concepto de esta contribución, se destinará en los municipios donde se recaude, en un 96.5% a la promoción, difusión y publicidad turística del Municipio y sus atractivos turísticos, mejoras materiales de los atractivos turísticos y en general, a realizar acciones tendientes a promover el turismo en cada municipio. El restante 3.5% de lo recaudado, será a favor del Estado para cubrir sus gastos públicos y de administración del impuesto.
-
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2006)</small>
-
-Con los importes que correspondan al 96.5% ya señalado, se constituirán los Fideicomisos que sean necesarios para estos fines, mismos que podrán estar integrados por uno o más municipios. El Comité Técnico de cada Fideicomiso, estará integrado por un representante del Gobierno del Estado, un representante del Ayuntamiento de cada Municipio y un representante del Sector Hotelero de cada Municipio.
-
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
-
-El Comité Técnico de cada Fideicomiso, determinará los importes y programas en que deberá invertirse el patrimonio fideicomitido. Para que puedan aplicarse recursos del Fideicomiso en cada Municipio, será necesario que los importes y programas a realizar, sean aprobados en forma unánime por los representantes del Ayuntamiento y del Sector Hotelero del Municipio de que se trate, así como el Representante del Gobierno del Estado, integrantes del Comité Técnico de cada Fideicomiso.
-
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
-
-Los Municipios en los que no se hayan constituido el Fideicomiso, se podrán adherir a otro Municipio que ya cuente con el Fideicomiso respectivo, pasando a formar parte integrante del Comité Técnico del mismo el representante del Municipio adherente, así como el del Sector Hotelero de ese Municipio. La constitución de un Fideicomiso para los fines de este Impuesto, o la adhesión a uno ya existente, deberán publicarse en el Periódico Oficial "El Estado de Sinaloa", para que al día siguiente de su publicación, surja la obligación de cubrir y recaudar este impuesto.
-
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
-
-En la constitución de los Fideicomisos deberán estar de acuerdo en su contenido las partes que integrarán el Comité Técnico de los mismos, manteniéndose en suspenso el cobro de este impuesto en los municipios donde no se constituya el Fideicomiso respectivo o el Municipio no se adhiera a uno ya existente; en caso de que éste se extinga, se suspenderá el cobro del impuesto hasta que se constituya un nuevo Fideicomiso.
-
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
-
-La cuenta pública estatal correspondiente, en los términos de la presente Ley, deberá reflejar la aplicación que se haga de lo recaudado por este concepto, tomando como base los fines de este impuesto, respecto de cada Municipio.
-
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
-
-El Estado entregará al Fideicomiso que corresponda a cada Municipio los ingresos captados en cada uno de ellos, en un término de treinta días hábiles al mes en que deba enterar este impuesto a la Oficina Recaudadora.
-
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
-
-El Fideicomiso correspondiente presentará a la Contaduría Mayor de Hacienda del Congreso del Estado, a mas tardar en el mes de mayo de cada año, un informe financiero de la aplicación y destino de los recursos entregados por el Gobierno del Estado durante el año inmediato anterior.
+ART. 33. El ingreso que perciba el Estado proveniente del impuesto a que se refiere este capítulo, se destinará exclusivamente a acciones directas de promoción y difusión del Sector Turismo en la Entidad, a través de la Secretaría de Turismo, con un Consejo Consultivo que se creará para tal fin, en el que participarán autoridades gubernamentales y empresarios del sector turístico.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 34.- Las infracciones a las disposiciones contenidas en este capítulo serán sancionadas en los términos previstos en el Código Fiscal del Estado.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO V. DEL IMPUESTO SOBRE LOTERIAS, RIFAS, SORTEOS Y CONCURSOS DE TODA CLASE
+### CAPÍTULO V. DE LOS IMPUESTOS EN MATERIA DE APUESTAS Y SORTEOS
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis.- Es objeto de este impuesto, la obtención de premios derivados de loterías, rifas, sorteos y concursos de toda clase, realizados por organismos públicos descentralizados de la Administración Pública Federal cuyo objeto sea la obtención de recursos para destinarlos a la Asistencia Pública.
+#### SECCIÓN PRIMERA. DEL IMPUESTO SOBRE LA OBTENCIÓN DE PREMIOS
 
-No se considerará como premio el reintegro correspondiente al billete o boleto que permitió participar en la lotería, rifa o sorteo.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+ART. 34 bis. Es objeto de este impuesto, el ingreso por obtención de premios en efectivo, en especie o en valor de servicios, que perciban las personas físicas y las morales derivado de la celebración de loterías, rifas, sorteos y concursos de toda clase, autorizados legalmente, cuando el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento haya sido enajenado o distribuido en el territorio del Estado, siempre que el evento se lleve a cabo en esta entidad federativa o el premio se entregue en la misma.
 
-ART. 34 bis-1.- Son sujetos de este impuesto, las personas físicas, morales o unidades económicas que obtengan premios a que se refiere el artículo anterior.
+Se considera que el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento se enajenó o distribuyó en el Estado, aun cuando por dicho acto no se haya efectuado cobro alguno.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+También es objeto de este impuesto la percepción de premios derivados de la celebración de juegos con apuestas legalmente permitidos. Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas, independientemente del nombre con el que se les designe, aquellos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
 
-ART. 34 bis-2.- Será base del impuesto, el valor determinado o determinable que se obtenga del premio correspondiente a cada billete o boleto, sin deducción alguna.
+Igualmente se consideran juegos con apuestas, aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que la obtención del premio no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
 
-Tratándose de premios en especie, será base del impuesto, el valor con el que se promocione cada uno de los premios, en su defecto, el valor de facturación y en ausencia de ambos el de avalúo comercial.
+Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video y audio.
 
-Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda a la rifa, sorteo o concurso de que se trate, se considerará que el valor o precio total del evento, corresponde al objeto del impuesto.
+De igual forma, quedan comprendidos en los juegos con apuestas, aquellos establecimientos autorizados por autoridad competente en los que se reciban, capten, crucen o exploten apuestas.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-3.- Sobre la base gravable de este impuesto, se aplicará la tasa del 6%.
+ART. 34 bis-1. Para los efectos de esta Ley se entiende por:
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+I. Concurso, todo evento en el cual sean necesarias habilidades, aptitudes, características literarias, musicales, artísticas, académicas, deportivas o de cualquier otra índole que resulten indispensables para participar en dicho evento y acordes al objetivo del mismo, y de cuya participación tenga como objetivo la obtención de un premio.
 
-ART. 34 bis-4.- Este impuesto se causa en el momento en que los premios sean pagados y quienes entreguen los premios a que se refiere este capítulo, deberán retener el impuesto correspondiente, independientemente del lugar donde se realice el evento.
+II. Rifa, lotería o sorteo, todo evento en el cual se participe mediante un boleto, billete, contraseña o cualquier otro comprobante en alguna actividad organizada por persona física, moral o unidades económicas en las que intervenga para la obtención del premio, la suerte.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+No se considerará como premio el reintegro correspondiente al billete que permitió participar en loterías.
 
-ART. 34 bis-5.- Las personas físicas o morales que retengan este impuesto, realizarán el entero respectivo a más tardar el día quince del mes siguiente al en que se realice la retención, presentando la declaración en las formas aprobadas ante la Oficina Recaudadora que corresponda. Dicho pago se entenderá definitivo.
+III. Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos, y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto sumado a la cantidad arriesgada deberá ser superior a ésta.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1997)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ART. 34 bis-6.- Los sujetos obligados a la retención de este impuesto tendrán las siguientes obligaciones:
+ART. 34 bis-2. Son sujetos de este Impuesto:
 
-I.- Presentar ante las Autoridades Fiscales competentes, los avisos y declaraciones que correspondan, dentro de los plazos y los lugares señalados para tal efecto;
+I. Las personas físicas y las morales que obtengan ingresos por concepto de premios derivados de rifas, loterías, sorteos, concursos de toda clase y juegos con apuestas, en los términos del Artículo 34 bis de esta Ley.
 
-II.- Retener y enterar, en su caso, el impuesto que se cause conforme a estas disposiciones y proporcionar cuando así lo solicite el interesado, constancia de retención del impuesto a la persona que obtenga el premio;
+II. Las unidades económicas sin personalidad jurídica, que obtengan ingresos derivados del cobro de premios de loterías, rifas, sorteos y concursos en términos del artículo 34 bis de esta Ley.
 
-III.- Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda.
+Se consideran sujetos de este Impuesto, las personas a que alude este artículo, que obtengan los premios gravados por este impuesto en los siguientes casos:
+
+a) Que el evento se desarrolle fuera del Estado y el premio se entregue en el mismo.
+
+b) Que el organizador sea residente de otra entidad federativa y el billete, boleto, contraseña o cualquier otro comprobante que permita participar en el evento, se haya enajenado o distribuido en el Estado.
+
+c) Que el evento se desarrolle en el Estado y el premio se entregue en otra entidad federativa.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-3. Es base de este Impuesto:
+
+I. Tratándose de premios en efectivo, el monto total del ingreso por los premios obtenidos.
+
+II. Tratándose de premios en especie, el valor con que se promocione cada uno de los premios o en su defecto:
+
+a) El valor de la facturación de compra tratándose de bienes muebles.
+
+b) El valor comercial vigente en el momento de su entrega tratándose de bienes inmuebles.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-4. El monto del impuesto se calculará, aplicando a la base gravable a que alude el artículo anterior la tasa del 9%.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-5. Las personas o instituciones que organicen, celebren los eventos, o entreguen los premios a que se refiere el Artículo 34 bis de esta Ley, están obligados a retener el impuesto que causen los sujetos mencionados en el Artículo 34 bis-2 de esta Ley.
+
+La retención del impuesto prevista en el párrafo anterior deberá efectuarse al momento de realizar la entrega del premio.
+
+Los organismos públicos descentralizados de la Administración Pública Federal, aunque conforme a otras Leyes o Decretos no causen impuestos locales o estén exentos de ellos, deberán efectuar las retenciones de este impuesto y enterarlo de acuerdo al párrafo anterior.
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-6. Este impuesto se causará en el momento en que se efectúe el pago o entrega del premio, por los organizadores del evento.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-7. Los retenedores a que se refieren los Artículos 34 bis-2 y 34 bis-5 de esta Ley, efectuarán el entero del impuesto a más tardar el día 15 del mes siguiente a aquél en que se causó, presentando para tal efecto declaración ante las oficinas, instituciones o medios electrónicos autorizados en términos del Código Fiscal del Estado de Sinaloa que corresponda al domicilio del organizador del evento y con alguno de los medios de pago autorizados. Dicho pago se considerará definitivo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-8. Las personas o instituciones que organicen, celebren los eventos o entreguen los premios a que se refiere esta Ley, además de efectuar las retenciones y entero de este impuesto, tendrán las siguientes obligaciones:
+
+I. Proporcionar al contribuyente que obtenga el premio constancia de retención del impuesto.
+
+II. Proporcionar cuando se lo solicite el contribuyente constancia de los ingresos por los premios, por los que no se esté obligado al pago del impuesto en los términos de esta Ley.
+
+III. Conservar la documentación comprobatoria relativa a las constancias y retenciones de este impuesto.
+
+Se exceptúa de la obligación de retener el impuesto al ganador del premio cuando el mismo se otorgue en bienes muebles distintos al dinero, o inmuebles, en cuyo caso, las personas o instituciones que organicen, celebren los eventos o entreguen los premios, deberán solicitar al ganador constancia de pago del impuesto o en su defecto de haber comparecido ante la autoridad fiscal y celebrado convenio para el pago del impuesto en parcialidades.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-9. Los ingresos provenientes de la obtención de premios derivados de la celebración de loterías, rifas, sorteos o concursos que sean donados por el contribuyente a instituciones de beneficencia y asistencia social ubicadas en el Estado de Sinaloa, se considerarán exentos del pago de este impuesto hasta por el monto de lo donado.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. DEL IMPUESTO POR LA PRESTACIÓN DE SERVICIOS DE JUEGOS CON APUESTAS Y CONCURSOS
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-10. Son objeto de este impuesto las actividades de prestación de servicios consistentes en juegos con apuestas que se realicen en el territorio del Estado, independientemente del nombre con el que se les designe y que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos, y su Reglamento, así como los juegos y concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas o que en su desarrollo utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares.
+
+Quedan comprendidos en los juegos con apuestas, aquellos en los que sólo se reciban, capten, crucen o exploten apuestas y en los concursos aquellos en los que intervenga directa o indirectamente el azar.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-11. Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que en el territorio del Estado realicen las actividades de prestación de servicios a que se refiere el artículo 34 bis-10 de esta Ley, independientemente de que se trate de administradores, organizadores o anfitriones de algún establecimiento donde se lleve a cabo la prestación de los servicios. Son también sujetos de este impuesto las personas que paguen los premios, cuando sean distintas de las mencionadas en este artículo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-12. Será base de este Impuesto:
+
+I. En los de juegos con apuestas, el monto total de las apuestas, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+
+II. En los juegos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego, el valor total de las cantidades equivalentes en moneda nacional que amparen dichos medios, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+
+III. En el caso de concursos, el monto total de los ingresos obtenidos por las inscripciones que permitan participar en el evento, una vez disminuido el valor de los premios efectivamente pagados o entregados conforme a las disposiciones aplicables.
+
+Tratándose de premios en especie, en los eventos a que se refieren las fracciones anteriores de este artículo el monto que se podrá disminuir será el que corresponda al valor con el que se promocione el premio, en su defecto, el valor de facturación, y en ausencia de ambos, el valor que tenga el premio en el mercado, así como las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se efectúen previo a la realización del evento y éstas se encuentren debidamente registradas en la contabilidad del contribuyente.
+
+Cuando el monto de las disminuciones a que se refieren las fracciones anteriores de este artículo sea superior a la base gravable correspondiente al mes de que se trate, la diferencia se amortizará en los meses siguientes hasta agotarse.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-13. Este impuesto se determinará aplicando una tasa del 9% sobre la base del impuesto a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-14. Este impuesto se causa en el momento que se entreguen a los participantes fichas, tarjetas, contraseñas, bandas magnéticas, dispositivos electrónicos u objetos similares que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o en el momento de participación en el concurso.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-15. No se pagará este impuesto cuando la prestación del servicio a que se refiere este impuesto se realice por organismos o instituciones de enseñanza con reconocimiento de validez oficial de estudios, de asistencia social o de beneficencia, debidamente autorizadas por las Leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-16. Los sujetos obligados al pago del impuesto a que se refiere esta Sección, realizarán el pago a más tardar el día 20 del mes siguiente a aquél al que corresponda el pago, presentando para tal efecto declaración ante las oficinas, instituciones o medios electrónicos autorizados en términos del Código Fiscal del Estado de Sinaloa que corresponda al domicilio del organizador del evento y con alguno de los medios de pago autorizados. Dicho pago se considerará definitivo.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-17. Las personas físicas, morales o unidades económicas sin personalidad jurídica, que organicen, celebren, enajenen o vendan directamente o a través de terceras personas, billetes, boletos, contraseñas o cualquier otro comprobante que permita participar en los eventos a que se refiere el objeto de los impuestos a que se refiere esta sección, tendrán las siguientes obligaciones:
+
+I. Solicitar su inscripción en el registro estatal de contribuyentes, utilizando para tales efectos las formas aprobadas.
+
+II. Presentar ante las autoridades fiscales las declaraciones y pagos correspondientes, los avisos e informes dentro de los plazos y en los lugares señalados para tales efectos.
+
+III. Conservar a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria del pago del impuesto que corresponda.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-18. El impuesto a que se refiere esta Sección no dará lugar a incrementos en los precios señalados por los contribuyentes, ni se expresará por separado en los billetes, boletos y demás comprobantes que permitan participar en loterías, rifas, sorteos, juegos con apuestas y concursos de toda clase.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN PRIMERA. DE LOS SUJETOS Y EL OBJETO
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-19. Están obligadas al pago del impuesto establecido en este capítulo las personas físicas y morales que, en el territorio del Estado de Sinaloa, en forma habitual o profesional, realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria no reguladas por leyes y autoridades financieras, respecto de aquellos bienes dados en prenda que no sean recuperados por el deudor prendario y sean posteriormente enajenados. El impuesto se causará en la fecha en la que el bien dado en prenda se enajene al público en general.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO VI. DEL IMPUESTO A CASAS DE EMPEÑO
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. DE LA BASE GRAVABLE, TASA Y ÉPOCA DE PAGO
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-20. El impuesto se calculará aplicando la tasa del 5% a la diferencia entre el monto del avalúo que sirve de base para el otorgamiento del crédito prendario y el monto de la enajenación del bien otorgado en garantía prendaria que celebren los sujetos de este impuesto con el público en general.
+
+El monto del avalúo es la valoración del bien mueble dado en prenda, que queda consignado en la boleta o billete de empeño, contrato o cualquier otra denominación que se otorgue al documento en el que se formalice el préstamo otorgado, los intereses pactados y cualquier otro gasto por parte, del prestamista, así como el plazo para la recuperación del bien dado en prenda.
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-21. El pago de este impuesto se efectuará mediante declaración mensual definitiva que presentarán los contribuyentes en las oficinas autorizadas por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Sinaloa, a más tardar el día 17 del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 34 bis-22. Son obligaciones de los sujetos del impuesto:
+
+I. Llevar y conservar los registros contables y administrativos de conformidad con las leyes y demás disposiciones aplicables.
+
+II. Mantener en los establecimientos o sucursales en los cuales se realicen las operaciones o contrataciones materia de este impuesto, las boletas o billetes de empeño y contratos, o cualquier otro documento que sustenten tales operaciones o contrataciones y permitan la plena identificación del deudor prendario incluyendo su domicilio y número telefónico, así como exhibirlos cuando las autoridades competentes lo requieran.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+## TITULO SEGUNDO. DE LOS DERECHOS
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -850,10 +1016,6 @@ En la copia certificada deberá expresarse que su expedición se hace para ser p
 > <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2003)</small>
 
 IV.- Los certificados de insolvencia.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-## TITULO SEGUNDO. DE LOS DERECHOS
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3037,6 +3199,70 @@ ART. 78 bis-7. Por la revalidación anual de autorización o de reconocimiento d
 
 ART. 78 bis-8. Cuando por el pago de los derechos contenidos en este Título, se determine una cuota en fracciones de centavos, se ajustará esta a la unidad inmediata siguiente si se trata de fracciones de cincuenta centavos o superior y cuando la fracción sea inferior a cincuenta centavos, el ajuste se hará a la unidad inmediata anterior.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO XIV. DERECHOS POR LOS SERVICIOS DE AUTORIZACIÓN, REGISTRO Y SUPERVISIÓN PARA LA INSTALACIÓN Y OPERACIÓN DE CASAS DE EMPEÑO
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 78 bis-9. Los derechos por los servicios a que se refiere este capítulo, se pagarán conforme a la siguiente:
+
+CONCEPTO VECES EL VALOR DIARIO
+
+DE LA UNIDAD DE
+
+MEDIDA Y ACTUALIZACIÓN.
+
+I. Por el estudio de cumplimiento 111.11
+
+de requisitos para permitir la instalación
+
+y operación de casas de empeño, la
+
+expedición del permiso correspondiente y
+
+por su inscripción en el registro estatal
+
+de casas de empeño.
+
+II. Por la revalidación anual del estudio 55.56
+
+de cumplimiento y del permiso.
+
+III. Por cada modificación que se 16.67
+
+solicite del permiso, debido a cambios
+
+en la información proporcionada al
+
+expedirse el permiso original.
+
+IV. Por la reposición del permiso otorgado 6.95
+
+o de la revalidación, en caso de extravío,
+
+robo o deterioro revalidación, en caso de
+
+extravío, robo o deterioro grave, a petición
+
+del interesado.
+
+V. Por la revalidación extemporánea del 83.34
+
+estudio de cumplimiento y del permiso
+
+Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del trámite de las solicitudes de permiso, revalidación, modificación o reposición antes descritas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO XV
+
+DERECHOS POR LA PRESTACIÓN DE SERVICIOS Y USO O GOCE DE BIENES DEL DOMINIO PÚBLICO CORRESPONDIENTES A LOS ORGANISMOS DESCENTRALIZADOS QUE CONFORMAN LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
+
+> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+ART. 78 Bis-10. Los Organismos Descentralizados como personas jurídicas, cuyo objetivo primordial es auxiliar a la Administración Pública Centralizada en la realización de actividades correspondientes a las áreas estratégicas o prioritarias del Gobierno del Estado, mediante la prestación de diversos servicios públicos o sociales o la obtención y aplicación de recursos para fines de asistencia o seguridad social, obtendrán sus ingresos mediante el cobro de derechos, conforme a los rubros, conceptos, cuotas y tarifas que señale su órgano de Gobierno respectivo, previa autorización por la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado y aprobación por el Congreso del Estado, en términos de lo establecido en la Ley de Ingresos y Presupuesto de Egresos del Estado de Sinaloa, los que deberán ser publicados en el Periódico Oficial "El Estado de Sinaloa", para tener vigencia y aplicabilidad.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO UNICO
@@ -3181,11 +3407,19 @@ ART. 109.- La devolución de los depósitos por cauciones, se harán en los caso
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
+## TITULO TERCERO. DE LOS PRODUCTOS
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 110.- La percepción de las participaciones se regirá por las Leyes y convenios que las regulen.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+## TITULO CUARTO. DE LOS APROVECHAMIENTOS
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3223,6 +3457,10 @@ ART. 113.- El gravamen a que se refiere este capítulo se pagará al cubrirse el
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
+## TITULO QUINTO. DE LAS PARTICIPACIONES
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 ### CAPITULO II. ADICIONAL MUNICIPAL
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
@@ -3244,126 +3482,6 @@ ART. 116.- Cuando un impuesto del Estado sea condonado totalmente, y en forma ge
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 117.- La recaudación del gravamen adicional municipal y demás participaciones municipales en impuestos estatales, estará a cargo de las Oficinas Recaudadoras de Rentas del Estado y será entregada a las respectivas Tesorerías Municipales, con comprobación correspondiente, mediante liquidación mensual formulada por la Secretaría de Hacienda Pública y Tesorería.
-
-## TITULO TERCERO. DE LOS PRODUCTOS
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-### CAPITULO XVII. Impuesto sobre Primera Venta de Gasolina, Grasas Lubricantes y demás Derivados del Petróleo
-
-ART. 240.- Con fundamento en el Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, reformado por Decreto del 28 de Diciembre de 1953, se establece un impuesto sobre los ingresos obtenidos por las operaciones de primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo que se efectúen en el Estado.
-
-Los ingresos obtenidos de las posteriores ventas no causan el impuesto.
-
-ART. 241.- Este impuesto se causará con la cuota del 2% sobre los ingresos brutos a que se refiere el Artículo anterior.
-
-ART. 242.- Ninguno de los impuestos adicionales vigentes o que en el futuro se establezcan, inclusive el impuesto adicional municipal, serán aplicables en relación con el impuesto que establece el Artículo 240.
-
-ART. 243.- Son causantes del impuesto los expendedores que efectúen las operaciones por primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo en el Estado.
-
-ART. 244.- Se faculta el Gobernador del Estado, para que, con arreglo al Reglamento del Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, a su elección solicite del Gobierno Federal la autorización necesaria para que la Secretaría de Hacienda y Crédito Público autorice a Petróleos Mexicanos para que liquide al Gobierno del Estado el Impuesto que establece el Artículo 240, o bien, para que celebre directamente con Petróleos Mexicanos el Convenio correspondiente para que esta institución liquide al Gobierno del Estado el mencionado impuesto.
-
-ART. 245.- Mientras tanto que no se efectúe o entre en vigor alguno de los arreglos a que se refiere el Artículo anterior, los causantes señalados en el Artículo 243, lo pagarán en la Oficina Recaudadora de su domicilio mercantil, con arreglo a las siguientes normas:
-
-I.- Se empadronarán en dicha Oficina Recaudadora en la forma y términos que establezca esta Ley;
-
-II.- Presentarán en la propia Oficina Recaudadora, una declaración de los ingresos gravables obtenidos cada mes, dentro de los veinte primeros días del mes siguiente y pagarán el impuesto causado simultáneamente a la presentación de la declaración;
-
-III.- Darán cumplimiento a las demás obligaciones que establezca esta Ley;
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-IV.- Las declaraciones que alude la fracción II se remitirán de inmediato por las Oficinas Recaudadoras a la Secretaría de Hacienda Pública y Tesorería, para que ésta las revise de oficio, verifique exactitud y, en caso de que compruebe omisiones en el pago del Impuesto, se exijan las diferencias por conducto de la respectiva Oficina Recaudadora; y,
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-V.- Cuando un causante no presenta oportunamente sus declaraciones, la Oficina Recaudadora respectiva, lo pondrá inmediatamente en conocimiento de la Secretaría de Hacienda Pública y Tesorería para que ésta las supla con los datos o informes que pueda obtener o estimar y se exija el pago del Impuesto omitido por conducto de la respectiva Oficina Recaudadora.
-
-ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos a que se refiere el Artículo 244, los causantes que no queden comprendidos en el mismo, por no ser distribuidores o agentes de Petróleos Mexicanos, sino personas que introduzcan por su cuenta gasolina, grasas, lubricantes y demás derivados del petróleo, al territorio del Estado y que efectúen en éste la venta de los citados productos, pagarán el impuesto, siendo aplicables las normas que establece el Artículo anterior.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-## TITULO CUARTO. DE LOS APROVECHAMIENTOS
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-### CAPITULO XVIII. Impuesto a la Industria Congeladora de Mariscos
-
-ART. 247.- Es objeto de este impuesto la congelación de pescados y mariscos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 248.- Son sujetos de este impuesto las personas físicas o jurídicas que se dediquen a la explotación de empresas congeladoras de pescados y mariscos, cuando el producto que se congele sea propiedad de quienes efectúen dicha explotación.
-
-ART. 249.- Este impuesto se causará al efectuarse la congelación de los pescados y mariscos objeto de la misma, y al peso neto de los productos procesados, se les aplicará la siguiente:
-
-T A R I F A
-
-I.- Camarón $ 375.00 Tonelada
-
-II.- Otras Especies 100.00 "
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 250.- El pago de este Impuesto se hará por períodos mensuales tomando como base la fecha en que el producto hubiere salido de la Planta Congeladora y deberá enterarse dentro de los primeros veinte días del mes siguiente, en la Oficina Recaudadora correspondiente a la jurisdicción de la empresa congeladora, utilizando las formas que para tal efecto autorice la Secretaría de Hacienda Pública y Tesorería.
-
-ART. 251.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la operación de venta que efectúe la empresa congeladora, de aquellos productos por los cuales haya cubierto el impuesto a que se refiere este Capítulo.
-
-ART. 252.- Además de lo establecido en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados:
-
-I.- A presentar aviso de iniciación de operaciones dentro de los 5 días hábiles siguientes a la iniciación de cada ciclo productivo;
-
-II.- A presentar aviso de terminación de operaciones dentro de los 5 días hábiles siguientes a la terminación de cada ciclo productivo;
-
-III.- A llevar registro de entradas, salidas y existencias de productos a procesar así como de producción, entradas, salidas, ventas y existencias de productos procesados.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 252 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacineda (sic) y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-## TITULO QUINTO. DE LAS PARTICIPACIONES
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-### CAPITULO XIX. Impuesto a la Industria Harinera
-
-ART. 253.- Es objeto de este impuesto la producción de harina que se obtenga de la transformación del trigo.
-
-ART. 254.- Son sujetos del impuesto las personas físicas o jurídicas que realicen el o los procesos industriales de transformación del trigo para obtener harina, independientemente de que el producto elaborado sea o nó de su propiedad. Este último caso, el propietario del producto responderá solidariamente del pago del impuesto.
-
-ART. 255.- El impuesto se causará con una cuota de $ 31.00 por tonelada de harina producida.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 256.- El pago del Impuesto será por períodos mensuales tomando como base el mes en que la harina sea elaborada y deberá entregarse dentro de los primeros veinte días del mes siguiente, en la Oficina Recaudadora en cuya jurisdicción tenga su domicilio el causante, presentando una declaración en las formas que para el efecto autorice la Secretaría de Hacienda Pública y Tesorería.
-
-Cuando un mismo causante opere más de una planta industrial harinera, las declaraciones y pagos correspondientes a cada período mensual se presentarán separadamente por cada una de las plantas.
-
-ART. 257.- Además de lo dispuesto en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados a:
-
-I.- Presentar avisos de iniciación de producción, dentro de los 5 días hábiles siguientes a la fecha de iniciación de cada ciclo productivo;
-
-II.- Presentar aviso de terminación de producción dentro de los 5 días hábiles siguientes a la fecha de terminación de cada ciclo productivo;
-
-III.- Presentar una declaración sobre los resultados de producción correspondientes a cada ciclo productivo, dentro de los 5 días hábiles siguientes a su terminación, acompañado de una relación que muestre la fecha y número de los recibos con que se comprueba el pago del impuesto causado;
-
-IV.- Llevar registro de entradas, salidas y existencias de trigo y de producción, entradas, salidas, ventas y existencias de harina elaborada;
-
-V.- Proporcionar a las autoridades fiscales todos los datos, libros, documentos e informes que les soliciten;
-
-VI.- Recibir las visitas de inspección e investigación así como proporcionar a los Inspectores y Auditores los datos, libros, documentos e informes que les soliciten.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-Los avisos, declaraciones y registros se formularán en las formas y de acuerdo con los instructivos que autorice la Secretaría de Hacienda Pública y Tesorería.
-
-ART. 258.- No se causará el impuesto Estatal sobre Ingresos Mercantiles por la operación de venta de harina que efectúe la planta industrial harinera, por la cual haya cubierto el impuesto a que se refiere este Capítulo. Esta exención no incluye los sub-productos que pudieren obtenerse del proceso industrial para obtener harina.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 258 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ## TITULO SEXTO. TASAS ADICIONALES
 
@@ -3763,13 +3881,9 @@ El Impuesto Sobre Nóminas se causará por las erogaciones que se realicen a par
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
 ###### ARTICULO QUINTO.
 
-El monto de lo recaudado por concepto del Impuesto Sobre Nóminas, se integrará a un Fondo de Solidaridad, que será destinado a inversión pública en aquellos renglones que acuerde el organismo que se constituya mediante decreto para tal efecto, así como al patrimonio del Consejo para el Desarrollo Económico de Sinaloa.
-
-La aportación que otorgue el Gobierno del Estado de Sinaloa, al patrimonio del referido Consejo, nunca podrá ser menor al 20% de los ingresos anuales por concepto de dicho Impuesto en el ejercicio fiscal inmediato anterior.
+(DEROGADO, P.O. 13 DE DICIEMBRE DE 2016)
 
 P.O. 8 DE MARZO DE 1991.
 
@@ -3989,11 +4103,11 @@ El Poder Ejecutivo de Estado de Sinaloa, a través de la Secretaría de Administ
 
 P.O. 26 DE DICIEMBRE DE 2011.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-La vigencia del presente Decreto será del 1º de enero al 31 de diciembre del año 2016, previa publicación en el Periódico Oficial “El Estado de Sinaloa”.
+La vigencia del presente Decreto será a partir del 1o de enero del año 2017, previa publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -4039,9 +4153,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 25 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 444”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 444".]
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 4 DE MAYO DE 2016.
 
@@ -4051,139 +4165,65 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 186.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+P.O. 13 DE DICIEMBRE DE 2016.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 12 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO, SE EXPIDE LA LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO, ASÍ COMO DEROGAR EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 143, PUBLICADO EN EL PERIÓDICO OFICIAL NÚMERO 124 DE 12 DE OCTUBRE DE 1990, Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-TERCERO.- Con fundamento en lo previsto por el artículo 61 fracción XXXII de la Constitución Política del Estado Libre y Soberano de México, en relación con lo dispuesto por los artículos 10 y 11 de la Ley de Fiscalización Superior del Estado de México y para efecto de lo dispuesto en el artículo 15 de este Decreto y demás relativos y aplicables, se designa como Auditor Superior de Fiscalización del Estado de México para el periodo del 1° de enero de 2017 al 31 de diciembre de 2024 al Contador Público Fernando Valente Baz Ferreira.
+SEGUNDO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
 
-CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+TERCERO.- Para los efectos del artículo 33 de la Ley de Hacienda del Estado de Sinaloa, el Ejecutivo del Estado deberá realizar las modificaciones al "Decreto que crea el Consejo Consultivo Turístico del Estado de Sinaloa", publicado en el Periódico Oficial "El Estado de Sinaloa" No. 78, Segunda Sección del día 01 de julio de 1994, dentro de los noventa días naturales siguientes contados a partir de la iniciación de la vigencia de este Decreto.
 
-G.G. 30 DE MAYO DE 2017.
+La Secretaría de Turismo emitirá los lineamientos para la integración y funcionamiento del Consejo Consultivo.
 
-[N DE E. TRANSITORIOS DEL “DECRETO NÚMERO 207.- POR EL QUE SE EXPIDE LA LEY DEL SISTEMA ANTICORRUPCIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS, LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO, DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+CUARTO.- La declaración a que se refiere el artículo 34 bis-21 de la Ley de Hacienda del Estado de Sinaloa contenido en este Decreto, correspondiente a los meses de enero a junio de 2017, se presentará con la información acumulada a dichos meses a más tardar el 17 de julio de 2017.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+QUINTO.- Las casas de empeño que ya se encuentran operando en el territorio del Estado de Sinaloa dispondrán de un plazo de 90 días naturales contados a partir de la entrada en vigor de este Decreto, para dar cumplimiento a las disposiciones que regulan los derechos por los servicios de autorización, registro y supervisión para la instalación y operación de casas de empeño, contenidas en este Decreto. De igual manera las casas de empeño ya instaladas deberán apegarse a los términos de la Ley que regula las casas de Empeño en el Estado de Sinaloa y gestionar el permiso a que hace referencia ante la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado, dentro de los noventa días naturales contados a partir de la entrada en vigor de este Decreto.
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno", con excepción de la Ley de Responsabilidades Administrativas del Estado de México y Municipios y la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, que entrarán en vigor el 19 de julio de 2017.
+SEXTO.- El Ejecutivo del Estado deberá realizar las modificaciones al Reglamento Orgánico de la Administración Pública para el Estado de Sinaloa, así como al Reglamento Interior de la Secretaría de Administración y Finanzas, para armonizarla en lo conducente a las disposiciones de este Decreto, dentro de los noventa días naturales siguientes contados a partir del inicio de la vigencia de este Decreto.
 
-TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, la Legislatura del Estado deberá designar a los integrantes de la Comisión Estatal de Selección.
+SÉPTIMO.- Los órganos de gobierno de los respectivos organismos descentralizados de la administración pública paraestatal, a que se refiere el Artículo 78 bis-10 de este Decreto, deberán realizar el catálogo de servicios, con sus rubros, conceptos, cuotas y tarifas, para someterla a la autorización de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado, dentro de los sesenta días naturales siguientes contados a partir del inicio de la vigencia de este Decreto.
 
-La Comisión Estatal de Selección, nombrará a los integrantes del Comité de Participación Ciudadana, en los términos siguientes.
+OCTAVO.- Para los efectos del presente Decreto se entiende como Unidad de Medida y Actualización: La Unidad de Medida y Actualización contemplada en los párrafos sexto y séptimo del Apartado B, del artículo 26, de la Constitución Política de los Estados Unidos Mexicanos.
 
-I. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador.
+NOVENO.- El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
 
-II. Un integrante que durará en su encargo dos años.
+DÉCIMO.- El importe de lo recaudado por los Impuestos en materia de Apuestas y Sorteos previstos en el presente Decreto serán participables en el Municipio donde se genere, con base en lo dispuesto por la Ley de Coordinación Fiscal, y el ingreso para el ejercicio fiscal del año 2017 no podrá ser menor a lo racaudado (sic) en el ejercicio fiscal del año 2016.
 
-III. Un integrante que durará en su encargo tres años.
+P.O. 13 DE DICIEMBRE DE 2016.
 
-IV. Un integrante que durará en su encargo cuatro años.
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO: 12 POR EL QUE “SE DEROGA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NO. 143, POR EL QUE SE REFORMÓ LA LEY DE HACIENDA DEL ESTADO DE SINALOA, PUBLICADO EN EL PERIÓDICO OFICIAL “EL ESTADO DE SINALOA” NO. 124, DE 12 DE OCTUBRE DE 1990”.]
 
-V. Un integrante que durará en su encargo cinco años.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-CUARTO. El Comité Coordinador del Sistema Estatal Anticorrupción, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana.
+SEGUNDO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
 
-QUINTO. Dentro de los noventa días hábiles posteriores a su instalación el Comité Coordinador del Sistema Estatal Anticorrupción emitirá sus Reglas de Funcionamiento y Organización Interna, así como las bases a las que se ajustarán los Comités Coordinadores del Sistema Municipal Anticorrupción.
+TERCERO.- Para los efectos del artículo 33 de la Ley de Hacienda del Estado de Sinaloa, el Ejecutivo del Estado deberá realizar las modificaciones al "Decreto que crea el Consejo Consultivo Turístico del Estado de Sinaloa", publicado en el Periódico Oficial "El Estado de Sinaloa" No. 78, Segunda Sección del día 01 de julio de 1994, dentro de los noventa días naturales siguientes contados a partir de la iniciación de la vigencia de este Decreto.
 
-SEXTO. La Secretaría Ejecutiva deberá iniciar operaciones a más tardar a los sesenta días naturales siguientes a la sesión de instalación del Comité Coordinador del Sistema Estatal Anticorrupción.
+La Secretaría de Turismo emitirá los lineamientos para la integración y funcionamiento del Consejo Consultivo.
 
-Para tal efecto, el Ejecutivo Estatal proveerá los recursos humanos, financieros y materiales correspondientes en términos de las disposiciones aplicables.
+CUARTO.- La declaración a que se refiere el artículo 34 bis-21 de la Ley de Hacienda del Estado de Sinaloa contenido en este Decreto, correspondiente a los meses de enero a junio de 2017, se presentará con la información acumulada a dichos meses a más tardar el 17 de julio de 2017.
 
-SÉPTIMO. La Secretaría Técnica expedirá su estatuto orgánico dentro de los noventa días hábiles a partir del inicio de sus operaciones.
+QUINTO.- Las casas de empeño que ya se encuentran operando en el territorio del Estado de Sinaloa dispondrán de un plazo de 90 días naturales contados a partir de la entrada en vigor de este Decreto, para dar cumplimiento a las disposiciones que regulan los derechos por los servicios de autorización, registro y supervisión para la instalación y operación de casas de empeño, contenidas en este Decreto. De igual manera las casas de empeño ya instaladas deberán apegarse a los términos de la Ley que regula las casas de Empeño en el Estado de Sinaloa y gestionar el permiso a que hace referencia ante la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado, dentro de los noventa días naturales contados a partir de la entrada en vigor de este Decreto.
 
-OCTAVO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado deberán designar a los integrantes de la Comisión de Selección Municipal.
+SEXTO.- El Ejecutivo del Estado deberá realizar las modificaciones al Reglamento Orgánico de la Administración Pública para el Estado de Sinaloa, así como al Reglamento Interior de la Secretaría de Administración y Finanzas, para armonizarla en lo conducente a las disposiciones de este Decreto, dentro de los noventa días naturales siguientes contados a partir del inicio de la vigencia de este Decreto.
 
-La Comisión de Selección Municipal, nombrará a los Integrantes del Comité de Participación Ciudadana Municipal, en los términos siguientes.
+SÉPTIMO.- Los órganos de gobierno de los respectivos organismos descentralizados de la administración pública paraestatal, a que se refiere el Artículo 78 bis-10 de este Decreto, deberán realizar el catálogo de servicios, con sus rubros, conceptos, cuotas y tarifas, para someterla a la autorización de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado, dentro de los sesenta días naturales siguientes contados a partir del inicio de la vigencia de este Decreto.
 
-I. Un integrante que durará en su encargo un año, a quién corresponderá la representación del Comité de Participación Ciudadana ante el Comité Coordinador, ambos del Sistema Municipal Anticorrupción.
+OCTAVO.- Para los efectos del presente Decreto se entiende como Unidad de Medida y Actualización: La Unidad de Medida y Actualización contemplada en los párrafos sexto y séptimo del Apartado B, del artículo 26, de la Constitución Política de los Estados Unidos Mexicanos.
 
-II. Un integrante que durará en su encargo dos años.
+NOVENO.- El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
 
-III. Un integrante que durará en su encargo tres años.
+DÉCIMO.- El importe de lo recaudado por los Impuestos en materia de Apuestas y Sorteos previstos en el presente Decreto serán participables en el Municipio donde se genere, con base en lo dispuesto por la Ley de Coordinación Fiscal, y el ingreso para el ejercicio fiscal del año 2017 no podrá ser menor a lo racaudado (sic) en el ejercicio fiscal del año 2016.
 
-El Comité Coordinador Municipal, se instalará en un plazo no mayor a sesenta días naturales posteriores a que se haya integrado en su totalidad el Comité de Participación Ciudadana Municipal.
+P.O. 13 DE DICIEMBRE DE 2016.
 
-Una vez instalado el Comité Coordinador Municipal tendrá un plazo de noventa días para emitir las disposiciones relativas a su funcionamiento.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 6 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 399, PUBLICADO EN EL PERIÓDICO OFICIAL «EL ESTADO DE SINALOA», NÚMERO 154 DE FECHA 26 DE DICIEMBRE DE 2011, REFORMADO MEDIANTE DECRETO NÚMERO 735, PUBLICADO EN EL PERIÓDICO OFICIAL «EL ESTADO DE SINALOA», NÚMERO 158 DE FECHA 31 DE DICIEMBRE DE 2012, DECRETO NÚMERO 2, PUBLICADO EN EL PERIÓDICO OFICIAL «EL ESTADO DE SINALOA», NÚMERO 157 DE FECHA 30 DE DICIEMBRE DEL 2013, DECRETO NÚMERO 235, PUBLICADO EN EL PERIÓDICO OFICIAL «EL ESTADO DE SINALOA», NÚMERO 155 DE FECHA 22 DE DICIEMBRE DE 2014, Y DECRETO NÚMERO 444, PUBLICADO EN EL PERIÓDICO OFICIAL «EL ESTADO DE SINALOA», NÚMERO 154, DE FECHA 25 DE DICIEMBRE DE 2015”.]
 
-NOVENO. Una vez que entre en vigor la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se abrogará la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios publicada en el periódico oficial "Gaceta del Gobierno" el 11 de septiembre de 1990.
+###### ARTÍCULO ÚNICO.
 
-Los procedimientos iniciados con anterioridad a la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, se substanciarán y serán concluidos conforme a las disposiciones aplicables vigentes a su inicio.
-
-A la entrada en vigor de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, en todos los ordenamientos jurídicos donde se haga referencia a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios, se entenderá por Ley de Responsabilidades Administrativas del Estado de México y Municipios.
-
-Hasta en tanto el Comité Coordinador del Sistema Estatal Anticorrupción, determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos estatales y municipales, presentarán sus declaraciones en los formatos que, a la entrada en vigor del presente Decreto, se utilicen en la Entidad.
-
-DÉCIMO. Los procedimientos administrativos iniciados por el Órgano Superior de Fiscalización del Estado de México, que se encuentren en trámite o pendientes de resolución hasta antes de la entrada en vigor del presente Decreto, así como en los que se deriven de las atribuciones de fiscalización y revisión hasta la Cuenta Pública del año 2016, se aplicarán las disposiciones de la Ley de Fiscalización Superior del Estado de México y de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios vigentes con anterioridad a la entrada en vigor de este Decreto, hasta su conclusión definitiva.
-
-Los asuntos relacionados con la revisión y fiscalización de la Cuenta Pública 2017, que deriven en procedimientos administrativos, se tramitarán conforme al presente Decreto, la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
-
-Las atribuciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores, entrarán en vigor al día siguiente de la publicación del presente Decreto.
-
-El Órgano Superior de Fiscalización del Estado de México deberá realizar las adecuaciones a su estructura orgánica para desarrollar las atribuciones correspondientes a las autoridades investigadoras y substanciadoras a que se refieren Ley General de Responsabilidades Administrativas, la Ley de Fiscalización Superior del Estado de México y la Ley de Responsabilidades Administrativas del Estado de México y Municipios y emitir en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto, las disposiciones necesarias.
-
-DÉCIMO PRIMERO. Los procedimientos penales que se encuentren en trámite, relacionados con las modificaciones a los preceptos legales contemplados en el presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
-
-DÉCIMO SEGUNDO. Una vez que entren en vigor las disposiciones del presente Decreto, en un término no mayor de treinta días hábiles, se deberá designar al Fiscal especializado en combate a la corrupción.
-
-DÉCIMO TERCERO. A partir de la entrada en vigor del presente Decreto, la Legislatura deberá designar o ratificar en un plazo de treinta días hábiles, al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, mediante el procedimiento que previamente establezca para ello, de no cumplirse en tiempo, se entenderá por ratificado al servidor público en funciones.
-
-En tanto la Legislatura designa o ratifica al Titular del Órgano Interno de Control de la Fiscalía General de Justicia, quien se encuentre desempeñando dichas funciones, continuará en el encargo.
-
-DÉCIMO CUARTO. El Tribunal de Justicia Administrativa expedirá su Reglamento Interior dentro de los treinta días naturales siguientes a la publicación del presente Decreto.
-
-DÉCIMO QUINTO. Los procedimientos en curso anteriores a la entrada en vigor del presente Decreto, se substanciarán conforme a la legislación vigente al momento de su inicio.
-
-DÉCIMO SEXTO. El Gobernador del Estado de México hará los nombramientos de los Magistrados que integrarán las salas especializadas en materia de responsabilidades administrativas, así como de la Cuarta Sección de la Sala Superior, dentro de los sesenta días naturales siguientes a la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, para su aprobación por la Legislatura del Estado o la Diputación Permanente, en su caso.
-
-DÉCIMO SÉPTIMO. Los Magistrados del Tribunal de lo Contencioso Administrativo del Estado de México que hayan sido nombrados a la fecha de entrada en vigor del presente Decreto, continuarán como Magistrados del Tribunal de Justicia Administrativa del Estado de México, exclusivamente por el tiempo que hayan sido nombrados.
-
-DÉCIMO OCTAVO. Los servidores públicos del Tribunal de lo Contencioso Administrativo del Estado de México continuarán laborando en el Tribunal de Justicia Administrativa del Estado de México, sin perjuicio de la antigüedad de sus derechos laborales.
-
-DÉCIMO NOVENO. A la fecha de entrada en vigor de este decreto, todas las menciones que se hagan al Tribunal de lo Contencioso Administrativo del Estado de México, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de México. Así mismo, las derogaciones al Código de Procedimientos Administrativos del Estado de México, contenidas en el presente decreto, entraran en vigor a partir de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México.
-
-VIGÉSIMO. Los servidores públicos que venían ejerciendo cargos administrativos, que se transforman conforme a lo dispuesto en la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, continuarán desempeñando los mismos cargos hasta que el Pleno del Tribunal acuerde la creación de las nuevas unidades administrativas y decida sobre las designaciones específicas.
-
-VIGÉSIMO PRIMERO. Dentro del plazo de un año a partir del inicio de la vigencia de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de México, deberá instrumentarse el proceso de certificación a los servidores públicos obligados, conforme a las disposiciones reglamentarias que expida el Pleno de la Sala Superior, pudiendo contar con el apoyo de instituciones docentes afines a la actividad jurisdiccional, mediante los convenios de colaboración que para tal efecto se celebren.
-
-VIGÉSIMO SEGUNDO. Dentro de los ciento veinte días siguientes a la entrada en vigor del presente Decreto se deberán realizar las adecuaciones normativas correspondiente (sic) que permitan la implementación del objeto del presente Decreto.
-
-VIGÉSIMO TERCERO. Se derogan todas las disposiciones legales de menor o igual jerarquía que se opongan al presente Decreto.
-
-VIGÉSIMO CUARTO. La Legislatura del Estado proveerá los recursos presupuestales necesarios para la implementación del presente Decreto, conforme a la suficiencia presupuestal y disposiciones jurídicas aplicables.
-
-G.G. 31 DE DICIEMBRE DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 18.- POR EL QUE SE APRUEBA LA INICIATIVA QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
-
-SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2019.
-
-TERCERO.- Los contribuyentes propietarios de vehículos de servicio particular que porten placas de circulación expedidas en el ejercicio fiscal 2013 y anteriores, deberán realizar la renovación de placas en los meses de julio a diciembre de 2019 conforme a las reglas que para tal efecto publique la Secretaría de Finanzas, informando a la Legislatura por conducto de las comisiones de planeación y gasto público y de finanzas públicas. Las reglas de operación se publicarán a más tardar el 30 de junio de 2019, en el Periódico Oficial “Gaceta del Gobierno”, con la finalidad de ser sujetos a los beneficios fiscales que determinen a su favor en caso de regularización de adeudos pudiendo ser de hasta el cien por ciento de condonación, de conformidad con el artículo 10 de la Ley de Ingresos del Estado de México para el ejercicio fiscal de 2019.
-
-CUARTO.- Se considerarán vigentes durante el ejercicio 2019 las placas expedidas durante el ejercicio fiscal de 2014, mismas que deberán renovarse durante 2020.
-
-QUINTO.- Las placas expedidas en los ejercicios 2015 y posteriores deberán renovarse al vencimiento de los cinco años contados a partir de su expedición.
-
-SEXTO.- Los años de referencia contenidos en la tabla del segundo párrafo de la fracción I del artículo 63 del Código Financiero del Estado de México y Municipios se actualizarán, siendo aplicable para el primer año de antigüedad el 2019 y para el último año el 2010, conservando íntegros los factores respectivos.
-
-G.G. 1 DE OCTUBRE DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 85.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO Y DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
-
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
-
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
-
-TERCERO.- Los recursos humanos, materiales y presupuestales de la Coordinación de Control y Auditoría Interna del Órgano Superior de Fiscalización del Estado de México se transferirán a la Unidad Técnica de Evaluación y Control de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
-
-CUARTO.- El Órgano Superior de Fiscalización del Estado de México en un plazo máximo de noventa días naturales, contados a partir de la entrada en vigor del presente, modificará su normatividad interna a efecto de ajustar sus disposiciones con el contenido de este Decreto, siendo sometida a consideración de la Comisión de Vigilancia del Órgano Superior de Fiscalización.
-
-QUINTO.- El Reglamento de la Unidad Técnica de Evaluación y Control de la Comisión de Vigilancia del Órgano Superior de Fiscalización deberá publicarse a más tardar, en ciento veinte días naturales, después de la publicación de este Decreto.
-
-G.G. 20 DE DICIEMBRE DE 2019.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 102.- POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 11 Y LA FRACCIÓN I DEL ARTÍCULO 17 DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
