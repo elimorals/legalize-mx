@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-4077
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-19"
-last_updated: "2016-05-18"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de agosto de 2004.
 
@@ -265,9 +265,9 @@ IV.- Promover, a través del Consejo, la coordinación y difusión de programas,
 
 1. El Ejecutivo del Estado expedirá el Programa Estatal de Ciencia y Tecnología.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-2. La integración, ejecución y evaluación del Programa estará a cargo de la Secretaría de Desarrollo Económico y del Empleo, a través del Consejo, que para ello deberá sujetarse a las disposiciones de la Ley de Gasto Público, la Ley Estatal de Planeación y la presente ley.
+2. La integración, ejecución y evaluación del Programa estará a cargo de la Secretaría de Desarrollo Económico, a través del Consejo, que para ello deberá sujetarse a las disposiciones de la Ley de Gasto Público, la Ley Estatal de Planeación y la presente ley.
 
 3. El Programa deberá ser congruente con el Plan Estatal de Desarrollo.
 
@@ -277,9 +277,9 @@ IV.- Promover, a través del Consejo, la coordinación y difusión de programas,
 
 2. En dicho proceso se considerarán las propuestas y opiniones vertidas por toda persona interesada, sea física o jurídica.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-3. El proyecto de Programa será validado por la Secretaría de Desarrollo Económico y del Empleo, y su aprobación definitiva corresponde al titular del Poder Ejecutivo del Estado.
+3. El proyecto de Programa será validado por la Secretaría de Desarrollo Económico, y su aprobación definitiva corresponde al Titular del Poder Ejecutivo del Estado.
 
 ###### ARTICULO 16.
 
@@ -315,9 +315,9 @@ IV.- Las orientaciones generales de los instrumentos de apoyo a que se refiere l
 
 1. Para la ejecución del Programa Estatal de Ciencia y Tecnología, las dependencias y entidades de la Administración Pública del Estado formularán anualmente sus programas y sus anteproyectos presupuesto para realizar actividades relacionadas con la investigación científica y tecnológica, tomando en cuenta los lineamientos programáticos y presupuestales que al efecto establezca el Ejecutivo del Estado en estas materias, a fin de asegurar su congruencia con el Programa.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-2. La Secretaría de Desarrollo Económico y del Empleo, en coordinación con el Consejo, consolidará la información programática y presupuestal de dichos anteproyectos para su revisión y análisis integral y de congruencia global, con objeto de integrarla con oportunidad a la Secretaría de Finanzas para la elaboración del anteproyecto de Presupuesto de Egresos del Estado.
+2. La Secretaría de Desarrollo Económico, en coordinación con el Consejo, consolidará la información programática y presupuestal de dichos anteproyectos para su revisión y análisis integral y de congruencia global, con objeto de integrarla con oportunidad a la Secretaría de Finanzas para la elaboración del anteproyecto de Presupuesto de Egresos del Estado.
 
 3. En el proyecto de Presupuesto de Egresos del Estado se consignará la información consolidada de los recursos destinados a ciencia y tecnología.
 
@@ -571,9 +571,9 @@ El Gobierno del Estado reconocerá los logros sobresalientes de quienes realicen
 
 1. El Gobierno del Estado, a través de la Secretaría de Educación, promoverá el diseño y aplicación de métodos y programas para la enseñanza y fomento de la ciencia y la tecnología en todos los niveles educativos, en particular para la educación básica.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-2. Por medio de la Secretaría de Desarrollo Económico y del Empleo, el Gobierno del Estado aplicará las investigaciones científicas y tecnológicas en los procesos productivos, particularmente en los sectores industrial y comercial, a fin de impulsar el desarrollo económico del Estado.
+2. Por medio de la Secretaría de Desarrollo Económico, el Gobierno del Estado aplicará las investigaciones científicas y tecnológicas en los procesos productivos, particularmente en los sectores industrial y comercial, a fin de impulsar el desarrollo económico del Estado.
 
 ###### ARTICULO 45.
 
@@ -642,3 +642,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las instituciones, centros y entidades referidas que de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica, deberán emitir y hacer pública su normatividad institucional en un plazo no mayor a 180 días a partir de la publicación del presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
