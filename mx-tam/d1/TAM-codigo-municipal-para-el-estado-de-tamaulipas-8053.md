@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2016-11-15"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1659,9 +1659,9 @@ II.- Construcciones permanentes, las que tienen carácter definitivo y la posibi
 
 III.- Construcciones provisionales, las que revelan un uso transitorio; en los casos dudosos, la Tesorería General del Estado determinará si las construcciones son o no provisionales.
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-IV.- Construcciones en ruinas, las que por su deterioro físico o por sus precarias condiciones de habitabilidad no permitan su uso en forma alguna, según determinación de la Secretaría de Salud o de la Secretaría de Obras Públicas Desarrollo Urbano y Ecología o de un perito autorizado.
+IV.- Construcciones en ruinas, las que por su deterioro físico o por sus precarias condiciones de habitabilidad no permitan su uso en forma alguna, según determinación de la Secretaría de Salud o de la Secretaría de Obras Públicas o de un perito autorizado.
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
@@ -5269,7 +5269,7 @@ Se abroga el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 
 
 ###### ARTICULO CUARTO.
 
-Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
+Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de Policía la Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -5295,7 +5295,7 @@ El Tribunal de Arbitraje para los Trabajadores al Servicio de los Municipios de 
 
 ###### ARTICULO DECIMO.
 
-Los dispositivos que hacen referencia de la Ley de Responsabilidades de los Servidores Públicos del Estado y de la Contraloría, iniciarán su vigencia cuando ambas sean publicadas en el Periódico Oficial del Estado.
+Los dispositivos que hacen referencia de la Ley de Responsabilidades de los Servidores Públicos del Estado y la Contraloría, iniciarán su vigencia cuando ambas sean publicadas en el Periódico Oficial del Estado.
 
 ###### ARTICULO DECIMO PRIMERO.
 
@@ -5307,7 +5307,7 @@ Cd. Victoria, Tam., a 2 de febrero de 1984.- Diputado Presidente, LIC. TITO RESE
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
+Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General del Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
@@ -6034,3 +6034,11 @@ El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondi
 ###### ARTÍCULO TERCERO.
 
 Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
