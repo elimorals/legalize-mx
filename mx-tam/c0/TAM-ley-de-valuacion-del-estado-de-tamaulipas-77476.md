@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-valuacion-del-estado-de-tamaulipas-77476"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-09"
-last_updated: "2013-09-30"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 9 de noviembre de 2010.
 
@@ -75,7 +75,9 @@ IX.- Reglamento: el Reglamento de la Ley de Valuación del Estado de Tamaulipas;
 
 X.- Renta: Importe a pagar por el arrendamiento de un bien tangible o intangible por un período determinado, expresado en términos monetarios;
 
-XI.- Secretaría: la Secretaría del Trabajo y Asuntos Jurídicos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+XI.- Secretaría: la Secretaría del Trabajo;
 
 XII.- Valor comercial: la cantidad expresada en moneda justa y probable que se podrá obtener por algún bien en un mercado y en fecha determinada; y
 
@@ -85,9 +87,9 @@ XIII.- Valuador profesional: la persona física autorizada por la Secretaría pa
 
 ###### Artículo 3.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-1. Para ejercer la función de valuador profesional de bienes tangibles o intangibles y para actuar en los actos propios de los gobiernos estatal o municipal en el Estado, se requiere inscribirse en el padrón que al efecto realiza la Secretaría del Trabajo y Asuntos Jurídicos.
+1. Para ejercer la función de valuador profesional de bienes tangibles o intangibles y para actuar en los actos propios de los gobiernos estatal o municipal en el Estado, se requiere inscribirse en el padrón que al efecto realiza la Secretaría del Trabajo.
 
 2. La valuación comercial de bienes se efectuará conforme a las disposiciones de esta ley y su reglamento.
 
@@ -131,11 +133,11 @@ III.- La actividad de los peritos diversos a los de valuación, la cual será re
 
 ### CAPITULO III. DEL REGISTRO ESTATAL DE VALUADORES PROFESIONALES INDEPENDIENTES
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 7.
 
-Se establece el Registro de Valuadores del Estado de Tamaulipas, como instancia de consulta y control de ejercicio profesional de la valuación comercial, y estará a cargo de la Secretaría del Trabajo y Asuntos Jurídicos, a través de la Comisión de Valuación.
+Se establece el Registro de Valuadores del Estado de Tamaulipas, como instancia de consulta y control de ejercicio profesional de la valuación comercial, y estará a cargo de la Secretaría del Trabajo, a través de la Comisión de Valuación.
 
 ###### Artículo 8.
 
@@ -153,11 +155,11 @@ V. Cubrir los derechos correspondientes; y
 
 VI. Residir de manera permanente en el Estado, comprobando al menos tres años anteriores a la fecha de su solicitud.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 9.
 
-Los aspirantes a ejercer la función de valuador profesional, deberán solicitar por escrito la inscripción al registro de la Secretaría del Trabajo y Asuntos Jurídicos, debiendo acompañar a su petición los documentos que acreditan el cumplimiento de requisitos que establece el artículo 8 de la ley.
+Los aspirantes a ejercer la función de valuador profesional, deberán solicitar por escrito la inscripción al registro de la Secretaría del Trabajo, debiendo acompañar a su petición los documentos que acreditan el cumplimiento de requisitos que establece el artículo 8 de la ley.
 
 ###### Artículo 10.
 
@@ -237,11 +239,11 @@ Los valuadores profesionales registrados conforme a la ley, proporcionarán a la
 
 ### CAPITULO V. DE LA COMISION DE VALUACION
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-Se crea la Comisión de Valuación como órgano auxiliar de la Secretaría del Trabajo y Asuntos Jurídicos, con el objeto de vigilar y supervisar el ejercicio de la valuación comercial de bienes tangibles e intangibles del Estado de Tamaulipas.
+Se crea la Comisión de Valuación como órgano auxiliar de la Secretaría del Trabajo, con el objeto de vigilar y supervisar el ejercicio de la valuación comercial de bienes tangibles e intangibles del Estado de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -496,3 +498,11 @@ El Reglamento para el Registro de Peritos del Estado, se deberá expedir en un p
 ###### ARTÍCULO TERCERO.
 
 En un plazo no mayor a 30 días posteriores a la entrada en vigor del presente Decreto, deberá quedar instalada la Comisión de Valuación de la Secretaría del Trabajo y Asuntos Jurídicos.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
