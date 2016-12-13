@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-mediacion-para-el-estado-de-tamaulipas-57179"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-21"
-last_updated: "2012-08-30"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO No. LXI-496, PUBLICADO EN EL P.O. 30 DE AGOSTO DE 2012, LOS RECURSOS FINANCIEROS Y MATERIALES, ASÍ COMO LOS BIENES INMUEBLES ADSCRITOS AL SERVICIO DEL INSTITUTO DE MEDIACIÓN DEL ESTADO DE TAMAULIPAS, QUE CON MOTIVO DE LA EXPEDICIÓN DEL PRESENTE DECRETO SE EXTINGUE, SE TRANSFERIRÁN A LA SECRETARÍA DEL TRABAJO Y ASUNTOS JURÍDICOS.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 21 de agosto de 2007.
 
@@ -79,9 +77,9 @@ IV.- Conflicto: La situación que se genera cuando dos o más personas manifiest
 
 V.- Convenio: El resultado del proceso de mediación o conciliación que se formaliza por escrito;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-VI.- Dirección: La Dirección de Mediación dependiente de la Secretaría del Trabajo y Asuntos Jurídicos;
+VI.- Dirección: La Dirección de Mediación dependiente de la Secretaría del Trabajo;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -177,9 +175,9 @@ Los mediadores podrán solicitar asesoría profesional en los casos o situacione
 
 ###### ARTÍCULO 14.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-1.- La Dirección de Mediación del Estado de Tamaulipas, será la unidad administrativa dependiente de la Secretaría del Trabajo y Asuntos Jurídicos, a cargo de la aplicación de este ordenamiento.
+1.- La Dirección de Mediación del Estado de Tamaulipas, será la unidad administrativa dependiente de la Secretaría del Trabajo, a cargo de la aplicación de este ordenamiento.
 
 2.- (DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)
 
@@ -277,7 +275,9 @@ Al Director le corresponden las siguientes atribuciones:
 
 a).- Validar la certificación de los mediadores y su inscripción en el registro correspondiente;
 
-b).- Prestar el servicio de mediación o conciliación en aquellos casos que le encomiende el Secretario del Trabajo y Asuntos Jurídicos;
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+b).- Prestar el servicio de mediación o conciliación en aquellos casos que le encomiende el Secretario del Trabajo;
 
 c).- Ordenar la supervisión y vigilancia de los Centros de Mediación;
 
@@ -287,9 +287,13 @@ e).- Resolver consultas relacionadas con la mediación;
 
 f).- Informar permanentemente al área superior inmediata de las actividades programadas, en proceso y concluidas, con la finalidad de unificar criterios para el cumplimiento de los objetivos;
 
-g).- Realizar las demás funciones que, en el ámbito de su competencia, le delegue el Secretario del Trabajo y Asuntos Jurídicos; y
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-h).- Los demás que le asignen otros ordenamientos legales o le asigne el Secretario del Trabajo y Asuntos Jurídicos
+g).- Realizar las demás funciones que, en el ámbito de su competencia, le delegue el Secretario del Trabajo; y
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+h).- Los demás que le asignen otros ordenamientos legales o le asigne el Secretario del Trabajo.
 
 > <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -297,7 +301,9 @@ h).- Los demás que le asignen otros ordenamientos legales o le asigne el Secret
 
 1. La Dirección tendrá el personal técnico, administrativo u operativo que sea necesario y el presupuesto permita.
 
-2. Los servidores públicos de la Dirección con jerarquía superior a la de Jefe de Departamento, serán nombrados y removidos libremente por el Gobernador del Estado, los servidores públicos con jerarquía de Jefe de Departamento por el Secretario del Trabajo y Asuntos Jurídicos, previo acuerdo del Gobernador del Estado.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+2. Los servidores públicos de la Dirección con jerarquía superior a la de Jefe de Departamento, serán nombrados y removidos libremente por el Gobernador del Estado, los servidores públicos con jerarquía de Jefe de Departamento por el Secretario del Trabajo, previo acuerdo del Gobernador del Estado.
 
 ###### ARTÍCULO 21.
 
@@ -333,19 +339,19 @@ En el ámbito del Poder Judicial del Estado la aplicación de esta ley y, en par
 
 1. El procedimiento de mediación en sede privada estará a cargo de mediadores particulares o de organismos privados constituidos para proporcionar tales servicios.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-2. Los Centros de Mediación Privados sólo podrán instalarse con autorización de la Secretaría del Trabajo y Asuntos Jurídicos, por conducto de la Dirección y ejercerán sus actividades en los lugares y circunscripciones que señale la autorización correspondiente.
+2. Los Centros de Mediación Privados sólo podrán instalarse con autorización de la Secretaría del Trabajo, por conducto de la Dirección y ejercerán sus actividades en los lugares y circunscripciones que señale la autorización correspondiente.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-3. Los mediadores particulares que realicen sus funciones individualmente o adscritos a los Centros de Mediación Privados, deberán contar con su respectiva certificación otorgada por la Secretaría del Trabajo y Asuntos Jurídicos. Tanto la autorización como la certificación serán expedidas con base en lo dispuesto por esta ley.
+3. Los mediadores particulares que realicen sus funciones individualmente o adscritos a los Centros de Mediación Privados, deberán contar con su respectiva certificación otorgada por la Secretaría del Trabajo. Tanto la autorización como la certificación serán expedidas con base en lo dispuesto por esta ley.
 
 ###### ARTÍCULO 28.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-1. Para establecer un Centro de Mediación Privado se requiere formular la solicitud a la Secretaría del Trabajo y Asuntos Jurídicos, por conducto de la Dirección, acompañándose los siguientes documentos:
+1. Para establecer un Centro de Mediación Privado se requiere formular la solicitud a la Secretaría del Trabajo, por conducto de la Dirección, acompañándose los siguientes documentos:
 
 a) Proyecto de creación del Centro, el cual deberá contener la expresión de su justificación, objetivo general y objetivos específicos;
 
@@ -367,33 +373,33 @@ d) Copia certificada ante Notario Público de los documentos que acrediten la ca
 
 En todo caso, el funcionamiento de los Centros de Mediación Privados requerirá de:
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-a) Haber acreditado su constitución y su registro ante la Secretaría del Trabajo y Asuntos Jurídicos;
+a) Haber acreditado su constitución y su registro ante la Secretaría del Trabajo;
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-b) Contar con un registro de mediadores certificados por la Secretaría del Trabajo y Asuntos Jurídicos, a efecto de verificar que los mediadores que presten sus servicios dentro del Centro cumplan con los requisitos que establece esta ley;
+b) Contar con un registro de mediadores certificados por la Secretaría del Trabajo, a efecto de verificar que los mediadores que presten sus servicios dentro del Centro cumplan con los requisitos que establece esta ley;
 
 c) Contar con espacios, instalaciones y equipamiento adecuados para el desarrollo de los procedimientos de mediación; y
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-d) Notificar a la Secretaría del Trabajo y Asuntos Jurídicos; por conducto de la Dirección su cambio de domicilio y que aquél verifique el cumplimiento de lo señalado en el inciso anterior.
+d) Notificar a la Secretaría del Trabajo; por conducto de la Dirección su cambio de domicilio y que aquél verifique el cumplimiento de lo señalado en el inciso anterior.
 
 ### CAPÍTULO V. DEL MEDIADOR
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 30.
 
-En el Estado, la mediación podrá desarrollarse por mediadores públicos o privados debidamente certificados y registrados ante la Secretaría del Trabajo y Asuntos Jurídicos.
+En el Estado, la mediación podrá desarrollarse por mediadores públicos o privados debidamente certificados y registrados ante la Secretaría del Trabajo.
 
 ###### ARTÍCULO 31.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-1. Para el registro de los mediadores públicos o privados en la Secretaría del Trabajo y Asuntos Jurídicos, los interesados deberán cumplir con los requisitos siguientes:
+1. Para el registro de los mediadores públicos o privados en la Secretaría del Trabajo, los interesados deberán cumplir con los requisitos siguientes:
 
 a) Ser mayor de 21 años, en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -481,7 +487,7 @@ e) Respetar y seguir los principios de la mediación establecidos en la presente
 
 2. La persona señalada por el solicitante de la mediación será invitada a asistir a una entrevista inicial, en la que se le hará saber en que consiste el procedimiento de mediación, así como las reglas a observar y se le informará que aquél sólo se efectúa con consentimiento de ambas partes, enfatizándole el carácter profesional, neutral, confidencial, imparcial, rápido y equitativo de la mediación.
 
-3. Entratándose del solicitante de la medición o de la persona a quien señale como aquélla con la que tiene el conflicto, se les hará saber la naturaleza gratuita de los servicios del Centro de Mediación Público, en su caso, la forma de fijar los honorarios del mediador si se trata de un Centro de Mediación Privada o de un particular, a la luz de lo dispuesto para el contrato de prestación de servicios profesionales en el Código Civil para el Estado.
+3. Entratándose (sic) del solicitante de la medición o de la persona a quien señale como aquélla con la que tiene el conflicto, se les hará saber la naturaleza gratuita de los servicios del Centro de Mediación Público, en su caso, la forma de fijar los honorarios del mediador si se trata de un Centro de Mediación Privada o de un particular, a la luz de lo dispuesto para el contrato de prestación de servicios profesionales en el Código Civil para el Estado.
 
 4. Recibida la solicitud de la mediación, el Centro tomará los datos del peticionario y el titular del mismo la turnará a un mediador. La mediación dará inicio una vez que el solicitante suscriba la solicitud del servicio del propio Centro o del mediador particular; en ésta expresará su conformidad de participar en el procedimiento de mediación y de respetar sus reglas a fin de resolver el conflicto planteado.
 
@@ -697,27 +703,31 @@ La intervención del Centro de Mediación o de un mediador particular suspender�
 
 ###### ARTÍCULO 57.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-1. Corresponde a la Secretaría del Trabajo y Asuntos Jurídicos la vigilancia de los servicios de mediación que se presten en el Estado. Para este efecto, la Dirección realizará las verificaciones correspondientes con el personal profesional y técnico a su cargo.
+1. Corresponde a la Secretaría del Trabajo la vigilancia de los servicios de mediación que se presten en el Estado. Para este efecto, la Dirección realizará las verificaciones correspondientes con el personal profesional y técnico a su cargo.
 
 2. Las personas que realicen la verificación harán constar las irregularidades que observen en el acta que al efecto se formule. Una vez concluida la diligencia deberán entregar copia del acta correspondiente a la persona con quien se entendió la misma.
 
 3. Si en la verificación se detectan infracciones a esta ley, se notificará a la persona física o moral sujeta a vigilancia, para que en un plazo de tres días hábiles comparezca y manifieste lo que a su derecho convenga en relación con la irregularidad detectada.
 
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-4. Transcurrido el plazo señalado en el párrafo anterior, la Secretaría del Trabajo y Asuntos Jurídicos emitirá, por conducto de la Dirección, una resolución donde señale detenidamente las irregularidades que se hubieren detectado y, además, sancione las mismas conforme a lo dispuesto en este capítulo.
-
-> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
+4. Transcurrido el plazo señalado en el párrafo anterior, la Secretaría del Trabajo emitirá, por conducto de la Dirección, una resolución donde señale detenidamente las irregularidades que se hubieren detectado y, además, sancione las mismas conforme a lo dispuesto en este capítulo.
 
 ###### ARTÍCULO 58.
 
-1.- La resolución derivada de la verificación admitirá el recurso de reconsideración ante el titular de la Secretaría del Trabajo y Asuntos Jurídicos, mediante escrito que se presente dentro de los tres días siguientes a aquél en que se haya notificado dicha resolución, cuyo procedimiento se reducirá a una sola audiencia en donde se determinará su procedencia.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+1. La resolución derivada de la verificación admitirá el recurso de reconsideración ante el titular de la Secretaría del Trabajo, mediante escrito que se presente dentro de los tres días siguientes a aquél en que se haya notificado dicha resolución, cuyo procedimiento se reducirá a una sola audiencia en donde se determinará su procedencia.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
 2. El Secretario pronunciará resolución fundada y motivada dentro del término de tres días siguientes a la audiencia, a menos que a su juicio se requiera mayor tiempo para resolver la controversia, el cual no excederá de diez días hábiles.
 
-3. Los Centros de Mediación o los mediadores particulares que, de conformidad con la resolución emitida por el Secretario, cometan infracciones a esta ley, incurrirán en responsabilidad y se sujetarán a las sanciones establecidas en este ordenamiento, sin perjuicio de los actos probablemente constitutivos de delito, en cuyo caso el propio titular de la Secretaría del Trabajo y Asuntos Jurídicos dará vista al Ministerio Público para los efectos legales procedentes.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+3. Los Centros de Mediación o los mediadores particulares que, de conformidad con la resolución emitida por el Secretario, cometan infracciones a esta ley, incurrirán en responsabilidad y se sujetarán a las sanciones establecidas en este ordenamiento, sin perjuicio de los actos probablemente constitutivos de delito, en cuyo caso el propio titular de la Secretaría del Trabajo dará vista al Ministerio Público para los efectos legales procedentes.
 
 ###### ARTÍCULO 59.
 
@@ -753,7 +763,9 @@ b).- Apercibimiento y multa de cien días de salario mínimo diario vigente en l
 
 c).- Suspensión del registro ante la Dirección hasta por un plazo de seis meses a quien omita vigilar y acreditar que los mediadores que presten sus servicios dentro de su organización, cumplan con los requisitos y obligaciones que establece esta ley;
 
-d).- Revocación del registro ante la Secretaría del Trabajo y Asuntos Jurídicos, en caso de reincidencia en el incumplimiento a lo establecido en los incisos a) y c) de este artículo; o
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+d).- Revocación del registro ante la Secretaría del Trabajo, en caso de reincidencia en el incumplimiento a lo establecido en los incisos a) y c) de este artículo; o
 
 e).- Clausura del establecimiento donde se realice el procedimiento de mediación, cuando carezca de registro ante la Dirección para realizar las actividades propias del mismo.
 
@@ -818,3 +830,11 @@ El personal de nivel jerárquico de Jefe de Departamento y superiores, será dad
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas aquellas disposiciones que se opongan el presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
