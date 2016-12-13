@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2016-06-24"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -135,9 +135,9 @@ La Tesorería Municipal podrá celebrar convenios con los retenedores de este im
 
 En todo momento las autoridades municipales, están facultadas para nombrar los interventores que consideren necesarios para que se haga la correcta liquidación de los impuestos retenidos y su entero correspondiente.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO II. POR REMATES NO JUDICIALES, SUBASTAS, RIFAS, SORTEOS, LOTERÍAS, JUEGOS PERMITIDOS Y REALIZACIÓN DE JUEGOS CON APUESTAS Y SORTEOS
+### CAPÍTULO II. POR REMATES NO JUDICIALES
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -147,13 +147,9 @@ Son objeto de este impuesto:
 
 I. Los remates no judiciales y subastas públicas siempre y cuando la enajenación resultante de estos actos no sean objeto del Impuesto al Valor Agregado;
 
-II. La obtención de premios derivados de rifas, sorteos, loterías y juegos permitidos, excepto los que se realicen por organismos públicos descentralizados de la Administración Pública Federal; y
+II. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2016)
 
-III. Las realizaciones de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la ley Federal de Juegos y Sorteos y su Reglamento, los que realicen los organismos descentralizados, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de maquinas, que en el desarrollo de aquellos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio del Estado.
-
-Quedan comprendidos en los juegos con apuestas, aquellos en los que solo reciban, capten, crucen o exploten apuestas.
-
-Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+III. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2016)
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -163,11 +159,13 @@ Son sujetos de este impuesto:
 
 I. En el caso de la fracción I del artículo anterior, los responsables de dichos eventos;
 
-II. En el caso de la fracción II del artículo anterior, las personas físicas o morales que obtengan premios derivados de rifas, sorteos, loterías y juegos permitidos; y
+II. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2016)
 
-III. En el caso de la fracción III del artículo anterior, las personas físicas o morales que realicen juegos de apuestas y sorteos ahí descritos.
+III. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2016)
 
-Atendiendo a las fracciones I y II estarán obligadas a la retención de este impuesto las personas físicas o morales responsables de la organización de dichos eventos.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+Estarán obligadas a la retención de este impuesto las personas físicas o morales responsables de la organización de dichos eventos.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
@@ -179,31 +177,25 @@ I. En caso de remates no judiciales y subasta pública, el valor total de los bi
 
 El valor de los bienes para efectos de esta fracción será igual al que tengan en el mercado. A falta de éste, lo será el que se fije por los peritos designados, uno por la Tesorería Municipal y otro por el propio causante. En caso de que los peritos no llegaren a un acuerdo sobre el valor de los bienes sujetos a peritaje, el Tesorero Municipal designará un perito tercero en discordia, cuyo dictamen servirá de base para el pago de este impuesto;
 
-II. En caso de premios obtenidos, el valor determinado o determinable que se obtenga del premio correspondiente a cada billete o boleto, sin deducción alguna.
+II. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2016)
 
-Tratándose de premios en especie, será base del impuesto, el valor con el que se promocione cada uno de los premios, en su defecto, el valor de facturación y en ausencia de ambos, el de avalúo comercial.
+III. (DEROGADA, P.O. 13 DE DICIEMBRE DE 2016)
 
-Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda a la rifa, sorteo o juego de que se trate, se considerará que el valor o precio total del evento, corresponde al objeto del impuesto; y
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-III. En el caso de los realizadores de juegos de apuestas y sorteos a que hace referencia la fracción III del artículo 15, se considerará como valor el total de las cantidades efectivamente percibidas de los participantes por dichas actividades. En los juegos o sorteos en los que se apueste, se considerará como valor el monto total de las apuestas. Tratándose de los juegos o sorteos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego o sorteo de que se trate, se considerará como valor el total de las cantidades equivalentes en moneda nacional que amparen dichos medios.
+###### Artículo 18.
 
-Cuando en algún sorteo el premio ofrecido se encuentre contenido de manera referenciada y oculta en bienes cuya adquisición otorgue el derecho a participar en dicho sorteo, se considerará como valor el precio en el que la persona que lo realice haya enajenado todos los bienes que participen en ese sorteo.
-
-Tratándose de sorteos en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones del sorteo establecidas en el permiso otorgado por la autoridad competente. Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad.
-
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-###### ARTICULO 18.
-
-Los responsables de la realización de los remates no judiciales, subastas, rifas, sorteos, loterías y juegos permitidos, tienen obligación de dar aviso de tales actos a la Tesorería Municipal con cinco días de anticipación, cuando menos a la celebración de los mismos con el propósito de que la autoridad fiscal, fije el impuesto correspondiente, así como para que designe al interventor que habrá de representarlo.
+Los responsables de la realización de los remates no judiciales, tienen obligación de dar aviso de tales actos a la Tesorería Municipal con cinco días de anticipación, cuando menos a la celebración de los mismos con el propósito de que la autoridad fiscal, fije el impuesto correspondiente, así como para que designe al interventor que habrá de representarlo.
 
 A falta de este aviso, la Tesorería Municipal impondrá las sanciones que corresponden, sin perjuicio de exigir el pago del impuesto.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 19.
+###### Artículo 19.
 
-El impuesto a que se refieren las fracciones I y II del artículo 15, deberán enterarse a más tardar 30 días posteriores a la celebración del acto, y se causará en porcentaje tomando como base el valor del bien traducido en días de salario mínimo para los casos a que se refieren los puntos 1 y 2; tratándose del punto 3, el valor del premio. En lo que respecta a la fracción III del citado artículo, se pagará dentro de los primeros cinco días del mes siguiente a aquél al que se realizó la actividad, y tratándose del punto 4 el valor de las contraprestaciones gravadas efectivamente percibidas en el mes de que se trate, de acuerdo con la siguiente:
+El impuesto a que se refiere la fracción I del artículo 15, deberán enterarse a más tardar 30 días posteriores a la celebración del acto, y se causará en porcentaje tomando como base el valor diario de la unidad de medida y actualización para los casos a que se refieren los puntos 1 y 2; el valor del premio, de acuerdo con la siguiente:
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 T A R I F A
 
@@ -253,21 +245,17 @@ diario vigente
 
 diario vigente
 
-3.- Premios obtenidos 6%
+3. (DEROGADO, P.O. 13 DE DICIEMBRE DE 2016)
 
-4.- De realizadores de Juegos y sorteos 6%
+4. (DEROGADO, P.O. 13 DE DICIEMBRE DE 2016)
 
-(Atendiendo el segundo párrafo del artículo 5° de la
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-Ley del Impuesto Especial sobre Producción y Servicios)
+###### Artículo 20.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+En relación al artículo 15, fracción I de la presente Ley, quedan exentos del pago de este impuesto, los partidos políticos y los organismos públicos federales, estatales y municipales.
 
-###### ARTICULO 20.
-
-En relación al artículo 15, fracciones I y II de la presente Ley, quedan exentos del pago de este impuesto, los partidos políticos y los organismos públicos federales, estatales y municipales.
-
-Para todo lo no previsto en relación al impuesto sobre las realizaciones de juegos con apuestas y sorteos, será aplicable por incorporación lo previsto en la Ley del Impuesto Especial sobre Producción y Servicios.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -3502,3 +3490,29 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
 
 TERCERO. En un plazo de noventa días se deberán realizar las adecuaciones correspondientes a los Reglamentos de la Ley de Hacienda Municipal, Ley de Catastro, Ley de Agua Potable y Alcantarillado, Ley de Protección Civil, y Ley de Gobierno Municipal, todas del Estado, respectivamente, a efecto de establecer el procedimiento para llevar a cabo las solicitudes, dictaminaciones, pagos y emisión de documentos o constancias qua se generen por medios electrónicos.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 12 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO, SE EXPIDE LA LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO, ASÍ COMO DEROGAR EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 143, PUBLICADO EN EL PERIÓDICO OFICIAL NÚMERO 124 DE 12 DE OCTUBRE DE 1990, Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que se opongan o de cualquier forma contravengan lo previsto en el presente Decreto.
+
+TERCERO.- Para los efectos del artículo 33 de la Ley de Hacienda del Estado de Sinaloa, el Ejecutivo del Estado deberá realizar las modificaciones al "Decreto que crea el Consejo Consultivo Turístico del Estado de Sinaloa", publicado en el Periódico Oficial "El Estado de Sinaloa" No. 78, Segunda Sección del día 01 de julio de 1994, dentro de los noventa días naturales siguientes contados a partir de la iniciación de la vigencia de este Decreto.
+
+La Secretaría de Turismo emitirá los lineamientos para la integración y funcionamiento del Consejo Consultivo.
+
+CUARTO.- La declaración a que se refiere el artículo 34 bis-21 de la Ley de Hacienda del Estado de Sinaloa contenido en este Decreto, correspondiente a los meses de enero a junio de 2017, se presentará con la información acumulada a dichos meses a más tardar el 17 de julio de 2017.
+
+QUINTO.- Las casas de empeño que ya se encuentran operando en el territorio del Estado de Sinaloa dispondrán de un plazo de 90 días naturales contados a partir de la entrada en vigor de este Decreto, para dar cumplimiento a las disposiciones que regulan los derechos por los servicios de autorización, registro y supervisión para la instalación y operación de casas de empeño, contenidas en este Decreto. De igual manera las casas de empeño ya instaladas deberán apegarse a los términos de la Ley que regula las casas de Empeño en el Estado de Sinaloa y gestionar el permiso a que hace referencia ante la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado, dentro de los noventa días naturales contados a partir de la entrada en vigor de este Decreto.
+
+SEXTO.- El Ejecutivo del Estado deberá realizar las modificaciones al Reglamento Orgánico de la Administración Pública para el Estado de Sinaloa, así como al Reglamento Interior de la Secretaría de Administración y Finanzas, para armonizarla en lo conducente a las disposiciones de este Decreto, dentro de los noventa días naturales siguientes contados a partir del inicio de la vigencia de este Decreto.
+
+SÉPTIMO.- Los órganos de gobierno de los respectivos organismos descentralizados de la administración pública paraestatal, a que se refiere el Artículo 78 bis-10 de este Decreto, deberán realizar el catálogo de servicios, con sus rubros, conceptos, cuotas y tarifas, para someterla a la autorización de la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado, dentro de los sesenta días naturales siguientes contados a partir del inicio de la vigencia de este Decreto.
+
+OCTAVO.- Para los efectos del presente Decreto se entiende como Unidad de Medida y Actualización: La Unidad de Medida y Actualización contemplada en los párrafos sexto y séptimo del Apartado B, del artículo 26, de la Constitución Política de los Estados Unidos Mexicanos.
+
+NOVENO.- El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+DÉCIMO.- El importe de lo recaudado por los Impuestos en materia de Apuestas y Sorteos previstos en el presente Decreto serán participables en el Municipio donde se genere, con base en lo dispuesto por la Ley de Coordinación Fiscal, y el ingreso para el ejercicio fiscal del año 2017 no podrá ser menor a lo racaudado (sic) en el ejercicio fiscal del año 2016.
