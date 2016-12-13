@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-antes-ley-para-442
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-08"
-last_updated: "2014-03-06"
+last_updated: "2016-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 8 de marzo de 2005.
 
@@ -315,9 +315,9 @@ d) Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le g
 
 1. Para la atención de las situaciones no previstas en el presente ordenamiento, se aplicarán supletoriamente las leyes relativas a la organización de la administración pública estatal, las entidades paraestatales y el derecho común local.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-2. Para efectos administrativos, el titular de la Secretaría de Desarrollo Social, podrá interpretar sus disposiciones, con base a los principios generales del derecho.
+2. Para efectos administrativos, el titular de la Secretaría de Bienestar Social, podrá interpretar sus disposiciones, con base a los principios generales del derecho.
 
 #### Sección Segunda
 
@@ -415,7 +415,9 @@ d) El Órgano de Vigilancia.
 
 1. La Junta de Gobierno es la máxima autoridad del Instituto y se integra de la siguiente forma:
 
-a) El Secretario de Desarrollo Social, quien la presidirá;
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+a) El Secretario de Bienestar Social, quien la presidirá;
 
 b) El Secretario General de Gobierno;
 
@@ -535,9 +537,9 @@ a) Asistir a las sesiones de la Junta de Gobierno, con derecho a voz;
 
 b) Administrar y representar legalmente al Instituto, para lo cual tendrá poderes generales para actos de dominio, administración, pleitos y cobranzas, con todas las facultades generales y las que requieran cláusula especial; para suscribir, endosar y negociar títulos de crédito, sustituirlos o revocarlos; para promover y desistirse del juicio de amparo, querellas y denuncias penales, y para actuar ante todas las autoridades laborales; estos poderes podrán ser otorgados total o parcialmente, a favor de quien la Junta de Gobierno autorice, con base en la propuesta de quien sea titular de la Dirección General;
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-c) Proponer al Ejecutivo del Estado, por conducto del titular de la Secretaría de Desarrollo Social, proyectos de iniciativas de ley que favorezcan la igualdad de género a fin de fortalecer el desarrollo integral de la mujer;
+c) Proponer al Ejecutivo del Estado, por conducto del titular de la Secretaría de Bienestar Social, proyectos de iniciativas de ley que favorezcan la igualdad de género a fin de fortalecer el desarrollo integral de la mujer;
 
 d) Celebrar actos y otorgar documentos inherentes al objeto y funciones del Instituto;
 
@@ -1028,6 +1030,14 @@ P.O. 24 DE SEPTIEMBRE DE 2013.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, con excepción de la reforma efectuada a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado de Tamaulipas, la cual surtirá efectos a partir de su expedición.
 
 P.O. 6 DE MARZO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
