@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2016-09-27"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -511,7 +511,9 @@ Corresponde a todas las dependencias que conforman el Sector Salud del Estado de
 
 ###### ARTÍCULO 34.
 
-Para garantizar el derecho al trabajo de las personas con discapacidad en igualdad de oportunidades y equidad, que les otorgue certeza en su desarrollo personal, social y laboral, la Secretaría del Trabajo y Asuntos Jurídicos realizará las siguientes acciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+Para garantizar el derecho al trabajo de las personas con discapacidad en igualdad de oportunidades y equidad, que les otorgue certeza en su desarrollo personal, social y laboral, la Secretaría del Trabajo realizará las siguientes acciones:
 
 I.- Promover la contratación de personas con discapacidad, en los diferentes sectores productivos y de servicios, creando para ello, programas de potencial humano, capacitación laboral de personas con discapacidad y ferias de empleo;
 
@@ -559,7 +561,9 @@ Los Órganos de la Administración Pública del Estado de Tamaulipas, deberán p
 
 ###### ARTÍCULO 40.
 
-La Secretaría de Desarrollo Económico y Turismo, el Instituto Tamaulipeco para la Cultura y las Artes y el Instituto Tamaulipeco del Deporte, en el ámbito de sus respectivas competencias, deberán llevar a cabo lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría de Desarrollo Económico, la Secretaría de Turismo, el Instituto Tamaulipeco para la Cultura y las Artes y el Instituto Tamaulipeco del Deporte, en el ámbito de sus respectivas competencias, deberán llevar a cabo lo siguiente:
 
 I.- Elaborar y ejecutar un programa que garantice el libre acceso y desplazamiento de las personas con discapacidad en los lugares donde se impartan o realicen actividades turísticas, culturales, deportivas o recreativas;
 
@@ -567,9 +571,11 @@ II.- Adoptar las medidas pertinentes para que las personas con discapacidad pued
 
 III.- Reglamentar y supervisar el cumplimiento de las condiciones de accesibilidad bajo las cuales se realicen las actividades turísticas, culturales, deportivas o recreativas, las que deberán ser accesibles para las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 41.
 
-La Secretaría de Desarrollo Económico y Turismo, en coordinación con la Secretaría del Trabajo y Asuntos Jurídicos y con instituciones de educación superior, promoverán el surgimiento y desarrollo de la actividad empresarial de las personas con discapacidad y/o de la persona de la que dependa, a través de modelos y programas reconocidos por la Secretaría de Economía.
+La Secretaría de Desarrollo Económico, en coordinación con la Secretaría del Trabajo y con instituciones de educación superior, promoverán el surgimiento y desarrollo de la actividad empresarial de las personas con discapacidad y/o de la persona de la que dependa, a través de modelos y programas reconocidos por la Secretaría de Economía.
 
 ###### ARTÍCULO 42.
 
@@ -609,11 +615,15 @@ VII.- La definición de un sistema de indicadores, que permitan la correcta impl
 
 I.- El Gobernador del Estado, quien lo presidirá;
 
-II.- Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+II.- Secretaría de Bienestar Social;
 
 III.- Secretaría de Salud;
 
-IV.- Secretaría de Desarrollo Económico y Turismo;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+IV.- Secretaría de Desarrollo Económico;
 
 V.- Secretaría de Educación de Tamaulipas;
 
@@ -623,7 +633,9 @@ VII.- Secretaría de Finanzas;
 
 VIII.- Secretaría de Obras Públicas;
 
-IX.- Secretaría del Trabajo y Asuntos Jurídicos;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+IX.- Secretaría del Trabajo;
 
 X.- Comisión Estatal de los Derechos Humanos;
 
@@ -792,3 +804,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiséis días del mes de septiembre del año dos mil dieciséis.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
