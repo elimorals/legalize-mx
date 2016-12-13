@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-vivienda-para-el-estado-de-tamaulipas-96128"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2016-04-21"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
@@ -145,7 +145,9 @@ II. Los Ayuntamientos;
 
 III. La Secretaría de Desarrollo Urbano y Medio Ambiente;
 
-IV. La Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+IV. La Secretaría de Bienestar Social;
 
 V. El Instituto Tamaulipeco de Vivienda y Urbanismo; y,
 
@@ -233,7 +235,9 @@ VII. Las demás que le otorguen esta Ley y otros ordenamientos.
 
 ###### ARTÍCULO 9.
 
-Compete a la Secretaría de Desarrollo Social:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+Compete a la Secretaría de Bienestar Social:
 
 I. Impulsar las acciones y actividades de los sectores público, social y privado a favor de la adquisición de vivienda para familias de menores ingresos o en situación de vulnerabilidad, cooperativas, personas con discapacidad y trabajadores no afiliados a algún régimen de vivienda social;
 
@@ -455,7 +459,9 @@ I. El Titular del Ejecutivo del Estado, quien lo presidirá;
 
 II. El Secretario de Desarrollo Urbano y Medio Ambiente;
 
-III. El Secretario de Desarrollo Social;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+III. El Secretario de Bienestar Social;
 
 IV. El Presidente de la Comisión del Congreso del Estado encargada (sic) de los asuntos de Vivienda;
 
@@ -613,15 +619,19 @@ El Instituto promoverá programas que contemplen compromisos de crédito, subsid
 
 3. En la distribución de subsidios tanto para las familias, como para las regiones, municipios o localidades, se deberán aplicar los principios de equidad e inclusión social, sujetándose a las disposiciones legales aplicables en estas materias.
 
-4. Para estimar los recursos anuales por concepto de subsidios que se propondrá otorgar el Ejecutivo del Estado, el Instituto, con la participación de la Secretaría de Desarrollo Social, cuantificará el rezago y necesidades habitacionales, modalidades de atención, condición de pobreza de las familias y grado de marginación de la comunidad, entre otros.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+4. Para estimar los recursos anuales por concepto de subsidios que se propondrá otorgar el Ejecutivo del Estado, el Instituto, con la participación de la Secretaría de Bienestar Social, cuantificará el rezago y necesidades habitacionales, modalidades de atención, condición de pobreza de las familias y grado de marginación de la comunidad, entre otros.
 
 ###### ARTÍCULO 37.
 
 Los subsidios deberán ser identificables y claramente cuantificables y los procedimientos de asignación deberán ser objetivos y transparentes, estableciéndose los requisitos y criterios de selección que deban satisfacer los destinatarios y la temporalidad de los mismos, así como los responsables de su ejercicio, control, seguimiento y fiscalización.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 38.
 
-Una vez concluido el proceso de asignación, el Instituto enviará los listados de beneficiarios de créditos o subsidios a la Secretaría de Desarrollo Social, para su inclusión en el Padrón Único de Beneficiarios de Programas Sociales, y los Ayuntamientos harán lo propio en los términos de los convenios respectivos.
+Una vez concluido el proceso de asignación, el Instituto enviará los listados de beneficiarios de créditos o subsidios a la Secretaría de Bienestar Social, para su inclusión en el Padrón Único de Beneficiarios de Programas Sociales, y los Ayuntamientos harán lo propio en los términos de los convenios respectivos.
 
 ###### ARTÍCULO 39.
 
@@ -882,5 +892,13 @@ P.O. 21 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXII-944, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
