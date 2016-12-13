@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2016-09-20"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -241,15 +241,15 @@ X.- Crear los mecanismos o instancias correspondientes para el cumplimiento de e
 
 XI.- Las demás que le confieran otros ordenamientos jurídicos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO II. DE LA SECRETARIA DE DESARROLLO SOCIAL, CULTURA Y DEPORTE
+### CAPITULO II. DE LA SECRETARÍA DE BIENESTAR SOCIAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 11.
 
-La Secretaría de Desarrollo Social, Cultura y Deporte deberá coordinar e implementar las acciones que se requieran, para promover la integración social de las personas adultas mayores y para brindarles los servicios de asistencia social y atención integral a los que se refiere esta ley.
+La Secretaría de Bienestar Social deberá coordinar e implementar las acciones que se requieran, para promover la integración social de las personas adultas mayores y para brindarles los servicios de asistencia social y atención integral a los que se refiere esta ley.
 
 Para lograr dichos objetivos deberá:
 
@@ -333,9 +333,9 @@ VII.- Denunciar ante las autoridades competentes, cuando sea procedente, cualqui
 
 VIII.- Procurar que las personas adultas mayores en situación de riesgo o desamparo, cuente con un lugar donde vivir, que cubra sus necesidades básicas;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-IX.- Vigilar que las Dependencias y Entidades de la Administración Pública estatal, y las instituciones de salud públicas y las privadas, presten el cuidado y la atención preferencial adecuada a las personas adultas mayores, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaria de Desarrollo Social, Cultura y Deporte;
+IX.- Vigilar que las Dependencias y Entidades de la Administración Pública estatal, y las instituciones de salud públicas y las privadas, presten el cuidado y la atención preferencial adecuada a las personas adultas mayores, respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Bienestar Social;
 
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
@@ -357,9 +357,9 @@ El Consejo estará integrado por el titular de:
 
 I.- El Ejecutivo del Estado, quien fungirá como Presidente del Consejo;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-II.- La Secretaría de Desarrollo Social, Cultura y Deporte, quien fungirá como Secretario;
+II.- La Secretaría de Bienestar Social, quien fungirá como Secretario;
 
 III.- La Secretaría de Salud;
 
@@ -395,9 +395,9 @@ VI.- Proponer mecanismos de concertación y de coordinación en materia de desar
 
 VII.- Organizar grupos de trabajo; y
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Las demás que le encomiende el Ejecutivo del Estado y, en su caso, la Secretaría de Desarrollo Social, Cultura y Deporte.
+VIII.- Las demás que le encomiende el Ejecutivo del Estado y, en su caso, la Secretaría de Bienestar Social.
 
 ###### ARTICULO 17.
 
@@ -461,11 +461,11 @@ La Administración Pública del Estado, a través de la dependencia competente, 
 
 La Administración Pública del Estado, a través de la dependencia competente, promoverá la celebración de convenios con la iniciativa privada a fin de que se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las personas adultas mayores.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 24.
 
-La Administración Pública del Estado, a través de la dependencia o entidad competente, de conformidad con las disposiciones jurídicas aplicables, deberá promover e instrumentar descuentos en el pago de derechos por los servicios que otorga, cuando el usuario de los mismos sea una persona adulta mayor. Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Desarrollo Social, Cultura y Deporte, dar a conocer, dentro del primer mes de cada año, el monto de los descuentos y los requisitos a cubrir.
+La Administración Pública del Estado, a través de la dependencia o entidad competente, de conformidad con las disposiciones jurídicas aplicables, deberá promover e instrumentar descuentos en el pago de derechos por los servicios que otorga, cuando el usuario de los mismos sea una persona adulta mayor. Corresponde al Ejecutivo del Estado, por conducto de la Secretaría de Bienestar Social, dar a conocer, dentro del primer mes de cada año, el monto de los descuentos y los requisitos a cubrir.
 
 ### CAPITULO III. DE LA ATENCION PREFERENCIAL
 
@@ -473,9 +473,11 @@ La Administración Pública del Estado, a través de la dependencia o entidad co
 
 Es obligación de las dependencias y entidades de la Administración Pública Estatal, en el ámbito de sus respectivas competencias y jurisdicción, vigilar y garantizar la defensa de los derechos de las personas adultas mayores, otorgándoles una atención preferencial que agilice los trámites y procedimientos administrativos a realizar.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 26.
 
-La Secretaría de Desarrollo Económico y del Empleo promoverá la celebración de convenios con la iniciativa privada, a fin de que la atención preferencial para las personas adultas mayores, también sea proporcionado en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
+La Secretaría de Desarrollo Económico promoverá la celebración de convenios con la iniciativa privada, a fin de que la atención preferencial para las personas adultas mayores, también sea proporcionado en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -497,11 +499,11 @@ ARTICULO 26 TER.- Para tener acceso a los beneficios del Programa de Apoyo Direc
 
 Toda persona que tenga conocimiento de que una persona adulta mayor se encuentre en situación de riesgo o desamparo podrá pedir la intervención de las autoridades competentes para que se apliquen de inmediato las medidas necesarias para su protección y atención.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 28.
 
-La Secretaría de Desarrollo Social, Cultura y Deporte en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado, promoverá e instrumentará políticas de asistencia social para las personas adultas mayores en situación de riesgo o desamparo.
+La Secretaría de Bienestar Social en coordinación con el Sistema para el Desarrollo Integral de la Familia en el Estado, promoverá e instrumentará políticas de asistencia social para las personas adultas mayores en situación de riesgo o desamparo.
 
 ###### ARTICULO 29.
 
@@ -677,7 +679,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.-"SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
@@ -704,6 +706,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE SEPTIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXII-996 MEDIANTE EL CUAL SE ADICIONA UN CAPÍTULO IV AL TÍTULO SEXTO Y SE ADICIONA EL TÍTULO OCTAVO A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
