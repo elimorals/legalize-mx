@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-fomento-y-desarrollo-de-la-fruticultura-en-el-41920
 country: "mx"
 rank: "ley"
 publication_date: "2004-10-27"
-last_updated: "2004-10-27"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 27 de octubre de 2004.
 
@@ -79,7 +79,9 @@ d) Los convenios celebrados entre la Federación, Entidades Federativas, Municip
 
 Para los efectos de esta Ley, las siguientes expresiones se entenderán en la forma y términos que se indican:
 
-LA SECRETARIA: La Secretaría de Desarrollo Económico y del Empleo del Gobierno del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+LA SECRETARÍA: La Secretaría de Desarrollo Económico del Gobierno del Estado de Tamaulipas.
 
 LA DELEGACION: La Delegación de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación del Gobierno Federal.
 
@@ -155,7 +157,9 @@ Son autoridades competentes para la aplicación de esta ley, en los términos qu
 
 a) El Gobernador del Estado;
 
-b) La Secretaría de Desarrollo Económico y del Empleo;
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+b) La Secretaría de Desarrollo Económico;
 
 c) La Secretaría de Finanzas; y
 
@@ -205,7 +209,9 @@ n) Las demás de la materia que se deriven de las leyes vigentes o que le sean a
 
 2. El Consejo estará integrado por un Presidente, un Secretario Técnico y nueve Vocales, quienes serán designados en la siguiente forma:
 
-3. El Presidente será el Secretario de Desarrollo Económico y del Empleo del Estado, y el Director General de Desarrollo Agropecuario, Forestal y Pesca, será el Secretario Técnico, y quien deberá elaborar las actas correspondientes y dar seguimiento a los acuerdos aprobados.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+3. El Presidente será el Secretario de Desarrollo Económico, y el Director General de Desarrollo Agropecuario, Forestal y Pesca, será el Secretario Técnico, y quien deberá elaborar las actas correspondientes y dar seguimiento a los acuerdos aprobados.
 
 4. Los Vocales serán designados, uno por cada Dependencia e Instituciones siguientes: Secretaría de Agricultura Ganadería, Desarrollo Rural, Pesca y Alimentación; Financiera Rural; Cámara Nacional de la Industria de la Trasformación; Asociación Estatal de Frutícultores; Comité Estatal de Sanidad Vegetal; Consejo Tamaulipeco de Ciencia y Tecnología; Universidad Autónoma de Tamaulipas; Comisión Nacional del Agua e Instituto Nacional de Investigación Forestal y Agropecuario (INAFAP).
 
@@ -453,7 +459,9 @@ d) Desahogadas las pruebas ofrecidas por el inconforme, o las que de oficio se h
 
 1. El recurso de revisión procederá:
 
-a) Ante la Secretaría de Desarrollo Económico y del Empleo, contra las resoluciones emitidas por las Dependencias del Orden Estatal, en los recursos de inconformidad; y
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+a) Ante la Secretaría de Desarrollo Económico, contra las resoluciones emitidas por las Dependencias del Orden Estatal, en los recursos de inconformidad; y
 
 b) Ante el Ejecutivo del Estado, contra las resoluciones emitidas por la Secretaría en los recursos de inconformidad de que conozca.
 
@@ -478,3 +486,13 @@ Por tanto, mando se imprima, publique y se le dé el debido cumplimiento.
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los trece días del mes de octubre del año dos mil cuatro.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rúbrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
