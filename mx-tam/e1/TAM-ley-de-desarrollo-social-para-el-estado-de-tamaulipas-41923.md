@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-social-para-el-estado-de-tamaulipas-41923"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-24"
-last_updated: "2016-07-14"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 24 de noviembre de 2004.
 
@@ -65,11 +65,11 @@ La elaboración del Programa Estatal y de los Programas Municipales de Desarroll
 
 Los programas que en esta materia se formulen son parte del Sistema Estatal de Planeación del Desarrollo Social y deben orientarse al cumplimiento del objeto de esta ley.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 12.
 
-El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, coordinará la correspondencia entre el Programa Estatal, el Nacional y los Municipales de Desarrollo Social.
+El Ejecutivo del Estado, a través de la Secretaría de Bienestar Social, coordinará la correspondencia entre el Programa Estatal, el Nacional y los Municipales de Desarrollo Social.
 
 ###### ARTICULO 13.
 
@@ -215,7 +215,7 @@ III.- Cumplir con la normatividad de los programas.
 
 Con el propósito de asegurar la igualdad y la eficacia de los programas sociales, el Ejecutivo del Estado y los Ayuntamientos de los Municipios, en el ámbito de sus competencias, integrarán el Padrón Único de Beneficiarios de los Programas Sociales.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ### Capítulo Unico
 
@@ -257,7 +257,7 @@ X.- Fomentar el cuidado del medio ambiente, el aprovechamiento de los recursos n
 
 ###### ARTICULO 32.
 
-La Secretaría de Desarrollo Social será responsable de la integración y actualización de los datos relativos al Padrón Único de Beneficiarios de los Programas Sociales del Gobierno del Estado y podrá convenir con los gobiernos municipales la integración de los beneficiarios de sus programas sociales al padrón estatal.
+La Secretaría de Bienestar Social será responsable de la integración y actualización de los datos relativos al Padrón Único de Beneficiarios de los Programas Sociales del Gobierno del Estado y podrá convenir con los gobiernos municipales la integración de los beneficiarios de sus programas sociales al padrón estatal.
 
 ###### ARTICULO 33.
 
@@ -365,15 +365,15 @@ El Ejecutivo del Estado brindará financiamiento a personas en situación de des
 
 ## Título IX. Del Sistema Estatal de Planeación del Desarrollo Social
 
-###### ARTÍCULO 51.
+###### ARTICULO 51.
 
-Se instituye el Sistema Estatal de Planeación del Desarrollo Social, con la coordinación y concertación del Ejecutivo del Estado, a través de la Secretaría de Desarrollo Social, y la concurrencia y colaboración de las dependencias y entidades estatales relacionadas con la materia, los Municipios, los sectores social y privado, y la sociedad civil, de conformidad con la Ley Estatal de Planeación y en concordancia con el Sistema Nacional de Desarrollo Social.
+Se instituye el Sistema Estatal de Planeación del Desarrollo Social, con la coordinación y concertación del Ejecutivo del Estado, a través de la Secretaría de Bienestar Social, y la concurrencia y colaboración de las dependencias y entidades estatales relacionadas con la materia, los Municipios, los sectores social y privado, y la sociedad civil, de conformidad con la Ley Estatal de Planeación y en concordancia con el Sistema Nacional de Desarrollo Social.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 52.
+###### ARTICULO 52.
 
-La Secretaría de Desarrollo Social, en el marco del Sistema Estatal de Planeación del Desarrollo Social, coordinará los programas sociales, obras, acciones, apoyos e inversiones para el cumplimiento de los principios rectores, vertientes y objetivos de la Política Estatal de Desarrollo Social.
+La Secretaría de Bienestar Social, en el marco del Sistema Estatal de Planeación del Desarrollo Social, coordinará los programas sociales, obras, acciones, apoyos e inversiones para el cumplimiento de los principios rectores, vertientes y objetivos de la Política Estatal de Desarrollo Social.
 
 ###### ARTICULO 53.
 
@@ -391,9 +391,9 @@ IV.- Fomentar la participación de la sociedad civil, y en general, de los secto
 
 Corresponden al Ejecutivo del Estado, en el ámbito de su competencia, las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-I.- Formular y ejecutar el Programa Estatal de Desarrollo Social, a través de la Secretaría de Desarrollo Social;
+I.- Formular y ejecutar el Programa Estatal de Desarrollo Social, a través de la Secretaría de Bienestar Social;
 
 II.- Convenir acciones y programas sociales con el Ejecutivo Federal;
 
@@ -431,11 +431,11 @@ IX.- Informar a la sociedad sobre las acciones en torno al desarrollo social; y
 
 X.- Las demás señaladas en la presente ley y otras disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 56.
+###### ARTICULO 56.
 
-Corresponden a la Secretaría de Desarrollo Social las siguientes atribuciones:
+Corresponden a la Secretaría de Bienestar Social las siguientes atribuciones:
 
 I.- Proyectar y coordinar la Planeación Estatal del Desarrollo Social;
 
@@ -529,11 +529,11 @@ ARTICULO 61 SEPTIES.- Los resultados de las evaluaciones serán publicados en el
 
 Se crea la Comisión Estatal de Evaluación de la Política de Desarrollo Social, como un instrumento de coordinación para la evaluación de las políticas y programas de desarrollo social que ejecuten las dependencias públicas.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 63.
+###### ARTICULO 63.
 
-La Comisión Estatal de Evaluación de la Política de Desarrollo Social será presidida por el Secretario de Desarrollo Social, y estará integrada por el titular de la Secretaría General de Gobierno, de la Secretaría de Finanzas, de la Secretaría de Desarrollo Económico y Turismo, de la Secretaría del Trabajo y Asuntos Jurídicos, de la Secretaría de Educación, de la Secretaría de Desarrollo Rural, de la Secretaría de Salud, de la Secretaría de Desarrollo Urbano y Medio Ambiente y de la Procuraduría General de Justicia, el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, los presidentes municipales, organismos del sector social y privado y académicos relacionados con la materia.
+La Comisión Estatal de Evaluación de la Política de Desarrollo Social será presidida por el Secretario de Bienestar Social, y estará integrada por el titular de la Secretaría General de Gobierno, de la Secretaría de Finanzas, de la Secretaría de Desarrollo Económico, de la Secretaría del Trabajo, de la Secretaría de Educación, de la Secretaría de Desarrollo Rural, de la Secretaría de Salud, de la Secretaría de Desarrollo Urbano y Medio Ambiente y de la Procuraduría General de Justicia, el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, los presidentes municipales, organismos del sector social y privado y académicos relacionados con la materia.
 
 ###### ARTICULO 64.
 
@@ -571,11 +571,11 @@ VI.- Promover el establecimiento de convenios de colaboración con instituciones
 
 Conforme a la legislación correspondiente, aquellos servidores públicos que en ejercicio de sus funciones contravengan u ordenen contravenir los principios y preceptos establecidos en la presente ley, se harán acreedores a las medidas disciplinarias administrativas, civiles y penales aplicables por la autoridad competente.
 
-> <small>(REFORMADA, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 66.
+###### ARTICULO 66.
 
-En los términos de la ley, la Secretaría de Desarrollo Social deberá denunciar ante el órgano de control estatal, las acciones que presumiblemente constituyan irregularidades.
+En los términos de la ley, la Secretaría de Bienestar Social deberá denunciar ante el órgano de control estatal, las acciones que presumiblemente constituyan irregularidades.
 
 ## Título XII. De la Publicación y Publicidad de los Programas Sociales
 
@@ -717,7 +717,7 @@ La planeación del desarrollo social incluirá los programas estatal y municipal
 
 ### Capítulo I. Del Objeto e Integración
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ### Capítulo II. De las Competencias y Atribuciones
 
@@ -806,3 +806,11 @@ P.O. 14 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial Estado.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
