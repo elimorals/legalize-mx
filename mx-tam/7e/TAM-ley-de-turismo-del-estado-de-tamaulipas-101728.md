@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2014-11-25"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -49,11 +51,13 @@ LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
 ### CAPÍTULO I. NATURALEZA DE LA LEY Y SU OBJETO
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-1. La presente Ley es de interés público y observancia general en todo el territorio del Estado, correspondiendo su aplicación al Ejecutivo Estatal, a través de la Secretaría de Desarrollo Económico y Turismo y a los municipios en sus respectivos ámbitos de competencia.
+1. La presente Ley es de interés público y observancia general en todo el territorio del Estado, correspondiendo su aplicación al Ejecutivo Estatal, a través de la Secretaría de Turismo y a los municipios en sus respectivos ámbitos de competencia.
 
-2. La interpretación en el ámbito administrativo, corresponderá al Ejecutivo Estatal, a través de la Secretaría de Desarrollo Económico y Turismo.
+2. La interpretación en el ámbito administrativo, corresponderá al Ejecutivo Estatal, a través de la Secretaría de Turismo.
 
 ###### ARTÍCULO 2.
 
@@ -131,7 +135,9 @@ XX. Reglamento: El Reglamento de la Ley de Turismo para el Estado de Tamaulipas;
 
 XXI. Reglamento de la Ley General: El Reglamento de la Ley General de Turismo;
 
-XXII. Secretaría: La Secretaría de Desarrollo Económico y Turismo del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+XXII. Secretaría: La Secretaría de Turismo del Estado de Tamaulipas;
 
 XXIII. SECTUR: Secretaría de Turismo de la Administración Pública Federal;
 
@@ -237,7 +243,9 @@ XXX. Analizar y coadyuvar con la Secretaría de Seguridad Pública del Estado, e
 
 XXXI. Promover y fomentar con la Secretaría de Educación Pública del Estado la investigación, educación y la cultura turística;
 
-XXXII. Colaborar con la Secretaría del Trabajo y Asuntos Jurídicos del Estado, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incorporando a las personas con discapacidad, así como revisar el marco normativo de la actividad turística con el objeto de promover reformas a las leyes y demás normatividad aplicable que redunden en el fortalecimiento de la infraestructura turística y la calidad de los servicios;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+XXII (SIC). Colaborar con la Secretaría del Trabajo del Estado, en el desarrollo de programas de fomento al empleo turístico, así como de capacitación y profesionalización de la actividad turística, incorporando a las personas con discapacidad, así como revisar el marco normativo de la actividad turística con el objeto de promover reformas a las leyes y demás normatividad aplicable que redunden en el fortalecimiento de la infraestructura turística y la calidad de los servicios;
 
 XXXIII. Operar el Registro Nacional de Turismo en términos de la Ley General;
 
@@ -301,7 +309,9 @@ XVII. Las demás que le confieran la Ley, Ley General y demás normatividad apli
 
 ###### ARTÍCULO 8.
 
-1. La Comisión se integrará por el Secretario de Desarrollo Económico y Turismo, quien la presidirá, y ejercerá, en su caso, voto de calidad, y los Titulares de las Secretarías de Desarrollo Urbano y Medio Ambiente, Desarrollo Social, Finanzas, Obras Públicas, Administración, Seguridad Pública y Desarrollo Rural; así como por todas aquellas dependencias y entidades de la administración pública estatal que determine el Gobernador.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+1. La Comisión se integrará por el Secretario de Turismo, quien la presidirá, y ejercerá, en su caso, voto de calidad, y los Titulares de las Secretarías de Desarrollo Urbano y Medio Ambiente, Bienestar Social, Finanzas, Obras Públicas, Administración, Seguridad Pública y Desarrollo Rural; así como por todas aquellas dependencias y entidades de la administración pública estatal que determine el Gobernador.
 
 2. La Comisión funcionará en los términos que disponga el Reglamento.
 
@@ -337,7 +347,9 @@ VI. Cualquier otra que le otorgue la presente Ley, otras leyes, el Reglamento u 
 
 I. El Gobernador, quien lo presidirá;
 
-II. El Titular de la Secretaría de Desarrollo Económico y Turismo del Estado, quien presidirá en caso de ausencia del Gobernador;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+II. El Titular de la Secretaría de Turismo del Estado, quien presidirá en caso de ausencia del Gobernador;
 
 III. El Titular de la Secretaría de Finanzas;
 
@@ -990,6 +1002,14 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL D
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 P.O. 25 DE NOVIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
