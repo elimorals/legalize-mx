@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-fomento-y-desarrollo-artesanal-del-estado-de-41577"
 country: "mx"
 rank: "ley"
 publication_date: "2004-10-07"
-last_updated: "2006-09-06"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 7 de Octubre de 2004.
 
@@ -53,11 +53,11 @@ II. Proteger las artesanías como patrimonio cultural del Estado; y
 
 III. Reconocer formas de organización artesanal para incorporarlas al desarrollo económico y social del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 2.
 
-La aplicación de esta ley corresponderá, en el ámbito de sus respectivas competencias, a las secretarías de Desarrollo Económico y del Empleo, Desarrollo Social, Cultura y Deporte y de Educación del Estado, sin perjuicio de las atribuciones que otros ordenamientos otorguen a distintas autoridades federales, estatales y municipales.
+La aplicación de esta ley corresponderá, en el ámbito de sus respectivas competencias, a las secretarías de Desarrollo Económico, Bienestar Social y de Educación del Estado, sin perjuicio de las atribuciones que otros ordenamientos otorguen a distintas autoridades federales, estatales y municipales.
 
 ###### ARTICULO 3.
 
@@ -75,11 +75,11 @@ V. Empresa Artesanal.- La unidad económica, ya sea persona física o jurídica 
 
 ### CAPITULO II. DE LAS ACCIONES DE FOMENTO A LAS ARTESANIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 4.
 
-Para el cumplimiento del objetivo de esta ley, las secretarías de Desarrollo Económico y del Empleo y de Desarrollo Social, Cultura y Deporte, en el ámbito de sus atribuciones, deberán establecer mecanismos eficaces de coordinación para implementar las siguientes acciones:
+Para el cumplimiento del objetivo de esta ley, las secretarías de Desarrollo Económico y de Bienestar Social, en el ámbito de sus atribuciones, deberán establecer mecanismos eficaces de coordinación para implementar las siguientes acciones:
 
 I. Fomentar la producción de artesanías locales;
 
@@ -109,13 +109,17 @@ XIII. Establecer relaciones e intercambios con instituciones nacionales y extran
 
 XIV. Las demás que emanen de otras disposiciones normativas en la materia o que el Ejecutivo Estatal les encomiende en apoyo de esta actividad.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 5.
 
-Para la difusión de las artesanías del Estado y abrir líneas de mercado local, nacional e internacional, la Secretaría de Desarrollo Económico y del Empleo deberá convenir acciones con las dependencias competentes del Gobierno Federal, otorgándose prioridad a los programas que al efecto sean competencia de la Secretaría de Relaciones Exteriores, de Economía y de Turismo.
+Para la difusión de las artesanías del Estado y abrir líneas de mercado local, nacional e internacional, la Secretaría de Desarrollo Económico deberá convenir acciones con las dependencias competentes del Gobierno Federal, otorgándose prioridad a los programas que al efecto sean competencia de la Secretaría de Relaciones Exteriores, de Economía y de Turismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 6.
 
-La Secretaría de Desarrollo Económico y del Empleo brindará apoyo a las comunidades de artesanos mediante la promoción de talleres y cursos de capacitación tendientes a:
+La Secretaría de Desarrollo Económico brindará apoyo a las comunidades de artesanos mediante la promoción de talleres y cursos de capacitación tendientes a:
 
 I. Promover los elementos esenciales de las artesanías locales;
 
@@ -163,15 +167,17 @@ e) Promoción de las diferentes formas de asociación para que los artesanos con
 
 I. Por el sector público.
 
-a).- El Secretario de Desarrollo Económico y del Empleo;
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+a) El Secretario de Desarrollo Económico;
+
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+b) El Secretario de Bienestar Social;
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
-b).- El Secretario de Desarrollo Social, Cultura y Deporte;
-
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
-
-c).- El Secretario de Educación; y (sic)
+c).- El Secretario de Educación; y
 
 d).- El representante del Sistema para el Desarrollo Integral de la Familia en el Estado;
 
@@ -360,5 +366,13 @@ ATENTAMENTE - "SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL 
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
