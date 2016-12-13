@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2016-11-09"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 113 DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE DICIEMBRE DE 2016 EN LA G.O. DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.O. 13 DE DICIEMBRE DE 2016.]</small>
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -235,13 +235,33 @@ XI.- Enfermo en situación terminal: Paciente con diagnóstico sustentado en dat
 
 XII.- Medidas desproporcionadas: Las que constituyen una carga grave para el enfermo en situación terminal, entendiéndose como aquellas medidas cuyo perjuicio es mayor que los beneficios esperados;
 
-> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2016) (F. DE E., G.O. 13 DE DICIEMBRE DE 2016)
 
-XIII.- Tratamiento del dolor: Todas aquellas medidas destinadas a mejorar la calidad de vida del paciente en situación terminal, que prescribe y suministra un profesionista de la salud, orientadas a reducir los sufrimientos físicos y emocionales, ocasionados por una enfermedad terminal; y
+XIII.- Tratamiento del dolor: Todas aquellas medidas destinadas a mejorar la calidad de vida del paciente en situación terminal, que prescribe y suministra un profesionista de la salud, orientadas a reducir los sufrimientos físicos y emocionales, ocasionados por una enfermedad terminal;
 
-> <small>(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2016)</small>
+(ADICIONADA, G.O. 9 DE NOVIEMBRE DE 2016) (F. DE E., G.O. 13 DE DICIEMBRE DE 2016)
 
-XIV.- Enfermedad terminal: Aquella que no tiene tratamiento específico curativo o con capacidad para retrasar la evolución y que por ello conlleva a la muerte en un tiempo variable, generalmente inferior a seis meses; es progresiva; provoca síntomas intensos, multifactoriales, cambiantes y conlleva un gran sufrimiento físico y psicológico en la familia y el paciente.
+XIV.- Enfermedad terminal: Aquella que no tiene tratamiento específico curativo o con capacidad para retrasar la evolución y que por ello conlleva a la muerte en un tiempo variable, generalmente inferior a seis meses; es progresiva; provoca síntomas intensos, multifactoriales, cambiantes y conlleva un gran sufrimiento físico y psicológico en la familia y el paciente;
+
+(ADICIONADA, G.O. 20 DE JULIO DE 2015) (F. DE E., G.O. 13 DE DICIEMBRE DE 2016)
+
+XV.- Establecimiento: Lugar en que se venden, distribuyen o ingieren bebidas alcohólicas. Se excluye el caso del consumo gratuito de bebidas alcohólicas en domicilios particulares o eventos particulares;
+
+(ADICIONADA, G.O. 20 DE JULIO DE 2015) (F. DE E., G.O. 13 DE DICIEMBRE DE 2016)
+
+XVI.- Bebidas alcohólicas: Todas las que contengan alcohol etílico en una proporción mayor al 2% en volumen, y que se clasifican de la siguiente manera:
+
+d) (sic) De bajo contenido alcohólico: Son productos que contienen hasta 6 grados GAY LUSSAC (G. L.).
+
+e) De medio contenido alcohólico: Son productos que contienen entre 6.1 grados G. L. y 20 grados G. L.
+
+f) De alto contenido alcohólico: Son productos que contienen entre 20.1 grados G. L. y 55 grados G. L.
+
+Los productos cuyo contenido alcohólico sea mayor de 55 grados G. L. se consideran como alcohol no potable y no se autorizará su venta o suministro al público, para ingestión directa; y
+
+(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE FEBRERO DE 2016) (F. DE E., G.O. 13 DE DICIEMBRE DE 2016)
+
+XVII.- Salud Sexual y Reproductiva: Es el enfoque integral para analizar y responder a las necesidades de hombres y mujeres respecto a la sexualidad y la reproducción, otorgar la capacidad de disfrutar de una vida sexual responsable y sin riesgos, garantizar el derecho de decisión y frecuencia de procrear y fomentar un estado general de bienestar físico, mental y social, en todos los aspectos relacionados con el sistema reproductivo, sus funciones y procesos.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
