@@ -4,7 +4,7 @@ identifier: "COA-codigo-de-procedimientos-familiares-para-el-estado-de-110811"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-15"
-last_updated: "2016-07-01"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # CODIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
-
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 477 PUBLICADO EN EL P.O. 10 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS 180 DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EN EL DISTRITO JUDICIAL QUE DETERMINE EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, CONFORME AL ACUERDO QUE EMITA PARA TALES EFECTOS]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -321,7 +321,9 @@ VIII. En los procedimientos de adopción, el del domicilio de la persona por ado
 
 IX. En los procedimientos que versen sobre paternidad y maternidad, el del domicilio del hijo o de la hija.
 
-X. En las controversias sobre anulación o rectificación de actas del estado civil, el juzgado del domicilio de la Oficialía del Registro Civil correspondiente.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+X. En las controversias sobre anulación o rectificación de actas del estado civil, el juzgado del domicilio de la parte interesada.
 
 ###### Artículo 32.
 
@@ -2484,3 +2486,15 @@ SEGUNDO.- En los distritos judiciales en los cuales no haya iniciado su vigencia
 TERCERO.- Las reformas del Código Civil para el Estado de Coahuila de Zaragoza contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en los distritos judiciales o municipios en los que no haya iniciado su vigencia la Ley para la Familia de Coahuila de Zaragoza.
 
 Una vez que entre en vigor la Ley para la Familia conforme al primero y segundo transitorios del decreto 477, quedarán derogados los artículos del Código Civil para el Estado de Coahuila de Zaragoza incluidos en el presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 620.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 31 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
