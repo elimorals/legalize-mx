@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-civil-para-el-estado-de-tamaulipas-22002"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2010-12-16"
+last_updated: "2016-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-LEY DE PROTECCION CIVIL PARA EL ESTADO DE TAMAULIPAS.
+LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio de 2001.
 
@@ -225,7 +225,7 @@ VIII.- En general, la información relativa a las Unidades de Protección Civil,
 
 Debe integrarse además al Sistema Estatal de Protección Civil, la información aportada por las Delegaciones, Representaciones y Dependencias de la Administración Pública Federal que desarrollen actividades en el Estado, tendientes a la ejecución de programas de prevención, auxilio y apoyo de la población o que atiendan asuntos relacionados con el ramo.
 
-### CAPITULO III. DEL CONSEJO DE PROTECCION CIVIL DEL ESTADO DE TAMULIPAS
+### CAPITULO III. DEL CONSEJO DE PROTECCION CIVIL DEL ESTADO DE TAMULIPAS (SIC)
 
 ###### ARTICULO 13.
 
@@ -251,9 +251,9 @@ III.- Un Secretario Técnico, que será el Director de Protección Civil del Est
 
 IV.- Un Diputado, representante del Congreso del Estado, quien asistirá con carácter de vocal;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-V.- El Secretario de Desarrollo Social, Cultura y Deporte del Estado, quien asistirá con carácter de vocal;
+V.- El Secretario de Bienestar Social del Estado, quien asistirá con carácter de vocal;
 
 > <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
@@ -627,7 +627,7 @@ I.- Formular los reglamentos de protección civil municipal, en congruencia con 
 
 II.- Prevenir y controlar las emergencias y contingencias que pudieran presentarse en el ámbito de su competencia;
 
-III.- Dar respuesta ante la (sic) situaciones de riesgo, alto riesgo, emergencia o desastre que se presenten en el Municipio, sin perjuicio de solicitar apoyo a las autoridades de protección civil; y (sic)
+III.- Dar respuesta ante la (sic) situaciones de riesgo, alto riesgo, emergencia o desastre que se presenten en el Municipio, sin perjuicio de solicitar apoyo a las autoridades de protección civil; y
 
 IV.- Concertar acciones con los sectores público, social y privado en materia de protección civil conforme a la ley;
 
@@ -967,7 +967,7 @@ Tal presunción no podrá ser invocada por autoridad, si ésta autorizó la inst
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
-ARTICULO 49 BIS.- En los establecimientos deberá colocarse, en sitios visibles, equipos de seguridad, señales preventivas e informativas y equipo reglamentario.
+Artículo 49 bis.- En los establecimientos deberá colocarse, en sitios visibles, equipos de seguridad, señales preventivas e informativas y equipo reglamentario.
 
 > <small>(F. DE E., P.O. 25 DE JULIO DE 2001)</small>
 
@@ -1427,7 +1427,7 @@ Por lo tanto, mando se imprima, publique, circule y se le de debido cumplimiento
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas a los veintiocho días del mes de mayo del año de dos mil uno.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
@@ -1472,3 +1472,11 @@ La Dirección General de Protección Civil del Estado, deberá instrumentar una 
 ###### ARTICULO CUARTO.
 
 Las personas morales y las públicas, así como las empresas o instituciones deberán implementar las medidas que correspondan, con base al presente Decreto y la Ley de Protección Civil, su Reglamento y aquéllas previsiones legales conducentes, en un término no mayor a 180 días contados a partir de la vigencia del presente Decreto.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
