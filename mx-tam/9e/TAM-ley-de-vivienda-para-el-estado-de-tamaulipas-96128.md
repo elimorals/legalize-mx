@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-vivienda-para-el-estado-de-tamaulipas-96128"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2016-04-21"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,377 +21,487 @@ state: "TAM"
 ---
 # LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS
 
-LEY NUMERO 276 QUE CREA LA UNIVERSIDAD POPULAR AUTONOMA DE VERACRUZ
+LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL:16 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
-Ley publicada en la Gaceta Oficial del Estado de Veracruz, el lunes 1 de agosto de 2011.
+Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
+EGIDIO TORRE CANTÚ, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-Xalapa-Enríquez, julio 15 de 2011
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-Oficio número 335/2011
+Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
-Javier Duarte de Ochoa, Gobernador del Estado Libre y Soberano de Veracruz de Ignacio de la Llave, a sus habitantes sabed:
+LA SEXAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 58 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
-Que la Sexagésima Segunda Legislatura del Honorable Congreso del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación:
+D E C R E T O No. LXI-907
 
-Al margen un sello que dice: Estados Unidos Mexicanos.- Poder Legislativo.-Estado Libre y Soberano de Veracruz de Ignacio de la Llave.
+MEDIANTE EL CUAL SE EXPIDE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS.
 
-LA SEXAGÉSIMA SEGUNDA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL, 18 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; 75 Y 76 DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE LA SIGUIENTE:
+LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS
 
-LEY NÚMERO 276
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-QUE CREA LA UNIVERSIDAD POPULAR AUTÓNOMA DE VERACRUZ
+###### ARTÍCULO 1.
 
-### CAPÍTULO I. Disposiciones Generales
+1. Esta Ley reglamenta en el orden estatal lo dispuesto en el párrafo séptimo del artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y en el párrafo sexto del artículo 16 de la Constitución Política del Estado de Tamaulipas, sobre el derecho social de acceso a vivienda digna y decorosa para las familias.
 
-###### Artículo 1.
+2. Las disposiciones de la presente Ley son de orden público, interés social y observancia obligatoria para las instituciones públicas del Estado de Tamaulipas; deberán aplicarse bajo principios de equidad e inclusión social, de manera que todas las familias puedan ejercer su derecho constitucional a la vivienda, sin importar el origen étnico o nacional, género, salud, religión, opiniones, preferencias o el estado civil de sus miembros.
 
-Se crea la Universidad Popular Autónoma de Veracruz como organismo descentralizado de la administración pública del Estado de Veracruz de Ignacio de la Llave, con la participación pública y privada que prevé este ordenamiento, que gozará de personalidad jurídica y patrimonio propios y estará sectorizada a la Secretaría de Educación del Poder Ejecutivo Estatal.
+###### ARTÍCULO 2.
 
-Como parte integrante del sistema educativo estatal, esta Institución tiene como objeto la impartición de servicios educativos de nivel medio superior y educación superior, de manera especial en aquellas comunidades de la entidad con alto rezago educativo.
+La presente ley tiene por objeto:
 
-El domicilio oficial de la Universidad estará en la capital del Estado de Veracruz de Ignacio de la Llave y, además, podrá contar con las sedes necesarias para el cumplimiento de su objeto.
+I. Fomentar la producción y autoproducción de vivienda, dirigida preferentemente a familias de menores ingresos, en situación de vulnerabilidad, o de cooperativistas y trabajadores no afiliados a algún régimen de vivienda, así como a personas con discapacidad;
 
-###### Artículo 2.
+II. Regular las políticas, programas, atribuciones y acciones de las autoridades competentes en materia de suelo para vivienda y vivienda (sic);
 
-La Universidad Popular Autónoma de Veracruz normará su actuación por la doctrina contenida en los artículos 3° de la Constitución Política de los Estados Unidos Mexicanos y 10 de la Constitución Política del Estado de Veracruz de Ignacio de la Llave, así como en la Ley de Educación para el Estado; y por lo dispuesto en esta Ley, en la Ley Orgánica del Poder Ejecutivo del Estado, en la Ley del Ejercicio Profesional para el Estado y en la normatividad específica que emitan sus autoridades.
+III. Establecer sistemas, órganos, instrumentos y estímulos a la producción, adquisición, ampliación, mejoramiento y distribución de vivienda;
 
-Para los efectos del presente ordenamiento, las menciones que en éste se realicen de la Universidad, se entenderán referidas a la Universidad Popular Autónoma de Veracruz
+IV. Fijar las bases para la coordinación, concertación y colaboración entre los distintos sectores en estas materias;
 
-###### Artículo 3.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-La educación que imparta la Universidad se hará con pleno respeto a los principios de libertad de cátedra e investigación y de libre examen y discusión de las ideas, conforme a las modalidades educativas que apruebe su Junta de Gobierno.
+V. Regular la calidad y sustentabilidad de la vivienda;
 
-###### Artículo 4.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-Las modalidades educativas a que se refiere el artículo anterior, se realizarán, preferentemente, de la manera siguiente:
+VI. Fomentar, propiciar e impulsar la participación de los sectores social y privado en la adquisición y urbanización de suelo y en la producción y uso de vivienda, en todos sus tipos y modalidades; y
 
-I. En horarios flexibles, y se aplicarán en la educación abierta, semi-escolarizada, a distancia y en las que sean necesarias para el cumplimiento de su objeto;
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-II. En ciclos escolares y jornadas diferentes a las previstas en el calendario escolar oficial; y
+VII. Fomentar la prevención de la salud en la construcción de vivienda social.
 
-III. En los espacios educativos de orden federal, estatal o municipal, así como con instituciones públicas o privadas, con las que se celebren los convenios, acuerdos o contratos respectivos.
+###### ARTÍCULO 3.
 
-### CAPÍTULO II. Del Patrimonio de la Universidad
+Para los efectos de esta ley, se entenderá por:
 
-###### Artículo 5.
+I. Acción de vivienda: la actividad tendiente a la construcción, autoconstrucción, autoproducción, financiamiento, distribución, uso, mejoramiento, ampliación, equipamiento y dotación de servicios urbanos para la vivienda;
 
-La Universidad, para dar cumplimiento a su objeto legal y fines, se apoyará en la labor social y voluntaria que realice su personal administrativo y académico, el de carácter solidario u honorífico, y sus egresados. El servicio social y el combate a la pobreza son tareas de todos los integrantes de la Universidad.
+II. Ampliación de vivienda: la adición de espacios habitables a una vivienda;
 
-###### Artículo 6.
+III. Asistencia técnica: la actividad que desarrollen especialistas en apoyo de los beneficiarios de políticas, acciones o estímulos de vivienda y suelo, a lo largo de los respectivos procesos, hasta su materialización;
 
-La presente Ley es de interés público y de observancia general en el Estado de Veracruz de Ignacio de la Llave. Las autoridades universitarias, el personal académico, alumnos y egresados estarán obligados a acatar sus disposiciones y la demás normativa interior que expida su órgano de gobierno.
+IV. Autoconstrucción: el proceso de construcción de vivienda realizado directamente por sus usuarios en forma individual, familiar o colectiva;
 
-###### Artículo 7.
+V. Autoproducción: el proceso de gestión de suelo, autoconstrucción, construcción mediante contratación de terceros y distribución de vivienda, bajo el control directo de sus usuarios de forma individual, familiar o colectiva;
 
-El patrimonio de la Universidad se constituye por:
+VI. Beneficiario: la persona beneficiada con acciones, programas, estímulos, créditos o subsidios para vivienda o suelo destinado a la vivienda;
 
-I. Los bienes muebles e inmuebles y demás recursos que le transfieran los gobiernos federal, estatal y municipal;
+VII. Crédito: los préstamos que se asignan para adquirir suelo o construir, adquirir, rehabilitar, mejorar, ampliar o complementar una vivienda;
 
-II. Las aportaciones de los gobiernos federal, estatal o municipal;
+VIII. Estímulos: las medidas financieras, fiscales, administrativas o jurídicas que establezcan los diferentes órdenes de gobierno para promover y facilitar la participación de los sectores social y privado en la ejecución de acciones, procesos y programas de vivienda;
 
-III. Las aportaciones, donaciones, herencias, legados y demás derechos o bienes que reciba de personas físicas o morales, públicas o privadas, nacionales o extranjeras;
+IX. Instituto: El Instituto Tamaulipeco de Vivienda y Urbanismo;
 
-IV. Los derechos que perciba por la prestación de servicios, por la renta de sus bienes, las concesiones, permisos, licencias y autorizaciones que otorgue conforme a las disposiciones aplicables;
+X. Mejoramiento de vivienda: la reparación, reforzamiento estructural, rehabilitación o renovación de viviendas deterioradas física o funcionalmente;
 
-V. Los rendimientos, recuperaciones y demás ingresos que obtenga de la inversión de los recursos a que se refieren las fracciones anteriores; y
+XI. Producción social de vivienda: las acciones realizadas por autoproductores y autoconstructores que operan sin fines de lucro, orientada prioritariamente a atender necesidades habitacionales de familias de menores ingresos o en situación de vulnerabilidad, cooperativistas, personas con discapacidad, y trabajadores no afiliados a algún régimen de vivienda; y la realizada por procedimientos autogestivos y solidarios que dan prioridad al valor de uso de la vivienda sobre la definición mercantil, mezclando recursos, procedimientos constructivos y tecnologías con base en sus propias necesidades, capacidad de gestión y toma de decisiones;
 
-VI. Los demás bienes o derechos que reciba por cualquier título legal.
+XII. Productor social de vivienda: la persona física o moral que sin fines de lucro, produce vivienda en forma individual o colectiva;
 
-###### Artículo 8.
+XIII. Secretaría: la Secretaría de Desarrollo Urbano y Medio Ambiente;
 
-La Universidad administrará su patrimonio con sujeción a las disposiciones jurídicas y demás instrumentos legales aplicables, para destinarlo al cumplimiento de sus fines.
+XIV. Sistema: el Sistema Estatal de Vivienda;
 
-> <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2019)</small>
+XV. Situación de vulnerabilidad: la exposición a riesgos, contingencias o presiones a las que está sujeto un individuo o una familia, y la falta de medios o capacidades para afrontarlos sin soportar deterioros o pérdidas patrimoniales;
 
-Todo convenio que la Universidad celebre con cualquier persona física o moral y que en el cumplimiento de su objeto se modifique el patrimonio de la Institución, deberá ser enterado por el Rector dentro de los informes trimestrales que formulará y someterá a la aprobación de la Junta de Gobierno.
+XVI. Suelo: los terrenos física y legalmente susceptibles de ser destinados predominantemente al uso habitacional; y,
 
-###### Artículo 9.
+XVII. Vivienda digna y decorosa: el bien inmueble privado, de costo razonable, proveniente de la inversión privada, social, pública o mixta, con espacio suficiente, accesibilidad física, seguridad de tenencia, estabilidad y durabilidad estructurales, iluminación y ventilación suficientes, infraestructura básica que incluya servicios de abastecimiento de agua, drenaje sanitario, energía eléctrica, factores apropiados de calidad del medio ambiente y relacionados con la salud, desplazamiento adecuado, acceso al trabajo y servicios básicos.
 
-Los bienes inmuebles de la Universidad destinados a la prestación del servicio público educativo estarán exentos del pago de contribuciones locales y municipales.
+###### ARTÍCULO 4.
 
-###### Artículo 10.
+El fomento y desarrollo de la vivienda y suelo tienen por objeto:
 
-Son atribuciones de la Universidad:
+I. Ofrecer a familias de menores ingresos o en situación de vulnerabilidad, de cooperativistas, personas con discapacidad, y trabajadores no afiliados a algún régimen de vivienda, alternativas de acceso a suelo con servicios básicos y a la vivienda, su autoconstrucción, ampliación y mejoramiento, así como a materiales y técnicas, con criterios de organización, capacitación, asistencia y sustentabilidad;
 
-I. Gozar de autonomía técnica y de gestión para diseñar y aprobar sus planes y programas de estudio, en los diversos grados y modalidades que imparta, de conformidad con los principios de libertad de cátedra e investigación y de libre examen y discusión de las ideas;
+II. Obtener la mayor calidad en la construcción de las viviendas;
 
-II. Impartir educación media superior y superior, para formar estudiantes y profesionales con conocimientos suficientes y pertinentes que el Estado y el país requieran;
+III. Fortalecer la seguridad jurídica de la tenencia de la vivienda y suelo;
 
-III. Formular, diseñar y aprobar sus planes educativos y programas de estudios, así como establecer las modalidades pertinentes para atender la demanda en educación técnica, media superior, superior, posgrado, capacitación y formación para el trabajo e investigación, de la población adulta, en atención a los requerimientos de las comunidades que permitan la promoción del desarrollo general;
+IV. Respetar el entorno ambiental y la preservación y uso eficiente de los recursos naturales en la construcción de viviendas y en la urbanización del suelo;
 
-IV. Expedir y otorgar títulos, certificados de estudios, grados académicos, diplomas, cartas de pasante y constancias, de conformidad con las disposiciones federales y estatales aplicables;
+V. Constituir las acciones de vivienda y suelo como factor de ordenamiento territorial, desarrollo urbano y sustentabilidad;
 
-V. Darse la normatividad interior necesaria para su debida organización y funcionamiento, así como su escudo, lema, himno y sello oficiales, en términos de la legislación aplicable;
+VI. Reubicar a familias que habiten en zonas de riesgo, en asentamientos humanos irregulares, o damnificadas por algún desastre;
 
-VI. Convenir con personas físicas o morales, públicas o privadas, nacionales o extranjeras, acciones de coordinación, colaboración y participación económica, en términos de la legislación aplicable;
+VII. Adecuar los proyectos urbanos y arquitectónicos de vivienda, sus procesos productivos y la utilización de materiales, a los rasgos culturales y locales;
 
-VII. Tener como principio la educación permanente y el compromiso de impulsar el autodidactismo creativo a través del aprendizaje autónomo, responsable, auto-organizado, con base en la colaboración recíproca, para atender la demanda educativa e incluir a la población en la sociedad del conocimiento;
+VIII. Distribuir equilibradamente las acciones de vivienda en localidades urbanas y rurales, y fomentar desarrollos urbanos integrales sustentables; y,
 
-VIII. Impartir servicios de educación permanente en los niveles de educación media superior y superior, así como servicios educativos de capacitación y formación para el trabajo; y realizar labores de investigación educativa acorde a sus fines;
+IX. Proporcionar a la población información suficiente para la toma de decisiones sobre las tendencias del desarrollo urbano en su localidad, y las opciones que ofrecen los programas públicos de suelo y vivienda.
 
-IX. Impulsar la formación de profesionales en los diversos campos del saber, vinculados con las necesidades y el desarrollo general, que sean capaces de aprender durante toda la vida, de dar respuesta creativa a los problemas y necesidades sociales, de estar conscientes de su articulación con el entorno y de generar conocimiento científico y humanístico;
+### CAPÍTULO II. AUTORIDADES
 
-X. Desempeñar tareas de docencia, investigación, difusión, publicación y extensión de los servicios; además de procurar el desenvolvimiento de una sociedad sustentable vinculada con los diversos requerimientos de una educación permanente que promueva el desarrollo de un aprendizaje significativo para la vida;
+###### ARTÍCULO 5.
 
-XI. Ofrecer las modalidades educativas que sean necesarias para atender a los grupos de aprendizaje y su autoformación;
+Son autoridades competentes para la aplicación de esta Ley:
 
-XII. Cuidar que la educación que imparta responda a un proyecto democrático, nacionalista y sustentable, para contribuir a la mejor convivencia humana, así como aprovechar de forma adecuada los recursos naturales y, con base en los avances de la ciencia, luchar contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios; y promover y fortalecer los principios de fraternidad e igualdad de derechos de todos los seres humanos;
+I. El Gobernador del Estado;
 
-XIII. Promover las acciones que enaltezcan el desarrollo de los derechos humanos y la equidad de género, en aras de la dignidad de la sociedad veracruzana y de la comunidad estudiantil;
+II. Los Ayuntamientos;
 
-XIV. Otorgar, a quienes se distingan por su trayectoria académica, científica, cultural o como benefactores de la Universidad, grados Honoris Causa, así como otras distinciones y reconocimientos académicos;
+III. La Secretaría de Desarrollo Urbano y Medio Ambiente;
 
-XV. Acreditar, revalidar, convalidar y reconocer estudios realizados en instituciones nacionales o extranjeras, de acuerdo con la legislación aplicable;
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-XVI. Incorporar o desincorporar a instituciones educativas, de conformidad con la normativa aplicable;
+IV. La Secretaría de Bienestar Social;
 
-XVII. Promover la participación de la sociedad en general y de los egresados para dar cumplimiento a su objeto legal y fines, así como para el financiamiento e integración de su patrimonio;
+V. El Instituto Tamaulipeco de Vivienda y Urbanismo; y,
 
-XVIII. Desarrollar líneas y proyectos de investigación inherentes a su objeto;
+VI. Los organismos municipales de vivienda y suelo.
 
-XIX. Impulsar el desarrollo de la educación e investigación científica y tecnológica;
+###### ARTÍCULO 6.
 
-XX. Procurar la adecuación de sus planes y programas de estudios al sistema estatal de créditos y al sistema nacional de créditos, a fin de facilitar el tránsito del educando de un nivel educativo a otro;
+Compete al Gobernador del Estado:
 
-XXI. Gestionar, en términos de ley, ante las autoridades competentes, la exención de impuestos a los subsidios, donaciones y aportaciones que reciba de personas físicas y morales, públicas o privadas, nacionales o extranjeras;
+I. Establecer las políticas estatales de vivienda y suelo, asistiéndose por el Consejo Estatal de Vivienda;
 
-XXII. Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
+II. Promover la participación de los Ayuntamientos en la solución de los problemas habitacionales de sus comunidades;
 
-XXIII. Promover un modelo educativo flexible que permita apoyar el desarrollo de la capacidad de apropiación, aplicación y generación del conocimiento, que serán evaluados y certificados; además, impulsará el compromiso social permanente;
+III. Convenir programas y acciones de vivienda y suelo con el Gobierno Federal y los Ayuntamientos;
 
-XXIV. Organizar cursos, foros, programas y talleres de educación ambiental, con la finalidad de concientizar a la población estudiantil, y crear en ella habilidades y actitudes necesarias, tendentes a comprender y apreciar la relación mutua entre el hombre, su cultura y el medio biofísico circundante; y
+IV. Apoyar a los Ayuntamientos que lo soliciten, en la planeación, gestión de recursos, operación de programas y ejecución de acciones de vivienda y suelo;
 
-XXV. Las demás que le otorgue la presente Ley, las que expresamente le atribuyan las leyes del Estado, la normatividad universitaria y demás disposiciones aplicables.
+V. Fomentar un sistema de estímulos a los Ayuntamientos que aporten recursos para ejecución de programas de vivienda y suelo;
 
-### CAPÍTULO III. De la Organización y Funcionamiento de la Universidad
+VI. Promover la participación de los sectores público, social y privado en la instrumentación de acuerdos, convenios, programas, estímulos y acciones de vivienda y suelo. En esta tarea se alentará la participación de las instituciones de educación;
 
-###### Artículo 12.
+VII. Informar a la sociedad sobre las acciones que realice en materia de vivienda y suelo; y
 
-La Junta de Gobierno es el órgano máximo de dirección y autoridad de la Universidad, que se integra por:
+VIII. Las demás que le confieran ésta y las demás leyes aplicables.
 
-I. El Presidente, que será el Gobernador del Estado;
+###### ARTÍCULO 7.
 
-II. El Secretario de Educación;
+Compete a los Ayuntamientos:
 
-III. El Secretario de Gobierno;
+I. Expedir disposiciones administrativas por las que se establezcan normas arquitectónicas y de edificación de vivienda;
 
-IV. El Secretario de Finanzas y Planeación;
+II. Propiciar que las familias tengan acceso a vivienda digna y decorosa;
 
-V. El Secretario de Salud;
+III. Formular, aprobar, ejecutar y administrar el Programa Municipal de Vivienda y Suelo, así como evaluar y vigilar su cumplimiento;
 
-VI. El Presidente de la Comisión Permanente de Educación y Cultura del Congreso del Estado; y
+IV. Planificar, programar, presupuestar y ejecutar acciones de vivienda y suelo, preferentemente para beneficiar a familias de menores ingresos o en situación de vulnerabilidad, cooperativistas, personas con discapacidad, y trabajadores no afiliados a algún régimen de vivienda;
 
-VII. Tres representantes de los académicos de la Universidad, a propuesta del Rector.
+V. Establecer reservas territoriales para desarrollo habitacional;
 
-El Rector fungirá como Secretario Técnico de la Junta y el Contralor General del Estado, como Comisario de la misma. El cargo de miembro de la Junta de Gobierno será honorífico.
+VI. Coordinarse con instancias estatales y federales a fin de recibir apoyo para la planeación, gestión de recursos, operación de programas y ejecución de acciones de vivienda y suelo;
 
-###### Artículo 13.
+VII. Coordinarse con otros municipios y participar en proyectos intermunicipales de vivienda y suelo;
 
-La Junta de Gobierno tomará sus acuerdos o resoluciones por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad. Los miembros de la Junta de Gobierno previstos en las fracciones I a VII del artículo anterior tendrán derecho a voz y voto; el Secretario Técnico y el Comisario sólo tendrán derecho a voz.
+VIII. Formar parte del Sistema Estatal de Vivienda;
 
-### CAPÍTULO IV. De las Autoridades de la Universidad
+IX. Conformar la instancia institucional responsable de las acciones municipales de vivienda y suelo;
 
-###### Artículo 11.
+X. Coadyuvar con el Instituto en el fomento a la autoconstrucción y autoproducción de vivienda y producción de materiales para construcción;
 
-Son autoridades de la Universidad:
+XI. Otorgar reconocimientos, estímulos y premios a personas físicas o morales que se hayan distinguido en la ejecución, promoción, fomento y difusión de acciones, así como de investigación en materia de vivienda y suelo;
 
-I. La Junta de Gobierno;
+XII. Contribuir a la integración, desarrollo y actualización de la información, evaluación e indicadores de vivienda y suelo;
 
-II. El Rector;
+XIII. Vigilar el cumplimiento del Reglamento de Construcciones para el Estado o disposiciones administrativas relativas a licencias de construcción, para asegurar la calidad de la vivienda;
 
-III. El Consejo Técnico Académico; y
+XIV. Promover la participación de la comunidad en la formulación, ejecución y evaluación de la política municipal de vivienda y suelo;
 
-IV. Las Direcciones, Subdirecciones, Jefaturas de Departamento, o equivalentes, que autorice su normativa interior, estrictamente necesarias para el cumplimiento de su objeto y fines.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-#### SECCIÓN I. DE LA JUNTA DE GOBIERNO
+XV. Instalar la ventanilla única de trámites relacionados con la vivienda;
 
-###### Artículo 14.
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-Los integrantes de la Junta de Gobierno, en caso de ausencia, podrán designar un suplente, con los mismos derechos y obligaciones que el propietario. En caso de ausencia del Presidente, será suplido por quien éste designe de entre los miembros de la Junta de Gobierno.
+XVI. Fomentar en el ámbito de su competencia el establecimiento de medidas arquitectónicas e instalaciones, para que sean consideradas en la construcción de vivienda social, ponderando el establecimiento de telas mosquiteras, a fin de coadyuvar en la prevención de la salud, además de elevar su calidad y sustentabilidad; y
 
-A las sesiones de la Junta de Gobierno se podrá invitar a los representantes de orden federal, estatal y municipal, así como de asociaciones civiles, cuyo objeto esté relacionado con la Universidad, los cuales asistirán con el carácter de invitados y tendrán derecho a voz pero no a voto.
+XVII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
-###### Artículo 15.
+###### ARTÍCULO 8.
 
-La Junta de Gobierno, a convocatoria del Secretario Técnico, sesionará de manera ordinaria cuando menos cuatro veces al año, y de manera extraordinaria las veces que sea necesario.
+Compete a la Secretaría de Desarrollo Urbano y Medio Ambiente:
 
-###### Artículo 16.
+I. Vigilar que los programas y acciones de vivienda y suelo se sujeten a las disposiciones aplicables en materia de urbanismo, ordenamiento territorial y medio ambiente;
 
-Son atribuciones de la Junta de Gobierno:
+II. Definir lineamientos de información y estadística en materia de desarrollo urbano, ordenamiento territorial y medio ambiente;
 
-I. Cumplir y hacer cumplir las disposiciones de esta Ley y demás normativa interior de la Universidad;
+III. Establecer convenios de asistencia técnica e intercambio de información en la materia con organismos nacionales e internacionales;
 
-II. Aprobar, a propuesta del Rector en funciones de Secretario Técnico, la normativa interior que reglamente la organización y funcionamiento de la Universidad;
+IV. Vincular los programas estatales en materia de movilidad urbana con las acciones de vivienda y suelo, a fin de que guarden congruencia entre si;
 
-III. Autorizar la enajenación, a título oneroso o gratuito, de los bienes muebles de la Universidad que hubieren perdido su utilidad;
+V. Instrumentar mecanismos indicativos de las tendencias del desarrollo social, a mediano y largo plazo;
 
-IV. Autorizar la adquisición de bienes muebles e inmuebles, de conformidad con las disposiciones aplicables;
+VI. Contribuir a la elaboración de la política estatal de vivienda y suelo; y
 
-V. Aprobar las acciones de desconcentración técnica y administrativa de la Universidad;
+VII. Las demás que le otorguen esta Ley y otros ordenamientos.
 
-VI. Aprobar, a propuesta de su Presidente, el nombramiento del Rector;
+###### ARTÍCULO 9.
 
-VII. Autorizar, a propuesta del Rector, las políticas generales y definir las prioridades educativas de la Universidad;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-VIII. Aprobar el informe anual del Rector de la Universidad;
+Compete a la Secretaría de Bienestar Social:
 
-IX. Autorizar el proyecto de presupuesto de egresos de la Universidad, para su inclusión en el Presupuesto de Egresos del Estado;
+I. Impulsar las acciones y actividades de los sectores público, social y privado a favor de la adquisición de vivienda para familias de menores ingresos o en situación de vulnerabilidad, cooperativas, personas con discapacidad y trabajadores no afiliados a algún régimen de vivienda social;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2019)</small>
+II. Propiciar la constitución de la vivienda aludida en la fracción anterior en el patrimonio familiar, conforme a las disposiciones constitucionales y civiles aplicables;
 
-X. Aprobar el programa operativo anual que someta a consideración el Rector de la Universidad, el programa de adquisiciones, arrendamientos y servicios, conforme a las disposiciones aplicables, así como los informes trimestrales de gestión financiera que se presenten al Congreso del Estado, los cuales deberán precisar el estado actual del patrimonio de la Universidad, así como las modificaciones que éste haya sufrido derivado de la celebración de convenios con personas físicas o morales; y
+III. Contribuir a la expedición y obtención del título de propiedad inherente a la vivienda familiar previsto en la fracción I de este precepto;
 
-XI. Las demás que le otorgue la presente Ley, las que expresamente le atribuyan las leyes del Estado, la normatividad universitaria y demás disposiciones aplicables.
+IV. Contribuir a la elaboración de la política estatal de vivienda y suelo; y
 
-#### SECCIÓN II. DEL RECTOR DE LA UNIVERSIDAD
+V. Las demás que le confieran esta ley y otras disposiciones aplicables.
 
-###### Artículo 17.
+###### ARTÍCULO 10.
 
-El Rector es la autoridad ejecutiva y el representante legal de la Universidad. Durará en su desempeño cuatro años, pudiendo ser designado para un segundo periodo.
+Compete al Instituto:
 
-###### Artículo 18.
+I. Elaborar, ejecutar, promover, instrumentar, conducir, coordinar, dar seguimiento y evaluar al Programa Institucional de Vivienda y Suelo, y al Programa Operativo Anual, así como proponer adecuaciones a los mismos, de conformidad con los objetivos y prioridades establecidos en el Programa Sectorial respectivo y en el Plan Estatal de Desarrollo;
 
-Para ser Rector de la Universidad se requiere:
+II. Coordinar el Sistema Estatal de Vivienda;
 
-I. Ser veracruzano, mayor de treinta y cinco años de edad;
+III. Coordinar, concertar y promover programas y acciones de vivienda y suelo con los sectores público, social y privado;
 
-II. Poseer título de licenciatura expedido por autoridad o institución legalmente facultada para ello y contar, preferentemente, con estudios de posgrado y obra reconocida;
+IV. Impulsar la disposición y aprovechamiento de suelo urbanizable;
 
-III. Contar con amplia experiencia académica y prestigio profesional; y
+V. Desarrollar, ejecutar y promover esquemas, mecanismos y programas de financiamiento, crédito, subsidio y ahorro previo para vivienda y suelo;
 
-IV. No tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.
+VI. Promover y fomentar que familias de menores ingresos o en situación de vulnerabilidad, cooperativistas, personas con discapacidad, y trabajadores no afiliados a algún régimen de vivienda, en comunidades urbanas y rurales, tengan acceso a recursos, financiamiento y crédito público y privado para construcción y mejoramiento de vivienda; y coordinar, concertar y ejecutar programas de mejoramiento de sus espacios de convivencia;
 
-###### Artículo 19.
+VII. Promover el desarrollo de programas de producción y distribución de materiales para mejorar la calidad de la vivienda, en beneficio de familias de menores ingresos o en situación de vulnerabilidad, cooperativistas y trabajadores no afiliados a algún régimen de vivienda social;
 
-Son atribuciones del Rector de la Universidad:
+VIII. Instrumentar con productores y ejecutores sociales, instituciones de financiamiento y educativas, programas de asistencia técnica que elabore el Instituto, para autoconstrucción, ampliación y mejoramiento de vivienda;
 
-I. Representar legalmente a la Universidad ante cualquier instancia administrativa, legislativa, fiscal o jurisdiccional, de carácter federal, estatal o municipal, e intervenir en toda clase de juicios en que la Universidad sea parte, incluyendo el juicio de amparo, por sí o por conducto de la unidad administrativa encargada de los asuntos jurídicos prevista en su normativa interior; así como presentar denuncias, acusaciones o querellas penales, coadyuvar con el Ministerio Público, contestar y reconvenir demandas, oponer excepciones, comparecer en las audiencias, ofrecer y rendir pruebas, presentar alegatos, nombrar delegados o autorizados en los juicios en que la Universidad sea parte, recibir documentos y formular otras promociones en juicios civiles, fiscales, administrativos, laborales, penales o de cualquier otra naturaleza, intervenir en actos y procedimientos en general, recusar jueces o magistrados, e interponer todo tipo de recursos;
+IX. Promover e impulsar acciones de los sectores público, social y privado, en aspectos normativos, tecnológicos, productivos y sociales, para desarrollo de vivienda;
 
-II. Cumplir y hacer cumplir las disposiciones de esta Ley y demás normativa específica que rija a la Universidad;
+X. Promover y apoyar la constitución y operación de organismos de certificación y normalización, unidades de verificación y laboratorios de prueba, que desarrollen normas y mecanismos que coadyuven a la habitabilidad, seguridad y calidad de la vivienda y los desarrollos habitacionales;
 
-III. Impulsar la participación de la comunidad en los servicios de educación que preste la Universidad;
+XI. Promover que los materiales de construcción de la vivienda cumplan con las normas oficiales mexicanas y fomentar y apoyar medidas que promuevan la calidad de la misma;
 
-IV. Apoyar la formación y capacitación de recursos humanos y la investigación en materia de educación;
+XII. Asesorar a las autoridades municipales que lo soliciten, en la elaboración, ejecución y evaluación de programas y modernización del orden jurídico en materia de vivienda y suelo;
 
-V. Ordenar las acciones necesarias para mejorar la calidad de los servicios de educación que brinde la Universidad;
+XIII. Promover instrumentos y mecanismos que simplifiquen y faciliten procedimientos y trámites para el desarrollo integrador de proyectos habitacionales en general;
 
-VI. Proponer a la Junta de Gobierno la ampliación de la cobertura de los servicios de educación que brinde la Universidad;
+XIV. Realizar y promover investigaciones y estudios que coadyuven al desarrollo en materia de vivienda y suelo, y hacer públicos sus resultados;
 
-VII. Cumplir y hacer cumplir los acuerdos y las resoluciones de la Junta de Gobierno, conforme a las normas y disposiciones aplicables;
+XV. Establecer convenios de asistencia técnica e intercambio de información con instituciones educativas y otros organismos nacionales e internacionales;
 
-VIII. Coordinar la evaluación institucional de los planes y programas de educación que brinde la Universidad;
+XVI. Fomentar y apoyar programas y proyectos de formación profesional, actualización y capacitación integral para profesionistas, técnicos y servidores públicos relacionados con la producción de vivienda, así como para autoproductores y autoconstructores de vivienda;
 
-IX. Planear, administrar y evaluar la prestación de los servicios que brinde la Universidad;
+XVII. Promover y apoyar la constitución y operación de organismos sin fines de lucro, que proporcionen asesoría y asistencia técnica a familias de menores ingresos o en situación de vulnerabilidad, cooperativistas y trabajadores no afiliados a algún régimen de vivienda, para desarrollar mejor sus procesos productivos y de gestión del hábitat;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-X. Formular y someter a la aprobación de la Junta de Gobierno los proyectos anuales de presupuesto de ingresos y de egresos, el programa operativo anual de adquisiciones, arrendamientos y servicios, y los informes trimestrales de gestión financiera que se presenten al Congreso del Estado, los cuales deberán precisar el estado actual del patrimonio de la Universidad, así como las modificaciones que éste haya sufrido derivado de la celebración de convenios con personas físicas o morales;
+XVIII. Promover ante instancias públicas y privadas la disminución de los costos indirectos, como derechos de interconexión, licencias, permisos, constancias, derechos de inscripción y demás, que se traduzcan en beneficios de la vivienda de interés social dirigida a las familias de menores ingresos o en situación de vulnerabilidad, cooperativistas y trabajadores no afiliados a un régimen de vivienda;
 
-XI. Ejercer el presupuesto anual de egresos de la Universidad, de conformidad con los ordenamientos y disposiciones aplicables;
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
 
-XII. Designar y remover libremente a los servidores públicos de confianza de la Universidad;
+XIX. Fomentar el establecimiento de medidas arquitectónicas e instalaciones, para que sean consideradas en la construcción de vivienda social, ponderando el establecimiento de telas mosquiteras, a fin de coadyuvar en la prevención de la salud, además de elevar su calidad y sustentabilidad; y
 
-XIII. Presentar a la Junta de Gobierno los informes que ésta le solicite sobre la organización y el funcionamiento de la Universidad;
+XX. Las demás que le otorguen esta Ley y otros ordenamientos.
 
-XIV. Suscribir los certificados, títulos, grados académicos y demás documentación oficial que expida la Universidad;
+ARTÍCULO 11
 
-XV. Otorgar reconocimientos, distinciones, estímulos y recompensas a los maestros y alumnos que se destaquen en el ejercicio de la función educativa;
+Compete a los organismos municipales de vivienda y suelo:
 
-XVI. Promover el establecimiento, creación y fomento de bibliotecas públicas, digitales y centros de información documental, a fin de apoyar al sistema educativo nacional, estatal y municipal, y elevar el nivel cultural de la comunidad;
+I. Formular el Programa Institucional de Vivienda y Suelo respectivo y someterlo a aprobación del Ayuntamiento;
 
-XVII. Celebrar convenios, acuerdos y contratos con personas físicas o morales, públicas o privadas, nacionales o extranjeras, para el cumplimiento del objeto y fines de la Universidad;
+II. Impulsar la disposición y aprovechamiento de suelo urbanizable;
 
-XVIII. Ordenar la planeación y realización de las actividades de difusión, publicación, divulgación y extensión universitarias; y
+III. Gestionar la construcción de vivienda y adquisición de suelo, con mezcla de recursos públicos y privados;
 
-XIX. Las demás que le otorgue la presente ley y las que expresamente le confieran las leyes del Estado, la normatividad universitaria y demás disposiciones aplicables.
+IV. Impulsar la participación de organismos privados en el desarrollo de programas comunitarios de asistencia técnica para autoconstrucción de vivienda y abasto de materiales;
 
-#### SECCIÓN III. DEL CONSEJO TÉCNICO ACADÉMICO DE LA UNIVERSIDAD
+V. Promover la autoconstrucción asistida mediante la organización comunitaria y el acceso de las familias de menores ingresos o en situación de vulnerabilidad, cooperativistas y trabajadores no afiliados a algún régimen de vivienda, a la fabricación de materiales;
 
-###### Artículo 20.
+VI. Promover que los materiales empleados en la construcción de vivienda cumplan con las normas oficiales mexicanas y fomentar y apoyar medidas que promuevan la calidad de la misma;
 
-El Consejo Técnico Académico de la Universidad es la instancia encargada de elaborar y proponer los planes y programas de estudio, modalidades educativas, de investigación, vinculación y extensión universitarias, y demás acciones educativas para el cumplimiento de sus fines y objeto, y se integra por:
+VII. Promover y fomentar el acceso a recursos y financiamiento público y privado para construcción y mejoramiento de vivienda, así como coordinar, concertar y ejecutar programas de mejoramiento de sus espacios de convivencia;
 
-I. El Rector; y
+VIII. Coordinarse con el Instituto y con otros organismos municipales de vivienda y suelo;
 
-II. Los Directores y representantes de los docentes de la comunidad universitaria, que señale la normativa interior.
+IX. Gestionar ante autoridades municipales y estatales, financiamiento, crédito, estímulos, condonaciones y descuentos en el pago de trámites y servicios, a favor de familias de menores ingresos o en situación de vulnerabilidad, cooperativistas, trabajadores no afiliados a algún régimen de vivienda, personas con discapacidad, autoconstructores y autoproductores de vivienda;
 
-El Consejo Técnico Académico tendrá, además de las que señala esta Ley, las atribuciones que le confiera la normativa interior de la Universidad.
+X. Desarrollar programas de asistencia técnica a familias en la autoconstrucción de vivienda y en la producción de materiales de construcción; y,
 
-### CAPÍTULO V. De los alumnos de la Universidad
+XI. Las demás que le otorguen esta Ley y otros ordenamientos.
 
-###### Artículo 21.
+### CAPÍTULO III. POLÍTICA ESTATAL DE VIVIENDA Y SUELO
 
-Para ser alumno de la Universidad se deben cubrir los requisitos de escolaridad y administrativos señalados en esta Ley y en la normatividad específica de esta institución educativa.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2016)</small>
 
-###### Artículo 22.
+###### ARTÍCULO 12.
 
-Los alumnos de la Universidad:
+La política estatal de vivienda y suelo es el conjunto de disposiciones y criterios, lineamientos, medidas y acciones que fortalezcan o realicen autoridades estatales por si o en coordinación con los gobiernos federales, de otras entidades federativas y municipales, en concertación con los sectores social y privado, para hacer efectivo el derecho de acceso a la vivienda digna y decorosa en condiciones sustentables y salubres, así como el acceso a suelo con servicios básicos.
 
-I. Se sujetarán a los requisitos y condiciones de ingreso, permanencia y egreso que señalen esta Ley y la normativa interior de la Universidad;
+###### ARTÍCULO 13.
 
-II. Podrán expresar libremente sus opiniones e ideas sin afectar o perjudicar el estatus y las labores de la institución; y
+Las políticas, programas, instrumentos, estímulos y apoyos públicos a la vivienda y suelo, deberán considerar los distintos tipos y modalidades de producción habitacional, y se regirán bajo los principios de respeto a la legalidad, protección jurídica a la legítima tenencia y el combate al crecimiento irregular de las ciudades, para lo cual incorporarán medidas de información, competencia, transparencia y las que sean convenientes para estos propósitos.
 
-III. Realizarán el trámite de los asuntos académicos y administrativos que les correspondan.
+### CAPÍTULO IV. PROGRAMAS DE VIVIENDA Y SUELO
 
-###### Artículo 23.
+###### ARTÍCULO 14.
 
-Los miembros de la comunidad universitaria se sujetarán a los procedimientos disciplinarios y sanciones que señale la normativa interior de la Universidad, cuando impidan el funcionamiento normal de la institución, así como por la violación de las disposiciones de esta Ley y de las que de ella deriven, conforme a las reglas generales siguientes:
+Las acciones de las autoridades estatales y municipales en materia de vivienda y suelo se establecerán en los diferentes programas previstos en la Ley Estatal de Planeación.
 
-I. El Rector y los Directores serán responsables ante la Junta de Gobierno;
+###### ARTÍCULO 15.
 
-II. El demás personal será responsable ante su inmediato superior; y
+1. El Programa Institucional de Vivienda y Suelo que formule el Instituto, considerará las propuestas de los Ayuntamientos y los sectores público, social y privado.
 
-III. Los alumnos serán responsables ante los órganos colegiados que establezca la normativa interior.
+2. Una vez aprobado por el Ejecutivo del Estado, el Programa a que se refiere el párrafo anterior, deberá publicarse en el Periódico Oficial del Estado, y tendrá carácter de obligatorio para la administración pública estatal y orientará la planeación y programación de acciones de vivienda y suelo de los Ayuntamientos.
 
-###### Artículo 24.
+###### ARTÍCULO 16.
 
-El Código de Procedimientos Administrativos para el Estado será la norma adjetiva para la imposición de las sanciones previstas en esta Ley y demás leyes del Estado.
+El Programa Institucional de Vivienda y Suelo contendrá:
 
-T R A N S I T O R I O S
+I. Misión y visión de la política estatal de vivienda y suelo;
 
-Primero. La entrada en vigor de la presente Ley será el mismo día en que por parte del Ejecutivo Estatal se realice la expedición y publicación de la Abrogación del Decreto por el que se instruye la creación de la Universidad Popular Autónoma de Veracruz, publicado en la Gaceta Oficial del 14 de diciembre de 2010 con número extraordinario 399; así como la Abrogación del "Decreto por el que se crea el Instituto Veracruzano de Educación Superior que atenderá necesidades urgentes en materia de enseñanza media superior y superior. A.P.P.P", publicado en la Gaceta Oficial número extraordinario 342 del 16 de octubre de 2008 y sus reformas; y la abrogación del "Acuerdo por el que se determinan los alcances del Decreto por el que se crea el Instituto Veracruzano de Educación Superior que atenderá necesidades urgentes en materia de enseñanza media superior y superior. A.P.P.P".
+II. El diagnóstico de la situación de la vivienda y el suelo, con el señalamiento específico de sus principales tendencias y problemas;
 
-Segundo. Una vez entrada en vigor la presente Ley, los recursos humanos, materiales y financieros que hubieren pertenecido al Instituto Veracruzano de Educación Superior y la Universidad Popular Autónoma de Veracruz creados por Decreto del Ejecutivo Estatal, pasarán a integrarse a la Universidad Popular Autónoma de Veracruz a que se refiere la presente Ley, por lo que el Instituto Veracruzano de Educación para los Adultos queda obligado a entregar los expedientes de todos los alumnos que terminaron sus estudios antes del dieciséis de octubre de dos mil ocho, asimismo a entregar a la Universidad los recursos materiales y financieros que se hubieren obtenido por cualquier medio o título legal para cumplir con el servicio educativo de nivel medio superior y superior, por lo que los planes y programas de estudio que ofrecía el Instituto Veracruzano de Educación Superior, A.P.P.P. y la Universidad Popular Autónoma de Veracruz creados por Decreto del Ejecutivo Estatal, así como los asuntos académicos en trámite, estarán a cargo de la Universidad Popular Autónoma de Veracruz a que se refiere la presente Ley, de conformidad con la autonomía técnica y de gestión a que se refiere el artículo 10 de esta Ley.
+III. Los objetivos en materia de vivienda y suelo, así como mecanismos de coordinación y concertación;
 
-Tercero. Los alumnos del Instituto Veracruzano de Educación Superior y la Universidad Popular Autónoma de Veracruz creados por Decreto del Ejecutivo Estatal, que estén recibiendo educación a la entrada en vigor de esta Ley, y que acrediten su escolaridad, se incorporarán como alumnos de la Universidad Popular Autónoma de Veracruz a que se refiere la presente Ley, que se encargará de validar sus estudios y expedirles los documentos comprobatorios correspondientes; asimismo, los alumnos que se encuentren cursando estudios en el Instituto Veracruzano de Educación Superior y la Universidad Popular Autónoma de Veracruz creados por Decreto del Ejecutivo Estatal, al concluirlos, recibirán documentos comprobatorios de la Universidad Popular Autónoma de Veracruz a que se refiere la presente Ley.
+IV. La estrategia habitacional de carácter general, que comprenderá las acciones básicas a desarrollar, la definición de modalidades de atención, metas, prioridades y su previsible impacto en el sistema urbano y el desarrollo regional, económico y social;
 
-Cuarto. Una vez instalada la Junta de Gobierno, a la brevedad posible, deberá expedir la normatividad interior que reglamente las disposiciones de esta Ley.
+V. La identificación de fuentes de financiamiento y estimación de recursos necesarios para acciones de vivienda y suelo que permitan su oferta y satisfacción de la demanda;
 
-Quinto. Los asuntos en trámite a la entrada en vigor de esta Ley serán resueltos por el organismo al que corresponda la competencia respecto de los mismos.
+VI. La definición de apoyos e instrumentos para atender las necesidades de vivienda y suelo, preferentemente de personas con discapacidad, familias de menores ingresos o en situación de vulnerabilidad y trabajadores no afiliados a algún régimen de vivienda social, y los lineamientos de coordinación entre las instancias competentes para su ejecución;
 
-DADA EN EL SALÓN DE SESIONES DE LA LXII LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE, A LOS CATORCE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL ONCE.
+VII. Las estrategias y líneas de acción que faciliten el acceso a financiamiento público y privado para construcción y mejoramiento de vivienda;
 
-EDUARDO ANDRADE SÁNCHEZ
+VIII. Los mecanismos que eviten prácticas indebidas que encarezcan el financiamiento, adquisición, construcción o mejoramiento de la vivienda;
 
-DIPUTADO PRESIDENTE
+IX. Las medidas de mejora regulatoria y estrategias encaminadas a disminuir los costos de la vivienda y suelo y a fortalecer la seguridad jurídica de su tenencia;
 
-RÚBRICA.
+X. Los lineamientos para atender la normalización de bienes y servicios utilizados en la producción de vivienda;
 
-LOTH MELCHISEDEC SEGURA JUÁREZ
+XI. Las bases para la articulación de los Programas Municipales de Vivienda y Suelo con el ordenamiento territorial, desarrollo urbano y medio ambiente;
 
-DIPUTADO SECRETARIO
+XII. Los instrumentos y apoyos a la vivienda progresiva, a la vivienda rural y a la producción social de vivienda;
 
-RÚBRICA.
+XIII. La tipología y modalidades de producción habitacional que orienten las acciones en la materia;
 
-Por lo tanto, en atención a lo dispuesto por el artículo 49 fracción II de la Constitución Política del Estado, y en cumplimiento del oficio SG/001444 de los diputados Presidente y Secretario de la Sexagésima Segunda Legislatura del Honorable Congreso del Estado, mando se publique y se le dé cumplimiento. Residencia del Poder Ejecutivo Estatal, a los quince días del mes de julio del año dos mil once.
+XIV. Las estrategias y líneas de acción para fomentar el desarrollo del mercado secundario y de arrendamiento de vivienda;
 
-Atentamente
+XV. Las estrategias para reubicar en viviendas adecuadas a familias establecidas en zonas de riesgo, en fraccionamientos no autorizados o que resulten afectadas por desastres;
 
-Sufragio efectivo. No reelección
+XVI. Los requerimientos mínimos que deban ser materia de coordinación interinstitucional para regulación de construcciones, a fin de garantizar calidad, seguridad y habitabilidad de la vivienda;
 
-Dr. Javier Duarte de Ochoa
+XVII. La identificación de necesidades de suelo y estimación de los recursos que hagan posible su disponibilidad; y,
 
-Gobernador del Estado.-Rúbrica.
+XVIII. Las demás previsiones que señalen esta Ley y otros ordenamientos legales, así como el Plan Estatal de Desarrollo.
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+###### ARTÍCULO 17.
 
-G.O. 16 DE DICIEMBRE DE 2019.
+1. Los programas operativos anuales del Instituto y de los Municipios, servirán de base para la integración de los anteproyectos anuales de presupuesto.
 
-### CAPÍTULO VI. De las Responsabilidades, Procedimientos y Sanciones
+2. La obligación de formular consideraciones sobre vivienda y suelo en los programas operativos anuales se limita a los Ayuntamientos de los municipios con población mayor a cien mil habitantes.
+
+3. Los programas deberán contener:
+
+I. El vínculo y congruencia con el Plan Estatal de Desarrollo, el Plan Municipal respectivo, y con los Programas de Ordenamiento Territorial y Desarrollo Urbano;
+
+II. La programación de obras y servicios;
+
+III. Las políticas, metas y objetivos;
+
+IV. Las necesidades de suelo y reservas territoriales, así como la forma de atenderlas;
+
+V. La programación de adquisición o enajenación de suelo para programas habitacionales;
+
+VI. Los medios de financiamiento, señalamiento de metas y previsión de recursos para desarrollar las acciones;
+
+VII. Los procedimientos de información y evaluación de su ejecución;
+
+VIII. Los procedimientos que permitan orientar e informar con oportunidad y claridad a los posibles beneficiarios de acciones de vivienda y suelo; y,
+
+IX. El sistema de evaluación, plazo de ejecución de las obras, y los responsables de las acciones.
+
+###### ARTÍCULO 18.
+
+1. La estimación de los recursos que por concepto de crédito, subsidios y aportaciones el Gobierno del Estado aplique anualmente para atender el rezago en materia de vivienda y suelo, se contendrá en el Programa Operativo Anual del Instituto, el cual lo enviará a la Secretaría de Finanzas, para que ésta lo considere en la asignación respectiva.
+
+2. Los programas municipales de crédito, aportaciones y subsidios para adquisición y mejoramiento de vivienda y suelo con servicios, se sujetarán a lo que determinen las leyes y el presupuesto de egresos para el ejercicio fiscal correspondiente.
+
+###### ARTÍCULO 19.
+
+Los mecanismos financieros y acciones de vivienda y suelo previstos en los programas se regirán por las reglas de operación que emitan los titulares de las dependencias o los órganos de gobierno de las entidades, considerando los lineamientos de la dependencia coordinadora de sector.
+
+###### ARTÍCULO 20.
+
+1. Los programas y acciones de vivienda y suelo deberán ser evaluados anualmente por el Instituto, Ayuntamiento u organismo municipal correspondiente, por si o a través de instituciones de educación superior, de investigación científica u organizaciones especializadas, a fin de determinar el grado de cumplimiento de sus objetivos y su congruencia con la política estatal de vivienda y suelo y el Programa Institucional de Vivienda del Instituto o del organismo municipal correspondiente, lo que servirá de apoyo para la elaboración o modificación de los nuevos programas y acciones.
+
+2. Las dependencias y entidades deberán proporcionar la información y facilidades necesarias para la evaluación correspondiente.
+
+3. El Instituto enviará los resultados de las evaluaciones al Consejo Estatal, así como a la Comisión Nacional de Vivienda, y los hará públicos.
+
+### CAPÍTULO V. SISTEMA ESTATAL DE VIVIENDA
+
+###### ARTÍCULO 21.
+
+Se establece el Sistema Estatal de Vivienda, entendido como el conjunto de disposiciones jurídicas y administrativas; políticas, planes, programas, instrumentos financieros y de apoyo; instituciones de los sectores público, social y privado; y demás elementos que interrelacionados entre sí, contribuyan a atender las necesidades de vivienda y suelo, y que tiene por objeto:
+
+I. Coordinar y concertar acciones para cumplir objetivos, prioridades y estrategias de la política estatal de vivienda y suelo, así como el Programa Institucional de Vivienda;
+
+II. Integrar y dar coherencia a las acciones, instrumentos, procesos, estímulos y apoyos orientados a satisfacer necesidades de vivienda y suelo, particularmente de familias de menores ingresos o en situación de vulnerabilidad, cooperativistas, personas con discapacidad, y trabajadores no afiliados a algún régimen de vivienda;
+
+III. Fortalecer la coordinación entre el Gobierno del Estado y los Ayuntamientos, con la Federación y otras entidades federativas;
+
+IV. Promover la participación articulada de los sectores privado y social en el desarrollo de la vivienda y suelo;
+
+V. Inducir acciones de concertación con los sectores social y privado; y,
+
+VI. Integrar y administrar información e indicadores relacionados con vivienda y suelo.
+
+###### ARTÍCULO 22.
+
+1. El Sistema estará representado por un Consejo, que será la instancia de consulta y asesoría del Ejecutivo del Estado, y cuyo objeto será proponer medidas para la planeación, formulación, instrumentación, ejecución y seguimiento de la política estatal de vivienda y suelo y el Programa Institucional de Vivienda.
+
+2. El Consejo Estatal de Vivienda se integrará por:
+
+I. El Titular del Ejecutivo del Estado, quien lo presidirá;
+
+II. El Secretario de Desarrollo Urbano y Medio Ambiente;
+
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+III. El Secretario de Bienestar Social;
+
+IV. El Presidente de la Comisión del Congreso del Estado encargada (sic) de los asuntos de Vivienda;
+
+V. El Director General del Instituto, quien fungirá como Coordinador;
+
+VI. Los titulares de los organismos municipales de vivienda y suelo o de las instancias municipales encargadas de esas materias;
+
+VII. Representantes de instancias de financiamiento y titulación de vivienda y suelo;
+
+VIII. Representantes de organizaciones de la sociedad civil y colegios de profesionales, relacionados con la vivienda y el suelo; y
+
+IX. Representantes de universidades e instituciones de educación media superior y superior, relacionados con la vivienda y suelo.
+
+3. El Presidente del Consejo determinará sobre la representatividad de los sectores social y privado, atendiendo a los principios de pluralidad y equidad.
+
+4. A invitación del Presidente del Consejo y cuando el asunto lo requiera, se podrán integrar al mismo representantes de las diversas dependencias y entidades de la administración pública federal, estatal y municipal; su participación será transitoria.
+
+###### ARTÍCULO 23.
+
+1. El Consejo Estatal, por conducto del Instituto, integrará, administrará y organizará la información e indicadores que generen, difundan y le proporcionen dependencias y entidades estatales, federales y municipales, así como organizaciones de los sectores social y privado, que deberán servir de base para conocer la situación y evolución del mercado, planificar e instrumentar la política estatal de vivienda y suelo, y evaluar los efectos de ésta y otras políticas públicas en la materia.
+
+2. La información deberá considerar, entre otros, los indicadores siguientes:
+
+I. Metas por cobertura territorial;
+
+II. Beneficiarios por grupos de ingreso en unidades de salario mínimo y por programas y acciones de vivienda y suelo en sus diferentes tipos y modalidades;
+
+III. Evaluación de los desarrollos habitacionales en términos de su ubicación en los centros de población con respecto a las fuentes de empleo, habitabilidad de la vivienda y adaptabilidad a las condiciones de la región; y
+
+IV. Evaluación de los precios del suelo y medidas de control para evitar especulación y sus efectos negativos en los programas habitacionales.
+
+3. Los Ayuntamientos, los organismos municipales de vivienda y suelo, las organizaciones de los sectores público, social y privado, así como las instituciones de educación superior y de investigación, proporcionarán la información correspondiente en los términos de los acuerdos y convenios que al efecto se celebren.
+
+4. La información a que se refiere este artículo será pública.
+
+###### ARTÍCULO 24.
+
+El funcionamiento del Consejo será regulado en el reglamento respectivo.
+
+### CAPÍTULO VI. COORDINACIÓN Y CONCERTACIÓN
 
 ###### ARTÍCULO 25.
 
@@ -509,15 +619,19 @@ El Instituto promoverá programas que contemplen compromisos de crédito, subsid
 
 3. En la distribución de subsidios tanto para las familias, como para las regiones, municipios o localidades, se deberán aplicar los principios de equidad e inclusión social, sujetándose a las disposiciones legales aplicables en estas materias.
 
-4. Para estimar los recursos anuales por concepto de subsidios que se propondrá otorgar el Ejecutivo del Estado, el Instituto, con la participación de la Secretaría de Desarrollo Social, cuantificará el rezago y necesidades habitacionales, modalidades de atención, condición de pobreza de las familias y grado de marginación de la comunidad, entre otros.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+4. Para estimar los recursos anuales por concepto de subsidios que se propondrá otorgar el Ejecutivo del Estado, el Instituto, con la participación de la Secretaría de Bienestar Social, cuantificará el rezago y necesidades habitacionales, modalidades de atención, condición de pobreza de las familias y grado de marginación de la comunidad, entre otros.
 
 ###### ARTÍCULO 37.
 
 Los subsidios deberán ser identificables y claramente cuantificables y los procedimientos de asignación deberán ser objetivos y transparentes, estableciéndose los requisitos y criterios de selección que deban satisfacer los destinatarios y la temporalidad de los mismos, así como los responsables de su ejercicio, control, seguimiento y fiscalización.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 38.
 
-Una vez concluido el proceso de asignación, el Instituto enviará los listados de beneficiarios de créditos o subsidios a la Secretaría de Desarrollo Social, para su inclusión en el Padrón Único de Beneficiarios de Programas Sociales, y los Ayuntamientos harán lo propio en los términos de los convenios respectivos.
+Una vez concluido el proceso de asignación, el Instituto enviará los listados de beneficiarios de créditos o subsidios a la Secretaría de Bienestar Social, para su inclusión en el Padrón Único de Beneficiarios de Programas Sociales, y los Ayuntamientos harán lo propio en los términos de los convenios respectivos.
 
 ###### ARTÍCULO 39.
 
@@ -773,10 +887,18 @@ P.O. 27 DE OCTUBRE DE 2015.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 304 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE CREA LA UNIVERSIDAD POPULAR AUTÓNOMA DE VERACRUZ”.]
+P.O. 21 DE ABRIL DE 2016.
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXII-944, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS".]
 
-Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+###### ARTICULO ÚNICO.
 
-Tercero. Dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto, la Universidad Popular Autónoma de Veracruz, a través de la Junta de Gobierno, deberá hacer las adecuaciones a su normativa interna para dar cumplimiento al mismo.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
