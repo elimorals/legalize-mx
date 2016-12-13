@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-patrimonio-historico-y-cultural-del-estado-11776"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-26"
-last_updated: "2015-12-09"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 1997.
 
@@ -85,9 +85,9 @@ El Ejecutivo Estatal promoverá con las instancias federales y municipales, la c
 
 Para los efectos de esta Ley se entiende por:
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-I.- Secretaría: La Secretaría de Desarrollo Social, Cultura y Deporte del Estado;
+I.- Secretaría: La Secretaría de Bienestar Social del Estado;
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
@@ -127,9 +127,11 @@ Los bienes inmuebles, son aquellas edificaciones relevantes para la historia, la
 
 ### CAPITULO II. DE LAS AUTORIDADES Y ORGANISMOS AUXILIARES
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 10.
 
-Serán autoridades para la aplicación de la presente Ley , el Ejecutivo del Estado a través de la Secretaría de Desarrollo Social, y los Ayuntamientos del Estado, en coordinación con el Consejo Estatal para la Cultura y las Artes, en el ámbito de sus respectivas competencias, quienes podrán celebrar acuerdos y convenios con las dependencias federales: Secretaría de Educación Pública, Secretaría de Desarrollo Social, el Consejo Nacional para la Cultura y las Artes, el Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, a fin de coordinar las acciones de protección, que correspondan.
+Serán autoridades para la aplicación de la presente Ley, el Ejecutivo del Estado a través de la Secretaría de Bienestar Social, y los Ayuntamientos del Estado, en coordinación con el Consejo Estatal para la Cultura y las Artes, en el ámbito de sus respectivas competencias, quienes podrán celebrar acuerdos y convenios con las dependencias federales: Secretaría de Educación Pública, Secretaría de Desarrollo Social, el Consejo Nacional para la Cultura y las Artes, el Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, a fin de coordinar las acciones de protección, que correspondan.
 
 ###### ARTICULO 11.
 
@@ -445,9 +447,11 @@ Los bienes adscritos al patrimonio histórico y cultural no podrán ser exportad
 
 El Gobierno del Estado podrá celebrar convenios con los Gobiernos de otros Estados para asegurar la recuperación de los bienes adscritos al patrimonio histórico y cultural que hubieren salido del territorio tamaulipeco.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 51 BIS.- Los bienes que hayan sido motivo de declaratoria de adscripción, solamente podrán salir del territorio del Estado por un plazo determinado y con fines de intercambio cultural, mediante autorización expresa de la Secretaría de Desarrollo Social y previo informe de la autoridad competente.
+ARTICULO 51 BIS.- Los bienes que hayan sido motivo de declaratoria de adscripción, solamente podrán salir del territorio del Estado por un plazo determinado y con fines de intercambio cultural, mediante autorización expresa de la Secretaría de Bienestar Social y previo informe de la autoridad competente.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 Los traslados de los bienes a que se refiere el párrafo anterior, deben realizarse observando las medidas necesarias para garantizar y salvaguardar su buen estado.
 
@@ -521,7 +525,7 @@ I.- A quien dañe o destruya bienes declarados patrimonio histórico y cultural 
 
 II.- A quien efectúe cualquier acto traslativo de dominio de un bien adscrito al patrimonio histórico y cultural, en los términos del Artículo 47 de esta Ley, sin manifestarlos;
 
-III.- A los propietarios de inmuebles adscritos al patrimonio histórico y cultural que por dolo, mala fe o negligencia, propicien la destrucción o deterioro del bien de su propiedad; y (sic),
+III.- A los propietarios de inmuebles adscritos al patrimonio histórico y cultural que por dolo, mala fe o negligencia, propicien la destrucción o deterioro del bien de su propiedad; y,
 
 IV.- Al perito o peritos de obras que realicen trabajos en bienes adscritos al patrimonio histórico y cultural sin contar con la previa autorización, de acuerdo a lo previsto en el presente ordenamiento;
 
@@ -606,6 +610,14 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 9 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-53 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS, LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES DEL ESTADO DE TAMAULIPAS, LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TAMAULIPAS, LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS, LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS, LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS, LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS, LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS, LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS, LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS, LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE TAMAULIPAS, LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS, LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS, LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE TAMAULIPAS, LEY PARA FOMENTAR LA DONACIÓN ALTRUISTA DE ARTÍCULOS DE PRIMERA NECESIDAD DEL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS, LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO ARTESANAL DEL EL ESTADO DE TAMAULIPAS, LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS, LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS, LEY DE INFORMACIÓN GEOGRÁFICA Y ESTADÍSTICA DEL ESTADO DE TAMAULIPAS, LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS, LEY PARA LA MEJORA REGULATORIA EN EL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS, LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS, LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO, LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS, LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE TAMAULIPAS, LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, LEY PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE TAMAULIPAS, LEY DE TURISMO DEL ESTADO DE TAMAULIPAS, LEY DE VALUACIÓN DEL ESTADO DE TAMAULIPAS, LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS, CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS Y CÓDIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS, PARA HOMOLOGAR LA NOMENCLATURA DE LAS SECRETARÍAS QUE ESTABLECE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
