@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-familia-de-coahuila-de-zaragoza-110810"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2016-07-01"
+last_updated: "2016-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,9 @@ state: "COA"
 ---
 # LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA
 
-[NOTA: 1 DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR 180 DÍAS DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE COAHUILA.]
-
-[NOTA: 2 DE CONFORMIDAD CON LA REFORMA AL ARTÍCULO TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS 180 DÍAS SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EN EL DISTRITO JUDICIAL QUE DETERMINE EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO, CONFORME AL ACUERDO QUE EMITA PARA TALES EFECTOS.
-
-DEL MISMO MODO, CORRESPONDE AL CONSEJO DE LA JUDICATURA DETERMINAR LA GRADUALIDAD EN LA QUE ENTRARÁ EN VIGOR EN EL RESTO DE LOS DISTRITOS JUDICIALES CONSIDERANDO LAS NECESIDADES DEL SERVICIO Y LA FACTIBILIDAD PRESUPUESTAL ASIGNADA PARA ESOS EFECTOS. EN TODO CASO, EL PROCESO DE GRADUALIDAD DEBERÁ CONSIDERAR COMO FECHA DE CONCLUSIÓN EL 31 DE DICIEMBRE DE 2016.]
-
 LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 15 de diciembre de 2015.
 
@@ -899,7 +893,9 @@ I. Exista falsedad en los casos en que se alegue que el suceso registrado no pas
 
 II. Exista desacuerdo entre el asiento y la realidad y que se demuestre, a través de documentos fehacientes, que la persona de que se trata ha sido siempre designada con un nombre distinto del que aparece en su acta de nacimiento.
 
-III. Existan errores que versen sobre la fecha de nacimiento, nacionalidad, filiación o parentesco del registrado, o de las personas que hayan intervenido en el acto de asentamiento.
+> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
+
+III. Existan errores que versen sobre el año de nacimiento, nacionalidad, filiación o parentesco del registrado, o de las personas que hayan intervenido en el acto de asentamiento.
 
 IV. Existan errores en las actas de defunción sobre el estado civil del difunto, causas de la muerte, o sobre la fecha y lugar del fallecimiento.
 
@@ -4406,3 +4402,15 @@ SEGUNDO.- En los distritos judiciales en los cuales no haya iniciado su vigencia
 TERCERO.- Las reformas del Código Civil para el Estado de Coahuila de Zaragoza contenidas en el presente decreto entrarán en vigor al día siguiente de su publicación en los distritos judiciales o municipios en los que no haya iniciado su vigencia la Ley para la Familia de Coahuila de Zaragoza.
 
 Una vez que entre en vigor la Ley para la Familia conforme al primero y segundo transitorios del decreto 477, quedarán derogados los artículos del Código Civil para el Estado de Coahuila de Zaragoza incluidos en el presente decreto.
+
+P.O. 13 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 619.- REFORMA LA FRACCIÓN III DEL ARTÍCULO 132 DE LA LEY PARA LA FAMILIA DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
