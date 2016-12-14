@@ -4,7 +4,7 @@ identifier: "MOR-acuerdo-mediante-el-cual-se-establece-la-unidad-de-35407"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-11-28"
-last_updated: "2003-11-28"
+last_updated: "2016-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACION PUBLICA Y SE CREA EL CONSEJO DE INFORMACION CLASIFICADA DE LA SECRETARIA DE TURISMO DEL GOBIERNO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICION TRANSITORIA SEGUNDA DEL ACUERDO POR EL QUE SE ESTABLECE LA UNIDAD DE TRANSPARENCIA Y SE INTEGRA EL COMITÉ DE TRANSPARENCIA DE LA SECRETARÍA DE TURISMO PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO MEDIANTE EL CUAL SE ESTABLECE LA UNIDAD DE INFORMACIÓN PÚBLICA Y SE CREA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA SECRETARÍA DE TURISMO DEL GOBIERNO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Acuerdo publicado en el Periódico Oficial del Estado de Morelos, a viernes 28 de noviembre de 2003.
 
@@ -82,3 +84,13 @@ EL SECRETARIO DE TURISMO
 LIC. MARCOS MANUEL SUÁREZ GERARD
 
 RÚBRICAS.
+
+P.O. 14 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE ESTABLECE LA UNIDAD DE TRANSPARENCIA Y SE INTEGRA EL COMITÉ DE TRANSPARENCIA DE LA SECRETARÍA DE TURISMO”.]
+
+PRIMERA. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Acuerdo mediante el cual se establece la Unidad de Información Pública y se crea el Consejo de Información Clasificada de la Secretaría de Turismo, publicado en el Periódico Oficial "Tierra y Libertad" número 4292, de fecha 28 de noviembre del 2003.
+
+TERCERA. De conformidad con lo dispuesto por el artículo 26, de la Ley de Transparencia y Acceso a la Información Pública del estado de Morelos, la Secretaría de Turismo, a través de su Unidad de Transparencia, deberá informar al Instituto Morelense de Información Pública y Estadística sobre la publicación del presente Acuerdo.
