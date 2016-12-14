@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2016-08-19"
+last_updated: "2016-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -411,9 +411,17 @@ V. Copia certificada del acta de defunción del cónyuge fallecido, o de sentenc
 
 VI. (DEROGADA, P.O. 16 DE AGOSTO DE 2013)
 
-VII. La manifestación, por escrito y bajo protesta de decir verdad, en el caso de que alguno de los contrayentes haya concluido el proceso para la concordancia sexo-genérica, misma que tendrá el carácter de reservada y,
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-VIII. Autorización de dispensa de impedimento si lo hay.
+VII. La manifestación, por escrito y bajo protesta de decir verdad, en el caso de que alguno de los contrayentes haya concluido el proceso para la concordancia sexo genérica, misma que tendrá el carácter de reservada;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+VIII. Autorización de dispensa de impedimento si lo hay; y,
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+IX. Constancia expedida por el Registro Civil de cada uno de los contrayentes en la que se informe si se encuentran o no inscritos en el Registro de Deudores Alimentarios del Estado de Sinaloa.
 
 ### Capítulo III. De las Formalidades para Contraer Matrimonio
 
@@ -1546,6 +1554,18 @@ Determinado por convenio o sentencia, la pensión alimenticia tendrá un increme
 ###### Artículo 223.
 
 El obligado a proporcionar alimentos cumple su obligación, asignando una pensión adecuada a la posibilidad de quien debe de darlos y suficiente a la necesidad de quien debe de recibirlos, o incorporándolo a la familia. Cuando el deudor pida la incorporación, deberá hacerlo en demanda principal o reconvencional.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+Quien incumpla con la obligación alimentaria ordenada por resolución o convenio judicial, por un periodo de noventa días, total o parcialmente de forma sucesiva, se constituirá en deudor alimentario moroso.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+El Juez de lo Familiar ordenará al Registro Civil su inmediata inscripción en el Registro de Deudores Alimentarios Morosos, proporcionando al Registro los datos de identificación del deudor alimentario, los cuales le serán proporcionados al Juez por el acreedor alimentario.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+El deudor alimentario moroso que acredite ante el Juez de lo Familiar que han sido pagados en su totalidad los adeudos del pago de alimentos a que se refiere el segundo párrafo, podrá solicitar al mismo la cancelación de la inscripción con dicho carácter. El Registro Civil, cancelará las inscripciones a que se refiere el tercer párrafo de este artículo, previa orden judicial.
 
 ###### Artículo 224.
 
@@ -6417,6 +6437,10 @@ El Registro Civil es una institución de orden público y de interés social por
 
 En el Estado, la prestación del servicio del Registro Civil, así como la dirección y control del mismo, estará a cargo del Ejecutivo Estatal, a través de la Secretaría General de Gobierno, misma que para cumplir con esta atribución contará con una Dirección del Registro Civil, los departamentos y las Oficialías del Registro Civil que acuerde el Ejecutivo Estatal, quienes ejercerán las atribuciones que este Código, las leyes y los reglamentos les conceden, y tendrán fe pública en el desempeño de las labores propias de su cargo.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos, en el que se inscribirá a las personas que hayan dejado de cumplir con la obligación alimentaria a que se refiere el segundo párrafo del artículo 223 del presente Código.
+
 Las Oficialías del Registro Civil estarán a cargo de servidores públicos denominados Oficiales del Registro Civil.
 
 > <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
@@ -6424,6 +6448,10 @@ Las Oficialías del Registro Civil estarán a cargo de servidores públicos deno
 ###### Artículo 1097.
 
 Los oficiales del registro civil podrán autorizar los actos del estado familiar y extender las actas relativas a nacimiento, reconocimiento de hijos, matrimonio, concubinato, divorcio y defunción de los mexicanos y extranjeros en la entidad, al realizarse el hecho o acto de que se trate, así como inscribir las ejecutorias que declaren el registro de hijos acogidos, la ausencia, la presunción de muerte, la tutela, que se ha perdido o limitado la capacidad legal para administrar bienes y las sentencias que ordenen el levantamiento de una nueva acta por cualquiera de los supuestos previstos en este Código, previa la anotación correspondiente al acta de nacimiento primigenia, siempre y cuando se cumplan las formalidades exigidas por los ordenamientos jurídicos aplicables; las cuales se asentarán en documentos especiales que se denominarán, “Formas del Registro Civil”.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+Asimismo podrán hacer la anotación en el Registro de Deudores Alimentarios Morosos a que se refiere el tercer párrafo del artículo 223 y extender la constancia que informe si quien la solicita se encuentra inscrito o no en el Registro como deudor alimentario moroso o deudor alimentario sin adeudo de pagos, según corresponda.
 
 ### Capítulo III. De los Efectos de los Actos y Actas del Registro Civil
 
@@ -7017,6 +7045,10 @@ En las hipótesis de doble registro de nacimiento, siempre que se pruebe la real
 
 En caso contrario, al afectar los datos esenciales será necesaria la rectificación del acta del estado familiar, para cuyo trámite se requerirá de la intervención del Ministerio Público y se ventilará de acuerdo con lo establecido en el Código de Procedimientos Familiares del Estado de Sinaloa.
 
+### Capítulo Único. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1196.
 
 Procede la reposición cuando el acta ha sufrido una falsificación o alteración material después de asentada. Comprobado el delito deberá restituirse el texto a su forma original, anotando en el acta, el cambio que se hace y la sentencia que así lo haya ordenado.
@@ -7024,6 +7056,112 @@ Procede la reposición cuando el acta ha sufrido una falsificación o alteració
 ###### Artículo 1197.
 
 La sentencia que conceda o niegue la rectificación, se comunicará al oficial del registro civil y a la Dirección Estatal del Registro Civil, a efecto de que se hagan las anotaciones correspondientes.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO CUARTO. Del Registro de Deudores Alimentarios Morosos
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1198.
+
+El Registro de Deudores Alimentarios Morosos estará a cargo de una unidad administrativa del Registro Civil.
+
+El Registro Civil efectuará convenios con las sociedades de información crediticia a que se refiere la Ley de la materia, a fin de proporcionar la información contenida en el Registro de Deudores Alimentarios Morosos.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1199.
+
+En el Registro de Deudores Alimentarios Morosos se inscriben a las personas que el Juez de lo Familiar determina en términos del artículo 223 del presente Código; a quienes hayan sido sentenciados por el delito de incumplimiento de las obligaciones de asistencia familiar previsto en el artículo 240 del Código Penal para el Estado; a quien dolosamente incumpla con la orden judicial de informar acerca de los ingresos de quienes deban cumplir con dicha obligación en términos del artículo 241 de dicho Código Penal; y a quien incumpla una orden de descuento para alimentos ordenada por el órgano jurisdiccional.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1200.
+
+El Registro de Deudores Alimentarios Morosos deberá contener:
+
+I. Nombre, apellidos, Registro Federal de Contribuyentes y Clave Única del Registro de Población del deudor alimentario;
+
+II. Nombre del acreedor o acreedores alimentarios;
+
+III. Datos del acta que acredite el vínculo entre deudor y acreedor alimentario, en su caso;
+
+IV. Monto de la pensión alimenticia decretada o convenida, en su caso, número de pagos incumplidos y monto del adeudo alimentario;
+
+V. Órgano jurisdiccional que ordena el registro; y,
+
+VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1201.
+
+La Constancia expedida por la Unidad del Registro de Deudores Alimentarios Morosos deberá contener lo siguiente:
+
+l. Nombre, apellidos, Registro Federal de Contribuyentes y Clave Única del Registro de Población del solicitante; y,
+
+II. La información sobre su inscripción o no en el registro de deudores alimentarios morosos.
+
+De ser el caso que el solicitante se encuentre inscrito en el registro, la constancia incluirá además lo siguiente:
+
+l. Número de acreedores alimentarios;
+
+II. Monto de la pensión alimenticia decretada o convenida y monto de la obligación adeudada;
+
+III. Órgano jurisdiccional que ordenó el registro; y,
+
+IV. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+
+La constancia a que hace referencia este artículo deberá ser expedida en un plazo máximo de tres días hábiles contados a partir de la fecha de solicitud respectiva.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1202.
+
+La inscripción de los deudores alimentarios morosos en el Registro tendrá los siguientes efectos:
+
+l. Constituir prueba en el delito de incumplimiento de obligaciones de asistencia familiar;
+
+II. Inscribir en el Registro Público de la Propiedad y del Comercio, la constancia respectiva en los folios reales de que sea propietario el deudor alimentario moroso; y,
+
+III. Garantizar la preferencia en el pago de deudas alimentarias en términos del artículo 216 del presente Código.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1203.
+
+Una vez acreditado ante el Juez de conocimiento, que han sido cubiertos en su totalidad los adeudos de la pensión alimenticia, a petición de parte interesada, se podrá solicitar la cancelación de la inscripción en el Registro de Deudores Alimentarios Morosos como deudor alimentario moroso.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1204.
+
+El incumplimiento injustificado de la obligación alimentaria, así como el disimulo, la ocultación de bienes o cualquier otra maniobra para eludirlo, se sancionará conforme a las prescripciones del Código Penal para el Estado de Sinaloa.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO. El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Quedan derogados del Libro Primero del Código Civil del Estado de Sinaloa los:
+
+Capítulos I, II, III, IV, V, VI, VII, VIII, IX, X y XI del Título IV.
+
+Capítulos I, II, III, IV, V, VI, VII, VIII, IX, X y XI del Título V.
+
+Capítulos I, II y III del Título VI.
+
+Capítulos I, II, III, IV y V del Título VII.
+
+Capítulos I, II y III del Título VIII.
+
+Capítulos I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI del Título IX.
+
+Capítulos I y II del Título X.
+
+Capítulos I, II, III, IV, V, VI, VII y VIII del Título XI.
+
+TERCERO. Quedan derogados del Libro Tercero:
 
 ## Título l.
 
@@ -7075,30 +7213,6 @@ P.O. 16 DE AGOSTO DE 2013.
 
 P.O. 18 DE MAYO DE 2015.
 
-## ARTÍCULOS TRANSITORIOS
-
-PRIMERO. El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "El Estado de Sinaloa".
-
-SEGUNDO. Quedan derogados del Libro Primero del Código Civil del Estado de Sinaloa los:
-
-Capítulos I, II, III, IV, V, VI, VII, VIII, IX, X y XI del Título IV.
-
-Capítulos I, II, III, IV, V, VI, VII, VIII, IX, X y XI del Título V.
-
-Capítulos I, II y III del Título VI.
-
-Capítulos I, II, III, IV y V del Título VII.
-
-Capítulos I, II y III del Título VIII.
-
-Capítulos I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV y XVI del Título IX.
-
-Capítulos I y II del Título X.
-
-Capítulos I, II, III, IV, V, VI, VII y VIII del Título XI.
-
-TERCERO. Quedan derogados del Libro Tercero:
-
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
@@ -7134,3 +7248,27 @@ P.O. 19 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 613 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR Y DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES, AMBOS DEL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 14 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 4 QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DEL CÓDIGO FAMILIAR DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con un plazo de noventa días posteriores al inicio de vigencia del presente Decreto para instituir el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa, así como para realizar las adecuaciones correspondientes al Reglamento del Registro Civil y demás disposiciones aplicables para ajustar el funcionamiento de los entes gubernamentales involucrados con el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado realizará las previsiones administrativas y presupuestales necesarias para garantizar el cumplimiento de las disposiciones contenidas en el presente decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Registro Civil contará con un plazo de noventa días a partir de la entrada en vigor del presente decreto para iniciar la integración del Registro Estatal de Deudores Alimentarios Morosos. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubieren efectuado durante el plazo de inicio de vigencia de este Decreto y la creación del mismo.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
