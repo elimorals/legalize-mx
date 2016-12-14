@@ -4,7 +4,7 @@ identifier: "NLE-arancel-de-abogados-en-el-estado-de-nuevo-leon-20682"
 country: "mx"
 rank: "otro"
 publication_date: "1969-01-01"
-last_updated: "1988-04-18"
+last_updated: "2016-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # ARANCEL DE ABOGADOS EN EL ESTADO DE NUEVO LEON
 
-ARANCEL DE ABOGADOS EN EL ESTADO DE NUEVO LEON
+ARANCEL DE ABOGADOS EN EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE ABRIL DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
 
 Arancel publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de enero de 1969.
 
@@ -173,11 +173,13 @@ Se procederá en la misma forma cuando durante el procedimiento se promueva un i
 
 Cuando se interponga y resuelva un recurso de apelación en contra de sentencias interlocutorias o contra la sentencia definitiva, también se procederá en los términos del primer párrafo.
 
-> <small>(REFORMADO, P.O. 18 DE ABRIL DE 1988)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016.
 
 ###### ARTICULO 17o.
 
-En los juicios contenciosos de divorcio, se aplicará para la regulación de honorarios, lo establecido en el Artículo 6o. anterior, si en los mismos se incluye controversia sobre el patrimonio de la sociedad conyugal, en la inteligencia de que servirá como base para determinar la cuantía el 50% del mismo. Si en los juicios no se involucra discusión sobre el patrimonio conyugal, para la regulación de honorarios se aplicará el Artículo 12o. de este arancel.
+En los juicios contenciosos del orden familiar se aplicará para la regulación de honorarios, lo establecido en el Artículo 6o. anterior, si en los mismos se incluye controversia sobre el patrimonio de la sociedad conyugal, en la inteligencia de que servirá como base para determinar la cuantía el 50% del mismo. Si en el procedimiento no se involucra discusión sobre el patrimonio conyugal, para la regulación de honorarios se aplicará el Artículo 12o. de este arancel.
 
 > <small>(REFORMADO, P.O. 18 DE ABRIL DE 1988)</small>
 
@@ -351,7 +353,7 @@ El Secretario General de Gobierno
 
 Lic. Baltazar Cantú Garza
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ARANCEL.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ARANCEL.</small>
 
 P.O. 18 DE ABRIL DE 1988.
 
@@ -362,3 +364,15 @@ P.O. 18 DE ABRIL DE 1988.
 ###### ARTICULO SEGUNDO
 
 - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y se derogan todas las disposiciones que se opongan al mismo.
+
+P.O. 14 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 172. SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN, LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN, DEL ARANCEL DE ABOGADOS EN EL ESTADO DE NUEVO LEÓN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor a partir de los 90 días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Resulta aplicable el presente Decreto a los matrimonios celebrados con anterioridad y posterioridad de la entrada en vigor del mismo.
+
+Tercero.- La entrada en vigor del presente Decreto, no altera los derechos adquiridos en los juicios de divorcio concluidos en forma ejecutoriada.
+
+Cuarto.- Los asuntos en trámite al entrar en vigor las reformas contenidas en este Decreto, seguirán su curso en la forma que iniciaron y, en su caso, se resolverán observando la jurisprudencia por contradicción 73/2014, publicada en el Semanario Judicial de la Federación, 10 de julio de 2015.
