@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-registro-civil-para-el-estado-de-nuevo-leon-60741"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2015-05-15"
+last_updated: "2016-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE MAYO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 10 de abril de 2008.
 
@@ -559,11 +557,29 @@ III. Copia certificada del acta de nacimiento de los cónyuges;
 
 IV. Copia certificada del acta de nacimiento de los hijos mayores de 30 años, si los tuvieren y que éstos no sean incapaces;
 
-V. Constancia médica de no gravidez expedida por una Institución de Salud, cuando no tuvieren hijos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VI. Identificación oficial de los cónyuges; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-VII. En su caso, el convenio de la liquidación de la sociedad conyugal.
+V.- Constancia médica de no gravidez expedida por una Institución de Salud.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+VI.- Identificación oficial de los cónyuges;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+VII.- En su caso, el convenio de la liquidación de la sociedad conyugal o en su defecto la declaración de no contar con bienes comunes; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Tratándose de separación de bienes hayan acordado la compensación que uno dará al otro en los términos del Código Civil para el Estado.
 
 De igual manera deberá haber transcurrido el término de un año contado a partir de la fecha de la celebración del matrimonio.
 
@@ -792,3 +808,15 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Se derogan todas las normas que se opongan a lo dispuesto en el presente Decreto.
 
 Tercero.- Los procedimientos judiciales iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán hasta su conclusión conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 14 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 172. SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN, LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN, DEL ARANCEL DE ABOGADOS EN EL ESTADO DE NUEVO LEÓN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor a partir de los 90 días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Resulta aplicable el presente Decreto a los matrimonios celebrados con anterioridad y posterioridad de la entrada en vigor del mismo.
+
+Tercero.- La entrada en vigor del presente Decreto, no altera los derechos adquiridos en los juicios de divorcio concluidos en forma ejecutoriada.
+
+Cuarto.- Los asuntos en trámite al entrar en vigor las reformas contenidas en este Decreto, seguirán su curso en la forma que iniciaron y, en su caso, se resolverán observando la jurisprudencia por contradicción 73/2014, publicada en el Semanario Judicial de la Federación, 10 de julio de 2015.
