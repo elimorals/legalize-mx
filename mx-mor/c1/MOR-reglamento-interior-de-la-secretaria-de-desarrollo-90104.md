@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-desarrollo-90104"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-14"
-last_updated: "2014-03-05"
+last_updated: "2016-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SUSTENTABLE DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICION TRANSITORIA TERCERA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE, PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 14 de noviembre 2012.
 
@@ -1100,3 +1102,21 @@ CUARTA. De conformidad con lo dispuesto en la fracción XXX, del artículo 21, d
 QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Desarrollo Sustentable del Poder Ejecutivo Estatal, deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
 
 SEXTA. Los expedientes que se encuentren en trámite al momento de expedición y vigencia del presente Decreto, serán conocidos por la Procuraduría de Protección al Ambiente del Estado de Morelos, previa transferencia que le haga la Dirección General Jurídica de la Secretaría de Desarrollo Sustentable, sin que por ello se afecte la secuela procesal correspondiente ni la competencia de aquella para continuar su trámite. La remisión de los expedientes a la Procuraduría deberá notificarse personalmente a las partes interesadas en el procedimiento de que se trate, interrumpiéndose los plazos que se les hubieren otorgado por la Dirección General Jurídica hasta en tanto no se practique la citada notificación.
+
+P.O. 14 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SUSTENTABLE”.]
+
+PRIMERA. El presente Reglamento iniciará su vigencia a los diez días hábiles siguientes a la fecha de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Secretaría de Desarrollo Sustentable deberá actualizar los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan.
+
+TERCERA. Se abroga el Reglamento Interior de la Secretaría de Desarrollo Sustentable publicado en el Periódico Oficial “Tierra y Libertad” número 5043, el 14 de noviembre de 2012, así como se derogan todas las disposiciones normativas de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 11, fracción XXXV, y 18, fracción XXVI, del Reglamento Interior de la Secretaría de Gobierno; la Secretaria de Desarrollo Sustentable, dentro del plazo de diez días hábiles a que se hace referencia en la Disposición Primera Transitoria para la entrada en vigor del presente instrumento, debe informar a la Secretaría de Gobierno del Poder Ejecutivo Estatal, los cambios de denominación y supresión de las Unidades Administrativas de aquélla, sufridos en virtud del presente Reglamento, así como registrar conforme a los formatos que expida la Dirección General Jurídica de la Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Desarrollo Sustentable deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SEXTA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las Unidades Administrativas cuya denominación se modifica o cambia de adscripción, serán continuados en su tramitación por la Unidad Administrativa que corresponda, sin perjuicio de lo señalado en las disposiciones transitorias anteriores.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Reglamento, serán resueltos por la persona titular de la Secretaría de Desarrollo Sustentable, sin perjuicio de lo dispuesto por el artículo 19, de la Ley Orgánica de la Administración Pública del Estado de Morelos.
