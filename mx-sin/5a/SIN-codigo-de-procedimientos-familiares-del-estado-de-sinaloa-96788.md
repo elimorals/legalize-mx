@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-familiares-del-estado-de-sinaloa-96788
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-27"
-last_updated: "2016-08-19"
+last_updated: "2016-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
 
 Código publicado en la Edición Extraordinaria, Tercera Sección Parte Uno del Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 2013.
 
@@ -4973,9 +4973,11 @@ Cuando se apruebe la adopción o se deje sin efecto el juez cumplirá lo que pre
 
 ### Capítulo VII. De la Declaración de Ausencia o de Presunción de Muerte
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 670.
 
-A petición de parte o del Ministerio Público, cuando una persona haya desaparecido y se ignore el lugar donde se halle, el juez dictará las medidas conservativas a que se refieren los artículos 518, 520, 521 y 522 del Código Familiar, y además, mandará citar al ausente por edictos publicados en los principales periódicos de su último domicilio, remitiendo en su caso, copia de los edictos a los cónsules mexicanos de aquellos lugares del extranjero en que se pueda presumir que se encuentra o se tengan noticias de él. Al hacer la citación, se fijará al ausente un plazo que no bajará de tres meses ni pasará de seis para que se presente.
+A petición de parte o del Ministerio Público, cuando una persona haya desaparecido y se ignore el lugar donde se halle, el juez dictará las medidas conservativas a que se refieren los artículos 518, 520, 521 y 522 del Código Familiar del Estado de Sinaloa, y además mandará citar al ausente por edictos publicados en los principales periódicos de su último domicilio, remitiendo, en su caso, copia de los edictos a los cónsules mexicanos de aquellos lugares del extranjero en que se pueda presumir que se encuentra o se tengan noticias de él. Al hacer la citación, se fijará al ausente un plazo que no bajará de un mes, ni pasará de tres para que se presente.
 
 Si cumplido el plazo antes mencionado, el citado no comparece por sí o por apoderado legítimo, ni por medio de tutor o pariente que pueda representarlo, se procederá al nombramiento de representante conforme a las reglas del Código Familiar.
 
@@ -5168,3 +5170,11 @@ P.O. 19 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 613 QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR Y DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES, AMBOS DEL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 14 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 3 DEL H. CONGRESO DEL ESTADO.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 670 DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+Artículo Segundo. Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
