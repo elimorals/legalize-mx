@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2016-05-11"
+last_updated: "2016-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -1249,23 +1249,29 @@ El Oficial del Registro Civil que sin motivo justificado retarde la celebración
 
 ### CAPITULO VI. ACTAS DE DIVORCIO
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 114.
 
-Ejecutoriada la sentencia de divorcio, el Juez remitirá copia certificada de ella al Oficial del Registro Civil que corresponda, quien levantará el acta respectiva.
+Ejecutoriada la resolución de divorcio, el juez remitirá copia certificada de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### Art. 115.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-El acta de divorcio contendrá nombres, apellidos, edad, domicilio y nacionalidad de los divorciados, la parte resolutiva de la sentencia o resolución administrativa, en su caso, fecha de la resolución y autoridad que la dictó.
+###### Artículo 115.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+El acta de divorcio contendrá nombres, apellidos, edad, domicilio y nacionalidad de los divorciados, la parte resolutiva de la resolución judicial o administrativa, en su caso, fecha y la autoridad que la dictó.
 
-###### Art. 116.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Extendida el acta se anotarán las de nacimiento y matrimonio de los divorciados y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 116.
+
+Extendida el acta se anotarán marginalmente en las de nacimiento y matrimonio de los divorciados y la copia de la resolución judicial o administrativa se archivará con el mismo número del acta de divorcio.
 
 > <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1565,7 +1571,9 @@ III.- El parentesco de consanguinidad legítima o natural, sin limitación de gr
 
 IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
-V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+V.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2016)
 
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
@@ -1955,9 +1963,13 @@ Las donaciones antenupciales no se revocan por sobrevenir hijos al donante.
 
 Tampoco se revocarán por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos esposos y que los dos sean ingratos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
 ###### Art. 228.
 
-Las donaciones antenupciales son revocables y se entienden revocadas por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante fuere el otro cónyuge.
+Las donaciones antenupciales son revocables mediante juicio y se entienden revocadas por ingratitud del donatario, cuando el donante fuere el otro cónyuge.
 
 ###### Art. 229.
 
@@ -2183,95 +2195,59 @@ Los que infrinjan el artículo anterior, así como los que siendo mayores de eda
 
 El divorcio disuelve el vínculo del matrimonio y deja a los cónyuges en aptitud de contraer otro.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
 ###### Art. 267.
 
-Son causas del divorcio:
+El divorcio puede ser incausado o por mutuo consentimiento. Es incausado cuando cualquiera de los cónyuges lo solicita sin necesidad de señalar la razón que lo motiva y por mutuo consentimiento, cuando se solicita de común acuerdo en forma judicial o administrativa en los términos de este Código, del Código de Procedimientos Civiles para el Estado y de la Ley del Registro Civil del Estado.
 
-I.- El adulterio debidamente probado de uno de los cónyuges;
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
-
-II.- El hecho de que la mujer dé a luz durante el matrimonio a un hijo concebido antes de celebrarse este contrato y que judicialmente se haya declarado que la paternidad del mismo no corresponde a su cónyuge;
-
-III.- La propuesta del marido para prostituir a su mujer, no sólo cuando el mismo marido la haya hecho directamente, sino cuando se pruebe que ha recibido dinero o cualquiera remuneración con el objeto expreso de permitir que otro tenga relaciones carnales con su mujer;
-
-IV.- La incitación a la violencia hecha por un cónyuge al otro para cometer algún delito, aunque no sea de incontinencia carnal;
-
-V.- Los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, así como la tolerancia en su corrupción;
-
-VI.- Padecer sífilis, tuberculosis, o cualquiera otra enfermedad crónica o incurable que sea, además, contagiosa o hereditaria, y la impotencia incurable que sobrevenga después de celebrado el matrimonio;
-
-> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2000)</small>
-
-VII.- El estado de interdicción de uno de los cónyuges declarado por sentencia que haya causado ejecutoria;
-
-VIII.- La separación de la casa conyugal por más de seis meses sin causa justificada;
-
-IX.- La separación del hogar conyugal originada por una causa que sea bastante para pedir el divorcio, si se prolonga por más de un año sin que el cónyuge que se separó entable la demanda de divorcio;
-
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2015)</small>
-
-X.- La declaración de ausencia, la declaración de ausencia por desaparición, y la declaración de presunción de muerte, en los casos de excepción en que no se necesita para que se haga ésta que proceda la declaración de ausencia;
-
-XI.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2010)</small>
-
-XII.- La negativa injustificada de los cónyuges a cumplir con las obligaciones señaladas en el Artículo 164, sin que sea necesario agotar previamente el procedimiento tendiente a su cumplimiento;
-
-XIII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
-
-XIV.- Haber cometido uno de los cónyuges un delito que no sea político, pero que sea infamante, por el cual tenga que sufrir una pena de prisión mayor de dos años;
-
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 2000)</small>
-
-XV.- Los hábitos de juego o de embriaguez o el uso indebido y persistente de drogas enervantes, cuando amenazan causar la ruina de la familia, o constituye un continuo motivo de desavenencia conyugal;
-
-XVI.- Cometer un cónyuge contra la persona o los bienes del otro, un acto que sería punible si se tratara de persona extraña, siempre que tal acto tenga señalada en la ley una pena que pase de un año de prisión;
-
-> <small>(REFORMADA, P.O. 3 DE ENERO DE 2000)</small>
-
-XVII.- El mutuo consentimiento;
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
-
-XVIII.- Las conductas de violencia familiar cometidas por uno de los cónyuges que afecten al otro o a los hijos de ambos o de alguno de ellos, y
-
-> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2007)</small>
-
-Cuando un cónyuge promueva el divorcio fundado en ésta causal, deberá narrar en la demanda los hechos que pongan de manifiesto la violencia familiar imputada a la parte demandada, la afectación causada al demandante, así como el nexo causal entre uno y otro, sin que sea necesario especificar las circunstancias de tiempo, modo y lugar de cada evento atribuido al demandado;
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2013)</small>
-
-XIX.- La separación de los cónyuges por más de dos años ininterrumpidos, independientemente del motivo que haya originado la separación.
-
-Esta causal podrá ser invocada por cualquiera de los cónyuges, mas ninguno tendrá la calidad de culpable.
-
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Art. 268.
 
-Cuando un cónyuge haya pedido el divorcio o la nulidad del matrimonio por causa que no haya justificado o se hubiere desistido de la demanda o de la acción sin la conformidad del demandado, éste tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la última sentencia o del auto que recayó al desistimiento. Durante estos tres meses, los cónyuges no están obligados a vivir juntos.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 269.
 
-Cualesquiera de los esposos puede pedir el divorcio por el adulterio de su cónyuge. Esta acción dura seis meses, contado desde que se tuvo conocimiento del adulterio.
+El divorcio en cualquiera de sus formas solo podrá pedirse pasado un año de la celebración del matrimonio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 270.
 
-Son causas de divorcio los actos inmorales ejecutados por el marido o por la mujer con el fin de corromper a los hijos, ya lo sean éstos de ambos, ya de uno solo de ellos. La tolerancia en la corrupción que dá derecho a pedir el divorcio, debe consistir en actos positivos y no en simples omisiones.
+El cónyuge que desee promover el divorcio incausado en su solicitud deberá cumplir con los requisitos que indique el Capítulo Tercero del Código de Procedimientos Civiles para el Estado y en ella además de señalar el Juez ante quien se entable, se deberá expresar bajo protesta de decir verdad:
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2000)</small>
+I.- El nombre y apellidos, domicilio donde reside, nacionalidad, edad, grado escolar, ocupación u oficio del solicitante;
+
+II.- El nombre, apellidos, ocupación u oficio y domicilio donde reside su cónyuge;
+
+III.- La exposición clara, sucinta, en párrafos numerados, de la situación que guarda en relación a su cónyuge y sus hijos menores de edad o incapaces, debiendo indicar edad, grado escolar y el lugar en que estos últimos residen; y
+
+IV.- La propuesta de convenio para regular las consecuencias jurídicas del divorcio en los términos de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 271.
 
-Para que pueda pedirse el divorcio por el estado de interdicción declarado, es necesario que hayan transcurrido dos años desde que se declaró.
+La falta o deficiente presentación de la propuesta de convenio a que se refiere el artículo anterior, no será obstáculo para admitir a trámite la solicitud.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 272.
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, tengan más de un año de casados, no tengan hijos o teniéndolos estos sean mayores de 30 años y no sean incapaces, de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, podrán acudir a promover divorcio administrativo ante el Oficial del Registro Civil del lugar de su domicilio; sujetándose al procedimiento establecido para el efecto en el Capítulo XI de la Ley del Registro Civil.
+Procederá el divorcio administrativo cuando ambos consortes convengan en divorciarse y sean mayores de edad, tengan más de un año de casados, no tengan hijos o teniéndolos estos sean mayores de edad y no sean incapaces, carezcan de bienes, o que de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron o tratándose de separación de bienes hubieren acordado la compensación que uno dará al otro, se presentarán personalmente ante el Oficial del Registro Civil del lugar de su domicilio; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2008)</small>
 
@@ -2285,155 +2261,161 @@ Los consortes que no se encuentren en el caso previsto en los anteriores párraf
 
 (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2006)
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
 ###### Art. 274.
 
-El divorcio por mutuo consentimiento no puede pedirse sino pasado un año de la celebración del matrimonio.
+Se sobreseerá el procedimiento de divorcio cuando durante su trámite muera uno de los cónyuges.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 275.
 
-Mientras que se decrete el divorcio, el juez autorizará la separación de los cónyuges de una manera provisional, y dictará las medidas necesarias para asegurar la subsistencia de los hijos a quienes hay obligación de dar alimentos.
+La reconciliación de los cónyuges pone término al divorcio en cualquier estado en que se encuentre, si aún no se hubiere decretado. En este caso los interesados están obligados a comunicar su reconciliación al juez y previa su ratificación, se sobreseerá el procedimiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 276.
 
-Los cónyuges que hayan solicitado el divorcio por mutuo consentimiento, podrán reunirse de común acuerdo en cualquier tiempo, con tal de que el divorcio no hubiere sido decretado. No podrán volver a solicitar el divorcio por mutuo consentimiento sino pasado un año desde su reconciliación.
+La persona que no quiera pedir el divorcio incausado cuando su cónyuge padezca una enfermedad crónica o incurable que sea, además, contagiosa o hereditaria que ponga en riesgo la salud del cónyuge o de los demás miembros de la familia o por haber sido declarado el estado de interdicción mediante sentencia que haya causado ejecutoria, podrá solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el Juez, con conocimiento de causa, podrá decretar esa suspensión, aplicando todas las medidas de naturaleza cautelar necesarias para tal efecto, quedando subsistentes las demás obligaciones creadas por el matrimonio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 277.
 
-El cónyuge que no quiera pedir el divorcio fundado en las causas enumeradas en las fracciones VI, VII y XVIII del Artículo 267, podrá, sin embargo, solicitar que se suspenda su obligación de cohabitar con el otro cónyuge, y el Juez, con conocimiento de causa, podrá decretar esa suspensión, aplicando las órdenes de protección previstas en las legislaciones civil y de procedimientos civiles del Estado, así como todas las medidas de naturaleza precautoria y cautelar necesarias para tal efecto, quedando subsistentes las demás obligaciones creadas por el matrimonio.
+En la sentencia de divorcio incausado el juez declarará que, de no existir convenio entre los progenitores respecto de la custodia y convivencia en relación a sus hijos menores o incapaces, quedan obligados para con estos y cualquier cuestión al respecto, podrá ejercitarse a través de la vía incidental o en juicio autónomo según las circunstancias del caso, a fin de que el juez resuelva lo conducente en los términos de este Código y el Código de Procedimientos Civiles para el Estado.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 278.
 
-El divorcio solo puede ser demandado por el cónyuge que no haya dado causa a él, y dentro de los seis meses siguientes al día en que hayan llegado a su noticia los hechos en que se funde la demanda.
+Al decretarse el divorcio incausado se declarará que la obligación alimentaria subsiste para los padres en relación con sus hijos; la pensión alimenticia en caso de no quedar establecida en la sentencia de divorcio, se fijará y asegurará en la vía incidental o el juicio autónomo a elección del acreedor, excepto lo establecido en el Artículo 285 de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 279.
 
-Ninguna de las causas enumeradas en el artículo 267 pueden alegarse para pedir el divorcio cuando haya mediado perdón expreso o tácito.
+En la resolución en la cual se decrete el divorcio incausado, el juez declarará que él o la ex cónyuge podrá tener derecho a alimentos, cuando demuestre en la vía incidental los extremos del artículo 311 de este Código, así como que durante su matrimonio se dedicó preponderantemente a las labores del hogar y al cuidado de los hijos si los hubiere, esté imposibilitado para trabajar o carezca de bienes suficientes para su subsistencia.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 280.
 
-La reconciliación de los cónyuges pone término al juicio de divorcio en cualquier estado en que se encuentre, si aún no hubiere sentencia ejecutoria. En este caso los interesados deberán denunciar su reconciliación al juez, sin que la omisión de esta denuncia destruya los efectos producidos por la reconciliación.
+La resolución incidental que decrete subsistente el derecho alimentario a que se refiere el artículo anterior, determinará su monto, forma y duración de pago acorde a lo dispuesto en este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 281.
 
-El cónyuge que no haya dado causa al divorcio, puede antes de que se pronuncie la sentencia que ponga fin al litigio, prescindir de sus derechos y obligar al otro a reunirse con él; más, en este caso, no puede pedir de nuevo el divorcio por los mismos hechos que motivaron el juicio anterior, pero sí por otros nuevos, aunque sean de la misma especie.
+Quien reclame el derecho a los alimentos que regulan los artículos anteriores, tendrá la presunción de necesitarlos y podrá solicitar al juez que le fije prudencialmente una pensión alimenticia provisional.
+
+Si la contraparte la desvirtúa y se hubiere pagado en todo o en parte dicha pensión, el juez ordenará en la sentencia incidental que se le reintegre lo que hubiere otorgado más el interés legal correspondiente y dará conocimiento del Ministerio Público, para los efectos a que hubiere lugar.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 282.
 
-Al admitirse la demanda de divorcio, o antes, si hubiere urgencia, se dictarán provisionalmente y solo mientras dure el juicio, las disposiciones siguientes:
+En el caso de que las partes lleguen a un convenio después de haberse resuelto el divorcio incausado, lo harán del conocimiento del juez para su aprobación si este no contraviene alguna disposición legal, previa la intervención del Ministerio Público si involucra derechos de menores o incapaces.
 
-I.- Separar a los cónyuges en todo caso;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 2012)</small>
-
-II.- La separación provisional del cónyuge que lo solicite, se efectuará de acuerdo a lo preceptuado en el Código de Procedimientos Civiles del Estado;
-
-III.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos;
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
-
-IV.- Dictar las medidas convenientes para que un cónyuge no cause perjuicios en sus bienes al otro;
-
-V.- Dictar en su caso, las medidas precautorias que la ley establece respecto a la mujer que quede encinta;
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2004)</small>
-
-VI.- Poner a los hijos al cuidado de la persona que de común acuerdo hubieren designado los cónyuges, pudiendo ser uno de éstos. En defecto de ese acuerdo, el cónyuge que pida el divorcio propondrá la persona en cuyo poder deben quedar provisionalmente los hijos. El otro cónyuge tendrá el derecho de visitar o convivir con sus hijos en los términos que se convenga o como lo decida el juez en la forma que señala el último párrafo del presente artículo;
-
-> <small>(ADICIONADA, P. O. 3 DE ENERO DE 2000)</small>
-
-VII.- Dictar las medidas convenientes para que se impida o cese todo acto de violencia familiar incluyendo la prohibición de ir a un lugar determinado o acercarse al agraviado.
-
-El juez, previo el procedimiento que fije el Código respectivo y velando siempre porque el derecho de los hijos quede garantizado tanto en el orden económico, como en el de su salud física y mental, decretará las medidas necesarias para el efectivo resguardo de dichos derechos.
-
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 1997)</small>
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 283.
 
-En la sentencia que decrete el divorcio, el juez determinará los derechos y obligaciones derivados de la patria potestad y custodia que conservará cada uno de los cónyuges, respecto a la persona y bienes de sus hijos, teniendo en cuenta el interés particular de los menores, su salud, costumbres, educación y conservación de su patrimonio. Para tal efecto deberá el Juez oír al Ministerio Público, a los cónyuges; y en caso de estimarlo necesario, a los abuelos, tíos o hermanos mayores, pudiendo además, discrecionalmente acordar de oficio cualquiera providencia que considere benéfica para los hijos.
+Antes de emitir la sentencia incidental que resuelva las consecuencias jurídicas, el juez de oficio o a petición de parte interesada, se allegará de elementos probatorios durante el procedimiento para resolver el objeto del debate.
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2013)</small>
+En caso de existir menores, el juez escuchará su opinión conforme a su edad y madurez.
 
-No será aplicable lo previsto en el párrafo anterior, cuando las causas de divorcio sean las que se señalan en el Artículo 267 fracciones VI a excepción de la enfermedad referida en último término y VII, en cuyos casos los hijos quedarán bajo la custodia del cónyuge sano, pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de los hijos y XVII, de este Código.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Para los efectos del párrafo primero de este artículo, el Juez podrá antes de pronunciar sentencia definitiva, oír al Ministerio Público, a los hijos mayores de doce años y, en caso de estimarlo necesario a familiares o personas que concurran con los mismos.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 284.
 
-Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, podrán acordar los tribunales, a petición de los abuelos, tíos o hermanos mayores, cualquiera providencia que se considere benéfica a los menores.
+La sentencia de los incidentes que resuelvan las consecuencias jurídicas del divorcio incausado, señalará que las determinaciones emitidas por el juez o las convenidas por las partes, podrán ser modificadas judicialmente, en la vía incidental o por nuevo convenio, cuando se alteren sustancialmente las circunstancias tomadas en consideración para su Decreto.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 285.
 
-El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+En el divorcio incausado, los diversos juicios en trámite o resueltos mediante convenio o sentencia respecto de las consecuencias jurídicas del mismo, tendrán fuerza vinculante entre las partes y en todo caso deberá estarse a sus actuaciones judiciales, salvo lo dispuesto por el artículo 279 de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 286.
 
-El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
+El cónyuge que hubiere sido condenado mediante sentencia ejecutoria por haber incurrido en ingratitud hacia el otro cónyuge, perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 287.
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos en cuyo caso se estará a lo dispuesto a los derechos y obligaciones alimentistas que prevé este Código. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes, a la subsistencia y educación de los hijos.
+Decretado el divorcio incausado, se procederá conforme a las disposiciones de la ejecución de sentencia a la división de los bienes comunes, se tomarán las medidas necesarias para asegurar las obligaciones que queden pendientes entre los ex cónyuges o con relación a los hijos en cuyo caso se estará a lo dispuesto a los derechos y obligaciones alimentistas que prevé este Código.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004)</small>
 
 Para el caso de que existan bienes afectos al patrimonio familiar deberá estarse a lo dispuesto en el artículo 739 fracción VI de este Código.
 
-(REFORMADO, P.O. 8 DE DICIEMBRE DE 2004) (F. DE E., P.O. 24 DE DICIEMBRE DE 2004)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 288.
 
-En los casos de divorcio, el cónyuge inocente tendrá derecho a alimentos, mismo que perderá si concurren en él alguna de las siguientes circunstancias:
+En los casos de divorcio incausado de los matrimonios bajo el régimen de separación de bienes, si uno de los cónyuges fuera el que se dedicó preponderantemente a las labores del hogar o al cuidado de los hijos, y no hubiere generado bienes o en su caso, habiéndolos generado estos no alcancen la proporción equivalente en valor a los generados por el otro, deberá el juez decretar una compensación para aquel cónyuge, bajo los principios de equidad y solidaridad, misma que podrá ser hasta del cincuenta por ciento del valor de dichos bienes.
 
-> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 2004)</small>
-
-I.- Que contraiga nuevas nupcias o se una a otra persona con fines semejantes al matrimonio;
-
-> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 2004)</small>
-
-II.- Que no tenga un modo honesto de vivir; y
-
-> <small>(F. DE E., P.O. 24 DE DICIEMBRE DE 2004)</small>
-
-III.- Que tenga bienes propios para subsistir y se encuentre en posibilidades para trabajar.
-
-Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
-
-En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia, ni a la indemnización que concede este artículo.
-
-En el caso de divorcio necesario por la causal contenida en la fracción XIX del artículo 267 de este Código, en lo relativo a los alimentos entre los cónyuges y la capacidad para contraer nuevo matrimonio, regirán en lo conducente las disposiciones en materia de divorcio por mutuo consentimiento.
-
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Art. 288 Bis.
 
-En los casos de divorcio necesario de los matrimonios bajo el régimen de separación de bienes, si el cónyuge inocente fuera además el que se dedicó preponderantemente a las labores del hogar o al cuidado de los hijos, y todos o la mayor parte de los bienes que se hayan generado durante el matrimonio se encuentren a favor del otro cónyuge, el juez deberá decretar una compensación para el cónyuge inocente, bajo los principios de equidad, misma que en ningún caso podrá ser mayor al cuarenta por ciento del valor de dichos bienes.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 289.
 
-En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
+Tratándose de la violencia familiar a que se refiere el artículo 323 bis de este Código, dentro de un procedimiento de divorcio incausado, el juez de oficio o a petición de parte en su caso, con intervención del Ministerio Público emitirá de inmediato las medidas cautelares en los términos del artículo 1118 del Código de Procedimientos Civiles para el Estado.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2007)</small>
-
-El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años a contar desde que se decretó el divorcio.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2007)</small>
-
-Para que los cónyuges que se divorcien voluntariamente, puedan volver a contraer matrimonio es indispensable, que haya transcurrido un año, desde que obtuvieron el Divorcio.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE JUNIO DE 2007)</small>
-
-Se dejará al arbitrio judicial, el poder reducir los anteriores términos, tomando en cuenta, las circunstancias que se presentaron en el desarrollo de los procesos, la fecha del auto por el cual quedaron separados provisionalmente los cónyuges y también cuando al cónyuge divorciado le quede bajo su responsabilidad la custodia de los hijos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Art. 290.
 
-La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los herederos del muerto tienen los mismos derechos y obligaciones que tendrían si no hubiera existido dicho juicio.
+(DEROGADO, P.O. 14 DE DICIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 291.
 
-Ejecutoriada una sentencia de divorcio, el juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
+En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer matrimonio.
 
 (NOTA: EL 19 DE FEBRERO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2018, "SE DECLARA LA INVALIDEZ DE LOS ARTÍCULOS 140 Y 148, EN SENDAS PORCIONES NORMATIVAS "EL HOMBRE Y LA MUJER" DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN, REFORMADO MEDIANTE DECRETO NÚMERO 317, PUBLICADO EN LA SECCIÓN TERCERA DEL PERIÓDICO OFICIAL DE DICHA ENTIDAD EL OCHO DE ENERO DE DOS MIL DIECIOCHO Y, EN VÍA DE CONSECUENCIA, LA DEL ARTÍCULO 147, EN LAS PORCIONES NORMATIVAS "UN SOLO HOMBRE Y UNA SOLA MUJER" Y "PERPETUAR LA ESPECIE", DEL REFERIDO CÓDIGO CIVIL EN LA INTELIGENCIA DE QUE, EN LA INTERPRETACIÓN Y APLICACIÓN DE LAS PORCIONES NORMATIVAS "ENTRE UN SOLO HOMBRE Y UNA SOLA MUJER" Y "COMO MARIDO Y MUJER", CONTENIDAS EN DIVERSOS PRECEPTOS DEL CÓDIGO IMPUGNADO Y EN OTROS ORDENAMIENTOS DE LA PROPIA ENTIDAD FEDERATIVA VINCULADOS TANTO CON EL MATRIMONIO COMO CON EL CONCUBINATO (COMPRENDIDO EN EL CAPÍTULO XI, TITULO QUINTO, LIBRO PRIMER, DEL CÓDIGO CIVIL LOCAL), DEBERÁN ENTENDERSE QUE ESTAS INSTITUCIONES INVOLUCRAN A DOS PERSONAS DEL MISMO O DIFERENTE SEXO.", LA CUAL SURTIÓ EFECTOS EL 19 DE FEBRERO DE 2019 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -2621,15 +2603,21 @@ El tutor interino dará garantía por el importe anual de los alimentos. Si admi
 
 En los casos en que los que ejerzan la patria potestad gocen de la mitad del usufructo de los bienes del hijo, el importe de los alimentos se deducirá de dicha mitad, y si ésta no alcanza a cubrirlos, el exceso será de cuenta de los que ejerzan la patria potestad.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
 ###### Art. 320.
 
-Cesa la obligación de dar alimentos:
+Se suspenderá la obligación de dar alimentos:
 
 I.- Cuando el que la tiene carece de medios para cumplirla;
 
 II.- Cuando el alimentista deja de necesitar los alimentos;
 
-III.- En caso de injuria, falta o daño graves inferidos por el alimentista contra el que debe prestarlos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+III.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2016)
 
 IV.- Cuando la necesidad de los alimentos depende de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan estas causas;
 
@@ -2637,13 +2625,43 @@ IV.- Cuando la necesidad de los alimentos depende de la conducta viciosa o de la
 
 V.- Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificables;
 
-> <small>(ADICIONADA, P.O. 3 DE ENERO DE 2000)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VI.- Cuando el alimentista sea condenado por violencia familiar en contra de quien debía prestárselos.
+VI.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2016)
 
-> <small>(ADICIONADO, P.O. 3 DE ENERO DE 2000)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-El cese de la obligación de dar alimentos sólo afectará al que hubiere dado lugar a ello, continuando vigente la obligación de dar alimentos que el acreedor alimentista tuviere con sus demás deudores alimentistas.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+En cualquiera de los supuestos anteriores, de cambiar las circunstancias que originaron la suspensión, podrá reclamarse en la vía incidental atendiendo la necesidad de quien los reclama y la posibilidad de quien debe otorgarlos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Art. 320 Bis.
+
+La obligación de dar alimentos cesará:
+
+I.- En caso de ingratitud del acreedor hacia el deudor y en los supuestos contenidos en los artículos 1213 fracción VIII y 1237 de este Código;
+
+II.- Cuando el alimentista sea condenado por violencia familiar en contra de quien debía proporcionarlos;
+
+III.- Tratándose del divorcio, salvo los casos de excepción que establece este Código;
+
+IV.- Cuando el acreedor contraiga nupcias o se una con fines semejantes al matrimonio; y
+
+V.- Por resolución judicial.
+
+Acreditado en forma plena, cualquiera de los supuestos anteriores a través de acción autónoma, la pensión alimenticia se cancelará y el derecho se perderá en definitiva, salvo en aquellos casos en que la sentencia de divorcio hubiere la declaración respectiva.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Art. 320 Bis 1.
+
+La suspensión o la cesación de la obligación de dar alimentos sólo afectará al que hubiere dado lugar a ello, continuando vigente la obligación de dar alimentos que el deudor alimentista tuviere con sus demás acreedores alimentistas.
 
 ###### Art. 321.
 
@@ -3491,15 +3509,13 @@ Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la pat
 
 Tratándose de niñas, niños o adolescentes que se encuentren a disposición de la Procuraduría de la Defensa del Menor y la Familia, y que después de treinta días no haya sido posible reincorporarlos con sus padres, los abuelos podrán ejercer los derechos y obligaciones derivados de la patria potestad, quienes serán sujetos a evaluaciones psicológicas y sociales; en caso contrario se les llamará mediante edicto que será publicado por única ocasión en el Diario Oficial de la Federación así como en el Periódico Oficial del Estado, a fin de que comparezcan en el improrrogable término de diez días naturales, contados a partir de la publicación. Transcurrido dicho término sin que hubieran comparecido a ejercitar su derecho, se entenderá su falta de interés manifiesta y por ende los abuelos no serán considerados para el procedimiento judicial de perdida de patria potestad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 414 Bis.
 
-La madre tendrá en todos los casos en que no viva con el padre de sus hijos, el derecho preferente de mantener a su cuidado a los que fueren menores de doce años, a menos que hubiese sido sentenciada por incurrir en conductas de violencia familiar, sea de las contempladas en el Código Civil o en el Código Penal como delitos de violencia familiar o equiparable a la violencia familiar, exista orden de restricción dictada por autoridad competente, que se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriaguez, drogadicción o cualquier otra adicción que pusiere directa o indirectamente en riesgo la estabilidad física o emocional del menor, tuviere alguna enfermedad contagiosa, o por su conducta antisocial ofreciere peligro grave para la salud o la moralidad de sus hijos. Debiendo en todo caso el Juez, escuchar la opinión de los menores que han cumplido doce años, resolviendo siempre conforme al interés superior de éstos.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
-En todos los casos, el Juez deberá garantizar y facilitar la convivencia de los menores con su padre o madre y cuando sea necesario supervisarla.
+La madre tendrá en todos los casos en que no viva con el padre de sus hijos, el derecho preferente de mantener a su cuidado a los que fueren menores de doce años, a menos que hubiese sido sentenciada por incurrir en conductas de violencia familiar, sea de las contempladas en el Código Civil o en el Código Penal como delitos de violencia familiar o equiparable a la violencia familiar, exista orden de restricción dictada por autoridad competente, que se dedicare a la prostitución, al lenocinio, hubiere contraído el hábito de embriaguez, drogadicción o cualquier otra adicción que pusiere directa o indirectamente en riesgo la estabilidad física o emocional del menor, tuviere alguna enfermedad contagiosa, o por su conducta antisocial ofreciere peligro grave para la salud o la moralidad de sus hijos. Debiendo en todo caso el Juez, escuchar la opinión de los menores conforme a su edad y madurez, resolviendo siempre conforme al interés superior de éstos. En todos los casos, el Juez deberá garantizar y facilitar la convivencia de los menores con su padre o madre y cuando sea necesario supervisarla.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
@@ -3509,17 +3525,21 @@ En el caso del artículo 414, los abuelos a quienes les corresponde la patria po
 
 Si no se pusieren de acuerdo decidirá el Juez oyendo a los ascendientes, conforme a lo establecido en el artículo 418.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 415 Bis.
 
-Los titulares de la patria potestad, aun cuando no conserven la custodia, tienen el derecho de convivencia con sus descendientes, a quienes se les solicitará su opinión si han cumplido doce años. El ejercicio de este derecho, queda supeditado a que no represente riesgo para el menor y a la acreditación del cumplimiento de la obligación alimenticia.
+Los titulares de la patria potestad, aun cuando no conserven la custodia, tienen el derecho de convivencia con sus descendientes, a quienes se escuchará su opinión conforme a su edad y madurez. El ejercicio de este derecho, queda supeditado a que no represente riesgo para el menor y a la acreditación del cumplimiento de la obligación alimenticia.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 2012)</small>
 
 Quien ejerza su custodia tiene la obligación de respetar, procurar y permitir las relaciones personales entre el menor, padres y abuelos. En caso de oposición, a petición de cualquiera de ellos, el Juez resolverá lo conducente en atención al interés superior del menor, a la existencia de conducta constitutiva de violencia familiar en contra del menor o de quien tenga su custodia material, prevista en el Código Civil o en el Código Penal como los delitos de Violencia Familiar o Equiparable a la Violencia Familiar.
 
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+
 Corresponde a los abuelos asumir las expensas del goce y disfrute de su derecho para convivir con sus nietos menores de edad, mas dicha facultad no representa subordinación de los derechos de quien o quienes ejerzan la patria potestad y a la libertad que tienen de dirigir su formación.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
 Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refieren los párrafos anteriores.
 
@@ -3657,11 +3677,13 @@ En cualquiera de los supuestos anteriores, la Procuraduría de la Defensa del Me
 
 El Juez previa audiencia de los interesados incluyendo a la niña, niño o adolescente según sea el caso y del Ministerio Público, con el correspondiente ofrecimiento y desahogo de pruebas, resolverá lo que fuere más conveniente al bienestar de la a la niña, niño o adolescente en atención al interés superior del menor.
 
-> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 418.
 
-En todos los casos en que se requiera la intervención judicial para decidir sobre la patria potestad, la custodia y la convivencia de los menores sujetos a ellas, deberá oírseles si han cumplido doce años; y se resolverá lo que sea más conveniente a su bienestar. Lo mismo se observará en los asuntos relativos a la formación y educación de los menores.
+En todos los casos en que se requiera la intervención judicial para decidir sobre la patria potestad, la custodia y la convivencia de los menores sujetos a ellas, deberá escuchárseles conforme a su edad y madurez; y se resolverá lo que sea más conveniente a su bienestar. Lo mismo se observará en los asuntos relativos a la formación y educación de los menores.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -3866,6 +3888,14 @@ También se perderá la patria potestad cuando quien la ejerza sea condenado exp
 ###### Art. 445.
 
 El ascendiente que pase a ulteriores nupcias, no pierde por este hecho la patria potestad.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Art. 445 Bis.
+
+El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
 > <small>(REFORMADO, P.O. 5 DE FEBRERO DE 1997)</small>
 
@@ -4976,6 +5006,16 @@ IV.- Investigar y poner en conocimiento del juez qué incapacitados carecen de t
 V.- Cuidar con especialidad de que los tutores cumplan la obligación que les impone la fracción II del artículo 537;
 
 VI.- Vigilar el registro de tutelas, a fin de que sea llevado en debida forma.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Art. 632 Bis.
+
+Al margen de los Consejos Locales de Tutelas que se reglamentan en artículos que anteceden, el Tribunal Superior de Justicia del Estado, a través del órgano interno que corresponda, podrá contar con los tutores, curadores o interventores que su presupuesto permita, a efecto de que puedan intervenir dentro de los procesos jurisdiccionales donde sea necesario.
+
+Las personas que desempeñan los cargos señalados en el párrafo anterior, deberán cumplir con los requisitos que exige el presente código, así como los que exijan las demás leyes y reglamentos.
 
 ###### Art. 633.
 
@@ -8027,9 +8067,13 @@ I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a 
 
 II.- El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena capital o de prisión, aún cuando aquella sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o la de sus descendientes, ascendientes, hermanos o cónyuge;
 
-III.- El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IV.- El coautor del cónyuge adúltero, ya sea que se trate de la sucesión de éste o de la del cónyuge inocente;
+III.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+IV.- (DEROGADA, P.O. 14 DE DICIEMBRE DE 2016)
 
 V.- El que haya sido condenado por un delito que merezca pena de prisión, cometido contra el autor de la herencia, de sus hijos, de su cónyuge, de sus ascendientes o de sus hermanos;
 
@@ -13193,17 +13237,23 @@ I.- Si el donatario comete algún delito contra la persona, la honra o los biene
 
 II.- Si el donatario rehusa socorrer, según el valor de la donación, al donante que ha venido a pobreza;
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-III.- Si el cónyuge donatario es declarado adúltero en procedimiento civil;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+III.- Si el donatario es condenado por sentencia que haya causado ejecutoria en proceso civil por cometer contra el donante hechos o actos de violencia familiar;
 
-IV.- Si el coautor del adulterio es el donatario, en los términos de la fracción anterior; o
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA, P.O. 13 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-V.- Si el donatario es condenado por sentencia que haya causado ejecutoria en proceso civil por cometer contra el donante hechos o actos de violencia familiar.
+IV.- Por falta de ministración de alimentos; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+V.- Por cualquier otra causa grave que a juicio del juez, esté debidamente fundada.
 
 ###### Art. 2265.
 
@@ -14279,7 +14329,11 @@ II.- Para transigir;
 
 III.- Para comprometer en árbitros;
 
-IV.- Para absolver y articular posiciones;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+IV.- Para absolver posiciones, más no se requerirá poder o cláusula especial para articularlas, salvo disposición expresa y por escrito que oportunamente formule en contrario el mandante;
 
 V.- Para hacer cesión de bienes;
 
@@ -16539,7 +16593,7 @@ Transcurridos tres años sin que se comunique al registrador la calificación qu
 
 ###### Art. 2907.
 
-Toda título que se presente a registro, deberá expresar las circunstancias siguientes:
+Todo título que se presente a registro, deberá expresar las circunstancias siguientes:
 
 I.- Naturaleza, situación, linderos o colindancias de los inmuebles objeto de la operación o a los cuales afecte el derecho de que se trate, su medida superficial y datos de registro del título antecedente;
 
@@ -17318,6 +17372,18 @@ P.O. 11 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 108. SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES V Y VI Y LA ADICIÓN DE UNA FRACCIÓN VII EN EL ARTÍCULO 989 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; Y SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO DEL ARTICULO 1812 BIS DEL CÓDIGO CIVIL AMBOS DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 172. SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN, LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN, DEL ARANCEL DE ABOGADOS EN EL ESTADO DE NUEVO LEÓN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor a partir de los 90 días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Resulta aplicable el presente Decreto a los matrimonios celebrados con anterioridad y posterioridad de la entrada en vigor del mismo.
+
+Tercero.- La entrada en vigor del presente Decreto, no altera los derechos adquiridos en los juicios de divorcio concluidos en forma ejecutoriada.
+
+Cuarto.- Los asuntos en trámite al entrar en vigor las reformas contenidas en este Decreto, seguirán su curso en la forma que iniciaron y, en su caso, se resolverán observando la jurisprudencia por contradicción 73/2014, publicada en el Semanario Judicial de la Federación, 10 de julio de 2015.
 
 ###### ARTICULO TERCERO.
 
