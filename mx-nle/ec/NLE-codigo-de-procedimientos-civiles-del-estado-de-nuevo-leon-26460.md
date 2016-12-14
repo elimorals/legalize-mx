@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2016-05-11"
+last_updated: "2016-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -595,11 +597,13 @@ El emplazamiento del demandado, y salvo los casos determinados en la Ley, deber�
 
 Si no se encontrare presente la persona interesada y después de que el notificador se cerciore, por el informe de dos vecinos, de que la persona de que se trata, vive ciertamente en el lugar designado, de todo lo que tomará razón pormenorizada en los autos, suscribiendo el acta los vecinos, si quisieren y supieren hacerlo; la notificación se llevará a efecto por medio de un instructivo en el que se hará constar el número de expediente, el nombre y apellidos del promovente, el objeto y naturaleza de la promoción, el del juez o tribunal que mande practicar la diligencia, copia íntegra de la determinación que se mande notificar, la fecha y hora en que se entregue el instructivo y el nombre y apellido de la persona a quien se entrega.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 70.
 
-El instructivo a que se refiere el artículo anterior se entregará a los parientes, domésticos o a cualquier otra persona capaz que se encuentre en la casa donde se practique la diligencia. Si no se encontrare persona alguna, si las presentes se negaren a recibirlo o si por cualquier otro motivo no se pudiere cumplir con lo dispuesto anteriormente, el instructivo se entregará al Juez auxiliar, o quien haga sus veces, de la sección respectiva, fijándose una copia del instructivo en la puerta o lugar más visible del domicilio del interesado. Si no existiere Juez Auxiliar o quien haga sus veces, la notificación se efectuará por conducto de la Secretaría del Ayuntamiento respectivo.
+El instructivo a que se refiere el artículo anterior se entregará a los parientes, domésticos o a cualquier otra persona capaz que se encuentre en la casa donde se practique la diligencia. Si no se encontrare persona alguna, si las presentes se negaren a recibirlo o si por cualquier otro motivo no se pudiere cumplir con lo dispuesto anteriormente, se hará por medio de instructivo que se fijará en la puerta de acceso principal o lugar más visible del domicilio del interesado, debiendo el notificador asentar la razón de tal circunstancia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE OCTUBRE DE 2005)</small>
 
@@ -673,11 +677,17 @@ Por errores u omisiones que hagan no identificables los procedimientos podrá pe
 
 Las notificaciones o citaciones se entenderán directamente con las personas interesadas o con sus representantes legítimos, mandatarios o apoderados legalmente acreditados en autos.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-No obstante lo anterior, las partes podrán autorizar para oír y recibir notificaciones en su nombre, a una o varias personas con capacidad legal, quienes quedarán facultadas para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de pruebas, intervenir en la diligenciación de exhortos, alegar en las audiencias, pedir se dicte sentencia o hacer promociones para evitar la consumación del término de caducidad por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrán sustituir o delegar dichas facultades en un tercero. Las personas designadas conforme a la primera parte de este párrafo, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de Abogado, debiendo proporcionar los datos correspondientes al registro de su título ante el Tribunal Superior de Justicia, en el entendido que el autorizado que no cumpla con lo anterior, perderá la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiere designado, y únicamente tendrá las que se indican en el antepenúltimo párrafo de este artículo.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-Las personas autorizadas en los términos de este artículo serán responsables, ante quien las autorice, de los daños y perjuicios que causen de acuerdo a las disposiciones aplicables del Código Civil para el mandato y las demás conexas. Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al Tribunal, haciendo saber las causas de la renuncia.
+No obstante lo anterior, las partes podrán autorizar para oír y recibir notificaciones en su nombre, a una o varias personas con capacidad legal, quienes quedarán facultadas para interponer los recursos que procedan, ofrecer e intervenir en el desahogo de pruebas, articular posiciones, salvo disposición expresa y por escrito en contrario que oportunamente haga la persona que lo autorice, intervenir en la diligenciación de exhortos, alegar en las audiencias, pedir se dicte sentencia o hacer promociones para evitar la consumación del término de caducidad por inactividad procesal y realizar cualquier acto que resulte ser necesario para la defensa de los derechos del autorizante, pero no podrán sustituir o delegar dichas facultades en un tercero. Las personas designadas conforme a la primera parte de este párrafo, deberán acreditar encontrarse legalmente autorizadas para ejercer la profesión de Abogado, debiendo proporcionar los datos correspondientes al registro de su título ante el Tribunal Superior de Justicia, en el entendido que el autorizado que no cumpla con lo anterior, perderá la facultad a que se refiere este artículo en perjuicio de la parte que lo hubiere designado, y únicamente tendrá las que se indican en el antepenúltimo párrafo de este artículo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+Las personas autorizadas en los términos de este artículo serán responsables, ante quien las autorice, de los daños y perjuicios que causen de acuerdo a las disposiciones aplicables del Código Civil para el mandato y las demás conexas. Los autorizados podrán renunciar a dicha calidad, mediante escrito presentado al Tribunal, haciendo saber las causas de la renuncia, la cual surtirá sus efectos una vez que el juez emita la resolución, previo conocimiento de la renuncia a la parte que lo autorizó por si desea autorizar otro, en la inteligencia de que la falta de manifestación se entenderá que no designará uno nuevo, salvo lo dispuesto en el primer párrafo del artículo 955 de este Código.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
 
@@ -949,7 +959,11 @@ X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patr
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, lo es el del domicilio conyugal;
 
-XII.- En los juicios de divorcio, el tribunal del domicilio conyugal y en caso de abandono de hogar, el del domicilio del cónyuge abandonado;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+XII.- En el divorcio por mutuo consentimiento el del domicilio de residencia de cualquiera de los solicitantes y en el divorcio incausado será el del domicilio en donde resida el promovente. En ambos casos, de haber hijos menores de edad o incapaces, será el del domicilio en el cual estos residan.
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2009)</small>
 
@@ -1463,11 +1477,13 @@ Sólo los Jueces de lo Familiar o Mixtos, en su caso, pueden decretar la separac
 
 En la solicitud, que puede ser escrita o verbal, se señalarán las causas en que se funda, el domicilio en donde habitará el cónyuge que solicita la separación, la existencia de hijos menores y se expondrán las demás circunstancias del caso. Si la urgencia del caso lo amerita, el Juez debe proceder de inmediato.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 170.
 
-Admitida la solicitud y previa citación del otro cónyuge, el Juez dictará las medidas conducentes a efecto de llevar a cabo la separación pudiendo trasladarse al domicilio conyugal o lugar donde habiten los cónyuges para tal efecto, resolviendo en el acto, y acorde a las circunstancias de las personas, cuáles bienes deban entregarse al cónyuge que salga del domicilio conyugal y se le apercibirá para que señale el domicilio donde habitará o en su defecto un domicilio convencional para los efectos de esta medida; en caso de no hacerlo así, las posteriores notificaciones se le practicarán en términos del artículo 68 último párrafo de este Código. En ese mismo acto, el Juez deberá decretar todas las diligencias y prevenciones que sean necesarias para proteger a los hijos menores, si los hubiere, escuchando la opinión de los que sean mayores de doce años.
+Admitida la solicitud y previa citación del otro cónyuge, el Juez dictará las medidas conducentes a efecto de llevar a cabo la separación pudiendo trasladarse al domicilio conyugal o lugar donde habiten los cónyuges para tal efecto, resolviendo en el acto, y acorde a las circunstancias de las personas, cuáles bienes deban entregarse al cónyuge que salga del domicilio conyugal y se le apercibirá para que señale el domicilio donde habitará o en su defecto un domicilio convencional para los efectos de esta medida; en caso de no hacerlo así, las posteriores notificaciones se le practicarán en términos del artículo 68 último párrafo de este Código. En ese mismo acto, el Juez deberá decretar todas las diligencias y prevenciones que sean necesarias para proteger a los hijos menores, si los hubiere, escuchando su opinión conforme a su edad y madurez.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2004)</small>
 
@@ -1599,7 +1615,11 @@ Esta medida cautelar podrá ser solicitada al Juez, indistintamente, por Institu
 
 Una vez radicada la solicitud, el Juez se trasladará al domicilio del menor o incapaz, previa citación de quienes ejercen sobre éste la patria potestad, tutela o custodia, así como del Ministerio Público o del representante de la Institución Pública promovente. Así mismo deberá citarse al familiar o al representante de la Institución Pública que haya aceptado que se le confíe al menor o incapaz, y a quien el juez preguntará en privado si ratifica o no dicha disposición.
 
-En la misma diligencia el Juez escuchará a las personas citadas en el párrafo anterior y decretará, en su caso, a quien se le confiara al menor o incapaz, para lo cual podrá tomar en consideración la declaración de los menores mayores de doce años.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+En la misma diligencia el Juez escuchará a las personas citadas en el párrafo anterior y decretará, en su caso, a quien se le confiara al menor o incapaz, para lo cual podrá tomar en consideración la declaración de los menores considerando su edad y madurez.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -3589,11 +3609,11 @@ La Sala que haya pronunciado la sentencia, devolverá los autos al inferior, den
 
 Todo lo que en este título se dispone respecto de la ejecución de sentencias, comprende los laudos arbitrales, los convenios y las transacciones extrajudiciales que sean resultado de métodos alternos de solución de conflictos, reconocidas judicialmente en autos, los convenios celebrados en juicio y las transacciones que consten en escritura pública, que por su naturaleza traigan aparejada ejecución.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-###### Artículo 461 Bis.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-Para que sean elevados a la categoría de cosa juzgada o, en su caso, de sentencia ejecutoriada, los convenios o laudos resultantes de los métodos alternos realizados antes del inicio de un procedimiento jurisdiccional para la solución del conflicto, deberán atenderse las siguientes reglas:
+Artículo 461 BIS.- Para que sean elevados a la categoría de cosa juzgada o, en su caso, de sentencia ejecutoriada, los convenios o laudos resultantes de los mecanismos alternativos para la solución de controversias, realizados antes del inicio de un procedimiento jurisdiccional, salvo los convenios que se vinculen al divorcio o a sus consecuencias jurídicas que en él se hubieren declarado, deberán atenderse las siguientes reglas:
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
 
@@ -3610,6 +3630,12 @@ III. En caso de que el convenio cumpla los requisitos anteriormente señalados, 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2005)</small>
 
 IV. Si el convenio o el laudo fuere oscuro, irregular o incompleto, el juez señalará en concreto sus defectos y prevendrá tanto a las partes como al prestador del servicio de métodos alternos, para que dentro de un plazo máximo de treinta días, la aclaren, corrijan o completen; hecho lo cual le dará curso, y en caso contrario, denegará su trámite.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)
+
+Artículo 461 Bis I.- Tratándose del convenio vinculado al divorcio en cualquiera de sus formas, para su aprobación por parte del juez competente, deberá estarse a las disposiciones que le regulan en este Código y el Código Civil para el Estado.
 
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
@@ -3929,7 +3955,7 @@ I.- En cualquier caso en que, a juicio del juez, no basten los bienes secuestrad
 
 II.- Si el bien secuestrado que se sacó a remate, dejare de cubrir el importe de lo reclamado a consecuencia de las retasas que sufriera o si transcurrido un año desde la remisión, tratándose de muebles, no se hubiere obtenido su venta;
 
-II.- Cuando no se embarguen bienes suficientes, por no tenerlos el deudor y después aparecen o los adquiere;
+III.- Cuando no se embarguen bienes suficientes, por no tenerlos el deudor y después aparecen o los adquiere;
 
 IV.- En los casos de tercería, conforme al artículo 599.
 
@@ -7037,11 +7063,17 @@ Los Jueces de lo Familiar conocerán con los procedimientos, reglas y términos 
 
 En los asuntos de su competencia los jueces de lo familiar siempre podrán exhortar a los interesados a la conciliación y a resolver sus diferencias mediante convenio. El juez de lo familiar está facultado para decretar, en cualquier momento del trámite de un asunto del orden familiar, las medidas cautelares que sean necesarias para preservar la familia y proteger a sus miembros, particularmente tratándose de menores u otros incapaces.
 
-> <small>(REFORMADO, P.O. 9 DE JUNIO DE 2010)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 955.
 
-En los negocios de que conozcan los jueces de lo familiar, será optativo para las partes acudir asesoradas. El asesoramiento deberá recaer siempre en abogados con título profesional registrado ante el Tribunal Superior de Justicia. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor público, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando para ello de un término que no podrá exceder de tres días, en cuyo caso se prorrogará el término que se hubiese concedido para el ejercicio de algún derecho.
+En los negocios de que conozcan los jueces de lo familiar, será optativo para las partes acudir asesoradas. El asesoramiento deberá recaer siempre en abogados con título profesional registrado ante el Tribunal Superior de Justicia. En caso de que una de las partes hubiere autorizado abogado dentro del expediente y la otra no, se solicitarán de inmediato los servicios de un defensor público, el que deberá acudir, desde luego, a enterarse del asunto, disfrutando para ello de un término que no podrá exceder de tres días, en cuyo caso se prorrogará el término que se hubiese concedido para el ejercicio de algún derecho.
+
+En el supuesto de que el abogado autorizado dentro del expediente por alguna de las partes, no acuda a la audiencia sin justa causa calificada por el Juez, será sancionado con una multa hasta por el monto establecido en el artículo 27 del presente Código.
+
+Si el procedimiento se entablare por medio de apoderado, será admitida la personalidad del representante si consta en Escritura Pública que contenga cláusula expresa para deducir la acción o pretensión correspondiente e impulsarla, salvo los casos expresamente señalados en este Código o en el Código Civil en el Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE ENERO DEL 2000)</small>
 
@@ -7477,13 +7509,13 @@ Se sujetarán al procedimiento oral:
 
 I.- Las controversias que se susciten con motivo de arrendamientos o de comodatos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-II.- Las controversias que se susciten con motivo de alimentos, y convivencia y posesión interina de menores, cuando éstas constituyan el objeto de la acción principal;
+II.- Las controversias que se susciten con motivo de alimentos, custodia, convivencia y posesión de estado de padre o de hijo, cuando éstas constituyan el objeto de la acción principal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2009)</small>
 
@@ -7493,17 +7525,21 @@ III.- Las solicitudes de divorcio por un mutuo consentimiento;
 
 IV.- Los actos de jurisdicción que versen sobre enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos, adopción y del cambio de régimen de matrimonio;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-V.- Las acciones de divorcio establecidas en las fracciones I, XI y XII del Artículo 267 del Código Civil, siempre que no se hagan valer con alguna diversa de éstas;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+V.- El divorcio incausado;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2016)</small>
 
 VI.- El trámite estipulado en la Ley que Regula el Procedimiento de Emisión de la Declaratoria de Ausencia por Desaparición en el Estado de Nuevo León; y
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VII.- Las controversias que se susciten con motivo de las obligaciones que nacen de los actos ilícitos.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+VII.- La homologación de los convenios obtenidos fuera de juicio como resultado de la aplicación de los mecanismos alternativos para la solución de controversias que versen sobre custodia, convivencia o alimentos.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7546,6 +7582,12 @@ La nulidad de una actuación deberá reclamarse en la audiencia subsecuente, baj
 ###### Artículo 996.
 
 Las resoluciones judiciales pronunciadas en las audiencias se tendrán por notificadas, sin necesidad de formalidad alguna, a quienes estén presentes o debieron haber estado.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de la sentencia el secretario leerá únicamente los puntos resolutivos y en caso de que a esta audiencia no asistieren ambas partes, se dispensará su lectura. Acto seguido quedará a disposición de las partes copia de la sentencia que se pronuncie, por escrito.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7925,11 +7967,9 @@ Corresponderá seguir el procedimiento respectivo, si la cuestión planteada es 
 
 El demandado, al tiempo de contestar la demanda, podrá proponer la reconvención. Si se admite por el Juez, se correrá traslado de la misma al actor, a fin de que la conteste por escrito en un plazo de cinco días.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-Si en la reconvención se hace valer causal de divorcio diversa de las establecidas en las fracciones I, XI y XII del Artículo 267 del Código Civil, cesará de inmediato el juicio oral para que se continúe en la vía ordinaria.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -7975,11 +8015,9 @@ Si asisten las partes, el Juez les propondrá someterse a un método alterno, y 
 
 No acordando las partes someter el conflicto a un método alterno, el Juez procurará la conciliación, haciéndoles saber las conveniencias de llegar a un convenio, y proponiéndoles soluciones a todos o algunos de los puntos controvertidos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2009)</small>
-
-Si del resultado de la conciliación en las acciones de divorcio, las partes convienen en disolver su vínculo matrimonial en los términos del Artículo 1082 de este código, se suspenderá el proceso contencioso por un plazo no mayor a treinta días, debiendo presentarse la solicitud respectiva ante el juzgado que conoce del negocio. Decretado el divorcio en esa forma, se ordenará el archivo del primer proceso como asunto concluido.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -8149,11 +8187,21 @@ La prueba documental podrá presentarse hasta antes de la etapa de calificación
 
 En los casos en que los acreedores alimentarios tuvieren 65 años o más, el Juez dentro de la pensión provisional contemplará un porcentaje de los gastos que por concepto de salud se estén erogando al momento de solicitarlos.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1071.
 
-La sentencia que decrete los alimentos, fijará la pensión correspondiente, la cual deberá abonarse siempre por adelantado. La sentencia respectiva indicará siempre, en su parte considerativa y en uno de sus puntos resolutivos, que el monto de la pensión podrá modificarse en su cuantía, previo el procedimiento respectivo, para que esté ajustada permanentemente a las necesidades del acreedor alimentista y a las posibilidades del obligado a proporcionar alimentos; esta circunstancia deberá hacerse del conocimiento de las partes personalmente al ser notificada la sentencia respectiva.
+La sentencia que decrete los alimentos, fijará la pensión correspondiente, la cual deberá abonarse siempre por adelantado. La sentencia respectiva indicará siempre, en su parte considerativa y en uno de sus puntos resolutivos, que la pensión podrá modificarse en la vía incidental a fin de que esté ajustada permanentemente a las necesidades del acreedor alimentista y a las posibilidades del obligado a proporcionar alimentos; esta circunstancia deberá hacerse del conocimiento de las partes personalmente al ser notificada la sentencia respectiva.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1071 Bis.
+
+La suspensión del derecho a la pensión que se hubiere decretado en sentencia, se ventilará en la vía incidental.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -8173,23 +8221,29 @@ La pensión definitiva fijada en la sentencia sustituirá a la provisional.
 
 La sentencia en que se denieguen los alimentos es apelable en ambos efectos y la que los concede en el efecto devolutivo.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1074.
 
-En este procedimiento no se admitirá ninguna discusión sobre el derecho a percibir alimentos. Cualquier reclamación en este sentido deberá intentarse en juicio ordinario.
+En este procedimiento no se admitirá ninguna discusión sobre el derecho a percibir alimentos o su cesación. Cualquier reclamación en este sentido deberá intentarse en acción autónoma.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+En los juicios en que se reclamen alimentos entre cónyuges, si durante la tramitación del mismo se disuelve el matrimonio, quedará sin materia la acción ejercida en virtud de la variación del título por el que se solicitaron, quedando a salvo los derechos de los interesados para reclamarlos en términos del artículo 279 del Código Civil para el Estado de Nuevo León. Si la acción se hubiera ejercido además a favor de otros acreedores, el juicio deberá continuar respecto de éstos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1075.
 
-Las controversias que se promuevan sobre el importe de los alimentos se decidirán en forma incidental, sin perjuicio de seguirse abonando al acreedor alimentista, durante la sustanciación del incidente, la cantidad asignada conforme al artículo 1071 del presente Código.
+Durante la sustanciación de las controversias a que se refieren los artículos 1071, 1071 bis y 1074 de este Código, se seguirá abonando al acreedor alimentista la pensión asignada conforme a la primera parte del artículo 1071 del presente Código.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-#### SECCION TERCERA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-CONVIVENCIA Y POSESION INTERINA DE MENORES.
+#### SECCION TERCERA. DE LA CUSTODIA, CONVIVENCIA Y POSESION DE ESTADO DE PADRE O DE HIJO
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -8197,9 +8251,11 @@ CONVIVENCIA Y POSESION INTERINA DE MENORES.
 
 Se sujetarán al procedimiento oral, así como a las reglas especiales de esta sección, las controversias que se susciten con motivo de:
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-I.- La custodia provisional de los menores respecto de quienes ejercen la patria potestad; en este supuesto, cuando haya menores de doce años, éstos preferentemente deberán permanecer bajo custodia de la madre, salvo los casos de excepción contemplados por el artículo 414 Bis del Código Civil para el Estado de Nuevo León. Debiendo en todo caso el Juez, escuchar la opinión de los menores que han cumplido doce años, resolviendo siempre conforme al interés superior de éstos.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+I.- La custodia de los menores respecto de quienes ejercen la patria potestad; en este supuesto, cuando haya menores de doce años, éstos preferentemente deberán permanecer bajo custodia de la madre, salvo los casos de excepción contemplados por el artículo 414 Bis del Código Civil para el Estado de Nuevo León. Debiendo en todo caso el Juez, escuchar la opinión de los menores conforme a su edad y madurez.
 
 II.- La convivencia entre los padres en relación con sus hijos, o entre éstos y aquellos, mientras estén sujetos a la patria potestad, y
 
@@ -8221,11 +8277,13 @@ El Juez, después de contestada la demanda y fijada la litis, fijará un régime
 
 La convivencia provisional cesará una vez que el Juez pronuncie la sentencia definitiva.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1078.
 
-Durante el procedimiento deberá escucharse la opinión de los menores, si han cumplido doce años, quedando obligada la persona que detente la custodia a presentarlo el día y la hora señalados.
+Durante el procedimiento deberá escucharse la opinión de los menores conforme a su edad y madurez, quedando obligada la persona que detente la custodia a presentarlo el día y la hora señalados.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -8271,11 +8329,19 @@ I.- Designación de personas a quienes serán confiados los hijos del matrimonio
 
 II.- El derecho de visita o convivencia que tendrá el cónyuge que no tenga la custodia, debiendo las partes precisar los días y las horas para ese efecto, y en caso de no hacerlo así, el Juez los determinará atendiendo a las circunstancias personales de los cónyuges y al interés superior de los menores;
 
-III.- El modo de subvenir a las necesidades de los hijos, así como la garantía que debe darse para asegurarlo, tanto durante el procedimiento como después de ejecutoriado el divorcio;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+III.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
 IV.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento y después de ejecutoriado el divorcio;
 
-V.- La cantidad que a título de alimentos, en caso de así acordarlo, un cónyuge debe pagar al otro durante y después del procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+V.- La cantidad que a título de alimentos, en caso de así acordarlo, un cónyuge debe pagar al otro durante y después del procedimiento y la forma de hacer el pago;
 
 VI.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento;
 
@@ -8285,17 +8351,35 @@ VIII.- Designación de la persona que cubrirá los gastos notariales en caso de 
 
 IX.- Precisar el tiempo que llevan separados los cónyuges;
 
-X.- La manifestación, bajo protesta de decir verdad, de si se encuentra o no encinta la cónyuge; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XI.- Cualquier otro requisito que el Juez considere procedente tomando en cuenta las circunstancias de cada caso.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+X.- La manifestación, bajo protesta de decir verdad, de si se encuentra o no encinta la cónyuge;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+XI.- Cualquier otro requisito que el Juez considere procedente tomando en cuenta las circunstancias de cada caso; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+XII.- Tratándose del régimen de separación de bienes, en caso de así acordarlo, la compensación que dará uno de los cónyuges al otro.
 
 Si la solicitud, el convenio o la documentación fueren insuficientes, el Juez concederá a los solicitantes un plazo de tres días para que los completen.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1083.
 
-Hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez citará a los cónyuges, al Ministerio Público y, en su caso, al fiador, a una audiencia, señalando día y hora para que se verifique en un plazo de quince días.
+Hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez citará a los cónyuges, al Ministerio Público a una audiencia, señalando día y hora para que se verifique en un plazo no mayor de quince días.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2016, PÁGINA 17.]</small>
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -8303,11 +8387,17 @@ Hecha la solicitud y cumplidas las exigencias del artículo anterior, el Juez ci
 
 En la audiencia a que se refiere el artículo anterior, el Juez exhortará a los consortes a su reconciliación.
 
-Si se avienen, el Juez declarará sobreseído el procedimiento. Si no se logra la reconciliación e insisten los cónyuges en su propósito de divorciarse, siempre que en el convenio queden bien garantizados los derechos de los hijos, y que el Ministerio Público haya manifestado su conformidad, el Juez suspenderá la audiencia por un plazo no mayor a una hora, al término del cual deberá reanudarla y pronunciar de inmediato la sentencia, disolviendo el vínculo matrimonial y decidiendo sobre el convenio presentado, decretando cuantas medidas sean necesarias para el bienestar de los hijos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-En caso de que el Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de los hijos o que no quedan bien garantizados, propondrá las modificaciones que estime pertinentes y el Juez lo hará saber a los cónyuges, para que en la misma audiencia manifiesten si aceptan o no las modificaciones.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
-En caso de que no las acepten, el Juez resolverá en la sentencia lo que proceda con arreglo a la ley, cuidando que queden debidamente garantizados los derechos de los hijos.
+De darse la misma, el Juez declarará sobreseído el procedimiento. Si no se logra la reconciliación e insisten los cónyuges en su propósito de divorciarse, siempre que en el convenio queden salvaguardados los derechos de los hijos, y que el Ministerio Público haya manifestado su conformidad, el Juez dictará en ese acto la sentencia o suspenderá la audiencia por un plazo no mayor a una hora, al término del cual deberá reanudarla y pronunciarla de inmediato, disolviendo el vínculo matrimonial y decidiendo sobre el convenio presentado, decretando cuantas medidas sean necesarias para el bienestar de los hijos. En caso de que el Ministerio Público se oponga a la aprobación del convenio, por considerar que viola los derechos de los hijos o que no quedan salvaguardados, propondrá las modificaciones que estime pertinentes a los cónyuges para que en la misma audiencia manifiesten si aceptan o no las modificaciones.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES PÁRRAFO CUARTO], P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+En el caso anterior, el Juez resolverá en la sentencia lo que proceda con arreglo a la ley, cuidando que queden debidamente salvaguardados los derechos de los hijos.
 
 Cuando el convenio no deba ser aprobado, no podrá decretarse la disolución del matrimonio.
 
@@ -8331,11 +8421,13 @@ En caso que cualquiera de los cónyuges, sin justa causa calificada por el Juez,
 
 Si el cónyuge inasistente justifica la causa, el Juez citará a las partes a una nueva audiencia, bajo apercibimiento que en caso de persistir la inasistencia, el Juez declarará sin efecto la solicitud y mandará archivar el expediente.
 
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1088.
 
-La sentencia que decrete el divorcio por mutuo consentimiento es apelable en el efecto devolutivo y la que lo niegue en ambos efectos. En el caso que en la misma se decrete el pago de alimentos, deberá observarse lo dispuesto por el artículo 1071 de este Código.
+La sentencia que niegue el divorcio por mutuo consentimiento es apelable en ambos efectos. En el caso que en la misma se decrete el pago de alimentos, deberá observarse lo dispuesto por el artículo 1071 de este Código.
 
 > <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2006)</small>
 
@@ -8556,6 +8648,202 @@ Los consortes que pretendan variar el régimen matrimonial deberán cumplir con 
 I. Allegar el acta de matrimonio; y
 
 II. Acompañar el convenio en los términos que señala el Código Civil.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO TERCERO. DEL DIVORCIO INCAUSADO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1107.
+
+La solicitud de divorcio incausado deberá reunir los requisitos que señala el artículo 270 del Código Civil para el Estado, debiendo acompañar copias fotostáticas legibles a simple vista del escrito y de todos los documentos que acompañe, para el efecto de correr traslado a su cónyuge.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1108.
+
+No será obstáculo para dar trámite a la solicitud de divorcio incausado la deficiencia o falta de presentación de la propuesta de convenio regulador de las consecuencias jurídicas del divorcio, pero deja expedita la jurisdicción del juez para emitir de oficio o a petición de parte las medidas cautelares en favor de los hijos menores o incapaces y, en su caso, del cónyuge, mismas que subsistirán hasta en tanto las partes lleguen a un convenio o se resuelva la cuestión que motivó su pronunciamiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1109.
+
+Admitida la solicitud de divorcio incausado, se le correrá el traslado de ella y sus anexos al otro cónyuge a fin de que dentro del término de nueve días desahogue la vista correspondiente.
+
+Si durante el procedimiento cualquiera de los cónyuges presenta la propuesta o contrapropuesta de convenio para regular las consecuencias jurídicas del divorcio, se dará vista al otro cónyuge para que en el plazo de tres días exprese lo conducente; hecho lo cual el juez resolverá, previa audiencia con las partes y del Ministerio Público, lo procedente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1110.
+
+Transcurrido el término del emplazamiento, de no presentarse el escrito de contestación, sin necesidad de que se acuse rebeldía, seguirá el procedimiento y se perderá el derecho que, dentro de él, debió ejercitarse.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1111.
+
+En el divorcio incausado no procederá la acumulación de acciones ni la reconvención, las cuales deberán deducirse en la vía contenciosa que corresponda.
+
+Cualquier manifestación u omisión de las partes en la solicitud o durante la tramitación del divorcio, tocante a las consecuencias inherentes a la disolución del matrimonio, no podrá invocarse o incorporarse como prueba en este u otro procedimiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1112.
+
+Una vez que se haya desahogado la vista o transcurrido el término para ello, el juez citará a los cónyuges y en caso de que tuvieren hijos menores o incapaces, al Ministerio Público, a una audiencia, señalando día, hora y lugar para que se efectué en un plazo que no exceda de quince días, debiéndose apercibir al solicitante que, de no acudir sin causa justificada, quedará sin efectos la solicitud, ordenará el archivo del expediente, condenándole al pago de gastos y costas en favor de su contraparte.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1113.
+
+En la audiencia a que se refiere el artículo anterior, una vez hechos los apercibimientos de ley, de acudir uno o ambos cónyuges se les tomará la protesta de decir verdad, en su caso, se les solicitará que expresen su nombre y apellidos, domicilio que residen y grado escolar.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1114.
+
+Al inicio de la audiencia que tenga por objeto resolver el divorcio incausado, el juez informará a los cónyuges sobre las consecuencias jurídicas del divorcio en relación a ellos, a sus hijos, su régimen patrimonial, los alimentos y, en su caso, la compensación a que se refiere el artículo 288 del Código Civil para el Estado.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1115.
+
+En caso de que los cónyuges concreten un acuerdo respecto del convenio señalado en el artículo 270 del Código Civil para el Estado o presenten uno emanado de la Ley de Mecanismos Alternativos para la Solución de Controversias en el Estado, y cualquiera de ellos no transgreda disposición legal, ni vulnere el interés público o atente al interés superior de los menores o incapaces, en uno u otro caso el juez lo aprobará de plano, decretando el divorcio incausado y sus consecuencias jurídicas mediante sentencia.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1116.
+
+Si al desahogarse la vista de la solicitud de divorcio incausado, se oponen excepciones procesales, se dará vista al promovente para que en el plazo de tres días exprese lo que a sus intereses corresponda, excepto la de incompetencia por declinatoria, pues en este caso se observará lo dispuesto en el artículo 1055 de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1117.
+
+Si al contestar la solicitud o durante su trámite, se produce el allanamiento a ella y al convenio presentado por el promovente, se citará a una audiencia con intervención del Ministerio Público de haber hijos menores o incapaces, en la cual ambas partes deberán ratificar el contenido y firma de sus escritos; hecho lo anterior se exhortará a los cónyuges a la reconciliación. Si las partes insisten en su propósito de divorciarse el juez revisará el proyecto de convenio y si este no transgrede disposición legal, el orden público o el interés superior de los menores e incapaces, previa la opinión del Ministerio Público, dictará sentencia de divorcio incausado y aprobará el convenio propuesto.
+
+De no existir allanamiento, el juez procederá al análisis y resolución de las excepciones procesales a que se refiere el artículo 130 bis de este Código y de ser improcedentes, procederá a hacerlo del conocimiento de los cónyuges, exhortándolos a que resuelvan las consecuencia (sic) jurídicas del divorcio mediante convenio.
+
+Cuando no exista el común acuerdo entre los cónyuges o existiendo este el Ministerio Público se oponga al convenio por contravenir los derechos de los menores o incapaces, el juez pondrá los autos en estado de sentencia y declarará en ella lo pertinente, misma que dictará en el acto si fuere posible o dentro del término de tres días observando en lo conducente lo dispuesto en este Código y en el Código Civil para el Estado.
+
+Dicha sentencia contendrá la declaratoria correspondiente sobre las consecuencias jurídicas del divorcio en las que las partes no llegaron al común acuerdo.
+
+Tratándose de las medidas cautelares que se hubieren emitido en los términos del artículo 1124 de este Código, el juez fijará el término que tiene la persona para intentar la acción correspondiente, no pudiendo exceder de treinta días, debiendo comunicar al juez dentro de dicho término su interposición; de no hacerlo y estar involucrados derechos de menores o incapaces, se notificará dichas circunstancias al Ministerio Público a fin de que deduzca la acción correspondiente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1118.
+
+La sentencia que decrete el divorcio incausado, una vez notificada a las partes tendrá el carácter de ejecutoriada por ministerio de ley y se procederá en los términos del artículo 114 del Código Civil para el Estado.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1119.
+
+En toda resolución que emita el juez en el procedimiento de divorcio incausado o incidental relacionado a las consecuencias jurídicas de aquél, en la cual condene o apruebe el convenio sobre alimentos, custodia o convivencia, deberá contener lo dispuesto por los artículos 1071, 1071 bis, 1074, 1075 y 1080 de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1120.
+
+Las resoluciones que se dicten con motivo de las consecuencias jurídicas del divorcio incausado deberán contener la exhortación a las partes para que acudan a la aplicación de la mediación o la conciliación en los términos de la Ley de Mecanismos Alternativos para la Solución de Controversias del Estado, previo a la vía judicial, para la solución, interpretación, cumplimiento forzoso o modificación de alguna de las consecuencias jurídicas del divorcio incausado, esto último cuando las circunstancias hubieren cambiado sustancialmente ante el juez que conoció para su aprobación.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1121.
+
+Antes de emitirse la resolución de divorcio, las partes en cualquier tiempo pueden anunciar su reconciliación y, previa su ratificación, el juez sobreseerá el procedimiento.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1122.
+
+Si no se hace la ratificación del allanamiento, se tendrá por no presentado el escrito y se estará a lo dispuesto en el artículo 1110 de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1123.
+
+Las cuestiones incidentales relativas a las consecuencias jurídicas del divorcio a juicio del juez, podrá ventilarlas en forma separada o acumulada a fin de evitar la división de la continencia de la causa y privilegiar su expedites, salvo que se traten de la misma naturaleza.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1124.
+
+Cuando alguna de las partes exprese bajo protesta de decir verdad, la existencia de hechos objeto de violencia familiar, el juez con intervención del Ministerio Público, podrá emitir de oficio o a petición de parte, cualquiera de las medidas cautelares contenidas en los capítulos II y II bis del Título Cuarto del Libro Primero de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1125.
+
+El divorcio incausado solo será apelable en ambos efectos cuando la sentencia declare su improcedencia.
+
+También son apelables las sentencias que resuelvan los incidentes relativos a las consecuencias jurídicas del divorcio en el efecto establecido en el artículo 1064 de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1126.
+
+Si transcurridos treinta días naturales contados a partir de que la solicitud de divorcio incausado fue admitida y, por cualquier causa, no se ha emplazado al cónyuge del solicitante, el juez de oficio declarará sin efectos la solicitud y ordenará el archivo definitivo del expediente.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1127.
+
+En lo no previsto en este capítulo, se aplicaran las disposiciones comunes de este Código, según sea el caso y en tanto no se opongan.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 1128.
+
+En el procedimiento de divorcio incausado no habrá condena en gastos y costas, salvo los casos en que se disponga lo contrario en este capítulo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -9716,3 +10004,15 @@ P.O. 11 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 108. SE REFORMA POR MODIFICACIÓN DE LAS FRACCIONES V Y VI Y LA ADICIÓN DE UNA FRACCIÓN VII EN EL ARTÍCULO 989 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES; Y SE REFORMA POR MODIFICACIÓN EL PRIMER PÁRRAFO DEL ARTICULO 1812 BIS DEL CÓDIGO CIVIL AMBOS DEL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 172. SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN, LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN, DEL ARANCEL DE ABOGADOS EN EL ESTADO DE NUEVO LEÓN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor a partir de los 90 días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Resulta aplicable el presente Decreto a los matrimonios celebrados con anterioridad y posterioridad de la entrada en vigor del mismo.
+
+Tercero.- La entrada en vigor del presente Decreto, no altera los derechos adquiridos en los juicios de divorcio concluidos en forma ejecutoriada.
+
+Cuarto.- Los asuntos en trámite al entrar en vigor las reformas contenidas en este Decreto, seguirán su curso en la forma que iniciaron y, en su caso, se resolverán observando la jurisprudencia por contradicción 73/2014, publicada en el Semanario Judicial de la Federación, 10 de julio de 2015.
