@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2016-12-13"
+last_updated: "2016-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -1827,971 +1827,479 @@ f) Pro-Turismo. 6.5%
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 106.
 
 Los ingresos extraordinarios que tengan como fuente empréstitos públicos, se percibirán con arreglo a lo dispuesto en la ley de Deuda Pública para el Estado de Sinaloa. La celebración de los empréstitos correspondientes requerirá, en o (sic) todo caso, de la previa autorización del Congreso del Estado.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
 ## TITULO NOVENO. DISPOSICIONES SUSTANTIVAS Y PROCEDIMENTALES
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 107.
 
-Los Ingresos públicos de los Municipios del Estado de Sinaloa se rigen por las disposiciones de las Leyes de Ingresos Municipales que expida cada año el Congreso del Estado y demás disposiciones fiscales que pongan en vigor las Entidades Municipales.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 108.
 
-En los casos de insuficiencia de la Legislación Fiscal, se aplicará supletoriamente, el Derecho Administrativo o el Derecho Común, según corresponda, en tanto que la aplicación supletoria no sea contraria a la naturaleza y finalidad de aquélla.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 109.
 
-La ignorancia de las leyes, reglamentos y demás disposiciones fiscales de observancia general, debidamente promulgadas y publicadas, no excusa de su cumplimiento. Sin embargo, en todos los casos en los que el incumplimiento de las obligaciones fiscales pueda atribuirse al alejamiento de las vías de comunicación, incultura de los habitantes de una región, insuficiencia económica y otras causas excluyentes de mala fe, el Ejecutivo Municipal podrá conceder en forma general o en forma especial términos adicionales para el cumplimiento de las obligaciones fiscales y podrá eximir a los infractores de las sanciones correspondientes o reducir éstas.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 110.
 
-Las leyes, reglamentos y demás disposiciones fiscales de observancia general, entran en vigor el día siguiente de su publicación en el Periódico Oficial del Estado; excepto cuando se exprese una fecha de vigencia diferente.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 111.
 
-Las leyes fiscales son de orden público y su aplicación es de interés público, en consecuencia:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
-I.- Nadie podrá ostentarse como titular de derechos irrevocables frente a los preceptos de esas leyes;
-
-II.- Ninguna Autoridad podrá si no existe precepto legal que la faculte para ello, eximir de la observancia de esas leyes, ni otorgar cancelaciones, quitar o dispensar de los créditos y demás obligaciones fiscales, ni celebrar transacciones o convenios que tengan por objeto esos créditos ni conceder privilegios, ventajas o subsidios, ni desistirse de las acciones o medios de defensa interpuestos para protección de los intereses fiscales; salvo que se trate de Convenios para la mejor ejecución de sentencias ejecutorias o resoluciones definitivas que pongan fin a un asunto, dictadas por Autoridades Judiciales o Administrativas en los que se procure la protección de los intereses fiscales en beneficio de la población y no se perjudique el interés social ni se contravengan disposiciones de orden público, celebrados por la Autoridad Fiscal Municipal, previa aprobación del Cabildo correspondiente; y,
-
-III.- Las Autoridades Fiscales ejercerán las facultades discrecionales que las leyes fiscales les otorguen, de la manera más adecuada para que se alcancen las finalidades de interés público que las mismas disposiciones legales propongan, con arreglo a los principios de igualdad y equidad, sin crear indebidos privilegios o discriminaciones.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO III. DE LAS AUTORIDADES FISCALES
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 112.
 
-Los ingresos de los Municipios del Estado de Sinaloa se establecerán cada año por la Ley de Ingresos que expida el Congreso del Estado.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 113.
 
-Son ingresos ordinarios los que en forma normal y permanente se autorizan para cubrir el costo de los servicios públicos regulares de los Municipios. Son ingresos extraordinarios los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la ley de Ingresos, los empréstitos, los financiamientos, los que provengan de aportaciones federales o estatales, los que se decreten por el Congreso del Estado y los ingresos de control indirecto.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 114.
 
-Los ingresos ordinarios tienen la siguiente clasificación legal: Impuestos, Derechos, Productos, Aprovechamientos y Participaciones en Impuestos Federales y del Estado.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 115.
 
-Son Impuestos las prestaciones en dinero o en especie que las Leyes Fiscales fijen en favor del Municipio en forma unilateral y con carácter obligatorio, a cargo de toda persona física o moral que realice los actos o que se coloque en las situaciones previstas como generadoras de un crédito tributario.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 116.
 
-Son Derechos las contraprestaciones en dinero correspondiente a servicios administrativos o a gastos provocados a la Administración Pública.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 117.
 
-Son Productos los ingresos que perciba el Municipio por la explotación directa o indirecta de sus bienes patrimoniales o por las actividades que realice bajo el régimen de derecho privado.
-
-Los productos se rigen por los contratos, concesiones, autorizaciones y demás actos jurídicos que los establezcan, así como por la Legislación Administrativa o Común y por las normas especiales que se expidan.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 118.
 
-Son Aprovechamientos los demás ingresos cuya percepción esté legalmente autorizada y que no sean clasificables como Impuestos, Derechos, Productos y Participaciones.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 119.
 
-Los Ingresos Extraordinarios que tengan como fuente empréstitos públicos, se percibirán con arreglo a los Convenios que se celebren para su otorgamiento y los demás ingresos extraordinarios se regirán por las disposiciones legales que los establezcan.
-
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2013)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 120.
 
-Todos los Ingresos Públicos Municipales se destinarán a cubrir los gastos autorizados por el Presupuesto de Egresos. Sólo por disposición legal podrán afectarse determinados ingresos públicos a fines específicos.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 121.
 
-Queda prohibida la celebración de igualas o convenios para el pago o cobro de impuestos o derechos, así como el remate o arrendamiento de esas contribuciones, salvo los casos que estudie el Cabildo Municipal y expresamente los autorice.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO IV. DE LOS CREDITOS FISCALES
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 122.
 
-Son Autoridades Fiscales Municipales:
-
-A.- Ordenadoras:
-
-I.- El Ayuntamiento;
-
-II.- El Presidente Municipal;
-
-III.- El Tesorero Municipal; y
-
-IV.- El Director de Ingresos Municipal.
-
-B.- Ejecutoras:
-
-I.- Los Colectores de Rentas Municipales; y,
-
-II.- Las demás personas o corporaciones a las que las disposiciones fiscales confieran atribuciones en materia hacendaria.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 123.
 
-Las Autoridades Fiscales tendrán dentro de su competencia e independientemente de las facultades específicas que le otorguen las Leyes, las siguientes:
-
-I.- Exigir de los contribuyentes y de los terceros ajenos a la relación tributaria, el cumplimiento de las respectivas obligaciones que les imponga la Legislación Fiscal, por los medios que ésta autorice y con aplicación, en su caso, de las medidas de apremio que establezca dicha Legislación.
-
-II.- Pedir a los contribuyentes que aclaren, aporten o comprueben datos o informes que estimen pertinentes, de acuerdo a lo establecido en las Leyes, para la determinación de los créditos fiscales a su cargo;
-
-III.- En el caso de las Autoridades señaladas en el inciso A del Artículo 122, ordenar la práctica de visitas domiciliarias y de comprobación para verificar el estricto cumplimiento de las obligaciones fiscales; así como determinar en su caso, los créditos fiscales que resulten a cargo del contribuyente y las infracciones en que puede haber incurrido, siempre y cuando se trate de contribuciones cuya determinación corresponde al propio contribuyente;
-
-IV.- Revisar o calificar, según proceda, las manifestaciones y declaraciones de impuestos y derechos y determinar los créditos fiscales respectivos;
-
-V.- Determinar estimativamente los créditos fiscales, cuando no se aclaren o comprueben o no se aporten los datos comprobatorios dentro del término que la Autoridad señala, o cuando como resultado de las revisiones, visitas e inspecciones practicadas, son inexactos, la determinación estimada se hará con base en los datos que obtenga la Autoridad o en los signos objetivos de que disponga;
-
-VI.- Liquidar los créditos fiscales directamente, en los casos en que no se requiera la presentación de declaraciones o manifestaciones;
-
-VII.- Imponer sanciones en el orden administrativo por infracciones a la Legislación Fiscal y hacer las consignaciones procedentes al Ministerio Público en los casos de delitos cometidos en perjuicio de la Hacienda Municipal; y,
-
-VIII.- Aplicar el procedimiento fiscal de ejecución con arreglo a la Legislación Fiscal aplicable.
-
-El Ayuntamiento será el único facultado para otorgar las reducciones a que se refiere la Ley de Fomento Industrial del Estado de Sinaloa.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 124.
 
-La Tesorería Municipal tiene la facultad y el deber de vigilar el exacto cumplimiento de las leyes y demás disposiciones fiscales. Por lo tanto, investigarán por los medios legales, si los créditos fiscales han sido debidamente determinados y pagados; si los contribuyentes han presentado las declaraciones que están obligados y si los datos que contienen corresponden a la realidad y en general, si se ha dado oportuno cumplimiento a las obligaciones que imponga la Legislación Fiscal.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 125.
 
-Las revisiones y las visitas de inspección ordinaria tendrán por objeto investigar la situación fiscal del visitado durante el año anterior a la visita.
-
-Las visitas extraordinarias tendrán por objeto investigar la situación fiscal del visitado durante los cinco años anteriores a la práctica de la visita.
-
-Cuando sea necesario un cateo, se solicitará la orden respectiva del Juez competente.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 126.
 
-Los funcionarios y empleados fiscales y los miembros de cuerpos colegiados fiscales, bajo su responsabilidad personal, están obligados a guardar el secreto de la situación económica de los contribuyentes, que haya llegado a su conocimiento en actos del servicio y les está prohibido explotar o aprovechar en cualquier forma sin autorización expresa del interesado, dada por escrito, los secretos profesionales del negocio que en actos del servicio hayan llegado a su conocimiento así como suministrar datos fiscales de los causantes salvo orden judicial o solicitud de los dueños, encargados o representantes de los negocios.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO V. DISPOSICIONES DIVERSAS
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 127.
 
-Los créditos fiscales nacen en el momento en que se realizan las situaciones jurídicas o de hecho previstas por la Ley, como generadoras de la obligación de pago. Tratándose de productos, el nacimiento se determina con arreglo a las estipulaciones de la concesión o contrato respectivo y, en su defecto, con arreglo a las normas del Derecho Administrativo o Privado que sean aplicables.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 128.
 
-El monto del crédito se determina con arreglo a las bases legales correspondientes y a los procedimientos establecidos por cada especie de crédito.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 129.
 
-El crédito fiscal debe ser pagado en el momento o plazo que señale la Ley o, si ésta es omisa, dentro de los quince días siguientes a la fecha en que se quede determinado o sea determinable en cantidad líquida.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 130.
 
-Los causantes que por error de liquidación o por cualquier otra causa, no paguen completo un crédito fiscal están obligados a cubrir la diferencia dentro de un término de 15 días siguientes a la fecha en que se les notifique la observación respectiva.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 131.
 
-Sujeto deudor de un crédito fiscal, es la persona física o moral que está obligada directamente al pago de una prestación al Fisco Municipal conforme a las leyes.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 132.
 
-Si dos o más personas están obligadas directamente al pago de una misma prestación fiscal, tendrán la calidad de codeudores con responsabilidad solidaria.
-
-Esta regla se observará también en los casos de comunidad o copropiedad de bienes y en aquellos en que se posea en común un bien determinado, cuando la propiedad o posesión sea la causa generadora del crédito.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 133.
 
-Los terceros que sin tener la calidad de deudores directos de un crédito fiscal, no den cumplimiento a determinadas obligaciones que les impongan las leyes fiscales, tendrán responsabilidad indirecta, cuando así lo establezca la Ley. Esta responsabilidad indirecta será solidaria con el deudor directo, salvo, los casos en que la Ley dé la calidad de responsabilidad subsidiaria o substituta.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 134.
 
-Si un tercero se obliga al pago de una prestación fiscal en substitución del deudor directo, éste no queda liberado por este hecho de su obligación, pero el tercero adquirirá responsabilidad solidaria.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 135.
 
-Están exentos del pago de impuestos y derechos:
-
-La Federación, el Estado de Sinaloa, los Municipios del Estado de Sinaloa, y, demás personas físicas y morales, en los casos que así lo dispongan las Leyes que establecen dichas contribuciones.
-
-No podrán establecerse exenciones o subsidios sobre las contribuciones municipales señaladas en las fracciones IV y V del Artículo 123 de la Constitución Política del Estado, sólo los bienes del dominio público a que se refiere la fracción I de dicho Artículo están exentos de dichas contribuciones.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 136.
 
-La tasa de recargos por pago extemporáneo de las contribuciones municipales, se aplicarán aumentándose en un 50% de la tasa que en la Ley de vigencia anual por cada Municipio, apruebe el Congreso Local para los casos de pagos a plazos o prórroga de éstos.
-
-Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización por falso giro, los intereses para el caso de pago a prórroga a que se refiere el Artículo 100 de este ordenamiento, así como los gastos de ejecución y las multas por infracción a las disposiciones tanto fiscales como no fiscales. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se causarán por cada mes o fracción del mes que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
-
-El cheque recibido por las autoridades fiscales que sea presentado en tiempo para su cobro y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será del 20% del valor de éste, y se exigirá independientemente del concepto a que se refiere este artículo. La indemnización mencionada, el monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 137.
 
-Se faculta, al Presidente Municipal para que a solicitud del interesado, le conceda prórroga hasta por seis meses, para que efectúe el pago de determinados créditos fiscales en una o en varias exhibiciones, siempre que su situación económica lo amerite y que el interés fiscal quede garantizado.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 138.
 
-Habrá derecho a reclamar la devolución de las cantidades indebidamente pagadas o pagadas en cantidad mayor de la debida. Si el pago de lo indebido se hiciese con arreglo a una liquidación formulada por las Autoridades Fiscales y si el contribuyente hizo pago liso y llano, sin impugnar la liquidación en tiempo y forma, no podrá reclamar la devolución.
-
-La solicitud de devolución se presentará por escrito ante la Tesorería Municipal, debidamente motivada y fundada, acompañada de los documentos probatorios de los hechos aducidos y de los que acrediten el ingreso del pago indebido.
-
-Cuando la Tesorería acuerde la devolución por la cantidad que proceda, dictará acuerdo por escrito debiendo realizar el reembolso dentro de los treinta días siguientes a la fecha de su acuerdo.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 139.
 
-El Ayuntamiento podrá declarar la condonación total o parcial de un adeudo fiscal, siempre que se demuestre que, de efectuarse el cobro, el causante quedará en notorio estado de insolvencia o cuando por causa de fuerza mayor o de calamidad pública ocurrida en el Municipio, los causantes de la zona afectada hayan sufrido perjuicios que afecten seriamente su situación económica.
-
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 139-A.
 
-El Ayuntamiento podrá realizar la condonación de multas y recargos de carácter general en un ejercicio fiscal, hasta el 100% cuando se conceda en un período de treinta días y del 50% por los siguientes treinta días.
-
-En casos particulares, podrá condonar multas y recargos hasta el 50%, cuando se compruebe que la falta de pago se motivó por penuria económica de los contribuyentes.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE FEBRERO DE 2015)</small>
-
-Asimismo, los Ayuntamientos podrán autorizar al Presidente y al Tesorero Municipal de manera conjunta o separada para que una vez iniciado el procedimiento administrativo de ejecución para el cobro de las contribuciones que les compete recaudar, realicen la condonación total o parcial de las multas y recargos que compongan la liquidación del crédito fiscal de que se trate siempre que concurran las siguientes circunstancias:
-
-l. Que el crédito fiscal esté firme porque no se haya impugnado por el contribuyente dentro de los plazos legales para ello, o bien porque se haya desistido de los recursos administrativos o juicios de nulidad o de amparo que haya promovido para combatirlos; y
-
-II. Que el contribuyente o cualquier interesado en el pago del crédito fiscal debidamente identificado lo solicite por escrito al Presidente o al Tesorero Municipal.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 11 DE FEBRERO DE 2015)</small>
-
-De igual manera, podrán autorizarlos para celebrar convenios de pago de créditos fiscales en parcialidades, hasta por 16 meses de plazo, siempre y cuando el vencimiento de dicho convenio no exceda la fecha del último día de la administración municipal de que se trate y que se garantice el interés fiscal en cualquiera de las modalidades que esta Ley lo permite.
-
-> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 11 DE FEBRERO DE 2015)</small>
-
-De presentarse el incumplimiento del contribuyente de sus obligaciones pactadas en el convenio a que se refiere el párrafo que antecede, la autoridad fiscal municipal hará efectiva la garantía que haya sido otorgada.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 140.
 
-Además, de los casos previstos en el Artículo anterior, tratándose de multas impuestas por resolución definitiva, se faculta al Presidente Municipal para condonarlas totalmente, siempre que mediante pruebas supervenientes se demuestre que no se cometió infracción o que la persona sancionada no fue la culpable de esa infracción, el interesado podrá solicitar la condonación dentro del año siguiente a la fecha en que la resolución que impuso la multa causó estado.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 141.
 
-Las condonaciones de que se trata el Artículo 139 no afectarán el cobro de los gastos y honorarios de ejecución; las comprendidas en el Artículo 140 aplicarán que esos gastos, honorarios y participaciones distribuibles se hagan por cuenta de la Hacienda Pública Municipal.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 142.
 
-Cuando coexistan adeudos del Municipio a favor de un particular y créditos fiscales a cargo de éste, se declarará la compensación de oficio o, a solicitud del interesado, siempre que las deudas recíprocas sean igualmente líquidas y exigibles, observándose al respecto las disposiciones del Código Civil del Estado.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 143.
 
-En materia de impuestos que deben determinarse mediante la presentación de una declaración por el contribuyente, prescribe la acción fiscal en cinco años contados a partir de la fecha en que la declaración debió ser presentada.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 144.
 
-La acción fiscal para calificar las declaraciones prescribe en cinco años, contados a partir de la fecha de presentación de la declaración.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 145.
 
-La acción fiscal para exigir el pago de los créditos fiscales determinados en cantidad líquida prescribe en cinco años contados a partir de la fecha en que fue notificada la liquidación correspondiente o en que debió hacerse el pago si no se requiere liquidación especial.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 146.
 
-La acción fiscal para aplicar sanciones por infracciones a disposiciones municipales, prescribe en cinco años contados a partir de la fecha en que se cometió la infracción y si ésta fue de carácter continuo, a partir de la fecha en que cesen los actos constitutivos de ésta.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 147.
 
-La acción fiscal para el cobro de multas impuestas prescribe en cinco años contados a partir de la fecha en que la resolución que impuso la multa fue notificada al infractor.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 148.
 
-Las prescripciones a que se refieren los artículos anteriores, se interrumpirán por cualquier gestión de las Autoridades Fiscales, notificada al interesado, tendiente a la determinación del crédito o a su cobro o cualquier acto del interesado en que reconozca tácita o expresamente la existencia del adeudo.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 149.
 
-El derecho de reclamación del pago de lo indebido o de lo pagado en exceso, prescribe en dos años, contados a partir de la fecha en que hizo el pago.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
-La prescripción se interrumpe por cualquier gestión del interesado, hecha por escrito, ante la Autoridad competente para obtener la devolución.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO VI. PROCEDIMIENTO DE EJECUCION
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 150.
 
-El Fisco Municipal tiene acción real indivisible sobre los bienes muebles e inmuebles, que sean fuente de ingresos gravados o cuya propiedad, posesión o transmisión cause Impuestos Municipales, para cobrarse, en defecto del pago correspondiente, con su valor los impuestos causados. Esta acción no se perjudicará por ningún acto de autoridad o de particulares y podrá ejercitarse afectando dichos bienes aún cuando hubieren pasado a terceros en propiedad o posesión.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 151.
 
-En todo caso en que se compruebe la comisión de una infracción, la Autoridad competente formulará la liquidación de los créditos fiscales que resulten omitidos, aplicará las sanciones correspondientes y exigirá el pago de los créditos fiscales relativos y de sus accesorios, como recargos y gastos de ejecución.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 152.
 
-Las obligaciones establecidas por la Legislación Fiscal, que no tengan término señalado para su cumplimiento, deberán satisfacerse dentro de los quince días siguientes a la fecha de su nacimiento.
-
-Las notificaciones de los citatorios, emplazamientos, solicitudes e informes o documentos y las de acuerdos administrativos que puedan ser recurridos, se harán:
-
-I.- Personalmente;
-
-II.- Mediante oficio entregado por mensajero, por correo certificado con acuse de recibo; y,
-
-III.- Por edictos, únicamente en caso de que la persona a quien deba notificarse haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal acreditado ante las autoridades fiscales.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 153.
 
-Las notificaciones personales se harán en el último domicilio que la persona a quien se deba notificar, haya señalado ante las autoridades fiscales en el procedimiento administrativo de que se trate, a falta de señalamiento, se estará a las reglas previstas en el Artículo 159 a partir de su segundo párrafo de este Ordenamiento.
-
-Se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio, para que se le espere a una hora fija del día siguiente. Si el domicilio se encontrare cerrado, el citatorio se dejará con el vecino más inmediato.
-
-Si la persona a quien haya que notificarse no atendiere el citatorio, la notificación se le hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse ésta a recibirla, se realizará por instructivo que se fijará en la puerta del domicilio.
-
-En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia del documento a que se refiere la notificación.
-
-De las diligencias en que conste la notificación o cita, el ejecutor notificador tomará razón por escrito.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 154.
 
-Las notificaciones por oficio se harán en el domicilio que el interesado haya señalado para el efecto de iniciar alguna instancia, y solo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta del domicilio designado se tendrá en cuenta el que resulte de las disposiciones fiscales.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 155.
 
-Las notificaciones por edictos se realizarán haciendo una publicación que contendrá un resumen de las resoluciones por notificar; dicha publicación deberá efectuarse en uno de los periódicos de mayor circulación del lugar.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 156.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente al en que fueron hechas o al de la publicación, en el caso del artículo que antecede.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 157.
 
-La manifestación que hagan el interesado o su representante legal, de conocer un acuerdo, surtirá efectos de notificación en forma, desde la fecha en que se manifieste haber tenido tal conocimiento; si ésta es anterior a la en que debiere surtir sus efectos la notificación de acuerdo con el artículo precedente.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 158.
 
-Para iniciar un procedimiento de cobro en contra de un responsable solidario del crédito fiscal, será necesario hacerle notificación, en la que se expresará:
-
-I.- El nombre del causante;
-
-II.- La resolución de la que se derive el crédito fiscal y el monto de éste;
-
-III.- Los motivos y fundamentos por lo que se le considera responsable del crédito; y,
-
-IV.- El plazo para el pago que será de quince días, salvo que la Ley señale otro.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 159.
 
-En todos los plazos señalados por las Leyes Fiscales, en que no se precise fecha de su vencimiento salvo disposición en contrario, no se computarán los días inhábiles. Son días inhábiles los domingos y aquellos en que las Oficinas Fiscales suspendan sus labores por disposición de la Ley o por acuerdo administrativo.
-
-Para los efectos fiscales se considera domicilio de los sujetos pasivos o responsables solidarios, el que establezca las leyes fiscales y, a falta de disposiciones en dichas leyes, el siguiente:
-
-I.- Tratándose de personas físicas:
-
-a).- La casa en que habiten:
-
-b).- El lugar en que habitualmente realicen actividades o tengan bienes que den lugar a obligaciones fiscales, en todo lo que se relacione con éstas. En dichos casos las autoridades fiscales podrán considerar también como domicilio, la casa-habitación de la persona física; y,
-
-c).- A falta de domicilio, en los términos indicados en los incisos anteriores, el lugar en el que se encuentren.
-
-II.- Tratándose de personas morales:
-
-a).- El lugar en el que esté establecida la administración principal del negocio;
-
-b).- En defecto del indicado en el inciso anterior, el lugar en el que se encuentre el principal establecimiento; y,
-
-c).- A falta de los anteriores el lugar en el que se hubiere realizado el hecho generador de la obligación fiscal.
-
-III.- Si se trata de sucursales o agencias de negociaciones extranjeras, el lugar donde se establezca; pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de casa matriz y, de no hacerlo en un plazo de quince días a partir de la fecha en que presenten un aviso de iniciación de operaciones, lo hará la Tesorería Municipal; y,
-
-IV.- Tratándose de personas físicas o morales, residentes en el extranjero, que realicen actividades gravadas en el Municipio a través de representantes, se considerará como su domicilio el del representante.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 160.
 
-Las personas que se encuentren o se hayan encontrado en relación de negocios con los causantes de Impuestos Municipales, están obligados a suministrar los informes y datos que para determinación y cobro de los impuestos se les exijan por las Autoridades Fiscales competentes.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 161.
 
-Los terceros a quienes las disposiciones fiscales Municipales les impongan la obligación de retener el impuesto, de formular la liquidación o de verificar el pago de un impuesto, serán solidariamente responsables con el causante si no dan cumplimiento oportuno a esas obligaciones, independientemente de que se les apliquen los recargos o sanciones que procedan.
-
-Los Notarios Públicos, los Jueces que actúen por receptoría y los Corredores Públicos, no podrán autorizar actos o contratos que causen Impuestos Municipales sin que previamente se les justifique su pago.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 162.
 
-Las personas que adquieran por cualquier título, bienes muebles, inmuebles, negociaciones mercantiles, industriales o agrícolas, y, en general, fuentes de riqueza que sean objeto o sobre las que recaiga alguno de los Impuestos Municipales, están obligados a cerciorarse de que las obligaciones fiscales relativas han sido cumplidas, siendo solidariamente responsables con los causantes por el pago de los impuestos que adeuden, y, en su caso, por el de los recargos correspondientes.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 163.
 
-Cuando al practicarse los procedimientos de apremio, embargo o remate, revisiones, inspecciones o visitas, se empleare resistencia por parte del deudor, de su representante o de cualquier otra persona, la Autoridad política local a petición verbal o por escrito del ejecutor vencerá dicha resistencia, y podrá consignar al Ministerio Público si la falta cometida constituye delito.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 164.
 
-En las actuaciones respectivas que se practiquen en los casos previstos en el artículo anterior, deberán hacerse constar, con todas las circunstancias el hecho o hechos en que haya consistido la resistencia, autorizándose esta actuación con la firma del ejecutor y de los testigos que puedan ser habidos.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 165.
 
-Las autoridades, cuando sean requeridas para ello por los ejecutores, prestarán a éstos los auxilios de la fuerza pública que fueren precisos para practicar diligencias correspondientes al ejercicio de la facultad económica coactiva.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 166.
 
-Para hacer gestiones en nombre ajeno ante las Oficinas Fiscales Municipales, bastará carta poder suscrita por el mandante y dos testigos, o con carta poder suscrita por el mandante y ratificada la firma ante el jefe de la Oficina Fiscal respectiva, este funcionario podrá ordenar la ratificación del poder cuando lo estime conveniente, antes de admitir al procurador y aún después de haberlo admitido.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO VII. INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 167.
 
-Las Autoridades Fiscales Municipales en ejercicio de la facultad económica coactiva, seguirán el procedimiento administrativo de ejecución para obtener el pago de los créditos fiscales que no hubieran sido pagados dentro de los plazos que las Leyes Fiscales establecen.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 168.
 
-El ejercicio de la facultad económica coactiva compete:
-
-I.- Al Tesorero Municipal; y,
-
-II.- Al Director de Ingresos, en su respectiva Jurisdicción, cuando el Tesorero Municipal delegue en él el ejercicio de dicha facultad.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 169.
 
-La Tesorería Municipal en el ejercicio de la facultad económica coactiva comisionará a los ejecutores de su adscripción o a cualquiera de sus subalternos cuando las necesidades del servicio lo requieran.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 170.
 
-Los escritos y las promociones de los causantes no suspenderán el procedimiento económico coactivo, sino en los casos en que el promovente asegure el interés fiscal en los términos y condiciones fijados por el Artículo 215 de esta Ley.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 171.
 
-Los honorarios de los ejecutores y demás gastos a que dé lugar el procedimiento fiscal de ejecución, serán a cargo del deudor y se harán efectivos conjuntamente con el crédito fiscal que origine el procedimiento.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 REQUERIMIENTO DE PAGO
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 172.
 
-El ejercicio de la facultad económica coactiva, estará sujeto a las siguientes reglas:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
-I.- A partir del día hábil siguiente al vencimiento de los plazos señalados en las disposiciones fiscales para el pago de las obligaciones fiscales, se iniciará el procedimiento de ejecución;
-
-II.- El expediente se iniciará con el requerimiento de pago en el cual se hará constar el pormenor de la liquidación; señalándose al deudor un plazo de tres días improrrogables para que cubra el importe de la deuda, apercibido de que si no lo hiciera, se procederá al embargo de bienes suficientes para cubrir el crédito fiscal, los recargos y gastos de ejecución;
-
-III.- En el mismo documento, el ejecutor anotará bajo su firma la fecha de recibido del requerimiento. Acto seguido se hará la notificación al deudor en su domicilio o negocio;
-
-IV.- En caso de ausencia del deudor, y agotado lo dispuesto por el Artículo 153 de esta Ley, la diligencia se llevará a cabo con los familiares de éste, sus dependientes o sus encargados;
-
-V.- Si no pudieren ser habidas ninguna de las personas mencionadas en la fracción anterior, se fijará en la puerta de la casa del deudor y además en los tableros de la Oficina Ejecutora;
-
-VI.- En los casos previstos en la Fracción IV y en aquellos otros en que la persona con quien se entiende la diligencia no supiere firmar o se negara a hacerlo se harán constar los hechos ante dos testigos; y,
-
-VII.- La circunstancia de que no encontrara testigos no interrumpirá la diligencia, la cual se llevará adelante haciendo constar tales hechos. Lo asentado por el ejecutor hará prueba plena mientras no se demuestre judicialmente su falsedad.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 EMBARGOS
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 173.
 
-Vencido el plazo señalado en el requerimiento sin que el deudor hubiere hecho el pago del adeudo, se expedirá mandamiento de embargo, el que será notificado en la misma forma que el requerimiento. Si no se hace el pago en el acto de notificarse el mandamiento de embargo, se trabará ejecución en bienes del deudor.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 174.
 
-El embargo de bienes quedará sujeto al orden siguiente:
-
-I.- Dinero o alhajas;
-
-II.- Valores o créditos con garantía real;
-
-III.- Bienes inmuebles y productos;
-
-IV.- Bienes muebles;
-
-V.- Negociaciones comerciales, industriales o agrícolas; y,
-
-VI.- Otros derechos o créditos.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 175.
 
-El deudor o la persona con quien se entienda la diligencia tendrá derecho a designar los bienes para el embargo, siempre que haga el señalamiento con sujeción al orden establecido en el artículo anterior y que sean suficientes para cubrir el importe y sus accesorios.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 176.
 
-Si la persona con quien se entiende la diligencia no hace uso de la prerrogativa a que se refiere el artículo anterior o haciéndolo, los bienes por ella señalados no fueron suficientes a cubrir el monto total consignado en la liquidación o no fueran de fácil realización a juicio del ejecutor, éste hará el señalamiento sin sujetarse al orden establecido en el Artículo 174.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 177.
 
-El embargo deberá limitarse a lo que sea suficiente para garantizar el crédito total, debiendo comprenderse además del crédito inicial, los vencimientos que ocurran durante el procedimiento, los recargos, gastos de ejecución y cualquiera otros que causen, sin necesidad de nuevo requerimiento de pago, emplazamiento ni otras formalidades oficiales, observándose las reglas siguientes:
-
-I.- Si se embarga dinero se hará desde luego la aplicación correspondiente;
-
-II.- Si se embargan alhajas, serán transportadas y depositadas en la caja fuerte de la oficina exactora;
-
-III.- Se embargan créditos y se asegura el documento, este se depositará como se indica en la fracción anterior, el embargo del crédito será notificado al deudor para que a su vencimiento lo pague a la oficina ejecutora, apercibido de doble pago si lo hace al acreedor;
-
-IV.- El embargo de bienes inmuebles y derechos reales sobre inmuebles se inscribirá en el Registro Público de la Propiedad. El embargo de bienes inmuebles afectará a la totalidad del inmueble;
-
-V.- Cuando el embargo recaiga sobre bienes muebles, si fueran cómodamente transportables a juicio del ejecutor, se depositarán en la oficina exactora, si no fueran cómodamente transportables, se nombrará un depositario, a quien se entregarán los bienes bajo riguroso inventario con apercibimiento de las penas en que incurren los depositarios infieles;
-
-VI.- Si el embargo recae sobre rentas, se notificará la diligencia a los inquilinos para que ocurran a la oficina exactora a pagarlas apercibiéndoles de que se considerará nulo todo pago hecho a los propietarios mientras no se les participe que ha sido levantado el embargo;
-
-VII.- Si no se obtiene pago puntual de las rentas, el Fisco Municipal queda, desde luego, subrogado en los derechos del propietario para entablar el juicio del lanzamiento y para celebrar nuevos contratos de arrendamiento;
-
-VIII.- Si el embargo no fuere de resultados satisfactorios, se levantará éste y se trabará ejecución en la finca; y,
-
-IX.- Si se embargan negociaciones comerciales, industriales o agrícolas, la Autoridad Fiscal que ordene el procedimiento nombrará un interventor o administrador de los bienes.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 178.
 
-Si los bienes señalados para la traba de ejecución están ya embargados y asegurados por las Autoridades judiciales o Administrativas o sujetas a cédulas hipotecarias, se practicará no obstante el embargo fiscal, la Oficina Ejecutora notificará el embargo a dichas Autoridades a efecto de que el acreedor que se considere preferente pueda ejecutar sus derechos.
-
-Las tercerías excluyentes de dominio o de preferencia en el pago, se harán valer ante la Tesorería Municipal, para que esta autoridad las tome en cuenta y decida sobre su procedencia o improcedencia al revisar el expediente de ejecución, contra la resolución que dicte esta autoridad procederá el recurso de inconformidad ante el ayuntamiento.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 179.
 
-La oficina ejecutora puede ordenar en cualquier tiempo, siempre que estime que los bienes embargados no son suficientes para asegurar el pago de los créditos reclamados y sus accesorios, la ampliación del embargo y deberá hacerlo inmediatamente que se promuevan tercerías sobre los bienes embargados. La ampliación del embargo se hará con las mismas formalidades establecidas para el embargo.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 180.
 
-Los embargos precautorios podrán ser ordenados por la Tesorería Municipal antes de que venza el plazo legal para el pago de los créditos fiscales, cuando a juicio de esta autoridad haya temor fundado de que el deudor enajene y oculte sus bienes y la Hacienda Pública quede descubierta. El embargo precautorio se transformará en definitivo si el vencimiento del plazo para el pago del crédito que lo motivó, no es satisfactorio, notificándose esa transformación al deudor con detalle de la liquidación de las prestaciones reclamadas. El embargo precautorio se levantará a solicitud del deudor, si éste otorga garantías suficientes para asegurar el pago del crédito que lo haya motivado.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 181.
 
-De la diligencia de embargo se levantará acta, la que será suscrita por las personas que hayan intervenido en el acto.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 182.
 
-La oficina ejecutora puede, en todo tiempo, remover libremente a los depositarios e interventores nombrados, así como a los ejecutores, cuando cometan irregularidades en las diligencias de ejecución.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 183.
 
-Quedan exceptuados de embargo los siguientes bienes:
-
-I.- El lecho cotidiano y los vestidos, muebles comunes y de uso indispensable, de la propiedad del deudor, no siendo de lujo a juicio del ejecutor;
-
-II.- Los libros, instrumentos y útiles necesarios para el ejercicio de la profesión, arte y oficios a que el deudor esté dedicado;
-
-III.- Las máquinas, equipos e instalaciones y otros activos fijos de las negociaciones comerciales industriales y agrícolas, que sean necesarios para su normal funcionamiento a juicio del ejecutor, pero podrán ser objeto de embargo conjuntamente con la negociación a que estén destinados;
-
-IV.- Las armas y los equipos militares que los militares deban usar en el servicio conforme a las leyes y reglamentos respectivos;
-
-V.- Los granos y frutos agrícolas, mientras no hayan sido cosechados, pero no los derechos sobre las siembras;
-
-VI.- El derecho de usufructo, pero no los frutos de éste;
-
-VII.- Las servidumbres, a no ser que se embargue el fundo a cuyo favor están constituidas;
-
-VIII.- Los demás derechos cuyo ejercicio sea estrictamente personal, como los de uso y habitación;
-
-IX.- La renta vitalicia en los términos previstos por el Código Civil;
-
-X.- El patrimonio de familia cuando esté constituido conforme a las leyes respectivas;
-
-XI.- Las pensiones alimenticias;
-
-XII.- Las pensiones civiles y militares y las demás pensiones y jubilaciones derivadas del contrato de trabajo;
-
-XIII.- Los ejidos de los pueblos y las parcelas individuales que en su fraccionamiento hayan correspondido a cada ejidatario; y,
-
-XIV.- La propiedad funeraria.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 184.
 
-Si el ejecutor embarga bienes que en opinión del ejecutado estén legalmente excluidos, por estar comprendidos en el artículo anterior, en el acto de la diligencia o dentro de los tres días siguientes el ejecutado promoverá la exclusión ante la oficina que haya ordenado el embargo, acompañándolo la prueba en la que se apoye. La citada oficina resolverá dentro de igual término, pero si estima necesario practicar una inspección ocular, disponer del dictamen pericial, dispondrá del desahogo de dichas pruebas dentro del término de cinco días, y resolverá dentro de los tres días siguientes.
-
-Los gastos erogados con motivo de la inspección o los honorarios del perito serán por cuenta del ejecutado cuando se declare procedente el embargo, y por cuenta del Fisco cuando se resuelva la procedencia de la exclusión.
-
-Durante la tramitación del incidente de exclusión no se suspenderá el procedimiento de ejecución, salvo que haya llegado a estado que permita la enajenación de los bienes, cuya exclusión se pide, caso en que la oficina ejecutora ordenará la suspensión únicamente en lo que afecte a dichos bienes y mientras tanto no dicte la resolución respectiva.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 185.
 
-Practicado el embargo se correrán los siguientes trámites:
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
-I.- La Tesorería Municipal revisará el expediente de ejecución para aprobarlo, modificarlo o mandarlo reponer en los casos en que las irregularidades que encuentre no puedan corregirse;
-
-II.- Cuando los Colectores de Rentas formen el expediente por delegación de la Tesorería Municipal, al concluir la diligencia de embargo enviarán el expediente para los efectos de su revisión, a la aludida Tesorería;
-
-III.- La propia Tesorería Municipal citará resolución sobre la procedencia e improcedencia de las tercerías excluyentes de dominio o de preferencia en el pago, que hubieren sido promovidas;
-
-IV.- Hecha la revisión se comunicará el resultado a la oficina ejecutora, devolviéndole el expediente; y,
-
-V.- Aprobado el expediente o corregidas las irregularidades observadas, se procederá al remate.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 REMATES
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 186.
 
-La oficina ejecutora formulará el edicto del remate, el que expresará:
-
-I.- Nombre del deudor;
-
-II.- Descripción de los bienes embargados;
-
-III.- Importe de la postura legal; y,
-
-IV.- Día y hora señalados para la almoneda y el lugar en que los bienes estarán a la vista de los interesados. Tratándose de inmuebles, la almoneda no podrá verificarse antes de los veinte días siguientes a la publicación del edicto en un periódico del lugar en que se efectúe el remate y de su fijación en los tableros públicos y tratándose de muebles, la almoneda no podrá verificarse antes de los cinco días siguientes a la citada publicación y fijación del edicto correspondiente.
-
-Cuando la postura legal no exceda de $100,000.00 y los bienes sujetos a remate sean muebles, el edicto no requerirá más publicidad que la fijación en los tableros de la Tesorería Municipal.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 187.
 
-La Tesorería Municipal fijará en los sitios públicos los tantos del edicto de remate que estime conveniente y dispondrá su publicación por una sola vez en un periódico de la cabecera del Municipio. Cuando el procedimiento de ejecución se practique por los colectores de rentas municipales en los términos del presente ordenamiento, éstos dispondrán la fijación en los sitios públicos de los tantos del edicto de remate que estime convenientes y enviarán a la Tesorería Municipal cuatro ejemplares del edicto para su publicación por una sola vez en el periódico citado.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 188.
 
-Por excepción a lo dispuesto en los artículos anteriores, si los bienes embargados fueran explosivos, inflamables, alterables, corruptibles o peligrosos por cualquier motivo, se venderán al día siguiente del embargo, sin necesidad de publicación o fijación de edictos.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 189.
 
-Los remates se verificarán en el local de la oficina ejecutora con asistencia de dos testigos extraños.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 190.
 
-Ningún postor será admitido sin papel que abone a menos que sea de notoria solvencia y reconocida honradez a juicio del jefe de la Oficina Ejecutora, o que deposite en dinero efectivo el importe de su postura, en la misma oficina.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 191.
 
-Es postura legal para la almoneda, la que importe las dos terceras partes del avalúo pericial del bien mueble o inmueble, dada de contado más los recargos, gastos y honorarios de ejecución hasta el momento del remate.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 192.
 
-El día y hora señalados para el remate, el jefe de la Oficina Ejecutora declarará la almoneda y concederá media hora para recibir postura, pasada la cual se procederá como sigue:
-
-I.- Si no se presentó más postura y ésta iguala o mejora la legal, se declarará fincado el remate en favor de quien la hubiere presentado;
-
-II.- Si hubiera varias posturas que igualen o mejoren la legal, será preferida la que elija el deudor;
-
-III.- Si el deudor no hace uso del derecho que le concede la fracción anterior, el jefe de la oficina ejecutora declarará fincado el remate a favor de la persona que ofrezca mayor cantidad;
-
-IV.- Si dos o más de las posturas mayores son iguales, se declarará fincado el remate a nombre de la persona que resulte favorecida por la suerte, procediéndose a escribir los nombres de los postores iguales en cédulas que se doblen y enrollen de la misma manera y se mezclen para evitar su identificación, recayendo la suerte sobre la primer cédula que saque el jefe de la oficina ejecutora debiendo éste leerla en alta voz;
-
-V.- Si de la venta de los bienes se obtiene mayor cantidad de la que importe el adeudo principal y accesorios, el saldo quedará a disposición del deudor; y,
-
-VI.- Si no se presenta una postura legal, se abrirá una dilación para que los bienes sean vendidos fuera de almoneda, que no excederá de quince días para los bienes muebles y de treinta para los inmuebles. La dilación anterior se dividirá en tres períodos, de cinco días para la venta de bienes muebles y de diez días para los inmuebles y en cada período podrá el Fisco Municipal hacer una deducción hasta de un diez por ciento del valor señalado como postura legal.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 193.
 
-Si durante los términos de quince y treinta días a que se refiere la fracción VI del artículo anterior, no pudieran ser vendidos los bienes, el Fisco Municipal tendrá derecho, según lo estime, a adjudicárselos por el importe de la postura legal, o si el deudor tiene otros bienes y devolver los que no pudieran venderse, levantándose el embargo correspondiente, y a trabar nuevo embargo sobre otros bienes del deudor.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 194.
 
-Cuando los bienes fueren vendidos fuera de almoneda y con motivo de las deducciones autorizadas por la fracción VI del artículo 192, el precio de venta no alcance a cubrir el monto del adeudo fiscal y sus accesorios, se mandará practicar nuevo embargo en lo que fuere necesario para cubrir la diferencia.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 195.
 
-Mientras que el remate no se haya fincado o los bienes no hayan sido vendidos o adjudicados al Fisco, el deudor podrá liberarlos mediante el pago del crédito reclamado, de los recargos y de los gastos y honorarios de ejecución. También es admisible el pago que haga un tercero quien por ese hecho queda subrogado en todos los derechos transmisibles al Fisco, entregándosele al efecto copia certificada de la liquidación respectiva y el recibo oficial de pago.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 196.
 
-Se levantará acta firmada por el jefe de la oficina ejecutora, dos testigos y en su caso, por el adquirente, de la almoneda, de las dilaciones para venta, fuera de almoneda, y de la adjudicación de los bienes embargados. Un ejemplar de dicha acta se entregará al adquirente para su resguardo con el recibo al calce de la cantidad pagada como precio de remate.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 197.
 
-El producto del remate o de la venta fuera de almoneda, que corresponde al fisco, se aplicará desde luego a los ramos respectivos.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 198.
 
-Las enajenaciones hechas en almoneda, o fuera de ella con excepción de los casos previstos en el artículo 188 no se tendrán como definitivas sino después de quince días contados del siguiente al de la venta o adjudicación si se trata de bienes muebles o después de sesenta días si se trata de inmuebles.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 199.
 
-Durante los trámites especificados en el artículo anterior, podrá el deudor reivindicar sus bienes pagando al comprador o adjudicatario, por conducto de la oficina ejecutora el importe del remate más un diez por ciento. Entre tanto los bienes permanecerán en depósito. Si el causante renuncia por escrito al derecho de reivindicación, la oficina ejecutora entregará desde luego los bienes al comprador, previa las formalidades legales conducentes.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 200.
 
-Si en el acto de la reivindicación el comprador no pudiera ser habido, la cantidad, correspondiente quedará depositada a su disposición en la oficina ejecutora y acto seguido se levantará el embargo haciéndose constar esta diligencia en el acta que se agregará al expediente respectivo.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 201.
 
-La transmisión de los bienes vendidos en remate, fuera de almoneda o adjudicados al fisco, si se trata de inmuebles constará en escritura pública o privada según proceda conforme al Código Civil, y si se trata de bienes muebles, en la factura respectiva. Estos documentos serán firmados por el dueño de los bienes, o en su rebeldía, por el jefe de la oficina ejecutora, pero en todo caso el dueño responderá del saneamiento para el caso de evicción. Acto continuo se hará la entrega al comprador o al adjudicatario.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 202.
 
-Los gastos que originen las escrituras y las facturas serán por cuenta del comprador o adjudicatario, el que elegirá el Notario ante el que, en su caso se otorgue la escritura de venta o adjudicación.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 203.
 
-Al precio de venta o de adjudicación se dará la siguiente aplicación, en el orden que se indica:
-
-I.- Honorarios y gastos de ejecución;
-
-II.- Recargos; y,
-
-III.- Crédito o créditos fiscales reclamados.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 204.
 
-Hechas las aplicaciones especificadas en el artículo anterior, el saldo si lo hubiere, quedará a disposición del ejecutado, salvo que haya orden de retención dictada por autoridades judiciales o administrativas competentes.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO VIII. RECURSO DE INCONFORMIDAD
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
-
 ###### ARTICULO 205.
 
-Constituye infracción fiscal el incumplimiento de una obligación impuesta por las disposiciones fiscales del Municipio, consistente en dejar de hacer lo que ordenen o en hacer lo que prohiben.
-
-La aplicación de las sanciones que correspondan por infracciones a las disposiciones fiscales y demás reglamentos administrativos se sujetarán a las reglas siguientes:
-
-I.- La autoridad fiscal municipal, al imponer la sanción que corresponda, tomará en cuenta la importancia de la infracción, las condiciones del causante y la conveniencia de destruir prácticas establecidas, tanto para evadir la prestación fiscal, como para infringir en cualquier otra forma, las disposiciones legales o reglamentarias;
-
-II.- La autoridad fiscal municipal deberá fundar y motivar debidamente su resolución siempre que imponga sanciones;
-
-III.- Cuando sean varios los responsables cada uno deberá pagar el total de la multa que se imponga;
-
-IV.- Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a las que señale esta ley una sanción, sólo se aplicará la que corresponda a la infracción más grave;
-
-V.- En el caso de infracciones continuas y de que no sea posible determinar el monto de la contribución evadida, se impondrá según la gravedad, una multa hasta el triple del máximo de la sanción que corresponda;
-
-VI.- Cuando las infracciones se estimen leves y consistan en hechos, omisiones o falta de requisitos semejantes en documentos o libros y siempre que no traiga o puedan traer como consecuencia la evasión del impuesto, se considerarán en conjunto como una infracción, se impondrá solamente una multa que no excederá del límite que fija esta ley para sancionar cada hecho, omisión o falta de requisito;
-
-VII.- Cuando se estime que la infracción cometida es leve y que no se ha tenido como consecuencia la evasión del impuesto, se impondrá el mínimo de la sanción que corresponda apercibiéndose al infractor de que se le castigará como reincidente si volviera a incurrir en la infracción;
-
-VIII.- Cuando se omita una prestación fiscal que corresponda a los actos o contratos que se hagan constar en escrituras públicas o minutas extendidas ante el Notario o corredor titulado, la sanción se impondrá exclusivamente a los Notarios o Corredores, y los otorgantes sólo quedarán obligados pagar los impuestos omitidos;
-
-Si la infracción se cometiera por inexactitud o falsedad de los datos proporcionados por los interesados al Notario o Corredor, la sanción se aplicará entonces a los mismos interesados;
-
-IX.- Cuando la liquidación de alguna prestación fiscal esté encomendada a funcionarios o empleados de los municipios, estos serán responsables de las infracciones fiscales que se cometan y se les aplicarán las sanciones que corresponda, quedando únicamente obligados los causantes a pagar la prestación omitida excepto en los casos en que esta Ley o alguna otra Ley Fiscal disponga que no se podrá exigir al causante dicho pago; y,
-
-X.- Las autoridades fiscales municipales se abstendrán de imponer sanciones, cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito o cuando se enteren en forma espontánea los impuestos, contribuciones o derechos no cubiertos dentro de los plazos señalados por las disposiciones fiscales. No se considerará que el pago sea espontáneo cuando medie requerimiento debidamente notificado o visita efectuada por las autoridades fiscales.
-
-La aplicación de las sanciones administrativas que procedan, se hará sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso, y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
-
-Los funcionarios o empleados públicos ante quienes con motivo de sus funciones, se exhiba algún libro, objeto o documento que implique el incumplimiento de las leyes fiscales, harán la denuncia respectiva a las autoridades hacendarias para no incurrir en responsabilidad.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 206.
 
-Las personas fiscales o morales, incurrirán en infracciones a esta Ley:
-
-I.- Por hacer edificaciones, reconstrucciones, demoliciones de edificios sin licencia correspondiente;
-
-II.- Por ejecutar mayor cantidad de obra en volumen o costo a la autorizada en los planos;
-
-III.- Por cualquier otra violación de los Reglamentos Municipales de Construcción; y,
-
-IV.- La falta de cumplimiento de las disposiciones contenidas en este capítulo, se sancionarán de acuerdo a lo estipulado en esta Ley.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 207.
 
-La Dirección de Obras y Servicios Públicos Municipales, elaborará el acta o actas donde se asiente la infracción o infracciones incurridas turnando al día siguiente hábil a la Tesorería Municipal la primera copia para su calificación, para cuyo cobro se atenderá lo previsto en la presente Ley.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 208.
 
-Las infracciones fiscales se sancionarán como sigue, salvo que disposición especial, señale pena distinta:
-
-I.- La falta de pago total o parcial de un impuesto derivada de una o varias infracciones constitutivas de omisión fiscal se castigará con multa de un 25% hasta el 100% del impuesto omitido y si no puede determinarse el impuesto omitido, con multa de 3 a 6 días de salarios mínimos general vigente en la zona, según la gravedad de la infracción; además de la multa se cobrará al causante el impuesto omitido, los recargos y honorarios y gastos de ejecución;
-
-II.- Para los efectos de la fracción anterior, son infracciones constitutivas de omisión fiscal:
-
-a).- El incumplimiento de la obligación de empadronarse o el hecho de ejercer sin la autorización correspondiente cualquiera actividad de la que se derive la obligación de pago de un impuesto, si transcurre mas del plazo señalado en el capítulo respectivo, para el empadronamiento de la primera obligación fiscal, que en cada caso se relaciona con la actividad respectiva;
-
-b).- La falta de presentación de una declaración fiscal si el causante no tiene la obligación de empadronarse y transcurra más del plazo señalado para su presentación;
-
-c).- La presentación de declaraciones en que se asienten datos o el suministro de informes o datos falsos a las autoridades fiscales cuando éstas lo soliciten;
-
-d).- La ocultación de bienes, producciones, operaciones o ingresos gravados; y,
-
-e).- La resistencia activa o pasiva al cumplimiento de las ordenes legítimas de las autoridades fiscales.
-
-III.- Las demás infracciones fiscales no comprendidas en las fracciones anteriores, serán sancionadas con multas de 3 a 6 días de salario mínimo general vigente en la zona según la gravedad de la infracción.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 209.
 
-Si al cometerse una infracción a las disposiciones fiscales, se ha incurrido en responsabilidad penal por la comisión de un delito, las autoridades fiscales que tengan conocimiento de la comisión harán la consignación de los hechos al Ministerio Público para los efectos a que haya lugar.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 210.
 
-Las sanciones previstas por este capítulo serán determinadas por el Tesorero Municipal; en consecuencia, la autoridad fiscal que descubra la infracción remitirá a la Tesorería Municipal las actas que levante consignando la infracción.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 211.
 
-Las infracciones a los demás reglamentos y disposiciones de los Municipios que no señalen sanción o que para cuantificar su monto remitan a esta Ley, se sancionaran con una multa de 5 a 90 veces el salario mínimo general diario vigente, excepto las que sean cometidas por obreros o trabajadores, el monto de la sanción no podrá ser mayor que su jornal o salario de un día; tratándose de trabajadores no asalariados la multa no excederá del equivalente al monto de un día de su ingreso.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO II. DE LOS INGRESOS DEL MUNICIPIO
 
@@ -2799,81 +2307,31 @@ Las infracciones a los demás reglamentos y disposiciones de los Municipios que 
 
 ###### ARTICULO 212.
 
-Se instituye el recurso administrativo de inconformidad, el cual podrá interponerse:
-
-I.- Contra la liquidación de impuestos o derechos practicada por la autoridad fiscal;
-
-II.- Contra los acuerdos que impongan sanciones por infracciones fiscales;
-
-III.- Contra la negativa de una autoridad competente para ordenar la devolución de pagos fiscales hechos indebidamente o en mayor cantidad de la debida;
-
-IV.- Contra violaciones cometidas durante la secuela del procedimiento fiscal de ejecución; y,
-
-V.- Contra cualquier resolución diversa de las anteriores dictada en materia fiscal y que cause un agravio al interesado.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 213.
 
-De este recurso conocerá el Tesorero Municipal.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 214.
 
-El recurso deberá interponerse dentro de los treinta días siguientes a la fecha de notificación de la resolución impugnada o a la que se tenga conocimiento de la misma, por conducto de la autoridad fiscal que deba conocer el recurso; en el primer caso, la autoridad fiscal que reciba el escrito de inconformidad hará constar en el mismo la fecha de la presentación y lo remitirá a la que deba tramitar el recurso.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 215.
 
-La suspensión del procedimiento económico coactivo podrá solicitarse en cualquier tiempo durante la tramitación del recurso de inconformidad previsto por el Artículo 212 de esta ley ante la autoridad ejecutiva, acompañando copia del escrito con el que se hubiera iniciado el recurso.
-
-La suspensión se concederá si el interesado garantiza el interés fiscal de que se trata en alguna de las siguientes formas:
-
-I.- Depósito de dinero en cualquiera de las instituciones locales del sistema bancario nacional o ante la Tesorería Municipal;
-
-II.- Pago bajo protesta;
-
-III.- Fianza otorgada por institución autorizada para tal efecto;
-
-IV.- Secuestro en la vía administrativa;
-
-V.- Prenda o hipoteca; y,
-
-VI.- Obligación solidaria asumida por terceros que comprueben su idoneidad y solvencia.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 216.
 
-El recurso de inconformidad se interpondrá por escrito en el que el recurrente debe expresar los hechos y fundamentos legales que apoyen su prevención y se tramita como sigue:
-
-I.- Si la presentación del escrito es extemporáneo, se desechará por la autoridad a que corresponda conocer del mismo y si fue presentado en tiempo, se admitirá abriendo el negocio a prueba por diez días;
-
-II.- Durante el término probatorio, el recurrente rendirá las pruebas que estime convenientes. No se admitirán pruebas de los hechos que, conforme a la ley debieron aportarse ante la autoridad que dictó la resolución impugnada, salvo que el recurrente no hubiere tenido oportunidad legal para rendirla ante esa autoridad, la autoridad que tramite el recurso tendrá facultad discrecional para ordenar pruebas para mejorar proveer; y,
-
-III.- Concluido el término probatorio, el recurrente dispondrá de un plazo de tres días para presentar sus alegatos y al vencimiento este plazo, quedará el expediente en estado para dictar resolución.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 217.
 
-La autoridad que conozca de la inconformidad, podrá modificar o revocar las resoluciones contra las que se haya interpuesto el recurso, si de acuerdo con las pruebas rendidas o con los informes que recabe en las diligencias que acuerden para mejor proveer, quede comprobada:
-
-I.- La incompetencia de la autoridad que haya dictado la resolución o que haya tramitado el procedimiento impugnado;
-
-II.- La omisión o el incumplimiento de las formalidades que legalmente deba revestir la resolución o el procedimiento impugnado;
-
-III.- La violación de la disposición aplicada o no haberse aplicado la disposición debida; y,
-
-IV.- El desvío del poder, tratándose de sanciones impuestas por infracción a las leyes fiscales. En este caso comprueba el desvío de poder si la ley señala una sanción comprendida entre un mínimo y un máximo, el Ayuntamiento fijará el monto de la multa adecuándola a la gravedad de la infracción, condiciones económicas del infractor y conveniencia de destruir prácticas viciosas en perjuicio de los intereses del fisco municipal.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 218.
 
-Las resoluciones de la autoridad que conozca el recurso, tendrán el carácter de definitivas e inapelables en el orden administrativo, salvo los casos en que proceda la condonación con arreglo a las disposiciones fiscales.
+(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
 TRANSITORIOS:
 
@@ -3516,3 +2974,21 @@ OCTAVO.- Para los efectos del presente Decreto se entiende como Unidad de Medida
 NOVENO.- El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
 
 DÉCIMO.- El importe de lo recaudado por los Impuestos en materia de Apuestas y Sorteos previstos en el presente Decreto serán participables en el Municipio donde se genere, con base en lo dispuesto por la Ley de Coordinación Fiscal, y el ingreso para el ejercicio fiscal del año 2017 no podrá ser menor a lo racaudado (sic) en el ejercicio fiscal del año 2016.
+
+P.O. 14 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 574 DEL H. CONGRESO DEL ESTADO.- SE EXPIDE EL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Los procedimientos de determinación, liquidación y apremio ya iniciados, continuarán ventilándose conforme a las disposiciones de éste Código.
+
+TERCERO. A partir de la fecha en que entre en vigor el presente Código, quedarán derogados: el Título Noveno denominado "DISPOSICIONES SUSTANTIVAS Y PROCEDIMENTALES" y sus CAPÍTULOS I, II, III, IV, V, VI, VII y VIII que comprenden los artículos del 107 al 218, todos de la Ley de Hacienda Municipal del Estado de Sinaloa, así como las disposiciones fiscales o administrativas que se opongan a lo preceptuado en este Código.
+
+CUARTO. Los recursos administrativos que se hayan interpuesto durante la vigencia de las disposiciones que deroga este Decreto, se substanciarán, conforme a las disposiciones fiscales vigentes al inicio de los mismos.
+
+QUINTO. Las infracciones y delitos cometidos durante la vigencia de las disposiciones fiscales que deroga este Decreto, se sancionarán en los términos de dichas disposiciones, a menos que el interesado manifieste su voluntad de acogerse al presente Código por considerarlo más favorable.
+
+SEXTO. Para efectos de este Código, lo relacionado con el instructivo para el dictamen de impuestos municipales que se señala en los artículos 89, 91 y 93 del mismo obligará a los particulares a partir del día siguiente de la publicación de dicho instructivo en el Periódico Oficial "El Estado de Sinaloa".
+
+SÉPTIMO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado Decreto.
