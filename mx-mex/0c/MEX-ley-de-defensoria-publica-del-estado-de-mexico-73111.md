@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-defensoria-publica-del-estado-de-mexico-73111"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-03"
-last_updated: "2014-12-19"
+last_updated: "2016-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 19 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 3 de febrero de 2010.
 
@@ -71,7 +69,9 @@ VII. Ley: a la Ley de la Defensoría Pública del Estado de México;
 
 VIII. Reglamento: al Reglamento Interior del Instituto de la Defensoría de (sic) Pública del Estado de México;
 
-IX. (DEROGADA, G.G. 25 DE FEBRERO DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 14 DE DICIEMBRE DE 2016)</small>
+
+IX. Unidad de Medida y Actualización: Unidad de cuenta, índice, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en este ordenamiento.
 
 X. Usuario: al destinatario del servicio público que presta el Instituto.
 
@@ -107,11 +107,13 @@ El Instituto tiene por objeto:
 
 I. Proporcionar obligatoria y gratuitamente defensa en materia penal en cualquier actuación policial, ministerial o judicial, a las personas que lo soliciten, señaladas como posibles autores o partícipes de un hecho punible y cuando haya designación del Ministerio Público o del órgano jurisdiccional competente;
 
-> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
-II. Proporcionar gratuitamente patrocinio de defensa en materia civil y familiar siempre y cuando los solicitantes tengan ingresos mensuales menores a 150 días de salario mínimo vigente en el área geográfica donde radique el juicio, con excepción de los casos de violencia familiar y alimentos, en los que no se realizará estudio socioeconómico. En el caso de la parte actora, sólo será patrocinada en materia familiar y procedimientos judiciales no contenciosos, no se considerará como tal en el caso de la reconvención hecha en contestación de demanda;
+II. Proporcionar gratuitamente patrocinio de defensa en materia civil y familiar siempre y cuando los solicitantes tengan ingresos mensuales menores al monto equivalente a 150 veces el valor de la Unidad de Medida y Actualización vigente, con excepción de los casos de violencia familiar, alimentos y juicio sumario de usucapión, en los que no se realizará estudio socioeconómico. En el caso de la parte actora, sólo será patrocinada en materia familiar y procedimientos judiciales no contenciosos, no se considerara como tal en el caso de la reconvención hecha en contestación de demanda.
 
-III. Proporcionar gratuitamente patrocinio de defensa en materia mercantil, siempre y cuando el demandado sea persona física y tenga ingresos mensuales menores a 150 días de salario mínimo vigente en el área geográfica donde radique el juicio, no comerciante y el interés pactado sea superior al usual en el mercado o al bancario autorizado;
+> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+
+III. Proporcionar gratuitamente patrocinio de defensa en materia mercantil, siempre y cuando el demandado sea persona física, tenga ingresos mensuales menores al monto equivalente a 150 veces el valor de la Unidad de Medida y Actualización vigente, no comerciante y el interés pactado sea superior al usual en el mercado bancario autorizado.
 
 IV. Gestionar en los asuntos en los que intervengan adolescentes o incapaces representándolos en cualquier materia, su tratamiento y, en su caso, su remisión a las autoridades competentes y establecimientos que correspondan;
 
@@ -121,7 +123,9 @@ V. Proporcionar obligatoria y gratuitamente patrocinio de defensa de los derecho
 
 Para los efectos del párrafo anterior, el Instituto podrá actuar en coordinación con traductores e intérpretes que tengan conocimiento de la lengua y cultura a la que pertenezcan los indígenas, mediante la celebración de convenios de colaboración con las instituciones que puedan coadyuvar a la obtención de esos fines, y seguirá promoviendo la formación de defensores públicos bilingües.
 
-VI. El patrocinio a la parte actora en materia civil, se autorizará previo estudio socioeconómico, excepcionalmente en los casos de extrema pobreza, ignorancia o indigencia, así como a adultos mayores, sin medio comprobable de subsistencia o dependencia de familiares directos;
+> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+
+VI. El patrocino a la parte actora en materia civil, se autorizará previo estudio socioeconómico, excepcionalmente en los casos de extrema pobreza, ignorancia o indigencia, así como a adultos mayores, sin medio comprobable de subsistencia o dependencia de familiares directos. En el caso del juicio sumario de usucapión se autorizará el patrocinio, sin que se practique el estudio socioeconómico correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -407,7 +411,9 @@ Para que pueda ser tramitada una caución o una fianza de interés social es nec
 
 I. Que tenga designado un Defensor Público o Defensor Público Especializado;
 
-II. Que tenga ingresos mensuales menores a 150 días de salario mínimo vigente en el área geográfica donde radique el juicio;
+> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+
+II. Que tenga ingresos mensuales menores al monto equivalente a 150 veces el valor de la Unidad de Medida y Actualización vigente.
 
 III. Que el monto de la garantía económica fijado por un juez, quede comprendido dentro del límite y conceptos autorizados por el Gobierno del Estado para la expedición de fianzas; y
 
@@ -554,3 +560,13 @@ TERCERO.- La Secretaría de Seguridad Ciudadana y los municipios de la Entidad, 
 CUARTO.- El Titular del Ejecutivo Estatal reformará el Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de México, antes de la entrada en vigor del Código Nacional de Procedimientos Penales, en el Estado de México.
 
 QUINTO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 14 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 169.- POR EL QUE SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 2; EL ARTÍCULO 4 EN SUS FRACCIONES II, III Y VI Y EL ARTÍCULO 22 EN SU FRACCIÓN II DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan
