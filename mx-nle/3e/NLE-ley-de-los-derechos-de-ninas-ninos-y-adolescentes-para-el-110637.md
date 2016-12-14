@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-11063
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-27"
-last_updated: "2015-11-27"
+last_updated: "2016-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110637&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el viernes 27 de noviembre de 2015.
 
@@ -675,7 +675,11 @@ La descripción, la prohibición y la sanción a que se refiere el párrafo ante
 
 I. Se tipificarán como delitos graves y como conductas agravadas en virtud de que constituyen un abuso, por el poder que expresa la condición de adulto respecto de la niña, niño, y adolescente, como de la confianza cuando entre el agresor y la víctima existe un lazo personal, cualquiera que este sea, que implique esa confianza;
 
-II. Se considerarán causales de divorcio, así como de pérdida de patria potestad;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2016)</small>
+
+II. Se regularan las causas de pérdida, suspensión o limitación de derechos de índole familiar;
 
 III. Se entenderá que la violencia entre adultos que conviven con niñas, niños y adolescentes, aun cuando no esté dirigida a éstos, les causa daño al presenciarla, y que en esa medida es sancionable y niñas, niños y adolescentes deben ser protegidos de ella;
 
@@ -2508,3 +2512,17 @@ EL C. SECRETARIO DEL TRABAJO
 JULIO CÉSAR MARTÍNEZ CASTILLO
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 172. SE REFORMAN DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEÓN, LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN, DEL ARANCEL DE ABOGADOS EN EL ESTADO DE NUEVO LEÓN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor a partir de los 90 días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Resulta aplicable el presente Decreto a los matrimonios celebrados con anterioridad y posterioridad de la entrada en vigor del mismo.
+
+Tercero.- La entrada en vigor del presente Decreto, no altera los derechos adquiridos en los juicios de divorcio concluidos en forma ejecutoriada.
+
+Cuarto.- Los asuntos en trámite al entrar en vigor las reformas contenidas en este Decreto, seguirán su curso en la forma que iniciaron y, en su caso, se resolverán observando la jurisprudencia por contradicción 73/2014, publicada en el Semanario Judicial de la Federación, 10 de julio de 2015.
