@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2016-04-29"
+last_updated: "2016-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -47,8 +49,6 @@ LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO.
 
 La Hacienda Pública del Estado de Quintana Roo, percibirá en cada ejercicio fiscal para cubrir el gasto público y demás obligaciones a cargo del Gobierno Estatal, los ingresos por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones federales y otros que anualmente se establezcan en la Ley de Ingresos del Estado de Quintana Roo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 2o.
@@ -63,9 +63,9 @@ La Ley de ingresos que anualmente expide el Congreso Local, como ordenamiento es
 
 Cuando en esta ley se tomen como base para el pago de los créditos fiscales a cargo de los sujetos pasivos, los ingresos, se entenderá que quedan comprendidos tanto los que se perciban en efectivo como en especie.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-Cuando en esta ley se haga mención a las siglas S.M.G., se entenderá que se refiere al salario mínimo general vigente en la entidad; y por Secretaría, se entenderá a la Secretaría de Finanzas y Planeación.
+Cuando en esta ley se haga mención a las siglas UMA, se entenderá que se refiere al valor diario de la Unidad de Medida y Actualización; y por secretaría, se entenderá a la Secretaría de Finanzas y Planeación.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -643,127 +643,85 @@ V.- Si la adjudicación al acreedor se hiciere por convenio, deberá considerars
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO III
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN PRIMERA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### ARTICULO 39.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 39-A.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### ARTICULO 40.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN SEGUNDA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### ARTICULO 41.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 42.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### ARTICULO 43.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 43-A.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### ARTICULO 43-B.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 43-C.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### ARTICULO 43-D.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN TERCERA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### ARTICULO 44.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 45.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### ARTICULO 46.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 47.
 
 (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 ###### ARTICULO 47
 
 BIS.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN CUARTA
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 48.
 
@@ -1635,19 +1593,19 @@ Será base para la determinación y liquidación de este impuesto, el número de
 
 El presente impuesto se causará y pagará de conformidad con la siguiente:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 TARIFA
 
-Bovino 3.00 S.M.G.
+BOVINO 3.00 UMA
 
-Caprino 1.00 S.M.G.
+CAPRINO 1.00 UMA
 
-Equino 2.00 S.M.G.
+EQUINO 2.00 UMA
 
-Lanar 1.00 S.M.G.
+LANAR 1.00 UMA
 
-Porcino 2.00 S.M.G.
+PORCINO 2.00 UMA
 
 #### SECCION TERCERA. DE LAS OBLIGACIONES
 
@@ -1741,8 +1699,6 @@ Se entenderá por ejercicio libre de una profesión o especialidad, aquél que s
 
 #### SECCION TERCERA. DE LA BASE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 146.
@@ -1751,21 +1707,15 @@ Será base de este impuesto, el total de los ingresos que perciba el sujeto de e
 
 #### SECCION CUARTA. DEL (SIC) LA TASA, DEL PAGO Y OBLIGACIONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 147.
 
 Los sujetos de este impuesto efectuarán pagos bimestrales a más tardar el día 17 del mes inmediato posterior a aquél bimestre en que se obtuvieron los ingresos, por ejercer libre y habitualmente una profesión, mediante declaración que presentarán en las formas autorizadas por la Secretaría, a través de los medios electrónicos dispuestos por esta, mediante reglas de carácter general.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 Los sujetos de esta obligación calcularán el impuesto aplicando la tasa del 1% sobre la base a que hace referencia el artículo 146 de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -1775,35 +1725,23 @@ La obligación de presentar declaraciones subsistirá aún cuando no hubiese can
 
 Cuando los contribuyentes a que se refiere este capítulo causen baja o suspendan temporalmente actividades, deberán liquidar el impuesto que a la fecha se ha generado aplicando la tasa del 1% sobre el importe de los ingresos percibidos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 148.
 
 Son obligaciones de los contribuyentes de este impuesto, además de las establecidas en el Código Fiscal del Estado, las siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 I.- Empadronarse y obtener la licencia de funcionamiento correspondiente en los plazos y medios previstos en esta Ley, en términos del artículo 172 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 II.- (DEROGADA, P.O. 19 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 III.- (DEROGADA, P.O. 19 DE DICIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 IV.- Presentar a más tardar el último día hábil del mes de abril, en las formas aprobadas por la Secretaría a través de los medios electrónicos dispuestos por esta mediante reglas de carácter general, la declaración informativa en la que conste de manera clara el folio de los comprobantes fiscales expedidos en el ejercicio fiscal anterior.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -1949,8 +1887,6 @@ Los sujetos de este impuesto, deberán llevar el registro de sus operaciones dia
 
 #### SECCION PRIMERA. DEL OBJETO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 168-A.
@@ -1997,8 +1933,6 @@ Son sujetos del impuesto, las personas físicas, morales o unidades económicas 
 
 #### SECCION TERCERA. DE LA TASA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 168-F.
@@ -2026,8 +1960,6 @@ Los prestadores de servicios deberán enterar las retenciones efectuadas mediant
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 El pago provisional será la cantidad que resulte de aplicar la tasa del impuesto sobre el total del ingreso por la utilización de los servicios a que se refiere este capítulo, obtenidos en el período por el que se efectúa el pago.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -2119,8 +2051,6 @@ En las declaraciones que se presenten en los términos del párrafo anterior, de
 
 Los retenedores que tengan varios establecimientos en el Estado, deberán conservar en cada uno de ellos, copia de las declaraciones de pago provisional y del ejercicio, y proporcionarlas a las autoridades fiscales estatales, cuando así lo requieran.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 Los retenedores deberán de proporcionar mensualmente mediante formas aprobadas por la Secretaría a través de los medios electrónicos dispuestos por ésta, la información que se refiere a ingresos en efectivo, por cheques y transferencias derivadas de depósitos, anticipos, intereses y penas convencionales por la prestación o pagos del servicio de hospedaje, todo lo anterior en relación con las operaciones practicadas con personas físicas, morales o unidades económicas, a más tardar el día 17 del mes inmediato posterior al que corresponda dicha información.
@@ -2159,7 +2089,9 @@ BIS-A.- Son sujetos del pago de este impuesto las, personas físicas y morales o
 
 BIS-B.- La base para el cálculo de este impuesto será el volumen de metros cúbicos de material extraído en términos del artículo anterior.
 
-El impuesto a que se refiere este capítulo se causará por cada metro cúbico que se extraiga de los materiales objeto de la contribución con una tarifa de 0.14 veces el salario mínimo general vigente para el Estado de Quintana Roo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+El Impuesto a que se refiere este Capítulo se causará por cada metro cúbico que se extraiga de los materiales objeto de la contribución con una tarifa de 0.14 veces la UMA.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -2200,8 +2132,6 @@ II.- Pagar el impuesto correspondiente en la forma y los términos previstos en 
 III - Registrarse o empadronarse en la oficina de la recaudadora de rentas que corresponda al lugar de la ubicación de los terrenos explotados.
 
 IV.- Llevar un libro de registros de extracción en el que se hará constar diariamente la cantidad en metros cúbicos de material que se extraiga del suelo y subsuelo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -2275,27 +2205,19 @@ En el caso de operaciones consignadas en escritura pública, los Notarios Públi
 
 TER-C.- Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito o perito valuador. La Secretaría estará facultada para practicar, ordenar o tomar en cuenta, el avalúo del bien objeto de la enajenación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LAS SECCIONES, APARTADOS, Y ARTÍCULOS, QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO XV. DEL IMPUESTO SOBRE USO O TENENCIA VEHICULAR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON LOS APARTADOS Y ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION PRIMERA. DISPOSICIONES GENERALES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 APARTADO A
 
 DEL OBJETO Y SUJETO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -2306,8 +2228,6 @@ QUATER.- Es objeto de este impuesto el uso o la tenencia de vehículos contenido
 Son sujetos de este impuesto las personas físicas y las morales, domiciliadas o residentes en el territorio del Estado de Quintana Roo, que realicen el objeto de este impuesto, a las que dicho Estado les expida placas de circulación o que circulen de manera habitual por su circunscripción territorial por más de 30 días naturales o tengan su domicilio en el mismo.
 
 Para efectos de este impuesto, se presume que el propietario es tenedor o usuario del vehículo y que está domiciliado o es residente en el territorio del Estado de Quintana Roo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -2349,23 +2269,17 @@ XIII.- Camión: Vehículo motorizado pesado de cuatro o más ruedas usado para e
 
 XIV.- INPC: El índice Nacional de Precios al Consumidor emitido por el Banco de México, publicado en el Diario Oficial de la Federación
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 168
 
 QUATER-B.- La federación, el Estado, los Municipios, los organismos descentralizados o cualquier persona, deberán pagar el impuesto con las excepciones que en esta ley se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados o estén exentos de ellos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 APARTADO B
 
 DE LOS RESPONSABLES SOLIDARIOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -2381,13 +2295,9 @@ III.- Los funcionarios y servidores públicos competentes que autoricen el regis
 
 IV.- Quienes reciban vehículos para su administración y no proporcionen o se nieguen a proporcionar a las autoridades fiscales o que proporcionen información falsa, sobre elementos suficientes para identificar al o los propietarios de los mismos, que permitan determinar el adeudo fiscal por este impuesto en caso que los hubiera.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION SEGUNDA. DE LA BASE
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -2399,13 +2309,9 @@ Tratándose de vehículos de importación, será base el valor de aduana más im
 
 Para los vehículos usados la base se determinará aplicando al valor total del vehículo la tabla de depreciación correspondiente y al resultado se le aplicará el factor de actualización que corresponda según el período transcurrido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION TERCERA. DEL PAGO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -2415,8 +2321,6 @@ QUATER-E.- El Impuesto Sobre Uso o Tenencia Vehicular se causará por año de ca
 
 En los casos de solicitud de los servicios de expedición de placas, tarjetas de circulación, permisos provisionales para circulación de vehículos sin placas o cambio de propietario en el padrón vehicular, deberá cubrirse previamente el pago del impuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 168
@@ -2425,23 +2329,17 @@ QUATER-F.- Los contribuyentes comprobarán el pago del impuesto con el original 
 
 Cuando el vehículo provenga de otra entidad federativa, se deberá demostrar que es de reciente introducción al Estado, para lo cual deberá acreditar haber cumplido con las obligaciones análogas o contar con permisos de circulación vigentes a que obligue la Entidad de la que provienen, de lo contrario se presumirá que el vehículo fue introducido al Estado y que se encuentra circulando en la entidad desde la fecha en que haya dejado de estar al corriente o hayan vencido sus permisos y en consecuencia pagará los ejercicios fiscales que se presuman causados.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 168
 
 QUATER-G.- Los contribuyentes de este impuesto están obligados a inscribirse en el Registro Estatal de Contribuyentes y ante el Registro Estatal Vehicular utilizando para ello las formas, requisitos y en los plazos señalados en la presente Ley y su Reglamento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 168
 
 QUATER-H.- Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados, que asignen dichos vehículos a su servicio, al de sus funcionarios, empleados o sean de los utilizados para demostración en prueba de manejo, deberán pagar el impuesto por el ejercicio en que efectúen la asignación o uso, en los términos previstos en el primer párrafo de esta sección.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -2451,21 +2349,15 @@ QUATER-I.- En la enajenación por primera vez al consumidor por el fabricante, e
 
 En la enajenación o importación de vehículos nuevos de año modelo posterior al año en que se realice o efectúe dicho acto, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON LOS APARTADOS Y ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION CUARTA. DE LAS CUOTAS, TASAS Y TARIFAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 APARTADO A
 
 VEHICULOS NUEVOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -2557,8 +2449,6 @@ La tarifa anterior se actualizará de manera anual en el mes de enero con el fac
 
 Tratándose de vehículos blindados, excepto camiones, las tarifas a que se refiere este artículo se aplicarán sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 168
@@ -2589,15 +2479,11 @@ Noviembre 0.17
 
 Diciembre 0.08
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 APARTADO B
 
 VEHICULOS USADOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -2719,15 +2605,11 @@ b) La cantidad obtenida, conforme al inciso anterior, se multiplicará por el fa
 
 c) Al resultado obtenido se aplicará la tarifa establecida en la fracción IV del artículo 168-QUATER-J.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 168
 
 QUATER-M.- Para determinar el impuesto del año en que los vehículos usados sean importados por primera vez al país, se estará bajo el criterio de vehículo nuevo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -2735,13 +2617,9 @@ QUATER-M.- Para determinar el impuesto del año en que los vehículos usados sea
 
 QUATER-N.- Para los efectos de este Capítulo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo y cuando el año modelo no se pueda determinar el impuesto a que se refiere este capítulo, se pagará como si éste fuese nuevo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 #### SECCION QUINTA. DE LAS EXENCIONES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -2764,8 +2642,6 @@ VI.- Los vehículos que sean utilizados para el transporte de personas con disca
 VII.- Los vehículos eléctricos y los denominados híbridos.
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el propietario del mismo deberá pagar el impuesto correspondiente dentro de los 30 días hábiles siguientes a aquel en que tenga lugar el hecho de que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -2791,9 +2667,9 @@ El Gobierno del Estado, percibirá derechos por los servicios que preste en el e
 
 Las licencias de bebidas alcohólicas se concederán de conformidad con lo establecido en la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo y su Reglamento, siempre que la actividad de los establecimientos no afecte la moral, las buenas costumbres, la tranquilidad social o el interés público.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-Estas licencias de bebidas alcohólicas se deberán presentar a refrendar cada año en la Secretaría de Hacienda del Estado dentro de los primeros dos meses del año.
+Estas licencias de bebidas alcohólicas se deberán presentar a refrendar cada año en la Secretaría dentro de los primeros dos meses del año.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -2809,159 +2685,141 @@ I.- Por la expedición de licencias de bebidas alcohólicas en el Municipio de F
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 1,312 UMA 985 UMA
 
-De lujo hasta 1,312 S.M.G. 985 S.M.G.
+De primera hasta 985 UMA 788 UMA
 
-De primera hasta 985 S.M.G. 788 S.M.G.
-
-De segunda hasta 656 S.M.G 591 S.M.G
+De segunda hasta 656 UMA 591 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 1,969 UMA 1,312 UMA
 
-De lujo hasta 1,969 S.M.G. 1,312 S.M.G.
+De primera hasta 1,312 UMA 985 UMA
 
-De primera hasta 1,312 S.M.G 985 S.M.G.
-
-De segunda hasta 985 S.M.G. 656 S.M.G.
+De segunda hasta 985 UMA 656 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 1,575 UMA 1,050 UMA
 
-De lujo hasta 1,575 S.M.G. 1,050 S.M.G.
+De primera hasta 1,050 UMA 678 UMA
 
-De primera hasta 1,050 S.M.G. 678 S.M.G.
-
-De segunda hasta 788 S.M.G. 525 S.M.G.
+De segunda hasta 788 UMA 525 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 1,313 UMA 788 UMA
 
-De lujo hasta 1,313 S.M.G. 788 S.M.G.
+De primera hasta 1,050 UMA 630 UMA
 
-De primera hasta 1,050 S.M.G. 630 S.M.G.
-
-De segunda hasta 788 S.M.G. 473 S.M.G.
+De segunda hasta 788 UMA 473 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 2,625 UMA 1,969 UMA
 
-De lujo hasta 2,625 S.M.G. 1,969 S.M.G.
+De primera hasta 2,298 UMA 1,641 UMA
 
-De primera hasta 2,298 S.M.G. 1,641 S.M.G.
-
-De segunda hasta 1,969 S.M.G . 985 S.M.G.
+De segunda hasta 1,969 UMA . 985 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 2,298 UMA 1,576 UMA
 
-De lujo hasta 2,298 S.M.G. 1,576 S.M.G.
+De primera hasta 1,970 UMA 1,313 UMA
 
-De primera hasta 1,970 S.M.G. 1,313 S.M.G.
-
-De segunda hasta 1,576 S.M.G. 985 S.M.G.
+De segunda hasta 1,576 UMA 985 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 g).- Venta de vinos y licores en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 1,260 UMA 946 UMA
 
-De lujo hasta 1,260 S.M.G. 946 S.M.G.
+De primera hasta 946 UMA 630 UMA
 
-De primera hasta 946 S.M.G. 630 S.M.G.
-
-De segunda hasta 683 S.M.G. 378 S.M.G.
+De segunda hasta 683 UMA 378 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 1,969 UMA 1,312 UMA
 
-De lujo hasta 1,969 S.M.G. 1,312 S.M.G.
+De primera hasta 1,312 UMA 985 UMA
 
-De primera hasta 1,312 S.M.G. 985 S.M.G.
-
-De segunda hasta 985 S.M.G. 656 S.M.G.
+De segunda hasta 985 UMA 656 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-TURISTICA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De lujo hasta 1,969 S.M.G. 1,312 S.M.G.
+De lujo hasta 1,969 UMA 1,312 UMA
 
-De primera hasta 1,312 S.M.G. 985 S.M.G.
+De primera hasta 1,312 UMA 985 UMA
 
-De segunda hasta 985 S.M.G. 656 S.M.G.
+De segunda hasta 985 UMA 656 UMA
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 2,625 UMA 1,969 UMA
 
-De lujo hasta 2,625 S.M.G. 1,969 S.M.G.
+De primera hasta 2,298 UMA 1,641 UMA
 
-De primera hasta 2,298 S.M.G. 1,641 S.M.G.
-
-De segunda hasta 1,969 S.M.G. 985 S.M.G.
+De segunda hasta 1,969 UMA 985 UMA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -2971,163 +2829,141 @@ II.- Por la expedición de licencias de bebidas alcohólicas en los Municipios d
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 946 UMA 630 UMA
 
-De lujo hasta 946 S.M.G. 630 S.M.G.
+De primera hasta 630 UMA 504 UMA
 
-De primera hasta 630 S.M.G. 504 S.M.G.
-
-De segunda hasta 504 S.M.G. 378 S.M.G.
+De segunda hasta 504 UMA 378 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 1,576 UMA 946 UMA
 
-De lujo hasta 1,576 S.M.G. 946 S.M.G.
+De primera hasta 1,260 UMA 756 UMA
 
-De primera hasta 1,260 S.M.G. 756 S.M.G.
-
-De segunda hasta 946 S.M.G. 630 S.M.G.
+De segunda hasta 946 UMA 630 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 1,260 UMA 946 UMA
 
-De lujo hasta 1,260 S.M.G. 946 S.M.G.
+De primera hasta 946 UMA 630 UMA
 
-De primera hasta 946 S.M.G. 630 S.M.G.
-
-De segunda hasta 683 S.M.G. 378 S.M.G.
+De segunda hasta 683 UMA 378 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 946 UMA 756 UMA
 
-De lujo hasta 946 S.M.G. 756 S.M.G.
+De primera hasta 756 UMA 504 UMA
 
-De primera hasta 756 S.M.G. 504 S.M.G.
-
-De segunda hasta 504 S.M.G. 378 S.M.G.
+De segunda hasta 504 UMA 378 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 2,520 UMA 1,260 UMA
 
-De lujo hasta 2,520 S.M.G. 1,260 S.M.G.
+De primera hasta 1,890 UMA 1,134 UMA
 
-De primera hasta 1,890 S.M.G. 1,134 S.M.G.
-
-De segunda hasta 1,260 S.M.G. 946 S.M.G.
+De segunda hasta 1,260 UMA 946 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 820 UMA 756 UMA
 
-De lujo hasta 820 S.M.G. 756 S.M.G.
+De primera hasta 630 UMA 630 UMA
 
-De primera hasta 630 S.M.G. 630 S.M.G.
-
-De segunda hasta 504 S.M.G. 378 S.M.G.
+De segunda hasta 504 UMA 378 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 g).- Venta de vinos y licores en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 1,260 UMA 946 UMA
 
-De lujo hasta 1,260 S.M.G. 946 S.M.G.
+De primera hasta 946 UMA 630 UMA
 
-De primera hasta 946 S.M.G. 630 S.M.G.
-
-De segunda hasta 683 S.M.G. 378 S.M.G.
+De segunda hasta 683 UMA 378 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 1,576 UMA 946 UMA
 
-De lujo hasta 1,576 S.M.G. 946 S.M.G.
+De primera hasta 1,260 UMA 756 UMA
 
-De primera hasta 1,260 S.M.G. 756 S.M.G.
-
-De segunda hasta 946 S.M.G. 630 S.M.G.
+De segunda hasta 946 UMA 630 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 1,576 UMA 946 UMA
 
-De lujo hasta 1,576 S.M.G. 946 S.M.G.
+De primera hasta 1,260 UMA 756 UMA
 
-De primera hasta 1,260 S.M.G. 756 S.M.G.
-
-De segunda hasta 946 S.M.G. 630 S.M.G.
+De segunda hasta 946 UMA 630 UMA
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
-j).-Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
+j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA RURAL
+ZONA URBANA COMERCIAL ZONA RURAL
 
-COMERCIAL
+De lujo hasta 2,520 UMA 1,260 UMA
 
-De lujo hasta 2,520 S.M.G. 1,260 S.M.G.
+De primera hasta 1,890 UMA 1,134 UMA
 
-De primera hasta 1,890 S.M.G. 1,134 S.M.G.
-
-De segunda hasta 1,260 S.M.G. 985 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+De segunda hasta 1,260 UMA 985 UMA
 
 > <small>(REFORMADA PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -3137,291 +2973,285 @@ III.- Por la expedición de licencias de bebidas alcohólicas en los municipios 
 
 a).- Venta de cervezas en envase abierto, exclusivamente con los alimentos.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-COMERCIAL URBANA
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De lujo hasta 1,260 S.M.G. 946 S.M.G.
+De lujo hasta 1,260 UMA 946 UMA
 
-De primera hasta 946 S.M.G. 820 S.M.G.
+De primera hasta 946 UMA 820 UMA
 
-De segunda hasta 630 S.M.G. 504 S.M.G.
+De segunda hasta 630 UMA 504 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-COMERCIAL URBANA
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De lujo hasta 3,150 S.M.G. 2,520 S.M.G.
+De lujo hasta 3,150 UMA 2,520 UMA
 
-De primera hasta 2,836 S.M.G. 2,206 S.M.G.
+De primera hasta 2,836 UMA 2,206 UMA
 
-De segunda hasta 2,520 S.M.G. 1,890 S.M.G.
+De segunda hasta 2,520 UMA 1,890 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-COMERCIAL URBANA
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
+De lujo hasta 2,520 UMA 1,890 UMA
 
-De primera hasta 2,206 S.M.G. 1,576 S.M.G.
+De primera hasta 2,206 UMA 1,576 UMA
 
-De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
+De segunda hasta 1,890 UMA 1,260 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-COMERCIAL URBANA
+ZONA COMERCIAL ZONA URBANA
 
-De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
+De lujo hasta 2,520 UMA 1,890 UMA
 
-De primera hasta 2,206 S.M.G. 1,576 S.M.G.
+De primera hasta 2,206 UMA 1,576 UMA
 
-De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
+De segunda hasta 1,890 UMA 1,260 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-COMERCIAL URBANA
+ZONA COMERCIAL ZONA URBANA
 
-De lujo hasta 4,410 S.M.G. 3,780 S.M.G.
+De lujo hasta 4,410 UMA 3,780 UMA
 
-De primera hasta 4,096 S.M.G. 3,466 S.M.G.
+De primera hasta 4,096 UMA 3,466 UMA
 
-De segunda hasta 3,780 S.M.G. 3,150 S.M.G.
+De segunda hasta 3,780 UMA 3,150 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-COMERCIAL URBANA
+ZONA COMERCIAL ZONA URBANA
 
-De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
+De lujo hasta 2,520 UMA 1,890 UMA
 
-De primera hasta 2,206 S.M.G. 1,576 S.M.G.
+De primera hasta 2,206 UMA 1,576 UMA
 
-De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
+De segunda hasta 1,890 UMA 1,260 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 g).- Venta de vinos y licores en envase cerrado-
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-COMERCIAL URBANA
+ZONA COMERCIAL ZONA URBANA
 
-De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
+De lujo hasta 2,520 UMA 1,890 UMA
 
-De primera hasta 2,206 S.M.G. 1,576 S.M.G.
+De primera hasta 2,206 UMA 1,576 UMA
 
-De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
+De segunda hasta 1,890 UMA 1,260 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-COMERCIAL URBANA
+ZONA COMERCIAL ZONA URBANA
 
-De lujo hasta 3,150 S.M.G. 2,520 S.M.G.
+De lujo hasta 3,150 UMA 2,520 UMA
 
-De primera hasta 2,836 S.M.G. 2,206 S.M.G.
+De primera hasta 2,836 UMA 2,206 UMA
 
-De segunda hasta 2,520 S.M.G. 1,890 S.M.G.
+De segunda hasta 2,520 UMA 1,890 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-COMERCIAL URBANA
+ZONA COMERCIAL ZONA URBANA
 
-De lujo hasta 3,150 S.M.G. 2,520 S.M.G.
+De lujo hasta 3,150 UMA 2,520 UMA
 
-De primera hasta 2,836 S.M.G. 2,206 S.M.G.
+De primera hasta 2,836 UMA 2,206 UMA
 
-De segunda hasta 2,520 S.M.G. 1,890 S.M.G.
+De segunda hasta 2,520 UMA 1,890 UMA
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 j).-Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-COMERCIAL URBANA
+ZONA URBANA COMERCIAL ZONA RURAL
 
-De lujo hasta 4,410 S.M.G. 3,780 S.M.G.
+De lujo hasta 4,410 UMA 3,780 UMA
 
-De primera hasta 4,096 S.M.G. 3,466 S.M.G.
+De primera hasta 4,096 UMA 3,466 UMA
 
-De segunda hasta 3,780 S.M.G. 3,150 S.M.G.
+De segunda hasta 3,780 UMA 3,150 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-IV.- Por la expedición de bebidas alcohólicas en los Municipios de Benito Juárez, Cozumel, Solidaridad y Tulum, para la:
+IV.- Por la expedición de licencias de bebidas alcohólicas en los municipios de Benito Juárez, Puerto Morelos, Cozumel, Solidaridad y Tulum para la:
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-TURISTICA COMERCIAL
+ZONA TURISTICA ZONA COMERCIAL
 
-De lujo hasta 2,520 S.M.G. 1,890 S.M.G.
+De lujo hasta 2,520 UMA 1,890 UMA
 
-De primera hasta 2,022 S.M.G. 1,576 S.M.G.
+De primera hasta 2,022 UMA 1,576 UMA
 
-De segunda hasta 1,890 S.M.G. 1,260 S.M.G.
+De segunda hasta 1,890 UMA 1,260 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-TURISTICA COMERCIAL
+ZONA TURISTICA ZONA COMERCIAL
 
-De lujo hasta 3,780 S.M.G. 3,150 S.M.G.
+De lujo hasta 3,780 UMA 3,150 UMA
 
-De primera hasta 3,466 S.M.G. 2,836 S.M.G.
+De primera hasta 3,466 UMA 2,836 UMA
 
-De segunda hasta 3,150 S.M.G. 2,520 S.M.G.
+De segunda hasta 3,150 UMA 2,520 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-TURISTICA COMERCIAL
+ZONA TURISTICA ZONA COMERCIAL
 
-De lujo hasta 3,150 S.M.G. 2,836 S.M.G.
+De lujo hasta 3,150 UMA 2,836 UMA
 
-De primera hasta 2,836 S.M.G. 2,520 S.M.G.
+De primera hasta 2,836 UMA 2,520 UMA
 
-De segunda hasta 2,520 S.M.G. 2,206 S.M.G.
+De segunda hasta 2,520 UMA 2,206 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-TURISTICA COMERCIAL
+ZONA TURISTICA ZONA COMERCIAL
 
-De lujo hasta 2,836 S.M.G. 2,520 S.M.G.
+De lujo hasta 2,836 UMA 2,520 UMA
 
-De primera hasta 2,520 S.M.G. 2,206 S.M.G.
+De primera hasta 2,520 UMA 2,206 UMA
 
-De segunda hasta 2,206 S.M.G. 1,890 S.M.G.
+De segunda hasta 2,206 UMA 1,890 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-TURISTICA COMERCIAL
+ZONA TURISTICA ZONA COMERCIAL
 
-De lujo hasta 5,040 S.M.G. 4,410 S.M.G.
+De lujo hasta 5,040 UMA 4,410 UMA
 
-De primera hasta 4,726 S.M.G. 4,096 S.M.G.
+De primera hasta 4,726 UMA 4,096 UMA
 
-De segunda hasta 4,410 S.M.G. 3,780 S.M.G.
+De segunda hasta 4,410 UMA 3,780 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-TURISTICA COMERCIAL
+ZONA TURISTICA ZONA COMERCIAL
 
-De lujo hasta 3,150 S.M.G. 2,520 S.M.G.
+De lujo hasta 3,150 UMA 2,520 UMA
 
-De primera hasta 2,836 S.M.G. 2,206 S.M.G.
+De primera hasta 2,836 UMA 2,206 UMA
 
-De segunda hasta 2,520 S.M.G. 1,890 S.M.G.
+De segunda hasta 2,520 UMA 1,890 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 g).- Venta de vinos y licores en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-TURISTICA COMERCIAL
+ZONA TURISTICA ZONA COMERCIAL
 
-De lujo hasta 3,150 S.M.G. 2,836 S.M.G.
+De lujo hasta 3,150 UMA 2,836 UMA
 
-De primera hasta 2,836 S.M.G. 2,520 S.M.G.
+De primera hasta 2,836 UMA 2,520 UMA
 
-De segunda hasta 2,520 S.M.G. 2,206 S.M.G.
+De segunda hasta 2,520 UMA 2,206 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-TURISTICA COMERCIAL
+ZONA TURISTICA ZONA COMERCIAL
 
-De lujo hasta 3,780 S.M.G. 3,150 S.M.G.
+De lujo hasta 3,780 UMA 3,150 UMA
 
-De primera hasta 3,466 S.M.G. 2,836 S.M.G.
+De primera hasta 3,466 UMA 2,836 UMA
 
-De segunda hasta 3,150 S.M.G. 2,520 S.M.G.
+De segunda hasta 3,150 UMA 2,520 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-TURISTICA COMERCIAL
+ZONA TURISTICA ZONA COMERCIAL
 
-De lujo hasta 3,780 S.M.G. 3,150 S.M.G.
+De lujo hasta 3,780 UMA 3,150 UMA
 
-De primera hasta 3,466 S.M.G. 2,836 S.M.G.
+De primera hasta 3,466 UMA 2,836 UMA
 
-De segunda hasta 3,150 S.M.G. 2,520 S.M.G.
+De segunda hasta 3,150 UMA 2,520 UMA
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-ZONA ZONA
+ZONA TURISTICA ZONA COMERCIAL
 
-TURÍSTICA COMERCIAL
+De lujo hasta 5,739 UMA 4,914 UMA
 
-De lujo hasta 5,739 S.M.G. 4,914 S.M.G.
+De primera hasta 5,040 UMA 4,410 UMA
 
-De primera hasta 5,040 S.M.G. 4,410 S.M.G.
-
-De segunda hasta 4,726 S.M.G. 4,096 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+De segunda hasta 4,726 UMA 4,096 UMA
 
 > <small>(REFORMADA PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -3433,295 +3263,277 @@ Tratándose de cambios de denominación o razón social entre sociedades o por f
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA URBANA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 420 UMA 252 UMA
 
-De lujo hasta 420 252 S.M.G.
+De primera hasta 316 UMA 182 UMA
 
-De primera hasta 316 182 S.M.G.
+De segunda hasta 210 UMA 126 UMA
 
-De segunda hasta 210 126 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 316 UMA 190 UMA
 
-De lujo hasta 316 190 S.M.G.
+De primera hasta 210 UMA 126 UMA
 
-De primera hasta 210 126 S.M.G.
-
-De segunda hasta 106 64 S.M.G.
+De segunda hasta 106 UMA 64 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 526 UMA 316 UMA
 
-De lujo hasta 526 S.M.G. 316 S.M.G.
+De primera hasta 420 UMA 252 UMA
 
-De primera hasta 420 S.M.G. 252 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
-De segunda hasta 316 S.M.G. 190 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 420 UMA 252 UMA
 
-De lujo hasta 420 252 S.M.G.
+De primera hasta 316 UMA 180 UMA
 
-De primera hasta 316 180 S.M.G.
-
-De segunda hasta 210 126 S.M.G.
+De segunda hasta 210 UMA 126 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 420 UMA 252 UMA
 
-De lujo hasta 420 252 S.M.G.
+De primera hasta 316 UMA 182 UMA
 
-De primera hasta 316 182 S.M.G.
+De segunda hasta 210 UMA 126 UMA
 
-De segunda hasta 210 126 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 316 UMA 190 UMA
 
-De lujo hasta 316 190 S.M.G.
+De primera hasta 210 UMA 126 UMA
 
-De primera hasta 210 126 S.M.G.
-
-De segunda hasta 106 64 S.M.G.
+De segunda hasta 106 UMA 64 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 420 UMA 252 UMA
 
-De lujo hasta 420 252 S.M.G.
+De primera hasta 316 UMA 190 UMA
 
-De primera hasta 316 190 S.M.G.
+De segunda hasta 210 UMA 126 UMA
 
-De segunda hasta 210 126 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 316 UMA 190 UMA
 
-De lujo hasta 316 190 S.M.G.
+De primera hasta 210 UMA 126 UMA
 
-De primera hasta 210 126 S.M.G.
-
-De segunda hasta 106 64 S.M.G.
+De segunda hasta 106 UMA 64 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,050 UMA 630 UMA
 
-De lujo hasta 1,050 630 S.M.G.
+De primera hasta 840 UMA 504 UMA
 
-De primera hasta 840 504 S.M.G.
+De segunda hasta 630 UMA 378 UMA
 
-De segunda hasta 630 378 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 840 UMA 504 UMA
 
-De lujo hasta 840 504 S.M.G.
+De primera hasta 630 UMA 378 UMA
 
-De primera hasta 630 378 S.M.G.
-
-De segunda hasta 526 316 S.M.G.
+De segunda hasta 526 UMA 316 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 736 UMA 442 UMA
 
-De lujo hasta 736 442 S.M.G.
+De primera hasta 630 UMA 378 UMA
 
-De primera hasta 630 378 S.M.G.
+De segunda hasta 526 UMA 316 UMA
 
-De segunda hasta 526 316 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 526 UMA 316 UMA
 
-De lujo hasta 526 316 S.M.G.
+De primera hasta 420 UMA 252 UMA
 
-De primera hasta 420 252 S.M.G.
-
-De segunda hasta 316 190 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 g).- Venta de vinos y licores en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 420 UMA 252 UMA
 
-De lujo hasta 420 252 S.M.G.
+De primera hasta 316 UMA 182 UMA
 
-De primera hasta 316 182 S.M.G.
+De segunda hasta 210 UMA 126 UMA
 
-De segunda hasta 210 126 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 316 UMA 190 UMA
 
-De lujo hasta 316 190 S.M.G.
+De primera hasta 210 UMA 126 UMA
 
-De primera hasta 210 126 S.M.G.
-
-De segunda hasta 106 64 S.M.G.
+De segunda hasta 106 UMA 64 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 526 UMA 316 UMA
 
-De lujo hasta 526 316 S.M.G.
+De primera hasta 420 UMA 252 UMA
 
-De primera hasta 420 252 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
-De segunda hasta 316 190 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 420 UMA 252 UMA
 
-De lujo hasta 420 252 S.M.G.
+De primera hasta 316 UMA 180 UMA
 
-De primera hasta 316 180 S.M.G.
-
-De segunda hasta 210 126 S.M.G.
+De segunda hasta 210 UMA 126 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 526 UMA 316 UMA
 
-De lujo hasta 526 316 S.M.G.
+De primera hasta 420 UMA 252 UMA
 
-De primera hasta 420 252 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
-De segunda hasta 316 190 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 420 UMA 252 UMA
 
-De lujo hasta 420 252 S.M.G.
+De primera hasta 316 UMA 180 UMA
 
-De primera hasta 316 180 S.M.G.
-
-De segunda hasta 210 126 S.M.G.
+De segunda hasta 210 UMA 126 UMA
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA OTROS CAMBIOS
+ZONA URBANA COMERCIAL OTROS CAMBIOS
 
-COMERCIAL
+De lujo hasta 1,050 UMA 630 UMA
 
-De lujo hasta 1,050 S.M.G. 630 S.M.G.
+De primera hasta 480 UMA 504 UMA
 
-De primera hasta 480 S.M.G. 504 S.M.G.
+De segunda hasta 630 UMA 378 UMA
 
-De segunda hasta 630 S.M.G. 378 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-ZONA OTROS
+ZONA RURAL OTROS CAMBIOS
 
-RURAL CAMBIOS
+De lujo hasta 840 UMA 504 UMA
 
-De lujo hasta 840 S.M.G. 504 S.M.G.
+De primera hasta 630 UMA 378 UMA
 
-De primera hasta 630 S.M.G. 378 S.M.G.
-
-De segunda hasta 526 S.M.G. 316 S.M.G.
+De segunda hasta 526 UMA 316 UMA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -3735,279 +3547,261 @@ a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 420 UMA 252 UMA
 
-De lujo hasta 420 252 S.M.G.
+De primera hasta 316 UMA 190 UMA
 
-De primera hasta 316 182 S.M.G.
+De segunda hasta 210 UMA 126 UMA
 
-De segunda hasta 210 126 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 316 UMA 190 UMA
 
-De lujo hasta 316 190 S.M.G.
+De primera hasta 210 UMA 126 UMA
 
-De primera hasta 210 126 S.M.G.
-
-De segunda hasta 106 64 S.M.G.
+De segunda hasta 106 UMA 64 UMA
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 630 UMA 378 UMA
 
-De lujo hasta 630 378 S.M.G.
+De primera hasta 526 UMA 316 UMA
 
-De primera hasta 526 316 S.M.G.
+De segunda hasta 420 UMA 252 UMA
 
-De segunda hasta 420 252 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 474 UMA 284 UMA
 
-De lujo hasta 474 284 S.M.G.
+De primera hasta 420 UMA 252 UMA
 
-De primera hasta 420 252 S.M.G.
-
-De segunda hasta 316 190 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 526 UMA 316 UMA
 
-De lujo hasta 526 316 S.M.G.
+De primera hasta 420 UMA 252 UMA
 
-De primera hasta 420 252 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
-De segunda hasta 316 190 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 474 UMA 284 UMA
 
-De lujo hasta 474 284 S.M.G.
+De primera hasta 420 UMA 252 UMA
 
-De primera hasta 420 252 S.M.G.
-
-De segunda hasta 316 190 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
 d).- Venta de cervezas en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 420 UMA 520 UMA
 
-De lujo hasta 420 252 S.M.G.
+De primera hasta 368 UMA 221 UMA
 
-De primera hasta 368 221 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
-De segunda hasta 316 190 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 316 UMA 190 UMA
 
-De lujo hasta 316 190 S.M.G.
+De primera hasta 210 UMA 126 UMA
 
-De primera hasta 210 126 S.M.G.
-
-De segunda hasta 106 64 S.M.G.
+De segunda hasta 106 UMA 64 UMA
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 736 UMA 442 UMA
 
-De lujo hasta 736 442 S.M.G.
+De primera hasta 684 UMA 410 UMA
 
-De primera hasta 684 410 S.M.G.
+De segunda hasta 630 UMA 378 UMA
 
-De segunda hasta 630 378 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 684 UMA 410 UMA
 
-De lujo hasta 384 410 S.M.G.
+De primera hasta 578 UMA 347 UMA
 
-De primera hasta 578 347 S.M.G.
-
-De segunda hasta 526 316 S.M.G.
+De segunda hasta 526 UMA 316 UMA
 
 f).- Venta de cervezas en envase abierto.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 630 UMA 378 UMA
 
-De lujo hasta 630 378 S.M.G.
+De primera hasta 578 UMA 347 UMA
 
-De primera hasta 578 347 S.M.G.
+De segunda hasta 526 UMA 316 UMA
 
-De segunda hasta 526 316 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 420 UMA 210 UMA
 
-De lujo hasta 420 210 S.M.G.
+De primera hasta 316 UMA 190 UMA
 
-De primera hasta 316 190 S.M.G.
-
-De segunda hasta 210 126 S.M.G.
+De segunda hasta 210 UMA 126 UMA
 
 g).- Venta de vinos y licores en envase cerrado
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 526 UMA 316 UMA
 
-De lujo hasta 526 316 S.M.G.
+De primera hasta 420 UMA 252 UMA
 
-De primera hasta 420 252 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
-De segunda hasta 316 190S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 474 UMA 284 UMA
 
-De lujo hasta 474 284 S.M.G.
+De primera hasta 420 UMA 252 UMA
 
-De primera hasta 420 252 S.M.G.
-
-De segunda hasta 316 190 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 630 UMA 378 UMA
 
-De lujo hasta 630 378 S.M.G.
+De primera hasta 526 UMA 316 UMA
 
-De primera hasta 526 316 S.M.G.
+De segunda hasta 420 UMA 252 UMA
 
-De segunda hasta 420 252 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 474 UMA 284 UMA
 
-De lujo hasta 474 284 S.M.G.
+De primera hasta 420 UMA 252 UMA
 
-De primera hasta 420 252 S.M.G.
-
-De segunda hasta 316 190 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 630 UMA 378 UMA
 
-De lujo hasta 630 378 S.M.G.
+De primera hasta 526 UMA 316 UMA
 
-De primera hasta 526 316 S.M.G.
+De segunda hasta 420 UMA 252 UMA
 
-De segunda hasta 420 252 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 474 UMA 284 UMA
 
-De lujo hasta 474 284 S.M.G.
+De primera hasta 420 UMA 252 UMA
 
-De primera hasta 420 252 S.M.G.
-
-De segunda hasta 316 190 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA OTROS
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA CAMBIOS
+ZONA URBANA COMERCIAL OTROS CAMBIOS
 
-COMERCIAL
+De lujo hasta 736 UMA 442 UMA
 
-De lujo hasta 736 S.M.G. 442 S.M.G.
+De primera hasta 684 UMA 410 UMA
 
-De primera hasta 684 S.M.G. 410 S.M.G.
+De segunda hasta 630 UMA 378 UMA
 
-De segunda hasta 630 S.M.G. 378 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL OTROS CAMBIOS
 
-De lujo hasta 684 S.M.G. 410 S.M.G.
+De lujo hasta 684 UMA 410 UMA
 
-De primera hasta 578 S.M.G. 347 S.M.G.
+De primera hasta 578 UMA 347 UMA
 
-De segunda hasta 526 S.M.G. 316 S.M.G.
+De segunda hasta 526 UMA 316 UMA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -4019,277 +3813,265 @@ Tratándose de cambios de denominación o razón social entre sociedades o por f
 
 a).- Venta de cervezas en envase abierto, exclusivamente con los alimentos.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 630 UMA 378 UMA
 
-De lujo hasta 630 378 S.M.G.
+De primera hasta 526 UMA 316 UMA
 
-De primera hasta 526 316 S.M.G.
+De segunda hasta 420 UMA 252 UMA
 
-De segunda hasta 420 252 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 420 UMA 252 UMA
 
-De lujo hasta 420 252 S.M.G.
+De primera hasta 316 UMA 190 UMA
 
-De primera hasta 316 190 S.M.G.
-
-De segunda hasta 210 126 S.M.G.
+De segunda hasta 210 UMA 126 UMA
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,250 UMA 750 UMA
 
-De lujo hasta 1,250 750 S.M.G.
+De primera hasta 946 UMA 568 UMA
 
-De primera hasta 946 568 S.M.G.
+De segunda hasta 840 UMA 504 UMA
 
-De segunda hasta 848 504 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 840 UMA 504 UMA
 
-De lujo hasta 840 504 S.M.G.
+De primera hasta 736 UMA 442 UMA
 
-De primera hasta 736 442 S.M.G.
-
-De segunda hasta 630 378 S.M.G.
+De segunda hasta 630 UMA 378 UMA
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,050 UMA 6,308 UMA
 
-De lujo hasta 1,050 6308 S.M.G.
+De primera hasta 840 UMA 504 UMA
 
-De primera hasta 840 504 S.M.G.
+De segunda hasta 630 UMA 378 UMA
 
-De segunda hasta 630 378 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 840 UMA 504 UMA
 
-De lujo hasta 840 504 S.M.G.
+De primera hasta 630 UMA 378 UMA
 
-De primera hasta 630 378 S.M.G.
-
-De segunda hasta 526 316 S.M.G.
+De segunda hasta 526 UMA 316 UMA
 
 d).- Venta de cervezas en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 684 UMA 410 UMA
 
-De lujo hasta 684 410 S.M.G.
+De primera hasta 630 UMA 378 UMA
 
-De primera hasta 630 378 S.M.G.
+De segunda hasta 526 UMA 316 UMA
 
-De segunda hasta 526 3162 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 526 UMA 316 UMA
 
-De lujo hasta 526 316 S.M.G.
+De primera hasta 420 UMA 252 UMA
 
-De primera hasta 420 252 S.M.G.
-
-De segunda hasta 316 190 S.M.G.
+De segunda hasta 316 UMA 190 UMA
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 2,100 UMA 1,260 UMA
 
-De lujo hasta 2,100 1,260 S.M.G.
+De primera hasta 1,890 UMA 1,134 UMA
 
-De primera hasta 1,890 1,134 S.M.G.
+De segunda hasta 1,576 UMA 946 UMA
 
-De segunda hasta 1,576 946 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA URBANA
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,680 UMA 1,008 UMA
 
-De lujo hasta 1,680 1,008 S.M.G.
+De primera hasta 1,470 UMA 882 UMA
 
-De primera hasta 1,470 882 S.M.G.
-
-De segunda hasta 1,050 630 S.M.G.
+De segunda hasta 1,050 UMA 630 UMA
 
 f).- Venta de cervezas en envase abierto.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 840 UMA 504 UMA
 
-De lujo hasta 840 504 S.M.G.
+De primera hasta 630 UMA 378 UMA
 
-De primera hasta 630 378 S.M.G.
+De segunda hasta 578 UMA 347 UMA
 
-De segunda hasta 578 347 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA URBANA
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 684 UMA 410 UMA
 
-De lujo hasta 684 410 S.M.G.
+De primera hasta 630 UMA 378 UMA
 
-De primera hasta 630 378 S.M.G.
-
-De segunda hasta 526 316 S.M.G.
+De segunda hasta 526 UMA 316 UMA
 
 g).- Venta de vinos y licores en envase cerrado.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 840 UMA 504 UMA
 
-De lujo hasta 840 504 S.M.G.
+De primera hasta 736 UMA 442 UMA
 
-De primera hasta 736 442 S.M.G.
+De segunda hasta 630 UMA 378 UMA
 
-De segunda hasta 630 378 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 630 UMA 378 UMA
 
-De lujo hasta 630 3784 S.M.G.
+De primera hasta 526 UMA 316 UMA
 
-De primera hasta 526 316 S.M.G.
-
-De segunda hasta 420 252 S.M.G.
+De segunda hasta 420 UMA 252 UMA
 
 h).- Venta de vinos y licores en envase cerrado par distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,250 UMA 750 UMA
 
-De lujo hasta 1,250 750 S.M.G.
+De primera hasta 946 UMA 568 UMA
 
-De primera hasta 946 568 S.M.G.
+De segunda hasta 840 UMA 504 UMA
 
-De segunda hasta 840 504 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 840 UMA 504 UMA
 
-De lujo hasta 840 504 S.M.G.
+De primera hasta 736 UMA 442 UMA
 
-De primera hasta 736 442 S.M.G.
-
-De segunda hasta 630 378 S.M.G.
+De segunda hasta 630 UMA 378 UMA
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-URBANA COMERCIAL
+ZONA URBANA ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,250 UMA 750 UMA
 
-De lujo hasta 1,250 750 S.M.G.
+De primera hasta 946 UMA 568 UMA
 
-De primera hasta 946 568 S.M.G.
+De segunda hasta 840 UMA 504 UMA
 
-De segunda hasta 840 504 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA RURAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 840 UMA 504 UMA
 
-De lujo hasta 840 504 S.M.G.
+De primera hasta 736 UMA 442 UMA
 
-De primera hasta 736 442 S.M.G.
-
-De segunda hasta 630 378 S.M.G.
+De segunda hasta 630 UMA 378 UMA
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA OTROS
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-COMERCIAL CAMBIOS
+ZONA COMERCIAL OTROS CAMBIOS
 
-De lujo hasta 2,100 S.M.G. 1,260 S.M.G.
+De lujo hasta 2,100 UMA 1,260 UMA
 
-De primera hasta 1,890 S.M.G. 1,134 S.M.G.
+De primera hasta 1,890 UMA 1,134 UMA
 
-De segunda hasta 1,576 S.M.G. 946 S.M.G.
+De segunda hasta 1,576 UMA 946 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA URBANA OTROS CAMBIOS
 
-De lujo hasta 1,680 S.M.G. 1,008 S.M.G.
+De lujo hasta 1,680 UMA 1,008 UMA
 
-De primera hasta 1,470 S.M.G. 882 S.M.G.
+De primera hasta 1,470 UMA 882 UMA
 
-De segunda hasta 1,050 S.M.G. 630 S.M.G.
+De segunda hasta 1,050 UMA 630 UMA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Por cada cambio que se solicite para licencia de bebidas alcohólicas en los municipios de Benito Juárez, Cozumel, Solidaridad y Tulum, del Estado de Quintana Roo, por la:
+VIII.- Por cada cambio que se solicite para licencia de bebidas alcohólicas en los municipios de Benito Juárez, Puerto Morelos, Cozumel, Solidaridad y Tulum del Estado de Quintana Roo, por la:
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
@@ -4299,479 +4081,495 @@ a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
 Loncherías, Marisquerías y Taquerías:
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA TURISTICA
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 946 UMA 568 UMA
 
-De lujo hasta 946 568 S.M.G.
+De primera hasta 840 UMA 504 UMA
 
-De primera hasta 840 504 S.M.G.
+De segunda hasta 736 UMA 442 UMA
 
-De segunda hasta 736 442 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 736 UMA 442 UMA
 
-De lujo hasta 736 442 S.M.G.
+De primera hasta 630 UMA 378 UMA
 
-De primera hasta 630 378 S.M.G.
-
-De segunda hasta 526 316 S.M.G.
+De segunda hasta 526 UMA 316 UMA
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA TURISTICA
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,470 UMA 882 UMA
 
-De lujo hasta 1,470 882 S.M.G.
+De primera hasta 1,366 UMA 820 UMA
 
-De primera hasta 1,366 820 S.M.G.
+De segunda hasta 1,260 UMA 756 UMA
 
-De segunda hasta 1,260 756 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,156 UMA 694 UMA
 
-De lujo hasta 1,156 694 S.M.G.
+De primera hasta 1,050 UMA 525 UMA
 
-De primera hasta 1,050 525 S.M.G.
-
-De segunda hasta 946 473 S.M.G.
+De segunda hasta 946 UMA 473 UMA
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,260 UMA 756 UMA
 
-De lujo hasta 1,260 756 S.M.G.
+De primera hasta 1,156 UMA 694 UMA
 
-De primera hasta 1,156 694 S.M.G.
+De segunda hasta 1,050 UMA 630 UMA
 
-De segunda hasta 1,050 630 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA URBANA
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,050 UMA 630 UMA
 
-De lujo hasta 1,050 630 S.M.G.
+De primera hasta 946 UMA 568 UMA
 
-De primera hasta 946 568 S.M.G.
-
-De segunda hasta 840 504 S.M.G.
+De segunda hasta 840 UMA 504 UMA
 
 d).- Venta de cervezas en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA TURISTICA
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,050 UMA 630 UMA
 
-De lujo hasta 1,050 630 S.M.G.
+De primera hasta 946 UMA 568 UMA
 
-De primera hasta 946 568 S.M.G.
+De segunda hasta 840 UMA 504 UMA
 
-De segunda hasta 840 504 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 840 UMA 442 UMA
 
-De lujo hasta 840 442 S.M.G.
+De primera hasta 736 UMA 378 UMA
 
-De primera hasta 736 378 S.M.G.
-
-De segunda hasta 630 316 S.M.G.
+De segunda hasta 630 UMA 316 UMA
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA TURISTICA
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 2,100 UMA 1,260 UMA
 
-De lujo hasta 2,100 S.M.G. 1,260 S.M.G.
+De primera hasta 1,890 UMA 1,134 UMA
 
-De primera hasta 1,890 S.M.G. 1,134 S.M.G.
+De segunda hasta 1,576 UMA 946 UMA
 
-De segunda hasta 1,576 S.M.G. 946 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,680 UMA 1,008 UMA
 
-De lujo hasta 1,680 S.M.G. 1,008 S.M.G.
+De primera hasta 1,470 UMA 882 UMA
 
-De primera hasta 1,470 S.M.G. 882 S.M.G.
-
-De segunda hasta 1,050 S.M.G. 630 S.M.G.
+De segunda hasta 1,050 UMA 630 UMA
 
 f).- Venta de cervezas en envase abierto.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,470 UMA 735 UMA
 
-De lujo hasta 1,470 735 S.M.G.
+De primera hasta 1,366 UMA 683 UMA
 
-De primera hasta 1,366 683 S.M.G.
+De segunda hasta 1,260 UMA 630 UMA
 
-De segunda hasta 1,260 630 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA URBANA
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,156 UMA 694 UMA
 
-De lujo hasta 1,156 694 S.M.G.
+De primera hasta 1,050 UMA 525 UMA
 
-De primera hasta 1,050 525 S.M.G.
-
-De segunda hasta 946 473 S.M.G.
+De segunda hasta 946 UMA 473 UMA
 
 g).- Venta de vinos y licores en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,260 UMA 756 UMA
 
-De lujo hasta 1,260 756 S.M.G.
+De primera hasta 1,156 UMA 694 UMA
 
-De primera hasta 1,156 694 S.M.G.
+De segunda hasta 1,050 UMA 630 UMA
 
-De segunda hasta 1,050 630 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA URBANA
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,050 UMA 630 UMA
 
-De lujo hasta 1,050 630 S.M.G.
+De primera hasta 946 UMA 568 UMA
 
-De primera hasta 946 568 S.M.G.
-
-De segunda hasta 840 504 S.M.G.
+De segunda hasta 840 UMA 504 UMA
 
 h).- Venta de vinos t licores en envase cerrado para distribución al mayoreo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA TURISTICA
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,470 UMA 882 UMA
 
-De lujo hasta 1,470 882 S.M.G.
+De primera hasta 1,366 UMA 820 UMA
 
-De primera hasta 1,366 820 S.M.G.
+De segunda hasta 1,260 UMA 756 UMA
 
-De segunda hasta 1,260 756 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,156 UMA 694 UMA
 
-De lujo hasta 1,156 694 S.M.G.
+De primera hasta 1,050 UMA 525 UMA
 
-De primera hasta 1,050 525 S.M.G.
-
-De segunda hasta 946 473 S.M.G.
+De segunda hasta 946 UMA 473 UMA
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA TURISTICA
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,470 UMA 882 UMA
 
-De lujo hasta 1,470 882 S.M.G.
+De primera hasta 1,366 UMA 820 UMA
 
-De primera hasta 1,366 820 S.M.G.
+De segunda hasta 1,260 UMA 756 UMA
 
-De segunda hasta 1,260 756 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA URBANA
 
-Por cambio Otros
+Por cambio de propietario Otros cambios
 
-de propietario cambios
+De lujo hasta 1,260 UMA 756 UMA
 
-De lujo hasta 1,260 756 S.M.G.
+De primera hasta 1,156 UMA 694 UMA
 
-De primera hasta 1,156 694 S.M.G.
-
-De segunda hasta 1,050 630 S.M.G.
+De segunda hasta 1,050 UMA 630 UMA
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA OTROS
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-TURÍSTICA CAMBIOS
+ZONA TURÍSTICA OTROS CAMBIOS
 
-De lujo hasta 940 S.M.G. 568 S.M.G.
+De lujo hasta 940 UMA 568 UMA
 
-De primera hasta 840 S.M.G. 504 S.M.G.
+De primera hasta 840 UMA 504 UMA
 
-De segunda hasta 736 S.M.G. 442 S.M.G.
+De segunda hasta 736 UMA 442 UMA
 
-ZONA OTROS CAMBIOS
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-COMERCIAL
+ZONA COMERCIAL OTROS CAMBIOS
 
-De lujo hasta 736 S.M.G. 442 S.M.G.
+De lujo hasta 736 UMA 442 UMA
 
-De primera hasta 630 S.M.G. 378 S.M.G.
+De primera hasta 630 UMA 378 UMA
 
-De segunda hasta 526 S.M.G. 316 S.M.G.
+De segunda hasta 526 UMA 316 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-IX.- Por los cambios de municipio de las licencias de bebidas alcohólicas de Othón P. Blanco, Bacalar y Felipe Carrillo Puerto a Benito Juárez, Solidaridad, Cozumel y Tulum, del Estado de Quintana Roo por la:
+IX.- Por los cambios de municipio de las licencias de bebidas alcohólicas de Othón P. Blanco, Bacalar y Felipe Carrillo Puerto a Benito Juárez, Puerto Morelos, Solidaridad, Cozumel y Tulum, del Estado de Quintana Roo por la:
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA HOTELERA
 
-De lujo hasta 944 S.M.G.
+De lujo hasta 944 UMA
 
-De Primera hasta 905 S.M.G
+De primera hasta 905 UMA
 
-De segunda hasta 893 S.M.G.
+De segunda hasta 893 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 944 S.M.G.
+De lujo hasta 944 UMA
 
-De Primera hasta 866 S.M.G
+De primera hasta 866 UMA
 
-De segunda hasta 852 S.M.G.
+De segunda hasta 852 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 2,165 S.M.G.
+De lujo hasta 2,165 UMA
 
-De Primera hasta 2,154 S.M.G
+De primera hasta 2,154 UMA
 
-De segunda hasta 1,811 S.M.G.
+De segunda hasta 1,188 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,864 S.M.G.
+De lujo hasta 1,864 UMA
 
-De Primera hasta 1,851 S.M.G
+De primera hasta 1,851 UMA
 
-De segunda hasta 1,838 S.M.G.
+De segunda hasta 1,838 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,786 S.M.G.
+De lujo hasta 1,786 UMA
 
-De Primera hasta 1,732 S.M.G
+De primera hasta 1,732 UMA
 
-De segunda hasta 1,575 S.M.G.
+De segunda hasta 1,575 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,786 S.M.G.
+De lujo hasta 1,786 UMA
 
-De Primera hasta 1,732 S.M.G
+De primera hasta 1,732 UMA
 
-De segunda hasta 1,681 S.M.G.
+De segunda hasta 1,681 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,523 S.M.G.
+De lujo hasta 1,523 UMA
 
-De Primera hasta 1,470 S.M.G
+De primera hasta 1,470 UMA
 
-De segunda hasta 1,418 S.M.G.
+De segunda hasta 1,418 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,723 S.M.G.
+De lujo hasta 1,723 UMA
 
-De Primera hasta 1,576 S.M.G
+De primera hasta 1,576 UMA
 
-De segunda hasta 1,418 S.M.G.
+De segunda hasta 1,418 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 2,441 S.M.G.
+De lujo hasta 2,441 UMA
 
-De Primera hasta 2,428 S.M.G
+De primera hasta 2,428 UMA
 
-De segunda hasta 2,415 S.M.G.
+De segunda hasta 2,415 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 2,445 S.M.G.
+De lujo hasta 2,445 UMA
 
-De Primera hasta 2,441 S.M.G
+De Primera hasta 2,441 UMA
 
-De segunda hasta 1,837 S.M.G.
+De segunda hasta 1,837 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 944 S.M.G.
+De lujo hasta 944 UMA
 
-De Primera hasta 866 S.M.G.
+De primera hasta 866 UMA
 
-De segunda hasta 852 S.M.G.
+De segunda hasta 852 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 944 S.M.G.
+De lujo hasta 944 UMA
 
-De Primera hasta 905 S.M.G
+De primera hasta 905 UMA
 
-De segunda hasta 893 S.M.G.
+De segunda hasta 893 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 g).- Venta de vinos y licores en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,523 S.M.G.
+De lujo hasta 1,523 UMA
 
-De Primera hasta 1,470 S.M.G.
+De primera hasta 1,470 UMA
 
-De segunda hasta 1,418 S.M.G.
+De segunda hasta 1,418 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,732 S.M.G.
+De lujo hasta 1,732 UMA
 
-De Primera hasta 1,576 S.M.G
+De primera hasta 1,576 UMA
 
-De segunda hasta 1,418 S.M.G.
+De segunda hasta 1,418 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución el mayoreo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 2,165 S.M.G.
+De lujo hasta 2,165 UMA
 
-De Primera hasta 2,154 S.M.G.
+De primera hasta 2,154 UMA
 
-De segunda hasta 1,811 S.M.G.
+De segunda hasta 1,811 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,864 S.M.G.
+De lujo hasta 1,864 UMA
 
-De Primera hasta 1,851 S.M.G
+De primera hasta 1,851 UMA
 
-De segunda hasta 1,838 S.M.G.
+De segunda hasta 1,838 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 2,165 S.M.G.
+De lujo hasta 2,165 UMA
 
-De Primera hasta 2,154 S.M.G.
+De primera hasta 2,154 UMA
 
-De segunda hasta 1,811 S.M.G.
+De segunda hasta 1,811 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,864 S.M.G.
+De lujo hasta 1,864 UMA
 
-De Primera hasta 1,851 S.M.G
+De primera hasta 1,851 UMA
 
-De segunda hasta 1,838 S.M.G.
+De segunda hasta 1,838 UMA
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA COMERCIAL
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-HOTELERA
+ZONA HOTELERA ZONA COMERCIAL
 
-De lujo hasta 2,441 S.M.G. 2, 445 S.M.G.
+De lujo hasta 2,441 UMA 2, 445 UMA
 
-De primera hasta 2,428 S.M.G. 2,441 S.M.G.
+De primera hasta 2,428 UMA 2,441 UMA
 
-De segunda hasta 2,415 S.M.G. 1, 837 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+De segunda hasta 2,415 UMA 1, 837 UMA
 
 > <small>(REFORMADA PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -4781,405 +4579,465 @@ X.- Por los cambios de municipio de las licencias de bebidas alcohólicas de Oth
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 315 S.M.G.
+De lujo hasta 315 UMA
 
-De Primera hasta 263 S.M.G.
+De primera hasta 263 UMA
 
-De segunda hasta 210 S.M.G.
+De segunda hasta 210 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 211 S.M.G.
+De lujo hasta 211 UMA
 
-De Primera hasta 200 S.M.G
+De primera hasta 200 UMA
 
-De segunda hasta 158 S.M.G.
+De segunda hasta 158 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,535 S.M.G.
+De lujo hasta 1,535 UMA
 
-De Primera hasta 1,524 S.M.G.
+De primera hasta 1,524 UMA
 
-De segunda hasta 1,181 S.M.G.
+De segunda hasta 1,181 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,234 S.M.G.
+De lujo hasta 1,234 UMA
 
-De Primera hasta 1,221 S.M.G
+De primera hasta 1,221 UMA
 
-De segunda hasta 1,208 S.M.G.
+De segunda hasta 1,208 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,156 S.M.G.
+De lujo hasta 1,156 UMA
 
-De Primera hasta 1,102 S.M.G.
+De primera hasta 1,102 UMA
 
-De segunda hasta 945 S.M.G.
+De segunda hasta 945 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 840 S.M.G.
+De lujo hasta 840 UMA
 
-De Primera hasta 788 S.M.G
+De primera hasta 788 UMA
 
-De segunda hasta 735 S.M.G.
+De segunda hasta 735 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,207 S.M.G.
+De lujo hasta 1,207 UMA
 
-De Primera hasta 1,156 S.M.G.
+De primera hasta 1,156 UMA
 
-De segunda hasta 1,102 S.M.G.
+De segunda hasta 1,102 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,102 S.M.G.
+De lujo hasta 1,102 UMA
 
-De Primera hasta 946 S.M.G
+De primera hasta 946 UMA
 
-De segunda hasta 787 S.M.G.
+De segunda hasta 787 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA HOTELERA
 
-De lujo hasta 1,837 S.M.G.
+De lujo hasta 1,837 UMA
 
-De Primera hasta 1,825 S.M.G.
+De primera hasta 1,825 UMA
 
-De segunda hasta 1,811 S.M.G.
+De segunda hasta 1,811 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,811 S.M.G.
+De lujo hasta 1,811 UMA
 
-De Primera hasta 1,798 S.M.G
+De primera hasta 1,798 UMA
 
-De segunda hasta 1,785 S.M.G.
+De segunda hasta 1,785 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 314 S.M.G.
+De lujo hasta 314 UMA
 
-De Primera hasta 236 S.M.G.
+De primera hasta 236 UMA
 
-De segunda hasta 222 S.M.G.
+De segunda hasta 222 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 314 S.M.G.
+De lujo hasta 314 UMA
 
-De Primera hasta 275 S.M.G
+De primera hasta 275 UMA
 
-De segunda hasta 263 S.M.G.
+De segunda hasta 263 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 g).- Venta de vinos y licores en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,156 S.M.G.
+De lujo hasta 1,156 UMA
 
-De Primera hasta 1,102 S.M.G.
+De primera hasta 1,102 UMA
 
-De segunda hasta 945 S.M.G.
+De segunda hasta 945 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 840 S.M.G.
+De lujo hasta 840 UMA
 
-De Primera hasta 788 S.M.G
+De primera hasta 788 UMA
 
-De segunda hasta 735 S.M.G.
+De segunda hasta 735 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,535 S.M.G.
+De lujo hasta 1,535 UMA
 
-De Primera hasta 1,524 S.M.G.
+De primera hasta 1,524 UMA
 
-De segunda hasta 1,181 S.M.G.
+De segunda hasta 1,181 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,234 S.M.G.
+De lujo hasta 1,234 UMA
 
-De Primera hasta 1,221 S.M.G
+De primera hasta 1,221 UMA
 
-De segunda hasta 1,208 S.M.G.
+De segunda hasta 1,208 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,535 S.M.G.
+De lujo hasta 1,535 UMA
 
-De Primera hasta 1,524 S.M.G.
+De primera hasta 1,524 UMA
 
-De segunda hasta 1,181 S.M.G.
+De segunda hasta 1,181 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,234 S.M.G.
+De lujo hasta 1,234 UMA
 
-De Primera hasta 1,221 S.M.G
+De primera hasta 1,221 UMA
 
-De segunda hasta 1,208 S.M.G.
+De segunda hasta 1,208 UMA
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-ZONA ZONA
+ZONA HOTELERA ZONA COMERCIAL
 
-HOTELERA COMERCIAL
+De lujo hasta 1,837 UMA 1,811 UMA
 
-De lujo hasta 1,837 S.M.G. 1,811 S.M.G.
+De primera hasta 1,825 UMA 1,798 UMA
 
-De primera hasta 1,825 S.M.G. 1,798 S.M.G.
+De segunda hasta 1,811 UMA 1,785 UMA
 
-De segunda hasta 1,811 S.M.G. 1,785 S.M.G.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-XI.- Por los cambios de municipio de las licencias de bebidas alcohólicas de José Ma. Morelos y Lázaro Cárdenas a Benito Juárez, Solidaridad, Cozumel y Tulum, para la:
+XI.- Por los cambios de municipio de las licencias de bebidas alcohólicas de José Ma. Morelos y Lázaro Cárdenas a Benito Juárez, Puerto Morelos, Solidaridad, Cozumel y Tulum, para la:
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,574 S.M.G.
+De lujo hasta 1,574 UMA
 
-De Primera hasta 1,392 S.M.G.
+De primera hasta 1,392 UMA
 
-De segunda hasta 1,386 S.M.G.
+De segunda hasta 1,386 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,260 S.M.G.
+De lujo hasta 1,260 UMA
 
-De Primera hasta 1,072 S.M.G
+De primera hasta 1,072 UMA
 
-De segunda hasta 882 S.M.G.
+De segunda hasta 882 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 2,206 S.M.G.
+De lujo hasta 2,206 UMA
 
-De Primera hasta 2,204 S.M.G.
+De primera hasta 2,204 UMA
 
-De segunda hasta 2,204 S.M.G.
+De segunda hasta 2,204 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 2,204 S.M.G.
+De lujo hasta 2,204 UMA
 
-De Primera hasta 2,080 S.M.G
+De primera hasta 2,080 UMA
 
-De segunda hasta 1,890 S.M.G.
+De segunda hasta 1,890 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,890 S.M.G.
+De lujo hasta 1,890 UMA
 
-De Primera hasta 1,890 S.M.G.
+De primera hasta 1,890 UMA
 
-De segunda hasta 1,837 S.M.G.
+De segunda hasta 1,837 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,890 S.M.G.
+De lujo hasta 1,890 UMA
 
-De Primera hasta 1,890 S.M.G
+De primera hasta 1,890 UMA
 
-De segunda hasta 1,828 S.M.G.
+De segunda hasta 1,828 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,890 S.M.G.
+De lujo hasta 1,890 UMA
 
-De Primera hasta 1,764 S.M.G.
+De primera hasta 1,764 UMA
 
-De segunda hasta 1,702 S.M.G.
+De segunda hasta 1,702 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,764 S.M.G.
+De lujo hasta 1,764 UMA
 
-De Primera hasta 1,702 S.M.G
+De primera hasta 1,702 UMA
 
-De segunda hasta 1,512 S.M.G.
+De segunda hasta 1,512 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 3,150 S.M.G.
+De lujo hasta 3,150 UMA
 
-De Primera hasta 2,836 S.M.G.
+De primera hasta 2,836 UMA
 
-De segunda hasta 2,520 S.M.G.
+De segunda hasta 2,520 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 3,150 S.M.G.
+De lujo hasta 3,150 UMA
 
-De Primera hasta 2,962 S.M.G
+De primera hasta 2,962 UMA
 
-De segunda hasta 2,834 S.M.G.
+De segunda hasta 2,834 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 2,330 S.M.G.
+De lujo hasta 2,330 UMA
 
-De Primera hasta 2,2064 S.M.G.
+De primera hasta 2,206 UMA
 
-De segunda hasta 2,016 S.M.G.
+De segunda hasta 2,016 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,764 S.M.G.
+De lujo hasta 1,764 UMA
 
-De Primera hasta 1,576 S.M.G
+De primera hasta 1,576 UMA
 
-De segunda hasta 1,512 S.M.G.
+De segunda hasta 1,512 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 g).- Venta de vinos y licores en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,890 S.M.G.
+De lujo hasta 1,890 UMA
 
-De Primera hasta 1,890 S.M.G.
+De primera hasta 1,890 UMA
 
-De segunda hasta 1,837 S.M.G.
+De segunda hasta 1,837 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,890 S.M.G.
+De lujo hasta 1,890 UMA
 
-De Primera hasta 1,890 S.M.G
+De primera hasta 1,890 UMA
 
-De segunda hasta 1,828 S.M.G.
+De segunda hasta 1,828 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 2,206 S.M.G.
+De lujo hasta 2,206 UMA
 
-De Primera hasta 2,204 S.M.G.
+De primera hasta 2,204 UMA
 
-De segunda hasta 2,204 S.M.G.
+De segunda hasta 2,204 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 2,204 S.M.G.
+De lujo hasta 2,204 UMA
 
-De Primera hasta 2,080 S.M.G
+De primera hasta 2,080 UMA
 
-De segunda hasta 1,8908 S.M.G.
+De segunda hasta 1,890 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 i).- Venta de cervezas en envase cerrado para distribución al mayoreo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 2,206 S.M.G.
+De lujo hasta 2,206 UMA
 
-De Primera hasta 2,204 S.M.G.
+De primera hasta 2,204 UMA
 
-De segunda hasta 2,204 S.M.G.
+De segunda hasta 2,204 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 2,204 S.M.G.
+De lujo hasta 2,204 UMA
 
-De Primera hasta 2,080 S.M.G
+De primera hasta 2,080 UMA
 
-De segunda hasta 1,890 S.M.G.
+De segunda hasta 1,890 UMA
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-ZONA ZONA COMERCIAL
+ZONA HOTELERA ZONA COMERCIAL
 
-HOTELERA
+De lujo hasta 3,150 UMA 3,150 UMA
 
-De lujo hasta 3,150 S.M.G. 3,150 S.M.G.
+De primera hasta 2,962 UMA 2,836 UMA
 
-De primera hasta 2,962 S.M.G. 2,836 S.M.G.
-
-De segunda hasta 2,834 S.M.G. 2,520 S.M.G.
+De segunda hasta 2,834 UMA 2,520 UMA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -5189,217 +5047,235 @@ XII.- Por los cambios de municipio de las licencias de bebidas alcohólicas de J
 
 a).- Venta de cervezas en envase abierto, exclusivamente con alimentos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA HOTELERA
 
-De lujo hasta 316 S.M.G.
+De lujo hasta 316 UMA
 
-De Primera hasta 316 S.M.G.
+De primera hasta 316 UMA
 
-De segunda hasta 126 S.M.G.
+De segunda hasta 126 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 316 S.M.G.
+De lujo hasta 316 UMA
 
-De Primera hasta 314 S.M.G
+De primera hasta 314 UMA
 
-De segunda hasta 126 S.M.G.
+De segunda hasta 126 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 b).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo, exclusivamente con los alimentos.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,576 S.M.G.
+De lujo hasta 1,576 UMA
 
-De Primera hasta 1,574 S.M.G.
+De primera hasta 1,574 UMA
 
-De segunda hasta 1,574 S.M.G.
+De segunda hasta 1,574 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,574 S.M.G.
+De lujo hasta 1,574 UMA
 
-De Primera hasta 1,450 S.M.G
+De primera hasta 1,450 UMA
 
-De segunda hasta 1,260 S.M.G.
+De segunda hasta 1,260 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 c).- Venta de cervezas, vinos y licores en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,260 S.M.G.
+De lujo hasta 1,260 UMA
 
-De Primera hasta 1,260 S.M.G.
+De primera hasta 1,260 UMA
 
-De segunda hasta 1,207 S.M.G.
+De segunda hasta 1,207 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 946 S.M.G.
+De lujo hasta 946 UMA
 
-De Primera hasta 944 S.M.G
+De primera hasta 944 UMA
 
-De segunda hasta 882 S.M.G.
+De segunda hasta 882 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 d).- Venta de cervezas en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,574 S.M.G.
+De lujo hasta 1,574 UMA
 
-De Primera hasta 1,450 S.M.G.
+De primera hasta 1,450 UMA
 
-De segunda hasta 1,386 S.M.G.
+De segunda hasta 1,386 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,134 S.M.G.
+De lujo hasta 1,134 UMA
 
-De Primera hasta 1,0721 S.M.G
+De primera hasta 1,072 UMA
 
-De segunda hasta 882 S.M.G.
+De segunda hasta 882 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 e).- Venta de cervezas en envase abierto, vinos y licores en envase abierto o al copeo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA HOTELERA
 
-De lujo hasta 2,520 S.M.G.
+De lujo hasta 2,520 UMA
 
-De Primera hasta 2,332 S.M.G.
+De primera hasta 2,332 UMA
 
-De segunda hasta 2,204 S.M.G.
+De segunda hasta 2,204 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 2.520 S.M.G.
+De lujo hasta 2,520 UMA
 
-De Primera hasta 2,206 S.M.G
+De primera hasta 2,206 UMA
 
-De segunda hasta 2,204 S.M.G.
+De segunda hasta 2,204 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 f).- Venta de cervezas en envase abierto.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,700 S.M.G.
+De lujo hasta 1,700 UMA
 
-De Primera hasta 1,576 S.M.G.
+De primera hasta 1,576 UMA
 
-De segunda hasta 1,386 S.M.G.
+De segunda hasta 1,386 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,134 S.M.G.
+De lujo hasta 1,134 UMA
 
-De Primera hasta 946 S.M.G
+De primera hasta 946 UMA
 
-De segunda hasta 882 S.M.G.
+De segunda hasta 882 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 g).- Venta de vinos y licores en envase cerrado.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,260 S.M.G.
+De lujo hasta 1,260 UMA
 
-De Primera hasta 1,260 S.M.G.
+De primera hasta 1,260 UMA
 
-De segunda hasta 1,207 S.M.G.
+De segunda hasta 1,207 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 946 S.M.G.
+De lujo hasta 946 UMA
 
-De Primera hasta 944 S.M.G
+De primera hasta 944 UMA
 
-De segunda hasta 882 S.M.G.
+De segunda hasta 882 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 h).- Venta de vinos y licores en envase cerrado para distribución al mayoreo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,576 S.M.G.
+De lujo hasta 1,576 UMA
 
-De Primera hasta 1,574 S.M.G.
+De primera hasta 1,574 UMA
 
-De segunda hasta 1,574 S.M.G.
+De segunda hasta 1,574 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,574 S.M.G.
+De lujo hasta 1,574 UMA
 
-De Primera hasta 1,450 S.M.G
+De primera hasta 1,450 UMA
 
-De segunda hasta 1,260 S.M.G.
+De segunda hasta 1,260 UMA
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
 
 i).- Venta de cerveza en envase cerrado para distribución al mayoreo.
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ZONA HOTELERA
 
-De lujo hasta 1,576 S.M.G.
+De lujo hasta 1,576 UMA
 
-De Primera hasta 1,574 S.M.G.
+De primera hasta 1,574 UMA
 
-De segunda hasta 1,574 S.M.G.
+De segunda hasta 1,574 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ZONA COMERCIAL
 
-De lujo hasta 1,574 S.M.G.
+De lujo hasta 1,574 UMA
 
-De Primera hasta 1,450 S.M.G
+De primera hasta 1,450 UMA
 
-De segunda hasta 1,260 S.M.G.
+De segunda hasta 1,260 UMA
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 j).- Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo.
 
-ZONA ZONA COMERCIAL
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-HOTELERA
+ZONA HOTELERA ZONA COMERCIAL
 
-De lujo hasta 2,520 S.M.G. 2,520 S.M.G.
+De lujo hasta 2,520 UMA 2,520 UMA
 
-De primera hasta 2,206 S.M.G. 2,332 S.M.G.
+De primera hasta 2,206 UMA 2,332 UMA
 
-De segunda hasta 1,890 S.M.G. 2,204 S.M.G.
+De segunda hasta 1,890 UMA 2,204 UMA
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XIII.- El derecho por cambio de giro a otro corresponderá a la diferencia de salados mínimos entre el costo del giro autorizado y el giro al que solicita.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIII.- El derecho por cambio de giro a otro corresponderá a la diferencia de Unidades de Medida y Actualización entre el costo del giro autorizado y el giro al que solicita.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -5407,17 +5283,23 @@ XIII.- El derecho por cambio de giro a otro corresponderá a la diferencia de sa
 
 La Secretaría otorgará de conformidad con lo establecido en el artículo 21 de la Ley Sobre Venta y Consumo de Bebidas Alcohólicas en el Estado de Quintana Roo, permisos especiales y causarán derechos en los siguientes casos:
 
-I.- Cuando se enajenen bebidas alcohólicas en envase cerrado con presentación de artesanía mexicana, denominados SOUVENIRS, cuyo contenido máximo sea hasta 150 mililitros, se cobrará por año de 60 S.M.G. a 240 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II.- Por la realización eventual de alguna actividad pública de carácter artístico, cultural, social o deportivo y en los cuales se realicen la venta y consumo de bebidas alcohólicas, se cobrará por día de 15 S.M.G. a 240 S.M.G.
+I.- Cuando se enajenen bebidas alcohólicas en envase cerrado con presentación de artesanía mexicana, denominados souvenirs, cuyo contenido máximo sea hasta 150 mililitros, se cobrará por año de 60 UMA a 240 UMA.
 
-III.- Cuando se preste el servicio público especializado a que se refiere el artículo 68 de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado de Quintana Roo, y dentro de este servicio otorgue para su venta o consumo bebidas alcohólicas y que por la naturaleza de su actividad comercial, no cuente con licencia de bebidas alcohólicas, se cobrará por año de 50 S.M.G. a 110 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+II.- Por la realización eventual de alguna actividad pública de carácter artístico, cultural, social o deportivo y en los cuales se realicen la venta y consumo de bebidas alcohólicas, se cobrará por día de 15 UMA a 240 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+III.- Cuando se preste el servicio público especializado a que se refiere el artículo 68 de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado de Quintana Roo, y dentro de este servicio otorgue para su venta o consumo bebidas alcohólicas y que por la naturaleza de su actividad comercial, no cuente con licencia de bebidas alcohólicas, se cobrará por año de 50 UMA a 110 UMA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 170-B.
 
-Por la expedición de permisos provisionales, otorgados para la venta de bebidas alcohólicas, en los casos en que el titular de una licencia de bebidas alcohólicas solicite una modificación a la misma y en tanto se le entrega la licencia debidamente modificada, se generará a cargo del solicitante, un derecho equivalente hasta de 110 S.M.G. del valor de la licencia objeto de la solicitud.
+Por la expedición de permisos provisionales, otorgados para la venta de bebidas alcohólicas, en los casos en que el titular de una licencia de bebidas alcohólicas solicite una modificación a la misma y en tanto se le entrega la licencia debidamente modificada, se generará a cargo del solicitante, un derecho equivalente hasta de 110 UMA del valor de la licencia objeto de la solicitud.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -5427,11 +5309,11 @@ Lo mismo es aplicable al solicitante de una licencia de bebidas alcohólicas, un
 
 En caso de prorroga, pagará la parte proporcional que corresponda de acuerdo a lo anteriormente establecido.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 170-C.
 
-Por la transferencia temporal del uso de los derechos y obligaciones de una licencia de bebidas alcohólicas, mediante el contrato de comodato se generará a cargo del comodatario, un derecho equivalente hasta de 150 S.M.G.
+Por la transferencia temporal del uso de los derechos y obligaciones de una licencia de bebidas alcohólicas, mediante el contrato de comodato se generará a cargo del comodatario, un derecho equivalente hasta de 150 UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -5445,13 +5327,9 @@ Por expedición de licencias únicas se cobrará por cada giro o establecimiento
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 170-E.
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -5463,177 +5341,191 @@ TARIFA
 
 I.- Para las licencias de Bebidas Alcohólicas domiciliadas en los municipios de Othón P. Blanco, Bacalar y Felipe Carrillo Puerto, en el giro de:
 
-a) Venta de cervezas exclusivamente con alimentos. De 24 hasta 58 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Venta de cervezas, vinos y licores exclusivamente De 31 hasta 73 S.M.G.
+a) Venta de cervezas exclusivamente con alimentos. De 24 UMA hasta 58 UMA
 
-con los alimentos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-c) Venta de cervezas, vinos y licores en envase De 24 hasta 58 S.M.G.
+b) Venta de cervezas, vinos y licores exclusivamente con los alimentos. De 31 UMA hasta 73 UMA
 
-cerrado.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d) Venta de cervezas en envase cerrado. De 21 hasta 52 S.M.G.
+c) Venta de cervezas, vinos y licores en envase cerrado. De 24 UMA hasta 58 UMA
 
-e) Venta de cervezas, vinos y licores al copeo. De 39 hasta 89 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-f) Venta de cervezas en envase abierto. De 24 hasta 58 S.M.G.
+d) Venta de cervezas en envase cerrado. De 21 UMA hasta 52 UMA
 
-g) Venta de vinos y licores en envase cerrado. De 24 hasta 58 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-h) Venta de vinos y licores en envase cerrado para De 39 hasta 89 S.M.G.
+e) Venta de cervezas, vinos y licores al copeo. De 39 UMA hasta 89 UMA
 
-distribución al mayoreo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-i) Venta de cervezas en envase cerrado para De 39 hasta 89 S.M.G.
+f) Venta de cervezas en envase abierto. De 24 UMA hasta 58 UMA
 
-distribución al mayoreo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-j) Venta de cervezas, vinos y licores en envase De 39 hasta 89 S.M.G.
+g) Venta de vinos y licores en envase cerrado. De 24 UMA hasta 58 UMA
 
-cerrado para distribución al mayoreo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+h) Venta de vinos y licores en envase cerrado para distribución al mayoreo. De 39 UMA hasta 89 UMA
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+i) Venta de cervezas en envase cerrado para distribución al mayoreo. De 39 UMA hasta 89 UMA
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+j) Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo. De 39 UMA hasta 89 UMA
 
 II.- Para las licencias de Bebidas Alcohólicas domiciliadas en los municipios de José María Morelos y Lázaro Cárdenas, en el giro de:
 
-a) Venta de cervezas exclusivamente con alimentos. De 24 hasta 58 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Venta de cervezas, vinos y licores exclusivamente De 26 hasta 53 S.M.G.
+a) Venta de cervezas exclusivamente con alimentos. De 24 UMA hasta 58 UMA
 
-con los alimentos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-c) Venta de cervezas, vinos y licores en envase De 24 hasta 58 S.M.G.
+b) Venta de cervezas, vinos y licores exclusivamente con los alimentos. De 26 UMA hasta 53 UMA
 
-cerrado.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d) Venta de cervezas en envase cerrado. De 19 hasta 48 S.M.G.
+c) Venta de cervezas, vinos y licores en envase cerrado. De 24 UMA hasta 58 UMA
 
-e) Venta de cervezas, vinos y licores al copeo. De 31 hasta 73 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-f) Venta de cervezas en envase abierto. De 21 hasta 52 S.M.G.
+d) Venta de cervezas en envase cerrado. De 19 UMA hasta 48 UMA
 
-g) Venta de vinos y licores en envase cerrado. De 21 hasta 52 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-h) Venta de vinos y licores en envase cerrado para De 31 hasta 73 S.M.G.
+e) Venta de cervezas, vinos y licores al copeo. De 31 UMA hasta 73 UMA
 
-distribución al mayoreo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-i) Venta de cervezas en envase cerrado para De 31 hasta 73 S.M.G.
+f) Venta de cervezas en envase abierto. De 21 UMA hasta 52 UMA
 
-distribución al mayoreo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-j) Venta de cervezas, vinos y licores en envase De 31 hasta 73 S.M.G.
+g) Venta de vinos y licores en envase cerrado. De 21 UMA hasta 52 UMA
 
-cerrado para distribución al mayoreo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+h) Venta de vinos y licores en envase cerrado para distribución al mayoreo. De 31 UMA hasta 73 UMA
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+i) Venta de cervezas en envase cerrado para distribución al mayoreo. De 31 UMA hasta 73 UMA
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+j) Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo. De 31 UMA hasta 73 UMA
 
 III.- Para las licencias de Bebidas Alcohólicas domiciliadas en el municipio de Isla Mujeres en el giro de:
 
-a) Venta de cervezas exclusivamente con De 31 hasta 73 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-alimentos.
+a) Venta de cervezas exclusivamente con alimentos. De 31 UMA hasta 73 UMA
 
-b) Venta de cervezas, vinos y licores De 63 hasta 136 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-exclusivamente con los alimentos.
+b) Venta de cervezas, vinos y licores exclusivamente con los alimentos. De 63 UMA hasta 136 UMA
 
-c) Venta de cervezas, vinos y licores De 39 hasta 89 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-en envase cerrado.
+c) Venta de cervezas, vinos y licores en envase cerrado. De 39 UMA hasta 89 UMA
 
-d) Venta de cervezas en envase De 26 hasta 63 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-cerrado.
+d) Venta de cervezas en envase cerrado. De 26 UMA hasta 63 UMA
 
-e) Venta de cervezas, vinos y licores De 89 hasta 189 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-al copeo.
+e) Venta de cervezas, vinos y licores al copeo. De 89 UMA hasta 189 UMA
 
-f) Venta de cervezas en envase De 39 hasta 89 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-abierto.
+f) Venta de cervezas en envase abierto. De 39 UMA hasta 89 UMA
 
-g) Venta de vinos y licores en De 39 hasta 89 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-envase cerrado.
+g) Venta de vinos y licores en envase cerrado. De 39 UMA hasta 89 UMA
 
-h) Venta de vinos y licores en envase De 89 hasta 189 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-cerrado para distribución al mayoreo.
+h) Venta de vinos y licores en envase cerrado para distribución al mayoreo. De 89 UMA hasta 189 UMA
 
-i) Venta de cervezas en envase cerrado De 89 hasta 189 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-para distribución al mayoreo.
+i) Venta de cervezas en envase cerrado para distribución al mayoreo. De 89 UMA hasta 189 UMA
 
-j) Venta de cervezas, vinos y licores en De 89 hasta 189 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-envase cerrado para distribución al mayoreo.
+j) Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo. De 89 UMA hasta 189 UMA
 
-IV.- Para las licencias de Bebidas Alcohólicas domiciliadas en los municipios de Benito Juárez, Cozumel, Solidaridad y Tulum en el giro de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a) Venta de cervezas exclusivamente De 31 hasta 73 S.M.G.
+IV.- Para las licencias de bebidas alcohólicas domiciliadas en los municipios de Benito Juárez, Puerto Morelos, Cozumel, Solidaridad y Tulum en el giro de:
 
-con alimentos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Venta de cervezas, vinos y licores De 79 hasta 168 S.M.G.
+a) Venta de cervezas exclusivamente con alimentos. De 31 UMA hasta 73 UMA
 
-exclusivamente con los alimentos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-c) Venta de cervezas, vinos y licores De 55 hasta 121 S.M.G.
+b) Venta de cervezas, vinos y licores exclusivamente con los alimentos. De 79 UMA hasta 168 UMA
 
-en envase cerrado.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d) Venta de cervezas en envase De 26 hasta 63 S.M.G.
+c) Venta de cervezas, vinos y licores en envase cerrado. De 55 UMA hasta 121 UMA
 
-cerrado.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-e) Venta de cervezas, vinos y licores De 105 hasta 220 S.M.G.
+d) Venta de cervezas en envase cerrado. De 26 UMA hasta 63 UMA
 
-al copeo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-f) Venta de cervezas en envase De 55 hasta 121 S.M.G.
+e) Venta de cervezas, vinos y licores al copeo. De 105 hasta 220 UMA
 
-abierto.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-g) Venta de vinos y licores en envase De 55 hasta 121 S.M.G.
+f) Venta de cervezas en envase abierto. De 55 UMA hasta 121 UMA
 
-cerrado.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-h) Venta de vinos y licores en envase De 105 hasta 220 S.M.G.
+g) Venta de vinos y licores en envase cerrado. De 55 UMA hasta 121 UMA
 
-cerrado para distribución al mayoreo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-i) Venta de cervezas en envase cerrado De 105 hasta 220 S.M.G.
+h) Venta de vinos y licores en envase cerrado para distribución al mayoreo. De 105 UMA hasta 220 UMA
 
-para distribución al mayoreo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-j) Venta de cervezas, vinos y licores en De 105 hasta 220 S.M.G.
+i) Venta de cervezas en envase cerrado para distribución al mayoreo. De 105 UMA hasta 220 UMA
 
-envase cerrado para distribución al mayoreo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+j) Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo. De 105 UMA hasta 220 UMA
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 170-G.
 
-Por la renovación de la Licencia de Bebidas Alcohólicas en cualquiera de sus giros, se cobrara 40 veces el S.M.G.
+Por la renovación de la licencia de bebidas alcohólicas en cualquiera de sus giros, se cobrará 40 veces la UMA.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 170-H.
 
-Por la reposición de la Licencia de Bebidas Alcohólicas en cualquiera de sus giros, se cobrara 53 veces el S.M.G.
+Por la reposición de la licencia de bebidas alcohólicas en cualquiera de sus giros, se cobrará 53 veces la UMA.
 
 ### CAPITULO III. EXPEDICION DE LICENCIAS DE FUNCIONAMIENTO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 171.
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
@@ -5695,197 +5587,197 @@ Por la expedición de las licencias de funcionamiento se causará anualmente un 
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-I.- Academia de baile, hasta 6 S.M.G.
+I. ACADEMIA DE BAILE, hasta 6 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II.- Academia de corte y confección, hasta 6 S.M.G.
+II. ACADEMIA DE CORTE Y CONFECCIÓN, hasta 6 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-III. Ä (sic) Agencias de guías turísticas, hasta 53 S.M.G.
+III. AGENCIAS DE GUÍAS TURÍSTICAS, Hasta 53 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IV.- Academia de idiomas, hasta 6 S.M.G.
+IV. ACADEMIAS DE IDIOMAS, Hasta 6 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-V.- Academia de karate, judo etc., hasta 6 S.M.G.
+V. ACADEMIA DE KARATE, JUDO ETC., Hasta 6 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VI.- Academia de música, hasta 8 S.M.G.
+VI. ACADEMIA DE MÚSICA, Hasta 8 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VII.- Agencias aduanales, hasta 53 S.M.G.
+VII. AGENCIAS ADUANALES, Hasta 53 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Agencias que renten bicicletas, por unidad, hasta 3 S.M.G.
+VIII. AGENCIAS QUE RENTEN BICICLETAS POR UNIDAD, Hasta 3 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IX.- Agencias que renten calandrias, hasta 6 S.M.G.
+IX. AGENCIAS QUE RENTEN CALANDRIAS, Hasta 6 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-X.- Agencias de cervezas, hasta 53 S.M.G.
+X. AGENCIAS DE CERVEZAS, Hasta 53 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XI.- Agencias que renten automóviles, por unidad, hasta 14 S.M.G.
+XI. AGENCIAS QUE RENTEN AUTOMÓVILES POR UNIDAD, Hasta 14 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XII.- Agencias que renten lanchas deportivas y barcos, por unidad, hasta 14 S.M.G.
+XII. AGENCIAS QUE RENTEN LANCHAS DEPORTIVAS Y BARCOS POR UNIDAD, Hasta 14 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XIII.- Agencias que renten motocicletas, por unidad, hasta 3 S.M.G.
+XIII. AGENCIAS QUE RENTEN MOTOCICLETAS POR UNIDAD, Hasta 3 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XIV.- Agencias de lotería nacional, hasta 11 S.M.G.
+XIV. AGENCIAS DE LOTERÍA NACIONAL, Hasta 11 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XV.- Agencias de gas domésticos (sic) o industrial, excepto anhídrido carbónico, hasta 11 S.M.G.
+XV. AGENCIAS FUNERARIAS, Hasta 11 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XVI.- Agencias funerarias, hasta 11 S.M.G.
+XVI. AGENCIAS DE GAS DOMÉSTICO O INDUSTRIAL EXCEPTO DE ANHÍDRIDO CARBÓNICO, Hasta 11 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XVII.- Agencias de vehículos, hasta 11 S.M.G.
+XVII. AGENCIAS DE VEHÍCULOS, Hasta 11 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XVIII.- Agencias de viajes, hasta 53 S.M.G.
+XVIII. AGENCIAS DE VIAJES, Hasta 53 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XIX.- Agencias de pronósticos deportivos, hasta 11 S.M.G.
+XIX. AGENCIAS DE PRONÓSTICOS DEPORTIVOS, Hasta 11 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XX.- Artesanías, hasta 11 S.M.G.
+XX. ARTESANÍAS, Hasta 11 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXI.- Artículos eléctricos y novedades, hasta 16 S.M.G.
+XXI. ARTÍCULOS ELÉCTRICOS Y NOVEDADES, Hasta 16 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXII.- Academia comercial, hasta 11 S.M.G.
+XXII. ACADEMIA COMERCIAL, Hasta 11 UMA
 
-XXIII.- (DEROGADA P.O. 29 DE DICIEMBRE DE 1995)
+XXIII. (DEROGADA P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXIV.- Bodegas, hasta 8 S.M.G.
+XXIV. BODEGAS, Hasta 8 UMA
 
-XXV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+XXV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-XXVI.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+XXVI. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXVII.- Bienes raíces, hasta 11 S.M.G.
+XXVII. BIENES RAÍCES; Hasta 11 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXVIII.- Bonetería, mercería y novedades, hasta 6 S.M.G.
+XXVIII. BONETERÍA, MERCERÍA Y NOVEDADES, Hasta 6 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXIX.- Billares, hasta 8 S.M.G.
+XXIX. BILLARES, Hasta 8 UMA
 
-XXX.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+XXX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXXI.- Constructoras, hasta 53 S.M.G.
+XXXI. CONSTRUCTORAS, Hasta 53 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXXII.- Cocinas económicas sin venta de bebidas alcohólicas, hasta 27 S.M.G.
+XXXII. COCINAS ECONÓMICAS SIN VENTA DE BEBIDAS ALCOHÓLICAS, Hasta 27 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXXIII.- Congeladoras y empacadoras, hasta 27 S.M.G.
+XXXIII. CONGELADORAS Y EMPACADORAS, Hasta 27 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXXIV.- Carpinterías, hasta 27 S.M.G.
+XXXIV. CARPINTERÍAS, Hasta 27 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXXV.- Clínicas y laboratorios de análisis químicos, hasta 27 S.M.G.
+XXXV. CLINICAS Y LABORATORIOS DE ANÁLISIS CLINICOS, Hasta 27 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXXVI.- Casa de huéspedes, hasta 6 S.M.G.
+XXXVI. CASA DE HUESPEDES, Hasta 6 UMA
 
-XXXVII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+XXXVII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXXVIII.- Carnicería, hasta 11 S.M.G.
+XXXVIII. CARNICERÍA, Hasta 11 UMA
 
-XXXIX.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+XXXIX. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XL.- Cines y teatros, hasta 27 S.M.G.
+XL. CINES Y TEATROS, Hasta 27 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XLI.- Cafetería, hasta 8 S.M.G.
+XLI. CAFETERÍA, Hasta 8 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XLII.- Estación de servicios (gasolinerías), hasta 53 S.M.G.
+XLII. ESTACIÓN DE SERVICIOS (GASOLINERIA), Hasta 53 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XLIII.- Estanquillos de revistas, periódicos, etc., hasta 6 S.M.G.
+XLIII. ESTANQUILLOS DE REVISTAS, PERIÓDICOS, ETC., Hasta 6 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XLIV.- Estudios fotográficos, hasta 8 S.M.G.
+XLIV. ESTUDIOS FOTOGRÁFICOS, Hasta 8 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XLV.- Fabricación y venta de puertas, canceles etc. de aluminio, hasta16 S.M.G.
+XLV. FABRICACIÓN Y VENTA DE PUERTAS, CANCELES, ETC. DE ALUMINIO, Hasta 16 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XLVI.- Fabricación de muebles, hasta 27 S.M.G.
+XLVI. FÁBRICA DE MUEBLES, Hasta 27 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XLVII.- Fábrica de bloques y mosaicos, hasta 27 S.M.G.
+XLVII. FÁBRICA DE BLOQUES Y MOSAICOS, Hasta 27 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XLVIII.- Florerías, hasta 11 S.M.G.
+XLVIII. FLORERÍAS, Hasta 11 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XLIX.- Farmacias y boticas, hasta 11 S.M.G.
+XLIX. FARMACIAS Y BOTICAS, Hasta 11 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-L.- Ferreterías, hasta 16 S.M.G.
+L. FERRETERÍAS, Hasta 16 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LI.- Fábricas de hielo, hasta 16 S.M.G.
+LI. FÁBRICA DE HIELO, Hasta 16 UMA
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -5897,251 +5789,249 @@ Sobre el monto total del presupuesto de obras de urbanización por ejecutar en e
 
 El fraccionamiento de terreno, cuando sea destinado a la vivienda de interés social y popular se cobrará el 1%, en los mismos términos del párrafo anterior.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LIII.- Fábricas de aguas purificadas no gaseosas, hasta 14 S.M.G.
+LIII. FÁBRICAS DE AGUAS PURIFICADAS NO GASEOSAS, Hasta 14 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LIV.-HOTELES:
+LIV. HOTELES;
 
-a).- De lujo, hasta 105 S.M.G.
+a) De lujo, Hasta 105 UMA.
 
-b).- De primera clase, hasta 79 S.M.G.
+b) De primera clase, Hasta 79 UMA.
 
-c).- De segunda clase, hasta 53 S.M.G.
+c) De segunda clase, Hasta 53 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LV.- Imprentas, hasta 16 S.M.G.
+LV. IMPRENTAS, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LVI.- Joyerías, hasta 27 S.M.G.
+LVI. JOYERIAS, Hasta 27 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LVII.- Líneas de transporte urbano (por cada unidad), hasta 6 S.M.G.
+LVII. LÍNEAS DE TRANSPORTE URBANO, POR CADA UNIDAD, Hasta 6 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LVIII.- Líneas de transporte foráneo, hasta 16 S.M.G.
+LVIII. LÍNEAS DE TRANSPORTE FORANEO, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LIX.- Líneas de transporte aéreo, hasta 53 S.M.G.
+LIX. LÍNEAS DE TRANSPORTE AÉREO, Hasta 53 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LX.- Librerías, papelerías y artículos escolares, hasta 11 S.M.G.
+LX. LIBRERÍAS, PAPELERÍAS Y ARTÍCULOS ESCOLARES, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXI.- Molinos para granos, hasta 27 S.M.G.
+LXI. MOLINOS PARA GRANOS: Hasta 27 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXII.- Madererías, hasta 16 S.M.G.
+LXII. MADERERÍAS, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXIII.- Mueblerías y artículos para el hogar, hasta 27 S.M.G.
+LXIII. MUEBLERÍAS Y ARTÍCULOS PARA EL HOGAR, Hasta 27 UMA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXIV.- Opticas, hasta 16 S.M.G.
+LXIV. ÓPTICAS, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXV.- Pescaderías, hasta 16 S.M.G.
+LXV. PESCADERÍAS, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXVI.- Paleterías y neverías, hasta 16 S.M.G.
+LXVI. PALETERÍAS Y NEVERÍAS, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXVII.- Perfumes y cosméticos, hasta 27 S.M.G.
+LXVII. PERFUMES Y COSMÉTICOS, Hasta 27 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXVIII.- Pollerías, hasta 11 S.M.G.
+LXVIII. POLLERIAS, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXIX.- Renta de equipos de buceo y pesca, hasta 27 S.M.G.
+LXIX. RENTA DE EQUIPO DE BUCEO Y PESCA, Hasta 27 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXX.- Restaurantes sin venta de bebidas alcohólicas
+LXX. RESTAURANTES, sin venta de bebidas alcohólicas.
 
-a).- De lujo, hasta 53 S.M.G.
+a) De lujo, Hasta 53 UMA.
 
-b).- De primera clase, hasta 37 S.M.G.
+b) De primera clase, Hasta 37 UMA.
 
-c).- Cenadurías, hasta 21 S.M.G.
+c) Cenadurías, Hasta 21 UMA.
 
-d).- Fondas, hasta 11 S.M G.
+d) Fondas, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXI.- Refaccionaría, hasta 16 S.M.G.
+LXXI. REFACCIONARIA, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXII.- Rosticería, hasta 11 S.M.G.
+LXXII. ROSTICERÍA, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXIII.- Rentadora de vajillas, mesas, sillas etc., hasta 27 S.M.G.
+LXXIII. RENTADORA DE VAJILLAS, MESAS, SILLAS ETC., Hasta 27 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXIV.- Refresquería y nevería, hasta 16 S.M.G.
+LXXIV. REFRESQUERÍA Y NEVERÍA, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXV.- Salones de belleza y peluquería, hasta 16 S.M.G.
+LXXV. SALONES DE BELLEZA Y PELUQUERÍAS, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXVI.- Sastrerías, hasta 16 S.M.G.
+LXXVI. SASTRERÍAS, Hasta 16 UMA.
 
-LXXVII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+LXXVII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXVIII.- Sala de estética y belleza, hasta 27 S.M.G.
+LXXVIII. SALA DE ESTÉTICA Y BELLEZA, Hasta 27 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXIX.- Servicio de lavado y engrasado, hasta 16 S.M.G.
+LXXIX. SERVICIO DE LAVADO Y ENGRASADO, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXX.- Taller de herrería, hasta 16 S.M.G.
+LXXX. TALLER DE HERRERÍA, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXXI.- Tortillería, hasta 11 S.M.G.
+LXXXI. TORTILLERÍA, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXXII.- Tienda de abarrotes sin venta de bebidas alcohólicas, hasta 11 S.M.G.
+LXXXII. TIENDA DE ABARROTES SIN VENTA DE BEBIDAS ALCOHÓLICAS, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXXIII.- Taller de electricidad y electrónicos, hasta 16 S.M.G.
+LXXXIII. TALLER DE ELECTRICIDAD Y ELECTRÓNICOS, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXXIV.- Taller mecánico, hasta 16 S.M.G.
+LXXXIV. TALLER MECÁNICO, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXXV.- Transportes de materiales de construcción, hasta 8 S.M.G.
+LXXXV. TRANSPORTES DE MATERIALES DE CONSTRUCCIÓN, POR UNIDAD, Hasta 8 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXXVI.- Taller de reparación de bicicletas y motos, por unidad, hasta 11 S.M.G.
+LXXXVI. TALLER DE REPARACIÓN DE BICICLETAS Y MOTOS; POR UNIDAD, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXXVII.- Taller de reparación de relojes, hasta 11 S.M.G.
+LXXXVII. TALLER DE REPARACIÓN DE RELOJES, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXXVIII.- Taller de refrigeración doméstico y automotriz, hasta 21 S.M.G.
+LXXXVIII. TALLER DE REFRIGERACIÓN, DOMÉSTICO Y AUTOMOTRIZ, Hasta 21 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-LXXXIX.- Taller de costura, hasta 21 S.M.G.
+LXXXIX. TALLER DE COSTURA, Hasta 21 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XC.- Tienda de ropa, telas, artículos eléctricos, artículos para regalos, novedades etc., hasta 16 S.M.G.
+XC. TIENDA DE ROPA, TELAS, ARTÍCULOS ELÉCTRICOS, ARTÍCULOS PARA REGALOS, NOVEDADES, ETC., Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XCI.- Tiendas de artículos de importación, hasta 27 S.M.G.
+XCI. TIENDAS DE ARTÍCULOS DE IMPORTACIÓN, Hasta 27 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XCII.- Taller de hojalatería y pintura, hasta 16 S.M.G.
+XCII. TALLER DE HOJALATERÍA Y PINTURA, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XCIII.- Taller mecánico y automotriz, hasta 16 S.M.G.
+XCIII. TALLER MECÁNICO AUTOMOTRIZ, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XCIV.- Taller de alineación y balanceo, hasta 21 S.M.G.
+XCIV. TALLER DE ALINEACIÓN Y BALANCEO, Hasta 21 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XCV.- Tintorerías y lavanderías, hasta 11 S.M.G.
+XCV. TINTORERIAS Y LAVANDERIAS, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XCVI.- Venta de materiales para construcción, hasta 16 S.M.G.
+XCVI. VENTA DE MATERIALES PARA CONSTRUCCIÓN, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XCVII.- Venta de cortinas, cortineros, tapices, alfombras etc., hasta 16 S.M.G.
+XCVII. VENTA DE CORTINAS, CORTINEROS, TAPICES, ALFOMBRAS ETC., Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XCVIII.- Venta de muebles y equipos para oficina, hasta 21 S.M.G.
+XCVIII. VENTA DE MUEBLES Y EQUIPOS PARA OFICINA, Hasta 21 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XCIX.- Venta de artículos de plástico, hasta 11 S.M.G.
+XCIX. VENTA DE ARTÍCULOS DE PLÁSTICO, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-C.- Venta de seguros, hasta 11 S.M.G.
+C. VENTA DE SEGUROS, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-CI.- Venta de artículos deportivos, hasta 27 S.M.G.
+CI. VENTA DE ARTÍCULOS DEPORTIVOS, Hasta 27 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-CII.- Venta de frutas y verduras, hasta 11 S.M.G.
+CII. VENTA DE FRUTAS Y VERDURAS, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-CIII.- Venta de jugos y licuados, hasta 11 S.M.G.
+CIII. VENTA DE JUGOS Y LICUADOS, Hasta 11 UMA.
 
-CIV.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+CIV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-CV.- Venta de discos, cartuchos, cassettes etc., hasta 16 S.M.G.
+CV. VENTA DE DISCOS, CARTUCHOS, CASSETTES ETC., Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-CVI.- Vulcanizadoras, hasta 11 S.M.G.
+CVI. VULCANIZADORAS, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-CVII.- Zapaterías, hasta 11 S.M.G.
+CVII. ZAPATERÍAS, Hasta 11 UMA.
 
-CVIII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
+CVIII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-CIX.- Coctelería sin venta de cervezas, hasta 11 S.M.G.
+CIX. COCTELERÍA SIN VENTA DE CERVEZAS, Hasta 11 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-CX.- Rentadoras de películas de videos, hasta 16 S.M.G.
+CX. RENTADORAS DE PELÍCULAS DE VIDEOS, Hasta 16 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-CXI.- Los giros que no se encuentren especificados en las fracciones que anteceden, serán equiparados por similitud con los mismos; en el supuesto de que no se encuentre uno semejante se aplicará: hasta 53 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+CXI. Los giros que no se encuentren especificados en las fracciones que anteceden, serán equiparados por similitud con los mismos; en el supuesto de que no se encuentre uno semejante se aplicara hasta 53 UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -6149,229 +6039,145 @@ CXI.- Los giros que no se encuentren especificados en las fracciones que anteced
 
 Los contribuyentes que hayan adquirido licencia de bebidas alcohólicas para la venta o expendio, tendrán la obligación de solicitar, dentro de los dos primeros meses de cada año la licencia de funcionamiento y el refrendo de las mismas, presentando los documentos señalados en el artículo 175 de esta Ley, para lo cual cubrirán un derecho en base a la siguiente:
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2007)</small>
-
 TARIFA
 
-I.- Para los establecimientos ubicados en los Municipios de Othón P. Blanco y Felipe Carrillo Puerto, por la:
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a). Venta de cervezas De 24 hasta 48 S.M.G.
+I.- Para los establecimientos ubicados en los municipios de Othón P. Blanco, Bacalar y Felipe Carrillo Puerto, por la:
 
-exclusivamente con
+a). Venta de cervezas exclusivamente con alimentos. De 24 UMA hasta 48 UMA.
 
-los alimentos.
+b). Venta de cervezas, vinos y licores exclusivamente con los alimentos. De 31 UMA hasta 63 UMA.
 
-b). Venta de cervezas, De 31 hasta 63 S.M.G.
+c). Venta de cervezas, vinos y licores en envase cerrado. De 24 UMA hasta 48 UMA.
 
-vinos y licores exclusivamente
+d). Venta de cervezas en envase cerrado. De 21 UMA hasta 42 UMA.
 
-con los alimentos.
+e). Venta de cervezas, vinos y licores al copeo. De 39 UMA hasta 79 UMA.
 
-c). Venta de cervezas, vinos y De 24 hasta 48 S.M.G.
+f). Venta de cervezas en envase abierto. De 24hasta (sic) 48 UMA.
 
-licores en envase cerrado.
+g). Venta de vinos y licores en envase cerrado. De 24 UMA hasta 48 UMA.
 
-d). Venta de cervezas De 21 hasta 42 S.M.G.
+h). Venta de vinos y licores en envase cerrado para distribución al mayoreo. De 39 UMA hasta 79 UMA.
 
-en envase cerrado.
+i). Venta de cervezas en envase cerrado para distribución al mayoreo. De 39 UMA hasta 79 UMA.
 
-e). Venta de cervezas, vinos y De 39 hasta 79 S.M.G.
-
-licores al copeo.
-
-f). Venta de cervezas en envase De 24 hasta 48 S.M.G.
-
-abierto.
-
-g). Venta de vinos y licores en De 24 hasta 48 S.M.G.
-
-envase cerrado.
-
-h). Venta de vinos y licores en De 39 hasta 79 S.M.G.
-
-envase cerrado para
-
-distribución al mayoreo.
-
-i). Venta de cervezas en envase De 39 hasta 79 S.M.G.
-
-cerrado para distribución al
-
-mayoreo.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
-
-j). Venta de cervezas, vinos y licores De 39 hasta 79 S.M.G.
-
-en envase cerrado para distribución
-
-al mayoreo
+j). Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo De 39 UMA hasta 79 UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 II. Para los establecimientos domiciliados en los municipios de José María Morelos y Lázaro Cárdenas.
 
-a) Venta de cervezas De 24 hasta 48 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-exclusivamente con los
+a) Venta de cervezas exclusivamente con alimentos. De 24 UMA hasta 48 UMA
 
-alimentos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Venta de cervezas, vinos y De 26 hasta 53 S.M.G.
+b) Venta de cervezas, vinos y licores exclusivamente con los alimentos. De 26 UMA hasta 53 UMA.
 
-licores exclusivamente con los
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-alimentos.
+c) Venta de cervezas, vinos y licores en envase cerrado. De 24 UMA hasta 48 UMA.
 
-c) Venta de cervezas, vinos y De 24 hasta 48 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-licores en envase cerrado.
+d) Venta de cervezas en envase cerrado. De 19 UMA hasta 38 UMA.
 
-d) Venta de cervezas en envase De 19 hasta 38 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-cerrado.
+e) Venta de cervezas, vinos y licores al copeo. De 31 UMA hasta 63 UMA.
 
-e) Venta de cervezas, vinos y De 31 hasta 63 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-licores al copeo.
+f) Venta de cervezas en envase abierto. De 21 UMA hasta 42 UMA.
 
-f) Venta de cervezas en envase De 21 hasta 42 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-abierto en cervecerías.
+g) Venta de vinos y licores en envase cerrado De 21 UMA hasta 42 UMA.
 
-g) Venta de vinos y licores en De 21 hasta 42 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-envase cerrado.
+h) Venta de vinos y licores en envase cerrado para distribución al mayoreo De 31 UMA hasta 63 UMA.
 
-h) Venta de vinos y licores en De 31 hasta 63 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-envase cerrado para
+i) Venta de cervezas en envase cerrado para distribución al mayoreo. De 31 UMA hasta 63 UMA.
 
-distribución al mayoreo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-i) Venta de cervezas en envase De 31 hasta 63 S.M.G.
-
-cerrado para distribución al
-
-mayoreo.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
-
-j) Venta de cervezas, vinos y licores De 31 hasta 63 S.M.G.
-
-en envase cerrado para distribución
-
-al mayoreo
+j) Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo De 31 UMA hasta 63 UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
 III.- Para los establecimientos domiciliados en el municipio de Isla Mujeres, por la:
 
-a) Venta de cervezas exclusivamente De 31 hasta 63 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-con los alimentos.
+a) Venta de cervezas exclusivamente con alimentos. De 31 UMA hasta 63 UMA.
 
-b) Venta de cervezas, vinos y licores De 63 hasta 126 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-exclusivamente con los alimentos.
+b) Venta de cervezas, vinos y licores exclusivamente con los alimentos. De 63 UMA hasta 126 UMA.
 
-c) Venta de cervezas, vinos y licores De 39 hasta 79 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-en envase cerrado.
+c) Venta de cervezas, vinos y licores en envase cerrado. De 39 UMA hasta 79 UMA.
 
-d) Venta de cervezas en envase De 26 hasta 53 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-cerrado.
+d) Venta de cervezas en envase cerrado. De 26 UMA hasta 53 UMA.
 
-e) Venta de cervezas, vinos y licores De 89 hasta 179 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-al copeo.
+e) Venta de cervezas, vinos y licores al copeo. De 89 UMA hasta 179 UMA.
 
-f) Venta de cervezas en envase De 39 hasta 79 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-abierto en cervecerías.
+f) Venta de cervezas en envase abierto. De 39 UMA hasta 79 UMA.
 
-g) Venta de vinos y licores en envase De 39 hasta 79 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-cerrado.
+g) Venta de vinos y licores en envase cerrado. De 39 UMA hasta 79 UMA.
 
-h) Venta de vinos y licores en envase De 89 hasta 179 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-cerrado para distribución al
+h) Venta de vinos y licores en envase cerrado para distribución al mayoreo. De 89 UMA hasta 179 UMA.
 
-mayoreo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-i) Venta de cervezas en envase De 89 hasta 179 S.M.G.
+i) Venta de cervezas en envase cerrado para distribución al mayoreo. De 89 UMA hasta 179 UMA.
 
-cerrado para distribución al
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-mayoreo
+j) Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo De 89 UMA hasta 179 UMA.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-j) Venta de cervezas, vinos y licores De 89 hasta 179 S.M.G.
+IV. Para los establecimientos domiciliados en los municipios de Benito Juárez, Puerto Morelos, Cozumel, Solidaridad y Tulum para la:
 
-en envase cerrado para distribución
+a) Venta de cervezas exclusivamente con alimentos. De 31 UMA hasta 63 UMA.
 
-al mayoreo
+b) Venta de cervezas, vinos y licores exclusivamente con los alimentos. De 79 UMA hasta 158 UMA.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+c) Venta de cervezas, vinos y licores en envase cerrado. De 55 UMA hasta 111 UMA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+d) Venta de cervezas en envase cerrado. De 26 UMA hasta 53 UMA.
 
-IV. Para los establecimientos domiciliados en los Municipios de Benito Juárez, Cozumel, Solidaridad y Tulum para la:
+e) Venta de cervezas, vinos y licores al copeo. De 105 UMA hasta 210 UMA.
 
-a) Venta de cervezas exclusivamente De 31 hasta 63 S.M.G.
+f) Venta de cervezas en envase abierto. De 55 UMA hasta 111 UMA.
 
-con los alimentos.
+g) Venta de vinos y licores en envase cerrado De 55 UMA hasta 111 UMA.
 
-b) Venta de cervezas, vinos y licores De 79 hasta158 S.M.G.
+h) Venta de vinos y licores en envase cerrado para distribución al mayoreo De 105 UMA hasta 210 UMA.
 
-exclusivamente con los alimentos.
+i) Venta de cervezas en envase cerrado para distribución al mayoreo. De 105 UMA hasta 210 UMA.
 
-c) Venta de cervezas, vinos y licores De 55 hasta 111 S.M.G.
-
-en envase cerrado.
-
-d) Venta de cervezas en envase De 26 hasta 53 S.M.G.
-
-cerrado.
-
-e) Venta de cervezas, vinos y licores De 105 hasta 210 S.M.G.
-
-al copeo.
-
-f) Venta de cervezas en envase De 55 hasta 111 S.M.G.
-
-abierto.
-
-g) Venta de vinos y licores en envase De 55 hasta 111 S.M.G.
-
-cerrado.
-
-h) Venta de vinos y licores en envase De 105 hasta 210 S.M.G.
-
-cerrado para distribución al
-
-mayoreo.
-
-i) Venta de cervezas en envase De 105 hasta 210 S.M.G.
-
-cerrado para distribución al
-
-mayoreo.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
-
-j) Venta de cervezas, vinos y licores De 105 hasta 210 S.M.G.
-
-en envase cerrado para distribución
-
-al mayoreo
+j) Venta de cervezas, vinos y licores en envase cerrado para distribución al mayoreo. De 105 UMA hasta 210 UMA.
 
 En el caso de las licencias únicas se cobrará un derecho equivalente a cada giro o establecimiento de conformidad con las tarifas vigentes arriba mencionadas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 174.
 
@@ -6415,67 +6221,89 @@ T A R I F A
 
 I.- Vehículos que se matriculen y registren en el Estado
 
-a) Automóviles y Camiones 2.3 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Motocicletas 1.15 S.M.G.
+a) Automóviles y Camiones 2.3 UMA
 
-c) Bicicletas 0.58 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d) Carros y carretas de tracción animal 0.58 S.M.G.
+b) Motocicletas 1.15 UMA.
 
-e) Carros de mano 0.58 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+c) Bicicletas 0.58 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+d) Carros y carretas de tracción animal 0.58 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e) Carros de mano 0.58 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 f) Remolques:
 
-hasta de 15 toneladas 1.15 S.M.G.
+hasta de 15 toneladas 1.15 UMA.
 
-De más de 15 a 20 toneladas 1.73 S.M.G.
+De más de 15 a 20 toneladas 1.73 UMA.
 
-De más de 20 toneladas 2.88 S.M.G.
+De más de 20 toneladas 2.88 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 g) Embarcaciones particulares:
 
-de 5 a 10 metros 4.30 S.M.G.
+de 5 a 10 metros 4.30 UMA.
 
-De más de 10 metros 5.18 S.M.G.
+De más de 10 metros 5.18 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 h) Embarcaciones para servicio público:
 
-Hasta de 5 metros 15.53 S.M.G.
+Hasta de 5 metros 15.53 UMA.
 
-De más de 5 hasta 10 metros 22.43 S.M.G.
+De más de 5 hasta 10 metros 22.43 UMA.
 
-De más de 10 metros 51.75 S.M.G.
+De más de 10 metros 51.75 UMA.
 
 II.- Derechos por control vehicular por dotación y canje de placas:
 
-a) Para automóviles, camionetas, camiones y autobuses 13.50 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Para remolques 6.25 veces el S.M.G.
+a) Para automóviles, camionetas, camiones y autobuses 13.50 veces la UMA.
 
-c) Para motocicletas 4.50 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+b) Para remolques 6.25 veces la UMA.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d) Para bicicletas de servicio particular 1.15 veces S.M.G. y servicio público 1.7 veces S.M.G.
+c) Para motocicletas 4.50 veces la UMA.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+d) Para bicicletas de servicio particular 1.15 veces la UMA y servicio público 1.7 veces la UMA.
 
-e) Para triciclos de servicio particular 1.15 veces S.M.G. y servicio público 3.45 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-f) Para carros de tracción animal 1.15 veces el S.M.G.
+e) Para triciclos de servicio particular 1.15 veces la UMA y servicio público 3.45 veces la UMA.
 
-g) Para carros de mano 1.15 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-h) Para automóviles utilizados para demostración 17.25 veces S.M.G.
+f) Para carros de tracción animal 1.15 veces la UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+g) Para carros de mano 1.15 veces la UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+h) Para automóviles utilizados para demostración 17.25 la UMA.
 
 Los derechos por dotación de placas a que se refiere esta fracción deberán pagarse dentro de los treinta días hábiles siguientes a la fecha de facturación o a la fecha de la legal introducción al país o pedimento cuando se trate de vehículos usados de importación o inmediatamente previo a la alta correspondiente en el padrón vehicular cuando se trate de vehículos emplacados en otras entidades federativas.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -6483,67 +6311,77 @@ Los derechos por canje de placas deberán pagarse los primeros tres meses de cad
 
 III.- Derechos por control vehicular por revalidación y refrendo:
 
-a) Para los incisos a) y b) de la fracción anterior por el servicio de revalidación de placas vehiculares 3.45 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Para el inciso c) de la fracción anterior por el servicio de revalidación de placas vehiculares para el servicio particular 1.15 veces S.M.G. y para el servicio público 2.00 veces el S.M.G.
+a) Para los incisos a) y b) de la fracción anterior por el servicio de revalidación de placas vehiculares 3.45 veces la UMA.
 
-c) Para el inciso h) de la fracción anterior por su refrendo anual 4.60 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+b) Para el inciso c) de la fracción anterior por el servicio de revalidación de placas vehiculares para el servicio particular 1.15 veces la UMA y para el servicio público 2.00 veces la UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+c) Para el inciso h) de la fracción anterior por su refrendo anual 4.60 veces la UMA.
 
 El plazo del pago de los derechos a que se refiere esta fracción será los primeros tres meses de cada año.
 
 IV.- Por permisos provisionales para circulación de vehículos por:
 
-a) 15 días sin placas, 3.45 veces el S.M.G
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) 30 días sin placas, 6.90 veces el S.M.G.
+a) 15 días sin placas, 3.45 veces la UMA.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+b) 30 días sin placas, 6.90 veces la UMA.
 
-V.- Derechos por control vehicular por la expedición y reposición de la tarjeta de circulación por un año 1.25 veces el S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VI.- Derechos por control vehicular por inscripción y refrendo en el padrón estatal de embarcaciones 3.00 veces el S.M.G.
+V.- Derechos por control vehicular por la expedición y reposición de la tarjeta de circulación por un año 1.25 veces la UMA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+VI.- Derechos por control vehicular por inscripción y refrendo en el padrón estatal de embarcaciones 3.00 veces la UMA.
 
 a) Dos años
 
-1. Licencia de servicio público estatal 4.60 veces el S.M.G.
+1. Licencia de servicio público estatal 4.60 veces el UMA
 
-2. Licencia de chofer 5.75 veces el S.M.G.
+2. Licencia de chofer 5.75 veces el UMA
 
-3. Licencia de automovilista 5.18 veces el S.M.G.
+3. Licencia de automovilista 5.18 veces el UMA
 
-4. Licencia de motociclista 2.30 veces el S.M.G.
+4. Licencia de motociclista 2.30 veces el UMA
 
 b) Tres años
 
-1. Licencia de servicio público estatal 6.90 veces el S.M.G.
+1. Licencia de servicio público estatal 6.90 veces el UMA
 
-2. Licencia de chofer 8.62 veces el S.M.G.
+2. Licencia de chofer 8.62 veces el UMA
 
-3. Licencia de automovilista 7.77 veces el S.M.G.
+3. Licencia de automovilista 7.77 veces el UMA
 
-4. Licencia de motociclista 3.45 veces el S.M.G.
+4. Licencia de motociclista 3.45 veces el UMA
 
 c) Cuatro años
 
 1. Licencia de servicio público estatal 9.20 veces el S.M.G
 
-2. Licencia de chofer 11.49 veces el S.M.G.
+2. Licencia de chofer 11.49 veces el UMA
 
-3. Licencia de automovilista 10.36 veces el S.M.G.
+3. Licencia de automovilista 10.36 veces el UMA
 
-4. Licencia de motociclista 4.6 veces el S.M.G.
+4. Licencia de motociclista 4.6 veces el UMA
 
 d) Cinco años
 
-1. Licencia de servicio público estatal 11.50 veces el S.M.G.
+1. Licencia de servicio público estatal 11.50 veces el UMA
 
-2. Licencia de chofer 14.36 veces el S.M.G.
+2. Licencia de chofer 14.36 veces el UMA
 
-3. Licencia de automovilista 12.95 veces el S.M.G.
+3. Licencia de automovilista 12.95 veces el UMA
 
-4. Licencia de motociclista 5.75 veces el S.M.G.
+4. Licencia de motociclista 5.75 veces el UMA
 
 Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
 
@@ -6553,77 +6391,137 @@ VII.- Por la expedición, renovación y reposición de licencias para conducir v
 
 a) Dos años
 
-1 Licencia de servicio público estatal 4.60 veces el S.M.G
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2 Licencia de chofer 5.75 veces el S.M.G.
+1 Licencia de servicio público estatal 4.60 veces la UMA.
 
-3 Licencia de automovilista 5.18 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4 Licencia de motociclista 2.30 veces el S.M.G.
+2 Licencia de chofer 5.75 veces la UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3 Licencia de automovilista 5.18 veces la UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4 Licencia de motociclista 2.30 veces la UMA.
 
 b) Tres años
 
-1 Licencia de servicio público estatal 6.90 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2 Licencia de chofer 8.62 veces el S.M.G.
+1 Licencia de servicio público estatal 6.90 veces la UMA.
 
-3 Licencia de automovilista 7.77 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4 Licencia de motociclista 3.45 veces el S.M.G.
+2 Licencia de chofer 8.62 veces la UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3 Licencia de automovilista 7.77 veces la UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4 Licencia de motociclista 3.45 veces la UMA.
 
 c) Cuatro años
 
-1 Licencia de servicio público estatal 9.20 veces el S.M.G
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2 Licencia de chofer 11.49 veces el S.M.G.
+1 Licencia de servicio público estatal 9.20 veces la UMA.
 
-3 Licencia de automovilista 10.36 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4 Licencia de motociclista 4.6 veces el S.M.G.
+2 Licencia de chofer 11.49 veces la UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3 Licencia de automovilista 10.36 veces la UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4 Licencia de motociclista 4.6 veces la UMA.
 
 d) Cinco años
 
-1 Licencia de servicio público estatal 11.50 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2 Licencia de chofer 14.36 veces el S.M.G.
+1 Licencia de servicio público estatal 11.50 veces la UMA.
 
-3 Licencia de automovilista 12.95 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4 Licencia de motociclista 5.75 veces el S.M.G.
+2 Licencia de chofer 14.36 veces la UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3 Licencia de automovilista 12.95 veces la UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4 Licencia de motociclista 5.75 veces la UMA.
 
 Tratándose de personas afiliadas al Instituto Nacional para las Personas Adultas Mayores que acrediten su vigencia, gozarán del 50% de descuento en los pagos a que se refiere esta fracción.
 
 VIII.- Permiso provisional para manejar sin licencia por:
 
-a) 30 días 1.15 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) 90 días 3.44 veces el S.M.G.
+a) 30 días 1.15 veces la UMA.
 
-c) 180 días 6.87 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IX.- Por arrastre de grúa 9.57 veces el S.M.G.
+b) 90 días 3.44 veces la UMA.
 
-X.- Por día de estancia en el corralón 0.46 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+c) 180 días 6.87 veces la UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+IX.- Por arrastre de grúa 9.57 veces la UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+X.- Por día de estancia en el corralón 0.46 veces la UMA.
 
 XI.- Permiso para circular con cristales polarizados por 1 año, según su tipo:
 
-a) De un humo para servicio público 5.50 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) De un humo para servicio particular 6.50 veces el S.M.G.
+a) De un humo para servicio público 5.50 veces la UMA.
 
-c) Hasta de tres humos para el servicio oficial 12.09 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XII.- Examen médico y de competencia para la licencia de conducir vehículos de motor 2.10 S.M.G.
+b) De un humo para servicio particular 6.50 veces la UMA.
 
-XIII.- Permisos provisionales para la circulación de camiones de carga en el primer cuadro de la ciudad, por día 1.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XIV.- Por la expedición de constancias de no infracción 1.00 S.M.G.
+c) Hasta de tres humos para el servicio oficial 12.09 veces la UMA.
 
-XV.- Por la inscripción al curso de vialidad del servicio público 1.00 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XVI.- Por examen práctico de conducción 2.00 veces el S.M.G.
+XII.- Examen médico y de competencia para la licencia de conducir vehículos de motor 2.10 veces la UMA.
 
-XVII.- Por el registro y refrendo anual de escuelas de manejo 20.00 veces el S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XIII.- Permisos provisionales para la circulación de camiones de carga en el primer cuadro de la ciudad, por día 1.00 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XIV.- Por la expedición de constancias de no infracción 1.00 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XV.- Por la inscripción al curso de vialidad del servicio público 1.00 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Por examen práctico de conducción 2 veces la UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XVII.- Por el registro y refrendo anual de escuelas de manejo 20.00 veces la UMA.
 
 ###### ARTICULO 177.
 
@@ -6631,235 +6529,429 @@ Por el otorgamiento de concesiones para explotar el servicio público de transpo
 
 TARIFA
 
-I.- Por el otorgamiento para explotar el servicio público de transporte en los municipios de Benito Juárez y Solidaridad:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+I.- Por el otorgamiento para explotar el servicio público de transporte en los municipios de Benito Juárez, Puerto Morelos, Solidaridad y Tulum:
 
 a) Servicio público de pasajeros en general:
 
-1.- Autobuses de 36 asientos en adelante, hasta 3,556 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Minibuses hasta 25 asientos, hasta 2,667 S.M.G.
+1. Autobuses de 36 asientos en adelante, hasta 3,556 UMA.
 
-3.-Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 6,733 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Otros vehículos, hasta 3,112 S.M.G.
+2. Minibuses hasta 25 asientos, hasta 2,667 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 6,733 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Otros vehículos, hasta 3,112 UMA.
 
 b) Servicio público de carga:
 
-1.- Vehículos de carga hasta 1,500 kgs., hasta 1,778 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Vehículos de carga mayor de 1,500 hasta 7,000 kgs., hasta 2,135 S.M.G.
+1. Vehículos de carga hasta 1,500 kgs, hasta 1,778 UMA.
 
-3.- Vehículos de carga mayor de 7,000 kgs., hasta 2,489 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+2. Vehículos de carga mayor de 1,500 hasta 7,000 kgs, hasta 2,135 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Vehículos de carga mayor de 7,000 kgs, hasta 2,489 UMA.
 
 c) Servicio público de renta de toda clase de vehículos:
 
-1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 889 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Arrendadoras de automóviles de 51 unidades en adelante 889 S.M.G., y por cada vehículo excedente de 50, hasta 45 S.M.G.
+1. Arrendadoras de automóviles hasta con 50 unidades, hasta 889 UMA.
 
-3.- Motocicletas, hasta 445 S.M. G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Triciclos y bicicletas, hasta 223 S.M.G.
+2. Arrendadoras de automóviles de 51 unidades en adelante 889 UMA.
 
-5.- otros vehículos, hasta 223 S.M.G.
+Y por cada vehículo excedente de 50 unidades, hasta 45 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Motocicletas, hasta 445 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Triciclos y bicicletas, hasta 223 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+5. otros vehículos, hasta 223 UMA.
 
 d) Servicio público especializado:
 
-1.- Grúa hasta 10,000 kgs., hasta 1,778 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Grúa mayor de 10,000 kgs., hasta 2,667 S.M.G.
+1. Grúa hasta 10,000 kgs, hasta 1,778 UMA.
 
-3.- Vehículos de arrendamiento para transporte de personal, hasta 4,445 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Vehículos para servicio especial de turismo, hasta 1,334 S.M.G.
+2. Grúa mayor de 10,000 kgs, hasta 2,667 UMA.
 
-5.- Vehículos de arrendamiento para transporte escolar, hasta 2,667 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 1,335 S.M.G.
+3. Vehículos de arrendamiento para transporte de personal, hasta 4,445 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Vehículos para servicio especial de turismo, hasta 1,334 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+5. Vehículos de arrendamiento para transporte escolar, hasta 2,667 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 1,335 UMA.
 
 II.- Por el otorgamiento para explotar el servicio público de transporte en el municipio de Cozumel:
 
 a) Servicio público de pasajeros en general:
 
-1.- Autobuses de 36 asientos en adelante, hasta 3,778 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Minibuses hasta 25 asientos, hasta 2,889 S.M.G.
+1. Autobuses de 36 asientos en adelante, hasta 3,778 UMA.
 
-3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 8,977 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Otros vehículos, hasta 3,334 S.M.G.
+2. Minibuses hasta de 25 asientos, hasta 2,889 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 8,977 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Otros vehículos, hasta 3,334 UMA.
 
 b) Servicio público de carga:
 
-1.- Vehículos de carga hasta 1,500 kgs., hasta 2,000 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Vehículos de carga mayor de 1,500 hasta 7,000 kgs., hasta 2,223 S.M.G.
+1. Vehículos de carga hasta 1,500 kgs, hasta 2,000 UMA.
 
-3.- Vehículos de carga mayor de 7,000 kgs., hasta 2,667 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+2. Vehículos de carga mayor de 1,500 hasta 7,000 kgs, hasta 2,223 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Vehículos de carga mayor de 7,000 kgs, hasta 2,667 UMA.
 
 c) Servicio público de renta de toda clase de vehículos:
 
-1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 1,112 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Arrendadoras de automóviles de 51 unidades en adelante, hasta 1,112 S.M.G. y por cada vehículo excedente de 50, hasta 67 S.M.G.
+1. Arrendadora de automóviles hasta con 50 unidades, hasta 1,112 UMA.
 
-3.- Motocicletas, hasta 534 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Triciclos y bicicletas, hasta 312 S.M.G.
+2. Arrendadoras de automóviles de 51 unidades en adelante 1,112 UMA.
 
-5.- Otros vehículos, hasta 312 S.M.G.
+Y por cada vehículo excedente de 50 unidades, hasta 67 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Motocicletas, hasta 534 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Triciclos y bicicletas, hasta 312 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+5. Otros vehículos, hasta 312 UMA.
 
 d) Servicio público especializado:
 
-1.- Grúa hasta 10,000 kgs., hasta 2,000 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Grúa mayor de 10,000 kgs., hasta 2,667 S.M.G.
+1. Grúa hasta 10,000 kgs, hasta 2,000 UMA.
 
-3.- Vehículos de arrendamiento para transporte de personal, hasta 4,889 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.-Vehículos para servicio especial de turismo, hasta 1,556 S.M.G.
+2. Grúa mayor de 10,000 kgs, hasta 2,667 UMA.
 
-5.- Vehículos de arrendamiento para transporte escolar, hasta 2,889 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 1,556 S.M.G
+3. Vehículos de arrendamiento para transporte de personal, hasta 4,889 UMA.
 
-III.- Por el otorgamiento par (sic) explotar el servicio público de transporte en los municipios de Othón P. Blanco e Isla Mujeres:
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Vehículos para servicio especial de turismo, hasta 1,556 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+5. Vehículos de arrendamiento para transporte escolar, hasta 2,889 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 1,556 UMA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+III.- Por el otorgamiento para explotar el servicio público de transporte en los municipios de Othón P. Blanco, Bacalar e Isla Mujeres:
 
 a) Servicio público de pasajeros en general:
 
-1.- Autobuses de 36 asientos en adelante, hasta 2,845 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Minibuses hasta 25 asientos, hasta 2,134 S.M.G.
+1. Autobuses de 36 asientos en adelante, hasta 2,845 UMA.
 
-3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 4,488 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Otros vehículos, hasta 2,489 S.M.G.
+2. Minibuses hasta de 25 asientos, hasta 2,134 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 4,488 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Otros vehículos, hasta 2,489 UMA.
 
 b) Servicio público de carga:
 
-1.- Vehículos de carga hasta 1,500 kgs., hasta 1,423 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Vehículos de carga mayor de 1,500 hasta 7,000 kgs., hasta 1,689 S.M.G.
+1. Vehículos de carga hasta 1,500 kgs, hasta 1,423 UMA.
 
-3.- Vehículos de carga mayor de 7,000 kgs., hasta 2,000 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+2. Vehículos de carga mayor de 1,500 hasta 7,000 kgs, hasta 1,689 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Vehículos de carga mayor de 7,000 kgs, hasta 2,000 UMA.
 
 c) Servicio público de renta de toda clase de vehículos:
 
-1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 712 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Arrendadoras de automóviles de 51 unidades en adelante, 712 S.M.G. y por cada vehículo excedente de 50, hasta 36 S.M.G.
+1. Arrendadora de automóviles hasta con 50 unidades, hasta 712 UMA.
 
-3.- Motocicletas, hasta 356 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Triciclos y bicicletas, hasta 178 S.M.G.
+2. Arrendadoras de automóviles de 51 unidades en adelante, 712 UMA.
 
-5.- Otros vehículos, hasta 178 S.M.G.
+Y por cada vehículo excedente de 50 unidades, hasta 36 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Motocicletas, hasta 356 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Triciclos y bicicletas, hasta 178 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+5. Otros vehículos, hasta 178 UMA.
 
 d) Servicio público especializado:
 
-1.- Grúa hasta 10,000 kgs., hasta 1,423 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Grúa mayor de 10,000 kgs., hasta 2,134 S.M.G.
+1. Grúa hasta 10,000 kgs, hasta 1,423 UMA.
 
-3.- Vehículos de arrendamiento para transporte de personal, hasta 3,551 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Vehículos para servicio especial de turismo, hasta 1,067 S.M.G.
+2. Grúa mayor de 10,000 kgs, hasta 2,134 UMA.
 
-5.- Vehículos de arrendamiento para transporte escolar, hasta 2,134 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 1,067 S.M.G.
+3. Vehículos de arrendamiento para transporte de personal, hasta 3,551 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Vehículos para servicio especial de turismo, hasta 1,067 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+5. Vehículos de arrendamiento para transporte escolar, hasta 2,134 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 1,067 UMA.
 
 IV.- Por el otorgamiento para explotar el servicio público de transporte en los municipios de Felipe Carrillo Puerto y Lázaro Cárdenas:
 
 a) Servicio público de pasajeros en general:
 
-1.- Autobuses de 36 asientos en adelante, hasta 1,778 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Minibuses hasta 25 asientos, hasta 1,334 S.M.G.
+1. Autobuses de 36 asientos en adelante, hasta 1,778 UMA.
 
-3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 2,223 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Otros vehículos, hasta 1,556 S.M.G.
+2. Minibuses hasta 25 asientos, hasta 1,334 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 2,223 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Otros vehículos, hasta 1,556 UMA.
 
 b) Servicio público de carga:
 
-1.- Vehículos de carga hasta 1,500 kgs., hasta 889 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Vehículos de carga mayor de 1,500 hasta 7,000 kgs., hasta 1,067 S.M.G.
+1. Vehículos de carga hasta 1,500 kgs, hasta 889 UMA.
 
-3.- Vehículos de carga mayor de 7,000 kgs., hasta 1,245 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+2. Vehículos de carga mayor de 1,500 hasta 7,000 kgs, hasta 1,067 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Vehículos de carga mayor de 7,000 kgs, hasta 1,245 UMA.
 
 c) Servicio público de renta de toda clase de vehículos:
 
-1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 445 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Arrendadoras de automóviles de 51 unidades en adelante, 445 S.M.G. y por cada vehículo excedente de 50, hasta 23 S.M.G.
+1. Arrendadora de automóviles hasta con 50 unidades, hasta 445 UMA.
 
-3.- Motocicletas, hasta 223 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Triciclos y bicicletas, hasta 112 S.M.G.
+2. Arrendadoras de automóviles de 51 unidades en adelante 445 UMA.
 
-5.- Otros vehículos, hasta 112 S.M.G.
+Y por cada vehículo excedente de 50 unidades, hasta 23 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Motocicletas, hasta 223 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Triciclos y bicicletas, hasta 112 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+5. Otros vehículos, hasta 112 UMA.
 
 d) Servicio público especializados (sic):
 
-1.- Grúa hasta 10,000 kgs, hasta 889 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Grúa mayor de 10,000 kgs, hasta 1,334 S.M.G.
+1. Grúa; hasta 10,000 kgs, hasta 889 UMA.
 
-3.- Vehículos de arrendamiento para transporte de personal, hasta 2,223 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Vehículos para servicio especial de turismo, hasta 667 S.M.G.
+2. Grúa mayor de 10,000 kgs, hasta 1,334 UMA.
 
-5.- Vehículos de arrendamiento para transporte escolar, hasta 1,334 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 667 S.M.G.
+3. Vehículos de arrendamiento para transporte de personal, hasta 2,223 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Vehículos para servicio especial de turismo, hasta 667 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+5. Vehículos de arrendamiento para transporte escolar, hasta 1,334 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 67 UMA.
 
 V.- Por el otorgamiento para explotar el servicio público de transporte en el municipio de José María Morelos:
 
 a) Servicio público de pasajeros en general:
 
-1.- Autobuses de 36 asientos en adelante, hasta 2,134 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Minibuses hasta 25 asientos, hasta 1,600 S.M.G.
+1. Autobuses de 36 asientos en adelante, hasta 2,134 UMA.
 
-3.- Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 2,667 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Otros vehículos, hasta 1,867 S.M.G.
+2. Minibuses hasta de 25 asientos, hasta 1,600 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Automóviles de alquiler tipo taxis (hasta 5 pasajeros), hasta 2,667 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Otros vehículos, hasta 1,867 UMA.
 
 b) Servicio público de carga:
 
-1.- Vehículos de carga hasta 1,500 kgs., hasta 1,067 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Vehículos de carga mayor de 1,500 hasta 7,000 kgs., hasta 1,280 S.M.G.
+1. Vehículos de carga hasta 1,500 kgs, hasta 1,067 UMA.
 
-3.- Vehículos de carga mayor de 7,000 kgs., hasta 1,467 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+2. Vehículos de carga mayor de 1,500 hasta 7,000 kgs, hasta 1,280 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Vehículos de carga mayor de 7,000 kgs, hasta 1,467 UMA.
 
 c) Servicio público de renta de toda clase de vehículos:
 
-1.- Arrendadoras de automóviles hasta con 50 unidades, hasta 534 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Arrendadoras de automóviles de 51 unidades en adelante 534 S.M.G., y por cada vehículo excedente de 50, hasta 27 S.M.G.
+1. Arrendadora de automóviles hasta con 50 unidades, hasta 534 UMA.
 
-3.- Motocicletas, hasta 267 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.-Triciclos y bicicletas, hasta 134 S.M.G.
+2. Arrendadoras de automóviles de 51 unidades en adelante 534 UMA.
 
-5.- Otros vehículos, hasta 134 S.M.G.
+Y por cada vehículo excedente de 50 unidades, hasta 27 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. Motocicletas, hasta 267 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Triciclos y bicicletas, hasta 134 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+5. Otros vehículos, hasta 134 UMA.
 
 d) Servicio público especializado:
 
-1.- Grúa hasta 10,000 kgs., hasta 1,067 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Grúa mayor de 10,000 kgs., hasta 1,600 S.M.G.
+1. Grúa hasta 10,000 kgs, hasta 1,067 UMA.
 
-3.- Vehículos de arrendamiento para transporte de personal, hasta 2,667 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Vehículos para servicio especial de turismo, hasta 800 S.M.G
+2. Grúa mayor de 10,000 kgs, hasta 1,600 UMA.
 
-5.-Vehículos de arrendamiento para transporte escolar, hasta 1,600 S.M.G,
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 800 S.M.G.
+3. Vehículos de arrendamiento para transporte de personal, hasta 2,667 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. Vehículos para servicio especial de turismo, hasta 800 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+5. Vehículos de arrendamiento para transporte escolar, hasta 1,600 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e) Vehículos para otros servicios que requieren otorgamiento de concesión, hasta 800 UMA.
 
 ### CAPITULO V. DE LOS RECARGOS Y SANCIONES
 
@@ -6921,39 +7013,37 @@ TARIFA
 
 I.- Por la subdivisión de predios:
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a).- Cuando resulten dos lotes 5.31 S.M.G.
+a). Cuando resulten dos lotes 4.60 UMA.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- Cuando resulten más de dos lotes, por lote excedente 4.03 S.M.G.
+b). Cuando resulten más de dos lotes, por lote excedente 4.03 UMA.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-c).- Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular causarán el 50% de los derechos a que se refieren los incisos a) y b) de esta fracción. 5.31 S.M.G.
+Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular causará el 50% de los derechos a que se refieren los incisos a) y b) de esta fracción.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II.- Por croquis de localización 6.00 S.M.G.
+II. Por croquis de localización. 6.00 UMA.
 
-III.- Por copias de planos.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+III. Por copias de planos.
 
-a).- Copias heliográficas 2.30 S.M.G.
+a). Copias heliográficas. 2.30 UMA.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+b). Copias maduros. 4.14 UMA.
 
-b).- Copias maduros 4.14 S.M. G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+IV. Por certificados de alineamientos y número oficial, certificados de valor catastral, señalamiento de linderos y constancias de propiedad 2.92 UMA.
 
-IV.- Por certificados de alineamientos y número oficial, certificados de valor catastral, señalamientos de linderos y constancias de propiedad: 2.92 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-V.- Por la expedición de documentos extraviados y número oficial 2.92 S.M.G.
+V. Por la expedición de documentos extraviados y número oficial 2.92 UMA.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -6963,9 +7053,9 @@ a).- Hasta $ 100,000.00, 5% sobre el valor que resulte.
 
 b).- De $ 100,000.01 en adelante 6% sobre el valor que resulte.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-c).- Cuando el avalúo se realice a los bienes inmuebles destinados para la vivienda de interés social y popular. 4.5 S.M.G.
+c).- Cuando el avalúo se realice a los bienes inmuebles destinados para la vivienda de interés social y popular 4.5 UMA.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
 
@@ -6973,35 +7063,45 @@ VII.- Por deslinde y levantamiento topográfico de predios rústicos y urbanos, 
 
 a).- Predios rústicos
 
-1.- Hasta de una hectárea. 60 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- De más de 1 hectárea a 5 hectáreas. 120 S.M.G.
+1. Hasta de una hectárea. 60 UMA.
 
-3.- De más de 5 hectáreas a 10 hectáreas. 180 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- De más de 10 hectáreas a 20 hectáreas. 240 S.M.G.
+2. De más de 1 hectárea a 5 hectáreas. 120 UMA.
 
-5.- De más de 20 hectáreas a 50 hectáreas. 300 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-6.- De más de 50 hectáreas a 100 hectáreas. 400 S.M.G.
+3. De más de 5 hectárea a 10 hectáreas. 180 UMA.
 
-7.- De más de 100 hectáreas, por cada hectárea excedente. 20 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+4. De más de 10 hectárea a 20 hectáreas. 240 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+5. De más de 20 hectárea a 50 hectáreas. 300 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+6. De más de 50 hectárea a 100 hectáreas. 400 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+7. De más de 100 hectáreas, por cada hectárea excedente. 20 UMA.
 
 b).- Predios urbanos
 
 1. Se aplicará la tabla de predios rústicos para el caso de los predios urbanos en el que se ocupen más de un día de trabajo de deslinde.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PUNTO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+2. Certificado (sic) deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Othón P. Blanco, Bacalar, Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas se cobrará 10.00 UMA.
 
-2. Certificado (sic) deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Othón P. Blanco, Bacalar, Felipe Carrillo, José María Morelos y Lázaro Cárdenas se cobrará 10.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PUNTO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-3. Certificado (sic) deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Benito Juárez, Cozumel, Isla Mujeres, Solidaridad y Tulum, se cobrará 40.00 SMG.
+3. Certificado (sic) deslinde de predios urbanos, lotes tipo hasta mil metros cuadrados en los municipios de Benito Juárez, Puerto Morelos, Cozumel, Isla Mujeres, Solidaridad y Tulum, se cobrará 40.00 UMA.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -7011,17 +7111,17 @@ VIII.- Los servicios catastrales no previstos en esta tarifa, pagarán una cuota
 
 IX.- Cuando con motivo de la prestación de los servicios arriba señalados se eroguen gastos adicionales por traslado, alimentación, etc., el solicitante deberá cubrir el costo que al afecto determine el Estado a través de las tablas debidamente publicadas en el Periódico Oficial del Estado, previo a la prestación de los mismos o en su caso antes de la conclusión y/o entrega del documento oficial que sustente los trabajos realizados.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-X.- Constancias de no propiedad. 2.00 S.M.G.
+X.- Constancias de no propiedad. 5.75 UMA.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XI.- Constancias de Registro 5.75 S.M.G.
+XI.- Constancias de Registro 5.75 UMA.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XII.- Trámite de titulación 2.00 S.M.G.
+XII.- Trámite de titulación 2.00 UMA.
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -7039,13 +7139,9 @@ Por la verificación, control y fiscalización que las leyes en la materia encom
 
 Las dependencias y organismos auxiliares de la Administración Pública Estatal al hacer el pago de las estimaciones de obra que le corresponda, retendrán el derecho a que se refiere el párrafo anterior y lo enterarán a la oficina recaudadora autorizada por la Secretaría, quien a su vez registrará el 50% de todo lo recaudado por este concepto a favor de la partida presupuestal de la Secretaría de la Gestión Pública y se aplicará a gastos inherentes a sus operaciones de verificación y control de la Obra Pública en términos de la Ley de Presupuesto, Contabilidad y Gasto Público del Estado. El otro 50% de todo lo recaudado por este concepto será transferido por la Secretaría al Órgano de Fiscalización Superior del Estado para su integración al Fondo para el Fortalecimiento de la Fiscalización Superior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO IX. DE LA CONSTANCIA DE COMPATIBILIDAD URBANISTICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
@@ -7055,47 +7151,81 @@ Por el análisis y calificación de proyectos para la expedición de la constanc
 
 I.- En caso de fraccionamiento de tipo habitacional urbano, habitacional suburbano o rural, turístico, comerciales, industriales, de servicios funerarios, todos en sus diversas modalidades y demás aprovechamientos y usos, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos;
 
-II.- Para el caso de una subdivisión de un predio cuya superficie original sea igual o mayor a los 2,500mt2; se cobrará 12 S.M.G. por fracción resultante;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+II.- Para el caso de una subdivisión de un predio cuya superficie original sea igual o mayor a los 2,500 mt2; se cobrará 12 UMA por fracción resultante;
 
 III.- Para la constitución o modificación del régimen de propiedad en condominio, se cobrarán:
 
-a) 16 S.M.G., en el caso de desarrollos habitacionales de tipo condominal de interés social, por cada unidad privativa;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) 24 S.M.G., en el caso de desarrollos habitacionales tipo medio, por cada unidad privativa;
+a) 16 UMA, en el caso de desarrollos habitacionales de tipo condominal de interés social, por cada unidad privativa;
 
-c) 48 S.M.G., en el caso de desarrollos de tipo residencial, por cada unidad privativa; y
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d) 52 S.M.G. en el caso de desarrollos de tipo comercial, por cada unidad comercial.
+b) 24 UMA, en el caso de desarrollos habitacionales tipo medio, por cada unidad privativa;
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+c) 48 UMA., en el caso de desarrollos de tipo residencial, por cada unidad privativa; y
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+d) 52 UMA en el caso de desarrollos de tipo comercial, por cada unidad comercial.
 
 En todos los casos anteriores, se cobrará el 0.5% sobre el monto total de las obras de urbanización de los desarrollos;
 
-IV.- Para plazas y/o centros comerciales, edificios y/o centros de oficinas, centrales de abastos de cualquier tipo, supermercados y tiendas departamentales, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-V.- Para las centrales camioneras y de carga, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción.
+IV.- Para plazas y/o centros comerciales, edificios y/o centros de oficinas, centrales de abastos de cualquier tipo, supermercados y tiendas departamentales, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
 
-VI.- Para proyectos de industrias de cualquier tipo, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VII.- Para proyectos de clínicas, hospitales y centros médicos, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción,
+V.- Para las centrales camioneras y de carga, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción.
 
-VIII.- Por la modificación, demolición o ampliación de inmuebles del patrimonio cultural, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IX.- El proyecto de vialidades primarias y secundarias, tales como periféricos, libramientos y avenidas de 30 metros o más de anchura, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno;
+VI.- Para proyectos de industrias de cualquier tipo, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción.
 
-X.- La elaboración de proyectos de equipamiento o infraestructura primaria de los centros de población, que por su magnitud e importancia requieran de un análisis y revisión por parte de la administración pública estatal, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XI.- Por relotificación de terrenos, se cobrarán 10 S.M.G., por lote;
+VII.- Para proyectos de clínicas, hospitales y centros médicos, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción.
 
-XII.- Por fusión de terrenos, se cobrarán 12 S.M.G., por lote;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XIII.- Hoteles en todas sus modalidades, de 0.05 S.M.G. hasta 1.50 S.M.G., por metro cuadrado de la superficie de construcción:
+VIII.- Por la modificación, demolición o ampliación de inmuebles del patrimonio cultural, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
 
-XIV.- Estaciones expendedoras de todo tipo de combustibles, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XV.- Bancos de extracción de materiales pétreos, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno; y
+IX.- El proyecto de vialidades primarias y secundarias, tales como periféricos, libramientos y avenidas de 30 metros o más de anchura, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno;
 
-XVI.- Todos aquellos inmuebles cuya superficie de terrenos sea igual o mayor a los 2,500 m2 o cuya superficie de construcción sea igual o mayor a 1,000 m2 , de 0,05 S.M.G. hasta 1.5 S.M.G., por metro cuadrado de la superficie de construcción.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+X.- La elaboración de proyectos de equipamiento o infraestructura primaria de los centros de población, que por su magnitud e importancia requieran de un análisis y revisión por parte de la administración pública estatal, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XI.- Por relotificación de terrenos, se cobrarán 10 UMA, por lote;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XII.- Por fusión de terrenos, se cobrarán 12 UMA, por lote;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XIII.- Hoteles en todas sus modalidades, de 0.05 UMA hasta 1.50 UMA, por metro cuadrado de la superficie de construcción:
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XIV.- Estaciones expendedoras de todo tipo de combustibles, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XV.- Bancos de extracción de materiales pétreos, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno; y
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Todos aquellos inmuebles cuya superficie de terrenos sea igual o mayor a los 2,500 m2 o cuya superficie de construcción sea igual o mayor a 1,000 m2 , de 0,05 UMA hasta 1.5 UMA, por metro cuadrado de la superficie de construcción.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
@@ -7107,65 +7237,93 @@ I.- En caso de fraccionamiento de tipo habitacional urbano, habitacional suburba
 
 II.- Para la constitución o modificación del régimen de propiedad en condominio, se cobrarán:
 
-a) 16 S.M.G., en el caso de desarrollos habitacionales de tipo condominal de interés social, por cada unidad privativa;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) 24 S.M.G., en el caso de desarrollos habitacionales tipo medio, por cada unidad privativa;
+a) 16 UMA, en el caso de desarrollos habitacionales de tipo condominal de interés social, por cada unidad privativa;
 
-c) 48 S.M.G., en el caso de desarrollos de tipo residencial, por cada unidad privativa; y
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d) 52 S.M.G. en el caso de desarrollos de tipo comercial, por cada unidad comercial.
+b) 24 UMA, en el caso de desarrollos habitacionales tipo medio, por cada unidad privativa;
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+c) 48 UMA, en el caso de desarrollos de tipo residencial, por cada unidad privativa; y
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+d) 52 UMA en el caso de desarrollos de tipo comercial, por cada unidad comercial.
 
 En todos los casos anteriores, se cobrará el 0.5% sobre el monto total de las obras de urbanización o de introducción de servicios que falten por ejecutar.
 
-III.- Para plazas y/o centros comerciales, edificios y/o centros de oficinas, centrales de abastos de cualquier tipo, supermercados y tiendas departamentales, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IV.- Para las centrales camioneras y de carga, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+III.- Para plazas y/o centros comerciales, edificios y/o centros de oficinas, centrales de abastos de cualquier tipo, supermercados y tiendas departamentales, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
 
-V.- Para proyectos de industrias de cualquier tipo de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VI.- Para proyectos de clínicas, hospitales y centros médicos, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+IV.- Para las centrales camioneras y de carga, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
 
-VII.- Por la modificación, demolición o ampliación de inmuebles del patrimonio cultural; de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VIII.- El proyecto de vialidades primarias y secundarias, tales como periféricos, libramientos y avenidas de 30 metros o más de anchura, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno;
+V.- Para proyectos de industrias de cualquier tipo de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
 
-IX.- La elaboración de proyectos de equipamiento o infraestructura primaria de los centros de población, que por su magnitud e importancia requieran de un análisis y revisión por parte de la administración pública estatal, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-X.- Por relotificación de terrenos, se cobrarán 10 S.M.G., por lote;
+VI.- Para proyectos de clínicas, hospitales y centros médicos, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
 
-XI.- Por fusión de terrenos, se cobrarán 12 S.M.G., por lote;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XII.- Hoteles en todas sus modalidades, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie de construcción;
+VII.- Por la modificación, demolición o ampliación de inmuebles del patrimonio cultural; de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie de construcción;
 
-XIII.- Estaciones expendedoras de todo tipo de combustibles, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XIV.- Bancos de extracción de materiales pétreos, de 0.05 S.M.G. hasta 1.50 S.M.G. por metro cuadrado de la superficie del terreno; y
+VIII.- El proyecto de vialidades primarias y secundarias, tales como periféricos, libramientos y avenidas de 30 metros o más de anchura, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno;
 
-XV.- Todos aquellos inmuebles cuya superficie de terrenos sea igual o mayor a los 2,500 m2 o cuya superficie de construcción sea igual o mayor a 1,000 m2, de 0.05 S.M.G. hasta 1.50 S.M.G., por metro cuadrado de la superficie de construcción.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IX.- La elaboración de proyectos de equipamiento o infraestructura primaria de los centros de población, que por su magnitud e importancia requieran de un análisis y revisión por parte de la administración pública estatal, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno;
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+X.- Por relotificación de terrenos, se cobrarán 10 UMA, por lote;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XI.- Por fusión de terrenos, se cobrarán 12 UMA, por lote;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XII.- Hoteles en todas sus modalidades, de 0.05 UMA hasta 1.50 UMA, por metro cuadrado de la superficie de construcción;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XIII.- Estaciones expendedoras de todo tipo de combustibles, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XIV.- Bancos de extracción de materiales pétreos, de 0.05 UMA hasta 1.50 UMA por metro cuadrado de la superficie del terreno; y
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XV.- Todos aquellos inmuebles cuya superficie de terrenos sea igual o mayor a los 2,500 m2 o cuya superficie de construcción sea igual o mayor a 1,000 m2, de 0.05 UMA hasta 1.50 UMA, por metro cuadrado de la superficie de construcción.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 182
 
-TER.- Por el análisis y calificación de modificación de proyecto de la constancia de compatibilidad urbanística, se cobrará 40 S.M.G., este derecho será adicional de las unidades privativas que se incrementen.
+TER.- Por el análisis y calificación de modificación de proyecto de la constancia de compatibilidad urbanística, se cobrará 40 UMA, este derecho será adicional de las unidades privativas que se incrementen.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 182
 
-QUATER.- Por reposición de la constancia de compatibilidad urbanística, se cobrará 40 S.M.G.
+QUATER.- Por reposición de la constancia de compatibilidad urbanística, se cobrará 40 UMA.
 
 ### CAPITULO X. HOSPITALES
 
 ###### ARTICULO 183.
 
 Los servicios que se presten en los hospitales de Gobierno del Estado, causaran los derechos de acuerdo con el estudio socio-económico que se le practique al paciente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -7175,19 +7333,17 @@ El pago de los derechos por este concepto, se hará en la caja de los propios ho
 
 La vigilancia del cumplimiento de lo que se indica en este capítulo quedará a cargo de las Recaudadoras de Rentas cuyos encargados podrán efectuar las inspecciones que estimen pertinentes.
 
-(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014) (F. DE E., P.O. 16 DE ENERO DE 2015)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 183
 
-BIS.- Los servicios médicos asistenciales que se otorguen a la población abierta se cobrarán en las unidades administrativas a que se refiere el artículo anterior y causarán los derechos establecidos en pesos mexicanos, salvo los diagnósticos considerados dentro del sistema de protección social en salud, para su población afiliada, de acuerdo a la siguiente:
+BIS.- Los servicios médicos asistenciales que se otorguen a la población abierta se cobrarán en las unidades administrativas a que se refiere el artículo anterior y causarán los derechos establecidos, salvo los diagnósticos considerados dentro del sistema de protección social en salud, para su población afiliada, de acuerdo a la siguiente:
 
-> <small>N. DE E. VÉASE TARIFA EN EL NÚMERO EXTRAORDINARIO DEL P.O. 16 DE DICIEMBRE DE 2014, PÁGINAS 69 A 99.</small>
+> <small>[N. DE E. VÉASE TARIFA EN EL NÚMERO EXTRAORDINARIO DEL P.O. 16 DE DICIEMBRE DE 2014, PÁGINAS 69 A 99.]</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 ### CAPITULO XI. SERVICIOS OTORGADOS POR LAS AUTORIDADES DE SERVICIOS ESTATALES DE SALUD
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
@@ -7197,53 +7353,41 @@ Los servicios que presten, las autoridades de los Servicios Estatales de Salud, 
 
 I.- (DEROGADA, P.O. 20 DE DICIEMBRE DE 2004)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 II.- Por expedición o reposición de certificados médicos para manejadores de alimentos y/o bebidas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+a). En los municipios de Othón P. Blanco y Bacalar 1.83 UMA.
 
-a).- En los municipios de Othón P. Blanco y Bacalar 1.83 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- En los Municipios de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 1.38 S.M.G.
+b). En los municipios de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 1.38 UMA.
 
-c).- en los Municipios de Benito Juárez, Solidaridad, Isla Mujeres, Cozumel y Tulum 2.37 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+c). en los municipios de Benito Juárez, Puerto Morelos, Solidaridad, Isla Mujeres, Cozumel y Tulum 2.37 UMA.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 III.- Análisis de laboratorio:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
 1. Mesofolicos aerobios (enlatados) $ 208.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
 2. Termofilos aerobios (enlatados) $ 208.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
 3. Termofilos anaerobios (enlatados) $ 208.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
 4. Mesofílicos anaerobios (enlatados) $ 208.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
@@ -7251,31 +7395,21 @@ III.- Análisis de laboratorio:
 
 6. Investigación de Shigella sp. $ 925.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
 7. Métodos para la cuenta bacteriana aerobias en placa $ 208.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
 8. Determinación de coniformes totales por el número más probable NMP $ 219.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
 9. Investigación de S. Aureus $ 312.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
 10. Investigación de salmonella sp. $ 371.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
@@ -7289,13 +7423,9 @@ III.- Análisis de laboratorio:
 
 15. Investigación de V. Cholerae (aislamiento del microorganismo y detención de enterotoxinas) $ 575.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
 16. Efectividad de germicidas. $ 599.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
@@ -7309,8 +7439,6 @@ III.- Análisis de laboratorio:
 
 21. PH. (Determinación de la acidez en una solución) $ 80.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
 22. Cloro residual. $ 104.00
@@ -7319,19 +7447,13 @@ III.- Análisis de laboratorio:
 
 24. Investigación de Biotoxina Ciguata por bioensayo en ratón. $ 2, 200.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 25. Enterococos. $ 261.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
 26. Colinesterasa. $ 115.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (ACTUALIZADO EN SU MONTO, P.O. 10 DE DICIEMBRE DE 2012)
 
@@ -7357,521 +7479,365 @@ III.- Análisis de laboratorio:
 
 37. Grado alcohólico. $ 430.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 38. Aislamiento y tipificación a partir de muestras fecales de escherichia ooli $ 313.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 39. Aislamiento y tipificación a partir de muestras fecales de salmonella sp $ 313.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 40. Aislamiento y tipificación a partir de muestras fecales de shigella sp $ 313.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 41. Aislamiento y tipificación a partir de muestras fecales de vibrio cholerae $ 313.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 42. Investigación de enfermedades prevenibles por vacunación de sarampión IgM $ 500.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 43. Investigación de enfermedades prevenibles por vacunación de sarampión IgG $ 313.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 44. Investigación de enfermedades prevenibles por vacunación de rubeola IgM $ 375.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 45. Investigación de enfermedades prevenibles por vacunación de rubeola IgG $ 469.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 46. Cultivo nasofaríngeo para Bordetella pertussi $ 521.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 47. Aislamiento bacteriano de neumococo, estreptococo, sp $ 156.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 48. Aislamiento de micobacterias (diagnóstico y control) $ 88.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 49. Identificación de BAAR en esputo (Ziehl-Neelsen) $ 52.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 50. Identificación microscópica (Impronta) de Leishmania $ 141.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 51. Prueba de intradermorreacción de Leishmania (Reacción de Montenegro) $ 66.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 52. Hepatitis B; Anticuerpos anti antígeno Core. (HBc) ELISA en peine $ 333.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 53. Hepatitis C (HCV IgG), ELISA en peine $ 333.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 54. Hepatitis C (HCV IgG). Aglutinación de Partículas $ 333.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 55. Hepatitis C (HCV IgG). Prueba Rápida $ 333.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 56. Varicela Anticuerpos IgM, ELISA $ 313.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 57. Varicela Anticuerpos IgG, ELISA $ 313.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 58. Carga Viral para VIH $ 1584.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 59. Conteo de Linfocitos CD4 / CD8 $ 1667.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 60. Sífilis: VDRL (Anticuerpos anti cardiolipina-a-lecitina) $ 63.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 61. Sífilis: Aglutinación de partículas $ 156.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 62. Sífilis: Prueba Rápida Inmunocromatográfica $ 156.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 63. Sífilis: Prueba confirmatoria FTA-Abs $ 261.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 64. Chlamydia trachomatis IgG ELISA en peine $ 167.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 65. Aislamiento Bacteriano de Neisseria gonohrroeae $ 104.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 66. Identificación de Pneumocistis carinii. Tinción enfrotis de expectoración $ 198.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 67. Toxoplasmosis, Anticuerpos IgM, ELISA en peine. $ 521.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 68. Toxoplasmosis, Anticuerpos IgG, ELISA en peine. $ 521.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 69. Leptospiras, Identificación microscópica en campo oscuro $ 104.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 70. Leptospiras, Aislamiento a partir de muestras de sangre, LCR, biopsia o tejido. $ 313.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 71. Leptospiras, Determinación de anticuerpos séricos por Microaglutinación $ 208.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 72. Leptospiras, Determinación de anticuerpos IgM, ELISA en placa. $ 188.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 73. Chinches triatominas. Determinación taxonómica y búsqueda parasitológica $ 208.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 74. Helicobacter pylori IgG $ 422.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 75. Cultivo y aislamiento de hongos de importancia Médica $ 269.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 76. Exámenes citológicos (Citología Cérvico Vaginal Papanicolau) $ 158.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 77. Investigación de Lepra (Observación microscópica) $ 198.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 78. Identificación de M. tuberculosis por PCR $ 677.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 79. Otros virus respiratorios (sincisial respiratorio, adenovirus y otros) $ 1160.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 80. Determinación anticuerpos IgM para virus del oeste del nilo(VON) $ 245.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 81. Leptospiras por PCR $ 521.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 82. Determinación anticuerpos IgM para Epteins Baar $ 365.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 83. Determinación anticuerpos IgG para Epteins Baar $ 365.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 84. Legionella por PCR en muestras humanas $ 438.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 85. Determinación de Rickettsias por IFA $ 208.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 86. Determinación de Rickettsias por PCR $ 625.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 87. Determinación de anticuerpos para histoplasmosis $ 125.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 88. Determinación intradérmica para histoplasmosis (Histoplasmina) $ 63.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 89. Determinación intradérmica para Coccidiomicosis (cocciodioidina) $ 63.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 90. Superficies vivas $ 365.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 91. Superficies inertes $ 365.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 92. Ameba vida libre $ 208.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 93. Esterilidad comercial $ 208.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 94. Derivados clorados $ 365.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 95. Sales cuaternarias de amonio $ 417.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 96. Oxidantes $ 208.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 97. Determinación de E. coli por el Num. más probable NMP (incluye colif.fecales) $ 275.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 98. Identificación rápida por coaglutinación de: S. pneumoniae; H. influenzae b; N. meningitidis, $ 474.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 99. Identificación de virus Influenza RT-PCR tiempo real $ 1146.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 100. Aislamiento de legionella muestras ambientales $ 2084.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 101. Determinación de Brucella por PCR $ 625.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 IV.- Verificación sanitaria desinfectación desinfección para vehículos, embarcaciones y aeronaves que se dediquen al transporte de pasajeros:
 
-a).- Con cupo de hasta 10 pasajeros 10 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- Con cupo de más de 10 y hasta 100 pasajeros 20 S.M.G.
+a). Con cupo de hasta 10 pasajeros 10 UMA.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+b). Con cupo de más de 10 y hasta 100 pasajeros 20 UMA.
 
-c).- Con cupo de más de 100 pasajeros 80 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+c). Con cupo de más de 100 pasajeros 80 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-V.- Verificación sanitaria desinfectación o desinfección para vehículos, embarcaciones y aeronaves que se dediquen al transporte de carga, por tonelada de carga 20 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+V.- Verificación sanitaria desinfectación o desinfección para vehículos, embarcaciones y aeronaves que se dediquen al transporte de carga, por tonelada de carga 20 UMA.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 VI.- Guía sanitaria por embarque 2 al millar ad valoren.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 VII.- Verificación sanitaria solicitada:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+a). En los municipios de Othón P. Blanco y Bacalar 6.00 UMA.
 
-a).- En los municipios de Othón P. Blanco y Bacalar 6.00 S.M.G
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- En el Municipio de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 4.00 S.M.G.
+b). En el municipio de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 4.00 UMA.
 
-c).- En el Municipio de Benito Juárez, Solidaridad, Isla Mujeres, Cozumel y Tulum 12.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+c). En el municipio de Benito Juárez, Puerto Morelos, Solidaridad, Isla Mujeres, Cozumel y Tulum 12.00 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Por desinfección desinfectación 8.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VIII.- Por desinfección o desinfectación 8.00 UMA.
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
 
 IX.- Por reposición o expedición extemporánea de aviso de funcionamiento de salubridad local:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+a). En los municipios de Othón P. Blanco y Bacalar 3.00 UMA.
 
-a).- En los municipios de Othón P. Blanco y Bacalar 3.00 S.M.G
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- En el Municipio de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 2.00 S.M.G.
+b). En el municipio de Felipe Carrillo Puerto, José María Morelos y Lázaro Cárdenas 2.00 UMA.
 
-c).- En el Municipio de Benito Juárez, Solidaridad, Isla Mujeres, Cozumel y Tulum 4.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+c). En el municipio de Benito Juárez, Puerto Morelos, Solidaridad, Isla Mujeres, Cozumel y Tulum 4.00 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-X.- Por verificación de productos del mar 12.00 S.M.G.
+X.- Por verificación de productos del mar 12.00 UMA.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+XI.- Autorización y verificación de planos por metro cuadrado 0.13 UMA.
 
-XI.- Autorización y verificación de planos por metro cuadrado 0.13 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XII.- Por expedición de certificado médico sin tipo de sangre 0.76 UMA.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XII.- Por expedición de certificado médico sin tipo de sangre 0.76 S.M.G.
+XIII.- Por expedición de certificado médico con tipo de sangre 1.34 UMA.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+XIV.- Por expedición de certificado médico prenupcial con tipo de sangre y VDRL 1.82 UMA.
 
-XIII.- Por expedición de certificado médico con tipo de sangre 1.34 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XV.- Por expedición de certificado médico prenupcial con tipo de sangre y VDRL, incluyendo prueba de VIH 3.94 UMA.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XIV.- Por expedición de certificado médico prenupcial con tipo de sangre y VDRL 1.82 S.M.G.
+XVI.- Oxigenación hiperbárica por servicio 6.92 UMA.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+XVII.- Hemodiálisis con equipo para residentes nacionales 28.87 UMA.
 
-XV.- Por expedición de certificado médico prenupcial con tipo de sangre y VDRL, incluyendo prueba de VIH 3.94 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XVIII.- Hemodiálisis con equipo para residentes extranjeros 92.39 UMA.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XVI.- Oxigenación hiperbárica por servicio 6.92 S.M.G.
+XIX.- Descompresión por hora 21.17 UMA.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-XVII.- Hemodiálisis con equipo para residentes nacionales 28.87 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-XVIII.- Hemodiálisis con equipo para residentes extranjeros 92.39 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-XIX.- Descompresión por hora 21.17 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-XX.- En cualquier otro servicio no especificado de 1.00 a 10.00 S.M.G.
+XX.- En cualquier otro servicio no especificado de 1.00 a 10.00 UMA.
 
 ### CAPITULO XII. EXPEDICION DE ESCRITURAS PUBLICAS Y AUTORIZACION DE PROTOCOLOS
 
@@ -7881,23 +7847,23 @@ XX.- En cualquier otro servicio no especificado de 1.00 a 10.00 S.M.G.
 
 Los Notarios Públicos del Estado de Quintana Roo o quienes ejerzan sus funciones, pagarán un derecho conforme a la siguiente:
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-I.- Por expedición de testimonios de escrituras públicas o actas notariales, a razón de 8.05 S.M.G.
+I.- Por expedición de testimonios de escrituras públicas o actas notariales, a razón de 8.05 UMA.
 
 II.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 2006)
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-III.- Por certificación o reconocimiento de firmas 1.15 S.M.G.
+III.- Por ratificación o reconocimiento de firmas 1.15 UMA.
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IV.- Por cotejo de documentos 1.15 S.M.G.
+IV.- Por cotejo de documentos. 1.15 UMA.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-V.- Por certificación de otros actos 1.15 S.M.G.
+V.- Por certificación de otros actos. 1.15 UMA.
 
 ###### ARTICULO 186.
 
@@ -7917,13 +7883,11 @@ Por la legalización de firmas y copias certificadas que se expiden de constanci
 
 TARIFA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 I.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II.- Por certificados de valor catastral fiscal. 3.45 S.M.G.
+II.- Por certificados de valor catastral fiscal 3.45 UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -7933,71 +7897,77 @@ III.- Por la expedición de certificaciones que consten en la Oficialía Central
 
 TARIFA
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a).- Por Acta de Nacimiento. 0.5 S.M.G.
+a) Por Acta de Nacimiento. 0.5 UMA.
 
 > <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
 Por la expedición de la primera copia certificada del acta de nacimiento, procederá la exención de su cobro.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- Por acta de matrimonio: 2.0 S.M.G.
+b) Por Acta de matrimonio. 2.0 UMA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-c).- Por acta de divorcio: 4.5 S.M.G.
+c) Por Acta de divorcio. 4.5 UMA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d).- Por acta de defunción: 2.0 S.M.G.
+d) Por Acta de defunción. 2.0 UMA.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-e).- Constancia de existencia o inexistencia de registro 3.5 S.M.G.
+e) No especificado. 3.5 UMA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-f).- Constancia de inexistencia de registro 3.5 S.M.G.
+f) Constancia de inexistencia de registro. 3.5 UMA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-g).- Aclaración administrativa: 4.5 S.M.G.
+g) Aclaración administrativa. 4.5 UMA.
 
-h).- Anotación marginal: 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-i).- Autorización de registro extemporáneo: 2.75 S.M.G.
+h) Anotación marginal. 1.0 UMA.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-j).- Por la expedición de fotocopias de actos registrados certificados: 0.5 S.M.G.
+i) Autorización de registro extemporáneo. 2.75 UMA.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IV.- Otras legalizaciones o certificaciones 1.73 S.M.G.
+j) Por la expedición de fotocopias de actos registrados certificados. 0.5 UMA.
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-V.- Copias certificadas derivadas de Convenios transaccionales, exhortos y autorizaciones para escrituraciones, 9 s.m.g.
+IV.- Otras legalizaciones o certificaciones. 1.73 UMA.
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VI.- Por expedición de copias certificadas a cargo del Poder Judicial, 1 s.m.g.
+V.- Copias certificadas derivadas de Convenios transaccionales, exhortos y autorizaciones para escrituraciones, 9 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+VI.- Por expedición de copias certificadas a cargo del Poder Judicial, 1 UMA.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
 
 VII.- Por expedición de Copias simples:
 
-a).- Por la primera hoja 0.5 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- Por cada hoja excedente 0.06 S.M.G.
+a) Por la primera hoja 0.5 UMA.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+b) Por cada hoja excedente 0.06 UMA.
 
-VIII.- Por apostillamiento de documentos diversos. 4 veces el S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Por apostillamiento de documentos diversos. 4 UMA.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -8019,143 +7989,171 @@ TARIFA
 
 I.- Nacimientos:
 
-a).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
+a) (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
 
-b).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-c).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
+b) En las Oficinas del Registro Civil en horas inhábiles. 1.0 UMA
 
-d).- (DEROGADO, P.O. 8 DE OCTUBRE DE 2014)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+c) Fuera de las Oficinas del Registro Civil en horas hábiles 4.5 UMA
 
-e).- Por rectificación en el Libro de Registro que corresponda. 0.5 S.M.G.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+d) Fuera de las Oficinas del Registro Civil en horas inhábiles 6.5 UMA
 
-f).- Inscripción de actas de mexicanos nacidos y registrados en el extranjero 4.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e) Rectificación en el Libro de Registro que corresponda. 0.5 UMA
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+f) Inscripción de actas de mexicanos nacidos y registrados en el extranjero 4.00 UMA
 
 II.- Matrimonios:
 
-a).- En la Oficina del Registro Civil en horas hábiles. 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+a) En las Oficinas del Registro Civil en horas hábiles. 1.0 UMA
 
-b).- En la oficina del Registro Civil en horas inhábiles 5.50 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+b) En la oficina del Registro Civil en horas inhábiles 5.50 UMA
 
-c).- Fuera de las oficinas del Registro Civil en horas hábiles 6.50 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+c) Fuera de las Oficinas del Registro Civil en horas hábiles 6.50 UMA
 
-d).- Fuera de las oficinas del Registro Civil en horas inhábiles 22.50 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+d). Fuera de las oficinas del Registro Civil en horas inhábiles 22.50 UMA
 
-e).- Entre mexicanos y extranjeros en las oficinas del Registro Civil 20.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+e) Entre mexicanos y extranjeros en las oficinas del Registro Civil 20.00 UMA
 
-f).- Entre mexicanos y extranjeros fuera de la oficina del Registro Civil 22.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-g).- Matrimonios entre extranjeros en la Oficina del Registro Civil. 65.0 S.M.G.
+f) Entre mexicanos y extranjeros fuera de la oficina del Registro Civil 22.00 UMA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-h).- Matrimonio entre Extranjeros fuera de la Oficina del Registro Civil 150.0 S.M.G.
+g) Matrimonio entre extranjeros en la Oficina del Registro Civil. 65.0 UMA
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-i).- Fuera de las oficinas del Registro Civil en sábados y domingos y días festivos 20.0 S.M.G.
+h) Matrimonio entre extranjeros fuera de la Oficina del Registro Civil 150 UMA
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-j).- Inscripción de actas de mexicanos que contraen matrimonio en el extranjero 8.50 S.M.G.
+i) Fuera de las oficinas del Registro Civil en sábados y domingos y días festivos 20.0 UMA
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+j) Inscripción de actas de mexicanos que contraen matrimonio en el extranjero 8.50 UMA
 
 III.- Divorcios:
 
 a).- Divorcios voluntarios:
 
-1.- Por acta de solicitud. 10.0 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.- Por acta de divorcio. 10.0 S.M.G.
+1. Por acta de solicitud 10.0 UMA
 
-3.- Por acta de audiencia. 5.0 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-4.- Por acta de desistimiento. 10.0 S:M.G.
+2. Por acta de divorcio 10.0 UMA
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- Divorcio entre extranjeros en las oficinas del Registro Civil 85.00 S.M.G.
+3. Por acta de audiencia 5.0 UMA
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-c).- Divorcio entre extranjeros fuera de la oficina del registro civil 170.10 S.M.G.
+4. Por acta de desistimiento 10.0 UMA
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d).- Por acta de divorcio decretada por las autoridades judiciales que se inscriban en el Registro Civil 7.50 S.M.G.
+b).- Divorcio entre extranjeros en las oficinas del Registro Civil 85.00 UMA.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-e).- Inscripción de actas de mexicanos que disuelven el vínculo matrimonial en el extranjero 7.50 S.M.G.
+c).- Divorcio entre extranjeros fuera de la oficina del registro civil 170.10 UMA.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-f).- Acuerdo de autorización de divorcio administrativo 10.00 S.M.G.
+d).- Por acta de divorcio decretada por las autoridades judiciales que se inscriban en el Registro Civil 7.50 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e).- Inscripción de actas de mexicanos que disuelven el vínculo matrimonial en el extranjero 7.50 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+f).- Acuerdo de autorización de divorcio administrativo 10.00 UMA.
 
 IV.- Por cada acta de supervivencia:
 
-a).- En la oficina. 0.3 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+a) En la oficina. 0.3 UMA.
 
-b).- Levantada a domicilio 2.50 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+b) Levantada a domicilio 2.50 UMA.
 
-V.- Tutela, Emancipación, Adopción o Reconocimiento 2.0 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+V.- Tutela, Emancipación, Adopción o Reconocimiento 2.0 UMA.
 
 VI.- Otros:
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a).- Inscripción de sentencias ejecutorias 6.5 S.M.G.
+a) Inscripción de sentencias ejecutorias 6.5 UMA
 
-b).- Asentamientos de actas de defunción. 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+b) Asentamientos de actas de defunción 1.0 UMA
 
-c).- Transcripción de documentos 7.50 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d).- Expedición de actas de reconocimiento. 1.0 S.M.G.
+c) Transcripción de documentos 7.50 UMA
 
-e).- Expedición de actas de adopción. 4.0 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-f).- Expedición de actas de inscripción. 4.0 S.M.G.
+d) Expedición de actas de reconocimiento 1.0 UMA
 
-g).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-h).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
+e) Expedición de actas de adopción 4.0 UMA
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-i).- Búsqueda de documentos 10.00 S.M.G.
+f) Expedición de actas de inscripción 4.0 UMA
 
-j).- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
+g) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+h) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
 
-k).- Rectificación y/o aclaración de actas con anotación marginal 5.50 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+i) Búsqueda de documentos 10.00 UMA
+
+j) (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999)
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+k) Rectificación y/o aclaración de actas con anotación marginal 5.50 UMA
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 l).- Trámite de actas certificadas de otras entidades federativas:
 
-1. Nacimiento, renocimiento (sic) o adopción 2.75 S.M.G.
+1. Nacimiento, reconocimiento o adopción 2.75 UMA
 
-2. Matrimonio, defunción, divorcio o inscripción de actos 6.50 S.M.G.
+2. Matrimonio, defunción, divorcio o inscripción de actos 6.50 UMA
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -8177,11 +8175,11 @@ El Oficial del Registro Civil y su auxiliar percibirán respectivamente el 20% y
 
 En los casos de desastres naturales o programas de regularización como matrimonios colectivos a solicitud oficial de las autoridades ó instituciones competentes, la Dirección General del Registro Civil del Estado, a través de la Secretaria, podrá subsidiar hasta el 100% de los derechos que causen las actas de Registro Civil.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 189.
 
-Por la reproducción de documental que a juicio de la autoridad competente o a solicitud del interesado se efectúe, a excepción de los (sic) establece el artículo 206 fracción III de esta ley, se causará un derecho de 0.35 S.M.G. por hoja.
+Por la reproducción de documental que a juicio de la autoridad competente o a solicitud del interesado se efectúe, a excepción de lo que establece el artículo 206 Fracción III de esta ley, se causará un derecho de 0.35 UMA por hoja.
 
 ###### ARTICULO 190.
 
@@ -8209,67 +8207,49 @@ TARIFA
 
 I.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II.- Enfermeras, parteras y farmacéuticas. 6.90 S.M.G.
+II.- Enfermeras, parteras y farmacéuticas. 6.90 UMA.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-III.- Los demás profesionales. 13.80 S.M.G.
+III.- Los demás profesionales. 13.80 UMA.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IV.- Peritos valuadores. 17.25 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV.- Peritos valuadores 17.25 UMA.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO XV. DERECHOS DE COOPERACION PARA OBRAS PUBLICAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 193.
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 194.
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 195.
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 196.
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 197.
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 198.
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 199.
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 200.
 
@@ -8279,25 +8259,17 @@ IV.- Peritos valuadores. 17.25 S.M.G.
 
 #### SECCION PRIMERA. DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 201.
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 202.
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 203.
 
 (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -8307,53 +8279,61 @@ BIS.- Los servicios que se presten en el Registro Público de la Propiedad, caus
 
 TARIFA
 
-a) Por solicitud de análisis y calificación de documentos que contengan actos inscribibles, se cobrará 65 S.M.G. por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado, más 0.20 S.M.G. por cada foja que contenga el documento incluyendo sus anexos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Por solicitud de análisis y calificación de documentos que contengan actos anotables ya sean preventiva o definitivamente, se cobrará 65 S.M.G. por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado, más 0.20 S.M.G. por cada foja que contenga el documento incluyendo sus anexos.
+a) Por solicitud de análisis y calificación de documentos que contengan actos inscribibles, se cobrará 65 UMA por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado, más 0.20 UMA por cada foja que contenga el documento incluyendo sus anexos.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+b) Por solicitud de análisis y calificación de documentos que contengan actos anotables ya sean preventiva o definitivamente, se cobrará 65 UMA por cada acto o negocio jurídico del que deba de emitirse una calificación dentro de cada folio registral a que se refiera el documento presentado, más 0.20 UMA por cada foja que contenga el documento incluyendo sus anexos.
 
 c) (DEROGADO, P.O. 16 DE DICIEMBRE DE 2014)
 
-d) Por solicitud de asiento de presentación de aviso preventivo con vigencia de 30 y de 90 días 12 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-e) Por la expedición de copias certificadas relativas a los actos que obren en el programa informático se cobrará por hoja 2 S.M.G.
+d) Por solicitud de asiento de presentación de aviso preventivo con vigencia de 30 y de 90 días 12 UMA.
 
-f) Por expedición de certificados de información o datos que obren en el sistema de registro, en atención a la naturaleza de la solicitud formulada ya sea por nombre o por folio, se cobrará por cada uno de ellos 5 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e) Por la expedición de copias certificadas relativas a los actos que obren en el programa informático se cobrará por hoja 2 UMA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+f) Por expedición de certificados de información o datos que obren en el sistema de registro, en atención a la naturaleza de la solicitud formulada ya sea por nombre o por folio, se cobrará por cada uno de ellos 5 UMA.
 
 Para la aplicación del presente inciso, el solicitante deberá especificar la forma en que requiera el certificado, ya sea por nombre en el que se certificará los folios que reporte el sistema por dicho nombre; o bien ya sea por folio, en el que se certificará los actos que reporte el sistema por dicho folio.
 
-g) Por expedición de constancias de asiento registral por folio 5 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-h) Por búsqueda que se realice a través del Programa Informático para la expedición de constancia de propiedad y no propiedad, por cada nombre buscado 5 S.M.G.
+g) Por expedición de constancias de asiento registral por folio 5 UMA.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+h) Por búsqueda que se realice a través del Programa Informático para la expedición de constancia de propiedad y no propiedad, por cada nombre buscado 5 UMA.
 
-i) Por el depósito de testamentos, si se hace en la oficina del Registro 10 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+i) Por el depósito de testamentos, si se hace en la oficina del Registro 10 UMA.
 
-Si se hace fuera de la oficina del Registro 12 S.M.G.
+Si se hace fuera de la oficina del Registro 12 UMA.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+Si el depósito se hace fuera de las horas de oficina, será de: 15 UMA.
 
-Si el depósito se hace fuera de las horas de oficina, será de: 15 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+j) Por la ratificación de documentos privados en el caso a que se refiere el artículo 2599 y 3162 fracción III del Código Civil para el Estado Libre y Soberano de Quintana Roo y la constancia de la misma se cobrará: 15 UMA.
 
-j) Por la ratificación de documentos privados en el caso a que se refiere el artículo 2599 y 3162 fracción III del Código Civil para el Estado Libre y Soberano de Quintana Roo y la constancia de la misma se cobrará: 15 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+k) Por el análisis y calificación de actos relativos a anotaciones de actas aclaratorias consistentes en rectificación de ubicación, medidas, colindancias, clave catastral, localidad, coordenadas y vialidad, se cobrarán: 5 UMA.
 
-k) Por el análisis y calificación de actos relativos a anotaciones de actas aclaratorias consistentes en rectificación de ubicación, medidas, colindancias, clave catastral, localidad, coordenadas y vialidad, se cobrarán: 5 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+l) Por cancelación de avisos preventivos que anuncian la formalización de actos ordenados por los Notarios, se cobrarán: 8 UMA.
 
-l) Por cancelación de avisos preventivos que anuncian la formalización de actos ordenados por los Notarios, se cobrarán: 8 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-Para el pago de los 0.20 S.M.G. por cada foja a que se refieren los incisos a) y b) de este artículo, en el supuesto que un mismo documento presentado contenga actos inscribibles y anotables, sólo una vez se pagará este importe por dicho documento.
+Para el pago de los 0.20 UMA por cada foja a que se refieren los incisos a) y b) de este artículo, en el supuesto que un mismo documento presentado contenga actos inscribibles y anotables, sólo una vez se pagará este importe por dicho documento.
 
 #### SECCION SEGUNDA. DEL REGISTRO PUBLICO DEL COMERCIO
 
@@ -8367,131 +8347,131 @@ I.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
 
 II.- La inscripción de matrícula
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a) Por cada comerciante individual.......... 5.75 S.M.G.
+a) Por cada comerciante individual 5.75 UMA.
 
 b) (DEROGADO, P.O. 16 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-III.- Inscripción de las escrituras constitutivas de sociedades mercantiles y las relativas a aumento o disminución de su capital social, así como las de sociedades de capital variable o para el caso de las sucursales de sociedades 50 S.M.G.
+III.- Inscripción de las escrituras constitutivas de sociedades mercantiles y las relativas a aumento o disminución de su capital social, así como las de sociedades de capital variable o para el caso de las sucursales de sociedades 50 UMA.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IV.- Inscripción de las modificaciones a las escrituras constitutivas de sociedades mercantiles, siempre que no se refieran al aumento de capital..............5.75 S.M.G.
+IV.- Inscripción de las modificaciones a las escrituras constitutivas de sociedades mercantiles, siempre que no se refieran al aumento de capital 5.75 UMA.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-V.- Inscripción de actas de asambleas de socios o administradores.................... 5.75 S.M.G.
+V.- Inscripción de actas de asambleas de socios o administradores 5.75 UMA.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VI.- Depósito del programa a que se refiere el artículo 92 de la Ley General de Sociedades Mercantiles............. 5.75 S.M.G.
+VI.- Depósito del programa a que se refiere el artículo 92 de la Ley General de Sociedades Mercantiles 5.75 UMA.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VII.- Inscripción del acta de emisión de bonos u obligaciones de las sociedades anónimas, así como en el caso de enajenación de acciones de dichas sociedades...... 25 S.M.G.
+VII.- Inscripción del acta de emisión de bonos u obligaciones de las sociedades anónimas, así como en el caso de enajenación de acciones de dichas sociedades 25 UMA.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Inscripción de la disolución o liquidación de sociedades mercantiles 10.35 S.M.G.
+VIII.- Inscripción de la disolución o liquidación de sociedades mercantiles 10.35 UMA.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IX.- Inscripción de la disolución y liquidación de sociedades mercantiles cuando se lleve a cabo en un solo acto........ 11.50 S.M.G.
+IX.- Inscripción de la disolución y liquidación de sociedades mercantiles cuando se lleve a cabo en un solo acto 11.50 UMA.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-X.- Por la Inscripción de actas de nombramiento de liquidadores......................... 11.50 S.M.G.
+X.- Por la inscripción de actas de nombramiento de liquidadores 11.50 UMA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XI.- Cancelación del contrato de sociedades, a las que no se refiere la fracción IX de este artículo............. 5.75 S.M.G.
+XI.- Cancelación del contrato de sociedades, a las que no se refiere la fracción IX de este artículo 5.75 UMA.
 
 En los casos de esta fracción y de las dos que anteceden, si como consecuencia de la liquidación de la sociedad se adjudican bienes, los derechos se causarán sobre el valor de los que se adjudiquen a los socios o a terceros aplicando lo dispuesto por la fracción II del artículo 201.
 
 XII.- Inscripción de poderes y sustitución de los mismos
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a) Si se designa un solo apoderado............ 5.75 S.M.G.
+a) Si se designa un solo apoderado 5.75 UMA.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Por cada apoderado mas que se designe en el poder 2.88 S.M.G.
+b) Por cada apoderado más que se designe en el mismo poder 2.88 UMA.
 
 El otorgamiento de poderes a los administradores o gerentes de sociedades mercantiles en las escrituras constitutivas o modificaciones no causarán los derechos a que se refiere esta fracción.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XIII.- Inscripción de revocación de poderes por cada apoderado 2.88 S.M.G.
+XIII.- Inscripción de revocación de poderes por cada apoderado 2.88 UMA.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XIV.- Inscripción relativa a habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que en su defecto necesita la mujer para los mismos fines, la revocación de las mismas y las escrituras a que se refieren las fracciones X y XI del artículo 21 de Código de Comercio................ 1.73 S.M.G.
+XIV.- Inscripción relativa a habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que en su defecto necesita la mujer para los mismos fines, la revocación de las mismas y las escrituras a que se refieren las fracciones X y XI del artículo 21 de Código de Comercio 1.73 UMA.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XV.- Inscripción de contratos mercantiles de cualquier clase, enumerados en el Artículo 75 del Código de Comercio no previstos en este capítulo, 6.90 S.M.G.
+XV.- Inscripción de contratos mercantiles de cualquier clase, enumerados en el Artículo 75 del Código de Comercio no previstos en este capítulo, 6.90 UMA.
 
 XVI.- Inscripción de contratos de corresponsalía de Instituciones de Crédito
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a) Por inscripción........................... 5.75 S.M.G.
+a) Por inscripción 5.75 UMA.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Por cancelación......................... 3.45 S.M.G.
+b) Por cancelación 3.45 UMA.
 
 XVII.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2003)
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XVIII.- Inscripción de resoluciones judiciales en las que se declare una quiebra o se admita una liquidación judicial.......... 5.75 S.M.G.
+XVIII.- Inscripción de resoluciones judiciales en las que se declare una quiebra o se admita una liquidación judicial 5.75 UMA.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XIX.- Anotaciones relativas a inscripciones principales........... 5.75 S.M.G
+XIX.- Anotaciones relativas a inscripciones principales 5.75 UMA.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XX.- Depósito o guarda de cualquier documento....... 63.25 S.M.G.
+XX.- Depósito o guarda de cualquier documento 63.25 UMA.
 
 XXI.- Ratificación de documento y firma ante el Registrador
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a) Si la cuantía no excede de $ 10,000.00........ 6.90 S.M.G.
+a) Si la cuantía no excede de $ 10,000.00 6.90 UMA.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Si excede de $ 10,000.00........................... 11.50 S.M.G.
+b) Si excede de $ 10,000.00 11.50 UMA.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXII.- Búsqueda en el Programa Informático para informes de constancias comerciales o sociedades mercantiles inscritas, por cada nombre o razón social 5.75 S.M.G.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-Expedición de certificados de libertad o de existencia de gravamen 5.75 S.M.G.
+XXII.- Búsqueda en el Programa Informático para informes de constancias comerciales o sociedades mercantiles inscritas, por cada nombre o razón social 5.75 UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 XXIII.- Expedición de copias certificadas relativas a las inscripciones que obren en el Programa Informático.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a) Por primera hoja............................ 4.03 S.M.G.
+a) Por primera hoja 4.03 UMA.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Por cada hoja excedente.......................... 1.73 S.M.G.
+b) Por cada hoja excedente 1.73 UMA.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XXIV.- Por los demás servicios no previstos en este artículo, 9.2 S.M.G.
+XXIV.- Por los demás servicios no previstos en este artículo, 9.2 UMA.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XXV.- Expedición de certificados de libertad o de existencia de gravamen 5.75 UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
@@ -8515,8 +8495,6 @@ V.- Los contratos en que se pacten prestaciones periódicas, se valuarán en la 
 
 VI.- Se exceptúan del pago de los derechos de inscripción en el Registro Público del Comercio, a las sociedades cooperativas escolares que se establezcan en las escuelas del Sistema Educativo Quintanarroense que estén bajo su vigilancia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO XVII. DE LOS DERECHOS POR LOS SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LA SECRETARIA DE ECOLOGIA Y MEDIO AMBIENTE
@@ -8527,85 +8505,77 @@ VI.- Se exceptúan del pago de los derechos de inscripción en el Registro Públ
 
 Por cada verificación vehicular, que deberá efectuarse sobre la emisión de contaminantes generados por los vehículos automotor, su propietario o poseedor deberá pagar los derechos, conforme a las siguientes cuotas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 I.- Por verificación anual a vehículos con motor a gasolina, diesel, gas lp o cualquier otro tipo de combustible:
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a) Holograma Cero “0” 8 S.M.G.
+a) Holograma Cero “0” 8 UMA.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Holograma dos “2” 8 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) Holograma dos “2” 8 UMA.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 II.- Por verificación bianual a vehículos con motor a gasolina, diesel, gas lp o cualquier otro tipo de combustible:
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a) Holograma doble cero “00” 16 S.M.G.
+a) Holograma doble cero “00” 16 UMA.
 
-III.- Por la búsqueda y reposición de certificados y/o hologramas de verificación vehicular de emisión de contaminantes: 2.0 S.M.G.
+> <small>[N. DE E. PARA LA APLICACIÓN DE LA MODIFICACIÓN A LA PRESENTE FRACCIÓN SE SUGIERE COMO COMPLEMENTO CONSULTAR SU CRONOLOGÍA LEGISLATIVA.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+III.- Por la búsqueda y reposición de certificados y/o hologramas de verificación vehicular de emisión de contaminantes: 2.0 UMA.
 
 El pago de los derechos a que se refiere este artículo, deberá realizarse de acuerdo a lo establecido en el Programa de Verificación Vehicular para el estado de Quintana Roo y Reglamento en Materia de Prevención y Control de la Contaminación Ambiental.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 Los sujetos pasivos de este derecho deberán presentar ante la Autoridad de Tránsito correspondiente, constancia sobre los resultados de la verificación del vehículo debidamente sellado y marcado por el centro de verificación vehicular autorizado por la Secretaría de Ecología y Medio Ambiente, a fin de que sea realizado el trámite de revalidación de vigencia de la matrícula vehicular.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+IV.- El costo por el estudio, verificación del sitio y análisis de la documentación para obtener la concesión vehicular será de: 500 UMA.
 
-IV.- El costo por el estudio, verificación del sitio y análisis de la documentación para obtener la concesión vehicular será de: 500 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V.- El costo para obtener la concesión para la operación de un centro de verificación vehicular será de: 3,500 UMA.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-V.- El costo para obtener la concesión para la operación de un centro de verificación vehicular será de: 3,500 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-VI.- El costo para obtener el refrendo anual para la operación del centro de verificación vehicular concesionado será de: 1,800 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI.- El costo para obtener el refrendo anual para la operación del centro de verificación vehicular concesionado será de: 1,800 UMA.
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 VII.- El costo para obtener la calcomanía y su constancia de baja emisión de contaminantes será:
 
-a) Holograma Doble Cero “00”: 5.0 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Holograma Cero “0”: 2.0 S.M.G.
+a) Holograma Doble Cero “00”: 5.0 UMA.
 
-c) Holograma Dos “2”: 2.0 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) Holograma Cero “0”: 2.0 UMA.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VIII.- El costo para obtener la hoja de rechazo será de 1.00 S.M.G.
+c) Holograma Dos “2”: 2.0 UMA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+VIII.- El costo para obtener la hoja de rechazo será de 1.00 UMA.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 Únicamente los concesionarios de los centros de verificación vehicular autorizados por la Secretaría de Ecología y Medio Ambiente en el Estado de Quintana Roo, podrán obtener dichas hojas de rechazo y calcomanías con sus respectivas constancias de baja emisión de contaminantes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-IX.- El costo por autorización en el incremento de cada línea de verificación Vehicular en los Centros de Verificación Vehicular autorizados será de 500 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IX.- El costo por autorización en el incremento de cada línea de verificación Vehicular en los Centros de Verificación Vehicular autorizados será de 500 UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -8617,39 +8587,57 @@ TARIFA
 
 I.- Por concepto de recepción y evaluación de los documentos que se enlistan a continuación:
 
-a).- Manifestación de impacto ambiental, modalidad ordinaria y/o detallada. 170 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- Manifestación de impacto ambiental que identifique los impactos negativos ocasionados al ambiente. 170 S.M.G.
+a) Manifestación de impacto ambiental, modalidad ordinaria y/o detallada. 170 UMA.
 
-c).- Informe preventivo. 150 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) Manifestación de impacto ambiental que identifique los impactos negativos ocasionados al ambiente. 170 UMA.
 
-d).- (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-e).- Aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental y/o informe preventivo. 80 S.M.G.
+c) Informe preventivo. 150 UMA.
 
-f).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+d) (DEROGADO, P.O. 19 DE DICIEMBRE DE 2011)
 
-g).- (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e) Aclaraciones, rectificaciones o ampliaciones al contenido de la manifestación de impacto ambiental y/o informe preventivo. 80 UMA.
+
+f) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
+
+g) (DEROGADO, P.O. 18 DE DICIEMBRE DE 2008)
 
 II.- Por los servicios relacionados con la materia de impacto ambiental como a continuación se indica:
 
-a).- Expedición de resolución que contenga la autorización de modificaciones a proyectos: 50 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- Expedición de las renovaciones de la vigencia de las autorizaciones en materia de impacto ambiental: 50 S.M.G.
+a) Expedición de resolución que contenga la autorización de modificaciones a proyectos: 50 UMA.
 
-c).- Expedición de la exención de la presentación de los estudios en materia de impacto ambiental: 100 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d).- Emitir la congruencia de obras u actividades que pretendan realizarse en el territorio estatal: 30 S.M.G.
+b) Expedición de las renovaciones de la vigencia de las autorizaciones en materia de impacto ambiental: 50 UMA.
 
-e).- Ingreso al Registro de Prestadores de Servicio en Materia de Impacto Ambiental del Gobierno del Estado de Quintana Roo: 60 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-f).- Expedición de Refrendo del Registro de Prestadores de Servicio en Materia de impacto Ambiental del Gobierno del Estado de Quintana Roo: 50 S.M.G.
+c) Expedición de la exención de la presentación de los estudios en materia de impacto ambiental: 100 UMA.
 
-g).- Por concepto de verificación e inspección de áreas, predios y obras: 60 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+d) Emitir la congruencia de obras u actividades que pretendan realizarse en el territorio estatal: 30 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e) Ingreso al Registro de Prestadores de Servicio en Materia de Impacto Ambiental del Gobierno del Estado de Quintana Roo: 60 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+f) Expedición de Refrendo del Registro de Prestadores de Servicio en Materia de impacto Ambiental del Gobierno del Estado de Quintana Roo: 50 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+g) Por concepto de verificación e inspección de áreas, predios y obras: 60 UMA.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
@@ -8661,29 +8649,47 @@ TARIFA
 
 I.- Por concepto de recepción y evaluación de los documentos que se enlistan a continuación:
 
-a) Auditorías Ambientales: 440 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Aclaraciones, rectificaciones o ampliaciones al contenido de las auditorías ambientales: 80 S.M.G.
+a) Auditorías Ambientales: 440 UMA.
 
-c) Estudio de Riesgo: 150 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+b) Aclaraciones, rectificaciones o ampliaciones al contenido de las auditorías ambientales: 80 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+c) Estudio de Riesgo: 150 UMA.
 
 II.- Por los servicios relacionados con la materia de Prevención y Control de la Contaminación Ambiental como a continuación se indica:
 
-a) Certificación inicial anual de vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas: 70 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Refrendo anual de la certificación del vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas: 40 S.M.G.
+a) Certificación inicial anual de vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas: 70 UMA.
 
-c) Por análisis y resolución de la Cédula de Desempeño Ambiental: 300 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d) Por refrendo y resolución de la Cédula de Desempeño Ambiental: 120 S.M.G.
+b) Refrendo anual de la certificación del vehículo automotor para el Transporte de Aguas Residuales y Aguas Residuales Tratadas: 40 UMA.
 
-e) Por solicitud extemporánea de la Cédula de Desempeño Ambiental: 400 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-f) Por solicitud extemporánea del refrendo de la Cédula de Desempeño Ambiental: 200 S.M.G.
+c) Por análisis y resolución de la Cédula de Desempeño Ambiental: 300 UMA.
 
-g) Verificación de las instalaciones de las Fuentes Fijas de Competencia Estatal para exceptuar la obtención de la Cédula de Desempeño Ambiental: 60 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+d) Por refrendo y resolución de la Cédula de Desempeño Ambiental: 120 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e) Por solicitud extemporánea de la Cédula de Desempeño Ambiental: 400 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+f) Por solicitud extemporánea del refrendo de la Cédula de Desempeño Ambiental: 200 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+g) Verificación de las instalaciones de las Fuentes Fijas de Competencia Estatal para exceptuar la obtención de la Cédula de Desempeño Ambiental: 60 UMA.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
@@ -8697,33 +8703,37 @@ TARIFA
 
 Por concepto de ingreso a los ANP's estatales y de servicios otorgados a los usuarios, como lo son visitas guiadas, uso de infraestructura, sanitarios y otros de acuerdo a la siguiente clasificación:
 
-a).- Quintanarroenses: 0.30 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- Nacionales: 0.50 S.M.G.
+a) Quintanarroenses: 0.30 UMA.
 
-c).- Extranjeros: 1.0 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+b) Nacionales: 0.50 UMA.
 
-Por concepto de estudios de investigación que se vayan a efectuar dentro de las ANP's por las instituciones académicas y de investigación, nacionales o extranjeras: 3 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+c) Extranjeros: 1.0 UMA.
 
-Por concepto de filmaciones y sesiones fotográficas con fines comerciales: 160 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+Por concepto de estudios de investigación que se vayan a efectuar dentro de las ANP'S por las instituciones académicas y de investigación, nacionales o extranjeras: 3 UMA.
 
-Por concesiones anuales a prestadores de servicios náuticos, acuático-recreativos, de ecoturismo de bajo impacto: 380 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+Por concepto de filmaciones y sesiones fotográficas con fines comerciales: 160 UMA.
 
-Por concesiones anuales a comerciantes de artesanías, manualidades, de alimentos y bebidas: 380 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+Por concesiones anuales a prestadores de servicios náuticos, acuático-recreativos, de ecoturismo de bajo impacto: 380 UMA.
 
-Por el uso de la imagen de las ANP's y sus recursos: 380 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Por concesiones anuales a comerciantes de artesanías, manualidades, de alimentos y bebidas: 380 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+Por el uso de la imagen de las ANP'S y sus recursos: 380 UMA.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
@@ -8733,27 +8743,35 @@ QUINQUIES.- Por los servicios que en materia de Residuos de competencia Estatal 
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-I.- Por análisis y resolución de Planes de Manejo de Residuos 157 S.M.G.
+I.- Por análisis y resolución de Planes de Manejo de Residuos 157 UMA.
 
-II.- Por Refrendo anual de los Planes de Manejo de Residuos de competencia estatal 50 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-III.- Por Inscripción y refrendo anual al padrón de Asesores y/o Gestores relacionados con el manejo integral de Residuos Sólidos Urbanos y de Manejo Especial. 100 S.M.G.
+II.- Por Refrendo anual de los Planes de Manejo de Residuos de competencia estatal 50 UMA.
 
-IV.- Por inscripción y refrendo anual al padrón de Centros de acopio de Residuos Sólidos Urbanos y de Manejo Especial. 50 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+III.- Por inscripción y refrendo anual al padrón de Asesores y/o Gestores relacionados con el manejo integral de Residuos Sólidos Urbanos y de Manejo Especial. 100 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+IV.- Por inscripción y refrendo anual al padrón de Centros de acopio de Residuos Sólidos Urbanos y de Manejo Especial. 50 UMA.
 
 V.- (DEROGADA, P.O. 16 DE DICIEMBRE DE 2014)
 
-VI.- Por inscripción y resolución anual al padrón de recolección y Transporte de Residuos Sólidos Urbanos y de Manejo Especial. 50 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+VI.- Por inscripción y resolución anual al padrón de recolección y Transporte de Residuos Sólidos Urbanos y de Manejo Especial. 50 UMA.
 
-VII. Por el análisis y resolución derivado de la verificación de las instalaciones de los establecimientos que soliciten la exención a presentar plan de manejo bajo el esquema de gran generador de residuos sólidos urbanos (27.3 k/día) o generador de residuos de manejo especial 60 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+VII.- Por el análisis y resolución derivado de la verificación de las instalaciones de los establecimientos que soliciten la exención a presentar plan de manejo bajo el esquema de gran generador de residuos sólidos urbanos (27.3 k/día) o generador de residuos de manejo especial 60 UMA.
 
-VIII. Por análisis y resolución del informe y bitácora anual del Plan de Manejo de Residuos de Competencia Estatal 50 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Por análisis y resolución del informe y bitácora anual del Plan de Manejo de Residuos de Competencia Estatal 50 UMA.
 
 > <small>(DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -8771,8 +8789,6 @@ VIII. Por análisis y resolución del informe y bitácora anual del Plan de Mane
 
 #### SECCIÓN PRIMERA. DE LA SEGURIDAD PRIVADA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 ###### ARTICULO 207-A.
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2012) (REPUBLICADO, P.O. 4 DE DICIEMBRE DE 2013)
@@ -8780,8 +8796,6 @@ VIII. Por análisis y resolución del informe y bitácora anual del Plan de Mane
 ###### ARTICULO 207-B.
 
 (DEROGADO, P.O. 4 DE DICIEMBRE DE 2013)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 207-C.
 
@@ -8821,33 +8835,57 @@ A. Los derechos por los servicios que presta en materia de educación se pagará
 
 TARIFA
 
-I.- Reconocimiento de validez oficial de estudios a particulares para impartir educación media Superior. 400 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II.- Reconocimiento de validez oficial de estudios a particulares para impartir educación superior. 500 S.M.G.
+I. Reconocimiento de validez oficial de estudios a particulares para impartir educación media Superior. 400 UMA.
 
-III.- Análisis y calificación para el seguimiento y control escolar en cada ciclo escolar, por alumno de bachillerato o educación superior. 4 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+II. Reconocimiento de validez oficial de estudios a particulares para impartir educación superior. 500 UMA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+III. Análisis y calificación para el seguimiento y control escolar en cada ciclo escolar, por alumno de bachillerato o educación superior. 4 UMA.
 
 Este derecho deberá pagarse dentro de los primeros veinte días de inicio de cada ciclo escolar.
 
-IV.- Refrendo y/o actualización del acuerdo de incorporación de bachillerato o educación superior. 150 S.M.G.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+IV. Refrendo y/o actualización del acuerdo de incorporación de bachillerato o educación superior. 150 UMA.
 
 Este derecho deberá pagarse dentro de los primeros veinte días de inicio de cada ciclo escolar.
 
-V.- Certificaciones de estudios de bachillerato o educación superior, por alumno. 3.50 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VI.- Exámenes extraordinarios de bachillerato o educación superior, por alumno. 1.70 S.M.G.
+V. Certificaciones de estudios de bachillerato o educación superior, por alumno. 3.50 UMA.
 
-VII.- Exámenes profesionales o de grado de bachillerato bivalente, licenciatura y posgrados. 13 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Trámite de equivalencia o revalidación de estudios de bachillerato, licenciaturas o posgrados. 12.00 S.M.G.
+VI. Exámenes extraordinarios de bachillerato o educación superior, por alumno. 1.70 UMA.
 
-IX.- Legalización de firmas y/o apostilla de documentos académicos de todos los niveles 2.00 S.M.G
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-X.- Reconocimiento de validez oficial de estudios a particulares para impartir educación técnica o capacitación para el trabajo 300 S.M.G.
+VII. Exámenes profesionales o de grado de bachillerato bivalente, licenciatura y posgrados. 13 UMA.
 
-XI.- Expedición de diplomas de educación técnica o capacitación para el trabajo por alumno 1.20 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XII.- Análisis y calificación para el Registro de Colegios de Profesionistas autorizados por la Secretaría de Educación. 11 S.M.G.
+VIII. Trámite de equivalencia o revalidación de estudios de bachillerato, licenciaturas o posgrados. 12.00 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+IX. Legalización de firmas y/o apostilla de documentos académicos de todos los niveles 2.00 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+X. Reconocimiento de validez oficial de estudios a particulares para impartir educación técnica o capacitación para el trabajo 300 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XI. Expedición de diplomas de educación técnica o capacitación para el trabajo por alumno 1.20 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XII. Análisis y calificación para el Registro de Colegios de Profesionistas autorizados por la Secretaría de Educación y Cultura. 11 UMA.
 
 B.- Los derechos por los servicios que presta en materia de cultura se pagarán conforme la siguiente:
 
@@ -8857,69 +8895,87 @@ I.- Por la renta de espacios pertenecientes a la Secretaría de Educación y Cul
 
 En la Zona Sur:
 
-> <small>N. DE E. VÉASE TARIFAS EN EL P.O. DEL 4 DE DICIEMBRE DE 2013, PÁGINAS 35 A LA 36.</small>
+> <small>[N. DE E. VÉASE TARIFAS EN EL P.O. DEL 4 DE DICIEMBRE DE 2013, PÁGINAS 35 A LA 36.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LAS TARIFAS EN EL P.O. DEL 15 DE DICIEMBRE DE 2016, PÁGINA 206.]</small>
 
 Cuando los espacios contemplados en la tabla antes citada, sean requeridos para eventos de carácter oficial por el Gobierno del Estado o Municipios, no se causará derecho alguno.
 
-II.- Por el uso de la casa internacional del escritor. 6.00 S.M.G. por persona.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-III.- Por cada función en cine café 0.32 S.M.G. por persona.
+II.- Por el uso de la casa internacional del escritor. 6.00 UMA por persona.
 
-IV.- Por cada función en el Teatro Constituyentes del 74 0.4 S.M.G. a 2.00 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-V.- Por cada función en la Plaza Central de la Casa de la Cultura de Cancún 0.20 S.M.G. a 2.00 S.M.G.
+III.- Por cada función en cine café 0.32 UMA por persona.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+IV.- Por cada función en el Teatro Constituyentes del 74 de 0.4 UMA a 2.00 UMA
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+V.- Por cada función en la Plaza Central de la Casa de la Cultura de Cancún de 0.20 UMA a 2.00 UMA.
 
 VI.- Por visita a los museos se cobrará de acuerdo a la siguiente tarifa:
 
 Museos Niños Adultos Extranjeros
 
-a).- Cultura Maya 0.21 S.M.G 0.42 S.M.G. 1.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- San Felipe
+a) Cultura Maya 0.21 UMA 0.42 UMA 1.00 UMA
 
-de Bacalar 0.21 S.M.G. 0.42 S.M.G. 1.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-c).- Guerra de Castas 0.10 S.M.G. 0.21 S.M.G. 1.00 S.M.G.
+b) San Felipe de Bacalar 0.21 UMA 0.42 UMA 1.00 UMA
 
-d).- De la Ciudad 0.10 S.M.G. 0.21 S.M.G. 1.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-Las tarifas contempladas en la tabla anterior, serán reducidas en un 50%, para estudiantes con credencial vigente, y para las personas con credencial del INSEN a excepción de extranjeros, de lunes a sábado, salvo los días domingo que estarán exentos de pago los visitantes que residan en el Estado.
+c) Guerra de Castas 0.10 UMA 0.21 UMA 1.00 UMA
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+d) De la Ciudad 0.10 UMA 0.21 UMA 1.00 UMA
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+Las tarifas contempladas en la tabla anterior, serán reducidas en un 50%, para estudiantes con credencial vigente, y para las personas con credencial del Instituto Nacional de las Personas Adultas Mayores a excepción de extranjeros, de lunes a sábado, salvo los días domingo que estarán exentos de pago los visitantes que residan en el Estado.
 
 VII.- Por el acceso a la educación que imparten las escuelas estatales, se cobrará de acuerdo a la siguiente tarifa:
 
 Por inscripción Por mensualidad
 
-a).- De música Carrera: 2.60 S.M.G. Carrera 2.60 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-Taller: 0.57 S.M.G. Taller 1.44 S.M.G.
+a) De música Carrera: 2.60 UMA. Carrera 2.60 UMA.
 
-hasta 3.0 S.M.G. hasta 5.00 S.M.G.
+Taller: 0.57 UMA Taller 1.44 UMA
 
-b).- De danza De 0.87 S.M.G. hasta De 1.44 S.M.G. hasta
+hasta 3.0 UMA. hasta 5.00 UMA.
 
-3.00 S.M.G. 5.00
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-c).- De artes
+b) De danza De 0.87 UMA hasta De 1.44 UMA hasta
 
-plásticas 1.00 S.M.G. Taller de dibujo y pintura
+3.00 UMA. 5.00 UMA.
 
-1.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.00 S.M.G. Artes plásticas 2.00
+c) De artes plásticas 1.00 UMA. Taller de dibujo y pintura
 
-S.M.G.
+1.00 UMA.
 
-1.00 S.M.G. Taller juvenil de teatro
+2.00 UMA. Artes plásticas 2.00 UMA.
 
-1.00 S.M.G.
+1.00 UMA. Taller juvenil de teatro 1.00 UMA
 
 EXENTO Curso avanzado de
 
 artes plásticas 1.73
 
-S.M.G. hasta 6.00
+UMA hasta 6.00 UMA
 
-S.M.G por trimestre.
+por trimestre.
 
 VIII.- Por el acceso a la educación que imparten las casas de la cultura en el Estado, se cobrará de acuerdo a la siguiente tarifa:
 
@@ -8927,21 +8983,21 @@ ZONA NORTE
 
 Por inscripción Por mensualidad
 
-a).- En Cancún De 0.92 hasta 3.00 De 1.27 S.M.G. hasta
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-S.M.G. 13.00 S.MG.
+a) En Cancún De 0.92 UMA hasta 3.00 UMA. De 1.27 UMA hasta 13.00 UMA.
 
-b).- En Cozumel De 0.87 hasta 3.00 De 1.58 S.M.G. hasta
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-S.M.G. 7.00 S.MG.
+b) En Cozumel De 0.87 UMA hasta 3.00 UMA. De 1.58 UMA hasta 7.00 UMA.
 
-c).- En Tulum De 0.28 hasta 3.00 De 0.28 S.M.G. hasta
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-S.M.G. 7.00 S.MG.
+c) En Tulum De 0.28 UMA hasta 3.00 UMA. De 0.28 UMA hasta 7.00 UMA.
 
-d).- En Kantunilkin EXENTO EXENTO
+d) En Kantunilkin EXENTO EXENTO
 
-e).- En Holbox EXENTO EXENTO
+e) En Holbox EXENTO EXENTO
 
 En lo relativo a la impartición de los talleres de Lengua Maya, la Secretaría de Educación y Cultura deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
 
@@ -8949,9 +9005,11 @@ ZONA SUR
 
 Por inscripción Por mensualidad
 
-a).- En Chetumal De 0.45 hasta De 0.90 hasta 3.00
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2.00 S.M.G. S.M.G.
+a).- En Chetumal De 0.45 UMA hasta De 0.90 UMA hasta
+
+2.00 UMA. 3.00 UMA.
 
 b).- En Calderitas EXENTO EXENTO
 
@@ -8967,15 +9025,13 @@ g).- Nicolás Bravo EXENTO EXENTO
 
 Con respecto a las tarifas de la tabla anterior, la Secretaría de Educación y Cultura deberá contemplar espacios disponibles de manera gratuita, a favor de personas mexicanas que residan en el Estado.
 
-IX.- Por el acceso a los cursos de verano que se imparten en la Casa de la Cultura de la Ciudad de Cancún de 2.64 S.M.G. hasta 26.64 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IX.- Por el acceso a los cursos de verano que se imparten en la Casa de la Cultura de la Ciudad de Cancún de 2.64 UMA hasta 26.64 UMA.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO XIX-A. SERVICIOS QUE OTORGA LOS SERVICIOS EDUCATIVOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2012)</small>
 
@@ -8985,33 +9041,57 @@ H BIS.- Los derechos por los servicios que presta el organismo descentralizado d
 
 TARIFA
 
-I.- Análisis y calificación para la autorización a particulares para impartir Educación Preescolar, Primaria y Secundaria. 350 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II.- Análisis y calificación para la autorización a particulares para impartir Educación Normal 500 S.M.G.
+I.- Análisis y calificación para la autorización a particulares para impartir Educación Preescolar, Primaria y Secundaria. 350 UMA.
 
-III.- Análisis y calificación para el seguimiento y control escolar a particulares que imparten educación preescolar, primaria, secundaria y normal, en cada ciclo escolar, por alumno. 1.50 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+II.- Análisis y calificación para la autorización a particulares para impartir Educación Normal 500 UMA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+III.- Análisis y calificación para el seguimiento y control escolar a particulares que imparten educación preescolar, primaria, secundaria y normal, en cada ciclo escolar, por alumno. 1.50 UMA.
 
 Este derecho deberá pagarse en los Servicios Educativos del Estado de Quintana Roo dentro de los primeros 20 días de inicio de cada ciclo escolar.
 
-IV.- Refrendo y/o Actualización del acuerdo de incorporación a particulares que imparten educación preescolar, primaria, secundaria y normal, en cada ciclo escolar. 60 S.M.G.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+IV.- Refrendo y/o Actualización del acuerdo de incorporación a particulares que imparten educación preescolar, primaria, secundaria y normal, en cada ciclo escolar. 60 UMA.
 
 Este derecho deberá pagarse en los Servicios Educativos del Estado de Quintana Roo dentro de los primeros 20 días de inicio de cada ciclo escolar.
 
-V.- Certificaciones de estudios de educación primaria, secundaria y normal, por alumno. 1.40 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VI.- Exámenes extraordinarios de regularización de educación secundaria y normal, por asignatura. 1.50 S.M.G.
+V.- Certificaciones de estudios de educación primaria, secundaria y normal, por alumno. 1.40 UMA.
 
-VII.- Evaluación General de Conocimientos de educación primaria y secundaria, por alumno. 6.50 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Exámenes Profesionales de educación normal, por alumno. 50 S.M.G.
+VI.- Exámenes extraordinarios de regularización de educación secundaria y normal, por asignatura. 1.50 UMA.
 
-IX.- Revalidación de Estudios de educación primaria y secundaria 4.50 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-X.- Equivalencia de Estudios de Secundaría 8 S.M.G.
+VII.- Evaluación General de Conocimientos de educación primaria y secundaria, por alumno. 6.50 UMA.
 
-XI.-. Expedición de Constancia de registro de Control Escolar 1 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XII.- Reposición de Cartillas de Educación Básica. 1.00 S.M.G.
+VIII.- Exámenes Profesionales de educación normal, por alumno. 50 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+IX.- Revalidación de Estudios de educación primaria y secundaria 4.50 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+X.- Equivalencia de Estudios de Secundaría 8 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XI.- Expedición de Constancia de registro de Control Escolar 1 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XII.- Reposición de Cartillas de Educación Básica. 1.00 UMA.
 
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2001)</small>
 
@@ -9033,27 +9113,39 @@ Por llevar a cabo el control, vigilancia y evaluación de los recursos que se re
 
 Quienes soliciten los servicios de la Dirección General de Notarías, pagarán un derecho conforme a lo siguiente:
 
-I. Por la expedición del segundo o ulterior testimonio de Escrituras Públicas o Actas Notariales. 30 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II. Por la expedición de constancias. 5.75 S.M.G.
+I. Por la expedición del segundo o ulterior testimonio de Escrituras Públicas o Actas Notariales. 30 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+II. Por la expedición de constancias. 5.75 UMA.
 
 III. La expedición de copias certificadas, causará los derechos conforme a lo siguiente:
 
-a) Por la primera hoja 4.03 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Por cada hoja excedente 1.73 S.M.G.
+a) Por la primera hoja 4.03 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+b) Por cada hoja excedente 1.73 UMA.
 
 > <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
 
 IV.- Por la expedición de copias simples, causará los derechos conforme lo siguiente:
 
-a) Por la primera hoja 0.5 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Por cada hoja excedente 0.06 S.M.G.
+Por la primera hoja 0.5 UMA.
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-V.- Por la búsqueda en el Archivo de la Dirección General de Notarías de escrituras públicas, actas notariales, documentos que integran el apéndice y testamentos, por cada instrumento 5.75 S.M.G.
+Por cada hoja excedente 0.06 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+V.- Por la búsqueda en el Archivo de la Dirección General de Notarías de escrituras públicas, actas notariales, documentos que integran el apéndice y testamentos, por cada instrumento 5.75 UMA.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
 
@@ -9061,57 +9153,61 @@ V.- Por la búsqueda en el Archivo de la Dirección General de Notarías de escr
 
 Los notarios públicos o quienes ejerzan sus funciones, pagarán un derecho:
 
-I. Por la autorización de cada libro del protocolo 18 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II. Por la autorización de 200 fojas foliadas del protocolo abierto especial 18 S.M.G.
+I. Por la autorización de cada libro del protocolo 18 UMA.
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-III. Por el registro del sello de los Notarios Públicos Titulares y/o Suplentes. 6 S.M.G.
+II. Por la autorización de 200 fojas foliadas del protocolo abierto especial. 18 UMA.
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IV. Por la reposición de sello de las Notarías Públicas 6 S.M.G.
+III. Por el registro del sello de los Notarios Públicos Titulares y/o suplentes. 6 UMA.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+IV. Por la reposición de sello de las Notarías Públicas 6 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 207-L.
 
-Por registro de patente de notario público pagará 75 S.M.G.
+Por registro de patente de notario público pagará 75 UMA.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO XXII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE VINCULACION
+### CAPITULO XXII. DE LOS SERVICIOS QUE PRESTA LA UNIDAD DE TRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES
 
-ADICIONADO, P.O. 16 DE DICIEMBRE DE 2005)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 207-M.
 
 Por los materiales que se utilicen para reproducir la información que proporcionen los sujetos obligados de naturaleza estatal, previstos en la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, pagarán un derecho conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-I.- Por la expedición de documentos en copia simple 0.011 S.M.G. por cada foja tamaño carta y 0.012 S.M.G. por cada foja en tamaño oficio y legal.
+I. Por la expedición de documentos en copia simple 0.011 UMA por cada foja tamaño carta y 0.012 UMA por cada foja en tamaño oficio y legal.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II.- Por la expedición de copias simples de planos geográficos o arquitectónicos que por sus características y dimensiones no puedan reproducirse en papel tamaño carta, oficio o legal, 0.83 S.M.G. por cada foja de tamaño especial.
+II. Por la expedición de copias simples de planos geográficos o arquitectónicos que por sus características y dimensiones no puedan reproducirse en papel tamaño carta, oficio o legal, 0.83 UMA por cada foja de tamaño especial.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-III.- Por la expedición de videocintas 2.00 S.M.G. por cada una.
+III. Por la expedición de videocintas 2.00 UMA por cada una.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IV.- Por la expedición de audiocasettes 0.5 S. M. G por cada uno.
+IV. Por la expedición de audiocasettes 0.5 UMA por cada uno.
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-V.- Por la expedición de disco compacto 0.5 S. M. G. por cada uno.
+V. Por la expedición de disco compacto 0.5 UMA por cada uno.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-Tratándose de lo dispuesto en las fracciones III, IV y V, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Vinculación que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
+Tratándose de lo dispuesto en las fracciones III, IV y V, no se realizará cobro alguno, cuando el solicitante presente ante la Unidad de Transparencia que corresponda, el material señalado en esas fracciones o cualquier otro que se requiera para la reproducción de la información solicitada.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -9145,17 +9241,17 @@ Para el envío de documentos o de material que contenga información a través d
 
 TARIFA
 
-I.- Por la Inscripción anual al Padrón de contratistas del Estado de Quintana Roo: 15 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II.- Por concepto de renovación de la inscripción: 10 S.M.G.
+I. Por la Inscripción anual al Padrón de contratistas del Estado de Quintana Roo 15 UMA.
 
-> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+II. Por concepto de renovación de la inscripción 10 UMA
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE OCTUBRE DE 2010)</small>
 
 ### CAPITULO XXV. DE LOS SERVICIOS QUE OTORGAN LAS AUTORIDADES LABORALES DEL ESTADO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2010)</small>
 
@@ -9165,21 +9261,21 @@ Los derechos por los servicios que prestan las autoridades laborales del Estado,
 
 TARIFA
 
-I.- Constancia de permiso para trabajar a menores de edad 1 S.M.G
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II.- Por la expedición de documentos en copia simple 0.011 S.M.G por cada foja tamaño carta y 0.012 S.M.G por cada foja en tamaño oficio y legal.
+I. Constancia de permiso para trabajar a menores de edad 1 UMA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+II. Por la expedición de documentos en copia simple 0.011 UMA por cada foja tamaño carta y 0.012 UMA por cada foja en tamaño oficio y legal.
 
 En la expedición de copias simples, el cobro a que se refiere la fracción I se realizará únicamente cuando la reproducción de información exceda diez fotocopias.
 
 III.- Por la expedición de copias certificadas, independientemente del número de fotocopias, además del precio de la copia a que se refiere la fracción II de este artículo, se realizará el pago a que se refiere la fracción IV del Artículo 188 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ### CAPITULO XXVI. DEL REGISTRO ESTATAL DE PERITOS VALUADORES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
@@ -9189,9 +9285,9 @@ Los derechos por los servicios que prestan la Secretaría de Gobierno, relaciona
 
 T A R I F A:
 
-a).- Por inscripción y refrendo
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-en el registro 25.00 S.M.G.
+a) Por inscripción y refrendo en el registro 25.00 UMA.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -9203,65 +9299,65 @@ en el registro 25.00 S.M.G.
 
 Por los servicios que presta la Secretaría de Finanzas y Planeación, se causarán los siguientes derechos:
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a) Por expedición de historial de pagos 2 veces el S.M.G.
+a) Por expedición de historial de pagos 2 veces la UMA.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Por el registro de autorización para la apertura de casa de empeño o préstamo 130 S.M.G
+b) Por el registro de autorización para la apertura de casa de empeño o préstamo 130 UMA.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-c) Por la renovación anual del registro de autorización para la apertura de casa de empeño o préstamo 110 S.M.G.
+c) Por la renovación anual del registro de autorización para la apertura de casa de empeño o préstamo 110 UMA.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d) Por modificaciones al registro de autorización para la apertura de casa de empeño o préstamo 110 S.M.G
+d) Por modificaciones al registro de autorización para la apertura de casa de empeño o préstamo 110 UMA.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-e) Por la búsqueda de registro vehicular en otras Entidades Federativas 2 S.M.G
+e) Por la búsqueda de registro vehicular en otras Entidades Federativas 2 UMA.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-f) Por la verificación para el trámite de Licencia de Bebidas Alcohólicas 4 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+f) Por la verificación para el trámite de Licencia de Bebidas Alcohólicas 4 UMA.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 ### CAPITULO XXVIII. DE LOS SERVICIOS PRESTADOS POR EL CENTRO ESTATAL DE EVALUACION Y CONTROL DE CONFIANZA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 207-R.
 
-Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confianza, consistente en la aplicación de la Evaluación de Control de Confianza, se causará un derecho de 88 S.M.G. por persona.
+Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confianza, consistente en la aplicación de la Evaluación de Control de Confianza, se causará un derecho de 88 UMA por persona.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO XXIX. POR SERVICIOS QUE PRESTA LA PROCURADURIA GENERAL DE JUSTICIA
+### CAPITULO XXIX. POR LOS SERVICIOS QUE PRESTA LA FISCALIA GENERAL DEL ESTADO DE QUINTANA ROO
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 207-S.
 
-Por los servicios que presta la Procuraduría General de Justicia del Estado de Quintana Roo, se causarán derechos conforme a la siguiente:
+Por los servicios que presta la Fiscalía General del Estado de Quintana Roo, se causarán derechos conforme a la siguiente:
+
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 TARIFA
 
-I.- Expedición de certificados de antecedentes penales 2.44 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+I. Expedición de certificados de antecedentes penales 2.44 UMA.
 
-II.- Acta Certificada de extravío de documentos oficiales 10 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+II. Acta Certificada de extravío de documentos oficiales 10 UMA.
 
-III.- Examen antidoping 6.00 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+III. Examen antidoping 6.00 UMA.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -9273,11 +9369,17 @@ III.- Examen antidoping 6.00 S.M.G.
 
 Por los servicios que otorga la Secretaría de Seguridad Pública, causarán los siguientes derechos:
 
-a) Por el análisis y calificación para el registro y autorización anuales para el funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 260 S.M.G.;
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Por el análisis y calificación para la renovación anual del registro de funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 180 S.M.G; y
+a) Por el análisis y calificación para el registro y autorización anuales para el funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 260 UMA;
 
-c) La expedición de certificados de antecedentes penales 2.44 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+b) Por el análisis y calificación para la renovación anual del registro de funcionamiento de las empresas o particulares que presten servicios de seguridad privada, se causará un derecho de 180 UMA; y
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+c) La expedición de certificados de antecedentes penales 2.44 UMA.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES EN LA SECCIÓN PRIMERA DEL CAPÍTULO XXXI], P.O. 29 DE ABRIL DE 2016)</small>
 
@@ -9297,11 +9399,17 @@ Son sujetos de este derecho, las personas físicas o morales que requieran y sol
 
 Este derecho se causará y pagará en las oficinas recaudadoras de rentas correspondientes o a través de los depósitos o transferencias bancarias en las cuentas que determine la Secretaría de Finanzas y Planeación del Gobierno del Estado, al día hábil siguiente a la firma del convenio o en las fechas que se establezcan en los contratos, por la prestación de los siguientes servicios y la correspondiente tarifa:
 
-I. Por el servicio de vigilancia especial de instalaciones por el tiempo de doce horas diarias, se causará por cada elemento la cantidad de 12.4 SMG, pagaderos en términos de lo establecido en los contratos que se suscriban;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II. Por el servicio de protección de personas por el tiempo de doce horas diarias se causará por cada elemento, la cantidad de 25.0 SMG, pagaderos en términos de lo establecido en los contratos que se suscriban.
+I. Por el servicio de vigilancia especial de instalaciones por el tiempo de doce horas diarias, se causará por cada elemento la cantidad de 12.4 UMA, pagaderos en términos de lo establecido en los contratos que se suscriban;
 
-III. Por el servicio de custodia de transporte, se causará por elemento de que se disponga, la cantidad de 1.0 SMG, por cada 3 kilómetros de recorrido.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+II. Por el servicio de protección de personas por el tiempo de doce horas diarias se causará por cada elemento, la cantidad de 25.0 UMA, pagaderos en términos de lo establecido en los contratos que se suscriban.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+III. Por el servicio de custodia de transporte, se causará por elemento de que se disponga, la cantidad de 1.0 UMA, por cada 3 kilómetros de recorrido.
 
 > <small>(REFORMADO Y REUBICADO [N. DE E. ANTES EN LA SECCIÓN PRIMERA DEL CAPÍTULO XXXI], P.O. 29 DE ABRIL DE 2016)</small>
 
@@ -9315,19 +9423,11 @@ Las personas físicas o morales que requieran del Servicio Especial de Vigilanci
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 29 DE ABRIL DE 2016, PÁGINA 3.]</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 15 DE DICIEMBRE DE 2015)</small>
-
 #### SECCIÓN PRIMERA. DE LOS SERVICIOS ESPECIALES DE VIGILANCIA
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN SEGUNDA. DE LOS SERVICIOS DEL PERIÓDICO OFICIAL DEL ESTADO
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -9339,61 +9439,107 @@ I. Inserción de publicaciones
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINA 251.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINA 214.]</small>
+
 Los costos anteriores aumentarán en un 20% en caso de que los gráficos, mapas o planos se publiquen a color.
 
 II. Suscripciones
 
-a) Anual 24 números ordinarios 20 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Semestral 12 números ordinarios 13 S.M.G.
+a) Anual 24 números ordinarios 20 UMA.
 
-c) Anual vía internet 24 números ordinarios 9.62 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d) Semestral vía internet 12 números ordinarios 6.73 S.M.G.
+b) Semestral 12 números ordinarios 13 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+c) Anual vía internet 24 números ordinarios 9.62 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+d) Semestral vía internet 12 números ordinarios 6.73 UMA
 
 III. Venta de ejemplares
 
-a) Ejemplar de hasta 8 hojas 1 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Ejemplar de 9 hasta 100 hojas 1.50 S.M.G.
+a) Ejemplar de hasta 8 hojas 1 UMA.
 
-c) Ejemplar de 101 hasta 200 hojas 4.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d) Ejemplar de más de 200 hojas 9.00 S.M.G.
+b) Ejemplar de 9 hasta 100 hojas 1.50 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+c) Ejemplar de 101 hasta 200 hojas 4.00 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+d) Ejemplar de más de 200 hojas 9.00 UMA.
 
 e) Ejemplar vía Internet:
 
-1. Hasta de 5 hojas 0.98 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-2. De 6 a 100 hojas 0.96 S.M.G.
+1. Hasta de 5 hojas 0.98 UMA.
 
-3. De más de 100 hojas 0.50 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+2. De 6 a 100 hojas 0.96 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+3. De más de 100 hojas 0.50 UMA.
 
 IV. Otros servicios
 
-a) Búsqueda de publicación 1.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Certificación de ejemplares agotados 1.00 S.M.G.
+a) Búsqueda de publicación 1.00 UMA.
 
-c) Certificación de inexistencia de ejemplares 1.00 S.M.G
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+b) Certificación de ejemplares agotados 1.00 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+c) Certificación de inexistencia de ejemplares 1.00 UMA.
 
 V. Servicios notariales
 
-a) Autorización de Licencias 42.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b) Revocación de Licencias 42.00 S.M.G.
+a) Autorización de Licencias 42.00 UMA.
 
-c) Designación de Notario Suplente 42.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-d) Designación de Notario Auxiliar 42.00 S.M.G.
+b) Revocación de Licencias 42.00 UMA.
 
-e) Cambio de domicilio 32.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-f) Cambio de adscripción 53.00 S.M.G.
+c) Designación de Notario Suplente 42.00 UMA.
 
-g) Extracto de la solicitud de devolución de fianza 32.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-h) Aviso de inicio de funciones, sea titular, suplente 42.00 S.M.G.
+d) Designación de Notario Auxiliar 42.00 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+e) Cambio de domicilio 32.00 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+f) Cambio de adscripción 53.00 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+g) Extracto de la solicitud de devolución de fianza 32.00 UMA.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+h) Aviso de inicio de funciones, sea titular, suplente 42.00 UMA.
 
 o auxiliar
 
@@ -9413,17 +9559,23 @@ Por los servicios que presta la Secretaría de Desarrollo Urbano y Vivienda, cau
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-I. Por la elaboración de dictamen de procedencia de cesión de derechos y obligaciones contractuales 8.47 S.M.G.
+I. Por la elaboración de dictamen de procedencia de cesión de derechos y obligaciones contractuales 8.47 UMA;
 
-II. Por expedición de constancia de situación administrativa, financiera y jurídica 4.59 S.M.G;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-III. Por deslinde de terrenos 0.052 S.M.G por metro cuadrado;
+II. Por expedición de constancia de situación administrativa, financiera y jurídica 4.59 UMA;
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+III. Por deslinde de terrenos 0.52 UMA por metro cuadrado;
 
 IV. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2014)
 
-V. Por elaboración de croquis 2.75 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+V. Por elaboración de croquis 2.75 UMA.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -9431,11 +9583,17 @@ V. Por elaboración de croquis 2.75 S.M.G.
 
 BIS.- Por los servicios que presta la Secretaría de Desarrollo Urbano y Vivienda en materia de operaciones inmobiliarias, se causarán derechos en base a la siguiente tarifa:
 
-I. Por el análisis y resolución para la expedición de la Acreditación de Profesional Inmobiliario 130 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II. Por el análisis y resolución para la inscripción a la matrícula de profesionales Inmobiliarios 25 S.M.G.
+I. Por el análisis y resolución para la expedición de la Acreditación de Profesional Inmobiliario 130 UMA.
 
-III. Por el análisis y resolución de la renovación anual de la Acreditación de profesional inmobiliario 25 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+II. Por el análisis y resolución para la inscripción a la matrícula de profesionales inmobiliarios 25 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+III. Por el análisis y resolución de la renovación anual de la Acreditación de profesional inmobiliario 25 UMA.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -9449,29 +9607,53 @@ Por el uso de las Unidades de Servicio establecidas por la Secretaría de Turism
 
 TARIFA
 
-I. En Cobá. 0.47 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II. En Chacchoben. 0.37 S.M.G.
+I. En Cobá 0.47 UMA.
 
-III. En Dzibanché – Kinichná. 0.37 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IV. En El Meco. 0.34 S.M.G.
+II. En Chacchoben 0.37 UMA.
 
-V. En El Rey. 0.34 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VI. En Kohunlich. 0.45 S.M.G.
+III. En Dzibanché – Kinichná 0.37 UMA.
 
-VII. En Muyil. 0.29 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VIII. En Oxtankah. 0.34 S.M.G.
+IV. En El Meco 0.34 UMA.
 
-IX. En San Gervasio. 0.37 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-X. En San Miguelito. 0.47 S.M.G.
+V. En El Rey 0.34 UMA.
 
-XI. En Tulum. 0.47 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XII. En Xelhá. 0.34 S.M.G.
+VI. En Kohunlich 0.45 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+VII. En Muyil 0.29 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+VIII. En Oxtankah 0.34 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+IX. En San Gervasio 0.37 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+X. En San Miguelito 0.47 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XI. En Tulum 0.47 UMA.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XII. En Xelhá 0.34 UMA.
 
 No pagarán el derecho a que se refiere este artículo las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, así como los pasantes o investigadores que cuenten con permiso del Instituto Nacional de Antropología e Historia, para realizar estudios afines a las zonas arqueológicas a que se refiere este artículo. Asimismo, estarán exentos del pago de este derecho los visitantes nacionales y extranjeros residentes en los Estados Unidos Mexicanos, los domingos.
 
@@ -9517,13 +9699,9 @@ El titular del Poder Ejecutivo emitirá mediante acuerdo o decreto los lineamien
 
 Todo ciudadano tiene derecho a solicitar sin perjuicio de terceros, que se le venda un lote de terreno del fundo legal de las poblaciones del Estado. El título definitivo se expedirá por el Gobierno del Estado una vez que el interesado haya llenado los requisitos que señalen las disposiciones reglamentarias respectivas y previo pago del valor que determine el avalúo que practique la Dirección de Catastro.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN TERCERA
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 211.
 
@@ -9579,47 +9757,49 @@ Los productos no especificados en este capítulo se cobrarán conforme a las cuo
 
 TARIFA:
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a).- Por reposición de documento extraviado
+a).- Por reposición de documento extraviado inclusive licencias de funcionamiento 2.00 UMA.
 
-inclusive licencias de funcionamiento. 2.00 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- Por formato de alta y baja de vehículos. 0.50 S.M.G.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+b).- Por formato de alta y baja de vehículos 0.50 UMA.
 
 c).- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-d).- Por formatos en general. 0.0647 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+d).- Por formatos en general 0.0647 UMA.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1996)</small>
 
 e).- Por el título definitivo que se expida conforme al artículo 210 de esta ley, se cobrará de acuerdo a las siguientes bases:
 
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 VALOR DEL TERRENO TARIFA
 
-Menor de $ 3,000.00 hasta 10 S.M.G.
+Menor de $ 3,000.00 hasta 10 UMA.
 
-De $ 3,000.00 a $ 6,000.00 hasta 20 S.M.G.
+De $ 3,000.00 a $ 6,000.00 hasta 20 UMA.
 
-Mayor de $ 6,000.00 a $ 10,000.00 hasta 40 S.M.G.
+Mayor de $ 6,000.00 a $ 10,000.00 hasta 40 UMA.
 
-Mayor de $10,000.00 a $ 20,000.00 hasta 60 S.M.G.
+Mayor de $10,000.00 a $ 20,000.00 hasta 60 UMA.
 
-Mayor de $20,000.00 en adelante hasta 100 S..M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Mayor de $20,000.00 en adelante hasta 100 UMA.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
 
 f).- Por formas impresas de:
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-1.- Acta de registro formato único sin esqueleto para los Municipios del Estado 0.3 S.M.G.
+1. Acta de registro formato único sin esqueleto para los Municipios del Estado 0.3 UMA.
 
-2.- Copia certificada formato único sin esqueleto para los Municipios del Estado 0.3 S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+2. Copia certificada formato único sin esqueleto para los Municipios del Estado 0.3 UMA.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -9689,11 +9869,11 @@ Los aprovechamientos no especificados en este título se recaudarán de conformi
 
 El cheque recibido por las autoridades fiscales que sea presentado en tiempo y no sea pagado, dará lugar al cobro del monto del cheque y a una indemnización que será como mínimo un 20% del valor de este, y se exigirá independientemente del monto del cheque y en su caso los recargos, se requerirán y cobrarán mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal que en su caso procediere.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 227-A.
 
-El notario público titular, auxiliar o suplente en funciones deberá otorgar y mantener vigente una garantía a favor del Gobierno del Estado de Quintana Roo por la cantidad de 1000 S.M.G. Dicha garantía deberá depositarse en efectivo ante la Recaudadora de Rentas de su jurisdicción y actualizarse en el mismo porcentaje en que se modifique el citado Salario Mínimo, dentro de los treinta días siguientes a la fecha en que se publique la modificación del Salario en el Diario Oficial de la Federación.
+El notario público titular, auxiliar o suplente en funciones deberán otorgar y mantener vigente una garantía a favor del Gobierno del Estado de Quintana Roo por la cantidad de 1000 veces la UMA. Dicha garantía deberá depositarse en efectivo ante la Recaudadora de Rentas de su jurisdicción y actualizarse en el mismo porcentaje en que se modifique la citada UMA, dentro de los treinta días siguientes a la fecha en que se publique la modificación de la misma en el Diario Oficial de la Federación.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -9771,9 +9951,9 @@ I.- IMPUESTOS
 
 4.- Impuesto sobre producción de Azúcar, Piloncillo, Mieles cristalizables e incristalizables.
 
-5.- A la compraventa de primera mano de Azúcar, Piloncillo, Mieles cristalizables e incristalizables.
+5.- A la compra/venta de primera mano de Azúcar, Piloncillo, Mieles cristalizables e incristalizables.
 
-6.- A la compra/venta de primera mano de productos agrícolas.
+6.- A la compraventa de primera mano de productos agrícolas.
 
 7.- Compraventa o permuta de Ganados o sus esquilmos.
 
@@ -9853,7 +10033,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO.
 
 C. PROFR. RAUL OMAR SANTANA BASTARRACHEA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 29 DE DICIEMBRE DE 1995.
 
@@ -11065,10 +11245,84 @@ QUINTO. El presente Decreto entrará en vigor a partir del 1° de Enero de 2016,
 
 P.O. 29 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 396 POR EL CUAL SE REFORMAN LOS ARTÍCULOS 207 U, 207 V, 207 W Y 207 X TRASLADANDO EL CONTENIDO DE LOS MISMOS AL CAPÍTULO XXX DENOMINADO "POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE SEGURIDAD PÚBLICA", Y SE DEROGA EL CAPÍTULO XXXI DENOMINADO "POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE GOBIERNO", TODOS DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO; Y SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 31; SE REFORMAN LAS FRACCIONES XXVIII, XXIX Y SE ADICIONA LA FRACCIÓN XXX DEL ARTÍCULO 46 TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 396 POR EL CUAL SE REFORMAN LOS ARTÍCULOS 207 U, 207 V, 207 W Y 207 X TRASLADANDO EL CONTENIDO DE LOS MISMOS AL CAPÍTULO XXX DENOMINADO “POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE SEGURIDAD PÚBLICA”, Y SE DEROGA EL CAPÍTULO XXXI DENOMINADO “POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE GOBIERNO”, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO; Y SE REFORMA LA FRACCIÓN XXIV DEL ARTÍCULO 31; SE REFORMAN LAS FRACCIONES XXVIII, XXIX Y SE ADICIONA LA FRACCIÓN XXX DEL ARTÍCULO 46 TODOS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se deberán realizar las adecuaciones correspondientes al Reglamento Interior de la Secretaría de Gobierno del Poder Ejecutivo del Estado de Quintana Roo y a las demás disposiciones reglamentarias que regulen sobre los Servicios Especiales de Vigilancia, en los términos del presente decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 028 POR EL QUE SE REFORMAN Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del 1o. de enero de 2017, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En tanto el Estado de Quintana Roo permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+I.- IMPUESTOS
+
+a) Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
+
+b) Sobre productos y rendimientos de capital de manera parcial.
+
+c) Al comercio y la industria.
+
+d) Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+e) Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+f) Sobre la compraventa de primera mano de productos agrícolas.
+
+g) Sobre compraventa o permuta de ganado o sus esquilmos.
+
+h) Sobre la cría de ganado.
+
+i) Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+j) Sobre explotación y venta de primera mano de diversos materiales para construcción.
+
+II.- DERECHOS
+
+a) Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar las excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjeta para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+b) Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro civil.
+
+2. Registro de la Propiedad y del Comercio.
+
+c) Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+d) Actos de inspección y vigilancia.
+
+e) Los conceptos a que se refieren los incisos anteriores, sin excepción alguna, en relación con las actividades o servicios que realicen o presten las personas respecto del uso, goce, explotación o aprovechamiento de bienes de dominio público en materia eléctrica, de hidrocarburos o de telecomunicaciones.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A) y B) de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes al Estado o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad del Estado y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aun cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan las características de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+TERCERO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
