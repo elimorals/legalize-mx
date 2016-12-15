@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-venta-y-consumo-de-bebidas-alcoholicas-en-el-56065"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-18"
-last_updated: "2013-12-04"
+last_updated: "2016-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56065&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Número 33 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el lunes 18 de junio de 2007.
 
@@ -34,8 +36,6 @@ QUE CONTIENE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO D
 LA HONORABLE XI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO,
 
 DECRETA
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO 306, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, TODAS LAS MENCIONES A LA COMISIÓN ESTATAL DE MEJORA REGULATORIA EN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO QUINTANA ROO O EN OTRAS DISPOSICIONES NORMATIVAS, A PARTIR DE LA VIGENCIA DEL PRESENTE DECRETO SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE LA GESTIÓN PÚBLICA.</small>
 
 LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUINTANA ROO
 
@@ -79,7 +79,9 @@ II.- La Secretaría: A la Secretaría de Finanzas y Planeación del Estado de Qu
 
 III.- Licencia de Bebidas alcohólicas: Al documento otorgado por el Ejecutivo a través de la Secretaría; por el que se concede autorización, términos y condiciones para la venta, consumo y/o distribución de bebidas alcohólicas.
 
-IV.- S.M.G.: Salario Mínimo General vigente en la Entidad.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+IV.- U.M.A.: Al valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 5.
 
@@ -122,6 +124,8 @@ VII.- Los Recaudadores de Rentas;
 VIII.- Los Jefes del Departamento de Ejecución;
 
 IX.- Los Inspectores y Notificadores - Ejecutores.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL DÉCIMO SEGUNDO TRANSITORIO DEL DECRETO 306, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2013, TODAS LAS MENCIONES A LA COMISIÓN ESTATAL DE MEJORA REGULATORIA EN LA LEY DE MEJORA REGULATORIA PARA EL ESTADO QUINTANA ROO O EN OTRAS DISPOSICIONES NORMATIVAS, A PARTIR DE LA VIGENCIA DEL PRESENTE DECRETO SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE LA GESTIÓN PÚBLICA.]</small>
 
 ###### ARTÍCULO 9.
 
@@ -183,7 +187,7 @@ Se entenderá por transferencia temporal cuando el titular de la Licencia otorgu
 
 En ambos casos, la transferencia de la Licencia de Bebidas Alcohólicas se sujetará en lo general a los alcances establecidos en esta ley, y en lo particular a lo siguiente:
 
-I.- La transferencia permanente mediante la cesión de la titularidad de la Licencia de Bebidas Alcohólicas a los padres, cónyuge, hijos o hermanos del titular será viable toda vez que el cesionario haya cumplido con lo señalado en el Artículo 14 fracción I y en el Artículo 15 fracciones I y II incisos a), b), c), d), e), f) y h). Esta transferencia no tendrá costo;
+I.- La transferencia permanente mediante la cesión de la titularidad de la Licencia de Bebidas Alcohólicas a los padres, cónyuge, hijos o hermanos del titular será viable toda vez que el cesionario haya cumplido con lo señalado en el Artículo 14 fracción I y en el Artículo 15 fracciones I y II incisos a), b), c), d), e), f) y h). Esta transferencia no tendrá costo.
 
 Adicionalmente, la Secretaría aplicará lo establecido en el Artículo 26 en sus fracciones I, II, IV, V, VI y VII.
 
@@ -197,13 +201,13 @@ III.- La transferencia permanente mediante la cesión de la titularidad de la Li
 
 Adicionalmente, la Secretaría aplicará lo establecido en el Artículo 26 en sus fracciones I, II, IV, V, VI y VII.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IV.- La transferencia temporal mediante comodato para el uso de los derechos y obligaciones que dicha licencia otorga será viable todo vez que el comodatario presente copias con firmas originales del contrato de comodato respectivo, y haya cumplido con lo señalado en los artículos 14 y 15 de la presente ley. Respecto al inciso g) del artículo 15, el comodatario deberá pagar por ejercicio fiscal total o la parte proporcional que corresponda de acuerdo a lo previsto en la ley de Hacienda del Estado de Quintana Roo. La autorización de esta transferencia temporal mediante comodato deberá de renovarse anualmente.
+IV.- La transferencia temporal mediante comodato para el uso de los derechos y obligaciones que dicha licencia otorga será autorizada, siempre y cuando presente el contrato de comodato respectivo con firmas originales, en el formato que para tal efecto establezca la Secretaría, y haya cumplido con lo señalado en los artículos 14 y 15 de la presente ley. Respecto al inciso g) del artículo 15, el comodatario deberá pagar por ejercicio fiscal (sic) total o la parte proporcional que corresponda de acuerdo a lo previsto en la Ley de Hacienda del Estado de Quintana Roo. La autorización de esta transferencia temporal mediante comodato deberá de renovarse anualmente. Se negará al titular de la Licencia de Bebidas Alcohólicas, la autorización de celebrar otro contrato de comodato cuando el comodatario autorizado, presente adeudo en sus obligaciones derivadas del uso y explotación de la Licencia correspondiente.
 
 Adicionalmente, la Secretaría aplicará lo establecido en el Artículo 26 en sus fracciones I, II, IV, V, VI y VII.
 
-Por consiguiente, cualquier negocio jurídico que tenga como fin lo dispuesto en este Artículo y en el Artículo 11 de la presente Ley, sin la autorización expresa de la Secretaría, estará afectado de nulidad absoluta.
+Por consiguiente, cualquier negocio jurídico que tenga como fin lo dispuesto en este Artículo y en el Artículo 11 de la presente ley, sin la autorización expresa de la Secretaría, estará afectado de nulidad absoluta.
 
 ###### ARTÍCULO 13.
 
@@ -457,6 +461,10 @@ V.- No vender, bajo ninguna circunstancia, bebidas alcohólicas a menores de 18 
 
 VI.- No permitir el consumo dentro de los límites del establecimiento en los casos de venta de bebidas alcohólicas en envase cerrado, salvo los casos que permita la ley expresamente.
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+VII.- Será responsable solidario de las contribuciones causadas por el comodatario, conforme a lo dispuesto en el Código Fiscal del Estado.
+
 ### CAPÍTULO VI. DE LA INSPECCIÓN
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
@@ -597,37 +605,45 @@ Cuando la infracción pudiera dar lugar a la revocación de la Licencia de Bebid
 
 Cuando se haya sancionado con multas a un infractor y éste gozaba de los derechos y obligaciones de una Licencia de Bebidas Alcohólicas de la cual no es titular, será responsable solidario del pago de las multas el titular de la misma.
 
-#### SECCIÓN TERCERA. DE LAS MULTAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN TERCERA. DE LAS SANCIONES
 
 ###### ARTÍCULO 41.
 
 Se aplicarán las sanciones por violaciones a la presente ley conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-I.- Multa de quinientos hasta mil días de S.M.G., al que cometa las infracciones señaladas en el artículo 32 Fracciones I, II, IV y X de esta Ley.
+I.- Multa de quinientas hasta mil veces la U.M.A., al que cometa las infracciones señaladas en el artículo 32 fracciones I, II, IV y X de esta Ley.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II.- Multa de cuatrocientos hasta ochocientos días de S.M.G., al que cometa las infracciones señaladas en el artículo 32 Fracciones V, VI, VII, VIII, XIV y XV de esta Ley.
+II.- Multa de cuatrocientas hasta ochocientas veces la U.M.A., al que cometa las infracciones señaladas en el artículo 32 fracciones V, VI, VII, VIII, XIV y XV de esta Ley.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-III.- Multa de trescientos cincuenta hasta setecientos días de S.M.G., al que cometa las infracciones señaladas en el artículo 32 Fracciones IX, XI, XVI y XVIII de esta Ley.
+III.- Multa de trescientas cincuenta hasta setecientas veces la U.M.A., al que cometa las infracciones señaladas en el artículo 32 fracciones IX, XI, XVI y XVIII de esta Ley.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-IV.- Multa de doscientos hasta seiscientos días de S.M.G., al que cometa las infracciones señaladas en el artículo 32 Fracción XII de esta Ley.
+IV.- Multa de doscientas hasta seiscientas veces la U.M.A, al que cometa las infracciones señaladas en el artículo 32 fracción XII de esta Ley.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-V.- Multa de cien hasta cuatrocientos días de S.M.G., al que cometa las infracciones señaladas en el artículo 32 Fracción XVII de esta Ley.
+V.- Multa de cien hasta cuatrocientas veces la U.M.A., al que cometa las infracciones señaladas en el artículo 32 fracción XVII de esta Ley.
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VI.- Multa de quince hasta cien días de S.M.G., al que cometa las infracciones señaladas en el artículo 32 Fracciones III, XIII y XIX de esta Ley.
+VI.- Multa de quince hasta cien veces la U.M.A., al que cometa las infracciones señaladas en el artículo 32 fracciones III, XIII y XIX de esta Ley.
 
-Las multas establecidas en las fracciones anteriores, se impondrán sin perjuicio de las demás sanciones que esta Ley disponga.
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+VII.- Se negará al titular de la Licencia de Bebidas Alcohólicas la explotación o autorización para la celebración de un nuevo contrato de comodato, cuando el comodatario autorizado presente adeudo en sus obligaciones por el uso y explotación de la Licencia correspondiente.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+Las sanciones establecidas en las fracciones anteriores, se impondrán sin perjuicio de las demás que esta ley disponga.
 
 #### SECCIÓN CUARTA. DE LA CLAUSURA
 
@@ -998,3 +1014,11 @@ P.O. 4 DE DICIEMBRE DE 2013.
 PRIMERO.- El presente decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Se dejan sin efecto todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 15 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 031 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1o. de enero de 2017, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
