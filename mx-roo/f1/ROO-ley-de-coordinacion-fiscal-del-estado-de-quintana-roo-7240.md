@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-coordinacion-fiscal-del-estado-de-quintana-roo-7240"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "2016-11-03"
+last_updated: "2016-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 31 de diciembre 1993.
 
@@ -71,193 +73,25 @@ V.- Fijar las reglas de colaboración administrativa, entre las autoridades fisc
 
 VI.- Señalar las bases para la adhesión de los Municipios al Sistema de Coordinación Fiscal del Estado, así como constituir los Organismos en materia de Coordinación Fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 4º.
 
-Rubros que podrán requerir y cobrar los Municipios Coordinados.
+Los Municipios que integran el Sistema de Coordinación Fiscal del Estado de Quintana Roo sólo podrán requerir y cobrar los Impuestos, Derechos, Productos y Aprovechamientos, Participaciones, Contribuciones y demás ingresos fiscales y no fiscales en los rubros y tipos, incluso clase y conceptos, establecidos en cada Ley de Ingresos municipal y en los términos de la legislación hacendaría que le sea aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO DE LEY QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+II. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2016)
 
-Los Municipios que integran el Sistema de Coordinación Fiscal del Estado de Quintana Roo, sólo podrán requerir y cobrar los Impuestos, Derechos, Productos y Aprovechamientos, Participaciones, Contribuciones y demás, de conformidad a lo dispuesto por cada Ley de Ingresos municipal y en los términos de la Ley de Hacienda de los Municipios del Estado de Quintana Roo, en los siguientes rubros:
+III. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
+IV. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2016)
 
-I.- IMPUESTOS:
+V. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2016)
 
-1.- Predial.
+VI. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-2.- Sobre Adquisición de Inmuebles.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-3.- Sobre Diversiones, video Juegos y Espectáculos Públicos.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-4.- Sobre el Uso o Tenencia de Vehículos que no consuman gasolina ni otro derivado del petróleo.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-5.- Sobre juegos permitidos, rifas y loterías.
-
-6.- Sobre solares sin construcción, sin barda o sin banquetas.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-7.- A músicos y cancioneros profesionales.
-
-8.- 15% Adicional sobre impuestos y derechos.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-II.- DERECHOS:
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-1.- De cooperación para obras públicas que realicen los Municipios.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-2.- Del Registro Civil.
-
-3.- De las certificaciones.
-
-4.- Servicios de tránsito.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-5.- Alineamientos de predios, constancias del uso del suelo, número oficial, medición de solares del fundo legal y Servicios Catastrales.
-
-6.- Panteones.
-
-7.- Licencias y refrendos de funcionamiento comercial, industrial y de servicios.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-8.- Licencias para funcionamiento de establecimientos en horas extraordinarias.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-9.- Licencias para construcción.
-
-10.- Rastro e inspección sanitaria.
-
-11.- Ocupación de la vía pública o de otros bienes de uso común.
-
-12.- Traslado de animales sacrificados en los rastros.
-
-13.- Depósito de animales en corrales municipales.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-14.- Registro y búsqueda de fierros y señales para ganado.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-15.- Expedición de certificados de vecindad, de residencia y de morada conyugal.
-
-16.- Anuncios.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-17.- Permisos para rutas de autobuses de pasajeros urbanos y suburbanos.
-
-18.- Limpieza de solares baldíos.
-
-19.- Servicios de inspección de locales comerciales e industriales.
-
-20.- Servicios de inspección y vigilancia.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-21.- Servicios y mantenimiento de alumbrado público.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-22.- Servicios de recolección, transportación, tratamiento y destino final de residuos sólidos.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-23.- Promoción y publicidad turística.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-24.- Uso de la Vía Pública o de otros bienes de uso común.
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-25.- De la verificación, control y fiscalización de obra pública.
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-26.- De los servicios que presta la Unidad de Vinculación.
-
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-27.- Otros no especificados.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-III.- PRODUCTOS:
-
-1.- Ventas o explotación de bienes muebles o inmuebles propiedad del Municipio.
-
-2.- Bienes mostrencos.
-
-3.- Papel para copias para actas del registro civil.
-
-4.- Mercados.
-
-5.- Arrendamiento, explotación, operación o enajenación de Empresas Municipales.
-
-6.- Venta de objetos recogidos por el departamento de limpia.
-
-7.- Productos diversos.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-IV.- APROVECHAMIENTOS:
-
-1.- Rezagos.
-
-2.- Recargos.
-
-3.- Multas
-
-4.- Gastos de ejecución.
-
-5.- Aprovechamientos diversos.
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-V.- PARTICIPACIONES:
-
-1.- Del Gobierno Federal.
-
-2.- Del gobierno del Estado.
-
-> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-VI.-APORTACIONES FEDERALES
-
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-VII.- OTROS INGRESOS:
-
-1.- Subsidios.
-
-2.- Transferencias del Gobierno Federal.
-
-3.- Transferencias del Gobierno del Estado.
-
-> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2006)</small>
-
-4.- Donativos; y
-
-5.- Financiamientos.
+VII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2016)
 
 ### CAPITULO II
 
@@ -267,23 +101,27 @@ DE LAS PARTICIPACIONES DE LOS MUNICIPIOS EN MATERIA DE INGRESOS FEDERALES.
 
 Municipios coordinados, términos y monto de las participaciones.
 
-El Municipio que mediante convenio se haya incorporado al Sistema de Coordinación Fiscal del Estado de Quintana Roo, participará en efectivo y sin condición alguna en la distribución de los Fondos Federales que quedarán integrados de la siguiente manera:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+El municipio que mediante convenio se haya incorporado al Sistema de Coordinación Fiscal del Estado de Quintana Roo, participará en efectivo y sin condición alguna en la distribución de las Participaciones Federales que quedarán integrados de la siguiente manera:
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+I. El 20% de las cantidades que el Estado reciba por concepto de participación del Fondo General de Participaciones, Impuesto sobre Tenencia o Uso de Vehículos, Impuesto Sobre Automóviles Nuevos, Impuesto Especial sobre Producción y Servicios, Fondo de Fiscalización y recaudación, así como del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos a los que se refiere (sic) los artículos 2° y 3°A, 4° y 6° de la Ley de Coordinación Fiscal y 14 de la Ley Federal del Impuesto Sobre Automóviles Nuevos, con base a los coeficientes para la distribución que establece el artículo 8° de esta Ley.
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 2008)</small>
 
-I.- El 20% de las cantidades que el Estado reciba por concepto de participación del Fondo General, Impuesto sobre Tenencia o Uso de Vehículos, Impuesto Sobre Automóviles Nuevos, Fondo de Fiscalización y el Impuesto Especial sobre Producción y Servicios a las que se refiere los Artículos 2º y 3ºA, 4º y 6º de la Ley de Coordinación Fiscal Federal, con base a los coeficientes para la distribución que establece el artículo 8º de esta Ley.
+II. El 20% de los cantidades que el Estado reciba por concepto de cuotas del Impuesto Especial sobre Producción y Servicios a que se refiere el artículo 4º-A de la Ley de Coordinación Fiscal, con base a los coeficientes para la distribución que establece el articulo 8º-A de esta ley.
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II.- El 20% de los cantidades que el Estado reciba por concepto de cuotas del Impuesto Especial sobre Producción y Servicios a que se refiere el artículo 4º-A de la Ley de Coordinación Fiscal, con base a los coeficientes para la distribución que establece el articulo 8º-A de esta ley.
+III. El 100% de los recursos provenientes del Fondo de Fomento Municipal y del impuesto sobre la renta que efectivamente se entere a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en las dependencias del municipio, así como en sus respectivos organismos paramunicipales, a que se refieren los artículos 2-A y 3-B de la Ley de Coordinación Fiscal.
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2008)</small>
-
-III.- El 100% de los recursos provenientes del Fondo de Fomento Municipal a que se refiere el Artículo 2ºA de la Ley de Coordinación Fiscal.
+La parte del Fondo de Fomento Municipal, procedente de la coordinación fiscal en el impuesto predial, conforme a la fórmula artículo 2-A, fracción III, b) de la Ley de Coordinación Fiscal se distribuirá a los municipios que se hayan coordinado en el impuesto predial conforme a los coeficientes para la distribución que establece el artículo 8°-B de esta Ley, el resto conforme al artículo 8°-A de esta Ley.
 
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 2008)</small>
 
-IV.- Cualquier otro tipo de participaciones que apruebe el Gobierno Federal.
+IV. Cualquier otro tipo de participaciones que apruebe el Gobierno Federal.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
@@ -295,65 +133,81 @@ Esta participación se distribuirá directamente con base en el impuesto pagado 
 
 El Municipio que opte por no incorporarse al Sistema que establece esta Ley, recibirá las participaciones Federales que le corresponda, en los términos del artículo 5.º fracción I de la presente Ley a excepción de los que se obtengan por concepto de Tenencia y uso de vehículos, para ello, la distribución de los ingresos por este concepto se hará con base a los factores que establece el artículo 8º de la misma.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 7°.
 
-El factor que a cada Municipio corresponda de los recursos que establece el artículo 5, se determinará conforme a las reglas siguientes:
+El factor que a cada Municipio corresponda para la distribución de los recursos que establece el artículo 5, se determinará conforme a las reglas siguientes:
 
-I.- Se establecerá un monto global compuesto por los recursos estimados, señalados en las fracciones I, II y III del artículo 5 de la presente Ley.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+I.- Se establecerá un monto global compuesto por los recursos estimados, señalados en el artículo 5 de la presente Ley.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 II.- La población y la Superficie Territorial, serán proporcionados en forma oficial por el I.N.E.G.I. y se sujetarán a los resultados del último censo o conteo de población y vivienda que haya publicado de manera oficial dicho Instituto en la fecha que corresponda al periodo por liquidar.
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
+
 III.- Los datos de la Recaudación del Impuesto Predial de los Municipios serán conforme a las últimas cifras que haya validado la Secretaría de Hacienda y Crédito Público para el cálculo de las participaciones.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 IV.- Los datos a que se refiere la fracción III del presente artículo, se actualizarán cada año y se usará el más actualizado del que corresponda al periodo a distribuir.
 
-V.- Los datos de los ingresos propios de cada Municipio, serán conforme a las últimas cifras de su cuenta pública y que hayan sido proporcionadas de manera oficial por la Auditoría Superior del Estado.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V.- Los datos de los ingresos propios de cada Municipio, serán conforme a las últimas cifras de su cuenta pública y que hayan sido proporcionadas de manera oficial por el Órgano de Fiscalización Superior del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 8°.
 
-Para la determinación mensual de la distribución de los recursos que establece el artículo 5, fracciones I y III de esta Ley, se tomará como base de repartición para cada municipio, el importe mensual que se les hubiere pagado en el ejercicio fiscal 2011 que se haya publicado oficialmente, si hubiere excedente se determinarán los coeficientes para su distribución de acuerdo a los siguientes factores:
+Para la determinación mensual de la distribución de los recursos que establece el artículo 5°, fracciones I, III primer párrafo y IV, de esta Ley, se tomará como base de repartición para cada municipio, el importe mensual que se les hubiere pagado en el ejercicio fiscal 2011 que se haya publicado oficialmente, si hubiere excedente se determinarán los coeficientes para su distribución de acuerdo (sic) los factores y fórmulas siguientes:
 
-I.- El 45% se distribuirá en relación directa al número de habitantes de cada Municipio.
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINA 242.]</small>
 
-II.- El 25% será distribuido en partes iguales, para cada Municipio.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+I. El 45% se distribuirá en relación directa al número de habitantes de cada Municipio; conforme a la fórmula siguiente:
+
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINAS 242 Y 243.]</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+II. El 25% será distribuido en partes iguales, para cada Municipio, conforme a la fórmula siguiente:
+
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINA 243.]</small>
 
 III. (DEROGADA, P.O. 20 DE JUNIO DE 2008)
 
-IV.- El 5% será distribuido en relación directa a la Recaudación del Impuesto Predial por Municipio.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+IV. El 5% será distribuido en relación directa a la Recaudación del Impuesto Predial por Municipio, conforme a la fórmula siguiente:
 
-V.- El 15% se distribuirá en proporción directa de la superficie territorial que le corresponda a cada Municipio.
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINAS 243 Y 244.]</small>
 
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VI.- El 10% se distribuirá en relación a los ingresos propios de cada Municipio.
+V. El 15% se distribuirá en proporción directa de la superficie territorial que le corresponda a cada Municipio, conforme a la fórmula siguiente:
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2008)</small>
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINA 244.]</small>
 
-La base para la determinación de estos coeficientes será el importe de los Fondos comprendidos en el Artículo 5°, fracción I y III de esta Ley, estimados para el Ejercicio Fiscal a que corresponda la liquidación y de acuerdo a las cifras oficiales que proporcione lo Secretaría de Hacienda y Crédito Público.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI. El 10% se distribuirá en relación a los ingresos propios de cada Municipio, conforme a la fórmula siguiente:
+
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINA 244.]</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+La base para la determinación de estos coeficientes será el importe de los Fondos comprendidos en el Artículo 5°, fracciones I, III primer párrafo y IV, de esta Ley, estimados para el Ejercicio Fiscal a que corresponda la liquidación y de acuerdo a las cifras oficiales que proporcione la Secretaría de Hacienda y Crédito Público.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
 En caso de que el monto a distribuir, sea inferior a la base señalada en el primer párrafo, se usará el porcentaje que le correspondió a cada municipio en el mismo mes del ejercicio fiscal 2011.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
-
-Tratándose de los municipios a los que por motivos de su fecha de creación no se les pueda aplicar lo dispuesto en el artículo 8 de esta ley por no tener base de repartición en los meses del ejercicio fiscal 2011 que le precedan a su creación, se le asignará como base para esos meses, el importe promedio que hayan recibido de los fondos comprendidos en el artículo 5 fracciones I y III de esta Ley durante el número de meses transcurridos desde su creación y hasta el cierre del ejercicio fiscal 2011.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -363,23 +217,37 @@ Los ajustes y demás compensaciones de los fondos que se reciban de la Federaci�
 
 ARTICULO 8ºA.- La determinación de los coeficientes para la distribución de los recursos que establece el artículo 5º fracción II de esta Ley, será de acuerdo a los siguientes factores:
 
-I. El 70 % se distribuirá en relación directa al número de habitantes de cada Municipio.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-II. El 13.8% será distribuido en partes iguales, para cada Municipio.
+I. El 70% se distribuirá en relación directa al número de habitantes de cada Municipio; conforme a la fórmula siguiente:
+
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINA 245.]</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+II. El 13.8% será distribuido en partes iguales, para cada Municipio, conforme a la fórmula siguiente:
+
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINAS 245 Y 246.]</small>
 
 III. (DEROGADA, P.O. 20 DE JUNIO DE 2008)
 
-IV. El 2.7 % será distribuido en relación directa a la recaudación de Impuesto Predial por Municipio.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2008)</small>
+IV. El 2.7% será distribuido en relación directa a la Recaudación del Impuesto Predial por Municipio, conforme a la fórmula siguiente:
 
-V. El 8.1 % se distribuirá en proporción directa de la superficie territorial que le corresponda a cada municipio.
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINA 246.]</small>
 
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VI. El 5.4% se distribuirá en relación a los ingresos propios de cada
+V. El 8.1% se distribuirá en proporción directa de la superficie territorial que le corresponda a cada Municipio, conforme a la fórmula siguiente:
 
-Municipio.
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINAS 246 Y 247.]</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+VI. El 5.4% se distribuirá en relación a los ingresos propios de cada Municipio, conforme a la fórmula siguiente:
+
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINA 247.]</small>
 
 La base para la determinación de estos coeficientes será el importe de los fondos comprendidos en el Artículo 5º, fracción II de esta Ley, estimados para el Ejercicio Fiscal a que corresponda la liquidación y de acuerdo a las cifras oficiales que proporcione la Secretaria de Hacienda y Crédito Público.
 
@@ -387,21 +255,45 @@ La base para la determinación de estos coeficientes será el importe de los fon
 
 ARTICULO 8ºB.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2011)
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 8°-C.
+
+La determinación de los coeficientes para la distribución de los recursos que establece el artículo 5° fracción III párrafo segundo de esta Ley, será de acuerdo a los siguientes factores:
+
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINAS 247 Y 248.]</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 8°-D.
+
+Tratándose de la creación de un nuevo municipio, participará en efectivo y sin condición alguna en la distribución de los fondos federales a que refiere el artículo 5° de esta ley. El factor que a cada municipio corresponda se determinará conforme a las reglas del artículo 7° de esta ley. El procedimiento de cálculo se aplicará únicamente en el o los municipios de origen y los demás conservarán sus coeficientes de distribución de participaciones.
+
+Para la determinación mensual de la distribución de los recursos que establecen las fracciones I, III primer párrafo y IV del artículo 5° de esta ley se tomará como base de repartición el importe mensual pagado en el ejercicio fiscal 2011, que se haya publicado oficialmente. Si hubiere excedente se determinarán los coeficientes para la distribución de acuerdo a los factores previstos en el artículo 8° de esta ley.
+
+Para la determinación de los coeficientes para la distribución de los recursos que establece la fracción II y III segundo párrafo del artículo 5° de esta ley, se estará a los factores previstos en los artículos 8-A y 8-C de esta ley, respectivamente.
+
 ###### ARTICULO 9º.
 
 Liquidaciones de las participaciones.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-El Gobierno del Estado a través de la Secretaría de Finanzas y Planeación, una vez identificada la asignación mensual que le corresponde a la Entidad de los Fondos previstos en el artículo 2 y 2-A de la Ley de Coordinación Fiscal Federal, afectará mensualmente la participación que le corresponde a cada Municipio.
+El Gobierno del Estado a través de la Secretaría de Finanzas y Planeación, una vez identificada la asignación mensual que le corresponda a la Entidad del Fondo General de Participaciones y el Fondo de Fomento Municipal previstos en el artículo 2 y 2-A de la Ley de Coordinación Fiscal, determinará y trasferirá con base a los porcentajes y coeficientes de distribución ya establecidos, los importes que a cada Municipio corresponda en dicho periodo.
 
-La liquidación de los ajustes cuatrimestrales y definitivos quedarán sujetos a la normatividad establecida en el Artículo 7º de la Ley Federal en la Materia.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+La liquidación de los ajustes cuatrimestrales y definitivos quedarán sujetos a la normatividad establecida en el Artículo 7° de la Ley de Coordinación Fiscal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 10.
 
-Las participaciones a que se refiere el Artículo anterior serán cubiertas a los Municipios por el Estado, a más tardar a los diez días calendario después de haberlas recibido de la Tesorería de la Federación.
+Las participaciones a que se refiere el artículo anterior serán cubiertas a los Municipios por el Estado, a más tardar a los cinco días siguientes a aquel en que las reciba de la Tesorería de la Federación.
 
-Transcurrido el plazo de ministración de las participaciones sin que el Estado las hubiese cubierto por razones atribuibles a éste, el Municipio podrá solicitar el pago de intereses moratorios a razón a la taza de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+Transcurrido el plazo de ministración de las participaciones sin que el Estado las hubiese cubierto por razones atribuibles a este, el Municipio podrá solicitar el pago de intereses a razón a la tasa de recargos que establece el Congreso de la Unión para los casos de pago a plazos de contribuciones.
 
 El Municipio podrá solicitar y recibir del Gobierno del Estado anticipos a cuenta de participaciones, autorizándolo a deducir dicho anticipo de las participaciones que le correspondan.
 
@@ -441,17 +333,25 @@ No estarán sujetas a lo dispuesto en el primer párrafo de este artículo, las 
 
 De la Coordinación Administrativa en Materia Tributaria:
 
-Los Municipios podrán convenir con el Estado, la administración de los siguientes gravámenes:
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-I.- Impuestos.
+El Estado, por conducto de la Secretaría de Finanzas y Planeación y los municipios, podrán celebrar convenios de colaboración administrativa respecto de contribuciones e ingresos estatales y municipales, así como en materia de ingresos federales coordinados. Cuando se trate de participaciones o incentivos federales, dichos convenios deberán ser previamente autorizados por la Secretaría de Hacienda y Crédito Público. Los convenios de colaboración podrán referirse, entre otras, a los aspectos siguientes:
 
-a).- Impuesto Predial.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-b).- Traslación de dominio.
+I.- Registro de contribuyentes;
 
-II.- Derechos.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-a).- Servicios de tránsito.
+II.- Recaudación, comprobación, determinación y cobro;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+II (SIC). Administración y
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+IV. Fiscalización.
 
 En cuyo caso el Estado tendrá el porcentaje que acuerde por concepto de gastos de administración y el remanente lo destinará íntegro Patrimonio Municipal, teniendo el carácter de liquidaciones parciales provisionales, liquidándolo a más tardar quince días hábiles al cierre del mes y/o efectuando una liquidación anual, tomando en cuenta las cantidades que se hubiesen liquidado provisionalmente.
 
@@ -465,17 +365,19 @@ DE LAS REUNIONES EN MATERIA DE COORDINACION.
 
 Objetivos de los órganos de Coordinación:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-El Gobierno del Estado por conducto de la Secretaría de Finanzas y Planeación; los Ayuntamientos a través de sus Tesorerías Municipales y el Poder Legislativo por medio de su Auditoría Superior del Estado, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado y en forma conjunta integrarán la Comisión Permanente de Funcionarios Fiscales, teniendo los siguientes objetivos:
+El Gobierno del Estado por conducto de la Secretaría de Finanzas y Planeación; los Ayuntamientos a través de sus Tesorerías Municipales y el Poder Legislativo por medio del Órgano de Fiscalización Superior del Estado, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado y en forma conjunta integrarán la Comisión Permanente de Funcionarios Fiscales, teniendo los siguientes objetivos:
 
 I.- Proponer las medidas que estimen convenientes para mejorar o actualizar en su caso, el Sistema de Coordinación Fiscal del Estado de Quintana Roo.
 
 > <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-II. Vigilar la distribución y liquidación tanto de pagos provisionales como de diferencias en las participaciones anuales que formule la Secretaría de Finanzas y Planeación.
+II.- Vigilar la distribución y liquidación tanto de pagos provisionales como de diferencias en las participaciones anuales que formule la Secretaría de Finanzas y Planeación.
 
-III.- Efectuar en forma permanente estudios de la Legislatura Fiscal Municipal.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+III.- Efectuar en forma permanente estudios de la legislación fiscal municipal.
 
 IV.- Vigilar el cumplimiento de los Convenios de adhesión al Sistema de Coordinación Fiscal y de Colaboración Administrativa que celebren los Municipios con el Estado y en caso de violación a los mismos, emitir la opinión correspondiente.
 
@@ -511,43 +413,39 @@ El Ejecutivo del Estado hará la declaratoria correspondiente, mediante su publi
 
 ###### ARTICULO 18.
 
-Abstenciones para el cobro de gravámenes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2016)
 
-Los Municipios deberán abstenerse de gravar lo siguiente:
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-I.- Los hechos y objetos de los Impuestos Federales y Estatales participables.
+### CAPÍTULO V. Del Fondo para la Infraestructura Social Municipal
 
-II.- La Constitución, transformación o disolución de Sociedades Mercantiles, las modificaciones a sus estatutos y la emisión de obligaciones.
-
-III.- Los ingresos o erogaciones de comerciantes, industriales o de quienes con ellos contraten, excepto lo dispuesto en la fracción y del artículo 9º de la Ley de Impuesto al Valor Agregado.
-
-IV.- Los activos, pasivos, uso o tenencia de bienes y capitales de comerciantes o industriales, así como las utilidades que obtengan.
-
-Los Municipios no establecerán bajo ningún título, tasas adicionales, cooperaciones o contribuciones especiales.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. EL 15 DE DICIEMBRE DE 1997)</small>
-
-### CAPÍTULO V. Del Fondo de Aportación para la Infraestructura Social Municipal
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 19.
 
-Se integrará el Fondo de Aportaciones para la Infraestructura Social Municipal con los recursos que el Estado obtenga del Gobierno Federal con las ministraciones mensuales en los primeros 10 meses del año y por partes iguales, de manera ágil y directa, sin más limitaciones ni restricciones, incluyendo las de carácter administrativo; así como las correspondientes a los fines que se establecen en el artículo 20 de esta ley; sin que para este efecto procedan los anticipos a que se refiere el segundo párrafo del artículo 9º de esta ley.
+Se integrará el Fondo para la Infraestructura Social Municipal con los recursos que el Estado obtenga a favor de los municipios del Gobierno Federal de las ministraciones mensuales en los primeros 10 meses del año y por partes iguales, de manera ágil y directa, sin más limitaciones ni restricciones, incluyendo las de carácter administrativo, que las correspondientes a los fines que se establecen en el artículo 20 de esta ley; sin que para este efecto procedan los anticipos a que se refiere el segundo párrafo del artículo 9° de esta ley.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+Para efectos de este Capítulo se entenderá por Fondo para la Infraestructura Social Municipal el Fondo para la Infraestructura Municipal y de las Demarcaciones Territoriales del Distrito Federal previsto en la Ley de Coordinación Fiscal.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 20.
 
-Los recursos que se distribuyan a los municipios del Estado con cargo a Fondo de Aportaciones para la Infraestructura Social Municipal, se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones, que beneficien directamente a sectores de su población que se encuentren condiciones de rezago social y de pobreza extrema, en los siguientes rubros: agua potable; alcantarillado; drenaje y letrinas; urbanización de zonas marginadas y colonias populares; electrificación rural y de colonias pobres; infraestructura básica de salud; infraestructura básica educativa, mejoramiento de vivienda; caminos rurales; e infraestructura productiva rural.
+Los recursos que se distribuyan a los municipios del Estado con cargo al Fondo para la Infraestructura Social Municipal se destinarán exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones, que beneficien directamente a población en pobreza extrema, localidades con alto o muy alto nivel de rezago social conforme a lo previsto en la Ley General de Desarrollo Social, y en las zonas de atención prioritaria, en los siguientes rubros: agua potable; alcantarillado; drenaje y letrinas; urbanización; electrificación rural y de colonias pobres; infraestructura básica de salud y educativa, mejoramiento de vivienda; caminos rurales; así como mantenimiento de infraestructura, conforme a lo señalado en el catálogo de acciones establecido en los Lineamientos del Fondo que emita la Secretaría de Desarrollo Social.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 21.
 
-De los recursos asignados por este Fondo de Aportaciones para la infraestructura Social Municipal, se destinará un 2% para la realización de un programa de desarrollo institucional.
+De los recursos asignados por este Fondo para la Infraestructura Social Municipal, se destinará hasta un 2% para la realización de un programa de desarrollo institucional. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Desarrollo Social, el Gobierno del Estado y el municipio de que se trate. Los recursos de este programa podrán utilizarse para la elaboración de proyectos con la finalidad de fortalecer las capacidades de gestión del municipio o demarcación territorial, de acuerdo con lo señalado en el catálogo de acciones establecido en los Lineamientos del Fondo que emita la Secretaría de Desarrollo Social.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
 Los estudios y proyectos que integran este programa, podrán ser administrados en forma global o por municipio de acuerdo a las reglas que se establezcan en el seno de Comité de Planeación para el Desarrollo del Estado, previo convenio con los municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+Adicionalmente, se podrá destinar hasta el 3% de los recursos que les correspondan de este Fondo para ser aplicados a gastos indirectos para la verificación y seguimiento de las obras y acciones que se realicen, así como para la realización de estudios y la evaluación de proyectos que cumplan con los fines específicos a que se refiere el artículo 20 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
 
@@ -555,173 +453,91 @@ Los estudios y proyectos que integran este programa, podrán ser administrados e
 
 Comité de Planeación para el Desarrollo del Estado, conjuntamente con los municipios, deberán de emitir la normatividad para planear, programar, presupuestar, aprobar, operar, dar seguimiento y evaluar los recursos que se destinen a los municipios del Fondo de Aportaciones para la Infraestructura Social Municipal.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 23.
 
-De igual manera Comité de Planeación para el Desarrollo Institucional, vigilará la observancia que los municipios deberán seguir en cuanto al destino que den a dichas aportaciones, las cuales consistirán en cuando menos:
+Los municipios, en cuanto hace al destino del Fondo de Aportaciones para la Estructura Social Municipal, tendrán, cuando menos, las siguientes obligaciones:
 
-I.- Hacer del conocimiento de sus habitantes, los montos que reciban, las obras y acciones a realizar, el costo de cada una, su ubicación, metas y beneficiarios.
+I. Hacer del conocimiento de sus habitantes, a través de su página oficial de internet, conforme a los lineamientos de información pública financiera en línea del Consejo de Armonización Contable, los montos que reciban, las obras y acciones a realizar, el costo de cada una, su ubicación, metas y beneficiarios;
 
-II.- Promover la participación de las comunidades beneficiarias de su destino, aplicación y vigilancia, así como la programación, ejecución, control, seguimiento y evaluación de las obras y acciones que se vayan a realizar;
+II. Promover la participación de las comunidades beneficiarias de su destino, aplicación y vigilancia, así como la programación, ejecución, control, seguimiento y evaluación de las obras y acciones que se vayan a realizar;
 
-III.- Informar a sus habitantes, al termino de cada ejercicio, sobre los resultados alcanzados;
+III. Informar trimestralmente a sus habitantes los avances del ejercicio de los recursos y al término de cada ejercicio, sobre los resultados alcanzados, a través de su página oficial de internet, conforme a los lineamientos de información pública del Consejo Nacional de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+IV. Proporcionar, por conducto de la Secretaría de Desarrollo Social e Indígena Estatal, a la Secretaría de Desarrollo Social, la información que sobre la utilización del Fondo para la Infraestructura Social Municipal les sea requerida, y
 
-IV. Proporcionar, por conducto de la Secretaría Estatal de Desarrollo Social e Indígena a la Secretaría de Desarrollo Social, la información que sobre la utilización del Fondo de Aportaciones para la Infraestructura Social Municipal les sea requerida.
+V. Procurar que las obras que se realicen con los recursos de los fondos sean compatibles con la preservación y protección del medio ambiente y que impulsen el desarrollo sostenible.
 
-V.- Vigilar que los avances físico-financieros se cumplan de conformidad con los programas, proyectos y obras que sean financiados con recursos de este Fondo;
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-VI.- Apoyar a los Municipios en el desempeño, para alcanzar los objetivos y metas establecidas en el programa de desarrollo institucional; y
+ARTICULO 23 BIS. El Comité de Planeación para el Desarrollo del Estado en cuanto hace al cumplimiento de las obligaciones de los municipios derivado del Fondo de Aportaciones para la Estructura Social Municipal, tendrá las atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2013)</small>
+I. Vigilar que los avances físico-financieros se cumplan de conformidad con los programas, proyectos y obras que sean financiados con recursos de este Fondo;
 
-VII. En el caso de incumplimiento o desvío de lo previsto en los programas de desarrollo institucional, girar comunicación a la Secretaría de Finanzas y Planeación, a fin de que se tomen las medidas conducentes en tanto persista la anomalía detectada.
+II. Apoyar a los Municipios en el desempeño, para alcanzar los objetivos y metas establecidas en el programa de desarrollo institucional;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
+III. En el caso de incumplimiento o desvío de lo previsto en los programas de desarrollo institucional, girar comunicación a la Secretaria de Finanzas y Planeación del Estado, a fin de que se tomen las medidas conducentes en tanto persista la anomalía detectada, y
 
-VIII.- Procurar que las obras que se realicen con los recursos de los fondos sean compatibles con la preservación y protección del medio ambiente y que impulsen el desarrollo sustentable.
+IV. Las demás que se desprendan de la Ley de Planeación para el Desarrollo del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 24.
+###### ARTICULO 24.
 
-Los recursos que se integran del Fondo de Aportaciones para la Infraestructura Social Municipal serán distribuidos directamente a los municipios del Estado a través de la Secretaría de Finanzas y Planeación, considerando pobreza extrema, conforme al calendario de enteros en que el Gobierno Federal lo haga y de acuerdo a los coeficientes que tenga al desarrollar la siguiente formula y procedimiento:
+Los recursos que se integran del Fondo para la Infraestructura Social Municipal serán distribuidos directamente a los municipios del Estado a través de la Secretaría de Finanzas y Planeación, considerando la pobreza extrema, conforme al calendario de enteros en que el Gobierno Federal lo haga y de acuerdo a la fórmula siguiente:
 
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>[N. DE E. VÉASE FORMULAS EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINAS 252 Y 253.]</small>
 
-I.- Formula:
-
-IGPj = Pj1BI + Pj2B2 +Pj3B3 +Pj4B4 +Pj5B5
-
-En donde:
-
-Pjw = Brecha respecto a la forma de la pobreza extrema de la necesidad básica w para el hogar j en estudio;
-
-B1,...,5= Ponderador asociado a la necesidad básica w; y,
-
-j = Hogar en estudio
-
-Esta fórmula representa el Indice Global de Pobreza en un hogar, IGPj´ el cual se conforma con las brechas Pj1, Pj2, Pj3, Pj4, Pj5, de las necesidades básicas a que se refiere la fracción II; sus correspondientes ponderadores son B1= 0.4616, B2= 0.1250, B3= 0.2386, B4= 0.0608, B5= 0.1140.
-
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
-
-II.- Las necesidades básicas, en el orden en que aparecen en la formula anterior, son las siguientes:
-
-w1= Ingreso per cápita del hogar.
-
-w2= Nivel educativo promedio por hogar.
-
-w3= Disponibilidad de espacio de la vivienda.
-
-w4= Disponibilidad de drenaje; y
-
-w5= Disponibilidad de electricidad-combustible para cocinar.
-
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
-
-III.- Para cada hogar se estiman las cinco brechas respecto a las normas de pobreza extrema que corresponden a cada una de las necesidades básicas, con base en la siguiente formula:
-
-Pj¨= [Zw - Xjw]
-
-Zw
-
-En donde:
-
-Zw = Norma establecida para la necesidad básica w.
-
-Xjw = Valor observado en cada hogar j, para la necesidad básica w.
-
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
-
-IV.- Los resultados de cada una de estas brechas se ubican dentro de un intervalo de -0.5 a 1. Cada brecha se multiplica por los ponderadores establecidos en la fracción I de este artículo para, una vez sumadas, obtener el Indice Global de Pobreza del hogar, que se encuentra en el mismo intervalo. Cabe señalar que para los cálculos subsecuentes, solo se consideran a los hogares cuyo valor se ubique entre 0 y 1, que son aquellos de pobreza extrema.
-
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 1997)</small>
-
-V.- El valor del IGP del hogar se eleva al cuadrado para atribuir mayor peso a los hogares más pobres. Después se multiplica por el tamaño del hogar, con lo cual se incorpora el factor poblacional. Con lo anterior se conforma la Masa Carencial del Hogar, determinada por la siguiente fórmula:
-
-MCHj= IGPj2 * Tj
-
-En donde:
-
-MCHj = Masa Carencial del Hogar j;
-
-Tj= Número de miembros en el hogar j en pobreza extrema.
-
-Al sumar el valor MCH j para todos los hogares de pobreza extrema de un Municipio, se obtiene la Masa Carencial Municipal, determinada por la siguiente fórmula:
-
-En donde:
-
-jk
-
-MCMk = Masa Carencial del Municipio K;
-
-j=i
-
-En donde:
-
-MCMk = Masa Carencial del Municipio K;
-
-MCHjk = Masa Carencial del Hogar j en pobreza extrema en el Municipio K; y,
-
-JK = Número total de hogares pobres extremos en el Municipio K.
-
-Una vez determinada la Masa Carencial Municipal, se hace una agregación similar de todos los Municipios para obtener la Masa Carencial Estatal.
-
-Cada una de las masas carenciales se divide entre la Masa Carencial Estatal, MCE, para determinar la participación porcentual que del Fondo de Aportaciones para la Infraestructura social Municipal le corresponde a cada municipio, como indica la siguiente fórmula:
-
-MCMk
-
-PMk =--------------*100
-
-MCE
-
-En donde:
-
-PMk= Participación porcentual del Municipio k
-
-MCMk= Masa Carencial del Municipio k; y
-
-MCE= Masa Carencia Estatal.
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
-
-Así, la distribución del Fondo de Aportaciones para la Infraestructura Social Municipal se realiza en función de la proporción que corresponde a cada Municipio de la pobreza extrema a nivel Estatal, según lo establecido.
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 25.
 
-El carácter redistributivo de los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal entre los municipios del Estado de Quintana Roo, hace énfasis al combate a la pobreza extrema. Para coadyuvar al logro, se utiliza la información estadística, más reciente de las variables de rezago social a que se refiere el artículo anterior publicada por el Instituto Nacional de Estadística, Geografía e Informática.
+El carácter redistributivo de los recursos del Fondo para la Infraestructura Social Municipal entre los Municipios del Estado de Quintana Roo, hace énfasis al combate a la pobreza extrema. Para ello, utilizarán la información de pobreza extrema más reciente a nivel municipal, a que se refiere el artículo anterior, publicada por el Consejo Nacional de Evaluación de la Política de Desarrollo Social.
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 26.
 
-Para la implementación de la fórmula de distribución del Fondo de Aportaciones para la Infraestructura Social Municipal entre los municipios del Estado de Quintana Roo, se atenderán a las variables y fuentes de información disponibles a nivel municipal, que la Secretaría de Desarrollo Social Federal publique anualmente en los primeros quince días del ejercicio fiscal de que se trate en el Diario Oficial de la Federación.
+Para la implementación de la fórmula de distribución del Fondo para la Infraestructura Social Municipal entre los municipios del Estado de Quintana Roo, se atenderá a las variables y fuentes de información disponibles a nivel municipal, que la Secretaría de Desarrollo Social Federal publique anualmente a más tardar en los primeros diez días del ejercicio fiscal de que se trate en el Diario Oficial de la Federación.
 
-Con base a los lineamientos anteriores y previo convenio con la Secretaría de Desarrollo Social, la Secretaría Estatal de Desarrollo Social, calculará las distribuciones correspondientes a los municipios, debiendo publicarse en el Periódico Oficial del Gobierno del Estado, a más tardar el 31 de enero del ejercicio fiscal aplicable, así como la fórmula y su respectiva metodología justificando cada elemento.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+Con base a los lineamientos anteriores y previo convenio con la Secretaría de Desarrollo Social, la Secretaría de Desarrollo Social e Indígena del Estado calculará las distribuciones correspondientes a los municipios, debiendo publicarse en el Periódico Oficial del Estado, a más tardar el 31 de enero del ejercicio fiscal aplicable, así como la fórmula y su respectiva metodología justificando cada elemento.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+A más tardar el 25 de enero del ejercicio fiscal de que se trate, los convenios referidos en el párrafo anterior deberán remitirse a la Secretaría de Desarrollo Social, a través de la Secretaría de Desarrollo Social e Indígena del Estado, una vez que hayan sido suscritos, con el fin de que dicha Secretaría publique las distribuciones convenidas en términos de la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+El Estado por conducto de la Secretaría de Desarrollo Social e Indígena del Estado podrá requerir a la Secretaría de Desarrollo Social coadyuve en el cálculo de la distribución del Fondo para la Infraestructura Social Municipal correspondientes a sus municipios.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+El Estado deberá entregar a sus respectivos municipios los recursos que les corresponden conforme al calendario de enteros en que la Federación lo haga al Estado, en los términos de la Ley de Coordinación Fiscal; deberá comunicar dicho calendario a los gobiernos municipales y publicarlo por estos últimos a más tardar el día 31 de enero de cada ejercicio fiscal, en su respectivo órgano de difusión oficial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 27.
 
-El Fondo de Aportaciones para el Fortalecimiento de los Municipios se determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales, por un monto equivalente, solo para efectos de referencia, al 2.5% de la recaudación federal participable a que se refiere el articulo 2º de la Ley de Coordinación Fiscal Federal, según estimación que de la misma se realice en el propio presupuesto, en base en lo que al efecto establezca la ley de Ingresos de la Federación para ese ejercicio. Este fondo se enterará mensualmente por partes iguales a los municipios, a través del Estado, sin que para este efecto procedan los anticipos a que se refiere el segundo párrafo del artículo 9º de esta Ley.
+El Fondo de Aportaciones para el Fortalecimiento de los Municipios se determinará anualmente en el Presupuesto de Egresos de la Federación con recursos federales, por un monto equivalente, solo para efectos de referencia, al 2.35 % de la recaudación federal participable a que se refiere el artículo 2º de la Ley de Coordinación Fiscal, según estimación que de la misma se realice en el propio presupuesto, en base en lo que al efecto establezca la Ley de Ingresos de la Federación para ese ejercicio. Este fondo se enterará mensualmente por partes iguales a los municipios, a través del Estado, conforme a la variable de distribución dispuesta en el artículo 28 de esta Ley, sin que para este efecto procedan los anticipos a que se refiere el segundo párrafo del artículo 9º de esta Ley. Para efectos de este Capítulo se entenderá por Fondo de Aportaciones para el Fortalecimiento de los Municipios el Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal previsto en la Ley de Coordinación Fiscal.
 
-Las aportaciones federales que con cargo al Fondo a que se refiere este artículo reciban los Municipios a través del Estado, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto a las aportaciones que reciban con cargo a este fondo, los municipios tendrán las mismas obligaciones a que se refieren las fracciones I a III del artículo 23 de esta ley.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Las aportaciones federales que con cargo al Fondo a que se refiere este artículo reciban los Municipios a través del Estado, se destinarán exclusivamente a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras, al pago de derechos y aprovechamientos por concepto de agua, descargas de aguas residuales, a la modernización de los sistemas de recaudación locales, mantenimiento de infraestructura, y a la atención de las necesidades directamente vinculadas a la seguridad pública de sus habitantes. Respecto a las aportaciones que reciban con cargo a este fondo, los municipios tendrán las mismas obligaciones a que se refieren las fracciones I a III del artículo 23 de esta ley.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-La Unidad de Programas Coordinados Federación-Estado y la Auditoría Superior del Estado, como órgano técnico del Poder Legislativo, en el ámbito de sus respectivas facultades y competencia, serán los responsables de ejercer la vigilancia directa y constatar la correcta aplicación de los recursos que se reciban del fondo y de fincar, en su caso, las responsabilidades administrativas correspondientes.
+La Secretaría de la Gestión Pública y el Órgano de Fiscalización Superior del Estado, como órgano técnico del Poder Legislativo, en el ámbito de sus respectivas facultades y competencia, serán los responsables de ejercer la vigilancia directa y constatar la correcta aplicación de los recursos que se reciban del fondo y de fincar, en su caso, las responsabilidades administrativas correspondientes.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 28.
 
-El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, distribuirá el Fondo de Aportaciones para el Fortalecimiento de los Municipios en proporción directa al número de habitantes con que cuente el Estado, de acuerdo a la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística, Geografía e Informática.
+El titular del Poder Ejecutivo Estatal, a través de la Secretaría de Finanzas y Planeación, distribuirá el Fondo de Aportaciones para el Fortalecimiento de los Municipios en proporción directa al número de habitantes de los Municipios, de acuerdo a la información estadística más reciente que al efecto emita el Instituto Nacional de Estadística y Geografía, conforme a la fórmula siguiente:
+
+> <small>[N. DE E. VÉASE FORMULA EN EL P.O. DE 15 DE DICIEMBRE DE 2016, PÁGINAS 255 Y 256.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2016)</small>
 
@@ -1088,3 +904,77 @@ Para los efectos de coordinación con las Entidades, se considerarán derechos, 
 También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 030 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1o. de enero de 2017, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. En tanto el Estado de Quintana Roo permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+I. IMPUESTOS
+
+1. Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
+
+2. Sobre productos y rendimientos de capital de manera parcial.
+
+3. Al comercio y la industria.
+
+4. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+5. Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6. Sobre la compraventa de primera mano de productos agrícolas.
+
+7. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+8. Sobre la cría de ganado.
+
+9. Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+10. Sobre explotación y venta de primera mano de diversos materiales para construcción.
+
+II. DERECHOS
+
+A) Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Asimismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjeta para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B) Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro civil.
+
+2. Registro de la Propiedad y del Comercio.
+
+C) Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D) Actos de inspección y vigilancia.
+
+E) Los conceptos a que se refieren los incisos anteriores de esta fracción, sin excepción alguna, en relación con las actividades o servicios que realicen o presten las personas respectos (sic) del uso, goce, explotación o aprovechamiento de bienes de dominio público en materia eléctrica, de hidrocarburos o de telecomunicaciones.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A) y B) de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes al Estado o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad del Estado y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
