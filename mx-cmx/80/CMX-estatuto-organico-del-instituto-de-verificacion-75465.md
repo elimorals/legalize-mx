@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-verificacion-75465"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-01"
-last_updated: "2016-01-13"
+last_updated: "2016-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,7 @@ issue_date: "2010-06-22"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL, ORGANISMO PÚBLICO DESCENTRALIZADO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2016.
-
-> <small>N. DE E. CONTIENE LA NOTA ACLARATORIA PUBLICADA EN LA GACETA OFICIAL DEL 13 DE ENERO DE 2016.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE DICIEMBRE DE 2016.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de julio de 2010.
 
@@ -226,7 +224,9 @@ I. En la sesión que corresponda al primer trimestre del año, el Consejo Genera
 
 II. En la sesión que corresponda al segundo trimestre del año, conocer y aprobar, en su caso, el dictamen de los auditores externos a los estados financieros del ejercicio anterior, así como el informe del comisario, y
 
-III. En la sesión correspondiente al tercer trimestre del año, aprobar el anteproyecto de presupuesto y el programa operativo anual del Instituto.
+> <small>(REFORMADA, G.O. 15 DE DICIEMBRE DE 2016)</small>
+
+III. Aprobar el anteproyecto de presupuesto y el programa operativo anual del Instituto en la Sesión Ordinaria o Extraordinaria siguiente a la remisión por parte de la Secretaría de Finanzas de la información correspondiente al Techo Presupuestario, así como a los Lineamientos y formatos establecidos en el Manual de Programación-Presupuestación para la formulación del Anteproyecto de Presupuestos de Egresos.
 
 Los asuntos que revistan un carácter de urgente podrán presentarse sin haber sido previamente inscritos y se desahogarán con posterioridad a los previamente registrados.
 
@@ -500,11 +500,11 @@ XIV. Coordinar la atención de las peticiones de la Comisión de Derechos Humano
 
 XV. Suscribir medios de impugnación que se presenten ante autoridades jurisdiccionales federales y/o locales que se promuevan en contra de las resoluciones que sean adversas a los intereses del instituto.
 
-> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE DICIEMBRE DE 2016)</small>
 
-X (SIC). Coordinar el área de transparencia y las obligaciones de datos personales, a través de la Dirección de lo Consultivo y Enlace Interinstitucional;
+XVI. Solicitar la ejecución de las Suspensiones otorgadas y notificadas al Instituto por el Tribunal de lo Contencioso Administrativo de la Ciudad de México dictadas dentro de los juicios de lesividad, promovidos por la Administración Pública de la Ciudad de México.
 
-XVI. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
+XVII. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -528,7 +528,11 @@ VI. Expedir previo cotejo, copias certificadas de los documentos que obren en su
 
 VII. Requerir de acuerdo a la naturaleza de sus funciones, información y documentación a las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, los Órganos Desconcentrados y Entidades de la Administración Pública, cuando lo estime conveniente, y
 
-VIII. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
+> <small>(ADICIONADA, G.O. 15 DE DICIEMBRE DE 2016)</small>
+
+VIII. Solicitar y gestionar las actividades administrativas necesarias al interior del Instituto para dar atención a las suspensiones otorgadas por el Tribunal de lo Contencioso Administrativo de la Ciudad de México derivadas de las determinaciones dictadas dentro de los juicios de lesividad, promovidos por la Administración Pública de la Ciudad de México.
+
+IX. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
 
 #### Sección Segunda. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2015)
 
@@ -724,7 +728,11 @@ XX. Coordinar la ejecución de las notificaciones de acuerdos y resoluciones, en
 
 XXI. Coordinar la participación del Personal Especializado en Funciones de Verificación, conjuntamente con la Coordinación de Verificación al Transporte, en los operativos convocados por Gobierno Central, u otras acciones preventivas y/o previas de verificación encaminadas a velar por el cumplimiento de las normas de orden público en su ámbito competencial;
 
-XXII. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE DICIEMBRE DE 2016)</small>
+
+XXII. Ordenar la ejecución de las suspensiones otorgadas por el Tribunal de lo Contencioso Administrativo de la Ciudad de México derivadas de las determinaciones dictadas dentro de los juicios de lesividad, promovidos por la Administración Pública de la Ciudad de México previa solicitud por parte de la Coordinación Jurídica y de Servicios Legales.
+
+XXIII. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
 
 > <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
@@ -806,7 +814,11 @@ VIII. Otorgar los insumos para la publicación en la página web del Instituto, 
 
 IX. Instrumentar un programa de visitas de verificación voluntaria en las materias competencia del Instituto, e informar al visitado, las irregularidades detectadas y el plazo para subsanarlas, y
 
-X. Las demás que se determine en el Estatuto, la Ley y otros en los ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE DICIEMBRE DE 2016)</small>
+
+X. Ordenar y Ejecutar a través del Personal Especializado en Funciones de Verificación las suspensiones otorgadas por el Tribunal de lo Contencioso Administrativo de la Ciudad de México derivadas de las determinaciones dictadas dentro de los juicios de lesividad, promovidos por la Administración Pública de la Ciudad de México previa solicitud por parte de la Coordinación Jurídica y de Servicios Legales.
+
+XI. Las demás que se determine (sic) en el Estatuto, la Ley y otros en los ordenamientos aplicables.
 
 #### Sección Tercera. La Dirección de Coordinación y Supervisión de la Actividad Verificadora de las Delegaciones, es competente para:
 
@@ -1134,6 +1146,10 @@ IV. Cumplir con los requisitos a que se refiere el artículo 28 de la Ley.
 
 El personal especializado del Instituto realizará sus actos de conformidad con la Ley, el Reglamento de Verificación Administrativa del Distrito Federal, el presente Estatuto y demás disposiciones jurídicas y administrativas aplicables.
 
+> <small>(ADICIONADO, G.O. 15 DE DICIEMBRE DE 2016)</small>
+
+Asimismo, recibirá y ejecutará las suspensiones otorgadas por el Tribunal de lo Contencioso Administrativo de la Ciudad de México derivadas de las determinaciones dictadas dentro de los juicios de lesividad, promovidos por la Administración Pública de la Ciudad de México que sean ordenadas por la Coordinación de Verificación Administrativa o Dirección de Verificación de las Materias del Ámbito Central.
+
 Solo a falta de disposición expresa en la Ley y el Reglamento de Verificación Administrativa del Distrito Federal, se aplicará supletoriamente la Ley de Procedimiento Administrativo del Distrito Federal, en concordancia con el artículo 6, párrafo segundo de la Ley.
 
 ###### Artículo 31.
@@ -1231,3 +1247,11 @@ Publíquese en la Gaceta Oficial del Distrito Federal.
 ###### ARTÍCULO SEGUNDO.
 
 La presente entra en vigor al día hábil siguiente al de su publicación.
+
+G.O. 15 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO ÓRGANICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- Las presentes reformas y adiciones, entrarán en vigor al día siguiente de su publicación.
