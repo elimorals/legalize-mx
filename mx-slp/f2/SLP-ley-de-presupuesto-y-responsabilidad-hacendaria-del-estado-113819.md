@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2016-03-03"
+last_updated: "2016-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -1112,7 +1112,9 @@ Las sanciones e indemnizaciones a que se refiere la presente Ley se impondrán y
 
 PRIMERO. El artículo PRIMERO de este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Los artículos, SEGUNDO; TERCERO; Y CUARTO del presente Decreto, serán vigentes el día de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periodico Oficial del Estado.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+SEGUNDO. Los artículos, SEGUNDO; TERCERO; y CUARTO del presente Decreto serán vigentes el día de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado; excepto el Título Segundo de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado y Municipios de San Luis Potosí, que entrará en vigor para efectos del Presupuesto de Egresos; y la Ley de Ingresos, correspondientes al Ejercicio Fiscal 2018.
 
 TERCERO. A la entrada en vigor del (sic) este Decreto, se abrogan, la Ley de Presupuesto Contabilidad y Gasto Público del Estado de San Luis Potosí, expedida mediante Decreto Legislativo No. 17, publicado en el Periódico Oficial del Estado el 21 de diciembre del 2006; y la Ley de Presupuesto, Contabilidad y Gasto Público de los Municipios del Estado de San Luis Potosí, expedida mediante Decreto Legislativo No. 194, publicado en el Periódico Oficial del Estado el 4 de diciembre de 2004.
 
@@ -1124,7 +1126,9 @@ SEXTO. Las reglas de operación a que se refiere el artículo 44 de la Ley que s
 
 SÉPTIMO. Los lineamientos a que se refiere el artículo 72 de la Ley que se expide en el artículo Segundo de este Decreto, deberán emitirse a más tardar dentro de los ciento veinte días siguientes a la publicación de la multicitada Ley.
 
-OCTAVO. Los ejecutores del gasto deberán contar con el sistema de evaluación del desempeño a que se refiere el artículo 79 de la Ley que se expide en el artículo Segundo de este Decreto, en un periodo no mayor de un año a partir de la entrada en vigor de la Ley. Tratándose de los municipios, este periodo se podrá ampliar por un año más. Las disposiciones a que se refiere el párrafo tercero del citado artículo deberán emitirse a más tardar dentro de los ciento ochenta días siguientes a la publicación de la Ley.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+OCTAVO. Los ejecutores del gasto deberán contar con el sistema de evaluación del desempeño a que se refiere el artículo 79 de la Ley que se expide en el artículo Segundo de este Decreto, para el Presupuesto de Egresos; y la Ley de Ingresos, correspondientes al Ejercicio Fiscal 2018. Tratándose de los municipios, este periodo se podrá ampliar por un año más. Las disposiciones a que se refiere el párrafo tercero del citado artículo deberán emitirse a más tardar dentro de los ciento ochenta días siguientes a la publicación de la Ley.
 
 NOVENO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
 
@@ -1149,3 +1153,13 @@ El Secretario General de Gobierno
 Alejandro Leal Tovías
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0441.- SE REFORMAN LOS ARTÍCULOS TRANSITORIOS SEGUNDO Y OCTAVO DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el 15 de diciembre de 2016, y debe publicarse en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
