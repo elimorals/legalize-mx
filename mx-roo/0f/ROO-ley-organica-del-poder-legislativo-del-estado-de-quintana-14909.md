@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2016-07-08"
+last_updated: "2016-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -563,7 +563,9 @@ Las Comisiones ordinarias serán:
 
 23.- Comisión de Seguridad Pública y Protección Civil.
 
-24.- Comisión de Participación Ciudadana y Órganos Autónomos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+24.- Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos.
 
 25.- Comisión de Defensa de los Límites de Quintana Roo y Asuntos Fronterizos.
 
@@ -2130,3 +2132,11 @@ P.O. 8 DE JULIO DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 025 POR EL QUE SE REFORMA EL ARTÍCULO 35, NUMERAL 24, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, ASÍ COMO LOS ARTÍCULOS 4 EN SU NUMERAL 24; Y 28, PÁRRAFO PRIMERO, FRACCIÓN I DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
