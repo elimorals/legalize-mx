@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-8-2015-del-pleno-del-consejo-de-la-106090"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-27"
-last_updated: "2015-12-15"
+last_updated: "2016-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106090&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-02-23"
 
 ACUERDO GENERAL 8/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de febrero de 2015.
 
@@ -171,9 +171,11 @@ IV. El Presidente del Pleno, con la información a que se refiere la fracción a
 
 Todo lo relativo al procedimiento anteriormente expuesto, o cualquier controversia que se suscite sobre el señalamiento del magistrado decano en la lista correspondiente, será competencia de la Comisión.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO, RELACIONADO CON LA NATURALEZA DE LAS SESIONES, D.O.F. 15 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 12.
 
-El presidente del Pleno será nombrado en la primera sesión de cada año del Pleno, e iniciará funciones inmediatamente.
+Al inicio de cada año se celebrará una sesión extraordinaria en la que se designará al presidente del Pleno, quien comenzará sus funciones inmediatamente.
 
 ###### Artículo 13.
 
@@ -552,3 +554,11 @@ D.O.F. 15 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor el primer día hábil de enero de dos mil dieciséis.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 15 DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA EL SIMILAR 8/2015, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO, RELACIONADO CON LA NATURALEZA DE LAS SESIONES”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
