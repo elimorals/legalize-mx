@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2016-09-17"
+last_updated: "2016-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -347,9 +347,9 @@ XVI. Acudir, para la protección de Derechos Humanos, a las instancias del siste
 
 XVII. Proponer a cualquier autoridad, que en el exclusivo ámbito de su competencia, promuevan los cambios y las modificaciones de disposiciones legislativas y reglamentarias, con la finalidad de armonizar las normas nacionales con los documentos internacionales, así como de prácticas administrativas, que a juicio de la Comisión, redunden en una mejor protección de los Derechos Humanos;
 
-> <small>(REFORMADA, P. O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
 
-XVIII. Promover la integración en el estudio, la enseñanza, la divulgación, la capacitación y la educación en y para los Derechos Humanos en el ámbito estatal y municipal, dirigida a todos los individuos, grupos sociales y pueblos, para tales efectos; integrará anualmente el Programa Estatal de Promoción de los Derechos Humanos, instrumento que orientará los criterios de promoción y divulgación de los derechos humanos, el cual será elaborado tomando en cuenta el diagnóstico sobre violaciones a los derechos económicos, sociales, culturales y ambientales, contenido en el informe anual de la Comisión;
+XVIII. Promover entre todas las personas, el estudio, enseñanza, capacitación, educación, y divulgación de los Derechos Humanos en los ámbitos, estatal y municipal;
 
 XIX. Realizar las acciones pertinentes para establecer la cultura de los Derechos Humanos;
 
@@ -1732,3 +1732,11 @@ P.O. 17 DE SEPTIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0434.- SE REFORMA EL ARTÍCULO 26 EN SU FRACCIÓN XVIII, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
