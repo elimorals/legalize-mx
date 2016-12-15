@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-de-comisiones-del-poder-legislativo-del-estado-93975
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-09"
-last_updated: "2016-07-08"
+last_updated: "2016-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93975&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en el número extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 9 de abril de 2013.
 
@@ -115,7 +115,9 @@ Son comisiones ordinarias:
 
 23.- Comisión de Seguridad Pública y Protección Civil.
 
-24.- Comisión de Participación Ciudadana y Órganos Autónomos.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+24.- Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos.
 
 25.- Comisión de Defensa de los Límites de Quintana Roo y Asuntos Fronterizos.
 
@@ -461,11 +463,15 @@ III. La regulación de los sistemas integrales de tratamiento penal y funcionami
 
 IV. Otros asuntos que sean o se consideren de la competencia de esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 28.
 
-Corresponde a la Comisión de Participación Ciudadana y Órganos Autónomos el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+Corresponde a la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos, el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-I. La legislación relacionada con la participación ciudadana y órganos autónomos en el ámbito estatal;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2016)</small>
+
+I. La legislación relacionada con el combate a la corrupción, la participación ciudadana, y órganos autónomos en el ámbito estatal.
 
 II. Lo relativo al ejercicio del derecho de iniciativa popular;
 
@@ -752,3 +758,11 @@ P.O. 8 DE JULIO DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 025 POR EL QUE SE REFORMA EL ARTÍCULO 35, NUMERAL 24, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO, ASÍ COMO LOS ARTÍCULOS 4 EN SU NUMERAL 24; Y 28, PÁRRAFO PRIMERO, FRACCIÓN I DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
