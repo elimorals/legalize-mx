@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-al-uso-de-la-bicicleta-y-proteccion-al-105152"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2014-12-31"
+last_updated: "2016-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FOMENTO AL USO DE LA BICICLETA Y PROTECCIÓN AL CICLISTA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Décima Séptima Sección al Número 10 del Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 31 de diciembre de 2014.
 
@@ -135,11 +135,23 @@ VI. Elaborar programas para que los edificios públicos, centros de trabajo, ter
 
 VII. Incentivar la participación de la iniciativa privada en la construcción de bici estacionamientos y conexiones para el intercambio modal con otros medios de transporte; y,
 
-VIII. Promover incentivos para que las empresas del sector privado, arrenden o presten bicicletas y habiliten bici estacionamientos en sus instalaciones con los señalamientos correspondientes.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+VIII. Promover incentivos para que las empresas del sector privado, arrenden o presten bicicletas y habiliten bici estacionamientos en sus instalaciones con los señalamientos correspondientes;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+IX. Generar políticas públicas y acciones para la formación de buenas prácticas y movilidad en el uso de la bicicleta de las personas; e,
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+X. Implementar de manera permanente campañas y programas dirigidas (sic) a los ciclistas para promover un comportamiento responsable y respetuoso de la normatividad que rige el tránsito en la vialidad urbana, rural y en las ciclovías.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 10.
 
-De conformidad con la disponibilidad presupuestal, todas las dependencias de la administración pública estatal y municipal, deberán contar con bici estacionamientos.
+Los tres poderes del Estado, organismos públicos autónomos y gobiernos municipales contarán con bici estacionamientos en sus instalaciones.
 
 ### CAPÍTULO III. DE LOS DERECHOS Y OBLIGACIONES DE LOS CICLISTAS
 
@@ -149,7 +161,9 @@ Son derechos de los ciclistas:
 
 I. Contar con una zona de espera que salvaguarde su integridad física;
 
-II. Tener distancia prudente entre el vehículo automotor y el ciclista;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+II. Tener distancia prudente entre el vehículo automotor y el ciclista, mínimo de 1.5 metros;
 
 III. Obtener preferencia sobre el tránsito vehicular; y,
 
@@ -167,7 +181,9 @@ III. Obedecer las indicaciones del personal de vialidad o Tránsito Estatal y Mu
 
 IV. Llevar a bordo de la bicicleta sólo al número de personas para las que exista un asiento disponible;
 
-V. Utilizar casco obligatoriamente en zonas urbanas;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+V. Utilizar casco obligatoriamente;
 
 VI. Circular solamente por un carril en sentido del tránsito;
 
@@ -175,7 +191,9 @@ VII. Respetar los espacios de la vialidad destinados para peatones o personas co
 
 VIII. No circular en estado de ebriedad, bajo efectos de enervantes ni de manera imprudente;
 
-IX. Usar bandas reflejantes para el uso nocturno, así como una luz adecuada para iluminación;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+IX. Usar bandas o casacas reflejantes para el uso nocturno, así como una luz adecuada para iluminación;
 
 X. Compartir de manera responsable con los vehículos y el transporte público la circulación en carriles de extrema derecha;
 
@@ -198,6 +216,12 @@ El Titular del Poder Ejecutivo, a través de la Secretaría de Educación en el 
 ###### Artículo 15.
 
 Las vialidades que se construyan, deberán incluir carriles preferentes o ciclovías y contener los señalamientos necesarios para indicar las zonas de espera para los ciclistas junto a los cruces peatonales.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 16.
+
+Las principales vialidades por donde transiten ciclistas deberán contar con señalamiento horizontal y vertical que indique el uso compartido del carril.
 
 ## TRANSITORIOS
 
@@ -226,3 +250,13 @@ ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 31 treinta y un días del mes de diciembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 256 POR EL QUE “SE REFORMA EL ARTÍCULO 10, LA FRACCIÓN II DEL ARTÍCULO 11; LAS FRACCIONES V Y IX DEL ARTÍCULO 12; Y, SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 9; ASÍ COMO UN ARTÍCULO 16, TODOS DE LA LEY DE FOMENTO AL USO DE LA BICICLETA Y PROTECCIÓN AL CICLISTA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
