@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-las-entidades-paramunicipales-del-municipio-35967
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-19"
-last_updated: "2016-03-11"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "BCN"
 
 REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de diciembre de 2003.
 
-El LlC. LUIS ALONSO MORLETT CORRALES, Secretario de Gobierno Municipal del H. XVII Ayuntamiento Constitucional del Municipio de Tijuana, Baja California, conforme a la Ley,
+El LIC. LUIS ALONSO MORLETT CORRALES, Secretario de Gobierno Municipal del H. XVII Ayuntamiento Constitucional del Municipio de Tijuana, Baja California, conforme a la Ley,
 
 C E R T I F I C A:
 
@@ -55,13 +55,13 @@ El presente Reglamento es de orden público e interés general, tiene por objeto
 
 Las entidades paramunicipales, como auxiliares de la Administración Pública Municipal, se sujetarán a las disposiciones contenidas en este Reglamento, en sus reglamentos internos, acuerdos de creación y demás que expresamente le encomienden las leyes, reglamentos y acuerdos del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 3.
 
-Para los efectos de este Reglamento se entenderá por:
+Para los efectos de este Reglamento se entenderá por;
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 2009)</small>
-
-I. Entidades Paramunicipales.- A los organismos descentralizados, las empresas de participación municipal y los fideicomisos públicos de conformidad a lo establecido en los Artículos 5, 10, 11, 12 del Reglamento de la Administración Pública del Ayuntamiento de Tijuana;
+I. Entidades Paramunicipales.- A los organismos descentralizados, las empresas de participación Procuradora Municipal y los fideicomisos públicos de conformidad a lo establecido en los Artículos 5, 10, 11, 12 del Reglamento de la Administración Pública del Ayuntamiento de Tijuana;
 
 II. Órgano de Gobierno.- A las Juntas de Gobierno, Juntas Directivas, Consejos de Administración y Comités Técnicos que sean considerados los órganos jerárquicos superiores de las Entidades Paramunicipales;
 
@@ -73,17 +73,11 @@ V. Instrumentos de Creación.- A las leyes, decretos y acuerdos especiales que c
 
 VI. Secretaría de Sector.- A las dependencias que tengan bajo su responsabilidad un sector administrativo;
 
-VII. Secretaría.- A la Secretaría de Gobierno Municipal;
+VII. Secretaría.- A la Secretaría de Gobierno Procuradora Municipal;
 
-VIII. Síndico Procurador.- Al Síndico Procurador del Ayuntamiento;
+VIII. Síndico Procurador.- Al Síndico Procurador del Ayuntamiento, y
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
-
-IX. Síndico Social.- Al Sindico Social del Ayuntamiento.
-
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
-
-X. Oficialía.- A la Oficialía Mayor.
+IX. Oficialía.- A la Oficialía Mayor.
 
 ###### ARTICULO 4.
 
@@ -639,63 +633,47 @@ IV.- Sancionar las licitaciones relativas a todo tipo de adquisiciones y obras p
 
 V.- Auditar el ejercicio presupuestal en todos sus rubros;
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+ARTICULO 62 BIS.- (DEROGADO, P.O. 16 DE DICIEMBRE DE 2016)
 
-###### ARTICULO 62 Bis.
-
-Corresponde al Síndico Social, vigilar la operación y el funcionamiento de las Entidades Paramunicipales, ejerciendo sus atribuciones en materia de bienes y servicios públicos Municipales.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 63.
 
 Las Entidades Paramunicipales están obligadas a:
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
+I. Presentar oportunamente a la Sindicatura Procuradora, los presupuestos anuales y programas de operación;
 
-I.- Presentar oportunamente a la Sindicatura Procuradora, los presupuestos anuales y programas de operación;
+II. Otorgar las facilidades necesarias a la Sindicatura Procuradora para que conozca, investigue y verifique la contabilidad, actas, libros, registros, documentos, sistemas y procedimientos de trabajo o producción y, en general, la total operación que se relacione directa o indirectamente con el objeto o atribuciones de la entidad;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
+III. Organizar sus sistemas de contabilidad, control y auditoría internos, de acuerdo con las disposiciones que dicte la reglamentación correspondiente, en los términos de la fracción I del artículo anterior;
 
-II.- Otorgar las facilidades necesarias a la Sindicatura Procuradora para que conozca, investigue y verifique la contabilidad, actas, libros, registros, documentos, sistemas y procedimientos de trabajo o producción y, en general, la total operación que se relacione directa o indirectamente con el objeto o atribuciones de la entidad;
+IV. Enviar con tres días hábiles de anticipación cuando menos, a los integrantes de los Órganos de Gobierno, el orden del día y la documentación de los asuntos a tratar en las sesiones, incluyendo a la sindicatura;
 
-III.- Organizar sus sistemas de contabilidad, control y auditoría internos, de acuerdo con las disposiciones que dicte la reglamentación correspondiente, en los términos de la fracción I del artículo anterior;
+V. Observar la normatividad aplicable a la administración pública, y
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
+VI. Las demás que este Reglamento y otras disposiciones legales les impongan.
 
-IV.- Enviar con tres días hábiles de anticipación cuando menos, a los integrantes de los Órganos de Gobierno, el orden del día y la documentación de los asuntos a tratar en las sesiones, incluyendo a las sindicaturas.
+El Síndico Procurador designará a un Comisario quien tendrá a su cargo la vigilancia y control interno del organismo descentralizado.
 
-V.- Observar la normatividad aplicable a la administración pública;
-
-VI.- Las demás que este Reglamento y otras disposiciones legales les impongan.
-
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
-
-El Síndico Procurador, designará a un Comisario quien tendrá a su cargo la vigilancia y control interno del organismo descentralizado,
-
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
-
-El Síndico Social designara a un Comisario Honorifico quien tendrá a su cargo la función de observador.
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 64.
 
-El Síndico Procurador, designara a un comisario, con cargo al presupuesto de la Sindicatura Municipal, quien tendrá bajo su responsabilidad la vigilancia y control interno del organismo descentralizado. P. 0. 23 SEPT-05
+El Síndico Procurador, designará a un comisario, con cargo al presupuesto de la Sindicatura Procuradora, quien tendrá bajo su responsabilidad la vigilancia y control interno del organismo descentralizado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 65.
 
-Los Comisarios, como órgano interno de control y observancia, tendrán las siguientes facultades y obligaciones, respecto de los organismos descentralizados:
+Los comisarios, como órgano interno de control y observancia, tendrán las siguientes facultades y obligaciones, respecto de los organismos descentralizados:
 
 I.- Revisar el funcionamiento de la paramunicipal en lo general y por unidades administrativas;
 
-II.- Sugerir medidas de eficiencia con la que se ejerzan los recursos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos;
+II.- Sugerir medidas de eficiencia con la que se ejerzan los recursos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos, y
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
+III.- Solicitar la información necesaria para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Sindicatura les asigne específicamente.
 
-III.- Solicitar la información necesaria para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que las Sindicaturas les asignen específicamente. El Órgano de Gobierno y el director deberán proporcionar la información que les soliciten los comisarios para el cumplimiento de sus funciones.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+El Órgano de Gobierno y el director de cada entidad paramunicipal, deberán proporcionar la información que los Comisarios les soliciten para el cumplimiento de sus funciones.
 
 ###### ARTICULO 66.
 
@@ -735,11 +713,11 @@ Las empresas de participación municipal, sin perjuicio de lo establecido en sus
 
 Los fideicomisos públicos a que se refiere el artículo 39 de este reglamento, sin perjuicio de lo establecido en los acuerdos que expida el Ayuntamiento en el que se establezcan las bases para su constitución organización y funcionamiento, así como por lo establecido en su contrato mercantil y demás legislación aplicable, para su vigilancia control y evaluación, cuando así lo determinen en el ámbito de sus competencias, el Síndico Procurador y la Secretaría del Sector, deberán contar con Órganos de Control interno y en todos los casos contarán con los comisarios que designe el Síndico Procurador en los términos de las disposiciones contenidos en este reglamento.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 70.
 
-La Sindicatura Procuradora podrá realizar visitas y auditorías a las Entidades Paramunicipales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en los artículos 62, y en su caso, sugerir lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
+La Sindicatura Procuradora podrá realizar visitas y auditorías a las Entidades Paramunicipales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control, el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración mencionados en el artículo 62 y, en su caso, sugerir lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
 
 (REPUBLICADO, P.O. 6 DE DICIEMBRE DE 2013)
 
@@ -849,10 +827,22 @@ TERCERO.- Una vez debidamente publicado en el Periódico Oficial del Gobierno de
 
 P.O. 11 DE MARZO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DEL INSTITUTO METROPOLITANO DE PLANEACIÓN DE TIJUANA, BAJA CALIFORNIA, ASÍ COMO LA REFORMA AL ARTÍCULO 21 Y LA ADICIÓN DEL ARTÍCULO 13 QUATER DEL REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, MEDIANTE DICTAMEN XXI-CDPM-02/2015”.]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DEL INSTITUTO METROPOLITANO DE PLANEACIÓN DE TIJUANA, BAJA CALIFORNIA, ASÍ COMO LA REFORMA AL ARTÍCULO 21 Y LA ADICIÓN DEL ARTÍCULO 13 QUÁTER DEL REGLAMENTO DE LAS ENTIDADES PARAMUNICIPALES DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, MEDIANTE DICTAMEN XXI-CDPM-02/2015”.]
 
 PRIMERO.- Publíquese en el Periódico Oficial del Estado de Baja California y/o Gaceta Municipal, órgano de difusión del Ayuntamiento de Tijuana, Baja California.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 TERCERO.- Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a la presente reforma.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL TÍTULO TERCERO EN CUANTO A SU DENOMINACIÓN Y A LA MODIFICACIÓN DEL CAPÍTULO PRIMERO PARA CAMBIAR A CAPÍTULO ÚNICO, Y LOS ARTÍCULOS 34 Y 35 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+SEGUNDO.- Se derogan las disposiciones reglamentarias y administrativas de carácter municipal que se opongan a las presentes reformas.
+
+TERCERO.- Los recursos presupuestales y materiales que se encontraban asignados a la Sindicatura Social, deberán pasar a resguardo y asignación de la Sindicatura Procuradora, con el fin de que sean utilizados por las unidades administrativas resultantes de las presentes reformas.
+
+CUARTO.- Una vez publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes, para la implementación inmediata de las reformas aprobadas.
