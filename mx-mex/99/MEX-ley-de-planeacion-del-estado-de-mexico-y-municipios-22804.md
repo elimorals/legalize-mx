@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2016-02-03"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -605,9 +603,9 @@ VI. Los titulares de las dependencias del Ejecutivo Estatal;
 
 VII. Cuatro representantes por cada uno de los poderes Legislativo y Judicial del Estado de México;
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2016)</small>
 
-VIII. Los titulares o representantes de los subcomités y grupos de trabajo;
+VIII. Los titulares o representantes de los grupos interinstitucionales.
 
 > <small>(ADICIONADA, G.G. 22 DE NOVIEMBRE DE 2004)</small>
 
@@ -679,9 +677,9 @@ IV. Coordinarse con los comités de planeación para el desarrollo municipal y c
 
 V. Fungir como órgano de consulta tanto del Gobierno del Estado, como de los ayuntamientos y de los habitantes, grupos y organizaciones sociales y privados en materia de planeación democrática para el desarrollo;
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2016)</small>
 
-VI. Acordar el establecimiento de la Comisión Permanente, subcomités sectoriales, regionales y especiales, así como de grupos de trabajo, los cuales actuarán como instancias auxiliares del Comité de Planeación para el Desarrollo del Estado de México.
+VI. Acordar el establecimiento de la Comisión Permanente y de los grupos interinstitucionales, los cuales actuarán como instancias auxiliares del Comité de Planeación para el Desarrollo del Estado de México.
 
 > <small>(ADICIONADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -759,9 +757,9 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-G.G. 7 DE AGOSTO DE 2003
+G.G. 7 DE AGOSTO DE 2003.
 
 PRIMERO.- PUBLIQUESE EL PRESENTE DECRETO EN EL PERIODICO OFICIAL "GACETA DEL GOBIERNO".
 
@@ -892,3 +890,17 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 170.- POR EL QUE SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 46 Y LA FRACCIÓN VI DEL ARTÍCULO 50 DE LA LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Ejecutivo contará con un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones necesarias al Reglamento de esta Ley.
+
+CUARTO. En tanto se expidan las disposiciones reglamentarias y administrativas correspondientes se aplicarán las vigentes que no sean contrarias a las previstas en esta Ley.
+
+QUINTO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
