@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2016-10-17"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -1169,7 +1169,7 @@ V. Los relativos a la política de desarrollo económico integral y de beneficio
 
 VI. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 74.
 
@@ -1197,11 +1197,19 @@ IX. La instalación y operación de confinamientos y, en general, depósitos de 
 
 X. Los relativos a la protección de los animales;
 
-> <small>(ADICIONADA, P.O. 30 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-XI. Los relacionados con el desarrollo sustentable; entendiéndose este concepto como la interrelación de los factores económico, social y ambiental; y,
+XI. Los relacionados con el desarrollo sustentable; entendiéndose este concepto como la interrelación de los factores económico, social y ambiental;
 
-XII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XII. Integrar, a través de su Presidente, el Consejo Estatal de Ecología del Estado de Michoacán de Ocampo; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XIII. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 75.
 
@@ -1223,9 +1231,17 @@ VII. La desafectación de bienes muebles e inmuebles, destinados al dominio púb
 
 VIII. Referentes a la autorización al Ejecutivo para enajenar bienes inmuebles propiedad del Estado;
 
-IX. Relativos a la autorización a los ayuntamientos para incorporar, desafectar, enajenar, permutar o gravar bienes del dominio público o uso común municipal; y,
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-X. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
+IX. Integrar, a través de su Presidente, el Consejo Estatal de Ecología del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+X. Relativos a la autorización a los ayuntamientos y concejos municipales para incorporar, desafectar, enajenar, permutar o gravar bienes del dominio público o uso común municipal; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XI. Los análogos a los anteriores que, a juicio del Presidente del Congreso, sean materia del análisis de esta Comisión.
 
 ###### ARTÍCULO 76.
 
@@ -3962,3 +3978,7 @@ P.O. 17 DE OCTUBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Comuníquese al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. EL DECRETO NÚMERO 289 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 74 Y 75 DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE DEL ESTADO DE MICHOACÁN DE OCAMPO.]</small>
