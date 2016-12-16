@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2016-11-28"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2016.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 9 DE JULIO DE 1996.
 
@@ -1026,7 +1026,7 @@ I.- La atención integral de la mujer durante el embarazo, el parto y el puerper
 
 > <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2014)</small>
 
-I Bis. La atención de la transmisión del VIH/Sida y otras Infecciones de Transmisión Sexual, en mujeres embarazadas a fin de evitar la transmisión perinatal;
+I Bis.- La atención de la transmisión del VIH/Sida y otras Infecciones de Transmisión Sexual, en mujeres embarazadas a fin de evitar la transmisión perinatal;
 
 > <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
 
@@ -1036,13 +1036,17 @@ II.- La atención del niño y la vigilancia de su crecimiento, desarrollo integr
 
 III.- La revisión de retina y tamiz auditivo al prematuro;
 
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+IV.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados;
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+V.- El diagnóstico oportuno y atención temprana de la displasia en el desarrollo de la cadera, a través del examen clínico en la primera semana del nacimiento, en el primer mes de edad y a los dos, cuatro, seis, nueve y doce meses de edad; así como la toma de ultrasonido de cadera o radiografía anteposterior de pelvis, entre el primer y cuarto mes de vida, y
+
 > <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
 
-IV.- La aplicación del tamiz oftalmológico neonatal, a la cuarta semana del nacimiento, para la detección temprana de malformaciones que puedan causar ceguera, y su tratamiento, en todos sus grados, y
-
-> <small>(REFORMADA, D.O.F. 25 DE ENERO DE 2013)</small>
-
-V.- La atención del niño y su vigilancia durante el crecimiento y desarrollo, y promoción de la integración y del bienestar familiar.
+VI.- La atención del niño y su vigilancia durante el crecimiento y desarrollo, y promoción de la integración y del bienestar familiar.
 
 > <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2012)</small>
 
@@ -1075,6 +1079,10 @@ II Bis.- Al menos un banco de leche humana por cada entidad federativa en alguno
 > <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2009)</small>
 
 III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años, y
+
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+III Bis.- Acciones de diagnóstico y atención temprana de la displasia en el desarrollo de cadera, durante el crecimiento y desarrollo de los menores de 5 años, y
 
 > <small>(ADICIONADA, D.O.F. 31 DE MAYO DE 2009)</small>
 
@@ -6496,7 +6504,7 @@ Cuando en las localidades donde residan cónsules mexicanos aparezcan casos de e
 
 ###### ARTICULO 359.
 
-La Secretaría de Salud notificará a la Organización Mundial de la Salud de todas medidas (sic) que haya adoptado, de modo temporal o permanente, en materia de sanidad internacional. Asimismo, informará a esta misma organización y con la oportunidad debida, sobre cualquier caso que sea de interés en la vigilancia epidemiológica de las enfermedades que se citan en el Reglamento Sanitario Internacional, las que puedan originar epidemias o cualesquiera otras que considere de importancia notificar.
+La Secretaría de Salud notificará a la Organización Mundial de la Salud de todas (sic) medidas que haya adoptado, de modo temporal o permanente, en materia de sanidad internacional. Asimismo, informará a esta misma organización y con la oportunidad debida, sobre cualquier caso que sea de interés en la vigilancia epidemiológica de las enfermedades que se citan en el Reglamento Sanitario Internacional, las que puedan originar epidemias o cualesquiera otras que considere de importancia notificar.
 
 ### CAPITULO II. Sanciones Administrativas
 
@@ -8607,3 +8615,11 @@ D.O.F. 28 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I, APARTADO B DEL ARTÍCULO 13 Y SE ADICIONA UNA FRACCIÓN IV BIS 3 AL ARTÍCULO 3o. DE LA LEY GENERAL DE SALUD”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 61 Y 64 DE LA LEY GENERAL DE SALUD”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las acciones que deban realizar los gobiernos Federal y de las entidades federativas para dar cumplimiento a lo dispuesto por el presente Decreto, deberán sujetarse a la disponibilidad presupuestaria que se apruebe para dichos fines en sus respectivos presupuestos de egresos
