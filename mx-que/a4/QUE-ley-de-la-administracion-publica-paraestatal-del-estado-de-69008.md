@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-administracion-publica-paraestatal-del-estado-de-6900
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-17"
-last_updated: "2016-05-30"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -57,9 +57,23 @@ I. Los organismos descentralizados;
 
 II. Las empresas de participación estatal;
 
-III. Los organismos auxiliares de la función pública; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IV. Las asimiladas a entidades paraestatales.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+III. Los organismos auxiliares de la función pública;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+IV. Las asimiladas a entidades paraestatales, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+V. Los fideicomisos públicos.
 
 ###### Artículo 4.
 
@@ -257,13 +271,13 @@ Los directores generales ejercerán las facultades bajo su más estricta respons
 
 Para acreditar la personalidad y facultades de los miembros del órgano de gobierno, del director general y de los apoderados generales de los organismos descentralizados, bastará con exhibir copia certificada de la inscripción de su nombramiento o mandato en el Registro Público de Entidades Paraestatales del Estado de Querétaro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 25.
 
-Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Planeación y Finanzas del Estado y la dependencia coordinadora del sector que corresponda, previa opinión de esta última, propondrán al Gobernador del Estado la disolución, liquidación o extinción de aquél. Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la dependencia coordinadora del sector que corresponda, propondrá al Gobernador del Estado la disolución, liquidación o extinción de aquél. Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 ###### Artículo 26.
 
@@ -461,7 +475,11 @@ Los órganos de gobierno de los organismos descentralizados y de las empresas de
 
 I. Establecer, en congruencia con los programas sectoriales, las políticas generales y definir las prioridades a las que deberá sujetarse la entidad paraestatal, relativas a producción, productividad, comercialización, finanzas, investigación, desarrollo tecnológico y administración general;
 
-II. Aprobar los programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+II. Aprobar los programas y presupuestos de la entidad paraestatal, en los términos de la legislación aplicable;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -471,11 +489,23 @@ III. Fijar y ajustar los precios de bienes y servicios que produzca o preste la 
 
 IV. Aprobar la contratación de préstamos para el financiamiento de la entidad paraestatal, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras, conforme a la Ley de Deuda Pública del Estado de Querétaro;
 
-V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuera necesario, el director general pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma. El director general deberá informar a la Secretaría de Planeación y Finanzas y a la Secretaría de la Contraloría del Estado, en forma semestral, del uso que hiciere de esta facultad;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VI. Aprobar los estados financieros de la entidad paraestatal y autorizar la publicación de los mismos, previo informe de los comisarios y dictamen técnico de los auditores externos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-VII. Aprobar, de acuerdo con las leyes aplicables, los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos, concesiones y prestación de servicios relacionados con bienes muebles e inmuebles. El director general y los servidores públicos que deben intervenir en tales actos, los realizará bajo su responsabilidad con sujeción a las directrices fijadas por el órgano de gobierno;
+V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuere necesario, el Director General pueda disponer de los activos fijos de la entidad que no correspondan a las operaciones propias del objeto de la misma;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+VI. Aprobar anualmente los estados financieros y autorizar la publicación de los mismos, previo informe de los comisarios y dictamen de los auditores externos;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+VII. Aprobar, de acuerdo con las leyes aplicables, las bases generales que se deberán observar en materia de: convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos, concesiones y prestación de servicios relacionados con bienes muebles e inmuebles.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -501,7 +531,11 @@ XV. Analizar y aprobar, en su caso, los informes periódicos que rinda el direct
 
 XVI. Acordar, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios que se hagan y verificar que los mismos se apliquen conforme a los fines señalados por la coordinadora del sector correspondiente; y
 
-XVII. Aprobar la cancelación de adeudos a cargo de terceros y en favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, informando de ello a la Secretaría de Planeación y Finanzas del Estado, por conducto de la coordinadora de sector.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XVII. Aprobar la cancelación total o parcial de adeudos a cargo de terceros y a favor de la entidad paraestatal cuando fuere notoria la imposibilidad práctica de su cobro, cuando así lo determinen las leyes o cuando expresamente lo acuerde el órgano de gobierno, informando a la Secretaría de Planeación y Finanzas del Poder Ejecutivo, por conducto de la coordinadora de sector.
 
 ###### Artículo 55.
 
@@ -535,47 +569,73 @@ XIII. Las demás facultades y obligaciones que le señalen otras leyes y disposi
 
 ### Capítulo Segundo. Del control y evaluación
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2016)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 56.
 
-El órgano interno de control tendrá a su cargo la vigilancia de los organismos descentralizados. Su titular será designado por la Secretaría de la Contraloría del Estado.
+La función de vigilancia de los organismos descentralizados estará a cargo de la Secretaría de la Contraloría por conducto de los Comisarios que para tal efecto designe.
+
+Los Comisarios Públicos evaluarán el desempeño general y por funciones del organismo y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría les asigne específicamente conforme a la Ley.
+
+Para el cumplimiento de las funciones citadas el Órgano de Gobierno, el Director General, el Órgano Interno de Control y demás servidores públicos deberán proporcionar la información que soliciten los Comisarios Públicos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 57.
 
-El órgano interno de control evaluará el desempeño general del organismo, realizará estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitará la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que les asigne específicamente conforme a la ley. Para el cumplimiento de lo anterior, el órgano de gobierno y el director general deberán proporcionar la información que soliciten para el desarrollo de su función.
+Los órganos internos de control serán parte integrante de la estructura de las entidades paraestatales. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de la entidad; desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de la Contraloría, de acuerdo a las bases siguientes:
 
-###### Artículo 58
+I. Recibirán quejas, investigarán y, en su caso, por conducto del titular del órgano de control interno o del área de responsabilidades, determinarán la responsabilidad administrativa de los servidores públicos de la entidad e impondrán las sanciones aplicables en los términos previstos en la ley de la materia, así como dictarán las resoluciones en los recursos de revocación que interpongan los servidores públicos de la entidad respecto de la imposición de sanciones administrativas;
 
-La responsabilidad de control al interior de los organismos descentralizados, se ajustará a los siguientes lineamientos:
+II. Dichos órganos realizarán la defensa jurídica de las resoluciones que emitan ante los diversos Tribunales, representando al titular de la Secretaría de la Contraloría;
 
-I. Los órganos de gobierno controlarán la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas sean conducidas; deberán atender los informes que en materia de control y auditoría les sean turnados y vigilarán la implantación de las medidas correctivas a que hubiere lugar;
+III. Realizarán sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía, y
 
-II. Los directores generales definirán las políticas de instrumentación de los sistemas de control que fueren necesarios; tomarán las acciones correspondientes para corregir las deficiencias que se detectaran y presentarán al órgano de gobierno, informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento; y
+IV. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías, vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentarán al Director General, al Órgano de Gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
 
-III. Los demás servidores públicos del organismo responderán, dentro del ámbito de sus competencias, sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 58.
+
+La responsabilidad del control al interior de los organismos descentralizados se ajustará a los siguientes lineamientos:
+
+I. Los órganos de gobierno conocerán sobre la forma en que los objetivos sean alcanzados y la manera en que las estrategias básicas sean conducidas; de igual manera, conocerán de los informes que en materia de control y auditoría les sean turnados y vigilarán la implantación de las medidas correctivas a que hubiere lugar;
+
+II. Los Directores Generales definirán e instrumentarán las políticas de implementación de los sistemas de control que fueren necesarios; tomarán las acciones correspondientes para corregir las deficiencias que se detectaren y presentarán al Órgano de Gobierno informes periódicos sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas de mejoramiento, y
+
+III. Los demás servidores públicos del organismo responderán dentro del ámbito de sus competencias correspondientes sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 59.
 
-Los órganos internos de control serán parte integrante de la estructura del organismo descentralizado. Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión del organismo; desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de la Contraloría del Estado, de acuerdo a las siguientes bases:
+(DEROGADO, P.O. 16 DE DICIEMBRE DE 2016)
 
-I. Dependerán del director general del organismo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II. Realizarán sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía; y
-
-III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de control; efectuarán revisiones y auditorías; vigilarán que el manejo y aplicación de los recursos públicos se efectúe conforme a las disposiciones aplicables; presentarán al director general, al órgano de gobierno y a las demás instancias internas de decisión, los informes resultantes de las auditorías, exámenes y evaluaciones realizados.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 60.
 
-Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, incorporarán órganos internos de control y contarán con los comisarios públicos que designe la Secretaría de la Contraloría del Estado, en los términos de esta Ley.
+Las empresas de participación estatal mayoritaria, sin perjuicio de lo establecido en sus estatutos y en los términos de la legislación civil o mercantil aplicable, para su vigilancia, control y evaluación, contarán con órganos internos de control, los cuales proporcionarán la información que les sea solicitada por los Comisarios Públicos que designe la Secretaría de la Contraloría en los términos de Ley.
 
 ###### Artículo 61.
 
 La coordinadora de sector, a través de su titular o representante, mediante su participación en los órganos de gobierno o consejos de administración de las paraestatales, podrá recomendar las medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DE LA LEY QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 62.
 
-La Secretaría de la Contraloría del Estado, podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control, el cumplimiento de sus obligaciones y facultades y, en su caso, promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
+La Secretaría de la Contraloría podrá realizar visitas y auditorías a las entidades paraestatales, cualquiera que sea su naturaleza, a fin de supervisar el adecuado funcionamiento del sistema de control; el cumplimiento de las responsabilidades de los servidores públicos, y en su caso promover lo necesario para corregir las deficiencias u omisiones en que se hubiera incurrido.
 
 ###### Artículo 63.
 
@@ -884,3 +944,121 @@ Artículo Séptimo. De acuerdo a la Reforma a la Constitución Política del Est
 Artículo Octavo. Dentro del plazo de 90 días hábiles contados a partir del inicio de vigencia de la presente Ley, se expedirán los reglamentos de la Comisión Estatal de Infraestructura de Querétaro.
 
 En tanto no se expidan las disposiciones reglamentarias de la Ley que crea la Comisión Estatal de Infraestructura de Querétaro, el Consejo de Administración dictará los criterios y lineamientos para su debida observancia.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2017, con excepción del ARTÍCULO DÉCIMO PRIMERO, así como la reforma al artículo 54, fracción XVII, de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, los cuales iniciarán su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Las referencias que se hagan del salario mínimo, salario mínimo general de la zona o factor de cálculo en las normas locales vigentes, en tanto no se reformen para contemplar la Unidad de Medida y Actualización, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Medida y Actualización, a partir de la entrada en vigor de la presente Ley.
+
+Artículo Cuarto. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2017, serán las siguientes:
+
+I. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente;
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos; y
+
+c) La expedición de certificados de no propiedad;
+
+II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular;
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular; y
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios; y
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+IV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial;
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos;
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos; y
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+V. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
+
+VI. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
+
+VII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+VIII. Se cancelan los créditos fiscales en los registros de las autoridades fiscales por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2016, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+No procederá la cancelación a que se refiere este artículo, cuando se trate de créditos fiscales derivados de obligaciones relacionadas con la propiedad, tenencia o uso de vehículos.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago.
+
+Los registros de vehículos contenidos en el Padrón Vehicular Estatal, que no hayan sido actualizados a más tardar en el ejercicio fiscal 2012, serán considerados como inactivos por las autoridades fiscales. Estos registros podrán reactivarse cuando su propietario pretenda realizar alguna modificación a los mismos, cubriendo las obligaciones fiscales aplicables;
+
+IX. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del impuesto predial;
+
+X. Los servicios prestados por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado, contemplados en la fracción I del artículo 153, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán una cuota adicional equivalente a 0.50 UMA al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria, que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo;
+
+XI. Los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 135 de la Ley de Hacienda del Estado de Querétaro, tendrán las siguientes reducciones:
+
+REDUCCIÓN SUPUESTO
+
+30% En los paquetes familiares (por lo menos
+
+tres personas en las diferentes disciplinas,
+
+previa entrega de una copia del acta de
+
+nacimiento de cada familiar).
+
+Para adultos mayores.
+
+XII. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa Apoyo Tenencia, podrán determinar el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, considerando una reducción del veinticinco por ciento respecto de las cuotas, tasas y tarifas establecidas en dicho ordenamiento para efectos de su cálculo;
+
+XIII. Por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará una cuota adicional equivalente a 0.50 UMA a los derechos que se señalan en las fracciones referidas de dicho precepto.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador;
+
+XIV. Por la prestación de los servicios previstos en las fracciones I y II del artículo 157, de la Ley de Hacienda del Estado de Querétaro, adicionalmente al derecho que en dicho precepto se señala, se causará y pagará el equivalente a 0.85 UMA.
+
+Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+En todo caso, las cantidades que se recauden en los términos de esta fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía;
+
+XV. Las calcomanías de revalidación y la tarjeta de circulación a que hace referencia el segundo párrafo de la fracción I del artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014, 2015 y 2016, continuarán vigentes hasta el 31 de marzo de 2018.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago de los derechos correspondientes al ejercicio fiscal 2017, por el servicio de refrendo y del impuesto sobre tenencia o uso de vehículos que contempla la referida ley y no tener adeudos por los mismos conceptos de ejercicios anteriores.
+
+Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y tarjeta de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, con el respectivo comprobante de pago conteniendo la cadena y sello digital que expida la autoridad fiscal;
+
+XVI. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
+
+XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto sobre loterías, rifas, sorteos, concursos y juegos con apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaría en vigor a partir del 1° de enero del 2015, y
+
+XVIII. Los derechos previstos en los artículos 169 BIS y 169 TER de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del (sic) Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
+
+Artículo Quinto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
