@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-101805"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-07-21"
-last_updated: "2014-12-20"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CODIGO FISCAL DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO TERCERO DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO" PUBLICADO EN EL P.O. 16 DE DICIEMBRE DE 2016, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO, SALARIO MÍNIMO GENERAL DE LA ZONA O FACTOR DE CÁLCULO EN LAS NORMAS LOCALES VIGENTES, EN TANTO NO SE REFORMEN PARA CONTEMPLAR LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el lunes 21 de julio de 2014.
 
@@ -1315,13 +1317,35 @@ Las copias, impresiones o reproducciones que deriven del microfilm, disco óptic
 
 Las autoridades fiscales presumirán como cierta la información contenida en los comprobantes fiscales digitales por Internet y en las bases de datos que lleven o tengan en su poder o a las que tengan acceso.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 89.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo que concierne a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados.
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo que concierne a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación.
 
-Dicha reserva, no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a funcionarios, encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+Dicha reserva, no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a funcionarios, encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias o en el supuesto previsto en el artículo 88 de este Código. La reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con la Ley para Regular las Sociedades de Información Crediticia.
 
 Se podrá proporcionar a otras autoridades para el cumplimiento de sus funciones, la información siguiente: nombre, domicilio, comprobante de registro vehicular o cualquier otro tendiente a la identificación del contribuyente; así como los datos de carácter estadístico no individualizados que soliciten las dependencias encargadas de la elaboración de informes estadísticos.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+La reserva a que se refiere el primer párrafo de este artículo no resulta aplicable respecto del nombre, denominación o razón social y clave del Registro Federal de Contribuyentes de aquellos contribuyentes que se encuentren en los siguientes supuestos:
+
+I. Que tengan a su cargo créditos fiscales firmes;
+
+II. Que tengan a su cargo créditos fiscales determinados, que, siendo exigibles, no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código;
+
+III. Que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales estatales, que el Estado de Querétaro recaude y/o administre, y
+
+IV. Que estando inscritos ante los registros de contribuyentes establecidos por las autoridades fiscales, se encuentren como no localizados.
 
 ###### Artículo 90.
 
@@ -1535,7 +1559,11 @@ II. Obtener o usar más de un número del registro que corresponda, para el cump
 
 III. Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar las contribuciones correspondientes;
 
-IV. No solicitar oportunamente los permisos, placas, cédulas de registro, o cualquier otro documento exigido por las disposiciones fiscales; no tenerlos en los lugares que señalen dichas disposiciones; no devolverlos oportunamente dentro del plazo establecido; o no citar su número de registro o de cuenta, en declaraciones, manifestaciones, avisos o cualquiera otras gestiones o solicitudes que hagan ante las autoridades fiscales;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+IV. No solicitar oportunamente los permisos, cédulas de registro, o cualquier otro documento exigido por las disposiciones fiscales; no tenerlos en los lugares que señalen dichas disposiciones; no devolverlos oportunamente dentro del plazo establecido; o no citar su número de registro o de cuenta, en declaraciones, manifestaciones, avisos o cualquiera otras gestiones o solicitudes que hagan ante las autoridades fiscales;
 
 V. Emprender cualquier explotación sin obtener previamente el permiso, o sin llenar los requisitos exigidos por los ordenamientos fiscales;
 
@@ -1571,9 +1599,23 @@ XIX. Resistirse por cualquier medio a las visitas de inspección; no suministrar
 
 XX. No conservar los libros, documentos y correspondencia que les sean dejados en calidad de depositarios, por los visitadores al estarse practicando visitas domiciliarias;
 
-XXI. Infringir otras disposiciones fiscales en forma no prevista en las fracciones precedentes; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXII. Trasladar indebidamente las contribuciones a su cargo, cuando la ley o la naturaleza de las mismas no lo permitan.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XXI. Infringir otras disposiciones fiscales en forma no prevista en las fracciones precedentes;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XXII. Trasladar indebidamente las contribuciones a su cargo, cuando la ley o la naturaleza de las mismas no lo permitan, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XXIII. No devolver las placas metálicas de circulación que se hubieran asignado, para el caso de baja o canje de placas, o cualquier otro supuesto establecido en ley, por el que se requiera su entrega.
 
 ###### Artículo 98.
 
@@ -1693,9 +1735,13 @@ XIX. Infringir disposiciones fiscales en forma distinta de las previstas en las 
 
 Las autoridades fiscales impondrán las sanciones que señalan los ordenamientos fiscales, por infracción a los mismos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 102.
 
-Tomando como base el salario mínimo vigente se impondrá multa por cada infracción de las previstas en los artículos 97, 98, 99 y 100, como sigue:
+Tomando como base la UMA, se impondrá multa por cada infracción de las previstas en los artículos 97, 98, 99 y 100 del presente Código, como sigue:
 
 I. De 10 a 50 veces:
 
@@ -1711,7 +1757,11 @@ A las fracciones I, II, III, VI, IX, XI, XII, XVI y XIX del artículo 97.
 
 A las fracciones I, II, III, IV, V, VI, VII, VIII, IX y XIV del artículo 98.
 
-A las fracciones II, VII, VIII, IX, X, XI y XII del artículo 99; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+A las fracciones II, VII, VIII, IX, X, XI y XII del artículo 99;
 
 III. De 150 a 300 veces:
 
@@ -1721,7 +1771,17 @@ A las fracciones X, XI, XII y XIII del artículo 98.
 
 A las fracciones III, IV, V, VI, XIII, XIV, y XV del artículo 99.
 
-A las fracciones IX, XVI, XVII y XVIII del artículo 100.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+A las fracciones IX, XVI, XVII y XVIII del artículo 100, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA0 PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+IV. 15 veces, a la fracción XXIII del artículo 97.
 
 ###### Artículo 103.
 
@@ -2019,7 +2079,11 @@ II. Señalar la autoridad que lo emite;
 
 III. Estar fundado y motivado y expresar la resolución, objeto o propósito de que se trate;
 
-IV. Ostentar la firma autógrafa del funcionario competente; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+IV. Ostentar la firma autógrafa o electrónica del funcionario competente, y
 
 V. El nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
 
@@ -2041,7 +2105,11 @@ También se realizará notificación por estrados, cuando la persona a quien deb
 
 Tratándose de personas morales que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente se tenga obligación de presentar dicho aviso.
 
-Las notificaciones por estrados se harán fijando durante cinco días consecutivos el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día siguiente al primer día en que se hubiera fijado o publicado el documento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+Las notificaciones por estrados se harán fijando durante cinco días consecutivos el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación o publicando el documento citado durante el mismo plazo, en la página electrónica que al efecto establezcan las autoridades fiscales, dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día contado a partir del día siguiente a aquél en el que se hubiera fijado o publicado el documento.
 
 c) Por edictos, en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión.
 
@@ -3234,3 +3302,121 @@ Artículo Tercero. Se abroga la Ley para el Manejo de los Recursos Públicos del
 Artículo Cuarto. Para efectos de lo dispuesto en la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, los sujetos de dicho ordenamiento, estarán obligados a dar cumplimiento a lo establecido en la presente Ley en materia de contabilidad gubernamental y presentación de la información financiera, de conformidad con los plazos que al efecto establezca el Congreso de la Unión en la Ley respectiva, así como aquellos que se prevean en la normatividad que emitan los órganos que la misma autorice para tal efecto.
 
 Artículo Quinto. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO FISCAL DEL ESTADO DE QUERÉTARO, DE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE QUERÉTARO, DE LA LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE QUERÉTARO, DEL CÓDIGO URBANO DEL ESTADO DE QUERÉTARO Y DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2017, con excepción del ARTÍCULO DÉCIMO PRIMERO, así como la reforma al artículo 54, fracción XVII, de la Ley de la Administración Pública Paraestatal del Estado de Querétaro, los cuales iniciarán su vigencia a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Las referencias que se hagan del salario mínimo, salario mínimo general de la zona o factor de cálculo en las normas locales vigentes, en tanto no se reformen para contemplar la Unidad de Medida y Actualización, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Medida y Actualización, a partir de la entrada en vigor de la presente Ley.
+
+Artículo Cuarto. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2017, serán las siguientes:
+
+I. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente;
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos; y
+
+c) La expedición de certificados de no propiedad;
+
+II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular;
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular; y
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate.
+
+Se causará un derecho a razón de 5 UMA por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios; y
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+IV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial;
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos;
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos; y
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+V. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 UMA;
+
+VI. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
+
+VII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+VIII. Se cancelan los créditos fiscales en los registros de las autoridades fiscales por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2016, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+No procederá la cancelación a que se refiere este artículo, cuando se trate de créditos fiscales derivados de obligaciones relacionadas con la propiedad, tenencia o uso de vehículos.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago.
+
+Los registros de vehículos contenidos en el Padrón Vehicular Estatal, que no hayan sido actualizados a más tardar en el ejercicio fiscal 2012, serán considerados como inactivos por las autoridades fiscales. Estos registros podrán reactivarse cuando su propietario pretenda realizar alguna modificación a los mismos, cubriendo las obligaciones fiscales aplicables;
+
+IX. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del impuesto predial;
+
+X. Los servicios prestados por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado, contemplados en la fracción I del artículo 153, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán una cuota adicional equivalente a 0.50 UMA al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria, que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo;
+
+XI. Los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 135 de la Ley de Hacienda del Estado de Querétaro, tendrán las siguientes reducciones:
+
+REDUCCIÓN SUPUESTO
+
+En los paquetes familiares (por lo menos tres
+
+30% personas en las diferentes disciplinas, previa
+
+entrega de una copia del acta de nacimiento
+
+de cada familiar).
+
+Para adultos mayores.
+
+XII. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa Apoyo Tenencia, podrán determinar el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, considerando una reducción del veinticinco por ciento respecto de las cuotas, tasas y tarifas establecidas en dicho ordenamiento para efectos de su cálculo;
+
+XIII. Por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará una cuota adicional equivalente a 0.50 UMA a los derechos que se señalan en las fracciones referidas de dicho precepto.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador;
+
+XIV. Por la prestación de los servicios previstos en las fracciones I y II del artículo 157, de la Ley de Hacienda del Estado de Querétaro, adicionalmente al derecho que en dicho precepto se señala, se causará y pagará el equivalente a 0.85 UMA.
+
+Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+En todo caso, las cantidades que se recauden en los términos de esta fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía;
+
+XV. Las calcomanías de revalidación y la tarjeta de circulación a que hace referencia el segundo párrafo de la fracción I del artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014, 2015 y 2016, continuarán vigentes hasta el 31 de marzo de 2018.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago de los derechos correspondientes al ejercicio fiscal 2017, por el servicio de refrendo y del impuesto sobre tenencia o uso de vehículos que contempla la referida ley y no tener adeudos por los mismos conceptos de ejercicios anteriores.
+
+Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y tarjeta de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, con el respectivo comprobante de pago conteniendo la cadena y sello digital que expida la autoridad fiscal;
+
+XVI. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución;
+
+XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto sobre loterías, rifas, sorteos, concursos y juegos con apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaría en vigor a partir del 1° de enero del 2015, y
+
+XVIII. Los derechos previstos en los artículos 169 BIS y 169 TER de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
+
+Artículo Quinto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
