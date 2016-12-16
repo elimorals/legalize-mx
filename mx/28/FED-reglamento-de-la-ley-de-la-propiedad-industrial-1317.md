@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-la-propiedad-industrial-1317"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-23"
-last_updated: "2011-06-10"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-11-18"
 
 REGLAMENTO DE LA LEY DE LA PROPIEDAD INDUSTRIAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE JUNIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de noviembre de 1994.
 
@@ -39,69 +39,85 @@ REGLAMENTO DE LA LEY DE LA PROPIEDAD INDUSTRIAL
 
 El presente ordenamiento tiene por objeto reglamentar la Ley de la Propiedad Industrial y su aplicación e interpretación, para efectos administrativos, corresponde al Instituto Mexicano de la Propiedad Industrial.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 2o.
 
-Además de las definiciones previstas en el artículo 3o. de la Ley de la Propiedad Industrial, para los efectos de este Reglamento se entenderá por:
-
-I.- Gaceta: la Gaceta de la Propiedad Industrial a que se refiere el artículo 8o. de la Ley;
-
-II.- Ley: la Ley de la Propiedad Industrial, y
-
-III.- Secretaría: la Secretaría de Comercio y Fomento Industrial.
+Para efectos de este Reglamento, además de las definiciones previstas en el artículo 3o. de la Ley, se entenderá por Secretaría a la Secretaría de Economía.
 
 ###### ARTICULO 3o.
 
 El Director General del Instituto expedirá, mediante Acuerdo, las reglas y especificaciones de los documentos en los cuales se contenga la información relativa a las descripciones, reivindicaciones, dibujos y resúmenes para poder ser admitidos.
 
-Asimismo, podrá establecer procedimientos y requisitos específicos para facilitar la operación del Instituto y garantizar la seguridad jurídica de los particulares.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+Asimismo, podrá establecer procedimientos y requisitos específicos para facilitar la operación del Instituto y garantizar la seguridad jurídica de los particulares, incluyendo las reglas generales para la gestión de trámites a través de medios de comunicación electrónica.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 4o.
 
-Para el cómputo de los plazos establecidos por periodos, a que se refiere el artículo 184 de la Ley fijados en meses o años, se entenderá que el plazo concluye el mismo número de día del mes o año de calendario que corresponda. Si un plazo fijado en meses o años expira en un día en que el Instituto no labore, ese plazo expirará el primer día hábil siguiente.
+Para el cómputo de los plazos establecidos en meses o años a que se refiere el artículo 184 de la Ley, se entenderá que el plazo concluye el mismo número de día del mes o año de calendario que corresponda.
 
-El Instituto publicará en el Diario Oficial, en el mes de enero de cada año, los días en que se suspenderán las labores.
+Cuando no exista el mismo número de día en el mes de calendario correspondiente, el plazo concluirá el primer día hábil del siguiente mes de calendario.
+
+Si un plazo fijado en meses o años expira en un día inhábil, ese plazo expirará el primer día hábil siguiente. El Instituto dará a conocer mediante Acuerdo publicado en el Diario Oficial los días que se considerarán como inhábiles.
 
 ### CAPITULO II. DE LAS SOLICITUDES Y PROMOCIONES
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 5o.
 
-Las solicitudes o promociones deberán presentarse ante el propio Instituto o en las delegaciones de la Secretaría y cumplir los siguientes requisitos:
+Las solicitudes o promociones deberán cumplir, además de lo previsto en la Ley y este Reglamento, con los requisitos siguientes:
 
-I.- Estar debidamente firmadas en todos sus ejemplares;
+I. Estar debidamente firmadas en todos sus ejemplares;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE JUNIO DE 2011)</small>
+II. Utilizar las formas oficiales publicadas en el Diario Oficial y en la Gaceta, con el número de ejemplares y anexos que se establezca en la propia forma, las cuales deberán presentarse debidamente requisitadas. Para efectos de presentar dichas formas, a través de medios electrónicos, se estará a lo dispuesto en el Acuerdo que emita el Director General del Instituto.
 
-II.- Utilizar las formas oficiales, aprobadas por el Instituto y publicadas en el Diario Oficial y en la Gaceta, en el número de ejemplares y anexos que se establezca en la propia forma, las que deberán presentarse debidamente requisitadas y, tratándose de medios electrónicos o de almacenamiento de datos, conforme al Acuerdo que el Instituto emita al efecto.
+En caso de que un trámite ante el Instituto no cuente con una forma oficial publicada en términos del párrafo anterior, las solicitudes o promociones deberán presentarse en escrito libre, por duplicado cumpliendo, en lo que resulte aplicable, lo dispuesto en el artículo 5o TER de este Reglamento;
 
-En caso de no requerirse formas oficiales, las solicitudes o promociones deberán presentarse por duplicado, indicando al rubro el tipo de trámite solicitado y los datos a que se refiere la fracción V de este artículo;
+III. Presentar los anexos que para cada solicitud o promoción sean necesarios conforme a la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables, los cuales deberán ser legibles y estar fijados de cualquier forma, en un soporte material conocido o por conocerse, que permita su percepción o reproducción. Los anexos presentados por medios de comunicación electrónica, se sujetarán a lo previsto en el Acuerdo que emita el Director General del Instituto para tal efecto;
 
-III.- Acompañarse de los anexos que en cada caso sean necesarios, los que deberán ser legibles y estar mecanografiados, impresos o grabados por cualquier medio;
+IV. Señalar domicilio para oír y recibir notificaciones en el territorio nacional;
 
-IV.- Señalar domicilio para oír y recibir notificaciones en el territorio nacional;
+V. Señalar el número de expediente de la solicitud, patente, registro, publicación, declaratoria o autorización correspondiente o, en su caso, el número de folio, así como su fecha de recepción, salvo en el caso de solicitudes iniciales;
 
-V.- Indicar el número de solicitud, patente, registro, publicación, declaratoria, o folio y fecha de recepción a que se refieran, salvo en el caso de solicitudes iniciales de patente o registro;
+VI. Presentar el comprobante de pago de la tarifa correspondiente;
 
-VI.- Acompañarse del comprobante de pago de la tarifa correspondiente;
+VII. Presentar, en su caso, la traducción de los documentos escritos en idioma distinto al español que se acompañen con la solicitud o promoción respectiva;
 
-VII.- Acompañarse de la correspondiente traducción al español de los documentos escritos en idioma distinto que se exhiban con la solicitud o promoción;
+VIII. Presentar los documentos que acrediten el carácter de causahabientes, así como el de la personalidad de los apoderados o representantes legales, y
 
-VIII.- Acompañarse de los documentos que acrediten el carácter de los causahabientes, la personalidad de los apoderados o representantes legales, y
+IX. Presentar la legalización o apostilla de los documentos provenientes del extranjero, cuando proceda.
 
-IX.- Acompañarse de la legalización de los documentos provenientes del extranjero, cuando proceda.
+Cuando la solicitud o promoción no cumpla con lo previsto en la fracción I del presente artículo, ésta se desechará de plano.
 
-Las solicitudes y promociones deberán presentarse por separado para cada asunto, salvo cuando se trate de inscripción de licencias o transmisiones en los términos previstos en los artículos 62, 63, 137 y 143 de la Ley; inscripción de transmisiones de derechos en las que hayan habido transmisiones intermedias no inscritas, y las relacionadas a un mismo asunto.
+En caso de que la solicitud o promoción no cumpla con lo señalado en la fracción VI de este artículo, el Instituto requerirá por única ocasión al solicitante para que exhiba el comprobante de pago de las tarifas correspondientes en términos del Acuerdo respectivo, otorgándole para ello un plazo de cinco días hábiles, contado a partir del día hábil siguiente al de la notificación de dicha omisión. En caso de no cumplir con el requerimiento dentro del plazo señalado, la solicitud o promoción será desechada de plano.
 
-> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+Cuando una solicitud o promoción no cumpla con cualquiera de las fracciones II a V y VII a IX de este artículo, el Instituto requerirá al solicitante para que dentro de un plazo de dos meses, contado a partir del día hábil siguiente al de la notificación, subsane la omisión en que incurrió o haga las aclaraciones que correspondan. En caso de no cumplir con el requerimiento dentro del plazo señalado, la solicitud o promoción será desechada de plano.
 
-Con excepción a lo previsto por el artículo 36 de este Reglamento, cuando las solicitudes o promociones no cumplan con los requisitos establecidos en las fracciones II a V y VII a IX anteriores, el Instituto requerirá a los solicitantes o promoventes para que dentro de un plazo de dos meses los subsanen. En caso de no cumplir con el requerimiento, las solicitudes o promociones serán desechadas de plano.
+Se exceptúa de lo dispuesto en el párrafo anterior, lo previsto en los artículos 36 y 59 TER, párrafos segundo y tercero de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
-En caso de que las solicitudes o promociones no cumplan con los requisitos que se establecen en las fracciones I y VI de este artículo, se estará a lo dispuesto por el artículo 180 de la Ley.
+ARTICULO 5o BIS.- Las solicitudes o promociones podrán presentarse, de manera indistinta, directamente en las oficinas del Instituto, o bien, en las delegaciones o subdelegaciones de la Secretaría. Asimismo, se podrán presentar al Instituto mediante correo certificado con acuse de recibo; servicios de mensajería, paquetería u otros equivalentes, o bien, a través de medios de comunicación electrónica conforme al Acuerdo que para tal efecto emita el Director General del Instituto.
 
-Las solicitudes y promociones remitidas por correo, servicios de mensajería u otros equivalentes se tendrán por recibidas en la fecha en que le sean efectivamente entregadas al Instituto.
+Las solicitudes o promociones remitidas por correo certificado con acuse de recibo se tendrán por presentadas en la fecha que indique el sello fechador de la oficina de correos, debiendo agregarse al expediente el sobre sin destruir en donde éste aparezca.
 
-Se podrán presentar solicitudes o promociones por transmisión telefónica facsimilar, siempre que la solicitud o promoción y sus anexos originales, acompañados del comprobante del pago de la tarifa que en su caso proceda y del acuse de recibo de la transmisión facsimilar, sean presentados en las oficinas del propio Instituto al día siguiente de haberse efectuado la transmisión. En este caso, bastará que la transmisión facsimilar contenga la solicitud o promoción.
+Las solicitudes o promociones remitidas por servicios de mensajería, paquetería u otros equivalentes, se tendrán por presentadas en la fecha en que le sean efectivamente entregadas al Instituto.
+
+Las solicitudes o promociones enviadas a través del servicio electrónico que el Instituto establezca para facilitar su presentación fuera de la ventanilla de atención al público, se tendrán por presentadas el día de su recepción, siempre que cumplan con los requisitos establecidos en el Acuerdo que emita el Director General para tal efecto.
+
+Salvo que otra disposición en la Ley o este Reglamento señalen algo distinto, los plazos para que el Instituto emita la respuesta a las solicitudes o promociones presentadas empezarán a correr a partir del día hábil siguiente a aquél en que las reciba, independientemente del medio que se haya utilizado para dicha presentación.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 5o TER.- Las solicitudes o promociones deberán presentarse por cada trámite que se pretenda realizar ante el Instituto y deberán referirse a una sola patente, registro, publicación, declaratoria o autorización o, en caso de que se encuentre en trámite, al número de expediente que se le haya asignado a la solicitud o promoción de dicho trámite. Se exceptúa de lo anterior, a las inscripciones de licencias, transmisiones o gravámenes de patentes o registros a que se refieren los artículos 62, 63, 137 y 143 de la Ley, así como lo previsto en el párrafo siguiente.
+
+Con exclusión de los procedimientos de declaración administrativa, se podrá solicitar mediante una sola promoción el cambio de nombre o domicilio del solicitante o titular; la acreditación del nuevo mandatario o apoderado, o el cambio de domicilio para oír y recibir notificaciones, para dos o más solicitudes en trámite, o dos o más patentes, registros, publicaciones, declaratorias o autorizaciones, siempre que haya identidad del solicitante o titular y, en su caso, del mandatario o apoderado en todos los expedientes y éstos se encuentren en el mismo archivo de trámite de la unidad administrativa del Instituto que conoce de dichas solicitudes, patentes, registros, publicaciones, declaratorias o autorizaciones.
+
+Las tarifas correspondientes se pagarán en función del número de solicitudes, patentes, registros, publicaciones, declaratorias o autorizaciones involucrados.
 
 ###### ARTICULO 6o.
 
@@ -119,7 +135,9 @@ a) La fecha y hora de recepción;
 
 b) El número progresivo de recepción que les corresponda;
 
-c) En su caso, el número de expediente en trámite que les asigne tratándose de solicitudes, y
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+c) Tratándose de solicitudes, el número de expediente que se les asigne para su trámite, y
 
 d) La fecha y hora de presentación, cuando la solicitud cumpla con lo dispuesto en los artículos 38 Bis y 121 de la Ley, y 38 de este Reglamento, y
 
@@ -129,73 +147,87 @@ III.- Devolverá a los solicitantes o promoventes un ejemplar sellado de las mis
 
 En ningún caso podrá reanudarse el trámite o procedimiento terminado por abandono de la solicitud que lo inició.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 9o.
 
-La solicitud de inscripción de una transmisión de los derechos conferidos por una patente, certificado de invención, registro, autorización o solicitud en trámite, cambio de denominación o razón social, transformación de régimen jurídico o fusión, deberá, además de los requisitos a que se refiere el artículo 5o. de este Reglamento:
+La solicitud de inscripción de una transmisión de los derechos conferidos por una patente, registro, autorización o solicitud en trámite; cambio de denominación o razón social; transformación de régimen jurídico o fusión deberá cumplir, además de los requisitos previstos en el artículo 5o. de este Reglamento, con lo siguiente:
 
-I.- Señalar el nombre, denominación o razón social y la nacionalidad del titular inmediato anterior del derecho o de los sucesivos titulares anteriores, cuando las correspondientes transmisiones o modificaciones no hayan sido previamente inscritas, así como los mismos datos, del nuevo titular además de los datos que se soliciten en las formas oficiales, y
+I. Señalar el nombre o denominación o razón social y la nacionalidad del nuevo titular, así como de los titulares anteriores del derecho cuando las transmisiones o modificaciones se hubieran llevado a cabo sin la inscripción correspondiente ante el Instituto;
 
-II.- Acompañarse de un ejemplar certificado o con firmas autógrafas del o de los convenios o documentos en que consten las transmisiones o modificaciones de derechos, incluyendo aquellos que correspondan a transmisiones o modificaciones celebradas con anterioridad, que no hubieran sido inscritos.
+II. Presentar un ejemplar original o en copia certificada, del o de los convenios o documentos en que consten las transmisiones o modificaciones de derechos, incluyendo aquellos que correspondan a transmisiones o modificaciones anteriores, que no hubieran sido inscritas ante el Instituto.
 
-La solicitud de inscripción podrá ser presentada por el titular cedente o subrogante o el titular cesionario o subrogatario.
+El ejemplar que se presente en términos del párrafo anterior deberá contener las firmas de las partes en dichos convenios o documentos;
+
+III. Señalar el domicilio para oír y recibir notificaciones del nuevo titular, y
+
+IV. Señalar, en su caso, al nuevo apoderado o representante legal en el expediente.
+
+La solicitud de inscripción a que se refiere este artículo podrá ser presentada por cualquiera de las partes que intervienen en las transmisiones o modificaciones.
+
+Para la inscripción de un gravamen se aplicará, en lo conducente, lo dispuesto en el presente artículo.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 10.
 
-La solicitud de inscripción de una licencia de uso de cualquier derecho de propiedad industrial o franquicia, además de los requisitos a que se refiere el artículo 5o. de este Reglamento, deberá señalar:
+La solicitud de inscripción de una licencia de uso de cualquier derecho de propiedad industrial o franquicia, además de cumplir con los requisitos previstos en el artículo 5o. de este Reglamento, deberá señalar el nombre o denominación o razón social del licenciante o franquiciante y del licenciatario o franquiciatario, así como la nacionalidad y domicilio de estos últimos.
 
-I.- El nombre, denominación o razón social, nacionalidad y domicilio del licenciante o franquiciante y licenciatario o franquiciatario;
+Con la solicitud a que se refiere el párrafo anterior, deberá acompañarse un ejemplar original o en copia certificada del convenio en que conste la licencia, autorización de uso o franquicia. Dicho ejemplar deberá contener las firmas de las partes en el convenio referido y podrá omitir las estipulaciones contractuales que se refieran a las regalías y demás contraprestaciones que deba pagar el licenciatario, usuario autorizado o franquiciatario; las que se refieran a información confidencial, referente a las formas o medios de distribución y comercialización de los bienes y servicios, así como los anexos de información técnica que lo integren.
 
-II.- La vigencia del convenio;
+La solicitud de inscripción a que se refiere este artículo podrá ser presentada por cualquiera de las partes que intervienen en la licencia de uso o franquicia.
 
-III.- Si el convenio reserva al licenciante, usuario autorizado o franquiciante la facultad de ejercer las acciones legales de protección del derecho de propiedad industrial materia del mismo;
-
-IV.- Tratándose de licencia de uso de marca, los productos o servicios respecto de los cuales se concede la licencia, y
-
-V.- Los demás datos que se soliciten en las formas oficiales.
-
-La solicitud deberá acompañarse de un ejemplar certificado o con firmas autógrafas del convenio en que conste la licencia, autorización de uso o franquicia. Podrán omitirse en el ejemplar que se exhiba, las estipulaciones contractuales que se refieran a las regalías y demás contraprestaciones que deba pagar el licenciatario, usuario autorizado o franquiciatario; las que se refieran a información confidencial, referente a las formas o medios de distribución y comercialización de los bienes y servicios, así como los anexos de información técnica que lo integren.
-
-La solicitud de inscripción podrá ser presentada por cualquiera de las partes.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 11.
 
-Para la inscripción de transferencias de titularidad o licencias de derechos relativos a dos o más solicitudes en trámite, patentes o registros, en los términos establecidos en los artículos 62, 63, 137 y 143 de la Ley, deberán cumplirse, además de los requisitos señalados en los artículos 9o. y 10 de este Reglamento, los siguientes:
+Para la inscripción de transferencias de titularidad o licencias de derechos relativos a dos o más solicitudes en trámite o de dos o más patentes, registros o publicaciones, en términos de los artículos 62, 63, 137 y 143 de la Ley, la solicitud o promoción, además de cumplir con los requisitos señalados en los artículos 9o. y 10 de este Reglamento, deberá señalar los números de expediente (sic) de las solicitudes en trámite o de las patentes, registros o publicaciones involucrados.
 
-I.- Exhibir dos copias certificadas o con firmas autógrafas del o de los convenios o documentos en que consten las correspondientes transmisiones o licencias;
+El Instituto emitirá un oficio que contenga la resolución sobre la inscripción solicitada, anexando copia de dicho oficio en cada expediente o solicitud involucrada con los trámites a que se refiere este artículo.
 
-II.- Referirse, en cada promoción, ya sea a patentes, registros de modelo de utilidad y diseños industriales concedidos o en trámite, o bien a marcas registradas o en trámite.
+El solicitante podrá requerir la expedición de copias certificadas del convenio exhibido, a fin de que éstas sean glosadas a alguno o algunos de los expedientes o solicitudes involucrados con los trámites a que se refiere este artículo.
 
-El Instituto emitirá un oficio que contenga la resolución sobre la inscripción solicitada, anexando copia del mismo en cada expediente o solicitud.
-
-El solicitante o promovente podrá solicitar la expedición de copias certificadas del convenio exhibido, a fin de que éstas sean glosadas a alguno o algunos de los expedientes o solicitudes contenidas en el convenio.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 12.
 
-El Instituto resolverá lo que corresponda sobre las solicitudes o promociones de inscripción a que se refieren los tres artículos anteriores, dentro de los dos meses siguientes a la fecha de recepción de las mismas, o de aquella en que se dé cumplimiento a requerimientos formulados por el Instituto.
+Cuando las solicitudes o promociones de inscripción a que se refieren los artículos 9o., 10 y 11 de este Reglamento no cumplan con los requisitos señalados en los mismos, el Instituto requerirá, por una sola vez al solicitante para que dentro del plazo de dos meses contado a partir del día hábil siguiente al de la notificación, subsane la omisión en que incurrió o haga las aclaraciones que correspondan.
 
-Cuando la inscripción solicitada no proceda, por falta de algún requisito, o por cualquiera otra causa, el Instituto notificará al solicitante para que, dentro del plazo de dos meses, manifieste lo que a su derecho convenga.
+En caso de que el interesado no cumpla con el requerimiento dentro del plazo establecido en el párrafo anterior, la solicitud o promoción será desechada de plano.
 
 ### CAPITULO III. DE LAS NOTIFICACIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 13.
 
-Las resoluciones, requerimientos y demás actos del Instituto se notificarán a los solicitantes o terceros interesados por correo certificado con acuse de recibo al domicilio que hubiesen señalado al efecto. También podrán notificarse personalmente en el domicilio señalado, en las oficinas del Instituto o por publicación en la Gaceta.
+El Instituto podrá notificar, según corresponda conforme a la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables, las resoluciones, requerimientos y demás actos que emita a los solicitantes, oponentes o terceros interesados, por correo certificado con acuse de recibo al domicilio que hubiesen señalado; personalmente en dicho domicilio o en las oficinas del Instituto; por publicación en la Gaceta; por estrados, o por medios de comunicación electrónica.
 
 El Instituto podrá emplear otros medios de notificación tales como servicios de mensajería, el cual será con cargo al particular que lo solicite.
 
-Las notificaciones personales en el domicilio de los solicitantes, terceros interesados o representantes legales sólo se ordenarán y efectuarán, además del caso previsto en el artículo 72 de la Ley, en los casos en que el Instituto estime conveniente.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
-Las notificaciones personales en las oficinas del Instituto podrán efectuarse cuando el solicitante, tercero interesado, sus apoderados o las personas autorizadas en los términos de la fracción V del artículo 16 de este Reglamento, ocurran personalmente a éstas.
+Las notificaciones personales en el domicilio de los solicitantes, oponentes, terceros interesados o representantes legales sólo se ordenarán y efectuarán, además del caso previsto en el artículo 72 de la Ley, en los casos en que el Instituto lo estime conveniente.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+Las notificaciones personales en las oficinas del Instituto podrán efectuarse cuando el solicitante, oponente, tercero interesado, sus apoderados o las personas autorizadas en términos de la fracción V del artículo 16 de este Reglamento, ocurran personalmente a éstas.
 
 Las notificaciones personales y las que se realicen por correo certificado con acuse de recibo surtirán efectos a partir del día en que sean entregados a los interesados.
 
 Los plazos comenzarán a correr a partir del día siguiente en que surta efectos la notificación.
 
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+Las notificaciones por medios de comunicación electrónica podrán efectuarse cuando el solicitante, oponente, tercero interesado o sus apoderados manifiesten expresamente su conformidad para que se efectúen por dichos medios. Estas notificaciones se realizarán conforme a los términos que prevea el Acuerdo que para tal efecto expida el Director General del Instituto.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 14.
 
-La Gaceta es el órgano de difusión del Instituto, la cual se editará mensualmente y se dividirá en secciones. En una sección se harán las publicaciones relativas a invenciones, modelos de utilidad y diseños industriales y en otra las que se refieran a marcas, avisos y nombres comerciales y denominaciones de origen.
+La Gaceta es el órgano de difusión del Instituto, en el cual se harán las publicaciones a que se refiere la Ley y este Reglamento.
 
-El Instituto publicará los nombres y ubicación de las instituciones nacionales, públicas o privadas, en las que también podrá consultarse la Gaceta.
+La Gaceta se publicará a través de la página electrónica del Instituto en días hábiles. En caso de requerirse, el Instituto podrá ordenar más de una publicación por día.
 
 ###### ARTICULO 15.
 
@@ -207,15 +239,21 @@ Se publicarán en la Gaceta además de los actos, documentos y signos que deban 
 
 El acreditamiento de la personalidad de apoderados y representantes se sujetará a lo siguiente:
 
-I.- La carta poder a que se refiere el artículo 181, fracciones I y II de la Ley, deberá contener el nombre, firma y domicilio de dos testigos. Los otorgantes podrán ser nacionales o extranjeros;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+I.- La carta poder a que se refiere el artículo 181, fracciones I y II de la Ley, deberá contener el nombre y firma de los testigos. Los otorgantes podrán ser nacionales o extranjeros;
 
 II.- Se reconocerán para actuar en procedimientos administrativos los poderes generales otorgados para actos de administración o para pleitos y cobranzas;
 
-III.- En los casos previstos en los artículos 187 y 200 de la Ley, los solicitantes o promoventes podrán acreditar su personalidad con copia de la constancia de inscripción del poder de que se trate en el Registro General de Poderes del Instituto, siempre y cuando en el mismo se contengan facultades para pleitos y cobranzas;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+III.- En el caso previsto en el artículo 187 de la Ley, se podrá acreditar la personalidad con copia de la constancia de inscripción del poder de que se trate en el Registro General de Poderes del Instituto, siempre que dicho poder contenga facultades para pleitos y cobranzas;
 
 IV.- Los poderes especiales se reconocerán para realizar los actos para los cuales se otorgaron, y
 
-V.- Los solicitantes que actúen por sí, los apoderados y representantes legales, podrán autorizar en sus solicitudes y promociones a otras personas físicas para oír y recibir notificaciones y documentos.
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+V.- Los solicitantes u oponentes que actúen por sí o sus apoderados y representantes legales, podrán autorizar en sus solicitudes y promociones a otras personas físicas para oír y recibir notificaciones y documentos.
 
 ###### ARTICULO 17.
 
@@ -229,23 +267,31 @@ En cada solicitud o promoción bastará acompañar una copia simple de la consta
 
 Los expedientes podrán consultarse y permanecerán en el archivo del Instituto durante la vigencia de los derechos de propiedad industrial a que se refieran, salvo aquellos casos en los que el Instituto considere que deberán permanecer por más tiempo.
 
-Quedan incluidos en el supuesto a que se refiere el artículo 186 de la Ley, los expedientes de solicitudes de patentes no publicadas, los de patentes, modelos de utilidad y diseños industriales abandonados o denegados, los cuales sólo podrán ser consultados por los interesados o por sus representantes legales o apoderados, así como por las personas autorizadas en los términos del artículo 16, fracción V de este Reglamento.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+Para efectos del artículo 186 de la Ley, quedan incluidos los expedientes de solicitudes de patentes no publicadas y los modelos de utilidad y diseños industriales abandonados o denegados, por lo que sólo podrán ser consultados por los solicitantes o sus representantes legales o apoderados, así como por las personas autorizadas en términos del artículo 16, fracción V de este Reglamento.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 19.
 
-El titular o su apoderado, podrán obtener, únicamente durante el tiempo en que los expedientes sean consultables, los documentos originales que acompañaron a sus solicitudes o promociones. En este caso, el Instituto expedirá, a costa del solicitante, y previamente a su devolución, copias certificadas de los mismos para que obren en sus respectivos expedientes en sustitución de los documentos que se devuelvan.
+El titular o solicitante o su apoderado o representante legal podrán obtener, únicamente durante el tiempo en que los expedientes se encuentren vigentes, los documentos originales que acompañaron a sus solicitudes o promociones. En este caso, el Instituto expedirá, a costa del solicitante y previo a su devolución, copias certificadas de los mismos para que obren en sus respectivos expedientes en sustitución de los documentos que se devuelvan.
 
-También podrán obtener durante el tiempo señalado en el párrafo anterior, la devolución de los objetos exhibidos con las solicitudes y promociones presentadas. De no solicitarse la devolución de tales objetos en el tiempo señalado, los mismos serán destruidos.
+En el caso de los objetos presentados con las solicitudes o promociones, el titular o solicitante o su apoderado o representante legal podrán solicitar la devolución de dichos objetos durante el año siguiente, contado a partir de la notificación de la resolución respectiva. De no solicitarse la devolución en el plazo señalado, el Instituto requerirá a los interesados mediante aviso publicado en la Gaceta, para que acudan a recoger dichos objetos, durante el mes siguiente a la publicación del citado aviso. Transcurrido este plazo, sin que sean recogidos, el Instituto procederá a su destrucción, dejando constancia de ello en el expediente correspondiente.
 
 ###### ARTICULO 20.
 
 Toda persona podrá solicitar y obtener copias certificadas de los documentos que obren en los expedientes relativos a derechos concedidos o registrados, previo el pago de las tarifas correspondientes.
 
-Tratándose de los expedientes a que se refiere el artículo 186 de la Ley, sólo podrán solicitar y obtener copias certificadas de los documentos existentes en éstos, las personas que en el mismo se indican.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de los expedientes a los que se refieren los artículos 186 de la Ley y 18, segundo párrafo de este Reglamento, sólo podrán solicitar y obtener copias certificadas de los documentos existentes en éstos, las personas que dichos artículos señalan.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 21.
 
-El Instituto utilizará cualquier medio de reproducción, incluidos microfilmación, fotografía, grabación en discos ópticos, o medios magnéticos, de los documentos que obren en los expedientes a fin de facilitar su custodia, consulta y la expedición de copias certificadas de los mismos.
+El Instituto podrá utilizar cualquier forma o soporte material, conocido o por conocerse, incluida la digitalización, grabación en discos ópticos, en medios de almacenamiento de datos o electrónicos, que permitan el almacenamiento, reproducción y conservación de los documentos que obran en los expedientes a fin de facilitar su custodia, consulta y expedición de copias de los mismos.
 
 ## TITULO SEGUNDO. DE LAS INVENCIONES, MODELOS DE UTILIDAD Y DISEÑOS INDUSTRIALES
 
@@ -347,9 +393,13 @@ VII.- Toda reivindicación dependiente incluirá las limitaciones contenidas en 
 
 Los dibujos se sujetarán a las siguientes reglas:
 
-I.- Si la solicitud de patente no se acompaña de dibujos y éstos son necesarios para comprender la invención, el Instituto requerirá al solicitante para que los exhiba en un plazo de dos meses. En caso de no cumplirlo, se tendrá por abandonada la solicitud;
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
-II.- Si en la solicitud, en la descripción o en las reivindicaciones se mencionan los dibujos, y éstos no se hubieran exhibido junto con la solicitud y los mismos no se requirieran para la comprensión de la invención, el Instituto requerirá al solicitante para que los exhiba en un plazo de dos meses.
+I.- Si la solicitud de patente no se acompaña de dibujos y éstos son necesarios para comprender la invención, el Instituto requerirá al solicitante para que los exhiba en un plazo de dos meses, contado a partir del día hábil siguiente al de la notificación. En caso de no cumplirlo, se tendrá por abandonada la solicitud;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+II.- Si en la solicitud, en la descripción o en las reivindicaciones se mencionan los dibujos, y éstos no se hubieran exhibido junto con la solicitud y los mismos son necesarios para la comprensión de la invención, el Instituto requerirá al solicitante para que los exhiba en un plazo de dos meses, contado a partir del día hábil siguiente al de la notificación.
 
 De no cumplir el solicitante con el requerimiento, se tendrá por no puesta cualquier referencia a los dibujos;
 
@@ -423,7 +473,9 @@ III.- Cuando la descripción que se hubiese hecho del material biológico sea in
 
 El Instituto reconocerá como fecha y hora de presentación de una solicitud de patente, aquella en la que le sea entregada por el solicitante, siempre que la misma cumpla con los requisitos dispuestos en los artículos 47 fracciones I a III, 179 y 180 de la Ley, así como lo establecido en el artículo 5o., fracciones III y VII de este Reglamento.
 
-Si la solicitud no cumpliere cualquiera de los requisitos legales y reglamentarios indicados en el párrafo anterior, el Instituto sólo reconocerá, salvo en el caso a que se refiere el artículo 180 de la Ley, como fecha y hora de su presentación, la fecha y hora de recepción de la promoción por la que el solicitante cumpla los requisitos señalados en el primer párrafo, que faltaren en la solicitud o subsane la omisión de dichos requisitos.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+En caso de que la solicitud no cumpla con cualquiera de los requisitos señalados en el párrafo anterior, el Instituto sólo reconocerá como fecha y hora de presentación de la solicitud de patente, la fecha y hora de recepción de la promoción mediante la cual el solicitante cumpla o subsane los requisitos señalados en dicho párrafo.
 
 ###### ARTICULO 39.
 
@@ -471,7 +523,9 @@ Si el solicitante no cumple con el requerimiento que se le haga dentro del térm
 
 La fecha con que el Instituto otorgará la patente y expedirá el título correspondiente, será aquella en que se efectúe el pago de la tarifa respectiva, siempre y cuando se entere al Instituto dentro de los plazos señalados en los artículos 57 y 58 de la Ley.
 
-Al enterar el pago por expedición del título de patente o de registro, el solicitante entregará tres copias en papel couché de los dibujos, fórmulas químicas o secuencias de nucleótidos o aminoácidos que a juicio del Instituto sean representativos de la invención. Las especificaciones con respecto a la presentación de las copias referidas, se determinarán por el Director General del Instituto, en los términos del artículo 3o. de este Reglamento.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+Al enterar el pago por la expedición del título de patente o de registro, el solicitante entregará una copia de los dibujos, fórmulas químicas o secuencias de nucleótidos o aminoácidos que a juicio del Instituto sean representativos de la invención. Las especificaciones técnicas que deberá contener dicha copia se determinarán por el Director General del Instituto a través del Acuerdo a que se refiere el artículo 3o. de este Reglamento.
 
 ###### ARTICULO 47.
 
@@ -489,9 +543,11 @@ El listado a que se refiere este artículo no contendrá patentes que protejan p
 
 En caso de existir controversia respecto de la titularidad de la patente de la sustancia o principio activo, los interesados podrán someterse, de común acuerdo, a un arbitraje, en los términos de la legislación mercantil.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 48.
 
-Para autorizar los cambios en la patente a que se refiere el artículo 61 de la Ley, el Instituto podrá requerir al solicitante para que presente, en un plazo de dos meses, las correspondientes modificaciones a la descripción, reivindicaciones, dibujos o resumen. De no cumplir el solicitante con el requerimiento en el plazo señalado, se tendrá por abandonada la promoción de que se trate.
+Para autorizar los cambios en el texto o dibujos del título de una patente a que se refiere el artículo 61 de la Ley, el Instituto podrá requerir al solicitante para que presente en un plazo de dos meses, contado a partir del día hábil siguiente al de la notificación, las modificaciones correspondientes a la descripción, reivindicaciones, dibujos o resumen. En caso de que el solicitante no cumpla con dicho requerimiento en el plazo señalado, el Instituto tendrá por desechada la promoción de que se trate.
 
 ###### ARTICULO 49.
 
@@ -499,19 +555,23 @@ Además del titular de la patente, cualquiera de los licenciatarios, podrá soli
 
 ### CAPITULO III. DE LAS LICENCIAS OBLIGATORIAS Y DE UTILIDAD PUBLICA
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 50.
 
-Cuando se solicite una licencia obligatoria, una vez que el solicitante pruebe ante el Instituto que tiene la capacidad técnica y económica a que se refiere el artículo 71 de la Ley, se dará vista al titular de la patente, para que dentro de los dos meses siguientes a la notificación manifieste lo que a su derecho convenga.
+Cuando se solicite una licencia obligatoria, una vez que el solicitante acredite ante el Instituto que tiene la capacidad técnica y económica a que se refiere el artículo 71 de la Ley, el Instituto dará vista al titular de la patente, para que dentro del plazo de dos meses contado a partir del día hábil siguiente al de la notificación, manifieste lo que a su derecho convenga.
 
-Si el titular se opusiere al otorgamiento de la licencia obligatoria, se dará vista de dicha oposición al solicitante para que en el término de 15 días hábiles manifieste lo que a su derecho convenga. Vencido el plazo fijado para el desahogo de la vista, el Instituto resolverá lo que corresponda, considerando las manifestaciones del solicitante, del titular y las pruebas rendidas.
+Si el titular de la patente se opusiere al otorgamiento de la licencia obligatoria, el Instituto dará vista de esta oposición al solicitante, para que dentro del plazo de quince días hábiles contado a partir del día hábil siguiente al de la notificación, manifieste lo que a su derecho convenga. Vencido el plazo para el desahogo de las vistas, el Instituto resolverá lo que corresponda, considerando las manifestaciones del solicitante de la licencia obligatoria, del titular de la patente y de las pruebas rendidas.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 51.
 
-La declaración a que se refiere el artículo 77 de la Ley, la realizará el Instituto, previo acuerdo del Secretario de Comercio y Fomento Industrial con el titular del Ejecutivo Federal.
+La declaración del Instituto a que se refiere el primer párrafo del artículo 77 de la Ley se sujetará a lo previsto en el presente artículo.
 
-Dentro de los dos meses siguientes a la fecha de publicación en el Diario Oficial, de la declaración prevista en el artículo 77 de la Ley, los titulares de las patentes que fueren declaradas susceptibles de ser objeto de licencias de utilidad pública, podrán efectuar ante el Instituto las manifestaciones que a sus derechos convengan respecto de tal declaración. Una vez efectuadas dichas manifestaciones, el Instituto resolverá, en definitiva, confirmando o revocando la declaración según proceda, y ordenando su publicación en el Diario Oficial.
+Dentro de los dos meses siguientes a la fecha de publicación en el Diario Oficial de la declaración a que se refiere el párrafo anterior, los titulares de las patentes que fueren declaradas susceptibles de ser objeto de licencias de utilidad pública, podrán efectuar ante el Instituto las manifestaciones que a sus derechos convengan respecto de tal declaración. Una vez efectuadas dichas manifestaciones, el Instituto resolverá, en definitiva, confirmando o revocando la declaración según proceda, y ordenando su publicación en el Diario Oficial.
 
-El Instituto publicará en el Diario Oficial la resolución que declare la cesación de las causas de emergencia o seguridad nacional, que hubiesen motivado la declaración a que se refiere el artículo 77 de la Ley.
+El Instituto publicará en el Diario Oficial la resolución que declare la cesación de las causas de emergencia o seguridad nacional, que hubiesen motivado la declaración a que se refiere el primer párrafo de este artículo.
 
 ###### ARTICULO 52.
 
@@ -565,13 +625,19 @@ I.- Cuando se conozca, el número de la clase a que correspondan los productos o
 
 II.- Las leyendas y figuras que aparezcan en el ejemplar de la marca y cuyo uso no se reserva;
 
-III.- Un ejemplar de la marca adherido a la solicitud, en su caso, y
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+III.- Un ejemplar de la marca incorporado a la solicitud, en su caso, y
 
 IV.- Ubicación del o de los establecimientos o negociaciones relacionados con la marca, siempre y cuando se haya señalado fecha de primer uso.
 
-Por el solo hecho de presentar la solicitud de registro, se entenderá que el solicitante se reserva el uso exclusivo de la marca, tal y como aparezca en el ejemplar de la misma que se exhiba adherido a la propia solicitud, con excepción de las leyendas y figuras a que se refiere la fracción II anterior.
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
-Las marcas nominativas o avisos comerciales sólo podrán conformarse de letras o palabras compuestas con el alfabeto romano, números arábigos occidentales, así como de aquellos signos ortográficos que auxilien a su correcta lectura. Se entenderá que el solicitante se reserva el uso en cualquier tipo o tamaño de letra.
+Por el solo hecho de presentar la solicitud de registro, se entenderá que el solicitante se reserva el uso exclusivo de la marca, tal y como aparezca en el ejemplar a que se refiere la fracción III del párrafo anterior, con excepción de las leyendas y figuras no reservables.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+Las marcas nominativas o avisos comerciales sólo podrán conformarse de letras o palabras compuestas por el alfabeto latino internacional moderno, números arábigos occidentales, así como de aquellos signos que auxilien a su correcta lectura. Se entenderá que el solicitante se reserva el uso en cualquier tipo o tamaño de letra.
 
 ###### ARTICULO 57.
 
@@ -599,6 +665,28 @@ Los productos o servicios incluidos en la lista alfabética de la clasificación
 
 El Instituto establecerá los criterios de interpretación y aplicación de esta clasificación.
 
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 59 BIS.- La publicación en la Gaceta de la solicitud de registro de una marca a que se refiere el artículo 119 de la Ley, contendrá el número de expediente que se le haya asignado a dicha solicitud, su fecha de presentación, el signo distintivo solicitado y clase.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 59 TER.- Los escritos de oposición presentados fuera del plazo previsto en el artículo 120 de la Ley serán desechados de plano.
+
+Si la oposición presentada o las promociones derivadas de ésta, no cumplieren con los requisitos previstos en la Ley y este Reglamento, el Instituto requerirá por única ocasión al oponente, para que dentro de un plazo de cinco días, contado a partir del día hábil siguiente al de la notificación, subsane la omisión en que incurrió o haga las aclaraciones que correspondan.
+
+En caso de que el oponente no cumpla con el requerimiento dentro del plazo establecido en el párrafo anterior, la oposición será desechada de plano.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 59 QUATER.- La publicación del listado de las solicitudes en las cuales se haya presentado oposición, previsto en el cuarto párrafo del artículo 120 de la Ley, contendrá el número de expediente asignado a la solicitud de registro a la que se opone, número de folio del escrito de oposición, su fecha de presentación y el nombre del oponente.
+
+Las oposiciones que se hayan presentado sin cumplir con los requisitos establecidos en la Ley y este Reglamento, se publicarán una vez que hayan sido subsanados los requerimientos respectivos, conforme al artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 59 QUINQUIES.- En caso de que las solicitudes u oposiciones a que se refieren los artículos 119 y 120 de la Ley se hayan presentado a través de las delegaciones o subdelegaciones de la Secretaría, los plazos previstos en dichos artículos, comenzarán a correr a partir del día hábil siguiente a aquél en que se reciban en las oficinas del Instituto.
+
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
 ###### ARTICULO 60.
@@ -613,9 +701,15 @@ II.- Exhibir el comprobante de pago de la tarifa correspondiente.
 
 Si el solicitante después de presentada la solicitud de registro modifica el signo distintivo; aumenta el número de productos o servicios para los que se solicita el registro; sustituye o cambia el producto o servicio señalado en la solicitud, ésta será considerada como una nueva y se sujetará a un nuevo trámite, debiéndose enterar la tarifa correspondiente y satisfacer los requisitos legales y reglamentarios aplicables. En este caso, se considerará como fecha de presentación de la solicitud modificada, la de presentación de la promoción por la que el solicitante hubiese modificado la solicitud inicial.
 
+> <small>(ADICIONADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+Para efectos de la fracción III del segundo párrafo del artículo 123 de la Ley, el plazo de publicación de la solicitud comenzará a correr una vez que el Instituto reconozca la fecha de presentación de la nueva solicitud.
+
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 62.
 
-Para los efectos del artículo 130 de la Ley, entre otros casos, se entenderá que una marca se encuentra en uso, cuando los productos o servicios que ella distingue han sido puestos en el comercio o se encuentran disponibles en el mercado en el país bajo esa marca en la cantidad y del modo que corresponde a los usos y costumbres en el comercio. También se entenderá que la marca se encuentra en uso cuando se aplique a productos destinados a la exportación.
+Para efectos de la Ley, se entenderá que una marca se encuentra en uso, entre otros casos, cuando los productos o servicios que ella distingue han sido puestos en el comercio o se encuentran disponibles en el mercado en el país bajo esa marca en la cantidad y del modo que corresponde a los usos y costumbres en el comercio. También se entenderá que la marca se encuentra en uso cuando se aplique a productos destinados a la exportación.
 
 ###### ARTICULO 63.
 
@@ -685,7 +779,9 @@ Las constancias a las que se refieren las fracciones III y IV anteriores, deber�
 
 V.- Original o copia certificada del documento de poder, en caso de que la solicitud se formule por apoderado.
 
-## TITULO CUARTO. DEL PROCEDIMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+## TITULO CUARTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS, INSPECCION, VIGILANCIA Y SANCIONES
 
 ### CAPITULO I. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
@@ -737,7 +833,7 @@ IV.- Por orden de autoridad judicial.
 
 ###### ARTICULO 74.
 
-El Instituto podrá requerir al solicitante la ampliación de la fianza a que se refiere el artículo 199 BIS 1, fracción II de la Ley, cuando de la práctica de la medida se desprenda que la fianza otorgada inicialmente resulta insuficiente para responder de los daños y perjuicios que se pudieran causar a la persona en contra de quien se haya solicitado la medida.
+(DEROGADO, D.O.F. 16 DE DICIEMBRE DE 2016)
 
 ### CAPITULO III. DE LAS SANCIONES
 
@@ -781,7 +877,7 @@ CUARTO.- Los asuntos que estuvieren en trámite al entrar en vigor este Reglamen
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los dieciocho días del mes de noviembre de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo.- Rúbrica.- El Secretario de Comercio y Fomento Industrial, Jaime Serra Puche.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 D.O.F. 10 DE SEPTIEMBRE DE 2002.
 
@@ -798,3 +894,13 @@ D.O.F. 10 DE JUNIO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las solicitudes que, con antelación a la entrada en vigor del presente Decreto, se encuentren en trámite ante el Instituto Mexicano de la Propiedad Industrial se sustanciarán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación, salvo que los interesados opten por la aplicación de las disposiciones contenidas en el presente Decreto, y así lo hagan saber por escrito al Instituto Mexicano de la Propiedad Industrial dentro los treinta días naturales siguientes a su entrada en vigor.
+
+D.O.F. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE LA PROPIEDAD INDUSTRIAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las solicitudes que a la entrada en vigor del presente Decreto, se encuentren en trámite ante el Instituto Mexicano de la Propiedad Industrial, se sustanciarán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación.
+
+TERCERO.- El Director General del Instituto Mexicano de la Propiedad Industrial deberá emitir el Acuerdo por el que se establezcan las reglas generales para la gestión de trámites a través de medios de comunicación electrónica, a más tardar a los treinta días hábiles posteriores a la entrada en vigor del presente Decreto.
