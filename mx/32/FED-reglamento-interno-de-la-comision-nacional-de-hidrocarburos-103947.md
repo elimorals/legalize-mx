@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-103
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-12-22"
-last_updated: "2014-12-22"
+last_updated: "2016-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-08"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el lunes 22 de diciembre de 2014.
 
@@ -227,17 +227,13 @@ j. Dictaminar la unificación de campos o yacimientos de Extracción para los ef
 
 k. Resolver sobre la coexistencia de actividades extractivas y, en su caso, los montos y plazos de las indemnizaciones y contraprestaciones;
 
-III. En materia de autorizaciones:
+> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
-a. Emitir las autorizaciones para las actividades de Reconocimiento y Exploración Superficial;
+III. Ordenar la contratación de cualquier empresa productiva del Estado, entidades públicas, instituciones académicas o particulares para llevar a cabo actividades de Reconocimiento y Exploración Superficial;
 
-b. Emitir las autorizaciones de perforación de los pozos establecidos en el artículo 36 de la Ley de Hidrocarburos;
+> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
 
-c. Ordenar la contratación de cualquier empresa productiva del Estado, entidades públicas, instituciones académicas o particulares para llevar a cabo actividades de Reconocimiento y Exploración Superficial;
-
-d. Aprobar la suspensión de actividades previstas en los planes de Exploración y de desarrollo para la Extracción, así como en las autorizaciones Reconocimiento y Exploración Superficial y perforación de pozos;
-
-e. Iniciar, tramitar y resolver los procedimientos de terminación, revocación o caducidad de las autorizaciones otorgadas;
+III BIS. Aprobar la suspensión de actividades previstas en los planes de Exploración y de desarrollo para la Extracción;
 
 IV. En materia de regulación y normatividad:
 
@@ -515,9 +511,17 @@ XIV. Las que les confiera expresamente el Órgano de Gobierno o el Comisionado P
 
 XV. Las demás que correspondan a las Direcciones Generales que le sean adscritas.
 
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 20.
 
-Suscripción de contratos. Los Titulares de la Unidad Jurídica y de la Unidad de Administración Técnica de Asignaciones y Contratos suscribirán, junto con el Comisionado Presidente, los contratos para la exploración y extracción previstos en la Ley de Hidrocarburos.
+Suscripción de Contratos y emisión de Autorizaciones. Los Titulares de la Unidad Jurídica y de la Unidad de Administración Técnica de Asignaciones y Contratos suscribirán, junto con el Comisionado Presidente, los contratos para la exploración y extracción previstos en la Ley de Hidrocarburos.
+
+Corresponderá al Titular de la Unidad Técnica de Exploración emitir las autorizaciones para las actividades de Reconocimiento y Exploración Superficial, así como autorizar la perforación de pozos, incluyendo las facultades necesarias para la suspensión de tales actividades y para iniciar, tramitar y resolver los procedimientos de terminación, revocación o caducidad de dichas autorizaciones.
+
+Previo a la emisión de las autorizaciones a que se refiere el párrafo que precede, se deberá contar con la opinión del Titular de la Unidad Jurídica.
+
+El Titular de la Unidad Técnica de Exploración deberá informar de manera trimestral al Órgano de Gobierno sobre las autorizaciones otorgadas en términos de este artículo, en sesión ordinaria.
 
 ### Capítulo VI. Direcciones Generales
 
@@ -633,7 +637,9 @@ i. Gestionar y emitir los actos necesarios para valorar la coexistencia de activ
 
 II. En materia de autorizaciones, aprobaciones y dictámenes:
 
-a. Coordinar los procesos administrativos para la emisión de autorizaciones, aprobaciones, dictámenes y otros actos administrativos que deba emitir el Órgano de Gobierno, así como para su terminación, revocación y caducidad;
+> <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2016)</small>
+
+a. Coordinar los procesos administrativos para la emisión de autorizaciones, aprobaciones, dictámenes y otros actos administrativos que deba emitir el Órgano de Gobierno, así como aquellos que correspondan al Titular de la Unidad Técnica de Exploración en términos del artículo 20 de este Reglamento, incluyendo en ambos casos los procedimientos relativos a la terminación, revocación y caducidad;
 
 III. Elaborar y proponer al Órgano de Gobierno los contratos de servicios de comercialización de Hidrocarburos y los contratos para llevar a cabo actividades de Reconocimiento y Exploración Superficial, y
 
@@ -1268,3 +1274,13 @@ Noveno. La estructura organizacional establecida en el presente Reglamento Inter
 Décimo. El Órgano de Gobierno emitirá el reglamento de funcionamiento del Registro Público dentro de los siguientes seis meses a la entrada en vigor del presente Reglamento Interno.
 
 México, D.F., a 8 de diciembre de 2014.- El Comisionado Presidente, Juan Carlos Zepeda Molina.- Rúbrica.- Los Comisionados Integrantes del Órgano de Gobierno de la Comisión Nacional de Hidrocarburos: Edgar René Rangel Germán, Guillermo Cruz Domínguez Vargas, Alma América Porres Luna, Néstor Martínez Romero, Sergio Henrivier Pimentel Vargas, Héctor Alberto Acosta Félix.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CNH.E.67.003/16 MEDIANTE EL CUAL SE MODIFICAN LOS ARTÍCULOS 13, FRACCIÓN III, 20 Y 23, FRACCIÓN II, INCISO A. Y SE ADICIONA UNA FRACCIÓN III BIS AL ARTÍCULO 13 DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS”.]
+
+PRIMERO. El presente ACUERDO entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Inscríbase el presente ACUERDO en el Registro Público de la Comisión Nacional de Hidrocarburos.
