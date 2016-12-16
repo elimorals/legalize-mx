@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2016-11-18"
+last_updated: "2016-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -75,27 +75,19 @@ Naturaleza Constitucional del Ayuntamiento.- El Municipio de Tijuana ser (sic) g
 
 Corresponde al Ayuntamiento el ejercicio de las atribuciones que le conceden la Constitución Polític (sic) de los Estados Unidos Mexicanos, la particular del Estado Libre y Soberano de Baja California, en lo (sic) términos de la Ley del Régimen Municipal para el estado de Baja California y las leyes federales locales (sic) aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 6.
 
-Composición del Ayuntamiento.- El Ayuntamiento se integra por un Presidente Municipal, un Síndico Procurador, un Síndico Social, Regidores electos por el principio de mayoría relativa y Regidores electos por el principio de representación proporcional, en los términos de lo dispuesto por la Constitución Político (sic) del Estado.
+Composición del Ayuntamiento.- El Ayuntamiento se integrará por un Presidente Municipal, un Síndico Procurador y Regidores electos por el principio de mayoría relativa y regidores electos por el principio de representación proporcional, en los términos de lo dispuesto por la Constitución Política del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
-
-El Ayuntamiento funcionará en forma colegiada, integrando en sesión de Cabildo, con igual derecho de participación de todos sus integrantes.
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+El Ayuntamiento funcionará en forma colegiada, integrando (sic) en sesión de Cabildo, con igual derecho de participación de todos sus integrantes.
 
 Todos los integrantes del Cabildo tienen derecho a voz y a voto y gozan de las mismas prerrogativas.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+En sesión solemne de instalación del Ayuntamiento, que se celebrará el día treinta del mes de noviembre del año en que se verifique la elección ordinaria y de conformidad con la convocatoria que emita el Ayuntamiento saliente, la cual deberá ser publicada en el diario de mayor circulación en el Municipio, deberán comparecer al recinto oficial las personas que, en los términos de la Ley Electoral, resultaron electas para ocupar los cargos de Presidente Municipal, Síndico Procurador y Regidores, con el fin de protestar el fiel ejercicio de sus cargos, en sesión solemne, ante el Diputado representante que al efecto designe el Congreso del Estado. Esta propuesta surtirá sus efectos a partir del día uno de diciembre del mismo año, momento en que iniciará el pleno ejercicio de sus funciones, debiendo levantarse constancia de ello por el secretario fedatario del Ayuntamiento saliente.
 
-En sesión solemne de instalación del Ayuntamiento, que se celebrará el día treinta del mes de noviembre del año en que se verifique la elección ordinaria y de conformidad con la convocatoria que emita el Ayuntamiento saliente, la cual deberá ser publicada en el diario de mayor circulación en el Municipio, deberán comparecer al recinto oficial municipal las personas que, en los términos de la Ley Electoral, resultaron electas para ocupar los cargos de Presidente, Síndico Procurador, Síndico Social en los casos que así corresponda y Regidores, con el fin de protestar el fiel ejercicio de sus cargos, en sesión solemne, ante el Diputado representante que al efecto designe el Congreso del Estado. Esta protesta surtirá sus efectos a partir del día uno de diciembre del mismo año, momento en que iniciará el pleno ejercicio de sus funciones, debiéndose levantar constancia de ello por el secretario fedatario del Ayuntamiento saliente.
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
-
-En la misma sesión solemne, una vez declarada la instalación del Ayuntamiento por el nuevo Presidente Municipal, el Cabildo designará de una terna propuesta por el Ejecutivo Municipal al ciudadano que deba ejercer el cargo de Secretario de Gobierno Municipal, con efectos a partir de la designación, mediante votación económica por mayoría simple, quien fungirá en calidad de Secretario Fedatario del Ayuntamiento, sin derecho a voto y sólo con derecho a voz en los términos de este Ordenamiento.
+En la misma sesión solemne, una vez declarada la instalación del Ayuntamiento por el nuevo Presidente Municipal, el Cabildo designará de una terna propuesta por el Ejecutivo Municipal al ciudadano que deba ejercer el cargo de Secretario de Gobierno Municipal, con efectos a partir de la designación, mediante votación económica por mayoría simple, quien fungirá en calidad de Secretario Fedatario del Ayuntamiento, sin derecho a voto y solo con derecho a voz en los términos de este ordenamiento.
 
 ###### ARTICULO 7.
 
@@ -321,13 +313,13 @@ El Presidente Municipal podrá ordenar el desalojo del recinto del Cabildo, haci
 
 Objeto de convocatoria.- Para efectos de proceder a la celebración de sesiones de Cabildo, deberá convocarse previamente a los integrantes del Ayuntamiento por escrito, indicando la fecha, hora y lugar en que deberá celebrarse la Sesión.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 33.
 
-Autoridad convocante.- Para efectos de celebrar sesiones ordinarias extraordinarias y solemnes de Cabildo, a petición del Presidente Municipal la convocatoria será expedida por el Secretario de Gobierno Municipal y notificada a los Síndicos y a los Regidores.
+Autoridad convocante.- Para efectos de celebrar sesiones ordinarias, extraordinarias y solemnes de Cabildo, a petición del Presidente Municipal la convocatoria será expedida por el Secretario de Gobierno Municipal y notificada al Síndico Procurador y a los Regidores.
 
-En el caso de la celebración de sesiones extraordinarias de Cabildo, a petición de la mayoría de sus miembros, los interesados deberán expedir la convocatoria, firmada por todo (sic) los convocantes, notificada al Presidente Municipal, al Secretario de Gobierno Municipal, a los Síndicos y a los Regidores no convocantes.
+En el caso de la celebración de sesiones extraordinarias de Cabildo a petición de la mayoría de sus miembros, los interesados deberán expedir la convocatoria firmada por todos los convocantes, notificada al Presidente Municipal, al Secretario de Gobierno Municipal, al Síndico Procurador y a los Regidores no convocantes.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
@@ -739,25 +731,17 @@ En la sesión correspondiente, el Secretario informará de la remisión anticipa
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 72.
 
-Naturaleza.- Los Regidores ejercen las atribuciones que la Ley del Régimen Municipal para el Estado de Baja California les otorga en materia de análisis, supervisión, vigilancia propuesta de los problemas del Municipio y sus soluciones, a través de las Comisiones que la propia Ley y este reglamento establece.
+Naturaleza.- Los Regidores ejercen las atribuciones que la Ley del Régimen Municipal para el Estado de Baja California les otorga en materia de análisis, supervisión y vigilancia de la administración pública a su cargo, a través de las Comisiones que la propia Ley y este reglamento establecen.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+Para estudiar y supervisar que se ejecuten las disposiciones y acuerdos del Cabildo, se designarán Comisiones entre sus miembros. Estas se integrarán con dos o más regidores, que actuarán en forma colegiada.
 
-Para estudiar y supervisar que se ejecuten las disposiciones y acuerdos del Cabildo, se designará (sic) Comisiones entre sus miembros. Estas se integrarán con dos o más regidores, que actuarán en forma colegiada.
+El Presidente Municipal podrá participar en todas las Comisiones que considere necesario. El Síndico Procurador se adherirá a cualquiera de ellas cuando en los asuntos a tratar se involucren los intereses patrimoniales del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
-
-El Presidente Municipal podrá participar en todas las Comisiones que considere necesario, los Síndicos se adherirán a cualquiera de ellas cuando los asuntos que se traten involucren los intereses patrimoniales del Ayuntamiento.
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)</small>
-
-Las Comisiones propondrán al Cabildo los proyectos de solución a los problemas de su conocimiento, a efecto de atender todos los ramos de la administración pública municipal, mediante el dictamen de los asuntos que les sean turnados.
-
-Las Comisiones podrán ser permanentes o especiales, y actuarán y dictaminarán en forma individua (sic) o conjunta.
+Las Comisiones propondrán al Cabildo los proyectos de solución a los problemas de su conocimiento, a efecto de atender todos los ramos de la administración pública Municipal, mediante el dictamen de los asuntos que les sean turnados.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
 
@@ -1459,21 +1443,9 @@ Nulidad de acuerdos y resoluciones de Cabildo.- Los acuerdos y resolucione (sic)
 
 Nulidad de las sesiones de Cabildo.- Las sesiones del Cabildo se presumen válidas para todos los efectos legales y serán nulas cuando uno o varios de sus integrantes n (sic) hubieren sido citados en los términos de este Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 115.
-
-Procedimiento para reclamar la nulidad.- La nulidad de las sesiones y de los acuerdos y resoluciones del Cabildo sólo podrá ser reclamada por el Presidente Municipal, los Regidores y los Síndicos, no podrá invocar la nulidad el integrante o integrantes del Cabildo que le hubiera dado origen los ciudadanos vecinos del Municipio podrán impugnar los acuerdos resoluciones del Cabildo mediante la interposición de los recursos ordinarios previstos en la Ley.
-
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
-
-La nulidad de los acuerdos y resoluciones del Cabildo deberá reclamarse durante las próximas veinticuatro horas en que se hubiera aprobado; si el integrante del Cabildo se manifiesta sabedor o consiente implícita o explícitamente el acto presuntamente nulo, se tendrá por consentido y perderá en su perjuicio el derecho de invocar su nulidad.
-
-La nulidad se reclamará por escrito presentado ante la Secretaría de Gobierno Municipal, en el que s (sic) señalen con claridad los actos cuya nulidad se reclama, las violaciones al procedimiento que s (sic) hubieren producido y acompañado las pruebas que se estimen pertinentes.
-
-> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
-
-Recibida que sea una reclamación de nulidad, el Secretario elaborará un dictamen sobre la validez del acto impugnado, acompañando las constancias y certificaciones del caso y el expediente mismo será turnado a la Comisión de Gobernación y Legislación, la que resolverá lo conducente en un termino que no deberá en ningún caso de exceder de 180 días, mediante dictamen que será sometido a votación en sesión ordinaria de Cabildo.
+ARTCULO 115.- Procedimiento para reclamar la nulidad.- La nulidad de las sesiones y de los acuerdos y resoluciones del Cabildo solo podrá ser reclamada por el Presidente Municipal, los Regidores y el Síndico Procurador. No podrá invocar la nulidad el integrante o integrantes del Cabildo que le hubiera dado origen. Los ciudadanos vecinos del Municipio, podrán impugnar los acuerdos y resoluciones del Cabildo mediante la interposición de los recursos ordinarios previstos en la Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE FEBRERO DE 2005)</small>
 
@@ -1646,3 +1618,15 @@ PRIMERO.- Publíquese en el Periódico Oficial del Estado de Baja California y/o
 SEGUNDO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 TERCERO.- Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a la presente reforma.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL TÍTULO TERCERO EN CUANTO A SU DENOMINACIÓN (SIC) Y A LA MODIFICACIÓN DEL CAPÍTULO PRIMERO PARA CAMBIAR A CAPÍTULO ÚNICO, Y LOS ARTÍCULOS 34 Y 35 DEL REGLAMENTO DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
+
+SEGUNDO.- Se derogan las disposiciones reglamentarias y administrativas de carácter municipal que se opongan a las presentes reformas.
+
+TERCERO.- Los recursos presupuestales y materiales que se encontraban asignados a la Sindicatura Social, deberán pasar a resguardo y asignación de la Sindicatura Procuradora, con el fin de que sean utilizados por las unidades administrativas resultantes de las presentes reformas.
+
+CUARTO.- Una vez publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes, para la implementación inmediata de las reformas aprobadas.
