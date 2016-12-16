@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2015-12-22"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -1061,99 +1061,101 @@ Los servicios prestados por el Registro Público, relativos a la propiedad, caus
 
 TARIFA
 
-I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehuse ésta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $60.00 (SESENTA PESOS 00/100 M.N.).
+I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse ésta por no ser procedente o cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $71.00 (SESENTA Y UN PESOS 00/100 M.N.).
 
-II. La inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase de títulos, por virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles:
+II. La inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier clase de títulos, por virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, pagarán por la inscripción o registro como cuota $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
 
-1. Hasta con valor de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.), se pagarán $1,410.00 (MIL CUATROCIENTOS DIEZ PESOS 00/100 M.N.);
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-2. Si el valor excede de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.), se pagará por los primeros $10,000.00, conforme al inciso anterior y por lo que exceda de dicha cantidad hasta $50,000.00 (CINCUENTA MIL PESOS 00/100 M.N.), el 15 al millar.
+###### ARTICULO 79-A.
 
-3. Si el valor excede de $50,000.00 (CINCUENTA MIL PESOS 00/100 M.N.), se pagará por los primeros $50,000.00, conforme a los incisos anteriores y por lo que exceda de dicha cantidad hasta $100,000.00 (CIEN MIL PESOS 00/100 M.N.), el 12 al millar.
+En la inscripción o registro de los documentos que se describen en el artículo anterior, si el valor excede de $300,000.00 (TRESCIENTOS MIL PESOS 00/100 M.N.), se pagará adicionalmente por lo que exceda de dicha cantidad el 6 al millar.
 
-4. Si el valor excede de $100,000.00 (CIEN MIL PESOS 00/100), se pagará por los primeros $100,000.00, conforme a los incisos anteriores y por lo que exceda de dicha cantidad hasta $150,000.00 (CIENTO CINCUENTA MIL PESOS 00/100 M.N.), el 8 al millar.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-5. Si el valor excede de $150,000.00 (CIENTO CINCUENTA MIL PESOS 00/100 M.N.), se pagará por los primeros $150,000.00, conforme a los incisos anteriores y por lo que exceda de dicha cantidad, el 6 al millar.
+###### ARTICULO 79-B.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Cuando el valor del documento a inscribir sea indeterminado, se pagarán $1,648.00 (UN MIL SEISCIENTOS CUARENTA Y OCHO PESOS 00/100 M.N.).
 
-> <small>(REFORMADO SU PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+Cuando una parte del valor sea determinada y la otra indeterminada se pagará por cada parte lo que corresponde, con arreglo a lo dispuesto en este artículo y a los artículos 79 y 79-A.
 
-6. Si el valor es indeterminado, se pagarán $1,475.00 (MIL CUATROCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.).
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-Cuando una parte del valor sea determinada y la otra indeterminada se pagará por cada parte lo que corresponde, con arreglo a lo dispuesto en esta fracción.
+###### ARTICULO 79-C.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+La inscripción de la escritura constitutiva de sociedades civiles y asociaciones de carácter civil, así como cualquier modificación a la escritura constitutiva $71.00 (SETENTA Y UN PESOS 00/100 M.N.), por hoja.
 
-Para efectos del primer párrafo de esta fracción, se considera como un documento mediante el cual se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, el otorgamiento ante Notario Público de poderes para actos de dominio sobre bienes inmuebles, cuando se otorguen con el carácter de irrevocable.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-III. La inscripción de la escritura constitutiva de sociedades civiles y asociaciones de carácter civil, así como cualquier modificación a la escritura constitutiva $60.00 (SESENTA PESOS 00/100 M.N.), por hoja
+###### ARTICULO 79-D.
 
-IV. Los contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad que dé lugar a una inscripción complementaria para su perfeccionamiento, lo que resulte mayor entre el 25% de los derechos que se hayan causado por la primera inscripción o $60.00 (SESENTA PESOS 00/100 M.N.), por hoja;
+Los contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad que dé lugar a una inscripción complementaria para su perfeccionamiento, lo que resulte mayor entre el 25% de los derechos que se hayan causado por la primera inscripción o $71.00 (SETENTA Y UN PESOS 00/100 M.N.), por hoja.
 
-V. La inscripción de gravámenes sobre bienes inmuebles, sea por contrato, por resolución judicial o por disposición testamentaria; la de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos del dominio; los que limiten el dominio del vendedor, del embargo, así como de cédulas hipotecarias, de servidumbres y de fianzas, se pagarán conforme a la fracción II, de este artículo;
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-Cuando se solicite la inscripción de embargo sobre bienes inmuebles derivada de juicios de alimentos o laborales, se pagarán $60.00 (SESENTA PESOS 00/100 M.N.) por hoja;
+###### ARTICULO 79-E.
 
-Cuando las inscripciones a que se refiere el primer párrafo de este artículo, se deriven de la inscripción de actos jurídicos por los que se deban pagar los derechos establecidos en el artículo 82 fracción IV de la Sección de Comercio, se pagarán $60.00 (SESENTA PESOS 00/100 M.N.); por hoja.
+La inscripción de gravámenes sobre bienes inmuebles, sea por contrato, por resolución judicial o por disposición testamentaria; la de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales sobre inmuebles, distintos del dominio; los que limiten el dominio del vendedor, del embargo, así como de cédulas hipotecarias, de servidumbres y de fianzas, se pagarán conforme a la fracción II, del artículo 79 y al artículo 79-A de esta ley;
 
-VI. La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, aclaren o disminuyan el capital y sólo sean consecuencia legal de contratos que causaron derechos de registro y se otorguen por las mismas partes que figuran en la primera escritura, sin aumentar el capital ni transferir derechos, $60.00 (SESENTA PESOS 00/100 M.N.) por hoja.
+Cuando se solicite la inscripción de embargo sobre bienes inmuebles derivada de juicios de alimentos o laborales, se pagarán $71.00 (SETENTA Y UN PESOS 00/100 M.N.) por hoja;
 
-VII. La inscripción del título o contrato a que se refiere la fracción anterior, cuando se aumente el capital o se transfiera algún derecho, se pagará conforme a la fracción II de este artículo, sobre el importe del aumento del capital o del derecho que se transfiera;
+Cuando las inscripciones a que se refiere el primer párrafo del artículo 79, se deriven de la inscripción de actos jurídicos por los que se deban pagar los derechos establecidos en el artículo 82 fracción IV y 82-A, de la Sección de Comercio, se pagarán $71.00 (SETENTA Y UN PESOS 00/100 M.N.); por hoja.
 
-VIII. La inscripción de las autorizaciones para fraccionamiento, $310.00 (TRESCIENTOS DIEZ PESOS 00/100 M.N.).
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-IX. El depósito de cualquier otro documento, $160.00 (CIENTO SESENTA PESOS 00/100 M.N.)
+###### ARTICULO 79-F.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+La inscripción de títulos de propiedad, de bienes o derechos que modifiquen, aclaren o disminuyan el capital y sólo sean consecuencia legal de contratos que causaron derechos de registro y se otorguen por las mismas partes que figuran en la primera escritura, sin aumentar el capital ni transferir derechos, $71.00 (SETENTA Y UN PESOS 00/100 M.N.) por hoja.
 
-X. La expedición de certificados de no antecedentes registrales de inmuebles, $91910.00 (NOVECIENTOS DIECINUEVE PESOS 00/100 M.N.).
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-XI. La constancia que extienda el Registro al calce de los documentos privados que se le presenten, expresando que se ha cerciorado de la autenticidad de las firmas y de la voluntad de las partes $60.00 (SESENTA PESOS 00/100 M.N.) por hoja;
+###### ARTICULO 79-G.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+La inscripción del título o contrato a que se refiere el artículo anterior, cuando se aumente el capital o se transfiera algún derecho, se pagará conforme a la fracción II del artículo 79 y al artículo 79-A, sobre el importe del aumento del capital o del derecho que se transfiera.
 
-XII. La búsqueda de información para la expedición de constancias, certificados o informes, $79.00 (SETENTA Y NUEVE PESOS 00/100 M.N.).
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+###### ARTICULO 79-H.
 
-XIII. La expedición de certificados o certificaciones relativos a las constancias del Registro:
+Por otros servicios:
 
-1. Certificados de existencia o inexistencia de gravámenes, $249.00 (DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.), por cada lote.
+I. La inscripción de las autorizaciones para fraccionamiento, $362.00 (TRESCIENTOS SESENTA Y DOS PESOS 00/100 M.N.).
 
-2. Constancia de existencia o inexistencia de propiedad, $249.00 (DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+II. El depósito de cualquier otro documento, $186.00 (CIENTO OCHENTA Y SEIS PESOS 00/100 M.N.).
 
-3. Constancia de historial registral $498.00 CUATROCIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.).
+III. La expedición de certificados de no antecedentes registrales de inmuebles, $947.00 (NOVECIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.).
 
-4. Certificado de registro, $249.00 (DOSCIENTOS CUARENTA Y NUEVO PESOS 00/100 M.N.).
+IV. La constancia que extienda el Registro al calce de los documentos privados que se le presenten, expresando que se ha cerciorado de la autenticidad de las firmas y de la voluntad de las partes $75.00 (SETENTA Y CINCO PESOS 00/100 M.N.) por hoja.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+V. La búsqueda de información para la expedición de constancias, certificados o informes, $81.00 (OCHENTA Y UN PESOS 00/100 M.N.).
 
-XIV. La cancelación de inscripciones en el Registro causará el 10% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $79.00 (SETENTA Y NUEVE PESOS 00/100 M.N.);
+VI. La expedición de certificados o certificaciones relativos a las constancias del Registro:
+
+1. Certificados de existencia o inexistencia de gravámenes, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.), por cada lote.
+
+2. Constancia de existencia o inexistencia de propiedad, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+
+3. Constancia de historial registral $498.00 (CUATROCIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.).
+
+4. Certificado de registro, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+
+5. Otros certificados y certificaciones $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+
+VII. La cancelación de inscripciones en el Registro causará el 10% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $79.00 (SETENTA Y NUEVE PESOS 00/100 M.N.);
 
 En caso de que no se conozca el importe de los derechos pagados para su inscripción, se causará el 10% de los que corresponderían por su inscripción.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+VIII. La inscripción de declaración unilateral de voluntad en que se contenga la lotificación de un fraccionamiento, por lote $58.00 (CINCUENTA Y OCHO PESOS 00/100 M.N.); y,
 
-La inscripción de cancelación de aviso preventivo o definitivo por inmueble, $69 (SESENTA Y NUEVE PESOS 00/100 M.N.).
-
-XV. La inscripción de declaración unilateral de voluntad en que se contenga la lotificación de un fraccionamiento, por lote $50.00 (CINCUENTA PESOS 00/100 M.N.); y (sic)
-
-XVI. Por otros no especificados, $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.).
-
-XVII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-XVIII. La expedición de copias simples por documento $150 (CIENTO CINCUENTA PESOS 00/100 M.N.)
-
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-XIX. La expedición de copias certificadas por documento $520 (QUINIENTOS VEINTE PESOS 00/100 M.N.)
+IX. Por otros no especificados, $255.00 (DOSCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.).
 
 ###### ARTICULO 80.
 
 El pago de estos derechos deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, conforme a las tasas y tarifas que establece esta ley, previamente a la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+Los pagos realizados previamente a la prestación del servicio, se considerarán como pagos provisionales. Hasta que dicho servicio sea prestado, se considerará como pagos definitivos.
 
 ###### ARTICULO 81.
 
@@ -1171,9 +1173,13 @@ IV. En las emisiones de cédulas hipotecarias en que se constituya hipoteca en f
 
 V. En toda transmisión de bienes o derechos reales que se realizan por contrato o por resolución judicial, cuando en ella queden comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes a fin de que sirva de base para el cobro de los derechos; en ningún caso la base de los derechos será inferior al valor catastral;
 
-VI. En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, resolutorias, reserva de dominio o cualquier otra que dé lugar a una inscripción complementaria, se pagará el 75% de lo que correspondería con arreglo a la fracción II del artículo 79 y al practicarse la inscripción complementaria se cubrirá el 25% restante;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-VII. Para aplicación de las tarifas establecidas en la fracción II del artículo 79 la nuda propiedad se valuará, en su caso, con el 75% del valor del inmueble y el usufructo en el 25% del mismo; y (sic)
+VI. En las operaciones de bienes inmuebles sujetas a condiciones suspensivas, resolutorias, reserva de dominio o cualquier otra que dé lugar a una inscripción complementaria, se pagará el 75% de lo que correspondería con arreglo a la fracción II del artículo 79 y al artículo 79-A, y al practicarse la inscripción complementaria se cubrirá el 25% restante;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+VII. Para aplicación de las tarifas establecidas en la fracción II del artículo 79 y el artículo 79-A, la nuda propiedad se valuará, en su caso, con el 75% del valor del inmueble y el usufructo en el 25% del mismo;
 
 VIII. Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, se tendrá como valor la suma total de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
 
@@ -1185,51 +1191,65 @@ DEL COMERCIO
 
 > <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 82.
 
 Los servicios prestados por el Registro Público, relativos al comercio, causarán derechos conforme a la siguiente:
 
 TARIFA
 
-I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehuse ésta por no ser procedente y cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $60.00 (SESENTA PESOS 00/100 M.N.);
+I. El examen de todo documento público o privado que se presente para su inscripción, cuando se rehúse ésta por no ser procedente y cuando se devuelva sin inscribir a petición del interesado o por resolución judicial, $71.00 (SETENTA Y UN PESOS 00/100 M.N.);
 
-II. La inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumentos de su capital social, se pagará conforme a la fracción II del artículo 79 de esta ley, sobre el monto del capital social o de sus aumentos.
+II. La inscripción de la escritura constitutiva de sociedades mercantiles o de las relativas a aumentos de su capital social, se pagará conforme a la fracción II del artículo 79 y al artículo 79-A, de esta ley, sobre el monto del capital social o de sus aumentos.
 
 Tratándose de sociedades mercantiles de capital variable, se pagará conforme a esta fracción, por los aumentos de capital en su parte variable, que se presente para su inscripción;
 
-III. La inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles, que no se refieran a aumento de capital social, $60.00 (SESENTA PESOS 00/100 M.N.), por hoja;
+III. La inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles, que no se refieran a aumento de capital social, $71.00 (SETENTA Y UN PESOS 00/100 M.N.), por hoja;
 
-IV. La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito, agrupaciones financieras o particulares, sobre el importe de la operación, el 6 al millar.
+IV. La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito, agrupaciones financieras o particulares, pagarán como cuota $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
 
-La inscripción de reestructuración de créditos, causara derechos conforme a esta fracción, únicamente sobre el monto en el que se incremente el crédito ya inscrito, cuando no exista incremento se pagarán $60.00 (SESENTA PESOS 00/100 M.N.) por hoja.
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-La misma tarifa se aplicará a los contratos celebrados por arrendadoras financieras, públicas o privadas que se refieran a financiamientos;
+###### ARTICULO 82-A.
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+La inscripción de créditos de cualquier clase, hipotecarios, prendarios, refaccionarios, de habilitación o avío y otros, otorgados por instituciones de crédito, agrupaciones financieras o particulares, si el valor excede de $300,000.00 (TRESCIENTOS MIL PESOS 00/100 M.N.), adicionalmente se pagará por lo que exceda de dicha cantidad, el 6 al millar.
 
-V. La búsqueda de datos para certificados e informes, $102.00 (CIENTO DOS PESOS 00/100 M.N.);
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+###### ARTICULO 82-B.
 
-VI. La expedición de certificados o certificaciones relativos a constancias del registro:
+La inscripción de reestructuración de créditos, causará derechos conforme a la fracción IV, del artículo 82 y al artículo 82-A, únicamente sobre el monto en el que se incremente el crédito ya inscrito, cuando no exista incremento se pagarán $71.00 (SETENTA Y UN PESOS 00/100 M.N.) por hoja.
 
-1. Certificado de existencia o inexistencia de gravámenes, $249.00 (DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.) por cada lote.
+La misma tarifa se aplicará a los contratos celebrados por arrendadoras financieras, públicas o privadas que se refieran a financiamientos.
 
-2. Certificado de historial registral, $249.00 (DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-3. Certificado de registro, $249.00 (DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+###### ARTICULO 82-C.
 
-4. Otros certificados y certificaciones, $249.00 (DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+Por otros Servicios:
 
-VII. La inscripción de títulos o documentos relativos a sociedades mercantiles o civiles que no expresen valor y que de su texto no pueda deducirse, siendo condición indispensable, que la escritura constitutiva se encuentre inscrita previamente en el Registro, $60.00 (SESENTA PESOS 00/100 M.N.) por hoja;
+I. La búsqueda de datos para certificados e informes, $105.00 (CIENTO CINCO PESOS 00/100 M.N.);
 
-Cuando parte del valor sea indeterminado y parte determinado, se pagará por cada parte lo que corresponda, con arreglo a las fracciones anteriores.
+II. La expedición de certificados o certificaciones relativos a constancias del registro:
+
+1. Certificado de existencia o inexistencia de gravámenes, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.) por cada lote.
+
+2. Certificado de historial registral, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+
+3. Certificado de registro, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+
+4. Otros certificados y certificaciones, $256.00 (DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.).
+
+III. La inscripción de títulos o documentos relativos a sociedades mercantiles o civiles que no expresen valor y que de su texto no pueda deducirse, siendo condición indispensable, que la escritura constitutiva se encuentre inscrita previamente en el Registro, $71.00 (SETENTA Y UN PESOS 00/100 M.N.) por hoja;
+
+Cuando parte del valor sea indeterminado y parte determinado, se pagará por cada parte lo que corresponda, con arreglo a los artículos 82, 82-A, 82-B y a las fracciones anteriores.
 
 Si en una misma escritura se consignaren diversos contratos, se pagará por cada parte lo que corresponda, con arreglo a las fracciones anteriores.
 
-VIII. Las inscripciones complementarias derivadas de contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad, $60.00 (SESENTA PESOS 00/100 M.N.) por hoja.
+IV. Las inscripciones complementarias derivadas de contratos mercantiles en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra modalidad, $71.00 (SETENTA Y UN PESOS 00/100 M.N.) por hoja.
 
-IX. La cancelación de inscripciones relativas al comercio causará el 10% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $60.00 (SESENTA PESOS 00/100 M.N.).
+V. La cancelación de inscripciones relativas al comercio causará el 10% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $71.00 (SETENTA Y UN PESOS 00/100 M.N.).
 
 En caso de que no se conozca el importe de los derechos pagados para su inscripción, se causará el 10% de los que corresponderían por su inscripción.
 
@@ -1502,6 +1522,8 @@ PRIMERA PARTE
 DE LA PROPIEDAD
 
 > <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 89.
 
@@ -3614,3 +3636,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 714.- SE REFORMAN LOS ARTÍCULOS 79, LAS FRACCIONES VI Y VII DEL ARTÍCULO 81 Y 82; SE ADICIONAN LOS ARTÍCULOS 79-A, 79-B, 79-C, 79-D, 79-E, 79-F, 79-G Y 79-H, EL SEGUNDO PÁRRAFO AL ARTÍCULO 80 Y LOS ARTÍCULOS 82-A, 82-B Y 82-C, DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
