@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2016-11-25"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -284,6 +284,22 @@ APARTADO A. De la promoción, respeto, protección y garantía de los Derechos H
 Las normas relativas a los Derechos Humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos y con los Tratados Internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia.
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado y los Municipios deberán prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+Esta Constitución asume a plenitud todos los derechos, prerrogativas de los pueblos y comunidades indígenas; así como las obligaciones de las instituciones públicas establecidas en el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos. Por tanto, reconoce los derechos colectivos, a los siguientes pueblos indígenas autóctonos: Kiliwas, Kumiai, Pai pai, Cucapá y Cochimí, así como a las comunidades que conforman estos pueblos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+Las comunidades indígenas pertenecientes a cualquier otro pueblo indígena, procedentes de otro Estado de la República y que residan temporal o permanentemente dentro del territorio del Estado de Baja California, quedan protegidos por los derechos señalados en esta Constitución y la ley respectiva. La conciencia de la identidad indígena será criterio fundamental para determinar a quienes aplican las disposiciones que sobre pueblos indígenas se establezcan en esta Constitución y Leyes de la materia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+Sin poner en riesgo la unidad estatal, esta Constitución reconoce y garantiza el derecho de los pueblos y comunidades indígenas a la libre determinación y, en consecuencia a su autonomía.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+Para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, el Estado y los Municipios establecerán las instituciones y las políticas públicas requeridas para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales tendrán que ser diseñadas y operadas conjuntamente con ellos.
 
 > <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -725,9 +741,9 @@ III.- Los Diputados y Senadores del Congreso de la Unión, salvo que se separen 
 
 IV.- Los militares en servicio activo o las personas que tengan mando de policía, a menos que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-V.- Los Presidentes Municipales, Síndicos Procuradores, Síndicos Sociales y Regidores de los Ayuntamientos, salvo que se separen de sus cargos en forma provisional, noventa días antes del día de la elección;
+V.- Los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, salvo que se separen de sus cargos en forma provisional, noventa días antes del día de la elección;
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 1999)</small>
 
@@ -853,7 +869,9 @@ IV.- Fijar la división territorial, política, administrativa y judicial del Es
 
 V.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la Administración, así como aumentar o disminuir los emolumentos de que éstos gocen, teniendo en cuenta lo establecido en el artículo 97 y demás relativos de esta Constitución, las condiciones de la Hacienda Pública y los demás ordenamientos legales aplicables en la materia;
 
-VI.- Dar las bases para que el Ejecutivo celebre empréstitos, con las limitaciones que establece la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos y reconocer y autorizar el pago de las deudas que contraiga el Estado;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+VI.- Dar las bases para que el Ejecutivo del Estado y los Municipios celebren empréstitos, con las limitaciones que establece la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos y reconocer y autorizar el pago de las deudas que contraiga el Estado;
 
 > <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -865,7 +883,7 @@ VIII.- Expedir el Bando Solemne para dar a conocer en el Municipio respectivo la
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga;
+IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga.
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -873,7 +891,7 @@ X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XI.- Examinar, discutir, modificar, aumentar, reducir y aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, en los términos de la ley de la materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
+XI.- Examinar, discutir, modificar, aumentar, reducir y aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, en los términos de la ley de la materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1245,9 +1263,9 @@ El Secretario General de Gobierno, los Magistrados y Jueces del Tribunal Superio
 
 Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Síndicos Procuradores, Síndicos Sociales, y Regidores de los Ayuntamientos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
+Los Diputados y Senadores del Congreso de la Unión, Diputados locales, Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2008)</small>
 
@@ -2575,9 +2593,15 @@ El Estado alentará y protegerá la actividad económica que realicen los partic
 
 Los Poderes del Estado y los Ayuntamientos, sus dependencias y entidades, implementarán de manera permanente, continua y coordinada sus normas, actos, procedimientos y resoluciones, ajustándose a las disposiciones que establece la ley reglamentaria en materia de Mejora Regulatoria, a fin de impulsar la competitividad y promover el desarrollo económico del Estado de Baja California.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+Se reconoce al turismo como una actividad para el desarrollo económico de la Entidad, por lo que se deberá realizar en un marco de sustentabilidad, considerando la promoción del patrimonio histórico, cultural y diversidad natural con que cuenta Baja California.
+
+> <small>[N. DE E. RESPECTO A LA NUMERACIÓN DEL PRESENTE PÁRRAFO, VÉASE LA SIGUIENTE N. DE E. DE ESTE ARTÍCULO]</small>
+
 Respecto a los bienes muebles del Estado deben implementarse y ejercerse estrictos sistemas de control para garantizar su uso racional y esmerada conservación, así como para operar las bajas, venta, permuta o donación de los mismos, cuando por su estado físico o cualidades técnicas ya no sean útiles o funcionales. Así también, cuando se hubieren extraviado, robado, accidentado o destruido, deberá darse debido cumplimiento a las disposiciones legales que resulten aplicables.
 
-> <small>N. DE E. EL DECRETO No. 132 APROBADO EL 16 DE OCTUBRE DE 2014 Y PUBLICADO EL 28 DE NOVIEMBRE DE 2014, SEÑALA QUE REFORMA EL PÁRRAFO QUINTO, SIN EMBARGO, SE ADVIERTE UNA DIFERENCIA EN LA NUMERACIÓN DE LOS PÁRRAFOS, EN VIRTUD DE QUE EL CUARTO PÁRRAFO FUE ADICIONADO MEDIANTE DECRETO No. 113 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2014.</small>
+> <small>[N. DE E. EL DECRETO No. 132 APROBADO EL 16 DE OCTUBRE DE 2014 Y PUBLICADO EL 28 DE NOVIEMBRE DE 2014, SEÑALA QUE REFORMA EL PÁRRAFO QUINTO, SIN EMBARGO, SE ADVIERTE UNA DIFERENCIA EN LA NUMERACIÓN DE LOS PÁRRAFOS, EN VIRTUD DE QUE EL CUARTO PÁRRAFO FUE ADICIONADO MEDIANTE DECRETO No. 113 PUBLICADO EN EL P.O. DE 17 DE OCTUBRE DE 2014.]</small>
 
 > <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -4328,3 +4352,29 @@ P.O. 25 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 02 MEDIANTE EL CUAL SE INCORPORA LA REFORMA DEL ARTÍCULO TRANSITORIO QUINTO DEL DECRETO NÚMERO 112, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 50, TOMO CXXI, SECCIÓN I, DE FECHA 17 DE OCTUBRE DE 2014”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 13 MEDIANTE EL CUAL SE INCORPORA LA REFORMA A LA FRACCIÓN V DEL ARTÍCULO 18 ASÍ COMO EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 42, AMBOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- A partir del 1 de Diciembre de 2016, los Ayuntamientos acordarán el destino de los recursos materiales, financieros y humanos que han sido ejercidos por las Sindicaturas Sociales pudiendo estos ser integrados en el Presupuesto de los Síndicos Procuradores, esto previo acuerdo del Ayuntamiento correspondiente y debiendo estos en su caso adecuar la normatividad respectiva.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 14 MEDIANTE EL CUAL SE INCORPORA LA ADICIÓN DE UN SEXTO PÁRRAFO, RECORRIÉNDOSE EL ACTUAL PÁRRAFO SEXTO ASÍ COMO LOS SUBSECUENTES, DEL ARTÍCULO 100 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 15 MEDIANTE EL CUAL SE INCORPORA LA REFORMA A LA FRACCIÓN VI DEL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 17 MEDIANTE EL CUAL SE INCORPORA LA REFORMA AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
