@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2016-12-09"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -353,7 +353,9 @@ IV. Elegir, con el voto de cuando menos las dos terceras partes de los integrant
 
 V. Conceder licencia a los diputados, al gobernador; así como conceder las licencias y admitir las renuncias a los Magistrados del Tribunal Superior de Justicia y de los demás funcionarios cuya designación competa a la propia Legislatura;
 
-VI. Resolver si ha lugar o no, proceder en juicio político o declaración de procedencia, en contra de los servidores públicos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+VI. Resolver si ha lugar o no, proceder en juicio político, en contra de los servidores públicos;
 
 VII. Por acuerdo de las dos terceras partes de sus integrantes, suspender o declarar la desaparición de algún Ayuntamiento y revocar el mandato de alguno de sus miembros, suspenderlos o inhabilitarlos por alguna de las causas que la ley señale;
 
@@ -845,15 +847,17 @@ Los Servidores Públicos serán responsables por los actos u omisiones en que in
 
 I. Se impondrán, mediante juicio político, cuando los servidores públicos en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Podrán ser sujetos a juicio político, los Magistrados de los Tribunales del Estado, los Jueces del Poder Judicial, los Secretarios, Sub-secretarios, Oficial Mayor y Directores de la Administración Pública Estatal, el Fiscal General del Estado y los Ministerios Públicos; el Auditor Superior del Estado, los Comisionados integrantes de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, los miembros de los Ayuntamientos y los Directores Generales o sus equivalentes en las entidades paraestatales y paramunicipales;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-II. La comisión de delitos, por parte de cualquier servidor público, será perseguida y sancionada en los términos de la legislación penal. Para proceder en contra de los Diputados de la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces, el Fiscal General del Estado, los Presidentes Municipales y los titulares de los Organismos Autónomos reconocidos por esta Constitución, se requiere declaración de procedencia por la Legislatura del Estado;
+II. La comisión de delitos, por parte de cualquier servidor público, será perseguida y sancionada en los términos de la legislación penal. Para proceder por delitos del orden común en contra del Gobernador del Estado, los Diputados de la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces, el Fiscal General del Estado, los Presidentes Municipales y los titulares de los Organismos Autónomos reconocidos por esta Constitución, no se requiere declaración de procedencia por la Legislatura del Estado;
 
 III. Se aplicarán sanciones administrativas a los Servidores Públicos por los actos u omisiones que afecten la legalidad, la honradez, la lealtad, la imparcialidad y la eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones;
 
 IV. Los procedimientos para la aplicación de las sanciones mencionadas, se desarrollarán autónomamente; y
 
-V. Las declaraciones y resoluciones relativas a lo previsto en las fracciones I y II del presente artículo son inatacables.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+V. La resolución relativa a lo previsto en la fracción I del presente artículo es inatacable.
 
 > <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -1662,5 +1666,13 @@ P.O. 9 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 2 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO.”]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
