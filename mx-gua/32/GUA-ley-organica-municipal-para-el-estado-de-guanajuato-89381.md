@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-municipal-para-el-estado-de-guanajuato-89381"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-11"
-last_updated: "2016-10-28"
+last_updated: "2016-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 11 de septiembre de 2012.
 
@@ -2929,9 +2929,9 @@ I. El acuerdo autorizando la venta y el precio base para la misma, serán aproba
 
 II. La convocatoria para la subasta deberá ser publicada en el Periódico Oficial del Gobierno del Estado, así como en un periódico de circulación en el Municipio, señalando fecha, hora y lugar donde se efectuará el acto; y
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-III. En todo lo no previsto, se aplicará supletoriamente el procedimiento establecido en la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato.
+III. En todo lo no previsto, se aplicará supletoriamente el procedimiento establecido en la Ley de Contrataciones Públicas para el Estado de Guanajuato.
 
 Ventas fuera de subasta pública
 
@@ -3081,11 +3081,13 @@ V. Realizar las licitaciones públicas conducentes; y
 
 VI. Las demás que apruebe el Ayuntamiento.
 
-Supletoriedad en materia de adquisiciones, enajenaciones, arrendamientos y contratos de servicios
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+Supletoriedad en materia de contrataciones públicas
 
 ###### Artículo 232.
 
-En lo no previsto en esta materia, se aplicará supletoriamente, la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato.
+En lo no previsto en esta materia, se aplicará supletoriamente la Ley de Contrataciones Públicas para el Estado de Guanajuato.
 
 ### Capítulo Único. De La Facultad Reglamentaria
 
@@ -3519,7 +3521,7 @@ EL SECRETARIO DE GOBIERNO
 
 ROMÁN CIFUENTES NEGRETE
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 26 DE ABRIL DE 2013.
 
@@ -3612,3 +3614,9 @@ P.O. 28 DE OCTUBRE DE 2016.
 Inicio de vigencia
 
 Artículo Único. El presente ARTÍCULO TERCERO del presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 119, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 212 FRACCIÓN III Y 232 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. La presente reforma entrará en vigor al día siguiente al de su publicación en el periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
