@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2016-11-18"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -3801,9 +3801,11 @@ Tampoco pueden alegarla los menores de edad si han presentado certificados falso
 
 El que se hubiere ausentado del lugar de su residencia ordinaria y tuviere apoderado constituido antes o después de su partida, se tendrá como presente para todos los efectos legales, y sus negocios se podrán tratar con el apoderado hasta donde alcance el poder.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 625.
 
-Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quién la representa, el juez nombrará un representante, a petición del ministerio público, presuntos herederos legítimos o testamentarios, o cualquiera a quien interese tratar o litigar con el ausente o defender los intereses de este.
+Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quién la representa, el Juez dictará las medidas de conservación necesarias, en un plazo no menor de un mes ni mayor de tres meses, a petición del ministerio público, presuntos herederos legítimos o testamentarios, o cualquiera a quien interese tratar o litigar con el ausente o defender los intereses de este.
 
 ###### Artículo 626.
 
@@ -3821,7 +3823,9 @@ En caso de que se soliciten alimentos por parte del cónyuge, hijos o ascendient
 
 Se nombrará representante en el siguiente orden:
 
-I. Al cónyuge del ausente;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+I. Al cónyuge, concubina o concubino del ausente;
 
 II. A uno de los hijos mayores. Si hubiere varios, al que estos propongan, y si no hay consenso el juez elegirá al que considere más apto para la administración y defensa del patrimonio;
 
@@ -3977,9 +3981,11 @@ VI. Con la aceptación del cargo de albacea en el juicio sucesorio correspondien
 
 ### CAPÍTULO III. PRESUNCIÓN DE MUERTE DEL AUSENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 655.
 
-Cuando hayan transcurrido dos años desde la declaración de ausencia, el juez, a instancia de parte interesada, declarará la presunción de muerte.
+Cuando haya transcurrido año y medio de la declaración de ausencia, el Juez, a instancia de parte interesada, declarará la presunción de muerte.
 
 Para que proceda la presunción de muerte respecto de los individuos que hayan desaparecido al tomar parte en una guerra, encontrándose a bordo de un buque que naufrague, o al verificarse una explosión, incendio, terremoto, inundación u otro siniestro semejante, o derivado de la probable comisión de un delito, bastará que hayan transcurrido seis meses, contados desde su desaparición, para que pueda hacerse la declaración de presunción de muerte, sin que en esos casos sea necesario que previamente se declare su ausencia; pero sí se tomarán las medidas provisionales autorizadas por el Capítulo I de este Título.
 
@@ -7474,5 +7480,11 @@ P.O. 23 DE JUNIO DE 2016.
 P.O. 18 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 181.- PRIMERO SE REFORMA EL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO. SEGUNDO SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 254 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 625, 629 Y 655 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
