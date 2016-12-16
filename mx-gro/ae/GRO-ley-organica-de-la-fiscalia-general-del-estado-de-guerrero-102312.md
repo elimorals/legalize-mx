@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-de-la-fiscalia-general-del-estado-de-guerrero-1023
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-08-01"
-last_updated: "2014-08-01"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102312&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO. NÚMERO 500
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS SESENTA DÍAS NATURALES POSTERIORES A LA DECLARATORIA QUE EMITA EL PODER LEGISLATIVO DE LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO EN EL ESTADO DE GUERRERO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Ley publicada en el alcance del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -517,7 +515,9 @@ IX. Fiscalía Especial de delitos electorales;
 
 X. Fiscalía de combate a la corrupción;
 
-XI. Fiscalía Especializada contra el Secuestro;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XI. Fiscalía Especializada en materia de Desaparición Forzada y Búsqueda de Personas Desaparecidas;
 
 XII. Direcciones Generales;
 
@@ -530,6 +530,12 @@ XV. Centro de Justicia para la Mujer;
 XVI. Las Agencias del Ministerio Público, Coordinaciones de la Policía Ministerial, los Servicios Periciales y demás unidades administrativas que se establezcan en el Reglamento de la presente Ley; y
 
 XVII. Las demás que establezca el Reglamento y otras disposiciones aplicables;
+
+> <small>[N. DE E. SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO A LA FRACCIÓN XVII.]</small>
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XVIII. Las demás que establezca el Reglamento y otras disposiciones aplicables;
 
 ###### ARTÍCULO 25.
 
@@ -570,6 +576,12 @@ Su personal deberá cumplir con los requisitos especiales señalados en la citad
 Fiscalía de combate a la corrupción
 
 La Fiscalía de Combate a la Corrupción tiene por objeto la investigación y persecución de los delitos relacionados con hechos de corrupción de competencia estatal, así como cualquier delito cometido por un servidor público estatal en el desempeño de su empleo, cargo o comisión.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 30 BIS. Fiscalía Especializada en materia de Desaparición Forzada y Búsqueda de Personas Desaparecidas.
+
+Tiene por objeto la investigación de las conductas previstas en la Ley de la materia, y contará con Ministerios Públicos y policías especializados, así como los recursos humanos, financieros y materiales que requieran para su efectiva operación. Esta fiscalía se integrará con peritos y técnicos especializados para el ejercicio de su función.
 
 ###### ARTÍCULO 31.
 
@@ -1470,3 +1482,25 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 DR. JESÚS MARTÍNEZ GARNELO.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 261 POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUERRERO, NÚMERO 500".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 60 días naturales a la entrada en vigor del presente Decreto, la Fiscalía General del Estado deberá integrar en su organigrama a la Fiscalía Especializada en materia de Desaparición Forzada y Búsqueda de Personas Desaparecidas, así mismo establecerá en su Reglamento las funciones y atribuciones del órgano de procuración de justicia que se crea.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente Decreto al Licenciado Héctor Antonio Astudillo Flores, Gobernador Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
