@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2016-12-08"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -1897,11 +1897,17 @@ Discriminación
 
 Se impondrá de seis meses a tres años de prisión o de cincuenta a doscientas días multa y de cien a trescientos días de trabajo a favor de la comunidad, a quien por motivo de género, edad, estado civil, embarazo, raza, procedencia étnica, idioma, religión, ideología, preferencia sexual, color de piel, nacionalidad, origen, posición social, trabajo, profesión, posición económica, discapacidad, características físicas, estado de salud o cualquier circunstancia que atente contra la dignidad humana y tenga por objeto anular o afectar los derechos o libertades de las personas:
 
-I. Provoque o incite al odio o a la violencia;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-II. Niegue a una persona un servicio o una prestación a la que tenga derecho;
+I. Provoque, degrade, intimide o incite al odio o a la violencia hacia alguna persona o grupo de personas;
 
-III. Veje a alguna persona; o,
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+II. Niegue u obstaculice un servicio o una prestación a la que tenga derecho alguna persona o grupo de personas;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+III. Veje o excluya a alguna persona o grupo de personas; o,
 
 IV. Niegue o restrinja derechos laborales.
 
@@ -3622,5 +3628,11 @@ P.O. 18 DE NOVIEMBRE DE 2016.
 P.O. 8 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 182 POR EL QUE "SE REFORMA EL ARTÍCULO 252 EN SU TÍTULO Y SE ADICIONA EL ARTÍCULO 252 BIS AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 253 POR EL QUE "SE REFORMAN LAS FRACCIONES I, II Y III DEL ARTÍCULO 179 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
