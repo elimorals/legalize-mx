@@ -4,7 +4,7 @@ identifier: "COA-ley-de-aguas-para-los-municipios-del-estado-de-coahuila-de-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-24"
-last_updated: "2016-11-01"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67398&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 24 de febrero de 2009.
 
@@ -223,7 +223,9 @@ Los usuarios de los servicios de agua potable, drenaje, alcantarillado, tratamie
 
 Los servicios de agua potable, drenaje y alcantarillado no podrán ser objeto de exención o condonación alguna. Los usuarios particulares, los gobiernos y dependencias o entidades federales, estatales o municipales, instituciones educativas y culturales o de asistencia pública o privada en consecuencia, estarán obligados a su pago.
 
-Cualquier disposición que contravenga lo previsto por el párrafo anterior será nula de pleno derecho e implicará que quien la emita se haga acreedor a que le sea fincada la responsabilidad correspondiente, salvo lo dispuesto en el caso del descuento otorgado a los adultos mayores y pensionados.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+Cualquier disposición que contravenga lo previsto por el párrafo anterior será nula de pleno derecho e implicará que quien la emita se haga acreedor a que le sea fincada la responsabilidad correspondiente, salvo lo dispuesto en el caso del incentivo otorgado a los adultos mayores, pensionados, jubilados y personas que cuenten con alguna discapacidad.
 
 ###### ARTÍCULO 13.
 
@@ -1134,3 +1136,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los organismos operadores de agua deberán hacer el ajuste en el cobro derivado de los servicios de manera automática, sin que medie solicitud alguna de los usuarios.
 
 TERCERO.- Se derogan las disposiciones que se opongan a lo previsto en el presente Decreto.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 609.- SE REFORMA EL ARTÍCULO 12 DE LA LEY DE AGUAS PARA LOS MUNICIPIOS DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones de las leyes y reglamentos que sean contrarias a las normas establecidas en la presente Ley.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
