@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2016-12-08"
+last_updated: "2016-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -193,11 +193,15 @@ X. La protección, preservación y mejoramiento del medio ambiente en relación 
 
 XI. La aplicación de programas de mejoramiento para la dotación de equipamiento e infraestructura Urbana a los asentamientos humanos;
 
-XII. La promoción de obras y servicios para que los habitantes del Estado tengan una vivienda digna y decorosa;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XII. La promoción de obras y servicios para que los habitantes del Estado tengan una vivienda digna y decorosa, priorizando los principios de sustentabilidad aplicables;
 
 XIII. La zonificación del suelo para determinar, regular y controlar las provisiones, usos, destinos y reservas de los centros de población;
 
-XIV. La dotación suficiente, adecuada y el mejoramiento de la infraestructura y equipamiento urbano, así como la prestación de los servicios públicos;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XIV. La dotación suficiente, adecuada y el mejoramiento de la infraestructura y equipamiento urbano, preferentemente de sistemas alternativos de energía y de bajo impacto ecológico, así como la prestación de los servicios públicos; con una visión integral de planeación sustentable;
 
 XV. La coordinación y concertación de la inversión pública y privada en la planeación de cobertura regional, urbano (sic) y rural;
 
@@ -577,7 +581,9 @@ X. Ejercer el derecho de preferencia en lo relativo a predios comprendidos en la
 
 XI. Asegurar la protección, conservación y manejo de las áreas verdes y las zonas de conservación y protección ecológica ubicadas en el municipio;
 
-XII. Promover y ejecutar obras para que los habitantes del municipio cuenten con vivienda digna, equipamiento, infraestructura y servicios adecuados;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XII. Promover y ejecutar obras para que los habitantes del municipio cuenten con vivienda digna, equipamiento, infraestructura y servicios adecuados y de calidad;
 
 XIII. Otorgar las facilidades administrativas que estén a su alcance a las acciones de vivienda de interés social y popular;
 
@@ -655,9 +661,17 @@ XI. Promover la construcción y mejoramiento de la vivienda de interés social y
 
 XII. Fomentar la prevención y atención de riesgos y contingencias ambientales y urbanas en los centros de población;
 
-XIII. Fomentar la legalidad y transparencia de los actos administrativos y denunciar ante las autoridades competentes, los hechos, actos u omisiones que cometieren los particulares o autoridades en contravención a lo que establece este Código y los programas de desarrollo urbano; y,
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-XIV. Solicitar la adopción de las medidas de seguridad previstas en este Código.
+XIII. Fomentar la legalidad y transparencia de los actos administrativos y denunciar ante las autoridades competentes, los hechos, actos u omisiones que cometieren los particulares o autoridades en contravención a lo que establece este Código y los programas de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XIV. Solicitar la adopción de las medidas de seguridad previstas en este Código; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XV. Opinar en la planeación urbana sustentable y con visión a largo plazo.
 
 ###### ARTÍCULO 17.
 
@@ -2451,7 +2465,9 @@ I. La regularización del uso del suelo y administración urbana;
 
 II. La generación de suelo urbano y reservas para el crecimiento urbano o territoriales;
 
-III. El desarrollo de vialidades y el transporte público;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+III. El desarrollo de vialidades del sistema alternativo y el transporte público;
 
 IV. La atención de aspectos ambientales mediante la recolección, tratamiento y disposición final de desechos sólidos y aguas residuales;
 
@@ -2911,9 +2927,9 @@ XIX. Desarrollos: A los fraccionamientos habitacionales urbanos y suburbanos, co
 
 XX. Desarrollo en Condominio: Es la modalidad de la propiedad en los desarrollos, habitacional, comercial, industrial, comercial, construido en los términos de la Ley sobre el Régimen de Propiedad en Condominio del Estado de Michoacán de Ocampo;
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
-XX BIS. DESARROLLO SUSTENTABLE: Proceso de desarrollo que satisface los requerimientos de la generación presente sin comprometer la capacidad de las generaciones futuras para satisfacer sus propias necesidades. (ambiente, aprovechamiento forestal, aprovechamiento sustentable, biodiversidad, equilibrio ecológico, recursos naturales);
+XX BIS. Desarrollo Sustentable: Proceso de desarrollo que satisface los requerimientos de la generación presente sin comprometer la capacidad de las generaciones futuras para satisfacer sus propias necesidades, en el cual existe (sic) se promueva un equilibrio entre los factores ambiental, económico y social;
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2013)</small>
 
@@ -2973,7 +2989,9 @@ XXXVIII. Servicios Públicos Municipales: Los servicios públicos de agua potabl
 
 XXXIX. Servicios Urbanos: Acción pública prestadas directamente por la autoridad competente o concesionadas, para crear y mantener el equipamiento urbano de los centros de población;
 
-XL. Sistema Vial Alternativo: La planificación y desarrollo de andadores y ciclo vías;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+
+XL. Sistema Vial Alternativo: Red de comunicación vial, que permite el libre tránsito a pie o con ayuda de vehículos no motorizados y no contaminantes, en cuya planificación y desarrollo se incluyen andadores y ciclo vías;
 
 XLI. Subdivisión: La división o partición de un terreno del área urbana o urbanizada en lotes y que no requiera la extensión o apertura de vías públicas, por ser estas ya existentes o no necesarias y que cada una de las fracciones resultantes tenga frente a vía pública;
 
@@ -5406,5 +5424,11 @@ SEGUNDO. Se otorga un término de noventa días para que los Ayuntamientos del E
 P.O. 8 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO 193 POR EL QUE SE “REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 2, LA FRACCIÓN III DEL ARTÍCULO 20, LA FRACCIÓN III DEL ARTÍCULO 39, LA FRACCIÓN VIII DEL ARTÍCULO 281 BIS, LA FRACCIÓN VI DEL ARTÍCULO 281 TER, EL SEGUNDO PÁRRAFO DEL INCISO I) FRACCIÓN IV DEL ARTÍCULO 321, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 322, LA FRACCIÓN IV DEL ARTÍCULO 349 Y EL ARTÍCULO 444 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 201 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 4 FRACCIONES XII Y XIV, 14 FRACCIÓN XII, 16, 197 FRACCIÓN III, 274 FRACCIONES XX BIS Y XL, TODOS DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
