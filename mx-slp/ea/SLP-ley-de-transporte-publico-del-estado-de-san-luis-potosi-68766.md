@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2016-10-18"
+last_updated: "2016-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -43,9 +45,11 @@ LEY DE TRANSPORTE PUBLICO DEL ESTADO DE SAN LUIS POTOSI
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 1°.
 
-Las disposiciones de esta Ley son de orden público e interés social; tienen como objeto regular la prestación del servicio de transporte público y los servicios auxiliares del mismo en el Estado de San Luis Potosí; y establecer las bases para la protección y la seguridad de la población en la materia.
+Las disposiciones de esta Ley son de orden público e interés social; tienen como objeto regular la prestación del servicio de transporte público y los servicios auxiliares del mismo en el Estado de San Luis Potosí; y establecer las bases para la protección, la movilidad y la seguridad de la población en la materia.
 
 ###### ARTICULO 2°.
 
@@ -242,6 +246,12 @@ XI. Depósito de vehículos: al espacio físico determinado por la autoridad com
 XII. Dirección general: a la Dirección General de Comunicaciones y Transportes de la Secretaría de Comunicaciones y Transportes;
 
 XIII. Dirección general del transporte colectivo metropolitano: a la Dirección General del Transporte Colectivo Metropolitano de la Secretaría de Comunicaciones y Transportes;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+XIII BIS. Empresas de Redes de Transporte: Son aquellas que, basándose en el desarrollo de tecnologías de teléfonos inteligentes o similares y sistemas de posicionamiento global, únicamente medien el acuerdo entre usuarios y prestadores del servicio de transporte a través de aplicaciones, o bien, aquéllas que, por virtud de acuerdos comerciales, promuevan, promocionen o incentiven el uso de dichas tecnologías propias o de terceros, y cuyos esquemas tarifarios serán determinados en las plataformas tecnológicas.
+
+El servicio de transporte por medio de aplicaciones será distinto de los sistemas de transporte previstos en el artículo 21 de la presente Ley, y será prestado por conductores con licencia de conducir para automovilista o chofer del servicio particular, previamente registrados ante una plataforma tecnológica asociada a una Empresa de Redes de Transporte;
 
 XIV. Equipamiento auxiliar de transporte: a todos los accesorios directos e indirectos, complementarios de la operación del servicio de transporte público;
 
@@ -581,9 +591,11 @@ A fin de satisfacer las necesidades y la demanda de los usuarios del servicio de
 
 Tratándose del servicio de transporte mixto de carga y pasaje, cuando por las condiciones de los caminos por los que se deba transitar, sea imprescindible utilizar vehículos de carga adaptados, éstos serán autorizados únicamente cuando las condiciones de las vías así lo requieran, y exclusivamente donde no operen cualquiera de los servicios a que se refieren las fracciones I, II y III del artículo 21 de esta Ley.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 30.
 
-Los propietarios y conductores de vehículos particulares no podrán prestar servicio a terceros a título oneroso.
+Los propietarios o conductores de vehículos particulares no podrán por sí o por conducto de terceros, directa o indirectamente prestar servicio de transporte a terceros a título oneroso en contravención a esta Ley o a las disposiciones de carácter general aplicables.
 
 ## TÍTULO CUARTO. DE LAS CONCESIONES Y PERMISOS
 
@@ -599,23 +611,7 @@ Para efectos de la presente Ley se entenderá por concesión, el acto administra
 
 Estará sujeta al régimen de concesión la prestación del servicio público de transporte, a través de personas físicas o morales en las modalidades a que se refieren las fracciones I, II, y III del artículo 21 de esta Ley, y se otorgarán mediante concurso.
 
-> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2014)</small>
-
-La prestación del servicio público de transporte en la modalidad de servicios especiales de transporte de trabajadores, queda sujeta al régimen de concesiones que se otorgarán mediante adjudicación directa.
-
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
-
-I. (DEROGADA, P.O. 16 DE ABRIL DE 2016)
-
-II. (DEROGADA, P.O. 16 DE ABRIL DE 2016)
-
-III. (DEROGADA, P.O. 16 DE ABRIL DE 2016)
-
-> <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
-
-> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
 
@@ -695,7 +691,9 @@ V. Las demás que señalen las disposiciones jurídicas y administrativas aplica
 
 El otorgamiento de concesiones en los casos a que se refiere esta Ley, se realizará a través de un concurso, atendiendo a los estudios técnicos que demanden las necesidades del servicio; el cual deberá celebrarse conforme a las siguientes bases.
 
-I. El titular del Ejecutivo convocará mediante una publicación en el Periódico Oficial del Estado, y por lo menos en uno de los diarios de mayor circulación de la localidad de que se trate, o en su defecto de la Capital del Estado, dicha publicación se hará con no menos de cuarenta y cinco días de anticipación a la fecha fijada para la celebración del concurso;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+l. El titular del Ejecutivo convocará mediante una publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis", y en el portal de internet de la Secretaría, dicha publicación se hará con no menos de cuarenta y cinco días de anticipación a la fecha fijada para la celebración del concurso;
 
 II. La convocatoria deberá contener:
 
@@ -715,9 +713,13 @@ g) Garantías que se deban cubrir;
 
 III. El concurso deberá agotar las etapas de la inscripción, la junta de aclaraciones, la entrega de la documentación, la evaluación de la documentación, la revisión y el fallo;
 
-IV. Los interesados en participar deberán presentarse en el lugar y en los plazos establecidos, para llevar a cabo el trámite de su registro al concurso de que se trate, y obtener la constancia respectiva que los acredite como concursantes;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-V. La junta de aclaraciones deberá celebrarse en los términos que determine la convocatoria; para tal efecto, los concursantes deberán presentar por escrito, en la forma y lugar que se determine, con por lo menos un día de anticipación a la fecha señalada para que se verifique la junta, las dudas que al efecto soliciten que se aclaren.
+IV. Los interesados en participar deberán presentarse en el lugar y en los plazos establecidos, o a través de los medios electrónicos que al efecto señale la convocatoria, para llevar a cabo el trámite de su registro al concurso de que se trate, y obtener la constancia respectiva que los acredite como concursantes;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+V. La junta de aclaraciones deberá celebrarse en los términos que determine la convocatoria; para tal fin, los concursantes deberán presentar por escrito, en la forma y lugar que se determine, o a través de los medios electrónicos que al efecto señale la convocatoria, con por lo menos un día de anticipación a la fecha determinada para que se verifique la junta, las dudas que soliciten se aclaren.
 
 En la fecha y hora señaladas para que tenga verificativo la junta de aclaraciones, la Secretaría procederá a dar cuenta de las solicitudes de aclaración recibidas, procediendo a su contestación.
 
@@ -729,13 +731,13 @@ VII. Transcurrido el plazo para la entrega de la documentación, la Secretaría 
 
 Sin perjuicio de lo anterior, en caso de que la Secretaría requiera de un mayor plazo para verificar el contenido de los documentos presentados por los concursantes, éste se dará a conocer en los estrados del domicilio de la dependencia y en el Periódico Oficial del Estado;
 
-VIII. Una vez concluida la etapa de evaluación de la documentación a que se refiere la fracción anterior, la Secretaría dará a conocer la calificación de cada uno de los participantes en el concurso, así como el nombre de quienes habiéndose inscrito al mismo, hayan quedado excluidos del concurso de acuerdo a lo establecido en las bases.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-Lo anterior, mediante publicación en el Periódico Oficial del Estado y en los estrados de la Secretaría, la cual tendrá el carácter de notificación personal.
+VIII. Una vez concluida la etapa de evaluación de la documentación a que se refiere la fracción anterior, la Secretaría enviará al titular del Ejecutivo el proyecto de fallo del concurso; así como el nombre de quienes, habiéndose inscrito al mismo, hayan quedado excluidos del concurso de acuerdo a lo establecido en las bases.
 
-Los concursantes que no estuvieran de acuerdo con la calificación dada a conocer, podrán hacer uso del recurso previsto en este Ordenamiento, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IX. Concluidas las etapas a que se refieren las fracciones que anteceden, se emitirá el fallo del concurso, mismo que se publicará en el Periódico Oficial del Estado, así como en uno de los diarios de circulación en el municipio de que se trate, o en su defecto de la Capital del Estado.
+IX. Concluidas las etapas a que se refieren las fracciones que anteceden, se emitirá el fallo del concurso, mismo que se publicará en el Periódico Oficial del Gobierno del Estado "Plan de San Luis", y en el portal de internet de la Secretaría.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
 
@@ -775,17 +777,21 @@ e) Cuando se trate de entidades que con anterioridad hayan prestado el servicio 
 
 En ningún caso se otorgarán concesiones a quienes habiéndolas tenido se les hayan anulado o revocado, o las hayan enajenado bajo cualquier figura jurídica, o hayan cedido o transferido sus derechos bajo cualquier forma o denominación, en contravención a lo dispuesto por esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 40.
 
-Las concesiones se otorgarán a los concursantes que garanticen la prestación del servicio en las mejores condiciones, atendiendo en su orden a los siguientes criterios:
+Las concesiones se otorgarán a los concursantes que garanticen la prestación del servicio en las mejores condiciones, atendiendo a los siguientes criterios:
 
-I. Tratándose de personas físicas, se preferirá en su orden:
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-a) A quienes de acuerdo con los resultados del estudio socioeconómico que para el efecto se realice, justifiquen la solvencia para el desempeño del servicio.
+I. Tratándose de personas físicas, se preferirá a quien tenga mayor antigüedad acumulada como operador en el servicio de transporte público de que se trate.
 
-b) A quien tenga mayor antigüedad de manera ininterrumpida como operador en el servicio de transporte público de que se trate.
+Tratándose de municipios en los que no se cuenten con antecedentes que acrediten la antigüedad de los interesados como operadores, se estará a lo siguiente:
 
-c) A quienes tengan mayor antigüedad como solicitantes, y
+a) La solicitud con mayor antigüedad.
+
+b) Los interesados con mayor antigüedad de residencia en el municipio correspondiente, y
 
 II. Tratándose de personas morales, se otorgará a la empresa que acredite que realizará una mayor y mejor inversión para prestar en condiciones óptimas el servicio concursado, comprendiendo en ello, la capacitación del personal, la calidad de las unidades, los servicios y obras accesorias.
 
@@ -1319,7 +1325,79 @@ Queda a cargo de la Secretaría desarrollar e implementar un sistema de calidad 
 
 A fin de preservar el medio ambiente y evitar el desequilibrio ecológico que pueda derivarse de la emisión de humos, ruidos y gases de los vehículos del servicio público del transporte, la Secretaría podrá convenir con las autoridades competentes, para tomar las medidas necesarias para dicho fin; asimismo, promoverá la modernización y eficacia del parque vehicular.
 
-### Capítulo Único
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO III. De las Empresas de Redes de Transporte
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 71 BIS. Las Empresas de Redes de Transporte deberán contar con registro ante la Secretaría, cuya vigencia será anual; dicho registro estará sujeto a los requisitos siguientes:
+
+l. Exhibir acta constitutiva debidamente registrada en el Instituto Registral y Catastral del Estado de San Luis Potosí;
+
+II. Suscribir con el Poder Ejecutivo del Estado un convenio para la constitución de un fondo público económico, al que deberán aportar un 1.5% del monto efectivamente cobrado por cada viaje iniciado en el Estado de San Luis Potosí, por los prestadores del servicio a través de Empresas de Redes de Transporte que se encuentren debidamente registrados en la plataforma propiedad de la Empresa de Redes de Transporte, o promocionada por la misma, cuyos recursos se destinarán para el desarrollo de políticas públicas en materia de movilidad;
+
+III. Acreditar ser propietaria, subsidiaria o contar con derechos de explotación o acuerdos comerciales para la promoción respecto de la aplicación tecnológica que permita mediar el servicio correspondiente, y
+
+IV. Informar a la Secretaría los estándares de calidad y operación con que los conductores afectos prestarán sus servicios.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 71 TER. Las Empresas de Redes de Transporte, tendrán las obligaciones siguientes:
+
+l. Asegurar que el servicio que presten acate los estándares de calidad y operación que hayan informado a la Secretaría;
+
+II. Solicitar la renovación de su registro cuando menos treinta días previo a su vencimiento;
+
+III. Garantizar que las aplicaciones móviles y portales de internet asociadas a la plataforma tecnológica, mantenga de manera visible, permanente y de fácil acceso, las tarifas de cobro o el método por virtud del cual se calcularán;
+
+IV. Asegurar que la plataforma independiente cree y mantenga un portal de internet permanente y vinculada a la aplicación móvil que administren, promuevan o promocionen, a efecto de poner a disposición del público las condiciones de la prestación del servicio;
+
+V. Prestar todas las facilidades e información disponible que le requieran las autoridades federales, estatales y municipales en el ejercicio de sus funciones y dentro de la esfera de sus competencias, y
+
+VI. Enviar a la dirección de correo electrónico registrada por el usuario, un comprobante que acredite el pago del servicio.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 71 QUÁTER. Las Empresas de Redes de Transporte deberán registrar anualmente ante la Secretaría, a sus prestadores de servicio, y propietarios de vehículos como personas físicas, pudiendo realizar dicho trámite a través de los portales o medios electrónicos que se pongan a su disposición, exhibiendo los documentos siguientes:
+
+I. Identificación oficial;
+
+II. Comprobante de domicilio;
+
+III. Registro Federal de Contribuyentes, y
+
+IV. Documento que acredite la propiedad o legal posesión del vehículo por virtud del cual prestarán el servicio.
+
+Los prestadores de servicio de transporte de pasajeros a través de Redes de Transporte, deberán acreditar ante éstas, cursos de capacitación, exámenes toxicológicos, psicométricos y de salud.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 71 QUINQUE. Los vehículos a través de los cuales se preste el servicio de Redes de Transporte, deberán acreditar ante éstas los requisitos siguientes:
+
+I. Estar al corriente en el pago de los derechos de control vehicular del Estado de San Luis Potosí, y demás contribuciones a que esté afecto el vehículo;
+
+II. Contar con una póliza de seguro de cobertura en términos del artículo 81 fracción IX de esta Ley;
+
+III. Acreditar haber cumplido con el programa de verificación vehicular que emita la Secretaría de Ecología y Gestión Ambiental en el Estado, y
+
+IV. El modelo del vehículo para la prestación del servicio, además de contar con bolsas de aire y frenos antibloqueo o su equivalente, no podrá ser mayor a cinco años de antigüedad.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 71 SEXTIES. Las Empresas de Redes de Transporte a que se refiere esta Ley serán obligados solidarios de los prestadores del servicio registrados ante su plataforma, o la que en todo caso promueva, por la responsabilidad civil frente a terceros, que pudiera surgir con motivo de la prestación de dicho servicio, únicamente durante el tiempo de la prestación de dicho servicio y en caso que dicho vehículo no cuente con seguro vigente que cubra dicha responsabilidad civil frente a terceros y sólo hasta por un monto igual a las sumas aseguradas que debió haber contratado el propietario del vehículo para tal riesgo.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 71 SEPTIES. Queda estrictamente prohibido a las Redes de Transporte, sus afiliados, socios, operadores, conductores, asociados o propietarios de los vehículos o quienes presten el servicio, recibir pagos en efectivo, en especie, a través de tarjetas prepagadas no bancarias, o sistemas de pago en tiendas de conveniencia mediante monederos electrónicos.
+
+Asimismo, queda prohibido el subarrendamiento de los vehículos.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 71 OCTIES. Los prestadores del servicio de transporte por medio de aplicaciones previstos en el presente capítulo, no podrán realizar oferta directa en la vía pública sin que ésta se perfeccione a través de una solicitud iniciada por el usuario en la plataforma; ni podrán hacer sitio, matriz, base o similares, en las zonas de influencia de los automóviles de alquiler incluyendo terminales de transporte y zonas hoteleras.
+
+El servicio de transporte por medio de aplicaciones no estará sujeto a itinerarios, rutas, tarifas, frecuencias de paso ni a horarios fijos.
 
 ## TITULO SEXTO. DEL REGISTRO DE TRANSPORTE PUBLICO
 
@@ -1361,7 +1439,7 @@ En lo relativo al acceso a los datos del registro del transporte público, se es
 
 ## TITULO SEPTIMO. DE LAS LICENCIAS PARA CONDUCIR VEHICULOS DE SERVICIO PUBLICO
 
-### Capítulo I. De las Obligaciones de los Concesionarios y Permisionarios
+### Capítulo Único
 
 ###### ARTICULO 76.
 
@@ -1447,7 +1525,7 @@ V. Cuando así lo ordene la autoridad judicial o administrativa.
 
 ## TITULO OCTAVO. DE LAS OBLIGACIONES DE LOS CONCESIONARIOS, PERMISIONARIOS, OPERADORES Y USUARIOS
 
-### Capítulo II. De las Obligaciones de los Operadores del Servicio Público de Transporte
+### Capítulo I. De las Obligaciones de los Concesionarios y Permisionarios
 
 ###### ARTICULO 81.
 
@@ -1515,7 +1593,7 @@ XXIII. Dotar a los operadores por lo menos de dos uniformes al año, con las car
 
 XXIV. Cumplir con los preceptos de esta Ley, su Reglamento y demás disposiciones jurídicas y administrativas aplicables.
 
-### Capítulo III. De las Obligaciones de los Usuarios
+### Capítulo II. De las Obligaciones de los Operadores del Servicio Público de Transporte
 
 ###### ARTICULO 82.
 
@@ -1561,7 +1639,7 @@ Por ningún motivo se transportarán pasajeros en los estribos de ascenso y desc
 
 El incumplimiento de las obligaciones señaladas a los permisionarios, concesionarios u operadores, sin perjuicio de la responsabilidad civil o penal en la que incurran, será sancionado de conformidad con lo establecido en la presente Ley y demás disposiciones legales y administrativas aplicables.
 
-### Capítulo Único
+### Capítulo III. De las Obligaciones de los Usuarios
 
 ###### ARTICULO 88.
 
@@ -1667,8 +1745,6 @@ Se considera tarifa especial aquélla que aplica a los usuarios que, por sus con
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
-
 ###### ARTICULO 98.
 
 Son servicios auxiliares del transporte público los siguientes:
@@ -1699,17 +1775,17 @@ VIII. El boletaje, y
 
 IX. La publicidad.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 99.
 
-Es competencia del Ejecutivo del Estado, el otorgamiento, regulación, modificación o revocación de las concesiones para el uso, aprovechamiento y explotación de los servicios auxiliares del transporte público, en los casos y modalidades que la presente Ley establece, así como señalar el destino que deberán tener los bienes afectos, al término de la concesión.
+Es competencia del Ejecutivo del Estado, el otorgamiento, regulación, modificación o revocación de las concesiones o permisos para el uso, aprovechamiento y explotación de los servicios auxiliares del transporte público, en los casos y modalidades que la presente Ley establece, así como señalar el destino que deberán tener los bienes afectos, al término de la concesión o permiso.
 
-Serán sujetos de concesión los siguientes servicios auxiliares de transporte público:
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-I. Los sistemas de prepago, y
+Las estaciones de transferencia de pasajeros estarán sujetas al régimen de concesión.
 
-II. Las estaciones de transferencia de pasajeros.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2015)</small>
 
 Serán sujetos de permiso anual expedido por la Secretaría de Comunicaciones y Transportes, los siguientes servicios auxiliares de transporte:
 
@@ -1726,6 +1802,12 @@ e) Las zonas de depósito y guarda de vehículos.
 f) El boletaje.
 
 g) La publicidad.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+h) Los sistemas de prepago.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2015)</small>
 
 El uso de torniquetes o pasarelas queda restringido única y exclusivamente al control del acceso de pasajeros en paraderos debidamente establecidos, estaciones de ascenso y descenso de pasajeros, y estaciones de transferencia; esto siempre y cuando todos los dichos elementos, estén equipados con acceso independiente adaptado para el acceso de personas con discapacidad. Queda prohibido el uso de torniquetes, pasarelas u cualquier otro aditamento o equipo instalado a bordo de los autobuses, que entorpezca el libre acceso de los usuarios.
 
@@ -1749,7 +1831,7 @@ Lo dispuesto en el párrafo precedente no exime a los concesionarios o permision
 
 ### Capítulo Único
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
 
 ###### ARTICULO 103.
 
@@ -1861,9 +1943,9 @@ El Gobierno del Estado podrá indemnizar a los concesionarios afectados, previo 
 
 ## TITULO DECIMO TERCERO. DE LA INSPECCION Y VIGILANCIA DEL TRANSPORTE PUBLICO
 
-### Capítulo I. De la Integración del Consejo Estatal de Transporte Público
+### Capítulo Único
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 112.
 
@@ -1893,7 +1975,9 @@ La Secretaría publicitará ampliamente el número telefónico en el que puedan 
 
 ## TITULO DECIMO CUARTO. DEL CONSEJO ESTATAL DE TRANSPORTE Y LOS CONSEJOS MUNICIPALES DE TRANSPORTE
 
-### Capítulo II. De las Atribuciones del Consejo Estatal de Transporte Público
+### Capítulo I. De la Integración del Consejo Estatal de Transporte Público
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 118.
 
@@ -1945,7 +2029,7 @@ El reglamento respectivo debe contener el procedimiento para organizar entre los
 
 El Consejo será presidido por el Secretario de Comunicaciones y Transportes; en el mismo fungirá como secretario, el Director General de Comunicaciones y Transportes, o el de Transporte Colectivo Metropolitano, según la materia del asunto o asuntos a tratar en la sesión del Consejo.
 
-### Capítulo III. De la Integración de los Consejos Municipales de Transporte Público
+### Capítulo II. De las Atribuciones del Consejo Estatal de Transporte Público
 
 ###### ARTICULO 121.
 
@@ -1989,7 +2073,7 @@ III. Proponer la orden del día de las sesiones, y
 
 IV. Fungir como relator de los proyectos, solicitudes y demás asuntos que se presenten dentro del Consejo.
 
-### Capítulo IV. De las Funciones de los Consejos Municipales de Transporte Público
+### Capítulo III. De la Integración de los Consejos Municipales de Transporte Público
 
 ###### ARTICULO 123.
 
@@ -2033,7 +2117,7 @@ En caso de ausencia del Presidente del Consejo, será el secretario técnico qui
 
 Los consejos municipales de transporte público, a través de su representante, se coordinarán con la Secretaría, para formular opiniones y propuestas respecto a cualquier problema en esta materia, en el municipio que corresponda.
 
-### Capítulo V. De la Operación de los Consejos Municipales de Transporte Público
+### Capítulo IV. De las Funciones de los Consejos Municipales de Transporte Público
 
 ###### ARTICULO 125.
 
@@ -2065,7 +2149,7 @@ X. Promover mecanismos de coordinación, comunicación e intercambio de informac
 
 XI. Las demás que procedan conforme a la normatividad vigente.
 
-### Capítulo I. De las Sanciones
+### Capítulo V. De la Operación de los Consejos Municipales de Transporte Público
 
 ###### ARTICULO 126.
 
@@ -2095,9 +2179,7 @@ XI. Para suplir la baja de los consejeros propietarios que acumulen tres faltas 
 
 ## TITULO DECIMO QUINTO. DE LAS SANCIONES Y DEL PROCEDIMIENTO PARA SU APLICACIÓN
 
-### Capítulo II. Del Procedimiento para la Aplicación de las Sanciones
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2015)</small>
+### Capítulo I. De las Sanciones
 
 ###### ARTICULO 127.
 
@@ -2239,6 +2321,10 @@ v) Por alterar los taxímetros, sistemas de prepago y demás equipos utilizados 
 
 w) Por falta de cumplimiento de las demás obligaciones establecidas en el artículo 81 de la presente Ley, multa de cinco a cincuenta salarios mínimos.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+En el caso de concesionarios y operadores afectos a las modalidades de transporte público previstas en el artículo 21 fracciones I incisos c) y d), y IV, el pago dentro de los primeros diez días hábiles a la generación de la infracción en los supuestos de las fracciones I y II del presente artículo, dará lugar a un descuento de la multa en un cincuenta por ciento, siempre y cuando no haya reincidencia.
+
 En la comisión de las infracciones establecidas en la presente Ley, se considera solidariamente responsable al titular de la concesión, permiso o autorización de que se trate.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2012)</small>
@@ -2261,7 +2347,13 @@ El mal uso comprobado fehacientemente de las tarifas especiales a que hacen refe
 
 Se hará acreedor a multa de trescientos a quinientos salarios mínimos vigentes en la zona, quien ofrezca o preste el servicio de transporte público de cualquier modalidad, y carezca de concesión o permiso otorgados por el Ejecutivo del Estado. Asimismo, la Secretaría estará facultada para retirar de la circulación y remitir a la pensión que determine, los vehículos que sean utilizados para ese fin.
 
-### Capítulo Único
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 132 BIS. Se impondrá una multa de trescientas hasta quinientas Unidades de Medida de Actualización, a los propietarios o conductores de vehículos afectos a aplicaciones de Redes de Transporte, destinados a la prestación del servicio, cuando éstos cometan infracciones a lo dispuesto en esta Ley y demás normativa aplicable.
+
+### Capítulo II. Del Procedimiento para la Aplicación de las Sanciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 133.
 
@@ -2276,6 +2368,8 @@ La Secretaría, en un término no mayor de quince días hábiles, notificará la
 En los casos no dispuestos por la presente Ley, se aplicará de manera supletoria la Ley de Procedimientos Administrativos del Estado y Municipios de San Luis Potosí.
 
 ## TITULO DECIMO SEXTO. DEL RECURSO DE REVISION
+
+### Capítulo Único
 
 ###### ARTICULO 134.
 
@@ -2510,3 +2604,27 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se concede plazo de seis meses, a partir de la entrada en vigor del presente Decreto; para que los concesionarios de transporte público urbano en las modalidades de colectivo, colectivo de primera clase, y colectivo masivo, realicen las adecuaciones necesarias a las unidades destinadas a este tipo de servicios de transporte, y cumplan con las medidas de accesibilidad y lineamientos que ahora establece el artículo 44 de la Ley de Transporte Público del Estado.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0442.- SE REFORMA LOS ARTÍCULOS, 37 Y 40 DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0443.- REFORMA EL ARTÍCULO 99; Y DEROGA DEL ARTÍCULO 31 SU ACTUAL PÁRRAFO TERCERO, DE LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0444.- SE REFORMA LOS ARTÍCULOS, 1°, Y 30; Y ADICIONA, AL ARTÍCULO 12 LA FRACCIÓN XIII BIS, AL TÍTULO QUINTO EL CAPÍTULO III Y LOS ARTÍCULOS, 71 BIS A 71 OCTIES, AL ARTÍCULO 129 PÁRRAFO PENÚLTIMO, Y EL ARTÍCULO 132 BIS, DE Y A LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ. ASÍ MISMO SE ADICIONA EL ARTÍCULO 70 BIS, A LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor ciento veinte días posteriores a la fecha de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
