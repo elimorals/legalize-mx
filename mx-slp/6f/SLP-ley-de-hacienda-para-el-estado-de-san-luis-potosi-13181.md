@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2016-04-16"
+last_updated: "2016-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -55,21 +55,11 @@ Esta ley tiene por objeto el regular los ingresos que obtiene el Estado y que an
 
 En lo no previsto por esta Ley, se aplicará supletoriamente el Código Fiscal del Estado y, en defecto de éste, las normas del derecho común local.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 4º.
+###### ARTICULO 4°.
 
-Cuando en esta Ley se haga referencia al salario mínimo, se entenderá que es el salario mínimo general para todo el País y/o la Unidad de Medida y Actualización.
-
-###### Artículo 4.
-
-Glosario. Para los efectos de esta ley se entenderá por:
-
-I. Ley: Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios;
-
-II. Órgano de control: Instancia del Poder Ejecutivo, incluidos los órganos internos de control de las dependencias y entidades paraestatales de la Administración Pública Estatal, así como de los poderes Legislativo y Judicial, ayuntamientos y organismos autónomos del Estado de Michoacán, con atribuciones para realizar acciones de control, evaluación, inspección y vigilancia que prevengan, detecten y erradiquen prácticas irregulares en el servicio público, para integrar pliegos preventivos de responsabilidad, recibir quejas o denuncias, instrumentar procedimientos, investigar y determinar responsabilidades e imponer sanciones, así como para llevar el registro de la situación patrimonial de los servidores públicos respectivos; y,
-
-III. Órgano ejecutor: Instancia responsable de ejecutar las sanciones impuestas por el órgano de control.
+Cuando en esta Ley se haga referencia a UMA, se entenderá que es el valor diario de la Unidad de Medida y Actualización vigente.
 
 ## TITULO SEGUNDO. IMPUESTOS
 
@@ -111,7 +101,9 @@ Años de antigüedad Factor
 
 9 0.075
 
-En ningún caso el impuesto será menor a once días de salario mínimo general de la zona.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+En ningún caso el impuesto será menor a 11 veces el valor de la UMA vigente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -141,9 +133,11 @@ II. Los servidores públicos que, en ejercicio de sus funciones autoricen el cam
 
 III. Los consignatarios o comisionistas que intervengan en cualquier operación de adquisición de vehículos automotores usados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 11.
 
-Pagarán únicamente el equivalente a ocho días de salario mínimo:
+Pagarán únicamente el equivalente a 8 veces el valor de la UMA vigente:
 
 I. Los vehículos con antigüedad mayor de diez años; y
 
@@ -157,9 +151,11 @@ En ningún caso, este pago excederá del impuesto que correspondería a un vehí
 
 ### CAPITULO II. IMPUESTO SOBRE NEGOCIOS O INSTRUMENTOS JURIDICOS
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 13.
 
-Son sujetos de este impuesto, las personas físicas y morales, o unidades económicas que realicen los actos jurídicos que se indican en el artículo siguiente.
+Son sujetos de este impuesto, las personas físicas y morales, que realicen los actos jurídicos que se indican en el artículo siguiente.
 
 ###### ARTICULO 14.
 
@@ -167,15 +163,27 @@ Es objeto de este impuesto y le corresponden las bases, tasas o tarifas siguient
 
 I. La realización de los siguientes negocios jurídicos:
 
-a) Constitución de sociedades civiles y mercantiles. La base para el pago del impuesto será el capital de la sociedad, a razón del tres al millar;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-b) Fusión de sociedades civiles y mercantiles. La base del impuesto será la diferencia entre el capital social de la fusionante, antes y después de la fusión, a razón del tres al millar;
+a) Constitución de sociedades civiles y mercantiles. La base para el pago del impuesto será el capital de la sociedad, y la tasa, a razón del tres al millar;
 
-c) Aumentos de capital de sociedades civiles y mercantiles. La base será el importe del capital aumentado, a razón del tres al millar;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-d) Disolución y liquidación de sociedades. La base del impuesto será el número de fojas del instrumento, a razón de un día de salario mínimo, por cada una;
+b) Fusión o Escisión de sociedades civiles y mercantiles. En la fusión la base del impuesto será la diferencia entre el capital social de la fusionante, antes y después de la fusión, y la tasa, a razón del tres al millar; En el caso de la escisión la base del impuesto será el número de fojas del instrumento, a razón de una vez el valor de la UMA vigente, por foja;
 
-e) Cualquier otra modificación a escrituras constitutivas de sociedades. La base del impuesto será el número de fojas del documento donde conste la modificación, a razón de un día de salario mínimo, por foja;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+c) Aumentos o Disminución de capital en las sociedades civiles y mercantiles. En los aumentos de capital, la base será el importe del capital aumentado, y la tasa, a razón de tres al millar; En el caso de las disminuciones de capital, la base del impuesto será el número de fojas del instrumento, a razón de una vez el valor de la UMA vigente, por foja;
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+d) Disolución y liquidación de sociedades. La base del impuesto será el número de fojas del instrumento, a razón de una vez el valor de la UMA vigente, por foja;
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+e) Cualquier otra modificación a escrituras constitutivas de sociedades. La base del impuesto será el número de fojas del documento donde conste la modificación, a razón de una vez el valor de la UMA vigente, por foja;
+
+En este inciso se contemplan adicionalmente las modificaciones o cambios en el objeto de la sociedad, en el Régimen Jurídico, en el Domicilio Social, de Denominación social y de tiempo de duración de la sociedad.
 
 f) Contratos de mutuo entre particulares, con garantía prendaria o hipotecaria, así como la constitución de estas garantías para el cumplimiento de cualquier otra obligación. La base del impuesto será el importe del contrato y, la tasa, a razón de tres al millar;
 
@@ -183,23 +191,49 @@ f) Contratos de mutuo entre particulares, con garantía prendaria o hipotecaria,
 
 g) Cesión de los derechos derivados de los actos y contratos a que se refiere el inciso f) anterior. La base del impuesto será el monto de los actos jurídicos y la tasa, a razón de tres al millar;
 
-h) Otorgamiento, sustitución, renuncia o revocación de poderes. El impuesto se pagará a razón de un día de salario mínimo, por cada otorgante;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-i) Rectificaciones o ratificaciones de cualquier acto o contrato. Se pagará un día de salario mínimo, por foja;
+h) Otorgamiento, sustitución, renuncia o revocación de poderes. El impuesto se pagará a razón de 5 veces el valor de la UMA vigente, por cada otorgante;
 
-j) Celebración de instrumentos privados. Se pagará a razón del veinte por ciento del salario mínimo, por cada otorgante; y
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-k) Celebración de contratos de arrendamiento financiero en todas sus modalidades, entre particulares o instituciones de crédito, o entre ambos. La base será el monto del contrato y se cubrirá una tasa del tres al millar.
+i) Rectificaciones o ratificaciones de cualquier acto o contrato. Se pagará a razón de una vez el valor de la UMA vigente, por foja;
 
-II. Cualquier otro tipo de acto o contrato que represente o no intereses pecuniarios para los otorgantes, siempre que el acto contenido en éstos no esté gravado por otro impuesto estatal, así como las actas notariales que contengan certificación de hechos. La base del impuesto será el número de fojas y se pagará un día de salario mínimo, por foja;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-III. Cualquier acto o contrato otorgado fuera del Estado que produzca o pueda producir efectos dentro del territorio de éste, o en el que se señale algún punto del mismo para el cumplimiento de las obligaciones estipuladas, se cobrará conforme a las tarifas vigentes. La base del impuesto será el capital, en caso de que lo haya y, la tasa, a razón de tres al millar. Si no hubiere capital, la base será el número de fojas y se pagará a razón de un día de salario mínimo, por foja;
+j) Celebración de instrumentos privados. Se pagará a razón a razón (sic) de una vez el valor de la UMA vigente por foja, por cada otorgante;
 
-IV. Todo tipo de resoluciones o mandatos judiciales que representen o no intereses pecuniarios para los involucrados, pero que tengan efectos contractuales. El impuesto se pagará a razón de un día de salario mínimo, por cada particular involucrado; y
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-V. Cuando no sea posible la evaluación de las prestaciones pactadas, la base del impuesto será el número de fojas y se pagará a razón de un día de salario mínimo, por cada foja, contados como tales los documentos agregados al apéndice de documentos del protocolo, salvo que se hubieren transcrito en el instrumento.
+k) Celebración de contratos de arrendamiento financiero en todas sus modalidades, entre particulares o instituciones de crédito, o entre ambos. La base será el monto del contrato y se cubrirá una tasa del tres al millar; y
 
-Cuando en un instrumento jurídico se consignen dos o más negocios de los previstos en los incisos anteriores, se cubrirá el impuesto que corresponda a cada uno de ellos.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+l) Transmisión por enajenación, donación o sucesión de títulos accionarios, cuando no exista una modificación al capital sobre incremento o disminución, Se pagará a razón a razón (sic) de una vez el valor de la UMA vigente, por foja;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II. Cualquier otro tipo de acto o contrato que represente o no intereses pecuniarios para los otorgantes, siempre que el acto contenido en éstos no esté gravado por otro impuesto estatal, así como las actas notariales que contengan certificación de hechos. La base del impuesto será el número de fojas y se pagará a razón de una vez el valor de la UMA vigente, por foja;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+III. Cualquier acto o contrato otorgado fuera del Estado que produzca o pueda producir efectos dentro del territorio de San Luis Potosí, o en el que se señale algún punto del mismo para el cumplimiento de las obligaciones estipuladas, se cobrará conforme a las tarifas vigentes. La base del impuesto será el capital, en caso de que lo haya y, la tasa, a razón de tres al millar. Si no hubiere capital, la base será el número de fojas y se pagará a razón de una vez el valor de la UMA vigente, por foja;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IV. Todo tipo de resoluciones o mandatos judiciales que representen o no intereses pecuniarios para los involucrados, pero que tengan efectos contractuales. El impuesto se pagará a razón de una vez el valor de la UMA vigente, por cada particular involucrado; y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+V. Cuando no sea posible la evaluación de las prestaciones pactadas, la base del impuesto será el número de fojas y se pagará a razón de una vez el valor de la UMA vigente, por cada foja, contados como tales los documentos agregados al apéndice de documentos del protocolo, salvo que se hubieren transcrito en el instrumento.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+Cuando en un ordenamiento, instrumento jurídico, titulo o documento, se afecten varios folios y estos originen dos o más inscripciones actos o anotaciones previstas en las fracciones, incisos o párrafos anteriores, los impuestos se causarán por cada uno de ellos, cobrándose independientemente; por lo tanto, deberán incluirse todos y cada uno de los conceptos en el o los recibos de pago como inscripciones se realice; Cuando el impuesto a cargo del contribuyente indicado en este capítulo, resulte inferior a 5 veces el valor de la UMA vigente, se cobrará esta última cantidad.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+Los contribuyentes deberán pagar el impuesto o los impuestos de este capítulo, dentro de los treinta días siguientes, contados a partir de la fecha de firma del documento, a través de los mecanismos digitales que para tal efecto determine la Secretaria de Finanzas en su portal electrónico.
 
 Los fedatarios deberán cumplir con lo que establece el Código Fiscal del Estado respecto de los actos y contratos que originan este impuesto.
 
@@ -679,89 +713,95 @@ ARTICULO 36 NONIES. (DEROGADO, P.O. 27 DE SEPTIEMBRE DE 2014)
 
 ### CAPITULO I. SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ### CAPITULO II. SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ## TITULO TERCERO. DERECHOS
 
 ### CAPÍTULO III. SERVICIOS PRESTADOS POR LA SECRETARÍA DE COMUNICACIONES Y TRANSPORTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 37.
 
-Con relación al ejercicio del notariado, se causarán los siguientes derechos establecidos en salarios mínimos:
+Con relación al ejercicio del notariado, se causarán los siguientes derechos establecidos en UMA vigente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+I. Por el pago de examen teórico y práctico para la función notarial, 330;
 
-I. Por el pago de examen teórico y práctico para la función notarial, 300;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-II. Por cada FIAT que expida el Ejecutivo para el ejercicio del notariado, 300;
+II. Por cada FIAT que expida el Ejecutivo para el ejercicio del notariado, 330;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 III. Por los servicios de revisión y autorización del protocolo de los notarios públicos se pagará el derecho conforme a las cuotas que a continuación se establecen:
 
-a) Por la razón de apertura, 13.74.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-b) Por la razón de cierre y su autorización, 11.98.
+a) Por la razón de apertura, 15.11.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+b) Por la razón de cierre y su autorización, 13.18.
 
-IV. Por el registro de nombramiento, sello y firma, se pagarán 4.78, respectivamente;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+IV. Por el registro de nombramiento, sello y firma, se pagarán 5.26, respectivamente;
 
-V. Por registro de convenios entre notarios, corredores públicos, o entre ambos, se pagarán 15.59;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+V. Por registro de convenios entre notarios, corredores públicos, o entre ambos, se pagarán 17.15;
 
-VI. Por registro de nuevo sello notarial, 8.5.; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+VI. Por registro de nuevo sello notarial, 9.35;
 
-VII. Por la expedición de certificados de existencia o no de testamentos públicos abiertos, cerrados o certificados, 1.9.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+VII. Por la expedición de certificados de existencia o no de testamentos públicos abiertos, cerrados o certificados, 2.09.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 Al exhibir el pago de los derechos que causa el registro de convenios a que se refiere la fracción anterior, se presentará el aviso que se cita en el artículo 49 de la Ley del Notariado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 38.
 
-Por la legalización de actos de cualquier índole, se causarán los siguientes derechos establecidos en salarios mínimos:
+Por la legalización de actos de cualquier índole, se causarán los siguientes derechos establecidos en UMA vigente:
 
-I. Por las que realice el Ejecutivo del Estado, en materia educativa, 0.5;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2015)</small>
+I. Por las que realice el Ejecutivo del Estado, en materia educativa, 0.55;
 
-II. Por la constancia expedida a consecuencia de los servicios de búsqueda de actas en los libros que se encuentran concentrados en la Dirección del Registro Civil, se cobrarán 0.5;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2015)</small>
+II. Por la constancia expedida a consecuencia de los servicios de búsqueda de actas en los libros que se encuentran concentrados en la Dirección del Registro Civil, se cobrarán 0.66;
 
-III. Por anotaciones marginales en actas del Registro Civil de juicios por sentencias, adopciones, divorcios, rectificaciones de actas, legitimaciones, matrimonios, defunciones, reconocimientos y las enmiendas administrativas, de conformidad a lo establecido en el artículo 136 de la Ley del Registro Civil, se cobrarán 2.0;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IV. Por la expedición de copias de actas certificadas del estado civil se pagarán derechos en salarios mínimos, como sigue:
+III. Por anotaciones marginales en actas del Registro Civil de juicios por sentencias, adopciones, divorcios, rectificaciones de actas, legitimaciones, matrimonios, defunciones, reconocimientos y las enmiendas administrativas, de conformidad a lo establecido en el artículo 136 de la Ley del Registro Civil, se cobrarán 2.2;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+IV. Por la expedición de copias de actas certificadas del estado civil se pagarán derechos en UMA vigente, como sigue:
 
-a) Por la expedición de copias de actas certificadas del Registro Civil se pagarán 0.41 si ésta la efectúa la Dirección del Registro Civil, 0.5 si la expide el Archivo Histórico del Estado; 0.82 si se expide por los sistemas automatizados de la Dependencia. Si se entregan a domicilio en la zona urbana de la Capital del Estado, dentro de las cuarenta y ocho horas siguientes a que se reciba la solicitud vía telefónica, se cobrará 2.0.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+a) Por la expedición de actas certificadas del Registro Civil en el interior del Estado a través de sus centros electrónicos o ventanillas se pagarán 0.50; si se expide a través de algún centro electrónico fuera del Estado se pagará 1.14; si se expide por las páginas web oficiales de Gobierno del Estado o del Gobierno Federal se pagará 0.90 y si se expide por el Archivo Histórico del Estado se pagará 0.5.
 
-b) Por la expedición de copias certificadas fuera del Estado, tramitadas por las diferentes direcciones de Registro Civil, o sus equivalentes de las entidades federativas, en términos del Acuerdo de Colaboración para solicitud, trámite y obtención de copias certificadas de actas de Registro Civil, celebrado entre el Gobierno de las Entidades Federativas de la República Mexicana, entre sí, y la Secretaria de Gobernación, se cobrará 3.0.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+b) Por la expedición de copias certificadas fuera del estado, tramitadas por las diferentes direcciones del Registro Civil, o sus equivalentes de las entidades federativas, en términos del Acuerdo de Colaboración para solicitud, trámite y obtención de copias certificadas de actas del Registro Civil, celebrado entre el Gobierno de las Entidades Federativas de la República Mexicana entre sí, y la Secretaría de Gobernación, se cobrara 3.3.
 
-c) Por la elaboración de Apéndices de Reposición de Libros Siniestrados, se cobrará 4.0.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+c) Por la elaboración de apéndices de Reposición de Libros siniestrados, se cobrara 4.4.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -771,269 +811,391 @@ d) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 e) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-V. Por la certificación de la copia fiel del libro duplicado se pagará 2.0;
+V. Por la certificación de la copia fiel del libro duplicado se pagara 2.2;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-VI. Por resolución de enmienda administrativa en actas del Registro Civil, de conformidad a lo establecido en el artículo 136 de la Ley del Registro Civil, se pagará 4:78;
+VI. Por resolución de enmienda administrativa en actas del Registro Civil, de conformidad a lo establecido en el artículo 136 de la Ley del Registro Civil, se pagarán 5.26;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 VII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2012)
 
-VIII. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+VIII. Por anotación marginal de enmienda administrativa en actas del Registro Civil se pagarán 0.85;
 
-IX. Por envío de actas del Registro Civil fuera del Estado, pero dentro del País, se pagará 6.21;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+IX. Por envío de actas del Registro Civil fuera del Estado, pero dentro del país, se pagarán 6.83;
 
-X. Por la expedición de Constancia de Inexistencia del acta de nacimiento se pagará 4;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-XI. Por legalización de exhorto, 0.5;
+X. Por la expedición de constancias de inexistencia del acta de nacimiento se pagara 4.4;
 
-XII. Por registro de exhorto, 0.34;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-XIII. Por la legalización de firmas en las tarifas de establecimientos turísticos de calidad, 2.39;
+XI. Por legalización de exhorto, 0.55;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+XII. Por registro de exhorto, 0.37;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+XIII. Por la legalización de firmas en las tarifas de establecimientos turísticos de calidad, 2.62;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 XIV. La autorización de tarifas en los establecimientos mencionados en esta fracción se otorgará por la Dirección Estatal de Turismo, para cuyo efecto será necesaria la conformidad de los Servicios Coordinados de Salud Pública en el Estado;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-XV. Por la legalización de firmas de notario y otras autoridades administrativas, 2.39;
+XV. Por la legalización de firmas de notario y otras autoridades administrativas, 2.62;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-XVI. Por la impresión de copias certificadas de actas del estado civil de las personas, a través del sistema de Conexión Interestatal, se cobrará 2.0, y
+XVI. Por la impresión de copias certificadas de actas del estado civil de las personas, a través del sistema de Conexión Interestatal, se cobrara 2.2;
 
-> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-XVII. Por el acuerdo administrativo para aclaración de libro original y duplicado, se cobrará el 2.0.
+XVII. Por el acuerdo administrativo para aclaración de libro original y duplicado, se cobrará el 2.2, y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+XVIII. Por Divorcio vía administrativa se pagará 37.00.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 39.
 
-Por los servicios de publicaciones en el Periódico Oficial, que presta el Gobierno del Estado, se pagará el derecho conforme a las siguientes cuotas, establecidas en salarios mínimos:
+Por los servicios de publicaciones en el Periódico Oficial, que presta el Gobierno del Estado, se pagará el derecho conforme a las siguientes cuotas, establecidas en UMA vigente:
 
-I. Por línea 0.17;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-II. Por plana 5.45;
+I. Por línea 0.19;
 
-III. Por media plana 3.10; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IV. Por cuarto de plana 2.1.
+II. Por plana 6.00;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+III. Por media plana 3.41; y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IV. Por cuarto de plana 2.31.
 
 No pagarán el derecho de publicaciones en el Periódico Oficial las ordenadas por las dependencias del Gobierno del Estado, los Municipios, el D.I.F. Estatal y las relativas a asuntos que se tramiten por las Defensorías de Oficio de los ramos civil, familiar y penal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 40.
 
-La inscripción de instrumentos jurídicos en el Registro Público de la Propiedad causará los siguientes derechos:
+La inscripción de instrumentos jurídicos en el Instituto Registral y Catastral del Estado de San Luis Potosí causará los siguientes derechos:
 
 I. Títulos de propiedad:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-a) De bienes inmuebles, cuya base será el avalúo o reavalúo con una antigüedad o vigencia no mayor a seis meses, contados a partir en que se efectúen, emitido por la Dirección de Catastro municipal del ayuntamiento correspondiente; o bien el precio de la operación, si éste es mayor que el del avalúo o reavalúo catastral, y se aplicará la tarifa correspondiente.
+a) De bienes inmuebles, cuya base será el avalúo o reavalúo con una antigüedad o vigencia no mayor a seis meses, contados a partir en que se efectúen, emitido por la Dirección de Catastro municipal del ayuntamiento correspondiente; o bien el precio de la operación, si éste es mayor que el del avalúo o reavalúo catastral, se pagará a razón de 2.5 al millar sobre el excedente.
 
-1. Hasta $5,000.00 pagará 3.60 salarios mínimos;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-2. De $5,000.01 hasta $10,000.00 pagará 6.62 salarios mínimos; y
-
-3. Desde $10,000.01 en adelante, pagará el 2 al millar sobre el excedente, más la cuota señalada en el párrafo anterior.
-
-Tratándose de títulos de adquisición de vivienda de interés social o popular en términos del Artículo 60, los derechos por este concepto no excederán de cuatro días de salario mínimo.
+Tratándose de títulos de adquisición de vivienda de interés social o popular en términos del artículo 60, los derechos por este concepto no excederán de cinco veces el valor de la UMA vigente.
 
 No son sujetos del pago de estos derechos, los titulares de los derechos agrarios derivados de la regularización de la tenencia de la tierra de los núcleos ejidales cuando sean registrados la primera vez.
 
-b) De bienes muebles, cuya base será el valor mayor entre el de la operación, el del mercado o el fijado por avalúo pericial y se aplicará la tarifa del inciso anterior.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-II. Escrituras constitutivas de sociedades. La base será el capital de la sociedad y se aplicará la tarifa de la fracción I, de este artículo;
+b) De bienes muebles, cuya base será el valor mayor entre el de la operación, el del mercado o el fijado por avalúo pericial y se pagará a razón de 2.5 al millar.
 
-III. Las modificaciones al capital de las sociedades. La base para su cobro será la diferencia entre el capital inicial y el actual y se aplicará la tarifa de la fracción I, de este mismo artículo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IV. La inscripción de títulos mercantiles. La base para su cobro será el valor de los documentos y se aplicará la tarifa de la fracción I, de este artículo;
+II. Escrituras constitutivas de sociedades. La base será el capital de la sociedad y se pagará a razón de 2.5 al millar;
 
-V. Declaraciones o sentencias judiciales que ordenen la cancelación o modificación de las inscripciones del Registro Público de la Propiedad, pagarán 2.39 salarios mínimos diarios generales vigentes en la zona por cada inscripción; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-VI. Cualquier otro instrumento jurídico en el que se declare la ineficacia de los documentos inscritos, sobre la base que corresponda, pagarán el 50% de la tarifa de la fracción I, de este artículo.
+III. Las modificaciones al capital de las sociedades. La base para su cobro será la diferencia entre el capital inicial y el actual y se pagará a razón de 2.5 al millar;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IV. La inscripción de títulos mercantiles. La base para su cobro será el valor de los documentos y se pagará a razón de 2.5 al millar;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+V. Declaraciones o sentencias judiciales que ordenen la cancelación o modificación de las inscripciones en el Instituto Registral y Catastral del Estado de San Luis Potosí, pagarán a razón de 5 veces el valor de la UMA vigente; y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+VI. Cualquier otro instrumento jurídico en el que se declare la ineficacia de los documentos inscritos, sobre la base que corresponda, pagarán el 50% a razón de 2.5 al millar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 41.
 
-La inscripción en el Registro Público de la Propiedad causará derechos como sigue, mismos que se expresan en salarios mínimos:
+La inscripción en el Instituto Registral y Catastral del Estado de San Luis Potosí, causará derechos como sigue, mismos que se expresan en UMA vigente:
 
-I. Resoluciones judiciales o administrativas en las que se constituya un fraccionamiento, se lotifique, relotifique, divida o subdivida un bien inmueble, causarán, por cada lote, un pago de 2.39;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-II. Régimen de propiedad en condominio o sus modificaciones, por cada unidad departamental, vivienda, casa, despacho o local, se pagarán 2.39;
+I. Resoluciones judiciales o administrativas en las que se constituya un fraccionamiento, se lotifique, relotifique, divida o subdivida un bien inmueble, causarán, por cada lote, un pago de 3 veces el valor de la UMA vigente;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-III. La fusión de predios pagará por cada uno 2.39, y
+II. Régimen de propiedad en condominio o sus modificaciones, por cada unidad departamental, vivienda, casa, despacho o local, se pagarán 3 veces el valor de la UMA vigente;
 
-IV. Disolución de mancomunidad o copropiedad de bienes. La base para su cobro será el avalúo catastral, al que se aplicará la fracción I, del Artículo 40 de esta Ley.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+III. La fusión de predios pagará por cada uno 3 veces el valor de la UMA vigente, y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IV. Disolución de mancomunidad o copropiedad de bienes. La base para su cobro será el avalúo catastral, al que se pagará a razón de 2.5 al millar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 42.
 
-Por la inscripción de instrumentos en que se consigne la ratificación, rectificación, rescisión o reconocimiento de nulidad de contratos o convenios, incluyendo aquellos contratos celebrados con instituciones y organismos auxiliares de crédito para la reestructuración de pasivos contraídos previamente, se causarán derechos como se indica a continuación, los cuales se señalan en salarios mínimos:
+Por la inscripción de instrumentos en que se consigne la ratificación, rectificación, rescisión o reconocimiento de nulidad de contratos o convenios, incluyendo aquellos contratos celebrados con instituciones y organismos auxiliares de crédito para la reestructuración de pasivos contraídos previamente, se causarán derechos como se indica a continuación, los cuales se señalan en UMA vigente.
 
-I. En escrituras públicas, por foja o fracción se pagarán 0.5;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-II. En escrituras privadas, por foja o fracción se pagarán 0.5;
+I. En escrituras públicas, por foja o fracción se pagará una vez el valor de la UMA vigente;
 
-III. Por inscripción de testamentos, por su revocación, declaración de legitimidad de herederos o nombramiento de albacea definitivo en caso de sucesiones, declaraciones de quiebra, suspensión de pagos o intervenciones administrativas o judiciales, se pagarán 2.39;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+II. En escrituras privadas, por foja o fracción se pagará una vez el valor de la UMA vigente;
 
-IV. Inscripción de poderes, sustitución, revocación o prórroga de plazo en instrumentos públicos, pagarán por foja o fracción 0.5;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-V. En inscripción de escrituras constitutivas de asociaciones civiles, se pagarán 1.76 salarios mínimos diarios generales de la zona por foja o fracción; y
+III. Por inscripción de testamentos, por su revocación, declaración de legitimidad de herederos o nombramiento de albacea definitivo en caso de sucesiones, declaraciones de quiebra, suspensión de pagos o intervenciones administrativas o judiciales, se pagarán 3 veces el valor de la UMA vigente;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-VI. Mandamiento judicial que ordene el embargo de sueldos en los juicios de alimentos, su inscripción causará por foja o fracción 0.5.
+IV. Inscripción de poderes, sustitución, revocación o prórroga de plazo de los mismos en instrumentos públicos, se pagará una vez el valor de la UMA vigente;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+V. En inscripción de escrituras constitutivas de asociaciones civiles, se pagará 2 veces el valor de la UMA vigente por foja o fracción; y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+VI. Mandamiento judicial que ordene el embargo de sueldos en los juicios de alimentos, su inscripción causará por foja o fracción se pagará una vez el valor de la UMA vigente.
 
 ###### ARTICULO 43.
 
 En relación con instrumentos públicos relativos a sociedades civiles o mercantiles, se causarán derechos conforme a lo siguiente:
 
-I. Por inscripción de documentos en que se protocolicen actas de asamblea, juntas del consejo de administración o directivas, que no tengan marcada cuota específica, causarán 2.39 salarios mínimos, por foja o fracción;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-II. Por la inscripción de escrituras constitutivas de sociedades cooperativas se causará el 50% de la tarifa del Artículo 40, fracción I de esta Ley; y
+I. Por inscripción de documentos en que se protocolicen actas de asamblea, juntas del consejo de administración o directivas, que no tengan marcada cuota específica, causarán 3 veces el valor de la UMA vigente, por foja o fracción;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II. Por la inscripción de escrituras constitutivas de sociedades cooperativas se causará el 50% a razón de 2.5 al millar; y
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 III. Por inscripción de instrumentos en que se consigne la fusión de sociedades, se causará el uno porciento sobre la diferencia en el capital de la fusionante, antes y después de la fusión.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IV. Por inscripción de instrumentos en que se consigne la Escisión de sociedades, se causará a razón de 5 veces del valor de la UMA vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 44.
 
-Por la inscripción o reinscripción de embargos, prendas e hipotecas no derivadas de un contrato de crédito se causarán las cuotas que fija el Artículo 40, fracción I de esta Ley, sobre el valor de la suerte principal. Las cancelaciones causarán un pago equivalente a cinco días de salario mínimo.
+Por la inscripción o reinscripción de embargos, prendas e hipotecas no derivadas de un contrato de crédito, así como las cancelaciones causarán los derechos conforme a lo siguiente:
 
-Tratándose de hipotecas por adquisición de vivienda de interés social o popular, la inscripción del gravamen no deberá rebasar el monto de cuatro días de salario mínimo y, hasta dos días por la cancelación de dichos gravámenes.
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 45.
+I. De los embargos
 
-Por la inscripción de fianzas o por su cancelación, se aplicará la tarifa del Artículo 40, fracción I de esta Ley sobre su valor, a excepción de las otorgadas en procesos penales, en cuyo caso se causará el 50% de dicha tarifa pero nunca será inferior a 0.92 salarios mínimos.
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2012)</small>
+a) Por la inscripción de embargos o cédulas hipotecarías, se pagarán a razón de 2.5 al millar sobre la suerte principal En el caso que el embargo afecte a dos o más inmuebles se pagarán 5 veces el valor de la UMA vigente, por cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+b) En el caso de los embargos de alimentos, se cobrará a razón de 5 veces el valor de la UMA vigente por cada uno de ellos.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+c) Por la reinscripción de embargos el importe se pagará a razón de 5 veces el valor de la UMA vigente por cada uno de ellos.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II. De las prendas e hipotecas no derivadas de un contrato de crédito, se pagarán a razón de 2.5 al millar sobre la suerte principal.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+III. Las cancelaciones se pagará (sic) a razón de 5 veces el valor de la UMA vigente por cada uno de ellos. En el caso que se afecten a dos o más inmuebles por este mismo concepto, se pagaran por cada uno de ellos la tarifa establecida en esta misma fracción.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de hipotecas por adquisición de vivienda de interés social o popular, la inscripción del gravamen no deberá rebasar el monto de 5 veces el valor de la UMA vigente y, hasta 3 veces el valor de la UMA vigente por la cancelación de dichos gravámenes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 45.
+
+Por la inscripción de fianzas, se pagarán a razón de 2.5 al millar sobre la suerte principal, a excepción de las otorgadas en procesos penales, en cuyo caso se causará el 50% de la tasa mencionada anteriormente en este artículo. En el caso de la cancelación de fianzas, se pagará a razón de 5 veces el valor de la UMA vigente por cada uno (sic) de ellas.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+En el caso que las fianzas o sus cancelaciones, afecte a dos o más inmuebles se pagaran 5 veces el valor de la UMA vigente, por cada uno de ellos.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 46.
 
-Por la inscripción en el Registro Público de la Propiedad de anotaciones de fianzas, contrafianzas y obligaciones solidarias con el fiador, contrafiador u obligados solidarios, se pagará el 50% de la cuota señalada en el artículo 40, fracción I de esta Ley.
+Por la inscripción en el Instituto Registral y Catastral del Estado de San Luis Potosí de anotaciones de fianzas, contrafianzas y obligaciones solidarias con el fiador, contrafiador u obligados solidarios, se pagará el 50% a razón de 2.5 al millar sobre la suerte principal.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 47.
 
-Por la inscripción de instrumentos en que se consigne la liquidación de sociedades mercantiles o civiles se pagará el 0.5% sobre el capital disuelto, además de la tarifa del Artículo 40, fracción I de esta Ley, sobre el valor de la cuota de liquidación de cada uno de los socios.
+Por la inscripción de instrumentos en que se consigne la liquidación de sociedades mercantiles o civiles se pagará el 0.5% sobre el capital disuelto, a razón de 2.5 al millar sobre la suerte principal, sobre el valor de la cuota de liquidación de cada uno de los socios.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 48.
 
-La inscripción o reinscripción de contratos de arrendamiento financiero puro o contratos de arrendamiento financiero con promesa de venta, causará sobre su monto la tarifa del Artículo 40, fracción I de esta Ley.
+La inscripción o reinscripción de contratos de arrendamiento financiero puro o contratos de arrendamiento financiero con promesa de venta, se pagará a razón de 2.5 al millar sobre la suerte principal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 49.
 
-La inscripción o reinscripción de contratos de crédito con garantías hipotecaria y/o prendaria, refaccionarios, de habilitación o avío, otorgados por sociedades de crédito, así como las operaciones a que se refiere el Artículo 44 de esta Ley, causará el 2.5 al millar sobre el monto del crédito. Su cancelación causará el equivalente de seis días de salario mínimo.
+La inscripción o reinscripción de contratos de crédito con garantías hipotecaria y/o prendaria, refaccionarios, de habilitación o avío, otorgados por sociedades de crédito, así como las operaciones a que se refiere el artículo 44 de esta Ley, causará el 2.5 al millar sobre el monto del crédito. Su cancelación causará el equivalente de 6 veces el valor de la UMA vigente.
 
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-Cuando la operación haya de inscribirse en las oficinas del Registro Público de la Propiedad del Estado y de otras entidades federativas, estos derechos se dividirán en la proporción que le corresponda a cada Entidad, atendiendo al valor catastral de los bienes situados en cada entidad federativa, sin que la suma de lo que se pague en total exceda de 2.5 al millar.
+Cuando la operación haya de inscribirse en las oficinas de (sic) Instituto Registral y Catastral del Estado de San Luis Potosí y de otras entidades federativas, estos derechos se dividirán en la proporción que le corresponda a cada entidad, atendiendo al valor catastral de los bienes situados en cada entidad federativa, sin que la suma de lo que se pague en total exceda del 3 al millar.
 
 Cuando se trate de contrato de crédito con refinanciamiento se calculará el monto de los derechos a pagar sobre la base de la primera disposición del crédito sin incluir el refinanciamiento, excepción hecha de los créditos relacionados con vivienda de interés social o vivienda popular, en cuyos casos la base para calcular los derechos será el monto del crédito que se ejerce de inmediato para adquirir el inmueble, aplicándose además un descuento del 50% del total que resulte a pagar.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 50.
 
-La cesión de los derechos de embargos, prendas e hipotecas a que se hace referencia en los artículos 44 y 49 de esta Ley, causarán el 50% de las cuotas que mencionan los mismos artículos.
+La cesión de los derechos de embargos, prendas e hipotecas a que se hace referencia en los artículos 44 y 49 de esta Ley, causarán el 50% a razón de 2.5 al millar sobre la suerte principal.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 51.
 
-La inscripción de actos o contratos celebrados con instituciones de crédito para apoyar al sector agropecuario del Estado, causará los siguientes derechos establecidos en salarios mínimos:
+La inscripción de actos o contratos celebrados con instituciones de crédito para apoyar al sector agropecuario del Estado, se pagará a razón de 3.5 al millar.
 
-I. De $1,000.00 a $5,000.00, pagarán 1.26;
+I. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2016)
 
-II. De más de $5,000.00 y hasta 10,000.00, pagarán 2.39;
+II. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2016)
 
-III. De más de $10,000.00 y hasta $20,000.00, pagarán 3.6; y
+III. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2016)
 
-IV. De más de $20,000.00, pagarán a razón del 3 al millar sobre el monto del crédito, más la cuota señalada en la fracción anterior.
+IV. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2016)
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 52.
 
-La cancelación de gravámenes no especificados en las disposiciones anteriores, sobre su valor, causará el 50% de la cuota señalada en el Artículo 40, fracción I de esta Ley y, en ningún caso, será inferior a un día de salario mínimo.
+La cancelación de gravámenes no especificados en las disposiciones anteriores, sobre su valor, se pagará a razón de 3.5 al millar y, en ningún caso, será inferior a 5 veces el valor de la UMA vigente.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 53.
 
-Por el otorgamiento temporal de usufructo, por la cesión de éste o por su consolidación con la nuda propiedad, se pagará sobre la base del avalúo catastral del inmueble el 50% de la tarifa señalada en la fracción I, del Artículo 40 de esta Ley.
+Por el otorgamiento temporal de usufructo, por la cesión de éste o por su consolidación con la nuda propiedad, se pagará el 50% sobre la base del avalúo catastral del inmueble, a razón de 3.5 al millar.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 54.
 
-Por la inscripción de fideicomisos o de su disolución se pagarán 1.26 salarios mínimos por foja, cuando sean de administración o garantía; y, 2.39 salarios mínimos.
+Por la inscripción de fideicomisos o de su disolución se pagarán 2 veces el valor de la UMA vigente por foja, y 3 veces el valor de la UMA vigente por foja cuando sean de administración o garantía.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 55.
 
-Por la inscripción de contratos de arrendamiento se cobrarán por foja 4.61 salarios mínimos, cuando se trate de casa habitación y, 9.21 salarios mínimos, cuando el inmueble arrendado se destine a actividades comerciales, industriales o de servicios.
+Por la inscripción de contratos de arrendamiento se cobrarán por foja 5 veces el valor de la UMA vigente, cuando se trate de casa habitación y, 10 veces el valor de la UMA vigente, cuando el inmueble arrendado se destine a actividades comerciales, industriales o de servicios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 56.
 
-Las certificaciones, búsqueda de datos y anotaciones marginales que realice el Registro Público de la Propiedad, causarán derechos que se cobrarán en el equivalente en salarios mínimos, como sigue:
+Las certificaciones, búsqueda de datos y anotaciones marginales que realice el Instituto Registral y Catastral del Estado de San Luis Potosí, causarán derechos que se cobrarán en el equivalente al valor de la UMA vigente, como sigue:
 
-I. Inscripciones por depósito de testamentos en el Registro Público de la Propiedad y en el Archivo de Notarías, se cobrará de acuerdo a lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-a) El ratificado ante la Secretaría General de Gobierno, 2.6;
+I. Inscripciones por depósito de testamentos en el Instituto Registral y Catastral del Estado de San Luis Potosí y en el Archivo de Notarías, se cobrará de acuerdo a lo siguiente:
 
-b) Ológrafo o Público cerrado, 2.6;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+a) El ratificado ante la Secretaría General de Gobierno, 3;
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-c) Por las anotaciones en el índice de testamentos con los avisos de los notarios, comunicando las memorias testamentarias, 3.2.
+b) Ológrafo o Público cerrado, 3;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-d) Por la expedición de certificados de existencia o no de testamentos ológrafos, 1.9.
+c) Por las anotaciones en el índice de testamentos con los avisos de los notarios, comunicando las memorias testamentarias, 3.5;
 
-II. Por expedición de certificados de gravamen o de libertad de éste, por cada predio y por gravamen 2.39. Cuando se trate de vivienda popular o de interés social se cobrará el 50% de lo estipulado en esta fracción;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2012)</small>
+d) Por la expedición de certificados de existencia o no de testamentos ológrafos, 2.
 
-III. Por la búsqueda de datos diversos, con excepción de los gravámenes, realizada directamente por el personal del Registro Público de la Propiedad, 1.26;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IV. Por la expedición de copia certificada de inscripción, 2.39 salarios mínimos;
+II. Por expedición de certificados de gravamen o de libertad de éste, por cada predio y por gravamen 3. Cuando se trate de vivienda popular o de interés social se cobrará el 50% de lo estipulado en esta fracción;
 
-V. Por las certificaciones relativas o constancias o documentos que obren en el archivo notarial, 2.39 por cada foja, siempre y cuando lo ordene la autoridad competente o la soliciten la o las personas que hayan intervenido en el acto notarial;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2012)</small>
+III. Por la búsqueda de datos diversos, con excepción de los gravámenes, realizada directamente por el personal del Instituto Registral y Catastral del Estado de San Luis Potosí 3;
 
-VI. Por cualquier anotación marginal en los libros de Registro Público de la Propiedad, no prevista en las disposiciones anteriores, 1.76 por foja o fracción;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA [N. DE ADICIONADA], P.O. 14 DE JUNIO DE 2012)</small>
+IV. Por la expedición de copia certificada de inscripción, 2.5;
 
-VII. Por la búsqueda de datos en este archivo, que no efectúe directamente el personal del Registro Público de la Propiedad, se deberá pagar 0.5, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2012)</small>
+V. Por las certificaciones relativas o constancias o documentos que obren en el archivo notarial, 2.5 por cada foja, siempre y cuando lo ordene la autoridad competente o la soliciten la o las personas que hayan intervenido en el acto notarial;
 
-VIII. Por consultas efectuadas por los usuarios a la base de datos del Registro Público de la Propiedad, directamente, o a través de la red de información mundial, lo siguiente:
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
+VI. Por cualquier anotación marginal en los libros del Instituto Registral y Catastral del Estado de San Luis Potosí, no prevista en las disposiciones anteriores, 2 por foja o fracción;
 
-a) Por acceso a la base de datos, 1.68 salarios mínimos;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
+VII. Por la búsqueda de datos en este archivo, que no efectúe directamente el personal del Instituto Registral y Catastral del Estado de San Luis Potosí, se deberá pagar 0.5, y
 
-b) Por consulta por folio mercantil o inmobiliario, 0.5 salarios mínimos, y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
+VIII. Por consultas efectuadas por los usuarios a la base de datos del Instituto Registral y Catastral del Estado de San Luis Potosí, directamente o a través de la red de información mundial, lo siguiente:
 
-c) Por expedición de constancias simples por actos mercantiles o inmobiliario, 0.5 salarios mínimos.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2004)</small>
+a) Por acceso a la base de datos, 5;
 
-Para efecto de que los fedatarios, corredores públicos y usuarios en general puedan efectuar sus pagos electrónicamente, la Secretaría de Finanzas deberá abrir una cuenta con las instituciones de crédito que resulten necesarias, así como poner en venta en las oficinas de recaudación, las tarjetas de prepago para dicho fin.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+b) Por consulta por folio mercantil o inmobiliario, 0.5 y
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+c) Por expedición de constancias simples por actos mercantiles o inmobiliario (sic), 3.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+Cuando en un ordenamiento, instrumento jurídico, titulo o documento, se afecten varios folios y estos originen dos o más inscripciones actos o anotaciones previstas en los artículos, fracciones, incisos o párrafos anteriores, los derechos se causarán por cada uno de ellos, cobrándose independientemente.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+Los fedatarios, corredores públicos y usuarios en general podrán efectuar sus pagos e (sic) través de los medios electrónicos, con los que cuente la Secretaría de Finanzas y con cualquier otra forma que estime necesario.
 
 ###### ARTICULO 57.
 
@@ -1061,27 +1223,33 @@ Por los derechos que cause la inscripción de títulos de comercio la Secretarí
 
 Se considera vivienda de interés social y popular, para efectos de cualquier clase de contribuciones estatales, la que reúna los siguientes requisitos:
 
-I. Que el valor de la vivienda no exceda, en el caso de vivienda de interés social, del equivalente a 15 salarios mínimos; y, en vivienda popular, el valor no exceda de 25 salarios mínimos elevados al año;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+I. Que el valor de la vivienda no exceda, en el caso de vivienda de interés social, del equivalente a 15 veces el valor de la UMA vigente; y, en vivienda popular, el valor no exceda de 25 veces el valor de la UMA vigente elevada al año;
 
 II. Que el adquirente de la vivienda no sea propietario de otro bien inmueble; y
 
 III. Que la vivienda sea adquirida mediante financiamiento otorgado por el INFONAVIT, FOVISSSTE, Dirección de Pensiones de Gobierno del Estado, u otro organismo o institución similar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 61.
 
-El servicio de vigilancia especial que preste la Dirección General de Protección Social y Vialidad en actos de cualquier naturaleza organizados por particulares, éstos pagarán un derecho de 5.87 salarios mínimos diarios generales de la zona por cada elemento policíaco comisionado, por turno de siete horas o menos.
+El servicio de vigilancia especial que preste la Dirección General de Protección Social y Vialidad en actos de cualquier naturaleza organizados por particulares, éstos pagarán un derecho de 6.45 veces el valor de la UMA vigente por cada elemento policíaco comisionado, por turno de siete horas o menos.
 
 Los interesados en este servicio deberán solicitar el servicio cuando menos con veinticuatro horas de anticipación.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 62.
 
-Por la autorización que otorgue la Dirección General de Protección Social y Vialidad a las empresas privadas que se dediquen a prestar servicios particulares de vigilancia, seguridad o custodia, se pagarán derechos por el equivalente a 750 salarios mínimos, por la autorización inicial y 75, por su refrendo anual.
+Por la autorización que otorgue la Dirección General de Protección Social y Vialidad a las empresas privadas que se dediquen a prestar servicios particulares de vigilancia, seguridad o custodia, se pagarán derechos por el equivalente a 775 veces el valor de la UMA vigente por la autorización inicial, y 82.5 veces el valor de la UMA vigente por su refrendo anual.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 63.
 
-Para los efectos de la obligación que la Ley de Peritos del Estado de San Luis Potosí, impone a peritos dictaminadores y valuadores, de registrarse en la Secretaría General de Gobierno, se establece como tarifa por derechos de expedición de la credencial de identificación de perito, el importe de diez días de salario mínimo general de la zona y, por revalidación y/o refrendo anual de la misma, el importe de cinco días de salario mínimo general de la zona.
+Para los efectos de la obligación que la Ley de Peritos del Estado de San Luis Potosí, impone a peritos dictaminadores y valuadores, de registrarse en la Secretaría General de Gobierno, se establece como tarifa por derechos de expedición de la credencial de identificación de perito, el importe de 10.1 veces el valor de la UMA vigente y, por revalidación y/ o refrendo anual de la misma, el importe de 5.5 veces el valor de la UMA vigente.
 
 ### CAPITULO IV. SERVICIOS DE SALUD PUBLICA
 
@@ -1089,39 +1257,53 @@ Para los efectos de la obligación que la Ley de Peritos del Estado de San Luis 
 
 ###### ARTICULO 64.
 
-Por los servicios de control vehicular se causarán los derechos que se establecen a continuación en salarios mínimos:
+Por los servicios de control vehicular se causarán los derechos que se establecen a continuación en función al valor de la UMA vigente:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 I. Dotación de placas o su reposición (incluye tarjeta de circulación y calcomanía) que, en el primer caso deben adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo, y en el segundo caso dentro de los cinco días siguientes al de la notificación de extravío a la autoridad correspondiente.
 
-TIPO Servicio Servicio
+Tipo Servicio Servicio
 
-Público Particular
+público particular
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-a) Automóviles, camiones y ómnibus 15.19 15.19
+a) Automóviles, camionetas, 16.70 16.70
 
-b) Remolques 8.28 8.28
+camiones y ómnibus
 
-c) Motocicletas y motonetas 4.41 4.41
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-hasta de 350 c.c. de cilindro
+b) Remolques 9.10 9.10
 
-d) Motocicletas y motonetas 5.65 5.65
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-de más de 350 c.c. de cilindro
+c) Motocicletas y motonetas hasta 4.85 4.85
+
+de 350 c.c. de cilindro
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+d) Motocicletas y motonetas de 6.21 6.21
+
+más de 350 c.c. de cilindro
 
 e) Bicicletas de motor 0.00 0.00
 
-f) Placas de demostración 18.05 18.05
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+f) Placas de demostración 19.85 19.85
 
 (sin calcomanía) cuota anual
 
 g) Placas para discapacitados 0.00 0.00
 
-h) Placas para autos antiguos No aplica 21.68
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+h) Placas para autos antiguos No 23.84
+
+aplica
 
 Existe obligación de efectuar canje de placas cada tres años, de conformidad con las disposiciones de la Secretaría de Comunicaciones y Transportes.
 
@@ -1129,117 +1311,135 @@ Existe obligación de efectuar canje de placas cada tres años, de conformidad c
 
 II. Expedición de permiso para circular sin placa o sin tarjeta de circulación, por día:
 
-TIPO Servicio Servicio
+Tipo Servicio Servicio
 
-Público Particular
+público particular
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-a) Automóviles, camiones y ómnibus 0.68 0.68
+a) Automóviles, camionetas, camiones 0.74 0.74
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+y ómnibus
 
-b) Remolques 0.50 0.50
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+b) Remolque 0.55 0.55
 
-c) Motocicletas y motonetas 0.35 0.35
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+c) Motocicletas y motonetas 0.38 0.38
 
-d) Bicicletas de motor 0.16 0.15
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+d) Bicicletas de motor 0.17 0.17
+
+Recibir
 
 III. Reposición de tarjeta de circulación, con igual vigencia a la de las placas, la que deberá efectuarse dentro de los quince días posteriores a la fecha del acta o documento donde conste su extravío o destrucción.
 
-TIPO SERVICIO SERVICIO
+Tipo Servicio Servicio
 
-PUBLICO PARTICULAR
+público particular
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-a) Automóviles, camiones y ómnibus 2.63 2.63
+a) Automóviles, camionetas, 2.89 2.89
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+camiones y ómnibus
 
-b) Remolques 1.94 1.94
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+b) Remolques 2.13 2.13
 
-c) Motocicletas y motonetas 1.94 1.94
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+c) Motocicletas y motonetas 2.13 2.13
 
-d) Bicicletas de motor 0.28 0.28
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+d) Bicicletas de motor 0.30 0.30
 
 IV. Por trámite de baja:
 
-TIPO SERVICIO SERVICIO
+Tipo Servicio Servicio
 
-PUBLICO PARTICULAR
+público particular
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-a) Automóviles, camiones y ómnibus 1.94 1.94
+a) Automóviles, camiones y ómnibus 2.13 2.13
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-b) Remolques 1.39 1.39
+b) Remolques 1.52 1.52
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-c) Motocicletas y motonetas 1.39 1.39
+c) Motocicletas y motonetas 1.52 1.52
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-d) Bicicletas de motor 0.19 0.19
+d) Bicicletas de motor 0.20 0.20
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 V. Dotación de calcomanía anual a vehículos con tarjeta de circulación vigente que debe adquirirse dentro de los tres primeros meses del año:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Tipo Servicio Servicio
 
-SERVICIO SERVICIO
+público particular
 
-PUBLICO PARTICULAR
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-9.0 9.0
+Servicio 9.9 9.9
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 VI. Otros servicios no especificados en este artículo:
 
-TIPO SERVICIO PUBLICO SERVICIO PARTICULAR
+Tipo Servicio Servicio
 
-a) Automóviles, camiones y ómnibus 1.94 1.94
+público particular
 
-b) Remolques 1.66 1.66
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-c) Motocicletas y motonetas 1.39 1.39
+a) Automóviles, camiones y ómnibus 2.13 2.13
 
-d) Bicicletas de Motor 0.19 0.19
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) Remolques 1.82 1.82
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+c) Motocicletas y motonetas 2.13 2.13
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+d) Bicicletas de Motor 0.20 0.20
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+VII. Dotación de holograma para identificar facturas electrónicas a vehículos nuevos, cuando realice el movimiento de alta se cobrará 3.3 veces el valor de la UMA vigente, la que deberá adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR EL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-VII. Dotación de holograma para identificar facturas electrónicas a vehículos nuevos, cuando realice el movimiento de alta se cobrará 3.0 salarios minimos, la que deberá adquirirse dentro de los quince días siguientes a la fecha de compra del vehículo.
 
 La incorporación del holograma antes aludido a la factura electrónica, la valida como original y única para efectos de control vehicular. Entiéndase por factura electrónica la que es expedida conforme a las disposiciones fiscales y resoluciones administrativas emitidas por la Secretaría de Hacienda y Crédito Público, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-VIII. Reposición de holograma para identificar facturas electrónicas a vehiculos nuevos, la que deberá efectuarse dentro de los cinco días posteriores a la fecha del acta o documento donde conste su extravío o destrucción, se cobrará 3.0 salarios mínimos.
+VIII. Reposición de holograma para identificar facturas electrónicas a vehículos nuevos, la que deberá efectuarse dentro de los cinco días posteriores a la fecha del acta o documento donde conste su extravío o destrucción, se cobrará 3.3 veces el valor de la UMA vigente.
 
 ###### ARTICULO 65.
 
 De conformidad con los convenios celebrados con la Federación, en materia de coordinación fiscal, se establece para los propietarios de vehículos automotores domiciliados en el Estado, la obligación de inscribir sus unidades en el Registro Estatal Vehicular, para lo cual presentarán en la Oficina Recaudadora de su elección, dentro de los plazos y mediante las formas que establezca la Secretaría de Finanzas, las solicitudes de registro vehicular y los correspondientes avisos posteriores, por modificación, baja o por cualquier otra razón que reforme el registro original.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 66.
 
-La expedición de licencias o permisos para conducir vehículos, causará los siguientes derechos, expresados en salarios mínimos:
+La expedición de licencias o permisos para conducir vehículos, causará los siguientes derechos, expresados en UMA vigente:
 
 I. Licencias:
 
@@ -1289,25 +1489,23 @@ A personas menores de dieciocho años 7.53
 
 III. Por la expedición de permisos para manejar, con vigencia de seis meses, a personas menores de dieciocho años pero mayores de dieciséis, se pagarán 6.35; y
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IV. Cuando se trate de reposición de licencias o permisos a que se refiere este artículo, se deberá pagar dos salarios mínimos, por la parte proporcional del período que falte por transcurrir para el vencimiento de los mismos.
+IV. Cuando se trate de reposición de licencias o permisos a que se refiere este artículo, se deberá pagar 2 veces el valor de la UMA vigente, por la parte proporcional del período que falte por transcurrir para el vencimiento de los mismos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 67.
 
-El otorgamiento del permiso para la venta de bebidas con contenido alcohólico y su refrendo anual, que deberá solicitarse y pagarse en el mes de enero de cada año, causarán los siguientes derechos que se expresan en salarios mínimos:
+El otorgamiento del permiso para la venta de bebidas con contenido alcohólico y su refrendo anual, que deberá solicitarse y pagarse en el mes de enero de cada año, causarán los siguientes derechos que se expresan en UMA vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
 
 I. Tratándose de bebidas con contenido alcohólico no mayor de 6% de alcohol volumen, para los establecimientos que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará como sigue:
 
-TIPO PERMISO REFRENDO
+Permiso Refrendo
 
-INICIAL ANUAL
+Inicial
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1329,9 +1527,9 @@ d) Cervecerías 142.48 35.62
 
 e) Pulquerías 142.48 35.62
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-f) Cabarets, discotecas 198.00 93.00
+f) Cabarets y discotecas 198.00 93.00
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1383,111 +1581,135 @@ toros, lienzos charros, carriles para carreras de
 
 caballos, palenques, etcétera) 110.00 27.50
 
-Para los demás municipios se cubrirá el 75% de las tarifas señaladas en la fracción I.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+Para los demás municipios se cubrirá el 75% de las tarifas señaladas en la presente fracción.
 
-II. Tratándose de bebidas con contenido mayor de 6% de alcohol volumen, se cobrará, para los que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale:
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+I BIS. Tratándose de bebidas que contengan alcohol etílico de 6.1% y hasta 20%, para los que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará como sigue:
 
-REFRENDO ANUAL
+Permiso Refrendo
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+Inicial
 
-a) Destilerías 142.48
+a) Destilerías 534.33 71.24
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+b) Almacenes distribuidores o agencias 534.33 142.49
 
-b) Almacenes 284.98
+c) Licorerías y vinaterías 534.33 142.49
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+d) Mini súper 363.00 99.03
 
-c) Bares 284.98
+e) Abarrotes, tiendas, misceláneas 267.30 71.28
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+y tendajones
 
-d) Cabarets, discotecas y ladies bar 572.00
+f) Restaurante y Restaurante bar 534.33 142.49
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+g) Supermercados 412.50 110.00
 
-e) Licorerías y vinaterías 284.98
+h) Cervecerías media graduación 534.33 142.49
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+i) Depósitos de cerveza media graduación 534.33 142.49
 
-f) Mini súper 193.60
+Para los demás municipios se cubrirá el 75% de las tarifas señaladas en la presente fracción.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-g) Abarrotes, tiendas, misceláneas y tendajones 142.56
+II.- Tratándose de bebidas que contengan alcohol etílico de 20.1% y hasta 55%, se cobrará para los que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará como sigue:
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+Permiso Refrendo
 
-h) Supermercados 220
+inicial
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+a) Destilerías 1,087.00 142.48
 
-i) Restaurante bar 284.98
+b) Almacenes 1,087.00 284.98
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+c) Bares 1,087.00 284.98
 
-j) Hoteles y moteles 284.98
+d) Cabarets y discotecas 1,207.00 572.00
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+e) Licorerías y vinaterías 1,069.00 284.98
 
-k) Centros o clubes sociales deportivos o recreativos que dentro de sus instalaciones cuenten con áreas destinadas para estas clasificaciones 142.56
+f) Mini súper 727.00 193.60
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+g) Abarrotes, tiendas, misceláneas 535.00 142.56
 
-l) Salones de fiesta, centros sociales, o de convenciones que se renten para eventos; 200
+y tendajones
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
+h) Supermercados 825.00 220.00
 
-m) Plazas de toros, lienzos charros, carriles para carreras de caballos, palenques, ferias municipales, estatales, regionales y nacionales 352
+i) Restaurante bar 1,087.00 284.98
 
-n) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+j) Hoteles y moteles 1,087.00 284.98
 
-o) (DEROGADO, P.O. 27 DE DICIEMBRE DE 2006)
+k) Centros o clubes sociales 535.00 142.56
+
+deportivos o recreativos que dentro
+
+de sus instalaciones cuenten con áreas
+
+destinadas para estas clasificaciones
+
+l) Salones de fiesta, centros sociales, 331.00 200.00
+
+o de convenciones que se renten
+
+para eventos
+
+m) Plazas de toros, lienzos charros, 441.00 352.00
+
+carriles para carreras de caballos,
+
+palenques, ferias municipales,
+
+estatales, regionales y nacionales
+
+n) Casino 1,087.00 284.98
+
+ñ) Cine 1,087.00 284.98
+
+Para los demás municipios se cubrirá el 75% de las tarifas señaladas en la presente fracción.
+
+Se entenderá que cuando un negocio cuente con permiso del Estado para expender bebidas alcohólicas con contenido mayor de 6% y hasta 20% de alcohol volumen, si también las vendiere con contenido no mayor de 6% de alcohol volumen, ya no se requerirá el permiso municipal; cuando un negocio cuente con permiso del Estado para expender bebidas alcohólicas con contenido mayor de 20% y hasta 55% de alcohol volumen, si también las vendiere con contenido no mayor de 20% de alcohol volumen, ya no se requerirá un permiso de menor graduación.
+
+El Estado podrá convenir con los municipios, en los términos del artículo 11 de la Ley de Bebidas Alcohólicas del Estado de San Luis Potosí, la coordinación respectiva para que sean los Ayuntamientos los que otorguen este permiso o refrendo.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
 III. El otorgamiento de licencias temporales para la venta de bebidas con contenido alcohólico, para los establecimientos que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará las tarifas siguientes:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-a) Tratándose de bebidas con contenido alcohólico no mayor a 6% de alcohol volumen: noventa días de salario mínimo.
+a) Tratándose de bebidas con contenido alcohólico no mayor de 6% de alcohol volumen: 99 veces el valor de la UMA vigente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-b) Tratándose de bebidas con contenido alcohólico mayor a 6% de alcohol volumen: ciento veinte días de salario mínimo.
+b) Tratándose de bebidas con contenido alcohólico de entre 6.1% y hasta 20% de alcohol volumen: 66 veces el valor de la UMA vigente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+c) Tratándose de bebidas con contenido alcohólico de entre 20.1% y hasta 55% de alcohol volumen: 132 veces el valor de la UMA vigente.
 
 Para los demás municipios se cubrirá el 75% de las tarifas señaladas.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 IV. El otorgamiento de licencias temporales para degustación de bebidas con contenido alcohólico, para establecimientos que se localicen en los municipios de San Luis Potosí, Ciudad Valles, Soledad de Graciano Sánchez, Matehuala, Rioverde y Tamazunchale, se cobrará las tarifas siguientes:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+a) Tratándose de bebidas con contenido alcohólico no mayor de 6% de alcohol volumen: 55 veces el valor de la UMA vigente.
 
-a) Tratándose de bebidas con contenido alcohólico no mayor a 6% de alcohol volumen: cincuenta días de salario mínimo.
+b) Tratándose de bebidas con contenido alcohólico mayor de entre 6.1% y hasta 20% alcohol volumen: 38.5 veces el valor de la UMA vigente.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+c) Tratándose de bebidas con contenido alcohólico de entre 20.1% y hasta 55% de alcohol volumen: 77 veces el valor de la UMA vigente.
 
-b) Tratándose de bebidas con contenido alcohólico mayor a 6% de alcohol volumen: setenta días de salario mínimo.
+Cuando se trate de expedición de duplicados de licencias de bebidas alcohólicas a que se refiere este artículo se deberá de pagar el 7% del costo de la licencia inicial.
 
 Para los demás municipios se cubrirá el 75% de las tarifas señaladas.
 
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
-
-Se entenderá que cuando un negocio cuente con permiso del Estado para expender bebidas alcohólicas con contenido mayor de 6% de alcohol volumen, si también las vendiere con contenido no mayor de 6% de alcohol volumen, ya no se requerirá el permiso municipal.
-
-> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2006)</small>
-
-El Estado podrá convenir con los municipios, en los términos del artículo 14 de la Ley de Bebidas Alcohólicas, la coordinación respectiva para que sean los ayuntamientos los que otorguen este permiso o refrendo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 Los establecimientos que venden bebidas alcohólicas deberán realizar el pago del refrendo anual en el primer mes del año, con independencia de la resolución de la Secretaría de Gobernación. El pago del refrendo no exime del cumplimiento de las obligaciones contenidas en otros ordenamientos, ni de la aplicación de sanciones que contemplen otras disposiciones legales.
 
@@ -1499,135 +1721,109 @@ Serán de carácter gratuito el empadronamiento, traspaso, cambio de actividades
 
 En el caso de licencias para la venta de bebidas alcohólicas, por el cambio de titular de la licencia o cambio de actividad, deberán cubrirse los derechos equivalentes al otorgamiento de licencia inicial; excepto en el caso de cesión o sucesión de los derechos de licencia entre cónyuges o ascendientes y descendientes.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-Por el cambio de domicilio, tratándose de licencias para la venta y suministro de bebidas alcohólicas, para consumo inmediato pagarán doscientos cincuenta salarios mínimos; y tratándose de licencias para la venta en botella cerrada se pagarán ciento cincuenta salarios mínimos.
+Por el cambio de domicilio, tratándose de licencias para la venta y suministro de bebidas alcohólicas, para consumo inmediato pagarán 275 veces el valor de la UMA vigente; y tratándose de licencias para la venta en botella cerrada se pagarán 165 veces el valor de la UMA vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 69.
 
-Por los servicios que preste la Dirección de Catastro se pagará los montos siguientes en salarios mínimos:
+Por los servicios que presta el Instituto Registral y Catastral del Estado de San Luis Potosí se pagarán los montos siguientes en UMA vigente:
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+a) Por los avalúos se pagarán sobre los montos valuados 2.0 al millar. La tarifa mínima por avalúo será el equivalente a 4.65 veces el valor de la UMA vigente, excepto los avalúos para adquisición de viviendas de interés social y popular, los derechos ascenderán a un máximo de 1.1
 
-a) Por los avalúos se pagarán sobre los montos valuados 2.0 al millar. La tarifa mínima por avalúo será el equivalente a 4.23 salarios mínimos, excepto los avalúos para adquisición de viviendas de interés social y popular, los derechos ascenderán a un máximo de 1 salario mínimo.
+b) Por alta de predio al Padrón Catastral Estatal 1.1
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+c) Por fusión de predios 4.65
 
-b) Por alta de predio al Padrón Catastral Estatal. 1.0
+d) Por división de predio 4.65
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+e) Por rectificación de predio 4.65
 
-c) Por fusión de predios. 4.23
+f) Por inscripción de fraccionamiento por lote 4.65
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+g) Por inscripción de condominio por cada uno 4.65
 
-d) Por división de predio. 4.23
+h) Por emisión de constancias 2.2
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+i) Por certificación de copia de documento 1.1
 
-e) Por rectificación de predio. 4.23
+j) Por certificación de no adeudo 1.1
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+k) Por certificación de plano con 2 copias 3.3
 
-f) Por inscripción de fraccionamiento por lote. 4.23
+l) Por certificación y copia de documento 1.21
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+m) Por copia simple de documento 0.11
 
-g) Por inscripción de condominio por cada uno. 4.23
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-h) Por emisión de constancias. 2.0
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-i) Por certificación de copia de documento. 1.0
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-j) Por certificación de no adeudo. 1.0
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-k) Por certificación de plano con 2 copias. 3.0
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-l) Por certificación y copia de documento. 1.10
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-m) Por copia simple de documento. 0.10
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-n) Por búsqueda de datos en los archivos. 1.26
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-La tarifa mínima por avalúo será el equivalente a 4.23 salarios mínimos, excepto lo que señala el último párrafo de este mismo artículo. Cuando sean avalúos de predios fuera de las cabeceras municipales, se incrementará en un 10% la tarifa aplicada, más el importe de los gastos de traslado.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
-
-Tratándose de avalúos para adquisición de viviendas de interés social o popular, o de cualquier otra constancia catastral para el mismo fin, los derechos ascenderán a un máximo de un día de salario mínimo.
+n) Por búsqueda de datos en los archivos 1.38
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2014)</small>
 
 ### CAPITULO V. SERVICIOS PRESTADOS POR LA SECRETARIA DE ECOLOGIA Y GESTION AMBIENTAL
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 70.
 
-Las concesiones para servicio público de transporte en todas sus modalidades, el otorgamiento de permisos temporales o la cesión de derechos de concesión, causarán los siguientes derechos que se expresan en salarios mínimos de la zona económica correspondiente al Estado, por cada uno:
+Las concesiones para servicio público de transporte en todas sus modalidades, el otorgamiento de permisos temporales o la cesión de derechos de concesión, causarán los siguientes derechos que se expresan en UMA vigente, por cada uno:
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
 
 Otorgamiento o cesión de concesiones:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-I. Camiones, camionetas, ómnibus y automóviles de alquiler, de pasajeros:
+I. Camiones, camionetas, ómnibus que presten el servicio de transporte público en las siguientes modalidades:
 
-a) En los Municipios de, San Luis Potosí, Ciudad Valles, Matehuala y Rioverde, 166.4; y
+a) Urbano colectivo
 
-b) En los demás municipios 145.70.
+b) Urbano Colectivo de Primera clase
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+c) Colectivo Masivo
+
+d) Interurbano
+
+e) Foráneo de primera clase
+
+f) Foráneo de Segunda Clase
+
+g) Automóvil de Alquiler en Sitio
+
+h) Automóvil de Alquiler de Ruleteo
+
+i) Colectivo de ruta
+
+j) Turismo
+
+En los Municipios de, San Luis Potosí y Soledad de Graciano Sánchez 200, Ciudad Valles, Matehuala y Rioverde 170, en los demás municipios 155.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 II. Camiones camionetas y ómnibus sujetos a régimen de concesión en las modalidades de:
 
-a) Servicio mixto 132.13;
+a) Mixto de carga y pasaje 145.34;
 
-b) Transporte de minerales 140; y
+b) Carga especializada 154; y
 
-c) Carga y transporte de materiales para construcción 146.04.
+c) Grúas y arrastre de vehículos, muebles y mudanzas, materiales de construcción y carga liviana 146.04.
 
-> <small>[N. DE E. VÉASE ARTÍCULO SEGUNDO DEL DECRETO 0199, PUBLICADO EN EL P.O. DE 16 DE ABRIL DE 2016, MEDIANTE EL CUAL "SE REFORMA PARTE RELATIVA DEL PÁRRAFO PRIMERO DE LA FRACCIÓN III...".]</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2014)</small>
-
-III. Los permisos temporales para prestar servicio público de transporte causarán los siguientes derechos expresados en salarios mínimos:
-
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2016)</small>
-
-MODALIDAD SMG
+III. Los permisos temporales para prestar servicio público de transporte causarán los siguientes derechos expresados en UMA vigente: modalidad rural y servicios especiales 55 veces el valor de la UMA vigente.
 
 AÑOS 1 2 3 4 5
 
 Las modalidades establecidas en las
 
-fracciones IV y V del artículo 21 y todas las
+fracciones IV y V del artículo 21 y todas
 
-modalidades del artículo 22, ambos, de la Ley
+las modalidades del artículo 22, ambos, 55 110 165 220 275
 
-de Transporte Público del Estado de San
+de la Ley de Transporte Público del
 
-Luis Potosí. 50 100 150 200 250
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE ABRIL DE 2016)</small>
+Estado de San Luis Potosí
 
 IV. (DEROGADA, P.O. 15 DE JULIO DE 2014)
 
@@ -1635,55 +1831,121 @@ IV. (DEROGADA, P.O. 15 DE JULIO DE 2014)
 
 La adjudicación por herencia que se dé a favor de un pariente en línea recta hasta el primer grado, cónyuge o concubina, no causará el derecho a que se refiere este artículo.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 70 BIS. Por el registro de cada una de las Empresas de Redes de Transporte se pagarán 800 veces el valor de la UMA vigente; y por el refrendo anual se pagarán 685 veces el valor de la UMA vigente.
+
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2014)</small>
 
 ###### ARTICULO 71.
 
 El otorgamiento de autorización para el transporte de carga particular será de carácter gratuito.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 72.
 
-La expedición de constancia de ser o no permisionario, del servicio público de transporte, causará un pago de 0.84 salarios mínimos.
+La expedición de constancia de ser o no permisionario, del servicio público de transporte, causará un pago de 0.92 de la UMA diaria vigente.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 73.
 
-La revista anual reglamentaria de vehículos de servicio público, incluyendo calcomanía, causará los siguientes derechos expresados en salarios mínimos: 7.04 por taxis; de 16.76 por camiones de más de tres toneladas de capacidad de carga y ómnibus; y, 8.38 las camionetas de tres toneladas o de menos capacidad de carga.
+La revista anual reglamentaria de vehículos de servicio público, incluyendo calcomanía, causará los siguientes derechos expresados en UMA vigente: 7.74 por taxis; de 18.43 por camiones de más de tres toneladas de capacidad de carga y ómnibus; y, 9.21 las camionetas de tres toneladas o de menos capacidad de carga.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 74.
 
-El refrendo anual de concesión para vehículos de servicio público causará los siguientes derechos expresados en salarios mínimos: 33.52 en el caso de taxis, colectivos y camiones de carga de más de tres toneladas; y, 16.76 las camionetas de tres toneladas o de menos capacidad de carga.
+El refrendo anual de concesión para vehículos de servicio público causará los siguientes derechos expresados en UMA vigente: 36.87 en el caso de taxis, colectivos y camiones de carga de más de tres toneladas; y, 18.43 las camionetas de tres toneladas o de menos capacidad de carga.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 75.
+###### ARTICULO 75.
 
-Por los servicios de control vehicular prestados por esta Secretaría, a vehículos de servicio público, se pagarán derechos por el equivalente a las cantidades de salarios mínimos que se expresan a continuación:
+Por los servicios de control vehicular prestados por esta Secretaría, a vehículos de servicio público, se pagarán derechos por el equivalente a las cantidades en UMA vigente, que se expresan a continuación:
 
-I. Por sustitución de vehículos de servicio público de transporte de pasajeros o de carga 4.20;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-II. Por la expedición de calcomanía de revista 2.1;
+I. Por sustitución de vehículos de servicio público de transporte de pasajeros o de carga 4.62;
 
-III. Por reposición de calcomanía de revista 2.1;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II. Por la expedición de calcomanía de revista 2.31;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+III. Por reposición de calcomanía de revista 2.31;
 
 IV. Por expedición de tarjeta de identificación del conductor de transporte público de pasajeros o de carga;
 
-V. Por un año 1.26;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-VI. Por cinco años 4.20;
+a) Por un año 1.26;
 
-VII. Por permiso para salir del Estado 1.7; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+b) Por cinco años 4.20;
+
+V. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2016)
+
+VI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2016)
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+VII. Por permiso para salir del Estado 1.87;
 
 VIII. (DEROGADA, P.O. 15 DE JULIO DE 2014)
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IX. Por permisos temporales para portar publicidad en vehículos de transporte público de pasajeros o de carga;
+
+a) Por un año 50;
+
+b) Por dos años 100;
+
+c) Por tres años 150;
+
+d) Por cuatro años 200 y
+
+e) Por cinco años 250.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+X. Expedición de permiso para circular sin placa o sin tarjeta de circulación, por día:
+
+a) Automóviles, camionetas, camiones y ómnibus 0.68
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+XI. Permisos temporales para la explotación de dispositivos y/o aparatos para el control de tarifas (taxímetro)
+
+a. Por un año 50;
+
+b. Por dos años 100;
+
+c. Por tres años 150;
+
+d. Por cuatro años 200 y
+
+e. Por cinco años 250.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 76.
 
-Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones, secuestro de vehículos o movimiento de éstos, a solicitud de los conductores, los propietarios de vehículos pagarán el derecho de grúa con una cuota de 8.38 salarios mínimos por los primeros diez kilómetros y, 3 salarios mínimos, por cada 5 kilómetros o fracción siguientes.
+Por el servicio de grúa que se preste como consecuencia de la comisión de infracciones, secuestro de vehículos o movimiento de éstos, a solicitud de los conductores, los propietarios de vehículos pagarán el derecho de grúa con una cuota de 9.21 veces el valor de la UMA vigente por los primeros diez kilómetros y, 3.3 veces el valor de la UMA vigente, por cada 5 kilómetros o fracción siguientes.
 
 El derecho a que se refiere este artículo se causará por la sola prestación del servicio, independientemente de las sanciones que procedan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 77.
 
-Por el servicio de almacenaje de cualquier tipo de vehículo se pagará, por cada día, un derecho de 0.84 salarios mínimos, en tanto los propietarios no los retiren.
+Por el servicio de almacenaje de cualquier tipo de vehículo se pagará, por cada día, un derecho de 0.92 de la UMA diaria vigente, en tanto los propietarios no los retiren.
 
 Si transcurridos dos meses de que el vehículo quedó a disposición del propietario, éste no lo retira, las autoridades fiscales procederán a determinar el crédito fiscal adeudado hasta esa fecha y lo notificarán personalmente al interesado. De no conocerse sus datos, se le notificará mediante publicación que se haga por una sola vez en el Periódico Oficial del Estado, en la que se señalen las características del vehículo.
 
@@ -1693,13 +1955,17 @@ Si al mes siguiente a la publicación, no se presenta el propietario del vehícu
 
 Los propietarios de los vehículos a que se refiere este artículo y el anterior, sólo podrán retirarlos una vez cubierto el monto de los derechos a su cargo.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 78.
 
-Por el examen anual de medicina preventiva del transporte público se causará un derecho de 10.05 salarios mínimos.
+Por el examen anual de medicina preventiva del transporte público se causará un derecho de 11.05 veces el valor de la UMA vigente.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 79.
 
-Los cursos de capacitación para conductor del servicio de transporte público, causarán un derecho de 4.2 salarios mínimos por cada curso.
+Los cursos de capacitación para conductor del servicio de transporte público, causarán un derecho de 4.62 veces el valor de la UMA vigente.
 
 ###### ARTICULO 80.
 
@@ -1721,9 +1987,13 @@ El mismo carácter tendrán las inspecciones sanitarias a las propiedades urbana
 
 Por los servicios que preste el Estado a través de la Secretaría de Salud, por los análisis microbiológicos y físico-químicos de algunos alimentos, se aplicarán las siguientes tarifas:
 
-Tratándose de análisis microbiológicos de agua potable, refrescos, leche y sus derivados, carne y productos cárnicos se cobrará una tarifa de $150.00 por cada análisis.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-En el caso de análisis físico-químico de los productos citados en el párrafo inmediato anterior, se cobrará una tarifa de $300.00 por cada análisis.
+Tratándose de análisis microbiológicos de agua potable, refrescos, leche y sus derivados, carne y productos cárnicos se cobrará una tarifa de $165.00 por cada análisis.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+En el caso de análisis físico-químico de los productos citados en el párrafo inmediato anterior, se cobrará una tarifa de $330.00 por cada análisis.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
@@ -2059,43 +2329,31 @@ Los comprobantes de pago que se expidan en dichas casetas serán idóneos para a
 
 La recaudación obtenida en términos del presente artículo se destinará en su totalidad, en primer lugar, al mantenimiento y operación de cada carretera; después, a cubrir hasta su total extinción los financiamientos, adeudos y compromisos contraídos por el Estado con fuente de pago y/o garantía fiduciaria de dichos recursos; y, por último, al gasto público del Estado con sujeción a las leyes aplicables. Al efecto, cada año se harán las previsiones presupuestales correspondientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 ARTICULO 93 TER. Las personas que hagan uso del estacionamiento en los que forman parte de los bienes del Estado, cubrirán los derechos establecidos en pesos, previstos en el presente artículo, por vehículo:
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-ESTACIONA
+ESTACIONAMIENTOS FUNDADORES EJE VIAL MADERO
 
-MIENTOS FUNDADO EJE MADERO PLAN DE
+Hora o fracción $20.00 $15.00 $15.00
 
-RES VIAL SAN LUIS
+Exclusivo mensual $2,000.00 $900.00 $900.00
 
-Hora o fracción $18.00 $14.00 $14.00 $5.00
+Pensión nocturna diaria --- $50.00 $50.00
 
-Exclusivo mensual $1,800.00 $800.00 $800.00 -----
+Pensión nocturna mensual $500.00 $500.00 $500.00
 
-Pensión nocturna diaria ----- $40.00 $40.00 -----
+Pensión vespertina --- $400.00 $400.00
 
-Pensión nocturna
+Exclusivo mensual 24 hrs. --- $500.00 ---
 
-Mensual $450.00 $450.00 $450.00 -----
+Niveles 7 y 8
 
-Pensión vespertina ----- $350.00 $350.00 -----
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-Exclusivo mensual ----- $400.00 ----- -----
-
-niveles 7 y 8
-
-Exclusivo mensual ----- ----- ----- $300.00
-
-en horario de
-
-8:00 a 15:00 horas
-
-> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+Por lo que respecta al estacionamiento Plan de San Luis, la tarifa aplicable será de $5.50 durante todo el tiempo en que el vehículo permanezca en el estacionamiento en un horario de 8:00 a 15:00 horas. El exclusivo será de $350.00 mensual.
 
 Los derechos anteriores no estarán sujetos a lo dispuesto por el artículo 93 de esta Ley.
 
@@ -2109,51 +2367,63 @@ Los conceptos y tarifas estarán descritos en la Ley de Ingresos vigente para el
 
 ###### ARTICULO 84.
 
-Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental de obras o actividades cuya evaluación corresponda al Gobierno del Estado, conforme a las siguientes tarifas expresadas en salarios mínimos:
+Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental de obras o actividades cuya evaluación corresponda al Gobierno del Estado, conforme a las siguientes tarifas expresadas UMA vigente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-I. Por la recepción, evaluación y, en su caso, la autorización de informe preventivo de impacto ambiental, cuando el proyecto se encuentre con uso de suelo definido y no se contraponga con el establecido por los Ayuntamientos, en su plan de centro de población, y existan normas oficiales mexicanas que regulen su operación, 100.
+I. Por la recepción, evaluación y, en su caso, la autorización de informe preventivo de impacto ambiental, cuando el proyecto se encuentre con uso de suelo definido y no se contraponga con el establecido por los Ayuntamientos, en su plan de centro de población, y existan normas oficiales mexicanas que regulen su operación, 110.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-II. Por la recepción y la evaluación de una manifestación, modalidad particular, cuando en el municipio donde se pretendan desarrollar los proyectos, no cuenten con plan de centro de población o se pretenda modificar el uso de suelo, por la operación de un banco de materiales o de préstamo menor a 100 hectáreas, 150.
+II. Por la recepción y la evaluación de una manifestación, modalidad particular, cuando en el municipio donde se pretendan desarrollar los proyectos, no cuenten con plan de centro de población o se pretenda modificar el uso de suelo, por la operación de un banco de materiales o de préstamo menor a 100 hectáreas, 165.
 
-a) Por la evaluación de una manifestación en su modalidad regional (cuando los proyectos abarquen una superficie mayor a 100 hectáreas o su área de afectación sea similar a esta superficie), 200.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+a) Por la evaluación de una manifestación en su modalidad regional (cuando los proyectos abarquen una superficie mayor a 100 hectáreas o su área de afectación sea similar a esta superficie), 220.
 
 b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
-III. Por el otorgamiento de la autorización de la manifestación del impacto ambiental, en su modalidad particular, 100;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IV. Por el otorgamiento de la autorización de la manifestación del impacto ambiental, en su modalidad regional, 150;
+III. Por el otorgamiento de la autorización de la manifestación del impacto ambiental, en su modalidad particular, 110;
 
-V. Por la evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental, 50;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+IV. Por el otorgamiento de la autorización de la manifestación del impacto ambiental, en su modalidad regional, 165;
 
-VI. Por la evaluación y la resolución de la solicitud de renovación de términos y plazos establecidos en la autorización de impacto ambiental, 30, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+V. Por la evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental, 55;
 
-VII. Por el análisis y la contestación de solicitud de exención, exclusión o de no procedencia de presentación de un informe preventivo o manifestación de impacto ambiental y riesgo, 30.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+VI. Por la evaluación y la resolución de la solicitud de renovación de términos y plazos establecidos en la autorización de impacto ambiental, 33, y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+VII. Por el análisis y la contestación de solicitud de exención, exclusión o de no procedencia de presentación de un informe preventivo o manifestación de impacto ambiental y riesgo, 33.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 85.
 
-Por el otorgamiento del permiso de operación para la prevención y control de la contaminación de la atmósfera, a las fuentes fijas de jurisdicción estatal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes tarifas expresadas en salarios mínimos:
+Por el otorgamiento del permiso de operación para la prevención y control de la contaminación de la atmósfera, a las fuentes fijas de jurisdicción estatal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes tarifas expresadas en UMA vigente:
 
-I. Por la recepción y evaluación de solicitud de permiso, 32, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-II. Actualización del permiso de operación, 20.
+I. Por la recepción y evaluación de solicitud de permiso, 35.2, y
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-III. Por la recepción y la evaluación de la cédula de Operación Anual para la renovación del permiso de operación, 20, y
+II. Actualización del permiso de operación, 22.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IV. Por el análisis y la contestación de solicitud de exención, exclusión o de no procedencia de permiso de operación de fuente fija, 30.
+III. Por la recepción y la evaluación de la cédula de Operación Anual para la renovación del permiso de operación, 22, y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IV. Por el análisis y la contestación de solicitud de exención, exclusión o de no procedencia de permiso de operación de fuente fija, 33.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
@@ -2161,41 +2431,45 @@ IV. Por el análisis y la contestación de solicitud de exención, exclusión o 
 
 Por los servicios de verificación y de certificación de equipos de medición de contaminantes de vehículos automotores en circulación, en centros autorizados, se pagará el derecho de prevención y control de la contaminación, conforme a las tarifas siguientes:
 
-I. Verificación con vigencia de 6 meses, 3 salarios mínimos; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-II. Verificación con vigencia de 12 meses, 6 salarios mínimos;
+I. Verificación con vigencia de 6 meses, 3.3 veces el valor de la UMA vigente, y
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II. Verificación con vigencia de 12 meses, 6.6 veces el valor de la UMA vigente.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 87.
 
-Por la autorización o licencia de operación de centros de verificación de emisiones contaminantes de vehículos automotores, 5000 salarios mínimos; existe la obligación de pagar refrendo anual durante el mes de enero de cada ejercicio fiscal, de 500 salarios mínimos.
+Por la autorización o licencia de operación de centros de verificación de emisiones contaminantes de vehículos automotores, 5500 veces el valor de la UMA vigente; existe la obligación de pagar refrendo anual durante el mes de enero de cada ejercicio fiscal, de 550 veces el valor de la UMA vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 88.
 
-Por la evaluación de cada solicitud y, en su caso, autorización de las siguientes actividades en materia de residuos industriales no peligrosos, de manejo especial, se pagará el derecho de prevención y de control de la contaminación, conforme a las siguientes tarifas, expresadas en salarios mínimos:
+Por la evaluación de cada solicitud y, en su caso, autorización de las siguientes actividades en materia de residuos industriales no peligrosos, de manejo especial, se pagará el derecho de prevención y de control de la contaminación, conforme a las siguientes tarifas, expresadas en UMA vigente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-I. Inscripción en el registro de generadores de residuos industriales no peligrosos de manejo especial, 40;
+I. Inscripción en el registro de generadores de residuos industriales no peligrosos de manejo especial, 44;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-II. Autorización a empresas de servicios de recolección y transporte de residuos industriales no peligrosos de manejo especial, 40;
+II. Autorización a empresas de servicios de recolección y transporte de residuos industriales no peligrosos de manejo especial, 44;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-III. Instalación y operación de sistemas de acopio y almacenamiento de residuos industriales no peligrosos de manejo especial, 40;
+III. Instalación y operación de sistemas de acopio y almacenamiento de residuos industriales no peligrosos de manejo especial, 44;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IV. Instalación y operación de sistemas de reciclaje, utilización, reutilización y tratamiento de residuos industriales no peligrosos de manejo especial, 40, y
+IV. Instalación y operación de sistemas de reciclaje, utilización, reutilización y tratamiento de residuos industriales no peligrosos de manejo especial, 44;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-V. Por las solicitudes de transferencia, modificación o renovación de la autorización otorgada, se pagarán 20 salarios mínimos.
+V. Por las solicitudes de transferencia, modificación o renovación de la autorización otorgada, se pagarán 22, y
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2203,27 +2477,33 @@ VI. Por la renovación o modificación del registro otorgado, se pagará la mita
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 88 BIS. Por la evaluación de cada solicitud y, en su caso, el registro del plan de manejo de residuos de manejo especial, se pagará el derecho de prevención de la generación y la valorización de los residuos, conforme a las siguientes tarifas expresadas en salarios mínimos:
+ARTICULO 88 BIS. Por la evaluación de cada solicitud y, en su caso, el registro del plan de manejo de residuos de manejo especial, se pagará el derecho de prevención de la generación y la valorización de los residuos, conforme a las siguientes tarifas expresadas en UMA vigente:
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 I. Registro del plan de manejo de residuos de manejo especial, de acuerdo a la NOM-161-SEMARNAT-2011, 12;
 
-II. Registro del plan de manejo de residuos de manejo especial de pequeños generadores, 6, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II. Registro del plan de manejo de residuos de manejo especial de pequeños generadores, 6.6, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 III. Por la renovación o la modificación del registro otorgado, se pagará la mitad de la tarifa establecida en el presente artículo.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 89.
 
-Por la evaluación y, en su caso, aprobación de los programas para la prevención de accidentes, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 50 salarios mínimos.
+Por la evaluación y, en su caso, aprobación de los programas para la prevención de accidentes, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 55 veces el valor de la UMA vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 90.
 
-Por la evaluación y, en su caso, aprobación del estudio de riesgo, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 50 salarios mínimos.
+Por la evaluación y, en su caso, aprobación del estudio de riesgo, para quienes realicen actividades riesgosas, pagarán el derecho conforme a la tarifa de 55 veces el valor de la UMA vigente.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -2231,57 +2511,61 @@ Por la solicitud de modificación o ampliación de las resoluciones del estudio 
 
 ### CAPÍTULO VIII. SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 93 QUINQUE. Por los servicios prestados en los términos de la Ley del Registro de Agentes Inmobiliarios del Estado de San Luis Potosí, se causarán las siguientes cuotas en salarios mínimos:
+ARTICULO 93 QUINQUE. Por los servicios prestados en los términos de la Ley del Registro de Agentes Inmobiliarios del Estado de San Luis Potosí, se causarán las siguientes cuotas en UMA vigente:
 
 CONCEPTO CUOTA
 
-Por la inscripción de personas morales en el Registro de
+Por la inscripción de personas morales en el 16.5
 
-Agentes inmobiliarios del Estado de San Luis Potosí 15
+Registro de Agentes Inmobiliarios del Estado de
 
-Por la inscripción de personas físicas en el Registro de
+San Luis Potosí.
 
-Agentes Inmobiliarios del Estado de San Luis Potosí, como
+Por la inscripción de personas físicas en el 16.5
 
-asesor inmobiliario 15
+Registro de Agentes Inmobiliarios del Estado de
 
-Por la inscripción de personas físicas en el Registro de
+San Luis Potosí, como asesor inmobiliario.
 
-Agentes Inmobiliarios del Estado de San Luis Potosí, como
+Por la inscripción de personas físicas en el 16.5
 
-agente inmobiliario. 15
+Registro de Agentes Inmobiliarios del Estado de
 
-Por la revalidación anual de personas físicas y morales en
+San Luis Potosí, como agente inmobiliario.
 
-el Registro de Agentes Inmobiliarios del Estado de San
+Por la revalidación anual de personas físicas y 8.8
 
-Luis Potosí 8
+morales en el Registro de Agentes Inmobiliarios del
+
+Estado de San Luis Potosí
 
 ###### ARTICULO 91.
 
 La búsqueda de antecedentes en expedientes, libros o legajos de los archivos del Estado será gratuita.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 92.
 
-Por los servicios que se citan a continuación se causarán los derechos que se mencionan enseguida, expresados en salarios mínimos:
+Por los servicios que se citan a continuación se causarán los derechos que se mencionan enseguida, expresados en UMA vigente:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-I. Certificado de no adeudo, 2.0;
+I. Certificado de no adeudo, 2.2;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-II. Carta de no antecedentes penales; 1.0;
+II. Carta de no antecedentes penales, 1.1;
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-III. Certificaciones de copias fotostáticas de documentos que obren en los archivos de los poderes del Estado, 1.0 por foja, y
+III. Certificaciones de copias fotostáticas de documentos que obren en los archivos de los poderes del Estado, 1.1 por foja, y
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IV. Copias fotostáticas simples de, códigos, decretos, leyes y demás documentos a los que pueda tener acceso el público, 0.01, por foja.
+IV. Copias fotostáticas simples de, códigos, decretos, leyes y demás documentos a los que pueda tener acceso el público, 0.02 por foja.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2529,9 +2813,11 @@ Para este efecto, previamente al retiro del pavimento ya existente, deberá medi
 
 Cuando se hagan instalaciones de alumbrado público, si las lámparas se instalan en el centro del arroyo o en ambas aceras, las cuotas unitarias se pagarán por mitades por los propietarios de los inmuebles con frente a las mismas. Si la instalación se hace en una acera, la contribución será a cargo de los propietarios de los inmuebles con frente a la acera beneficiada.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 115.
 
-Cuando por error en las medidas de los frentes de los inmuebles la determinación del monto de las cuotas correspondientes a los propietarios de cada inmueble sea inexacta, pero la diferencia a favor o en contra no exceda 0.42 salarios mínimos, se tendrá como correcta la cuota fijada.
+Cuando por error en las medidas de los frentes de los inmuebles la determinación del monto de las cuotas correspondientes a los propietarios de cada inmueble sea inexacta, pero la diferencia a favor o en contra no exceda 0.42 de la UMA diaria vigente, se tendrá como correcta la cuota fijada.
 
 ###### ARTICULO 116.
 
@@ -2575,9 +2861,11 @@ Tratándose de los productos provenientes de las fracciones II, IV, VI, VII y VI
 
 Para la percepción de estos ingresos se estará a lo dispuesto, según el caso, en la Ley de Ingresos del Estado, en los Contratos o Concesiones respectivas o en las Escrituras Constitutivas o Decretos que den nacimiento a los establecimientos o empresas del Estado y, en defecto de ellos, en las disposiciones legales que les sean aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 120.
 
-El Periódico Oficial y otras publicaciones y ediciones se venderán conforme a la siguiente tarifa expresada en salarios mínimos:
+El Periódico Oficial y otras publicaciones y ediciones se venderán conforme a la siguiente tarifa expresada en UMA vigente:
 
 I. Cada número actual, 0.25;
 
@@ -2587,9 +2875,11 @@ III. Suscripción por seis meses, 9.50; y
 
 IV. Otras publicaciones y ediciones, con base en su costo, a criterio de la Secretaría de Finanzas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 121.
 
-Las formas valoradas y los planos se venderán conforme a la siguiente tarifa expresada en salarios mínimos:
+Las formas valoradas y los planos se venderán conforme a la siguiente tarifa expresada en UMA vigente:
 
 FORMA O PLANO VALOR
 
@@ -2753,29 +3043,49 @@ XVI. Forma valorada para la certificación de Actas del Registro Civil, se cobra
 
 XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+ARTICULO 121 BIS. Por los servicios que preste la Dirección General de Protección Civil: se cobrará en UMA vigente:
 
-ARTICULO 121 BIS. Por los servicios que preste la Dirección General de Protección Civil, se cobrará en salarios mínimos:
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 I. Curso de capacitación nivel básico, por persona, 5.0;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 II. Curso de capacitación nivel uno, por persona, 8.0;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 III. Curso de capacitación nivel dos, por persona, 12.0;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 IV. Curso de capacitación nivel especializado, por persona, 18.0;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 V. Por prestación de servicio de hospedaje para capacitadores, 3.5;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 VI. Por inscripción al Programa Interno de Protección Civil, 15.0;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
 VII. Por la expedición del visto bueno de las medidas de seguridad en eventos públicos masivos en inmuebles propiedad de (sic) Gobierno del Estado, 15.0;
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 VIII. Por ocupación de aula para capacitación hasta de 30 personas con sillas y mesas de trabajo, proyector, pantalla y pizarrón interactivo 25.5, por día, y
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+
 IX. Por ocupación de auditorio para capacitación con capacidad para 150 personas con sillas, mesas de trabajo, pantalla y proyector 50.5, por día.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 121 TER. El Gobierno del Estado a través de la Secretaría de Finanzas, pondrá a la venta al público en general, calcomanías en alusión al deporte, cuya recaudación será destinada al apoyo y fomento al deporte en el Estado, mismas que serán proporcionadas para su venta en las oficinas recaudadoras y otros puntos y que tendrán un costo de $100.00.
 
 ## TITULO SEXTO. APROVECHAMIENTOS
 
@@ -3032,3 +3342,19 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. A la entrada en vigor del presente Decreto, la Secretaría de Comunicaciones y Transportes tendrá ciento veinte días para realizar las adecuaciones al reglamento respectivo.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0444.- SE REFORMA (SIC) LOS ARTÍCULOS 1° Y 30 Y ADICIONA AL ARTÍCULO 12 LA FRACCIÓN XIII BIS, AL TÍTULO QUINTO EL CAPÍTULO III Y LOS ARTÍCULOS, 71 BIS A 71 OCTIES, AL ARTÍCULO 129 PÁRRAFO PENÚLTIMO, Y EL ARTÍCULO 132 BIS, DE Y A LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ. ASÍ MISMO SE ADICIONA EL ARTÍCULO 70 BIS, A LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor ciento veinte días posteriores a la fecha de su publicación en el Periodico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0448.- REFORMAS Y ADICIONES A LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ."]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
