@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-vivienda-para-el-estado-de-nayarit-68841"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-06"
-last_updated: "2016-11-08"
+last_updated: "2016-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE VIVIENDA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el sábado 6 de junio de 2009.
 
@@ -49,7 +49,9 @@ I.- Definir y regular la política estatal de vivienda y las acciones habitacion
 
 II.- Definir los lineamientos generales de la política y los programas de vivienda en la Entidad.
 
-III.- Regular, coordinar y concertar acciones con los sectores público, social y privado, dirigidas a garantizar el derecho y el disfrute de una vivienda digna y decorosa para toda familia que habite en el Estado de Nayarit.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+III.- Regular, coordinar y concertar acciones con los sectores público, social y privado, dirigidas a garantizar el derecho y el disfrute de una vivienda digna y un hábitat adecuado para todas las personas que habiten en el Estado de Nayarit.
 
 IV.- Establecer los criterios de ayuda y protección para los grupos sociales en situación de vulnerabilidad en el territorio de la entidad.
 
@@ -65,15 +67,19 @@ VIII.- Informar los mecanismos jurídicos y financieros para que los beneficiari
 
 Serán de aplicación supletoria a lo dispuesto en este ordenamiento; la Ley Estatal de Asentamientos Humanos y Desarrollo Urbano para el Estado de Nayarit; la Ley de Planeación del Estado de Nayarit; la Ley de Justicia y Procedimientos Administrativos, así como los demás ordenamientos legales relacionados en materia de vivienda, vigentes en la Entidad.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 3.
 
-Las disposiciones de la presente Ley deberán aplicarse bajo los principios de equidad e inclusión social que permitan generar las condiciones para que los habitantes del Estado, sin importar su origen étnico, nacionalidad, género, edad, capacidades, condición social o económica, salud, religión, opinión, preferencias o estado civil; puedan acceder a una vivienda digna y decorosa.
+Las disposiciones de la presente Ley deberán aplicarse bajo los principios de equidad e inclusión social que permitan generar las condiciones para que los habitantes del Estado, sin importar su origen étnico, nacionalidad, género, edad, capacidades, condición social o económica, salud, religión, opinión, preferencias o estado civil; puedan acceder a una vivienda digna, decorosa y un hábitat adecuado.
 
-Debiendo cumplir con las disposiciones jurídicas y normativas aplicables en materia de asentamientos humanos, construcción, habitabilidad y salubridad; contar con los servicios básicos; brindar a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión; contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
+Se considerará vivienda digna y decorosa la que cumpla con las disposiciones jurídicas y normativas aplicables en materia de asentamientos humanos, construcción, habitabilidad y salubridad; aquella que cuente con un lugar donde poder aislarse, espacio adecuado, seguridad, iluminación y ventilación; cuente con los servicios básicos; brinde a sus ocupantes seguridad jurídica en cuanto a su propiedad o legítima posesión; contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 4.
 
-Las políticas y los programas, así como los instrumentos y los apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios de respeto a la legalidad y la protección jurídica a la legítima tenencia.
+Las políticas y los programas, así como los instrumentos y los apoyos a la vivienda a que se refiere este ordenamiento, se regirán bajo los principios de respeto a la legalidad y la protección jurídica a la legítima tenencia; derecho a la vivienda y hábitat adecuado.
 
 ###### Artículo 5.
 
@@ -187,6 +193,18 @@ XLIV.- VIVIENDA UNIFAMILIAR: Habitación que da alojamiento a una familia y que 
 
 XLV.- VIVIENDA UNIFAMILIAR/PLURIFAMILIAR: Se refiere al número de familias que cuentan con un espacio propio para habitar, pero comparten por diseño original algunas secciones estructurales.
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+XLVI.- Espacios Habitables: el lugar de la vivienda donde se desarrollan actividades de reunión o descanso, que cuenten con las dimensiones mínimas de superficie, altura, ventilación e iluminación natural, además de contar como mínimo con un baño, cocina, estancia-comedor y dos recamaras, de conformidad con las características y condiciones mínimas necesarias que establezcan las leyes y las normas oficiales mexicanas;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+XLVII.- Espacios Auxiliares: el lugar de la vivienda donde se desarrollan actividades de trabajo, higiene y circulación, y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+XLVIII.- Hábitat adecuado: conjunto de factores físicos y geográficos que inciden en el desarrollo de un individuo.
+
 ## TÍTULO SEGUNDO. POLÍTICA ESTATAL DE VIVIENDA Y SU PROGRAMACIÓN
 
 ### CAPÍTULO I. LINEAMIENTOS
@@ -203,7 +221,9 @@ III.- Incorporar estrategias que fomenten la concurrencia de los sectores públi
 
 IV.- Promover medidas de mejora regulatoria encaminadas a fortalecer la seguridad jurídica y disminuir los costos de la vivienda.
 
-V.- Fomentar la calidad de la vivienda.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+V.- Fomentar la calidad de la vivienda y fijar los criterios mínimos de los espacios habitables.
 
 VI.- Establecer los mecanismos para que la construcción de vivienda respete el entorno ecológico, la preservación y el uso eficiente de los recursos naturales.
 
@@ -1035,7 +1055,9 @@ VII.- Considerar elementos constructivos para personas con discapacidad, tanto e
 
 El Gobierno del Estado en coordinación con las autoridades competentes tanto federales como municipales, promoverá, que en el desarrollo de las acciones habitacionales en sus distintas modalidades y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con:
 
-I.- Los espacios habitables y de higiene suficientes en función al número de usuarios;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+I.- Los espacios habitables, espacios auxiliares y de higiene suficientes en función al número de usuarios;
 
 II.- Considerar la adecuación de espacios sociales y privados, cuando el destinatario presente alguna discapacidad;
 
@@ -1280,5 +1302,11 @@ Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Const
 P.O. 8 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS FRACCIONES DEL ARTÍCULO 6 DE LA LEY DE VIVIENDA PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 17 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
