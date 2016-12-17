@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-movilidad-y-transporte-del-estado-de-jalisco-95356"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-10"
-last_updated: "2016-11-25"
+last_updated: "2016-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el sábado 10 de agosto del 2013.
 
@@ -951,13 +951,21 @@ Son auxiliares en la aplicación de esta ley y sus reglamentos:
 
 I. El Instituto;
 
-II. La Comisión de Tarifas;
+II. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2016)
 
 III. Las policías, cualquiera que sea su denominación y adscripción;
 
-IV. Las unidades, consejos consultivos y grupos de vigilancia y seguridad que integren las asociaciones de vecinos, conforme a las disposiciones estatales y municipales aplicables, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-V. Los grupos de promotores voluntarios integrados en las escuelas de educación primaria y secundaria, coordinados por las propias autoridades escolares con la finalidad de promover y vigilar el respeto a las normas de esta ley y su reglamento en materia de movilidad y transporte.
+IV. Las unidades, consejos consultivos y grupos de vigilancia y seguridad que integren las asociaciones de vecinos, conforme a las disposiciones estatales y municipales aplicables;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+V. Los grupos de promotores voluntarios integrados en las escuelas de educación primaria y secundaria, coordinados por las propias autoridades escolares con la finalidad de promover y vigilar el respeto a las normas de esta Ley y su reglamento en materia de movilidad y transporte; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+VI. El Comité Técnico de Validación, conforme lo dispuesto en la presente Ley y su reglamento.
 
 ###### Artículo 36.
 
@@ -1787,9 +1795,11 @@ El servicio de carga se prestará en vehículos cerrados o abiertos, con las car
 
 El servicio de carga especial será prestado en vehículos acondicionados o que cuenten con equipo adicional, para garantizar el transporte seguro de valores, materiales clasificados como peligrosos de acuerdo a las normas técnicas ecológicas, tales como explosivos, corrosivos, flamables o contaminantes, o que por sus dimensiones, peso y otras características extraordinarias, representen riesgo. Este servicio no tendrá itinerario, ni horario determinado y su tarifa podrá requerir autorización conforme a lo que indique el reglamento.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 94.
 
-El servicio de grúa en sus modalidades de arrastre, arrastre y salvamento, así como el de remolque de cualquier tipo, es el adaptado para transportar o remolcar cualquier clase de objetos, maquinaria u otros vehículos. No estará sujeto a itinerario ni horario determinado y las tarifas en cada una de las modalidades señaladas, serán fijadas por la Comisión de Tarifas, las cuales no podrán ser rebasadas; pero los permisionarios podrán ajustarlas a la baja según su conveniencia y acuerdo con el usuario.
+El servicio de grúa en sus modalidades de arrastre, arrastre y salvamento, así como el de remolque de cualquier tipo, es el adaptado para transportar o remolcar cualquier clase de objetos, maquinaria u otros vehículos. No estará sujeto a itinerario ni horario determinado y las tarifas en cada una de las modalidades señaladas, serán fijadas de conformidad con lo dispuesto en la presente Ley, las cuales no podrán ser rebasadas; pero los permisionarios podrán ajustarlas a la baja según su conveniencia y acuerdo con el usuario.
 
 ###### Artículo 95.
 
@@ -2231,7 +2241,9 @@ II. Los taxis que presten el servicio con la modalidad de sitios, deberán lleva
 
 III. Los taxis con la modalidad de radiotaxis prestarán el servicio por medio de equipos de radiocomunicación, debiendo contar con una matriz central a fin de que puedan transitar para la atención eficiente del servicio;
 
-IV. En el servicio de transporte público de taxis, en cualquiera de sus modalidades, será obligatorio usar el taxímetro, cuyas tarifas se establecerán por acuerdo de la Comisión de Tarifas que esta ley señala y con base en las opiniones, estudios y datos proporcionados por el Instituto, en coordinación con la Secretaría.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IV. En el servicio de transporte público de taxis, en cualquiera de sus modalidades, será obligatorio usar el taxímetro, cuyas tarifas se establecerán en el dictamen técnico final emitido por el Instituto y validado por el Comité Técnico de Validación.
 
 El incumplimiento de la disposición que señala el párrafo anterior, será causa de revocación de las concesiones correspondientes sin responsabilidad para el Estado, excepción hecha para aquellos taxis cuya tarifa sea clasificada por zona, y
 
@@ -2551,79 +2563,93 @@ Si subsiste la necesidad del servicio y siempre que no se afecte el interés pú
 
 La Secretaría informará al registro estatal el acuerdo que declare las concesiones canceladas, extintas o vacantes.
 
-### Capítulo XII. De las tarifas
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+### Capítulo XII. Del Comité Técnico de Validación y las tarifas
 
 ###### Artículo 150.
 
-Al proponer la revisión, aprobación o modificación de las tarifas del servicio público de transporte, el Instituto se sujetará a las normas de carácter técnico que para tal efecto se expidan, y tomará como base la relación existente entre los siguientes elementos técnicos, que estarán encaminados a evaluar la calidad del servicio que reciben los usuarios del servicio público de transporte, los cuales deberán comprender por lo menos:
-
-I. La evaluación de la funcionalidad y eficiencia del servicio, considerando la cantidad de usuarios, los horarios de las rutas, el espaciamiento entre unidades y el cumplimiento, tanto de las rutas como de los horarios, y
-
-II. La revisión de la calidad del servicio con base en los lineamientos mínimos impuestos por la Secretaría y en los convenios respectivos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
-
-Tratándose del transporte de pasajeros bajo demanda mediante aplicaciones móviles, el costo de la tarifa será establecido por libre concurrencia y competencia entre las empresas de redes de transporte.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2016)
 
 ###### Artículo 151.
 
-Para la modificación de tarifas del servicio público en todas sus modalidades, la Comisión de Tarifas deberá considerar el dictamen técnico que emita el Instituto de Movilidad y Transporte del Estado de Jalisco, previo al establecimiento o modificación de las tarifas, mismo que tomará como base todos los costos directos o indirectos que incidan en la prestación del servicio.
-
-La Comisión de Tarifas procurará establecer una tarifa integrada que permita el transbordo de usuarios de una modalidad a otra mediante el pago de una tarifa única, buscando beneficiar al usuario.
-
-Previo a la revisión de las tarifas, la comisión aprobará un catalogo que contenga entre otros, el tipo de servicio, el salario mínimo, el índice nacional de precios al consumidor y todos los costos directos o indirectos, que se consideraran para la incidencia en la prestación del servicio, debiendo publicarse en el periódico oficial El Estado de Jalisco.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2016)
 
 ###### Artículo 152.
 
-La Comisión de Tarifas es un órgano auxiliar del Poder Ejecutivo del Estado de Jalisco, que tendrá la facultad, a propuesta del Instituto, de revisar, aprobar y modificar las tarifas para el servicio público de transporte en sus distintas modalidades y se conformará por representantes gubernamentales, sociales, empresariales y prestadores del servicio, con la siguiente integración:
-
-I. El Secretario de Movilidad o su representante, quien la presidirá;
-
-II. Los representantes de los municipios de Guadalajara, Zapopan, San Pedro Tlaquepaque, Tonalá, Tlajomulco de Zúñiga, El Salto, Juanacatlán, Puerto Vallarta, Zapotlán el Grande y Tepatitlán de Morelos;
-
-III. Los representantes debidamente acreditados de los organismos concesionarios, permisionarios y subrogatorios del servicio de transporte público;
-
-IV. Los organismos públicos descentralizados vinculados con la prestación del servicio público del transporte de pasajeros, con un representante por cada uno de ellos;
-
-V. El Director del Instituto, quien participará con derecho a voz y fungirá solamente como Secretario Técnico;
-
-VI. Un representante de la Confederación de Trabajadores de México, CTM;
-
-VII. El representante de la Confederación Revolucionaria de Obreros y Campesinos, CROC;
-
-VIII. El representante de la Cámara Nacional de Comercio de Guadalajara;
-
-IX. El representante del Consejo de Cámaras Industriales de Jalisco;
-
-X. El representante de la Confederación Patronal de la República Mexicana;
-
-XI. Un representante de la Federación de Estudiantes Universitarios, y
-
-XII. Un representante por cada una de las secciones 16 y 47 del Sindicato Nacional de los Trabajadores de la Educación.
-
-El cargo de integrante de la Comisión de Tarifas es honorífico y, por lo tanto, no remunerado y en el caso de los servidores públicos que participan en él, éste encargo se entiende inherente a su función pública.
-
-Los particulares que participan en la Comisión de Tarifas, carecen de la calidad de servidores públicos.
-
-La Comisión de Tarifas, bajo ninguna circunstancia, puede asumir atribuciones que legalmente correspondan a las autoridades del Estado de Jalisco y sus municipios.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2016)
 
 ###### Artículo 153.
 
-Las tarifas deberán revisarse durante el tercer trimestre de cada año y deberán ser autorizadas por la Comisión de Tarifas y publicadas por el Ejecutivo del Estado en el último trimestre del año.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2016)
 
-La Comisión de Tarifas sesionará previa convocatoria por parte del Instituto.
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-Las resoluciones emitidas por la Comisión de Tarifas deberán estar debidamente fundadas y motivadas, serán vinculatorias y de carácter administrativo, de conformidad con los lineamientos establecidos por la presente ley, y serán consideradas de utilidad pública.
+###### Artículo 153-A.
 
-El análisis, discusión y, en su caso, aprobación se realizará en sesión, con la mayoría de votos de los miembros presentes de dicha sesión, todos los integrantes tendrán voz y voto en las discusiones; en caso de empate su Presidente tendrá voto de calidad. Una vez aprobadas las tarifas y determinada la fecha del inicio de su vigencia, se remitirá la resolución suscrita por quien preside la Comisión de Tarifas, al Secretario General de Gobierno para que se ordene su publicación en el periódico oficial El Estado de Jalisco.
+Para realizar actualizaciones o modificaciones a las tarifas del transporte público, se deberán tomar en consideración las disposiciones señaladas en el presente Capítulo, así como la aplicación de las normas de carácter técnico y normativo aplicables.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 153-B.
+
+Para la modificación de tarifas del servicio público en todas sus modalidades, el Instituto de Movilidad y Transporte del Estado de Jalisco emitirá el dictamen técnico, mismo que tomará como base todos los costos directos o indirectos que incidan en la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 153-C.
+
+El dictamen técnico emitido por el Instituto deberá tener la validación de un Comité Técnico de Validación, integrado por representantes correspondientes a las siguientes dependencias y organizaciones sociales:
+
+I. El Instituto de Movilidad y Transporte, a través de su Director o quien éste designe que sea del nivel jerárquico inmediato inferior; quien lo presidirá y contará con voto de calidad en caso de empate;
+
+II. El Consejo de Cámaras Industriales de Jalisco;
+
+III. La Confederación de Trabajadores de México;
+
+IV. El Sindicato de Trabajadores en el Autotransporte del Estado de Jalisco, PALMAC, de la Federación Revolucionaria de Obreros y Campesinos;
+
+V. El Observatorio Ciudadano, establecido en el artículo 7° del Reglamento para Regular el Servicio de Transporte Público Colectivo, Masivo, de Taxi y Radiotaxi en el Estado de Jalisco;
+
+VI. Un representante de los usuarios del transporte público, designado por insaculación, previa convocatoria que realice el Instituto;
+
+VII. Un representante de la sociedad civil en materia de víctimas del Transporte Público, de manera rotativa anual, por invitación del Presidente;
+
+VIII. Un representante de las universidades con residencia en el Estado, cuya vocalía será de forma rotativa y anual, por invitación del Presidente;
+
+IX. Un representante de entre los concesionarios, permisionarios o subrogatarios del transporte público, por invitación del Presidente;
+
+X. El Sistema de Tren Eléctrico Urbano, a través de su Director o quien éste designe que sea del nivel jerárquico inmediato inferior;
+
+XI. El Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, a través del comisionado designado por el Pleno de dicho Instituto; y
+
+XII. El Contralor del Estado o quien éste designe que sea del nivel jerárquico inmediato inferior.
+
+El cargo de integrante del Comité Técnico de Validación es honorífico y por lo tanto no remunerado y en el caso de los servidores públicos que participan en él, éste encargo se entiende inherente a su función pública. Los particulares que integren el Comité Técnico de Validación carecen de la calidad de servidores públicos.
+
+El Comité Técnico de Validación, bajo ninguna circunstancia, puede asumir atribuciones que legalmente correspondan a las autoridades del Estado de Jalisco y sus municipios.
+
+Para sesionar válidamente, el Comité Técnico de Validación requiere la asistencia de más de la mitad de los miembros que lo integran y adoptará sus decisiones con el voto a favor de más de la mitad de sus integrantes presentes.
+
+El Presidente del Comité Técnico de Validación designará al Secretario Técnico del mismo, quien participará solo con derecho a voz y su cargo será honorífico.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 153-D.
+
+Las tarifas deberán revisarse en el cuarto trimestre de cada año y deberán ser analizadas por el Instituto de Movilidad y Transporte y validadas por el Comité Técnico de Validación.
+
+Para tal efecto, el Instituto proyectará el estudio que permita validar la actualización de la tarifa técnica así como el estudio del impacto social en las diferentes modalidades del transporte público y emitirá los dictámenes preliminar y final que correspondan.
+
+El Instituto presentará el proyecto de dictamen a la revisión del Comité Técnico, el cual emitirá sus observaciones y recomendaciones; y en una sesión posterior el Comité Técnico de Validación procederá con la validación del dictamen final presentado por el Instituto de Movilidad y Transporte.
+
+Una vez validado el dictamen técnico que contiene la tarifa y determinada la fecha del inicio de su vigencia, se remitirá la resolución del Comité Técnico de Validación a la Secretaría de Movilidad, quien a su vez la remitirá a la Secretaría General de Gobierno para que se ordene su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Las tarifas a que se refiere el párrafo anterior, regirán para todos los prestadores del servicio público de transporte según la modalidad de que se trate.
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2016)</small>
+El titular del Ejecutivo del Estado podrá implementar políticas públicas e instrumentos económicos que permitan equilibrar la diferencia entre la tarifa técnica y social, o en su caso determinar la tarifa en los términos previstos por el artículo 154 de la presente Ley.
 
-Los prestadores del servicio de transporte público con las excepciones de Ley, deberán exhibir en forma permanente y en lugares visibles, terminales, bases y demás infraestructura con acceso a los usuarios, la tarifa aprobada de acuerdo al servicio que se trata.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2016)</small>
+Los prestadores del servicio de transporte público con las excepciones de Ley, deberán exhibir en forma permanente y en lugares visibles, terminales, bases y demás infraestructura con acceso a los usuarios, la tarifa vigente de acuerdo al servicio que se trata.
 
 En el caso de las empresas de redes de transporte, deberán hacer del conocimiento del usuario del servicio de transporte las tarifas vigentes, así como establecer un sistema de cálculo de tarifas en la aplicación móvil autorizada, así como en las páginas web vinculadas a ésta, debiendo garantizar la facilidad en el acceso y operación del mismo.
 
@@ -3898,3 +3924,13 @@ SEGUNDO. La medida de seguridad relativa al retiro de la circulación de un veh�
 TERCERO. El Titular del Poder Ejecutivo deberá, durante los 60 días siguientes a la entrada en vigor del presente Decreto, emitir las modificaciones Reglamentarias que estime pertinentes.
 
 CUARTO. Los talleres acreditados dentro del actual "Programa de Verificación Vehicular Obligatorio del Estado de Jalisco", podrán participar con criterios de preferencia en la convocatoria para el otorgamiento de líneas de verificación del nuevo programa que publique el Ejecutivo del Estado, siempre que adquieran los equipos bajo la tecnología unificada que determine la Secretaría de Medio Ambiente y Desarrollo Territorial, adecúen los procedimientos de medición para la verificación de los límites de emisiones de contaminantes provenientes de los vehículos automotores, implementen la prueba dinámica en sustitución de la prueba estática, en los términos de la NOM-047-SEMARNAT-2014, y se sujeten a las condiciones y bases de la convocatoria que se emita al efecto.
+
+P.O. 17 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25924/LXI/16 QUE REFORMA LOS ARTÍCULOS 35, 94 Y 129 Y LA DENOMINACIÓN DEL CAPÍTULO XII DEL TÍTULO V, DEROGA LOS ARTÍCULOS 150, 151, 152 Y 153 Y ADICIONA LOS ARTÍCULOS 153-A, 153-B, 153-C Y 153-D DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. El Ejecutivo del Estado deberá adecuar sus reglamentos y disposiciones de carácter técnico, administrativo y normativo pertinentes.
+
+TERCERO. El Comité de (sic) Técnico de Validación en su primera sesión del presente año utilizará el catálogo autorizado por la Comisión de Tarifas que el presente decreto extingue para la fijación de las tarifas.
