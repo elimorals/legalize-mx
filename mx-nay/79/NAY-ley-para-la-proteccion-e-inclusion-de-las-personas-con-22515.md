@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-la-proteccion-e-inclusion-de-las-personas-con-22515"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-15"
-last_updated: "2016-11-08"
+last_updated: "2016-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 15 de mayo de 1996.
 
@@ -55,7 +55,9 @@ LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por finalidad, el establecimiento de medidas y acciones que contribuyan a promover, proteger y asegurar el pleno ejercicio de los derechos humanos y libertades fundamentales de las personas con discapacidad, asegurando su plena inclusión a la sociedad en un marco de respeto, igualdad y equiparación de oportunidades para el desarrollo integral de las personas que padecen algún tipo y grado de discapacidad en el Estado de Nayarit.
 
-Lo anterior de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos; los tratados internacionales en materia de protección de personas con discapacidad de los que el estado mexicano sea parte; la Ley General para la Inclusión de las Personas con Discapacidad y la Constitución Política del Estado Libre y Soberano de Nayarit.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+Lo anterior de conformidad a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos; los tratados internacionales en materia de protección de personas con discapacidad de los que el estado mexicano sea parte; la Ley General para la Inclusión de las Personas con Discapacidad; la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista y la Constitución Política del Estado Libre y Soberano de Nayarit.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -77,21 +79,25 @@ IV.- Consejo Estatal.- Consejo Estatal para las Personas con Discapacidad;
 
 V.- Igualdad de Oportunidades.- Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad una integración, convivencia y participación en igualdad de oportunidades y posibilidades con el resto de la población;
 
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-VI.- Persona con discapacidad.- Toda persona que por razón congénita o adquirida presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
+VI.- Persona con discapacidad.- Toda persona que por razón congénita o adquirida o derivado de trastornos generalizados del desarrollo presenta una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
 VII.- Prevención.- La adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, intelectuales, mentales y sensoriales;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Rehabilitación.- Proceso de duración limitada y con el objeto definido, de orden médico, social y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función, así como proporcionarle una mejor integración social, y
+VIII.- Rehabilitación.- Proceso de duración limitada y con el objeto definido, de orden médico, psicológico, social, deportivo, recreativo, ocupacional y educativo entre otros, encaminado a facilitar que una persona con discapacidad alcance un nivel físico, mental, sensorial óptimo, que permita compensar la pérdida de una función y lograr su más acelerada integración social y productiva;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IX.- UMA.- La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
+IX.- Trastornos Generalizados del Desarrollo.- Conjunto de trastornos caracterizado (sic) por deterioros cualitativos de las interacciones sociales recíprocas y de los modos de comunicación, como también por la restricción del repertorio de intereses y de actividades que se aprecia estereotipado y repetitivo afectando el funcionamiento de la persona en todas las situaciones, y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+X.- UMA.- La Unidad de Medida y Actualización considerando su valor diario en términos de la ley reglamentaria del artículo 26, Apartado B, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -159,9 +165,17 @@ V.- La facilidad de acceso y desplazamiento en el interior de los espacios labor
 
 VI.- Orientación y planificación familiar;
 
-VII.- La facilidad en el acceso a los distintos medios de comunicación y transporte y;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Los demás que establezca esta Ley, acuerden o convengan las autoridades competentes y otros ordenamientos.
+VII.- La facilidad en el acceso a los distintos medios de comunicación y transporte;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Tener un diagnóstico y una evaluación clínica temprana, precisa y accesible que incluya historial familiar, neonatal y médico-evolutivo, así como características anatómicas, y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IX.- Los demás que establezca esta Ley, acuerden o convengan las autoridades competentes y otros ordenamientos, que garanticen su integridad, dignidad, bienestar y plena integración a la sociedad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2014)</small>
 
@@ -173,9 +187,13 @@ I.- Programas de prevención;
 
 II.- Asistencia médica y rehabilitación;
 
-III.- Orientación y capacitación a la familia en su atención;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IV.- Programas de educación especial para quienes no puedan concurrir a los centros o establecimientos normales;
+III.- Orientación y capacitación que incluya a la familia, basada en criterios de integración e inclusión, mediante evaluaciones pedagógicas y terapia conductual, a fin de fortalecer la posibilidad de una vida independiente;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+IV.- Programas de educación especial para quienes no puedan concurrir a los centros o establecimientos regulares;
 
 V.- Formación, capacitación o rehabilitación laboral;
 
@@ -189,7 +207,9 @@ IX.- Facilidades urbanísticas y arquitectónicas, así como la eliminación de 
 
 X.- Programas de vialidad;
 
-XI.- Actividades deportivas, recreativas y culturales; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+XI.- Actividades deportivas, recreativas y culturales que contribuyan a su desarrollo personal, físico, mental e intelectual, y
 
 XII.- Los demás que acuerde el Consejo o sean convenidas con el Gobierno Federal.
 
@@ -201,9 +221,13 @@ XII.- Los demás que acuerde el Consejo o sean convenidas con el Gobierno Federa
 
 El gobierno del Estado por conducto del Sistema Estatal de Salud, los organismos de educación y cultura y demás que esta ley y otras disposiciones otorguen competencia, impulsará, promoverá y adoptará las medidas necesarias para prevenir de manera oportuna los diferentes tipos y grados de discapacidad en el Estado, a través de las acciones siguientes:
 
-I.- Educación para la salud física, mental y social;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-II.- Consejo genético para prevenir las enfermedades y malformaciones;
+I.- Educación y campañas de información para la salud física, mental, intelectual y social;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+II.- Consejo genético, estudios e investigaciones clínicas, científicas, tecnológicas, epidemiológicas y experimentales para prevenir las enfermedades, malformaciones o discapacidades relacionadas a los trastornos generalizados del desarrollo;
 
 III.- Atención adecuada del embarazo, parto, puerperio y del recién nacido;
 
@@ -219,7 +243,7 @@ VII.- Las demás destinadas a evitar las causas de las deficiencias y enfermedad
 
 ###### Artículo 9o.
 
-Por rehabilitación se entiende el conjunto de medidas médicas, psicológicas, sociales, deportivas, educativas, recreativas y ocupacionales, tendientes a que las personas con discapacidad puedan obtener su grado máximo de desarrollo personal y recuperación funcional, a fin de realizar actividades que les permitan valerse por sí mismos, ser útiles a su familia e integrarse a la vida social.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2016)
 
 ###### Artículo 10.
 
@@ -611,13 +635,17 @@ VII.- Proponer al Titular del Poder Ejecutivo y a los Ayuntamientos la modificac
 
 VIII.- Organizar y participar en eventos y foros de discusión y análisis relativos a la problemática de las personas con discapacidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-IX.- Presentar un informe anual de actividades al Gobernador del Estado, y
+IX.- Presentar un informe anual de actividades al Gobernador del Estado;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE MAYO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
-X.- Las demás que sean necesarias para la consecución de los fines de su creación.
+X.- Apoyar y proponer mecanismos de coordinación entre las autoridades de la federación, los particulares y los municipios con el fin de alinear y ejecutar los programas en materia de atención y protección a personas con trastornos generalizados del desarrollo, y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+XI.- Las demás que sean necesarias para la consecución de los fines de su creación.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2006)</small>
 
@@ -697,7 +725,9 @@ I.- Nombre, domicilio, edad, estado civil, sexo, grado de escolaridad y ocupaci�
 
 II.- Tipo y grado de discapacidad que presenta y si ésta es temporal o permanente;
 
-III.- Causas que motivaron la discapacidad;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016)</small>
+
+III.- Causas que motivaron la discapacidad o tipo de trastorno generalizado del desarrollo del cual se deriva;
 
 IV.- Régimen de Seguridad Social a la que pertenece o si es de población abierta;
 
@@ -868,5 +898,11 @@ Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su
 P.O. 8 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 17 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA LA PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
