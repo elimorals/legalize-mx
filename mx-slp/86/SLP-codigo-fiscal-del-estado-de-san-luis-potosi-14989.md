@@ -4,7 +4,7 @@ identifier: "SLP-codigo-fiscal-del-estado-de-san-luis-potosi-14989"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-08-05"
-last_updated: "2014-12-08"
+last_updated: "2016-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2016.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 1999.
 
@@ -1525,7 +1525,9 @@ VI. Multa de setenta y cinco a doscientos días de salario, a la prevista en la 
 
 Son infracciones relacionadas con el pago de contribuciones, las siguientes:
 
-I. No presentar las declaraciones o formularios de pago a que estén obligados conforme a las disposiciones fiscales, o presentarlos extemporáneamente, o incompletos o con errores;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2016.)</small>
+
+I. No presentar las declaraciones, comprobantes fiscales digitales por internet o formularios de pago a que estén obligados conforme a las disposiciones fiscales, o presentarlos extemporáneamente, o incompletos o con errores;
 
 II. No proporcionar a la autoridad fiscal la información necesaria para el cálculo de las contribuciones que ésta deba determinar;
 
@@ -2000,3 +2002,11 @@ Asimismo, la determinación prevista en el artículo 84 de este Ordenamiento, re
 8 DE DICIEMBRE DE 2014.
 
 ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0447.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 153, DEL CÓDIGO FISCAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
