@@ -4,7 +4,7 @@ identifier: "LPUE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-19"
-last_updated: "2016-06-08"
+last_updated: "2016-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPUE"
 
 LEY DE PUERTOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 19 de julio de 1993.
 
@@ -53,6 +53,12 @@ Los puertos, terminales e instalaciones portuarias de carácter militar, destina
 Para los efectos de esta ley, se entenderá por:
 
 I. Secretaría: La Secretaría de Comunicaciones y Transportes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+I Bis. SEMAR: La Secretaría de Marina.
 
 II. Puerto: El lugar de la costa o ribera habilitado como tal por el Ejecutivo Federal para la recepción, abrigo y atención de embarcaciones, compuesto por el recinto portuario y, en su caso, por la zona de desarrollo, así como por accesos y áreas de uso común para la navegación interna y afectas a su funcionamiento; con servicios, terminales e instalaciones, públicos y particulares, para la transferencia de bienes y transbordo de personas entre los modos de transporte que enlaza.
 
@@ -156,9 +162,13 @@ Los reglamentos de esta ley establecerán las condiciones de construcción, oper
 
 Los puertos mexicanos, en tiempo de paz, estarán abiertos a la navegación y tráfico de las embarcaciones de todos los países, pero podrá negarse la entrada cuando no exista reciprocidad con el país de la matrícula de la embarcación o cuando lo exija el interés público.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 13.
 
-La autoridad marítima, por caso fortuito o fuerza mayor, podrá declarar, en cualquier tiempo, provisional o permanentemente cerrados a la navegación determinados puertos a fin de preservar la seguridad de las personas y de los bienes.
+La SEMAR, por caso fortuito o fuerza mayor, o bien cuando existan razones de seguridad nacional o interés público, podrá declarar, en cualquier tiempo, provisional o permanentemente, parcial o totalmente cerrados a la navegación determinados puertos, a fin de preservar la integridad de las personas y la seguridad de las embarcaciones, así como de los bienes en general.
 
 ###### ARTICULO 14.
 
@@ -172,7 +182,11 @@ II. Las obras e instalaciones adquiridas o construidas por el gobierno federal c
 
 Son de utilidad pública la construcción y explotación de puertos y terminales de uso público. El Ejecutivo Federal podrá expropiar los terrenos y obras que se requieran para tales fines.
 
-### CAPITULO III. Autoridad portuaria
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO III. La SEMAR y la Secretaría
 
 ###### ARTICULO 16.
 
@@ -204,9 +218,11 @@ VI. Construir, establecer, administrar, operar y explotar obras y bienes en los 
 
 VII. Autorizar las obras marítimas y el dragado con observancia de las normas aplicables en materia ecológica;
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VIII. Establecer, en su caso, las bases de regulación tarifaria, en el caso de que en determinado puerto, sólo exista una sola terminal, o una terminal dedicada a la atención de ciertas cargas, o un sólo prestador de servicios, la Secretaría podrá solicitar la intervención de la Comisión Federal de Competencia, para tal efecto;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+VIII. Establecer, en su caso, las bases de regulación tarifaria, cuando en determinado puerto sólo exista una sola terminal o una terminal dedicada a la atención de ciertas cargas, o un sólo prestador de servicios. Para tal efecto la Secretaría podrá solicitar la intervención de la Comisión Federal de Competencia Económica;
 
 > <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2012)</small>
 
@@ -222,27 +238,13 @@ XIII. Interpretar la presente ley en el ámbito administrativo, y
 
 XIV. Ejercer las demás atribuciones que expresamente le fijen las leyes y reglamentos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE JUNIO DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 17.
 
-En cada puerto habilitado existirá una capitanía de puerto, encargada de ejercer la autoridad portuaria, a la que corresponderá:
-
-I. Autorizar los arribos y despachos de las embarcaciones;
-
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2012)</small>
-
-II. Vigilar que la navegación, atraque, permanencia de embarcaciones y los servicios de pilotaje y remolque en los puertos, se realicen en condiciones de seguridad, atendiendo a lo establecido en los criterios técnicos correspondientes;
-
-III. Supervisar que las vías navegables reúnan las condiciones de seguridad, profundidad, señalamiento marítimo y de ayudas a la navegación;
-
-IV. Coordinar las labores de auxilio y salvamento en caso de accidentes o incidentes de embarcaciones y en los recintos portuarios;
-
-V. Actuar como auxiliar del ministerio público, y
-
-VI. Las demás que las leyes y los reglamentos le confieran.
-
-Las capitanías de puerto contarán con los elementos de vigilancia e inspección que se determinen.
+En cada puerto habilitado existirá una capitanía de puerto, a la que le corresponderá las funciones que le otorga la Ley de Navegación y Comercio Marítimos.
 
 ###### ARTICULO 18.
 
@@ -252,9 +254,13 @@ La Armada de México, así como las corporaciones federales, estatales y municip
 
 Las capitanías de puerto, así como las autoridades aduanales, sanitarias, migratorias o cualquier otra que ejerza sus funciones dentro de los puertos, se coordinarán en los términos que establezca el reglamento que para tal efecto se expida.
 
-> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-ARTICULO 19 BIS.- El CUMAR es un grupo de coordinación interinstitucional entre la Secretaría de Marina y la Secretaría, para la aplicación de las medidas de Protección Marítima y Portuaria y la atención eficaz de incidentes marítimos y portuarios, que determine la Secretaría de Marina.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 19 BIS.- El CUMAR es un grupo de coordinación interinstitucional entre la SEMAR y la Secretaría, para la aplicación de las medidas de Protección Marítima y Portuaria y la atención eficaz de incidentes marítimos y portuarios, que determinen dichas dependencias en el ámbito de sus competencias.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
 La organización y funcionamiento del CUMAR se regulará en el reglamento que al efecto se expida.
 
@@ -324,9 +330,13 @@ La participación de la inversión extranjera en las actividades portuarias se r
 
 Todas las concesiones a que se refiere esta ley, así como los permisos establecidos en el párrafo segundo del artículo 20 de este ordenamiento, incluirán la prestación de los servicios portuarios correspondientes, por lo que no se requerirá de permiso específico para tal efecto.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 23.
 
-La Secretaría podrá otorgar las concesiones hasta por un plazo de 50 años, tomando en cuenta las características de los proyectos y los montos de inversión. Las concesiones podrán ser prorrogadas hasta por un plazo igual al señalado originalmente. Para tales efectos, el concesionario deberá presentar la solicitud correspondiente durante la última quinta parte del periodo original de vigencia y a más tardar un año antes de su conclusión. La Secretaría fijará los requisitos que deberán cumplirse.
+La Secretaría podrá otorgar las concesiones hasta por un plazo de cincuenta años, tomando en cuenta las características de los proyectos y los montos de inversión. Las concesiones podrán ser prorrogadas hasta por un plazo igual al señalado originalmente. Para tales efectos, el concesionario deberá presentar la solicitud correspondiente a más tardar un año antes de la conclusión de la concesión. La Secretaría fijará los requisitos que deberán cumplirse.
 
 La Secretaría contestará en definitiva las solicitudes de prórroga a que se refiere el párrafo anterior, dentro de un plazo de 120 días naturales contados a partir de la fecha de presentación de la misma.
 
@@ -590,11 +600,39 @@ I. Los usos, destinos y modos de operación previstos para las diferentes zonas 
 
 II. Las medidas y previsiones necesarias para garantizar una eficiente explotación de los espacios portuarios, su desarrollo futuro, las instalaciones para recibir las embarcaciones en navegación de altura y cabotaje, los espacios necesarios para los bienes, y los servicios portuarios necesarios para la atención de las embarcaciones y la prestación de los servicios de cabotaje.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-El programa maestro de desarrollo portuario y las modificaciones substanciales que se determinen en el reglamento de esta ley, a éste, serán elaborados por el administrador portuario, y autorizados por la Secretaría, con base en las políticas y programas para el desarrollo del sistema portuario nacional, con una visión de veinte años, revisable cada cinco años. La Secretaría deberá expedir la resolución correspondiente en un plazo máximo de 60 días hábiles, previas opiniones de las Secretarías de Marina en lo que afecta a la seguridad nacional; de Medio Ambiente y Recursos Naturales en lo que se refiere a la ecología y de impacto ambiental; de Desarrollo Social en cuanto a los aspectos de desarrollo urbano. Estas opiniones deberán emitirse en un lapso no mayor de quince días hábiles a partir de que la Secretaría las solicite, si transcurrido dicho plazo no se ha emitido la opinión respectiva, se entenderá como favorable. En el caso de modificaciones menores, los cambios sólo deberán registrarse en la Secretaría.
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+El programa maestro de desarrollo portuario y las modificaciones substanciales a éste que se determinen en el Reglamento de esta Ley, serán elaborados por el administrador portuario, y autorizados por la Secretaría, con base en las políticas y programas para el desarrollo de la infraestructura portuaria nacional, con una visión de veinte años, revisable cada cinco años.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría deberá expedir la resolución correspondiente en un plazo máximo de sesenta días hábiles. En dicho plazo la Secretaría deberá solicitar las opiniones de la SEMAR en lo que afecta a la seguridad nacional; de la Secretaría de Medio Ambiente y Recursos Naturales en lo que se refiere a la ecología y de impacto ambiental y de la Secretaría de Desarrollo Agrario, Territorial y Urbano en cuanto a los aspectos de desarrollo urbano.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+Estas opiniones deberán emitirse en un lapso no mayor de quince días hábiles a partir de que la Secretaría las solicite. Si transcurrido dicho plazo no se ha emitido la opinión respectiva, se entenderá como favorable.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+En el caso de modificaciones menores al programa maestro de desarrollo portuario, éstas sólo deberán registrarse ante la Secretaría.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 La Secretaría, con vista en el interés público, podrá modificar los usos, destinos y modos de operación previstos en el programa maestro de desarrollo portuario respecto de las diferentes zonas del puerto o grupo de ellos o terminales aún no utilizadas.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 Si dichas modificaciones causaren algún daño o perjuicio comprobable al concesionario, éste será indemnizado debidamente.
 
@@ -726,11 +764,17 @@ VII. Las quejas de los usuarios, y
 
 VIII. La coordinación que debe darse en el puerto para su eficiente funcionamiento.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 58 BIS.- La planeación del puerto se apoyará en un Comité de Planeación, que se integrará por el Administrador Portuario quien lo presidirá, por dos representantes designados por la Secretaría; un representante de los cesionarios y otro de los prestadores de servicios portuarios.
+
 > <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2012)</small>
 
-ARTICULO 58 BIS.- La planeación del puerto estará a cargo de un Comité de Planeación, que se integrará por el Administrador Portuario quien lo presidirá, por el Capitán de Puerto, un representante de la Secretaría de Medio Ambiente y Recursos Naturales y por los cesionarios o prestadores de servicios portuarios.
-
 El Comité de Planeación conocerá, entre otros asuntos, del programa maestro de desarrollo portuario y sus modificaciones; de la asignación de áreas, terminales y contratos de servicios portuarios que realice el administrador portuario; así como de cualquier asunto que afecte la operatividad de largo plazo del puerto.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2012)</small>
 
 El Comité de Planeación se reunirá por lo menos tres veces al año o en cualquier tiempo, a solicitud de cualquiera de sus integrantes y sus acuerdos se tomarán por mayoría de votos de los presentes.
 
@@ -750,9 +794,13 @@ Los administradores portuarios, de conformidad con lo que la Secretaría estable
 
 En la regulación se podrán establecer tarifas y precios máximos por el uso de bienes o la prestación de servicios específicos o conjuntos de éstos, así como mecanismos de ajuste y periodos de vigencia. Esta deberá permitir la prestación de los servicios y la explotación de los bienes en condiciones satisfactorias de calidad, competitividad y permanencia.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 62.
 
-Cuando los sujetos a regulación de precios o tarifaria consideren que no se cumplen las condiciones señaladas en el artículo anterior, podrán solicitar a la Comisión Federal de Competencia un dictamen sobre el particular. Si dicha Comisión dictamina que las condiciones de competencia hacen improcedente la regulación en todo o en parte se deberá suprimir o modificar en el sentido correspondiente, dentro de los treinta días siguientes a la expedición de la resolución.
+Cuando los sujetos a regulación de precios o tarifaria consideren que no se cumplen las condiciones señaladas en el artículo anterior, podrán solicitar a la Comisión Federal de Competencia Económica un dictamen sobre el particular. Si dicha Comisión dictamina que las condiciones de competencia hacen improcedente la regulación en todo o en parte se deberá suprimir o modificar en el sentido correspondiente, dentro de los treinta días siguientes a la expedición de la resolución.
 
 ### CAPITULO VIII. Verificación
 
@@ -768,39 +816,41 @@ La Secretaría realizará la verificación, por sí o a través de terceros, en 
 
 ### CAPITULO IX. Infracciones y sanciones
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 65.
 
-La Secretaría sancionará las infracciones a esta ley con las siguientes multas:
+La Secretaría sancionará las infracciones a esta Ley con las multas siguientes:
 
-I. No cumplir con las condiciones de construcción, operación y explotación de los puertos, terminales, marinas e instalaciones portuarias de acuerdo con lo establecido en los reglamentos, programa maestro de desarrollo portuario, título de concesión y normas oficiales mexicanas, de cinco mil a doscientos mil salarios;
+I. No cumplir con las condiciones de construcción, operación y explotación de los puertos, terminales, marinas e instalaciones portuarias de acuerdo con lo establecido en los reglamentos, programa maestro de desarrollo portuario, título de concesión y normas oficiales mexicanas, el equivalente a la cantidad de cinco mil a doscientas mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
-II. Construir, operar y explotar terminales, marinas e instalaciones portuarias sin la concesión respectiva, con cien mil salarios;
+II. Construir, operar y explotar terminales, marinas e instalaciones portuarias sin la concesión respectiva, hasta con cien mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
-III. Prestar servicios portuarios sin el permiso o contrato correspondiente, de un mil a cincuenta mil salarios;
+III. Prestar servicios portuarios sin el permiso o contrato correspondiente, el equivalente a la cantidad de un mil a cincuenta mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
-IV. Construir embarcaderos, atracaderos, botaderos y demás similares sin el permiso correspondiente, con quince mil salarios;
+IV. Construir embarcaderos, atracaderos, botaderos y demás similares sin el permiso correspondiente, hasta con quince mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
-V. Ceder totalmente los derechos y obligaciones derivados de la concesión sin la autorización de la Secretaría, con doscientos mil salarios;
+V. Ceder totalmente los derechos y obligaciones derivados de la concesión sin la autorización de la Secretaría, hasta con doscientos (sic) mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
-VI. Aplicar tarifas superiores a las autorizadas, con veinte mil salarios;
+VI. Aplicar tarifas superiores a las autorizadas, hasta con veinte mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
-VII. Efectuar modificaciones substanciales al programa maestro de desarrollo portuario sin autorización de la Secretaría, con cien mil salarios;
+VII. Efectuar modificaciones substanciales al programa maestro de desarrollo portuario sin autorización de la Secretaría, hasta con cien mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
-VIII. No presentar los informes a que se refiere el artículo 63 con tres mil salarios;
+VIII. No presentar los informes a que se refiere el artículo 63 de esta Ley, hasta con tres mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
-IX. No registrar las modificaciones menores al programa maestro de desarrollo portuario, con un mil salarios;
+IX. No registrar las modificaciones menores al programa maestro de desarrollo portuario, hasta con un mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
-X. No cumplir con lo establecido en los artículos 45 o 47, de un mil a cincuenta mil salarios;
+X. No cumplir con lo establecido en los artículos 45 o 47 de esta Ley, el equivalente a la cantidad de un mil a cincuenta mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
-XI. No cumplir con lo establecido en los artículos 46 o 53, con treinta mil salarios;
+XI. No cumplir con lo establecido en los artículos 46 o 53 de esta Ley, hasta con treinta mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción;
 
-XII. No cumplir con lo establecido en los artículos 51 o 54, de diez mil a cincuenta mil salarios, y
+XII. No cumplir con lo establecido en los artículos 51 o 54 de esta Ley, el equivalente a la cantidad de diez mil a cincuenta mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción, y
 
-XIII. Las demás infracciones a esta ley o a sus reglamentos, de cien a setenta mil salarios.
+XIII. Las demás infracciones a esta Ley o a sus reglamentos, el equivalente a la cantidad de cien a setenta mil veces el valor de la Unidad de Medida y Actualización al momento de cometerse la infracción.
 
-Para los efectos del presente artículo, por salario se entiende el salario mínimo general vigente en el Distrito Federal al momento de cometerse la infracción.
-
-En caso de reincidencia, se aplicará multa por el doble de las cantidades señaladas en este artículo.
+En caso de reincidencia se aplicará una multa por el doble de la cantidad que resulte conforme a este artículo.
 
 ###### ARTICULO 66.
 
@@ -905,3 +955,27 @@ Primero.- El presente Decreto entrará en vigor al día siguiente al de su publi
 Segundo.- Las concesiones otorgadas con anterioridad a la entrada en vigor del presente Decreto y las que estuvieren en proceso de otorgamiento antes de dicha fecha, se sujetarán a las disposiciones vigentes anteriores a este Decreto.
 
 Tercero.- El Ejecutivo Federal expedirá las disposiciones reglamentarias a que se refiere este Decreto, dentro de los ciento ochenta días hábiles posteriores a su entrada en vigor.
+
+D.O.F. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS Y DE LA LEY DE PUERTOS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- En tanto el Ejecutivo Federal expida las modificaciones a las disposiciones reglamentarias y administrativas que sean necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se opongan, las disposiciones emitidas con anterioridad a la entrada en vigor de este ordenamiento.
+
+Artículo Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
+
+Artículo Cuarto.- Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes para la ejecución de las funciones que por virtud de este Decreto cambian a la Secretaría de Marina, se transferirán a ésta a más tardar en la fecha de entrada en vigor del mismo.
+
+Las secretarías de Marina y de Comunicaciones y Transportes determinarán la distribución de los recursos humanos que se encuentren adscritos a las capitanías de puerto, atendiendo a las atribuciones que se les confieren conforme al presente Decreto.
+
+Los oficiales mayores de las secretarías de Comunicaciones y Transportes y de Marina serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la Administración Pública Federal.
+
+Artículo Quinto.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la Ley.
+
+Artículo Sexto.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionan con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última dependencia.
+
+Artículo Séptimo.- Dentro del plazo de noventa días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Comunicaciones y Transportes, a través de las Administraciones Portuarias Integrales, dispondrá de instalaciones y recursos materiales, para habilitar las oficinas de servicios a la Marina Mercante, en donde determine la propia Secretaría.
+
+Artículo Octavo.- Las menciones a la Secretaría de Comunicaciones y Transportes en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de las atribuciones que se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
