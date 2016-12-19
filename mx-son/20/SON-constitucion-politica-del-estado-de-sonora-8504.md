@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2016-11-28"
+last_updated: "2016-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 28 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2016.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -583,7 +583,7 @@ La asignación de Diputados, por el principio de representación proporcional, s
 
 > <small>(REFORMADA, B.O. 20 DE JUNIO DE 1996)</small>
 
-I. Tendrá derecho a que le sean asignados diputados por el principio de representación proporcional, todo aquel partido político que obtenga el tres porciento o más de la votación válida emitida.
+I. Tendrá derecho a que le sean asignados diputados por el principio de representación proporcional, todo aquel partido político que obtenga el tres porciento (sic) o más de la votación válida emitida.
 
 II. (DEROGADA, B.O. 20 DE JUNIO DE 1996)
 
@@ -855,7 +855,9 @@ VI. Para reclamar ante quien corresponda las leyes que se expidan o los actos qu
 
 VII. Para expedir Leyes en el Estado que fijen las bases sobre la organización y prestación de los servicios públicos de salud y de educación, así como para la capacitación y adiestramiento en el trabajo, protección a la familia, promoción a la vivienda, recreación y deporte y seguridad social.
 
-VIII. Para dictar leyes encaminadas a combatir el alcoholismo en el Estado.
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+VIII. Para dictar leyes encaminadas a combatir el alcoholismo, la drogadicción y la ludopatía en el Estado.
 
 IX. (DEROGADA, B.O. 12 DE NOVIEMBRE DE 1992)
 
@@ -945,7 +947,7 @@ La contratación de las obras o servicios a que se refiere el párrafo anterior,
 
 Para este efecto el Ejecutivo del Estado deberá presentar, previamente al Congreso del Estado, la información técnica y financiera que corresponda a cada proyecto, cuya afectación presupuestal multianual deberá ser aprobada por el voto de las dos terceras partes de los integrantes del Poder Legislativo.
 
-Tratándose de la aprobación de recursos referidos en el párrafo segundo de la presente fracción que pretendan aplicarse durante ejercicios fiscales que trasciendan el periodo constitucional de la administración en la que se pretendan aprobar, no podrán comprometerse más del treinta porciento de los recursos aprobados para el capítulo de inversiones en infraestructura para el desarrollo del ejercicio fiscal en que se tome la decisión.
+Tratándose de la aprobación de recursos referidos en el párrafo segundo de la presente fracción que pretendan aplicarse durante ejercicios fiscales que trasciendan el periodo constitucional de la administración en la que se pretendan aprobar, no podrán comprometerse más del treinta porciento (sic) de los recursos aprobados para el capítulo de inversiones en infraestructura para el desarrollo del ejercicio fiscal en que se tome la decisión.
 
 La disposición contenida en el párrafo anterior no aplica cuando se trate de afectar recursos para dos o más ejercicios fiscales dentro de un mismo periodo constitucional de gobierno.
 
@@ -989,11 +991,11 @@ XXXI. Para expedir la ley que regulará su estructura y funcionamiento internos,
 
 La ley y los reglamentos a que se refieren los párrafos anteriores no podrán ser vetados ni necesitarán la promulgación del Ejecutivo para tener vigencia.
 
-> <small>(REFORMADA, B.O.11 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2005)</small>
 
 XXXII. Para nombrar y remover, conforme a esta Constitución y a las leyes, a sus funcionarios y empleados, excluidos los del Instituto Superior de Auditoría y Fiscalización que serán nombrados por el titular de esta oficina.
 
-> <small>(REFORMADA, B.O.11 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2005)</small>
 
 XXXII Bis. Para coordinar, vigilar y evaluar el desempeño de las funciones del Instituto Superior de Auditoría y Fiscalización, sin perjuicio de su autonomía técnica y de gestión que deberá ser reconocida y respetada por todas las leyes secundarias, por medio de una Comisión de su seno en los términos que se establezcan en la legislación de la materia.
 
@@ -1107,11 +1109,11 @@ VIII. Dictaminar únicamente los asuntos cuya resolución definitiva sea de su e
 
 IX. Conceder permiso provisional al Gobernador del Estado a fin de que pueda asumir el mando inmediato y personalmente, en campaña, de la Guardia Nacional y demás fuerzas del Estado. Este permiso quedará sujeto a la aprobación del Congreso.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O.11 DE JULIO DE 2005)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2005)</small>
 
 X. Convocar al Congreso a sesiones extraordinarias cuando el Ejecutivo lo solicite.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], B.O.11 DE JULIO DE 2005)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 11 DE JULIO DE 2005)</small>
 
 XI. Las demás que expresamente le confiere esta Constitución.
 
@@ -3403,7 +3405,7 @@ Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del E
 
 B.O. 16 DE DICIEMBRE DE 2010.
 
-LEY NÚMERO 79, POR EL QUE SE REFORMAN LOS ARTÍCULOS 2°, PÁRRAFO SEGUNDO; 22, PÁRRAFOS DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SEPTIMO, DÉCIMO OCTAVO, VIGÉSIMO Y VIGÉSIMO CUARTO; 33, FRACCIÓN X; 64, FRACCIÓN XX; 70, FRACCIÓN VIII; 132, FRACCIÓN VI; 143, PÁRRAFO PRIMERO; 144, FRACCIÓN I, PÁRRAFO SEGUNDO Y 146, PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 2°, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA.
+LEY NÚMERO 79, POR EL QUE SE REFORMAN LOS ARTÍCULOS 2°, PÁRRAFO SEGUNDO; 22, PÁRRAFOS DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO, DÉCIMO OCTAVO, VIGÉSIMO Y VIGÉSIMO CUARTO; 33, FRACCIÓN X; 64, FRACCIÓN XX; 70, FRACCIÓN VIII; 132, FRACCIÓN VI; 143, PÁRRAFO PRIMERO; 144, FRACCIÓN I, PÁRRAFO SEGUNDO Y 146, PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 2°, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3620,3 +3622,13 @@ Artículo Tercero.- El Procurador General de Justicia del Estado de Sonora que s
 Artículo Cuarto.- Dentro del plazo de ciento veinte días siguientes a la entrada en vigor de la presente Ley se deberá presentar por el Titular del Ejecutivo del Estado la iniciativa de (sic) Ley Orgánica de la Fiscalía General de Justicia del Estado.
 
 Artículo Quinto.- La Secretaría de Hacienda deberá proporcionar la suficiencia presupuestal a la Fiscalía General de Justicia del Estado para su debida integración y funcionamiento.
+
+B.O. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “LEY NÚMERO 93, QUE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 64 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado, previo cómputo que se realice de la aprobación o rechazo que emitan los Ayuntamientos del Estado, a quienes se les deberá notificar los términos de la presente Ley, a fin de dar cumplimiento a lo establecido por la Constitución Política del Estado de Sonora en su artículo 163.
+
+Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el computo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
