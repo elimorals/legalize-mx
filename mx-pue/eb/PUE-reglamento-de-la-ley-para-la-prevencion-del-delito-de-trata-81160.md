@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-para-la-prevencion-del-delito-de-trata-811
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-14"
-last_updated: "2011-03-14"
+last_updated: "2016-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO DE LA LEY PARA LA PREVENCION DEL DELITO DE TRATA DE PERSONAS Y PARA LA PROTECCION Y ASISTENCIA DE SUS VICTIMAS DEL ESTADO DE PUEBLA
 
-REGLAMENTO DE LA LEY PARA LA PREVENCION DEL DELITO DE TRATA DE PERSONAS Y PARA LA PROTECCION Y ASISTENCIA DE SUS VICTIMAS DEL ESTADO DE PUEBLA
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY PARA PREVENIR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 19 DE DICIEMBRE DE 2016; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS QUINCE DÍAS HÁBILES DE SU PUBLICACIÓN.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY PARA LA PREVENCIÓN DEL DELITO DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA DE SUS VÍCTIMAS DEL ESTADO DE PUEBLA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sexta Sección del Periódico Oficial del Estado de Puebla, el lunes 14 de marzo de 2011.
 
@@ -43,7 +45,7 @@ DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DE LA LEY PARA LA PREVENCIÓN DEL DEL
 
 ###### Artículo 1.
 
-El presente ordenamiento es de interés público y de observancia general en todo el territorio del Estado y tiene por objeto fijar las acciones que en el marco de su competencia, corresponden tanto a los municipios como a las Dependencias y Entidades del Ejecutivo Estatal en términos de la Ley para la Prevención del Delito de Trata de Personas y pará la Protección y Asistencia de sus Víctimas del Estado de Puebla, así como establecer los mecanismos de coordinación para el cumplimiento de los objetivos de la misma.
+El presente ordenamiento es de interés público y de observancia general en todo el territorio del Estado y tiene por objeto fijar las acciones que en el marco de su competencia, corresponden tanto a los municipios como a las Dependencias y Entidades del Ejecutivo Estatal en términos de la Ley para la Prevención del Delito de Trata de Personas y para la Protección y Asistencia de sus Víctimas del Estado de Puebla, así como establecer los mecanismos de coordinación para el cumplimiento de los objetivos de la misma.
 
 ###### Artículo 2.
 
@@ -183,7 +185,7 @@ III.- Solicitar a los Ayuntamientos información estadística y de los procedimi
 
 IV.- Dar atención especializada a las víctimas del delito de Trata de Personas, con acciones específicas dirigidas a niños, niñas, adolescentes y mujeres;
 
-V.- Proponer y aplicar protocolos en protección y asistencia inmediata a la víctimas (sic) del delito de Trata de Personas;
+V.- Proponer y aplicar protocolos en protección y asistencia inmediata a la (sic) víctimas del delito de Trata de Personas;
 
 VI.- Operar los centros de atención a víctimas;
 
@@ -376,3 +378,15 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se derogan todas las disposiciones administrativas de igual o menor rango que se opongan al presente Reglamento.
 
 Dado en la sede del Poder Ejecutivo del Estado, a los catorce días del mes de marzo de dos mil once.- El Gobernador Constitucional del Estado Libre y Soberano de Puebla.- RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.- El Procurador General de Justicia.- VÍCTOR CARRANCÁ BOURGET.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO DE LA LEY PARA PREVENIR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Reglamento entrará en vigor a los quince días hábiles siguiente (sic) de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se abroga el Reglamento de la Ley para la Prevención del Delito de Trata de Personas y para la Protección y Asistencia de sus Víctimas del Estado de Puebla de fecha 14 de marzo de 2011.
+
+TERCERO. La reparación integral a que se refiere el presente Reglamento se brindará una vez se encuentren debidamente constituidas las instancias encargadas y de acuerdo a la disponibilidad presupuestal autorizada para tal efecto
