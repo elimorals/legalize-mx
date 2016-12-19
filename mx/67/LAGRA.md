@@ -4,7 +4,7 @@ identifier: "LAGRA"
 country: "mx"
 rank: "ley"
 publication_date: "1992-02-26"
-last_updated: "2012-04-09"
+last_updated: "2016-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAGRA"
 
 LEY AGRARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 26 de febrero de 1992.
 
@@ -314,6 +314,10 @@ IV. Las demás que señalen la ley y el reglamento interno del ejido.
 
 Los miembros del comisariado y del consejo de vigilancia, así como sus suplentes, serán electos en asamblea. El voto será secreto y el escrutinio público e inmediato. En caso de que la votación se empate, se repetirá ésta y si volviere a empatarse se asignarán los puestos por sorteo entre los individuos que hubiesen obtenido el mismo número de votos.
 
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+Las candidaturas a puestos de elección que integran el comisariado ejidal y el consejo de vigilancia, deberán integrarse por no más del sesenta por ciento de candidatos de un mismo género, pudiendo aspirar a cualquiera de los puestos indistintamente. Para las comisiones y secretarios auxiliares con que cuenta el comisariado ejidal, se procurará la integración de las mujeres.
+
 ###### Artículo 38.
 
 Para ser miembro de un comisariado o del consejo de vigilancia se requiere ser ejidatario del núcleo de población de que se trate, haber trabajado en el ejido durante los últimos seis meses, estar en pleno goce de sus derechos y no haber sido sentenciado por delito intencional que amerite pena privativa de libertad. Asimismo, deberá trabajar en el ejido mientras dure su encargo.
@@ -598,7 +602,9 @@ Para la validez de la enajenación se requiere:
 
 a) La manifestación de conformidad por escrito de las partes ante dos testigos, ratificada ante fedatario público;
 
-b) La notificación por escrito al cónyuge, concubina o concubinario y los hijos del enajenante, quienes, en ese orden, gozarán del derecho del tanto, el cual deberán ejercer dentro del término de treinta días naturales contados a partir de la notificación a cuyo vencimiento caducará tal derecho. Será aceptable para este efecto la renuncia expresada por escrito ante dos testigos e inscrita en el Registro Agrario Nacional, y
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+b) La notificación por escrito al cónyuge, concubina o concubinario y los hijos del enajenante, quienes, en ese orden, gozarán del derecho del tanto, el cual deberán ejercer dentro del término de treinta días naturales contados a partir de la notificación a cuyo vencimiento caducará tal derecho. Será aceptable para este efecto la renuncia expresada por escrito ante dos testigos e inscrita en el Registro Agrario Nacional. En caso de que se desconozca el domicilio o ubicación de las personas que gozan del derecho del tanto, se procederá en términos de lo dispuesto por el párrafo tercero del artículo 84 de esta Ley, y
 
 c) Dar aviso por escrito al comisariado ejidal.
 
@@ -864,9 +870,11 @@ DE LA PEQUEÑA PROPIEDAD INDIVIDUAL DE TIERRAS AGRICOLAS,
 
 GANADERAS Y FORESTALES
 
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 115.
 
-Para los efectos del párrafo tercero y la fracción XV del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, se consideran latifundios las superficies de tierras agrícolas, ganaderas o forestales que, siendo propiedad de un solo individuo, excedan los límites de la pequeña propiedad.
+En los Estados Unidos Mexicanos, quedan prohibidos los latifundios considerándose como tales a las superficies de tierras agrícolas, ganaderas o forestales que, siendo propiedad de un solo individuo, excedan los límites de la pequeña propiedad.
 
 ###### Artículo 116.
 
@@ -1262,11 +1270,13 @@ Los tribunales suplirán la deficiencia de las partes en sus planteamientos de d
 
 Los tribunales agrarios, además, conocerán en la vía de jurisdicción voluntaria de los asuntos no litigiosos que les sean planteados, que requieran la intervención judicial, y proveerán lo necesario para proteger los intereses de los solicitantes.
 
-> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 166.
 
-Los tribunales agrarios proveerán las diligencias precautorias necesarias para proteger a los interesados. Asimismo, podrán acordar la suspensión del acto de autoridad en materia agraria que pudiere afectarlos en tanto se resuelve en definitiva. La suspensión se regulará aplicando en lo conducente lo dispuesto en el Libro Primero, Título Segundo, Capítulo III de la Ley de Amparo.
+Los tribunales agrarios proveerán las diligencias precautorias necesarias para proteger a los interesados. Asimismo, podrán acordar la suspensión del acto de autoridad en materia agraria que pudiere afectarlos en tanto se resuelve en definitiva. La suspensión se regulará aplicando en lo conducente lo dispuesto en el Título Segundo, Capítulo I, Sección Tercera, primera parte, de la Ley de Amparo.
+
+> <small>(REFORMADO, D.O.F. 9 DE JULIO DE 1993)</small>
 
 En la aplicación de las disposiciones de ese ordenamiento para efectos de la suspensión del acto de autoridad en materia agraria, los tribunales agrarios considerarán las condiciones socioeconómicas de los interesados para el establecimiento de la garantía inherente a la reparación del daño e indemnización que pudiere causarse con la suspensión, si la sentencia no fuere favorable para el quejoso.
 
@@ -1284,7 +1294,7 @@ Cuando el tribunal agrario recibiere inhibitoria de otro en que se promueva comp
 
 ### Capítulo II. Emplazamientos
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 1993)</small>
 
 ###### Artículo 170.
 
@@ -1356,7 +1366,7 @@ Los peritos, testigos y, en general, terceros que no constituyan parte pueden se
 
 ### Capítulo III. Del Juicio Agrario
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JULIO DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE JULIO DE 1993)</small>
 
 ###### Artículo 178.
 
@@ -1410,7 +1420,7 @@ V. Si el demandado no compareciere o se rehusara a contestar las preguntas que s
 
 > <small>(REFORMADA, D.O.F. 9 DE JULIO DE 1993)</small>
 
-VI. En cualquier estado de la audiencia y en todo caso antes de pronunciar el fallo, el tribunal exhortará a las partes a una composición amigable. Si se lograra la aveniencia, se dará por terminado el juicio y se suscribirá el convenio respectivo, el que una vez calificado y, en su caso, aprobado por el tribunal, tendrá el carácter de sentencia. En caso contrario, el tribunal oirá los alegatos de las partes, para lo cual concederá el tiempo necesario a cada una y en seguida pronunciará su fallo en presencia de ellas de una manera clara y sencilla.
+VI. En cualquier estado de la audiencia y en todo caso antes de pronunciar el fallo, el tribunal exhortará a las partes a una composición amigable. Si se lograra la aveniencia (sic), se dará por terminado el juicio y se suscribirá el convenio respectivo, el que una vez calificado y, en su caso, aprobado por el tribunal, tendrá el carácter de sentencia. En caso contrario, el tribunal oirá los alegatos de las partes, para lo cual concederá el tiempo necesario a cada una y en seguida pronunciará su fallo en presencia de ellas de una manera clara y sencilla.
 
 > <small>(ADICIONADO, D.O.F. 9 DE JULIO DE 1993)</small>
 
@@ -1572,7 +1582,7 @@ México, D.F., a 23 de febrero de 1992.- Dip. María Esther Scherman Leaño, Pre
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal a los veintitrés días del mes de febrero de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 9 DE JULIO DE 1993.
 
@@ -1603,3 +1613,27 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 37 DE LA LEY AGRARIA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 166 DE LA LEY AGRARIA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 115 DE LA LEY AGRARIA”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL INCISO B) DEL ARTÍCULO 80 DE LA LEY AGRARIA”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
