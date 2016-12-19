@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2016-10-11"
+last_updated: "2016-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,17 +23,13 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. DEL 11 DE OCTUBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 135 PUBLICADA EN LA G.G. DE 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE DICIEMBRE DE 2016.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
 EL CIUDADANO GENERAL AGUSTIN MILLAN, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes, sabed, que:
 
 "La XXVI Legislatura Constitucional del Estado de México, en funciones de Constituyente, de acuerdo con el Decreto y autorización expedidos por el Ciudadano Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Unión, el veintidós de marzo y catorce de abril del año en curso, respectivamente; así como con el Decreto número cinco expedido por el Ciudadano Gobernador Preconstitucional del Estado, el dieciséis de abril de mil novecientos diecisiete, decreta la siguiente:
-
-> <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO EN EL TRANSITORIO SEXTO DEL DECRETO DE REFORMAS A LA PRESENTE CONSTITUCIÓN, PUBLICADO EN LA G.G. DE 28 DE JULIO DE 2016, TODAS LAS REFERENCIAS QUE EN LA LEGISLACIÓN, NORMATIVIDAD Y CONVENIOS SE HAGAN A LA PROCURADURÍA GENERAL DE JUSTICIA SE TENDRÁN POR HECHAS A LA FISCALÍA GENERAL DE JUSTICIA, SALVO QUE SE CONTRAPONGAN AL PRESENTE DECRETO, CASO EN EL CUAL SE ENTENDERÁN HECHAS A FAVOR DE LA DEPENDENCIA, ENTIDAD O PERSONA A LA QUE COMPETA DICHA ATRIBUCIÓN O FACULTAD.]</small>
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
@@ -256,6 +252,18 @@ El Estado garantizará a toda persona el derecho a la movilidad universal, atend
 > <small>(ADICIONADO, G.G. 14 DE DICIEMBRE DE 2015)</small>
 
 Toda persona tiene derecho al acceso a la gestión pública a través del uso de medios electrónicos. Las autoridades del Estado y los municipios en el ámbito de su competencia, tienen la obligación de promover, respetar, proteger y garantizar ese derecho, mediante el uso de las tecnologías de información en el ejercicio de la gestión pública, en los términos que disponga la Ley y en su caso el Estado deberá prevenir, investigar y sancionar los ilícitos y violaciones a este derecho.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2016)</small>
+
+El Poder Ejecutivo del Estado de México organizará el sistema penitenciario sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2016)</small>
+
+El Estado de México podrá celebrar convenios con otras entidades federativas y la Ciudad de México, para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2016)</small>
+
+El sistema integral de justicia para adolescentes del Estado de México, será aplicable a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito y tengan entre doce años cumplidos y menos de dieciocho años de edad. Este sistema garantizará los derechos humanos que reconoce la Constitución para toda persona, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos a los adolescentes. Las personas menores de doce años a quienes se atribuya que han cometido o participado en un hecho que la ley señale como delito, sólo podrán ser sujetos de asistencia social.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -4342,3 +4350,17 @@ OCTAVO. Los ingresos excedentes derivados de ingresos de libre disposición a qu
 En lo correspondiente a los ingresos excedentes derivados de ingresos de libre disposición del Estado, podrán destinarse a los rubros mencionados en el artículo 317 Bis A segundo párrafo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas; adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2018.
 
 NOVENO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en este Decreto.
+
+G.G. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 173.- POR EL QUE SE ADICIONAN TRES ÚLTIMOS PÁRRAFOS AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. La legislatura del Estado en un plazo no mayor a ciento veinte días hábiles posteriores a la entrada en vigor del presente decreto, deberá expedir la reforma integral a las leyes del estado relacionadas con el presente decreto.
+
+QUINTO. La Legislatura del Estado proveerá los recursos necesarios para la implantación del presente Decreto.
