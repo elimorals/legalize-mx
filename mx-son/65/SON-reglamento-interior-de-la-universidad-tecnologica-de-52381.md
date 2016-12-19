@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-universidad-tecnologica-de-52381"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-13"
-last_updated: "2009-11-03"
+last_updated: "2016-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE HERMOSILLO, SONORA
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE HERMOSlLLO, SONORA
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE HERMOSlLLO, SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE NOVIEMBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 13 de noviembre de 2006.
 
@@ -63,7 +63,7 @@ I. Órganos de Gobierno:
 
 - Consejo Directivo, y
 
-.- Rector;
+- Rector;
 
 II. Órganos de Apoyo y Colegiados:
 
@@ -71,7 +71,7 @@ II. Órganos de Apoyo y Colegiados:
 
 - Consejo Técnico, y
 
-> <small>(REFORMADA, B.O. 12 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
 
 III. Unidades Administrativas:
 
@@ -79,15 +79,17 @@ III. Unidades Administrativas:
 
 - Secretaría Académica;
 
--.Secretaría de Vinculación;
+- Secretaría de Vinculación;
 
 - Dirección de Extensión Universitaria;
 
 - Dirección de Administración y Finanzas;
 
-- Dirección de Planeación y Evaluación; y
+- Dirección de Planeación y Evaluación;
 
-- Dirección Jurídica.
+- Dirección Jurídica; y
+
+- Dirección de Sistemas de Información y Comunicación.
 
 ###### Artículo 4°.
 
@@ -193,7 +195,9 @@ II. Presentar ante el Consejo Directivo el proyecto de Presupuesto de Ingresos y
 
 III. Solicitar al Presidente del Consejo Directivo la celebración de sesiones extraordinarias, cuando así lo requiera;
 
-IV. Coordinar la integración y elaboración de los proyectos del Programa Operativo Anual, Programa Integral de Fortalecimiento Institucional y Presupuestos de Ingresos y Egresos;
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+IV. Coordinar la integración y elaboración de los proyectos del Programa Operativo Anual, Programa Fortalecimiento de la Calidad Educativa y Presupuestos de Ingresos y Egresos;
 
 V. Nombrar, suspender y remover libremente al personal de la Universidad;
 
@@ -287,9 +291,9 @@ I. El Rector, quien lo presidirá;
 
 II. El Secretario que será designado por el Rector, y
 
-> <small>(REFORMADA, B.O. 12 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
 
-III. Los Vocales, que serán el Secretario Académico, el Secretario de Vinculación, los Directores de Carrera, el Director de Administración y Finanzas, el Director de Extensión Universitaria, el Director de Planeación y Evaluación y el Director Jurídico.
+III. Los Vocales, serán los titulares de la Secretaría Académica, Secretaría de Vinculación, Direcciones de Carrera, Dirección de Administración y Finanzas, Dirección de Extensión Universitaria, Dirección de Planeación y Evaluación, Dirección Jurídica y Dirección de Sistemas de Información y Comunicación.
 
 ###### Artículo 25.
 
@@ -303,7 +307,9 @@ III. Conocer y analizar los planes y programas académicos, y
 
 IV. Recomendar alternativas de solución, a los problemas que afecten la disciplina y el orden de la Universidad.
 
-Este Consejo podrá auxiliarse de las Comisiones de Pertinencia que se formarán con la participación de empresarios que aporten sus conocimientos y experiencias, a fin de enriquecer el perfil y los contenidos del plan de estudios correspondiente.
+> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+Este Consejo podrá auxiliarse del Consejo de Vinculación y Pertinencia que se formará con representantes del sector gubernamental, productivo y social que aporten sus conocimientos y experiencias, a fin de enriquecer el perfil y los contenidos del plan de estudios correspondiente.
 
 ### CAPÍTULO VI. De las Atribuciones Genéricas de las Unidades Administrativas
 
@@ -333,9 +339,15 @@ VIII. Atender al público en los asuntos de la competencia de la Unidad Administ
 
 IX. Coadyuvar en el cumplimiento de la normatividad expedida en la materia para el control, organización, circulación y conservación de documentos y archivos; y
 
-> <small>(ADICIONADA, B.O. 12 DE FEBRERO DE 2009)</small>
+X. (DEROGADA, B.O. 19 DE DICIEMBRE DE 2016)
 
-X. Las demás que les confieran las distintas disposiciones legales y reglamentarias aplicables o les encomiende el Rector.
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+XI.- Proporcionar evidencia de su compromiso con el desarrollo e implementación del sistema de gestión de la calidad, así como con la mejora continua de su eficacia; y
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+XII.- Las demás que les confieran las distintas disposiciones legales y reglamentarias aplicables o les encomiende el Rector.
 
 ### CAPÍTULO VII. De las Atribuciones Específicas de las Unidades Administrativas
 
@@ -343,9 +355,13 @@ X. Las demás que les confieran las distintas disposiciones legales y reglamenta
 
 Corresponden a la Secretaría Académica las siguientes atribuciones:
 
-I. Organizar el funcionamiento de las Comisiones de Pertinencia para la elaboración y presentación de estudios y propuestas específicas;
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
 
-II. Integrar la documentación necesaria para el registro de la Universidad y adición de carreras ante la Dirección General de Profesiones, adscrita a la Secretaría de Educación Pública;
+I. Organizar el funcionamiento del Consejo de Vinculación y Pertinencia para la elaboración y presentación de estudios y propuestas específicas;
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+II. Integrar la documentación necesaria para el registro de la Universidad y adición de carreras ante la Dirección General de Profesiones, adscrita a la Secretaría de Educación Pública y entregarla a la Subdirección de Servicios Escolares para el trámite respectivo;
 
 > <small>(REFORMADA, B.O. 3 DE NOVIEMBRE DE 2009)</small>
 
@@ -367,7 +383,7 @@ X. Desarrollar, en coordinación con las Direcciones de Carrera, el programa de 
 
 XI. Desarrollar, en coordinación con las Direcciones de Carrera, el programa de evaluación y estímulos al desempeño del personal docente;
 
-XII. Dirigir la administración y control escolar de los estudiantes de la Universidad, incluyendo los procesos de admisión, inscripción, reinscripción y titulación, así como los servicios bibliotecarios y estudiantiles;
+XII. (DEROGADA, B.O. 19 DE DICIEMBRE DE 2016)
 
 XIII. Elaborar y dar seguimiento al cumplimiento de metas establecidas en el ámbito académico por el Programa Operativo Anual, en función del Plan Institucional de Desarrollo y la Agenda Estratégica de la Universidad, así como presentar el reporte de actividades relevantes que en el área se realicen;
 
@@ -377,7 +393,7 @@ XIV. Implementar, en coordinación con las Direcciones de Carrera, la actualizac
 
 XV. Presentar a la Dirección de Planeación y Evaluación la información relacionada con las actividades relevantes, así como documentar y archivar la evidencia de las mismas;
 
-XVI. Verificar el cumplimiento de las disposiciones referentes a la incorporación de los alumnos al régimen facultativo del Instituto Mexicano del Seguro Social;
+XVI. (DEROGADA, B.O. 19 DE DICIEMBRE DE 2016)
 
 XVII. Supervisar las actividades estratégicas del personal bajo su mando, y
 
@@ -395,7 +411,9 @@ II. Mantener presencia permanente dentro del sector productivo, mediante la part
 
 III. Coordinar y promover actividades de servicio externo y desarrollo tecnológico con el sector productivo;
 
-IV. Incorporar en las Comisiones de Pertinencia de los Programas Educativos, a los empresarios, industriales y profesionales del sector productivo:
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+IV. Incorporar en el Consejo de Vinculación y Pertinencia, a los empresarios, industriales y profesionales del sector productivo
 
 V. Impulsar y promover intercambios académicos con instituciones educativas nacionales y extranjeras y con organismos internacionales;
 
@@ -437,7 +455,9 @@ V. Diseñar estrategias para acercar e interesar a los estudiantes de enseñanza
 
 VI. Establecer líneas de elección que permitan evaluar el ambiente que se gesta al interior de la Universidad, en relación a alumnos y empleados;
 
-VII. Diseñar, establecer y coordinar todas aquellas actividades que permitan conformar programas con actividades extracurriculares con eficacia y eficiencia en el terreno cultural y deportivo;
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+VII. Diseñar, establecer y coordinar todas aquellas actividades que permitan conformar programas de promoción a la salud y actividades extracurriculares con eficacia y eficiencia en el terreno cultural y deportivo;
 
 VIlI. Elaborar y presentar todos aquellos reportes que le sean señalados para su cumplimiento, incluyendo los relativos al Programa Operativo Anual, el Programa Integral de Fortalecimiento Institucional, la Agenda Estratégica y Actividades Relevantes, entre otros, con base a los lineamientos y normas que le correspondan, y
 
@@ -481,13 +501,17 @@ I. Coordinar la elaboración del proyecto de Programa Operativo Anual, involucra
 
 II. Apoyar a las diferentes Unidades Administrativas de la Universidad en la elaboración de su proyecto y Programas Operativos Anuales;
 
-III. Elaborar estudios de factibilidad para la apertura de Unidades Académicas en otras ciudades del Estado;
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
 
-IV. Proponer los mecanismos que permitan coordinar y controlar los procesos informáticos y de planeación de la Universidad;
+III. Elaborar estudios de factibilidad para la apertura de nuevas Unidades Académicas.
+
+> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+IV. Proponer los mecanismos que permitan coordinar y controlar los procesos de planeación de la Universidad;
 
 V. Consolidar con el área correspondiente, los programas de trabajo que habrán de sustentar las Unidades Académicas, así como su ampliación, modificación, consolidación y liquidación;
 
-VI. Integrar y mantener actualizados los sistemas de información de la Universidad;
+VI. (DEROGADA, B.O. 19 DE DICIEMBRE DE 2016)
 
 > <small>(REFORMADA, B.O. 12 DE FEBRERO DE 2009)</small>
 
@@ -497,9 +521,27 @@ VII. Integrar e interpretar los resultados de las evaluaciones efectuadas;
 
 VIII. Proponer y coordinar nuevos proyectos estratégicos que incidan en el mejoramiento y consolidación del desarrollo institucional; y
 
-> <small>(ADICIONADA, B.O. 12 DE FEBRERO DE 2009)</small>
+IX. (DEROGADA, B.O. 19 DE DICIEMBRE DE 2016)
 
-IX. Las demás que le confieran las distintas disposiciones legales y reglamentarias aplicables o le encomiende el Rector.
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+X. Dirigir la administración y control escolar de los estudiantes de la Universidad, incluyendo los procesos de admisión, inscripción, reinscripción y titulación, así como los servicios bibliotecarios y estudiantiles;
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+XI. Verificar el cumplimiento de las disposiciones referentes a la incorporación de los alumnos al régimen facultativo del Instituto Mexicano del Seguro Social; y
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+XII. Auxiliar al Rector en las sesiones del Consejo Directivo;
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+XIII. Administrar el Sistema de Gestión de Calidad, incluyendo los procesos, auditorías internas, externas y mantenimiento del mismo; y
+
+> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+XIV. Las demás que le confieran las distintas disposiciones legales y reglamentarias aplicables o le encomiende el Rector.
 
 ###### Artículo 32.
 
@@ -513,7 +555,7 @@ III. Formular y revisar los proyectos de convenios y contratos que celebre la Un
 
 IV. Llevar el registro de los reglamentos, acuerdos, circulares, contratos, convenios y demás disposiciones de carácter legal, que se relacionen con la organización y funcionamiento de la Universidad;
 
-V. Auxiliar al Rector en las sesiones del Consejo Directivo;
+V. (DEROGADA, B.O. 19 DE DICIEMBRE DE 2016)
 
 VI. Asistir a la contratación del personal de la Universidad, elaborando y supervisando los instrumentos legales que la soporten;
 
@@ -528,6 +570,30 @@ X. Gestionar la publicación en el Boletín Oficial del Gobierno del Estado de S
 XI. Opinar en la contratación de notarios públicos o asesores jurídicos externos, cuyos servicios requiera la Universidad, y
 
 XII. Las demás que le confieran las distintas disposiciones legales y. reglamentarias aplicables o le encomiende el Rector.
+
+> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 32 Bis.
+
+Corresponden a la Dirección de Sistemas de Información y Comunicación.
+
+I. Proponer los mecanismos que permitan coordinar y controlar los procesos informáticos de la Universidad;
+
+II. Integrar y mantener actualizados los sistemas de información de la Universidad;
+
+III. Analizar el diseño, desarrollo, implantación y operación de los sistemas de información de las Unidades Administrativas de la Universidad;
+
+IV. Participar en los procedimientos de contratación y adquisición de bienes y servicios informáticos y de telecomunicaciones de la Universidad;
+
+V. Administrar y operar los servidores de cómputo, sistemas de almacenamiento central y equipos de telecomunicaciones e integrar y respaldar las bases de datos de la Universidad;
+
+VI. Brindar el soporte y mantener en óptimas condiciones los equipos informáticos y de telefonía, conectividad y recursos informáticos básicos, que garanticen una mejor ejecución de las funciones administrativas y operacionales de las distintas unidades de la Universidad;
+
+VII. Desarrollar, implementar y administrar la infraestructura de las redes de comunicación de la Universidad y los servicios relacionados con la misma;
+
+VIII. Elaborar y dar seguimiento al cumplimiento de metas establecidas en el Programa Operativo Anual; y
+
+IX. Las demás que le confieran las distintas disposiciones legales y reglamentarias aplicables o le encomiende el Rector.
 
 ### CAPÍTULO VIII. Del Control y Vigilancia
 
@@ -646,5 +712,11 @@ P.O. 12 DE FEBRERO DE 2009.
 Artículo Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 B.O. 3 DE NOVIEMBRE DE 2009.
+
+Artículo Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE HERMOSILLO”.]
 
 Artículo Único.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
