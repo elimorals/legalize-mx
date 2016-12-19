@@ -4,7 +4,7 @@ identifier: "SON-ley-sobre-el-regimen-de-propiedad-en-condominio-de-8502"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-12"
-last_updated: "1993-07-12"
+last_updated: "2016-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE SONORA
 
-LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE SONORA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 19 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE SONORA
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 19 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 12 de julio de 1993.
 
@@ -498,3 +500,33 @@ LIC. MANLIO FABIO BELTRONES RIVERA.
 EL SECRETARIO DE GOBIERNO
 
 LIC. ROBERTO SANCHEZ CEREZO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 101.- “LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley número 293, sobre el Régimen de Propiedad en Condominio de Inmuebles para el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado de Sonora, número 4, sección II, del 12 de julio de 1993.
+
+###### ARTÍCULO TERCERO.
+
+El Reglamento de la Ley de Propiedad en Condominio de Inmuebles para el Estado de Sonora, deberá expedirse en un plazo no mayor a 180 días naturales a partir del día siguiente al que entre en vigencia la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Cuando las leyes estatales o algún otro ordenamiento remitan a la Ley sobre el Régimen de Propiedad en Condominio, se entenderá que se refieren a la Ley de Propiedad en Condominio de Inmuebles para el Estado de Sonora.
+
+###### ARTÍCULO QUINTO.
+
+Los Condominios constituidos con anterioridad a la entrada en vigor de la presente Ley seguirán rigiéndose por su Escritura Constitutiva y su Reglamento, pero las modificaciones que, a partir de la vigencia de la presente Ley se den a éstos deberán ajustarse a lo previsto por esta Ley.
+
+###### ARTÍCULO SEXTO.
+
+Las autoridades competentes de los Municipios y del Estado, deberán adecuar sus reglamentos al contenido de esta Ley en un plazo no mayor a noventa días hábiles, contado a partir de la fecha de entrada en vigor de la misma.
