@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-salud-en-materia-de-293"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-14"
-last_updated: "2014-03-24"
+last_updated: "2016-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=293&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1986-04-29"
 
 REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PRESTACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -105,7 +105,7 @@ Las actividades de atención médica son:
 
 I.- PREVENTIVAS: Que incluyen las de promoción general y las de protección específica;
 
-II.- CURATIVAS: Que tienen por objeto efectuar un diagnóstico temprano de los problemas clínicos y establecer un tratamiento oportuno para resolución de los mismos; y (sic)
+II.- CURATIVAS: Que tienen por objeto efectuar un diagnóstico temprano de los problemas clínicos y establecer un tratamiento oportuno para resolución de los mismos; y
 
 > <small>(REFORMADA, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
 
@@ -743,7 +743,7 @@ ARTICULO 95 BIS 3.- Los establecimientos para la atención médica que realicen 
 
 ARTICULO 95 BIS 4.- Únicamente podrán realizar procedimientos de cirugía estética o cosmética, los médicos con título profesional y cédula de especialidad, otorgada por una autoridad competente, en una rama quirúrgica de la medicina, en términos de los artículos 78 y 81 de la Ley. Los médicos en formación podrán realizar dichos procedimientos, acompañados y supervisados por un especialista en la materia.
 
-### CAPITULO V. Disposiciones para la Prestación de Servicios de Atención Materno-lnfantil
+### CAPITULO V. Disposiciones para la Prestación de Servicios de Atención Materno-Infantil
 
 ###### ARTICULO 96.
 
@@ -815,7 +815,7 @@ El personal no profesional autorizado para la prestación de servicios de salud 
 
 ###### ARTICULO 108.
 
-Los planes y programas de los cursos de capacitación y actualización, a que se hace referencia el (sic) artículo 105 del presente Reglamento, estarán a cargo de la Secretaría y serán impartidos por la propia dependencia del Ejecutivo Federal o por las instituciones autorizadas por ella para ese efecto.
+Los planes y programas de los cursos de capacitación y actualización, a que se hace referencia (sic) el artículo 105 del presente Reglamento, estarán a cargo de la Secretaría y serán impartidos por la propia dependencia del Ejecutivo Federal o por las instituciones autorizadas por ella para ese efecto.
 
 > <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
 
@@ -891,11 +891,105 @@ IV.- En general por actos u omisiones que impliquen el incumplimiento de las obl
 
 Sólo podrán ser responsables de un hospital pediátrico los médicos especializados en pediatría con mínimo de cinco años en el ejercicio de la especialidad tendrán la obligación de tomar las medidas necesarias para disminuir la morbimortalidad perinatal, infantil, preescolar y escolar, acatando las recomendaciones que para el efecto dicten los comités nacionales respectivos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO V BIS. Disposiciones para la Atención de Urgencias Obstétricas
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 115 BIS.- El presente Capítulo tiene por objeto regular la atención médica que se debe brindar a las mujeres que presenten una Urgencia Obstétrica, solicitada de manera directa o a través de la Referencia que realice una Unidad Médica Receptora, en las Unidades Hospitalarias, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 115 BIS 1.- Para efectos del presente Capítulo, además de las definiciones previstas en este Reglamento, se entenderá por:
+
+I. Atención de la Urgencia Obstétrica: Los servicios de atención médica que deben brindarse a la mujer que presente una Urgencia Obstétrica, por el personal médico de las Unidades Hospitalarias. Dichos servicios deberán prestarse de manera inmediata, continua y de calidad, las veinticuatro horas del día, todos los días del año;
+
+II. Contrarreferencia: El procedimiento técnico administrativo, a través del cual la Unidad Hospitalaria que haya brindado la Atención de la Urgencia Obstétrica, envía a la paciente a un establecimiento de la institución de salud a la cual se encuentra afiliada, informando a dicho establecimiento las acciones realizadas, así como el diagnóstico, pronóstico y el tratamiento que se debe seguir, a fin de garantizar la continuidad e integralidad de la atención médica a la paciente;
+
+III. Referencia: El procedimiento técnico administrativo que permite la vinculación entre las instituciones de salud o entre establecimientos para la atención médica de una misma institución de salud, a fin de garantizar la continuidad e integralidad de la Atención de la Urgencia Obstétrica, mediante el envío de la paciente a una Unidad Hospitalaria de la misma u otra institución de salud, de acuerdo con los criterios y procedimientos que para tal efecto establezca la Secretaría;
+
+IV. Unidades Hospitalarias: Los establecimientos para la atención médica de las instituciones de salud, que cuentan con la capacidad, recursos e infraestructura necesarios para la Atención de las Urgencias Obstétricas;
+
+V. Unidad Médica Receptora: El establecimiento para la atención médica de cualquier institución de salud, al que acude una mujer que presenta una Urgencia Obstétrica, y
+
+VI. Urgencia Obstétrica: La complicación médica o quirúrgica que se presenta durante la gestación, parto o el puerperio, que condiciona un riesgo inminente de morbilidad o mortalidad materna y perinatal y que requiere una acción inmediata por parte del personal de salud.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 115 BIS 2.- Son entidades nosológicas que pueden generar una Urgencia Obstétrica, las siguientes:
+
+I. En cualquier momento del embarazo o el puerperio:
+
+a) Hígado graso agudo del embarazo;
+
+b) Trombosis venosa profunda en puérpera;
+
+c) Hipertiroidismo con crisis hipertiroidea, y
+
+d) Embarazo y cardiopatía II, III y IV, conforme a la Clasificación Funcional de la Insuficiencia Cardiaca de la Asociación del Corazón de Nueva York;
+
+II. Durante la primera mitad del embarazo:
+
+a) Aborto séptico, y
+
+b) Embarazo ectópico;
+
+III. Durante la segunda mitad del embarazo, con o sin trabajo de parto:
+
+a) Preeclampsia severa complicada con Síndrome de Hellp o insuficiencia renal aguda;
+
+b) Eclampsia;
+
+c) Placenta previa total con o sin sangrado activo, cualquiera que sea la edad gestacional, y
+
+d) Corioamnionitis;
+
+IV. Complicaciones posteriores al evento obstétrico o quirúrgico:
+
+a) Sepsis puerperal, variedades clínicas de la deciduomiometritis o pelviperitonitis;
+
+b) Inversión uterina que requiera reducción quirúrgica;
+
+c) Hemorragia intraabdominal posquirúrgica de cesárea o histerectomía;
+
+d) Trombosis venosa profunda de miembros pélvicos;
+
+e) Tromboembolia pulmonar, y
+
+f) Embolia de líquido amniótico, y
+
+V. Las demás que determine la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 115 BIS 3.- Las instituciones de salud deberán capacitar a su personal médico y administrativo sobre la atención prioritaria que debe brindarse en sus establecimientos para la atención médica a las pacientes que presenten una Urgencia Obstétrica y, en su caso, sobre la Referencia a una Unidad Hospitalaria, conforme a lo previsto en el presente Capítulo.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 115 BIS 4.- Las instituciones de salud deberán emitir procedimientos estandarizados que prevean mecanismos ágiles de ingreso, Referencia y Contrarreferencia de las pacientes que presenten una Urgencia Obstétrica, con base en los lineamientos que para tal efecto emita la Secretaría, a fin de garantizar la calidad de la Atención de la Urgencia Obstétrica.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 115 BIS 5.- Corresponde a la Secretaría:
+
+I. Elaborar, actualizar y difundir el listado de las Unidades Hospitalarias, con base en la información que le proporcionen las instituciones de salud que brinden servicios de Atención de las Urgencias Obstétricas;
+
+II. Definir los criterios y el procedimiento a que se sujetará la integración y actualización del listado de Unidades Hospitalarias a que se refiere la fracción anterior;
+
+III. Emitir los lineamientos para el establecimiento de procedimientos estandarizados que prevean mecanismos ágiles de ingreso, Referencia y Contrarreferencia de las pacientes que presenten una Urgencia Obstétrica a que se refiere el artículo 115 Bis 4 de este Reglamento;
+
+IV. Impulsar la celebración de instrumentos jurídicos, mediante los cuales las instituciones de salud, determinen los montos que éstas deberán pagarse derivado de la prestación de los servicios médicos que se hayan causado por la Atención de las Urgencias Obstétricas brindados a las pacientes que son derechohabientes de otra institución de salud, así como los mecanismos de pago correspondientes;
+
+V. Dar seguimiento y evaluar las acciones para la Atención de las Urgencias Obstétricas que realicen las instituciones públicas que integran el Sistema Nacional de Salud;
+
+VI. Determinar otras entidades nosológicas a las previstas en el artículo 115 Bis 2 del presente Reglamento, que deban considerarse como una causa de Urgencia Obstétrica, y
+
+VII. Las demás que sean necesarias para el cumplimiento del presente Capítulo.
+
 ### CAPITULO VI. Disposiciones Para la Prestación de Servicios Planificación Familiar
 
 > <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
-
-### CAPITULO VII. Disposiciones Para la Prestación de Servicios de Salud Mental
 
 ###### ARTICULO 116.
 
@@ -921,7 +1015,7 @@ Para la realización de salpingoclasias y vasectomías, será indispensable obte
 
 Dichas intervenciones deberán llevarse a efecto de conformidad con las normas oficiales mexicanas correspondientes.
 
-### CAPITULO VIII. Disposiciones para la Prestación de Servicios de Rehabilitación
+### CAPITULO VII. Disposiciones Para la Prestación de Servicios de Salud Mental
 
 ###### ARTICULO 121.
 
@@ -997,6 +1091,48 @@ La información personal que el enfermo mental proporcione al médico psiquiatra
 
 Los expedientes clínicos sólo serán manejados por personal autorizado.
 
+### CAPITULO VIII. Disposiciones para la Prestación de Servicios de Rehabilitación
+
+###### ARTICULO 135.
+
+Para los efectos de este Reglamento, se entiende por:
+
+I.- INVALIDEZ: La limitación en la capacidad de una persona para realizar, por sí misma, actividades necesarias para su desempeño físico, mental, social, ocupacional y económico, como consecuencia de una insuficiencia somática, psicológica o social;
+
+II.- REHABILITACION: El conjunto de medida encaminadas a mejorar la capacidad de una persona para realizar por sí misma, actividades necesarias para su desempeño físico, mental, social, ocupacional y económico, por medio de órtesis, prótesis, ayudas funcionales, cirugía reconstructiva o cualquier otro procedimiento que le permitan integrarse a la sociedad;
+
+III.- INSTITUTO DE REHABILITACION: El establecimiento médico que desempeña principalmente funciones, de investigación científica y docencia en materia de rehabilitación de inválidos;
+
+IV.- CENTRO DE REHABILITACION: El establecimiento médico que presta servicios de diagnóstico, tratamiento y adiestramiento ocupacional a inválidos;
+
+V.- UNIDAD DE REHABILITACION: La unidad que formando parte o no de un hospital, preste servicios de diagnóstico y tratamiento a inválidos, así como recuperación de deficiencias e incapacidades;
+
+VI.- CONSULTORIO DE REHABILITACION: El establecimiento que presta fundamentalmente servicios de diagnóstico y proporcione tratamientos que no requieran equipo, personal e instalaciones especiales de acuerdo con lo previsto por este Reglamento;
+
+VII.- CENTRO DE REHABILITACION OCUPACIONAL: El establecimiento que proporciona fundamentalmente adiestramiento para el trabajo o empleo a inválidos en proceso de rehabilitación o rehabilitados, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
+
+VIII.- (DEROGADA, D.O.F. 4 DE DICIEMBRE DE 2009)
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTICULO 136.
+
+Las disposiciones previstas en este Reglamento, serán aplicables a toda institución para la rehabilitación de personas con discapacidad, aun cuando se denomine, ostente o constituya bajo otra modalidad, debiendo sujetarse a las normas oficiales mexicanas que emita la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
+
+###### ARTICULO 137.
+
+En las guarderías, jardines de niños, escuelas, institutos y en general, en aquellos establecimientos, cualquiera que sea su denominación o régimen jurídico en que se lleven a cabo actividades de educación especial o rehabilitación de personas con discapacidad, se estará a lo que señalen al efecto, las normas oficiales mexicanas que emita la Secretaría.
+
+###### ARTICULO 138.
+
+Las guarderías, jardines de niños y escuelas de educación básica, promoverá actividades de detección de invalidez y los casos sospechosos, los harán del conocimiento de los padres o tutores para su adecuada atención.
+
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
+
 ### CAPÍTULO VIII BIS. Disposiciones para la Prestación de Servicios de Cuidados Paliativos
 
 > <small>(ADICIONADO, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
@@ -1048,48 +1184,6 @@ ARTICULO 138 BIS 4.- La Secretaría proporcionará la asesoría y apoyo técnico
 ARTICULO 138 BIS 5.- Los prestadores de servicios de atención médica de los sectores público, social y privado que proporcionen cuidados paliativos, deberán brindar gratuitamente dentro del establecimiento, información, orientación y motivación sobre los cuidados paliativos, de acuerdo con la normativa aplicable.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
-
-###### ARTICULO 135.
-
-Para los efectos de este Reglamento, se entiende por:
-
-I.- INVALIDEZ: La limitación en la capacidad de una persona para realizar, por sí misma, actividades necesarias para su desempeño físico, mental, social, ocupacional y económico, como consecuencia de una insuficiencia somática, psicológica o social;
-
-II.- REHABILITACION: El conjunto de medida encaminadas a mejorar la capacidad de una persona para realizar por sí misma, actividades necesarias para su desempeño físico, mental, social, ocupacional y económico, por medio de órtesis, prótesis, ayudas funcionales, cirugía reconstructiva o cualquier otro procedimiento que le permitan integrarse a la sociedad;
-
-III.- INSTITUTO DE REHABILITACION: El establecimiento médico que desempeña principalmente funciones, de investigación científica y docencia en materia de rehabilitación de inválidos;
-
-IV.- CENTRO DE REHABILITACION: El establecimiento médico que presta servicios de diagnóstico, tratamiento y adiestramiento ocupacional a inválidos;
-
-V.- UNIDAD DE REHABILITACION: La unidad que formando parte o no de un hospital, preste servicios de diagnóstico y tratamiento a inválidos, así como recuperación de deficiencias e incapacidades;
-
-VI.- CONSULTORIO DE REHABILITACION: El establecimiento que presta fundamentalmente servicios de diagnóstico y proporcione tratamientos que no requieran equipo, personal e instalaciones especiales de acuerdo con lo previsto por este Reglamento;
-
-VII.- CENTRO DE REHABILITACION OCUPACIONAL: El establecimiento que proporciona fundamentalmente adiestramiento para el trabajo o empleo a inválidos en proceso de rehabilitación o rehabilitados, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
-VIII.- (DEROGADA, D.O.F. 4 DE DICIEMBRE DE 2009)
-
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
-
-###### ARTICULO 136.
-
-Las disposiciones previstas en este Reglamento, serán aplicables a toda institución para la rehabilitación de personas con discapacidad, aun cuando se denomine, ostente o constituya bajo otra modalidad, debiendo sujetarse a las normas oficiales mexicanas que emita la Secretaría.
-
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
-
-###### ARTICULO 137.
-
-En las guarderías, jardines de niños, escuelas, institutos y en general, en aquellos establecimientos, cualquiera que sea su denominación o régimen jurídico en que se lleven a cabo actividades de educación especial o rehabilitación de personas con discapacidad, se estará a lo que señalen al efecto, las normas oficiales mexicanas que emita la Secretaría.
-
-###### ARTICULO 138.
-
-Las guarderías, jardines de niños y escuelas de educación básica, promoverá actividades de detección de invalidez y los casos sospechosos, los harán del conocimiento de los padres o tutores para su adecuada atención.
-
-> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
-
-### CAPITULO IX. Disposiciones para la prestación de los servicios auxiliares de diagnóstico y tratamiento
 
 #### SECCIÓN PRIMERA. De los Derechos de los Enfermos en Situación Terminal
 
@@ -1281,55 +1375,7 @@ III.- Las demás que le señalen las disposiciones jurídicas aplicables.
 
 ARTICULO 138 BIS 27.- En caso de que el enfermo en situación terminal decida revocar o modificar las directrices anticipadas, deberá cumplir con las mismas formalidades y requisitos que se exigieron para su suscripción.
 
-### CAPÍTULO IX BIS. De la Atención Médica a Víctimas
-
-> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
-
-ARTICULO 215 BIS 1.- El presente Capítulo tiene por objeto regular la prestación de los servicios de Atención Médica, incluyendo la atención de Emergencias Médicas, odontológicas, quirúrgicas y hospitalarias, en términos de lo dispuesto por la Ley, la Ley General de Víctimas y demás disposiciones aplicables.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
-
-ARTICULO 215 BIS 2.- Para efectos del presente Capítulo, además de las definiciones contenidas en los demás artículos de este Reglamento, se entenderá por:
-
-I. Emergencia Médica: A la urgencia médica, en términos de lo dispuesto por el artículo 72 de este Reglamento, que presenta una persona, como consecuencia de la comisión de un delito o de la violación a sus derechos humanos, y
-
-II. Víctima: La persona física que se encuentre en los supuestos del artículo 4, párrafos primero y segundo, de la Ley General de Víctimas.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
-
-ARTICULO 215 BIS 3.- Las Víctimas que hayan sufrido lesiones, enfermedades y traumas emocionales provenientes de la comisión de un delito o de la violación a sus derechos humanos, tienen el derecho de que se les restituya su salud física y mental. Para tal efecto, los Establecimientos para la Atención Médica del sector público, se encuentran obligados a brindarles servicios de Atención Médica, incluyendo la atención de Emergencias Médicas, en términos de la Ley, la Ley General de Víctimas, el presente Reglamento, las disposiciones que emita cada institución pública que preste servicios de Atención Médica y demás instrumentos jurídicos aplicables.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
-
-ARTICULO 215 BIS 4.- Los Establecimientos para la Atención Médica del sector público que brinden servicios de Atención Médica a Víctimas, incluyendo la atención de Emergencias Médicas, odontológicas, quirúrgicas y hospitalarias, deberán, conforme al modelo de atención integral en salud a que se refiere el artículo 32 de la Ley General de Víctimas, establecer los mecanismos que correspondan para garantizar la atención a aquellas Víctimas que no sean derechohabientes o beneficiarios de la institución a la que pertenezca el Establecimiento para la Atención Médica en la que brinde la Atención Médica, así como para la referencia a otros Establecimientos para la Atención Médica, cuando los servicios especializados que requiere la Víctima no puedan ser brindados por el Establecimiento en el cual se le prestan los servicios.
-
-La Atención Médica que se brinde en términos del párrafo anterior, deberá tomar en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales para la protección de Víctimas establecidos en las disposiciones aplicables y, en particular, el enfoque diferencial para las mujeres, niños, niñas, adolescentes, personas con discapacidad, adultos mayores y población indígena.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
-
-ARTICULO 215 BIS 5.- El responsable del Establecimiento para la Atención Médica que brinde servicios a una Víctima, deberá supervisar que se valore su estado de salud general, a efecto de determinar las lesiones y demás afecciones causadas por la comisión del delito o la violación de sus derechos humanos.
-
-Tratándose de Emergencia Médica, el responsable del servicio de urgencias del Establecimiento para la Atención Médica está obligado a tomar las medidas necesarias que aseguren, una vez realizada la valoración médica de la Víctima, el tratamiento completo de la Emergencia Médica o, la estabilización de sus condiciones físicas generales para que pueda ser referida a otro Establecimiento para la Atención Médica, cuando así proceda.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
-
-ARTICULO 215 BIS 6.- En caso de Emergencia Médica, los Establecimientos para la Atención Médica del sector público estarán obligados a brindar a la Víctima los servicios a que se refiere el artículo 30 de la Ley General de Víctimas, con independencia de su capacidad socioeconómica o nacionalidad y sin que puedan condicionar su prestación a la presentación de la denuncia o querella, según corresponda, sin perjuicio de que con posterioridad se les reconozca tal carácter en términos de las disposiciones aplicables.
-
-> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
-
-ARTICULO 215 BIS 7.- Para la Atención Médica y el seguimiento del estado de salud de la Víctima, el responsable del Establecimiento para la Atención Médica y el médico tratante, deberán tomar en consideración lo siguiente:
-
-I. Realizar la referencia a un Hospital de mayor resolución, en el que se puedan brindar los servicios de especialidad que requiera la Víctima hasta el final de su tratamiento.
-
-El traslado se llevará a cabo con recursos propios del Establecimiento que hace el envío. De no contarse con los medios de transporte adecuados, se utilizarán los del Establecimiento para la Atención Médica receptor.
-
-Para efectos de lo dispuesto en el párrafo primero de esta fracción, el final del tratamiento será determinado por el médico tratante a través del alta médica, la cual deberá estar fundada en un conjunto de valoraciones del estado de salud del Usuario y, en su caso, apoyada por los estudios de laboratorio y de gabinete, incluyendo los de imagen, que correspondan;
-
-II. La cita médica que solicite la Víctima deberá ser otorgada en un periodo no mayor a ocho días. Para el caso de que se trate de una Emergencia Médica, la Víctima deberá ser atendida de inmediato;
-
-III. Realizar a la Víctima los estudios de laboratorio y de gabinete, incluyendo los de imagen, que se requieran para establecer un diagnóstico adecuado y dar el seguimiento oportuno a la evolución de su estado de salud, y
-
-IV. Para el caso de servicios odontológicos reconstructivos, la Víctima deberá recibir todos los servicios que requiera por los daños causados como consecuencia del delito o la violación de sus derechos humanos.
+### CAPITULO IX. Disposiciones para la prestación de los servicios auxiliares de diagnóstico y tratamiento
 
 #### SECCION PRIMERA
 
@@ -1879,11 +1925,57 @@ V.- Instalaciones Sanitarias.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 24 DE MARZO DE 2014)</small>
 
+### CAPÍTULO IX BIS. De la Atención Médica a Víctimas
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 1.- El presente Capítulo tiene por objeto regular la prestación de los servicios de Atención Médica, incluyendo la atención de Emergencias Médicas, odontológicas, quirúrgicas y hospitalarias, en términos de lo dispuesto por la Ley, la Ley General de Víctimas y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 2.- Para efectos del presente Capítulo, además de las definiciones contenidas en los demás artículos de este Reglamento, se entenderá por:
+
+I. Emergencia Médica: A la urgencia médica, en términos de lo dispuesto por el artículo 72 de este Reglamento, que presenta una persona, como consecuencia de la comisión de un delito o de la violación a sus derechos humanos, y
+
+II. Víctima: La persona física que se encuentre en los supuestos del artículo 4, párrafos primero y segundo, de la Ley General de Víctimas.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 3.- Las Víctimas que hayan sufrido lesiones, enfermedades y traumas emocionales provenientes de la comisión de un delito o de la violación a sus derechos humanos, tienen el derecho de que se les restituya su salud física y mental. Para tal efecto, los Establecimientos para la Atención Médica del sector público, se encuentran obligados a brindarles servicios de Atención Médica, incluyendo la atención de Emergencias Médicas, en términos de la Ley, la Ley General de Víctimas, el presente Reglamento, las disposiciones que emita cada institución pública que preste servicios de Atención Médica y demás instrumentos jurídicos aplicables.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 4.- Los Establecimientos para la Atención Médica del sector público que brinden servicios de Atención Médica a Víctimas, incluyendo la atención de Emergencias Médicas, odontológicas, quirúrgicas y hospitalarias, deberán, conforme al modelo de atención integral en salud a que se refiere el artículo 32 de la Ley General de Víctimas, establecer los mecanismos que correspondan para garantizar la atención a aquellas Víctimas que no sean derechohabientes o beneficiarios de la institución a la que pertenezca el Establecimiento para la Atención Médica en la que brinde la Atención Médica, así como para la referencia a otros Establecimientos para la Atención Médica, cuando los servicios especializados que requiere la Víctima no puedan ser brindados por el Establecimiento en el cual se le prestan los servicios.
+
+La Atención Médica que se brinde en términos del párrafo anterior, deberá tomar en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales para la protección de Víctimas establecidos en las disposiciones aplicables y, en particular, el enfoque diferencial para las mujeres, niños, niñas, adolescentes, personas con discapacidad, adultos mayores y población indígena.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 5.- El responsable del Establecimiento para la Atención Médica que brinde servicios a una Víctima, deberá supervisar que se valore su estado de salud general, a efecto de determinar las lesiones y demás afecciones causadas por la comisión del delito o la violación de sus derechos humanos.
+
+Tratándose de Emergencia Médica, el responsable del servicio de urgencias del Establecimiento para la Atención Médica está obligado a tomar las medidas necesarias que aseguren, una vez realizada la valoración médica de la Víctima, el tratamiento completo de la Emergencia Médica o, la estabilización de sus condiciones físicas generales para que pueda ser referida a otro Establecimiento para la Atención Médica, cuando así proceda.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 6.- En caso de Emergencia Médica, los Establecimientos para la Atención Médica del sector público estarán obligados a brindar a la Víctima los servicios a que se refiere el artículo 30 de la Ley General de Víctimas, con independencia de su capacidad socioeconómica o nacionalidad y sin que puedan condicionar su prestación a la presentación de la denuncia o querella, según corresponda, sin perjuicio de que con posterioridad se les reconozca tal carácter en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 2014)</small>
+
+ARTICULO 215 BIS 7.- Para la Atención Médica y el seguimiento del estado de salud de la Víctima, el responsable del Establecimiento para la Atención Médica y el médico tratante, deberán tomar en consideración lo siguiente:
+
+I. Realizar la referencia a un Hospital de mayor resolución, en el que se puedan brindar los servicios de especialidad que requiera la Víctima hasta el final de su tratamiento.
+
+El traslado se llevará a cabo con recursos propios del Establecimiento que hace el envío. De no contarse con los medios de transporte adecuados, se utilizarán los del Establecimiento para la Atención Médica receptor.
+
+Para efectos de lo dispuesto en el párrafo primero de esta fracción, el final del tratamiento será determinado por el médico tratante a través del alta médica, la cual deberá estar fundada en un conjunto de valoraciones del estado de salud del Usuario y, en su caso, apoyada por los estudios de laboratorio y de gabinete, incluyendo los de imagen, que correspondan;
+
+II. La cita médica que solicite la Víctima deberá ser otorgada en un periodo no mayor a ocho días. Para el caso de que se trate de una Emergencia Médica, la Víctima deberá ser atendida de inmediato;
+
+III. Realizar a la Víctima los estudios de laboratorio y de gabinete, incluyendo los de imagen, que se requieran para establecer un diagnóstico adecuado y dar el seguimiento oportuno a la evolución de su estado de salud, y
+
+IV. Para el caso de servicios odontológicos reconstructivos, la Víctima deberá recibir todos los servicios que requiera por los daños causados como consecuencia del delito o la violación de sus derechos humanos.
+
 ### CAPITULO X. De las Autorizaciones y Revocación de las Mismas
-
-### CAPITULO XI. De la Vigilancia de la Prestación de los Servicios de Atención Médica
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 216.
 
@@ -2027,7 +2119,9 @@ La revocación de las autorizaciones a que se refiere este capítulo se ajustar�
 
 La Secretaría dispondrá de un plazo de sesenta días hábiles para resolver sobre la solicitud de autorizaciones, contado a partir de la fecha de presentación de la solicitud, o desde la fecha en la que se le proporcionen las aclaraciones o informaciones adicionales que expresamente se requieran al solicitante. Si la resolución no se dictare dentro del plazo señalado, la licencia o permiso solicitados se considerarán negados.
 
-### CAPITULO XII. De las Medidas de Seguridad y Sanciones
+### CAPITULO XI. De la Vigilancia de la Prestación de los Servicios de Atención Médica
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE NOVIEMBRE DE 2013)</small>
 
 ###### ARTICULO 233.
 
@@ -2044,6 +2138,8 @@ Las demás dependencias y entidades públicas coadyuvarán a la vigilancia del c
 ###### ARTICULO 235.
 
 El acto u omisión contrario a los preceptos de este Reglamento y a las disposiciones que de él emanen, podrá ser objeto de orientación y educación de los infractores independientemente de que se apliquen, si procedieren, las medidas de seguridad y las sanciones correspondientes.
+
+### CAPITULO XII. De las Medidas de Seguridad y Sanciones
 
 ###### ARTICULO 236.
 
@@ -2246,3 +2342,15 @@ D.O.F. 24 DE MARZO DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para tal fin a la Secretaría de Salud o entidades de la Administración Pública Federal que correspondan, por lo que no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+D.O.F. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE LA LEY GENERAL DE SALUD EN MATERIA DE PRESTACIÓN DE SERVICIOS DE ATENCIÓN MÉDICA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Secretaría de Salud emitirá los lineamientos, así como los criterios y procedimientos a que se refieren los artículos 115 Bis 4 y 115 Bis 5, fracciones II y III de este ordenamiento, dentro de los ciento veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+TERCERO. Las entidades paraestatales de la Administración Pública Federal que presten servicios de atención médica que incluyan dentro de su capacidad resolutiva las urgencias obstétricas, contarán con un plazo de noventa días hábiles a partir de la entrada en vigor del presente Decreto, para formalizar los instrumentos jurídicos a que se refiere el artículo 115 Bis 5, fracción IV de este ordenamiento, en el cual se incluirá una cláusula que permita la adhesión de instituciones públicas prestadoras de servicios de atención médica de las entidades federativas.
+
+En tanto se suscriben los instrumentos jurídicos señalados en el párrafo anterior, continuarán aplicándose las tarifas estipuladas en el Convenio General de Colaboración suscrito el 28 de mayo de 2009, por la Secretaría de Salud, el Instituto Mexicano del Seguro Social, el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al cual se adhirieron las entidades federativas por conducto de los titulares de los servicios estatales de salud y diversas instituciones prestadoras de servicios médicos.
