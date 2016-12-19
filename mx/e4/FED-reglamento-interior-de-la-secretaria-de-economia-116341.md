@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-economia-116341"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-09-09"
-last_updated: "2016-09-09"
+last_updated: "2016-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116341&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-09-07"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
 
 Reglamento, publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 9 de septiembre de 2016.
 
@@ -49,11 +49,19 @@ II. Subsecretario de Industria y Comercio;
 
 III. Subsecretario de Comercio Exterior;
 
-IV. Oficial Mayor;
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
-V. Abogado General, y
+III Bis. Subsecretario de Minería;
 
-VI. Coordinador General de Minería.
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+IV. Oficial Mayor, y
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+V. Abogado General.
+
+VI. (DEROGADA, D.O.F. 19 DE DICIEMBRE DE 2016)
 
 B. Las unidades administrativas siguientes:
 
@@ -145,7 +153,9 @@ Además, la Secretaría contará con las unidades subalternas que figuren en su 
 
 La Secretaría, por conducto de sus servidores públicos, unidades administrativas y órganos administrativos desconcentrados, realizará sus actividades de manera programada, conforme a los objetivos, principios, estrategias y prioridades contenidas en el Plan Nacional de Desarrollo, y las políticas que para el óptimo despacho de sus asuntos establezca el Presidente de los Estados Unidos Mexicanos.
 
-Las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, tendrán su sede en la Ciudad de México y ejercerán sus atribuciones en todo el territorio nacional. Lo anterior con excepción de las Delegaciones y Subdelegaciones Federales, así como las representaciones comerciales en el extranjero, cuyas atribuciones serán ejercidas dentro la circunscripción territorial que fije el Secretario mediante Acuerdos que publique en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+Los servidores públicos, las unidades administrativas y los órganos administrativos desconcentrados de la Secretaría referidos en el artículo 2 del presente Reglamento, tendrán su sede en la Ciudad de México y ejercerán sus atribuciones en todo el territorio nacional. Lo anterior con excepción de las Delegaciones y Subdelegaciones Federales, así como las representaciones comerciales en el extranjero, cuyas atribuciones serán ejercidas dentro de la circunscripción territorial que fije el Secretario mediante Acuerdos que publique en el Diario Oficial de la Federación.
 
 Las acciones de fomento, diseño de estrategias para la celebración de instrumentos internacionales, y enlace con organismos internacionales en materia de comercio exterior, previstas en el presente Reglamento, se realizarán con la participación que las disposiciones legales prevén para la Secretaría de Relaciones Exteriores.
 
@@ -159,7 +169,9 @@ La representación, trámite y resolución de los asuntos de la competencia de l
 
 Son facultades indelegables del Secretario las siguientes:
 
-I. Fijar y dirigir la política de la Secretaría, así como coordinar y evaluar las actividades de los órganos administrativos desconcentrados adscritos a la Oficina del Secretario y de las entidades paraestatales sectorizadas, en los términos de la legislación aplicable;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+I. Fijar y dirigir la política de la Secretaría;
 
 II. Acordar con el Presidente de los Estados Unidos Mexicanos, los asuntos relevantes de la Secretaría y de las entidades paraestatales sectorizadas a ésta;
 
@@ -213,6 +225,10 @@ Al frente de cada Subsecretaría habrá un Subsecretario, quien tendrá las facu
 
 I. Planear, programar, organizar, dirigir y evaluar el funcionamiento de las unidades administrativas que se le adscriban;
 
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+I Bis. Conocer la operación y evaluar los resultados de las entidades paraestatales sectorizadas, en los términos de la legislación aplicable y de conformidad con el ámbito competencial que determine para cada Subsecretaría el Secretario, mediante acuerdo que, en su caso, se publicará en el Diario Oficial de la Federación;
+
 II. Coordinar las labores encomendadas a su cargo, así como sus acciones con los demás Subsecretarios y Oficial Mayor de la Secretaría, y requerir de las delegaciones y subdelegaciones federales la colaboración necesaria para el óptimo desarrollo de sus funciones;
 
 III. Acordar con el Secretario el despacho de los asuntos encomendados a las unidades administrativas adscritas a su responsabilidad e informarle oportunamente sobre los mismos;
@@ -252,6 +268,24 @@ IV. Representar a México ante organismos y foros comerciales internacionales, c
 V. Suscribir convenios que contengan compromisos por los cuales se suspendan o terminen las investigaciones por prácticas desleales de comercio internacional o celebrar acuerdos en el marco de investigaciones de medidas de salvaguarda, respecto de procedimientos instruidos en el extranjero en contra del Gobierno de México, sin perjuicio de las atribuciones que tiene al respecto la Unidad de Prácticas Comerciales Internacionales, y
 
 VI. Fungir como enlace con las representaciones comerciales de la Secretaría en el extranjero.
+
+> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 7 BIS.- La Subsecretaría de Minería tiene las siguientes atribuciones:
+
+I. Supervisar y coordinar las actividades que en materia minera, derivan del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, así como ejercer y aplicar las atribuciones que se otorgan a la Secretaría en materia de minería en la Ley Minera, la Ley de Hidrocarburos, la Ley de la Industria Eléctrica y en las disposiciones reglamentarias que derivan de las leyes citadas, para lo cual se apoyará en el Servicio Geológico Mexicano, el Fideicomiso de Fomento Minero y Exportadora de Sal S.A. de C.V.;
+
+II. Coordinar la elaboración, formulación, seguimiento y evaluación de los programas a que se refieren los artículos 7 y 8 de la Ley Minera;
+
+III. Colaborar, en el ámbito de su competencia, en la elaboración de los programas institucionales, regionales y especiales, cuando así le instruya el Secretario;
+
+IV. Representar a la Secretaría en foros y eventos nacionales e internacionales en asuntos relativos a la minería, así como fungir como enlace con los sectores privado y académico del sector minero;
+
+V. Establecer medidas y acciones específicas que permitan el adecuado cumplimiento de políticas públicas en materia minera, así como medir y evaluar la obtención de resultados de dichas políticas;
+
+VI. Coordinar las acciones para evaluar y supervisar la obtención de resultados programáticos presupuestales de las unidades administrativas bajo su adscripción, y
+
+VII. Diseñar y proponer los esquemas de participación de la Secretaría en las actividades relacionadas con el sector minero.
 
 ### CAPÍTULO IV. De las facultades del Oficial Mayor
 
@@ -315,13 +349,19 @@ XXVII. Las demás que le señale el Secretario o le confieran otras disposicione
 
 Para los efectos de la fracción IV del párrafo anterior, habrá una coordinación administrativa para la Oficina del Secretario, una por cada Subsecretaría o equivalente, una para la Oficialía Mayor y una para la Coordinación General de Delegaciones Federales.
 
-### CAPÍTULO V. De las facultades del Abogado General y del Coordinador General de Minería
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO V. De las facultades del Abogado General
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 9.
 
-El Abogado General, además de lo dispuesto en el artículo 12 del presente Reglamento, tiene las facultades siguientes:
+Al frente de la Oficina del Abogado General estará el Abogado General quien, además de lo dispuesto en el artículo 12 del presente Reglamento, tiene las facultades siguientes:
 
-I. Asesorar jurídicamente al Secretario y a las unidades administrativas de la Secretaría y actuar como órgano de consulta de las mismas en sus actividades jurídicas, sin perjuicio de las facultades conferidas específicamente a otras unidades administrativas en este Reglamento;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+I. Asesorar jurídicamente al Secretario, a las unidades administrativas y órganos administrativos desconcentrados de la Secretaría, coordinar y participar en las actividades jurídicas de las propias unidades administrativas de la misma, sin perjuicio de las facultades conferidas específicamente a otras unidades administrativas en este Reglamento, así como ser auxiliar en los asuntos jurídicos de los órganos administrativos desconcentrados y del sector coordinado cuando éste lo solicite; y actuar como órgano de consulta de las entidades del sector;
 
 II. Coordinar la formulación y revisión de los proyectos de iniciativas de leyes o decretos legislativos, así como de los reglamentos, decretos, acuerdos y demás disposiciones de observancia general en las materias competencia de la Secretaría y del sector coordinado por ésta;
 
@@ -331,7 +371,9 @@ IV. Tramitar ante el Diario Oficial de la Federación la publicación de las dis
 
 V. Determinar el criterio de la Secretaría cuando dos o más de sus unidades administrativas, sus órganos administrativos desconcentrados, dos o más entidades paraestatales sectorizadas a ésta, en su caso, entre unas y otras, se pronuncien o emitan criterios contradictorios en cuestiones jurídicas y actuar en la solución de las mismas;
 
-VI. Interpretar para efectos administrativos las disposiciones jurídicas en las materias competencia de la Secretaría, así como establecer criterios generales de observancia obligatoria para las unidades administrativas de la misma Dependencia;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+VI. Interpretar para efectos administrativos las disposiciones jurídicas en las materias competencia de la Secretaría y de su sector coordinado, así como establecer criterios generales de observancia obligatoria para las unidades administrativas y órganos administrativos desconcentrados de la misma Dependencia;
 
 VII. Representar al Presidente de la República en todos los trámites establecidos por la Ley de Amparo, Reglamentaria de los Artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, en aquellos asuntos que corresponda a la Secretaría representar al Titular del Ejecutivo Federal, en términos del segundo párrafo del artículo 9 de la citada Ley, así como intervenir en las controversias constitucionales y en las acciones de inconstitucionalidad en las que el Secretario de Economía represente al Presidente de la República;
 
@@ -387,31 +429,7 @@ El Abogado General será auxiliado en el ejercicio de sus facultades por el Dire
 
 ###### ARTÍCULO 10.
 
-El Coordinador General de Minería, además de lo dispuesto en el artículo 12 del presente Reglamento, tiene las facultades siguientes:
-
-I. Supervisar y coordinar las actividades que en materia minera deriven del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y aplicar, en el ámbito de competencia de la Secretaría, la Ley Minera, la Ley de Hidrocarburos, la Ley de la Industria Eléctrica, así como sus respectivos Reglamentos y demás disposiciones administrativas, auxiliándose del Servicio Geológico Mexicano y del Fideicomiso de Fomento Minero;
-
-II. Coordinar la elaboración, seguimiento, evaluación y, en su caso, modificación del programa sectorial en materia minera de conformidad con los ordenamientos jurídicos aplicables, así como participar en la elaboración de los programas regionales y especiales que determine el Ejecutivo Federal en la materia;
-
-III. Coordinar a las entidades paraestatales, Servicio Geológico Mexicano, Fideicomiso de Fomento Minero y Exportadora de Sal S.A. de C.V., así como a las Direcciones Generales de Minas y de Desarrollo Minero, para la implementación de las acciones relacionadas con la planeación estratégica de la política minera y el programa sectorial, en el ámbito de su competencia;
-
-IV. Participar en foros y eventos nacionales e internacionales en asuntos relativos a la minería, así como fungir como enlace con los sectores privado y académico del sector minero;
-
-V. Participar en la formulación de proyectos de iniciativas de leyes o decretos legislativos, reglamentos, decretos y acuerdos relacionados con la minería;
-
-VI. Establecer en coordinación con la Coordinación General de Delegaciones Federales, los mecanismos de colaboración necesarios con las delegaciones y subdelegaciones federales en materia minera;
-
-VII. Coordinar el estudio y desarrollo de propuestas de indicadores de gestión y desempeño que permitan medir el cumplimiento de políticas públicas en materia minera y obtención de resultados de las unidades administrativas de su adscripción, así como las de las entidades paraestatales bajo su coordinación;
-
-VIII. Coordinar las acciones para evaluar y supervisar el nivel de cumplimiento de las políticas públicas en materia minera, de las disposiciones legales aplicables y de la obtención de resultados programáticos presupuestales de las unidades administrativas bajo su adscripción y de las entidades paraestatales que coordina;
-
-IX. Solicitar a las entidades paraestatales referidas en la fracción III del presente artículo, la información y documentación necesaria a efecto de conocer el desempeño y gestión administrativa, presupuestal y financiera de dichas entidades;
-
-X. Ejercer de manera directa, cuando lo estime conveniente, las atribuciones que este Reglamento otorga a las unidades administrativas bajo su adscripción, y
-
-XI. Las demás que le señale su superior jerárquico o le confieran otras disposiciones jurídicas en materia minera.
-
-El Coordinador General de Minería será auxiliado en el ejercicio de sus facultades por los Directores Generales de Minas, y de Desarrollo Minero, y el Director General Adjunto de Evaluación y Seguimiento del Sector Coordinado.
+(DEROGADO, D.O.F. 19 DE DICIEMBRE DE 2016)
 
 ### CAPÍTULO VI. De las atribuciones de las unidades administrativas
 
@@ -1239,7 +1257,9 @@ XVII. Llevar a cabo todas las acciones necesarias para la debida coordinación c
 
 XVIII. Participar con las autoridades competentes, para determinar si en la superficie donde se encuentra el lote minero concesionado pueden coexistir las actividades mineras con las actividades preferentes de exploración y extracción de petróleo y demás hidrocarburos, o con las del servicio público de transmisión y distribución de energía eléctrica, así como si existe afectación a los derechos de una concesión minera donde se pretendan realizar las actividades preferentes a las que hace referencia esta fracción, y
 
-XIX. Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que le encomiende el Secretario.
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+XIX. Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que le encomienden sus superiores jerárquicos.
 
 La Dirección General de Minas estará a cargo de un Director General, auxiliado en el ejercicio de sus facultades, por los Directores de Control Documental e Indicadores Estratégicos; de Cartografía y Concesiones Mineras; del Registro Público de Minería y Derechos Mineros, y de Revisión de Obligaciones; por los Subdirectores de Control Documental; de Estadística; de Concesiones y Asignaciones; de Cartografía Minera; del Registro Público de Minería; de Control de Obligaciones; de Medio Ambiente, y de Derechos Mineros, y por los Jefes de los Departamentos de Asesoría Geológica; de Dictaminación; de Inscripciones; de Cartografía; de Concesiones de Exploración; de Registro de Obligaciones; de Agrupamientos y Desistimientos; de Control Documental, y de Verificación de Obligaciones.
 
@@ -1249,7 +1269,9 @@ Asimismo, se auxiliará en el ejercicio de sus facultades por los titulares de l
 
 La Dirección General de Desarrollo Minero tiene las atribuciones siguientes:
 
-I. Desarrollar, instrumentar y proponer a la Coordinación General de Minería políticas, estrategias y programas tendientes a fomentar la actividad minera e incentivar la inversión nacional y extranjera en el sector minero, en coordinación con otras unidades administrativas de la Secretaría y con las entidades del sector coordinado en materia minera;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+I. Desarrollar, instrumentar y proponer a su superior jerárquico políticas, estrategias y programas tendientes a fomentar la actividad minera e incentivar la inversión nacional y extranjera en el sector minero, en coordinación con otras unidades administrativas de la Secretaría y con las entidades del sector coordinado en materia minera;
 
 II. Promover el desarrollo del sector minero en coordinación con autoridades de los tres órdenes de gobierno, y con la concertación de las confederaciones y cámaras previstas en la Ley de Cámaras Empresariales y sus Confederaciones, asociaciones u organismos nacionales e internacionales;
 
@@ -1269,9 +1291,17 @@ IX. Identificar, evaluar y promover proyectos mineros específicos entre inversi
 
 X. Brindar orientación al inversionista, atender las consultas del sector y coadyuvar con los tres órdenes de gobierno con la finalidad de apoyar al desarrollo de los proyectos mineros;
 
-XI. Proponer a la Coordinación General de Minería medidas de fomento y desarrollo de la actividad minera nacional, a fin de promover la exploración, explotación, y beneficio de los recursos minerales de la Nación, y
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
-XII. Participar, en el ámbito de su competencia, con otras dependencias y entidades de la Administración Pública Federal en el análisis, revisión, formulación, evaluación y seguimiento de disposiciones que promuevan una minería sustentable.
+XI. Proponer a su superior jerárquico medidas de fomento y desarrollo de la actividad minera nacional, a fin de promover la exploración, explotación, y beneficio de los recursos minerales de la Nación;
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+XII. Participar, en el ámbito de su competencia, con otras dependencias y entidades de la Administración Pública Federal en el análisis, revisión, formulación, evaluación y seguimiento de disposiciones que promuevan una minería sustentable, y
+
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+XIII. Las demás que le confieran otras disposiciones jurídicas en el ámbito de su competencia, así como aquellas funciones que le encomienden sus superiores jerárquicos.
 
 La Dirección General de Desarrollo Minero estará a cargo de un Director General, auxiliado en el ejercicio de sus facultades por los Directores de Proyectos y Asuntos Internacionales; Enlace Estatal, y Análisis e Información.
 
@@ -1785,15 +1815,19 @@ Las ausencias de los titulares del Órgano Interno de Control, de las áreas de 
 
 ### CAPÍTULO IX. De la suplencia de los servidores públicos de la Secretaría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 58.
 
-El Secretario será suplido en sus ausencias por el Subsecretario de Competitividad y Normatividad, el Subsecretario de Industria y Comercio, el Subsecretario de Comercio Exterior, el Oficial Mayor y por el Abogado General, en el orden indicado.
+El Secretario será suplido en sus ausencias por el Subsecretario de Competitividad y Normatividad, el Subsecretario de Industria y Comercio, el Subsecretario de Comercio Exterior, el Subsecretario de Minería, el Oficial Mayor y por el Abogado General, en el orden indicado.
 
 Las ausencias de los Subsecretarios o del Oficial Mayor serán suplidas por los titulares de las unidades administrativas que les sean adscritas, en el ámbito de sus respectivas competencias o, en su caso, por el servidor público que éstos designen.
 
 Las ausencias del Abogado General, serán suplidas por el Director General Adjunto de lo Contencioso y por el Director de Asuntos Contenciosos, en el orden indicado.
 
-Las ausencias de los titulares de las coordinaciones generales, de las unidades y direcciones generales previstos en el artículo 2 de este Reglamento, de la Sección Mexicana del Secretariado de los Tratados Comerciales, así como de los directores generales adjuntos, directores y subdirectores de área, jefes de departamento, y demás servidores públicos que se precisan en el Manual de Organización General de la Secretaría, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+Las ausencias de los titulares de las coordinaciones generales, de las unidades y direcciones generales, de la Sección Mexicana del Secretariado de los Tratados Comerciales, así como de los directores generales adjuntos, directores y subdirectores de área, jefes de departamento, y demás servidores públicos que se precisan en el Manual de Organización General de la Secretaría, serán suplidas por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias.
 
 ###### ARTÍCULO 59.
 
@@ -1923,7 +1957,9 @@ V. Asesorar al Instituto cuando así lo solicite su Presidente, respecto de la c
 
 VI. Hacer recomendaciones con base en los resultados de las acciones orientadas al desarrollo de las micro, pequeñas y medianas empresas y de los emprendedores.
 
-El Consejo estará integrado por el Secretario, quien lo presidirá, el Subsecretario de Competitividad y Normatividad, el Subsecretario de Industria y Comercio, el Subsecretario de Comercio Exterior, el Oficial Mayor y el Abogado General, quienes tendrán derecho de voz y voto. Los miembros podrán ser suplidos por el servidor público con nivel jerárquico inmediato inferior.
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+El Consejo estará integrado por el Secretario, quien lo presidirá, el Subsecretario de Competitividad y Normatividad, el Subsecretario de Industria y Comercio, el Subsecretario de Comercio Exterior, el Subsecretario de Minería, el Oficial Mayor y el Abogado General, quienes tendrán derecho de voz y voto. Los miembros podrán ser suplidos por el servidor público con nivel jerárquico inmediato inferior.
 
 El Consejo Consultivo contará con un Secretariado Técnico, el cual estará a cargo del Presidente del Instituto.
 
@@ -1948,3 +1984,15 @@ CUARTO.- Las modificaciones a la estructura orgánica de la Secretaría de Econo
 QUINTO.- Las atribuciones y referencias previstas en el Reglamento que se abroga y en otras disposiciones administrativas respecto de las unidades administrativas Coordinación General de Minería, Unidad de Asuntos Jurídicos, Unidad de Diseño e Implementación de Políticas Públicas para la Productividad, Secretariado Técnico de la Competitividad, Dirección General de Regulación Minera y Dirección General de Defensa para PYMES y Emprendedores se entenderán hechas al Coordinador General de Minería, al Abogado General, a la Unidad de Competencia y Políticas Públicas para la eficiencia de los mercados, a la Unidad de Competitividad, a la Dirección General de Minas y a la Dirección General de Atención a MIPYMES y Emprendedores, respectivamente.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, a siete de septiembre de dos mil dieciséis.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE ECONOMÍA".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las modificaciones a la estructura orgánica de la Secretaría de Economía que deriven de la entrada en vigor del presente Decreto serán realizadas mediante movimientos compensados, por lo que no aumentará el presupuesto regularizable de la Dependencia.
+
+TERCERO.- Las atribuciones y referencias previstas en otras disposiciones administrativas respecto de la Coordinación General de Minería, se entenderán hechas a la Subsecretaría de Minería.
