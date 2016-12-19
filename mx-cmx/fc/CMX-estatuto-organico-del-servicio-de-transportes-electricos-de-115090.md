@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-servicio-de-transportes-electricos-de-115
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-06-13"
-last_updated: "2016-06-13"
+last_updated: "2016-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115090&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2016-05-20"
 ---
 # ESTATUTO ORGANICO DEL SERVICIO DE TRANSPORTES ELECTRICOS DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 19 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE DICIEMBRE DE 2016. (DEROGADA)
 
 Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el lunes 13 de junio de 2016.
 
@@ -784,7 +786,7 @@ XXII. Coordinar, con la Gerencia de Recursos Materiales, la disponibilidad de pa
 
 XXIII. Participar en los procesos de contratación de servicios y/o adquisición de refacciones para el mantenimiento de los componentes mecánicos, eléctricos y electrónicos del material rodante, a fin de garantizar que cumplan con las especificaciones requeridas para el adecuado desarrollo de los trabajos de mantenimiento;
 
-XXIV. Evaluar periódicamente el desempeño del área e implementar acciones de mejora continúa a fin de optimizar los recursos existentes;
+XXIV. Evaluar periódicamente el desempeño del área e implementar acciones de mejora continua a fin de optimizar los recursos existentes;
 
 XXV. Verificar el cumplimiento de las actividades de Mantenimiento Preventivo y Correctivo al material rodante, para el mejoramiento de su operación de acuerdo a los procedimientos existentes para tal fin.
 
@@ -1022,7 +1024,7 @@ X. Realizar las afectaciones Programáticas-presupuestales, previa consulta con 
 
 XI. Presidir el Comité de Enajenación de Bienes Muebles e Inmuebles, así como el Comité Técnico de Administración de Documentos y fungir como Secretario Ejecutivo del Subcomité de Adquisiciones, Arrendamientos y Prestación de Servicios, acorde a la normatividad establecida;
 
-XII. Suscribir las pólizas-cheque que le presenten para firma, debidamente autorizadas por el titular de la Gerencia de Finanzas, por los pagos derivados de los compromisos establecidos por la adquisición de bienes, materiales, servicios ú obra pública, contratados para tal efecto por el Organismo;
+XII. Suscribir las pólizas-cheque que le presenten para firma, debidamente autorizadas por el titular de la Gerencia de Finanzas, por los pagos derivados de los compromisos establecidos por la adquisición de bienes, materiales, servicios u obra pública, contratados para tal efecto por el Organismo;
 
 XIII. Suscribir los contratos o convenios de adquisición de bienes, prestación de servicios, obra pública u órdenes de trabajo, que le presenten para firma debidamente validados por los titulares de las Gerencias de Recursos Materiales y/o Mantenimiento y Servicios y/o Ingeniería;
 
@@ -1435,3 +1437,17 @@ No. I-25-09 de fecha 5 de marzo de 2009
 C. RUBÉN EDUARDO VENADERO MEDINILLA
 
 DIRECTOR GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Las modificaciones al presente Estatuto Orgánico entrarán en vigor a partir del día siguiente a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se derogan las disposiciones contenidas en el Estatuto Orgánico del Servicio de Transportes Eléctricos de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el día 13 de junio de 2016.
+
+TERCERO. El Director General deberá revisar el presente Estatuto, y en su caso, someter las modificaciones que procedan a la consideración del Consejo de Administración para su debida observancia y cumplimiento.
+
+CUARTO. A partir de la entrada en vigor del presente Estatuto, las menciones contenidas en los actos jurídicos en los que el Organismo sea parte, las leyes, reglamentos y disposiciones de cualquier naturaleza, respecto a la denominación del Servicio de Transportes Eléctricos del Distrito Federal, se entenderán referidas como Servicio de Transportes Eléctricos de la Ciudad de México.
