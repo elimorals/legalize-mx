@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2016-07-18"
+last_updated: "2016-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -35,8 +35,6 @@ Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 DECRETO
 
 "El Congreso de los Estados Unidos Mexicanos, decreta:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
@@ -604,17 +602,19 @@ b. Vigilancia de las zonas marinas mexicanas, sin perjuicio de las atribuciones 
 
 c. Las medidas y competencias que le otorguen los ordenamientos legales y los instrumentos internacionales de los que México sea parte, en la Zona Contigua y en la Zona Económica Exclusiva;
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-V.- Ejercer la autoridad en las zonas marinas mexicanas en materia de:
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
-a) Cumplimento del orden jurídico nacional;
+V.- Ejercer la autoridad en las zonas marinas mexicanas, en las materias siguientes:
 
-b) Búsqueda y rescate para la salvaguarda de la vida humana en la mar;
+a) Cumplimiento del orden jurídico nacional en las materias de su competencia;
+
+b) Seguridad marítima, salvamento en caso de accidentes o incidentes de embarcaciones y búsqueda y rescate para salvaguardar la vida humana en la mar y el control de tráfico marítimo;
 
 c) Vertimiento de desechos y otras materias al mar distintas al de aguas residuales, y
 
-d) Protección marítima y portuaria en coordinación con la Secretaría de Comunicaciones y Transportes, en los términos que fijan los tratados internacionales y las leyes de la materia;
+d) Protección marítima y portuaria, en los términos que fijan los tratados internacionales y las leyes de la materia, sin perjuicio de las atribuciones que correspondan a otras dependencias de la Administración Pública Federal;
 
 VI.- Dirigir la educación pública naval;
 
@@ -625,6 +625,18 @@ VII.- Ejercer funciones de policía marítima para mantener el estado de derecho
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
 VII Bis.- Establecer y dirigir el Servicio de Búsqueda y Rescate para la salvaguarda de la vida humana en la mar;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+VII Ter.- Regular, vigilar la seguridad de la navegación y la vida humana en el mar y supervisar a la marina mercante;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+VII Quáter.- Administrar y operar el señalamiento marítimo, así como proporcionar los servicios de información y seguridad para la navegación marítima;
 
 VIII.- Inspeccionar los servicios de la Armada;
 
@@ -660,9 +672,11 @@ XVIII.- Integrar el archivo de información oceanográfica nacional, y
 
 XIX.- Celebrar acuerdos en el ámbito de su competencia con otras dependencias e instituciones nacionales o extranjeras, en los términos de los tratados internacionales y conforme a la legislación vigente;
 
-> <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XX.- Ejercer acciones para llevar a cabo la defensa y seguridad nacionales en el ámbito de su responsabilidad, así como coordinar con las autoridades competentes nacionales el control del tráfico marítimo cuando las circunstancias así lo lleguen a requerir, de acuerdo con los instrumentos jurídicos internacionales y la legislación nacional;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+XX.- Ejercer acciones para llevar a cabo la defensa y seguridad nacionales en el ámbito de su responsabilidad, en términos de las disposiciones jurídicas aplicables;
 
 > <small>(ADICIONADA, D.O.F. 4 DE MAYO DE 2006)</small>
 
@@ -1498,7 +1512,11 @@ XXXVIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 A la Secretaría de Comunicaciones y Transportes corresponde el despacho de los siguientes asuntos:
 
-I.- Formular y conducir las políticas y programas para el desarrollo del transporte y las comunicaciones de acuerdo a las necesidades del país;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+I.- Formular y conducir las políticas y programas para el desarrollo del transporte, con la intervención que las leyes otorgan a la Secretaría de Marina respecto al transporte por agua, así como de las comunicaciones, de acuerdo a las necesidades del país;
 
 > <small>(ADICIONADA, D.O.F. 14 DE JULIO DE 2014)</small>
 
@@ -1538,11 +1556,17 @@ XV.- Establecer los requisitos que deban satisfacer el personal técnico de la a
 
 XVI.- Regular las comunicaciones y transportes por agua;
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XVII. Inspeccionar los servicios de la marina mercante, así como coordinarse con la Secretaría de Marina en la aplicación de las medidas en materia de Protección Marítima y Portuaria;
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
-XVIII.- Construir, reconstruir y conservar las obras marítimas, portuarias y de dragado, instalar el señalamiento marítimo y proporcionar los servicios de información y seguridad para la navegación marítima;
+XVII.- Participar con la Secretaría de Marina en la aplicación de las medidas en materia de seguridad y protección marítima;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+XVIII.- Construir, reconstruir y conservar las obras marítimas, portuarias y de dragado;
 
 XIX.- Adjudicar y otorgar contratos, concesiones y permisos para el establecimiento y explotación de servicios relacionados con las comunicaciones por agua; así como coordinar en los puertos marítimos y fluviales las actividades y servicios marítimos y portuarios, los medios de transporte que operen en ellos y los servicios principales, auxiliares y conexos de las vías generales de comunicación para su eficiente operación y funcionamiento, salvo los asignados a la Secretaría de Marina;
 
@@ -3075,3 +3099,27 @@ La Secretaría de Hacienda y Crédito Público podrá dictar los lineamientos y 
 Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias que, respectivamente, adquieren tales funciones, de manera enunciativa, las contenidas en la Ley General de Bienes Nacionales.
 
 Los programas aprobados en el Presupuesto de Egresos de la Federación para el ejercicio fiscal 2016 continuarán siendo ejecutados hasta el final de dicho ejercicio por las dependencias que hayan mantenido o a las que les hayan sido transferidas las atribuciones y unidades administrativas u organismos desconcentrados relacionadas con dichos programas.
+
+D.O.F. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS Y DE LA LEY DE PUERTOS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- En tanto el Ejecutivo Federal expida las modificaciones a las disposiciones reglamentarias y administrativas que sean necesarias para ejecutar el presente Decreto, se seguirán aplicando, en lo que no se opongan, las disposiciones emitidas con anterioridad a la entrada en vigor de este ordenamiento.
+
+Artículo Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado a la Secretaría de Marina y a la Secretaría de Comunicaciones y Transportes, según corresponda.
+
+Artículo Cuarto.- Los recursos humanos, financieros y materiales con que cuenta la Secretaría de Comunicaciones y Transportes para la ejecución de las funciones que por virtud de este Decreto cambian a la Secretaría de Marina, se transferirán a ésta a más tardar en la fecha de entrada en vigor del mismo.
+
+Las secretarías de Marina y de Comunicaciones y Transportes determinarán la distribución de los recursos humanos que se encuentren adscritos a las capitanías de puerto, atendiendo a las atribuciones que se les confieren conforme al presente Decreto.
+
+Los oficiales mayores de las secretarías de Comunicaciones y Transportes y de Marina serán responsables del proceso de transferencia de los recursos a que se refiere este transitorio, por lo que proveerán y acordarán lo necesario para tal efecto, sin perjuicio de las atribuciones que corresponden a otras dependencias de la Administración Pública Federal.
+
+Artículo Quinto.- Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la Ley.
+
+Artículo Sexto.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite en la Secretaría de Comunicaciones y Transportes, y se relacionan con las atribuciones que se confieren a la Secretaría de Marina por virtud de dicho ordenamiento, serán atendidos y resueltos por esta última dependencia.
+
+Artículo Séptimo.- Dentro del plazo de noventa días siguientes a la entrada en vigor del presente Decreto, la Secretaría de Comunicaciones y Transportes, a través de las Administraciones Portuarias Integrales, dispondrá de instalaciones y recursos materiales, para habilitar las oficinas de servicios a la Marina Mercante, en donde determine la propia Secretaría.
+
+Artículo Octavo.- Las menciones a la Secretaría de Comunicaciones y Transportes en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas respecto de las atribuciones que se transfieren por virtud del presente ordenamiento a la Secretaría de Marina, se entenderán referidas a esta última dependencia.
