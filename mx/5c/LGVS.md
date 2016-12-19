@@ -4,7 +4,7 @@ identifier: "LGVS"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-07-03"
-last_updated: "2016-05-13"
+last_updated: "2016-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16446&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGVS"
 
 LEY GENERAL DE VIDA SILVESTRE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 3 de julio de 2000.
 
@@ -1612,15 +1612,21 @@ La Secretaría podrá solicitar a instituciones de educación superior, centros 
 
 La imposición de las multas a que se refiere el artículo 123 de la presente Ley, se determinará conforme a los siguientes criterios:
 
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
-I. Con el equivalente de 20 a 5000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones XII, XVII, XXI y XXIII del artículo 122 de la presente Ley, y
+I. Con el equivalente de 20 a 5000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones XII, XVII, XXI y XXIII del artículo 122 de la presente Ley;
 
-> <small>(REFORMADA, D.O.F. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
 
-II. Con el equivalente de 50 a 50000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX, XXII, XXII Bis y XXIV del artículo 122 de la presente Ley.
+II. Con el equivalente de 50 a 50000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX, XXII, XXII Bis y XXIV del artículo 122 de la presente Ley, y
 
-La imposición de las multas se realizará con base en el salario mínimo general diario vigente para el Distrito Federal al momento de cometerse la infracción.
+> <small>(ADICIONADA, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+III. Con el equivalente de 200 a 75000 veces la Unidad de Medida y Actualización a quien cometa la infracción señalada en la fracción III del artículo 122 de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 2016)</small>
+
+La imposición de las multas se realizará con base en la Unidad de Medida y Actualización al momento de cometerse la infracción.
 
 En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
 
@@ -1887,3 +1893,9 @@ D.O.F. 13 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 53, 54, 55, 122 Y 127 DE LA LEY GENERAL DE VIDA SILVESTRE”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 127 DE LA LEY GENERAL DE VIDA SILVESTRE".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
