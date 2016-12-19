@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-registro-civil-para-el-estado-de-nuevo-leon-60741"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-10"
-last_updated: "2016-12-14"
+last_updated: "2016-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 10 de abril de 2008.
 
@@ -80,6 +80,10 @@ El Registro Civil en el Estado, funciona bajo el principio de publicidad, en con
 ###### Artículo 5.
 
 Los servicios proporcionados por el Registro Civil, causarán los derechos que establezca para tal efecto la Ley de Hacienda del Estado, por lo que queda estrictamente prohibido que el Titular, o quienes laboren en las Oficialías, reciban o hagan pagar al particular, cualquier cantidad no prevista en la Ley antes citada.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2016)</small>
+
+La inscripción de actas de nacimiento en el Registro Civil, así como la expedición de la primera copia certificada del acta de nacimiento se realizarán de forma gratuita, siempre y cuando lo solicite el interesado personalmente ante las oficinas correspondientes del Registro Civil.
 
 ###### Artículo 6.
 
@@ -820,3 +824,9 @@ Segundo.- Resulta aplicable el presente Decreto a los matrimonios celebrados con
 Tercero.- La entrada en vigor del presente Decreto, no altera los derechos adquiridos en los juicios de divorcio concluidos en forma ejecutoriada.
 
 Cuarto.- Los asuntos en trámite al entrar en vigor las reformas contenidas en este Decreto, seguirán su curso en la forma que iniciaron y, en su caso, se resolverán observando la jurisprudencia por contradicción 73/2014, publicada en el Semanario Judicial de la Federación, 10 de julio de 2015.
+
+P.O. 19 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 176. SE REFORMA POR ADICIÓN DE UN SEGUNDO PÁRRAFO EL ARTÍCULO 5 DE LA LEY DEL REGISTRO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
