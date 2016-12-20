@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2016-10-25"
+last_updated: "2016-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -917,7 +917,9 @@ VII. Adquirir bienes y contratar servicios para la función legislativa, previa 
 
 VIII. Convocar a los titulares de los órganos de soporte técnico y de apoyo que dependan de la Junta, a las reuniones semestrales de planeación y organización, y a las reuniones trimestrales de evaluación, de las actividades del Congreso;
 
-IX. Nombrar y remover, con atención a lo señalado en el artículo 141 de esta Ley, al personal del Congreso, así como resolver sobre las renuncias y licencias que éste presente, con excepción de aquellos que sean competencia del Pleno;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+IX. Nombrar y remover al personal del Congreso, así como resolver sobre las renuncias y licencias que éste presente, con excepción de aquellos que sean competencia del Pleno;
 
 X. Aprobar y actualizar el Manual de Organización y Procedimientos del Congreso, así como disposiciones normativas relativas a los asuntos de su competencia;
 
@@ -1847,6 +1849,18 @@ III. De acuerdo administrativo: cuando se trate de una iniciativa que se refiera
 
 IV. De acuerdo económico: cuando la determinación del Congreso del Estado tiene efectos internos en la administración de sus órganos, dependencias y comisiones.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 131 BIS. Se considera proponente a quien ejerce el derecho de presentar una iniciativa. En el caso de los diputados, podrán adherirse a las iniciativas que hayan sido presentadas por otro diputado, siempre y cuando medie el consentimiento expreso del promovente.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 131 TER. El derecho de presentar iniciativas comprende también el de desistirse de las mismas, previa solicitud que se haga por escrito, en tal sentido. Este derecho podrá ejercerse desde el momento de su presentación y, hasta antes de que sea dictaminada o, declarada su caducidad.
+
+El derecho a desistirse de una iniciativa solamente le corresponde al diputado que haya ejercido el derecho de presentación, más no así a los adherentes. Para el caso de que un diputado decida ejercer su derecho de desistimiento respecto de una iniciativa, los efectos del mismo serán extensivos a los adherentes.
+
+Cuando la iniciativa se haya suscrito por más de un diputado se requiere que todos los promoventes manifiesten por escrito su voluntad de desistirse. En el caso de que alguno de los promoventes no se desista, se continuará el procedimiento de dictamen, dándose cuenta al Pleno de quienes han decidido hacer uso de ese derecho.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 2014)</small>
 
 ###### ARTICULO 132.
@@ -1868,6 +1882,10 @@ El Reglamento para el Gobierno Interior del Congreso prescribirá la forma en qu
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2013)</small>
 
 Dentro de los asuntos generales del orden del día, no podrán presentarse ante el Pleno las iniciativas a que se refiere el artículo 131 de esta Ley, que no hayan sido incluidas previamente en la Gaceta Parlamentaria; con la salvedad que establece el artículo 134 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+Los diputados podrán hacer posicionamientos respecto de temas de interés general, los cuales, por su naturaleza, no serán sujetos de discusión, debate o votación; el Reglamento para el Gobierno Interior del Congreso regula su procedimiento.
 
 ###### ARTICULO 134.
 
@@ -2239,7 +2257,7 @@ P.O. 14 DE MAYO DE 2013.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.Lo (sic) tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto. Lo tendrá entendido el Ejecutivo del Estado, lo hará publicar, circular y obedecer.
 
 P.O. 22 DE JUNIO DE 2013.
 
@@ -2382,3 +2400,27 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. El Ejecutivo del Estado publicará las adecuaciones al Reglamento Interior del Comité Estatal de Protección al Periodismo, relativas a las (sic) modificación contenida en el artículo 17 de la Ley de Protección al Ejercicio del Periodismo del Estado de San Luis Potosí, en un máximo de treinta días naturales a partir de la vigencia del presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0454.- SE ADICIONA PÁRRAFO TERCERO AL ARTÍCULO 133, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA AL TÍTULO SÉPTIMO EL CAPÍTULO V "DE LOS POSICIONAMIENTOS" CON EL ARTÍCULO 117 BIS, POR LO QUE EL ACTUAL CAPÍTULO V PASA A SER CAPÍTULO VI, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0455.- SE ADICIONA, LOS ARTÍCULOS, 131 BIS, Y 131 TER, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; Y SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 76, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0456.- SE REFORMA EL ARTÍCULO 82 EN SU FRACCIÓN IX, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
