@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-extincion-de-dominio-del-estado-de-mexico-115191"
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-15"
-last_updated: "2016-06-15"
+last_updated: "2016-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Decreto publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 15 de junio de 2016.
 
@@ -549,9 +549,11 @@ Al cierre de la fase de desahogo de pruebas precluirán los derechos que no se e
 
 Tanto la audiencia inicial como la principal serán video grabadas para debida constancia y a petición de parte se expedirán las copias simples o certificadas que soliciten, así como del acta circunstanciada que se realice al efecto, la cual expondrá de manera sucinta el contenido de la audiencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 52.
 
-La audiencia principal se celebrará estén o no presentes las partes, así como los testigos o peritos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o testigos que el juez haya citado para la audiencia tampoco impedirá su desahogo, pero se impondrá a los faltistas debidamente citados una multa de hasta cien días de salario mínimo y en caso de insolvencia un arresto por 36 horas y se ordenará su presentación a la fecha de reanudación de la audiencia con auxilio de la fuerza pública y apercibimiento de que en caso de resistirse al mandamiento judicial, se dará vista al Ministerio Público para que inicie la investigación por desacato.
+La audiencia principal se celebrará estén o no presentes las partes, así como los testigos o peritos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o testigos que el juez haya citado para la audiencia tampoco impedirá su desahogo, pero se impondrá a los faltistas debidamente citados una multa de hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente y en caso de insolvencia un arresto por 36 horas y se ordenará su presentación a la fecha de reanudación de la audiencia con auxilio de la fuerza pública y apercibimiento de que en caso de resistirse al mandamiento judicial, se dará vista al Ministerio Público para que inicie la investigación por desacato.
 
 Las medidas disciplinarias a que hace referencia en el párrafo anterior, no aplicarán en caso de víctimas u ofendidos
 
@@ -784,3 +786,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
