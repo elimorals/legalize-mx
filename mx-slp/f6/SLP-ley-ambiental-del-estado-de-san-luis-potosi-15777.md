@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2016-04-28"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -1869,7 +1869,7 @@ Cuando las obras y actividades señaladas en el presente artículo, impliquen el
 
 La autoridad municipal expedirá las autorizaciones de impacto ambiental en los siguientes casos:
 
-l. Fraccionamientos habitacionales que pretendan ubicarse dentro del centro de población, cuando éste se encuentre determinado por el respectivo Plan de Desarrollo Urbano o de Centro de Población Estratégico o Municipal; a falta de éste, la evaluación de los mismos corresponderá a la SEGAM, conforme a lo previsto en la fracción XXXIV del artículo 7° de la presente Ley;
+I. Fraccionamientos habitacionales que pretendan ubicarse dentro del centro de población, cuando éste se encuentre determinado por el respectivo Plan de Desarrollo Urbano o de Centro de Población Estratégico o Municipal; a falta de éste, la evaluación de los mismos corresponderá a la SEGAM, conforme a lo previsto en la fracción XXXIV del artículo 7° de la presente Ley;
 
 II. Mercados, centros comerciales y centrales de abastos;
 
@@ -1909,7 +1909,7 @@ III. Las obras y actividades expresamente previstas en un plan parcial de desarr
 
 Para obtener autorización en materia de impacto ambiental, los interesados, previo al inicio de cualquier obra o actividad, deberán presentar ante la Secretaría o el ayuntamiento correspondiente, según competa, una manifestación de impacto ambiental; la cual deberá contener, por lo menos:
 
-l. Nombre, denominación o razón social, nacionalidad, domicilio y dirección de quien pretenda llevar a cabo la obra o actividad objeto de la manifestación;
+I. Nombre, denominación o razón social, nacionalidad, domicilio y dirección de quien pretenda llevar a cabo la obra o actividad objeto de la manifestación;
 
 II. Descripción de la obra o actividad proyectada, desde la etapa de selección del sitio para la ejecución de la obra en el desarrollo de la actividad; la superficie de terreno requerido; el programa de construcción, montaje de instalaciones y operación correspondiente; el tipo de actividad, volúmenes de producción previstos, e inversiones necesarias; la clase y cantidad de recursos naturales que habrán de aprovecharse, tanto en la etapa de construcción como en la operación de la obra o el desarrollo de la actividad; el programa para el manejo de residuos, tanto en la construcción y montaje como durante la operación o desarrollo de la actividad; y el programa para el abandono de las obras o el cese de las actividades;
 
@@ -2013,7 +2013,7 @@ La Secretarí a (sic) una vez presentada una manifestación de impacto ambiental
 
 La Secretaría, a solicitud de cualquier persona de la comunidad de que se trate, podrá llevar a cabo una consulta pública, conforme a las siguientes bases:
 
-l. La Secretaría publicará la solicitud de autorización en materia de impacto ambiental en su sitio de Internet. Asimismo, el promovente deberá publicar a su costa, un extracto del proyecto de la obra o actividad en un periódico de amplia circulación en el Estado, dentro del plazo de cinco días contados a partir de la fecha en que se acuerde el inicio del proceso de consulta pública;
+I. La Secretaría publicará la solicitud de autorización en materia de impacto ambiental en su sitio de Internet. Asimismo, el promovente deberá publicar a su costa, un extracto del proyecto de la obra o actividad en un periódico de amplia circulación en el Estado, dentro del plazo de cinco días contados a partir de la fecha en que se acuerde el inicio del proceso de consulta pública;
 
 II. Cualquier ciudadano, dentro del plazo de diez días contados a partir de la publicación del extracto del proyecto en los términos antes referidos, podrá solicitar a la Secretaría ponga a disposición del público en las oficinas del municipio que corresponda, la manifestación de impacto ambiental;
 
@@ -2477,9 +2477,9 @@ Dentro del más breve plazo posible, los bienes o especies animales que sean ret
 
 La SEGAM, el respectivo ayuntamiento o los organismos operadores del agua, en los asuntos de su competencia podrán imponer al infractor, previa garantía de audiencia y según fuere la naturaleza, gravedad y circunstancias del hecho, la o las sanciones administrativas siguientes:
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-I. Multa equivalente de cincuenta a sesenta mil días de salario mínimo general vigente en la zona económica correspondiente en el momento de imponer la sanción;
+I. Multa equivalente de cincuenta a sesenta mil días de la unidad de medida y actualización vigente en el momento de imponer la sanción;
 
 II. Clausura temporal o definitiva, parcial o total, cuando:
 
@@ -2703,7 +2703,7 @@ La SEGAM contará con el Fondo Ambiental Público, que tiene por objeto subsidia
 
 El Fondo Ambiental Público se integrará con los recursos obtenidos por:
 
-l. La reparación del daño a que tiene derecho la SEGAM, derivada de la comisión de los delitos previstos en el Titulo Vigésimo del Código Penal del Estado, y los reembolsos que, en su caso, se obtengan por el mismo concepto;
+I. La reparación del daño a que tiene derecho la SEGAM, derivada de la comisión de los delitos previstos en el Titulo Vigésimo del Código Penal del Estado, y los reembolsos que, en su caso, se obtengan por el mismo concepto;
 
 II. Las aportaciones o transferencias que hagan los gobiernos, federal, estatal, o municipales, mediante los acuerdos o convenios de colaboración celebrados al efecto;
 
@@ -2823,7 +2823,7 @@ LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P. O. 19 DE SEPTIEMBRE DE 2006.
 
@@ -2978,3 +2978,11 @@ P.O. 28 DE ABRIL DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0453.- SE REFORMAN DIVERSOS ARTÍCULOS DE LAS SIGUIENTES LEYES: LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DEL ESTADO DE SAN LUIS POTOSÍ, LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES Y LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
