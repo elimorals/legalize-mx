@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2016-03-14"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -797,7 +797,7 @@ VII.- Discusión y resolución;
 
 VIII.- Otros asuntos;
 
-IX.- Clausura de la sesion.
+IX.- Clausura de la sesión.
 
 Atendiendo a la importancia de los asuntos, el presidente podrá proponer su tratamiento en orden diverso.
 
@@ -1805,7 +1805,7 @@ Artículo 152 BIS.- El titular de la Biblioteca Legislativa "Dr. José María Lu
 
 > <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2010)</small>
 
-Artículo 152 TER.- La Biblioteca Legislativa "Dr. José Maria Luis Mora", para la consecución de sus fines, podrá celebrar convenios con instituciones homólogas o cualquier otra que por su naturaleza coincida en sus propósitos. Dichos convenios deberán ser ratificados por la Junta de Coordinación Política.
+Artículo 152 TER.- La Biblioteca Legislativa "Dr. José María Luis Mora", para la consecución de sus fines, podrá celebrar convenios con instituciones homólogas o cualquier otra que por su naturaleza coincida en sus propósitos. Dichos convenios deberán ser ratificados por la Junta de Coordinación Política.
 
 > <small>(ADICIONADO, G.G. 18 DE AGOSTO DE 2010)</small>
 
@@ -2227,7 +2227,7 @@ El Instituto sin exclusión de otros propósitos, clasificará la información q
 
 Para ser Vocal Ejecutivo del Instituto de Estudios Legislativos de la Legislatura, se requiere:
 
-I. Tener cuando menos 30 años cumplidos el día de su designación;
+I. (DEROGADA, G.G. 20 DE DICIEMBRE DE 2016)
 
 Il. Poseer título profesional de licenciatura; preferentemente, tener estudios de postgrado y experiencia en la investigación de asuntos en materia pública o social;
 
@@ -5575,7 +5575,13 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su public
 
 TERCERO. La integración de la Comisión de Protección Ambiental, así como los asuntos que le hayan sido turnados, corresponderán a la Comisión de Protección Ambiental y Cambio Climático.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 416 POR EL QUE SE ADICIONA EL ARTÍCULO 223 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 177.- POR EL QUE SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 177 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 470 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
 
