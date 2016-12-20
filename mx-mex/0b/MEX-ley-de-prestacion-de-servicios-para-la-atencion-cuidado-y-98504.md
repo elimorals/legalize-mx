@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-y-98504
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-05"
-last_updated: "2014-12-18"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera en la Gaceta del Gobierno del Estado de México, el miércoles 5 de febrero de 2014.
 
@@ -941,7 +941,9 @@ I. Amonestación con apercibimiento, cuando las infracciones sean menores y no r
 
 II. Amonestación pública, cuando la infracción menor sea reiterada;
 
-III. Multa de 500 a 10,000 días de salario mínimo diario general vigente, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Multa de 500 a 10,000 veces el valor diario de la Unidad de Medida y Actualización vigente, cuando:
 
 a). Exista reiteración en faltas menores.
 
@@ -1062,3 +1064,19 @@ TERCERO. El Ejecutivo del Estado expedirá las disposiciones reglamentarias de e
 CUARTO. El Consejo contará con sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para elaborar el Programa Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, mismo que deberá de ser publicado en el Periódico Oficial "Gaceta del Gobierno".
 
 QUINTO. El Consejo y los ayuntamientos tendrán sesenta días hábiles contados a partir de la publicación del Programa Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil para elaborar el Programa Integral de Supervisión, Acompañamiento, Monitoreo y Evaluación del Funcionamiento.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- POR QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
