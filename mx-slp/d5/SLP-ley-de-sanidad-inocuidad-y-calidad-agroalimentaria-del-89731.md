@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-sanidad-inocuidad-y-calidad-agroalimentaria-del-89731"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-15"
-last_updated: "2015-03-24"
+last_updated: "2016-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de septiembre de 2012.
 
@@ -1769,21 +1769,37 @@ En caso de personas detenidas por la comisión de delitos en flagrancia, estas s
 
 La imposición de las multas a que se refiere la fracción VI del artículo anterior, se determinará en la forma siguiente:
 
-I. Con un equivalente de veinte días de salario mínimo vigente en el Estado, a quién cometa las infracciones señaladas en las fracciones I, II, IV, VI, VII, XI, XIII, XXX, XXXI, XXXII, XXXIII, XXXV, XXXVI, XXXVII, XXXIX, XL, XLI y XLVIII del artículo 178 de ésta Ley;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Con un equivalente de cinco hasta cien días de salario mínimo vigente en el Estado, a quien cometa las infracciones señaladas en la fracción XIV del artículo 178 de ésta Ley;
+I. Con un equivalente de veinte días de la unidad de medida y actualización vigente, a quién cometa las infracciones señaladas en las fracciones I, II, IV, VI, VII, XI, XIII, XXX, XXXI, XXXII, XXXIII, XXXV, XXXVI, XXXVII, XXXIX, XL, XLI y XLVIII del artículo 178 de ésta Ley;
 
-III. Con un equivalente de diez hasta cincuenta días de salario mínimo vigente en el Estado, a quien cometa las infracciones señaladas en las fracciones III, V, VIII, IX, X, XV, y XIX del artículo 178 de ésta Ley;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. Con un equivalente de diez hasta cien días de salario mínimo vigente en el Estado, a quien cometa la infracción señalada en la fracción XLII del artículo 178 de ésta ley;
+II. Con un equivalente de cinco hasta cien días de la unidad de medida y actualización vigente, a quien cometa las infracciones señaladas en la fracción XIV del artículo 178 de ésta Ley;
 
-V. Con un equivalente de veinte hasta doscientos días de salario mínimo vigente en el Estado, a quien cometa las infracciones señaladas en las fracciones XII, XVI, XVII, XVIII, XLI, XVIII, XXII, XXIII, XXXVIII, XLIV, y XLVII del artículo 178 de ésta Ley;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-VI. Con un equivalente de diez hasta mil días de salario mínimo vigente en el Estado, a quien cometa las infracciones señaladas en las fracciones XLVI y L del artículo 178 de ésta Ley;
+III. Con un equivalente de diez hasta cincuenta días de la unidad de medida y actualización vigente, a quien cometa las infracciones señaladas en las fracciones III, V, VIII, IX, X, XV, y XIX del artículo 178 de ésta Ley;
 
-VII. Con un equivalente de cincuenta hasta mil días de salario mínimo vigente en el Estado, a quien cometa las infracciones señaladas en las fracciones XX, XXI, XXIV y XXVI del artículo 178 de ésta Ley, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-VIII. Con un equivalente de quinientos hasta mil días de salario mínimo vigente en el Estado, a quien cometa las infracciones señaladas en las fracciones XXV, XXVII, XXVIII, XXIX, XXXIV, XLIX, y XLV del artículo 178 de ésta Ley.
+IV. Con un equivalente de diez hasta cien días de la unidad de medida y actualización vigente, a quien cometa la infracción señalada en la fracción XLII del artículo 178 de ésta Ley;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+V. Con un equivalente de veinte hasta doscientos días de la unidad de medida y actualización vigente, a quien cometa las infracciones señaladas en las fracciones XII, XVI, XVII, XVIII, XLI, XVIII (sic), XXII, XXIII, XXXVIII, XLIV, y XLVII del artículo 178 de ésta Ley;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+VI. Con un equivalente de diez hasta mil días de la unidad de medida y actualización vigente, a quien cometa las infracciones señaladas en las fracciones XLVI y L del artículo 178 de ésta Ley;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+VII. Con un equivalente de cincuenta hasta mil días de la unidad de medida y actualización vigente, a quien cometa las infracciones señaladas en las fracciones XX, XXI, XXIV y XXVI del artículo 178 de ésta Ley, y
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+VIII. Con un equivalente de quinientos (sic) hasta mil días de la unidad de medida y actualización vigente, a quien cometa las infracciones señaladas en las fracciones XXV, XXVII, XXVIII, XXIX, XXXIV, XLIX, y XLV del artículo 178 de ésta Ley.
 
 ###### ARTICULO 181.
 
@@ -1876,3 +1892,11 @@ P.O. 24 DE MARZO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0453.- SE REFORMAN DIVERSOS ARTÍCULOS DE LAS SIGUIENTES LEYES: LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DEL ESTADO DE SAN LUIS POTOSÍ, LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES Y LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
