@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-deposito-legal-para-el-estado-de-mexico-81016"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-13"
-last_updated: "2014-12-16"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81016&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE DEPÓSITO LEGAL PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera a la Gaceta Oficial del Estado de México, el miércoles 13 de abril de 2011.
 
@@ -103,11 +103,13 @@ Las constancias que expida la Biblioteca "Dr. José María Luis Mora", deberán 
 
 La Biblioteca "Dr. José María Luis Mora", deberá obtener la información relativa a las obras registradas en el Instituto de Derechos de Autor, para coadyuvar al efectivo cumplimiento de lo dispuesto por el artículo 2 de esta Ley.
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 10.
 
-Los editores y/o productores omisos de lo dispuesto por ésta Ley, se harán acreedores a una sanción económica equivalente a cinco veces el valor unitario de la edición. Tratándose de obras de distribución gratuita, la sanción para los omisos será de veinte salarios mínimos vigentes en el lugar de edición.
+Los editores y/o productores omisos de lo dispuesto por ésta Ley, se harán acreedores a una sanción económica equivalente a cinco veces el valor unitario de la edición. Tratándose de obras de distribución gratuita, la sanción para los omisos será de veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
 El pago de la sanción, no exime al infractor de la obligación de entregar los dos ejemplares de depósito legal.
 
@@ -150,3 +152,21 @@ G.G. 16 DE DICIEMBRE DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
