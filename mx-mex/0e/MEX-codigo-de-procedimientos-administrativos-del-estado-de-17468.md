@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2016-11-04"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -92,6 +94,10 @@ X. Proceso administrativo: Serie de etapas del juicio contencioso administrativo
 > <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
 XI. Tribunal: Tribunal de lo Contencioso Administrativo del Estado de México.
+
+> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+XII. Unidad de Medida y Actualización: Unidad de cuenta, índice, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en este ordenamiento.
 
 > <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -239,7 +245,9 @@ La autoridad administrativa o el Tribunal, para hacer cumplir sus determinacione
 
 I. Amonestación;
 
-II. Multa de 10 a 100 días de salario mínimo vigente en el área geográfica de la actuación; si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día; y tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización vigente, si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día, y tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
 III. Expulsión temporal de las personas del lugar donde se lleve a cabo la diligencia, cuando ello sea necesario para su continuación;
 
@@ -2371,7 +2379,9 @@ Artículo 272 B.- Procederá el juicio en vía sumaria, siempre que se trate de 
 
 I. Multas impuestas por infracciones de tránsito;
 
-II. Asuntos cuya cuantía sea menor a cien días de salario mínimo;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Asuntos cuya cuantía sea menor a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 III. La omisión de las autoridades a dar respuesta a las peticiones de los particulares en términos de la fracción VI del artículo 229 del presente Código;
 
@@ -2499,9 +2509,9 @@ En el propio oficio en que se haga la notificación a los demandados, se les pre
 
 Si dentro de los tres días siguientes a la notificación a los demandados, la sentencia no quedare cumplida o no se encontrare en vías de cumplimiento, la sala regional competente, de oficio o a petición de parte, dará vista a las autoridades para que manifiesten lo que a su derecho convenga. Se formulará la misma vista, cuando el actor manifieste que existe defecto o exceso en la ejecución de la sentencia o que se ha repetido el acto impugnado.
 
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-La sala regional resolverá si el demandado ha cumplido con los términos de la sentencia, si no existe defecto o exceso en la ejecución de la misma y si no se ha repetido el acto impugnado. De lo contrario, la requerirá para que cumpla la decisión respectiva en un plazo de tres días posteriores al en que surta efectos la notificación y previniéndola que, en caso de renuencia, se le impondrá una multa por la cantidad equivalente de 100 a 1,000 días de salario mínimo vigente en la jurisdicción correspondiente. Cuando la naturaleza del acto lo permita, el magistrado comisionará al secretario de acuerdos o actuario para que dé cumplimiento a la ejecutoria, en caso de que no lo haga la autoridad en ese plazo.
+La sala regional resolverá si el demandado ha cumplido con los términos de la sentencia, si no existe defecto o exceso en la ejecución de la misma y si no se ha repetido el acto impugnado. De lo contrario, la requerirá para que cumpla la decisión respectiva en un plazo de tres días posteriores al en que surta efectos la notificación y previniéndola que, en caso de renuencia, se le impondrá una multa por la cantidad equivalente de 100 a 1,000 veces el valor diario de la Unidad de Medida y Actualización vigente. Cuando la naturaleza del acto lo permita, el magistrado comisionará al secretario de acuerdos o actuario para que dé cumplimiento a la ejecutoria, en caso de que no lo haga la autoridad en ese plazo.
 
 (ADICIONADO, G.G. 21 DE DICIEMBRE DE 2001) (F. DE E., G.G. 28 DE ENERO DE 2002)
 
@@ -3146,3 +3156,19 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Tribunal de lo Contencioso Administrativo del Estado de México tendrá un plazo no mayor de noventa días hábiles a partir de la entrada en vigor del presente Decreto para adecuar su normatividad.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
