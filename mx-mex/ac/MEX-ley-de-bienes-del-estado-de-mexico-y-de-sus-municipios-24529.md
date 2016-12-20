@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-bienes-del-estado-de-mexico-y-de-sus-municipios-24529"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-07"
-last_updated: "2014-05-14"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE BIENES DEL ESTADO DE MÉXICO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno el 7 de marzo del 2000.
 
@@ -699,9 +699,11 @@ Los poderes Legislativo y Judicial y los ayuntamientos, expedirán, en términos
 
 ### CAPITULO DECIMO. SANCIONES
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 72.
 
-Se sancionará con pena privativa de libertad de 1 a 5 años y multa de 150 a 500 veces el salario mínimo general diario vigente en la capital del Estado de México a quien concluido el plazo por el que se otorgó la concesión, permiso o autorización para la explotación, uso o aprovechamiento de un bien del dominio público no lo devuelva a la autoridad competente dentro del plazo de 30 días siguientes a la fecha del requerimiento administrativo que se le haya formulado.
+Se sancionará con pena privativa de libertad de 1 a 5 años y multa de 150 a 500 veces el valor diario de la Unidad de Medida y Actualización vigente a quien concluido el plazo por el que se otorgó la concesión, permiso o autorización para la explotación, uso o aprovechamiento de un bien del dominio público no lo devuelva a la autoridad competente dentro del plazo de 30 días siguientes a la fecha del requerimiento administrativo que se le haya formulado.
 
 ###### Artículo 73.
 
@@ -778,3 +780,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- POR QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
