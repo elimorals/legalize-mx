@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2016-12-05"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 5 DE DICIEMBRE DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 162 PUBLICADO EN LA G.G. DE 28 DE NOVIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -561,11 +561,15 @@ La autorización se publicará en la Gaceta del Gobierno y surtirá efectos en b
 
 La información y documentación que se alleguen las dependencias para la elaboración de normas técnicas se empleará exclusivamente para tales fines y cuando la confidencialidad de la misma esté protegida por alguna disposición legal, el interesado deberá autorizar su uso, si bien en este caso la información no será divulgada, gozando de la protección establecida en materia de propiedad intelectual.
 
-El incumplimiento de lo dispuesto en el primer párrafo de este artículo se sancionará con multa de cuarenta a cien veces el salario mínimo diario vigente del área geográfica de que se trate al momento de cometer la infracción.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+El incumplimiento de lo dispuesto en el primer párrafo de este artículo se sancionará con multa de cuarenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1.
 
-36.- A falta de disposición expresa, el incumplimiento de lo dispuesto en una norma técnica se sancionará con multa de cien a tres mil veces el salario mínimo diario vigente en el área geográfica de que se trate al momento de cometer la infracción; y la autoridad competente, en su caso, inmovilizará los bienes hasta en tanto se acondicionen, reprocesen o substituyan, o clausurará los establecimientos. De no ser esto posible, se tomarán las providencias necesarias para que no se usen o presten para el fin a que se destinarían de cumplir dichas especificaciones.
+36.- A falta de disposición expresa, el incumplimiento de lo dispuesto en una norma técnica se sancionará con multa de cien a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción; y la autoridad competente, en su caso, inmovilizará los bienes hasta en tanto se acondicionen, reprocesen o substituyan, o clausurará los establecimientos. De no ser esto posible, se tomarán las providencias necesarias para que no se usen o presten para el fin a que se destinarían de cumplir dichas especificaciones.
 
 Si el producto o servicio se encuentra en el comercio, los comerciantes o prestadores tendrán la obligación de abstenerse de su enajenación o prestación a partir de la fecha en que se les notifique la resolución o se publique en la Gaceta del Gobierno.
 
@@ -3351,21 +3355,21 @@ IV. Arresto hasta por treinta y seis horas.
 
 72.- Las infracciones a lo previsto en este Título serán sancionadas por la "COPRISEM" en los términos siguientes:
 
-(REUBICADA Y REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. Con multa equivalente de cuarenta a cien veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en los artículos 2.64, en caso de no exhibir la licencia en un lugar visible, y 2.65;
+I. Con multa equivalente de cuarenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, la violación a lo dispuesto en los artículos 2.64, en caso de no exhibir la licencia en un lugar visible, y 2.65.
 
-(REUBICADA Y REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Con multa equivalente de cincuenta a quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.53;
+II. Con multa equivalente de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.53.
 
-(REUBICADA Y REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-III. Con multa equivalente de doscientas cincuenta a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.55; y
+III. Con multa equivalente de doscientas cincuenta a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.55.
 
-(REUBICADA Y REFORMADA, G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. Con multa equivalente de mil a cuatro mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, en caso de no contar con la licencia a que se refiere el artículo 2.64.
+IV. Con multa equivalente de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, en caso de no contar con la licencia a que se refiere el artículo 2.64.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3387,11 +3391,11 @@ V. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento administrativo establecido en el Código de Procedimientos Administrativos del Estado de México, a fin de que en caso de que se mantenga el incumplimiento se sancione con la clausura temporal o definitiva, parcial o total, según corresponda.
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.54], G.G. 30 DE SEPTIEMBRE DE 2010)
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 2.
 
-73.- Las infracciones no previstas en esta Sección serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción.
+73.- Las infracciones no previstas en esta Sección serán sancionadas con multa equivalente hasta por diez mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 2.55], G.G. 30 DE SEPTIEMBRE DE 2010)
 
@@ -3399,7 +3403,7 @@ Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento
 
 74.- En caso de reincidencia se duplicará el monto de la multa que corresponda. Se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de este Título dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
 
-(REUBICADO [N. DE E. REFORMADO ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
+(REUBICADO [N. DE E. Y REFORMADO ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
 
 ### CAPITULO TERCERO. De la vigilancia
 
@@ -4271,19 +4275,21 @@ Para asegurar el cumplimiento de las disposiciones de este Libro, así como para
 
 73.- Los delitos cometidos por profesionistas en el ejercicio de su profesión, serán sancionados en términos de las disposiciones de la ley de la materia.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 3.
 
-74.- Al profesionista que ejerza sin contar con el registro de su título profesional, se le aplicará por primera vez una multa de cuarenta veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción; y en caso de reincidencia se aumentará sucesivamente, sin que pueda ser mayor de doscientas veces el salario mínimo general vigente del área geográfica que corresponda.
+74.- Al profesionista que ejerza sin contar con el registro de su título profesional, se le aplicará por primera vez una multa de cuarenta veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, y en caso de reincidencia se aumentará sucesivamente, sin que pueda ser mayor de doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 3.
 
 75.- Los profesionistas que ejerzan sin contar con registro, en ningún caso podrán cobrar honorarios.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-###### Artículo 3.
+###### Articulo 3.
 
-76.- Las asociaciones de profesionistas que se ostenten con el carácter de colegios, sin contar con registro de la Secretaría de Educación, serán sancionadas con multa de cien a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción.
+76.- Las asociaciones de profesionistas que se ostenten con el carácter de colegios, sin contar con registro de la Secretaría de Educación, serán sancionadas con multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 10 DE NOVIEMBRE DE 2010)</small>
 
@@ -6299,9 +6305,13 @@ III. Revocación de las autorizaciones, licencias o permisos otorgados;
 
 IV. Multa, atendiendo a la gravedad de la infracción:
 
-a) De mil a quinientas mil veces el salario mínimo general vigente del área geográfica que corresponda, tratándose de hechos que violen las disposiciones jurídicas que regulan los conjuntos urbanos y los usos que generan impacto regional;
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-b) De diez a cinco mil veces el salario mínimo general vigente del área geográfica que corresponda, tratándose de hechos que transgredan disposiciones jurídicas en la materia, incumplimientos de obligaciones establecidas en los acuerdos de autorizaciones emitidas por las autoridades estatales o municipales correspondientes.
+a) De mil a quinientas mil veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de hechos que violen las disposiciones jurídicas que regulan los conjuntos urbanos y los usos que generan impacto regional.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+b) De diez a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de hechos que transgredan disposiciones jurídicas en la materia, incumplimientos de obligaciones establecidas en los acuerdos de autorizaciones emitidas por las autoridades estatales o municipales correspondientes.
 
 Las multas se duplicarán en caso de reincidencia y se podrán aplicar conjuntamente con cualquiera de las sanciones contempladas en las fracciones I a III de este artículo.
 
@@ -7113,13 +7123,17 @@ Se podrá imponer una o más sanciones de las previstas en este artículo por un
 
 37.- Serán sancionadas con multa las infracciones siguientes:
 
-I. De mil a tres mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. De mil a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien:
 
 a) No cuente con registro de la Secretaría de Seguridad Ciudadana, estando obligado a obtenerlo;
 
 b) No cumpla con la calendarización de acciones establecidas en su programa específico de protección civil.
 
-II. De tres mil uno a cuatro mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. De tres mil uno a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien:
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -7131,7 +7145,9 @@ b) Haya iniciado operaciones sin la autorización correspondiente;
 
 c) No permita el acceso al personal designado para realizar verificaciones en inmuebles, instalaciones y equipos
 
-III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien de manera dolosa o culposa ponga en riesgo a las personas o a la población en general.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. De cuatro mil uno a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien de manera dolosa o culposa ponga en riesgo a las personas o a la población en general.
 
 > <small>(ADICIONADO, G.G. 13 DE NOVIEMBRE DE 2014)</small>
 
@@ -8503,23 +8519,33 @@ Las sanciones anteriores se impondrán cuando para la infracción cometida no ex
 
 84.- La multa prevista en el artículo anterior, se impondrá por los montos e infracciones siguientes:
 
-> <small>(REFORMADA, G.G. 25 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. Multa de quinientas a dos mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien preste el servicio público de transporte sin la concesión o permiso correspondiente o sin la cromática respectiva para los concesionarios, y que la misma sea reproducida y utilizada por vehículos no concesionados;
+I. Multa de quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien preste el servicio público de transporte sin la concesión o permiso correspondiente o sin la cromática respectiva para los concesionarios, y que la misma sea reproducida y utilizada por vehículos no concesionados.
 
-II. Multa de cien a quinientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien modifique o altere las tarifas, itinerarios, horarios y no contar con un seguro de viajero o cualquier otra transgresión a las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-III. Multa de cincuenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a los titulares de la concesión o permiso cuando se niegue a prestar el servicio, sin causa justificada, así como por actos de maltrato al usuario y levantar pasaje en las paradas no autorizadas;
+II. Multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien modifique o altere las tarifas, itinerarios, horarios y no contar con un seguro de viajero o cualquier otra transgresión a las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores.
 
-IV. Multa de hasta mil veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, independientemente de que se proceda a la retención del vehículo hasta que cumpla con las normas establecidas, a quien transporte materiales, sustancias o residuos tóxicos o peligrosos sin contar con el permiso correspondiente, o sin cumplir con las normas oficiales;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-V. Multa de ochenta a doscientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien transporte carga en vehículos de cualquier tipo sin contar con la concesión o permiso respectivo;
+III. Multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a los titulares de la concesión o permiso cuando se niegue a prestar el servicio, sin causa justificada, así como por actos de maltrato al usuario y levantar pasaje en las paradas no autorizadas.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Multa de hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, independientemente de que se proceda a la retención del vehículo hasta que cumpla con las normas establecidas, a quien transporte materiales, sustancias o residuos tóxicos o peligrosos sin contar con el permiso correspondiente, o sin cumplir con las normas oficiales.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+V. Multa de ochenta a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien transporte carga en vehículos de cualquier tipo sin contar con la concesión o permiso respectivo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 VI. (DEROGADA, G.G. 20 DE NOVIEMBRE DE 2014)
 
-VII. Multa de doscientas cincuenta a trescientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+VII. Multa de doscientas cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien:
 
 a) Conduzca la unidad bajo los influjos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica. Esta sanción se aplicará sin perjuicio de la retención del vehículo y la responsabilidad en que se pudiera incurrir, siendo igualmente solidario el concesionario o permisionario por los actos del personal a su servicio;
 
@@ -8527,9 +8553,13 @@ b) Se niegue a la práctica de exámenes médicos, psicológicos, farmacológico
 
 c) No acredite haber cumplido con la capacitación requerida para conducir vehículos sujetos a concesión o permiso y/o en su caso, no cuente o porte el tarjetón de identificación expedido por la Secretaría de Transporte.
 
-VIII. Multa de cuarenta a cien veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-IX. Multa de cien a quinientas veces el salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, a quien:
+VIII. Multa de cuarenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien cometa cualquier otra violación al presente Libro, las disposiciones que de él emanen y a las condiciones establecidas en el título de concesión o permiso, cuya sanción no esté expresamente prevista, con la responsabilidad solidaria de los titulares de la concesión o permiso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IX. Multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien:
 
 a) Reciba en depósito vehículos para los cuales existe impedimento de conformidad con el Título Quinto del presente Libro;
 
@@ -8541,7 +8571,9 @@ d) Omitir informar de inmediato, a la autoridad ante la cual se encuentren a dis
 
 e) Omitir tener a la vista del público el catalogo de tarifas vigentes.
 
-X. Multa de quinientas a mil veces de salario mínimo general vigente en el área geográfica de que se trate al momento de cometer la infracción, al concesionario que por si o mediante sus administradores, empleados u operarios, incurra en:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+X. Multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, al concesionario que por sí o mediante sus administradores, empleados u operarios, incurra en:
 
 a) Alterar las tarifas autorizadas;
 
@@ -8959,9 +8991,9 @@ Para efectos del párrafo anterior, se consideran estacionamientos de servicio a
 
 18.- Las infracciones a las disposiciones de este Libro y las que de él emanen se sancionarán conforme a lo siguiente:
 
-> <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. En materia de tránsito, con las multas establecidas en los reglamentos correspondientes, las que no podrán exceder por cada infracción de 20 días de salario mínimo vigente en el área geográfica de que se trate al momento de la misma, sin que en su conjunto exceda de 50 días de salarios mínimos, que aplicará la autoridad competente.
+I. En materia de tránsito, con las multas establecidas en los reglamentos correspondientes, las que no podrán exceder por cada infracción de 20 veces el valor diario de la Unidad de Medida y Actualización vigente al momento de la misma, sin que en su conjunto exceda de 50 veces el valor diario de la Unidad de Medida y Actualización vigente, que aplicará la autoridad competente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8981,11 +9013,9 @@ III. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
 
 IV. En materia de estacionamientos, la multa se calculará multiplicando el número de rango o cajones por la tarifa al usuario.
 
-> <small>(ADICIONADA, G.G. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-V. Con multa de cinco a cuarenta y cinco días de salario mínimo vigente en área geográfica de que se trate, a quien infrinja lo dispuesto en el artículo 8.14 Ter.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2007)</small>
+V. Con multa de cinco a cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente, a quien infrinja lo dispuesto en el artículo 8.14 Ter.
 
 ###### Artículo 8.
 
@@ -9141,17 +9171,13 @@ III. (DEROGADA, G.G. 24 DE AGOSTO DE 2012)
 
 23. Las sanciones impuestas por la Comisión Estatal de Seguridad Ciudadana serán las siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+I. Multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización vigente, por incumplir lo dispuesto en los artículos 8.17 Sexies, 8.17 Septies y 8.17 Octies.
 
-I. Multa de 50 a 100 días de salario mínimo vigente en la zona geográfica que corresponda, por incumplir lo dispuesto en los artículos 8. 17 Sexies, 8.17 Septies y 8.17 Octies;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
-
-II. Multa de 50 a 100 días de salario mínimo vigente y el pago de los derechos correspondientes al arrastre, a quien infrinja lo dispuesto en el artículo 8.17 Bis.
+II. Multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización vigente y el pago de los derechos correspondientes al arrastre, a quien infrinja lo dispuesto en el artículo 8.17 Bis.
 
 > <small>(REFORMADO, G.G. 13 DE MAYO DE 2015)</small>
 
@@ -10799,7 +10825,7 @@ En el supuesto de la fracción II, el contratista afectado podrá demandar la re
 
 ### CAPITULO DECIMO. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(ADICIONADO, G.G. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 12.
 
@@ -11085,7 +11111,7 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 ###### Artículo 12.
 
-75.- Los licitantes o contratistas que infrinjan las disposiciones contenidas en el presente Libro o en su Reglamento, serán sancionados por la Contraloría con multa de trecientos a tres mil veces el salario mínimo general, vigente en la capital del Estado de México en la fecha de la infracción y/o inhabilitación temporal de tres meses a cinco años para participar en los procedimientos de contratación que en estos se regulan.
+75.- Los licitantes o contratistas que infrinjan las disposiciones contenidas en el presente Libro o en su Reglamento, serán sancionados por la Contraloría con multa de trescientas a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la infracción y/o inhabilitación temporal de tres meses a cinco años para participar en los procedimientos de contratación que en estos se regulan.
 
 > <small>(ADICIONADO, G.G. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -13305,7 +13331,7 @@ Con el objeto de brindar difusión y publicidad a los procesos de contratación 
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 16.
 
@@ -13625,7 +13651,7 @@ Los órganos de control interno y el Órgano Superior de Fiscalización del Esta
 
 ###### Artículo 16.
 
-74.- Los Licitantes o Proveedores que infrinjan las disposiciones de este Libro, serán sancionados por los órganos de control interno con multa equivalente a una cantidad de entre cincuenta y mil veces el salario mínimo general vigente en la capital del Estado elevado al mes, en la fecha de la infracción.
+74.- Los licitantes o proveedores que infrinjan las disposiciones de este Libro, serán sancionados por los órganos de control interno con multa equivalente a una cantidad de entre cincuenta y mil veces el valor diario de la Unidad de Medida y Actualización vigente elevado al mes, en la fecha de la infracción.
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -15135,13 +15161,13 @@ I. Amonestación;
 
 II. Multa hasta de un siete por ciento del monto total de la inversión de la obra o instalaciones, en el entendido de que tratándose de obras o instalaciones hechas en el derecho de vía y su zona de seguridad o de influencia en contravención a lo dispuesto en el presente Libro, la multa será por el cincuenta por ciento del valor de la obra o instalación.
 
-Tratándose de infracciones a las disposiciones del Capítulo Tercero, del Título Segundo, de este Libro se sancionarán con multa de cien a cinco mil veces el salario mínimo diario vigente en el área geográfica de que se trate al momento de la comisión de la infracción;
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+Tratándose de infracciones a las disposiciones del Capítulo Tercero, del Título Segundo, de este Libro se sancionarán con multa de cien a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de la comisión de la infracción.
 
-> <small>(ADICIONADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-La infracción a lo dispuesto por el artículo 17.25 Bis, será sancionada con una multa de doscientas cincuenta a mil cuatrocientas veces el salario mínimo vigente.
+La infracción a lo dispuesto por el artículo 17.25 Bis, será sancionada con una multa de doscientas cincuenta a mil cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -16679,25 +16705,39 @@ La imposición y cumplimiento de las sanciones no exime al infractor de la oblig
 
 72.- Las autoridades municipales determinarán los montos de las multas que impongan al titular de la licencia de construcción o a los Directores responsables de obra y/o Corresponsable de Obra por las infracciones cometidas, tornando (sic) en cuenta la gravedad de la infracción, las modalidades y demás circunstancias en que la misma se haya cometido y las condiciones económicas del infractor, de acuerdo a los siguientes parámetros:
 
-> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. Multa de entre 10 a 250 días de salario mínimo general vigente en el municipio que corresponda, cuando:
+I. Multa de entre 10 a 250 veces el valor diario de la Unidad de Medida y Actualización vigente, cuando:
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 A) Se obstaculicen las funciones de los verificadores o no muestre a su solicitud la licencia otorgada, así como los planos y memoria calculo autorizados;
 
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 B) Se ocupe la vía pública con materiales de cualquier naturaleza, sin contar con la licencia de construcción correspondiente;
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 C) En la construcción no se respeten las previsiones contra incendio; y
 
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 D) No se de el aviso de terminación de las obras autorizadas dentro del plazo fijado.
 
-> <small>(ADICIONADA, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Multa de entre 251 a 500 días de salario mínimo general vigente en el municipio que corresponda, cuando:
+II. Multa de entre 251 a 500 veces el valor diario de la Unidad de Medida y Actualización vigente, cuando:
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 A) Se hagan cortes en banquetas, arroyos, guarniciones y/o pavimentos, para conectarse a redes municipales o ejecución de instalaciones subterráneas o aéreas, sin contar con la licencia de construcción o permiso correspondiente;
 
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
+
 B) Se determine que por la realización de excavaciones u otras obras, se afectó la estabilidad del propio inmueble o de las edificaciones y predios vecinos;
+
+> <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 C) Con motivo de la ejecución de la construcción, demolición o excavación, se deposite material producto de estos trabajos en la vía pública; y
 
@@ -17211,7 +17251,9 @@ I. Amonestación.
 
 II. Apercibimiento.
 
-III. Multa de 100 y hasta 3000 veces el salario mínimo general vigente en el área geográfica en que se haya cometido la infracción.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Multa de 100 y hasta 3000 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 IV. Suspensión temporal de la certificación de 90 y hasta 360 días naturales.
 
@@ -19234,3 +19276,19 @@ QUINTO.- El Fideicomiso para la Promoción Turística previsto en este Decreto, 
 SEXTO.- Las reglas de operación del Fideicomiso para la Promoción Turística a que se refiere este Decreto se expedirán dentro de los 30 días naturales siguientes a su constitución.
 
 SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
