@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-privada-del-estado-de-mexico-76534"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2016-12-14"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 14 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera a la Gaceta de Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -127,7 +127,7 @@ VI. Expedir, a costa del Prestador del Servicio, la cédula de identificación d
 
 > <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
 
-VIl. Substanciar los procedimientos y aplicar las sanciones que correspondan al Prestador del Servicio irregular, así como autorizado por la violación a las disposiciones de esta Ley y demás ordenamientos jurídicos aplicables;
+VII. Substanciar los procedimientos y aplicar las sanciones que correspondan al Prestador del Servicio irregular, así como autorizado por la violación a las disposiciones de esta Ley y demás ordenamientos jurídicos aplicables;
 
 VIII. Atender las quejas y denunciar los hechos que pudieran constituir algún delito del que se tuviera conocimiento con motivo del ejercicio de las atribuciones que le confiere esta Ley;
 
@@ -375,11 +375,11 @@ l. Original del comprobante de pago de derechos por la inscripción en el Regist
 
 II. Original del comprobante de pago de derechos por la inscripción en el Registro Estatal del Personal de Seguridad Pública, de cada uno de los elementos operativos de quienes la Comisión haya efectuado la consulta previa de antecedentes policiales;
 
-III. Póliza de Fianza expedida por institución legalmente autorizada a favor de la Secretaría de Finanzas, por un monto equivalente a cinco mil veces el salario mínimo general vigente en la capital del Estado de México, que deberá contener la siguiente leyenda:
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2016)</small>
+III. Póliza de Fianza expedida por institución legalmente autorizada a favor de la Secretaría de Finanzas, por un monto equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, que deberá contener la siguiente leyenda:
 
-“Para garantizar por un monto equivalente a cinco mil Unidades de Medida y Actualización, las condiciones a que se sujetará en su caso la autorización o revalidación para prestar servicios de seguridad privada en el territorio del Estado otorgada por la Comisión Estatal con vigencia de un año a partir de la fecha de autorización, la presente fianza no podrá cancelarse sin previa autorización de su beneficiaria, la Secretaría de Finanzas del Gobierno del Estado de México".
+"Para garantizar por un monto equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, las condiciones a que se sujetará en su caso la autorización o revalidación para prestar servicios de seguridad privada en el territorio del Estado otorgada por la Secretaría con vigencia de un año a partir de la fecha de autorización; la presente fianza no podrá cancelarse sin previa autorización de su beneficiaria, la Secretaría de Finanzas".
 
 ### CAPITULO IV. REVALIDACION
 
@@ -1095,9 +1095,9 @@ l. Amonestación, a través de la difusión pública de la Comisión Estatal;
 
 II. Suspensión de los efectos de la autorización de uno a seis meses, con difusión pública de la Comisión Estatal. En ese caso, la suspensión abarcará el ámbito territorial que tenga autorizado, incluida su oficina matriz;
 
-> <small>(REFORMADA, G.G. 14 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-III. Multa de 1000 a 5000 Unidades de Medida y Actualización, la cual impondrá la Comisión Estatal y se considerará un crédito fiscal, por lo que la Secretaría de Finanzas del Estado de México la hará efectiva para su cobro. En caso de reincidencia, la multa podrá incrementarse hasta en un porcentaje igual a aquella que originalmente fuera impuesta y procederá, en su caso, la cancelación definitiva de la autorización para la prestación de los servicios de seguridad privada y tratándose de un Prestador del Servicio irregular, además no podrá brindar el servicio por un año dentro del Estado de México y después de éste, deberá previamente tramitar y obtener la autorización que otorgue la Comisión Estatal;
+III. Multa de 500 a 5000 veces el valor diario de la Unidad de Medida y Actualización vigente, la cual impondrá la Secretaría y se considerará un crédito fiscal, por lo que la Secretaría de Finanzas del Estado de México la hará efectiva para su cobro. En caso de reincidencia, la multa podrá incrementarse hasta en un porcentaje igual a aquella que originalmente fuera impuesta y procederá en su caso, la cancelación definitiva de la autorización para la prestación de los servicios de seguridad privada y en caso de empresas irregulares además no podrán prestar el servicio por un año dentro del Estado de México y después de éste, deberán previamente tramitar y obtener la autorización que otorgue la Secretaría.
 
 IV. Clausura del establecimiento donde el prestador del Servicio tenga su oficina matriz o el domicilio legal que hubiere registrado, así como de las sucursales que tuviera dentro del Estado de México; y
 
@@ -1240,3 +1240,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El Ejecutivo Estatal, a través de las instancias correspondientes, realizará visitas de verificación permanentemente a los Prestadores del Servicio.
 
 TERCERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- POR QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
