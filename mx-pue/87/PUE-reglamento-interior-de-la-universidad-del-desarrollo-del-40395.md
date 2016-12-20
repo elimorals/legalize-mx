@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-universidad-del-desarrollo-del-40395"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-26"
-last_updated: "2004-07-26"
+last_updated: "2016-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40395&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD DEL DESARROLLO DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACIÓN DIGITAL DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 20 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA UNIVERSIDAD DEL DESARROLLO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Puebla, el lunes 26 de julio de 2004.
 
@@ -175,7 +177,7 @@ IX.- Compilar, sistematizar y difundir las normas jurídicas que regulen el func
 
 X.- Coadyuvar con los titulares de la estructura administrativa de la Universidad, en la vigilancia y cumplimiento de las normas y procedimientos jurídicos que rijan sus actividades;
 
-XI.- Expedir, previo acuerdo del Rector, copia certificada de las constancias que obran en los archivos de la Universidad, cuando deban ser exhibidas en procesos judiciales o contencioso-administrativo (sic) y, en general, para cualquier proceso o averiguación, así como a petición debidamente fundada y motivada del interesado, en los casos que proceda;
+XI.- Expedir, previo acuerdo del Rector, copia certificada de las constancias que obran en los archivos de la Universidad, cuando deban ser exhibidas en procesos judiciales o contencioso-administrativo y, en general, para cualquier proceso o averiguación, así como a petición debidamente fundada y motivada del interesado, en los casos que proceda;
 
 XII.- Acordar el inicio e integración de los expedientes de naturaleza administrativo laboral que fueren necesarios, a efecto de que en los mismos se practiquen las investigaciones conducentes para esclarecer hechos o determinar responsabilidades, dictando dentro de los mismos los proveídos conducentes, previo acuerdo del Rector, a fin de que los mismos guarden estado para ser resueltos por este último;
 
@@ -488,3 +490,15 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Los acuerdos, circulares y demás disposiciones pronunciadas antes y durante la autorización de este Reglamento, tendrán plena validez siempre y cuando no contravengan al mismo.
 
 Dado en las Instalaciones de la Universidad del Desarrollo del Estado de Puebla, a los doce días del mes de julio de dos mil cuatro.- Presidente Suplente del Secretario de Educación Pública del Estado.- CONTADOR PÚBLICO APOLONIO HERNANDEZ VERA.- Rúbrica.- Secretario de la Junta de Gobierno.- MAESTRO M. CESAR LUNA Y SOLANO.- Rúbrica.- Vocal Suplente del Secretario de Gobernación.- PROFESOR FRANKLIN GUEVARA ANZURES.- Rúbrica.- Vocal Suplente del Secretario de Finanzas y Administración.- LICENCIADO OSCAR CHAPA PALOMEQUE.- Rúbrica.- Vocal Suplente del Secretario de Desarrollo Económico.- LICENCIADO JULIO CESAR RODRIGUEZ MENESES.- Rúbrica.- Vocal Suplente del Secretario de Turismo.- LICENCIADA LAURA TELLO GOMEZ.- Rúbrica.- Vocal Suplente del Secretario de Desarrollo Rural.- LICENCIADO DAVID PABLO ANDRADE.- Rúbrica.- Vocal Suplente del Secretario de Desarrollo Urbano, Ecología y Obras Públicas.- LICENCIADO JOSÉ EDUARDO ESCOBAR MEDINA.- Rúbrica.- Vocal Suplente del Secretario de Comunicaciones y Transportes.- PROFESOR LEONARDO VARGAS MACHADO.- Rúbrica.- Vocal Suplente del Secretario de Salud.- LICENCIADO JOSÉ LUIS LEYVA VELÁZQUEZ.- Rúbrica.- Vocal Representante del Sector Económico-Productivo.- LICENCIADO JUAN PABLO GUEVARA AGUILAR.- Rúbrica.- Vocal Suplente, Representante de la BUAP.- DOCTOR RAFAEL CAMPOS ENRIQUEZ.- Rúbrica.- Vocal Suplente, Representante de la Universidad Tecnológica de Puebla.- LICENCIADO SAMUEL QUIROZ DE LA VEGA.- Rúbrica.- Comisario Público y Delegado de la SEDECAP en el Sector Educativo.- CONTADOR PÚBLICO EDUARDO BRETÓN ESCAMILLA.- Rúbrica.- Rector de la Universidad del Desarrollo del Estado de Puebla.- LICENCIADO JULIO ANTONIO JIMENEZ MONTIEL.- Rúbrica.- Secretario de Actas y Acuerdos.- LICENCIADO GUSTAVO PORFIRIO BAUTISTA HUERTA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO DE EDUCACIÓN DIGITAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se Abroga el Reglamento Interior de la Universidad del Desarrollo del Estado de Puebla, publicado en el Periódico Oficial del Estado el veintiséis de julio de dos mil cuatro.
+
+TERCERO. Los acuerdos, circulares y demás disposiciones pronunciadas antes y durante la autorización de este Reglamento, tendrán plena validez siempre y cuando no contravengan al mismo.
