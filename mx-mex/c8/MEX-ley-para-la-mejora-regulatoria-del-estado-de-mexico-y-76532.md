@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-mejora-regulatoria-del-estado-de-mexico-y-76532"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2016-09-07"
+last_updated: "2016-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera a la Gaceta de Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -909,23 +909,23 @@ La Comisión respectiva informará por escrito a la Contraloría que corresponda
 
 Las infracciones administrativas a las que se refiere el artículo anterior serán imputables al servidor público estatal o municipal que por acción u omisión constituya una infracción a las disposiciones de esta Ley, mismas que serán calificadas por el órgano de control interno competente y sancionadas con:
 
-> <small>(ADICIONADA G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 I. Amonestación;
 
-> <small>(ADICIONADA G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Multa de 50 a 1000 días de salario mínimo vigente;
+II. Multa de 50 a 1000 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(ADICIONADA G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 III. Suspensión de 15 a 60 días del empleo, cargo o comisión;
 
-> <small>(ADICIONADA G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 IV. Destitución del empleo, cargo o comisión; y/o
 
-> <small>(ADICIONADA G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 V. Inhabilitación de 1 a 10 años en el servicio público estatal y municipal.
 
@@ -1030,3 +1030,19 @@ SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de 
 OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
 
 NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
