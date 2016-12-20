@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-contratacion-publica-del-estado-de-mexico-y-94106"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-03"
-last_updated: "2015-08-24"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 3 de mayo de 2013.
 
@@ -837,9 +837,11 @@ Tratándose de contratos abiertos, la garantía de cumplimiento se constituirá 
 
 Las clases, constitución, reajustes y devolución de las garantías a que se refiere este artículo, serán establecidas por el reglamento de esta Ley.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 77.
 
-Las contratantes podrán exceptuar a los proveedores o prestadores de servicios de otorgar la garantía de cumplimiento del contrato, siempre que suministren antes de la suscripción del contrato la totalidad de los bienes o de los servicios, y el monto del contrato no exceda de dos mil veces el salario mínimo vigente en la capital del Estado.
+Las contratantes podrán exceptuar a los proveedores o prestadores de servicios de otorgar la garantía de cumplimiento del contrato, siempre que suministren antes de la suscripción del contrato la totalidad de los bienes o de los servicios, y el monto del contrato no exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 78.
 
@@ -929,7 +931,9 @@ VII. Promueva o use su influencia, poder económico o político, reales o fictic
 
 VIII. Presente documentación o información falsa o alterada con el propósito de lograr un beneficio o ventaja.
 
-Serán sancionados por la Secretaría, por las dependencias, las entidades, los ayuntamientos y los tribunales, en el ámbito de su competencia, con multa equivalente a la cantidad de trescientos a tres mil veces el salario mínimo general vigente en la capital del Estado en la fecha de la infracción.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Serán sancionados por la Secretaría, por las dependencias, las entidades, los ayuntamientos y los tribunales, en el ámbito de su competencia, con multa equivalente a la cantidad de trescientas a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente en la fecha de la infracción.
 
 Lo anterior, sin perjuicio de las penas convencionales pactadas en los contratos.
 
@@ -1064,3 +1068,19 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
