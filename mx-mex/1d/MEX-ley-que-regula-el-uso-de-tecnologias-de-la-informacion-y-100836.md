@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-el-uso-de-tecnologias-de-la-informacion-y-100836
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-14"
-last_updated: "2014-05-14"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA EL USO DE TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN PARA LA SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO SEGUNDO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS CIENTO OCHENTA DÍAS NATURALES SIGUIENTES A SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL “GACETA DE GOBIERNO”</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 14 de mayo de 2014.
 
@@ -193,7 +191,9 @@ I. No contribuyen al objeto y fines de la presente Ley.
 
 II. Se advierta un deterioro físico que imposibilite el adecuado cumplimiento de sus funciones, debiendo repararse o sustituirse en un término no mayor a treinta días naturales.
 
-Cuando la inversión realizada por el Gobierno del Estado de México o los municipios, en la instalación de equipos y sistemas tecnológicos o cualquier infraestructura que se encuentre dentro de la regulación de esta Ley, sea superior al promedio de cinco mil días de salario mínimo general vigente en la zona geográfica que corresponda, no podrá ser modificada o retirada sin previo informe al Secretariado Ejecutivo.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Cuando la inversión realizada por el Gobierno del Estado de México o los municipios, en la instalación de equipos y sistemas tecnológicos o cualquier infraestructura que se encuentre dentro de la regulación de esta Ley, sea superior al promedio de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, no podrá ser modificada o retirada sin previo informe al Secretariado Ejecutivo.
 
 La Secretaría deberá informar y justificar al Secretariado Ejecutivo, en todos los casos que se determine, el retiro de equipos y sistemas tecnológicos.
 
@@ -442,3 +442,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MTRO. EFRÉN T. ROJAS DÁVILA
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
