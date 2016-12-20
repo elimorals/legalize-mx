@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-y-conservacion-de-arboles-urbanos-del-109135"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-21"
-last_updated: "2016-10-08"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 21 de julio de 2015
 
@@ -539,9 +539,13 @@ Se aplicarán sin perjuicio de las sanciones penales que procedan.
 
 La imposición de multas a las personas físicas o morales, las determinará la autoridad municipal correspondiente, dentro del ámbito de su competencia, en la forma siguiente:
 
-I. Con un equivalente de diez a trescientas veces de salario mínimo general vigente en el Estado, por cada árbol afectado, por la comisión de las infracciones señaladas en las fracciones I, II ó III del artículo 61 de este ordenamiento; o a quien incurra en la conducta prohibida en el artículos (sic) 59 de esta Ley;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Con el equivalente de cincuenta a dos mil veces de salario mínimo general vigente en el Estado, a quien cometa cualquiera de las infracciones señaladas en las fracciones IV, V, VI, VII y VIII del artículo 61de (sic) este ordenamiento o a quien incurra en la conducta prohibida en el artículo 60 de esta Ley, y
+I. Con un equivalente de diez a trescientas veces de la unidad de medida y actualización vigente, por cada árbol afectado, por la comisión de las infracciones señaladas en las fracciones I, II o III del artículo 61 de este Ordenamiento; o a quien incurra en la conducta prohibida en el artículo 59 de esta Ley;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Con el equivalente de cincuenta a dos mil veces de la unidad de medida y actualización vigente, a quien cometa cualquiera de las infracciones señaladas en las fracciones IV, V, VI, VII y VIII del artículo 61 de este Ordenamiento; o a quien incurra en la conducta prohibida en el artículo 60 de esta Ley, y
 
 III. En los casos en que se amerite, a juicio de la Autoridad Municipal, podrán imponerse como sanción la clausura o suspensión temporal o definitiva, total o parcial, el decomiso de bienes, instrumentos, vehículos o herramientas y la amonestación o apercibimiento, cuando la falta sea menor. En los casos de reincidencia, el monto de la multa podrá ser de hasta el doble del máximo establecido por esta Ley.
 
@@ -764,3 +768,11 @@ P.O. 8 DE OCTUBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0453.- SE REFORMAN DIVERSOS ARTÍCULOS DE LAS SIGUIENTES LEYES: LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DEL ESTADO DE SAN LUIS POTOSÍ, LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES Y LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
