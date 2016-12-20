@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-81319"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2016-08-03"
+last_updated: "2016-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 3 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Estado de México, el viernes 6 de mayo de 2011.
 
@@ -719,7 +719,7 @@ L. Elaborar, operar y evaluar un plan de sana convivencia y disciplina escolar p
 
 > <small>(ADICIONADA, G.G. 8 DE DICIEMBRE DE 2014)</small>
 
-Ll. Vigilar que cada institución educativa del Estado realice, las acciones necesarias para diagnosticar, prevenir, evitar, sancionar y erradicar la violencia, el hostigamiento y la intimidación entre escolares en cualquiera de sus manifestaciones;
+LI. Vigilar que cada institución educativa del Estado realice, las acciones necesarias para diagnosticar, prevenir, evitar, sancionar y erradicar la violencia, el hostigamiento y la intimidación entre escolares en cualquiera de sus manifestaciones;
 
 > <small>(ADICIONADA, G.G. 8 DE DICIEMBRE DE 2014)</small>
 
@@ -1329,7 +1329,7 @@ Quienes participen en el Servicio Profesional Docente previsto en la Ley General
 
 I. Participar en los concursos y procesos de evaluación respectivos;
 
-II Conocer con al menos tres meses de anterioridad los perfiles, parámetros e indicadores, con base en los cuales se aplicarán los procesos de evaluación;
+II. Conocer con al menos tres meses de anterioridad los perfiles, parámetros e indicadores, con base en los cuales se aplicarán los procesos de evaluación;
 
 III. Recibir junto con los resultados del proceso de evaluación o concurso, el dictamen de diagnóstico que contenga las necesidades de regularización y formación continua que correspondan;
 
@@ -2625,7 +2625,9 @@ Tratándose de infracciones cometidas por directivos, maestros y trabajadores de
 
 Tratándose de sanciones aplicables a los particulares se estará a lo siguiente:
 
-I. Multa hasta por el equivalente a cinco mil veces el salario mínimo general diario vigente en el área geográfica en que se cometa la infracción cuando se incurra en cualquiera de las infracciones a que se refiere el artículo anterior. Las multas impuestas podrán duplicarse en caso de reincidencia;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Multa hasta por el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente cuando se incurra en cualquiera de las infracciones a que se refiere el artículo anterior. Las multas impuestas podrán duplicarse en caso de reincidencia;
 
 II. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente, cuando se incurra en las infracciones establecidas en las fracciones I, VI y VII del artículo anterior;
 
@@ -2731,7 +2733,7 @@ LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 20 DE AGOSTO DE 2012.
 
@@ -2870,3 +2872,19 @@ TERCERO. Para el cumplimiento del presente Decreto, la Legislatura del Estado de
 CUARTO. El titular del Ejecutivo Estatal proveerá, en la esfera administrativa, lo conducente para la observancia del presente Decreto.
 
 QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
