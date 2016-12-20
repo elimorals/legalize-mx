@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-89672
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2015-05-26"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre del 2012.
 
@@ -721,9 +721,17 @@ II. Derecho de uso exclusivo: Lugares y servicios que son de uso único y exclus
 
 III. Derecho de libre tránsito: libertad de transitar por todos los lugares públicos sin que se obstruya los accesos específicos para su circulación como, rampas, puertas, elevadores, entre otros; deben estar señalizados con el logotipo de discapacidad, con base en lo dispuesto por esta Ley, y
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. Derecho de libre acceso y permanencia a todo lugar físico público o privado a las personas con discapacidad visual y motora que se encuentren acompañadas de perros guías: el usuario del perro guía deberá acreditar de modo idóneo que el animal ha adquirido las aptitudes de adiestramiento para acompañamiento, conducción y ayuda. Toda persona con discapacidad que se encuentre acompañada por su perro guía, tiene el derecho a acceder y permanecer junto a su perro en espacios comerciales y organismos oficiales cuyo ingreso no se halle vedado al público en general, tales como: establecimientos hoteleros, centros turísticos, culturales, deportivos, establecimientos de enseñanza pública o privada, religiosos, sanitarios, asistenciales y cualquier otro espacio de similar naturaleza; así como también, a todo transporte público o privado de pasajeros, a las terminales o estaciones utilizadas por dichos medios de transporte, cumpliendo con las normas de seguridad correspondientes.
+IV. Derecho de libre acceso y permanencia a todo espacio físico público o privado: Toda persona con discapacidad que se encuentre acompañada por su perro guía, y/o asistido por sillas de ruedas, sillas, andaderas, computadoras portátiles, tabletas electrónicas, teléfonos inteligentes y cualquier otra ayuda técnica para la movilidad y para la comunicación, así como que se encuentre acompañada y asistida por una persona en razón de su discapacidad, tiene el derecho a acceder y permanecer junto con los anteriores, en todo espacio público o privado de uso público como lo pueden ser las instalaciones laborales, educativas, recreativas, culturales, deportivas, de espectáculos, comerciales, religiosas, de salud, asistenciales, el transporte de pasajeros, terminales y estaciones de transporte, y demás espacios que requieran utilizar las personas con discapacidad.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV]</small>
+
+Las personas con discapacidad que se encuentren acompañadas de perros guías tiene (sic) el derecho a acceder y permanecer junto a su perro en los espacios públicos y privados cuyo ingreso no se halle vedado al público en general, cumpliendo con las normas de seguridad correspondientes, y deberán acreditar de modo idóneo que el animal ha adquirido las aptitudes de adiestramiento para acompañamiento, conducción y ayuda.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IV]</small>
+
+Cuando el acceso a los espacios públicos o privados tengan costo para las personas usuarias, en ningún caso se podrán generar costos adicionales por el acceso y permanencia del perro guía y/o de las ayudas técnicas y/o de la persona que acompaña y asiste, a la persona con discapacidad.
 
 La violación a estos derechos será sancionada severa e inmediatamente por las autoridades competentes.
 
@@ -785,9 +793,11 @@ Los medios de comunicación locales y regionales implementarán obligatoriamente
 
 Las instalaciones públicas o privadas, de uso o servicio público, deberán cumplir con las disposiciones que determine la legislación vigente, para garantizar la accesibilidad y desplazamiento autónomo y seguro de las personas con discapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 38.
 
-Para facilitar la accesibilidad en la infraestructura básica, equipamiento urbano y espacios públicos, las autoridades competentes de los tres órdenes de gobierno contemplarán entre otros, los siguientes lineamientos:
+Para facilitar la accesibilidad en la infraestructura básica, equipamiento urbano y espacios públicos, las autoridades competentes de los tres órdenes de gobierno deberán observar entre otros, los siguientes lineamientos:
 
 I. Que sean de carácter universal y adaptado para todas las personas;
 
@@ -1100,3 +1110,11 @@ P.O. 26 DE MAYO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0450.- SE REFORMAN LOS ARTÍCULOS, 27 EN SU FRACCIÓN IV, Y 38 EN SU PÁRRAFO PRIMERO, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
