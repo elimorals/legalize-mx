@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2016-11-10"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -1957,9 +1957,11 @@ En la audiencia de desahogo, sólo se recibirán las pruebas admitidas previamen
 
 El Tribunal de Arbitraje y Escalafón tendrá las más amplias facultades para la práctica de las diligencias de desahogo de pruebas. Los servidores públicos autorizados de las entidades públicas, pondrán a disposición del Tribunal los documentos, archivos y constancias que se refieran o se relacionen con los hechos investigados en el procedimiento, sin perjuicio de que envíen las copias que les solicite el Tribunal. Concluida la recepción de pruebas y practicadas las diligencias ordenadas por el Tribunal, se declarará concluido el procedimiento y se dictará el laudo correspondiente dentro de un término que no excederá de veintidós días hábiles.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Art. 136.
 
-El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujetarse a reglas fijas para su estimación, y resolverá los asuntos a verdad sabida y buena fé guardada, debiendo expresar en el laudo las consideraciones en que se funde la decisión.
+El Tribunal apreciará en conciencia las pruebas que se le presenten, sin sujetarse a reglas fijas para su estimación, y resolverá los asuntos a verdad sabida y buena fe guardada, debiendo expresar en el laudo las consideraciones en que se funde la decisión. El Tribunal está facultado y obligado a adoptar todas las medidas necesarias que estén a su alcance para el efecto de resolver los juicios en un término máximo de doce meses a partir de la presentación de la demanda.
 
 ###### Art. 137.
 
@@ -2842,3 +2844,9 @@ P.O. 10 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente decreto entrará vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La reforma del artículo 46 bis de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, entrará en vigor el 31 de octubre de 2018.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 26185/LXI/16, MEDIANTE EL CUAL SE MODIFICA EL ARTÍCULO 136 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS".]
+
+ÚNICO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
