@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-cambio-climatico-del-estado-de-mexico-97015"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-19"
-last_updated: "2015-07-27"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Octava de la Gaceta del Gobierno del Estado de México, el jueves 19 de diciembre de 2013.
 
@@ -941,15 +941,21 @@ Cuando la Secretaría o los Ayuntamientos ordenen alguna de las medidas de segur
 
 ### Capítulo III. Sanciones Administrativas
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 51.
 
-En caso de que las personas físicas o jurídicas colectivas responsables de las fuentes emisoras de competencia estatal o municipal sujetas a reporte no entreguen la información, datos o documentos requeridos por la Secretaría o los Ayuntamientos en el plazo correspondiente, en el ámbito de sus respectivas competencias, podrán éstas imponer una multa por el equivalente de cien a tres mil días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción, sin menoscabo del cumplimiento inmediato de dicha obligación.
+En caso de que las personas físicas o jurídicas colectivas responsables de las fuentes emisoras de competencia estatal o municipal sujetas a reporte no entreguen la información, datos o documentos requeridos por la Secretaría o los Ayuntamientos en el plazo correspondiente, en el ámbito de sus respectivas competencias, podrán éstas imponer una multa por el equivalente de cien a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente que corresponda al momento de cometer la infracción, sin menoscabo del cumplimiento inmediato de dicha obligación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 52.
 
-En caso de encontrarse falsedad en la información proporcionada por las personas físicas o jurídicas colectivas responsables de las fuentes emisoras de competencia estatal o municipal sujetas a reporte, la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán imponer multa por el equivalente de trescientos a mil quinientos días de salario mínimo general vigente en el área geográfica del Estado que corresponda, al momento de cometer la infracción.
+En caso de encontrarse falsedad en la información proporcionada por las personas físicas o jurídicas colectivas responsables de las fuentes emisoras de competencia estatal o municipal sujetas a reporte, la Secretaría y los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán imponer multa por el equivalente de trescientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción.
 
-En caso de reincidencia, el monto de la multa será por el equivalente a siete mil quinientos días de salario mínimo general vigente en el área geográfica del Estado que corresponda, al momento de cometer la infracción.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+En caso de reincidencia, el monto de la multa será por el equivalente a siete mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción.
 
 La multa será independiente de cualquier otra responsabilidad que pudiera derivarse en los órdenes civil y penal. La Secretaría o los Ayuntamientos deberán hacer dichos actos del conocimiento de las autoridades competentes.
 
@@ -1042,3 +1048,21 @@ NOVENO. Cuando en otros ordenamientos legales administrativos, documentación y 
 DÉCIMO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
 
 DÉCIMO PRIMERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
