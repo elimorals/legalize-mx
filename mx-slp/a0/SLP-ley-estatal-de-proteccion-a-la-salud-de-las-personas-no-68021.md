@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-la-salud-de-las-personas-no-68021"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2009-03-28"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY ESTATAL DE PROTECCION A LA SALUD DE LAS PERSONAS NO FUMADORAS
 
-LEY ESTATAL DE PROTECCION A LA SALUD DE LAS PERSONAS NO FUMADORAS
+LEY ESTATAL DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 28 de marzo de 2009.
 
@@ -329,7 +329,9 @@ III Clausura temporal o definitiva, que podrá ser parcial o total, y
 
 IV. Arresto hasta por treinta y seis horas.
 
-Las multas se calcularán tomando como base el salario mínimo diario vigente en la zona económica correspondiente al momento de imponer la sanción; asimismo, el pago de éstas no podrá exceder de un plazo de treinta días al momento de haber sido impuesta la sanción.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+Las multas se calcularán tomando como base la unidad de medida y actualización vigente al momento de imponer la sanción; asimismo, el pago de éstas no podrá exceder de un plazo de treinta días al momento de haber sido impuesta la sanción.
 
 Las multas que se impongan por infracción a esta Ley, tendrán el carácter de créditos fiscales, de conformidad con lo establecido en el artículo 18 del Código Fiscal del Estado.
 
@@ -347,9 +349,13 @@ III. La calidad de reincidente del infractor.
 
 Se sancionará con multa:
 
-I. De hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, el incumplimiento de lo dispuesto en el artículo 10 de esta Ley, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-II. De mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate, el incumplimiento de las disposiciones contenidas en los artículos 11 y 12 de esta Ley.
+I. De hasta cien veces la unidad de medida y actualización diaria vigente, el incumplimiento de lo dispuesto en el artículo 10 de esta Ley, y
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+II. De mil hasta cuatro mil veces la unidad de medida y actualización diaria vigente, el incumplimiento de las disposiciones contenidas en los artículos 11 y 12 de esta Ley.
 
 ###### ARTICULO 34.
 
@@ -428,3 +434,13 @@ El Secretario General de Gobierno
 Lic. Héctor Vega Robles
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO".]</small>
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0451.- SE REFORMAN DIVERSOS ARTÍCULOS DE LAS SIGUIENTES LEYES: LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ, LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ, LEY ESTATAL DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS Y LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
