@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-los-centros-de-asistencia-social-y-las-109572"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-20"
-last_updated: "2015-08-20"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 20 de agosto de 2015.
 
@@ -643,7 +643,7 @@ La familia de acogida, se hará cargo del cuidado, protección, crianza positiva
 
 El Ministerio Público cuando tenga conocimiento de algún asunto en el que se encuentren involucrados niñas, niños o adolescentes migrantes extranjeros, deberá informar en el término de veinticuatro horas al Instituto Nacional de Migración, para que se pronuncie al respecto; mientras tanto y a fin de proporcionarles atención adecuada los podrá canalizar a los Centros de Asistencia Social públicos.
 
-Asimismo deberá informar al DIFEM a cerca (sic) de las canalizaciones que realice respecto de niñas, niños o adolescentes migrantes extranjeros, a los Centros de Asistencia Social pertenecientes a los Sistemas Municipales DIF, en un plazo no mayor a cuarenta y ocho horas; a fin de integrarlos al registro correspondiente.
+Asimismo, deberá informar al DIFEM a cerca (sic) de las canalizaciones que realice respecto de niñas, niños o adolescentes migrantes extranjeros, a los Centros de Asistencia Social pertenecientes a los Sistemas Municipales DIF, en un plazo no mayor a cuarenta y ocho horas; a fin de integrarlos al registro correspondiente.
 
 ###### Artículo 47.
 
@@ -1085,7 +1085,7 @@ Determinada la compatibilidad se procederá de manera inmediata a citar al o los
 
 ###### Artículo 93.
 
-En caso de que la propuesta tenga un resultado positivo por parte de los solicitantes y la niña, niño o adolescente, se abrirá un periodo de convivencia previa de un máximo de tres días en el interior del Centro de Asistencia Social en las áreas destinadas al efecto, en caso de resultar satisfactoria, se abrirá un primer periodo de convivencias que durará un tiempo máximo de quince días naturales en el domicilio del o de los solicitantes, otorgándoles un acta provisional de guarda y cuidado. Al término de este periodo, los solicitantes ratificarán el deseo de continuar con la adopción, recabándose además en caso de ser posible y atendiendo su edad y capacidad para hacerlo, la opinión de la niña, niño o adolescente y se determinará por el área de psicología si existe empatía, este procedimiento podrá repetirse durante dos periodos adicionales de quince días naturales cada uno en los términos ya señalados, considerado (sic) la edad y la capacidad de las niñas, niños y adolescentes a adaptarse al nuevo entorno así como del o los solicitantes de crear vínculos afectivos adecuados.
+En caso de que la propuesta tenga un resultado positivo por parte de los solicitantes, y la niña, niño o adolescente, se abrirá un periodo de convivencia previa de un máximo de tres días en el interior del Centro de Asistencia Social en las áreas destinadas al efecto, en caso de resultar satisfactoria, se abrirá un primer periodo de convivencias que durará un tiempo máximo de quince días naturales en el domicilio del o de los solicitantes, otorgándoles un acta provisional de guarda y cuidado. Al término de este periodo, los solicitantes ratificarán el deseo de continuar con la adopción, recabándose además en caso de ser posible y atendiendo su edad y capacidad para hacerlo, la opinión de la niña, niño o adolescente y se determinará por el área de psicología si existe empatía, este procedimiento podrá repetirse durante dos periodos adicionales de quince días naturales cada uno en los términos ya señalados, considerado (sic) la edad y la capacidad de las niñas, niños y adolescentes a adaptarse al nuevo entorno así como del o los solicitantes de crear vínculos afectivos adecuados.
 
 Si del resultado de las convivencias resulta satisfactoria la empatía, se otorgará el Certificado de Idoneidad a los solicitantes y el Acta Definitiva de Guarda y Cuidado, una vez entregados ambos documentos, por ninguna circunstancia será devuelto o reincorporada la niña, niño o adolescente al DIFEM o DIF Municipal que corresponda, salvo que se advierta alguna situación que atente contra su interés superior.
 
@@ -1227,9 +1227,11 @@ VI. Clausura.
 
 Los servidores públicos que por acción u omisión transgredan los derechos de las niñas, niños y adolescentes serán sujetos de las sanciones administrativas previstas en esta Ley, sin menoscabo de las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios y de la responsabilidad civil o penal que se configure.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 112.
 
-La sanción económica procederá contra el servidor público que sin causa justificada, incumpla las obligaciones o los plazos establecidos por la presente Ley, dicha sanción será de cincuenta a trescientas veces el salario mínimo general vigente.
+La sanción económica procederá contra el servidor público que sin causa justificada, incumpla las obligaciones o los plazos establecidos por la presente Ley, dicha sanción será de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 En caso de reincidencia, además de la sanción económica procederá la destitución.
 
@@ -1237,23 +1239,33 @@ En caso de reincidencia, además de la sanción económica procederá la destitu
 
 La destitución del empleo, cargo o comisión procederá contra el servidor público cuando incumpla las obligaciones previstas por esta Ley, como consecuencia de un acto u omisión, obtenga lucro o cause daños y perjuicios a la administración pública o a los sujetos protegidos por la presente Ley. Además, se impondrá sanción económica equivalente al doble del monto obtenido indebidamente.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 114.
 
-La inhabilitación procederá contra el servidor público cuando incumpla las obligaciones previstas por esta Ley, como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños y perjuicios a la administración pública o a los sujetos protegidos por la presente Ley, cuando el monto de aquellos sea mayor a cien veces y menos de trescientas veces el salario mínimo general vigente en la capital del Estado será de uno a cinco años y de cinco a diez años si excede de dicho límite.
+La inhabilitación procederá contra el servidor público cuando incumpla las obligaciones previstas por esta Ley, como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños y perjuicios a la administración pública o a los sujetos protegidos por la presente Ley, cuando el monto de aquellos sea mayor a cien y menor de trescientas veces el valor diario de la Unidad de Medida y Actualización vigente será de uno a cinco años y de cinco a diez años si excede de dicho límite.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 115.
 
-Las infracciones cometidas por los Centros de Asistencia Social de las instituciones acreditadas que funcionen sin autorización del DIFEM serán sancionadas con multa equivalente de dos mil a cinco mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción y clausura.
+Las infracciones cometidas por los Centros de Asistencia Social de las instituciones acreditadas que funcionen sin autorización del DIFEM serán sancionadas con multa equivalente de dos mil a cinco mil veces el valor diario de la unidad de medida y actualización vigente que corresponda al momento de cometer la infracción y clausura.
 
 ###### Artículo 116.
 
 Las infracciones cometidas por los Centros de Asistencia Social de las instituciones acreditadas que funcionen con autorización del DIFEM serán sancionadas en los términos siguientes:
 
-I. Con multa equivalente de cincuenta a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, por incumplir las obligaciones contenidas en la presente Ley.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Con multa equivalente de cincuenta a quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, por incumplir las funciones que el DIFEM, en su caso, le haya delegado en materia de adopciones.
+I. Con multa equivalente de cincuenta a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente que corresponda al momento de cometer la infracción, por incumplir las obligaciones contenidas en la presente Ley.
 
-III. Con multa equivalente de quinientas a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, por desempeñar funciones que no hayan sido delegadas por el DIFEM en materia de adopciones.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Con multa equivalente de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente que corresponda al momento de cometer la infracción, por incumplir las funciones que el DIFEM, en su caso, le haya delegado en materia de adopciones.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Con multa equivalente de quinientas a dos nnil (sic) veces el valor diario de la Unidad de Medida y Actualización vigente que corresponda al momento de cometer la infracción, por desempeñar funciones que no hayan sido delegadas por el DIFEM en materia de adopciones.
 
 Además de las multas previstas en el presente artículo se podrá imponer la suspensión, y en caso de reincidencia se duplicará el monto de la multa y se aplicará conjuntamente con cualquiera de las sanciones contempladas, incluyendo la clausura. Se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de esta Ley, dos o más veces dentro del período de cinco años contado a partir de la fecha en que se le hubiere notificado la sanción inmediata anterior.
 
@@ -1271,13 +1283,17 @@ Al interesado en reintegrar a una niña, niño o adolescente albergado a su núc
 
 Los jueces que conozcan del procedimiento de adopción y que contravengan lo dispuesto por la presente Ley serán sancionados conforme a lo establecido en la Ley Orgánica del Poder Judicial del Estado de México.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 120.
 
-El Oficial del Registro Civil que no registre el acta de adopción correspondiente, se le impondrá una multa de cincuenta a cien días de salario mínimo general vigente en el área geográfica que corresponda.
+El Oficial del Registro Civil que no registre el acta de adopción correspondiente, se le impondrá una multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente que corresponda.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 121.
 
-Al Oficial del Registro Civil que expida constancia mediante la cual se revele el origen del adoptado, sin que medie resolución judicial, será acreedor a la suspensión, en tanto dure el procedimiento administrativo disciplinario y, en su caso, procederá la destitución del empleo, cargo o comisión, así como la sanción económica de cincuenta a cien días de salario mínimo general vigente en el área geográfica que corresponda e inhabilitación temporal para desempeñar empleos, cargos o comisiones públicas de uno a diez años.
+Al Oficial del Registro Civil que expida constancia mediante la cual se revele el origen del adoptado, sin que medie resolución judicial, será acreedor a la suspensión, en tanto dure el procedimiento administrativo disciplinario y, en su caso, procederá la destitución del empleo, cargo o comisión, así como la sanción económica de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente que corresponda e inhabilitación temporal para desempeñar empleos, cargos o comisiones públicas de uno a diez años.
 
 ###### Artículo 122.
 
@@ -1316,3 +1332,23 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+Lo tendrá entendido el Gobernador del Estado, haciendo que se publique y se cumpla.
