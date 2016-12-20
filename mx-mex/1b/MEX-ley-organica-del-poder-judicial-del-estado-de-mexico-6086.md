@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2016-06-16"
+last_updated: "2016-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -1075,9 +1075,9 @@ Los demás servidores públicos de los juzgados de primera instancia deberán re
 
 Los jueces de primera instancia de la materia civil, conocerán y resolverán:
 
-> <small>(REFORMADA, G.G. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. De los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el salario mínimo vigente en el área geográfica respectiva o cuando no sea susceptible de cuantificarse en dinero, con excepción de los que correspondan al derecho familiar y mercantil, sí hubiere en el lugar juzgados de estas materias; también conocerán del juicio oral mercantil, hasta por el monto que señala el Código de Comercio;
+I. De los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el valor diario de la Unidad de Medida y Actualización vigente o cuando no sea susceptible de cuantificarse en dinero, con excepción de los que correspondan al derecho familiar y mercantil, sí hubiere en el lugar juzgados de estas materias; también conocerán del juicio oral mercantil, hasta por el monto que señala el Código de Comercio;
 
 II. De los actos de jurisdicción voluntaria relacionados con inmatriculaciones, informaciones de dominio o ad perpetuam y juicios donde se ejerciten acciones posesorias, cualquiera que sea el valor del negocio;
 
@@ -1243,15 +1243,13 @@ Los jueces de cuantía menor, dentro de su jurisdicción, tendrán competencia p
 
 I. En materia civil y mercantil, esta última siempre que no existiera en el ámbito de su competencia juzgados especializados en dicho rubro:
 
-> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-a) De todos los juicios civiles o mercantiles cuyo monto sea hasta mil veces el salario mínimo vigente en el área geográfica respectiva, exceptuando los asuntos que son de la competencia de los jueces de primera instancia.
+a) De todos los juicios civiles o mercantiles cuyo monto sea hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente, exceptuando los asuntos que son de la competencia de los jueces de primera instancia.
 
-> <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-b) De las diligencias de consignación, incluso pensiones alimenticias, cuando el valor de la cosa o la cantidad que se ofrezca sea hasta mil veces el salario mínimo vigente en el área geográfica respectiva. En los casos de prestaciones periódicas deberá estarse a lo dispuesto en el Código de Procedimientos Civiles.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+b) De las diligencias de consignación, incluso pensiones alimenticias, cuando el valor de la cosa o la cantidad que se ofrezca sea hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente. En los (sic) caso de prestaciones periódicas deberá estarse a lo dispuesto en el Código de Procedimientos Civiles.
 
 II. (DEROGADA, G.G. 30 DE SEPTIEMBRE DE 2009)
 
@@ -1789,7 +1787,9 @@ I. Amonestación;
 
 II. Apercibimiento;
 
-III. Sanción económica de tres a 500 días de salario mínimo diario vigente en el área geográfica respectiva;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Sanción económica de tres a 500 veces el valor diario de la Unidad de Medida y Actualización vigente;
 
 IV. Suspensión del cargo hasta por un mes;
 
@@ -3236,3 +3236,19 @@ SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 CUARTO. Respecto a las adiciones a los artículos 70 y 70 Bis del Código Penal del Estado de México, el otorgamiento del beneficio estará condicionado además a la disponibilidad de los dispositivos electrónicos y a la suficiencia presupuestal para su ejecución.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
