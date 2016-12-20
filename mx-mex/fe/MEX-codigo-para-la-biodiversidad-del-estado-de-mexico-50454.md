@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2016-09-07"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -40,8 +40,6 @@ DECRETA:
 ###### ARTICULO PRIMERO.
 
 Se expide Código para la Biodiversidad del Estado de México, para quedar como sigue:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 337, PUBLICADO EN LA G.G. DE 1 DE SEPTIEMBRE DE 2011, CUANDO EN OTROS ORDENAMIENTOS LEGALES, SE HAGA REFERENCIA AL TÉRMINO PERSONAS CON CAPACIDADES DIFERENTES, SE ENTENDERÁ QUE CORRESPONDE AL TÉRMINO PERSONAS CON DISCAPACIDAD.</small>
 
 CODIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MEXICO
 
@@ -429,6 +427,10 @@ LX. Sistema: El Sistema de Información y Vigilancia de los Ecosistemas y su Equ
 
 LXI. Sitio contaminado: El lugar, espacio, suelo, cuerpo de agua, instalación o cualquier combinación de éstos que ha sido contaminado con materiales o residuos que por sus cantidades y características puede representar un riesgo a la salud humana, a los organismos vivos y al aprovechamiento de los bienes o propiedades de las personas.
 
+> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+LXII. Unidad de Medida y Actualización: Unidad de cuenta, índice, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en este ordenamiento.
+
 ### CAPITULO II. DE LAS AUTORIDADES Y SUS ATRIBUCIONES
 
 ###### Artículo 2.
@@ -813,9 +815,11 @@ IV. Se trate de información sobre inventarios e insumos y tecnologías de proce
 
 31. Las autoridades ambientales deberán resolver por escrito toda petición de información ambiental y notificarla a los solicitantes en un plazo no mayor de treinta días hábiles a partir de la recepción de la petición respectiva; en términos de lo regulado por el Código de Procedimientos Administrativos del Estado de México. En caso de que la autoridad conteste negativamente, la solicitud deberá señalar las razones que funden y motiven su determinación.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-32. El titular del órgano administrativo que se oponga sin motivo ni fundamento a la entrega de la información pública ambiental que se le requiera, salvo en los casos previstos en el artículo anterior, se hará acreedor a una sanción de hasta cinco mil quinientos días de salario mínimo general vigente en el Estado sin perjuicio de las demás sanciones que le correspondan de conformidad con las leyes que resulten aplicables.
+32. El titular del órgano administrativo que se oponga sin motivo ni fundamento a la entrega de la información pública ambiental que se le requiera, salvo en los casos previstos en el artículo anterior, se hará acreedor a una sanción de hasta cinco mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente sin perjuicio de las demás sanciones que le correspondan de conformidad con las leyes que resulten aplicables.
 
 ###### Artículo 2.
 
@@ -1357,7 +1361,9 @@ En aquellos casos que por negligencia, dolo o mala fe se ingrese el informe prev
 
 El Reglamento establecerá la forma a través de los cuales se hará efectivo el derecho a que se refiere el párrafo anterior para lo cual determinará las formalidades, plazos y demás circunstancias que resulten necesarias para garantizar adecuadamente los derechos a que se refieren los artículos 1.2 fracción I del Libro Primero de este Código y 2.27 fracción II del presente Libro.
 
-La persona que haga uso de las formas de participación social a los que se refiere este Libro sin motivos razonablemente fundados, realizando observaciones y peticiones notoriamente frívolas con el ánimo de entorpecer y retardar los procedimientos administrativos de evaluación de impacto ambiental, se hará acreedora a una sanción de hasta diez mil días de salario mínimo general vigente en el Estado, sin perjuicio de las responsabilidades civiles y penales en las que pudiera incurrir de acuerdo a lo previsto en el presente Código y demás leyes que resulten aplicables.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+La persona que haga uso de las formas de participación social a los que se refiere este Libro sin motivos razonablemente fundados, realizando observaciones y peticiones notoriamente frívolas con el ánimo de entorpecer y retardar los procedimientos administrativos de evaluación de impacto ambiental, se hará acreedora a una sanción de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización vigente, sin perjuicio de las responsabilidades civiles y penales en las que pudiera incurrir de acuerdo a lo previsto en el presente Código y demás leyes que resulten aplicables.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -2827,9 +2833,13 @@ Cuando el infractor realice las medidas correctivas o de urgente aplicación o s
 
 257. La Secretaría competente o el Ayuntamiento en el ámbito de sus respectivas competencias, darán a los bienes incautados alguno de los siguientes destinos:
 
-I. Venta a través de invitación a cuando menos tres compradores en aquellos casos en que el valor de lo incautado no exceda de cinco mil veces el salario diario mínimo de la zona geográfica del Estado en la que se hubiere verificado la infracción al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la autoridad podrá proceder a su venta directa;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Remate en subasta pública, cuando el valor de lo incautado exceda de cinco mil veces el salario diario mínimo de la zona geográfica del Estado en la que se hubiere verificado la infracción al momento de imponer la sanción;
+I. Venta a través de invitación a cuando menos tres compradores en aquellos casos en que el valor de lo incautado no exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de imponer la sanción. Si dichos invitados no comparecen el día señalado para la venta o sus precios no fueren aceptados, la autoridad podrá proceder a su venta directa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Remate en subasta pública, cuando el valor de lo incautado exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de imponer la sanción.
 
 III. Donación a organismos públicos e instituciones científicas o de enseñanza superior o de beneficencia pública, según la naturaleza del bien incautado y de acuerdo a las funciones y actividades que realice el donatario siempre y cuando no sean lucrativas. Tratándose de especies y subespecies de flora y fauna silvestre, éstas podrán ser donadas a zoológicos públicos, siempre que se garantice la existencia de condiciones adecuadas para su desarrollo; y
 
@@ -2873,9 +2883,11 @@ V. La reparación del daño y deterioro a la biodiversidad será impuesta por au
 
 262. Las sanciones que establece el presente Libro por infracciones al Código, serán impuestas por la autoridad competente sin perjuicio de las responsabilidades que resulten de conformidad con otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-263. Se sancionará con el pago de multa, por el equivalente de cien a tres mil días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción a quien:
+263. Se sancionará con el pago de multa, por el equivalente de cien a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción a quien:
 
 I. Genere residuos sólidos de origen doméstico sin atender las disposiciones dictadas los por los Ayuntamientos y por la legislación estatal aplicable;
 
@@ -2915,9 +2927,11 @@ Además de las sanciones que se establecen en las fracciones anteriores se hará
 
 Se harán acreedores a la incautación por parte de la autoridad de las materias primas obtenidas, así como de los instrumentos, maquinaria, equipos y herramientas o los medios de transporte utilizados las personas físicas o jurídicas colectivas que incurran en los supuestos previstos en el artículo 2.266 de este Libro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-264. Se sancionará con el pago de multa equivalente de doscientos cincuenta a veinte mil días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción, cuando:
+264. Se sancionará con el pago de multa equivalente de doscientas cincuenta a veinte mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, cuando:
 
 I. Se impida al personal autorizado el acceso al lugar o lugares sujetos a inspección ambiental en los términos previstos en la orden escrita;
 
@@ -2967,17 +2981,27 @@ Se harán acreedores a la incautación por parte de la autoridad de las materias
 
 265. A los propietarios o poseedores de vehículos automotores que infrinjan las disposiciones que emita la Secretaría para realizar la verificación periódica o rebasen los límites permisibles de emisiones contaminantes, se sancionarán de la siguiente manera:
 
-l. Se impondrá una multa de veinte días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, a quien no verifique dentro del periodo determinado, o no porte el holograma correspondiente;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Se sancionará con el pago de multa equivalente a veinticuatro días de salario mínimo general vigente en el área geográfica que corresponda y el retiro de una placa de circulación al momento de cometer la infracción, cuando rebase los límites máximos permisibles contenidos en las normas oficiales mexicanas y en los criterios y normas técnicas estatales de conformidad con la constancia respectiva; así mismo el propietario o poseedor del vehículo contará con el plazo de treinta días naturales a partir de la sanción impuesta, para efectuar a la unidad las reparaciones mecánicas correspondientes para estar en condiciones de verificarla;
+I. Se impondrá una multa de veinte veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien no verifique dentro del periodo determinado, o no porte el holograma correspondiente.
 
-III. En el caso de que no se realice la reparación y verificación en el plazo establecido en la fracción anterior, se hará acreedor a una multa adicional de cuarenta días de salario mínimo general vigente en el área geográfica que corresponda y se le otorgará un nuevo plazo de treinta días naturales a partir de la aplicación de la sanción anterior, para efectuar la reparación y verificación necesaria;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. Si se reincide en la omisión para llevar a cabo la reparación y verificación en el plazo concedido en la fracción anterior, se hará acreedor a una multa adicional de ciento sesenta días de salario mínimo general vigente en el área geográfica que corresponda, así como el retiro de la segunda placa de circulación.
+II. Se sancionará con el pago de multa equivalente a veinticuatro veces el valor diario de la Unidad de Medida y Actualización vigente y el retiro de una placa de circulación al momento de cometer la infracción, cuando rebase los límites máximos permisibles contenidos en las normas oficiales mexicanas y en los criterios y normas técnicas estatales de conformidad con la constancia respectiva; así mismo el propietario o poseedor del vehículo contará con el plazo de treinta días naturales a partir de la sanción impuesta, para efectuar a la unidad las reparaciones mecánicas correspondientes para estar en condiciones de verificarla.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. En el caso de que no se realice la reparación y verificación en el plazo establecido en la fracción anterior, se hará acreedor a una multa adicional de cuarenta veces el valor diario de la Unidad de Medida y Actualización vigente y se le otorgará un nuevo plazo de treinta días naturales a partir de la aplicación de la sanción anterior, para efectuar la reparación y verificación necesaria.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Si se reincide en la omisión para llevar a cabo la reparación y verificación en el plazo concedido en la fracción anterior, se hará acreedor a una multa adicional de ciento sesenta veces el valor diario de la Unidad de Medida y Actualización vigente, así como el retiro de la segunda placa de circulación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 2.
 
-266. Se sancionará con el pago de multa por el equivalente de quinientos a cuarenta mil días de salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción a quien:
+266. Se sancionará con el pago de multa por el equivalente de quinientas a cuarenta mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción a quien:
 
 I. Realice actividades de explotación o aprovechamiento de recursos en áreas naturales protegidas, de competencia estatal sin sujetarse al programa de manejo del área respectiva;
 
@@ -3015,9 +3039,11 @@ VIII. Vierta al sistema de drenaje y alcantarillado, aguas residuales sin tratam
 
 IX. Arroje basura, ácidos, combustibles o cualquier producto contaminante en los cuerpos de agua estatal o en sistemas de drenaje y alcantarillado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-267. Se sancionará con el pago de multa por el equivalente de quinientos a cuarenta mil días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción a quienes verifiquen fuentes móviles que no cumplan con las obligaciones establecidas en el presente Libro o que:
+267. Se sancionará con el pago de multa por el equivalente de quinientas a cuarenta mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción a quienes verifiquen fuentes móviles que no cumplan con las obligaciones establecidas en el presente Libro o que:
 
 I. Expidan constancias o reportes de verificación alteradas o que no reúnan los requisitos correspondientes;
 
@@ -3031,9 +3057,11 @@ Sin perjuicio de lo anterior, a quien incumpla cualquiera de las obligaciones es
 
 Además de las multas que se establecen en las fracciones anteriores, se harán acreedores a la clausura temporal o definitiva, parcial o total de los establecimientos y la cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento o uso de la inscripción registral de las actividades de que se trate las personas físicas o jurídicas colectivas que incurran en el supuesto previsto en la fracción VII del artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-268. Se sancionará con el pago de multa por el equivalente de mil a cincuenta mil días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción, a verificadores de fuentes fijas que:
+268. Se sancionará con el pago de multa por el equivalente de mil a cincuenta mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a verificadores de fuentes fijas que:
 
 I. No cuenten con la autorización correspondiente;
 
@@ -3049,23 +3077,29 @@ VI. Realicen actividades para las cuales no estén autorizados; y
 
 VII. No operen conforme a los sistemas, procedimientos, instalaciones, equipos y plazos de verificación establecidos en las normas ambientales aplicables o los determinados por la Secretaría en el programa, convocatoria y autorización respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-269. Se sancionará con el pago de multa, por el equivalente de mil doscientos cincuenta a cincuenta y cinco mil días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción a quien:
+269. Se sancionará con el pago de multa, por el equivalente de mil doscientas cincuenta a cincuenta y cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción a quien:
 
 I. Realice actividades riesgosas contraviniendo las medidas preventivas, de control o correctivas establecidas en las normas ambientales aplicables para prevenir y controlar accidentes; y
 
 II. Trafique en los asuntos no reservados a la Federación con una o más especies o subespecies silvestres de flora o fauna terrestres, acuáticas, en peligro de extinción, amenazadas, raras o sujetas a protección especial, de conformidad con las normas ambientales aplicables sin perjuicio de la denuncia ante el Ministerio Público.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 #### SECCION SEGUNDA. DE LAS REGLAS PARA LA IMPOSICION DE SANCIONES
 
 ###### Artículo 2.
 
-270. Se hará acreedor a una sanción por el equivalente de mil doscientos cincuenta a cincuenta y cinco mil días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción, a quien realice obras, actividades o aprovechamientos de elementos y recursos naturales o bienes ambientales, sin contar con la previa autorización de la manifestación de impacto ambiental en los casos en que ésta sea exigible. En caso de que ya se hubiere iniciado el procedimiento de evaluación de impacto ambiental la Secretaría además de imponer la sanción correspondiente, podrá negar la autorización respectiva.
+270. Se hará acreedor a una sanción por el equivalente de mil doscientas cincuenta a cincuenta y cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, a quien realice obras, actividades o aprovechamientos de elementos y recursos naturales o bienes ambientales, sin contar con la previa autorización de la manifestación de impacto ambiental en los casos en que ésta sea exigible. En caso de que ya se hubiere iniciado el procedimiento de evaluación de impacto ambiental la Secretaría además de imponer la sanción correspondiente, podrá negar la autorización respectiva.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 2.
 
-271. Se considerará al que incurra en ecocidio y será sancionado con el pago de multa por el equivalente de cuatro mil a sesenta mil días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción a quien:
+271. Se considerará al que incurra en ecocidio y será sancionado con el pago de multa por el equivalente de cuatro mil a sesenta mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción a quien:
 
 I. Realice actividades que puedan afectar a la biodiversidad o a cualquiera de sus elementos, a la salud o a la integridad de las personas;
 
@@ -3079,11 +3113,17 @@ IV. Transporte materiales, residuos peligrosos, en los casos no reservados a la 
 
 272. Quien incurra en falsedad en los informes preventivos, en manifestaciones de impacto ambiental, en estudios de riesgo o que no se haya cumplido con las obligaciones establecidas en los programas de prevención de accidentes será sancionado con:
 
-I. Amonestación y el pago de multa por el equivalente de trescientos a mil quinientos días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción por primera vez;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Arresto y el pago de multa por el equivalente a siete mil quinientos días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción y que sea por segunda vez; y
+I. Amonestación y el pago de multa por el equivalente de trescientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción por primera vez.
 
-III. La pérdida del registro y el pago de multa por el equivalente de tres mil a quince mil días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción y sea reincidente en más de dos ocasiones.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Arresto y el pago de multa por el equivalente a siete mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción y que sea por segunda vez.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. La pérdida del registro y el pago de multa por el equivalente de tres mil a quince mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción y sea reincidente en más de dos ocasiones.
 
 ###### Artículo 2.
 
@@ -3123,9 +3163,11 @@ IV. La suspensión temporal, parcial o total del aprovechamiento de la actividad
 
 278. Cuando la autoridad competente imponga alguna o algunas de las medidas de seguridad señaladas, se indicarán las acciones que se deben llevar a cabo para subsanar las irregularidades que las motivaron y los plazos para revisarlas, a fin de que una vez satisfechas éstas, se ordene el retiro de dichas medidas.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-279. Tratándose de fuentes fijas si persiste la infracción una vez vencido el plazo concedido por la Secretaría o las autoridades municipales correspondientes para corregir las irregularidades detectadas, podrán imponerse multas adicionales por cada día que subsista la contravención sin perjuicio del pago de la multa originalmente impuesta. El monto total de las multas, no podrá exceder del equivalente a cuarenta mil días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción.
+279. Tratándose de fuentes fijas si persiste la infracción una vez vencido el plazo concedido por la Secretaría o las autoridades municipales correspondientes para corregir las irregularidades detectadas, podrán imponerse multas adicionales por cada día que subsista la contravención sin perjuicio del pago de la multa originalmente impuesta. El monto total de las multas, no podrá exceder del equivalente a cuarenta mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción.
 
 ###### Artículo 2.
 
@@ -3177,17 +3219,21 @@ VIII. Que usen o entreguen indebidamente constancias, calcomanías o documentos 
 
 IX. Que cobren por la verificación una cantidad superior a la autorizada por la Secretaría.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-283. Las infracciones a las disposiciones del presente Código que no tengan sanción específica, serán sancionadas mediante amonestación con el apercibimiento de que en caso de incurrir nuevamente en la misma infracción, se aplicará el pago de multa por el equivalente a cien días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción. Si aplicado el pago de la multa se comete nuevamente la misma infracción, se estará a lo dispuesto en este Libro en materia de reincidencia.
+283. Las infracciones a las disposiciones del presente Código que no tengan sanción específica, serán sancionadas mediante amonestación con el apercibimiento de que en caso de incurrir nuevamente en la misma infracción, se aplicará el pago de multa por el equivalente a cien veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción. Si aplicado el pago de la multa se comete nuevamente la misma infracción, se estará a lo dispuesto en este Libro en materia de reincidencia.
 
 ###### Artículo 2.
 
 284. Cuando el infractor cometa uno o más hechos y con ello viole alguna de las disposiciones del presente Código, se acumularán y aplicarán las sanciones correspondientes a cada una de ellas.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-285. Para la ejecución de las órdenes expedidas por la Secretaría correspondiente o las autoridades municipales competentes, podrá hacerse uso de la fuerza pública, quien se oponga o impida el cumplimiento de dichas órdenes será sancionado con multa por el equivalente de doscientos a mil días de salario mínimo general vigente en el área geográfica del Estado que corresponda al momento de cometer la infracción, pero si el infractor no pagase la multa impuesta se permutará ésta por el arresto.
+285. Para la ejecución de las órdenes expedidas por la Secretaría correspondiente o las autoridades municipales competentes, podrá hacerse uso de la fuerza pública, quien se oponga o impida el cumplimiento de dichas órdenes será sancionado con multa por el equivalente de doscientas a mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, pero si el infractor no pagase la multa impuesta se permutará ésta por el arresto.
 
 ###### Artículo 2.
 
@@ -3295,9 +3341,11 @@ La autoridad deberá en todo caso, cuando la denuncia no sea de su competencia p
 
 299. Sin perjuicio de las sanciones penales o administrativas que resulten procedentes toda persona física o jurídica colectiva que contamine, dañe al ambiente o afecte los elementos y recursos naturales, los bienes ambientales o a la biodiversidad será responsable y estará obligada a reparar los daños causados de conformidad con la legislación aplicable.
 
-###### Articulo 2.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-300. A quien promueva una denuncia ciudadana basada en hechos falsos o con el ánimo de causar molestias o daños al presunto infractor y que de la resolución se desprenda dicha intención se le impondrá el pago de multa hasta por diez mil días de salario mínimo general vigente en el Estado, sin perjuicio de las sanciones de carácter penal que se le puedan imponer y acciones que para la reparación de los daños y perjuicios que se le hubieren causado al denunciado y que éste haga valer ante las instancias correspondientes.
+###### Artículo 2.
+
+300. A quien promueva una denuncia ciudadana basada en hechos falsos o con el ánimo de causar molestias o daños al presunto infractor y que de la resolución se desprenda dicha intención se le impondrá el pago de multa hasta por diez mil veces el valor diario de la Unidad de Medida y Actualización vigente, sin perjuicio de las sanciones de carácter penal que se le puedan imponer y acciones que para la reparación de los daños y perjuicios que se le hubieren causado al denunciado y que éste haga valer ante las instancias correspondientes.
 
 ###### Articulo 2.
 
@@ -4513,7 +4561,7 @@ XV. Residuos orgánicos: Todo residuo sólido biodegradable;
 
 XVI. Residuos sólidos: El material, producto o subproducto que sin ser considerado como peligroso se descarte o deseche y que sea susceptible de ser aprovechado o requiera sujetarse a métodos de tratamiento o disposición final;
 
-XVII. Reutilizar: El empleo de un productousado para el mismo fin para el que fue diseñado originariamente o destinada para otro fin útil;
+XVII. Reutilizar: El empleo de un producto usado para el mismo fin para el que fue diseñado originariamente o destinada para otro fin útil;
 
 XVIII. Secretaría: La Secretaría del Medio Ambiente del Estado de México;
 
@@ -5593,19 +5641,21 @@ V. Las demás que señalen el presente Código, su Reglamento y otros ordenamien
 
 104. Las sanciones por la violación de las disposiciones del presente Libro se aplicarán conforme a lo siguiente:
 
-I. Multa de cincuenta a doscientos días de salario mínimo vigente en el Estado contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior del presente Libro;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
+I. Multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior del presente Libro.
 
-II. Multa de doscientos a mil días de salario mínimo vigente en el Estado de México;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 17 DE JULIO DE 2013)</small>
+II. Multa de doscientas a mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-III. Multa de dos mil a veinte mil días de salario mínimo general vigente en el área geográfica que corresponda, a quien contravenga lo previsto en el artículo 4.50 del presente Libro; y
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
+III. Multa de dos mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización vigente, a quien contravenga lo previsto en el artículo 4.50 del presente Libro.
 
-IV. Arresto administrativo hasta por treinta y seis horas o multa de mil a dos mil quinientos días de salario mínimo vigente en el Estado.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Arresto administrativo hasta por treinta y seis horas o multa de mil a dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 4.
 
@@ -6331,7 +6381,7 @@ VII. Aspectos de educación ambiental, de conservación y reproducción de las e
 
 VIII. Medidas para garantizar el trato digno y respetuoso durante su confinamiento, manejo, traslado, exhibición, adaptación a un nuevo espacio y entrenamiento responsable, entre otros;
 
-IX. Cumplir con las Nomas Oficiales Mexicanas y Normas Técnicas del Estado de México que para tal efecto se emitan.
+IX. Cumplir con las Normas Oficiales Mexicanas y Normas Técnicas del Estado de México que para tal efecto se emitan.
 
 ### CAPITULO I. DEL APROVECHAMIENTO EXTRACTIVO
 
@@ -6755,11 +6805,17 @@ III. No se señale domicilio en el lugar en el que se encuentra la autoridad enc
 
 112. La imposición de las multas a que se refiere el artículo 5.120 del presente Libro se determinará conforme a los siguientes criterios:
 
-I. Con el equivalente de veinte a cinco mil veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones XII, XVII, XXI y XXIII del artículo 5.119 de este libro; y
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Con el equivalente de cincuenta a cincuenta mil veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX y XXII del artículo 5.119 del presente Libro.
+I. Con el equivalente de veinte a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente a quien cometa las infracciones señaladas en las fracciones XII, XVII, XXI y XXIII del artículo 5.119 de este Libro.
 
-La imposición de las multas se realizará con base en el salario mínimo general diario vigente para el Estado de México al momento de cometerse la infracción.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Con el equivalente de cincuenta a cincuenta mil veces el valor diario de la Unidad de Medida y Actualización vigente a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XIII, XIV, XV, XVI, XVIII, XIX, XX y XXII del artículo 5.119 del presente Libro.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+La imposición de las multas se realizará con base en el valor diario de la Unidad de Medida y Actualización vigente al momento de cometerse la infracción.
 
 En el caso de reincidencia el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
 
@@ -7581,17 +7637,25 @@ IV. Las demás que se establecen en el Libro Segundo del presente Código y las 
 
 93. Las infracciones cometidas por la violación de las disposiciones del presente Libro se aplicarán conforme a lo siguiente:
 
-I. Multa de uno a ciento cincuenta días de salario mínimo vigente en el Estado contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior o por violaciones a lo dispuesto por los artículos 6.24 fracción VII, 6.33, 6.34, 6.40, 6.56, 6.66, 6.70 y 6.72 del presente Libro;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Multa de ciento cincuenta a mil días de salario mínimo vigente en el Estado por las violaciones a lo dispuesto por los artículos 6.5, 6.24 fracciones III, VI, VIII, IX y X, 6.37 tercer párrafo, 6.38, 6.67, 6.68 y 6.78 del presente Libro; y
+I. Multa de una a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior o por violaciones a lo dispuesto por los artículos 6.24 fracción VII, 6.33, 6.34, 6.40, 6.56, 6.66, 6.70 y 6.72 del presente Libro.
 
-III. Arresto inconmutable de treinta y seis horas y multa de mil a dos mil quinientos días de salario mínimo vigente en el Estado por violaciones a lo dispuesto por los artículos 6.23, 6.24 fracciones I, II y IV, 6.25, 6.48 y del 6.82 al 6.84 del presente libro.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de ciento cincuenta a mil veces el valor diario de la Unidad de Medida y Actualización vigente por las violaciones a lo dispuesto por los artículos 6.5, 6.24 fracciones III, VI, VIII, IX y X, 6.37 tercer párrafo, 6.38, 6.67, 6.68 y 6.78 del presente Libro.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Arresto inconmutable de treinta y seis horas y multa de mil a dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente por violaciones a lo dispuesto por los artículos 6.23, 6.24 fracciones I, II y IV, 6.25, 6.48 y del 6.82 al 6.84 del presente Libro.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 6.
 
-94. Las infracciones a lo dispuesto en este Libro que no tuviere señalada una sanción especial serán sancionadas a juicio de las autoridades competentes con multa de diez a cincuenta días de salario mínimo vigente en el Estado o arresto inconmutable hasta por veinticuatro horas según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que haya dado lugar.
+94. Las infracciones a lo dispuesto en este Libro que no tuviere señalada una sanción especial serán sancionadas a juicio de las autoridades competentes con multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente o arresto inconmutable hasta por veinticuatro horas según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que haya dado lugar.
 
-Cuando las infracciones hayan sido cometidas por personas que ejerzan entrenamientos profesionales, tengan cargos de dirección en instituciones científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, la multa será de cincuenta a ciento cincuenta días de salario mínimo vigente en el Estado sin perjuicio de las demás sanciones que proceden conforme a otras leyes.
+Cuando las infracciones hayan sido cometidas por personas que ejerzan entrenamientos profesionales, tengan cargos de dirección en instituciones científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, la multa será de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente sin perjuicio de las demás sanciones que proceden conforme a otras leyes.
 
 ###### Artículo 6.
 
@@ -7924,3 +7988,19 @@ SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de 
 OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
 
 NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
