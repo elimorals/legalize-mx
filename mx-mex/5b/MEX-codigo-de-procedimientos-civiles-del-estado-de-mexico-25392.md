@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-civiles-del-estado-de-mexico-25392"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-01"
-last_updated: "2016-06-24"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25392&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE JUNIO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA LA G.G. DE 24 DE JUNIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Código publicado en el Gaceta del Gobierno del Estado de México, el lunes 1 de julio del 2002.
 
@@ -147,9 +145,9 @@ Atribuciones de los jueces civiles
 
 9.- Los Jueces de Primera Instancia de la materia civil, conocerán y resolverán de:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. Los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el salario mínimo vigente en el lugar de su ubicación, o no cuantificables en dinero, con excepción de los que correspondan al derecho familiar y al mercantil, si hubiera en el lugar juzgados de estas materias;
+I. Los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el valor diario de la Unidad de Medida y Actualización vigente, o no cuantificables en dinero, con excepción de los que correspondan al derecho familiar y al mercantil, si hubiera en el lugar juzgados de estas materias;
 
 > <small>(ADICIONADO, G.G. 5 DE OCTUBRE DE 2011)</small>
 
@@ -203,9 +201,9 @@ Atribuciones de los jueces de cuantía menor
 
 11.- Los jueces de cuantía menor conocerán y resolverán en materia civil y mercantil, respecto de esta última siempre que no existieran, en el ámbito de su competencia, juzgados especializados, de:
 
-> <small>(REFORMADA, G.G. 5 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. Los juicios cuyo monto no exceda de mil veces el salario mínimo vigente en el lugar de su ubicación; exceptuando los asuntos que son de la competencia de los jueces de primera instancia;
+I. Los juicios cuyo monto no exceda de mil veces el valor diario de la Unidad de Medida y Actualización vigente, exceptuando los asuntos que son de la competencia de los jueces de primera instancia.
 
 II. Las diligencias preliminares de consignación, incluyendo pensiones alimenticias, cuando el valor del bien o la cantidad que se ofrezca no excedan de la cantidad señalada en la fracción anterior;
 
@@ -797,11 +795,13 @@ Irrecusables los que conocen de la recusación
 
 72.- Los que conozcan de una recusación son irrecusables sólo para ese efecto.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 Multas por recusación improcedente y su aplicación
 
 ###### Artículo 1.
 
-73.- Si se declara improcedente la recusación, se impondrá al recusante una multa hasta de doscientos días de salario mínimo vigente en la región de adscripción del recusado; misma que se aplicará al Fondo Auxiliar para la Administración de Justicia.
+73.- Si se declara improcedente la recusación, se impondrá al recusante una multa hasta de doscientas veces el valor diario de la Unidad de Medida y Actualización vigente, misma que se aplicará al Fondo Auxiliar para la Administración de Justicia.
 
 Es inimpugnable la resolución sobre recusación
 
@@ -1197,11 +1197,13 @@ Concentración de promociones
 
 120.- Los escritos que se refieran al mismo asunto que se tramita o vaya a tramitarse y que legalmente requieran resolverse en forma conjunta, se remitirán al mismo Tribunal.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 Sanción por tratar de eludir turno
 
 ###### Artículo 1.
 
-121.- Si se comprueba alguna acción eludiendo el turno, una vez presentado un escrito por el que se inicie un procedimiento, ya sea exhibiendo varios del mismo para elegir el Juzgado que convenga, ya desistiéndose de la instancia, sin acreditar la necesidad de hacerlo, o cualquier otra acción similar, el promovente y sus abogados patronos se harán acreedores solidariamente a una multa de cien días de salario mínimo vigente que impondrá el Tribunal que continúe conociendo, se turnará el asunto y se dará vista al Ministerio Público para los efectos de iniciar la averiguación correspondiente.
+121.- Si se comprueba alguna acción eludiendo el turno, una vez presentado un escrito por el que se inicie un procedimiento, ya sea exhibiendo varios del mismo para elegir el Juzgado que convenga, ya desistiéndose de la instancia, sin acreditar la necesidad de hacerlo, o cualquier otra acción similar, el promovente y sus abogados patronos se harán acreedores solidariamente a una multa de cien veces el valor diario de la Unidad de Medida y Actualización vigente que impondrá el Tribunal que continúe conociendo, se turnará el asunto y se dará vista al Ministerio Público para los efectos de iniciar la averiguación correspondiente.
 
 ### CAPITULO III. Del Orden, Correcciones Disciplinarias y Medios de Apremio
 
@@ -1219,7 +1221,9 @@ Correcciones disciplinarias
 
 I. El apercibimiento o amonestación;
 
-II. La multa que no exceda de cien veces el salario mínimo vigente en el lugar.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. La multa que no exceda de cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Medios de apremio
 
@@ -1227,7 +1231,9 @@ Medios de apremio
 
 124.- Los Jueces para hacer cumplir sus determinaciones, siempre que no existan otros específicos determinados por la Ley, pueden emplear indistintamente, los siguientes medios de apremio:
 
-I. Multa hasta de cien días de salario mínimo vigente en la región de su actuación, que podrá duplicarse en caso de reincidencia;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Multa hasta de cien veces el valor diario de la Unidad de Medida y Actualización vigente, que podrá duplicarse en caso de reincidencia.
 
 II. Uso de la fuerza pública;
 
@@ -1513,11 +1519,13 @@ El plazo extraordinario beneficia a quien se concede
 
 162.- Sólo disfrutará del plazo extraordinario la parte a quien se conceda y únicamente para los fines indicados en el auto; cumplidos, concluirá aunque no haya fenecido éste.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 Multa por no realizarse el acto procesal
 
 ###### Artículo 1.
 
-163.- Cuando no se lleve a cabo la diligencia para la cual se concedió el plazo extraordinario, por causas imputables al solicitante, se le impondrá una multa hasta de quinientos días de salario mínimo, que se aplicará en favor de la contraparte en vía de indemnización.
+163.- Cuando no se lleve a cabo la diligencia para la cual se concedió el plazo extraordinario, por causas imputables al solicitante, se le impondrá una multa hasta de quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, que se aplicará en favor de la contraparte en vía de indemnización.
 
 Plazo de tres días
 
@@ -2055,7 +2063,9 @@ Monto máximo de las costas
 
 229.- Cualquiera que fuesen las actividades ejecutadas y los gastos expensados en el proceso, las costas no podrán exceder del veinte por ciento del valor de la suerte principal.
 
-En los negocios menores a cien días de salario mínimo vigente en la región, no se causarán costas.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+En los negocios menores a cien veces el valor diario de la Unidad de Medida y Actualización vigente, no se causarán costas.
 
 Solidaridad del pago de costas
 
@@ -6979,7 +6989,9 @@ I. Bienes inmuebles y derechos reales sobre ellos;
 
 II. Alhajas y muebles valiosos;
 
-III. Acciones sobre personas jurídicas colectivas, cuando la suma de sus valores exceda de quinientas veces el salario mínimo;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Acciones sobre personas jurídicas colectivas, cuando la suma de sus valores exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 IV. Derechos de patentes, marcas, autorales y otros análogos.
 
@@ -8637,15 +8649,13 @@ Fecha para la celebración de la audiencia inicial
 
 46.- En el auto que tenga por contestada la demanda o reconvención, en su caso, se citará a las partes a la audiencia inicial a verificarse dentro de los cinco días siguientes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(ADICIONADO, G.G. 19 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 Apercibimiento para el caso de inasistencia
 
 ###### Artículo 5.
 
-47.- El juez apercibirá a las partes, que para el caso de inasistencia a la audiencia inicial, se impondrá una multa de hasta cincuenta días de salario mínimo vigente en el área de residencia del juzgado, que se aplicará a favor del Fondo Auxiliar de la Administración de Justicia, excepto cuando el demandado no haya producido contestación ni cuando a su juicio se cause un perjuicio mayor.
+47.- El juez apercibirá a las partes, que para el caso de inasistencia a la audiencia inicial, se impondrá una multa de hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente, que se aplicará a favor del Fondo Auxiliar de la Administración de Justicia, excepto cuando el demandado no haya producido contestación ni cuando a su juicio se cause un perjuicio mayor.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -9430,3 +9440,19 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
