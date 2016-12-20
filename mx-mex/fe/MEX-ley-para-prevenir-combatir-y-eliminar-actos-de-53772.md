@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-prevenir-combatir-y-eliminar-actos-de-53772"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-17"
-last_updated: "2016-06-15"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 17 de enero de 2007.
 
@@ -387,7 +387,9 @@ Será causa de responsabilidad administrativa, los actos u omisiones de carácte
 
 Los particulares que incurran en conductas de discriminación serán sancionados con una o más de las sanciones siguientes:
 
-I. Sanción económica de 10 (diez) hasta 1,000 (un mil) salarios mínimos;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Sanción económica de diez hasta mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 II. Clausura temporal o definitiva;
 
@@ -532,3 +534,19 @@ G.G. 15 DE JUNIO DE 2016.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el dia de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
