@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-competitividad-y-ordenamiento-comercial-del-estado-10396
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2016-09-07"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -1967,7 +1967,9 @@ V. Solicitar al proveedor o pignorante al momento de realizar la operación, el 
 
 VI. Requerir al proveedor o pignorante acreditar la propiedad del bien cuando el monto de la operación exceda de ochenta Unidades de Medida y Actualización.
 
-VII. Anexar al registro copia de la factura que acredite la propiedad del bien dado en prenda o adquirido, cuando el monto exceda la cantidad de ochenta salarios mínimos vigentes de la zona geográfica correspondiente.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+VII. Anexar al registro copia de la factura que acredite la propiedad del bien dado en prenda o adquirido, cuando el monto exceda la cantidad de ochenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADA, G.G. 18 DE ABRIL DE 2016)</small>
 
@@ -2189,7 +2191,9 @@ Las infracciones administrativas en materia de esta Ley atribuibles a los servid
 
 I. Amonestación.
 
-II. Multa de cincuenta a mil días de salario mínimo vigente.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de cincuenta a mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 III. Suspensión de quince a sesenta días del empleo, cargo o comisión.
 
@@ -2205,11 +2209,17 @@ V. Inhabilitación de uno a diez años en el servicio público estatal y municip
 
 A los titulares o permisionarios que para la obtención del Dictamen Único de Factibilidad, permiso o licencia de funcionamiento, según corresponda, hubieren proporcionado información falsa, se sancionarán con multa (sic) clausura permanente de la manera siguiente:
 
-I. Para las unidades económicas de bajo impacto multa de cien a doscientos días de salario mínimo vigente en la zona geográfica que corresponda.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Para las unidades económicas de mediano impacto multa de doscientos a quinientos días de salario mínimo vigente en la zona geográfica que corresponda.
+I. Para las unidades económicas de bajo impacto multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-III. Para las unidades económicas de alto impacto multa de quinientos a mil días de salario mínimo vigente en la zona geográfica que corresponda.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Para las unidades económicas de mediano impacto multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Para las unidades económicas de alto impacto multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Además de las sanciones a que se refiere este artículo, se dará vista al Ministerio Público, respecto de los delitos que se pudieran haber cometido.
 
@@ -2217,9 +2227,13 @@ Además de las sanciones a que se refiere este artículo, se dará vista al Mini
 
 Cuando se trate de unidades destinadas para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas, corresponde a la Secretaría de Desarrollo Económico, en el ámbito de sus atribuciones, la imposición de las sanciones siguientes:
 
-I. Multa de cincuenta a cien días de salario mínimo vigente en la zona geográfica que corresponda, a los titulares o dependientes que incumplan con lo establecido por las normas oficiales y técnicas vigentes, correspondientes.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Multa de doscientos a cuatrocientos días de salario mínimo vigente en la zona geográfica que corresponda, a los titulares o dependientes que incumplan las disposiciones señaladas en los artículos 96 segundo párrafo, 97, 98, 99, 100, 101, 109 y 110.
+I. Multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente, a los titulares o dependientes que incumplan con lo establecido por las normas oficiales y técnicas vigentes, correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de doscientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente, a los titulares o dependientes que incumplan las disposiciones señaladas en los artículos 96 segundo párrafo, 97, 98, 99, 100, 101, 109 y 110.
 
 Además se impondrá clausura temporal cuando se infrinja lo dispuesto en los artículos 107 y 108.
 
@@ -2235,7 +2249,9 @@ IV. Clausura permanente cuando una unidad económica donde se realicen actos rel
 
 Cuando se trate de unidades destinadas para la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas, corresponde a los municipios, en el ámbito de sus atribuciones, la imposición de las sanciones siguientes:
 
-I. Multa de cincuenta a cien días de salario mínimo vigente en la zona geográfica que corresponda, por incumplir lo dispuesto por las fracciones V, VI y VII del artículo 85 y en el artículo 88.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Multa de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente, por incumplir lo dispuesto por las fracciones V, VI y VII del artículo 85 y en el artículo 88.
 
 II. Clausura temporal o definitiva de la unidad económica que se dedique a la enajenación, reparación o mantenimiento de vehículos usados y autopartes nuevas y usadas, por no contar con la licencia de funcionamiento o por reincidir en el incumplimiento de lo dispuesto por la fracción V del artículo 85 y en el artículo 88.
 
@@ -2253,21 +2269,31 @@ Cuando se trate de unidades económicas que se dediquen a la venta o suministro 
 
 I. Con multa equivalente de doscientos cincuenta a quinientas veces la unidad de medida y actualización al momento de cometer la infracción a quien contando con autorización vigente incumpla con el horario autorizado, con independencia de esta multa, cuando se detecten en la verificación modificaciones a las condiciones originalmente autorizadas en el Dictamen Único de Factibilidad, o licencia de funcionamiento se clausurará temporalmente.
 
-II. Con multa equivalente de dos mil a dos mil quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción y la suspensión permanente, cuando se incumpla el horario establecido para los bailes públicos.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-III. Con multa equivalente de quinientas a mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, y la clausura permanente, por incumplir a lo dispuesto por el artículo 75.
+II. Con multa equivalente de dos mil a dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción y la suspensión permanente, cuando se incumpla el horario establecido para los bailes públicos.
 
-IV. Con multa equivalente de quinientas a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, y la clausura permanente por vender o suministrar bebidas alcohólicas a menores de edad y contratarlos.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-V. Con multa equivalente de mil quinientas a cuatro mil veces de salario mínimo general vigente del área geográfica que corresponda, al titular de las unidades económicas que incumplan con lo establecido en las fracciones V y VII del artículo 22, en el artículo 74, con independencia de esta multa cuando se ponga en peligro el orden público, la salud, la seguridad de la personas o interfiera la protección civil y no se permita el acceso a la unidad económica a la autoridad para realizar las funciones de verificación e inspección se clausurará temporalmente.
+III. Con multa equivalente de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, y la clausura permanente, por incumplir a lo dispuesto por el artículo 75.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Con multa equivalente de quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, y la clausura permanente por vender o suministrar bebidas alcohólicas a menores de edad y contratarlos.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+V. Con multa equivalente de mil quinientas a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente, al titular de las unidades económicas que incumplan con lo establecido en las fracciones V y VII del artículo 22, en el artículo 74, con independencia de esta multa cuando se ponga en peligro el orden público, la salud, la seguridad de la personas o interfiera la protección civil y no se permita el acceso a la unidad económica a la autoridad para realizar las funciones de verificación e inspección se clausurará temporalmente.
 
 Además, como medida de seguridad, los ayuntamientos, a través de la autoridad competente, estarán facultados para suspender temporalmente, hasta por noventa días, el funcionamiento de estas unidades económicas, mientras se lleve a cabo el procedimiento administrativo y con el objeto de preservar el interés público y la salud.
 
 Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento administrativo establecido en el Código de Procedimientos Administrativos del Estado de México, a fin de que en caso de que se mantenga el incumplimiento se sancione con la clausura temporal o permanente, parcial o total, según corresponda.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 188.
 
-Las infracciones no previstas en esta Ley serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general vigente en el área geográfica que corresponda al momento de cometer la infracción, cuando se trate de unidades económicas que se dediquen a la venta o suministro de bebidas alcohólicas.
+Las infracciones no previstas en esta Ley serán sancionadas con multa equivalente hasta por diez mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, cuando se trate de unidades económicas que se dediquen a la venta o suministro de bebidas alcohólicas.
 
 ###### Artículo 189.
 
@@ -2277,7 +2303,9 @@ Cuando se trate de unidades económicas que se dediquen a la venta o suministro 
 
 Cuando se trate de unidades económicas que se dediquen a la venta o suministro de bebidas alcohólicas, corresponde a la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, en el ámbito de sus atribuciones, la imposición de las sanciones siguientes:
 
-I. Con multa equivalente de mil quinientas a cuatro mil veces de salario mínimo general vigente del área geográfica que corresponda, a quién venda bebidas alcohólicas fuera del horario autorizado, a quien incumplan con lo establecido en la fracción XI y XIV del artículo 23.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Con multa equivalente de mil quinientas a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente, a quién venda bebidas alcohólicas fuera del horario autorizado, a quien incumpla con lo establecido en la fracción XI y XIV del artículo 23.
 
 II. Clausura temporal o permanente, por el incumplimiento a las disposiciones señaladas en el artículo 74, cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta Ley y de las disposiciones que de él emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria.
 
@@ -2377,7 +2405,9 @@ IV. El permisionario o titular que habiendo sido suspendido persista en omitir l
 
 V. El permisionario que habiendo sido suspendido persista en aceptar empeños o bienes sin que el pignorante o proveedor acredite su identidad.
 
-VI. El permisionario que habiendo sido suspendido persista en no anexar la copia de la factura al registro, cuando el monto del préstamo o del bien adquirido exceda la cantidad de ochenta salarios mínimos vigentes de la zona geográfica correspondiente.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+VI. El permisionario que habiendo sido suspendido persista en no anexar la copia de la factura al registro, cuando el monto del préstamo o del bien adquirido exceda la cantidad de ochenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Para el caso de clausura de casas de empeño, con la finalidad de proteger a los pignorantes y concluir las operaciones que se encuentren vigentes, la Secretaría de Finanzas designará a un interventor que se encargará de la recepción de pagos y entrega de los bienes en prenda, conforme al procedimiento que se establece en el respectivo Reglamento.
 
@@ -2594,3 +2624,19 @@ SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de 
 OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
 
 NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
