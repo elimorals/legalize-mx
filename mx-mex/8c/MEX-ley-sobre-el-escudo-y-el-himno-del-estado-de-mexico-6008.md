@@ -4,7 +4,7 @@ identifier: "MEX-ley-sobre-el-escudo-y-el-himno-del-estado-de-mexico-6008"
 country: "mx"
 rank: "ley"
 publication_date: "1995-01-09"
-last_updated: "2003-06-16"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MEX"
 ---
 # LEY SOBRE EL ESCUDO Y EL HIMNO DEL ESTADO DE MEXICO
 
-LEY SOBRE EL ESCUDO Y EL HIMNO DEL ESTADO DE MEXICO
+LEY SOBRE EL ESCUDO Y EL HIMNO DEL ESTADO DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN EL LA GACETA DEL GOBIERNO: 16 DE JUNIO DEL 2003.
+ÚLTIMA REFORMA PUBLICADA EN EL LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno, el 9 de enero de 1995.
 
@@ -153,7 +153,7 @@ respirando, en la paz, libertad!
 
 La música oficial del Himno del Estado de México es la siguiente:
 
-(VEASE ARCHIVO ADJUNTO)
+(VÉASE ARCHIVO ADJUNTO)
 
 ###### Artículo 10.
 
@@ -203,9 +203,11 @@ Los ayuntamientos promoverán, en el ámbito de sus respectivas competencias, el
 
 La Secretaría de Educación, Cultura y Bienestar Social dictará las medidas necesarias para que en todas las instituciones educativas del Estado se profundice en la enseñanza de la historia y significación de los símbolos del Estado. Asimismo, convocará y regulará concursos estatales sobre ellos.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 19.
 
-Las contravenciones a la presente Ley que no constituyan delito conforme a lo previsto en el Código Penal para el Estado de México, pero que impliquen desacato o falta de respeto a los símbolos del Estado, se castigarán según su gravedad y la condición del infractor con multa hasta por el equivalente a doscientos ochenta y cinco días de salario mínimo de la zona económica de Toluca. Si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente a mil días del salario mínimo referido.
+Las contravenciones a la presente Ley que no constituyan delito conforme a lo previsto en el Código Penal para el Estado de México, pero que impliquen desacato o falta de respeto a los símbolos del Estado, se castigarán según su gravedad y la condición del infractor con multa hasta por el equivalente a doscientas ochenta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente. Si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente a mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 T R A N S I T O R I O S
 
@@ -250,3 +252,19 @@ SEGUNDO.- El presente decreto entrara en vigor al día siguiente de su publicaci
 TERCERO.- En lo sucesivo cuando se determine la creación de nuevos Distritos Judiciales, se actualizará el Escudo con la integración del emblema simbólico de una o mas abejas que son su representación, según corresponda.
 
 CUARTO.- Las autoridades estatales y municipales, dispondrán de ciento ochenta días naturales, contados a partir de la vigencia del presente decreto, para hacer las adecuaciones correspondientes de acuerdo con lo aprobado.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
