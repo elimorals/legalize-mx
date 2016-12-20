@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-53776
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-31"
-last_updated: "2016-10-31"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACION DEL ESTADO DE BAJA CALIFORNIA SUR -- ANTES LEY ESTATAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACION DEL ESTADO DE BAJA CALIFORNIA SUR--
 
-LEY ESTATAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
+LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 31 de diciembre de 2006.
 
@@ -37,7 +37,9 @@ EL HONORABLE CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR
 
 D E C R E T A
 
-LEY ESTATAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR
 
 SE APRUEBA LA LEY ESTATAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR, PARA QUEDAR COMO SIGUE:
 
@@ -391,6 +393,10 @@ f) Comisión Estatal de Derechos Humanos; y
 
 g) Sistema de Desarrollo Integral para la Familia en el Estado.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+h) La Comisión Permanente de Derechos Humanos y de Asuntos Indígenas del Congreso del Estado.
+
 II. Siete representantes de Asociaciones Civiles Organizadas cuyos objetivos sea afines a los de ésta Ley; mismas que serán designadas por el Congreso del Estado de Baja California Sur, a propuesta de las representaciones políticas.
 
 Por cada una de las personas representantes mencionadas, se nombrará una persona que supla a estos en caso de ser necesario.
@@ -417,9 +423,9 @@ II. Llevar a cabo las acciones conducentes para prevenir y eliminar la discrimin
 
 III. Formular y promover políticas públicas para la igualdad de oportunidades y de trato a favor de las personas que se encuentren en territorio del Estado; y
 
-> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. Coordinar las acciones de las dependencias y entidades del Estado y municipios en materia de prevención y eliminación de la discriminación.
+IV. Vigilar el cumplimiento de la Ley General para Prevenir y Eliminar la Discriminación así como de la presente Ley.
 
 ###### Artículo 20.
 
@@ -521,9 +527,23 @@ Las sesiones serán ordinarias y extraordinarias; las ordinarias se llevarán a 
 
 #### SECCIÓN SEGUNDA. DE LA PRESIDENCIA
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 23.
 
-La Presidencia del Consejo durará en su cargo tres años y podrá ser ratificado hasta por un periodo igual.
+El Consejo estará presidido por uno de los Consejeros representantes de la sociedad civil organizada, electo por la mayoría de éstos y durará en su cargo tres años, pudiendo ser ratificado por un período igual, para lo cual deberá cumplir con los siguientes requisitos:
+
+I. Tener conocimiento sobre el marco jurídico legal de los derechos humanos;
+
+II. Contar con nivel de estudios de Licenciatura; y
+
+III. Tener una buena reputación ética.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 23 Bis.
+
+En caso de que no se defina por mayoría de votos la designación de la persona que habrá de desempeñar el cargo de la Presidencia del Consejo, en esa misma sesión será designado por el Titular del Ejecutivo del Estado o la persona que lo represente en esa sesión.
 
 ###### Artículo 24.
 
@@ -829,7 +849,7 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 
 VÍCTOR MANUEL GULUARTE CASTRO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 B.O. 30 DE ABRIL DE 2014.
 
@@ -846,3 +866,9 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2385 SE REFORMA Y ADICIONA LA LEY ESTATAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
