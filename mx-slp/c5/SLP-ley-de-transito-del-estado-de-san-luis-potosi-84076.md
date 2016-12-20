@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2016-10-21"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -881,9 +881,17 @@ VII. Circular preferentemente por las ciclovías y los carriles destinados para 
 
 VIII. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo y mano;
 
-IX. Compartir de manera responsable con los vehículos y el transporte público, la circulación en carriles de la extrema derecha, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-X. Las demás disposiciones que establezca en reglamento respectivo.
+IX. Compartir de manera responsable con los vehículos y el transporte público, la circulación en carriles de la extrema derecha;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+X. El conductor de la bicicleta preferentemente deberá usar casco e implementos de seguridad; y
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+XI. Las demás disposiciones que establezca el reglamento respectivo.
 
 ###### ARTICULO 69.
 
@@ -1524,5 +1532,13 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0408.- SE ADICIONA EL ARTÍCULO 76 BIS, A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0449.- SE REFORMA EL ARTÍCULO 68 EN SU FRACCIÓN IX; Y ADICIONA FRACCIÓN AL MISMO ARTÍCULO 68, ÉSTA COMO X, POR LO QUE LA ACTUAL X PASA A SER FRACCIÓN XI, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
