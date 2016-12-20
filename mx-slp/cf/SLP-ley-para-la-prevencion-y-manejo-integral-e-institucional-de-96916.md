@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-y-manejo-integral-e-institucional-de-969
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-06"
-last_updated: "2013-12-06"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 6 de diciembre de 2013.
 
@@ -527,11 +527,17 @@ V. El beneficio directamente obtenido por el infractor por los actos que motiven
 
 Con independencia de las sanciones a que se refieren las fracciones I, II y III del artículo 43, las multas se determinaran en la forma siguiente:
 
-I. Con el equivalente de cincuenta a mil quinientas veces de salario mínimo, a quien cometa las infracciones señaladas en las fracciones I, II, IV, V y VI del artículo 41 de esta Ley, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Con el equivalente de mil quinientas una a tres mil veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones III, VII y VIII del artículo 41 de esta Ley.
+I. Con el equivalente de cincuenta a mil quinientas veces de la unidad de medida y actualización, a quien cometa las infracciones señaladas en las fracciones I, II, IV, V y VI del artículo 41 de esta Ley, y
 
-Para la imposición de las multas servirá de base el salario mínimo general diario vigente en la zona económica del Estado, al momento de cometerse la infracción.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Con el equivalente de mil quinientas una a tres mil veces de la unidad de medida y actualización a quien cometa las infracciones señaladas en las fracciones III, VII y VIII del artículo 41 de esta Ley.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+Para la imposición de las multas servirá de base la unidad de medida y actualización vigente, al momento de cometerse la infracción.
 
 A los reincidentes se les aplicará el doble de las multas previstas en este artículo, según corresponda.
 
@@ -586,3 +592,13 @@ El Secretario General de Gobierno
 Lic. Cándido Ochoa Rojas
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0453.- SE REFORMAN DIVERSOS ARTÍCULOS DE LAS SIGUIENTES LEYES: LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DEL ESTADO DE SAN LUIS POTOSÍ, LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES Y LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
