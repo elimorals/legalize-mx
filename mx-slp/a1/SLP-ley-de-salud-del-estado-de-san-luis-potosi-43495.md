@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2016-12-01"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -3715,7 +3715,9 @@ Las sanciones administrativas podrán ser:
 
 I. Amonestación o apercibimiento;
 
-II. Multa de hasta mil veces el salario mínimo general vigente en la Entidad;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de hasta mil veces de la unidad de medida y actualización vigente;
 
 III. Clausura temporal o definitiva, que podrá ser parcial o total, y
 
@@ -3733,25 +3735,31 @@ III. Las condiciones socioeconómicas del infractor, y
 
 IV. La calidad de reincidente del infractor.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 382.
 
-Se sancionará con multa equivalente hasta veinte veces el salario mínimo general diario vigente en la Entidad, la violación de las disposiciones contendida en los artículos 75, 89, 105, 108, 121,182, 192, 193, 195, 196, 197, 198, 247, 309, 310, 311, 321, 322, 323, 342 y 344 de esta Ley.
+Se sancionará con multa equivalente hasta veinte veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 75, 89, 105, 108, 121,182, 192, 193, 195, 196, 197, 198, 247, 309, 310, 311, 321, 322, 323, 342 y 344 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 383.
 
-Se sancionará con multa equivalente de veinte y hasta cien veces el salario mínimo general diario vigente en la Entidad, la violación a las disposiciones contenidas en los artículos 43 segundo párrafo, 100, 109, 110, 111, 116, 117, 199, 200, 204, 205, 206, 215, 216, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 265, 266, 267, 268, 271, 272, 274, 213, y 300 de esta Ley.
+Se sancionará con multa equivalente de veinte hasta cien veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 44 párrafo segundo, 100, 109, 110, 111, 116, 117, 199, 200, 204, 205, 206, 215, 216, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 265, 266, 267, 268, 271, 272, 274, 213 y 300 de esta Ley.
 
-La violación de las disposiciones contenidas en los artículos 144, 145, 317, 318, 319, 350, 362, 363, 364 y 365 de esta Ley, se sancionará con multa equivalente de cincuenta y hasta quinientas veces el salario mínimo general diario vigente en la Entidad.
+La violación a las disposiciones contenidas en los artículos, 144, 145, 317, 318, 319, 350, 362, 363, 364 y 365 de esta Ley, se sancionará con multa equivalente de cincuenta y hasta quinientas veces la unidad de medida y actualización vigente.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 384.
 
-Se sancionará con multa equivalente de doscientas y hasta mil veces el salario mínimo general diario vigente en la Entidad, la violación a las disposiciones contenidas en los artículos 57 último párrafo, 84, 86, 87, 276, 278, 279, 281, 282, 283, 284, 285, 286, 302, 304, 305 y 388 de esta Ley.
+Se sancionará con multa equivalente de doscientos y hasta mil veces la unidad de medida y actualización vigente, la violación a las disposiciones contenidas en los artículos, 57 párrafo último, 84, 86, 87, 276, 278, 279, 281, 282, 283, 284, 285, 286, 302, 304, 305 y 388 de esta Ley.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 385.
 
-Las infracciones no previstas en este Capítulo, serán sancionadas con multa hasta por quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo a las reglas de calificación que se establecen en el artículo 381 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa de hasta quinientas veces la unidad de medida y actualización vigente, atendiendo a las reglas de calificación que se establecen en el artículo 381 de esta Ley.
 
 ###### ARTICULO 386.
 
@@ -4196,6 +4204,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0431.- SE REFORMA LOS ARTÍCULOS, 60, Y 92 EN SU FRACCIÓN IV; Y ADICIONA PÁRRAFO AL ARTÍCULO 57, ÉSTE COMO SEGUNDO, POR LO QUE ACTUALES (SIC) SEGUNDO Y TERCERO PASAN A SER PÁRRAFOS, TERCERO, Y CUARTO, DE Y A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0451.- SE REFORMAN DIVERSOS ARTÍCULOS DE LAS SIGUIENTES LEYES: LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ, LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ, LEY ESTATAL DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS Y LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
