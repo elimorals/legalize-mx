@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-apicultura-del-estado-de-mexico-102923"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-21"
-last_updated: "2014-10-21"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE APICULTURA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el martes 21 de octubre de 2014.
 
@@ -573,9 +573,11 @@ Los apicultores y centros de acopio se harán acreedores a las sanciones previst
 
 Las violaciones a los preceptos de esta Ley constituyen infracciones que serán sancionados por la Secretaría, previo procedimiento administrativo, sin perjuicio de las responsabilidades penal o civil que se configuren.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 62.
 
-Se impondrá multa de 10 a 50 salarios mínimos vigentes en la zona geográfica que corresponda a quien:
+Se impondrá multa de 10 a 50 veces el valor diario de la Unidad de Medida y Actualización vigente a quien:
 
 I. No cumpla con lo dispuesto al artículo 12, fracciones V, VI, VII, VIII y X.
 
@@ -585,9 +587,11 @@ III. No revaliden su fierro o marca de acuerdo a lo establecido en el artículo 
 
 IV. No preste la ayuda necesaria a los inspectores acreditados por la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 63.
 
-Se impondrá una multa por el valor de 50 a 100 salarios mínimos vigentes en la zona geográfica correspondiente a quien:
+Se impondrá una multa por el valor de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización vigente a quien:
 
 I. Invada intencionalmente la zona apícola de otro productor.
 
@@ -642,3 +646,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
