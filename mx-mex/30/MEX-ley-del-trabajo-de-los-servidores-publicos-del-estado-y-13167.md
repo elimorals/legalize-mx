@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2016-08-03"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -79,7 +79,9 @@ V. Sala Oral: A cualquiera de las Salas Orales con las que contará el Tribunal 
 
 VI. Servidor Público: A toda persona física que preste a una institución pública un trabajo personal subordinado de carácter material o intelectual, o de ambos géneros, mediante el pago de un sueldo.
 
-VII. Trabajador: A la persona física que presta sus servicios, en forma subordinada, en el Subsistema Educativo Estatal, mediante el pago de un sueldo o salario.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+VII. Trabajador: la persona física que presta sus servicios, en forma subordinada, en el Subsistema Educativo Federalizado, mediante el pago de un sueldo o salario.
 
 VIII. Tribunal: Al Tribunal Estatal de Conciliación y Arbitraje.
 
@@ -203,25 +205,29 @@ Lo no previsto en esta ley o en sus disposiciones reglamentarias se regulará po
 
 ### CAPITULO I. Generalidades
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 20.
 
-Para efectos de esta ley son integrantes del Sistema Educativo Estatal los servidores públicos docentes que prestan sus servicios en el Subsistema Educativo Estatal.
+Para efectos de esta ley son integrantes del Sistema Educativo Estatal los servidores públicos docentes que prestan sus servicios en el Subsistema Educativo Estatal y los trabajadores de la educación que se desempeñan en el Subsistema Educativo Federalizado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 21.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Cuando en el cuerpo de esta ley se mencione el término de servidor público general, se entenderá que también se refiere, en lo que les sea aplicable, a los trabajadores del Subsistema Educativo Federalizado.
 
-> <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 22.
 
-Este título regula las relaciones de trabajo entre el Poder Ejecutivo del Estado y los servidores públicos docentes del Subsistema Educativo Estatal.
+Este título regula las relaciones de trabajo entre el Poder Ejecutivo del Estado y los servidores públicos docentes del Subsistema Educativo Estatal, y entre el primero y los trabajadores del Subsistema Educativo Federalizado, independientemente de que, en lo que corresponda, se les apliquen las demás disposiciones de esta ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 23.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Cuando en esta ley se enuncie el término institución pública, con respecto a los trabajadores del Subsistema Educativo Federalizado, se entenderá referido al organismo público descentralizado denominado Servicios Educativos Integrados al Estado de México, o a cualquier otro organismo auxiliar en el que presten sus servicios.
 
 ### CAPITULO II. De los Servidores Públicos del Subsistema Educativo Estatal
 
@@ -253,71 +259,105 @@ Los ascensos de los servidores públicos docentes del Subsistema Educativo Estat
 
 Los profesores del Subsistema Educativo Estatal podrán tener asignada otra plaza u horas clase en el mismo subsistema o en el federalizado, siempre y cuando los horarios establecidos para el desempeño de las mismas sean compatibles, de acuerdo a lo determinado en las condiciones generales de trabajo o en las disposiciones relativas.
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO III
+### CAPÍTULO III. DE LOS TRABAJADORES DEL SUBSISTEMA EDUCATIVO FEDERALIZADO
 
-De los Trabajadores del Subsistema Educativo Federalizado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 30.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Este capítulo regula las relaciones de trabajo entre la institución pública a que se refiere el artículo 23 de esta Ley, y los trabajadores del Subsistema Educativo Federalizado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 31.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Los trabajadores a que se refiere este capítulo se clasifican en dos grupos, de confianza y de base.
+
+I. Son trabajadores de confianza aquéllos a que se refieren los artículos 8 y 9 de esta ley.
+
+II. Son trabajadores de base los no incluidos en los artículos señalados en la fracción anterior, agremiados al Sindicato Nacional de Trabajadores de la Educación y que prestan sus servicios en actividades de docencia, investigación y difusión o bien, aquéllos que desempeñan funciones directivas, de supervisión o inspección en los planteles del propio subsistema, así como los trabajadores que realizan tareas de apoyo y asistencia a la educación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 32.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Esta Ley se aplicará en lo conducente a los trabajadores del Subsistema Educativo Federalizado sin menoscabo de los derechos que les confieren su régimen de regulación especial, los de organización colectiva, de huelga, de afiliación a su sindicato de carácter nacional, de la calidad de base de su nombramiento; de su derecho a la inamovilidad, a su régimen salarial y aguinaldo, de su jornada de trabajo, de su descanso semanal, de sus vacaciones, de su derecho a la capacitación y adiestramiento, así como de su propio régimen de seguridad social, prestaciones y servicios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 33.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Los trabajadores podrán ser designados en plazas de puestos específicos o bajo el sistema de horas clase-semana-mes; en ambos casos el nombramiento podrá ser por tiempo determinado, o por tiempo indeterminado, conforme a las necesidades del servicio.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 34.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+En el desarrollo de sus actividades los trabajadores se regirán por el “Reglamento de las Condiciones Generales de Trabajo del Personal de la Secretaria de Educación Pública”.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 35.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Los ascensos de los trabajadores se regularán por el "Reglamento de Escalafón de los Trabajadores al Servicio de la Secretaría de Educación Pública", con excepción de lo establecido en la Ley General del Servicio Profesional Docente, según corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 36.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Las plazas de última categoría de nueva creación o las disponibles en cada grupo, una vez corridos los escalafones respectivos con motivo de las vacantes que ocurrieren, se cubrirán en los términos que establece la Ley Federal de los Trabajadores al Servicio del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 37.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Los trabajadores podrán tener asignada otra plaza u horas clase en el Subsistema Educativo Federalizado o en el Subsistema Educativo Estatal, siempre y cuando los horarios establecidos para el desempeño de sus funciones sean compatibles, de acuerdo a las disposiciones relativas, con excepción de aquéllos que tengan nombramiento anterior al 18 de mayo de 1992, en los términos del convenio suscrito en la misma fecha entre el Titular del Poder Ejecutivo del Estado y el Sindicato Nacional de Trabajadores de la Educación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 38.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Los trabajadores gozarán, de los beneficios establecidos en el "Acuerdo Nacional para la Modernización de la Educación Básica" en el “Reglamento de las Condiciones Generales de Trabajo del Personal de la Secretaría de Educación Pública”, en el reglamento nacional de escalafón vigente, en los Convenios de fecha 18 de mayo de 1992, signados entre el Ejecutivo del Gobierno Estatal y el Sindicato Nacional de Trabajadores de la Educación, y entre las Secretarías de Hacienda y Crédito Público, Desarrollo Urbano y Ecología, Educación Pública, Gobierno del Estado de México e Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, así como de todos aquellos que se derivan de acuerdos, disposiciones o convenios que les sean propios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 39.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Los beneficios de la Seguridad Social le serán otorgados a los trabajadores por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, de acuerdo con el convenio celebrado el primero de mayo de 1992, entre el Ejecutivo del Gobierno Federal, el Titular del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y el Ejecutivo del Gobierno del Estado.
+
+Cuando en el cuerpo de esta ley se haga referencia a las prestaciones médico asistenciales y sociales que otorga el Instituto de Seguridad Social para los Servidores Públicos del Estado y Municipios, así como a la calificación de riesgos de trabajo que deba realizar dicha institución, se tendrá como entendido, en lo que así corresponda a los trabajadores de la educación federalizados, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos de la ley de este instituto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 40.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Conforme lo dispuesto en los artículos anteriores, los acuerdos, convenios y reglamentos a que se hace referencia, así como las prestaciones y derechos de cualesquier naturaleza, serán de observancia general y obligatoria para el titular del Poder Ejecutivo, los titulares de las dependencias y de la institución o instituciones públicas a las que estén adscritos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 41.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Los trabajadores a que se refiere este capítulo tendrán derecho a un aguinaldo anual conforme lo establece el artículo 78 de esta ley, el que deberá pagárseles en dos entregas, la primera antes del día 15 de diciembre y la segunda a más tardar el día 15 de enero de cada año.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 42.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Los procesos de movilidad interestatal de los trabajadores a que se refiere este capítulo se realizarán de conformidad a lo establecido en la cláusula séptima del Convenio celebrado el 18 de mayo de 1992 a que se refiere el artículo 38 de esta ley.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 43.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+Los conflictos inter o intrasindicales que se suscitaren entre los trabajadores del Subsistema Educativo Federalizado, se regularán conforme lo dispuesto por la Ley Federal de los Trabajadores al Servicio del Estado, y el órgano competente para conocer y, en su caso, resolver sobre los mismos será el Tribunal Federal de Conciliación y Arbitraje.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 44.
 
-(DEROGADO, G.G. 16 DE DICIEMBRE DE 2014)
+En la aplicación de los diversos ordenamientos que regulan la relación o condiciones de trabajo de los trabajadores del Subsistema Educativo Federalizado, estará, siempre, a la disposición que más les favorezca.
 
 ## TITULO TERCERO. De los Derechos y Obligaciones Individuales de los Servidores Públicos
 
@@ -1375,9 +1415,13 @@ Sindicato es la asociación de servidores públicos generales constituida para e
 
 Las instituciones públicas en su conjunto, reconocerán como titulares de las relaciones colectivas de trabajo, únicamente a un sindicato de servidores públicos generales y a uno de maestros que serán los que cuenten con registro ante el Tribunal, así como a aquellos registrados que representen a los docentes en las instituciones de carácter educativo cuyo decreto de creación establezca su autonomía en su régimen sindical.
 
-> <small>(DEROGADO TERCER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(DEROGADO CUARTO PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+En el caso de los trabajadores del Subsistema Educativo Federalizado se reconoce a su Sindicato Nacional de Trabajadores de la Educación.
+
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Se reconocerán asimismo, a los demás sindicatos de servidores públicos que, en su caso, se incorporen a la administración pública estatal con motivo de procesos de descentralización federal.
 
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
 
@@ -2125,9 +2169,9 @@ Para mantener el buen orden en el desarrollo de las audiencias o diligencias y e
 
 I. Amonestación;
 
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Multa que no podrá exceder de cien veces el salario mínimo general, vigente en el lugar y tiempo en que se cometa la violación; y
+II. Multa que no podrá exceder de cien veces el valor diario de la Unidad de Medida y Actualización vigente al momento en que se cometa la violación, y
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -2147,9 +2191,9 @@ Las autoridades encargadas de las fuerzas públicas, de procuración de justicia
 
 Para que las personas concurran a las audiencias en las que su presencia sea indispensable, o para asegurar el cumplimiento de cualquiera de sus resoluciones, el Presidente, los auxiliares y secretarios del Tribunal o de la Sala podrán emplear, sin respetar el orden en que se señalan, conjunta o indistintamente cualquiera de los siguientes medios de apremio:
 
-> <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. Multa hasta de cien veces el salario mínimo general vigente, en el lugar tiempo en que se cometió la infracción;
+I. Multa hasta de cien veces el valor diario de la Unidad de Medida y Actualización vigente al momento en que se cometió la infracción;
 
 II. Presentación de la persona con auxilio de la fuerza pública; y
 
@@ -2163,7 +2207,7 @@ IV. La suspensión temporal del cargo sin goce de sueldo del servidor público q
 
 ###### Artículo 209 Bis.
 
-Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de prueba, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la substanciación o resolución de un juicio laboral, sele impondrán hasta quinientos días multa.
+Los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de prueba, recursos y, en general, toda actuación en forma notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la substanciación o resolución de un juicio laboral, sele (sic) impondrán hasta quinientos días multa.
 
 Cuando en un juicio laboral, el Tribunal y Salas consideren que los hechos son constitutivos de un delito, los pondrán de inmediato en conocimiento del Ministerio Público para los efectos conducentes.
 
@@ -2233,11 +2277,11 @@ XI. El acuerdo que prevenga al actor a aclarar su demanda en los términos del a
 
 > <small>(REFORMADA, G.G. 30 DE ENERO DE 2007)</small>
 
-XII La medida disciplinaria y de apremio referida al arresto;
+XII. La medida disciplinaria y de apremio referida al arresto;
 
 > <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
 
-XIII La resolución que emita el Tribunal sobre la suspensión temporal de un servidor público; y
+XIII. La resolución que emita el Tribunal sobre la suspensión temporal de un servidor público; y
 
 > <small>(ADICIONADA, G.G. 30 DE ENERO DE 2007)</small>
 
@@ -3308,3 +3352,27 @@ G.G. 3 DE AGOSTO DE 2016.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 175.- POR EL QUE REFORMAN LOS ARTÍCULOS 4 EN SU FRACCIÓN VII; 20; 21; 22; 23; LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO SEGUNDO; 30; 31; 32; 33; 34; 35; 36; 37; 38; 39; 40; 41; 42; 43 Y 44. SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 138 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
