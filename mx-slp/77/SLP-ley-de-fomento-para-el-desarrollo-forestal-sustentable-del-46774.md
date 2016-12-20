@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-4677
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-18"
-last_updated: "2015-03-10"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de octubre de 2005.
 
@@ -863,15 +863,17 @@ Las sanciones anteriores se impondrán sin perjuicio de la responsabilidad civil
 
 Las multas a que se refiere el artículo anterior, se determinarán en la forma siguiente:
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-I. Con el equivalente de cuarenta a mil veces de salario miinimo (sic), a quien cometa las infracciones senpaladas (sic) en las fracciones V, VIII, XII, XV, XVI y XVIII del artículo 81 de esta Ley, y
+I. Con el equivalente de cuarenta a mil veces de la unidad de medida y actualización, a quien cometa las infracciones señaladas en las fracciones V, VIII, XII, XV, XVI y XVIII del artículo 81 de esta Ley, y
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Con el equivalente de cien a veinte mil veces de salario miinimo (sic) a quien cometa las infracciones senpaladas (sic) en las fracciones; I, II, III, IV, IX, X, XI, XIII, XIV, XVII, XX, y XXI, del artículo 81 de esta Ley.
+II. Con el equivalente de cien a veinte mil veces de la unidad de medida y actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, IX, X, XI, XIII, XIV, XVII, XX, y XXI del artículo 81 de esta Ley.
 
-Para la imposición de las multas servirá de base el salario mínimo general diario vigente en la zona económica del Estado, al momento de cometerse la infracción.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+Para la imposición de las multas servirá de base la unidad de medida y actualización diaria vigente, al momento de cometerse la infracción.
 
 A los reincidentes se les aplicará el doble de las multas previstas en este artículo, según corresponda.
 
@@ -970,3 +972,11 @@ P.O. 10 DE MARZO DE 2015.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0453.- SE REFORMAN DIVERSOS ARTÍCULOS DE LAS SIGUIENTES LEYES: LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DEL ESTADO DE SAN LUIS POTOSÍ, LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES Y LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
