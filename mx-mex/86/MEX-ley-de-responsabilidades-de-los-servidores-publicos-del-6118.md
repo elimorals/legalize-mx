@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2016-06-15"
+last_updated: "2016-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2017 EN LA G. G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -309,7 +311,9 @@ Todas las comunicaciones oficiales que deban girarse para la práctica de las di
 
 Tanto el inculpado como el denunciante o querellante podrán solicitar de las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como prueba ante la Sección respectiva.
 
-Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren la Sección, o la Legislatura a instancia del interesado, señalará a la Autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en la capital del Estado, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora y si no lo hicieren la Sección, o la Legislatura a instancia del interesado, señalará a la Autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización vigente, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
 
 Por su parte, la Sección solicitará las copias certificadas de constancias que estime necesarias para el procedimiento y si la autoridad de quienes la solicitasen no las remite dentro del plazo discrecional que se le señale, se le impondrá la multa a que se refiere el párrafo anterior.
 
@@ -639,11 +643,9 @@ IV. Sanción económica, de uno a tres tantos de los beneficios obtenidos, o por
 
 V. Inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público por un período no menor de seis meses ni mayor a ocho años.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
-
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños y perjuicios a la administración pública, será de uno a diez años, si el monto de aquéllos no excede de quinientas veces el salario mínimo mensual vigente en la capital del Estado y de diez a veinte años si excede de dicho límite.
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños y perjuicios a la administración pública, será de uno a diez años, si el monto de aquéllos no excede de quinientas veces el valor mensual de la Unidad de Medida y Actualización vigente y de diez a veinte años si excede de dicho límite.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -675,9 +677,9 @@ En el supuesto de que la persona haya sido contratada en el servicio público y 
 
 VI. (DEROGADA, G.G. 14 DE MAYO DE 2014)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-VII. Sanción pecuniaria de diez a ciento ochenta salarios mínimos vigentes en la Entidad, por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que los servidores públicos deban observar en el desempeño de sus empleos, cargos o comisiones y de quince a ciento ochenta días del sueldo base presupuestal asignado al servidor público que incurra en incumplimiento a las obligaciones previstas en los artículos 80 y 80 Bis de la presente Ley.
+VII. Sanción pecuniaria de diez a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización vigente, por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que los servidores públicos deban observar en el desempeño de sus empleos, cargos o comisiones y de quince a ciento ochenta días del sueldo base presupuestal asignado al servidor público que incurra en incumplimiento a las obligaciones previstas en los artículos 80 y 80 Bis de la presente Ley.
 
 > <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2015)</small>
 
@@ -705,13 +707,21 @@ e) El monto del beneficio, daño o perjuicio económico, derivado del incumplimi
 
 Cuando se trate de sanciones económicas por beneficios obtenidos, o por daños y perjuicios causados por incumplimiento de las obligaciones establecidas en el artículo 42 de esta ley, se impondrán de uno a tres tantos de los beneficios obtenidos y de los daños y perjuicios causados.
 
-Dichas sanciones económicas, se pagarán una vez determinadas en cantidad líquida, en su equivalencia en salarios mínimos vigentes al día de su pago, conforme al siguiente procedimiento:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. La cantidad líquida de la sanción económica impuesta, se dividirá entre el salario mínimo mensual vigente en la capital del Estado al día de su imposición; y
+Dichas sanciones económicas, se pagarán una vez determinadas en cantidad líquida, en su equivalencia en el valor diario de la Unidad de Medida y Actualización vigente al día de su pago, conforme al siguiente procedimiento:
 
-II. El cociente se multiplicará por el salario mínimo mensual vigente en la capital del Estado al día de pago de la sanción.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-Para los efectos de esta Ley se entenderá por salario mínimo mensual, el equivalente a treinta veces al salario mínimo diario vigente en la capital del Estado.
+l. La cantidad líquida de la sanción económica impuesta, se dividirá entre el valor mensual de la Unidad de Medida y Actualización vigente al día de su imposición.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. El cociente se multiplicará por el valor mensual de la Unidad de Medida y Actualización vigente al día de pago de la sanción.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos de esta Ley se entenderá por valor mensual de la Unidad de Medida y Actualización, el equivalente a multiplicar el valor diario de la unidad de medida y actualización por 30.4 veces.
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
@@ -787,9 +797,11 @@ Cuando por motivo de las funciones que realice la Secretaría, resultare respons
 
 En los casos de que se trate de irregularidades en los supuestos a que se refiere el artículo 72 de esta Ley, se estará a sus disposiciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 58.
 
-La Secretaría y el superior jerárquico informando previamente a ésta, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor, y el daño causado no exceda de doscientas veces el salario mínimo diario vigente en la capital del Estado.
+La Secretaría y el superior jerárquico informando previamente ésta, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad no constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor, y el daño causado no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Lo anterior, es aplicable a los Poderes Judicial y Legislativo, como también a los Ayuntamientos a través de sus órganos competentes.
 
@@ -921,7 +933,9 @@ Cuando durante la instrucción del procedimiento relativo, el servidor público 
 
 Para el cumplimiento de las atribuciones que les confiere esta Ley, las autoridades podrán emplear los siguientes medios de apremio;
 
-I. Sanción económica de hasta veinte veces el salario mínimo diario vigente en la Capital del Estado;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Sanción económica de hasta veinte veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 II. Auxilio de la fuerza pública.
 
@@ -1027,7 +1041,9 @@ Son aplicables estas disposiciones a los servidores públicos de los poderes Leg
 
 La Secretaría podrá dispensar las responsabilidades relativas en los términos del artículo 58 de esta Ley.
 
-La propia Secretaría podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan de doscientas veces el salario mínimo diario vigente en la capital del Estado, por incosteabilidad práctica de cobro.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+La propia Secretaría podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan de doscientas veces el valor diario de la Unidad de Medida y Actualización vigente, por incosteabilidad práctica de cobro.
 
 > <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -1249,7 +1265,9 @@ Los obsequios que se hagan de acuerdo con los supuestos anteriores se entenderá
 
 Si el servidor público incumple con lo dispuesto en el párrafo anterior, su conducta se castigará como cohecho y será sancionado en los términos de la Legislación Penal.
 
-Los obsequios que se hagan a los servidores públicos que no se encuentren en las hipótesis de este dispositivo, deberán ser declarados por éstos en la manifestación anual de bienes cuando el valor unitario de cada obsequio exceda a treinta días de salario mínimo vigente en la capital del Estado.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Los obsequios que se hagan a los servidores públicos que no se encuentren en las hipótesis de este dispositivo, deberán ser declarados por éstos en la Manifestación Anual de Bienes cuando el valor unitario de cada obsequio exceda a treinta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, G.G. 28 DE JUNIO DE 2002)</small>
 
@@ -1786,3 +1804,19 @@ SEGUNDO. Este Decreto entrará en vigor al día siguiente del inicio de la vigen
 TERCERO. El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de este Decreto.
 
 CUARTO. Se dejan sin efecto las disposiciones que se opongan al presente decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
