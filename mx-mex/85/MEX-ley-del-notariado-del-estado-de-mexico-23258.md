@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-notariado-del-estado-de-mexico-23258"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2016-09-06"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL NOTARIADO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 6 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno, el 3 de enero de 2002.
 
@@ -1411,7 +1411,9 @@ Para la operación de este fondo se estará a lo dispuesto en el Reglamento.
 
 El Fondo de Garantía se integra con:
 
-I. Los depósitos en efectivo que al efecto realicen los notarios para el inicio de sus funciones, por la cantidad que como garantía de su función, se determine en el acuerdo del nombramiento respectivo, que en ningún caso excederá la cantidad que resulte de multiplicar por quince mil el salario mínimo general vigente en el área geográfica que corresponda, en razón de la residencia de la notaría;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Los depósitos en efectivo que al efecto realicen los notarios para el inicio de sus funciones, por la cantidad que como garantía de su función, se determine en el acuerdo del nombramiento respectivo, que en ningún caso excederá la cantidad que resulte de multiplicar por quince mil el valor diario de la Unidad de Medida y Actualización vigente.
 
 II. Los depósitos en efectivo que al efecto realicen los notarios anualmente por concepto de actualización de la garantía de su función.
 
@@ -1581,9 +1583,13 @@ VIII. No cumplir con el Arancel que regule sus honorarios.
 
 Se impondrá multa:
 
-I. De trescientos a cuatrocientos días de salario mínimo, por incurrir en actos u omisiones que no puedan ser subsanados;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. De cuatrocientos uno a quinientos días de salario mínimo, por:
+I. De trescientas a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente, por incurrir en actos u omisiones que no puedan ser subsanados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. De cuatrocientas uno a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, por:
 
 a). Ejercer sus funciones estando impedidos para ello en los casos señalados en las fracciones I, IV y VI del artículo 21 de esta Ley.
 
@@ -1595,13 +1601,17 @@ c). Contravenir las disposiciones de la presente Ley que puedan traer como conse
 
 d) No promocionar y gestionar los incentivos otorgados por el Gobierno del Estado a los usuarios de servicios notariales, en términos de lo dispuesto por la fracción VI bis del artículo 20 de la presente Ley.
 
-III. De quinientos uno a mil días de salario mínimo, por:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. De quinientas una a mil veces el valor diario de la Unidad de Medida y Actualización vigente, por:
 
 a). Haber recibido el monto de impuestos o derechos causados por la operación contenida en un instrumento y enterarlos en forma extemporánea.
 
 b). Reincidir en alguna de las causales previstas en el artículo anterior dentro del término de un año a partir de la fecha de la primera infracción.
 
-Para los efectos de este artículo se entiende por salario mínimo, el salario mínimo general vigente en el área geográfica que corresponda, al momento de cometer la infracción.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos de este artículo se entiende por Unidad de Medida y Actualización, la que será utilizada como unidad de cuenta, índice, base, medida o referencia que corresponda al momento de cometer la infracción, tomando en cuenta su valor diario.
 
 ###### Artículo 155.
 
@@ -1725,11 +1735,11 @@ Si el notario se cerciora que los solicitantes otorgaron documentos falsos, ya s
 
 ### CAPITULO UNICO. DEL ARANCEL
 
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 161.
 
-La Consejería expedirá y publicará anualmente en el periódico oficial "Gaceta del Gobierno" el Arancel al que los Notarios deberán sujetar el cobro de sus honorarios, el cual se determinará conforme al salario mínimo.
+La Consejería expedirá y publicará anualmente en el periódico oficial "Gaceta del Gobierno" el Arancel al que los Notarios deberán sujetar el cobro de sus honorarios, el cual se determinará conforme a la Unidad de Medida y Actualización.
 
 ###### Artículo 162.
 
@@ -1862,3 +1872,19 @@ SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 TERCERO. El titular del Ejecutivo del Estado expedirá las adecuaciones al Reglamento de la presente Ley, en su caso, en un plazo que no deberá exceder de ciento ochenta días hábiles, posteriores a la entrada en vigor del presente Decreto.
 
 CUARTO. Con respecto a la fianza establecida en el presente Decreto, será a partir del 2017.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
