@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-del-fondo-nacional-para-el-1016
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-04"
-last_updated: "2014-08-20"
+last_updated: "2016-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101668&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,11 @@ issue_date: "2014-06-25"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES, PUBLICADO EN EL D.O.F. DE 20 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES
 
-> <small>N. DE E. DE CONFORMIDAD CON EL AVISO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 13 DE AGOSTO DE 2014 Y MODIFICADO MEDIANTE ACLARACIÓN PUBLICADA EN EL D.O.F. DEL 20 DE AGOSTO DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A PARTIR DEL MIÉRCOLES 20 DE AGOSTO DE 2014.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE AGOSTO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 20 DE AGOSTO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 4 de julio de 2014.
 
@@ -619,7 +617,7 @@ I. Emitir en apego a las instrucciones del Director General las políticas, line
 
 II. Autorizar las acciones que permitan al Instituto fomentar una cultura de Responsabilidad Social mediante programas que integren a los diferentes actores (Trabajadores, Clientes, proveedores, autoridades y sociedad) con la finalidad de que las acciones realizadas por el Instituto cumplan con los requerimientos de los diferentes programas federales;
 
-III. Formalizar las designaciones de los servidores públicos, expedir los nombramientos y resolver los casos de terminación de sus efectos, de las jerarquías inferiores a los dos primeros niveles, así como vigilar o imponer las sanciones y medidas disciplinarias cuando éstos incurran en irregularidades o faltas de carácter laboral o administrativo, y (sic)
+III. Formalizar las designaciones de los servidores públicos, expedir los nombramientos y resolver los casos de terminación de sus efectos, de las jerarquías inferiores a los dos primeros niveles, así como vigilar o imponer las sanciones y medidas disciplinarias cuando éstos incurran en irregularidades o faltas de carácter laboral o administrativo, y
 
 IV. Diseñar, proponer y ejecutar las estrategias que sirvan de base para conducir las relaciones laborales del Instituto, y difundir la aplicación de las normas y políticas derivadas del contrato colectivo de trabajo y las condiciones generales de trabajo, con el propósito de garantizar la consecución de las mismas así como la operación del Instituto;
 
@@ -701,7 +699,7 @@ VII. Coordinar el soporte administrativo necesario a cada una de las Direcciones
 
 VIII. Establecer la relación con los Gobiernos Estatales y Municipales representando al Instituto en la región, a fin de generar estrategias conjuntas que permitan dar cumplimiento a los objetivos institucionales;
 
-IX. Dirigir la aplicación de la normatividad aplicable, incluyendo los Manuales de Operación y de Crédito por parte de todo el personal de la región a su cargo, con el objeto de otorgar el mejor servicio posible al usuario final, así mismo dar seguimiento y dirigir la atención de las observaciones del Órgano Interno de Control y en general de cualquier autoridad u organismo fiscalizador, que se refieran a los estados u oficinas a su cargo, y (sic)
+IX. Dirigir la aplicación de la normatividad aplicable, incluyendo los Manuales de Operación y de Crédito por parte de todo el personal de la región a su cargo, con el objeto de otorgar el mejor servicio posible al usuario final, así mismo dar seguimiento y dirigir la atención de las observaciones del Órgano Interno de Control y en general de cualquier autoridad u organismo fiscalizador, que se refieran a los estados u oficinas a su cargo, y
 
 X. Dirigir el desarrollo del personal del área, de conformidad con las estrategias y políticas del Instituto, para garantizar la consecución de los resultados y la continuidad de las operaciones del área a corto, mediano y largo plazo, y
 
@@ -1554,3 +1552,11 @@ D.O.F. 13 DE AGOSTO DE 2014.
 > <small>(F. DE E., D.O.F. 20 DE AGOSTO DE 2014)</small>
 
 “Por lo anterior, se hace del conocimiento que la Secretaría de la Función Pública, mediante Oficio No. SSFP/408/0537/2014 y Oficio No. SSFO/408/DGOR/0796/2014, de fecha 23 de julio de 2014, el Titular de la Unidad de Política de Recursos Humanos de la Administración Pública Federal de la Subsecretaría de la función Pública, aprobó la estructura orgánica y ocupacional del Instituto FONACOT y el Director General de Organización y Remuneraciones de la Administración Pública Federal, registró la estructura orgánica y ocupacional del Instituto FONACOT, respectivamente, con vigencia a partir del 4 de julio de 2014, por lo que la vigencia del citado Estatuto iniciará a partir del miércoles 20 de agosto de 2014, abrogándose con esta misma fecha el Estatuto publicado en el Diario Oficial de la Federación el 16 de julio del 2012.”
+
+D.O.F. DE 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL INSTITUTO DEL FONDO NACIONAL PARA EL CONSUMO DE LOS TRABAJADORES".]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día hábil siguiente en que se publique en el Diario Oficial de la Federación, abrogándose ese mismo día el Estatuto Orgánico del Instituto del Fondo Nacional para el Consumo de los Trabajadores, publicado en el Diario Oficial de la Federación, el 4 de julio del 2014 y sus Aclaraciones publicadas en el citado Diario el 13 y 20 de agosto del 2014.
+
+SEGUNDO.- Solicítese la inscripción del presente Estatuto en el Registro Público de Organismos Descentralizados, de conformidad con lo establecido en los artículos 15 y 25 fracción I, de la Ley Federal de las Entidades Paraestatales.
