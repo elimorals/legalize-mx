@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-tratamiento-y-control-de-las-82743"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-30"
-last_updated: "2015-12-19"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2011.
 
@@ -641,7 +641,9 @@ I. Amonestación;
 
 II. Apercibimiento;
 
-III. Multa de entre cincuenta hasta mil veces el salario mínimo vigente en el Estado de San Luis Potosí, y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Multa de entre cincuenta y hasta mil veces la unidad de medida y actualización vigente, y
 
 IV. Clausura temporal o permanente del Centro de Tratamiento y Rehabilitación.
 
@@ -712,5 +714,13 @@ P.O. 19 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0077.- REFORMAS A LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO”.]
 
 PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0451.- SE REFORMAN DIVERSOS ARTÍCULOS DE LAS SIGUIENTES LEYES: LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ, LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ, LEY ESTATAL DE PROTECCIÓN A LA SALUD DE LAS PERSONAS NO FUMADORAS Y LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
