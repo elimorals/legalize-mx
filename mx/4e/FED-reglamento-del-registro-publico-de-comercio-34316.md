@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-registro-publico-de-comercio-34316"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-24"
-last_updated: "2014-12-30"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34316&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-10-22"
 
 REGLAMENTO DEL REGISTRO PÚBLICO DE COMERCIO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 24 de octubre de 2003.
 
@@ -143,6 +143,18 @@ III. La forma precodificada enviada en términos de este artículo se inscribir�
 
 IV. El notario o corredor público que haya realizado dicho trámite, podrá descargar a través del SIGER la boleta de inscripción correspondiente, la cual contendrá un sello digital de tiempo.
 
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 10 Bis 1.
+
+Cuando por disposición legal la inscripción al Registro deba realizarse por la Secretaría, se llevará a cabo únicamente conforme a los requisitos siguientes:
+
+I. La Secretaría, a través del Registrador Mercantil, realizará el envío de la información señalada en la forma precodificada correspondiente por medio del SIGER;
+
+II. La inscripción será inmediata al momento de su recepción y no será susceptible de calificación, y
+
+III. Se generará la boleta de inscripción correspondiente con la firma electrónica del Registrador Mercantil, la cual contendrá un sello digital de tiempo.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 2010)</small>
@@ -189,7 +201,7 @@ La impresión de boletas por parte de fedatarios públicos deberá incluir el se
 
 ###### ARTÍCULO 16.
 
-Los actos inscritos y firmados electrónicamente a través del SIGER deberán ser enviados a la base de datos central de la Secretaría de Economía por medio de un proceso de replicación que deberá realizarse diariamente en aquellas oficinas ya integradas a la Red Nacional del Registro Público de Comercio. Esta replicación deberá hacerse por lo menos una vez a la semana en todas aquellas oficinas que no estén enlazadas a esta red, y podrá realizarse a través de correo electrónico o por el envío físico del respaldo utilizando servicios de mensajería, siempre y cuando se apliquen los mecanismos de seguridad que determine la Secretaría en términos del artículo 18 del Código de Comercio.
+(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 2016)
 
 ###### ARTÍCULO 17.
 
@@ -277,29 +289,29 @@ III. Se declare la nulidad de la inscripción.
 
 La cancelación de una inscripción puede hacerse por consentimiento de las personas a cuyo favor está hecha, el que se hará constar en instrumento público otorgado ante notario o corredor público, o por resolución judicial. Sin embargo, podrán ser canceladas a petición de parte interesada, sin satisfacer dichos requisitos, cuando el acto inscrito quede extinguido por disposición de ley o por causas que resulten del documento con base en el cual se requisitó la forma precodificada para su inscripción.
 
-### Capítulo IV. De la Base de Datos Central del Registro
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE DICIEMBRE DE 2016)</small>
+
+### Capítulo IV. Del Registrador Mercantil
 
 ###### ARTÍCULO 27.
 
-La Base de Datos Central del Registro estará a cargo del Registrador Mercantil que será designado por el Secretario de Economía.
+(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 2016)
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 28.
 
-El Registrador Mercantil tendrá como funciones principales las siguientes:
+Para la prestación del servicio del Registro a nivel federal, se contará con el Registrador Mercantil, cargo que desempeñará el titular de la Dirección General de Normatividad Mercantil de la Secretaría y tendrá como funciones principales las siguientes:
 
-I. Certificar las constancias que se lleguen a expedir de la Base de Datos Central del Registro;
+I. Llevar a cabo el proceso establecido en el artículo 10 Bis 1 del presente Reglamento;
 
-II. Autorizar aquellas inscripciones que deban efectuarse en la Base de Datos Central del Registro;
+II. Ejercer las funciones a cargo de la Secretaría señaladas en el Capítulo II del Título Segundo del Libro Primero del Código de Comercio, y
 
-III. Ejercer las funciones a cargo de la Secretaría señaladas en el Capítulo II del Título Segundo del Libro Primero del Código de Comercio artículo 18 del Código de Comercio, y
-
-IV. Las demás que le encomiende el Secretario de Economía para el cumplimiento de lo dispuesto por el Código de Comercio y este Reglamento con relación al Registro.
+III. Las demás que le encomiende el Secretario de Economía para el cumplimiento de lo dispuesto por el Código de Comercio y este Reglamento con relación al Registro.
 
 ###### ARTÍCULO 29.
 
-Para efecto de lo dispuesto por el artículo 20 del Código de Comercio, en los casos en que exista presunción de alteración de la información del Registro, contenida en la base de datos de alguna entidad federativa o sobre cualquier otro respaldo que hubiere, el interesado deberá presentar al Registrador Mercantil la certificación de la oficina del Registro que corresponda, a fin de que éste la coteje con aquella información que obre en la Base de Datos Central y la que sea consultable a través de la interconexión a que se refiere dicho artículo y manifieste si existe o no discrepancia alguna.
-
-Sólo en caso de que exista discrepancia, el Registrador Mercantil emitirá la certificación correspondiente.
+(DEROGADO, D.O.F. 20 DE DICIEMBRE DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
@@ -668,3 +680,9 @@ D.O.F. 16 DE NOVIEMBRE DE 2012.
 D.O.F. 30 DE DICIEMBRE DE 2014.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL REGISTRO PÚBLICO DE COMERCIO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
