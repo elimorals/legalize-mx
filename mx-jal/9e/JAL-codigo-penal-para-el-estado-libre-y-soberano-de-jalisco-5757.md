@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2016-11-10"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2919,9 +2919,9 @@ El delito de desaparición forzada se considera permanente e imprescriptible.
 
 Se impondrá una pena de doce a cuarenta años de prisión y multa de seiscientos a mil veces el valor diario de la Unidad de Medida y Actualización a quien cometa el delito de desaparición forzada de personas.
 
-> <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-Se incrementará la pena hasta en una tercera parte cuando la víctima del delito sea menor de edad, mujer, persona con discapacidad, indígena o persona de la tercera edad.
+Se incrementará la pena hasta en una tercera parte cuando la víctima del delito sea menor de edad, mujer, persona con discapacidad, indígena, persona de la tercera edad o periodista con motivo de su actividad como tal.
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2013)</small>
 
@@ -3019,7 +3019,9 @@ La pena señalada en el artículo anterior se aumentará en una tercera parte cu
 
 I. Que en la comisión del hecho se incluyan actos que impliquen delitos contra la seguridad y la libertad sexual de cualquier especie;
 
-II. Que la víctima sea una persona que pertenezca a un grupo de población en situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, condición de discapacidad; se trate de un migrante, indígena o mujer en estado de embarazo;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Que la víctima sea una persona que pertenezca a un grupo de población en situación de vulnerabilidad en razón de su edad, género, preferencia u orientación sexual, etnia, condición de discapacidad; se trate de un migrante, indígena, mujer en estado de embarazo o periodista con motivo de su actividad como tal;
 
 III. Que la tortura sea ejecutada por más de una persona;
 
@@ -3697,6 +3699,10 @@ Cuando las amenazas sean leves, se exigirá caución de no ofender, pero si el r
 
 Si cumple la amenaza, se le impondrán además las penas que procedan por los delitos que resulten.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+Cuando el delito a que se refiere el presente artículo se cometa en contra de un periodista y con motivo de su actividad como tal, las penas aumentarán en un tercio.
+
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ###### Art. 188 Bis.
@@ -4121,13 +4127,17 @@ V. Cuando se causen por inundación, incendio, minas, bombas o explosivos;
 
 VI. Cuando se dé tormento al ofendido o se obre con ensañamiento o crueldad;
 
-(REFORMADA, P.O. 12 DE JUNIO DE 2003) (F. DE E., P.O. 12 DE JULIO DE 2003)
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-VII. Cuando se causen por envenenamiento, contagio intencional, asfixia, o uso de estupefacientes, psicotrópicos, gases, inhalantes o solventes; y
+VII. Cuando se causen por envenenamiento, contagio intencional, asfixia, o uso de estupefacientes, psicotrópicos, gases, inhalantes o solventes;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-VIII. Cuando se causen derivadas de cualquiera de los delitos a que se refieren los artículos 124-Bis y 124-Ter de este Código.
+VIII. Cuando se causen derivaciones de cualquiera de los delitos a que se refieren los artículos 124-Bis y 124-Ter de este Código; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+IX. Cuando la víctima sea un periodista y el delito se cometa con motivo de su actividad como tal.
 
 ###### Art. 220.
 
@@ -5161,6 +5171,10 @@ Los delitos electorales, las sanciones, la distribución de competencias y las f
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Art. 269.
 
 (DEROGADO, P.O. 8 DE JULIO DE 2014)
@@ -5565,6 +5579,10 @@ II. Mienta intencionalmente sobre su antigüedad de servicio o de cotización an
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2014)</small>
 
+## TÍTULO VIGÉSIMO CUARTO (SIC). DE LOS DELITOS CONTRA LA LIBERTAD DE EXPRESIÓN
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Art. 305.
 
 Se impondrán de veinte a ochenta jornadas de trabajo y multa por el equivalente de veinte a cincuenta veces el valor diario de la Unidad de Medida y Actualización, a quien de manera intencional y derivado de actos de maltrato y crueldad cause lesiones a cualquier animal y que de manera evidente se refleje un menoscabo en la salud del animal, sin afectar de manera permanente el desenvolvimiento y las funciones propias del animal.
@@ -5612,6 +5630,12 @@ Quedan exceptuados de los delitos previstos en el presente Título los sacrifici
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2014)</small>
 
 Será excluyente de los delitos contemplados en el presente capítulo cuando prevalezca un riesgo inminente en la integridad física de las personas o los que se originen por accidentes sin que medie la intención de causar un daño al animal.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y EL ARTÍCULO QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+###### Art. 309.
+
+A quien, de forma intencional y mediante actos concretos, obstaculice, impida o reprima la producción, publicación, distribución, circulación o difusión de algún medio de comunicación masiva, se le impondrán de seis meses a tres años de prisión y multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ## TRANSITORIOS
 
@@ -6013,19 +6037,19 @@ Cuarto. En caso de no haber designación de Auditor Superior del Estado al día 
 
 Quinto. Los sujetos auditables podrán acogerse a los procedimientos y disposiciones que establece la presente ley en la revisión de las cuentas públicas o estados financieros correspondientes a los ejercicios fiscales que no se hubieren dictaminado por la Auditoría Superior del Estado, mediante solicitud dirigida al Auditor Superior del Estado de Jalisco.
 
-La Auditoría Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad, imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
+La Auditoria Superior del Estado, en las revisiones a que se refiere el párrafo anterior, tendrá todas las atribuciones previstas en esta ley y en la reforma constitucional que le da fundamento, debiendo observar los principios rectores de la fiscalización superior de legalidad, certeza, independencia, objetividad imparcialidad, posterioridad, anualidad y profesionalismo; de la misma forma, los servidores públicos de la Auditoría Superior deberán cumplir con las obligaciones que les impone esta ley.
 
 Los sujetos auditables y fiscalizables que soliciten la revisión prevista en el presente artículo tendrán un término de quince días a partir de la entrega de su solicitud para proporcionar el domicilio al que se refiere el artículo 5 de esta ley.
 
 En caso que los sujetos auditables que no se acojan a este decreto, la revisión de sus cuentas se harán con las disposiciones de la Ley de Fiscalización Superior del Estado de Jalisco, vigente en el ejercicio fiscal de su gestión, es decir, 2006, 2007 y 2008.
 
-Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoría Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
+Sexto. En tanto se establece la infraestructura y el procedimiento necesario para la utilización de la firma electrónica por las entidades auditables y la Auditoria Superior, las entidades auditables que opten en enviar su documentación justificativa y comprobatoria de las cuentas públicas y de los informes de avance de gestión financiera en medios magnéticos o electrónicos las enviarán conforme al procedimiento estipulado por los acuerdos del Auditor Superior relativos a la presentación de las cuentas públicas por estos medios.
 
-Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoría Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior.
+Séptimo. Los recursos materiales, técnicos y financieros que actualmente están afectos o destinados a la Auditoria Superior, pasarán a formar parte del patrimonio del órgano dotado con autonomía técnica y de gestión denominado Auditoria Superior.
 
-Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoría Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
+Octavo. Todos los recursos humanos asignados a la actual Auditoría Superior pasarán a formar parte de la plantilla de personal del órgano dotado con autonomía técnica y de gestión denominado Auditoría Superior. Por lo cual, deberán respetarse los derechos laborales de los servidores públicos de la Auditoria Superior, y las Condiciones Generales para los Trabajadores al Servicio del Poder Legislativo del Estado de Jalisco, incluso ante la reestructuración administrativa.
 
-Noveno. El Poder Legislativo, en conjunto con la Auditoría Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
+Noveno. El Poder Legislativo, en conjunto con la Auditoria Superior del Estado de Jalisco y el Poder Ejecutivo, llevarán a cabo las adecuaciones presupuestales necesarias para el debido cumplimiento del presente decreto.
 
 Para tal efecto, una vez designado el Auditor Superior, deberá presentar a la Junta de Coordinación Política, así como a la Comisión de Hacienda y Presupuestos del Congreso del Estado, el anteproyecto de presupuesto de la Auditoría Superior del Estado.
 
@@ -6353,7 +6377,7 @@ Décimo Segundo. En tanto se expida la Ley Federal en materia del derecho de ré
 
 Décimo Tercero. Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto en materia de delitos electorales se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen, salvo que la ley General en Materia de Delitos Electorales resulte más benéfica. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
-Décimo Cuarto. El Tribunal Electoral deberá realizar las modificaciones y adecuaciones reglamentarias, presupuestales, administrativas correspondientes para dar el debido cumplimiento al presente Decreto.
+Décimo Cuarto. El Tribunal Electoral deberá realizar las modificaciones y adecuaciones reglamentarias, presupuestares, administrativas correspondientes para dar el debido cumplimiento al presente Decreto.
 
 Décimo Quinto. El Tribunal Electoral dentro de los 90 días posteriores a la entrada en vigor del presente decreto deberá expedir su Reglamento interno.
 
@@ -6484,3 +6508,13 @@ P.O. 10 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente decreto entrará en vigor al siguiente día de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. La reforma del artículo 46 bis de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, entrará en vigor el 31 de octubre de 2018.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26182/LXI/16, MEDIANTE EL CUAL SE EXPIDE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE JALISCO, Y REFORMA LOS ARTÍCULOS 154-B, 154-I, 188 Y 219; Y SE ADICIONA EL TÍTULO VIGÉSIMO CUARTO, DENOMINADO "DE LOS DELITOS CONTRA LA LIBERTAD DE EXPRESIÓN" Y EL ARTÍCULO 309 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. La Secretaría General de Gobierno deberá emitir la convocatoria estatal pública a organizaciones de la sociedad civil involucradas en la defensa y protección de los derechos humanos, así como en el ejercicio del periodismo y la libertad de expresión para conformar el primer Consejo Consultivo, dentro de los sesenta días siguientes a la entrada en vigor del presente decreto.
+
+TERCERO. Una vez emitida la convocatoria a que se refiere el Artículo anterior las organizaciones de la sociedad civil involucradas en la defensa y promoción de los derechos humanos y en el ejercicio del periodismo y la libertad de expresión, se registrarán ante la Secretaría y entre ellas elegirán a los nueve integrantes del primer Consejo Consultivo, en un término de un mes contados a partir del cierre del registro. Una vez proporcionada la lista de los integrantes del Consejo a la Secretaría, éste se instalará en un término de diez días hábiles.
