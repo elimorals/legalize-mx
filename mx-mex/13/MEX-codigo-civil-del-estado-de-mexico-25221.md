@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2016-09-26"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -4305,11 +4305,13 @@ Patrimonio familiar único
 
 381.- Cada familia sólo puede tener un patrimonio familiar.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 Valor máximo del patrimonio familiar
 
 ###### Artículo 4.
 
-382.- El valor máximo de los bienes afectos al patrimonio familiar, será el equivalente a diez mil veces el salario mínimo general diario, vigente en la zona de ubicación de los inmuebles al momento de constituirse.
+382. El valor máximo de los bienes afectos al patrimonio familiar, será el equivalente a diez mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de constituirse.
 
 > <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
@@ -7487,11 +7489,13 @@ Casos en que se abre la sucesión legítima
 
 136.- Testamento público simplificado es aquél que se otorga ante notario en la escritura en que se consigna la adquisición de una vivienda y su solar o parcela, de un inmueble destinado a vivienda o en la que se consigne su regularización por parte de las autoridades o entidades del Estado o de cualquier dependencia o entidad de la Administración Pública Federal, siempre que tenga el mismo fin o en acto posterior.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 Monto de los bienes, objeto del testamento público simplificado
 
 ###### Artículo 6.
 
-137.- Para que se otorgue el testamento público simplificado, el precio del inmueble o su valor de avalúo no podrá exceder del equivalente a veinticinco veces el salario mínimo general vigente en los Municipios de la Entidad elevado al año; en la regularización de inmuebles no importará su monto.
+137. Para que se otorgue el testamento público simplificado, el precio del inmueble o su valor de avalúo no podrá exceder del equivalente a veinticinco veces el valor diario de la Unidad de Medida y Actualización vigente elevado al año; en la regularización de inmuebles no importará su monto.
 
 Pluralidad de testador en el mismo acto
 
@@ -12757,7 +12761,9 @@ Reglas de la compraventa en abonos
 
 I. Si la venta es de bienes inmuebles, puede pactarse que la falta de uno o varios abonos ocasione la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público;
 
-II. Si se trata de bienes muebles identificables indubitablemente, y cuyo valor exceda de quinientas veces el salario mínimo anualizado, podrá también pactarse la cláusula resolutoria de que habla la fracción anterior, y producirá efectos contra tercero si se inscribió en el Registro Público de la Propiedad.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Si se trata de bienes muebles identificables indubitablemente, y cuyo valor exceda de quinientas veces el valor anual de la Unidad de Medida y Actualización vigente, podrá también pactarse la cláusula resolutoria de que habla la fracción anterior, y producirá efectos contra tercero si se inscribió en el Registro Público de la Propiedad.
 
 En los supuestos de las dos fracciones anteriores en caso de que se haya pagado más del cincuenta por ciento del precio se estará a la regla respectiva señalada en disposiciones anteriores.
 
@@ -12803,11 +12809,13 @@ Concepto de donación
 
 598.- El contrato de compraventa requiere para su validez la forma escrita.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 Formalidad de la compraventa de muebles
 
 ###### Artículo 7.
 
-599.- Si se trata de bienes muebles que sean susceptibles de identificarse de manera indubitable y su valor excede de tres mil veces el salario mínimo vigente en el lugar de celebración del contrato, podrá ratificarse el contrato ante Fedatario Público.
+599. Si se trata de bienes muebles que sean susceptibles de identificarse de manera indubitable y su valor excede de tres mil veces el valor diario de la Unidad de Medida y Actualización vigente, podrá ratificarse el contrato ante Fedatario Público.
 
 Formalidad de la compra de inmuebles
 
@@ -12927,17 +12935,21 @@ Formalidad de la donación
 
 617.- La donación puede hacerse verbalmente o por escrito.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 Donación verbal
 
 ###### Artículo 7.
 
-618.- Sólo puede hacerse donación verbal de bienes muebles, cuyo valor no exceda de cien veces el salario mínimo que corresponda al lugar donde se celebre la donación.
+618. Sólo puede hacerse donación verbal de bienes muebles, cuyo valor no exceda de cien veces el valor diario de la Unidad de Medida y Actualización vigente, debe hacerse por escrito. Si excede de la suma mencionada la donación deberá hacerse en escritura pública.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 Donación que requiere forma escrita
 
 ###### Artículo 7.
 
-619.- Si el valor de los muebles excede de la cantidad señalada en el artículo anterior, pero no excede de quinientos días de salario mínimo vigente en la zona en que se celebre el contrato, debe hacerse por escrito. Si excede de la suma mencionada la donación deberá hacerse en escritura pública.
+619. Si el valor de los muebles excede de la cantidad señalada en el artículo anterior, pero no excede de quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, debe hacerse por escrito. Si excede de la suma mencionada la donación deberá hacerse en escritura pública.
 
 Formalidad de la donación de inmuebles
 
@@ -13031,7 +13043,9 @@ Donación no revocable por sobrevenir hijos
 
 633.- La donación no podrá ser revocada por sobrevenir hijos cuando sea:
 
-I. Menor de diez veces del salario mínimo en el lugar en que se realizó el contrato;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Menor de diez veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 II. Antenupcial;
 
@@ -14039,15 +14053,19 @@ Elementos formales específicos
 
 I. Sea general;
 
-II. El interés del negocio para el que se otorgue sea superior al equivalente a quinientas veces el salario mínimo general vigente en la capital del Estado, al momento de conferirse;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. El interés del negocio para el que se otorgue sea superior al equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de conferirse
 
 III. En virtud del que haya de ejecutar el mandatario, algún acto que conforme a la ley debe constar en instrumento público.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 Mandato por escrito ante dos testigos
 
 ###### Artículo 7.
 
-773.- El mandato podrá otorgarse por escrito ante dos testigos, sin que sea necesaria la ratificación de firmas cuando el interés del negocio para el que se confiera, no exceda de quinientas veces el salario mínimo general vigente en la capital del Estado, al momento de su otorgamiento.
+773. El mandato podrá otorgarse por escrito ante dos testigos, sin que sea necesaria la ratificación de firmas cuando el interés del negocio para el que se confiera, no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de su otorgamiento.
 
 Falta de forma del mandato
 
@@ -16121,11 +16139,13 @@ Notificación al deudor del crédito
 
 1060.- La fianza que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes inmuebles inscritos en el Registro Público de la Propiedad y de un valor que garantice las obligaciones que contraiga.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 Fiador legal o judicial que no requiere propiedad de inmuebles
 
 ###### Artículo 7.
 
-1061.- Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de quinientos días de salario mínimo general vigente en el lugar de celebración del contrato, no se exigirá que el fiador tenga bienes inmuebles.
+1061. Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, no se exigirá que el fiador tenga bienes inmuebles.
 
 Prueba de la propiedad de inmueble
 
@@ -18488,3 +18508,19 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
