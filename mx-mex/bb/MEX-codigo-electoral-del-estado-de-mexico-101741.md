@@ -4,7 +4,7 @@ identifier: "MEX-codigo-electoral-del-estado-de-mexico-101741"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-28"
-last_updated: "2016-05-31"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección de la Gaceta del Gobierno del Estado de México, el sábado 28 de junio de 2014.
 
@@ -122,6 +122,10 @@ XII. Sala Constitucional: Sala Constitucional del Tribunal Superior de Justicia 
 XIII. Secretaría Ejecutiva: Secretaría Ejecutiva del Instituto Electoral del Estado de México.
 
 XIV. Tribunal Electoral: Tribunal Electoral del Estado de México.
+
+> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+XV. Unidad de Medida y Actualización: Unidad de cuenta, índice, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en este ordenamiento.
 
 > <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
 
@@ -707,7 +711,9 @@ II. El financiamiento público para el sostenimiento de sus actividades permanen
 
 a) El financiamiento ordinario se fijará anualmente conforme a los siguientes criterios:
 
-La cantidad base para asignar el financiamiento público será la que resulte de multiplicar el 65% del salario mínimo vigente en la capital del Estado, por el número total de ciudadanos inscritos en el padrón electoral de la entidad, con corte a julio del año anterior al que deba realizarse el cálculo correspondiente.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+La cantidad base para asignar el financiamiento público será la que resulte de multiplicar el 65% del valor diario de la Unidad de Medida y Actualización vigente por el número total de ciudadanos inscritos en el padrón electoral de la entidad, con corte a julio del año anterior al que deba realizarse el cálculo correspondiente.
 
 La forma de asignar y distribuir la cantidad resultante será la siguiente:
 
@@ -3349,11 +3355,15 @@ Las personas físicas o jurídico colectivas que pretendan llevar a cabo encuest
 
 Quienes infrinjan las prohibiciones contenidas en este artículo, quedarán sujetos a las sanciones que este Código impone, así como a las penas que señala la Ley General en materia de Delitos Electorales y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 264.
 
-El tope de gastos de campaña, que determinará el Consejo General para cada partido político o coalición, será la cantidad que resulte de multiplicar el 34% del salario mínimo general vigente en la capital del Estado, por el número de ciudadanos inscritos en el padrón electoral en el Estado, distrito o municipio de que se trate, con corte al último mes previo al inicio del proceso electoral.
+El tope de gastos de campaña, que determinará el Consejo General para cada partido político o coalición, será la cantidad que resulte de multiplicar el 34% del valor diario de la Unidad de Medida y Actualización vigente, por el número de ciudadanos inscritos en el padrón electoral en el Estado, distrito o municipio de que se trate, con corte al último mes previo al inicio del proceso electoral.
 
-Ningún municipio podrá tener como tope de gastos de campaña una cantidad menor al equivalente de tres mil días de salario mínimo diario general vigente en la capital del Estado.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Ningún municipio podrá tener como tope de gastos de campaña una cantidad menor al equivalente a tres mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, G.G. 31 DE MAYO DE 2016)</small>
 
@@ -5893,7 +5903,9 @@ I. Apercibimiento.
 
 II. Amonestación.
 
-III. Multa hasta por trescientas veces el salario mínimo diario general vigente en la Capital del Estado. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Multa hasta por trescientas veces el valor diario de la Unidad de Medida y Actualización vigente. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada.
 
 IV. Auxilio de la fuerza pública.
 
@@ -6101,7 +6113,9 @@ I. Respecto de los partidos políticos:
 
 a) Con amonestación pública.
 
-b) Con multa de cinco mil hasta diez mil cien días de salario mínimo general vigente en la entidad, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes o militantes, o de los candidatos para sus propias campañas, además de la multa, se aplicará un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de cinco mil hasta diez mil cien veces el valor diario de la Unidad de Medida y Actualización vigente, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes o militantes, o de los candidatos para sus propias campañas, además de la multa, se aplicará un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior.
 
 c) Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución.
 
@@ -6111,7 +6125,9 @@ II. Respecto de los aspirantes, precandidatos o candidatos a cargos de elección
 
 a) Con amonestación pública.
 
-b) Con multa de mil hasta cinco mil días de salario mínimo general vigente en la entidad.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de mil hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo.
 
@@ -6121,7 +6137,9 @@ III. Respecto de los candidatos independientes:
 
 a) Con amonestación pública.
 
-b) Con multa de mil hasta cinco mil días de salario mínimo general vigente en la entidad.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de mil hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 c) Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo.
 
@@ -6131,7 +6149,9 @@ IV. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos pol
 
 a) Con amonestación pública.
 
-b) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o jurídica colectiva, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil días de salario mínimo general vigente en la entidad, en el caso de que promuevan una denuncia frívola.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+b) Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos políticos, o cualquier persona física o jurídica colectiva, con amonestación pública y, en caso de reincidencia, con multa de hasta dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, en el caso de que promuevan una denuncia frívola.
 
 Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
@@ -6141,13 +6161,17 @@ a) Con amonestación pública.
 
 b) Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales federales o locales, según sea el caso.
 
-c) Con multa de cincuenta hasta doscientos días de salario mínimo general vigente en la entidad, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+c) Con multa de cincuenta hasta doscientas veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
 
 VI. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
 
 a) Con amonestación pública.
 
-b) Con multa de mil hasta cinco mil días de salario mínimo general vigente en la entidad, según la gravedad de la falta.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de mil hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, según la gravedad de la falta.
 
 c) Con la cancelación del procedimiento tendente a obtener el registro como partido político local.
 
@@ -6155,7 +6179,9 @@ VII. Respecto de las organizaciones sindicales, laborales o patronales, o de cua
 
 a) Con amonestación pública.
 
-b) Con multa de mil hasta cinco mil días de salario mínimo general vigente en la entidad, según la gravedad de la falta.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de mil hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, según la gravedad de la falta.
 
 ###### Artículo 472.
 
@@ -7166,3 +7192,19 @@ CUARTO. El Consejo General del Instituto Electoral del Estado de México deberá
 QUINTO. El Tribunal Electoral contará con un plazo no mayor a 60 días a partir de la entrada en vigor del presente Decreto, para implementar el sistema electrónico de notificaciones y realizar las adecuaciones a su normativa interna.
 
 SEXTO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
