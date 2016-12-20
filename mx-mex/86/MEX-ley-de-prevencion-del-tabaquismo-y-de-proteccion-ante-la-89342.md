@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prevencion-del-tabaquismo-y-de-proteccion-ante-la-89342"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2015-08-06"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PREVENCIÓN DEL TABAQUISMO Y DE PROTECCIÓN ANTE LA EXPOSICIÓN AL HUMO DE TABACO EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Quinta de la Gaceta de Gobierno del Estado de México, el viernes 31 de agosto de 2012.
 
@@ -375,17 +375,23 @@ IV. Reincidencia; y
 
 V. Demás circunstancias para la individualización de la sanción.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 28.
 
-Se sancionará con una multa de hasta cien días de salario mínimo general vigente del área geográfica que corresponda, al que consuma cualquier producto del tabaco en los espacios 100% libre de humo de tabaco, a los que hace referencia esta Ley.
+Se sancionará con una multa de hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente, al que consuma cualquier producto del tabaco en los espacios 100% libre de humo de tabaco, a los que hace referencia esta Ley.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 29.
 
-Se sancionará con una multa de mil a cuatro mil días de salario mínimo general vigente del área geográfica que corresponda, al propietario, administrador, poseedor o responsable de un espacio 100% libre de humo de tabaco a los que hace referencia esta Ley, que permita fumar tabaco en los mismos.
+Se sancionará con una multa de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente, al propietario, administrador, poseedor o responsable de un espacio 100% libre de humo de tabaco a los que hace referencia esta Ley, que permita fumar tabaco en los mismos.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 30.
 
-Se sancionará con una multa de mil hasta cuatro mil días de salario mínimo, al titular de la concesión o permiso, cuando se trate de vehículos de transporte público de pasajeros, cuando no fijen las señalizaciones respectivas o permitan tabaco dentro del vehículo de transporte público.
+Se sancionará con una multa de mil hasta cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente al titular de la concesión o permiso, cuando se trate de vehículos de transporte público de pasajeros, cuando no fijen las señalizaciones respectivas o permitan tabaco dentro del vehículo de transporte público.
 
 ###### Artículo 31.
 
@@ -480,3 +486,19 @@ CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamen
 QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
