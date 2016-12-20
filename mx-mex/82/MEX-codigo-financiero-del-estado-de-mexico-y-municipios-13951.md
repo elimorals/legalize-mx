@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2016-12-05"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "MEX"
 ---
 # CODIGO FINANCIERO DEL ESTADO DE MEXICO Y MUNICIPIOS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE NOVIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 5 DE DICIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -53,6 +53,10 @@ Las disposiciones de este Código son de orden público e interés general y tie
 
 La actividad financiera comprende la obtención, administración y aplicación de los ingresos públicos, así como lo conducente a la transparencia y difusión de la información financiera relativa a la presupuestación, ejercicio, evaluación y rendición de cuentas, en apego a las disposiciones legales aplicables en la materia.
 
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Para cuantificar el pago de las obligaciones y demás supuestos susceptibles de liquidarse, previstos en el presente ordenamiento se deberá tomar como base la Unidad de Medida y Actualización diaria, mensual o anual según sea el caso, vigente al momento de generarse la obligación de pago, determinada y publicada por el Instituto Nacional de Estadística y Geografía (INEGI).
+
 > <small>(REFORMADO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 2.
@@ -65,7 +69,9 @@ Los actos, procedimientos y resoluciones que dicten o ejecuten las autoridades, 
 
 Para efectos de este Código, Ley de Ingresos del Estado y del Presupuesto de Egresos se entenderá por:
 
-I. (DEROGADA, G.G. 2 DE DICIEMBRE DE 2013)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Unidad de Medida y Actualización: Unidad de cuenta, índice, medida o referencia diaria, mensual o anual según sea el caso vigente al momento de generarse la obligación de pago, que servirá de base para cuantificar el pago de obligaciones y supuestos previstos en este ordenamiento.
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -115,21 +121,15 @@ XII. Ejercicio Fiscal. Al que comprende del primero de enero al treinta y uno de
 
 XIII. Organismos Autónomos. Aquellas Entidades que cuentan con personalidad jurídica y patrimonio propio, autonomía de gestión e independencia de los Poderes Legislativo, Ejecutivo y Judicial.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XIV. Entidades Públicas. A tribunales administrativos y organismos públicos descentralizados, empresas de participación estatal o municipal y fideicomisos públicos, todos del Estado de México.
 
 XV. Estado. Al Estado Libre y Soberano de México.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XVI. Estructura Programática. Al conjunto de categorías y elementos programáticos que sirven para dar orden y dirección al gasto público y para conocer el rendimiento esperado de la utilización de los fondos públicos y para vincular los propósitos de las políticas públicas derivadas del Plan de Desarrollo del Estado de México, de los planes de desarrollo de los municipios y de los planes que de ellos emanen, con la misión de las dependencias y entidades públicas.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -211,43 +211,29 @@ XXXVIII. Traspaso Presupuestario Externo. Serán aquellos que se realicen entre 
 
 XXXIX. Traspaso Presupuestario Interno. A las modificaciones de los recursos asignados que se realicen dentro de un mismo programa y capítulo de gasto.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XL. Vivienda. Es la prevista en la fracción I del artículo 5.37 del Código Administrativo del Estado de México y que se refiere a los tipos siguientes:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 A). Social Progresiva. Aquella cuyo valor al término de la construcción o adquisición no exceda de 328,716 pesos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 B). Interés Social. La que tenga al término de la construcción o adquisición un valor mayor a 328,716 pesos y menor o igual a 427,333 pesos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 C). Popular. La que tenga al término de la construcción o adquisición un valor mayor a 427,333 pesos y menor o igual a 624,562 pesos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 D). Media. La que tenga al término de la construcción o adquisición un valor mayor a 624,562 pesos y menor o igual a 1,769,090 pesos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 E). Residencial. La que tenga al término de la construcción o adquisición un valor mayor a 1,769,090 pesos y menor o igual a 2,940,515 pesos.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO EN SU TARIFA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
@@ -255,13 +241,9 @@ F). Residencial alto y campestre. La que tenga al término de la construcción o
 
 En el caso que las leyes federales incrementen o disminuyan los montos estimados, se deberá estar a lo dispuesto en esas disposiciones legales.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 XLI. Establecimiento principal. El lugar en el que se realicen actividades de administración, económicas, comerciales o de dirección, que generen obligaciones fiscales.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
 
 > <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
@@ -286,8 +268,6 @@ XLVI. Sello digital. Al sello electrónico en los términos de la Ley para el Us
 > <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
 
 XLVII. SEITS. Al Sistema Electrónico de Información, Trámites y Servicios, en los términos de la Ley para el Uso de Medios Electrónicos del Estado de México.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -8345,25 +8325,19 @@ Tratándose de predios destinados a panteones particulares, no se considera como
 
 El propietario del panteón bimestralmente presentará ante las autoridades catastral y fiscal competentes, una relación de los actos o contratos por los que se haya transmitido la posesión de lotes para destinarse a sepulturas en que se indique la fecha y superficie, así como una lista de lotes cuya posesión haya revertido a su favor.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 112.
 
-El pago del impuesto se efectuará en una sola exhibición durante los meses de enero, febrero y marzo, cuando su importe sea hasta de seis días de salario mínimo general del área geográfica que corresponda a la ubicación del inmueble.
+El pago del impuesto se efectuará en una sola exhibición durante los meses de enero, febrero y marzo, cuando su importe sea hasta de seis veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
+Cuando el importe sea mayor de seis y hasta nueve veces el valor diario de la Unidad de Medida y Actualización vigente el pago se hará en dos exhibiciones que se enterarán durante los meses de enero y julio.
 
-Cuando el importe sea mayor de seis y hasta nueve días de salario mínimo, el pago se hará en dos exhibiciones que se enterarán durante los meses de enero y julio.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-Cuando exceda de nueve días de salario mínimo general, el pago se dividirá en seis partes iguales que se cubrirán bimestralmente en los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+Cuando exceda de nueve veces el valor diario de la Unidad de Medida y Actualización vigente el pago se dividirá en seis partes iguales que se cubrirán bimestralmente en los meses de enero, marzo, mayo, julio, septiembre y noviembre.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -8623,19 +8597,23 @@ La base gravable y cuota para el pago de este impuesto, se determinará conforme
 
 I. Por la autorización de conjuntos urbanos, subdivisiones de predios o modificaciones del tipo de conjunto urbano autorizado, incluyendo el cambio de uso o el número de viviendas previstas conforme a la siguiente:
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 TARIFA
 
-NÚMERO DE SALARIOS MÍNIMOS
+NÚMERO DE VECES
 
-GENERALES DIARIOS DEL ÁREA
+EL VALOR DIARIO DE LA
 
-GEOGRÁFICA QUE
+UNIDAD DE MEDIDA Y
 
-CORRESPONDA
+ACTUALIZACIÓN
+
+VIGENTE
 
 GRUPO
+
+A B
 
 TARIFA TIPO DE
 
@@ -8681,19 +8659,17 @@ Abasto, comercio Por cada 1,000 m2 de
 
 y servicios. superficie vendible 215.82 126.88
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-Cuando en las autorizaciones de los conjuntos urbanos habitacionales se incluyan lotes para usos comerciales o de servicios, se pagará adicionalmente por cada 100 m2 de superficie vendible para estos usos del suelo, una cuota equivalente a 30 días de salario mínimo general vigente del área geográfica que corresponda.
+Cuando en las autorizaciones de los conjuntos urbanos habitacionales se incluyan lotes para usos comerciales o de servicios, se pagará adicionalmente por cada 100 m2 de superficie vendible para estos usos del suelo, una cuota equivalente a 30 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-Tratándose de conjuntos urbanos o subdivisiones de predios de tipo residencial que incluyan superficies con espacios destinados para actividades recreativas o deportivas, se pagará adicionalmente una cuota equivalente a 10 días de salario mínimo general vigente del área geográfica que corresponda, por cada 1000 m2 de la superficie dedicada a las actividades mencionadas.
+Tratándose de conjuntos urbanos o subdivisiones de predios de tipo residencial que incluyan superficies con espacios destinados para actividades recreativas o deportivas, se pagará adicionalmente una cuota equivalente a 10 veces el valor diario de la Unidad de Medida y Actualización vigente, por cada 1000 m2 de la superficie dedicada a las actividades mencionadas.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
 En el caso de autorizaciones de conjuntos urbanos mixtos, se pagará por vivienda conforme a la tarifa anterior, atendiendo a los tipos de conjuntos urbanos base que lo conforman.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
@@ -8727,25 +8703,25 @@ II. Los montos determinados de conformidad con lo previsto en este artículo, se
 
 Están obligadas al pago de este impuesto las personas físicas o jurídicas colectivas que se anuncien en bienes del dominio público o privado, mediante anuncios publicitarios susceptibles de ser observados desde la vía pública o lugares de uso común, así como la distribución de publicidad impresa, sonorización y perifoneo, en la vía pública, que anuncien o promuevan la venta de bienes o servicios. Lo anterior, observando las disposiciones aplicables en la materia, incluyendo las emitidas por la autoridad municipal de que se trate.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 121.
 
 Este impuesto, se pagará bimestralmente dentro de los cinco días siguientes al bimestre en que se causó, cuando se efectúe la publicidad, de acuerdo con la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-CONCEPTO Número de Salarios
+CONCEPTO NÚMERO DE VECES EL
 
-Mínimos Generales
+VALOR DIARIO DDE (SIC)
 
-Diarios del Área
+LA UNIDAD DE MEDIDA
 
-Geográfica que
+Y ACTUALIZACIÓN
 
-corresponda
+VIGENTE
 
 I. Anuncios adosados, pintados, murales,
 
@@ -8764,8 +8740,6 @@ proyección óptica, computarizados y los
 que pudieran ser explotados de forma mixta,
 
 por m2 o fracción 2.42
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -8795,8 +8769,6 @@ por día. 3.63
 
 Tratándose de las personas físicas y jurídicas colectivas que de manera eventual realicen esta actividad, deberán cumplir con la obligación de pago por el número de días en que se llevó a cabo la publicidad, conforme a la tarifa de este artículo, para lo cual, en caso de que no se señale una cuota diaria, deberán de dividir el monto a pagar bimestral entre 60 y el resultado multiplicarlo por el número de días en los que se efectuó la publicidad, de acuerdo al concepto de que se trate. En este caso, se pagará mediante declaración mensual que deberá presentarse dentro de los cinco días siguientes del mes siguiente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 No se pagará este impuesto, por aquellos anuncios que tengan como única finalidad publicitar el nombre, la denominación o razón social del establecimiento a través de anuncios adosados o pintados en el mismo, con o sin iluminación, así como aquellos que promuevan eventos educativos o culturales que no persigan fines de lucro.
@@ -8804,8 +8776,6 @@ No se pagará este impuesto, por aquellos anuncios que tengan como única finali
 Para efectos de este artículo se entenderá como anuncio luminoso, aquél que sea alumbrado por una fuente de luz distinta de la natural, en su interior o exterior.
 
 #### SECCION SEPTIMA. DE LOS DERECHOS POR USO DE VIAS Y AREAS PUBLICAS PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES O DE SERVICIOS
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 (REFORMADO, G.G. 18 DE DICIEMBRE DE 2008) (REPUBLICADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)
 
@@ -8845,19 +8815,13 @@ Cuando se trate de espectáculos públicos explotados por personas físicas o ju
 
 III. Tratándose de espectáculos públicos de tipo cultural, teatral y circense la tasa del 3%.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 La tesorería autorizará la venta de boletos que se utilicen para el acceso a un espectáculo público, incluyendo los de cortesía, los cuales en ambos casos, deberán ser foliados progresivamente, contener código de barras en su caso, precios de cada localidad con número y letra, lugar, fecha y horario del evento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 Se deberá informar previamente a la autoridad fiscalizadora, el sistema a utilizar para la venta de boletos por medios electrónicos, a fin de realizar la determinación del impuesto.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
@@ -8865,7 +8829,9 @@ Previo a la autorización de diversiones, juegos y espectáculos públicos, los 
 
 Los boletos de cortesía no excederán del 5% del boletaje vendido.
 
-Las máquinas de entretenimiento de audio, vídeo, vídeo juegos, eléctricas y electrónicas, mesas de aire, futbolitos, y los juegos de computadora que se activen con monedas, fichas, tarjetas magnéticas o cualquier otro dispositivo que impliquen interacción de uno o varios usuarios con dichas máquinas o aparatos, pagarán mensualmente 2.0 días de salario mínimo general vigente del área geográfica que corresponda por cada una.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Las máquinas de entretenimiento de audio, vídeo, vídeo juegos, eléctricas y electrónicas, mesas de aire, futbolitos, y los juegos de computadora que se activen con monedas, fichas, tarjetas magnéticas o cualquier otro dispositivo y que impliquen interacción de uno o varios usuarios con dichas máquinas o aparatos, pagarán mensualmente 2.0 veces el valor diario de la Unidad de Medida y Actualización vigente por cada una.
 
 ###### Artículo 124.
 
@@ -8975,8 +8941,6 @@ Los usuarios del servicio de agua potable, drenaje, alcantarillado y recepción 
 
 Para la contratación de los servicios de agua y drenaje solo será necesario presentar cualquier tipo de comprobante del domicilio donde se instalarán dichos servicios y, en estos casos, el recibo que expida la autoridad será innominado. Para que en el contrato y recibo se registre el nombre del usuario, se presentarán los documentos que acrediten la respectiva propiedad o legal posesión.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 130.
@@ -8989,8 +8953,6 @@ A). Con medidor.
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 En caso de que el medidor se encuentre descompuesto, el usuario pagará los derechos de suministro de agua potable de conformidad al promedio de consumo de los doce últimos meses o seis bimestres inmediatos anteriores según sea el caso, en que estuvo funcionando el aparato.
@@ -8999,31 +8961,21 @@ En caso de que el medidor se encuentre descompuesto, el usuario pagará los dere
 
 Se considerará como consumo de tipo mixto, aquellos casos en donde en un mismo inmueble con una sola toma de agua con y sin servicio medido, a la vez se abastezcan o suministren departamentos, despachos, oficinas y locales comerciales.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 El pago del consumo por servicio medido, se hará por cada uno de los usuarios conforme al uso del servicio y la tarifa aplicable, promediando el consumo total entre el número de usuarios.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Para consumo de agua en edificios de departamentos y vecindades que tengan para su servicio una sola toma de agua y medidor, la lectura del consumo mensual o bimestral se promediará en cada caso entre el número de departamentos o viviendas registradas para cuantificar el consumo de cada una, aplicando el precio por metro cúbico de acuerdo a la tarifa vigente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 El consumo promediado se aplicará a los establecimientos que se encuentren habitados o haciendo uso del servicio de agua potable, previa verificación de la autoridad.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 Para usuarios con servicio medido, en el caso de que las instalaciones hidráulicas internas del predio de que se trate presenten fuga, verificada por la autoridad, se cobrará por única vez en el mes o bimestre según corresponda, hasta un máximo de tres períodos, con fuga, el consumo promedio de los últimos doce meses o seis bimestres de consumo normal, y la diferencia de los metros cúbicos registrados por la fuga, se cobrará conforme al costo del metro cúbico adicional sobre el rango de la tarifa del consumo promedio aplicado.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
 
@@ -9033,25 +8985,25 @@ Cuando se trate de medidores que cuenten con menos de 60 días naturales de inst
 
 La cuota mínima a pagar en el mes o bimestre no será menor a la que corresponda a un consumo de 7.5 m3 y 15 m3, respectivamente, incluyendo la aplicación de los estímulos fiscales establecidos en la Ley de Ingresos del ejercicio de que se trate.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 B). Si no existe aparato medidor o se encuentra en desuso, se pagarán los derechos dentro de los primeros diez días siguientes al mes o bimestre que corresponda de acuerdo con lo siguiente:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 TARIFA MENSUAL
 
 GRUPOS DE MUNICIPIOS
 
-DIÁMETRO DE LA Número de Salarios Mínimos Generales Diarios
+NÚMERO DE VECES EL VALOR DIARIO
 
-TOMA 13MM del Área Geográfica que corresponda
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-1 2 3 4
+VIGENTE
+
+DIÁMETRO DE LA
+
+TOMA 13MM 1 2 3 4
 
 Social Progresiva 2.0846 1.8830 1.6915 1.5101
 
@@ -9063,19 +9015,21 @@ Residencial Alta 23.1188 20.7902 18.5818 16.4938
 
 Toma de 19 a 26 mm 48.4030 43.5417 38.9310 34.5709
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 TARIFA BIMESTRAL
 
 GRUPOS DE MUNICIPIOS
 
-DIÁMETRO DE LA Número de Salarios Mínimos Generales Diarios
+NÚMERO DE VECES EL VALOR DIARIO
 
-TOMA 13MM del Área Geográfica que corresponda
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-1 2 3 4
+VIGENTE
+
+DIÁMETRO DE LA
+
+TOMA 13MM 1 2 3 4
 
 Social Progresiva 4.1692 3.7660 3.3830 3.0201
 
@@ -9086,8 +9040,6 @@ Residencial Media 15.2813 13.7333 12.2654 10.8780
 Residencial Alta 46.2375 41.5803 37.1635 32.9876
 
 Toma de 19 a 26 mm 96.8060 87.0833 77.8619 69.1417
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9103,37 +9055,31 @@ A). Con medidor:
 
 (VÉASE ARCHIVO ANEXO)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 En caso de que el medidor se encuentre descompuesto, el usuario pagará los derechos de suministro de agua potable de conformidad al promedio de consumo de los doce últimos meses o seis bimestres inmediatos anteriores, según sea el caso, en que estuvo funcionando el aparato.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 La cuota mínima a pagar en el mes o bimestre no será menor a la que corresponda a un consumo de 7.5 m3 y 15 m3, respectivamente, incluyendo la aplicación de los estímulos fiscales establecidos en la Ley de Ingresos del ejercicio de que se trate.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 B). Si no existe aparato medidor o se encuentra en desuso, se pagarán los derechos dentro de los primeros diez días siguientes al mes o bimestre que corresponda de acuerdo con lo siguiente:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 TARIFA MENSUAL
 
 GRUPOS DE MUNICIPIOS
 
-DIÁMETRO DE Número de Salarios Mínimos Generales Diarios del
+NÚMERO DE VECES EL VALOR DIARIO DE LA UNIDAD
 
-LA TOMA Área Geográfica a la que corresponda
+DE MEDIDA Y ACTUALIZACIÓN VIGENTE
 
-EN MM 1 2 3 4
+DIÁMETRO DE 1 2 3 4
+
+LA TOMA EN MM
 
 13 12.6250 11.0051 9.5422 8.1528
 
@@ -9151,19 +9097,19 @@ EN MM 1 2 3 4
 
 75 1,592.2573 1,430.8863 1,280.2666 1,099.4537
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
-
-TARIFA BIMESTRAL
+TARIFA MENSUAL
 
 GRUPOS DE MUNICIPIOS
 
-DIÁMETRO DE Número de Salarios Mínimos Generales Diarios del
+NÚMERO DE VECES EL VALOR DIARIO DE LA UNIDAD
 
-LA TOMA Área Geográfica a la que corresponda
+DE MEDIDA Y ACTUALIZACIÓN VIGENTE
 
-EN MM 1 2 3 4
+DIÁMETRO DE 1 2 3 4
+
+LA TOMA EN MM
 
 13 25.2500 22.0102 19.0844 16.3055
 
@@ -9183,67 +9129,53 @@ EN MM 1 2 3 4
 
 Para los efectos de estos derechos, se aplicará el 50% de la tarifa correspondiente, cuando se trate de núcleos de población de zonas rurales, que cuenten con sistemas locales de agua y que reporten una población menor a 1,000 habitantes.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 Los propietarios o poseedores de los predios, giros o establecimientos que se surtan de agua por medio de las derivaciones que autorice el Ayuntamiento o el organismo descentralizado, deberán pagar la cuota mensual o bimestral correspondiente al diámetro de la derivación, si la toma no tiene medidor.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 La suspensión en derivaciones, respecto del pago de los derechos por los consumos de agua potable, drenaje, alcantarillado y saneamiento en la modalidad de servicio medido, procederá siempre y cuando el usuario manifieste en tiempo y forma por escrito y bajo protesta de decir verdad dicha situación, para lo cual la autoridad fiscal ordenará la inspección correspondiente, acreditando el solicitante que se encuentre al corriente en los pagos hasta el bimestre en que se presenta la solicitud de suspensión.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-Para el caso de la autorización de la suspensión en derivaciones, el usuario pagará mensualmente una cuota equivalente a 0.8 días de salarios mínimos del área geográfica que corresponda, o bimestralmente una cuota equivalente a 1.6 días de salarios mínimos del área geográfica que corresponda, según sea el caso, siempre y cuando cuente con aparato medidor y la lectura del mismo se mantenga en cero.
+Para el caso de la autorización de la suspensión en derivaciones, el usuario pagará mensualmente una cuota equivalente a 0.8 veces el valor diario de la Unidad de Medida y Actualización vigente o bimestralmente una cuota equivalente a 1.6 veces el valor diario de la Unidad de Medida y Actualización vigente, según sea el caso, siempre y cuando cuente con aparato medidor y la lectura del mismo se mantenga en cero.
 
 III. Por la reparación del aparato medidor del consumo de agua, se pagarán los siguientes derechos:
 
-A). Para uso doméstico: 2 días de salario mínimo general del área geográfica que corresponda.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-B). Para uso no doméstico: 4 días de salario mínimo general del área geográfica que corresponda.
+A). Para uso doméstico 2 veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+B). Para uso no doméstico: 4 veces el valor diario de la Unidad de Medida y Actualización vigente
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
 No se pagarán los derechos previstos en esta fracción, durante el primer año natural, a partir de la instalación del aparato medidor, por una sola vez, salvo los casos en que dicho aparato haya sido deteriorado por causas imputables al usuario, en los que éste deberá cubrir el 100% del costo de la reparación del aparato.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 En los casos en que el pago de los derechos a que se refiere este artículo se realice en base a consumos cuantificados a través de aparato medidor, mismo que será instalado por la autoridad municipal competente a costa del usuario, éste está obligado a reportar mediante los formatos oficiales, al prestador de servicios que corresponda, los consumos mensuales o bimestrales de agua y efectuar su pago dentro de los primeros diez días siguientes al mes o bimestre que se esté reportando.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 Para consumo de agua bajo la modalidad de prepago, el usuario pagará mensualmente los derechos de suministro de agua potable, mediante la aplicación de la tarifa para servicio medido mensual, se trate de uso doméstico o no doméstico, que corresponda al rango de volumen en metros cúbicos adquiridos.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
-
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 En el supuesto de que el usuario de la modalidad de prepago requiera en el mismo periodo mensual volúmenes adicionales para cubrir su consumo, éstos se acumularán con los anteriormente adquiridos, el volumen resultante se ubicará en el rango de la tarifa de servicio medido que le corresponda, deduciendo al monto determinado, el o los pagos que se hayan efectuado.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
-
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
 El caudal mínimo que los usuarios de esta modalidad de servicio deben pagar al mes no será menor a 7.5 m3, incluyendo la aplicación de los estímulos fiscales establecidos en la Ley de Ingresos del ejercicio fiscal que corresponda.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 130 Bis.
 
 Por el servicio de drenaje y alcantarillado los usuarios conectados a la red municipal de agua pagarán mensual o bimestral o de manera anticipada, según la opción que elijan, siempre y cuando los Municipios por sí o por conducto de los organismos operadores de agua de que se trate, cuenten con los dispositivos y modalidades que para tal fin establezcan o con cargo a tarjeta de crédito otorgada por instituciones bancarias, en las oficinas o establecimientos que el propio Ayuntamiento designe, conforme a lo siguiente:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -9253,21 +9185,21 @@ A). Con medidor.
 
 TARIFA MENSUAL
 
-VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 43.
+> <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 43.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 20 DE DICIEMBRE DE 2016, PÁGINAS 21 A LA 22.]</small>
 
 TARIFA BIMESTRAL
 
-VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 44.
+> <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 44.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 20 DE DICIEMBRE DE 2016, PÁGINA 22.]</small>
 
 En caso de que el medidor se encuentre descompuesto, el usuario pagará las descargas de drenaje y alcantarillado de conformidad al promedio de consumo del último año inmediato anterior según sea el caso, en que estuvo funcionando el aparato.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 B). Si no existe aparato medidor se pagarán los derechos dentro de los primeros diez días siguientes al mes o bimestre que corresponda pagando el 10% del monto determinado por el servicio de agua potable.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -9277,15 +9209,17 @@ A). Con medidor.
 
 TARIFA MENSUAL
 
-VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 44.
+> <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 44.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 20 DE DICIEMBRE DE 2016, PÁGINA 22.]</small>
 
 TARIFA BIMESTRAL
 
-VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 44.
+> <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 44.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 20 DE DICIEMBRE DE 2016, PÁGINA 22.]</small>
 
 En caso de que el medidor se encuentre descompuesto, el usuario pagará las descargas de drenaje y alcantarillado de conformidad al promedio de consumos del último año inmediato anterior, según sea el caso, en que estuvo funcionando el aparato.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
@@ -9293,13 +9227,9 @@ B). Si no existe aparato medidor se pagarán los derechos dentro de los primeros
 
 En caso de que la determinación de los derechos se realice en base a volúmenes de descargas de aguas residuales cuantificados a través de aparato medidor, el pago se deberá efectuar dentro de los primeros diez días siguientes al mes o bimestre que corresponda.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 El 50% de lo recaudado por lo previsto en este artículo se destinará a obras de saneamiento hídrico.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -9311,13 +9241,15 @@ A). Con medidor.
 
 TARIFA MENSUAL
 
-VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 45.
+> <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 45.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 20 DE DICIEMBRE DE 2016, PÁGINA 22.]</small>
 
 TARIFA BIMESTRAL
 
-VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 45.
+> <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 45.]</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 20 DE DICIEMBRE DE 2016, PÁGINA 22.]</small>
 
 > <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
@@ -9331,21 +9263,21 @@ A). Con medidor.
 
 TARIFA MENSUAL
 
-VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 46.
+> <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 46.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 20 DE DICIEMBRE DE 2016, PÁGINA 23.]</small>
 
 TARIFA BIMESTRAL
 
-VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 46.
+> <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 19 DE DICIEMBRE DE 2012, PÁGINA 46.]</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA, G.G. 20 DE DICIEMBRE DE 2016, PÁGINA 23.]</small>
 
 > <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
 B). Si no existe aparato medidor se pagará el 10% del monto determinado por la aplicación de la tarifa del artículo 130, en relación a los volúmenes reportados de aguas residuales descargados a la red de drenaje municipal, se pagarán los derechos dentro de los primeros diez días siguientes al mes o bimestre que corresponda.
 
 En caso de que la determinación de los derechos se realice en base a volúmenes de descargas de aguas residuales cuantificados a través de aparato medidor, el pago se deberá efectuar dentro de los primeros diez días siguientes al mes o bimestre que corresponda.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
@@ -9357,37 +9289,31 @@ El 50% de lo recaudado por lo previsto en este artículo se destinará a obras d
 
 Por el suministro de agua en bloque por parte de las autoridades municipales o sus organismos descentralizados a conjuntos urbanos y lotificaciones para condominio en el periodo comprendido desde la construcción hasta la entrega de las obras al municipio, se pagarán bimestralmente los derechos desde el momento en que reciba el servicio y que quede debidamente establecido en los convenios que al efecto se celebren con la autoridad fiscal competente, de acuerdo a la siguiente:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TARIFA, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
-> <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 TARIFA
 
 GRUPOS DE MUNICIPIOS
 
-CONCEPTO Número de Salarios Mínimos Generales Diarios
+CONCEPTO NÚMERO DE VECES EL VALOR DIARIO
 
-del Área Geográfica que Corresponda por M3
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
+
+VIGENTE POR M3
 
 Grupo 1 Grupo 2 Grupo 3 Grupo 4
 
 Agua en Bloque 0.1452 0.1332 0.1218 0.1109
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 Por lo anterior, la autoridad fiscal correspondiente instalará un aparato medidor electrónico de consumo a costa del desarrollador para determinar el volumen del suministro de agua en bloque y éste estará obligado a reportar mediante los formatos oficiales los consumos y a efectuar su pago dentro de los primeros diez días siguientes al del bimestre que se esté reportando.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 132.
 
-Los propietarios o poseedores de predios con o sin construcción que puedan acceder a la red general de agua potable y/o drenaje y alcantarillado, que no estén conectados a la misma, o que estando conectados no cuenten con servicio, pagarán una cuota de 0.8 número de salarios mínimos generales diarios del área geográfica que corresponda, o una cuota de 1.6 número de salarios mínimos generales diarios del área geográfica que corresponda, según sea el caso, por conceptos de operación, mantenimiento y reposición de la red, dentro de los diez días siguientes al mes o bimestre que corresponda. Tratándose de conjuntos urbanos esta obligación iniciará al momento de la comercialización de los terrenos o viviendas. No se pagarán estos derechos por los terrenos de uso agropecuario.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+Los propietarios o poseedores de predios con o sin construcción que puedan acceder a la red general de agua potable y/o drenaje y alcantarillado, que no estén conectados a la misma, o que estando conectados no cuenten con servicio, pagarán una cuota de 0.8 veces el valor diario de la Unidad de Medida y Actualización vigente, o una cuota de 1.6 veces el valor diario de la Unidad de Medida y Actualización vigente, según sea el caso, por conceptos de operación, mantenimiento y reposición de la red, dentro de los diez días siguientes al mes o bimestre que corresponda. Tratándose de conjuntos urbanos esta obligación iniciará al momento de la comercialización de los terrenos o viviendas. No se pagarán estos derechos por los terrenos de uso agropecuario.
 
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -9399,11 +9325,15 @@ Por concepto de derechos de instalación o sustitución del aparato medidor, se 
 
 I. Medidor de agua potable:
 
-Doce días de salario mínimo general del área geográfica que corresponda, teniendo el usuario la opción de adquirir el aparato medidor en el establecimiento que elija, siempre que el medidor reúna las especificaciones técnicas que apruebe el ayuntamiento o el organismo operador de agua, las cuales deberán ser del conocimiento público. En este último caso el organismo prestador quedará eximido de realizar reparación alguna al medidor, salvo que el usuario lo solicite a su costa.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Doce veces el valor diario de la Unidad de Medida y Actualización vigente, teniendo el usuario la opción de adquirir el aparato medidor en el establecimiento que elija, siempre que el medidor reúna las especificaciones técnicas que apruebe el ayuntamiento o el organismo operador de agua, las cuales deberán ser del conocimiento público. En este último caso el organismo prestador quedará eximido de realizar reparación alguna al medidor, salvo que el usuario lo solicite a su costa.
 
 II. Medidor de aguas residuales:
 
-Veinte días de salario mínimo general del área geográfica que corresponda, teniendo el usuario la opción de adquirir el aparato medidor en el establecimiento que elija, siempre que el medidor reúna las especificaciones técnicas que apruebe el ayuntamiento o el organismo operador de agua, las cuales deberán ser del conocimiento público. En este último caso el organismo prestador quedará eximido de realizar reparación alguna al medidor, salvo que el usuario lo solicite a su costa.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Veinte veces el valor diario de la Unidad de Medida y Actualización vigente, teniendo el usuario la opción de adquirir el aparato medidor en el establecimiento que elija, siempre que el medidor reúna las especificaciones técnicas que apruebe el ayuntamiento o el organismo operador de agua, las cuales deberán ser del conocimiento público. En este último caso el organismo prestador quedará eximido de realizar reparación alguna al medidor, salvo que el usuario lo solicite a su costa.
 
 ###### Artículo 134.
 
@@ -9419,9 +9349,9 @@ II. Para los establecimientos que independientemente forman parte de un edificio
 
 III. Para viviendas que se ubiquen en el mismo predio del de la toma principal y no cuente con división de suelo.
 
-> <small>(REFORMADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-Por la derivación se deberá efectuar un pago único de 7.297 número de salarios mínimos diarios del área geográfica que corresponda, independientemente del consumo. Los propietarios o poseedores de los predios que den su conformidad para establecer la derivación, además de pagar su propio consumo, están obligados solidariamente a pagar la cuota correspondiente a las derivaciones.
+Por la derivación se deberá efectuar un pago único de 7.297 veces el valor diario de la Unidad de Medida y Actualización vigente, independientemente del consumo. Los propietarios o poseedores de los predios que den su conformidad para establecer la derivación, además de pagar su propio consumo, están obligados solidariamente a pagar la cuota correspondiente a las derivaciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -9431,17 +9361,17 @@ Por la prestación de los servicios de conexión de agua y drenaje, consistentes
 
 I. Por la conexión de agua a los sistemas generales:
 
-> <small>(REFORMADA G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 TARIFA
 
 USO GRUPOS DE MUNICIPIOS
 
-NÚMERO DE SALARIOS MÍNIMOS GENERALES
+NÚMERO DE VECES EL VALOR DIARIO DE
 
-DIARIOS DEL ÁREA GEOGRÁFICA QUE
+LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-CORRESPONDA
+VIGENTE
 
 1 2 3 4
 
@@ -9469,17 +9399,17 @@ Diámetro en mm
 
 II. Por la conexión del drenaje a los sistemas generales:
 
-> <small>(REFORMADA G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 TARIFA
 
-USO DIAMETRO GRUPOS DE MUNICIPIOS
+USO GRUPOS DE MUNICIPIOS
 
-NÚMERO DE SALARIOS MÍNIMOS GENERALES
+NÚMERO DE VECES EL VALOR DIARIO DE
 
-DIARIOS DEL ÁREA GEOGRÁFICA QUE
+LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-CORRESPONDA
+VIGENTE
 
 1 2 3 4
 
@@ -9531,11 +9461,7 @@ Tratándose de vivienda de interés social y popular, los derechos de conexión 
 
 Tratándose de viviendas de tipo social progresiva, los derechos de conexión a que se refiere este artículo, se reducirán un 50%.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
-
 > <small>(DEROGADO DÉCIMO PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -9545,9 +9471,7 @@ Los usuarios que se abastezcan de agua de fuente propia o distinta a la red muni
 
 Los adquirentes de lotes no están obligados al pago de los derechos previstos en este artículo cuando los titulares de las autorizaciones de subdivisiones o conjuntos urbanos de carácter habitacional, industrial, agroindustrial y de abasto, comercio y servicios, hayan realizado bajo su costo las obras de conexión de agua potable y drenaje entre las redes generales y el lote.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 136.
 
@@ -9661,7 +9585,7 @@ Las aguas residuales originadas o derivadas de predios dedicados a actividades i
 
 ###### Artículo 137.
 
-Por la expedición del dictamen de factibilidad de servicios con vigencia hasta de 12 meses para nuevos conjuntos urbanos, subdivisión o lotificaciones, cambio de uso de suelo, densidad e intensidad de su aprovechamiento y altura, para edificaciones en condominio, edificaciones industriales y comerciales y obras de impacto regional, se pagarán dieciocho días de salario mínimo general vigente del área geográfica que le corresponda.
+Por la expedición del dictamen de factibilidad de servicios con vigencia hasta de 12 meses para nuevos conjuntos urbanos, subdivisión o lotificaciones, cambio de uso de suelo, densidad e intensidad de su aprovechamiento y altura, para edificaciones en condominio, edificaciones industriales y comerciales y obras de impacto regional, se pagarán dieciocho veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
@@ -9681,23 +9605,19 @@ Por el control para el establecimiento del sistema de agua potable y alcantarill
 
 I. Agua potable:
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 TARIFA
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 POR METRO CUADRADO DE ÁREA A DESARROLLAR INCLUYENDO ÁREAS COMUNES
 
 TIPO DE CONJUNTOS GRUPOS DE MUNICIPIOS
 
-Número de Salarios Mínimos Diarios
+NÚMERO DE VECES EL VALOR DIARIO
 
-Generales Diarios (sic) del Área Geográfica
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-que corresponda
+VIGENTE
 
 1 2 3 4
 
@@ -9723,23 +9643,19 @@ Servicios. 0.1725 0.1485 0.1260 0.1050
 
 II. Alcantarillado:
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 TARIFA
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 POR METRO CUADRADO DE ÁREA A DESARROLLAR INCLUYENDO ÁREAS COMUNES
 
 TIPO DE CONJUNTOS GRUPOS DE MUNICIPIOS
 
-Número de Salarios Mínimos Diarios
+NÚMERO DE VECES EL VALOR DIARIO
 
-Generales Diarios (sic) del Área Geográfica
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-que corresponda
+VIGENTE
 
 1 2 3 4
 
@@ -9775,15 +9691,17 @@ No pagarán los derechos previstos en este artículo las viviendas de tipo socia
 
 Por la conexión de la toma para suministro de agua en bloque a conjuntos urbanos y lotificaciones para condominio, proporcionado por las autoridades municipales o sus descentralizadas, se pagarán los derechos, por una sola vez, de acuerdo con el caudal que se registre en forma definitiva en el proyecto aprobado de red de distribución de agua potable, de conformidad con la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
 GRUPOS DE MUNICIPIOS
 
-NÚMERO DE SALARIOS MÍNIMOS GENERALES
+NÚMERO DE VECES EL VALOR DIARIO
 
-DIARIOS DEL ÁREA GEOGRÁFICA QUE
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-CORRESPONDA POR CADA M3/DIA
+POR CADA M3/DIA
 
 1 2 3 4
 
@@ -9805,13 +9723,11 @@ Los Ayuntamientos, que de conformidad con las características o circunstancias 
 
 Las tarifas que se propongan, en ningún caso podrán ser inferiores a las establecidas en este Código, y deberán atender a los costos directos que implique su prestación, determinados con base en el Manual Metodológico aprobado en el marco del Sistema de Coordinación Hacendaria del Estado de México.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, G.G. 28 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 139 Bis.
 
-Por la expedición o renovación del permiso de distribución de agua a través de pipa a consumidores, por un año de vigencia y por camión cisterna, se pagarán treinta y cinco salarios mínimos vigentes en el área geográfica que corresponda.
+Por la expedición o renovación del permiso de distribución de agua a través de pipa a consumidores, por un año de vigencia y por camión cisterna, se pagarán treinta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -9841,21 +9757,19 @@ Grupo 4.- Comprenderá el resto de los municipios del Estado no incluidos en los
 
 Por los servicios que presta el Registro Civil, se pagarán derechos de acuerdo con la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE DICIEMBRE DE 2006)</small>
+CONCEPTO NÚMERO DE VECES EL
 
-CONCEPTO NÚMERO DE SALARIOS
+VALOR DIARIO DE LA
 
-MÍNIMOS DIARIOS
+UNIDAD DE MEDIDA Y
 
-GENERALES DEL
+ACTUALIZACIÓN
 
-ÁREA GEOGRÁFICA
-
-QUE CORRESPONDA
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
+VIGENTE
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -9923,8 +9837,6 @@ que no se originen por acuerdos de la
 
 Dirección General. 1.3.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 XI. Expedición de copias certificadas
@@ -9953,8 +9865,6 @@ administrativos, concentrados en las
 
 oficialías. 0.44.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 XII. Búsqueda en los libros y archivos
@@ -9967,8 +9877,6 @@ cuando no se señale fecha de registro, por
 
 cada año o fracción. 0.144
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 XIII. Asentamiento de actos y/o hechos del
@@ -9979,8 +9887,6 @@ del Registro Civil, o en días y horas inhábiles,
 
 pagarán una cuota adicional de: 4.95
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
 XIV. Tramitación de divorcio administrativo
@@ -9988,8 +9894,6 @@ XIV. Tramitación de divorcio administrativo
 efectuado ante las Oficialías del Registro Civil. 20.92
 
 XV. (DEROGADA, G.G. 29 DE DICIEMBRE DE 2006)
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
 
 > <small>(REFORMADA, G.G. 10 DE DICIEMBRE DE 2009)</small>
 
@@ -10011,13 +9915,9 @@ oficialías del Registro Civil. 0.46
 
 En los casos de desastres como heladas, inundaciones, epidemias, sismos o de campaña de regularización como matrimonios colectivos o solicitudes de oficio de las autoridades, los ayuntamientos respectivos a través de sus autoridades fiscales enunciadas en este Código, podrán subsidiar hasta el 100% de los derechos que causen los actos de registro civil.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 Los municipios podrán convenir con el Estado, para que éste sea quien preste los servicios del Registro Civil, y reciba el pago de los derechos correspondientes.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(ADICIONADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
 
@@ -10073,15 +9973,15 @@ Por los servicios prestados por desarrollo urbano y obras públicas municipales,
 
 I. Por la expedición de licencias municipales de construcción, con vigencia de un año, en cualquiera de sus tipos de obra nueva, ampliación, modificación, reparación que no afecte elementos estructurales, reparación que afecte elementos estructurales y la modificación del proyecto de una obra autorizada, así como las prórrogas de las mismas que serán proporcionales al tiempo solicitado, se pagarán derechos de acuerdo a lo siguiente:
 
-> <small>(REFORMADA, G.G. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 TARIFA
 
-NUMERO DE SALARIOS MINIMOS
+NÚMERO DE VECES EL VALOR
 
-GENERALES DEL AREA GEOGRAFICA
+DIARIO DE LA UNIDAD DE MEDIDA Y
 
-QUE CORRESPONDA
+ACTUALIZACIÓN VIGENTE
 
 GRUPOS
 
@@ -10167,13 +10067,15 @@ Cuando la licencia municipal de construcción se expida o se autorice una prórr
 
 II. Cuando se autorice alguno o algunos de los siguientes servicios, se pagarán los derechos de acuerdo a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-Número de Salarios Mínimos
+NÚMERO DE VECES EL VALOR
 
-Generales del Área Geográfica
+DIARIO DE LA UNIDAD DE MEDIDA Y
 
-que corresponda.
+ACTUALIZACIÓN VIGENTE
 
 CONCEPTO GRUPOS
 
@@ -10219,21 +10121,23 @@ social progresiva. 2.62 1.15
 
 G). DEROGADO, G.G. 27 DE DICIEMBRE DE 2005)
 
-> <small>(REFORMADA, G.G. 30 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-III. Por la autorización de la subrogación de los derechos de titularidad de un conjunto urbano, subdivisión o condominio se pagarán derechos equivalentes a 135.23 días de salario mínimo general del área geográfica que corresponda.
+III. Por la autorización de la subrogación de los derechos de titularidad de un conjunto urbano, subdivisión o condominio se pagarán derechos equivalentes a 135.23 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 IV. Por la autorización de relotificación de conjuntos urbanos, subdivisiones o condominios se pagarán por cada vivienda prevista o cada 100 m2 de superficie útil de otros servicios, los siguientes derechos:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-CONCEPTO Número de Salarios Mínimos
+CONCEPTO NÚMERO DE VECES EL VALOR
 
-Generales del Área Geográfica
+DIARIO DE LA UNIDAD DE MEDIDA
 
-que corresponda.
+Y ACTUALIZACIÓN VIGENTE
 
 A). Primera relotificación. 0.68
 
@@ -10241,25 +10145,29 @@ B). Relotificaciones
 
 subsecuentes. 1.21
 
-> <small>(REFORMADA, G.G. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-V. Por la autorización para realizar obras de modificación, rotura o corte de pavimento o concreto en calles, guarniciones y banquetas para llevar a cabo obras o instalaciones subterráneas, se causará y pagará por cada metro cuadrado de vía pública afectada 1.0 días de salario mínimo general vigente del área geográfica que corresponda, tratándose de obras realizadas por personas físicas y 1.5 días de salario mínimo general vigente del área geográfica que corresponda tratándose de obras realizadas por personas jurídicas colectivas.
+V. Por la autorización para realizar obras de modificación, rotura o corte de pavimento o concreto en calles, guarniciones y banquetas para llevar a cabo obras o instalaciones subterráneas, se causará y pagará por cada metro cuadrado de vía pública afectada 1.0 veces el valor diario de la Unidad de Medida y Actualización vigente, tratándose de obras realizadas por personas físicas y 1.5 veces el valor diario de la Unidad de Medida y Actualización vigente tratándose de obras realizadas por personas jurídicas colectivas.
 
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-VI. Por la autorización para la instalación, tendido o permanencia anual de cables y/o tuberías subterráneas o aéreas en la vía pública, por metro lineal se pagarán 0.05 días de salario mínimo general vigente del área geográfica que corresponda. Este pago deberá efectuarse dentro de los primeros tres meses de cada año.
+VI. Por la autorización para la instalación, tendido o permanencia anual de cables y/o tuberías subterráneas o aéreas en la vía pública, por metro lineal se pagarán 0.05 veces el valor diario de la Unidad de Medida y Actualización vigente. Este pago deberá efectuarse dentro de los primeros tres meses de cada año.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
 VII. Por servicios de control necesarios para su ejecución, se cobrará un 2% a las compañías contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, sobre el importe de cada una de las estimaciones de trabajo generados por las dependencias y entidades, la tesorería y las entidades en su caso, al realizar el pago de las estimaciones retendrán el importe respectivo.
 
-> <small>(ADICIONADA, G.G. 10 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-VIII. Por la expedición de licencias de uso de suelo, con vigencia anual, se pagará una cuota equivalente a 10.0 días de salario mínimo general vigente del área geográfica que corresponda.
+VIII. Por la expedición de licencias de uso de suelo, con vigencia anual, se pagará una cuota equivalente a 10.0 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-En el caso de que para la expedición de licencia de uso del suelo se requiera de inspección de campo, se pagará una cuota adicional equivalente a 25.0 días de salario mínimo general vigente del área geográfica que corresponda.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-Cuando se requiera realizar estudios técnicos, se pagará una cuota equivalente a 50.0 días de salario mínimo general vigente del área geográfica que corresponda.
+En el caso de que para la expedición de licencia de uso del suelo se requiera de inspección de campo, se pagará una cuota adicional equivalente a 25.0 veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Cuando se requiera realizar estudios técnicos, se pagará una cuota equivalente a 50.0 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Tratándose (sic) viviendas de interés social, popular y social progresivo, no se pagarán los derechos previstos en el párrafo primero de esta fracción.
 
@@ -10271,15 +10179,15 @@ IX. Cuando la licencia de uso del suelo, se expida por un periodo mayor al deter
 
 X. Cuando la licencia de uso de suelo, se expida solamente para el alineamiento y número oficial o asignación de número oficial, se pagarán los derechos de acuerdo a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-NUMERO DE SALARIOS
+NÚMERO DE VECES EL VALOR
 
-MINIMOS GENERALES DEL
+DIARIO DE LA UNIDAD DE MEDIDA Y
 
-AREA GEOGRÁFICA QUE
-
-CORRESPONDA.
+ACTUALIZACIÓN VIGENTE
 
 GRUPOS
 
@@ -10307,21 +10215,27 @@ de 15 metros. 8.39 5.67
 
 B). Asignación de número oficial. 2.83 1.89
 
-XI. Por la autorización de cambios de uso del suelo, de densidad e intensidad de su aprovechamiento, así como por cambios de altura de edificaciones, se pagará una cuota equivalente a 50.0 días de salario mínimo general vigente del área geográfica que corresponda.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-XII. Por la expedición de cédulas informativas de zonificación, se pagará una cuota equivalente a 2.84 días de salario mínimo general vigente del área geográfica que corresponda.
+XI. Por la autorización de cambios de uso del suelo, de densidad e intensidad de su aprovechamiento, así como por cambios de altura de edificaciones, se pagará una cuota equivalente a 50.0 veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+XII. Por la expedición de cédulas informativas de zonificación, se pagará una cuota equivalente a 2.84 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
 XIII. Por la expedición de duplicados de documentos y planos existentes en archivo, se pagarán los derechos conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-CONCEPTO Número de Salarios Mínimos
+CONCEPTO NÚMERO DE VECES EL VALOR DIARIO
 
-Generales Vigentes del Área
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-Geográfica que corresponda.
+VIGENTE
 
 A). Por el duplicado de la
 
@@ -10349,19 +10263,23 @@ Por la expedición certificada de estos documentos, se pagará un tanto adiciona
 
 Por la autorización de fusión, subdivisión de predios y lotificación en condominios, se pagarán los derechos siguientes:
 
-I. Fusión de predios, por cada uno 15.55 días de salario mínimo general del área geográfica que corresponda.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Fusión de predios, por cada uno 15.55 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE DICIEMBRE DE 2003)</small>
 
 II. Subdivisión de predios cuando no son objeto del impuesto sobre conjuntos urbanos, por cada lote resultante se pagarán los derechos conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-Número de Salarios Mínimos
+NÚMERO DE VECES EL VALOR DIARIO
 
-Generales del Area Geográfica
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-que corresponda.
+VIGENTE
 
 GRUPOS
 
@@ -10373,13 +10291,15 @@ B 18.85
 
 III. Lotificación para condominio cuando no son objeto del impuesto sobre conjuntos urbanos:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-Número de Salarios Mínimos
+NÚMERO DE VECES EL VALOR
 
-Generales del Area Geográfica
+DIARIO DE LA UNIDAD DE MEDIDA Y
 
-que corresponda.
+ACTUALIZACIÓN VIGENTE
 
 TIPO DE DESARROLLO BASE GRUPOS
 
@@ -10437,9 +10357,9 @@ superficie útil o
 
 vendible. 44.61 39.20
 
-> <small>(ADICIONADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. Tratándose de regularización de la tenencia de la tierra, mediante programas, acciones o campañas promovidas por organismos públicos federales, estatales o municipales creados para tal efecto, en beneficio de asentamientos humanos de escasos recursos, únicamente se pagará por concepto de los derechos señalados en las fracciones I y II de este artículo 1.0 días de salario mínimo general del área geográfica que corresponda por cada predio o lote resultante.
+IV. Tratándose de regularización de la tenencia de la tierra, mediante programas, acciones o campañas promovidas por organismos públicos federales, estatales o municipales creados para tal efecto, en beneficio de asentamientos humanos de escasos recursos, únicamente se pagará por concepto de los derechos señalados en las fracciones I y II de este artículo 1.0 el valor diario de la Unidad de Medida y Actualización vigente por cada predio o lote resultante.
 
 ###### Artículo 146.
 
@@ -10453,25 +10373,21 @@ Para los efectos de esta Sección, se atenderá a la clasificación de municipio
 
 Por la prestación de los siguientes servicios se pagarán:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 29 DE DICIEMBRE DE 2006)</small>
+CONCEPTO NÚMERO DE VECES EL VALOR
 
-CONCEPTO Número de Salarios Mínimos
+DIARIO DE LA UNIDAD DE MEDIDA Y
 
-Diarios Generales Vigentes del Área
-
-Geográfica que corresponda.
+ACTUALIZACIÓN VIGENTE
 
 I. Expedición de copias certificadas:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 A). La primera foja. 0.850
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -10482,8 +10398,6 @@ II. Certificaciones relativas a operaciones
 traslativas de dominio de bienes inmuebles
 
 que no causen el impuesto correspondiente. 3.364.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 (REFORMADA, G.G. 29 DE DICIEMBRE DE 2006) (REFORMADA EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)
 
@@ -10519,9 +10433,9 @@ VII. Corrección o rectificación de datos en
 
 documentos aportados por el contribuyente. 1.0
 
-> <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-Únicamente se pagarán por concepto de los derechos señalados en la fracción III de este artículo un día de salario mínimo general del área geográfica que corresponda, tratándose de regularización de la tenencia de la tierra, mediante programas y campañas promovidas por organismos públicos federales, estatales o municipales creados para tal efecto.
+Únicamente se pagarán por concepto de los derechos señalados en la fracción III de este artículo 1.0 el valor diario de la Unidad de Medida y Actualización vigente, tratándose de regularización de la tenencia de la tierra, mediante programas y campañas promovidas por organismos públicos federales, estatales o municipales creados para tal efecto.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -10533,27 +10447,21 @@ No pagarán este derecho las personas jurídicas colectivas de la microindustria
 
 Por la expedición de documentos solicitados en el ejercicio del derecho a la información pública, se pagarán los derechos conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+CONCEPTO NÚMERO DE VECES EL VALOR
 
-CONCEPTO NUMERO DE SALARIOS
+DIARIO DE LA UNIDAD DE MEDIDA
 
-MINIMOS DIARIOS GENERALES DEL
-
-AREA GEOGRAFICA QUE
-
-CORRESPONDA.
+Y ACTUALIZACIÓN VIGENTE
 
 I. Por la expedición de copias simples:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 A). Por la primera hoja. 0.224
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -10561,25 +10469,17 @@ B). Por cada hoja subsecuente. 0.016
 
 II. Por la expedición de copias certificadas:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 A). Por la primera hoja. 0.850
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 B). Por cada hoja subsecuente. 0.417
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
 III. Por la expedición de información en medios magnéticos. 0.224
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -10599,13 +10499,15 @@ Para los supuestos establecidos en las fracciones III y IV, el solicitante podr�
 
 Por el almacenaje de bienes muebles secuestrados dentro del procedimiento administrativo de ejecución, se pagarán conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-CONCEPTO Número de Salarios Mínimos Diarios
+CONCEPTO NÚMERO DE VECES EL VALOR DIARIO
 
-Generales del Área Geográfica
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-que corresponda.
+VIGENTE
 
 I. De los bienes secuestrados:
 
@@ -10633,13 +10535,15 @@ excedente, por día. 1.0
 
 Por el sacrificio, evisceración, desolle y corte de animales destinados al consumo humano, en rastros propiedad del municipio, se pagarán derechos conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-CONCEPTO Número de Salarios Mínimos Diarios
+CONCEPTO NÚMERO DE VECES EL VALOR DIARIO
 
-Generales del Área Geográfica
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-que corresponda.
+VIGENTE
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -10665,13 +10569,15 @@ V. Conejos, cada uno. 0.0229
 
 Por la evaluación de la prestación del servicio municipal de rastros concesionados, los concesionarios pagarán derechos conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-ESPECIE Número de Salarios Mínimos Diarios
+ESPECIE NÚMERO DE VECES EL VALOR DIARIO
 
-Generales del Área Geográfica
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-que corresponda.
+VIGENTE
 
 > <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -10715,13 +10621,15 @@ El pago de este derecho se efectuará mensualmente en la tesorería, presentando
 
 Por la guarda de animales depositados en los corrales de concejo propiedad municipal, independientemente de los gastos que origine su manutención, se pagarán derechos conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-CONCEPTO Número de Salarios Mínimos
+CONCEPTO NÚMERO DE VECES EL VALOR
 
-Generales del Area Geográfica
+DIARIO DE LA UNIDAD DE MEDIDA
 
-que corresponda.
+Y ACTUALIZACIÓN VIGENTE
 
 I. Ganado mayor por día. 0.5
 
@@ -10731,9 +10639,11 @@ III. Otra clase de animales
 
 por día. 0.4
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 153.
 
-Por el registro anual de instrumentos para la identificación de señales de sangre, tatuajes y elementos electromagnéticos y fierros para marcar ganado y magueyes, para acreditar su propiedad, se pagará por concepto de derechos una cuota de 1.5 días de salario mínimo general del área geográfica que corresponda.
+Por el registro anual de instrumentos para la identificación de señales de sangre, tatuajes y elementos electromagnéticos y fierros para marcar ganado y magueyes, para acreditar su propiedad, se pagará por concepto de derechos una cuota de 1.5 veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
@@ -10747,23 +10657,19 @@ Por el registro anual de instrumentos para la identificación de señales de san
 
 Por el uso de vías, plazas públicas, mercados públicos municipales o áreas de uso común para realizar actividades comerciales o de servicios, se pagarán por día los derechos conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-CONCEPTO Número de Salarios
+CONCEPTO NÚMERO DE VECES EL VALOR
 
-Mínimos Diarios
+DIARIO DE LA UNIDAD DE MEDIDA
 
-Generales del Área
-
-Geográfica que
-
-corresponda.
+Y ACTUALIZACIÓN VIGENTE
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 2 DE DICIEMBRE DE 2013)</small>
 
 I. Puestos fijos, semifijos o comerciantes ambulantes por cada metro cuadrado o fracción. 0.01
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 (REPUBLICADA, G.G. 19 DE DICIEMBRE DE 2012)
 
@@ -10772,8 +10678,6 @@ II. Locales en mercados públicos
 municipales, por cada metro
 
 cuadrado o fracción. 0.01
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 (REPUBLICADA, G.G. 19 DE DICIEMBRE DE 2012)
 
@@ -10787,19 +10691,17 @@ productos y/o prestadoras de servicios,
 
 por máquina. 0.050
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 El pago del derecho a que se refiere el presente artículo deberá realizarse ante la tesorería correspondiente o bien a la persona autorizada para ello, siendo responsabilidad del tesorero entregar cada mes el recibo oficial respectivo, a cambio de los comprobantes provisionales de pago.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 154 Bis.
 
-Por la expedición y renovación anual de la cédula para puestos fijos, semifijos o comerciantes ambulantes, se pagará por cada metro cuadrado o fracción 0.030 Salarios Mínimos Generales Diarios del Área Geográfica que corresponda.
+Por la expedición y renovación anual de la cédula para puestos fijos, semifijos o comerciantes ambulantes, se pagará por cada metro cuadrado o fracción 0.030 veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 Para el cobro del derecho a que se refiere el presente artículo, la autoridad municipal deberá emitir el reglamento relativo a las modalidades, requisitos y características que deberán tener las cédulas, como son, entre otros, los datos que permitan la identificación del comercio, la persona a quien se expide la cédula, la vigencia de la misma y su carácter no transferible.
 
@@ -10813,15 +10715,15 @@ Para el cobro del derecho a que se refiere el presente artículo, la autoridad m
 
 Por los servicios de panteones propiedad municipal se pagarán derechos conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-> <small>(REFORMADA, G.G. 6 DE DICIEMBRE DE 2002)</small>
+CONCEPTO NÚMERO DE VECES EL VALOR DIARIO
 
-CONCEPTO Número de Salarios Mínimos
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-Generales Vigentes del Area Geográfica
-
-que corresponda.
+VIGENTE
 
 I. Inhumación de cadáveres
 
@@ -10989,17 +10891,15 @@ El pago de este derecho se efectuará mensualmente en la tesorería, presentando
 
 Los conductores de vehículos automotores, que ocupen la vía pública y los lugares de uso común de los centros de población como estacionamiento, para base de taxis, en las calles y sitios que conforme a las disposiciones legales aplicables determine la autoridad; así como personas físicas y jurídicas colectivas propietarias de establecimientos comerciales o de servicios, que en beneficio de sí o de sus clientes aprovechen los lugares autorizados para estacionarse en la vía pública pagarán derechos de acuerdo a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-CONCEPTO Número de Salarios Mínimos
+CONCEPTO NÚMERO DE VECES EL VALOR
 
-Generales Diarios Vigentes del
+DIARIO DE LA UNIDAD DE MEDIDA
 
-Área Geográfica que
-
-corresponda.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
+Y ACTUALIZACIÓN VIGENTE
 
 > <small>(REFORMADA SU TARIFA, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -11031,17 +10931,19 @@ En el caso de las fracciones II y III, el pago se realizará durante los diez pr
 
 Para proceder al cobro de este derecho la autoridad municipal deberá emitir las disposiciones administrativas que delimiten el uso de los cajones de estacionamiento por los que se hayan realizado los pagos de derechos en términos de la fracción II de este artículo, así como propiciar la correcta señalización y uso de la vía pública, de conformidad con el reglamento que para tal fin emita la propia autoridad.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 158.
 
 Por evaluación de la prestación del servicio al público de recepción, guarda, custodia y devolución de vehículos automotores, el permisionario pagará derechos conforme a lo siguiente:
 
-I. Los establecimientos que presten el servicio de manera permanente pagarán bimestralmente 0.34 días de salario mínimo general del área geográfica que corresponda, por cada espacio o cajón autorizado, dentro de los días primero al diecisiete días (sic) de los meses de febrero, abril, junio, agosto, octubre y diciembre.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Cuando el servicio se preste de manera eventual se pagarán 0.30 días de salario mínimo general del área geográfica que corresponda, por cada espacio o cajón autorizado, al día siguiente hábil de la evaluación realizada.
+I. Los establecimientos que presten el servicio de manera permanente pagarán bimestralmente 0.34 veces el valor diario de la Unidad de Medida y Actualización vigente, por cada espacio o cajón autorizado, dentro de los días primero al diecisiete-días (sic) de los meses de febrero, abril, junio, agosto, octubre y diciembre.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Cuando el servicio se preste de manera eventual se pagarán 0.30 veces el valor diario de la Unidad de Medida y Actualización vigente, por cada espacio o cajón autorizado, al día siguiente hábil de la evaluación realizada.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -11057,19 +10959,19 @@ El permisionario podrá establecer una cuota fija por tiempo libre o cobrar el s
 
 Por la expedición o refrendo anual de licencias para vender bebidas alcohólicas al público en botella cerrada, o al copeo en general, en establecimientos comerciales, de servicios o de diversión y espectáculos públicos, se pagarán derechos conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2004)</small>
+NÚMERO DE VECES EL VALOR
 
-Número de Salarios Mínimos
+DIARIO DE LA UNIDAD DE MEDIDA Y
 
-Generales Vigentes del Área
-
-Geográfica que corresponda.
+ACTUALIZACIÓN VIGENTE
 
 TIPO DE ESTABLECIMIENTO CONCEPTO
 
-EXPEDICION REFRENDO ANUAL
+EXPEDICIÓN REFRENDO ANUAL
 
 I. COMERCIAL
 
@@ -11170,8 +11072,6 @@ E). Bares, cantinas y centros botaneros
 con venta de bebidas alcohólicas
 
 al copeo. 200.00 150.00
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
 
 > <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
 
@@ -11305,13 +11205,15 @@ El refrendo deberá pagarse dentro de los primeros tres meses de cada año.
 
 Derivado de los servicios prestados por las autoridades municipales en materia de seguridad pública, se pagarán por día los siguientes derechos, la vigilancia especial de personal de a pie, que soliciten las personas físicas y jurídicas colectivas.
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-CONCEPTO Número de Salarios Mínimos
+CONCEPTO NÚMERO DE VECES EL VALOR
 
-Generales del Area Geográfica
+DIARIO DE LA UNIDAD DE MEDIDA
 
-que corresponda.
+Y ACTUALIZACIÓN VIGENTE
 
 I. Policía tercero. 3.45
 
@@ -11341,11 +11243,13 @@ Por la prestación del servicio de alumbrado público se pagará bimestralmente:
 
 I. El 10% del cargo a cubrir por la recepción del servicio contratado cuando se apliquen las tarifas 1, 2 y 3 del acuerdo que autoriza el ajuste de las tarifas para el suministro y venta de energía eléctrica.
 
-II. El 2.5% en aquellos casos en que se apliquen las tarifas H-M u O-M y H-S o H-T, el mismo no podrá exceder de 5 salarios mínimos elevados al mes.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 1999)</small>
+II. El 2.5% en aquellos casos en que se apliquen las tarifas H-M u O-M y H-S o H-T, el mismo no podrá exceder de 5 veces el valor diario de la Unidad de Medida y Actualización vigente, elevado al mes.
 
-Tratándose de los propietarios, poseedores o usuarios de predios urbanos sin construcciones o edificaciones, o bien cuando no se haya contratado el servicio a que aluden las fracciones anteriores, la cuota anual de los derechos que son materia de esta sección, será de 2 días de salario mínimo general vigente, correspondiente al mes de enero de cada año del área geográfica en donde se ubique el inmueble. En estos casos, el entero deberá realizarse dentro del primer trimestre de cada año, o dentro del trimestre siguiente al en que se haya tomado el acuerdo de cabildo, en la tesorería correspondiente.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de los propietarios, poseedores o usuarios de predios urbanos sin construcciones o edificaciones, o bien cuando no se haya contratado el servicio a que aluden las fracciones anteriores, la cuota anual de los derechos que son materia de esta sección, será de 2 veces el valor diario de la Unidad de Medida y Actualización vigente. En estos casos, el entero deberá realizarse dentro del primer trimestre de cada año, o dentro del trimestre siguiente al en que se haya tomado el acuerdo de cabildo, en la tesorería correspondiente.
 
 No procederá su actualización en los términos que dispone este Código.
 
@@ -11363,13 +11267,15 @@ Los ayuntamientos podrán acordar la aplicación del derecho en aquellas zonas q
 
 Por el servicio de limpia de solares o predios baldíos en zona urbana, la recolección y transporte del producto de la limpia, se pagarán derechos conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-CONCEPTO Número de Salarios Mínimos
+CONCEPTO NÚMERO DE VECES EL VALOR DE LA
 
-Generales del Area Geográfica
+UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-que corresponda.
+VIGENTE
 
 I. Limpieza de predio por:
 
@@ -11403,13 +11309,15 @@ El pago se efectuará por adelantado cuando el servicio lo solicite el particula
 
 Por el transporte de residuos sólidos generados por industrias, comercios y prestadores de servicios, se pagarán derechos conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-CONCEPTO Número de Salarios Mínimos
+CONCEPTO NÚMERO DE VECES EL VALOR DIARIO
 
-Generales del Area
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-Geográfica que corresponda.
+VIGENTE
 
 I. Por un volumen de hasta 0.2 m3 0.8
 
@@ -11419,9 +11327,11 @@ El pago de este derecho deberá realizarse por adelantado cuando el servicio lo 
 
 Se consideran residuos sólidos industriales y comerciales, los que así considera el Código Administrativo del Estado de México.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 165.
 
-Por uso del relleno sanitario, se deberán cubrir por concepto de derechos 0.776 días de salario mínimo general vigente en el área geográfica que corresponda, por m3 o fracción.
+Por uso del relleno sanitario, se deberán cubrir por concepto de derechos 0.776 veces el valor diario de la Unidad de Medida y Actualización vigente por m3 o fracción.
 
 #### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
@@ -11431,23 +11341,21 @@ Por uso del relleno sanitario, se deberán cubrir por concepto de derechos 0.776
 
 Por los servicios prestados por las autoridades municipales de catastro, se pagarán derechos conforme a la siguiente:
 
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 TARIFA
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.G. 2 DE DICIEMBRE DE 2013)</small>
+CONCEPTO NÚMERO DE VECES EL VALOR DIARIO
 
-CONCEPTO Número de Salarios Mínimos Diarios
+DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN
 
-Generales del Área Geográfica
-
-que corresponda.
+VIGENTE
 
 > <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2000)</small>
 
 I. Certificación de Clave
 
 Catastral: 1.35
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA EN SU TARIFA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -12617,7 +12525,9 @@ I. Se determinará el costo de ejecución empleando el método directo, que cons
 
 II. Se determinará el costo por unidad de medida para cada una de las tipologías clasificadas en la Tabla de Valores Unitarios de Construcciones, empleando el método indirecto que considera la investigación y análisis documental de publicaciones especializadas, así como entrevistas a expertos en valuación de construcciones, con apego a la normatividad que establece el reglamento de este Título y el Manual Catastral.
 
-Independientemente del método que se adopte para determinar el Valor Unitario de cada una de las Tipologías de Construcción, el resultado deberá compararse con el que se obtenga al aplicar el Índice Nacional de Precios al Consumidor ó el Índice Nacional del Costo de la Edificación de la Vivienda de Interés Social, a los valores vigentes en el año anterior al de la propuesta, así mismo, podrá apoyarse en la información derivada de avalúos practicados por especialistas en valuación inmobiliaria autorizados y la variación del salario mínimo general diario emitido por la Comisión Nacional de los Salarios Mínimos para cada área geográfica del Estado de México, con los que se realizarán los ajustes y ponderaciones necesarios.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Independientemente del método que se adopte para determinar el Valor Unitario de cada una de las Tipologías de Construcción, el resultado deberá compararse con el que se obtenga al aplicar el índice Nacional de Precios al Consumidor ó el índice Nacional del Costo de la Edificación de la Vivienda de Interés Social, a los valores vigentes en el año anterior al de la propuesta, así mismo, podrá apoyarse en la información derivada de avalúos practicados por especialistas en valuación inmobiliaria autorizados y la variación del valor diario de la Unidad de Medida y Actualización vigente, con los que se realizarán los ajustes y ponderaciones necesarios.
 
 > <small>(REFORMADA, G.G. 31 DE DICIEMBRE DE 2001)</small>
 
@@ -15885,13 +15795,11 @@ Los cheques expedidos vigentes y que no hayan sido cobrados al treinta y uno de 
 
 De ser aplicable en los municipios, se observará este procedimiento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 337.
 
-Las dependencias que manejen fondos públicos deberán invertir sus disponibilidades en instrumentos de renta fija y los rendimientos que se generen deberán depositarse en la Caja General, dichos depósitos deberán realizarse cuando su monto rebase 6 salarios mínimos generales vigentes o bien, el monto generado al final del año. Si al término del ejercicio fiscal conservan recursos financieros presupuestales éstos deberán ser reintegrados a la Caja General, en el caso de los municipios los depósitos se realizarán a la Tesorería.
+Las dependencias que manejen fondos públicos deberán invertir sus disponibilidades en instrumentos de renta fija y los rendimientos que se generen deberán depositarse en la Caja General, dichos depósitos deberán realizarse cuando su monto rebase 6 veces el valor diario de la Unidad de Medida y Actualización vigente o bien, el monto generado al final del año. Si al término del ejercicio fiscal conservan recursos financieros presupuestales éstos deberán ser reintegrados a la Caja General, en el caso de los municipios los depósitos se realizarán a la Tesorería.
 
 > <small>(REFORMADO, G.G. 6 DE DICIEMBRE DE 2002)</small>
 
@@ -16273,81 +16181,67 @@ B). En un 100% el importe de la multa fijada por la omisión en el pago de contr
 
 Son infracciones y sanciones aplicables a los contribuyentes:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+I. No cumplir con las obligaciones que señala este Código de inscribirse, registrarse, hacerlo fuera de los plazos señalados, proporcionar o manifestar datos o documentos falsos, ante las autoridades estatal y/o municipales según corresponda, en las actividades por las que sea contribuyente; y se sancionará con una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-I. No cumplir con las obligaciones que señala este Código de inscribirse, registrarse, hacerlo fuera de los plazos señalados, proporcionar o manifestar datos o documentos falsos, ante las autoridades estatal y/o municipales según corresponda, en las actividades por las que sea contribuyente; y se sancionará con una multa de cincuenta hasta cien días de salarios mínimos generales vigentes.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
-
-II. Obtener o usar más de un número de registro para el cumplimiento de sus obligaciones, cuando no se encuentre dentro de las excepciones establecidas por la autoridad fiscal mediante Reglas de Carácter General; y se sancionará con una multa de cincuenta hasta cien días de salarios mínimos generales vigentes.
+II. Obtener o usar más de un número de registro para el cumplimiento de sus obligaciones, cuando no se encuentre dentro de las excepciones establecidas por la autoridad fiscal mediante Reglas de Carácter General; y se sancionará con una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 III. Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar las contribuciones correspondientes; y se aplicará la sanción prevista en la fracción anterior.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. No llevar registros contables a que aluden las disposiciones fiscales, llevarlos en forma distinta a como éstas prescriben, no hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos o inexactos o fuera de los plazos respectivos; y se sancionará con una multa de treinta hasta setenta días de salario mínimo general del área geográfica que corresponda.
+IV. No llevar registros contables a que aluden las disposiciones fiscales, llevarlos en forma distinta a como éstas prescriben, no hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos o inexactos o fuera de los plazos respectivos; y se sancionará con una multa de treinta hasta setenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-V. Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco cualquier anotación, asiento de constancia hecha en la contabilidad; mandar o consentir que se hagan alteraciones, raspaduras o tachaduras; y se sancionará con una multa de cincuenta hasta cien días de salario mínimo general del área geográfica que corresponda, siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será hasta de un tanto del importe de dicha contribución.
+V. Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco cualquier anotación, asiento de constancia hecha en la contabilidad; mandar o consentir que se hagan alteraciones, raspaduras o tachaduras; y se sancionará con una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será hasta de un tanto del importe de dicha contribución.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-VI. Destruir o inutilizar los registros contables cuando no haya transcurrido el plazo durante el cual conforme a la ley los deban conservar; y se sancionará con una multa de treinta hasta setenta días de salario mínimo general del área geográfica que corresponda.
+VI. Destruir o inutilizar los registros contables cuando no haya transcurrido el plazo durante el cual conforme a la ley los deban conservar; y se sancionará con una multa de treinta hasta setenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 1999)</small>
 
 VII. Faltar a la obligación de expedir comprobantes fiscales o hacerlo sin cumplir los requisitos fiscales; y se aplicará la sanción prevista en la fracción anterior.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-VIII. No presentar o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos, así como el boletaje en los casos de eventos o espectáculos públicos que exija este ordenamiento; no comprobarlos, o no aclararlos, cuando las autoridades fiscales lo soliciten; y se sancionará con una multa de cincuenta hasta cien días de salario mínimo general vigente del área geográfica que corresponda.
+VIII. No presentar o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos, así como el boletaje en los casos de eventos o espectáculos públicos que exija este ordenamiento; no comprobarlos, o no aclararlos, cuando las autoridades fiscales lo soliciten; y se sancionará con una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
-
-IX. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores; y se sancionará con una multa de cincuenta hasta cien días de salario mínimo general del área geográfica que corresponda.
+IX. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores; y se sancionará con una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 X. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refieren las dos fracciones anteriores, alteradas o falsificadas; y se aplicará la sanción prevista en la fracción anterior.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XI. No pagar en forma total o parcial las contribuciones dentro de los plazos señalados por este Código o lo señalado por las autoridades fiscales, en el ejercicio de sus facultades, por cualquier causa imputable al contribuyente y se sancionará con una multa del 40% al 70% de la contribución omitida.
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-XII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso ilegal de ellos; y se sancionará con una multa de cincuenta hasta cien días de salario mínimo general del área geográfica que corresponda.
+XII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso ilegal de ellos; y se sancionará con una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-XIII. Resistirse por cualquier medio a las visitas de verificación; no proporcionar los datos, informes, libros, documentos, registros y en general los elementos necesarios para la práctica de la visita; y se sancionará con una multa de veinte hasta cien días de salario mínimo general del área geográfica que corresponda.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+XIII. Resistirse por cualquier medio a las visitas de verificación; no proporcionar los datos, informes, libros, documentos, registros y en general los elementos necesarios para la práctica de la visita; y se sancionará con una multa de veinte hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 XIV. No conservar los registros contables y documentos que le sean dejados en calidad de depositario, por los visitadores al estarse practicando visitas de verificación; y se aplicará la sanción prevista en la fracción anterior.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+XV. No presentar el dictamen correspondiente sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal estando obligado a ello o habiendo optado por dictaminarse; presentar dicho dictamen en forma extemporánea a requerimiento de autoridad fiscal competente, o cuando no obstante su presentación, se haya formulado por Contador Público impedido en términos del artículo 47 E de este Código, lo cual se sancionará con una multa de trescientas y hasta setecientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-XV. No presentar el dictamen correspondiente sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal estando obligado a ello o habiendo optado por dictaminarse; presentar dicho dictamen en forma extemporánea a requerimiento de autoridad fiscal competente, o cuando no obstante su presentación, se haya formulado por Contador Público impedido en términos del artículo 47 E de este Código, lo cual se sancionará con una multa de trescientos y hasta setecientos días de salario mínimo general del área geográfica "A".
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
+XVI. No presentar el aviso de dictamen correspondiente o presentarlo extemporáneamente a requerimiento de autoridad fiscal competente, y se sancionará con una multa de setenta y cinco y hasta ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-XVI. No presentar el aviso de dictamen correspondiente o presentarlo extemporáneamente a requerimiento de autoridad fiscal competente, y se sancionará con una multa de setenta y cinco y hasta ciento cincuenta días de salario mínimo general del área geográfica "A".
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADA, G.G. 19 DE NOVIEMBRE DE 2015)</small>
-
-XVII. No entregar, en su caso, la constancia de retención por cada contribuyente y periodo al que corresponda, y se sancionará con una multa de cincuenta y hasta cien días de salarios mínimos generales vigentes.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+XVII. No entregar, en su caso, la constancia de retención por cada contribuyente y periodo al que corresponda, y se sancionará con una multa de cincuenta y hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -16355,19 +16249,13 @@ XVIII. No cumplir con el tiempo de entrega de la obra consignado en el Convenio 
 
 Para determinar la cuantía de la sanción, se considerará como monto de la contribución omitida el 10% del valor de la obra convenida, cuando el avance de la misma sea mayor del 50%, y el 20% del valor de a (sic) obra convenida cuando su avance sea menor al 50%.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
+XIX. No presentar el aviso de dictamen correspondiente sobre la determinación de la base del Impuesto Predial estando obligado a ello o presentarlo extemporáneamente a requerimiento de la autoridad fiscal competente, y se sancionará con una multa de cincuenta y hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-XIX. No presentar el aviso de dictamen correspondiente sobre la determinación de la base del Impuesto Predial estando obligado a ello o presentarlo extemporáneamente a requerimiento de la autoridad fiscal competente, y se sancionará con una multa de cincuenta y hasta cien días de salario mínimo general del área geográfica "A”.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
-> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
-
-XX. No presentar el dictamen correspondiente sobre la determinación de la base del Impuesto Predial estando obligado a ello o habiendo optado por dictaminarse; presentar dicho dictamen en forma extemporánea a requerimiento de la autoridad fiscal competente, o cuando no obstante su presentación, se haya formulado por un dictaminador impedido en términos del artículo 47 E de este Código, lo cual se sancionará con una multa de ciento cincuenta y hasta trescientos días de salario mínimo general del área geográfica "A".
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+XX. No presentar el dictamen correspondiente sobre la determinación de la base del Impuesto Predial estando obligado a ello o habiendo optado por dictaminarse; presentar dicho dictamen en forma extemporánea a requerimiento de la autoridad fiscal competente, o cuando no obstante su presentación, se haya formulado por un dictaminador impedido en términos del artículo 47 E de este Código, lo cual se sancionará con una multa de ciento cincuenta y hasta trescientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADA, G.G. 28 DE NOVIEMBRE DE 2016)</small>
 
@@ -16381,29 +16269,37 @@ Cuando se impongan las sanciones máximas previstas en este artículo, se consid
 
 Son infracciones y sanciones aplicables a los notarios y corredores públicos:
 
-I. Dejar de calcular contribuciones respecto de las escrituras o cualquier contrato que se otorgue ante su fe, o efectuarla sin sujetarse a lo previsto por las disposiciones de este Código; y se sancionará con una multa de cincuenta hasta cien días de salario mínimo general del área geográfica que corresponda, siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será hasta de un tanto del importe de dicha contribución.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Dejar de calcular contribuciones respecto de las escrituras o cualquier contrato que se otorgue ante su fe, o efectuarla sin sujetarse a lo previsto por las disposiciones de este Código; y se sancionará con una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será hasta de un tanto del importe de dicha contribución.
 
 II. Autorizar actos, contratos o escrituras en donde no se haya cumplido con las disposiciones fiscales; y se aplicará la sanción prevista en la fracción anterior.
 
-III. Solicitar la inscripción o registro de documentos o instrumentos que carezcan de la constancia de pago de las contribuciones correspondientes; y se sancionará con una multa de cincuenta hasta cien días de salario mínimo general del área geográfica que corresponda, cuando no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será hasta de un tanto del importe de dicha contribución.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Solicitar la inscripción o registro de documentos o instrumentos que carezcan de la constancia de pago de las contribuciones correspondientes; y se sancionará con una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente, cuando no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será hasta de un tanto del importe de dicha contribución.
 
 IV. No proporcionar informes, documentos o datos en los plazos que fije este Código, o cuando lo exijan las autoridades competentes, o presentarlos incompletos o inexactos; y se aplicará la sanción prevista en la fracción anterior.
 
-V. Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados; y se sancionará con una multa de ciento cincuenta hasta doscientos días de salario mínimo general del área geográfica que corresponda.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+V. Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados; y se sancionará con una multa de ciento cincuenta hasta doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 VI. Facilitar en cualquier forma la omisión total o parcial de las contribuciones, mediante alteraciones, ocultaciones y otros hechos u omisiones; y se aplicará la sanción prevista en la fracción anterior.
 
-VII. No destinar al pago de contribuciones, las cantidades ministradas por los contribuyentes para ese efecto, cuando exista la obligación para ello; y se sancionará con una multa de ciento cincuenta hasta doscientos días de salario mínimo general del área geográfica que corresponda, siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será de hasta de un tanto del importe del (sic) dicha contribución.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+VII. No destinar al pago de contribuciones, las cantidades ministradas por los contribuyentes para ese efecto, cuando exista la obligación para ello; y se sancionará con una multa de ciento cincuenta hasta doscientas veces el valor diario de la Unidad de Medida y Actualización vigente, siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será de hasta de un tanto del importe de dicha contribución.
 
 VIII. Hacer uso ilegal de los documentos o comprobantes de pago de contribuciones; y se aplicará la sanción prevista en la fracción anterior.
 
-IX. Resistirse por cualquier medio a las visitas de verificación; no proporcionar los datos, informes, libros, documentos, registros y en general los elementos necesarios para la práctica de la visita; y se sancionará con una multa de setenta y cinco hasta ciento cincuenta días de salario mínimo general del área geográfica que corresponda.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+IX. Resistirse por cualquier medio a las visitas de verificación; no proporcionar los datos, informes, libros, documentos, registros y en general los elementos necesarios para la práctica de la visita; y se sancionará con una multa de setenta y cinco hasta ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-X. No verificar la presentación del aviso de dictamen y del dictamen sobre la determinación de la base del Impuesto Predial en las enajenaciones de inmuebles objeto de dictaminación, de conformidad con el artículo 47 Bis-1, cuarto párrafo de este Código, lo cual se sancionará con una multa de cien y hasta doscientos días de salario mínimo general del área geográfica "A".
+X. No verificar la presentación del aviso de dictamen y del dictamen sobre la determinación de la base del Impuesto Predial en las enajenaciones de inmuebles objeto de dictaminación, de conformidad con el artículo 47 Bis-1, cuarto párrafo de este Código, lo cual se sancionará con una multa de cien y hasta doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
@@ -16417,7 +16313,9 @@ Son infracciones y sanciones aplicables a los contadores públicos autorizados:
 
 I. No observar en los dictámenes que formulen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal la omisión de las contribuciones en el pago de este impuesto en el informe de su situación fiscal respecto al ejercicio fiscal que se dictamina, siempre que dicha omisión sea determinada por las autoridades fiscales en el ejercicio de sus facultades de comprobación mediante resolución que haya quedado firme, y se sancionará con una multa del 10% al 20% de la contribución no observada, sin que dicha multa exceda del doble de los honorarios cobrados por haber formulado el dictamen.
 
-II. No advertir a los contribuyentes a los que se refiera su opinión plasmada en los dictámenes que formulen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, si el criterio contenido en dicha opinión es diverso o puede ser contrario a la aplicación de las disposiciones fiscales establecidas en este Código, y se sancionará con una multa de doscientos hasta cuatrocientos días de salario mínimo general vigente del área geográfica que corresponda.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. No advertir a los contribuyentes a los que se refiera su opinión plasmada en los dictámenes que formulen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, si el criterio contenido en dicha opinión es diverso o puede ser contrario a la aplicación de las disposiciones fiscales establecidas en este Código, y se sancionará con una multa de doscientas hasta cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 III. Formular dictamen sobre la determinación y pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal en contravención a lo dispuesto en este Código, lo cual se sancionará conforme a lo siguiente:
 
@@ -16461,8 +16359,6 @@ C). Se cancelará definitivamente su registro para formular dictamen, revocándo
 
 2. No exhiba a requerimiento de la autoridad fiscal competente los papeles de trabajo a que se refiere el inciso B) de la fracción I del artículo 48-B de éste Código.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
-
 > <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
 
 3. Formule dictamen estando impedido en términos del artículo 47 E de este Código.
@@ -16489,17 +16385,23 @@ En caso de suspensión temporal o cancelación definitiva de registro a que se r
 
 Son infracciones y sanciones aplicables a terceros:
 
-I. No proporcionar avisos, informes, datos o documentos, o no exhibirlos en el plazo fijado por este Código, o cuando las autoridades fiscales los exijan con apoyo en sus facultades; no aclararlos cuando las mismas autoridades fiscales lo soliciten; y se sancionará con una multa de cinco hasta cincuenta días de salario mínimo general del área geográfica que corresponda.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Presentar los avisos, informes, datos o documentos de que se habla en la fracción anterior incompletos o inexactos, alterados o falsificados; y se sancionará con una multa de cincuenta hasta cien días de salario mínimo general del área geográfica que corresponda.
+I. No proporcionar avisos, informes, datos o documentos, o no exhibirlos en el plazo fijado por este Código, o cuando las autoridades fiscales los exijan con apoyo en sus facultades; no aclararlos cuando las mismas autoridades fiscales lo soliciten; y se sancionará con una multa de cinco hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-> <small>(REFORMADA, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-III. Asesorar, aconsejar, prestar servicios a los contribuyentes, colaborar con ellos en la alteración o la inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que expidan, autorizarlos o constatarlos, para omitir total o parcialmente cualquier contribución de las señaladas en este Código, y se sancionará con una multa de doscientos hasta cuatrocientos días de salario mínimo general diario vigente del área geográfica que corresponda.
+II. Presentar los avisos, informes, datos o documentos de que se habla en la fracción anterior incompletos o inexactos, alterados o falsificados; y se sancionará con una multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Asesorar, aconsejar, prestar servicios a los contribuyentes, colaborar con ellos en la alteración o la inscripción de cuentas, asientos o datos falsos en la contabilidad o en los documentos que expidan, autorizarlos o constatarlos, para omitir total o parcialmente cualquier contribución de las señaladas en este Código, y se sancionará con una multa de doscientas hasta cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 IV. Hacer uso ilegal de documentos o comprobantes de pago de contribuciones; y se aplicará la sanción prevista en la fracción anterior.
 
-V. No destinar al pago de contribuciones las cantidades ministradas por los contribuyentes para ese efecto, cuando exista la obligación para ello; y se sancionará con una multa de ciento cincuenta hasta doscientos días de salario mínimo general del área geográfica que corresponda, siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será hasta de un tanto del importe de dicha contribución.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+V. No destinar al pago de contribuciones las cantidades ministradas por los contribuyentes para ese efecto, cuando exista la obligación para ello; y se sancionará con una multa de ciento cincuenta hasta doscientas veces el valor diario de la Unidad de Medida y Actualización vigente, siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será hasta de un tanto del importe de dicha contribución.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -16649,21 +16551,15 @@ No se iniciará el procedimiento administrativo de ejecución, hasta que venza e
 
 La actualización a que se refiere el artículo 30 de éste Código y los accesorios a que se refiere el artículo 12 de este mismo ordenamiento que se causen durante el procedimiento administrativo de ejecución, se harán efectivos con el crédito inicial, sin necesidad de ninguna formalidad especial, pero será necesario que la autoridad funde y motive el procedimiento utilizado para determinar la actualización y los accesorios que se causen durante la aplicación de dicho procedimiento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 377.
 
 Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las jurídico colectivas estarán obligadas a pagar el 2% del total del crédito, por cada una de las diligencias de requerimiento de pago, embargo, ampliación de embargo, remate, enajenación fuera de remate o adjudicación al fisco estatal o municipal, previstos en el presente Código, por concepto de gastos de ejecución ordinarios.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-Los gastos de ejecución, por cada una de las diligencias, no podrán ser menores al importe de cinco salarios mínimos generales del área geográfica "A", ni exceder de la cantidad equivalente a 2 salarios mínimos generales elevados al año.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+Los gastos de ejecución, por cada una de las diligencias, no podrán ser menores al importe de cinco veces el valor diario de la Unidad de Medida y Actualización vigente ni exceder de la cantidad equivalente a 2 veces el valor diario de la Unidad de Medida y Actualización vigente, elevado al año.
 
 > <small>(REFORMADO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
@@ -16803,11 +16699,9 @@ II. Los bienes inmuebles, cuando se trate de contribuciones a la propiedad inmob
 
 III. En los demás casos:
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE CÓDIGO.]</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2010)</small>
-
-A). Dinero, metales preciosos y depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarías hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
+A) Dinero, metales preciosos y depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 veces el valor diario de la Unidad de Medida y Actualización vigente elevado al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
 
 B). Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la federación, estados y municipios y de empresas o personas privadas de reconocida solvencia.
 
@@ -17087,19 +16981,23 @@ IV. Cuando de conformidad con este Título se haya enajenado la negociación.
 
 En los casos de las fracciones I y IV de este artículo, la oficina ejecutora comunicará el hecho a la oficina del Registro Público de la Propiedad que corresponda para que se cancele la inscripción respectiva.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 401.
 
 Los interventores con cargo a caja o en administración, así como los administradores de bienes inmuebles que causen rentas, percibirán por cada mes o fracción, por concepto de honorarios, los porcentajes siguientes:
 
-I. Para los interventores con cargo a caja y los administradores de bienes inmuebles que causen rentas, los honorarios serán por un monto igual al 7% del importe recuperado, sin que los honorarios referidos sean inferiores a ciento doce días de salario mínimo general vigente del área geográfica "A", ni mayores a mil setecientos días del salario mínimo referido.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Para los interventores en administración, los honorarios a que se refiere el primer párrafo de este artículo serán por un monto equivalente al 10% del importe recuperado, los cuales no podrán ser inferiores a trescientos diez días de salario mínimo general vigente del área geográfica "A", ni mayores a mil ochocientos días del salario mínimo referido.
+I. Para los interventores con cargo a caja y los administradores de bienes inmuebles que causen rentas, los honorarios serán por un monto igual al 7% del importe recuperado, sin que los honorarios referidos sean inferiores a ciento doce veces el valor diario de la Unidad de Medida y Actualización vigente, ni mayores a mil setecientas veces el valor diario de la Unidad de medida y Actualización vigente.
 
-Si del dictamen de factibilidad a que refiere el artículo 406 de este Código, se desprende la imposibilidad de recaudar el o los créditos fiscales por los cuales se ordenó la intervención con cargo a la caja y siempre y cuando éste sea entregado dentro del plazo establecido en el artículo 397 fracción VIII de este Código, se pagarán los honorarios del interventor, a razón del 7% del importe recuperado, sin que los honorarios referidos sean inferiores a doscientos días de salario mínimo general vigente del área geográfica "A", ni mayores a cuatrocientos días del salario mínimo referido.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Para los interventores en administración, los honorarios a que se refiere el primer párrafo de este artículo serán por un monto equivalente al 10°/0 (sic) del importe recuperado, los cuales no podrán ser inferiores a trescientas diez veces el valor diario de la Unidad de Medida y Actualización vigente, ni mayores a mil ochocientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Si del dictamen de factibilidad a que refiere el artículo 406 de este Código, se desprende la imposibilidad de recaudar el o los créditos fiscales por los cuales se ordenó la intervención con cargo a la caja y siempre y cuando éste sea entregado dentro del plazo establecido en el artículo 397 fracción VIII de este Código, se pagarán los honorarios del interventor, a razón del 7% del importe recuperado, sin que los honorarios referidos sean inferiores a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente, ni mayores a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Los interventores con cargo a caja o en administración podrán solicitar a la autoridad ejecutora autorización para que contrate al personal auxiliar que se estime necesario, para el adecuado desempeño de su encargo. Asimismo podrá solicitar autorización para la contratación de los servicios indispensables para proteger el interés fiscal en su depósito y el desempeño de su función.
 
@@ -17227,19 +17125,15 @@ Los peritos o especialistas en valuación deberán rendir su dictamen en un plaz
 
 Las irregularidades u omisiones que se observen en la tramitación del procedimiento administrativo de ejecución, incluso las relacionadas con el valor establecido para los bienes embargados, se podrán impugnar hasta el momento en que la autoridad publique la convocatoria de remate correspondiente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 411.
 
 El remate podrá ser convocado para una fecha fijada dentro de los 20 días siguientes a la fecha en que se emita el avalúo comercial. La publicación de la convocatoria se hará cuando menos 5 días antes de la fecha del remate.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL CÓDIGO.]</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.G. 18 DE DICIEMBRE DE 2008)</small>
-
-La convocatoria se fijará en sitio visible y usual de la oficina ejecutora, en los lugares públicos que se estimen convenientes y se publicará en el Periódico Oficial dos veces consecutivas. Cuando el valor de los bienes muebles, inmuebles o negociaciones exceda de la cantidad que corresponda a seis veces el salario mínimo general elevado al año según el área geográfica que corresponda, la convocatoria se publicará además en uno de los periódicos de mayor circulación si lo hubiere donde resida la autoridad ejecutora, dos veces consecutivas. En el supuesto de que el remate se efectué a través de medios electrónicos, además, la convocatoria se dará a conocer en la página electrónica de las autoridades fiscales.
+La convocatoria se fijará en sitio visible y usual de la oficina ejecutora, en los lugares públicos que se estimen convenientes y se publicará en el Periódico Oficial dos veces consecutivas. Cuando el valor de los bienes muebles, inmuebles o negociaciones exceda de la cantidad que corresponda a seis veces el valor diario de la Unidad de Medida y Actualización vigente elevado al año, la convocatoria se publicará además en uno de los periódicos de mayor circulación si lo hubiere donde resida la autoridad ejecutora, dos veces consecutivas. En el supuesto de que el remate se efectué a través de medios electrónicos, además, la convocatoria se dará a conocer en la página electrónica de las autoridades fiscales.
 
 > <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -18726,3 +18620,19 @@ QUINTO.- El Fideicomiso para la Promoción Turística previsto en este Decreto, 
 SEXTO.- Las reglas de operación del Fideicomiso para la Promoción Turística a que se refiere este Decreto se expedirán dentro de los 30 días naturales siguientes a su constitución.
 
 SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
