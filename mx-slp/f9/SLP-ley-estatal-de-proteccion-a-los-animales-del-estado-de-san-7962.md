@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2016-07-14"
+last_updated: "2016-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -791,17 +791,17 @@ Para la aplicación de sanciones, por incumplimiento de las disposiciones de est
 
 Las infracciones denunciadas por escrito serán sancionadas por la secretaría de los ayuntamientos, tomando en cuenta las circunstancias señaladas en el segundo párrafo del Artículo 87 de esta Ley.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 82.
 
-Las conductas a que hace referencia el artículo anterior, serán sancionadas por los secretarios de los ayuntamientos, con multa de cincuenta hasta doscientos días de salario mínimo vigente en la Entidad.
+Las conductas a que hace referencia el artículo anterior, serán sancionadas por los secretarios de los ayuntamientos, con multa de cincuenta hasta doscientos días de la unidad de medida y actualización vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 83.
 
-Se sancionará con multa de doscientos hasta quinientos días de salario mínimo, a quienes cometan los siguientes actos:
+Se sancionará con multa de uno hasta cien días de la unidad de medida y actualización a quienes cometan los siguientes actos:
 
 I.- Ocasionar la muerte intencional por cualquier medio no autorizado por esta Ley y que produzca una prolongada agonía al animal, causándole un sufrimiento innecesario;
 
@@ -815,23 +815,21 @@ III.- Privar de aire, luz, alimento, espacio suficiente al animal en forma negli
 
 > <small>(ADICIONADA, P.O. 7 DE MARZO DE 2009)</small>
 
-IV. Hostigue, maltrate o torture a cualquier animal.
+IV.- Hostigue, maltrate o torture a cualquier animal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 84.
 
-De comprobarse que los animales han sido torturados y maltratados con brutalidad excesiva y grave negligencia, la sanción podrá ser de trescientos hasta seiscientos días de salario mínimo vigente en la Entidad.
+De comprobarse que los animales han sido torturados y maltratados con brutalidad excesiva y grave negligencia, la sanción podrá ser de trescientos hasta seiscientos días de la unidad de medida y actualización vigente.
 
 Igual sanción se impondrá a las personas reincidentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 28 DE OCTUBRE DE 2014)</small>
+ARTICULO 84 BIS.- Se sancionará con el equivalente de dos mil a cinco mil días de la Unidad de medida y actualización vigente, a quien celebre o realice espectáculos circenses que utilicen animales vivos; además se exigirá el retiro inmediato del espectáculo y, de ser necesario, podrá pedirse el auxilio de la fuerza pública para tal fin.
 
-ARTICULO 84 BIS.- Se sancionará con el equivalente de dos mil a cinco mil días de salario mínimo vigente en la zona, a quien celebre o realice espectáculos circenses que utilicen animales vivos además se exigirá el retiro inmediato del espectáculo y de ser necesario podrá pedirse el auxilio de la fuerza pública para tal fin.
-
-Se sancionará con el equivalente de tres mil a seis mil días de salario mínimo vigente en la zona, al funcionario estatal o municipal que expida autorización para la operación y el establecimiento de espectáculos circenses en los cuales se utilicen animales vivos.
+Se sancionará con el equivalente de tres mil a seis mil días de la Unidad de Medida y Actualización vigente, al funcionario estatal o municipal que expida autorización para la operación y el establecimiento de espectáculos circenses en los cuales se utilicen animales vivos.
 
 ###### ARTICULO 85.
 
@@ -969,8 +967,16 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 14 DE JULIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL DECRETO 0252 [0253].- "SE ADICIONA EL ARTÍCULO 58 BIS A LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
+## [N. DE E. TRANSITORIOS DEL DECRETO 0252 [0253].- “SE ADICIONA EL ARTÍCULO 58 BIS A LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0453.- SE REFORMAN DIVERSOS ARTÍCULOS DE LAS SIGUIENTES LEYES: LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DEL ESTADO DE SAN LUIS POTOSÍ, LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES Y LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
