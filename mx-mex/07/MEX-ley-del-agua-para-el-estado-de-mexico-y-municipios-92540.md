@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2016-02-03"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DEL AGUA PARA EL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -42,8 +42,6 @@ DECRETA:
 ###### ARTÍCULO ÚNICO.
 
 Se expide la Ley del Agua para el Estado de México y Municipios, para quedar como sigue:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO NOVENO DEL DECRETO NÚMERO 481, PUBLICADO EN LA G.G. DE 27 DE JULIO DE 2015, CUANDO EN OTROS ORDENAMIENTOS LEGALES ADMINISTRATIVOS, DOCUMENTACIÓN Y PAPELERÍA SE HAGA REFERENCIA A LAS SECRETARÍAS DEL AGUA Y OBRA PÚBLICA Y DE COMUNICACIONES, SE ENTENDERÁ QUE SE REFIEREN A LA "SECRETARÍA DE INFRAESTRUCTURA".</small>
 
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
@@ -2379,13 +2377,13 @@ Previa a la revocación se otorgará el derecho de audiencia, en términos de lo
 
 Una vez que la Comisión, el municipio o el organismo operador abastezcan a las pipas, queda bajo la responsabilidad de los permisionarios de distribución la preservación de la calidad del agua, de acuerdo con la Norma Oficial Mexicana.
 
-> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 150 Nonies.
 
-La tarifa por la venta de agua potable al consumidor por parte de los permisionarios de distribución, en ningún caso podrá exceder de un salario mínimo general vigente en el área geográfica que corresponda, por metro cúbico.
+La tarifa por la venta de agua potable al consumidor por parte de los permisionarios de distribución, en ningún caso podrá exceder del valor diario de una Unidad de Medida y Actualización vigente, por metro cúbico.
 
-La tarifa por la venta de agua tratada al consumidor por parte de los permisionarios de distribución, en ningún caso podrá exceder de 0.9 de salario mínimo general vigente en el área geográfica que corresponda, por metro cúbico.
+La tarifa por la venta de agua tratada al consumidor por parte de los permisionarios de distribución, en ningún caso podrá exceder de 0.9 de la Unidad de Medida y Actualización vigente, por metro cúbico.
 
 ## TÍTULO CUARTO. DE LA VERIFICACIÓN, INFRACCIONES Y SANCIONES
 
@@ -2477,31 +2475,41 @@ XVII. Suministrar agua potable o tratada a través de pipas, en violación a la 
 
 XVIII. Incurrir en cualquier otra violación a los preceptos que señala esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 156.
 
-Las infracciones a que se refiere el artículo anterior, serán sancionadas por la autoridad del agua competente, con multas equivalentes a días de salario mínimo general vigente en el área geográfica que corresponda al momento en que se cometa la infracción, de acuerdo a lo siguiente:
+Las infracciones a que se refiere el artículo anterior, serán sancionadas por la autoridad del agua competente, con multas equivalentes a veces el valor diario de la Unidad de Medida y Actualización vigente al momento en que se cometa la infracción, de acuerdo a lo siguiente:
 
-I. De diez a quinientos en el caso de violación a cualquiera de las fracciones V, VII, IX, X, XI, XII, XIII, XIV, XV, XVII y XVIII;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. De quinientos uno a tres mil en el caso de violación a cualquiera de las fracciones I, II, VIII, XIV y XVI, tratándose de concesionarios, la sanción a que ese refiere esta fracción, será con independencia de las que establece la propia Ley, el título de concesión y la normatividad en la materia;
+I. De diez a quinientas en el caso de violación a cualquiera de las fracciones V, VII, IX, X, XI, XII, XIII, XIV, XV, XVII y XVIII.
 
-III. De tres mil uno a diez mil en el caso de violación a cualquiera de las fracciones III, IV y VI; y
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. De quinientas una a tres mil en el caso de violación a cualquiera de las fracciones I, II, VIII, XIV y XVI, tratándose de concesionarios, la sanción a que se refiere esta fracción, será con independencia de las que establece la propia Ley, el título de concesión y la normatividad en la materia.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. De tres mil una a diez mil en el caso de violación a cualquiera de las fracciones III, IV y VI.
 
 IV. La multa establecida para la fracción XVIII, será fijada por la autoridad tomando en consideración la naturaleza de la violación de la Ley.
 
 Con independencia de la multa establecida, el infractor deberá resarcir, en su caso, el daño causado a la infraestructura hidráulica y cumplir con las medidas correctivas que le señale la autoridad, dentro del plazo que ésta le fije.
 
-Si concluido el plazo a que se refiere el párrafo anterior, resultare que las irregularidades aún subsisten, podrá imponerse un día multa por cada día que transcurra.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
+Si concluido el plazo a que se refiere el párrafo anterior, resultare que las irregularidades aún subsisten, podrá imponerse multa equivalente a un valor diario de la Unidad de Medida y Actualización vigente por cada día que transcurra.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 156 Bis.
 
-Las infracciones a las obligaciones a cargo de los permisionarios de distribución de agua en pipas, a que se refiere el artículo 150 Sexies, serán sancionadas por la Comisión del Agua del Estado de México, con multas equivalentes a días de salario mínimo general vigente en el área geográfica que corresponda al momento en que se cometa la infracción de acuerdo a lo siguiente:
+Las infracciones a las obligaciones a cargo de los permisionarios de distribución de agua en pipas, a que se refiere el artículo 150 Sexies, serán sancionadas por la Comisión del Agua del Estado de México, con multas equivalentes a veces el valor diario de la Unidad de Medida y Actualización vigente que corresponda al momento en que se cometa la infracción de acuerdo a lo siguiente:
 
-I. De diez a quinientos en caso de incurrir en incumplimiento de cualquiera de las siguientes fracciones: I, V, VI, IX, X y XII;
+I. De diez a quinientas en caso de incurrir en incumplimiento de cualquiera de las siguientes fracciones: I, V, VI, IX, X y XII.
 
-II. De quinientos uno a tres mil en caso de incurrir en incumplimiento de cualquiera de las siguientes fracciones: II, III, IV, VII, VIII, XIII, XIV y XV.
+II. De quinientas una a tres mil en caso de incurrir en incumplimiento de cualquiera de las siguientes fracciones: II, III, IV, VII, VIII, XIII, XIV y XV.
 
 ###### Artículo 157.
 
@@ -2654,3 +2662,19 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
