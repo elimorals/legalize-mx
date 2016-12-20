@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-proteccion-apoyo-y-promocion-a-la-lactancia-104262"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-18"
-last_updated: "2016-08-03"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY PARA LA PROTECCIÓN, APOYO Y PROMOCIÓN A LA LACTANCIA MATERNA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Séptima de la Gaceta del Gobierno del Estado de México, el jueves 18 de diciembre de 2014.
 
@@ -399,27 +399,35 @@ Las sanciones administrativas previstas en la presente Ley se aplicarán sin men
 
 En lo no previsto por la presente Ley, será aplicable la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 28.
 
-La sanción económica procederá contra el servidor público que por acción u omisión obtenga un lucro o cause daños y perjuicios a la administración pública o a los sujetos protegidos por la presente Ley y cuando el monto de aquellos no exceda de doscientas veces el salario mínimo general vigente, dicha sanción será equivalente al doble del monto obtenido.
+La sanción económica procederá contra el servidor público que por acción u omisión obtenga un lucro o cause daños y perjuicios a la administración pública o a los sujetos protegidos por la presente Ley y cuando el monto de aquellos que no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización vigente, dicha sanción será equivalente al doble del monto obtenido.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 29.
 
-La destitución del empleo, cargo o comisión procederá contra el servidor público cuando como consecuencia de un acto u omisión obtenga lucro o cause daños y perjuicios a la administración pública o a los sujetos protegidos por la presente Ley, cuando el monto de aquellos no exceda de trescientas veces el salario mínimo general vigente.
+La destitución del empleo, cargo o comisión procederá contra el servidor público cuando como consecuencia de un acto u omisión obtenga lucro o cause daños y perjuicios a la administración pública o a los sujetos protegidos por la presente Ley, cuando el monto de aquellos no exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 30.
 
 La inhabilitación para desempeñar empleos, cargos o comisiones en el servicio público será por un período no menor de seis meses ni mayor a diez años.
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 31.
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños y perjuicios a la administración pública o a los sujetos protegidos por la presente Ley, será de seis meses a cinco años, si el monto de aquéllos no excede de quinientas veces el salario mínimo general vigente en la capital del Estado y de cinco a diez años si excede dicho límite.
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro al servidor público o cause daños y perjuicios a la administración pública o a los sujetos protegidos por la presente Ley, será de seis meses a cinco años, si el monto de aquéllos no excede de quinientas veces el valor diario de la Unidad de Medida y Actualización vigente y de cinco a diez años si excede dicho límite.
 
 ###### Artículo 32.
 
 Las infracciones cometidas por las instituciones privadas que prestan servicios de salud destinados a la atención materno infantil, serán sancionadas en los términos siguientes:
 
-I. Con amonestación y multa equivalente de cincuenta a quinientas veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción por incumplir las obligaciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+I. Con amonestación y multa equivalente de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción por incumplir las obligaciones siguientes:
 
 a) Capacitar al personal para orientar a las madres sobre la técnica de lactancia materna óptima, para que dicho proceso sea continuo hasta que el lactante o niño pequeño cumpla dos años.
 
@@ -429,7 +437,9 @@ c) Establecer la técnica que propicie el contacto piel a piel de la madre con s
 
 d) Fomentar y vigilar que la lactancia materna y la alimentación complementaria sean nutricionalmente adecuadas en términos de los estándares establecidos.
 
-II. Con multa equivalente de quinientas a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción por incumplir las obligaciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Con multa equivalente de quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción por incumplir las obligaciones siguientes:
 
 a) Proveer en su caso la ayuda alimentaria directa tendente a mejorar el estado nutricional del grupo materno infantil, cuando existan condiciones que impidan la lactancia materna.
 
@@ -437,7 +447,9 @@ b) Promover la donación de leche humana para abastecer los bancos de leche.
 
 c) Incluir en los materiales informativos y educativos relativos a la alimentación de lactantes y niños pequeños y en los relativos a la alimentación de lactantes y niños pequeños con formula infantil, fórmulas de seguimiento o cualquier otro alimento o bebida suministrada con cuchara o taza, los aspectos contenidos en la presente ley.
 
-III. Con multa equivalente de dos mil a cinco mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción por incumplir las obligaciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Con multa equivalente de dos mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción por incumplir las obligaciones siguientes:
 
 a) Obtener la certificación de "Hospital Amigo del Niño y de la Niña".
 
@@ -455,15 +467,21 @@ Además de las multas previstas en la fracción anterior, se podrá imponer la s
 
 Las infracciones cometidas por las instituciones privadas serán sancionadas en los términos siguientes:
 
-I. Con multa equivalente de cincuenta a quinientas veces el salario mínimo general vigente del área geográfica que corresponda, al momento de cometer la infracción, por no establecer en su caso, el transporte que facilite el traslado de las trabajadoras cuando el periodo de lactancia se ejerza dentro de la jornada laboral.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Con multa equivalente de quinientas a dos mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción por incumplir las obligaciones siguientes:
+I. Con multa equivalente de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente, al momento de cometer la infracción, por no establecer en su caso, el transporte que facilite el traslado de las trabajadoras cuando el periodo de lactancia se ejerza dentro de la jornada laboral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Con multa equivalente de quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción por incumplir las obligaciones siguientes:
 
 a) Establecer lactarios o salas de lactancia en los centros de trabajo.
 
 b) Propiciar el establecimiento de guarderías en los centros de trabajo o cerca de ellos.
 
-III. Con multa equivalente de dos mil a cinco mil veces el salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción por impedir el ejercicio efectivo de los derechos de las trabajadoras.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Con multa equivalente de dos mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción por impedir el ejercicio efectivo de los derechos de las trabajadoras.
 
 ###### Artículo 34.
 
@@ -514,3 +532,19 @@ G.G. 3 DE AGOSTO DE 2016.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
