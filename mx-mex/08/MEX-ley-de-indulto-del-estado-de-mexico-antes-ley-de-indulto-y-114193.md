@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-indulto-del-estado-de-mexico-antes-ley-de-indulto-y-1141
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-18"
-last_updated: "2016-04-18"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE INDULTO Y CONMUTACIÓN DE PENAS DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el lunes 18 de abril de 2016.
 
@@ -203,7 +203,9 @@ IV. Por tratamiento en libertad condicionada al sistema de localización y rastr
 
 a) Que sea delincuente primario.
 
-b) Tratándose del delito de robo con violencia sólo cuando el monto de lo robado sea de hasta noventa veces el salario mínimo general vigente y no se hayan causado lesiones.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+b) Tratándose del delito de robo con violencia sólo cuando el monto de lo robado sea de hasta noventa veces el valor diario de la Unidad de Medida y Actualización vigente y no se hayan causado lesiones.
 
 c) Que alguna persona mayor de dieciocho años, con reconocida solvencia moral y arraigo se obligue a supervisar y cuidar que el beneficiado cumpla con las condiciones impuestas al momento de su liberación, la cual deberá residir en la misma localidad a la que se integrará el beneficiado dentro del Estado de México.
 
@@ -388,3 +390,21 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
