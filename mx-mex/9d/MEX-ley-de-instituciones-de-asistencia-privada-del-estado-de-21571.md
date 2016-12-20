@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-instituciones-de-asistencia-privada-del-estado-de-21571"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-12"
-last_updated: "2015-08-06"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno, el 12 de junio de 2001.
 
@@ -337,7 +337,13 @@ III. La clase de actos de asistencia privada que desee prestar y las actividades
 
 IV. El patrimonio con el que se constituya la institución y, en su caso, el inventario de los bienes que lo constituyan. En el caso de las asociaciones, deberán establecer la cuota y la forma de cómo la habrán de cubrir los asociados, su periodicidad y la forma de modificar las aportaciones.
 
-Para la constitución de una fundación se requiere la aportación de bienes equivalentes, por lo menos, a mil salarios mínimos vigentes en la zona geográfica en donde se constituya. Tratándose de asociaciones deberá aportarse para su constitución el equivalente a cien salarios mínimos vigentes en la zona geográfica de que se trate.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Para la constitución de una fundación se requiere la aportación de bienes equivalentes, por lo menos, a mil veces el valor diario de la Unidad de Medida y Actualización vigente a la fecha en que se declare su constitución.
+
+> <small>(ADICIONADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de asociaciones deberá aportarse para su constitución el equivalente a cien veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 V. La designación de las personas que vayan a fungir como patronos y la manera de substituirlas. El patronato siempre deberá estar integrado por un mínimo de cinco miembros, salvo cuando sea ejercido por el propio fundador;
 
@@ -991,7 +997,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 6 DE AGOSTO DE 2015.
 
@@ -1006,3 +1012,19 @@ CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamen
 QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
