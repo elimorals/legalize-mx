@@ -4,7 +4,7 @@ identifier: "MEX-ley-registral-para-el-estado-de-mexico-82739"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2016-10-18"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY REGISTRAL PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el jueves 18 de agosto de 2011.
 
@@ -1229,9 +1229,11 @@ II. Por no anotar los avisos a que se refiere la presente Ley; y
 
 III. Cuando sin causa justificada se niegue la atención a los usuarios del servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 111.
 
-Se sancionará al Director General, a los Registradores y a los demás servidores adscritos al Instituto, con multa de uno a doce meses de salario mínimo general vigente correspondiente al área geográfica “A”, en el momento del incumplimiento:
+Se sancionará al Director General, a los Registradores y a los demás servidores adscritos al Instituto, con multa de uno a doce veces el valor mensual de la Unidad de Medida y Actualización vigente en el momento del incumplimiento:
 
 I. Por reincidir, en la comisión de alguna de las faltas a que se refiere el artículo anterior; y
 
@@ -1442,3 +1444,19 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
