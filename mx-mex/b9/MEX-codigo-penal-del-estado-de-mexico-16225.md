@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2016-09-13"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -363,6 +363,8 @@ SUBTITULO PRIMERO
 
 ### CAPITULO II. MULTA
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2004)</small>
 
 ###### Artículo 24.
@@ -376,6 +378,8 @@ En los delitos continuados se atenderá al salario mínimo vigente en el momento
 En caso de insolvencia del sentenciado, la autoridad judicial la sustituirá, total o parcialmente, por prestación de trabajo en favor de la comunidad, saldándose un día multa por cada jornada de trabajo.
 
 En caso de insolvencia e incapacidad física del sentenciado, la autoridad judicial sustituirá la multa por el confinamiento, saldándose un día multa por cada día de confinamiento.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
 
 ###### Artículo 25.
 
@@ -454,6 +458,8 @@ Los comprendidos en el artículo 16, estarán obligados en todo caso a la repara
 La reparación del daño proveniente del delito que deba cubrir el sentenciado tiene el carácter de pena pública; el Ministerio Público deberá acreditar su procedencia y monto, estando obligado a solicitarla íntegramente, sin menoscabo de que lo pueda solicitar directamente la víctima o el ofendido, en términos del Código de Procedimientos Penales y otros ordenamientos legales aplicables.
 
 Quien se considere con derecho a la reparación del daño y no pueda obtenerla ante el órgano jurisdiccional penal en virtud de sobreseimiento o sentencia absolutoria, o del no ejercicio de la acción penal por el Ministerio Público, podrá recurrir a la vía civil en los términos de la legislación correspondiente.
+
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
 
 > <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -973,7 +979,9 @@ VI. Que el sentenciado se adhiera al beneficio dentro de los treinta días sigui
 
 VII. Tratándose de la fracción IX del artículo 70, además de los requisitos anteriores deberá observarse lo siguiente:
 
-a) Tratándose del delito de robo con violencia solo cuando el monto de lo robado sea de hasta noventa veces el salario mínimo general vigente y no se hayan causado lesiones de las comprendidas en las fracciones II o III del artículo 237 o del 238, de este Código;
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+a) Tratándose del delito de robo con violencia solo cuando el monto de lo robado sea de hasta noventa veces el valor diario de la Unidad de Medida y Actualización vigente y no se hayan causado lesiones de las comprendidas en las fracciones II o III del artículo 237 o del 238, de este Código.
 
 b) Que compruebe contar en el exterior con un ofrecimiento de trabajo, un oficio, arte o profesión que le permita tener ingresos, o exhiba las constancias que acrediten que continuará estudiando;
 
@@ -1139,7 +1147,9 @@ Artículo 83 bis.- El beneficio de la libertad condicionada al sistema de locali
 
 I. Que sea delincuente primario;
 
-II. Tratándose del delito de robo con violencia solo cuando el monto de lo robado sea de hasta noventa veces el salario mínimo general vigente y no se hayan causado lesiones de las comprendidas en la fracción III del artículo 237 o del 238, de este Código;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Tratándose del delito de robo con violencia solo cuando el monto de lo robado sea de hasta noventa veces el valor diario de la Unidad de Medida y Actualización vigente y no se hayan causado lesiones de las comprendidas en la fracción III del artículo 237 o del 238, de este Código;
 
 III. Que la pena privativa de libertad sea desde tres años hasta quince años;
 
@@ -1621,9 +1631,13 @@ Comete el delito de cohecho, el particular que ofrezca, prometa o entregue diner
 
 Al que cometa este delito se le impondrán las siguientes sanciones:
 
-I. De seis meses a tres años de prisión y de treinta a trescientos días multa, cuando el beneficio obtenido o la cantidad o el valor de la dádiva o promesa, no exceda del equivalente de noventa veces el salario mínimo diario general vigente en la zona económica donde se comete el delito, o no sean cuantificables; y
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. De tres a ocho años de prisión y de quinientos a un mil días multa, cuando el beneficio obtenido o la cantidad o el valor de la dádiva o promesa, exceda de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito.
+I. De seis meses a tres años de prisión y de treinta a trescientos días multa, cuando el beneficio obtenido o la cantidad o el valor de la dádiva o promesa, no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, o no sean cuantificables.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. De tres a ocho años de prisión y de quinientos a un mil días multa, cuando el beneficio obtenido o la cantidad o el valor de la dádiva o promesa, exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 No será sancionado el particular que denuncie ante el Ministerio Público dentro de los quince días siguientes a los hechos, la entrega que haya efectuado a un servidor público de dinero o cualquier otra dádiva cuando éste lo hubiera solicitado o lo incitara a ello.
 
@@ -1633,13 +1647,13 @@ Incurre en el delito de cohecho, el servidor público que solicite u obtenga par
 
 Al servidor público que cometa este delito, se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. De uno a tres años de prisión y de treinta a trescientos días multa, destitución e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos, cuando el beneficio obtenido o la cantidad o el valor de la dádiva no exceda el equivalente de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito, o no sean cuantificables; y
+I. De uno a tres años de prisión y de treinta a trescientos días multa, destitución e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos, cuando el beneficio obtenido o la cantidad o el valor de la dádiva no exceda el equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, o no sean cuantificables.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. De cuatro a diez años de prisión, de quinientos a un mil días multa, destitución e inhabilitación de ocho a veinte años para desempeñar empleo, cargo o comisión públicos, cuando el beneficio obtenido o la cantidad o el valor de la dádiva exceda de noventa veces el salario mínimo diario general vigente en la zona económica donde se comete el delito.
+II. De cuatro a diez años de prisión, de quinientos a un mil días multa, destitución e inhabilitación de ocho a veinte años para desempeñar empleo, cargo o comisión públicos, cuando el beneficio obtenido o la cantidad o el valor de la dádiva exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 130.
 
@@ -1813,13 +1827,13 @@ Comete el delito de abuso de autoridad con contenido patrimonial, el servidor p�
 
 Al que cometa este delito, se le impondrán las siguiente (sic) sanciones:
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. De uno a tres años de prisión y de treinta a trescientos días multa, destitución e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo obtenido no exceda del equivalente de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito, o no sea cuantificable; y
+I. De uno a tres años de prisión y de treinta a trescientos días multa, destitución e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo obtenido no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, o no sea cuantificable.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. De tres a ocho años de prisión, de quinientos a un mil días multa, destitución e inhabilitación de seis a dieciséis años para desempeñar empleo, cargo o comisión públicos cuando la cantidad o el valor de lo obtenido exceda de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito.
+II. De tres a ocho años de prisión, de quinientos a un mil días multa, destitución e inhabilitación de seis a dieciséis años para desempeñar empleo, cargo o comisión públicos cuando la cantidad o el valor de lo obtenido exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -1833,11 +1847,13 @@ II. Obligue a uno o más de sus subalternos a realizar cualquier acto que le rep
 
 Al que cometa este delito, se le impondrán las sanciones siguientes:
 
-I. De uno a cinco años de prisión y de treinta a quinientos días multa, destitución, e inhabilitación de dos a siete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido no exceda del equivalente de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito, o no sea cuantificable;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 26 DE ENERO DE 2015)</small>
+I. De uno a cinco años de prisión y de treinta a quinientos días multa, destitución, e inhabilitación de dos a siete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, o no sea cuantificable.
 
-II. De ocho a doce años de prisión y de mil a mil quinientos días multa, destitución, e inhabilitación de siete a diecisiete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido exceda de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. De ocho a doce años de prisión y de mil a mil quinientos días multa, destitución, e inhabilitación de siete a diecisiete años para desempeñar empleo, cargo o comisión en el servicio público, cuando la cantidad o el valor de lo obtenido exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ### CAPITULO XI. TRAFICO DE INFLUENCIA
 
@@ -1847,13 +1863,13 @@ Incurre en el delito de tráfico de influencia, el servidor público que por sí
 
 Al que cometa este delito se le impondrán las siguientes sanciones.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. De uno a tres años de prisión y de treinta a trescientos días multa, destitución e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos, cuando el beneficio económico no exceda del equivalente de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito, o no sea cuantificable; y
+I. De uno a tres años de prisión y de treinta a trescientos días multa, destitución e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos, cuando el beneficio económico no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, o no sea cuantificable.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. De tres a ocho años de prisión, de quinientos a un mil días multa, destitución e inhabilitación de seis a dieciséis años para desempeñar empleo, cargo o comisión públicos, cuando el beneficio económico exceda de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito.
+II. De tres a ocho años de prisión, de quinientos a un mil días multa, destitución e inhabilitación de seis a dieciséis años para desempeñar empleo, cargo o comisión públicos, cuando el beneficio económico exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ### CAPITULO XII. CONCUSION
 
@@ -1863,13 +1879,13 @@ Comete el delito de concusión el servidor público que a título de impuesto, c
 
 Al que cometa este delito, se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. De uno a tres años de prisión y de treinta a quinientos días de multa, destitución e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo exigido no exceda del equivalente de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito, o no sean cuantificables; y
+I. De uno a tres años de prisión y de treinta a quinientos días de multa, destitución e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo exigido no exceda del equivalente de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, o no sean cuantificables.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. De tres a nueve años de prisión, de quinientos a un mil días multa, destitución y se inhabilitará de seis a dieciocho años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo exigido exceda de noventa veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito.
+II. De tres a nueve años de prisión, de quinientos a un mil días multa, destitución y se inhabilitará de seis a dieciocho años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo exigido exceda de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 ### CAPITULO XIII. PECULADO
 
@@ -1879,13 +1895,13 @@ Comete el delito de peculado, el servidor público que disponga en beneficio pro
 
 Al que cometa este delito, se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. De uno a tres años de prisión y de treinta a setenta y cinco días multa, destitución e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo que se haya dispuesto no exceda del equivalente de mil veces el salario mínimo diario general vigente en la zona económica donde se cometa el delito, o no sea cuantificable; y
+I. De uno a tres años de prisión y de treinta a setenta y cinco días multa, destitución e inhabilitación de dos a seis años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo que se haya dispuesto no exceda del equivalente de mil veces el valor diario de la Unidad de Medida y Actualización vigente, o no sea cuantificable.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. De tres a diez años de prisión, de setenta y cinco a doscientos días multa, destitución e inhabilitación de seis a veinte años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo que se haya dispuesto, exceda de mil veces el salario mínimo general vigente en la zona económica donde se cometa el delito.
+II. De tres a diez años de prisión, de setenta y cinco a doscientos días multa, destitución e inhabilitación de seis a veinte años para desempeñar empleo, cargo o comisión públicos, cuando la cantidad o el valor de lo que se haya dispuesto, exceda de mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 La disposición de bienes para asegurar su conservación y evitar su destrucción y siempre que se destinen a la función pública, no será sancionada.
 
@@ -2029,13 +2045,11 @@ Este delito se perseguirá de oficio.
 
 ### CAPITULO XXI. AUTORIZACIÓN DE BAILE CON CONTENIDO SEXUAL EN UNIDADES ECONÓMICAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 148 Quáter.
 
-A la autoridad, al propietario, al titular, al responsable o al encargado de una unidad económica que autorice o permita el baile de hombres y/o mujeres desnudos y/o semidesnudos con mensaje explícito de carácter erótico y/o sexual para el público asistente, se le impondrá de cinco a diez años de prisión y una multa de mil a mil quinientos días de salario mínimo vigente en la zona geográfica que corresponda.
+A la autoridad, al propietario, al titular, al responsable o al encargado de una unidad económica que autorice o permita el baile de hombres y/o mujeres desnudos y/o semidesnudos con mensaje explícito de carácter erótico y/o sexual para el público asistente, se le impondrá de cinco a diez años de prisión y de mil a mil quinientos días multa.
 
 SUBTITULO TERCERO
 
@@ -2219,7 +2233,9 @@ De concretarse el perjuicio o los beneficios referidos en el párrafo anterior, 
 
 Cuando en la comisión de este delito participe un profesional del derecho, perito o litigante legalmente autorizado, además de las penas anteriores, se le suspenderá el derecho de ejercer la actividad indicada por un término igual al de la prisión impuesta.
 
-Este delito se perseguirá por querella, salvo que la cuantía o monto del litigio exceda de cinco mil veces el salario mínimo general vigente en el Estado de México, al momento de realizarse el hecho.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Este delito se perseguirá por querella, salvo que la cuantía o monto del litigio exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente, al momento de realizarse el hecho.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -2282,6 +2298,8 @@ A los inculpados de los delitos previstos en las fracciones VII a la XIII, se le
 ### CAPITULO VII
 
 DELITOS CONTRA EL CORRECTO FUNCIONAMIENTO DE LAS INSTITUCIONES DE SEGURIDAD PUBLICA Y ORGANOS JURISDICCIONALES, Y DE LA SEGURIDAD DE LOS SERVIDORES PUBLICOS Y PARTICULARES
+
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2012)</small>
 
@@ -2449,9 +2467,11 @@ Se impondrán de dos a seis años de prisión y de treinta a trescientos cincuen
 
 ### CAPITULO IV. FALSIFICACION Y UTILIZACION INDEBIDA DE TITULOS AL PORTADOR, DOCUMENTOS DE CREDITO PUBLICO Y DOCUMENTOS RELATIVOS AL CREDITO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 174.
 
-Se impondrán de cuatro a diez años de prisión y de ciento cincuenta a quinientos días de salario mínimo de multa al que:
+Se impondrán de cuatro a diez años de prisión y de ciento cincuenta a quinientos días multa al que:
 
 I. Produzca, imprima, enajene aún gratuitamente, distribuya, altere o falsifique tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo, sin consentimiento de quien esté facultado para ello;
 
@@ -2535,15 +2555,19 @@ Comete este delito el que usare credenciales o cualquier medio de identificació
 
 ### CAPITULO VIII. SIMULACION DE VEHICULO OFICIAL PERTENECIENTE A INSTITUCIONES DE SEGURIDAD PUBLICA O AL SERVICIO PUBLICO DE EMERGENCIA
 
-> <small>(ADICIONADO, G.G. 8 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 177 Bis.
 
-A quien utilice un vehículo automotor no oficial con balizaje, colores o equipamiento originales, falsificados o con apariencia tal que se asemeje a los de uso exclusivo para vehículos de instituciones de seguridad pública o del servicio público de emergencia; se le impondrá una pena de dos a seis años de prisión y multa de doscientos a cuatrocientos días de salario mínimo general vigente en la zona geográfica que corresponda.
+A quien utilice un vehículo automotor no oficial con balizaje, colores o equipamiento originales, falsificados o con apariencia tal que se asemeje a los de uso exclusivo para vehículos de instituciones de seguridad pública o del servicio público de emergencia; se le impondrá una pena de dos a seis años de prisión y de doscientos a cuatrocientos días multa.
+
+> <small>(ADICIONADO, G.G. 8 DE MAYO DE 2015)</small>
 
 La pena prevista en este artículo se incrementará hasta una mitad de la que corresponda si el vehículo se utilizó para cometer algún delito, sin perjuicio de las penas que correspondan por la comisión del delito diverso.
 
-Cuando en el delito cometido esté implicado un servidor público se impondrá de cuatro a ocho años de prisión y multa de trescientos a seiscientos días de salario mínimo general vigente en la zona geográfica que corresponda, así como inhabilitación para desempañar (sic) algún empleo, cargo o comisión en el servicio público por un plazo igual a la pena privativa de libertad impuesta.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Cuando en el delito cometido esté implicado un servidor público se impondrá de cuatro a ocho años de prisión y de trescientos a seiscientos días multa, así como inhabilitación para desempeñar algún empleo, cargo o comisión en el servicio público por un plazo igual a la pena privativa de libertad impuesta.
 
 ## TITULO SEGUNDO. DELITOS CONTRA LA COLECTIVIDAD
 
@@ -2765,6 +2789,8 @@ Al que, para la ejecución de los hechos a que se refieren los artículos anteri
 
 ### CAPITULO II. DELITOS CONTRA EL TRABAJO Y LA PREVISION SOCIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO QUINTO DEL DECRETO NÚMERO 178, PUBLICADO EN LA G.G. 20 DE OCTUBRE DE 2016, LAS REFERENCIAS AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LOS REGLAMENTOS, ACUERDOS Y DEMÁS DISPOSICIONES JURÍDICAS SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
+
 ###### Artículo 197.
 
 Al que dolosamente abra o intercepte una comunicación escrita que no esté dirigida a él, se le impondrán de tres meses a un año de prisión y de treinta a sesenta días multa.
@@ -2877,9 +2903,7 @@ DELITOS CONTRA EL PLENO DESARROLLO Y LA DIGNIDAD DE LA PERSONA
 
 ### CAPITULO IV. DISCRIMINACION
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 204.
 
@@ -2995,7 +3019,7 @@ Si los delitos de que hablan los artículos anteriores fueran cometidos al ampar
 
 ###### Artículo 211.
 
-Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y multa de cincuenta a doscientos días al que, por razón de origen étnico o nacional, género, edad, discapacidades, condición social, trabajo o profesión, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o alguna otra que atente contra la dignidad humana y tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos fundamentales en condiciones de equidad e igualdad de oportunidades y de trato a las personas:
+Se impondrán de uno a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y de cincuenta a doscientos días multa al que, por razón de origen étnico o nacional, género, edad, discapacidades, condición social, trabajo o profesión, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o alguna otra que atente contra la dignidad humana y tenga por efecto impedir, menoscabar o anular el reconocimiento o el ejercicio de los derechos fundamentales en condiciones de equidad e igualdad de oportunidades y de trato a las personas:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -3157,7 +3181,7 @@ Además de las sanciones señaladas, se privará de los derechos de la patria po
 
 ### CAPÍTULO III. MALTRATO ANIMAL
 
-> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 220.
 
@@ -3349,6 +3373,8 @@ Se perseguirán de oficio las conductas establecidas en el artículo 228, fracci
 
 ### CAPITULO IV. AUXILIO O INDUCCION AL SUICIDIO
 
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 235.
 
 Al que intencionalmente y en contravención a las disposiciones legales en materia de protección a la flora y la fauna o normas técnicas relacionadas con esta materia de competencia estatal:
@@ -3387,17 +3413,21 @@ La reparación del daño respecto de los delitos contenidos en este subtítulo, 
 
 ###### Artículo 235 Bis.
 
-Comete el delito de maltrato animal, el que cause lesiones dolosas a cualquier animal que no constituya plaga, y se le impondrá pena de seis meses a dos años de prisión y multa de cincuenta a ciento cincuenta días de salario mínimo general vigente en la zona geográfica que corresponda.
-
-La pena prevista en el párrafo anterior también se aplicará a quien abandone a cualquier animal de tal manera que quede expuesto a riesgos que amenacen su integridad, la de otros animales o de las personas.
-
-A quien realice actos eróticos sexuales a un animal o le introduzca por vía vaginal o rectal el miembro viril, cualquier parte del cuerpo, objeto o instrumento se le impondrán de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+Comete el delito de maltrato animal, el que cause lesiones dolosas a cualquier animal que no constituya plaga, y se le impondrá pena de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
+La pena prevista en el párrafo anterior también se aplicará a quien abandone a cualquier animal de tal manera que quede expuesto a riesgos que amenacen su integridad, la de otros animales o de las personas.
+
+> <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
+
+A quien realice actos eróticos sexuales a un animal o le introduzca por vía vaginal o rectal el miembro viril, cualquier parte del cuerpo, objeto o instrumento se le impondrán de seis meses a dos años de prisión y de cincuenta a ciento cincuenta días multa.
+
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 235 Ter.
 
-A quien cause la muerte no inmediata, utilizando cualquier medio que prolongue la agonía de cualquier animal que no constituya plaga, se le impondrá una pena de seis meses a tres años de prisión y multa de cien a doscientos días de salario mínimo general vigente en la zona geográfica que corresponda.
+A quien cause la muerte no inmediata, utilizando cualquier medio que prolongue la agonía de cualquier animal que no constituya plaga, se le impondrá una pena de seis meses a tres años de prisión y de cien a doscientos días multa.
 
 > <small>(ADICIONADO, G.G. 19 DE AGOSTO DE 2015)</small>
 
@@ -3415,17 +3445,7 @@ DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
 ### CAPITULO VI. MANIPULACION GENETICA
 
-> <small>(ADICIONADO, G.G. 27 DE DICIEMBRE DE 2007)</small>
-
-Artículo 251 BIS.- Se impondrán de dos a seis años de prisión, inhabilitación hasta por el mismo tiempo para desempeñar empleo, cargo o comisión públicos, profesión u oficio y multa hasta de trescientos días de salario, a quien:
-
-I. Con finalidad distinta a la eliminación o disminución de enfermedades graves o taras, manipule genes humanos de manera que se altere el genotipo;
-
-II. Fecunde óvulos humanos con cualquier fin distinto a la procreación humana; o
-
-III. Mediante la clonación u otros procedimientos, pretendan la creación de seres humanos.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 27 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 236.
 
@@ -3537,7 +3557,9 @@ I. Disponga de óvulos o esperma para fines distintos a los autorizados por sus 
 
 II. Implante a una mujer un óvulo fecundado, sin su consentimiento o sin el de los donantes o depositarios, aún con el consentimiento de una menor de edad o de un incapaz para comprender el hecho o para resistirlo.
 
-Este delito se perseguirá por querella. Si el delito se realiza con violencia o del mismo resultare un embarazo, la pena aplicable será de cinco a catorce años de prisión y multa hasta de quinientos días de salario.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Este delito se perseguirá por querella. Si el delito se realiza con violencia o del mismo resultare un embarazo, la pena aplicable será de cinco a catorce años de prisión y hasta de quinientos días multa.
 
 Además de las penas previstas, se impondrá privación del derecho para ejercer la profesión por un tiempo igual al de la pena de prisión impuesta. Si se trata de servidores públicos, se impondrán también, en los mismos términos, la destitución e inhabilitación de catorce a diecinueve años para el desempeño de empleo, cargo o comisión públicos.
 
@@ -3659,7 +3681,7 @@ Se impondrá la pena establecida en la fracción II del artículo 242 de este C�
 
 ###### Artículo 246.
 
-Al que preste auxilio o instigue a otro al suicidio, sin que este se produzca, se le impondrán de uno a cinco años de prisión y multa de veinte a cien días; y si se produce, se le impondrán de tres a diez años de prisión y de cincuenta a doscientos cincuenta días multa.
+Al que preste auxilio o instigue a otro al suicidio, sin que este se produzca, se le impondrán de uno a cinco años de prisión y de veinte a cien días multa; y si se produce, se le impondrán de tres a diez años de prisión y de cincuenta a doscientos cincuenta días multa.
 
 ###### Artículo 247.
 
@@ -3702,6 +3724,24 @@ IV. Cuando a juicio de dos médicos exista prueba suficiente para diagnosticar q
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 27 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO V. OMISION DE AUXILIO
+
+###### Artículo 251 Bis.
+
+Se impondrán de dos a seis años de prisión, inhabilitación hasta por el mismo tiempo para desempeñar empleo, cargo o comisión públicos, profesión u oficio y hasta de trescientos días multa, a quien:
+
+> <small>(ADICIONADA, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+I. Con finalidad distinta a la eliminación o disminución de enfermedades graves o taras, manipule genes humanos de manera que se altere el genotipo;
+
+> <small>(ADICIONADA, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+II. Fecunde óvulos humanos con cualquier fin distinto a la procreación humana; o
+
+> <small>(ADICIONADA, G.G. 27 DE DICIEMBRE DE 2007)</small>
+
+III. Mediante la clonación u otros procedimientos, pretendan la creación de seres humanos.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 27 DE DICIEMBRE DE 2007)</small>
 
 ### CAPITULO VI. DISPOSICIONES GENERALES
 
@@ -3765,7 +3805,7 @@ No incurre en este delito la mujer que dé en adopción, en los términos de las
 
 ### CAPITULO IV. SUSTRACCION DE HIJO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 255.
 
@@ -3943,7 +3983,7 @@ Si el menor es restituido espontáneamente a su familia o a la autoridad dentro 
 
 ###### Artículo 263.
 
-Al padre o la madre que se apodere de su hijo menor de edad o familiares que participen en el apoderamiento, respecto del cual no ejerza la patria potestad o la custodia, privando de este derecho a quien legítimamente lo tenga, o a quién aún sin saber la determinación de un Juez sobre el ejercicio (sic) la patria potestad o la custodia, impida al otro progenitor ver y convivir con el menor, se le impondrán de uno a cinco años de prisión y multa de cuarenta a ciento veinticinco días.
+Al padre o la madre que se apodere de su hijo menor de edad o familiares que participen en el apoderamiento, respecto del cual no ejerza la patria potestad o la custodia, privando de este derecho a quien legítimamente lo tenga, o a quién aún sin saber la determinación de un Juez sobre el ejercicio la patria potestad o la custodia, impida al otro progenitor ver y convivir con el menor, se le impondrán de uno a cinco años de prisión y de cuarenta a ciento veinticinco días multa.
 
 Este delito se perseguirá por querella.
 
@@ -4143,9 +4183,13 @@ En estos casos se impondrán penas de un año a cuatro años de prisión y de ci
 
 Comete el delito de abuso sexual:
 
-I. Quien ejecute en una persona un acto erótico o sexual sin su consentimiento y sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de dos a cuatro años de prisión y de doscientos a cuatrocientos días de multa de salario mínimo.
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Quien ejecute en una persona menor de edad o que no tenga la capacidad de comprender las cosas o de resistir al hecho, un acto erótico o sexual sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de ocho a quince años de prisión y de quinientos a mil días de multa de salario mínimo.
+I. Quien ejecute en una persona un acto erótico o sexual sin su consentimiento y sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de dos a cuatro años de prisión y de doscientos a cuatrocientos días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Quien ejecute en una persona menor de edad o que no tenga la capacidad de comprender las cosas o de resistir al hecho, un acto erótico o sexual sin el propósito de llegar a la cópula o a quien lo realice en su presencia o haga ejecutarlo para sí o en otra persona. A quien cometa este delito, se le impondrá pena de ocho a quince años de prisión y de quinientos a mil días multa.
 
 ### CAPITULO VI. DISPOSICIONES GENERALES
 
@@ -4483,7 +4527,9 @@ Para estimar la cuantía del robo, se atenderá únicamente al valor intrínseco
 
 El delito de robo podrá acreditarse cuando se detenga al sujeto en posesión de la cosa ajena mueble desapoderada sin consentimiento y sin derecho de quien legítimamente pueda disponer de él, y el imputado no acredite la adquisición lícita del mismo.
 
-Para efectos de este capítulo, se entiende, por salario mínimo diario, el que se encuentre vigente en la zona económica, al momento de cometerse el delito.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Para efectos de este capítulo, se entiende por Unidad de Medida y Actualización, a la unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos vigente al momento de cometerse el delito.
 
 ###### Artículo 288.
 
@@ -4499,25 +4545,25 @@ III. Se encuentre un bien perdido y no lo devuelva a su dueño, sabiendo quién 
 
 El delito de robo se sancionará en los siguientes términos:
 
-> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-I. Cuando el valor de lo robado no exceda de treinta veces el salario mínimo, se impondrán de seis meses a dos años de prisión y de cincuenta a cien días multa;
+I. Cuando el valor de lo robado no exceda de treinta veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de seis meses a dos años de prisión y de cincuenta a cien días multa.
 
-> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Cuando el valor de lo robado exceda de treinta pero no de noventa veces el salario mínimo, se impondrán de uno a tres años de prisión y de cien a ciento cincuenta días multa;
+II. Cuando el valor de lo robado exceda de treinta pero no de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de uno a tres años de prisión y de cien a ciento cincuenta días multa.
 
-> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-III. Cuando el valor de lo robado exceda de noventa pero no de cuatrocientas veces el salario mínimo, se impondrán de dos a cuatro años de prisión y de ciento cincuenta a doscientos días multa;
+III. Cuando el valor de lo robado exceda de noventa pero no de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de dos a cuatro años de prisión y de ciento cincuenta a doscientos días multa.
 
-> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. Cuando el valor de lo robado exceda de cuatrocientos pero no de dos mil veces el salario mínimo, se impondrán de cuatro a ocho años de prisión y de doscientos a doscientos cincuenta días multa;
+IV. Cuando el valor de lo robado exceda de cuatrocientas pero no de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de cuatro a ocho años de prisión y de doscientos a doscientos cincuenta días multa.
 
-> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-V. Cuando el valor de lo robado exceda de dos mil veces el salario mínimo, se impondrán de seis a doce años de prisión y de doscientos cincuenta a trescientos días multa; y
+V. Cuando el valor de lo robado exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de seis a doce años de prisión y de doscientos cincuenta a trescientos días multa.
 
 VI. Si por alguna circunstancia la cuantía del robo no fuere estimable en dinero o si por su naturaleza no se hubiere fijado su valor, se impondrán de uno a cinco años de prisión y de cincuenta a ciento veinticinco días multa.
 
@@ -4541,7 +4587,9 @@ c) Sobre los bienes: cuando para perpetrar el delito se rompa una o varias pared
 
 Igualmente, se considera violencia la que utiliza el sujeto activo sobre persona o personas distintas del sujeto pasivo o sobre sus bienes, con el propósito de consumar el delito o lo que se realice después de ejecutado este, para propiciarse la fuga o quedarse con lo robado.
 
-Esta conducta se considerará como delito grave, cuando el monto de lo robado exceda de ciento cincuenta veces el salario mínimo o que se causen lesiones de las previstas en los artículos 237, fracciones II y III y 238, fracciones III, IV y V de este Código.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Esta conducta se considerará como delito grave, cuando el monto de lo robado exceda de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente o que se causen lesiones de las previstas en los artículos 237, fracciones II y III y 238, fracciones III, IV y V de este Código.
 
 > <small>(REFORMADA, G.G. 16 DE JUNIO DE 2016)</small>
 
@@ -4661,7 +4709,9 @@ No será punible el delito de robo:
 
 I. Cuando sin emplear la violencia, alguien se apodera por una sola vez de los objetos estrictamente indispensables para satisfacer sus necesidades personales o familiares del momento;
 
-II. Cuando el valor de lo robado no exceda de veinte veces el salario mínimo vigente en la zona económica en donde se cometió, se restituya el bien espontáneamente por el sujeto activo, se paguen los daños y perjuicios ocasionados, no se ejecute con alguna de las circunstancias a que se refieren las fracciones II a V del artículo 290 de este código y aún no tome conocimiento del delito la autoridad;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Cuando el valor de lo robado no exceda de veinte veces el valor diario de la Unidad de Medida y Actualización vigente, se restituya el bien espontáneamente por el sujeto activo, se paguen los daños y perjuicios ocasionados, no se ejecute con alguna de las circunstancias a que se refieren las fracciones II a V del artículo 290 de este código y aún no tome conocimiento del delito la autoridad.
 
 III. Cuando se cometa por un ascendiente en contra de su descendiente o viceversa, por un cónyuge contra el otro, por el concubinario contra la concubina o viceversa o por el adoptante contra el adoptado o viceversa; y
 
@@ -4765,15 +4815,25 @@ IV. Quien no siendo servidor público disponga o distraiga de los bienes públic
 
 El delito de abuso de confianza se sancionará en los siguientes términos:
 
-I. Cuando no exceda de treinta veces el salario mínimo, se impondrán de seis meses a dos años de prisión o de treinta a sesenta días multa;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Cuando exceda de treinta pero no de noventa veces el salario mínimo, se impondrán de uno a tres años de prisión o de cuarenta a setenta y cinco días multa;
+I. Cuando no exceda de treinta veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de seis meses a dos años de prisión o de treinta a sesenta días multa.
 
-III. Cuando exceda de noventa pero no de cuatrocientas veces el salario mínimo, se impondrán de dos a cuatro años de prisión y de cincuenta a cien días multa;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. Cuando exceda de cuatrocientos pero no de dos mil veces el salario mínimo, se impondrán de cuatro a ocho años de prisión y de cien a doscientos días multa;
+II. Cuando exceda de treinta pero no de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de uno a tres años de prisión o de cuarenta a setenta y cinco días multa.
 
-V. Cuando exceda de dos mil veces el salario mínimo, se impondrán de seis a doce años de prisión y de ciento cincuenta a trescientos días multa; y
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Cuando exceda de noventa pero no de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de dos a cuatro años de prisión y de cincuenta a cien días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Cuando exceda de cuatrocientas pero no de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de cuatro a ocho años de prisión y de cien a doscientos días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+V. Cuando exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de seis a doce años de prisión y de ciento cincuenta a trescientos días multa.
 
 VI. Si por alguna circunstancia la cuantía del abuso de confianza no pudiere ser determinada, se impondrán de uno a cinco años de prisión y de treinta a ciento veinticinco días multa.
 
@@ -4845,15 +4905,25 @@ XX. El que posea vales de papel o impresos o cualquier dispositivo en forma de t
 
 El delito de fraude se sanciona con las penas siguientes:
 
-I. De seis meses a dos años de prisión o de treinta a sesenta días multa, cuando el valor de lo defraudado no exceda de quince veces el salario mínimo;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. De uno a cuatro años de prisión o de cuarenta a cien días multa, cuando el valor de lo defraudado exceda de quince, pero no de noventa veces el salario mínimo;
+I. De seis meses a dos años de prisión o de treinta a sesenta días multa, cuando el valor de lo defraudado no exceda de quince veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-III. De dos a seis años de prisión y de cincuenta a ciento cincuenta días multa, cuando el valor de lo defraudado exceda de noventa pero no de seiscientas veces el salario mínimo;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. De cuatro a ocho años de prisión y de cien a doscientos días multa, cuando el valor de lo defraudado exceda de seiscientos pero no de tres mil quinientas veces el salario mínimo;
+II. De uno a cuatro años de prisión o de cuarenta a cien días multa, cuando el valor de lo defraudado exceda de quince, pero no de noventa veces el valor diario de la Unidad de Medida y Actualización vigente.
 
-V. De seis a doce años de prisión y de ciento cincuenta a trescientos días multa cuando el valor de lo defraudado exceda de tres mil quinientas veces el salario mínimo; y
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. De dos a seis años de prisión y de cincuenta a ciento cincuenta días multa, cuando el valor de lo defraudado exceda de noventa pero no de seiscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. De cuatro a ocho años de prisión y de cien a doscientos días multa, cuando el valor de lo defraudado exceda de seiscientas pero no de tres mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+V. De seis a doce años de prisión y de ciento cincuenta a trescientos días multa cuando el valor de lo defraudado exceda de tres mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 VI. Si por alguna circunstancia la cuantía de lo defraudado no pudiere ser determinada, se impondrán de uno a cinco años de prisión y de treinta a ciento veinticinco días multa.
 
@@ -4905,15 +4975,25 @@ Las diligencias practicadas por la autoridad que conozca de los hechos en primer
 
 A los responsables de este delito se les sancionará en los siguientes términos:
 
-I. Cuando no exceda de quince veces el salario mínimo, se impondrán de seis meses a dos años de prisión o de treinta a sesenta días multa;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Cuando exceda de quince pero no de noventa veces el salario mínimo, se impondrán de uno a tres años de prisión o de cuarenta a ochenta días multa;
+I. Cuando no exceda de quince veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de seis meses a dos años de prisión o de treinta a sesenta días multa.
 
-III. Cuando exceda de noventa pero no de cuatrocientas veces el salario mínimo, se impondrán de dos a cuatro años de prisión y de cincuenta a cien días multa;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. Cuando exceda de cuatrocientos pero no de dos mil veces el salario mínimo, se impondrán de cuatro a ocho años de prisión y de cien a doscientos días multa;
+II. Cuando exceda de quince pero no de noventa veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de uno a tres años de prisión o de cuarenta a ochenta días multa.
 
-V. Cuando exceda de dos mil veces el salario mínimo, se impondrán de seis a doce años de prisión y de ciento cincuenta a trescientos días multa; y
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Cuando exceda de noventa pero no de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de dos a cuatro años de prisión y de cincuenta a cien días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Cuando exceda de cuatrocientas pero no de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de cuatro a ocho años de prisión y de cien a doscientos días multa.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+V. Cuando exceda de dos mil veces el valor diario de la Unidad de Medida y Actualización vigente, se impondrán de seis a doce años de prisión y de ciento cincuenta a trescientos días multa.
 
 VI. Si por alguna circunstancia la cuantía del daño en los bienes no pudiere ser determinada, se impondrán de uno a cinco años de prisión y de treinta a ciento veinticinco días multa.
 
@@ -6308,3 +6388,19 @@ G.G. 13 DE SEPTIEMBRE DE 2016.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
