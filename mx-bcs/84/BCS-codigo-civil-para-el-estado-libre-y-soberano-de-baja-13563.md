@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2016-10-31"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -4301,7 +4301,9 @@ Por causa de ausencia, no se suspenden los términos que fija la ley para la pre
 
 Son objeto del patrimonio de familia:
 
-I.- La casa habitación de la familia; y
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+I.- La casa habitación de la familia y la superficie total del lote de terreno donde se encuentre esta;
 
 II.- En algunos casos, una parcela cultivable.
 
@@ -4325,6 +4327,10 @@ VI.- Tratándose de familias que dependan económicamente de un profesionista, t
 
 VII.- Tratándose de trabajadores del volante y transportistas, cuando constituya la única fuente de ingresos, el vehículo de su propiedad en que presta el servicio público, siempre y cuando sea dueño de un solo vehículo y el derecho a la concesión de las placas, cuando sea titular de una sola concesión.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+Bastará que se presente ante el Juez y este verifique que se cumplieron los requisitos, quedando obligado el juzgador a emitir la resolución en un término no mayor de 15 días.
+
 ###### Artículo 736.
 
 La constitución de patrimonio de familia no hace pasar la propiedad de los bienes que queden afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente.
@@ -4345,25 +4351,29 @@ Los bienes afectos al régimen de patrimonio de familia, son inalienables y no e
 
 Puede constituirse el patrimonio de familia con un bien inmueble gravado con garantía hipotecaria, cuando ésta se constituya para garantizar el pago del crédito por el cual se adquirió el propio inmueble, siempre que se haga referencia a este gravamen en la solicitud respectiva. En este caso, el acreedor hipotecario no sufrirá ninguna afectación de sus derechos, pero no podrá afectarse el patrimonio por deudas posteriores a su inscripción.
 
-> <small>(ADICIONADO, B.O. 27 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
-En los términos indicados en el párrafo que antecede los bienes inmuebles que hayan sido adquiridos mediante créditos de vivienda otorgados por el Instituto de Vivienda del Estado de Baja California Sur o derivados de programas de vivienda de interés social de carácter estatal o federal, y cuando el valor del bien inmueble no rebase el importe señalado en el artículo 741, se considerará como Patrimonio de Familia, sin necesidad de acudir previamente ante Juez o Notario Público para obtener la declaratoria correspondiente.
+En los términos indicados en el párrafo que antecede los bienes inmuebles que hayan sido adquiridos mediante créditos de vivienda otorgados por el Instituto de Vivienda del Estado de Baja California Sur o derivados de programas de vivienda de interés social de carácter estatal o federal, podrán considerar como Patrimonio de Familia, si el beneficiario así lo dispone y su voluntad se expresa en el título de propiedad.
 
-> <small>(ADICIONADO, B.O. 27 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
-Conforme a los requisitos señalados en el primer párrafo del presente artículo, los bienes inmuebles adquiridos mediante créditos de vivienda otorgados por el Instituto del Fondo de la Vivienda para los Trabajadores o el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, siempre y cuando el valor del bien inmueble no rebase el importe señalado en el artículo 741, se podrá realizar la constitución de Patrimonio de Familia, ante el Notario Público, al momento de la constitución del crédito con garantía hipotecaria.
+Conforme a los requisitos señalados en el primer párrafo del presente artículo, los bienes inmuebles adquiridos mediante créditos de vivienda otorgados por el Instituto del Fondo de la Vivienda para los Trabajadores o el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, se podrá realizar la constitución de Patrimonio de Familia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+Los Notarios quedan obligados a informar a los beneficiarios de estos créditos de tal prerrogativa, para que decidan si es su deseo constituirlos como tal, y éste quede establecido en la misma escritura.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 740.
 
-Sólo puede constituirse el patrimonio de familia, con bienes ubicados en el lugar en que esté domiciliado permanentemente el que lo constituya.
+Podrá constituirse el patrimonio de familia, con bienes ubicados en el lugar en que esté domiciliado permanentemente el que lo constituya, sin importar el valor de los bienes.
 
 Independientemente de la ubicación de los bienes, cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
-
 ###### Artículo 741.
 
-El valor máximo de avalúo de los bienes que integren el patrimonio de familia, conforme al artículo 735, será la cantidad que resulte de multiplicar 15,000 veces el valor diario de la Unidad de Medida y Actualización vigente en la época en que se constituya el patrimonio.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2016)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE ENERO DE 2014)</small>
 
@@ -4373,33 +4383,39 @@ El miembro de la familia que quiera constituir el patrimonio, deberá manifestar
 
 I.- Que es mayor de edad o que está emancipado;
 
-II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio de familia;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+II.- Que esta domiciliado en el lugar donde se quiere constituir el patrimonio de familia, bastando para ello una declaración del promovente bajo protesta de decir verdad
 
 III.- La existencia de la familia a cuyo favor desea constituir el patrimonio, designando a cada uno de sus miembros y demostrando los vínculos familiares a través de las certificaciones expedidas por el Registro Civil;
 
 IV.- Que son propiedad del constituyente los bienes destinados al patrimonio, y que no reportan gravámenes, fuera de las servidumbres o del supuesto a que refiere el segundo párrafo del artículo 739; y
 
-> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 2016)</small>
+V.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2016)
 
-V.- Que el valor de los bienes que van a constituir el patrimonio de familia, no excede de 15,000 veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO, B.O. 27 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 742 Bis.
 
-Las anotaciones y el registro que haga la Oficina del Registro Público de la Propiedad con motivo de este Título serán hechas sin gasto alguno para el interesado.
+Las anotaciones y el registro que haga la Oficina del Registro Público de la Propiedad con motivo de la constitución del Patrimonio Familiar se realizará de forma gratuita para el interesado.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 743.
 
-Si se llenan las condiciones exigidas en el artículo anterior, el Juez, cumplidos los trámites previstos en el Código de Procedimientos Civiles, aprobará la constitución del patrimonio de familia y mandará que se hagan las inscripciones correspondientes en el Registro Público de la Propiedad.
+Si se llenan las condiciones exigidas en el artículo 742, el Juez cumplidos los trámites previstos en el Código de Procedimientos Civiles, aprobará la constitución del patrimonio de familia y mandará que se hagan las inscripciones correspondientes en el Registro Público de la Propiedad.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 744.
 
-Cuando el valor de los bienes destinados al patrimonio de familia sea inferior al máximo fijado para su creación, podrá ampliarse hasta llegar a ese valor. La ampliación se sujetará al mismo procedimiento previsto para su constitución.
+Los bienes destinados al patrimonio de familia podrán ampliarse. La ampliación se sujetará al mismo procedimiento previsto para su constitución.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 745.
 
-Las personas que tienen derecho a disfrutar del patrimonio de familia, el tutor de los acreedores alimentarios o el Ministerio Público, pueden exigir judicialmente que se constituya el patrimonio de familia hasta por el máximo autorizado por la ley, sin necesidad de invocar causa alguna, cumpliendo con los requisitos previstos en este Título.
+Las personas que tienen derecho a disfrutar del patrimonio de familia, el tutor de los acreedores alimentarios o el Ministerio Publico, pueden exigir judicialmente que se constituya el patrimonio de familia, sin necesidad de invocar causa alguna, cumpliendo con los requisitos previstos en este Título.
 
 ###### Artículo 746.
 
@@ -4469,7 +4485,7 @@ Puede disminuirse el patrimonio de familia, por las siguientes causas:
 
 I.- Cuando se demuestre que su disminución es de gran necesidad o de notoria utilidad para la familia; y
 
-II.- Cuando el patrimonio familiar, por causas posteriores a su constitución, ha rebasado en más de un cien por ciento, el valor máximo que puede legalmente tener.
+II.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2016)
 
 ###### Artículo 754.
 
@@ -15692,3 +15708,13 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2397 SE REFORMAN LOS ARTÍCULOS 735, 739, 740, FRACCIÓN II DEL 742 Y 742 BIS, 743, 744 Y 745; SE DEROGAN EL ARTÍCULO 741, LA FRACCIÓN V DEL ARTÍCULO 742, FRACCIÓN II DEL ARTÍCULO 753 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- A las disposiciones contenidas en el presente Decreto, no le serán aplicables las contenidas en el artículo 27, fracción III, numeral 8 de la Ley de Derechos y Productos del Estado de Baja California Sur, por cuanto a la inscripción del Patrimonio Familiar.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
