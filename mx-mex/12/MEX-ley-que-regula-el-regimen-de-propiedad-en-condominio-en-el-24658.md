@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-el-regimen-de-propiedad-en-condominio-en-el-2465
 country: "mx"
 rank: "ley"
 publication_date: "2002-04-11"
-last_updated: "2016-08-10"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA EL REGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno, el 11 de abril de 2002.
 
@@ -175,7 +175,7 @@ Para la modificación se observará el mismo procedimiento que para su constituc
 
 ### CAPITULO TERCERO. DE LOS BIENES DE PROPIEDAD EXCLUSIVA Y DE LOS BIENES DE PROPIEDAD COMÚN
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 13.
 
@@ -385,7 +385,7 @@ Artículo 29 bis.- Tratándose de las asambleas de unidades habitacionales de m�
 
 En caso de asistir un representante por manzana, lote cerrada, privada, claustros o piso; éste deberá de presentar el acta de asamblea por el cual fue nombrado para tal efecto.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
 ###### Artículo 30.
 
@@ -539,23 +539,23 @@ El Síndico Municipal, será competente para desahogar los procedimientos arbitr
 
 ## TITULO PRIMERO. DE LAS SANCIONES
 
-> <small>(REFORMADO, G.G. 21 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 47.
 
-Los condóminos o residentes que incumplan con las obligaciones que les son impuestas por la presente Ley, el Reglamento Interior del Condominio o el acta constitutiva del condominio, podrán ser multados con salarios mínimos vigentes en la zona económica donde se encuentre el condominio con:
+Los condóminos o residentes que incumplan con las obligaciones que les son impuestas por la presente Ley, el Reglamento Interior del Condominio o el acta constitutiva del condominio, podrán ser multados con veces el valor diario de la Unidad de Medida y Actualización vigente donde se encuentre el condominio con:
 
-I. De uno a diez días, así como a cubrir el costo que se genere por la reparación o restablecimiento de los bienes, servicios o áreas de uso común cuando se hubiesen dañado por un mal uso o negligencia;
+I. De una a diez veces el valor diario de la Unidad de Medida y Actualización vigente, así como a cubrir el costo que se genere por la reparación o restablecimiento de los bienes, servicios o áreas de uso común cuando se hubiesen dañado por un mal uso o negligencia.
 
-II. De 10 a 20 días, más el pago de intereses moratorios en los términos que establezca el Reglamento Interior del Condominio y la restricción del derecho de voto en las asambleas, cuando no cumplan en el plazo establecido con las cuotas fijadas por la asamblea relativa a los fondos de mantenimiento y administración y de reserva;
+II. De 10 a 20 veces el valor diario de la Unidad de Medida y Actualización vigente, más el pago de intereses moratorios en los términos que establezca el Reglamento Interior del Condominio y la restricción del derecho de voto en las asambleas, cuando no cumplan en el plazo establecido con las cuotas fijadas por la asamblea relativa a los fondos de mantenimiento y administración y de reserva.
 
-III. De 15 a 30 días cuando incumplan con las obligaciones señaladas en las fracciones II y III del artículo 20;
+III. De 15 a 30 veces el valor diario de la Unidad de Medida y Actualización vigente, cuando incumplan con las obligaciones señaladas en las fracciones II y III del artículo 20 de esta ley;
 
-IV. De 20 a 30 días por la inobservancia de lo establecido en las fracciones V, VIII, IX y X del artículo 20 de esta Ley;
+IV. De 20 a 30 veces el valor diario de la Unidad de Medida y Actualización vigente, por la inobservancia de lo establecido en las fracciones V, VIII, IX y X del artículo 20 de esta Ley.
 
-V. De 20 a 40 días, independientemente de la demolición de las obras realizadas, cuando contravengan lo dispuesto en los artículos 20 fracción IV y 24 de la presente Ley; y
+V. De 20 a 40 veces el valor diario de la Unidad de Medida y Actualización vigente, independientemente de la demolición de las obras realizadas, cuando contravengan lo dispuesto en los artículos 20 fracción IV y 24 de la presente Ley.
 
-VI. De 50 a 150 días, cuando se transgreda lo estipulado en las fracciones I, VI y VII del artículo 20 de la presente ley.
+VI. De 50 a 150 veces el valor diario de la Unidad de Medida y Actualización vigente, cuando se transgreda lo estipulado en las fracciones I, VI y VII del artículo 20 de la presente ley.
 
 > <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
 
@@ -585,7 +585,7 @@ El procedimiento de arbitraje se substanciará ante el Síndico Municipal, el cu
 
 El arbitraje tendrá como característica ser un procedimiento para la resolución de controversias que buscará proporcionar a las partes la mayor equidad posible y se regirá por los principios de legalidad, sencillez, celeridad, oficiosidad, eficacia, publicidad, gratuidad y buena fe, e iniciará siempre a petición de parte.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.G. 21 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 53.
 
@@ -675,7 +675,7 @@ MANUEL CADENA MORALES
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.G. 10 DE DICIEMBRE DE 2002.
 
@@ -716,3 +716,19 @@ QUINTO. El Consejo Intermunicipal de Seguridad Pública deberá instalarse en t�
 Asimismo, en su primera sesión ordinaria deberá aprobar el estatuto a que se refiere esta Ley.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
