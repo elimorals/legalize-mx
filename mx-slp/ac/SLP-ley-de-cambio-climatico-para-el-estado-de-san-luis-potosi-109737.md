@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cambio-climatico-para-el-estado-de-san-luis-potosi-10973
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-27"
-last_updated: "2016-11-26"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2015.
 
@@ -643,13 +643,17 @@ Cuando de las visitas de inspección realizadas a las personas físicas o morale
 
 ### Capítulo III. De las Sanciones
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 63.
 
-En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte, no entreguen la información, datos o documentos requeridos en el plazo señalado, la Secretaría podrá imponer una multa de quinientos a tres mil días de salario mínimo, sin menoscabo del cumplimiento inmediato de dicha obligación.
+En caso de que las personas físicas o morales responsables de las fuentes emisoras sujetas a reporte, no entreguen la información, datos o documentos requeridos en el plazo señalado, la Secretaría podrá imponer una multa de quinientos a tres mil días de la unidad de medida y actualización, sin menoscabo del cumplimiento inmediato de dicha obligación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 64.
 
-En los casos de encontrarse falsedad en la información proporcionada, así como incumplimiento de los plazos y términos para su entrega, la Secretaría aplicará una multa de tres mil y hasta diez mil días de salario mínimo.
+En los casos de encontrarse falsedad en la información proporcionada, así como incumplimiento de los plazos y términos para su entrega, la Secretaría aplicará una multa de tres mil y hasta diez mil días de la unidad de medida y actualización.
 
 La multa será independiente de cualquier otra responsabilidad de los órdenes civil y penal que pudieran derivarse.
 
@@ -710,3 +714,11 @@ P.O. 26 DE NOVIEMBRE DE 2016.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0453.- SE REFORMAN DIVERSOS ARTÍCULOS DE LAS SIGUIENTES LEYES: LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE CAMBIO CLIMÁTICO PAR EL ESTADO DE SAN LUIS POTOSÍ, LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ, LEY DE SANIDAD, INOCUIDAD Y CALIDAD AGROALIMENTARIA DEL ESTADO DE SAN LUIS POTOSÍ, LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES Y LEY PARA LA PREVENCIÓN Y MANEJO INTEGRAL E INSTITUCIONAL DE LOS INCENDIOS FORESTALES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente.
