@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2016-10-14"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -101,7 +101,9 @@ IV. Sistema Nacional: Es la integración y coordinación de esfuerzos entre el E
 
 V. Sistema Estatal: Coordinación de esfuerzos que realiza el Gobierno del Estado de Baja California Sur para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-VI. Violencia contra mujeres: Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+VI. VIOLENCIA CONTRA MUJERES: Cualquier acción u omisión, basada en su género, tanto en el ámbito privado como en el público, que impida ejercer cualquiera de sus derechos, que les cause daño, sufrimiento psicológico, físico, patrimonial, económico, sexual, o la muerte.
 
 VII. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos en los que se presenta la violencia contra las mujeres;
 
@@ -129,6 +131,10 @@ XVII. Transversalidad: La integración sistemática de la igualdad de oportunida
 
 XVIII. Misoginia: Conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella, por el hecho de ser mujer.
 
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+XIX. CIBERESPACIO.- Ámbito artificial creado por medios informáticos.
+
 ## TÍTULO SEGUNDO. TIPOS Y MODALIDADES DE VIOLENCIA CONTRA LAS MUJERES
 
 ### CAPÍTULO I. TIPOS DE VIOLENCIA
@@ -153,7 +159,13 @@ VI.- Violencia de pareja: Conjunto de agresiones psicológicas, físicas, sexual
 
 VII. Violencia de Género.- Es el conjunto de amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, la subordinación, la discriminación y la explotación de las mujeres y que es consubstancial a la opresión de género en todas sus modalidades. La violencia de género contra las mujeres involucra tanto a las personas como a la sociedad, comunidades, relaciones, prácticas e instituciones sociales, y al Estado que la reproduce al no garantizar la igualdad, al perpetuar formas legales, jurídicas, judiciales, políticas androcéntricas y de jerarquía de género, y al no dar garantías de seguridad a las mujeres; y
 
-VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+VIII. Violencia Política.- Comprende todas aquellas acciones y omisiones –incluida la tolerancia- que, basadas en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y/o ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público, inhibir su participación en campañas políticas, restringir el ejercicio de un cargo público, o provocarla a tomar decisiones en contra de su voluntad o de la ley; y
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+IX. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ### CAPÍTULO II. MODALIDADES DE VIOLENCIA
 
@@ -327,7 +339,17 @@ c) El diseño e instrumentación de políticas públicas que eviten la comisión
 
 d) La verificación de los hechos y la publicidad de la verdad.
 
-#### SECCIÓN PRIMERA. DEL PODER EJECUTIVO
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN SEXTA. VIOLENCIA POLÍTICA
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 16 BIS.- La violencia Política contra las mujeres puede tener lugar en cualquier esfera: Política, económica, social, cultural, civil, o en cualquier relación interpersonal, en la comunidad, en un partido o institución política, incluye el ámbito público y el privado y puede efectuarse a través de cualquier medio de información como periódicos, radio o televisión y en el ciberespacio. Es por ello que las formas en las que debe atenderse variarán dependiendo del caso y, al mismo tiempo, el tipo de responsabilidades: penales, civiles, administrativas, electorales, internacionales, que genera.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 16 TER.- Las autoridades encargadas de la procuración, administración de justicia y de protección de derechos humanos en el ámbito de sus respectivas competencias estarán obligados a la aplicación del Protocolo para Atender la Violencia Política contra las Mujeres.
 
 ## TÍTULO TERCERO. DE LAS ÓRDENES DE PROTECCIÓN
 
@@ -513,7 +535,7 @@ La Secretaría Ejecutiva del Sistema elaborará el proyecto de Reglamento para e
 
 El Estado y los Municipios serán responsables de la aplicación de la presente ley, de conformidad con las competencias previstas en este capítulo y demás instrumentos legales aplicables.
 
-#### SECCIÓN SEGUNDA. DE LA SECRETARÍA DE SALUD
+#### SECCIÓN PRIMERA. DEL PODER EJECUTIVO
 
 ###### ARTÍCULO 28.
 
@@ -595,7 +617,7 @@ XXV. Celebrar convenios de cooperación, coordinación y concertación en la mat
 
 XXVI. Las demás que la presente ley y demás ordenamientos legales le confiera.
 
-#### SECCIÓN TERCERA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
+#### SECCIÓN SEGUNDA. DE LA SECRETARÍA DE SALUD
 
 ###### ARTÍCULO 29.
 
@@ -651,7 +673,7 @@ XV. Celebrar convenios de cooperación en la materia con los municipios e instit
 
 XVI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
-#### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
+#### SECCIÓN TERCERA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
 ###### ARTÍCULO 30.
 
@@ -697,9 +719,7 @@ VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en
 
 IX. Las demás previstas para el cumplimiento de la presente ley.
 
-#### SECCIÓN QUINTA. SECRETARÍA GENERAL DE GOBIERNO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2014)</small>
+#### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
 ###### ARTÍCULO 31.
 
@@ -727,9 +747,9 @@ IX. Las demás que disponga esta ley y demás ordenamientos de la materia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE ABRIL DE 2014)</small>
 
-#### SECCIÓN SEXTA. DE LA SECRETARÍA DE PROMOCIÓN Y DESARROLLO ECONÓMICO
+#### SECCIÓN QUINTA. SECRETARÍA GENERAL DE GOBIERNO
 
-> <small>(F. DE E., B.O. 20 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 32.
 
@@ -763,7 +783,9 @@ IX. Realizar una página de Internet específica en la cual se encuentren los da
 
 X. Las demás previstas para el cumplimiento de la presente ley.
 
-#### SECCIÓN SÉPTIMA. DEL SISTEMA PARA EL DESARROLLO DE LA FAMILIA DEL ESTADO Y MUNICIPIOS
+#### SECCIÓN SEXTA. DE LA SECRETARÍA DE PROMOCIÓN Y DESARROLLO ECONÓMICO
+
+> <small>(F. DE E., B.O. 20 DE AGOSTO DE 2008)</small>
 
 ###### ARTÍCULO 33.
 
@@ -779,7 +801,7 @@ IV. Proponer al Ejecutivo Estatal, la celebración de convenios de cooperación,
 
 V. Las demás previstas en esta ley y los ordenamientos legales de la materia.
 
-#### SECCIÓN OCTAVA. DEL PODER LEGISLATIVO
+#### SECCIÓN SÉPTIMA. DEL SISTEMA PARA EL DESARROLLO DE LA FAMILIA DEL ESTADO Y MUNICIPIOS
 
 ###### ARTÍCULO 34.
 
@@ -807,7 +829,7 @@ IX. Adecuar o crear modelos de atención que favorezcan el empoderamiento de las
 
 X. Las demás previstas para el cumplimiento de la presente Ley y otras disposiciones aplicables.
 
-#### SECCIÓN NOVENA. DEL PODER JUDICIAL
+#### SECCIÓN OCTAVA. DEL PODER LEGISLATIVO
 
 ###### ARTÍCULO 35.
 
@@ -821,9 +843,7 @@ III. Al revisar las cuentas públicas del Estado y Municipios vigilar el puntual
 
 IV. Aplicar la perspectiva de género de manera transversal en sus actividades.
 
-#### SECCIÓN DÉCIMA. DEL INSTITUTO SUDCALIFORNIANO DE LAS MUJERES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
+#### SECCIÓN NOVENA. DEL PODER JUDICIAL
 
 ###### ARTÍCULO 36.
 
@@ -841,7 +861,9 @@ V. Las demás que le confiera esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE JULIO DE 2014)</small>
 
-#### SECCIÓN DÉCIMO PRIMERA. DE LOS MUNICIPIOS
+#### SECCIÓN DÉCIMA. DEL INSTITUTO SUDCALIFORNIANO DE LAS MUJERES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE JULIO DE 2014)</small>
 
 ###### ARTÍCULO 37.
 
@@ -921,9 +943,7 @@ XXV.- Celebrar convenios de cooperación, coordinación y concertación en la ma
 
 XXVI.- Las demás que establezca esta ley y otros ordenamientos aplicables.
 
-#### SECCIÓN DÉCIMO SEGUNDA. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2014)</small>
+#### SECCIÓN DÉCIMO PRIMERA. DE LOS MUNICIPIOS
 
 ###### ARTÍCULO 38.
 
@@ -973,7 +993,9 @@ XIII. La atención de los demás asuntos que en materia de violencia contra las 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE ABRIL DE 2014)</small>
 
-#### SECCIÓN DÉCIMO TERCERA. DE LA SOCIEDAD CIVIL ORGANIZADA
+#### SECCIÓN DÉCIMO SEGUNDA. DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 39.
 
@@ -1013,9 +1035,7 @@ IX. Establecer, utilizar, supervisar y mantener todos los instrumentos y accione
 
 X. Las demás previstas para el cumplimento de la presente ley.
 
-#### SECCIÓN DÉCIMO CUARTA. DE LA SECRETARÍA GENERAL DE GOBIERNO
-
-> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
+#### SECCIÓN DÉCIMO TERCERA. DE LA SOCIEDAD CIVIL ORGANIZADA
 
 ###### ARTÍCULO 40.
 
@@ -1028,6 +1048,10 @@ II. Dar su opinión sobre proyectos de reformas a las ya existentes; y
 III. Vigilar el cumplimiento de la presente Ley y denunciar en su caso las violaciones a la misma y las omisiones que se den por parte de los servidores públicos.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 30 DE ABRIL DE 2014)</small>
+
+#### SECCIÓN DÉCIMO CUARTA. DE LA SECRETARÍA GENERAL DE GOBIERNO
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2014)</small>
 
 ###### ARTÍCULO 40 Bis.
 
@@ -1310,6 +1334,14 @@ SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicac
 B.O. 14 DE OCTUBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2373.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR, A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR Y A LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 2387 SE REFORMAN: LA FRACCIÓN VI AL ARTICULO 3°, LA FRACCIÓN VIII AL ARTICULO 4°, SE ADICIONAN UNA FRACCIÓN XIX AL ARTICULO 3°, LA FRACCIÓN IX AL ARTICULO 4°, Y UNA SECCIÓN SEXTA DENOMINADA "VIOLENCIA POLÍTICA" EN LA QUE SE ADICIONAN LOS ARTÍCULOS 16 BIS Y 16 TER, TODOS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
 
 ###### ARTÍCULO ÚNICO.
 
