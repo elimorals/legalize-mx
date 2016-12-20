@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2016-06-24"
+last_updated: "2016-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -771,6 +771,10 @@ No podrán presentarse iniciativas en la sesión si éstas no fueron previamente
 
 Las propuestas de iniciativas de los diputados deberán estar firmadas y serán presentadas al Presidente por escrito y en dispositivo de almacenamiento de datos; podrá leer en la sesión respectiva un extracto de la misma. La iniciativa será turnada a la comisión correspondiente en los términos establecidos en la fracción III del artículo 75 de este mismo Ordenamiento.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+El derecho de adhesión a una iniciativa deberá ser ejercido a través de la Directiva a petición del solicitante, que únicamente procederá previa consulta y aceptación del promovente, una vez que haya concluido su presentación ante el Pleno. Las adhesiones deberán asentarse en la acta de la sesión.
+
 ###### ARTICULO 77.
 
 La facultad de presentar el voto particular en contra de un dictamen, corresponde únicamente a los integrantes de la comisión que redactó el mismo.
@@ -1089,9 +1093,19 @@ IV. Si al conocerse los resultados de la votación económica en voz de la Presi
 
 Previamente a su inclusión en la Gaceta Parlamentaria, el texto de los dictámenes aprobados por las comisiones deberá ser revisado en cuanto a redacción y estilo por la Coordinación General de Servicios Parlamentarios, la que de encontrar observaciones que trasciendan su sentido, lo comunicará por escrito a los presidentes de las comisiones de origen, a efecto de que se tomen las medidas pertinentes. El dictamen se publicará en la Gaceta hasta que lo ordenen las propias comisiones.
 
-### CAPITULO V. DE LAS ACTAS
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO I. DE LA JUNTA DE COORDINACION POLITICA
+### CAPITULO V. DE LOS POSICIONAMIENTOS
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 117.
+
+BIS. Concluido el debate de los asuntos legislativos, los diputados que deseen hacer algún posicionamiento a los que se refiere el párrafo último del artículo 133 de la Ley Orgánica, deberán pedir su inscripción como oradores; la solicitud se deberá realizar previo a comenzar los asuntos generales, y no podrá intervenir nadie que no esté inscrito con antelación, con excepción de tratarse de aclarar alusiones personales.
+
+El Presidente del Congreso únicamente podrá interrumpirá (sic) al orador en turno, cuando en la expresión de su posicionamiento se viertan injurias o insultos en contra de personas o instituciones.
+
+### CAPITULO VI. DE LAS ACTAS
 
 ###### ARTICULO 118.
 
@@ -1125,7 +1139,7 @@ El Congreso deberá mantener actualizados dos libros de actas; en el primero que
 
 ## TITULO OCTAVO. DE LA ORGANIZACION INTERNA DEL CONGRESO
 
-### CAPITULO II. DE LAS COMISIONES
+### CAPITULO I. DE LA JUNTA DE COORDINACION POLITICA
 
 ###### ARTICULO 121.
 
@@ -1213,9 +1227,7 @@ V. Las demás que de manera temporal, especial o permanente, le confiera en form
 
 En los casos de extrema urgencia, gravedad o circunstancia apremiante, el Presidente de la Junta podrá disponer, ordenar o tomar decisiones administrativas, de las cuales dará cuenta en la próxima reunión de la Junta.
 
-### CAPITULO III. DE LOS GRUPOS Y REPRESENTACIONES PARLAMENTARIAS
-
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
+### CAPITULO II. DE LAS COMISIONES
 
 #### Sección Primera. Generalidades
 
@@ -1239,9 +1251,11 @@ Al final de cada periodo ordinario de sesiones, las comisiones y comités deber�
 
 El trabajo de las comisiones deberá continuar durante los recesos del Congreso.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 135.
 
-Las comisiones, cuando así lo estimen conveniente, podrán invitar a sus reuniones a funcionarios públicos, representantes de organismos, peritos y otras personas que puedan aportar criterios y opiniones para la mejor resolución del asunto y la redacción del dictamen.
+Las comisiones, cuando así lo estimen conveniente, podrán invitar a sus reuniones a funcionarios públicos, representantes de organismos, peritos e investigadores que cuenten con conocimiento en el área correspondiente, y otras personas que puedan aportar criterios y opiniones para la mejor resolución del asunto y, en su caso, la redacción del dictamen.
 
 ###### ARTICULO 136.
 
@@ -1503,7 +1517,9 @@ Las comisiones contarán con un secretario técnico que les será asignado por l
 
 Asimismo, para la elaboración de los dictámenes que corresponda, las comisiones contarán con el apoyo de un asesor que con base en su perfil profesional y experiencia, les asignará la Coordinación de Asesoría y Secretariado Técnico de Comisiones.
 
-### CAPITULO IV. DEL MODULO DE ACCESO A LA INFORMACION PUBLICA
+### CAPITULO III. DE LOS GRUPOS Y REPRESENTACIONES PARLAMENTARIAS
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 161.
 
@@ -1525,7 +1541,7 @@ Para el caso de que un diputado se declare independiente, esté quedará impedid
 
 Una representación parlamentaria se tendrá por legalmente constituida, cuando entregue a la Directiva, un oficio expedido de acuerdo con la normatividad del partido político al que pertenezca, que certifique el nombramiento del diputado como representante de dicho partido político ante el Congreso del Estado.
 
-### CAPITULO UNICO. DE LOS DIPUTADOS
+### CAPITULO IV. DEL MODULO DE ACCESO A LA INFORMACION PUBLICA
 
 ###### ARTICULO 163.
 
@@ -1537,7 +1553,7 @@ Las solicitudes de información serán recibidas y atendidas conforme a la ley d
 
 ## TITULO NOVENO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DE LOS DIPUTADOS
 
 ###### ARTICULO 165.
 
@@ -1605,15 +1621,13 @@ Los diputados deberán presentar la declaración de su situación patrimonial, c
 
 ## TITULO DECIMO. DE LOS ORGANOS TECNICOS, ADMINISTRATIVOS Y DE APOYO
 
-### CAPITULO II. DE LA OFICIALIA MAYOR
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 171.
 
 Los titulares de los órganos de soporte técnico y de apoyo del Congreso del Estado, podrán ser removidos por causa justificada, cuando así lo determine el Pleno por mayoría de votos de los diputados presentes en la sesión de que se trate.
 
-### CAPITULO III. DE LA COORDINACION DE FINANZAS
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+### CAPITULO II. DE LA OFICIALIA MAYOR
 
 ###### ARTICULO 172.
 
@@ -1691,7 +1705,7 @@ XII. Ser directamente responsable del cuidado y control del archivo administrati
 
 XIII. Las demás que le confiera la Ley Orgánica y las que la Junta le asigne.
 
-### CAPITULO IV. DE LA COORDINACION DE SERVICIOS INTERNOS
+### CAPITULO III. DE LA COORDINACION DE FINANZAS
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
@@ -1743,7 +1757,7 @@ XV. Realizar las adquisiciones que requiera el Congreso del Estado de acuerdo co
 
 XVI. Las demás que le confiera la Ley Orgánica, y las que la Junta y la Oficialía Mayor le asignen.
 
-### CAPITULO V. DE LA COORDINACION DE INFORMATICA
+### CAPITULO IV. DE LA COORDINACION DE SERVICIOS INTERNOS
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
@@ -1779,7 +1793,7 @@ VII. Auxiliar al Oficial Mayor en mantener actualizado el inventario de inmueble
 
 VIII. Controlar y disponer que se realice el servicio de intendencia, conservación y limpieza del recinto del Congreso.
 
-### CAPITULO VI. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
+### CAPITULO V. DE LA COORDINACION DE INFORMATICA
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
@@ -1827,9 +1841,9 @@ XIII. Coordinarse con el Instituto de Investigaciones Legislativas, para la corr
 
 XIV. Las demás que le asignen la Oficialía, Mayor y la Junta de Coordinación Política.
 
-### CAPITULO VII. DE LA COORDINACIÓN GENERAL DE SERVICIOS PARLAMENTARIOS
+### CAPITULO VI. DEL INSTITUTO DE INVESTIGACIONES LEGISLATIVAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 184.
 
@@ -1855,9 +1869,9 @@ V. Al momento de su nombramiento no prestar sus servicios profesionales en la ad
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-### CAPITULO VIII. DE LA COORDINACION DE ASESORIA Y SECRETARIADO TECNICO DE COMISIONES
+### CAPITULO VII. DE LA COORDINACIÓN GENERAL DE SERVICIOS PARLAMENTARIOS
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTICULO 185.
 
@@ -1943,7 +1957,7 @@ XVI. Proponer habitualmente a la Directiva, o a la Diputación Permanente, el pr
 
 XVII. Las demás que le atribuya la Ley Orgánica y le asigne la Directiva conforme a su competencia.
 
-### CAPITULO IX. DE LA COORDINACION DE ASUNTOS JURIDICOS
+### CAPITULO VIII. DE LA COORDINACION DE ASESORIA Y SECRETARIADO TECNICO DE COMISIONES
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
@@ -2025,7 +2039,9 @@ VI. Elaborar y presentar para su aprobación a la comisión, los informes que é
 
 VII. Las demás que le asigne la comisión en relación con el trabajo de la misma.
 
-### CAPITULO X. DE LA COORDINACION DE COMUNICACION SOCIAL
+### CAPITULO IX. DE LA COORDINACION DE ASUNTOS JURIDICOS
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 191.
 
@@ -2055,9 +2071,7 @@ Dependiente de la Coordinación de Asuntos Jurídicos habrá una Unidad de Notif
 
 Para ser notificador del Congreso se requiere ser licenciado en derecho, con título y cédula profesional legalmente expedidos; y contar con una experiencia mínima de tres años en el ejercicio profesional.
 
-### CAPITULO XI. DE LA CONTRALORIA INTERNA
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
+### CAPITULO X. DE LA COORDINACION DE COMUNICACION SOCIAL
 
 ###### ARTICULO 194.
 
@@ -2091,9 +2105,9 @@ III. La edición bimestral impresa de la Gaceta Parlamentaria, y
 
 IV. El apoyo en las relaciones públicas del Congreso.
 
-### CAPÍTULO XII. DEL ARCHIVO ADMINISTRATIVO E HISTÓRICO DEL CONGRESO
+### CAPITULO XI. DE LA CONTRALORIA INTERNA
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2012)</small>
 
 ###### ARTICULO 197.
 
@@ -2148,6 +2162,10 @@ XVII. Revisar la documentación justificativa y comprobatoria del gasto y del in
 XVIII. Las demás que le señalen los ordenamientos legales, o que determine la Junta de Coordinación Política.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE MAYO DE 2013)</small>
+
+### CAPÍTULO XII. DEL ARCHIVO ADMINISTRATIVO E HISTÓRICO DEL CONGRESO
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2013)</small>
 
 ###### ARTICULO 199.
 
@@ -2440,3 +2458,27 @@ PRIMERO. El Decreto entrará en vigor al día siguiente de su publicación en el
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Inmediatamente después de entrado en vigor el Decreto, quien ocupare el cargo de Coordinador de Grupo Parlamentario, podrá ser ratificado o removido por los diputados integrantes del mismo, en término de lo dispuesto por los ordenamientos que se modifican.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0452.- SE REFORMA EL ARTÍCULO 135, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0454.- SE ADICIONA PÁRRAFO TERCERO AL ARTÍCULO 133, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA AL TÍTULO SÉPTIMO EL CAPÍTULO V "DE LOS POSICIONAMIENTOS" CON EL ARTÍCULO 117 BIS, POR LO QUE EL ACTUAL CAPÍTULO V PASA A SER CAPÍTULO VI, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0455.- SE ADICIONA (SIC), LOS ARTÍCULOS, 131 BIS, Y 131 TER, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; Y SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 76, DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
