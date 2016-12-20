@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-secretaria-de-finanzas-del-87718"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-08"
-last_updated: "2015-03-13"
+last_updated: "2016-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 8 de mayo de 2012.
 
@@ -47,13 +47,21 @@ Para los efectos del presente reglamento, se entenderá por:
 
 I. Administración Fiscal: La Unidad Especializada de la Secretaría de Finanzas, denominada Administración Fiscal General;
 
-II. (DEROGADA, P.O. 9 DE MARZO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-III. (DEROGADA, P.O. 9 DE MARZO DE 2015)
+II. Banco de Proyectos de Inversión: Catálogo que registra la información técnica, económica y financiera de los proyectos susceptibles de ser financiados;
 
-IV. (DEROGADA, P.O. 9 DE MARZO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-V. (DEROGADA, P.O. 9 DE MARZO DE 2015)
+III. Cartera de Programas y Proyectos de Inversión: Conjunto de acciones susceptibles de ser financiadas con recursos transferidos, extraordinarios o propios del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. COPLADEC: El Comité de Planeación para el Desarrollo del Estado de Coahuila;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+V. COPLADEM: Los comités de planeación municipal;
 
 VI. Ejecutivo: El titular del Poder Ejecutivo Estatal;
 
@@ -93,9 +101,13 @@ I. Subsecretaría de Egresos y Administración;
 
 II. Subsecretaría de Ingresos y Crédito;
 
-III. (DEROGADA, P.O. 13 DE MARZO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. (DEROGADA, P.O. 9 DE MARZO DE 2015)
+III. Coordinación General de Programación y Presupuesto;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Coordinación General de Inversiones;
 
 V. Coordinación General de Asuntos Jurídicos;
 
@@ -193,7 +205,15 @@ e) Dirección General de Política de Crédito.
 
 III. (DEROGADA, P.O. 13 DE MARZO DE 2015)
 
-IV. (DEROGADA, P.O. 9 DE MARZO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Adscritas a la Coordinación General de Programación y Presupuesto:
+
+a) Dirección General de Planeación y Programación.
+
+b) Dirección General de Operación Presupuestal.
+
+c) Dirección General de Evaluación y Seguimiento de Inversión Pública.
 
 V. (DEROGADA, P.O. 13 DE MARZO DE 2015)
 
@@ -205,7 +225,17 @@ b) Dirección de Relaciones Laborales.
 
 c) Dirección de legislación Tributaria.
 
-VII. (DEROGADA, P.O. 9 DE MARZO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+VII. Adscritas a la Coordinación General de Inversiones:
+
+a) Dirección General de Proyectos de Inversión.
+
+b) Dirección de Análisis y Evaluación.
+
+c) Dirección de Normatividad y Política Presupuestaria.
+
+d) Dirección de Seguimiento y Control de Inversión.
 
 Los manuales de organización precisarán la estructura orgánica y las funciones específicas de las áreas que conforman las unidades administrativas a que se refiere este artículo.
 
@@ -245,9 +275,13 @@ VII. Refrendar, para su validez y observancia constitucional, las leyes y decret
 
 VIII. Coordinar las acciones que se deban de implementar para la integración del Plan Estatal de Desarrollo y los programas que de éste se deriven, así como las relativas a su actualización periódica.
 
-IX. (DEROGADA, P.O. 9 DE MARZO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-X. (DEROGADA, P.O. 9 DE MARZO DE 2015)
+IX. Fungir como Secretario Técnico del COPLADEC.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+X. Presentar a la consideración del Ejecutivo y de la Comisión Permanente del COPLADEC, las propuestas de obras, programas y acciones de inversión pública, validadas por los comités sectoriales y especiales de dicho Comité y de los COPLADEM.
 
 XI. Analizar y resolver las solicitudes sobre los incrementos de los techos presupuestales que requieran las dependencias y entidades de la administración pública estatal.
 
@@ -359,9 +393,9 @@ X. Examinar en el aspecto financiero, todas las operaciones en que se haga uso d
 
 XI. Transferir a los municipios las participaciones federales y estatales que les correspondan, con base en las demás disposiciones aplicables y conforme a las estimaciones autorizadas por el Secretario en cumplimiento de aquellas.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-XII. Recibir, coordinar y registrar la entrega oportuna de los fondos descentralizados que la Federación participe al Estado y los recursos estatales que se descentralicen a los municipios.
+XII. Recibir, coordinar y registrar la entrega oportuna de los fondos descentralizados para inversión que la Federación participe al Estado y los recursos estatales que se descentralicen a los municipios.
 
 XIII. Someter oportunamente a la consideración del Secretario la cuenta pública estatal del ejercicio anterior.
 
@@ -383,29 +417,25 @@ XX. Emitir las constancias anuales de retención de impuestos de los servidores 
 
 XXI. Someter a la aprobación del Secretario los lineamientos que regulen la formación y aplicación del presupuesto de egresos.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-XXII. Administrar y operar el Sistema Integral de Adquisiciones para la integración del programa estimado anual de adquisiciones, la consolidación de los requerimientos de la Secretaría y las dependencias de la administración pública estatal, así como el desarrollo de los diversos procesos de compra de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
+XXII. Coordinar el Sistema Integral de Adquisiciones para la integración del programa estimado anual de adquisiciones, la consolidación de los requerimientos de la Secretaría y las dependencias de la administración pública estatal, así como el desarrollo de los diversos procesos de compra de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-XXIII. Realizar los procedimientos de licitación y contratación de adquisiciones, y obras públicas de conformidad con la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables, así como planear y ejecutar todas las acciones de administración y operación previstas en dichos ordenamientos en los términos de los convenios correspondientes de las entidades, dependencias y los municipios cuando así lo autoricen sus cabildos.
+XXIII. Coadyuvar en los procedimientos de licitación y contratación de adquisiciones, de conformidad con la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
+XXIV. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2016)
 
-XXIV. Realizar las gestiones necesarias para la administración y resguardo de la existencia de materiales de consumo de la Secretaría y dependencias de la administración pública estatal en los almacenes correspondientes.
+XXV. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-XXV. Elaborar documentos con los costos de los materiales de consumo, bienes muebles y demás programas de compras abastecidos a la Secretaría y dependencias, a través de cuentas por pagar y pólizas de diario para su correspondiente trámite de pago ante la Subsecretaría de Egresos y Administración.
+XXVI. Participar en las actividades del Comité de Adquisiciones para el control de adquisiciones y operaciones patrimoniales en el Estado de Coahuila de Zaragoza.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-XXVI. Participar y coordinar las actividades del Comité de Adquisiciones para el control de adquisiciones y operaciones patrimoniales en el Estado de Coahuila de Zaragoza y del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obras Públicas.
-
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
-
-XXVII. Analizar y autorizar los programas de compras de acuerdo a las requisiciones de las dependencias de la administración pública estatal, con base al presupuesto autorizado por el Congreso del Estado.
+XXVII. Supervisar los programas de compras de acuerdo a las requisiciones de las dependencias de la administración pública estatal, con base al presupuesto de egresos autorizado por el Congreso del Estado.
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
 
@@ -427,21 +457,17 @@ XXXI. Celebrar los convenios, contratos de compraventa, arrendamiento, prestaci�
 
 XXXII. Autorizar las cuentas por pagar de las diversas unidades administrativas de la Secretaría y/o dependencias de la administración pública estatal que afectan los diversos capítulos del presupuesto autorizado a las mismas.
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-XXXIII. Celebrar convenios de colaboración con las distintas dependencias y entidades de la administración pública para realizar los procedimientos correspondientes para las adquisiciones, arrendamientos y prestación de servicios y de obra pública, que puede comprender la licitación, adjudicación y la celebración de los contratos correspondientes en representación y con cargo a la dependencia o entidad que así lo convenga.
+XXXIII. Celebrar convenios de colaboración con las distintas dependencias y entidades de la administración pública para realizar los procedimientos correspondientes para las adquisiciones, arrendamientos y prestación de servicios, que puede comprender la licitación, adjudicación y la celebración de los contratos correspondientes en representación y con cargo a la dependencia o entidad que así lo convenga.
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
-
-XXXIV. Coordinar y operar la unidad de enlace con el sistema electrónico de contrataciones gubernamentales (COMPRANET), para programar y elaborar las convocatorias y licitar las obras, adquisiciones y servicios que lleva a cabo la Secretaría, revisando que las bases de licitación y demás documentación cumpla con las disposiciones aplicables, en el ámbito de su competencia.
+XXXIV. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2016)
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
 
 XXXV. Recibir, despachar y distribuir la correspondencia oficial de la Subsecretaría y sus unidades administrativas.
 
-> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
-
-XXXVI. Establecer y someter a la aprobación del Secretario los lineamientos que deban observarse para la contratación de servicios diversos de las dependencias de la administración pública estatal.
+XXXVI. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2016)
 
 > <small>(ADICIONADA, P.O. 13 DE MARZO DE 2015)</small>
 
@@ -677,9 +703,59 @@ XXV. Las demás que le confiera la normatividad aplicable, así como aquéllas q
 
 ARTÍCULO 13 A. (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 14.
 
-(DEROGADO, P.O. 9 DE MARZO DE 2015)
+Corresponde al Coordinador General de Programación y Presupuesto:
+
+I. Coadyuvar en el proceso de planeación, e integración de la propuesta y el Programa de Inversión Pública del Estado, para el ejercicio fiscal, garantizando su correspondencia con las directrices del Plan Estatal de Desarrollo y los planes sectoriales y/o estratégicos de largo plazo, buscando su congruencia con el Plan Nacional de Desarrollo.
+
+II. Programar y operar la distribución de los recursos de inversión pública establecidos en el presupuesto de egresos del estado, evaluando que se apliquen bajo criterios de equidad y demás previstos en las disposiciones aplicables, entre las diferentes regiones y sectores en el Estado.
+
+III. Coadyuvar con las dependencias y entidades del Estado, así como con los municipios en la celebración de los convenios y acuerdos de coinversión con el Gobierno Federal, con el sector privado y beneficiarios, para alcanzar estructuras y mezclas de inversión que permitan potenciar el recurso financiero disponible del Estado para la inversión pública.
+
+IV. Acordar con las dependencias y entidades de la administración pública federal, los montos de recursos asignados a los diferentes programas de inversión pública, así como validar los convenios correspondientes, en conjunto con la Coordinación General de Asuntos Jurídicos.
+
+V. Colaborar en la formulación de planes y programas regionales o especiales de desarrollo.
+
+VI. Comunicar a las dependencias ejecutoras, la decisión tomada en el COPLADEC, con relación a las acciones u obras presentadas para ser atendidas en el Programa Anual de Inversión Pública del Estado.
+
+VII. Colaborar en la formulación y registro de los diagnósticos sectoriales de inversión en sus ámbitos estatal, municipal y regional que realizan las dependencias estatales y subcomités sectoriales y especiales del COPLADEC.
+
+VIII. Asistir a los municipios, en la integración de los planes municipales de desarrollo, cuando así lo soliciten, así como apoyarlos y asesorarlos en todas las acciones relacionadas con el proceso de inversión pública, y coordinar la capacitación para la operación del Sistema Integral de Inversión Pública del Estado.
+
+IX. Asesorar en la composición de los subcomités sectoriales y especiales del COPLADEC y de los COPLADEM, así como llevar el registro del directorio de sus integrantes.
+
+X. Formular en coordinación con la Secretaría Técnica y de Planeación, los términos para el manejo de la información y parámetros relacionados con el impacto de la inversión pública en el ámbito estatal, regional y municipal.
+
+XI. Coordinarse con la Secretaría Técnica y de Planeación del Ejecutivo para la integración del anexo estadístico del Informe Anual de Gobierno del Ejecutivo y ponerlo a la consideración del Secretario.
+
+XII. Recibir, revisar y autorizar los expedientes técnicos validados por las dependencias ejecutoras y normativas.
+
+XIII. Emitir los oficios de autorización de recursos correspondientes a obras, programas y/o acciones del Programa Estatal de Inversión Pública y autorizados por el Secretario.
+
+XIV. Recibir y revisar los contratos de obra pública y de adquisiciones que presentan las dependencias ejecutoras para su aprobación.
+
+XV. Emitir y suscribir los oficios de aprobación de recursos hasta por el monto de los contratos de obra pública y adquisiciones presentados por las dependencias ejecutoras.
+
+XVI. Coordinar y promover que las solicitudes de liberación de recursos que respaldan estimaciones, anticipos o cualquier otro pago relacionado a la inversión pública, se atienda en los tiempos establecidos por las disposiciones aplicables.
+
+XVII. Autorizar las solicitudes de liberación de recursos presentadas por las dependencias ejecutoras, previa revisión y validación.
+
+XVIII. Recibir y analizar las modificaciones presupuestales y de metas que sean propuestas por las dependencias ejecutoras, a fin de someterlas a la aprobación del COPLADEC.
+
+XIX. Coordinar y vigilar que se mantenga actualizada la información de los avances físicos y financieros de las obras, programas y/o acciones que conformen el Programa Estatal de Inversión Pública.
+
+XX. Realizar evaluaciones mensuales, trimestrales y anuales de los avances de la inversión pública en el Estado y hacerlo del conocimiento del Secretario, de los titulares de las instancias ejecutoras y del COPLADEC.
+
+XXI. Realizar de manera aleatoria visitas de obra para identificar los avances físicos de las mismas, programas y/o acciones, así como sus posibles desfasamientos de acuerdo a los programas de ejecución aprobados y comunicarlo a las dependencias ejecutoras para su atención.
+
+XXII. Fungir como Secretario Técnico de los Comités del Impuesto Sobre Nóminas en el Estado, responsabilizándose de la programación de reuniones en los períodos acordados, y de la coordinación de las instancias ejecutoras, para que los comités cuenten con información oportuna y de calidad relacionada con la aplicación de recursos y los avances de las obras autorizadas.
+
+XXIII. Participar en los Consejos y Comités Técnicos de los Fideicomisos de Fondos Metropolitanos, asumiendo las funciones que al efecto establecen las reglas de operación de dichos Fondos.
+
+XXIV. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
 ###### ARTÍCULO 15.
 
@@ -761,9 +837,65 @@ XXXI. Delegar en los funcionarios adscritos a su área, para la mejor organizaci
 
 XXXII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 17.
 
-(DEROGADO, P.O. 11 DE ENERO DE 2014)
+Corresponde a la Coordinación General de Inversiones:
+
+I. Integrar y administrar la cartera de programas y proyectos de inversión, de las dependencias y entidades de la Administración Pública y de los municipios conforme a las prioridades derivadas del Plan Estatal de Desarrollo y los programas sectoriales, regionales, especiales e institucionales, sin detrimento de las atribuciones que corresponden a las dependencias y entidades de la administración pública estatal.
+
+II. Identificar y proponer al Secretario los proyectos de inversión considerados como prioritarios en el Plan Estatal de Desarrollo para su presupuestación, gestión y seguimiento, así como establecer conjuntamente con los titulares de las dependencias y entidades del Poder Ejecutivo, los objetivos, alcances, integración de documentos técnicos y los cronogramas de trabajo de los mismos.
+
+III. Analizar la actividad y las condiciones en materia de economía, política y finanzas, mediante el uso de criterios y herramientas de análisis aplicables en el ámbito de su actuación.
+
+IV. Coordinar las gestiones ante la Federación de los recursos y proyectos que realicen las dependencias y entidades del Poder Ejecutivo y dar seguimiento a la agenda de gestiones que las dependencias y entidades estatales llevan con la Federación y los municipios.
+
+V. Coordinar la integración del Banco de Proyectos de Inversión de la administración pública estatal, además de las iniciativas de proyectos que deriven de las dependencias y entidades del sector público en el estado, eventualmente se podrán incorporar propuestas e iniciativas de inversión provenientes de los grupos sociales.
+
+VI. Coordinar el proceso de evaluación socioeconómica de los proyectos de inversión presentados por las dependencias y entidades de la administración pública estatal, para determinar su viabilidad.
+
+VII. Gestionar ante la Secretaría de Hacienda y Crédito Público, el registro en la Cartera de Programas y Proyectos de Inversión para los programas y proyectos de inversión que cuenten con los elementos técnicos necesarios y cumplan con la normatividad aplicable.
+
+VIII. Llevar a cabo, en coordinación con las unidades administrativas competentes de las distintas dependencias de la administración pública estatal, el seguimiento, actualización, mantenimiento, así como la vigencia del registro, de los programas y proyectos que tienen su origen en el Presupuesto de Egresos de la Federación, para apoyar y coordinar la gestión de los recursos autorizados y el cumplimiento de la normatividad aplicable.
+
+IX. Orientar y acompañar a las dependencias y entidades de la administración pública estatal en la integración de la información técnica necesaria para la elaboración de los análisis costo beneficio de los proyectos de inversión, o en su caso, subrogar los servicios para la elaboración de estudios a asesores y consultores externos.
+
+X. Integrar y mantener actualizado el registro de consultores y asesores externos en materia de formulación y evaluación de proyectos de inversión.
+
+XI. Verificar en coordinación con las instancias ejecutoras y normativas competentes, la congruencia de los programas y proyectos de inversión que llevan a cabo las dependencias, con respecto a los ejes, objetivos y estrategias establecidas en el Plan Estatal de Desarrollo y con los programas sectoriales, regionales, especiales e institucionales derivados.
+
+XII. Proponer al Secretario la creación, integración y funcionamiento de la Comisión Interinstitucional para la gestión de proyectos estratégicos, así como participar en los grupos de trabajo y análisis que en materia de inversión se determinen.
+
+XIII. Elaborar y emitir la metodología referente al ciclo de inversiones para la aplicación del uso sistemático de las técnicas de integración, gestión, evaluación y registro de proyectos, así como los lineamientos específicos para la formulación y preparación de proyectos.
+
+XIV. Analizar y asesorar en el cumplimiento de las disposiciones normativas que emitan las autoridades competentes en materia de presupuesto, respecto a los lineamientos y criterios que se deben observar en materia presupuestaria para la inclusión de programas y proyectos de inversión susceptibles de ser incorporados al Presupuesto de Egresos de la Federación.
+
+XV. Recomendar y proponer a las dependencias y entidades de la administración pública estatal modalidades de financiamiento para programas y proyectos de inversión, atendiendo a las circunstancias coyunturales y la participación de los sectores público, privado y social en los mismos.
+
+XVI. Coadyuvar con las unidades administrativas de la Secretaría en las tareas relacionadas con las políticas y el proceso presupuestario del gasto público de inversión.
+
+XVII. Investigar y comparar experiencia nacional e internacional en el diseño y aplicación de normas y metodologías en materia de inversión pública y privada.
+
+XVIII. Analizar y atender los requerimientos y consultas de información por parte de otras áreas de la administración pública estatal sobre la distribución sectorial en materia de inversión.
+
+XIX. Realizar las gestiones correspondientes ante las instancias competentes para que se lleve a cabo la entrega en tiempo y forma de los fondos, así como otros recursos descentralizados que la Federación participe al Estado y/o a los municipios, con base en las disposiciones legales y conforme a las estimaciones autorizadas por la autoridad competente.
+
+XX. Proponer y coordinar las acciones para la realización de las tareas de planeación, análisis y evaluación de estudios, proyectos, programas especiales y estratégicos de la Secretaría.
+
+XXI. Asesorar a los municipios sobre los fondos federales que les corresponden con base en las disposiciones y conforme a las estimaciones autorizadas por la autoridad competente.
+
+XXII. Coadyuvar en el análisis y evaluación de los convenios y acuerdos que se promuevan entre la Federación, el Estado y los Municipios, cuando éstos se relacionen a proyectos de inversión e impliquen un impacto presupuestario para la entidad.
+
+XXIII. Identificar y gestionar fuentes de financiamiento tradicional y alternativas para los proyectos de inversión que coadyuven en el cumplimiento de los objetivos establecidos en el Plan Estatal de Desarrollo.
+
+XXIV. Proporcionar información y cooperación técnica, cuando le sea solicitada, a las dependencias y entidades de la administración pública estatal, así como los municipios, en materia de gasto de inversión e inclusión de programas y proyectos de inversión susceptibles de financiarse en el proyecto de Presupuesto de Egresos de la Federación, o fuentes alternativas.
+
+XXV. Realizar actividades permanentes de análisis, evaluación y difusión en materia presupuestaria, así como promover esquemas de capacitación que permitan mejores prácticas en la formulación, administración y ejecución de proyectos.
+
+XXVI. Apoyar en el ámbito de su competencia al Consejo de Planeación del Desarrollo para el Estado de Coahuila y colaborar en los mecanismos de planeación que se definan.
+
+XXVII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
 ### CAPÍTULO V. DE LAS UNIDADES ADMINISTRATIVAS DEL DESPACHO DEL SECRETARIO
 
@@ -885,9 +1017,9 @@ I. Elaborar los proyectos de lineamientos para la elaboración del presupuesto d
 
 II. Elaborar el anteproyecto del programa general del gasto público.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-III. Integrar la información relacionada con el programa de inversión pública que proporcione la Secretaría Técnica y de Planeación al proyecto del presupuesto anual de egresos.
+III. Solicitar a la Coordinación General de Programación y Presupuesto, en conjunto con la Dirección General de Inversión Pública, la información relacionada con el programa de inversión pública a fin de integrarla al proyecto del presupuesto anual de egresos.
 
 IV. Integrar al presupuesto anual de egresos la información relacionada con las obligaciones provenientes de la deuda pública.
 
@@ -993,39 +1125,41 @@ VIII. Las demás que le atribuyan este reglamento y otras disposiciones aplicabl
 
 Corresponde al Director General de Inversión Pública:
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-I. Participar en el ámbito de su competencia, en coordinación con la Secretaría Técnica y de Planeación, en la elaboración del programa de inversión pública del Presupuesto Anual de Egresos.
+I. Participar en el ámbito de su competencia, en coordinación con con (sic) la Dirección General de Gasto Público y la Coordinación General de Programación y Presupuesto, en la elaboración del programa de inversión pública del Presupuesto Anual de Egresos.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Recibir las solicitudes de liberación de recursos presentadas por la Secretaría Técnica y de Planeación, verificando la correcta integración de la documentación comprobatoria que ampara el pago solicitado y validando la disponibilidad presupuestal para la realización del mismo.
+II. Recibir las solicitudes de liberación de recursos presentadas por la Coordinación General de Programación y Presupuesto verificando la correcta integración de la documentación comprobatoria que ampara el pago solicitado y validando la disponibilidad presupuestal para la realización del mismo.
 
-III. Solicitar a la Dirección General de Contabilidad la validación de la disponibilidad de los recursos federales y estatales en las cuentas bancarias de la Secretaría, para la realización de los pagos correspondientes a obras y acciones pactadas en los diferentes convenios y programas con las dependencias y entidades de la administración pública estatal.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
+III. Solicitar a la Dirección General de Contabilidad Gubernamental la validación de la disponibilidad de los recursos federales y estatales en las cuentas bancarias de la Secretaría, para la realización de los pagos correspondientes a obras y acciones pactadas en los diferentes convenios y programas con las dependencias y entidades de la administración pública estatal.
 
-IV. Elaborar y presentar ante la Dirección General de Gasto Público las cuentas por pagar que amparan las solicitudes de liberaciones de recursos presentadas y validadas por la Secretaría Técnica y de Planeación, correspondientes a la inversión pública.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Elaborar y presentar ante la Dirección General de Gasto Público las cuentas por pagar que amparan las solicitudes de liberaciones de recursos presentadas y validadas por la Coordinación General de Programación y Presupuesto, correspondientes a la inversión pública.
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
 V. Vigilar que el ejercicio presupuestal de los programas de inversión pública se sujeten a los techos presupuestales; así como, que la disposición de los recursos se lleve conforme a los calendarios aprobados y en su defecto, proponer las medidas necesarias para su observancia; informando periódicamente a la Subsecretaría de egresos y administración sobre sus avances y variaciones.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-VI. Evaluar en el ámbito de su competencia y en coordinación con la Secretaría Técnica y de Planeación y la Dirección General de Contabilidad, el ejercicio presupuestal mediante el seguimiento permanente al comportamiento financiero de los programas de inversión pública.
+VI. Evaluar en el ámbito de su competencia y en coordinación con la Dirección General de Contabilidad Gubernamental y la Coordinación General de Programación y Presupuesto, el ejercicio presupuestal mediante el seguimiento permanente al comportamiento financiero de los programas de inversión pública.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-VII. Coadyuvar con la Secretaría Técnica y de Planeación, en la instrumentación de mecanismos para garantizar el flujo de las aportaciones convenidas con los gobiernos municipales, para la ejecución de obras o acciones con estructura financiera municipal, estatal y federal.
+VII. Coadyuvar con la Coordinación General de Programación y Presupuesto, en la instrumentación de mecanismos para garantizar el flujo de las aportaciones convenidas con los gobiernos municipales, para la ejecución de obras o acciones con estructura financiera municipal, estatal y federal.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-VIII. Implementar mecanismos en conjunto con la Secretaría Técnica y de Planeación, para el registro y seguimiento de las aportaciones de los municipios, beneficiarios u organizaciones del sector privado, con las cuales se celebren convenios o acuerdos para la realización de obra pública.
+VIII. Implementar mecanismos en conjunto con la Coordinación General de Programación y Presupuesto, para el registro y seguimiento de las aportaciones de los municipios, beneficiarios u organizaciones del sector privado, con las cuales se celebren convenios o acuerdos para la realización de obra pública.
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-IX. Conciliar, en el ámbito de su competencia, en conjunto con la Secretaría Técnica y de Planeación, y la Dirección General de Contabilidad, la situación financiera de los informes mensuales, trimestrales y cierres de ejercicio de los diferentes programas de inversión pública.
+IX. Conciliar, en el ámbito de su competencia, en conjunto con la Coordinación General de Programación y Presupuesto, y la Dirección General de Contabilidad Gubernamental, la situación financiera de los informes mensuales, trimestrales y cierres de ejercicio de los diferentes programas de inversión pública.
 
 X. Capacitar en el ámbito de su competencia al personal de los municipios y dependencias ejecutoras que intervengan en la liberación y operación de recursos orientados a la inversión pública.
 
@@ -1209,11 +1343,15 @@ I. Coordinar e implementar la consolidación del Programa Anual de Adquisiciones
 
 II. Integrar y operar los programas de compras en general, derivados de la demanda existente de la Secretaría y las dependencias, de conformidad con la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y los montos autorizados anualmente por el Congreso del Estado y demás disposiciones aplicables.
 
-III. Realizar los procedimientos de licitación y contratación de adquisiciones, y obras públicas, así como planear y ejecutar todas las acciones de administración y operación de conformidad con la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y la Ley de Obras Públicas y Servicios Relacionados con las mismas para el Estado de Coahuila de Zaragoza y demás ordenamientos aplicables de acuerdo a los convenios celebrados con las dependencias y entidades de la administración pública y municipios cuando así lo autoricen sus cabildos.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Realizar los procedimientos de licitación y contratación de adquisiciones, arrendamientos y servicios, así como planear y ejecutar todas las acciones de administración y operación de conformidad con la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza.
 
 IV. Presidir los actos de las licitaciones y los concursos, levantando las actas correspondientes, conforme a las leyes de la materia y a las disposiciones aplicables;
 
-V. Formular y elaborar las solicitudes de cotización para contratar por adjudicación directa, las obras, adquisiciones de bienes y servicios de las diversas áreas adscritas a la Secretaría y demás dependencias, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+V. Formular y elaborar las solicitudes de cotización para contratar por adjudicación directa, las adquisiciones de bienes y servicios de las diversas áreas adscritas a la Secretaría y demás dependencias, en el ámbito de su competencia.
 
 VI. Abastecer los requerimientos de materiales de consumo y bienes muebles diversos demandados por la Secretaría y las dependencias de la administración pública estatal de acuerdo a los tiempos y procedimientos marcados por la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y los montos autorizados anualmente por el Congreso del Estado y demás disposiciones aplicables.
 
@@ -1223,27 +1361,39 @@ VIII. Realizar las gestiones necesarias para la administración y resguardo de l
 
 IX. Elaborar documentos con los costos de los materiales de consumo, bienes muebles y demás programas de compras abastecidos a la Secretaría y dependencias, a través de cuentas por pagar y pólizas de diario para su correspondiente trámite de pago ante la Subsecretaría de Egresos y Administración.
 
-X. Participar y coordinar las actividades del Comité de Adquisiciones para el control de adquisiciones y operaciones patrimoniales en el Estado de Coahuila de Zaragoza y del Comité de Apoyo para la Adjudicación y Fallo de los Concursos de Obras Públicas.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+X. Participar y coordinar las actividades del Comité de Adquisiciones para el control de adquisiciones y operaciones patrimoniales en el Estado de Coahuila de Zaragoza.
 
 XI. Verificar que los procesos de adquisiciones se realicen con estricto apego a la normatividad aplicable y se integre el expediente correspondiente.
 
 XII. Generar información de la operación de los procesos elaborados en la dirección, relativos a la planeación de adquisiciones, requerimientos, compra de bienes y materiales, entre otros informes.
 
-XIII. Definir en coordinación con su jefe inmediato y con apego a la normatividad vigente, los lineamientos a seguir para la integración y control de los expedientes unitarios de la obra pública, que dan soporte legal, administrativo y técnico a la actuación de la Secretaría en lo relativo a la obra gubernamental que por su conducto se realice;
+XIII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2016)
 
-XIV. Inscribir a los contratistas o proveedores participantes en cada concurso, siempre que hubieran cumplido con los requisitos establecidos en la invitación correspondiente;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+XIV. Inscribir a los proveedores participantes en cada concurso, siempre que hubieran cumplido con los requisitos establecidos en la invitación correspondiente.
 
 XV. Integrar los expedientes unitarios de las licitaciones, concursos y contratos, verificando que cuenten con toda la documentación requerida y el control del archivo correspondiente;
 
-XVI. Integrar los archivos correspondientes a los registros de proveedores y contratistas que controlan (sic) obra y proveen un bien o servicio a la Secretaría y demás dependencias.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-XVII. Proponer y promover la modernización de los sistemas de integración y control de archivo de los expedientes unitarios de la obra pública que permitan su eficiente operación;
+XVI. Integrar los archivos correspondientes a los registros de proveedores de bienes o servicios de la Secretaría y demás dependencias.
 
-XVIII. Establecer en el ámbito de su competencia, de conformidad con las disposiciones jurídicas que a cada caso correspondan y en coordinación con las dependencias, organismos y entidades que dichas disposiciones prevean, las políticas y procedimientos para la celebración de contratos y convenios adicionales o modificatorios de obras, adquisición de bienes y contratación de servicios;
+XVII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2016)
 
-XIX. Operar la unidad de enlace con el sistema electrónico de contrataciones gubernamentales (COMPRANET), para programar y elaborar las convocatorias y licitar las obras, adquisiciones y servicios que lleva a cabo la Secretaría, revisando que las bases de licitación y demás documentación cumpla con las disposiciones aplicables, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-XX. Coadyuvar con la Dirección General de Procesos Legales y Contratos para la formulación y elaboración de los contratos y convenios adicionales o modificatorios de obra, adquisiciones de bienes y servicios de las diversas dependencias y áreas adscritas a la Secretaría de conformidad con las disposiciones jurídicas que para el efecto se establecen en las leyes de la materia, verificando que se hayan cubierto los requerimientos para su autorización.
+XVIII. Establecer en el ámbito de su competencia, de conformidad con las disposiciones jurídicas que a cada caso correspondan y en coordinación con las dependencias, organismos y entidades que dichas disposiciones prevean, las políticas y procedimientos para la celebración de contratos y convenios adicionales o modificatorios de adquisición de bienes y contratación de servicios;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+XIX. Operar la unidad de enlace con el sistema electrónico de contrataciones gubernamentales (COMPRANET), para programar y elaborar las convocatorias y licitar las adquisiciones y servicios que lleva a cabo la Secretaría, revisando que las bases de licitación y demás documentación cumpla con las disposiciones aplicables, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+XX. Coadyuvar con la Dirección General de Procesos Legales y Contratos para la formulación y elaboración de los contratos y convenios adicionales o modificatorios de adquisiciones de bienes y servicios de las diversas dependencias y áreas adscritas a la Secretaría de conformidad con las disposiciones jurídicas que para el efecto se establecen en las leyes de la materia, verificando que se hayan cubierto los requerimientos para su autorización.
 
 XXI. Las demás que le confiera la normatividad aplicable, así como aquéllas que le confiera el Secretario y su superior jerárquico inmediato.
 
@@ -1319,21 +1469,31 @@ XXI. Las demás que le atribuyan este reglamento y otras disposiciones aplicable
 
 ARTÍCULO 29 E. Corresponde al Director General de Procesos Legales y Contratos:
 
-I. Establecer en el ámbito de su competencia, de conformidad con las disposiciones jurídicas que a cada caso correspondan y en coordinación con las dependencias, organismos y entidades que dichas disposiciones prevean, las políticas y procedimientos para la celebración de contratos y convenios adicionales o modificatorios de obras, adquisición de bienes y contratación de servicios;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-II. Formular y elaborar los contratos y convenios adicionales o modificatorios de obra, adquisiciones de bienes y servicios de las diversas dependencias y áreas adscritas a la Secretaría de conformidad con las disposiciones jurídicas que para el efecto se establecen en las leyes de la materia, con base en los lineamientos y políticas que para el efecto proporcione la Dirección General de Adquisiciones y la Subsecretaría de Egresos y Administración;
+I. Establecer en el ámbito de su competencia, de conformidad con las disposiciones jurídicas que a cada caso correspondan y en coordinación con las dependencias, organismos y entidades que dichas disposiciones prevean, las políticas y procedimientos para la celebración de contratos y convenios adicionales o modificatorios de adquisiciones de bienes y contratación de servicios.
 
-III. Formular los convenios a celebrar por la Secretaría con las demás dependencias y entidades de la administración pública estatal, para llevar a cabo los procesos de licitación para la adquisición de bienes y contratación de obras públicas.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. Representar a la Secretaría de Finanzas ante autoridades estatales, municipales y federales que corresponda en las controversias que se susciten con motivo de las licitaciones y contratos que tenga a su cargo esta Subsecretaría.
+II. Formular y elaborar los contratos y convenios adicionales o modificatorios de adquisiciones de bienes y servicios de las diversas dependencias y áreas adscritas a la Secretaría de conformidad con las disposiciones jurídicas que para el efecto se establecen en las leyes de la materia, con base en los lineamientos y políticas que para el efecto proporcione la Dirección General de Adquisiciones y la Subsecretaría de Egresos y Administración.
 
-V. Dirigir las actividades de recepción, registro, revisión, evaluación y seguimiento de documentos que deberán quedar integrados como anexos a los diversos contratos y convenios adicionales o modificatorios relativos a los procesos de licitación para la adquisición de bienes y contratación de obras públicas, que se suscriban en la Secretaría;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+III. Formular los convenios a celebrar por la Secretaría con las demás dependencias y entidades de la administración pública estatal, para llevar a cabo los procesos de licitación para la adquisición de bienes y contratación de servicios.
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. Representar a la Secretaría de Finanzas ante autoridades estatales, municipales y federales que corresponda en las controversias que se susciten con motivo de las licitaciones y contratos que tenga a su cargo la Secretaría.
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+
+V. Dirigir las actividades de recepción, registro, revisión, evaluación y seguimiento de documentos que deberán quedar integrados como anexos a los diversos contratos y convenios adicionales o modificatorios relativos a los procesos de licitación para la adquisición de bienes y contratación de servicios, que se suscriban en la Secretaría.
 
 VI. Elaborar el informe relativo a la estadística y registro de licitaciones, concursos, contratos y convenios adicionales o modificatorios adjudicados por la Secretaría;
 
 VII. Tramitar, en el ámbito de su competencia, la cancelación de las fianzas de anticipo y de cumplimientos de contratos y convenios cuando proceda, de acuerdo a lo previsto en los contratos y convenios correspondientes;
 
-VIII. Participar en el ámbito de su competencia con la Secretaría de Fiscalización y Rendición de Cuentas del Estado en la actualización y cambios en convocatorias, bases de licitación, sus anexos y modelo de contrato para los procesos de contratación de obras públicas y servicios relacionados con las mismas, y
+VIII. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2016)
 
 IX. Las demás que le confiera la normatividad aplicable, así como aquéllas que le confiera el Secretario y su superior jerárquico inmediato.
 
@@ -1651,21 +1811,101 @@ ARTÍCULO 34 E. (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
 ARTÍCULO 34 F. (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 9 DE MARZO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN], P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 #### SECCIÓN TERCERA. DIRECCIONES ADSCRITAS A LA COORDINACIÓN GENERAL DE PROGRAMACIÓN Y PRESUPUESTO
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 35.
 
-(DEROGADO, P.O. 9 DE MARZO DE 2015)
+Corresponde a la Dirección General de Planeación y Programación:
+
+I. Formular las directrices y criterios de planeación para integrar el Programa Anual de Inversión Pública del Estado, observando las disposiciones aplicables y su congruencia con el Plan Estatal de Desarrollo y los programas que de éste se deriven.
+
+II. Coadyuvar en la integración del Programa Anual de Inversión Pública del Estado y presentarlo para su revisión y autorización al COPLADEC.
+
+III. Informar a las dependencias ejecutoras de los techos financieros y proyectos asignados por el COPLADEC.
+
+IV. Recibir la propuesta anual de inversión formuladas por las dependencias y entidades públicas del Estado y de los municipios previamente validados (sic) y consensadas por los subcomités sectoriales y especiales del COPLADEC, a fin de que sirvan de base para el anteproyecto de inversión pública, incluyendo los diferentes convenios de inversión entre el Estado y la Federación.
+
+V. Coadyuvar en la integración de los COPLADEM, así como los subcomités sectoriales y especiales, según corresponda.
+
+VI. Coordinar e impulsar en el ámbito de su competencia, las actividades que se desarrollen en el seno del COPLADEC y los COPLADEM, sobre los diferentes programas de inversión y fuente de recursos.
+
+VII. Difundir y proporcionar orientación y capacitación a los integrantes del COPLADEC y los COPLADEM, sobre los diferentes programas de inversión y fuente de recursos.
+
+VIII. Actualiza (sic) y difundir periódicamente de conformidad con lo dispuesto por las disposiciones aplicables, las modificaciones a los manuales de operación que se generen en el programa de inversión estatal, el Convenio de Desarrollo Social, así como en otros convenios que de ellos se deriven.
+
+IX. Coordinar la integración y actualización de los diagnósticos de inversión pública municipales y sectoriales.
+
+X. Dar seguimiento a las reuniones de los COPLADEM y Subcomités Sectoriales y Especiales del COPLADEC.
+
+XI. Presentar a los comités de COPLADEM para su validación, el anteproyecto de inversión pública de su ámbito definido en los subcomités sectoriales y especiales.
+
+XII. Emitir los oficios de conocimiento de las obras y acciones autorizadas por el COPLADEC.
+
+XIII. Coordinarse con la Secretaría Técnica y de Planeación para la integración del Anexo Estadístico del Informe de Gobierno que anualmente presenta el Ejecutivo del Estado ante el congreso estatal.
+
+XIV. Coordinar la evaluación del cumplimiento del Plan Estatal de Desarrollo y de los programas que de éste se deriven en materia de inversión pública.
+
+XV. Proponer e implementar en el ámbito de su competencia mejoras al Sistema Integral de Inversión Pública para hacer más eficiente y agilizar los procesos para la operación del Programa Estatal de Inversión Pública, y;
+
+XVI. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 36.
 
-(DEROGADO, P.O. 9 DE MARZO DE 2015)
+Corresponde al Director General de Operación Presupuestal:
+
+I. Recibir, a través del Sistema Integral de Inversión Pública, los expedientes técnicos de obras, programas y acciones debidamente validados por las dependencias ejecutoras y normativas para su revisión y autorización.
+
+II. Generar oficios de autorización por contrato o administración en base a los expedientes técnicos recibidos y validados y ponerlos a consideración del Coordinador General de Programación y Presupuesto.
+
+III. Recibir copia de los contratos de obra pública y de adquisiciones para revisar su integración, en base a las disposiciones aplicables y validar su registro en el Sistema Integral de Inversión Pública para su aprobación.
+
+IV. Generar oficios de aprobación para obras y programas por contrato o administración y ponerlos a consideración del Coordinador General de Programación y Presupuesto para su autorización.
+
+V. Recibir y revisar las solicitudes de liberación de recursos y su documentación comprobatoria y ponerlas a consideración del Coordinador General de Programación y Presupuesto para su autorización.
+
+VI. Vigilar que el ejercicio presupuestal se sujete a los techos presupuestales y que la disposición de los recursos se haga conforme a los calendarios aprobados.
+
+VII. Gestionar ante la Subsecretaria de Egresos y Administración, en base a las solicitudes de liberación de recursos recibidas, el pago de anticipos y de estimaciones conforme al avance de obras o programas.
+
+VIII. Recibir y revisar las solicitudes de modificaciones presupuestales y de metas que le propongan las dependencias y entidades, o en su caso, los municipios, y someterlos a consideración del Coordinador General de Programación y Presupuesto para su autorización, instrumentando en su caso en el Sistema Integral de Inversión Pública, los cambios derivados de estas solicitudes.
+
+IX. Proponer e implementar en el ámbito de su competencia mejoras al Sistema Integral de Inversión Pública para hacer más eficiente y agilizar los procesos para la operación del Programa Estatal de Inversión Pública, y;
+
+X. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 37.
 
-(DEROGADO, P.O. 9 DE MARZO DE 2015)
+Corresponde al Director General de Evaluación y Seguimiento de Inversión Pública:
+
+I. Evaluar el avance físico y financiero del Programa Estatal de Inversión Pública.
+
+II. Informar, de acuerdo a la normatividad aplicable, sobre el avance y posibles desviaciones en la ejecución del Programa Estatal de Inversión Pública.
+
+III. Capacitar en el ámbito de su competencia, al personal de los municipios y dependencias y entidades ejecutoras para la operación del Sistema Integral de Inversión Pública, así como sobre los aspectos relacionados a la ejecución del Programa Estatal de Inversión.
+
+IV. Coordinar la integración y presentación de los informes mensuales, trimestrales y cierres de ejercicio con los avances físicos y financieros del Programa Estatal de Inversión Pública y presentarlos al Coordinador General de Programación y Presupuesto y a las instancias correspondientes, en atención a las disposiciones aplicables.
+
+V. Realizar visitas aleatorias a las obras, para verificar su avance físico y sus posibles desviaciones y comunicar a las instancias correspondientes las irregularidades observadas, a fin de que se tomen las medidas correctivas necesarias.
+
+VI. Realizar la evaluación y seguimiento de las obras aprobadas en los comités del Impuesto Sobre Nómina en el Estado.
+
+VII. Elaborar los estados de cuenta mensuales de los Comités del Impuesto Sobre Nómina en el Estado, de acuerdo a los datos de recaudación de la Administración Fiscal y ponerlos a consideración del Coordinador General de Programación y Presupuesto.
+
+VIII. Dar seguimiento a las reuniones de los Comités Técnicos del Impuesto Sobre Nómina y de los comités técnicos de los fideicomisos de los fondos metropolitanos, de acuerdo a la programación anual.
+
+IX. Elaborar el informe de seguimiento financiero a cada una de las obras financiadas con mezcla de recursos del Impuesto Sobre Nóminas; y ponerlos a consideración del Coordinador General de Programación y Presupuesto.
+
+X. Proponer e implementar en el ámbito de su competencia mejoras al Sistema Integral de Inversión Pública para eficientar y agilizar los procesos para la operación del Programa Estatal de Inversión Pública, y;
+
+XI. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 13 DE MARZO DE 2015)</small>
 
@@ -1781,25 +2021,97 @@ VI. Coadyuvar con las unidades administrativas de la Secretaría, en las controv
 
 VII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 9 DE MARZO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN], P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 #### SECCIÓN SEXTA. ADSCRITAS A LA COORDINACIÓN GENERAL DE INVERSIONES
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 42.
 
-(DEROGADO, P.O. 9 DE MARZO DE 2015)
+Corresponde al Director General de Proyectos de Inversión:
+
+I. Identificar y proponer al Coordinador General de Inversiones los proyectos de inversión que sean considerados como prioritarios por el Plan Estatal de Desarrollo y los programas que de éste se deriven.
+
+II. Establecer conjuntamente con los titulares de las dependencias y entidades del Poder Ejecutivo, los objetivos, el alcance, la integración de documentos técnicos y los cronogramas de trabajo respecto a los proyectos de inversión identificados y propuestos.
+
+III. Coordinar la integración del Banco de Proyectos de Inversión de la administración pública estatal.
+
+IV. Coordinar el proceso de evaluación socioeconómica de proyectos de inversión.
+
+V. Asesorar y acompañar a las dependencias y entidades de la administración pública estatal en la integración de la información técnica necesaria para la elaboración de los análisis costo beneficio de los proyectos de inversión, o en su caso, subrogar los servicios para la elaboración de estudios a asesores y consultores externos.
+
+VI. Elaborar y emitir, en el ámbito de su competencia, la metodología referente al ciclo de inversiones para la aplicación del uso sistemático de las técnicas de integración, gestión, evaluación y registro de proyectos.
+
+VII. Proporcionar información y cooperación técnica a las dependencias y entidades de la administración pública estatal, así como los municipios, cuando le sea solicitada, en materia de gasto de inversión e inclusión de programas y proyectos de inversión susceptibles de financiarse en el Presupuesto de Egresos de la Federación, o a través de fuentes alternativas.
+
+VIII. Analizar los proyectos de inversión enviados por las dependencias y entidades de la administración pública estatal o los municipios que así lo soliciten para verificar su congruencia con el Plan Estatal de Desarrollo, los programas regionales, sectoriales, institucionales, y los demás previstos por las disposiciones aplicables, y;
+
+IX. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 43.
 
-(DEROGADO, P.O. 9 DE MARZO DE 2015)
+Corresponde al Director de Análisis y Evaluación:
+
+I. Analizar la actividad económica de la administración pública estatal y sus políticas públicas, mediante el uso de criterios y herramientas de análisis aplicables en el ámbito de su actuación.
+
+II. Elaborar los análisis sobre temas del ámbito de competencia de la Coordinación General de Inversiones, así como recomendaciones para solucionar problemas previsibles; o bien, aprovechar oportunidades para el cumplimiento de objetivos propuestos.
+
+III. Brindar asesoría a las dependencias y entidades de la administración pública estatal en el análisis de la información e indicadores, a fin de proponer el diseño de estrategias de corto, mediano y largo plazo en materia de inversión pública.
+
+IV. Analizar en el ámbito nacional e internacional el diseño y aplicación de normas y metodologías en materia de inversión pública y privada.
+
+V. Identificar y proponer al Coordinador General de Inversiones, los fondos especiales de recursos existentes en el ámbito nacional e internacional, distintos de los programas federalizados que ya se encuentren en operación y de los cuales sea posible atraer recursos de inversión para la ejecución de programas y proyectos estratégicos del gobierno del estado.
+
+VI. Brindar apoyo respecto a las consultas de información realizadas a la Coordinación General de Inversiones por parte de las dependencias y entidades de la administración pública estatal; o bien, de los municipios que así lo soliciten, respecto al proceso presupuestario del gasto público de inversión.
+
+VII. Realizar actividades permanentes de análisis, evaluación y difusión en materia presupuestaria, y;
+
+VIII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 44.
 
-(DEROGADO, P.O. 9 DE MARZO DE 2015)
+Corresponde al Director de Normatividad y Política Presupuestaria:
+
+I. Coadyuvar con las dependencias y entidades ejecutoras de la administración pública estatal para que los programas y proyectos de inversión pública cumplan con las disposiciones aplicables.
+
+II. Coordinar y promover en el ámbito de su competencia, y en conjunto con la Coordinación General de Asuntos Jurídicos, la elaboración y actualización de reglamentos, manuales, instructivos y demás instrumentos técnico - normativos indispensables para la gestión de recursos.
+
+III. Coadyuvar, en el ámbito de su competencia, en el análisis y evaluación de los convenios y acuerdos que se promuevan entre la Federación, las dependencias y entidades de la administración pública estatal y, en su caso, los municipios.
+
+IV. Analizar y supervisar el cumplimiento de las disposiciones normativas aplicables en materia de presupuesto, para la inclusión de programas y proyectos de inversión susceptibles de ser incorporados al Presupuesto de Egresos de la Federación.
+
+V. Realizar las gestiones correspondientes ante las instancias competentes para que se lleve a cabo la entrega en tiempo y forma de los fondos, así como otros recursos descentralizados que la Federación participe al Estado y/o a los municipios, con base en las disposiciones legales y conforme a las estimaciones autorizadas por la autoridad competente.
+
+VI. Mantener informadas a las dependencias y entidades de la administración pública estatal, así como a los municipios, respecto a las disposiciones presupuestarias que regulen la gestión de recursos.
+
+VII. Verificar el cumplimiento de las observaciones emitidas por la Secretaría de Hacienda y Crédito Público y las unidades responsables de la evaluación a las documentaciones legales y técnicas correspondientes a los programas y proyectos de inversión de las dependencias y entidades de la administración pública estatal.
+
+VIII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 45.
 
-(DEROGADO, P.O. 9 DE MARZO DE 2015)
+Corresponde al Director de Seguimiento y Control de la Inversión:
+
+I. Gestionar ante la Secretaría de Hacienda y Crédito Público, el registro en la Cartera de Programas y Proyectos de Inversión para los programas y proyectos de inversión que cuenten con los elementos técnicos necesarios y cumplan con la normatividad aplicable.
+
+II. Coadyuvar con las unidades administrativas de la Secretaría en las tareas relacionadas con el diseño e implementación de políticas públicas y en el proceso presupuestario del gasto público de inversión.
+
+III. Llevar a cabo, en coordinación con las unidades administrativas competentes de las distintas dependencias y entidades de la administración pública estatal, el seguimiento, actualización y mantenimiento, así como la vigencia del registro, de los programas y proyectos que tienen su origen en el Presupuesto de Egresos de la Federación, así como otras fuentes de financiamiento.
+
+IV. Integrar una base de datos con las principales características de los programas y proyectos que conformen la Cartera Anual de Programas y Proyectos de Inversión (CAPPEI), previo acuerdo con el Coordinador General de Inversión.
+
+V. Integrar, en conjunto con las dependencias y entidades competentes de la administración pública estatal, la información cualitativa para apoyar el seguimiento a los programas y proyectos de inversión.
+
+VI. Promover esquemas de capacitación en materia presupuestaria y de gasto de inversión para las dependencias y entidades de la administración pública estatal y para los municipios que así lo soliciten.
+
+VII. Las demás que le atribuyan este reglamento y otras disposiciones aplicables, así como las que le asigne su superior jerárquico inmediato.
 
 ### CAPÍTULO VII. DE LOS ÓRGANOS DESCONCENTRADOS
 
@@ -1924,3 +2236,11 @@ P.O. 13 DE MARZO DE 2015.
 PRIMERO.- El presente decreto de modificación entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Los manuales de organización y procedimientos de la Secretaría de Finanzas deberán adecuarse en un término no mayor de 30 días a partir de la entrada en vigor del presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto de modificación entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los manuales de organización y procedimientos de la Secretaría de Finanzas deberán adecuarse en un término no mayor de 30 días hábiles a partir de la entrada en vigor del presente decreto.
