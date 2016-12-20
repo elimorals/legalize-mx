@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2016-09-07"
+last_updated: "2016-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 7 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -160,6 +160,10 @@ XL. Sustentabilidad: A la posibilidad de promover el desarrollo económico sin c
 XLI. Trámite: A la solicitud o gestión que realizan las personas físicas o jurídicas colectivas, con base en un ordenamiento jurídico, ya sea para cumplir una obligación que tienen a su cargo, o bien para obtener información, un beneficio, un servicio o una resolución, y que la autoridad a que se refiere el propio ordenamiento está obligada a resolver en los términos del mismo; y
 
 XLII. Visita colegiada: A la inspección física que los integrantes de la Comisión realizan al inmueble donde se pretende desarrollar el proyecto, producto de una gestión empresarial.
+
+> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+XLIII. UMA: A la Unidad de Medida y Actualización, que es la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de todas las anteriores.
 
 ### Capítulo Segundo. De las Autoridades de Fomento Económico
 
@@ -501,7 +505,9 @@ La Secretaría diseñará estrategias y mecanismos que tiendan al fortalecimient
 
 En sus procedimientos de licitación para adquisiciones y contrataciones, las dependencias darán preferencia a las MIPYMES y/o agrupaciones de MIPYMES, en igualdad de condiciones frente a empresas grandes, a efecto de contribuir a su consolidación, diversificación y fortalecimiento, y al desarrollo económico y competitividad del Estado.
 
-Tratándose de la adquisición de bienes y servicios que no excedan de ocho mil SMG de la zona económica de que se trate, se procurará que en ellas participen preferentemente las MIPYMES mexiquenses.
+> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de la adquisición de bienes y servicios que no excedan de ocho mil veces el valor diario de la UMA vigente, se procurará que en ellas participen preferentemente las MIPYMES mexiquenses.
 
 La Secretaría de Finanzas establecerá las medidas necesarias para asegurar el cumplimiento de ambas disposiciones.
 
@@ -1351,13 +1357,21 @@ VI. No informar a la autoridad competente sobre el cambio o modificación de las
 
 Los beneficiarios que cometan alguna de las infracciones previstas por el artículo anterior, se harán acreedores a las siguientes multas:
 
-I. De 1.000 a 2.000 días de SMG en el área geográfica que corresponda, en los casos previstos en las fracciones I a la III;
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-II. De 500 a 1.500 días de SMG en el área geográfica que corresponda, en los casos previstos en la fracción IV;
+I. De 1,000 a 2,000 veces el valor diario de la UMA vigente, en los casos previstos en las fracciones I a la III.
 
-III. De 250 a 450 días de SMG en el área geográfica que corresponda, en los casos previstos en la fracción V; y
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
 
-IV. De 360 a 1,500 días de SMG en el área geográfica que corresponda, en los casos previstos en la fracción VI.
+II. De 500 a 1,500 veces el valor diario de la unidad de la UMA vigente, en los casos previstos en la fracción IV.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+III. De 250 a 450 veces el valor diario de la UMA vigente, en los casos previstos en la fracción V.
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+IV. De 360 a 1,500 veces el valor diario de la UMA vigente, en los casos previstos en la fracción VI.
 
 ###### Artículo 75.
 
@@ -1572,3 +1586,19 @@ SÉPTIMO. Cuando en otros ordenamientos se haga referencia a los dictámenes de 
 OCTAVO. El Ejecutivo Estatal contará con un plazo no mayor a 30 días naturales posteriores a la entrada en vigor del presente Decreto, para emitir los ordenamientos jurídicos reglamentarios, en donde se establecerán los tiempos de respuesta por parte de las autoridades.
 
 NOVENO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
