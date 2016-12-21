@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-59022
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Extraordinario N° 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1143,7 +1143,9 @@ Las dependencias o entidades darán cumplimiento a la Ley de Transparencia y Acc
 
 Infracción genérica y sanción.
 
-1. Los licitantes o los inversionistas-proveedores que infrinjan cualquier disposición de esta ley serán sancionados por la Contraloría Gubernamental con multa equivalente a una cantidad entre mil y cinco mil veces el salario mínimo general vigente en la capital del Estado elevada al mes, en la fecha de la infracción.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+1. Los licitantes o los inversionistas-proveedores que infrinjan cualquier disposición de esta ley serán sancionados por la Contraloría Gubernamental con multa equivalente a una cantidad entre mil y cinco mil veces el valor mensual de la Unidad de Medida y Actualización, en la fecha de la infracción.
 
 2. Dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción a esta ley, la dependencia o entidad remitirá a la Contraloría Gubernamental la documentación comprobatoria de los hechos presuntamente constitutivos de la violación en que se hubiere incurrido.
 
@@ -1366,6 +1368,18 @@ P.O. 15 DE NOVIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-6 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL EN MATERIA DE DISCIPLINA FINANCIERA”.]
 
