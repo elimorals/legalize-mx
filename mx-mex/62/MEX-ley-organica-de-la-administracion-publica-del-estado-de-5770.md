@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2016-11-28"
+last_updated: "2016-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 24 DE NOVIEMBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 28 DE NOVIEMBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -1769,13 +1767,11 @@ XXIV. Dirigir, coordinar y operar el Registro Estatal de Inspectores, conforme a
 
 XXV. Las demás que le señalen las Leyes y Reglamentos vigentes en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 38 Ter.
 
-La Consejería Jurídica es la Dependencia encargada de planear, programar, dirigir, resolver, controlar y evaluar las funciones del registro civil, del notariado, las relativas a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes, de la función registral, legalizaciones y apostillamiento, de la defensoría pública, de los asuntos religiosos, administración de la publicación del Periódico Oficial "Gaceta del Gobierno", las relativas al reconocimiento, promoción, atención y defensa de los derechos humanos desde el poder Ejecutivo, de información de los ordenamientos legales, coordinarse con los responsables de las unidades de asuntos jurídicos de cada Dependencia de la Administración Pública Estatal, en materia jurídica de las dependencias, y demás disposiciones de observancia general en el Estado.
+La Consejería Jurídica es la Dependencia encargada de planear, programar, dirigir, resolver, controlar y evaluar las funciones del registro civil, del notariado, las relativas a la demarcación y conservación de los límites del Estado y sus municipios, en coordinación con las autoridades competentes, de la función registral, legalizaciones y apostillamiento, de la defensoría pública, de los asuntos religiosos, administración de la publicación del periódico oficial “Gaceta del Gobierno”, las relativas al reconocimiento, promoción, atención y defensa de los derechos humanos desde el Poder Ejecutivo, de proporcionar información de los ordenamientos legales, coordinarse con los responsables de las unidades de asuntos jurídicos de cada Dependencia de la Administración Pública Estatal, en materia jurídica de las dependencias y demás disposiciones de observancia general en el Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], 24 DE NOVIEMBRE DE 2016)</small>
 
@@ -1913,6 +1909,10 @@ XXIX. Coordinar las acciones relativas a la demarcación y conservación de Lím
 
 XXX. Administrar y publicar el periódico oficial "Gaceta del Gobierno";
 
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XXX Bis. Compilar y sistematizar las leyes, reglamentos, decretos, acuerdos y demás disposiciones jurídicas estatales, así como establecer el banco de datos correspondiente, con el objeto de proporcionar información del orden jurídico estatal, a través del uso de medios electrónicos.
+
 > <small>(ADICIONADA, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
 XXXI. Coordinar y asesorar las áreas jurídicas de las diversas dependencias de la Administración Pública Estatal;
@@ -1947,11 +1947,21 @@ XXXVI. Presidir, dirigir, coordinar y organizar a la Comisión Estatal de Factib
 
 XXXVII. Presidir, dirigir, coordinar y organizar al Instituto de Verificación Administrativa del Estado de México de acuerdo con su Ley de creación que al efecto se emita.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, G.G. 7 DE SEPTIEMBRE DE 2016)</small>
+XXXVIII. Promover y autorizar acciones afirmativas en favor de las servidoras públicas adscritas a su dependencia.
 
-XXXVIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Gobernador.
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XXXIX. Coordinar y representar al Mecanismo Interinstitucional de Seguimiento de las Medidas de Seguridad, Prevención y Justicia para atender y erradicar la violencia contra niñas, adolescentes y mujeres en el Estado de México.
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XL. Intervenir en las acciones contempladas en el Programa de Derechos Humanos del Estado de México, en términos de la normatividad aplicable.
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XLI. Las demás que le confieren otras disposiciones legales y aquéllas que le encomiende el Gobernador.
 
 (ADICIONADO, 24 DE NOVIEMBRE DE 2016) (F. DE E., G.G. 28 DE NOVIEMBRE DE 2016)
 
@@ -3142,3 +3152,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 181.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado contará con un plazo no mayor de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a las disposiciones reglamentarias.
+
+CUARTO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
