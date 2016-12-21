@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-control-constitucional-para-el-estado-de-tamaulipas-7536
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-30"
-last_updated: "2010-03-30"
+last_updated: "2016-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75361&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CONTROL CONSTITUCIONAL PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 30 de marzo de 2010.
 
@@ -31,7 +31,7 @@ EUGENIO HERNANDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano 
 
 Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-Al margen un sello que dice:- "(sic) Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+Al margen un sello que dice:- "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
 
 LA SEXAGESIMA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -525,7 +525,9 @@ V. Contra los autos o resoluciones del Presidente del Tribunal Constitucional qu
 
 1. El recurso de reclamación deberá interponerse dentro de un plazo de cinco días hábiles siguientes a la notificación del acto impugnado y en él deberán expresarse agravios y acompañarse de pruebas.
 
-2. Cuando el recurso de reclamación se interponga sin motivo, se impondrá al recurrente o a su representante, a su abogado o a ambos, una multa de diez a ciento veinte días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2. Cuando el recurso de reclamación se interponga sin motivo, se impondrá al recurrente o a su representante, a su abogado o a ambos, una multa de diez a ciento veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 58.
 
@@ -597,7 +599,7 @@ III. Los regidores de los Ayuntamientos del Estado, cuando tengan la aprobación
 
 IV. El Procurador General de Justicia del Estado; y,
 
-V. El Presidente de la Comisión de Derechos Humanos del Estado de Tamaulipas, cuando se expida alguna norma que transgreda los derechos humanos; (sic)
+V. El Presidente de la Comisión de Derechos Humanos del Estado de Tamaulipas, cuando se expida alguna norma que transgreda los derechos humanos;
 
 ###### ARTICULO 67.
 
@@ -709,10 +711,24 @@ T R A N S I T O R I O
 
 El presente Decreto entrará en vigor el 1 de abril del 2010 y será publicado en el Periódico Oficial del Estado.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 18 de marzo del año 2010.- DIPUTADO PRESIDENTE.- JOSE MANUEL ABDALA DE LA FUENTE.- Rúbrica.- DIPUTADO SECRETARIO.- JESUS EUGENIO ZERMEÑO GONZALEZ.- Rúbrica.- DIPUTADA SECRETARIA.- NORMA CORDERO GONZALEZ.- Rúbrica." (sic)
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 18 de marzo del año 2010.- DIPUTADO PRESIDENTE.- JOSE MANUEL ABDALA DE LA FUENTE.- Rúbrica.- DIPUTADO SECRETARIO.- JESUS EUGENIO ZERMEÑO GONZALEZ.- Rúbrica.- DIPUTADA SECRETARIA.- NORMA CORDERO GONZALEZ.- Rúbrica."
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veinticinco días del mes de marzo del año dos mil diez.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- HUGO ANDRES ARAUJO DE LA TORRE.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
