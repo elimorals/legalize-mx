@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-regimen-de-propiedad-en-condominio-de-bienes-32168
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-11"
-last_updated: "2006-09-06"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS
 
-LEY SOBRE EL REGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS
+LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE BIENES INMUEBLES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el miércoles 11 de junio de 2003.
 
@@ -859,19 +859,31 @@ Las violaciones a lo establecido por la presente ley y demás disposiciones que 
 
 La contravención a las disposiciones de esta ley establecidas en los artículos 15, 17, 22, 24, 25, 28, 38, 40, 43 y 53 serán sancionadas con multa que se aplicará de acuerdo con los siguientes criterios:
 
-I.- Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, se aplicará multa por el equivalente de diez a cien días de salario mínimo general vigente en el municipio de que se trate;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos; que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes; o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de cincuenta a doscientos días de salario mínimo general vigente en el municipio de que se trate;
+I.- Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, se aplicará multa por el equivalente de diez a cien veces el valor diario de la Unidad de Medida y Actualización;
 
-III.- Por aquellas faltas que provoquen un daño patrimonial, o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el equivalente de cincuenta a trescientos días de salario mínimo general vigente en el municipio de que se trate;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV.- Por incumplimiento en el pago oportuno de las cuotas ordinarias, extraordinarias, de servicio, de mantenimiento y las correspondientes al fondo de reserva, se aplicará multa que no podrá ser mayor a cien días de salario mínimo general vigente en el municipio de que se trate;
+II.- Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos; que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes; o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III.- Por aquellas faltas que provoquen un daño patrimonial, o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el equivalente de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV.- Por incumplimiento en el pago oportuno de las cuotas ordinarias, extraordinarias, de servicio, de mantenimiento y las correspondientes al fondo de reserva, se aplicará multa que no podrá ser mayor a cien veces el valor diario de la Unidad de Medida y Actualización;
 
 V.- Los administradores que a juicio de la asamblea, no hagan un buen manejo de las cuotas de servicios, mantenimiento y/o extraordinarias, por el abuso de su cargo o incumplimiento de sus funciones, estarán sujetos a las sanciones establecidas en las fracciones I, II, III y IV de este artículo, aumentando un 50% la sanción que corresponda, independientemente de las responsabilidades o sanciones a que haya lugar, contempladas en otras leyes. Lo anterior será determinado por la asamblea general.
 
-VI.- Se aplicará multa de cincuenta días de salario mínimo general vigente en el municipio de que se trate al administrador o persona que tenga bajo su custodia el libro de actas debidamente autorizado y que habiendo sido notificado de una asamblea legalmente constituida no lo presente para el desahogo de la misma;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VII.- Se aplicará de cincuenta a trescientos días de salario mínimo general vigente en el municipio de que se trate por incumplimiento a lo dispuesto en el artículo 40 de la presente Ley;
+VI.- Se aplicará multa de cincuenta veces el valor diario de la Unidad de Medida y Actualización al administrador o persona que tenga bajo su custodia el libro de actas debidamente autorizado y que habiendo sido notificado de una asamblea legalmente constituida no lo presente para el desahogo de la misma;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VII.- Se aplicará de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización por incumplimiento a lo dispuesto en el artículo 40 de la presente Ley;
 
 En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta.
 
@@ -928,3 +940,15 @@ P.O. 6 DE SEPTIEMBRE DE 2006.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
