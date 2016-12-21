@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-prevencion-de-la-violencia-familiar-del-estado-de-64106"
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-24"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64106&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREVENCIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 24 de junio de 2008.
 
@@ -417,17 +417,25 @@ II. Incumplir el convenio derivado del procedimiento de mediación o conciliaci�
 
 1. Las infracciones a la presente ley se sancionarán con:
 
-l. Multa de 30 a 180 días de salario mínimo general vigente en la capital del Estado, al momento de cometer la infracción; o
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+I. Multa de treinta a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización, al momento de cometer la infracción; o
 
 II. Arresto administrativo inconmutable hasta por 36 horas.
 
-2. Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2. Si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o el valor diario de la Unidad de Medida y Actualización. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
 ###### Artículo 29.
 
-1. Se sancionará con multa de hasta 45 días de salario mínimo general vigente en la capital del Estado, el incumplimiento de los términos establecidos en el convenio que se elabore en el procedimiento de mediación.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Se sancionarán con multa de hasta 90 días de salario mínimo general vigente en la capital del Estado, los actos de violencia familiar que se señalan en el artículo 3 de la presente ley y que no constituyen delito por otro ordenamiento, o que constituyéndolo, la víctima opte por no ejercerlos aún y cuando tuviera derecho a recurrir a esa vía legal, prefiriendo las acciones de esta ley.
+1. Se sancionará con multa de hasta cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización, el incumplimiento de los términos establecidos en el convenio que se elabore en el procedimiento de mediación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2. Se sancionarán con multa de hasta noventa veces el valor diario de la Unidad de Medida y Actualización, los actos de violencia familiar que se señalan en el artículo 3 de la presente ley y que no constituyen delito por otro ordenamiento, o que constituyéndolo, la víctima opte por no ejercerlos aún y cuando tuviera derecho a recurrir a esa vía legal, prefiriendo las acciones de esta ley.
 
 3. La reincidencia se sancionará con arresto administrativo inconmutable por 36 horas.
 
@@ -482,3 +490,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
