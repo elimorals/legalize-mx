@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2015-05-26"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -761,7 +761,9 @@ La solicitud para la cesión o transmisión de los derechos y obligaciones deriv
 
 De autorizarse la cesión de una concesión, el nuevo titular se subrogará en los derechos y obligaciones que le son inherentes y será responsable de la prestación del servicio en los términos y condiciones en que fue inicialmente autorizado y las modificaciones que en su caso hubiere realizado la Secretaría.
 
-Por el trámite de una autorización de cesión de derechos, de resultar procedente, el interesado está obligado a pagar por concepto de derechos por la expedición de la referida autorización el equivalente a 200 días de salario mínimo general vigente en la capital del Estado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Por el trámite de una autorización de cesión de derechos, de resultar procedente, el interesado está obligado a pagar por concepto de derechos por la expedición de la referida autorización el equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 El Gobierno del Estado no otorgará otra concesión al concesionario que haya transferido sus derechos.
 
@@ -1653,81 +1655,99 @@ La suspensión o extinción de los derechos derivados de las concesiones no susp
 
 Las infracciones cometidas en contravención de lo previsto en esta ley por los titulares de las concesiones, permisos o autorizaciones, o sus representantes, conductores, empleados o personas relacionadas directamente con el transporte de pasajeros o de carga se sancionarán conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-I.- Prestar el servicio público de transporte, sin contar con la concesión correspondiente, se sancionará con multa de 280 a 300 días de salario mínimo tratándose de transporte individual de pasajeros especializado y con multa de 480 a 500 días, cuando se aplique a transporte colectivo de pasajeros y transporte de carga;
+I.- Prestar el servicio público de transporte, sin contar con la concesión correspondiente, se sancionará con multa de doscientas ochenta a trecientas veces el valor diario de la Unidad de Medida y Actualización tratándose de transporte individual de pasajeros especializado y con multa de cuatrocientas ochenta a quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando se aplique a transporte colectivo de pasajeros y transporte de carga;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- Cuando en la prestación del servicio público de transporte individual, colectivo y masivo de pasajeros se cobren en casos debidamente comprobados, por cualquier medio de prueba fehaciente, tarifas distintas a las autorizadas por la Secretaría, se sancionará con multa de 40 a 60 días de salario mínimo;
+II.- Cuando en la prestación del servicio público de transporte individual, colectivo y masivo de pasajeros se cobren en casos debidamente comprobados, por cualquier medio de prueba fehaciente, tarifas distintas a las autorizadas por la Secretaría, se sancionará con multa de cuarenta a sesenta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-III.- Modificar o alterar los concesionarios los itinerarios o rutas, horarios, o las condiciones de prestación del servicio en los términos de esta ley, sus reglamentos, las disposiciones dictadas por la Secretaría, se sancionará con multa de 40 a 60 días de salario mínimo;
+III.- Modificar o alterar los concesionarios los itinerarios o rutas, horarios, o las condiciones de prestación del servicio en los términos de esta ley, sus reglamentos, las disposiciones dictadas por la Secretaría, se sancionará con multa de cuarenta a sesenta veces el valor diario de la Unidad de Medida y Actualización;
 
-IV.- El negarse a prestar el servicio al usuario sin causa justificada, así como los actos de maltrato para con el público se sancionará, con multa de 80 a 100 días de salario mínimo tratándose de servicio de pasajeros y de 60 a 80 días de salario mínimo tratándose de servicio de carga;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-V.- Se sancionará con multa equivalente de 60 a 80 veces el salario mínimo, a los responsables, conductores, concesionarios y prestadores del servicio público de transporte en cualquier modalidad, que nieguen, impidan u obstaculicen el uso del servicio a las personas con discapacidad;
+IV.- El negarse a prestar el servicio al usuario sin causa justificada, así como los actos de maltrato para con el público se sancionará, con multa de sesenta a ochenta veces el valor diario de la Unidad de Medida y Actualización tratándose de servicio de pasajeros y de sesenta a ochenta veces el valor diario de la Unidad de Medida y Actualización tratándose de servicio de carga;
 
-VI.- Los vehículos que transporten materiales, sustancias o residuos peligrosos y no cuenten con los permisos correspondientes, serán sancionados con multa de 500 a 1000 días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VII.- Por realizar servicio de transporte privado de carga o de pasajeros sin contar con el permiso respectivo, se impondrá multa de 160 a 200 días de salario mínimo;
+V.- Se sancionará con multa equivalente de sesenta a ochenta veces el valor diario de la Unidad de Medida y Actualización, a los responsables, conductores, concesionarios y prestadores del servicio público de transporte en cualquier modalidad, que nieguen, impidan u obstaculicen el uso del servicio a las personas con discapacidad;
 
-VIII.- En el caso de que los vehículos afectados a la concesión o permiso sean conducidos por personas que carezcan de licencia para conducir, se retirarán de inmediato de la circulación y se sancionará a los propietarios de los mismos, con multa de 80 a 100 días de salario mínimo tratándose de unidades de pasajeros y de 60 a 80 días de salario mínimo en el caso de unidades de carga;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VI.- Los vehículos que transporten materiales, sustancias o residuos peligrosos y no cuenten con los permisos correspondientes, serán sancionados con multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VII.- Por realizar servicio de transporte privado de carga o de pasajeros sin contar con el permiso respectivo, se impondrá multa de ciento sesenta a doscientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VIII.- En el caso de que los vehículos afectados a la concesión o permiso sean conducidos por personas que carezcan de licencia para conducir, se retirarán de inmediato de la circulación y se sancionará a los propietarios de los mismos, con multa de ochenta a cien veces el valor diario de la Unidad de Medida y Actualización tratándose de unidades de pasajeros y de sesenta a ochenta veces el valor diario de la Unidad de Medida y Actualización en el caso de unidades de carga;
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2014)</small>
 
 IX.- Al chofer que conduzca una unidad prestadora del servicio público de transporte bajo los efectos de bebidas alcohólicas, enervantes o cualquier otra sustancia tóxica, se le revocará el Tarjetón de Identidad para conducir vehículos automotores previsto en el Reglamento de Transporte del Estado, sin perjuicio de las responsabilidades y acciones adicionales que además se originen;
 
-X.- Cuando las unidades de transporte afectas a la concesión o permiso, no respeten el derecho establecido para el paso de peatones en la vía de circulación o invadan los accesos peatonales establecidos, se impondrá multa de 60 a 80 días de salario mínimo tratándose de servicio de pasajeros y de 40 a 60 días de salario mínimo tratándose de servicio de carga;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XI.- A los concesionarios o permisionarios, que se nieguen a proporcionar la documentación, datos, información y demás elementos inherentes a la naturaleza de las concesiones o permisos otorgados, se les aplicará una sanción consistente en una multa de 80 a 100 días de salario mínimo;
+X.- Cuando las unidades de transporte afectas a la concesión o permiso, no respeten el derecho establecido para el paso de peatones en la vía de circulación o invadan los accesos peatonales establecidos, se impondrá multa de sesenta a ochenta veces el valor diario de la Unidad de Medida y Actualización tratándose de servicio de pasajeros y de cuarenta a sesenta veces el valor diario de la Unidad de Medida y Actualización tratándose de servicio de carga;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XII.- A los concesionarios de servicio público de transporte que no cuentan con póliza de seguro vigente, para indemnizar los daños y perjuicios que con motivo de la prestación del servicio se causen a los usuarios, peatones o terceros se les sancionará, con multa de 80 a 100 días de salario mínimo tratándose de servicio de pasajeros y de 60 a 80 días de salario mínimo en el caso del servicio de (sic) especializado y carga;
+XI.- A los concesionarios o permisionarios, que se nieguen a proporcionar la documentación, datos, información y demás elementos inherentes a la naturaleza de las concesiones o permisos otorgados, se les aplicará una sanción consistente en una multa de ochenta a cien veces el valor diario de la Unidad de Medida y Actualización;
 
-XIII.- A los concesionarios de servicio público de transporte que no porten en sus unidades la póliza de seguro vigente, para indemnizar los daños y perjuicios que con motivo de la prestación del servicio se causen a los usuarios, peatones o terceros se les sancionará, con multa de 60 a 80 días de salario tratándose de servicio de pasajeros y de 40 a 60 días de salario mínimo en el caso de servicio de carga;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+XII.- A los concesionarios de servicio público de transporte que no cuentan con póliza de seguro vigente, para indemnizar los daños y perjuicios que con motivo de la prestación del servicio se causen a los usuarios, peatones o terceros se les sancionará, con multa de ochenta a cien veces el valor diario de la Unidad de Medida y Actualización tratándose de servicio de pasajeros y de sesenta a ochenta veces el valor diario de la Unidad de Medida y Actualización en el caso del servicio de especializado y carga;
 
-XIV.- A los concesionarios de servicio público de transporte que alteren en cualquier forma el diseño, estructura y construcción original de las unidades afectas al servicio sin autorización expresa de la Secretaría, se les sancionará, con multa de 100 a 200 días de salario mínimo tratándose de servicio de pasajeros y de 80 a 100 días de salario mínimo en el caso del servicio especializado y de carga;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2012)</small>
+XIII.- A los concesionarios de servicio público de transporte que no porten en sus unidades la póliza de seguro vigente, para indemnizar los daños y perjuicios que con motivo de la prestación del servicio se causen a los usuarios, peatones o terceros se les sancionará, con multa de sesenta a ochenta veces el valor diario de la Unidad de Medida y Actualización tratándose de servicio de pasajeros y de cuarenta a sesenta veces el valor diario de la Unidad de Medida y Actualización en el caso de servicio de carga;
 
-XV.- Por utilizar vehículos robados en la prestación del servicio o partes de los mismos para efectuar reparaciones o adaptaciones, se sancionará con multa de 480 a 500 días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+XIV.- A los concesionarios de servicio público de transporte que alteren en cualquier forma el diseño, estructura y construcción original de las unidades afectas al servicio sin autorización expresa de la Secretaría, se les sancionará, con multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización tratándose de servicio de pasajeros y de ochenta a cien veces el valor diario de la Unidad de Medida y Actualización en el caso del servicio especializado y de carga;
 
-XVI.- Por utilizar vehículos ilegalmente introducidos en el país en la prestación del servicio, se sancionará con multa de 480 a 500 días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2012)</small>
+XV.- Por utilizar vehículos robados en la prestación del servicio o partes de los mismos para efectuar reparaciones o adaptaciones, se sancionará con multa de cuatrocientos ochenta a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-XVII.- Por permitir a sabiendas o utilizar el vehículo, los bienes, servicios o equipamientos auxiliares para la comisión de delitos, se sancionará con multa de 480 a 500 días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+XVI.- Por utilizar vehículos ilegalmente introducidos en el país en la prestación del servicio, se sancionará con multa de cuatrocientos ochenta a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-XVIII.- Cuando se exhiban placas, documentación apócrifa, o se proporcionen informes o datos falsos a la Secretaría, se sancionará con multa de 480 a 500 días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+XVII.- Por permitir a sabiendas o utilizar el vehículo, los bienes, servicios o equipamientos auxiliares para la comisión de delitos, se sancionará con multa de cuatrocientos ochenta a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-XIX.- Cuando no se encuentren debidamente actualizadas las placas y la documentación al amparo de la cual se esté prestando el servicio público de transporte, se sancionará con multa de 480 a 500 días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2015)</small>
+XVIII.- Cuando se exhiban placas, documentación apócrifa, o se proporcionen informes o datos falsos a la Secretaría, se sancionará con multa de cuatrocientos ochenta a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-XX.- Se sancionará con multa de 100 a 200 días de salario mínimo al concesionario que incumpla la obligación prevista en la fracción XXIX del artículo 60 de la presente ley;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2015)</small>
+XIX.- Cuando no se encuentren debidamente actualizadas las placas y la documentación al amparo de la cual se esté prestando el servicio público de transporte, se sancionará con multa de cuatrocientos ochenta a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-XXI.- Por instalar publicidad en las unidades de transporte público sin la autorización correspondiente de la Secretaría, se impondrá una multa de 100 días de salario mínimo; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2015)</small>
+XX.- Se sancionará con multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización al concesionario que incumpla la obligación prevista en la fracción XXIX del artículo 60 de la presente ley;
 
-XXII.- Cualquier otra violación a la presente ley, a las condiciones establecidas en la concesión o permiso y a las demás disposiciones y acuerdos de la Secretaría y cuya sanción no esté expresamente prevista, se impondrá multa de 40 a 60 días de salario mínimo.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XXI.- Por instalar publicidad en las unidades de transporte público sin la autorización correspondiente de la Secretaría, se impondrá una multa de cien veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XXII.- Cualquier otra violación a la presente ley, a las condiciones establecidas en la concesión o permiso y a las demás disposiciones y acuerdos de la Secretaría y cuya sanción no esté expresamente prevista, se impondrá multa de cuarenta a sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
 En la comisión de las infracciones establecidas en esta ley, se considera solidariamente responsable al titular de la concesión, permiso o autorización de que se trate.
 
-Para los efectos de esta ley se entiende por salario mínimo, el salario mínimo general vigente en la capital del Estado al momento de la comisión de la infracción.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos de esta ley se entiende por Unidad de Medida y Actualización, la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en esta ley.
 
 Las sanciones que señalan en este capítulo, se aplicarán sin perjuicio de las causas de remisión de unidades a los depósitos vehiculares, la revocación de la concesión o permiso, y la responsabilidad civil o penal que resulten de la comisión de la infracción.
 
@@ -2052,3 +2072,15 @@ Atendiendo a la reforma del artículo 60 fracción XXVIII de la Ley de Transport
 ###### ARTÍCULO SEXTO.
 
 El Reglamento deberá adecuarse a la presente ley, así como las Normas Técnicas expedirse, ambos dentro de los 180 días siguientes a la fecha de entrada en vigor del presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
