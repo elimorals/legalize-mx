@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-cultura-y-las-artes-del-estado-de-queretaro-47644"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-30"
-last_updated: "2005-12-30"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "QUE"
 ---
 # LEY PARA LA CULTURA Y LAS ARTES DEL ESTADO DE QUERETARO
 
-LEY PARA LA CULTURA Y LAS ARTES DEL ESTADO DE QUERETARO
+LEY PARA LA CULTURA Y LAS ARTES DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado del Estado de Querétaro, el viernes 30 de diciembre de 2005.
 
@@ -85,17 +85,21 @@ VII. Definir la competencia de la autoridad estatal y municipal en materia cultu
 
 Son autoridades encargadas de la aplicación de esta Ley:
 
-I. El Titular del Poder Ejecutivo del Estado, quien podrá delegarla en el Secretario de Educación;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+I. El Poder Ejecutivo del Estado, por conducto de la Secretaría de Cultura;
 
 II. Los ayuntamientos;
 
-III. El Instituto Queretano de la Cultura y las Artes; y
+III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 
 IV. Los organismos culturales del orden municipal, a los que hace alusión el artículo 36 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 5.
 
-Compete al Titular del Poder Ejecutivo:
+Corresponde al Poder Ejecutivo del Estado, por conducto de la Secretaría de Cultura:
 
 I. Establecer objetivos y estrategias para la preservación, fomento, difusión y promoción de la cultura;
 
@@ -103,7 +107,9 @@ II. Coadyuvar en la preservación de los monumentos arqueológicos, históricos 
 
 III. Preservar y promover las manifestaciones de la cultura local y de los grupos indígenas asentados en territorio del estado;
 
-IV. Otorgar, a través del Instituto Queretano de la Cultura y las Artes, reconocimientos y estímulos a las personas que se hayan distinguido en el campo de la cultura, conforme a las bases que previamente se establezcan;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV. Otorgar reconocimientos y estímulos a quienes se hayan distinguido en el campo de la cultura, conforme a las bases que previamente se establezcan;
 
 V. Formular la política cultural de la Entidad;
 
@@ -111,7 +117,7 @@ VI. Celebrar con los ayuntamientos, la federación, las entidades federativas y 
 
 VII. Promover la celebración de festivales, estatales, regionales, nacionales e internacionales, para difundir la cultura de la Entidad;
 
-VIII. Incluir en el Presupuesto de Egresos respectivo, una partida al Instituto Queretano de la Cultura y las Artes; y
+VIII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 
 IX. Las demás que en la materia se le otorguen por esta Ley y por otros ordenamientos.
 
@@ -163,9 +169,11 @@ Las autoridades encargadas de la aplicación de esta Ley procurarán coordinarse
 
 ### CAPÍTULO III. DE LAS FACULTADES Y OBLIGACIONES COORDINADAS EN MATERIA DE CULTURA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 9.
 
-El Ejecutivo del Estado, conforme a los programas de fomento a la cultura, celebrará acuerdos de coordinación con dependencias e instituciones federales, o con otras entidades federativas, para:
+El Poder Ejecutivo del Estado, a través de la Secretaría de Cultura, celebrará acuerdos de coordinación y/o de colaboración con la Federación u otras entidades federativas, conforme a los programas de fomento a la cultura, para:
 
 I. Favorecer el acceso de los queretanos a las instalaciones, servicios y bienes culturales estatales y nacionales;
 
@@ -175,9 +183,11 @@ III. Difundir, promover y estimular la creación artística en el estado; y
 
 IV. Aprovechar la infraestructura federal destinada a cuestiones culturales, para los efectos de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 10.
 
-El Poder Ejecutivo del Estado podrá celebrar con los ayuntamientos convenios de coordinación, con los fines siguientes:
+El Poder Ejecutivo del Estado podrá celebrar, a través de la Secretaría de Cultura, convenios de coordinación con los municipios, para efectos de lo siguiente:
 
 I. Propiciar que los municipios y sus habitantes se beneficien con los acuerdos a que se refiere el artículo anterior;
 
@@ -191,9 +201,11 @@ V. Asegurar la participación de los municipios en el Programa Estatal de Cultur
 
 VI. Garantizar la actividad cultural integral, que es la destinada a desarrollar los derechos culturales de las personas y comunidades establecidos en la Constitución, y a operar como el marco de orientación vinculante para la ciudadanía en general.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 11.
 
-El gobierno del Estado, en coordinación con los ayuntamientos, podrá crear infraestructura de servicios culturales, participando conjuntamente en su administración, financiamiento y organización.
+El Poder Ejecutivo del Estado, en coordinación con los municipios, podrá crear infraestructura de servicios culturales, participando conjuntamente en su administración, financiamiento y organización.
 
 ### CAPÍTULO IV. DEL PROGRAMA ESTATAL DE CULTURA
 
@@ -209,267 +221,127 @@ III. Los lineamientos específicos en materia de cultura, tradiciones populares 
 
 IV. Los procedimientos de evaluación adecuados para determinar el cumplimiento de los objetivos planeados.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 13.
 
-Para la elaboración del Programa Estatal de Cultura deberán considerarse los requerimientos de tipo cultural de las diversas regiones del estado y sus municipios, procurando evitar duplicidad de acciones de los diferentes niveles de gobierno. En lo general, el Instituto Queretano de la Cultura y las Artes, convocará a la sociedad y, en lo particular, a la comunidad cultural, a participar con propuestas en la elaboración del Programa Estatal de Cultura.
+Para la elaboración del Programa Estatal de Cultura deberán considerarse los requerimientos de tipo cultural de las diversas regiones del Estado y sus municipios, procurando evitar duplicidad de acciones. La Secretaría de Cultura del Poder Ejecutivo del Estado, convocará a la sociedad y a la comunidad cultural, a efecto de que participen en dicho proceso, a través de la presentación de propuestas.
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ## TÍTULO SEGUNDO. DEL INSTITUTO QUERETANO DE LA CULTURA Y LAS ARTES
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO I. DEL INSTITUTO QUERETANO DE LA CULTURA Y LAS ARTES
 
 ###### Artículo 14.
 
-El Instituto Queretano de la Cultura y las Artes es el organismo público descentralizado, con personalidad jurídica, patrimonio propio y domicilio en la capital del Estado; es el encargado de coordinar y vigilar las políticas generales sobre la cultura y de dictar las normas técnicas, operativas y administrativas, atendiendo a los principios que establece esta Ley para sustentar la cultura y el arte en el Estado; en adelante denominado el Instituto.
-
-El Instituto, para garantizar su funcionamiento, se coordinará con las instancias públicas y privadas involucradas en los procesos de planeación, en el ámbito de la salud, la educación, el turismo, la ciencia, la tecnología ambiental, el deporte y la recreación, en materia cultural, con el fin de garantizar el uso eficiente y racional de los recursos destinados al desarrollo y promoción cultural en la Entidad.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 15.
 
-Son órganos del Instituto los siguientes:
-
-I. El Consejo Directivo; y
-
-II. La Dirección General.
-
-Para el mejor desempeño de sus funciones, el Instituto contará con el personal técnico y administrativo que apruebe el Consejo Directivo a propuesta del Director General y de acuerdo a su disponibilidad presupuestal.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 16.
 
-Para el cumplimiento de sus objetivos, el Instituto tendrá las siguientes atribuciones y funciones:
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
-I. Administrar, dirigir, coordinar y conservar los centros culturales, teatros, bibliotecas, hemerotecas, pinacotecas, fonotecas, museos, galerías, centros de investigación y educación artística; así como todos aquellos espacios donde se lleven a cabo servicios culturales que le hayan sido adscritos y, por tanto, dependan del Instituto en el ámbito de su competencia legal y con acuerdo de la entidad pública o particular que corresponda;
-
-II. Realizar investigaciones, estudios y demás acciones tendientes a rescatar tradiciones perdidas o en posibilidad de desaparecer; además de promover, preservar y difundir el acervo cultural estatal, así como alentar la investigación y el estudio en materia cultural;
-
-III. Fomentar, administrar y promover la apertura de nuevos centros de cultura que respondan a las iniciativas y a los procesos socioculturales de la Entidad;
-
-IV. Elaborar el Programa Estatal de Cultura, previa realización de un diagnóstico en la materia;
-
-V. Apoyar y asesorar a las respectivas instancias estatales y municipales, en la formulación de sus respectivos Planes de Desarrollo en materia de arte y cultura;
-
-VI. Fungir como órgano de asesoría y consulta del Gobierno del Estado y los municipios, en materias técnicas propias de su naturaleza y objetivos, así como todo asunto relacionado con la preservación y promoción de la cultura y las artes en la Entidad;
-
-VII. Diseñar estrategias y metodologías en los procesos de operatividad, seguimiento y evolución para la consolidación de la cultura en la Entidad;
-
-VIII. Promover la vinculación constante con el sistema educativo para incrementar los contenidos artísticos y culturales en sus planes y programas, ampliando así su participación en el proyecto cultural del Estado;
-
-IX. Propiciar la creación de espacios para la participación de la comunidad en el desarrollo cultural y artístico;
-
-X. Coordinar y promover, en el ámbito de la cultura, acciones conjuntas con los Ayuntamientos de la Entidad, para propiciar el aprovechamiento del potencial administrativo y humano en el ámbito de la cultura y las artes, en beneficio de sus comunidades;
-
-XI. Proponer la inversión de recursos públicos y privados, en las materias de rescate y conservación del patrimonio cultural, apoyo y fomento a la creación y expresión artística, difusión y promoción cultural, en los términos y conforme a los principios y objetivos que establece esta Ley;
-
-XII. Promover, coordinar y realizar actos de reconocimiento a todas las personas que hayan contribuido destacadamente, en forma directa o indirecta, al desarrollo artístico y cultural del Estado; dichos reconocimientos podrán consistir en premios o estímulos, según establezca la convocatoria respectiva;
-
-XIII. Fomentar y llevar a cabo programas especiales tendientes a incorporar a los niños, jóvenes, adultos mayores y personas con capacidades diferentes en la iniciación de actividades artísticas y creativas en coordinación con instituciones, sociedades y asociaciones civiles afines;
-
-XIV. Denunciar ante las autoridades competentes los delitos o faltas en que incurran servidores públicos o particulares por actos u omisiones en perjuicio del patrimonio cultural;
-
-XV. Establecer un registro del patrimonio cultural del Estado;
-
-XVI. Presentar un informe anual a los Poderes Ejecutivo y Legislativo del Estado de Querétaro y a la sociedad queretana, a través del Director General, sobre la evolución en la consecución de los objetivos del Instituto, que incluirá la situación demográfica y socio cultural de la Entidad y los municipios;
-
-XVII. Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades de organismos de cultura, instituciones académicas y asociaciones para el mejor cumplimiento de sus fines;
-
-XVIII. Usar, administrar y conservar los bienes muebles e inmuebles destinados al cumplimiento de sus atribuciones;
-
-XIX. Promover y fomentar la adquisición de material didáctico y de lecturas para ciudadanos con capacidades diferentes en centros culturales y bibliotecas; y
-
-XX. Vigilar el cumplimiento de los derechos consagrados en esta Ley.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO II. INTEGRACIÓN, NOMBRAMIENTO Y FACULTADES DEL CONSEJO DIRECTIVO DEL INSTITUTO QUERETANO DE LA CULTURA Y LAS ARTES
 
 ###### Artículo 17.
 
-El Consejo Directivo del Instituto Queretano de la Cultura y las Artes, en lo sucesivo el Consejo, será la autoridad superior del Instituto.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 18.
 
-El Consejo estará integrado por:
-
-I. El Titular del Ejecutivo del Estado o la persona que él designe, quien lo presidirá y tendrá voto de calidad;
-
-II. Ocho vocales, que serán:
-
-a) El Secretario de Educación;
-
-b) El Secretario de Gobierno;
-
-c) El Secretario de Planeación y Finanzas;
-
-d) El Oficial Mayor del Gobierno del Estado;
-
-e) El representante de la Secretaría de Educación Pública en el Estado a invitación expresa del Presidente del Consejo;
-
-f) Un representante de alguna institución pública de Educación Superior del Estado designado por su respectivo director o rector, a invitación del Presidente; y
-
-g) Dos consejeros ciudadanos de reconocido prestigio en la sociedad en materia de arte y cultura, los cuales serán designados por el Titular del Ejecutivo.
-
-III. El Director General, quien fungirá como Secretario del Consejo, quién participará con voz y voto.
-
-El Consejo contará, además, con un Comisario que será el representante de la Secretaría de la Contraloría, quien participará con voz pero sin voto.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 19.
 
-El cargo de miembro de Consejo, excepto el de Director General del Instituto, será de carácter honorífico; por tanto, su desempeño no implicara relación laboral alguna, ni devengará salario o estipendio de ninguna naturaleza.
-
-Los consejeros ciudadanos deberán estar en pleno ejercicio de sus derechos civiles y acreditar experiencia académica o profesional relacionada con el arte y la cultura.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 20.
 
-Los consejeros ciudadanos durarán en funciones cuatro años, sin la posibilidad de reelección inmediata.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 21.
 
-El Consejo Directivo del Instituto tendrá las siguientes facultades:
-
-I. Desarrollar la política cultural que deberá aplicarse a nivel estatal y normar la coordinación que deberá llevar a cabo con otros organismos para la aplicación de dicha política, que será en congruencia con el Plan Estatal de Desarrollo;
-
-II. Establecer la estructura interna del Instituto y, en su caso, aprobar sus modificaciones;
-
-III. Establecer los lineamientos generales de actuación del Instituto;
-
-IV. Aprobar el reglamento interior del Instituto;
-
-V. Evaluar, anualmente, los resultados de los planes y programas ejecutados por la Dirección General;
-
-VI. Aprobar el informe anual que el Director General del Instituto presente ante los Poderes Ejecutivo y Legislativo del Estado de Querétaro y a la sociedad queretana;
-
-VII. Solicitar al Director General información adicional sobre los asuntos que sean de su competencia en materia de arte y cultura en la Entidad;
-
-VIII. Conocer, aprobar y dictaminar el informe del Director General del Instituto respecto del ejercicio presupuestal;
-
-IX. Administrar y ejercer actos de dominio sobre el patrimonio del Instituto, por conducto del Director General, en los términos que dispone la Ley;
-
-X. Resolver sobre las quejas y denuncias en contra del Director General, en relación con actos u omisiones cometidos en el desempeño de sus funciones;
-
-XI. Aprobar el proyecto que presente el Director General del Instituto Estatal para la Cultura; y
-
-XII. Las demás que le confiere la presente Ley u otras disposiciones aplicables.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 22.
 
-El Consejo funcionará en sesiones ordinarias y extraordinarias, debiendo sesionar, en forma ordinaria, por lo menos dos veces al año.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
-Las sesiones extraordinarias podrán convocarse por el Director General del Instituto, por instrucciones del Presidente o cuando así lo solicite la mayoría de los integrantes del Consejo, debiendo anexar a la convocatoria respectiva los puntos del orden del día.
-
-El Consejo podrá sesionar con la asistencia de la mitad más uno de sus miembros.
-
-Las decisiones se tomarán por mayoría de votos de los miembros presentes y, en caso de empate, el Presidente o quien lo sustituya contará con voto de calidad.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO III. NOMBRAMIENTO, FACULTADES Y OBLIGACIONES DEL DIRECTOR GENERAL DEL INSTITUTO QUERETANO DE LA CULTURA Y LAS ARTES
 
 ###### Artículo 23.
 
-El Director General será el representante legal del Instituto y tendrá a cargo su administración.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 24.
 
-Para ser Director General del Instituto se tendrán que cubrir los siguientes requisitos:
-
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Tener por lo menos treinta años cumplidos al día de su designación;
-
-III. No haber sido dirigente nacional, estatal o municipal de partido o asociación política en los últimos dos años;
-
-IV. No desempeñar o haber desempeñado cargo de elección popular en los últimos dos años;
-
-V. Ser de reconocida honradez y rectitud, además de no haber sido condenado por delito intencional;
-
-VI. Estar vinculado y tener conocimiento de las condiciones sociales, políticas, económicas y culturales de la Entidad;
-
-VII. Contar, al menos, con título profesional en área afín y expedido por una escuela de estudios superiores reconocida por las autoridades de educación;
-
-VIII. Tener una residencia mínima en la Entidad de dos años; y
-
-IX. Ser una persona de reconocida trayectoria cultural en el estado o a nivel nacional.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 25.
 
-El Director General será designado por el Titular del Poder Ejecutivo del Estado.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 26.
 
-El Director General del Instituto tendrá las siguientes facultades:
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
-I. Ejercer la representación legal del Instituto;
-
-II. Proponer al Consejo los lineamientos legales a los que se sujetarán las actividades del Instituto;
-
-III. Coordinar, ejecutar y evaluar las actividades relacionadas con la función del Instituto;
-
-IV. Nombrar, dirigir y coordinar a los funcionarios y al personal bajo su autoridad, con aprobación del consejo;
-
-V. Dictar las medidas específicas que juzgue convenientes para el mejor desempeño de las funciones del instituto;
-
-VI. Enviar un informe anual a la Legislatura del Estado y al Titular del Poder Ejecutivo sobre las actividades del Instituto, mismo que hará del conocimiento de la sociedad, previa aprobación del Consejo;
-
-VII. Celebrar, en los términos de la legislación aplicable, acuerdos, bases de coordinación y convenios de colaboración con autoridades estatales o municipales, así con instituciones académicas y asociaciones, para el mejor cumplimiento de los fines del Instituto;
-
-VIII. Formular las propuestas generales conducentes a una mejor promoción de la cultura y las artes en la Entidad;
-
-IX. Difundir el arte y la cultura en la Entidad y promover y defender los derechos culturales;
-
-X. Emitir las convocatorias a que se refiere esta Ley, no pudiendo participar de las mismas, tampoco su cónyuge ni sus familiares hasta el cuarto grado de parentesco ya sea por consanguinidad o afinidad;
-
-XI. Fungir como Secretario del Consejo Directivo del Instituto; y
-
-XII. Cualesquiera que señale esta Ley y los demás ordenamientos legales aplicables.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO IV. DISPOSICIONES COMPLEMENTARIAS
 
 ###### Artículo 27.
 
-La función de Director General del Instituto es incompatible con el desempeño de otro cargo, empleo o comisión de la Federación, estados o municipios, exceptuando las actividades académicas.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 28.
 
-Las autoridades y servidores públicos estatales y municipales coadyuvan dentro del ámbito de su competencia con el Instituto Queretano de la Cultura y las Artes.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO V. DEL RÉGIMEN LABORAL
 
 ###### Artículo 29.
 
-El personal que preste sus servicios en el Instituto Queretano de la Cultura y las Artes se regirá por las disposiciones contenidas en la Ley de los Trabajadores al Servicio del Estado y Municipios.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO VI. DEL PATRIMONIO Y PRESUPUESTO
 
 ###### Artículo 30.
 
-El Patrimonio del Instituto se integra por:
-
-I. Los bienes muebles e inmuebles y demás activos que por otro concepto legal adquiera o reciba para la consecución de sus fines;
-
-II. Los recursos, partidas y subsidios que los Gobiernos Federal, Estatal o Municipales le otorgue;
-
-III. Las aportaciones, donaciones, legados o demás que reciba de los sectores sociales y privado;
-
-IV. Las cuotas de recuperación que reciba por los servicios que preste;
-
-V. Los beneficios que se deriven de las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley; y
-
-VI. Los demás ingresos que perciba por cualquier otro título legal.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 31.
 
-El Instituto podrá crear fondos u otros mecanismos, a través de la participación pública, social y privada, para el financiamiento complementario de las funciones que son de su competencia.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 32.
 
-El Instituto Queretano de la Cultura y las Artes tendrá la competencia para elaborar su anteproyecto de presupuesto anual de egresos, el cual se remitirá a la Secretaría de Planeación y Finanzas para que se integre a la propuesta de Presupuesto Anual de Egresos del Gobierno del Estado.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 33.
 
-La administración y el manejo de los bienes muebles e inmuebles pertenecientes al instituto estarán sujetos a lo dispuesto por esta Ley.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 34.
 
-El régimen fiscal del Instituto se sujetará a lo dispuesto en las leyes de la materia, privilegiando su aplicación social.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 35.
 
-El Instituto, para el financiamiento complementario de sus actividades y programas, podrá desarrollar, por acuerdo del Consejo, algunas actividades de carácter económico, mediante el establecimiento de empresas o la participación mayoritaria en ellas, dentro del esquema legal y fiscal que señala las leyes de la materia, y siempre que no alteren su naturaleza social.
+(DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 ## TÍTULO TERCERO. DE LAS ORGANIZACIONES CULTURALES MUNICIPALES
 
@@ -509,37 +381,33 @@ X. Las demás que sean necesarias para el cumplimiento de sus objetivos.
 
 ### CAPÍTULO I. DEL SISTEMA ESTATAL DE CREADORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 38.
 
-Se establece el Programa Estatal de Creadores, cuya aplicación corresponde al Instituto Queretano de la Cultura y las Artes, teniendo por objeto alentar la formación y profesionalización de quienes se dedican a la creación artística y cultural, como un sistema de estímulo y reconocimiento en apoyo a la creación libre e independiente.
+Se establece el Programa Estatal de Creadores, el cual tiene por objeto alentar la formación y profesionalización de quienes se dedican a la creación artística y cultural, como un sistema de estímulo y reconocimiento en apoyo a la creación libre e independiente. Su ejecución corresponderá a la Secretaría de Cultura del Poder Ejecutivo del Estado.
 
 Este programa también tendrá por objeto elevar la calidad de los servicios en materia de comprensión e iniciación en los lenguajes artísticos, haciendo énfasis en los procesos pedagógicos y sus implicaciones en la educación artística, fortaleciendo el contacto entre los artistas de Querétaro y creadores mexicanos de trayectoria destacada, su vinculación con el mercado profesional y el intercambio de experiencias y la cultura. Se implementarán acciones para fortalecer, preservar y diversificar la creatividad popular en las diversas manifestaciones características de nuestro Estado, para ello, se otorgarán estímulos y apoyos en la medida de lo posible.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 39.
 
-En el Programa Estatal de Creadores se reconocerá la creación artística y cultural bajo tres modalidades: Nuevo Creador, Creador con Trayectoria y Creador Emérito.
+El Programa Estatal de Creadores reconocerá la creación artística y cultural, bajo tres categorías: nuevo creador, creador con trayectoria y creador emérito.
 
-Para ingresar al Programa Estatal de Creadores, se deberán acreditar los siguientes requisitos:
-
-I. Para nuevo Creador. Comprobar experiencia en el campo de la creación artística o cultural, tener la formación adecuada a su disciplina y presentar un proyecto anual de actividades a consideración del Consejo y desenvolverse en algunos de los campos de la creación cultural y artística.
-
-II. Creador con Trayectoria. Participar activamente en trabajos de creación artística o cultural, original y de alta calidad, lo que se demostrará mediante la publicación, ejecución o presentación de sus trabajos, avalados por el Consejo, así como realizar de manera regular actividades de difusión cultural; y
-
-III. Creador Emérito. Además de cumplir con los requisitos previos, haber realizado una aportación de carácter cultural o artístico que represente una contribución de trascendencia para el Estado de Querétaro.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 40.
 
-El Consejo establecerá las bases para el otorgamiento de estímulos, convocando, en el mes de septiembre de cada año, a los creadores artísticos y culturales para que presenten sus candidaturas, en los términos que establezca la propia convocatoria. La distinción de Creadores con Trayectoria y Eméritos podrá adjudicarse sin que medie solicitud del candidato, previa deliberación y acuerdo del Consejo.
+La Secretaría de Cultura del Poder Ejecutivo del Estado expedirá los lineamientos en los que se establezcan los requisitos de ingreso y permanencia en el Programa Estatal de Creadores, las bases para el otorgamiento de estímulos y la emisión de la convocatoria respectiva, así como las demás disposiciones que resulten necesarias para efectos de su ejecución.
 
-Cuando se solicite cualquier tipo de estímulo económico ante el Consejo, y medie por parte del solicitante hasta un cuarto grado de parentesco con alguno de los consejeros, el consejero del que se trate deberá de excusarse para opinar sobre la citada solicitud.
-
-El Reglamento de esta Ley especificará los requisitos y procedimientos de ingreso, permanencia y exclusión del Programa Estatal de Creadores.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 41.
 
-El Instituto organizará y administrará el Registro Estatal de Creadores, el cual será público y funcionará bajo las modalidades de nuevos creadores, creadores con trayectoria y creadores eméritos.
+La Secretaría de Cultura del Poder Ejecutivo del Estado, organizará y administrará el Registro Estatal de Creadores, el cual será público y funcionará en las categorías de nuevos creadores, creadores con trayectoria y creadores eméritos.
 
-El Instituto emitirá una constancia de inscripción al Registro a los nuevos creadores y a los creadores con trayectoria y eméritos que así lo soliciten.
+La citada dependencia emitirá una constancia a quienes se inscriban en el Registro mencionado, cuando así lo soliciten.
 
 ### CAPÍTULO II. DE LA CULTURA INDÍGENA
 
@@ -567,9 +435,11 @@ VII. Promover las actividades de concertación pertinentes para unificar program
 
 Se declara de interés público la preservación de las tradiciones, costumbres, festividades y certámenes populares, por lo que las autoridades competentes en materia de cultura establecerán programas especiales para su preservación, desarrollo y difusión.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 44.
 
-Las autoridades estatales y municipales se coordinarán para la elaboración y actualización de un registro de las festividades y manifestaciones populares que se realizan en la Entidad, haciéndolo del conocimiento del Consejo.
+Las autoridades estatales y municipales se coordinarán para la elaboración y actualización de un registro de las festividades y manifestaciones populares que se realizan en la Entidad, haciéndolo del conocimiento de la Secretaría de Cultura del Poder Ejecutivo del Estado.
 
 ### CAPÍTULO IV. DEL FOMENTO A LA LECTURA
 
@@ -595,19 +465,23 @@ VI. Organizar concursos anuales en el estado dirigidos, principalmente, a los al
 
 ### CAPÍTULO V. DEL USO DE LOS ESPACIOS PÚBLICOS DESTINADOS A LA CULTURA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 47.
 
-El uso de los espacios públicos destinados a la cultura, propiedad del gobierno del Estado, se ajustarán a los siguientes criterios:
+El uso de los espacios públicos propiedad del Estado, destinados a la cultura, se ajustará a los siguientes criterios:
 
 I. Cada espacio debe tener definido su uso, destino y categoría de las actividades artísticas, que se procurará destinarlos al uso exclusivo de estas actividades y por excepción a otros quehaceres; y
 
 II. Las manifestaciones y actividades artísticas del Estado y sus regiones, tendrán uso preferente de los espacios públicos destinados a la cultura.
 
-Asimismo, se deberá de garantizar que los creadores se beneficien de los espacios al menor costo posible de operación; para tal efecto, el Instituto deberá fijar y publicar anualmente una lista de costos por la prestación de servicios anexos, de conformidad con la Ley de Ingresos vigente y el Reglamento de la presente Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 48.
 
-El gobierno del Estado y los municipios deberán reglamentar, en el ámbito de su competencia, el uso de los espacios para el desarrollo de las actividades artísticas. En dicho reglamento se establecerán los procedimientos, términos y condiciones en los que se autorice su uso.
+El Poder Ejecutivo del Estado, a través de la Secretaría de Cultura, y los municipios, deberán regular en el ámbito de sus respectivas competencias, el uso de los espacios para el desarrollo de las actividades artísticas. En las disposiciones que al efecto se emitan se establecerán los procedimientos, términos y condiciones en los que se autorice su uso.
 
 ### CAPÍTULO VI. DEL PATRIMONIO CULTURAL Y SU PRESERVACIÓN
 
@@ -615,11 +489,13 @@ El gobierno del Estado y los municipios deberán reglamentar, en el ámbito de s
 
 Son patrimonio cultural los testimonios históricos y objetos de conocimiento que continúen la tradición histórica, social, política, urbana, arquitectónica, tecnológica y de carácter económico de la sociedad que los ha producido.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 50.
 
-Para que los testimonios históricos y objetos de conocimiento, a que hace referencia el artículo anterior, sean considerados como patrimonio cultural, se requiere la declaración del Titular del Ejecutivo del Estado, escuchando la opinión del Consejo.
+Para que los testimonios históricos y objetos de conocimiento, a que hace referencia el artículo anterior, sean considerados como patrimonio cultural, se requiere la declaración del Titular del Ejecutivo del Estado, escuchando la opinión de la Secretaría de Cultura.
 
-Dicha declaración o la revocación de ella, en su caso, deberá publicarse en el Periódico Oficial de Gobierno del Estado.
+Dicha declaración o, en su caso, su revocación, deberán publicarse en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 ###### Artículo 51.
 
@@ -681,23 +557,31 @@ b) Inmuebles
 
 ### CAPÍTULO VII. DE LA PRESERVACIÓN DE SITIOS, ZONAS Y MONUMENTOS
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 52.
 
-El gobierno del Estado por sí o a través del Instituto Queretano de la Cultura y las Artes, en términos de la Constitución Política de los Estados Unidos Mexicanos, demás ordenamientos legales de carácter federal o local y de los convenios que al efecto celebre, podrá auxiliar en los trabajos de descubrimiento, investigación, protección y restauración de sitios, zonas y monumentos arqueológicos, paleontológicos, artísticos e históricos ubicados en el territorio Estatal.
+El Poder Ejecutivo del Estado, por sí o a través de la Secretaría de Cultura, en términos de lo previsto por la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos legales de carácter federal o local, así como de los convenios que al efecto celebre, podrá auxiliar en los trabajos de descubrimiento, investigación, protección y restauración de sitios, zonas y monumentos arqueológicos, paleontológicos, artísticos e históricos ubicados en el territorio estatal.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 53.
 
-Sin perjuicio de lo que dispongan las leyes federales y estatales, las autoridades locales y municipales informarán con oportunidad y suficiencia al Instituto Queretano de la Cultura y las Artes de la condición que guardan los sitios, zonas y monumentos arqueológicos, paleontológicos, artísticos o históricos, por daño, menoscabo o pérdida, a efecto de que aquella proceda a gestionar ante las autoridades competentes lo conducente para su preservación.
+Sin perjuicio de lo que dispongan las leyes federales y estatales, las autoridades locales y municipales deberán informar a la Secretaría de Cultura del Poder Ejecutivo del Estado, en los plazos y forma en que ésta les indique, la condición que guardan los sitios, zonas y monumentos arqueológicos, paleontológicos, artísticos o históricos, por daño, menoscabo o pérdida, a efecto de que aquélla proceda a gestionar ante las autoridades competentes lo conducente para su preservación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 54.
 
-El gobierno del Estado y los ayuntamientos, en el ámbito de su respectiva competencia y en uso de las facultades que las leyes y reglamentos les confieren en materia de construcción, desarrollo urbano y uso de suelo, velarán por la no afectación, por obras públicas o privadas, de los sitios, zonas y monumentos arqueológicos, artísticos o históricos.
+El Poder Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia y en uso de las facultades que las leyes y reglamentos les confieren en materia de construcción, desarrollo urbano y uso de suelo, promoverán la no afectación, por obras públicas o privadas, de los sitios, zonas y monumentos arqueológicos, artísticos o históricos.
 
 ### CAPÍTULO VIII. DE LOS FESTIVALES CULTURALES
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 55.
 
-El Instituto Queretano de la Cultura y las Artes, en coordinación con las dependencias estatales, federales y municipales competentes, participará en la organización de festivales culturales que contribuyan al acrecentamiento y difusión de la cultura queretana, nacional e internacional.
+La Secretaría de Cultura del Poder Ejecutivo del Estado, en coordinación con las demás dependencias estatales, federales y municipales competentes, participará en la organización de festivales culturales que contribuyan al acrecentamiento y difusión de la cultura queretana, nacional e internacional.
 
 ## TRANSITORIOS
 
@@ -750,3 +634,27 @@ LIC. JOSÉ ALFREDO BOTELLO MONTES
 SECRETARIO DE GOBIERNO
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA LA CULTURA Y LAS ARTES DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el 1º de enero de 2017.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El organismo descentralizado denominado Instituto Queretano de la Cultura y las Artes creado mediante Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" de fecha 30 de diciembre de 2005, se extinguirá en los términos de las disposiciones aplicables, subrogándose en los derechos y obligaciones que el mismo hubiere adquirido con anterioridad a la entrada en vigor de la presente de la (sic) Ley, a la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Cuarto. Los trabajadores que, a la entrada en vigor de la presente Ley se encuentren adscritos al Instituto Queretano de la Cultura y las Artes, pasarán a forma (sic) parte de la Secretaría de Cultura del Poder Ejecutivo del Estado, conservando sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+La persona que a la fecha en que cobre vigencia la presente Ley, desempeñe el cargo de Director General del Instituto Queretano de la Cultura y las Artes, ejercerá las facultades que las disposiciones jurídicas establezcan a favor del titular de la Secretaría de Cultura, hasta en tanto el Gobernador del Estado nombre a quien deba ocupar éste último cargo.
+
+Artículo Quinto. Los recursos humanos, financieros y materiales del Instituto Queretano de la Cultura y las Artes serán asignados al Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Sexto. Las menciones contenidas en las leyes, reglamentos y demás disposiciones jurídicas, respecto del Instituto Queretano de la Cultura y las Artes, se entenderán hechas a la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Séptimo. Las disposiciones, normas y lineamientos emitidos por el Instituto Queretano de la Cultura y las Artes, continuarán en vigor hasta en tanto la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro, emita las correspondientes, en lo que no contravengan lo dispuesto en la presente Ley.
+
+Artículo Octavo. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al presupuesto aprobado al Instituto Queretano de la Cultura y las Artes, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal en curso.
