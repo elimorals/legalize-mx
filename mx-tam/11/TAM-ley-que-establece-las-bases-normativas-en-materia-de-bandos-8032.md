@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-establece-las-bases-normativas-en-materia-de-bandos-803
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2010-12-16"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE BANDOS DE POLICIA Y BUEN GOBIERNO PARA EL ESTADO DE TAMAULIPAS
 
-LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE BANDOS DE POLICIA Y BUEN GOBIERNO PARA EL ESTADO DE TAMAULIPAS
+LEY QUE ESTABLECE LAS BASES NORMATIVAS EN MATERIA DE BANDOS DE POLICÍA Y BUEN GOBIERNO PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial, el 30 de noviembre de 1987.
 
@@ -111,7 +111,9 @@ I.- APERCIBIMIENTO: la conminación que el Juez Calificador hace al infractor pa
 
 II.- AMONESTACION: la censura, pública o privada, que el Juez Calificador hace al infractor;
 
-III.- MULTA: el pago de una cantidad de dinero que va desde un día de salario mínimo hasta por el equivalente a 20 días de salario mínimo diario general en la zona, que el infractor hace al Ayuntamiento, la cual no podrá ser mayor de un día de salario mínimo cuando dicho infractor fuere jornalero, obrero o trabajador no asalariado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III.- MULTA: el pago de una cantidad de dinero que va desde una hasta veinte veces la Unidad de Medida y Actualización, la cual no podrá ser mayor a una vez el valor diario de la Unidad de Medida y Actualización cuando dicho infractor fuere jornalero, obrero o trabajador no asalariado;
 
 IV.- ARRESTO: la privación de la libertad hasta por treinta y seis horas, quedando prohibida la incomunicación del arrestado; y
 
@@ -255,10 +257,22 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los diecinueve días del mes de octubre de mil novecientos ochenta y siete.- El Gobernador Constitucional del Estado, ING. AMERICO VILLARREAL GUERRA.- El Secretario General de Gobierno, LIC. HERIBERTO BATRES GARCIA.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 16 DE DICIEMBRE DE 2010.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
