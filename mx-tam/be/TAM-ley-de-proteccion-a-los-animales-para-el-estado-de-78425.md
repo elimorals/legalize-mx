@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2016-04-21"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -479,7 +479,7 @@ VII. Cargar los carruajes de tracción animal con un peso proporcionado a las co
 
 VIII. Impedir el uso de animales enfermos, cojos, con "matadura", heridos o desnutridos, o de hembras en el último tercio del período de gestación, en actividades de tiro, carga o monta;
 
-IX. No prestar o alquilar los animales .de tiro, carga o monta para realizar otros trabajos similares, después de una jornada de trabajo; y
+IX. No prestar o alquilar los animales de tiro, carga o monta para realizar otros trabajos similares, después de una jornada de trabajo; y
 
 X. No permitir emplear animales para tiro de carretas, arados u otros medios de conducción similares, sin los arneses y herraduras adecuados para la actividad que vayan a desarrollar, lesionándolos o lastimándolos, sin evitarles una molestia mayor a la normal.
 
@@ -597,7 +597,9 @@ III. No haber sido sancionado por infracción grave o muy grave a la presente le
 
 IV. Disponer de capacidad física y aptitud psicológica, a juicio de la autoridad, para la tenencia de animales peligrosos;
 
-V. Acreditación de haber adquirido un seguro de responsabilidad civil, expedido por institución autorizada, que ampare daños a terceros provocados por animales peligrosos con una cobertura no inferior a dos mil salarios mínimos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+V. Acreditación de haber adquirido un seguro de responsabilidad civil, expedido por institución autorizada, que ampare daños a terceros provocados por animales peligrosos con una cobertura no inferior a dos mil veces el valor diario de la Unidad de Medida y Actualización;
 
 VI. Fotocopia compulsada de la documentación del animal manifiestamente peligroso, en la que se acredite su raza y especie, fecha de nacimiento, uso del animal, número de identificación, sexo, establecimiento de procedencia, revisiones veterinarias anuales, adiestramientos e incidentes de agresión; y
 
@@ -1025,15 +1027,21 @@ La imposición de cualquier sanción prevista por la presente Ley no excluye la 
 
 Es responsable de las faltas previstas en esta ley cualquier persona, institución o asociación de carácter privado, público, social o gubernamental, que participe en la ejecución de las infracciones o induzca, directa o indirectamente a cometerlas. Los padres o tutores de menores de edad o discapacitados serán responsables de las faltas que éstos cometan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 53.
 
-Las infracciones a lo dispuesto en esta ley que en el cuerpo de la misma no tuviere señalada una sanción especial, serán sancionadas a juicio de las autoridades competentes con multa de diez a mil días de salario mínimo vigente en la zona donde se cometa la infracción y arresto hasta por 36 horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que haya dado lugar.
+Las infracciones a lo dispuesto en esta ley que en el cuerpo de la misma no tuviere señalada una sanción especial, serán sancionadas a juicio de las autoridades competentes con multa de diez a mil veces el valor diario de la Unidad de Medida y Actualización y arresto hasta por 36 horas, según la gravedad de la falta, la intención con la cual ésta fue cometida y las consecuencias a que haya dado lugar.
 
 La violación a las disposiciones de esta ley por parte de laboratorios científicos o quien ejerza la profesión de Médico Veterinario, independientemente de la responsabilidad civil, penal o administrativa en la que incurra, ameritará aumento de la multa hasta en un treinta por ciento.
 
-En el caso de que las infracciones hayan sido cometidas por personas que ejerzan cargos de dirección en instituciones científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, la multa será de cien a doscientos cincuenta días de salario mínimo vigente en la zona donde se cometa la infracción, sin perjuicio de las demás sanciones que proceden conforme a esta ley y demás ordenamientos legales.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Los propietarios, administradores o encargados de rastros que no cumplan con las disposiciones señaladas en esta ley se harán acreedores a multas que podrán ser desde diez hasta sesenta veces el equivalente del salario mínimo del lugar donde se cometa la falta, o bien a la cancelación de los permisos para ejercer las actividades propias de los mismos, sin perjuicio de las demás sanciones que procedan conforme a esta ley, su Reglamento y los demás ordenamientos legales.
+En el caso de que las infracciones hayan sido cometidas por personas que ejerzan cargos de dirección en instituciones científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de maltrato o se trate de propietarios de vehículos exclusivamente destinados al transporte de éstos, la multa será de cien a doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las demás sanciones que proceden conforme a esta ley y demás ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Los propietarios, administradores o encargados de rastros que no cumplan con las disposiciones señaladas en esta ley se harán acreedores a multas que podrán ser desde diez hasta sesenta veces el valor diario de la Unidad de Medida y Actualización, o bien a la cancelación de los permisos para ejercer las actividades propias de los mismos, sin perjuicio de las demás sanciones que procedan conforme a esta ley, su Reglamento y los demás ordenamientos legales.
 
 ###### ARTICULO 54.
 
@@ -1063,11 +1071,17 @@ Para aquellos casos en los que el infractor por primera vez cause molestia a alg
 
 Las infracciones cometidas por la violación de las disposiciones de la presente ley, se aplicarán conforme a lo siguiente:
 
-I. Multa de 5 a 150 días de salario mínimo vigente en la zona donde se cometa la infracción contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior o por violaciones a lo dispuesto por los artículos 7, fracción X; 8; 12, párrafo segundo; 14; 16, fracciones I, II, III, IV, VII y VIII; 18, fracciones III, XI y XIII; 20 fracción III; 21; 22; 25, fracciones II y XI; 27, fracción III; 29 párrafo tercero; 38, párrafos segundo, tercero y quinto; 42, fracción VI; 43, párrafo segundo de la presente ley;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II. Multa de 150 a mil días de salario mínimo vigente en la zona donde se cometa la infracción a lo dispuesto por los artículos 6, fracción II inciso d); 7 fracción IX; 15; 16, fracciones VI y IX; 18, fracciones II, IV, VI, VII, IX, X, XV, XVI, XVIII y XIX; 20, fracción VII; 23, fracciones I, II, III, V, VI, VII, VIII y X; 24 primer párrafo; 25, fracción IX; 26; 27, párrafo primero; 31; 32; 33, fracciones I, II, VII y VIII; 34; 39, fracciones IV, V, VI, VII, VIII y XI; 44, párrafo cuarto, fracciones I a la IV de la presente ley, y
+I. Multa de cinco a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior o por violaciones a lo dispuesto por los artículos 7, fracción X; 8; 12, párrafo segundo; 14; 16, fracciones I, II, III, IV, VII y VIII; 18, fracciones III, XI y XIII; 20 fracción III; 21; 22; 25, fracciones II y XI; 27, fracción III; 29 párrafo tercero; 38, párrafos segundo, tercero y quinto; 42, fracción VI; 43, párrafo segundo de la presente ley;
 
-III. Arresto inconmutable de 36 horas y multa por mil a dos mil 500 días de salario mínimo vigente en la zona donde se cometa la infracción por violaciones a lo dispuesto por los artículos 9; 11; 18, fracciones I, V, VIII, XII, XIV y XVII; 20, fracciones I, II, IV, V, VI, VIII, IX y X; 23, fracciones IV y IX; 24, párrafo segundo; 25, fracciones I, III, IV, V, VI, VII, VIII, X, XII y XIII y los párrafos tercero y cuarto; 28; 29, fracciones I, II y III; 30; 33, fracciones III, IV, V, VI, IX y X; 35; 36; 37; 38, párrafos cuarto y sexto; 39, fracciones I, II, III, IX, X, XII y XIII; 40; 41 y 42, fracciones I a V y párrafos segundo, tercero y cuarto de la presente ley.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de ciento cincuenta a mil veces el valor diario de la Unidad de Medida y Actualización a lo dispuesto por los artículos 6, fracción II inciso d); 7 fracción IX; 15; 16, fracciones VI y IX; 18, fracciones II, IV, VI, VII, IX, X, XV, XVI, XVIII y XIX; 20, fracción VII; 23, fracciones I, II, III, V, VI, VII, VIII y X; 24 primer párrafo; 25, fracción IX; 26; 27, párrafo primero; 31; 32; 33, fracciones I, II, VII y VIII; 34; 39, fracciones IV, V, VI, VII, VIII y XI; 44, párrafo cuarto, fracciones I a la IV de la presente ley; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III. Arresto inconmutable de 36 horas y multa por mil a dos mil quinientas veces el valor diario de la Unidad de Medida y Actualización por violaciones a lo dispuesto por los artículos 9; 11; 18, fracciones I, V, VIII, XII, XIV y XVII; 20, fracciones I, II, IV, V, VI, VIII, IX y X; 23, fracciones IV y IX; 24, párrafo segundo; 25, fracciones I, III, IV, V, VI, VII, VIII, X, XII y XIII y los párrafos tercero y cuarto; 28; 29, fracciones I, II y III; 30; 33, fracciones III, IV, V, VI, IX y X; 35; 36; 37; 38, párrafos cuarto y sexto; 39, fracciones I, II, III, IX, X, XII y XIII; 40; 41 y 42, fracciones I a V y párrafos segundo, tercero y cuarto de la presente ley.
 
 ###### ARTICULO 58.
 
@@ -1180,3 +1194,15 @@ P.O. 21 DE ABRIL DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
