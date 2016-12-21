@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-82804"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2014-04-29"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del estado de Tamaulipas, el jueves 1º, de septiembre de 2011
 
@@ -167,7 +167,7 @@ LII. Repoblación: El acto de introducir organismos acuáticos vivos nativos, en
 
 LIII. Riesgo sanitario: La probabilidad de introducir, establecer o diseminar una enfermedad en los recursos pesqueros o acuícolas;
 
-LIV. Salario: El salario mínimo general diario vigente en la capital del Estado;
+LIV. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 
 LV. Sanidad acuícola: El conjunto de acciones, procedimientos, prácticas y medidas que tienen por objeto la prevención, diagnóstico, control y erradicación de los parásitos, agentes patogénicos o las enfermedades que afectan o pueden afectar a los recursos acuícolas y a la acuacultura;
 
@@ -185,9 +185,17 @@ LXI. Unidad de Esfuerzo Pesquero: Una embarcación o un arte o equipo de pesca o
 
 LXII. Unidad de Manejo Acuícola: Conjunto de granjas o unidades de producción acuícola, organizadas para implementar y ejecutar esquemas integrales de administración de infraestructura y recursos susceptibles de uso común, para el aprovechamiento y funcionamiento de los mismos en equilibrio con el medio ambiente, así como para preservar la sanidad, viabilidad y sustentabilidad de la actividad;
 
-LXIII. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un período o zona específica, establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos naturales de reproducción y reclutamiento de una especie de los recursos pesqueros o acuícolas, o su inocuidad derivada de contingencias ambientales o desastres; y
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-LXIV. Verificación sanitaria: Las acciones que lleva a cabo la Secretaría para constatar que los recursos pesqueros o acuícolas y las instalaciones, equipos y transportes en los que se producen, capturan o movilicen, cumplen con las disposiciones legales aplicables en materia de sanidad, inocuidad y calidad.
+LXIII. Unidad de Medida y Actualización: Es la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en esta ley;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+LXIV. Veda: Es el acto administrativo por el que se prohíbe llevar a cabo la pesca en un período o zona específica, establecido mediante acuerdos o normas oficiales, con el fin de resguardar los procesos naturales de reproducción y reclutamiento de una especie de los recursos pesqueros o acuícolas, o su inocuidad derivada de contingencias ambientales o desastres; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+LXV. Verificación Sanitaria: Las acciones que lleva a cabo la Secretaría para constatar que los recursos pesqueros o acuícolas y las instalaciones, equipos y transportes en los que se producen, capturan o movilicen, cumplen con las disposiciones legales aplicables en materia de sanidad, inocuidad y calidad.
 
 ###### ARTÍCULO 4.
 
@@ -933,7 +941,9 @@ XXI. Cualquiera otra contravención a lo dispuesto en la presente ley, su reglam
 
 I. Amonestación con apercibimiento;
 
-II. Imposición de multa económica, que será de cincuenta a dos mil veces de salario;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II. Imposición de multa económica, que será de cincuenta a dos mil veces el valor diario de la Unidad de Medida y Actualización;
 
 III. El aseguramiento de los recursos pesqueros o acuícolas vivos, sus productos y subproductos, así como de insumos químicos, farmacéuticos, biológicos y alimenticios para uso o consumo de dichos recursos;
 
@@ -985,13 +995,21 @@ Las sanciones por las infracciones a esta Ley se aplicarán sin perjuicio de las
 
 1. La imposición de las multas se determinará de la siguiente manera:
 
-l. Será sancionado con una multa de entre 50 a 100 veces de salario, a quien cometa las infracciones establecidas en las fracciones V y X, del artículo 59 de la presente ley;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II. Será sancionado con una multa de entre 101 a 200 veces de salario, a quien cometa las infracciones establecidas en las fracciones III, IV, IX, XI, XII, XV y XXI del artículo 59 de la presente ley;
+I. Será sancionado con una multa de entre cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización, a quien cometa las infracciones establecidas en las fracciones V y X, del artículo 59 de la presente ley;
 
-III. Será sancionado con una multa de entre 201 a 500 veces de salario, a quien cometa las infracciones establecidas en las fracciones II, VI, VII, VIII, XIII, XIV, XIX y XX del artículo 59 de la presente ley; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV. Será sancionado con una multa de entre 501 a 2000 veces de salario, a quien cometa las infracciones establecidas en las fracciones I, XVI, XVII y XVIII del artículo 59 de la presente ley.
+II. Será sancionado con una multa de entre ciento uno a doscientas veces el valor diario de la Unidad de Medida y Actualización, a quien cometa las infracciones establecidas en las fracciones III, IV, IX, XI, XII, XV y XXI del artículo 59 de la presente ley;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III. Será sancionado con una multa de entre doscientas uno a quinientas veces el valor diario de la Unidad de Medida y Actualización, a quien cometa las infracciones establecidas en las fracciones II, VI, VII, VIII, XIII, XIV, XIX y XX del artículo 59 de la presente ley; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV. Será sancionado con una multa de entre quinientas uno a dos mil veces el valor diario de la Unidad de Medida y Actualización, a quien cometa las infracciones establecidas en las fracciones I, XVI, XVII y XVIII del artículo 59 de la presente ley.
 
 2. En el caso de reincidencia, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto, sin exceder del monto máximo a que se refiere la fracción II del artículo 60 de esta ley, así como la clausura temporal; en caso de segunda reincidencia, se aplicará tres veces el monto originalmente impuesto, así como la clausura definitiva y revocación de los permisos o concesiones.
 
@@ -1199,10 +1217,22 @@ Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Ta
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 29 DE ABRIL DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
