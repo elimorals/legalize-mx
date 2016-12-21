@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-55874"
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-05"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55874&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Anexo Número 67 del Periódico Oficial del Estado de Tamaulipas, el martes 5 de junio del 2007.
 
@@ -129,7 +129,7 @@ V. La protección y conservación de las zonas que sirvan de refugio a la flora 
 
 Los procedimientos establecidos por esta ley no alterarán el régimen de propiedad de los predios de los ejidos y las comunidades, de personas físicas o morales, de carácter público municipal, estatal o federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -145,7 +145,7 @@ Los procedimientos establecidos por esta ley no alterarán el régimen de propie
 
 Además de las definiciones contenidas en el artículo 7 de la Ley General de Desarrollo Forestal Sustentable, para los efectos de esta ley se entenderá por:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -167,7 +167,7 @@ VIII. Cuenca hidrológico-forestal: la unidad de espacio físico de planeación 
 
 IX. Degradación del suelo: el proceso que describe el fenómeno causado por el hombre que disminuye la capacidad presente o futura del suelo para sustentar vida vegetal, animal y humana;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -181,7 +181,7 @@ XIII. Leña: la materia prima maderable proveniente de la vegetación forestal, 
 
 XIV. Ley General: la Ley General de Desarrollo Forestal Sustentable;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -189,7 +189,7 @@ XV. Política forestal: el conjunto de normas y procedimientos a cargo del Gobie
 
 XVI. Prestadores de servicios técnicos forestales: el personal profesional responsable de las actividades realizadas para planear, programar y ejecutar científicamente las actividades silvícolas, el manejo forestal y la asesoría y capacitación de propietarios o poseedores de recursos forestales para la gestión de los mismos en términos de los ordenamientos y normas aplicables;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 XVII. (DEROGADA, P.O. 5 DE JUNIO DE 2008)
 
@@ -215,7 +215,7 @@ XX. Veda forestal: la restricción total o parcial, de carácter temporal, para 
 
 ###### ARTÍCULO 9.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -261,7 +261,7 @@ I. El Gobernador del Estado;
 
 II. El Titular de la SEDER;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -297,7 +297,7 @@ VIII. Integrar el Sistema Estatal de Información Forestal e incorporar su conte
 
 IX. Compilar y procesar la información sobre uso doméstico de los recursos y aprovechamientos forestales diversos, e incorporarla al Sistema Estatal de Información Forestal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -311,7 +311,7 @@ XIII. Regular el uso del fuego en las actividades relacionadas con las actividad
 
 XIV. Llevar a cabo acciones de capacitación y prevención de incendios forestales en congruencia con el programa nacional respectivo;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -319,19 +319,19 @@ XV. Promover y participar, en coordinación con la Agencia Ambiental, en la rest
 
 XVI. Impulsar programas de mejoramiento genético forestal;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 XVII. Promover y participar, en coordinación con la Agencia Ambiental, en labores de conservación, protección y restauración de los terrenos estatales forestales y preferentemente forestales;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
 XVIII. Elaborar y aplicar de forma coordinada con la Agencia Ambiental, los municipios del Estado y organizaciones de productores sociales y privadas, programas de forestación y reforestación en zonas degradadas que no sean competencia de la Federación, así como llevar a cabo acciones de protección y mantenimiento de las zonas forestadas o reforestadas;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -363,9 +363,9 @@ XXXI. Promover el desarrollo de plantaciones forestales comerciales; y
 
 XXXII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le confiera esta ley u otros ordenamientos, y que no estén expresamente otorgados a la Federación o a los Municipios en norma expedida por autoridad competente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2008)</small>
 
 3. Corresponden al Ejecutivo del Estado, a través de la Agencia Ambiental, las siguientes atribuciones:
 
@@ -385,7 +385,7 @@ VII. Celebrar, en el ámbito de su competencia, acuerdos y convenios de coordina
 
 VIII. Ejercer en el ámbito de su competencia las facultades de regulación, autorización, inspección y vigilancia sobre las obras y actividades relacionadas con el sector forestal; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -489,7 +489,7 @@ XXI. Dirigir, promover y coordinar programas institucionales de plantaciones for
 
 1. En la celebración de convenios o acuerdos de coordinación, el Estado y los Municipios, tomarán en consideración que se cuente con la disponibilidad de los medios necesarios, personal capacitado, recursos materiales y financieros, así como la estructura institucional específica para el desarrollo de las funciones que soliciten asumir.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -603,7 +603,7 @@ En la planeación del desarrollo forestal estatal y municipal sustentable, deber
 
 ###### ARTÍCULO 24.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -651,7 +651,7 @@ Los titulares de autorizaciones de aprovechamiento forestal maderable, no madera
 
 ###### ARTÍCULO 28.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -801,7 +801,7 @@ I. Establecimiento de plantaciones forestales comerciales en superficies mayores
 
 II. Aprovechamiento de recursos forestales maderables en terrenos forestales y preferentemente forestales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -809,7 +809,7 @@ II. Aprovechamiento de recursos forestales maderables en terrenos forestales y p
 
 I. Cambio de uso de suelo en terrenos forestales, por excepción; y
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -847,7 +847,7 @@ III. En áreas naturales protegidas.
 
 #### Sección 2. De las Plantaciones Forestales Comerciales
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -1499,15 +1499,21 @@ VI. Clausura temporal o definitiva, parcial o total, de las instalaciones, maqui
 
 1. La imposición de las multas a que se refiere el artículo anterior, se determinará en la forma siguiente:
 
-I. Con el equivalente de veinte a mil veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones V, VI, VIII, XII, XV, XVI, XVIII, XX y XXIV del artículo 110 de esta ley, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II. Con el equivalente de cien a veinte mil veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII, XXIII del artículo 110 de esta ley.
+I. Con el equivalente de veinte a mil veces el valor diario de la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones V, VI, VIII, XII, XV, XVI, XVIII, XX y XXIV del artículo 110 de esta ley; y
 
-2. Para la imposición de las multas servirá de base el salario mínimo general diario vigente para la Capital del Estado al momento de cometerse la infracción.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II. Con el equivalente de cien a veinte mil veces el valor diario de la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII, XXIII del artículo 110 de esta ley.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2. Para la imposición de las multas servirá de base el valor diario de la Unidad de Medida y Actualización al momento de cometerse la infracción.
 
 3. A los reincidentes se les aplicará el doble de las multas previstas en este artículo, según corresponda.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -1667,7 +1673,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 ATENTAMENTE. SUFRAGIO EFECTIVO. NO REELECCIÓN.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica. SECRETARIO GENERAL DE GOBIERNO. ANTONIO MARTÍNEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 5 DE JUNIO DE 2008.
 
@@ -1686,3 +1692,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
