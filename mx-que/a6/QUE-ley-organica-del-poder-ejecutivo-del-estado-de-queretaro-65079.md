@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-ejecutivo-del-estado-de-queretaro-65079"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-17"
-last_updated: "2016-12-16"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65079&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de diciembre de 2008.
 
@@ -203,13 +203,23 @@ XIII. La Secretaría de Seguridad Ciudadana;
 
 XIV. La Secretaría de Juventud;
 
-(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 15 DE OCTUBRE DE 2015)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XV. La Secretaría de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 15 DE OCTUBRE DE 2015)
+XV. La Secretaría de Desarrollo Social;
 
-XVI. La Oficina de la Gubernatura.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XVI. La Oficina de la Gubernatura; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XVII. La Secretaría de Cultura.
 
 ###### Artículo 20.
 
@@ -715,11 +725,19 @@ VIII. Las demás facultades y obligaciones que le señalen las leyes y reglament
 
 ### Capítulo Octavo. De la Secretaría de Educación
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 27.
 
-La Secretaría de Educación, es el órgano encargado de promover la superación y el desarrollo educativo, cultural y le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Educación, es la dependencia encargada de promover la superación y el desarrollo educativo y le corresponde el despacho de los siguientes asuntos:
 
-I. Formular la política de desarrollo educativo, cultural y de bienestar social de la población;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+I. Formular la política de desarrollo educativo y de bienestar social de la población;
 
 II. Coordinar, planear, desarrollar, dirigir y vigilar la educación a cargo del Estado y de los particulares en todos los tipos, niveles y modalidades en los términos de la legislación correspondiente;
 
@@ -733,21 +751,33 @@ VI. Llevar el registro y control de los profesionistas que ejerzan en el Estado 
 
 VII. Vigilar la realización de los actos cívicos escolares, de acuerdo con el calendario oficial;
 
-VIII. Establecer programas de comunicación y difusión educativa y cultural, en coordinación con las entidades públicas, federales, estatales y municipales, mediante el Sistema de Comunicación Educativa, Cultural y Social del Estado;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VIII. Establecer programas de comunicación y difusión educativa, en coordinación con las demás instancias federales, estatales y municipales competentes;
 
 IX. Mantener por sí o en coordinación con los gobiernos federal y municipales, programas permanentes de educación para adultos, de alfabetización y demás programas especiales;
 
 X. Fomentar el desarrollo de la investigación científica, tecnológica y humanística en la Entidad;
 
-XI. Coordinar, organizar, dirigir y fomentar el establecimiento de bibliotecas, hemerotecas, casas de cultura y museos, así como orientar sus actividades;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XII. Procurar la conservación del patrimonio cultural del Estado, mediante la recuperación, remodelación y reglamentación de las zonas y monumentos arqueológicos, históricos, artísticos y documentos históricos, en coordinación con las entidades federales, estatales y municipales, de acuerdo a las leyes vigentes;
+XI. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 
 XIII. (DEROGADA, P.O. 12 DE MARZO DE 2014)
 
 XIV. Coordinar, organizar y promover la enseñanza y la práctica de los deportes en el Estado, así como la participación de la Entidad en torneos y justas deportivas nacionales e internacionales;
 
-XV. Promover, coordinar, vigilar y fomentar los programas de educación y cultura, para mejoramiento del medio ambiente del Estado y la recreación individual y familiar;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XV. Promover, coordinar, vigilar y fomentar los programas de educación, para mejoramiento del medio ambiente del Estado y la recreación individual y familiar;
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2014)</small>
 
@@ -1255,6 +1285,48 @@ XIII. Las demás que el Gobernador del Estado determine, dentro del marco de sus
 
 El funcionamiento de la Oficina de la Gubernatura y de los órganos adscritos a que se refiere el presente artículo, será regulado por la presente Ley, el Reglamento Interior y los acuerdos administrativos que expida el titular del Poder Ejecutivo del Estado, los que tendrán el carácter de obligatorio para toda la administración pública central.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+### Capítulo Décimo Séptimo. De la Secretaría de Cultura
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 37.
+
+La Secretaría de Cultura es la dependencia encargada de elaborar, ejecutar y conducir la política cultural en el Estado y le corresponde el despacho de los siguientes asuntos:
+
+I. Elaborar el Programa Estatal de Cultura, de conformidad con las disposiciones en la materia;
+
+II. Fomentar, administrar y promover la apertura de nuevos centros de cultura que respondan a las iniciativas y procesos socioculturales de la Entidad;
+
+III. Administrar, dirigir, coordinar y conservar los centros culturales, teatros, bibliotecas, hemerotecas, pinacotecas, fonotecas, museos, galerías, centros de investigación y educación artística, así como todos aquellos espacios en donde se presten servicios culturales;
+
+IV. Establecer programas de comunicación y difusión cultural, en coordinación con las demás instancias federales, estatales y municipales competentes, a través del Sistema de Comunicación Educativa y Cultural y Social del Estado;
+
+V. Promover, coordinar, vigilar y fomentar los programas de cultura, para el mejoramiento del medio ambiente del Estado y la recreación individual y familiar;
+
+VI. Promover, preservar y difundir el acervo cultural estatal;
+
+VII. Promover la investigación y el estudio en materia cultural;
+
+VIII. Diseñar estrategias y metodologías para la consolidación de la cultura en la Entidad;
+
+IX. Propiciar la creación de espacios para la participación de la comunidad en el desarrollo cultural y artístico;
+
+X. Coordinar y promover, en el ámbito de la cultura, acciones conjuntas con los municipios del Estado, para propiciar el aprovechamiento del potencial administrativo y humano en el ámbito de la cultura y las artes, en beneficio de sus comunidades;
+
+XI. Vigilar el cumplimiento de los derechos establecidos en la Ley para la Cultura y las Artes del Estado de Querétaro;
+
+XII. Elaborar y proponer al Poder Ejecutivo, los proyectos de ley, reglamentos, declaratorias y demás disposiciones de carácter general, tomando en consideración la legislación federal aplicable y los tratados internacionales que se requieran para el manejo de los asuntos en materia de cultura en el Estado;
+
+XIII. Emitir los lineamientos del uso de los espacios en los recintos administrados por la Secretaría para la ejecución y prestación de servicios culturales, así como los correspondientes para el otorgamiento de estímulos y apoyos a la comunidad artística para proyectos debidamente estructurados y justificados, en términos de las disposiciones legales aplicables; y
+
+XIV. Las demás facultades y obligaciones que le señalen las leyes y reglamentos aplicables en el Estado.
+
 ## TRANSITORIOS
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
@@ -1746,3 +1818,25 @@ XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto
 XVIII. Los derechos previstos en los artículos 169 BIS y 169 TER de la Ley de Hacienda del Estado de Querétaro, podrán reducirse en los términos que establezca el Manual de Procedimientos del Querétaro Centro de Congresos y Querétaro Teatro Metropolitano.
 
 Artículo Quinto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO Y DE LA LEY PARA LA CULTURA Y LAS ARTES DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2017.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. El organismo descentralizado denominado Instituto Queretano de la Cultura y las Artes creado mediante Ley publicada en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" de fecha 30 de diciembre de 2005, se extinguirá en los términos de las disposiciones aplicables, subrogándose en los derechos y obligaciones que el mismo hubiere adquirido con anterioridad a la entrada en vigor de la presente de la (sic) Ley, a la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Cuarto. Los trabajadores que, a la entrada en vigor de la presente Ley se encuentren adscritos al Instituto Queretano de la Cultura y las Artes, pasarán a forma parte de la Secretaría de Cultura del Poder Ejecutivo del Estado, conservando sus derechos laborales, de conformidad con las disposiciones aplicables.
+
+La persona que a la fecha en que cobre vigencia la presente Ley, desempeñe el cargo de Director General del Instituto Queretano de la Cultura y las Artes, ejercerá las facultades que las disposiciones jurídicas establezcan a favor del titular de la Secretaría de Cultura, hasta en tanto el Gobernador del Estado nombre a quien deba ocupar éste último cargo.
+
+Artículo Quinto. Los recursos humanos, financieros y materiales del Instituto Queretano de la Cultura y las Artes serán asignados al Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Sexto. Las menciones contenidas en las leyes, reglamentos y demás disposiciones jurídicas, respecto del Instituto Queretano de la Cultura y las Artes, se entenderán hechas a la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Séptimo. Las disposiciones, normas y lineamientos emitidos por el Instituto Queretano de la Cultura y las Artes, continuarán en vigor hasta en tanto la Secretaría de Cultura del Poder Ejecutivo del Estado de Querétaro, emita las correspondientes, en lo que no contravengan lo dispuesto en la presente Ley.
+
+Artículo Octavo. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán con cargo al presupuesto aprobado al Instituto Queretano de la Cultura y las Artes, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal en curso.
