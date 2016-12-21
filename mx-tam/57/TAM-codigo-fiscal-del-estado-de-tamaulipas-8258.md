@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8258"
 country: "mx"
 rank: "codigo"
 publication_date: "1976-12-29"
-last_updated: "2014-12-04"
+last_updated: "2016-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # CODIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. POR DISPOSICIÓN DEL ARTÍCULO SEGUNDO TRANSITORIO SE ABROGA EL PRESENTE CÓDIGO, EXCEPTUANDO SU CAPÍTULO RELATIVO AL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, HASTA EN TANTO INICIE SU VIGENCIA EL CÓDIGO DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS QUE RESUELVE LAS CONTROVERSIAS DE CARÁCTER FISCAL, P.O. 28 DE DICIEMBRE DE 1991.]</small>
+
 CÓDIGO FISCAL DEL ESTADO
 
-> <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO SEGUNDO TRANSITORIO SE ABROGA EL PRESENTE CÓDIGO, EXCEPTUANDO SU CAPÍTULO RELATIVO AL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, HASTA EN TANTO INICIE SU VIGENCIA EL CÓDIGO DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS QUE RESUELVE LAS CONTROVERSIAS DE CARÁCTER FISCAL, P.O. 28 DE DICIEMBRE DE 1991.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de Diciembre de 1976.
 
@@ -1227,11 +1227,13 @@ El Primer Secretario del Tribunal, citará a una audiencia que se celebrará den
 
 Si se declara fundada la recusación, de inmediato seguirá conociendo el negocio el Primer Secretario del Tribunal, en sustitución del recusado.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE REFORMADO POR EL DECRETO NO. LXIII-103, EN VIRTUD DE NO HABER ENTRADO EN VIGENCIA EL CÓDIGO DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS A QUE HACE REFERENCIA EL ARTÍCULO SEGUNDO DE LOS TRANSITORIOS DEL DECRETO NÚMERO 189 QUE EXPIDE EL NUEVO CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS PUBLICADO EN EL P.O. DE FECHA 28 DE DICIEMBRE DE 1991.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 219.
 
-La resolución que decida la recusación es irrevocable. Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de 10 salarios mínimos, vigente en la capital del Estado.
+La resolución que decida la recusación es irrevocable. Si se declara improcedente o no probada la causa de recusación, se impondrá al recusante una multa de diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO III. DE LOS CASOS DE IMPROCEDENCIA Y SOBRESEIMIENTO
 
@@ -1521,13 +1523,13 @@ La Tesorería General del Estado o la Tesorería Municipal podrán promover el m
 
 Las cuestiones incidentales se tramitarán por cuerda separada. El Tribunal, al correr el traslado a la autoridad que haya negado la suspensión, rechazado la garantía o dictado la decisión impugnada citará a las partes a una audiencia en la que después de recibir sus pruebas, oírlas en alegatos, dictará la resolución interlocutoria que corresponda.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE REFORMADO POR EL DECRETO NO. LXIII-103, EN VIRTUD DE NO HABER ENTRADO EN VIGENCIA EL CÓDIGO DEL PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS A QUE HACE REFERENCIA EL ARTÍCULO SEGUNDO DE LOS TRANSITORIOS DEL DECRETO NÚMERO 189 QUE EXPIDE EL NUEVO CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS PUBLICADO EN EL P.O. DE FECHA 28 DE DICIEMBRE DE 1991.]</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 243.
 
-Si la autoridad no comparece a la audiencia contestando el traslado o no se refiere a todos los hechos de la demanda, se presumirán ciertos, salvo prueba en contrario, los hechos que el promovente le impute de manera precisa y se impondrá a aquella autoridad una multa de 1 a 17 salarios mínimos de la Comisión.
+Si la autoridad no comparece a la audiencia contestando el traslado o no se refiere a todos los hechos de la demanda, se presumirán ciertos, salvo prueba en contrario, los hechos que el promovente le impute de manera precisa y se impondrá a aquella autoridad una multa de una a diecisiete veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO VII. DE LAS PRUEBAS
 
@@ -1661,7 +1663,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veinticuatro días del mes de diciembre de mil novecientos setenta y seis.- ENRIQUE CARDENAS GONZALEZ.- Secretario General de Gobierno, Lic. Homero Pérez Alvarez.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 9 DE DICIEMBRE DE 1978.
 
@@ -1824,3 +1826,17 @@ Los Ayuntamientos expedirán la convocatoria a que hace alusión el artículo 33
 ###### ARTÍCULO SÉPTIMO.
 
 El Ayuntamiento que corresponda, mediante el voto de las dos terceras partes de los miembros presentes podrá declarar la disolución del Tribunal Municipal de Justicia Administrativa. Para tal efecto deberá establecer de manera clara fundando y motivando las causas por las cuales ha tomado esa determinación. Previo a la fecha de extinción del Tribunal Municipal de Justicia Administrativa deberán concluirse los asuntos en trámite.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+[NOTA 1: TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO].
+
+[NOTA 2: DEL ANÁLISIS A ESTE DECRETO NO. LXIII-103 QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS PUBLICADO MEDIANTE EL DECRETO NÚMERO 189 PUBLICADO EN EL P.O. DE FECHA 28 DE DICIEMBRE DE 1991, SE ADVIERTE QUE LOS ARTÍCULOS 219 Y 243 CORRESPONDEN AL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS PUBLICADO MEDIANTE DECRETO 219 EN EL P.O. DE FECHA 29 DE DICIEMBRE DE 1976.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
