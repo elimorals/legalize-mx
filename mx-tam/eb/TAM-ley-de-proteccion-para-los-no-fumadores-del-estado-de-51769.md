@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-para-los-no-fumadores-del-estado-de-51769"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-06"
-last_updated: "2006-09-06"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DE PROTECCION PARA LOS NO FUMADORES DEL ESTADO DE TAMAULIPAS
 
-LEY DE PROTECCION PARA LOS NO FUMADORES DEL ESTADO DE TAMAULIPAS
+LEY DE PROTECCIÓN PARA LOS NO FUMADORES DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 6 de septiembre de 2006.
 
@@ -371,9 +371,11 @@ Los propietarios, poseedores o responsables de los lugares a que se refiere el p
 
 Se sancionarán con clausura temporal de los establecimientos, a los dueños que reincidan en cualquiera de las infracciones establecidas en el Artículo 30 de este ordenamiento.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 34.
 
-Se entenderá por cuota un salario mínimo general diario vigente en el área geográfica del Estado de Tamaulipas correspondiente al momento de imponer la sanción.
+Se entenderá por cuota una vez el valor diario de la Unidad de Medida y Actualización correspondiente al momento de imponer la sanción.
 
 ###### ARTICULO 35.
 
@@ -440,3 +442,17 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los diecisiete días del mes de agosto del año dos mil seis.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
