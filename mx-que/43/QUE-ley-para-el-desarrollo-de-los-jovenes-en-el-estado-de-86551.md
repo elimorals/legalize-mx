@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-86551"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-02"
-last_updated: "2016-11-30"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el viernes 2 de marzo de 2012.
 
@@ -57,23 +57,49 @@ III. Equidad de género, la promoción de la defensa de la igualdad de las mujer
 
 IV. Factores de riesgo y alteraciones del desarrollo, todos aquellos eventos, conductas y situaciones presentes en el entorno de los jóvenes, que incrementan la probabilidad de desarrollar adicciones y la predisposición física, económica o social de sufrir daños, colocándolos en una situación de vulnerabilidad que afecta el desarrollo integral;
 
-V. Joven, la persona, cuya edad comprenda el rango entre los doce y los veintinueve años de edad cumplidos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VI. Secretaría, la Secretaría de la Juventud;
+V. Secretaría, la Secretaría de la Juventud;
 
-VII. Ley, la Ley para el Desarrollo de los Jóvenes en el Estado de Querétaro;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VIII. Organismo municipal, la dependencia, organismo desconcentrado o entidad paramunicipal con que cuente cada Municipio para el cumplimiento de esta Ley;
+VI. Ley, la Ley para el Desarrollo de los Jóvenes en el Estado de Querétaro;
 
-IX. Programa, al Programa Estatal para el Desarrollo Integral de la Juventud Queretana;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-X. SEDIF, al Sistema Estatal para el Desarrollo Integral de la Familia;
+VII. Organismo municipal, la dependencia, organismo desconcentrado o entidad paramunicipal con que cuente cada Municipio para el cumplimiento de esta Ley;
 
-XI. Sustancias tóxicas, el elemento o compuesto o la mezcla química de ambos que, cuando por cualquier vía de ingreso, ya sea inhalación, ingestión o contacto con la piel o mucosas, causan efectos adversos al organismo, de manera inmediata o mediata, temporal o permanente, tales como adicciones, lesiones funcionales, alteraciones genéticas, teratogénicos, mutagénicas, carcinogénicas o la muerte;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XII. Psicofísico, la manifestación física de un estímulo psicológico; y
+VIII. Programa, al Programa Estatal para el Desarrollo Integral de la Juventud Queretana;
 
-XIII. Vulnerabilidad, el conjunto de circunstancias derivadas de los factores personales, familiares, económicos o sociales, que provocan un estado de amenaza en los jóvenes de sufrir daños físicos, psicológicos o emocionales o cualquier otro que impida su desarrollo integral.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IX. SEDIF, al Sistema Estatal para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+X. Sustancias tóxicas, el elemento o compuesto o la mezcla química de ambos que, cuando por cualquier vía de ingreso, ya sea inhalación, ingestión o contacto con la piel o mucosas, causan efectos adversos al organismo, de manera inmediata o mediata, temporal o permanente, tales como adicciones, lesiones funcionales, alteraciones genéticas, teratogénicos, mutagénicas, carcinogénicas o la muerte;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XI. Psicofísico, la manifestación física de un estímulo psicológico;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XII. Vulnerabilidad, el conjunto de circunstancias derivadas de los factores personales, familiares, económicos o sociales, que provocan un estado de amenaza en los jóvenes de sufrir daños físicos, psicológicos o emocionales o cualquier otro que impida su desarrollo integral;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XIII. Joven adolescente, la persona que comprende el rango de edad de doce años cumplidos y menos de dieciocho años de edad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XIV. Joven adulto, la persona que comprenda el rango de edad entre los 18 y 29 años de edad cumplidos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XV. Jóvenes, el joven adolescente y el joven adulto en relación con las disposiciones de la presente Ley.
 
 ###### Artículo 3.
 
@@ -97,9 +123,11 @@ VIII. La participación libre y democrática en la totalidad de los procesos de 
 
 IX. El desarrollo de valores democráticos en la juventud, en la promoción, instrumentación y ejecución de programas y acciones tendientes a potenciar la convivencia, la libertad, la igualdad, la tolerancia y la solidaridad.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 4.
 
-Cualquier persona que tenga conocimiento de algún joven que se encuentre en condiciones de vulnerabilidad, podrá solicitar la intervención de las autoridades competentes en materia de juventud, con el objeto de que se le preste la atención necesaria.
+Cualquier persona que tenga conocimiento de algún joven que se encuentre en condiciones de vulnerabilidad o bajo algún factor de riesgo, podrá solicitar la intervención de las autoridades competentes en materia de juventud, con el objeto de que se preste la debida atención y dar el seguimiento que corresponda, conforme a las leyes aplicables.
 
 ###### Artículo 5.
 
@@ -878,5 +906,13 @@ P.O. 30 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 65, 66 Y 67 DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 2 Y 4 DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
