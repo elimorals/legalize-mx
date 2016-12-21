@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-adquisiciones-arrendamiento-de-bienes-muebles-y-67879"
 country: "mx"
 rank: "ley"
 publication_date: "2003-01-29"
-last_updated: "2014-09-18"
+last_updated: "2016-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016 (DEROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 29 de enero de 2003.
 
@@ -1604,3 +1604,21 @@ Artículo Tercero.- Con relación a los procedimientos de adquisición con recur
 Artículo Cuarto.- El Comité de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios en Materia de Seguridad Pública del Gobierno del Estado, en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigencia del presente Decreto, deberá emitir los lineamientos correspondientes para llevar a cabo los procesos de adquisición estatal.
 
 Artículo Quinto.- Las Dependencias normativas del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que resulten necesarias para el debido cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 033 LEY DE ADQUISICIONES, ARRENDAMIENTO DE BIENES MUEBLES Y LA CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- A partir de la entrada en vigor del presente Decreto, se deroga la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas, publicada en el Periódico Oficial número 152 de fecha 29 de enero del año 2003, bajo Decreto número 146.
+
+Artículo Tercero.- En tanto entre en funciones la Oficialía Mayor, previa autorización de la Secretaría de Hacienda, las dependencias y entidades de la Administración Pública Estatal, a través de su órgano administrativo competente, constituyéndose en Subcomité, podrán llevar a cabo los procedimientos para la adjudicación de pedidos y contratos, en términos de lo que dispone la presente Ley.
+
+Para el cumplimiento de lo antes dispuesto, mediante Acuerdo, la Secretaría de Hacienda establecerá la integración de los Subcomités y sus atribuciones.
+
+Artículo Cuarto.- Las disposiciones reglamentarias de la Ley que por el presente Decreto se expide, deberán ser emitidas en un término máximo de 180 días naturales a partir de la entrada en vigor de la misma; en tanto, seguirán siendo aplicables en lo que resulte, las disposiciones contenidas en el Reglamento de la Ley de Adquisiciones, Arrendamiento de Bienes Muebles y Contratación de Servicios para el Estado de Chiapas, publicado en el Periódico Oficial número 183, de fecha 30 de Julio de 2003. Las controversias y situaciones no previstas en torno a su aplicación, serán resueltas por la Secretaría de Hacienda, a través del órgano administrativo que para tal efecto se designe, hasta en tanto entre en funciones la Oficialía Mayor.
+
+Artículo Quinto.- Los procedimientos para hacer efectivas las garantías que a la entrada en vigor de esta Ley estén siendo ejecutados por la Procuraría Fiscal de la Secretaría de Hacienda, serán sustanciados hasta su conclusión, conforme a las disposiciones legales vigentes al momento de su inicio.
+
+Artículo Sexto.- A falta de disposiciones reglamentarias internas correspondientes a los Poderes Legislativo, Judicial y Órganos Autónomos, en la materia que regulan los procedimientos establecidos en la presente Ley, se aplicarán de forma supletoria estas disposiciones.
