@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-expediente-clinico-electronico-en-tamaulipas-96000"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2014-07-09"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL EXPEDIENTE CLÍNICO ELECTRÓNICO EN TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -319,27 +319,27 @@ Cualquier persona que haya denunciado presuntas violaciones a los derechos human
 
 ### CAPÍTULO VI. De las Sanciones
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 49.
 
-A quien adapte o remplace de manera dolosa datos del Expediente Clínico Electrónico se le impondrá una multa de 50 a 150 días de salario mínimo vigente en el Estado.
+A quien adapte o remplace de manera dolosa datos del Expediente Clínico Electrónico se le impondrá una multa de cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 50.
 
-Al personal médico que teniendo acceso al Expediente Clínico Electrónico, utilice indebidamente o lucre con datos personales, mediante el engaño o acoso al titular de éstos, se le suspenderá del ejercicio profesional y el acceso al sistema del Expediente Clínico Electrónico y además se le sancionará con 150 a 300 días de salario mínimo vigente en el Estado, sin perjuicio de la responsabilidad penal en la que se pudiera incurrir.
+Al personal médico que teniendo acceso al Expediente Clínico Electrónico, utilice indebidamente o lucre con datos personales, mediante el engaño o acoso al titular de éstos, se le suspenderá del ejercicio profesional y el acceso al sistema del Expediente Clínico Electrónico y además se le sancionará con ciento cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de la responsabilidad penal en la que se pudiera incurrir.
 
 ###### Artículo 51.
 
 (DEROGADO, P.O. 9 DE JULIO DE 2014)
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 52.
 
-A la persona que ingrese al Expediente Clínico Electrónico de manera ilegal para alterar, interferir o copiar la información contenida en el mismo, se le sancionará con 100 a 250 días de salario mínimo vigente en el Estado, sin perjuicio de la responsabilidad penal en la que se pudiera incurrir.
+A la persona que ingrese al Expediente Clínico Electrónico de manera ilegal para alterar, interferir o copiar la información contenida en el mismo, se le sancionará con cien a doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de la responsabilidad penal en la que se pudiera incurrir.
 
 T R A N S I T O R I O S
 
@@ -390,3 +390,15 @@ P.O. 9 DE JULIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
