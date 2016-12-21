@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-escudo-y-el-himno-de-tamaulipas-antes-ley-del-4243
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2016-09-06"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL ESCUDO Y EL HIMNO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -725,9 +725,11 @@ Al efecto se convocará regularmente a concursos estatales sobre dicho (sic) sí
 
 La aplicación del presente ordenamiento corresponde a la Secretaría General de Gobierno y, en lo que hace a los planteles educativos del Estado a la Secretaría de Educación. Para efectos de la aplicación y cumplimiento de sus disposiciones, todas las autoridades del Estado serán auxiliares de la Secretaría General de Gobierno.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 32.
 
-Las infracciones del presente ordenamiento que no constituyan delito pero que impliquen desacato o falta de respeto a los símbolos del Estado, se castigarán con multa hasta por el equivalente a 500 salarios mínimos o arresto hasta por 36 horas. La imposición de una sanción económica se graduará conforme a la gravedad de la falta y la condición del infractor, pero si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente a tres tantos del beneficio económico percibido por el infractor.
+Las infracciones del presente ordenamiento que no constituyan delito pero que impliquen desacato o falta de respeto a los símbolos del Estado, se castigarán con multa hasta por el equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización o arresto hasta por 36 horas. La imposición de una sanción económica se graduará conforme a la gravedad de la falta y la condición del infractor, pero si la infracción se comete con fines de lucro, la multa podrá imponerse hasta por el equivalente a tres tantos del beneficio económico percibido por el infractor.
 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
 
@@ -778,3 +780,15 @@ P.O. 6 DE SEPTIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
