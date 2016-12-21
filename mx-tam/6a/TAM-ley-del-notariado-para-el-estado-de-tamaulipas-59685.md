@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-59685"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-15"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 15 de enero de 2008.
 
@@ -69,9 +69,9 @@ El Notario es la persona investida de fe pública para hacer constar los actos y
 
 1. El Gobernador del Estado determinará el número de Notarías y su residencia atendiendo a los factores siguientes:
 
-l. Población beneficiada y tendencias de su crecimiento;
+I. Población beneficiada y tendencias de su crecimiento;
 
-Il. Estimación sobre las necesidades de servicios notariales de la población; y
+II. Estimación sobre las necesidades de servicios notariales de la población; y
 
 III. Condiciones socioeconómicas de la población del lugar propuesto como residencia.
 
@@ -261,7 +261,9 @@ Los exámenes para obtener la patente de aspirante o el fíat de Notario, se des
 
 1. Para que el Notario pueda actuar, deberá previamente:
 
-I. Otorgar y mantener actualizada la garantía por el equivalente a 500 días de salario mínimo general vigente en la capital del Estado a satisfacción de la Secretaría de Finanzas del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+I. Otorgar y mantener actualizada la garantía por el equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización a satisfacción de la Secretaría de Finanzas del Gobierno del Estado;
 
 II. Proveerse a su costa de sello y protocolo;
 
@@ -1175,7 +1177,7 @@ I. Si lo fuera el instrumento del que proviene;
 
 II. Si no está autorizado con la firma y sello del Notario; o
 
-III. Si falta alguno de los requisitos exigidos para la expedición de testimonios;
+III. Si falta alguno de los requisitos exigidos para la expedición de testimonios (sic);
 
 ### CAPITULO XVIII. SANCIONES
 
@@ -1195,7 +1197,9 @@ c) Por separarse del ejercicio de sus funciones sin dar aviso o sin licencia cor
 
 d) Por cualquier otra falta considerada no grave, como omitir empastar oportunamente los volúmenes y los Apéndices, dejar de inscribir las notas complementarias u otras semejantes;
 
-II. Multa hasta por el equivalente de 500 días de salario mínimo general vigente en la capital del Estado:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II. Multa hasta por el equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización:
 
 a) Por reincidir en alguna de las infracciones señaladas en la fracción I del párrafo 2 de este artículo;
 
@@ -1367,7 +1371,7 @@ El Director de Asuntos Notariales usará un sello igual al de los Notarios que d
 
 Son atribuciones del Director de Asuntos Notariales:
 
-l. Llevar el registro de sellos y firmas de Notarios y funcionarios públicos que actúen con ese carácter;
+I. Llevar el registro de sellos y firmas de Notarios y funcionarios públicos que actúen con ese carácter;
 
 II. Conservar, administrar y guardar los Protocolos, Apéndices, anexos y documentos que constituyan el Archivo General de Notarías;
 
@@ -1665,7 +1669,9 @@ II. Poderes generales para ejercer actos de dominio;
 
 III. Poderes que se refieran a bienes inmuebles, y
 
-IV. Poderes que se refieran a bienes muebles, cuando el valor del bien sea superior a quinientos días de salario mínimo general vigente en la capital del Estado.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV. Poderes que se refieran a bienes muebles, cuando el valor del bien sea superior a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 3. La Dirección de Asuntos Notariales creará y llevará una base de datos con las características que se mencionan especialmente destinada a consignar las inscripciones relativas a los poderes otorgados, sin perjuicio de llevar por separado un libro que contenga los avisos de referencia.
 
@@ -1801,7 +1807,7 @@ La integridad y autoría de un documento digital con firma electrónica avanzada
 
 1. El Notario titular de un certificado emitido por el Gobierno del Estado, tendrá las siguientes obligaciones:
 
-I Actuar con diligencia y establecer los medios razonables para evitar la utilización no autorizada de los datos de creación de la firma;
+I. Actuar con diligencia y establecer los medios razonables para evitar la utilización no autorizada de los datos de creación de la firma;
 
 II. Conducirse con diligencia razonable para cerciorarse que todas las actuaciones que haya hecho en relación con el certificado, con su vigencia, o que hayan sido consignados en el mismo, son exactas, cuando se emplee el certificado en relación con una firma electrónica avanzada; y
 
@@ -1922,3 +1928,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
