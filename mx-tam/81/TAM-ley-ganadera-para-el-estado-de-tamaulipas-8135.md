@@ -4,7 +4,7 @@ identifier: "TAM-ley-ganadera-para-el-estado-de-tamaulipas-8135"
 country: "mx"
 rank: "ley"
 publication_date: "1993-05-12"
-last_updated: "2006-09-06"
+last_updated: "2016-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY GANADERA PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 12 de mayo de 1993.
 
@@ -99,7 +99,7 @@ VI.- Los Presidentes Municipales, en el ámbito de sus respectivas competencias.
 
 El Gobernador del Estado es la autoridad facultada para dictar y aplicar las medidas necesarias para la consecución de los fines de esta Ley, las que ejercerá directamente o a través de la Secretaría de Desarrollo Rural.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
 ###### ARTICULO 7o.
 
@@ -385,9 +385,11 @@ La Secretaría promoverá el establecimiento de criaderos de fauna para diversif
 
 ### CAPITULO I. DE LA APLICACION
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 45.
 
-Se impondrá multa por el equivalente de veinte a doscientos días de salario mínimo vigente en la Capital del Estado, independientemente de los delitos en que pudieran incurrir a quienes:
+Se impondrá multa por el equivalente de veinte a doscientas veces el valor diario de la Unidad de Medida y Actualización, independientemente de los delitos en que pudieran incurrir a quienes:
 
 I.- No identifiquen debidamente su ganado o alteren las identificaciones propias.
 
@@ -413,9 +415,11 @@ XI.- Permitan el consumo de animales que hayan sido tratados con sustancias o me
 
 XII.- Nieguen a los Inspectores de Ganadería el acceso a los sitios a ser inspeccionados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 46.
 
-Se impondrá multa por el equivalente de cien a dos mil días de salario mínimo vigente en la Capital del Estado, independientemente de los delitos en que pudieran incurrir, a quienes:
+Se impondrá multa por el equivalente de cien a dos mil veces el valor diario de la Unidad de Medida y Actualización, independientemente de los delitos en que pudieran incurrir, a quienes:
 
 I.- Comercialicen animales sin la factura correspondiente.
 
@@ -473,10 +477,22 @@ SUFRAGIO EFECTIVO. NO REELECCION.
 
 El Gobernador Constitucional del Estado, MANUEL CAVAZOS LERMA.- El Secretario General de Gobierno, JAIME RODRIGUEZ INURRIGARRO.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
