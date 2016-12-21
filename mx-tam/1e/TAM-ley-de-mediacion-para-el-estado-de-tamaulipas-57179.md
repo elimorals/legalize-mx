@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-mediacion-para-el-estado-de-tamaulipas-57179"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-21"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE MEDIACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 21 de agosto de 2007.
 
@@ -735,7 +735,9 @@ La intervención del Centro de Mediación o de un mediador particular suspender�
 
 La Dirección, mediante resolución del Director, sancionará al mediador o mediadores que incurran en violaciones a esta ley, conforme a lo siguiente:
 
-a) Amonestación y multa de cincuenta a setenta y cinco días de salario mínimo diario vigente en la Capital del Estado al momento de decretarse la sanción, a quien incurra en una acción u omisión que signifique realizar la mediación en contravención a los principios que la rigen;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+a) Amonestación y multa de cincuenta a setenta y cinco veces el valor diario de la Unidad de Medida y Actualización al momento de decretarse la sanción, a quien incurra en una acción u omisión que signifique realizar la mediación en contravención a los principios que la rigen;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -757,9 +759,13 @@ c) Revocación del registro en caso de reincidir en alguna de las acciones u omi
 
 La Dirección, por conducto del Director, sancionará al Centro de Mediación o al mediador particular que incurra en infracción a esta ley, en los siguientes casos:
 
-a).- Multa de cincuenta días de salario mínimo diario vigente en la Capital del Estado, en el momento de decretarse la sanción, a quien incumpla notificar su cambio de domicilio a la Dirección;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b).- Apercibimiento y multa de cien días de salario mínimo diario vigente en la Capital del Estado al momento de decretarse la sanción, a quien no cuente con espacios, instalaciones y equipamientos adecuados para las sesiones de mediación; en caso de reincidencia se le suspenderá el registro ante la Dirección, hasta que dé cumplimiento a los requerimientos de acondicionar y equipar los espacios físicos necesarios;
+a).- Multa de cincuenta veces el valor diario de la Unidad de Medida y Actualización, en el momento de decretarse la sanción, a quien incumpla notificar su cambio de domicilio a la Dirección;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b).- Apercibimiento y multa de cien veces el valor diario de la Unidad de Medida y Actualización al momento de decretarse la sanción, a quien no cuente con espacios, instalaciones y equipamientos adecuados para las sesiones de mediación; en caso de reincidencia se le suspenderá el registro ante la Dirección, hasta que dé cumplimiento a los requerimientos de acondicionar y equipar los espacios físicos necesarios;
 
 c).- Suspensión del registro ante la Dirección hasta por un plazo de seis meses a quien omita vigilar y acreditar que los mediadores que presten sus servicios dentro de su organización, cumplan con los requisitos y obligaciones que establece esta ley;
 
@@ -838,3 +844,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
