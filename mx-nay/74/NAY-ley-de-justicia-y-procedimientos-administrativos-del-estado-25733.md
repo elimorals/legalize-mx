@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-y-procedimientos-administrativos-del-estado-257
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-17"
-last_updated: "2016-11-08"
+last_updated: "2016-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NAY"
 ---
 # LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 21 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016 (ABROGADA).
 
-Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 17 de agosto de 2002
+Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 17 de agosto de 2002.
 
 C.P. ANTONIO ECHEVARRIA DOMINGUEZ, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
 
@@ -2444,3 +2446,41 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT".]
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, sin perjuicio de lo dispuesto en los artículos siguientes.
+
+Segundo.- A la entrada en vigor de la presente norma quedará abrogada la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit, publicada en el Periódico Oficial el 17 de Agosto de 2002.
+
+Tercero.- El Tribunal de Justicia Administrativa de Nayarit, como órgano jurisdiccional entrará en funciones el día 02 de enero del 2017. No obstante, los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit, a la entrada en vigor de la presente Ley, quedan facultados para desempeñar sus funciones administrativas e iniciar los procesos de selección y contratación del personal del Tribunal.
+
+Cuarto.- Los procedimientos, procesos y recursos administrativos que se encuentren en trámite al entrar en vigor esta Ley, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
+
+En ese contexto, a la entrada en vigor de la presente Ley, la Sala Constitucional Electoral del Tribunal Superior de Justicia y el Pleno del Tribunal de Justicia Administrativa, iniciarán con los trabajos coordinados para efectos de que el nuevo Tribunal conozca el estado que guardan los asuntos sustanciados por la Sala Constitucional Electoral, la cual deberá informar a detalle las situaciones jurídicas concretas, realizando la entrega física de los expedientes antes del 2 de enero del 2017.
+
+Quinto.- Dentro de los 30 días siguientes a la entrada en funciones administrativas del Tribunal, se sesionará por parte del pleno a efecto de elegir a su presidente, aprobar y publicar el calendario laboral anual y prevenir todo lo conducente para el inicio de su funcionamiento.
+
+Sexto.- Dentro de los 180 días siguientes a que comience a operar el Tribunal de Justicia Administrativa, se deberá elaborar y aprobar el Reglamento Interior del mismo; previo a ello, el Pleno del Tribunal decidirá lo conducente respecto a las circunstancias que se presenten.
+
+Séptimo.- El Pleno del Tribunal de Justicia Administrativa de Nayarit, a más tardar dentro del año siguiente a la entrada en vigor de la presente Ley, elaborará y aprobará el Reglamento de Carrera Jurisdiccional Administrativa.
+
+Una vez publicado el Reglamento de Carrera Jurisdiccional Administrativa, los cargos vacantes serán asignados a través de concursos públicos y abiertos.
+
+Conforme a los criterios que emita el Tribunal, iniciará la operación del sistema de carrera de manera gradual, condicionado al estudio que se realice sobre las características, particularidades, condiciones, requisitos y perfiles que conforman la estructura del Tribunal.
+
+Octavo.- Para los efectos de la carrera jurisdiccional prevista en la presente Ley; a su entrada en vigor, todos los cargos que ocupen los servidores públicos de confianza en funciones sujetos a la misma, serán considerados de libre designación, en tanto se practiquen las evaluaciones que determine el Tribunal, de acuerdo al Reglamento de Carrera Jurisdiccional Administrativa que se emita.
+
+Ningún servidor público de confianza en funciones sujeto a la presente Ley, podrá ser considerado personal de carrera hasta en tanto se emitan las disposiciones reglamentarias correspondientes. No obstante la antigüedad de los servidores públicos se respetará y hará valer en su oportunidad.
+
+Noveno.- Las disposiciones referentes a los trámites por medios electrónicos, serán aplicables hasta que se implementen los recursos informáticos necesarios, tomando en consideración la disponibilidad presupuestal del Tribunal. Cuando sea posible el uso de medios electrónicos para la tramitación de los juicios; el Tribunal lo hará del conocimiento de la población, mediante acuerdo que se publique en el Periódico Oficial, Órgano de Gobierno del Estado, en las oficinas del Tribunal y los medios de comunicación masiva. Hasta entonces, los trámites y demás notificaciones se harán por escrito.
+
+En cuanto al procedimiento ordinario y las autoridades administrativas, el uso de medios electrónicos, queda bajo la elección y responsabilidad de cada dependencia o entidad.
+
+Decimo.- En virtud de que el Tribunal no tiene conformado su Comité de Compras, el Comité de Adquisiciones del Poder Ejecutivo, por única ocasión, celebrará los procedimientos, contratos y trámites a que haya lugar, para la adquisición y arrendamiento de bienes y servicios que requiera el funcionamiento del Tribunal; de tal manera que a la fecha de entrada en funcionamiento, cuente con los recursos materiales suficientes para tal efecto.
+
+En los procedimientos el Tribunal figurará como órgano usuario, por lo que los gastos que se realicen se harán con cargo a su presupuesto y los bienes adquiridos deberán incorporarse a su patrimonio.
+
+Décimo Primero.- El Congreso del Estado, en coordinación con el Poder Ejecutivo y los Ayuntamientos del Estado, dispondrán los recursos humanos y financieros, para que a partir de la publicación de esta Ley, su contenido se difunda ampliamente entre los servidores públicos estatales y municipales, así como entre la población en general de toda la entidad.
