@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-caminos-del-estado-de-tamaulipas-66174"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-18"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 18 de noviembre de 2008.
 
@@ -463,7 +463,9 @@ III. Colocar intencionalmente objetos o señales con ánimo de ocasionar daños 
 
 IV. Cualquier otra infracción a lo previsto en la presente ley.
 
-2. Las infracciones referidas en las fracciones I, II y III del párrafo anterior se sancionarán con multa de 100 a 500 días de salario mínimo vigente en la capital del Estado y las infracciones comprendidas en la fracción IV se sancionarán con multas de 501 hasta de 1000 días de salario mínimo vigente en la capital del Estado. En la imposición de la multa, la Secretaría abundará y motivará la relación entre la infracción cometida y la sanción determinada.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2. Las infracciones referidas en las fracciones I, II y III del párrafo anterior se sancionarán con multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización y las infracciones comprendidas en la fracción IV se sancionarán con multas de quinientas una hasta de mil veces el valor diario de la Unidad de Medida y Actualización. En la imposición de la multa, la Secretaría abundará y motivará la relación entre la infracción cometida y la sanción determinada.
 
 3. En caso de reincidencia, la Secretaría podrá imponer una multa equivalente hasta por el doble de las cuantías señaladas en el párrafo anterior, salvo las excepciones o casos específicos previstos en esta ley.
 
@@ -515,7 +517,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 24 DE NOVIEMBRE DE 2010.
 
@@ -538,3 +540,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
