@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prestacion-del-servicio-publico-de-panteones-en-319
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-20"
-last_updated: "2003-05-20"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PRESTACION DEL SERVICIO PUBLICO DE PANTEONES EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el 20 de mayo de 2003.
 
@@ -513,7 +513,9 @@ III.- Los restos podrán depositarse en el lugar destinado especialmente en cada
 
 IV.- Los sudarios, ropas o fragmentos de ellos que se extraigan de los sepulcros, serán quemados inmediatamente. Por ningún motivo quedarán expuestos o abandonados en los panteones, y mucho menos dedicados a nuevos usos, ni podrán ser entregados a familiares bajo cualquier pretexto.
 
-La infracción de esta disposición, ameritará una multa de 50 a 500 días de salario mínimo vigente en la zona económica a la que pertenece el Municipio y la destitución del empleado responsable.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+La infracción de esta disposición, ameritará una multa de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización y la destitución del empleado responsable.
 
 Cuando por virtud de lo dispuesto en este artículo se practique una exhumación y aparezca que el cadáver se encuentra en estado de putrefacción, la misma se suspenderá inmediatamente, dejándose el cadáver en su sitio y en las condiciones en que se encontrara antes de la exhumación.
 
@@ -639,21 +641,29 @@ Las sanciones pecuniarias no eximen a los infractores de la obligación de pagar
 
 En caso de reincidencia en la violación a las disposiciones de esta ley, la sanción podrá aumentarse hasta el doble de la cantidad impuesta originalmente.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 79.
 
-Se sancionará con multa de 50 hasta 100 veces el salario mínimo general diario vigente en la zona económica de que se trate, la infracción de las disposiciones contenidas en los artículos 17 y 18 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+Se sancionará con multa de cincuenta hasta cien veces el valor diario de la Unidad de Medida y Actualización, la infracción de las disposiciones contenidas en los artículos 17 y 18 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 80.
 
-Se sancionará con multa de 500 hasta 1500 veces el salario mínimo general diario vigente en la zona económica de que se trate, la infracción de las disposiciones contenidas en los artículos 40 y 47 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+Se sancionará con multa de quinientas hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización, la infracción de las disposiciones contenidas en los artículos 40 y 47 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 81.
 
-Las violaciones por parte de los concesionarios a las disposiciones del funcionamiento de panteones esta ley se sancionarán con multa, por el equivalente de 50 hasta 200 veces el salario mínimo general diario vigente en la zona económica a la que pertenece el Municipio, de acuerdo con la gravedad de la falta.
+Las violaciones por parte de los concesionarios a las disposiciones del funcionamiento de panteones esta ley se sancionarán (sic) con multa, por el equivalente de cincuenta hasta doscientas veces el valor diario de la Unidad de Medida y Actualización, de acuerdo con la gravedad de la falta.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 82.
 
-Las infracciones a esta ley, que no tengan señalada sanción especial, se sancionarán con multa de entre 50 y 1000 días del salario mínimo vigente en la zona económica a la que pertenece el Municipio, atendiendo las reglas de calificación que se establecen en el artículo 77 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+Las infracciones a esta ley, que no tengan señalada sanción especial, se sancionarán con multa de entre cincuenta y mil veces el valor diario de la Unidad de Medida y Actualización, atendiendo las reglas de calificación que se establecen en el artículo 77 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
 
 ###### ARTÍCULO 83.
 
@@ -680,3 +690,17 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los catorce días del mes de mayo del año dos mil tres.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMÁS YARRINGTON RUVALCABA.- RUBRICA.- LA SECRETARIA GENERAL DE GOBIERNO.-MERCEDES DEL CARMEN GUILLÉN VICENTE.- RUBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
