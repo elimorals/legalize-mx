@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-14909
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-25"
-last_updated: "2016-12-15"
+last_updated: "2016-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el miércoles 25 de octubre de 1995.
 
@@ -1085,19 +1085,27 @@ VIII.- Dirección de Archivo General y Biblioteca.
 
 IX.- Dirección de Concertación Legislativa.
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-X.- Las demás que coadyuven a las funciones de las anteriores.
+X.- Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Poder Legislativo, y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XI.- Las demás que coadyuven a las funciones de las anteriores.
 
 ###### ARTICULO 82.
 
 (DEROGADO, P.O. 8 DE JULIO DE 2016)
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 83.
 
-Para ser titular de las Dependencias del Poder Legislativo, se exigirán los requisitos señalados en el Artículo 95 de la Constitución Política del Estado, con excepción del titular de la Dirección de Apoyo Jurídico, quien además deberá ser abogado o licenciado en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultadas para ello. Tratándose del titular del Instituto de Investigaciones Legislativas además de los requisitos establecidos en el Artículo 95 de la Constitución Política del Estado, se requerirá ser abogado o licenciado en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultadas para ello y contar preferentemente con experiencia en el área de investigación.
+Para ser titular de las Dependencias del Poder Legislativo, se exigirán los requisitos señalados en el artículo 95 de la Constitución Política del Estado, con excepción del titular de la Dirección de Apoyo Jurídico, quien además deberá ser abogado o licenciado en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultadas para ello.
+
+Tratándose del titular del Instituto de Investigaciones Legislativas además de los requisitos establecidos en el artículo 95 de la Constitución Política del Estado, se requerirá ser abogado o licenciado en derecho, con título y cédula profesional expedidos por autoridad o institución legalmente facultadas para ello y contar preferentemente con experiencia en el área de investigación.
+
+Tratándose del titular de la Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Poder Legislativo, además de los requisitos establecidos en el artículo 95 de la Constitución Política del Estado, se requerirá contar con título y cédula profesional de licenciatura afín a la materia, expedidos por autoridad o institución legalmente facultada y preferentemente deberá contar con experiencia en materia de transparencia y acceso a la información pública.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2016)</small>
 
@@ -1401,17 +1409,105 @@ IV. Recopilar y difundir información veraz para coadyuvar con el logro de acuer
 
 V. Las demás inherentes a la consecución de las anteriores y las que expresamente le señale la Legislatura.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO XI. DE LA UNIDAD DE TRANSPARENCIA, ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL PODER LEGISLATIVO
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 104 QUATER.- La Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Poder Legislativo es el enlace entre el Poder Legislativo y el solicitante, será la responsable de la atención de las solicitudes de información que formulen los ciudadanos ante este poder, gozarán de autonomía de gestión a fin de cumplir con sus funciones y las disposiciones aplicables de la Ley en la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 104 QUINQUIES.- La Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Poder Legislativo deberá publicar y poner a disposición del público, además de la información a que se refiere el artículo 91 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo, la siguiente información:
+
+I.- La agenda legislativa;
+
+II.- La gaceta parlamentaria;
+
+III.- El orden del día;
+
+IV.- La Agenda semanal;
+
+V.- El diario de debates;
+
+VI.- Las versiones estenográficas de las sesiones;
+
+VII.- La asistencia de los Diputados de cada una de sus sesiones del pleno, de la Diputación Permanente y de las comisiones;
+
+VIII.- Las iniciativas de ley, decretos, declaratorias, puntos de acuerdo, la fecha en que se recibió, las comisiones a las que se turnaron, y los dictámenes que, en su caso, recaigan sobre las mismas;
+
+IX.- Las leyes, decretos, declaratorias y acuerdos aprobados por la Legislatura o la Diputación Permanente;
+
+X.- Las convocatorias, actas, acuerdos, listas de asistencia y votación de las comisiones, de las sesiones del pleno y de la Diputación Permanente, identificando el sentido del voto, en votación económica, y por cada legislador, en la votación nominal, así como votos particulares y reservas de los dictámenes y acuerdos sometidos a consideración;
+
+XI.- Las resoluciones definitivas sobre juicios políticos y declaratorias de procedencia;
+
+XII.- Las versiones públicas de la información entregada en las audiencias públicas, comparecencias y en los procedimientos de designación, ratificación, elección, reelección o cualquier otro;
+
+XIII.- Las contrataciones de servicios personales señalando el nombre del prestador del servicio, objeto, monto y vigencia del contrato de los órganos de gobierno, comisiones, grupos parlamentarios y centros de estudio u órganos de investigación;
+
+XIV.- El informe semestral del ejercicio presupuestal del uso y destino de los recursos financieros de los órganos de gobierno, comisiones, grupos parlamentarios y centros de estudio u órganos de investigación;
+
+XV.- La dirección donde se encuentren ubicadas las oficinas de gestión de cada uno de los diputados, en su caso;
+
+XVI.- Los informes de actividades que presentan los diputados, en términos de lo dispuesto en esta Ley;
+
+XVII.- El nombre de los asesores de las fracciones o de cada uno de los diputados, su currículo y remuneración percibida, especificando periodicidad;
+
+XVIII.- Los resultados de los estudios o investigaciones de naturaleza económica, política y social que realice el Instituto de Investigaciones Legislativas, y
+
+XIX.- Las demás que estipulen las leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 104 SEXIES.- La Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Poder Legislativo, a través de su titular, tendrá las siguientes funciones:
+
+I.- Recabar, publicar, difundir y actualizar la información a que se refiere el artículo anterior y actualizarla periódicamente, conforme la normatividad aplicable;
+
+II.- Recibir y tramitar las solicitudes de acceso a la información y darles seguimiento hasta la entrega de la misma, en la forma y modalidad que la haya pedido el interesado conforme a la normatividad aplicable;
+
+III.- Auxiliar y asesorar a los particulares en la elaboración de solicitudes de acceso a la información que lleguen al Poder Legislativo, y en su caso, orientarlos acerca de los sujetos obligados competentes conforme a la normatividad aplicable;
+
+IV.- Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información y en su caso asesorar a las áreas correspondientes;
+
+V.- Efectuar las notificaciones a los solicitantes, conforme a la ley de la materia;
+
+VI.- Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable;
+
+VII.- Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
+
+VIII.- Llevar un registro y actualizarlo mensualmente, con respecto a las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío;
+
+IX.- Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+
+X.- Fomentar la transparencia y accesibilidad al interior del Poder Legislativo;
+
+XI.- Garantizar las medidas y condiciones de accesibilidad para que toda persona pueda ejercer el derecho de acceso a la información, mediante solicitudes de información;
+
+XII.- Elaborar los formatos de solicitudes de acceso a la información pública, de conformidad con los lineamientos que en la materia se expidan;
+
+XIII.- Elaborar el manual de procedimientos para asegurar la adecuada atención a las solicitudes de acceso a la información pública;
+
+XIV.- Elaborar un programa para facilitar la obtención de información pública, que deberá ser actualizado periódicamente;
+
+XV.- Difundir entre los servidores públicos los beneficios del manejo público de la información, así como sus responsabilidades en el buen uso y conservación de ésta;
+
+XVI.- Proponer al Presidente de la Gran Comisión, la concertación de acuerdos con instituciones públicas especializadas que pudieran auxiliarles a entregar las respuestas a solicitudes de información, en la lengua indígena, braille o cualquier formato accesible correspondiente, en forma más eficiente;
+
+XVII.- Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley de la materia y en las demás disposiciones aplicables;
+
+XVIII.- Compilar los índices de los documentos clasificados como reservados y actualizarlos de forma semestral, y
+
+XIX.- Las demás que se desprendan de la normatividad aplicable.
+
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
-
-### CAPITULO UNICO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL PODER LEGISLATIVO
-
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ## TITULO NOVENO
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-### CAPITULO I. DE LA INICIACION Y FORMACION DE LEYES
+### CAPITULO UNICO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS DEL PODER LEGISLATIVO
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1425,7 +1521,7 @@ Las responsabilidades administrativas en que incurran los titulares y personal d
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO II. DEL DICTAMEN
+### CAPITULO I. DE LA INICIACION Y FORMACION DE LEYES
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1479,7 +1575,7 @@ Las proposiciones o proyectos de los Diputados o ciudadanos que no sean Iniciati
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO III. DEL DEBATE
+### CAPITULO II. DEL DICTAMEN
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1511,7 +1607,7 @@ La negativa, omisión, negligencia o actitud dilatoria en cumplir lo solicitado,
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO IV. DE LA VOTACION
+### CAPITULO III. DEL DEBATE
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1595,7 +1691,7 @@ En la discusión en lo particular, se podrán apartar los artículos, fracciones
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO V. DE LA EXPEDICION
+### CAPITULO IV. DE LA VOTACION
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1633,7 +1729,7 @@ Las disposiciones de un proyecto de ley o de decreto que sean declaradas aprobad
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO I. DEL JUICIO POLITICO
+### CAPITULO V. DE LA EXPEDICION
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1665,7 +1761,7 @@ En la interpretación, reforma, derogación o abrogación de las Leyes o Decreto
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO II. DE LA DECLARATORIA DE PROCEDENCIA
+### CAPITULO I. DEL JUICIO POLITICO
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
@@ -1805,9 +1901,9 @@ Cuando a algún Diputado se le instruya Juicio Político, no ejercerá sus funci
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO III. DE LA DESAPARICION DE LOS PODERES MUNICIPALES
+### CAPITULO II. DE LA DECLARATORIA DE PROCEDENCIA
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 155.
 
@@ -1839,9 +1935,9 @@ La Legislatura remitirá al Procurador General de Justicia del Estado, copia cer
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
-### CAPITULO I. DEL DIARIO DE LOS DEBATES
+### CAPITULO III. DE LA DESAPARICION DE LOS PODERES MUNICIPALES
 
-(REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1999)
+> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1999)</small>
 
 ###### ARTICULO 158.
 
@@ -1853,9 +1949,9 @@ La Legislatura conocerá de la suspensión y desaparición de los Ayuntamientos;
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO II. DEL PROTOCOLO
+### CAPITULO I. DEL DIARIO DE LOS DEBATES
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
+(REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 15 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 159.
 
@@ -1865,9 +1961,9 @@ Las discusiones y documentos relacionados con las sesiones de carácter secreto,
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO III. DEL PUBLICO
+### CAPITULO II. DEL PROTOCOLO
 
-(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
 ###### ARTICULO 160.
 
@@ -1909,7 +2005,7 @@ Si asistieren invitados especiales a las sesiones, el Presidente de la Legislatu
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
-### CAPITULO IV. DISPOSICIONES ESPECIALES
+### CAPITULO III. DEL PUBLICO
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -1928,6 +2024,10 @@ Cuando uno o varios de los asistentes crearen desorden o impidan el buen desarro
 ###### ARTICULO 167.
 
 Toda persona que perturbe de cualquier modo el orden dentro del Recinto Oficial, será despedida inmediatamente ordenándole salir de él; pero si la falta fuese grave se mandará detener mediante la fuerza pública que auxilie al Presidente de la Legislatura y si el hecho entrañare delito, se pondrá en ese momento a disposición de la autoridad competente.
+
+(REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
+
+### CAPITULO IV. DISPOSICIONES ESPECIALES
 
 (REUBICADO, P.O. 15 DE NOVIEMBRE DE 1999)
 
@@ -2140,3 +2240,21 @@ P.O. 15 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones vigentes que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 037 POR EL QUE SE REFORMAN LA FRACCIÓN X DEL ARTÍCULO 81 Y EL ARTÍCULO 83, Y SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 81, EL CAPÍTULO XI DENOMINADO "DE LA UNIDAD DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL PODER LEGISLATIVO" AL TÍTULO OCTAVO, QUE CONTENDRÁ LOS ARTÍCULOS 104 QUÁTER, 104 QUINQUIES Y 104 SEXIES; TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se dejan sin efecto el Acuerdo emitido por la H. X Legislatura, mediante el cual se crea la Unidad de Vinculación del Poder Legislativo, en cumplimiento a lo dispuesto por los artículos 96 y cuarto transitorio de la Ley de Transparencia y Acceso a la Información Pública del Estado, aprobado el 18 de enero de 2005 y publicado en el Periódico Oficial del Gobierno del Estado de fecha 28 de enero de 2005; y el Acuerdo General emitido por la H. X Legislatura, mediante el cual se establecen los criterios y procedimientos institucionales que utilizará la Unidad de Vinculación del Poder Legislativo del Estado, para proporcionar a los particulares el acceso a la información pública de este Poder, aprobado el 16 de febrero de 2005 y publicado en el Periódico Oficial del Gobierno del Estado el 28 de febrero de 2005.
+
+TERCERO. El Titular de la Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Poder Legislativo, deberá de ser nombrado en un término que no podrá excederse de 60 días naturales contados a partir de la entrada en vigor del presente decreto.
+
+CUARTO. El actual Titular de la Unidad de Vinculación del Poder Legislativo del Estado, quedará encargado del despacho de la Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Poder Legislativo, de conformidad a lo establecido en el presente Decreto, en tanto el Titular de la Unidad es nombrado.
+
+Los recursos administrativos con los que cuenta actualmente la Unidad de Vinculación del Poder Legislativo, se transfieren a la Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Poder Legislativo.
+
+QUINTO. Toda mención que se haga de la Unidad de Vinculación del Poder Legislativo en todas las demás disposiciones o documentos jurídicos existentes, se entenderá referida a la Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Poder Legislativo, que se crea mediante el presente decreto.
+
+SEXTO. En cumplimiento a lo ordenado por el artículo 54 fracción I de la Ley de Transparencia y Acceso a la Información Pública del Estado de Quintana Roo, comuníquese al Instituto de Acceso a la Información y Protección de Datos Personales de Quintana Roo, el presente decreto y el cambio de la denominación de Unidad de Vinculación del Poder Legislativo a Unidad de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Poder Legislativo.
