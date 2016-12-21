@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2016-07-14"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE TRANSITO DEL ESTADO DE TAMAULIPAS - ANTES LEY DE TRANSITO Y TRANSPORTE -
 
-LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
-
 > <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS, SE DEROGA LO REFERENTE A TRANSPORTE PÚBLICO, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2002.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
+LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -513,21 +513,21 @@ ARTICULO 49 BIS.- Sin demérito del ejercicio de las atribuciones reglamentarias
 
 I. Multa equivalente a:
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-a).- Desde dos días de salario mínimo vigente en la Capital del Estado, al menor de dieciocho años que conduzca vehículos de motor o motocicletas y no cuente con la licencia de manejo correspondiente, quien será remitido a la autoridad competente, la que deberá hacer del conocimiento de los padres o tutores, o de quienes ejerzan la patria potestad o tengan la custodia, de la infracción cometida y la sanción correspondiente;
+a).- Desde dos veces el valor diario de la Unidad de Medida y Actualización, al menor de dieciocho años que conduzca vehículos de motor o motocicletas y no cuente con la licencia de manejo correspondiente, quien será remitido a la autoridad competente, la que deberá hacer del conocimiento de los padres o tutores, o de quienes ejerzan la patria potestad o tengan la custodia, de la infracción cometida y la sanción correspondiente;
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b).- Desde un salario mínimo vigente en la Capital del Estado, a quien infrinja lo establecido en los artículos 19 Bis y 19 Ter, fracciones II y III, la cual no podrá ser condonada ni reducida;
+b).- Desde una vez el valor diario de la Unidad de Medida y Actualización, a quien infrinja lo establecido en los artículos 19 Bis y 19 Ter, fracciones II y III, la cual no podrá ser condonada ni reducida;
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-c).- Desde cincuenta días de salario mínimo vigente en la Capital del Estado, a quien infrinja lo establecido en el artículo 19 Ter, fracción I, incisos a), b) y c) la cual no podrá ser condonada ni reducida, igual multa a los menores de dieciocho años, que cuenten con licencia provisional e infrinjan lo establecido en este artículo, los que serán remitidos a la autoridad correspondiente quien deberá hacer del conocimiento de los padres o tutores, o de quienes ejerzan la patria potestad o la custodia, de la infracción cometida y la sanción correspondiente. Los padres serán responsables solidarios por el pago de la multa impuesta; y,
+c).- Desde cincuenta veces el valor diario de la Unidad de Medida y Actualización, a quien infrinja lo establecido en el artículo 19 Ter, fracción I, incisos a), b) y c) la cual no podrá ser condonada ni reducida, igual multa a los menores de dieciocho años, que cuenten con licencia provisional e infrinjan lo establecido en este artículo, los que serán remitidos a la autoridad correspondiente quien deberá hacer del conocimiento de los padres o tutores, o de quienes ejerzan la patria potestad o la custodia, de la infracción cometida y la sanción correspondiente. Los padres serán responsables solidarios por el pago de la multa impuesta; y,
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-d).- Desde diez días de salario mínimo vigente en la Capital del Estado, a quien se estacione en lugar exclusivo para discapacitados, sin acreditar fehacientemente que el conductor o alguno de sus ocupantes se encuentra en ese supuesto, sanción que no podrá ser condonada ni reducida.
+d).- Desde diez veces el valor diario de la Unidad de Medida y Actualización, a quien se estacione en lugar exclusivo para discapacitados, sin acreditar fehacientemente que el conductor o alguno de sus ocupantes se encuentra en ese supuesto, sanción que no podrá ser condonada ni reducida.
 
 II. Suspensión de licencia:
 
@@ -561,9 +561,9 @@ IV.- Arresto administrativo de 8 hasta por 16 horas, a quien infrinja lo estable
 
 V.- Trabajo a favor de la comunidad. Esta sanción se impondrá en jornadas máximas de 8 horas, sin afectar horarios de escuela o de labores, si se tratara de estudiantes o trabajadores, respectivamente.
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VI.- Detención del vehículo automotor y su remisión a las instituciones de resguardo que correspondan, de 24 hasta 72 horas y multa de hasta 2 días de salario, a quien infrinja lo establecido en el artículo 20 Bis de esta Ley, o sus relativos en el Reglamento estatal o municipal de que se trate.
+VI.- Detención del vehículo automotor y su remisión a las instituciones de resguardo que correspondan, de 24 hasta 72 horas y multa de hasta dos veces el valor diario de la Unidad de Medida y Actualización, a quien infrinja lo establecido en el artículo 20 Bis de esta Ley, o sus relativos en el Reglamento estatal o municipal de que se trate.
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -635,9 +635,7 @@ La presente Ley iniciará su vigencia treinta días después de su publicación 
 
 ###### ARTICULO SEGUNDO.
 
-Se abroga el Reglamento de Tránsito en el Estado de Tamaulipas, expedido por Decreto número 50, de fecha 22 de octubre de 1963, emitido por el Honorable Cuadragésimo Quinto Congreso Constitucional del Estado, publicado en el Periódico Oficial
-
-número 104, del 28 de diciembre de 1963.
+Se abroga el Reglamento de Tránsito en el Estado de Tamaulipas, expedido por Decreto número 50, de fecha 22 de octubre de 1963, emitido por el Honorable Cuadragésimo Quinto Congreso Constitucional del Estado, publicado en el Periódico Oficial número 104, del 28 de diciembre de 1963.
 
 ###### ARTICULO TERCERO.
 
@@ -768,3 +766,15 @@ P.O. 14 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
