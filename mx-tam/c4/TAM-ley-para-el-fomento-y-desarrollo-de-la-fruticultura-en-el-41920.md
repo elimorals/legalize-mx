@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-fomento-y-desarrollo-de-la-fruticultura-en-el-41920
 country: "mx"
 rank: "ley"
 publication_date: "2004-10-27"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL FOMENTO Y DESARROLLO DE LA FRUTICULTURA EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 27 de octubre de 2004.
 
@@ -411,11 +411,17 @@ j) Las demás que expresamente se consignen en la presente Ley o las que se deri
 
 4. Las infracciones previstas en el párrafo anterior, se sancionarán como sigue:
 
-a) Con multa equivalente de 20 a 100 veces el salario mínimo vigente en la Capital del Estado, en los casos previstos en los incisos a), b) y c);
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Con multa equivalente de 50 a 200 veces el salario mínimo vigente en la Capital del Estado, en los casos previstos en los incisos d), e), f) y g); y
+a) Con multa equivalente de veinte a cien veces el valor diario de la Unidad de Medida y Actualización, en los casos previstos en los incisos a), b) y c);
 
-c) Con multa equivalente de 200 a 500 veces el salario mínimo vigente en la Capital del Estado, en los casos previstos en los incisos h) e i).
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa equivalente de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización, en los casos previstos en los incisos d), e), f) y g); y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c) Con multa equivalente de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización, en los casos previstos en los incisos h) e i).
 
 ###### ARTICULO 28.
 
@@ -496,3 +502,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
