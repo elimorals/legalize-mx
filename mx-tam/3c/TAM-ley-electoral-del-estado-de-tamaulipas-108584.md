@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2015-11-09"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -2687,7 +2687,9 @@ No se considerarán dentro de los topes de campaña, los gastos que realicen los
 
 Los gastos que para cada campaña realicen los partidos políticos, coaliciones y candidatos en propaganda electoral y actividades, no podrán rebasar los topes que calcule el Consejo General.
 
-El tope de gastos de campaña será equivalente al monto que resulte de multiplicar el 55 % del salario mínimo diario general vigente en la capital del Estado, por el número de electores que estén inscritos en el padrón electoral correspondiente al territorio de la elección que corresponda.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+El tope de gastos de campaña será equivalente al monto que resulte de multiplicar el 55 % del valor diario de la Unidad de Medida y Actualización, por el número de electores que estén inscritos en el padrón electoral correspondiente al territorio de la elección que corresponda.
 
 ###### Artículo 244.
 
@@ -3363,7 +3365,9 @@ a) Con apercibimiento;
 
 b) Con amonestación pública;
 
-c) Con multa de hasta cinco mil días de salario mínimo general vigente para la capital del Estado, según la gravedad de la falta;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta;
 
 d) Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público ordinario que les corresponda, por el periodo que señale la resolución;
 
@@ -3377,7 +3381,9 @@ a) Con apercibimiento;
 
 b) Con amonestación pública;
 
-c) Con multa de hasta cinco mil días de salario mínimo general vigente para la Capital del Estado; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c) Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización; y
 
 d) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político o coalición de que se trate, pudiendo éste sustituir, en su caso, al candidato;
 
@@ -3387,7 +3393,9 @@ a) Con apercibimiento;
 
 b) Con amonestación pública;
 
-c) Con multa de 500 a 5 mil días de salario mínimo diario general vigente en la capital del estado; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c) Con multa de quinientas a cinco mil veces el valor diario de la Unidad de Medida y Actualización; y
 
 d) Con la pérdida del derecho del aspirante infractor a ser registrado como candidato independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo, cuando realice actos anticipados de campaña o rebase los topes de gastos que determine el Consejo General para recabar el apoyo ciudadano.
 
@@ -3397,7 +3405,9 @@ a) Con apercibimiento;
 
 b) Con amonestación pública; y
 
-c) Respecto de los ciudadanos, o de los dirigentes y afiliados de los partidos políticos o los dirigentes de las coaliciones: con multa de hasta quinientos días de salario mínimo general vigente para la capital del Estado;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c) Respecto de los ciudadanos, o de los dirigentes y afiliados de los partidos políticos o los dirigentes de las coaliciones: con multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 V. Respecto de observadores electorales u organizaciones de observadores electorales:
 
@@ -3407,7 +3417,9 @@ b) Con amonestación pública;
 
 c) Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales; y
 
-d) Con multa de hasta doscientos días de salario mínimo general vigente para la capital del Estado, tratándose de las organizaciones a las que pertenezcan los observadores electorales;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+d) Con multa de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización, tratándose de las organizaciones a las que pertenezcan los observadores electorales;
 
 VI. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
 
@@ -3415,7 +3427,9 @@ a) Con apercibimiento;
 
 b) Con amonestación pública;
 
-c) Con multa de hasta tres mil días de salario mínimo general vigente para la capital del Estado, según la gravedad de la falta; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c) Con multa de hasta tres mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta; y
 
 d) Con la cancelación del procedimiento tendente a obtener el registro como partido político local;
 
@@ -3425,7 +3439,9 @@ a) Con apercibimiento;
 
 b) Con amonestación pública; y
 
-c) Con multa de hasta tres mil días de salario mínimo general vigente para la capital del Estado, según la gravedad de la falta.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c) Con multa de hasta tres mil veces el valor diario de la Unidad de Medida y Actualización;
 
 VIII. Cuando el IETAM conozca del incumplimiento por parte de los notarios públicos a las obligaciones que la presente Ley les impone, la Secretaría Ejecutiva integrará un expediente que se remitirá a la autoridad competente, para que proceda en los términos de la legislación aplicable. En todo caso, la autoridad competente ordenará las medidas cautelares a fin de que la conducta infractora cese de inmediato;
 
@@ -3445,7 +3461,9 @@ e) Sanción económica; o
 
 f) Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años, si el monto de aquellos no excede de cien veces el salario mínimo mensual vigente en la capital del Estado, y de tres años a diez años si excede de dicho límite.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de seis meses a tres años, si el monto de aquellos no excede de cien veces el valor mensual de la Unidad de Medida y Actualización, y de tres años a diez años si excede de dicho límite.
 
 ###### Artículo 311.
 
@@ -3871,10 +3889,22 @@ Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Ta
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 9 DE NOVIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO].
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
