@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2015-08-19"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -88,6 +88,10 @@ V. (DEROGADA, G.G. 18 DE MARZO DE 2011)
 VI. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México;
 
 VII. Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+VII Bis. Mecanismo: Al mecanismo interinstitucional de seguimiento de las medidas de seguridad, prevención y justicia, para atender y erradicar la violencia contra las niñas, adolescentes y mujeres en el Estado de México.
 
 VIII. Programa Nacional: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, a nivel Nacional;
 
@@ -453,11 +457,11 @@ El Gobierno del Estado, a través de la Secretaría de Salud, deberá desarrolla
 
 > <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2015)</small>
 
-### CAPÍTULO II
+### CAPÍTULO I BIS
 
-DEL PROGRAMA INTEGRAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 28.
 
@@ -497,7 +501,7 @@ V. Las demás establecidas en otras disposiciones legales.
 
 Son órdenes de protección preventivas las siguientes:
 
-I. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
+l. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
 
 II. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
 
@@ -535,23 +539,31 @@ I. El riesgo o peligro existente; y
 
 II. La seguridad de la víctima.
 
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+## TITULO CUARTO
+
+DE LAS POLÍTICAS DE GOBIERNO, DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES, ASÍ COMO DEL MECANISMO DE SEGUIMIENTO DE LAS MEDIDAS DE SEGURIDAD, PREVENCIÓN Y JUSTICIA PARA ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS NIÑAS, ADOLESCENTES Y MUJERES.
+
 > <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
-## TÍTULO CUARTO
+### CAPÍTULO I TER
 
-DE LAS POLÍTICAS DE GOBIERNO Y DEL SISTEMA ESTATAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+DEL MECANISMO DE SEGUIMIENTO DE LAS MEDIDAS DE SEGURIDAD, PREVENCIÓN Y JUSTICIA PARA ATENDER Y ERRADICAR LA VIOLENCIA CONTRA LAS NIÑAS, ADOLESCENTES Y MUJERES.
 
-> <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
-
-### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 33.
 
 Las políticas de Gobierno que las dependencias y organismos auxiliares del Estado de México deben diseñar, ejecutar y evaluar para la erradicación de la violencia contra las niñas, adolescentes y mujeres, promoviendo la cultura de respeto y equidad de género hacia ellas, serán el conjunto de orientaciones y directrices dictadas en sus diversas competencias, a fin de guiar las acciones dirigidas a asegurar los principios y derechos consagrados en la Ley, con la finalidad de abatir las desigualdades entre las mujeres y los hombres, e impulsar los derechos humanos de las mujeres y las niñas y su desarrollo pleno, teniendo carácter obligatorio.
 
-> <small>(REFORMADO, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO II. DE LA COMPETENCIA DEL PODER JUDICIAL
+### CAPÍTULO II
+
+DEL PROGRAMA INTEGRAL PARA LA IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES Y PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
 
 ###### Artículo 34.
 
@@ -617,11 +629,45 @@ V. Las acciones conjuntas para la protección de las mujeres víctimas de violen
 
 VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
+
+###### Artículo 36 Bis.
+
+En caso de existir la presencia de un hecho que atente, vulnere o menoscabe la seguridad, integridad o derechos de las niñas, adolescentes y mujeres, o que se haya emitido la Declaratoria de Alerta de Violencia de Género contra las Mujeres, el Estado deberá implementar acciones de emergencia destinadas a prevenir, atender, sancionar y erradicar la violencia, para lo cual se establecerá de manera conjunta e inmediata un mecanismo de carácter interinstitucional entre los tres poderes del Estado, a través de las diversas dependencias y organismos del Ejecutivo Estatal, así como de los organismos de carácter autónomo y de los municipios que integren dicha declaratoria, en términos de las disposiciones o protocolos que para tal efecto se emitan.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 36 Ter.
+
+El mecanismo tendrá por objeto dirigir y verificar el debido seguimiento para que las dependencias y organismos de los tres poderes del Estado, los organismos autónomos y las instancias municipales que lo conformen, realicen acciones de seguridad, prevención y justicia, de acuerdo al ámbito de su respectiva competencia, así como aquellas que marca el título quinto de este ordenamiento legal. Si dicho mecanismo se instaura como consecuencia de una Declaratoria de Alerta de Violencia de Género contra las Mujeres, se deberá atender a lo dispuesto por la misma.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 36 Quáter.
+
+Para la conformación del mecanismo, la o el titular del Poder Ejecutivo, por conducto de la o el Secretario General de Gobierno, convocará a las y los titulares de los tres poderes del Estado, a las dependencias y organismos del Ejecutivo Estatal, a los organismos autónomos, así como a las y los presidentes municipales que correspondan, a fin de implementar el mecanismo de seguimiento de las medidas de seguridad, prevención y justicia, para atender y erradicar la violencia contra las niñas, adolescentes y mujeres, mismos que se reunirán de manera semanal, con la finalidad de verificar los avances y el cumplimiento con el que se cuenta por parte de cada una de las áreas responsables.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 36 Quinquies.
+
+El mecanismo será coordinado por la o el titular de la Consejería Jurídica, quien además fungirá como representante del Gobierno del Estado de México ante las instancias nacionales que así lo requieran, cuando se traten asuntos relacionados con los objetivos del mecanismo.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 36 Sexies.
+
+Las dependencias y organismos de los tres poderes, los organismos autónomos, así como los municipios que sean convocados a integrar las mesas de trabajo del mecanismo, deberán designar a una servidora o servidor público que tendrá el carácter de enlace, quien dará seguimiento a todas las acciones derivadas de la instalación del mecanismo, con independencia del motivo que originó su instalación, lo anterior siempre y cuando las o los titulares de los mismos no estén en posibilidades de acudir a las sesiones semanales.
+
+Para el caso de los municipios, será el enlace designado, el que acuda en representación de la o el presidente municipal, quien únicamente acudirá una vez al mes, previa convocatoria.
+
+La implementación del mecanismo culminará hasta que la o el titular del Poder Ejecutivo Estatal lo decrete, o bien, cuando la Secretaría de Gobernación lo notifique a la Entidad.
+
 > <small>(REFORMADO EN SU DENOMINACIÓN, G.G. 18 DE MARZO DE 2011)</small>
 
-### CAPÍTULO III. DE LA COMPETENCIA DE LOS MUNICIPIOS
-
-### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO II. DE LA COMPETENCIA DEL PODER JUDICIAL
 
 ###### Artículo 37.
 
@@ -657,11 +703,13 @@ XIII. Diseñar un Modelo integral de atención a los Derechos Humanos y la ciuda
 
 El Ejecutivo Estatal propondrá en el Presupuesto de Egresos del Estado, asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente Ley.
 
-## TÍTULO QUINTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES Y LAS NIÑAS
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
+## TÍTULO QUINTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
+DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS NIÑAS, ADOLESCENTES Y MUJERES.
+
+### CAPÍTULO III. DE LA COMPETENCIA DE LOS MUNICIPIOS
 
 ###### Artículo 39.
 
@@ -1105,6 +1153,8 @@ XXVIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2014)</small>
 
+### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
+
 ###### Artículo 52.
 
 Corresponde a la Secretaría de Seguridad Ciudadana:
@@ -1129,6 +1179,10 @@ IX. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 X. Las demás previstas para el cumplimiento de la presente Ley.
 
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS DE VIOLENCIA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 18 DE MARZO DE 2011)</small>
+
 ###### Artículo 53.
 
 Corresponde al Poder Judicial:
@@ -1151,15 +1205,17 @@ V. Las demás que le confiera esta Ley u otros ordenamientos aplicables.
 
 Corresponde a los municipios, en materia de prevención, atención, sanción y erradicación de la violencia de género:
 
-> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-I. Coordinar medidas y acciones con el Gobierno Estatal en la integración y funcionamiento del Sistema Municipal;
+I. Coordinar medidas y acciones con el Gobierno Estatal en la integración y funcionamiento del Sistema Municipal, así como con el mecanismo.
 
 II. Instrumentar y articular, en concordancia con la política Estatal, la política Municipal orientada a erradicar la violencia contra las mujeres y las niñas;
 
 III. Garantizar la formación, especialización y actualización constante de las personas que integran la corporación policíaca para el cumplimiento eficiente de sus responsabilidades;
 
-IV. Garantizar que la corporación policíaca actúe con diligencia en la ejecución de las Órdenes de Protección de Emergencia y de Prevención;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+IV. Garantizar que la corporación policiaca actúe con diligencia en la ejecución de las Órdenes de Protección de Emergencia y de Prevención, así como el estricto cumplimiento en la ejecución de los Protocolos de Actuación Policial.
 
 V. (DEROGADA, G.G. 18 DE MARZO DE 2011)
 
@@ -1181,7 +1237,21 @@ XII. Realizar, de acuerdo con el Sistema Estatal, programas de información a la
 
 XIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
 
-XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XIV. Conformar y garantizar la especialización y actualización constante de células de reacción inmediata, así como de células para la búsqueda y localización de niñas, adolescentes y mujeres desaparecidas dentro de su territorio de conformidad con los protocolos que al efecto se emitan.
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XV. Establecer programas de capacitación dirigidos a las y los servidores públicos municipales en materia de prevención, atención, sanción y erradicación de la violencia de género, así como en temas de igualdad, equidad y perspectiva de género.
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XVI. Crear, operar y mantener actualizada una página web de acceso público, donde se brinde información sobre los servicios que se ofrecen por parte del municipio en materia de violencia de género y atención a víctimas.
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XVII. Las demás previstas en esta Ley y en otras disposiciones legales aplicables.
 
 ## TÍTULO SEXTO. DE LA ATENCIÓN A VÍCTIMAS Y DE LOS REFUGIOS
 
@@ -1296,6 +1366,34 @@ En ningún caso se podrá mantener a las víctimas en los refugios en contra de 
 ###### Artículo 64.
 
 Los Gobiernos Estatal y Municipales, con la participación que corresponda de los sectores social, civil y/o a través de la junta de Asistencia Privada promoverán el establecimiento de mecanismos para proveer de los apoyos necesarios para que los refugios cumplan con su objeto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO SÉPTIMO. DE LOS ÓRGANOS DE CONTROL
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 65.
+
+Es competencia del Órgano Superior de Fiscalización del Estado de México, fiscalizar, auditar, revisar, substanciar, resolver y sancionar las cuentas y actos relativos a la aplicación de los fondos públicos del Estado y de los Municipios, en cumplimiento del mecanismo de seguimiento de las medidas de seguridad, prevención y justicia para prevenir y erradicar la violencia contra las niñas, adolescentes y mujeres.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 66.
+
+Corresponde a la Secretaría de la Contraloría del Gobierno del Estado de México, a las contralorías de los poderes legislativo y judicial, así como a las contralorías de las dependencias de la administración pública estatal y municipal, en el marco del cumplimiento del mecanismo, el llevar a cabo el control y evaluación sobre las acciones que realizan tanto sus respectivas dependencias, como los organismos auxiliares de la administración pública estatal, de igual manera la vigilancia de la actuación de las y los servidores públicos que la integran, para que ésta se realice conforme a la normatividad vigente, sancionando, en su caso, a todos aquéllos que la incumplan en el desempeño de sus funciones.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 67.
+
+Es competencia de la Inspección General de las Instituciones de Seguridad Pública del Estado de México, la planeación y ejecución de procedimientos de inspección, vigilancia y técnicas de verificación, para comprobar el cumplimiento de las obligaciones de las y los servidores públicos en torno al mecanismo, así como la estricta observancia en la ejecución de los protocolos de actuación policial.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 68.
+
+Los órganos de control, en función de sus atribuciones, impondrán las sanciones a las y los servidores públicos de las dependencias y órganos auxiliares de la administración pública estatal y municipal, por el incumplimiento de las disposiciones contenidas en la presente ley.
 
 T R A N S I T O R I O S
 
@@ -1440,3 +1538,15 @@ G.G. 19 DE AGOSTO DE 2015.
 PRIMERO. Publíquese el Presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+G.G. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 181.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado contará con un plazo no mayor de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a las disposiciones reglamentarias.
+
+CUARTO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
