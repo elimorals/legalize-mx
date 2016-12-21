@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2015-12-04"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -1639,7 +1639,9 @@ Cuando el asalto se cometa contra un poblado se les penará con prisión de seis
 
 ## TITULO SEXTO. DELITO CONTRA LA INVIOLABILIDAD DEL DOMICILIO
 
-### CAPITULO II. ABUSOS DESHONESTOS
+### CAPITULO II. ABUSO SEXUAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 158.
 
@@ -1739,27 +1741,49 @@ Cuando la violación sea cometida por dos o más personas se impondrá prisión 
 
 Si entre el activo y el pasivo de la violación existiera un vínculo matrimonial o de concubinato, el delito se perseguirá por querella.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ### CAPITULO II. CALUMNIA
 
 ###### ARTICULO 165.
 
-Al que sin el consentimiento de una persona y sin el propósito de llegar a la cópula ejecute en ella un acto erótico sexual o la obligue a ejecutarlo, se le impondrá prisión de 3 meses a 3 años.
+Al que sin el consentimiento de una persona y sin el propósito de llegar a la cópula ejecute en ella un acto sexual o la obligue a ejecutarlo, se le impondrá prisión de 2 a 3 años.
 
-Si mediare la violencia, se aumentará hasta una mitad más la pena de prisión señalada en el párrafo anterior.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Si el delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano o hermana contra su colateral, el tutor con su pupilo o por cualquier persona que habite en el mismo domicilio que la víctima, la pena prevista se aumentará en una mitad más. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima, sin perjuicio del concurso de delitos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2011)</small>
+###### ARTICULO 166.
 
-###### Artículo 166.
+Al que sin el propósito de llegar a la cópula, ejecute un acto sexual en persona menor de doce años de edad o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo o la obligue a ejecutarlos, se le impondrá prisión de 4 a 7 años.
 
-Al que sin el propósito de llegar a la cópula, ejecute un acto erótico sexual en persona menor de doce años de edad o que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo o la obligue a ejecutarlos, se le impondrá prisión de 2 a 7 años.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 29 DE FEBRERO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-La pena se aumentará en una mitad más cuando se empleare violencia o si el delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano o hermana contra su colateral, el tutor con su pupilo o por cualquier persona que habite en el mismo domicilio que la víctima. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima, sin perjuicio del concurso de delitos.
+ARTICULO 166 BIS.- Se podrán aumentar hasta en dos terceras partes de las penas previstas en los artículos 165 y 166, cuando el delito se cometa:
+
+I. Con intervención directa o inmediata de dos o más personas;
+
+II. Cuando se emplearé violencia física o moral;
+
+III. Por un ascendiente contra su descendiente, o éste contra aquél;
+
+IV. Por el hermano o hermana contra su colateral, o por cualquiera cuando el lazo que los une es por consanguinidad, hasta el cuarto grado;
+
+V. Por el padrastro o la madrastra contra su hijastro, o por éste contra cualquiera de ellos;
+
+VI. Por el tutor con su pupilo;
+
+VII. Por cualquier persona que habite en el mismo domicilio de la víctima;
+
+VIII. Cuando el sujeto activo tenga contacto con la víctima por motivos laborales, docentes, médicos, domésticos, religiosos o cualquier otro que implique confianza, subordinación o superioridad; o
+
+IX. Cuando el sujeto activo aproveche la confianza depositada en ella por la víctima por motivos de afectividad, amistad o gratitud.
+
+Además del aumento de la pena, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima, así como de los derechos sucesorios con respecto del ofendido en los casos procedentes, sin perjuicio del concurso de delitos.
 
 ### CAPITULO III. DISPOSICIONES COMUNES
 
@@ -1781,9 +1805,9 @@ Este delito se perseguirá por querella de la persona ofendida o de quienes ejer
 
 Los delitos previstos en este Título, con excepción de la violación, y tomando en cuenta lo señalado en el Artículo 164 de este Código, serán perseguidos por querella.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Se procederá de oficio a la persecución de los delitos previstos en este Título, cuando las víctimas sean personas menores de edad o que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo, con excepción del delito de estupro.
+Se procederá de oficio a la persecución de los delitos previstos en este Título, cuando concurra violencia, o las víctimas sean personas menores de edad, o que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo, con excepción del delito de estupro.
 
 ###### ARTICULO 169.
 
@@ -4262,3 +4286,11 @@ LEY POR LA QUE SE REFORMAN LAS FRACCIONES I, II Y III DEL ARTÍCULO 189; LOS PÁ
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
