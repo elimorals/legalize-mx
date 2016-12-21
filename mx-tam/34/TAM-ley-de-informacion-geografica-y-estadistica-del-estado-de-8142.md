@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-informacion-geografica-y-estadistica-del-estado-de-8142"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-13"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8142&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INFORMACION GEOGRAFICA Y ESTADISTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 13 de abril de 1994.
 
@@ -495,9 +495,11 @@ III.- Cometan actos o incurran en omisiones que impidan el desarrollo normal de 
 
 IV.- Para los efectos de este Artículo, serán considerados como recolectores o encuestadores, las personas a las que la Secretaría encomiende labores propias de recolección y recopilación de información geográfica y estadística en forma periódica, y como auxiliares, quienes desempeñen cualquier otra actividad relacionada con el proceso de la obtención de datos de carácter geográfico y estadístico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 50.
 
-La comisión de cualquiera de las infracciones a que se refieren los artículos 47, 48 y 49 dará lugar a que la Secretaría aplique sanciones administrativas, que consistirán en multas desde una hasta setecientas cincuenta veces el salario mínimo diario vigente en el Estado le (sic) Tamaulipas, en el momento de la comisión de la infracción.
+La comisión de cualquiera de las infracciones a que se refieren los artículos 47, 48 y 49 dará lugar a que la Secretaría aplique sanciones administrativas, que consistirán en multas desde una hasta setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, en el momento de la comisión de la infracción.
 
 En la imposición de estas sanciones, la Secretaría tomará en cuenta la importancia de la infracción, las condiciones del infractor y la inconveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta Ley.
 
@@ -564,3 +566,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
