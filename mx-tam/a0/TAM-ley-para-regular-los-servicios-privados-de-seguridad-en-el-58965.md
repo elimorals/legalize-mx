@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-regular-los-servicios-privados-de-seguridad-en-el-5896
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-08"
-last_updated: "2010-12-16"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA REGULAR LOS SERVICIOS PRIVADOS DE SEGURIDAD EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 8 de noviembre de 2007.
 
@@ -135,7 +135,9 @@ f) Cualquier otra actividad relacionada directamente con los servicios privados 
 
 1. Ninguna persona física o moral podrá prestar servicios privados de seguridad, si no cuenta con la autorización y registro de la Secretaría y la anuencia del municipio de que se trate, ya sea provisional o definitiva.
 
-2. En caso de que una persona física o moral preste servicios privados de seguridad, sin contar con la autorización debida, se procederá a la imposición de una multa hasta por el equivalente a cinco mil veces el salario mínimo general vigente en la capital del Estado y la clausura del establecimiento, debiéndose seguir las reglas, procedimientos y formalidades establecidas en los Capítulos Séptimo, Noveno, Décimo y Undécimo de esta ley, sin demérito de las responsabilidades penales en que hubiere incurrido.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2. En caso de que una persona física o moral preste servicios privados de seguridad, sin contar con la autorización debida, se procederá a la imposición de una multa hasta por el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización y la clausura del establecimiento, debiéndose seguir las reglas, procedimientos y formalidades establecidas en los Capítulos Séptimo, Noveno, Décimo y Undécimo de esta ley, sin demérito de las responsabilidades penales en que hubiere incurrido.
 
 ###### ARTÍCULO 7.
 
@@ -233,7 +235,9 @@ p) Referir el nombre del jefe o jefes de operación de la empresa, así como sus
 
 q) Presentar el programa de capacitación y adiestramiento que aplicará a su personal operativo, en el cual señale las materias a impartir, duración de los cursos, calendario anual de capacitación y, en su caso, el nombre de la institución responsable de su impartición. Asimismo, el que se aplicará al jefe o jefes de operación de la empresa cumpliendo con iguales condiciones;
 
-r) Contratar una fianza por el equivalente a 5000 (cinco mil) días de salario mínimo vigente en la capital del Estado para responder de los eventuales incumplimientos en que incurran con los particulares que contraten sus servicios; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+r) Contratar una fianza por el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización para responder de los eventuales incumplimientos en que incurran con los particulares que contraten sus servicios; y
 
 s) Los demás que se señalen en la Ley de Seguridad.
 
@@ -737,7 +741,9 @@ g) Los demás que se desprendan de esta ley y no tengan señalada una sanción e
 
 ###### ARTÍCULO 56.
 
-La Secretaría sancionará a los prestadores de servicios privados de seguridad con multa de hasta cinco mil veces el salario mínimo general vigente en la capital del Estado, en los casos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría sancionará a los prestadores de servicios privados de seguridad con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, en los casos siguientes:
 
 a) Reincida en cualquiera de los casos señalados en el artículo anterior;
 
@@ -777,7 +783,9 @@ d) Cuando incumpla lo dispuesto en el articulo 45 párrafo 1 inciso a) y g), de 
 
 e) Cuando incumpla las disposiciones de la Ley de Coordinación.
 
-2. En los casos a que se refieren los incisos b), c) y d) del párrafo 1 de este artículo, además de la cancelación del registro se impondrá al infractor multa hasta por el equivalente a cinco mil veces el salario mínimo general vigente en la capital del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2. En los casos a que se refieren los incisos b), c) y d) del párrafo 1 de este artículo, además de la cancelación del registro se impondrá al infractor multa hasta por el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización.
 
 3. La Secretaría además de notificar la cancelación del registro a las autoridades señaladas en el artículo 58 de esta ley, notificará lo conducente a la Secretaría de Finanzas del Estado para los efectos correspondientes.
 
@@ -1127,7 +1135,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNÁNDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTÍNEZ TORRES.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 16 DE DICIEMBRE DE 2010.
 
@@ -1138,3 +1146,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 El cumplimiento de la obligación de efectuar el registro de personal, bienes y armamento, así como las previsiones referentes a evaluación y control de confianza se desarrollarán en los plazos y términos que disponga el Consejo Estatal de Seguridad Pública.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
