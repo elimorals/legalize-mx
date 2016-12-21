@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-registro-y-acreditacion-de-los-agentes-y-115656"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2016-07-14"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL REGISTRO Y ACREDITACIÓN DE LOS AGENTES Y PROFESIONALES INMOBILIARIOS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 14 de julio de 2016.
 
@@ -417,7 +417,9 @@ I. Amonestación;
 
 II. Apercibimiento;
 
-III. Multa de cien hasta mil veces el salario mínimo diario general vigente;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III. Multa de cien hasta mil veces el valor diario de la Unidad de Medida y Actualización;
 
 IV. Suspensión temporal de la licencia Inmobiliaria respectiva e inscripción en el Registro en su caso, hasta por un año; o
 
@@ -425,9 +427,11 @@ V. Cancelación definitiva de la licencia inmobiliaria.
 
 Las sanciones previstas en este artículo serán aplicables independientemente de la responsabilidad penal, civil y/o mercantil a que haya lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 37.
 
-Se impondrá multa de 100 hasta 1000 días de salario mínimo vigente en el Estado a toda persona física o moral que se ostente como Agente o Profesional Inmobiliario y que realice operaciones inmobiliarias sin contar con licencia oficial expedida por la Secretaría, previo análisis particular y teniendo en cuenta las circunstancias contenidas en el artículo 36 de esta ley, de incurrir por segunda ocasión en el supuesto a que se refiere el párrafo anterior, se iniciará acción legal.
+Se impondrá multa de cien hasta mil veces el valor diario de la Unidad de Medida y Actualización a toda persona física o moral que se ostente como Agente o Profesional Inmobiliario y que realice operaciones inmobiliarias sin contar con licencia oficial expedida por la Secretaría, previo análisis particular y teniendo en cuenta las circunstancias contenidas en el artículo 36 de esta ley, de incurrir por segunda ocasión en el supuesto a que se refiere el párrafo anterior, se iniciará acción legal.
 
 La Secretaría revocará licencia a todo agente que retenga información o cantidad de dinero de las partes o utilice con otros fines los fondos que reciba con carácter administrativo, en depósito, garantía, provisión de gastos o valores en custodia. La misma disposición aplicará, previa notificación de la Secretaría, para los Agentes y Profesionales Inmobiliarios que durante la vigencia de su registro hubieran sido condenados por delito de carácter patrimonial.
 
@@ -624,3 +628,17 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintitrés días del mes de junio del año dos mil dieciséis.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- RÚBRICA.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
