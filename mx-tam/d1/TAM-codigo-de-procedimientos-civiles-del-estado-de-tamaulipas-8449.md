@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-procedimientos-civiles-del-estado-de-tamaulipas-8449"
 country: "mx"
 rank: "codigo"
 publication_date: "1961-10-04"
-last_updated: "2015-07-14"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el 4 de octubre de 1961.
 
@@ -55,11 +55,11 @@ Los actos procesales que en forma expresa y limitativa cita este Código como nu
 
 La tramitación de los negocios judiciales no podrá alterarse o entorpecerse por disposiciones fiscales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 4.
 
-La Iniciativa del proceso queda reservada a las partes; el magistrado o juez podrá dictar de oficio los acuerdos que estime pertinentes para evitar la demora o paralización, y acelerar su trámite, viendo siempre a la consecución de la economía procesal y a una efectiva Administración de justicia rápida y expedita; pero los autos y sentencias no podrán ejecutarse sino hasta que transcurran los términos para interponer los recursos ordinarios que este Código establece. Al Juez que infrinja esta disposición se impondrá multa hasta por treinta días de salario mínimo sin perjuicio de responder a la parte perjudicada por los daños y perjuicios que con ello se le causen. En consecuencia, los Tribunales tienen, sin perjuicio de lo dispuesto, y de las facultades especiales que la Ley les concede, las siguientes:
+La Iniciativa del proceso queda reservada a las partes; el magistrado o juez podrá dictar de oficio los acuerdos que estime pertinentes para evitar la demora o paralización, y acelerar su trámite, viendo siempre a la consecución de la economía procesal y a una efectiva Administración de justicia rápida y expedita; pero los autos y sentencias no podrán ejecutarse sino hasta que transcurran los términos para interponer los recursos ordinarios que este Código establece. Al juez que infrinja esta disposición se impondrá multa hasta por treinta veces el valor diario de la Unidad de Medida y Actualización sin perjuicio de responder a la parte perjudicada por los daños y perjuicios que con ello se le causen. En consecuencia, los Tribunales tienen, sin perjuicio de lo dispuesto, y de las facultades especiales que la Ley les concede, las siguientes:
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
 
@@ -169,7 +169,9 @@ I.- El apercibimiento, consistente en la prevención verbal o escrita, que se ha
 
 II.- La amonestación, consistente en la reprensión verbal o escrita, que se haga al infractor por la falta cometida;
 
-III.- La multa hasta por ciento veinte días de salario mínimo, vigente en la capital del Estado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III.- La multa hasta por ciento veinte veces el valor diario de la Unidad de Medida y Actualización;
 
 IV.- Desalojo del recinto judicial con auxilio de la fuerza pública; y
 
@@ -187,9 +189,9 @@ Dentro de los tres días de haberse hecho saber la corrección disciplinaria a l
 
 Los tribunales para hacer cumplir sus determinaciones, pueden emplear a discreción, los siguientes medios de apremio:
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-I.- Multa que no exceda del equivalente al importe de sesenta días de salario mínimo vigente en la Capital del Estado;
+I.- Multa que no exceda del equivalente al importe de sesenta veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -313,9 +315,9 @@ El titular del órgano jurisdiccional tendrá la facultad de solicitar a las par
 
 El juzgado, por conducto del secretario o el titular de la oficialía de partes, en los lugares donde éstas existan, hará constar en cada promoción original el día y la hora en que se presenta y razón de los documentos que con la misma se anexan. A su vez, el secretario dará cuenta al superior, con las promociones que reciba, por escrito o electrónicamente dentro de las veinticuatro horas siguientes. En el caso de las recibidas de forma electrónica, deberá imprimirlas para que, una vez acordadas, sean agregadas al expediente físico.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-La infracción a lo dispuesto en este Artículo se sancionará con multa hasta por treinta días de salario mínimo, sin perjuicio de la pena que corresponda si la omisión constituyera delito.
+La infracción a lo dispuesto en este Artículo se sancionará con multa hasta por treinta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de la pena que corresponda si la omisión constituyera delito.
 
 > <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
 
@@ -365,7 +367,9 @@ Los magistrados, sin embargo, podrán encomendar a los jueces de primera instanc
 
 Todas las diligencias que hayan de practicarse por el actuario o por cualquier funcionario judicial fuera de la oficina se ejecutarán de oficio, con excepción del emplazamiento a juicio a la parte demandada y las que impliquen ejecución, las que necesariamente serán agendadas a instancia del interesado.
 
-Se hará acreedor a una multa de hasta sesenta días de salario mínimo, quien habiendo solicitado la notificación de un auto, que por su naturaleza requiera su intervención al momento de la diligencia, no concurra en la fecha y hora programada, hecho que será asentado por el funcionario judicial respectivo con vista a quien ordenó la notificación.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Se hará acreedor a una multa de hasta sesenta veces el valor diario de la Unidad de Medida y Actualización, quien habiendo solicitado la notificación de un auto, que por su naturaleza requiera su intervención al momento de la diligencia, no concurra en la fecha y hora programada, hecho que será asentado por el funcionario judicial respectivo con vista a quien ordenó la notificación.
 
 ###### ARTICULO 30.
 
@@ -383,11 +387,11 @@ Por ningún motivo se entregarán los autos a las partes, sus representantes o a
 
 El examen de expedientes, ya sea para tomar apuntes o para cualquier otro objeto propio de la actividad lícita de los interesados, será bajo la presencia del secretario.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 34.
 
-Los Tribunales no admitirán recursos ni promociones frívolas o improcedentes, debiendo desecharlos de plano sin necesidad de mandarlos hacer saber a la otra parte, ni dar traslado ni formar artículo y, al efecto, impondrán a los promoventes una multa hasta por treinta días de salario mínimo, de la que serán responsables solidariamente la parte y su abogado. La petición rechazada se agregará a los autos.
+Los Tribunales no admitirán recursos ni promociones frívolas o improcedentes, debiendo desecharlos de plano sin necesidad de mandarlos hacer saber a la otra parte, ni dar traslado ni formar artículo y, al efecto, impondrán a los promoventes una multa hasta por treinta veces el valor diario de la Unidad de Medida y Actualización, de la que serán responsables solidariamente la parte y su abogado. La petición rechazada se agregará a los autos.
 
 ###### ARTICULO 35.
 
@@ -411,11 +415,11 @@ Cuando en las disposiciones de este Código se haga referencia al juez confirié
 
 Por ningún concepto se facilitarán los expedientes, ni proporcionarán informes de los asuntos que en los mismos se tramitan a quienes no tengan reconocida en autos su personalidad.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 39.
 
-Se impondrá multa hasta por el equivalente a treinta días de salario al Servidor Público que infrinja la disposición anterior.
+Se impondrá multa hasta por el equivalente a treinta veces el valor diario de la Unidad de Medida y Actualización al Servidor Público que infrinja la disposición anterior.
 
 ### CAPITULO II. LAS PARTES
 
@@ -881,11 +885,11 @@ Desde que se pida la acumulación, quedará en suspenso la substanciación de lo
 
 Es válido lo actuado por los jueces competentes antes de la acumulación; lo que practiquen después de pedida ésta, salvo las diligencias exceptuadas en el artículo anterior será nulo de pleno derecho y causa de responsabilidad.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 91.
 
-Si el Supremo Tribunal de Justicia declara improcedente la acumulación solicitada, y además encontrare que fue promovida con temeridad o con el ánimo de paralizar el procedimiento, impondrá al responsable una multa hasta de treinta días de salario mínimo.
+Si el Supremo Tribunal de Justicia declara improcedente la acumulación solicitada, y además encontrare que fue promovida con temeridad o con el ánimo de paralizar el procedimiento, impondrá al responsable una multa hasta de treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO VIII. EXHORTOS Y DESPACHOS
 
@@ -1137,11 +1141,11 @@ La petición se formulará por escrito, en el que con toda precisión se exprese
 
 El juez decidirá de plano en tres días lo que estime procedente, pero sin variar en lo esencial la resolución. La petición de aclaración suspende el término para la apelación, que comenzará a correr de nuevo, una vez notificada la resolución correspondiente, contra la que no cabe recurso.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 122.
 
-Si la aclaración se estima improcedente se impondrá a la parte que le haya promovido, una multa hasta por el importe de treinta días de salario mínimo.
+Si la aclaración se estima improcedente se impondrá a la parte que la haya promovido, una multa hasta por el importe de treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO XII. SENTENCIA EJECUTORIADA
 
@@ -1541,11 +1545,9 @@ I.- De los negocios de jurisdicción voluntaria que no interesen al derecho de f
 
 II.- De los negocios contenciosos que versen sobre propiedad o demás derechos reales sobre inmuebles;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2011)</small>
-
-III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta veces el salario mínimo general vigente en la Capital del Estado. También conocerán del juicio oral mercantil, con independencia de la cuantía del asunto, pero sin que ésta exceda de la cuantía que puede tramitarse bajo esta modalidad;
+III.- De los demás negocios de jurisdicción contenciosa, común y concurrente, cuya cuantía exceda de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización. También conocerán del juicio oral mercantil, con independencia de la cuantía del asunto, pero sin que ésta exceda de la cuantía que puede tramitarse bajo esta modalidad;
 
 IV.- (DEROGADA, P.O. 3 DE JUNIO DE 2003)
 
@@ -1661,13 +1663,13 @@ No se tomará en cuenta, para los efectos de este artículo la sumisión expresa
 
 Todo tribunal está obligado a suspender sus procedimientos luego que expida la inhibitoria o luego que en su caso la reciba. Igualmente suspenderá sus procedimientos al promoverse la declinatoria. La infracción de lo dispuesto en este artículo producirá la nulidad de pleno derecho de lo actuado.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 203.
 
 El litigante que hubiere optado por alguno de los dos medios de promover una competencia, no podrá abandonarlo y recurrir al otro, y tampoco podrá emplearlos sucesivamente.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
-
-Cuando no proceda la declinatoria debe pagar el que la promovió, una multa hasta por el equivalente de sesenta días de salario mínimo.
+Cuando no proceda la declinatoria debe pagar el que la promovió, una multa hasta por el equivalente de sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO III. IMPEDIMENTOS Y EXCUSAS
 
@@ -1809,11 +1811,11 @@ Si el funcionario recusado omitiere remitir oportunamente los autos o el informe
 
 El tribunal que conozca de la recusación abrirá el negocio a prueba, de oficio o a petición de parte, por el término de diez días.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 222.
 
-Si se declara improcedente o no probada la causa de recusación, o el recusante no se presenta a continuar ésta, se le impondrá una multa hasta por el importe de sesenta días de salario mínimo. No se dará curso a la recusación si no exhibe el recusante, al interponerla, certificado de depósito por el máximo de la multa. Si en su caso, la aplicada es menor, se devolverá al recusante el excedente.
+Si se declara improcedente o no probada la causa de recusación, o el recusante no se presenta a continuar ésta, se le impondrá una multa hasta por el importe de sesenta veces el valor diario de la Unidad de Medida y Actualización. No se dará curso a la recusación si no exhibe el recusante, al interponerla, certificado de depósito por el máximo de la multa. Si en su caso, la aplicada es menor, se devolverá al recusante el excedente.
 
 ###### ARTICULO 223.
 
@@ -2311,11 +2313,11 @@ Los tribunales tienen la facultad y el deber de compeler a los terceros por los 
 
 De esta obligación están exentos los ascendientes, descendientes y cónyuge, y las personas que deben guardar secreto profesional en los casos en que se trate de probar contra la parte con la que estén relacionados.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 284.
 
-Las autoridades tendrán la obligación de proporcionar inmediatamente los informes que se les pidan respecto a hechos relacionados con el juicio y de los que hayan tenido conocimiento o hayan intervenido por razón de su cargo. En caso de desobediencia, el juez impondrá a la rebelde una multa que no excederá de treinta días de salario mínimo.
+Las autoridades tendrán la obligación de proporcionar inmediatamente los informes que se les pidan respecto a hechos relacionados con el juicio y de los que hayan tenido conocimiento o hayan intervenido por razón de su cargo. En caso de desobediencia, el juez impondrá a la rebelde una multa que no excederá de treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 285.
 
@@ -2421,15 +2423,13 @@ El término común de prueba y el extraordinario concluyen por el solo transcurs
 
 El juez puede dar por concluidos los términos común y extraordinario, o suspenderlos cuando las partes lo soliciten de común acuerdo, si considera que se han rendido todas las pruebas para cuyo efecto fueron concedidos.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 301.
 
-La parte que hubiere pedido la dilación extraordinaria y no rindiese las pruebas propuestas para dicho objeto, o resultaren claramente inconducentes, será condenada a indemnizar a la contraria los daños y perjuicios que sufra por dicho motivo, y a pagar una multa hasta sesenta días de salario mínimo.
+La parte que hubiere pedido la dilación extraordinaria y no rindiese las pruebas propuestas para dicho objeto, o resultaren claramente inconducentes, será condenada a indemnizar a la contraria los daños y perjuicios que sufra por dicho motivo, y a pagar una multa hasta sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2009)</small>
-
-Habiéndose fijado día y hora para el desahogo de una prueba ofrecida por parte interesada, y ésta no proporcione los medios para su desahogo será sancionada con una multa de hasta sesenta días de salario mínimo vigente en la zona.
+Habiéndose fijado día y hora para el desahogo de una prueba ofrecida por parte interesada, y ésta no proporcione los medios para su desahogo será sancionada con una multa de hasta sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 302.
 
@@ -2789,15 +2789,13 @@ Cuando prosperen objeciones por dolo, negligencia, soborno o simulación contra 
 
 Si cumplido, en lo conducente lo previsto por el artículo anterior, continuase la discrepancia, el tribunal nombrará perito tercero, siguiendo el orden de la lista oficial de peritos del Poder Judicial del Estado, quien no estará obligado a adoptar la opinión de los otros, pero deberá rendir su dictamen dentro del término que al efecto se le fije, pudiéndose ampliar prudentemente el mismo si así lo solicita.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 347.
 
-Si el perito nombrado por una parte no rinde su dictamen, sin causa justificada, designará el Tribunal nuevo perito, en sustitución del omiso, siguiendo el orden de la lista oficial de peritos del Poder Judicial del Estado e impondrá a aquél una multa hasta por el importe de sesenta veces el salario mínimo. La omisión hará, además, responsable al perito, de los daños y perjuicios que por ello se ocasionen a la parte que lo nombró.
+Si el perito nombrado por una parte no rinde su dictamen, sin causa justificada, designará el Tribunal nuevo perito, en sustitución del omiso, siguiendo el orden de la lista oficial de peritos del Poder Judicial del Estado e impondrá a aquél una multa hasta por el importe de sesenta veces el valor diario de la Unidad de Medida y Actualización. La omisión hará, además, responsable al perito, de los datos y perjuicios que por ello se ocasionen a la parte que lo nombró.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
-
-Si el perito de que se trata no rinde su dictamen dentro del término que se le fijó, pero sí, antes de que haya hecho el nuevo nombramiento, sólo se le aplicará multa hasta por el importe de treinta veces el salario mínimo.
+Si el perito de que se trata no rinde su dictamen dentro del término que se le fijó, pero si, antes de que haya hecho el nuevo nombramiento, sólo se le aplicará multa hasta por el importe de treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 348.
 
@@ -2811,9 +2809,9 @@ Si el objeto del dictamen pericial fuere la práctica de un avalúo, los peritos
 
 El perito tercero que nombre el tribunal, puede ser recusado dentro de los tres días siguientes, por las mismas causas que pueden serlo los jueces; pero, si se tratare de perito nombrado en rebeldía de una de las partes, sólo ésta podrá hacer uso de la recusación.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-El juez calificará de plano la recusación tomando en cuenta las pruebas que se presenten al hacerla valer. Admitido, nombrará perito para reemplazar al recusado. En caso de ser desechada la recusación, impondrá al recusante una multa hasta por sesenta veces el salario mínimo.
+El juez calificará de plano la recusación tomando en cuenta las pruebas que se presenten al hacerla valer. Admitido, nombrará perito para reemplazar al recusado. En caso de ser desechada la recusación, impondrá al recusante una multa hasta por sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 351.
 
@@ -2949,9 +2947,9 @@ VIII.- Si el testigo que comparezca se niega a prestar protesta o a declarar, in
 
 IX.- Si alguno de los testigos hace referencia a otras personas, el Juez, en virtud del conocimiento de los hechos, puede disponer de oficio que sean llamadas a declarar. El Juez también puede disponer que sean oídos los testigos que fueron eliminados por excesivos o que se repita el examen de los ya interrogados, a fin de aclarar sus testimonios o rectificar irregularidades que aparezcan de los anteriores interrogatorios; y,
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-X.- En el acta que se levante se harán constar las preguntas formuladas y las respuestas del testigo, en forma que en la contestación se comprenda el sentido o término de la pregunta. La infracción a esta disposición se castigará con multa hasta por el importe de treinta días de salario mínimo. Los testigos están obligados a dar la razón de su dicho, respecto de las respuestas que no la lleven implícita, y el Tribunal deberá exigirla.
+X.- En el acta que se levante se harán constar las preguntas formuladas y las respuestas del testigo, en forma que en la contestación se comprenda el sentido o término de la pregunta. La infracción a esta disposición se castigará con multa hasta por el importe de treinta veces el valor diario de la Unidad de Medida y Actualización. Los testigos están obligados a dar la razón de su dicho, respecto de las respuestas que no la lleven implícita, y el Tribunal deberá exigirla.
 
 Para los efectos de la valoración, se entiende por razón de su dicho la explicación lógica y razonada de la forma en que el declarante conoció el hecho o hechos. No se considerará cumplido este aspecto de la prueba cuando dicha explicación es vaga, inconsistente o insuficiente. La declaración, una vez firmada, no podrá variarse ni en la sustancia ni en la redacción.
 
@@ -3019,9 +3017,9 @@ Las partes pueden pedir que por vía de prueba, el juzgado solicite que cualquie
 
 Las autoridades están obligadas, a requerimiento del Magistrado o del Juez, a facilitar a éste, de inmediato y por vía de prueba, todos los datos que se les pidan y sean de su conocimiento u obren en los archivos o documentos de la dependencia a su cargo, relativos a los hechos que al efecto se les mencionarán en el respectivo oficio de requerimiento.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-En caso de desobediencia al mandato judicial o demora en el cumplimiento del mismo, la autoridad requirente impondrá a la requerida multa hasta por el importe de treinta días de salario mínimo.
+En caso de desobediencia al mandato judicial o demora en el cumplimiento del mismo, la autoridad requirente impondrá a la requerida multa hasta por el importe de treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 384.
 
@@ -4475,11 +4473,11 @@ La sentencia que resuelva la demanda de interdicción es apelable en ambos efect
 
 La interdicción se revocará cuando cese la causa que la motivó. Para dictar la revocación se seguirán las disposiciones establecidas para el pronunciamiento de aquella.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 577.
 
-El que promueva dolosamente el juicio de interdicción independientemente de la sanción penal que le corresponda, responderá civilmente de los daños y perjuicios que cause al supuesto incapaz y se le impondrá además una multa hasta por el importe de sesenta días de salario mínimo.
+El que promueva dolosamente el juicio de interdicción independientemente de la sanción penal que le corresponda, responderá civilmente de los daños y perjuicios que cause al supuesto incapaz y se le impondrá además una multa hasta por el importe de sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 578.
 
@@ -6885,17 +6883,13 @@ Las recusaciones de los secretarios de los juzgados se substanciarán en la form
 
 ### CAPITULO II. COMPETENCIA Y PRELIMINARES DEL JUICIO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PRIMER PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 844.
 
-Los negocios cuyo interés no excedan de ciento cincuenta veces al salario mínimo diario general vigente en la Capital del Estado, se tramitarán ante los jueces menores. Para establecer la cuantía se estará únicamente a la suerte principal, sin tomar en cuenta los intereses y demás prestaciones accesorias. Se exceptúan de lo anterior los asuntos mercantiles que en su modalidad de juicio oral corresponda conocer a los jueces de primera instancia.
+Los negocios cuyo interés no excedan de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, se tramitarán ante los jueces menores. Para establecer la cuantía se estará únicamente a la suerte principal, sin tomar en cuenta los intereses y demás prestaciones accesorias. Se exceptúan de lo anterior los asuntos mercantiles que en su modalidad de juicio oral corresponda conocer a los jueces de primera instancia.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2007)</small>
-
-Para los asuntos mayores de cuarenta y cinco veces el salario mínimo se seguirá el procedimiento fijado en los artículos siguientes.
+Para los asuntos mayores de cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización se seguirá el procedimiento fijado en los artículos siguientes.
 
 ###### ARTICULO 845.
 
@@ -7617,11 +7611,11 @@ La apelación procede en el efecto devolutivo o en ambos efectos. El juez expres
 
 La apelación en el efecto devolutivo no suspende la ejecución de la resolución impugnada. La procedente en ambos efectos paraliza de plano la ejecución, mientras el recurso no se decida, o el auto o sentencia quede firme.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 938.
 
-Si el recurrente considera que la apelación fue mal admitida, lo hará saber al Superior, por conducto del juez, reclamando la calificación respectiva, debiendo hacerlo dentro del término para la expresión de agravios, el cual no se suspende, ya sea en el escrito que los contiene o por separado. La parte contraria también puede formular reclamación por el mismo motivo, dentro del término para defender sus derechos o adherirse a la apelación. Independientemente, el superior examinará de oficio los antecedentes de la admisión del recurso por el inferior y lo desechará de plano si encontrare que aquélla debió declararse improcedente; o, si se está en el caso del artículo 932 impondrá al inconforme una multa por el importe de treinta días de salario mínimo, si estudiadas las constancias aparece que la interposición del recurso efectivamente era improcedente.
+Si el recurrente considera que la apelación fue mal admitida, lo hará saber al Superior, por conducto del juez, reclamando la calificación respectiva, debiendo hacerlo dentro del término para la expresión de agravios, el cual no se suspende, ya sea en el escrito que los contiene o por separado. La parte contraria también puede formular reclamación por el mismo motivo, dentro del término para defender sus derechos o adherirse a la apelación. Independientemente, el superior examinará de oficio los antecedentes de la admisión del recurso por el inferior y lo desechará de plano si encontrare que aquella debió declararse improcedente; o, si se está en el caso del artículo 932 impondrá al inconforme una multa por el importe de treinta veces el valor diario de la Unidad de Medida y Actualización, si estudiadas las constancias aparece que la interposición del recurso efectivamente era improcedente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE SEPTIEMBRE DE 2006)</small>
 
@@ -8092,3 +8086,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTICULO SEGUNDO.
 
 Por lo que hace a los juicios de divorcio en trámite, será potestativo para cualquiera de las partes acogerse a las reformas establecidas en el presente decreto o, en su caso, seguirán rigiéndose con las disposiciones vigentes anteriores a la publicación del presente decreto hasta en tanto hayan concluido en su totalidad.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
