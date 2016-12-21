@@ -4,7 +4,7 @@ identifier: "TAM-ley-reglamentaria-para-establecimientos-de-bebidas-16276"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-05"
-last_updated: "2014-12-17"
+last_updated: "2016-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 5 de abril de 2000.
 
@@ -527,11 +527,25 @@ Las licencias y permisos no son objeto de revalidación, por lo que una vez agot
 
 Las licencias a que se refiere esta ley tendrán vigencia solo durante el año de calendario en el que se expidieron; la vigencia de los permisos será la señalada expresamente en los mismos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 34.
 
-El propietario, representante legal o encargado del establecimiento destinado al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas, deberá solicitar, por escrito, a la Secretaría, en los meses de noviembre y diciembre de cada año, la expedición de la nueva licencia para el siguiente año.
+El propietario, representante legal o encargado del establecimiento destinado al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas, deberá solicitar por escrito, o a través del portal de internet de la Secretaría u otros medios electrónicos permitidos, en los meses de noviembre y diciembre de cada año, la expedición de la nueva licencia para el siguiente año.
 
-La copia de la solicitud en la que conste que el original de la misma fue recibida en tiempo y forma por la Oficina Fiscal del Estado, permite la operación del establecimiento respectivo solo durante los meses de enero y febrero del año siguiente a aquel en que se presentó la solicitud.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+El comprobante de la solicitud presentado en tiempo y forma, permitirá la operación del establecimiento respectivo, sólo durante los meses de enero y febrero del año siguiente a aquel en que se presentó la solicitud, debiendo realizar el pago correspondiente de derechos por expedición de licencias para funcionamiento de establecimientos de bebidas alcohólicas a que se refiere el artículo 81 de la Ley de Hacienda para el Estado de Tamaulipas a más tardar el último día hábil del mes de febrero.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Una vez realizado el pago, el propietario o representante legal del establecimiento destinado al almacenamiento, distribución, enajenación y consumo de bebidas alcohólicas, contará con 90 días naturales posteriores a la fecha en que se realizó el pago, para recoger su licencia de funcionamento (sic).
 
 ###### ARTICULO 35.
 
@@ -721,7 +735,7 @@ e).- Cuando se instalen compartimientos o reservados que sean susceptibles de se
 
 f).- Cuando se venda o se permita el consumo de cerveza sin alimentos, así como por la enajenación de bebidas alcohólicas distintas a la cerveza en los establecimientos a que se refiere las fracciones XVI y XXI del artículo 10 de esta ley;
 
-g).- Cuando se permita, en el interior de los establecimientos, la practica de juegos prohibidos por la ley o que se crucen apuestas en juegos permitidos;
+g).- Cuando se permita, en el interior de los establecimientos, la práctica de juegos prohibidos por la ley o que se crucen apuestas en juegos permitidos;
 
 h).- Cuando no se retire a las personas ebrias que hubieren causado desorden o actos reñidos con la moral;
 
@@ -747,7 +761,7 @@ c).- Cuando se permita, dentro del establecimiento, conductas que tiendan a alen
 
 d).- Cuando se enajenen, o en el establecimiento se permita el consumo de bebidas alcohólicas a menores de edad, a personas que no estén en pleno goce de sus facultades mentales, a personas armadas o bajo los efectos de psicotrópicos, elementos del ejército, armada, policía uniformada y visitadores en el desempeño de sus funciones;
 
-e).- Cuando se transfiera la licencia o permiso respectivo en contravención a lo dispuesto en el Articulo 30 de esta ley, así como cuando sea utilizada en algún establecimiento por persona distinta a su propietario;
+e).- Cuando se transfiera la licencia o permiso respectivo en contravención a lo dispuesto en el Artículo 30 de esta ley, así como cuando sea utilizada en algún establecimiento por persona distinta a su propietario;
 
 f).- Cuando el establecimiento carezca de la licencia o permiso correspondiente o cuando el establecimiento continúe operando después de haberse notificado la cancelación de la licencia;
 
@@ -805,13 +819,13 @@ A los menores de edad, personas que no estén en pleno goce de sus facultades me
 
 ###### ARTICULO 60.
 
-En los establecimientos regulados por esta ley se prohibe cualquier tipo de espectáculo que altere el orden, ofenda la moral o las buenas costumbres.
+En los establecimientos regulados por esta ley se prohíbe cualquier tipo de espectáculo que altere el orden, ofenda la moral o las buenas costumbres.
 
 Asimismo, en los establecimientos de bar, cabaret o centro nocturno, cantina o taberna, cervecería y discoteca, se prohibe la instalación de compartimientos o reservados que sean susceptibles de ser cerrados con cualquier tipo de puerta, que obstruya la vista o que impida la comunicación en el interior del establecimiento.
 
 ###### ARTICULO 61.
 
-Se prohibe la venta de bebidas alcohólicas en casa habitación, así como utilizar los establecimientos en que se enajenen bebidas alcohólicas como casa habitación, viviendas, departamentos u oficinas, o que estén comunicados con ellas. Dicho establecimiento no podrá ser la vía de entrada para la habitación o domicilio en donde residan una o más personas.
+Se prohíbe la venta de bebidas alcohólicas en casa habitación, así como utilizar los establecimientos en que se enajenen bebidas alcohólicas como casa habitación, viviendas, departamentos u oficinas, o que estén comunicados con ellas. Dicho establecimiento no podrá ser la vía de entrada para la habitación o domicilio en donde residan una o más personas.
 
 ###### ARTICULO 62.
 
@@ -833,9 +847,11 @@ IV.- Los demás que señalan las leyes y sus reglamentos.
 
 Queda prohibida la enajenación y consumo de bebidas alcohólicas en los sitios destinados exclusivamente a su almacenamiento, así como en carpas, circos y cines.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 64.
 
-Se prohibe el consumo de bebidas alcohólicas en la vía pública. Corresponderá a los Ayuntamientos, en uso de sus atribuciones, vigilar el cumplimiento de ésta disposición, aplicando la sanción prevista en su reglamentación municipal, en caso de incumplimiento. A falta de disposición expresa en este sentido, aplicarán una multa de hasta diez días de salario mínimo vigente en la capital del Estado y arresto administrativo hasta por treinta y seis horas.
+Se prohíbe el consumo de bebidas alcohólicas en la vía pública. Corresponderá a los Ayuntamientos, en uso de sus atribuciones, vigilar el cumplimiento de ésta disposición, aplicando la sanción prevista en su reglamentación municipal, en caso de incumplimiento. A falta de disposición expresa en este sentido, aplicarán una multa de hasta diez veces el valor diario de la Unidad de Medida y Actualización y arresto administrativo hasta por treinta y seis horas.
 
 ### CAPITULO X. DE LAS SANCIONES
 
@@ -855,7 +871,9 @@ La imposición de las sanciones económicas deberá hacerse entre el mínimo y e
 
 El incumplimiento de las obligaciones que establece esta ley, se sancionará de acuerdo a lo siguiente:
 
-I.- Con multa de setenta y cinco a ciento cincuenta días de salario mínimo vigente en la capital del Estado y clausura temporal hasta por un plazo de quince días, en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+I.- Con multa de setenta y cinco a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de quince días, en los siguientes casos:
 
 a).- Por no tener en lugar visible al público la licencia y, en su caso, el permiso original respectivo;
 
@@ -865,7 +883,9 @@ c).- Por no pintar en el exterior del establecimiento, en lugar visible, un rect
 
 d).- A quienes no conserven en el establecimiento los comprobantes de pago de los derechos correspondientes a la licencia. En este caso solo se aplicará la sanción económica;
 
-II.- Con multa de ciento cincuenta y uno a trescientos días de salario mínimo vigente en la capital del Estado y clausura temporal hasta por un plazo de treinta días, en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II.- Con multa de ciento cincuenta y uno a trescientas veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de treinta días, en los siguientes casos:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -875,13 +895,15 @@ a).- A quienes no conserven, mantengan y presenten el original de la licencia o 
 
 b).- A los que no cumplan con los requisitos establecidos en el artículo 13 de esta ley;
 
-c).- A quienes vendan bebidas alcohólicas o permitan su consumo en el establecimiento, sin estar autorizado para ello en la licencia o permiso respectivo, conforme a las disposiciones de ésta ley;
+c).- A quienes vendan bebidas alcohólicas o permitan su consumo en el establecimiento, sin estar autorizado para ello en la licencia o permiso respectivo, conforme a las disposiciones de esta ley;
 
 d).- A quienes vendan o permitan el consumo de cerveza sin alimentos en los establecimientos a que se refieren las fracciones XVI y XXI del artículo 10 de esta ley; y
 
 e).- A quienes enajenen y permitan el consumo de bebidas alcohólicas en los sitios y lugares mencionados en el artículo 63 de la presente ley;
 
-III.- Con multa de trescientos uno a quinientos días de salario mínimo vigente en la capital del Estado, y clausura temporal hasta por un plazo de sesenta días, en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III.- Con multa de trescientos uno a quinientas veces el valor diario de la Unidad de Medida y Actualización, y clausura temporal hasta por un plazo de sesenta días, en los siguientes casos:
 
 a).- Cuando un establecimiento funcione en un domicilio distinto al señalado en la licencia, o con clasificación distinta, sin haberse obtenido previamente la autorización correspondiente;
 
@@ -901,7 +923,9 @@ h).- Por la enajenación de bebidas alcohólicas en los días prohibidos por las
 
 i).- Cuando se enajenen al mayoreo bebidas alcohólicas a establecimientos que no estén autorizados en los términos de esta ley;
 
-IV.- Con multa de quinientos uno a mil quinientos días de salario mínimo vigente en la capital del Estado, clausura definitiva y cancelación de la licencia o permiso, en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV.- Con multa de quinientos uno a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, clausura definitiva y cancelación de la licencia o permiso, en los siguientes casos:
 
 a).- A los que vendan bebidas alcohólicas a las personas señaladas en el artículo 16 Fracción I de esta ley;
 
@@ -931,15 +955,25 @@ k).- Cuando el establecimiento continúe operando después de haber sido notific
 
 l).- A quienes desprendan, alteren o destruyan parcial o totalmente, sin autorización legal, los sellos o marcas oficiales colocados por los visitadores;
 
-V.- Con multa de cien a quinientos días de salario mínimo vigente en la capital del Estado, cuando en los establecimientos en que se enajenen bebidas alcohólicas se utilicen como casas habitación, viviendas, departamentos u oficinas, o que estén comunicados con ellos. Igual sanción se impondrá al propietario o poseedor de la casa habitación que venda o permita que se vendan bebidas alcohólicas, así como a quienes violen lo dispuesto en los artículos 14 y 62 fracciones I y II de esta ley;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VI.- Con multa de setenta y cinco a quinientos días de salario mínimo vigente en la capital del Estado y clausura temporal hasta por un plazo de treinta días, cuando el establecimiento se destine a un giro distinto al autorizado en la licencia o permiso correspondiente. La clausura será definitiva cuando se opere el establecimiento como bar, cabaret o centro nocturno, cantina o taberna, cervecería o discoteca, y en la licencia o permiso respectivo tenga autorizado giro distinto;
+V.- Con multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando en los establecimientos en que se enajenen bebidas alcohólicas se utilicen como casas habitación, viviendas, departamentos u oficinas, o que estén comunicados con ellos. Igual sanción se impondrá al propietario o poseedor de la casa habitación que venda o permita que se vendan bebidas alcohólicas, así como a quienes violen lo dispuesto en los artículos 14 y 62 fracciones I y II de esta ley;
 
-VII.- Con multa de trescientos a quinientos días de salario mínimo vigente en la capital del Estado y clausura temporal hasta por treinta días, cuando por cualquier otro acto u omisión se infrinjan las disposiciones de esta ley, que no se encuentre previsto en las Fracciones anteriores;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Con arresto administrativo hasta por treinta y seis horas, multa de quinientos uno a mil quinientos días de salario mínimo vigente en la capital del Estado y clausura definitiva, a los propietarios de los establecimientos que expendan o suministren las bebidas alcohólicas, sin contar con licencia o permiso correspondiente, siendo solidariamente responsables los distribuidores que surtan a dichos establecimientos; y
+VI.- Con multa de setenta y cinco a quinientas veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por un plazo de treinta días, cuando el establecimiento se destine a un giro distinto al autorizado en la licencia o permiso correspondiente. La clausura será definitiva cuando se opere el establecimiento como bar, cabaret o centro nocturno, cantina o taberna, cervecería o discoteca, y en la licencia o permiso respectivo tenga autorizado giro distinto;
 
-IX.- Con multa de diez mil a veinte mil días de salario mínimo vigente en la capital del Estado, a quienes no presenten la declaración a que se refiere el artículo 16 Fracción XVII de esta ley o la presente después de haber sido requerida por la Oficina Fiscal del Estado que corresponda al domicilio del obligado.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VII.- Con multa de trescientos a quinientas veces el valor diario de la Unidad de Medida y Actualización y clausura temporal hasta por treinta días, cuando por cualquier otro acto u omisión se infrinjan las disposiciones de esta ley, que no se encuentre previsto en las fracciones anteriores;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Con arresto administrativo hasta por treinta y seis horas, multa de quinientas una a mil quinientas veces el valor diario de la Unidad de Medida y Actualización y clausura definitiva, a los propietarios de los establecimientos que expendan o suministren las bebidas alcohólicas, sin contar con licencia o permiso correspondiente, siendo solidariamente responsables los distribuidores que surtan a dichos establecimientos; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IX.- Con multa de diez mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización, a quienes no presenten la declaración a que se refiere el artículo 16 fracción XVII de esta ley o la presente después de haber sido requerida por la Oficina Fiscal del Estado que corresponda al domicilio del obligado.
 
 ###### ARTICULO 69.
 
@@ -1118,3 +1152,31 @@ Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-92 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del 2017, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales, así como cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+###### ARTÍCULO TERCERO.
+
+Tratándose de las menciones al salario mínimo que se hagan en contratos y convenios vigentes al 28 de enero de 2016, se atenderá a lo dispuesto en el artículo Séptimo Transitorio del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
