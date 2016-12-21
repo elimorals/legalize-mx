@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-impuesto-sobre-adquisicion-de-bienes-inmuebles-de-83370
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-03"
-last_updated: "2014-12-09"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "ROO"
 ---
 # LEY DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO NÚMERO: 162 POR EL QUE SE EXPIDE LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 9 DE DICIEMBRE DE 2014, SE DEROGA DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, TODA REFERENCIA REALIZADA RESPECTO DEL MUNICIPIO DE COZUMEL.]</small>
-
 LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Número 74 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 3 de octubre de 2011.
 
@@ -45,9 +43,13 @@ LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de observancia general en los Municipios del Estado de Quintana Roo y tiene por objeto establecer las bases para el cobro del Impuesto Sobre Adquisición de Bienes Inmuebles.
+La presente Ley es de observancia general en los Municipios de Bacalar, Felipe Carrillo Puerto, Isla Mujeres, José María Morelos, Cárdenas, Othón P. Blanco, Solidaridad y Tulum del Estado de Quintana Roo y tiene por objeto establecer las bases para el cobro del Impuesto Sobre Adquisición de Bienes Inmuebles.
 
 ###### Artículo 2.
 
@@ -225,7 +227,7 @@ DEL ESTADO DE QUINTANA ROO.
 
 JOSÉ MAURICIO GÓNGORA ESCALANTE
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 30 DE OCTUBRE DE 2012.
 
@@ -280,3 +282,11 @@ En ningún caso lo dispuesto en este artículo, se entenderá que limita la facu
 Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación local correspondiente, las contribuciones que tengan las características de derecho conforme al Código Fiscal de la Federación y la Ley de Ingresos de la Federación.
 
 También se considerarán como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aun cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 033 POR EL (SIC) SE ADICIONA EL CAPÍTULO I BIS DENOMINADO “IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES”, QUE COMPRENDE LOS ARTÍCULOS 23 BIS, 23 TER, 23 QUÁTER, 23 QUINQUIES, 23 SEXIES, 23 SEPTIES, 23 OCTIES, 23 NONIES, 23 DECIES Y 23 UNDECIES, AL TÍTULO SEGUNDO “DE LOS IMPUESTOS” DE LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMA EL ARTÍCULO 1 DE LA LEY DEL IMPUESTO SOBRE ADQUISICIÓN DE BIENES INMUEBLES DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 2017, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
