@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-5170
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-31"
-last_updated: "2006-08-31"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA DEL ESTADO DE CAMPECHE
 
-LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA DEL ESTADO DE CAMPECHE
+LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 31 de agosto de 2006.
 
@@ -119,7 +119,11 @@ VI. Las demás que le atribuyan las disposiciones aplicables en la materia.
 
 Se crea el Consejo Estatal de Investigación Científica y Desarrollo Tecnológico, en adelante el COESICYDET, como un organismo público descentralizado de la administración pública estatal, con personalidad jurídica patrimonio propios, con autonomía de gestión y con domicilio en la capital del Estado.
 
-El Consejo estará sectorizado a la Secretaría de Educación, Cultura y Deporte del Gobierno del Estado. Tendrá la estructura orgánica y administrativa que permita el presupuesto de egresos del Estado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+El Consejo estará sectorizado a la Secretaría de Educación del Gobierno del Estado. Tendrá la estructura orgánica y administrativa que permita el presupuesto de egresos del Estado.
 
 ###### ARTÍCULO 7.
 
@@ -139,7 +143,7 @@ VI. Fomentar la colaboración interinstitucional en materia de ciencia y tecnolo
 
 VII. Promover una mayor coordinación y comunicación entre las instituciones de investigación y enseñanza superior, así como de éstas con los usuarios de la investigación y el Gobierno del Estado;
 
-VIII. Fomentar las investigaciones básicas, tecnológicas y aplicadas (sic), y promover las acciones concertadas que se requieran con los institutos del sector público, las instituciones académicas, los centros de investigación y los usuarios, incluyendo al sector privado y productivo;
+VIII. Fomentar las investigaciones básicas, tecnológicas y aplicadas, y promover las acciones concertadas que se requieran con los institutos del sector público, las instituciones académicas, los centros de investigación y los usuarios, incluyendo al sector privado y productivo;
 
 IX. Canalizar recursos adicionales provenientes de otras fuentes hacia las personas físicas o morales, instituciones académicas y centros de investigación para el fomento y realización de investigaciones científicas y proyectos del desarrollo tecnológico, en función de programas y proyectos específicos, aun cuando dichas instituciones continúen manejando e incrementando sus propios fondos;
 
@@ -199,7 +203,11 @@ La Junta de Gobierno será la máxima autoridad de gobierno y estará Integrada 
 
 I. Un Presidente, que será el Gobernador del Estado;
 
-II. Un Vicepresidente, que será el Secretario de Educación, Cultura y Deporte;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II. Un Vicepresidente, que será el Secretario de Educación;
 
 III. Un Secretaría Técnico que será el Director General del COESICYDET, con derecho a voz pero no a voto;
 
@@ -219,7 +227,7 @@ Los representantes a que se refieren los incisos c), d) y e) de este artículo, 
 
 El Gobernador del Estado en su carácter de Presidente de la Junta de Gobierno, será suplido en sus ausencias por el Vicepresidente y tendrá voto de calidad en caso de empate.
 
-Por cada miembro de fa Junta se nombrará un suplente que actuará en caso de faltas temporales del titular, en los términos que fije el Reglamento Interno.
+Por cada miembro de la Junta se nombrará un suplente que actuará en caso de faltas temporales del titular, en los términos que fije el Reglamento Interno.
 
 También podrán participar con voz pero sin voto, representantes de otras dependencias federales, estatales y municipales, instituciones de investigación, públicas, privadas y sociales, a invitación expresa de la Junta de Gobierno cuando el asunto a tratar así lo amerite.
 
@@ -523,17 +531,37 @@ Con el objeto de integrar investigación y educción, los centros de investigaci
 
 El Gobierno del Estado reconocerá los logros sobresalientes de quienes realicen investigación científica y tecnológica, y promoverá que su actividad dé investigación contribuya a mantener y fortalecer la calidad de la educación, así como la divulgación de la ciencia y la tecnología en general, a través de los programas que para tales efectos instrumente.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 34.
 
-Se crea el Premio Estatal de Ciencia y Tecnología con el objeto de reconocer y estimular la investigación, promoción y difusión de la investigación científica y tecnológica, realizada en lo individual o en equipo por científicos o tecnólogos campechanos. Se otorgará anualmente por el Ejecutivo del Estado.
+Se crea el Premio Estatal de Ciencia y Tecnología, que otorgará anualmente el Ejecutivo del Estado con las siguientes categorías:
+
+I. Ciencia, Tecnología, Innovación y Vinculación, con el objeto de reconocer y estimular la investigación, promoción y difusión de la investigación científica y tecnológica, realizada en lo individual o en equipo por científicos, tecnólogos, inventores o empresarios campechanos, cuyas contribuciones por el alto impacto social, económico o cultural, sean merecedoras de esta distinción.
+
+II. Ciencia Juvenil, con el objeto de fomentar y promover el interés por la innovación, la ciencia y la tecnología, en jóvenes de educación secundaria, media superior y licenciatura, y
+
+III. Creatividad Infantil, para motivar y fomentar la creatividad en etapas tempranas de la niñez en la formación de alumnos de educación primaria.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 35.
 
-El monto del premio tendrá un mínimo equivalente a mil días del salario mínimo diario general vigente en la entidad, el jurado y demás términos en que se otorgará, será determinado por el COESICYDET de acuerdo con las bases que para tal efecto emita.
+El monto del premio, tendrá un mínimo equivalente a 1000 unidades de medida y actualización para la primera categoría. Por lo que se refiere a la segunda y tercera categorías, éstas serán equivalentes a 750 y 500 unidades de medida y actualización, respectivamente.
+
+El jurado y demás términos en que se otorgarán, será determinado por el Consejo Estatal de Investigación Científica y Desarrollo Tecnológico, de acuerdo con las bases que para tal efecto emita.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 36.
 
-El. Gobierno del Estado a través de la Secretaría de Educación, Cultura y Deporte, promoverá el diseño y aplicación de métodos y programas para la enseñanza y fomento de la ciencia y la tecnología en todos los niveles educativos, en particular en la educación básica.
+La Secretaría de Educación del Estado, promoverá el diseño y aplicación de métodos y programas para la enseñanza y fomento de la ciencia, la tecnología y la innovación, en todos los niveles educativos, en particular en la educación básica.
 
 ###### ARTÍCULO 37.
 
@@ -601,7 +629,7 @@ III. Los derechos de propiedad industrial, respecto de los resultados obtenidos 
 
 ## TRANSITORIOS
 
-PRIMERO.- La presente Ley entrará en vigor el día 1°. de enero del ano 2007 previa su publicación en el Periódico Oficial del Estado.
+PRIMERO.- La presente Ley entrará en vigor el día 1°. de enero del año 2007 previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Reglamento de esta ley deberá expedirse en un plazo que no exceda de seis meses, contados a partir de la entrada en vigor de la presente Ley. En tanto no expida el Reglamento, será la propia Junta de Gobierno quien se encargará de resolver las cuestiones relativas a la aplicación y debida observancia de la presente Ley.
 
@@ -624,3 +652,13 @@ C. Marta Irene Novelo Lara, Diputada Presidenta.- C. Elizabeth Vela Rosado. Dipu
 En cumplimiento de lo dispuesto por los artículos 48, 49 Y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veintinueve días del mes de junio del año dos mil seis.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C. P. JORGE CARLOS HURTADO VALDEZ.- EL SUBSECRETARIO "A" DE GOBIERNO ENCARGADO DEL DESPACHO DE LA SECRETARIA DE GOBIERNO POR AUSENCIA DEL TITULAR, LIC. RICARDO "MEDINA FARFAN.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 97 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 6, 10, 34, 35 Y 36 DE LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los treinta días siguientes después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Consejo Estatal de Investigación Científica y Desarrollo Tecnológico y la Secretaría de Finanzas deberán tomar las previsiones necesarias en el Presupuesto de Egresos del Estado, para los efectos que se deriven del presente decreto.
