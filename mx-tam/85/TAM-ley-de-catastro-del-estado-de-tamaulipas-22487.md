@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-catastro-del-estado-de-tamaulipas-22487"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-30"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CATASTRO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 30 de octubre del 2001.
 
@@ -1003,29 +1003,47 @@ VI.- Abstenerse de informar a las autoridades catastrales municipales de la cele
 
 VII.- Realizar cualquier acción o incurrir en cualquier otro acto u omisión distinta de los enumerados en las fracciones anteriores, que en alguna forma infrinjan las disposiciones de ésta ley.
 
-###### ARTICULO 103.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Las infracciones previstas en el artículo anterior, serán sancionadas por las autoridades catastrales de acuerdo al salario mínimo general vigente en la zona económica en donde se cometa la infracción, con las siguientes multas:
+###### ARTÍCULO 103.
 
-I.- De 10 a 15 días de salario, a quienes cometan la infracción prevista en la fracción I;
+Las infracciones previstas en el artículo anterior, serán sancionadas por las autoridades catastrales de acuerdo al valor diario de la Unidad de Medida y Actualización, con las siguientes multas:
 
-II.- De 20 a 30 días de salario en lo supuesto de la fracción II, sin perjuicio de hacer efectivo el impuesto omitido y sus accesorios;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-III.- De 20 a 30 días de salario a quienes infrinjan lo señalado en la fracción III;
+I.- De diez a quince veces el valor diario de la Unidad de Medida y Actualización, a quienes cometan la infracción prevista en la fracción I;
 
-IV.- De 10 a 15 días de salario a quienes corresponda a lo previsto en la fracción IV;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-V.- A quienes cometan la infracción prevista en la fracción V se impondrá una sanción, por cada lote resultante, de 3 a 5 días de salario;
+II.- De veinte a treinta veces el valor diario de la Unidad de Medida y Actualización en lo supuesto de la fracción II, sin perjuicio de hacer efectivo el impuesto omitido y sus accesorios;
 
-VI.- De 20 a 30 días de salario a quienes cometan la infracción prevista en la fracción VI; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VII.- De 10 a 30 días de salario a quienes infrinjan lo señalado en la fracción VII.
+III.- De veinte a treinta veces el valor diario de la Unidad de Medida y Actualización a quienes infrinjan lo señalado en la fracción III;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV.- De diez a quince veces el valor diario de la Unidad de Medida y Actualización a quienes corresponda a lo previsto en la fracción IV;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+V.- A quienes cometan la infracción prevista en la fracción V se impondrá una sanción, por cada lote resultante, de tres a cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VI.- De veinte a treinta veces el valor diario de la Unidad de Medida y Actualización a quienes cometan la infracción prevista en la fracción VI; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VII.- De diez a treinta veces el valor diario de la Unidad de Medida y Actualización a quienes infrinjan lo señalado en la fracción VII.
 
 En caso de reincidencia en la infracción a las disposiciones de esta ley, se duplicará el monto de las sanciones contenidas en este artículo.
 
 Debe entenderse por reincidencia, la repetición de un mismo acto violatorio a las disposiciones de la presente ley.
 
-Cuando se trate de los predios y construcciones de interés social provenientes de organismos públicos descentralizados cuyo objetivo sea la regularización de la tenencia de la tierra y la satisfacción de la vivienda, y atendiendo a las condiciones económicas del infractor, la sanción será de 1 a 6 días de salario.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Cuando se trate de los predios y construcciones de interés social provenientes de organismos públicos descentralizados cuyo objetivo sea la regularización de la tenencia de la tierra y la satisfacción de la vivienda, y atendiendo a las condiciones económicas del infractor, la sanción será de uno a seis veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 104.
 
@@ -1172,3 +1190,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
