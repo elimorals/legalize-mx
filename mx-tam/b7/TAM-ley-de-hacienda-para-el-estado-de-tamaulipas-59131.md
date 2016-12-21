@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2015-12-17"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -205,11 +207,9 @@ II. Tratándose de otros bienes muebles, el valor de la operación. Cuando este 
 
 El impuesto se causará sobre el importe del 2 por ciento sobre su base.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-Tratándose de vehículos, el impuesto no podrá ser menor a 10 días de salario mínimo.
+Tratándose de vehículos, el impuesto no podrá ser menor a diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 11.
 
@@ -709,6 +709,8 @@ Los tenedores o usuarios de los vehículos a que se refieren las fracciones II, 
 
 #### Sección Segunda. del Registro Público de la Propiedad Inmueble
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 39.
 
 En esta Sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquíes acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, automóviles eléctricos y motocicletas.
@@ -828,6 +830,8 @@ El Gobierno del Estado podrá celebrar convenios con las autoridades federales c
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 #### Sección Tercera. del Registro Público del Comercio
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 42.
 
@@ -993,6 +997,38 @@ II.- A la cantidad obtenida conforme al párrafo anterior, se le aplicará la ta
 
 Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año- modelo al que corresponda la motocicleta.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 42 Quinquies.
+
+Tratándose de vehículos usados provenientes de otras entidades federativas, con el impuesto del ejercicio actual pagado en la entidad de procedencia y que soliciten la inscripción en el padrón vehicular del Estado de Tamaulipas, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente, de acuerdo a lo siguiente:
+
+Mes inscripción Factor aplicable al impuesto causado
+
+Enero 1.00
+
+Febrero 0.92
+
+Marzo 0.83
+
+Abril 0.75
+
+Mayo 0.67
+
+Junio 0.58
+
+Julio 0.50
+
+Agosto 0.42
+
+Septiembre 0.33
+
+Octubre 0.25
+
+Noviembre 0.17
+
+Diciembre 0.08
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
@@ -1123,7 +1159,9 @@ Para este efecto, la Secretaría de Finanzas del Estado presumirá como base del
 
 a) El número de trabajadores y las erogaciones correspondientes a los mismos, declarados para los efectos del Instituto Mexicano del Seguro Social o del Instituto para el Fondo Nacional de la Vivienda de los Trabajadores;
 
-b) La que resulte de considerar, por cada trabajador a su servicio, el importe de cuatro veces el salario mínimo diario del área geográfica correspondiente al domicilio del contribuyente multiplicado por el número de días cada uno de los meses sujeto a revisión; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b) La que resulte de considerar, por cada trabajador a su servicio, el importe de cuatro veces el valor diario de la Unidad de Medida y Actualización multiplicado por el número de días cada uno de los meses sujeto a revisión;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1137,13 +1175,11 @@ c) La que resulte de aplicar el 40 por ciento a los importes consignados en las 
 
 d) El valor del importe que se le pague a las personas físicas o morales que contraten, subcontraten o reciban la prestación del trabajo personal subordinado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 49.
 
-Los sujetos de este impuesto deberán calcularlo, aplicando a la base obtenida a que se refiere el artículo 47 de la presente ley, la tasa del 2 por ciento.
+Los sujetos de este impuesto deberán calcularlo, aplicando a la base Obtenida a que se refiere el artículo 47 de la presente ley, la tasa del 3 por ciento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1195,11 +1231,9 @@ En caso de que se modifique el número de sucursales, se deberá presentar una n
 
 Son obligaciones de los sujetos de este impuesto:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-I.- Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas o medios aprobados; las personas físicas o morales estarán obligadas a exhibir originales y entregar una copia de sus documentos de identidad: acta de nacimiento, clave única de registro de población y credencial para votar con fotografía o licencia de conducir expedida por esta Entidad vigentes, en el caso de personas físicas; acta constitutiva, así como el documento que acredite la representación legal, en el caso de personas morales y, en el caso de los extranjeros, original del documento migratorio vigente con la debida autorización del Instituto Nacional de Migración; y comprobante de domicilio para los tres supuestos.
+I.- Solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas o medios aprobados; las personas físicas o morales estarán obligadas a exhibir originales y entregar una copia de sus documentos de identidad: clave única de registro de población y credencial para votar con fotografía o licencia de conducir expedida por esta Entidad vigentes, en el caso de personas físicas; acta constitutiva, así como el documento que acredite la representación legal, en el caso de personas morales y, en el caso de los extranjeros, original del documento migratorio vigente con la debida autorización del Instituto Nacional de Migración; y comprobante de domicilio para los tres supuestos.
 
 La Secretaría de Finanzas del Estado de oficio podrá inscribir a los contribuyentes cuando tenga a su disposición informes o documentos que demuestren que realizan actividades gravadas con este impuesto. Las sucursales u otras dependencias de la matriz deberán inscribirse por separado;
 
@@ -1355,13 +1389,111 @@ b) Instituciones sin fines de lucro que realicen o promuevan asistencia social e
 
 c) Las asociaciones religiosas debidamente registradas ante la Secretaría de Gobernación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-d) Las asociaciones civiles que impartan educación en cualquiera de sus niveles y que cuenten con autorización o reconocimiento de validez oficial y con planes de estudio autorizados por las autoridades competentes, y las federales por cooperación; y
+d) (DEROGADO, P.O. 21 DE DICIEMBRE DE 2016)
 
 e) Clubes de servicio.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO VI. DEL IMPUESTO SOBRE HOSPEDAJE
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 52 Bis.
+
+El objeto de este impuesto es la prestación de servicios de hospedaje, el otorgamiento de albergue y cualquier otro servicio de naturaleza análoga.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 52 Ter.
+
+Para efecto de este impuesto, se entenderá como servicios de hospedaje, además de los citados en el artículo anterior los siguientes:
+
+I.- La prestación de servicios, bajo el sistema de tiempo compartido o de cualquier otra denominación, mediante el que se conceda el uso o goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual, o una unidad variable dentro de una clase determinada, durante un período específico, a intervalos determinados o determinables;
+
+II.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los que se otorgue el espacio e instalaciones para el establecimiento temporal de estas; y
+
+III.- Los servicios de campamento a través de los que se otorguen espacios para acampar.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 52 Quater.
+
+Son sujetos de este impuesto las personas que reciban los servicios de hospedaje, mediante la retención que deberán efectuar los prestadores de los mismos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 52 Quinquies.
+
+La base gravable de este impuesto será el monto total del pago por el servicio de hospedaje, los ingresos por la prestación del servicio de hospedaje recibido, incluyendo depósitos, anticipos, intereses normales o moratorios, penas convencionales y cualquier otro concepto de la misma naturaleza.
+
+Cuando los retenedores realicen la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, alimentos, uso de instalaciones u otros similares y no desglosen y comprueben con la documentación correspondiente la prestación de éstos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
+
+Tratándose de servicios de hospedaje recibidos bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, además del costo de la membresía o certificado de titularidad, el monto de los pagos que se reciban por cuotas de mantenimiento u otras similares.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 52 Sexies.
+
+El monto del impuesto se determinará aplicando la tasa del 2 por ciento a la base gravable a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 52 Septies.
+
+Para los efectos de este capítulo, el impuesto se causará cuando se realice cualquiera de los supuestos siguientes:
+
+I.- Se pague parcial o totalmente el servicio a que se refiere el artículo 38 de esta Ley;
+
+II.- Se expida el comprobante que ampare el servicio recibido; y
+
+III.- Cuando el servicio sea prestado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 52 Octies.
+
+El impuesto deberá pagarse mensualmente, a más tardar el día quince del mes siguiente a aquel al que corresponda el pago, presentándose al efecto, declaración en la Oficina Fiscal de su jurisdicción, en las formas aprobadas.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 52 Nonies.
+
+Los sujetos de este impuesto tendrán las siguientes obligaciones:
+
+I.- Al solicitar su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas del Estado, utilizando para el efecto las formas aprobadas. La Secretaría de Finanzas podrá inscribir a los contribuyentes cuando tenga a su disposición informes o documentos por este impuesto.
+
+Las sucursales u otras dependencias de la matriz deberán inscribirse por separado;
+
+II.- Retener a los usuarios de los servicios de hospedaje, el impuesto correspondiente y enterarlo a las oficinas autorizadas dentro del plazo señalado en este capítulo. Los retenedores de este impuesto están obligados a enterarlo, aún cuando no hubieren hecho la referida retención, pero si hubiesen prestado el servicio;
+
+III.- Presentar ante las mismas autoridades, los avisos de cambios de datos contenidos en su solicitud de inscripción en los términos del Código Fiscal del Estado;
+
+IV.- Presentar declaraciones, así como los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
+
+V.- Trasladar, en forma expresa y por separado, a los usuarios de los servicios de hospedaje, el impuesto correspondiente;
+
+VI.- Conservar, a disposición de las autoridades fiscales y exhibir cuando se les solicite, la documentación comprobatoria de las operaciones realizadas y del pago del impuesto;
+
+VII.- Cuando los sujetos operen con varios establecimientos, deberán acumular la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado; y
+
+VIII.- Llevar la contabilidad y expedir comprobantes por las contraprestaciones que obtenga, de conformidad con el Código Fiscal del Estado. Deberá conservar una copia de los comprobantes a disposición de las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 52 Decies.
+
+La Secretaría de Finanzas del Estado podrá determinar presuntivamente la base gravable de este impuesto, cuando los contribuyentes se opongan u obstaculicen el inicio o desarrollo de las facultades de comprobación de las autoridades fiscales, cuando se omita presentar alguna declaración o cuando no presenten a las autoridades fiscales la contabilidad para efectos de su revisión, así como los datos, documentos o informes que éstas le requieran.
+
+Para este efecto, la Secretaría de Finanzas del Estado, presumirá como base gravable del impuesto la siguiente:
+
+a).- El monto total de las contraprestaciones recibidas a cambio del servicio de hospedaje, en el mismo mes del año anterior, actualizándolas con el factor a que se refiere el artículo 18-A del Código Fiscal del Estado, desde el mes del año anterior y hasta el mes a que se refiere la determinación presuntiva. En caso de haber aumentado la capacidad de servicio, se incrementará la base en la misma proporción; y
+
+b).- La que resulte del monto total de las contraprestaciones por el servicio de hospedaje que observen durante siete días incluyendo los inhábiles cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Artículo 52 Undecies. Este impuesto no se causa por los servicios de hospedaje proporcionados por hospitales, clínicas, asilos, conventos, seminarios o internados.
 
 ### CAPITULO I. DE LAS DISPOSICIONES GENERALES
 
@@ -1369,27 +1501,25 @@ e) Clubes de servicio.
 
 ### CAPITULO III. DE LOS SERVICIOS PRESTADOS POR AUTORIDADES EDUCATIVAS DEL ESTADO
 
-### CAPITULO IV. DE LOS SERVICIOS CATASTRALES
-
 ## TITULO III. DE LOS DERECHOS
 
-### CAPITULO V. DE LOS SERVICIOS PARA EL CONTROL VEHICULAR
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+### CAPITULO IV. DE LOS SERVICIOS CATASTRALES
 
 ###### Artículo 53.
 
 Los derechos por servicios no previstos ni exceptuados expresamente en este Título, se determinarán por asimilación aplicando las cuotas o tasas que correspondan a los casos con los que tengan semejanza.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 54.
 
-Para los efectos de la causación de los derechos sobre la base de salarios mínimos, para la aplicación de tarifas, de cantidades en millares o en porcentajes, los montos que resulten se ajustarán de conformidad con lo dispuesto en el artículo 21 del Código Fiscal del Estado para determinar el monto del pago de los mismos.
+Para los efectos de la causación de los derechos sobre la base del valor diario de la Unidad de Medida y Actualización, para la aplicación de tarifas, de cantidades en millares o en porcentajes, los montos que resulten se ajustarán de conformidad con lo dispuesto en el artículo 21 del Código Fiscal del Estado para determinar el monto del pago de los mismos.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 55.
 
-Cuando en este Título o en los Decretos que lo reformen se haga referencia a salarios mínimos como sistema para determinar las contribuciones que correspondan, deberá entenderse el salario mínimo diario vigente en la Capital del Estado. Asimismo, las modificaciones a los salarios mínimos generales que afecten las cantidades o la fijación de las contribuciones, se aplicarán en el mes en que entren en vigor.
+Cuando en este Título o en los Decretos que lo reformen se haga referencia a la Unidad de Medida y Actualización como sistema para determinar las contribuciones que correspondan, deberá entenderse la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos. Asimismo, las modificaciones a la Unidad de Medida y Actualización que afecten las cantidades o la fijación de las contribuciones, se aplicarán en el año en que entren en vigor.
 
 ###### Artículo 56.
 
@@ -1415,77 +1545,101 @@ El cobro de los derechos establecidos en el presente Título III dará lugar, en
 
 Los derechos por concepto de constancias, certificaciones, cotejo, búsqueda y copia de documentos, legalización y ratificación de firmas, apostillamiento de documentos, resoluciones y opiniones administrativas por servidores públicos del Gobierno del Estado, se causarán conforme a la siguiente tarifa:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+I. Búsqueda de expedientes y documentos, tres veces el valor diario de la Unidad de Medida y Actualización; certificación o expedición de copia certificada, una vez el valor diario de la Unidad de Medida y Actualización por hoja. Tratándose de certificación de averiguaciones previas, expedientes de procedimientos judiciales o administrativos, se cobrará hasta 15 hojas, una vez el valor diario de la Unidad de Medida y Actualización; hasta 40 hojas, dos veces el valor diario de la Unidad de Medida y Actualización; hasta 70 hojas, tres veces el valor diario de la Unidad de Medida y Actualización; hasta 105 hojas, cuatro veces el valor diario de la Unidad de Medida y Actualización; y de 106 hojas en adelante, cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-I. Búsqueda de expedientes y documentos, tres días de salario mínimo; certificación o expedición de copia certificada, un día de salario mínimo por hoja. Tratándose de certificación de averiguaciones previas, expedientes de procedimientos judiciales o administrativos, se cobrará hasta 15 hojas, 1 día de salario mínimo; hasta 40 hojas, 2 días de salario; hasta 70 hojas, 3 días de salario; hasta 105 hojas, 4 días de salario; y de 106 hojas en adelante, 5 días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II. Legalización o ratificación de firmas, por cada firma, tres días de salario mínimo;
+II. Legalización o ratificación de firmas, por cada firma, tres veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Resoluciones u opiniones administrativas, sobre documentos, operaciones o trámites y regularizaciones, 3 días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III. Resoluciones u opiniones administrativas, sobre documentos, operaciones o trámites y regularizaciones, tres veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV. Apostillamiento de documentos, cinco días de salario mínimo;
+IV. Apostillamiento de documentos, cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-V. Otorgamiento de constancia por el registro de título profesional ante el Poder Judicial del Estado, tres días de salario mínimo;
+V. Otorgamiento de constancia por el registro de título profesional ante el Poder Judicial del Estado, tres veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 VI. Impresión de copias de traslado en los emplazamientos por exhorto en los que se utilice la Comunicación Procesal electrónica, 60 centavos por hoja;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VII. Copia certificada o simple de los registros electrónicos de las audiencias que se llevan a cabo en los procedimientos, 1 día de salario mínimo, por cada disco que expida; y
+VII. Copia certificada o simple de los registros electrónicos de las audiencias que se llevan a cabo en los procedimientos, una vez el valor diario de la Unidad de Medida y Actualización, por cada disco que expida; y
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VIII. Registro de Valuador Profesional, seis días de salario mínimo.
+VIII. Registro de Valuador Profesional, seis veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 60.
 
 Los derechos por concepto de adscripción de aspirante, exámenes para obtener la patente de aspirante o el fíat de Notario Público, constancia de no inhabilitación para el servicio público y constancia de no antecedentes penales, se causarán conforme a lo siguiente:
 
-I. Por el examen para obtener la patente de aspirante de Notario Público, trescientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II. Por el examen para obtener el fiat de Notario Público, cuatrocientos cincuenta días de salario mínimo;
+I. Por el examen para obtener la patente de aspirante de Notario Público, trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Constancia de no inhabilitación par (sic) el servicio público, tres días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV. Constancia de no antecedentes penales, tres días de salario mínimo;
+II. Por el examen para obtener el fíat de Notario Público, cuatrocientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-V. En los términos de la Ley del Notariado para el Estado de Tamaulipas, por la adscripción de un aspirante a una Notaría Pública, 150 días de salario mínimo;
+III. Constancia de no inhabilitación para el servicio público, tres veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VI. Por la integración del expediente del aspirante a Notario Público, se pagarán ocho días de salario Mínimo; e
+IV. Constancia de no antecedentes penales, tres veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+V. En los términos de la Ley del Notariado para el Estado de Tamaulipas, por la adscripción de un aspirante a una Notaría Pública, ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VI. Por la integración del expediente del aspirante a Notario Público, se pagarán ocho veces el valor diario de la Unidad de Medida y Actualización; e
 
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 VII. Inscripción en la Dirección de Asuntos Notariales:
 
-a) Por el registro de la patente notarial, cien días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Por el registro de la firma y sello del notario, diez días de salario mínimo;
+a).- Por el registro de la patente notarial, cien veces el valor diario de la Unidad de Medida y Actualización;
 
-c) Por el registro de la patente de aspirantes a notarios públicos, diez días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-d) Por la autorización de cada libro del protocolo notarial, cinco días de salario mínimo;
+b).- Por el registro de la firma y sello del notario, diez veces el valor diario de la Unidad de Medida y Actualización;
 
-e) Por la conservación de cada libro y sus anexos (apéndice) del protocolo notarial, un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-f) Localización de instrumento inscrito en los protocolos, tres días de salario mínimo por año de búsqueda; expedición de copia certificada de los mismos, un día de salario mínimo; y
+c).- Por el registro de la patente de aspirantes a notarios públicos, diez veces el valor diario de la Unidad de Medida y Actualización;
 
-g) Expedición de testimonios, diez días de salario mínimo, despacho de copias certificadas para elaboración de testimonios, se cobrará hasta 15 hojas, 1 día de salario mínimo; hasta 40 hojas, 2 días de salario; hasta 70 hojas, 3 días de salario; hasta 105 hojas, 4 días de salario; y de 106 hojas en adelante, 5 días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+d).- Por la autorización de cada libro del protocolo notarial, cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+e).- Por la conservación de cada libro y sus anexos (apéndice) del protocolo notarial, una veces (sic) el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+f).- Localización de instrumento inscrito en los protocolos, tres veces el valor diario de la Unidad de Medida y Actualización por año de búsqueda; expedición de copia certificada de los mismos, dos veces el valor diario de la Unidad de Medida y Actualización si las hojas del documento no exceden de 15; de 16 a 30 hojas cuatro veces el valor diario de la Unidad de Medida y Actualización; de 31 a 50 hojas seis veces el valor diario de la Unidad de Medida y Actualización; de 51 en adelante siete veces el valor diario de la Unidad de Medida y Actualización; certificado con reserva de prioridad 10 veces el valor diario de la Unidad de Medida y Actualización; certificado informativo, de no propiedad, de única propiedad, índice de titulares e informes, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+g).- Expedición de testimonios, diez veces el valor diario de la Unidad de Medida y Actualización, despacho de copias certificadas para elaboración de testimonios, se cobrará hasta 15 hojas, una vez el valor diario de la Unidad de Medida y Actualización; hasta 40 hojas, dos veces el valor diario de la Unidad de Medida y Actualización; hasta 70 hojas, tres veces el valor diario de la Unidad de Medida y Actualización; hasta 105 hojas, cuatro veces el valor diario de la Unidad de Medida y Actualización; y de 106 hojas en adelante, cinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+h).- Por la búsqueda de aviso de testamento en el Registro Local de Avisos de Testamento y en su caso la expedición de constancia de existencia o inexistencia de disposición testamentaria, solicitadas por particulares que acrediten su interés legítimo, cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 61.
 
@@ -1499,11 +1653,11 @@ III. Las legalizaciones de firmas solicitadas oficiosamente por las autoridades 
 
 IV. Las copias certificadas, certificaciones, ratificaciones, cotejo, legalización de firmas, busca de copias de documentos solicitados oficiosamente, por servidores públicos del Gobierno del Estado, de los Municipios o de la Federación en ejercicio y en cumplimiento de sus funciones.
 
-### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE PREVENCION Y CONTROL DE LA CONTAMINACION DEL MEDIO AMBIENTE
+### CAPITULO V. DE LOS SERVICIOS PARA EL CONTROL VEHICULAR
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 62.
 
@@ -1511,53 +1665,45 @@ Los derechos por actas del Registro Civil se causarán conforme a la siguiente t
 
 I. INSCRIPCIONES.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+1.- Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias dictadas en las informaciones testimoniales relativas al nacimiento, defunción y demás hechos y actos del estado civil de las personas, una vez el valor diario de la Unidad de Medida y Actualización. La inscripción de hechos relativos al nacimiento, y la expedición de la primer acta certificada de nacimiento, se hará sin pago alguno de derechos;
 
-1. Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias dictadas en las informaciones testimoniales relativas al nacimiento, defunción y demás hechos y actos del estado civil de las personas, un día de salario mínimo. La inscripción de hechos relativos al nacimiento, y la expedición de la primer acta certificada de nacimiento, se hará sin pago alguno de derechos;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
-
-2. Inscripción de actas de matrimonio, diez días de salario mínimo, cuando se celebre en la oficialía; y veinticinco días de salario mínimo, cuando éste sea celebrado fuera de la sede de la oficialía, así como en día u hora inhábil; e
+2.- Inscripción de actas de matrimonio, diez veces el valor diario de la Unidad de Medida y Actualización, cuando se celebre en la oficialía; y veinticinco veces el valor diario de la Unidad de Medida y Actualización, cuando éste sea celebrado fuera de la sede de la oficialía, así como en día u hora inhábil; e
 
 3. Inscripción de actas de divorcio:
 
-a) Expedidas en el país, ocho días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Expedidas fuera del país, diez días de salario mínimo; y
+a).- Expedidas en el país, ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+b).- Expedidas fuera del país, diez veces el valor diario de la Unidad de Medida y Actualización; y
 
-c) Por el registro de divorcio tramitado en sede Notarial, ocho días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+c).- Por el registro de divorcio tramitado en sede Notarial, ocho veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-4. El registro de actos celebrados en el extranjero causarán una cuota igual al importe de diez días de salario mínimo;
+4.- El registro de actos celebrados en el extranjero causarán una cuota igual al importe de diez veces el valor diario de la Unidad de Medida y Actualización;
 
 II. REGULARIZACIONES Y CANCELACIONES.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+a).- La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual al importe de dos veces el valor diario de la Unidad de Medida y Actualización;
 
-a).- La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual al importe de dos días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+b).- La corrección de errores en inscripciones causará la cuota igual al importe de tres veces el valor diario de la Unidad de Medida y Actualización, y;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b).- La corrección de errores en inscripciones causará la cuota igual al importe de tres días de salario mínimo, y;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-c).- Por la anotación del cambio de régimen patrimonial del matrimonio, efectuado por la vía judicial o ante Notario Público, dos días de salario.
+c).- Por la anotación del cambio de régimen patrimonial del matrimonio, efectuado por la vía judicial o ante Notario Público, dos veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1565,31 +1711,51 @@ c).- Por la anotación del cambio de régimen patrimonial del matrimonio, efectu
 
 III. CERTIFICACIONES.
 
-a).- Por la expedición de certificaciones de actas y constancias que obren en los libros del Registro Civil, causarán la cuota igual al importe de un día de salario mínimo por hoja;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b).- Las certificaciones de firmas, inscripciones, anotaciones, índices o apéndices que obren en los libros o en la base de datos de cualquier Oficialía o del archivo central del Registro Civil, causarán la cuota igual al importe de un día de salario mínimo, por hoja, y;
+a).- Por la expedición de certificaciones de actas y constancias que obren en los libros del Registro Civil, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización por hoja;
 
-c).- Por la expedición de copias certificadas de actas que obren en la base de datos del Registro Civil, en lugar distinto al de su registro, por medio de la conexión estatal entre la Coordinación General, Oficialías y Cajeros Automatizados, el importe igual a un día de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b).- Las certificaciones de firmas, inscripciones, anotaciones, índices o apéndices que obren en los libros o en la base de datos de cualquier Oficialía o del archivo central del Registro Civil, causarán la cuota igual al importe de una vez el valor diario de la Unidad de Medida y Actualización, por hoja, y;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c).- Por la expedición de copias certificadas de actas que obren en la base de datos del Registro Civil, en lugar distinto al de su registro, por medio de la conexión estatal entre la Coordinación General, Oficialías y Cajeros Automatizados, el importe igual a una vez el valor diario de la Unidad de Medida y Actualización.
 
 IV. DIVORCIO ADMINISTRATIVO.
 
-Por la realización del trámite para la obtención de divorcio administrativo que efectúen las Oficialías del Registro Civil del Estado, incluyendo la anotación respectiva para la cancelación del matrimonio, se causará una cuota igual al importe de 30 días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Por la realización del trámite para la obtención de divorcio administrativo que efectúen las Oficialías del Registro Civil del Estado, incluyendo la anotación respectiva para la cancelación del matrimonio, se causará una cuota igual al importe de treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 V. DIVERSOS.
 
-a).- Por la búsqueda de actas, actos o documentos en los libros del archivo respectivo, y en su caso, la expedición de la constancia que previo a su búsqueda se determine que no obran asentados o no existen en los libros, dos días de salario mínimo; la búsqueda comprenderá periodos de diez años o fracción del registro que corresponda, si la búsqueda se solicita ante la Coordinación General, ésta se hará por municipio y, si se solicita ante alguna de las oficialías del Registro Civil, ésta se realizará únicamente en el acervo con que cuente la oficialía;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b).- La búsqueda de actas o registros en la base de datos del sistema del Registro Civil, se realizará de manera gratuita y, en su caso, la expedición de la constancia de inexistencia tendrá un costo de dos días de salario mínimo; la búsqueda comprenderá cualquier periodo que la base de datos contenga;
+a).- Por la búsqueda de actas, actos o documentos en los libros del archivo respectivo, y en su caso, la expedición de la constancia que previo a su búsqueda se determine que no obran asentados o no existen en los libros, dos veces el valor diario de la Unidad de Medida y Actualización; la búsqueda comprenderá periodos de diez años o fracción del registro que corresponda, si la búsqueda se solicita ante la Coordinación General, ésta se hará por municipio y, si se solicita ante alguna de las oficialías del Registro Civil, ésta se realizará únicamente en el acervo con que cuente la oficialía;
 
-c).- Por la emisión de constancias de registros extemporáneos, un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-d).- Por el trámite de actas foráneas inscritas en otros Estados de la República; así como por prestar el servicio de trámite de actas o constancias diversas, inscritas en el Estado, solicitadas de lugar distinto al de su inscripción, dos días de salario mínimo;
+b).- La búsqueda de actas o registros en la base de datos del sistema del Registro Civil, se realizará de manera gratuita y, en su caso, la expedición de la constancia de inexistencia tendrá un costo de dos veces el valor diario de la Unidad de Medida y Actualización; la búsqueda comprenderá cualquier periodo que la base de datos contenga;
 
-e).- Por la expedición de copias certificadas de actas, de distinto Estado del país, a través de la Conexión Interestatal entre la Coordinación General y la base nacional de datos de Registro Nacional de Población, el importe igual a tres días de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-f).- Por el trámite y expedición de constancias diversas derivadas de la actividad del registro civil, distintas a las enunciadas en las fracciones del presente artículo, un día de salario mínimo.
+c).- Por la emisión de constancias de registros extemporáneos, una vez el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+d).- Por el trámite de actas foráneas inscritas en otros Estados de la República; así como por prestar el servicio de trámite de actas o constancias diversas, inscritas en el Estado, solicitadas de lugar distinto al de su inscripción, dos veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+e).- Por la expedición de copias certificadas de actas, de distinto Estado del país, a través de la Conexión Interestatal entre la Coordinación General y la base nacional de datos de (sic) Registro Nacional de Población, el importe igual a tres veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+f).- Por el trámite y expedición de constancias diversas derivadas de la actividad del registro civil, distintas a las enunciadas en las fracciones del presente artículo, una vez el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 63.
 
@@ -1597,43 +1763,43 @@ En los derechos que se causen por matrimonios a domicilio, los Oficiales del Reg
 
 ###### Artículo 64.
 
-Los servicios que se presten en el Registro Público de la Propiedad Inmueble causarán derechos conforme a la siguiente tarifa:
+Los servicios que se presten en el Instituto Registral y Catastral del Estado de Tamaulipas causarán derechos conforme a la siguiente tarifa:
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-I. La inscripción o registro de títulos, ya se trate de documentos públicos o privados, fideicomisos, de resoluciones judiciales, administrativas, o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes muebles o inmuebles, sobre el valor 8 al millar;
+I. La inscripción o registro de títulos, ya se trate de documentos públicos o privados, fideicomisos, de resoluciones judiciales, administrativas, o de cualquier otra clase por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, sobre el valor 8 al millar; por lo que hace a la inscripción de Cancelaciones de cualquier índole, se pagará el importe de diez veces el valor diario de la Unidad de Medida y Actualización por inscripción practicada;
 
-II. Por la calificación de todo documento que se devuelva sin cumplimentar por carencia u omisión de requisitos, impedimento legal o a petición del interesado, cada vez que se presente, el importe de un día de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-III. La inscripción de la escritura constitutiva, cualquier modificación a la misma, aumento de capital social de sociedades civiles o asociaciones civiles sobre el capital, 4 al millar, si no se consigna el monto del capital social con el importe de 10 días de salario mínimo;
+II. Por la calificación de todo documento que se devuelva sin cumplimentar por carencia u omisión de requisitos, impedimento legal o a petición del interesado, cada vez que se presente, el importe de una vez el valor diario de la Unidad de Medida y Actualización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+III. La inscripción de la escritura constitutiva, cualquier modificación a la misma, aumento de capital social de sociedades civiles o asociaciones civiles sobre el capital, 4 al millar, si no se consigna el monto del capital social con el importe de diez veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Por la revocación o renuncia de los poderes, por cada una se cobrará cinco días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IV. Por la revocación o renuncia de los poderes, por cada apoderado se cobrará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles y muebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, 4 al millar. La inscripción de cédulas hipotecarias, con el importe de diez días de salario mínimo. La inscripción de sujeción a litigio, con el importe de seis días de salario por anotación.
+V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, 4 al millar. La inscripción de cédulas hipotecarias, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización. La inscripción de sujeción a litigio, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización por anotación.
 
-En el caso de ampliación de embargo previamente registrado, aun tratándose de diversos inmuebles, con el importe de siete días de salario mínimo.
+En el caso de ampliación de embargo previamente registrado, aun tratándose de diversos inmuebles, con el importe de siete veces el valor diario de la Unidad de Medida y Actualización.
 
 VI. La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío otorgados por instituciones de crédito, de seguros o de fianzas sobre el importe de la operación, 4 al millar;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+VII. La inscripción de las informaciones ad-perpetuam, en las que no se adquiera el dominio o posesión de bienes inmuebles, con el importe de cinco veces el valor diario de la Unidad de Medida y Actualización; por finca.
 
-VII. La inscripción de las informaciones ad-perpetuam, en las que no se adquiera el dominio o posesión de bienes inmuebles, con el importe de cinco días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+VIII. La inscripción de testamentos y de constancias relativas a actuaciones en juicios sucesorios, independientemente de los derechos por depósito de la inscripción de transmisiones a que haya lugar, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización;
 
-VIII. La inscripción de testamentos y de constancias relativas a actuaciones en juicios sucesorios, independientemente de los derechos por depósito de la inscripción de transmisiones a que haya lugar, con el importe de diez días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IX. La inscripción de la condición de resolutoria sobre bienes muebles en los casos de venta, de pacto de reserva de dominio, de la prenda en general, de la prenda de frutos pendientes de bienes raíces y de la prenda de títulos de créditos, el 75 por ciento de las cuotas que establece la fracción I de este artículo y al practicarse la inscripción complementaria se cobrará el 25 por ciento restante;
+IX. La inscripción de la condición de resolutoria sobre bienes inmuebles en los casos de venta, de pacto de reserva de dominio, de la prenda en general, de la prenda de frutos pendientes de bienes raíces y de la prenda de títulos de créditos, el 75 por ciento de las cuotas que establece la fracción I de este artículo y al practicarse la inscripción complementaria se cobrará el 25 por ciento restante;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1641,67 +1807,81 @@ IX. La inscripción de la condición de resolutoria sobre bienes muebles en los 
 
 X. La inscripción de fraccionamientos de terrenos, así como de actos, contratos, convenios o resoluciones judiciales o administrativas por las que se lotifique, relotifique, divida, subdivida o fusione un inmueble por cada lote que resulte, causarán los derechos de inscripción siguientes:
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-a) Lote urbano, siete días de salario mínimo;
+a).- Lote urbano, siete veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Lote rústico, cinco días de salario mínimo;
+b).- Lote rústico, cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Por la inscripción de la constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad siete días de salario mínimo.
+Por la inscripción de la constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad siete veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XI. El depósito de testamentos y expedición de constancias respectivas, por cada una cinco días de salario mínimo;
+En el caso de las fusiones, el pago de derechos se hará, en los términos citados, por cada uno de los lotes fusionados, más el lote resultante.
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XII. La cancelación del registro de cada sociedad civil o asociación civil por extinción de las mismas con el importe de diez días de salario mínimo;
+XI. El depósito de testamentos, búsqueda de testamento y expedición de constancias respectivas, por cada una cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XIII. La cancelación de las inscripciones en los casos a que se refieren las fracciones V, VI y VII, con el importe de diez días de salario mínimo, por cada anotación;
+XII. La cancelación del registro de cada sociedad civil o asociación civil por extinción de las mismas con el importe de diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XIV. La cancelación de las inscripciones relativas a los casos comprendidos en la fracción IX de este artículo, con el importe de diez días de salario mínimo;
+XIII. La cancelación de las inscripciones en los casos a que se refieren las fracciones V, VI, VII, XXII, XXIII y XXIV con el importe de diez veces el valor diario de la Unidad de Medida y Actualización, por cada anotación y por cada finca;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XV. Búsqueda de documentos, un día de salario mínimo; certificación o expedición de copia certificada de los mismos, un día de salario mínimo; si las hojas del documento no exceden de 7; de 8 a 15 hojas dos días de salario mínimo; de 16 a 30 hojas tres días de salario mínimo; de 31 a 50 hojas cuatro días de salario mínimo; de 50 en adelante cinco días de salario mínimo; certificado con reserva de prioridad 10 días de salario mínimo; certificado informativo, de no propiedad, de única propiedad, índice de titulares e informes, con el importe de seis días de salario mínimo;
+XIV. La cancelación de las inscripciones relativas a los casos comprendidos en la fracción IX de este artículo, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XV. Certificación o expedición de copia certificada de los mismos, dos veces el valor diario de la Unidad de Medida y Actualización si las hojas del documento no exceden de 15; de 16 a 30 hojas cuatro veces el valor diario de la Unidad de Medida y Actualización; de 31 a 50 hojas seis veces el valor diario de la Unidad de Medida y Actualización; de 51 en adelante siete veces el valor diario de la Unidad de Medida y Actualización; certificado con reserva de prioridad diez veces el valor diario de la Unidad de Medida y Actualización; certificado informativo, de no propiedad, de única propiedad, con el importe de seis veces el valor diario de la Unidad de Medida y Actualización; por cuanto hace a la solicitud de búsqueda de antecedentes registrales e índice de titulares de personas físicas y/o morales se cobrará el importe de seis veces el valor diario de la Unidad de Medida y Actualización;
 
 XVI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+XVII. Por la expedición de avisos preventivos en los cuales se adquiera, trasmita, modifique o extinga el dominio o la posesión total o parcial de bienes inmuebles, o de contratos no mercantiles de enajenación de bienes inmuebles, el importe de diez veces el valor diario de la Unidad de Medida y Actualización, por cada propiedad;
 
-XVII. Por la anotación de avisos preventivos de compraventa, hipotecas y donaciones, el importe de diez días de salario mínimo, por cada propiedad;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+XVIII. Por la inscripción de contratos de mutuo con garantía hipotecaria celebrados entre particulares, diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2011)</small>
+XIX. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 
-XVIII. Por la inscripción de contratos de mutuo con o sin garantía hipotecaria celebrados entre particulares, 10 días de salario mínimo;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XIX. Por la consulta de un legajo, dos días de salario mínimo;
+XX. Por la inscripción de aclaración de actos, contratantes, bienes, derechos, y demás datos consagrados en el documento previamente inscrito en el Instituto Registral y Catastral del Estado, o por cualquier tipo de anotación, siete veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+XXI. Por la inscripción de los títulos expedidos por el Registro Agrario Nacional tres veces el valor diario de la Unidad de Medida y Actualización;
 
-XX. Por la rectificación o aclaración de documentos inscritos en el Instituto Registral y Catastral del Estado, siete días de salario mínimo; y
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+XXII. Por la inscripción de contratos de arrendamiento, 4 al millar;
 
-XXI. Por la inscripción de los títulos expedidos por el Registro Agrario Nacional tres días de salario mínimo.
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-El importe de los derechos señalados en las fracciones I, III, V, VI, IX, y XVIII de éste artículo, en ningún caso será inferior al equivalente de dos días de salario mínimo.
+XXIII. Por la inscripción de Contratos de Comodato, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización; y
 
-Cuando los servicios se presten a través de telefax o cualquier otro medio de comunicación se cobrarán adicionalmente cinco días de salario mínimo por hoja.
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XXIV. Por la inscripción de Contratos de Promesa de Compra-Venta, con el importe de diez veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+El importe de los derechos señalados en las fracciones I, III, V, VI, IX, y XVIII de éste artículo, en ningún caso será inferior al equivalente de dos veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Cuando los servicios se presten a través de telefax o cualquier otro medio de comunicación se cobrarán adicionalmente cinco veces el valor diario de la Unidad de Medida y Actualización por hoja.
 
 ###### Artículo 65.
 
@@ -1729,11 +1909,9 @@ V. Para la aplicación de los derechos comprendidos en la fracción I del artíc
 
 VI. Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, el valor se determinará en la suma de estas, si se puede determinar exactamente su cuantía, en caso contrario se tomará como base, la cantidad que resulte, haciendo el cómputo por un año; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
-
-VII. En los casos en que los servicios que preste el Registro Público de la Propiedad Inmueble y del Comercio, no se encuentren expresamente previstos en esta Sección, los derechos que a ellos corresponda se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza, y; si por la naturaleza del acto no fuera susceptible asimilarlo a los actos comprendidos en esta Sección, causará derechos por su anotación a razón de siete días de salario mínimo.
+VII. En los casos en que los servicios que preste el Instituto Registral y Catastral del Estado de Tamaulipas, no se encuentren expresamente previstos en esta Sección, los derechos que a ellos corresponda se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza, y; si por la naturaleza del acto no fuera susceptible asimilarlo a los actos comprendidos en esta Sección, causará derechos por su anotación a razón de siete veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1751,11 +1929,15 @@ I. Por la inscripción de las escrituras de terrenos que no excedan de 250 metro
 
 Para que se otorgue el beneficio señalado, el contribuyente debe acreditar no ser propietario de otro bien inmueble con constancia expedida por el Instituto Registral y Catastral del Estado.
 
-II. Por la parte que exceda al importe de 3 días de salario mínimo general vigente en la capital del Estado, a los causados por la inscripción de actos traslativos de dominio y de garantías reales o fiduciarias, cuando la adquisición consista en terrenos que se destinen a la construcción de casas habitación, así como adquisición de vivienda, siempre y cuando la superficie de terreno no exceda de 250 metros cuadrados y la construcción no tenga una superficie mayor a los 100 Metros cuadrados y se contraten a través de los programas de apoyo a la vivienda que se instrumenten por los Gobiernos Federal, del Estado y sus Municipios, así como sus organismos descentralizados; así como las adquiridas con créditos otorgados por instituciones financieras o concedido por los patrones a sus trabajadores. Dicha exención será aplicable sólo a aquellas personas físicas que no posean otra propiedad, lo cual acreditarán con constancia expedida por la Dirección del Registro Público de la Propiedad Inmueble y del Comercio;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II. Por la parte que exceda al importe de 3 veces el valor diario de la Unidad de Medida y Actualización, a los causados por la inscripción de actos traslativos de dominio y de garantías reales o fiduciarias, cuando la adquisición consista en terrenos que se destinen a la construcción de casas habitación, así como adquisición de vivienda, siempre y cuando la superficie de terreno no exceda de 250 metros cuadrados y la construcción no tenga una superficie mayor a los 100 Metros cuadrados y se contraten a través de los programas de apoyo a la vivienda que se instrumenten por los Gobiernos Federal, del Estado y sus Municipios, así como sus organismos descentralizados; así como las adquiridas con créditos otorgados por instituciones financieras o concedido por los patrones a sus trabajadores. Dicha exención será aplicable sólo a aquellas personas físicas que no posean otra propiedad, lo cual acreditarán con constancia expedida por el Instituto Registral y Catastral del Estado de Tamaulipas;
 
 III. Por la inscripción de la cancelación de reserva de dominio solicitada por los organismos citados en la fracción anterior;
 
-IV. Por la inscripción de bienes inmuebles o derechos reales pertenecientes, al Gobierno del Estado, sus organismos descentralizados y a los Municipios;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV. Por la inscripción de bienes inmuebles o derechos reales pertenecientes a la Nación, al Gobierno de Tamaulipas, sus Municipios y Organismos Públicos Descentralizados;
 
 V. Por la inscripción de títulos dentro del Programa de Regularización de la Tenencia de la Tierra en propiedad o posesión particular en el territorio del Estado, que permita la reinscripción al programa de Apoyos Directos al Campo, de los predios rurales privados, con superficies elegibles, carentes de documentación y libre de toda litis, que ya estén inscritos en dicho Programa, sin importar el nombre de éste;
 
@@ -1783,7 +1965,7 @@ No se causarán los derechos a que se refieren los artículos 64 y 68 de esta Le
 
 ###### Artículo 68.
 
-Los servicios que se presten en el Registro Público del Comercio causarán derechos de acuerdo con la siguiente tarifa:
+Los servicios que se presten en el Instituto Registral y Catastral del Estado de Tamaulipas causarán derechos de acuerdo con la siguiente tarifa:
 
 I. El examen de todo documento, sea público o privado, que se presente al Registro para su inscripción, cuando se rehúse éste por no ser inscribible o cuando por otros motivos se devuelva sin inscribir, dos días de salario mínimo;
 
@@ -1815,9 +1997,7 @@ Por la revocación o renuncia de los poderes, por cada una se cobrará diez día
 
 XII. Por la inscripción y revocación de poderes diferentes a los anteriores, con el importe de cuatro días de salario mínimo;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
-
-XIII. La inscripción de habilitación de edad, licencia y emancipación para ejercer el comercio, licencia marital o el requisito que, en su defecto necesite la mujer para los mismos fines, la revocación de unos y otros y las escrituras y documentos a que se refieren las fracciones X y XI del artículo 21 del Código de Comercio con el importe de diez días de salario mínimo;
+XIII. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 
 XIV. La inscripción de contratos mercantiles de cualquier clase, derivados de los actos enumerados en el artículo 75 del Código de Comercio, sobre el valor 8 al millar;
 
@@ -1839,13 +2019,13 @@ XVIII. Anotaciones de fianzas, contra-fianzas, u obligaciones solidarias con el 
 
 XIX. Por el registro del sello y firma que deben efectuar los corredores públicos en los términos de la Ley Federal de Correduría Pública, diez días de salario mínimo;
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XX. Por la aclaración de los actos realizados por el Registro Público del Comercio cinco días de salario mínimo; y
+XX. Por la aclaración de los actos realizados por el Instituto Registral y Catastral del Estado de Tamaulipas cinco veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XXI. Por la cancelación de los actos realizados por el Registro Público del Comercio cinco días de salario mínimo.
+XXI. Por la cancelación de los actos realizados por el Instituto Registral y Catastral del Estado de Tamaulipas cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
@@ -1865,13 +2045,19 @@ IV. Cuando deban hacerse inscripciones de distintas operaciones que se derivan d
 
 V. Los contratos que tengan prestaciones periódicas se valuarán en la suma de éstos, si se puede determinar exactamente su cuantía; en caso contrario por lo que resultare, haciendo el cómputo por un año; y
 
-VI. En los casos no previstos expresamente en el artículo anterior, los derechos por servicios, que se presten en el Registro Público de Comercio, se causarán por asimilación, en los términos de las fracciones relativas, a casos con los que guarden semejanza.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VI. En los casos no previstos expresamente en el artículo anterior, los derechos por servicios, que se presten en el Instituto Registral y Catastral del Estado de Tamaulipas, se causarán por asimilación, en los términos de las fracciones relativas, a casos con los que guarden semejanza.
 
 ###### Artículo 70.
 
 No se causarán los derechos a que se refiere el artículo 68 por las inscripciones de las Sociedades Cooperativas Escolares.
 
-### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
+### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE PREVENCION Y CONTROL DE LA CONTAMINACION DEL MEDIO AMBIENTE
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 71.
 
@@ -1879,57 +2065,99 @@ Los servicios que prestan las autoridades educativas del Estado causarán derech
 
 I. Certificación de estudios:
 
-1. Certificación de estudios de nivel básico, 75 por ciento de un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Certificación de estudios de nivel medio superior, tres días de salario mínimo;
+1.- Certificación de estudios de nivel básico, 75 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-3. Expedición de duplicado de certificado de estudios básicos y nivel medio-superior, 75 por ciento de un día de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-4. Expedición de duplicado de certificado de estudios de nivel superior, dos días de salario mínimo.
+2.- Certificación de estudios de nivel medio superior, tres veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+3.- Expedición de duplicado de certificado de estudios básicos y nivel medio-superior, 75 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+4.- Expedición de duplicado de certificado de estudios de nivel superior, dos veces el valor diario de la Unidad de Medida y Actualización.
 
 II. Exámenes:
 
-1. Examen a título de suficiencia en estudios de nivel básico, 75 por ciento de un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Examen extraordinario de regularización en estudios de nivel básico y medio superior, 50 por ciento de un día de salario mínimo; y
+1.- Examen a título de suficiencia en estudios de nivel básico, 75 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-3. Examen extraordinario de regularización en estudios de nivel superior, un día de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2.- Examen extraordinario de regularización en estudios de nivel básico y medio superior, 50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+3.- Examen extraordinario de regularización en estudios de nivel superior, una vez el valor diario de la Unidad de Medida y Actualización.
 
 III. Diplomas:
 
-1. Expedición de diploma de estudios básicos y nivel medio-superior, 75 por ciento de un día de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Expedición de diploma de estudios superiores, tres días de salario mínimo.
+1.- Expedición de diploma de estudios básicos y nivel medio-superior, 75 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2.- Expedición de diploma de estudios superiores, tres veces el valor diario de la Unidad de Medida y Actualización.
 
 IV. Revalidaciones:
 
-1. Revalidación de estudios de primaria, 50 por ciento de un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Revalidación de estudios de secundaria por grado, 50 por ciento de un día de salario mínimo;
+1.- Revalidación de estudios de primaria, 50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-3. Revalidación de estudios de preparatoria, cinco días de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-4. Revalidación de estudios de nivel superior, quince días de salario mínimo.
+2.- Revalidación de estudios de secundaria por grado, 50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+3.- Revalidación de estudios de preparatoria, cinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+4.- Revalidación de estudios de nivel superior, quince veces el valor diario de la Unidad de Medida y Actualización.
 
 V. Revisión de estudios:
 
-1. Revisión de estudios en nivel de estudios básico, 25 por ciento de un día de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Revisión de estudios en nivel de superior, 50 por ciento de un día de salario mínimo.
+1.-Revisión de estudios en nivel de estudios básico, 25 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2.- Revisión de estudios en nivel de superior, 50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización.
 
 VI. Diversos:
 
-1. Expedición de carta de docencia, 25 por ciento de un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Legalización de documentos de Universidad y Normal Superior, 75 por ciento de un día de salario mínimo;
+1.- Expedición de carta de docencia, 25 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-3. Comprobación de cumplimiento de requisitos en estudios de nivel primaria, 25 por ciento de un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-4. Comprobación de cumplimiento de requisitos en estudios de nivel secundaria, 50 por ciento de un día de salario mínimo;
+2.- Legalización de documentos de Universidad y Normal Superior, 75 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-5. Corrección de nombre en nivel de estudios básico, 25 por ciento de un día de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-6. Comprobación de cumplimiento de requisitos en estudios de nivel medio superior y superior, un día de salario mínimo por alumno.
+3.- Comprobación de cumplimiento de requisitos en estudios de nivel primaria, 25 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+4.- Comprobación de cumplimiento de requisitos en estudios de nivel secundaria, 50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+5.- Corrección de nombre en nivel de estudios básico, 25 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+6.- Comprobación de cumplimiento de requisitos en estudios de nivel medio superior y superior, una vez el valor diario de la Unidad de Medida y Actualización por alumno.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1937,17 +2165,19 @@ VI. Diversos:
 
 VII. Por solicitud, estudio y resolución del trámite de:
 
-1.- Reconocimiento de validez oficial de estudios de tipo medio superior y superior, por programa académico, 130 días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2.- Cambios a cada plan y programa de estudio de tipo medio superior y superior con reconocimiento de validez oficial, 55 días de salario mínimo; y
+1.- Reconocimiento de validez oficial de estudios de tipo medio superior y superior, por programa académico, ciento treinta veces el valor diario de la Unidad de Medida y Actualización;
 
-3.- Cambio o ampliación de domicilio, o establecimiento de un plantel adicional, respecto de cada plan de estudios con reconocimiento de validez oficial, 50 días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO VIII. DERECHOS DE COOPERACION
+2.- Cambios a cada plan y programa de estudio de tipo medio superior y superior con reconocimiento de validez oficial, cincuenta y cinco veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+3.- Cambio o ampliación de domicilio, o establecimiento de un plantel adicional, respecto de cada plan de estudios con reconocimiento de validez oficial, cincuenta veces el valor diario de la Unidad de Medida y Actualización.
+
+### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
 
 ###### Artículo 72.
 
@@ -1957,79 +2187,135 @@ I. REGISTROS CATASTRALES.
 
 1. Revisión, cálculo y registro sobre planos de fraccionamiento o lotificaciones, por metro cuadrado;
 
-a) Urbanos en general, 0.50 por ciento de un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Urbanos, Viviendas Populares, 0.25 por ciento de un día de salario mínimo; y
+a).- Urbanos en general, 0.50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-c) Campestres o industriales, 0.25 por ciento de un día de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b).- Urbanos, Viviendas Populares, 0.25 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c).- Campestres o industriales, 0.25 por ciento de una vez el valor diario de la Unidad de Medida y Actualización.
 
 2. Revisión, cálculo, aprobación y registro sobre planos de predios.
 
 a) Urbanos y suburbanos, sobre el valor catastral, 1 al millar;
 
-b) Rústico cuyo valor no exceda de cinco días de salario mínimo, 2.5 por ciento de un día de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-c) Rústico cuyo valor catastral sea superior a 5 días de salario mínimo, pagarán la cuota del inciso anterior y sobre el excedente de dicho valor el 1.5 por ciento.
+b).- Rústico cuyo valor no exceda de cinco veces el valor diario de la Unidad de Medida y Actualización, 2.5 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
 
-3. Revisión, cálculo, aprobación y registro de manifiestos de propiedad, un día de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c).- Rústico cuyo valor catastral sea superior a cinco veces el valor diario de la Unidad de Medida y Actualización, pagarán la cuota del inciso anterior y sobre el excedente de dicho valor el 1.5 por ciento.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+3.- Revisión, cálculo, aprobación y registro de manifiestos de propiedad, una vez el valor diario de la Unidad de Medida y Actualización.
 
 II. CERTIFICACIONES CATASTRALES.
 
-a) Las (sic) certificación de registro sobre planos de predios proporcionados por los contribuyentes, tres días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) La certificación de valores catastrales, de superficies catastrales, de nombre del propietario, poseedor o detentador de un predio, de colindancias y dimensiones, de inexistencia de registro a nombre del solicitante y, en general, de manifiestos o datos de los mismos que obren en los archivos de la Secretaría de Finanzas, tres días de salario mínimo; y
+a).- Las (sic) certificación de registro sobre planos de predios proporcionados por los contribuyentes, tres veces el valor diario de la Unidad de Medida y Actualización;
 
-c) Búsqueda de documentos catastrales, tres días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b).- La certificación de valores catastrales, de superficies catastrales, de nombre del propietario, poseedor o detentador de un predio, de colindancias y dimensiones, de inexistencia de registro a nombre del solicitante y, en general, de manifiestos o datos de los mismos que obren en los archivos de la Secretaría de Finanzas, tres veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c).- Búsqueda de documentos catastrales, tres veces el valor diario de la Unidad de Medida y Actualización.
 
 III. AVALUOS PERICIALES.
 
-Sobre el valor de los mismos, 2 al millar en ningún caso el importe a pagar será menor de tres días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Sobre el valor de los mismos, 2 al millar en ningún caso el importe a pagar será menor de tres veces el valor diario de la Unidad de Medida y Actualización.
 
 IV. SERVICIOS TOPOGRAFICOS.
 
-1. Deslinde de predios urbanos, por metro cuadrado, 5 por ciento de un día de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+1. Deslinde de predios urbanos, por metro cuadrado, 5 por ciento de una vez el valor diario de la Unidad de Medida y Actualización.
 
 2. Deslinde de predios suburbanos y rústicos, por hectárea:
 
-a) Terrenos planos desmontados 50 por ciento de un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Terrenos planos con monte 60 por ciento de un día de salario mínimo;
+a).- Terrenos planos desmontados 50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-c) Terrenos con accidentes topográficos desmontados 70 por ciento de un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-d) Terrenos con accidentes topográficos con monte 80 por ciento de un día de salario mínimo; y
+b).- Terrenos planos con monte 60 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-e) Terrenos accidentados un día de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-3. Para los dos incisos, anteriores, cualquiera que sea la superficie del predio, el importe de los derechos no podrá ser inferior a cinco días de salario mínimo.
+c).- Terrenos con accidentes topográficos desmontados 70 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+d).- Terrenos con accidentes topográficos con monte 80 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+e).- Terrenos accidentados una vez el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+3. Para los dos incisos, anteriores, cualquiera que sea la superficie del predio, el importe de los derechos no podrá ser inferior a cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 4. Dibujo de planos topográficos urbanos, escalas hasta 1:500:
 
-a) Tamaño del plano hasta de 30 x 30 centímetros, cinco días de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Sobre el excedente del tamaño anterior, por decímetro cuadrado o fracción 10 por ciento de un día de salario mínimo.
+a).- Tamaño del plano hasta de 30 x 30 centímetros, cinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b).- Sobre el excedente del tamaño anterior, por decímetro cuadrado o fracción 10 por ciento de una vez el valor diario de la Unidad de Medida y Actualización.
 
 5. Dibujo de planos topográficos suburbanos y rústicos, escalas mayor a 1:500:
 
-a) Polígono de hasta seis vértices, cinco días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Por cada vértice adicional 10 por ciento de un día de salario mínimo; y
+a).- Polígono de hasta seis vértices, cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-c) Planos que exceden de 50 x 50 centímetros sobre los incisos anteriores, causarán derechos por cada decímetro cuadrado adicional o fracción 10 por ciento de un día de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-6. Localización y ubicación del predio tres días de un salario mínimo.
+b).- Por cada vértice adicional 10 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c).- Planos que exceden de 50 x 50 centímetros sobre los incisos anteriores, causarán derechos por cada decímetro cuadrado adicional o fracción 10 por ciento de una vez el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+6. Localización y ubicación del predio tres veces el valor diario de la Unidad de Medida y Actualización.
 
 V. SERVICIOS DE COPIADO.
 
 1. Copias heliográficas de planos que obren en los archivos de la Secretaría de Finanzas del Estado:
 
-a) Hasta de 30 X 30 centímetros dos días de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) En tamaños mayores, por cada decímetro cuadrado adicional o fracción 1 al millar de un día de salario mínimo.
+a).- Hasta de 30 X 30 centímetros dos veces el valor diario de la Unidad de Medida y Actualización; y
 
-2. Copias fotostáticas de planos o manifiestos que obren en los archivos de la Secretaría de Finanzas del Estado, hasta tamaño oficio, 20 por ciento de un día de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO IX. DE LOS SERVICIOS DIVERSOS
+b).- En tamaños mayores, por cada decímetro cuadrado adicional o fracción 1 al millar de una vez el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2.- Copias fotostáticas de planos o manifiestos que obren en los archivos de la Secretaría de Finanzas del Estado, hasta tamaño oficio, 20 por ciento de una vez el valor diario de la Unidad de Medida y Actualización.
+
+### CAPITULO VIII. DERECHOS DE COOPERACION
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 73.
 
@@ -2041,9 +2327,13 @@ Con base en las tarifas previstas en este precepto, el Ejecutivo del Estado, por
 
 I. Servicios de control vehicular, que se prestan:
 
-a) Por ingreso o refrendo anual en el padrón de vehículos de motor o remolques, dieciocho días de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Por expedición, reposición o canje de placas de vehículos de motor o remolques, de servicio particular y de servicio público de transporte, cinco días de salario mínimo;
+a).- Por ingreso o refrendo anual en el padrón de vehículos de motor o remolques, dieciocho veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b).- Por expedición, reposición o canje de placas de vehículos de motor o remolques, de servicio particular y de servicio público de transporte, cinco veces el valor diario de la Unidad de Medida y Actualización;
 
 Las personas físicas o morales que adquieran vehículos de motor o remolques, nuevos o usados, que no cuenten con placas vigentes del Estado de Tamaulipas, deberán efectuarlo dentro de los quince días siguientes a la fecha de adquisición.
 
@@ -2055,35 +2345,61 @@ II. La asignación del número de control vehicular y de la documentación corre
 
 1.- De pasajeros:
 
-a) Sitio, treinta y seis días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Libre, treinta y seis días de salario mínimo; y
+a).- Sitio, treinta y seis veces el valor diario de la Unidad de Medida y Actualización;
 
-c) De ruta, treinta y seis días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b).- Libre, treinta y seis veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c).- De ruta, treinta y seis veces el valor diario de la Unidad de Medida y Actualización.
 
 2.- Especializados:
 
-a) Escolar, treinta y seis días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Personal, sesenta y cuatro días de salario mínimo;
+a).- Escolar, treinta y seis veces el valor diario de la Unidad de Medida y Actualización;
 
-c) Turístico y diversiones, treinta y seis días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-d) Servicio de emergencia particulares, treinta y seis días de salario mínimo; y
+b).- Personal, sesenta y cuatro veces el valor diario de la Unidad de Medida y Actualización;
 
-e) Funerarios, treinta y seis días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c).- Turístico y diversiones, treinta y seis veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+d).- Servicio (sic) de emergencia particulares, treinta y seis veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+e).- Funerarios, treinta y seis veces el valor diario de la Unidad de Medida y Actualización.
 
 3.- Carga:
 
-a) Materiales y sustancias, treinta y seis días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Mudanzas, treinta y seis días de salario mínimo;
+a).- Materiales y sustancias, treinta y seis veces el valor diario de la Unidad de Medida y Actualización;
 
-c) Grúas y plataformas, cien días de salario mínimo
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-d) Mensajería y valores, cien días de salario mínimo; y
+b).- Mudanzas, treinta y seis veces el valor diario de la Unidad de Medida y Actualización;
 
-e) Reparto de productos o servicios, treinta y seis días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c).- Grúas y plataformas, cien veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+d).- Mensajería y valores, cien veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+e).- Reparto de productos o servicios, treinta y seis veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2103,41 +2419,59 @@ IV. Por la expedición de placas de demostración, cincuenta días de salario m�
 
 V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2011)
 
-VI. Por la expedición de la constancia de cumplimiento de requisitos para la obtención de concesiones y permisos para la prestación del servicio público del transporte, así como para la prórroga de su vigencia, cien días de salario mínimo, por cada unidad;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VII. Por la autorización para la cesión de derechos y obligaciones derivados de una concesión para la prestación del servicio público de transporte, cien días de salario mínimo, por cada unidad;
+VI. Por la expedición de la constancia de cumplimiento de requisitos para la obtención de concesiones y permisos para la prestación del servicio público del transporte, así como para la prórroga de su vigencia, cien veces el valor diario de la Unidad de Medida y Actualización, por cada unidad;
 
-VIII. Por el otorgamiento de permiso para la prestación del servicio privado de transporte de pasajeros y de carga en el Estado, treinta días de salario mínimo, por cada unidad;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IX. Por el otorgamiento de permisos ocasionales para el transporte de carga, diez días de salario mínimo, por cada vehículo, por día;
+VII. Por la autorización para la cesión de derechos y obligaciones derivados de una concesión para la prestación del servicio público de transporte, doscientos veces el valor diario de la Unidad de Medida y Actualización, por cada unidad;
 
-X. Por la certificación de los términos de referencia para realizar estudios técnicos para la autorización de modificaciones de recorrido y nuevas rutas, doscientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII. Por el otorgamiento de permiso para la prestación del servicio privado de transporte de pasajeros y de carga en el Estado, treinta veces el valor diario de la Unidad de Medida y Actualización, por cada unidad;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XI. Por la expedición de licencia de chofer para conducir vehículos en los que se preste el servicio público del transporte, diez días de salario mínimo, dicha licencia tendrá una vigencia de dos años, contados a partir de la fecha de su expedición;
+IX. Por el otorgamiento de permisos ocasionales para el transporte de carga, diez veces el valor diario de la Unidad de Medida y Actualización, por cada vehículo, por día;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+X. Por la certificación de los términos de referencia para realizar estudios técnicos para la autorización de modificaciones de recorrido y nuevas rutas, doscientas veces el valor diario de la Unidad de Medida y Actualización;
 
-XII. Por la expedición del tarjetón de identidad del conductor de vehículos de servicio público, cuatro días de salarlo mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XIII. Por la autorización de modificaciones de recorrido y de nuevas rutas del servicio público de transporte de pasajeros, doscientos cincuenta días de salario mínimo;
+XI. Por la expedición de licencia de chofer para conducir vehículos en los que se preste el servicio público del transporte, diez veces el valor diario de la Unidad de Medida y Actualización, dicha licencia tendrá una vigencia de dos años, contados a partir de la fecha de su expedición;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XII. Por la expedición del tarjetón de identidad del conductor de vehículos de servicio público, cuatro veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XIII. Por la autorización de modificaciones de recorrido y de nuevas rutas del servicio público de transporte de pasajeros, doscientos (sic) cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
 XIV. Por la aplicación de exámenes a los choferes del servicio público de transporte se cobrará lo siguiente:
 
-a) Certificación de exámenes de conocimiento, aptitud y pericia, diez días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Examen físico, médico y psicológico, cinco días de salario mínimo; y
+a).- Certificación de exámenes de conocimiento, aptitud y pericia, diez veces el valor diario de la Unidad de Medida y Actualización;
 
-c) Examen toxicológico, diez días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XV. Por reposición de la tarjeta de circulación y por el trámite de la solicitud de baja, en el control vehicular, en cada caso seis días de salario mínimo; si la solicitud de baja en el control vehicular corresponde a un vehículo con placas de otra entidad federativa, se pagarán diez días de salario mínimo;
+b).- Examen físico, médico y psicológico, cinco veces el valor diario de la Unidad de Medida y Actualización; y
 
-XVI. Por la expedición de permiso provisional de circulación para el servicio particular, seis días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c).- Examen toxicológico, diez veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XV. Por reposición de la tarjeta de circulación y por el trámite de la solicitud de baja, en el control vehicular, en cada caso seis veces el valor diario de la Unidad de Medida y Actualización; si la solicitud de baja en el control vehicular corresponde a un vehículo con placas de otra entidad federativa, se pagarán diez veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XVI. Por la expedición de permiso provisional de circulación para el servicio particular, seis veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -2145,21 +2479,33 @@ XVII. Por la expedición de licencia de conducir para:
 
 1.- Chofer Particular:
 
-a).- Duración de 2 años, ocho días de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b).- Duración de 3 años, doce días de salario mínimo.
+a).- Duración de 2 años, ocho veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b).- Duración de 3 años, doce veces el valor diario de la Unidad de Medida y Actualización.
 
 2.- Automovilista:
 
-a).- Duración de 2 años, ocho días de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b).- Duración de 3 años, doce días de salario mínimo.
+a).- Duración de 2 años, ocho veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b).- Duración de 3 años, doce veces el valor diario de la Unidad de Medida y Actualización.
 
 3.- Motociclista:
 
-a).- Duración de 2 años, ocho días de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b).- Duración de 3 años, doce días de salario mínimo.
+a).- Duración de 2 años, ocho veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b).- Duración de 3 años, doce veces el valor diario de la Unidad de Medida y Actualización.
 
 Se entenderá que la vigencia de la licencia de conducir, según se trate de su expedición por primera vez o renovación de la misma, comprende hasta el día y mes correspondientes a la fecha de nacimiento del titular de la misma.
 
@@ -2173,27 +2519,25 @@ Por la reimpresión de licencia de conducir vigente se cobrará el 50% de lo est
 
 XVIII. Por el envío de documentación oficial a domicilio, se cobrará lo siguiente:
 
-a).- Documentación enviada a domicilio dentro del mismo municipio de registro o zona conurbada dentro del Estado, un día y medio de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b).- Documentación enviada a municipio distinto al de registro dentro del Estado o a un Estado diferente al de Tamaulipas, dos días y medio de salario mínimo.
+a).- Documentación enviada a domicilio dentro del mismo municipio de registro o zona conurbada dentro del Estado, una vez y media el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+b).- Documentación enviada a municipio distinto al de registro dentro del Estado o a un Estado diferente al de Tamaulipas, dos veces y media la Unidad de Medida y Actualización.
 
-XIX. Búsqueda de registro vehicular en otras entidades federativas, tres días de salario mínimo, por cada búsqueda;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIX. Búsqueda de registro vehicular en otras entidades federativas, tres veces el valor diario de la Unidad de Medida y Actualización, por cada búsqueda;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XX. Por la expedición de Cédula de Inspección Vehicular, documental y mecánica, tres días de salario mínimo; y
+XX. Por la expedición de Cédula de Inspección Vehicular, documental y mecánica, tres veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-XXI. Por la expedición de la cédula de emisión de gases contaminantes, cuatro días de salario mínimo.
+XXI. Por la expedición de la cédula de emisión de gases contaminantes, cuatro veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2203,35 +2547,39 @@ XXI. Por la expedición de la cédula de emisión de gases contaminantes, cuatro
 
 Se exime del pago de los derechos previstos en el artículo anterior, en los siguientes casos:
 
-I. De un 50 por ciento a los comprendidos en las fracciones I, inciso a) y b), en una sola ocasión por año, tratándose de vehículos cuyos propietarios sean adultos mayores, así como jubilados y pensionados domiciliados en el Estado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+I. De un 50 por ciento a los comprendidos en la fracción I, incisos a) y b), en una sola ocasión por año, tratándose de vehículos cuyos propietarios sean adultos mayores, así como jubilados y pensionados domiciliados en el Estado;
 
 II. De un 50 por ciento, a los comprendidos en la fracción XVII; tratándose de adultos mayores, así como a los jubilados y pensionados domiciliados en el Estado; y
 
-III. De un 100 por ciento a los comprendidos en las fracciones I, inciso a) y b), en una sola ocasión por año, tratándose de vehículos con la necesidad de asignación de placas de circulación con identificación de "discapacitado" cuyos propietarios cumplan con la normatividad vigente establecida por el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, y que reúnan los siguientes requisitos:
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-a) En el caso de personas físicas:
+III. De un 100 por ciento a los comprendidos en la fracción I, incisos a) y b), en una sola ocasión por año, tratándose de vehículos con la necesidad de asignación de placas de circulación con identificación de “discapacidad”, cuyos propietarios cumplan con la normatividad vigente establecida por el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, y que reúnan los siguientes requisitos:
 
-1. Vehículos cuyos propietarios sean personas con discapacidad motora y neuromotora permanente; y
+a).- En el caso de personas físicas:
 
-2. Vehículos cuyos propietarios sean padres o tutores de hijos con discapacidad motora y neuromotora permanente;
+1.- Vehículos cuyos propietarios sean personas con discapacidad motora y neuromotora permanente, y que utilicen algún tipo de aditamento para desplazarse, como muletas, andador, bastón, silla sobre ruedas, órtesis o prótesis; y
 
-b) En el caso de personas morales:
+2.- Vehículos cuyos propietarios sean padres o tutores de hijos con discapacidad motora y neuromotora permanente, y que utilicen algún tipo de aditamento para desplazarse, como muletas, andador, bastón, silla sobre ruedas, silla sobre ruedas especial tipo carriola, órtesis o prótesis;
 
-1. Vehículos a nombre de Centros Especializados en Rehabilitación debidamente constituidos para personas con discapacidad motora y neuromotora;
+b).- En el caso de personas morales:
 
-2. Vehículo a nombre de Asociaciones Civiles debidamente constituidas que cuenten y atiendan a personas con discapacidad motora y neuromotora permanente; y
+1.- Vehículos a nombre de Centros Especializados en Rehabilitación debidamente constituidos para personas con discapacidad motora y neuromotora y que utilicen algún tipo de aditamento para desplazarse, como muletas, andador, bastón, silla sobre ruedas, silla sobre ruedas especial tipo carriola, órtesis o prótesis;
 
-3. Vehículos a nombre de Asociaciones Religiosas debidamente registradas ante la Secretaría de Gobernación y que briden (sic) atención a integrantes con discapacidad motora y neuromotora permanente.
+2.- Vehículos a nombre de Asociaciones Civiles debidamente constituidas que cuenten y atiendan a personas con discapacidad motora y neuromotora permanente y que utilicen algún tipo de aditamento para desplazarse, como muletas, andador, bastón, silla sobre ruedas, silla sobre ruedas especial tipo carriola, órtesis o prótesis; y
 
-Asimismo, se podrá otorgar placas con identificación de "discapacitado" sin aplicar la exención a que se refiere esta fracción, siendo efectivo su pago normal, en los casos en que la persona propietaria del vehículo no sea la persona discapacitada así como a vehículos a nombre de sociedad o asociación que cuente con adaptaciones para el traslado de su personal laboral con discapacidad motora y neuromotora y cumplan con la normatividad que a efecto establece el Sistema Integral para el Desarrollo de la Familia en el Estado.
+3.- Vehículos a nombre de Asociaciones Religiosas debidamente registradas ante la Secretaría de Gobernación y que brinden atención a integrantes con discapacidad motora y neuromotora permanente y que utilicen algún tipo de aditamento para desplazarse, como muletas, andador, bastón, silla sobre ruedas, silla sobre ruedas especial tipo carriola, órtesis o prótesis.
 
-En todos los casos, se podrá asignar hasta un segundo juego de placas de circulación con identificación de "discapacitado" siendo efectivo su pago normal de acuerdo a lo establecido en el artículo anterior.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO X. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS
+Asimismo, se podrá otorgar placas con identificación de “discapacidad” sin aplicar la exención a que se refiere esta fracción, siendo efectivo su pago normal, en los casos en que la persona propietaria del vehículo no sea la persona discapacitada, así como a vehículos a nombre de sociedad o asociación que cuente con adaptaciones para el traslado de su personal laboral con discapacidad motora y neuromotora permanente y que utilicen algún tipo de aditamento para desplazarse, como muletas, andador, bastón, silla sobre ruedas, silla sobre ruedas especial tipo carriola, órtesis o prótesis, y cumplan con la normatividad que para ese efecto establece el Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+En todos los casos, se podrá asignar hasta un segundo juego de placas de circulación con identificación de “discapacidad” siendo efectivo su pago normal de acuerdo a lo establecido en el artículo anterior.
+
+### CAPITULO IX. DE LOS SERVICIOS DIVERSOS
 
 ###### Artículo 75.
 
@@ -2255,13 +2603,21 @@ I. Por los servicios de registro de descarga de aguas residuales, conforme a la 
 
 1. Por tipo de empresas:
 
-a) Microempresa, doce días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Pequeña empresa, noventa y seis días de salario mínimo;
+a).- Microempresa, doce veces el valor diario de la Unidad de Medida y Actualización;
 
-e) Mediana empresa, ciento cincuenta y cinco días de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-d) Gran empresa, ciento noventa y ocho días de salario mínimo.
+b).- Pequeña empresa, noventa y seis veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c).- Mediana empresa, ciento cincuenta y cinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+d).- Gran empresa, ciento noventa y ocho veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2269,83 +2625,119 @@ d) Gran empresa, ciento noventa y ocho días de salario mínimo.
 
 2. Por la aplicación de características particulares de descarga, conforme a la siguiente tarifa:
 
-a) Microempresa, un día de salario mínimo por parámetro a exentar;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Pequeña empresa, dos días de salario mínimo por parámetro a exentar;
+a).- Microempresa, una vez el valor diario de la Unidad de Medida y Actualización por parámetro a exentar;
 
-c) Mediana empresa, tres día de salario mínimo por parámetro a exentar; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-d) Gran empresa, cuatro días de salario mínimo por parámetro a exentar.
+b).- Pequeña empresa, dos veces el valor diario de la Unidad de Medida y Actualización por parámetro a exentar;
 
-3. Por copia de registros de descarga de aguas residuales otorgado, un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-4. Por cambio de razón social, tres días de salario mínimo; y
+c).- Mediana empresa, tres veces el valor diario de la Unidad de Medida y Actualización por parámetro a exentar; y
 
-5. Por copia de otorgamiento de características particulares de descarga otorgados, un día de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-6. Por el análisis de las descargas de aguas residuales, hasta 96 días de salario mínimo;
+d).- Gran empresa, cuatro veces el valor diario de la Unidad de Medida y Actualización por parámetro a exentar.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+3.- Por copia de registros de descarga de aguas residuales otorgado, una vez el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+4.- Por cambio de razón social, tres veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+5.- Por copia de otorgamiento de características particulares de descarga otorgados, una vez el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+6.- Por el análisis de las descargas de aguas residuales, hasta noventa y seis veces el valor diario de la Unidad de Medida y Actualización;
 
 II. Por los servicios que a continuación se señalan, se pagarán las siguientes cuotas:
 
-1. Por la recepción y evaluación del informe preventivo, ochenta días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Por la recepción y evaluación de la manifestación del impacto ambiental ciento treinta días de salario mínimo;
+1.- Por la recepción y evaluación del informe preventivo, ochenta veces el valor diario de la Unidad de Medida y Actualización;
 
-3. Por la revalidación de evaluación del impacto ambiental, veinte días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+2.- Por la recepción y evaluación de la manifestación del impacto ambiental ciento treinta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-4. Por el otorgamiento de la autorización de manejo y para la operación de sitios de disposición final de residuos de manejo especial, doscientos un días de salario mínimo;
+3.- Por la revalidación de evaluación del impacto ambiental, veinte veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+4.- Por el otorgamiento de la autorización de manejo y para la operación de sitios de disposición final de residuos de manejo especial, doscientas un veces el valor diario de la Unidad de Medida y Actualización;
 
-5. Resolutivos de impacto ambiental, diez días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-6. Evaluación del estudio de riesgo, setenta y cinco días de salario mínimo.
+5.- Resolutivos de impacto ambiental, diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2008)</small>
+6.- Evaluación del estudio de riesgo, setenta y cinco veces el valor diario de la Unidad de Medida y Actualización; y
 
-7. Por la realización de las visitas técnicas en los procesos de evaluación, veinticinco días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+7.- Por la realización de las visitas técnicas en los procesos de evaluación, veinticinco veces el valor diario de la Unidad de Medida y Actualización.
 
 III. Por el derecho de ingreso de visitantes ecoturistas a las áreas naturales protegidas, declaradas por el Titular del Ejecutivo Estatal:
 
-1. Adultos, medio día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Menores de 13 años, 20 por ciento de un día de salario mínimo;
+1. Adultos, la mitad de una vez del valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2. Menores de 13 años, 20 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
 3. Vehículos automotores:
 
-a) Automóviles y motocicletas, un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) Camionetas, 3 días de salario mínimo; y
+a).- Automóviles y motocicletas, una vez el valor diario de la Unidad de Medida y Actualización;
 
-c) Camiones y ómnibus, 5 días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+b).- Camionetas, tres veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+c).- Camiones y ómnibus, cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 Tratándose de profesores, estudiantes e investigadores pagarán el 50 por ciento del derecho correspondiente.
 
 IV. Por el uso de instalaciones del Gobierno del Estado en áreas naturales protegidas, por cada día y por persona:
 
-1. Visitante ecoturista, 3 días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Estudiantes e investigadores un día y medio de salario mínimo.
+1.- Visitante ecoturista, tres veces el valor diario de la Unidad de Medida y Actualización; y
 
-V. Por el uso de áreas destinadas a campismo, dentro de las áreas naturales protegidas, un día de salario mínimo por persona y por cada día;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VI. Por la concesión de servicios en áreas ecológicas protegidas, hasta 415 días de salario mínimo;
+2.- Estudiantes e investigadores una vez y media el valor diario de la Unidad de Medida y Actualización.
 
-VII. Por los estudios de flora y fauna silvestres, el 20 por ciento de un día de salario mínimo por hectárea;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V. Por el uso de áreas destinadas a campismo, dentro de las áreas naturales protegidas, una vez el valor diario de la Unidad de Medida y Actualización por persona y por cada día;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VIII. Por la evaluación de los estudios de daños ambientales, quinientos días de salario mínimo, sin perjuicio de las multas u otras sanciones a que se hiciera acreedor;
+VI. Por la concesión de servicios en áreas ecológicas protegidas, hasta cuatrocientas quince veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VII. Por los estudios de flora y fauna silvestres, el 20 por ciento de una vez el valor diario de la Unidad de Medida y Actualización por hectárea;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VIII. Por la evaluación de los estudios de daños ambientales, quinientas veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las multas u otras sanciones a que se hiciera acreedor;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2353,81 +2745,65 @@ VIII. Por la evaluación de los estudios de daños ambientales, quinientos días
 
 IX. Por la autorización para la recolección y transporte de residuos de manejo especial para empresas prestadoras de servicios, por unidad motora y capacidad de carga siguientes:
 
-1.- Menos de 5 toneladas de capacidad de carga, treinta días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2.- De 5 toneladas hasta 15 toneladas de capacidad de carga, cuarenta y un días de salario mínimo;
+1.- Menos de 5 toneladas de capacidad de carga, treinta veces el valor diario de la Unidad de Medida y Actualización;
 
-3.- Mas de 15 toneladas de capacidad de carga, cincuenta y dos días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2.- De 5 toneladas hasta 15 toneladas de capacidad de carga, cuarenta y una vez el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+3.- Más de 15 toneladas de capacidad de carga, cincuenta y dos veces el valor diario de la Unidad de Medida y Actualización;
 
 X. Por la inscripción en el Registro Estatal Ambiental, se pagarán las siguientes cuotas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL,VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+1.- Microempresa, once veces el valor diario de la Unidad de Medida y Actualización;
 
-1. Microempresa, once días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+2.- Pequeña empresa, cuarenta y ocho veces y media el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Pequeña empresa, cuarenta y ocho días y medio de salario mínimo;
+3.- Mediana empresa, setenta y siete veces y media el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-3. Mediana empresa, setenta y siete días y medio de salario mínimo; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-4. Gran empresa, noventa días de salario mínimo.
+4.- Gran empresa, noventa veces el valor diario de la Unidad de Medida y Actualización.
 
 XI. Por el cambio de Registro Estatal Ambiental, se pagarán las siguientes cuotas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+1.- Microempresa, once veces el valor diario de la Unidad de Medida y Actualización;
 
-1. Microempresa, once días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+2.- Pequeña empresa, cuarenta y ocho veces y media el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Pequeña empresa, cuarenta y ocho días y medio de salario mínimo;
+3.- Mediana empresa, setenta y siete veces y media el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+4.- Gran empresa, noventa veces el valor diario de la Unidad de Medida y Actualización.
 
-3. Mediana empresa, setenta y siete días y medio de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Por la evaluación de Cédulas de Operación Anual presentadas en forma extemporánea cuarenta veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-4. Gran empresa, noventa días de salario mínimo.
+En el caso de la evaluación de Cédulas de Operación Anual de las que no se hayan presentado reportes anteriores, sesenta veces el valor diario de la Unidad de Medida y Actualización por periodo anual no reportado. Las empresas que inicien operaciones durante el año calendario y quieran obtener el Registro Estatal Ambiental después de la fecha límite de entrega, solo efectuarán el pago por inscripción;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-Por la evaluación de Cédulas de Operación Anual presentadas en forma extemporánea cuarenta días de salario mínimo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-En el caso de la evaluación de Cédulas de Operación Anual de las que no se hayan presentado reportes anteriores, sesenta días de salario por periodo anual no reportado. Las empresas que inicien operaciones durante el año calendario y quieran obtener el Registro Estatal Ambiental después de la fecha límite de entrega, solo efectuarán el pago por inscripción;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
-
-XII. Por el otorgamiento de licencia, autorización o concesión para el establecimiento y funcionamiento de un centro de verificación de contaminantes atmosféricos generados por fuentes móviles, así como por cada unidad móvil, mil días de salario mínimo, según se trate. Dicho cobro se realizará anualmente durante la vigencia de la licencia, autorización o concesión otorgada.
+XII. Por el otorgamiento de licencia, autorización o concesión para el establecimiento y funcionamiento de un centro de verificación de contaminantes atmosféricos generados por fuentes móviles, así como por cada unidad móvil, mil veces el valor diario de la Unidad de Medida y Actualización, según se trate. Dicho cobro se realizará anualmente durante la vigencia de la licencia, autorización o concesión otorgada;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2435,67 +2811,59 @@ XII. Por el otorgamiento de licencia, autorización o concesión para el estable
 
 XIII. Por los servicios de verificación vehicular de medición de los niveles de contaminación por vehículos automotores:
 
-1. Por vehículos particulares a gas o gasolina, cuatro días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Por vehículos de transporte público a gas o gasolina, cinco días de salario mínimo;
+1.- Por vehículos particulares a gas o gasolina, cuatro veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-3. Por los vehículos particulares a diesel, seis días de salario mínimo;
+2.- Por vehículos de transporte público a gas o gasolina, cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-4. Por vehículos de transporte público a diesel, siete días de salario mínimo; y
+3.- Por los vehículos particulares a diesel, seis veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-5. Por la expedición del holograma correspondiente, hasta tres días de salario mínimo.
+4.- Por vehículos de transporte público a diesel, siete veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+5.- Por la expedición del holograma correspondiente, hasta tres veces el valor diario de la Unidad de Medida y Actualización.
 
-XIV. Por la explotación y aprovechamiento de recursos minerales o sustancias no reservadas a la Federación, un quince por ciento de un día de salario mínimo por metro cúbico proyectado a utilizarse.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIV. Por la explotación y aprovechamiento de recursos minerales o sustancias no reservadas a la Federación, un quince por ciento de una vez el valor diario de la Unidad de Medida y Actualización por metro cúbico proyectado a utilizarse;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XV. Por el registro en el Padrón de Prestadores de Servicios Técnicos en Materia Ambiental, cincuenta días de salario mínimo.
+XV. Por el registro en el Padrón de Prestadores de Servicios Técnicos en Materia Ambiental, cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+XVI. Por la recepción, evaluación y resolución de los permisos de operación de fuentes fijas y estacionarias emisoras de contaminantes de competencia estatal, veinte veces el valor diario de la Unidad de Medida y Actualización;
 
-XVI. Por la recepción, evaluación y resolución de los permisos de operación de fuentes fijas y estacionarias emisoras de contaminantes de competencia estatal, veinte días de salario mínimo
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVII. Por la actualización o modificación en el permiso de operación de fuentes fijas y estacionarias emisoras de contaminantes de competencia estatal, diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XVII. Por la actualización o modificación en el permiso de operación de fuentes fijas y estacionarias emisoras de contaminantes de competencia estatal, diez días de salario mínimo;
+XVIII. Por la recepción, evaluación y resolución de la autorización para un almacenamiento temporal o para un centro de acopio de residuos de manejo de residuos de manejo especial, veinte veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-XVIII. Por la recepción, evaluación y resolución de la autorización para un almacenamiento temporal o para un centro de acopio de residuos de manejo de residuos de manejo especial, veinte días de salario mínimo; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-XIX. Por prórroga de la autorización para la recolección y transporte de residuos de manejo especial cuando no exista modificación a la autorización, un veinte por ciento de un día de salario mínimo por unidad de motor y capacidad de carga que corresponda.
+XIX. Por prórroga de la autorización para la recolección y transporte de residuos de manejo especial cuando no exista modificación a la autorización, un veinte por ciento de una vez el valor diario de la Unidad de Medida y Actualización por unidad de motor y capacidad de carga que corresponda.
 
 ###### Artículo 76.
 
 (DEROGADO, P.O. 17 DE DICIEMBRE DE 2014)
 
-### CAPITULO UNICO
+### CAPITULO X. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO UNICO
 
@@ -2509,11 +2877,17 @@ Los servicios prestados por administración y control del desarrollo urbano se c
 
 l. Expedición de certificados de uso de suelo:
 
-1. Habitacional, cinco días de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Otros, veinte días de salario mínimo.
+1.- Habitacional, cinco veces el valor diario de la Unidad de Medida y Actualización; y
 
-II. Expedición de certificados de destino, dos días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2.- Otros, veinte veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II. Expedición de certificados de destino, dos veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 78.
 
@@ -2521,25 +2895,41 @@ Por la revisión y, en su caso, aprobación de anteproyectos de fraccionamientos
 
 I. Habitacional Residencial:
 
-1. Fraccionamientos, 3 por ciento de día de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Relotificaciones, 5 por ciento de día de salario mínimo.
+1.- Fraccionamientos, 3 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2.- Relotificaciones, 5 por ciento el valor diario de la Unidad de Medida y Actualización.
 
 II. Habitacional Medio:
 
-1. Fraccionamientos, 1.5 por ciento de día de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Relotificaciones, 3 por ciento de día de salario mínimo.
+1.- Fraccionamientos, 1.5 por ciento el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2.- Relotificaciones, 3 por ciento el valor diario de la Unidad de Medida y Actualización.
 
 III. Habitacional Popular:
 
-1. Fraccionamientos, .80 por ciento de día de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Relotificaciones, 1.5 por ciento de día de salario mínimo.
+1.- Fraccionamientos, .80 por ciento el valor diario de la Unidad de Medida y Actualización; y
 
-IV. Agropecuario, 2 por ciento de día de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-V. Régimen de propiedad en condominio habitacional, 4 por ciento de día de salario mínimo.
+2.- Relotificaciones, 1.5 por ciento el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV.- Agropecuario, 2 por ciento el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+V.- Régimen de propiedad en condominio habitacional, 4 por ciento el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO UNICO
 
@@ -2555,77 +2945,95 @@ Se causarán derechos por cooperación para ejecución de obra de interés públ
 
 Los propietarios o poseedores de predios que se encuentren dentro del área de beneficio de las obras públicas, causarán los derechos de cooperación que establece el Decreto citado en el artículo anterior.
 
-### CAPITULO XVI. DE LOS CRITERIOS DE INTERPRETACION
+### CAPITULO UNICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 81.
 
 Por la expedición de licencias para el funcionamiento de establecimientos o locales que enajenan total o parcialmente al público en general bebidas alcohólicas, se causarán conforme a lo siguiente:
 
-I. Restaurantes, bares de los hoteles y moteles, restaurantes bar, bares, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de recepción, billares y boliches, con el importe de cuatrocientos días de salario mínimo. Los cabarets, centros nocturnos y discotecas, con el importe de mil quinientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II. Loncherías, fondas, coctelerías, taquerías, cenadurías, comedores y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior, con el importe de ciento cincuenta días de salario mínimo;
+I.- Restaurantes, bares de los hoteles y moteles, restaurantes bar, bares, cafés cantantes, centros de espectáculos, centros recreativos y deportivos o club, casino, círculo o club social, salones de recepción, billares y boliches, con el importe de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización. Los cabarets, centros nocturnos y discotecas, con el importe de mil quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Supermercados, con el importe de cuatrocientos cincuenta días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV. Minisúperes y abarrotes, con el importe de doscientos días de salario mínimo. Licorerías, depósitos, agencias, subagencias, expendios, almacenes, bodegas, envasadoras y distribuidoras, con el importe de cuatrocientos días de salario mínimo;
+II.- Loncherías, fondas, coctelerías, taquerías, cenadurías, comedores y otros establecimientos similares que tengan por giro la venta y consumo de alimentos no comprendidos en la fracción anterior, con el importe de ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Cantinas, tabernas, cervecerías y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe trescientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VI. Permisos para eventuales, como los que se instalan en ferias, bailes, kermesses, salones de baile y eventos deportivos, con el importe de 30 días de salario mínimo, por fecha; y
+III.- Supermercados, con el importe de cuatrocientas cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. Por el trámite de la solicitud de expedición de licencia que se devuelva sin otorgar por carencia u omisión de requisitos o impedimento legal, diez días de salario mínimo.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV.- Minisúperes y abarrotes, con el importe de doscientas veces el valor diario de la Unidad de Medida y Actualización. Licorerías, depósitos, agencias, subagencias, expendios, almacenes, bodegas, envasadoras y distribuidoras, con el importe de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+V.- Cantinas, tabernas, cervecerías y otros establecimientos similares no comprendidos en la fracción I de este artículo, con el importe trescientas veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VI.- Permisos para eventuales, como los que se instalan en ferias, bailes, kermesses, salones de baile y eventos deportivos, con el importe de treinta veces el valor diario de la Unidad de Medida y Actualización, por fecha; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VII.- Por el trámite de la solicitud de expedición de licencia que se devuelva sin otorgar por carencia u omisión de requisitos o impedimento legal, diez veces el valor diario de la Unidad de Medida y Actualización.
 
 Cuando por primera vez se expida licencia para la enajenación de bebidas alcohólicas en el segundo semestre del año, se aplicará el 50 por ciento del importe.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 82.
 
-Por los servicios para el control en el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, se pagará el 1.50 porciento de un día de salario mínimo, por metro cuadrado o fracción del área del predio.
+Por Dictamen de Impacto Urbano que resulte procedente de cualquier fraccionamiento se pagarán 100 veces el valor diario de la Unidad de Medida y Actualización, y por los servicios para el control en el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, se pagará el 1.50 por ciento de una vez el valor diario de la Unidad de Medida y Actualización, por metro cuadrado o fracción del área del predio.
 
 ###### Artículo 83.
 
 Por el levantamiento geográfico y posicionamiento satelital en la red geodésica estatal de cualquier predio en la entidad, georeferenciado de acuerdo a la zona, se pagará:
 
-I. Zona Norte, los municipios de Nuevo Laredo, Mier, Camargo, Miguel Alemán, Díaz Ordaz, Matamoros, Reynosa, Río Bravo, Valle Hermoso y San Fernando, sesenta días de salario mínimo, por vértice;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II. Zona Centro, el municipio de Victoria, quince días de salario mínimo, por vértice; y
+I. Zona Norte, los municipios de Nuevo Laredo, Mier, Camargo, Miguel Alemán, Díaz Ordaz, Matamoros, Reynosa, Río Bravo, Valle Hermoso y San Fernando, sesenta veces el valor diario de la Unidad de Medida y Actualización, por vértice;
 
-III. Zona Sur, los municipios de Tampico, Ciudad Madero y Altamira, cuarenta y cinco días de salario mínimo, por vértice.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-En los municipios no comprendidos en las fracciones anteriores se pagará, cuarenta y cinco días de salario mínimo, por vértice.
+II. Zona Centro, el municipio de Victoria, quince veces el valor diario de la Unidad de Medida y Actualización, por vértice; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III. Zona Sur, los municipios de Tampico, Ciudad Madero y Altamira, cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización, por vértice.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+En los municipios no comprendidos en las fracciones anteriores se pagará, cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización, por vértice.
 
 ###### Artículo 84.
 
 Por la expedición de los documentos siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+I.- Compendios de planes que componen el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, en archivos digitales, se pagarán doscientas diez veces el valor diario de la Unidad de Medida y Actualización;
 
-I.- Compendios de planes que componen el Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, en archivos digitales, se pagarán doscientos diez días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II.- Plan o Programa que forme parte del Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, en archivos digitales, se pagarán catorce veces el valor diario de la Unidad de Medida y Actualización, si se proporciona en impresión a color, en papel esencial, tamaño .90 x 1.20 m.; se pagarán setenta veces el valor diario de la Unidad de Medida y Actualización por hoja o cara impresa;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- Plan o Programa que forme parte del Sistema Estatal de Planeación e Información Geográfica para el Desarrollo Urbano, en archivos digitales, se pagarán catorce días de salario mínimo, si se proporciona en impresión a color, en papel esencial, tamaño .90 x 1.20 m.; se pagarán setenta días de salario mínimo por hoja o cara impresa;
+III.- Los que integran el Registro Estatal del Patrimonio Histórico, Artístico, Edificado, versión estatal completa, en archivos digitales, se pagarán doscientas diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+IV.- Los que integran el Registro Estatal del Patrimonio Histórico, Artístico, Edificado, en archivos digitales, de cada municipio, se pagarán catorce veces el valor diario de la Unidad de Medida y Actualización; y
 
-III.- Los que integran el Registro Estatal del Patrimonio Histórico, Artístico, Edificado, versión estatal completa, en archivos digitales, se pagarán doscientos diez días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-IV.- Los que integran el Registro Estatal del Patrimonio Histórico, Artístico, Edificado, en archivos digitales, de cada municipio, se pagarán catorce días de salario mínimo; y
-
-V.- Impresión a color de cartografía con valor histórico, artístico y cultural en papel especial, tamaño .90 x 1.20 m., se pagarán sesenta días de salario mínimo por hoja o cara impresa.
+V.- Impresión a color de cartografía con valor histórico, artístico y cultural en papel especial, tamaño .90 x 1.20 m., se pagarán sesenta veces el valor diario de la Unidad de Medida y Actualización por hoja o cara impresa.
 
 ###### Artículo 85.
 
@@ -2633,35 +3041,49 @@ Los servicios proporcionados en materia de protección civil y de seguridad priv
 
 I. Por la prestación de servicios por la elaboración de estudios y/o manifestaciones de:
 
-1. Impacto ambiental, treinta días de salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Análisis de riesgo ambiental, treinta días de salario mínimo,
+1.- Impacto ambiental, treinta veces el valor diario de la Unidad de Medida y Actualización; y
 
-II. Por la emisión de dictámenes y/o resoluciones de análisis de riesgo, de treinta hasta trescientos días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II. Por la certificación de los programas de seguridad de los establecimientos en que se reúnan personas que puedan correr riesgos por eventos de emergencia, de cincuenta, hasta trescientos días de salario mínimo;
+2.- Análisis de riesgo ambiental, treinta veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Capacitación a empresas privadas, de cincuenta hasta trescientos días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+II. Por la emisión de dictámenes y/o resoluciones de análisis de riesgo, de treinta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Por la capacitación, actualización, especialización y profesionalización de integrantes de empresas privadas de protección y vigilancia, se pagarán, diariamente por cada elemento, el importe equivalente a seis días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+III. Por la certificación de los programas de seguridad de los establecimientos en que se reúnan personas que puedan correr riesgos por eventos de emergencia, de cincuenta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-VI. Por la certificación anual a empresas privadas que presten servicios de protección y vigilancia, se pagará el importe equivalente a ciento cuarenta y cinco días de salario mínimo; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+IV. Capacitación a empresas privadas, de cincuenta hasta trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. Por la aplicación de cada examen que las Instituciones de Seguridad Privada requieran para evaluar a los elementos que las conforman a razón de 75 salarios mínimos, por cada evaluación.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+V. Por la capacitación, actualización, especialización y profesionalización de integrantes de empresas privadas de protección y vigilancia, se pagarán, diariamente por cada elemento, el importe equivalente a seis veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VI. Por la certificación anual a empresas privadas que presten servicios de protección y vigilancia, se pagará el importe equivalente a ciento cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VII. Por la aplicación de cada examen que las Instituciones de Seguridad Privada requieran para evaluar a los elementos que las conforman a razón de setenta y cinco veces el valor diario de la Unidad de Medida y Actualización, por cada evaluación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 86.
 
-Por la expedición de constancia de cumplimiento de requisitos para la celebración de eventos de regulación especial, el importe equivalente a sesenta días de salario mínimo.
+Por la expedición de constancia de cumplimiento de requisitos para la celebración de eventos de regulación especial, el importe equivalente a sesenta veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 87.
 
-Por los servicios de almacenaje de bienes en bodegas o locales proporcionados por el Gobierno del Estado, se pagarán derechos de almacenaje un día de salario mínimo, por cada día, por metro cúbico.
+Por los servicios de almacenaje de bienes en bodegas o locales proporcionados por el Gobierno del Estado, se pagarán derechos de almacenaje una vez el valor diario de la Unidad de Medida y Actualización, por cada día, por metro cúbico.
 
 ###### Artículo 88.
 
@@ -2669,31 +3091,41 @@ El servicio por publicaciones en el Periódico Oficial del Estado, causará dere
 
 I. PRECIO DEL PERIODICO OFICIAL.
 
-1. Ejemplar del día, 30 por ciento de un día de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Ejemplar atrasado, 60 por ciento de un día de salario mínimo;
+1. Ejemplar del día, 30 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-3. Ejemplar extraordinario o con anexo hasta 20 páginas, 60 por ciento de un día de salario mínimo; de 21 a 50 páginas, dos días de salario mínimo; y con más de 50 páginas, cinco días de salario mínimo;
+2. Ejemplar atrasado, 60 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+3. Ejemplar extraordinario o con anexo hasta 20 páginas, 60 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; de 21 a 50 páginas, dos veces el valor diario de la Unidad de Medida y Actualización; y con más de 50 páginas, cinco veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 4. Suscripción semestral, treinta y un días de salario mínimo. El pago deberá efectuarse con un mes de anticipación a los siguientes períodos optativos: enero a junio y de julio a diciembre, o de abril a septiembre y de octubre a marzo; y
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-5. Por el envío de ejemplares a domicilio se cobrará, dos días y medio de salario mínimo.
+5.- Por el envío de ejemplares a domicilio se cobrará, dos veces y media el valor diario de la Unidad de Medida y Actualización.
 
 II. PUBLICACIONES.
 
-1. Avisos judiciales, edictos, convocatorias, requerimientos, autorizaciones, 0.4 por ciento de un día de salario mínimo por palabra, por cada publicación; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Por plana, cuarenta días de salario mínimo por cada publicación.
+1.- Avisos judiciales, edictos, convocatorias, requerimientos, autorizaciones, 0.4 por ciento de una vez el valor diario de la Unidad de Medida y Actualización por palabra, por cada publicación; y
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2.- Por plana, cuarenta veces el valor diario de la Unidad de Medida y Actualización por cada publicación.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 89.
 
-Por la prestación del servicio de telefonía rural a través de la red de Telecomunicaciones del Gobierno del Estado, se pagará el 20 por ciento de un día de salario mínimo por evento a destinos nacionales y en el caso de destinos internacionales el costo por evento será de 80 por ciento de un día de salario mínimo.
+Por la prestación del servicio de telefonía rural a través de la red de Telecomunicaciones del Gobierno del Estado, se pagará el 20 por ciento de una vez el valor diario de la Unidad de Medida y Actualización por evento a destinos nacionales y en el caso de destinos internacionales el costo por evento será de 80 por ciento de una vez el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 90.
 
@@ -2707,23 +3139,27 @@ Por la prestación del servicio de telefonía rural a través de la red de Telec
 
 ###### Artículo 92.
 
-Por los servicios prestados por los entes públicos señalados en el artículo 5 párrafo
+Por los servicios prestados por los entes públicos señalados en el artículo 5 párrafo 1, incisos a) al f) de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, en el ejercicio de la libertad de información pública, se causarán conforme a lo siguiente:
 
-1, incisos a) al f) de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, en el ejercicio de la libertad de información pública, se causarán conforme a lo siguiente:
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+I. Por la expedición de copia simple, se pagará 3 por ciento de una vez el valor diario de la Unidad de Medida y Actualización, por hoja;
 
-I. Por la expedición de copia simple, se pagará 3 por ciento de un día de salario mínimo, por hoja;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2013)</small>
+II. Por expedición de copia certificada, se pagará 5 por ciento de una vez el valor diario de la Unidad de Medida y Actualización, por hoja;
 
-II. Por expedición de copia certificada, se pagará 5 por ciento de un día de salario mínimo, por hoja.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-III. Por expedición de copia a color, se pagará 40 por ciento de un día de salario mínimo por hoja;
+III. Por expedición de copia a color, se pagará 40 por ciento de una vez el valor diario de la Unidad de Medida y Actualización por hoja;
 
-IV. Por cada disco flexible de 3.5 pulgadas que contenga la información requerida, se pagará 15 por ciento de un día de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-V. Por cada disco compacto que contenga la información requerida, se pagará 25 por ciento de un día de salario mínimo; y
+IV. Por cada disco flexible de 3.5 pulgadas que contenga la información requerida, se pagará 15 por ciento de una vez el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+V. Por cada disco compacto que contenga la información requerida, se pagará 25 por ciento de una vez el valor diario de la Unidad de Medida y Actualización; y
 
 VI. Por expedición de copia simple de planos o por la expedición de copia certificada de planos, se pagarán los derechos establecidos en el artículo 72 de esta ley.
 
@@ -2735,37 +3171,33 @@ El envío de la información solicitada podrá realizarse por correo simple, cor
 
 Por los servicios proporcionados en materia de protección contra riesgos sanitarios, se causarán derechos conforme a lo siguiente:
 
-I.- Por la expedición de certificado sobre pozo de agua para abastecimiento privado, se pagarán diez días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I.- Por la expedición de certificado sobre pozo de agua para abastecimiento privado, se pagarán diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- Por la revalidación de certificado privado sobre pozo de agua, se pagarán cinco días de salario mínimo;
+II.- Por la revalidación de certificado privado sobre pozo de agua, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+III.- Por la autorización de cada una de los libros para el registro de medicamento controlado, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-III.- Por la autorización de cada una (sic) de los libros para el registro de medicamento controlado, se pagarán cinco días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+IV.- Por la expedición de cada cincuenta etiquetas de códigos de barra, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-IV.- Por la expedición de cada cincuenta etiquetas de códigos de barra, se pagarán cinco días de salario mínimo;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+V.- Por la aprobación de planos de construcción de ingeniería sanitaria para casa - habitación unifamiliar, se pagará el diez por ciento de una vez el valor diario de la Unidad de Medida y Actualización, por metro cuadrado;
 
-V.- Por la aprobación de planos de construcción de ingeniería sanitaria para casa - habitación unifamiliar, se pagará el diez por ciento de un día de salario mínimo, por metro cuadrado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+VI.- Por la aprobación de planos de construcción de obras que por sus características y dimensiones causen impacto, en materia de ingeniería sanitaria, se pagará veinte por ciento de una vez el valor diario de la Unidad de Medida y Actualización por metro cuadrado;
 
-VI.- Por la aprobación de planos de construcción de obras que por sus características y dimensiones causen impacto, en materia de ingeniería sanitaria, se pagará veinte por ciento de un día de salario mínimo por metro cuadrado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
-
-VII.- Por asesoría o autorización de permiso sanitario de construcción para remodelación, modificación en la construcción de unidad médica, hospital clínica, consultorio, laboratorio o gabinetes de rayos x, se pagarán cinco días de salario mínimo;
+VII.- Por asesoría o autorización de permiso sanitario de construcción para remodelación, modificación en la construcción de unidad médica, hospital clínica, consultorio, laboratorio o gabinetes de rayos x, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2773,165 +3205,197 @@ VII.- Por asesoría o autorización de permiso sanitario de construcción para r
 
 VIII.- Para los distintos giros sanitarios que requieren de licencia:
 
-1.- Por unidad móvil tipo ambulancia, se pagarán cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+1.- Por unidad móvil tipo ambulancia, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización y cinco veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2.- Por laboratorio de análisis clínicos, se pagará diez veces el salario mínimo y diez veces el salario mínimo por la autorización de responsable sanitario;
+2.- Por laboratorio de análisis clínicos, se pagará diez veces el valor diario de la Unidad de Medida y Actualización y diez veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-3.- Por laboratorio de citología exfoliativa, se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-4.- Por laboratorio de anatomía patológica, se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
+3.- Por laboratorio de citología exfoliativa, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización y cinco veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+4.- Por laboratorio de anatomía patológica, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización y cinco veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-5.- Por consultorio de medicina especializada, se pagará doce veces el salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-6.- Por consultorio de medicina general, se pagará cinco veces el salario mínimo;
+5.- Por consultorio de medicina especializada, se pagará doce veces el valor diario de la Unidad de Medida y Actualización;
 
-7.- Por consultorio de acupuntura, se pagará cinco veces el salario mínimo;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-8.- Por consultorio de bariatría, se pagará cinco veces el salario mínimo;
+6.- Por consultorio de medicina general, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-9.- Por consultorio de nutrición se pagará cinco veces el salario mínimo;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-10.- Por consultorio de medicina homeopática, se pagará cinco veces el salario mínimo;
+7.- Por consultorio de acupuntura, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-11.- Por consultorio de psicología, se pagará cinco veces el salario mínimo;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+8.- Por consultorio de bariatría, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-12.- Por consultorio de medicina dental, se pagará ocho veces el salario mínimo;
+9.- Por consultorio de nutrición se pagará ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+10.- Por consultorio de medicina homeopática, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-13.- Por consultorio de medicina dental especializada, se pagará doce veces el salario mínimo;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-14.- Por estéticas, se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
+11.- Por consultorio de psicología, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-15.- Por establecimiento dedicado a realizar tatuajes, se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-16.- Por establecimiento dedicado a realizar delineado permanente (micro pigmentación), se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
+12.- Por consultorio de medicina dental, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-17.- Por óptica, se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-18.- Por establecimientos dedicados a realizar servicios de pedicuro, se pagará cinco veces el salario mínimo;
+13.- Por consultorio de medicina dental especializada, se pagará doce veces el valor diario de la Unidad de Medida y Actualización;
 
-19.- Por gabinete de rayos x (radioterapia), se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-20.- Por gabinete de ultrasonido, se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
+14.- Por estéticas, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización y cinco veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-21.- Por gabinete de radioterapia, se pagará cinco veces el salario mínimo y cinco veces el salario mínimo por la autorización de responsable sanitario;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-22.- Por casa de salud, se pagará cinco veces el salario mínimo;
+15.- Por establecimiento dedicado a realizar tatuajes, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-23.- Por centros de atención infantil, estancias, o guarderías, se pagará cinco veces el salario mínimo; y cinco veces el salario mínimo por la autorización de responsable sanitario;
+16.- Por establecimiento dedicado a realizar delineado permanente (micro pigmentación), se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-24.- Por unidad auxiliar de salud, se pagará cinco veces el salario mínimo;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-25.- Por centro de salud rural, se pagará cinco veces el salario mínimo;
+17.- Por óptica, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-26.- Por centro de salud urbano, se pagará cinco veces el salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+18.- Por establecimientos dedicados a realizar servicios de pedicuro, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-27.- Por centro de asistencia, se pagará cinco veces el salario mínimo;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-28.- Por asilo, casa hogar, albergue (adultos mayores), se pagará cinco veces el salario mínimo;
+19.- Por gabinete de rayos x (radioterapia), se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-29.- Por internado para niños de 6 a 18 años, orfanato, casa hogar, albergue (menores), se pagará cinco veces el salario mínimo;
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-30.- Por centro de atención de adicciones, se pagará cinco veces el salario mínimo;
+20.- Por gabinete de ultrasonido, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+21.- Por gabinete de radioterapia, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización y ocho veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-31.- Por agencia funeraria con embalsamamiento, se pagará diez veces el salario mínimo; y diez días de salario mínimo por la autorización de responsable sanitario;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-32.- Por anfiteatro anatómico en escuelas de ciencia para la salud, se pagará cinco veces el salario mínimo;
+22.- Por casa de salud, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
+23.- Por centros de atención infantil, estancias, o guarderías, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización; y cinco veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-33.- Por servicios privados de hospitalización o unidades de cirugía ambulatoria, se pagará diez veces el salario mínimo; y diez veces el salario mínimo por la autorización de responsable sanitario;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-34.- Por servicios públicos de hospitalización, se pagará cinco veces el salario mínimo, y cinco veces el salario mínimo por la autorización de responsable sanitario;
+24.- Por unidad auxiliar de salud, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-35.- Por dispensario médico, se pagará cinco veces el salario mínimo; y
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-36.- Por servicio de enfermería, se pagará cinco veces el salario mínimo.
+25.- Por centro de salud rural, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-IX.- Por capacitación a petición de parte, se pagarán veinticinco días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+26.- Por centro de salud urbano, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-X.- Por visita de verificación sanitaria a petición de parte a establecimientos sujetos a control sanitario, se pagarán diez veces el salario mínimo;
+27.- Por centro de asistencia, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XI.- Por solicitud de muestreo a petición del prestador de servicios y/o el representante legal del establecimiento, se pagarán cinco días de salario mínimo;
+28.- Por asilo, casa hogar, albergue (adultos mayores), se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+29.- Por internado para niños de 6 a 18 años, orfanato, casa hogar, albergue (menores), se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-XII.- Por permiso sanitario para inhumación, exhumación, traslado y cremación funeraria, se pagarán diez veces de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+30.- Por centro de atención de adicciones, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XIII.- Por la expedición de la Constancia Sanitaria para establecimientos que comercialicen bebidas alcohólicas en envase cerrado o al copeo, se pagarán veinticinco veces de salario mínimo; y,
+31.- Por agencia funeraria con embalsamamiento, se pagará diez veces el valor diario de la Unidad de Medida y Actualización; y diez veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XIV.- Por la expedición de aviso de Responsable Sanitario de establecimientos de Insumos de Salud, así como de cambio de responsable, se pagarán cinco días de salario mínimo.
+32.- Por anfiteatro anatómico en escuelas de ciencia para la salud, se pagará ocho veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XV.- Por la certificación a establecimientos dedicados a la fabricación, formulación, mezcla acondicionamiento, almacenamiento, uso y aplicación de plaguicidas, nutrientes vegetales, y sustancias tóxicas o peligrosas, se pagará cinco veces el salario mínimo; y cinco veces el salario mínimo para la autorización de responsable sanitario;
+33.- Por servicios privados de hospitalización o unidades de cirugía ambulatoria, se pagará diez veces el valor diario de la Unidad de Medida y Actualización; y diez veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+34.- Por servicios públicos de hospitalización, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización, y cinco veces el valor diario de la Unidad de Medida y Actualización por la autorización de responsable sanitario;
 
-XVI.- Por la expedición de aviso de responsable sanitario de establecimientos de bancos de sangre y servicios de transfusión sanguínea, así como de cambio de responsable, se pagarán cinco días de salario mínimo;
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+35.- Por dispensario médico, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XVII.- Por la autorización de cada uno de los libros de control para bancos de sangre y servicios de transfusión, se pagarán cinco veces el salario mínimo;
+36.- Por servicio de enfermería, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2013)</small>
+IX.- Por capacitación a petición de parte, se pagarán veinticinco veces el valor diario de la Unidad de Medida y Actualización;
 
-XVIII.- Por concepto de desinfección, desinsectación, desratización en embarcaciones y demás actividades que establezca el Reglamento Sanitario Internacional, y los tratados o convenciones internacionales, se pagarán ciento diez veces de salarios mínimos;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+X.- Por visita de verificación sanitaria a petición de parte a establecimientos sujetos a control sanitario, se pagarán diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XIX.- Por la autorización de cada uno de los libros para el registro de control de antibióticos, se pagarán cinco días de salario mínimo;
+XI.- Por solicitud de muestreo a petición del prestador de servicios y/o el representante legal del establecimiento, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XX.- Por la expedición de permiso para utilizar los recetarios especiales con códigos de barras para la prescripción de estupefacientes, se pagará cinco días de salario mínimo; y cinco veces el salario mínimo por la expedición del aviso de previsiones para farmacias;
+XII.- Por permiso sanitario para inhumación, exhumación, traslado y cremación funeraria, se pagarán diez veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XIII.- Por la expedición de la Constancia Sanitaria para establecimientos que comercialicen bebidas alcohólicas en envase cerrado o al copeo, se pagarán veinticinco veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XIV.- Por la expedición de aviso de Responsable Sanitario de establecimientos de Insumos de Salud, así como de cambio de responsable, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XV.- Por la certificación a establecimientos dedicados a la fabricación, formulación, mezcla acondicionamiento, almacenamiento, uso y aplicación de plaguicidas, nutrientes vegetales, y sustancias tóxicas o peligrosas, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización; y cinco veces el valor diario de la Unidad de Medida y Actualización para la autorización de responsable sanitario;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Por la expedición de aviso de responsable sanitario de establecimientos de bancos de sangre y servicios de transfusión sanguínea, así como de cambio de responsable, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XVII.- Por la autorización de cada uno de los libros de control para bancos de sangre y servicios de transfusión, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XVIII.- Por concepto de desinfección, desinsectación, desratización en embarcaciones y demás actividades que establezca el Reglamento Sanitario Internacional, y los tratados o convenciones internacionales, se pagarán ciento diez veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XIX.- Por la autorización de cada uno de los libros para el registro de control de antibióticos, se pagarán cinco veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+XX.- Por la expedición de permiso para utilizar los recetarios especiales con códigos de barras para la prescripción de estupefacientes, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización; y cinco veces el valor diario de la Unidad de Medida y Actualización por la expedición del aviso de previsiones para farmacias;
 
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -2941,13 +3405,13 @@ XXI.- Se pagarán multas, actualizaciones y recargos, según sea el caso, por el
 
 XXII.- Por las cuotas de recuperación por servicio médico proporcionado por los centros hospitalarios del Estado, conforme el tabulador vigente que se publique en el Periódico Oficial del Estado;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XXIII.- Por la certificación y/o expedición de certificado de salud para manejadores de alimentos, se pagará cinco veces el salario mínimo; y
+XXIII.- Por la certificación y/o expedición de certificado de salud para manejadores de alimentos, se pagará tres veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-XXIV.- Por concepto de fumigación, desinfección, desinsectación y/o desratización para control de fauna nociva en materia de sanidad internacional terrestre, en vehículos en tránsito en los puentes internacionales, tipo sedán y pickups, se pagará 4 veces el salario mínimo; para camiones, autobuses o transporte de carga, se pagará cinco veces el salario mínimo.
+XXIV.- Por concepto de fumigación, desinfección, desinsectación y/o desratización para control de fauna nociva en materia de sanidad internacional terrestre, en vehículos en tránsito en los puentes internacionales, tipo sedán y pickups, se pagará cuatro veces el valor diario de la Unidad de Medida y Actualización; para camiones, autobuses o transporte de carga, se pagará cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2009)</small>
 
@@ -2957,11 +3421,11 @@ Por los servicios de suministro de agua en bloque que proporcione la Comisión E
 
 Para efectos de aplicación de los derechos previstos en este artículo, los municipios y los organismos operadores que requieran el servicio de suministro de agua en bloque, deberán firmar el convenio respectivo con la Comisión Estatal del Agua de Tamaulipas y pagar los derechos a que se refiere este artículo con la periodicidad señalada en dicho convenio.
 
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 95.
 
-El trámite y estudio para autorizaciones de las solicitudes de subsidios fiscales para contribuciones causarán derechos por la cantidad de doce días de salario mínimo, que deberán pagarse previamente al otorgamiento de la autorización o del subsidio.
+El trámite y estudio para autorizaciones de las solicitudes de subsidios fiscales para contribuciones causarán derechos por la cantidad de doce veces el valor diario de la Unidad de Medida y Actualización, que deberán pagarse previamente al otorgamiento de la autorización o del subsidio
 
 > <small>(ADICIONADO, P.O. 15 DE OCTUBRE DE 2009)</small>
 
@@ -3280,3 +3744,39 @@ P.O. 17 DE DICIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero del 2016.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-92 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1 de enero del 2017, previa publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales, así como cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+###### ARTÍCULO TERCERO.
+
+Tratándose de las menciones al salario mínimo que se hagan en contratos y convenios vigentes al 28 de enero de 2016, se atenderá a lo dispuesto en el artículo Séptimo Transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+###### ARTÍCULO CUARTO.
+
+El valor de la Unidad de Medida y Actualización, será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+###### ARTÍCULO QUINTO.
+
+Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
