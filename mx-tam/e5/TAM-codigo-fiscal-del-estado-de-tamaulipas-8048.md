@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "2015-12-17"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -157,9 +157,9 @@ Dichas contribuciones se determinarán conforme a las disposiciones vigentes en 
 
 Corresponde a los contribuyentes la determinación de las contribuciones a su cargo, salvo disposición expresa en contrario. Si las autoridades fiscales deben hacer la determinación, los contribuyentes les proporcionarán la información necesaria dentro de los 15 días siguientes a la fecha de su causación.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Cuando para determinar las contribuciones y sus accesorios, se haga referencia al salario mínimo, deberá entenderse como el relativo al mínimo general vigente en la Capital del Estado, en la fecha en que se causen, en el caso en que dejara de existir el concepto de salario mínimo, las cantidades que de conformidad con las disposiciones fiscales se determinan con base en el mismo, se calcularán con el último salario mínimo que estuviera vigente, actualizándose en lo sucesivo con el factor que anualmente determine el Congreso del Estado.
+Cuando para determinar las contribuciones y sus accesorios, se haga referencia al (sic) a la Unidad de Medida y Actualización, deberá entenderse como la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en los Códigos.
 
 Para efectuar el ajuste, las cantidades se aumentarán o disminuirán según sea el caso, a la unidad de ajuste más próxima; cuando la cantidad se encuentre a la misma distancia de dos unidades, el ajuste se hará a la más baja.
 
@@ -1771,25 +1771,29 @@ VI.- Señalar como domicilio fiscal un lugar distinto del que corresponda confor
 
 A quien cometa las infracciones relacionadas con el registro de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-I.- De 45 a 135 días de salario mínimo a las comprendidas en las fracciones I, III y VI.
+I.- De cuarenta y cinco a ciento treinta y cinco veces el valor diario de la Unidad de Medida y Actualización a las comprendidas en las fracciones I, III y VI.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- De 20 a 45 días de salario mínimo a la comprendida en la fracción II.
+II.- De veinte a cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la fracción II.
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 III.- Para la señalada en la fracción IV:
 
-a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y 100 días de salario mínimo. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso, será menor de 5 ni mayor de 100 días de salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b) De 5 a 15 días de salario mínimo en los demás documentos.
+a) Tratándose de declaraciones, se impondrá una multa entre el 2% de las contribuciones declaradas y cien veces el valor diario de la Unidad de Medida y Actualización. En ningún caso la multa que resulte de aplicar el porcentaje a que se refiere este inciso, será menor de cinco ni mayor de cien veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV.- De 50 a 150 días de salario mínimo para la establecida en la fracción V.
+b) De cinco a quince veces el valor diario de la Unidad de Medida y Actualización en los demás documentos.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV.- De cincuenta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización para la establecida en la fracción V.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
@@ -1815,41 +1819,33 @@ A quien comete las infracciones relacionadas con la obligación de presentar dec
 
 I.- Para la señalada en la fracción I:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-a).- De 4 a 20 días de salario mínimo tratándose de declaraciones por cada una de las obligaciones no declaradas. Si dentro de los 6 meses siguientes a la fecha en que se presentó la declaración se impuso la multa, el contribuyente presenta declaraciones adicionales, sobre las mismas se aplicará también la multa a que se refiere este inciso.
+a) De cuatro a veinte veces el valor diario de la Unidad de Medida y Actualización tratándose de declaraciones por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración se impuso la multa, el contribuyente presenta declaraciones adicionales, sobre las mismas se aplicará también la multa a que se refiere este inciso.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b).- Por presentar una declaración, solicitud, aviso, constancia y demás documentos, fuera del plazo señalado en el requerimiento o por su incumplimiento, se impondrá una multa de 10 a 50 días de salario mínimo.
-
-1.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1995)
-
-2.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1995)
-
-3.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1995)
-
-> <small>(DEROGADO ULTIMO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1995)</small>
+b) Por presentar una declaración, solicitud, aviso, constancia y demás documentos, fuera del plazo señalado en el requerimiento o por su incumplimiento, se impondrá una multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 c).- (DEROGADO, P.O. 25 DE DICIEMBRE DE 1996)
 
 II.- Respecto de la señalada en la fracción II:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-a).- De 5 a 15 días de salario mínimo por no poner el nombre o domicilio o ponerlos equivocadamente.
+a) De cinco a quince veces el valor diario de la Unidad de Medida y Actualización por no poner el nombre o domicilio o ponerlos equivocadamente.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-b).- De 5 a 10 días de salario mínimo en los demás casos.
+b) De cinco a diez veces el valor diario de la Unidad de Medida y Actualización en los demás casos.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-III.- De 4 a 20 días de salario mínimo tratándose de la señalada en la fracción III, por cada uno de los requerimientos.
+III.- De cuatro a veinte veces el valor diario de la Unidad de Medida y Actualización tratándose de la señalada en la fracción III, por cada uno de los requerimientos.
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV.- De 40 a 90 días de salario mínimo respecto a lo señalado en la fracción IV.
+IV.- De cuarenta a noventa veces el valor diario de la Unidad de Medida y Actualización respecto a lo señalado en la fracción IV.
 
 ###### ARTICULO 83.
 
@@ -1877,27 +1873,27 @@ VIII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1995)
 
 A quien cometa las infracciones relacionadas con la obligación de llevar la contabilidad a que se refiere el artículo 83 se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-I.- De 20 a 180 días de salario mínimo a la comprendida en la fracción I.
+I.- De veinte a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización a las (sic) comprendida en la fracción I.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- De 5 a 90 días de salario mínimo a las establecidas en las fracciones II y III.
+II.- De cinco a noventa veces el valor diario de la Unidad de Medida y Actualización a las establecidas en las fracciones II y III.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-III.- De 5 a 90 días de salario mínimo a la señalada en la fracción IV.
+III.- De cinco a noventa veces el valor diario de la Unidad de Medida y Actualización a la señalada en la fracción IV.
 
 IV.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-V.- De 10 a 145 días de salario mínimo a la señalada en la fracción VI.
+V.- De diez a ciento cuarenta y cinco veces el valor diario de la Unidad de Medida y Actualización a la señalada en la fracción VI.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VI.- De 20 a 395 días de salario mínimo a la comprendida en la fracción VII.
+VI.- De veinte a trescientos noventa y cinco veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la fracción VII.
 
 VII.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 1995)
 
@@ -1913,13 +1909,13 @@ II.- No conservar la contabilidad o parte de ella, así como la correspondencia 
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-I.- De 220 a 900 días de salario mínimo a la comprendida en la fracción I.
+I.- De doscientos veinte a novecientas veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la fracción I.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- De 20 a 750 días de salario mínimo a la comprendida en la fracción II.
+II.- De veinte a setecientos cincuenta veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la fracción II.
 
 ###### ARTICULO 87.
 
@@ -1931,11 +1927,11 @@ II.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales
 
 III.- Exigir una prestación que no esté prevista en las disposiciones fiscales, aun cuando se aplique a la realización de las funciones públicas.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 88.
 
-A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87, se le impondrá una multa de 500 a 1300 días de salario mínimo.
+A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo 87, se le impondrá una multa de quinientas a mil trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 89.
 
@@ -1945,17 +1941,17 @@ I.- Asesorar a los contribuyentes para omitir ilegalmente el pago de una contrib
 
 II.- Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 90.
 
-A quien cometa las infracciones señaladas en el artículo 89 de este Código se le impondrá una multa de 500 a 1000 días de salario mínimo.
+A quien cometa las infracciones señaladas en el artículo 89 de este Código se le impondrá una multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 91.
 
-La infracción en cualquier forma a las disposiciones fiscales, diversas a las previstas en este capítulo, se sancionará con multa de 10 a 100 días de salario mínimo.
+La infracción en cualquier forma a las disposiciones fiscales, diversas a las previstas en este capítulo, se sancionará con multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPITULO II
 
@@ -1975,7 +1971,9 @@ Los procesos por los delitos fiscales a que se refieren los artículos invocados
 
 En los delitos fiscales en que sea necesario querella y el daño sea cuantificable, la Secretaría de Finanzas hará la cuantificación correspondiente en la propia querella, o la presentará durante la tramitación del proceso respectivo antes de que el Ministerio Público del Estado formule conclusiones. La citada cuantificación solo surtirá efectos en el procedimiento penal.
 
-Para efectos de este Capítulo, se entiende por salario mínimo el mínimo general diario que corresponda a la Capital del Estado, vigente en el momento de la comisión del delito.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Para efectos de este Capítulo, se entiende por Unidad de Medida y Actualización, la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos, en el momento de la comisión del delito.
 
 ###### ARTICULO 93.
 
@@ -2059,7 +2057,9 @@ Se sancionará con prisión de 1 a 5 años al servidor público que amenazare de
 
 Comete el delito de defraudación fiscal quien con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del fisco del Estado.
 
-El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto de lo defraudado no excede de 300 días de salario mínimo; cuando exceda de esta cantidad la pena será de tres a nueve años de prisión.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto de lo defraudado no excede de trescientas veces el valor diario de la Unidad de Medida y Actualización; cuando exceda de esta cantidad la pena será de tres a nueve años de prisión.
 
 Cuando no se puede determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -2123,9 +2123,11 @@ I.- Registre sus operaciones contables, fiscales o sociales en dos o más libros
 
 II.- Oculte, altere o destruya total o parcialmente los sistemas y registros contables, así como la documentación relativa de los asientos respectivos, que conforme a las leyes fiscales, esté obligado a llevar.
 
-###### ARTICULO 106.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales, que con perjuicio del fisco disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituído, si el valor de lo dispuesto no excede de 300 días el salario mínimo, cuando excede esa cantidad, la sanción será de tres a nueve años de prisión.
+###### ARTÍCULO 106.
+
+Se impondrá sanción de tres meses a seis años de prisión, al depositario o interventor designado por las autoridades fiscales, que con perjuicio del fisco disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de trescientas veces el valor diario de la Unidad de Medida y Actualización, cuando exceda esa cantidad, la sanción será de tres a nueve años de prisión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -2455,7 +2457,9 @@ Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que
 
 La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma desde la fecha en que se manifieste haber tenido tal conocimiento, si ésta es anterior a aquella en que debiera surtir efectos la notificación de acuerdo con el párrafo anterior.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el salario mínimo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
@@ -2671,9 +2675,9 @@ Cuando se suspenda el procedimiento administrativo de ejecución en los término
 
 La Secretaría de Finanzas podrá cancelar créditos fiscales, por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual a 15 días de salario mínimo, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
+Se consideran créditos de cobro incosteable, aquéllos cuyo importe sea inferior o igual a quince veces el valor diario de la Unidad de Medida y Actualización, así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
@@ -2701,9 +2705,13 @@ II.- Por la de embargo, incluyendo los señalados en los artículos 43 fracción
 
 III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-Cuando en los casos de las fracciones anteriores, el 2 por ciento del crédito sea inferior a dos veces el salario mínimo, se cobrará esta cantidad en vez del 2 por ciento del crédito.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este articulo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de la cantidad equivalente a un salario mínimo elevado al año.
+Cuando en los casos de las fracciones anteriores, el 2 por ciento del crédito sea inferior a dos veces el valor diario de la Unidad de Medida y Actualización, se cobrará esta cantidad en vez del 2 por ciento del crédito.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de la cantidad equivalente a un valor diario de la Unidad de Medida y Actualización elevado al año.
 
 Así mismo, se pagaran por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los articulos 43 fracción II y 139 fracción V de este Código, que únicamente comprenderá los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el Instituto Registral y Catastral que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichas personas renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión del dominio de los bienes inmuebles que sean adjudicados al Estado y las que se paguen por el Estado para liberar de cualquier gravamen a los bienes que sean objeto de remate.
 
@@ -2763,11 +2771,9 @@ El embargo podrá ampliarse en cualquier momento del procedimiento administrativ
 
 La persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, siempre que los mismos sean de fácil realización o venta, sujetándose al orden siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-I.- Dinero, metales preciosos, depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro;
+I.- Dinero, metales preciosos, depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de veinte veces el valor diario de la Unidad de Medida y Actualización elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
@@ -3093,7 +3099,9 @@ El remate deberá ser convocado al día siguiente de haber quedado firme el aval
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el salario mínimo general de la zona económica que corresponda a la Capital del Estado, elevado al año, la convocatoria se publicará en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación, dos veces, con intervalo de siete días. La última publicación será cuando menos diez días antes del remate.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el valor anual de la Unidad de Medida y Actualización, la convocatoria se publicará en el Periódico Oficial del Estado y en uno de los periódicos de mayor circulación, dos veces, con intervalo de siete días. La última publicación será cuando menos diez días antes del remate.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
@@ -3345,7 +3353,7 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los seis días del mes de diciembre de mil novecientos noventa y uno.- El Gobernador Constitucional del Estado, ING. AMERICO VILLAREAL GUERRA.- El Secretario General de Gobierno, LIC. ANIBAL PEREZ VARGAS.- Rúbricas.
 
-N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+> <small>[N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 6 DE ENERO DE 1993
 
@@ -3470,3 +3478,17 @@ El presente Decreto se publicará en el Periódico Oficial del Estado y entrará
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+[NOTA 1: TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO].
+
+[NOTA 2: DEL ANÁLISIS A ESTE DECRETO NO. LXIII-103 SE ADVIERTE QUE LOS ARTÍCULOS 219 Y 243 CORRESPONDEN AL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS PUBLICADO MEDIANTE DECRETO 219 EN EL P.O. DE FECHA 29 DE DICIEMBRE DE 1976.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
