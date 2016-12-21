@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -379,7 +379,9 @@ II.- Disfrutarán de un descanso, al menos, de seis semanas anteriores y seis po
 
 III.- Los períodos de descanso a que se refiere la fracción anterior se prorrogarán por el tiempo necesario, en el caso de que se encuentren imposibilitadas para trabajar a causa del embarazo o del parto;
 
-IV.- En el período de lactancia tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, en lugar adecuado e higiénico que designe la dependencia o entidad estatal;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV.- En el período de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos, o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la dependencia o entidad estatal;
 
 V.- Durante los períodos de descanso a que se refiere la fracción II, percibirán su salario íntegro. En los casos de prórroga mencionados en la fracción III, tendrán derecho al cincuenta por ciento de su salario por un período no mayor de sesenta días. Durante el trascurso del período de sesenta días antes citado, se realizarán las retenciones de las aportaciones de seguridad social en el sueldo de la trabajadora, sin contemplar el descuento que fue objeto el sueldo de la trabajadora;
 
@@ -1213,9 +1215,11 @@ Cuando el domicilio del demandado se encuentre fuera del lugar de residencia del
 
 Antes de pronunciarse el laudo, los miembros que integran el Tribunal podrán solicitar mayor información para mejor proveer, en cuyo caso se acordará la práctica de las diligencias necesarias. Asimismo, el Tribunal ordenará que se corrija cualquier irregularidad u omisión que notare en la substanciación del procedimiento, para el efecto de regularizar el mismo.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 113.
 
-El Tribunal sancionará las faltas de respeto que se cometan y aplicará las medidas de apremio que consistirán indistintamente en la amonestación, multa, expulsión del local o arresto hasta por veinticuatro horas. La multa no podrá exceder de siete veces el salario mínimo tratándose de trabajadores, ni de quince veces el mismo, en el caso de apoderados o terceros.
+El Tribunal sancionará las faltas de respeto que se cometan y aplicará las medidas de apremio que consistirán indistintamente en la amonestación, multa, expulsión del local o arresto hasta por veinticuatro horas. La multa no podrá exceder de siete veces el valor diario de la Unidad de Medida y Actualización tratándose de trabajadores, ni de quince veces el mismo, en el caso de apoderados o terceros.
 
 ###### ARTICULO 114.
 
@@ -1480,3 +1484,23 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-104 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 33 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS; FRACCIÓN IV DEL ARTÍCULO 32 BIS DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, ASÍ COMO EL PÁRRAFO 2 DEL ARTÍCULO 5 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
