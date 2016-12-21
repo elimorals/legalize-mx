@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2016-06-29"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE JUNIO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO LXII-956 PUBLICADO EN EL P.O. DE 23 DE JUNIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -333,13 +331,17 @@ ART. 70.- El acta de reconocimiento contendrá: nombre, apellidos, sexo, fecha y
 
 ART. 71.- Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará copia certificada del documento ante el Oficial del Registro Civil, para que se inserte la parte relativa del mismo en el acta.
 
-ART. 72.- Los oficiales que no cumplan con el requisito del artículo que antecede, dentro de un término de treinta días a partir de la fecha en que reciban la documentación para la anotación, se harán acreedores a una sanción pecuniaria hasta de cinco veces el salario mínimo vigente que rija en la zona económica a que corresponda la Capital del Estado, que impondrá la Dirección del Registro Civil.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ART. 72.- Los oficiales que no cumplan con el requisito del artículo que antecede, dentro de un término de treinta días a partir de la fecha en que reciban la documentación para la anotación, se harán acreedores a una sanción pecuniaria hasta de cinco veces el valor diario de la Unidad de Medida y Actualización, que impondrá la Dirección del Registro Civil.
 
 ART. 73.- La omisión del registro civil no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código.
 
 ART. 74.- En el acta de reconocimiento hecho con posterioridad al acta de nacimiento se hará mención de ésta poniendo en ella la anotación correspondiente.
 
-ART. 75.- Si el reconocimiento se hiciere en oficialía diferente de aquella en que se levantó el acta de nacimiento, se enviará copia certificada del acta de reconocimiento al Oficial correspondiente para que se haga la anotación en el acta de nacimiento. El Oficial que no cumpla con este requisito será sancionado con una multa hasta de cinco veces el salario mínimo vigente en la zona económica a que corresponda la Capital del Estado, que impondrá la Dirección del Registro Civil.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ART. 75.- Si el reconocimiento se hiciere en Oficialía diferente de aquella en que se levantó el acta de nacimiento, se enviará copia certificada del acta de reconocimiento al Oficial correspondiente para que se haga la anotación en el acta de nacimiento. El Oficial que no cumpla con este requisito será sancionado con una multa hasta de cinco veces el valor diario de la Unidad de Medida y Actualización, que impondrá la Dirección del Registro Civil.
 
 ### CAPITULO IV. ACTAS DE ADOPCION
 
@@ -467,7 +469,9 @@ ART. 102.- El Oficial del Registro Civil que autorice un matrimonio teniendo con
 
 ART. 103.- Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes o ambos carecen de aptitud legal para celebrar el matrimonio.
 
-ART. 104.- El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa equivalente a un día de salario mínimo vigente que rija en la zona económica a que corresponda la Capital del Estado, y en caso de reincidencia con la destitución de su cargo.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ART. 104.- El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa equivalente a una vez el valor diario de la Unidad de Medida y Actualización, y en caso de reincidencia con la destitución de su cargo.
 
 ### CAPITULO VI. ACTAS DE DIVORCIO
 
@@ -1139,7 +1143,7 @@ ART. 228.- El miedo, la violencia, así como cualquier otra circunstancia que im
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-l.- Que importen peligro de perder o lesionar la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
+I.- Que importen peligro de perder o lesionar la vida, la honra, la libertad, la salud o una parte considerable de los bienes;
 
 II.- Que haya sido hecho al cónyuge o a la persona o personas que le tienen bajo su patria potestad o tutela al celebrarse el matrimonio;
 
@@ -2751,9 +2755,9 @@ ART. 642.- Sólo puede constituirse el patrimonio de la familia con bienes, sito
 
 ART. 643.- Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-ART. 644.- El valor de los bienes afectos al patrimonio de familia será la cantidad que resulte de multiplicar hasta 35,000 veces el importe del salario mínimo general fijado para la zona económica donde se encuentre el domicilio de la familia, con sujeción al avalúo realizado por perito oficial debidamente autorizado, en el que se determinará el valor comercial de los bienes en cuestión.
+ART. 644.- El valor de los bienes afectos al patrimonio de familia será la cantidad que resulte de multiplicar hasta treinta y cinco mil veces el valor diario de la Unidad de Medida y Actualización, con sujeción al avalúo realizado por perito oficial debidamente autorizado, en el que se determinará el valor comercial de los bienes en cuestión.
 
 ART. 645.- Cuando por cualquier causa el valor de los bienes afectos al patrimonio de la familia es inferior al máximo fijado en el artículo anterior, podrá ampliarse el patrimonio hasta el límite legal.
 
@@ -5291,9 +5295,13 @@ ART. 1388.- Cuando un hecho cause daños y perjuicios a una persona, y la ley im
 
 ART. 1389.- Para los efectos del anterior artículo se observará lo dispuesto en los numerales 1163, 1164, 1165 y 1166.
 
-ART. 1390.- Cuando el daño se cause a las personas y produzca la muerte, la indemnización de orden económico consistirá en el pago de una cantidad de dinero equivalente al importe de tres mil días de salario y cuatro meses de salario por concepto de gastos funerarios, y, en su caso, los gastos de hospitalización y curación efectuados antes del fallecimiento.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Si el daño hubiere causado incapacidad total permanente, la indemnización comprenderá las prestaciones a que se refieren las fracciones I, II, III, IV y V del artículo 487 de la Ley Federal del Trabajo y además, una cantidad equivalente al importe de tres mil días de salario.
+ART. 1390.- Cuando el daño se cause a las personas y produzca la muerte, la indemnización de orden económico consistirá en el pago de una cantidad de dinero equivalente al importe de tres mil veces el valor diario de la Unidad de Medida y Actualización y cuatro veces el valor mensual de la Unidad de Medida y Actualización por concepto de gastos funerarios, y, en su caso, los gastos de hospitalización y curación efectuados antes del fallecimiento.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Si el daño hubiere causado incapacidad total permanente, la indemnización comprenderá las prestaciones a que se refieren las fracciones I, II, III, IV y V del artículo 487 de la Ley Federal del Trabajo y además, una cantidad equivalente al importe de tres mil veces el valor diario de la Unidad de Medida y Actualización.
 
 A la indemnización por incapacidad total permanente, tendrá derecho la víctima, y si el daño produjo la muerte, tienen derecho a la indemnización quienes hubieren dependido económicamente de la víctima o aquellos de quien éste dependía económicamente y, a falta de unos y otros, los herederos de la misma víctima.
 
@@ -6119,7 +6127,9 @@ ART. 1685.- Revocada o reducida una donación por inoficiosa, el donatario sólo
 
 ART. 1686.- La donación no podrá ser revocada por superveniencia de hijos:
 
-I.- Cuando su valor sea menor al de treinta días de salario mínimo general;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+I.- Cuando su valor sea menor al de treinta veces el valor diario de la Unidad de Medida y Actualización;
 
 II.- Cuando sea antenupcial;
 
@@ -6413,7 +6423,9 @@ ART. 1768.- La duración mínima de todo contrato de arrendamiento de fincas urb
 
 ART. 1769.- Para los efectos de este capítulo la renta deberá estipularse en moneda nacional, si se pactó dinero.
 
-La renta sólo podrá ser incrementada anualmente; en su caso el aumento no podrá exceder del 65 por ciento del incremento porcentual, fijado al salario mínimo general del lugar de ubicación de la finca en el año calendario en el que el contrato se renueve o se prorrogue.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+La renta sólo podrá ser incrementada anualmente; en su caso el aumento no podrá exceder del 65 por ciento del incremento porcentual, fijado al valor diario de la Unidad de Medida y Actualización en el año calendario en el que el contrato se renueve o se prorrogue.
 
 ART. 1770.- La renta debe pagarse en los plazos convenidos y a falta de convenio, por meses vencidos.
 
@@ -6729,7 +6741,9 @@ II.- En carta poder firmada por el otorgante y dos testigos y ratificadas las fi
 
 III.- En carta poder firmada por el mandante y dos testigos sin ratificación de firmas.
 
-ART. 1888.- El mandato verbal es el otorgado de palabra entre presentes, hayan o no intervenido testigos; siempre será especial, y sólo podrá otorgarse para asuntos que importen hasta un valor igual a noventa días de salario mínimo general vigente en el lugar en que se celebró.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ART. 1888.- El mandato verbal es el otorgado de palabra entre presentes, hayan o no intervenido testigos; siempre será especial, y sólo podrá otorgarse para asuntos que importen hasta un valor igual a noventa veces el valor diario de la Unidad de Medida y Actualización.
 
 Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para el que se dio.
 
@@ -6749,7 +6763,9 @@ ART. 1891.- El mandato debe otorgarse en escritura pública o en carta poder fir
 
 I.- Cuando sea general;
 
-II.- Cuando el interés del negocio para el que se confiere exceda de ochenta días de salario mínimo general vigente en el lugar en que se celebró;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II.- Cuando el interés del negocio para el que se confiere exceda de ochenta veces el valor diario de la Unidad de Medida y Actualización;
 
 III.- Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
@@ -7151,7 +7167,9 @@ ART. 1952.- El contrato de obras a precio alzado, cuando el empresario dirige la
 
 ART. 1953.- Si la obra perece o se deteriora antes de la entrega, son a cargo del empresario la pérdida o los deterioros, a no ser que hubiere morosidad de parte del dueño de la obra en recibirla, o convenio expreso en contrario.
 
-ART. 1954.- Siempre que el empresario se encargue por ajuste cerrado de la obra en bien inmueble cuyo valor sea de más de trescientos sesenta días de salario mínimo general, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ART. 1954.- Siempre que el empresario se encargue por ajuste cerrado de la obra en bien inmueble cuyo valor sea de más de trescientos sesenta veces el valor diario de la Unidad de Medida y Actualización, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
 
 ART. 1955.- Si no hay plano, diseño o presupuesto para la ejecución de la obra y surgen dificultades entre empresario y el dueño, serán resueltas teniendo en cuenta la naturaleza de la obra, el precio de ella y la costumbre del lugar; oyéndose el dictamen de peritos.
 
@@ -9023,9 +9041,9 @@ ART. 2592.- Si la identidad del testador no pudiera ser verificada, se declarar�
 
 ART. 2593.- En el caso el artículo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
 
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-ART. 2594.- Se prohibe a los notarios o a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de multa a los notarios cuyo importe será de diez a cien días salario mínimo general más alto vigente en la Entidad y de la mitad a los que no lo fueren, que impondrá el Juez que conozca del juicio sucesorio y hará efectiva la oficina fiscal del lugar.
+ART. 2594.- Se prohíbe a los notarios o a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de multa a los notarios cuyo importe será de diez a cien veces el valor diario de la Unidad de Medida y Actualización y de la mitad a los que no lo fueren, que impondrá el Juez que conozca del juicio sucesorio y hará efectiva la oficina fiscal del lugar.
 
 ART. 2595.- El notario que hubiere autorizado el testamento, debe dar aviso a los interesados luego que sepa la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione.
 
@@ -10254,3 +10272,15 @@ Las disposiciones relativas a los delitos de impudicia y feminicidio vigentes ha
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
