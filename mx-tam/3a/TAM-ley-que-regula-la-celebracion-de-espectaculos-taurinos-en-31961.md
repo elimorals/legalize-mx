@@ -4,7 +4,7 @@ identifier: "TAM-ley-que-regula-la-celebracion-de-espectaculos-taurinos-en-31961
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-20"
-last_updated: "2003-05-20"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY QUE REGULA LA CELEBRACIÓN DE ESPECTÁCULOS TAURINOS EN EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno de Tamaulipas: 20 de mayo de 2003.
 
@@ -1009,15 +1009,25 @@ La amonestación pública procederá, a juicio del Juez, cuando en el transcurso
 
 Tratándose de multas se aplicarán las siguientes reglas:
 
-I.- Las multas a las empresas serán de conformidad al aforo de la plaza y oscilarán entre 400 (cuatrocientos) y 1200 (mil doscientos) veces el salario mínimo general diario vigente en la zona en que se ubique el municipio donde se impongan, de acuerdo al tipo y gravedad de la infracción de que se trate.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- Las multas a los matadores serán de 300 (trescientos) a 1000 (mil) veces el salario mínimo general diario vigente en la zona en que se ubique el municipio donde se impongan, de acuerdo con la gravedad de la infracción y la condición económica del infractor.
+I.- Las multas a las empresas serán de conformidad al aforo de la plaza y oscilarán entre cuatrocientas y mil doscientas veces el valor diario de la Unidad de Medida y Actualización, de acuerdo al tipo y gravedad de la infracción de que se trate;
 
-III.- Las multas a los novilleros, a las cuadrillas y a los empleados de la plaza serán de 50 (cincuenta) a 250 (doscientos cincuenta) veces el salario mínimo general diario vigente en la zona en que se ubique el municipio donde se impongan, de acuerdo con la gravedad de la infracción y la categoría que ocupe en el servicio el infractor.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV.- Las multas a los espectadores serán de 5 (cinco) a 100 (cien) veces el salario mínimo general diario vigente en la zona en que ubique el municipio donde se impongan, de acuerdo con la naturaleza de la infracción y las condiciones económicas del infractor observándose en todo caso lo señalado en los párrafos segundo y tercero del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+II.- Las multas a los matadores serán de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización, de acuerdo con la gravedad de la infracción y la condición económica del infractor;
 
-V.- Las multas a los ganaderos serán de 300 (trescientos) a 1000 (mil) veces el salario mínimo general diario vigente en la zona en que se ubique el municipio donde se impongan, de acuerdo con la gravedad de la infracción y la categoría económica de la ganadería.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III.- Las multas a los novilleros, a las cuadrillas y a los empleados de la plaza serán de cincuenta a doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, de acuerdo con la gravedad de la infracción y la categoría que ocupe en el servicio el infractor;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV.- Las multas a los espectadores serán de cinco a cien veces el valor diario de la Unidad de Medida y Actualización, de acuerdo con la naturaleza de la infracción y las condiciones económicas del infractor observándose en todo caso lo señalado en los párrafos segundo y tercero del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+V.- Las multas a los ganaderos serán de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización, de acuerdo con la gravedad de la infracción y la categoría económica de la ganadería.
 
 ###### ARTICULO 121.
 
@@ -1090,3 +1100,17 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los catorce días del mes de mayo del año dos mil tres.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- Rubrica.- LA SECRETARIA GENERAL DE GOBIERNO.- MERCEDES DEL CARMEN GUILLEN VICENTE.- Rubrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
