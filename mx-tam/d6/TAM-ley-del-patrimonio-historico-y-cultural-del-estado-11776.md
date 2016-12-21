@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-patrimonio-historico-y-cultural-del-estado-11776"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-26"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DEL PATRIMONIO HISTORICO Y CULTURAL DEL ESTADO
 
-LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO
+LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 1997.
 
@@ -501,9 +501,9 @@ Las sanciones administrativas podrán consistir en:
 
 I.- Clausura temporal o definitiva, total o parcial, de las instalaciones, construcciones, obras o servicios;
 
-> <small>(REFORMADA, P.O. 15 DE OCTUBRE DEL 2002)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- Multa equivalente de 50 y hasta 200 días de salario mínimo vigente en la Capital del Estado, o hasta el 20% del valor comercial de los muebles e inmuebles;
+II. Multa equivalente de cincuenta y hasta doscientas veces el valor diario de la Unidad de Medida y Actualización, o hasta el 20% del valor comercial de los muebles e inmuebles;
 
 III.- Suspensión de las obras que se ejecuten sin autorización o en contravención a lo dispuesto por esta Ley;
 
@@ -622,3 +622,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
