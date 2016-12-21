@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2016-12-16"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -121,7 +121,9 @@ En el Estado de Querétaro el Gobierno se sustenta en el valor de la ética, por
 
 La educación que se imparta en el Estado, promoverá el conocimiento de su geografía, cultura, derechos humanos, características sociales y económicas, valores arqueológicos, históricos y artísticos, tradiciones, lenguas y creencias de los grupos indígenas y el papel de estos en la historia e identidad de los queretanos y de la Nación Mexicana.
 
-El Sistema Educativo Estatal estará orientado a exaltar los valores universales cívicos y democráticos del hombre; a propiciar el conocimiento, la defensa y respeto a los derechos humanos; a fomentar el trabajo productivo para una convivencia social armónica y promover el desarrollo de la ciencia, la tecnología y la innovación. Se reconoce la autonomía de la universidad pública en los términos que la ley establezca. Se promoverá y se atenderá la educación superior necesaria para el desarrollo del Estado, destinando el subsidio suficiente y oportuno para el cumplimiento eficaz de sus fines.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+El Sistema Educativo Estatal estará orientado a exaltar los valores universales cívicos y democráticos del hombre; a propiciar el conocimiento, la defensa y respeto a los derechos humanos; a fomentar la cultura de la legalidad, el trabajo productivo para una convivencia social armónica y promover el desarrollo de la ciencia, la tecnología y la innovación. Se reconoce la autonomía de la universidad pública en los términos que la Ley establezca. Se promoverá y se atenderá la educación superior necesaria para el desarrollo del Estado, destinando el subsidio suficiente y oportuno para el cumplimiento eficaz de sus fines.
 
 La cultura de los queretanos constituye un bien irrenunciable y un derecho fundamental. Las leyes protegerán el patrimonio y las manifestaciones culturales; las autoridades, con la participación responsable de la sociedad, promoverán el rescate, la preservación, el fortalecimiento, la protección, la restauración y la difusión del patrimonio cultural que define al pueblo queretano, mismo que es inalienable e imprescriptible.
 
@@ -347,9 +349,13 @@ II. Aprobar las leyes en todas las materias, con excepción de las expresamente 
 
 III. Elegir, con el voto de las dos terceras partes de sus integrantes, al ciudadano que deba asumir el cargo de Gobernador con el carácter de provisional, interino o sustituto, en los casos y términos que esta Constitución prescribe;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV. Elegir, con el voto de cuando menos las dos terceras partes de los integrantes de la Legislatura, a los Magistrados del Tribunal Superior de Justicia, al Magistrado del Tribunal de lo Contencioso Administrativo; al Presidente de la Defensoría de los Derechos Humanos de Querétaro, a los Comisionados de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, al Auditor Superior del Estado, al Fiscal General del Estado y a los demás servidores públicos que determine la Ley; debiendo mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados;
+IV. Elegir, con el voto de cuando menos las dos terceras partes de los integrantes de la Legislatura, a los Magistrados del Tribunal Superior de Justicia, al Presidente de la Defensoría de los Derechos Humanos de Querétaro, a los Comisionados de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, al Auditor Superior del Estado, al Fiscal General del Estado y a los demás servidores públicos que determine la Ley; debiendo mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados.
+
+Ratificar por las dos terceras partes de sus miembros presentes de la Legislatura del Estado, el nombramiento que el Gobernador del Estado de Querétaro, haga del Secretario responsable del control interno del Poder Ejecutivo del Estado.
+
+Asimismo, la Legislatura del Estado designará por las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos que esta Constitución les reconoce autonomía;
 
 V. Conceder licencia a los diputados, al gobernador; así como conceder las licencias y admitir las renuncias a los Magistrados del Tribunal Superior de Justicia y de los demás funcionarios cuya designación competa a la propia Legislatura;
 
@@ -659,7 +665,9 @@ ARTÍCULO 30 BIS. El Ministerio Público es la institución que tiene por objeto
 
 El Ministerio Público se organizará en una Fiscalía General del Estado, como organismo constitucional autónomo dotado de personalidad jurídica y patrimonio propios que se regirá por su Ley.
 
-Dicho organismo constitucional autónomo contará con un Consejo, en el que se garantice la participación ciudadana; con un cuerpo de policía de investigación que actuará bajo la conducción y mando del Ministerio Público, con una Unidad Especializada en Delitos Electorales y las demás que establezca su Ley.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Dicho organismo constitucional autónomo contará con un Consejo, en el que se garantice la participación ciudadana; con un cuerpo de policía de investigación que actuará bajo la conducción y mando del Ministerio Público, con una Unidad Especializada en Delitos Electorales, una Fiscalía Especializada en el Combate a la Corrupción y las demás que establezca su Ley.
 
 Para ser Fiscal General del Estado se requiere ser ciudadano mexicano por nacimiento; tener cuando menos 35 años cumplidos al día de la designación; contar con una residencia en el Estado de Querétaro de cuando menos tres años inmediatamente anteriores a la fecha de la designación; contar con título profesional de Licenciado en Derecho con una antigüedad mínima de cinco años; tener cuando menos cinco años de experiencia en la procuración de justicia o bien cinco años de reconocida trayectoria en materia de derecho penal, no haber sido condenado por delito doloso y gozar de buena reputación.
 
@@ -677,35 +685,55 @@ Las ausencias del Fiscal General del Estado serán suplidas en los términos que
 
 El Fiscal General del Estado presentará un informe anual mediante comparecencia ante la Legislatura del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2014)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 30 ter. El titular de la Fiscalía Especializada en el Combate a la Corrupción, será designado por las dos terceras partes de los miembros presentes de la Legislatura del Estado y deberá cubrir los mismos requisitos descritos en el párrafo cuarto, del artículo 30 bis, de la presente Constitución. Durará en su encargo nueve años y únicamente podrá ser removido por las causas graves que establezca la Ley, mediante la misma votación requerida para su designación.
+
+El titular de la Fiscalía Especializada en el Combate a la Corrupción presentará un informe anual ante la Legislatura del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 31.
 
-La Entidad Superior de Fiscalización del Estado de Querétaro, es el organismo público autónomo, mediante el cual se ejercerá la función de fiscalización, en los términos que establece la ley y conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad. Tendrá a su cargo:
+La Entidad Superior de Fiscalización del Estado de Querétaro, es el organismo público autónomo, mediante el cual se ejercerá la función de fiscalización, en los términos que establece la Ley y conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad. Tendrá a su cargo:
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-I. Fiscalizar, en forma posterior, los ingresos y egresos, el manejo, la custodia y la aplicación de los recursos de los Poderes del Estado, de las Entidades Públicas, cualquiera que sea su naturaleza jurídica, y, en general, cualquier persona física o moral que recaude, administre, maneje o ejerza recursos públicos, así como el cumplimiento de los objetivos contenidos en los programas gubernamentales;
+I. Fiscalizar en forma posterior los ingresos y egresos, el manejo, la custodia y la aplicación de los recursos de los Poderes del Estado, de los entes públicos, cualquiera que sea su naturaleza jurídica, y, en general, de cualquier persona física o moral que recaude, administre, utilice, maneje o ejerza recursos públicos, así como el cumplimiento de los objetivos contenidos en los programas gubernamentales.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II. Investigar los actos y omisiones que impliquen irregularidad o conducta ilícita en materia de cuenta pública y manejo de recursos públicos;
+Además, fiscalizará las acciones del Estado y los municipios, en materia de fondos, recursos locales y deuda pública;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-III. Determinar los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, promoviendo ante las autoridades competentes el fincamiento de responsabilidades. En su caso podrá imponer las sanciones correspondientes;
+II. Realizar revisiones durante el ejercicio fiscal en curso o respecto de ejercicios anteriores, en las situaciones que determine la Ley;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV. Entregar el informe del resultado de la revisión de la Cuenta Pública al Presidente de la Legislatura del Estado, debiendo guardar reserva de sus actuaciones y observaciones hasta que se publiquen los informes de la misma; y
+III. Investigar, en el ámbito de su competencia, los actos y omisiones que impliquen irregularidades o conductas ilícitas o la comisión de faltas administrativas, en términos de las disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 4 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-V. Actuar como órgano técnico de la Legislatura para la revisión y fiscalización de las cuentas públicas de los municipios, en los términos que establezca la Ley.
+IV. Determinar la existencia de daños y perjuicios que afecten a la Hacienda Pública estatal o municipal, promoviendo ante las autoridades competentes la imposición de las sanciones correspondientes;
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Los Poderes del Estado y demás entidades públicas, independientemente de su naturaleza, son sujetos de fiscalización y estarán obligados, en los términos de Ley, a rendir cuentas del ejercicio presupuestal que les corresponda ante la Entidad Superior de Fiscalización del Estado, así como a facilitar los auxilios que requiera la misma para el ejercicio de sus funciones, con excepción de los Municipios, que lo harán ante la Legislatura.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+V. Entregar el Informe General del Resultado de la Fiscalización Superior de la Cuenta Pública, al Poder Legislativo del Estado, debiendo guardar reserva de sus actuaciones y observaciones hasta la entrega de dicho informe;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VI. Actuar como órgano técnico de la Legislatura para la revisión y fiscalización de las cuentas públicas de los municipios, en los términos que establezca la Ley; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VII. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de Querétaro y la Fiscalía Especializada en el Combate a la Corrupción, para la imposición de sanciones a los servidores públicos estatales y municipales y a los particulares.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Los Poderes del Estado y demás entes públicos, independientemente de su naturaleza, son sujetos de fiscalización y estarán obligados en los términos que establezca la Ley, a rendir cuentas del ejercicio presupuestal que les corresponda ante la Entidad Superior de Fiscalización del Estado, así como a facilitar los auxilios que requiera la misma para el ejercicio de sus funciones, con excepción de los Municipios, que lo harán ante la Legislatura.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -761,21 +789,41 @@ Toda autoridad y servidor público estará obligado a coadyuvar con el organismo
 
 ### Capítulo Sexto. De los Tribunales Administrativos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 34.
 
-El funcionamiento del Tribunal de lo Contencioso Administrativo y del Tribunal de Conciliación y Arbitraje del Estado, se sujetará a lo siguiente:
+El funcionamiento del Tribunal de Justicia Administrativa del Estado de Querétaro y del Tribunal de Conciliación y Arbitraje del Estado de Querétaro, se sujetará a lo siguiente:
 
 Apartado A.
 
-El Tribunal de lo Contencioso Administrativo estará dotado de plena autonomía y será independiente de cualquier autoridad administrativa. Tendrá a su cargo dirimir las controversias de carácter administrativo que se susciten entre las dependencias administrativas estatales y municipales con los particulares.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Residirá en la ciudad de Santiago de Querétaro y tendrá la estructura, la organización, la jurisdicción y la competencia que le atribuya la ley. Para ser Magistrado, se deberán satisfacer los requisitos que se señalan en el artículo 28 de la presente Constitución y será electo para un período de cuatro años, pudiendo ser ratificado por un periodo igual.
+El Tribunal de Justicia Administrativa del Estado de Querétaro estará dotado de plena autonomía, será independiente de cualquier autoridad administrativa y tendrá su residencia en la ciudad de Santiago de Querétaro, Qro. La Ley establecerá su organización, funcionamiento, procedimientos y, en su caso, los recursos contra sus resoluciones.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Asimismo, tendrá a su cargo dirimir las controversias de carácter administrativo y fiscal que se susciten entre la administración pública estatal y municipal con los particulares y será el órgano competente para imponer, en los términos que disponga la Ley, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como para fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+El Tribunal de Justicia Administrativa del Estado de Querétaro, se compondrá de tres Magistrados propietarios, los cuales serán propuestos por el Titular del Ejecutivo del Estado y electos por cuando menos las dos terceras partes de los miembros presentes de la Legislatura del Estado.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Para ser Magistrado se deberá contar con experiencia en materia de derecho administrativo de al menos cinco años previos a la designación, satisfacer los requisitos que se señalan en el artículo 28 de la presente Constitución y su designación será para un periodo de doce años. No se podrá ocupar el cargo como propietario en forma consecutiva, ni discontinua, por más de dicho periodo; a su vencimiento, o antes si el Magistrado llega a la edad de setenta años, cesará en sus funciones, tendrá derecho a un haber por retiro y podrá ser considerado Magistrado supernumerario o para otros cargos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que establezca la Ley y con la misma votación requerida para su designación.
 
 Apartado B.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 El Tribunal de Conciliación y Arbitraje del Estado, es un órgano autónomo que tiene a su cargo conocer y resolver los conflictos que se susciten entre las entidades públicas del Estado y de los Municipios con sus trabajadores y sobre los conflictos de los Sindicatos de los Trabajadores al Servicio del Estado y al Servicio de los Municipios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Residirá en la ciudad de Santiago de Querétaro y tendrá la estructura, la organización, la competencia y la jurisdicción que determine la ley.
 
@@ -837,37 +885,93 @@ El Presidente Municipal, en el mes de julio de cada año, rendirá ante el Ayunt
 
 ### Capítulo Primero. De la responsabilidad
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 38.
 
-Los Servidores Públicos serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones. La Ley y demás normas conducentes a sancionar a quienes, teniendo este carácter, incurran en responsabilidades, se ajustarán a las siguientes prevenciones:
+Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
 
 I. Se impondrán, mediante juicio político, cuando los servidores públicos en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Podrán ser sujetos a juicio político, los Magistrados de los Tribunales del Estado, los Jueces del Poder Judicial, los Secretarios, Sub-secretarios, Oficial Mayor y Directores de la Administración Pública Estatal, el Fiscal General del Estado y los Ministerios Públicos; el Auditor Superior del Estado, los Comisionados integrantes de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, los miembros de los Ayuntamientos y los Directores Generales o sus equivalentes en las entidades paraestatales y paramunicipales;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II. La comisión de delitos, por parte de cualquier servidor público, será perseguida y sancionada en los términos de la legislación penal. Para proceder por delitos del orden común en contra del Gobernador del Estado, los Diputados de la Legislatura, los Magistrados del Tribunal Superior de Justicia, los Jueces, el Fiscal General del Estado, los Presidentes Municipales y los titulares de los Organismos Autónomos reconocidos por esta Constitución, no se requiere declaración de procedencia por la Legislatura del Estado;
+La resolución relativa a lo previsto en la presente fracción será inatacable.
 
-III. Se aplicarán sanciones administrativas a los Servidores Públicos por los actos u omisiones que afecten la legalidad, la honradez, la lealtad, la imparcialidad y la eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV. Los procedimientos para la aplicación de las sanciones mencionadas, se desarrollarán autónomamente; y
+II. La comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será perseguida y sancionada en los términos de la legislación penal aplicable.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+Las leyes determinarán los casos y circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo, o por motivos del mismo, por sí o por interpósita persona, aumenten su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes penales sancionarán con decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan.
 
-V. La resolución relativa a lo previsto en la fracción I del presente artículo es inatacable.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P. O. 31 DE MARZO DE 2008)</small>
+III. Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad, la honradez, la lealtad, la imparcialidad y la eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones. Dichas sanciones consistirán en amonestación, suspensión, destitución e inhabilitación, así como en sanciones económicas, y deberán establecerse de acuerdo con los beneficios económicos que, en su caso, haya obtenido el responsable y con los daños y perjuicios patrimoniales causados por los actos u omisiones. La Ley establecerá los procedimientos para la investigación y sanción de dichos actos u omisiones. La sanción se ejecutará hasta que la resolución sea firme.
 
-### Capítulo Segundo. Disposiciones Complementarias
+Las faltas administrativas graves serán investigadas y substanciadas por la Entidad Superior de Fiscalización del Estado de Querétaro, la Secretaría de la Contraloría del Poder Ejecutivo y los órganos internos de control, según corresponda y serán resueltas por el Tribunal de Justicia Administrativa del Estado de Querétaro. Las demás faltas y sanciones administrativas, serán conocidas y resueltas por la citada dependencia y los órganos internos de control.
+
+Los entes públicos del Estado y los municipios, contarán con órganos internos de control con las facultades que determine la Ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas; para sancionar aquéllas distintas de las que son competencia del Tribunal de Justicia Administrativa del Estado de Querétaro; para realizar actos de vigilancia, así como para presentar denuncias por hechos u omisiones que pudieran ser constitutivos de delitos ante la Fiscalía Especializada en el Combate a la Corrupción; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV. El Tribunal de Justicia Administrativa del Estado de Querétaro impondrá a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios ocasionados a la Hacienda Pública o a los entes públicos estatales o municipales. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella.
+
+También podrá ordenarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública o a los entes públicos estatales o municipales, siempre que la sociedad obtenga un beneficio económico y se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea firme. Las leyes establecerán los procedimientos para la investigación e imposición de las sanciones aplicables de dichos actos u omisiones;
+
+V. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en los artículos 29 y 30 de esta Constitución, sin perjuicio de las atribuciones de la Entidad Superior de Fiscalización del Estado de Querétaro sobre el manejo, la custodia y aplicación de recursos públicos.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+En todos los procesos derivados o relativos al presente artículo, las autoridades garantizarán a los involucrados los Derechos Humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la propia del Estado y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección. Las normas relativas a los Derechos Humanos se interpretarán de conformidad con la Constitución Federal, este ordenamiento y con los tratados internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 38 bis. El titular del Poder Ejecutivo del Estado, los Diputados de la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia del Estado, los miembros del Consejo de la Judicatura del Poder Judicial del Estado, los integrantes de los ayuntamientos de los municipios del Estado, los servidores públicos de los organismos constitucionales autónomos, así como los demás servidores públicos estatales y municipales, estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses, en los términos que determine la Ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+### Capítulo Segundo. Del Sistema Estatal Anticorrupción de Querétaro
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 38 ter. El Sistema Estatal Anticorrupción de Querétaro es la instancia de coordinación entre las autoridades estatales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. La integración, atribuciones y funcionamiento del Sistema, se regirán por lo que dispongan las leyes, atendiendo a las bases siguientes:
+
+I. El Sistema contará con:
+
+a) Un Comité Coordinador que será la instancia responsable de establecer mecanismos de coordinación entre los integrantes del Sistema y tendrá a su cargo el diseño, promoción y evaluación de políticas públicas de combate a la corrupción en la Entidad.
+
+El Comité estará integrado por los titulares de la Entidad Superior de Fiscalización del Estado de Querétaro, de la Secretaría de la Contraloría del Poder Ejecutivo del Estado, de la Fiscalía Especializada en el Combate a la Corrupción, por el Presidente del Tribunal de Justicia Administrativa del Estado de Querétaro; el Presidente de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Querétaro, así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado de Querétaro y otro del Comité de Participación Ciudadana, quien lo presidirá;
+
+b) Un Comité de Participación Ciudadana, cuyo propósito será el de coadyuvar al cumplimiento de los objetivos del Comité Coordinador, en los términos que establezcan las leyes, así como ser la instancia de vinculación entre las organizaciones sociales y académicas relacionadas con las materias del Sistema Estatal Anticorrupción de Querétaro.
+
+El Comité deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la Ley;
+
+II. Asimismo, el Sistema:
+
+a) Tendrá acceso a la información pública necesaria, adecuada y oportuna para el ejercicio de sus atribuciones.
+
+b) Las recomendaciones, políticas públicas e informes que emita deberán tener respuesta de los sujetos públicos a quienes se dirijan y contará con las atribuciones y procedimientos adecuados para dar seguimiento a las mismas.
+
+c) Rendirá un informe público a los titulares de los Poderes del Estado, en el que dará cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+### Capítulo Tercero. Disposiciones Complementarias
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-### CAPITULO ÚNICO
-
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 39.
 
@@ -1676,3 +1780,29 @@ P.O. 16 DE DICIEMBRE DE 2016.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE QUERÉTARO, EN MATERIA DE COMBATE A LA CORRUPCIÓN”.]
+
+Artículo Primero. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Constitución.
+
+Artículo Tercero. El contenido de los artículos 38 y 38 bis de la presente Constitución y el de las disposiciones que de los mismos se deriven, que se encuentre vinculado con la Ley General de Responsabilidades Administrativas, entrarán en vigor hasta que éste último ordenamiento cobre vigencia.
+
+Artículo Cuarto. La Legislatura del Estado deberá expedir la Ley que establezca las bases del Sistema Estatal Anticorrupción de Querétaro a que se refiere el artículo 38-ter de esta Constitución, la Ley de Responsabilidades Administrativas del Estado de Querétaro, la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Querétaro y además, realizar las adecuaciones normativas correspondientes a la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Querétaro y demás disposiciones aplicables, a fin de dar cumplimiento a lo establecido en la presente Constitución.
+
+Artículo Quinto. Lo dispuesto por el segundo párrafo, de la fracción I, del artículo 31 de la Constitución Política del Estado de Querétaro, entrará en vigor a partir del 1° de enero de 2017.
+
+La reforma a la fracción V del artículo a que se refiere el párrafo anterior, por cuanto ve a las funciones de fiscalización superior y revisión de la Entidad Superior de Fiscalización del Estado de Querétaro, entrará en vigor en la misma fecha en que lo hagan las reformas correspondientes a la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Querétaro.
+
+Artículo Sexto. Para efectos de la conformación del Tribunal de Justicia Administrativa del Estado de Querétaro, el Titular del Poder Ejecutivo del Estado enviará las propuestas de los magistrados dentro de los tres meses siguientes a la fecha de entrada en vigor de la presente Ley. La Legislatura deberá resolver en el improrrogable plazo de un mes contado a partir de que la propuesta se reciba.
+
+El Magistrado Propietario de la Sala Unitaria del Tribunal de lo Contencioso Administrativo del Estado de Querétaro en funciones, continuará en su cargo como Magistrado Propietario del Tribunal de Justicia Administrativa del Estado de Querétaro, exclusivamente por el período para el cual fue designado como Magistrado Propietario de la Sala Unitaria del Tribunal de lo Contencioso Administrativo del Estado de Querétaro. Al término del mismo, se procederá a la designación del nuevo Magistrado Propietario del citado Tribunal de Justicia Administrativa de conformidad con lo establecido en esta Constitución y demás disposiciones aplicables.
+
+El Pleno de la Sala Superior del Tribunal de Justicia Administrativa del Estado de Querétaro, en la primera sesión que celebre, elegirá de entre sus integrantes a su Presidente. Dicha sesión deberá llevarse a cabo dentro de los cinco días hábiles siguientes a la fecha en la que entre en vigor la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Querétaro.
+
+El Tribunal de lo Contencioso Administrativo del Estado de Querétaro continuará funcionando con su actual organización y atribuciones, así como substanciando los asuntos que se encuentren en trámite, hasta la entrada en vigor de la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Querétaro a la que se refiere el Artículo Cuarto Transitorio de esta Constitución.
+
+Artículo Séptimo. Los servidores públicos a que se refieren los párrafos segundo y tercero de la fracción IV, del artículo 17 de la presente Constitución que se encuentren en funciones a la entrada en vigor de la presente reforma continuarán en su encargo en los términos en los que fueron nombrados.
