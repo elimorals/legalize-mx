@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-de-los-servidores-publicos-del-8198"
 country: "mx"
 rank: "ley"
 publication_date: "1984-03-03"
-last_updated: "2016-11-15"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 3 de marzo de 1984.
 
@@ -343,7 +343,9 @@ Presentada la excusa o la recusación se calificará dentro de los tres días na
 
 Tanto el inculpado como el denunciante o querellante podrán solicitar de las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como pruebas ante la Sección respectiva, el Congreso o el Supremo Tribunal de Justicia.
 
-Las autoridades estarán obligadas a expedir dichas copias certificadas, sin demora, y si no lo hicieren, la Sección, el Congreso o el Supremo Tribunal de Justicia, a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el salario mínimo diario vigente en la capital del Estado, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Las autoridades estarán obligadas a expedir dichas copias certificadas, sin demora, y si no lo hicieren, la Sección, el Congreso o el Supremo Tribunal de Justicia, a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
 
 Por su parte, la Sección, el Congreso o el Supremo Tribunal de Justicia solicitarán las copias certificadas de constancias que estimen necesarias para el procedimiento, y si la autoridad de quien la solicitasen no las remite dentro del plazo discrecional que se le señale, se impondrá la multa a que se refiere el párrafo anterior.
 
@@ -547,9 +549,9 @@ V.- Sanción económica;
 
 VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de uno a cinco años, si el monto de aquéllos no excede de cien veces el salario mínimo mensual vigente en la capital del Estado, y de cinco a diez años si excede de dicho límite.
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, será de uno a cinco años, si el monto de aquéllos no excede de cien veces el valor diario de la Unidad de Medida y Actualización, y de cinco a diez años si excede de dicho límite.
 
 ###### ARTICULO 54.
 
@@ -569,11 +571,13 @@ VI.- La reincidencia en el incumplimiento de obligaciones; y
 
 VII.- El monto del beneficio, daño o perjuicio económico derivado del incumplimiento de obligaciones.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 55.
 
-En caso de aplicación de sanciones económicas por beneficios obtenidos y daños y perjuicios causados por incumplimiento de las obligaciones establecidas en el Artículo 47, se fijarán en dos tantos del lucro obtenido y de los daños y perjuicios causados; en caso de no cubrirse al momento de su determinación, el monto de la sanción se aumentará proporcionalmente a los incrementos del salario mínimo desde la fecha en que se fijó la sanción hasta la del momento del pago.
+En caso de aplicación de sanciones económicas por beneficios obtenidos y daños y perjuicios causados por incumplimiento de las obligaciones establecidas en el Artículo 47, se fijarán en dos tantos del lucro obtenido y de los daños y perjuicios causados; en caso de no cubrirse al momento de su determinación, el monto de la sanción se aumentará proporcionalmente a los incrementos del valor diario de la Unidad de Medida y Actualización desde la fecha en que se fijó la sanción hasta la del momento del pago.
 
-Por salario mínimo se entenderá el que rija en la Capital del Estado.
+Por valor diario de la Unidad de Medida y Actualización se entenderá aquél que fije el Instituto Nacional de Estadística y Geografía.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
@@ -593,9 +597,9 @@ IV.- La Contraloría promoverá los procedimientos a que hacen referencia las fr
 
 V.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será aplicable por resolución jurisdiccional, que dictará el órgano que corresponda según las leyes aplicables; y
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando no excedan de un monto equivalente a cien veces el salario mínimo diario vigente en la capital del Estado, y por la Contraloría cuando sean superiores a esa cantidad.
+VI.- Las sanciones económicas serán aplicadas por el superior jerárquico cuando no excedan de un monto equivalente a cien veces el valor diario de la Unidad de Medida y Actualización, y por la Contraloría cuando sean superiores a esa cantidad.
 
 ###### ARTICULO 57.
 
@@ -621,11 +625,11 @@ La Contraloría Gubernamental aplicará las sanciones correspondientes a los con
 
 Incurrirán en responsabilidad administrativa los servidores públicos de las contralorías internas que se abstengan injustificadamente de sancionar a los infractores o que, al hacerlo, no se ajusten a lo previsto por esta ley. La Contraloría Gubernamental informará de ello al titular de la dependencia y aplicará las sanciones correspondientes.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 60.
 
-La Contraloría Interna de cada dependencia será competente a imponer sanciones disciplinarias, excepto las económicas cuyo monto sea superior a cien veces de salario mínimo diario en la capital del Estado, las cuales están reservadas exclusivamente a la Contraloría Gubernamental, misma que comunicará los resultados del procedimiento al titular de la dependencia o entidad. En este último caso, el órgano de control interno de que se trate, previo informe al superior jerárquico, turnará el asunto a dicha dependencia de la administración pública del Estado.
+La Contraloría Interna de cada dependencia será competente a imponer sanciones disciplinarias, excepto las económicas cuyo monto sea superior a cien veces el valor diario de la Unidad de Medida y Actualización, las cuales están reservadas exclusivamente a la Contraloría Gubernamental, misma que comunicará los resultados del procedimiento al titular de la dependencia o entidad. En este último caso, el órgano de control interno de que se trate, previo informe al superior jerárquico, turnará el asunto a dicha dependencia de la administración pública del Estado.
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
 
@@ -639,11 +643,11 @@ Si el órgano de control interno de la dependencia tuviera conocimiento de hecho
 
 Si de las investigaciones y auditorías que realice la Contraloría Gubernamental apareciera responsabilidad de los servidores públicos, ésta informará al titular y al órgano de control interno de la dependencia correspondiente, para que esta última proceda a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidades mayores cuyo conocimiento sólo compete a la propia Contraloría Gubernamental, ésta se abocará directamente al asunto, informando de ello al titular de la dependencia y al órgano de control interno de la misma para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
 
-> <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 63.
 
-En los ámbitos de sus respectivas competencias, la dependencia y la Contraloría Gubernamental, podrán abstenerse de sancionar al infractor por una sola vez, cuando lo estimen pertinente y mediante la justificación de la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, el daño causado no exceda de cien veces al salario mínimo diario vigente en la capital del Estado y lo ameriten los antecedentes y circunstancias del infractor.
+En los ámbitos de sus respectivas competencias, la dependencia y la Contraloría Gubernamental, podrán abstenerse de sancionar al infractor por una sola vez, cuando lo estimen pertinente y mediante la justificación de la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, el daño causado no exceda de cien veces el valor diario de la Unidad de Medida y Actualización y lo ameriten los antecedentes y circunstancias del infractor.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2002)</small>
 
@@ -761,7 +765,9 @@ Si el servidor público presunto responsable confesare su responsabilidad por el
 
 Para el cumplimiento de las atribuciones que le confiere esta ley, la Contraloría Gubernamental podrá emplear los siguientes medios de apremio:
 
-I.- Sanción económica de hasta veinte veces el salario mínimo diario vigente en Ciudad Victoria;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+I.- Sanción económica de hasta veinte veces el valor diario de la Unidad de Medida y Actualización; y
 
 II.- Auxilio de la fuerza publica.
 
@@ -773,13 +779,13 @@ Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que
 
 Las facultades del superior jerárquico y de la Contraloría Gubernamental para imponer las sanciones que prevé esta ley, se sujetarán a lo siguiente:
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-I.- Prescribirán en dos años las responsabilidades cuando el beneficio obtenido o el daño causado por el infractor no exceda de quinientas veces el salario mínimo diario vigente en la capital del Estado, o si la responsabilidad no fuese estimable en dinero;
+I.- Prescribirán en dos años las responsabilidades cuando el beneficio obtenido o el daño causado por el infractor no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, o si la responsabilidad no fuese estimable en dinero;
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- Prescribirán en tres años las responsabilidades cuando el beneficio obtenido o el daño causado por el infractor exceda de quinientas veces el salario mínimo diario vigente en la capital del Estado, y no se trate de los supuestos previstos en la siguiente fracción; y
+II.- Prescribirán en tres años las responsabilidades cuando el beneficio obtenido o el daño causado por el infractor exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, y no se trate de los supuestos previstos en la siguiente fracción; y
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -897,7 +903,9 @@ Para los efectos de ésta Ley y el Código Penal, se computarán entre los biene
 
 Durante el desempeño de su empleo, cargo o comisión y un año después, los servidores públicos no podrán solicitar, aceptar o recibir por sí, o por interpósita persona, dinero o cualquier otra donación, servicio, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción XIII del Artículo 47 y que procedan de cualquier persona cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público en el desempeño de su empleo, cargo o comisión, que determinen conflicto de intereses.
 
-Para los efectos del párrafo anterior no se considerarán los que reciba el servidor público en una o mas ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente, durante un año, cuando el valor acumulado durante ese año no sea superior a diez veces el salario mínimo diario vigente en la capital del Estado, en el momento de su recepción.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos del párrafo anterior no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente, durante un año, cuando el valor acumulado durante ese año no sea superior a diez veces el valor diario de la Unidad de Medida y Actualización, en el momento de su recepción.
 
 En ningún caso se podrán recibir de dichas personas títulos-valor, bienes inmuebles o sesiones de derechos sobre juicios o controversias en las que se dirima la titularidad de los derechos de posesión o de propiedad sobre bienes de cualquier clase.
 
@@ -1076,3 +1084,15 @@ El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondi
 ###### ARTÍCULO TERCERO.
 
 Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
