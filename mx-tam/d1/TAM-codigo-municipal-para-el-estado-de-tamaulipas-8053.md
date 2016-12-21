@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1911,7 +1911,9 @@ El contribuyente podrá pagar el impuesto por anticipado.
 
 Las deducciones a que se refiere el Artículo 124, serán las siguientes:
 
-I.- La deducción consistirá en 15 veces el salario mínimo general elevado al año, vigente en la capital del Estado, en la fecha que deba efectuarse el pago; en las adquisiciones de terrenos que no excedan de 250 M2., y cuando incluyan casa o departamento habitacional; éstos no excedan de 100 M2. y se adquieran a través de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+I.- La deducción consistirá en quince veces el valor diario de la Unidad de Medida y Actualización, en la fecha que deba efectuarse el pago; en las adquisiciones de terrenos que no excedan de 250 M2., y cuando incluyan casa o departamento habitacional; éstos no excedan de 100 M2. y se adquieran a través de:
 
 a).- El Instituto Tamaulipeco de la Vivienda y Urbanización.
 
@@ -1929,7 +1931,9 @@ g).- Comisión para la Regularización de la Tenencia de la Tierra.
 
 h).- Créditos otorgados por Instituciones de Crédito.
 
-II.- La deducción será de 300 veces el salario mínimo general elevado al año vigente en la capital del Estado, en la fecha que deba efectuarse el pago, en las adquisiciones de terrenos que efectúan los Organismos que se mencionan a continuación:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II.- La deducción será de trescientas veces el valor diario de la Unidad de Medida y Actualización, en la fecha que deba efectuarse el pago, en las adquisiciones de terrenos que efectúan los Organismos que se mencionan a continuación:
 
 a).- El Instituto Tamaulipeco de la Vivienda y Urbanización.
 
@@ -3751,7 +3755,11 @@ Salvo las excepciones previstas en este Código y en las leyes correspondientes,
 
 I.- Amonestación.
 
-II.- Multa hasta por el equivalente a veinte veces el salario mínimo diario vigente en la región; por lo que se refiere a infracciones a los reglamentos gubernativos y de policía, si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II.- Multa hasta por el equivalente a veinte veces el valor diario de la Unidad de Medida y Actualización; por lo que se refiere a infracciones a los reglamentos gubernativos y de policía, si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o un valor diario de la Unidad de Medida y Actualización.
+
+Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
 III.- Suspensión temporal o cancelación del permiso o licencia.
 
@@ -3763,7 +3771,9 @@ V.- Arresto hasta por treinta y seis horas.
 
 VI.- A los concesionarios de los servicios públicos municipales:
 
-A).- Multa hasta por el importe de cincuenta veces el salario mínimo diario vigente en la región, lo cual se duplicará en caso de reincidencia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+A).- Multa hasta por el importe de cincuenta veces el valor diario de la Unidad de Medida y Actualización, lo cual se duplicará en caso de reincidencia.
 
 B).- Cancelación y caducidad de la concesión.
 
@@ -4079,13 +4089,15 @@ Las diligencias que deban practicarse fuera del recinto del Tribunal, se encomen
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 341.
+###### ARTICULO 341.
 
 El Juez de oficio o a petición de parte, para hacer cumplir sus determinaciones podrá hacer uso, indistintamente, de los siguientes medios de apremio:
 
 I.- Amonestación;
 
-II.- Multa equivalente al monto de sesenta y cinco a quinientas cuotas de salario mínimo vigente en el área geográfica del lugar de residencia del Tribunal. En caso de persistir el incumplimiento podrá aplicarse hasta el doble de la multa máxima antes referida;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II.- Multa equivalente al monto de sesenta y cinco a quinientas veces el valor diario de la Unidad de Medida y Actualización. En caso de persistir el incumplimiento podrá aplicarse hasta el doble de la multa máxima antes referida;
 
 III.- Arresto hasta por treinta y seis horas; y
 
@@ -4093,11 +4105,13 @@ IV.- Auxilio de la fuerza pública.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 342.
+###### ARTICULO 342.
 
 El Juez tiene el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, tanto a ellos, como a los demás servidores públicos del Tribunal, sancionando, en el acto, las faltas que se cometieren, con multas que podrán ser de cinco a ciento veinte cuotas, observando lo dispuesto por los artículos 21 y 22 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Una cuota será el salario mínimo general diario que rija en el área geográfica del lugar de residencia del Tribunal.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Una cuota será el valor diario de la Unidad de Medida y Actualización.
 
 Pueden emplear también el uso de la fuerza pública.
 
@@ -4243,11 +4257,13 @@ Todas las notificaciones surtirán efectos a partir del día hábil siguiente al
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 354.
+###### ARTICULO 354.
 
 Las notificaciones que no fueran practicadas en la forma que establecen las disposiciones precedentes serán nulas. Las partes afectadas podrán pedir su nulidad antes de que se dicte sentencia, ofreciendo las pruebas en el mismo escrito en que se promueva. El Tribunal decidirá de plano sin formar expediente. Declarada la nulidad, el procedimiento se repondrá a partir de la notificación irregular.
 
-Si se declara la nulidad de la notificación, se impondrá al servidor público responsable, una multa equivalente a un salario mínimo diario vigente en la capital del Estado. Podrá ser destituido de su cargo en caso de reincidencia, sin responsabilidad para el Estado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Si se declara la nulidad de la notificación, se impondrá al servidor público responsable, una multa equivalente a un valor diario de la Unidad de Medida y Actualización. Podrá ser destituido de su cargo en caso de reincidencia, sin responsabilidad para el Estado.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -4893,11 +4909,11 @@ En todos los casos, el Juez podrá requerir al interesado o a las partes en el j
 
 Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el interesado deberá solicitarlo dentro de los treinta días siguientes a que cause ejecutoria la sentencia; si no lo hiciere dentro de ese término, se procederá a la devolución o cancelación de la garantía. La solicitud correspondiente se tramitará en la vía incidental.
 
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 404.
+###### ARTICULO 404.
 
-Cuando la autoridad demandada no cumpliere la suspensión concedida, a petición de parte se le requerirá el cumplimiento. Si dentro del día siguiente al requerimiento la autoridad no cumpliere con la medida cautelar, se procederá a imponerle una multa de trescientas a mil veces el salario mínimo vigente en el municipio donde resida el Tribunal de Justicia Administrativa Municipal.
+Cuando la autoridad demandada no cumpliere la suspensión concedida, a petición de parte se le requerirá el cumplimiento. Si dentro del día siguiente al requerimiento la autoridad no cumpliere con la medida cautelar, se procederá a imponerle una multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -4985,13 +5001,17 @@ Del reconocimiento se levantará un acta que firmarán todos los que concurriero
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 414.
+###### ARTICULO 414.
 
 Los testigos no podrán pasar de tres respecto de cada hecho. Deberán ser presentados por el oferente en la fecha de la audiencia y sólo en el caso de que éste manifieste bajo protesta de decir verdad su imposibilidad para presentarlos, el Juez los mandará citar si se proporcionan sus domicilios.
 
-El Juez ordenará la citación con apercibimiento de arresto hasta por 24 horas o multa equivalente de quince días de salario mínimo general diario vigente en el municipio donde resida el Tribunal de Justicia Administrativa, que aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente de treinta días de salario mínimo general diario vigente en el municipio donde resida el Tribunal de Justicia Administrativa, debiendo declararse desierta la prueba testimonial.
+El Juez ordenará la citación con apercibimiento de arresto hasta por 24 horas o multa equivalente de quince veces el valor diario de la Unidad de Medida y Actualización, que aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+En caso de que el señalamiento de domicilio de algún testigo resulte inexacto, o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente de treinta veces el valor diario de la Unidad de Medida y Actualización, debiendo declararse desierta la prueba testimonial.
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -5109,15 +5129,19 @@ Formulada que haya sido la propuesta de liquidación, se le dará vista a la par
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 421.
+###### ARTICULO 421.
 
 Si dentro del término de los diez días siguientes al en que haya causado ejecutoria una sentencia que declare la nulidad, ésta no se cumpliere, el Juez de oficio o a petición de parte requerirá a las autoridades condenadas que informen dentro de los tres días siguientes, respecto al cumplimiento de la sentencia.
 
 Concluido el término anterior, con informe o sin él, el Juez decidirá si hubo incumplimiento injustificado de la sentencia, resolviendo lo conducente. En caso de que resuelva la existencia de un incumplimiento injustificado procederá como sigue:
 
-I.- Impondrá a la autoridad que deba cumplir una multa de trescientas a mil veces el salario mínimo vigente en el municipio donde resida el Tribunal de Justicia Administrativa, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiese ocasionado, informándose al Titular de la dependencia municipal, a quien se encuentre subordinada dicha autoridad.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- En el supuesto de que la autoridad o el servidor público persistiera en no dar cumplimiento a la sentencia, el Juez requerirá al titular de la dependencia municipal, a quien se encuentre subordinada dicha autoridad, para que, en un plazo de cinco días hábiles, conmine a ésta a cumplir con la sentencia y proporcione el informe correspondiente, imponiéndosele, en caso de no cumplir con ello, una multa de trescientas a mil veces el salario mínimo vigente en el municipio donde resida el Tribunal de Justicia Administrativa.
+I.- Impondrá a la autoridad que deba cumplir una multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiese ocasionado, informándose al Titular de la dependencia municipal, a quien se encuentre subordinada dicha autoridad.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II.- En el supuesto de que la autoridad o el servidor público persistiera en no dar cumplimiento a la sentencia, el Juez requerirá al titular de la dependencia municipal, a quien se encuentre subordinada dicha autoridad, para que, en un plazo de cinco días hábiles, conmine a ésta a cumplir con la sentencia y proporcione el informe correspondiente, imponiéndosele, en caso de no cumplir con ello, una multa de trescientas a mil veces el valor diario de la Unidad de Medida y Actualización.
 
 III.- De persistir el incumplimiento el Juez podrá decretar la destitución de la autoridad que deba llevar a cabo el cumplimiento de la sentencia, excepto que se trate de una autoridad de elección, en cuyo caso se procederá en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
@@ -5269,7 +5293,7 @@ Se abroga el Decreto No. 407, publicado en el Periódico Oficial del Estado No. 
 
 ###### ARTICULO CUARTO.
 
-Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de Policía la Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
+Se derogan los Artículos 35, fracción III, 38, 39 y 40, de la Ley de la Policía Preventiva de los Municipios del Estado, así como todas las disposiciones que se opongan a este Código.
 
 > <small>(F. DE E., P.O. 2 DE JUNIO DE 1984)</small>
 
@@ -5295,7 +5319,7 @@ El Tribunal de Arbitraje para los Trabajadores al Servicio de los Municipios de 
 
 ###### ARTICULO DECIMO.
 
-Los dispositivos que hacen referencia de la Ley de Responsabilidades de los Servidores Públicos del Estado y la Contraloría, iniciarán su vigencia cuando ambas sean publicadas en el Periódico Oficial del Estado.
+Los dispositivos que hacen referencia de la Ley de Responsabilidades de los Servidores Públicos del Estado y de la Contraloría, iniciarán su vigencia cuando ambas sean publicadas en el Periódico Oficial del Estado.
 
 ###### ARTICULO DECIMO PRIMERO.
 
@@ -5307,7 +5331,7 @@ Cd. Victoria, Tam., a 2 de febrero de 1984.- Diputado Presidente, LIC. TITO RESE
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General del Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
+Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CÓDIGO.</small>
 
@@ -6042,3 +6066,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
