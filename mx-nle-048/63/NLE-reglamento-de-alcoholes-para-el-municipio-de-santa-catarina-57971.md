@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-alcoholes-para-el-municipio-de-santa-catarina-579
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-07"
-last_updated: "2008-08-18"
+last_updated: "2016-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57971&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "NLE"
 ---
 # REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
 
-REGLAMENTO DE ALCOHOLES PARA EL MUNICIPIO DE SANTA CATARINA, NUEVO LEON
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA LA PREVENCIÓN, VENTA Y CONSUMO DE ALCOHOL PARA EL MUNICIPIO DE SANTA CATARINA NUEVO LEÓN, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2008.
+REGLAMENTO DE ALCÓHOLES PARA EL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de diciembre de 2007.
 
@@ -1576,3 +1578,15 @@ SECRETARIO DEL AYUNTAMIENTO
 P.O. 18 DE AGOSTO DE 2008.
 
 PRIMERO. Las presentes disposiciones de reformas por adición y modificación al Reglamento de Alcoholes para el Municipio de Santa Catarina, Nuevo León, publicado en el Periódico Oficia (sic) de fecha 07 de Diciembre de 2007, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DICTAMEN POR EL QUE "SE APRUEBA EL REGLAMENTO PARA LA PREVENCIÓN, VENTA Y CONSUMO DE ALCOHOL PARA EL MUNICIPIO DE SANTA CATARINA N.L.”.]
+
+PRIMERO.- Se abroga el Reglamento de Alcoholes para el Municipio de Santa Catarina, Nuevo León, publicado en el Periódico Oficial del Estado de fecha 7 de Diciembre del 2007. Así como su fe de erratas publicada en el mismo, con fecha 15 de Febrero del 2008, y posteriores reformas.
+
+SEGUNDO.- Se aprueba la Creación del Reglamento para la Prevención, Venta y Consumo de Alcohol, para el Municipio de Santa Catarina Nuevo León.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan al presente Reglamento, siendo que entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+CUARTO.- Envíese al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado y una vez en vigencia publíquese en la Gaceta Municipal, para su mejor difusión y cumplimiento.
