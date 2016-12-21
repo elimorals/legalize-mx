@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-urbano-del-estado-de-tamaulipas-52285"
 country: "mx"
 rank: "ley"
 publication_date: "2006-04-25"
-last_updated: "2016-07-14"
+last_updated: "2016-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de abril de 2006.
 
@@ -109,7 +109,7 @@ II. La promoción del régimen de propiedad en condominio.
 
 ###### ARTÍCULO 3.
 
-1. El ejercicio de las atribuciones del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano, deberá dar cause (sic) al crecimiento para mejorar las condiciones de vida de la población y ofrecer a los habitantes del Estado mejores condiciones para vivir y trabajar, una funcionalidad integral y ordenada y un medio ambiente no contaminado.
+1. El ejercicio de las atribuciones del ordenamiento territorial de los asentamientos humanos y el desarrollo urbano, deberá dar cause al crecimiento para mejorar las condiciones de vida de la población y ofrecer a los habitantes del Estado mejores condiciones para vivir y trabajar, una funcionalidad integral y ordenada y un medio ambiente no contaminado.
 
 2. Los propósitos citados en el párrafo anterior se atenderán, mediante:
 
@@ -499,7 +499,7 @@ III.- Dictar, en coordinación con los Ayuntamientos y la Federación, en su cas
 
 IV.- Promover, gestionar y realizar las acciones e inversiones necesarias para conservar los recursos naturales y mejorar el medio ambiente, en coordinación con los Ayuntamientos y la Federación y de acuerdo a la legislación en la materia;
 
-V.- Celebrar los convenios y contratos necesarios para la ejecución de los programas del Sistema Estatal; y (sic)
+V.- Celebrar los convenios y contratos necesarios para la ejecución de los programas del Sistema Estatal; y
 
 VI.- Realizar los trámites necesarios para la adquisición de inmuebles, la ejecución de obras públicas y determinar conjuntamente con el Ayuntamiento respectivo, las afectaciones necesarias que se requieran para la vialidad, conforme a los planes aplicables.
 
@@ -1551,7 +1551,7 @@ c) Instalación de juegos infantiles; y
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2006)</small>
 
-d) Un árbol por cada sesenta metros cuadrados de superficie. Los árboles deberán tener una altura mínima de un metro con cincuenta centímetros; y (sic)
+d) Un árbol por cada sesenta metros cuadrados de superficie. Los árboles deberán tener una altura mínima de un metro con cincuenta centímetros; y
 
 V.- En contraparte a las obligaciones señaladas en la fracción IV de este artículo, el desarrollador solicitará por escrito a la autoridad municipal la recepción de dichas áreas. En caso de no existir causa justificada que la autoridad municipal notifique por escrito al desarrollador, será el Ayuntamiento el responsable de dar mantenimiento a las áreas referidas, quedando el desarrollador en todo caso obligado a garantizar la reparación de deficiencias que pudiesen surgir, atendiendo para ello los criterios de garantía que se señalan en esta misma Ley. El plazo para que el Ayuntamiento reciba o en su caso señale observaciones, es de quince días calendario a partir de presentada la solicitud;
 
@@ -2241,25 +2241,33 @@ IX. Continuar ejerciendo los derechos derivados de un permiso o autorización al
 
 1. Las sanciones aplicables por las infracciones establecidas en el artículo 100, párrafo 1, anterior, serán las siguientes:
 
-I. A quien se encuentre en el supuesto establecido en la fracción I, se le aplicará una sanción consistente en la rescisión del convenio, y multa de 350 a 500 veces el salario mínimo prevaleciente en la zona económica de que se trate;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+I. A quien se encuentre en el supuesto establecido en la fracción I, se le aplicará una sanción consistente en la rescisión del convenio, y multa de trescientas cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-II. A quien se encuentre en el supuesto contemplado en las fracciones II y IV, del artículo 100, de esta ley, se le aplicará una sanción consistente en la suspensión o demolición de construcciones e instalaciones, y suspensión de permisos o autorizaciones para construir o realizar cualquier tipo de obra en ese mismo predio por un plazo de seis a diez meses, y multa de 2,000 a 3,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+II. A quien se encuentre en el supuesto contemplado en las fracciones II y IV, del artículo 100, de esta ley, se le aplicará una sanción consistente en la suspensión o demolición de construcciones e instalaciones, y suspensión de permisos o autorizaciones para construir o realizar cualquier tipo de obra en ese mismo predio por un plazo de seis a diez meses, y multa de dos mil a tres mil veces el valor diario de la Unidad de Medida y Actualización;
 
-III. A quien se encuentre en alguno de los supuestos contemplados en las fracciones III, V y VI, del artículo 100, de esta ley, la suspensión o demolición de construcciones e instalaciones, y multa de 700 a 1,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV. A quien se encuentre en el supuesto contemplado en la fracción VII, la revocación en su caso, de las autorizaciones y permisos otorgados, y multa que será de 1,000 a 2,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
+III. A quien se encuentre en alguno de los supuestos contemplados en las fracciones III, V y VI, del artículo 100, de esta ley, la suspensión o demolición de construcciones e instalaciones, y multa de setecientas a mil veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-V. A quien se encuentre en el supuesto que establece la fracción VIII, del artículo 100, de esta ley, se le impondrá multa de 2,000 a 3,000 veces el salario mínimo prevaleciente en la zona económica de que se trate;
+IV. A quien se encuentre en el supuesto contemplado en la fracción VII, la revocación en su caso, de las autorizaciones y permisos otorgados, y multa que será de mil a dos mil veces el valor diario de la Unidad de Medida y Actualización;
 
-VI. A quien se encuentre en el supuesto que establece la fracción IX, se le impondrá multa de 700 a 1,000 veces el salario mínimo prevaleciente en la zona económica de que se trate.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. A la persona física o moral que sin autorización alguna realice fusiones, divisiones, subdivisiones y relotificaciones de cualquier tipo de suelo, se le impondrá una sanción de 2,000 a 3,000 veces el salario mínimo prevaleciente en la zona económica de que se trate, sea propietario o no de dicho terreno.
+V. A quien se encuentre en el supuesto que establece la fracción VIII, del artículo 100, de esta ley, se le impondrá multa de dos mil a tres mil veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+VI. A quien se encuentre en el supuesto que establece la fracción IX, se le impondrá multa de setecientas a mil veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2. A la persona física o moral que sin autorización alguna realice fusiones, divisiones, subdivisiones y relotificaciones de cualquier tipo de suelo, se le impondrá una sanción de dos mil a tres mil veces el valor diario de la Unidad de Medida y Actualización, sea propietario o no de dicho terreno.
 
 3. A quien después de vencido el plazo que la autoridad competente le hubiera concedido para que deje de cometer la infracción y subsane la misma, persista en la violación o falta, se le impondrá una multa adicional equivalente al cincuenta por ciento del valor de la multa impuesta por la violación o falta cometida, la que se incrementará hasta en un cien por ciento en caso de reincidir en segunda y ulteriores ocasiones.
 
@@ -2500,3 +2508,15 @@ P.O. 14 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
