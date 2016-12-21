@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -2349,7 +2349,9 @@ Para cobrar el servicio de agua residual se establecerán precios por cada metro
 
 ###### Artículo 146.
 
-1. A los usuarios domésticos que consuman un máximo de 10 metros cúbicos de agua mensuales se les cobrará una cuota mínima que no podrá ser mayor al salario mínimo diario que corresponda a la zona económica del o los municipios donde se preste el servicio público.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+1. A los usuarios domésticos que consuman un máximo de 10 metros cúbicos de agua mensuales se les cobrará una cuota mínima que no podrá ser mayor al valor diario de la Unidad de Medida y Actualización.
 
 2. La cuota señalada en el párrafo anterior, representará un subsidio de parte del prestador de los servicios por concepto del uso eficiente del agua, para los usuarios de menores ingresos, discapacitados y de la tercera edad que hagan uso eficiente del agua.
 
@@ -2791,13 +2793,21 @@ XIX. Los que construyan u operen sistemas para la prestación de los servicios p
 
 1. Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente por el Ayuntamiento, por los organismos operadores y, en su caso, por la Comisión:
 
-I. Con multa por el equivalente de cinco a cincuenta veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de lo dispuesto en las fracciones II, VI, VII, VIII, IX, y XV del artículo anterior;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II. Con multa por el equivalente de cinco a veinte veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de lo dispuesto en las fracciones I, IV, XI, XII, XIII, XIV y XVII del artículo anterior;
+I. Con multa por el equivalente de cinco a cincuenta veces el valor diario de la Unidad de Medida y Actualización, tratándose de lo dispuesto en las fracciones II, VI, VII, VIII, IX, y XV del artículo anterior;
 
-III. Con multa por el equivalente de cinco a cuarenta veces, el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, en el caso de las fracciones III, V, X, XVI, XVII y XVIII del artículo anterior; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV. Con multa por el equivalente de cien a quinientas veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de la fracción XIX del artículo anterior.
+II. Con multa por el equivalente de cinco a veinte veces el valor diario de la Unidad de Medida y Actualización, tratándose de lo dispuesto en las fracciones I, IV, XI, XII, XIII, XIV y XVII del artículo anterior;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III. Con multa por el equivalente de cinco a cuarenta veces, el valor diario de la Unidad de Medida y Actualización, en el caso de las fracciones III, V, X, XVI, XVII y XVIII del artículo anterior; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV. Con multa por el equivalente de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización, tratándose de la fracción XIX del artículo anterior.
 
 2. Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, los daños causados, las condiciones económicas del infractor y la reincidencia.
 
@@ -2841,15 +2851,25 @@ VII. No cumplir con las normas, estándares y metas establecidas en la normativi
 
 1. Las infracciones a que se refiere el artículo anterior, serán sancionadas por las autoridades competentes en términos de la legislación aplicable, cuando éstas sean cometidas por el Ayuntamiento, los organismos operadores, concesionarios o contratistas:
 
-I. Con multa de quinientos a dos mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de lo dispuesto en las fracciones I, III y VII del artículo anterior;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II. Con multa de mil a cuatro mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, en caso de lo dispuesto en la fracción II del artículo anterior;
+I. Con multa de quinientos a dos mil veces el valor diario de la Unidad de Medida y Actualización, tratándose de lo dispuesto en las fracciones I, III y VII del artículo anterior;
 
-III. Con multas de cien a mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de lo dispuesto en la fracción IV del artículo anterior; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-IV. Con multa de mil a cinco mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de lo dispuesto en las fracciones V y VI del artículo anterior.
+II. Con multa de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización, en caso de lo dispuesto en la fracción II del artículo anterior;
 
-2. Cualquier otra infracción a esta ley por parte de los prestadores de servicios públicos que no esté expresamente prevista en el artículo anterior, será sancionada con multa de hasta quinientos días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III. Con multas de cien a mil veces el valor diario de la Unidad de Medida y Actualización, tratándose de lo dispuesto en la fracción IV del artículo anterior; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+IV. Con multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización, tratándose de lo dispuesto en las fracciones V y VI del artículo anterior.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2. Cualquier otra infracción a esta ley por parte de los prestadores de servicios públicos que no esté expresamente prevista en el artículo anterior, será sancionada con multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 3. En caso de reincidencia, se podrá imponer una sanción equivalente hasta por el doble de la cuantía señalada.
 
@@ -3082,3 +3102,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
