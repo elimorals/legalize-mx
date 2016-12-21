@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2016-09-27"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -373,9 +373,9 @@ La imposición de las penas, su modificación y duración son propias y exclusiv
 
 Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará esta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-Si el infractor de los reglamentos gubernativos y de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
+Si el infractor de los reglamentos gubernativos y de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor a una vez el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
@@ -4522,6 +4522,18 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Consejo de la Judicatura emitirá el Reglamento de la Escuela Judicial, donde se establecerán las atribuciones de la Dirección, de los Departamentos y Unidades administrativas de la Escuela Judicial, para determinar el ámbito de responsabilidad de cada una.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-91 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos del Estado, deberán realizar las adecuaciones de homologación derivadas del presente Decreto, que correspondan a las disposiciones normativas que hayan expedido en el ejercicio de las atribuciones de su competencia y que se encuentren vigentes, en un plazo que no exceda del 28 de enero de 2017, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por las relativas a la Unidad de Medida y Actualización.
 
 ###### ARTICULO SEXTO.
 
