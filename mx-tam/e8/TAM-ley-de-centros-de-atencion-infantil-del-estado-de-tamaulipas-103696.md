@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-centros-de-atencion-infantil-del-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CENTROS DE ATENCIÓN INFANTIL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de noviembre de 2014.
 
@@ -855,7 +855,9 @@ III. Revocación de la licencia a que se refiere esta Ley y la cancelación del 
 
 ###### ARTÍCULO 73.
 
-La multa administrativa será de 50 a 1,000 días de salario mínimo vigente en el municipio donde se encuentre el Centro de Atención, en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+La multa administrativa será de cincuenta a mil veces el valor diario de la Unidad de Medida y Actualización, en los siguientes casos:
 
 I. Impedir total o parcialmente el desarrollo de la visita por parte de los supervisores correspondientes;
 
@@ -959,7 +961,7 @@ Si el escrito por el cual se interpone el recurso fuere obscuro o irregular, la 
 
 ###### ARTÍCULO 85.
 
-En la substanciación del recurso se admitirán toda clase de pruebas, con excepción de la confesional, así como aquellas que tengan el carácter de supervinientes (sic); en su desahogo y valoración, se aplicara supletoriamente el Código de Procedimientos Civiles del Estado.
+En la substanciación del recurso se admitirán toda clase de pruebas, con excepción de la confesional, así como aquellas que tengan el carácter de supervinientes; en su desahogo y valoración, se aplicara supletoriamente el Código de Procedimientos Civiles del Estado.
 
 ###### ARTICULO 86.
 
@@ -1008,3 +1010,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
