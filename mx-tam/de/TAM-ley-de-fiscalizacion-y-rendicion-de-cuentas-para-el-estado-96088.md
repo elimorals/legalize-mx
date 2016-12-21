@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-y-rendicion-de-cuentas-para-el-estado-9608
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2016-11-15"
+last_updated: "2016-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
@@ -1187,7 +1187,9 @@ Así también denunciar aquellas conductas que tipifique el Código Penal vigent
 
 La Auditoría, con base en las responsabilidades que se determinen conforme al procedimiento previsto en esta ley, fincará directamente a los responsables las indemnizaciones correspondientes, a fin de resarcir a las entidades sujetas de fiscalización, el monto de los daños y perjuicios cuantificables en dinero que se hayan causado.
 
-Cuando no se cause daño a la hacienda pública o al patrimonio de las entidades sujetas de fiscalización, de acuerdo con lo señalado en el artículo 58 de esta ley, la sanción que se imponga consistirá en multa de cuatrocientos a mil doscientos días del salario mínimo vigente en la capital de (sic) Estado, al momento en que se incurrió la falta o incumplimiento, para lo cual deberá tomarse en cuenta la gravedad de la infracción y el nivel jerárquico que ostente.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Cuando no se cause daño a la hacienda pública o al patrimonio de las entidades sujetas de fiscalización, de acuerdo con lo señalado en el artículo 58 de esta ley, la sanción que se imponga consistirá en multa de cuatrocientas a mil doscientas veces el valor diario de la Unidad de Medida y Actualización, al momento en que se incurrió la falta o incumplimiento, para lo cual deberá tomarse en cuenta la gravedad de la infracción y el nivel jerárquico que ostente.
 
 Si el infractor es reincidente, se hará constar en la determinación esta circunstancia, y la multa impuesta podrá incrementarse hasta un tanto más, el monto de su importe.
 
@@ -1430,3 +1432,15 @@ El Ejecutivo del Estado deberá emitir la normatividad reglamentaria correspondi
 ###### ARTÍCULO TERCERO.
 
 Por lo que hace a la reforma de la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado, surtirá efectos a partir de la expedición del presente Decreto.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
