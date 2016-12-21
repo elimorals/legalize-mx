@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-56647
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-02"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de agosto de 2007.
 
@@ -511,7 +511,9 @@ Cuando una organización con registro vigente cometa alguna de las infracciones 
 
 I. Apercibimiento: En el caso de que la organización haya incurrido por primera vez en alguna de las conductas que constituyen infracciones conforme a lo dispuesto por el artículo anterior, se le apercibirá para que, en un plazo no mayor a treinta días hábiles, contados a partir de la notificación respectiva, subsane la irregularidad;
 
-II. Multa: En caso de no cumplir con el apercibimiento en el término a que se refiere la fracción anterior o en los casos de incumplimiento de los supuestos a que se refieren las fracciones VII, VIII, IX, X, XI, XII y XIII del artículo 32 de esta ley; se multará hasta por el equivalente a trescientos días de salario mínimo general vigente en la capital del Estado;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II. Multa: En caso de no cumplir con el apercibimiento en el término a que se refiere la fracción anterior o en los casos de incumplimiento de los supuestos a que se refieren las fracciones VII, VIII, IX, X, XI, XII y XIII del artículo 32 de esta ley; se multará hasta por el equivalente a trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Suspensión: Por un año de su inscripción en el Registro, contado a partir de la notificación, en el caso de reincidencia con respecto a la violación de una obligación establecida por esta ley, que hubiere dado origen ya a una multa a la organización, y
 
@@ -568,3 +570,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
