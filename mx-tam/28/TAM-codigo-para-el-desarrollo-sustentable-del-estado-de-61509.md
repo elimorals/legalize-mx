@@ -4,7 +4,7 @@ identifier: "TAM-codigo-para-el-desarrollo-sustentable-del-estado-de-61509"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-06-05"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 5 de junio de 2008.
 
@@ -3905,7 +3905,9 @@ Cuando proceda como sanción la clausura temporal o definitiva, total o parcial,
 
 ###### ARTICULO 299.
 
-1. Las infracciones a las disposiciones de este Código que no cuenten con una sanción en específico, serán resueltas mediante la amonestación y en caso de reincidencia, se aplicará multa de 100 a 500 días de salario mínimo vigente en la capital del Estado.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+1. Las infracciones a las disposiciones de este Código que no cuenten con una sanción en específico, serán resueltas mediante la amonestación y en caso de reincidencia, se aplicará multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 2. Los Ayuntamientos regularán las sanciones administrativas por violaciones a los reglamentos que expidan en esta materia.
 
@@ -3967,19 +3969,29 @@ a) No presente información solicitada por autoridad competente en materia ambie
 
 b) Incumpla con la presentación en tiempo y forma de la cédula de operación anual.
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II.- Multa equivalente de 10 a 100 días de salario mínimo vigente en la capital del Estado a quien:
+II. Multa equivalente de diez a cien veces el valor diario de la Unidad de Medida y Actualización a quien:
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 a) Incumpla las medidas de ahorro de agua potable;
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 b) Habiendo sido amonestado haga caso omiso a las disposiciones establecidas por el Estado o los Ayuntamientos;
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
 
 c) No cumpla con las disposiciones establecidas en materia de emisiones a la atmósfera generadas por fuente móvil; o
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+
 d) Trasplante un árbol público o afecte negativamente áreas verdes o jardineras públicas, incluyendo las localizadas en banquetas y camellones, sin la autorización previa de la autoridad competente.
 
-III. Multa equivalente de 100 a 500 días de salario mínimo vigente en la capital del Estado a quien:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+III. Multa equivalente de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización a quien:
 
 a) Rebase los límites permisibles de ruido, vibraciones, energía térmica, y lumínica, vapores, gases u olores;
 
@@ -3995,9 +4007,13 @@ f) Obstruya la labor del personal autorizado al realizar la inspección ambienta
 
 g) Se conduzca con falsedad en los informes preventivos, manifestaciones de impacto ambiental, estudios de riesgo o estudios de daños ambientales.
 
-IV. Multa equivalente de 1,000 a 5,000 días de salario mínimo vigente en la capital del Estado a quien no aplique las medidas de urgente aplicación en tiempo y forma, impuestas como resultado de procedimiento de inspección ambiental;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-V. Multa equivalente de 5,000 a 20,000 días de salario mínimo vigente en la capital del Estado a quien:
+IV. Multa equivalente de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización a quien no aplique las medidas de urgente aplicación en tiempo y forma, impuestas como resultado de procedimiento de inspección ambiental;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+V. Multa equivalente de cinco mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización a quien:
 
 a) Realice obras o actividades que dañen gravemente el medio ambiente o que pongan en peligro la salud de las personas; o
 
@@ -4057,9 +4073,13 @@ c) Autorice el uso para la disposición de residuos de manejo especial o sólido
 
 Las violaciones a los preceptos del Libro Cuarto del presente ordenamiento, constituyen infracción y serán sancionadas administrativamente por la Agencia Ambiental o los Ayuntamientos, en el ámbito de sus competencias, de la siguiente forma:
 
-I. Multa equivalente de 1,000 a 5,000 días de salario mínimo vigente en la capital del Estado a quien, realice obras o actividades de explotación o aprovechamiento de recursos, que no estén autorizadas, en áreas naturales protegidas de competencia estatal; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-II. Multa equivalente de 5,000 a 20,000 días de salario mínimo vigente en la capital del Estado a quien, ocasione, como consecuencia de su acción, un daño sobre cualquier área natural protegida de competencia estatal.
+I. Multa equivalente de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización a quien, realice obras o actividades de explotación o aprovechamiento de recursos, que no estén autorizadas, en áreas naturales protegidas de competencia estatal; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II. Multa equivalente de cinco mil a veinte mil veces el valor diario de la Unidad de Medida y Actualización a quien, ocasione, como consecuencia de su acción, un daño sobre cualquier área natural protegida de competencia estatal.
 
 ### CAPITULO V. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS POR ACTOS EN CONTRA DE LA VIDA SILVESTRE
 
@@ -4257,7 +4277,7 @@ Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estad
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCION.".- GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EUGENIO HERNANDEZ FLORES.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO.- ANTONIO MARTINEZ TORRES.- Rúbrica.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CODIGO.
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE CÓDIGO.</small>
 
 P.O. 12 DE MAYO DE 2009.
 
@@ -4298,3 +4318,15 @@ P.O. 13 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
