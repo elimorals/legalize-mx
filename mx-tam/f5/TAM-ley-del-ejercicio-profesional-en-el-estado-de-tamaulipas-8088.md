@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-ejercicio-profesional-en-el-estado-de-tamaulipas-8088"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2016-12-13"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL EJERCICIO PROFESIONAL EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -871,11 +871,13 @@ Para la aplicación de sanciones, la Dirección tomará en cuenta las circunstan
 
 Cuando a juicio de la Dirección la falta sea leve, se amonestará al infractor y se le prevendrá con la aplicación de una multa para el caso de reincidencia.
 
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 60.
 
-La comisión de las faltas a que se refiere el artículo 56 de esta Ley se sancionará a juicio de la Dirección con multa entre un mínimo de cinco y un máximo de veinticinco días de salario entendiéndose por día de salario el mínimo general diario que rija en la capital del Estado en el momento del pago.
+La comisión de las faltas a que se refiere el artículo 56 de esta Ley se sancionará a juicio de la Dirección con multa entre un mínimo de cinco y un máximo de veinticinco veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 La multa respectiva se deberá cubrir en la Secretaría de Finanzas del Estado, a través de las oficinas autorizadas del domicilio del infractor; en caso de que éste no pagare la multa se hará efectiva mediante el procedimiento de ejecución previsto por el Código Fiscal del Estado.
 
@@ -899,9 +901,11 @@ Los profesionales podrán asociarse para el ejercicio de sus actividades, pero l
 
 Los que ejerzan una profesión de las comprendidas en el Artículo 5 de esta Ley sin contar con el título o autorización correspondiente, además de incurrir en las penas respectivas, no tendrán derecho a cobrar retribución por los servicios que hayan prestado.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 65.
 
-Cuando se ofendan los derechos de la sociedad, podrá suspenderse al profesionista en el ejercicio de su función hasta por el término de seis años. Si ya estuviese suspendido podrá decretarse nuevamente la medida que computará cuando termine la primera sanción y se impondrá una multa de sólo 25 días de salario hasta tres veces la cantidad que hubiere recibido con motivo del servicio prestado.
+Cuando se ofendan los derechos de la sociedad, podrá suspenderse al profesionista en el ejercicio de su función hasta por el término de seis años. Si ya estuviese suspendido podrá decretarse nuevamente la medida que computará cuando termine la primera sanción y se impondrá una multa de sólo veinticinco veces el valor diario de la Unidad de Medida y Actualización hasta tres veces la cantidad que hubiere recibido con motivo del servicio prestado.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1061,17 +1065,17 @@ P.O. 13 DE DICIEMBRE DE 2016.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 248.- ARTÍCULO PRIMERO.- SE REFORMAN LA FRACCIÓN LV DEL ARTÍCULO 7º; LAS FRACCIONES I, V, VIII Y IX DEL ARTÍCULO 15; EL ARTÍCULO 47; LAS FRACCIONES III Y VI DEL ARTÍCULO 48; LAS FRACCIONES IV, V, Y VI DEL ARTÍCULO 49; EL ARTÍCULO 50; Y LA FRACCIÓN IV DEL ARTÍCULO 209. ASÍ COMO SE ADICIONAN UNAS FRACCIONES VII, VIII Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 49; TODOS DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE DEROGA EL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO NÚMERO 288 PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE AGUASCALIENTES, EL 30 DE ABRIL DE 2018, POR EL CUAL FUE EXPEDIDA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
-
-P.O. 2 DE ENERO DE 2023.
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 384.- ÚNICO.- SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 282 DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
 
