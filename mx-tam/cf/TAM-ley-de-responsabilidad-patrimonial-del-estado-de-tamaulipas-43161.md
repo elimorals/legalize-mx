@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidad-patrimonial-del-estado-de-tamaulipas-431
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2014-12-04"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -135,7 +135,9 @@ Los daños y perjuicios que constituyan la lesión patrimonial reclamada deberá
 
 2. Los Ayuntamientos del Estado estimarán el monto de la partida correspondiente al cumplimiento de obligaciones derivadas de la responsabilidad patrimonial, a la luz de la proyección que se elabore sobre las reclamaciones que eventualmente se presenten, sobre la base de lo dispuesto en el párrafo 4 del artículo 6.
 
-3. Las indemnizaciones por responsabilidad patrimonial que excedan el monto máximo contemplado en el presupuesto de egresos que corresponda, se cuantificarán en salarios mínimos diarios vigentes, liquidándose el importe correspondiente en la fecha de su pago.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+3. Las indemnizaciones por responsabilidad patrimonial que excedan el monto máximo contemplado en el presupuesto de egresos que corresponda, se cuantificarán en valores diarios de Unidad de Medida y Actualización, liquidándose el importe correspondiente en la fecha de su pago.
 
 > <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2014)</small>
 
@@ -161,15 +163,21 @@ El monto de la indemnización por daños y perjuicios materiales se calculará d
 
 ###### ARTICULO 11.
 
-1. Cuando el daño que se cause a las personas produzca la muerte, la indemnización de orden económico consistirá en el pago de una cantidad de equivalente a tres mil días de salario y seis meses de salario por concepto de gastos funerarios y, en su caso, los gastos de hospitalización y curación efectuados antes del fallecimiento.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
-2. Si el daño hubiere ocasionado incapacidad permanente total, la indemnización comprenderá las prestaciones a que se refieren las fracciones I, II, III, IV y V, del artículo 487 de la Ley Federal del Trabajo y, además, una cantidad equivalente al importe de tres mil días de salario.
+1. Cuando el daño que se cause a las personas produzca la muerte, la indemnización de orden económico consistirá en el pago de una cantidad de (sic) equivalente a tres mil veces el valor diario de la Unidad de Medida y Actualización y seis veces el valor mensual de la Unidad de Medida y Actualización por concepto de gastos funerarios y, en su caso, los gastos de hospitalización y curación efectuados antes del fallecimiento.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+2. Si el daño hubiere ocasionado incapacidad permanente total, la indemnización comprenderá las prestaciones a que se refieren las fracciones I, II, III, IV y V, del artículo 487 de la Ley Federal del Trabajo y, además, una cantidad equivalente al importe de tres mil veces el valor diario de la Unidad de Medida y Actualización.
 
 3. En el caso que el daño origine incapacidad permanente parcial para trabajar, la indemnización comprenderá las prestaciones a que hacen referencia los artículos 487 y 492 de la Ley Federal del Trabajo, tomando en consideración lo dispuesto por el artículo 493 de la misma ley.
 
 4. En la hipótesis del párrafo anterior, el pago del salario o ingreso en numerario comprobable que deje de percibir el afectado mientras subsista la imposibilidad de trabajar, le serán resarcidos íntegramente, siempre que no le sean cubiertos por instituciones estatales o federales de seguridad social.
 
-5. Cuando el afectado no perciba un salario o no sea posible cuantificar sus ingresos, tendrá derecho a que se le consideren tres salarios mínimos diarios vigentes.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+5. Cuando el afectado no perciba un salario o no sea posible cuantificar sus ingresos, tendrá derecho a que se le consideren tres veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 12.
 
@@ -406,3 +414,15 @@ Los Ayuntamientos expedirán la convocatoria a que hace alusión el artículo 33
 ###### ARTÍCULO SÉPTIMO.
 
 El Ayuntamiento que corresponda, mediante el voto de las dos terceras partes de los miembros presentes podrá declarar la disolución del Tribunal Municipal de Justicia Administrativa. Para tal efecto deberá establecer de manera clara fundando y motivando las causas por las cuales ha tomado esa determinación. Previo a la fecha de extinción del Tribunal Municipal de Justicia Administrativa deberán concluirse los asuntos en trámite.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
