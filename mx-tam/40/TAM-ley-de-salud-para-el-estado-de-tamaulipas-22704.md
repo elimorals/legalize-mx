@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2016-07-14"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -889,7 +889,9 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I.- Procedimientos que permitan la participación activa de la mujer en la prevención y atención oportuna a sus riesgos y padecimientos;
 
-II.- Acciones de orientación y vigilancia en materia de nutrición, fomento a la lactancia materna exclusiva y, en su caso, la ayuda alimentaría directa tendiente a mejorar el estado nutricional del grupo materno-infantil y del adolescente; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+II.- Acciones de orientación y vigilancia en materia de nutrición, fomento a la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida, y en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil y del adolescente; y
 
 III.- Acciones para la prevención y control de las enfermedades evitables por vacunación, enfermedades diarreicas, infecciones respiratorias agudas, accidentes y otras enfermedades prioritarias de los menores de cinco años.
 
@@ -2149,21 +2151,29 @@ III.- Las condiciones socio-económicas del infractor; y
 
 IV.- La calidad de reincidente del infractor, en su caso.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 154.
 
-Se sancionará con multa de hasta quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, la infracción de las disposiciones contenidas en los artículos 46, 59, 78, 80, 133, 134 y 135 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+Se sancionará con multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, la infracción de las disposiciones contenidas en los artículos 46, 59, 78, 80, 133, 134 y 135 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 155.
 
-Se sancionará con multa de quinientas una hasta mil quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, la infracción de las disposiciones contenidas en los artículos 43, 68, 86, 115, 116, 119, 120 y 149 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+Se sancionará con multa de quinientas una hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización, la infracción de las disposiciones contenidas en los artículos 43, 68, 86, 115, 116, 119, 120 y 149 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 156.
 
-Se sancionará con multa de mil quinientas una hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la infracción de las disposiciones contenidas en los artículos 54, 57, 69, 70, 83, 109, 103, 107, 108, 139 y 146 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+Se sancionará con multa de mil quinientas una hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, la infracción de las disposiciones contenidas en los artículos 54, 57, 69, 70, 83, 109, 103, 107, 108, 139 y 146 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 157.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa de hasta diez mil veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo a las reglas de calificación que se establecen en artículo 153 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+Las infracciones no previstas en este capítulo serán sancionadas con multa de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, atendiendo a las reglas de calificación que se establecen en artículo 153 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
 
 ###### ARTICULO 158.
 
@@ -3688,3 +3698,23 @@ P.O. 14 DE JULIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXIII-104 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 33 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS; FRACCIÓN IV DEL ARTÍCULO 32 BIS DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, ASÍ COMO EL PÁRRAFO 2 DEL ARTÍCULO 5 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXIII-103 MEDIANTE EL CUAL SE REFORMAN DISPOSICIONES DE DIVERSOS ORDENAMIENTOS DE LA LEGISLACIÓN ESTATAL, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
