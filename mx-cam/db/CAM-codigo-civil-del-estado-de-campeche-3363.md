@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2016-05-16"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -55,7 +55,7 @@ Las leyes, reglamentos, circulares o cualesquiera otras disposiciones de observa
 
 ###### Art. 4º.
 
-Si la ley, reglamento, circular o disposición de observancia general, fija el día en que debe comenzar a regir, obliga desde ese día, con tal de que su publicación haya sido anterior.
+Si la ley, reglamento, circular o disposición de observancia general, fija el día en que debe comenzar a regir, obliga desde ese día con tal de que su publicación haya sido anterior.
 
 ###### Art. 5º.
 
@@ -451,15 +451,21 @@ Recibido el aviso, el Oficial del Registro Civil, tomará las medidas legales qu
 
 En las poblaciones, fincas de campo, rancherías u otros lugares en que no haya Oficina de Registro Civil, el niño será presentado a la autoridad municipal o al mayordomo, encargado o persona que tenga la representación del lugar, o que ejerza allí alguna autoridad, quien dará la constancia respectiva que los interesados llevarán al Oficial del Registro que corresponda, para que asiente el acta.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Art. 71.
 
-El acta de nacimiento se levantará con asistencia de dos testigos. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellidos que le correspondan, en primer lugar el apellido paterno del padre y después el apellido paterno de la madre; asimismo, la razón de si se ha presentado vivo o muerto; y la impresión digital del presentado.
+El acta de nacimiento se levantará con asistencia de dos testigos. Contendrá el día, la hora y el lugar del nacimiento, el sexo del presentado, el nombre y apellidos que le correspondan, en los términos del párrafo siguiente; asimismo, la razón de si se ha presentado vivo o muerto; y la impresión digital del presentado.
+
+Cuando ambos progenitores acudan ante el Oficial del Registro Civil a registrar a un hijo o hija pueden escoger, de común acuerdo, el orden en que se colocarán los apellidos de su hijo o hija. En caso de que no exista acuerdo respecto al orden que deben seguir los apellidos del hijo o hija, se debe levantar el acta figurando en primer término el apellido del padre.
+
+EI acuerdo de los padres respecto al orden de los apellidos, regirá para los demás hijos del mismo vínculo. Cuando en algún trámite de cualquier especie, se requiera específicamente el apellido paterno y el materno, se deberán considerar como primero y segundo apellido el orden en que los padres hayan optado colocarlos, en términos de lo dispuesto en el presente artículo.
 
 Si éste se presenta como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá nombre y un apellido, haciéndose constar esta circunstancia en el acta.
 
-Si el nacimiento ocurriere en un establecimiento de reclusión o de Readaptación Social, el Oficial del Registro Civil deberá asentar como domicilio del nacido, el nombre de la población del Estado que corresponda.
+Si el nacimiento ocurriere en un establecimiento de reclusión o de reinserción social, el Oficial del Registro Civil deberá asentar como domicilio del nacido, el nombre de la población del Estado que corresponda.
 
 En los casos de los artículos 73 y 89 de este Código, el Oficial del Registro Civil pondrá el apellido paterno de los progenitores o el apellido del que lo reconozca, en la forma que se establece en el segundo párrafo de este artículo.
 
@@ -16296,3 +16302,11 @@ P.O. 16 DE MAYO DE 2016.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
+
+P.O. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 98 POR EL QUE “SE REFORMA EL ARTÍCULO 71 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- EI presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
