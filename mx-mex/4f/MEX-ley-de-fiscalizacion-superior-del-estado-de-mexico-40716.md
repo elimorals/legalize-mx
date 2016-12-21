@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2016-12-20"
+last_updated: "2016-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -55,7 +55,9 @@ III. Organo Superior: Al Organo Superior de Fiscalización del Estado de México
 
 IV. Comisión: A la Comisión de Vigilancia de la Legislatura del Estado;
 
-V. Entidades Fiscalizables: A los Poderes Públicos, Municipios, organismos autónomos, organismos auxiliares y demás entes públicos que manejen recursos del Estado y Municipios;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+V. Entidades Fiscalizables: A los Poderes Públicos, Municipios, organismos autónomos, organismos auxiliares, fideicomisos públicos o privados y en general cualquier entidad, persona física o jurídica colectiva, pública o privada, mandato, fondo u otra figura análoga que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente con recursos públicos del Estado o Municipios, o en su caso de la federación.
 
 VI. Organismos Autónomos: A los organismos que por disposición constitucional estén dotados de autonomía;
 
@@ -81,15 +83,27 @@ XIV. Reglamento: Al Reglamento Interior del Organo Superior de Fiscalización;
 
 XV. Revisiones contemporáneas: Aquellas que realice el Órgano Superior de Fiscalización del Estado de México de manera contemporánea a la ejecución de los actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales, sin perjuicio de aquellas que realice de manera posterior a la presentación de cuentas públicas.
 
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XVI. Auditoría de Desempeño: A la revisión sistemática, interdisciplinaria, organizada, objetiva, propositiva, independiente y comparativa del impacto social de la gestión pública, de los programas y de la congruencia entre lo propuesto y lo obtenido, conforme a los indicadores establecidos en los Presupuestos de Egresos aprobados para el ejercicio fiscal correspondiente y tomando en cuenta los planes de desarrollo.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 31 DE ENERO DE 2007)</small>
 
 ###### Artículo 3.
 
 La revisión y fiscalización de las cuentas públicas, es facultad de la Legislatura.
 
-Para efectos de la fiscalización, se auxiliará del Organo Superior, dotado de autonomía técnica y de gestión.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-El Organo Superior será vigilado y supervisado por una Comisión de la Legislatura, en los términos de la presente Ley y el Reglamento.
+Para efectos de la fiscalización, se auxiliará del Órgano Superior, dotado de autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la legislación aplicable.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+El Órgano Superior para su operación contará con un presupuesto que será no menor del 14 por ciento del presupuesto aprobado a la Legislatura.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+El Órgano Superior será vigilado y supervisado por una Comisión de la Legislatura, en los términos de la presente Ley.
 
 ###### Artículo 4.
 
@@ -103,19 +117,23 @@ III. Los organismos autónomos;
 
 IV. Los organismos auxiliares;
 
-> <small>(ADICIONADA, G.G. 12 DE MAYO DE 2010)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-V. Los fideicomisos que se constituyan al amparo del artículo 265 B Bis del Código Financiero del Estado de México y Municipios. En el cumplimiento de sus obligaciones de fiscalización, el Estado no podrá alterar ni impedir que se cumplan los fines de dichos fideicomisos.
+V. Los fideicomisos públicos o privados que manejen recursos del Estado y Municipios, o en su caso de la federación;
 
-Para efectos de esta fracción, no obstante la capacidad del Estado para fiscalizar dichos fideicomisos, no se entenderá que los recursos afectos a dichos fideicomisos son recursos públicos, en los casos en que la afectación y transmisión de dichos recursos se derive de operaciones cuya naturaleza implique la separación de los recursos de la propiedad del Estado y la transmisión de su propiedad a los fideicomisos mencionados;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-VI. Los demás entes públicos que manejen recursos del Estado y Municipios y, en su caso, de la Federación.
+VI. Cualquier entidad, persona física o jurídica colectiva, pública o privada, mandato, fondo u otra figura análoga que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente con recursos públicos del Estado o Municipios, o en su caso de la federación.
 
 > <small>(REFORMADO, G.G. 16 DE ENERO DE 2007)</small>
 
 ###### Artículo 5.
 
 La fiscalización superior se podrá realizar de manera contemporánea a la ejecución de actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales en los casos que corresponda, así como de manera posterior a la presentación de las cuentas públicas, de manera externa, independiente y autónoma de cualquier forma de control y evaluación internos de las entidades fiscalizables y de conformidad con lo establecido en la presente ley.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+Para efectos del párrafo anterior, el Órgano Superior podrá solicitar la información que considere necesaria para la adecuada planeación de la fiscalización.
 
 ###### Artículo 6.
 
@@ -149,7 +167,9 @@ IV. Consultar por acuerdo de la Legislatura, de manera casuística y concreta, l
 
 V. Verificar que las entidades fiscalizables que hubieren recaudado, manejado, administrado o ejercido recursos públicos, se hayan conducido conforme a los programas aprobados y montos autorizados; y que los egresos se hayan ejercido con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas aplicables;
 
-VI. Evaluar la eficacia en el logro de los objetivos contenidos en los programas y la eficiencia en el uso de los recursos públicos utilizados, la congruencia del ejercicio de los presupuestos con los programas y de éstos con los planes;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+VI. Practicar auditorías de desempeño en el cumplimiento de los objetivos contenidos en los programas, conforme a los indicadores que correspondan y evaluar la eficacia, eficiencia y economía en el uso de los recursos públicos por las entidades fiscalizables, la congruencia del ejercicio de los presupuestos con los programas y de estos con los planes y políticas públicas conforme a los estándares internacionales;
 
 > <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
 
@@ -159,7 +179,9 @@ VIII. Corroborar que las operaciones realizadas por las entidades fiscalizables 
 
 IX. Revisar que los subsidios otorgados por las entidades fiscalizables, con cargo a sus presupuestos, se hayan aplicado a los objetivos autorizados;
 
-X. Practicar las auditorías y revisiones, conforme a las normas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, con apego a las disposiciones legales, reglamentarias y administrativas aplicables, que le permitan la práctica idónea de las auditorías y revisiones;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+X. Realizar, de acuerdo con el programa anual de auditorías aprobado, las auditorías y revisiones, conforme a las normas, procedimientos de auditoría, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, con apego a las disposiciones legales, reglamentarias y administrativas aplicables, que le permitan la práctica idónea de las auditorias y revisiones;
 
 XI. Establecer los lineamientos, criterios, procedimientos, métodos y sistemas para las acciones de control y evaluación, necesarios para la fiscalización de las cuentas públicas y los informes trimestrales;
 
@@ -167,7 +189,9 @@ XII. Verificar que las obras públicas, bienes, servicios y arrendamientos, haya
 
 XIII. Conocer los informes de programas y procesos concluidos;
 
-XIV. Verificar que las cuentas públicas y los informes trimestrales se hayan presentado en los términos de las disposiciones legales y reglamentarias conducentes, y se hayan elaborado conforme a los principios de contabilidad aplicables al sector público;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XIV. Verificar que las cuentas públicas, los informes trimestrales y la información financiera se hayan presentado de conformidad con lo dispuesto en la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones aplicables.
 
 > <small>(REFORMADA, G.G. 16 DE ENERO DE 2007)</small>
 
@@ -239,9 +263,11 @@ XXXV. Verificar que la publicación de la información financiera de cada ente p
 
 XXXVI. Ejercer las demás que expresamente señale la Constitución Política del Estado, la presente Ley, el Reglamento y las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 9.
 
-Los servidores públicos del Organo Superior deberán guardar reserva de sus actuaciones, documentos y observaciones, hasta que se rindan los informes de resultados. Igual obligación deberán cumplir los profesionistas independientes y auditores externos que contrate el Organo Superior, con excepción de los requerimientos hechos por autoridades competentes.
+Los servidores públicos del Órgano Superior deberán observar las disposiciones en materia de transparencia y protección de datos personales, así como guardar reserva de sus actuaciones, documentos y observaciones, hasta que se rindan los informes de resultados. Igual obligación deberán cumplir los profesionistas independientes y auditores externos que contrate el Órgano Superior, con excepción de los requerimientos hechos por autoridades competentes.
 
 Los servidores públicos, los profesionistas independientes y auditores externos, cuando incumplan la obligación de reserva, serán sancionados en términos de la legislación aplicable.
 
@@ -249,9 +275,11 @@ Los servidores públicos cuando incumplan con la obligación de reserva, serán 
 
 ### CAPITULO SEGUNDO. DEL AUDITOR SUPERIOR
 
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 10.
 
-El Organo Superior estará a cargo de un Auditor Superior, que será nombrado y removido por las dos terceras partes cuando menos de los integrantes de la Legislatura, a propuesta de la Junta de Coordinación Política.
+El Órgano Superior estará a cargo de un Auditor Superior, que será designado y removido por las dos terceras partes de los miembros presentes de la Legislatura, a propuesta de la Junta de Coordinación Política.
 
 ###### Artículo 11.
 
@@ -265,7 +293,9 @@ III. No haber sido, durante los tres años anteriores a su designación, titular
 
 IV. Poseer título y cédula profesional legalmente expedidos en cualquiera de las siguientes licenciaturas: Contaduría Pública, Derecho, Economía, Administración Pública, Administración de Empresas, o cualquier otra relacionada con las actividades de contraloría y contar con una experiencia mínima de cinco años en las mismas;
 
-V. Tener por lo menos tres años de experiencia en funciones relacionadas con actividades de control y evaluación;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+V. Contar con experiencia de por lo menos cinco años en materia de control, auditoría financiera y evaluación;
 
 VI. Gozar de buena reputación y no haber sido condenado por sentencia ejecutoriada por delito doloso; y
 
@@ -303,27 +333,39 @@ V. Substanciar los procedimientos de auditoría por queja o denuncia conforme a 
 
 VI. Presentar denuncias y querellas penales en contra de servidores públicos y quienes hayan dejado de serlo, conforme a lo establecido por esta Ley y coadyuvar con el Ministerio Público en términos de la legislación penal, así como iniciar ante las autoridades competentes el fincamiento de otras responsabilidades;
 
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+El Auditor Superior estará obligado a guardar el sigilo de los procedimientos; así como a informar a la Junta de Coordinación Política el estado que guarden las denuncias;
+
 VII. Imponer medidas de apremio y, fincar y promover la imposición de las responsabilidades administrativas que correspondan, en los casos establecidos por esta Ley, el Reglamento y demás ordenamientos aplicables;
 
 VIII. Promover las medidas necesarias para la restitución al erario público del bien ilícito obtenido, en términos de la presente Ley, el Reglamento y demás ordenamientos aplicables;
 
 IX. Promover el fincamiento e imposición de las demás responsabilidades y sanciones a que hubiere lugar ante las instancias competentes;
 
-> <small>(REFORMADA, G.G. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-X. Establecer, con base en el Reglamento, los criterios generales para contratar las cauciones o garantías que deben otorgar los tesoreros municipales y los servidores públicos que de acuerdo con la ley deban hacerlo. Dichas cauciones o garantías deberán mantenerse vigentes hasta tres años después de la conclusión de sus cargos;
+X. Establecer los criterios generales para contratar las cauciones o garantías que deben otorgar los servidores públicos obligados a ello. Dichas cauciones o garantías deberán mantenerse vigentes hasta tres años después de la conclusión de sus cargos;
 
-XI. Formular el Reglamento del Organo Superior, el cual será sometido a la consideración de la Comisión;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-XII. Formular los manuales de operación y de procedimientos, los cuales deberán ser revisados y actualizados anualmente y sometidos a la consideración de la Comisión;
+XI. Expedir el Reglamento Interior del Órgano Superior;
+
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XII. Expedir los manuales de organización y de procedimientos que se requieran;
 
 XIII. Elaborar el plan operativo anual del Organo Superior y hacerlo del conocimiento de la Comisión;
 
 XIV. Presentar a la Comisión el anteproyecto de presupuesto anual del Organo Superior, conforme a las previsiones de gasto y recursos necesarios para el cumplimiento de las atribuciones de éste, a fin de que se integre a la iniciativa de presupuesto de egresos en los términos de la legislación aplicable;
 
-XV. Ejercer el presupuesto aprobado, con sujeción a las disposiciones legales aplicables;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-XVI. Dar cuenta a la Legislatura, por conducto de la Comisión, de la comprobación del presupuesto ejercido por el Organo Superior, durante el segundo período ordinario de sesiones;
+XV. Administrar y ejercer el presupuesto aprobado, con sujeción a las disposiciones legales aplicables;
+
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XVI. Informar a la Legislatura, por conducto de la Comisión, del presupuesto ejercido por el Órgano Superior, durante el primer trimestre del año siguiente al ejercido.
 
 XVII. Nombrar y remover a los servidores públicos del Organo Superior, con las salvedades a que se refiere esta Ley;
 
@@ -343,11 +385,11 @@ XXII. Las demás que señalen las disposiciones legales aplicables y el Reglamen
 
 Corresponde originalmente al Auditor Superior, el trámite y resolución de los asuntos de su competencia, el cual podrá, para la mejor organización del trabajo, delegar en los servidores públicos subalternos cualquiera de sus atribuciones, excepto las señaladas en las fracciones VII, X, XIV, XVI y XVII del artículo anterior y aquéllas que por disposición de la presente Ley y del Reglamento, deban ser ejercidas exclusivamente por él mismo.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 15.
 
-El Auditor Superior durará en su encargo ocho años, y podrá ser nombrado nuevamente por una sola vez hasta por un periodo igual, por el voto de las dos terceras partes de los miembros presentes de la Legislatura.
+El Auditor Superior durará en su encargo ocho años, comenzando el 1 de enero siguiente al año de su elección y podrá ser nombrado nuevamente por una sola vez hasta por un período igual, por el voto de las dos terceras partes de los miembros presentes de la Legislatura.
 
 ###### Artículo 16.
 
@@ -425,15 +467,19 @@ VIII. En caso de que se acredite fehacientemente alguna o algunas de las causas 
 
 ### CAPITULO TERCERO. DE LA ORGANIZACION E INTEGRACION DEL ORGANO SUPERIOR
 
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 21.
 
-El Auditor Superior para el eficaz desempeño de sus funciones será auxiliado por dos Auditores Especiales: de Cumplimiento Financiero y de Evaluación de Programas; una Unidad de Asuntos Jurídicos y las demás unidades administrativas que establezca el Reglamento.
+El Auditor Superior para el eficaz desempeño de sus funciones será auxiliado por los Auditores Especiales: de Cumplimiento Financiero y de Evaluación de Programas; una Unidad de Asuntos Jurídicos y las demás unidades administrativas que establezca el Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 22.
 
-Para ser Auditor Especial deberán reunirse los requisitos que esta Ley establece para el Auditor Superior, con excepción del plazo mínimo de experiencia en materia de control y evaluación, que será de dos años.
+Para ser Auditor Especial deberán reunirse los requisitos que esta Ley establece para el Auditor Superior, con excepción del plazo mínimo de experiencia en materia de control, auditoría financiera y evaluación, que será de dos años.
 
-Los Auditores Especiales y el Titular de la Unidad de Asuntos Jurídicos serán designados y removidos por la Comisión a propuesta del Auditor Superior.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 23.
 
@@ -553,7 +599,7 @@ I. Incumplir con las atribuciones propias de su cargo; y
 
 II. Ausentarse por más de quince días naturales, sin contar con la licencia del Auditor Superior.
 
-Los Auditores Especiales y el Titular de la Unidad de Asuntos Jurídicos podrán ser removidos por la Comisión, a solicitud del Auditor Superior, previa garantía de audiencia que se desahogará conforme a las reglas establecidas en esta Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 29.
 
@@ -563,9 +609,11 @@ El Organo Superior propondrá a la Comisión su proyecto de presupuesto anual, e
 
 ### CAPITULO UNICO. DE LA NATURALEZA, OBJETO Y ATRIBUCIONES DE LA COMISION DE VIGILANCIA
 
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 30.
 
-La Comisión será el enlace entre la Legislatura y el Organo Superior, para coordinar, evaluar, vigilar y controlar las actividades del mismo.
+La Comisión coordinará las relaciones entre la Legislatura y el Órgano Superior, evaluará el desempeño de este último; constituirá el enlace que permita garantizar la debida coordinación entre ambos, y podrá solicitarle información sobre el seguimiento de los trabajos de fiscalización.
 
 ###### Artículo 31.
 
@@ -575,13 +623,19 @@ Son facultades de la Comisión, las siguientes:
 
 I. Revisar, analizar, aclarar y discutir los informes de resultados de las cuentas públicas del Estado, municipios y demás entidades fiscalizables elaborados por el Órgano Superior y turnarlos a la Legislatura para el trámite correspondiente, debiéndose realizar en reuniones de trabajo de la propia Comisión y con la presencia del Auditor Superior y el personal del propio Órgano Superior, que así se considere;
 
-II. Conocer y evaluar el cumplimiento del plan anual de actividades del Organo Superior;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-III. Evaluar el cumplimiento de los objetivos y metas de los programas del Organo Superior, así como fiscalizar, por sí o a través de servicios de auditoría externos, la debida aplicación de los recursos a cargo de ésta;
+II. Evaluar el cumplimiento del plan anual de metas del Órgano Superior;
+
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+III. Evaluar el cumplimiento de los objetivos y metas de los programas del Órgano Superior;
 
 IV. Proporcionar a los Diputados integrantes de la Legislatura, la información que requieran del Organo Superior en un plazo no mayor de diez días hábiles;
 
-V. Ordenar la práctica de auditorías especiales que no formen parte de los programas anuales de auditorías y determinar sus alcances;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+V. Ordenar la práctica de auditorías especiales que no formen parte de los programas anuales de auditorías y determinar sus alcances, y el resultado obtenido de las auditorias especiales, deberá ser entregado por el Órgano de Fiscalización a la Comisión de Vigilancia dentro de los diez días hábiles posteriores a la conclusión del mismo.
 
 VI. Citar, por conducto de su Presidente, al Auditor Superior para conocer en lo específico los informes de las revisiones practicadas;
 
@@ -589,21 +643,27 @@ VII. Proporcionar a los integrantes de la Legislatura del Estado, la informació
 
 VIII. Recibir a más tardar el 15 de agosto, el proyecto del presupuesto anual del Organo Superior;
 
-IX. Recibir, a más tardar el 15 de marzo, el informe anual del presupuesto ejercido del Organo Superior, revisarlo y remitirlo a la Junta de Coordinación Política para los efectos legales conducentes;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+IX. Recibir y enviar a la Junta de Coordinación Política el informe del ejercicio del presupuesto del Órgano Superior de Fiscalización del Estado de México para los efectos legales conducentes;
 
 X. Evaluar si el Organo Superior cumple con las funciones que conforme a la Constitución del Estado, esta Ley y el Reglamento le corresponden; y proveer lo necesario para garantizar su autonomía técnica y de gestión;
 
-XI. Vigilar que el funcionamiento del Organo Superior y la conducta de sus servidores públicos se apeguen a lo dispuesto por esta Ley, el Reglamento y demás disposiciones aplicables;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+XI. Dar seguimiento a las observaciones y recomendaciones emitidas por el Órgano Superior, así como a los procedimientos resarcitorios y demás acciones promovidas, relacionadas con la revisión y fiscalización de las cuentas públicas.
 
 XII. Dictaminar y turnar a la Junta de Coordinación Política la solicitud de licencia o remoción del Auditor Superior, de acuerdo con la presente Ley;
 
-XIII. Designar y remover a los Auditores Especiales y al Titular de la Unidad de Asuntos Jurídicos a propuesta del Auditor Superior;
+XIII. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2016)
 
-XIV. Vigilar que el monto y el período de las cauciones o garantías que deban otorgar los servidores públicos, se realice conforme a lo que establece la Ley y el Reglamento; y
+XIV. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2016)
 
 XV. Las demás que establezca esta Ley.
 
 ### CAPITULO PRIMERO. DE LAS CUENTAS PUBLICAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
 ## TITULO CUARTO. DE LAS CUENTAS PUBLICAS, SU REVISION Y FISCALIZACION
 
@@ -611,9 +671,13 @@ XV. Las demás que establezca esta Ley.
 
 ###### Artículo 32.
 
-El Gobernador del Estado, por conducto del titular de la dependencia competente, presentará a la Legislatura la cuenta pública del Gobierno del Estado del ejercicio fiscal inmediato anterior, a más tardar el quince de mayo de cada año.
+El Gobernador del Estado, por conducto del titular de la dependencia competente, presentará a la Legislatura la cuenta pública del Gobierno del Estado del ejercicio fiscal inmediato anterior, a más tardar el treinta de abril de cada año.
 
 Los Presidentes Municipales presentarán a la Legislatura las cuentas públicas anuales de sus respectivos municipios, del ejercicio fiscal inmediato anterior, dentro de los quince primeros días del mes de marzo de cada año; asimismo, los informes mensuales los deberán presentar dentro de los veinte días posteriores al término del mes correspondiente.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+Las cuentas públicas deberán presentarse conforme a lo establecido en la Ley General de Contabilidad Gubernamental, Ley de Disciplina Financiera delas (sic) Entidades Federativas y los Municipios y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -683,6 +747,10 @@ Cuando conforme a esta Ley y demás disposiciones legales aplicables, los órgan
 
 La información que proporcionen las entidades fiscalizables al Organo Superior, sólo será utilizada para el cumplimiento de las disposiciones previstas en esta Ley.
 
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+El Órgano Superior tendrá acceso a todo tipo de documentos, datos, libros, archivos físicos y electrónicos, así como a la documentación justificativa y comprobatoria y demás información que resulte necesaria para la revisión y fiscalización.
+
 ###### Artículo 43.
 
 Las auditorías, visitas e inspecciones que se efectúen en los términos de este título, se practicarán por el personal expresamente comisionado por el Organo Superior, que estará formado por servidores públicos adscritos al Organo o por profesionistas independientes y auditores externos.
@@ -735,9 +803,25 @@ Dichos documentos estarán disponibles en las oficinas de la Tesorería Municipa
 
 El Órgano Superior tendrá un plazo improrrogable que vence el 30 de septiembre del año en que se entreguen las cuentas públicas, para realizar su examen, presentar ante la Comisión de Vigilancia del Órgano Superior de Fiscalización, transparentar sus resultados y rendir a la Legislatura, por conducto de la Comisión de Vigilancia, el correspondiente Informe de Resultados, mismo que tendrá inmediatamente después a su entrega, el carácter público y, en consecuencia, deberá ser publicado en medios electrónicos de manera inmediatamente posterior a la entrega que haga el Órgano Superior a la Comisión de Vigilancia; mientras ello no suceda, el Órgano Superior deberá guardar reserva de sus actuaciones e informaciones.
 
-La revisión análisis, aclaración y discusión del Informe que hace referencia el párrafo anterior, la Comisión de Vigilancia del Órgano Superior de Fiscalización, deberá presentarla ante el Pleno de la Legislatura para su votación a más tardar el 15 de noviembre del año en que se presente dicho informe, debiéndose realizar previamente, reuniones de trabajo de la propia Comisión.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+La revisión, análisis, aclaración y discusión del informe a que hace referencia el párrafo anterior, la Comisión de Vigilancia del Órgano Superior de Fiscalización, deberá presentarla ante el Pleno de la Legislatura para su votación y emisión del decreto que tenga por revisadas y fiscalizadas las cuentas públicas del Estado y Municipios, a más tardar el 15 de noviembre del año en que se presente dicho informe, debiéndose realizar previamente, reuniones de trabajo de la propia Comisión.
 
 La Comisión vigilara la publicación del Informe de Resultados, de todas y cada una de las reuniones de trabajo que realice para analizarlo y del decreto que emita la Legislatura, de manera inmediata a que cada uno acontezca.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
+
+La Comisión dará seguimiento a los informes emitidos por el Órgano Superior, que incluirán de forma cualitativa y cuantitativa las observaciones y recomendaciones así como a los procedimientos resarcitorios y demás acciones promovidas, por el OSFEM de la siguiente forma:
+
+a) Número de auditorías, tipo de auditoria, alcance y planeación de la misma.
+
+b) La identificación de la entidad fiscalizable.
+
+c) Las observaciones resarcitorias y el seguimiento de los mismos hasta su total conclusión.
+
+d) El comportamiento de la entidad fiscalizable respecto a las observaciones realizadas.
+
+e) El cumplimiento de los programas auditados mediante auditoria del desempeño.
 
 ###### Artículo 51.
 
@@ -759,9 +843,9 @@ VII. Las irregularidades que se detecten en el uso y manejo de los recursos; y
 
 VIII. Las observaciones y recomendaciones que se deriven de la revisión.
 
-> <small>(ADICIONADO, G.G. 16 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2016)</small>
 
-Para el caso de las revisiones especiales que puedan realizarse de manera contemporánea a la ejecución de actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales de conformidad con el Artículo 5 y 8 en sus fracciones I y II de esta Ley, el Órgano Superior de Fiscalización del Estado de México, deberá informar a la Comisión de la Legislatura en un plazo no mayor a quince días hábiles posteriores a que concluya la revisión, sobre los resultados obtenidos de la misma.
+Para el caso de las revisiones especiales que puedan realizarse de manera contemporánea a la ejecución de actos de gobierno y la aplicación de fondos públicos federales, estatales o municipales de conformidad con los artículos 5 y 8 en sus fracciones I y II de esta Ley, el Órgano Superior de Fiscalización del Estado de México, deberá informar a la Comisión de la Legislatura, sobre los resultados obtenidos de la misma.
 
 El informe de resultados deberá elaborarse considerando los principios de contabilidad gubernamental y las disposiciones legales aplicables.
 
@@ -941,21 +1025,9 @@ El Organo Superior o la autoridad que conozca del recurso de revisión, resolver
 
 Las resoluciones que se dicten en materia del recurso de revisión no admitirán medio de defensa ordinario alguno.
 
-###### Artículo 73.
+###### Articulo 73.
 
-En caso de responsabilidad penal el procedimiento se iniciará por denuncia de:
-
-> <small>(REFORMADO, G.G. 15 DE JULIO DE 2013)</small>
-
-a) El Auditor Superior o el titular de la Unidad de Asuntos Jurídicos, por acuerdo o resolución de la Junta de Coordinación Política; a solicitud del primero, en contra de servidores públicos de elección popular que se encuentren en funciones o hayan dejado de fungir como tales, así como de los demás servidores públicos referidos en el artículo 131 de la Constitución Política del Estado Libre y Soberano de México;
-
-> <small>(REFORMADO, G.G. 15 DE JULIO DE 2013)</small>
-
-b) El Auditor Superior o por acuerdo de éste el titular de la Unidad de Asuntos Jurídicos; en contra de los servidores públicos que no sean de elección popular o que hayan dejado de fungir como tales.
-
-> <small>(REFORMADO, G.G. 15 DE JULIO DE 2013)</small>
-
-El Auditor Superior y el Titular de la Unidad de Asuntos Jurídicos estarán obligados a guardar el sigilo de las investigaciones. El Auditor Superior deberá informar a la Junta de Coordinación Política del estado que guarden las denuncias.
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2016)
 
 ###### Artículo 74.
 
@@ -1236,3 +1308,15 @@ CUARTO. El valor de la Unidad de Medida y Actualización será el que determine 
 QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
 
 SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 21 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 186.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO Y DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Con fundamento en lo previsto por el artículo 61 fracción XXXII de la Constitución Política del Estado Libre y Soberano de México, en relación con lo dispuesto por los artículos 10 y 11 de la Ley de Fiscalización Superior del Estado de México y para efecto de lo dispuesto en el artículo 15 de este Decreto y demás relativos y aplicables, se designa como Auditor Superior de Fiscalización del Estado de México para el periodo del 1° de enero de 2017 al 31 de diciembre de 2024 al Contador Público Fernando Valente Baz Ferreira.
+
+CUARTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
