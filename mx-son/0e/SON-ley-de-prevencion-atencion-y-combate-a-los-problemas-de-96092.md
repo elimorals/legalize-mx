@@ -4,7 +4,7 @@ identifier: "SON-ley-de-prevencion-atencion-y-combate-a-los-problemas-de-96092"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-27"
-last_updated: "2013-06-27"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE PREVENCIÓN, ATENCIÓN Y COMBATE A LOS PROBLEMAS DE OBESIDAD PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el día jueves 27 de junio de 2013.
 
@@ -129,6 +129,20 @@ I. Realizar campañas de difusión en los planteles escolares en la Entidad, tan
 
 II. Incentivar la práctica del ejercicio y el deporte a través de la realización de campañas de promoción, como una medida para prevenir y contrarrestar el sobrepeso, la obesidad y los trastornos alimenticios, poniendo énfasis en la población infantil y adolescente.
 
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 8 Bis 1.
+
+Con la finalidad de reducir el índice de obesidad en niños, niñas y adolescentes que cursan educación básica en las escuelas públicas de la entidad, la Secretaría en coordinación con la Secretaría de Educación y Cultura, deberán implementar programas que permitan la prevención, detección, control y tratamiento de la obesidad en cualquiera de sus modalidades, contribuyendo así al mejoramiento de la salud de los educandos.
+
+El Ejecutivo del Estado procurará las disposiciones presupuestales para el cumplimiento de estos programas.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 8 Bis 2.
+
+La Secretaría en coordinación con la Secretaría de Educación y Cultura, deberá elaborar un padrón del programa de detección, control y tratamiento de la obesidad en cualquiera de sus modalidades, el cual contemplará una bitácora en la que se registre el historial de atención médica del beneficiario, con el objeto de estar en condiciones de conocer la evolución y comportamiento de la salud del educando, así como la posibilidad de contar con estadísticas de seguimiento en el Estado que sirvan como sustento real para la toma de decisiones en esta materia de manera oportuna.
+
 ### CAPÍTULO III
 
 DEL CONSEJO PARA LA PREVENCIÓN, ATENCIÓN Y COMBATE INTEGRAL DE LA OBESIDAD SOBREPESO Y TRASTORNOS ALIMENTICIOS.
@@ -226,3 +240,13 @@ SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Hermosillo, Sonora, 20 de Junio d
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la Ciudad de Hermosillo, Sonora, a los veintiséis días del mes de junio del año dos mil trece.- SUFRAGIO EFECTIVO. NO REELECCION. EL GOBERNADOR DEL ESTADO.- GUILLERMO PADRÉS ELIAS.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO ROMERO LOPEZ.- RUBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 102, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE PREVENCIÓN, ATENCIÓN Y COMBATE A LOS PROBLEMAS DE OBESIDAD PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
