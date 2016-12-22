@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-8400"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-22"
-last_updated: "2016-11-22"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 22 de junio de 1992.
 
@@ -621,13 +621,17 @@ III. La vigilancia de actividades ocupacionales que puedan poner en peligro la s
 
 IV. Acciones relacionadas con educación básica, alfabetización de adultos, acceso al agua potable y medios sanitarios de eliminación de excretas y de desechos;
 
-> <small>(REFORMADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
-V. Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil; y
+V.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante 13 seis (sic) meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil;
 
-> <small>(ADICIONADA, B.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
-VI. Las demás que coadyuven a la protección de la salud materno-infantil.
+VI.- Las demás que coadyuven a la protección de la salud materno-infantil; y
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+VII.- La prevención y control de la salud sexual y de los embarazos en las niñas y adolescentes en el Estado.
 
 > <small>(ADICIONADO, B.O. 4 DE JUNIO DE 2009)</small>
 
@@ -2043,7 +2047,17 @@ Las condiciones sanitarias que deban reunir los establecimiento (sic) a que se r
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO I. AUTORIZACIONES
+### CAPÍTULO XVII. PROGRAMA CONTRA LA RICKETTSIOSIS Y LA ENFERMEDAD DE LYME
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 234 BIS.- La Secretaría y las autoridades municipales, llevarán a cabo un programa permanente en contra de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, y en contra de la Enfermedad de Lyme, también conocida como Borreliosis, manteniendo campañas permanentes a través de talleres comunitarios impartidos por personal de la Secretaria de Salud, capacitado en materia de prevención y control de la Rickettsiosis o enfermedad de la Rickettsia, y de la enfermedad de Lyme, o Borreliosis.
+
+Los ayuntamientos con la asesoría y el apoyo técnico de las autoridades sanitarias, otorgarán información de cómo prevenir y controlar la Rickettsiosis o enfermedad de la Rickettsia, y la enfermedad de Lyme o Borreliosis, así como, la atención y el control de animales que presenten dichas problemáticas.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 234 BIS 1.- Los propietarios de animales a que se refiere el artículo anterior, estarán obligado (sic) a brindarles la atención y cuidados de higiene necesarios, que permitan la eliminación o ausencia de piojos, pulgas o garrapatas que pueden ser trasmisores de la Rickettsiosis, también conocida como enfermedad de la Rickettsia, o de la enfermedad de Lyme, también conocida como Borreliosis.
 
 ###### ARTICULO 207.
 
@@ -2067,7 +2081,7 @@ Los responsables de los reclusorios, centros de readaptación social y Centros d
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 211.
 
@@ -2089,9 +2103,7 @@ Para abrir al servicio público estos establecimientos deberá obtenerse licenci
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes que dicte la Secretaría.
 
-### CAPITULO III. CERTIFICADOS
-
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 214.
 
@@ -2109,7 +2121,9 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 
 El funcionamiento de los establecimientos a que se refiere el artículo 214 de esta ley, deberá sujetarse a lo dispuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan por los reglamentos respectivos, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
+
+> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2016)</small>
 
 ###### ARTICULO 217.
 
@@ -2127,7 +2141,7 @@ Para la construcción o acondicionamiento de un inmueble que se pretenda destina
 
 La autoridad sanitaria competente, expedirá las autorizaciones a que se refieren los artículos anteriores, cuando el solicitante haya satisfecho los requisitos que establece esta ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 221.
 
@@ -2139,7 +2153,7 @@ Las gasolineras deberán contar con las instalaciones sanitarias y de seguridad 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 4 DE JUNIO DE 2009)</small>
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 223.
 
@@ -2163,7 +2177,7 @@ Los instrumentos, aparatos, ropa y accesorios de uso público que se utilicen en
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO], B.O. 27 DE JUNIO DE 2013)</small>
 
-### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 227.
 
@@ -2177,7 +2191,7 @@ Previo a las obras de edificación y a la obtención de licencias, permisos o au
 
 (DEROGADO, B.O. 4 DE JUNIO DE 2009)
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTOS PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 230.
 
@@ -2201,9 +2215,13 @@ Las autoridades sanitarias mantendrán campañas permanentes a fin de orientar a
 
 Queda prohibido poseer animales domésticos en aquellos edificios de condominios, o departamentos, en los que deben utilizarse pasillos, escaleras o elevadores comunes.
 
-### CAPITULO V. PRESCRIPCION
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 235.
 
@@ -3134,3 +3152,19 @@ B.O. 22 DE NOVIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 100, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 101, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN Y DE LA LEY DE SALUD, AMBAS PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
