@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-los-servicios-de-salud-de-yucatan-95295"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-07-15"
-last_updated: "2016-04-22"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95295&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DE LOS "SERVICIOS DE SALUD DE YUCATÁN"
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el lunes 15 de julio de 2013.
 
@@ -535,9 +535,15 @@ XVI. Establecer las líneas de acción y operación de las Jurisdicciones Sanita
 
 XVII. Efectuar la vigilancia en materia de sanidad internacional en relación a la salud del ser humano en coordinación con la Dirección de Protección contra Riesgos Sanitarios y con las instancias correspondientes;
 
-XVIII. Llevar registros de los establecimientos de salud que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos y de investigación, en coordinación con la Dirección de Protección contra Riesgos Sanitarios, y
+> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2016)</small>
 
-XIX. Las demás que le confiera la Junta de Gobierno, el Director General, este Estatuto y otras disposiciones legales y normativas aplicables.
+XVIII. Llevar registros de los establecimientos de salud que realicen actos de disposición de sangre, componentes sanguíneos y células progenitoras hematopoyéticas con fines terapéuticos y de investigación, en coordinación con la Dirección de Protección contra Riesgos Sanitarios;
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XIX. Ejecutar las atribuciones establecidas en el artículo 10 de la Ley de Voluntad Anticipada del Estado de Yucatán y en las demás disposiciones legales y normativas aplicables en la materia, y
+
+XX. Las demás que le confiera la Junta de Gobierno, el Director General, este Estatuto y otras disposiciones legales y normativas aplicables.
 
 Unidades administrativas de la Dirección de Prevención y Protección de la Salud
 
@@ -1200,3 +1206,15 @@ Las modificaciones realizadas al artículo 10 del Estatuto Orgánico de los Serv
 Cuarto. Derogación tácita
 
 Se derogan las disposiciones normativas de igual o menor jerarquía emitidas por la Junta de Gobierno de los Servicios de Salud de Yucatán que se opongan al contenido de este acuerdo.
+
+D.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SSY 04/2016 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LOS SERVICIOS DE SALUD DE YUCATÁN.”]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El director general de los Servicios de Salud de Yucatán deberá realizar la inscripción de las modificaciones de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este acuerdo.
