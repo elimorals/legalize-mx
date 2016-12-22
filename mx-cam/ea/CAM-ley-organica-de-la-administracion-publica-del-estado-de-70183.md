@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2015-09-11"
+last_updated: "2016-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -36,8 +36,6 @@ DECRETO
 La LIX Legislatura del Congreso del Estado de Campeche decreta:
 
 NÚMERO 265
-
-> <small>N. DE E. DE CONFORMIDAD A LO DISPUESTO EN EL TRANSITORIO SEXTO DEL DECRETO NÚMERO 290, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2015, EN TANTO NO INICIE SU VIGENCIA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, LAS REFERENCIAS HECHAS EN LAS DIVERSAS LEYES, REGLAMENTOS, ACUERDOS Y DEMÁS INSTRUMENTOS JURÍDICOS VIGENTES EN EL ESTADO A LA SECRETARÍA DE DESARROLLO SOCIAL Y REGIONAL, A LA SECRETARÍA DE DESARROLLO INDUSTRIAL Y COMERCIAL, A LA SECRETARÍA DE MEDIO AMBIENTE Y APROVECHAMIENTO SUSTENTABLE Y A LA SECRETARÍA DE DESARROLLO URBANO Y OBRAS PÚBLICAS SE ENTENDERÁN HECHAS A LA SECRETARÍA DE DESARROLLO SOCIAL Y HUMANO, A LA SECRETARÍA DE DESARROLLO ECONÓMICO, A LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES Y A LA SECRETARÍA DE DESARROLLO URBANO, OBRAS PÚBLICAS E INFRAESTRUCTURA, RESPECTIVAMENTE.</small>
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
@@ -307,79 +305,157 @@ XXXIV. Las demás atribuciones que le señalen las leyes y reglamentos vigentes 
 
 A la Secretaría de Finanzas le corresponde el despacho de los siguientes asuntos:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 I. Proyectar y calcular los ingresos del Estado, así como considerar las necesidades del gasto público estatal, la utilización razonable del crédito público y el saneamiento de las finanzas públicas del Estado;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 II. Elaborar y proponer al Ejecutivo los proyectos de leyes, códigos, reglamentos, acuerdos y demás disposiciones de carácter general que se requieran para la planeación, programación, presupuestación y evaluación de la actividad fiscal, tributaria y financiera del Estado;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 III. Tramitar y resolver los recursos administrativos en la esfera de su competencia e intervenir en toda controversia, procedimiento o juicio de carácter fiscal, estatal o federal, que se ventile ante cualquier autoridad cuando tenga interés la Hacienda Pública del Estado;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 IV. Establecer y revisar los precios y tarifas de los bienes y servicios de la Administración Pública Estatal, o bien, sentar las bases para fijarlos con la participación de las dependencias y entidades estatales que correspondan;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 V. Vigilar el cumplimiento de las disposiciones legales, reglamentarias y contractuales de carácter fiscal, hacendario y demás de su ramo aplicables en el Estado;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 VI. Recaudar y administrar los impuestos, derechos, productos, aprovechamientos y demás ingresos que correspondan al Estado en los términos de las leyes respectivas;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 VII. Administrar, comprobar, determinar, recaudar y cobrar ingresos municipales y federales, así como ejercer las facultades conferidas en los convenios y sus anexos en materia fiscal federal que haya celebrado o celebre el Estado con la Federación, a través de la Secretaría de Hacienda y Crédito Público y, en su caso, en los convenios de colaboración administrativa que se celebren con los Municipios del Estado;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 VIII. Ordenar y practicar visitas domiciliarias, auditorías, revisiones, inspecciones, actos de vigilancia, verificaciones, requerimientos de información y documentación, y demás actos que establezcan las disposiciones fiscales para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios, terceros con ellos relacionados y demás obligados, así como todas aquellas que se deriven de los convenios y sus anexos en materia fiscal federal que haya celebrado o celebre el Estado con la Federación y, en su caso, de los convenios de colaboración administrativa que se celebren con los Municipios del Estado;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 IX. Determinar, liquidar las contribuciones, aprovechamientos y sus accesorios correspondientes e imponer las multas o sanciones administrativas que procedan por infracciones a las disposiciones fiscales y ejercer, cuando proceda, la facultad de condonación de multas, conforme a las leyes y reglamentos respectivos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 X. Emitir y notificar las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y otros actos administrativos, así como llevar a cabo el procedimiento administrativo de ejecución en los términos de las leyes y convenios vigentes;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XI. Conceder prórrogas y autorizaciones para el pago en parcialidades de los créditos fiscales conforme a las leyes respectivas;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 XII. Mantener actualizado el Padrón Estatal de Contribuyentes;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XIII. Requerir y exigir a los particulares la presentación de declaraciones, avisos, manifestaciones y demás documentos a que obliguen las disposiciones fiscales, cuando los obligados no lo hagan en los plazos respectivos y, simultánea o sucesivamente, hacer efectiva una cantidad igual a la determinada en la última o en cualquiera de las seis últimas declaraciones de que se trate, o la que resulte de la determinada por la autoridad; practicar el embargo precautorio en bienes o en la negociación del contribuyente; asimismo, requerir a los contribuyentes la rectificación de errores u omisiones contenidos en las declaraciones, solicitudes, avisos y demás documentos, y dejar sin efectos los avisos presentados cuando al revisarse o verificarse no correspondan a lo manifestado;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 XIV. Resolver las consultas, respecto a dudas que se susciten con motivo de la interpretación y aplicación de las disposiciones fiscales, formuladas por las autoridades estatales, municipales y los particulares respecto a casos concretos que sean de su competencia; así como las solicitudes que presenten dichos particulares respecto a las autorizaciones previstas en las citadas disposiciones; y prestar a los contribuyentes el servicio de orientación y de asistencia en el cumplimiento de las obligaciones fiscales tanto en materia estatal como federal; en este último caso, conforme al convenio respectivo celebrado entre el Estado y la Federación;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XV. Ejercitar todos los derechos que correspondan al Estado, en el caso de las garantías que se otorguen a favor de éste, así como proceder a su legal cobro previa solicitud por escrito que le haga la dependencia, entidad, órgano o autoridad que corresponda;
 
-XVI. Dictar la normatividad necesaria para el control, supervisión, vigilancia y evaluación de las actividades de sus oficinas recaudadoras, locales y foráneas;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XVI. Dictar la normatividad necesaria para el control, supervisión, vigilancia y evaluación de las actividades del Servicio de Administración Fiscal del Estado de Campeche;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 XVII. Formular la cuenta pública anual de la Hacienda Estatal, incluyendo la glosa de los ingresos y egresos del Estado, así como mantener las relaciones institucionales con la Auditoría Superior del Estado cumpliendo con las disposiciones de la Armonización Contable;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XVIII. Dictar las normas relacionadas con la administración de fondos y valores de las dependencias y entidades, así como custodiar los documentos que constituyen valores, acciones y demás derechos que forman parte del patrimonio del Estado;
 
-XIX. Cuidar que los empleados que administren fondos del Estado otorguen fianza suficiente para garantizar la aplicación adecuada en los términos establecidos en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XIX. Cuidar que los empleados que administren fondos del Estado otorguen fianza suficiente para garantizar la aplicación adecuada en los términos establecidos en la legislación en materia de responsabilidad administrativa de servidores públicos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 XX. Integrar el programa general del gasto público y el anteproyecto de Presupuesto de Egresos en términos de la Ley General de Contabilidad Gubernamental;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XXI. Verificarlos (sic) resultados de los programas y presupuestos de las dependencias y, en su caso, de las entidades de la administración pública paraestatal;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 XXII. Participar en la Comisión Intersecretarial Gasto-Financiamiento para determinar los lineamientos a que deben sujetarse las dependencias y entidades de la administración pública estatal, respecto de las disponibilidades financieras con que cuenten durante el ejercicio presupuestal, sus ampliaciones, así como en la planeación, programación y ejecución del gasto y financiamiento;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 XXIII. Autorizar presupuestalmente las estructuras orgánicas y ocupacionales de las dependencias y entidades de la Administración Pública Estatal y sus modificaciones;
 
-XXIV. Formular trimestralmente el estado de origen y aplicación de los recursos, así como los demás estados financieros respecto del estado que guarda la hacienda pública estatal;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-XXV. Revisar las operaciones que se hayan realizado con los recursos económicos del Estado, y aplicar para tal efecto los sistemas de contabilidad gubernamental;
+XXIV. Contar con un sistema de registro y control de las erogaciones de servicios personales, para los fines que establece la legislación en materia de disciplina financiera y responsabilidad hacendaria federal y estatal;
 
-XXVI. Analizar la disponibilidad presupuestaria a efecto de ministrar los recursos para los programas de inversión de las dependencias y entidades de la administración pública estatal, de conformidad con la Ley de Presupuesto de Egresos;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIV], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-XXVII. Calendarizar y efectuar transferencias, ministraciones y pagos con base en los programas y presupuestos autorizados;
+XXV. Formular trimestralmente el estado de origen y aplicación de los recursos, así como los demás estados financieros respecto del estado que guarda la hacienda pública estatal;
 
-XXVIII. Analizar y autorizar las modificaciones y transferencias programáticas y presupuestales conforme a la normatividad que se emita al respecto;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXV], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-XXIX. Llevar el Registro Único Estatal de Deuda Pública y dirigir su negociación y control, y ejercer las facultades que le confiera la ley estatal en la materia;
+XXVI. Revisar las operaciones que se hayan realizado con los recursos económicos del Estado, y aplicar para tal efecto los sistemas de contabilidad gubernamental;
 
-XXX. Llevar el Registro de Entidades Paraestatales y ejercer las facultades que le confiera la Ley de la Administración Pública Paraestatal;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXVI], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-XXXI. Suscribir, previo acuerdo del Ejecutivo, contratos y títulos de crédito en representación del Estado;
+XXVII. Analizar la disponibilidad presupuestaria a efecto de ministrar los recursos para los programas de inversión de las dependencias y entidades de la administración pública estatal, de conformidad con la Ley de Presupuesto de Egresos;
 
-XXXII. Tramitar la cancelación de cuentas y créditos incobrables, así como el otorgamiento de subsidios y estímulos fiscales de conformidad con la legislación aplicable;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXVII], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-XXXIII. Estimar y publicar el monto global y calendarización provisional del presupuesto para el siguiente ejercicio fiscal, a fin de posibilitar las atribuciones de esta Secretaría en materia de programación presupuestación, previo acuerdo con el Titular del Ejecutivo Estatal;
+XXVIII. Calendarizar y efectuar transferencias, ministraciones y pagos con base en los programas y presupuestos autorizados;
 
-XXXIV. Prestar a los municipios, cuando así se lo soliciten, la asesoría y el apoyo técnico necesarios en materia hacendaría;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXVIII], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-XXXV. Publicar la información financiera en términos de la Ley General de Contabilidad Gubernamental;
+XXIX. Analizar y autorizar las modificaciones y transferencias programáticas y presupuestales conforme a la normatividad que se emita al respecto;
 
-XXXVI. Publicar anualmente en el Periódico Oficial del Estado, la relación de las entidades que formen parte de la Administración Pública Paraestatal del Estado; y
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XXIX], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-XXXVII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+XXX. Llevar el Registro de Empréstitos y Obligaciones y ejercer las facultades que le confieran la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, así como la ley estatal en materia de deuda pública;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXX], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXXI. Llevar el Registro de Entidades Paraestatales y ejercer las facultades que le confiera la Ley de la Administración Pública Paraestatal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXI], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXXII. Suscribir, previo acuerdo del Ejecutivo, contratos y títulos de crédito en representación del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXII], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXXIII. Tramitar la cancelación de cuentas y créditos incobrables, así como el otorgamiento de subsidios y estímulos fiscales de conformidad con la legislación aplicable;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXIII], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXXIV. Estimar y publicar el monto global y calendarización provisional del presupuesto para el siguiente ejercicio fiscal, a fin de posibilitar las atribuciones de esta Secretaría en materia de programación presupuestación, previo acuerdo con el Titular del Ejecutivo Estatal;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXIV], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXXV. Prestar a los municipios, cuando así se lo soliciten, la asesoría y el apoyo técnico necesarios en materia hacendaria;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXV], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXXVI. Publicar la información financiera en términos de la Ley General de Contabilidad Gubernamental;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXVI], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXXVII. Publicar anualmente en el Periódico Oficial del Estado, la relación de las entidades que formen parte de la Administración Pública Paraestatal del Estado; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXVII], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXXVIII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -387,7 +463,9 @@ XXXVII. Las demás atribuciones que le señalen las leyes y reglamentos vigentes
 
 A la Secretaría de Administración e Innovación Gubernamental le corresponde el despacho de los siguientes asuntos:
 
-I. Conducir las políticas, establecer las normas y emitir las autorizaciones y criterios correspondientes en materia de planeación y administración de recursos humanos, contratación y remuneraciones del personal, servicio profesional de carrera de la administración pública estatal, estructuras orgánicas y ocupacionales y ejercer el control presupuestario de los servicios personales, con las respectivas normas de control de gasto en ese rubro;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+I. Conducir las políticas, establecer las normas y emitir las autorizaciones y los criterios correspondientes en materia de planeación y administración de recursos humanos, contratación y remuneraciones del personal, servicio profesional de carrera de la administración pública estatal, estructuras orgánicas y ocupacionales;
 
 II. Vigilar el cumplimiento de las disposiciones legales que rijan las relaciones entre la Administración Pública Estatal y sus servidores públicos;
 
@@ -1776,3 +1854,43 @@ Octavo.- Los programas, convenios, contratos, acuerdos, actos jurídicos y demá
 Noveno.- Se suprime el Órgano Administrativo Desconcentrado subordinado jerárquicamente a la Secretaría de Finanzas denominado Comisión para la Evaluación de la Inversión Pública del Estado de Campeche y, en consecuencia, queda sin efecto el Capítulo VI que comprende los artículos 27, 28, 29, 30 y 31 del Reglamento Interior de la Secretaría de Finanzas de la Administración Pública del Estado de Campeche y demás incisos, fracciones o artículos del marco jurídico estatal que la contemplen. Los bienes que en la actualidad tiene a su servicio esta Comisión quedarán asignados a la nueva Unidad de Programas y Proyectos de Inversión Pública. Respecto al personal de base que conforma la plantilla actual de servidores públicos de la precitada Comisión, podrán ser incorporados a la nueva Unidad que se crea o transferidos a otras Dependencias a través de la Secretaría de Administración e Innovación Gubernamental, respetando sus derechos laborales.
 
 Décimo.- El Gobernador del Estado promoverá las iniciativas correspondientes a las modificaciones de la Ley de Planeación del Estado de Campeche; la Ley de Protección Civil, Prevención y Atención de Desastres del Estado de Campeche, y a las demás leyes estatales que se requieran armonizar con el contenido del presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 100 POR EL QUE "SE REFORMAN EL ARTÍCULO 22 Y LA FRACCIÓN I DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- Las modificaciones a las disposiciones contenidas en la Ley Orgánica de la Administración Pública del Estado de Campeche entrarán en vigor al día siguiente de la publicación de este decreto en el Periódico Oficial del Estado de Campeche. El sistema de registros y control de las erogaciones personales deberá estar en operación a más tardar el 1 de enero de 2018.
+
+SEGUNDO.- La Ley del Servicio de Administración Fiscal del Estado de Campeche, las modificaciones contenidas en la Ley de Hacienda del Estado de Campeche, el Código Fiscal del Estado de Campeche y la Ley de Firma Electrónica Avanzada y Uso de Medios Electrónicos del Estado de Campeche entrarán en vigor el día 1 de abril de 2017.
+
+TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, de igual o menor jerarquía, del marco jurídico estatal que se opongan al presente decreto.
+
+CUARTO.- El Ejecutivo del Estado expedirá el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche, con la anticipación debida con la finalidad de que entre en vigor de manera simultánea con la Ley del Servicio de Administración Fiscal del Estado de Campeche el día 1 de abril de 2017.
+
+QUINTO.- La Secretaría establecerá los mecanismos para la readscripción de los trabajadores de base que vienen prestando sus servicios a la misma, y que deban incorporarse al Servicio de Administración Fiscal del Estado de Campeche. Los derechos de estos trabajadores serán respetados y en ningún caso serán afectados por la reorganización que implica el presente ordenamiento.
+
+SEXTO.- Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaría de Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche o cualquier otra disposición jurídica que emane de ellos.
+
+SÉPTIMO.- Los asuntos que a la fecha de entrada en vigor de la presente Ley se encuentren en trámite ante alguna de las unidades administrativas de la Subsecretaría de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal de la Secretaría y que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, o los recursos administrativos interpuestos en contra de actos o resoluciones de tales unidades administrativas, se seguirán tramitando ante el Servicio de Administración Fiscal del Estado de Campeche y serán resueltos por el mismo, cuando se encuentren vinculados con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche y cualquier otra disposición jurídica que emane de ellos.
+
+OCTAVO.- Los juicios en los que sea parte la Secretaría de Finanzas por actos de las unidades administrativas adscritas a la Subsecretaría de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, que a la entrada en vigor de la presente Ley se encuentren en trámite ante los Tribunales del fuero federal, o cualquier otra instancia jurisdiccional, los continuará tramitando el Servicio de Administración Fiscal del Estado de Campeche a través de sus unidades administrativas competentes hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios, ante dichos tribunales.
+
+NOVENO.- Los amparos contra actos de las unidades administrativas adscritas a la Subsecretaría de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal de la Secretaría de Finanzas que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, cuya interposición les sea notificado con el carácter de autoridades responsables o de terceros perjudicados con anterioridad a la entrada en vigor de la Ley del Servicio de Administración Fiscal del Estado de Campeche, continuarán siendo llevados en su tramitación hasta su total conclusión por el Servicio de Administración Fiscal del Estado de Campeche.
+
+DÉCIMO.- La Secretaría de Finanzas dispondrá lo conducente a fin de que, a partir de la entrada en vigor de la Ley del Servicio de Administración Fiscal del Estado de Campeche, los bienes muebles e inmuebles, materiales y financieros, así como los archivos y expedientes con los que actualmente cuentan las unidades administrativas adscritas a la Subsecretaría de Ingresos de la Secretaría, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, para el ejercicio de las atribuciones vinculadas con la materia objeto de la mencionada Ley, su Reglamento y cualquier otra disposición jurídica que emane de ellos. Para tales efectos se deberán formalizar las actas de entrega- recepción correspondientes, en términos de las disposiciones jurídicas aplicables.
+
+UNDÉCIMO.- Los ajustes en materia de programación, presupuesto, estructuras y contabilidad que genere la creación del Servicio de Administración Fiscal del Estado de Campeche, podrán hacerse paulatinamente durante el ejercicio fiscal 2017.
+
+DÉCIMO SEGUNDO.- El Servicio de Administración Fiscal del Estado de Campeche podrá continuar utilizando el sistema informático actual o implementar un sistema informático propio. En el caso de la firma electrónica avanzada podrá implementarla a través de medios propios o a través de convenios con terceros.
+
+DÉCIMO TERCERO.- Las referencias que se hacen y atribuciones que se otorgan en el Código Fiscal del Estado de Campeche y en otras leyes, reglamentos, acuerdos y demás disposiciones jurídicas del marco jurídico del Estado, a la Secretaría de Finanzas de la Administración Pública del Estado de Campeche o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche cuando se trate de atribuciones vinculadas con la materia objeto de la Ley que crea y regula dicho órgano o cualquier otra disposición jurídica que emane de ellos.
+
+DÉCIMO CUARTO.- Las facultades conferidas al Estado de Campeche en el o los convenios de Colaboración Administrativa en materia Fiscal Federal y sus anexos, celebrados entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Campeche, así como todos los Convenios de Colaboración Administrativa en materia Hacendaria de Ingresos celebrados entre el Estado de Campeche y sus municipios, se entenderán también conferidas todas esas facultades al Órgano Administrativo Desconcentrado denominado "Servicio de Administración Fiscal del Estado de Campeche".
+
+DÉCIMO QUINTO.- Los asuntos pendientes de resolver por la Secretaría de Finanzas de la Administración Pública del Estado de Campeche a la entrada en vigor de este decreto, cuyas facultades se sustenten en el Código Fiscal del Estado, los resolverá el Servicio de Administración Fiscal del Estado de Campeche, salvo disposición específica en contrario.
+
+DÉCIMO SEXTO.- El plazo para el cómputo de la prescripción a que se refiere el párrafo quinto del artículo 39 del Código Fiscal del Estado, será aplicable para los créditos fiscales que hayan sido exigidos a partir del 1 de enero de 2008. Tratándose de los créditos fiscales exigibles con anterioridad al 1 de enero de 2008, el Servicio de Administración Fiscal del Estado de Campeche tendrá un plazo máximo de dos años para hacer efectivo el cobro de dichos créditos contados a partir de la entrada en vigor del presente decreto, siempre que se trate de créditos que no se encuentren controvertidos en dicho periodo; de controvertirse, el plazo máximo de dos años será suspendido. La aplicación de la presente disposición no configurará responsabilidad administrativa para servidores públicos encargados de la ejecución y cobro de créditos fiscales, siempre y cuando realicen las gestiones de cobro correspondientes.
+
+DÉCIMO SÉPTIMO.- La conversión de las tarifas, cuotas, derechos, multas y demás valores expresados en salarios mínimos generales diarios vigentes a Unidades de Medida y Actualización, se realizan en cumplimiento del artículo tercero transitorio del decreto por el que se declaran reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el veintisiete de enero de dos mil dieciséis.
+
+DÉCIMO OCTAVO.- Las referencias al Registro Único de Obligaciones y Financiamientos se entenderán hechas al Registro de Empréstitos y Obligaciones.
