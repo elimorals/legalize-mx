@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2016-07-18"
+last_updated: "2016-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 18 DE JULIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -337,9 +335,19 @@ XXX.- Implementar cursos de verano para los alumnos de educación básica y medi
 
 XXXI.- Crear un expediente único para todo alumno que curse estudios en el Estado de Sonora en los niveles que imparta el Estado, siendo estos de preescolar a media superior;
 
-XXXII.- Participar con la autoridad educativa federal, en la operación de los mecanismos de administración escolar; y
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
-XXXIII.- Coordinar y operar un padrón estatal de estudiantes, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un sistema estatal de información educativa. Para estos efectos, la Secretaría deberá coordinarse en el marco del Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la autoridad educativa federal y demás disposiciones aplicables.
+XXXII.- Participar con la autoridad educativa federal, en la operación de los mecanismos de administración escolar;
+
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXXIII.- Coordinar y operar un padrón estatal de estudiantes, docentes, instituciones y centros escolares; un registro estatal de emisión, validación e inscripción de documentos académicos y establecer un sistema estatal de información educativa. Para estos efectos, la Secretaría deberá coordinarse en el marco del Sistema de Información y Gestión Educativa, de conformidad con los lineamientos que al efecto expida la autoridad educativa federal y demás disposiciones aplicables; y
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXXIV.- Coordinarse con las autoridades en materia de salud del Estado, con los municipios y las sociedades de padres de familia, según corresponda, para implementar programas que proporcionen a los alumnos de educación secundaria y preparatoria, información veraz sobre la sexualidad, riesgos, métodos de protección, anticoncepción, la reproducción humana, la planificación familiar, así como la prevención de enfermedades de transmisión sexual y los embarazos, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, fomentando la participación, respetando el derecho primigenio, en todo momento, de quienes detenten la patria potestad o tutela; debiendo implementar para ello programas de salud sexual tanto para alumnos como para padres de familia, así como programas de desarrollo emocional, reforzamiento de autoestima, habilidades y plan de vida.
+
+Para tal efecto se procurará que los padres, o quienes tenga (sic) la patria potestad, tutela o custodia del alumno, participen activamente en los programas y acciones que para tal efecto se implementen.
 
 La Secretaría participará en la actualización e integración permanente del Sistema de Información y Gestión Educativa.
 
@@ -990,3 +998,13 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, al cuarto día del mes de julio del año dos mil dieciséis.- SUFRAGIO EFECTIVO, NO REELECCIÓN. GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 101, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN Y DE LA LEY DE SALUD, AMBAS PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
