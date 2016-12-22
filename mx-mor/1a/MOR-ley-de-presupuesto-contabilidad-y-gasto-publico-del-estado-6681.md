@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-6681
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "2015-07-29"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 8 de febrero de 1995.
 
@@ -55,515 +55,631 @@ Por las consideraciones anteriormente expuestas este Honorable Congreso del Esta
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE MORELOS
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 1o.
+### CAPÍTULO I. DEL OBJETO, LAS DEFINICIONES Y LAS DISPOSICIONES GENERALES
 
-La presente Ley tiene por objeto normar y regular el presupuesto de ingresos y egresos, la contabilidad y el ejercicio, examen, vigilancia y evaluación del Gasto Público:
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-I.- Del Gobierno del Estado de Morelos, caso en que será aplicada por el Ejecutivo del Estado, a través de la Secretaría de Hacienda y por los Poderes Legislativo y Judicial en su ámbito de competencia, y
+###### Artículo 1.
 
-II.- De los Municipios del Estado, caso en que será aplicada por los Ayuntamientos a través de los Presidentes Municipales.
+La presente Ley es de orden público y de observancia general y tiene por objeto normar las acciones relativas a la programación, presupuestación, aprobación, ejercicio, control, contabilidad y evaluación de los ingresos y egresos públicos.
 
-###### ARTICULO 2o.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-El Gasto Público comprende las erogaciones que por concepto de Gasto Corriente, inversión física, inversión financiera, pagos de pasivos o deuda Pública, realizan:
+###### Artículo 2.
 
-I.- En el Gobierno del Estado:
+Para efectos de esta Ley se entenderá por:
 
-a).- El Poder Legislativo
+I. Adecuaciones presupuestarias, a las modificaciones de las estructuras funcional programática, administrativa y económica, a los calendarios de presupuesto y las ampliaciones y reducciones al Presupuesto de Egresos o a los flujos de efectivo correspondientes, siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de los ejecutores de gasto;
 
-b).- El Poder Judicial
+II. Balance Presupuestario, a la diferencia entre los ingresos totales incluidos en la Ley de Ingresos y los gastos totales considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-c).- El Poder Ejecutivo a través de:
+III. Congreso del Estado, al Congreso del Estado Libre y Soberano de Morelos;
 
-1.- La Oficina del Gobernador del Estado y las unidades de asesoría, de apoyo técnico y de coordinación que él mismo determine crear de acuerdo con las disposiciones de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+IV. Contraloría, a la Secretaría de la Contraloría del Poder Ejecutivo Estatal;
 
-2.- Las Dependencias de la Administración Pública Central: Secretarías de Despacho, Procuraduría General de Justicia, Oficialía Mayor, Contraloría General y Representación del Gobierno del Estado en los términos de las disposiciones de la Ley Orgánica de la Administración Pública del Estado de Morelos.
+V. Criterios Generales de Política Económica, al documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación y de las Entidades Federativas, en términos de la normativa aplicable;
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+VI. Dependencias, a las Secretarías de Despacho, la Oficina de la Gubernatura, la Secretaría de Administración, la Consejería Jurídica, la Fiscalía General del Estado de Morelos, la Fiscalía Especializada para la Investigación de Hechos de Corrupción, todas del Poder Ejecutivo Estatal;
 
-3.- Los Organismos Descentralizados, Empresas de Participación Estatal Mayoritaria y Fideicomisos, que forman la Administración Pública del Estado de Morelos, así como las demás personas de derecho público de carácter estatal, cualquiera que sea su naturaleza jurídica, con autonomía por disposición constitucional o legal.
+VII. Deuda Pública, a cualquier financiamiento contraído por los Entes Públicos del Estado en términos de la normativa aplicable;
 
-4.- Los Tribunales Administrativos con autonomía jurisdiccional que funcionen en el Estado.
+VIII. Disciplina Financiera, a la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por los Entes Públicos, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico y el empleo y la estabilidad del sistema financiero;
 
-5.- Las Dependencias, Entidades u Organismos que estén en proceso de extinción.
+IX. Economías, a los recursos derivados de las medidas de la aplicación de las medidas de disciplina, austeridad del gasto, y que se expresan o reflejan como una cantidad de gasto menor al inicialmente programado;
 
-II.- En los Municipios del Estado:
+X. Entidad Superior, a la Entidad Superior de Auditoría y Fiscalización;
 
-a).- Los Ayuntamientos, las Oficinas de las Presidencias Municipales, las Sindicaturas y Regidurías, la Secretaría, Tesorería Municipal, Oficialía del Registro Civil y Dependencias y Comisiones en los términos de las disposiciones de la Ley Orgánica Municipal del Estado de Morelos.
+XI. Entidades Paraestatales, a los organismos públicos descentralizados, a los fideicomisos públicos del Poder Ejecutivo Estatal, a las empresas de participación estatal mayoritaria y las sociedades civiles y asociaciones civiles en las que la mayoría de los asociados sean Secretarías, Dependencias o Entidades de la Administración Pública del Estado o alguna o varias de ellas se obliguen a realizar las aportaciones preponderantes;
 
-b).- Los Concejos Municipales de conformidad con las disposiciones de la Ley Orgánica Municipal del Estado de Morelos.
+XII. Entidades Paramunicipales, a los organismos descentralizados municipales, a los fideicomisos públicos municipales y a las empresas de participación municipal mayoritaria;
 
-c).- Las autoridades municipales auxiliares en los términos de las disposiciones de la Ley Orgánica Municipal del Estado.
+XIII. Entes Públicos o Ejecutores del Gasto, a los Poderes Ejecutivo, Legislativo y Judicial; los Organismos Públicos Autónomos; a los Órganos de relevancia constitucional; los Municipios; las Entidades de la Administración Pública Paraestatal y Paramunicipal; así como cualquier otro ente del Estado o Municipio, con independencia de su naturaleza, que ejerza recursos públicos;
 
-d).- Los Organismos Descentralizados, incluyendo el "Sistema Municipal para el Desarrollo Integral de la Familia" o desconcentrados, empresas de participación estatal y fideicomisos; las entidades anteriores que se formen por los municipios o entre dos o más municipios.
+XIV. Gasto Corriente, a las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto en servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos;
 
-e).- Los Concejos de Colaboración Municipal de conformidad con las disposiciones de la Ley Orgánica Municipal del Estado de Morelos.
+XV. Gasto Público, a la totalidad de erogaciones aprobadas en el Presupuesto de Egresos del Gobierno del Estado y adicionalmente, las amortizaciones a la Deuda Pública;
 
-f).- Los Organismos Auxiliares Municipales en los términos de las disposiciones de la Ley Orgánica Municipal del Estado.
+XVI. Ley de Ingresos, a la que apruebe el Congreso del Estado anualmente, a iniciativa del Titular del Poder Ejecutivo Estatal;
 
-g).- La Oficina del Cronista Municipal en los términos de las disposiciones de la Ley Orgánica Municipal del Estado.
+XVII. Organismos Públicos Autónomos, a los creados o reconocidos con tal carácter en la Constitución Política del Estado Libre y Soberano de Morelos;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2013)</small>
+XVIII. Órganos de relevancia constitucional, a los Órganos que sin ser Organismo Público Autónomo (sic), por su importancia y funciones son creados en la Constitución Política del Estado Libre y Soberano de Morelos;
 
-A los Poderes, Instituciones, Dependencias, Organismos descentralizados, Empresas de participación estatal mayoritaria y Fideicomiso, los cuales deberán cumplir las disposiciones de esta Ley observando que la administración de los recursos públicos estatales se realice con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
+XIX. Poder Ejecutivo, al conjunto de unidades que componen la Administración Pública Central y Paraestatal;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2013)</small>
+XX. Presupuesto de Egresos, al que contenga el Decreto aprobado por el Congreso del Estado a iniciativa del Titular del Poder Ejecutivo Estatal para el ejercicio fiscal que corresponda;
 
-###### ARTICULO 3o.
+XXI. Secretaría, a la Secretaría de Hacienda del Poder Ejecutivo Estatal, y
 
-La programación, presupuestación y ejercicio del Gasto Público estatal y municipal se basará en las directrices, lineamientos y políticas que establezcan los Planes Estatal y Municipales de Desarrollo y en los programas que de éstos se deriven atendiendo a los principios de equidad de género.
+XXII. Sistema de Evaluación del Desempeño, al conjunto de elementos metodológicos que permiten realizar una valoración objetiva del desempeño de los programas, bajo los principios de verificación del grado de cumplimiento de las metas y objetivos, con base en indicadores de desempeño, que permitan conocer el impacto social de los programas y proyectos.
 
-Los Poderes Legislativo y Judicial, en el ámbito de sus respectivas competencias, podrán establecer los lineamientos que se requieran a efecto de ser congruentes, en sus sistemas administrativos y de control de gasto, con lo establecido por esta Ley.
+Cualquier otro término que no se integre en el presente articulado se deberá entender en los términos del glosario de la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y, en su caso, del Presupuesto de Egresos del Gobierno del Estado del ejercicio fiscal que corresponda.
 
-###### ARTICULO 4o.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-El Ejecutivo del Estado, a través de la Secretaría de Hacienda y los Presidentes Municipales a través de las Tesorerías Municipales, coordinarán, conforme lo establece la presente Ley, las actividades de programación, presupuestación, control, seguimiento y evaluación del Gasto Público.
+###### Artículo 3.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+La programación, presupuestación, aprobación, ejercicio y control del Gasto Público del Estado y los Municipios por conducto de sus Dependencias y Entidades Paraestatales y Paramunicipales, se basará en las directrices, lineamientos y políticas que establezcan sus respectivos Planes Estatal y Municipal de Desarrollo y en los programas que de éstos se deriven.
 
-Las facultades que la presente Ley concede a las Tesorerías Municipales no excluyen las que la Ley Orgánica Municipal del Estado de Morelos otorga a las Comisiones de Regidores encargadas del ramo de Hacienda, corresponde a la Entidad Superior de Auditoria y Fiscalización ejercer las atribuciones que le confiere su Ley Orgánica.
+La interpretación de la presente Ley, para efectos administrativos y exclusivamente en el ámbito de competencia del Poder Ejecutivo Estatal, corresponde a la Secretaría y a la Contraloría, en el ámbito de sus respectivas atribuciones y competencias legales; del mismo modo, la Secretaría contará con facultades para emitir los criterios, reglas y lineamientos necesarios, para dar cumplimiento a la presente Ley, y demás normativa aplicable.
 
-###### ARTICULO 5o.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Las dependencias del Ejecutivo del Estado y de los municipios orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto de las Entidades Paraestatales o Paramunicipales que estén agrupadas en su sector conforme al acuerdo respectivo que dicte el Ejecutivo del Estado o los Ayuntamientos y con base en las políticas y programas sectoriales, institucionales y especiales establecidos.
+###### Artículo 4.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2013)</small>
+El Gasto Público comprende las erogaciones que por concepto de gasto corriente, incluyendo los pagos de pasivo de la deuda pública; inversión física, inversión financiera, así como responsabilidad patrimonial, realizan los siguientes ejecutores de gasto:
 
-Lo anterior atendiendo al principio de equidad de género a través de acciones afirmativas, así como la concordancia de estas actividades con los principios y directrices del Plan Estatal de Desarrollo.
+I. El Poder Ejecutivo;
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ENERO DE 2013)</small>
+II. El Poder Legislativo;
 
-Las disposiciones de las entidades mencionadas en el párrafo anterior, se presentarán a la Secretaría de Hacienda y a las tesorerías municipales, por conducto de la dependencia coordinadora del sector al que correspondan.
+III. El Poder Judicial;
 
-###### ARTICULO 6o.
+IV. Los Organismos Públicos Autónomos;
 
-Con el propósito de optimizar los recursos presupuestales que tienen asignados, las dependencias y entidades deberán planear, programar, presupuestar, controlar, evaluar y vigilar sus actividades con base en las disposiciones de esta Ley.
+V. Los Órganos de relevancia constitucional;
 
-###### ARTICULO 7o.
+VI. Las Entidades;
 
-En cada una de las dependencias del Ejecutivo, de los Municipios y en las demás entidades, los encargados de ejecutar los programas serán los responsables del avance de los mismos y deberán informar periódicamente de los resultados obtenidos, por conducto de sus titulares a la Secretaría de Hacienda, Tesorerías Municipales y unidades equivalentes.
+VII. Los Municipios, y
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+VIII. Cualquier otro ente del Estado o Municipio, con independencia de su naturaleza, que ejerza recursos públicos.
 
-###### ARTICULO 8o.
+Los ejecutores del gasto administrarán sus recursos con base en criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas e igualdad de género, y están obligados a rendir cuentas por la administración de los recursos públicos en los términos de este ordenamiento y demás normativa aplicable.
 
-A la Secretaría de Hacienda, a las Sindicaturas, Comisiones, Regidores del ramo de Hacienda y Tesorerías Municipales respectivas, quedará encomendada la vigilancia y verificación del ejercicio del gasto público de las dependencias y entidades a través de visitas, inspecciones y auditorías sin detrimento de las facultades legales que correspondan a las Contralorías respectivas o al Congreso del Estado a través de la Entidad Superior de Auditoria y Fiscalización.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 9o.
+###### Artículo 5.
 
-Las dependencias y entidades deberán proporcionar, en el Estado, a la Secretaría de Hacienda y en los Municipios, a la Tesorería respectiva, la información que requieran, conforme a su ámbito de competencia, a efecto de ejercer las funciones previstas en esta Ley.
+El Poder Ejecutivo, a través de la Secretaría y los Municipios, a través de las Tesorerías Municipales, coordinarán, conforme lo establece la presente Ley, las actividades de planeación, programación, presupuestación, control, seguimiento y evaluación del Gasto Público.
 
-### CAPITULO SEGUNDO. DE LOS INGRESOS
+Las facultades que la presente Ley concede a las Tesorerías Municipales no excluyen aquellas que la Ley Orgánica Municipal del Estado de Morelos otorga a las Comisiones de Regidores encargadas del ramo de Hacienda.
 
-###### ARTICULO 10.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Todas las dependencias y entidades que de sus actividades generen ingresos que con base a la legislación estatal o municipal, se consideren ingresos fiscales, deberán coordinarse con la Secretaría de Hacienda en el primer caso y con las Tesorerías Municipales en el segundo para que se incorporen en la Ley de Ingresos respectiva.
+###### Artículo 6.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+Las Dependencias y los Municipios orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto de las Entidades Paraestatales o Paramunicipales, agrupadas en su sector conforme al acuerdo que dicte el Titular del Poder Ejecutivo Estatal, o los Ayuntamientos, en sus respectivas competencias.
 
-###### ARTICULO 11.
+Lo anterior atendiendo lo previsto en esta Ley, así como la concordancia de sus actividades con los principios y directrices del Plan Estatal y Municipal de Desarrollo, correspondiente.
 
-Los proyectos de Presupuestos de Ingresos incluirán la expectativa de entradas de efectivo por ingresos fiscales y, las Entidades, incluirán los ingresos que generen con relación directa al cumplimiento de su objeto social, los que serán objeto de revisión por el Congreso del Estado, a través de la Entidad Superior de Auditoria y Fiscalización.
+Las disposiciones de gasto de las Entidades Paraestatales y Paramunicipales, se presentarán a la Secretaría y a las Tesorerías Municipales, por conducto de la Dependencia coordinadora del sector al que correspondan.
 
-###### ARTICULO 12.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Las fuentes de ingresos se determinarán con base a las leyes aplicables así como a las políticas generales establecidas por los Planes de Desarrollo del Estado y de los Municipios y las particulares dictadas por el Ejecutivo del Estado y por los Ayuntamientos.
+###### Artículo 7.
 
-###### ARTICULO 13.
+En los Entes Públicos, los encargados de ejecutar los programas serán los responsables del avance de los mismos y deberán informar periódicamente sobre los resultados obtenidos a la Secretaría, Tesorerías Municipales y unidades equivalentes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 8.
+
+A la Secretaría en el Poder Ejecutivo; las Sindicaturas, Comisiones, Regidores del ramo de Hacienda y Tesorerías Municipales respectivas, en el Municipio; les quedará encomendada la vigilancia, verificación y revisión del ejercicio del Gasto Público, a través de visitas e inspecciones en el ámbito de sus respectivas competencias, sin detrimento de las facultades legales que correspondan a los órganos internos de control o al Congreso del Estado, a través de la Entidad Superior de Auditoría y Fiscalización.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 9.
+
+Las Dependencias y Entidades Paraestatales deberán proporcionar sin demora, la información que le sea requerida por la Secretaría, en el ámbito de su competencia y atribuciones, a efecto de ejercer las funciones previstas en esta Ley. En el caso de los Municipios, la misma obligación en la entrega de información será respecto de la solicitada por la Tesorería Municipal.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO II. DE LA RESPONSABILIDAD HACENDARIA Y LA DISCIPLINA FINANCIERA
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 10.
+
+Las iniciativas de Ley de Ingresos y proyectos de Presupuesto de Egresos se deberán elaborar conforme a lo establecido en la presente Ley, la Ley General de Contabilidad Gubernamental, las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, y la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, tomando como base los objetivos, parámetros cuantificables e indicadores del desempeño.
+
+Para el Poder Ejecutivo, las iniciativas de Ley de Ingresos y Presupuesto de Egresos deberán ser congruentes con el Plan Estatal de Desarrollo y los programas autorizados que deriven de los mismos, debiendo incluir cuando menos lo siguiente:
+
+I. Objetivos anuales, estrategias y metas;
+
+II. Proyecciones de finanzas públicas, considerando las premisas empleadas en los Criterios Generales de Política Económica;
+
+III. Descripción de los riesgos relevantes para las finanzas públicas, incluyendo los montos de deuda, acompañados de propuestas de acción para enfrentarlos;
+
+IV. Los resultados de las finanzas públicas que abarquen un periodo de los cinco últimos años y el ejercicio fiscal en cuestión, de acuerdo con los formatos que emita el Consejo Nacional de Armonización Contable para este fin, y
+
+V. Un estudio actuarial de las pensiones de sus trabajadores, el cual como mínimo deberá actualizarse cada tres años. El estudio deberá incluir la población afiliada, la edad promedio, las características de las prestaciones otorgadas por la ley aplicable, el monto de reservas de pensiones, así como el periodo de suficiencia y el balance actuarial en valor presente.
+
+La Ley de Ingresos y el Presupuesto de Egresos deberán ser congruentes con los Criterios Generales de Política Económica y las estimaciones de las participaciones y transferencias federales etiquetadas que se incluyan no deberán exceder a las previstas en la iniciativa de la Ley de Ingresos de la Federación y en el proyecto de Presupuesto de Egresos de la Federación del ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 11.
+
+El Gasto total propuesto por el Titular del Poder Ejecutivo en la iniciativa de Presupuesto de Egresos, aquél que apruebe el Congreso del Estado y el que se ejerza en el año fiscal, deberá contribuir a un Balance presupuestario sostenible, en la inteligencia que se cumple con esta premisa, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero.
+
+Igualmente, el Balance presupuestario de recursos disponibles es sostenible, cuando al final del ejercicio fiscal y bajo el momento contable devengado, dicho balance sea mayor o igual a cero.
+
+Debido a razones excepcionales previstas en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos podrán prever un Balance Presupuestario de recursos disponibles negativo. En estos casos, el Poder Ejecutivo dará cuenta de ello al Congreso del Estado, en términos de la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 12.
+
+Toda propuesta de aumento o creación de gasto en el Presupuesto de Egresos deberá acompañarse con la correspondiente iniciativa de ingreso o compensarse con reducciones en otras previsiones de gasto.
+
+No procederá realizar pago alguno que no esté comprendido en el Presupuesto de Egresos, determinado por ley posterior o con cargo a Ingresos excedentes.
+
+El Poder Ejecutivo deberá revelar en la cuenta pública y en los informes que periódicamente entregue al Congreso del Estado, la fuente de ingresos con la que se haya pagado el nuevo gasto, distinguiendo el gasto etiquetado y no etiquetado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 13.
+
+Una vez aprobado el Presupuesto de Egresos del Estado, sólo se podrán comprometer recursos con cargo al presupuesto autorizado, contando previamente con la suficiencia presupuestaria.
+
+Se podrán realizar erogaciones adicionales a las aprobadas en el Presupuesto de Egresos con cargo a los Ingresos excedentes que se obtengan y con la autorización previa de la Secretaría, en términos de la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 14.
+
+La asignación global de servicios personales aprobada originalmente en el Presupuesto de Egresos no podrá incrementarse durante el ejercicio fiscal. Lo anterior exceptuando el pago de sentencias laborales definitivas emitidas por autoridad competente y los otros casos señalados en ordenamientos legales.
+
+Los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 15.
+
+Los Entes Públicos deberán tomar medidas para reducir y racionalizar el gasto corriente.
+
+Los ingresos excedentes derivados de libre disposición, ahorros y economías generados como resultado de la aplicación de dichas medidas, así como los ahorros presupuestarios y las economías que resulten por concepto de un costo financiero de la deuda pública menor al presupuestado, deberán destinarse en primer lugar a corregir, en su caso, el balance presupuestario de recursos disponibles negativo, y en segundo lugar a los programas prioritarios, en términos de la normativa aplicable.
+
+Para efectos del presente artículo serán programas prioritarios aquellos que con tal carácter se creen, o bien, los que con tal naturaleza determine la Secretaría en el caso del Poder Ejecutivo; y en el caso de los Municipios será el Ayuntamiento respectivo, quien ejerza dicha facultad.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 16.
+
+Toda iniciativa de Ley o decreto que sea sometida al Congreso del Estado, deberá incluir en su dictamen correspondiente una estimación sobre el impacto presupuestario del proyecto.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 17.
+
+Los Entes Públicos deberán observar en sus respectivos procesos de programación y presupuestación, así como en el ejercicio, control y contabilidad del Gasto Público, además de las disposiciones que establece esta Ley, y las que deriven de la legislación estatal aplicable, aquellas previstas en la Ley General de Contabilidad Gubernamental y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+El incumplimiento a dichas disposiciones se sancionará en términos de la normativa aplicable.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO III. DE LOS INGRESOS
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 18.
+
+Las Dependencias y Entidades Paraestatales y Paramunicipales, que con motivo de sus actividades o funciones generen ingresos que con base a la legislación estatal o municipal, se consideren ingresos fiscales, deberán coordinarse con la Secretaría en el primer caso y con las Tesorerías Municipales en el segundo para que dichos ingresos se incorporen en la Ley de Ingresos para el ejercicio fiscal que corresponda.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 19.
+
+El proyecto de Ley de Ingresos del Gobierno del Estado incluirá, además de otros requisitos señalados en esta Ley, la expectativa de entradas de efectivo por ingresos fiscales y las Entidades Paraestatales y Paramunicipales, los ingresos que generen con relación directa al cumplimiento de su objeto social, los que serán objeto de revisión por el Congreso del Estado, a través de la Entidad Superior de Auditoría y Fiscalización.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 20.
+
+Las fuentes de ingresos se determinarán con base en las leyes aplicables, así como a las políticas generales establecidas por los Planes de Desarrollo del Estado y de los Municipios y las particulares dictadas por el Ejecutivo del Estado y por los Ayuntamientos y demás normativa aplicable.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 21.
 
 Todos los ingresos o entradas de efectivo se ampararán, sin excepción alguna, con la expedición de recibos oficiales debidamente requisitados.
 
-###### ARTICULO 14.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Las proposiciones que hagan los miembros del Congreso del Estado para modificar las Leyes de Ingresos del Estado o Municipios, Leyes Fiscales especiales o Decretos que rijan en materia de ingresos a las dependencias y entidades mencionadas en el artículo 2do. serán sometidos, desde luego, a la Comisión respectiva para su estudio y dictamen.
+###### Artículo 22.
 
-###### ARTICULO 15.
+Las proposiciones que hagan los miembros del Congreso del Estado para modificar las Leyes de Ingresos del Estado o Municipios, Leyes Fiscales especiales o Decretos que rijan en materia de ingresos a las Dependencias y Entidades Paraestatales y Paramunicipales, serán sometidos (sic), desde luego, a la Comisión respectiva para su estudio y dictamen.
 
-El Gasto Público se basará en presupuestos que se formularán con apoyo en programas que señalen objetivos, metas, beneficios y unidades responsables de su ejecución.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Deberán elaborarse de acuerdo con las prioridades establecidas en los Planes Estatales y Municipales de Desarrollo, según el caso y unirse a la disponibilidad de recursos financieros, materiales y humanos.
+### CAPÍTULO IV. DEL PRESUPUESTO DE EGRESOS
 
-###### ARTICULO 16.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-El Presupuesto de Egresos del Gobierno del Estado, será el que contenga el Decreto que apruebe el Congreso del Estado, a iniciativa del Ejecutivo.
+###### Artículo 23.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+El Gasto Público se basará en presupuestos que se formularán con apoyo en programas que señalen objetivos, metas, beneficios y unidades responsables de su ejecución, con base en objetivos, parámetros cuantificables e indicadores del desempeño.
 
-El Presupuesto de Egresos del Municipio será el que apruebe el Ayuntamiento a iniciativa del Presidente Municipal, el que será enviado para su publicación al Periódico Oficial del Estado o en la Gaceta Municipal.
+Los programas deberán elaborarse de acuerdo con las prioridades establecidas en los Planes Estatales y Municipales de Desarrollo, según el caso, y unirse a la disponibilidad de recursos financieros, materiales y humanos; se observará la Ley General de Contabilidad Gubernamental y las normas que para tal efecto emita el Consejo Nacional de Armonización Contable, así como la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
+###### Artículo 24.
 
-###### ARTICULO 17.
+El Presupuesto de Egresos del Gobierno del Estado y de cada Municipio incluirá un capítulo específico que incorpore las erogaciones derivadas de contratos de colaboración público privada y, comprenderá también, en apartado especial, las previsiones del Gasto Público que habrán de realizar respectivamente las Entidades Paraestatales y Paramunicipales.
 
-El Presupuesto de Egresos del Gobierno del Estado y de cada Municipio incluirá un capítulo específico que incorpore las erogaciones derivadas de contratos de colaboración público privada y, comprenderá también, en apartado especial, las previsiones del Gasto Público que habrán de realizar respectivamente las entidades de la Administración Pública Paraestatal y de la Administración Pública Paramunicipal.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-En el caso de entidades intermunicipales, cada Municipio contemplará las erogaciones que en lo particular le corresponden.
+###### Artículo 25.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Para la formulación de los respectivos proyectos de Presupuesto de Egresos del Gobierno del Estado y de los Municipios, las Dependencias y Entidades Paraestatales y Paramunicipales comprendidas en los mismos, elaborarán su anteproyecto con base en los programas respectivos, y los remitirán en el caso de las Dependencias, directamente a la Secretaría o a las Tesorerías Municipales según el caso; las entidades lo harán, en su caso, por conducto de la dependencia coordinadora del sector correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
+Los anteproyectos de presupuesto de egresos se elaborarán con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas e igualdad de género.
 
-### CAPITULO TERCERO. DEL PRESUPUESTO DE EGRESOS
-
-###### ARTICULO 18.
-
-Todas las erogaciones deberán cubrirse siempre con los ingresos previstos, de manera que se contribuya al equilibrio presupuestal. La Secretaría de Hacienda y los Ayuntamientos, verificarán, cuando los ingresos ordinarios y en su caso los extraordinarios no sean suficientes para cubrir el Presupuesto de Egresos correspondiente, que se determinen las fuentes de contratación de financiamiento y elaborarán el Programa Financiero respectivo.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
-
-###### ARTICULO 19.
-
-Para la formulación de los proyectos de Presupuesto de Egresos del Gobierno del Estado y de los Municipios, las dependencias y entidades comprendidas en el mismo, elaborarán su anteproyecto con base en los programas respectivos, y los remitirán en el caso de las dependencias, directamente a la Secretaría de Hacienda o a las Tesorerías Municipales según el caso; las entidades lo harán, en su caso, por conducto de la dependencia coordinadora del sector correspondiente.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2013)</small>
-
-Los anteproyectos de presupuesto de egresos se elaborarán con base en los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ENERO DE 2013)</small>
-
-La Secretaría de Finanzas y Planeación y las Tesorerías Municipales enviarán anualmente a las dependencias y entidades, durante el mes de junio, un instructivo conforme al cual habrán de elaborarse los anteproyectos y en el cual se señalarán las fechas de entrega respectivas. Si la información solicitada no se envía oportunamente por las Dependencias y Entidades, tanto la Secretaría como las Tesorerías, elaborarán según su propio criterio, los mencionados proyectos.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 23 DE ENERO DE 2013)</small>
+La Secretaría y las Tesorerías Municipales enviarán anualmente a las Dependencias y Entidades Paraestatales y Paramunicipales respectivas, durante el mes de junio, un instructivo conforme al cual habrán de elaborarse los anteproyectos y en el cual se señalarán las fechas de entrega correspondientes.
 
 Los Poderes Legislativo y Judicial formularán sus propios anteproyectos de Presupuesto y los entregarán al Ejecutivo del Estado a más tardar el 1º de septiembre de cada año para que, conforme a los acuerdos, se ordene su incorporación al proyecto de Presupuesto de Egresos del Gobierno del Estado. Para el caso de que inicie una nueva Legislatura el término de presentación del anteproyecto de Presupuesto del Poder Legislativo, será el 17 de septiembre.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 20.
+###### Artículo 26.
 
-La iniciativa de Presupuesto de Egresos del Gobierno del Estado de Morelos, que presente el titular del Ejecutivo Estatal a la legislatura local, así como el presupuesto de gasto público de los municipios, en el ámbito de sus respectivas competencias, deberá comprender:
+La iniciativa de Presupuesto de Egresos del Gobierno del Estado de Morelos, que presente el Titular del Poder Ejecutivo a la Legislatura local, así como el presupuesto de Gasto Público de los Municipios, en el ámbito de sus respectivas competencias, deberá comprender lo relativo al balance presupuestario sostenible y responsabilidad hacendaria, además de los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
+I. Las condiciones económico-sociales que prevalezcan en su ámbito territorial, la situación financiera y hacendaria presente y su perspectiva; los programas en los que se considere la participación de los sectores privado y social; así como las estrategias a implementar y los propósitos a lograr con el Gasto Público, así como la información necesaria que fundamente y motive las actividades programadas, con base en los principios de la presente Ley, y lineamientos que señala el Plan Estatal de Desarrollo;
 
-I.- Las condiciones económico-sociales que prevalezcan en su ámbito territorial, la situación financiera y hacendaria presente y su perspectiva; los programas en los que se considere la participación de los sectores privado y social; así como las estrategias a implementar y los propósitos a lograr con el gasto público, así como la información necesaria que fundamente y motive las actividades programadas, con base en los principios de equidad de género y lineamientos que señala el Plan Estatal de Desarrollo.
+II. Los ingresos y los gastos realizados en el periodo transcurrido del ejercicio en curso;
 
-II.- Los ingresos y los gastos realizados en el periodo transcurrido del ejercicio en curso.
+III. La estimación de ingresos y los propósitos del gasto en el periodo por transcurrir del ejercicio fiscal en curso;
 
-III.- La estimación de ingresos y los propósitos del gasto en el periodo por transcurrir del ejercicio fiscal en curso.
-
-IV.- La descripción global y detallada de los distintos rubros que componen el gasto corriente por dependencia o unidad administrativa; incluyendo la estructura orgánica y funcional y los tabuladores desglosados de las remuneraciones vigentes; así como los tabuladores de sueldos desglosados de las remuneraciones que se propongan para todos los servidores públicos, por el desempeño de su función, empleo, cargo o comisión, que en el caso del Presupuesto del Gobierno del Estado de Morelos, comprenderá los de los tres poderes locales, los de los organismos descentralizados, fideicomisos públicos y empresas de participación pública, así como los organismos autónomos por mandato constitucional local; y en el caso de los Ayuntamientos los de las dependencias, organismos descentralizados, fideicomisos y empresas de participación mayoritaria municipal.
+IV. La descripción global y detallada de los distintos rubros que componen el gasto corriente por dependencia o unidad administrativa; incluyendo la estructura orgánica y funcional y los tabuladores desglosados de las remuneraciones vigentes; así como los tabuladores de sueldos desglosados de las remuneraciones que se propongan para todos los servidores públicos, por el desempeño de su función, empleo, cargo o comisión, que en el caso del Presupuesto del Gobierno del Estado de Morelos, comprenderá los de los tres Poderes locales, los de las Entidades Paraestatales, los Organismos Públicos Autónomos, los Órganos de relevancia constitucional; y en el caso de los Ayuntamientos los de sus Dependencias y de las Entidades Paramunicipales.
 
 Las remuneraciones y sus tabuladores serán públicos y deberán especificar y diferenciar la totalidad de los elementos fijos y variables, tanto en efectivo como en especie.
 
 Para los efectos de esta disposición se entiende por remuneración: Toda retribución o percepción en efectivo o en especie, incluyendo dietas, aguinaldos en los casos en que proceda, ayudas, vales, apoyos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones ordinarias o extraordinarias y cualquier otra análoga equivalente con excepción de:
 
-a) Los apoyos y gastos sujetos a comprobación que se autoricen como propios para el desarrollo del trabajo.
+a) Los apoyos y gastos sujetos a comprobación que se autoricen como propios para el desarrollo del trabajo;
 
-b) Los gastos de viaje en actividades oficiales.
+b) Los gastos de viaje en actividades oficiales;
 
-c) El monto de la jubilación, pensión o los haberes de retiro, y las liquidaciones por servicios prestados.
+c) El monto de la jubilación, pensión o los haberes de retiro, y las liquidaciones por servicios prestados;
 
-d) Los pasivos a cargo de los servidores públicos, durante el cierre de un ejercicio fiscal, por los conceptos señalados en los incisos a) y b) que preceden.
+d) Los pasivos a cargo de los servidores públicos, durante el cierre de un ejercicio fiscal, por los conceptos señalados en los incisos a) y b) que preceden;
 
-e) Los préstamos o los créditos personales que se autoricen, independientemente de que éstos se cubran en uno o más ejercicios fiscales.
+e) Los préstamos o los créditos personales que se autoricen, independientemente de que éstos se cubran en uno o más ejercicios fiscales;
 
-f) Los elementos o servicios que sean necesarios para prestar el servicio, el empleo, cargo o comisión, incluyendo los que se autoricen por seguridad.
+f) Los elementos o servicios que sean necesarios para prestar el servicio, el empleo, cargo o comisión, incluyendo los que se autoricen por seguridad, y
 
-g) Los ingresos provenientes de actividades personales ajenas al servicio público o los obtenidos por donación, herencia y legado.
+g) Los ingresos provenientes de actividades personales ajenas al servicio público o los obtenidos por donación, herencia y legado;
 
-V.- Las remuneraciones por el desempeño de la función, empleo, cargo o comisión de los servidores públicos estatales o municipales, quedan sujetas a las siguientes limitaciones:
+V. Las remuneraciones por el desempeño de la función, empleo, cargo o comisión de los servidores públicos estatales o municipales, quedan sujetas a las siguientes limitaciones:
 
-a) En ningún caso podrán ser mayores a la remuneración autorizada al Presidente de la República, en el respectivo Presupuesto de Egresos del Gobierno federal.
+a) En ningún caso podrán ser mayores a la remuneración autorizada al Presidente de la República ni al Gobernador del Estado, en el respectivo Presupuesto de Egresos, y
 
 b) Tampoco podrán ser iguales o mayores a las que perciba el superior jerárquico de cada servidor público; excepto que el excedente, cumpla con cualquiera de las siguientes características:
 
-1.- Que sea producto de las condiciones generales del trabajo que se pacten.
+1. Que sea producto de las condiciones generales del trabajo que se pacten;
 
-2.- Que derive de un trabajo técnico calificado o especializado de su función.
+2. Que derive de un trabajo técnico calificado o especializado de su función, y
 
-3.- Que en ambos casos, el monto no exceda la mitad de la remuneración que el Presupuesto de Egresos del Gobierno Federal autorice al Presidente de la República.
+3. Que en ambos casos, el monto no exceda la mitad de la remuneración autorizada al Presidente de la República y al Gobernador del Estado en los Presupuestos de Egresos respectivos.
 
-La transgresión a los lineamientos contenidos en esta fracción, dará motivo a que los órganos de control interno establecidos en el artículo 6 de la Ley Estatal de Responsabilidades de los Servidores Públicos, en sus respectivos ámbitos de competencia, inicien los procedimientos de investigación respectiva y en su caso determinen la sanción que proceda, independientemente de las sanciones penales a que haya lugar.
+La transgresión a los lineamientos contenidos en esta fracción, dará motivo a que los órganos de control interno establecidos en la Ley Estatal de Responsabilidades de los Servidores Públicos, en sus respectivos ámbitos de competencia, inicien los procedimientos de investigación respectiva y en su caso determinen la sanción que proceda, independientemente de las sanciones penales a que haya lugar.
 
-El Poder Legislativo de Morelos y los ayuntamientos, conservarán en todo momento la potestad para sancionar las modificaciones que se requieran al Presupuesto de Egresos de su competencia, vigilando el cumplimiento del principio de publicidad y las restricciones antes señaladas.
+El Poder Legislativo y los Ayuntamientos, conservarán en todo momento la potestad para sancionar las modificaciones que se requieran al Presupuesto de Egresos de su competencia, vigilando el cumplimiento del principio de publicidad y las restricciones antes señaladas;
 
-VI.- Descripción clara de los programas que integren el proyecto de Presupuesto de Egresos, en donde se señalen los objetivos, metas y prioridades globales; así como las unidades responsables de su ejecución, y la valuación estimada por programa y subprogramas, incluyendo aquellas que abarquen dos o más ejercicios fiscales.
+VI. Descripción clara de los programas que integren el proyecto de Presupuesto de Egresos, en donde se señalen los objetivos, metas y prioridades globales; así como las unidades responsables de su ejecución, y la valuación estimada por programa y subprogramas, incluyendo aquellas que abarquen dos o más ejercicios fiscales.
 
-Y en su caso, el programa financiero que contenga detalladamente la situación de la deuda pública al término del último ejercicio fiscal, el monto y su justificación en el caso de requerir mayor financiamiento y la estimación pormenorizada del estado que guarda la deuda a la conclusión del ejercicio fiscal en curso y del inmediato siguiente.
+Y, en su caso, el programa financiero que contenga detalladamente la situación de la deuda pública al término del último ejercicio fiscal, el monto y su justificación en el caso de requerir mayor financiamiento, acompañando las propuestas de acción para enfrentarlos y la estimación pormenorizada del estado que guarda la deuda a la conclusión del ejercicio fiscal en curso y del inmediato siguiente;
 
-VII.- El monto, las condiciones y la corrida financiera de las erogaciones y las demás obligaciones que deriven los contratos de colaboración público privada.
+VII. El monto, las condiciones y la corrida financiera de las erogaciones y las demás obligaciones que deriven (sic) los contratos de colaboración público privada;
 
-VIII.- En general, toda la información que sea necesaria a fin de conocer la situación que prevalece en los ingresos, egresos, y programas gubernamentales, y el destino que se quiera dar a los recursos públicos.
+VIII. Prever recursos para atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionados por la ocurrencia de desastres naturales, así como para llevar a cabo acciones para prevenir y mitigar su impacto a las finanzas estatales y aportarse a un fideicomiso público que se constituya específicamente para dicho fin, y
+
+IX. En general, toda la información que sea necesaria a fin de conocer la situación que prevalece en los ingresos, egresos, y programas gubernamentales, y el destino que se quiera dar a los recursos públicos, así como los demás requisitos y elementos a que hace referencia la Ley de Disciplina Financiera para las Entidades Federativas y Municipios.
 
 El Congreso del Estado de Morelos, por conducto de la Presidencia de la Comisión de Hacienda, Presupuesto y Cuenta Pública o bien, de la Presidencia de la Mesa Directiva, estará facultado para solicitar toda la información y documentación necesaria para la valoración, dictamen, discusión y votación informada de la iniciativa de Ley de Ingresos y del Presupuesto de Egresos.
 
-###### ARTICULO 21.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 27.
 
 Los borradores finales para los proyectos de Presupuesto de Egresos deberán ser presentados oportunamente:
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2005)</small>
+I. Al Titular del Ejecutivo por la Secretaría, los correspondientes al Gobierno del Estado, y Entidades de la Administración Pública Paraestatal para ser enviados al Congreso del Estado en los términos que señala la Constitución Política del Estado de Morelos, y
 
-I.- Al Titular del Ejecutivo por la Secretaría de Finanzas y Planeación, los correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados al Congreso del Estado en los términos que señala la Constitución Política del Estado de Morelos.
+II. Al Presidente Municipal por conducto de la Tesorería Municipal, los correspondientes al Municipio y a las Entidades de la Administración Pública Paramunicipal para ser presentados en el Cabildo a más tardar el 14 de septiembre de cada año.
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2005)</small>
+Aprobado el Presupuesto de Egresos del Municipio para el ejercicio fiscal respectivo, el Ayuntamiento deberá remitir al Congreso del Estado, por conducto del Presidente Municipal durante el transcurso del mes de enero del año siguiente, copias del mismo y de sus programas y subprogramas acompañados del acta de la sesión de cabildo en que se aprobó, para efectos de la revisión de la Cuenta Pública.
 
-II.- Al Presidente Municipal por conducto de la Tesorería Municipal, los correspondientes al Municipio y a las Entidades de la Administración Pública Paramunicipal para ser presentados en el Cabildo a más tardar el 14 de septiembre de cada año.
+El Presidente Municipal ordenará la publicación del Presupuesto de Egresos del Municipio, en el Periódico Oficial del Estado y en la Gaceta Municipal.
 
-Aprobado el Presupuesto de Egresos del Municipio para el ejercicio fiscal respectivo, el Ayuntamiento deberá remitir por conducto del Presidente Municipal durante el transcurso del mes de enero del año siguiente, copias del mismo y de sus programas y subprogramas acompañados del acta de la sesión de cabildo en que se aprobó, al Congreso del Estado, para efectos de la revisión de la Cuenta Pública.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 1998)</small>
+###### Artículo 28.
 
-El Presidente Municipal ordenará la publicación del Presupuesto de Egresos en el Periódico Oficial del Estado o en la Gaceta Municipal.
+Sólo el Titular del Poder Ejecutivo del Estado y los Presidentes Municipales, en sus respectivos ámbitos de competencia, podrán modificar la estructura administrativa y financiera de los programas de sus Dependencias y Entidades Paraestatales y Paramunicipales que estén incluidos en el Presupuesto de Egresos, en términos de la normativa aplicable, cuando por circunstancias de extrema gravedad o razones de seguridad pública lo ameriten. En estos casos se informará al Congreso o al Cabildo respectivo del uso de tal facultad.
 
-###### ARTICULO 22.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Sólo el Gobernador del Estado y los Presidentes Municipales, en sus respectivos ámbitos de competencia podrán modificar la estructura administrativa y financiera de los programas de las dependencias y entidades que estén incluidos en el Presupuesto de Egresos, cuando circunstancias de extrema gravedad o razones de seguridad Pública lo ameriten. En estos casos se informará al Congreso o al Cabildo respectivo del uso de tal facultad.
+###### Artículo 29.
 
-### CAPITULO CUARTO. DEL EJERCICIO DEL GASTO PUBLICO
+Las propuestas que realicen los miembros del Congreso del Estado para modificar el proyecto de Presupuesto de Egresos presentado por el Titular del Poder Ejecutivo, deberán observar las disposiciones señaladas en esta Ley para la programación, presupuestación, ejercicio, control y evaluación del Gasto Público y serán sometidas desde luego a la Comisión respectiva para su estudio y dictamen.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 23.
+###### Artículo 30.
 
-Las proposiciones que hagan los miembros del Congreso del Estado para modificar el proyecto de Presupuesto de Egresos presentado por el Ejecutivo del Estado, incluyendo las Entidades Paraestatales, serán sometidas desde luego a la Comisión respectiva para su estudio y dictamen.
+Una vez aprobado el Presupuesto de Egresos por el Congreso del Estado, se remitirá al Gobernador para su publicación en el Periódico Oficial.
 
-###### ARTICULO 24.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Al aprobarse el Presupuesto de Egresos por el Congreso del Estado o por los Cabildos, se remitirá al Ejecutivo Estatal o Municipal por el mismo conducto por el que fue enviado, para efectos de su publicación en el Periódico Oficial y ejercicio.
+### CAPÍTULO V. DEL EJERCICIO DEL GASTO PÚBLICO
 
-###### ARTICULO 25.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Las Dependencias Administrativas de los Poderes del Estado, en su esfera de competencia, los Organismos del Estado y las Tesorerías Municipales asumirán el seguimiento, evaluación y control de los Presupuestos de Egresos del Estado y de los Municipios respectivamente.
+###### Artículo 31.
 
-En el ámbito de sus respectivas competencias, serán las encargadas de efectuar los pagos que requieran éstas para hacer frente al ejercicio del Gasto Público, sin perjuicio de que puedan autorizar a otra de sus dependencias o entidades a hacerlo, que en todo caso se sujetarán estrictamente a lo que dispone esta Ley.
+En el ejercicio del Gasto Público los Entes Públicos deberán observar lo dispuesto por la Ley de Disciplina Financiera para las Entidades Federativas y los Municipios.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 26.
+###### Artículo 32.
 
-El ejercicio del Gasto Público comprende el manejo y aplicación de los recursos así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado, para lo cual, las Dependencias Administrativas de los Poderes del Estado, en su esfera de competencia, los Organismos del Estado y las Tesorerías Municipales llevarán el registro de los compromisos establecidos y del control presupuestal.
+Las unidades administrativas de los Entes Públicos, en su respectiva esfera de competencia, asumirán el seguimiento, evaluación y control de los Presupuestos de Egresos del Estado y de los Municipios respectivamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+En el ámbito de sus respectivas competencias, serán las encargadas de efectuar los pagos que requieran éstas para hacer frente al ejercicio del Gasto Público, sin perjuicio de que los Entes Públicos, puedan autorizar a otra de sus unidades, dependencias o entidades a hacerlo, que en todo caso se sujetarán estrictamente a lo que dispone esta ley.
 
-###### ARTICULO 27.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-La comprobación del Gasto Público se efectuará con la documentación original que demuestre la entrega del pago correspondiente, que reúna los requisitos que reglamenten: la Secretaría de Hacienda en el Poder Ejecutivo; la comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el órgano de gobierno en los Organismos del Estado y las Tesorerías Municipales en los Ayuntamientos.
+###### Artículo 33.
 
-Una erogación se entenderá justificada, cuando exista la evidencia de haber sido tramitada ante las instancias facultadas para dotar de los recursos humanos, materiales o financieros y exista la documentación que determine el compromiso u obligación de efectuar el pago por parte de la dependencia o entidad de que se trate.
+El ejercicio del Gasto Público comprende el manejo y aplicación de los recursos así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado y la normativa local y federal aplicable, para lo cual, las unidades administrativas de los Entes Públicos, en el ámbito de sus respectivas competencias, llevarán el registro de los compromisos establecidos y del control presupuestal.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 28.
+###### Artículo 34.
 
-El Ejecutivo del Estado y los Ayuntamientos determinarán la forma en que deberá invertirse cualquier tipo de aportación extraordinaria, incluyendo los subsidios que se otorguen a las entidades, instituciones Públicas o privadas y particulares, quienes proporcionarán a la Secretaría de Hacienda o a la Tesorería Municipal respectiva la información que se les solicite sobre la aplicación de los mismos dando prioridad a aquéllos destinados a grupos poblacionales en situación de desventaja y a los que incorporen acciones afirmativas tendientes a construir la equidad de género.
+La comprobación del Gasto Público se efectuará con la documentación original que demuestre la entrega del pago correspondiente, que reúna los requisitos que reglamenten: la Secretaría en el Poder Ejecutivo; la Comisión de Hacienda, Presupuesto y Cuenta Pública en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el órgano de gobierno en las Entidades Paraestatales y Paramunicipales y las Tesorerías Municipales en los Ayuntamientos.
 
-###### ARTICULO 29.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Las inversiones físicas en obra Pública que realicen las entidades se apegarán a las disposiciones legales aplicables, integrando debidamente los expedientes técnicos, y las inversiones financieras se integran por las cuentas por cobrar y obras en proceso que mantienen las entidades en relación al cumplimiento de su objetivo social.
+###### Artículo 35.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+El Poder Ejecutivo por conducto de la Secretaría, y los Ayuntamientos por conducto de las Tesorerías, destinarán cualquier tipo de aportación extraordinaria, incluyendo los subsidios que se otorguen a las Entidades, instituciones públicas o privadas y particulares, a las prioridades que se señalen en la normativa aplicable; quienes proporcionarán a la Secretaría o a la Tesorería Municipal respectiva la información que se les solicite sobre la aplicación de los mismos.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 30.
+###### Artículo 36.
 
-Para su amortización, la deuda pública deberá contar con las autorizaciones y registros, previstos en las Leyes de Deuda Pública y de Contratos de Colaboración Público Privada, según corresponda.
+Las inversiones físicas en obra pública que realicen los Entes Públicos, se apegarán a las disposiciones legales aplicables, integrando debidamente los expedientes técnicos. Las inversiones financieras se conforman por las cuentas por cobrar y obras en proceso que mantienen las entidades en relación al cumplimiento de su objeto social.
 
-De la misma forma, los contratos de colaboración público privada que, en términos de lo previsto por la legislación aplicable no constituyan deuda pública, deberán contar para su pago, con las autorizaciones previstas en la Ley de Contratos de Colaboración Público Privada.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-La presupuestación y la clasificación del gasto derivado de contratos de colaboración público privada se regirá por lo establecido en la Constitución Política del Estado Libre y Soberano de Morelos, en esta ley, en la Ley de Contratos de Colaboración Pública Privada para el Estado de Morelos y, en lo aplicable, por la Ley de Deuda Pública para el Estado de Morelos.
+###### Artículo 37.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+La presupuestación y amortización de la deuda pública se llevará a cabo conforme a lo establecido en la Ley de Deuda Pública para el Estado de Morelos, la Ley de Contratos de Colaboración Público Privada del Estado de Morelos y la normativa local y federal aplicable.
 
-### CAPITULO QUINTO. DE LA CONTABILIDAD
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 31.
+###### Artículo 38.
 
-Toda erogación o Gasto Público deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo, y se sujetará a las reglas que determinen, en su caso, la Secretaría de Hacienda en el Poder Ejecutivo; la comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el órgano de gobierno en los Organismos del Estado y las Tesorerías Municipales en los Ayuntamientos.
+Toda erogación del Estado deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo, determinado por Ley posterior o con cargo a ingresos excedentes y por los conceptos efectivamente devengados, siempre que se hubieren registrado y contabilizado debida y oportunamente las operaciones consideradas en éste, sujetándose además a las reglas que determinen, en su caso, la Secretaría en el Poder Ejecutivo; la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado en el Poder Legislativo; el Consejo de la Judicatura en el Poder Judicial; el órgano de gobierno en las Entidades y las Tesorerías Municipales en los Ayuntamientos.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Asimismo, con cargo a sus respectivos presupuestos y de conformidad con las disposiciones generales aplicables, deberán cubrir las contribuciones federales, estatales y municipales correspondientes, así como las obligaciones de cualquier índole que se deriven de resoluciones definitivas emitidas por autoridad competente.
+###### Artículo 39.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2013)</small>
+Las asignaciones consignadas en el Presupuesto de Egresos señalan el límite máximo de las erogaciones, que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática, o de partidas correspondientes a empréstitos o a contratos de colaboración público privada en los casos en que deban ajustar su monto de manera automática previstos en el Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos. En el caso de las partidas o concepto de gasto de ampliación automática no será necesario agotarlas si ello no se requiere.
 
-Las adecuaciones presupuestarias que, en su caso, sean necesarias para el pago de las obligaciones a que se refiere la parte final del párrafo anterior, no podrán afectar el cumplimiento de los objetivos y las metas de los programas prioritarios aprobados en el Presupuesto de Egresos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2013)</small>
-
-Las dependencias y entidades que no puedan cubrir la totalidad de las obligaciones conforme a lo previsto en el párrafo anterior, presentarán ante la autoridad competente un programa de cumplimiento de pago que deberá ser considerado para todos los efectos legales en vía de ejecución respecto de la resolución que se hubiese emitido, con la finalidad de cubrir las obligaciones hasta por un monto que no afecte los objetivos y metas de los programas prioritarios, sin perjuicio de que el resto de la obligación deberá pagarse en los ejercicios fiscales subsecuentes conforme a dicho programa.
-
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2013)</small>
-
-###### ARTÍCULO 32.
-
-Las asignaciones consignadas en el Presupuesto de Egresos señalan el límite máximo de las erogaciones, que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática, o de partidas correspondientes a empréstitos o a contratos de colaboración público privada en los casos en que deban ajustar su monto de manera automática previstos en el Artículo 32 de la Constitución Política del Estado. En el caso de las partidas o concepto de gasto de ampliación automática no será necesario agotarlas si ello no se requiere, y en su caso, los ahorros que se obtengan por estos conceptos se destinarán por conducto de la Secretaría de Hacienda o las Tesorerías Municipales, a los programas prioritarios y que requieran financiamiento; especialmente cuando se trate de acciones afirmativas orientadas a construir la equidad de género, a la amortización o pago de la Deuda Pública o a los fines de asistencia social que determinen el Ejecutivo del Estado o los Ayuntamientos.” (sic)
-
-###### ARTICULO 33.
+###### Artículo 40.
 
 En el caso de que se requieran ampliaciones presupuestales:
 
-I.- El Ejecutivo del Estado solicitará la autorización respectiva al Congreso del Estado.
+I. El Ejecutivo del Estado solicitará la autorización respectiva al Congreso del Estado, y
 
-II.- El Presidente Municipal solicitará la autorización respectiva al Cabildo correspondiente.
+II. El Presidente Municipal solicitará la autorización respectiva al Cabildo correspondiente.
 
-Las adecuaciones y el Acta de la Sesión de Cabildo en que se autoricen, dentro de los quince días siguientes al de la sesión serán enviadas por el Presidente Municipal al Congreso del Estado para su conocimiento y efectos de la revisión de la Cuenta Pública.
+Las adecuaciones presupuestales y el acta de la sesión de Cabildo en que se autoricen, dentro de los quince días siguientes al de la sesión serán enviadas por el Presidente Municipal al Congreso del Estado para su conocimiento y efectos de la revisión de la Cuenta Pública.
 
-En los casos a que se refiere este artículo se requerirá siempre el señalamiento de la fuente de ingresos respectiva.
+En los casos a que se refiere este artículo se requerirá identificar la fuente de ingresos correspondiente.
 
-###### ARTICULO 34.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Las entidades de la Administración Pública Paraestatal y Paramunicipal administrarán y ejercerán su Presupuesto de Egresos aprobado. Cuando así lo determinen, el Ejecutivo del Estado y los Ayuntamientos podrán disponer que los fondos y pagos correspondientes a las entidades de la Administración Pública Paraestatal o Paramunicipal incluidas en el Presupuesto de Egresos del Gobierno del Estado y de los Municipios, se manejen eventual o permanentemente por la Secretaría de Hacienda o por las Tesorerías Municipales, respectivamente.
+###### Artículo 41.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2015)</small>
+Las Entidades Paraestatales y Paramunicipales administrarán y ejercerán su Presupuesto de Egresos aprobado.
 
-###### ARTICULO 35.
+Cuando así lo determinen, el Ejecutivo del Estado y los Ayuntamientos podrán disponer que los fondos y pagos correspondientes a las entidades de la Administración Pública Paraestatal o Paramunicipal incluidas en el Presupuesto de Egresos del Gobierno del Estado y de los Municipios, se manejen eventual o permanentemente por la Secretaría o por las Tesorerías Municipales, respectivamente.
 
-Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que estén debidamente contabilizados al 31 de diciembre del ejercicio correspondiente o por operaciones determinadas, en el ámbito de su competencia por la Secretaría de Hacienda, Tesorerías Municipales, Sindicaturas, la Contraloría del Estado, y Contadurías y Unidades Internas de Auditorías, resultantes de las atribuciones de vigilancia o verificación del Gasto Público dispuestas por ésta Ley o por la Entidad Superior de Auditoria y Fiscalización resultantes de las atribuciones de fiscalización de las cuentas Públicas de conformidad con las leyes aplicables en la materia.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+###### Artículo 42.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2008)</small>
+Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda, registrados en el informe de cuentas por pagar y que integran el pasivo circulante al cierre del ejercicio, contabilizados al 31 de diciembre del ejercicio correspondiente o por operaciones determinadas, en el ámbito de su competencia por la Secretaría, Tesorerías Municipales, Sindicaturas, la Contraloría del Estado, y Contadurías y Unidades Internas de Auditorías, resultantes de las atribuciones de vigilancia o verificación del Gasto Público dispuestas por ésta Ley o por la Entidad Superior de Auditoría y Fiscalización resultantes de las atribuciones de fiscalización de las cuentas Públicas de conformidad con las leyes aplicables en la materia.
 
-No se considerará concluida la vigencia del Presupuesto de Egresos en los casos en que deba continuar vigente no obstante haber sido aprobado para un ejercicio fiscal anterior, previstos en el Artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos.
+No se considerará concluida la vigencia del Presupuesto de Egresos en los casos en que deba continuar vigente no obstante haber sido aprobado para un ejercicio fiscal anterior, previstos en el artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-###### ARTICULO 36.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-La Oficialía Mayor del Gobierno del Estado y las Comisiones o Dependencias Municipales que determine cada Ayuntamiento, en el ámbito de su competencia, serán responsables de que se lleve un registro del personal de las dependencias, y de aquellas entidades que para su operación reciban recursos del Poder Ejecutivo del Estado o de los Municipios.
+###### Artículo 43.
 
-###### ARTICULO 37.
+La Secretaría, o su equivalente en cada Ente Público contará con un sistema de registro y control de las erogaciones de servicios personales que les correspondan; sin perjuicio de las facultades de la Secretaría de Administración del Poder Ejecutivo Estatal, y su equivalente en los Entes Públicos.
 
-El objetivo primordial de la contabilidad de las dependencias y entidades será el proporcionar información a la sociedad, a través de sus representantes en el Congreso del Estado, sobre el origen de los recursos financieros y su aplicación en el Gasto Público, de acuerdo con las leyes aplicables en la materia.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-La contabilidad se llevará con base acumulativa para facilitar la formulación, ejercicio y evaluación de los presupuestos y sus programas, con objetivos, metas y unidades de ejecución, estableciendo cuentas específicas para registrar los ingresos que las leyes o cualquier otra disposición aplicable en la materia autoricen percibir y los egresos que se realicen para cumplir con el Gasto Público.
+### CAPÍTULO VI. DE LA EVALUACIÓN DEL GASTO PÚBLICO
 
-Los Catálogos de Cuentas que utilizarán las dependencias a que se refieren el inciso c) subinciso 1, 2, 4 y 5 de la fracción I y los incisos a), b), c), e) y l) de la fracción II del artículo 2o. de ésta Ley serán emitidos por la Secretaría de Hacienda y las Tesorerías Municipales respectivamente y las de las entidades mencionadas en el subinciso 3 del inciso c) de la fracción I y el inciso d) de la fracción II del mismo artículo, serán autorizados expresamente por dicha Secretaría y Tesorerías Municipales.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-El Poder Legislativo y el Poder Judicial, en el ámbito de sus respectivas competencias, emitirán sus propios catálogos de cuentas apegándose a los lineamientos, que se requieran a efecto de ser congruentes en sus sistemas contables con los establecidos para las dependencias del Poder Ejecutivo.
+###### Artículo 44.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+La Secretaría en el Poder Ejecutivo Estatal, y las Comisiones de Regidores Municipales encargadas de Hacienda en los Municipios en coordinación con las Tesorerías respectivas, en el ámbito de sus respectivas competencias, realizarán periódicamente la evaluación del ejercicio del Gasto Público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2008)</small>
+Al efecto, establecerán las disposiciones administrativas que se requieran para el seguimiento y evaluación de los programas que realicen las Dependencias y Entidades Paraestatales y Paramunicipales.
 
-###### ARTICULO 38.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Es facultad de la Secretaría de Finanzas y Planeación formular la Cuenta Pública anual de la Hacienda Estatal, así como integrar la información o consolidar los estados financieros que emanen de las Entidades Paraestatales o Paramunicipales, incluidas en los presupuestos de egresos para someterla a consideración del Ejecutivo del Estado, para su respectiva presentación al Congreso del Estado. Dicha Cuenta Pública se elaborará por trimestres calendario comprendidos de enero a marzo; de abril a junio; de julio a septiembre y de octubre a diciembre.
+###### Artículo 45.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Internamente las Dependencias y Entidades Paraestatales y Paramunicipales deberán evaluar en forma permanente sus programas, a efecto de cuantificar los objetivos, metas y beneficios alcanzados, mejorar la utilización de los recursos, controlar los avances y desviaciones e instrumentar con oportunidad las medidas correctivas que racionalicen la aplicación del gasto.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-El Ejecutivo rendirá la Cuenta Pública trimestralmente a más tardar el último día hábil del mes siguiente a aquel en que concluya cada trimestre de calendario. Para el cumplimiento de lo anterior, la Secretaría de Finanzas y Planeación dictará las disposiciones administrativas que procedan.
+###### Artículo 46.
 
-Para el cumplimiento de lo anterior, la Secretaría de Hacienda dictará las disposiciones administrativas que procedan.
+Para efecto de evaluación del Gasto Público, las Dependencias y Entidades Paraestatales y Paramunicipales, deberán proporcionar a la Secretaría y a las Tesorerías Municipales, información periódica sobre el grado de avance físico y financiero de los programas, así como las metas realizadas. Además, enviarán la información adicional que les sea solicitada, dependiendo de la importancia y características propias de los programas a su cargo.
 
-La Secretaría de Hacienda, las Dependencias y Entidades Estatales y Paraestatales serán responsables de la solventación de las observaciones sobre la Cuenta Pública que finque el Congreso del Estado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 39.
+###### Artículo 47.
 
-En el ámbito Municipal, la facultad a que se refiere el primer párrafo del artículo anterior corresponde a las Tesorerías Municipales que habrán de preparar la cuenta Anual del Municipio y someterla al Cabildo.
+Los Entes Públicos tendrán la obligación de informar trimestralmente al Congreso del Estado, sobre los resultados del seguimiento y evaluación del grado de avance físico-financiero de los programas autorizados en el Presupuesto de Egresos respectivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+La Cuenta Pública será presentada de conformidad con lo previsto en el artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Los Ayuntamientos enviarán al Congreso del Estado, de conformidad con el artículo 32 de la Constitución Política del Estado Libre y Soberano de Morelos, a más tardar el 31 de enero de cada año, la cuenta pública correspondiente al año anterior, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública y su presentación ante el Congreso la hará cada uno por el período a su cargo. El Ayuntamiento que concluya su gestión deberá presentar, a más tardar el 30 de noviembre, la cuenta pública correspondiente a los meses de enero a octubre del año en que termine el período constitucional. El Ayuntamiento que inicie su gestión deberá presentar, a más tardar el 31 de enero del año siguiente a aquel en que inicie su período constitucional, la cuenta pública, correspondiente a los meses de noviembre y diciembre del año en que inicie dicho período. En el supuesto anterior, el Ayuntamiento entrante presentará la cuenta pública anual, consolidando los doce meses del ejercicio presupuestal, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
+### CAPÍTULO VII. DE LA EVALUACIÓN DEL DESEMPEÑO
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Así mismo, los Ayuntamientos enviarán las cuentas públicas mensuales a la Entidad Superior de Auditoria y Fiscalización, dentro de los primeros veinte días naturales del mes siguiente al que corresponda rendir dicho informe.
+###### Artículo 48.
 
-Los propios Ayuntamientos serán responsables de solventar las observaciones sobre la Cuenta Pública que finque el Congreso del Estado.
+La evaluación del desempeño de las Entidades Públicas, se realizará a través de la verificación del grado de cumplimiento de objetivos y metas, con base en indicadores que permitan conocer los resultados de la aplicación de los recursos públicos.
 
-###### ARTICULO 40.
+Para tal efecto, en el Poder Ejecutivo se deberá integrar un Sistema de Evaluación del Desempeño Estatal, que tendrá carácter interinstitucional, cuya conformación y funciones para dar cumplimiento al presente Capítulo, se precisarán en los lineamientos que para tal efecto emita la Secretaría.
 
-La Secretaría de Hacienda y las Tesorerías Municipales, para el efecto de uniformar los criterios en materia de contabilidad implantarán y emitirán las normas, procedimientos y sistemas de registros a los cuales deberán sujetarse las dependencias y entidades.
+En todo caso las instancias públicas que se encarguen de la evaluación del desempeño, se sujetarán a lo siguiente:
 
-El Sistema de Contabilidad debe diseñarse y operar de tal forma que facilite la fiscalización de los activos, pasivos, ingresos, egresos y avances en la ejecución de los programas, y permitan medir la eficiencia del Gasto Público.
+I. Efectuar evaluaciones por sí mismas o a través de personas físicas y morales especializadas y con experiencia probada en la materia que corresponda evaluar, que cumplan con los requisitos de independencia, imparcialidad, transparencia y los demás que se establezcan en las disposiciones aplicables;
 
-Además del objetivo principal, la contabilidad deberá perseguir los propósitos que la técnica en la materia establece, apegándose a los principios generales de contabilidad y a los especiales de contabilidad gubernamental.
+II. Todas las evaluaciones se harán públicas y al menos deberán contener la siguiente información:
 
-###### ARTICULO 41.
+a) Los datos generales del evaluador externo, destacando al coordinador de la evaluación y a su principal equipo colaborador;
 
-Los ingresos y egresos que no correspondan a los citados en el segundo párrafo del artículo 37, y que se conocen como operaciones transitorias o ajenas, deberán clasificarse como sigue:
+b) Los datos generales de la unidad administrativa responsable de dar seguimiento a la evaluación al interior de la Dependencia o de la Entidad Paraestatal o Paramunicipal, según corresponda;
 
-I.- Inversiones transitorias, integradas por erogaciones y su recuperación en valores, acciones, fideicomisos, documentos por cobrar, fondos fijos, depósitos entregados en garantía, anticipos a contratistas y proveedores, financiamientos al propio sector público, gasto por comprobar, inventarios de artículos de consumo y otras entregas a deudores diversos.
+c) La forma de contratación del evaluador externo, de acuerdo con las disposiciones aplicables;
 
-II.- Pasivos acumulados y su entero por recaudación de ingresos por cuenta de terceros, retenciones al personal, depósitos recibidos en garantía y otros acreedores diversos.
+d) El tipo de evaluación contratada, así como sus principales objetivos;
 
-III.- Créditos puente y su pago, obtenidos a corto plazo para subsanar deficiencias eventuales de liquidez, no consideradas como contratación de deuda Pública, de acuerdo a la Ley de la materia.
+e) La base de datos generada con la información de gabinete o de campo para el análisis de la evaluación;
 
-IV.- Inversiones por realizar de aportaciones de terceros para un fin específico.
+f) Los instrumentos de recolección de información: cuestionarios, entrevistas y formatos, entre otros, y
 
-Las normas y procedimientos para llevar a cabo las operaciones transitorias o ajenas, las emitirá la Secretaría de Hacienda y las Tesorerías Municipales, en el ámbito de su competencia.
+g) Una nota metodológica con la descripción de las técnicas y los modelos utilizados, acompañada del diseño por muestreo, especificando los supuestos empleados y las principales características del tamaño y dispersión de la muestra utilizada.
 
-###### ARTICULO 42.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-De la contabilidad derivan, cuando menos, los siguientes estados y reportes financieros, que integran la Cuenta Pública de las dependencias y entidades:
+### CAPÍTULO VIII. DE LA CONTABILIDAD GUBERNAMENTAL
 
-I.- Estados de ingresos y egresos o movimientos de caja, mensual y acumulado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-II.- Estado que muestra el avance del ejercicio presupuestal de ingresos y egresos mensual y acumulado.
+###### Artículo 49.
 
-III.- Libramiento u orden de pago, del total de las erogaciones efectuadas en cada mes que integra el ejercicio fiscal, suscrito por los funcionarios responsables del manejo de fondos y el titular de la entidad u organismo de que se trate.
+Los Entes Públicos deberán llevar un registro del ejercicio de su gasto autorizado de acuerdo con las disposiciones de esta Ley, así como a las normas que para tal efecto dicte el Consejo Nacional de Armonización Contable, a fin de que se consolide la contabilidad general del Gobierno del Estado.
 
-IV.- Estado de afectación patrimonial; y
+Los ejecutores del gasto que gocen de autonomía constitucional deberán expedir los lineamientos que se requieran a efecto de ser congruentes, en sus sistemas administrativos y de control de gasto, de acuerdo con lo establecido por esta Ley.
 
-V.- Estado de contabilidad de activos, pasivos y patrimonio o de situación financiera.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 43.
+###### Artículo 50.
 
-La Secretaría de Hacienda y las Comisiones de Regidores Municipales encargadas de Hacienda, en coordinación con las Tesorerías respectivas realizarán periódicamente la evaluación del ejercicio del Gasto Público, en función de los objetivos y metas de los programas autorizados, que comprenderá el seguimiento de los avances físicos y financieros que vayan presentando periódicamente los programas anuales aprobados, a efecto de medir el grado de cumplimiento de sus objetivos y metas.
+La contabilidad gubernamental de los Entes Públicos se sujetará a las disposiciones de esta Ley, y la Ley General de Contabilidad Gubernamental, para lo cual observará los criterios generales de armonización contables que se emitan, así como las normas y lineamientos para la generación de información financiera.
 
-Al efecto, establecerán las disposiciones administrativas que se requieran para el seguimiento y evaluación de los programas que realicen las dependencias y entidades.
+Los Entes Públicos adoptarán e implementarán, con carácter obligatorio, en el ámbito de sus respectivas competencias, las decisiones que tome el Consejo Nacional de Armonización Contable, de conformidad con las atribuciones y facultades que le confiere la Ley en la materia.
 
-### CAPITULO SEXTO. DE LA EVALUACION DEL GASTO PUBLICO
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 44.
+###### Artículo 51.
 
-Internamente las dependencias y entidades deberán evaluar en forma permanente sus programas, a efecto de cuantificar los objetivos, metas y beneficios alcanzados, mejorar la utilización de los recursos, controlar los avances y desviaciones e instrumentar con oportunidad las medidas correctivas que racionalicen la aplicación del gasto.
+Para el registro de las operaciones presupuestales y contables, los Entes Públicos deberán ajustar sus catálogos de cuentas en términos de los lineamientos que emita el Consejo Nacional de Armonización Contable.
 
-###### ARTICULO 45.
+Para tal propósito, tomarán en consideración las necesidades de administración financiera de los respectivos entes públicos, así como las necesidades de control y fiscalización.
 
-Para efecto de evaluación del Presupuesto de Egresos, las Dependencias y Entidades deberán proporcionar a la Secretaría de Hacienda y a las Tesorerías Municipales, información periódica sobre el grado de avance físico y financiero de los programas, así como las metas realizadas. Además enviarán la información adicional que les sea solicitada, dependiendo de la importancia y características propias de los programas a su cargo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 46.
+###### Artículo 52.
 
-La Secretaría de Hacienda y las Comisiones y Tesorerías Municipales tendrán la obligación de informar trimestralmente al Ejecutivo del Estado y a los Ayuntamientos respectivamente, sobre los resultados del seguimiento y evaluación del grado de avance físico-financiero de los programas autorizados en el Presupuesto de Egresos del Gobierno del Estado y en el de los Municipios.
+El registro en las cuentas contables que, para tal efecto, establezca el Consejo Nacional de Armonización Contable, deberá reflejar:
 
-> <small>(REFORMADO, P.O. 27 DE JULIO DE 2005)</small>
+I. En lo relativo al gasto, el aprobado, modificado, comprometido, devengado, ejercido y pagado, y
 
-Los Poderes Legislativo, Judicial y Ejecutivo, así como las entidades mencionadas en el Artículo 2 de esta Ley, presentarán trimestralmente sus Cuentas Públicas ante el Congreso del Estado; dicha presentación se hará a más tardar el último día hábil del mes siguiente al cierre de cada trimestre.
+II. En lo relativo al ingreso, el estimado, modificado, devengado y recaudado.
 
-###### ARTICULO 47.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Quienes efectúen gastos públicos estarán obligados a proporcionar a la Secretaría de Hacienda, a la Contraloría General del Estado y a las Tesorerías, Comisiones de Regidores o Sindicaturas Municipales o cualquier órgano de Contraloría Municipal, la información que les soliciten, dentro de sus ámbitos de competencia para la comprobación del cumplimiento de las obligaciones derivadas de ésta Ley y de las disposiciones expedidas con base en ella.
+###### Artículo 53.
 
-### CAPITULO SEPTIMO. DE LA VIGILANCIA Y VERIFICACION DEL GASTO PUBLICO
+La contabilidad gubernamental facilitará el reconocimiento de operaciones relacionadas con el ingreso, gasto, activos, pasivos y patrimonio de los Entes Públicos y además permitirá la integración del ejercicio presupuestal con las operaciones contables a través del gasto devengado.
 
-###### ARTICULO 48.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Sin detrimento de lo que establezcan otras disposiciones legales aplicables, la Secretaría de Hacienda y las Tesorerías Municipales ejercerán sus atribuciones de vigilancia y verificación del gasto público que ejerzan las dependencias y entidades, con objeto de promover la eficiencia en sus operaciones y comprobar el cumplimiento, por parte de las mismas, de las disposiciones legales en vigor y la consecución de los objetivos y metas trazados en sus respectivos programas.
+###### Artículo 54.
 
-### CAPITULO OCTAVO. ARCHIVO CONTABLE GUBERNAMENTAL
+Los sistemas contables de los Entes Públicos deberán producir, en la medida que corresponda, la información sobre los estados y la situación financiera, de conformidad con la Ley General de Contabilidad Gubernamental y las normas y formatos del Consejo Nacional de Armonización Contable.
 
-###### ARTICULO 49.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-El conjunto de la documentación contable consistente en libros de contabilidad, registros contables, documentación comprobatoria del ingreso y del Gasto Público, así como la información financiera de las dependencias y entidades señaladas en el artículo 2o de ésta Ley, constituyen el Archivo Contable Gubernamental, que deberá guardarse, conservarse, reproducirse y destruirse, de conformidad con lo dispuesto en éste Capítulo.
+###### Artículo 55.
 
-###### ARTICULO 50.
+La contabilidad de las operaciones deberá estar respaldada por los documentos justificantes y comprobatorios originales.
 
-La Secretaría de Hacienda y las Tesorerías Municipales, establecerán los lineamientos en materia de Archivo Contable Gubernamental, así como las normas para su organización y funcionamiento.
+Será responsabilidad de los Entes Públicos, así como de los servidores públicos encargados de su administración, la recepción, guarda, custodia y conservación de los documentos justificantes y comprobatorios del gasto, así como de los libros, registros e información relativa, en términos de las disposiciones aplicables.
 
-###### ARTICULO 51.
+Los Poderes Legislativo y Judicial, Organismos Públicos Autónomos y los Órganos de relevancia constitucional, definirán las responsabilidades para dar cumplimiento a esta disposición.
 
-Las unidades de contabilidad de las dependencias y entidades deberán conservar en su sección de archivo la documentación contable del año en curso; la de ejercicios anteriores cuyas cuentas Públicas hayan sido aprobadas por el Congreso del Estado, las remitirán al Archivo Contable Gubernamental de acuerdo con la normatividad que establezca la Secretaría de Hacienda.
+Será responsabilidad de los Entes Públicos la confiabilidad de las cifras aportadas para el registro de contabilidad.
 
-El plazo señalado en el párrafo anterior empezará a computarse a partir de la publicación en el Periódico Oficial del Estado, de la aprobación de la Cuenta Pública por el Congreso del Estado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 52.
+###### Artículo 56.
 
-La Secretaría de Hacienda y las Tesorerías Municipales podrán dictar normas para la reproducción y conservación de los archivos en medios electrónicos o microfilmados u otros, previa certificación notarial de que las reproducciones corresponden a los originales. Así mismo podrán establecer reglas para la destrucción de los originales una vez realizada la mencionada certificación.
+La observancia de esta Ley, en materia de contabilidad, no releva a los Entes Públicos de cumplir con lo dispuesto en la Ley General de Contabilidad Gubernamental, los lineamientos o criterios que en su ámbito de competencia emita el Consejo Nacional de Armonización Contable y otros ordenamientos legales aplicables.
 
-###### ARTICULO 53.
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-El incumplimiento de las disposiciones de la presente Ley, y de las que de ella se deriven, será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Morelos.
+### CAPÍTULO IX. DE LA VIGILANCIA Y VERIFICACIÓN DEL GASTO PÚBLICO
 
-### CAPITULO NOVENO. DE LAS RESPONSABILIDADES
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 57.
+
+Quienes efectúen gastos públicos estarán obligados a proporcionar a la Secretaría, a la Secretaría de la Contraloría del Estado y a las Tesorerías, Comisiones de Regidores o Sindicaturas Municipales o cualquier órgano de Contraloría Municipal, la información que les soliciten, dentro de sus ámbitos de competencia para la comprobación del cumplimiento de las obligaciones derivadas de esta Ley y de las disposiciones expedidas con base en ella.
+
+Los Entes Públicos, serán responsables de la solventación de las observaciones sobre la Cuenta Pública que finque el Congreso del Estado o la Secretaría de la Contraloría Estatal o Municipales, según corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 58.
+
+Sin detrimento de lo que establezcan otras disposiciones legales aplicables, la Secretaría y las Tesorerías Municipales ejercerán sus atribuciones de vigilancia y verificación del Gasto Público que ejerzan los Entes Públicos de su ámbito competencial, con objeto de promover la eficiencia en sus operaciones y comprobar el cumplimiento, por parte de las mismas, de las disposiciones legales en vigor y la consecución de los objetivos y metas trazados en sus respectivos programas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO X. DE LAS RESPONSABILIDADES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 59.
+
+El incumplimiento de las disposiciones de la presente Ley, y de las que de ella se deriven, será sancionado en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos y demás normativa aplicable.
 
 ## TRANSITORIOS
 
@@ -696,3 +812,39 @@ P.O. 29 DE JULIO DE 2015.
 PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS SETENTA Y DOS POR EL QUE SE REFORMA DE MANERA INTEGRAL LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE MORELOS; SE EXPIDE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MORELOS Y SE REFORMA LA LEY SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Este Decreto, por cuanto a las Leyes de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos, de Deuda Pública para el Estado de Morelos, y sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano; entrarán en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", con las excepciones siguientes:
+
+En la Ley de Presupuesto, Contabilidad y Gasto Público del Estado de Morelos:
+
+a)Tratándose de la previsión de recursos para atender a la población afectada y los daños causados a la infraestructura pública estatal ocasionados por la ocurrencia de desastres naturales, la entrada en vigor será en términos del artículo quinto transitorio de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+b) Podrán destinarse a Gasto corriente hasta el ejercicio fiscal 2018 los Ingresos excedentes derivados de ingresos de libre disposición, siempre y cuando la Entidad Federativa se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas, en términos del artículo noveno transitorio de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+
+c) Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios entrarán en vigor para el ejercicio presupuestal 2018, atendiendo al artículo décimo transitorio de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y
+
+d) Respecto de la asignación global de recursos para servicios personales y el sistema de registro y control de las erogaciones de servicios personales, la entrada en vigor de tales disposiciones será para el ejercicio presupuestal 2018, atendiendo a los artículos sexto y octavo transitorios de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+En la Ley de Deuda Pública para el Estado de Morelos:
+
+a) El Registro Público de Financiamientos y Obligaciones del Estado de Morelos a que se refiere el Capítulo VIII de la Ley de Deuda Pública para el Estado de Morelos, que se expide en virtud de este Decreto, deberá sustituir al Registro de Obligaciones y Empréstitos del Estado de Morelos a más tardar el primero de junio de 2017, y
+
+b) El Registro de Obligaciones y Empréstitos del Estado de Morelos se mantendrá vigente hasta la entrada en vigor del Registro Público de Financiamientos y Obligaciones del Estado de Morelos.
+
+CUARTA (SIC). Se abroga la Ley de Deuda Pública para el Estado de Morelos, publicada en el Periódico Oficial "Tierra y Libertad", número 5030, de fecha 28 de septiembre de 2012.
+
+QUINTA. Dentro de un plazo de 180 días naturales contados a partir del inicio de vigencia de la Ley de Deuda Pública a que hace referencia la disposición Tercera Transitoria, la Secretaría deberá emitir los Lineamientos a que se refiere el artículo 42 de dicha Ley.
+
+SEXTA. Se deberá expedir el Reglamento del Registro Público de Financiamientos y Obligaciones del Estado de Morelos a que se refiere la Ley de Deuda Pública para el Estado de Morelos, a más tardar 180 días naturales siguientes a la entrada en vigor de la misma.
+
+Los trámites iniciados ante el Registro de Obligaciones y Empréstitos del Estado de Morelos, con anterioridad a la entrada en vigor del Registro Público de Financiamientos y Obligaciones del Estado de Morelos, se llevarán a cabo de conformidad con las disposiciones vigentes en la fecha de inicio del trámite.
+
+Las referencias al Registro de Obligaciones y Empréstitos del Estado de Morelos en las leyes y disposiciones administrativas, así como en cualquier otro acto jurídico, se entenderán hechas al Registro Público de Financiamientos y Obligaciones del Estado de Morelos.
+
+SÉPTIMA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
