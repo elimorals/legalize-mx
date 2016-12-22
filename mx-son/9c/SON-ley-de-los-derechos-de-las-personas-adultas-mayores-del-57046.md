@@ -4,7 +4,7 @@ identifier: "SON-ley-de-los-derechos-de-las-personas-adultas-mayores-del-57046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-07"
-last_updated: "2014-06-09"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE SONORA ANTES - LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2016 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Especial 14 al Boletín Oficial del Estado de Sonora, el viernes 7 de septiembre de 2007.
 
@@ -473,9 +475,11 @@ Para garantizar el derecho a la recreación y turismo, la Comisión de Fomento a
 
 La Comisión del Deporte del Estado de Sonora promoverá la participación de los adultos mayores en actividades deportivas, así como la adaptación, desarrollo y reglamentación de las diversas disciplinas y modalidades del deporte de acuerdo a las necesidades y características de su estado físico.
 
+> <small>(REFORMADO PRIMER PÁRAFO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 24.
 
-El DIF Sonora tendrá a su cargo:
+El DIF Sonora, a través de la Procuraduría de la Defensa del Adulto Mayor, tendrá a su cargo:
 
 I.- Proporcionar los servicios de asistencia social a los adultos mayores;
 
@@ -487,7 +491,9 @@ IV.- Promover programas de sensibilización, con el objeto de favorecer la convi
 
 V.- Impulsar y promover el reconocimiento y ejercicio de los derechos de los adultos mayores;
 
-VI.- Coadyuvar, a través de la Procuraduría de la Defensa del Menor y la Familia, con la Procuraduría General de Justicia del Estado, en la atención y tratamiento de los adultos mayores víctimas de cualquier delito;
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+VI.- Coadyuvar con la Procuraduría General de Justicia del Estado o Fiscalía General del Estado, en la atención y tratamiento de los adultos mayores víctimas de cualquier delito;
 
 VII.- Promover, mediante la vía conciliatoria, la solución a la problemática familiar, cuando no se trate de delitos;
 
@@ -550,6 +556,10 @@ c) Secretaría de Economía.
 d) Secretaría de Infraestructura y Desarrollo Urbano.
 
 e) Sistema para el Desarrollo Integral de la Familia del Estado.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+f) Procuraduría de la Defensa del Adulto Mayor
 
 V.- Un representante de cada una de las siguientes instituciones y organizaciones:
 
@@ -777,41 +787,313 @@ VI.- Obtener, en caso de ser posible, los nombres, domicilios, teléfonos y trab
 
 Cuando una institución otorgue atención a una persona adulta mayor, examinará, en primer término, la posibilidad de su reintegración familiar.
 
-### CAPÍTULO XII. DE LAS DENUNCIAS, PROCEDIMIENTOS DE CONCILIACIÓN Y ARBITRAJE Y DE LAS SANCIONES Y RECURSOS
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO XII
+
+DE LAS DENUNCIAS, PROCEDIMIENTOS DE CONCILIACIÓN Y ARBITRAJE, DE LAS MEDIDAS DE PROTECCIÓN, DE LAS INFRACCIONES, DE LAS SANCIONES DE LOS DELITOS Y DE LOS RECURSOS
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+#### SECCION I. DE LAS DENUNCIAS Y PROCEDIMIENTOS DE CONCILIACIÓN Y ARBITRAJE
 
 ###### ARTÍCULO 48.
 
 Toda persona podrá denunciar, ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con los adultos mayores.
 
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 48 BIS.- Toda persona o institución que tenga conocimiento de que un adulto mayor se encuentre en cualquiera de las situaciones de violación a sus derechos mencionados en la presente ley, deberá comunicarlo en forma inmediata a la Procuraduría de la Defensa del Adulto Mayor, sin perjuicio del derecho que corresponde al adulto mayor de hacerlo personalmente. Los directores y personal médico de las instituciones de salud pública o privada, ante cualquier indicio de violencia o abuso cometido hacia los adultos mayores, estarán obligados a denunciarlo ante las autoridades competentes.
+
+La misma obligación la tendrán las autoridades y personal que labore en estancias de día o permanentes en donde se alojen u hospeden adultos mayores.
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 49.
 
 La denuncia a que se refiere el artículo anterior podrá ejercitarse por cualquier persona, bastando que se indique:
 
-I.- Los actos, hechos u omisiones denunciados;
+I.- El nombre del denunciante cuando fuere posible obtenerlo;
 
-II.- Los datos que permitan identificar al presunto infractor; y
+II.- El nombre y domicilio de la víctima o cualquier información necesaria que permitan (sic) identificar a la persona adulta mayor afectada;
 
-III.- Las pruebas que, en su caso, ofrezca el denunciante.
+III.- Un breve relato de los actos, hechos u omisiones, denunciados y la información adicional que pudiera ser útil para la investigación;
+
+IV.- El nombre o datos que permitan identificar a quien se le atribuyen los hechos denunciados, ya sea persona física o autoridad infractora que vulnere los derechos del adulto mayor; y
+
+V.- Las pruebas que en su caso ofrezca el denunciante.
+
+En la admisión de la denuncia se hará saber a las partes el tratamiento de los datos personales que asienten en la propia denuncia o que manifiesten de manera oral en cualquier estatus del proceso. Asimismo, en cumplimiento a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora, la Procuraduría de la Defensa del Adulto Mayor velará por la mayor protección de los datos personales.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 49 BIS.- Recibida la denuncia que presente cualquier persona o autoridad, la Procuraduría de la Defensa del Adulto Mayor acordará sobre su admisión, prevención o improcedencia. En cualquier caso se deberá fundar y motivar dicho acuerdo.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 49 BIS 1.- La Procuraduría de la Defensa del Adulto Mayor, dentro del ámbito de su competencia, iniciará sus actuaciones a instancia de la parte interesada; o de oficio en aquellos casos en que el Procurador así lo determine, de conformidad con la legislación aplicable.
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 50.
 
-Los procedimientos se regirán conforme a los principios de inmediatez, concentración y rapidez, y se procurará, en la medida de lo posible, el contacto directo con quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones escritas.
+Los procedimientos se regirán conforme a los principios de inmediatez, concentración y rapidez, salvaguardando el legítimo interés de toda persona para solicitar la defensa y protección de su derecho a gozar de un ambiente adecuado para su desarrollo, salud y bienestar; y se procurará, en la medida de lo posible, el contacto directo con quejosos, denunciantes y autoridades, para evitar la dilación de las comunicaciones escritas.
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 51.
 
-Si la denuncia presentada fuera competencia de otra autoridad, la autoridad ante la cual se presente acusará de recibo al denunciante pero no admitirá la instancia y la turnará a la autoridad competente para su trámite y resolución, notificándole de tal hecho al denunciante, mediante acuerdo fundado y motivado.
+Cuando la denuncia se interponga en forma verbal, la persona encargada de su recepción deberá redactar el acta correspondiente. Si la denuncia presentada fuera competencia de otra autoridad, la autoridad ante la cual se presente acusará de recibo al denunciante pero no admitirá la denuncia y la turnará a la autoridad competente para su trámite y resolución, notificándole de tal hecho al denunciante, mediante acuerdo fundado y motivado.
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 52.
 
-Los conflictos surgidos entre los adultos mayores y sus familiares podrán resolverse mediante los procedimientos de conciliación o de arbitraje que llevarán a cabo el DIF Sonora, por conducto de la Procuraduría de la Defensa del Menor y la Familia, o los DIF municipales.
+Los conflictos surgidos entre los adultos mayores y sus familiares podrán resolverse mediante los procedimientos de conciliación, mediación o de arbitraje que llevarán a cabo el DIF Sonora, por conducto de la Procuraduría de la Defensa del Adulto Mayor o los DIF municipales.
+
+La Procuraduría de la Defensa del Adulto Mayor podrá determinar que no será necesario agotar este procedimiento cuando existan elementos para determinar que el adulto mayor sufrió maltrato físico o psicológico y de llevarse a cabo sufriría una revictimización, presión, coacción, engaño o cualquier otra que pudiera poner en riesgo a la víctima adulto mayor.
+
+Asimismo, se negará dicha conciliación o mediación cuando por las circunstancias señaladas en el párrafo anterior se presuma que el adulto mayor pueda entrar en un estado de alienación mental al ser confrontado con su agresor. En cumplimiento al presente artículo, la Procuraduría de la Defensa del Adulto Mayor deberá velar por el interés superior del adulto mayor, bajo su más estricta responsabilidad, en dichas confrontaciones de manera presencial entre el adulto mayor y el señalado como agresor.
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 53.
 
-Las conductas de discriminación, abandono, desamparo, marginación, abuso, explotación y violencia cometidas en contra de adultos mayores, podrán sancionarse administrativamente por las autoridades que conozcan de los procedimientos de conciliación, con multa de treinta a ciento ochenta días de salario mínimo general vigente en la capital del Estado y con arresto hasta por treinta y seis horas.
+Corresponderá a la Procuraduría de la Defensa del Adulto Mayor, realizar las investigaciones que estén dirigidas a conocer de las conductas de discriminación, abandono, desamparo, marginación, abuso, explotación y violencia cometidas en contra de adultos mayores, ejecutando las medidas necesarias para su adecuada protección y podrán sancionarse administrativamente por las autoridades que conozcan de los procedimientos de conciliación, con amonestación, multa de uno a ciento ochenta Unidades de Medida y Actualización, trabajo a favor de la comunidad y con arresto hasta por treinta y seis horas, en concordancia con lo dispuesto en el artículo 53 BIS 14 de la presente ley.
+
+Asimismo, cuando derivado de las investigaciones la Procuraduría de la Defensa del Adulto Mayor advierta que puede existir la comisión de un delito en contra de un adulto mayor, formulará denuncia ante el Ministerio Público para que se investigue la conducta que pueda ser constitutiva de delito.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS.- Para determinar si la persona adulta mayor ha sido víctima de las conductas del párrafo anterior la Procuraduría se podrá auxiliar, en su caso, con la práctica de los exámenes médicos o psicológicos necesarios que de manera institucional se soliciten a la Secretaría de Salud del Estado.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 1.- En los asuntos que no impliquen la comisión de delito, surgidos entre la persona adulta mayor y aquellas que la tengan bajo su cuidado, se privilegiará el uso de las técnicas para la solución pacífica de conflictos, cuidando en todo momento que no se vea afectada la seguridad e integridad de la primera. Asimismo, la Procuraduría de la Defensa del Adulto Mayor recomendará a los descendientes o responsables de las personas adultas mayores, su inserción en algún programa de capacitación y orientación, a fin de que la familia y la persona mayor superen las condiciones determinantes del conflicto u otros problemas.
+
+Asimismo, prevalecerá en todo momento la facultad de los servidores públicos de la Procuraduría de la Defensa del Adulto Mayor para determinar que no existen condiciones para agotar la solución pacífica de conflictos, incluso cuando no se trate de delitos, por considerar que el adulto mayor que ha sufrido discriminación, abandono, desamparo, marginación, abuso, explotación o violencia, puede incurrir en una revictimización si se llega a confrontar de manera presencial con su agresor, tal y como se señala en el (sic) 53 de la presente ley.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 2.- Para la investigación de los hechos denunciados, la Procuraduría de la Defensa del Adulto Mayor realizará todas las acciones conducentes al esclarecimiento del caso y solicitará, cuando lo considere necesario y bajo su responsabilidad, el auxilio de la fuerza pública para la seguridad en la práctica de sus diligencias.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 3.- Para el cumplimiento de sus atribuciones, la Procuraduría de la Defensa del Adulto Mayor podrá hacerse llegar de cualquier medio de prueba en la investigación de los hechos denunciados, y podrá apoyarse de evaluaciones médicas, psicológicas y, en general, de toda prueba que se estime necesaria. Además de lo anterior, podrá solicitar informes, documentos y opiniones de las dependencias y entidades de la Administración Pública Estatal, en la medida en que puedan suministrar elementos para el debido ejercicio de sus atribuciones y funciones. Asimismo, podrá requerir informes y documentos de los particulares, para mejor proveer.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+#### SECCION II. DE LAS MEDIDAS DE PROTECCION
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 4.- Las medidas de protección tienen por objeto salvaguardar la seguridad e integridad de las personas adultas mayores, mediante la aplicación de las medidas previstas en los diferentes ordenamientos aplicables.
+
+Como medidas de protección, se solicitará al Ministerio Público o al Juez competente separar preventivamente a la persona adulta mayor de su hogar o solicitar el derecho del adulto mayor a recibir alimentos en términos de la legislación familiar y civil aplicable, cuando a criterio de la Procuraduría de la Defensa del Adulto Mayor existan motivos fundados que hagan presumir un peligro inmediato e inminente a su salud o seguridad.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 5.- Para los efectos del artículo anterior, la Procuraduría de la Defensa del Adulto Mayor gestionará el internamiento de los adultos mayores en los establecimientos de asistencia social a que se hace referencia en esta ley, hasta en tanto se resuelva la situación que originó la ejecución de esta medida.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 6.- En caso de oposición para que se ejecute una medida de protección a una persona adulta mayor, la Procuraduría de la Defensa del Adulto Mayor podrá aplicar las sanciones contempladas en la presente ley a quienes se opongan.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 7.- Además de (sic) cumplimiento de las disposiciones aplicables a las medidas de protección vigentes en otros ordenamientos, cuando haya de aplicarse la medida de separación preventiva, deberá tomarse en cuenta la opinión de la persona adulta mayor, a fin de determinar el lugar en que se le ubicará, ya sea en una institución o con algún particular, verificando que en dicho lugar cuente con lo necesario para su atención y cuidado.
+
+En cualquier supuesto la Procuraduría de la Defensa del Adulto Mayor deberá dar seguimiento de manera presencial y mensual al adulto mayor que haya sido reintegrado al núcleo familiar, reintegrado a cualquier domicilio particular, reubicado en institución pública o privada o cualquier análogo, a efecto de verificar que las condiciones de atención y cuidado que recibe el adulto mayor sean las adecuadas. El personal de la Procuraduría de la Defensa del Adulto Mayor velará para que la inspección se lleve a cabo de manera personal y cuidando que el adulto mayor no pueda ser sujeto de presiones por parte de las personas que lo alojan.
+
+El periodo de verificación referido en el párrafo anterior deberá ser de cuando menos seis meses, sin embargo dicho periodo podrá ser ampliado a solicitud del adulto mayor, de la Procuraduría de la Defensa del Adulto Mayor o en general de cualquier interesado.
+
+El personal de la Procuraduría de la Defensa del Adulto Mayor deberá acudir de manera reiterada a las sesiones a fin de dar el debido seguimiento al tratamiento que se le da al adulto mayor, no pudiendo alegar que no se encontraba en el domicilio o que nadie la (sic) abrió. Buscará por los medios que considere más eficaces llevar a cabo la entrevista de manera presencial y de manera mensual, de todo lo cual deberá dejar constancia en el expediente respectivo.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 8.- Las personas adultas mayores estarán sujetas a la protección del Estado, a través de las instituciones públicas y privadas, para que den las mejores condiciones, en los siguientes casos:
+
+I.- Por carecer de familia y de recursos económicos para su sostenimiento;
+
+II.- Por el incumplimiento de las obligaciones alimentarias a cargo de su familia, en los términos del Código de Familia para el Estado de Sonora; o
+
+III.- Por encontrarse en situación de desamparo, abandono, abuso, exclusión, violencia, explotación o maltrato en cualquiera de sus modalidades.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 9.- Cuando la persona adulta mayor se encuentre en alguna de las hipótesis mencionadas en el artículo anterior, según la naturaleza del asunto, se aplicarán las siguientes medidas de protección:
+
+I.- Orientar y brindar apoyo a la familia en cuanto a la atención y cuidados de la persona a su cargo;
+
+II.- Incluirla en algún programa de asistencia social; para lo cual, se remitirá el asunto, a la Secretaría de Desarrollo Social y demás instituciones de asistencia social del estado, para su seguimiento;
+
+III.- Incorporarla al núcleo familiar para su cuidado y atención; con observancia y seguimiento a través del personal de la procuraduría;
+
+IV.- Canalizarla a los establecimientos de asistencia social; y
+
+V.- Separarla preventivamente de su hogar cuando existan motivos fundados que hagan presumir un peligro inminente o inmediato a su salud, seguridad o integridad personal.
+
+En cualquier supuesto de los señalados anteriormente, la Procuraduría de la Defensa del adulto mayor deberá dar seguimiento de manera presencial y mensual al Adulto Mayor, a efecto de verificar que las condiciones de atención y cuidado que recibe el adulto mayor sean las adecuadas. El personal de la Procuraduría de la Defensa del Adulto Mayor cuidara que la inspección se lleve a cabo de manera personal y cuidando que el Adulto Mayor no pueda ser sujeto de presiones por parte de las personas que lo alojan, en los términos que establece el artículo 53 BIS 7 de la presente ley.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 10.- Cuando una institución pública, privada o social, se haga cargo total de una persona adulta mayor, deberá:
+
+I.- Proporcionar atención integral;
+
+II.- Otorgar cuidado para su salud física y mental;
+
+III.- Fomentar actividades y diversiones que sean de su interés;
+
+IV.- Llevar un registro de ingresos y egresos;
+
+V.- Llevar el seguimiento, evolución y evaluación de los casos atendidos;
+
+VI.- Llevar un expediente personal minucioso;
+
+VII.- Expedir copia del expediente en caso de que sea solicitado por sus familiares o institución que por cualquier causa continúe su atención, con objeto de darle seguimiento a su cuidado; y
+
+VIII.- Registrar los nombres, domicilios, números telefónicos y lugares de trabajo de sus familiares.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 11.- Todas las instituciones públicas, privadas y sociales que presten asistencia a las personas adultas mayores, deberán contar con personal que posea vocación, capacidad y conocimientos orientados a la atención de éstas.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 12.- Toda contravención a lo establecido en la presente ley, por las instituciones de asistencia social, además de hacerse del conocimiento al Consejo de Adultos Mayores del Estado de Sonora, será objeto de sanciones de conformidad con esta ley y demás ordenamientos legales aplicables;
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN III. DE LAS INFRACCIONES
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 13.- Son infracciones a esta ley, en perjuicio de las personas adultas mayores, las siguientes:
+
+I.- Realizar cualquier conducta que implique, abandono, desamparo, descuido, exclusión, explotación o maltrato en cualquiera de sus modalidades;
+
+II.- Negar injustificadamente el derecho a permanecer en el núcleo familiar;
+
+III.- No proporcionar a los adultos mayores los alimentos y cuidados necesarios cuando se tenga el deber de hacerlo;
+
+IV.- Contravenir las medidas de protección ordenadas por la Procuraduría de la Defensa del Adulto Mayor;
+
+V.- Aplicar para fines distintos a los autorizados, los recursos, apoyos en especie, bienes o servicios que las autoridades otorguen a las personas de este sector;
+
+VI.- Falsificar los documentos que las autoridades otorguen para que puedan acceder a programas y servicios;
+
+VII.- Negar o impedir a las personas adultas mayores el acceso a los diferentes servicios a que tienen derecho en virtud de lo establecido en esta ley;
+
+VIII.- Obstaculizar la investigación y seguimiento de los asuntos planteados a la Procuraduría de la Defensa del Adulto Mayor;
+
+IX.- Negar o impedir a las personas adultas mayores el acceso a los medios de subsistencia establecidos en esta ley;
+
+X.- Impedir a las personas adultas mayores el libre ejercicio de sus derechos civiles y políticos; y
+
+XI.- En general, cualquier violación o infracción a las disposiciones de esta ley o de otras leyes relacionadas con la protección a las personas mayores.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN IV. DE LAS SANCIONES
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 14.- Cuando las infracciones sean cometidas por particulares, en atención a la gravedad de las mismas, se sancionarán por la Procuraduría de la Defensa del Adulto Mayor con:
+
+I.- Amonestación, cuando se cometan las conductas señaladas en las fracciones III, IV, VIII, X y XI del artículo 53 BIS 13.
+
+II.- Multa de uno a ciento ochenta Unidades de Medida y Actualización, cuando se cometan las conductas señaladas en las fracciones V, VI y VII del artículo 53 BIS 13.
+
+III.- Trabajo comunitario en favor de las personas adultas mayores, en instituciones públicas o privadas dedicadas a su atención, cuando se cometan las conductas señaladas en las fracciones II y IX del artículo 53 BIS 13; y
+
+IV.- Arresto hasta por treinta y seis horas, cuando se cometa la conducta señalada en la fracción I del artículo 53 BIS 13.
+
+Si el infractor no pagare la multa que se le hubiese impuesto o no realizara el trabajo en favor de las personas adultas mayores, en instituciones públicas o privadas dedicadas a su atención, se permutará esta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.
+
+Para los casos de reincidencia se podrán aplicar dos o más sanciones de las previstas en el presente artículo.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 15.- Las instituciones del sector social o privado donde se prestan servicios de atención a las personas adultas mayores, serán responsables solidarios de las multas que se apliquen con motivo de las infracciones cometidas en sus instalaciones por el personal a su cargo.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 16.- Los servidores de la Administración Pública Estatal o Municipal que en ejercicio de sus funciones o con motivo de ellas, contravengan las disposiciones del presente ordenamiento, serán sancionados de conformidad a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 17.- Cuando la sanción impuesta consista en la aplicación de una multa, se considerará crédito fiscal y deberá notificarse a la Secretaría de Hacienda del Gobierno del Estado para que proceda a su cobro.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 18.- El importe de las multas que se impongan como sanción, se entregará a la Procuraduría de la Defensa del Adulto Mayor, a fin de que lo destine a la ejecución de programas y proyectos en beneficio de las personas adultas mayores.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 19.- Los procedimientos para la aplicación de sanciones de carácter pecuniario o administrativo y los de responsabilidad civil o penal, se desarrollarán autónomamente según su naturaleza y por la vía procesal que corresponda, conforme a las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 20.- La aplicación de una sanción estará debidamente fundada y motivada y será independiente de la aplicación de otras sanciones de índole civil o penal a que hubiere lugar.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 21.- Para aplicarse una sanción se tendrán en consideración las siguientes circunstancias:
+
+I.- La gravedad de la infracción;
+
+II.- Los daños que la misma haya producido o pueda producir;
+
+III.- Las condiciones socioeconómicas del infractor; y
+
+IV.- Si la conducta del infractor implica reincidencia.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 22.- Independientemente de las sanciones que correspondan, ya sea administrativa, civil o penal, la Procuraduría de la Defensa del Adulto Mayor podrá aplicar a patrones, funcionarios públicos o cualquier otra persona que viole o amenace con violar los derechos de las personas mayores, lo siguiente:
+
+I.- La observación por escrito acerca de la violación o amenaza contra el derecho de que se trate en el caso particular, citándolos para ser informados debidamente sobre los derechos de las personas adultas en plenitud; y
+
+II.- Conminarlos para que cese de inmediato la situación que viola o pone en peligro el derecho en cuestión, cuando la persona llamada no se presente en el plazo conferido para tal efecto o bien, cuando se haya presentado pero continúe en la misma situación perjudicial a la persona adulta mayor.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+#### SECCION V. DE LOS DELITOS
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 53 BIS 23.- Cuando se cometa algún delito del orden común en contra de un adulto mayor se incrementarán las penas en un tercio, lo anterior en concordancia con lo dispuesto por el Código Penal del Estado de Sonora.
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+#### SECCION VI. DE LOS RECURSOS
 
 ###### ARTÍCULO 54.
 
 Contra las sanciones impuestas por las autoridades competentes podrá interponerse el recurso de reconsideración.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 54 BIS.- Las resoluciones que se dicten en aplicación a las disposiciones de esta ley podrán ser impugnadas, ante la misma autoridad que las emita, a través del recurso de reconsideración.
+
+Es optativo para el particular agotar el recurso de reconsideración o promover el juicio respectivo ante el Tribunal de lo Contencioso Administrativo, ejercitada la acción ante el Tribunal, se extinguirá el derecho para ocurrir a este medio de defensa ordinario.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 54 BIS 1.- El recurso de reconsideración se hará valer mediante escrito en el cual se precisen los agravios que la resolución cause al recurrente, dentro de los tres días hábiles siguientes a la fecha en que se le notifique la resolución impugnada.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 54 BIS 2.- El recurso se resolverá sin más trámite que el escrito de impugnación y vista del expediente que se haya formado para dictar la resolución combatida.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 54 BIS 3.- Cuando el recurso se interponga en contra de una resolución que imponga una multa, el interesado, como requisito de procedibilidad de la impugnación, acreditará haber garantizado el importe de la misma ante la correspondiente dependencia fiscal.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 54 BIS 4.- La resolución que se dicte para resolver el recurso de reconsideración podrá ser impugnado mediante el juicio respectivo ante el Tribunal de lo Contencioso Administrativo.
 
 ###### ARTÍCULO 55.
 
@@ -837,15 +1119,23 @@ Se crea la Procuraduría de la Defensa del Adulto Mayor, como un Órgano Adminis
 
 La Procuraduría de la Defensa del Adulto Mayor tendrá como objeto, la atención a las personas adultas mayores en situación de riesgo y desamparo, así como defender y hacer respetar los derechos de los adultos mayores en situación vulnerable.
 
-> <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 59.
 
 La Procuraduría de la Defensa del Adulto Mayor se integra por:
 
-I.- Un Procurador de la Defensa del Adulto Mayor; y
+I.- Un Procurador de la Defensa del Adulto Mayor;
 
-II.- El personal que le sea asignado en él presupuesto autorizado.
+II.- Un Subprocurador de Asistencia Jurídica;
+
+III.- Un Subprocurador de Prevención, Promoción e Integración Social; y
+
+IV.- El personal que le sea asignado en el presupuesto autorizado.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 59 BIS.- El patrimonio de la Procuraduría de la Defensa del Adulto Mayor, se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto, por las partidas que se prevean en el presupuesto de egresos del Gobierno del Estado de Sonora, y los bienes y recursos numerarios que por cualquier título adquiera.
 
 > <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
 
@@ -883,9 +1173,61 @@ XI. Citar u ordenar con auxilio de autoridad competente, la presentación de los
 
 XII. Expedir a la autoridad competente, copias certificadas de los documentos que obren en los archivos sobre asuntos de su competencia, siempre y cuando sea legalmente procedente;
 
-XIII. Emplear, para hacer cumplir sus determinaciones, cualesquiera de los medios de apremio dictados por autoridad competente que establece la presente ley; y
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
-XIV. Las demás que le determine el Titular del Poder Ejecutivo del Estado, el Órgano de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, el Reglamento Interior y otras disposiciones legales aplicables.
+XIII. Emplear, para hacer cumplir sus determinaciones, cualesquiera de los medios de apremio dictados por autoridad competente que establece la presente ley;
+
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XIV. Realizar visitas para el reconocimiento de hechos u omisiones planteadas tanto en las denuncias recibidas como en las investigaciones de oficio que realice y, emplazar, en su caso, a las personas involucradas para que comparezcan ante la Procuraduría de la Defensa del Adulto Mayor a manifestar lo que a su derecho convenga a efecto de determinar la existencia o no de la infracción; y en su caso dictar las resoluciones correspondientes;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XV. Emitir sugerencias a las dependencias y entidades de la administración pública estatal y municipal, con el propósito de promover el cumplimiento de la legislación respectiva, así como para la ejecución de las acciones procedentes derivadas de la falta de aplicación o incumplimiento de esta ley y demás ordenamientos que de esta se deriven;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XVI. Levantar acta circunstanciada de hechos, respecto del abandono, lesiones, descuido, negligencia, explotación y en general cualquier circunstancia que atente contra los derechos del adulto en plenitud, firmándola con asistencia de dos testigos;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XVII. Iniciar sus actuaciones a instancia de la parte interesada; o de oficio en aquellos casos en que el Procurador así lo determine, de conformidad con la legislación aplicable, en relación con cualquier hecho, acto u omisión que atente contra los derechos de los adultos mayores;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XVIII. Aplicar las medidas de protección previstas en la presente ley;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XIX. Supervisar y emitir las recomendaciones correspondientes para que ninguna Institución que preste servicios de salud niegue el derecho a recibir atención médica, a los adultos mayores;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XX. Realizar visitas a las Instituciones Asistenciales para supervisar su correcta operación; las condiciones en que se encuentran las Personas Adultas Mayores ingresadas, debiendo auxiliarse para tal efecto con las autoridades coadyuvantes correspondientes;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXI. Emitir observaciones a las Instituciones Asistenciales, a fin de mejorar su servicio y garantizar la adecuada estancia de las Personas Adultas Mayores ingresadas;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXII. Elaborar y difundir campañas de comunicación para contribuir al fortalecimiento de los valores referidos a la solidaridad, apoyo familiar, revalorizar los aportes de las personas adultas mayores en los ámbitos social, económico, laboral y familiar, así como promover la protección de los derechos de las personas adultas mayores y el reconocimiento a su experiencia y capacidades;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXIII. Promover y difundir las acciones y programas de atención integral a favor de las personas adultas mayores, así como los resultados de las investigaciones sobre la vejez y su participación social, política y económica;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXIV. Promover la participación de las personas adultas mayores en todas las áreas de la vida pública, a fin de que sean copartícipes y protagonistas de su propio cambio;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXV. Promover en los gremios de comerciantes, industriales o prestadores de servicios profesionales independientes el fomento de la cultura del buen trato y respeto a los adultos mayores en los servicios que ofrezcan, especialmente en lo concerniente a la atención como clientes, para que se le brinden las facilidades de acuerdo a la edad y limitaciones físicas, para tal efecto la Procuraduría de la Defensa del Adulto Mayor podrá solicitar incentivos de cualquier clase a través de las autoridades competentes; y
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXVI. Las demás que le determine el Titular del Poder Ejecutivo del Estado, el Órgano de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, el Reglamento Interior y otras disposiciones legales aplicables.
 
 > <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
 
@@ -917,9 +1259,63 @@ VI. Desarrollar, dirigir y coordinar los estudios, dictámenes, recomendaciones 
 
 VII. Someter a aprobación del Órgano de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, el Reglamento Interior y la estructura orgánica de la Procuraduría de la Defensa del Adulto Mayor;
 
-VIII. Las demás que le determine el Titular del Poder Ejecutivo del Estado, el Órgano de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, el Reglamento Interior y las disposiciones legales aplicables; y
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
-IX. En general, realizar todos aquellos actos que sean necesarios para el funcionamiento de la Procuraduría de la Defensa del Adulto Mayor.
+VIII.- Concertar con la Federación, Estados y Municipios previa aprobación del Órgano de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, los convenios que se requieran para la realización de programas de defensa y representación jurídica, protección, provisión, prevención, participación y atención de los adultos mayores;
+
+> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+IX.- Propiciar la colaboración y participación de instituciones públicas y privadas en acciones para la atención a las personas adultas mayores en situación de riesgo y desamparo, así como defender y hacer respetar los derechos de los adultos mayores en situación vulnerable;
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+X.- Las demás que le determine el Titular del Poder Ejecutivo del Estado, el Director General del Sistema para el Desarrollo Integral de la Familia, el Reglamento Interior y las disposiciones legales aplicables; y
+
+> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XI.- En general, realizar todos aquellos actos que sean necesarios para el funcionamiento de la Procuraduría de la Defensa del Adulto Mayor.
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 63 BIS.- El Subprocurador de Asistencia Jurídica tendrá las siguientes facultades y obligaciones:
+
+I.- Representar al Procurador;
+
+II.- Sustituir al Procurador en sus ausencias temporales;
+
+III.- Auxiliar al Procurador en las funciones que le sean conferidas en el ejercicio de sus funciones;
+
+IV.- Acordar con el Procurador los asuntos relacionados con la Subprocuraduría y demás asuntos que éste le encomiende;
+
+V.- Someter a la aprobación del Procurador los estudios y proyectos de trascendencia que se elaboren en el área de su competencia;
+
+VI.- Conceder audiencias;
+
+VII.- Establecer las estrategias necesarias para impulsar y promover el reconocimiento y ejercicio pleno de las personas adultas mayores;
+
+VIII.- Brindar atención en coordinación con la Procuraduría General de Justicia del Estado, en la atención y tratamiento de los adultos mayores víctimas de cualquier delito;
+
+IX.- Establecer los programas y acciones necesarias para solucionar la problemática familiar del adulto mayor cuando no se trate de delitos;
+
+X.- Establecer las coordinaciones internas necesarias para asegurar que los adultos mayores en situación de riesgo cuenten con un lugar seguro donde vivir, que cubra sus necesidades básicas;
+
+XI.- Asegurar se brinde apoyo, asesoría y supervisión a grupos y organismos del sector privado y social que tengan entre sus fines la atención de los adultos mayores;
+
+XII.- Asegurar la protección de la salud física, mental, psicológica y sexual de los adultos mayores;
+
+XIII.- Asegurar se brinde asesoría y asistencia jurídica en cualquier situación o asunto que se trate donde el adulto mayor tenga un interés jurídico directo;
+
+XIV.- Verificar se otorgue defensa y representación jurídica a los adultos mayores en su persona, sus bienes y derechos ante cualquier autoridad competente, conforme a los medios legales que procedan;
+
+XV.- Asegurar se coadyuve con las instancias competentes cuando un adulto mayor sea víctima de cualquier conducta tipificada como delito o falta administrativa; y
+
+XVI.- Las demás que le sean encomendadas por el Procurador, y aquellas señaladas en las disposiciones legales aplicables.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 99, PUBLICADO EN EL B.O. DE 22 DE DICIEMBRE DE 2016, PÁGINA 13.]</small>
+
+> <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 63 BIS 1.- El Subprocurador de Prevención, Promoción e Integración Social tendrá las siguientes facultades y obligaciones: (sic)
 
 > <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
 
@@ -996,3 +1392,11 @@ B.O. 9 DE JUNIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 99, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
