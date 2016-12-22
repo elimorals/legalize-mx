@@ -4,7 +4,7 @@ identifier: "CAM-codigo-fiscal-del-estado-de-campeche-65708"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-12-08"
-last_updated: "2015-09-14"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65708&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO FISCAL DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Campeche, el lunes 8 de diciembre de 2008.
 
@@ -71,9 +73,11 @@ Las autoridades fiscales podrán celebrar convenios con dependencias de la Admin
 
 De igual forma, podrán realizar actos jurídicos con instituciones públicas o privadas para el fortalecimiento de la administración y recaudación de las contribuciones y aprovechamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 3.
 
-La recaudación proveniente de todos los ingresos del Estado, se hará por la Secretaría de Finanzas y Administración del Gobierno del Estado, a través de sus oficinas recaudadoras o por las instituciones de crédito, módulos fijos o itinerantes, medios electrónicos o cualquier otra vía debidamente autorizada por la citada Secretaría.
+La recaudación proveniente de todos los ingresos del Estado se hará por el Servicio de Administración Fiscal del Estado de Campeche, a través de sus oficinas recaudadoras o por las instituciones de crédito, módulos fijos o itinerantes, medios electrónicos o cualquier otra vía debidamente autorizada por el citado Servicio de Administración Fiscal del Estado de Campeche, debiendo concentrar todos los recursos en las cuentas que determine la Secretaría de Finanzas a más tardar al día hábil siguiente.
 
 El Ejecutivo Estatal mediante resoluciones de carácter general podrá:
 
@@ -85,7 +89,9 @@ III. Conceder subsidios o estímulos fiscales.
 
 Las resoluciones que conforme a este artículo dicte el Ejecutivo Estatal, deberán señalar las contribuciones a que se refieren, salvo que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
-La Secretaría de Finanzas y Administración podrá dictar disposiciones de carácter general, con objeto de simplificar las obligaciones de los contribuyentes, de facilitar la recaudación de los ingresos y de hacer más efectivos y prácticos los sistemas de control fiscal, sin contravenir las normas establecidas en las leyes fiscales.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+El Servicio de Administración Fiscal del Estado de Campeche podrá dictar disposiciones de carácter general, con objeto de simplificar las obligaciones de los contribuyentes, de facilitar la recaudación de los ingresos y de hacer más efectivos y prácticos los sistemas de control fiscal, sin contravenir las normas establecidas en las leyes fiscales.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -107,7 +113,9 @@ Las leyes, sus reglamentos y demás disposiciones fiscales de carácter general,
 
 En los plazos establecidos en días que señalen las leyes fiscales sólo se computarán los días hábiles. Todos los días del año se consideran hábiles y solamente se considerarán días inhábiles los que se establecen en este Código.
 
-En los plazos fijados en días no se contarán por considerarse inhábiles los sábados, los domingos, ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o. y 5 de mayo; el 7 de agosto; el 15 de septiembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal; el 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o. de diciembre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre, así como aquellos días que con ese carácter señale el Calendario Oficial de Labores que expida y publique la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+En los plazos fijados en días no se contarán por considerarse inhábiles los sábados, los domingos, ni el 1o. de enero; el primer lunes de febrero en conmemoración del 5 de febrero; el tercer lunes de marzo en conmemoración del 21 de marzo; el 1o. y 5 de mayo; el 7 de agosto; el 15 de septiembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Estatal; el 16 de septiembre; el tercer lunes de noviembre en conmemoración del 20 de noviembre; el 1o. de octubre de cada 6 años, cuando corresponda a la transmisión del Poder Ejecutivo Federal y el 25 de diciembre, así como aquellos días que con ese carácter señale el Calendario Oficial de Labores que expida y publique el Servicio de Administración Fiscal del Estado de Campeche.
 
 Tampoco se contarán en dichos plazos, por considerarse inhábiles, los días en que tengan vacaciones generales las autoridades fiscales estatales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada.
 
@@ -233,33 +241,33 @@ El asociante representará a la asociación en participación y a sus integrante
 
 La asociación en participación se identificará con una denominación o razón social, seguida de la leyenda A. en P. o en su defecto, con el nombre del asociante, seguido de las siglas antes citadas. Asimismo, tendrá en el Estado un domicilio fiscal.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 16.
 
-Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
+Toda promoción que se presente ante las autoridades fiscales deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
 
-Las promociones deberán presentarse en los formatos impresos que al efecto apruebe la Secretaría de Finanzas y Administración, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas impresas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
+Las promociones deberán presentarse en las formas que al efecto apruebe el Servicio de Administración Fiscal del Estado de Campeche, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas impresas aprobadas, el documento que se formule deberá presentarse en el número de ejemplares que señalen las autoridades fiscales y tener por lo menos los siguientes requisitos:
 
 I. Constar por escrito;
 
-II. El nombre, la denominación o razón social y el domicilio fiscal manifestado al registro estatal de contribuyentes, y la clave que le correspondió en dicho registro y, en su caso, la clave única en el registro de población;
+II. El nombre, la denominación o razón social y el domicilio fiscal manifestado al Registro Estatal de Contribuyentes, y la clave que le correspondió en dicho registro y, en su caso, la clave única en el registro de población;
 
 III. Señalar la autoridad a la que se dirige y el propósito de la promoción; y
 
-IV. En su caso, el domicilio para oír y recibir notificaciones dentro del Estado, la dirección de correo electrónico y el nombre de la persona autorizada para recibirlas.
+IV. El domicilio para oír y recibir notificaciones dentro del Estado, la dirección de correo electrónico y el nombre de la persona autorizada para recibirlas.
 
 Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de 10 días hábiles contados a partir del día siguiente a aquél en que surta efectos su notificación cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada, si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades fiscales deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
 
 En el caso de que la firma no sea legible o se dude de su autenticidad, las autoridades fiscales requerirán al promovente a fin de que, en el mismo plazo señalado en el párrafo anterior, se presente a ratificar la firma plasmada en la promoción.
 
-Cuando la Secretaría de Finanzas y Administración autorice mediante reglas de carácter general la presentación de promociones mediante documento electrónico, también señalará a través de dichas reglas los requisitos que se deberán de cumplir.
-
-Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos al registro estatal de contribuyentes.
+Cuando el Servicio de Administración Fiscal del Estado de Campeche autorice mediante reglas de carácter general la presentación de promociones mediante documento, digital que contenga Firma Electrónica Avanzada, también señalará a través de dichas reglas los requisitos que se deberán de cumplir.
 
 Las promociones que se presenten ante las autoridades fiscales en las que se formulen consultas o solicitudes de autorización o régimen, para las que no haya forma oficial impresa, deberán cumplir, en adición a los requisitos establecidos anteriormente, con lo siguiente:
 
 a) Señalar los números telefónicos, en su caso, del contribuyente y el de los autorizados en los términos de este Código, para oír y recibir notificaciones;
 
-b) Señalar los nombres, direcciones y el registro federal de contribuyentes y el registro estatal de contribuyentes, de todas las personas involucradas en la solicitud o consulta planteada;
+b) Señalar los nombres, direcciones y el Registro Federal de Contribuyentes y el Registro Estatal de Contribuyentes, de todas las personas involucradas en la solicitud o consulta planteada;
 
 c) Describir las actividades a las que se dedica el interesado;
 
@@ -269,35 +277,49 @@ e) Señalar todos los hechos y circunstancias relacionados con la promoción, as
 
 f) Indicar si los hechos o circunstancias sobre los que verse la promoción han sido previamente planteados ante la misma autoridad u otra distinta, o ha sido materia de medios de defensa ante autoridades administrativas o jurisdiccionales y, en su caso el sentido de la resolución; y
 
-g) Indicar si el contribuyente se encuentra sujeto al ejercicio de las facultades de comprobación por parte de la Secretaría de Hacienda y Crédito Público o por la Secretaría de Finanzas y Administración, señalando los periodos y las contribuciones, objeto de la revisión. Asimismo, deberá mencionar si se encuentra dentro del plazo para que las autoridades fiscales del Estado emitan la resolución derivada del ejercicio de facultades de comprobación.
+g) Indicar si el contribuyente se encuentra sujeto al ejercicio de facultades de comprobación por parte de la Secretaría de Hacienda y Crédito Público o por el Servicio de Administración Fiscal del Estado de Campeche, señalando los periodos y las contribuciones objeto de la revisión. Asimismo, deberá mencionar si se encuentra dentro del plazo para que las autoridades fiscales del Estado emitan la resolución derivada del ejercicio de facultades de comprobación.
 
-Si el promovente no se encuentra en los supuestos a que se refieren los incisos b), f) y g) anteriores, deberá manifestarlo así expresamente.
+Si el promovente no se encuentra en los supuestos a que se refieren los incisos b), f) y g) anteriores deberá manifestarlo así expresamente.
 
-Cuando no se cumplan los requisitos antes señalados, se estará a lo dispuesto en el tercer párrafo de este artículo.
+Cuando no se cumplan los requisitos antes señalados se estará a lo dispuesto en el tercer párrafo de este artículo.
+
+Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción, avisos o informes al Registro Estatal de Contribuyentes o ante cualesquiera otras autoridades fiscales a los que les será aplicable el artículo siguiente.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO NÚMERO 100 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2016, SE MODIFICA LA ESTRUCTURA DEL PRESENTE ARTÍCULO, PASANDO DE ONCE A DIEZ PÁRRAFOS.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 17.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro estatal de contribuyentes, declaraciones, avisos o informes, ante autoridades fiscales, lo harán en las formas impresas que al efecto apruebe la Secretaría de Finanzas y Administración, debiendo de proporcionar el número de ejemplares, los datos e informes y los documentos que dichas formas requieran o mediante documento electrónico cuando así establezca la mencionada Secretaría mediante reglas de carácter general.
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de Registro Estatal de Contribuyentes, declaraciones, solicitudes de inscripción, avisos o informes, ante autoridades fiscales, lo harán en las formas impresas que al efecto apruebe el Servicio de Administración Fiscal del Estado de Campeche, debiendo de proporcionar el número de ejemplares, los datos e informes y los documentos que dichas formas requieran o mediante documento electrónico cuando así establezca el mencionado Servicio de Administración Fiscal del Estado de Campeche, mediante reglas de carácter general.
 
-Asimismo, cuando las disposiciones fiscales obliguen a presentar documentos éstos deberán ser digitales y contener una firma electrónica avanzada del autor, salvo los casos que establezcan una regla diferente, además de que las autoridades fiscales podrán autorizar el uso de otras firmas electrónicas, todo ello en los términos que establezca la Secretaría de Finanzas y Administración mediante reglas de carácter general.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-En los casos en que las formas para la presentación de las declaraciones, avisos e informes que prevengan las disposiciones fiscales, no hubieran sido aprobadas y publicadas en el Periódico Oficial del Estado por la Secretaría de Finanzas y Administración a más tardar un mes antes de la fecha en que el contribuyente esté obligado a utilizarlas, los obligados a presentarlas deberán utilizar las últimas formas publicadas por la citada dependencia y, si no existiera forma publicada, las formularán en escrito que contenga su nombre, denominación o razón social, domicilio y clave del registro estatal de contribuyentes, así como el periodo y los datos relativos a la obligación que pretendan cumplir; en el caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+Asimismo, cuando las disposiciones fiscales obliguen a presentar documentos éstos deberán ser digitales y contener una firma electrónica avanzada del autor, salvo los casos que establezcan una regla diferente, además de que las autoridades fiscales podrán autorizar el uso de otras firmas electrónicas, todo ello en los términos que establezca el Servicio de Administración Fiscal del Estado de Campeche mediante reglas de carácter general.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+En los casos en que las formas para la presentación de las declaraciones, avisos e informes que prevengan las disposiciones fiscales, no hubieran sido aprobadas y publicadas en el Periódico Oficial del Estado por el Servicio de Administración Fiscal del Estado de Campeche a más tardar un mes antes de la fecha en que el contribuyente esté obligado a utilizarlas, los obligados a presentarlas deberán utilizar las últimas formas publicadas por la citada dependencia y, si no existiera forma publicada, las formularán en escrito que contenga su nombre, denominación o razón social, domicilio y clave del Registro Estatal de Contribuyentes, así como el periodo y los datos relativos a la obligación que pretendan cumplir; en el caso de que se trate de la obligación de pago deberá señalar además el monto del mismo.
 
 Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo en tanto no presenten los avisos de suspensión, disminución o cancelación en el registro estatal de contribuyentes, según corresponda. Tratándose de las declaraciones de pago, los contribuyentes deberán presentar dichas declaraciones cuando haya cantidad a pagar o no.
 
 Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, están obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales, en los términos del párrafo primero de este artículo.
 
-En las oficinas autorizadas, se recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones. Únicamente se podrá rechazar la presentación cuando ésta deba hacerse a través de medios electrónicos o cuando no contengan el nombre, denominación o razón social del contribuyente, su clave de registro estatal de contribuyentes, su domicilio fiscal o no contengan firma del contribuyente o de su representante legal o tratándose de declaraciones, éstas contengan errores aritméticos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+En las oficinas autorizadas se recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones. Únicamente se podrá rechazar la presentación cuando ésta deba hacerse a través de medios electrónicos o cuando no contengan el nombre, denominación o razón del contribuyente, su clave de Registro Estatal de Contribuyentes, su domicilio fiscal o contengan firma del contribuyente o de su representante legal o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, las oficinas recaudadoras podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
 Cuando por diferentes contribuciones se deba presentar una misma declaración o aviso y se omita hacerlo por alguna de ellas, se tendrá por no presentada la declaración o aviso por la contribución omitida.
 
 Las personas obligadas a presentar solicitud de inscripción o avisos en los términos de las disposiciones fiscales, podrán presentar su solicitud o avisos complementarios, completando o sustituyendo los datos de la solicitud o aviso original, siempre que los mismos se presenten dentro de los plazos previstos en las disposiciones fiscales.
 
-A petición del contribuyente, la Secretaria de Finanzas y Administración emitirá una constancia en la que se señalen las declaraciones presentadas por el citado contribuyente en el año de que se trate y la fecha de presentación de las mismas. Dicha constancia únicamente tendrá carácter informativo y en ella no se prejuzgará sobre el correcto cumplimiento de las obligaciones a su cargo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Para ello, dicha Secretaría contará con un plazo de 20 días contados a partir de que sea haya presentado la solicitud correspondiente y siempre que se hubieran pagado los derechos que al efecto se establezcan en la Ley de Hacienda del Estado.
+A petición del contribuyente, el Servicio de Administración Fiscal del Estado de Campeche emitirá una constancia en la que se señalen las declaraciones presentadas por el citado contribuyente en el año de que se trate y la fecha de presentación de las mismas. Dicha constancia únicamente tendrá carácter informativo y en ella no se prejuzgará sobre el correcto cumplimiento de las obligaciones a su cargo.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Para efectos del párrafo anterior, el Servicio de Administración Fiscal del Estado de Campeche contará con un plazo de veinte días contados a partir de que se presente la solicitud correspondiente y siempre que se hubieran pagado los derechos que al efecto se establezcan en la Ley de Hacienda del Estado.
 
 ### CAPÍTULO II. De los Ingresos del Estado
 
@@ -353,6 +375,10 @@ Son aportaciones federales las cantidades que corresponden al Estado con cargo a
 
 Son créditos fiscales las obligaciones de contenido económico determinadas en cantidad líquida que tenga derecho a percibir el Estado que provengan de contribuciones, de sus accesorios o de aprovechamientos, incluyendo los que deriven de responsabilidades que el Estado tenga derecho a exigir de sus funcionarios, servidores públicos o de los particulares, así como aquéllos a los que las leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Todos los montos establecidos en este Código bajo el concepto de Unidad de Medida y Actualización, al momento de ser cubiertos al Estado deberán determinarse en cantidad líquida.
+
 ###### Artículo 26.
 
 Las obligaciones fiscales se generan conforme se realizan las situaciones jurídicas o de hecho, previstas en la legislación fiscal vigente durante el lapso en que ocurran. Dichas obligaciones fiscales se determinarán conforme a las disposiciones vigentes en el momento de su generación, pero les serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
@@ -377,13 +403,19 @@ Cuando de conformidad con las disposiciones fiscales se deban realizar operacion
 
 #### Sección Primera. Del Pago
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 28.
+
+Las contribuciones se causan conforme se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes durante el lapso en que ocurran.
+
+Dichas contribuciones se determinarán conforme a las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
 
 Corresponde a los contribuyentes la determinación de las contribuciones a su cargo, salvo disposición expresa en contrario.
 
 Las contribuciones y aprovechamientos se pagan en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa el pago deberá hacerse mediante declaración que se presentará ante las oficinas autorizadas, dentro del plazo que a continuación se indica:
 
-I. Si la contribución o el aprovechamiento se calcula por periodos establecidos en ley se enterará a más tardar el día 20 del mes de calendario inmediato posterior al de la terminación del periodo correspondiente;
+I. Si la contribución o el aprovechamiento se calcula por periodos establecidos en (sic) ley se enterará a más tardar el día 20 del mes de calendario inmediato posterior al de la terminación del periodo correspondiente;
 
 II. En los casos de retención o de recaudación de contribuciones, los retenedores o las personas a quienes las leyes impongan la obligación de recaudarlas, las enterarán a más tardar el día 20 del mes de calendario inmediato posterior al de la terminación del periodo de la retención o de la recaudación, respectivamente; y
 
@@ -393,11 +425,9 @@ En el caso de contribuciones que se deben pagar mediante retención, aun cuando 
 
 Cuando los retenedores deban hacer un pago en bienes, solamente harán la entrega del bien de que se trate si quien debe recibirlo provee los fondos necesarios para efectuar la retención en moneda nacional.
 
-Tratándose de los créditos fiscales determinados por las autoridades en el ejercicio de sus facultades de comprobación, determinación o sancionadoras, deberán pagarse junto con sus accesorios, dentro de los cuarenta y cinco días hábiles siguientes a aquél en que surta efectos su notificación, o garantizarse cuando se interponga algún medio de impugnación o se solicite plazo para el pago en parcialidades.
+Tratándose de los créditos fiscales determinados por las autoridades en el ejercicio de sus facultades de comprobación, determinación o sancionadoras, deberán pagarse junto con sus accesorios, dentro de los treinta días hábiles siguientes a aquél en que surta efectos su notificación o garantizarse cuando se interponga algún medio de impugnación o se solicite plazo para el pago en parcialidades.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
-
-Los ingresos que perciba o recaude el Estado de Campeche, se acreditarán mediante el recibo oficial, comprobante fiscal impreso por medios propios o a través de terceros, comprobante fiscal digital o cualquier otra documentación que impresa o digital expida la Secretaría de Finanzas de la Administración Pública del Estado o las entidades de la Administración Pública Paraestatal, según el caso, y conforme a las disposiciones jurídicas aplicables.
+Los ingresos que perciba o recaude el Estado de Campeche se acreditarán mediante el recibo oficial, comprobante fiscal impreso por medios propios o a través de terceros, comprobante fiscal digital o cualquier otra documentación que impresa o digital expida el Servicio de Administración Fiscal del Estado de Campeche o las entidades de la Administración Pública Paraestatal, según el caso, y conforme a las disposiciones jurídicas aplicables.
 
 ###### Artículo 29.
 
@@ -411,13 +441,17 @@ Para determinar las contribuciones y sus accesorios se considerará en su caso e
 
 Cuando las disposiciones fiscales permitan el acreditamiento de impuestos o de cantidades equivalentes a éstos, pagados en moneda extranjera, se considerará el tipo de cambio que corresponda conforme a lo señalado en el párrafo anterior, referido a la fecha en que se causó el impuesto que se traslada o en su defecto cuando se pague.
 
-Se aceptarán como medio de pago de las contribuciones, aprovechamientos y sus accesorios los cheques certificados o de caja, salvo buen cobro y la transferencia electrónica de fondos a favor de la Secretaría de Finanzas y Administración. En caso que se pague con cheque en el anverso se anotará “cheque librado para el pago de contribuciones (nombre de la contribución) o aprovechamientos (nombre del aprovechamiento) estatales a cargo de (nombre del contribuyente) con registro estatal de contribuyente (clave de registro estatal de contribuyentes) para abono en cuenta de la Secretaría de Finanzas y Administración”.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Se aceptarán como medio de pago de las contribuciones, aprovechamientos y sus accesorios los cheques certificados o de caja, salvo buen cobro, y la transferencia electrónica de fondos a favor del Servicio de Administración Fiscal del Estado de Campeche. En caso que se pague con cheque en el anverso se anotará "cheque librado para el pago de contribuciones (nombre de la contribución) o aprovechamientos (nombre del aprovechamiento) estatales a cargo de (nombre del contribuyente) con Registro Estatal de Contribuyentes (clave de Registro Estatal de Contribuyentes) para abono en cuenta del Servicio de Administración Fiscal del Estado de Campeche".
 
 Los cheques personales únicamente se aceptarán a juicio de la autoridad fiscal, en los casos y con las condiciones siguientes:
 
 I. Sólo podrá hacerse con cheques personales del contribuyente sin certificar, cuando sean expedidos por él mismo. Los notarios públicos que conforme a las disposiciones fiscales se encuentren obligados a determinar y enterar contribuciones a cargo de terceros, podrán hacerlo mediante cheques sin certificar de las cuentas personales de los contribuyentes, siempre que cumplan con los demás requisitos a que se refiere este artículo;
 
-II. El cheque deberá librarse a cargo de instituciones de crédito que se encuentren dentro de la población donde esté establecida la autoridad recaudadora de que se trate. A juicio de la Secretaría de Finanzas y Administración se podrá autorizar que el cheque se libre a cargo de instituciones de crédito que se encuentren en poblaciones distintas a aquélla en donde esté establecida la autoridad recaudadora;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+II. El cheque deberá librarse a cargo de instituciones de crédito que se encuentren dentro de la población donde esté establecida la autoridad recaudadora de que se trate. A juicio del Servicio de Administración Fiscal del Estado de Campeche se podrá autorizar que el cheque se libre a cargo de instituciones de crédito que se encuentren en poblaciones distintas a aquélla en donde esté establecida la autoridad recaudadora;
 
 III. Cuando las contribuciones se paguen con cheque, dicho cheque no será negociable; y
 
@@ -439,9 +473,13 @@ Código.
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando alguno de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 
-Para determinar las contribuciones se considerarán, inclusive las fracciones de peso. No obstante lo anterior, para efectuar el pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 a 50 centavos se ajusten a la unidad inmediata inferior y las que contengan cantidades de 51 a 99 centavos se ajusten a la inmediata superior.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, la Secretaría de Finanzas y Administración podrá ordenar, por medio de disposiciones de carácter general y con el objeto de facilitar el cumplimiento de la obligación, así como para allegarse de la información necesaria en materia de estadística de ingresos que se proporcione en declaración distinta de aquélla con la cual se efectúe el pago.
+Para determinar las contribuciones se considerarán inclusive las fracciones de peso. No obstante lo anterior, para efectuar el pago el monto se ajustará para que las que contengan cantidades que incluyan de 1 a 50 centavos se ajusten a la unidad inmediata inferior y las que contengan cantidades de 51 a 99 centavos se ajusten a la inmediata superior.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, el Servicio de Administración Fiscal del Estado de Campeche podrá ordenar, por medio de disposiciones de carácter general y con el objeto de facilitar el cumplimiento de la obligación, así como para allegarse de la información necesaria en materia de estadística de ingresos que se proporcione en declaración distinta de aquélla con la cual se efectúe el pago.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
@@ -473,7 +511,9 @@ Las autoridades fiscales, a petición de los contribuyentes:
 
 A.- Podrán autorizar el pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de seis meses para pago diferido y de doce meses para pago en parcialidades, salvo que se trate de situaciones extraordinarias en las cuales el plazo puede ser hasta de veinticuatro meses, siempre y cuando los contribuyentes:
 
-I. Presenten el formato que se establezca para tales efectos, por la Secretaría de Finanzas y Administración, en el que se señalará que solicita el pago a plazo, precisando si se refiere a pago en parcialidades o pago diferido. La modalidad del pago a plazos elegida por el contribuyente en el formato de la solicitud de autorización de pago a plazos podrá modificarse para el crédito de que se trate por una sola ocasión, siempre y cuando el plazo en su conjunto no exceda del plazo máximo establecido en el presente artículo. Conjuntamente con el formato de solicitud se deberá de acompañar la documentación y requisitos que ésta establezca.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+I. Presenten el formato que se establezca para tales efectos, por el Servicio de Administración Fiscal del Estado de Campeche, en el que se señalará que solicita el pago a plazo, precisando si se refiere a pago en parcialidades o pago diferido. La modalidad del pago a plazos elegida por el contribuyente en el formato de la solicitud de autorización de pago a plazos podrá modificarse para el crédito de que se trate por una sola ocasión, siempre y cuando el plazo en su conjunto no exceda del plazo máximo establecido en el presente artículo. Conjuntamente con el formato de solicitud se deberá de acompañar la documentación y requisitos que ésta establezca.
 
 II. Paguen el 20% del monto total del crédito fiscal al momento de la solicitud de autorización del pago a plazos. El monto total del adeudo se integrará por la suma de los siguientes conceptos:
 
@@ -549,7 +589,9 @@ La autoridad fiscal podrá determinar y cobrar el saldo de las diferencias que r
 
 Durante el período que el contribuyente se encuentre pagando a plazos en los términos de las fracciones I y II de este apartado del presente artículo, las cantidades determinadas, no serán objeto de actualización, debido a que la tasa de recargos por prórroga la incluye, salvo que el contribuyente se ubique en alguna causal de revocación, o cuando deje de pagar en tiempo y monto alguna de las parcialidades, supuestos en los cuales se causará ésta de conformidad con lo previsto por el artículo 27 de este Código, desde la fecha en que debió efectuar el último pago y hasta que éste se realice.
 
-La autorización para pagar en parcialidades o de manera diferida, se solicitará ante la Secretaría de Finanzas y Administración, dentro de los 15 días siguientes a aquel en que se efectuó el pago inicial del 20%, en el que manifiesten lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+La autorización para pagar en parcialidades o de manera diferida, se solicitará ante el Servicio de Administración Fiscal del Estado de Campeche, dentro de los 15 días siguientes a aquel en que se efectuó el pago inicial del 20%, en el que manifiesten lo siguiente:
 
 1. El número de crédito o la manifestación de que se trata de un crédito autodeterminado;
 
@@ -581,9 +623,13 @@ Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autori
 
 Cuando en una solicitud de devolución existan errores en los datos contenidos en la misma, la autoridad requerirá al contribuyente para que mediante escrito en un plazo de diez días aclare dichos datos, apercibiéndolo que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. Cuando el contribuyente haya sido requerido para que aclare datos erróneos en su solicitud, no será necesario presentar una nueva solicitud cuando los datos erróneos sólo se hayan consignado en la solicitud o anexos. Cuando el requerimiento se atienda dentro del plazo antes señalado, se suspenderá el plazo previsto para efectuar la devolución, durante el período que transcurra entre el día hábil siguiente al en que surta efecto la notificación del requerimiento y la fecha en que se atienda el mismo.
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cuarenta días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, incluyendo para el caso de depósito en cuenta, los datos de la institución financiera y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera debidamente integrado de conformidad con las disposiciones del Banco de México, así como los demás informes y documentos que señale la Secretaría de Finanzas y Administración mediante reglas de carácter general. Las autoridades fiscales, para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor de veinte días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesarios y que estén relacionados con la misma. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de veinte días cumpla con lo solicitado, apercibido que de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. Las autoridades fiscales sólo podrán efectuar un nuevo requerimiento, dentro de los diez días siguientes a la fecha en la que se haya cumplido el primer requerimiento, cuando se refiera a datos, informes o documentos que hayan sido aportados por el contribuyente al atender dicho requerimiento. Para el cumplimiento del segundo requerimiento, el contribuyente contará con un plazo de diez días y le será aplicable el apercibimiento a que se refiere este párrafo. Cuando la autoridad requiera al contribuyente los datos, informes o documentos antes señalados, el período transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente no se computará en la determinación de los plazos antes mencionados.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-La devolución también podrá realizarse mediante cheque nominativo, cuando el importe de ésta no sobrepase el equivalente a 525 salarios mínimos generales diarios vigentes en la Entidad.
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de cuarenta días siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, incluyendo para el caso de depósito en cuenta, los datos de la institución financiera y el número de cuenta para transferencias electrónicas del contribuyente en dicha institución financiera debidamente integrado de conformidad con las disposiciones del Banco de México, así como los demás informes y documentos que señale el Servicio de Administración Fiscal del Estado de Campeche mediante reglas de carácter general. Las autoridades fiscales, para verificar la procedencia de la devolución, podrán requerir al contribuyente, en un plazo no mayor a veinte días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesarios y que estén relacionados con la misma. Para tal efecto, las autoridades fiscales requerirán al promovente a fin de que en un plazo máximo de veinte días cumpla con lo solicitado, apercibido que, de no hacerlo dentro de dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente. Las autoridades fiscales sólo podrán efectuar un nuevo requerimiento, dentro de los diez días siguientes a la fecha en la que se haya cumplido el primer requerimiento, cuando se refiera a datos, informes o documentos que hayan sido aportados por el contribuyente al atender dicho requerimiento. Para el cumplimiento del segundo requerimiento, el contribuyente contará con un plazo de diez días, contados a partir del día siguiente a que surta efectos la notificación de dicho requerimiento, y le será aplicable el apercibimiento a que se refiere este párrafo. Cuando la autoridad requiera al contribuyente los datos, informes o documentos antes señalados, el período transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que éstos sean proporcionados en su totalidad por el contribuyente no se computará en la determinación de los plazos para la devolución antes mencionados.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+La devolución también podrá realizarse mediante cheque nominativo, cuando el importe de ésta no sobrepase el equivalente a 525 veces el valor diario de la Unidad de Medida y Actualización.
 
 Cuando en la solicitud de devolución únicamente existan errores aritméticos en la determinación de la cantidad solicitada, las autoridades fiscales devolverán las que correspondan, sin que sea necesario presentar una declaración complementaria. Las autoridades fiscales podrán devolver una cantidad menor a la solicitada por los contribuyentes con motivo de la revisión efectuada a la documentación aportada. En este caso, se considerará negada por la parte que no sea devuelta. En el caso de que las autoridades fiscales devuelvan la solicitud de devolución a los contribuyentes, se considerará que ésta fue negada en su totalidad. Para tales efectos, las autoridades fiscales deberán fundar y motivar las causas que sustentan la negativa parcial o total de la devolución respectiva.
 
@@ -641,33 +687,37 @@ Las autoridades fiscales podrán compensar de oficio las cantidades que los cont
 
 #### Sección Tercera. De la Prescripción
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 38.
 
-El crédito fiscal se extingue por prescripción en el término de cinco años.
+El crédito fiscal se extingue por prescripción en término de cinco años.
 
-El cómputo del plazo de la prescripción, inicia a partir de la fecha en que el pago pudo ser legalmente exigido, y se podrá oponer como excepción en el recurso administrativo. Dicho término se interrumpe con cada gestión de cobro que la autoridad fiscal notifique al deudor o por el reconocimiento expreso o tácito de éste, respecto de la existencia del crédito.
+El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en los recursos administrativos o a través del juicio contencioso administrativo. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que el acreedor notifique o haga saber al deudor o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se notifique al deudor de conformidad con lo que establece el presente Código.
 
-Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se notifique al deudor de conformidad con lo que establece el presente Código.
+Cuando se suspenda el procedimiento administrativo de ejecución en los términos del artículo 144 de este Código, también se suspenderá el plazo de la prescripción.
 
-Cuando se suspenda el procedimiento administrativo de ejecución en los términos de este Código, también se interrumpirá el plazo de la prescripción.
+Asimismo, se suspenderá el plazo a que se refiere este artículo cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
 
-Asimismo, se interrumpirá el plazo a que se refiere este artículo cuando el contribuyente hubiere desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal.
+El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
 
-La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad recaudadora o a petición del contribuyente.
+La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por el Servicio de Administración Fiscal del Estado de Campeche o a petición del contribuyente.
 
 #### Sección Cuarta. De la Cancelación
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 39.
 
-La Secretaría de Finanzas y Administración podrá cancelar el procedimiento de cobro de los créditos fiscales de las cuentas públicas, por incosteabilidad en la cobranza, o por insolvencia del deudor o de los responsables solidarios.
+La Secretaría de Finanzas podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor o de los representantes solidarios.
 
-Se consideran créditos de cobro incosteable, aquéllos cuyo costo de recuperación sea igual o mayor a su importe, así como aquéllos que su importe no exceda de cinco veces el salario mínimo general vigente en el Estado.
+Se consideran créditos de cobro incosteable, aquellos que su importe sea inferior o igual, al equivalente en moneda nacional, a quince veces el valor diario de la Unidad de Medida y Actualización; aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional al valor diario de la Unidad de Medida y Actualización elevado al año y cuyo costo de recuperación rebase el 75% del importe del crédito; así como aquéllos cuyo costo de recuperación sea igual o mayor a su importe.
 
-Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran enajenado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubiesen realizado, cuando no se puedan localizar o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
 Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados. Los importes a que se refiere el segundo párrafo de este artículo, se determinarán de conformidad con las disposiciones aplicables.
 
-La Secretaría de Finanzas y Administración dará a conocer las reglas de carácter general para la aplicación de este artículo. La cancelación de los créditos a que se refiere este artículo no libera de su pago, sin perjuicio de que en su caso opere la prescripción de los mismos.
+El Servicio de Administración Fiscal del Estado de Campeche dará a conocer las reglas de carácter general para la aplicación de este artículo. La cancelación de los créditos a que se refiere este artículo no libera de su pago.
 
 ## TÍTULO TERCERO. Contribuyentes y Responsables Solidarios
 
@@ -729,6 +779,10 @@ b) Cuando no realicen las actividades señaladas en el inciso anterior, el local
 
 c) En caso de que no se disponga dentro del Estado de un local para el desarrollo de la actividad sujeta a contribución o aprovechamiento o la realice en la vía publica, su casa habitación, si ésta se encuentra dentro del Estado; caso contrario, el lugar en que se encuentren.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Siempre que los contribuyentes no hayan manifestado alguno de los domicilios citados en los incisos anteriores o no hayan sido localizados en los mismos, se considerará como domicilio el que hayan manifestado a las entidades financieras o a las sociedades cooperativas de ahorro y préstamo, cuando sean usuarios de los servicios que presten éstas, de igual forma el manifestado ante dependencias, entidades, y órganos desconcentrados de la Administración Pública Federal, Estatal o municipal y empresas productivas del Estado siempre y cuando se ubiquen dentro del Estado.
+
 II. En el caso de personas morales y unidades económicas:
 
 a) El local en donde se encuentre su administración principal, en caso que éste se ubique en el Estado, o en su defecto; y
@@ -751,7 +805,7 @@ Cuando los contribuyentes no hayan designado un domicilio fiscal estando obligad
 
 La Administración Pública Estatal, Centralizada y Paraestatal, así como la Procuraduría General de Justicia, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que:
 
-l. Tengan a su cargo créditos fiscales firmes.
+I. Tengan a su cargo créditos fiscales firmes.
 
 II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
 
@@ -807,7 +861,9 @@ Las resoluciones administrativas de carácter individual favorables a un particu
 
 Las autoridades fiscales podrán, discrecionalmente, revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando los contribuyentes no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
 
-Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas y Administración al respecto no podrán ser impugnadas por los contribuyentes.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Lo señalado en el párrafo anterior no constituirá instancia y las resoluciones que dicte el Servicio de Administración Fiscal del Estado de Campeche al respecto no podrán ser impugnadas por los contribuyentes.
 
 ###### Artículo 47.
 
@@ -815,11 +871,15 @@ Las personas morales, las unidades económicas, así como las personas físicas 
 
 Tratándose de establecimientos, sucursales, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y en general cualquier local o establecimiento que se utilice para el desempeño de sus actividades, los contribuyentes deberán presentar aviso de apertura o cierre de dichos lugares y conservar en los lugares citados el aviso de apertura, debiendo exhibirlo a las autoridades fiscales cuando éstas lo soliciten.
 
-La solicitud o los avisos a que se refiere este artículo que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados. Las autoridades fiscales podrán verificar la existencia y localización del domicilio fiscal manifestado por el contribuyente en el aviso respectivo. Las personas físicas que no se encuentren en los supuestos del párrafo primero de este artículo, podrán solicitar su inscripción al registro estatal de contribuyentes, cumpliendo los requisitos establecidos mediante reglas de carácter general que para tal efecto publique la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+La solicitud o los avisos a que se refiere este artículo que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados. Las autoridades fiscales podrán verificar la existencia y localización del domicilio fiscal manifestado por el contribuyente en el aviso respectivo. Las personas físicas que no se encuentren en los supuestos del párrafo primero de este artículo, podrán solicitar su inscripción al Registro Estatal de Contribuyentes, cumpliendo los requisitos establecidos mediante reglas de carácter general que para tal efecto publique el Servicio de Administración Fiscal del Estado de Campeche.
 
 La solicitud de inscripción deberá presentarse dentro del mes siguiente al día en que se inicien actividades de las que derive el cumplimiento de obligaciones fiscales.
 
-La Secretaría de Finanzas y Administración llevará el registro estatal de contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo y asignará la clave que corresponda a cada persona inscrita, o bien podrá considerar la clave del registro federal de contribuyentes, la cual deberá citarse en todo documento que se presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que la Secretaría de Finanzas y Administración sea parte.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+El Servicio de Administración Fiscal del Estado de Campeche llevará el Registro Estatal de Contribuyentes basándose en los datos que las personas le proporcionen de conformidad con este artículo y asignará la clave que corresponda a cada persona inscrita, o bien podrá considerar la clave del registro federal de contribuyentes, la cual deberá citarse en todo documento que se presente ante las autoridades fiscales y jurisdiccionales, cuando en este último caso se trate de asuntos en que el Servicio de Administración Fiscal del Estado de Campeche sea parte.
 
 Los contribuyentes y los retenedores a que se refiere el presente artículo, deberán presentar aviso a la oficina autorizada, dentro del mes siguiente al día en que ocurra alguno de los siguientes supuestos:
 
@@ -839,23 +899,29 @@ V. Reanudación: cuando se esté nuevamente obligado a presentar alguna de las d
 
 VI. Traspaso de la negociación, liquidación o cancelación definitiva de actividades; y
 
-VII. Cualquier otro que se traduzca en alguna modificación de los datos que se encuentren registrados en la Secretaría de Finanzas y Administración, dentro de los quince días siguientes a aquél en que se actualice la situación jurídica o de hecho.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+VII. Cualquier otro que se traduzca en alguna modificación de los datos que se encuentren registrados en el Servicio de Administración Fiscal del Estado de Campeche, dentro de los quince días siguientes a aquél en que se actualice la situación jurídica o de hecho.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 48.
 
-Las personas que de acuerdo con las disposiciones fiscales estén obligadas a llevar contabilidad, deberán observar las siguientes reglas:
+Las personas que, de acuerdo con las disposiciones fiscales, estén obligadas a llevar contabilidad deberán observar las siguientes reglas:
 
-I. Llevarán los sistemas y registros contables que señale este Código, los que establece la Ley de Hacienda del Estado y los demás ordenamientos legales que resulten aplicables;
+I. Llevarán los sistemas y registros contables que señale este Código, así como los que establecen la Ley de Hacienda del Estado y los demás ordenamientos jurídicos aplicables;
 
-II. Los asientos en la contabilidad serán analíticos y deberán, efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas;
+II. Los asientos en la contabilidad serán analíticos y deberán efectuarse dentro de los dos meses siguientes a la fecha en que se realicen las actividades respectivas;; (sic)
 
 III. Llevarán la contabilidad en su domicilio fiscal. Los contribuyentes podrán procesar a través de medios electrónicos, datos e información de su contabilidad en lugar distinto a su domicilio fiscal, sin que por ello se considere que se lleva la contabilidad fuera del domicilio mencionado.
 
-Conservar la documentación y registro comprobatorio de las erogaciones, actos o actividades o pagos relacionados con las actividades objeto de contribuciones estatales y en general del pago y entero de dichas contribuciones durante el plazo al que se refiere este Código;
+IV. Conservar la documentación y registro comprobatorio de las erogaciones, actos o actividades y pagos relacionados con las actividades objeto de contribuciones estatales, y en general del pago y entero de dichas contribuciones durante el plazo al que se refiere este Código;
 
-IV. En cuanto a las sucursales, bodegas, oficinas, agencias, establecimientos, instalaciones o locales u otras dependencias cuyo domicilio principal, no se encuentre dentro del Estado, deberán poner a disposición de las autoridades fiscales locales competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de las contribuciones estatales, así como del resto de las obligaciones fiscales estatales a su cargo.
+V. En cuanto a las sucursales, bodegas, oficinas, agencias, establecimientos, instalaciones o locales u otras dependencias cuyo domicilio principal no se encuentre dentro del Estado, deberán poner a disposición de las autoridades fiscales locales competentes, para los efectos del ejercicio de sus facultades de comprobación, los informes, documentos, registros y comprobantes que le sean solicitados, en relación con la determinación y pago de las contribuciones estatales; así como del resto de las obligaciones fiscales estatales a su cargo.
 
-Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, ésta deberá continuar llevando su contabilidad cumpliendo con los requisitos que establezca la Secretaría de Finanzas y Administración mediante reglas de carácter general.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Cuando las autoridades fiscales en ejercicio de sus facultades de comprobación mantengan en su poder la contabilidad de la persona por un plazo mayor de un mes, ésta deberá continuar llevando su contabilidad cumpliendo con los requisitos que establezca el Servicio de Administración Fiscal del Estado de Campeche mediante reglas de carácter general.
 
 Quedan incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales incluyendo las federales, los que lleven los contribuyentes aun cuando no sean obligatorios y los libros y registros sociales a que obliguen otras leyes.
 
@@ -889,11 +955,11 @@ Si se controvierten sólo determinados conceptos de la resolución administrativ
 
 Si en la declaración complementaria se determina que el pago fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 31 de este Código, a partir de la fecha en que debió hacerse el pago.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 50.
 
-Cuando las leyes fiscales establezcan la obligación de expedir comprobantes fiscales por los actos o actividades que realicen, o por los ingresos que se perciban, los contribuyentes deberán emitirlos de conformidad con el Código Fiscal de la Federación, cumpliendo con los requisitos que en el referido Código se señalan. En el caso de los contribuyentes del impuesto sobre hospedaje, los comprobantes deberán de contener adicionalmente en forma expresa y por separado el monto de este impuesto.
+Cuando las leyes fiscales establezcan la obligación de expedir comprobantes fiscales por los actos o actividades que realicen, o por los ingresos que se perciban, los contribuyentes deberán emitirlos de conformidad con el Código Fiscal de la Federación, cumpliendo con los requisitos que en el referido Código se señalan. En el caso de los contribuyentes del impuesto sobre hospedaje y a las erogaciones en juegos y concursos, los comprobantes deberán de contener adicionalmente en forma expresa y por separado el monto de este impuesto.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
 
@@ -933,15 +999,35 @@ Cuando el contribuyente, en los términos del párrafo anterior, no corrija tota
 
 ### CAPÍTULO ÚNICO. De las Atribuciones de las Autoridades Fiscales
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 56.
 
-El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalan las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 57 de este Código.
+El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias o en el supuesto previsto en el artículo 57 de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las Sociedades de Información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público de conformidad con a (sic) la Ley para Regular las Sociedades de Información Crediticia ni a la que se proporcione para efectos de la notificación por terceros a que se refiere el último párrafo del artículo 103 de este Código.
+
+La reserva a que se refiere el primer párrafo de este artículo no resulta aplicable respecto del nombre, denominación o razón social y clave del Registro Estatal de Contribuyentes de aquéllos que se encuentren en los siguientes supuestos:
+
+I. Que tengan a su cargo créditos fiscales firmes;
+
+II. Que tengan a su cargo créditos fiscales determinados, que, siendo exigibles, no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código;
+
+III. Que, estando inscritos ante el Registro Estatal de Contribuyentes, se encuentren como no localizados;
+
+IV. Que haya recaído sobre ellos sentencia condenatoria ejecutoria respecto a la comisión de un delito de carácter fiscal;
+
+V. Que tengan a su cargo créditos fiscales que hayan sido afectados en los términos de lo dispuesto por el artículo 39 de este Código;
+
+VI. Que se les hubiere condonado algún crédito fiscal.
+
+El Servicio de Administración Fiscal del Estado de Campeche publicará en su página de Internet el nombre, denominación o razón social y clave del Registro Estatal de Contribuyentes de aquéllos que se ubiquen en alguno de los supuestos a los que se refiere el párrafo anterior. Los contribuyentes que estuvieran inconformes con la publicación de sus datos, podrán llevar a cabo el procedimiento de aclaración que el Servicio de Administración Fiscal del Estado de Campeche determine mediante reglas de carácter general, en el cual podrán aportar las pruebas que a su derecho convenga. La autoridad fiscal deberá resolver el procedimiento en un plazo de tres días, contados a partir del día siguiente al que se reciba la solicitud correspondiente y, en caso de aclararse dicha situación, el Servicio de Administración Fiscal del Estado de Campeche procederá a eliminar la información publicada que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 57.
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código Fiscal, en el de la Federación, en las leyes fiscales estatales o federales, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y de cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones estatales.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código Fiscal, en el de la Federación, en las leyes fiscales estatales o federales, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder las autoridades fiscales, así como aquellos proporcionados por otras autoridades, podrán servir para motivar las resoluciones del Servicio de Administración Fiscal del Estado de Campeche y de cualquier otra autoridad u organismo descentralizado competente en materia de contribuciones estatales.
 
 Cuando otras autoridades proporcionen expedientes o documentos a las autoridades fiscales conforme a lo dispuesto en el párrafo anterior, estas últimas deberán conceder a los contribuyentes un plazo de quince días, contado a partir de la fecha en la que les den a conocer tales expedientes o documentos, para manifestar por escrito lo que a su derecho convenga, lo cual formará parte del expediente administrativo correspondiente.
 
@@ -1005,7 +1091,9 @@ V. Practicar u ordenar se practique avalúo o verificación física de toda clas
 
 VI. Recabar de los funcionarios y empleados públicos y de los fedatarios, los informes y datos que posean con motivo de sus funciones; y
 
-VII. Allegarse las pruebas necesarias para formular la querella al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la ley relativa concede a las actas de la policía judicial; y la Secretaría de Finanzas y Administración será coadyuvante del Ministerio Público Estatal.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+VII. Allegarse las pruebas necesarias para formular la querella al Ministerio Público para que ejercite la acción penal por la posible comisión de delitos fiscales. Las actuaciones que practiquen las autoridades fiscales tendrán el mismo valor probatorio que la legislación penal otorga a las actuaciones de la policía de investigación criminal y/o aquellas policías que la Ley Orgánica de la Fiscalía General del Estado determine; y el Servicio de Administración Fiscal del Estado de Campeche será coadyuvante del Ministerio Público Estatal.
 
 Las autoridades fiscales podrán ejercer estas facultades conjunta, indistinta o sucesivamente, entendiéndose que se inician con el primer acto que se notifique al contribuyente.
 
@@ -1083,7 +1171,9 @@ e) Las actividades realizadas por el contribuyente y otros datos que puedan util
 
 f) Las cantidades que resulten de aplicar la tasa del impuesto sobre nóminas sobre el salario de cotización de cada uno de los trabajadores manifestado por el patrón al Instituto Mexicano del Seguro Social; y
 
-g) En el caso de que el patrón no haya efectuado el pago de cotizaciones por sus trabajadores al Instituto Mexicano del Seguro Social, se considerará que el impuesto sobre nóminas omitido asciende al importe que resulte de aplicar la tasa del impuesto sobre nóminas sobre una cantidad equivalente a cinco salarios mínimos de la zona económica del domicilio fiscal del patrón elevado al período que se revisa, por cada trabajador a su servicio.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+g) En el caso de que el patrón no haya efectuado el pago de cotizaciones por sus trabajadores al Instituto Mexicano del Seguro Social, se considerará que el impuesto sobre nóminas omitido asciende al importe que resulte de aplicar la tasa del impuesto sobre nóminas sobre una cantidad equivalente a cinco Unidades de Medida y Actualización elevado al periodo que se revisa, por cada trabajador a su servicio.
 
 ###### Artículo 64.
 
@@ -1193,7 +1283,9 @@ VI. Tratándose de la fracción VII del artículo anterior, el plazo se suspende
 
 Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento; y
 
-VII. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Periódico Oficial del Estado y en la página de Internet de la Secretaría de Finanzas y Administración, que destine para ello mediante reglas de carácter general.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+VII. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Periódico Oficial del Estado y en la página de Internet del Servicio de Administración Fiscal del Estado de Campeche que destine para ello mediante reglas de carácter general.
 
 Cuando las autoridades no levanten el acta final de visita o no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión dentro del plazo mencionado, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
 
@@ -1307,7 +1399,9 @@ Cuando las multas no se paguen en la fecha establecida en las disposiciones fisc
 
 Para efectuar el pago de las cantidades que resulten en los términos de este artículo, las mismas se ajustarán de conformidad con el penúltimo párrafo del artículo 30 de este Código.
 
-En el caso de las infracciones relacionadas con la obligación de presentar declaraciones para efecto del impuesto sobre nómina, cuando las contribuciones causadas u omitidas, adicionadas con sus demás accesorios no rebasen 7 veces el salario mínimo general diario vigente en el Estado, la multa será de 3 a 5 veces el salario mínimo general diario vigente en el Estado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+En el caso de las infracciones relacionadas con la obligación de presentar declaraciones para efecto del impuesto sobre nómina, cuando las contribuciones causadas u omitidas, adicionadas con sus demás accesorios no rebasen 7 veces el valor diario de la Unidad de Medida y Actualización, la multa será de 3 a 5 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 76.
 
@@ -1335,21 +1429,27 @@ I. Cuando la omisión sea descubierta por las autoridades fiscales; y
 
 II. Cuando la omisión haya sido corregida por el contribuyente, después que las autoridades fiscales hubiesen notificado una orden de visita domiciliaria o haya mediado requerimiento o cualquier otra gestión notificada por las mismas, tendientes a la verificación del cumplimiento de la obligación fiscal de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 79.
 
-La Secretaría de Finanzas y Administración podrá condonar las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual apreciará discrecionalmente las circunstancias del caso y, en su caso, los motivos que tuvo la autoridad que impuso la sanción.
+El Servicio de Administración Fiscal del Estado de Campeche podrá condonar hasta el 100% las multas por infracción a las disposiciones fiscales, inclusive las determinadas por el propio contribuyente, para lo cual, mediante reglas de carácter general, se establecerán los requisitos y supuestos por los cuales procederá la condonación, así como la forma y plazos para el pago de la parte no condonada.
 
-La solicitud de condonación de multas en los términos de este artículo, no constituirá instancia y las resoluciones que dicte la Secretaría de Finanzas y Administración al respecto, no podrán ser impugnadas por el contribuyente.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+La solicitud de condonación de multas en los términos de este artículo no constituirá instancia, y las resoluciones que dicte el Servicio de Administración Fiscal del Estado de Campeche al respecto no podrán ser impugnadas por el contribuyente.
 
 La solicitud dará lugar a la suspensión del procedimiento administrativo de ejecución, si así se pide y se garantiza el interés fiscal.
 
 Sólo procederá la condonación de multas que hayan quedado firmes y siempre que un acto administrativo conexo no sea materia de impugnación.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 80.
 
-Las multas aplicables a las infracciones señaladas en este Código, se determinarán, según corresponda, en porcentajes de las contribuciones omitidas o en montos determinables entre uno mínimo y otro máximo por su equivalencia al salario mínimo general diario vigente en el área geográfica a la que corresponde el Estado de Campeche, al momento de la comisión de la infracción.
+Las multas aplicables a las infracciones señaladas en este Código se determinarán, según corresponda, en porcentajes de las contribuciones omitidas o en montos determinables entre uno mínimo y otro máximo por su equivalencia al valor diario de la Unidad de Medida y Actualización, al momento de la comisión de la infracción.
 
-En caso de infracciones continuas o continuadas, la equivalencia será con el salario mínimo general diario vigente al momento que la conducta sea descubierta por las autoridades fiscales o hayan cesado sus efectos.
+En caso de infracciones continuas o continuadas, la equivalencia será con el valor diario de la Unidad de Medida y Actualización al momento que la conducta sea descubierta por las autoridades fiscales o hayan cesado sus efectos.
 
 ###### Artículo 81.
 
@@ -1377,6 +1477,8 @@ b) Tratándose de infracciones que no impliquen omisión en el pago de contribuc
 
 Para determinar la reincidencia, se considerarán únicamente las infracciones cometidas dentro de los últimos cinco años.
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 II. También serán agravantes en la comisión de una infracción, cualquiera de los siguientes supuestos:
 
 a) Que se haga uso de documentos falsos o en los que se hagan constar operaciones inexistentes;
@@ -1387,7 +1489,7 @@ c) Que se lleven dos o más libros sociales similares con distinto contenido;
 
 d) Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad; y
 
-e) Que se microfilme o grabe en discos ópticos o en cualquier otro medio que autorice la Secretaría de Finanzas y Administración mediante reglas de carácter general, documentación o información para efectos fiscales, sin cumplir con los requisitos que establecen las disposiciones relativas. La agravante procederá sin perjuicio de que los documentos microfilmados o grabados en discos ópticos o en cualquier otro medio de los autorizados, en contravención de las disposiciones fiscales, carezcan de valor probatorio.
+e) Que se microfilme o grabe en discos ópticos, o en cualquier otro medio que autorice el Servicio de Administración Fiscal mediante reglas de carácter general, documentación o información para efectos fiscales, sin cumplir con los requisitos que establecen las disposiciones relativas. La agravante procederá sin perjuicio de que los documentos microfilmados o grabados en discos ópticos o en cualquier otro medio de los autorizados, en contravención de las disposiciones fiscales, carezcan de valor probatorio.
 
 III. La omisión en el entero de contribuciones que se hayan retenido o recaudado de los contribuyentes;
 
@@ -1407,9 +1509,13 @@ III. Del 55% al 75% de las contribuciones omitidas, en los demás casos.
 
 Si las autoridades fiscales determinan contribuciones omitidas mayores que las consideradas por el contribuyente para calcular la multa en los términos de la fracción I de este artículo, aplicarán el porcentaje que corresponda en los términos de la fracción II sobre el remanente no pagado de las contribuciones.
 
-El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-En el caso de que al aplicar los porcentajes antes descritos, arrojen una cantidad menor a 2 veces el salario mínimo general diario vigente en el Estado, la sanción será la de 2 veces ese salario mínimo.
+El pago de las multas en los términos de la fracción I de este artículo se podrá efectuar en forma total o parcial por el infractor sin necesidad de que las autoridades dicten resolución al respecto, utilizando para ello las formas especiales que apruebe el Servicio de Administración Fiscal del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+En el caso de que, al aplicar los porcentajes antes descritos, el resultado sea una cantidad menor a 2 veces el valor diario de la Unidad de Medida y Actualización, la sanción será la de 2 veces el valor diario de la Unidad de Medida y Actualización.
 
 Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, por dicha declaración también se aplicará la multa a que se refiere esta fracción.
 
@@ -1467,9 +1573,11 @@ Sólo procederá la reducción a que se refiere este artículo, respecto de mult
 
 Lo previsto en este artículo no constituye instancia y las resoluciones que se emitan por la autoridad fiscal no podrán ser impugnadas por los particulares.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 88.
 
-Los servidores públicos, que en ejercicio de sus funciones, conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a las disposiciones fiscales, lo deberán comunicar a la Secretaría de Finanzas y Administración para no incurrir en responsabilidad, dentro de los quince días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
+Los servidores públicos que, en ejercicio de sus funciones, conozcan de hechos u omisiones que entrañen o puedan entrañar infracción a las disposiciones fiscales, lo deberán comunicar al Servicio de Administración Fiscal del Estado de Campeche para no incurrir en responsabilidad, dentro de los quince días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
 
 Tratándose de funcionarios y empleado fiscales, la comunicación a que se refiere el párrafo anterior la harán en los plazos y forma establecidos en los procedimientos a que están sujetas sus actuaciones.
 
@@ -1481,157 +1589,165 @@ II. Los que participen en las tareas de asistencia al contribuyente previstas po
 
 ### CAPÍTULO II. De las Infracciones y Sanciones Relacionadas con el Registro Estatal de Contribuyentes
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 89.
 
 Son infracciones relacionadas con el Registro Estatal de Contribuyentes las que a continuación se indican, y les corresponderá la sanción que en cada caso se señala:
 
-I. No solicitar la inscripción al registro estatal de contribuyentes cuando se está obligado a ello o hacerlo fuera de los plazos legales, salvo cuando la solicitud se presente de manera espontánea: multa de 25 hasta 250 veces el salario mínimo general diario vigente en el Estado;
+I. No solicitar la inscripción al Registro Estatal de Contribuyentes cuando se está obligado a ello o hacerlo fuera de los plazos legales, salvo cuando la solicitud se presente de manera espontánea: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-II. No incluir en las manifestaciones para su inscripción en el registro estatal de contribuyentes todas las actividades por las que sea contribuyente habitual: multa de 25 hasta 250 veces el salario mínimo general diario vigente en el Estado;
+II. No incluir en las manifestaciones para su inscripción en el Registro Estatal de Contribuyentes todas las actividades por las que sea contribuyente habitual: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Obtener más de un número de clave en el registro estatal de contribuyentes para el cumplimiento de sus obligaciones: multa de 25 hasta 250 veces el salario mínimo general diario vigente en el Estado;
+III. Obtener más de un número de clave en el Registro Estatal de Contribuyentes para el cumplimiento de sus obligaciones: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. No presentar los avisos al registro estatal de contribuyentes o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea: multa de 25 hasta 250 veces el salario mínimo general diario vigente en el Estado;
+IV. No presentar los avisos al Registro Estatal de Contribuyentes o hacerlo extemporáneamente, salvo cuando la presentación sea espontánea: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-V. No citar la clave del registro o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales y jurisdiccionales, cuando se esté obligado conforme a la ley: multa de 25 hasta 250 veces el salario mínimo general diario vigente en el Estado;
+V. No citar la clave del registro o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales y jurisdiccionales, cuando se esté obligado conforme a la ley: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-VI. Señalar como domicilio fiscal para efectos del registro estatal de contribuyentes, un lugar distinto del que corresponda conforme a este Código: multa de 25 hasta 250 veces el salario mínimo general diario vigente en el Estado;
+VI. Señalar como domicilio fiscal para efectos del Registro Estatal de Contribuyentes, un lugar distinto del que corresponda conforme a este Código: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. No comparecer ante las autoridades fiscales o hacerlo fuera del plazo, a presentar, comprobar o aclarar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos que le hayan solicitado las autoridades fiscales: multa de 25 hasta 250 salarios mínimos general diario vigente en el Estado; y
+VII. No comparecer ante las autoridades fiscales o hacerlo fuera del plazo, a presentar, comprobar o aclarar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos que le hayan solicitado las autoridades fiscales: multa de 25 hasta 250 (sic) el valor diario de la Unidad de Medida y Actualización; y
 
-VIII. Destruir o remover sin estar facultado los sellos oficiales: multa de 25 hasta 250 salarios mínimos general diario vigente en el Estado.
+VIII. Destruir o remover sin estar facultado los sellos oficiales: multa de 25 hasta 250 (sic) el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO III. De las Infracciones y Sanciones Relacionadas con la Obligación de Presentar Declaraciones, Solicitudes, Avisos, Informaciones o Expedir Constancias
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 90.
 
 Son infracciones relacionadas con la presentación de declaraciones, solicitudes, avisos, informaciones o expedir constancias, las que a continuación se indican y les corresponderá la sanción que en cada caso se señala:
 
-I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-II. Presentar las declaraciones, las solicitudes, los avisos, o expedir constancias, incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales. Lo anterior no será aplicable tratándose de la presentación de la solicitud de inscripción al Registro Estatal de Contribuyentes: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+II. Presentar las declaraciones, las solicitudes, los avisos, o expedir constancias, incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales. Lo anterior no será aplicable tratándose de la presentación de la solicitud de inscripción al Registro Estatal de Contribuyentes: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Presentar declaraciones, solicitudes, avisos, datos, informes y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+III. Presentar declaraciones, solicitudes, avisos, datos, informes y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Usar más de un número de clave del registro estatal de contribuyentes para el cumplimiento de sus obligaciones: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+IV. Usar más de un número de clave del Registro Estatal de Contribuyentes para el cumplimiento de sus obligaciones: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Presentar solicitudes de devolución o compensación con documentación falsa: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+V. Presentar solicitudes de devolución o compensación con documentación falsa: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-VI. Declarar ingresos, egresos, actos o actividades afectos a impuestos locales menores a los percibidos, erogados o realizados, sin omitir pagar impuestos estatales: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+VI. Declarar ingresos, egresos, actos o actividades afectos a impuestos locales menores a los percibidos, erogados o realizados, sin omitir pagar impuestos estatales: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. Omitir la presentación de anexos en las declaraciones y avisos fiscales: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+VII. Omitir la presentación de anexos en las declaraciones y avisos fiscales: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-VIII. Declarar falsamente la información que se refiere en el artículo 116 de este Código: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado; y
+VIII. Declarar falsamente la información que se refiere en el artículo 116 de este Código: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización; y
 
-IX. Declarar falsamente la información a que se refiere en el artículo 142 párrafo último de este Código: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado.
+IX. Declarar falsamente la información a que se refiere en el artículo 142 párrafo último de este Código: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO IV. De las Infracciones y Sanciones Relacionadas con la Obligación del Pago de las Contribuciones
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 91.
 
-Son infracciones relacionadas con la obligación del pago de las contribuciones, las que a continuación se indican y les corresponderá la sanción que en cada caso se señala:
+Son infracciones relacionadas con la obligación del pago de las contribuciones las que a continuación se indican, y les corresponderá la sanción que en cada caso se señala:
 
-I. No pagar en forma total o parcial las contribuciones en los plazos señalados por las leyes fiscales: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+I. No pagar en forma total o parcial las contribuciones en los plazos señalados por las leyes fiscales: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-II. No efectuar en los términos de las disposiciones fiscales los pagos provisionales de una contribución: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado; y
+II. No efectuar en los términos de las disposiciones fiscales los pagos provisionales de una contribución: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización; y
 
-III. Incumplir el pago de las obligaciones fiscales, como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras o beneficiarse de un estímulo fiscal, sin tener derecho a ello: multa de 150 hasta 500 veces el salario mínimo general diario, vigente en el Estado.
+III. Incumplir el pago de las obligaciones fiscales, como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras o beneficiarse de un estímulo fiscal, sin tener derecho a ello: multa de 150 hasta 500 veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPÍTULO V. De las Infracciones y Sanciones Relacionadas con la Obligación de Llevar
+### CAPÍTULO V. De las Infracciones y Sanciones Relacionadas con la Obligación de Llevar Contabilidad
 
-Contabilidad
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 92.
 
 Son infracciones relacionadas con la obligación de llevar contabilidad, las que a continuación se indican, y les corresponderá la sanción que en cada caso se señala:
 
-I. No llevar contabilidad en los términos que requieran las disposiciones fiscales, llevarla en forma distinta o en lugar distinto al señalado en dichas disposiciones: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+I. No llevar contabilidad en los términos que requieran las disposiciones fiscales, llevarla en forma distinta o en lugar distinto al señalado en dichas disposiciones: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-II. No llevar algún libro o registro especial a que obliguen las disposiciones fiscales estatales; no hacer los asientos correspondientes a las operaciones efectuadas o hacerlos incompletos, inexactos o fuera de los plazos respectivos: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+II. No llevar algún libro o registro especial a que obliguen las disposiciones fiscales estatales; no hacer los asientos correspondientes a las operaciones efectuadas o hacerlos incompletos, inexactos o fuera de los plazos respectivos: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Llevar doble juego de libros sociales con distinto contenido, cuando esta situación tenga repercusión en el incumplimiento de obligaciones tributarias previstas en la legislación fiscal del Estado: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+III. Destruir, inutilizar o no conservar los libros, archivos y documentación comprobatoria, por el plazo que establezcan las disposiciones fiscales: multa de 50 hasta 500 veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Destruir, inutilizar o no conservar los libros, archivos y documentación comprobatoria, por el plazo que establezcan las disposiciones fiscales: multa de 50 hasta 500 veces el salario mínimo general diario, vigente en el Estado;
+IV. Hacer, mandar hacer, o permitir en su contabilidad anotaciones falsos (sic), asientos falsos, cuentas falsas, nombres falsos, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco cualquier anotación o constancia hecha en la contabilidad, o mandar hacer o permitir que se hagan alteraciones, raspaduras o tachaduras: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Hacer, mandar hacer, o permitir en su contabilidad anotaciones falsos, asientos falsos, cuentas falsas, nombres falsos, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco cualquier anotación o constancia hecha en la contabilidad, o mandar hacer o permitir que se hagan alteraciones, raspaduras o tachaduras: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+V. No expedir o no entregar comprobante de sus actividades, cuando las disposiciones fiscales lo establezcan, o expedirlos sin requisitos fiscales: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización; y
 
-VI. No expedir o no entregar comprobante de sus actividades, cuando las disposiciones fiscales lo establezcan, o expedirlos sin requisitos fiscales: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
-
-VII. Expedir comprobantes fiscales asentando nombre, denominación, razón social o domicilio de persona distinta a la que adquiere el bien, contrate el uso o goce temporal de bienes o el uso de servicios: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado; y
-
-VIII. Microfilmar o grabar en discos ópticos o en cualquier otro medio que autorice la Secretaría de Finanzas y Administración mediante disposiciones de carácter general, documentación o información para efectos fiscales sin cumplir con los requisitos que establecen las disposiciones relativas: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado.
+VI. Expedir comprobantes fiscales asentando nombre, denominación, razón social o domicilio de persona distinta a la que adquiere el bien, contrate el uso o goce temporal de bienes o el uso de servicios: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO VI. De las Infracciones y Sanciones Relacionadas con el Ejercicio de las Facultades de Comprobación
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 93.
 
-Son infracciones relacionadas con el ejercicio de la facultad de comprobación, las que a continuación se indican, y les corresponderá la sanción que en cada caso se señala:
+Son infracciones relacionadas con el ejercicio de la facultad de comprobación las que a continuación se indican, y les corresponderá la sanción que en cada caso se señala:
 
-I. Oponerse u obstaculizar la iniciación o desarrollo de las visitas domiciliarias para comprobar el cumplimiento de las obligaciones fiscales: multa de 50 hasta 500 veces el salario mínimo general diario, vigente en el Estado;
+I. Oponerse u obstaculizar la iniciación o desarrollo de las visitas domiciliarias para comprobar el cumplimiento de las obligaciones fiscales: multa de 50 hasta 500 veces el valor diario de la Unidad de Medida y Actualización;
 
-II. No suministrar o suministrar fuera de los plazos legales los datos e informes que legalmente exijan las autoridades fiscales: multa de 50 hasta 500 veces el salario mínimo general diario, vigente en el Estado;
+II. No suministrar o suministrar fuera de los plazos legales los datos e informes que legalmente exijan las autoridades fiscales: multa de 50 hasta 500 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos o resistirse por cualquier otro medio, a la investigación fiscal, para comprobar la situación del contribuyente, así como no conservar la contabilidad o parte de ella y la correspondencia a disposición de las autoridades fiscales, en el plazo que establecen las leyes fiscales: multa de 25 hasta 250 veces el salario mínimo general diario vigente en el Estado;
+III. Negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos o resistirse por cualquier otro medio, a la investigación fiscal, para comprobar la situación del contribuyente, así como no conservar la contabilidad o parte de ella y la correspondencia a disposición de las autoridades fiscales, en el plazo que establecen las leyes fiscales: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito: multa de 125 hasta 620 veces el salario mínimo general diario, vigente en el Estado; y
+IV. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito: multa de 125 hasta 620 veces el valor diario de la Unidad de Medida y Actualización; y
 
-V. Declarar falsamente que cumplen los requisitos que se señalan en el artículo 87 de este Código: multa de 125 hasta 620 veces el salario mínimo general diario, vigente en el Estado.
+V. Declarar falsamente que cumplen los requisitos que se señalan en el artículo 87 de este Código: multa de 125 hasta 620 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO VII. De las Infracciones y Sanciones de las Responsabilidad que Recaen sobre Terceros
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 94.
 
 Son infracciones cuya responsabilidad corresponde a terceros, las que a continuación se indican y a cada uno corresponderá la sanción que en cada caso se señala:
 
-I. No proporcionar avisos, informes, datos y documentos, o no exhibirlos en el plazo fijado por las disposiciones fiscales cuando las autoridades lo soliciten: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+I. No proporcionar avisos, informes, datos y documentos, o no exhibirlos en el plazo fijado por las disposiciones fiscales cuando las autoridades lo soliciten: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-II. Presentar avisos, informes, datos y documentos referidos en la fracción anterior, incompletos o inexactos: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado;
+II. Presentar avisos, informes, datos y documentos referidos en la fracción anterior, incompletos o inexactos: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Proporcionar avisos, informes, datos y documentos a que se refieren las fracciones anteriores, alterados o falsificados: multa de 50 hasta 500 veces el salario mínimo general diario, vigente en el Estado;
+III. Proporcionar avisos, informes, datos y documentos a que se refieren las fracciones anteriores, alterados o falsificados: multa de 50 hasta 500 veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Autorizar o hacer constar documentos, inventarios, estados financieros, asientos o datos falsos, cuando actúen como contadores, comisarios, o peritos: multa de 125 hasta 620 veces el salario mínimo general diario, vigente en el Estado;
+IV. Autorizar o hacer constar documentos, inventarios, estados financieros, asientos o datos falsos, cuando actúen como contadores, comisarios, o peritos: multa de 125 hasta 620 veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribución, o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan: multa de 50 hasta 500 veces el salario mínimo general diario, vigente en el Estado;
+V. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribución, o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan: multa de 50 hasta 500 veces el valor diario de la Unidad de Medida y Actualización;
 
-VI. Alterar o destruir sellos oficiales: multa de 50 hasta 500 veces el salario mínimo general diario, vigente en el Estado;
+VI. Alterar o destruir sellos oficiales: multa de 50 hasta 500 veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. Oponerse u obstaculizar el inicio o desarrollo de las visitas domiciliarias: multa de 50 hasta 500 veces el salario mínimo general diario, vigente en el Estado;
+VII. Oponerse u obstaculizar el inicio o desarrollo de las visitas domiciliarias: multa de 50 hasta 500 veces el valor diario de la Unidad de Medida y Actualización;
 
-VIII. Consentir o tolerar que se inscriban a su nombre en el registro estatal de contribuyentes negociaciones ajenas; percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando esto traiga como consecuencia la omisión de una obligación fiscal: multa de 125 hasta 620 veces el salario mínimo general diario, vigente en el Estado;
+VIII. Consentir o tolerar que se inscriban a su nombre en el Registro Estatal de Contribuyentes negociaciones ajenas; percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando esto traiga como consecuencia la omisión de una obligación fiscal: multa de 125 hasta 620 veces el valor diario de la Unidad de Medida y Actualización;
 
-IX. Adquirir bienes en contravención de lo señalado en el artículo 186 de éste Código: multa de 125 hasta 620 veces el salario mínimo general diario, vigente en el Estado; y
+IX. Adquirir bienes en contravención de lo señalado en el artículo 186 de éste Código: multa de 125 hasta 620 veces el valor diario de la Unidad de Medida y Actualización; y
 
-X. Intervenir en cualquier forma en la alteración de documentos, inscripciones de cuentas, asientos o datos falsos en los libros o registros relativos a la contabilidad: multa de 25 hasta 250 veces el salario mínimo general diario, vigente en el Estado.
+X. Intervenir en cualquier forma en la alteración de documentos, inscripciones de cuentas, asientos o datos falsos en los libros o registros relativos a la contabilidad: multa de 25 hasta 250 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 95.
 
 Son infracciones cuya responsabilidad recae sobre los servidores públicos del Estado, así como sobre los encargados de servicio público y organismos oficiales, y a cada uno corresponde la sanción que en cada caso se señala:
 
-I. Recibir el pago de una prestación fiscal y no enterar su importe en la caja recaudadora en los términos que determinan las disposiciones fiscales: multa de 15 a 150 veces el salario mínimo general diario, vigente en el Estado;
+I. Recibir el pago de una prestación fiscal y no enterar su importe en la caja recaudadora en los términos que determinan las disposiciones fiscales: multa de 15 a 150 veces el valor diario de la Unidad de Medida y Actualización;
 
-II. No exigir el pago total de las prestaciones fiscales, aprovechamientos y sus demás accesorios correspondientes, y recaudar, permitir u ordenar que se reciba el pago en forma diversa a la prevista en las disposiciones fiscales: multa de 15 a 100 veces el salario mínimo general diario, vigente en el Estado;
+II. No exigir el pago total de las prestaciones fiscales, aprovechamientos y sus demás accesorios correspondientes, y recaudar, permitir u ordenar que se reciba el pago en forma diversa a la prevista en las disposiciones fiscales: multa de 15 a 100 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. No prestar auxilio a las autoridades fiscales cuando estén obligados a ello en los términos de las disposiciones legales: multa de 15 a 100 veces el salario mínimo general diario, vigente en el Estado;
+III. No prestar auxilio a las autoridades fiscales cuando estén obligados a ello en los términos de las disposiciones legales: multa de 15 a 100 veces el valor diario de la Unidad de Medida y Actualización;
 
-IV. Alterar documentos fiscales que tengan en su poder: multa de 15 a 150 veces el salario mínimo general diario, vigente en el Estado;
+IV. Alterar documentos fiscales que tengan en su poder: multa de 15 a 150 veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Asentar falsamente en documentos que se ha dado cumplimiento a las disposiciones fiscales o que se ejercieron facultades de comprobación o incluir en las actas u oficios relativos al ejercicio de las facultades de comprobación datos falsos: multa de 15 a 200 veces el salario mínimo general diario, vigente en el Estado;
+V. Asentar falsamente en documentos que se ha dado cumplimiento a las disposiciones fiscales o que se ejercieron facultades de comprobación o incluir en las actas u oficios relativos al ejercicio de las facultades de comprobación datos falsos: multa de 15 a 200 veces el valor diario de la Unidad de Medida y Actualización;
 
-VI. No ejecutar una orden de revisión del cumplimiento de las obligaciones fiscales o un mandamiento de ejecución tendiente a iniciar el procedimiento administrativo de ejecución cuando tengan obligación de hacerlo: multa de 15 a 150 veces el salario mínimo general diario, vigente en el Estado;
+VI. No ejecutar una orden de revisión del cumplimiento de las obligaciones fiscales o un mandamiento de ejecución tendiente a iniciar el procedimiento administrativo de ejecución cuando tengan obligación de hacerlo: multa de 15 a 150 veces el valor diario de la Unidad de Medida y Actualización;
 
-VII. Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales: multa de 60 a 120 veces el salario mínimo general diario, vigente en el Estado;
+VII. Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales: multa de 60 a 120 veces el valor diario de la Unidad de Medida y Actualización;
 
-VIII. Adquirir los bienes objeto de un remate fiscal por sí o por medio de interpósita persona: multa de 15 a 150 veces el salario mínimo general diario, vigente en el Estado;
+VIII. Adquirir los bienes objeto de un remate fiscal por sí o por medio de interpósita persona: multa de 15 a 150 veces el salario valor diario de la Unidad de Medida y Actualización;
 
-IX. Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los contribuyentes o aprovecharse de ellos: multa de 100 a 250 veces el salario mínimo general diario, vigente en el Estado;
+IX. Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los contribuyentes o aprovecharse de ellos: multa de 100 a 250 veces el valor diario de la Unidad de Medida y Actualización;
 
-X. Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento y cooperar en cualquier forma para que se eludan las prestaciones fiscales: multa de 30 a 120 veces el salario mínimo general diario, vigente en el Estado;
+X. Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento y cooperar en cualquier forma para que se eludan las prestaciones fiscales: multa de 30 a 120 veces el valor diario de la Unidad de Medida y Actualización;
 
-XI. Exigir bajo el título de cooperación o colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en la ley: multa de 15 a 150 veces el salario mínimo general diario, vigente en el Estado;
+XI. Exigir bajo el título de cooperación o colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en la ley: multa de 15 a 150 veces el valor diario de la Unidad de Medida y Actualización;
 
-XII. Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos sin que exista constancia de que se pagó el derecho correspondiente: multa de 15 a 200 veces el salario mínimo general diario, vigente en el Estado; y
+XII. Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos sin que exista constancia de que se pagó el derecho correspondiente: multa de 15 a 200 veces el valor diario de la Unidad de Medida y Actualización; y
 
-XIII. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes: multa de 40 a 90 veces el salario mínimo general diario, vigente en el Estado.
+XIII. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes: multa de 40 a 90 veces el valor diario de la Unidad de Medida y Actualización.
 
 ### CAPÍTULO VIII. De la Clausura
 
@@ -1643,7 +1759,9 @@ La clausura procederá:
 
 I. En el caso de que una persona física o moral o unidad económica, realice alguna actividad de cualquier índole sin las autorizaciones, licencias o permisos, que de conformidad con las leyes fiscales sean requisitos indispensables para su funcionamiento;
 
-II. En los casos en que el interés del fisco del Estado, derivado de obligaciones a cargo de sujetos pasivos, pudiera quedar insoluto, porque el obligado pretenda trasladar, ocultar o enajenar a cualquier título los bienes de su propiedad o aquellos que constituyan garantía del interés fiscal, sin perjuicio de que en este caso la Secretaría de Finanzas y Administración pueda embargar precautoriamente los bienes a que se refiere esta fracción en el mismo acto de la notificación; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+II. En los casos en que el interés del fisco del Estado, derivado de obligaciones a cargo de sujetos pasivos, pudiera quedar insoluto, porque el obligado pretenda trasladar, ocultar o enajenar a cualquier título los bienes de su propiedad o aquellos que constituyan garantía del interés fiscal, sin perjuicio de que en este caso el Servicio de Administración Fiscal del Estado de Campeche pueda embargar precautoriamente los bienes a que se refiere esta fracción en el mismo acto de la notificación; y
 
 III. Cuando el contribuyente omita el pago de sus contribuciones en tres ocasiones consecutivas.
 
@@ -1663,9 +1781,11 @@ III. Las clausuras deberán ser ejecutadas en días y horas hábiles, pero en ca
 
 En el acto de clausura deberán observarse las mismas formalidades que establece este Código para las visitas domiciliarias.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 98.
 
-Una vez clausurado un local o establecimiento, la Secretaría de Finanzas y Administración podrá levantar la clausura en los casos que correspondan, cuando hubiere cesado la causa por la que se ordenó y se hayan pagado las multas aplicadas y demás créditos fiscales o cuando exista resolución de autoridad judicial, laboral o administrativa competente.
+Una vez clausurado un local o establecimiento, el Servicio de Administración Fiscal del Estado de Campeche podrá levantar la clausura en los casos que correspondan, cuando hubiere cesado la causa por la que se ordenó y se hayan pagado las multas aplicadas y demás créditos fiscales o cuando exista resolución de autoridad judicial, laboral o administrativa competente.
 
 ## TÍTULO SEXTO. Procedimientos Administrativos
 
@@ -1685,9 +1805,11 @@ Quien promueva a nombre de otro deberá acreditar que la representación le fue 
 
 Las promociones deberán presentarse acompañado de los anexos que se requieran, y contener por lo menos los siguientes requisitos, que prevé el artículo 16 de este Código.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 101.
 
-En toda promoción por escrito que se dirija a las autoridades fiscales del Estado, los promoventes evitarán hacer uso de palabras o frases que ofendan a las mismas o a los servidores públicos en el ejercicio de las facultades establecidas por la legislación fiscal, bajo pena de hacerse acreedores a una corrección disciplinaria, consistente en una multa de 20 a 40 veces el salario mínimo general diario vigente en la Entidad, sin perjuicio de la responsabilidad penal en que pudiera incurrir. La calificación de la ofensa e imposición de la multa corresponderá al Secretario de Finanzas y Administración quien podrá delegar esta facultad a los servidores públicos que él determine.
+En toda promoción por escrito que se dirija a las autoridades fiscales del Estado, los promoventes evitarán hacer uso de palabras o frases que ofendan a las mismas o a los servidores públicos en el ejercicio de las facultades establecidas por la legislación fiscal, bajo pena de hacerse acreedores a una corrección disciplinaria, consistente en una multa de 20 a 40 veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de la responsabilidad penal en que pudiera incurrir. La calificación de la ofensa e imposición de la multa corresponderá al Servicio de Administración Fiscal del Estado de Campeche quien podrá delegar esta facultad a los servidores públicos que determine.
 
 ###### Artículo 102.
 
@@ -1709,6 +1831,8 @@ Si se trata de resoluciones administrativas que determinen la responsabilidad so
 
 ### CAPÍTULO II. De las Notificaciones
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 103.
 
 Las notificaciones de los actos administrativos se harán:
@@ -1717,9 +1841,9 @@ I. Personalmente o por correo certificado con acuse de recibo, cuando se trate d
 
 II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
-III. Por estrados, cuando la persona a quien deba notificarse, se oponga a la diligencia de notificación, o desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al registro estatal de contribuyentes, después de que se le haya notificado un mandamiento tendiente a comprobar el cumplimiento de sus obligaciones fiscales, y antes de un año contado a partir de dicha notificación, o bien, después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos; y en los demás casos que señalen las leyes fiscales y este Código;
+III. Por estrados, cuando la persona a quien deba notificarse, no sea localizable en el domicilio que haya señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, o desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes, después de que se le haya notificado un mandamiento tendiente a comprobar el cumplimiento de sus obligaciones fiscales, y antes de un año contado a partir de dicha notificación, o bien, después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos; y en los demás casos que señalen las leyes fiscales y este Código;
 
-IV. Por edictos, cuando se desconozca el domicilio del interesado, cambie de domicilio sin presentar el aviso correspondiente con excepción de los caos (sic) señalados en el párrafo anterior, o se encuentre fuera del territorio del Estado sin haber dejado representante legal o hubiere fallecido y no se conozca al representante de la sucesión; y
+IV. Por edictos, cuando se desconozca el domicilio del interesado, cambie de domicilio sin presentar el aviso correspondiente con excepción de los casos señalados en el párrafo anterior, o se encuentre fuera del territorio del Estado sin haber dejado representante legal o hubiere fallecido y no se conozca al representante de la sucesión; y
 
 V. Por instructivo, en los casos y con las formalidades a que se refiere el artículo 106 de este Código.
 
@@ -1728,6 +1852,8 @@ Cuando se trate de notificaciones o actos relacionados con personas radicadas en
 Los impuestos y sus accesorios exigibles por otros Estados de la República cuya recaudación y cobro le sea solicitado al Estado de Campeche de conformidad con los convenios de colaboración que sobre asistencia mutua en el cobro se celebren, le serán aplicables las disposiciones de esté Código referentes a la notificación y ejecución de los créditos fiscales.
 
 Las notificaciones que deban hacerse a las autoridades, se harán siempre por oficio. También podrán realizarse mediante el uso de medios electrónicos o cualquier otro medio, siempre que pueda comprobarse fehacientemente su recepción.
+
+El Servicio de Administración Fiscal del Estado de Campeche podrá habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo con las formalidades previstas en este Código y conforme a las reglas generales que para tal efecto establezca el Servicio de Administración Fiscal del Estado de Campeche.
 
 ###### Artículo 104.
 
@@ -1751,7 +1877,9 @@ En los casos de sociedades en liquidación, cuando se hubieran nombrado varios l
 
 Cuando la notificación se deba efectuar personalmente y el notificador no encuentre a quien deba notificar o a su representante legal, dejará citatorio con quien se encuentre en el domicilio, para que espere a una hora fija del día hábil siguiente, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio.
 
-Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, a la hora señalada en el citatorio, se practicará la diligencia con quién se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina recaudadora.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+El citatorio será siempre para la espera antes señalada y si la persona citada o su representante legal no esperaren, a la hora señalada en el citatorio, se practicará la diligencia con quién se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina recaudadora.
 
 Si el citatorio se realizó para efectos de que se acudiera a las oficinas de la autoridad para recibir la notificación, y el interesado o su representante legal no acudiesen, la notificación se hará por estrados en los términos del artículo 108 de este Código.
 
@@ -1759,9 +1887,11 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Tratándose de los honorarios a que se refiere el párrafo que antecede, la autoridad los determinará conjuntamente con la notificación y se pagarán al cumplir con el requerimiento.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 107.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el salario mínimo general diario vigente del área geográfica que corresponde el Estado de Campeche, sin perjuicio de las demás responsabilidades que en su caso resulten procedentes.
+Cuando se deje sin efectos una notificación practicada ilegalmente se impondrá al notificador una multa de diez veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las demás responsabilidades que en su caso resulten procedentes.
 
 ###### Artículo 108.
 
@@ -1783,41 +1913,45 @@ Se tendrá como fecha de notificación la de la última publicación.
 
 ### CAPÍTULO III. De la Garantía del Interés Fiscal
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 110.
 
 Los contribuyentes podrán garantizar el interés fiscal en alguna de las formas siguientes:
 
-I. Depósito en dinero ante las oficinas recaudadoras del Estado;
+I. Depósito en efectivo, carta crédito u otras formas de garantía financiera que autorice el Servicio de Administración Fiscal del Estado de Campeche mediante reglas de carácter general;
 
 II. Prenda o hipoteca;
 
-III. Fianza otorgada por institución autorizada, la que no gozará de los beneficios de orden y excusión;
+III. Fianza otorgada por institución autorizada, la que no gozará de los beneficios de orden y excusión. Para los efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica avanzada o el sello digital de la afianzadora;
 
 IV. Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia;
 
 V. Embargo en la vía administrativa; y
 
-VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije la Secretaría de Finanzas y Administración.
+VI. Títulos valor o cartera de créditos del propio contribuyente, en caso de que se demuestre la imposibilidad de garantizar la totalidad del crédito mediante cualquiera de las fracciones anteriores, los cuales se aceptarán al valor que discrecionalmente fije el Servicio de Administración Fiscal del Estado de Campeche.
 
 La garantía deberá comprender, además de las contribuciones adeudadas, los accesorios causados, así como de los que se causaren en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá ampliarse la garantía para que cubra el crédito y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
-Las garantías se otorgarán a favor de la Secretaría de Finanzas y Administración y deberán reunir los requisitos que establece este Código. La dependencia citada vigilará que las garantías que se otorguen sean suficientes tanto en el momento de su aceptación como con posterioridad, y si no lo fueren, exigirá su ampliación o procederá al embargo de otros bienes.
+Las garantías se otorgarán a favor del Estado de Campeche y deberán reunir los requisitos que establece este Código. La dependencia citada vigilará que las garantías que se otorguen sean suficientes tanto en el momento de su aceptación como con posterioridad, y si no lo fueren, exigirá su ampliación o procederá al embargo de otros bienes.
 
 En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía.
 
-La garantía deberá constituirse dentro de los quince días siguientes a la fecha en que se origine cualquiera de los supuestos previstos en el artículo 112 de este Código sobre lo cual se deba garantizar el interés fiscal.
+La garantía deberá constituirse dentro de los treinta días siguientes a aquél en que surta efectos la notificación efectuada por la autoridad fiscal correspondiente a la resolución sobre la cual se deba garantizar el interés fiscal conforme a lo establecido en el artículo 112 de este Código, salvo en los casos en que se indique un plazo diferente en otros preceptos de este Código.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 111.
 
-La garantía del interés fiscal relativa a los créditos fiscales a que se refieren los artículos 25 y 115 de este Código, se otorgará a favor de la Secretaría de Finanzas y Administración.
+La garantía del interés fiscal relativa a los créditos fiscales a que se refieren los artículos 25 y 115 de este Código, se otorgará a favor del Estado de Campeche.
 
 Las garantías subsistirán hasta que proceda su cancelación en los términos de este Código.
 
 Los gastos que se originen con motivo de la garantía serán por cuenta del interesado.
 
-En los casos que conforme a las leyes, los particulares estén obligados a otorgar garantía al Gobierno Estatal, la misma se hará a favor de la Secretaría de Finanzas y Administración y se aplicará en lo conducente lo dispuesto por este artículo.
+En los casos que, conforme a otras leyes, los particulares estén obligados a otorgar garantía a favor del Estado de Campeche, la misma se hará efectiva a través del Servicio de Administración Fiscal del Estado de Campeche y se aplicará en lo conducente lo dispuesto por este artículo.
 
-Para los efectos de la fracción I del artículo 110 de este Código, el depósito de dinero, generará intereses calculados conforme a las tasas que para este caso señale la Secretaría de Finanzas y Administración, debiendo permanecer la cantidad original en depósito, mientras subsista la obligación de garantizar, pudiendo retirarse los intereses que se generen.
+Para los efectos de la fracción I del artículo 110 de este Código, el depósito de dinero generará intereses calculados conforme a las tasas que para este caso señale el Servicio de Administración Fiscal del Estado de Campeche, debiendo permanecer la cantidad original en depósito, mientras subsista la obligación de garantizar, pudiendo retirarse los intereses que se generen.
 
 ###### Artículo 112.
 
@@ -1833,27 +1967,29 @@ IV. En los demás casos que señalen este ordenamiento y las leyes fiscales.
 
 No se otorgará garantía respecto de gastos de ejecución, salvo que el interés fiscal esté constituido únicamente por éstos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 113.
 
-Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del artículo 110 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
+Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del artículo 110 de este Código se harán efectivas a través del procedimiento administrativo de ejecución.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
+Si la garantía consiste en depósito de dinero, en alguna entidad financiera o sociedad cooperativa de ahorro y préstamo, una vez que el crédito fiscal quede firme se ordenará su aplicación por el Servicio de Administración Fiscal del Estado de Campeche.
 
-Si la garantía consiste en depósito de dinero, una vez que el crédito fiscal quede firme, se ordenará su aplicación por la Secretaría de Finanzas de la Administración Pública del Estado de Campeche.
+Tratándose de fianza a favor del Estado de Campeche, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se harán efectivas de conformidad con lo establecido en la Ley de Instituciones de Seguros y de Fianzas.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2012)</small>
-
-Tratándose de fianza a favor de la Secretaría de Finanzas de la Administración Pública Estatal, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se harán efectivas de conformidad con lo establecido en la Ley Federal de Instituciones de Fianzas.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 114.
 
-No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de cuarenta y cinco días siguientes a la fecha en que surta efectos la notificación.
+No se ejecutarán los actos administrativos cuando se garantice el interés fiscal satisfaciendo todos los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de treinta días siguientes a la fecha en que surta efectos la notificación.
 
-Si a más tardar al vencimiento del plazo citado se acredita la impugnación que se hubiere intentado y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el procedimiento administrativo de ejecución.
+Si a más tardar al vencimiento del plazo citado se acredita la impugnación que se hubiere intentado y se garantiza el interés fiscal cumpliendo con todos los requisitos legales, se suspenderá el procedimiento administrativo de ejecución.
 
-Cuando el contribuyente hubiere interpuesto en tiempo y forma el recurso de revocación previsto en éste Código, el plazo para garantizar el interés fiscal será de tres meses siguientes a partir de la fecha en que se interponga el referido medio de defensa, debiendo el interesado acreditar ante la autoridad fiscal que lo interpuso oportunamente, a fin de suspender el procedimiento administrativo de ejecución.
+Cuando el contribuyente hubiere interpuesto en tiempo y forma el recurso de revocación, previsto en éste Código, no estará obligado a exhibir la garantía correspondiente sino hasta que sea resuelto dicho medio de defensa.
 
-Cuando en el medio de defensa se impugnen únicamente algunos de los créditos determinados por el acto administrativo, cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados con los recargos correspondientes.
+Para efectos del párrafo anterior, el contribuyente contará con un plazo de diez días siguientes a aquél en que haya surtido efectos la notificación de la resolución que recaiga al recurso de revocación para pagar o garantizar los créditos fiscales en términos de lo dispuesto en este Código.
+
+Cuando en el medio de defensa se impugnen únicamente algunos de los créditos determinados por el acto administrativo cuya ejecución fue suspendida, se pagarán los créditos fiscales no impugnados con los recargos correspondientes.
 
 ###### Artículo 115.
 
@@ -1879,11 +2015,15 @@ El Superior ordenará a la autoridad ejecutora que suspenda provisionalmente el 
 
 Para los efectos de la fracción II del artículo 110 de este Código, la prenda o hipoteca se constituirá sobre los siguientes bienes:
 
-I. Bienes muebles, por el 75% de su valor siempre que estén libres de gravámenes hasta por ese porcentaje. La Secretaría de Finanzas y Administración podrá autorizar a instituciones y a corredores públicos para valuar o mantener en depósito determinados bienes. Deberá inscribirse la prenda en el registro que corresponda cuando los bienes en que recaiga estén sujetos a esta formalidad. No serán admisibles como garantía los bienes que se encuentren en dominio fiscal o en el de acreedores. Los de procedencia extranjera, sólo se admitirán cuando se compruebe su legal estancia en el país; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+I. Bienes muebles, por el 75% de su valor siempre que estén libres de gravámenes hasta por ese porcentaje. El Servicio de Administración Fiscal del Estado de Campeche podrá autorizar a instituciones y a corredores públicos para valuar o mantener en depósito determinados bienes. Deberá inscribirse la prenda en el registro que corresponda cuando los bienes en que recaiga estén sujetos a esta formalidad. No serán admisibles como garantía los bienes que se encuentren en dominio fiscal o en el de acreedores. Los de procedencia extranjera, sólo se admitirán cuando se compruebe su legal estancia en el país; y
 
 II. Bienes inmuebles, por el 75% del valor de avalúo o valor catastral. Para estos efectos se deberá acompañar a la solicitud respectiva el certificado del Registro Público de la Propiedad y de Comercio en el que no aparezca anotado algún gravamen ni afectación urbanística o agraria, que hubiera sido expedido cuando más con cinco días de anticipación. En el supuesto de que el inmueble reporte gravámenes, la suma del monto total de éstos y el interés fiscal a garantizar, no podrá exceder del 75% del valor.
 
-En la hipoteca, el otorgamiento de la garantía se hará en escritura pública que deberá inscribirse en el Registro Público de la Propiedad y de Comercio y contener los datos relacionados con el crédito fiscal. El otorgante podrá garantizar con la misma hipoteca los recargos futuros o ampliar la garantía cada año en los términos del artículo 122 de este Código. Las referidas escrituras deberán ser suscritas por la autoridad ejecutora de la Secretaría de Finanzas y Administración que tenga encomendado el cobro del crédito fiscal, y el otorgante de la garantía hipotecaria.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+En la hipoteca, el otorgamiento de la garantía se hará en escritura pública que deberá inscribirse en el Registro Público de la Propiedad y de Comercio y contener los datos relacionados con el crédito fiscal. El otorgante podrá garantizar con la misma hipoteca los recargos futuros o ampliar la garantía cada año en los términos del artículo 122 de este Código. Las referidas escrituras deberán ser suscritas por la autoridad ejecutora del Servicio de Administración Fiscal del Estado de Campeche que tenga encomendado el cobro del crédito fiscal, y el otorgante de la garantía hipotecaria.
 
 ###### Artículo 119.
 
@@ -1895,7 +2035,9 @@ Para que un tercero asuma la obligación de garantizar por cuenta de otro, se ot
 
 Para los efectos de la fracción IV del artículo 110 de este Código, para que un tercero asuma la obligación de garantizar el interés fiscal, deberá sujetarse a lo siguiente:
 
-I. Manifestar su aceptación por escrito, firmado ante notario público o ante la autoridad recaudadora que tenga encomendado el cobro del crédito fiscal, requiriéndose en este caso la presencia de dos testigos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+I. Manifestar su aceptación por escrito, firmado ante notario público o ante la autoridad recaudadora que tenga encomendado el cobro del crédito fiscal, requiriéndose en este caso la presencia de dos testigos. Además, el escrito a que se refiere esta fracción deberá detallar los bienes sobre los cuales recaerá primeramente la obligación solidaria asumida;
 
 II. Cuando sea persona moral, la que garantice el interés fiscal, el monto de la garantía deberá ser menor al 10% de su capital social, siempre que dicha persona no haya tenido pérdida fiscal para efectos del impuesto sobre la renta en los dos últimos ejercicios de doce meses o que, aún teniéndola, ésta no haya excedido de un 10% de su capital social; y
 
@@ -1919,7 +2061,9 @@ V. Deberán cubrirse, con anticipación a la práctica de la diligencia de embar
 
 La garantía del interés fiscal se ofrecerá por el interesado ante la autoridad fiscal competente, para que la califique, acepte si procede y le dé el trámite correspondiente.
 
-La autoridad recaudadora para calificar la garantía ofrecida deberá verificar que se cumplan los requisitos que establece este Código en cuanto a la clase de la garantía ofrecida, el motivo por el cual se otorgó y que su importe cubre los conceptos que señala el artículo 110 de este Código; cuando no se cumplan, la autoridad requerirá al promovente, a fin de que en un plazo de cinco días contados a partir del día siguiente a aquél en que se le notifique dicho requerimiento, cumpla con el requisito omitido; en caso contrario no se aceptará la garantía.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+La autoridad recaudadora para calificar la garantía ofrecida deberá verificar que se cumplan los requisitos que establece este Código en cuanto a la clase de la garantía ofrecida, el motivo por el cual se otorgó y que su importe cubre los conceptos que señala el artículo 110 de este Código; cuando no se cumplan, la autoridad requerirá al promovente, a fin de que en un plazo de quince días contados a partir del día siguiente a aquél en que se le notifique dicho requerimiento, cumpla con el requisito omitido; en caso contrario no se aceptará la garantía.
 
 ###### Artículo 123.
 
@@ -1965,9 +2109,11 @@ I. La preferencia corresponderá al fisco que tenga a su favor créditos por imp
 
 II. En los demás casos, la preferencia corresponderá al fisco que tenga el carácter de primer embargante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 128.
 
-Cuando en el procedimiento administrativo de ejecución concurran contra un mismo deudor, el fisco estatal con los fiscos municipales, fungiendo éstos como autoridad estatal de conformidad con los convenios respectivos, la Secretaría de Finanzas y Administración iniciará o continuará, según sea el caso, con el procedimiento administrativo de ejecución por todos los créditos fiscales omitidos.
+Cuando en el procedimiento administrativo de ejecución concurran contra un mismo deudor el fisco estatal con los fiscos municipales, fungiendo éstos como autoridad estatal de conformidad con los convenios respectivos, el Servicio de Administración Fiscal del Estado de Campeche iniciará o continuará, según sea el caso, con el procedimiento administrativo de ejecución por todos los créditos fiscales omitidos.
 
 El producto obtenido en los términos de este artículo, se aplicará a cubrir los créditos fiscales en el orden siguiente:
 
@@ -1989,9 +2135,21 @@ La vigencia y exigibilidad del crédito cuya preferencia se invoque deberá comp
 
 Cuando se inicie juicio universal, de quiebra, suspensión de pagos o de concurso, el juez que conozca del asunto deberá dar aviso a las autoridades fiscales para que, en su caso, hagan exigibles los créditos fiscales a su favor a través del procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 130.
 
-Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, los contribuyentes estarán obligados a pagar los gastos de ejecución.
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, los contribuyentes estarán obligados a pagar el 2% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican:
+
+I. Por el requerimiento de pago;
+
+II. Por la de embargo, incluyendo el precautorio;
+
+III. Por la de remate, enajenación fuera de remate o adjudicación al fisco Estatal.
+
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a cinco veces el valor diario de la Unidad de Medida y Actualización se cobrará este valor.
+
+En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de dos veces el valor anual de la Unidad de Medida y Actualización.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo entre otros, los que deriven de los embargos señalados en los artículos 60 fracción II y 110 fracción V de este Código, los gastos de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones o cancelaciones en el Registro Público de la Propiedad y de Comercio que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los peritos, de las personas que contraten los interventores y de los depositarios, salvo cuando dicho nombramiento recaiga en el propio ejecutado, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen, bienes que sean objeto de remate.
 
@@ -2001,13 +2159,13 @@ Los gastos de ejecución los determinará la autoridad ejecutora, debiendo pagar
 
 La autoridad recaudadora vigilará que los gastos extraordinarios que se efectúen sean los estrictamente indispensables y que no excedan a las contraprestaciones normales del mercado, debiendo con excepción de los depositarios, contratar a las personas que designe el deudor, salvo que a juicio del jefe de la oficina recaudadora, la persona propuesta no tenga los medios para prestar el servicio.
 
-Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a cubrir las erogaciones realizadas por el fisco del Estado y para financiar los programas de formación de funcionarios fiscales, así como al pago de honorarios de quienes intervengan en el procedimiento administrativo de ejecución.
+Los ingresos recaudados por concepto de gastos de ejecución se destinarán a cubrir las erogaciones realizadas por el fisco del Estado y para financiar los programas de formación de funcionarios fiscales, así como al pago de honorarios de quienes intervengan en el procedimiento administrativo de ejecución.
 
 No se cobrarán los gastos de ejecución a que se refiere este artículo, cuando los créditos fiscales respecto de los cuales se ejerció el procedimiento administrativo de ejecución que dio lugar a dichos gastos, hayan quedado insubsistentes en su totalidad mediante resolución o sentencia definitiva dictada por autoridad competente.
 
 Cuando el requerimiento y el embargo se lleven a cabo en una misma diligencia, se efectuará un solo cobro por concepto de gastos de ejecución.
 
-Los honorarios a que se refiere el penúltimo párrafo del artículo 106 de éste Código serán por la cantidad de un salario mínimo general diario, vigente en el Estado.
+Los honorarios a que se refiere el penúltimo párrafo del artículo 106 de éste Código serán por la cantidad de 5 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 131.
 
@@ -2019,15 +2177,19 @@ Las autoridades fiscales, para la determinación del monto de los gastos de ejec
 
 #### Sección Segunda. Del Embargo
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 133.
 
-Se podrá practicar embargo precautorio, sobre los bienes o la negociación del contribuyente, para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero se haya determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo.
+Las autoridades fiscales exigirán el pago de los créditos fiscales, que no hubieren sido cubiertos o garantizados dentro de los plazos señalados por la Ley, mediante procedimiento administrativo de ejecución.
 
-La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones del embargo.
+Se podrá practicar embargo precautorio sobre los bienes o la negociación del contribuyente, para asegurar el interés fiscal, cuando el crédito fiscal no sea exigible pero se haya determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista peligro inminente de que el obligado realice cualquier maniobra tendiente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo.
 
-La autoridad requerirá al obligado para que dentro del término de 10 días desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento. Transcurrido el plazo antes señalado, sin que el obligado hubiera desvirtuado el monto del embargo precautorio éste quedará firme.
+La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones del mismo.
 
-El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución.
+La autoridad requerirá al obligado para que dentro del término de 10 días desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento. Transcurrido el plazo antes señalado, sin que el obligado hubiera desvirtuado el monto del embargo precautorio, éste quedará firme.
+
+El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución.
 
 Si el particular garantiza el interés fiscal en los términos del artículo 110 de éste Código, se levantará el embargo.
 
@@ -2077,13 +2239,17 @@ Si la notificación del crédito fiscal adeudado o del requerimiento, en su caso
 
 Si al estar practicando la diligencia de embargo, el deudor hiciera el ofrecimiento de pago inmediato del crédito fiscal, el ejecutor suspenderá dicha diligencia, siempre y cuando el deudor comparezca de inmediato ante la oficina recaudadora correspondiente, donde se concluirá el acta respectiva, debiendo dejar debida constancia del pago del crédito.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 139.
 
-Los bienes o negociaciones embargados se dejarán bajo la guarda del o de los depositarios que se hicieren necesarios. Los jefes de las oficinas recaudadoras bajo su responsabilidad nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales. Cuando se efectúe la remoción del depositario, éste deberá poner a disposición de la autoridad ejecutora los bienes que fueron objeto de la depositaría, pudiendo ésta realizar, la sustracción de los bienes para depositarlos en almacenes bajo su resguardo o entregarlos al nuevo depositario.
+Los bienes o negociaciones embargados se dejarán bajo la guarda del o de los depositarios que se hicieren necesarios. Los jefes de las oficinas recaudadoras bajo su responsabilidad nombrarán y removerán libremente a los depositarios, quienes desempeñarán su cargo conforme a las disposiciones legales. Cuando se efectúe la remoción del depositario, éste deberá poner a disposición de la autoridad ejecutora los bienes que fueron objeto de la depositaría, pudiendo ésta realizar la sustracción de los bienes para depositarlos en almacenes bajo su resguardo o entregarlos al nuevo depositario.
 
 En los embargos de bienes inmuebles o de negociaciones, los depositarios tendrán el carácter de administradores o de interventores con cargo a la caja, según el caso, con las facultades y obligaciones señaladas en los artículos 155, 156 y 157 de este Código.
 
 La responsabilidad de los depositarios cesará con la entrega de los bienes embargados a satisfacción de las autoridades fiscales.
+
+El ejecutor podrá colocar sellos o marcas oficiales con los que se identifiquen los bienes embargados, lo cual se hará constar en el acta a que se refiere el primer párrafo del artículo 137 de este Código.
 
 El depositario será designado por el ejecutor cuando no lo hubiere hecho el jefe de la oficina recaudadora, pudiendo recaer el nombramiento en el ejecutado.
 
@@ -2095,7 +2261,11 @@ El embargo podrá ampliarse en cualquier momento del procedimiento administrativ
 
 La persona con quien se entienda la diligencia de embargo, tendrá derecho a señalar los bienes en que éste se deba trabar, siempre que los mismos sean de fácil realización o venta, sujetándose al orden siguiente:
 
-I. Dinero, metales preciosos, alhajas y depósitos bancarios;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+I. Dinero, metales preciosos, alhajas y depósitos bancarios; componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro.
+
+En el caso de que se embarguen depósitos bancarios, otros depósitos o seguros del contribuyente a que se refiere el párrafo anterior, el monto del embargo sólo podrá ser hasta por el importe del crédito fiscal actualizado y sus accesorios legales que correspondan hasta la fecha en que se practique, ya sea en una o más cuentas. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
 
 II. Acciones, bonos, cupones vencidos, valores mobiliarios y en general créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación y municipios, así como de instituciones o empresas particulares de reconocida solvencia;
 
@@ -2120,6 +2290,64 @@ b) Bienes que ya reporten cualquier gravamen real o algún embargo anterior; y
 c) Bienes de fácil descomposición o deterioro o materias inflamables.
 
 El ejecutor deberá señalar, invariablemente, bienes que sean de fácil realización o venta. En el caso de bienes inmuebles, el ejecutor solicitará al deudor o a la persona con quien se entienda la diligencia, que manifieste bajo protesta de decir verdad si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a sociedad conyugal alguna. Para estos efectos, el deudor o la persona con quien se entienda la diligencia deberá acreditar fehacientemente dichos hechos dentro de los quince días siguientes a aquél en que se inició la diligencia correspondiente, haciéndose constar esta situación en el acta que se levante o bien, su negativa.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 142
+
+Bis.- La autoridad fiscal procederá a la inmovilización de depósitos bancarios, seguros o cualquier otro depósito en moneda nacional o extranjera que se realice en cualquier tipo de cuenta que tenga a su nombre el contribuyente en las entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, a excepción de los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, de acuerdo con lo siguiente:
+
+I. Cuando los créditos fiscales se encuentren firmes.
+
+II. Tratándose de créditos fiscales que se encuentren impugnados y no estén debidamente garantizados, procederá la inmovilización en los siguientes supuestos:
+
+a) Cuando el contribuyente no se encuentre localizado en su domicilio o desocupe el local donde tenga su domicilio fiscal sin presentar el aviso de cambio de domicilio al Registro Estatal de Contribuyentes;
+
+b) Cuando no esté debidamente asegurado el interés fiscal por resultar insuficiente la garantía ofrecida;
+
+c) Cuando la garantía ofrecida sea insuficiente y el contribuyente no haya efectuado la ampliación requerida por la autoridad;
+
+d) Cuando se hubiera realizado el embargo de bienes cuyo valor sea insuficiente para satisfacer el interés fiscal o se desconozca el valor de éstos.
+
+Sólo procederá la inmovilización hasta por el importe del crédito fiscal y sus accesorios o, en su caso, hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir los mismos a la fecha en que se lleve a cabo la inmovilización. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+La autoridad fiscal solicitará mediante oficio dirigido a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, a efecto de que éstas últimas realicen la inmovilización y conserven los fondos depositados. Para efectos de lo anterior, la inmovilización deberán realizarla a más tardar al tercer día siguiente a aquel en que les fue notificado el oficio de la autoridad fiscal.
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización de los depósitos o seguros en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la solicitó, a más tardar al tercer día siguiente a la fecha en que se ejecutó, señalando el número de las cuentas, así como el importe total que fue inmovilizado. La autoridad fiscal notificará al contribuyente sobre dicha inmovilización, a más tardar al tercer día siguiente a aquél en que le hubieren comunicado ésta.
+
+En los casos en que el contribuyente, la entidad financiera, sociedades de ahorro y préstamo o de inversiones y valores, haga del conocimiento de la autoridad fiscal que la inmovilización se realizó en una o más cuentas del contribuyente por un importe mayor al señalado en el segundo párrafo de este artículo, ésta deberá solicitar a más tardar dentro de los tres días siguientes a aquél en que hubiere tenido conocimiento de la inmovilización en exceso, que se libere la cantidad correspondiente. Dichas entidades o sociedades cooperativas de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos inmovilizados en exceso, a más tardar al tercer día siguiente a aquél en que surta efectos la notificación del oficio de la autoridad fiscal.
+
+En caso de que en las cuentas a que se refiere el primer párrafo del presente artículo, no existan recursos suficientes para garantizar el crédito fiscal y sus accesorios, la entidad financiera o la sociedad cooperativa de ahorro y préstamo de que se trate, deberá efectuar una búsqueda en su base de datos, a efecto de determinar si el contribuyente tiene otras cuentas con recursos suficientes para tal efecto. De ser el caso, la entidad o sociedad procederá a inmovilizar a más tardar dentro de los tres días siguientes a aquél en que se les solicite la inmovilización y conservar los recursos depositados hasta por el monto del crédito fiscal. En caso de que se actualice este supuesto, la entidad o sociedad correspondiente deberá notificarlo a la autoridad fiscal, dentro del plazo de tres días contados a partir de la fecha de inmovilización, a fin de que dicha autoridad realice la notificación que proceda conforme al párrafo anterior.
+
+La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberá informar a la autoridad fiscal a que se refiere el primer párrafo de este artículo, el incremento de los depósitos por los intereses que se generen, en el mismo período y frecuencia con que lo haga al cuentahabiente
+
+Los fondos de la cuenta del contribuyente únicamente podrán transferirse cuando el crédito fiscal relacionado, incluyendo sus accesorios, quede firme y hasta por el importe que resulte suficiente para cubrirlo a la fecha en que se realice la transferencia.
+
+En los casos en que el crédito fiscal incluyendo sus accesorios, aún no quede firme, el contribuyente titular de las cuentas inmovilizadas podrá, de acuerdo con el artículo 110 de este Código, ofrecer una garantía que comprenda el importe del crédito fiscal, incluyendo sus accesorios a la fecha de ofrecimiento. La autoridad deberá resolver y notificar al contribuyente sobre la admisión o rechazo de la garantía ofrecida, o el requerimiento de requisitos adicionales, dentro de un plazo máximo de cinco días siguientes a la presentación de la garantía. La autoridad tendrá la obligación de comunicar a la entidad financiera o la sociedad cooperativa de ahorro y préstamo el sentido de la resolución, enviándole copia de la misma, dentro del plazo de cinco días siguientes a aquél en que haya notificado dicha resolución al contribuyente, si no lo hace durante el plazo señalado, la entidad o sociedad de que se trate levantará la inmovilización de la cuenta.
+
+En ningún caso procederá la inmovilización de los depósitos o seguros, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando, previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 142
+
+Ter.- En los casos en que el crédito fiscal se encuentre firme, la autoridad fiscal procederá como sigue:
+
+I. Si la autoridad fiscal tiene inmovilizadas cuentas en entidades financieras o sociedades cooperativas de ahorro y préstamo, o de inversiones y valores, y el contribuyente no ofreció una forma de garantía del interés fiscal suficiente antes de que el crédito fiscal quedara firme, la autoridad fiscal solicitará a la entidad financiera o sociedad cooperativa la transferencia de los recursos hasta por el monto del crédito fiscal, o hasta por el importe en que la garantía que haya ofrecido el contribuyente no alcance a cubrir el mismo. La entidad financiera o la sociedad cooperativa de ahorro y préstamo deberán informar a la autoridad fiscal, dentro de los tres días posteriores a la solicitud de transferencia, el monto transferido y acompañar el comprobante que acredite el traspaso de los fondos a la cuenta de la autoridad fiscal que corresponda.
+
+II. Si el interés fiscal se encuentra garantizado en alguna forma distinta a las establecidas en las fracciones I y III, del artículo 110 de este Código, la autoridad fiscal procederá a requerir al contribuyente para que efectúe el pago del crédito fiscal en el plazo de cinco días siguientes a la notificación del requerimiento. En caso de no efectuarlo, la autoridad fiscal podrá, indistintamente, hacer efectiva la garantía ofrecida, o proceder en los términos de la fracción anterior, a la transferencia de los recursos respectivos. En este caso, una vez que la entidad financiera o la sociedad cooperativa de ahorro y préstamo, informe a la autoridad fiscal haber transferido los recursos suficientes para cubrir el crédito fiscal, la autoridad fiscal deberá proceder en un plazo máximo de tres días, a liberar la garantía otorgada por el contribuyente.
+
+III. Si el interés fiscal se encuentra garantizado en alguna de las formas establecidas en las fracciones I y III, del artículo 110 de este Código, la autoridad fiscal procederá a hacer efectiva la garantía, y
+
+IV. Si el interés fiscal no se encuentra garantizado, la autoridad fiscal podrá proceder a la transferencia de recursos en los términos de la fracción I de este artículo.
+
+En los casos indicados en este artículo, las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores deberán informar a la autoridad fiscal que solicitó la transferencia el monto transferido, a más tardar al tercer día siguiente de la fecha en que ésta se realizó. La autoridad fiscal deberá notificar al contribuyente la transferencia de los recursos, conforme a las disposiciones aplicables, a más tardar al tercer día siguiente a aquél en que se hizo de su conocimiento la referida transferencia.
+
+Si al transferirse el importe el contribuyente considera que éste es superior al crédito fiscal, deberá demostrar tal hecho ante la autoridad fiscal con prueba documental suficiente, para que dicha autoridad proceda al reintegro de la cantidad transferida en exceso en un plazo no mayor de veinte días a partir de que se notifique al contribuyente la transferencia de los recursos. Si a juicio de la autoridad fiscal las pruebas no son suficientes, se lo notificará dentro del plazo antes señalado, haciéndole saber que puede hacer valer el recurso de revocación correspondiente, o bien, presentar juicio contencioso administrativo.
+
+El fisco estatal será preferente para recibir la transferencia de fondos de las cuentas inmovilizadas de los contribuyentes para el pago de créditos provenientes de ingresos que la Federación debió percibir, en los mismos términos establecidos en el artículo 129 de este Código.
+
+En los casos en que el fisco Estatal y los fiscos municipales, concurrentemente ordenen en contra de un mismo deudor la inmovilización de fondos o seguros con base en lo previsto en el artículo anterior, la transferencia de fondos se sujetará al orden que establece el artículo 128 de este Código.
 
 ###### Artículo 143.
 
@@ -2159,13 +2387,19 @@ Esas informaciones no obligarán a la oficina ejecutora a levantar el embargo so
 
 De la diligencia de embargo, el acta pormenorizada con todos los detalles y circunstancias que concurran que se levante al efecto, independientemente, de los requisitos que debe llenar conforme a lo señalado por este Código, deberá ser suscrita por el ejecutor, por el deudor, por el o los depositarios en los casos en que sea necesario su nombramiento o nombramientos, así como por dos testigos de asistencia del acto. Si el deudor o los testigos se negaren a firmar o no supieren hacerlo se hará constar esta circunstancia. Lo asentado por el ejecutor hará prueba plena mientras no se demuestre su falsedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 145.
 
-Cuando los bienes sobre los que deba trabarse un aseguramiento en términos del artículo 134 de este Código, hubiesen sido previamente asegurados por una autoridad fiscal federal, el Secretario de Finanzas y Administración, procederá en la forma siguiente:
+Cuando los bienes sobre los que deba trabarse un aseguramiento, en términos del artículo 134 de este Código, hubiesen sido previamente asegurados por una autoridad fiscal federal, el Servicio de Administración Fiscal del Estado de Campeche procederá en la forma siguiente:
 
-I. Si el aseguramiento de la autoridad fiscal federal es anterior, se designará un representante de la Hacienda Pública del Estado, en términos del Reglamento Interior de la Secretaría de Finanzas y Administración, que en defensa de los intereses del erario local, haga valer las acciones, excepciones y recursos procedentes para que el crédito fiscal y sus accesorios sean cubiertos de acuerdo con la preferencia que les otorguen las leyes; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-II. Si el aseguramiento de la autoridad fiscal federal es posterior, el depositario nombrado en el expediente administrativo o quien los substituya, dará facilidades al representante del fisco federal para el cobro de los créditos fiscales que le corresponda, debiéndose aplicar los principios de preferencia a que se refiere este Código.
+I. Si el aseguramiento de la autoridad fiscal federal es anterior, se designará un representante de la Hacienda Pública del Estado, en términos del Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche que en defensa de los intereses del erario local, haga valer las acciones, excepciones y recursos procedentes para que el crédito fiscal y sus accesorios sean cubiertos de acuerdo con la preferencia que les otorguen las leyes; y
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+II. Si el aseguramiento de la autoridad federal es posterior, el depositario nombrado en el expediente administrativo, o quien lo sustituya, dará facilidades al representante del fisco federal para el cobro de los créditos fiscales que le correspondan, aplicando las reglas de preferencia a que se refiere este Código.
 
 ###### Artículo 146.
 
@@ -2173,7 +2407,9 @@ Cuando se acredite que los bienes señalados estuvieren ya embargados por otras 
 
 Si los bienes señalados para la ejecución hubieran sido embargados por autoridades fiscales federales o municipales, se practicará la diligencia haciéndose constar dicha situación en el acta y se dará aviso a dichas autoridades, para que estén en posibilidad de hacer valer sus derechos de prelación y preferencia en el cobro.
 
-En tanto se resuelve el procedimiento respectivo no se hará aplicación del ingreso de la venta o remate del bien embargado, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+En tanto se resuelve el procedimiento respectivo no se hará aplicación del ingreso de la venta o remate del bien embargado, salvo que se garantice el interés fiscal a satisfacción del Servicio de Administración Fiscal del Estado de Campeche.
 
 ###### Artículo 147.
 
@@ -2217,9 +2453,11 @@ Cualquier otra dificultad que se suscite, tampoco impedirá la continuación de 
 
 Terminada la diligencia de embargo, el ejecutor devolverá el expediente al jefe de la oficina recaudadora para que verifique si se ha cumplido en sus términos el procedimiento administrativo de ejecución. En caso contrario, mandará reponerlo a partir de la deficiencia substancial que apareciere.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 153.
 
-El procedimiento administrativo de ejecución será radicado en la oficina recaudadora que corresponda al domicilio del deudor, pero la Secretaría de Finanzas y Administración podrá trasladarlo a cualquier otra demarcación para la práctica de una, algunas, o todas las diligencias respectivas.
+El procedimiento administrativo de ejecución será radicado en la oficina recaudadora que corresponda al domicilio del deudor, pero el Servicio de Administración Fiscal del Estado de Campeche podrá trasladarlo a cualquier otra demarcación para la práctica de una, algunas, o todas las diligencias respectivas.
 
 #### Sección Tercera. De la Intervención
 
@@ -2229,9 +2467,13 @@ Cuando las autoridades fiscales embarguen negociaciones, el depositario designad
 
 En la intervención de negociaciones serán aplicables, en lo conducente, las secciones de este Capítulo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 155.
 
 El interventor encargado de la caja después de separar las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, deberá retirar de la negociación intervenida el 10% de los ingresos en dinero y enterarlos en la caja de la oficina recaudadora diariamente o a medida que se efectúe la recaudación.
+
+Los movimientos de las cuentas bancarias y de inversiones de la negociación intervenida, por conceptos distintos a los señalados en el párrafo anterior, que impliquen retiros, traspasos, transferencias, pagos o reembolsos, deberán ser aprobados previamente por el interventor, quien además llevará un control de dichos movimientos.
 
 Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco estatal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta al jefe de la oficina recaudadora, el que podrá ratificarlas o modificarlas.
 
@@ -2287,23 +2529,29 @@ I. A partir del día siguiente a aquél en que hubiese quedado firme la base en 
 
 II. Al quedar firme la resolución confirmatoria del acto impugnado, recaído en los medios de defensa que se hubieren hecho valer.
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+III. Cuando el embargado no proponga comprador dentro del plazo a que se refiere la fracción I del Artículo 189 de este Código.
+
 ###### Artículo 164.
 
 Salvo los casos que este Código autoriza, toda enajenación se hará en subasta pública que se celebrará en el local de la oficina recaudadora.
 
 La autoridad con objeto de obtener un mayor rendimiento, podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes o piezas sueltas.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 165.
 
-La base para enajenación de los bienes inmuebles embargados y para negociaciones, será el precio que arroje el avalúo pericial, y en los demás casos, la que fijen de común acuerdo la autoridad y el embargado, en un plazo de seis días contados a partir de la fecha en que se hubiera practicado el embargo. A falta de acuerdo, la autoridad practicará avalúo pericial. En todos los casos, la autoridad notificará personalmente al embargado el valor que se determinó como base para la enajenación de los bienes conforme el avalúo practicado.
+La base para enajenación de los bienes inmuebles embargados es el avalúo y para negociaciones será el precio que arroje el avalúo pericial, ambos conforme a las reglas que establezca este Código, en los demás casos la autoridad practicará avalúo pericial. En todos los casos, la autoridad notificará personalmente al embargado el valor que se determinó como base para la enajenación de los bienes conforme el avalúo practicado.
 
-El embargado o terceros acreedores preferentes que no estén conformes con la valuación hecha, podrán hacer valer sin que en este caso sea opcional, el recurso de revocación a que se refiere la fracción II, inciso d) del artículo 197 de este Código, dentro de los diez días siguientes a aquél en que surta efectos la notificación a que se refiere el párrafo anterior, debiendo designar en el mismo como perito de su parte a cualquiera de los valuadores señalados en este Código o alguna empresa o institución dedicada a la compraventa y subasta de bienes.
+El embargado o terceros acreedores, que no estén conformes con la valuación hecha, podrán hacer valer el recurso de revocación a que se refiere la fracción II, inciso b) del artículo 197, en relación con el 200 de este Código, debiendo designar en el mismo como perito de su parte a cualquiera de los valuadores señalados en este Código o alguna empresa o institución dedicada a la compraventa y subasta de bienes.
 
-Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo legal o haciéndolo, no designen valuador o habiéndose nombrado perito por dichas personas, no se presente el dictamen dentro de los plazos a que se refiere el párrafo quinto de este artículo, se tendrá por aceptado el avalúo hecho por la autoridad.
+Cuando el embargado o terceros acreedores no interpongan el recurso dentro del plazo establecido en el artículo 200 de este Código, o haciéndolo no designen valuador, o habiéndose nombrado perito por dichas personas no se presente el dictamen dentro de los plazos a que se refiere el párrafo quinto de este artículo, se tendrá por aceptado el avalúo hecho por la autoridad.
 
 Cuando del dictamen rendido por el perito del embargado o terceros acreedores resulte un valor superior a un 10% al determinado conforme al primer párrafo de este artículo, el jefe de la oficina recaudadora designará dentro del término de seis días, un perito tercero valuador o alguna empresa o institución dedicada a la compraventa y subasta de bienes. El avalúo que se fije será la base para la enajenación de los bienes.
 
-En todos los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de diez días si se trata de bienes muebles, veinte días si son inmuebles y treinta días cuando sean negociaciones, a partir de la fecha de su aceptación.
+En todos los casos a que se refieren los párrafos que anteceden, los peritos deberán rendir su dictamen en un plazo de cinco días si se trata de bienes muebles, diez días si son inmuebles y quince días cuando sean negociaciones, a partir de la fecha de su aceptación.
 
 ###### Artículo 166.
 
@@ -2327,9 +2575,11 @@ En aquellos casos en que después de realizado el avalúo se lleven a cabo const
 
 Cuando exista imposibilidad para la realización de un avalúo de un inmueble, ya sea por la negativa u oposición por parte de los habitantes, o por cualquier otra razón, éste se podrá realizar basándose en las constancias que existan en diferentes dependencias estatales o municipales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 170.
 
-El remate deberá ser convocado al día siguiente de haber quedado firme el avalúo, para que tenga verificativo dentro de los treinta días siguientes. La convocatoria se hará cuando menos diez días antes del inicio del periodo señalado para el remate y la misma se mantendrá en los lugares o medios que haya fijado o dado a conocer hasta la conclusión del remate.
+El remate deberá ser convocado al día siguiente de haberse efectuado la notificación del avalúo, para que tenga verificativo dentro de los veinte días siguientes. La convocatoria se hará cuando menos diez días antes del inicio del período señalado para el remate y la misma se mantendrá en los lugares o medios en que se haya fijado o dado a conocer hasta la conclusión del remate.
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente, además, la convocatoria se dará a conocer en la página electrónica de las autoridades fiscales. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberá cumplir los postores para concurrir al mismo.
 
@@ -2359,47 +2609,73 @@ La autoridad ejecutora podrá enajenar a plazos los bienes embargados en los cas
 
 Para los efectos del artículo anterior, la autoridad recaudadora podrá enajenar a plazos los bienes embargados cuando no haya postura para adquirirse de contado y siempre que el comprador garantice el saldo del adeudo más los intereses que correspondan en alguna de las formas señaladas en el artículo 110 de este Código. Durante los plazos concedidos se causarán intereses iguales a los recargos exigibles para el caso de pago a plazo de los créditos fiscales.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 176.
 
-Al escrito en que se haga la postura se acompañará necesariamente un certificado de depósito por el diez por ciento, cuando menos, del valor fijado a los bienes en la convocatoria, expedido por la propia oficina recaudadora.
+La postura deberá presentarse por escrito o a la dirección electrónica que se indique en la convocatoria de remate, mediante documento digital electrónico conforme a las reglas de carácter general que emita el Servicio de Administración Fiscal del Estado de Campeche, en estos se hará la postura y se acompañará necesariamente un certificado de depósito por el diez por ciento, cuando menos, del valor fijado a los bienes en la convocatoria, expedido por la propia oficina recaudadora.
 
 El importe de los depósitos que se constituyan de acuerdo con lo que establece el presente artículo, servirá de garantía para el cumplimiento de obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados.
 
-Inmediatamente después de fincado el remate, previa orden de la autoridad ejecutora, se devolverán los certificados de depósito a los postores o las cantidades depositadas en la propia oficina, excepto el que corresponda al admitido, cuyo valor continuará como garantía del cumplimiento de su obligación, y, en su caso, como parte del precio de venta.
+Inmediatamente después de fincado el remate, previa orden de la autoridad ejecutora, se devolverán los certificados de depósito a los postores o las cantidades depositadas en la propia oficina, excepto el que corresponda al admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de venta.
+
+El Servicio de Administración Fiscal del Estado de Campeche, a través de reglas de carácter general, podrá establecer facilidades administrativas respecto al procedimiento de remate para la utilización de la firma electrónica avanzada u otros medios de identificación electrónica.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 177.
 
-El escrito en que se haga la postura deberá contener:
+El escrito o documento digital electrónico en que se haga la postura, deberá contener los siguientes datos:
 
-I. Nombre, edad, nacionalidad y domicilio del postor; si fuere una sociedad, los datos principales de su constitución;
+I. Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor y, en su caso, la clave del Registro Estatal de Contribuyentes. Tratándose de personas morales, el nombre o razón social, la fecha de constitución, la clave del Registro Estatal de Contribuyentes en su caso y el domicilio social;
 
-II. Las cantidades que se ofrezcan; y
+II. La cantidad que se ofrezca;
 
-III. La cantidad que se ofrezca, separando la cantidad al contado y los términos en que haya de pagarse la diferencia, en su caso.
+III. La dirección de correo electrónico y el domicilio para oír y recibir notificaciones;
+
+IV. El monto y certificado de depósito que haya realizado.
+
+Si las posturas no cumplen los requisitos a que se refieren las fracciones anteriores y los que se señalen en la convocatoria, el Servicio de Administración Fiscal del Estado de Campeche no las calificará como posturas legales, situación que se hará del conocimiento del interesado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 178.
 
-El día y hora señalados en la convocatoria, el jefe de la oficina recaudadora, después de pasar lista de las personas que hubieren presentado postura, hará saber a los presentes qué posturas fueron calificadas como legales y cuál es la mejor de ellas, concediendo plazos sucesivos de cinco minutos, hasta que la última postura no sea mejorada.
+En la página electrónica del Servicio de Administración Fiscal del Estado de Campeche se especificará el período correspondiente a cada remate, el registro de los postores y las posturas que se reciban, así como la fecha y hora de su recepción.
 
-El jefe de la oficina recaudadora fincará el remate en favor de quien hubiere hecho la mejor postura.
+Cada subasta tendrá una duración de cinco días que empezará a partir de las 12:00 horas del primer día y concluirá a las 12:00 horas del quinto día. En dicho período los postores presentarán sus posturas y podrán mejorar las propuestas. Para los efectos de este párrafo se entenderá que las 12:00 horas corresponden a la zona horaria centro a la que pertenece Campeche.
 
-Si en la última postura se ofrece igual suma de contado, por dos o más licitantes, se designará en favor del que represente mayor solvencia a juicio del recaudador y como última instancia, por suerte la que deba aceptarse.
+El Servicio de Administración Fiscal del Estado de Campeche, si dentro de los veinte minutos previos al vencimiento del plazo de remate recibe una postura que mejore las anteriores, determinará que el remate no se cierre conforme al término mencionado en el párrafo precedente, en este caso y a partir de las 12:00 horas del día de que se trate, se concederá (sic) plazos sucesivos, de 5 minutos cada uno, hasta que la última postura no sea mejorada. Una vez transcurrido el último plazo sin que se reciba una mejor postura se tendrá por concluido el remate.
+
+El remate se fincará en favor de quien haya hecho la mejor postura. Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se aceptará la primera postura que se haya recibido.
+
+Una vez fincado el remate se comunicará por escrito o en la página electrónica el resultado del mismo a los postores que hubieren participado, remitiendo el acta que al efecto se levante al postor ganador.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 179.
 
-Cuando el postor en cuyo favor se hubiere fincado un remate, no cumpla con las obligaciones que contraiga y las que este Código señala, perderá el importe del depósito que hubiere constituido y se aplicará, por las oficinas recaudadoras a favor del erario del Estado, como compensación de los perjuicios ocasionados. En este caso se reanudarán las almonedas en la forma y plazos que señalan los artículos respectivos.
+Cuando el postor en cuyo favor se hubiere fincado un remate no cumpla con las obligaciones que contraiga y las que este Código señala, perderá el importe del depósito que hubiere constituido y se aplicará, por el Servicio de Administración Fiscal de Campeche, a favor del erario del Estado como compensación de los perjuicios ocasionados. En este caso se reanudarán las almonedas en la forma y plazos que señalan los artículos respectivos.
+
+La autoridad podrá adjudicar el bien al postor que haya presentado la segunda postura de compra más alta y así sucesivamente, siempre que dicha postura sea mayor o igual al precio base de enajenación fijado. Al segundo o siguientes postores les serán aplicables los mismos plazos para el cumplimiento de las obligaciones del postor ganador.
+
+En caso de incumplimiento de los postores, se iniciará nuevamente la almoneda en la forma y plazos que señalan los artículos respectivos.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 180.
 
-Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor enterará en la caja de la oficina recaudadora, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
+Fincado el remate de bienes muebles se aplicará el depósito constituido. Dentro de los tres días siguientes a la fecha del remate, el postor enterará en la caja del Servicio de Administración Fiscal del Estado de Campeche, o en la forma que conforme a las reglas de carácter general que al efecto se expidan, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
 
-Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas o documentación comprobatoria de la enajenación de los mismos, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
+Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que, dentro de un plazo de tres días hábiles, entregue las facturas, comprobantes fiscales digitales o documentación comprobatoria de la enajenación de los mismos, apercibido de que si no lo hace la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
 
 Posteriormente, la autoridad deberá entregar al adquirente, conjuntamente con estos documentos, los bienes que le hubiere adjudicado. Una vez adjudicados los bienes muebles al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo se causarán gastos de almacenaje a partir del día siguiente. Cuando el monto del derecho por el almacenaje sea igual o superior al valor en que se adjudicarán los bienes, éstos se aplicarán a cubrir los adeudos que se generen por este concepto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 181.
 
-Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro del plazo de los diez días siguientes a la fecha del remate, el postor enterará en la caja de la oficina recaudadora el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
+Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro del plazo de los diez días siguientes a la fecha del remate, el postor enterará en la caja del Servicio de Administración Fiscal del Estado de Campeche o en la forma que conforme a las reglas de carácter general que al efecto se expidan, el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
 
 Hecho el pago a que se refiere el párrafo anterior y designado en su caso el notario por el postor, se citará al ejecutado para que, dentro del plazo de diez días, otorgue y firme la escritura de venta correspondiente, apercibido de que, si no lo hace, el jefe de la oficina recaudadora lo hará en su rebeldía.
 
@@ -2409,11 +2685,13 @@ El ejecutado, aún en el caso de rebeldía, responde por la evicción y los vici
 
 Los gastos de la escritura que deba otorgarse con arreglo al artículo 180 serán por cuenta de los compradores.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 183.
 
-Los bienes inmuebles pasarán a ser propiedad de los adquirentes libres de gravámenes y a fin de que éstos se cancelen el jefe de la oficina recaudadora que finque el remate, deberá comunicar al Registro Público de la Propiedad y de Comercio, la transmisión de dominio de los inmuebles, en un plazo que no excederá de quince días.
+Los bienes inmuebles pasarán a ser propiedad de los adquirentes libres de gravámenes, y a fin de que éstos se cancelen el Servicio de Administración Fiscal del Estado de Campeche deberá comunicar al Registro Público de la Propiedad y de Comercio la transmisión de dominio de los inmuebles, en un plazo que no excederá de quince días.
 
-Los encargados del Registro Público de la Propiedad y de Comercio, deberán inscribir las traslaciones de dominio de bienes inmuebles que resulten de los remates celebrados por las oficinas recaudadoras y procederán a hacer las cancelaciones de gravámenes que sean procedentes como consecuencia de la traslación o adjudicación.
+Los encargados del Registro Público de la Propiedad y de Comercio deberán inscribir las traslaciones de dominio de bienes inmuebles que resulten de los remates celebrados por el Servicio de Administración Fiscal del Estado de Campeche, y procederán a hacer las cancelaciones de gravámenes que sean procedentes como consecuencia de la traslación o adjudicación.
 
 ###### Artículo 184.
 
@@ -2443,11 +2721,19 @@ III. En caso de posturas o pujas iguales.
 
 La adjudicación se hará al valor que corresponda para la almoneda de que se trate.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 188.
 
-Cuando no se hubiere fincado el remate en la primera almoneda, se fijará nueva fecha y hora para que, dentro de los quince días siguientes, se lleve a cabo una segunda almoneda, cuya convocatoria se hará en los mismos términos del artículo 170 de este Código, con la salvedad de que la publicación se hará por una sola vez.
+Cuando no hubiera postores o no se hubieran presentado posturas legales, la autoridad se adjudicará el bien. En este caso el valor de la adjudicación será el 60% del valor del avalúo.
 
-La base para el remate en segunda almoneda será fijada deduciendo un 20% de la señalada para la primera. Si tampoco se fincare el remate en la segunda almoneda, se considerará que el bien fue enajenado en un 50% del valor del avalúo, aceptándose como dación en pago para el efecto de que la autoridad pueda adjudicárselo, enajenarlo o donarlo para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas conforme a las leyes de la materia.
+Los bienes que se adjudiquen a favor del fisco estatal, podrán ser donados para obras o servicios públicos, o a instituciones asistenciales o de beneficencia autorizadas conforme a las leyes de la materia.
+
+La adjudicación se tendrá por formalizada una vez que la autoridad ejecutora firme el acta de adjudicación correspondiente.
+
+Cuando la traslación de bienes se deba inscribir en el Registro Público de la Propiedad y de Comercio, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho Registro.
+
+Los bienes adjudicados por las autoridades fiscales de conformidad con lo dispuesto en este artículo, serán considerados, para todos los efectos legales, como bienes no sujetos al régimen del dominio público del Estado, hasta en tanto sean destinados o donados para obras o servicios públicos en los términos de este artículo.
 
 ###### Artículo 189.
 
@@ -2457,17 +2743,19 @@ I. El embargado proponga comprador antes del día en que se finque el remate, se
 
 II. Se trate de bienes de fácil descomposición o deterioro, o materiales inflamables, siempre que en la localidad no se puedan guardar o depositar en lugares apropiados para su conservación;
 
-III. Se trate de bienes que habiendo salido a remate en primera almoneda, no se hubieran presentado postores; y
+III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2016)
 
-IV. El embargado proponga comprador antes del día en que se finque el remate, se enajenen o adjudiquen los bienes a favor del fisco, siempre que el precio en que se vendan cubra el valor que se haya señalado a los bienes embargados.
+IV. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2016)
 
 ###### Artículo 190.
 
-En el supuesto señalado en la fracción III del artículo anterior, las autoridades fiscales podrán hacer la enajenación directamente o encomendarla a empresas o instituciones dedicadas a la compraventa o subasta de bienes.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2016)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 191.
 
-Con el producto del remate se pagará el interés fiscal consistente en:
+El producto obtenido del remate, enajenación o adjudicación de los bienes al fisco, se aplicará a cubrir el crédito fiscal en el orden siguiente:
 
 I. Los gastos de ejecución y erogaciones extraordinarias que comprenderán:
 
@@ -2491,15 +2779,17 @@ En tanto no se hubieran rematado, enajenado o adjudicado los bienes, el embargad
 
 Una vez realizado el pago por el embargado o cuando obtenga resolución o sentencia favorable derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes que obliguen a las autoridades a entregar los mismos, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición y en caso de no hacerlo se causarán gastos por el almacenaje a partir del día siguiente.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 193.
 
-Cuando existan excedentes después de haberse cubierto el crédito, se entregarán al deudor, salvo que medie orden de autoridad competente o que el propio deudor acepte por escrito que se haga entrega total o parcial del saldo a un tercero.
+Cuando existan excedentes en la adjudicación a que se refiere el artículo 188, después de haberse cubierto el crédito, se entregarán al deudor hasta que se lleve a cabo la enajenación del bien de que se trate, salvo que medie orden de autoridad competente o que el propio deudor acepte por escrito que se haga entrega total o parcial del saldo a un tercero. En el caso de que la enajenación no se verifique dentro de los 24 meses siguientes a aquél en el que se firmó el acta de adjudicación correspondiente, los excedentes de los bienes, descontadas las erogaciones o gastos que se hubieren tenido que realizar por pasivos o cargas adquiridas con anterioridad a la adjudicación, se entregarán al deudor o al tercero que éste designe por escrito hasta el último mes del plazo antes citado. La entrega a que se refiere este artículo se realizará en los términos que establezca el Servicio de Administración Fiscal del Estado de Campeche mediante reglas de carácter general.
+
+Cuando se lleve a cabo el remate, el importe obtenido como producto de éste se aplicará en los términos de lo dispuesto en el artículo 191 de este Código, así como a recuperar los gastos de administración y mantenimiento. El remanente del producto mencionado será el excedente que se entregará al contribuyente o embargado, salvo que medie orden de autoridad competente, o que el propio deudor o embargado acepte por escrito que se haga la entrega total o parcial del saldo a un tercero.
 
 Una vez transcurridos dos años contados a partir de la fecha en que los excedentes estén a disposición del contribuyente, sin que éste los retire, pasarán a propiedad del fisco estatal. Se entenderá que el excedente se encuentra a disposición del interesado, a partir del día hábil siguiente a aquél en que se le notifique personalmente la resolución correspondiente.
 
 En caso de conflicto, el remanente se depositará en institución de crédito autorizada, en tanto resuelven las autoridades competentes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2517,7 +2807,9 @@ IV. Se trate de bienes que por cualquier circunstancia se encuentren en depósit
 
 Se entenderá que los bienes se encuentran a disposición del interesado, a partir del día siguiente a aquél en que se le notifique la resolución correspondiente.
 
-Cuando los bienes hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que cuentan con quince días para retirar los bienes, previo pago de los gastos de almacenaje causados.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Cuando los bienes hubieran causado abandono, las autoridades fiscales notificarán personalmente o por correo certificado con acuse de recibo a los propietarios de los mismos, que ha transcurrido el plazo de abandono y que como consecuencia pasan a propiedad del fisco estatal.
 
 En los casos en que no se hubiera señalado domicilio o el señalado no corresponda a la persona, la notificación se efectuará a través de estrados.
 
@@ -2555,15 +2847,15 @@ b) Nieguen la devolución de cantidades que procedan conforme a lo dispuesto por
 
 c) Cualquier resolución de carácter definitiva que cause agravio al particular en materia fiscal, salvo aquéllas a que se refieren los artículos 46, 79 y 87 de este Código.
 
-II. Los actos de autoridades fiscales del Estado, que:
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-a) Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos, a gastos de ejecución o a la indemnización a que se refiere el artículo 31 de éste Código;
+II. Los actos de autoridades fiscales del Estado que:
 
-b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley o a este Código;
+a) Exijan el pago de créditos fiscales, cuando se alegue que éstos se han extinguido o que su monto real es inferior al exigido, siempre que el cobro en exceso sea imputable a la autoridad ejecutora o se refiera a recargos, a gastos de ejecución o a la indemnización a que se refiere el artículo 31 de este Código;
 
-c) Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 201 de este Código; y
+b) Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley o a este Código o determinen el valor de los bienes embargados;
 
-d) Determinen el valor de los bienes embargados a que se refiere el artículo 165 de este Código.
+c) Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 201 de este Código.
 
 ###### Artículo 198.
 
@@ -2579,17 +2871,19 @@ El escrito de interposición del recurso deberá presentarse ante la autoridad c
 
 El escrito de interposición del recurso podrá enviarse a la autoridad competente para resolverlo o a la que emitió o ejecutó el acto, por correo certificado con acuse de recibo, siempre que el envío se efectúe desde el lugar en que resida el recurrente. En estos casos, se tendrá como fecha de presentación del escrito respectivo, la del día en que se entregue a la oficina recaudadora o se deposite en la oficina de correos.
 
-Para los efectos del párrafo anterior se entenderá como oficina de correos a las oficinas postales del Servicio Postal Mexicano y aquéllas que señale la Secretaría de Finanzas y Administración mediante reglas de carácter general.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos del párrafo anterior se entenderá como oficina de correos a las oficinas postales del Servicio Postal Mexicano y aquéllas que señale el Servicio de Administración Fiscal del Estado de Campeche, mediante reglas de carácter general.
 
 Si el particular afectado por un acto o resolución administrativa fallece durante el plazo a que se refiere este artículo, se suspenderá hasta un año, si antes no se hubiere aceptado el cargo de representante de la sucesión.
 
 En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, cuando el particular se encuentre afectado por un acto o resolución administrativa, se suspenderá el plazo para interponer el recurso de revocación hasta por un año. La suspensión cesará cuando se acredite que se ha aceptado el cargo de tutor del incapaz o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 200.
 
-Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la ley, las violaciones cometidas antes del remate podrán hacerse valer en cualquier tiempo, antes de la publicación de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material o de lo previsto por el artículo 207, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en que surta efectos la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
-
-Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
+Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre dinero en efectivo, depósitos en cuenta abierta en instituciones de crédito, organizaciones auxiliares de crédito o sociedades cooperativas de ahorro y préstamo, así como de bienes legalmente inembargables o actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
 
 ###### Artículo 201.
 
@@ -2629,6 +2923,10 @@ La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren
 
 Cuando no se acompañe alguno de los documentos a que se refieren las fracciones anteriores, la autoridad fiscal requerirá al promovente para que los presente dentro del término de tres días. Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a III de este artículo, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV, las mismas se tendrán por no ofrecidas.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, en el escrito en que se interponga el recurso o dentro de los quince días posteriores, el recurrente podrá anunciar que exhibirá pruebas adicionales, en términos de lo previsto en el tercer párrafo del artículo 208 de este Código.
+
 ###### Artículo 204.
 
 Es improcedente el recurso cuando se haga valer contra actos administrativos:
@@ -2643,7 +2941,7 @@ IV. Que se hayan consentido, entendiéndose por consentimiento el de aquéllos c
 
 V. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente;
 
-VI. En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción III del artículo 207 de este Código;
+VI. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2016)
 
 VII. Si son revocados los actos por la autoridad, siempre que se satisfaga la pretensión del recurrente;
 
@@ -2669,23 +2967,7 @@ El recurso de revocación no procederá contra actos que tengan por objeto hacer
 
 ###### Artículo 207.
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 197, se estará a las reglas siguientes:
-
-I. Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció;
-
-II. En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación;
-
-III. Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual, el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados;
-
-IV. El particular tendrá un plazo de diez días a partir del siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación;
-
-V. La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo;
-
-VI. Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción III, de este artículo, quedando sin efectos todo lo actuado basándose en aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto;
-
-VII. Si se resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporáneamente, se sobreseerá dicho recurso por improcedente; y
-
-VIII. En el caso de actos regulados por otras leyes estatales, solamente la impugnación de la notificación efectuada por autoridades fiscales se hará mediante el recurso de revocación a que se refiere este Código.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2016)
 
 #### Sección Segunda. Del Trámite y Resolución del Recurso
 
@@ -2694,6 +2976,10 @@ VIII. En el caso de actos regulados por otras leyes estatales, solamente la impu
 En el recurso de revocación se admitirá toda clase de pruebas, excepto la testimonial y la de confesión de las autoridades mediante absolución de posiciones. No se considerará comprendida en esta prohibición la petición de informes a las autoridades fiscales, respecto de hechos que consten en sus expedientes o de documentos agregados a ellos.
 
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Cuando el recurrente anuncie que exhibirá las pruebas en los términos de lo previsto por el último párrafo del artículo 203 de este Código, tendrá un plazo de quince días para presentarlas, contado a partir del día siguiente al de dicho anuncio.
 
 ###### Artículo 209.
 
@@ -2721,9 +3007,11 @@ La autoridad deberá dictar resolución y notificarla en un término que no exce
 
 Transcurrido dicho plazo, el recurrente podrá decidir esperar la resolución expresa o impugnar en cualquier tiempo la presunta confirmación del acto impugnado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 213.
 
-La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará con el examen de dicho punto.
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios hechos valer por el recurrente, teniendo la autoridad la facultad de invocar hechos notorios; pero cuando se trate de agravios que se refieran al fondo de la cuestión controvertida, a menos que uno de ellos resulte fundado, deberá examinarlos todos antes de entrar al análisis de los que se planteen sobre violación de requisitos formales o vicios del procedimiento.
 
 Cuando se hagan valer distintos agravios la autoridad deberá examinar primero aquéllos que puedan llevar a la revocación lisa y llana de la resolución recurrida.
 
@@ -2733,7 +3021,9 @@ No se podrán revocar o modificar los actos administrativos en la parte no impug
 
 La resolución expresará con claridad los actos que se modifiquen y si la modificación es parcial, se indicará el monto del crédito fiscal correspondiente.
 
-Asimismo, en dicha resolución deberán señalarse los plazos en que la misma puede ser impugnada en el Juicio Contencioso Administrativo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Asimismo, en dicha resolución deberán señalarse los plazos en que la misma puede ser impugnada en el Juicio Contencioso Administrativo. Cuando en la resolución se omita el señalamiento de referencia, el contribuyente contará con el doble del plazo que establecen las disposiciones legales para interponer el juicio contencioso administrativo.
 
 ###### Artículo 214.
 
@@ -2759,23 +3049,25 @@ procedimiento, deberá cumplirse en un plazo de tres meses, contados a partir de
 
 ### CAPÍTULO ÚNICO. De los Delitos Fiscales
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 215.
 
-Para proceder penalmente por los delitos fiscales previstos en este Capítulo, será necesario que previamente la Secretaría de Finanzas y Administración, formule querella.
+Para proceder penalmente por los delitos fiscales previstos en este Capítulo será necesario que previamente el Servicio de Administración Fiscal del Estado de Campeche formule querella.
 
-Los procesos por los delitos fiscales se sobreseerán a petición de la Secretaría de Finanzas y Administración, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción de la propia Secretaría. La petición anterior se hará discrecionalmente, antes de que el Ministerio Público del Fuero Común, formule conclusiones y surtirá efectos respecto de las personas a que la misma se refiera.
+Los procesos por los delitos fiscales se sobreseerán a petición del Servicio de Administración Fiscal del Estado de Campeche, cuando los procesados paguen las contribuciones originadas por los hechos imputados, las sanciones y los recargos respectivos, o bien estos créditos fiscales queden garantizados a satisfacción del propio Servicio de Administración Fiscal del Estado de Campeche. La petición anterior se hará discrecionalmente antes de que el Ministerio Público formule alegatos de clausura y surtirá efectos respecto de las personas a que la misma se refiera.
 
-En los delitos fiscales en que el daño o el perjuicio sea cuantificable, la Secretaría de Finanzas y Administración, hará la cuantificación correspondiente en la propia querella. La citada cuantificación sólo surtirá efectos en el procedimiento penal. Para conceder la libertad provisional, para efectos de lo previsto en el Código de Procedimientos Penales del Estado de Campeche, el monto de la caución que fije la autoridad judicial comprenderá, en su caso, la suma de la cuantificación antes mencionada.
+En los delitos fiscales en que el daño o el perjuicio sea cuantificable, el Servicio de Administración Fiscal del Estado de Campeche, hará la cuantificación correspondiente en la propia denuncia o querella. La citada cuantificación sólo surtirá efectos en el procedimiento penal.
 
-La Secretaría de Finanzas y Administración, en su carácter de ofendida de los delitos a que se refiere este Código intervendrá como coadyuvante del Ministerio Público del Fuero Común, en todos los procedimientos instaurados con motivo de la comisión de dichos delitos a través de los servidores públicos que designe.
+El Servicio de Administración Fiscal del Estado de Campeche, en representación del Estado como víctima de los delitos a que se refiere este Código, intervendrá como coadyuvante del Ministerio Público en todos los procedimientos instaurados con motivo de la comisión de dichos delitos a través de los servidores públicos que designe, conforme a las disposiciones del Código Nacional de Procedimientos Penales.
 
-En tal carácter, la Secretaría de Finanzas y Administración, contará con todos los derechos y facultades que establezcan las leyes a favor de la víctima u ofendido, entre otros de manera enunciativa y no limitativa, ser citada de oficio por el Juez para manifestar lo que en su derecho convenga; solicitar medidas o providencias precautorias, proponer al Juez los datos o elementos de prueba con los que cuente; indicar a las autoridades judiciales el monto de la reparación del daño, que incluya la cuantificación del perjuicio fiscal con actualizaciones y recargos; intervenir en todos los actos audiencias y diligencias dentro y fuera de juicio, e interponer los recursos procedentes, así como, en su caso, el juicio de amparo.
+En tal carácter, el Servicio de Administración Fiscal del Estado de Campeche contará, además de los derechos procesales establecidos en el Código Nacional de Procedimientos Penales, la Ley General de Víctimas, la Ley que Establece el Sistema de Justicia para la víctimas del Estado de Campeche y demás legislación aplicable en materia penal, con los derechos de ser citado por el Juez para manifestar lo que en su derecho convenga; solicitar medidas cautelares o providencias precautorias; indicar a las autoridades judiciales el monto de la reparación del daño, que incluya la cuantificación del perjuicio fiscal con actualizaciones y recargos; intervenir en todos los actos audiencias y diligencias dentro y fuera de juicio, e interponer los recursos procedentes, así como, en su caso, el juicio de amparo.
 
-Los Tribunales garantizarán el amplio ejercicio de estos derechos y el Ministerio Público del Fuero Común velará en todo momento por el exacto cumplimiento de lo dispuesto en este artículo.
+Los tribunales garantizarán el amplio ejercicio de estos derechos y el Ministerio Público velará en todo momento por el exacto cumplimiento de lo dispuesto en este artículo.
 
-En materia de delitos fiscales el Juez fijará las penas y medidas de seguridad dentro de los límites señalados para cada delito con base en la gravedad del ilícito y el grado de culpabilidad del probable responsable, debiendo tomar en cuenta, además de las reglas generales previstas en el Código Penal del Estado de Campeche, para la fijación de las sanciones lo siguiente:
+En materia de delitos fiscales el Juez fijará las penas y medidas de seguridad dentro de los límites señalados para cada delito con base en la gravedad del ilícito y el grado de culpabilidad del probable responsable, debiendo tomar en cuenta, además de las reglas generales previstas en el Código Nacional de Procedimientos Penales, para la fijación de las sanciones lo siguiente:
 
-I. La delincuencia habitual atribuible al probable responsable en relación con la comisión de ilícitos de carácter fiscal; y
+I. La reincidencia atribuible al probable responsable con relación a la comisión de ilícitos de carácter fiscal; y
 
 II. La cuantía del crédito fiscal que dio origen a la causa.
 
@@ -2831,21 +3123,25 @@ En el caso de delito continuado, la pena podrá aumentarse hasta por una mitad m
 
 Para los efectos de este Código, el delito es continuado cuando se ejecuta con pluralidad de conductas o hechos, con unidad de intención delictuosa e identidad de disposición legal, incluso de diversa gravedad.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 222.
 
-La acción penal en los delitos fiscales previstos en éste Código, prescribirá en tres años contados a partir del día en que la Secretaría de Finanzas y Administración tenga conocimiento del delito y del delincuente; y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito.
+La acción penal en los delitos fiscales previstos en éste Código prescribirá en tres años, contados a partir del día en que el Servicio de Administración Fiscal del Estado de Campeche tenga conocimiento del delito y del probable responsable; y si no tiene conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito.
 
-Se entiende que la Secretaría de Finanzas y Administración, tiene conocimiento del delito y, en su caso, del delincuente, en la fecha que la autoridad fiscal emita el acto con el que se determinen las irregularidades o, cuando se haya ejercido facultades de comprobación, en la fecha que se levante el acta final o se notifique el oficio de observaciones.
+Se entiende que el Servicio de Administración Fiscal del Estado de Campeche tiene conocimiento del delito y, en su caso, del probable responsable, en la fecha que la autoridad fiscal emita el acto con el que se determinen las irregularidades o, cuando se hayan ejercido facultades de comprobación, en la fecha que se levante el acta final o se notifique el oficio de observaciones.
 
-Si previo a que venza el plazo de cinco años desde la comisión del delito, a que se refiere el primer párrafo de este artículo, la Secretaría de Finanzas y Administración, tiene conocimiento del delito y de su presunto autor, ésta tendrá derecho a solicitar el ejercicio de la acción penal, el cual prescribirá en tres años contados a partir de dicho conocimiento.
+Si previo a que venza el plazo de cinco años desde la comisión del delito, a que se refiere el primer párrafo de este artículo, el Servicio de Administración Fiscal del Estado de Campeche tiene conocimiento del delito y de su probable autor, éste tendrá derecho a solicitar el ejercicio de la acción penal, el cual prescribirá en tres años contados a partir de dicho conocimiento.
 
 ###### Artículo 223.
 
 En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria; las autoridades administrativas, con arreglo a las leyes fiscales, harán efectivas las contribuciones omitidas, los recargos y las sanciones administrativas correspondientes, sin que ello afecte el procedimiento penal.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 224.
 
-Procede la substitución y conmutación de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales, en los términos del Código de Procedimientos Penales del Estado de Campeche. Además de los requisitos señalados en dicho ordenamiento legal, para obtener los beneficios antes mencionados será necesario comprobar que los adeudos fiscales están cubiertos o garantizados a satisfacción de la Secretaría de Finanzas y Administración.
+Procede la sustitución de sanciones o cualquier otro beneficio a los sentenciados por delitos fiscales en los términos de la Ley Nacional de Ejecución Penal. Además de los requisitos señalados en dicho ordenamiento legal, para obtener los beneficios antes mencionados será necesario comprobar que los adeudos fiscales están cubiertos o garantizados a satisfacción del Servicio de Administración Fiscal del Estado de Campeche.
 
 ###### Artículo 225.
 
@@ -2853,9 +3149,13 @@ Comete el delito de defraudación fiscal quien con uso de engaños o aprovechami
 
 El delito de defraudación fiscal se sancionará con las penas siguientes:
 
-I. Con prisión de tres meses a seis años, cuando el monto de lo defraudado no exceda de 2,700 veces el salario mínimo general diario, vigente en el Estado; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-II. Con prisión de tres años a nueve años cuando el monto de lo defraudado exceda de 2,700 veces el salario mínimo general diario, vigente en el Estado.
+I. Con pena privativa de libertad de tres meses a seis años, cuando el monto de lo defraudado no exceda de 2,700 veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+II. Con pena privativa de libertad de tres a nueve años cuando el monto de lo defraudado exceda de 2,700 veces el valor diario de la Unidad de Medida y Actualización.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -2875,7 +3175,9 @@ e) Omitir contribuciones retenidas o recaudadas;
 
 f) Manifestar datos falsos para realizar la compensación de contribuciones que no le correspondan; y
 
-g) Utilizar datos falsos para acreditar o disminuir contribuciones;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+g) Utilizar datos falsos para acreditar o disminuir contribuciones, incluyendo los manifestados en los formularios autorizados por el Servicio de Administración Fiscal del Estado de Campeche;
 
 Cuando los delitos sean calificados, la pena que corresponda se aumentará en una mitad.
 
@@ -2923,9 +3225,11 @@ III. Proporcione con falsedad a las autoridades fiscales que lo requieran, los d
 
 No se formulará querella si, quien encontrándose en los supuestos anteriores subsana la omisión o el ilícito antes de que la autoridad fiscal lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 229.
 
-Se impondrá sanción de seis meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 100 veces de salario mínimo general diario vigente en el Estado; cuando exceda, la sanción será de un año a seis años de prisión.
+Se impondrá sanción de seis meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 100 veces el valor diario de la Unidad de Medida y Actualización; cuando exceda la sanción será de uno a seis años de prisión.
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
 
@@ -2973,7 +3277,7 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 
 Dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los ocho días del mes de diciembre del año dos mil ocho.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C.P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, M. en D. RICARDO MEDINA FARFAN.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 26 DE DICIEMBRE DE 2011.
 
@@ -3026,3 +3330,43 @@ NOVENO.- La Junta Reguladora deberá instalarse en los primeros 15 días hábile
 DECIMO.- Los recursos que se perciban por concepto de derechos por arrendamiento o comodato de las licencias, serán destinadas para constituir un Fondo para la Atención de Adicciones y Fomento al Deporte. Los recursos que obtenga el Estado por los conceptos restantes en la materia que esta Ley regula, serán destinados prioritariamente a la verificación, control, vigilancia, inspección de establecimientos del ramo, adecuación de instalaciones destinadas para las áreas de arresto administrativo, adquisición de mobiliario y equipo de alcoholimetría, así como para educación y prevención para un consumo responsable. Los remanentes ingresarán al gasto público en general.
 
 UNDÉCIMO.- Para el caso de la obligación contenida en la fracción XI del artículo 9 de esta Ley, se concede un plazo de hasta 2 años contados a partir de la vigencia de esta ley para su debido cumplimiento a cargo de los propietarios, franquiciatarios, representantes legales o encargados de los locales o establecimientos en que se expendan bebidas alcohólicas.
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 100 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 3, PRIMERO Y CUARTO PÁRRAFOS; 6, SEGUNDO PÁRRAFO; 16; 17, PRIMERO, SEGUNDO, TERCERO, SEXTO, NOVENO Y DECIMO PÁRRAFOS; 28; 29, QUINTO PÁRRAFO Y LA FRACCIÓN II DEL SEXTO PÁRRAFO; 30, TERCERO Y CUARTO PÁRRAFOS; 32, FRACCIÓN I DEL APARTADO A) DEL PRIMER PÁRRAFO Y CUARTO PÁRRAFO ; 33, CUARTO Y QUINTO PÁRRAFOS; 38; 39; 46, TERCER PÁRRAFO; 47, TERCER Y QUINTO PÁRRAFOS, Y LA FRACCIÓN VII DEL PÁRRAFO SEXTO; 48, PRIMERO Y SEGUNDO PÁRRAFOS; 50; 56; 57, PRIMER PÁRRAFO; 61, FRACCIÓN VII DEL PRIMER PÁRRAFO; 63-BIS, EL INCISO G) DEL SEGUNDO PÁRRAFO; 68, LA FRACCIÓN VII DEL SEGUNDO PÁRRAFO; 75, CUARTO PÁRRAFO; 79, PRIMERO Y SEGUNDO PÁRRAFOS; 80; 83, FRACCIÓN II; 84, TERCERO Y CUARTO PÁRRAFOS; 88, PÁRRAFO PRIMERO; 89; 90; 91; 92; 93; 94; 95; 96, SEGUNDO PÁRRAFO DE LA FRACCIÓN II; 98; 101; 103; 106, SEGUNDO PÁRRAFO; 107; 110; 111; 113; 114; 118, FRACCIÓN I DEL PÁRRAFO PRIMERO Y SEGUNDO PÁRRAFO; 120, FRACCIÓN I DEL SEGUNDO PÁRRAFO; 122, SEGUNDO PÁRRAFO; 128, PÁRRAFO PRIMERO; 130; 133; 139; 141 FRACCIÓN I DEL PRIMER PÁRRAFO; 145, PRIMER PÁRRAFO Y SU FRACCIÓN I; 146, PÁRRAFO TERCERO; 153; 155; 165; 170, PÁRRAFO PRIMERO; 176; 177; 178; 179; 180; 181, PÁRRAFO PRIMERO; 183; 188; 191, PÁRRAFO PRIMERO; 193; 194, PÁRRAFO TERCERO; 197, FRACCIÓN II; 199, PÁRRAFO TERCERO; 200; 213, PRIMERO Y SEXTO PÁRRAFOS; 215; 222; 224; 225, FRACCIONES I Y II DEL SEGUNDO PÁRRAFO Y EL INCISO G) DEL QUINTO PÁRRAFO Y 229, PÁRRAFO; SE ADICIONAN, UN SEGUNDO PÁRRAFO AL ARTÍCULO 25; UN SEGUNDO PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 41; LOS ARTÍCULOS 142-BIS Y 142-TER; UNA FRACCIÓN III AL ARTÍCULO 163; UN SEXTO PÁRRAFO AL ARTÍCULO 203; UN PÁRRAFO TERCERO AL ARTÍCULO 208; SE DEROGAN LAS FRACCIONES III Y IV DEL ARTÍCULO 189; EL ARTÍCULO 190; LA FRACCIÓN VI DEL ARTÍCULO 204 Y EL ARTÍCULO 207 TODOS DEL CÓDIGO FISCAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- Las modificaciones a las disposiciones contenidas en la Ley Orgánica de la Administración Pública del Estado de Campeche entrarán en vigor al día siguiente de la publicación de este decreto en el Periódico Oficial del Estado de Campeche. El sistema de registros y control de las erogaciones personales deberá estar en operación a más tardar el 1 de enero de 2018.
+
+SEGUNDO.- La Ley del Servicio de Administración Fiscal del Estado de Campeche, las modificaciones contenidas en la Ley de Hacienda del Estado de Campeche, el Código Fiscal del Estado de Campeche y la Ley de Firma Electrónica Avanzada y Uso de Medios Electrónicos del Estado de Campeche entrarán en vigor el día 1 de abril de 2017.
+
+TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, de igual o menor jerarquía, del marco jurídico estatal que se opongan al presente decreto.
+
+CUARTO.- El Ejecutivo del Estado expedirá el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche, con la anticipación debida con la finalidad de que entre en vigor de manera simultánea con la Ley del Servicio de Administración Fiscal del Estado de Campeche el día 1 de abril de 2017.
+
+QUINTO.- La Secretaría establecerá los mecanismos para la readscripción de los trabajadores de base que vienen prestando sus servicios a la misma, y que deban incorporarse al Servicio de Administración Fiscal del Estado de Campeche. Los derechos de estos trabajadores serán respetados y en ningún caso serán afectados por la reorganización que implica el presente ordenamiento.
+
+SEXTO.- Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaría de Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche o cualquier otra disposición jurídica que emane de ellos.
+
+SÉPTIMO.- Los asuntos que a la fecha de entrada en vigor de la presente Ley se encuentren en trámite ante alguna de las unidades administrativas de la Subsecretaria de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal de la Secretaría y que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, o los recursos administrativos interpuestos en contra de actos o resoluciones de tales unidades administrativas, se seguirán tramitando ante el Servicio de Administración Fiscal del Estado de Campeche y serán resueltos por el mismo, cuando se encuentren vinculados con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche y cualquier otra disposición jurídica que emane de ellos.
+
+OCTAVO.- Los juicios en los que sea parte la Secretaría de Finanzas por actos de las unidades administrativas adscritas a la Subsecretaria de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, que a la entrada en vigor de la presente Ley se encuentren en trámite ante los Tribunales del fuero federal, o cualquier otra instancia jurisdiccional, los continuará tramitando el Servicio de Administración Fiscal del Estado de Campeche a través de sus unidades administrativas competentes hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios, ante dichos tribunales.
+
+NOVENO.- Los amparos contra actos de las unidades administrativas adscritas a la Subsecretaría de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal de la Secretaría de Finanzas que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, cuya interposición les sea notificado con el carácter de autoridades responsables o de terceros perjudicados con anterioridad a la entrada en vigor de la Ley del Servicio de Administración Fiscal del Estado de Campeche, continuarán siendo llevados en su tramitación hasta su total conclusión por el Servicio de Administración Fiscal del Estado de Campeche.
+
+DÉCIMO.- La Secretaría de Finanzas dispondrá lo conducente a fin de que, a partir de la entrada en vigor de la Ley del Servicio de Administración Fiscal del Estado de Campeche, los bienes muebles e inmuebles, materiales y financieros, así como los archivos y expedientes con los que actualmente cuentan las unidades administrativas adscritas a la Subsecretaría de Ingresos de la Secretaría, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, para el ejercicio de las atribuciones vinculadas con la materia objeto de la mencionada Ley, su Reglamento y cualquier otra disposición jurídica que emane de ellos. Para tales efectos se deberán formalizar las actas de entrega- recepción correspondientes, en términos de las disposiciones jurídicas aplicables.
+
+UNDÉCIMO.- Los ajustes en materia de programación, presupuesto, estructuras y contabilidad que genere la creación del Servicio de Administración Fiscal del Estado de Campeche, podrán hacerse paulatinamente durante el ejercicio fiscal 2017.
+
+DÉCIMO SEGUNDO.- El Servicio de Administración Fiscal del Estado de Campeche podrá continuar utilizando el sistema informático actual o implementar un sistema informático propio. En el caso de la firma electrónica avanzada podrá implementarla a través de medios propios o a través de convenios con terceros.
+
+DÉCIMO TERCERO.- Las referencias que se hacen y atribuciones que se otorgan en el Código Fiscal del Estado de Campeche y en otras leyes, reglamentos, acuerdos y demás disposiciones jurídicas del marco jurídico del Estado, a la Secretaría de Finanzas de la Administración Pública del Estado de Campeche o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche cuando se trate de atribuciones vinculadas con la materia objeto de la Ley que crea y regula dicho órgano o cualquier otra disposición jurídica que emane de ellos.
+
+DÉCIMO CUARTO.- Las facultades conferidas al Estado de Campeche en el o los convenios de Colaboración Administrativa en materia Fiscal Federal y sus anexos, celebrados entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Campeche, así como todos los Convenios de Colaboración Administrativa en materia Hacendaria de Ingresos celebrados entre el Estado de Campeche y sus municipios, se entenderán también conferidas todas esas facultades al Órgano Administrativo Desconcentrado denominado "Servicio de Administración Fiscal del Estado de Campeche".
+
+DÉCIMO QUINTO.- Los asuntos pendientes de resolver por la Secretaría de Finanzas de la Administración Pública del Estado de Campeche a la entrada en vigor de este decreto, cuyas facultades se sustenten en el Código Fiscal del Estado, los resolverá el Servicio de Administración Fiscal del Estado de Campeche, salvo disposición especifica en contrario.
+
+DÉCIMO SEXTO.- El plazo para el cómputo de la prescripción a que se refiere el párrafo quinto del artículo 39 del Código Fiscal del Estado, será aplicable para los créditos fiscales que hayan sido exigidos a partir del 1 de enero de 2008. Tratándose de los créditos fiscales exigibles con anterioridad al 1 de enero de 2008, el Servicio de Administración Fiscal del Estado de Campeche tendrá un plazo máximo de dos años para hacer efectivo el cobro de dichos créditos contados a partir de la entrada en vigor del presente decreto, siempre que se trate de créditos que no se encuentren controvertidos en dicho periodo; de controvertirse, el plazo máximo de dos años será suspendido. La aplicación de la presente disposición no configurará responsabilidad administrativa para servidores públicos encargados de la ejecución y cobro de créditos fiscales, siempre y cuando realicen las gestiones de cobro correspondientes.
+
+DÉCIMO SÉPTIMO.- La conversión de las tarifas, cuotas, derechos, multas y demás valores expresados en salarios mínimos generales diarios vigentes a Unidades de Medida y Actualización, se realizan en cumplimiento del artículo tercero transitorio del decreto por el que se declaran reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el veintisiete de enero de dos mil dieciséis.
+
+DÉCIMO OCTAVO.- Las referencias al Registro Único de Obligaciones y Financiamientos se entenderán hechas al Registro de Empréstitos y Obligaciones.
