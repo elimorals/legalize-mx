@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-5643
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2016-06-15"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -109,9 +109,21 @@ IX. Sistema Estatal.- Sistema Estatal para la Igualdad entre Mujeres y Hombres; 
 
 X. Programa Estatal.- Programa Estatal para la Igualdad entre Mujeres y Hombres.
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XI. Discriminación Directa.- aquella que se produce cuando una persona recibe un trato menos favorable que otra en una situación análogo (sic) a causa de estereotipos de género.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XII. Discriminación Indirecta.- Se presenta cuando una disposición, criterio o práctica aparentemente neutral, puede ocasionar una desventaja a personas por motivo de género.
+
 ###### Artículo 6.
 
 La igualdad entre mujeres y hombres implica la eliminación de toda forma de discriminación en cualquiera de los ámbitos de la vida, que se genere por pertenecer a cualquier sexo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Por lo que, para los efectos de esta ley, se entenderá por discriminación, cualquier tipo de distinción, exclusión o restricción, que tenga por objeto o por resultado anular o menoscabar el reconocimiento, goce o ejercicio de los derechos humanos, libertades e igualdad, social, cultural y civil o en cualquier otra esfera, en concordancia con los instrumentos nacionales e internacionales ratificados por el Estado mexicano.
 
 ## TÍTULO II. DE LAS AUTORIDADES E INSTITUCIONES
 
@@ -359,7 +371,9 @@ Será objetivo de la Política Estatal el fortalecimiento de la igualdad en mate
 
 I. Establecimiento y empleo de fondos para la promoción de la igualdad en el trabajo y los procesos productivos;
 
-II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica, e
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+II. Desarrollo de acciones para fomentar la integración de políticas públicas con perspectiva de género en materia económica en los ámbitos rural y urbano, que generen oportunidades en el uso y aprovechamiento de las propiedades muebles e inmuebles;
 
 III. Impulsar liderazgos igualitarios.
 
@@ -387,7 +401,9 @@ VI. Financiar las acciones de información y concientización destinadas a fomen
 
 VII. Vincular todas las acciones financiadas para el adelanto de las mujeres;
 
-VIII. Evitar la segregación de las personas por razón de su sexo, del mercado de trabajo;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+VIII. Evitar la segregación de las personas por razón de su sexo, del mercado de trabajo, garantizando el principio de igualdad sustantiva entre mujeres y hombres con relación a los derechos reales de propiedad y en el desarrollo de las actividades productivas rurales.
 
 IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
 
@@ -642,3 +658,9 @@ P.O. 15 DE JUNIO DE 2016.
 Primero.- El presente decreto entrará en vigor a los tres días después de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 99 POR EL QUE “SE ADICIONAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 5, UN SEGUNDO PÁRRAFO AL ARTÍCULO 6 Y SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 29 Y LA FRACCIÓN VIII DEL ARTÍCULO 30 DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CAMPECHE”.]
+
+ÚNICO.- El presente decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
