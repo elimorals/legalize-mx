@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2015-12-08"
+last_updated: "2016-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -515,7 +515,11 @@ III. Imponer sanciones a los servidores públicos que incurran en responsabilida
 
 IV. Designar a servidores públicos de la Secretaría, para que funjan como sus representantes, en las funciones y comisiones que se requieran;
 
-V. Designar a los comisarios o sus equivalentes conforme a las disposiciones legales aplicables, así como a los titulares de las áreas de control interno de las dependencias y entidades de la administración pública estatal;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+V. Designar a los comisarios o sus equivalentes conforme a las disposiciones legales aplicables, así como a los titulares de las áreas de control interno de las secretarías, dependencias y entidades de la administración pública estatal;
 
 VI. Coordinarse con las autoridades federales, estatales, municipales y las dependencias y entidades del sector paraestatal, en el desempeño de las actividades en apoyo de los objetivos y finalidades de los programas de la Secretaría;
 
@@ -1455,7 +1459,11 @@ Los servidores públicos estatales adscritos a los organismos auxiliares, serán
 
 Ningún servidor público estatal podrá ser adscrito a los organismos auxiliares sin el nombramiento respectivo; quedan exceptuados de esta disposición los puestos de base.
 
-En caso de que, por cualquier circunstancia dentro de los organismos públicos se presente una vacante definitiva, la ausencia será suplida en los términos que el reglamento interior disponga, por un término que no exceda de noventa días naturales contados a partir del inicio de la suplencia, periodo dentro del cual deberá ser nombrado el nuevo titular, quien tendrá que contar con el perfil que para ese efecto se señale en el manual respectivo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+En los Reglamentos o estatutos orgánicos de los organismos auxiliares se establecerán las suplencias de los servidores públicos en casos de ausencia temporal, mismas que no podrá (sic) durar más de noventa días naturales; asimismo, se regularán las suplencias ante la ausencia absoluta de la persona titular de un organismo auxiliar, así como la figura del encargado de despacho, quien podrá desempeñar legalmente las atribuciones que originalmente corresponderían a la persona titular de que se trate, durante el tiempo que se considere necesario por el propio Gobernador del Estado.
 
 ### CAPÍTULO SEGUNDO
 
@@ -1543,7 +1551,11 @@ V. Aplicar las medidas adecuadas a efecto de que las funciones del organismo aux
 
 VI. Fijar los controles necesarios para asegurar la calidad de los suministros y programas de recepción, que garanticen la continuidad de las obras, fabricación, distribución o prestación de los servicios;
 
-VII. Someter a la aprobación del órgano de gobierno, los nombramientos, cambios y licencias de los funcionarios de mandos medios, así como sus sueldos y demás prestaciones de acuerdo a las asignaciones globales de presupuesto de gasto corriente aprobado por el mismo órgano;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+VII. Designar a los servidores públicos que se determinen en sus respectivos estatutos orgánicos; así como proponer a aquellos que conforme a dichos estatutos orgánicos deban ser designados por el órgano de gobierno y someter a este último sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración;
 
 VIII. Recopilar la información y elementos estadísticos que muestren el estado de las funciones del organismo auxiliar, para estar en posibilidad de mejorar la gestión del propio organismo;
 
@@ -1563,15 +1575,17 @@ XIV. Las demás que le asignen otras leyes, reglamentos, acuerdos y disposicione
 
 DEL CONTROL, COORDINACIÓN Y EVALUACIÓN.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 67.
 
-Los organismos auxiliares tendrán un Órgano Interno de Control, el que se integrará por un Comisario Público propietario y un suplente, y contarán con el personal necesario para llevar a cabo sus funciones, de conformidad con las necesidades y en razón del presupuesto asignado al organismo auxiliar correspondiente, mismos servidores públicos que serán designados por la Secretaría de la Contraloría.
+El Órgano Interno de Control de los organismos auxiliares estará bajo la dirección de un Comisario Público dependiente de la Secretaría de la Contraloría, quien contará con el personal necesario para llevar a cabo sus funciones, de conformidad con las necesidades y en razón del presupuesto asignado a dicha Secretaría, mismos servidores públicos que serán designados por esta última y podrán fungir con tal carácter respecto de uno o varios organismos auxiliares, atendiendo a las necesidades del servicio.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+Los Comisarios Públicos evaluarán la actividad general y por funciones de los organismos auxiliares que correspondan, sin que por ello se establezca relación de trabajo alguna con estos últimos; asimismo, realizarán estudios sobre la eficiencia con la cual se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en lo general, solicitarán la información y ejecutarán los actos que exija el cumplimiento adecuado de sus funciones, sin menoscabo de las tareas específicas que le ordene la Secretaría de la Contraloría; en tal virtud deberán proporcionar la información que solicite el Comisario Público, tanto el Órgano de Gobierno como el Titular o Director General, a efecto de que aquél pueda cumplir con las funciones antes mencionadas, vigilando en todo momento el cumplimiento de indicadores de gestión.
 
-Los Comisarios Públicos, evaluarán la actividad general y por funciones del Organismo Auxiliar; asimismo, realizarán estudios sobre la eficiencia con la cual se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en lo general, solicitarán la información y ejecutarán los actos que exija el cumplimiento adecuado de sus funciones, sin menoscabo de las tareas específicas que le ordene la Secretaría de la Contraloría; en tal virtud deberán proporcionar la información que solicite el Comisario Público, tanto el Órgano de Gobierno como el Titular o Director General, a efecto de que aquél pueda cumplir con las funciones antes mencionadas, vigilando en todo momento el cumplimiento de indicadores de gestión.
+En aquellos casos que por disposiciones, convenios, reglas de operación o cualquier otro instrumento de carácter federal, el órgano interno de control debiera guardar dependencia económica o sujetarse a condiciones de trabajo diversas a las previstas en el presente artículo, la Secretaría de la Contraloría y el organismo auxiliar de que se trate determinarán lo conducente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
@@ -1587,17 +1601,17 @@ II. Los titulares o directores generales deberán precisar las directrices para 
 
 III. Los otros servidores públicos del organismo descentralizado responderán cada uno dentro del ámbito de sus respectivas competencias, respecto al funcionamiento adecuado del sistema que controle las operaciones que tengan a su cargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 69.
 
-Los órganos internos de control formarán parte de la estructura del organismo descentralizado y sus actividades tendrán como finalidad apoyar la función directiva y promover el mejoramiento de gestión del organismo; sus funciones se realizarán de acuerdo a las instrucciones que dicte la Secretaría de la Contraloría, y se sujetarán a las bases siguientes:
+Los comisarios públicos y su personal auxiliar a quien se les asigne el control interno de los organismos auxiliares formarán parte de la estructura orgánica de la Secretaría de la Contraloría y sus actividades tendrán como finalidad apoyar la función directiva y promover el mejoramiento de gestión del organismo sobre el que ejerzan sus funciones, las cuales se realizarán de acuerdo a las instrucciones que dicte la Secretaría de la Contraloría, y se sujetarán a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
+I. Dependerán únicamente de la Secretaría de la Contraloría, a cuyo presupuesto se cargarán las remuneraciones correspondientes conforme al tabulador respectivo;
 
-I. Dependerán únicamente del Órgano de Gobierno;
-
-II. Efectuarán sus actividades conforme a las reglas y bases, que les permitan cumplir sus funciones con autonomía y autosuficiencia; y
+II. Efectuarán sus actividades conforme a las reglas y bases, que les permitan cumplir sus funciones con autonomía y autosuficiencia, y
 
 III. Analizarán y evaluarán los sistemas, mecanismos y procedimientos de control; realizarán revisiones y auditorías; vigilarán que el manejo y aplicación de los recursos públicos se efectúe de acuerdo a las disposiciones legales aplicables; presentarán al titular o director general, al órgano de gobierno y a las demás unidades administrativas de decisión, los informes que resulten de las revisiones, auditorías, análisis y evaluaciones que realicen.
 
@@ -1661,7 +1675,11 @@ VI. Las facultades y obligaciones del órgano de gobierno, y señalar asimismo, 
 
 VII. Que el titular o director general será el representante legal del organismo, especificando sus facultades y obligaciones;
 
-VIII. Órganos de vigilancia y las facultades y obligaciones de los mismos; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+VIII. Órgano Interno de Control en términos de lo dispuesto por los artículos 67, 68 y 69 de esta Ley; y
 
 IX. Régimen laboral que regulará las relaciones de trabajo.
 
@@ -2096,3 +2114,23 @@ NOVENO.- Cuando por virtud de este Decreto se dé una denominación nueva o dist
 DÉCIMO.- Se autoriza al Titular del Poder Ejecutivo por conducto de la Secretaría de Hacienda, para realizar las adecuaciones presupuestales necesarias a efecto de dar cumplimiento a las obligaciones que este Decreto impone.
 
 DÉCIMO PRIMERO.- La Secretaría de Administración del Poder Ejecutivo del Estado, procederá a realizar los cambios en los inventarios y registros de los recursos humanos y materiales que resulten necesarios ante la vigencia de este Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL TRESCIENTOS SETENTA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS, Y DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS”.]</small>
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el 01 de enero de 2017, previa su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Para efectos de la reforma aprobada respecto de los artículos 23, 67, 79 y 78 de la Ley Orgánica de la Administración Pública del Estado de Morelos, las Secretarías de Hacienda, de Administración y de la Contraloría, así como los organismos auxiliares del Poder Ejecutivo Estatal, dentro del plazo no mayor a 90 días naturales contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las reasignaciones o transferencias presupuestales correspondientes y los trámites administrativos necesarios; lo que deberá reflejarse en las cuentas públicas correspondientes.
+
+Dentro del mismo plazo señalado en el párrafo anterior, deberán realizarse las transferencias de recursos humanos necesarias, respetando los derechos laborales de los trabajadores en términos de la normativa aplicable.
+
+CUARTA. Dentro de un plazo de 180 días hábiles, contados a partir del inicio de vigencia del presente Decreto, la Secretaría de la Contraloría y los organismos auxiliares del Poder Ejecutivo Estatal realizarán las adecuaciones normativas correspondientes a su Reglamento Interior y Estatutos Orgánicos o equivalentes, respectivamente; instrumentos en los que se atenderá, en su caso, lo previsto en el último párrafo del artículo 67 de la Ley Orgánica de la Administración Pública del Estado de Morelos, objeto de reforma.
+
+QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto. Específicamente, aquellas disposiciones jurídicas de las Leyes o Decretos de creación de los organismos auxiliares que contravengan lo dispuesto por los artículos 23, 67, 69 y 78 de la Ley Orgánica de la Administración Pública del Estado de Morelos, en la inteligencia de que las mismas quedan sin efectos ante la prevalencia de este instrumento; sin perjuicio de lo previsto en el último párrafo del citado artículo 67.
+
+SEXTA. Dentro de un plazo que no exceda de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Notarios Públicos del estado de Morelos, deberán actualizar sus respectivas garantías a fin de dar cabal cumplimiento a lo dispuesto en el artículo 24 de la Ley del Notariado del Estado de Morelos, objeto de reforma.
+
+SÉPTIMA. Se autoriza al Titular del Poder Ejecutivo Estatal para que celebre los actos jurídicos respectivos y necesarios, y determine la constitución, conformación del Fideicomiso del Fondo para la Atención de Infraestructura y Administración Municipal a que se refiere este instrumento.
