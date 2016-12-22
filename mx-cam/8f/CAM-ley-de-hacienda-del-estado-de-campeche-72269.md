@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2016-03-31"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CAM"
 ---
 # LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 100, P.O. 22 DE DICIEMBRE DE 2016, VÉASE TRANSITORIO SEGUNDO DEL PROPIO DECRETO.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2017 EN EL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -83,9 +87,15 @@ XII.- De los bienes muebles e inmuebles propiedad del Estado.
 
 Los ingresos fiscales que se establecen en este Ordenamiento, se regularán por lo establecido en la presente Ley, en la Ley de Ingresos del Estado de Campeche y en el Código Fiscal del Estado de Campeche.
 
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Todos los ingresos en favor del Estado que en esta y otras leyes, reglamentos y demás del marco jurídico estatal se encuentren establecidos en Unidad de Medida y Actualización, al momento de su cobro, pago o entero deberán determinarse en cantidad liquida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 3.
 
-El pago de las contribuciones a que se refiere esta Ley, deberá efectuarse en los plazos que la misma establece, en las oficinas recaudadoras de la Dirección de Ingresos de la Secretaría de Finanzas del Estado que correspondan al domicilio fiscal del contribuyente, o en las instituciones de crédito, centros comerciales, módulos fijos o itinerantes, o medios electrónicos debidamente autorizados por la misma Secretaría, a través de cualesquiera de los medios de pago establecidos en el Código Fiscal del Estado.
+El pago de las contribuciones a que se refiere esta Ley, deberá efectuarse en los plazos que la misma establece, en las oficinas recaudadoras del Servicio de Administración Fiscal del Estado de Campeche que correspondan al domicilio fiscal del contribuyente, o en las instituciones de crédito, centros comerciales, módulos fijos o itinerantes, o medios electrónicos debidamente autorizados por el mismo Servicio de Administración Fiscal del Estado de Campeche, a través de cualesquiera de los medios de pago establecidos en el Código Fiscal del Estado.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -95,7 +105,9 @@ Los comprobantes que se expidan por concepto de pago de derechos, tendrán vigen
 
 ARTÍCULO 3 BIS.- Los ingresos derivados de las contribuciones previstas en la presente ley, previa autorización del Congreso del Estado, podrán ser afectados a fideicomisos de medio de pago o garantía y/o a fideicomisos constituidos para contratar financiamientos conforme a la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
 
-Para efectos de lo anterior, la Secretaría de Finanzas deberá transferir los ingresos que se recauden de la contribución correspondiente a las cuentas del fideicomiso que para tal efecto se establezca. Asimismo, la Secretaría de Finanzas deberá instruir a las instituciones de crédito y centros comerciales, a través de los cuales se recaude la contribución correspondiente, la transferencia directa de los ingresos derivados de dicha contribución a las cuentas de los fideicomisos antes señalados mediante la celebración de mandatos, convenios o actos jurídicos análogos que tengan tal finalidad.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Para efectos de lo anterior, el Servicio de Administración Fiscal del Estado de Campeche, deberá transferir los ingresos que se recauden de la contribución correspondiente a las cuentas del fideicomiso que para tal efecto se establezca. Asimismo, el Servicio de Administración Fiscal del Estado de Campeche, deberá instruir a las instituciones de crédito y centros comerciales, a través de los cuales se recaude la contribución correspondiente, la transferencia directa de los ingresos derivados de dicha contribución a las cuentas de los fideicomisos antes señalados mediante la celebración de mandatos, convenios o actos jurídicos análogos que tengan tal finalidad.
 
 ###### ARTÍCULO 4.
 
@@ -123,7 +135,7 @@ Es objeto de este impuesto la enajenación de toda clase o tipo de libros, peri�
 
 ###### ARTÍCULO 7.
 
-Son sujetos y están obligadas (sic) al pago de este impuesto las personas físicas y morales y las unidades económicas que enajenen libros, periódicos y revistas dentro del Estado de Campeche.
+Son sujetos y están obligadas al pago de este impuesto las personas físicas y morales y las unidades económicas que enajenen libros, periódicos y revistas dentro del Estado de Campeche.
 
 Para los efectos de esta Ley, se considera libro toda publicación unitaria, no periódica, impresa en cualquier soporte, cuya edición se haga en un volumen o en varios volúmenes. Dentro del concepto de libros, no quedan comprendidas aquellas publicaciones periódicas amparadas bajo el mismo título o denominación y con diferente contenido entre una publicación y otra.
 
@@ -143,11 +155,15 @@ El monto del impuesto se determinará aplicando a la base gravable a que se refi
 
 #### SECCIÓN QUINTA. DEL PAGO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 10.
 
 El impuesto establecido en este capítulo se causará y se tendrá obligación de pagar en el momento en que se cobren o sean exigibles las contraprestaciones y sobre el monto de cada una de ellas.
 
-El pago de este impuesto tiene carácter de definitivo y deberá efectuarse mensualmente, mediante declaración que deberá presentarse a más tardar el día veinte del mes siguiente a aquel en que se cause el impuesto, en los formularios que apruebe y publique la Secretaría de Finanzas.
+El pago de este impuesto tiene carácter de definitivo y deberá efectuarse mensualmente mediante declaración que deberá presentarse a más tardar el día veinte del mes siguiente a aquel en que se cause el impuesto, en los formularios que apruebe y publique el Servicio de Administración Fiscal del Estado de Campeche.
+
+Los sujetos contribuyentes obligados en los términos del presente Capítulo deberán presentar declaraciones aun cuando no exista impuesto a pagar en tanto no se presente el aviso de suspensión, disminución o cancelación en el Registro Estatal de Contribuyentes, según corresponda.
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
@@ -155,7 +171,9 @@ El pago de este impuesto tiene carácter de definitivo y deberá efectuarse mens
 
 Los sujetos de este impuesto, estarán obligados a:
 
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro del mes siguiente al día en que inicien sus operaciones o en la fecha en que se coloquen en las hipótesis de causación del impuesto, mediante los formularios que para el efecto apruebe y publique la Secretaría de Finanzas, con los datos y documentos que en ella se exijan;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+I. Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro del mes siguiente al día en que inicien sus operaciones o en la fecha en que se coloquen en las hipótesis de causación del impuesto, mediante los formularios que para el efecto apruebe y publique el Servicio de Administración Fiscal del Estado de Campeche, con los datos y documentos que en él se exijan;
 
 II.- Presentar ante la oficina recaudadora que corresponda a su domicilio fiscal en los términos del Código Fiscal del Estado, los avisos respectivos de cambio de nombre, domicilio, denominación o razón social, domicilio fiscal, traspaso, clausura, fusión, escisión, liquidación; así como suspensión o reanudación de actividades u obligaciones, así como cuando se abra o cierre un local, bodega, oficina, establecimiento, agencia, sucursal o instalaciones dentro de los cuales se realicen los actos o actividades objeto de este impuesto o cualquiera otra circunstancia que modifique los datos aportados por el contribuyente, contenidos en el documento de inscripción, en los plazos señalados por el citado Código Fiscal del Estado;
 
@@ -203,23 +221,27 @@ Son sujetos del pago de este impuesto las personas físicas y morales o unidades
 
 La base para el cálculo de este impuesto será el volumen de metros cúbicos de material extraído en términos del artículo anterior.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Para efectos de cuantificar o determinar el volumen de material, la Secretaría de Finanzas podrá hacer uso de los instrumentos que sean necesarios incluyendo los denominados sistemas de posicionamiento global o cualquier otro que tecnológicamente permita determinar el volumen.
+Para efectos de cuantificar o determinar el volumen de material, el Servicio de Administración Fiscal del Estado de Campeche, podrá hacer uso de los instrumentos que sean necesarios incluyendo los denominados sistemas de posicionamiento global o cualquier otro que tecnológicamente permita determinar el volumen.
 
 #### SECCIÓN CUARTA. DE LA TASA
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 16.
 
-El impuesto a que se refiere este capítulo se causará por cada metro cúbico que se extraiga de los materiales objeto de la contribución con una tarifa de 0.14 veces el salario mínimo general diario vigente para el Estado de Campeche.
+El impuesto a que se refiere este capítulo se causará por cada metro cúbico que se extraiga de los materiales objeto de la contribución con una tarifa de 0.14 veces el valor diario de la Unidad de Medida y Actualización.
 
 #### SECCIÓN QUINTA. DEL PAGO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 17.
 
-Los contribuyentes sujetos de este impuesto, efectuarán sus pagos, a más tardar el día 20 del mes siguiente a que ocurran las actividades a que se refiere el artículo 13, mediante declaración que presentarán en las formas autorizadas por la Secretaría de Finanzas a través de los medios electrónicos dispuestos por ésta mediante reglas de carácter general.
+Los contribuyentes sujetos de este impuesto, efectuarán sus pagos, a más tardar el día 20 del mes siguiente a que ocurran las actividades a que se refiere el artículo 13, mediante declaración que presentarán en las formas autorizadas por el Servicio de Administración Fiscal del Estado de Campeche, a través de los medios electrónicos dispuestos por éste mediante reglas de carácter general.
 
-Los contribuyentes deberán proporcionar la información que se les solicite en las formas que al efecto apruebe la Secretaría de Finanzas del Estado.
+Los contribuyentes deberán proporcionar la información que se les solicite en las formas que al efecto apruebe el Servicio de Administración Fiscal del Estado de Campeche.
 
 ###### ARTÍCULO 18.
 
@@ -289,7 +311,9 @@ De igual forma, quedan comprendidas como sujetos de este impuesto las empresas p
 
 Están obligados a retener y enterar este impuesto, las personas físicas, las personas morales, las unidades económicas y los demás sujetos del impuesto a que se refiere el artículo anterior, que contraten la prestación de servicios objeto de este impuesto con empresas residentes fuera del Estado de Campeche.
 
-A fin de que se cumpla la obligación a que se refiere el párrafo anterior quienes contraten la prestación de servicios objeto de este impuesto con empresas residentes fuera del Estado de Campeche, deberán informar a la Secretaría de Finanzas y Administración el pago que haya efectuado a los trabajadores, la empresa prestadora del servicio dentro de los diez días del mes siguiente al que se haya efectuado el pago.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+A fin de que se cumpla la obligación a que se refiere el párrafo anterior quienes contraten la prestación de servicios objeto de este impuesto con empresas residentes fuera del Estado de Campeche, deberán informar al Servicio de Administración Fiscal del Estado de Campeche el pago que haya efectuado a los trabajadores, la empresa prestadora del servicio dentro de los diez días del mes siguiente al que haya efectuado el pago.
 
 En caso que se omita esta obligación, se presumirá que el pago por los servicios objeto de este impuesto es el importe total que se cubre a la prestadora de servicios.
 
@@ -299,15 +323,21 @@ Las personas físicas y las personas morales, que sean residentes fuera del Esta
 
 Cuando en la contratación de trabajadores para un patrón persona física o moral denominado contratante, a fin de que ejecuten trabajos o presten servicios para él, participe un intermediario laboral persona física o moral, cualquiera que sea la denominación que patrón e intermediarios asuman denominado contratista no cumpla con las obligaciones del pago, el contratante queda obligado respecto de todas las obligaciones fiscales contenidas en este capítulo que nazca de dicha relación.
 
-La persona que contrate los servicios personales a que se refiere este artículo, deberá comunicar trimestralmente ante las oficinas recaudadoras de la Dirección de Ingresos de la Secretaría de Finanzas del Estado que correspondan al domicilio del patrón o sujeto obligado, y del beneficiario respectivamente, dentro de los primeros quince días de los meses de enero, abril, julio y octubre, en relación con los contratos celebrados en el trimestre de que se trate la información siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+La persona que contrate los servicios personales a que se refiere este artículo, deberá comunicar trimestralmente ante las oficinas recaudadoras del Servicio de Administración Fiscal del Estado de Campeche que correspondan al domicilio del patrón o sujeto obligado, y del beneficiario respectivamente, dentro de los primeros quince días de los meses de enero, abril, julio y octubre, en relación con los contratos celebrados en el trimestre de que se trate la información siguiente:
 
 I. De las partes en el contrato: Nombre, denominación o razón social; clase de persona moral de que se trate, en su caso; objeto social; domicilio social, fiscal y, en su caso, convencional para efectos del contrato; número del Registro Federal de Contribuyentes y de Registro Patronal ante el IMSS; datos de su acta constitutiva, tales como número de escritura pública, fecha, nombre del notario público que da fe de la misma, número de la notaría y ciudad a la que corresponde, sección, partida, volumen, foja o folio mercantil, en su caso, y fecha de inscripción en el Registro Público de la Propiedad y el Comercio; nombre de los representantes legales de las partes que suscribieron el contrato.
 
 II. Del contrato: Objeto; periodo de vigencia; perfiles, puestos o categorías indicando en este caso si se trata de personal operativo, administrativo o profesional y el número estimado mensual de trabajadores u otros sujetos de aseguramiento que se pondrán a disposición del beneficiario de los servicios o trabajos contratados.
 
-El patrón incorporará por cada uno de sus trabajadores, el nombre del beneficiario de los servicios o trabajos contratados en el sistema de cómputo autorizado por la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-La información prevista en este artículo deberá ser presentada en documento impreso, o en medios magnéticos, digitales, electrónicos, ópticos, magneto óptico o de cualquier otra naturaleza, conforme a las reglas generales que para tal efecto emita la Secretaría de Finanzas.
+El patrón incorporará por cada uno de sus trabajadores, el nombre del beneficiario de los servicios o trabajos contratados en el sistema de cómputo autorizado por el Servicio de Administración Fiscal del Estado de Campeche.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+La información prevista en este artículo deberá ser presentada en documento impreso, o en medios magnéticos, digítales, electrónicos, ópticos, magneto óptico o de cualquier otra naturaleza, conforme a las reglas generales que para tal efecto emita el Servicio de Administración Fiscal del Estado de Campeche.
 
 Para los efectos de este artículo, el Gobierno del Estado, en ningún caso, será considerado como intermediario laboral.
 
@@ -347,9 +377,11 @@ INFERIOR
 
 #### SECCIÓN QUINTA. DEL PAGO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 25.
 
-El pago del impuesto tiene el carácter de pago definitivo y deberá efectuarse a más tardar el día veinte del mes siguiente a aquel en que se causó el impuesto, mediante los formularios, que para esos efectos apruebe y publique la Secretaría de Finanzas.
+El pago del impuesto tiene el carácter de pago definitivo y deberá efectuarse a más tardar el día veinte del mes siguiente aquel en que se causó el impuesto, mediante los formularios, que para esos efectos apruebe y publique el Servicio de Administración Fiscal del Estado de Campeche.
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
@@ -357,7 +389,9 @@ El pago del impuesto tiene el carácter de pago definitivo y deberá efectuarse 
 
 Los sujetos contribuyentes de este impuesto tendrán, además de las obligaciones señaladas en el presente Capítulo y en el Código Fiscal del Estado, la obligación de llevar los registros contables que permitan identificar el monto de los pagos o erogaciones gravadas y exentas objeto del impuesto a que se refiere este capítulo, así como el importe del impuesto pagado por las mismas y, las siguientes:
 
-I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro del mes siguiente al día en que inicien sus operaciones, o en la fecha en que se coloquen en las hipótesis de causación del impuesto, mediante los formularios que para el efecto apruebe y publique la Secretaría de Finanzas. Igual plazo tienen las personas físicas, las personas morales y las unidades económicas que hayan iniciado sus actividades con anterioridad a la entrada en vigor de la presente Ley;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+I. Solicitar su inscripción en el Registro Estatal de Contribuyentes ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro del mes siguiente al día en que inicien sus operaciones, o en la fecha en que se coloquen en las hipótesis de causación del impuesto, mediante los formularios que para el efecto apruebe y publique el Servicio de Administración Fiscal del Estado de Campeche. Igual plazo tienen las personas físicas, las personas morales y las unidades económicas que hayan iniciado sus actividades con anterioridad a la entrada en vigor de la presente Ley;
 
 II.- Presentar ante la oficina recaudadora que corresponda a su domicilio fiscal en los términos del Código Fiscal del Estado, los avisos respectivos de cambio de nombre, domicilio, denominación o razón social, domicilio fiscal, traspaso, clausura, fusión, escisión, liquidación; así como suspensión, disminución de obligaciones, cancelación o reanudación de actividades u obligaciones, así como cuando se abra o cierre un local, oficina, establecimiento, agencia, sucursal o instalaciones dentro de los cuales se realicen los actos o actividades objeto de este impuesto o cualquiera otra circunstancia que modifique los datos aportados por el contribuyente, contenidos en el documento de inscripción, en los plazos señalados por el citado Código Fiscal del Estado;
 
@@ -481,7 +515,9 @@ El monto del impuesto se determinará aplicando a la base gravable a que alude e
 
 El impuesto establecido en este capítulo se causará y se tendrá obligación de pagar en el momento en que se cobren o sean exigibles las contraprestaciones en favor de quien preste los servicios de hospedaje, el que ocurra primero.
 
-El pago de este impuesto tiene el carácter de definitivo y deberá efectuarse mensualmente, mediante declaración que deberá presentarse a más tardar el día veinte del mes siguiente a aquel en que se cause el impuesto, en los formularios que apruebe y publique la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+El pago de este impuesto tiene el carácter de definitivo y deberá efectuarse mensualmente, mediante declaración que deberá presentarse a más tardar el día veinte del mes siguiente a aquel en que se cause el impuesto, en los formularios que apruebe y publique el Servicio de Administración Fiscal del Estado de Campeche.
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
@@ -615,9 +651,9 @@ El pago de este impuesto deberá efectuarse dentro de los plazos siguientes:
 
 I.- Cuando las loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos se realicen por contribuyentes habituales, se pagará el impuesto a más tardar el día veinte del mes siguiente a aquel en que éste se cause, conjuntamente con el importe del impuesto retenido, a cargo de quien o quienes hayan obtenido el premio, y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-II. Cuando se trate de contribuyentes eventuales, previo al evento deberán otorgar un depósito equivalente al cincuenta por ciento del impuesto correspondiente al total del boletaje emitido, en efectivo o mediante fianza expedida por institución legalmente autorizada, ante la Secretaría de Finanzas; debiendo presentarse ante las autoridades fiscales al día hábil siguiente de la realización del evento o actividad con el boletaje sobrante en su caso, a fin de determinar los boletos vendidos y como consecuencia, la diferencia a cargo o a favor del contribuyente, con base en los porcentajes establecidos en este capítulo, debiendo enterar en ese mismo día el impuesto o cargo que resulte.
+II. Cuando se trate de contribuyentes eventuales, previo al evento deberán otorgar un depósito equivalente al cincuenta por ciento del impuesto correspondiente al total del boletaje emitido, en efectivo o mediante fianza expedida por institución legalmente autorizada, ante el Servicio de Administración Fiscal del Estado de Campeche; debiendo presentarse ante las autoridades fiscales al día hábil siguiente de la realización del evento o actividad con el boletaje sobrante en su caso, a fin de determinar los boletos vendidos y como consecuencia, la diferencia a cargo o a favor del contribuyente, con base en los porcentajes establecidos en este capítulo, debiendo enterar en ese mismo día el impuesto o cargo que resulte.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -631,9 +667,9 @@ El pago de este impuesto no libera de la obligación de obtener previamente los 
 
 Los contribuyentes eventuales no podrán iniciar la lotería, rifa, sorteo, concurso o juego con cruce de apuestas legalmente permitido, si no han pagado el impuesto correspondiente a algún evento anterior, en caso de que lo adeude.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-El pago de este impuesto se cubrirá mediante declaración que presentarán en las formas autorizadas por la Secretaría de Finanzas a través de los medios de pago establecidos en el Código Fiscal del Estado.
+El pago de este impuesto se cubrirá mediante declaración que presentarán en las formas autorizadas por el Servicio de Administración Fiscal del Estado de Campeche a través de los medios de pago establecidos en el Código Fiscal del Estado.
 
 #### SECCIÓN SEXTA. DE LAS OBLIGACIONES
 
@@ -753,13 +789,15 @@ El impuesto se causa, asimismo, cuando quien paga al operador del establecimient
 
 #### SECCIÓN CUARTA. DE LA RECAUDACIÓN DEL IMPUESTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 40-D.
 
-El impuesto se pagará mediante retención que efectuará el operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas autorizadas a más tardar el día veinte del mes de calendario siguiente a la fecha de su retención o el día hábil siguiente si aquel no lo fuere.
+El impuesto se pagará mediante retención que efectuará el operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas autorizadas por el Servicio de Administración Fiscal del Estado de Campeche, a más tardar el día veinte del mes de calendario siguiente a la fecha de su retención o el día hábil siguiente si aquel no lo fuere.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
 Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda retener el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en el artículo 40-H.
 
@@ -1011,7 +1049,9 @@ El impuesto se determinará aplicando a la base gravable que establece el artíc
 
 El pago de este impuesto, se realizará conjuntamente y en el momento en que deban efectuarse los pagos por el concepto a que se refiere el artículo 53-A.
 
-Los sujetos de este impuesto efectuarán su pago en la oficina recaudadora correspondiente y en las Instituciones Bancarias o en los medios que la Secretaría de Finanzas tenga autorizados.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Los sujetos de este impuesto efectuarán su pago en la oficina recaudadora correspondiente y en las instituciones Bancarias o en los medios que el Servicio de Administración Fiscal del Estado de Campeche tenga autorizados.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1147,13 +1187,9 @@ Los distribuidores o comerciantes que enajenen las bebidas a que se refiere el a
 
 Quienes no cumplan con la obligación señalada en el párrafo anterior, serán responsables solidarios del impuesto que se dejare de pagar respecto de las bebidas enajenadas por ellos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
 ###### Artículo 53-O.
 
-Para los efectos de este impuesto, también se considerará venta final, el faltante de inventario o el consumo propio de las bebidas referidas en el artículo 53-I.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1179,51 +1215,47 @@ II.- Registrar la obligación de pago del presente impuesto y los establecimient
 
 ### CAPÍTULO I. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO CIVIL
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 54.
 
 Se pagarán derechos al Estado por los servicios que proporcione el Registro Civil, conforme a lo siguiente:
 
-Salario
+Unidades de Medida y
 
-Mínimo
+Actualización
 
-General
+I. Papel sellado especial para
 
-Diario
+certificados de actas por hoja .45
 
-Vigente
+II. Por certificación de cualquier acto
 
-I.- Papel sellado especial para certificados de actas
+que conste en los libros del Registro
 
-por hoja .45
+Civil, además del papel .6
 
-II.- Por certificación de cualquier acto que conste en
+III. Por expedición de la primera copia
 
-los libros del Registro Civil, además del papel .6
+certificada del acta de registro de nacimiento. Exento
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
+IV. Por la práctica a domicilio de
 
-III.- Por expedición de la primera copia certificada del acta de registro de nacimiento. EXENTO
+registros de nacimientos, además del papel 2
 
-IV.- Por la práctica a domicilio de registros de
+V. Legitimaciones 1
 
-nacimientos, además del papel 2
+VI. Adopciones 4
 
-V.- Legitimaciones 1
+VII. Registro de reconocimiento de hijos naturales:
 
-VI.- Adopciones 4
+a) Si el reconocimiento se hace al registrar el nacimiento 1
 
-VII.- Registro de reconocimiento de hijos naturales:
+b) Si el reconocimiento se hace después de registrado
 
-a) Si el reconocimiento se hace al registrar el
+el nacimiento 1
 
-nacimiento 1
-
-b) Si el reconocimiento se hace después de
-
-registrado el nacimiento 1
-
-VIII.- Matrimonios:
+VIII. Matrimonios:
 
 a) Celebrados en las oficinas en horas hábiles 2
 
@@ -1233,37 +1265,43 @@ c) Celebrados en domicilio en horas hábiles 15
 
 d) Celebrados en domicilio en horas inhábiles 25
 
-IX.- Por inscripción de un acta de nacimiento
+IX. Por inscripción de un acta de nacimiento
 
-procedente del extranjero, debidamente requisitada 9
+procedente del extranjero,
 
-X.- Por inscripción de un acta de matrimonio
+debidamente requisitada 9
 
-procedente del extranjero, debidamente requisitada 9
+X. Por inscripción de un acta de matrimonio
 
-XI.- Por cada uno de los actos del Código Civil del
+procedente del extranjero,
 
-Estado 2
+debidamente requisitada 9
 
-XII.- Registro de actas de fallecimiento EXENTO
+XI. Por cada uno de los actos del Código Civil
 
-XIII.- Registro de actas de fallecimiento provenientes
+del Estado 2
 
-del extranjero debidamente requisitadas EXENTO
+XII. Registro de actas de fallecimiento EXENTO
 
-XIV.- Por registro de habilitación de edad 1
+XIII. Registro de actas de fallecimiento
 
-XV.- Registro de Tutela 2
+provenientes del extranjero
 
-XVI.- Por cada dispensa de Ley, cualquiera que fuese
+debidamente requisitadas EXENTO
 
-su naturaleza 2
+XIV. Por registro de habilitación de edad 1
 
-XVII.- Por cada constancia oficial del registro de actas
+XV. Registro de Tutela 2
 
-de nacimiento 1
+XVI. Por cada dispensa de Ley, cualquiera que
 
-XVIII.- Anotaciones de:
+fuese su naturaleza 2
+
+XVII. Por cada constancia oficial del registro
+
+de actas de nacimiento 1
+
+XVIII. Anotaciones de:
 
 a) Rectificación de Actas 9
 
@@ -1275,19 +1313,15 @@ El pago de los derechos que establece el artículo anterior, deberá hacerse por
 
 ### CAPÍTULO II. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 56.
 
 Los actos o contratos que por disposición de las leyes de la materia o por voluntad de las partes, deban ser inscritos en los libros del Registro Público de la Propiedad y de Comercio del Estado, causarán un derecho conforme a las siguientes tarifas y cuotas y se pagarán previa prestación del servicio:
 
-I.- De la propiedad raíz, por la inscripción de inmuebles o derechos reales que transfieran o modifiquen la propiedad, el derecho se causará conforme a la siguiente tarifa:
+I. De la propiedad raíz, por la inscripción de inmuebles o derechos reales que transfieran o modifiquen la propiedad, el derecho se causará conforme a la siguiente tarifa:
 
-Porcentaje
-
-sobre el
-
-excedente del
-
-límite inferior
+Porcentaje sobre el excedente del límite inferior
 
 Cuota fija
 
@@ -1295,145 +1329,209 @@ HASTA $ 120,000.00 $ 45.00
 
 DE $ 120,001.00 A $ 200,000.00 $ 65.00 0.10%
 
-DE $ 200,001.00 A $ 300,000.00 $ 100.00 0.20%
+DE $ 200,001.00 A $ 300,000.0 $100.00 0.20%
 
-DE $ 300,001.00 A $ 400,000.00 $ 120.00 0.30%
+DE $ 300,001.00 A $ 400,000.0 $ 120.00 0.30%
 
-DE $ 400,001.00 EN ADELANTE $ 150.00 0.40%
+DE $ 400,001.00 EN ADELANTE $150.00 0.40%
 
 Para el cobro del presente derecho se tomará como base el valor que resulte más alto entre el avalúo bancario, el valor fiscal o catastral y valor de operación.
 
-Salario Mínimo
+Unidades de Medida
 
-General Diario
+y Actualización
 
-Vigente
+II. Por el examen de cualquier documento público o
 
-II.- Por el examen de cualquier documento
+Privado que se presente para su inscripción y se
 
-público o privado que se presente para su
+niegue la misma, por no ser inscribible, o se resuelva
 
-inscripción y se niegue la misma, por no ser
+sin inscripción voluntaria del interesado o por resolución
 
-inscribible, o se resuelva sin inscripción voluntaria
+judicial 1.13
 
-del interesado o por resolución judicial 1.13
+III. Las inscripciones de documentos que aclaren,
 
-III.- Las inscripciones de documentos que
+ratifiquen o modifiquen los contratos o actos, sin
 
-aclaren, ratifiquen o modifiquen los contratos o
+aumentar el valor, ni transferir derechos pecuniarios
 
-actos, sin aumentar el valor, ni transferir derechos
+y que hayan cubierto el pago de los derechos de
 
-pecuniarios y que hayan cubierto el pago de los
+registro, pagarán 1.13
 
-derechos de registro, pagarán 1.13
+IV. Por inscripción de documentos hipotecarios
 
-IV.- Por inscripción de documentos hipotecarios se pagará de acuerdo con la tarifa de la fracción I
+se pagará de acuerdo con la tarifa de la fracción I.
 
-V.- Las inscripciones de cualquier documento de
+V. Las inscripciones de cualquier documento
 
-las sociedades civiles ya sea de constitución,
+de las sociedades civiles ya sea de constitución,
 
 modificación o disolución pagarán 4
 
-VI.- Por la inscripción de contratos de permuta de inmuebles o derechos reales se pagará sobre el valor que exprese cada documento el 0.20%
+VI. Por la inscripción de contratos de permuta de
 
-VII.- Por la inscripción de los contratos
+inmuebles o derechos reales se pagará sobre el
 
-preparatorios o accesorios, sobre traslación de
+valor que exprese cada documento el 0.20%
 
-dominio o derechos reales de inmuebles, por
+VII. Por la inscripción de los contratos
 
-cada documento 1.5
+preparatorios o accesorios, sobre traslación
 
-VIII.- Por la cancelación de hipotecas o
+de dominio o derechos reales de inmuebles,
+
+por cada documento 1.5
+
+VIII. Por la cancelación de hipotecas o
 
 documentos no especificados 1.5
 
-IX.- Por la inscripción de prórroga de hipotecas,
+IX. Por la inscripción de prórroga de hipotecas,
 
 sin aumentar el capital o interés 1
 
-X.- Por la inscripción de embargos y fianzas, sobre el importe de la operación, 0.03%
+X. Por la inscripción de embargos y fianzas,
 
-XI.- Por la inscripción de cualquier otro
+sobre el importe de la operación, 0.03%
 
-documento no especificado 2
+XI. Por la inscripción de cualquier
 
-XII.- Por la inscripción de la escritura constitutiva
+otro documento no especificado 2
 
-de sociedades mercantiles o de las relativas a
+XII. Por la inscripción de la escritura
 
-aumento de su capital 4
+constitutiva de sociedades mercantiles
 
-XIII.- Por la inscripción de actas de asambleas de
+o de las relativas a aumento de su capital 4
 
-socios o juntas de administradores, no referentes
+XIII. Por la inscripción de actas de asambleas
 
-a aumentos de capital 2.5
+de socios o juntas de administradores, no
 
-XIV.- Por el registro de poderes, conferidos a
+referentes a aumentos de capital 2.5
 
-socios, administradores o personas dependientes
+XIV. Por el registro de poderes,
 
-y las substituciones, sus revocaciones o
+conferidos a socios, administradores o
 
-renovaciones, por cada acto 3
+personas dependientes y las substituciones,
 
-XV.- Por la inscripción de actos de emisión de bonos y obligaciones, se estará a lo dispuesto en la fracción I
+sus revocaciones o renovaciones, por cada acto 3
 
-XVI.- La inscripción de escrituras de disolución o
+XV. Por la inscripción de actos de emisión de
 
-liquidación de las sociedades mercantiles, cubrirá
+bonos y obligaciones, se estará a lo dispuesto
 
-la cuota de 3
+en la fracción I.
 
-XVII.- Las inscripciones relativas a habilitación de
+XVI. La inscripción de escrituras de
 
-edad, licencia y emancipación, para ejercer el
+disolución o liquidación de las sociedades
 
-comercio, y por las renovaciones de unos y otros 1.13
+mercantiles, cubrirá la cuota de 3
 
-XVIII.- Por busca de datos, para la expedición de informes certificados, relativos a las constancias de registro:
+XVII. Las inscripciones relativas a habilitación
+
+de edad, licencia y emancipación, para ejercer
+
+el comercio, y por las renovaciones de unos y otros 1.13
+
+XVIII. Por busca de datos, para la expedición
+
+de informes certificados, relativos a las
+
+constancias de registro:
 
 a) Del año en curso 1
 
 b) Por cada año anterior 0.2
 
-XIX.- La inscripción de créditos hipotecarios y de habilitación o avío que soliciten las sociedades de crédito o cualquiera institución y organización auxiliar de crédito, a personas físicas o morales, sobre el importe de la operación pagarán el 0.25%. Tratándose de créditos otorgados para el desarrollo del sector agropecuario, pagarán sobre el 10% del monto del crédito total, el 0.25%.
+XIX.- La inscripción de créditos hipotecarios
 
-Se considera vivienda de interés social aquella cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general diario elevado al año, vigente en el Estado.
+y de habilitación o avío que soliciten las
 
-Se considera vivienda popular, aquélla cuyo valor, al término de su edificación no exceda de la suma que resulte de multiplicar por treinta el salario mínimo general diario elevado al año, vigente en el Estado.
+sociedades de crédito o cualquiera institución y
 
-Tratándose de créditos otorgados para adquisición o construcción de vivienda de interés social o popular pagarán cuatro salarios mínimos diarios vigentes en el Estado. Se pagará esta misma cuota tratándose de créditos para adquisición de vivienda cofinanciados por diversas instituciones de crédito.
+organización auxiliar de crédito, a personas
 
-XX.- La inscripción de cualquier tipo de embarcaciones, se pagará conforme a la tarifa de la fracción I
+físicas o morales, sobre el importe de la
 
-XXI.- Por expedición de certificados de libertad o
+operación pagarán el 0.25%. Tratándose de
 
-gravamen y de restricciones al derecho de
+créditos otorgados para el desarrollo del
 
-propiedad 1.5
+sector agropecuario, pagarán sobre el 10%
 
-XXII.- Por expedición de Certificados de
+del monto del crédito total, el 0.25%.
 
-inscripción de propiedad, positivos o negativos 1.5
+Se considera vivienda de interés social aquella
 
-XXIII.- Por inscripción de reestructuración, en
+cuyo valor, al término de su edificación, no
 
-cualquiera de sus modalidades 2
+exceda de la suma que resulte de multiplicar
 
-XXIV.- Por el registro de sello, firma, rúbrica o
+por veinticinco veces el valor diario de la
 
-media firma 10
+Unidad de Medida y Actualización.
+
+Se considera vivienda popular, aquélla cuyo
+
+valor, al término de su edificación no exceda
+
+de la suma que resulte de multiplicar por
+
+treinta veces el valor diario de la Unidad de
+
+Medida y Actualización.
+
+Tratándose de créditos otorgados para adquisición
+
+o construcción de vivienda de interés social o
+
+popular pagarán cuatro veces el valor diario de
+
+la Unidad de Medida y Actualización. Se pagará
+
+esta misma cuota tratándose de créditos para
+
+adquisición de vivienda cofinanciados por
+
+diversas instituciones de crédito.
+
+XX.- La inscripción de cualquier tipo
+
+de embarcaciones, se pagará conforme
+
+a la tarifa de la fracción I
+
+XXI.- Por expedición de certificados de
+
+libertad o gravamen y de restricciones
+
+al derecho de propiedad 1.5
+
+XXII.- Por expedición de Certificados
+
+de inscripción de propiedad, positivos o
+
+negativos 1.5
+
+XXIII.- Por inscripción de reestructuración,
+
+en cualquiera de sus modalidades 2
+
+XXIV.- Por el registro de sello, firma,
+
+rúbrica o media firma 10
 
 XXV.- Por la inscripción de aviso de testamento 1
 
-XXVI.- Por la verificación de constancia de aviso
+XXVI.- Por la verificación de constancia de
 
-de testamento 1
+aviso de testamento 1
 
 ### CAPÍTULO III. POR CERTIFICACIONES Y COPIAS CERTIFICADAS
 
@@ -1447,23 +1545,21 @@ II.- Certificación de documentos que expidan las autoridades incluyendo la que 
 
 III.- Las copias simples o fotostáticas de documentos que expidan las autoridades o dependencias sobre actos o hechos pasados ante ellas, distintos a las referidas en el artículo 59.
 
-###### ARTÍCULO 58.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 58.
 
 Por los conceptos especificados en el artículo anterior se causarán los derechos siguientes:
 
-Salario Mínimo
+Unidades de Medida
 
-General Diario
+y Actualización
 
-Vigente
+I. Por la legalización de firmas:
 
-I.- Por la legalización de firmas:
+a) Que efectúen los funcionarios o empleados autorizados
 
-a) Que efectúen los funcionarios o empleados
-
-autorizados legalmente para ello, del Poder
-
-Ejecutivo o del Judicial 2
+legalmente para ello, del Poder Ejecutivo o del Judicial 2
 
 b) Certificado de Educación Media Superior 3
 
@@ -1475,175 +1571,197 @@ e) Legalización de documentos de apostillamiento 7
 
 f) Otros certificados no especificados 2
 
-II.- Por los servicios a que se refiere la fracción II del artículo anterior:
+II. Por los servicios a que se refiere la fracción II del artículo anterior.
 
-a) Por la primera hoja 1.5
+a) Por la primera hoja 1.15
 
 b) Por las hojas subsiguientes, cada una .1
 
-III.- Por los servicios a que se refiere la fracción III del artículo anterior:
+III. Por los servicios a que se refiere la fracción III del artículo anterior.
 
-a) Por expedición de copias simples y fotostáticas,
+a) Por expedición de copias simples y fotostáticas, cada hoja .07
 
-cada hoja .07
-
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 59.
 
-Tratándose de los servicios a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, se pagarán derechos conforme a las cuotas que para cada caso se señalan, salvo en aquellos casos que expresamente se establezcan excepciones:
+Tratándose de los servicios a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Campeche, se pagarán derechos conforme a las cuotas que para cada caso se señala, salvo en aquellos casos que expresamente se establezcan excepciones:
 
-Salario Mínimo
+Unidades de Medida
 
-General
+y Actualización
 
-Diario Vigente
+I. Por expedición de copias certificadas, constancias y cualesquiera otra
 
-I.- Por expedición de copias certificadas, constancias y
-
-cualesquiera otra certificación de documentos que expidan
-
-los Entes Públicos:
+certificación de documentos que expidan los Entes Públicos:
 
 a) Por la primera hoja: .59
 
 b) Por las hojas subsecuentes, cada una: .017
 
-II.- Por expedición de copias simples, cada hoja: .017
+Por expedición de copias simples:
 
-III.- Por reproducción de la información en medios electrónicos:
+a) Por no más de 20 hojas: EXENTO
 
-a) Disco magnético y CD, por cada uno: .17
+b) Por hojas subsecuentes, cada una: .017
+
+Por reproducción de copias en medios electrónicos:
+
+a) Discos magnéticos y CD, por cada uno: .47
 
 b) DVD, por cada uno: .34
 
-(sic) interesado aporta el medio magnético u óptico en el que será almacenada la información, la reproducción será sin costo. Lo anterior queda sujeto a la compatibilidad del medio magnético u óptico que aporte el solicitante y el equipo de reproducción o grabación con que cuente el Ente Público.
+Si el interesado aporta el medio magnético u óptico en el que será almacenada la información, la reproducción será sin costo. Lo anterior queda sujeto a la compatibilidad del medio magnético u óptico que aporte el solicitante y el equipo de reproducción o grabación con que cuente el Ente Público.
 
 En el caso de reproducción de fotografías, cintas de video, audio casetes, planos, cartografía y, en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología, en que obre la información pública solicitada, serán proporcionados o correrán por cuenta del interesado.
 
-El envío de la información solicitada podrá realizarse por correo o paquetería, para lo cual los solicitantes que opten por estos servicios deberán cubrir los costos que correspondan según las tarifas vigentes que mantengan las empresas de mensajería establecidas y el Servicio Postal Mexicano, costo que se deberá incluir en la resolución correspondiente y notificarse al interesado.
+El envío de la información solicitada podrá realizarse por correo o paquetería, para lo cual los solicitantes que opten por estos servicios deberán cubrir los costos que correspondan según las tarifas vigentes que mantengan las empresas de mensajería establecidas y el Servicio Postal Mexicano, costo que deberá incluir en la resolución correspondiente y notificarse al interesado.
 
 No se cobrarán costos de envío cuando el solicitante manifieste expresamente en su solicitud que se presentará personalmente a recoger la información solicitada.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 60.
 
-El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
+El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras del Servicio de Administración Fiscal del Estado de Campeche o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
 ### CAPÍTULO IV. POR NOTARIADO Y ARCHIVOS DE INSTRUMENTOS PÚBLICOS NOTARIALES
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 61.
 
-El Estado percibirá por la autorización de libros para el Protocolo de las Notarías, por cada uno, un derecho de 5 salarios mínimos diarios vigentes.
+El Estado percibirá por la autorización de libros para el Protocolo de las Notarías, por cada uno, un derecho de 5 veces el valor diario de la Unidad de Medida y Actualización
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 62.
 
-Pagarán asimismo los notarios por cada anotación que deba hacerse en el Archivo General de Notarías dependiente del Registro Público de la Propiedad y de Comercio, con motivo de sus avisos de otorgamiento de escrituras un salario mínimo diario vigente.
+Pagarán asimismo los notarios por cada anotación que deba hacerse en el Archivo General de Notarias dependiente del Registro Público de la Propiedad y de Comercio, con motivo de sus avisos de otorgamiento de escrituras de 1 vez el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 63.
 
 La expedición de testimonios de escrituras o instrumentos públicos, causará un derecho de acuerdo con lo siguiente:
 
-Salario Mínimo
+Unidades de Medida
 
-General Diario
+y Actualización
 
-Vigente
+I. Por la primera hoja 1
 
-I.- Por la primera hoja 1
+II. Por las hojas subsiguientes, cada una .2
 
-II.- Por las hojas subsiguientes, cada una .2
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 64.
 
 La búsqueda de expedientes en los archivos del Gobierno causarán los derechos que se enlistan a continuación:
 
-Salario Mínimo
+Unidades de Medida
 
-General Diario
+y Actualización
 
-Vigente
-
-I.- Por escrituras o documentos a fecha
+I. Por escrituras o documentos a fecha
 
 fija, dentro del último año 1
 
-II.- Por escrituras o documentos a fecha
+II. Por escrituras o documentos a fecha
 
 fija, anteriores al año en curso 1.5
 
-III.- Por escrituras o documentos de un
+III. Por escrituras o documentos de un año
 
-año fijo, sin determinar mes ni día 2
+fijo, sin determinar mes ni día 2
 
-IV.- Por escrituras o documentos de
+IV. Por escrituras o documentos de fecha
 
-fecha indeterminada la cuota anterior más 3
+indeterminada la cuota anterior más 3
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 65.
 
-El Estado, a través de la Secretaría de Finanzas percibirá los siguientes derechos en los casos de folios notariales en su modalidad abierta:
+El Estado, a través del Servicio de Administración Fiscal del Estado de Campeche percibirá los siguientes derechos en los casos de folio notariales en su modalidad abierta:
 
-Salario Mínimo
+Unidades de Medida
 
-General Diario
+y Actualización
 
-Vigente
+I.- Por expedición de folios notariales para la
 
-I.- Por expedición de folios notariales para
+modalidad abierta, por cada uno .08
 
-la modalidad abierta, por cada uno .08
+II.- Por certificación de folios notariales en la
 
-II.- Por certificación de folios notariales en la modalidad abierta:
+modalidad abierta:
 
 a) Por 150 folios 5
 
 b) Por cada folio de manera unitaria .034
 
-Por los demás servicios que preste el Archivo General de Notarías o, en su caso, la Secretaría de Gobierno, que no se encuentren especificados en este capítulo, los interesados pagarán 2 salarios mínimos diarios vigentes, por cada servicio.
+Por los demás servicios que preste el Archivo General de Notarías o, en su caso, la Secretaria de Gobierno, que no se encuentren especificados en este capítulo, los interesados pagarán 2 veces el valor diario de la Unidad de Medida y Actualización, por cada servicio.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 66.
 
-Para el cobro de los derechos que causa el otorgamiento de escrituras que extiendan los jueces de primera instancia cuando actúen en el interior del Estado por falta de Notario Público, se aplicará 2 salarios mínimos diarios vigentes.
+Para el cobro de los derechos que causa el otorgamiento de escrituras que extiendan los jueces de primera instancia cuando actúen en el interior del Estado por falta de Notario Público, se aplicará 2 veces el valor diario de la Unidad de Medida y Actualización.
 
-Por escrituras no especificadas en las que no se determine interés pecuniario alguno .5 salarios mínimos diarios vigentes.
+Por escrituras no especificadas en las que no se determine interés pecuniario alguno .5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 67.
 
-El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
+El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras del Servicio de Administración Fiscal del Estado de Campeche o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
 ### CAPÍTULO V. POR EXPEDICIÓN DE TÍTULOS
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 68.
 
 La Hacienda Pública percibirá ingresos por:
 
-Salario Mínimo
+Unidades de Medida
 
-General Diario
+y Actualización
 
-Vigente
+I. Los fiats que expida el Ejecutivo para el ejercicio
 
-I.- Los fiats que expida el Ejecutivo para el ejercicio del notariado:
+del notariado.
 
 a) Expedición de fiats 100
 
-b) Expedición de nombramientos de titular de Notaría 100
+b) Expedición de nombramientos de
 
-II.- Exámenes para obtener el fiat de Notario Público o para la titularidad de una Notaría Pública:
+titular de Notaría 100
 
-1) Examen de prueba teórica 50
+II. Exámenes para obtener el fíat de Notario
 
-2) Examen de prueba práctica 50
+Público o para la titularidad
 
-III.- Los títulos o diplomas de especialidades técnicas que sean registrados o reconocidos por alguna dependencia oficial:
+de una Notaría Pública:
+
+a) Examen de prueba teórica 50
+
+b) Examen de prueba práctica 50
+
+III. Los títulos o diplomas de especialidades técnicas que sean
+
+registrados o reconocidos por alguna dependencia oficial:
 
 a) Por cada título o diploma 2
 
 b) Revalidación de títulos 1
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 69.
 
-El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
+El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras del Servicio de Administración Fiscal del Estado de Campeche o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
 ### CAPÍTULO VI. POR EL USO O APROVECHAMIENTO DE BIENES PROPIEDAD DEL ESTADO O DE BIENES CONCESIONADOS AL ESTADO
 
@@ -1651,9 +1769,13 @@ El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de l
 
 Por derechos de peaje por el uso del “Puente de la Unidad-Ingeniero Eugenio Echeverría Castellot”, ubicado sobre la carretera federal número 180, en el Municipio de Carmen, que comunica al extremo oriente de la Isla del Carmen (Puerto Real) con la parte continental (Isla Aguada), se cobrarán las cuotas o tarifas establecidas por el Gobierno Federal en las bases de regulación tarifaria contenidas en el título de concesión que ése otorgó, a través de la Secretaría de Comunicaciones y Transportes, al Estado de Campeche, el día 15 de marzo de 2005.
 
-Estos derechos se pagarán en la caseta de cobro de la Secretaría de Finanzas del Estado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-La Secretaría de Finanzas podrá exentar, en un cincuenta por ciento, del pago de los derechos anteriormente expresados, a los automóviles de servicio particular cuyos propietarios estén avecindados en cualquier localidad del Municipio de Carmen, siempre que se acredite debidamente, ante la Secretaría de Finanzas del Estado:
+Estos derechos se pagaran en la caseta de cobro del Servicio de Administración Fiscal del Estado de Campeche.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+El Servicio de Administración Fiscal del Estado de Campeche podrá exentar, en un cincuenta por ciento, del pago de los derechos anteriormente expresados, a los automóviles de servicio particular cuyos propietarios estén avecindados en cualquier localidad del Municipio de Carmen, siempre que se acredite debidamente, ante el Servicio de Administración Fiscal del Estado de Campeche:
 
 a) Dicha vecindad, con la respectiva constancia que expida el Secretario del H. Ayuntamiento del Municipio de Carmen;
 
@@ -1681,29 +1803,31 @@ El cobro de los derechos señalados aplicarán en los términos, tramos, modalid
 
 ### CAPÍTULO VII. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LAS SECRETARÍAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y SUS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 72.
 
 Por los servicios que de acuerdo con sus respectivas atribuciones presten las autoridades de las Secretarías de la Administración Pública Estatal y sus Órganos Administrativos Desconcentrados, se cobrarán, entre otros, los siguientes derechos:
 
 I.- Por el ingreso a concursos sobre el monto del costo estimado, se pagarán los siguientes derechos:
 
-Salario Mínimo
+Unidades de Medida
 
-General Diario
-
-Vigente
+y Actualización
 
 a).- Por el registro a concurso 6
 
 b).- Por inscripción y venta de bases 9 a 35
 
-II.- Por el registro al padrón de proveedores, contratistas y
+II.- Por el registro al padrón de proveedores,
 
-prestadores de servicio pagarán anualmente 6
+contratistas y prestadores de servicio
 
-III.- Perforación de pozos:
+pagarán anualmente 6
 
-A).- Cuando se efectúe la perforación de pozos con perforadora de pulseta, sin incluir la tubería para ademe, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado según lo establece la siguiente:
+III.- Perforación de pozos
+
+A).- Cuando se efectúe la perforación de pozos con perforadora de pulseta, sin incluir la tubería para ademe, se causarán y pagarán derechos de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización según lo establece la siguiente:
 
 T A R I F A
 
@@ -1715,7 +1839,7 @@ DE 51 A 100 Kms. 35.62
 
 DE 101 A 150 Kms. o más 38.86
 
-B).- Cuando se efectúe la perforación de pozos con perforadora rotaria, sin incluir la tubería para ademe, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado según lo establece la siguiente:
+B).- Cuando se efectúe la perforación de pozos con perforadora rotaría, sin incluir la tubería para ademe, se causarán y pagarán derechos de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización según lo establece la siguiente:
 
 T A R I F A
 
@@ -1727,33 +1851,35 @@ DE 51 A 100 Kms. 48.57
 
 DE 101 A 150 Kms. o más 51.81
 
-C).- En el transporte, instalación, desmantelamiento y operación del equipo de aforo, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado según lo establece la siguiente:
+C).- En el transporte, instalación, desmantelamiento y operación del equipo de aforo, se causarán y pagarán derechos de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización según lo establece la siguiente:
 
 T A R I F A
 
 Diámetro de tubería
 
-6” 8” 10”
+6" 8" 10"
 
-a).- Transporte de equipo de aforo en un radio
+a).- Transporte de equipo de aforo
 
-hasta de 50 Kms. 77.72 97.15 129.53
+en un radiohasta de 50 Kms. 77.72 97.15 129.53
 
-I.- Por Kilometro adicional o fracción 0.64 0.64 0.64
+1.- Por Kilometro adicional o fracción 0.64 0.64 0.64
 
 b).- Instalación y desmantelamiento 77.72 97.15 129.53
 
-c).- Operación del equipo durante el desarrollo y aforo:
+c).- Operación del equipo durante el
+
+desarrollo y aforo:
 
 1.- Hasta 24 horas 233.16 291.45 388.60
 
-2.- Después de 24 horas por hora adicional
+2.- Después de 24 horas por
 
-o fracción 9.71 12.17 16.19
+hora adicional o fracción 9.71 12.17 16.19
 
-IV.- Preparación de suelos:
+IV.- Preparación de suelos
 
-A).- Cuando se efectúe la preparación de suelos con tractor de 120 caballos de fuerza, se causarán y pagarán derechos por hectárea, de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado según lo establece la siguiente:
+A).- Cuando se efectúe la preparación de suelos con tractor de 120 caballos de fuerza, se causarán y pagarán derechos por hectárea, de acuerdo con el número veces el valor diario de la Unidad de Medida y Actualización según lo establece la siguiente:
 
 T A R I F A
 
@@ -1763,7 +1889,7 @@ b).- Barbecho arado de 4 discos 19.89
 
 c).- Rastra agrícola de 32 discos 10.81
 
-d).- Siembra y fertilización 13.00
+d).- Siembra y fertilización 3.00
 
 e).- Construcción de bordos 3.48
 
@@ -1771,7 +1897,7 @@ f).- Construcción de canales de riego 3.59
 
 g).- Surcado 8.80
 
-B).- Cuando se efectúe la preparación de suelos con tractor de 165 caballos de fuerza, se causarán y pagarán derechos por hectárea, de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado según lo establece la siguiente:
+B).- Cuando se efectúe la preparación de suelos con tractor de 165 caballos de fuerza, se causarán y pagarán derechos por hectárea, de acuerdo con el número veces el valor diario de la Unidad de Medida y Actualización según lo establece la siguiente:
 
 T A R I F A
 
@@ -1789,17 +1915,17 @@ f).- Esparcidora 4.06
 
 g).- Tape de siembra en arroz 8.11
 
-V.- Cuando se efectúe la venta de árboles por unidad se causarán y pagarán derechos, de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado según lo establece la siguiente:
+V.- Cuando se efectúe la venta de árboles por unidad se causarán y pagarán derechos, de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización según lo establece la siguiente:
 
 T A R I F A
 
-a).- Naranja valenciana injertada en patrón resistente
+a).- Naranja valenciana injertada en patrón resistente a
 
-a la enfermedad denominada “tristeza de los cítricos” 0.64
+la enfermedad denominada "tristeza de los cítricos" 0.64
 
 b).- Naranja valenciana injertada en patrón agrio 0.19
 
-c).- Mango Tommy Atkins 0.45
+c).- Mango Tommy Atkíns 0.45
 
 d).- Guanábana seleccionada 0.51
 
@@ -1807,41 +1933,33 @@ e).- Marañón 0.25
 
 f).- Pitahaya 0.32
 
-VI.- Cuando se efectúe la venta de productos avícolas consistente en un paquete familiar de aves que conste de 8 hembras y 2 machos, se causarán y pagarán derechos, por un importe de 3.23 salarios mínimos generales diarios vigentes en el Estado.
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+VI.- Cuando se efectúe la venta de productos avícolas consistente en un paquete familiar de aves que conste de 8 hembras y 2 machos, se causarán y pagarán derechos, por un importe de 3.23 veces el valor diario de la Unidad de Medida y Actualización.
 
 VII.- Por la evaluación, dictaminación y autorización del informe preventivo para el aprovechamiento de materiales pétreos:
 
-Salario Mínimo
+Unidades de Medida
 
-General
+y Actualización
 
-Diario Vigente
+a) De 0.1 a 3 hectáreas 180
 
-De 0.1 a 3 hectáreas 180
-
-b) (sic) De 3.1 a 5 hectáreas 250
+b) De 3.1 a 5 hectáreas 250
 
 c) De 5.1 a 10 hectáreas 300
 
-d) Mayores a 10 hectáreas y
+d) Mayores a 10 hectáreas y menores
 
-menores a 30 hectáreas 500
+a 30 hectáreas 500
 
 Para los efectos de esta fracción, previo a la solicitud de esta contraprestación será requisito indispensable que los contribuyentes acrediten haber cumplido con las obligaciones fiscales que les imponen, en su caso, las fracciones I y III del artículo 19 de esta Ley y, conforme se den las situaciones jurídicas de hecho, cumplir con el resto de obligaciones que les impone el referido artículo 19 y demás aplicables de esta misma Ley.
 
-> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
-
 VII Bis.- Por la evaluación y dictaminación del informe preventivo para la realización de obras públicas o privadas:
 
-Salario Mínimo
+Unidades de Medida
 
-General
+y Actualización
 
-Diario Vigente
-
-a) De 0.1 a 3 hectáreas 180
+b) (SIC) De 0.1 a 3 hectáreas 180
 
 b) De 3.1 a 5 hectáreas 250
 
@@ -1849,53 +1967,37 @@ c) De 5.1 a 10 hectáreas 270
 
 VIII.- Por la recepción y evaluación del informe preventivo, para fraccionamientos, unidades habitacionales, desarrollo turístico estatales, obra pública estatal o privada:
 
-a) De 5000 a 10000 m2 80
+a) De 5000 a 10000m2 80
 
 b) De 10001 m2 en adelante 172
 
-IX.- Por la recepción y evaluación del
+IX.- Por la recepción y evaluación del informe preventivo, de las industrias señaladas en el inciso c) del artículo 34 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Campeche, a excepción de maquiladoras 80
 
-Informe preventivo, de las industrias
+X.- Por la recepción y evaluación del informe preventivo de
 
-señaladas en el inciso c) del artículo
-
-34 de la Ley del Equilibrio Ecológico y
-
-Protección al Ambiente del Estado de
-
-Campeche, a excepción de maquiladoras 80
-
-X.- Por la recepción y evaluación del
-
-informe preventivo
-
-de maquiladoras 172
+maquiladoras 172
 
 XI.- Por la recepción y evaluación del informe preventivo
 
 para la construcción de caminos estatales o rurales 172
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+XII.- Por la evaluación y dictaminación de la manifestación
 
-XII.- Por la evaluación y dictaminación de la manifestación de Impacto Ambiental
+de Impacto Ambiental
 
-Salario Mínimo
+Unidades de Medida
 
-General
-
-Diario Vigente
+y Actualización
 
 a).- Modalidad General 180
 
 b).- Modalidad Intermedia 270
 
-c).- Modalidad específica 360
+c).- Modalidad especifica 360
 
 d).- Por la renovación o refrendo anual
 
 en cualquiera de sus modalidades 100
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 XIII.- Por la evaluación y dictaminación de:
 
@@ -1903,21 +2005,25 @@ a).- Estudio de Daños 180
 
 b).- Estudio de Riesgo 180
 
-XIV.- Por la expedición de cédula
+XIV.- Por la expedición de cédula de operación 40
 
-de operación 40
+XV.- Por la recepción y evaluación del dictamen
 
-XV.- Por la recepción y evaluación del
+de impacto ambiental en su modalidad general para
 
-dictamen de impacto ambiental en su
+el aprovechamiento forestal
 
-modalidad general para el aprovechamiento
+y selvas tropicales 172
 
-forestal y selvas tropicales 172
+XVI.- Por la inscripción al padrón del Registro
 
-XVI.- Por la inscripción al padrón del Registro Estatal Vehicular de vehículos usados de procedencia extranjera, regularizados en cualquier parte del territorio Nacional pagarán 6 veces el salario mínimo general diario vigente.
+Estatal Vehicular de vehículos usados de procedencia
 
-> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+extranjera, regularizados en cualquier parte del territorio
+
+Nacional pagarán 6 veces el valor diario de la
+
+Unidad de Medida y Actualización.
 
 XVII.- Por la evaluación y dictaminación
 
@@ -1925,23 +2031,17 @@ de modificaciones a proyectos autorizados
 
 en materia de impacto ambiental 100
 
-> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+XVIII.- Por la aclaración, rectificación
 
-XVIII.- Por la aclaración, rectificación o
+o ampliación al contenido de la
 
-ampliación al contenido de la Manifestación
+Manifestación del Impacto Ambiental 100
 
-del Impacto Ambiental 100
+XIX.- Por la evaluación técnica para
 
-> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+la procedencia Operativa de un centro
 
-XIX.- Por la evaluación técnica para la
-
-procedencia Operativa de un centro de
-
-Verificación Vehicular de manera anual 180
-
-> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+de Verificación vehicular de manera anual 180
 
 XX.- Por el ingreso a las áreas protegidas de competencia estatal:
 
@@ -1953,165 +2053,163 @@ c) En unidades para actividades de turismo,
 
 educativas o científicas 20
 
-d) Para le realización de actividades
+d) Para la realización de actividades de
 
-de pernocta o turismo 2
+pernoctar o turismo 2
 
-> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+XXI.- Por la expedición de la autorización para
 
-XXI.- Por la expedición de la autorización
+la posesión de un animal manifiestamente feroz
 
-para la posesión de un animal manifiestamente
+o peligroso por naturaleza, a que se refiere el
 
-feroz o peligroso por naturaleza, a que se refiere
+art. 7 de la Ley de Protección de
 
-el art. 7 de la Ley de Protección de los Animales
+los Animales del Estado 5
 
-del Estado. 5
+XXII.- Por consulta que se realice al padrón
 
-> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+vehicular 2
 
-XXII.- Por consulta que se realice al padrón vehicular 2
+Están exentas de este pago las consultas al
 
-Están exentas de este pago las consultas al padrón vehicular que sean solicitadas por autoridades administrativas o judiciales.
+padrón vehicular que sean solicitadas por
 
-> <small>(ADICIONADA P.O. 22 DE DICIEMBRE DE 2010)</small>
+autoridades administrativas o judiciales.
 
-XXIII.- Por expedición de la constancia de
+XXIII.- Por expedición de la constancia de carácter
 
-carácter informativo prevista en el artículo
+informativo prevista en el artículo 17 del Código
 
-17 del Código Fiscal del Estado de Campeche . 3
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+Fiscal del Estado de Campeche. 3
 
 XXIV.- Por los servicios prestados en materia de concesiones de transporte público.
 
-Concepto Salario Mínimo
+Concepto Unidades de Medida y
 
-General
+Actualización
 
-Diario Vigente
+a) Por el estudio y, en su caso, trámite de
 
-a) Por el estudio y, en su caso, trámite de la
+la solicitud de concesión de servicio público
 
-solicitud de concesión de servicio público o
-
-especial de transporte en cualquiera de sus
+o especial de transporte en cualquiera de sus
 
 modalidades o por su regulación. 100
 
 b) Por el refrendo de una concesión de servicio
 
-público de transporte en la modalidad de
+público de transporte en la
 
-servicio colectivo. 180
+modalidad de servicio colectivo. 180
 
 c) Por el refrendo de una concesión de servicio
 
 público de transporte en la modalidad de taxi,
 
-carga general, volteo, salvamento y arrastre; así
+carga general, volteo, salvamento y arrastre;
 
-como de servicio especial de transporte en
+así como de servicio especial de transporte
 
-cualquiera de sus modalidades. 100
+en cualquiera de sus modalidades. 100
 
 d) Por la expedición de un nuevo título de
 
-concesión de servicio público o especial de
+concesión de servicio público o especial
 
-transporte en cualquiera de sus modalidades,
+de transporte en cualquiera de sus modalidades,
 
 con motivo del cambio de titular por la incapacidad
 
-física o mental, declaración de ausencia
+física o mental, declaración de ausencia o
 
-o fallecimiento de concesionario. 80
+fallecimiento de concesionario. 80
 
-e) Por la consolidación de una concesión de
+e) Por la consolidación de una concesión de servicio
 
-servicio público de transporte en cualquiera de sus
+público de transporte en cualquiera de sus modalidades,
 
-modalidades, a solicitud de parte interesada. 120
+a solicitud de parte interesada. 120
 
-f) Por la reposición de un título de concesión
+f) Por la reposición de un título de concesión de servicio
 
-de servicio público o especial de transporte en
+público o especial de transporte en cualquiera de
 
-cualquiera de sus modalidades. 80
+sus modalidades. 80
 
-g) Por la revisión física y mecánica de los
+g) Por la revisión física y mecánica de los vehículos
 
-vehículos destinados al servicio público o
+destinados al servicio público o especial de
 
-especial de transporte en cualquiera de sus
+transporte en cualquiera de sus modalidades, tanto
 
-modalidades, tanto para el refrendo anual de una
+para el refrendo anual de una concesión,
 
-concesión, como para el alta o baja de vehículos
+como para el alta o baja de vehículos concesionados
 
-concesionados o con permiso. 5
+o con permiso. 5
 
 h) Por la tramitación, estudio de campo y
 
-diagnóstico de factibilidad para autorización
+diagnóstico de factibilidad para
 
-de modificación o creación de ruta de transporte
+autorización de modificación o creación
 
-público colectivo. 50
+de ruta de transporte público
 
-i) Por la modificación o creación de ruta de
+colectivo. 50
 
-transporte público colectivo. 50
+i) Por la modificación o creación de
 
-j) Por la expedición de la identificación de conductor
+ruta de transporte público colectivo. 50
 
-de vehículo de servicio público o especial de transporte
+j) Por la expedición de la identificación de
 
-en cualquiera de sus modalidades. 300
+conductor de vehículo de servicio
 
-k) Por el resello de la identificación de conductor
+público o especial de transporte en
 
-de vehículo de servicio público de transporte de
+cualquiera de sus modalidades. 300
 
-personas en cualquiera de sus modalidades. 20
+k) Por el resello de la identificación
 
-l) Por la tramitación y expedición de un permiso
+de conductor de vehículo de servicio
 
-temporal de hasta por seis meses, de un servicio
+público de transporte de personas en
 
-de transporte público o especial de transporte
+cualquiera de sus modalidades. 20
 
-en cualquiera de sus modalidades, cuando exista
+l) Por la tramitación y expedición de un
 
-una necesidad de servicio inmediata o emergente.
+permiso temporal de hasta por seis
 
-En el caso de que la vigencia de la autorización sea
+meses, de un servicio de transporte
 
-menor se cobrará la parte proporcional. 60
+público o especial de transporte en
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+cualquiera de sus modalidades,
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+cuando exista una necesidad de servicio
+
+inmediata o emergente. En el caso de que
+
+la vigencia de la autorización sea menor se
+
+cobrará la parte proporcional. 60
 
 XXV.- Por los servicios relativos al Registro Público de Transporte, se causarán y pagarán los derechos siguientes:
 
-Concepto Salario Mínimo
+Concepto Unidades de Medida
 
-General
-
-Diario Vigente
+y Actualización
 
 a) Por la inscripción del concesionario
 
 de servicio público o especial de transporte,
 
-en cualquiera de sus modalidades, así como
+en cualquiera de sus modalidades; así como por la
 
-por la modificación de su datos en dicho registro. 10
+modificación de sus datos en dicho registro. 10
 
 b) Inscripción de título de concesión de
 
@@ -2131,23 +2229,23 @@ en las que se ordene la modificación, cancelación
 
 o rectificación de una concesión de servicio público
 
-o especial de transporte, en cualquiera
+o especial de transporte, en cualquiera de sus
 
-de sus modalidades. 10
+modalidades. 10
 
-e) Inscripción de conductor de vehículo destinado
+e) Inscripción de conductor de vehículo
 
-al servicio público o especial de transporte, en
+destinado al servicio público o especial de transporte,
 
-cualquiera de sus modalidades. 10
+en cualquiera de sus modalidades. 10
 
 f) Inscripción de la designación de beneficiarios
 
-por persona física, titular de una concesión de servicio
+por persona física titular de una concesión de
 
-público o especial de transporte, en cualquiera de
+servicio público o especial de transporte, en cualquiera
 
-sus modalidades. 10
+de sus modalidades. 10
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2155,73 +2253,65 @@ sus modalidades. 10
 
 ### CAPÍTULO VIII. EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS Y PERMISOS EN MATERIA DE BEBIDAS ALCOHÓLICAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+###### ARTICULO 73.
 
-###### ARTÍCULO 73.
-
-Por la expedición de licencias en materia de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+Por la expedición de licencias en materia de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización, conforme a la siguiente:
 
 T A R I F A
 
-Salario Mínimo
+Unidades de Medida
 
-General Diario
+y Actualización
 
-Vigente
+I. Cabaret o Centro Nocturno, Bar, Cantina,
 
-I.- Cabaret, o Centro Nocturno, Bar, Cantina,
+Restaurant, Discoteca, Hotel y Motel,
 
-Restaurant, Discoteca, Hotel y Motel, Distribuidora,
+Distribuidora, Bodega, Almacén y Supermercado,
 
-Bodega, Almacén y Supermercado, Casino,
+Casino, Franquicia, Fábrica de Bebidas Alcohólicas. 2,522
 
-Franquicia, Fábrica de Bebidas Alcohólicas. 2,522
+II. Charrería 2,240
 
-II.- Charrería 2,240
-
-III.- Salón Cerveza, Salón (sic) Baile, Billar o Boliche,
+III. Salón Cerveza, Salón Baile, Billar o Boliche,
 
 Licorería, Tienda de Conveniencia, Minisúper,
 
 Agencias y Subagencias 1,965
 
-IV.- Depósito, Minisúper Local, Expendio y Botanero,
+IV. Depósito, Minisúper Local, Expendio
 
-Tienda de Abarrotes, Lonchería y Coctelería. 1,620
+y Botanero, Tienda de Abarrotes, Lonchería
 
-Por la expedición de licencias especiales en materia de bebidas alcohólicas en Polígonos Turísticos con vigencia de un año, se pagarán derechos a razón de 1500 salarios mínimos generales diarios vigentes en el Estado.
+y Cocteleria. 1,620
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Por la expedición de licencias especiales en materia de bebidas alcohólicas en Polígonos Turísticos con vigencia de un año, se pagarán derechos a razón de 1500 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+En el caso de Fábrica de Bebidas Alcohólicas que a su vez opere como Distribuidora, bastará con la expedición de una sola licencia en la que se consignará la doble actividad, previo pago del derecho establecido en la fracción 1 de este artículo, que amparará los dos conceptos por 2.522 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 74.
 
-Por la expedición de permisos eventuales en materia de bebidas alcohólicas, se causarán y pagarán derechos por cada día, a razón de 22 salarios mínimos generales diarios vigentes en el Estado.
+Por la expedición de permisos eventuales en materia de bebidas alcohólicas, se causarán y pagarán derechos por cada día, a razón de 22 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 75.
 
-Por las autorizaciones de funcionamiento en horario extraordinario de giros de prestación de servicios que incluyan el expendio de bebidas alcohólicas, se causarán y pagarán derechos por cada hora, de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+Por las autorizaciones de funcionamiento en horario extraordinario de giros de prestación de servicios que incluyan el expendio de bebidas alcohólicas, se causarán y pagarán derechos por cada hora, de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización, conforme a la siguiente:
 
-T A R I F A
+TARIFA
 
-Salario Mínimo
+Unidades de Medida y Actualización
 
-General Diario
+I. Cabaret o Centro Nocturno,
 
-Vigente
+Bar, Cantina, Casino 22
 
-I.- Cabaret o Centro Nocturno, Bar, Cantina,
-
-Casino 22
-
-II.- Discoteca, Salón Cerveza, Salón de Baile,
+II. Discoteca, Salón Cerveza. Salón de Baile,
 
 Restaurant, Distribuidora, Bodega, Almacén,
 
@@ -2229,55 +2319,53 @@ Hotel y Motel, Billar o Boliche, Supermercados,
 
 Franquicia 20
 
-III.- Licorería, Minisúper, Tienda de Conveniencia,
+III. Licorería, Minisúper, Tienda de Conveniencia,
 
-Agencias o Subagencias, Depósito, Expendio y
+Agencia o Subagencia, Depósito, Expendio y
 
-Botanero, Fábrica de Bebidas Alcohólicas 14
+Batanero, Fabrica de Bebidas
 
-IV.- Lonchería, Coctelería, Minisúper Local y Tienda
+Alcohólicas 14
 
-de Abarrotes 10
+IV. Lonchería, Coctelería, Minisúper Local
 
-V.- Charrería 6
+y Tienda de Abarrotes 10
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+V. Charrería 6
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 76.
 
-Por revalidación de licencias en materia de bebidas alcohólicas que deberán revalidarse anualmente, dentro de los tres primeros meses de cada año, se causarán y pagarán derechos de acuerdo con el número de veces el salario mínimo general diario vigente en el Estado, conforme a la siguiente:
+Por revalidación de licencias en materia de bebidas alcohólicas que deberán revalidarse anualmente, dentro de los tres primeros meses de cada año, se causarán y pagarán derechos de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización, conforme a la siguiente:
 
 T A R I F A
 
-Salario Mínimo
+Unidades de Medida y
 
-General Diario
+Actualización
 
-Vigente
+I. Cabaret o Centro Nocturno, Bar, Cantina, Casino 76
 
-I.- Cabaret o Centro Nocturno, Bar, Cantina,
-
-Casino 76
-
-II.- Discoteca, Salón Cerveza, Salón de Baile,
+II. Discoteca, Salón Cerveza, Salón de Baile,
 
 Restaurant, Distribuidora, Bodega, Almacén,
 
-Hotel y Motel, Billar o Boliche, Franquicia,
+Hotel y Motel, Billar o Boliche, Franquicia, Fabrica
 
-Fábrica de Bebidas Alcohólicas 63
+de Bebidas Alcohólicas 63
 
-III.- Licorería, Supermercado o Minisúper, Tienda
+III. Licorería, Supermercado o Minisúper,
 
-de Conveniencia, Tienda de Abarrotes, Agencia y
+Tienda de Conveniencia, Tienda de Abarrotes,
 
-Subagencia, Depósito, Expendio y Botanero 53
+Agencia y Subagencia, Depósito, Expendio y
 
-IV.- Lonchería, Coctelería y Minisúper Local 44
+Botanero 53
 
-V.- Charrería 34
+IV. Lonchería, Cocteleria y Minisúper Local 44
+
+V. Charrería 34
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2287,31 +2375,31 @@ V.- Charrería 34
 
 En los casos de sucesión testamentaria o intestamentaria, la cesión o transferencia de los derechos de las licencias en materia de bebidas alcohólicas, no causará ninguna cuota.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 78.
 
-Por la autorización de modificaciones o adecuaciones y demás movimientos tales como: duplicado de licencia en materia de bebidas alcohólicas, cambio de domicilio, reposiciones, cambio o ampliación de giro, cambio de razón social, arrendamiento y comodato se causarán y pagarán derechos de acuerdo con el número de veces de la Unidad de Medida y Actualización vigente, conforme a la siguiente:
+Por la autorización de modificaciones tales como: cambio de domicilio, cambio de giro, arrendamiento, comodato, reposiciones o duplicados de las licencias en materia de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización, conforme a la siguiente:
 
 T A R I F A
 
-Unidad de Medida y
+Unidades de Medida y Actualización
 
-Actualización Vigente
+I. Por cambio de domicilio de la licencia 778
 
-I. Por duplicado de la licencia 13
+II. Por cambio o ampliación de giro
 
-II. Por cambio de domicilio de la licencia 40
+de la licencia 1.296
 
-III. Por reposición de una licencia 40
+III. Por reposición de una licencia 39
 
-IV. Por cambio o ampliación de giro de la licencia 103
+IV. Por duplicado de la licencia 13
 
-V. Por cambio de razón social 103
+V. Por cambio de razón social 700
 
-VI. Por arrendamiento anualmente 206
+VI. Por arrendamiento anualmente 1,296
 
-VII. Por comodato anualmente 206
+VII. Por comodato anualmente 1,296
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -2349,6 +2437,8 @@ Los bienes a que se refiere el artículo anterior podrán ser donados a los Muni
 
 ### CAPÍTULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 84.
 
 Ingresarán íntegramente a la Hacienda Pública del Estado los importes por concepto de arrendamiento de bienes muebles e inmuebles propiedad del Estado.
@@ -2365,17 +2455,15 @@ Las oficinas públicas del Estado, tendrán derecho a recibir gratuitamente las 
 
 Los pagos que deban efectuar los interesados, ingresarán a la oficina recaudadora correspondiente, mediante recibo oficial que expida la misma, cuyo pago podrá efectuarse de conformidad con lo establecido por el artículo 3 de esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 87.
 
 El precio de las publicaciones que realizan los Talleres Gráficos del Estado serán los siguientes:
 
-Salario Mínimo
+Unidades de Medida y Actualización
 
-General Diario
-
-Vigente
-
-I.- Periódico Oficial del Estado:
+I.- Periódico Oficial del Estado.
 
 a) Suscripción anual 16.2
 
@@ -2393,7 +2481,7 @@ g) Por publicación media plana 5.4
 
 h) Por publicación cuarto de plana 2.7
 
-II.- Por periódico donde se publiquen Leyes del Estado:
+II.- Por periódico donde se publiquen Leyes del Estado.
 
 a) Ejemplar 2.25
 
@@ -2413,7 +2501,7 @@ Los bienes de las personas que mueran intestadas, careciendo de los herederos a 
 
 ###### ARTÍCULO 90.
 
-La Secretaría de Finanzas del Estado recaudará directamente las cuotas por los servicios que presten las instituciones de asistencia social estatales, con excepción de aquellas instituciones que hayan sido creadas como organismos descentralizados de la administración pública estatal.
+El Servicio de Administración Fiscal del Estado de Campeche recaudará directamente las cuotas por los servicios que presten las instituciones de asistencia social estatales, con excepción de aquellas instituciones que hayan sido creadas como organismos descentralizados de la administración pública estatal.
 
 ### CAPÍTULO II. REINTEGROS
 
@@ -2435,9 +2523,11 @@ Se consideran como otros Productos aquellos que no se encuentren, comprendidos e
 
 Se entienden constituidas en favor del Estado, las garantías que se otorguen para obtener la libertad provisional y la libertad preparatoria. Los agentes del Ministerio Público, están obligados a promover lo conducente para que las autoridades ante quienes se otorguen, declaren exigibles las garantías tan luego como los fiadores o los directamente obligados falten a los compromisos contraídos. Aquéllas, por su parte, comunicarán sus resoluciones a la oficina respectiva.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 94.
 
-Las garantías constituidas para la autorización de permisos especiales a menores de dieciocho años de edad, pero mayores de dieciséis años, para conducción de vehículos motorizados, pasarán a favor del Estado, tan pronto como las autoridades competentes de la materia comuniquen que el menor ha faltado a los compromisos contraídos, según lo mencionado en las leyes respectivas. El monto de la garantía señalada anteriormente consistirá en 60 veces el salario mínimo general diario vigente en el Estado.
+Las garantías constituidas para la autorización de permisos especiales a menores de dieciocho años de edad, pero mayores de dieciséis años, para conducción de vehículos motorizados, pasaran a favor del Estado, tan pronto como las autoridades competentes de la materia comuniquen que el menor ha faltado a los compromisos contraídos, según lo mencionado en las leyes respectivas. El monto de la garantía señalada anteriormente consistirá en 60 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 95.
 
@@ -2834,3 +2924,43 @@ TERCERO.- Los titulares de las licencias y/o sus representantes legales contará
 Para los efectos de lo establecido en los artículos 8, 29 y 77 de la Ley para la Venta Ordenada y Consumo Responsable de Bebidas Alcohólicas del Estado de Campeche, respecto a no autorizar el otorgamiento de licencias en comodato o en arrendamiento a personas físicas o morales que sean poseedoras de más de dos licencias, no será aplicable para el caso de aquellas personas físicas o morales que a partir de la fecha de entrada en vigor de este decreto hayan hecho uso de las figuras jurídicas citadas, siempre que cumplan con los demás requisitos establecidos en la Ley, previo pago de los derechos correspondientes, sin que puedan tener autorizaciones adicionales a las que actualmente tengan vigentes en arrendamiento o comodato y hasta por el plazo que la Ley determina. Aquellas licencias que bajo este supuesto de excepción dejaren de ser objeto de arrendamiento y/o comodato ya no podrán ser arrendadas o comodatadas.
 
 CUARTO.- La conversión de las tarifas de salario mínimo general diario vigente a Unidades de Medida y Actualización, se realizan en cumplimiento del Artículo Tercero Transitorio del decreto por el que se declaran reformados y adicionados (sic) diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 100 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 3, PÁRRAFO PRIMERO; 3 BIS, SEGUNDO PÁRRAFO; 10; 11, FRACCIÓN I; 15, SEGUNDO PÁRRAFO; 16; 17; 22, SEGUNDO, SÉPTIMO, OCTAVO Y NOVENO PÁRRAFOS; 25; 26, FRACCIÓN I; 33, SEGUNDO PÁRRAFO; 39, FRACCIÓN II DEL PRIMER PÁRRAFO Y QUINTO PÁRRAFO; 40 D, PRIMER PÁRRAFO; 53-E, SEGUNDO PÁRRAFO; 54; 56; 58; 59; 60; 61; 62; 63; 64; 65; 66; 67; 68; 69; 70, SEGUNDO Y TERCERO PÁRRAFOS; 72; 73; 74; 75; 76; 78; 87; 90 Y 94, ASÍ COMO SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 2 Y SE DEROGA EL ARTÍCULO 53-0 TODOS DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- Las modificaciones a las disposiciones contenidas en la Ley Orgánica de la Administración Pública del Estado de Campeche entrarán en vigor al día siguiente de la publicación de este decreto en el Periódico Oficial del Estado de Campeche. El sistema de registros y control de las erogaciones personales deberá estar en operación a más tardar el 1 de enero de 2018.
+
+SEGUNDO.- La Ley del Servicio de Administración Fiscal del Estado de Campeche, las modificaciones contenidas en la Ley de Hacienda del Estado de Campeche, el Código Fiscal del Estado de Campeche y la Ley de Firma Electrónica Avanzada y Uso de Medios Electrónicos del Estado de Campeche entrarán en vigor el día 1 de abril de 2017.
+
+TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, de igual o menor jerarquía, del marco jurídico estatal que se opongan al presente decreto.
+
+CUARTO.- El Ejecutivo del Estado expedirá el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche, con la anticipación debida con la finalidad de que entre en vigor de manera simultánea con la Ley del Servicio de Administración Fiscal del Estado de Campeche el día 1 de abril de 2017.
+
+QUINTO.- La Secretaría establecerá los mecanismos para la readscripción de los trabajadores de base que vienen prestando sus servicios a la misma, y que deban incorporarse al Servicio de Administración Fiscal del Estado de Campeche. Los derechos de estos trabajadores serán respetados y en ningún caso serán afectados por la reorganización que implica el presente ordenamiento.
+
+SEXTO.- Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaria de Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche o cualquier otra disposición jurídica que emane de ellos.
+
+SÉPTIMO.- Los asuntos que a la fecha de entrada en vigor de la presente Ley se encuentren en trámite ante alguna de las unidades administrativas de la Subsecretaria de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal de la Secretaría y que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, o los recursos administrativos interpuestos en contra de actos o resoluciones de tales unidades administrativas, se seguirán tramitando ante el Servicio de Administración Fiscal del Estado de Campeche y serán resueltos por el mismo, cuando se encuentren vinculados con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche y cualquier otra disposición jurídica que emane de ellos.
+
+OCTAVO.- Los juicios en los que sea parte la Secretaría de Finanzas por actos de las unidades administrativas adscritas a la Subsecretaría de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, que a la entrada en vigor de la presente Ley se encuentren en trámite ante los Tribunales del fuero federal, o cualquier otra instancia jurisdiccional, los continuará tramitando el Servicio de Administración Fiscal del Estado de Campeche a través de sus unidades administrativas competentes hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios, ante dichos tribunales.
+
+NOVENO.- Los amparos contra actos de las unidades administrativas adscritas a la Subsecretaría de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal de la Secretaría de Finanzas que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, cuya interposición les sea notificado con el carácter de autoridades responsables o de terceros perjudicados con anterioridad a la entrada en vigor de la Ley del Servicio de Administración Fiscal del Estado de Campeche, continuarán siendo llevados en su tramitación hasta su total conclusión por el Servicio de Administración Fiscal del Estado de Campeche.
+
+DÉCIMO.- La Secretaría de Finanzas dispondrá lo conducente a fin de que, a partir de la entrada en vigor de la Ley del Servicio de Administración Fiscal del Estado de Campeche, los bienes muebles e inmuebles, materiales y financieros, así como los archivos y expedientes con los que actualmente cuentan las unidades administrativas adscritas a la Subsecretaría de Ingresos de la Secretaría, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, para el ejercicio de las atribuciones vinculadas con la materia objeto de la mencionada Ley, su Reglamento y cualquier otra disposición jurídica que emane de ellos. Para tales efectos se deberán formalizar las actas de entrega-recepción correspondientes, en términos de las disposiciones jurídicas aplicables.
+
+UNDÉCIMO.- Los ajustes en materia de programación, presupuesto, estructuras y contabilidad que genere la creación del Servicio de Administración Fiscal del Estado de Campeche, podrán hacerse paulatinamente durante el ejercicio fiscal 2017.
+
+DÉCIMO SEGUNDO.- El Servicio de Administración Fiscal del Estado de Campeche podrá continuar utilizando el sistema informático actual o implementar un sistema informático propio. En el caso de la firma electrónica avanzada podrá implementarla a través de medios propios o a través de convenios con terceros.
+
+DÉCIMO TERCERO.- Las referencias que se hacen y atribuciones que se otorgan en el Código Fiscal del Estado de Campeche y en otras leyes, reglamentos, acuerdos y demás disposiciones jurídicas del marco jurídico del Estado, a la Secretaría de Finanzas de la Administración Pública del Estado de Campeche o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche cuando se trate de atribuciones vinculadas con la materia objeto de la Ley que crea y regula dicho órgano o cualquier otra disposición jurídica que emane de ellos.
+
+DÉCIMO CUARTO.- Las facultades conferidas al Estado de Campeche en el o los convenios de Colaboración Administrativa en materia Fiscal Federal y sus anexos, celebrados entre el Gobierno Federal, por conducto de la Secretaria de Hacienda y Crédito Público, y el Gobierno del Estado de Campeche, así como todos los Convenios de Colaboración Administrativa en materia Hacendaria de Ingresos celebrados entre el Estado de Campeche y sus municipios, se entenderán también conferidas todas esas facultades al Órgano Administrativo Desconcentrado denominado “Servicio de Administración Fiscal del Estado de Campeche”.
+
+DÉCIMO QUINTO.- Los asuntos pendientes de resolver por la Secretaría de Finanzas de la Administración Pública del Estado de Campeche a la entrada en vigor de este decreto, cuyas facultades se sustenten en el Código Fiscal del Estado, los resolverá el Servicio de Administración Fiscal del Estado de Campeche, salvo disposición específica en contrario.
+
+DÉCIMO SEXTO.- El plazo para el cómputo de la prescripción a que se refiere el párrafo quinto del artículo 39 del Código Fiscal del Estado, será aplicable para los créditos fiscales que hayan sido exigidos a partir del 1 de enero de 2008. Tratándose de los créditos fiscales exigibles con anterioridad al 1 de enero de 2008, el Servicio de Administración Fiscal del Estado de Campeche tendrá un plazo máximo de dos años para hacer efectivo el cobro de dichos créditos contados a partir de la entrada en vigor del presente decreto, siempre que se trate de créditos que no se encuentren controvertidos en dicho periodo; de controvertirse, el plazo máximo de dos años será suspendido. La aplicación de la presente disposición no configurará responsabilidad administrativa para servidores públicos encargados de la ejecución y cobro de créditos fiscales, siempre y cuando realicen las gestiones de cobro correspondientes.
+
+DÉCIMO SÉPTIMO.- La conversión de las tarifas, cuotas, derechos, multas y demás valores expresados en salarios mínimos generales diarios vigentes a Unidades de Medida y Actualización, se realizan en cumplimiento del artículo tercero transitorio del decreto por el que se declaran reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el veintisiete de enero de dos mil dieciséis.
+
+DÉCIMO OCTAVO.- Las referencias al Registro Único de Obligaciones y Financiamientos se entenderán hechas al Registro de Empréstitos y Obligaciones.
