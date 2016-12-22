@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-firma-electronica-avanzada-y-uso-de-medios-103432"
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-02"
-last_updated: "2014-10-02"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE FIRMA ELECTRONICA AVANZADA Y USO DE MEDIOS ELECTRONICOS DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE FIRMA ELECTRÓNICA AVANZADA Y USO DE MEDIOS ELECTRÓNICOS DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 3 DE DICIEMBRE DE 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 2 de octubre de 2014.
 
@@ -237,7 +237,9 @@ El contenido de los mensajes de datos relativos a los actos que regula la presen
 
 La autoridad certificadora será la encargada de mantener permanentemente actualizada la información correspondiente de los servicios de certificación e indicará la vigencia o extinción de los mismos, así como cualquier otro asunto derivado.
 
-La autoridad certificadora del Poder Ejecutivo será la Secretaría de Administración e Innovación Gubernamental. Los demás sujetos de la Ley designarán el área correspondiente encargada de los servicios de certificación, la cual se ajustará a lo establecido en esta Ley y demás legislación aplicable. Asimismo, deberán crear sus instalaciones tecnológicas para efectuar los servicios de autoridad certificadora, en el ámbito de sus competencias, o en su caso, optar por utilizar la infraestructura del Poder Ejecutivo, previa solicitud y convenio que al efecto se suscriba.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+La autoridad certificadora del Poder Ejecutivo será la Secretaría de Administración e Innovación Gubernamental. Los demás sujetos de la Ley designarán el área correspondiente encargada de los servicios de certificación, la cual se ajustará a lo establecido en esta Ley y demás legislación aplicable. Asimismo deberán crear sus instalaciones tecnológicas para efectuar los servicios de autoridad certificadora, en el ámbito de sus competencias, o en su caso, optar por utilizar la infraestructura del Poder Ejecutivo, previa solicitud y convenio que al efecto se suscriba. En materia fiscal, el Servicio de Administración Fiscal del Estado de Campeche tendrá carácter de autoridad certificadora para los actos de su competencia.
 
 El Reglamento determinará:
 
@@ -496,3 +498,45 @@ Que la LXI Legislatura del H. Congreso Constitucional del Estado Libre y Soberan
 Este Decreto es dado en el Palacio de Gobierno el Estado, en San Francisco de Campeche, municipio y Estado de Campeche, a los veintinueve días del mes de septiembre del año dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLIAM ROBERTO SARMIENTO URBINA.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 100 POR EL QUE “SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 22 DE LA LEY DE FIRMA ELECTRÓNICA AVANZADA Y USO DE MEDIOS ELECTRÓNICOS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- Las modificaciones a las disposiciones contenidas en la Ley Orgánica de la Administración Pública del Estado de Campeche entrarán en vigor al día siguiente de la publicación de este decreto en el Periódico Oficial del Estado de Campeche. El sistema de registros y control de las erogaciones personales deberá estar en operación a más tardar el 1 de enero de 2018.
+
+SEGUNDO.- La Ley del Servicio de Administración Fiscal del Estado de Campeche, las modificaciones contenidas en la Ley de Hacienda del Estado de Campeche, el Código Fiscal del Estado de Campeche y la Ley de Firma Electrónica Avanzada y Uso de Medios Electrónicos del Estado de Campeche entrarán en vigor el día 1 de abril de 2017.
+
+TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas, de igual o menor jerarquía, del marco jurídico estatal que se opongan al presente decreto.
+
+CUARTO.- El Ejecutivo del Estado expedirá el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche, con la anticipación debida con la finalidad de que entre en vigor de manera simultánea con la Ley del Servicio de Administración Fiscal del Estado de Campeche el día 1 de abril de 2017.
+
+QUINTO.- La Secretaría establecerá los mecanismos para la readscripción de los trabajadores de base que vienen prestando sus servicios a la misma, y que deban incorporarse al Servicio de Administración Fiscal del Estado de Campeche. Los derechos de estos trabajadores serán respetados y en ningún caso serán afectados por la reorganización que implica el presente ordenamiento.
+
+SEXTO.- Las referencias que se hacen y atribuciones que se otorgan en otras leyes, reglamentos y demás disposiciones a la Secretaria de Finanzas o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche, cuando se trate de atribuciones vinculadas con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche o cualquier otra disposición jurídica que emane de ellos.
+
+SÉPTIMO.- Los asuntos que a la fecha de entrada en vigor de la presente Ley se encuentren en trámite ante alguna de las unidades administrativas de la Subsecretaría de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal de la Secretaría y que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, o los recursos administrativos interpuestos en contra de actos o resoluciones de tales unidades administrativas, se seguirán tramitando ante el Servicio de Administración Fiscal del Estado de Campeche y serán resueltos por el mismo, cuando se encuentren vinculados con la materia objeto de la Ley del Servicio de Administración Fiscal del Estado de Campeche, el Reglamento Interior del Servicio de Administración Fiscal del Estado de Campeche y cualquier otra disposición jurídica que emane de ellos.
+
+OCTAVO.- Los juicios en los que sea parte la Secretaría de Finanzas por actos de las unidades administrativas adscritas a la Subsecretaría de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, que a la entrada en vigor de la presente Ley se encuentren en trámite ante los Tribunales del fuero federal, o cualquier otra instancia jurisdiccional, los continuará tramitando el Servicio de Administración Fiscal del Estado de Campeche a través de sus unidades administrativas competentes hasta su total conclusión, para lo cual ejercitarán las acciones, excepciones y defensas que correspondan a las autoridades señaladas en los juicios, ante dichos tribunales.
+
+NOVENO.- Los amparos contra actos de las unidades administrativas adscritas a la Subsecretaría de Ingresos, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal de la Secretaría de Finanzas que pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, cuya interposición les sea notificado con el carácter de autoridades responsables o de terceros perjudicados con anterioridad a la entrada en vigor de la Ley del Servicio de Administración Fiscal del Estado de Campeche, continuarán siendo llevados en su tramitación hasta su total conclusión por el Servicio de Administración Fiscal del Estado de Campeche.
+
+DÉCIMO.- La Secretaría de Finanzas dispondrá lo conducente a fin de que, a partir de la entrada en vigor de la Ley del Servicio de Administración Fiscal del Estado de Campeche, los bienes muebles e inmuebles, materiales y financieros, así como los archivos y expedientes con los que actualmente cuentan las unidades administrativas adscritas a la Subsecretaría de Ingresos de la Secretaría, de la Procuraduría Fiscal y de la Dirección General de Auditoría Fiscal pasen a formar parte del Servicio de Administración Fiscal del Estado de Campeche, para el ejercicio de las atribuciones vinculadas con la materia objeto de la mencionada Ley, su Reglamento y cualquier otra disposición jurídica que emane de ellos. Para tales efectos se deberán formalizar las actas de entrega- recepción correspondientes, en términos de las disposiciones jurídicas aplicables.
+
+UNDÉCIMO.- Los ajustes en materia de programación, presupuesto, estructuras y contabilidad que genere la creación del Servicio de Administración Fiscal del Estado de Campeche, podrán hacerse paulatinamente durante el ejercicio fiscal 2017.
+
+DÉCIMO SEGUNDO.- El Servicio de Administración Fiscal del Estado de Campeche podrá continuar utilizando el sistema informático actual o implementar un sistema informático propio. En el caso de la firma electrónica avanzada podrá implementarla a través de medios propios o a través de convenios con terceros.
+
+DÉCIMO TERCERO.- Las referencias que se hacen y atribuciones que se otorgan en el Código Fiscal del Estado de Campeche y en otras leyes, reglamentos, acuerdos y demás disposiciones jurídicas del marco jurídico del Estado, a la Secretaría de Finanzas de la Administración Pública del Estado de Campeche o a cualquiera de sus unidades administrativas, se entenderán hechas al Servicio de Administración Fiscal del Estado de Campeche cuando se trate de atribuciones vinculadas con la materia objeto de la Ley que crea y regula dicho órgano o cualquier otra disposición jurídica que emane de ellos.
+
+DÉCIMO CUARTO.- Las facultades conferidas al Estado de Campeche en el o los convenios de Colaboración Administrativa en materia Fiscal Federal y sus anexos, celebrados entre el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, y el Gobierno del Estado de Campeche, así como todos los Convenios de Colaboración Administrativa en materia Hacendaria de Ingresos celebrados entre el Estado de Campeche y sus municipios, se entenderán también conferidas todas esas facultades al Órgano Administrativo Desconcentrado denominado “Servicio de Administración Fiscal del Estado de Campeche”.
+
+DÉCIMO QUINTO.- Los asuntos pendientes de resolver por la Secretaría de Finanzas de la Administración Pública del Estado de Campeche a la entrada en vigor de este decreto, cuyas facultades se sustenten en el Código Fiscal del Estado, los resolverá el Servicio de Administración Fiscal del Estado de Campeche, salvo disposición específica en contrario.
+
+DÉCIMO SEXTO.- El plazo para el cómputo de la prescripción a que se refiere el párrafo quinto del artículo 39 del Código Fiscal del Estado, será aplicable para los créditos fiscales que hayan sido exigidos a partir del 1 de enero de 2008. Tratándose de los créditos fiscales exigibles con anterioridad al 1 de enero de 2008, el Servicio de Administración Fiscal del Estado de Campeche tendrá un plazo máximo de dos años para hacer efectivo el cobro de dichos créditos contados a partir de la entrada en vigor del presente decreto, siempre que se trate de créditos que no se encuentren controvertidos en dicho periodo; de controvertirse, el plazo máximo de dos años será suspendido. La aplicación de la presente disposición no configurará responsabilidad administrativa para servidores públicos encargados de la ejecución y cobro de créditos fiscales, siempre y cuando realicen las gestiones de cobro correspondientes.
+
+DÉCIMO SÉPTIMO.- La conversión de las tarifas, cuotas, derechos, multas y demás valores expresados en salarios mínimos generales diarios vigentes a Unidades de Medida y Actualización, se realizan en cumplimiento del artículo tercero transitorio del decreto por el que se declaran reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el veintisiete de enero de dos mil dieciséis.
+
+DÉCIMO OCTAVO.- Las referencias al Registro Único de Obligaciones y Financiamientos se entenderán hechas al Registro de Empréstitos y Obligaciones.
