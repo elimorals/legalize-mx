@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2015-07-29"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -141,7 +141,9 @@ IX.- Evaluación Clínica: conjunto de exámenes mentales que realiza un equipo 
 
 X.- Familiar: persona con parentesco por consanguinidad, afinidad o civil con la persona usuaria de los servicios de salud mental;
 
-XI.- Fideicomiso: Fideicomiso Público de Salud Mental del Estado de Morelos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XI.- (DEROGADA POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DEL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)
 
 XII.- Gobierno: Gobierno del Estado de Morelos;
 
@@ -769,53 +771,49 @@ El Sistema Estatal de Salud Mental será parte del Sistema Estatal de Salud, y e
 
 ### CAPÍTULO I. DE LA INVERSIÓN EN SALUD MENTAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
 ###### Artículo 60.
 
-La inversión en materia de salud mental constituye una acción de interés social, por ello resulta indispensable el financiamiento de las acciones y fines a que se refiere la presente Ley.
+(DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DEL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 61.
 
-El Titular del Poder Ejecutivo al remitir al Congreso Local la Iniciativa de Decreto por el que se apruebe el Presupuesto de Egresos del Estado para el ejercicio fiscal que corresponda, deberá considerar dentro del rubro asignado a la Secretaría de Salud, los recursos suficientes para la operación, organización, planeación, supervisión y evaluación de los servicios en materia de salud mental.
+(DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DEL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 62.
 
-La Secretaría deberá considerar en la erogación del recurso asignado, medidas a mediano y largo plazo para la creación de Unidades Especializadas en Salud Mental, Unidades de Atención Ambulatoria Inmediata y Unidades de hospitalización de corta estancia, a efecto de cubrir la totalidad de las personas que habitan en el Estado de Morelos.
+(DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DEL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)
 
 ### CAPÍTULO II. DEL FIDEICOMISO PÚBLICO DE SALUD MENTAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
 ###### Artículo 63.
 
-Se autoriza la creación de un fideicomiso público de administración e inversión que será un instrumento de financiamiento para el cumplimiento de los fines contenidos en la presente ley, y adicionalmente tendrá por objeto apoyar acciones sobre programas, estudios y proyectos para el desarrollo de infraestructura en salud mental en beneficio de las personas y familiares que padecen una enfermedad mental.
+(DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DEL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)
 
-El fideicomiso que se crea por virtud de la presente ley no mantendrá estructura administrativa.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 64.
 
-El fideicomiso público cuya creación se autoriza a través de este ordenamiento, tendrá la estructura básica siguiente:
+(DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DEL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
-
-I.- Fideicomitente.- El Gobierno del Estado de Morelos, a través de la persona titular de la Secretaría de Hacienda;
-
-II.- Fiduciaria.- La institución del sistema financiero mexicano que le ofrezca al Gobierno del Estado de Morelos, las mejores condiciones del mercado.
-
-III.- Fideicomisarios: Se señalan en el orden de prelación siguiente:
-
-a).- En Primer Lugar.- Serán los pacientes de trastornos mentales y sus familiares, que sean atendidos con los recursos humanos materiales y financieros, que se constituyan por virtud de la entrada en vigor de la presente ley.
-
-b).- En Segundo Lugar.- Lo será el propio fideicomitente, o sea, el Gobierno del Estado de Morelos.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 65.
 
-El patrimonio del Fideicomiso se constituirá con las aportaciones que autorice el Congreso Local, a través del Presupuesto de Egresos del Gobierno del Estado de Morelos, para el ejercicio fiscal que corresponda, así como con los recursos que obtenga tanto de instituciones públicas como privadas.
+(DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DEL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 ###### Artículo 66.
 
-El fideicomiso contará con un Comité Técnico en cuya integración estará incluida la persona titular de la Secretaría (sic) Hacienda, quien lo presidirá, la persona titular de la Secretaría de Salud, la persona titular de la Secretaría de la Contraloría y los demás miembros que se establezcan en el contrato de fideicomiso que al efecto se celebre.
-
-Las facultades del Comité Técnico, se determinarán de manera especifica en el instrumento legal a que se refiere el párrafo anterior, y estarán circunscritas al cumplimiento de los objetivos a que se refiere el artículo 63 de la presente Ley.
+(DEROGADO POR LA DISPOSICIÓN TRANSITORIA SÉPTIMA DEL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, P.O. 22 DE DICIEMBRE DE 2016)
 
 ## TÍTULO VII. DE LAS SANCIONES Y EL RECURSO DE INCONFORMIDAD
 
@@ -980,3 +978,57 @@ P.O. 29 DE JULIO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
 
 SEGUNDO.- Remítase el presente Decreto al titular del Poder Ejecutivo para los efectos constitucionales procedentes.
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS SETENTA Y UNO POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día 1 de enero de 2017, previa publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del estado de Morelos.
+
+TERCERA. En cumplimiento a lo dispuesto por la Ley General de Contabilidad Gubernamental, el Gobierno del Estado instrumentará los documentos técnico-normativos que emita el Consejo Nacional de Armonización Contable, conforme a los criterios y términos establecidos para ese fin.
+
+CUARTA. La información financiera y presupuestal adicional a la contenida en el presente Decreto, así como la demás que se genere durante el ejercicio fiscal, podrá ser consultada en los reportes específicos que para tal efecto difunda la Secretaría en los medios oficiales, incluyendo los medios electrónicos.
+
+QUINTA. Se autoriza a los Ayuntamientos del estado de Morelos para afectar como garantía o fuente de pago a favor del Poder Ejecutivo Estatal, hasta el 15% de las participaciones federales presentes y futuras que les correspondan por el tiempo de vigencia de los convenios a que se refiere el Artículo Décimo Segundo del presente Decreto, por concepto del pago por los servicios que en su lugar prestará el Poder Ejecutivo Estatal, en los términos y condiciones que pacten en los instrumentos jurídicos respectivos, conforme a lo previsto por el artículo 9 de la Ley de Coordinación Fiscal y el artículo 9 de la Ley de Coordinación Hacendaria del Estado de Morelos y demás normativa aplicable.
+
+SEXTA. Se abroga la Ley para Erradicar la Obligatoriedad de las Cuotas Escolares en las Escuelas Públicas del Sistema de Educación Básica del Estado de Morelos y la Ley de Útiles Escolares Gratuitos para el Estado de Morelos.
+
+SÉPTIMA. Se deroga la fracción XI del artículo 7 y los artículos 60, 61, 62, 63, 64, 65 y 66 de la Ley de Salud Mental del Estado de Morelos.
+
+Los derechos y beneficios que se otorgan por virtud del referido ordenamiento legal, que no se prevean en los artículos derogados, continuarán siendo aplicables y garantizados por las autoridades competentes.
+
+OCTAVA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+NOVENA. Se reforman la fracción I del artículo 8; el primer párrafo y la fracción II del artículo 9; el artículo 10; y se deroga el artículo 12 de la Ley de Beneficios, Estímulos y Recompensas a los Veteranos de la Revolución en el Estado de Morelos, para quedar como sigue:
+
+###### ARTICULO 8.
+
+...
+
+I.- Recibir las solicitudes que presenten los Veteranos de la Revolución para disfrutar de los beneficios que otorga la presente Ley.
+
+II.- ...
+
+###### ARTÍCULO 9.
+
+El Gobierno del Estado otorgará a los Veteranos:
+
+I. ...
+
+II. Servicio Médico gratuito en los hospitales del Gobierno del Estado.
+
+III. a V.- ...
+
+###### ARTICULO 10.
+
+En las ceremonias cívicas que organice el Gobierno o los Ayuntamientos del Estado, los Veteranos de la Revolución tendrán un lugar de honor.
+
+###### ARTÍCULO 12.
+
+SE DEROGA.
+
+DÉCIMO. Los derechos y beneficios que a la fecha se hayan otorgado por virtud del ordenamiento legal a que se refiere la disposición transitoria anterior, continuarán siendo aplicables y garantizados por las autoridades competentes.
+
+> <small>[N. DE E. VÉASE ANEXO RELACIÓN DE OBRAS INCLUIDAS EN EL PRESUPUESTO DE EGRESOS 2017, EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINA 128.]</small>
