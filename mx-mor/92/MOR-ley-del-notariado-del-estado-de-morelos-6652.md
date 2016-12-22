@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-notariado-del-estado-de-morelos-6652"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-03"
-last_updated: "2016-11-30"
+last_updated: "2016-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 3 de agosto de 1983.
 
@@ -247,19 +247,21 @@ La contravención a esta disposición se sancionará con la revocación de la pa
 
 Para que el Notario pueda actuar, debe:
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 1989)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-I.- Otorgar anualmente garantía a favor del Gobierno del Estado, por la cantidad que resulte de multiplicar por 1825 el importe del salario mínimo general diario en la Capital del Estado.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+I.- Otorgar anualmente garantía a favor del Gobierno del Estado, por la cantidad que resulte de multiplicar por 6,500 veces el valor diario de la Unidad de Medida y Actualización.
 
 La garantía podrá consistir en:
 
 A).- Fianza de compañía legalmente autorizada;
 
-B).- Hipoteca en primer lugar, constituída por el propio Notario o por tercera persona, en instrumento público que deberá inscribirse en el Registro Público de la Propiedad; o
+B).- Hipoteca en primer lugar, constituida por el propio Notario o por tercera persona, en instrumento público que deberá inscribirse en el Registro Público de la Propiedad; o
 
-C).- Depósito en efectivo.
+C).- Depósito en efectivo;
 
-El monto de la garantía se actualizará dentro de un término no mayor de treinta días hábiles contados a partir de la fecha en que se publiquen en el Diario Oficial de la Federación los nuevos salarios mínimos para el Estado de Morelos.
+Dentro de un término no mayor de treinta días hábiles, contados a partir de la fecha en que se actualice en el Diario Oficial de la Federación el valor de la Unidad de Medida y Actualización, el monto de la garantía deberá ajustarse al mismo. La falta o exhibición de esta garantía o su actualización dará lugar a responsabilidad, que podrá originar la pérdida de la patente respectiva;
 
 II.- Proveerse a su costa, de protocolo y sello.
 
@@ -1490,3 +1492,23 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, 
 SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL TRESCIENTOS SETENTA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY. ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS, Y DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el 01 de enero de 2017, previa su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Para efectos de la reforma aprobada respecto de los artículos 23, 67, 79 y 78 de la Ley Orgánica de la Administración Pública del Estado de Morelos, las Secretarías de Hacienda, de Administración y de la Contraloría, asi como los organismos auxiliares del Poder Ejecutivo Estatal, dentro del plazo no mayor a 90 días naturales contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las reasignaciones o transferencias presupuestales correspondientes y los trámites administrativos necesarios; lo que deberá reflejarse en las cuentas públicas correspondientes.
+
+Dentro del mismo plazo señalado en el párrafo anterior, deberán realizarse las transferencias de recursos humanos necesarias, respetando los derechos laborales de los trabajadores en términos de la normativa aplicable.
+
+CUARTA. Dentro de un plazo de 180 días hábiles, contados a partir del inicio de vigencia del presente Decreto, la Secretaría de la Contraloría y los organismos auxiliares del Poder Ejecutivo Estatal realizarán las adecuaciones normativas correspondientes a su Reglamento Interior y Estatutos Orgánicos o equivalentes, respectivamente; instrumentos en los que se atenderá, en su caso, lo previsto en el último párrafo del artículo 67 de la Ley Orgánica de la Administración Pública del Estado de Morelos, objeto de reforma.
+
+QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto. Específicamente, aquellas disposiciones jurídicas de las Leyes o Decretos de creación de los organismos auxiliares que contravengan lo dispuesto por los artículos 23, 67, 69 y 78 de la Ley Orgánica de la Administración Pública del Estado de Morelos, en la inteligencia de que las mismas quedan sin efectos ante la prevalencia de este instrumento; sin perjuicio de lo previsto en el último párrafo del citado artículo 67.
+
+SEXTA. Dentro de un plazo que no exceda de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Notarios Públicos del estado de Morelos, deberán actualizar sus respectivas garantías a fin de dar cabal cumplimiento a lo dispuesto en el artículo 24 de la Ley del Notariado del Estado de Morelos, objeto de reforma.
+
+SÉPTIMA. Se autoriza al Titular del Poder Ejecutivo Estatal para que celebre los actos jurídicos respectivos y necesarios, y determine la constitución, conformación del Fideicomiso del Fondo para la Atención de Infraestructura y Administración Municipal a que se refiere este instrumento.
