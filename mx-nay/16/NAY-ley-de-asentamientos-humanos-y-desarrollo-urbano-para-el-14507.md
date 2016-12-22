@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asentamientos-humanos-y-desarrollo-urbano-para-el-14507"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-19"
-last_updated: "2016-11-08"
+last_updated: "2016-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Tercera Sección del Periódico Oficial, el miércoles 19 de mayo de 1999.
 
@@ -865,9 +865,11 @@ VII. Los Planes Regionales de Ordenamiento Territorial; y
 
 VIII. Los Programas Sectoriales de Desarrollo Urbano.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 37.
 
-Los Planes a que se refiere el artículo anterior se regirán por las disposiciones de la presente Ley y por los Reglamentos y normas administrativas Estatales y Municipales aplicables; contendrán los elementos básicos que hagan posible su congruencia y uniformidad para su debida ejecución técnica, jurídica y administrativa, debiendo comprender:
+Los Planes a que se refiere el artículo anterior se regirán por las disposiciones de la presente Ley y por los Reglamentos y normas administrativas Estatales y Municipales aplicables, debiendo observar estrictamente las acciones y políticas de conservación, protección, restauración y aprovechamiento estipuladas en los Programas de Ordenamiento Ecológico, aplicables, de acuerdo a la zona de que se trate; y contendrán los elementos básicos que hagan posible su congruencia y uniformidad para su debida ejecución técnica, jurídica y administrativa, debiendo comprender:
 
 I. La introducción con la denominación, antecedentes y ámbito espacial de aplicación;
 
@@ -1021,11 +1023,15 @@ XVIII. Los demás requisitos que establezcan las dependencias normativas.
 
 I.- Integran el conjunto de normas específicas a efecto de precisar la zonificación y regular los usos y destinos en los predios localizados en su área de aplicación;
 
-II.- Se consideran como un complemento técnico del Plan Municipal de Desarrollo Urbano y del Plan de Desarrollo Urbano de Centro de Población, por lo que sus disposiciones deben ser correspondientes y guardar congruencia entre sí;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+II.- Se consideran como un complemento técnico del Plan Municipal de Desarrollo Urbano y del Plan de Desarrollo Urbano del Centro de Población, por lo que sus disposiciones deben ser correspondientes y guardar congruencia entre sí, a efecto de que ningún Plan Parcial de Desarrollo Urbano pueda contradecir, modificar o cancelar las disposiciones previstas en los instrumentos de planeación de nivel superior referidos en el presente Título, salvo por lo expresamente previsto en esta Ley y demás ordenamientos aplicables;
 
 III.- Los Ayuntamientos podrán elaborar, consultar y en su caso aprobar Planes Parciales de Desarrollo Urbano para un área, barrio o colonia del centro de población a partir de la solicitud de los propietarios de predios y fincas, los grupos sociales y en particular, las asociaciones de vecinos legalmente constituidas; así mismo podrán presentar propuestas a efecto de evaluar, modificar o cancelar un Plan Parcial de Desarrollo Urbano y en su caso, modificar en forma parcial el Plan de Desarrollo Urbano de Centro de Población ó del Plan Municipal de Desarrollo Urbano, conforme las disposiciones de la presente Ley;
 
-IV.- Deberán indicar las acciones y políticas de conservación, protección, restauración y aprovechamiento, a partir de lo estipulado en los Programas de Ordenamiento Ecológico; y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+IV.- Deberán observar estrictamente las acciones y políticas de conservación, protección, restauración y aprovechamiento, a partir de lo estipulado en los Programas de Ordenamiento Ecológico aplicables de acuerdo a la zona de que se trate, y
 
 V.- Serán formulados, aprobados y publicados conforme a lo establecido en el Capítulo II del presente Titulo.
 
@@ -1117,7 +1123,9 @@ ARTÍCULO 42 QUATER.- Los Planes Parciales de Urbanización, además de los elem
 
 I.- El enunciado del Plan y datos generales del proyecto;
 
-II.- La referencia al Plan de Desarrollo Urbano del Centro de Población o del Plan Municipal de Desarrollo Urbano del cual se derivan;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+II.- La referencia al Plan de Desarrollo Urbano del Centro de Población o del Plan Municipal de Desarrollo Urbano del cual se derivan, por lo que sus disposiciones deben ser correspondientes y guardar congruencia entre sí, a efecto de que ningún Plan Parcial de Urbanización pueda contradecir, modificar o cancelar las disposiciones previstas en los instrumentos de planeación de nivel superior referidos en el presente Título, salvo por lo expresamente previsto en esta Ley y demás ordenamientos aplicables;
 
 III.- La fundamentación jurídica;
 
@@ -1253,11 +1261,11 @@ VIII. Recabado el dictamen de congruencia o los comentarios y recomendaciones de
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 53.
 
-Los Planes Municipales de Desarrollo Urbano, de centro de población y sus derivados, una vez aprobados por el Cabildo, serán enviados por el Presidente Municipal al Congreso del Estado para que dentro de un plazo razonable ordene su publicación e inscripción en el Registro Público de la Propiedad y surtan oportunamente sus efectos de ley. En lo que se refiere a los Planes Parciales de Desarrollo Urbano y los Parciales de Urbanización, bastará la aprobación de Cabildo, su publicación e inscripción, remitiendo copia al Congreso para su conocimiento.
+Los Planes Municipales de Desarrollo Urbano, de centro de población y sus derivados, una vez aprobados por el Cabildo, serán enviados por el Presidente Municipal al Congreso del Estado para que dentro de un plazo razonable ordene su publicación e inscripción en el Registro Público de la Propiedad y surtan oportunamente sus efectos de ley, y hecho lo anterior se entienda que los mismos se encuentran en vigor para efectos de la presente Ley. En lo que se refiere a los Planes Parciales de Desarrollo Urbano y los Parciales de Urbanización, bastará la aprobación de Cabildo, su publicación e inscripción, para que se entienda que los mismos surten sus efectos y por lo tanto se encuentran en vigor, remitiendo copia al Congreso para su conocimiento.
 
 La documentación que se remita al Congreso comprenderá:
 
@@ -1295,9 +1303,11 @@ Los Planes serán obligatorios para los particulares y para las autoridades corr
 
 El Plan Estatal y los Planes Regionales de Desarrollo Urbano, deberán ser revisados cada seis años para su actualización. Para controlar su ejecución y verificar los avances obtenidos, la Secretaría, evaluará cada año estos planes, presentando un informe detallado al Gobernador del Estado.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 59.
 
-Los planes municipales de desarrollo urbano y los que ordenen y regulen zonas conurbadas, serán revisados cada 3 años por las autoridades encargadas de formularlos y aprobarlos, durante el segundo año del ejercicio constitucional de los ayuntamientos, para resolver si procede o no su modificación o cancelación, según corresponda.
+Los Planes Municipales de Desarrollo Urbano y los que ordenen y regulen zonas conurbadas, serán revisados cada 3 años por las autoridades encargadas de formularlos y aprobarlos, durante el segundo año del ejercicio constitucional de los Ayuntamientos, para resolver si procede o no su modificación o cancelación, según corresponda, así como para ajustarlos con el resto de los instrumentos de planeación previstos en el Título Tercero de esta Ley.
 
 ###### ARTÍCULO 60.
 
@@ -1311,7 +1321,9 @@ III. Cuando surjan técnicas diferentes que permitan una realización más econ�
 
 IV. Cuando sobrevenga una causa que impida su ejecución.
 
-En ningún caso se deberá cancelar un Plan de desarrollo urbano, sin que se apruebe, publique y registre uno nuevo.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+En ningún caso se deberá cancelar un Plan de desarrollo urbano, sin que se apruebe, publique y registre uno nuevo; debiendo ajustarse los planes parciales de desarrollo urbano, los planes parciales de urbanización o aquellos que hubieran derivado del Plan cancelado o modificado.
 
 ###### ARTÍCULO 61.
 
@@ -1333,7 +1345,13 @@ VI. Los ciudadanos del Estado.
 
 El procedimiento y términos para el trámite de la resolución de modificación o cancelación de un plan, será el mismo que para su aprobación, publicación y registro.
 
-Si se aprueba la modificación o cancelación de un plan, las áreas, predios y zonas en él comprendidos quedarán afectos a las nuevas modalidades o limitaciones que con las modificaciones se impongan, o bien quedarán desafectados, desde la fecha de su inscripción y vigencia.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Si se aprueba la modificación o cancelación de un Plan, las áreas, predios y zonas en él comprendidos, así como los planes parciales de urbanización y planes parciales de desarrollo urbano que deriven del mismo y que estuvieren vigentes, quedarán afectos a las nuevas modalidades o limitaciones que con las modificaciones se impongan, o bien quedarán desafectados, desde la fecha de su inscripción y vigencia, debiendo realizar un trámite nuevo.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Para el caso de incongruencia entre un Plan Parcial de Desarrollo Urbano o de un Plan Parcial de Urbanización, frente a un Plan Municipal de Desarrollo Urbano, deberán prevalecer las disposiciones de este último.
 
 ### CAPÍTULO IV. DE LAS CONURBACIONES
 
@@ -1623,7 +1641,7 @@ VIII. Las zonas de desarrollo controlado y de salvaguarda o amortiguamiento, esp
 
 IX. Las zonas de conservación, mejoramiento y crecimiento de los centros de población;
 
-X. Las zonas de reserva y de preservación ecológica; y (sic)
+X. Las zonas de reserva y de preservación ecológica; y
 
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2007)</small>
 
@@ -3602,3 +3620,9 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
