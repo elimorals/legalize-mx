@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2016-04-01"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 1 DE ABRIL DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -1071,11 +1071,11 @@ XIII. En el caso de municipios que no cuenten con tablas de valores actualizadas
 
 #### SECCION TERCERA. DE LA TASA
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 58.
 
-El impuesto se calculará aplicando la tasa del 3% a la base gravable.
+El impuesto se calculará aplicando la tasa del 2% a la base gravable.
 
 #### SECCION CUARTA. DEL PAGO
 
@@ -3046,3 +3046,11 @@ P.O. 29 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente decreto entrará en vigor el día 1º de enero de 2016, previa su publicación en el Periódico Oficial del Estado de Campeche.
 
 SEGUNDO.- La determinación y los pagos de derechos por Servicios de Aseo y Limpia por Recolección de Basura correspondientes a ejercicios fiscales de 2015 y anteriores, se realizarán conforme a las disposiciones jurídicas vigentes en el ejercicio fiscal respectivo atendiendo, en su caso, a las reglas legales de prescripción y caducidad.
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 101 POR EL QUE "SE REFORMA EL ARTÍCULO 58 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día uno de enero del año dos mil diecisiete, previa publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
