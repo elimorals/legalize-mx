@@ -4,7 +4,7 @@ identifier: "CMX-ley-del-sistema-de-proteccion-civil-del-distrito-federal-103698
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-27"
-last_updated: "2014-11-27"
+last_updated: "2016-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103698&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2014-11-11"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 27 de noviembre de 2014.
 
@@ -2524,9 +2524,9 @@ DÉCIMO QUINTO. Las obligaciones de capacitación a los (sic) que hace referenci
 
 DÉCIMO SEXTO. La Secretaría contará con un término de 60 días naturales posteriores a la entrada en vigor de la presente ley para integrar y presentar, lo correspondiente a los lineamientos técnicos operativos para la elaboración de los Atlas Delegacionales.
 
-DÉCIMO SÉPTIMO.- La Secretaría y los Órganos Político Administrativos del Distrito Federal realizarán las adecuaciones necesarias en la estructura orgánica para dar cumplimiento a la conformación que establece la presente Ley, en un término no mayor a 120 días naturales posteriores a la entrada en vigor de la presente ley.
+DÉCIMO SÉPTIMO. La Secretaría y los Órganos Político Administrativos del Distrito Federal realizarán las adecuaciones necesarias en la estructura orgánica para dar cumplimiento a la conformación que establece la presente Ley, en un término no mayor a 120 días naturales posteriores a la entrada en vigor de la presente ley.
 
-DÉCIMO OCTAVO. El Comité de usuarios del subsuelo a que hace referencia la fracción XIX del artículo 7 del presente ordenamiento, continuará en vigor hasta en tanto no se publique la Ley específica respectiva.
+DÉCIMO OCTAVO. (DEROGADO, G.O. 22 DE DICIEMBRE DE 2016)
 
 DÉCIMO NOVENO. Lo dispuesto en el tercer párrafo del artículo 195 de la presente Ley, será aplicable a inmuebles cuya construcción se inicie tras la publicación de la presente Ley en la Gaceta Oficial del Distrito Federal.
 
@@ -2541,3 +2541,13 @@ VIGÉSIMO TERCERO. Se abrogan los términos de Referencia y las Normas Técnicas
 Recinto de la Asamblea Legislativa del Distrito Federal, a los veintitrés días del mes de septiembre del año dos mil catorce.- POR LA MESA DIRECTIVA.- DIP. ARIADNA MONTIEL REYES, PRESIDENTA.- DIP. JESÚS CUAUHTÉMOC VELASCO OLIVA, SECRETARIO.- DIP. GENARO CERVANTES VEGA, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los once días del mes de noviembre del año dos mil catorce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, DR. MIGUEL ÁNGEL MANCERA ESPINOSA.- FIRMA.- EL SECRETARIO DE GOBIERNO, HÉCTOR SERRANO CORTÉS.- FIRMA.- LA SECRETARIA DE MEDIO AMBIENTE, TANYA MÜLLER GARCÍA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, ALFREDO HERNÁNDEZ GARCÍA.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, ROSA ÍCELA RODRÍGUEZ VELÁZQUEZ.- FIRMA.- EL SECRETARIO DE MOVILIDAD, RUFINO H. LEÓN TOVAR.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL, DR. JESÚS RODRÍGUEZ ALMEIDA.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, FAUSTO LUGO GARCÍA.- FIRMA.- LA SECRETARIA DE EDUCACIÓN, MARA NADIEZHDA ROBLES VILLASEÑOR.- FIRMA.- EL SECRETARIO DE FINANZAS, EDGAR ABRAHAM AMADOR ZAMORA.- FIRMA.- EL SECRETARIO DE SALUD, DR. JOSÉ ARMANDO AHUED ORTEGA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA EL ARTÍCULO TRANSITORIO DÉCIMO OCTAVO DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal para su debida observancia y para su mayor difusión publíquese en el Diario Oficial de la Federación.
