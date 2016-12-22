@@ -4,7 +4,7 @@ identifier: "MOR-codigo-fiscal-para-el-estado-de-morelos-110750"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-09"
-last_updated: "2015-12-09"
+last_updated: "2016-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO FISCAL PARA EL ESTADO DE MORELOS
 
+[N. DE. E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2016, LA PRESENTE REFORMA INICIARÁ SU VIGENCIA EL 01 DE ENERO DE 2017.]
+
 CÓDIGO FISCAL PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 9 de diciembre de 2015.
 
@@ -65,7 +67,9 @@ Para efectos del presente Código se entenderá por:
 
 I. Código, al presente instrumento jurídico;
 
-II. Fisco, a la autoridad fiscal en cualquiera de los tres niveles de gobierno;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+II. Fisco, a la autoridad fiscal en cualquiera de los tres órdenes de gobierno;
 
 III. Gobernador, a la persona titular del Poder Ejecutivo Estatal;
 
@@ -75,9 +79,17 @@ V. Procuraduría Fiscal, a la Procuraduría Fiscal del Estado;
 
 VI. Reglamento, al Reglamento del Código;
 
-VII. Reglas, a las Reglas de Carácter General emitidas por la Secretaría, y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-VIII. Secretaría, a la Secretaría de Hacienda del Poder Ejecutivo Estatal.
+VII. Reglas, a las Reglas de carácter general emitidas por la Secretaría;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+VIII. Secretaría, a la Secretaría de Hacienda del Poder Ejecutivo Estatal, y
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+IX. UMA, a la Unidad de Medida y Actualización, referencia económica diaria en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y de la Ciudad de México, así como en las disposiciones jurídicas que emanen de todas las anteriores.
 
 ###### Artículo 3.
 
@@ -173,7 +185,9 @@ Los Organismos Paraestatales, Paramunicipales o Intermunicipales, que tengan der
 
 La comprobación, determinación, liquidación, administración y vigilancia de los ingresos de la hacienda pública será competencia de la Secretaría, a través de sus áreas correspondientes. En la recepción de los ingresos, dicha autoridad podrá ser auxiliada por los organismos públicos o privados, según lo disponen el presente Código y las demás leyes fiscales.
 
-La competencia de la Secretaría queda establecida en la Ley Orgánica de la Administración Pública del Estado de Morelos, en este Código, en las leyes fiscales y demás normativa aplicable.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+La competencia de la Secretaría queda establecida en la Ley Orgánica de la Administración Pública del Estado de Morelos, en este Código, su Reglamento, el Reglamento Interior de la Secretaría, las leyes fiscales y demás normativa aplicable.
 
 En el ámbito municipal, las facultades contenidas en el primer párrafo de este numeral las ejercerá la Tesorería Municipal, en los términos del artículo 12 de este Código, de la Ley Orgánica Municipal del Estado de Morelos y demás disposiciones jurídicas en la materia.
 
@@ -187,11 +201,19 @@ El cumplimiento de las disposiciones fiscales no podrá eludirse acudiendo a dis
 
 Las disposiciones fiscales entrarán en vigor al día siguiente de su publicación en el órgano de difusión oficial del Gobierno del estado de Morelos, salvo que en ellas se establezca una fecha posterior.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 12.
 
 La aplicación de las disposiciones fiscales estará a cargo del Poder Ejecutivo Estatal, quien ejercerá esta facultad por conducto de la Secretaría y de las demás autoridades fiscales, en los términos que fije el presente Código.
 
-En la esfera municipal, cuando este Código aluda a las atribuciones del Poder Ejecutivo del Estado, empleando las denominaciones del Gobernador, la Secretaría, el Fisco, las autoridades fiscales, las oficinas recaudadoras y otras similares, se entenderán conferidas al Presidente Municipal, al Tesorero y demás funcionarios que tengan atribuciones en materia de recaudación y fiscalización, en términos de la Ley Orgánica Municipal del Estado de Morelos, sin demérito de los casos en que la ley exija, además, el acuerdo previo del Ayuntamiento.
+En la esfera municipal, cuando este Código aluda al Gobierno del Estado de Morelos y a las atribuciones del Poder Ejecutivo del Estado, empleando las denominaciones del Gobernador, la Secretaría, el Fisco, las autoridades fiscales, las oficinas recaudadoras y otras similares, se entenderán referidas esas menciones al Gobierno Municipal y a las atribuciones conferidas al Presidente Municipal, al Tesorero y demás funcionarios que tengan atribuciones en materia de recaudación y fiscalización, en términos de la Ley Orgánica Municipal del Estado de Morelos, sin demérito de los casos en que la ley exija, además, el acuerdo previo del Ayuntamiento.
+
+Para cumplimiento de lo dispuesto por el Capítulo II de la Ley de Coordinación Fiscal, los municipios de la Entidad se deberán abstener de realizar cobros por concepto de derechos que no se encuentren expresamente permitidos por el artículo 10-A del citado ordenamiento.
+
+En su caso, el Gobierno del Estado realizará las afectaciones a las participaciones federales que le correspondan al municipio que haya sido considerado como infractor de lo dispuesto por este artículo y que así haya sido resuelto en el Recurso de Inconformidad, que se establece en el artículo 11-A de la Ley de Coordinación Fiscal.
+
+Para ello, y con la finalidad de evitar la afectación indebida de las participaciones federales de los municipios no infractores, el Gobierno del Estado informará al Gobierno Federal, el monto de las estimaciones de participaciones federales para el municipio infractor de que se trate y por el ejercicio fiscal que corresponda.
 
 ###### Artículo 13.
 
@@ -329,9 +351,11 @@ Cuando las leyes fiscales establezcan que las contribuciones se calcularán por 
 
 En los casos en que una sociedad entre en liquidación, sea fusionada o se escinda, siempre que la sociedad escindente desaparezca, el ejercicio fiscal terminará anticipadamente en la fecha en que entre en liquidación, sea fusionada o se escinda, respectivamente. En el primer caso, se considerará que habrá un ejercicio durante todo el tiempo en que la sociedad esté en liquidación. En el caso de fusión o escisión, la sociedad que subsista o que se constituya presentará las declaraciones del ejercicio de las que desaparezcan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 26.
 
-En los plazos fijados en días no se contarán los sábados, los domingos, ni el 01 de enero, el primer lunes del mes de febrero en conmemoración del 05 de febrero, el tercer lunes del mes de marzo en conmemoración del 21 de marzo, jueves y viernes de la Semana Mayor, el 10 de abril, el 01 de mayo, el 16 y el 30 de septiembre, el 01 de octubre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Estatal, el 01 y el 02 de noviembre, así como el tercer lunes del mes de noviembre en conmemoración del 20 de noviembre, el 25 de diciembre; así como aquellos que se declaren como inhábiles por la autoridad competente.
+En los plazos fijados en días no se contarán los sábados, los domingos, ni el 01 de enero, el primer lunes del mes de febrero en conmemoración del 05 de febrero, el tercer lunes del mes de marzo en conmemoración del 21 de marzo, jueves y viernes de la Semana Mayor, el 10 de abril, el 01 y el 05 de mayo, el 16 y el 30 de septiembre, el 01 de octubre de cada seis años cuando corresponda a la transmisión del Poder Ejecutivo Estatal, el 01 y el 02 de noviembre, así como el tercer lunes del mes de noviembre en conmemoración del 20 de noviembre, el 25 de diciembre; así como aquellos que se declaren como inhábiles por la autoridad competente.
 
 Tampoco se contarán en dichos plazos, los días en que tengan vacaciones generales las autoridades fiscales estatales, excepto cuando se trate de plazos para la presentación de declaraciones y pago de contribuciones, exclusivamente, en cuyos casos esos días se consideran hábiles. No son vacaciones generales las que se otorguen en forma escalonada, permaneciendo las oficinas abiertas al público durante el horario normal de labores.
 
@@ -581,7 +605,9 @@ VI. Cancelación por incosteabilidad, incobrabilidad o ilocalizabilidad.
 
 El pago de los créditos fiscales deberá ser en efectivo, en cheque de caja o certificado, en cheque personal del deudor, transferencia electrónica de fondos a través de medios bancarios electrónicos y tarjeta de crédito o débito, todos ellos en moneda nacional, así como en especie en vía de dación en pago.
 
-Se aceptarán como medios de pago el efectivo en moneda nacional, los cheques de cuenta personal del deudor, cheques certificados o de caja, la transferencia electrónica de fondos a favor de la Secretaría, y la dación de bienes en los términos que prevea el Reglamento. Los cheques y las transferencias electrónicas se harán a favor del Gobierno del estado de Morelos.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Se aceptarán como medios de pago el efectivo en moneda nacional, los cheques de cuenta personal del deudor, cheques certificados o de caja, la transferencia electrónica de fondos, y la dación de bienes en los términos que prevea este Código y su Reglamento.
 
 La Secretaría, mediante Reglas, podrá autorizar otros medios de pago.
 
@@ -619,11 +645,13 @@ Para determinar las contribuciones cuyo importe sea o comprenda fracciones en pe
 
 Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, la Secretaría podrá ordenar por medio de disposiciones de carácter general, que se proporcione declaración distinta de aquella con la cual se efectúe el pago, con el objeto de facilitar el cumplimiento de la obligación, así como para allegarse de la información necesaria en materia de estadística de ingresos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 46.
 
-El monto de las contribuciones, de los aprovechamientos, así como de las devoluciones a cargo del Fisco estatal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país. Esta actualización deberá realizarse desde la fecha en que el pago debió efectuarse y hasta que el mismo se realice; tratándose de devolución la actualización comprenderá el periodo comprendido desde el mes en que se realizó el pago de lo indebido y hasta aquel en que la devolución esté a disposición del contribuyente.
+El monto de las contribuciones, de los aprovechamientos, así como de las devoluciones a cargo del Fisco estatal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país. Esta actualización deberá realizarse desde la fecha en que el pago debió efectuarse y hasta que el mismo se realice; tratándose de devolución la actualización abarcará el periodo comprendido desde el mes en que se realizó el pago de lo indebido y hasta aquel en que la devolución esté a disposición del contribuyente.
 
-Para el caso de depósito en cuenta, se entenderá que la devolución está a disposición del contribuyente a partir de la fecha en que la autoridad efectúe el depósito en la institución financiera que señale en la solicitud de devolución o la institución que señale con motivo de algún juicio de amparo en el que se hubiese ordenado la devolución y para el caso de devolución mediante cheque nominativo, en el momento en que éste es emitido y se hace saber al contribuyente de ello.
+Para el caso de depósito en cuenta, se entenderá que la devolución está a disposición del contribuyente, a partir de la fecha en que la autoridad efectúe el depósito en la institución financiera que señale en la solicitud de devolución o la institución que señale con motivo de algún juicio de amparo en el que se hubiese ordenado la devolución, y para el caso de devolución mediante cheque nominativo, en el momento en que éste es emitido y se hace saber al contribuyente de ello.
 
 Para los fines de la actualización prevista en este artículo, se aplicará el factor de actualización que se obtendrá dividiendo el INPC del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo que corresponda. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del Fisco estatal, no se actualizarán por fracciones de mes.
 
@@ -632,10 +660,6 @@ El INPC que debe aplicarse está referido al que en términos de las disposicion
 Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
 
 Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de éstas, determinado en los pagos provisionales y del ejercicio, no será deducible ni acreditable.
-
-Las cantidades en moneda nacional que se establecen en este Código, se actualizarán cuando el incremento porcentual acumulado del INPC, desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio a aquél en el que se haya dado dicho incremento. Para la actualización mencionada se considerará el período comprendido desde el mes en el que las cantidades se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el porcentaje citado. Para estos efectos, el factor de actualización se obtendrá dividiendo el INPC del mes inmediato anterior al más reciente del período entre el INPC correspondiente al mes anterior al más antiguo de dicho período. La Secretaría tomará el factor de actualización así como las cantidades actualizadas que se publiquen en el Diario Oficial de la Federación.
-
-Tratándose de cantidades que se establezcan en este Código que no hayan estado sujetas a una actualización en los términos del párrafo anterior, para llevar a cabo su actualización, cuando así proceda en los términos de dicho párrafo, se utilizará el INPC correspondiente al mes de noviembre del ejercicio inmediato anterior a aquél en el que hayan entrado en vigor.
 
 Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del Fisco, así como a los valores de bienes u operaciones de que se traten será de 1.
 
@@ -691,9 +715,11 @@ La obligación de devolver las cantidades a favor de los contribuyentes prescrib
 
 Las autoridades fiscales efectuarán la devolución mediante cheque nominativo, depósito o transferencia electrónica en la cuenta del contribuyente, para lo cual, éste deberá proporcionar en la solicitud de devolución o en la declaración correspondiente el nombre de la institución bancaria, el número de cuenta y, en su caso, la clabe interbancaria. Para estos efectos, los estados de cuenta que expidan las entidades financieras serán considerados como comprobante del pago de la devolución respectiva. En los casos que el día de vencimiento del plazo a que se refiere el artículo 48 de este Código, no sea posible efectuar el depósito por causas imputables al particular o la entidad financiera designada por éste, dicho plazo se suspenderá hasta en tanto pueda efectuarse.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 50.
 
-Cuando el contribuyente presente una solicitud de devolución que sea negada y posteriormente sea concedida por la autoridad en cumplimiento de una resolución dictada en un recurso administrativo o de una sentencia emitida por un órgano jurisdiccional, el cálculo de los intereses, en términos del párrafo anterior, se efectuará a partir de:
+Cuando el contribuyente presente una solicitud de devolución que sea negada y posteriormente sea concedida por la autoridad en cumplimiento de una resolución dictada en un recurso administrativo o de una sentencia emitida por un órgano jurisdiccional, el cálculo de los intereses, en términos del artículo 47 de este Código, se efectuará a partir de:
 
 I. Tratándose de saldos a favor o cuando el pago de lo indebido se hubiese determinado por el propio contribuyente, a partir de la fecha en que se hubiera presentado la solicitud de devolución, y
 
@@ -849,9 +875,15 @@ XVI. La sociedad que administre o los propietarios de los inmuebles, afectos al 
 
 Para la determinación y liquidación de las contribuciones omitidas en el supuesto de esta fracción, las autoridades fiscales del Estado sólo deberán comprobar que en los inmuebles afectos al servicio de tiempo compartido se prestaron los servicios sujetos al pago de contribuciones estatales y, en su caso, determinar, incluso mediante determinación presuntiva, la base gravable sobre la que debieron liquidarse las contribuciones omitidas;
 
-XVII. Los albaceas o representantes de la sucesión, por las contribuciones que se causaron o se debieron pagar durante el período de su encargo, y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-XVIII. Las demás personas que señalen las leyes.
+XVII. Los albaceas o representantes de la sucesión, por las contribuciones que se causaron o se debieron pagar durante el período de su encargo;
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XVIII. El representante legal o apoderado de las sociedades mercantiles, por las contribuciones causadas, no retenidas o recaudadas por dichas personas morales durante su representación, así como por las que debieron pagarse o enterarse durante la misma, y
+
+XIX. Las demás personas que señalen las leyes.
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por actos u omisiones propios.
 
@@ -963,7 +995,9 @@ XVII. A ser tratados con el debido respeto y consideración por las autoridades 
 
 XVIII. A que las actuaciones de las autoridades fiscales que requieran su intervención se lleven a cabo en la forma que les resulte menos onerosa;
 
-XIX. A corregir en cualquier momento su situación fiscal, incluso cuando se ejerzan por parte de las autoridades fiscales las facultades de comprobación que la ley les conceden. Cuando el contribuyente corrija su situación fiscal dentro de los veinte días siguientes al inicio del ejercicio de las facultades de comprobación, no habrá imposición de sanción pecuniaria alguna;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XIX. A corregir en cualquier momento su situación fiscal, incluso cuando se ejerzan por parte de las autoridades fiscales las facultades de comprobación que la ley les conceden. Cuando el contribuyente corrija su situación fiscal, el cobro de la multa por omisión en el pago será del 20% de la contribución omitida, siempre y cuando la pague junto con sus accesorios después de que inició el ejercicio de las facultades de comprobación y hasta antes de que se levante el acta final de visita domiciliaria o se notifique el oficio de observaciones; la multa del 30% de las contribuciones omitidas, cuando se pague junto con sus accesorios después de levantada el acta final o notificado el oficio de observaciones y antes de que se notifique la determinación del crédito;
 
 XX. A presentar las declaraciones complementarias que sean necesarias para el debido cumplimiento de sus obligaciones fiscales y el ejercicio de los derechos que de ello emanen, y
 
@@ -1229,9 +1263,11 @@ Los servicios de asistencia al contribuyente a que se refiere este artículo, ta
 
 Las autoridades fiscales darán a conocer a los contribuyentes a través de los medios de difusión que se señalen en Reglas, los criterios de carácter interno que emitan para el debido cumplimiento de las disposiciones fiscales, salvo aquéllos que a juicio de la propia autoridad, tengan el carácter de confidenciales, sin que por ello nazcan obligaciones para los particulares.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 86.
 
-Las autoridades fiscales, en términos de las leyes aplicables, conforme las competencias que legalmente tengan asignadas, podrán solicitar de las demás autoridades estatales y municipales la colaboración que consideren necesaria para el adecuado ejercicio de sus funciones. Esta colaboración la deberán procurar de inmediato.
+Las autoridades fiscales, en términos de las leyes aplicables, conforme las competencias que legalmente tengan asignadas, podrán solicitar de las demás autoridades federales, estatales y municipales la colaboración que consideren necesaria para el adecuado ejercicio de sus funciones. Esta colaboración la deberán procurar de inmediato.
 
 ###### Artículo 87.
 
@@ -1269,9 +1305,13 @@ Las resoluciones administrativas de carácter individual favorables a los partic
 
 Las resoluciones administrativas de carácter individual o dirigidas a agrupaciones, dictadas en materia de impuestos que otorguen una autorización o que siendo favorables a los particulares, determinen un régimen fiscal, surtirán sus efectos en el ejercicio fiscal en el que se otorguen o en el ejercicio inmediato anterior, cuando así se hubiera solicitado, siempre que la resolución se otorgue en los tres meses siguientes al cierre del mismo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 93.
 
-La Secretaría podrá dejar sin efectos o modificar las resoluciones administrativas de carácter general que hubiera emitido, lo cual, no afectará los derechos adquiridos por los particulares que se hubieran producido con anterioridad, incluso cuando se emita una nueva resolución.
+La Secretaria podrá dejar sin efectos o modificar las resoluciones administrativas de carácter general que hubiera emitido, lo cual, no afectará los derechos adquiridos por los particulares que se hubieran producido con anterioridad, incluso cuando se emita una nueva resolución.
+
+Así mismo, la Secretaría podrá dejar sin efectos y reponer actos cuando estos sean contrarios a las disposiciones fiscales, dentro del plazo de quince días contados a partir de la fecha en que se llevó a cabo la actuación.
 
 ###### Artículo 94.
 
@@ -1329,6 +1369,8 @@ Sólo procederá la condonación de las multas que hayan quedado firmes y siempr
 
 Las multas cuya imposición hubiera quedado firme deberán ser condonadas totalmente si por pruebas diversas de las presentadas ante las autoridades administrativas o jurisdiccionales en su caso, se demuestra que no se comprometió la infracción o la persona a la cual aquella se atribuye no es la responsable.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 98.
 
 La Secretaría podrá ordenar la cancelación administrativa de créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro, por insolvencia del deudor y los responsables solidarios, o por incobrabilidad.
@@ -1338,8 +1380,6 @@ Se considera que existe incosteabilidad en el cobro de créditos fiscales cuando
 Se consideran insolventes los deudores o los responsables solidarios cuando no tengan bienes embargables suficientes para cubrir el crédito.
 
 También procederá la cancelación señalada en este artículo por incobrabilidad en los casos que el deudor no se pueda localizar, y no se conozcan bienes que puedan ser objeto del procedimiento administrativo de ejecución o cuando hubiere fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
-
-La Secretaría dará a conocer mediante Reglas los procedimientos para la aplicación de este artículo.
 
 La cancelación de los créditos a que se refiere este artículo no libera de su pago a los obligados.
 
@@ -1385,9 +1425,11 @@ Las autoridades fiscales podrán solicitar de los contribuyentes, responsables s
 
 No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando únicamente soliciten los datos, informes y documentos a que se refiere este artículo, pudiendo ejercerlas en cualquier momento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 101.
 
-Cuando los contribuyentes, los responsables solidarios, o terceros con ellos relacionados, se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales, éstas podrán indistinta o conjuntamente:
+Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados se opongan u obstaculicen el ejercicio de las facultades de las autoridades fiscales o existan elementos suficientes para presumir tales circunstancias, éstas podrán indistinta o conjuntamente:
 
 I. Solicitar el auxilio de la fuerza pública;
 
@@ -1447,7 +1489,9 @@ Cuando en el ejercicio de sus facultades de comprobación del cumplimiento de la
 
 Para efectos de la inscripción de los contribuyentes en el Padrón de Contribuyentes del Estado en los términos de este artículo, se estará a lo siguiente:
 
-I. Las autoridades fiscales requerirán la presentación del documento omitido en los términos de la fracción I del artículo 71 de este Código;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+I. Las autoridades fiscales requerirán la presentación del documento omitido en los términos de la fracción III del artículo 102 de este Código;
 
 II. Si después de efectuados los tres requerimientos establecidos en el numeral señalado en la fracción anterior, el contribuyente persiste en su conducta omisa, la autoridad, independientemente de la imposición de las sanciones que correspondan, emitirá mandamiento fundado y motivado en el que de conformidad con los datos que tenga en su poder realice la inscripción oficiosa del contribuyente en el Padrón de Contribuyentes del Estado, la cual le será notificada personalmente al contribuyente para que en el término de quince días manifieste lo que a su derecho corresponda, y
 
@@ -1553,13 +1597,17 @@ Lo dispuesto en el párrafo anterior no es aplicable cuando los visitadores obte
 
 Para su desarrollo y eficacia, respeto a los derechos de los contribuyentes, la visita en el domicilio fiscal se desarrollará conforme a las siguientes reglas:
 
-I. De toda visita en el domicilio fiscal se levantará acta en la que se hará constar, en forma circunstanciada, el desarrollo del procedimiento, los hechos u omisiones que se hubieren conocido por los visitadores en el desarrollo de la visita que produzcan el incumplimiento de disposiciones fiscales. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el periodo revisado;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-II. Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial, cumpliendo al respecto con lo previsto en la fracción II del artículo 109 de este Código.
+I. De toda visita en el domicilio fiscal se harán constar en actas parciales, en forma circunstanciada, el desarrollo del procedimiento, los hechos u omisiones que se hubieren conocido por los visitadores en el desarrollo de la visita que produzcan el incumplimiento de disposiciones fiscales. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas, para efectos de cualquiera de las contribuciones a cargo del visitado en el periodo revisado;
 
-Para el supuesto que una visita haya sido ordenada para realizarse en dos o más lugares, la primera diligencia podrá efectuarse en cualquiera de ellos y se podrá iniciar la visita en cualquiera de los lugares señalados en la orden, en los términos que señala el artículo 109, fracción II, de este Código. En este supuesto, en el acta que se levante se señalarán el lugar o lugares en que se realizará la visita, y el inicio de los trabajos en cada uno de dichos lugares, podrá realizarse desde el momento de la notificación de la orden.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Para la realización de las visitas en dos o más lugares, en cada uno de ellos, las personas con quien se entienda la diligencia tendrán las obligaciones que se establecen en el artículo 108 de este Código;
+II. Si la visita se realiza simultáneamente en dos o más lugares, en cada uno de ellos se deberán levantar actas parciales, mismas que se agregarán al acta final que de la visita se haga, la cual puede ser levantada en cualquiera de dichos lugares. En los casos a que se refiere esta fracción, se requerirá la presencia de dos testigos en cada establecimiento visitado en donde se levante acta parcial.
+
+Para el supuesto que una visita haya sido ordenada para realizarse en dos o más lugares, la primera diligencia podrá efectuarse en cualquiera de ellos y se podrá iniciar la visita en cualquiera de los lugares señalados en la orden, en los términos que señala el artículo 109, fracción IV, de este Código. En este supuesto, en el acta que se levante se señalarán el lugar o lugares en que se realizará la visita, y el inicio de los trabajos en cada uno de dichos lugares, podrá realizarse desde el momento de la notificación de la orden.
+
+Para la realización de las visitas en dos o más lugares, en cada uno de ellos, las personas con quien se entienda la diligencia tendrán las obligaciones que se establecen en este Capítulo;
 
 III. Durante el desarrollo de la visita los visitadores con el fin de asegurar la contabilidad, correspondencia o bienes que no estén registrados en la contabilidad, podrán, indistintamente, sellar o colocar marcas en dichos documentos, bienes, o en muebles, archiveros u oficinas donde se encuentren, así como dejarlos en calidad de depósito al visitado o a la persona con quien se entienda la diligencia, previo inventario que al efecto formulen, siempre que dicho aseguramiento no impida la realización de las actividades del visitado.
 
@@ -1571,19 +1619,25 @@ V. En la última acta parcial que al efecto se levante, deberá hacerse mención
 
 El acta final de visita podrá ser firmada por cualquiera de los visitadores que en ella hubieren intervenido, debiéndose además recabar las firmas del contribuyente, su representante legal, o de la persona con quien se entienda la diligencia, y de los testigos propuestos por la persona con quien se entienda la diligencia, si cualquiera de éstos se negaren a firmar, así se hará constar en el acta sin que ello afecte la validez y valor probatorio de la misma.
 
-Para efectos de la fase oficiosa del procedimiento administrativo, se tendrán por consentidos los hechos asentados en actas cuando el contribuyente dentro de los plazos de ley, no presente los libros o documentos que los desvirtúen;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-VI. Con las mismas formalidades a que se refieren las fracciones anteriores, se podrán levantar actas parciales o complementarias en las que se hagan constar hechos, omisiones o circunstancias de carácter concreto, de los que se tenga conocimiento en el desarrollo de una visita. Una vez levantada el acta final no se podrán levantar actas complementarias sin que exista una nueva orden de visita.
+Para efectos de la fase oficiosa del procedimiento administrativo, se tendrán por consentidos los hechos asentados en actas cuando el contribuyente dentro de los plazos de ley, no presente los libros o documentos que los desvirtúen o no señale el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad, o no prueba que éstos se encuentran en poder de una autoridad;
 
-Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir, cuando menos veinte días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones, así como optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior si, antes del cierre del acta final, el contribuyente no presenta los documentos, libros o registros de referencia o no señala el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad, o no prueba que éstos se encuentran en poder de una autoridad;
+VI. Una vez levantada el acta final no se podrán levantar actas sin que exista una nueva orden de visita;
 
-VII. Cuando resulte imposible continuar la visita en el domicilio del visitado, o en la fecha y hora señalada para el levantamiento del acta final el domicilio en que se hubiere señalado se encuentra cerrado y no se pudiere levantar en él, y se cuente con elementos suficientes para ello, las actas en que se haga constar los hechos u omisiones atribuibles al visitado podrán levantarse en las oficinas de la autoridad fiscal. En este caso, deberá notificarse al visitado previamente de esta circunstancia en cualquiera de las formas previstas en este Código, debiéndose notificar en cualquiera de dichas formas, la realización de las etapas subsecuentes del procedimiento de revisión correspondiente. Si la imposibilidad se genera para el levantamiento del acta final, la notificación se podrá realizar por instructivo estrados o a través del buzón tributario en los términos de este Código;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-VIII. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado. En ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que ello afecte la validez y valor probatorio de la misma, y
+VII. Cuando resulte imposible continuar o concluir la visita en el domicilio del visitado, o en la fecha y hora señalada para el levantamiento del acta final el domicilio en que se hubiere señalado se encuentra cerrado y no se pudiere levantar en él, y se cuente con elementos suficientes para ello, las actas en que se haga constar el desarrollo o conclusión de una visita en el domicilio podrán levantarse en las oficinas de la autoridad fiscal. En este caso, deberá notificarse previamente de esta circunstancia a la persona con quien se entiende la diligencia en cualquiera de las formas previstas en este Código; excepto en el supuesto de que el visitado hubiere desaparecido del domicilio o no hubiere sido localizable en el domicilio fiscal durante el desarrollo de la visita;
 
-IX. Cuando el personal actuante hubiera recabado la información necesaria para determinar la situación fiscal del revisado, y después del levantamiento del acta última parcial, se levantará acta final; las actas parciales que se hubieren levantado, formarán parte del acta final, aun cuando en ésta no se haga mención expresa de dicha circunstancia.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+VIII. Cuando el personal actuante hubiera recabado la información necesaria para determinar la situación fiscal del revisado, y después del levantamiento del acta última parcial, se levantará acta final; las actas parciales que se hubieren levantado, formarán parte del acta final, aun cuando en ésta no se haga mención expresa de dicha circunstancia, y
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+IX. Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado. En ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niegan a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que ello afecte la validez y valor probatorio de la misma.
 
 ###### Artículo 112.
 
@@ -1605,9 +1659,11 @@ VII. Si con motivo de la visita domiciliaria a que se refiere este artículo, la
 
 La resolución a que se refiere esta fracción deberá emitirse en un plazo que no excederá de seis meses contados a partir del vencimiento del plazo otorgado al contribuyente, señalado en el párrafo que antecede.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 113.
 
-Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 115 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses, contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción VIII del artículo 115 de este Código.
+Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación a que se refiere el artículo 115 de este Código, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses, contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluyan los plazos a que se refiere la fracción VI del artículo 115 de este Código.
 
 El plazo para emitir la resolución a que se refiere este artículo se suspenderá en los casos previstos en las fracciones I, II y III del artículo 118 de este Código.
 
@@ -1617,9 +1673,11 @@ Cuando las autoridades fiscales no emitan la resolución correspondiente dentro 
 
 En dicha resolución deberán señalarse los plazos en que la misma puede ser impugnada en el recurso de revocación y en el juicio contencioso administrativo. Cuando en la resolución se omita el señalamiento de referencia, el contribuyente contará con el doble del plazo que establecen las disposiciones legales para interponer el mencionado recurso administrativo o el juicio contencioso administrativo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 114.
 
-Cuando las autoridades fiscales conozcan de terceros, hechos u omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario sujeto a las facultades de comprobación a que se refiere el artículo 115, le darán a conocer a éste el resultado de aquella actuación mediante oficio de observaciones, para que pueda presentar documentación a fin de desvirtuar los hechos consignados en el mismo, dentro de los plazos a que se refiere al artículo 115, fracción VIII, de este Código.
+Cuando las autoridades fiscales conozcan de terceros, hechos u omisiones que puedan entrañar incumplimiento de las obligaciones fiscales de un contribuyente o responsable solidario sujeto a las facultades de comprobación a que se refiere el artículo 115, le darán a conocer a éste el resultado de aquella actuación mediante oficio de observaciones, para que pueda presentar documentación a fin de desvirtuar los hechos consignados en el mismo, dentro de los plazos a que se refiere al artículo 115, fracción VI, de este Código.
 
 ###### Artículo 115.
 
@@ -1633,19 +1691,29 @@ b) Deberán contener impreso el nombre y domicilio fiscal del interesado, las ob
 
 II. El requerimiento de documentación e información se deberá notificar con las formalidades que para las notificaciones personales se establecen en el Título Quinto, Capítulo I, de este Código;
 
-III. Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió el requerimiento o por su representante;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+III. Los informes, libros o documentos requeridos deberán ser proporcionados por la persona a quien se dirigió el requerimiento o por su representante legal o apoderado debidamente acreditados; para estos efectos, deberá presentar promoción en la que cumpliendo los requisitos establecidos en el artículo 40 de este Código, señale de forma analítica, cuál es la documentación que se aporta;
 
 IV. Como consecuencia de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, las autoridades fiscales formularán oficio de observaciones, en el cual harán constar en forma circunstanciada los hechos u omisiones que se hubiesen conocido y entrañen incumplimiento de las disposiciones fiscales del contribuyente o responsable solidario;
 
-V. Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
-VI. El oficio de observaciones a que se refiere la fracción IV de este artículo se notificará cumpliendo con lo señalado en la fracción I de este artículo. El contribuyente, el responsable solidario o el tercero relacionado, contará con un plazo de veinte días, contados a partir del día siguiente al en que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o cuando la revisión abarque, además de uno o varios ejercicios revisados, fracciones de otro ejercicio, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días.
+V. Cuando no hubiera observaciones, la autoridad fiscalizadora comunicará al contribuyente o responsable solidario, mediante oficio, la conclusión de la revisión, en que se señalen los documentos que habiendo sido presentados por el particular, fueron objeto de revisión;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+VI. El oficio de observaciones a que se refiere la fracción IV de este artículo se notificará cumpliendo con lo señalado en la fracción I de este artículo. El contribuyente, el responsable solidario o el tercero relacionado, contará con un plazo de veinte días, contados a partir del día siguiente al en que surta efectos la notificación del oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal. Cuando se trate de más de un ejercicio revisado o cuando la revisión abarque, además de uno o varios ejercicios revisados, fracciones de otro ejercicio, se ampliará el plazo por quince días más, siempre que el contribuyente presente solicitud dentro del plazo inicial de veinte días.
+
+Los libros, registros o documentos deberán ser presentados por el interesado, su representante legal o apoderado mediante escrito en el que se relacionen los documentos y demás elementos aportados, con cada uno de los hechos que se pretende desvirtuar.
 
 Se tendrán por consentidos los hechos u omisiones consignados en el oficio de observaciones, si en el plazo probatorio el contribuyente no presenta documentación comprobatoria que los desvirtúe.
 
 Los plazos que se señalan en esta fracción son independientes de los que se establecen en el artículo 117 de este Código;
 
-VII. Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio de observaciones a que se refiere la fracción IV de este artículo, el contribuyente, responsable solidario y tercero relacionado, podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión, mediante la presentación de la forma de corrección de su situación fiscal, de la que proporcionará copia a la autoridad revisora, y
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+VII. Dentro del plazo para desvirtuar los hechos u omisiones asentados en el oficio de observaciones a que se refiere la fracción VI de este artículo, el contribuyente, responsable solidario y tercero relacionado, podrá optar por corregir su situación fiscal en las distintas contribuciones objeto de la revisión, mediante la presentación de la forma de corrección de su situación fiscal, de la que proporcionará copia a la autoridad revisora, y
 
 VIII. Cuando el contribuyente no corrija totalmente su situación fiscal, conforme al oficio de observaciones, o no desvirtúe los hechos u omisiones consignados en dicho documento, se emitirá la resolución que determine las contribuciones o aprovechamientos omitidos, la cual se notificará al contribuyente cumpliendo con lo señalado en la fracción II de este artículo.
 
@@ -1653,23 +1721,7 @@ Para los efectos del primer párrafo de este artículo se considera como parte d
 
 ###### Artículo 116.
 
-Cuando las autoridades fiscales ejerzan las facultades de comprobación del cumplimiento de las obligaciones fiscales en sus propias oficinas, previstas en la fracción III del artículo 99 de este Código, se estará a lo siguiente:
-
-I. En el requerimiento de documentación e información además de contener los datos que se establecen en el artículo 95 de este Código, se deberán señalar el plazo y lugar en que deberán presentarse los documentos cuya presentación se requiere;
-
-II. El requerimiento de documentación e información se deberá notificar con las formalidades que para las notificaciones personales se establecen en el Título Quinto, Capítulo I, de este Código;
-
-III. La documentación requerida, deberá ser entregada en el plazo y lugar que en ella se señalen, por el contribuyente o representante legal debidamente acreditados; para estos efectos, deberá presentar promoción en la que cumpliendo los requisitos establecidos en el artículo 40 de este Código, señale de forma analítica, cuál es la documentación que se aporta;
-
-IV. Como consecuencia de la revisión de la documentación proporcionada por el contribuyente y demás datos o informes obtenidos por la autoridad, se formulará oficio de observaciones, en el que se harán constar en forma circunstanciada los hechos u omisiones que se hubieren conocido y que originen incumplimiento de las disposiciones fiscales;
-
-V. El oficio de observaciones a que se refiere la fracción anterior deberá ser notificado cumpliendo las formalidades que para las notificaciones personales se prevén en el Título Quinto, Capítulo I, de este Código; la persona que hubiere sido objeto del ejercicio de las facultades de comprobación, contará con un plazo de veinte días contados a partir del día siguiente a aquél en que surta sus efectos la notificación del oficio de observaciones, para alegar lo que a su derecho convenga y presentar los libros, registros o documentos que desvirtúen los hechos asentados en el mismo; si se trata de la revisión de dos o más ejercicios, el plazo se podrá ampliar por quince días más si el interesado presenta solicitud dentro del plazo original de veinte días.
-
-Los libros, registros o documentos deberán ser presentados por el interesado o su representante legal mediante escrito en el que se relacionen los documentos y demás elementos aportados, con cada uno de los hechos que se pretende desvirtuar.
-
-Se tendrán por consentidos dentro de la fase oficiosa del procedimiento los hechos asentados en el oficio de observaciones, cuando el contribuyente no aporte la documentación comprobatoria que los desvirtúe, y
-
-VI. Cuando con motivo de la revisión practicada en los términos de este artículo no hubiere observaciones, la autoridad fiscalizadora lo comunicará al contribuyente mediante oficio de conclusión en que se señalen los documentos que habiendo sido presentados por el particular, fueron objeto de revisión.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2016)
 
 ###### Artículo 117.
 
@@ -1683,21 +1735,27 @@ III. Quince días contados a partir del día siguiente a aquel en que surta efec
 
 Los plazos a que se refieren las fracciones II y III de este artículo podrán ampliarse a solicitud del interesado, por diez días más cuando se trate de informes cuyo contenido sea difícil de proporcionar o sean de difícil obtención. La solicitud deberá presentarse dentro del plazo original que corresponda.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 118.
 
 Las autoridades fiscales deberán concluir la visita que se desarrolle en el domicilio fiscal de los contribuyentes o la revisión de la contabilidad de los mismos que se efectúe en las oficinas de las propias autoridades, dentro de un plazo máximo de seis meses, contados a partir de que se le notifique a los contribuyentes el inicio de las facultades de comprobación.
 
-El plazo a que se refiere el párrafo anterior, podrá ampliarse por una sola ocasión por un plazo máximo de seis meses, siempre que el oficio mediante el cual se notifique la prórroga correspondiente haya sido expedido por la autoridad fiscal que ordenó la revisión o por el superior jerárquico de la autoridad fiscal que ordenó la citada revisión, salvo cuando el contribuyente durante el desarrollo de la revisión, cambie de domicilio fiscal, supuesto en el que serán las autoridades fiscales que corresponden al nuevo domicilio las que expedirán, en su caso, el oficio de prórroga correspondiente.
+El plazo a que se refiere el párrafo anterior, podrá ampliarse por una sola ocasión por un plazo máximo de seis meses, siempre que el oficio mediante el cual se notifique la prórroga correspondiente haya sido expedido por la autoridad fiscal que ordenó la revisión o por el superior jerárquico de dicha (sic) la autoridad fiscal.
 
 Los plazos para concluir las visitas domiciliarias o las revisiones a que se refiere el artículo 99, fracción III, y los plazos de las prórrogas que procedan conforme a este artículo, se suspenderán en los casos de:
 
 I. Huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga;
 
-II. Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión, y
+II. Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión;
 
-III. Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice.
+III. Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice;
 
-Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades fiscales, o la prórroga que proceda de conformidad con este artículo, los contribuyentes interponen algún medio de defensa en el país contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dicho plazo se suspenderá desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
+IV. Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses, y
+
+V. Cuando la autoridad se vea impedida para continuar el ejercicio de sus facultades de comprobación por caso fortuito o fuerza mayor, hasta que la causa desaparezca, lo cual se deberá publicar en el Periódico Oficial del Estado.
+
+Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades fiscales, o la prórroga que proceda de conformidad con este artículo, los contribuyentes interponen algún medio de defensa en el Estado contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dicho plazo se suspenderá desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
 
 Cuando las autoridades fiscales no levanten el acta final de visita o no notifiquen el oficio de observaciones, o en su caso, el de conclusión de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones que de ella se derivaron durante dicha visita o revisión.
 
@@ -1719,15 +1777,13 @@ I. Se opongan u obstaculicen la iniciación o desarrollo de las facultades de co
 
 II. No presenten los libros y registros de contabilidad, la documentación comprobatoria de más del 3% de alguno de los conceptos de las declaraciones o no proporcionen los informes relativos al cumplimiento de las disposiciones fiscales;
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 III. Se dé alguna de las siguientes irregularidades:
 
-a) Omisión del registro de operaciones, ingresos o compras, así como alteración del costo, por más del 3% sobre los declarados en ejercicio;
+a) Omisión del registro de operaciones, ingresos por más del 3% sobre los declarados en ejercicio, y
 
-b) Registro de compras, gastos o servicios no realizados o no recibidos;
-
-c) Omisión o alteración en el registro de existencias que deban figurar en los inventarios, o registren dichas existencias a precios distintos de los de costo, siempre que en ambos casos, el importe exceda del 3% del costo de los inventarios, y
-
-d) Omisión de las obligaciones sobre valuación de inventarios o control de los mismos que establezcan las disposiciones fiscales;
+b) Omisión o alteración en el registro de existencias que deban figurar en los inventarios, o registren dichas existencias a precios distintos de los de costo, siempre que en ambos casos, el importe exceda del 3% del costo de los inventarios.
 
 IV. Por otras irregularidades en la contabilidad que imposibiliten el conocimiento de sus operaciones;
 
@@ -1739,9 +1795,11 @@ VII. Cuando tratándose de responsables solidarios en términos de las fraccione
 
 La determinación presuntiva a que se refiere este artículo procederá independientemente a las sanciones a que haya lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 121.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán los ingresos brutos de los contribuyentes y el valor de los actos o actividades sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales calcularán los ingresos brutos de los contribuyentes sobre los que proceda el pago de contribuciones, para el ejercicio de que se trate, indistintamente con cualquiera de los siguientes procedimientos:
 
 I. Utilizando los datos de la contabilidad del contribuyente o tomando en cuenta los que en su caso debieran formar parte de ella;
 
@@ -1779,9 +1837,11 @@ Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona
 
 La determinación presuntiva realizada en los términos de este artículo, no admite prueba en contrario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 124.
 
-Para la comprobación de los ingresos o del valor de los actos o actividades por los que se deban pagar contribuciones, las autoridades fiscales presumirán, salvo prueba en contrario:
+Para la comprobación de los ingresos por los que se deban pagar contribuciones, las autoridades fiscales presumirán, salvo prueba en contrario:
 
 I. Que la información contenida en la contabilidad, documentación comprobatoria y correspondencia que se encuentra en poder del contribuyente, corresponde a operaciones celebradas por él, aun cuando aparezcan sin su nombre o a nombre de otra persona, siempre que se logre demostrar que al menos una de las operaciones o actividades contenidas en tales elementos, fue realizada por el contribuyente;
 
@@ -1809,21 +1869,21 @@ La presunción establecida en este artículo no se aplicará cuando el contribuy
 
 Igual procedimiento se seguirá para determinar el valor por enajenación de bienes faltantes en inventarios. En este caso, si no pudiera determinarse el monto de la adquisición se considerará el que corresponda a bienes de la misma especie adquiridos por el contribuyente en el ejercicio de que se trate y, en su defecto, el de mercado o el de avalúo.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 126.
 
-Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el artículo 120 y cuando después de haberse realizado el procedimiento establecido en el artículo 123 de este Código, no hubiesen subsanado las irregularidades que son causa de determinación presunta y no puedan comprobar sus ingresos por el período objeto de revisión, así como el valor de los actos o actividades por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
+Siempre que los contribuyentes se coloquen en alguna de las causales de determinación presuntiva a que se refiere el artículo 120 y cuando después de haberse realizado el procedimiento establecido en el artículo 123 de este Código, no hubiesen subsanado las irregularidades que son causa de determinación presunta y no puedan comprobar sus ingresos por el período objeto de revisión, por los que deban pagar contribuciones, se presumirá que son iguales al resultado de alguna de las siguientes operaciones:
 
-I. Si con base en la contabilidad y documentación del contribuyente o información de terceros, se pudiera reconstruir las operaciones correspondientes, cuando menos a treinta días lo más cercano posible al cierre del ejercicio, el ingreso o valor de los actos o actividades se determinará con base en el promedio diario del período reconstruido, el que se multiplicará por el número de días que correspondan al período sujeto a revisión.
+I. Si con base en la contabilidad y documentación del contribuyente o información de terceros, se pudiera reconstruir las operaciones correspondientes, cuando menos a treinta días lo más cercano posible al cierre del ejercicio, el ingreso se determinará con base en el promedio diario del período reconstruido, el que se multiplicará por el número de días que correspondan al período sujeto a revisión. Cuando se trate de la revisión de dos o más ejercicios, la reconstrucción de operaciones a que se refiere esta fracción, estará referida al último de ellos, y servirá como base para la determinación de todos aquéllos que se encuentren sujetos al ejercicio de las facultades de comprobación, y
 
-Cuando se trate de la revisión de dos o más ejercicios, la reconstrucción de operaciones a que se refiere esta fracción, estará referida al último de ellos, y servirá como base para la determinación de todos aquéllos que se encuentren sujetos al ejercicio de las facultades de comprobación, y
-
-II. Si la contabilidad del contribuyente no permite reconstruir las operaciones del período de treinta días a que se refiere la fracción anterior, las autoridades fiscales tomarán como base la totalidad de sus ingresos o valor de los actos o actividades que observen durante siete días, incluyendo los inhábiles, cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
+II. Si la contabilidad del contribuyente no permite reconstruir las operaciones del período de treinta días a que se refiere la fracción anterior, las autoridades fiscales tomarán como base la totalidad de sus ingresos que observen durante siete días, incluyendo los inhábiles, cuando menos, y el promedio diario resultante se multiplicará por el número de días que comprende el período objeto de revisión.
 
 Cuando se trate de la revisión de dos o más ejercicios, la observación de operaciones a que se refiere esta fracción, servirá como base para la determinación de todos aquéllos que se encuentren sujetos al ejercicio de las facultades de comprobación.
 
 En el supuesto de esta fracción, la observación de operaciones cuando sea mayor de siete días, deberá serlo por un número que sea múltiplo de siete, y deberá emitirse mandamiento fundado y motivado en el que se señalen los visitadores que llevarán a cabo dicha observación de operaciones, y el período por el cual se realizará.
 
-Al ingreso o valor de los actos o actividades estimados presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa que corresponda.
+Al ingreso estimado presuntivamente por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa que corresponda.
 
 ###### Artículo 127.
 
@@ -1895,47 +1955,17 @@ Las copias o reproducciones de microfilm de documentos que tengan en su poder la
 
 ###### Artículo 132.
 
-Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán como sigue para determinar contribuciones omitidas:
-
-I. Determinarán, en primer lugar, la omisión en el pago de contribuciones del último ejercicio de doce meses por el que se hubiera presentado o debió presentarse declaración, antes de ejercer las facultades de comprobación, así como las omisiones que pudieran corresponder al período transcurrido entre la fecha de terminación de dicho ejercicio y el momento de iniciación de aplicación de las citadas facultades;
-
-II. Al comprobarse que durante el período a que se refiere la fracción anterior se omitió la presentación de la declaración del ejercicio de alguna contribución, o que el contribuyente incurrió en alguna irregularidad, se podrán determinar, en el mismo acto o con posterioridad, contribuciones omitidas correspondientes a ejercicios anteriores, sin más limitación que lo dispuesto en el artículo 135 de este Código, inclusive las que no se pudieron determinar con anterioridad, con la aplicación de este artículo.
-
-Las irregularidades a que se refiere esta fracción son las siguientes:
-
-a) Omisión en el pago de contribuciones por más del 3% sobre el total de las declaradas por adeudo propio;
-
-b) Omisión por más de 3% sobre el total de las contribuciones retenidas o que debieron retenerse, y
-
-c) Cuando se dé alguno de los supuestos a que se refiere el artículo 120 de este Código.
-
-Siempre se podrá volver a determinar contribuciones omitidas correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes.
-
-Si se incurre en alguna de las irregularidades señaladas en esta fracción, se podrán incluso determinar contribuciones omitidas distintas a aquéllas en que se cometió la irregularidad, aun cuando correspondan a ejercicios anteriores.
-
-Cuando las autoridades fiscales que ejerzan sus facultades de comprobación sean competentes para revisar a los contribuyentes exclusivamente respecto de determinadas contribuciones, se considerarán cometidas las irregularidades a que se refieren los incisos a), b) y c), de esta fracción, aun cuando los porcentajes señalados en dichas fracciones se refieran solamente a las contribuciones en relación a las cuales tenga competencia la autoridad fiscal de que se trate;
-
-III. Aun cuando se presenten declaraciones complementarias después de que se inicie el ejercicio de las facultades de comprobación por las autoridades fiscales, o las formas de corrección de la situación fiscal a que se refiere el artículo 123 de este Código, se podrán determinar contribuciones omitidas por los ejercicios anteriores;
-
-IV. Las declaraciones complementarias o las formas de corrección de la situación fiscal a que se refiere el artículo 123 del presente Código, correspondientes a períodos anteriores a los señalados en la fracción I de este artículo, podrán ser motivo de determinación de contribuciones en cualquier tiempo, por lo que hace a los conceptos que hubieren modificado;
-
-V. Las contribuciones retenidas o que debieron retenerse podrán ser determinadas, en cualquier tiempo, aun cuando en el último ejercicio sujeto a fiscalización no se determinen contribuciones o no se encuentren irregularidades a que se hace referencia en la fracción II de este artículo;
-
-VI. Si en el período a que se refiere la fracción I de este artículo, el contribuyente hubiere incurrido en las irregularidades a que se hace referencia en la fracción II de este mismo numeral, se podrán hacer las modificaciones a que haya lugar por los ejercicios anteriores, aun cuando las mismas no den lugar al pago de contribuciones, y
-
-VII. No obstante lo dispuesto en la fracción I de este artículo, las autoridades fiscales siempre podrán determinar contribuciones por un período menor del que se señala en dicha fracción.
-
-No se impondrán multas ni se formularán querellas por omisión en el pago de contribuciones, cuando éstas no puedan determinarse.
-
-Lo establecido en este artículo no limita el ejercicio de las facultades de comprobación de las autoridades fiscales.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2016)
 
 ###### Artículo 133.
 
 Las contribuciones omitidas que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro del término de quince días siguientes a la fecha en que surta efecto su notificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 134.
 
-Las autoridades fiscales a petición de los contribuyentes y en casos de que tengan notoria condición económica desfavorable, demostrada a juicio de las propias autoridades, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de treinta y seis meses. Durante el plazo concedido se causarán recargos sobre el saldo insoluto en los términos del artículo 47 de este Código.
+Las autoridades fiscales a petición de los contribuyentes y en casos de que tengan notoria condición económica desfavorable, demostrada a juicio de las propias autoridades, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios, sin que dicho plazo exceda de treinta y seis meses para pago en parcialidades y doce meses para pago diferido. Durante el plazo concedido se causarán recargos sobre el saldo insoluto en los términos del artículo 47 de este Código.
 
 Las autoridades fiscales al autorizar el pago a plazos podrán exigir se garantice el interés fiscal si la situación económica del contribuyente lo permite.
 
@@ -1975,13 +2005,15 @@ En los casos en los que posteriormente el contribuyente en forma espontánea pre
 
 En los casos de responsabilidad solidaria a que se refiere el artículo 60, fracciones III, V y XIII, de este Código, el plazo será de cinco años a partir de que la garantía del interés fiscal resulte insuficiente.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 El plazo para que se extingan las facultades de las autoridades fiscales para comprobar el cumplimiento de las disposiciones fiscales establecido en este artículo, se suspenderá cuando:
 
-a) Se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones III y IV del artículo 99 de este Código, desde su inicio hasta su consecución y en su caso, hasta que quede firme la resolución que hubiere recaído al medio de impugnación que se hubiere hecho valer;
+a) Se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones III y IV del artículo 99 de este Código, desde su inicio hasta su conclusión y en su caso, hasta que quede firme la resolución que hubiere recaído al medio de impugnación que se hubiere hecho valer;
 
 b) Se interponga algún recurso administrativo o juicio, desde su presentación hasta que quede firme la resolución que hubiere recaído;
 
-c) Las autoridades no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal, desde que se actualice tal evento, y hasta que se localice al contribuyente;
+c) Las autoridades no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente, desaparezca o hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal, desde que se actualice tal evento, y hasta que se localice al contribuyente;
 
 d) En los casos de huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga, y
 
@@ -1995,13 +2027,17 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales. Sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el afectado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 137.
 
-La autoridad que por el ejercicio de sus funciones intervenga en los diversos trámites relacionados con la aplicación de las disposiciones tributarias estará obligada a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 131 de este Código; así como para aquellas autoridades que en el ejercicio de sus funciones requieran de la información.
+La autoridad que por el ejercicio de sus funciones intervenga en los diversos trámites relacionados con la aplicación de las disposiciones tributarias estará obligada a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales estatales, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias, o en el supuesto previsto en el artículo 131 de este Código.
 
 ## TÍTULO QUINTO. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
 ### CAPÍTULO I. DE LAS NOTIFICACIONES
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 138.
 
@@ -2019,11 +2055,9 @@ Las notificaciones en el Buzón Tributario, serán emitidas anexando el sello di
 
 II. Por correo ordinario, por telegrama, cuando se trate de actos distintos de los señalados en la fracción anterior;
 
-III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Padrón de Contribuyentes del Estado; se ignore su domicilio o el de su representante legal o desaparezca después de iniciadas las facultades de comprobación;
+III. Por estrados, cuando la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Padrón de Contribuyentes del Estado; se ignore su domicilio o el de su representante legal o desaparezca después de iniciadas las facultades de comprobación; cuando habiéndose acudido al domicilio de la persona que debe ser notificada se oponga a que se realice la diligencia, o se obstaculice ésta, y en los demás casos que se señalen en las leyes fiscales y en este Código, y
 
-IV. Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en territorio nacional, y
-
-V. Por instructivo, cuando habiéndose acudido al domicilio de la persona que debe ser notificada se oponga a que se realice la diligencia, o se obstaculice ésta, y en los demás casos que se señalen en las leyes fiscales y en este Código.
+IV. Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión, hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en territorio nacional.
 
 ###### Artículo 139.
 
@@ -2047,13 +2081,17 @@ Toda notificación personal realizada con quien deba entenderse será legalmente
 
 En los casos de sociedades en liquidación, cuando se hubieran nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 144.
 
 Cuando la notificación deba efectuarse personalmente en el domicilio de la persona buscada y el notificador no encuentre a quien deba notificar, le dejará citatorio en el domicilio, para que espere a una hora fija del día hábil siguiente.
 
 Al hacerse la notificación, se entregará al notificado o a la persona con quien se entienda la diligencia el documento a que se refiere la notificación.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales se causarán, a cargo de quien incurrió en el incumplimiento, los honorarios que se establezcan en el Reglamento de este Código.
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales se causarán, a cargo de quien incurrió en el incumplimiento, honorarios por la cantidad equivalente a 2.00 UMA. Dicha cantidad se hará del conocimiento del contribuyente conjuntamente con la notificación y se deberá pagar al cumplir con la obligación requerida.
+
+En caso de no cumplir con el requerimiento a que se refiere el párrafo anterior, se aplicará la multa que corresponda.
 
 ###### Artículo 145.
 
@@ -2097,21 +2135,21 @@ La garantía deberá comprender, además de las contribuciones y su actualizaci�
 
 La Secretaría vigilará que las garantías sean suficientes, tanto en el momento de su aceptación como con posterioridad, y si no lo fueren exigirá su ampliación o procederá al secuestro de otros bienes, previo requerimiento al particular para que mejore la garantía otorgada.
 
-La garantía deberá constituirse dentro de los treinta días siguientes a que surta efectos la notificación de la resolución sobre la cual se deba garantizar el interés fiscal, efectuada por la autoridad fiscal correspondiente, salvo en los casos en que se indique un plazo diferente en este Código.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+La garantía deberá constituirse dentro de los quince días siguientes a que surta efectos la notificación de la resolución sobre la cual se deba garantizar el interés fiscal, efectuada por la autoridad fiscal correspondiente, salvo en los casos en que se indique un plazo diferente en este Código.
 
 En ningún caso las autoridades fiscales podrán dispensar el otorgamiento de la garantía, con excepción de los casos en que participen autoridades federales y municipales, previa autorización de la persona titular de la Secretaría.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 149.
 
 Procede garantizar el interés fiscal cuando:
 
-I. Se solicite la suspensión del procedimiento administrativo de ejecución inclusive si dicha suspensión se solicita en el juicio que proceda en los términos de las leyes fiscales aplicables o se interponga recurso administrativo contra éste;
+I. Se solicite la suspensión del procedimiento administrativo de ejecución en el juicio o se interponga recurso administrativo que proceda en los términos de las leyes fiscales aplicables o se interponga recurso administrativo contra éste, y
 
-II. Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades;
-
-III. Se solicite la aplicación del producto en los términos del artículo 203 de este Código, y
-
-IV. En los demás casos que señale este ordenamiento y las leyes fiscales.
+II. Se solicite prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades o pago diferido.
 
 No se otorgará garantía respecto de gastos de ejecución, salvo que el interés fiscal esté constituido únicamente por éstos.
 
@@ -2363,23 +2401,33 @@ V. Entregar al depositario designado los bienes sobre los que se haya trabado el
 
 VI. El depositario de los bienes embargados deberá manifestar en el acta respectiva la aceptación del cargo y designar el domicilio en que realizará la guarda y custodia de los mismos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 168.
 
-Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las personas morales estarán obligadas a pagar los gastos de ejecución.
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las personas morales estarán obligadas a pagar el 1 % del valor del crédito fiscal, por cada una de las diligencias que a continuación se indican:
 
-Por concepto de gastos de ejecución se cubrirá el 3% del valor del crédito fiscal, sin que sea menor de $ 350.00 (trescientos cincuenta pesos 00/100 M.N.) ni mayor a $ 25,000.00 (veinticinco mil pesos 00/100 M.N.).
+I. Por el requerimiento de pago, incluyendo los señalados en el artículo 112 y en el primer párrafo del artículo 170 de este Código;
 
-Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales.
+II. Por el embargo, incluyendo el señalado en el artículo 148, fracción VI, de este Código, así como por la ampliación del embargo y la remoción de depositario, y
+
+III. Por el remate, enajenación fuera de remate o adjudicación al fisco federal.
+
+Cuando el 1% del crédito fiscal sea inferior a la cantidad equivalente a 5.00 UMA, se cobrará esta cantidad en vez del 1% del crédito.
+
+Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con el crédito fiscal.
 
 Asimismo, se pagará por concepto de gastos de ejecución, los extraordinarios en que incurra con motivo del procedimiento administrativo de ejecución, los cuales comprenderán los servicios de traslado de bienes embargados, de avalúos, de impresión y publicación de convocatorias o edictos, de investigaciones, de inscripciones o cancelaciones en el Registro Público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios e interventores, de los peritos y cerrajeros.
 
 Las autoridades fiscales destinarán los ingresos recaudados por concepto de gastos de ejecución y por notificaciones al establecimiento de un fondo de productividad fiscal y modernización de la Hacienda Pública, salvo que por ley estén destinados a otros fines.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 169.
 
-En los casos de requerimiento por el incumplimiento de presentación de avisos o declaraciones, se cobrará a quién incurra en el incumplimiento, la cantidad de $ 133.00 (ciento treinta y tres pesos 00/100 M.N.). Dicha cantidad se hará del conocimiento del contribuyente conjuntamente con la notificación y se deberá pagar al cumplir con la obligación requerida.
+Cuando el requerimiento y el embargo a que se refiere el artículo 170, fracciones I y II, de este Código, se lleven a cabo en una misma diligencia se efectuará únicamente un cobro por concepto de gastos de ejecución.
 
-En caso de no cumplir con el requerimiento a que se refiere este artículo, se aplicará la multa que corresponda.
+Para la determinación del monto de los gastos de ejecución a que se refiere el artículo 170 de este Código, las Autoridades Fiscales considerarán que se lleva a cabo una sola diligencia, cuando en un mismo acto se requiera el pago de diferentes contribuciones, aun cuando correspondan a ejercicios distintos.
 
 #### SECCIÓN SEGUNDA. DEL REQUERIMIENTO Y DEL EMBARGO
 
@@ -2393,7 +2441,9 @@ II. A embargar negociaciones con todo lo que de hecho y por derecho les correspo
 
 El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género se inscribirá en el registro público que corresponda en atención a la naturaleza de los bienes o derechos de que se trate.
 
-Si la exigibilidad se origina por cese de la prórroga, o de la autorización para pagar en parcialidades, por error aritmético en las declaraciones o por situaciones previstas en la fracción I del artículo 102 de este Código, el deudor podrá efectuar el pago dentro de los seis días siguientes a la fecha en que surta sus efectos la notificación del requerimiento.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Si la exigibilidad se origina por cese de la prórroga, o de la autorización para pagar en parcialidades o pago diferido, por error aritmético en las declaraciones o por situaciones previstas en la fracción I del artículo 102 de este Código, el deudor podrá efectuar el pago dentro de los quince días siguientes a la fecha en que surta sus efectos la notificación del requerimiento
 
 ###### Artículo 171.
 
@@ -3061,129 +3111,139 @@ XI. Las autoridades fiscales dejarán de imponer sanciones cuando se haya incurr
 
 XII. Cuando la multa se pague dentro de los quince días siguientes a la fecha en que surta efectos la notificación al infractor de la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad que la autoridad que la impuso dicte nueva resolución.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 237.
 
 Son infracciones a cargo de los sujetos pasivos o presuntos sujetos pasivos de una contribución fiscal y se sancionarán conforme a lo siguiente:
 
-I. No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse o hacerlo fuera de los plazos señalados, así como no incluir en las manifestaciones para su inscripción en el registro de contribuyentes que corresponda, las actividades por las que sea contribuyente habitual; no citar su número de registro o cuenta según el caso en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridad; se impondrá multa de $ 2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $ 6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.);
+I. No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse o hacerlo fuera de los plazos señalados, así como no incluir en las manifestaciones para su inscripción en el registro de contribuyentes que corresponda, las actividades por las que sea contribuyente habitual; no citar su número de registro o cuenta según el caso en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridad; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
-II. Obtener o usar más de un número del registro que corresponda, para el cumplimiento de las obligaciones a su cargo, en relación con las contribuciones estatales; se impondrá multa de $ 2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $ 6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.);
+II. Obtener o usar más de un número del registro que corresponda, para el cumplimiento de las obligaciones a su cargo, en relación con las contribuciones estatales; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
-III. Señalar como domicilio fiscal para efectos del Padrón de Contribuyentes del Estado, un lugar distinto del que corresponda conforme al artículo 18 de este Código; se impondrá multa de $ 2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $ 6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.);
+III. Señalar como domicilio fiscal para efectos del Padrón de Contribuyentes del Estado, un lugar distinto del que corresponda conforme al artículo 18 de este Código; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
-IV. No presentar o no proporcionar o hacerlo extemporáneamente, los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos que exijan las leyes fiscales o bien presentarlos incompletos o con errores; se impondrá multa de $ 682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $ 2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.);
+IV. No presentar o no proporcionar, fuera de los plazos legales o fuera de los plazos señalados en los requerimientos, los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos que exijan las leyes fiscales o bien presentarlos incompletos o con errores; se impondrá multa por la cantidad equivalente de 9.50 a 28.50 UMA;
 
-V. No presentar o no proporcionar o hacerlo extemporáneamente las facturas, recibos, notas de venta y otros comprobantes de las compras efectuadas; se impondrá multa de $ 682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $ 2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.);
+V. No presentar o no proporcionar o hacerlo extemporáneamente las facturas, recibos, notas de venta y otros comprobantes de las compras efectuadas; se impondrá multa por la cantidad equivalente de 9.50 a 28.50 UMA
 
-VI. No solicitar oportunamente los permisos, placas, cédulas de registro, boletas de registro o cualquier otro documento exigido por las disposiciones fiscales o hacerlo fuera de los plazos legales; no tenerlos en los lugares que señalen dichas disposiciones; no devolverlos oportunamente dentro del plazo establecido, o no citar su número de registro o de cuenta, en declaraciones, manifestaciones, avisos o cualquiera otras gestiones o solicitudes que hagan ante las autoridades fiscales; se impondrá multa de $ 682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $ 2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.);
+VI. No solicitar oportunamente los permisos, placas, cédulas de registro, boletas de registro o cualquier otro documento exigido por las disposiciones fiscales o hacerlo fuera de los plazos legales; no tenerlos en los lugares que señalen dichas disposiciones; no devolverlos oportunamente dentro del plazo establecido, o no citar su número de registro o de cuenta, en declaraciones, manifestaciones, avisos o cualquiera otras gestiones o solicitudes que hagan ante las autoridades fiscales; se impondrá multa por la cantidad equivalente de 9.50 a 28.50 UMA;
 
-VII. No comparecer ante las autoridades fiscales o hacerlo fuera del plazo a presentar, comprobar o aclarar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros, constancias o documentos que exijan las disposiciones fiscales, se impondrán las siguientes multas:
+VII. No comparecer ante las autoridades fiscales o hacerlo fuera del plazo de Ley o fuera de los plazos señalados en los requerimientos a presentar, comprobar o aclarar los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros, constancias o documentos que exijan las disposiciones fiscales, se impondrán las siguientes multas:
 
-a) Por el primer requerimiento, hasta $ 682.80 (seiscientos ochenta y dos pesos 80/100 M.N.).
+a) Por el primer requerimiento, hasta por la cantidad equivalente a 9.50 UMA.
 
-b) Por el segundo requerimiento, hasta $ 1,365.60 (un mil trescientos sesenta y cinco pesos 60/100 M.N.).
+b) Por el segundo requerimiento, hasta por la cantidad equivalente a 19.00 UMA, y
 
-c) Por el tercer requerimiento, hasta $ 2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.).
+c) Por el tercer requerimiento, hasta por la cantidad equivalente a 28.50 UMA.
 
-Los requerimientos a que se refiere esta fracción, deberán cumplirse dentro de los seis días siguientes de su notificación y en ningún caso excederán de tres requerimientos para una misma omisión;
+Los requerimientos a que se refiere esta fracción, deberán cumplirse dentro de los quince días siguientes de su notificación y en ningún caso excederán de tres requerimientos para una misma omisión;
 
-VIII. Presentar alterados los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción IV de este artículo; se impondrá multa de $ 682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $ 4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+VIII. Presentar alterados los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos a que se refiere la fracción IV de este artículo; se impondrá multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-IX. Destruir o inutilizar los libros o archivos antes de los plazos que por Ley deben conservarse; se impondrá multa de $ 682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+IX. Destruir o inutilizar los libros o archivos antes de los plazos que por Ley deben conservarse; se impondrá multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-X. No realizar los inventarios y balances que se les soliciten o practicarlos fuera de los plazos que las leyes dispongan; se impondrá multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+X. No realizar los inventarios y balances que se les soliciten o practicarlos fuera de los plazos que las leyes dispongan; se impondrá multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-XI. No registrar los contratos que señalen las leyes fiscales; se impondrá multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+XI. No registrar los contratos que señalen las leyes fiscales; se impondrá multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-XII. No suministrar los datos e informes que legalmente exijan las autoridades fiscales; no mostrar los libros, documentos, registros o impedir a las mismas autoridades la entrada a los almacenes, depósitos, bodegas o cualquier otra dependencia de la negociación o empresa, o en general negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal, para comprobar la situación de la empresa o negociación visitada, así como no conservar la contabilidad o parte de ella y la correspondencia a disposición de las autoridades fiscales en el plazo que establecen las leyes fiscales; se impondrá multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+XII. No suministrar los datos e informes que legalmente exijan las autoridades fiscales; no mostrar los libros, documentos, registros o impedir a las mismas autoridades la entrada a los almacenes, depósitos, bodegas o cualquier otra dependencia de la negociación o empresa, o en general negarse a proporcionar los elementos necesarios para el esclarecimiento de los hechos, o resistirse por cualquier otro medio a la investigación fiscal, para comprobar la situación de la empresa o negociación visitada, así como no conservar la contabilidad o parte de ella y la correspondencia a disposición de las autoridades fiscales en el plazo que establecen las leyes fiscales; se impondrá multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-XIII. Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos o informes que legalmente puedan exigir los agentes fiscales; no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia, y, en general, negarse a proporcionar los elementos que se requieren para comprobar la situación fiscal del visitado, en relación con el objeto de la visita; se impondrá multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.);
+XIII. Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir las autoridades fiscales; no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia, y, en general, negarse a proporcionar los elementos que se requieren para comprobar la situación fiscal del visitado, en relación con el objeto de la visita; se impondrá multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
-XIV. Faltar a la obligación de expedir facturas, notas de venta o comprobantes de las operaciones que realice o documento que señalen las leyes fiscales; no exigirlos cuando se tenga la obligación de hacerlo, no consignar por escrito los datos que de acuerdo con las leyes fiscales deban consignarse en esa forma; se impondrá multa de $ 682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $ 2,728.00 (dos mil setecientos veintiocho pesos 00/100 M.N.).
+XIV. Faltar a la obligación de expedir facturas, notas de venta o comprobantes de las operaciones que realice o documento que señalen las leyes fiscales; no exigirlos cuando se tenga la obligación de hacerlo, no consignar por escrito los datos que de acuerdo con las leyes fiscales deban consignarse en esa forma; se impondrá multa por la cantidad equivalente de 9.50 a 37.50 UMA.
 
 En caso de reincidencia la autoridad fiscal podrá clausurar la negociación de tres a diez días;
 
-XV. Declarar ingresos menores a los percibidos, hacer deducciones falsas, ocultar u omitir bienes o existencias que deban figurar en los inventarios, o listarlos a precios distintos a los reales, no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que éstas dispongan; se impondrá multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $8,525.00 (ocho mil quinientos veinticinco pesos 00/100 M.N.);
+XV. Declarar ingresos menores a los percibidos, hacer deducciones falsas, ocultar u omitir bienes o existencias que deban figurar en los inventarios, o listarlos a precios distintos a los reales, no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que éstas dispongan; se impondrá multa por la cantidad equivalente de 28.50 a 117 UMA;
 
-XVI. No llevar los libros, sistemas o registros de contabilidad a que está obligado de acuerdo a sus actividades; no informar de todas las actividades por las que sea contribuyente habitual, cuando esté obligado a ello; se impondrá multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $8,525.00 (ocho mil quinientos veinticinco pesos 00/100 M.N.);
+XVI. No llevar los libros, sistemas o registros de contabilidad a que está obligado de acuerdo a sus actividades; no informar de todas las actividades por las que sea contribuyente habitual, cuando esté obligado a ello; se impondrá multa por la cantidad equivalente de 28.50 a 117 UMA;
 
-XVII. No efectuar los asientos correspondientes en los libros o documentos de contabilidad, hacerlos incompletos o inexactos o fuera de los plazos legales; se impondrá multa de $ 2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $ 8,525.00 (ocho mil quinientos veinticinco pesos 00/100 M.N.);
+XVII. No efectuar los asientos correspondientes en los libros o documentos de contabilidad, hacerlos incompletos o inexactos o fuera de los plazos legales; se impondrá multa por la cantidad equivalente de 28.50 a 117 UMA;
 
-XVIII. Destruir o remover sin estar facultados los sellos oficiales; se impondrá multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $8,525.00 (ocho mil quinientos veinticinco pesos 00/100 M.N.);
+XVIII. Destruir o remover sin estar facultados los sellos oficiales; se impondrá multa por la cantidad equivalente de 28.50 a 117 UMA;
 
-XIX. Llevar doble juego de libros con asientos diferentes; se impondrá multa de $2,728.00 (dos mil setecientos veintiocho pesos 00/100 M.N.) a $10,230.00 (diez mil doscientos treinta pesos 00/100 M.N.);
+XIX. Llevar doble juego de libros con asientos diferentes; se impondrá multa por la cantidad equivalente de 37.50 a 140.50 UMA;
 
-XX. Realizar o consentir alteraciones, enmendaduras, tachaduras o falsificaciones en perjuicio del Fisco, de cualquier anotación, asiento o constancia en los libros o documentos de su contabilidad; se impondrá multa de $2,728.00 (dos mil setecientos veintiocho pesos 00/100 M.N.) a $10,230.00 (diez mil doscientos treinta pesos 00/100 M.N.);
+XX. Realizar o consentir alteraciones, enmendaduras, tachaduras o falsificaciones en perjuicio del Fisco, de cualquier anotación, asiento o constancia en los libros o documentos de su contabilidad; se impondrá multa por la cantidad equivalente de 37.50 a 140.50 UMA;
 
-XXI. Presentar falsificados los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos a que se refiere la fracción IV del presente artículo; se impondrá multa de $2,728.00 (dos mil setecientos veintiocho pesos 00/100 M.N.) a $10,230.00 (diez mil doscientos treinta pesos 00/100 M.N.);
+XXI. Presentar falsificados los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, libros o documentos a que se refiere la fracción IV del presente artículo; se impondrá multa por la cantidad equivalente de 37.50 a 140.50 UMA;
 
-XXII. Traficar con los documentos o comprobantes de pago de contribuciones fiscales o hacer uso ilegal de ellas; se impondrá multa de $2,728.00 (dos mil setecientos veintiocho pesos 00/100 M.N.) a $10,230.00 (diez mil doscientos treinta pesos 00/100 M.N.);
+XXII. Traficar con los documentos o comprobantes de pago de contribuciones fiscales o hacer uso ilegal de ellas; se impondrá multa por la cantidad equivalente de 37.50 a 140.50 UMA;
 
-XXIII. Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir los agentes fiscales, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o la de los contribuyentes con quienes haya efectuado operaciones en relación con el objeto de la visita; se impondrá multa de $8,193.60 (ocho mil ciento noventa y tres pesos 60/100 M.N.) a $16,387.20 (dieciséis mil trescientos ochenta y siete pesos 20/100 M.N.), y
+XXIII. Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir las autoridades fiscales, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o la de los contribuyentes con quienes haya efectuado operaciones en relación con el objeto de la visita; se impondrá multa por la cantidad equivalente de 112.50 a 224.50 UMA, y
 
-XXIV. No conservar los libros, documentos y correspondencia que les sean dejados en calidad de depositarios, por los visitadores al estarse practicando visitas domiciliarias; se impondrá multa de $2,728.00 (dos mil setecientos veintiocho pesos 00/100 M.N.) a $ 13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.).
+XXIV. No conservar los libros, documentos y correspondencia que les sean dejados en calidad de depositarios, por los visitadores al estarse practicando visitas domiciliarias; se impondrá multa por la cantidad equivalente de 37.50 a 187.00 UMA.
 
 ###### Artículo 238.
 
 El importe de las multas por omisiones en el pago oportuno de contribuciones será hasta de 55% al 75% del importe del crédito no enterado.
 
-Para el caso en que el crédito omitido se pague dentro de los cuarenta y cinco días siguientes a aquel en que se hizo exigible la contribución de que se trate, se reducirá hasta en un 50% el monto de la multa.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Para el caso en que el crédito omitido se pague dentro de los quince días siguientes a aquel en que se hizo exigible la contribución de que se trate, se reducirá hasta en un 50% el monto de la multa.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 239.
 
 Son infracciones a cargo de terceros y se sancionarán conforme a lo siguiente:
 
-I. No inscribirse en el padrón o registro de contribuyentes que corresponda o consentir o tolerar que se inscriban a su nombre en dichos padrones o registros, negociaciones ajenas o percibir, a nombre propio, ingresos gravables que correspondan a otra persona, cuando esto último traiga como consecuencia la omisión en el pago de contribuciones; con multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.);
+I. No inscribirse en el padrón o registro de contribuyentes que corresponda o consentir o tolerar que se inscriban a su nombre en dichos padrones o registros, negociaciones ajenas o percibir, a nombre propio, ingresos gravables que correspondan a otra persona, cuando esto último traiga como consecuencia la omisión en el pago de contribuciones; con multa por la cantidad equivalente de 28.50 a 93.50 UMA;
 
 II. No proporcionar o no aclarar oportunamente los avisos, informes, datos o documentos, que les fueron requeridos por las autoridades fiscales:
 
-a) Por el primer requerimiento: con multa de hasta $ 682.80 (seiscientos ochenta y dos pesos 80/100 M.N.).
+a) Por el primer requerimiento: con multa por la cantidad equivalente de hasta 9.50 UMA;
 
-b) Por el segundo requerimiento: con multa de hasta $1,365.60 (un mil trescientos sesenta y cinco pesos 60/100 M.N.).
+b) Por el segundo requerimiento: con multa por la cantidad equivalente de hasta 19.00 UMA, y
 
-c) Por el tercer requerimiento: con multa de hasta $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.).
+c) Por el tercer requerimiento: con multa por la cantidad equivalente de hasta 28.50 UMA.
 
-Los requerimientos a que se refiere esta fracción, deberán cumplirse dentro de los seis días siguientes a la fecha de su notificación y en ningún caso excederán de tres requerimientos;
+Los requerimientos a que se refiere esta fracción, deberán cumplirse dentro de los quince días siguientes a la fecha de su notificación y en ningún caso excederán de tres requerimientos;
 
-III. Cuando no presente las declaraciones, informes o documentos necesarios para la determinación o pago del adeudo fiscal; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+III. Cuando no presente las declaraciones, informes o documentos necesarios para la determinación o pago del adeudo fiscal; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-IV. Presentar los avisos, informes, datos o documentos a que se refiere la fracción anterior, incompleta o inexacta; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+IV. Presentar los avisos, informes, datos o documentos a que se refiere la fracción anterior, incompleta o inexacta; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-V. No prestar ayuda a las autoridades fiscales para la determinación y cobro de prestaciones fiscales en los casos en que tengan obligación de hacerlo, conforme a las disposiciones de la materia; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+V. No prestar ayuda a las autoridades fiscales para la determinación y cobro de prestaciones fiscales en los casos en que tengan obligación de hacerlo, conforme a las disposiciones de la materia; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-VI. Presentar alterados los avisos, informes, datos o documentos a que se refiere la fracción II de este artículo; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+VI. Presentar alterados los avisos, informes, datos o documentos a que se refiere la fracción II de este artículo; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-VII. Autorizar o hacer constar en calidad de contadores, peritos o testigos, datos falsos en documentos, inventarios, balances o asientos; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+VII. Autorizar o hacer constar en calidad de contadores, peritos o testigos, datos falsos en documentos, inventarios, balances o asientos; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-VIII. Intervenir en cualquier forma en la alteración de documentos, inscripciones de cuentas, asientos o datos falsos en los libros o registros relativos a la contabilidad o en algún hecho preparatorio de los apuntados; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+VIII. Intervenir en cualquier forma en la alteración de documentos, inscripciones de cuentas, asientos o datos falsos en los libros o registros relativos a la contabilidad o en algún hecho preparatorio de los apuntados; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-IX. Presentar declaraciones, informes o documentos alterados, falsificados, incompletos o con errores que traigan consigo la evasión total o parcial de una prestación fiscal; con multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $8,525.00 (ocho mil quinientos veinticinco pesos 00/100 M.N.).
+IX. Presentar declaraciones, informes o documentos alterados, falsificados, incompletos o con errores que traigan consigo la evasión total o parcial de una prestación fiscal; con multa por la cantidad equivalente de 28.50 a 117 UMA;
 
-X. Asesorar o aconsejar al contribuyente para que eluda el pago de alguna prestación fiscal o para que infrinja las leyes fiscales, contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan; con multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $8,525.00 (ocho mil quinientos veinticinco pesos 00/100 M.N.);
+X. Auxiliar o inducir al contribuyente para que eluda el pago de alguna prestación fiscal o para que infrinja las leyes fiscales, contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan; con multa por la cantidad equivalente de 28.50 a 117.00 UMA;
 
-XI. No suministrar los datos e informes que exijan las autoridades fiscales, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores o, en general, los elementos necesarios para el esclarecimiento de los hechos o resistirse por cualquier otro medio a la investigación fiscal; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+XI. No suministrar los datos e informes que exijan las autoridades fiscales, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores o, en general, los elementos necesarios para el esclarecimiento de los hechos o resistirse por cualquier otro medio a la investigación fiscal; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-XII. Adquirir, ocultar, retener o enajenar productos, mercancías o artículos, a sabiendas de que no se cubrieron los impuestos causados; con multa de $ 2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $8,525.00 (ocho mil quinientos veinticinco pesos 00/100 M.N.);
+XII. Adquirir, ocultar, retener o enajenar productos, mercancías o artículos, a sabiendas de que no se cubrieron los impuestos causados; con multa por la cantidad equivalente de 28.50 a 117 UMA;
 
-XIII. Destruir o remover sin estar facultado los sellos oficiales; con multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $8,525.00 (ocho mil quinientos veinticinco pesos 00/100 M.N.);
+XIII. Destruir o remover sin estar facultado los sellos oficiales; con multa por la cantidad equivalente de 28.50 a 117. UMA;
 
-XIV. Presentar los avisos, informes, datos o documentos a que se refiere la fracción I de este artículo, falsificados; con multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $10,230.00 (diez mil doscientos treinta pesos 00/100 M.N.);
+XIV. Presentar los avisos, informes, datos o documentos a que se refiere la fracción I de este artículo, falsificados; con multa por la cantidad equivalente de 28.50 a 140.50 UMA;
 
-XV. Hacer pagos y aceptar documentos que los comprueben cuando derivándose de hechos que generen el gravamen, no se haya cumplido con el pago de la prestación fiscal o no se acredite su regular cumplimiento, de acuerdo con las disposiciones fiscales; con multa de $2,728.00 (dos mil setecientos veintiocho pesos 00/100 M.N.) a $8,193.60 (ocho mil ciento noventa y tres pesos 60/100 M.N.);
+XV. Hacer pagos y aceptar documentos que los comprueben cuando derivándose de hechos que generen el gravamen, no se haya cumplido con el pago de la prestación fiscal o no se acredite su regular cumplimiento, de acuerdo con las disposiciones fiscales; con multa por la cantidad equivalente de 37.50 a 112.50 UMA;
 
-XVI. No poner en conocimiento de las autoridades fiscales cuando se posean documentos de los mencionados en la fracción anterior de este artículo; con multa de $ 2,728.00 (dos mil setecientos veintiocho pesos 00/100 M.N.) a $ 8,193.60 (ocho mil ciento noventa y tres pesos 60/100 M.N.);
+XVI. No poner en conocimiento de las autoridades fiscales cuando se posean documentos de los mencionados en la fracción anterior de este artículo; con multa por la cantidad equivalente de 37.50 a 112.50 UMA;
 
-XVII. Traficar con los documentos y comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos; con multa de $ 2,728.00 (dos mil setecientos veintiocho pesos 00/100 M.N.) a $ 10,230.00 (diez mil doscientos treinta pesos 00/100 M.N.);
+XVII. Traficar con los documentos y comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos; con multa por la cantidad equivalente de 37.50 a 140.50 UMA;
 
-XVIII. Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir los agentes fiscales, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o la de los contribuyentes con quienes haya efectuado operaciones en relación con el objeto de la visita; con multa de $8,193.60 (ocho mil ciento noventa y tres pesos 60/100 M.N.) a $16,387.20 (dieciséis mil trescientos ochenta y siete pesos 20/100 M.N.), y
+XVIII. Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir los agentes fiscales, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o la de los contribuyentes con quienes haya efectuado operaciones en relación con el objeto de la visita; con multa por la cantidad equivalente de 112.50 a 224.50 UMA, y
 
-XIX. No conservar los libros, documentos y correspondencia que les sean dejados en calidad de depositarios por los visitadores, al estarse practicando visitas domiciliarias; con multa de $2,728.00 (dos mil setecientos veintiocho pesos 00/100 M.N.) a $ 13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.).
+XIX. No conservar los libros, documentos y correspondencia que les sean dejados en calidad de depositarios por los visitadores, al estarse practicando visitas domiciliarias; con multa por la cantidad equivalente de 37.50 a 187.00 UMA.
 
 ###### Artículo 240.
 
 A los terceros que no enteren dentro de los plazos señalados las cantidades retenidas, recaudadas o recibidas; se les sancionará con multa del 55% al 75% del importe del crédito no enterado.
 
-Para el caso en que el crédito omitido se pague dentro de los cuarenta y cinco días siguientes a aquel en que se hizo exigible la contribución de que se trate, se reducirá hasta en un 50% el monto de la multa.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
+Para el caso en que el crédito omitido se pague dentro de los quince días siguientes a aquel en que se hizo exigible la contribución de que se trate, se reducirá hasta en un 50% el monto de la multa.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 241.
 
@@ -3193,31 +3253,33 @@ Las infracciones y sus respectivas sanciones son:
 
 I. Recibir el pago de una contribución fiscal y no enterar, dentro de los plazos señalados, las cantidades retenidas, recaudadas o recibidas. Multa hasta de 1.5 veces el monto de la contribución retenida y no enterada;
 
-II. Autorizar documentos o contratos que no estén debidamente requisitados, de acuerdo con las leyes fiscales correspondientes y, en general, no cuidar el cumplimiento de las mismas; con multa de $1,366.00 (un mil trescientos sesenta y seis pesos 00/100 M.N.) a $6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.);
+II. Autorizar documentos o contratos que no estén debidamente requisitados, de acuerdo con las leyes fiscales correspondientes y, en general, no cuidar el cumplimiento de las mismas; con multa por la cantidad equivalente de 19.00 a 93.50 UMA;
 
-III. No hacer la manifestación de las escrituras, contratos o cualesquiera otros actos que se celebren u otorguen ante su fe o efectuarlas sin sujetarse a lo previsto por las disposiciones fiscales; con multa de $1,366.00 (un mil trescientos sesenta y seis pesos 00/100 M.N.) a $6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.);
+III. No hacer la manifestación de las escrituras, contratos o cualesquiera otros actos que se celebren u otorguen ante su fe o efectuarlas sin sujetarse a lo previsto por las disposiciones fiscales; con multa por la cantidad equivalente de 19.00 a 93.50 UMA;
 
-IV. Autorizar actos o contratos de enajenación, de traspaso de negociaciones, de disolución de sociedades u otros que sean fuente de ingresos gravados por el Fisco, sin cerciorarse previamente de que se está al corriente en el cumplimiento de las obligaciones fiscales relativas o sin dar los avisos que prevengan las leyes; con multa de $1,366.00 (un mil trescientos sesenta y seis pesos 00/100 M.N.) a $6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.);
+IV. Autorizar actos o contratos de enajenación, de traspaso de negociaciones, de disolución de sociedades u otros que sean fuente de ingresos gravados por el Fisco, sin cerciorarse previamente de que se está al corriente en el cumplimiento de las obligaciones fiscales relativas o sin dar los avisos que prevengan las leyes; con multa por la cantidad equivalente de 19.00 a 93.50 UMA;
 
-V. Inscribirse o registrar documentos que carezcan de la constancia de pago de impuestos o derechos correspondientes; con multa de $1,366.00 (un mil trescientos sesenta y seis pesos 00/100 M.N.) a $6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.);
+V. Inscribirse o registrar documentos que carezcan de la constancia de pago de impuestos o derechos correspondientes; con multa por la cantidad equivalente de 19.00 a 93.50 UMA;
 
-VI. No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo en el plazo que exigen las disposiciones fiscales o cuando lo exijan las autoridades competentes o presentarlos incompletos o inexactos; con multa de $2,048. (dos mil cuarenta y ocho pesos 00/100 M.N.) a $13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.);
+VI. No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo en el plazo que exigen las disposiciones fiscales o cuando lo exijan las autoridades competentes o presentarlos incompletos o inexactos; con multa de (sic) por la cantidad equivalente 28.00 a 187.00 UMA;
 
 VII. Cooperar con los infractores o facilitarles en cualquier forma la omisión total o parcial de los impuestos, mediante alteraciones, ocultaciones u otros hechos u omisiones. Multa de hasta 1.5 veces el monto de la omisión parcial o total;
 
-VIII. Otorgar constancia de que se ha cumplido con las obligaciones fiscales cuando no proceda su otorgamiento; con multa de $6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.) a $13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.);
+VIII. Otorgar constancia de que se ha cumplido con las obligaciones fiscales cuando no proceda su otorgamiento; con multa por la cantidad equivalente de 93.50 a 187.00 UMA;
 
-IX. Presentar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados; con multa de $6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.) a $13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.);
+IX. Presentar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados; con multa por la cantidad equivalente de 93.50 a 187.00 UMA;
 
-X. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos; con multa de $6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.) a $13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.);
+X. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos; con multa por la cantidad equivalente de 93.50 a 187.00 UMA;
 
-XI. No entregar al contribuyente los comprobantes para alguna contraprestación fiscal, aun en los casos de exención; con multa de $2,728.00 (dos mil setecientos veintiocho pesos 00/100 M.N.) a $8,194.00 (ocho mil ciento noventa y cuatro pesos 00/100 M.N.);
+XI. No entregar al contribuyente los comprobantes para alguna contraprestación fiscal, aun en los casos de exención; con multa por la cantidad equivalente de 37.00 a 112.50 UMA;
 
-XII. Expedir alterados o falsificados los comprobantes a que se refiere la fracción anterior, dando lugar a la evasión total o parcial del gravamen; con multa de $6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.) a $13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.);
+XII. Expedir alterados o falsificados los comprobantes a que se refiere la fracción anterior, dando lugar a la evasión total o parcial del gravamen; con multa por la cantidad equivalente de 93.50 a 187.00 UMA;
 
-XIII. Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados; con multa de $6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.) a $13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.), y
+XIII. Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados; con multa por la cantidad equivalente de 93.50 a 187.00 UMA, y
 
-XIV. Resistirse por cualquier medio a las visitas de inspección. No suministrar los datos o informes que legalmente pueden exigir los inspectores, no mostrarles los libros, registros y, en general, los elementos necesarios para la práctica de la visita; con multa de $6,828.00 (seis mil ochocientos veintiocho pesos 00/100 M.N.) a $13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.).
+XIV. Resistirse por cualquier medio a las visitas de inspección. No suministrar los datos o informes que legalmente pueden exigir los inspectores, no mostrarles los libros, registros y, en general, los elementos necesarios para la práctica de la visita; con multa por la cantidad equivalente de 93.50 a 187.00 UMA.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 242.
 
@@ -3225,45 +3287,45 @@ A las infracciones cuya responsabilidad recae sobre los servidores públicos del
 
 Las infracciones y sus respectivas sanciones son:
 
-I. Dar entrada o curso a documentos que carezcan de los requisitos especificados en las leyes o no requisitarlos; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+I. Dar entrada o curso a documentos que carezcan de los requisitos especificados en las leyes o no requisitarlos; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-II. Expedir actas, certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos sin que exista constancia de que se pagó el gravamen; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+II. Expedir actas, certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos sin que exista constancia de que se pagó el gravamen; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-III. Recibir el pago de una contribución fiscal y no enterar su importe en la caja recaudadora a más tardar al día siguiente hábil; con multa hasta de 4 veces el importe de la contribución;
+III. Recibir el pago de una contribución fiscal y no enterar el importe en la caja recaudadora a más tardar al día siguiente hábil; con multa hasta de 4 veces el importe de la contribución;
 
-IV. Exigir el pago de las contribuciones, recaudar, remitir u ordenar que se recaude alguna contribución fiscal sin cumplir con las disposiciones aplicables; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+IV. Exigir el pago de las contribuciones, recaudar, remitir u ordenar que se recaude alguna contribución fiscal sin cumplir con las disposiciones aplicables; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-V. No presentar o proporcionar extemporáneamente los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos inexactos. No prestar auxilio a las autoridades fiscales para la determinación y cobro de las contribuciones tributarias; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.).
+V. No presentar o proporcionar extemporáneamente los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos inexactos. No prestar auxilio a las autoridades fiscales para la determinación y cobro de las contribuciones tributarias; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-VI. Cuando los informes, avisos o documentos que exijan las disposiciones fiscales se presenten alterados o falsificados; con multa de $1,365.60 (un mil trescientos sesenta y cinco pesos 60/100 M.N.) a $8,193.60 (ocho mil ciento noventa y tres pesos 60/100 M.N.);
+VI. Cuando los informes, avisos o documentos que exijan las disposiciones fiscales se presenten alterados o falsificados; con multa por la cantidad equivalente de 19.00 a 112.50 UMA;
 
-VII. Intervenir en la tramitación o resolución de asuntos cuando tengan impedimento, de acuerdo con las disposiciones fiscales; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+VII. Intervenir en la tramitación o resolución de asuntos cuando tengan impedimento, de acuerdo con las disposiciones fiscales; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-VIII. No suministrar los datos o informes que legalmente les exijan las autoridades fiscales; con multa de $682.80 (seiscientos ochenta y dos pesos 80/100 M.N.) a $4,096.80 (cuatro mil noventa y seis pesos 80/100 M.N.);
+VIII. No suministrar los datos o informes que legalmente les exijan las autoridades fiscales; con multa por la cantidad equivalente de 9.50 a 56.50 UMA;
 
-IX. No efectuar las investigaciones administrativas que están obligados a practicar en materia fiscal; con multa de $1,365.60 (un mil trescientos sesenta y cinco pesos 60/100 M.N.) a $10,230.00 (diez mil doscientos treinta pesos 00/100 M.N.);
+IX. No efectuar las investigaciones administrativas que están obligados a practicar en materia fiscal; con multa por la cantidad equivalente de 19.00 a 140.50 UMA;
 
-X. Faltar a la obligación de guardar secreto respecto de los asuntos que conozca; revelar los datos declarados por los contribuyentes o aprovecharse de ellos; con multa de $1,365.60 (un mil trescientos sesenta y cinco pesos 60/100 M.N.) a $10,230.00 (diez mil doscientos treinta pesos 00/100 M.N.);
+X. Faltar a la obligación de guardar secreto respecto de los asuntos que conozca; revelar los datos declarados por los contribuyentes o aprovecharse de ellos; con multa por la cantidad equivalente de 19.00 a 140.50 UMA;
 
-XI. No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de prestaciones fiscales, en los casos en que ello sea obligatorio de acuerdo con las leyes en la materia; con multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $10,230.00 (diez mil doscientos treinta pesos 00/100 M.N.);
+XI. No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de prestaciones fiscales, en los casos en que ello sea obligatorio de acuerdo con las leyes en la materia; con multa por la cantidad equivalente de 28.50 a 140.50 UMA;
 
-XII. Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento; cooperar en cualquier forma para que se eludan las prestaciones fiscales; con multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.);
+XII. Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento; cooperar en cualquier forma para que se eludan las prestaciones fiscales; con multa por la cantidad equivalente de 28.50 a 187.00 UMA;
 
-XIII. Asentar falsamente que se ha dado cumplimiento a las obligaciones fiscales o que se practicaron visitas de inspección o incluir en las actas relativas datos falsos; con multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.);
+XIII. Asentar falsamente que se ha dado cumplimiento a las obligaciones fiscales o que se practicaron visitas de inspección o incluir en las actas relativas datos falsos; con multa por la cantidad equivalente de 28.50 a 187.00 UMA;
 
-XIV. Alterar documentos fiscales; con multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.);
+XIV. Alterar documentos fiscales; con multa por la cantidad equivalente de 28.50 a 187.00 UMA;
 
-XV. Incluir o asentar datos falsos u ocultar los verdaderos en perjuicio del Fisco en las actas que se levanten con motivo de las investigaciones administrativas que se efectúen; con multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.);
+XV. Incluir o asentar datos falsos u ocultar los verdaderos en perjuicio del Fisco en las actas que se levanten con motivo de las investigaciones administrativas que se efectúen; con multa por la cantidad equivalente de 28.50 a 187.00 UMA;
 
-XVI. Adquirir los bienes objeto de un remate fiscal por sí o por medio de interpósita persona; con multa de $ 2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.);
+XVI. Adquirir los bienes objeto de un remate fiscal por sí o por medio de interpósita persona; con multa por la cantidad equivalente de 28.50 a 187.00 UMA;
 
-XVII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos; con multa de $2,048.40 (dos mil cuarenta y ocho pesos 40/100 M.N.) a $ 13,656.00 (trece mil seiscientos cincuenta y seis pesos 00/100 M.N.);
+XVII. Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos; con (sic) por la cantidad equivalente multa de 28.50 a 187.00 UMA;
 
-XVIII. No practicar visitas de inspección cuando se tenga la obligación de hacerlo; con multa de $1,365.60 (un mil trescientos sesenta y cinco pesos 60/100 M.N.) a $8,193.60 (ocho mil ciento noventa y tres pesos 60/100 M.N.);
+XVIII. No practicar visitas de inspección cuando se tenga la obligación de hacerlo; con multa por la cantidad equivalente de 19.00 a 112.50 UMA;
 
 XIX. Condonar, total o parcialmente, contribuciones y sus accesorios sin contar con competencia para ello o teniendo competencia lo haga sin que reúna los requisitos exigidos por la Ley respectiva; con multa de 4 veces el monto de lo condenado, y
 
-XX. Exigir o recibir cualquier prestación que no esté expresamente prevista en la Ley; con multa de $1,365.60 (un mil trescientos sesenta y cinco pesos 60/100 M.N.) a $8,193.60 (ocho mil ciento noventa y tres pesos 60/100 M.N.).
+XX. Exigir o recibir cualquier prestación que no esté expresamente prevista en la Ley; con multa por la cantidad equivalente de 19.70 a 112.50 UMA.
 
 ###### Artículo 243.
 
@@ -3275,9 +3337,11 @@ Tratándose de la omisión de contribuciones por error aritmético en las declar
 
 ### CAPÍTULO II. DE LOS DELITOS FISCALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 245.
 
-Para proceder penalmente por los delitos previstos en los artículos 251, 253, 255 y 258 de este Código, será necesario que la Secretaría, declare previamente que el Fisco ha sufrido o pudo sufrir perjuicio.
+Para proceder penalmente por los delitos previstos en los artículos 251, 252, 255 y 258 de este Código, será necesario que la Secretaría declare previamente que el Fisco ha sufrido o pudo sufrir perjuicio.
 
 La determinación de perjuicio al Fisco la efectuará la Procuraduría Fiscal, la cual se auxiliará del dictamen técnico que elabore la unidad administrativa competente.
 
@@ -3329,73 +3393,85 @@ IV. Forme algún comprobante de los mencionados anteriormente, con los fragmento
 
 Esta sanción se aplicará aun cuando el falsario no se haya propuesto obtener algún provecho.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 251.
 
-Comete el delito de defraudación fiscal quien, con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución fiscal u obtenga un beneficio indebido con perjuicio del Fisco.
+Comete el delito de defraudación fiscal quien, con uso de engaños o aprovechamiento de errores, omita total o parcialmente el pago de alguna contribución u obtenga un beneficio indebido con perjuicio del Fisco estatal.
 
 La omisión total o parcial de alguna contribución a que se refiere el párrafo anterior comprende, indistintamente, los pagos provisionales o definitivos o el impuesto del ejercicio en los términos de las disposiciones fiscales.
 
+El delito de defraudación fiscal se sancionará con las penas siguientes:
+
+I. Con prisión de tres meses a dos años, cuando el monto de lo defraudado no exceda la cantidad equivalente a 455.00 UMA;
+
+II. Con prisión de dos años a cinco años cuando el monto de lo defraudado exceda la cantidad equivalente a 455.00 UMA pero no de la cantidad equivalente a 688.00 UMA;
+
+III. Con prisión de tres años a nueve años cuando el monto de lo defraudado fuere mayor a la cantidad equivalente a 688.00 UMA, y
+
+IV. Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
+
+Si el monto de lo defraudado es restituido de manera inmediata en una sola exhibición, la pena aplicable podrá atenuarse hasta en un cincuenta por ciento.
+
+El delito de defraudación fiscal y los previstos en el artículo 252 de este Código, serán calificados cuando se originen por:
+
+a) Usar documentos falsos;
+
+b) Omitir reiteradamente la expedición de comprobantes por las actividades que se realicen, siempre que las disposiciones fiscales establezcan la obligación de expedirlos. Se entiende que existe una conducta reiterada cuando durante un período de cinco años el contribuyente haya sido sancionado por esa conducta la segunda o posteriores veces;
+
+c) Omitir el entero de contribuciones retenidas, recaudadas o trasladadas, y
+
+d) Utilizar datos falsos para acreditar o disminuir contribuciones.
+
+Cuando los delitos sean calificados, la pena que corresponda se aumentará en una mitad.
+
+No se formulará querella si quien hubiere omitido el pago total o parcial de alguna contribución u obtenido el beneficio indebido conforme a este artículo, lo entera espontáneamente con sus recargos y actualización antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita domiciliaria, revisión de gabinete o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
+
+Para los fines de este artículo y del siguiente, se tomará en cuenta el monto de las contribuciones defraudadas en un mismo ejercicio fiscal, aun cuando se trate de contribuciones diferentes y de diversas acciones u omisiones. Lo anterior no será aplicable tratándose de pagos provisionales.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 252.
 
-El delito de defraudación fiscal se sancionará con prisión de seis meses a seis años, si el monto de lo defraudado no excede de $ 33,225.00 (treinta y tres mil doscientos veinticinco pesos 00/100 M.N.); cuando exceda de esta cantidad, la pena será de tres a nueve años de prisión.
+Será sancionado con las mismas penas del delito de defraudación fiscal, quien:
 
-Cuando no se pueda determinar la cuantía de lo defraudado la pena será de tres meses a seis años de prisión.
+I. Consigne en las declaraciones que presente para los efectos fiscales, deducciones falsas o ingresos menores a los realmente obtenidos o valor de actos o actividades menores a los realmente obtenidos o realizados o determinados conforme a las leyes;
 
-No se formulará querella si quien hubiere omitido el pago de la contribución u obtenido el beneficio indebido conforme a este artículo, lo entera espontáneamente con sus recargos, antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
+II. Omita enterar a las autoridades fiscales, dentro del plazo que las leyes establezcan, las cantidades que por concepto de contribuciones hubiere recibido, trasladado, retenido o recaudado;
 
-Para los fines de este artículo se tomará en cuenta el monto de las contribuciones defraudadas en un mismo ejercicio fiscal, aun cuando se trate de contribuciones diferentes y de diversas acciones u omisiones.
+III. Se beneficie sin derecho de un subsidio o estímulo fiscal, y
+
+IV. Sea responsable por omitir presentar por más de doce meses las declaraciones que tengan carácter de definitivas, así como las de un ejercicio fiscal que exijan las leyes fiscales, dejando de pagar la contribución correspondiente.
+
+No se formulará querella si quien, encontrándose en los supuestos anteriores, entera espontáneamente, con sus recargos, el monto de la contribución omitida o del beneficio indebido antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita domiciliaria, revisión de gabinete o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 253.
 
-La pena que corresponde al delito de defraudación fiscal se impondrá también a quien:
+Se impondrá sanción de tres meses a tres años de prisión, a quien:
 
-I. Mediante simulación de actos jurídicos omita, total o parcialmente, el pago de contribuciones fiscales a su cargo;
+I. Rinda con falsedad al registro estatal de contribuyentes, los datos, informes o avisos a que se encuentra obligado en materia de impuestos estatales, y
 
-II. Consigne en las declaraciones que preste para fines fiscales ingresos menores que los realmente obtenidos;
+II. Desocupe o desaparezca del lugar donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio al registro estatal de contribuyentes, después de la notificación de la orden de visita domiciliaria o del requerimiento de la contabilidad, documentación o información, o bien después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya garantizado, pagado o quedado sin efectos, o que hubieran realizado actividades por las que deban pagar contribuciones, haya transcurrido más de un año contado a partir de la fecha en que legalmente tenga la obligación de presentar dicho aviso, o cuando las autoridades fiscales tengan conocimiento de que fue desocupado el domicilio derivado del ejercicio de sus facultades de comprobación.
 
-III. Proporcione con falsedad a las autoridades fiscales que lo requiera los datos que obren en su poder y que sean necesarios para determinar la producción, el ingreso gravable o las contribuciones que cause;
+Para los efectos de esta fracción, se entiende que el contribuyente desaparece del local en donde tiene su domicilio fiscal cuando la autoridad acuda en tres ocasiones consecutivas a dicho domicilio dentro de un periodo de doce meses y no pueda practicar la diligencia en términos de este Código.
 
-IV. Oculte a las autoridades fiscales, total o parcialmente la producción sujeta a impuestos o el monto de las ventas;
+No se formulará querella si quien, encontrándose en los supuestos anteriores, subsana la omisión o informa del hecho a la autoridad fiscal antes de que ésta lo descubra o medie requerimiento, orden de visita domiciliaria, revisión de gabinete o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales, o si el contribuyente conserva otros establecimientos en los lugares que tenga manifestados al registro estatal de contribuyentes en el caso de la fracción II del presente artículo.
 
-V. Como fabricante, porteador, comerciante o expendedor haga circular productos sin llenar los requisitos de control a que obliguen las disposiciones fiscales;
-
-VI. No entere a las autoridades fiscales, dentro del plazo del requerimiento que se le haga, las cantidades que haya retenido, recaudado o recibido de los causantes por concepto de contribuciones fiscales;
-
-VII. No expida los documentos con los requisitos establecidos en las disposiciones fiscales para acreditar el pago de una contribución;
-
-VIII. Para registrar sus operaciones contables fiscales o sociales lleve dos o más libros o registros similares con distintos asientos o datos;
-
-IX. Destruya, ordene o permita la destrucción total o parcial, dejando ilegibles los libros de contabilidad y registros contables que prevengan las leyes aplicables;
-
-X. Se beneficie, sin derecho, de un subsidio o estímulo fiscal;
-
-XI. Tenga el carácter de propietario de la negociación o representante legal de personas morales o unidades económicas, y la persona o personas que firmen los cheques girados para el pago de créditos fiscales, cuyos fondos en la entidad financiera sean insuficientes para su pago. En estos casos los responsables señalados deberán responder individualmente del delito cometido, y
-
-XII. Sea responsable por omitir presentar, por más de doce meses, declaraciones periódicas que exijan las leyes fiscales, omitiendo con ello el pago de la contribución correspondiente.
-
-No se formulará querella si quien encontrándose en los supuestos anteriores, entera espontáneamente, con sus recargos, el monto de la contribución omitida o del beneficio indebido antes de que la autoridad fiscal descubra la omisión o el perjuicio, o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales o para obtener el pago de lo omitido.
-
-Para imponer la sanción se tomará en cuenta el monto de las contribuciones defraudadas o que se hayan intentado defraudar dentro de un mismo período fiscal, aun cuando se trate de impuestos diferentes y de diversas acciones u omisiones.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 254.
 
-Se impondrá sanción de tres meses a seis años de prisión a quien:
+Se impondrá sanción de tres meses a tres años de prisión, a quien:
 
-I. Omita solicitar su inscripción en el Padrón de Contribuyentes del Estado por más de un año contado a partir de la fecha en que debió hacerlo, excepto cuando se trate de personas cuya solicitud de inscripción deba ser presentada por otro, aun en el caso que éste no lo haga;
+I. Respecto de contribuciones locales, registre sus operaciones contables, fiscales o sociales en dos o más libros o en dos o más sistemas de contabilidad con diferentes contenidos;
 
-II. Rinda con falsedad al citado Padrón, los datos, informes o avisos a que se encuentra obligado;
+II. Oculte, altere o destruya, total o parcialmente los sistemas y registros contables, así como la documentación relativa a los asientos respectivos, que conforme a las leyes fiscales esté obligado a llevar, y
 
-III. Use intencionalmente más de una clave del Padrón de Contribuyentes del Estado;
+III. Sea responsable de omitir la presentación por más de tres meses, de las declaraciones a que se encuentre obligado.
 
-IV. Desocupe su domicilio fiscal, después de la notificación de la orden de visita y solicitud de información y documentación, o bien después que se le hubiera notificado un crédito fiscal y antes que éste se haya garantizado, pagado o quedado sin efectos, sin presentar el aviso de cambio de domicilio al Padrón de Contribuyentes del Estado;
-
-V. Omita presentar las declaraciones para efectos fiscales a que estuviere obligado durante dos o más años;
-
-VI. Registre sus operaciones contables, fiscales o sociales en dos o más libros o en dos o más sistemas de contabilidad con diferentes asientos, o
-
-VII. Omita, altere o destruya, total o parcialmente, los sistemas y registros contables, así como la documentación relativa a los asientos respectivos que conforme a las leyes fiscales está obligado a llevar.
-
-No se formulará querella si, quien encontrándose en los supuestos anteriores, subsana la omisión o informa del hecho a la autoridad fiscal antes que ésta lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales, o si el contribuyente conserva otros establecimientos en los lugares que tenga manifestados al Padrón de Contribuyentes del Estado.
+No se formulará querella, si quien encontrándose en los supuestos anteriores subsana la omisión o el ilícito antes de que la autoridad fiscal lo descubra o medie requerimiento, orden de visita domiciliaria, revisión de gabinete o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
 
 ###### Artículo 255.
 
@@ -3415,9 +3491,11 @@ La misma sanción se le aplicará al servidor público que por el indebido uso d
 
 Se sancionará con uno a seis años de prisión a la persona que proporcione datos falsos para la inscripción en el registro o registros de contribuyentes que correspondan, con perjuicio del interés fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 259.
 
-Se impondrá sanción de tres meses a seis años de prisión al depositario o interventor designado por las autoridades fiscales, que con perjuicio del Fisco, disponga para sí o para otro, del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de $ 33,225.00 (treinta y tres mil doscientos veinticinco pesos 00/100 M.N.) y cuando exceda la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a seis años de prisión al depositario o interventor designado por las autoridades fiscales, que con perjuicio del Fisco, disponga para sí o para otro, del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de la cantidad equivalente a 455.00 UMA y cuando exceda la sanción será de tres a nueve años de prisión.
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga en los términos de ley, a disposición de la autoridad competente, o a quienes en los casos de intervención de la negociación, no entreguen u oculten las cantidades que en numerario debe retirar el depositario designado por la autoridad.
 
@@ -3526,3 +3604,25 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL TRESCIENTOS SETENTA POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS, DE LA LEY DEL NOTARIADO DEL ESTADO DE MORELOS, Y DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el 01 de enero de 2017, previa su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Para efectos de la reforma aprobada respecto de los artículos 23, 67, 79 y 78 de la Ley Orgánica de la Administración Pública del Estado de Morelos, las Secretarías de Hacienda, de Administración y de la Contraloría, así como los organismos auxiliares del Poder Ejecutivo Estatal, dentro del plazo no mayor a 90 días naturales contados a partir del día siguiente al que entre en vigor el presente Decreto, deberán realizar las reasignaciones o transferencias presupuestales correspondientes y los trámites administrativos necesarios; lo que deberá reflejarse en las cuentas públicas correspondientes.
+
+Dentro del mismo plazo señalado en el párrafo anterior, deberán realizarse las transferencias de recursos humanos necesarias, respetando los derechos laborales de los trabajadores en términos de la normativa aplicable.
+
+CUARTA. Dentro de un plazo de 180 días hábiles, contados a partir del inicio de vigencia del presente Decreto, la Secretaría de la Contraloría y los organismos auxiliares del Poder Ejecutivo Estatal realizarán las adecuaciones normativas correspondientes a su Reglamento Interior y Estatutos Orgánicos o equivalentes, respectivamente; instrumentos en los que se atenderá, en su caso, lo previsto en el último párrafo del artículo 67 de la Ley Orgánica de la Administración Pública del Estado de Morelos, objeto de reforma.
+
+QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto. Específicamente, aquellas disposiciones jurídicas de las Leyes o Decretos de creación de los organismos auxiliares que contravengan lo dispuesto por los artículos 23, 67, 69 y 78 de la Ley Orgánica de la Administración Pública del Estado de Morelos, en la inteligencia de que las mismas quedan sin efectos ante la prevalencia de este instrumento; sin perjuicio de lo previsto en el último párrafo del citado artículo 67.
+
+SEXTA. Dentro de un plazo que no exceda de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto, los Notarios Públicos del estado de Morelos, deberán actualizar sus respectivas garantias a fin de dar cabal cumplimiento a lo dispuesto en el artículo 24 de la Ley del Notariado del Estado de Morelos, objeto de reforma.
+
+SÉPTIMA. Se autoriza al Titular del Poder Ejecutivo Estatal para que celebre los actos jurídicos respectivos y necesarios, y determine la constitución, conformación del Fideicomiso del Fondo para la Atención de Infraestructura y Administración Municipal a que se refiere este instrumento.
