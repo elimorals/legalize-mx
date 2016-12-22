@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-erradicar-la-obligatoriedad-de-las-cuotas-84193"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2014-11-19"
+last_updated: "2016-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY PARA ERRADICAR LA OBLIGATORIEDAD DE LAS CUOTAS ESCOLARES EN LAS ESCUELAS PUBLICAS DEL SISTEMA DE EDUCACION BASICA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEXTA DEL DECRETO NÚMERO MIL TRESCIENTOS SETENTA Y UNO POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA ERRADICAR LA OBLIGATORIEDAD DE LAS CUOTAS ESCOLARES EN LAS ESCUELAS PÚBLICAS DEL SISTEMA DE EDUCACIÓN BÁSICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016. (ABROGADA)
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -378,3 +380,57 @@ PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publi
 SEGUNDO. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERO.- Dentro del término de noventa días hábiles siguientes a la entrada en vigor del presente Decreto, la autoridad educativa estatal realizará las modificaciones correspondientes al Reglamento de la Ley para Erradicar la Obligatoriedad de las Cuotas Escolares en las Escuelas Públicas del Sistema de Educación Básica del estado de Morelos, a fin de armonizarla con los términos del presente Decreto.
+
+P.O. 22 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL TRESCIENTOS SETENTA Y UNO POR EL QUE SE APRUEBA EL PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2017”.]</small>
+
+PRIMERA. Remítase el presente Decreto al Gobernador del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor el día 1 de enero de 2017, previa publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del estado de Morelos.
+
+TERCERA. En cumplimiento a lo dispuesto por la Ley General de Contabilidad Gubernamental, el Gobierno del Estado instrumentará los documentos técnico-normativos que emita el Consejo Nacional de Armonización Contable, conforme a los criterios y términos establecidos para ese fin.
+
+CUARTA. La información financiera y presupuestal adicional a la contenida en el presente Decreto, así como la demás que se genere durante el ejercicio fiscal, podrá ser consultada en los reportes específicos que para tal efecto difunda la Secretaría en los medios oficiales, incluyendo los medios electrónicos.
+
+QUINTA. Se autoriza a los Ayuntamientos del estado de Morelos para afectar como garantía o fuente de pago a favor del Poder Ejecutivo Estatal, hasta el 15% de las participaciones federales presentes y futuras que les correspondan por el tiempo de vigencia de los convenios a que se refiere el Artículo Décimo Segundo del presente Decreto, por concepto del pago por los servicios que en su lugar prestará el Poder Ejecutivo Estatal, en los términos y condiciones que pacten en los instrumentos jurídicos respectivos, conforme a lo previsto por el artículo 9 de la Ley de Coordinación Fiscal y el artículo 9 de la Ley de Coordinación Hacendaria del Estado de Morelos y demás normativa aplicable.
+
+SEXTA. Se abroga la Ley para Erradicar la Obligatoriedad de las Cuotas Escolares en las Escuelas Públicas del Sistema de Educación Básica del Estado de Morelos y la Ley de Útiles Escolares Gratuitos para el Estado de Morelos.
+
+SÉPTIMA. Se deroga la fracción XI del artículo 7 y los artículos 60, 61, 62, 63, 64, 65 y 66 de la Ley de Salud Mental del Estado de Morelos.
+
+Los derechos y beneficios que se otorgan por virtud del referido ordenamiento legal, que no se prevean en los artículos derogados, continuarán siendo aplicables y garantizados por las autoridades competentes.
+
+OCTAVA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+NOVENA. Se reforman la fracción I del artículo 8; el primer párrafo y la fracción II del artículo 9; el artículo 10; y se deroga el artículo 12 de la Ley de Beneficios, Estímulos y Recompensas a los Veteranos de la Revolución en el Estado de Morelos, para quedar como sigue:
+
+###### ARTICULO 8.
+
+...
+
+I.- Recibir las solicitudes que presenten los Veteranos de la Revolución para disfrutar de los beneficios que otorga la presente Ley.
+
+II.- ...
+
+###### ARTÍCULO 9.
+
+El Gobierno del Estado otorgará a los Veteranos:
+
+I. ...
+
+II. Servicio Médico gratuito en los hospitales del Gobierno del Estado.
+
+III. a V.- ...
+
+###### ARTICULO 10.
+
+En las ceremonias cívicas que organice el Gobierno o los Ayuntamientos del Estado, los Veteranos de la Revolución tendrán un lugar de honor.
+
+###### ARTÍCULO 12.
+
+SE DEROGA.
+
+DÉCIMO. Los derechos y beneficios que a la fecha se hayan otorgado por virtud del ordenamiento legal a que se refiere la disposición transitoria anterior, continuarán siendo aplicables y garantizados por las autoridades competentes.
+
+> <small>[N. DE E. VÉASE ANEXO RELACIÓN DE OBRAS INCLUIDAS EN EL PRESUPUESTO DE EGRESOS 2017, EN EL P.O. DE 22 DE DICIEMBRE DE 2016, PÁGINA 128.]</small>
