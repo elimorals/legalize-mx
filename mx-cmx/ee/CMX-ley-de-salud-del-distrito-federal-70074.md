@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2016-10-05"
+last_updated: "2016-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 5 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -213,6 +213,14 @@ XVIII. Digitalizador de firmas.- Dispositivo que registra el trazo de la firma a
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 5 DE OCTUBRE DE 2016)</small>
 
 XIX. Clínica de Atención Geriátrica: Clínica de Atención Geriátrica de la Ciudad de México. Espacio de atención médica para los adultos mayores, para así garantizar su bienestar a través servicios especializados en geriatría y gerontología.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XX. Banco de Leche: La infraestructura sita en Instituciones de Salud donde se cuenta con servicios neonatales, así como con el debido control sanitario para la obtención de leche materna, a través de la recolección, procesamiento y almacenamiento, cuya finalidad es proveer de este alimento a aquellos menores que precisen del mismo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXI. Lactario: Espacio físico que cuenta con un ambiente especialmente acondicionado y digno, el cual permita a las mujeres en periodo de lactancia alimentar a su hija o hijo.
 
 ###### Artículo 7.
 
@@ -474,7 +482,9 @@ b) La prestación de servicios de atención médica integral, preferentemente en
 
 c) La prestación de la protección social en salud, de conformidad a las disposiciones establecidas en la Ley General, la presente Ley y demás instrumentos jurídicos del Distrito Federal aplicables;
 
-d) La prestación de los servicios integrales de atención materno-infantil e infantil, que comprende, entre otros, la atención del niño y la vigilancia de su crecimiento, desarrollo, salud mental y la promoción de la vacunación oportuna, y la atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2016)</small>
+
+d) La prestación de los servicios integrales de atención materna e infantil, el cual comprende, entre otros, la atención del niño y la vigilancia de su crecimiento, desarrollo, salud mental; así como la promoción de la vacunación oportuna, la atención de la mujer durante el embarazo, el parto y el puerperio y, la lactancia materna.
 
 e) La prestación de servicios de atención médica para la mujer;
 
@@ -1006,7 +1016,9 @@ La atención a la salud materno-infantil tiene carácter prioritario y comprende
 
 I. La atención de la mujer durante el embarazo, el parto y el puerperio;
 
-II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna y de su correcta nutrición;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2016)</small>
+
+II. La atención del niño y la vigilancia de su crecimiento y desarrollo, incluyendo la promoción de la vacunación oportuna; así como el fomento y disposición de espacios que permitan su correcta nutrición, tales como son lactarios.
 
 III. La realización de los estudios de laboratorio y gabinete y aplicación de indicaciones preventivas y tratamiento médico que corresponda, a fin de evitar, diagnosticar y controlar defectos al nacimiento;
 
@@ -1042,7 +1054,11 @@ En la organización y operación de los servicios de salud destinados a la atenc
 
 I. Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
-II. Acciones de orientación y vigilancia institucional, fomento a la lactancia materna y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil, y
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2016)</small>
+
+II. Acciones de orientación y vigilancia institucional, fomentar la lactancia materna y la ayuda alimentaría tendiente a mejorar el estado nutricional del grupo materno-infantil.
+
+Para contribuir al fomento de la lactancia, todos los entes públicos de la Ciudad de México, deberán administrar los recursos necesarios, personal de salud y el espacio adecuado para la disposición de un lactario en cada una de sus sedes.
 
 III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años.
 
@@ -3219,3 +3235,13 @@ SEGUNDO.- La presente Ley entrará en vigor el día siguiente de su publicación
 TERCERO.- La Secretaria de Finanzas de la Ciudad de México, destinará para el ejercicio 2016 los recursos necesarios para que la Secretaria de Salud de la Ciudad de México, pueda cumplir con lo dispuesto en el presente decreto.
 
 CUARTO.- La Asamblea Legislativa del Distrito Federal autorizará para el ejercicio fiscal 2017, los recursos presupuestales necesarios para que la Secretaria de Salud de la Ciudad de México pueda cumplir con lo dispuesto en el presente decreto.
+
+G.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México y en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Todas las disposiciones legales que contravengan las presentes reformas y adiciones se tendrán por derogadas.
