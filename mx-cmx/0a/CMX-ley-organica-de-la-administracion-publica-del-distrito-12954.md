@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "2016-09-15"
+last_updated: "2016-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -408,11 +408,13 @@ Cuando alguna dependencia requiera informes, datos o la cooperación técnica de
 
 ### CAPITULO II. De la competencia de las Secretarías, de la Oficialía Mayor, de la Contraloría General del Distrito Federal y de la Consejería Jurídica y de Servicios Legales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE FEBRERO DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 23.
 
-A la Secretaría de Gobierno corresponde el despacho de las materias relativas al gobierno; relaciones con estados y municipios, la coordinación metropolitana; seguimiento de funciones desconcentradas de las Delegaciones del Distrito Federal; Reclusorios y Centros de Readaptación, regularización de la tenencia de la tierra y acción cívica.
+A la Secretaría de Gobierno corresponde el despacho de las materias relativas al gobierno; relaciones con estados y municipios, la coordinación metropolitana; seguimiento de funciones desconcentradas de las Delegaciones del Distrito Federal; Reclusorios y Centros de Readaptación y acción cívica.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -462,9 +464,9 @@ XVI. Emitir lineamientos generales para la elaboración y actualización del pad
 
 XVII. (DEROGADA, G.O. 6 DE FEBRERO DE 2007)
 
-> <small>(REFORMADA, G.O. 30 DE MAYO DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XVIII. Promover, apoyar y ejecutar los programas de regularización de la tenencia de la tierra, impulsando anualmente la realización de jornadas notariales en apoyo a personas físicas de conformidad con las bases que se emitan;
+XVIII. (DEROGADA, G.O. 22 DE DICIEMBRE DE 2016)
 
 XIX. Determinar los casos en que sea de utilidad pública la expropiación de bienes o la ocupación total o parcial de bienes de propiedad privada, y proponer al Jefe de Gobierno que emita la declaratoria correspondiente de expropiación u ocupación, en los términos de las disposiciones jurídicas aplicables;
 
@@ -482,9 +484,9 @@ XXV. Coordinar la planeación metropolitana con la participación que correspond
 
 XXVI. Impulsar la formulación de convenios, normas y reglamentos en los que se concerte la voluntad política de los gobiernos que inciden en la zona metropolitana;
 
-> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXVI BIS. Impulsar la participación de la comunidad científica y tecnológica e Innovación del Distrito Federal en la planeación metropolitana de manera coordinada con la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal;
+XXVI BIS. (DEROGADA, G.O. 22 DE DICIEMBRE DE 2016)
 
 XXVII. Formular y coordinar la implementación de las políticas de desarrollo cívico;
 
@@ -1602,13 +1604,13 @@ XLVII. Apoyar el funcionamiento del Consejo y de los Comités del Servicio Públ
 
 XLVIII. Las demás que les atribuyan expresamente las leyes y reglamentos.
 
-> <small>N. DE E. PARA SU ENTRADA EN VIGOR VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 19 DE MAYO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 35.
 
-A la Consejería Jurídica y de Servicios Legales corresponde el despacho de las materias relativas a las funciones de orientación, asistencia, publicación oficial, y coordinación de asuntos jurídicos; revisión y elaboración de los proyectos de iniciativas de leyes y decretos que presente el Jefe de Gobierno a la Asamblea Legislativa; revisión y elaboración de los proyectos de reglamentos, decretos, acuerdos y demás instrumentos jurídicos y administrativos que se sometan a consideración del Jefe de Gobierno de los servicios relacionados con el Registro Civil, el Registro Público de la Propiedad y de Comercio y del Archivo General de Notarías.
+A la Consejería Jurídica y de Servicios Legales corresponde el despacho de las materias relativas a las funciones de orientación, asistencia, publicación oficial, y coordinación de asuntos jurídicos; regularización de la tenencia de la tierra; revisión y elaboración de los proyectos de iniciativas de leyes y decretos que presente el Jefe de Gobierno a la Asamblea Legislativa; revisión y elaboración de los proyectos de reglamentos, decretos, acuerdos y demás instrumentos jurídicos y administrativos que se sometan a consideración del Jefe de Gobierno de los servicios relacionados con el Registro Civil, el Registro Público de la Propiedad y de Comercio y del Archivo General de Notarias.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -1646,7 +1648,11 @@ XV. Certificar, en la esfera de sus atribuciones, los documentos expedidos por e
 
 XVI. Expedir copias certificadas; excepto en materia fiscal, de los documentos que obren en los archivos de las Dependencias de la Administración Pública del Distrito Federal, previa autorización y envío de los mismos por el titular de la Dependencia de que se trate, sin perjuicio de la facultad que tiene el titular de cada Dependencia de certificar los documentos que obren en sus archivos y los expedidos por los servidores públicos que les estén subordinados en el ejercicio de sus atribuciones;
 
-XVII. Tramitar e integrar debidamente los expedientes de expropiación, de ocupación temporal o de limitación de dominio, para los efectos que establece el artículo 20 bis de la Ley de Expropiación; así como conocer y resolver el recurso administrativo de revocación respectivo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XVII. Tramitar y substanciar debidamente los expedientes de expropiación, de ocupación temporal o de limitación de dominio, para los efectos que establece el artículo 20 bis de la Ley de Expropiación; así como conocer y resolver el recurso administrativo de revocación respectivo;
 
 XVIII. Prestar los servicios relacionados con las funciones encomendadas por las disposiciones jurídicas al Registro Civil;
 
@@ -1684,13 +1690,17 @@ XXVII. Tramitar los indultos que se vayan a conceder a los sentenciados por deli
 
 XXVIII. Presidir la Comisión de Estudios Jurídicos del Gobierno del Distrito Federal, integrada por los responsables de asuntos jurídicos de las Dependencias, Organos Desconcentrados y Entidades Paraestatales de la Administración Pública del Distrito Federa (sic), que tendrá por objeto la coordinación en materia jurídica, y
 
-> <small>(ADICIONADA, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXIX. Suplir al Jefe de Gobierno del Distrito Federal en sus ausencias en las sesiones del Gabinete de Prevención Social de las Violencias;
+> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, G.O. 18 DE NOVIEMBRE DE 2015)</small>
+XXIX. Promover, apoyar y ejecutar los programas de regularización de la tenencia de la tierra y en su caso, proponer al Jefe de Gobierno por conducto de la Secretaría de Gobierno que emita la declaratoria correspondiente de expropiación u ocupación en los términos de las disposiciones jurídicas aplicables, y
 
-XXX. En el caso darse (sic) lo señalado en la fracción anterior, deberá coordinar las acciones en materia de prevención social de las violencias que ejecutan las unidades de gasto del Gobierno del Distrito Federal, según la programación operativa, con el objeto de alcanzar los mejores resultados de su aplicabilidad.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 22 DE DICIEMBRE DE 2016)</small>
+
+XXX. Las demás que le atribuyan expresamente las leyes y reglamentos.
 
 > <small>(REFORMADA, G.O. 15 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2697,3 +2707,25 @@ TERCERO.- Los actos jurídicos en materia notarial iniciados con anterioridad a 
 CUARTO.- La Asamblea Legislativa del Distrito Federal tomará las providencias presupuestales necesarias para que se cumpla con lo dispuesto en este Decreto.
 
 QUINTO.- Túrnese a la Consejería Jurídica y de Servicios Legales del Distrito Federal para que en un plazo no mayor a 30 días naturales se acople y adopte la reglamentación necesaria para el buen desarrollo del Programa Jornada Notarial.
+
+G.O. 22 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el 01 de Enero de 2017.
+
+TERCERO.- Las referencias hechas en otros ordenamientos legales a la Consejería Jurídica y de Servicios Legales, se entenderán hechas a la Dirección General de Regularización Territorial a partir de su entrada en vigor.
+
+CUARTO.- Las referencias hechas en otros ordenamientos legales a la Secretaría de Gobierno respecto de las materias que por virtud de este decreto dejan de ser de su competencia, se entenderán hechas a la Dirección General de Regularización Territorial a partir de su entrada en vigor.
+
+QUINTO.- El Jefe de Gobierno de la Ciudad de México contará con un plazo de noventa días hábiles para realizar las modificaciones al Reglamento Interior de la Administración Pública del Distrito Federal y demás disposiciones administrativas, a efecto de adecuarlas al presente decreto.
+
+SEXTO.- El personal que, en ejecución del presente decreto, deba ser transferido de una dependencia a otra, no resultará afectado en los derechos que hubiere adquirido en virtud de la relación laboral con la Administración Pública de la Ciudad de México.
+
+SÉPTIMO.- En la transferencia de la Unidad Administrativa que por la ejecución del presente decreto debe pasar de una dependencia a otra, se incluirá al personal de servicio, mobiliario, equipo, instrumentos, vehículos, maquinaria, aparatos, archivos y, en general, todos los efectos y dispositivos que se utilicen para la atención de los asuntos a su cargo, así como los recursos presupuestales correspondientes.
+
+OCTAVO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite y deban ser atendidos por las unidades administrativas objeto de transferencia, serán resueltos por la dependencia que los recibe, dentro de los plazos establecidos al efecto, a excepción de los trámites urgentes o sujetos a plazo improrrogable.
+
+NOVENO.- En tanto se formaliza material, financiera y administrativamente la transferencia a la Consejería Jurídica y de Servicios Legales de los recursos humanos, materiales, técnicos y financieros de la Dirección General de Regularización Territorial, la Secretaría de Gobierno continuará ejerciendo los recursos presupuestales correspondientes a esta área administrativa de conformidad con los techos presupuestales aprobados en el Presupuesto de Egresos de la Ciudad de México para el ejercicio fiscal 2017.
