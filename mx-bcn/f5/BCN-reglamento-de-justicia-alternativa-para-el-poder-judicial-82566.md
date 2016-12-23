@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-justicia-alternativa-para-el-poder-judicial-82566
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-19"
-last_updated: "2011-08-19"
+last_updated: "2016-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82566&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE JUSTICIA ALTERNATIVA PARA EL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 19 de agosto de 2011.
 
@@ -155,9 +155,11 @@ VI.- Los especialistas públicos, adscritos a las sedes del Centro, y,
 
 VII.- Notificadores y demás personal administrativo que se requieran para las sedes del Centro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 5.
 
-Los días y horas de atención al público en el Centro serán de Lunes a Viernes de 8:00 a.m. a 5:00 p.m.
+Los días y horas de atención al público en el Centro serán de Lunes a Viernes de 8:00 a.m. a 15:00 horas y con los periodos vacacionales que se autoricen a los Juzgados civiles y familiares en el Estado.
 
 El Centro prestará sus servicios de manera continua, para tal efecto el Consejo elaborará el calendario de vacaciones del personal adscrito a aquel.
 
@@ -1364,3 +1366,9 @@ MAGDO. JOSÉ LUIS CEBREROS SAMANIEGO
 CONSEJERO
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. EL “AVISO AL PÚBLICO EN GENERAL MEDIANTE EL CUAL SE HACE DEL CONOCIMIENTO QUE EL PLENO DEL CONSEJO DE LA JUDICATURA EN SESIÓN ORDINARIA CELEBRADA EL DÍA VEINTE DE NOVIEMBRE DEL AÑO DOS MIL CATORCE, AUTORIZÓ LA ADECUACIÓN DEL ARTÍCULO 5 DEL REGLAMENTO DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA EN EL ESTADO, RESPECTO AL HORARIO DE SERVICIOS QUE PRESTA Y CON LOS PERIODOS VACACIONALES QUE SE AUTORICEN A LOS JUZGADOS CIVILES Y FAMILIARES EN EL ESTADO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 34 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA.]</small>
