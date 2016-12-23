@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2016-12-16"
+last_updated: "2016-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COA"
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -405,157 +405,43 @@ II. Las erogaciones que efectúen:
 
 8. La unidad agrícola industrial de la mujer campesina.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
 ### CAPITULO CUARTO. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
 ###### ARTICULO 33.
 
-Están obligadas al pago del impuesto sobre tenencia o uso de vehículos establecido en este Capítulo, las personas físicas y las morales que residan en el Estado de Coahuila de Zaragoza, tenedoras o usuarias de los vehículos a que se refiere el presente Capítulo.
-
-Para los efectos de este Capítulo, se presume que el propietario es tenedor o usuario del vehículo.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-Los contribuyentes pagarán el impuesto por año de calendario durante los tres primeros meses ante las instituciones de crédito o establecimientos autorizados, salvo en el caso de vehículos nuevos o importados, supuesto en el que el impuesto deberá calcularse y enterarse al solicitarse el registro o alta del vehículo, en ningún caso el plazo excederá de quince días. En caso de importación temporal, el impuesto deberá efectuarse al convertirse en definitiva dicha importación.
-
-Para aquellos vehículos que circulen con placas de transporte público federal, el impuesto se pagará en las instituciones de crédito o establecimientos autorizados correspondientes al domicilio fiscal que el contribuyente tenga registrado ante la Secretaría de Hacienda y Crédito Público. Los contribuyentes de este impuesto no están obligados a presentar, por dicha contribución, la solicitud de inscripción ni los avisos del registro federal de contribuyentes. No obstante lo dispuesto en este párrafo, los contribuyentes que se encuentren inscritos en el citado registro para efectos del pago de otras contribuciones, deberán anotar su clave correspondiente en los formatos de pago de este impuesto.
-
-Las personas físicas o morales cuya actividad sea la enajenación de vehículos nuevos o importados al público, que asignen dichos vehículos a su servicio o al de sus funcionarios o empleados, deberán pagar el impuesto por el ejercicio en que hagan la asignación, en los términos previstos en este artículo.
-
-En la enajenación o importación de vehículos nuevos de año modelo posterior al de aplicación de la Ley, se pagará el impuesto correspondiente al año de calendario en que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario bajo el criterio de vehículo nuevo.
-
-Para los efectos de este impuesto, también se consideran automóviles, a los omnibuses, camiones y tractores no agrícolas tipo quinta rueda.
-
-En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere esta Capítulo, se pagará como si éste fuese nuevo.
-
-Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente:
-
-Mes de adquisición FACTOR APLICABLE
-
-AL IMPUESTO CAUSADO
-
-Febrero 0.92
-
-Marzo 0.83
-
-Abril 0.75
-
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-Tratándose de vehículos usados que hayan pagado el impuesto sobre tenencia o uso de vehículos en otra entidad, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente, de acuerdo a lo señalado en el cuadro anterior.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 34.
 
-Para efectos de este Capítulo, se entiende por:
-
-I. Vehículo nuevo:
-
-1. El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
-
-2. El importado definitivamente al país que corresponda al año modelo posterior al de aplicación de la Ley, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva, y
-
-II. Valor total del vehículo, el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la autoridad competente como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
-
-En el valor total del vehículo a que hace referencia en la fracción anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 35.
 
-La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, deberán pagar el impuesto que establece este Capítulo, con las excepciones que en la misma se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar impuestos federales o estatales o estén exentos de ellos.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 36.
 
-Son solidariamente responsables del pago del impuesto establecido en este Capítulo:
-
-I. Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto.
-
-II. Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera.
-
-III. Las autoridades, que autoricen el registro de vehículos, o expidan certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y certificados de matrícula para las aeronaves, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 37.
 
-Los contribuyentes comprobarán el pago del impuesto con la copia de la forma por medio de la cual lo hayan efectuado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 38.
 
-Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas tipo quinta rueda, el impuesto se calculará como a continuación se indica:
-
-I. En el caso de automóviles nuevos, destinados al transporte hasta de quince pasajeros y automóviles destinados al transporte de efectos con capacidad de carga de hasta dos toneladas de peso, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
-
-TARIFA
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 25 DE NOVIEMBRE DE 2011, PÁGINA 8.</small>
-
-Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere esta fracción, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80.
-
-II. Para automóviles nuevos destinados al transporte de más de quince pasajeros, para automóviles nuevos con capacidad de carga mayor a dos toneladas y cuyo peso bruto vehicular sea menor a quince toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del automóvil. Para automóviles nuevos destinados al transporte de efectos, cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
-
-Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
-
-III. Tratándose de automóviles de más de diez años modelo anteriores al de aplicación de esta Ley, el impuesto se pagará de acuerdo a lo establecido en este Capítulo.
-
-Para los efectos de este artículo, se entiende por vehículos destinados a transporte de más de 15 pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractores no agrícolas tipo quinta rueda, así como minibuses, microbuses y autobuses integrales, cualquiera que sea su tipo y peso bruto vehicular.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 39.
 
-Para los efectos de este impuesto se considera como:
-
-I. Marca, las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás.
-
-II. Año modelo, el año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1o. de octubre del año anterior y el 30 de septiembre del año que transcurra.
-
-III. Modelo, todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
-
-IV. Versión, cada una de las distintas presentaciones comerciales que tiene un modelo.
-
-V. Línea:
-
-1. Automóviles con motor de gasolina o gas hasta de 4 cilindros.
-
-2. Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
-
-3. Automóviles con motor diesel.
-
-4. Camiones con motor de gasolina, gas o diesel.
-
-5. Tractores no agrícolas tipo quinta rueda.
-
-6. Autobuses integrales.
-
-7. Automóviles eléctricos.
-
-VI. Comerciantes en el ramo de vehículos, a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 40.
 
-No se pagará el impuesto, en los términos de este Capítulo, por la tenencia o uso de los siguientes vehículos:
-
-I. Los eléctricos utilizados para el transporte público de personas.
-
-II. Los importados temporalmente en los términos de la legislación aduanera.
-
-III. Los vehículos de la Federación, Estado y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos y los utilizados por la fuerzas armadas en el ejercicio de sus funciones.
-
-IV. Los automóviles al servicio de misiones Diplomáticas y Consulares, siempre que sea exclusivamente para uso oficial y exista reciprocidad.
-
-V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los quince días siguientes a aquel en que tenga lugar el hecho de que se trate, en la proporción que resulte de aplicar el factor establecido en el artículo 33.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ### CAPITULO QUINTO. IMPUESTO POR SERVICIOS DE HOSPEDAJE
 
@@ -563,57 +449,33 @@ OBJETO
 
 ###### ARTICULO 41.
 
-Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y III del artículo anterior, para gozar del beneficio que el mismo establece, deberán comprobar ante la autoridad competente que se encuentran comprendidos en dichos supuestos.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 42.
 
-En esta Sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicletas.
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 43.
 
-Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de multiplicar el peso máximo, incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $9,557.00 (NUEVE MIL QUINIENTOS CINCUENTA Y SIETE PESOS 00/100 M.N.), para aeronaves de pistón, turbohélice y helicópteros, y por la cantidad de $10,294.00 (DIEZ MIL DOSCIENTOS NOVENTA Y CUATRO PESOS 00/100 M.N.), para aeronaves de reacción.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 44.
 
-Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 45.
 
-Tratándose de motocicletas nuevas, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
-
-TARIFA
-
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 25 DE NOVIEMBRE DE 2011, PÁGINA 10.</small>
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 46.
 
-Tratándose de vehículos de más de diez años de fabricación anteriores al de aplicación de esta Ley, el impuesto se pagará conforme a la siguiente:
-
-TABLA
-
-TIPO CUOTA
-
-$
-
-PISTON (HELICE) 2,115.74
-
-TURBOHELICE 11,710.12
-
-REACCION 16,918.38
-
-HELICOPTEROS 2,600.99
-
-Tratándose de motocicletas de más de diez años modelo anteriores al de aplicación de esta Ley, pagarán un impuesto de $100.00 (CIEN PESOS 00/100 M.N.)
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 47.
 
-Tratándose de automóviles eléctricos nuevos, así como de aquellos eléctricos nuevos, que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto se pagará a la tasa de 0%.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ### CAPITULO SEXTO. DEL IMPUESTO POR REMEDIACION AMBIENTAL EN LA EXTRACCION DE MATERIALES PETREOS
 
@@ -621,59 +483,23 @@ OBJETO
 
 ###### ARTICULO 48.
 
-Para los efectos de lo dispuesto en los artículos 38, 43, 45 y 46 de esta Ley, los montos de las cantidades que en los mismos se señalan se actualizarán conforme a lo establecido en el artículo 3 de esta Ley.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 49.
 
-No se pagará el impuesto en los términos de este Capítulo por la tenencia o uso de los siguientes vehículos:
-
-I. Los importados temporalmente en los términos de la Ley Aduanera.
-
-II. Los vehículos de la Federación, Estado y Municipios que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, y las ambulancias dependientes de cualquiera de estas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos y los utilizados por la fuerzas armadas en el ejercicio de sus funciones.
-
-III. Los que tengan para su venta los fabricantes, las plantas ensambladoras, distribuidoras y los comerciantes del ramo de vehículos.
-
-IV. Las embarcaciones dedicadas a la pesca comercial.
-
-V. Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga.
-
-Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los quince días siguientes a aquel en que tenga lugar el hecho de que se trate.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 50.
 
-Las autoridades competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones y los certificados de matrícula para las aeronaves, se abstendrán de expedirlos cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere esta Ley, a excepción de los casos en que se encuentre liberado de ese pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales del Estado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 51.
 
-Tratándose de aeronaves usadas de hasta nueve años de antigüedad, el impuesto será la cantidad que resulte de multiplicar el peso máximo incluyendo la carga de la aeronave expresado en toneladas, por la cantidad de $7,313.00 (SIETE MIL TRESCIENTOS TRECE PESOS 00/100 M.N.) para aeronaves de pistón, turbo hélice y helicópteros y por la cantidad de $7,877.00 (SIETE MIL OCHOCIENTOS SETENTA Y SIETE PESOS 00/100 M.N.) para aeronaves de reacción.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
-Al resultado obtenido, se multiplicará por el factor que corresponda conforme a los años de antigüedad de la aeronave de acuerdo a la siguiente tabla:
-
-TABLA
-
-Años de antigüedad Factor
-
-1 0.900
-
-2 0.889
-
-3 0.875
-
-4 0.857
-
-5 0.833
-
-6 0.800
-
-7 0.750
-
-8 0.667
-
-9 0.500
-
-La cantidad obtenida conforme al párrafo anterior, se actualizará con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de octubre del año inmediato anterior entre el citado índice del mes de octubre del año anterior al señalado, de conformidad a lo dispuesto en el artículo 3 de esta Ley, obteniendo el importe a pagar.
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2012)</small>
+ARTICULO 51 A.- (DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTÍCULO 51-A.
 
@@ -715,95 +541,11 @@ III. La cantidad obtenida conforme a la fracción anterior, se actualizará con 
 
 ###### ARTICULO 52.
 
-Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo anteriores al de aplicación de esta Ley, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
-
-I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
-
-TABLA
-
-Años de Factor de
-
-Antigüedad depreciación
-
-1 1.000
-
-2 0.725
-
-3 0.725
-
-4 0.500
-
-5 0.500
-
-6 0.300
-
-7 0.300
-
-8 0.150
-
-9 0.150
-
-10 0.000
-
-> <small>(REFORMADA, P.O. 10 DE JULIO DE 2012)</small>
-
-II. La cantidad obtenida conforme a la fracción anterior, se actualizará con el factor que resulte de dividir el Índice Nacional de Precios al Consumidor del mes de octubre del año inmediato anterior entre el citado índice del mes de octubre del año anterior al señalado, de acuerdo a lo dispuesto en el artículo 3 de esta Ley y al resultado se le aplicará la tarifa a que hace referencia el artículo 38 fracción I de esta Ley.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE JULIO DE 2012)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 53.
 
-Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-I. El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
-
-TABLA
-
-Años de antigüedad Factor de depreciación
-
-1 0.9250
-
-2 0.8500
-
-3 0.7875
-
-4 0.7250
-
-5 0.6625
-
-6 0.6000
-
-7 0.5500
-
-8 0.5000
-
-9 0.4500
-
-10 0.4000
-
-11 0.3500
-
-12 0.3000
-
-13 0.2625
-
-14 0.2250
-
-15 0.1875
-
-16 0.1500
-
-17 0.1125
-
-18 0.0750
-
-19 0.0375
-
-II. La cantidad obtenida conforme a la fracción anterior, se actualizará de acuerdo a lo dispuesto en el artículo 3 de esta Ley y al resultado se le aplicará la tasa a que hace referencia el artículo 44 de esta Ley.
-
-Para los efectos de la depreciación y actualización a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ### CAPITULO SEPTIMO. DEL IMPUESTO SOBRE INGRESOS POR PREMIOS DERIVADOS DE LOTERIAS, RIFAS, SORTEOS, JUEGOS CON APUESTAS Y CONCURSOS
 
@@ -813,65 +555,27 @@ OBJETO
 
 ### CAPITULO PRIMERO. POR SERVICIOS DE LA SECRETARIA DE GOBIERNO
 
-#### SECCION PRIMERA. AUTOMOVILES
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+#### SECCIÓN PRIMERA. AUTOMOVILES
 
 ###### ARTICULO 54.
 
-Tratándose de motocicletas de fabricación nacional o importadas, de hasta nueve años modelo anteriores al de aplicación de esta Ley, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
-El valor total de la motocicleta se multiplicará por el factor de depreciación, de acuerdo al año modelo de la motocicleta, de conformidad con la siguiente:
-
-TABLA
-
-Años de antigüedad Factor de depreciación
-
-1 0.9
-
-2 0.8
-
-3 0.7
-
-4 0.6
-
-5 0.5
-
-6 0.4
-
-7 0.3
-
-8 0.2
-
-9 0.1
-
-La cantidad obtenida conforme al párrafo anterior se actualizará de acuerdo a lo dispuesto en el artículo 3 de esta Ley y al resultado se le aplicará la tarifa a que hace referencia el artículo 45 de esta Ley.
-
-Para efectos de la depreciación a que se refiere este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda la motocicleta.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 55.
 
-Los fabricantes, ensambladores y distribuidores autorizados, así como los comerciantes en el ramo de vehículos, tendrán la obligación de proporcionar a las autoridades fiscales del Estado, a más tardar el día diecisiete de cada mes, la información relativa al precio de enajenación al consumidor de cada unidad vendida en el Estado en el mes inmediato anterior, a través de dispositivos electromagnéticos procesados en los términos que señalen dichas autoridades. Los que tengan más de un establecimiento, deberán presentar la información a que se refiere este artículo, haciendo la separación por cada uno de los establecimientos.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 56.
 
-Es objeto de este impuesto, la tenencia o uso de vehículos automotores modelo de más de diez años de fabricación anteriores al ejercicio fiscal en curso, a que se refiere el artículo 38, fracción III de esta Ley, así como de todo tipo de remolques cualquiera que sea su modelo.
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
-
-TASA
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 57.
 
-El Impuesto Sobre Tenencia o Uso de Vehículos, a que se refiere el artículo anterior, se pagará conforme a las siguientes:
-
-TARIFA
-
-I. Automóviles, camionetas, tractores no agrícolas $300.00 (TRESCIENTOS PESOS 00/100 M.N.).
-
-II. Minibuses, microbuses, camiones de carga autobuses integrales y ómnibuses $360.00 (TRESCIENTOS SESENTA PESOS 00/100 M.N.); y
-
-III. Remolques y semirremolques $170.00 (CIENTO SETENTA Y SIETE PESOS 00/100 M.N.)
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 58.
 
@@ -939,7 +643,7 @@ Para efectos de este artículo se consideran piedras preciosas, los señalados e
 
 SUJETO
 
-#### SECCION SEGUNDA. OTROS VEHICULOS
+#### SECCIÓN SEGUNDA. OTROS VEHICULOS
 
 ###### ARTICULO 67.
 
@@ -953,11 +657,7 @@ Es base de este impuesto el volumen de materiales pétreos o de los derivados a 
 
 TASA
 
-#### SECCION TERCERA. VEHICULOS USADOS DE HASTA NUEVE AÑOS DE ANTIGÜEDAD
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
-
-> <small>(REFORMADO, P.O. 10 DE JULIO DE 2012)</small>
+#### SECCIÓN TERCERA. VEHICULOS USADOS DE HASTA NUEVE AÑOS DE ANTIGÜEDAD
 
 ###### ARTICULO 69.
 
@@ -1014,8 +714,6 @@ SUJETO
 ### CAPITULO SEGUNDO. POR SERVICIOS DE LA SECRETARIA DE FINANZAS
 
 #### SECCION QUINTA. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS DE MAS DE 10 AÑOS DE FABRICACIÓN
-
-OBJETO
 
 ###### ARTICULO 74.
 
@@ -2399,29 +2097,29 @@ Los servicios que presta la Secretaría de Infraestructura, causarán los derech
 
 I. Por la expedición del permiso para la instalación de anuncios publicitarios y señalamientos informativos dentro o fuera del derecho de vía de las carreteras y caminos locales, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-1. Anuncios publicitarios que tienen una superficie total hasta de 25 metros cuadrados: 50 Unidades de Cuenta en el Estado.
+1. Anuncios publicitarios que tienen una superficie total hasta de 25 metros cuadrados: 50 Unidades de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-2. Anuncios publicitarios que tienen una superficie total hasta de 50 metros cuadrados: 60 Unidades de Cuenta en el Estado.
+2. Anuncios publicitarios que tienen una superficie total hasta de 50 metros cuadrados: 60 Unidades de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-3. Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados: 120 Unidades de Cuenta en el Estado.
+3. Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados: 120 Unidades de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-4. Señales informativas: 50 Unidades de Cuenta en el Estado.
+4. Señales informativas: 50 Unidades de Medida y Actualización.
 
 > <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 II. Por el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y carreteras estatales, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-1. Para obra e instalaciones superficiales, subterráneas o aéreas marginales dentro del derecho de vía, por cada 100 metros o fracción que exceda de dicha longitud: 60 Unidades de Cuenta en el estado.
+1. Para obra e instalaciones superficiales, subterráneas o aéreas marginales dentro del derecho de vía, por cada 100 metros o fracción que exceda de dicha longitud: 60 Unidades de Medida y Actualización.
 
 2. Por la autorización para la construcción de accesos que afecten el derecho de vía en caminos y carreteras, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
 
@@ -2429,9 +2127,9 @@ II. Por el otorgamiento de permisos para la construcción de obras dentro del de
 
 3. Por el otorgamiento de permiso anual para la instalación y/o operación de paradores 2% sobre el costo total de la obra.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-4. Para obras de cruzamiento superficiales, subterráneas o aéreas dentro del derecho de vía, por cada 100 metros o fracción que exceda dicha longitud: 100 Unidades de Cuenta en el Estado.
+4. Para obras de cruzamiento superficiales, subterráneas o aéreas dentro del derecho de vía, por cada 100 metros o fracción que exceda dicha longitud: 100 Unidades de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
@@ -2439,17 +2137,19 @@ II. Por el otorgamiento de permisos para la construcción de obras dentro del de
 
 Por el otorgamiento de permiso anual para la instalación de cualquier tipo de dispositivo para el control de tránsito dentro del derecho de vía: 25 Unidades de Cuenta en el Estado.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>N. DE E. EL CONTENIDO DEL PRESENTE NUMERAL ES SIMILAR AL CONTENIDO DEL PÁRRAFO SEGUNDO DEL NUMERAL 5, VÉASE PUBLICACIONES OFICIALES DE FECHAS 22 DE DICIEMBRE DE 2015 Y 23 DE DICIEMBRE DE 2016.]</small>
 
-6. Por el otorgamiento de permiso para el remozamiento, pintura, rotulación, reparación, conservación mantenimiento de cualquier tipo de obra; elemento de equipamiento, mobiliario o dispositivos para el control de tránsito que se encuentren dentro del derecho de vía: 1% del valor de la obra.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+6. Por el otorgamiento de permiso anual para la instalación de cualquier tipo de dispositivo para el control de tránsito dentro del derecho de vía: 25 Unidades de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 7. Por el otorgamiento de permiso anual para la explotación y/o operación de bancos de material en el derecho de vía o zonas laterales: 50 Unidades de Cuenta en el Estado.
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-8. Por el otorgamiento de permiso para la instalación de cercas o barreras laterales en sus diversas modalidades que se ubiquen en el derecho de vía: 2% del valor total de la obra.
+8. Por el otorgamiento de permiso anual para la explotación y/o operación de bancos de material en el derecho de vía o zonas laterales: 50 Unidades de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
@@ -2595,7 +2295,7 @@ XXIX. Por nuevo reconocimiento de validez oficial de estudios a planes y program
 
 XXX. Por duplicado de acuerdo de incorporación $200.00 (DOSCIENTOS PESOS 00/100 M.N.)
 
-XXXI. Por expedición de duplicados de certificado de estudios de educación básica ya sea parciales o completos $100.00 (CIEN PESOS 00/100 M.N.).
+XXXI. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2016)
 
 XXXII. Por constancia de estudio y certificación parcial de estudios $100.00 (CIEN PESOS 00/100 M.N.).
 
@@ -3648,3 +3348,23 @@ Publíquese en el Periódico Oficial del Gobierno del Estado.
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 715.- SE REFORMAN LOS NUMERALES 1, 2, 3, Y 4 DE LA FRACCIÓN I, ASÍ COMO LOS NUMERALES 1, 4, 6 Y 8 DE LA FRACCIÓN II DEL ARTÍCULO 141-A; SE DEROGAN LOS ARTÍCULOS 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 51- A, 52, 53, 54, 55, 56 Y 57, ASÍ COMO LA FRACCIÓN XXXI DEL ARTÍCULO 142, TODOS DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, CONTENIDA EN EL DECRETO NO. 541, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO NO. 94 DE FECHA 25 DE NOVIEMBRE DE 2011".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil diecisiete.
+
+###### ARTÍCULO SEGUNDO.
+
+Las obligaciones en materia del Impuesto Sobre Tenencia o uso de Vehículos, pendientes de pagar del ejercicio 2016 y anteriores, deberán de enterarse conforme a las disposiciones de la Ley de Hacienda para el Estado de Coahuila de Zaragoza, vigentes al momento de su causación.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
