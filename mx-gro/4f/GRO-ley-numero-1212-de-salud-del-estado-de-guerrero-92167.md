@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2015-10-09"
+last_updated: "2016-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 7 DE MARZO DE 2017, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -45,9 +47,11 @@ LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 1.
 
-Esta ley tiene por objeto fortalecer el Sistema Estatal de atención a la Salud, estableciendo las bases para que la población alcance y mantenga el mayor nivel de salud, a través de políticas, programas y servicios, que se establezcan en el marco de la estrategia de “Atención Primaria de Salud”, permitiendo la acción coordinada del Estado, las instituciones y la sociedad, para la creación de un ambiente sano y saludable que brinde servicios de mayor calidad, incluyentes y equitativos, donde el centro y objetivo de todos los esfuerzos sean los guerrerenses.
+Esta ley es de orden público, interés social y de observancia general para el Estado de Guerrero, y tiene por objeto fortalecer el Sistema Estatal de atención a la Salud, estableciendo las bases para que la población alcance y mantenga el mayor nivel de salud, a través de políticas, programas y servicios, que se establezcan en el marco de la estrategia de “Atención Primaria de Salud”, permitiendo la acción coordinada del Estado, las instituciones y la sociedad, para la creación de un ambiente sano y saludable que brinde servicios de mayor calidad, incluyentes y equitativos, donde el centro y objetivo de todos los esfuerzos sean los guerrerenses.
 
 ###### ARTICULO 2.
 
@@ -117,7 +121,9 @@ En la aplicación y prestación de los servicios, y en el ejercicio de los progr
 
 14. Prevención de la enfermedad. Es el enfoque de precaución que se aplica a la gestión del riesgo, a la evaluación de los procedimientos y la prestación de los servicios de salud. La prevención de la enfermedad abarca las medidas destinadas no solamente a prevenir la aparición de la enfermedad, tales como la reducción de los factores de riesgo, sino también a detener su avance y atenuar sus consecuencias una vez establecida. La prevención de la enfermedad es la acción que normalmente emana del sector sanitario, y que considera a los individuos y las poblaciones como expuestos a factores de riesgo identificables que suelen estar a menudo asociados a diferentes comportamientos de riesgo.
 
-### CAPITULO II. DE LAS AUTORIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO II. DE LAS AUTORIDADES Y DE LA ADMINISTRACIÓN ESTATAL DE SALUD
 
 ###### ARTICULO 7.
 
@@ -129,39 +135,117 @@ II. El Secretario de Salud, quien podrá delegar facultades en servidores públi
 
 III. Los ayuntamientos en los términos de los convenios que celebren con el Gobierno del Estado, la Secretaría de Salud en el Estado, de conformidad con esta ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 8.
 
-En observancia a lo dispuesto en el artículo 19 de la Ley General de Salud, la Secretaría de Salud Estatal es el órgano rector del Sistema Estatal de Salud, teniendo como objetivos prestar servicios de salud en la entidad, tanto en materia de salud pública como de atención médica; promover la interrelación sistemática de acciones que en la materia lleven a cabo la Federación y el Estado; ejercer el control sanitario en el ámbito de su competencia; y realizar las demás acciones que establezcan las disposiciones legales aplicables.
+La Secretaría de Salud es la autoridad rectora del Sistema Estatal de Salud, teniendo como objetivo impulsar integralmente los programas de salud en la entidad, tanto en materia de salud pública como de atención médica, promoviendo la interrelación sistemática de acciones entre la Federación y el Estado; ejerciendo facultades de autoridad sanitaria en su ámbito de competencia, con las atribuciones que le confiere la Ley Orgánica de la Administración Pública del Estado de Guerrero.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 9.
 
-El Sistema Estatal de Salud se integrará por las dependencias y entidades públicas y sociales, y las personas físicas y morales de los sectores social y privado que presten servicios de salud en el Estado.
+El Sistema Estatal de Salud se integrará por la Secretaría, las dependencias, entidades, los organismos públicos descentralizados y administrativos desconcentrados, y las personas físicas y morales de los sectores social y privado que presten servicios de salud en el Estado.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 10.
 
-La Secretaría de Salud, aplicará y respetará las condiciones generales de trabajo de la Secretaría de Salud del Gobierno Federal y sus reformas futuras, así como los Reglamentos de Escalafón y Capacitación, que permita la promoción del personal a cargos directivos en función de criterios de profesionalismo y capacidad demostrada; para controlar y estimular al personal de base de la Secretaría de Salud por su asistencia, puntualidad y permanencia en el trabajo, y; para evaluar y estimular al personal de la Secretaría de Salud por su productividad en el trabajo. Asimismo, el de becas, y el Reglamento y Manual de Seguridad e Higiene, elaborados conforme a la normatividad Federal aplicable en sus relaciones laborales con los trabajadores provenientes de la Secretaría de Salud, para que procedan a su registro ante los organismos jurisdiccionales correspondientes. Lo anterior, con el propósito de que se apliquen en las controversias que se diriman por la autoridad jurisdiccional.
+La Secretaría de Salud y los Servicios Estatales de Salud, respectivamente aplicarán y respetarán las condiciones generales de trabajo de la Secretaría de Salud del Gobierno Federal y sus reformas, así como los reglamentos de escalafón y capacitación, que permitan la promoción del personal a cargos directivos en función de criterios de profesionalismo y capacidad demostrada; para controlar y estimular al personal de base por su asistencia, puntualidad y permanencia en el trabajo; para evaluar y estimular al personal de base por su productividad en el trabajo, y el de becas, así como el Reglamento y Manual de Seguridad e Higiene, elaborados conforme a la normatividad federal aplicable en sus relaciones laborales con los trabajadores provenientes de la Secretaría de Salud Federal, para que procedan a su registro ante los organismos jurisdiccionales correspondientes. Lo anterior, con el propósito de que se apliquen en las controversias que se diriman por la autoridad.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 11.
 
-La Secretaría de Salud, contará con la siguiente estructura para su Dirección y Administración:
+La Secretaría de Salud contará con la estructura administrativa siguiente:
 
-I. Secretario de Salud;
+I. Secretario (a)
 
-II. Subsecretario de Planeación.
+II. Subsecretaría de Planeación;
 
-III. Subsecretario de Prevención y Control de Enfermedades;
+III. Subsecretaría de Prevención y Control de Enfermedades;
 
-IV. Subsecretario de Regulación, Control y Fomento Sanitario;
+IV. Subsecretaría de Administración y Finanzas;
 
-V. Subsecretario de Administración y Finanzas;
+V. Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero;
 
-VI. Contralor Interno, y,
+VI. Dirección General de Asuntos Jurídicos y Derechos Humanos;
 
-VI (SIC). Directores Generales.
+VII. Contraloría Interna;
+
+VIII. Directores Generales, y,
+
+IX. Unidad de Innovación Clínica y Epidemiológica del Estado de Guerrero.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 11 BIS. El Secretario de Salud, tendrá las atribuciones siguientes:
+
+I. Representar legalmente a la Secretaría de Salud, ante todo tipo de autoridades, con carácter de apoderado legal, con todas las facultades generales y aun las especiales que requieran poder o cláusula especial para su ejercicio en los términos del primer párrafo del artículo 2475 del Código Civil del Estado Libre y Soberano de Guerrero y sus correlativos de la entidad federativa en que vaya a ejercitarse el mandato, de manera enunciativa y no limitativa tendrá poder para pleitos y cobranzas y ejercer actos de administración, así como para:
+
+a) Promover y desistirse de toda clase de juicios, recursos y procedimientos judiciales;
+
+b) Transigir;
+
+c) Comprometer en árbitros;
+
+d) Articular y absolver posiciones en nombre de la mandante;
+
+e) Recusar;
+
+f) Hacer y recibir pagos;
+
+g) Presentar denuncias y querellas en materia penal y desistirse de las mismas cuando lo permita la ley, asimismo, para otorgar perdón en materia penal cuando éste sea procedente y para constituirse en coadyuvante del Ministerio Público en representación de la mandante, y,
+
+h) Otorgar y sustituir poderes en nombre de la Secretaría de Salud.
+
+II. Establecer, dirigir y coordinar en congruencia con los planes nacionales y estatales, las políticas en materia de salud en el Estado;
+
+III. Elaborar el anteproyecto de presupuesto de egresos de la Secretaría de Salud y someterlo a consideración del Ejecutivo Estatal;
+
+IV. Elaborar los proyectos de programas de la Secretaría de Salud y someterlos a consideración del Ejecutivo Estatal;
+
+V. Acordar con el Ejecutivo del Estado, los asuntos encomendados a la Secretaría de Salud y al Sector Salud, cuando así se requiera;
+
+VI. Celebrar convenios y acuerdos de coordinación o colaboración, contratos y demás actos jurídicos que sean indispensables para el cumplimiento de las funciones y objetivos de la Secretaría de Salud, conforme a las políticas, bases y programas generales que los regulen;
+
+VII. Proponer al Gobernador del Estado el nombramiento y remoción de los titulares de los órganos administrativos desconcentrados dependientes de la Secretaría de Salud, conforme a los acuerdos de creación de los mismos;
+
+VIII. Proponer al Ejecutivo del Estado los proyectos de iniciativa de leyes, reglamentos, decretos, acuerdos y ordenamientos sobre los asuntos de la competencia de la Secretaría de Salud y del Sector Salud;
+
+IX. Conocer y vigilar la debida aplicación de los recursos financieros asignados a la Secretaría de Salud;
+
+X. Aprobar, junto con el titular del área respectiva, los manuales de organización, de procedimientos y servicios al público de conformidad con la normatividad que establezca la Secretaría de Contraloría y Transparencia Gubernamental;
+
+XI. Establecer y operar un sistema de seguimiento de las políticas, convenios y acuerdos de coordinación o colaboración;
+
+XII. Integrar comités técnicos para el estudio y propuesta de mecanismos que aseguren la coordinación interinstitucional en la prestación de los servicios de salud, así como de grupos de trabajo temporales;
+
+XIII. Dar cuenta por escrito del estado que guarde la Secretaría de Salud y comparecer para que informe cuando se discuta una ley o se estudie un asunto relacionado con el ámbito de su competencia, previa solicitud del Congreso del Estado y con anuencia del Ejecutivo Estatal;
+
+XIV. Delegar facultades en servidores públicos subalternos, para llevar a cabo los actos administrativos internos y de trámite;
+
+XV. Designar y remover a los servidores públicos que no correspondan su nombramiento por el Gobernador del Estado;
+
+XVI. Coordinar los organismos públicos descentralizados y organismos administrativos desconcentrados, cuyas actividades correspondan al ámbito de su competencia;
+
+XVII. Conocer de las quejas y denuncias formuladas en contra de servidores públicos de la Secretaría de Salud, que incurran en responsabilidad administrativa y aplicar la sanción correspondiente, conforme a lo establecido en la ley de la materia;
+
+XVIII. Resolver los recursos administrativos que se interpongan en contra de asuntos competencia de la Secretaría de Salud;
+
+XIX. Convocar y llevar a cabo en representación de la Secretaría de Salud, los procedimientos de licitación, en todas y cada una de sus etapas hasta la recepción de los bienes licitados, así como toda clase de actos jurídicos tendientes al cumplimiento forzoso de los resultados de éstas en términos de la normatividad existente en materia de adquisiciones, arrendamientos y obras públicas federal y estatal;
+
+XX. Gestionar los recursos necesarios para la operación de la Secretaría de Salud;
+
+XXI. Expedir acuerdos de delegación de facultades a las unidades administrativas competentes, en los términos de las atribuciones que esta Ley le confiere, así como los demás acuerdos que sean necesarios para el correcto desarrollo de la Secretaría de Salud, los cuales deberán publicarse en el Periódico Oficial del Gobierno del Estado, y
+
+XXII. Las demás que le señale la presente Ley, la Ley de Entidades Paraestatales del Estado de Guerrero, los ordenamientos jurídicos aplicables y las que con carácter de no delegables le confiera el Gobernador del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 12.
 
-El Secretario de Salud y los Subsecretarios serán nombrados y removidos por el Gobernador del Estado; en el caso del Secretario deberá reunir los siguientes requisitos:
+Al titular o a la titular de la Secretaría, Subsecretarías y de la Comisión para la Protección contra Riesgos Sanitarios del Estado de Guerrero, los nombrará y removerá el Gobernador del Estado, y deberán reunir los requisitos siguientes:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos políticos y mayor de 25 años de edad;
 
@@ -181,13 +265,89 @@ Las multas a que se refiere esta Ley, así como su cobro, tienen carácter de fi
 
 La Secretaría de Salud en su carácter fiscal autónomo, está facultada, en los términos de la legislación fiscal aplicable, para determinar el importe de las multas a que se refiere el artículo anterior, señalar las bases para su liquidación y fijarlas en cantidad líquida.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 16.
 
-Los pagos que deben efectuarse por los conceptos señalados en el artículo anterior, se harán en las oficinas de la Secretaría de Finanzas del Estado o en las que ésta autorice.
+Los pagos que deben efectuarse por los conceptos señalados en el artículo anterior, se harán en las oficinas de la Secretaría de Finanzas y Administración del Estado o en las que ésta autorice.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 17.
 
-El cobro y ejecución de los créditos no cubiertos, estarán a cargo de la Secretaría de Finanzas del Estado, en los términos de la legislación fiscal aplicable.
+El cobro y ejecución de los créditos no cubiertos, estarán a cargo de la Secretaría de Finanzas y Administración del Estado, en los términos de la legislación fiscal aplicable.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 BIS. Se crea los Servicios Estatales de Salud como organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría de Salud, con domicilio legal en la ciudad de Chilpancingo, Guerrero, tiene por objeto operar los servicios de salud pública en el Estado, para los efectos de la administración y operación se sujetará a lo establecido en los artículos 19 y 20 de la Ley General de Salud, a la presente Ley y demás disposiciones aplicables.
+
+El patrimonio de los Servicios Estatales de Salud, estará constituido por:
+
+I. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los gobiernos federal, estatal y municipal y los organismos del sector social y productivo que coadyuven a su financiamiento;
+
+II. Los legados y donaciones otorgados a su favor, y los productos de los fideicomisos en lo que se señale como fideicomisario;
+
+III. Los derechos, bienes muebles e inmuebles que adquiera por cualquier título legal;
+
+IV. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y demás ingresos que adquiera por cualquier título legal, y
+
+V. Otras aportaciones que reciba derivadas de convenios de colaboración con organismos de cooperación nacionales e internacionales con fines encomendados al mismo.
+
+Los bienes patrimonio de los Servicios Estatales de Salud no estarán sujetos a contribuciones estatales; tampoco estarán gravados los actos y contratos en lo que intervenga y serán inalienables e inembargables por ser de interés público.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 TER. Los Servicios Estales de Salud para el logro de su objeto, tendrá las atribuciones siguientes:
+
+I. Organizar y operar en el Estado de Guerrero los servicios de salud a la población abierta en materia de salubridad general y de protección contra riesgos sanitarios, conforme a lo que establece el Acuerdo de Coordinación;
+
+II. Realizar todas aquellas acciones tendientes a garantizar el derecho a la protección de la salud de los habitantes del Estado;
+
+III. Llevar a cabo la protección contra riesgos sanitarios en los términos de la Ley General de Salud, la presente Ley y los acuerdos de coordinación;
+
+IV. Apoyar a la entidad en la coordinación de los programas y servicios de salud de las secretarías, dependencias o entidades en los términos de la legislación aplicable y de los acuerdos de coordinación;
+
+V. Promover la ampliación de la cobertura de la prestación de los servicios de salud, apoyando los programas que para tal efecto elabore la Secretaría de Salud del Gobierno Federal;
+
+VI. Impulsar en sus términos los convenios que al efecto se suscriban para la desconcentración y la descentralización de los servicios de salud a los municipios;
+
+VII. Formular, coordinar y realizar la evaluación de los programas y servicios de salud que le sean solicitados por el Ejecutivo Estatal;
+
+VIII. Administrar los recursos que le sean asignados, las cuotas de recuperación, así como las aportaciones que reciba de otras personas o instituciones;
+
+IX. Formular recomendaciones competentes sobre la asignación de los recursos que requieren los programas de salud en el Estado;
+
+X. Determinar la periodicidad y características de la información que deberán proporcionar las secretarías, dependencias y entidades de salud en el Estado, con sujeción a las disposiciones generales aplicables;
+
+XI. Coadyuvar a que la información y distribución de los recursos humanos para la salud sean congruentes con las prioridades del Sistema Estatal de Salud;
+
+XII. Coadyuvar con las dependencias federales competentes en la regulación y control de la transferencia de tecnología en el área de salud;
+
+XIII. Difundir a las autoridades correspondientes y a la población en general, a través de publicaciones y actos académicos, los resultados de los trabajos de investigación, estudio, análisis y de recopilación de información, documentación e intercambio que realice;
+
+XIV. Promover e impulsar la participación de la comunidad del Estado en el cuidado de su salud, y
+
+XV. Las demás que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 QUATER. La Secretaría de Salud y los Servicios Estatales de Salud, tendrán a su cargo la aplicación en el ámbito estatal de la legislación sanitaria federal y estatal, en los términos convenidos en el Acuerdo de Coordinación correspondiente y de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 QUINQUIES. Los Servicios Estatales de Salud contarán con un Director General y un Consejo de Administración presidido por el Gobernador Constitucional del Estado o por la persona que éste designe quien no podrá ser el Secretario de Salud.
+
+El cargo del Director General de los Servicios Estatales de Salud será honorífico y será ostentado por el Secretario de Salud del Estado de Guerrero, quien absorberá todas las atribuciones y obligaciones inherentes al cargo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 SEXIES. El Director General de los Servicios Estatales de Salud representará legalmente a los Servicios Estatales de Salud, ante todo tipo de autoridades, con carácter de apoderado legal, con todas las facultades generales establecidas al Secretario de Salud, en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 17 SEPTIES. La integración del Consejo de Administración, operación y atribuciones del Organismo Público Descentralizado Servicios Estatales de Salud, así como la forma de toma de decisiones, convocatoria de sesiones, se establecerán en su reglamento interior.
+
+La relación laboral con sus trabajadores se regirá de conformidad con lo dispuesto en el artículo 10 de la presente Ley.
 
 ### CAPITULO III. DISTRIBUCION DE COMPETENCIAS
 
@@ -283,7 +443,7 @@ XV. Prevenir la invalidez y rehabilitar a los inválidos;
 
 XVI. Prestar asistencia social;
 
-XVII. Verificar y controlar el funcionamiento sanitario de los establecimientos públicos que expendan o suministren alimentos y bebidas no alcohólicas en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en las normas que al efecto se emitan; y, (sic)
+XVII. Verificar y controlar el funcionamiento sanitario de los establecimientos públicos que expendan o suministren alimentos y bebidas no alcohólicas en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, basándose en las normas que al efecto se emitan; y,
 
 XVIII. Prestar atención especializada a los senescentes;
 
@@ -370,6 +530,52 @@ XIII. Coadyuvar a que la formación y distribución de los recursos humanos para
 XIV. Diseñar y ejecutar programas de salud para prevenir y atender la violencia escolar conocida como bullying, y
 
 XV. Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 20 BIS. La Secretaría de Salud ejercerá las atribuciones de regulación, control y fomento sanitarios que conforme a la presente Ley y los demás ordenamientos jurídicos aplicables le corresponden a dicha dependencia, a través de un órgano desconcentrado que se denominará Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero.
+
+Para efectos de lo dispuesto en el párrafo anterior compete a la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero:
+
+I. Efectuar la evaluación de riesgos a la salud en las materias de su competencia, así como identificar y evaluar los riesgos para la salud humana que generen los sitios en donde se manejen residuos peligrosos y emergencias sanitarias;
+
+II. Proponer al Secretario de Salud la política estatal de protección contra riesgos sanitarios así como su instrumentación en materia de: establecimientos de salud; medicamentos y otros insumos para la salud; disposición de órganos, tejidos, células de seres humanos y sus componentes; alimentos y bebidas, productos de perfumería, belleza y aseo; tabaco, plaguicidas, nutrientes vegetales, sustancias tóxicas o peligrosas para la salud; productos biotecnológicos, suplementos alimenticios, materias primas y aditivos que intervengan en la elaboración de los productos anteriores; así como de prevención y control de los efectos nocivos de los factores ambientales en la salud del hombre, salud ocupacional y saneamiento básico;
+
+III. Elaborar y expedir las normas técnicas estatales relativas a los productos, actividades, servicios y establecimientos materia de su competencia;
+
+IV. Evaluar, expedir o revocar las autorizaciones que en las materias de su competencia se requieran, así como aquellos actos de autoridad que para la regulación, el control y el fomento sanitario se establezcan o deriven de esta Ley, su reglamento interior, las normas oficiales mexicanas y los demás ordenamientos aplicables;
+
+V. Expedir certificados oficiales de condición sanitaria de procesos, productos, métodos, instalaciones, servicios o actividades relacionadas con las materias de su competencia;
+
+VI. Ejercer el control y vigilancia sanitarios de los productos señalados en la fracción II de este artículo, de las actividades relacionadas con los primeros, de su importación y exportación, así como de los establecimientos destinados al proceso de dichos productos y los establecimientos de salud;
+
+VII. Ejercer el control y vigilancia sanitarios de la publicidad de las actividades, productos y servicios a los que se refiere esta Ley y sus reglamentos;
+
+VIII. Ejercer el control y la vigilancia sanitarios de las donaciones y trasplantes de órganos y tejidos y células de seres humanos, que sean de su competencia;
+
+IX. Ejercer las atribuciones que esta Ley y sus reglamentos le confieren a la Secretaría de Salud en materia de sanidad internacional, con excepción de lo relativo a personas;
+
+X. Imponer sanciones y aplicar medidas de seguridad en el ámbito de su competencia;
+
+XI. Ejercer las atribuciones que la presente Ley, la Ley Orgánica de la Administración Pública del Estado de Guerrero, y los demás ordenamientos aplicables le confieren a la Secretaría de Salud en materia de efectos del ambiente en la salud, salud ocupacional, residuos peligrosos, saneamiento básico y accidentes que involucren sustancias tóxicas, peligrosas o radiaciones;
+
+XII. Participar, en coordinación con las unidades administrativas competentes de la Secretaría de Salud, en la instrumentación de las acciones de prevención y control de enfermedades, así como de vigilancia epidemiológica, especialmente cuando éstas se relacionen con los riesgos sanitarios derivados de los productos, actividades o establecimientos materia de su competencia, y
+
+XIII. Las demás facultades que otras disposiciones legales aplicables le confieren a la Secretaría de Salud en las materias que conforme a lo dispuesto en este artículo sean competencia de la Comisión.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 20 TER. El órgano desconcentrado a que se refiere el artículo anterior, tendrá únicamente autonomía administrativa, técnica y operativa y su presupuesto estará constituido por:
+
+I. Las asignaciones que establezca la Ley de Ingresos y el Presupuesto de Egresos de la Federación y del Estado, y
+
+II. Los recursos financieros que le sean asignados, así como aquellos que, en lo sucesivo, se destinen a su servicio.
+
+Los ingresos que la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero, obtenga por concepto de donativos nacionales, rescate de seguros y otros ingresos de carácter excepcional podrán ser recuperados por dicha Comisión y destinados a su gasto de operación conforme a lo que establezca el Presupuesto de Egresos de la Federación y del Estado para el ejercicio fiscal correspondiente
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 20 QUATER. Al frente de la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero estará un Comisionado Estatal, el cual será nombrado por el Gobernador del Estado, a propuesta del Secretario de Salud; siendo la Secretaría de Salud a quien corresponderá la supervisión de este órgano desconcentrado.
 
 ###### ARTICULO 21.
 
@@ -2549,21 +2755,29 @@ III. Las condiciones socio-económicas y las características culturales del inf
 
 IV. La calidad de reincidente del infractor.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 320.
 
-Se sancionará con multa de cien hasta quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate; la violación de las disposiciones contenidas en los artículos 57; 58; 83; 100; 120; 121; 122; 134; 175; 176; 180; 182; 183; 184; 185; 189; 192; 199; 205; 206; 207; 209; 221; 253; 275; 275 (sic); y, demás disposiciones aplicables de esta Ley.
+Se sancionará con multa de cien hasta quinientas veces del valor de la Unidad de Medida y Actualización vigente; la violación de las disposiciones contenidas en los artículos 57; 58; 83; 100; 120; 121; 122; 134; 175; 176; 180; 182; 183; 184; 185; 189; 192; 199; 205; 206; 207; 209; 221; 253; 275; y demás disposiciones legales aplicables de esta Ley.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 321.
 
-Se sancionará con multa de quinientos hasta mil veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones contenidas en los artículos: 124; 130; 188; 191; 195; 206; 215; 219; 235; 238; 250; y, demás relativos aplicables de esta Ley.
+Se sancionará con multa de quinientos hasta mil veces del valor de la Unidad de Medida y Actualización vigente, la violación de las disposiciones contenidas en los artículos: 124; 130; 188; 191; 195; 206; 215; 219; 235; 238; 250; y demás relativos aplicables de esta Ley.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 322.
 
-Se sancionará con multa equivalente de mil hasta cuatro mil veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones contenidas en los artículos 72; 97; 100; 113; 194; 207; 246; y, demás disposiciones aplicables de esta Ley.
+Se sancionará con multa equivalente de mil hasta cuatro mil veces del valor de la Unidad de Medida y Actualización vigente, la violación de las disposiciones contenidas en los artículos 72; 97; 100; 113; 194; 207; 246; y demás disposiciones aplicables de esta Ley.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 323.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por cinco mil veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 319 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por cinco mil veces del valor de la Unidad de Medida y Actualización vigente, atendiendo las reglas de calificación que se establecen en el artículo 319 de esta Ley.
 
 ###### ARTICULO 324.
 
@@ -2862,3 +3076,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Guerrero, para los efectos legales conducentes
+
+P.O. 23 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 425 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. El titular de la Secretaría de Salud deberá poner a consideración del Presidente del Consejo de Administración de los Servicios Estatales de Salud, en un término no mayor a 90 días naturales, contados a partir de la publicación del presente Decreto, el Reglamento Interior del Organismo Público Descentralizado Servicios Estatales de Salud.
+
+TERCERO. En un plazo de 90 días naturales, contados a partir de la publicación del presente Decreto, el Secretario de Salud deberá emitir el Reglamento Interior de la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero.
+
+CUARTO. El Organismo Público Descentralizado Servicios Estatales de Salud, la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero, y la Unidad de Innovación Clínica y Epidemiológica del estado de Guerrero, operarán con los mismos recursos humanos, materiales y financieros asignados a cada una de las áreas y con los que han venido operando, por la Secretaría de Salud.
+
+QUINTO. Los asuntos que se encuentren en trámite en la Subsecretaría de Regulación, Control y Fomento Sanitario, a la entrada en vigor del presente Decreto, serán atendidos por la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero, hasta su conclusión.
+
+SEXTO. La Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero, buscará los mecanismos ante las autoridades competentes la ratificación de los acuerdos, convenios y demás disposiciones en materia de salud que contemplen la regulación, control y fomento sanitario, celebrados previos al presente Decreto por los Ejecutivos Federal, Estatal y Municipal, a fin de continuar con las acciones que en la materia emanen.
+
+SÉPTIMO. Se deroga el Acuerdo mediante el cual se delegan facultades en el Subsecretario de Regulación, Control y Fomento Sanitario dependiente de la Secretaría de Salud del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 70 de fecha 31 de agosto de 2010.
+
+OCTAVO. Se deroga el Decreto 440 por el que se Reforman y Adicionan diversas disposiciones de la Ley de Salud del Estado de Guerrero Número 159, publicado en el Periódico Oficial del Estado de Guerrero el 15 de octubre de 1999, así como todas aquellas disposiciones jurídicas y administrativas aplicables que se opongan al presente Decreto.
