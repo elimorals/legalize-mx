@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2016-10-28"
+last_updated: "2016-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "QUE"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE DICIEMBRE DE 2016 EN EL P.O. DEL ESTADO DE QUERÉTARO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 23 DE DICIEMBRE DE 2016 NO APLICA AL ARTICULADO DE LA LEY PUBLICADA EN EL P.O. DE 28 DE OCTUBRE DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -177,9 +177,9 @@ VI. Dar a conocer ante el Pleno el contenido de sus iniciativas y el alcance de 
 
 VII. Solicitar por sí o mediante las Comisiones a que pertenezcan, la información que para el ejercicio de sus facultades de investigación y representación requieran de las dependencias, organismos y entidades de los Poderes Ejecutivo, Judicial y Legislativo, de los organismos constitucionales autónomos y de las autoridades municipales del Estado; y
 
-> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-VIII. Contar con periodos de descanso, los días y fechas que corresponda a cada periodo, serán determinados por acuerdo de la Junta de Concertación Política.
+VIII. Contar con periodos de descanso, los días y fechas que corresponda a cada periodo, serán determinados por acuerdo de la Junta de Coordinación Política.
 
 #### Sección Segunda. Obligaciones
 
@@ -417,9 +417,11 @@ Serán inhábiles los periodos vacacionales autorizados por la Mesa Directiva, a
 
 (Aclaración de documentos para trámite legislativo) Antes de darle el trámite a la documentación que se presente para trámite legislativo, el Presidente de la Legislatura, en un plazo no mayor de cinco días, contados a partir de su recepción en la Oficialía de Partes, podrá requerir al autor las aclaraciones que estime pertinentes, o bien, solicitar el cumplimiento de los requisitos o la documentación complementaria que resulte indispensable para abocarse a su estudio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 36.
 
-(Trámite preferente de asuntos) En los trámites relacionados con las iniciativas del Poder Ejecutivo y del Poder Judicial, que a su solicitud de éstos requieran ser resueltos por la Legislatura en un plazo menor a los establecidos en la presente Ley para cada etapa del proceso legislativo, la Junta de Concertación Política podrá señalar plazos distintos, mismos que deberán de cumplir las dependencias y órganos del Poder Legislativo para tal efecto. De igual forma, se establecerán plazos menores para los asuntos que acuerde la Junta de Concertación Política.
+(Trámite preferente de asuntos) En los trámites relacionados con las iniciativas del Poder Ejecutivo y del Poder Judicial, que a su solicitud de éstos requieran ser resueltos por la Legislatura en un plazo menor a los establecidos en la presente Ley para cada etapa del proceso legislativo, la Junta de Coordinación Política podrá señalar plazos distintos, mismos que deberán de cumplir las dependencias y órganos del Poder Legislativo para tal efecto. De igual forma, se establecerán plazos menores para los asuntos que acuerde la Junta de Coordinación Política.
 
 En ningún caso podrá dispensarse alguna etapa del proceso legislativo.
 
@@ -607,9 +609,9 @@ VI. Hecho lo anterior, la Comisión presentará ante el Pleno el dictamen corres
 
 (Lista de oradores) Anunciada la discusión, se formará una lista de los diputados que pidan la palabra en contra o a favor, la cual se leerá de manera íntegra por un Secretario, antes de comenzar el debate.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-En caso de que las participaciones sean a favor de un dictamen, el registro de oradores será de hasta por tres diputados, privilegiando siempre la intervención de los integrantes de los distintos grupos y fracciones legislativas, salvo acuerdo previo emitido para tal efecto por la Junta de Concertación Política.
+En caso de que las participaciones sean a favor de un dictamen, el registro de oradores será de hasta por tres diputados, privilegiando siempre la intervención de los integrantes de los distintos grupos y fracciones, salvo acuerdo previo emitido para tal efecto por la Junta de Coordinación Política.
 
 ###### Artículo 55.
 
@@ -939,9 +941,11 @@ VI. Asuntos generales, mismos que no podrán dar inicio a algún trámite legisl
 
 Los dictámenes se enlistarán conforme al orden de su registro en la Oficialía de Partes, pudiendo, por su naturaleza, agruparse para su desahogo, sin perjuicio de alguien.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 98.
 
-(Formato de sesiones solemnes y comparecencias) En las sesiones solemnes, en aquellas en que vaya a recibirse la comparecencia de servidores públicos o en las que sesione conjuntamente con los otros Poderes, la Mesa Directiva acordará lo relativo al formato y deberá solicitar la opinión de la Junta de Concertación Política.
+(Formato de sesiones solemnes y comparecencias) En las sesiones solemnes, en aquellas en que vaya a recibirse la comparecencia de servidores públicos o en las que sesione conjuntamente con los otros Poderes, la Mesa Directiva acordará lo relativo al formato y deberá solicitar la opinión de la Junta de Coordinación Política.
 
 ###### Artículo 99.
 
@@ -1085,9 +1089,9 @@ I. Los Grupos y Fracciones Legislativas;
 
 II. La Mesa Directiva;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-III. La Junta de Concertación Política;
+III. La Junta de Coordinación Política;
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
 
@@ -1097,7 +1101,9 @@ IV. Las Comisiones ordinarias o especiales; y
 
 V. El Comité de Transparencia.
 
-Ningún diputado, podrá ocupar simultáneamente las Presidencias de la Mesa Directiva y de la Junta de Concertación Política.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Ningún diputado, podrá ocupar simultáneamente las Presidencias de la Mesa Directiva y de la Junta de Coordinación Política.
 
 Cuando por cualquier causa algún diputado suplente sustituya al propietario en sus funciones, sin necesidad de declaración expresa quedará integrado en los cargos y órganos en que venía desempeñándose el propietario. Se excluyen de lo dispuesto en este párrafo los coordinadores de los Grupos y Fracciones Legislativas y el Presidente de la Legislatura, quienes en todo caso requerirán de designación expresa por parte de su Grupo o Fracción o del Pleno, respectivamente.
 
@@ -1115,9 +1121,9 @@ Cuando por cualquier causa algún diputado suplente sustituya al propietario en 
 
 Los diputados independientes son aquellos que no militan en partido político alguno y se constituirán en Grupo o Fracción Legislativa.
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-En el supuesto de haber más de un diputado independiente, éstos constituirán un solo Grupo Legislativo, eligiendo entre ellos a quien fungirá como su Coordinador, el cual los representará en la Junta de Concertación Política y en las actividades que corresponda.
+En el supuesto de haber más de un diputado independiente, éstos constituirán un solo Grupo Legislativo, eligiendo entre ellos a quien fungirá como su Coordinador, el cual los representará en la Junta de Coordinación Política y en las actividades que corresponda.
 
 > <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
 
@@ -1141,9 +1147,9 @@ Corresponde a cada Grupo Legislativo establecer los mecanismos de elección y su
 
 (Recursos asignables y rendición de cuentas) Los Grupos y Fracciones Legislativas gozarán de los recursos que determine el presupuesto, en forma proporcional al número de integrantes que los constituyan.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-El ejercicio de los recursos por cada Grupo o Fracción Legislativos se realizará de acuerdo con el presupuesto aprobado y cada uno a través de su coordinador presentará en forma mensual a la Dirección de Servicios Financieros, la comprobación sobre la aplicación de los mismos, en los términos que acuerde la Junta de Concertación Política. Las cantidades no comprobadas serán reintegradas a la citada dependencia y será impedimento para la liberación de los recursos subsecuentes.
+El ejercicio de los recursos por cada Grupo o Fracción Legislativos se realizará de acuerdo con el presupuesto aprobado y cada uno a través de su coordinador presentará en forma mensual a la Dirección de Servicios Financieros, la comprobación sobre la aplicación de los mismos, en los términos que acuerde la Junta de Coordinación Política. Las cantidades no comprobadas serán reintegradas a la citada dependencia y será impedimento para la liberación de los recursos subsecuentes.
 
 Las relaciones contractuales entre las personas que no hayan sido contratadas por la Dirección de Servicios Administrativos y que presten servicios a los Grupos o Fracciones Legislativas, son responsabilidad de éstos, por lo que no causarán, en ningún momento, perjuicio a la Legislatura.
 
@@ -1187,7 +1193,9 @@ Cuando por cualquier causa no se celebre esta elección, la Mesa Directiva en fu
 
 I. Conducir las sesiones y ordenar el trabajo legislativo;
 
-II. Acordar el orden del día de las sesiones del Pleno, previa propuesta que haga el Presidente de la Mesa Directiva, consultando, de considerarse necesario, la opinión de la Junta de Concertación Política;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+II. Acordar el orden del día de las sesiones del Pleno, previa propuesta que haga el Presidente de la Mesa Directiva, consultando, de considerarse necesario, la opinión de la Junta de Coordinación Política;
 
 III. Llamar a los diputados suplentes respectivos;
 
@@ -1211,9 +1219,9 @@ XI. Habilitar recintos distintos a los declarados oficiales, para que la Legisla
 
 XII. Supervisar y ordenar el trabajo de la Dirección de Investigación y Estadística Legislativa;
 
-> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-XIII. Designar, en caso de ausencia temporal o definitiva de los titulares de las dependencias del Poder Legislativo, a propuesta de la Junta de Concertación Política, a quienes de manera interina deban llevar a cabo las funciones de los titulares; y
+XIII. Designar, en caso de ausencia temporal o definitiva de los titulares de las dependencias del Poder Legislativo, a propuesta de la Junta de Coordinación Política, a quienes de manera interina deban llevar a cabo las funciones de los titulares; y
 
 XIV. Ejercer las demás atribuciones que le confiera este ordenamiento y las normas que de él se deriven.
 
@@ -1251,7 +1259,9 @@ X. Solicitar a sus autores, la aclaración que estime pertinente de la documenta
 
 XI. Vigilar, con apoyo de los integrantes de la Mesa Directiva, que los acuerdos, iniciativas, dictámenes, proyectos, informes, propuestas, mociones, comunicados y demás escritos, cumplan con las normas que regulan su contenido y trámite; así como instar a las Comisiones para que emitan sus dictámenes en los términos de la presente Ley;
 
-XII. Turnar a los órganos y dependencias que correspondan, los asuntos de su competencia. Para ejercer esta facultad, el Presidente podrá consultar la opinión de los integrantes de la Junta de Concertación Política;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+XII. Turnar a los órganos y dependencias que correspondan, los asuntos de su competencia. Para ejercer esta facultad, el Presidente podrá consultar la opinión de los integrantes de la Junta de Coordinación Política;
 
 XIII. Declarar la aprobación o el rechazo de la Legislatura, respecto de los asuntos que le sean sometidos a votación;
 
@@ -1361,11 +1371,15 @@ De las sesiones de la Mesa Directiva se levantará acta por parte del Secretario
 
 Cuando exista empate en las votaciones de las resoluciones la Mesa Directiva, el Presidente tendrá voto de calidad.
 
-#### Sección Tercera. Junta de Concertación Política
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+#### Sección Tercera. Junta de Coordinación Política
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 135.
 
-(Función general e integración) La Junta de Concertación Política es el órgano encargado de procurar la toma de decisiones políticas de la Legislatura y se integra con los coordinadores de los Grupos y Fracciones Legislativas.
+(Función general e integración) La Junta de Coordinación Política es el órgano encargado de procurar la toma de decisiones políticas de la Legislatura y se integra con los coordinadores de los Grupos y Fracciones Legislativas.
 
 Para su funcionamiento tendrá un Presidente y un Secretario.
 
@@ -1373,21 +1387,25 @@ Para su funcionamiento tendrá un Presidente y un Secretario.
 
 (Asignación presupuestal) Para cumplir con sus atribuciones, contará con el presupuesto que le asigne la Legislatura, mismo que será ejercido por su Presidente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 137.
 
-(Rotación de cargos de la Junta y tiempo de su elección) Los cargos de Presidente y Secretario de la Junta de Concertación Política, se ocuparán rotativamente entre los coordinadores de cada uno de los Grupos y Fracciones Legislativas, en los términos, condiciones y procedimientos que acuerde la mayoría de la Junta de Concertación Política. Posteriormente, los coordinadores podrán ceder o intercambiar el periodo de la Presidencia y Secretaría, de conformidad con los acuerdos suscritos entre los interesados, sin perjuicio de los que no intervengan.
+(Rotación de cargos de la Junta y tiempo de su elección) Los cargos de Presidente y Secretario de la Junta de Coordinación Política, se ocuparán rotativamente entre los coordinadores de cada uno de los Grupos y Fracciones Legislativas, en los términos, condiciones y procedimientos que acuerde la mayoría de la Junta de Coordinación Política. Posteriormente, los coordinadores podrán ceder o intercambiar el periodo de la Presidencia y Secretaría, de conformidad con los acuerdos suscritos entre los interesados, sin perjuicio de los que no intervengan.
 
 El presidente y secretario que deban funcionar en el primer período de la Junta, serán electos por el Pleno, dentro de las primeras tres sesiones del ejercicio constitucional de la Legislatura.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 138.
 
-(Sustitución de integrantes de la Junta de Concertación Política) La sustitución de coordinadores ante la Junta se hará por escrito. Tratándose de Grupos Legislativos, en el escrito deberá constar la firma autógrafa de la mayoría de sus integrantes.
+(Sustitución de integrantes de la Junta de Coordinación Política) La sustitución de coordinadores ante la Junta se hará por escrito. Tratándose de Grupos Legislativos, en el escrito deberá constar la firma autógrafa de la mayoría de sus integrantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 139.
 
-(Competencia de la Junta de Concertación Política) Compete a la Junta de Concertación Política:
+(Competencia de la Junta de Coordinación Política) Compete a la Junta de Coordinación Política:
 
 I. Adoptar la toma de decisiones concertadas en todos los ámbitos y materias que al Poder Legislativo correspondan, las cuales comunicará al órgano o dependencia respectiva, para su debido cumplimiento;
 
@@ -1431,39 +1449,49 @@ XIII. Proponer a la Mesa Directiva, en caso de ausencia temporal o definitiva de
 
 XIV. Ejercer las demás atribuciones que le confieran esta Ley y otras disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 140.
 
-(Facultades del presidente de la Junta) Corresponde al presidente de la Junta de Concertación Política, convocarla a sesionar, coordinar sus actividades y hacer cumplir sus acuerdos.
+(Facultades del presidente de la Junta) Corresponde al Presidente de la Junta de Coordinación Política, convocarla a sesionar, coordinar sus actividades y hacer cumplir sus acuerdos.
 
-Cada presidente de la Junta de Concertación Política rendirá, al abandonar su cargo, un informe a sus integrantes, sobre el presupuesto ejercido durante su gestión.
+Cada Presidente de la Junta de Coordinación Política rendirá, al abandonar su cargo, un informe a sus integrantes, sobre el presupuesto ejercido durante su gestión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 141.
 
-(Sesiones de la Junta) La Junta de Concertación Política sesionará en las oficinas de su presidencia o donde se acuerde por la mayoría de sus integrantes, mediante convocatoria emitida por el Presidente de la misma o, en su defecto, por la mayoría de los integrantes, al menos dos veces al mes, pero en todo caso lo hará contando con la asistencia de la mayoría de sus integrantes.
+(Sesiones de la Junta) La Junta de Coordinación Política sesionará en las oficinas de su presidencia o donde se acuerde por la mayoría de sus integrantes, mediante convocatoria emitida por el presidente de la misma o, en su defecto, por la mayoría de los integrantes, al menos dos veces al mes, pero en todo caso lo hará contando con la asistencia de la mayoría de sus integrantes.
 
 En las sesiones de la Junta en las que se desahoguen asuntos de trámite legislativo, se convocará al Presidente de la Mesa Directiva y al Director de Asuntos Legislativos y Jurídicos.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 142.
 
-(Acuerdos) Los asuntos que sean del conocimiento de la Junta de Concertación Política y requieran de la emisión de un acuerdo o propuesta por parte de de (sic) ésta, serán consensuados por unanimidad de sus integrantes.
+(Acuerdos) Las decisiones de la Junta de Coordinación Política sobre los asuntos que sean de su conocimiento y requieran la emisión de un acuerdo o propuesta, serán adoptadas, preferentemente, por consenso, en caso de que éste no se obtenga será por mayoría de votos, ponderando el porcentaje de la representatividad que corresponda a los Coordinadores de los Grupos y Fracciones Legislativas presentes, atendiendo para ello al número de Diputados que los integre, en relación con la conformación total de la Legislatura en ejercicio constitucional.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 #### Sección Tercera bis. Del procedimiento para la ratificación y remoción de funcionarios electos por la Legislatura del Estado
 
-> <small>(ADICIONADO, P.O. 18 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-Artículo 142 bis. (Del procedimiento para la ratificación y remoción de Funcionarios) La Junta de Concertación Política determinará el procedimiento para la ratificación y remoción de funcionarios electos por la Legislatura del Estado, emitiendo para tal efecto dictamen debidamente fundado y motivado, sujetándose a los siguientes lineamientos:
+Artículo 142 bis. (Del procedimiento para la ratificación y remoción de funcionarios) La Junta de Coordinación Política determinará el procedimiento para la ratificación y remoción de funcionarios electos por la Legislatura del Estado, emitiendo para tal efecto dictamen debidamente fundado y motivado, sujetándose en los siguientes lineamientos:
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 I. Notificación al funcionario que corresponda, del inicio del procedimiento y sus consecuencias;
 
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 II. Establecer un periodo de ofrecimiento y desahogo de pruebas, así como dar a conocer las pruebas de la contraparte;
 
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
+
 III. Establecer un período de alegatos; y
+
+> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2013)</small>
 
 IV. Emitir el dictamen correspondiente.
 
@@ -1485,9 +1513,9 @@ Las Comisiones se tendrán por instaladas a partir de su integración y aprobaci
 
 La integración de las Comisiones podrá modificarse por acuerdo de la mayoría de los integrantes de la Legislatura.
 
-> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-Para el estudio y despacho de los asuntos que determine la Junta de Concertación Política o la Mesa Directiva, las comisiones podrán actuar unidas; en tal caso, todos los integrantes tendrán los mismos derechos y obligaciones, y serán presididas por quien designe la Junta.
+Para el estudio y despacho de los asuntos que determine la Junta de Coordinación Política o la Mesa Directiva, las comisiones podrán actuar unidas; en tal caso, todos los integrantes tendrán los mismos derechos y obligaciones, y serán presididas por quien designe la Junta.
 
 ###### Artículo 144.
 
@@ -1507,7 +1535,9 @@ V. Analizar, en las materias de su competencia, los informes que se rindan ante 
 
 VI. Emitir declaraciones y pronunciamientos no constitutivos de derechos u obligaciones legales;
 
-VII. Proponer a la Junta de Concertación Política, representantes de la Legislatura ante organismos públicos o privados que lo soliciten;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+VII. Proponer a la Junta de Coordinación Política, representantes de la Legislatura ante organismos públicos o privados que lo soliciten;
 
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2014)</small>
 
@@ -1735,17 +1765,17 @@ V. La Dirección de Investigación y Estadística Legislativa; y
 
 VI. La Coordinación de Comunicación Social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 163.
 
-(Designación de titulares) Dentro de las cuatro primeras sesiones del Pleno que lleve a cabo cada Legislatura entrante, posteriores a la de su instalación, se designará o ratificará a los titulares de las dependencias, con el voto de la mayoría de sus integrantes, mediante propuesta que realice la Junta de Concertación Política o, en su caso, por parte de cualquier diputado y sólo podrán ser removidos por causa grave justificada, en los términos de la legislación laboral aplicable.
+(Designación de titulares) Dentro de las cuatro primeras sesiones del Pleno que lleve a cabo cada Legislatura entrante, posteriores a la de su instalación, se designará o ratificará a los titulares de las dependencias, con el voto de la mayoría de sus integrantes, mediante propuesta que realice la Junta de Coordinación Política o, en su caso, por parte de cualquier diputado y sólo podrán ser removidos por causa grave justificada, en los términos de la legislación laboral aplicable.
 
 Los titulares en funciones continuarán desarrollando sus actividades de acuerdo a las facultades que les otorga la ley, hasta en tanto el Pleno de la Legislatura los ratifique o designe a otra persona.
 
-> <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-En caso de ausencia temporal o definitiva de los titulares de las dependencias del Poder Legislativo, la Mesa Directiva, a propuesta de la Junta de Concertación Política, designará a quienes de manera interina y hasta por un plazo de noventa días naturales, deban llevar a cabo las funciones de los titulares; plazo que podrá prorrogarse hasta en dos ocasiones, por periodos iguales, para el buen funcionamiento de la Legislatura.
+En caso de ausencia temporal o definitiva de los titulares de las dependencias del Poder Legislativo, la Mesa Directiva, a propuesta de la Junta de Coordinación Política, designará a quienes de manera interina y hasta por un plazo de noventa días naturales, deban llevar a cabo las funciones de los titulares; plazo que podrá prorrogarse hasta en dos ocasiones, por periodos iguales, para el buen funcionamiento de la Legislatura.
 
 ###### Artículo 164.
 
@@ -1765,7 +1795,9 @@ III. No estar inhabilitado para ejercer algún cargo público por resolución fi
 
 (Recursos) Las dependencias contarán con todos los recursos humanos, materiales y financieros que requieran para cumplir con sus funciones en apoyo del Poder Legislativo.
 
-Para este efecto, cada titular propondrá a la Junta de Concertación Política, en los primeros diez días del mes de octubre de cada año, el proyecto anual de egresos de la dependencia.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Para este efecto, cada titular propondrá a la Junta de Coordinación Política, en los primeros diez días del mes de octubre de cada año, el proyecto anual de egresos de la dependencia.
 
 ###### Artículo 167.
 
@@ -1773,11 +1805,11 @@ Para este efecto, cada titular propondrá a la Junta de Concertación Política,
 
 Para la función legislativa, se contará con el apoyo institucional del personal de las dependencias del Poder Legislativo, quienes no podrán ser instruidos por los diputados para realizar actividades ajenas al trabajo legislativo.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 168.
 
-(Estructura) Las dependencias tendrán la estructura que determine la Junta de Concertación Política, asegurando su óptimo desempeño, de acuerdo a la disponibilidad presupuestal.
+(Estructura) Las dependencias tendrán la estructura que determine la Junta de Coordinación Política, asegurando su óptimo desempeño, de acuerdo a la disponibilidad presupuestal.
 
 ###### Artículo 169.
 
@@ -1813,9 +1845,9 @@ VII. A través del personal a su cargo, prestar, conducir y controlar los servic
 
 VIII. Rendir y entregar ante la Comisión de Transparencia y Rendición de Cuentas, cuanto informe le requiera sobre su gestión;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-IX. Proponer conjuntamente con el Director de Servicios Financieros, a la Junta de Concertación Política, el proyecto del presupuesto de ingresos y egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en los artículos 139, fracción IV del presente ordenamiento y 24, último párrafo, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
+IX. Proponer conjuntamente con el Director de Servicios Financieros, a la Junta de Coordinación Política, el proyecto del presupuesto de ingresos y egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en los artículos 139, fracción IV del presente ordenamiento y 24, último párrafo, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
 
 X. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento;
 
@@ -1861,7 +1893,9 @@ XX. Tener a su cargo un Registro de Antigüedad Laboral que contendrá entre otr
 
 (Facultades y obligaciones de la Dirección de Servicios Financieros) Corresponde a la Dirección de Servicios Financieros:
 
-I. Auxiliar a la Junta de Concertación Política en la elaboración del presupuesto de ingresos y egresos de la Legislatura;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+I. Auxiliar a la Junta de Coordinación Política en la elaboración del presupuesto de ingresos y egresos de la Legislatura;
 
 II. Administrar los recursos financieros autorizados, de forma conjunta con el Director de Servicios Administrativos; en caso de ausencia de éste o del Director de Servicios Financieros o de ambos, el Presidente y el Secretario de la Comisión de Planeación y Presupuesto, por causa justificada, podrán librar los documentos de carácter mercantil que se requieran para el cumplimiento de las obligaciones económicas del Poder Legislativo;
 
@@ -1885,9 +1919,9 @@ XI. Intervenir en el proceso de entrega-recepción, de acuerdo con las prevencio
 
 XII. Ejecutar los acuerdos del Pleno de la Legislatura, en el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 4 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-XIII. Proponer conjuntamente con el Director de Servicios Administrativos, a la Junta de Concertación Política, el proyecto del presupuesto de ingresos y egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en los artículos 139, fracción IV del presente ordenamiento y 24, último párrafo, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
+XIII. Proponer conjuntamente con el Director de Servicios Administrativos, a la Junta de Coordinación Política, el proyecto del presupuesto de ingresos y egresos de la Legislatura, debiendo en todo caso cumplir con lo previsto en los artículos 139, fracción IV del presente ordenamiento y 24, último párrafo, de la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro;
 
 XIV. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y remitirlos a la Contraloría Interna para su conocimiento; y
 
@@ -1923,7 +1957,9 @@ VI. Llevar el registro de los asuntos que se remitan a las Comisiones para su tr
 
 VII. Rendir a la Legislatura informes trimestrales sobre los asuntos dictaminados y los que están en poder de las Comisiones, con especificación de las fechas en que se hayan turnado;
 
-VIII. Fungir como Secretario Técnico de la Junta de Concertación Política, cuando se traten asuntos de trámite legislativo;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+VIII. Fungir como Secretario Técnico de la Junta de Coordinación Política, cuando se traten asuntos de trámite legislativo;
 
 IX. Editar y circular entre los diputados la Gaceta Legislativa;
 
@@ -2045,9 +2081,11 @@ XIII. Ejercer las facultades y cumplir las obligaciones que le señale esta ley,
 
 #### Sección Séptima. Coordinación de Comunicación Social
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 186.
 
-(Función y ubicación orgánica) La Coordinación de Comunicación Social es la dependencia encargada de conducir la política de información institucional de la Legislatura y se encuentra orgánicamente subordinada a la Junta de Concertación Política.
+(Función y ubicación orgánica) La Coordinación de Comunicación Social es la dependencia encargada de conducir la política de información institucional de la Legislatura y se encuentra orgánicamente subordinada a la Junta de Coordinación Política.
 
 ###### Artículo 187.
 
@@ -2077,9 +2115,9 @@ VII. Elaborar y aprobar los manuales operativos de la dependencia a su cargo y r
 
 VIII. Administrar y actualizar el sitio oficial de la Legislatura en internet; y
 
-> <small>N. DE E. DEL ANÁLISIS REALIZADO A LA REFORMA PUBLICADA EN EL P.O. EL 18 DE OCTUBRE DE 2013, SE ADVIERTE QUE EL CONTENDIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL TEXTO ORIGINAL EN LA FRACCIÓN VIII.</small>
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-IX. Ejecutar las demás instrucciones que en materia de comunicación social reciba de la Junta de Concertación Política o, en su caso, del Pleno de la Legislatura.
+IX. Ejecutar las demás instrucciones que en materia de comunicación social reciba de la Junta de Coordinación Política o, en su caso, del Pleno de la Legislatura.
 
 ## Título Sexto. Suspensión o declaración de desaparición de Ayuntamientos, revocación de mandato, suspensión o inhabilitación de alguno de sus miembros
 
@@ -2442,3 +2480,13 @@ Artículo Primero. La presente Ley entrará en vigor a partir del día de su apr
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado para su debida publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 23 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día de su aprobación por el Pleno de la Quincuagésima Octava legislatura del Estado de Querétaro.
+
+Artículo Segundo. Remítase esta Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Tercero. Las menciones que se hagan a la "Junta de Concertación Política", en otros ordenamientos, acuerdos y consideraciones administrativas, serán entendidas a la denominación actual de "Junta de Coordinación Política".
