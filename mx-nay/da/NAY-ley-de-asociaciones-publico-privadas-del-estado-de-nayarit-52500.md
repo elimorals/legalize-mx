@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-asociaciones-publico-privadas-del-estado-de-nayarit-5250
 country: "mx"
 rank: "ley"
 publication_date: "2006-11-29"
-last_updated: "2016-10-21"
+last_updated: "2016-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52500&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE ASOCIACIONES PUBLICO PRIVADAS DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 23 DE DICIEMBRE DE 2016, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 23 DE DICIEMBRE DE 2016.]</small>
 
 Ley publicada en la Sección Décima Primera al Periódico Oficial del Estado de Nayarit, el miércoles 29 de noviembre de 2006.
 
@@ -135,9 +135,9 @@ XV.- Registro Público Único.- Es una dependencia a cargo de la Secretaría de 
 
 XVI.- Reglamento.- Reglamento de la presente Ley;
 
-> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-XVIII (SIC).- Secretaría.- A la Secretaría de Planeación Programación y Presupuesto del Estado;
+XVII.- Secretaría.- A la Secretaría de Planeación Programación y Presupuesto del Estado;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE OCTUBRE DE 2016)</small>
 
