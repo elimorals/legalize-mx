@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2016-11-08"
+last_updated: "2016-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "NAY"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE FEBRERO DE 2017 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Gobierno del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -1380,6 +1378,10 @@ III. Dos sentencias dictadas en procesos distintos, se hará la declaratoria de 
 ###### ARTÍCULO 158.
 
 La potestad para ejercer la acción penal, se extingue en los casos de cumplimiento de criterio de oportunidad, acuerdos reparatorios o de las condiciones decretadas en la suspensión condicional del proceso, en los términos previstos en el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 158 BIS.- La determinación firme de no ejercicio de la acción penal extingue la acción penal e inhibe una nueva persecución por los mismos hechos respecto del indiciado, salvo que sea por diversos hechos o en contra de diferente persona.
 
 # LIBRO SEGUNDO. DE LOS DELITOS EN PARTICULAR
 
@@ -4276,3 +4278,9 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 23 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE ADICIONA EL ARTÍCULO 158 BIS AL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, PUBLICADO EL SEIS DE SEPTIEMBRE DE DOS MIL CATORCE".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
