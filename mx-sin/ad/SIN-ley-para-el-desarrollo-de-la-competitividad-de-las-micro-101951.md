@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-el-desarrollo-de-la-competitividad-de-las-micro-101951
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-08"
-last_updated: "2014-08-08"
+last_updated: "2016-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA VIGENCIA DEL "DECRETO NÚMERO: 13 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA", PUBLICADO EN EL P.O. 23 DE DICIEMBRE DE 2016, VÉASE TRANSITORIO PRIMERO DE DICHO DECRETO.]</small>
+
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 8 de agosto de 2014.
 
@@ -461,7 +463,15 @@ XII. Instituir el Premio Estatal que reconozca la competitividad de las MIPYMES 
 
 XIII. Proponer los incentivos necesarios que permitan potencializar la competitividad de las MIPYMES; y,
 
-XIV. Emitir resolución de viabilidad en la cancelación de incentivos otorgados a las MIPYMES, misma que servirá de base a la Secretaría.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+XIII. Proponer los incentivos necesarios que permitan potencializar la competitividad de las MIPYMES;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+XIV. Aprobar la asignación de los créditos provenientes del Fondo de Apoyo; y,
+
+XV. Emitir resolución de viabilidad en la cancelación de incentivos otorgados a las MIPYMES, misma que servirá de base a la Secretaría.
 
 ### CAPÍTULO VII. DE LOS ESQUEMAS DE ASOCIACIÓN
 
@@ -533,9 +543,143 @@ La administración, integración y atribuciones de quienes integren este Fondo, 
 
 La Secretaría deberá elaborar y publicar en el periódico oficial "El Estado de Sinaloa", las reglas de operación así como la metodología, normatividad calendarización para la asignación de fondos públicos previstos en esta Ley.
 
-### CAPÍTULO IX. INCENTIVOS PARA LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS
+> <small>(ADICIONADO CON LA SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, 23 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO X. DE LA EXTINCIÓN Y CANCELACIÓN DE LOS INCENTIVOS
+### CAPÍTULO VIII BIS. DEL FONDO DE APOYO
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 37 Bis.
+
+El Fondo de Apoyo es una política pública de desarrollo empresarial, operada por la Secretaría de Desarrollo Económico del Gobierno del Estado en coadyuvancia con el Gobierno Federal, que tiene como objetivo apoyar a la Micro, Pequeñas y Medianas Empresas del Estado con créditos a las tasas más competitivas del mercado, en aquellos proyectos e inversiones productivas que sean viables y que generen empleo o autoempleo, mediante la creación de fideicomisos o de la administración directa de los órganos encargados de administrarlo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis A. El Fondo de Apoyo tiene por objeto:
+
+I. Impulsar el emprendedurismo en el Estado y la generación de nuevos empleos mediante la inyección de recursos etiquetados para el Fondo de Apoyo a través de su programación en el presupuesto de egresos;
+
+II. Establecer una coordinación interinstitucional con las dependencias del Gobierno Federal, Estatal y Municipal, así como con el sector social o privado, para implementar las acciones necesarias que permitan la consolidación y desarrollo empresarial en el Estado;
+
+III. Apoyar a la Micro, Pequeñas y Medianas Empresas del Estado, con créditos a las tasas más competitivas del mercado, en aquellos proyectos e inversiones productivas que sean viables, tomando como referencia los criterios para el otorgamiento de créditos establecidos por la Banca de Desarrollo y Comercial;
+
+IV. Contribuir a que los segmentos de la población en estado de desempleo abierto, es decir, sin trabajo, con disponibilidad para emplearse y en situación de búsqueda de empleo, se incorporen a la población económicamente activa; y,
+
+V. Brindar una herramienta idónea y permanente que enfrente el problema del desempleo y la falta de oportunidades de los sinaloenses.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis B. En la constitución del Fondo de Apoyo participará la Secretaría de Desarrollo Económico, el Gobierno Estatal, instituciones financieras y el Gobierno Federal mediante los apoyos concurrentes de colaboración convenida o por convenirse. Lo anterior, supeditado a que el Gobierno Federal se encuentre en dicha capacidad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis C. En el marco de las leyes y ordenamientos de carácter presupuestal, administrativos, hacendarios, de coordinación fiscal y de concurrencia con el Gobierno Federal, la Secretaría de Desarrollo Económico realizará las gestiones necesarias para la formalización de los instrumentos jurídicos a que haya lugar para la constitución del Fondo de Apoyo a que se refiere la presente Ley.
+
+Para la operación y desarrollo del Fondo de Apoyo se obtendrán los recursos por los conceptos a que se refiere el artículo 37 Bis D de esta Ley, a cuyo efecto la Secretaría de Desarrollo Económico realizará los estudios necesarios y propondrá los instrumentos pertinentes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis D. Para la constitución del Fondo de Apoyo se canalizarán recursos provenientes de:
+
+I. Una partida determinada en el Presupuesto de Egresos del Estado a la Secretaría de Desarrollo Económico;
+
+II. Los recursos que conforme a las disposiciones correspondientes y a los convenios de participación concurrente se celebren por la Secretaría de Desarrollo Económico, (sic) al efecto puedan destinar el Gobierno Federal y Estatal de encontrarse en capacidad para ello;
+
+III. Los recursos que conforme a las disposiciones correspondientes y a los convenios celebrados con las instituciones financieras se obtengan mediante los diversos mecanismos de apalancamiento;
+
+IV. La revolvencia del Fondo de Apoyo; y,
+
+V. Los apoyos, recursos e ingresos que el Consejo Estatal para la Competitividad de las Micro, Pequeñas y Medianas Empresas determine asignar al Fondo de Apoyo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis E. La administración del Fondo de Apoyo estará a cargo de la Secretaría de Desarrollo Económico en los términos de esta Ley.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN ÚNICA. DE LA OPERACIÓN Y DESARROLLO DEL FONDO DE APOYO
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis F. En el proyecto de presupuesto de egresos del Estado, se asignarán los recursos para la operación del Fondo de Apoyo.
+
+Del monto que se asigne, el cinco por ciento será utilizado para gastos de operación del Fondo de Apoyo y en ningún momento podrán ser destinados a sueldos, salarios o cualquier remuneración personal.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis G. La Secretaría de Desarrollo Económico como autoridad operadora del Fondo de Apoyo, será la encargada de realizar un estudio pormenorizado de los convenios celebrados con los organismos, instituciones y entidades gubernamentales de nivel federal y estatal con aportación concurrente de recursos, identificando aquel que genere la óptima multiplicación del Fondo de Apoyo.
+
+De no existir convenio de colaboración con algún organismo, institución o entidad que ofrezca mejores condiciones que aquellas con las que exista convenio, se priorizará la celebración del convenio correspondiente.
+
+Posterior al proceso de identificación el titular de la Secretaría, emitirá el acuerdo de asignación correspondiente que justifique las razones técnicas de su decisión, y seguirá el procedimiento correspondiente convenido para la obtención del recurso multiplicado. Dicha determinación deberá notificarse al Consejo Estatal para la Competitividad de las Micro, Pequeñas y Medianas Empresas.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis H. Obtenido el recurso multiplicado por los apoyos concurrentes referidos, la Secretaría de Desarrollo Económico realizará un estudio detallado de las entidades financieras con las que exista convenio de colaboración, para determinar cuál de ellas generará mejores rendimientos y tasas más bajas por apalancamiento financiero.
+
+De no existir convenio de colaboración con alguna entidad financiera que ofrezca mejores rendimientos y tasas, se priorizará la celebración de convenio correspondiente.
+
+Posterior al estudio realizado por la Secretaría de Desarrollo Económico, se emitirá el dictamen de asignación e inversión correspondiente, que expondrá las razones técnicas por las que se determinó la elección de una entidad o institución financiera en específico.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis I. Emitido el dictamen de asignación e inversión de los recursos, los mismos serán puestos a disposición de la entidad financiera determinada en dicho dictamen, en concepto de garantía para su apalancamiento y multiplicación.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis J. El monto que se obtenga posterior al proceso de apalancamiento financiero será distribuido por la Secretaría de Desarrollo Económico en los rubros de los sectores que considere necesarios, priorizando los microcréditos destinados a la creación de nuevos empleos o autoempleos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis K. La aprobación de los créditos provenientes del Fondo de Apoyo, será autorizado por el Consejo Estatal para Competitividad de las Micro, Pequeñas y Medianas Empresas.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis L. El Consejo Estatal para la Competitividad de las Micro, Pequeñas y Medianas Empresas determinará los mecanismos de orden administrativo y de control necesarios para garantizar la debida aplicación del Fondo de Apoyo y su gestión interna.
+
+Los gastos de operación serán priorizados en la capacitación de los solicitantes de los créditos del Fondo de Apoyo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis M. El Consejo Estatal para la Competitividad de las Micro, Pequeñas y Medianas Empresas, designará el Cuerpo Técnico del Fondo de Apoyo con los miembros que estime convenientes para el eficiente cumplimiento de los objetivos del Fondo de Apoyo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis N. El Consejo Estatal para la Competitividad de las Micro, Pequeñas y Medianas Empresas presentará un informe trimestral sobre el funcionamiento del Fondo de Apoyo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis O. Las actividades del Consejo Estatal para la Competitividad de las Micro, Pequeñas y Medianas Empresas se sujetarán a los principios de eficiencia, equidad y racionalidad en la aprobación de los créditos solicitados.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis P. El procedimiento para solicitar los créditos provenientes del Fondo de Apoyo será el siguiente:
+
+a) Presentación de la documentación requerida: Las personas interesadas en obtener un crédito del Fondo de Apoyo deberán presentar ante la Secretaría de Desarrollo Económico la documentación requerida en las reglas de operación.
+
+b) Evaluación realizada por el Cuerpo Técnico del Fondo de Apoyo: La documentación será revisada por el Cuerpo Técnico designado por la Secretaría de Desarrollo Económico para que determine si los solicitantes cumplen con los requisitos de la convocatoria.
+
+c) Capacitación: El Cuerpo Técnico del Fondo de Apoyo, evaluará y determinará si los solicitantes cuentan con capacitación y/o formación empresarial vigente para el debido manejo del crédito.
+
+En caso de no contar con formación empresarial alguna, la Secretaría de Desarrollo Económico brindará la capacitación necesaria a los solicitantes mediante los programas e instituciones que se encuentren activos y disponibles.
+
+En ningún caso podrá autorizarse el otorgamiento de créditos a quienes no cuenten con capacitación empresarial.
+
+d) Remisión de documentos al Consejo Estatal para la Competitividad de las Micro, Pequeñas y Medianas Empresas: El Cuerpo Técnico del Fondo de Apoyo, una vez verificado el cumplimiento de los requisitos de convocatoria, ley y formación empresarial, remitirá los documentos de los solicitantes al Consejo Estatal para la Competitividad de las Micro, Pequeñas y Medianas Empresas, para la aprobación de los créditos correspondientes.
+
+e) Aprobación del crédito por el Consejo Estatal para la Competitividad de las Micro, Pequeñas y Medianas Empresas: Los acuerdos de aprobación de las solicitudes de crédito que otorgue el Consejo Estatal para la Competitividad de las Micro, Pequeñas y Medianas Empresas, deberán argumentar las razones por las que se determina la viabilidad de los proyectos propuestos por los solicitantes y la aprobación de la solicitud del crédito.
+
+En caso que el Consejo determine negar el otorgamiento del crédito a alguno de los solicitantes, deberá argumentar las razones por las que se falló en dicho sentido.
+
+En ningún caso el Consejo Estatal para la Competitividad de las Micro, Pequeñas y Medianas Empresas, podrá autorizar un segundo crédito del Fondo de Apoyo a quien al momento de la solicitud adeude el crédito primigenio.
+
+f) Recuperación del crédito: Una vez aprobados los créditos, la Secretaría de Desarrollo Económico deberá establecer las condiciones de recuperación de los montos otorgados, fijando tasas de interés, plazos de pagos, aportaciones mensuales de acuerdo al monto. La recuperación del monto nunca deberá exceder de veinticuatro meses, para garantizar la revolvencia de los recursos económicos del Fondo de Apoyo.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+Artículo 37 Bis Q. La Secretaría de Desarrollo Económico será la encargada de dar a conocer las reglas de operación del Fondo de Apoyo, así como de su operación en forma permanente durante todo el año, a través de ventanillas físicas y electrónicas en las diversas dependencias e instituciones que integran su ordenamiento, así como el nombre de los beneficiarios de dicho Fondo de Apoyo en los portales de transparencia de Gobierno del Estado.
+
+### CAPÍTULO IX. INCENTIVOS PARA LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS
 
 ###### Artículo 38.
 
@@ -613,7 +757,7 @@ X. Inviertan en proyectos que contribuyan al mejoramiento y conservación del me
 
 Las MIPYMES que deseen acceder a los incentivos previstos por esta Ley, deberán presentar su solicitud por escrito a la Secretaría.
 
-### CAPÍTULO XI. DEL PROCEDIMIENTO DE INSPECCIÓN
+### CAPÍTULO X. DE LA EXTINCIÓN Y CANCELACIÓN DE LOS INCENTIVOS
 
 ###### Artículo 41.
 
@@ -651,7 +795,7 @@ VII. Simule acciones para hacerse acreedor a los mismos; y,
 
 VIII. No proporcionen la información que le sea requerida por la Secretaría, en los términos de la normatividad aplicable en la materia.
 
-### CAPÍTULO XII. DE LA APLICACIÓN DE SANCIONES
+### CAPÍTULO XI. DEL PROCEDIMIENTO DE INSPECCIÓN
 
 ###### Artículo 43.
 
@@ -709,7 +853,7 @@ II. Las medidas que el responsable deba llevar a cabo para corregir las deficien
 
 III. Los plazos para el cumplimiento de las obligaciones del infractor que se deriven de la resolución.
 
-### CAPÍTULO XIII. DEL RECURSO DE REVISIÓN
+### CAPÍTULO XII. DE LA APLICACIÓN DE SANCIONES
 
 ###### Artículo 50.
 
@@ -760,6 +904,8 @@ La Secretaría en uso de su prudente arbitrio podrá no imponer sanciones, cuand
 ###### Artículo 55.
 
 La Secretaría de Administración y Finanzas del Gobierno del Estado, para la ejecución de las sanciones económicas con base en la solicitud de la Secretaría, comunicará a la autoridad recaudadora competente, para hacer efectiva la sanción impuesta y proceda al cobro de la misma mediante el procedimiento económico coactivo.
+
+### CAPÍTULO XIII. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 56.
 
@@ -836,3 +982,19 @@ LIC. MARIO LÓPEZ VALDEZ
 El Secretario General de Gobierno
 
 C. GERARDO O. VARGAS LANDEROS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 13 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LAS MICRO, PEQUEÑAS Y MEDIANAS EMPRESAS DEL ESTADO DE SINALOA."]
+
+PRIMERO. La vigencia del presente Decreto será del 1ro. de enero al 31 de diciembre del año 2017, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El Fondo de Apoyo será por única ocasión, cuya vigencia será del primero de enero al 31 de diciembre del año 2017, de acuerdo al artículo primero transitorio del presente Decreto.
+
+La Secretaría de Desarrollo Económico determinará la denominación del Fondo de Apoyo previsto en el presente Decreto, para los efectos de su implementación y publicidad ante la sociedad sinaloense.
+
+La Secretaría de Desarrollo Económico en las reglas de operación, deberá prever mínimamente políticas para el acompañamiento y capacitación institucional de los solicitantes de créditos, así como un mecanismo de garantía con obligados solidarios de quienes tengan acceso a un crédito, para la recuperación del mismo.
+
+En las reglas de operación del Fondo de Apoyo se fijarán los mecanismos de evaluación y de pertinencia acorde a los resultados y recuperación de cartera.
