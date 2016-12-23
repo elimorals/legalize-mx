@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2016-11-08"
+last_updated: "2016-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,61 @@ state: "NAY"
 ---
 # LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
-LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
+REGLAMENTO DE LA GACETA MUNICIPAL DEL MUNICIPIO DE VILLA TEJUPAM DE LA UNIÓN, DISTRITO DE TEPOSCOLULA, OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+TEXTO ORIGINAL.
 
-Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
+Reglamento publicado en la Quinta Sección del Número 18 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de mayo de 2025.
 
-C.P. ANTONIO ECHEVARRIA DOMINGUEZ, Gobernador Constitucional del Estado Libre y Soberano de Nayarit, a los habitantes del mismo, sabed:
+REGLAMENTO DE LA GACETA MUNICIPAL DEL MUNICIPIO DE VILLA TEJUPAM DE LA UNIÓN, DISTRITO DE TEPOSCOLULA, OAXACA.
 
-Que el H. Congreso Local se ha servido dirigirme para su promulgación, el siguiente:
+C. Felipe Filogonio Montes Rojas, Presidente Municipal Constitucional de Villa Tejupam de la Unión, Distrito de Teposcolula, Oaxaca, en cumplimiento de lo dispuesto en los artículos 43 fracción I, 56 fracción XVIII, 68 fracción IV y 136 de la Ley Orgánica Municipal del estado de Oaxaca, a todos los habitantes del municipio hago saber:
 
-DECRETO NUMERO 8345
+Que el Ayuntamiento de Villa Tejupam de la Unión, Distrito de Teposcolula, Oaxaca, en Sesión Extraordinaria celebrada el día 09 de abril del 2025, ha tenido a bien aprobar y expedir los siguientes acuerdos:
 
-El H. Congreso del Estado Libre y Soberano de Nayarit, representado por su XXVI Legislatura
+PRIMERO. Se aprueba la creación de la Gaceta Municipal del H. Ayuntamiento de Villa Tejupam de la Unión, Distrito de Teposcolula, Oaxaca.
 
-D E C R E T A
-
-LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
+SEGUNDO. Se aprueba la expedición del reglamento de la gaceta municipal del H. Ayuntamiento de Villa Tejupam de la Unión, Distrito de Teposcolula, Oaxaca, para quedar como sigue:
 
 ## TÍTULO PRIMERO
 
-### CAPÍTULO ÚNICO. Disposiciones generales al régimen municipal
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+###### Artículo 1.
+
+El presente reglamento es de orden público e interés social y tiene por objeto regular la elaboración, publicación y distribución de la Gaceta Municipal de Villa Tejupam de la Unión, Distrito de Teposcolula, Oaxaca.
+
+###### Artículo 2.
+
+El presente reglamento tiene como objeto realizar la publicación y divulgación de las determinaciones del Ayuntamiento.
+
+###### Artículo 3.
+
+Corresponde al Presidente Municipal la publicación de los reglamentos, circulares y disposiciones administrativas de observancia general que emita el Ayuntamiento, debiendo realizarse en la Gaceta Municipal para efectos de su difusión y vigencia legal.
+
+###### Artículo 4.
+
+El Presidente Municipal se auxiliará de la Secretaría del Ayuntamiento, para dar cumplimiento a lo dispuesto en el presente reglamento.
+
+###### Artículo 5.
+
+Corresponde a la Secretaría Municipal, lo siguiente:
+
+I. La operación, control y vigilancia de las publicaciones efectuadas en la Gaceta Municipal.
+
+II. Realizar la publicación fiel y oportuna en la Gaceta Municipal de Documentos de Carácter General y Documentos de Naturaleza Interna, que sean remitidos para el efecto.
+
+III. Instrumentar los registros estadísticos de las publicaciones de la Gaceta Municipal.
+
+IV. Conservar, controlar y organizar las publicaciones.
+
+V. Informar al Presidente Municipal cuando hubiere necesidad de realizar la fe de erratas de los textos publicados, así como corregir los errores cuando lo justifique plenamente el mismo o lo determine el Ayuntamiento.
+
+VI. Las demás que señalen los reglamentos Municipales.
+
+###### Artículo 6.
+
+Las publicaciones deberán realizarse preferentemente en días hábiles y por excepción en días inhábiles.
 
 ###### ARTICULO 1o.
 
@@ -161,7 +195,41 @@ g) Coadyuvar con las autoridades y organismos competentes en materia de defensa 
 
 ## TÍTULO SEGUNDO
 
-### CAPÍTULO I. Organización territorial y administrativa de los municipios
+### CAPÍTULO SEGUNDO. DEL CONTENIDO Y PERIODICIDAD DE LA PUBLICACIÓN
+
+###### Artículo 7.
+
+Se publicará en la Gaceta Municipal lo siguiente:
+
+I. El bando de Policía y Gobierno, los reglamentos que emita el Ayuntamiento.
+
+II. Plan de desarrollo Municipal.
+
+III. Los acuerdos, circulares y disposiciones que sean de observancia general.
+
+IV. Los acuerdos, convenios o cualquier otro compromiso de interés para el Municipio y sus habitantes.
+
+V. Las convocatorias para la celebración de consultas a la ciudadanía y circulares;
+
+VI. La información de carácter institucional o reseñas culturales, biográficas y geográficas de interés para el municipio; y
+
+VII. Aquellos actos que por su propia importancia social lo determine así el Presidente Municipal o el Ayuntamiento.
+
+###### Artículo 8.
+
+La Gaceta Municipal al publicarse deberá contener los siguientes datos:
+
+I. El nombre;
+
+II. El escudo oficial del Ayuntamiento
+
+III. Año de publicación; y
+
+IV. Número de ejemplar.
+
+###### Artículo 9.
+
+Los acuerdos o resoluciones a que se refiere el artículo 7, aprobados por el Ayuntamiento, deberán ser expedidos y promulgados por el Presidente Municipal para su publicación y firmados por la Secretaria Municipal.
 
 ###### ARTICULO 5o.
 
@@ -183,23 +251,15 @@ El nombre de los municipios y sus cabeceras, así como las categorías y denomin
 
 Para erigir nuevos municipios dentro de los límites de los ya existentes, modificar su territorio o suprimir aquellos que no reúnan las condiciones para proveer a su existencia política, se aplicarán los procedimientos y reunirán los requisitos que señala la Ley de División Territorial del Estado. La resolución que emita el Congreso será inatacable.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-Para su organización administrativa y territorial, los municipios se dividirán en:
-
-I.- Cabeceras municipales;
-
-> <small>(REFORMADA, P.O. 28 DE MAYO DE 2014)</small>
-
-II.- Delegaciones municipales, para ciudades y poblaciones que cuenten con mayor número de población y/o para aquellas que se encuentren asentadas en los lugares que geográficamente permitan el mejor desempeño de sus respectivas atribuciones, y
-
-III.- Juzgados auxiliares, para rancherías y pequeñas comunidades.
+La Gaceta Municipal se imprimirá en cantidad suficiente y necesaria para su debida difusión y distribución. Se distribuirá de manera gratuita a los integrantes del Ayuntamiento, en la Agencia Municipal, a los organismos auxiliares municipales, así como a cualquier institución o particular que lo solicite.
 
 ### CAPÍTULO II. De la población del municipio
 
-###### ARTICULO 11.
+###### Artículo 11.
 
-Son habitantes de un municipio las personas que residan habitual o permanentemente en su territorio.
+Los errores contenidos en las publicaciones serán corregidos con la errata respectiva y siempre que se constante que existe discrepancia entre el texto del dictamen aprobado y la publicación efectuada en la Gaceta Municipal.
 
 ###### ARTICULO 12.
 
@@ -3838,6 +3898,36 @@ VI.- La comisión, en caso de que no se llegue al acuerdo que se señala en la f
 VII.- Desahogadas las pruebas, la comisión deberá emitir su dictamen dentro de los quince días naturales siguientes al desahogo de la última prueba, presentándolo al pleno en la sesión próxima inmediata a la conclusión del citado término, para su discusión y aprobación, en su caso.
 
 ## TRANSITORIOS
+
+PRIMERO. El presente Reglamento entrara en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Reglamento en materia de publicaciones.
+
+C. FELIPE FILOGONIO MONTES ROJAS.
+
+PRESIDENTE MUNICIPAL
+
+C. ARTEMIA TRUJILLO ORTIZ
+
+SINDICO MUNICIPAL
+
+C. FELIX RUIZ CRUZ
+
+REGIDOR DE HACIENDA
+
+C. ADRIÁN PÉREZ ROJAS
+
+REGIDOR DE ECOLOGÍA
+
+C. GLORIA BETANZOS GUTIÉRREZ
+
+REGIDORA DE PANTEÓN.
+
+C. JHOSELIN ESPINOZA CRUZ
+
+SECRETARIA MUNICIPAL
+
+En términos del artículo 92 Fracción IV de la Ley Orgánica Municipal para el Estado de Oaxaca.
 
 ###### ARTICULO PRIMERO.
 
