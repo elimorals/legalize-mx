@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2016-08-19"
+last_updated: "2016-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -634,6 +634,12 @@ Para conducir un vehículo automotor es necesario estar en pleno uso de sus facu
 ###### ARTICULO 88.
 
 Queda prohibido a toda persona conducir un vehículo en estado de ebriedad o bajo la influencia de cualquier droga o substancia tóxica que disminuya en forma notable su aptitud para conducir, aún cuando por prescripción médica esté autorizado para su uso.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 88 BIS. Queda prohibido a los conductores, operar o accionar teléfonos celulares o cualquier aparato o dispositivo electrónico y de comunicación mientras los vehículos se encuentren en movimiento; con excepción de los conductores de vehículos de paso preferencial o emergencia, siempre y cuando se esté utilizando equipo de comunicación exclusivo de la dependencia o corporación a la que pertenezca.
+
+La violación a la presente disposición se sancionará conforme a lo previsto en la fracción III del artículo 170 de esta Ley.
 
 ###### ARTICULO 89.
 
@@ -2112,3 +2118,15 @@ SEGUNDO. El Ejecutivo del Estado deberá realizar las adecuaciones correspondien
 Hasta en el (sic) tanto no se incluyan las sanciones administrativas en los términos del artículo 270 a la presente Ley y su Reglamento, continuarán vigentes las previstas en el tabulador de infracciones y sanciones.
 
 TERCERO. La Dirección de Vialidad y Transportes realizará las medidas pertinentes para que las personas que actualmente prestan el servicio de transporte escolar obtengan la concesión correspondiente en los términos previstos en el presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 5 QUE ADICIONA EL ARTÍCULO 88 BIS A LA LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado deberá armonizar lo establecido por el presente Decreto, en el Tabulador de Infracciones y Sanciones de la Ley de Tránsito y Transportes del Estado de Sinaloa y su Reglamento General, en un plazo de sesenta días a partir del inicio de su vigencia.
