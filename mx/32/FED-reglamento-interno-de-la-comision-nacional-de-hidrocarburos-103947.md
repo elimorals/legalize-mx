@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-de-hidrocarburos-103
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-12-22"
-last_updated: "2016-12-16"
+last_updated: "2016-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103947&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-08"
 
 REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el lunes 22 de diciembre de 2014.
 
@@ -146,6 +146,10 @@ a. Dirección General de Dictámenes de Extracción;
 b. Dirección General de Reservas y Recuperación Avanzada;
 
 c. Dirección General de Medición;
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2016)</small>
+
+d. Dirección General de Comercialización de Producción;
 
 VII. Unidad de Administración Técnica de Asignaciones y Contratos;
 
@@ -853,9 +857,11 @@ Facultades de la Dirección General de Medición. La Dirección General de Medic
 
 I. Dar seguimiento y verificar el cumplimiento de las obligaciones de los Asignatarios y Contratistas en materia de medición de Hidrocarburos;
 
-II. Dar seguimiento y verificar la producción de Hidrocarburos de los Asignatarios y Contratistas;
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2016)</small>
 
-III. Coordinar las actividades relacionadas con la comercialización de Hidrocarburos y contratos relacionados;
+II. Dar seguimiento y verificar la medición de la producción de Hidrocarburos de los Asignatarios y Contratistas;
+
+III. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 2016)
 
 IV. Verificar que el Asignatario y Contratista cuente con sistemas directos e indirectos de medición de volúmenes extraídos de Petróleo, Gas Natural y Condensados, ubicados en cada pozo, campo y punto de transferencia de custodia;
 
@@ -864,6 +870,28 @@ V. Proponer los indicadores de referencia para evaluar la eficiencia de los sist
 VI. Instalar sistemas de medición para verificar el funcionamiento de los medidores instalados por los Asignatarios y Contratistas, y
 
 VII. Las demás funciones, encargos y asuntos que le encomienden, el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las demás que sean necesarias para el ejercicio de su competencia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 31 Bis.
+
+Facultades de la Dirección General de Comercialización de Producción. La Dirección General de Comercialización de Producción estará adscrita a la Unidad Técnica de Extracción, acordará con su Titular el despacho de los asuntos de su competencia y tendrá las facultades siguientes:
+
+I. Dar seguimiento a los reportes de producción por parte de los Asignatarios y los Contratistas que se consideran para el cálculo de las Contraprestaciones, así como de los derechos e impuestos correspondientes;
+
+II. Iniciar, tramitar y resolver los actos relacionados con los procedimientos de ajuste que deriven de los reportes de producción y que se requieran para la comercialización, así como para el cálculo de las Contraprestaciones, derechos e impuestos correspondientes;
+
+III. Difundir y remitir a las unidades administrativas de la Comisión y a las autoridades competentes la información de producción de Hidrocarburos que se requiera para el cálculo de las Contraprestaciones, derechos e impuestos correspondientes;
+
+IV. Proporcionar a la Dirección General de Contratos los términos y condiciones técnicos de los contratos de comercialización de Hidrocarburos para su elaboración;
+
+V. Fungir como área requirente y suscribir los contratos, convenios y demás instrumentos jurídicos necesarios que en materia de comercialización de Hidrocarburos requiera la Comisión;
+
+VI. Coordinar las actividades relacionadas con la comercialización de Hidrocarburos y llevar a cabo los actos necesarios para administrar y ejecutar los contratos, convenios e instrumentos jurídicos relacionados;
+
+VII. Atender los avisos, notificaciones, informes, trámites y procedimientos en general que deriven de los contratos de comercialización de Hidrocarburos, y
+
+VIII. Las demás funciones, encargos y asuntos que le encomienden el Órgano de Gobierno, el Comisionado Presidente o su Jefe de Unidad, así como las que sean necesarias para el ejercicio de su competencia.
 
 ###### Artículo 32.
 
@@ -1284,3 +1312,13 @@ D.O.F. 16 DE DICIEMBRE DE 2016.
 PRIMERO. El presente ACUERDO entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Inscríbase el presente ACUERDO en el Registro Público de la Comisión Nacional de Hidrocarburos.
+
+D.O.F. 23 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO CNH.E.74.001/16 MEDIANTE EL CUAL SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 31, SE ADICIONA UN INCISO D. A LA FRACCIÓN VI DEL ARTÍCULO 10 Y UN ARTÍCULO 31 BIS Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 31 DEL REGLAMENTO INTERNO DE LA COMISIÓN NACIONAL DE HIDROCARBUROS".]
+
+PRIMERO. El Presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Hasta en tanto se autoriza la creación de la plaza de la Dirección General de Comercialización de Producción, las funciones que corresponderán a ésta serán ejercidas por el Director General de Medición.
+
+SEGUNDO. Inscríbase el presente ACUERDO en el Registro Público de la Comisión Nacional de Hidrocarburos.
