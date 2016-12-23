@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-159-de-salud-del-estado-de-guerrero-5188"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-25"
-last_updated: "2012-12-04"
+last_updated: "2016-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "GRO"
 ---
 # LEY NUMERO 159, DE SALUD DEL ESTADO DE GUERRERO
 
+[NOTA 1. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 4 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO NÚMERO 425, PUBLICADO EN EL ALCANCE VIII DEL P.O. DE 23 DE DICIEMBRE DE 2016, SE DEROGA EL DECRETO 440 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE GUERRERO NÚMERO 159, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE GUERRERO EL 15 DE OCTUBRE DE 1999, SE SUGIERE CONSULTAR LA FRACCIÓN IV DEL CONSIDERANDO SÉPTIMO DEL DECRETO NÚMERO 425 EL CUAL SEÑALA QUE "SE ESTABLECIÓ EN EL RÉGIMEN TRANSITORIO QUE SE CREARÍA UNA COMISIÓN LIQUIDADORA DEL PATRIMONIO DEL ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS ESTATALES DE SALUD", SIN EMBARGO, LA MISMA NO FUE CREADA, Y POR TANTO, EL ORGANISMO EN NINGÚN MOMENTO FUE LIQUIDADO, POR LO QUE NO SE DIO CUMPLIMIENTO A LO MANDATADO EN DICHO DECRETO [...] ANTE EL INCUMPLIMIENTO DEL DECRETO 440 [...], ES NECESARIO QUE SE DECRETE LA ABROGACIÓN .". BAJO ESE CONTEXTO, VÉASE SU CRONOLOGÍA.]
+
 LEY NÚMERO 159, DE SALUD DEL ESTADO DE GUERRERO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 4 DE DICIEMBRE DE 2012, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADA.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 25 de abril de 1995.
 
@@ -3290,3 +3292,23 @@ En tanto se expidan las disposiciones administrativas derivadas de esta Ley, seg
 ###### ARTÍCULO CUARTO.
 
 Las autorizaciones sanitarias que se hubieren expedido con anterioridad a la fecha de entrada en vigor de la presente Ley, serán válidas hasta su vencimiento. Las autorizaciones sanitarias que se expidan a partir de la vigencia de esta Ley, se otorgarán de acuerdo a sus disposiciones.
+
+P.O. 23 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 425 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. El titular de la Secretaría de Salud deberá poner a consideración del Presidente del Consejo de Administración de los Servicios Estatales de Salud, en un término no mayor a 90 días naturales, contados a partir de la publicación del presente Decreto, el Reglamento Interior del Organismo Público Descentralizado Servicios Estatales de Salud.
+
+TERCERO. En un plazo de 90 días naturales, contados a partir de la publicación del presente Decreto, el Secretario de Salud deberá emitir el Reglamento Interior de la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero.
+
+CUARTO. El Organismo Público Descentralizado Servicios Estatales de Salud, la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero, y la Unidad de Innovación Clínica y Epidemiológica del estado de Guerrero, operarán con los mismos recursos humanos, materiales y financieros asignados a cada una de las áreas y con los que han venido operando, por la Secretaría de Salud.
+
+QUINTO. Los asuntos que se encuentren en trámite en la Subsecretaría de Regulación, Control y Fomento Sanitario, a la entrada en vigor del presente Decreto, serán atendidos por la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero, hasta su conclusión.
+
+SEXTO. La Comisión para la Protección Contra Riesgos Sanitarios del Estado de Guerrero, buscará los mecanismos ante las autoridades competentes la ratificación de los acuerdos, convenios y demás disposiciones en materia de salud que contemplen la regulación, control y fomento sanitario, celebrados previos al presente Decreto por los Ejecutivos Federal, Estatal y Municipal, a fin de continuar con las acciones que en la materia emanen.
+
+SÉPTIMO. Se deroga el Acuerdo mediante el cual se delegan facultades en el Subsecretario de Regulación, Control y Fomento Sanitario dependiente de la Secretaría de Salud del Estado de Guerrero, publicado en el Periódico Oficial del Gobierno del Estado número 70 de fecha 31 de agosto de 2010.
+
+OCTAVO. Se deroga el Decreto 440 por el que se Reforman y Adicionan diversas disposiciones de la Ley de Salud del Estado de Guerrero Número 159, publicado en el Periódico Oficial del Estado de Guerrero el 15 de octubre de 1999, así como todas aquellas disposiciones jurídicas y administrativas aplicables que se opongan al presente Decreto.
