@@ -4,7 +4,7 @@ identifier: "NAY-ley-municipal-para-el-estado-de-nayarit-23133"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-04"
-last_updated: "2016-11-08"
+last_updated: "2016-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "NAY"
 LEY MUNICIPAL PARA EL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 23 DE DICIEMBRE DE 2016.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 4 de agosto del 2001.
 
@@ -87,7 +89,9 @@ XI.- Gasto etiquetado: las erogaciones que realizan los Municipios con cargo a l
 
 XII.- Gasto no etiquetado: las erogaciones que realizan los Municipios con cargo a sus ingresos de libre disposición y financiamientos. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico;
 
-XII (SIC).- Gasto total: la totalidad de las erogaciones aprobadas en el presupuesto de egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
+> <small>(F. DE E., P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+XIII.- Gasto total: La totalidad de las erogaciones aprobadas en el presupuesto de egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
 XIV.- Ingresos de libre disposición: los ingresos municipales y las participaciones federales, así como los recursos que, en su caso, reciban del Fondo de Estabilización de los ingresos del Estado y cualquier otro recurso que no esté destinado a un fin específico;
 
@@ -3915,7 +3919,7 @@ El Secretario General de Gobierno
 
 Lic. Adán Meza Barajas
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 4 DE JUNIO DE 2003
 
