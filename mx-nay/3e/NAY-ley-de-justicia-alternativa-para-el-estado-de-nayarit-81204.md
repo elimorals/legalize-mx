@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-justicia-alternativa-para-el-estado-de-nayarit-81204"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-23"
-last_updated: "2014-08-18"
+last_updated: "2016-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 23 de abril de 2011.
 
@@ -67,7 +67,7 @@ VII. Parte complementaria: Persona física o moral señalada por la parte solici
 
 VIII. Parte solicitante: Persona física o moral que acude a los Centros de Justicia Alternativa, por propia iniciativa o por recomendación de algún órgano jurisdiccional u otra institución, con la finalidad de buscar la solución de un conflicto, y
 
-IX. Procedimiento restaurativo: El mecanismo mediante el cual el imputado, la víctima y la comunidad implicada trabajan en la solución de cuestiones derivadas del delito, en busca de un acuerdo que atienda las necesidades y responsabilidades individuales y colectivas de las partes permitiendo la reintegración de la víctima y el infractor a la sociedad.
+IX. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### Artículo 3.
 
@@ -95,39 +95,35 @@ IX. Voluntariedad: La participación de las partes debe ser por propia decisión
 
 Toda persona tiene derecho a solucionar sus conflictos susceptibles de transacción o convenio a través de los medios alternativos previstos en esta ley.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)
+
 ###### Artículo 5.
 
 Son susceptibles de solución a través de los medios alternativos las controversias siguientes:
 
 I. En materia civil, familiar o mercantil aquéllos asuntos que sean susceptibles de transacción o convenio, siempre y cuando no se trate de derechos irrenunciables, no alteren el orden público, ni contravengan alguna disposición legal expresa ni afecten derechos de terceros;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2012)</small>
+III. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2016)
 
-II. En materia penal sólo procederá respecto de los delitos que se persigan por querella de parte, siempre que no se trate de delitos graves;
-
-III. En materia de justicia para adolescentes sólo procederá en aquéllas conductas tipificadas como delitos que no ameriten privación de la libertad, de conformidad con la Ley de Justicia para Adolescentes del Estado de Nayarit.
-
-En los medios alternativos de solución de conflictos en donde exista daño patrimonial será necesario, que éste sea debidamente cubierto, o bien, que su pago sea garantizado a satisfacción del ofendido. Lo anterior salvo que exista expresa manifestación de éste en el sentido de haber sido satisfecho.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 6.
 
 Los medios alternativos pueden ser previos, durante o complementarios al proceso, en consecuencia, podrán aplicarse tanto en conflictos que no han sido planteados ante las instancias jurisdiccionales, como en aquéllos que sean materia de un proceso formalmente instaurado, siempre que en éste último caso no se haya citado para el dictado de la sentencia definitiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
-
-Lo anterior no será aplicable tratándose de la materia penal, donde los medios alternativos podrán ser previos, durante, complementarios o posteriores al proceso, en términos de lo que señale el Código Penal vigente en la entidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 7.
 
-El trámite de los medios alternativos de manera previa a la instauración del juicio o de la interposición de la querella no interrumpe los términos para la prescripción de las acciones previstas en las leyes aplicables.
+El trámite de los medios alternativos de manera previa a la instauración del juicio no interrumpe los términos para la prescripción de las acciones previstas en las leyes aplicables.
 
 Si el trámite del medio alternativo se deriva de un juicio civil, familiar o mercantil, se suspenderán los plazos y términos dentro del juicio a partir del día en que el Centro de Justicia Alternativa, señale fecha para la primer sesión y hasta aquél en que por cualquier causa concluya el trámite de los medios alternativos, para lo cual el Centro de Justicia Alternativa informará estas circunstancias al Juez del conocimiento. La aceptación para el sometimiento a medios alternativos implica la aceptación de las partes en la suspensión del proceso en los términos aquí precisados.
 
-Cuando el trámite del medio alternativo derive de un proceso penal o de un proceso de justicia para adolescentes, la suspensión del proceso y de la prescripción de la acción penal no podrá extenderse más de treinta días hábiles, a partir del día en que el Centro de Justicia Alternativa señale fecha para la sesión inicial, lo cual deberá informarse al Juez o Ministerio Público que conozca del asunto para los efectos legales a que haya lugar. Si a juicio del Juez o del Ministerio Público existen actuaciones urgentes o inaplazables, éstas se realizarán.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2014)</small>
 
@@ -137,7 +133,7 @@ De no lograrse la conciliación en los asuntos planteados en los párrafos anter
 
 En los juicios del orden civil, familiar o mercantil en los que proceda el trámite de medios alternativos, el juez tendrá la obligación de hacer del conocimiento a las partes de los beneficios que les brindan éstos, en consecuencia, al emitir el auto de radicación se expondrá por escrito esta información, indicando el domicilio del Centro Estatal o del Centro Regional correspondiente y notificando a las partes.
 
-En los conflictos del orden penal que puedan someterse a algún medio alternativo, el Ministerio Público, desde el momento en que tenga conocimiento de los hechos, tendrá la obligación de hacer del conocimiento a las partes de los beneficios que les brindan éstos, exhortándolas a avenirse mediante un acuerdo. Cuando el Ministerio Público incumpla esta obligación, el juez del conocimiento otorgará esa información.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 En caso de que las partes manifiesten su conformidad en someterse a algún medio alternativo, se procederá en términos del artículo anterior. Si nada manifestaran al respecto, continuará el proceso, sin perjuicio de que manifiesten posteriormente, por escrito, su voluntad de someterse a un procedimiento no jurisdiccional para resolver el conflicto.
 
@@ -511,17 +507,19 @@ Una vez satisfecho en sus términos, el convenio a que se refiere el artículo 4
 
 En materia civil, familiar o mercantil, si alguna de las partes incumple las obligaciones que contrajo en el acuerdo o convenio aprobado judicialmente, procederá la vía de apremio y serán aplicables las reglas para la ejecución de sentencia previstas en la legislación de la materia de que se trate.
 
-En materia penal, si el imputado contraviene sin justa causa las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de noventa días hábiles contados a partir del día siguiente de la ratificación del acuerdo o convenio, el proceso continuará como si no se hubiera convenido. El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite del proceso y la prescripción de la acción penal.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-En materia de justicia para adolescentes, si quien firmó el convenio en ejercicio de la patria potestad o tutela incumple sin justa causa las obligaciones pactadas dentro del término que fijen las partes o, en caso de no establecerlo, dentro de un año contado a partir del día siguiente de la ratificación del acuerdo, el proceso continuará como si no se hubieran convenido. La misma prevención se aplicará si el obligado fuere el adolescente tratándose de una obligación a cargo de éste. El plazo fijado para el cumplimiento de las obligaciones pactadas suspenderá el trámite del proceso.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
-En los supuestos previstos en los dos párrafos inmediatos anteriores, el cumplimiento de lo acordado extinguirá la acción penal.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 49.
 
-La ejecución de los acuerdos o convenios aprobados judicialmente, tratándose de asuntos de naturaleza civil, familiar, mercantil o penal, se realizará ante el juez que inicialmente haya tenido conocimiento del asunto o ante el juez de primera instancia en turno que sea competente.
+La ejecución de los acuerdos o convenios aprobados judicialmente, tratándose de asuntos de naturaleza civil, familiar o mercantil, se realizará ante el juez que inicialmente haya tenido conocimiento del asunto o ante el juez de primera instancia en turno que sea competente.
 
-Los procedimientos de mediación, conciliación y restaurativo ante los especialistas independientes o ante las Instancias de Justicia Alternativa, se ajustarán, en lo conducente, a lo dispuesto en esta ley.
+Los procedimientos de mediación y conciliación ante los especialistas independientes o ante las Instancias de Justicia Alternativa, se ajustarán, en lo conducente, a lo dispuesto en esta ley.
 
 ###### Artículo 50.
 
@@ -539,7 +537,7 @@ Estando de acuerdo las partes en la sujeción al procedimiento de conciliación 
 
 Las sesiones de conciliación serán orales y por ende no se levantará constancia de su resultado, ni menos aún de las aseveraciones que las partes expongan.
 
-En asuntos de naturaleza penal si el Juez o el Ministerio Público solicitara el auxilio o el asesoramiento de especialistas para procurar acuerdos entre las partes, si alguna de éstas no pudiera comparecer al Centro de Justicia Alternativa por encontrarse en prisión preventiva, el especialista podrá trasladarse al juzgado el día y hora fijados para la práctica de la diligencia de conciliación. En iguales términos se procederá en materia de justicia para adolescentes.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 53.
 
@@ -575,57 +573,31 @@ El convenio o transacción que derive del procedimiento de conciliación se suje
 
 ###### Artículo 57.
 
-El proceso restaurativo tiene como propósito contribuir a restaurar la armonía social entre sus protagonistas en un marco de respeto a sus derechos fundamentales.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### Artículo 58.
 
-La reparación a través del proceso previsto en el presente capítulo comprende cuatro elementos:
-
-I. La disculpa verbal o escrita que implica un reconocimiento por virtud del cual el ofensor acepta que su conducta causó un daño real; un sentimiento de remordimiento o vergüenza por lo que ha hecho y un cambio de posición de poder entre ofensor y víctima, por virtud del cual ésta última recobra el control que le fue perturbado al cometerse el hecho delictivo;
-
-II. Un cambio de conducta del ofensor a fin de que ya no reincida, por ende, los acuerdos deberán incluir el cambio de entorno del ofensor, capacitación laboral, programas educativos, programas para el tratamiento de adicción y alcoholismo, terapias para el control del enojo u otras medidas similares;
-
-III. Una actitud de generosidad por parte del imputado, la cual puede evidenciarse a partir de su disponibilidad de someterse a tratamientos o programas e incluso de prestar servicios a la comunidad o a la víctima, y
-
-IV. La restitución, que puede ser económica o proporcionando servicios en especie, restituyendo o reemplazando algún bien, o de cualquier otra forma solicitada por la víctima y acordadas entre las partes en el curso de un encuentro.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### Artículo 59.
 
-Las partes de un juicio penal pueden solicitar la remisión del asunto a un proceso restaurativo, para lo cual el Juez o Ministerio Público deberán cerciorarse de que no se haya coaccionado la voluntad de las partes para ello e informarles de sus derechos, de la naturaleza del proceso y de las posibles consecuencias de su decisión.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2014)</small>
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### Artículo 60.
 
-Recibido el asunto para ser sometido a un proceso restaurativo, el especialista realizará una invitación al ofensor y a la víctima para que asistan al Centro de Justicia Alternativa o Instancia de Justicia Alternativa y reciban información amplia acerca de este proceso alternativo de justicia, en términos de los artículos 33, 34 y 35.
-
-Previo a la reunión restaurativa, deberán practicarse reuniones previas y por separado con la víctima y con el ofensor a fin de que el especialista les informe, con base en las herramientas de comunicación establecidas, la importancia y ventajas de este sistema y para valorar las posibilidades y condiciones de llevar a cabo la reunión conjunta, lo cual permitirá conocer sus necesidades y su decisión de participar en el procedimiento restaurativo.
-
-Estando de acuerdo las partes en la sujeción al proceso restaurativo y en el especialista, éste deberá convocarlos a una primer reunión restaurativa, la que se desarrollará en los términos de las fracciones I, III y IV del artículo 40, en la cual el especialista, luego de explicar a las partes el objeto del proceso, las reglas de comunicación, el papel que desempeña éste y los alcances del posible convenio al que éstas lleguen, facilitará la comunicación entre las mismas con el fin de que lleguen a un acuerdo para la reparación del daño. Se harán tantas reuniones como resulten necesarias.
-
-La información enunciada en el presente artículo se proporcionará a los interesados cuando sean ellos quienes directamente soliciten someterse al procedimiento restaurativo.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### Artículo 61.
 
-El especialista que conduzca el proceso restaurativo deberá:
-
-I. Atender preferentemente los daños causados por los delitos más que a las normas;
-
-II. Mostrar equidad y compromiso con las víctimas y con los inculpados, involucrándolos responsablemente en el proceso;
-
-III. Propiciar las condiciones óptimas para el diálogo directo o indirecto, entre víctimas y ofensor, según sea el caso, y
-
-IV. Proporcionar atención a la víctima u ofendidos del delito y al ofensor de manera cordial, imparcial, con calidad y calidez, respetando sus necesidades, sentimientos y decisiones.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### Artículo 62.
 
-El proceso de justicia restaurativa se dará por concluido en los mismos supuestos en que se dé por terminado el proceso de mediación y en aquéllos casos en que conforme a esta ley deba darse por finalizado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ###### Artículo 63.
 
-El convenio o transacción que derive del proceso restaurativo se sujetará a lo que disponen los artículos 45, 46, 47, 48, 49 y 50, en lo concerniente a formalidades, ratificación, aprobación, cumplimiento, efectos y ejecución.
-
-Si el imputado contraviene sin justa causa las obligaciones pactadas podrá optarse entre sujetarse a un nuevo proceso restaurativo, o bien, dejar sin efectos el convenio que se haya celebrado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2016)
 
 ### Capítulo VI. De las responsabilidades
 
@@ -657,7 +629,7 @@ Dip. Roberto Lomelí Madrigal, Presidente.- Rúbrica.- Dip. Juan José Castellan
 
 Y en cumplimiento a lo dispuesto en Fracción II del Artículo 69 de Constitución Política del Estado para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los veintitrés días del mes de abril del año dos mil once.- Lic. Ney González Sánchez.- Rúbrica.- La Secretaria General de Gobierno.- Lic. Angélica Patricia Sánchez Medina.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 14 DE NOVIEMBRE DE 2012.
 
@@ -666,5 +638,11 @@ Artículo Primero.- El presente decreto entrará en vigor a los treinta días si
 Artículo Segundo.- Para los efectos de concientización y difusión del nuevo protocolo procedimental en materia de justicia restaurativa a que aluden las disposiciones anteriores, el Consejo de la Judicatura del Poder Judicial Local, difundirá entre todos los especialistas y servidores públicos encargados de operar y aplicar los medios alternativos de justicia en la entidad, el contenido, sentido y alcances de la presente reforma.
 
 P.O. 18 DE AGOSTO DE 2014.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 23 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
