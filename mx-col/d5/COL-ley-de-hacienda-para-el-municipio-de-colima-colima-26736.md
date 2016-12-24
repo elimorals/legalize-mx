@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-colima-colima-26736"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2016-12-10"
+last_updated: "2016-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -1363,11 +1363,25 @@ AÑO 2003 2004 2005 2006 2007
 
 BASE 60% 70% 80% 90% 100%
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO No. 38 QUE MODIFICA ESTE ORDENAMIENTO, P.O. 29 DE DICIEMBRE DE 2015.]</small>
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO No. 223 QUE MODIFICA ESTE ORDENAMIENTO, P.O. 24 DE DICIEMBRE DE 2016.]
+
+[NOTA 2. DE CONFORMIDAD CON EL DECRETO NÚMERO 223 PUBLICADO EN EL P.O. 24 DE DICIEMBRE DE 2016 SE DEROGAN LOS DECRETOS 581 Y 38, PUBLICADOS EN EL P.O. 1 DE OCTUBRE DE 2015 Y P.O. 29 DE DICIEMBRE DE 2015 RESPECTIVAMENTE, PARA QUEDAR COMO VIGENTE EL CONTENIDO DE ESTE ARTÍCULO EN LOS TÉRMINOS QUE SE ENCONTRABA ANTES DE LA APROBACIÓN DEL CITADO DECRETO 581.]
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ###### ARTICULO QUINTO.
 
-(DEROGADO, P.O. 1 DE OCTUBRE DE 2015)
+En los predios con valor catastral de $0.00 a $264,000.00 el impuesto predial que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de este ordenamiento, en ningún caso podrá ser mayor del que resulte de multiplicar el factor de 1.06 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+En los predios con valor catastral de $264,000.01 en adelante, el impuesto que resulte de aplicar las tasas y tarifas previstas en las fracciones I, II y III del artículo 13 de esta Ley, en ningún caso podrá ser menor o mayor del que resulte de multiplicar el factor de 1.10 por el impuesto anual correspondiente al año inmediato anterior, tomando como base el valor catastral del predio vigente en el último bimestre de dicho año.
+
+Lo previsto en este artículo, no será aplicable en los siguientes casos:
+
+a) Cuando cambie la base del impuesto predial en los términos del Artículo 9 de este ordenamiento.
+
+b) Los que sean objeto de transmisión patrimonial.
+
+c) Los que tengan un adeudo en el pago del impuesto predial de cinco años o más.
 
 ###### ARTICULO SEXTO.
 
@@ -1607,15 +1621,19 @@ P.O. 26 DE SEPTIEMBRE DE 2015.
 
 P.O. 1 DE OCTUBRE DE 2015.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 581 POR EL QUE SE DEROGA EL ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE COLIMA".]
 
-ÚNICO.- El presente Decreto entrará en vigor el día 01 de enero del año 2017. El presente decreto deberá publicarse en el Periódico Oficial "El Estado de Colima".
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO No. 223 QUE MODIFICA ESTE ORDENAMIENTO, P.O. 24 DE DICIEMBRE DE 2016.]</small>
+
+UNICO.- (DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NO. 223, P.O. 24 DE DICIEMBRE DE 2016)
 
 P.O. 29 DE DICIEMBRE DE 2015.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 38 POR EL QUE SE REFORMA EL ÚNICO TRANSITORIO DEL DECRETO No. 581, APROBADO POR LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA DEL H. CONGRESO DEL ESTADO, CORRESPONDIENTE A MODIFICACIONES DE LA LEY DE HACIENDA DEL MUNICIPIO DE COLIMA".]
 
-ÚNICO.- El presente Decreto entrará en vigor el día de su aprobación, debiendo publicarse en el Periódico Oficial "El Estado de Colima".
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO No. 223 QUE MODIFICA ESTE ORDENAMIENTO, P.O. 24 DE DICIEMBRE DE 2016.]</small>
+
+ÚNICO.- (DEROGADO POR ARTÍCULO ÚNICO DEL DECRETO NO. 223, P.O. 24 DE DICIEMBRE DE 2016)
 
 P.O. 22 DE NOVIEMBRE DE 2016.
 
@@ -1630,3 +1648,9 @@ P.O. 10 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 174 POR EL QUE SE REFORMA EL ARTÍCULO 19 DE LAS DIEZ LEYES DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO".]
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de enero de 2017, previa su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 24 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 223 POR EL QUE SE DEROGAN LOS DECRETOS NÚMERO 581 APROBADO CON FECHA 28 DE SEPTIEMBRE DE 2015 POR LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA Y 38 CON FECHA 14 DE DICIEMBRE DE 2015, POR LA QUINCUAGÉSIMA OCTAVA LEGISLATURA ESTATAL".]
+
+UNICO.- El presente Decreto entrará en vigor el 01 de enero de 2017, previa publicación en el Periódico Oficial "El Estado de Colima".
