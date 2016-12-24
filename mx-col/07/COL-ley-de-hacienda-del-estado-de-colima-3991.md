@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2016-11-22"
+last_updated: "2016-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -2833,13 +2833,21 @@ XIII.- Por el cambio de plan de estudios y reconocimiento de validez oficial de 
 
 XIV.- Por análisis, evaluación y dictamen académico de cada plan de estudios de educación.
 
-a).- Media superior 900.000
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-b).- Técnico superior universitario o profesional asociado 1,200.000
+a).- Media Superior 100.000
 
-c).- Licenciatura 1,2000.000
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-d).- Postgrado 1,500.000
+b).- Técnico Superior Universitario o Profesional Asociado 123.000
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c).- Licenciatura 123.000
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+d).- Posgrado 200.000
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6244,3 +6252,9 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su aprobación, el cual deberá ser publicado en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO.- Para determinar el valor diario, mensual y anual de la Unidad de Medida y Actualización a la entrada en vigor del presente Decreto se estará a lo dispuesto por el Acuerdo emitido por el Instituto Nacional de Estadística y Geografía, publicado en el diario Oficial de la Federación de fecha 28 de enero de 2016, aplicable para el año 2016, y en posteriores anualidades a lo previsto por el artículo quinto transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación de fecha 27 de enero del 2016.
+
+P.O. 24 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 182 POR EL QUE SE REFORMA EL ARTÍCULO 57 FRACCIÓN XIV, EN SUS INCISOS A), B), C) Y D), DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
