@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-ejecutivo-del-estado-de-tabasco-24410"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-03-22"
-last_updated: "2016-09-14"
+last_updated: "2016-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24410&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el viernes 22 de marzo de 2002.
 
@@ -485,7 +485,9 @@ VIII. Administrar y organizar el Periódico Oficial del Estado, publicando en el
 
 IX. Participar, en coordinación con el Secretariado Técnico del Comité de Planeación para el Desarrollo del Estado de Tabasco, en la determinación y conducción de la política de población del Estado, salvo lo relativo a colonización, asentamientos humanos y turismo;
 
-X. Coordinar, dirigir, administrar y supervisar el ejercicio de las funciones del Registro Civil, del Archivo General de Notarías y del Registro Público de la Propiedad y del Comercio, procurando la adecuada distribución funcionamiento y modernización de sus servicios, así como la correlación de sus funciones con el sistema federal en la materia y su vinculación con las políticas de población y las de desarrollo económico y social;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+X. Coordinar, dirigir, administrar y supervisar el ejercicio de las funciones del Registro Civil y del Archivo General de Notarías, procurando la adecuada distribución, funcionamiento y modernización de sus servicios, así como la correlación de sus funciones con el sistema federal en la materia y su vinculación con las políticas de población y las de desarrollo económico y social;
 
 XI. Colaborar con las autoridades federales, en los términos de las leyes relativas y los convenios que se celebren, en materia de: cultos religiosos, política migratoria, loterías, rifas y juegos con apuestas y sorteos;
 
@@ -734,6 +736,10 @@ LX. Fungir como fideicomitente único del Gobierno del Estado en la constitució
 LXI. Aprobar, previo acuerdo del Gobernador, la participación Estatal en empresas, sociedades, asociaciones civiles y mercantiles, ya sea en su creación, aumento o reducción del capital o en la adquisición de todo o parte de éste. Igualmente representar al Ejecutivo en los actos vinculados con su participación en las mismas;
 
 LXII. Coordinar la política catastral del Estado y colaborar con los Gobiernos Municipales de la Entidad en materia catastral, en los términos de los convenios respectivos, para la actualización de la legislación y normatividad que regula los servicios de catastro y en la realización de los estudios técnicos catastrales, requeridos para fijar los valores de los predios localizados en el territorio del Estado y mantener actualizado el valor de los mismos. Asimismo, coordinar los programas de cooperación técnica con los servicios catastrales, y con las instituciones y sectores vinculados con su organización y funcionamiento;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+LXII Bis. Coordinar, dirigir, administrar y supervisar el ejercicio de las funciones que competen al Estado en materia registral de conformidad con la Ley Registral del Estado de Tabasco, procurando la adecuada distribución, funcionamiento y modernización de la Coordinación Catastral y Registral, así como de sus servicios, guardando la correlación de dichas funciones con el sistema federal en la materia y su vinculación con las políticas de población y las de desarrollo económico y social;
 
 LXIII. Administrar y operar los sistemas estatales de información para la planeación del desarrollo, con el fin de fortalecer los criterios sobre la toma de decisiones a favor del desarrollo estatal y para realizar los diagnósticos, seguimientos y evaluaciones de impacto que mandata la Ley Estatal de Desarrollo Social;
 
@@ -1962,3 +1968,133 @@ TERCERO.- Los recursos humanos, financieros y materiales que actualmente se encu
 El personal que se transfiere al Órgano Desconcentrado, deberán someterse a los procedimientos de evaluación y control de confianza que el Centro Estatal respectivo, aplique conforme a los lineamientos emitidos por el Centro Nacional de Certificación y Acreditación.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 24 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 033 POR EL QUE "SE REFORMA: EL ARTÍCULO 27, FRACCIÓN X. SE ADICIONA: LA FRACCIÓN LXII BIS, AL ARTÍCULO 29. TODAS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DE ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día uno del mes de enero del año dos mil diecisiete, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado transfiera al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2017 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de la competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaria estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2017 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2017 no contempla los recursos refrendados del ejercicio fiscal 2016, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2017.
+
+QUINTO. Se condonan y se eximen parcialmente, durante el ejercicio fiscal 2017, los créditos fiscales y las obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, tarjeta de circulación y calcomanías, conforme a lo siguiente:
+
+I. Los determinados por concepto del Impuesto Vehicular Estatal establecido en el capítulo séptimo del título segundo vigente hasta el 31 de diciembre de 2014, en la Ley de Hacienda del Estado de Tabasco, correspondientes a los ejercicios 2011, 2012, 2013 y 2014.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2017, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados al Impuesto Vehicular Estatal; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago de este impuesto más su actualización, dentro del periodo del uno de enero al treinta y uno de diciembre del ejercicio fiscal 2017, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% enero - diciembre 2017
+
+Gastos de ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el apartado A del presente artículo transitorio.
+
+II. Los determinados por concepto de derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2017.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2017, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados por concepto del derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2017; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo del uno de enero al treinta y uno de diciembre del ejercicio fiscal 2017, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% enero - diciembre 2017
+
+Gastos de ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el apartado A del presente artículo transitorio.
+
+De igual forma los contribuyentes podrán optar por pagar el impuesto de forma bancarizada mediante las siguientes opciones:
+
+1. Portal de Recaudanet
+
+2. Receptorías de Rentas
+
+A través de los siguientes medios:
+
+- Transferencia electrónica (únicamente en Recaudanet).
+
+- Tarjeta de crédito.
+
+- Tarjeta de débito.
+
+- Comprobante de pago de establecimientos autorizados, mediante la modalidad de pago referenciado.
+
+Lo anterior de conformidad con los procedimientos establecidos en el artículo 21 del Código Fiscal del Estado.
+
+La condonación a que se refiere este artículo, también procederá aun y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán condonar los créditos fiscales pagados y en ningún caso la condonación a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión al beneficio de condonación previsto en este artículo, no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+SEXTO. La Secretaría de Planeación y Finanzas expedirá a más tardar el 1º de febrero de 2017, las reglas que considere necesarias para la correcta aplicación de la condonación y estímulo fiscal que se otorga en el artículo transitorio que antecede.
+
+La Secretaría de Planeación y Finanzas informará de conformidad a lo establecido en el Artículo 2 de la presente Ley, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+SÉPTIMO. El Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas, implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2017, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año- modelo sea 2013 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares, será autorizada por la Secretaría de Planeación y Finanzas, la que deberá expedir a más tardar el 1º de febrero de 2017 las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizadas, serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso del vehículo;
+
+II. Que la autoridad fiscal competente requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Planeación y Finanzas informe a la Dirección General de la Policía Estatal de Caminos los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6, fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Planeación y Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas, así como todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+OCTAVO. El Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas, implementará a partir del 1º de febrero de 2017 un programa de condonación de pagos y estímulos fiscales en las tarifas que se pagan periódicamente por los servicios que presta la Comisión Estatal de Agua y Saneamiento.
+
+Dicho programa deberá contribuir a fortalecer la eficiencia recaudatoria del Gobierno del Estado, contemplando un esquema de depuración de créditos incobrables, con el objetivo de incrementar el número de contribuyentes cumplidos del padrón de usuarios de los servicios que presta la Comisión Estatal de Agua y Saneamiento además de garantizar que los ingresos de dicho organismo descentralizado sean recaudados por la Secretaría de Planeación y Finanzas en términos del artículo 22 del Código Fiscal del Estado de Tabasco.
+
+NOVENO. Todas las referencias hechas en leyes, reglamentos, decretos, acuerdos y demás disposiciones de carácter general al valor del salario mínimo general vigente o a sus siglas DSMGV, como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de obligaciones y supuestos previstos en leyes estatales y municipales, así como en cualquier disposición jurídica que emane de ellas, se entenderán referidas al valor diario, mensual o anual de la Unidad de Medida y Actualización según corresponda.
+
+DÉCIMO. Durante el ejercicio fiscal 2017 las tarifas establecidas en el Título Tercero de la Ley de Hacienda del Estado a partir de la entrada en vigor del presente Decreto se calcularán utilizando el valor diario de la Unidad de Medida y Actualización del año 2016, publicado mediante Decreto en el Diario Oficial de la Federación de fecha 28 de enero de 2016, el cual señala que su valor es de $73.04 pesos.
+
+DÉCIMO PRIMERO. El Ejecutivo Estatal, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar las adecuaciones que correspondan al Reglamento de la Ley Registral del Estado de Tabasco y al Reglamento Interior de la Secretaría de Planeación y Finanzas, a efectos de establecer las facultades que le corresponden a la Coordinación Catastral y Registral. Hasta en tanto se reforman los reglamentos antes mencionados, continuarán en vigor aquellas disposiciones de la Ley Registral del Estado de Tabasco y su Reglamento que se derogan mediante el presente Decreto.
+
+DÉCIMO SEGUNDO. Sin perjuicio de lo dispuesto en el artículo transitorio anterior, el Coordinador Catastral y Registral de la Secretaría de Planeación y Finanzas será designado el 1º de enero de 2017 por el Gobernador del Estado.
+
+A partir de la misma fecha el Director General del Instituto Registral del Estado se denominará Director General del Registro Público de la Propiedad y del Comercio, y el Director General de Catastro y Ejecución Fiscal de la Secretaría de Planeación y Finanzas se denominará Director General de Catastro, ambos inferiores jerárquicos inmediatos del Coordinador Catastral y Registral.
+
+La Unidad de Ejecución Fiscal de la Secretaría de Planeación y Finanzas, antes adscrita a la Dirección General de Catastro y Ejecución Fiscal, será una unidad administrativa dependiente directamente del Secretario de Planeación y Finanzas.
+
+DÉCIMO TERCERO. La Secretaría de Planeación y Finanzas, en un plazo no mayor a noventa días naturales, realizará las adecuaciones que sean necesarias al Catálogo de Requisitos de Trámites para Servicios Registrales, con la finalidad de homologar, fortalecer y garantizar la modernización de la función registral y catastral.
+
+DÉCIMO CUARTO. Los recursos humanos, materiales y financieros con los que cuenta el Instituto Registral del Estado de Tabasco, se transferirán al Gobierno del Estado con adscripción y resguardo de la Secretaría de Planeación y Finanzas.
+
+En razón de lo anterior, las Secretarías de Gobierno, de Administración, de Contraloría, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, conforme resulte necesario en el ámbito de sus respectivas competencias, en coordinación con la Secretaría de Planeación y Finanzas, deberán realizar las acciones administrativas y legales necesarias para llevar a cabo dicha transferencia, de igual forma realizarán las adecuaciones que correspondan en cuanto a la aprobación e implementación de la estructura orgánica y ocupacional de la Secretaría de Planeación y Finanzas que resulte necesaria para la correcta aplicación del presente Decreto.
+
+DÉCIMO QUINTO. Los servidores públicos del Instituto Registral del Estado de Tabasco pasarán a formar parte de la Secretaría de Planeación y Finanzas, sin que sus derechos laborales se vean afectados con la entrada en vigor del presente Decreto.
+
+DÉCIMO SEXTO. A partir de la fecha de entrada en vigor del presente Decreto, los derechos y obligaciones del Instituto Registral del Estado de Tabasco se subrogan a la Secretaría de Planeación y Finanzas, quedando subsistentes jurídicamente, los convenios, acuerdos y demás actos jurídicos celebrados con el Gobierno Federal, para la operación del Instituto Registral del Estado de Tabasco.
+
+DÉCIMO SÉPTIMO. Las gestiones, procedimientos y demás actos que se encuentren en trámite en el Instituto Registral del Estado de Tabasco al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO OCTAVO. Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor del Instituto Registral del Estado de Tabasco, se transferirán al Gobierno del Estado a través de la Secretaría de Planeación y Finanzas.
+
+DÉCIMO NOVENO. A partir de la fecha de entrada en vigor del presente Decreto, cuando en las leyes, reglamentos, acuerdos, decretos y demás disposiciones normativas se haga referencias al Instituto Registral del Estado de Tabasco, se entenderán hechas a la Secretaría de Planeación y Finanzas, a través de la Coordinación Catastral y Registral.
+
+VIGÉSIMO. Las Secretarías de Gobierno, de Administración, de Contraloría, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, proveerán lo necesario para garantizar la correcta aplicación del presente Decreto.
