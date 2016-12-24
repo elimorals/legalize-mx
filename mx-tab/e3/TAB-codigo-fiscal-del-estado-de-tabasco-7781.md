@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2015-12-30"
+last_updated: "2016-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO FISCAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -69,9 +71,9 @@ Las contribuciones se clasifican en impuestos y derechos; los que se definen de 
 
 I. Impuestos son las contribuciones establecidas en la Ley, que deben pagar las personas físicas y jurídicas colectivas que se encuentren en la situación jurídica o de hecho previstas por la misma que sean distintas a las señaladas en la fracción II de este artículo; y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-II. Derechos son las contribuciones establecidas en la Ley, por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir los servicios que éste presta en sus funciones de derecho público, excepto, cuando se presten por organismos descentralizados y órganos desconcentrados cuando, en este último caso se trate de contraprestaciones que no se encuentren previstas en la Ley de Hacienda del Estado. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
+II. Derechos son las contribuciones establecidas en la Ley de Hacienda del Estado por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir los servicios que éste presta en sus funciones de derecho público.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
@@ -119,11 +121,19 @@ III. Ley de Hacienda;
 
 IV. Ley de Catastro; y
 
-V. Los demás ordenamientos que contengan disposiciones de orden hacendario.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+V. La Ley de Coordinación Fiscal y Financiera del Estado de Tabasco;
 
-La aplicación de las disposiciones a que se refiere este artículo le corresponderá al Poder Ejecutivo del Estado de Tabasco, por conducto de la Secretaría de Planeación y Finanzas y demás autoridades administrativas que establezcan las leyes.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+VI. La Ley Registral del Estado de Tabasco.
+
+VII. Los demás ordenamientos que contengan disposiciones de orden hacendario.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+La aplicación de las disposiciones a que se refiere este artículo le corresponderá al Poder Ejecutivo del Estado de Tabasco, por conducto de la Secretaría de Planeación y Finanzas y demás autoridades fiscales y administrativas que establezcan las leyes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -173,9 +183,17 @@ IX. El Director General de Fiscalización;
 
 X. El Director de Licencias e Inspecciones;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-XI. El Director General de Catastro y Ejecución Fiscal;
+X BIS. El Coordinador Catastral y Registral;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XI. El Director General de Catastro;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XI BIS. El Director General del Registro Público y del Comercio;
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -218,6 +236,10 @@ XX. Los Auditores; y
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 XXI. Los Demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso del Secretario de Planeación y Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones; en este último caso dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Las autoridades fiscales del Estado de Tabasco, podrán ejercer las facultades que le otorgan las leyes, códigos, reglamentos, convenios de adhesión, convenios de colaboración ya sean federales, estatales o municipales y demás disposiciones de carácter general dentro de todo el territorio del Estado sin limitación alguna, salvo disposición expresa en contrario.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -369,7 +391,9 @@ d) Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de 
 
 V. La persona o personas a quienes se imponga la obligación de retener o recaudar créditos a cargo de terceros;
 
-VI. Los adquirentes de negociaciones, respecto de las contribuciones no pagadas que se hubieran causado en relación con las actividades realizadas en la negociación, cuando pertenecía a otra persona, sin que la responsabilidad no exceda del valor de la misma;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+VI. Los adquirentes de negociaciones o bienes muebles e inmuebles, respecto de las contribuciones no pagadas que se hubieran causado en relación con las actividades realizadas en la negociación o por la tenencia, uso y goce de los bienes muebles e inmuebles, cuando pertenecían a otra persona.
 
 VII. Los legatarios y los donatarios a título particular respecto de los créditos fiscales que se hubieren causado en relación con los bienes legados o donados hasta por el monto de éstos;
 
@@ -1087,19 +1111,27 @@ Tratándose de los supuestos establecidos en el inciso b) de la fracción I de e
 
 Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la Sección Segunda del Capítulo II del Título V de este Código, en aquello que no se oponga a lo previsto en este artículo.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 36.
 
-Cuando las personas obligadas a presentar declaraciones, avisos y demás documentos no lo hagan dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán la presentación del documento respectivo ante las oficinas correspondientes o en su caso a través de los medios electrónicos que autorice la Secretaría de Planeación y Finanzas, procediendo de la siguiente forma:
+Cuando las personas no cumplan con sus obligaciones fiscales como enterar el pago de contribuciones, presentar declaraciones, avisos o demás documentos dentro de los plazos señalados en las disposiciones fiscales, las autoridades fiscales exigirán el cumplimiento de la obligación fiscal omitida ante las oficinas correspondientes o en su caso a través de los medios electrónicos que autorice la Secretaría de Planeación y Finanzas, procediendo de la siguiente forma:
 
-I. Imponer la multa que corresponda en los términos de este Código y requerir hasta en tres ocasiones la presentación del documento omitido otorgando al contribuyente un plazo de quince días para el cumplimiento de cada requerimiento. Si no se atienden los requerimientos se impondrán las multas correspondientes, que tratándose de declaraciones, será una multa por cada obligación omitida. La autoridad después del tercer requerimiento respecto de la misma obligación, podrá aplicar lo dispuesto en la siguiente fracción.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-II. Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, una vez realizadas las acciones previstas en la fracción anterior, podrán hacer efectiva al contribuyente o al responsable solidario que haya incurrido en la omisión, una cantidad igual al monto mayor que hubiera determinado a su cargo en cualquiera de las seis últimas declaraciones de la contribución de que se trate. Esta cantidad a pagar no libera a los obligados de presentar la declaración omitida.
+I. Imponer la multa que corresponda en los términos de este Código y requerir hasta en tres ocasiones la obligación fiscal omitida, otorgando al contribuyente un plazo de quince días para el cumplimiento de cada requerimiento. Si no se atienden los requerimientos se impondrá una multa por cada obligación omitida. La autoridad después del tercer requerimiento respecto de la misma obligación, podrá aplicar lo dispuesto en las siguientes fracciones.
 
-Cuando la omisión sea de una declaración de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la autoridad fiscal podrá hacer efectiva al contribuyente, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-III. Embargar, precautoriamente, los bienes o la negociación cuando el contribuyente haya omitido presentar declaraciones en los últimos tres ejercicios o cuando no atienda tres requerimientos de la autoridad, en los términos de la fracción IV de este artículo, por una misma omisión, salvo, tratándose de declaraciones en que bastará con no atender un requerimiento, El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento, o bien, continuando el incumplimiento dos meses después de practicado, las autoridades fiscales no inicien el ejercicio de sus facultades de comprobación; y
+II. Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones o incluso el pago de contribuciones que conforme a las leyes no sea necesaria una declaración, una vez realizadas las acciones previstas en la fracción anterior, podrán hacer efectiva al contribuyente o al responsable solidario que haya incurrido en la omisión, una cantidad igual al monto mayor que hubiera determinado a su cargo en cualquiera de las seis últimas declaraciones o pagos de la contribución de que se trate. Esta cantidad a pagar no libera a los obligados de presentar la declaración omitida.
+
+Cuando la omisión sea de una declaración o pago de contribuciones de las que se conozca de manera fehaciente la cantidad a la que le es aplicable la tasa o cuota respectiva, la autoridad fiscal podrá hacer efectiva al contribuyente, una cantidad igual a la contribución que a éste corresponda determinar, sin que el pago lo libere de presentar la declaración omitida.
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+III. Embargar, precautoriamente, los bienes o la negociación cuando el contribuyente haya omitido presentar declaraciones o pagar las contribuciones a las que se encuentre obligado en los últimos tres ejercicios o cuando no atienda tres requerimientos de la autoridad, en los términos de la fracción IV de este artículo, por una misma omisión, salvo, tratándose de declaraciones o pago de contribuciones en que bastará con no atender un requerimiento. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento, o bien, continuando el incumplimiento dos meses después de practicado, las autoridades fiscales no inicien el ejercicio de sus facultades de comprobación; y
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 IV. Imponer la multa que corresponda en los términos de este Código y requerir la presentación del documento omitido en un plazo de seis días. Si no se atiende se impondrá multa por cada requerimiento no atendido. La autoridad en ningún caso formulará más de tres requerimientos por una misma omisión.
 
@@ -1107,19 +1139,23 @@ IV. Imponer la multa que corresponda en los términos de este Código y requerir
 
 En el caso de la fracción IV y agotados los actos señalados en la misma, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo.
 
-Si la declaración se presenta después de haberse notificado al contribuyente la cantidad determinada por la autoridad conforme a esta fracción, dicha cantidad se disminuirá del importe que se tenga que pagar con la declaración que se presente, debiendo cubrirse, en su caso, la diferencia que resulte entre la cantidad determinada por la autoridad y el importe a pagar en la declaración. En caso de que en la declaración resulte una cantidad menor a la determinada por la autoridad fiscal, la diferencia pagada por el contribuyente únicamente podrá ser compensada en declaraciones subsecuentes.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Si la declaración se presenta o se paga la contribución omitida, con posterioridad a haberse notificado al contribuyente la cantidad determinada por la autoridad conforme a este artículo, se deberá disminuir del importe pagado o declarado con posterioridad, la cantidad determinada por la autoridad fiscal, debiendo cubrirse, en su caso, la diferencia que resulte entre la cantidad determinada por la autoridad y el importe a pagar en la declaración. En caso de que en la declaración resulte una cantidad menor a la determinada por la autoridad fiscal, la diferencia pagada por el contribuyente únicamente podrá ser compensada en declaraciones subsecuentes.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 La determinación del crédito fiscal que realice la autoridad con motivo del incumplimiento en la presentación de declaraciones en los términos del presente artículo, podrá hacerse efectiva a través del procedimiento administrativo de ejecución a partir del tercer día siguiente a aquél en el que sea notificado el adeudo respectivo, en este caso el recurso de revocación sólo procederá contra el propio procedimiento administrativo de ejecución y en el mismo podrán hacerse valer agravios contra la resolución determinante del crédito fiscal.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+
 En caso del incumplimiento a tres o más requerimientos respecto de la misma obligación, se pondrán los hechos en conocimiento de la autoridad competente, para que se proceda por desobediencia a mandato legítimo de autoridad competente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 37.
 
-La Secretaría de Planeación y Finanzas a fin de comprobar que los contribuyentes o responsables solidarios han cumplido con las disposiciones fiscales o, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales, estará facultada para:
-
-I. Rectificar los errores aritméticos que aparezcan en las declaraciones;
+Las autoridades fiscales a fin de comprobar que los contribuyentes, los responsables solidarios o los terceros con ellos relacionados han cumplido con las disposiciones fiscales y, en su caso, determinar las contribuciones omitidas o los créditos fiscales, así como para comprobar la comisión de delitos fiscales y para proporcionar información a otras autoridades fiscales, estarán facultadas para:
 
 II. Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en su domicilio, establecimientos o en las oficinas de las propias autoridades, a efecto de llevar a cabo su revisión, la contabilidad, proporcionen los datos, documentos o informes que les soliciten;
 
@@ -1129,7 +1165,29 @@ IV. Revisar los dictámenes formulados por Contadores Públicos sobre los estado
 
 V. Practicar u ordenar se practique avalúo o verificación física de toda clase de bienes;
 
-VI. Verificar los bienes o mercancías que deban ser amparadas por documentación prevista en las leyes fiscales. En estos casos, el personal deberá estar facultado expresamente y por escrito de autoridad fiscal competente, para la vigilancia del cumplimiento de los ordenamientos relativos dentro de la zona en que se haga la verificación;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+VI. Practicar visitas domiciliarias a los contribuyentes a fin de verificar el cumplimiento de las obligaciones fiscales siguientes:
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+a) Las relacionadas con la expedición de comprobantes fiscales digitales por Internet y de presentación de solicitudes o avisos en materia del registro estatal de contribuyentes;
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+b) Las relacionadas con la operación de las máquinas, sistemas y registros electrónicos, que estén obligados a llevar los contribuyentes, se realice conforme lo establecen las disposiciones aplicables;
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c) Las relacionadas con los bienes o mercancías que deban ser amparadas por documentación prevista en las leyes fiscales; y
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+d) Las demás que la ley señale.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+En estos casos, el personal deberá estar facultado expresamente por escrito de autoridad fiscal competente, para la vigilancia del cumplimiento de los ordenamientos relativos y practicar la verificación;
 
 VII. Recabar de los funcionarios, empleados públicos y fedatarios, los informes y datos que posean con motivo de sus funciones; y
 
@@ -1339,11 +1397,11 @@ En dicha resolución deberán señalarse los plazos en que la misma puede ser im
 
 Siempre se podrá volver a determinar contribuciones o aprovechamientos omitidos correspondientes al mismo ejercicio, cuando se comprueben hechos diferentes. La comprobación de hechos diferentes deberá estar sustentada en información, datos o documentos de terceros, en la revisión de conceptos específicos que no se hayan revisado con anterioridad, en los datos aportados por los particulares en las declaraciones complementarias que se presenten o en la documentación aportada por los contribuyentes en los medios de defensa que promuevan y que no hubiera sido exhibida ante las autoridades fiscales durante el ejercicio de las facultades de comprobación previstas en las disposiciones fiscales, de conformidad con lo previsto por el último párrafo del artículo 41 de este Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-###### Artículo 42 Quater.
+###### Artículo 42 Quáter.
 
-Para los efectos de lo dispuesto por la fracción VI delartículo (sic) 37 de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
+Para los efectos de lo dispuesto por los artículos 31 Quáter y 37, fracción VI de este Código, las visitas domiciliarias se realizarán conforme a lo siguiente:
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -1867,31 +1925,35 @@ III. Señalar como domicilio fiscal para efectos del Registro Estatal de Contrib
 
 A quien cometa las infracciones relacionadas con el Registro Estatal de Contribuyentes, a que se refiere el artículo 66, se impondrán las multas siguientes:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-I. De cuarenta días de salario mínimo a las comprendidas en la fracción I;
+I. De cuarenta veces el valor diario de la Unidad de Medida y Actualización a las comprendidas en la fracción I;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-II. De veinticinco días de salario mínimo a la comprendida en la fracción II; y
+II. De veinticinco veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la fracción II; y
 
 III. Para las señaladas en la fracción III:
 
-a) Tratándose de declaraciones, la mayor que resulte entre cinco días de salario mínimo o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de cincuenta días de salario mínimo;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+a) Tratándose de declaraciones, la mayor que resulte entre cinco veces el valor diario de la Unidad de Medida y Actualización o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-b) De veinticinco días de salario mínimo tratándose de recursos ante la Secretaría de Planeación y Finanzas; y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+b) De veinticinco veces el valor diario de la Unidad de Medida y Actualización tratándose de recursos ante la Secretaría de Planeación y Finanzas; y
 
-c) De diez días de salario mínimo en los demás casos.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c) De diez veces el valor diario de la Unidad de Medida y Actualización en los demás casos.
 
 ###### Artículo 68.
 
 Son también infracciones:
 
-I. No presentar las declaraciones, solicitudes, avisos o constancias que exijan las disposiciones fiscales o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+I. No presentar las declaraciones, solicitudes, avisos o constancias que exijan las disposiciones fiscales, así como no pagar o enterar las contribuciones a las que se encuentren sujetos o presentarlos o pagarlas a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos;
 
 II. Presentar las declaraciones, solicitudes o avisos, incompletos o con errores;
 
@@ -1901,29 +1963,33 @@ IV. Presentar declaraciones o solicitudes que sin derecho hayan dado lugar a una
 
 V. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos que señala este Código, salvo, cuando la presentación se efectúe en forma espontánea.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 69.
 
-A quien cometa las infracciones relacionadas con la obligación de presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 68, se impondrán las multas siguientes:
+A quien cometa las infracciones relacionadas con las obligaciones de presentar declaraciones, solicitudes o avisos, así como de pagar las contribuciones a las que se encuentren sujetos o de expedir las constancias a que las (sic) se refiere el artículo 68, se impondrán las multas siguientes:
 
 I. Para la señalada en la fracción I:
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-a) Tratándose de declaraciones de quince a cincuenta y cinco días de salario mínimo;
+a) Tratándose de declaraciones o pago de contribuciones de quince a cincuenta y cinco veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-b) Por presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento, veinticinco días de salario mínimo; y
+b) Por presentar una declaración, solicitud, aviso o constancia, así como pagar las contribuciones a las que se encuentren sujetos fuera del plazo señalado en el requerimiento o por su incumplimiento, veinticinco veces el valor diario de la Unidad de Medida y Actualización; y
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-c) De diez días de salario mínimo en los demás casos;
+c) De diez veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-II. Respecto de lo señalado en la fracción II, cinco días de salario mínimo, en cada caso;
+II. Respecto de lo señalado en la fracción II, cinco veces el valor diario de la Unidad de Medida y Actualización, en cada caso;
 
-III. Tratándose de las señaladas en las fracciones III y V, de diez a cincuenta días de salario mínimo; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+III. Tratándose de las señaladas en las fracciones III y V, de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
 
 IV. Para la señalada en la fracción IV, la multa será el 30% de la devolución indebida.
 
@@ -1949,13 +2015,21 @@ VI. No expedir comprobante de sus actividades o expedirlos sin requisitos fiscal
 
 A quien cometa las infracciones relacionadas con la o bligación (sic) de llevar la contabilidad a que se refiere el artículo 70, se impondrán las sanciones siguientes:
 
-I. De veinte a ciento ochenta días de salario mínimo a la comprendida en la fracción I;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-II. De cinco a noventa días de salario mínimo a las establecidas en las fracciones II y III;
+I. De veinte a ciento ochenta veces el valor diario de la Unidad de Medida y Actualización a la comprendida en la fracción I;
 
-III. De cinco a setenta y cinco días de salario mínimo a las señaladas en la fracción IV;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-IV. De doce a ciento treinta y cinco días de salario mínimo a la señalada en la fracción V; y
+II. De cinco a noventa veces el valor diario de la Unidad de Medida y Actualización a las establecidas en las fracciones II y III;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+III. De cinco a setenta y cinco veces el valor diario de la Unidad de Medida y Actualización a las señaladas en la fracción IV;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+IV. De doce a ciento treinta y cinco veces el valor diario de la Unidad de Medida y Actualización a la señalada en la fracción V; y
 
 V. De cinco veces el importe total que debió consignar en el comprobante de que se trate, a la señalada en la fracción VI.
 
@@ -1971,9 +2045,13 @@ II. No conservar la contabilidad o parte de ella, así como la correspondencia q
 
 A quien cometa las infracciones señaladas en el artículo anterior, se impondrán las multas siguientes:
 
-I. De cuarenta a cien días de salario mínimo a las comprendidas en la fracción I; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-II. De veinte a doscientos días de salario mínimo a las establecidas en la fracción II.
+I. De cuarenta a cien veces el valor diario de la Unidad de Medida y Actualización a las comprendidas en la fracción I; y
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+II. De veinte a doscientos (sic) veces el valor diario de la Unidad de Medida y Actualización a las establecidas en la fracción II.
 
 ###### Artículo 74.
 
@@ -1985,23 +2063,23 @@ II. Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales,
 
 III. Exigir una prestación que no esté prevista en las disposiciones fiscales, aún cuando se aplique a la realización de las funciones públicas.
 
-75.- A quien cometa las infracciones señaladas en el artículo 74, se impondrán las multas siguientes:
+###### Artículo 75.
 
-I. De veinte a ciento setenta y cinco días de salario mínimo a las comprendidas en la fracción I; y
+A quien cometa las infracciones señaladas en el artículo 74, se impondrán las multas siguientes:
 
-II. De veinte a setecientos días de salario mínimo a las establecidas en las fracciones II y III.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 75.
+I. De veinte a ciento setenta y cinco veces el valor diario de la Unidad de Medida y Actualización a las comprendidas en la fracción I; y
 
-Cuando el sentenciado acredite plenamente que no puede cumplir alguna de las modalidades de la sanción que le fue impuesta por ser incompatible con su edad, sexo, salud o constitución física, el Juez de Ejecución podrá modificar aquélla, siempre que la modificación no sea esencial.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+II. De veinte a setecientos (sic) veces el valor diario de la Unidad de Medida y Actualización a las establecidas en las fracciones II y III.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 76.
 
-Las infracciones no previstas en este Código, pero que se encuentren en otras leyes fiscales y no tengan fijada sanción alguna, se sancionarán con multa de cinco a treinta y cinco días de salario mínimo.
+Las infracciones no previstas en este Código, pero que se encuentren en otras leyes fiscales y no tengan fijada sanción alguna, se sancionarán con multa de cinco a treinta y cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 ### Capítulo II. Delitos Fiscales
 
@@ -2241,17 +2319,15 @@ Cuando la notificación deba efectuarse personalmente y el notificador no encuen
 
 Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en su domicilio o en su defecto con un vecino. En caso de que estos últimos se negaren a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar la razón de tal circunstancia para dar cuenta al jefe de la oficina recaudadora.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrará por concepto de honorarios tres veces el valor diario de la Unidad de Medida y Actualización, y se causarán a cargo de quien incurrió en incumplimiento.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrará por concepto de honorarios 3 días de salario mínimo general vigente en el Estado, y se causarán a cargo de quien incurrió en incumplimiento.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 98.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez días de salario mínimo general vigente en el Estado.
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -3313,7 +3389,9 @@ a). Exijan el pago de créditos fiscales, cuando se alegue que éstos se han ext
 
 b). Se dicten en el procedimiento administrativo de ejecución, cuando se alegue que éste no se ha ajustado a la Ley, o determinen el valor de los bienes embargados.
 
-c). Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 177 de este Código.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c). Afecten el interés jurídico de terceros, en los casos a que se refiere el artículo 171 Quinquies de este Código.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -3341,11 +3419,11 @@ Si el particular afectado por un acto o resolución administrativa fallece duran
 
 En los casos de incapacidad o declaración de ausencia, decretadas por autoridad judicial, cuando el particular se encuentre afectado por un acto o resolución administrativa, se suspenderá el plazo para interponer el recurso de revocación hasta por un año. La suspensión cesará cuando se acredite que se ha aceptado el cargo de tutor del incapaz o representante legal del ausente, siendo en perjuicio del particular si durante el plazo antes mencionado no se provee sobre su representación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 169.
 
-El escrito de interposición del recurso deberá satisfacer lo establecido en el artículo 19 y (sic) de este Código y señalar además:
+El escrito de interposición del recurso deberá satisfacer lo establecido en los artículos 19 y 19 Bis de este Código y señalar además:
 
 I. La resolución o acto que se impugne;
 
@@ -3397,7 +3475,9 @@ La autoridad fiscal, a petición del recurrente, recabará las pruebas que obren
 
 Cuando no se acompañe alguno de los documentos a que se refieren las fracciones anteriores, la autoridad fiscal requerirá al promovente para que los presente dentro del término de cinco días. Si el promovente no los presentare dentro de dicho término y se trata de los documentos a que se refieren las fracciones I a III, se tendrá por no interpuesto el recurso; si se trata de las pruebas a que se refiere la fracción IV, las mismas se tendrán por no ofrecidas.
 
-Sin perjuicio de lo dispuesto en el párrafo anterior, en el escrito en que se interponga el recurso o dentro de los quince días posteriores, el recurrente podrá anunciar que exhibirá pruebas adicionales, en términos de lo previsto en el tercer párrafo del artículo 177 de este Código.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, en el escrito en que se interponga el recurso o dentro de los quince días posteriores, el recurrente podrá anunciar que exhibirá pruebas adicionales, en términos de lo previsto en el tercer párrafo del artículo 187 de este Código.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -3761,33 +3841,135 @@ El presente Decreto deberá publicarse en el Periódico Oficial del Estado y ent
 
 Se abroga el Reglamento para el Cobro y Aplicación de Honorarios por Notificación de Créditos Fiscales y Gastos de Ejecución y se derogan todas las disposiciones que se opongan al contenido del presente decreto.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO NOVENO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN, PUBLICADO EL 14 DE JULIO DE 2014".]
+P.O. 24 DE DICIEMBRE DE 2016.
 
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL DECRETO 033 POR EL QUE "SE REFORMAN: LOS ARTÍCULOS 2, FRACCIÓN II; 7, ÚLTIMO PÁRRAFO; 8, FRACCIÓN XI; 18, FRACCIÓN VI; 36, PRIMER PÁRRAFO, FRACCIONES I, II Y III, Y TERCER PÁRRAFO; 37, PRIMER PÁRRAFO Y FRACCIÓN VI; 42 QUÁTER, PRIMER PÁRRAFO; 67, FRACCIONES I, II Y III INCISOS A), B) Y C); 68, FRACCIÓN I; 69, PRIMER PÁRRAFO, FRACCIONES I INCISOS A), B) Y C), II Y III; 71, FRACCIONES I, II, III Y IV; 73, FRACCIONES I Y II; 75, FRACCIONES I Y II; 76; 97, TERCER PÁRRAFO; 98; 166, FRACCIÓN II INCISO C); 169, PRIMER PÁRRAFO; 170, ÚLTIMO PÁRRAFO. SE ADICIONAN: AL 7 LAS FRACCIONES V Y VI, PASANDO LA ACTUAL V A SER VII; AL 8 LAS FRACCIONES X BIS Y XI BIS Y UN SEGUNDO PÁRRAFO; AL 37, FRACCIÓN VI LOS INCISOS A), B), C), D). TODOS DEL CÓDIGO FISCAL DEL ESTADO DE TABASCO".]
 
-Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
+PRIMERO. El presente Decreto entrará en vigor el día uno del mes de enero del año dos mil diecisiete, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
 
-Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
 
-D.O.F. 12 DE ENERO DE 2016.
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado transfiera al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2017 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de la competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
 
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaria estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2017 o cualquier otro ordenamiento legal en que así proceda.
 
-Segundo.- Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2017 no contempla los recursos refrendados del ejercicio fiscal 2016, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2017.
 
-Tercero.- A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal de una conducta delictiva que en el anterior Código Penal Federal o Código Fiscal de la Federación se contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen (sic), se estará a lo siguiente:
+QUINTO. Se condonan y se eximen parcialmente, durante el ejercicio fiscal 2017, los créditos fiscales y las obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, tarjeta de circulación y calcomanías, conforme a lo siguiente:
 
-I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
+I. Los determinados por concepto del Impuesto Vehicular Estatal establecido en el capítulo séptimo del título segundo vigente hasta el 31 de diciembre de 2014, en la Ley de Hacienda del Estado de Tabasco, correspondientes a los ejercicios 2011, 2012, 2013 y 2014.
 
-II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2017, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados al Impuesto Vehicular Estatal; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago de este impuesto más su actualización, dentro del periodo del uno de enero al treinta y uno de diciembre del ejercicio fiscal 2017, conforme a la siguiente tabla:
 
-III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+CONCEPTO DESCUENTO PERIODO DE PAGO
 
-Cuarto.- Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.
+Recargos 100%
 
-Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
+Multas 100% enero - diciembre 2017
 
-D.O.F. 7 DE ABRIL DE 2016.
+Gastos de ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el apartado A del presente artículo transitorio.
+
+II. Los determinados por concepto de derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2017.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2017, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados por concepto del derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2017; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo del uno de enero al treinta y uno de diciembre del ejercicio fiscal 2017, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% enero - diciembre 2017
+
+Gastos de ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el apartado A del presente artículo transitorio.
+
+De igual forma los contribuyentes podrán optar por pagar el impuesto de forma bancarizada mediante las siguientes opciones:
+
+1. Portal de Recaudanet
+
+2. Receptorías de Rentas
+
+A través de los siguientes medios:
+
+- Transferencia electrónica (únicamente en Recaudanet).
+
+- Tarjeta de crédito.
+
+- Tarjeta de débito.
+
+- Comprobante de pago de establecimientos autorizados, mediante la modalidad de pago referenciado.
+
+Lo anterior de conformidad con los procedimientos establecidos en el artículo 21 del Código Fiscal del Estado.
+
+La condonación a que se refiere este artículo, también procederá aun y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán condonar los créditos fiscales pagados y en ningún caso la condonación a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión al beneficio de condonación previsto en este artículo, no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+SEXTO. La Secretaría de Planeación y Finanzas expedirá a más tardar el 1º de febrero de 2017, las reglas que considere necesarias para la correcta aplicación de la condonación y estímulo fiscal que se otorga en el artículo transitorio que antecede.
+
+La Secretaría de Planeación y Finanzas informará de conformidad a lo establecido en el Artículo 2 de la presente Ley, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+SÉPTIMO. El Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas, implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2017, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año- modelo sea 2013 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares, será autorizada por la Secretaría de Planeación y Finanzas, la que deberá expedir a más tardar el 1º de febrero de 2017 las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizadas, serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso del vehículo;
+
+II. Que la autoridad fiscal competente requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Planeación y Finanzas informe a la Dirección General de la Policía Estatal de Caminos los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6, fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Planeación y Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas, así como todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+OCTAVO. El Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas, implementará a partir del 1º de febrero de 2017 un programa de condonación de pagos y estímulos fiscales en las tarifas que se pagan periódicamente por los servicios que presta la Comisión Estatal de Agua y Saneamiento.
+
+Dicho programa deberá contribuir a fortalecer la eficiencia recaudatoria del Gobierno del Estado, contemplando un esquema de depuración de créditos incobrables, con el objetivo de incrementar el número de contribuyentes cumplidos del padrón de usuarios de los servicios que presta la Comisión Estatal de Agua y Saneamiento además de garantizar que los ingresos de dicho organismo descentralizado sean recaudados por la Secretaría de Planeación y Finanzas en términos del artículo 22 del Código Fiscal del Estado de Tabasco.
+
+NOVENO. Todas las referencias hechas en leyes, reglamentos, decretos, acuerdos y demás disposiciones de carácter general al valor del salario mínimo general vigente o a sus siglas DSMGV, como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de obligaciones y supuestos previstos en leyes estatales y municipales, así como en cualquier disposición jurídica que emane de ellas, se entenderán referidas al valor diario, mensual o anual de la Unidad de Medida y Actualización según corresponda.
+
+DÉCIMO. Durante el ejercicio fiscal 2017 las tarifas establecidas en el Título Tercero de la Ley de Hacienda del Estado a partir de la entrada en vigor del presente Decreto se calcularán utilizando el valor diario de la Unidad de Medida y Actualización del año 2016, publicado mediante Decreto en el Diario Oficial de la Federación de fecha 28 de enero de 2016, el cual señala que su valor es de $73.04 pesos.
+
+DÉCIMO PRIMERO. El Ejecutivo Estatal, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar las adecuaciones que correspondan al Reglamento de la Ley Registral del Estado de Tabasco y al Reglamento Interior de la Secretaría de Planeación y Finanzas, a efectos de establecer las facultades que le corresponden a la Coordinación Catastral y Registral. Hasta en tanto se reforman los reglamentos antes mencionados, continuarán en vigor aquellas disposiciones de la Ley Registral del Estado de Tabasco y su Reglamento que se derogan mediante el presente Decreto.
+
+DÉCIMO SEGUNDO. Sin perjuicio de lo dispuesto en el artículo transitorio anterior, el Coordinador Catastral y Registral de la Secretaría de Planeación y Finanzas será designado el 1º de enero de 2017 por el Gobernador del Estado.
+
+A partir de la misma fecha el Director General del Instituto Registral del Estado se denominará Director General del Registro Público de la Propiedad y del Comercio, y el Director General de Catastro y Ejecución Fiscal de la Secretaría de Planeación y Finanzas se denominará Director General de Catastro, ambos inferiores jerárquicos inmediatos del Coordinador Catastral y Registral.
+
+La Unidad de Ejecución Fiscal de la Secretaría de Planeación y Finanzas, antes adscrita a la Dirección General de Catastro y Ejecución Fiscal, será una unidad administrativa dependiente directamente del Secretario de Planeación y Finanzas.
+
+DÉCIMO TERCERO. La Secretaría de Planeación y Finanzas, en un plazo no mayor a noventa días naturales, realizará las adecuaciones que sean necesarias al Catálogo de Requisitos de Trámites para Servicios Registrales, con la finalidad de homologar, fortalecer y garantizar la modernización de la función registral y catastral.
+
+DÉCIMO CUARTO. Los recursos humanos, materiales y financieros con los que cuenta el Instituto Registral del Estado de Tabasco, se transferirán al Gobierno del Estado con adscripción y resguardo de la Secretaría de Planeación y Finanzas.
+
+En razón de lo anterior, las Secretarías de Gobierno, de Administración, de Contraloría, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, conforme resulte necesario en el ámbito de sus respectivas competencias, en coordinación con la Secretaría de Planeación y Finanzas, deberán realizar las acciones administrativas y legales necesarias para llevar a cabo dicha transferencia, de igual forma realizarán las adecuaciones que correspondan en cuanto a la aprobación e implementación de la estructura orgánica y ocupacional de la Secretaría de Planeación y Finanzas que resulte necesaria para la correcta aplicación del presente Decreto.
+
+DÉCIMO QUINTO. Los servidores públicos del Instituto Registral del Estado de Tabasco pasarán a formar parte de la Secretaría de Planeación y Finanzas, sin que sus derechos laborales se vean afectados con la entrada en vigor del presente Decreto.
+
+DÉCIMO SEXTO. A partir de la fecha de entrada en vigor del presente Decreto, los derechos y obligaciones del Instituto Registral del Estado de Tabasco se subrogan a la Secretaría de Planeación y Finanzas, quedando subsistentes jurídicamente, los convenios, acuerdos y demás actos jurídicos celebrados con el Gobierno Federal, para la operación del Instituto Registral del Estado de Tabasco.
+
+DÉCIMO SÉPTIMO. Las gestiones, procedimientos y demás actos que se encuentren en trámite en el Instituto Registral del Estado de Tabasco al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO OCTAVO. Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor del Instituto Registral del Estado de Tabasco, se transferirán al Gobierno del Estado a través de la Secretaría de Planeación y Finanzas.
+
+DÉCIMO NOVENO. A partir de la fecha de entrada en vigor del presente Decreto, cuando en las leyes, reglamentos, acuerdos, decretos y demás disposiciones normativas se haga referencias al Instituto Registral del Estado de Tabasco, se entenderán hechas a la Secretaría de Planeación y Finanzas, a través de la Coordinación Catastral y Registral.
+
+VIGÉSIMO. Las Secretarías de Gobierno, de Administración, de Contraloría, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, proveerán lo necesario para garantizar la correcta aplicación del presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE COMERCIO Y DEL CÓDIGO PENAL FEDERAL”.]
 
