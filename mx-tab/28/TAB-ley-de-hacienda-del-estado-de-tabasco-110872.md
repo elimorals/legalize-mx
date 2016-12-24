@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2015-12-30"
+last_updated: "2016-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "TAB"
 ---
 # LEY DE HACIENDA DEL ESTADO DE TABASCO
 
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TRANSITORIO NOVENO DEL DECRETO 033, PUBLICADO EN EL P.O. 24 DE DICIEMBRE DE 2016, TODAS LAS REFERENCIAS HECHAS EN LEYES, REGLAMENTOS, DECRETOS, ACUERDOS Y DEMÁS DISPOSICIONES DE CARÁCTER GENERAL AL VALOR DEL SALARIO MÍNIMO GENERAL VIGENTE O A SUS SIGLAS DSMGV, COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA PARA DETERMINAR LA CUANTÍA DE OBLIGACIONES Y SUPUESTOS PREVISTOS EN LEYES ESTATALES Y MUNICIPALES, ASÍ COMO EN CUALQUIER DISPOSICIÓN JURÍDICA QUE EMANE DE ELLAS, SE ENTENDERÁN REFERIDAS AL VALOR DIARIO, MENSUAL O ANUAL DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN SEGÚN CORRESPONDA".]
+
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -75,15 +79,23 @@ Las contribuciones, aprovechamientos y productos, establecidos en esta Ley, en a
 
 Sólo se podrán otorgar las exenciones o descuentos establecidos en leyes, reglamentos, disposiciones generales; así como, en resoluciones de carácter general emitidas de conformidad con el Código Fiscal del Estado. Quien otorgue indebidamente las exenciones o descuentos será responsable solidario de quien debió enterarlas.
 
-La Secretaría, emitirá los procedimientos para la aplicación de las exenciones o descuentos a que se refiere el presente artículo.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Las exenciones o descuentos que las dependencias y entidades pretendan otorgar al amparo de leyes, reglamentos o disposiciones de carácter general, de acuerdo a lo dispuesto por el párrafo anterior, deberán ser solicitadas por sus titulares a la Secretaría, acompañadas por el documento en el que fundamenten su solicitud.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+En el caso de las entidades, deberán contar, previamente a la solicitud que realicen ante la Secretaría, con la aprobación de su órgano de gobierno.
 
 ###### Artículo 6.
 
 Toda contribución deberá pagarse en términos del artículo 21 del Código Fiscal del Estado de Tabasco, salvo disposición en contrario prevista en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 7.
 
-Los montos establecidos se causan equivalentemente en días de salario mínimo general vigente en el Estado y se referirán en esta Ley con las siglas "DSMGV", salvo disposición en contrario.
+Los montos establecidos se causan equivalentemente en el valor diario de la Unidad de Medida y Actualización y se referirán en esta Ley con las siglas "UMA", salvo las establecidas en moneda nacional.
 
 Los montos de las contribuciones, aprovechamientos y productos señalados en esta Ley, se pagarán en moneda nacional de conformidad con las reglas que establece para tal efecto el artículo 21 del Código Fiscal del Estado.
 
@@ -199,17 +211,21 @@ d) Los organismos descentralizados y órganos desconcentrados de la Federación,
 
 En el caso de que las obligaciones estipuladas estén sujetas a alguna condición, se pagará el impuesto como si fueren puras y simples.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 17.
 
-Por lo que se refiere a la fracción VI del artículo 23 de esta ley, al celebrarse el contrato definitivo deberá pagarse el derecho de inscripción en el Instituto Registral del Estado de Tabasco.
+Por lo que se refiere a la fracción VI del artículo 23 de esta ley, al celebrarse el contrato definitivo deberá pagarse el derecho de inscripción en la Secretaría.
 
 ###### Artículo 18.
 
 Tratándose de documentos privados u otorgados fuera del Estado, los notarios, particulares o funcionarios judiciales, cuando sea potestativa la protocolización de sus resoluciones, darán aviso a la Secretaría, de los actos gravados en que intervengan por los impuestos a que se refiere este capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 19.
 
-Los notarios, el Instituto Registral del Estado de Tabasco y demás autoridades, no expedirán testimonios ni darán trámites a actos o contratos, hasta que sea pagado el impuesto que se cause.
+Los notarios, la Secretaría y demás autoridades, no expedirán testimonios ni darán trámites a actos o contratos, hasta que se paguen las contribuciones que se causen.
 
 En todo caso, al margen de los testimonios y en los documentos privados, deberá asentarse la constancia de pago o, en su caso, si se encuentra exento.
 
@@ -729,7 +745,7 @@ No son sujetos de este impuesto, cuando se presten, los servicios de hospedaje p
 
 ### CAPÍTULO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SEGURIDAD PÚBLICA Y SUS ÓRGANOS DESCONCENTRADOS
 
-#### SECCIÓN PRIMERA. CATASTRO
+#### SECCIÓN PRIMERA. CATASTRO Y REGISTRO PÚBLICO
 
 #### SECCIÓN SEGUNDA. VENTA, DISTRIBUCIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS
 
@@ -739,9 +755,11 @@ No son sujetos de este impuesto, cuando se presten, los servicios de hospedaje p
 
 ## TÍTULO TERCERO. DERECHOS
 
-### CAPÍTULO CUARTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE PLANEACIÓN Y FINANZAS Y SUS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO CUARTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE PLANEACIÓN Y FINANZAS
 
-#### SECCIÓN QUINTA. INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+#### SECCIÓN QUINTA
 
 ###### Artículo 63.
 
@@ -823,7 +841,9 @@ I. La legalización de firmas y la expedición de certificaciones en los proceso
 
 II. Los derechos de registros, la legalización de firmas, expedición de certificados y certificaciones solicitadas por las dependencias de la Federación, el Estado y los municipios, para asuntos oficiales de su competencia debidamente justificados y acreditados para determinar que la solicitud no implique relevo de la obligación a cargo de un particular para exhibir el documento respectivo.
 
-III. Las certificaciones o copias certificadas que expida el Instituto Registral del Estado de Tabasco, a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos económicos.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+III. Las certificaciones o copias certificadas que expida la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos económicos.
 
 ###### Artículo 70.
 
@@ -859,7 +879,9 @@ Las mismas cuotas y tarifas serán aplicables por la expedición de los document
 
 ### CAPÍTULO QUINTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN Y SUS ÓRGANOS DESCONCENTRADOS
 
-#### SECCIÓN SEGUNDA. SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS
+#### SECCIÓN SEGUNDA
+
+SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS.
 
 ###### Artículo 71.
 
@@ -915,11 +937,9 @@ II. Por las anotaciones de resoluciones
 
 judiciales y administrativas. 3.0 DSMGV
 
-III. Por el registro de nacimiento extemporáneo
+III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2016)
 
-por mandato judicial. 3.0 DSMGV
-
-IV. Por reconocimiento de hijos. 3.0 DSMGV
+IV. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2016)
 
 V. Por expedición de constancia positiva
 
@@ -935,55 +955,17 @@ supervivencia y matrimonio se pagará. 2.0 DSMGV
 
 VIII. Por certificación de acta de divorcio. 5.0 DSMGV
 
-IX. Por constancia negativa de matrimonio 1.0 DSMGV
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-X. Actos e inscripciones en el Registro Civil:
+IX. Por constancia negativa o positiva de matrimonio. 1.0 UMA
 
-a) Por cada acto de asentamiento o exposición,
+X. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2016)
 
-reconocimiento, designación y supervivencia
+> <small>(DEROGADO SEGUNDO, TERCER Y CUARTO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-celebrado a domicilio. 10.0 DSMGV
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-b) Por cada acto de reconocimiento, de
-
-supervivencia, por emancipación, cuando el
-
-incapacitado tenga bienes y entre a
-
-administrarlos, y por acta de tutela, cuando
-
-el interesado tenga bienes. 5.0 DSMGV
-
-c) Por celebración de matrimonio efectuado
-
-a domicilio en horas hábiles. 30.0 DSMGV
-
-d) Por celebración de matrimonio efectuado
-
-a domicilio en horas extraordinarias. 50.0 DSMGV
-
-e) Por celebración de matrimonio efectuado
-
-en el Registro Civil en horas hábiles. 4.0 DSMGV
-
-f) Por celebración de matrimonio efectuado
-
-en el Registro Civil en horas extraordinarias. 10.0 DSMGV
-
-g) Por acto de divorcio administrativo. 50.0 DSMGV
-
-h) Por disolución de sociedad conyugal
-
-aceptando el régimen de separación de bienes. 60.0 DSMGV
-
-Cuando los actos de Registro Civil deban verificarse fuera de la población en que resida la oficina además de los pagos correspondientes a las cuotas señaladas, se cobrará un derecho adicional equivalente a 0.4 días de salario mínimo general vigente en el Estado por kilómetro de distancia.
-
-La Dirección General del Registro Civil mandará a imprimir las formas especiales de solicitud de matrimonio, que serán llenadas gratuitamente por los servidores públicos del Registro Civil.
-
-Queda estrictamente prohibido a los oficiales y demás servidores públicos del Registro Civil, efectuar cobros de derechos, pues éstos se deberán cubrir en las oficinas recaudadoras del Gobierno del Estado.
-
-La Secretaría con motivo de programas colectivos y específicos de beneficio social que emprenda el gobierno del Estado a solicitud de la dependencia o entidad que preste el servicio de que se trate, podrá exentar o en su caso reducir el pago, de los derechos establecidos en las fracciones III, V y VI del presente artículo.
+La Secretaría con motivo de programas colectivos y específicos de beneficio social que emprenda el Gobierno del Estado a solicitud de la dependencia que preste el servicio de que se trate, podrá exentar o en su caso reducir el pago, de los derechos establecidos en las fracciones V y VI del presente artículo.
 
 #### SECCIÓN SEGUNDA. CENTRAL DE MAQUINARIA DE TABASCO
 
@@ -1175,61 +1157,181 @@ II. Por cada kilómetro o fracción siguiente. 0.25 DSMGV
 
 Por los servicios prestados por la Policía Estatal, órgano desconcentrado de la Secretaría de Seguridad pública, a través de la Policía Auxiliar y la Bancaria, Industrial y Comercial, se causarán y pagarán los derechos siguientes:
 
-I. Por servicio de 12 horas con elemento de
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-la policía armado de lunes a sábado por mes. 174.0 DSMGV
+I. Por servicio de 12 horas con elemento de la policía armado de lunes a sábado:
 
-II. Por servicio de 12 horas con elemento de
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-la policía armado de lunes a domingo por mes. 180.0 DSMGV
+a) Por mes. 174.0 UMA
 
-III. Por servicio de 24 horas con elemento de
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-la policía armado de lunes a sábado por mes. 348.0 DSMGV
+b) Por semestre. 1044.0 UMA
 
-IV. Por servicio de 24 horas con elemento de
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-la policía armado de lunes a domingo por mes. 360.0 DSMGV
+c) Por año. 2088.0 UMA
 
-V. Por servicio de 12 horas con elemento de
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-la policía desarmado de lunes a sábado por mes. 150.0 DSMGV
+II. Por servicio de 12 horas con elemento de la policía armado de lunes a domingo:
 
-VI. Por servicio de 12 horas con elemento de
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-la policía desarmado de lunes a domingo por mes. 168.0 DSMGV
+a) Por mes. 180.0 UMA
 
-VII. Por servicio de 24 horas con elemento de
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-la policía desarmado de lunes a sábado por mes. 300.0 DSMGV
+b) Por semestre. 1080.0 UMA
 
-VIII. Por servicio de 24 horas con elemento de
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-la policía desarmado de lunes a domingo por mes. 336.0 DSMGV
+c) Por año. 2160.0 UMA
 
-IX. Por servicio de 12 horas a instituciones de
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-banca múltiple y similares con manejo de
+III. Por servicio de 24 horas con elemento de la policía armado de lunes a sábado:
 
-efectivo, con elemento de la policía armado de
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-lunes a sábado por mes. 240.0 DSMGV
+a) Por mes. 348.0 UMA
 
-X. Por servicio de 24 horas a instituciones de
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-banca múltiple y similares con manejo de
+b) Por semestre. 2088.0 UMA
 
-efectivo, con elemento de la policía armado de
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-lunes a sábado por mes. 480.0 DSMGV
+c) Por año. 4176.0 UMA
 
-XI. Por servicio de 24 horas a instituciones de
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-banca múltiple y similares con manejo de
+IV. Por servicio de 24 horas con elemento de la policía armado de lunes a domingo:
 
-efectivo, con elemento de la policía desarmado
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-de lunes a sábado por mes. 355.0 DSMGV
+a) Por mes. 360.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+b) Por semestre. 2160.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c) Por año. 4320.0 UMA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+V. Por servicio de 12 horas con elemento de la policía desarmado de lunes a sábado:
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+a) Por mes. 150.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+b) Por semestre. 900.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c) Por año. 1800.0 UMA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+VI. Por servicio de 12 horas con elemento de la policía desarmado de lunes a domingo:
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+a) Por mes. 168.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+b) Por semestre. 1008.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c) Por año. 2016.0 UMA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+VII. Por servicio de 24 horas con elemento de la policía desarmado de lunes a sábado:
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+a) Por mes. 300.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+b) Por semestre. 1800.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c) Por año. 3600.0 UMA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+VIII. Por servicio de 24 horas con elemento de la policía desarmado de lunes a domingo:
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+a) Por mes. 336.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+b) Por semestre. 2016.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c) Por año. 4032.0 UMA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+IX. Por servicio de 12 horas a instituciones de banca múltiple y similares con manejo de efectivo, con elemento de la policía armado de lunes a sábado:
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+a) Por mes. 240.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+b) Por semestre. 1440.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c) Por año. 2880.0 UMA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+X. Por servicio de 24 horas a instituciones de banca múltiple y similares con manejo de efectivo, con elemento de la policía armado de lunes a sábado:
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+a) Por mes. 480.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+b) Por semestre. 2880.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c) Por año. 5760.0 UMA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XI. Por servicio de 24 horas a instituciones de banca múltiple y similares con manejo de efectivo, con elemento de la policía desarmado de lunes a sábado:
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+a) Por mes. 355.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+b) Por semestre. 2130.0 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c) Por año. 4260.0 UMA
 
 XII. Por servicio extraordinario de 12 horas con
 
@@ -1266,6 +1368,32 @@ c) Cuotas de riesgo por valor de traslado local. 0.09 DSMGV
 d) Cuotas de riesgo por valor de traslado foráneo. 0.11 DSMGV
 
 Los derechos a que se refiere el presente artículo, deberán pagarse a más tardar durante los siguientes 5 días a aquel en que terminó la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+El contribuyente deberá solicitar el servicio a través del formato que para tal efecto expida la Secretaría, mismo que deberá contener como mínimo lo siguiente:
+
+a) Nombre y domicilio fiscal del contribuyente.
+
+b) Registro Federal de Contribuyentes.
+
+c) En caso de ser persona jurídico colectiva: nombre y domicilio del apoderado legal, debiendo acompañar original y copia para cotejo del acta constitutiva y del instrumento que otorgue la representación legal suficiente para solicitar el servicio en términos del artículo 20 del Código Fiscal del Estado de Tabasco.
+
+d) Ubicación del lugar en el que se prestará el servicio.
+
+e) Tipo de servicio solicitado.
+
+f) Cantidad de elementos solicitados.
+
+g) Clave de identificación de los elementos que prestarán los servicios, misma que será proporcionada por la Policía Auxiliar y la Bancaria, Industrial y Comercial.
+
+h) Fecha de inicio y conclusión del servicio solicitado.
+
+i) Costo del servicio solicitado.
+
+j) Firma del solicitante del servicio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO SÉPTIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SALUD Y SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
@@ -1473,7 +1601,181 @@ Catastral en predios rústicos y urbanos. 1.0 DSMGV
 
 Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en las fracciones I y II del presente artículo.
 
-#### SECCIÓN PRIMERA. INSTITUTO REGISTRAL DEL ESTADO DE TABASCO
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 78-A.
+
+Por los servicios prestados por la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, relacionados con la aplicación de la Ley Registral del Estado de Tabasco, se causarán y pagarán previamente a la prestación del servicio los derechos siguientes:
+
+I. Por la inscripción de toda traslación de dominio de bienes muebles, inmuebles o derechos reales:
+
+a) Cuando se trate de viviendas de interés social o popular, los lotes o predios destinados a la edificación de vivienda, de conformidad con el artículo 3 de la presente Ley. 100.0 UMA
+
+b) Tratándose de bienes inmuebles no comprendidos en el inciso anterior. 180.0 UMA
+
+La misma cuota se pagará cuando provenga de resoluciones judiciales o administrativas.
+
+c) Tratándose de bienes muebles en todos los casos. 20.0 UMA
+
+d) Las rectificaciones de actos o contratos ya inscritos, la ratificación y reinscripción, las notas marginales y los contratos preparatorios, por cada acto. 4.0 UMA
+
+e) La inscripción de matrícula de la escritura de constitución, prórroga o cualquier otra modificación en las sociedades civiles, asociaciones civiles o fundaciones. 16.0 UMA
+
+f) Protocolización de actas de asambleas o decisiones de los órganos de administración de Sociedades Civiles, la tarifa será aplicable por cada asamblea que se inscriba. 16.0 UMA
+
+g) El registro de prescripción positiva. 11.0 UMA
+
+h) Las donaciones. 180.0 UMA
+
+i) La disolución de mancomunidad, por cada nuevo predio inscrito. 3.0 UMA
+
+j) Por inscripción de contratos de fideicomiso, fianza y cualquier otro contrato innominado o atípico. 32.0 UMA
+
+k) Cancelación de las inscripciones derivadas de los contratos de fideicomiso, fianza, y cualquier otro contrato innominado o atípico. 10.0 UMA
+
+l) La inscripción de los contratos de venta con reserva de dominio de vehículos automotores. 16.0 UMA
+
+II. Inscripción de instrumentos hipotecarios:
+
+a) Por la inscripción de documentos hipotecarios. 100.0 UMA
+
+b) Por la cancelación de hipoteca, fideicomiso o crédito; y la extinción de usufructo, o poder, por cada uno. 6.0 UMA
+
+c) La prórroga de hipoteca, si no aumenta el capital. 3.0 UMA
+
+d) Ampliación de hipoteca, por su registro. 62.0 UMA
+
+III. Inscripción de embargo:
+
+a) Inscripción de embargo: 100.0 UMA
+
+Sin embargo, la persona sujeta a esta contribución, podrá solicitar a la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, mediante escrito que le deberá presentar, al momento de realizar el trámite, donde manifieste su más estricto consentimiento, que el cobro se calcule aplicando la tasa del 3% sobre el importe del embargo.
+
+b) Cancelación. 10.0 UMA
+
+IV. Inscripción de prenda. 21.0 UMA
+
+V. Inscripción de testamentos. 2.0 UMA
+
+En el mes de septiembre, se cobrará a todos los testamentos por derecho de inscripción. 1.0 UMA
+
+VI. Inscripción de declaración de herederos. 6.0 UMA
+
+VII. Inscripción de usufructo. 6.0 UMA
+
+VIII. Por la inscripción de escrituras o documentos que contengan contratos conyugales o su disolución. 62.0 UMA
+
+IX. Inscripción de transacciones o sentencias que afecten el dominio de los bienes inmuebles o derechos reales. 62.0 UMA
+
+X. Inscripción de resolución judicial de transacciones o sentencias que declaran el estado de ausencia, así como la presunción de muerte de una persona. 11.0 UMA
+
+XI. Por el registro de escrituras o documentos que contengan la partición judicial de bienes hereditarios o la protocolización de los mismos. 62.0 UMA
+
+XII. Por el registro de obra nueva. 32.0 UMA
+
+XIII. Por el registro de escrituras de protocolización de fraccionamiento por cada lote. 5.0 UMA
+
+XIV. Inscripciones mercantiles:
+
+a) Por inscripciones de comerciantes que no pertenezcan a una sociedad mercantil y que estén obligados por disposición de ley. 6.0 UMA
+
+b) Por la inscripción o matrícula de los buques, embarcaciones o naves aéreas, que presten sus servicios en territorio del Estado y que estén obligados por disposición de ley, por unidad. 32.0 UMA
+
+c) La inscripción de matrícula de las escrituras de constitución, prórroga o cualquier otra modificación disolución o liquidación de las sociedades mercantiles, cualquiera que sea su objeto o denominación. 26.0 UMA
+
+d) Por el registro y renovación de poderes generales. 11.0 UMA
+
+e) Revocación o renuncia de poderes. 10.0 UMA
+
+f) El registro de protocolización de actas de sociedades mercantiles, contratos de corresponsalía y actas de asambleas y balances de sociedades mercantiles, por cada acto. 11.0 UMA
+
+XV. Inscripción de cédula hipotecaria. 12.0 UMA
+
+XVI. Certificados o constancias de no propiedad registrada. 3.0 UMA
+
+XVII. Certificación de libertad o existencia de gravamen por predio. 6.0 UMA
+
+XVIII. Certificado de Historia Registral o traslativa de dominio:
+
+a) Hasta 5 años. 7.0 UMA
+
+b) De 6 a 10 años. 10.0 UMA
+
+c) A partir de 11 años. 15.0 UMA
+
+XIX. Por la búsqueda de folio real por cada propiedad a nombre de persona física o moral. 1.0 UMA
+
+XX. Por cada uno de los documentos que deben inscribirse en la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas que no se encuentren comprendidos en este artículo. 11.1 UMA
+
+Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en las fracciones I inciso a), II, IV, V, VI, VII, VIII, X, XI, XII y XIII de este artículo.
+
+No se causarán los derechos a que se refiere la fracción I, inciso h) de este artículo, cuando se trate de los actos a que se refiere el artículo 93 fracción XXIII incisos a) y b) de la Ley del Impuesto Sobre la Renta.
+
+Tratándose de los derechos establecidos en los incisos b) y h) de la fracción I de este artículo, los contribuyentes que adquieran la propiedad de una vivienda o predio sin edificar, pudiendo pagar los derechos referidos, podrán utilizar de manera opcional, la tasa del 1 por ciento, calculada sobre la base gravable que resulte mayor de los siguientes valores:
+
+1) El precio o valor del inmueble señalado en el acto traslativo de dominio y sus accesorios, independientemente del nombre con que se designe; o
+
+2) El valor del inmueble determinado mediante el avalúo que practique perito valuador autorizado por la Comisión del Registro Estatal de Valuadores del Estado de Tabasco; o
+
+3) El valor catastral.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 78-B.
+
+Los servidores públicos encargados de las oficinas de la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, expedirán previo las formalidades de la ley, las copias certificadas de los documentos que se encuentren en sus archivos, así como de los testimonios librados en relación a lo siguiente:
+
+I. Hasta 20 hojas. 5. UMA
+
+II. De 21 a 50 hojas. 8.0 UMA
+
+III. De 51 en adelante. 11.0 UMA
+
+Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en este artículo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 78-C.
+
+Las inscripciones que realice la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, de los créditos hipotecarios, refaccionarios y de habilitación o avío, que soliciten las instituciones y organizaciones auxiliares.de (sic) crédito o los organismos públicos federales, así como su cancelación pagarán por cada acto 10.0 UMA.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 78-D.
+
+Por los servicios digitales de consulta que preste la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas o sus Oficinas Registrales, se pagarán:
+
+I. Por cada certificado de inexistencia de bienes solicitado en las oficinas; o a través de la red electrónica mundial, o en centros digitales de trámites y servicio. 5.0 UMA
+
+Cuando en un mismo instrumento se consignen diversos actos, a cada uno de estos se aplicará el derecho que corresponda.
+
+II. Consulta vía internet de índices e inscripciones contenidos en los archivos:
+
+a) Por mes. 13.00 UMA
+
+b) Por año. 130.00 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 78-E.
+
+Los magistrados, jueces, notarios o corredores y demás funcionarios que expidan testimonios o actos que deban ser registrados en la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, deberán cerciorarse de que previo a la prestación del servicio existe constancia de exención o pago de los derechos correspondientes, de lo contrario serán responsables solidarios en términos del Código Fiscal del Estado, y por ende estarán sujetos a las sanciones que correspondan.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 78-F.
+
+La Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas para efectos de acreditar los actos o trámites relacionados con viviendas de interés social o popular, podrá solicitar al interesado el avalúo correspondiente, cuando lo estime necesario.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 78-G.
+
+Por cada escritura o documento hecho o elaborado en otras Entidades Federativas y que por su naturaleza deba inscribirse en la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas se deberá pagar un 25 por ciento más sobre el importe de los derechos que genera la inscripción en dicha Coordinación.
+
+#### SECCIÓN PRIMERA. INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 79.
 
@@ -1647,9 +1949,11 @@ Tratándose de periodo de canje general de placas de circulación, los derechos 
 
 Tratándose de refrendo anual de placa de circulación, los derechos a los que se refieren los artículos 85, fracción IV y 86, fracción IV, de esta Ley deberán pagarse a más tardar el último día del mes de abril de cada año para que se realice el refrendo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 84.
 
-Para efecto del alta o baja en el registro estatal vehicular establecido en esta sección, se entiende por:
+Para efectos de la presente sección el vehículo se clasificará conforme a lo siguiente:
 
 I. Vehículo: Aparato con motor que se desplaza o mueve sobre el suelo y sirve para transportar cosas o personas y que puede incluir sin limitación entre otros: automóvil, camioneta “pick up”, ómnibus, van, camiones, góndolas, volteos, minibuses, microbuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, motocicletas, bicimotos, cuatrimotos, motonetas, motocarro, triciclos automotores, equipo especial móvil de la industria del comercio; cualquiera que sea su diseño, modelo, tipo, precio, dimensión, compartimentos, ejes, marca, origen o uso;
 
@@ -1666,6 +1970,10 @@ VI. Vehículo nuevo:
 a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos; y
 
 b) El importado definitivamente al país, que corresponda al año modelo en que se efectúe la importación.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Cuando en la presente sección se refiera a vehículo, ésta se entenderá hecha a todas las clasificaciones mencionadas en el presente artículo.
 
 ###### Artículo 85.
 
@@ -1733,7 +2041,15 @@ j) Pérdida total. 5.0 DSMGV
 
 k) Cambio de motor o chasis. 3.0 DSMGV
 
-l) Otros. 5.0 DSMGV
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+l) Suspensión de obligaciones vehiculares en
+
+el Registro Estatal de Vehículos. 5.0 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+m) Otros. 5.0 UMA
 
 ###### Artículo 86.
 
@@ -1847,43 +2163,13 @@ II. Por el uso anual del sistema informático para
 
 la expedición de permisos para vehículos en traslado. 100.0 DSMGV
 
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 #### SECCIÓN CUARTA. INSTITUTO DE VIVIENDA DE TABASCO
 
 ###### Artículo 88.
 
-Por los servicios prestados por el Instituto de Seguridad Social del Estado de Tabasco, órgano desconcentrado de la Secretaría de Planeación y Finanzas, se causarán y pagarán los derechos siguientes:
-
-I. Uso de la sala velatoria. 55.65 DSMGV
-
-II. Uso de la sala velatoria doble. 87.87 DSMGV
-
-III. Embalsamamiento. 21.97 DSMGV
-
-IV. Servicio de cremación. 102.52 DSMGV
-
-V. Servicio de cremación, cuando el servicio
-
-se solicite por un derechohabiente en términos
-
-de la Ley del Instituto de Seguridad Social del
-
-Estado de Tabasco. 95.19 DSMGV
-
-VI. Servicio de cremación, cuando el servicio
-
-se solicite por una funeraria particular. 109.84 DSMGV
-
-VII. Servicio de carroza. 7.32 DSMGV
-
-VIII. Por el uso del equipo de velación. 5.12 DSMGV
-
-IX. Servicio de Traslados, se cobrará el
-
-derecho por cada kilómetro que se traslade. 0.22 DSMGV
-
-X. Embalsamamiento de los cuerpos provenientes
-
-del Servicio Médico Forense del Estado. 36.61 DSMGV
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 #### SECCIÓN QUINTA. COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO
 
@@ -1911,23 +2197,51 @@ V. Salón Girasoles del Centro de Convenciones. 292.91 DSMGV
 
 VI. Salón Gardenias del Centro de Convenciones. 292.91 DSMGV
 
-VII. Nave I, II y III del Parque Tabasco, por cada una. 585.82 DSMGV
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-VIII. Teatro al Aire Libre del Parque Tabasco. 439.37 DSMGV
+VII. Nave I, II y III del Parque Tabasco Dora María, por cada una. 585.82 UMA
 
-IX. Palenque de Gallos del Parque Tabasco. 732.28 DSMGV
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-X. Estacionamiento I, II y III del Parque Tabasco, por cada uno. 219.68 DSMGV
+VIII. Teatro al Aire Libre del Parque Tabasco Dora María. 439.37 UMA
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+IX. Palenque de Gallos del Parque Tabasco Dora María. 732.28 UMA
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+X. Estacionamiento I, II y III del Parque Tabasco Dora María,
+
+por cada uno. 219.68 UMA
 
 XI. Casa de la Laguna 219.68 DSMGV
 
-XII. Por el uso de alguno de los inmuebles
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XII. Zona Rodeo del Parque Tabasco Dora María. 219.68 UMA
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XIII. Bailodromo del Parque Tabasco Dora María. 219.68 UMA
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XIV. Cualquier espacio interior con medidas de 9 metros
+
+cuadrados dentro del Parque Tabasco Dora María distinto
+
+a los arriba señalados. 10.00 UMA
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XV. Por el uso de alguno de los inmuebles
 
 señalados en las fracciones anteriores,
 
 se cobrará por días adicionales proporcionados
 
-para montar o desmontar: 146.45 DSMGV
+para montar o desmontar. 146.45 UMA
 
 El contribuyente adquirente del servicio, deberá garantizar con un 40 por ciento del monto del derecho que corresponda el buen uso y cuidado de los bienes proporcionados, dicha garantía se efectuará a través de un depósito de dinero ante la Secretaría.
 
@@ -1936,6 +2250,16 @@ Al finalizar la prestación del servicio la Secretaría de Administración a tra
 Dicha verificación se practicará en presencia del contribuyente y deberá estar debidamente circunstanciada, cumpliendo con las formalidades establecidas en el derecho común para las inspecciones judiciales.
 
 Para el caso en que existan daños, deterioros o detrimentos distintos a los causados por el paso del tiempo, la garantía se hará efectiva hasta por el monto que derive de los mismos, en caso de ser insuficiente para repararlos, la diferencia estará a cargo del contribuyente; cuando en la verificación se constate que no existen daños, deterioros o detrimentos distintos a los causados por el paso del tiempo, la Secretaría devolverá la garantía previa solicitud del contribuyente de conformidad con el Código Fiscal del Estado a la que además deberá anexar la constancia de verificación.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Se exenta del pago de los derechos establecidos en el presente artículo, a los Poderes del Estado, sus dependencias, órganos administrativos desconcentrados y organismos descentralizados, así como a los órganos dotados de autonomía constitucional, siempre que utilicen los bienes de dominio público a que se refiere el presente artículo, para el desarrollo o promoción de actividades relacionadas con el ejercicio de sus atribuciones y no se releve de la obligación a un particular.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría, con motivo de eventos de promoción turística o cultural que emprenda el Gobierno del Estado, podrá exentar o en su caso reducir el pago, de los derechos establecidos en el presente artículo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 90.
 
@@ -1963,7 +2287,9 @@ IV. Para el caso de aseguramiento de
 
 numerarios se cobrará por día. 1.00 DSMGV
 
-Cuando la víctima sea quien solicite la devolución de un bien mueble o inmueble, se cobrará el total de los derechos por los servicios que se prestaron, menos una reducción del 50 por ciento.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Cuando la víctima sea quien solicite la devolución de un bien mueble o inmueble, se cobrará únicamente el servicio de devolución.
 
 ### CAPÍTULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO ECONÓMICO Y TURISMO
 
@@ -2169,6 +2495,8 @@ I. Por la búsqueda y expedición de cada documento que contenga información re
 
 ### CAPÍTULO DÉCIMO CUARTO. ORGANISMOS DESCENTRALIZADOS
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 95.
 
 Por los Servicios prestados por la Secretaría de Ordenamiento Territorial y Obras Públicas, se causarán y pagarán los siguientes derechos:
@@ -2215,81 +2543,159 @@ Por los servicios relacionados a la Central de Maquinaria de Tabasco, órgano de
 
 I. Por el uso diario de la maquinaria siguiente:
 
-a) Motoconformadora línea 120-B, marca Caterpillar. 36.82 DSMGV
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-b) Motoconformadora línea 140-B, marca Caterpillar. 37.92 DSMGV
+a) Motoconformadora línea 120-B, marca Caterpillar. 32.26 UMA
 
-c) Motoconformadora línea 120-G, marca Caterpillar. 39.06 DSMGV
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-d) Motoconformadora línea 12-G, marca Caterpillar. 39.06 DSMGV
+b) Motoconformadora línea 140-B, marca Caterpillar. 33.23 UMA
 
-e) Tractor de orugas línea D5-B, marca Caterpillar. 33.83 DSMGV
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+c) Motoconformadora línea 120-G, marca Caterpillar. 34.23 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+d) Motoconformadora línea 12-G, marca Caterpillar. 34.23 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+e) Tractor de orugas línea D5-B, marca Caterpillar. 29.64 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 f) Compactador Vibratorio línea CA-25-DD,
 
-marca Dinapac. 22.29 DSMGV
+marca Dinapac. 19.53 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 g) Compactador pata de cabra línea
 
-CP 433C, marca Caterpillar. 23.06 DSMGV
+CP 433C, marca Caterpillar. 20.21 UMA
 
-h) Duo Pactor/ Compactador Neumático 18.17 DSMGV
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-i) Retroexcavadora línea 416 CAT, marca Caterpillar. 23.80 DSMGV
+h) DuoPactor/ Compactador Neumático 15.92 UMA
 
-j) Excavadora línea 320 C, marca Caterpillar. 52.73 DSMGV
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-k) Excavadora marca John Deere. 56.02 DSMGV
+i) Retroexcavadora línea 416 CAT, marca Caterpillar. 20.86 UMA
 
-l) Grúa Hiab TCG-039, marca Kenworth Kenmex 30.22 DSMGV
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+j) Excavadora línea 320 C, marca Caterpillar. 40.66 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+k) Excavadora marca John Deere. 43.20 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+l) Grúa Hiab TCG-039, marca Kenworth Kenmex 26.49 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 m) Camión de volteo 7 metros cúbicos,
 
-marca Dodge o Chevrolet. 19.17 DSMGV
+marca Dodge o Chevrolet. 16.80 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 n) Camión de volteo 14 metros cúbicos,
 
-marca Freightliner. 38.35 DSMGV
+marca Freightliner. 33.61 UMA
 
-o) Pipa de agua de 10,000 litros, marca Chevrolet. 17.57 DSMGV
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+o) Pipa de agua de 10,000 litros, marca Chevrolet. 15.40 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 p) Petrolizadora Diesel capacidad 8,000 litros,
 
-marca Chevrolet. 35.87 DSMGV
+marca Chevrolet. 31.43 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 q) Planta mezcladora en frío línea GOM-10,
 
-marca GOMO. 25.56 DSMGV
+marca GOMO. 22.40 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 r) Planta mezcladora en caliente,
 
-marca ADM SPL-110 230.66 DSMGV
+marca ADM SPL-110 185.29 UMA
 
-s) Tractocamión con tanque, marca Kenworth. 31.71 DSMGV
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-t) Tractocamión marca Kenworth. 18.66 DSMGV
+s) Tractocamión con tanque, marca Freightliner. 27.78 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+t) Tractocamión marca Freightliner. 16.35 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 u) Pavimentadora con operador y 2 ayudantes
 
 en el municipio de Centro, línea BG260,
 
-Barber Greene. 85.67 DSMGV
+Barber Greene. 75.08 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 v) Pavimentadora con operador y 2 ayudantes
 
 en cualquier otro municipio del Estado,
 
-línea BG260, marca Barber Greene. 92.26 DSMGV
+línea BG260, marca Barber Greene. 80.85 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 w) Pavimentadora con operador y 2 ayudantes
 
-en otro Estado, línea BG260, marca Barber Greene. 98.86 DSMGV
+en otro Estado, línea BG260, marca Barber Greene. 86.83 UMA
 
 x) Cuando el equipo sea excedente de dimensiones,
 
 como norma preventiva, se cobrará un vehículo
 
 piloto guía. 17.83 DSMGV
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+y) Cargador Frontal de Oruga 953. 29.91 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+z) Cargador Frontal de Oruga 9551. 32.90 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+aa) Cargador Frontal S/Neumáticos 175-B Clark Michigan. 51.20 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+bb) Cargador Frontal S/Neumáticos 950-E Caterpillar. 48.49 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+cc) Tractor de Orugas D6-C. 36.08 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+dd) Grúa Grove de 10 Toneladas RT-522. 42.00 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+ee) Maquila mezcla en frío por metro cúbico GOM 10. 1.67 UMA
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+ff) Maquila mezcla en caliente por metro cúbico ADM-SPL-110. 4.79 UMA
 
 II. Cuando las dependencias, órganos administrativos desconcentrados y entidades de la administración pública estatal, municipal o federal soliciten el uso diario de la maquinaria siguiente:
 
@@ -2341,9 +2747,13 @@ marca GOMO. 16.34 DSMGV
 
 r) Planta mezcladora en caliente, marca ADM SPL-110 205.04 DSMGV
 
-s) Tractocamión con tanque, marca Kenworth. 14.76 DSMGV
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-t) Tractocamión marca Kenworth. 25.14 DSMGV
+s) Tractocamión con tanque, marca Freightliner. 25.14 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+t) Tractocamión marca Freightliner. 14.76 UMA
 
 u) Pavimentadora con operador y 2 ayudantes en el
 
@@ -2365,59 +2775,71 @@ como norma preventiva, se cobrará un vehículo
 
 piloto guía. 17.83 DSMGV
 
-III. En todos los servicios se deberá cubrir el flete, de acuerdo a lo siguiente:
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-a) Máquina de hasta 11.99 toneladas, en un radio
+y) Cargador Frontal de Oruga 953. 25.0 UMA
 
-de 1 a 10 kilómetros alrededor de la Central
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-de Maquinaria de Tabasco. 24.90 DSMGV
+z) Cargador Frontal de Oruga 9551. 27.50 UMA
 
-(a) Kilómetro adicional fuera del perímetro anterior 0.38 DSMGV
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-(b) Kilómetro de vacío 0.21 DSMGV
+aa) Cargador Frontal S/Neumáticos
 
-(c) Maquinas con medidas excedentes de la cama
+175-B Clark Michigan. 38.87 UMA
 
-hasta 1 metro de ancho y 3 metros de largo. 0.10 DSMGV
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-(d) Kilómetros adicionales en rodado en terracería 0.10 DSMGV
+bb) Cargador Frontal S/Neumáticos
 
-b) Máquina de 12 a 27.99 toneladas, en un radio
+950-E Caterpillar 35.33 UMA
 
-de 1 a 10 kilómetros alrededor de la Central de
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-Maquinaria de Tabasco. 32.22 DSMGV
+cc) Tractor de Orugas D6-C. 38.0 UMA
 
-(a) Kilómetro adicional fuera del perímetro anterior. 0.43 DSMGV
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-(b) Kilómetro de vacío. 0.21 DSMGV
+dd) Grúa Grove de 10 Toneladas RT-522. 37.67 UMA
 
-(c) Máquinas con medidas excedentes de la cama hasta
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-1 metro de ancho y 3 metros de largo. 0.10 DSMGV
+ee) Maquila mezcla en frío por metro cúbico GOM-10. 1.67 UMA
 
-(d) Kilómetros adicionales en rodado en terracería. 0.10 DSMGV
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-c) Máquina de 28 a 60 toneladas, en un radio de
+ff) Maquila mezcla en caliente por metro cúbico ADM-SPL-110. 3.63 UMA
 
-1 a 10 kilómetros alrededor de la Central de
+> <small>(REFORMADA [N. DE E. DEL ANÁLISIS AL DECRETO 033, PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2016, SE ADVIERTE QUE DE ESTA FRACCIÓN, SE MODIFICÓ SU ESTRUCTURA DE FORMA SUSTANCIAL.], P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-Maquinaria de Tabasco. 38.73 DSMGV
+III. Cuando se adquiera el servicio de una maquinaria De 11.99 hasta 60 toneladas, en un radio de 1 a 10 Kilómetros alrededor de la Central de Maquinaria de Tabasco se deberá cubrir:
 
-(a) Kilómetro adicional fuera del perímetro anterior. 0.55 DSMGV
+a) Flete. 30.73 UMA
 
-(b) Kilómetro de vacío. 0.21 DSMGV
+b) Kilometro adicional fuera del
 
-(c) Máquinas con medidas excedentes de la cama hasta
+perímetro señalado en la
 
-1 metro de ancho y 3 metros de largo. 0.10 DSMGV
+presente fracción. 0.55 UMA
 
-(d) Kilómetros adicionales en rodado en terracería. 0.10 DSMGV
+c) Kilómetro de vacío. 0.21 UMA
+
+d) Máquinas con medidas excedentes
+
+de la cama hasta 1 metro de ancho
+
+y 3 metros de largo. 0.10 UMA
+
+e) Por cada kilómetro adicional en
+
+rodado en terracería. 0.10 UMA
 
 En caso de que se requiera pagar peaje por cuotas de carreteras o autopistas, derivado de la distancia donde deba prestarse el servicio, el costo estará a cargo de quien lo solicite.
 
-Si derivado del flete de la maquinaria solicitada, es necesario emplear maniobras complejas y equipo adicional para su traslado, se aumentara el costo del servicio establecido en la fracción III, incisos a), b) y c) del presente artículo en un 10 por ciento.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Si derivado del flete de la maquinaria solicitada, es necesario emplear maniobras complejas y equipo adicional para su traslado, se aumentará el costo de los servicios establecidos en los incisos a), b), c), d) y e) de la fracción III del presente artículo en un 10 por ciento.
 
 ###### Artículo 97.
 
@@ -2501,9 +2923,13 @@ d) Por modificación menor. 10.00 DSMGV
 
 II. Servicios relacionados con la constancia de no inhabilitación:
 
-a) Expedición. 5.00 DSMGV
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-b) Por reimpresión de constancia, siempre que se solicite en el mismo año calendario en la que se haya expedido. 2.50 DSMGV
+a) Expedición. 3.00 UMA
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+b) Por reimpresión de constancia, siempre que se solicite en el mismo año calendario en la que se haya expedido. 1.50 UMA
 
 ### CAPÍTULO TERCERO. PARTICIPACIONES
 
@@ -2607,7 +3033,9 @@ i) Por la autorización de residuos de manejo especial. 150.0 DSMGV
 
 j) Por la autorización para el transporte de residuos de manejo especial. 150.0 DSMGV
 
-k) Por la autorización para el ingreso al Estado de residuos de manejo especial. 150.0 DSMGV
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+k) Por la autorización para ingresar al Estado residuos de manejo especial por cualquier medio de transporte. 150.0 UMA
 
 l) Por la autorización para la reutilización, reciclaje o utilización en procesos productivos de residuos de manejo especial. 100.0 DSMGV
 
@@ -2641,9 +3069,13 @@ b) Por el otorgamiento o expedición de licencias para la exploración, explotac
 
 c) Por el otorgamiento o expedición de permisos para la exploración, explotación o aprovechamiento de recursos en las áreas naturales protegidas de competencia estatal. 100.0 DSMGV
 
-VI. Por los servicios de monitoreo y análisis de una muestra en el laboratorio de calidad del agua. 5.0 DSMGV
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-VII. Por los servicios relacionados con las actividades de monitoreo ambiental. 15.0 DSMGV
+VI. Por los servicios de monitoreo de una muestra realizada por el laboratorio ambiental. 5.0 UMA
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+VII. Por los servicios de análisis de una muestra en el laboratorio ambiental. 15.0 UMA
 
 VIII. Por el servicio de opiniones técnicas de compatibilidad. 35.08 DSMGV
 
@@ -2705,233 +3137,67 @@ de cartuchos de uso deportivo. 40.0 DSMGV
 
 ###### Artículo 103.
 
-Por los servicios relacionados con el Instituto Registral del Estado de Tabasco, organismo público descentralizado del Gobierno del Estado, se causarán y pagarán previamente a la prestación del servicio los derechos siguientes:
+Por los servicios prestados por el Instituto de Seguridad Social del Estado de Tabasco, organismo descentralizado del Gobierno del Estado, se causarán y pagarán los derechos siguientes:
 
-I. Toda traslación de dominio de bienes muebles, inmuebles o derechos reales:
+I. Uso de la sala velatoria. 55.65 UMA
 
-a) Cuando se trate de viviendas de interés
+II. Uso de la sala velatoria doble. 87.87 UMA
 
-social o popular, los lotes o predios destinados
+III. Embalsamamiento. 21.97 UMA
 
-a la edificación de vivienda, de conformidad con
+IV. Servicio de cremación. 102.52 UMA
 
-el artículo 3 de la presente Ley. 100.0 DSMGV
+V. Servicio de cremación, cuando el servicio
 
-b) Tratándose de bienes inmuebles no comprendidos
+se solicite por un derechohabiente en términos
 
-en el inciso anterior. 180.0 DSMGV
+de la Ley del Instituto de Seguridad Social del
 
-La misma cuota se pagará cuando provenga de resoluciones judiciales o administrativas.
+Estado de Tabasco. 95.19 UMA
 
-c) Tratándose de bienes muebles en todos los casos. 20.0 DSMGV
+VI. Servicio de cremación, cuando el servicio
 
-d) Las rectificaciones de actos o contratos ya
+se solicite por una funeraria particular. 109.84 UMA
 
-inscritos, la ratificación y reinscripción, las
+VII. Servicio de carroza. 7.32 UMA
 
-notas marginales y los contratos preparatorios,
+VIII. Por el uso de equipo de velación. 5.12 UMA
 
-por cada acto. 4.0 DSMGV
+IX. Servicio de Traslados, se cobrará el
 
-e) La inscripción de matrícula de la escritura
+Derecho por cada kilómetro que se
 
-de constitución, prórroga o cualquier otra
+traslade. 0.22 UMA
 
-modificación en las sociedades civiles,
+X. Embalsamamiento de los cuerpos
 
-asociaciones civiles o fundaciones. 16.0 DSMGV
+provenientes del Servicio Médico Forense
 
-f) Protocolización de actas de asambleas o
-
-decisiones de los órganos de administración de
-
-Sociedades Civiles, la tarifa será aplicable por
-
-cada asamblea que se inscriba. 16.0 DSMGV
-
-g) El registro de prescripción positiva. 11.0 DSMGV
-
-h) Las donaciones. 180.0 DSMGV
-
-i) La disolución de mancomunidad, por cada
-
-nuevo predio inscrito. 3.0 DSMGV
-
-j) Por inscripción de contratos de fideicomiso,
-
-fianza y cualquier otro contrato innominado
-
-o atípico. 32.0 DSMGV
-
-k) Cancelación de las inscripciones derivadas de
-
-los contratos de fideicomiso, fianza, y cualquier
-
-otro contrato innominado o atípico. 10.0 DSMGV
-
-l) La inscripción de los contratos de venta con
-
-reserva de dominio de vehículos automotores. 16.0 DSMGV
-
-II. Instrumentos hipotecarios:
-
-a) Por la inscripción de documentos hipotecarios. 100.0 DSMGV
-
-b) Por la cancelación de hipoteca, fideicomiso
-
-o crédito; y la extinción de usufructo, o poder,
-
-por cada uno. 6.0 DSMGV
-
-c) La prórroga de hipoteca, si no aumenta el capital. 3.0 DSMGV
-
-d) Ampliación de hipoteca, por su registro. 62.0 DSMGV
-
-III. Embargos:
-
-a) Inscripción de Embargos: 100.0 DSMGV
-
-Sin embargo, la persona sujeta a esta contribución, podrá solicitar al Instituto Registral del Estado de Tabasco, mediante escrito que le deberá presentar, al momento de realizar el trámite, donde manifieste su más estricto consentimiento, que el cobro se calcule aplicando la tasa del 3% sobre el importe del embargo.
-
-b) Cancelación. 10.0 DSMGV
-
-IV. Prendas. 21.0 DSMGV
-
-V. Testamentos. 2.0 DSMGV
-
-En el mes de septiembre, se cobrará a todos los testamentos por derecho de inscripción. 1.0 DSMGV
-
-VI. Declaración de herederos. 6.0 DSMGV
-
-VII. Usufructo. 6.0 DSMGV
-
-VIII. Por la inscripción de escrituras o documentos que contengan contratos conyugales o su disolución. 62.0 DSMGV
-
-IX. Transacciones o sentencias que afecten el dominio de los bienes inmuebles o derechos reales. 62.0 DSMGV
-
-X. Resoluciones judiciales de transacciones o sentencias que declaran el estado de ausencia, así como la presunción de muerte de una persona. 11.0 DSMGV
-
-XI. Por el registro de escrituras o documentos que contengan la partición judicial de bienes hereditarios o la protocolización de los mismos. 62.0 DSMGV
-
-XII. Por el registro de obra nueva. 32.0 DSMGV
-
-XIII. Por el registro de escrituras de protocolización de fraccionamiento por cada lote. 5.0 DSMGV
-
-XIV. Inscripciones mercantiles:
-
-a) Por inscripciones de comerciantes que
-
-no pertenezcan a una sociedad mercantil
-
-y que estén obligados por disposición de Ley. 6.0 DSMGV
-
-b) Por la inscripción o matrícula de los buques,
-
-embarcaciones o naves aéreas, que presten sus
-
-servicios en territorio del Estado y que
-
-estén obligados por disposición de Ley, por unidad. 32.0 DSMGV
-
-c) La inscripción de matrícula de las escrituras
-
-de constitución, prórroga o cualquier otra
-
-modificación disolución o liquidación de las
-
-sociedades mercantiles, cualquiera que sea
-
-su objeto o denominación. 26.0 DSMGV
-
-d) Por el registro y renovación de poderes generales. 11.0 DSMGV
-
-e) Revocación o renuncia de poderes. 10.0 DSMGV
-
-f) El registro de protocolización de actas de
-
-sociedades mercantiles, contratos de corresponsalía
-
-y actas de asambleas y balances de sociedades
-
-mercantiles, por cada acto. 11.0 DSMGV
-
-XV. Cédulas hipotecarias. 12.0 DSMGV
-
-XVI. Certificados o constancias de no
-
-propiedad registrada. 3.0 DSMGV
-
-XVII. Certificación de libertad o existencia de gravamen por predio. 6.0 DSMGV
-
-XVIII. Certificado de Historia Registral o traslativa de dominio:
-
-a) Hasta 5 años. 7.0 DSMGV
-
-b) De 6 a 10 años. 10.0 DSMGV
-
-c) A partir de 11 años. 15.0 DSMGV
-
-XIX. Por la búsqueda de folio
-
-real por cada propiedad a nombre
-
-de persona física o moral. 1.0 DSMGV
-
-XX. Los demás documentos no comprendidos en este artículo. 11.0 DSMGV
-
-Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en las fracciones I inciso a), II, IV, V, VI, VII, VIII, X, XI, XII y XIII de este artículo.
-
-No se causaran los derechos a que se refiere la fracción I, inciso h) de este artículo, cuando se trate de los actos a que se refiere el artículo 93 fracción XXIII incisos a) y b) de la Ley del Impuesto Sobre la Renta.
-
-Tratándose de los derechos establecidos en los incisos b) y h) de la fracción I de este artículo, los contribuyentes que adquieran la propiedad de una vivienda o predio sin edificar, pudiendo pagar los derechos referidos, podrán utilizar de manera opcional, la tasa del 1 por ciento, calculada sobre la base gravable que resulte mayor de los siguientes valores:
-
-1) El precio o valor del inmueble señalado en el acto traslativo de dominio y sus accesorios, independientemente del nombre con que se designe; o
-
-2) El valor del inmueble determinado mediante el avalúo que practique perito valuador autorizado por la Comisión del Registro Estatal de Valuadores del Estado de Tabasco; o
-
-3) El valor catastral.
+del Estado. 36.61 UMA
 
 ###### Artículo 104.
 
-Los servidores públicos encargados de las oficinas del Instituto Registral del Estado de Tabasco expedirán previo las formalidades de la ley, las copias certificadas de las escrituras de los volúmenes que se encuentran en los archivos y que los interesados solicitaren, por cada testimonio librado, en relación a lo siguiente:
-
-I. Hasta 20 hojas. 5.0 DSMGV
-
-II. De 21 a 50 hojas. 8.0 DSMGV
-
-III. De 51 en adelante. 11.0 DSMGV
-
-Cuando se trate de viviendas de interés social o popular, se cobrará en el primer caso el 25 por ciento; y en el segundo, el 50 por ciento del monto total de las contribuciones señaladas en este artículo.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 ###### Artículo 105.
 
-Las inscripciones en el Instituto Registral del Estado de Tabasco de los créditos hipotecarios, refaccionarios y de habilitación o avío, que soliciten las instituciones y organizaciones auxiliares de crédito o los organismos públicos federales, así como su cancelación pagarán por cada acto 10.0 DSMGV.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 ###### Artículo 106.
 
-Por los servicios digitales de consulta que preste el Instituto Registral del Estado de Tabasco o sus Oficinas Registrales, se pagarán:
-
-I. Por cada certificado de inexistencia de bienes solicitado en las oficinas; o a través de la red electrónica mundial, o en centros digitales de trámites y servicio. 5.0 DSMGV
-
-Cuando en un mismo instrumento se consignen diversos actos, a cada uno de estos se aplicará el derecho que corresponda.
-
-II. Consulta vía internet de índices e inscripciones contenidos en los archivos:
-
-a) Por mes. 13.00 DSMGV
-
-b) Por año. 130.00 DSMGV
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 ###### Artículo 107.
 
-Los magistrados, jueces, notarios o corredores y demás funcionarios que expidan copias de sentencias, testimonios o actos que deban ser registrados, quedan sujetos a las disposiciones que establece el Código Fiscal del Estado para los notarios y encargados del Instituto Registral del Estado de Tabasco respectivamente, y por ende, a las sanciones correspondientes, si antes el interesado no presenta el comprobante de pago oficial autorizado por las autoridades fiscales.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 ###### Artículo 108.
 
-El Instituto Registral del Estado de Tabasco para efectos de acreditar los actos o trámites relacionados con viviendas de interés social o popular, podrá solicitar al interesado el avalúo correspondiente, cuando lo estime necesario.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 ###### Artículo 109.
 
-Las escrituras o documentos hechos o elaborados en otras Entidades Federativas y que por su naturaleza deban inscribirse en el Instituto Registral del Estado de Tabasco deberán pagar un 25 por ciento más sobre el importe de los derechos que genera su inscripción en dicha Institución.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 ###### Artículo 110.
 
@@ -3353,4 +3619,146 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 
 > <small>[N. DE E. VÉASE ANEXO PRIMERO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 88 A LA 136.]</small>
 
+> <small>[N. DE E. VÉANSE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65.]</small>
+
 > <small>[N. DE E. VÉASE ANEXO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 137 A LA 351.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 033 POR EL QUE “SE REFORMAN: LOS ARTÍCULOS 5 SEGUNDO PÁRRAFO; 7 PRIMER PÁRRAFO; 17; 19 PRIMER PÁRRAFO; 69 FRACCIÓN III; 72 FRACCIÓN IX Y ÚLTIMO PÁRRAFO; 77 FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X Y XI; LA DENOMINACIÓN DEL CAPÍTULO CUARTO DEL TÍTULO TERCERO "DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE PLANEACIÓN Y FINANZAS Y SUS ÓRGANOS DESCONCENTRADOS" Y DE SU SECCIÓN PRIMERA DENOMINADA "CATASTRO"; 84 PRIMER PÁRRAFO; 85 FRACCIÓN VI INCISO I); 89 FRACCIONES VII, VIII, IX Y X; LA DENOMINACIÓN DE LA SECCIÓN SEGUNDA DEL CAPÍTULO QUINTO DEL TÍTULO TERCERO DENOMINADA "SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, DECOMISADOS O ABANDONADOS"; 90 ÚLTIMO PÁRRAFO; 96 FRACCIONES I INCISOS A), B), C), D), E), F), G), H), I), J), K), L), M), N), O), P), Q), R), S), T) U), V), Y W), II INCISOS S) Y T) Y III Y EL TERCER PÁRRAFO; 99 FRACCIÓN II INCISOS A) Y B); 100 FRACCIONES III INCISO K), VI Y VII; LA DENOMINACIÓN DE LA SECCIÓN PRIMERA DEL CAPÍTULO DÉCIMO CUARTO DEL TÍTULO TERCERO DENOMINADA "INSTITUTO REGISTRAL DEL ESTADO DE TABASCO"; 103; SE ADICIONAN: UN PÁRRAFO TERCERO AL ARTÍCULO 5; AL 77 FRACCIONES I LOS INCISOS A), B) Y C), II LOS INCISOS A), B) Y C), III LOS INCISOS A), B) Y C), IV LOS INCISOS A), B) Y C), V LOS INCISOS A), B) Y C), VI LOS INCISOS A), B) Y C), VII LOS INCISOS A), B) Y C), VIII LOS INCISOS A), B) Y C), IX LOS INCISOS A), B) Y C), X LOS INCISOS A), B) Y C) Y XI LOS INCISOS A), B) Y C) Y UN ÚLTIMO PÁRRAFO; 78-A; 78-B; 78-C; 78-D; 78-E; 78-F; 78-G; AL 84 UN ÚLTIMO PÁRRAFO; AL 85 FRACCIÓN VI EL INCISO I), PASANDO LA ACTUAL I) A SER M); AL 89 LAS FRACCIONES XII, XIII Y XIV, PASANDO LA ACTUAL XII A SER XV Y LOS PÁRRAFOS SEXTO Y SÉPTIMO; AL 96 FRACCIONES I LOS INCISOS Y), Z), AA), BB), CC), DD), EE) Y FF), II LOS INCISOS Y), Z), AA), BB), CC), EE), Y FF); UN SEGUNDO PÁRRAFO E INCISOS A), B) Y C) A LA FRACCIÓN III, LAS FRACCIONES V, VI Y VII Y LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO DEL NUMERAL VIGÉSIMO SEGUNDO DEL ANEXO PRIMERO; LOS NUMERALES VIGÉSIMO TERCERO Y VIGÉSIMO CUARTO AL ANEXO PRIMERO. SE DEROGAN: LAS FRACCIONES III, IV Y X, SEGUNDO, TERCER Y CUARTO PÁRRAFO, TODOS DEL ARTÍCULO 72; LA SECCIÓN QUINTA DEL CAPÍTULO CUARTO DEL TÍTULO TERCERO DENOMINADA "INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO"; 88; 104; 105; 106; 107; 108 Y 109. TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día uno del mes de enero del año dos mil diecisiete, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado transfiera al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2017 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de la competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaria estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2017 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2017 no contempla los recursos refrendados del ejercicio fiscal 2016, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2017.
+
+QUINTO. Se condonan y se eximen parcialmente, durante el ejercicio fiscal 2017, los créditos fiscales y las obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, tarjeta de circulación y calcomanías, conforme a lo siguiente:
+
+I. Los determinados por concepto del Impuesto Vehicular Estatal establecido en el capítulo séptimo del título segundo vigente hasta el 31 de diciembre de 2014, en la Ley de Hacienda del Estado de Tabasco, correspondientes a los ejercicios 2011, 2012, 2013 y 2014.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2017, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados al Impuesto Vehicular Estatal; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago de este impuesto más su actualización, dentro del periodo del uno de enero al treinta y uno de diciembre del ejercicio fiscal 2017, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERIODO DE PAGO
+
+Recargos 100%
+
+enero-diciembre 2017
+
+Multas 100%
+
+Gastos de
+
+ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el apartado A del presente artículo transitorio.
+
+II. Los determinados por concepto de derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2017.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2017, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados por concepto del derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2017; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo del uno de enero al treinta y uno de diciembre del ejercicio fiscal 2017, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERIODO DE PAGO
+
+Recargos 100%
+
+enero-diciembre 2017
+
+Multas 100%
+
+Gastos de
+
+ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el apartado A del presente artículo transitorio.
+
+De igual forma los contribuyentes podrán optar por pagar el impuesto de forma bancarizada mediante las siguientes opciones:
+
+1. Portal de Recaudanet
+
+2. Receptorías de Rentas
+
+A través de los siguientes medios:
+
+Transferencia electrónica (únicamente en Recaudanet).
+
+Tarjeta de crédito.
+
+Tarjeta de débito.
+
+Comprobante de pago de establecimientos autorizados, mediante la modalidad de pago referenciado.
+
+Lo anterior de conformidad con los procedimientos establecidos en el artículo 21 del Código Fiscal del Estado.
+
+La condonación a que se refiere este artículo, también procederá aun y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado, a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán condonar los créditos fiscales pagados y en ningún caso la condonación a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión al beneficio de condonación previsto en este artículo, no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+SEXTO. La Secretaría de Planeación y Finanzas expedirá a más tardar el 1º de febrero de 2017, las reglas que considere necesarias para la correcta aplicación de la condonación y estímulo fiscal que se otorga en el artículo transitorio que antecede.
+
+La Secretaría de Planeación y Finanzas informará de conformidad a lo establecido en el Artículo 2 de la presente Ley, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+SÉPTIMO. El Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas, implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2017, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año- modelo sea 2013 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares, será autorizada por la Secretaría de Planeación y Finanzas, la que deberá expedir a más tardar el 1º de febrero de 2017 las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizadas, serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso del vehículo;
+
+II. Que la autoridad fiscal competente requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Planeación y Finanzas informe a la Dirección General de la Policía Estatal de Caminos los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6, fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Planeación y Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas, así como todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+OCTAVO. El Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas, implementará a partir del 1º de febrero de 2017 un programa de condonación de pagos y estímulos fiscales en las tarifas que se pagan periódicamente por los servicios que presta la Comisión Estatal de Agua y Saneamiento.
+
+Dicho programa deberá contribuir a fortalecer la eficiencia recaudatoria del Gobierno del Estado, contemplando un esquema de depuración de créditos incobrables, con el objetivo de incrementar el número de contribuyentes cumplidos del padrón de usuarios de los servicios que presta la Comisión Estatal de Agua y Saneamiento además de garantizar que los ingresos de dicho organismo descentralizado sean recaudados por la Secretaría de Planeación y Finanzas en términos del artículo 22 del Código Fiscal del Estado de Tabasco.
+
+NOVENO. Todas las referencias hechas en leyes, reglamentos, decretos, acuerdos y demás disposiciones de carácter general al valor del salario mínimo general vigente o a sus siglas DSMGV, como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de obligaciones y supuestos previstos en leyes estatales y municipales, así como en cualquier disposición jurídica que emane de ellas, se entenderán referidas al valor diario, mensual o anual de la Unidad de Medida y Actualización según corresponda.
+
+DÉCIMO. Durante el ejercicio fiscal 2017 las tarifas establecidas en el Título Tercero de la Ley de Hacienda del Estado a partir de la entrada en vigor del presente Decreto se calcularán utilizando el valor diario de la Unidad de Medida y Actualización del año 2016, publicado mediante Decreto en el Diario Oficial de la Federación de fecha 28 de enero de 2016, el cual señala que su valor es de $73.04 pesos.
+
+DÉCIMO PRIMERO. El Ejecutivo Estatal, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar las adecuaciones que correspondan al Reglamento de la Ley Registral del Estado de Tabasco y al Reglamento Interior de la Secretaría de Planeación y Finanzas, a efectos de establecer las facultades que le corresponden a la Coordinación Catastral y Registral. Hasta en tanto se reforman los reglamentos antes mencionados, continuarán en vigor aquellas disposiciones de la Ley Registral del Estado de Tabasco y su Reglamento que se derogan mediante el presente Decreto.
+
+DÉCIMO SEGUNDO. Sin perjuicio de lo dispuesto en el artículo transitorio anterior, el Coordinador Catastral y Registral de la Secretaría de Planeación y Finanzas será designado el 1º de enero de 2017 por el Gobernador del Estado.
+
+A partir de la misma fecha el Director General del Instituto Registral del Estado se denominará Director General del Registro Público de la Propiedad y del Comercio, y el Director General de Catastro y Ejecución Fiscal de la Secretaría de Planeación y Finanzas se denominará Director General de Catastro, ambos inferiores jerárquicos inmediatos del Coordinador Catastral y Registral.
+
+La Unidad de Ejecución Fiscal de la Secretaría de Planeación y Finanzas, antes adscrita a la Dirección General de Catastro y Ejecución Fiscal, será una unidad administrativa dependiente directamente del Secretario de Planeación y Finanzas.
+
+DÉCIMO TERCERO. La Secretaría de Planeación y Finanzas, en un plazo no mayor a noventa días naturales, realizará las adecuaciones que sean necesarias al Catálogo de Requisitos de Trámites para Servicios Registrales, con la finalidad de homologar, fortalecer y garantizar la modernización de la función registral y catastral.
+
+DÉCIMO CUARTO. Los recursos humanos, materiales y financieros con los que cuenta el Instituto Registral del Estado de Tabasco, se transferirán al Gobierno del Estado con adscripción y resguardo de la Secretaría de Planeación y Finanzas.
+
+En razón de lo anterior, las Secretarías de Gobierno, de Administración, de Contraloría, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, conforme resulte necesario en el ámbito de sus respectivas competencias, en coordinación con la Secretaría de Planeación y Finanzas, deberán realizar las acciones administrativas y legales necesarias para llevar a cabo dicha transferencia, de igual forma realizarán las adecuaciones que correspondan en cuanto a la aprobación e implementación de la estructura orgánica y ocupacional de la Secretaría de Planeación y Finanzas que resulte necesaria para la correcta aplicación del presente Decreto.
+
+DÉCIMO QUINTO. Los servidores públicos del Instituto Registral del Estado de Tabasco pasarán a formar parte de la Secretaría de Planeación y Finanzas, sin que sus derechos laborales se vean afectados con la entrada en vigor del presente Decreto.
+
+DÉCIMO SEXTO. A partir de la fecha de entrada en vigor del presente Decreto, los derechos y obligaciones del Instituto Registral del Estado de Tabasco se subrogan a la Secretaría de Planeación y Finanzas, quedando subsistentes jurídicamente, los convenios, acuerdos y demás actos jurídicos celebrados con el Gobierno Federal, para la operación del Instituto Registral del Estado de Tabasco.
+
+DÉCIMO SÉPTIMO. Las gestiones, procedimientos y demás actos que se encuentren en trámite en el Instituto Registral del Estado de Tabasco al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO OCTAVO. Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor del Instituto Registral del Estado de Tabasco, se transferirán al Gobierno del Estado a través de la Secretaría de Planeación y Finanzas.
+
+DÉCIMO NOVENO. A partir de la fecha de entrada en vigor del presente Decreto, cuando en las leyes, reglamentos, acuerdos, decretos y demás disposiciones normativas se haga referencias al Instituto Registral del Estado de Tabasco, se entenderán hechas a la Secretaría de Planeación y Finanzas, a través de la Coordinación Catastral y Registral.
+
+VIGÉSIMO. Las Secretarías de Gobierno, de Administración, de Contraloría, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, proveerán lo necesario para garantizar la correcta aplicación del presente Decreto.
