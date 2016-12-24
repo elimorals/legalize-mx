@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2016-10-01"
+last_updated: "2016-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -930,6 +930,10 @@ XXII.- De Igualdad.
 XXIII.- De Energía.
 
 XXIV.- De Protección Civil.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XXV.- De Familia, Asuntos Religiosos y Valores.
 
 ###### ARTÍCULO 97.
 
@@ -2238,3 +2242,11 @@ P.O. 1 DE OCTUBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXV/RFLEY/0024/2016 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 96 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO, A EFECTO DE ADICIONAR UNA FRACCIÓN XXV A SU SEGUNDO PÁRRAFO; SE REFORMA EL ARTÍCULO PRIMERO DEL DECRETO LXV/ITCYC/0011/2016 I P.O., Y SE MODIFICA EL ARTÍCULO QUINTO DEL MISMO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Todos los asuntos que a la entrada en vigor del presente Decreto se encuentren turnados a la Comisión Especial de Familia, Asuntos Religiosos y Valores, pasan íntegros a la Comisión de Dictamen prevista en la fracción XXV del artículo 96 de la Ley Orgánica del Poder Legislativo, adicionada mediante el mismo.
