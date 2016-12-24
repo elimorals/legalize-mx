@@ -4,7 +4,7 @@ identifier: "TAB-ley-registral-del-estado-de-tabasco-79337"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-31"
-last_updated: "2011-01-31"
+last_updated: "2016-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY REGISTRAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY REGISTRAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tabasco, el lunes 31 de enero de 2011.
 
@@ -51,11 +53,13 @@ LEY REGISTRAL DEL ESTADO DE TABASCO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1.
 
-La presente Ley Registral del Estado de Tabasco es de orden público e interés social, y tiene por objeto regular la estructura, actividades, procesos, procedimientos y recursos procesales del Instituto Registral del Estado de Tabasco.
+La presente Ley es de orden público e interés social, y tiene por objeto regular la estructura, actividades, procesos, procedimientos y recursos procesales en materia registral.
 
-La función registral de manera originaria corresponde al Estado, quien la prestará por conducto del Instituto Registral del Estado de Tabasco.
+La función registral de manera originaria corresponde al Estado, quien la prestará por conducto de la Secretaría de la Planeación y Finanzas a través de la Coordinación Catastral y Registral.
 
 ###### Artículo 2.
 
@@ -65,17 +69,23 @@ I. Las normas jurídicas y principios registrales de acuerdo con los cuales se l
 
 II. Las normas legales con las cuales el Estado proporcionará el servicio de dar publicidad a los actos jurídicos que precisan de ese requisito para surtir efectos contra tercero; y
 
-III. Las bases normativas para la organización y funcionamiento del Instituto Registral del Estado de Tabasco.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+III. Las bases normativas para la organización y funcionamiento de la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 3.
 
-Todos los bienes inmuebles ubicados dentro del territorio del Estado de Tabasco, deberán estar manifestados y requisitados en el catastro e inscritos en el Instituto Registral del Estado de Tabasco.
+Todos los bienes inmuebles ubicados dentro del territorio del Estado de Tabasco, deberán estar manifestados y requisitados en el catastro e inscritos en la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas.
 
 ###### Artículo 4.
 
 Son principios registrales los siguientes:
 
-I. PUBLICIDAD: Los actos jurídicos inscritos son públicos, por lo que el Instituto Registral del Estado de Tabasco pone a disposición de parte interesada los asientos para su consulta;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+I. PUBLICIDAD: Los actos jurídicos inscritos son públicos, por lo que la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas pone a disposición de parte interesada los asientos para su consulta;
 
 II. LEGITIMACIÓN: Concede el reconocimiento de la autoridad registral de quien tiene el derecho titular del bien o derecho inscrito;
 
@@ -83,23 +93,31 @@ III. ROGACIÓN: La inscripción o cancelación de inscripciones registrales se r
 
 IV. CONSENTIMIENTO: Para que en los asientos inscritos exista una modificación, es necesaria la manifestación expresa de la voluntad del titular registral por sí o por conducto de quien legalmente lo represente;
 
-V. PRELACIÓN: Los actos inscritos en el Instituto Registral del Estado de Tabasco producirán sus efectos desde el día y la hora en que el documento se presente en la oficina registral;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+V. PRELACIÓN: Los actos inscritos en la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas producirán sus efectos desde el día y la hora en que el documento se presente en la oficina registral;
 
 VI. CALIFICACIÓN: Todo documento presentado para su registro debe ser examinado por el Registrador en cuanto a sus elementos de existencia y validez, a fin de que satisfaga los requisitos señalados por la Ley Registral del Estado de Tabasco;
 
-VII. INSCRIPCIÓN: Corresponde a todo asiento o captura que se realice en el Instituto Registral del Estado de Tabasco sobre los bienes inmuebles y una vez inscritos produce efectos jurídicos frente a terceros;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+VII. INSCRIPCIÓN: Corresponde a todo asiento o captura que se realice en la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas sobre los bienes inmuebles y una vez inscritos produce efectos jurídicos frente a terceros;
 
 VIII. ESPECIALIDAD: La publicidad registral exige la precisión respecto al bien objeto de los derechos o cargas reales que se inscriben;
 
 IX. TRACTO SUCESIVO: El acto registrable debe tener una secuencia jurídica, una hilación entre sus antecedentes y el acto inscrito actualmente;
 
-X. FE PÚBLICA REGISTRAL: Establece que el Registrador y autoridades del Instituto Registral del Estado de Tabasco, han sido facultados por la Ley Registral del Estado de Tabasco para dar constancia de verdad legal de los actos presentados para su inscripción y expedir constancias de los actos y documentos que obren en el acervo o en las bases de datos; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+X. FE PÚBLICA REGISTRAL: Establece que el Registrador y los servidores públicos de la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, facultados por la presente Ley, su Reglamento y el Reglamento Interior de la Secretaría de Planeación y Finanzas se encuentran legitimados para dar constancia de verdad legal de los actos presentados para su inscripción y expedir constancias de los actos y documentos que obren en el acervo o en las bases de datos; y
 
 XI. OPONIBILIDAD: Facultad del legítimo titular del derecho real consignado en la inscripción de exhibir su derecho como prevalente y prioritario frente a terceros contra prueba en contrario.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 5.
 
-Los Servidores Públicos del Instituto Registral del Estado de Tabasco, cumplirán los principios registrales, así como, el Programa Informático, los procesos y procedimientos que se utilicen en las Oficinas Registrales.
+Los Servidores Públicos de la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, cumplirán los principios registrales, así como, el Programa Informático, los procesos y procedimientos que se utilicen en las Oficinas Registrales.
 
 ###### Artículo 6.
 
@@ -107,11 +125,17 @@ Para los efectos de la Ley Registral del Estado de Tabasco, se entenderá por:
 
 I. ANOTACIÓN MARGINAL: Mecanismos prevenidos por la Ley Registral del Estado de Tabasco respecto a actos y situaciones que afecten el estado jurídico de la inscripción o bien, la referencia de continuación del acto en otra inscripción, cargas reales o rectificaciones a los asientos registrales;
 
-II. ANOTACIÓN PREVENTIVA: La ordenada por autoridad judicial o administrativa que instruye al Instituto Registral del Estado de Tabasco, sobre la inmovilización temporal de las inscripciones de los bienes inmuebles o muebles, en tanto no se resuelva la litis principal ventilada ante su jurisdicción;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-III. PRIMER AVISO PREVENTIVO: Es aquel en el que por primera vez el notario comunica por escrito al Instituto Registral del Estado de Tabasco, que ante él se está tramitando un acto jurídico, con el objeto de publicitar la preferencia, y en su caso la prelación. Se acompañará del certificado o inexistencia de gravámenes;
+II. ANOTACIÓN PREVENTIVA: La ordenada por autoridad judicial o administrativa que instruye a la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, sobre la inmovilización temporal de las inscripciones de los bienes inmuebles o muebles, en tanto no se resuelva la litis principal ventilada ante su jurisdicción;
 
-IV. SEGUNDO AVISO PREVENTIVO: Es aquel por el cual el notario comunica al Instituto Registral del Estado de Tabasco, que ya se formalizó el acto jurídico;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+III. PRIMER AVISO PREVENTIVO: Es aquel en el que por primera vez el notario comunica por escrito a la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, que ante él se está tramitando un acto jurídico, con el objeto de publicitar la preferencia, y en su caso la prelación. Se acompañará del certificado o inexistencia de gravámenes;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+IV. SEGUNDO AVISO PREVENTIVO: Es aquel por el cual el notario comunica a la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, que ya se formalizó el acto jurídico;
 
 V. CALIFICACIÓN REGISTRAL: Apreciación o determinación de la calidad de un documento para su inscripción, acorde a los parámetros señalados por la Ley Registral del Estado de Tabasco;
 
@@ -123,11 +147,17 @@ VIII. CÓDIGO FISCAL: Código Fiscal del Estado de Tabasco;
 
 IX. CÓDIGO PROCESAL: Código de Procedimientos Civiles para el Estado de Tabasco;
 
-X. CONSEJO DIRECTIVO: Órgano de Gobierno que será la máxima autoridad del Instituto Registral del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-XI. DIRECTOR GENERAL: Director General del Instituto Registral del Estado de Tabasco;
+X. Coordinador: el Coordinador Catastral y Registral de la Secretaría de Planeación y Finanzas;
 
-XII. DOCUMENTO O IMAGEN: Cualquier documento que conste física o digitalmente en el acervo del Instituto Registral del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XI. Director General: Director General del Registro Público de la Propiedad y de Comercio;
+
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XII. DOCUMENTO O IMAGEN: Cualquier documento que conste física o digitalmente en el acervo de la Coordinación Catastral y Registral de la Secretaría;
 
 XIII. ENCARGADO REGISTRAL: Titular de la Oficina Registral, con jurisdicción en la circunscripción territorial del Estado de Tabasco, conforme a su nombramiento y que realiza funciones de administración, calificación y registro;
 
@@ -135,31 +165,45 @@ XIV. FIRMA ELECTRÓNICA: Datos en forma electrónica consignados en un mensaje d
 
 XV. FOLIO: Folio Real Electrónico es el expediente digital con un número único e irrepetible, reproducido en medios magnéticos, electrónicos informáticos o automáticos que contiene la historia registral vigente de los bienes inmuebles, muebles o personas jurídico colectivas, conforme a lo establecido en el Código Civil, en el que se practican y hacen constar las inscripciones, registros y anotaciones relativos a los actos y hechos jurídicos que sean registrables o sujetos a inscripción;
 
-XVI. FUNCIÓN REGISTRAL: Es la que el Estado efectúa en vía administrativa a través del Instituto Registral del Estado de Tabasco, que tiene como finalidad asegurar la legitimación registral, legalidad y publicidad de los hechos jurídicos en materia de la inscripción pública del patrimonio y de los derechos de los tabasqueños que son su consecuencia;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XVI. FUNCIÓN REGISTRAL: Es la que el Estado efectúa en vía administrativa a través de la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, que tiene como finalidad asegurar la legitimación registral, legalidad y publicidad de los hechos jurídicos en materia de la inscripción pública del patrimonio y de los derechos de los tabasqueños que son su consecuencia;
 
 XVII. GOBERNADOR DEL ESTADO: Titular del Poder Ejecutivo del Estado de Tabasco;
 
 XVIII. INSCRIPCIÓN POR ASIENTO: Forma tradicional en que se ha realizado la inscripción y que se contiene en los libros que componen el acervo registral;
 
-XIX. IRET: Instituto Registral del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XIX. La Coordinación: La Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas;
 
 XX. LEY: Ley Registral del Estado de Tabasco;
 
 XXI. LEY DE RESPONSABILIDADES: Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco;
 
-XXII. OFICINA CENTRAL: Oficina ubicada en la capital del Estado donde residirá el Instituto Registral del Estado de Tabasco;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XXII. OFICINA CENTRAL: Oficina ubicada en la capital del Estado donde residirá la Coordinación;
 
 XXIII. OFICINA REGISTRAL: Lugar de residencia de las Oficinas Registrales dentro del territorio del Estado de Tabasco;
 
 XXIV. PRINCIPIOS REGISTRALES: Lineamientos doctrinales reconocidos por la presente Ley, que infieren en los procesos y procedimientos registrales de manera explicativa y no limitativa;
 
-XXV. PROGRAMA INFORMÁTICO: Sistema informático que contiene la información, proveniente del acervo documental del Instituto Registral del Estado de Tabasco, para su consulta, captura y constancia;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XXV. PROGRAMA INFORMÁTICO: Sistema informático que contiene la información, proveniente del acervo documental de la Coordinación, para su consulta captura y constancia;
 
 XXVI. REGISTRADOR: Servidor público con cargo de confianza, que cuenta con facultades de fé pública registral y calificación;
 
 XXVII. REGISTRO: Denominación anterior al Registro Público de la Propiedad y el Comercio del Estado de Tabasco;
 
-XXVIII. SECRETARIO: Secretario de Gobierno;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XXVIII. SECRETARIO: El Secretario de Planeación y Finanzas;
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XXVIII Bis. SECRETARÍA: La Secretaría de Planeación y Finanzas;
 
 XXIX. SUJETOS REGISTRALES: Partes que intervienen en la relación registral; se componen por el usuario, el registrador y el fedatario público;
 
@@ -167,161 +211,95 @@ XXX. SIGER: Sistema Integral de Gestión Registral; y
 
 XXXI. USUARIOS: Persona física ó personas jurídicas colectivas que requiere los servicios registrales.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+XXXII. Procuraduría Fiscal: La Procuraduría Fiscal de la Secretaría.
+
 ###### Artículo 7.
 
 Son aplicables de manera supletoria en lo conducente, los Códigos Civil y de Procedimientos Civiles para el Estado de Tabasco.
 
 ## TÍTULO SEGUNDO
 
-### CAPÍTULO PRIMERO. DE LA CREACIÓN, NATURALEZA, OBJETO Y DOMICILIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO PRIMERO. DE LA COORDINACIÓN CATASTRAL Y REGISTRAL
 
 ###### Artículo 8.
 
-El IRET funcionará como un organismo público descentralizado, con personalidad jurídica y patrimonio propios, con autonomías operativa y técnica, sectorizado a la Secretaría de Gobierno.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 9.
 
-El IRET tiene por objeto llevar a cabo la función registral en el Estado de Tabasco, de una manera profesional, responsable, oportuna, transparente, ágil y sencilla, con apoyo en los medios tecnológicos que le permitan proporcionar un servicio que garantice seguridad jurídica a las transacciones inmobiliarias, mobiliarias y a las personas de derecho privado y público, concediéndoles la publicidad registral.
+La Coordinación tiene por objeto llevar a cabo la función registral en el Estado de Tabasco, de una manera profesional, responsable, oportuna, transparente, ágil y sencilla, con apoyo en los medios tecnológicos que le permitan proporcionar un servicio que garantice seguridad jurídica a las transacciones inmobiliarias, mobiliarias y a las personas de derecho privado y público, concediéndoles la publicidad registral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 10.
 
-El IRET, tendrá su domicilio legal en la Ciudad de Villahermosa, Tabasco y ejercerá sus funciones en todo el territorio de la entidad.
+La Coordinación funcionará con una oficina central en la capital del Estado, que estará a cargo de un Coordinador que se auxiliará de los servidores públicos y de los registradores encargados de las Oficinas Registrales que se establezcan en el Estado y del personal que sea necesario para su funcionamiento, conforme a las atribuciones y delimitaciones y circunscripción territorial que se determine en el Reglamento Interior de la Secretaría.
 
-El IRET funcionará con una oficina central en la capital del Estado, que estará a cargo de un Director General que se auxiliara de los servidores públicos y de los registradores encargados de las Oficinas Registrales que se establezcan en el Estado y del personal que sea necesario para su funcionamiento, conforme a las atribuciones y delimitaciones y circunscripción territorial que se determine en su Reglamento Interior.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA FINALIDAD, FUNCIONES Y PATRIMONIO DEL IRET
 
 ###### Artículo 11.
 
-La Finalidad del IRET es:
-
-I. Coadyuvar en la seguridad jurídica de la propiedad registral y a las operaciones inmobiliarias, mobiliarias, de las personas físicas y personas jurídicas colectivas;
-
-II. Otorgar validez a los actos que se sometan a su competencia, dando cumplimiento de los Principios Registrales;
-
-III. Proporcionar a los usuarios los servicios registrales de manera oportuna, eficaz y eficiente; y
-
-IV. Establecer la uniformidad de normas y mecanismos de operación en las Oficinas Registrales en el Estado de Tabasco.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 ###### Artículo 12.
 
-El IRET realizará las siguientes funciones:
-
-I. Ejercer la función registral en el Estado de Tabasco;
-
-II. Proporcionar de manera eficaz y eficiente los servicios registrales que, previo los trámites de ley, soliciten los usuarios;
-
-III. Instituir los programas administrativos y acciones necesarias para la evaluación de competencia, eficiencia y productividad del personal que conforme al IRET;
-
-IV. Promover y en su caso establecer el servicio profesional de la carrera registral;
-
-V. Diseñar e instrumentar los mecanismos necesarios para la correcta prestación de servicios registrales en sus oficinas y los servicios electrónicos, garantizando la certeza y seguridad jurídica que las operaciones registrales respondan a las necesidades específicas de los usuarios y de los fedatarios públicos con competencia en la materia;
-
-VI. Elaborar estudios comparativos respecto a los costos de operación registral, así como de los derechos por los servicios registrales y presentarlos ante el Gobernador del Estado por conducto de la Secretaría de Administración y Finanzas;
-
-VII. La preservación, conservación y resguardo del acervo documental y base de datos propios de la actividad registral;
-
-VIII. Establecer convenios de coordinación y de intercambio de información, a título gratuito u oneroso, con las instituciones y dependencias federales, estatales y municipales que tengan a su cargo la administración de catastros; y
-
-IX. Establecer convenios de servicios electrónicos en las oficinas registrales del IRET con los usuarios, el Colegio de Notarios y los particulares que participen en el mercado inmobiliario.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 ###### Artículo 13.
 
-El Patrimonio del IRET estará integrado por:
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
-I. Los recursos financieros que se le asignen anualmente en el Presupuesto general de egresos del Estado;
-
-II. Bienes inmuebles, muebles y recursos financieros que adquiera con base en cualquier título legal, con excepción de los de naturaleza tributaria;
-
-III. Bienes inmuebles y muebles que le hayan sido asignados por los Gobiernos Federal, Estatal y Municipal para el cumplimiento de su objeto;
-
-IV. Subsidios, donaciones físicas o jurídicas y legados que reciba del Estado de Tabasco, de la Federación y de los Municipios, las cuales de ninguna manera podrán implicar condiciones contrarias a su objeto conforme a lo que se establece en la presente Ley; y
-
-V. Fideicomisos y cualquier otro instrumento financiero que, en su caso, se constituyan o se hayan constituido en su favor o en cumplimiento de su objeto.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN DEL IRET
 
 ###### Artículo 14.
 
-El IRET contará con un Órgano de Gobierno denominado Consejo Directivo, el cual será su órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones legales y los principios registrales, así como velar porque la imparcialidad y objetividad impere en quien realice las actividades registrales.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 ###### Artículo 15.
 
-El Consejo Directivo se integrará por:
-
-I. Un Presidente, quien será el Secretario de Gobierno, quien tendrá voz y voto;
-
-II. Un Secretario, quien será el servidor público que cuente con el nombramiento de titular de la Dirección General de Asuntos Jurídicos de la Secretaría de Gobierno, quien tendrá voz y voto;
-
-III. Tres vocales, quienes tendrán voz y voto.
-
-Los Vocales serán nombrados y removidos por el Gobernador del Estado a propuesta de los titulares de las secretarias de Administración y Finanzas, Consejería Jurídica del Poder Ejecutivo y Desarrollo Económico, los servidores públicos designados, no podrán tener cargo inferior al de Director de Área.
-
-La designación de los vocales se hará considerando, preferentemente su experiencia y conocimiento, así como su vinculación oficial en las tareas concernientes a la actividad registral y durarán tres años en su encargo, pudiendo ser ratificados por un periodo más a elección del Gobernador del Estado.
-
-Cada uno de los integrantes nombrará un suplente, quien podrá representarlo en sus ausencias.
-
-El desempeño de los miembros del Consejo Directivo será honorífico.
-
-El IRET contará con un Comisario, quien será el representante que se designe por el titular de la Secretaría de Contraloría, quien contará con las atribuciones y obligaciones que por razón de su cargo estén previstas en los ordenamientos legales aplicables. Dicho servidor público asistirá a las reuniones que se convoquen ante el Consejo Directivo, teniendo para tal efecto únicamente voz.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 ###### Artículo 16.
 
-El Consejo Directivo sesionará en forma ordinaria cada seis meses, y extraordinaria cada vez que el Presidente lo estime conveniente o a petición de una tercera parte o más del total de sus miembros.
-
-En cada sesión se formulará previamente la orden del día, la cual habrá de darse a conocer a los miembros del Consejo Directivo con cuando menos dos días de anticipación.
-
-Para la celebración de las sesiones, se considerará necesariamente como quórum la presencia de cincuenta por ciento más uno de sus integrantes. El desarrollo de las sesiones será regulado por las normas reglamentarias que en términos legales se expidan por la instancia competente.
-
-Los acuerdos del Consejo Directivo se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
-
-Para la celebración de las sesiones, podrán ser invitados, por acuerdo del Consejo Directivo y por conducto del Director General, entre otros, los servidores públicos, notarios y personal de las instituciones públicas o privadas, que se estimen necesarios para la mejor atención de los asuntos correspondientes.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 ###### Artículo 17.
 
-El Consejo Directivo tendrá las atribuciones siguientes:
-
-I. Establecer las políticas y lineamientos generales del IRET;
-
-II. Analizar y, en su caso, aprobar los programas y proyectos del IRET, así como sus modificaciones;
-
-III. Aprobar los manuales administrativos que rijan la organización y el funcionamiento del IRET, así como sus modificaciones;
-
-IV. Proponer al Gobernador del Estado la creación, eliminación o readscripción de oficinas registrales en el Estado;
-
-V. Aprobar el proyecto de reglamento interior, y someterlo a la consideración del Gobernador del Estado, para su expedición y publicación en el Periódico Oficial del Gobierno del Estado;
-
-VI. Analizar y, en su caso, proponer al Gobernador del Estado reformas legislativas, jurídicas, orientadas a mejorar el funcionamiento del IRET, así como lineamientos para hacer más eficiente el sistema registral, para la aprobación de la instancia competente;
-
-VII. Revisar y, en su caso, aprobar los proyectos de presupuesto anual de ingresos y egresos del IRET y someterlos a la autorización de las instancias competentes;
-
-VIII. Aprobar la administración y distribución de los recursos del IRET, conforme a lo previsto en los ordenamientos legales en la materia;
-
-IX. Establecer las políticas y bases generales que regulen los convenios, acuerdos o contratos que celebre el IRET con terceros, conforme a lo previsto en la normatividad aplicable;
-
-X. Aprobar y, en su caso, autorizar al Director General a realizar actos de enajenación, cesión, afectación o disposición de los activos y bienes, sin necesidad de subasta pública, en condiciones favorables para el Estado y conforme a los lineamientos previstos en la presente Ley;
-
-XI. Analizar y, en su caso, aprobar el informe anual de actividades que rinda el Director General;
-
-XII. Aceptar las herencias, legados, donaciones y demás bienes que se otorguen a favor del IRET; y
-
-XIII. Las demás que le confiera esta Ley, así como otras disposiciones legales.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
 ###### Artículo 18.
 
-El Consejo Directivo aprobará las modificaciones a la estructura orgánica establecida en el Reglamento Interior del IRET, cuando sea necesario para mejorar el desempeño de sus funciones, el cumplimiento de su objeto y fines.
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
-### CAPÍTULO CUARTO. NOMBRAMIENTO Y REQUISITOS DEL DIRECTOR GENERAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO CUARTO. NOMBRAMIENTO Y REQUISITOS PARA SER COORDINADOR
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 19.
 
-Para la administración del IRET se designará un Director General, quien será nombrado y removido por el Gobernador del Estado a propuesta del Presidente del Consejo Directivo.
+Para la administración de la Coordinación se designará un Coordinador, quien será nombrado y removido por el Gobernador del Estado.
 
-Las ausencias temporales del Director, serán cubiertas de conformidad con lo establecido en el Reglamento Interior del IRET.
+Las ausencias temporales del Coordinador, serán cubiertas conforme a lo establecido en el Reglamento Interior de la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 20.
 
-Para ser Director General se requiere:
+Para ser Coordinador se requiere:
 
 I. Ser licenciado en derecho titulado con cédula profesional vigente y con cinco años en el ejercicio profesional y preferentemente con dos años de experiencia mínima en la actividad registral;
 
@@ -337,89 +315,11 @@ VI. No ser ministro de culto religioso.
 
 ###### Artículo 21.
 
-El Director General tendrá las siguientes facultades:
+(DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
-I. Dirigir, coordinar, organizar, ejercer, vigilar y evaluar la función registral en el Estado de Tabasco a través del IRET y de las oficinas registrales de circunscripción estatal, para determinar en su caso, las medidas que le permitan el cumplimiento de las atribuciones que se precisan en esta Ley y su Reglamento;
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-II. Planear, organizar, programar, dirigir, controlar y evaluar los servicios que preste el IRET;
-
-III. Administrar el patrimonio del IRET;
-
-IV. Expedir los nombramientos de los registradores;
-
-V. Coordinar, controlar y evaluar el funcionamiento de las oficinas registrales, así como sus programas y proyectos;
-
-VI. Elaborar, coordinar, vigilar y promover la ejecución de los programas y acciones orientados a modernizar la función registral, hacer más eficiente la prestación de los servicios y fomentar la cultura registral;
-
-VII. Girar instructivos y circulares al personal a su cargo, tendientes a unificar criterios en la práctica registral y proporcionar orientación al personal para evitar divergencias, interpretaciones y aplicaciones contradictorias a la función registral;
-
-VIII. Ejecutar los acuerdos y disposiciones del Consejo Directivo, dictando las medidas necesarias para su cumplimiento;
-
-IX. Presentar al Consejo Directivo para su aprobación, los proyectos de reformas jurídicas y administrativas orientadas a mejorar la organización y el funcionamiento del IRET, así como a hacer más eficiente la actividad registral;
-
-X. Someter a la consideración y, en su caso, aprobación del Consejo Directivo, los programas y proyectos del IRET, así como sus modificaciones;
-
-XI. Rendir al Consejo Directivo, en cada sesión ordinaria, un informe de los estados financieros y de las actividades generales e incidencias del IRET;
-
-XII. Rendir al Consejo Directivo un informe anual sobre las actividades, alcances y logros obtenidos por el IRET;
-
-XIII. Llevar en forma permanente un análisis cuantitativo y cualitativo de los asuntos de su competencia y plasmar el resultado en informes y estadísticas;
-
-XIV. Difundir, mediante programas o proyectos, la función y actividad registral del IRET;
-
-XV. Promover que la prestación de servicios del IRET se realice de manera oportuna, transparente y ágil, conforme a las leyes relativas y en apego estricto a derecho;
-
-XVI. Impulsar la incorporación al sistema registral de los actos que procedan conforme a la legislación de la materia;
-
-XVII. Instaurar y difundir normas, técnicas y procedimientos para la unificación de criterios y la modernización del sistema registral;
-
-XVIII. Someter a la autorización del Consejo Directivo los proyectos del presupuesto anual de ingresos y egresos del IRET;
-
-XIX. Proponer al Consejo Directivo del IRET, conforme a sus necesidades reales, los requerimientos de bienes muebles o inmuebles, así como los servicios que sean indispensables para el desarrollo y ejecución de las funciones del IRET;
-
-XX. Representar legalmente al IRET ante las dependencias y entidades de los Poderes Legislativo, Ejecutivo y Judicial, de los diversos ámbitos de gobierno, ante los Ayuntamientos y ante personas e instituciones de derecho público o privado;
-
-XXI. Suscribir convenios, acuerdos y demás instrumentos jurídicos relativos al ejercicio de sus funciones, que le sean señalados por la presente Ley ó por delegación de facultades;
-
-XXII. Fungir como apoderado del IRET con todas las facultades que correspondan a los apoderados generales; de manera enunciativa y no limitativa, para pleitos y cobranzas y actos de administración, incluso los que requieran cláusula especial, en los términos que dispone el Código Civil del Estado y de sus correlativos de las demás entidades federativas y del Distrito Federal;
-
-XXIII. Resolver el recurso administrativo y demás procedimientos que le correspondan, de conformidad con los ordenamientos legales aplicables;
-
-XXIV. Vigilar que la sistematización y automatización de la información y el procedimiento registral estén encaminados a una mayor eficiencia y transparencia;
-
-XXV. Autorizar con su firma autógrafa la apertura y cierre de los libros que aún se lleven por este sistema en las oficinas del IRET en la capital;
-
-XXVI. Elaborar en coordinación con los Encargados Registrales, los estudios necesarios para la optimización en el uso y aplicación de los recursos informáticos en busca de la eficiencia y eficacia en la prestación del servicio registral;
-
-XXVII. Coordinar con los Encargados Registrales, el control ordenado de las Inscripciones y búsquedas de las constancias de inscripción que consten inscritas en el acervo del IRET, a fin que, previa petición de parte y pago de derechos, se expidan en tiempo y forma;
-
-XXVIII. Requerir a los Encargados Registrales los reportes mensuales de los documentos públicos, privados, certificaciones y demás documentos expedidos por las oficinas del IRET en el Estado;
-
-XXIX. Coordinar e instruir con los Encargados Registrales, para que se genere la base de datos y se actualice semanalmente;
-
-XXX. Ordenar la reposición y restauración de libros y documentos deteriorados, destruidos o extraviados de la institución registral, de acuerdo con las constancias existentes y las que proporcionen las autoridades, los notarios o los interesados;
-
-XXXI. Efectuar visitas periódicas de inspección a las Oficinas Registrales del IRET;
-
-XXXII. Vigilar que el registro de los actos jurídicos de la propiedad de bienes inmuebles, muebles y personas jurídicas colectivas, se realice en un sistema de Folio en los términos que establezca la Ley;
-
-XXXIII. Disponer de las medidas necesarias para el resguardo de los archivos digitales, magnéticos, documentales e información que exista en el IRET y en las Oficinas Registrales;
-
-XXXIV. Elaborar y rendir los informes en los juicios de amparo que competan al IRET, así como ofrecer pruebas, formular alegatos, interponer toda clase de recursos y en general vigilar y atender su tramitación;
-
-XXXV. Acordar con los servidores públicos del IRET y conceder audiencias a los particulares sobre asuntos de su competencia, pudiendo delegar éstas en los servidores públicos;
-
-XXXVI. Nombrar, remover e imponer las sanciones correctivas y disciplinarias al personal del IRET, cuyo nombramiento o remoción no esté determinado de otra manera, de conformidad con su trayectoria profesional y desempeño en el Registro;
-
-XXXVII. Impulsar la actualización, capacitación y profesionalización de los servidores públicos del IRET en coadyuvancia con instituciones de educación superior en el Estado;
-
-XXXVIII. Poner en conocimiento inmediato de las autoridades competentes de los hechos que cometieren, los servidores públicos que estén bajo su cargo, cuando hayan realizado acciones u omisiones que generen responsabilidad o cuando por su acción u omisión se realice alguna conducta sancionada por la Ley penal; y (sic)
-
-XXXIX. Fungir para fines administrativos y laborales, como inmediato superior jerárquico de los servidores públicos que le sean subalternos; y
-
-XL. Las demás que le señale el Consejo Directivo y le confieran esta Ley, así como otras disposiciones legales.
-
-## TÍTULO TERCERO. DE LOS SERVICIOS REGISTRALES DEL IRET
+## TÍTULO TERCERO. DE LOS SERVICIOS REGISTRALES DE LA COORDINACIÓN
 
 ### CAPÍTULO PRIMERO. EL SERVICIO REGISTRAL
 
@@ -427,13 +327,17 @@ XL. Las demás que le señale el Consejo Directivo y le confieran esta Ley, así
 
 El servicio registral es público y eminentemente declarativo a fin de brindar la publicidad de los actos jurídicos. Éste se iniciará con la presentación de la solicitud de los interesados en los formatos autorizados, acompañada de los documentos correspondientes con las formalidades requeridas por la ley, así como acreditando el pago de los derechos respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 23.
 
-Los servicios registrales que otorga el IRET son los siguientes:
+Los servicios registrales que otorga la Coordinación son los siguientes:
 
 I. Efectuar las inscripciones en materia de bienes inmuebles y muebles, de las personas físicas o personas jurídicas colectivas, que se señalan en el Código Civil y la presente Ley;
 
-II. Proporcionar a quien lo solicite previo pago de derechos, información registral y demás documentos inscritos en sus archivos relacionados, conforme a los medios con los que cuente el IRET y bajo los lineamientos establecidos en la presente Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+II. Proporcionar a quien lo solicite previo pago de derechos, información registral y demás documentos inscritos en sus archivos relacionados, conforme a los medios con los que cuente la Coordinación y bajo los lineamientos establecidos en la presente Ley y su Reglamento;
 
 III. Expedir certificaciones sobre las inscripciones y documentos que aparecen en los archivos registrales y/o bases de datos, así como certificaciones de existir o no, inscripciones relativas a los bienes, personas o documentos que señalen los solicitantes;
 
@@ -443,7 +347,9 @@ V. Verificar, calificar y autorizar, todos y cada uno de los documentos que ingr
 
 VI. Los demás que las disposiciones legales le confieran; así como aquellas que sean inherentes al área de su competencia.
 
-Para determinar el importe de los derechos registrales que deban ser cubiertos por los usuarios, se estará al contenido de la normatividad aplicable establecida en la Ley de Hacienda del Estado de Tabasco. Sólo por excepción, y en términos legales debidamente justificados, se eximirán del pago de las contribuciones a quienes están en los supuestos normativos correspondientes, a la falta de este requisito se denegará el servicio sin responsabilidad del personal del IRET.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Para determinar el importe de los derechos registrales que deban ser cubiertos por los usuarios, se estará a lo establecido en la Ley de Hacienda del Estado de Tabasco. Sólo por excepción, y en términos legales debidamente justificados, se eximirá del pago de las contribuciones a quienes están en los supuestos normativos correspondientes, a la falta de este requisito se denegará el servicio sin responsabilidad del personal de la Coordinación.
 
 ###### Artículo 24.
 
@@ -483,37 +389,47 @@ c) Búsquedas de Antecedentes Registrales por índices de libro o de conclusión
 
 Los documentos registrables son los establecidos en el Libro Segundo, Título Octavo, Capitulo II del Código Civil para el Estado de Tabasco, concernientes a los títulos sujetos a registro y de los efectos legales de los mismos, así como los que se dispongan en otras leyes. También serán sujetos de dicho registro las medidas cautelares dictadas por el juez competente, previa petición a éste del agente del Ministerio Público legitimado para el caso, en los términos de la Ley de Extinción de Dominio del Estado de Tabasco.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 26.
 
-Sólo se registrarán actos en el IRET u Oficina Registral que le corresponda por su circunscripción; no podrán ser inscritos títulos traslativos de dominio ó gravámenes sobre bienes inmuebles sin que estén previamente inscritos.
+Sólo se registrarán actos en la Coordinación u Oficina Registral que le corresponda por su circunscripción; no podrán ser inscritos títulos traslativos de dominio ó gravámenes sobre bienes inmuebles sin que estén previamente inscritos.
 
 Los documentos que conforme a la Ley sean registrables y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrán producir efectos en perjuicio de tercero, el cual sí podrá aprovecharlos en cuanto le fueren favorables.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 27.
 
-Los actos jurídicos y las sentencias provenientes del extranjero que sean sujetos de inscripción en el IRET, se inscribirán cuando reúnan los requisitos señalados por el Código Procesal y si éstos estuvieren redactados en idioma distinto al Español, deberán acompañarse de traducción efectuada por peritos autorizados, de la legalización o apostille respectivo ante el consulado de México en el extranjero.
+Los actos jurídicos y las sentencias provenientes del extranjero que sean sujetos de inscripción en la Coordinación, se inscribirán cuando reúnan los requisitos señalados por el Código Procesal y si éstos estuvieren redactados en idioma distinto al Español, deberán acompañarse de traducción efectuada por peritos autorizados, de la legalización o apostille respectivo ante el consulado de México en el extranjero.
 
 ###### Artículo 28.
 
 El Servicio Registral sólo se prestará con la presentación de documentos originales o copias certificadas de los mismos.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 29.
 
-Toda calificación y posterior inscripción de los actos jurídicos que se efectúen en el IRET se presume que se realizan bajo la buena fe registral.
+Toda calificación y posterior inscripción de los actos jurídicos que se efectúen en la Coordinación se presume que se realizan bajo la buena fe registral.
 
 ### CAPÍTULO SEGUNDO. DEL PROGRAMA INFORMÁTICO
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 30.
 
-El IRET, para el cumplimiento de sus fines y una adecuada prestación del servicio registral, contará con un programa informático en sus oficinas central y registrales, que se integrará con una base de datos de almacenamiento, a través de la cual se realizará la captura, almacenamiento, custodia, seguridad, consulta, reproducción, digitalización, verificación, administración y transmisión. De la información contenida en dicho programa se expedirán las constancias y certificaciones de los actos procedentes.
+La Coordinación, para el cumplimiento de sus fines y una adecuada prestación del servicio registral, contará con un programa informático en su oficina central y en las registrales, que se integrará con una base de datos de almacenamiento, a través de la cual se realizará la captura, almacenamiento, custodia, seguridad, consulta, reproducción, digitalización, verificación, administración y transmisión. De la información contenida en dicho programa se expedirán las constancias y certificaciones de los actos procedentes.
 
-Para este efecto, el IRET contará con un Manual del Usuario del Sistema en el que se especificaran los usos y formas de efectuar su manejo, y sus respectivos manuales de organización y de procedimientos que especifiquen las funciones y atribuciones de cada unidad y servidor público que intervenga en el procedimiento registral.
+Para este efecto, la Coordinación contará con un Manual del Usuario del Sistema en el que se especificaran los usos y formas de efectuar su manejo, y sus respectivos manuales de organización y de procedimientos que especifiquen las funciones y atribuciones de cada unidad y servidor público que intervenga en el procedimiento registral.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 31.
 
-En el sistema informático que se utilice en el IRET se señalará a que clasificación corresponde cada inscripción, referenciada a su Folio y el orden de prelación.
+En el sistema informático que se utilice en la Coordinación se señalará a que clasificación corresponde cada inscripción, referenciada a su Folio y el orden de prelación.
 
-El uso del Sistema Informático no exime al IRET de preservar una copia de los documentos presentados para su inscripción.
+El uso del Sistema Informático no exime a la Coordinación de preservar una copia de los documentos presentados para su inscripción.
 
 ### CAPÍTULO TERCERO. DEL FOLIO REAL ELECTRÓNICO
 
@@ -525,7 +441,9 @@ El folio de inmuebles se integrará por una carátula y tres apartados, regulán
 
 Los mismos principios se aplicarán para los folios de bienes muebles y de las personas jurídicas colectivas que señala el Código Civil.
 
-Los notarios públicos, al efectuar cualquier operación sobre bienes inmuebles, deberán cerciorarse de la existencia del folio del bien inmueble al que se refieran en sus testimonios; de no existir, deberán solicitarlo a la Oficina Central o Registral del IRET que por circunscripción le corresponda.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Los notarios públicos, al efectuar cualquier operación sobre bienes inmuebles, deberán cerciorarse de la existencia del folio del bien inmueble al que se refieran en sus testimonios; de no existir, deberán solicitarlo a la oficina central o a las Registrales que por circunscripción le corresponda.
 
 ###### Artículo 33.
 
@@ -541,9 +459,11 @@ Al comenzar a utilizarse cada folio se le dará el número progresivo que le cor
 
 A cada inmueble que se pretenda inscribir, se le adjudicará una carátula propia y un Folio.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 35.
 
-El folio que expida el IRET, será entregado en papel de seguridad.
+El folio que expida la Coordinación, será entregado en papel de seguridad.
 
 ###### Artículo 36.
 
@@ -585,9 +505,11 @@ III. La fusión de predios.
 
 Los derivados de las fracciones de predios, divisiones, subdivisiones, fraccionamientos y régimen de condominio, darán origen a un nuevo folio real.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 40.
 
-El sistema Informático proporcionará la información necesaria para la generación de índices de búsqueda, por folio, por ubicación del inmueble o por propietario, por nombre o denominación social, útiles para su consulta al público o al personal del IRET.
+El sistema Informático proporcionará la información necesaria para la generación de índices de búsqueda, por folio, por ubicación del inmueble o por propietario, por nombre o denominación social, útiles para su consulta al público o al personal de la Secretaría.
 
 ###### Artículo 41.
 
@@ -595,7 +517,9 @@ El formato de captura del folio de los bienes inmuebles, muebles y personas jur�
 
 I. Bienes Inmuebles:
 
-a) Rubro: Indicando el nombre del IRET y la Oficina Central o Registral que corresponda;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+a) Rubro: Indicando el nombre de la Coordinación y la Oficina Central o Registral que corresponda;
 
 b) Denominación del folio;
 
@@ -627,7 +551,9 @@ El folio contendrá además la siguiente información:
 
 II. Bienes Muebles:
 
-a) Rubro: Indicando el nombre IRET y la Oficina Central o Registral que corresponda;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+a) Rubro: Indicando el nombre de la Coordinación y la Oficina Central o Registral que corresponda;
 
 b) Denominación del folio;
 
@@ -649,7 +575,9 @@ El Folio se apertura con la presentación del justo título del bien mueble y se
 
 III. Personas Jurídicas Colectivas:
 
-a) Rubro: Indicando nombre del IRET y la Oficina Central o Registral que corresponda;
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+a) Rubro: Indicando el nombre de la Coordinación y la Oficina Central o Registral que corresponda;
 
 b) Denominación del folio;
 
@@ -683,9 +611,11 @@ Una vez realizada la inscripción en el folio, se expresarán las característic
 
 ### CAPÍTULO CUARTO. DE LA FIRMA ELECTRÓNICA Y LA FE PÚBLICA REGISTRAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 43.
 
-La firma electrónica se concederá por parte del Director General del IRET al personal de esta institución que conforme a su nombramiento, que realice funciones de registrador. Ésta tendrá valor equivalente a la firma autógrafa del registrador y será considerada como prueba plena en juicio.
+La firma electrónica se concederá por la Secretaría a través de la Coordinación a los servidores públicos adscritos a ésta que conforme a su nombramiento, realice funciones de registrador. Dicha firma tendrá valor equivalente a la firma autógrafa del registrador y será considerada como prueba plena en juicio.
 
 El servidor público con facultades de registrador contará con un certificado físico y digital que hace suya e intransferible la fe pública registral.
 
@@ -697,17 +627,23 @@ El certificado físico y digital le confiere la facultad de dar fe registral y d
 
 La firma electrónica es única e intransferible de la persona que la recibe; el mal uso que se haga de ella trae como consecuencia la aplicación de las responsabilidades administrativas y penales que se señalen en la ley.
 
-La Dirección del IRET, en coordinación con el área de servicios informáticos, llevará un control de los certificados de firma electrónica vigente.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría llevará un control de los certificados de firma electrónica vigente.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 46.
 
-La Dirección enviará un registro de firmas autógrafas de los registradores a la Secretaría de Gobierno, a través de la Dirección General de Asuntos Jurídicos, para actualizar el acervo de los servidores públicos a quienes les esté encomendada la fe pública registral.
+La Coordinación enviará un registro de firmas autógrafas de los registradores, a la Procuraduría Fiscal para actualizar el acervo de los servidores públicos a quienes les esté encomendada la fe pública registral.
 
 ### CAPÍTULO QUINTO. DE LA CLASIFICACIÓN DE INSCRIPCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 47.
 
-El IRET, de acuerdo a la naturaleza y objeto de los actos jurídicos a registrar, clasificara las inscripciones en:
+La Coordinación, de acuerdo a la naturaleza y objeto de los actos jurídicos a registrar, clasificará las inscripciones en:
 
 I. Registro inmobiliario;
 
@@ -719,7 +655,9 @@ IV. Registro de otros documentos; y
 
 V. Registro de los actos de comercio.
 
-Para efectos del uso en el sistema informático del IRET los actos jurídicos que se registren se referenciarán a la clasificación que les corresponda.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Para efectos del uso en el sistema informático de la Coordinación los actos jurídicos que se registren se referenciarán a la clasificación que les corresponda.
 
 ###### Artículo 48.
 
@@ -765,9 +703,11 @@ No se procederá a inscribir ningún derecho accesorio a una propiedad sin que p
 
 Cuando se trate de servidumbre, ésta se realizará tanto en el folio del predio sirviente como en el del dominante, con la diferencia de expresar en cada una, cuál inmueble tiene un carácter y cuál otro.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 52.
 
-Cuando se divida o fraccione un inmueble inscrito en las Oficinas Central o Registral del IRET, se generará un número diferente de folio para la parte que se separa a favor del nuevo dueño, pero haciéndose breve mención de esta circunstancia en la carátula de marginales de la inscripción antigua y refiriéndose a la nueva, quedando ésta como su antecedente.
+Cuando se divida o fraccione un inmueble inscrito en la Coordinación, se generará un número diferente de folio para la parte que se separa a favor del nuevo dueño, pero haciéndose breve mención de esta circunstancia en la carátula de marginales de la inscripción antigua y refiriéndose a la nueva, quedando ésta como su antecedente.
 
 ###### Artículo 53.
 
@@ -789,9 +729,11 @@ Cuando en un mismo título conste la propiedad de distintos inmuebles, se inscri
 
 En los títulos en que deban constar planos o croquis de los inmuebles, se acompañará un ejemplar digitalizado o en su defecto se anexará un duplicado.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 57.
 
-Una vez inscrito en el área de gestión documental de la oficina central o de las oficinas registrales del IRET que le corresponda cualquier título de propiedad a favor de una persona, no se podrá inscribir ningún otro anterior a favor de persona distinta cuando la inscripción sea de derechos o accesorios adquiridos con anterioridad.
+Una vez inscrito en el área de gestión documental de la oficina central o de las registrales que le corresponda cualquier título de propiedad a favor de una persona, no se podrá inscribir ningún otro anterior a favor de persona distinta cuando la inscripción sea de derechos o accesorios adquiridos con anterioridad.
 
 ###### Artículo 58.
 
@@ -817,25 +759,33 @@ VI. Las servidumbres; y
 
 VII. Las restricciones o limitaciones al uso o libre disposición de las partes o bien que por mandamiento expreso de la Ley o resolución judicial o administrativa deban ser inscritas debidamente fundadas y motivadas para este efecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 60.
 
-Todas las anotaciones de gravámenes o limitaciones que se efectúen en el IRET y Oficinas Registrales, se capturarán en el formato de captura respectiva, numeradas en el orden correspondiente.
+Todas las anotaciones de gravámenes o limitaciones que se efectúen en la Coordinación, se capturarán en el formato de captura respectiva, numeradas en el orden correspondiente.
 
 Siempre que se inscriba, en cualquier concepto que sea, algún derecho constituido anteriormente sobre un inmueble, se expresará la fecha de su constitución, el nombre del constituyente y los gravámenes especiales con que se hubiese constituido, si fuesen de naturaleza real.
 
 Las inscripciones hipotecarias o sus cancelaciones, una vez capturadas y señaladas, deberán referenciarse hacia la carátula del inmueble que le corresponde bajo su Folio respectivo, con el número consecutivo que le corresponda en la misma.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 61.
 
-Cuando se trate de la inscripción de embargos sobre inmuebles, decretados por autoridades judiciales o administrativas, deberán presentarse ante el IRET u Oficina Registral, copias certificadas por duplicado de las diligencias respectivas, para que una de ellas se agregue al libro de Duplicados.
+Cuando se trate de la inscripción de embargos sobre inmuebles, decretados por autoridades judiciales o administrativas, deberán presentarse ante la oficina central o las registrales que resulte competente, copias certificadas por duplicado de las diligencias respectivas, para que una de ellas se agregue al libro de Duplicados.
 
 ###### Artículo 62.
 
 Las inscripciones de embargo sólo se llevarán a efecto cuando el inmueble embargado esté registrado a favor de la persona contra quien se decrete dicha providencia. En caso de suceder lo contrario, el registrador, mediante oficio, hará del conocimiento de ello a la autoridad ejecutante, haciéndolo del conocimiento de su superior.
 
-Si la autoridad ejecutante insiste en la realización de la inscripción, el Registrador acatará el mandamiento de autoridad, haciéndolo constar y sin su responsabilidad, dejando a salvo los derechos del titular registral. La Dirección General del IRET, mediante oficio, hará del conocimiento del titular del Poder Judicial del Estado o del titular de la unidad administrativa de este hecho. Si el mandamiento recae de autoridad Federal o de otra entidad federativa, se procederá a efectuar dicho informe ante el superior jerárquico de dicha autoridad para su conocimiento.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-Las inscripciones de embargo se harán en el formato de captura correspondiente, conservando el IRET el mandamiento de autoridad ejecutante.
+Si la autoridad ejecutante insiste en la realización de la inscripción, el Registrador acatará el mandamiento de autoridad, haciéndolo constar y sin su responsabilidad, dejando a salvo los derechos del titular registral. La Coordinación, mediante oficio hará del conocimiento del titular del Poder Judicial del Estado o del titular de la unidad administrativa de este hecho. Si el mandamiento recae de autoridad Federal o de otra entidad federativa, se procederá a efectuar dicho informe ante el superior jerárquico de dicha autoridad para su conocimiento.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Las inscripciones de embargo se harán en el formato de captura correspondiente, conservando la Coordinación el mandamiento de autoridad ejecutante.
 
 ###### Artículo 63.
 
@@ -893,7 +843,9 @@ Si se trata de ventas con reserva de dominio o sujetas a condición resolutoria,
 
 Si el vendedor entrega la factura sin la anotación, ésta podrá ser hecha indistintamente por el registrador o por el notario o corredor público ante quien se hubiere otorgado el contrato. En caso de no haberse cubierto totalmente el monto de la operación, perderá el derecho que le da la inscripción.
 
-Realizada una operación en el Registro Mobiliario, se extenderá constancia de que la misma ha sido inscrita ante la oficina registral del IRET.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Realizada una operación en el Registro Mobiliario, se extenderá constancia de que la misma ha sido inscrita ante la Coordinación.
 
 ### CAPÍTULO DÉCIMO. DEL REGISTRO DE LAS PERSONAS JURÍDICAS COLECTIVAS
 
@@ -929,7 +881,9 @@ VIII. Normas para su disolución y liquidación; y
 
 IX. Los demás datos que deban contener, conforme a las disposiciones jurídicas que las rijan, a esta Ley, el reglamento respectivo y demás ordenamientos aplicables.
 
-### CAPÍTULO UNDÉCIMO. DE (SIC) REGISTRO DE LOS ACTOS DE COMERCIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO UNDÉCIMO. DEL REGISTRO DE LOS ACTOS DE COMERCIO
 
 ###### Artículo 71.
 
@@ -955,13 +909,19 @@ Se exceptúan de ser inscritos en este apartado, los poderes de las personas jur
 
 ### CAPÍTULO DÉCIMO TERCERO. DEL PROCEDIMIENTO REGISTRAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 73.
 
-El interesado o su representante o bien el Fedatario público, en el Área de Gestión Documental de la Oficina Central u Oficinal (sic) Registral del IRET que corresponda, presentará su solicitud en el formato autorizado, acompañada del testimonio o documentos legibles, en original o copia certificada, de los señalados en la ley en el que conste el acto a Inscribir, en dos tantos, y acreditando haber efectuado el pago de los impuestos y derechos que se encuentran establecidos en la Ley de Hacienda del Estado.
+El interesado o su representante o bien el Fedatario público, en el Área de Gestión Documental de la Oficina Central o de las Registrales que corresponda, presentará su solicitud en el formato autorizado, acompañada del testimonio o documentos legibles, en original o copia certificada, de los señalados en la ley en el que conste el acto a Inscribir, en dos tantos, y acreditando haber efectuado el pago de los impuestos y derechos que se encuentran establecidos en la Ley de Hacienda del Estado.
 
-Cuando en un mismo documento consten varios actos registrables en distintas secciones u oficinas Central o Registral del IRET, el interesado señalará este supuesto en los formatos autorizados, debiendo comprobar el pago de derechos respectivo por cada movimiento solicitado.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-El IRET contará con un "Catálogo de Requisitos de Trámite para Servicios Registrales", elaborado de conformidad con la Ley de Mejora Regulatoria del Estado, que estará disponible a los usuarios y al público en general, física y electrónicamente, en la oficina central y en las oficinas registrales del IRET.
+Cuando en un mismo documento consten varios actos registrables en distintas secciones u oficinas de la Coordinación, el interesado señalará este supuesto en los formatos autorizados, debiendo comprobar el pago de derechos respectivo por cada movimiento solicitado.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+La Coordinación contará con un "Catálogo de Requisitos de Trámite para Servicios Registrales", elaborado de conformidad con la Ley de Mejora Regulatoria del Estado, que estará disponible a los usuarios y al público en general, física y electrónicamente, en todas las oficinas de la Coordinación.
 
 El trámite registral se compondrá de las siguientes etapas:
 
@@ -979,17 +939,23 @@ Los documentos traslativos de dominio deberán ser manifestados previamente ante
 
 El Reglamento de esta Ley especificará los tiempos de respuesta y entrega de documentos de acuerdo a cada trámite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 74.
 
-El IRET reconoce como titular de los bienes o derechos para efectuar la inscripción, el que figura como tal en el título o en la inscripción anterior, salvo prueba en contrario.
+La Coordinación reconoce como titular de los bienes o derechos para efectuar la inscripción, el que figura como tal en el título o en la inscripción anterior, salvo prueba en contrario.
 
-Tiene derecho a exigir del IRET la inscripción a favor de una persona, el que transmite el derecho, el que lo adquiere, aquel a cuyo favor se reserva, el representante legitimo de cualquiera de ellos y el administrador de bienes de menores o incapaces o ausentes, o quien esté legalmente autorizado, presentando el justo titulo que lo acredite para ello.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Tiene derecho a exigir de la Coordinación la inscripción a favor de una persona, el que transmite el derecho, el que lo adquiere, aquel a cuyo favor se reserva, el representante legítimo de cualquiera de ellos y el administrador de bienes de menores o incapaces o ausentes, o quien esté legalmente autorizado, presentando el justo título que lo acredite para ello.
 
 No se realizarán inscripciones en tanto no esté cubierto dicho supuesto de hecho.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 75.
 
-No se aceptará el trámite de inscripción, por lo que no se generará prelación alguna, y se denegará el servicio sin responsabilidad para el IRET y su personal cuando:
+No se aceptará el trámite de inscripción, por lo que no se generará prelación alguna, y se denegará el servicio sin responsabilidad para la Coordinación y su personal cuando:
 
 I. No corresponda por jurisdicción de la oficina registral;
 
@@ -997,15 +963,19 @@ II. Los documentos no fuesen presentados en original y con los tantos necesarios
 
 III. No se haga referencia al folio de inmuebles, folio de muebles o de personas morales;
 
-IV. No se anexe el pago de los impuestos y derechos respectivos, correctamente pagados conforme al servicio solicitado o no se haga constar la exención del pago que concede el Estado de Tabasco por medio de la Secretaría de Administración y Finanzas;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+IV. No se anexe el pago de los impuestos y derechos respectivos, correctamente pagados conforme al servicio solicitado o no se haga constar la exención del pago que concede la Secretaría;
 
 V. Si le faltare alguno de los documentos exigidos por la ley; y
 
 VI. Si el testimonio se encuentra mutilado, con tachaduras o enmendaduras.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 76.
 
-Se denegará la inscripción sin responsabilidad para el IRET y el Registrador, cuando de la calificación de los documentos se desprenda que:
+Se denegará la inscripción sin responsabilidad para la Coordinación y el Registrador, cuando de la calificación de los documentos se desprenda que:
 
 I. Existe contradicción notoria de los documentos presentados a inscripción respecto al tipo de acto que se pretende inscribir;
 
@@ -1021,7 +991,9 @@ VI. En los casos precisados por los demás ordenamientos legales.
 
 En los supuestos anteriores, el registrador emitirá dentro de los diez días hábiles siguientes resolución al respecto de su calificación registral, fundándola y motivándola en el reporte de rechazo, dejando las cosas en el estado original; dicho acto habrá de ser notificado inmediatamente, de manera indistinta a través de los correos que por medios electrónicos sean señalados por la parte interesada o mediante oficio en los estrados, que se fijen en los domicilios de las residencias de la Oficina Central y Oficinas Registrales, respectivamente. Oportunamente le será devuelta al usuario la documentación exhibida materia de su trámite.
 
-Tratándose del supuesto de hecho prevenido por la fracción IV de este artículo y sólo en lo referente al error de concordancia con el número de folio, el IRET concederá un término de seis días hábiles al fedatario público para que subsane la deficiencia; una vez vencido ese término, se denegará el trámite, siguiéndose al respecto las prevenciones previstas en este ordenamiento.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Tratándose del supuesto de hecho prevenido por la fracción IV de este artículo y sólo en lo referente al error de concordancia con el número de folio, la Coordinación concederá un término de seis días hábiles al fedatario público para que subsane la deficiencia; una vez vencido ese término, se denegará el trámite, siguiéndose al respecto las prevenciones previstas en este ordenamiento.
 
 La resolución que deniegue el trámite podrá ser recurrible en las vías de impugnación señaladas por esta ley.
 
@@ -1053,9 +1025,11 @@ Si durante la vigencia de las anotaciones correspondientes a los avisos menciona
 
 El aviso preventivo no cerrará el folio.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 82.
 
-El servidor público con facultades de registrador procederá a la suspensión de la inscripción en el sistema informático del IRET en los casos que en un documento se encuentren defectos u omisiones subsanables, para lo cual emitirá un reporte de prevención al interesado para que en el término de seis días hábiles contados a partir del día siguiente de notificada la prevención, subsane la deficiencia.
+El servidor público con facultades de registrador procederá a la suspensión de la inscripción en el sistema informático de la Coordinación en los casos que en un documento se encuentren defectos u omisiones subsanables, para lo cual emitirá un reporte de prevención al interesado para que en el término de seis días hábiles contados a partir del día siguiente de notificada la prevención, subsane la deficiencia.
 
 ###### Artículo 83.
 
@@ -1073,15 +1047,19 @@ El mandato de autoridad judicial puede ordenar el cierre de un folio. Se entende
 
 Cuando se concluya el trámite normal, así como cuando se haya suspendido o denegado el servicio, los documentos serán puestos a disposición de los interesados en el Área de Gestión documental de la Oficina Central o Registral correspondiente, para que sean retirados.
 
-Aquellos que no sean retirados dentro de los treinta días naturales siguientes a la respectiva notificación por medio de los estrados del IRET u oficina registral, serán remitidos al archivo que corresponda, de los cuales se informará oportunamente a los interesados a través del mismo, en caso que hubieren designados (sic) domicilio en el lugar sede de la oficina correspondiente.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Aquellos que no sean retirados dentro de los treinta días naturales siguientes a la respectiva notificación por medio de los estrados de la Oficina Central o de las registrales, serán remitidos al archivo que corresponda, de los cuales se informará oportunamente a los interesados a través del mismo, en caso que hubieren designado domicilio en el lugar sede de la oficina correspondiente.
 
 ###### Artículo 86.
 
 De la resolución que determine la suspensión o la denegación del servicio, el Registrador o funcionario con facultades de registrador, en un término máximo de setenta y dos horas, la hará del conocimiento del superior jerárquico correspondiente fundando y motivando su determinación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 87.
 
-En el programa informático del IRET se consideran formatos de captura donde se realizan los siguientes actos registrales:
+En el programa informático de la Coordinación se consideran formatos de captura donde se realizan los siguientes actos registrales:
 
 I. Anotaciones preventivas o definitivas conforme a la Ley;
 
@@ -1097,13 +1075,17 @@ Salvo disposición en contrario, las anotaciones preventivas se practicarán de 
 
 Todos los términos para la prestación de los servicios registrales se establecerán en días y horas hábiles.
 
-Los tiempos de substanciación de los trámites por servicios registrales se expresarán en el Catálogo de Requisitos de Trámite para Servicios Registrales y los Manuales de Organización y Procedimiento y estarán a la vista del público o publicados en la página de Internet con la que cuente el IRET.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+Los tiempos de substanciación de los trámites por servicios registrales se expresarán en el Catálogo de Requisitos de Trámite para Servicios Registrales y los Manuales de Organización y Procedimientos y estarán a la vista del público o publicados en la página de Internet de la Secretaría.
 
 ### CAPÍTULO DÉCIMO CUARTO. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 90.
 
-Los servidores públicos con cargo de registrador o quien ostente la fe pública registral y demás personal que conformen al IRET, independientemente de la responsabilidad penal o civil en la que incurran, serán sancionados administrativamente por los supuestos siguientes:
+Los servidores públicos con cargo de registrador o quien ostente la fe pública registral y demás personal de la Coordinación, independientemente de la responsabilidad penal o civil en la que incurran, serán sancionados administrativamente por los supuestos siguientes:
 
 I. Si rehúsan sin motivo legal, u ordenen o realicen sin justa causa, la inscripción de los documentos que les sean presentados;
 
@@ -1115,45 +1097,65 @@ IV. Si cometen omisiones al extender los informes mencionados, salvo si el error
 
 Los trámites en los que el Registrador o servidores públicos tengan interés directo, no podrán ser atendidos por éste, recusándose de conocer y debiendo hacerlo del conocimiento del superior jerárquico a fin de que sean asignados a otra persona; el incumplimiento de este supuesto hará acreedor al servidor público de las sanciones que se precisen en la normatividad aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 91.
 
-Las conductas en que incurran los servidores públicos del IRET que se encuentren contenidas dentro de la esfera administrativa y que sean motivo de responsabilidad, serán sancionadas de acuerdo a lo establecido por el capítulo respectivo de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco, sin perjuicio de la responsabilidad civil y penal a que se refiere el artículo 1314 del Código Civil vigente.
+Las conductas en que incurran los servidores públicos de la Coordinación que se encuentren contenidas dentro de la esfera administrativa y que sean motivo de responsabilidad, serán sancionadas de acuerdo a lo establecido por el capítulo respectivo de la Ley de Responsabilidades de los Servidores Públicos del Estado de Tabasco, sin perjuicio de la responsabilidad civil y penal a que se refiere el artículo 1314 del Código Civil vigente.
 
 Las acciones u omisiones sancionadas por las leyes penales, se atenderán con apego a lo establecido por el Código Penal para el Estado de Tabasco.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 92.
 
-Incurrirán en actos de responsabilidad administrativa aquellos servidores públicos y demás personal del IRET que, en el ejercicio de sus funciones o en el desarrollo de sus responsabilidades nieguen ó impidan injustificadamente el cumplimiento del servicio registral.
+Incurrirán en actos de responsabilidad administrativa aquellos servidores públicos y demás personal de la Coordinación que, en el ejercicio de sus funciones o en el desarrollo de sus responsabilidades nieguen ó impidan injustificadamente el cumplimiento del servicio registral.
 
-Incurrirán también en responsabilidad quienes por sí o por interpósita persona, busquen obtener para sí o terceros un beneficio indebido de los servicios que presta el IRET o bien, causare con su conducta un daño patrimonial al IRET. Lo anterior no eximirá de la responsabilidad penal en que se incurra.
+Incurrirán también en responsabilidad quienes por sí o por interpósita persona, busquen obtener para sí o terceros un beneficio indebido de los servicios que presta la Coordinación o bien, causare con su conducta un daño patrimonial al Gobierno del Estado de Tabasco. Lo anterior no eximirá de la responsabilidad penal en que se incurra.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 93.
 
-Cuando se efectúe la realización u omisión de alguna conducta sancionada por la ley, el Director y el titular del Área Jurídica deberán tomar las acciones necesarias a fin de que:
+Cuando se efectúe la realización u omisión de alguna conducta sancionada por la ley, el órgano de control interno de la Secretaría deberá tomar las acciones necesarias a fin de que:
 
-I. Se Inicie el Procedimiento Administrativo de Responsabilidad correspondiente por parte del titular del área jurídica del IRET, hasta dictar la resolución respectiva;
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+I. Se inicie el Procedimiento Administrativo de Responsabilidad correspondiente hasta dictar la resolución respectiva;
 
 II. Se dé inicio a la investigación de los hechos apegándose al procedimiento señalado por la Ley de Responsabilidades;
 
-III. En todo procedimiento realizado en contra de servidores públicos del IRET se respetara la garantía de audiencia consignada en la Ley de Responsabilidades; y
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-IV. Las resoluciones que con motivo de un procedimiento de responsabilidad se impongan a un servidor público del IRET, se aplicarán por su consecuencia en términos del artículo 53 de la Ley de Responsabilidades, con independencia de las sanciones civiles o penales a las que pudiese hacerse acreedor.
+III. En todo procedimiento realizado en contra de servidores públicos de la Coordinación se respetará la garantía de audiencia consignada en la Ley de Responsabilidades; y
 
-La omisión en la atención de una queja o denuncia por parte del Director o el Titular del Área Jurídica, los hace acreedores a las sanciones señaladas por la Ley de Responsabilidades.
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+IV. Las resoluciones que con motivo de un procedimiento de responsabilidad se impongan a un servidor público de la Coordinación, se aplicarán por su consecuencia en términos del artículo 53 de la Ley de Responsabilidades, con independencia de las sanciones civiles o penales a las que pudiese hacerse acreedor.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+La omisión en la atención de una queja o denuncia por parte del órgano de control interno de la Secretaría, hace acreedor a las sanciones señaladas por la Ley de Responsabilidades al servidor público que omita atenderla.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 94.
 
-El Director y el Titular del Área Jurídica, recibirán vía electrónica o entrega personal, las quejas presentadas en contra del personal del IRET, emitiendo acuerdo al respecto en el término de cinco días contados a partir de la recepción de la queja.
+El Secretario y el órgano de control interno de la Secretaría recibirán las quejas presentadas en contra de la Coordinación y de los servidores públicos adscritos a ésta, otorgando el trámite que corresponda.
 
 Dicha queja se atenderá bajo el principio de la confidencialidad.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 95.
 
-Las quejas que se presenten en contra de alguna unidad administrativa serán resueltas por el IRET a través de su Área Jurídica.
+Las quejas que se presenten serán resueltas por la autoridad competente en términos de la Ley de Responsabilidades.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 96.
 
-Es pública la acción para denunciar cualquier irregularidad del servidor público del IRET. El ejercicio de esa acción no dispensará al quejoso o interesado de ejercitar en tiempo y forma las acciones de carácter civil o penal que le correspondan, ante los tribunales de justicia, para la defensa de sus propios derechos.
+Es pública la acción para denunciar cualquier irregularidad de los servidores públicos de la Coordinación. El ejercicio de esa acción no dispensará al quejoso o interesado de ejercitar en tiempo y forma las acciones de carácter civil o penal que le correspondan, ante los tribunales de justicia, para la defensa de sus propios derechos.
 
 ## TÍTULO CUARTO. DEL RECURSO ADMINISTRATIVO
 
@@ -1163,19 +1165,25 @@ Es pública la acción para denunciar cualquier irregularidad del servidor públ
 
 Contra los actos que nieguen o rechacen una inscripción, procederá el Recurso Administrativo de Revocación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 98.
 
-El recurso de Revocación se interpondrá en el domicilio sede de la autoridad emisora, dentro de los seis días hábiles siguientes al que se hubiere efectuado la notificación de la negativa o rechazo de la inscripción.
+El recurso de Revocación se interpondrá en el domicilio sede de la autoridad emisora, dentro de los seis días hábiles siguientes al que se hubiere efectuado la notificación de la negativa o rechazo de la inscripción, una vez recibido se turnará de manera inmediata a la Procuraduría Fiscal para los efectos señalados en el presente Capítulo.
 
 Fuera del plazo anterior, el escrito interpuesto será desechado por extemporáneo.
 
-El cómputo para presentar el recurso de revocación será en días hábiles, entendiéndose por éstos todos los días del año en que se encuentre (sic) abiertas las oficinas del IRET durante el horario normal de labores, menos los sábados y domingos, aquellos que las leyes declaren festivos, así como los que determine el Consejo del propio Instituto.
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
+El cómputo para presentar el recurso de revocación será en días hábiles, entendiéndose por éstos todos los días del año, menos los sábados y domingos, aquellos que las leyes declaren festivos, así como los que determine la Secretaría.
 
 Tratándose del último día hábil, dicho plazo se entenderá hasta las 24 horas del mismo en que se deberá de presentar en el domicilio particular del servidor público legalmente autorizado para dichos efectos. En este supuesto, se habrá de comunicar, por quien estuviere obligado, con toda inmediatez la interposición del recurso procedente a la instancia superior administrativa que corresponda.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 99.
 
-El recurso será substanciado y resuelto por el Director del IRET.
+El recurso será substanciado y resuelto por la Procuraduría Fiscal.
 
 ###### Artículo 100.
 
@@ -1199,13 +1207,17 @@ VIII. La firma del recurrente o de su representante. Si el primero no supiera o 
 
 Son admisibles en este recurso toda clase de pruebas, excepto la testimonial, la confesional y las que fueren contrarias al Derecho.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 101.
 
-Si el escrito de (sic) recurso fuere obscuro o irregular, o no cumpliera con alguno de los requisitos señalados en el artículo anterior, la oficina Registral del IRET, en un término de tres días, señalará mediante proveído, prevención para que sea substanciado en el término de seis días a partir del día siguiente de la notificación; de no hacerlo, se desechará el recurso y se pondrán a disposición los autos para la devolución de los documentos originales y copias simples que se hayan exhibido.
+Si el escrito mediante el cual se interponga el recurso fuere obscuro o irregular, o no cumpliera con alguno de los requisitos señalados en el artículo anterior, la Procuraduría Fiscal, en un término de tres días contados a partir del día en que haya sido recibido por ésta, señalará mediante proveído, prevención para que sea substanciado en el término de seis días a partir del día siguiente de la notificación; de no hacerlo, se desechará el recurso y se pondrán a disposición los autos para la devolución de los documentos originales y copias simples que se hayan exhibido.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 102.
 
-Una vez admitido el recurso con las formalidades de ley, el Registrador procederá, en el formato respectivo del Sistema Informático del IRET, a efectuar una anotación preventiva que indique que se está llevando a cabo un procedimiento de revocación.
+Una vez admitido el recurso con las formalidades de ley, el Registrador procederá, en el formato respectivo del Sistema Informático de la Coordinación, a efectuar una anotación preventiva que indique que se está llevando a cabo un procedimiento de revocación.
 
 La resolución del recurso se hará constar de la misma manera.
 
@@ -1272,3 +1284,135 @@ CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 LIC. HUMBERTO DOMINGO MAYANS CANABAL
 
 SECRETARIO DE GOBIERNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 033 POR EL QUE "SE REFORMAN LOS ARTÍCULOS: 1; 2 FRACCIÓN III; 3; 4 FRACCIONES I, V, VII Y X; 5; 6 FRACCIONES II, III, IV, X, XI, XII, XVI, XIX, XXII, XXV Y XXVIII; 9; LA DENOMINACIÓN DEL CAPÍTULO PRIMERO DEL TÍTULO SEGUNDO DENOMINADO "DE LA CREACIÓN, NATURALEZA, OBJETO Y DOMICILIO"; 10 PRIMER PÁRRAFO; LA DENOMINACIÓN DEL CAPÍTULO CUARTO DEL TÍTULO SEGUNDO DENOMINADO "NOMBRAMIENTO Y REQUISITOS DEL DIRECTOR GENERAL"; 19; 20 PRIMER PÁRRAFO; LA DENOMINACIÓN DEL TÍTULO TERCERO DENOMINADO "DE LOS SERVICIOS REGISTRALES DE LA COORDINACIÓN" 23 PRIMER PÁRRAFO, FRACCIÓN II Y ÚLTIMO PÁRRAFO; 26 PRIMER PÁRRAFO; 27; 29; 30; 31; 32 ÚLTIMO PÁRRAFO; 35; 40; 41, FRACCIONES I INCISO A), II INCISO A), III INCISO A); 43 PRIMER PÁRRAFO; 45 ÚLTIMO PÁRRAFO; 46; 47 PRIMER Y ÚLTIMO PÁRRAFO; 52; 57; 60 PRIMER PÁRRAFO; 61; 62 SEGUNDO Y TERCER PÁRRAFO; 68 ÚLTIMO PÁRRAFO; LA DENOMINACIÓN DEL CAPÍTULO UNDÉCIMO DEL TÍTULO TERCERO DENOMINADO "DE REGISTRO DE LOS ACTOS DE COMERCIO"; 73 PRIMER, SEGUNDO Y TERCER PÁRRAFO; 74 PRIMER Y SEGUNDO PÁRRAFO; 75 PRIMER PÁRRAFO Y FRACCIÓN IV; 76 PRIMER Y TERCER PÁRRAFO; 82; 85 SEGUNDO PÁRRAFO; 87 PRIMER PÁRRAFO; 89 ÚLTIMO PÁRRAFO; 90 PRIMER PÁRRAFO; 91 PRIMER PÁRRAFO; 92; 93 PRIMER PÁRRAFO, FRACCIONES I, III Y IV Y ÚLTIMO PÁRRAFO; 94 PRIMER PÁRRAFO; 95; 96; 98 PRIMER Y TERCER PÁRRAFO; 99; 101 Y 102 PRIMER PÁRRAFO. SE ADICIONAN: LAS FRACCIONES XXVIII BIS Y XXXII DEL ARTÍCULO 6. SE DEROGAN: EL ARTÍCULO 8; AL 10 SEGUNDO PARRAFO; EL CAPÍTULO SEGUNDO DEL TÍTULO SEGUNDO DENOMINADO “DE LA FINALIDAD, FUNCIONES Y PATRIMONIO DEL IRET"; 11; 12; 13; EL CAPÍTULO TERCERO DEL TÍTULO SEGUNDO DENOMINADO "DE LA ADMINISTRACIÓN DEL IRET”; 14; 15; 16; 17; 18 Y 21. TODOS DE LA LEY REGISTRAL DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día uno del mes de enero del año dos mil diecisiete, sin perjuicio de lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Cuando se disponga por mandato legal de la autoridad competente, tratándose de la transferencia de servicios públicos que preste el Gobierno del Estado y se trasladen a la autoridad municipal o, en su caso, de la municipalización de servicios públicos que el Gobierno del Estado transfiera al Gobierno Municipal que corresponda y por cuyos servicios se establezca en la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2017 el concepto tributario, habrá de considerarse para los fines legales pertinentes, que una vez cumplidas las formalidades del caso, tales contribuciones se entenderán de la competencia hacendaria de la autoridad municipal y sin necesidad de un nuevo Decreto habrán de tenerse insertas en el texto de la Ley de Ingresos del Municipio que corresponda o cualquier ordenamiento legal en que así proceda.
+
+Para el caso de aquellas contribuciones de carácter municipal, que mediante convenios sean transferidas al Gobierno del Estado, de conformidad con la Ley de Coordinación Fiscal y Financiera del Estado de Tabasco, se entenderán de la competencia hacendaria estatal y sin necesidad de un nuevo Decreto habrán de tenerse insertadas en el texto de la Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2017 o cualquier otro ordenamiento legal en que así proceda.
+
+CUARTO. La Ley de Ingresos del Estado de Tabasco para el Ejercicio Fiscal 2017 no contempla los recursos refrendados del ejercicio fiscal 2016, mismos que se reflejarán en el Presupuesto General de Egresos del Estado de Tabasco para el Ejercicio Fiscal 2017.
+
+QUINTO. Se condonan y se eximen parcialmente, durante el ejercicio fiscal 2017, los créditos fiscales y las obligaciones omitidas del Impuesto Vehicular Estatal y del derecho de refrendo de placas, tarjeta de circulación y calcomanías, conforme a lo siguiente:
+
+I. Los determinados por concepto del Impuesto Vehicular Estatal establecido en el capítulo séptimo del título segundo vigente hasta el 31 de diciembre de 2014, en la Ley de Hacienda del Estado de Tabasco, correspondientes a los ejercicios 2011, 2012, 2013 y 2014.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2017, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados al Impuesto Vehicular Estatal; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago de este impuesto más su actualización, dentro del periodo del uno de enero al treinta y uno de diciembre del ejercicio fiscal 2017, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% enero – diciembre 2017
+
+Gastos de ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el apartado A del presente artículo transitorio.
+
+II. Los determinados por concepto de derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2017.
+
+Por el periodo comprendido del 01 de enero al 31 de diciembre de 2017, se otorga un estímulo fiscal para las personas físicas o jurídico-colectivas, consistente en un descuento del 100% sobre los recargos, multas y gastos de ejecución causados por concepto del derecho de refrendo de placas, tarjeta de circulación y calcomanías, establecidos en los artículos 85 fracción V y 86 fracción V de la Ley de Hacienda del Estado de Tabasco causados en los ejercicios anteriores al 2017; los contribuyentes que se adhieran al presente estímulo deberán realizar el pago del derecho de refrendo de placas, tarjeta de circulación y calcomanías, dentro del periodo del uno de enero al treinta y uno de diciembre del ejercicio fiscal 2017, conforme a la siguiente tabla:
+
+CONCEPTO DESCUENTO PERIODO DE PAGO
+
+Recargos 100%
+
+Multas 100% enero – diciembre 2017
+
+Gastos de ejecución 100%
+
+Los contribuyentes que opten por los estímulos que se otorgan en la fracción I del presente artículo transitorio, podrán ejercer el derecho de pago a plazos, conforme a lo siguiente:
+
+a) Pago en parcialidades sin que el plazo exceda de doce meses, quedando exentos de presentar garantía del interés fiscal, siempre que se cumpla en lo conducente con lo establecido en los artículos 52, 52 Bis fracciones I, IV, V, VI y VII segundo párrafo, y 53 del Código Fiscal del Estado.
+
+b) En el caso de las personas físicas o jurídico-colectivas, que opten por realizar el pago del Impuesto Vehicular Estatal hasta en 36 parcialidades conforme lo señalan los artículos 52, 52 Bis y 53 del Código Fiscal del Estado de Tabasco, no podrán ser beneficiarios de la condonación a que se refiere el apartado A del presente artículo transitorio.
+
+De igual forma los contribuyentes podrán optar por pagar el impuesto de forma bancarizada mediante las siguientes opciones:
+
+1. Portal de Recaudanet
+
+2. Receptorías de Rentas
+
+A través de los siguientes medios:
+
+- Transferencia electrónica (únicamente en Recaudanet).
+
+- Tarjeta de crédito.
+
+- Tarjeta de débito.
+
+- Comprobante de pago de establecimientos autorizados, mediante la modalidad de pago referenciado.
+
+Lo anterior de conformidad con los procedimientos establecidos en el artículo 21 del Código Fiscal del Estado.
+
+La condonación a que se refiere este artículo, también procederá aun y cuando dichos créditos fiscales hayan sido objeto de impugnación por parte del contribuyente, sea ante las autoridades administrativas o jurisdiccionales, siempre que a la fecha de la adhesión, el procedimiento de impugnación respectivo haya quedado concluido mediante resolución firme, o bien, de no haber concluido, el contribuyente presente la solicitud de desistimiento debidamente ratificado (sic), a dicho medio de defensa ante las autoridades competentes.
+
+No se podrán condonar los créditos fiscales pagados y en ningún caso la condonación a que se refiere este artículo dará lugar a devolución, compensación, acreditamiento o saldo a favor alguno.
+
+La adhesión al beneficio de condonación previsto en este artículo, no constituirá instancia y la resolución que dicte la autoridad fiscal al respecto, no podrá ser impugnada por ningún medio de defensa.
+
+SEXTO. La Secretaría de Planeación y Finanzas expedirá a más tardar el 1º de febrero de 2017, las reglas que considere necesarias para la correcta aplicación de la condonación y estímulo fiscal que se otorga en el artículo transitorio que antecede.
+
+La Secretaría de Planeación y Finanzas informará de conformidad a lo establecido en el Artículo 2 de la presente Ley, a la Comisión de Hacienda y Finanzas del Congreso del Estado, el resultado de los ingresos percibidos por el cumplimiento de este artículo.
+
+SÉPTIMO. El Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas, implementará un programa de regularización y depuración del Registro Estatal de Vehículos, que estará vigente durante el 2017, con el que se permitirá realizar la suspensión administrativa de obligaciones vehiculares en dicho registro a los contribuyentes que se encuentren sujetos a las contribuciones vehiculares correspondientes, a pesar de que con anterioridad a la entrada en vigor del presente decreto hayan vendido o cedido la propiedad de vehículos nacionales usados cuyo año- modelo sea 2013 y anteriores.
+
+La suspensión administrativa de obligaciones vehiculares, será autorizada por la Secretaría de Planeación y Finanzas, la que deberá expedir a más tardar el 1º de febrero de 2017 las reglas de operación para la correcta aplicación del programa.
+
+Los efectos de la suspensión administrativa de obligaciones vehiculares autorizadas, serán los siguientes:
+
+I. Que las contribuciones por la tenencia y uso del vehículo que se generen a partir de la autorización de dicho trámite sean a cargo de quien ostente la tenencia y uso del vehículo;
+
+II. Que la autoridad fiscal competente requiera en términos del artículo 36 del Código Fiscal del Estado, a quien ostente la tenencia y uso del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, para efectos de que cumpla con la obligación a que se refiere el artículo 82 fracción II de la Ley de Hacienda del Estado de Tabasco;
+
+III. Que hasta en tanto no se efectúe el cambio de propietario del vehículo sujeto a la suspensión administrativa de obligaciones vehiculares, no deberá realizarse ningún otro trámite que afecte lo asentado respecto de dicho vehículo en el Registro Estatal de Vehículos; y
+
+IV. Que la Secretaría de Planeación y Finanzas informe a la Dirección General de la Policía Estatal de Caminos los vehículos sujetos a la suspensión administrativa de obligaciones vehiculares, para los efectos señalados en los artículos 35 de la Ley General de Tránsito y Vialidad del Estado de Tabasco; 6, fracción III y 7 fracción V del Reglamento de la citada legislación.
+
+Cuando el contribuyente que solicite la suspensión administrativa de obligaciones vehiculares proporcione datos o documentos falsos, la Secretaría de Planeación y Finanzas cancelará dicho trámite, quedando sin efectos incluso las previamente autorizadas, así como todo acto que se haya realizado con posterioridad a la autorización del trámite a que se refiere el presente artículo, sin menoscabo de las sanciones administrativas y penales que procedan.
+
+OCTAVO. El Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas, implementará a partir del 1º de febrero de 2017 un programa de condonación de pagos y estímulos fiscales en las tarifas que se pagan periódicamente por los servicios que presta la Comisión Estatal de Agua y Saneamiento.
+
+Dicho programa deberá contribuir a fortalecer la eficiencia recaudatoria del Gobierno del Estado, contemplando un esquema de depuración de créditos incobrables, con el objetivo de incrementar el número de contribuyentes cumplidos del padrón de usuarios de los servicios que presta la Comisión Estatal de Agua y Saneamiento además de garantizar que los ingresos de dicho organismo descentralizado sean recaudados por la Secretaría de Planeación y Finanzas en términos del artículo 22 del Código Fiscal del Estado de Tabasco.
+
+NOVENO. Todas las referencias hechas en leyes, reglamentos, decretos, acuerdos y demás disposiciones de carácter general al valor del salario mínimo general vigente o a sus siglas DSMGV, como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de obligaciones y supuestos previstos en leyes estatales y municipales, así como en cualquier disposición jurídica que emane de ellas, se entenderán referidas al valor diario, mensual o anual de la Unidad de Medida y Actualización según corresponda.
+
+DÉCIMO. Durante el ejercicio fiscal 2017 las tarifas establecidas en el Título Tercero de la Ley de Hacienda del Estado a partir de la entrada en vigor del presente Decreto se calcularán utilizando el valor diario de la Unidad de Medida y Actualización del año 2016, publicado mediante Decreto en el Diario Oficial de la Federación de fecha 28 de enero de 2016, el cual señala que su valor es de $73.04 pesos.
+
+DÉCIMO PRIMERO. El Ejecutivo Estatal, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar las adecuaciones que correspondan al Reglamento de la Ley Registral del Estado de Tabasco y al Reglamento Interior de la Secretaría de Planeación y Finanzas, a efectos de establecer las facultades que le corresponden a la Coordinación Catastral y Registral. Hasta en tanto se reforman los reglamentos antes mencionados, continuarán en vigor aquellas disposiciones de la Ley Registral del Estado de Tabasco y su Reglamento que se derogan mediante el presente Decreto.
+
+DÉCIMO SEGUNDO. Sin perjuicio de lo dispuesto en el artículo transitorio anterior, el Coordinador Catastral y Registral de la Secretaría de Planeación y Finanzas será designado el 1º de enero de 2017 por el Gobernador del Estado.
+
+A partir de la misma fecha el Director General del Instituto Registral del Estado se denominará Director General del Registro Público de la Propiedad y del Comercio, y el Director General de Catastro y Ejecución Fiscal de la Secretaría de Planeación y Finanzas se denominará Director General de Catastro, ambos inferiores jerárquicos inmediatos del Coordinador Catastral y Registral.
+
+La Unidad de Ejecución Fiscal de la Secretaría de Planeación y Finanzas, antes adscrita a la Dirección General de Catastro y Ejecución Fiscal, será una unidad administrativa dependiente directamente del Secretario de Planeación y Finanzas.
+
+DÉCIMO TERCERO. La Secretaría de Planeación y Finanzas, en un plazo no mayor a noventa días naturales, realizará las adecuaciones que sean necesarias al Catálogo de Requisitos de Trámites para Servicios Registrales, con la finalidad de homologar, fortalecer y garantizar la modernización de la función registral y catastral.
+
+DÉCIMO CUARTO. Los recursos humanos, materiales y financieros con los que cuenta el Instituto Registral del Estado de Tabasco, se transferirán al Gobierno del Estado con adscripción y resguardo de la Secretaría de Planeación y Finanzas.
+
+En razón de lo anterior, las Secretarías de Gobierno, de Administración, de Contraloría, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, conforme resulte necesario en el ámbito de sus respectivas competencias, en coordinación con la Secretaría de Planeación y Finanzas, deberán realizar las acciones administrativas y legales necesarias para llevar a cabo dicha transferencia, de igual forma realizarán las adecuaciones que correspondan en cuanto a la aprobación e implementación de la estructura orgánica y ocupacional de la Secretaría de Planeación y Finanzas que resulte necesaria para la correcta aplicación del presente Decreto.
+
+DÉCIMO QUINTO. Los servidores públicos del Instituto Registral del Estado de Tabasco pasarán a formar parte de la Secretaría de Planeación y Finanzas, sin que sus derechos laborales se vean afectados con la entrada en vigor del presente Decreto.
+
+DÉCIMO SEXTO. A partir de la fecha de entrada en vigor del presente Decreto, los derechos y obligaciones del Instituto Registral del Estado de Tabasco se subrogan a la Secretaría de Planeación y Finanzas, quedando subsistentes jurídicamente, los convenios, acuerdos y demás actos jurídicos celebrados con el Gobierno Federal, para la operación del Instituto Registral del Estado de Tabasco.
+
+DÉCIMO SÉPTIMO. Las gestiones, procedimientos y demás actos que se encuentren en trámite en el Instituto Registral del Estado de Tabasco al momento de la entrada en vigor del presente Decreto, serán atendidos hasta su conclusión por la Coordinación Catastral y Registral de la Secretaría de Planeación y Finanzas, de conformidad con las atribuciones que le confiere el presente Decreto.
+
+DÉCIMO OCTAVO. Los recursos económicos, pagos y otros actos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto a favor del Instituto Registral del Estado de Tabasco, se transferirán al Gobierno del Estado a través de la Secretaría de Planeación y Finanzas.
+
+DÉCIMO NOVENO. A partir de la fecha de entrada en vigor del presente Decreto, cuando en las leyes, reglamentos, acuerdos, decretos y demás disposiciones normativas se haga (sic) referencias al Instituto Registral del Estado de Tabasco, se entenderán hechas a la Secretaría de Planeación y Finanzas, a través de la Coordinación Catastral y Registral.
+
+VIGÉSIMO. Las Secretarías de Gobierno, de Administración, de Contraloría, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, proveerán lo necesario para garantizar la correcta aplicación del presente Decreto.
