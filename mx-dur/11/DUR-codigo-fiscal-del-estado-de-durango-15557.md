@@ -4,7 +4,7 @@ identifier: "DUR-codigo-fiscal-del-estado-de-durango-15557"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-12-30"
-last_updated: "2010-06-24"
+last_updated: "2016-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # CODIGO FISCAL DEL ESTADO DE DURANGO
 
-CODIGO FISCAL DEL ESTADO DE DURANGO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2010.
+CÓDIGO FISCAL DEL ESTADO DE DURANGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el jueves 30 de diciembre de 1999.
 
@@ -91,7 +93,7 @@ Las demás disposiciones fiscales se interpretarán aplicando cualquier método 
 
 Las Leyes Fiscales, sus reglamentos y las disposiciones administrativas de carácter general, entrarán en vigor en todo el Estado el día siguiente al de su publicación en el Periódico Oficial del Estado, salvo que en ellas se establezca una fecha posterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 6.
 
@@ -159,7 +161,9 @@ Si el avalúo debe realizarse en poblaciones donde no se cuente con los servicio
 
 Para efectos fiscales se entiende:
 
-I. Por salario, el salario mínimo general diario vigente que corresponda al área geográfica del Estado.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+I. Por UMA, la Unidad de Medida y Actualización diaria vigente, la cual sirve como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las contribuciones y supuestos previstos en las leyes estatales y cuya referencia económica es fijada por el Instituto Nacional de Geografía y Estadística.
 
 II. Por ejercicio fiscal, el período comprendido del 1° de enero al 31 de diciembre.
 
@@ -459,7 +463,9 @@ Entendiéndose por insolventes los deudores o los responsables solidarios cuando
 
 III. Por incosteabilidad del cobro.
 
-Entendiéndose por incosteabilidad del cobro de créditos fiscales aquellos cuyo importe sea inferior al equivalente en moneda nacional a diez salarios diarios mínimos vigentes.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+Entendiéndose por incosteabilidad del cobro de créditos fiscales aquellos cuyo importe sea inferior al equivalente en moneda nacional a diez UMA vigente.
 
 La cancelación de créditos fiscales en las cuentas públicas no libera al deudor, ni al responsable solidario de su pago. Dicha cancelación se sujetará a las normas reglamentarias que dicte el Ejecutivo por conducto de la Secretaría de Finanzas y de Administración.
 
@@ -1081,15 +1087,11 @@ VI. Si en el cierre del acta final de la visita no estuviere presente el visitad
 
 VII. Las actas parciales forman parte integrante del acta final de la visita, aunque no se señale expresamente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 VIII. Cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables, que pudiera afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá, de oficio, por una sola vez, reponer el procedimiento, a partir de la violación formal cometida.
 
 Lo señalado en la fracción anterior, será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivó la violación.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -1225,7 +1227,7 @@ XI.- Formalizar jurídicamente los proyectos anuales de Ley de Ingresos y de Ley
 
 XII.- Revisar y aprobar los proyectos de convenios de colaboración administrativa y de coordinación fiscal, que propongan los otros órdenes de gobierno así como los demás instrumentos jurídicos en los que sea parte la Secretaría;
 
-XIII.- Compilar y mantener actualizado el acervo de leyes, reglamentos, acuerdos, circulares y demás disposiciones de observancia general, así como la jurisprudencia establecida por la Suprema Corte de Justicia de la Nación, el Tribunal Fiscal de la Federación y el Tribunal de lo Contencioso-Administrativo del Estado que se requieran para el correcto desempeño de sus atribuciones; y (sic)
+XIII.- Compilar y mantener actualizado el acervo de leyes, reglamentos, acuerdos, circulares y demás disposiciones de observancia general, así como la jurisprudencia establecida por la Suprema Corte de Justicia de la Nación, el Tribunal Fiscal de la Federación y el Tribunal de lo Contencioso-Administrativo del Estado que se requieran para el correcto desempeño de sus atribuciones; y
 
 XIV.- En general, lo que las leyes, reglamentos, convenios, acuerdos y otras disposiciones de observancia general le otorguen, o que el Secretario le delegue mediante acuerdo expreso;
 
@@ -1251,7 +1253,9 @@ Cuando sean varios los responsables, cada uno deberá pagar el total de la multa
 
 La aplicación de las multas, por infracciones a las disposiciones fiscales, se hará independientemente de que se exija el pago de las contribuciones respectivas y sus accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-En los casos de infracciones continuadas, el salario que se aplicará será el vigente en el momento en que la autoridad determine que se cometió la infracción.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+En los casos de infracciones continuadas, la UMA que se aplicara será la vigente en el momento en que la autoridad determine que se cometió la infracción.
 
 Cuando las multas no se paguen en la fecha establecida en este ordenamiento, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 22 de este Código.
 
@@ -1301,7 +1305,7 @@ V. Cuando se omita el pago de una contribución que corresponda a los actos o co
 
 VI. En el caso de que la multa se pague dentro de los quince días siguientes a la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte una nueva resolución.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 101.
 
@@ -1341,13 +1345,21 @@ VI. No presentar aviso de cambio de domicilio o presentarlo fuera de los plazos 
 
 A quien cometa las infracciones relacionadas con el Padrón Estatal de Contribuyentes a que se refiere el artículo anterior se le impondrán las siguientes multas:
 
-I. De veinte a veinticinco salarios, a la comprendida en la fracción III.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-II. De treinta a cuarenta salarios, a las comprendidas en las fracciones IV y V.
+I. De veinte a veinticinco UMA, a la comprendida en la fracción III.
 
-III. De cincuenta a sesenta salarios, a la comprendida en las fracciones l y II.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-IV. Para la señalada en la fracción VI, la multa será de treinta a cien salarios.
+II. De treinta a cuarenta UMA, a las comprendidas en las fracciones IV y V.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+III. De cincuenta a sesenta UMA, a la comprendida en las fracciones I y II.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+IV. Para la señalada en la fracción VI, la multa será de treinta a cien UMA.
 
 ###### ARTICULO 105.
 
@@ -1371,11 +1383,17 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I. Para la señalada en la fracción I:
 
-a) Tratándose de declaraciones, de diez a cien salarios por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales por dicha declaración, sobre las mismas se le aplicará también la multa a que se refiere este inciso.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-b) Por presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento, de diez a cien salarios.
+a) Tratándose de declaraciones, de diez a cien UMA por cada una de las obligaciones no declaradas. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales por dicha declaración, sobre las mismas se le aplicará también la multa a que se refiere este inciso.
 
-II. Respecto de la señalada en la fracción II, de dos a cuatro salarios por cada dato incompleto, con error, en forma distinta a lo señalado por las disposiciones fiscales o suministrar datos falsos; caso este último al cual se aplicará la multa más alta.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+b) Por presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento, de diez a cien UMA.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+II. Respecto de la señalada en la fracción II, de dos a cuatro UMA por cada dato incompleto, con error, en forma distinta a lo señalado por las disposiciones fiscales o suministrar datos falsos; caso este último al cual se aplicará la multa más alta.
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
 
@@ -1385,9 +1403,9 @@ III. Tratándose de la señalada en la fracción III, del 50% al 70% de la contr
 
 IV. Para la señalada en la fracción IV, la multa será del 10% al 30% por ciento de la devolución indebida.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-V. Para la señalada en la fracción V, la multa será de veinticinco a treinta salarios.
+V. Para la señalada en la fracción V, la multa será de veinticinco a treinta UMA.
 
 ###### ARTICULO 107.
 
@@ -1415,11 +1433,17 @@ IX. No conservar la contabilidad y documentación comprobatoria del cumplimiento
 
 A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo anterior, se impondrán las siguientes sanciones:
 
-I. De cien a ciento veinte salarios, a las comprendidas en las fracciones III, IV, V y IX.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-II. De treinta a sesenta salarios, a las comprendidas en las fracciones l, II VI y VIII.
+I. De cien a ciento veinte UMA, a las comprendidas en las fracciones III, IV, V y IX.
 
-III. De sesenta a noventa salarios, a las comprendidas en la fracción VII.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+II. De treinta a sesenta UMA, a las comprendidas en las fracciones I, II, VI y VIII.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+III. De sesenta a noventa UMA, a las comprendidas en la fracción VII.
 
 ###### ARTICULO 109.
 
@@ -1433,9 +1457,13 @@ II. No conservar la contabilidad o parte de ella, así como la correspondencia q
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo anterior, se impondrán las siguientes multas.
 
-I. De trescientos a cuatrocientos salarios, a la comprendida en la fracción II.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-II. De cuatrocientos a seiscientos salarios, a la comprendida en la fracción I.
+I. De trescientos a cuatrocientos UMA, a la comprendida en la fracción II.
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+II. De cuatrocientos a seiscientos UMA, a la comprendida en la fracción I.
 
 ###### ARTICULO 111.
 
@@ -1459,21 +1487,27 @@ VIII. Recaudar, permitir u ordenar que se reciba el pago en forma diversa a la p
 
 IX. Divulgar, hacer uso personal o indebido de la información confidencial proporcionada por terceros independientes que afecte su posición competitiva a que se refieren los artículos 82 fracción IV y 88 fracción IV de este Código.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 112.
 
-A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo anterior, se sancionará con una multa de quinientos a mil salarios.
+A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo anterior, se sancionará con una multa de quinientos a mil UMA.
 
 ###### ARTICULO 113.
 
 Es infracción cuya responsabilidad recae sobre terceros, la excitativa, consejo o recomendación para dejar de cumplir con las obligaciones fiscales, para omitir el pago de una contribución; colaborar a la alteración, inscripción de cuentas, asientos o datos falsos en la contabilidad o documentación que se expida.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 114.
 
-A quienes cometan las infracciones señaladas en el artículo anterior, se sancionarán con multa de cien a doscientos salarios.
+A quienes cometan las infracciones señaladas en el artículo anterior, se sancionarán con multa de cien a doscientas UMA.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 115.
 
-La infracción en cualquier forma a las disposiciones fiscales diversas a las previstas en este capítulo, se sancionará con multa de cinco a cincuenta salarios.
+La infracción en cualquier forma a las disposiciones fiscales diversas a las previstas en este capítulo, se sancionará con multa de cinco a cincuenta UMA.
 
 ### CAPÍTULO II. DE LOS DELITOS FISCALES
 
@@ -1569,11 +1603,17 @@ No se formulará querella si quien hubiere omitido el pago de la contribución u
 
 El delito defraudación fiscal se sancionará, con las penas siguientes:
 
-I. Si el monto de lo defraudado no excede de 1,000 salarios, con dos meses a un año de prisión;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-II. Si el monto de lo defraudado excede de 1,000 salarios pero no de 10,000 salarios, un año a dos años de prisión;
+I. Si el monto de lo defraudado no excede de 1,000 UMA, con dos meses a un año de prisión;
 
-III. Si el monto de lo defraudado excede a 10,000 salarios, con dos a seis años de prisión.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+II. Si el monto de lo defraudado excede de 1,000 UMA pero no de 10,000 UMA, un año a dos años de prisión;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+III. Si el monto de lo defraudado excede a 10,000 UMA, con dos a seis años de prisión.
 
 Cuando no se pueda determinar la cuantía de lo defraudado o de lo que se intentó defraudar la pena será de tres meses a seis años de prisión.
 
@@ -1619,9 +1659,11 @@ II. Registre sus operaciones contables, fiscales o sociales en dos o más libros
 
 III. Oculte, altere o destruya total o parcialmente los sistemas y registros contables, así como la documentación relativa a los asientos respectivos, que conforme a este Código esté obligado a llevar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 133.
 
-Se impondrá sanción de dos meses a cuatro años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiere constituido, si el valor de lo dispuesto no excede de 10,000 salarios; cuando exceda, la sanción será de dos a seis años de prisión.
+Se impondrá sanción de dos meses a cuatro años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubiere constituido, si el valor de lo dispuesto no excede de 10,000 UMA; cuando exceda, la sanción será de dos a seis años de prisión.
 
 Igual sanción de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
 
@@ -1697,9 +1739,7 @@ Toda notificación personal, realizada con quien deba entenderse, será legalmen
 
 En los casos de sociedades en liquidación, cuando se hubieran nombrado varios liquidadores, las notificaciones o diligencias que deban efectuarse con las mismas podrán practicarse válidamente con cualquiera de ellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
 ###### ARTICULO 140.
 
@@ -1707,7 +1747,9 @@ Cuando la notificación se efectúe personalmente y el notificador no encuentre 
 
 Si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negaren a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tales circunstancias.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento honorarios por la notificación del requerimiento equivalente al monto de dos salarios.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento honorarios por la notificación del requerimiento equivalente al monto de dos UMA.
 
 ###### ARTICULO 141.
 
@@ -1725,9 +1767,11 @@ Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en qu
 
 La manifestación que haga el interesado o su representante legal de conocer el acto administrativo, surtirá efectos de notificación en forma desde la fecha en que se manifieste haber tenido tal conocimiento, si ésta es anterior aquélla (sic) en que debiera surtir efectos la notificación de acuerdo con el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 144.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa equivalente a diez salarios, sin que exceda del 30% de su salario mensual, sin más límite que el establecido por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa equivalente a diez UMA, sin que exceda del 30% de su salario mensual, sin más límite que el establecido por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
 #### SECCIÓN SEGUNDA. DE LA GARANTÍA DEL INTERÉS FISCAL
 
@@ -1955,9 +1999,13 @@ II. Por la de embargo, incluyéndose las diligencias por el embargo precautorio 
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-Cuando en los casos de las fracciones anteriores el 2% del crédito sea inferior a seis veces el salario mínimo general diario que corresponda al área geográfica del Estado, se cobrará esta cantidad en vez del 2% del crédito.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-En ningún caso, los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general que corresponda al área geográfica del Estado elevado al año.
+Cuando en los casos de las fracciones anteriores el 2% del crédito sea inferior a seis UMA, se cobrará esta cantidad en vez del 2% del crédito.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+En ningún caso, los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a una UMA elevada al año.
 
 Así mismo, se pagarán por concepto de gastos de ejecución, las erogaciones extraordinarias en que se incurra con motivo del procedimiento administrativo de ejecución, las que únicamente comprenderán los gastos de transporte y de almacenaje de los bienes embargados, de avalúos, de impresiones y publicaciones de convocatorias y edictos, de inscripciones o cancelaciones en el Registro Público de la Propiedad, los erogados por la obtención del certificado de libertad o existencia de gravámenes, y los honorarios de los depositarios, de los peritos y de los interventores así como los honorarios de las personas que contraten éstos últimos.
 
@@ -2269,7 +2317,9 @@ El remate deberá ser convocado dentro de los cinco días siguientes a aquel en 
 
 La convocatoria se fijará en sitio visible y usual de la recaudación de rentas y en los lugares públicos que se juzgue conveniente.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces, el salario mínimo que corresponda al área geográfica del Estado elevado al año, la convocatoria se publicará en uno de los periódicos de mayor circulación en el Estado dos veces con intervalos de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco UMA elevadas al año, la convocatoria se publicará en uno de los periódicos de mayor circulación en el Estado dos veces con intervalos de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
 
 ###### ARTICULO 201.
 
@@ -2723,7 +2773,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS NUEV
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. ANGEL SERGIO GUERRERO MIER; EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE MIGUEL CASTRO CARRILLO. Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE MAYO DE 2003.
 
@@ -2758,3 +2808,11 @@ El presente Decreto entrará en vigor al día 1 (uno) de enero del año 2010.
 P.O. 24 DE JUNIO DE 2010.
 
 Ú N I C O.- El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+P.O. 25 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 54.- POR EL QUE SE MODIFICAN DIVERSOS ARTICULOS DEL CODIGO FISCAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. Este Decreto iniciará su vigencia el día 1 de enero de 2017, el cual será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones legales y administrativas que contravengan lo dispuesto en el presente Decreto.
