@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-a-migrantes-del-estado-de-durango-63650"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-11"
-last_updated: "2015-11-15"
+last_updated: "2016-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE PROTECCION A MIGRANTES DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY QUE CREA EL INSTITUTO DE ATENCIÓN Y PROTECCIÓN AL MIGRANTE Y SU FAMILIA DEL ESTADO DE DURANGO, PUBLICADA EN EL P.O. DE 25 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de septiembre de 2008.
 
@@ -33,15 +35,13 @@ QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
 Con fechas 14 de diciembre de 2007; 17 de marzo de 2008, y 22 de abril de 2008, los CC. Diputados Jorge Herrera Delgado, Adán Soria Ramírez, Sonia Catalina Mercado Gallegos, José Gabriel Rodríguez Villa y Juan Moreno Espinoza, integrantes del Grupo Parlamentario del Partido Revolucionario Institucional; otra por los CC. Diputados Mario Miguel Ángel Rosales Melchor y Juan José Cruz Martínez, y finalmente el C. Diputado Fernando Ulises Adame de León; presentaron a esta H. LXIV Legislatura Local, Iniciativa de Ley de Protección a Migrantes del Estado de Durango y Alcance a la primera de las iniciativas; mismas que fueron turnadas a la Comisión de Gobernación, integrada por los CC. Diputados: Ernesto Abel Alanis Herrera, Claudia Ernestina Hernández Espino, Juan José Cruz Martínez, Fernando Ulises Adame de León y René Carreón Gómez, Presidente, Secretario y Vocal, respectivamente, los cuales emitieron su dictamen favorable en base a los siguientes:
 
-C O N S I D E R A N D O S .
+C O N S I D E R A N D O S ...
 
 Con base en los anteriores Considerandos, esta H. LXIV Legislatura del Estado, expide el siguiente:
 
 D E C R E T O No. 169
 
 LA HONORABLE SEXAGÉSIMA CUARTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, CON LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA LOCAL, A NOMBRE DEL PUEBLO, D E C R E T A:
-
-> <small>N. DE E. EL DECRETO NÚMERO 313, EXPEDIDO POR LA SEXAGÉSIMA SEXTA LEGISLATURA, PUBLICADO EN EL P.O. DE 25 DE DICIEMBRE DE 2014, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.</small>
 
 LEY DE PROTECCIÓN A MIGRANTES DEL ESTADO DE DURANGO
 
@@ -838,3 +838,19 @@ El presente decreto entrará en vigor al día siguiente a su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 50.- POR EL QUE SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE ATENCIÓN Y PROTECCIÓN AL MIGRANTE Y SU FAMILIA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al año siguiente a la fecha de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO.- Se abroga la Ley de Protección a Migrantes para el Estado de Durango aprobada el 14 de agosto del 2008 mediante Decreto 169 expedido por la LXIV Legislatura, publicada en el periódico oficial número 21 de fecha 11 de septiembre del 2008.
+
+TERCERO. Se derogan todas las disposiciones legales y administrativas que contravengan a lo dispuesto por el presente decreto. Todas las responsabilidades asignadas a la Dirección de Atención a Migrantes en la Ley de Protección a Migrantes del Estado de Durango, serán transferidas al Instituto.
+
+CUARTO. El H. Congreso del Estado, llevará a cabo las modificaciones correspondientes al Presupuesto de Egresos del Estado, a fin de incluir la partida necesaria para el funcionamiento del Instituto durante el ejercicio fiscal 2017.
+
+QUINTO. El personal, los recursos y asuntos pendientes que pertenecen a la Dirección de Atención a Migrantes de la oficina del Ejecutivo, así como su asignación presupuestal, pasarán a formar parte del Instituto de Atención a Migrantes del Estado de Durango, para dar continuidad a la implementación y ejecución de los programas existentes.
+
+SEXTO. La Junta Directiva deberá expedir el Reglamento Interior del Instituto, dentro de los seis meses siguientes a la entrada en vigor de la presente Ley.
