@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2015-12-20"
+last_updated: "2016-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -653,11 +653,11 @@ El Titular deberá reintegrar la licencia a la Dirección Municipal en un térmi
 
 La Dirección Municipal deberá boletinar los casos de suspensión o cancelación de licencias de conducir, mediante oficio dirigido a las compañías aseguradoras y a los demás municipios de la Entidad, para los fines legales que estimen conveniente aplicar.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 50.
 
-Para circular sin placas y/o sin tarjeta de circulación, se requerirá permiso, el cual será expedido única y exclusivamente por el Gobierno del Estado, por conducto de la Secretaría General de Gobierno en coordinación con la Secretaría de Finanzas y de Administración, o por las recaudaciones de Rentas en los Municipios; dichos permisos no se darán por un lapso mayor de quince días y solamente podrán prorrogarse por otros quince días cuando las circunstancias lo ameriten.
+Para circular sin placas y/o sin tarjeta de circulación, se requerirá permiso, el cual será expedido única y exclusivamente por el Gobierno del Estado, por conducto de la Secretaría General de Gobierno en coordinación con la Secretaría de Finanzas y de Administración, o por las recaudaciones de Rentas en los Municipios; o en su caso por las Tesorerías municipales o su equivalente, cuando se haya celebrado convenio entre el Estado y el Municipio; dichos permisos no se darán por un lapso mayor de quince días.
 
 ###### ARTICULO 51.
 
@@ -822,3 +822,19 @@ P.O. 20 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 49.- POR EL QUE SE REFORMA EL ARTICULO 50 DE LA LEY DE TRANSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 1 de enero de 2017.
+
+###### ARTÍCULO SEGUNDO.
+
+Solo aquellos municipios del Estado de Durango, que celebren convenio con el Gobierno Estatal, podrán cobrar el Derecho de Control Vehicular, específicamente el contenido en el inciso a) de la fracción III, apartado A del artículo 60 de la Ley de Hacienda del Estado de Durango; cuando así suceda, deberán adecuar sus leyes de ingresos en el apartado correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
