@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2015-09-06"
+last_updated: "2016-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -1365,11 +1365,13 @@ III. Los convenios que al efecto se suscriban entre el Gobierno del Estado y la 
 
 IV. Las disposiciones de esta Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 98.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, psiquiatría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología, psiquiatría, optometría, ingeniería sanitaria, nutrición, dietología, patología y sus ramas, y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, optometría, terapia física, terapia ocupacional, terapia de lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología, embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido expedidos y registrados por las autoridades educativas competentes.
 
 ###### ARTÍCULO 99.
 
@@ -2279,7 +2281,7 @@ En caso de no cumplir con lo establecido en el párrafo anterior se podrá aplic
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2012)</small>
 
-ARTÍCULO 177 QUÁTER.- La COPRISED, tendrá facultades para vigilar el cumplimiento de lo establecido en el presente capítulo y, en su caso, impondrá las sanciones que procedan. La COPRISED podrá apoyarse en el respectivo Colegio de Cirujanos Plásticos de Durango, A.C., para la obtención de la información relativa a la acreditación especializada de los profesionistas que realicen liposucciones.
+ARTÍCULO 177 QUATER.- La COPRISED, tendrá facultades para vigilar el cumplimiento de lo establecido en el presente capítulo y, en su caso, impondrá las sanciones que procedan. La COPRISED podrá apoyarse en el respectivo Colegio de Cirujanos Plásticos de Durango, A.C., para la obtención de la información relativa a la acreditación especializada de los profesionistas que realicen liposucciones.
 
 Para la imposición de sanciones actuará como disposición Supletoria lo previsto en el capítulo XII del Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica.
 
@@ -2679,7 +2681,7 @@ Las autorizaciones sanitarias por tiempo determinado, podrán prorrogarse en los
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
-La solicitud deberá presentarse a la COPRISED, en los términos del Reglamento respectivo, con una antelación de treinta días al vencimiento de la autorización. Sólo procederá la prórroga cuando se continúen satisfaciendo los requisitos que señale esta Ley y las demás disposiciones aplicables y previo pago de los derechos correspondientes.
+La solicitud deberá presentarse a la COPRISED, en los términos del Reglamento respectivo, con una antelación de treinta días al vencimiento de la autorización. Sólo procederá la prórroga cuando se continúen satisfaciendo los requisitos que señale (sic) esta Ley y las demás disposiciones aplicables y previo pago de los derechos correspondientes.
 
 Cuando cambien de ubicación los establecimientos, requerirán de nueva licencia sanitaria.
 
@@ -3397,7 +3399,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. JOSE MIGUEL CASTRO CARRILLO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 29 DE JUNIO DE 2008.
 
@@ -3508,3 +3510,15 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 46.- POR EL QUE SE REFORMA EL ARTÍCULO 98 DE LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
