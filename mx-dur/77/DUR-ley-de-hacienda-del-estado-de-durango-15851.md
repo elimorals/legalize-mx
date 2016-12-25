@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2016-03-06"
+last_updated: "2016-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE HACIENDA DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -101,6 +103,10 @@ VI.- De las participaciones en ingresos federales y de los fondos de aportación
 
 VII. - (DEROGADA, P.O. 15 DE DICIEMBRE DE 2005)
 
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 1 BIS.- Para los efectos de esta Ley, se entiende por UMA, la Unidad de Medida y Actualización, utilizada como referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos en esta Ley, vigente al momento en que el particular realice el pago de contribuciones o solicite la prestación del servicio.
+
 ## TITULO SEGUNDO. DE LOS IMPUESTOS
 
 ### CAPITULO I. DEL IMPUESTO SOBRE NOMINAS
@@ -147,17 +153,17 @@ III. Las aportaciones adicionales que el patrón convenga otorgar a favor de sus
 
 IV. Las aportaciones al Instituto Mexicano del Seguro Social, Instituto del Fondo Nacional de la Vivienda para los Trabajadores y al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-V. La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores; se entiende que son onerosas estas prestaciones cuando representen cada una de ellas, como mínimo, el veinte por ciento del salario mínimo general diario, vigente en el Estado.
+V. La alimentación y la habitación cuando se entreguen en forma onerosa a trabajadores; se entiende que son onerosas estas prestaciones cuando representen cada una de ellas, como mínimo, el veinte por ciento del valor diario de la UMA vigente.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-VI. Las despensas en especie o en dinero, hasta por un importe que no rebase el cuarenta por ciento del salario mínimo general diario vigente en el Estado.
+VI. Las despensas en especie o en dinero, hasta por un importe que no rebase el cuarenta por ciento del valor diario de la UMA vigente.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-VII. Los premios por asistencia y puntualidad hasta por un importe que no rebase el diez por ciento del salario mínimo general diario vigente en el Estado, por cada uno de estos conceptos.
+VII. Los premios por asistencia y puntualidad hasta por un importe que no rebase el diez por ciento del valor diario de la UMA vigente, por cada uno de estos conceptos.
 
 VIII. Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Comisión Nacional del Sistema de Ahorro para el Retiro.
 
@@ -179,17 +185,25 @@ El impuesto se determinará aplicando a la base que señala el artículo anterio
 
 El impuesto se causará en el momento en que se efectúen los pagos a que se refiere el artículo 2 de este capítulo, y se enterará a más tardar el día diecisiete del mes siguiente a aquel en que se causó.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 7.
 
-Tratándose de contribuyentes cuyo impuesto causado en el ejercicio fiscal Inmediato anterior no exceda de la cantidad de doscientas veces al salario mínimo general diario vigente en el Estado al cierre de ese ejercicio, efectuarán pagos trimestrales por los períodos de enero a marzo, abril a junio, julio a septiembre y octubre a diciembre a más tardar el día diecisiete de los meses de abril, julio, octubre y enero del año siguiente, respectivamente.
+Tratándose de contribuyentes cuyo impuesto causado en el ejercicio fiscal inmediato anterior no exceda de la cantidad de doscientas veces el valor diario de la UMA vigente al cierre de ese ejercicio, efectuarán pagos trimestrales por los períodos de enero a marzo, abril a junio, julio a septiembre y octubre a diciembre a más tardar el día diecisiete de los meses de abril, julio, octubre y enero del año siguiente, respectivamente.
 
-Los contribuyentes podrán optar por pagar mediante declaración en una sola exhibición a más tardar el día 17 del mes de febrero, el Impuesto Sobre Nóminas que estimen causar en el ejercicio fiscal de que se trate, siempre y cuando, el monto de lo pagado en el ejercicio fiscal inmediato anterior, no exceda de la cantidad de doscientas veces el salario mínimo general diario vigente en el Estado al cierre de dicho ejercicio.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
+Los contribuyentes podrán optar por pagar mediante declaración en una sola exhibición a más tardar el día 17 del mes de febrero, el Impuesto Sobre Nóminas que estimen causar en el ejercicio fiscal de que se trate, siempre y cuando, el monto de lo pagado en el ejercicio fiscal inmediato anterior, no exceda de la cantidad de doscientas veces el valor diario de la UMA vigente al cierre de dicho ejercicio.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
 Los contribuyentes que ejerzan la opción establecida en el párrafo anterior, deberán presentar la declaración asentando en la parte superior derecha la siguiente leyenda "SE OPTA POR PAGO ANUAL", quedando relevado de la obligación de presentar las declaraciones mensuales o trimestrales del ejercicio fiscal por el que se estima el impuesto, pero estarán obligados a presentar una declaración a más tardar el día 17 del mes de enero del año siguiente a aquel por el que se ejerció la opción, en la que liquidará en forma definitiva el impuesto a su cargo, señalando la diferencia a pagar, el saldo a su favor o marcándola en ceros, según corresponda.
 
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+
 En ningún caso se dejará de causar recargos por las diferencias que en su caso resulten entre el monto que efectivamente se entere con el que se debió de haber enterado de no tomar la opción a que se refiere este artículo.
+
+> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
 
 La opción a que se refiere este artículo no podrá variarla respecto al mismo ejercicio fiscal.
 
@@ -565,17 +579,13 @@ Están obligados al pago del Impuesto para la Modernización de los Registros P�
 
 La base gravable de este impuesto la constituye el monto total de la operación, considerándose como tal, la cantidad más alta que resulte de entre el pactado por las partes, el valor catastral vigente al momento de realizar el pago del impuesto, del avalúo bancario o el practicado por la Secretaría de Finanzas y de Administración.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+Todas las operaciones, cuyo monto total no rebase el equivalente al valor de 40 UMA anual, quedarán exentas del pago de este impuesto.
 
-Todas las operaciones, cuyo monto total no rebase el equivalente a 40 salarios mínimos elevados al año, quedarán exentas del pago de este impuesto.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-A los contribuyentes cuyo valor de operación sea superior al equivalente de 40 salarios mínimos elevados al año les será aplicable el beneficio a que se refiere el párrafo anterior, sólo hasta la cantidad exenta y calcularán el impuesto a su cargo disminuyendo a la base del impuesto la cantidad sujeta a exención.
+A los contribuyentes cuyo valor de operación sea superior al equivalente de 40 UMA anual, les será aplicable el beneficio a que se refiere el párrafo anterior, sólo hasta la cantidad exenta y calcularán el impuesto a su cargo disminuyendo a la base del impuesto la cantidad sujeta a exención.
 
 El monto de la operación gravable, se ajustará tomando en consideración la exención prevista para este impuesto en el párrafo cuarto de este artículo. Esta exención será aplicable a todos los sujetos obligados al pago del presente impuesto.
 
@@ -1157,19 +1167,21 @@ ARTICULO 44 bis 24.- Las infracciones a las disposiciones a que se refiere este 
 
 ### CAPITULO II. DE LOS DERECHOS POR INSCRIPCION Y DEMAS SERVICIOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO Y EN EL REGISTRO PUBLICO DE TRANSPORTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
+
 ### CAPITULO III. DE LOS DERECHOS POR LEGALIZACION DE FIRMAS, CERTIFICACIONES, EXPEDICION DE COPIAS DE DOCUMENTOS Y OTROS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO IV. DE LOS DERECHOS POR ACTOS DEL REGISTRO CIVIL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
 ### CAPITULO V. DE LOS DERECHOS POR SERVICIOS CATASTRALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 45.
 
@@ -1201,23 +1213,21 @@ La Federación, las Entidades Federativas, los Municipios, los Organismos Descen
 
 ###### ARTICULO 51.
 
-Para los efectos de este Título, se entiende por salario, el salario mínimo general diario que corresponda al área geográfica del Estado, vigente al momento en que el particular solicite la prestación del servicio.
+(DEROGADO, P.O. 25 DE DICIEMBRE DE 2016)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2003)</small>
 
 ### CAPITULO VI. DE LOS DERECHOS POR SERVICIOS DE CONTROL DE VEHICULOS Y POR EXPEDICION DE CONCESIONES, PERMISOS Y AUTORIZACIONES DE RUTA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 52.
 
-Los servicios que se presten por el Registro Público de la Propiedad y del Comercio, causarán derechos conforme a un porcentaje de la base que corresponda o en días de salario o fracción del mismo de acuerdo a lo siguiente:
+Los servicios que se presten por el Registro Público de la Propiedad y del Comercio, causarán derechos conforme a un porcentaje de la base que corresponda o UMA diaria o fracción de la misma de acuerdo a lo siguiente:
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-DÍAS DE PORCENTAJE
-
-SALARIO
+UMA PORCENTAJE
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -1235,21 +1245,21 @@ extinga el dominio o la posesión de bienes
 
 inmuebles: 200
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-Tratándose de la primera enajenación de vivienda, no causarán los derechos por el registro, cuando las mismas se encuentren edificadas en una superficie no mayor de 180 M2 de terreno, con una superficie construida máxima de 80 M2 cuyo valor no exceda de la cantidad que resulte de multiplicar por veinte el salario mínimo general diario vigente en el Estado elevado al año.
+Tratándose de la primera enajenación de vivienda, no causarán los derechos por el registro, cuando las mismas se encuentren edificadas en una superficie no mayor de 180 M² de terreno, con una superficie construida máxima de 80 M² cuyo valor no exceda de la cantidad que resulte de multiplicar por veinte el valor anual de la UMA vigente.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-Tratándose de la primera enajenación de vivienda, que se encuentre edificada en un a (sic) superficie no mayor de 180 M2, con una superficie construida máxima de 130 M2, cuyo valor no exceda de la cantidad que resulte de multiplicar por treinta y dos el salario mínimo general diario vigente en el Estado elevado al año, tendrán derecho a una reducción del 50% en el monto del derecho que se cause.
+Tratándose de la primera enajenación de vivienda, que se encuentre edificada en una superficie no mayor de 180 M2, con una superficie construida máxima de 130 M2, cuyo valor no exceda de la cantidad que resulte de multiplicar por treinta y dos el valor anual de la UMA vigente, tendrán derecho a una reducción del 50% en el monto del derecho que se cause.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-No causarán los derechos por el registro de la primera enajenación de terrenos cuyo valor no exceda de multiplicar tres veces el salario mínimo general diario vigente en el Estado elevado al año, y que tenga una superficie no mayor de 180 m2.
+No causarán los derechos por el registro de la primera enajenación de terrenos cuyo valor no exceda de multiplicar tres veces el valor anual de la UMA vigente, y que tenga una superficie no mayor de 180 m2.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-Tendrán derecho a una reducción del 50% en el monto del derecho que se cauce por el registro de la primera enajenación de los terrenos, cuyo valor no exceda de multiplicar cinco veces el salario mínimo general diario vigente en el Estado, elevado al año y que tenga una superficie no mayor a 180 m2.
+Tendrán derecho a una reducción del 50% en el monto del derecho que se cauce por el registro de la primera enajenación de los terrenos, cuyo valor no exceda de multiplicar cinco veces el valor anual de la UMA vigente y que tenga una superficie no mayor a 180 m2.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -1585,13 +1595,9 @@ III. Por los informes que soliciten las autoridades para asuntos Penales o para 
 
 ###### ARTICULO 57.
 
-Los Derechos por Concepto de Legalización de Firmas, Certificación y Expedición de Copias de Documentos por funcionarios competentes del Gobierno del Estado y registro en el padrón de proveedores, se causarán en base a días de salario o fracción del mismo, conforme a lo siguiente:
+Los Derechos por Concepto de Legalización de Firmas, Certificación y Expedición de Copias de Documentos por funcionarios competentes del Gobierno del Estado y registro en el padrón de proveedores, se causarán en base a la UMA diaria o fracción de la misma, conforme a lo siguiente:
 
-DIAS PORCENTAJE
-
-DE
-
-SALARIO
+UMA PORCENTAJE
 
 I.- Legalización de firmas:
 
@@ -1717,13 +1723,11 @@ d) Por la revalidación anual: 60
 
 e) Por su cancelación: 5
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 57 BIS.- Las personas físicas y morales que soliciten información, ante el ente público que la posea, mediante el procedimiento de acceso a la información pública que establece la propia Ley de Transparencia y Acceso a la Información Pública del Estado de Durango, causarán el pago de derechos en base a días de salario o fracción del mismo, conforme a lo siguiente:
+ARTICULO 57 BIS.- Las personas físicas y morales que soliciten información, ante el ente público que la posea, mediante el procedimiento de acceso a la información pública que establece la propia Ley de Transparencia y Acceso a la Información Pública del Estado de Durango, causarán el pago de derechos en base a la UMA diaria o fracción de la misma, conforme a lo siguiente:
 
-DÍAS DE PORCENTAJE
-
-SALARIO
+UMA PORCENTAJE
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2012)</small>
 
@@ -1765,23 +1769,21 @@ remitido, sin importar la forma de su
 
 impresión. Hasta 2.3
 
-> <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-En el caso de la fracción II de éste artículo, después de las primeras 100 hojas el monto se reducirá en 0.0085 salarios mínimos diarios por hoja hasta 100 hojas mas, las hojas que se soliciten adicionalmente a éstas su costo será de 0.0034 salarios mínimos diarios por hoja.
+En el caso de la fracción II de éste artículo, después de las primeras 100 hojas el monto se reducirá en 0.0085 UMA diaria por hoja hasta 100 hojas más, las hojas que se soliciten adicionalmente a éstas su costo será de 0.0034 UMA diaria por hoja.
 
 ### CAPITULO VIII. DE LOS DERECHOS POR LOS SERVICIOS DE LA SECRETARIA DE RECURSOS NATURALES Y MEDIO AMBIENTE
 
-> <small>(ADICIONADO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 69 BIS. Los servicios que la Secretaría de Recursos Naturales y Medio Ambiente proporcione, causarán derechos, conforme a días de salario mínimo o fracción del mismo de acuerdo a lo siguiente:
+ARTICULO 69 BIS. Los servicios que la Secretaría de Recursos Naturales y Medio Ambiente proporcione, causarán derechos, conforme a la UMA diaria o fracción de la misma de acuerdo a lo siguiente:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE MARZO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 I. Las personas físicas y morales a las que se les presten servicios por concepto de prevención y control de la contaminación correspondientes a obras y actividades que causen impacto ambiental en los términos de la Ley de Gestión Ambiental Sustentable para el Estado de Durango y de sus reglamentos, causarán derechos conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
-
-DÍAS DE SALARIO
+UMA PORCENTAJE
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
@@ -1979,6 +1981,8 @@ vehicular, relativos a la emisión
 
 de contaminantes.
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
+
 IV. Para los derechos por la prestación de
 
 servicios para la prevención y control de
@@ -1995,13 +1999,13 @@ supervisión y verificación de la
 
 calidad de las mismas
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 V. En sus funciones de derecho público, el Estado prestará los servicios correspondientes a la prevención y control de la contaminación por residuos que no sean de competencia federal, ni municipal, de acuerdo con las leyes, reglamentos y normas de su competencia, estableciéndose los siguientes derechos:
 
-DÍAS DE PORCENTAJE
+UMA PORCENTAJE
 
-SALARIO
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 1. Por la evaluación y dictaminación de planes de manejo que se presentan por primera vez de Empresas públicas y privadas, se causará un Derecho de acuerdo a lo siguiente:
 
@@ -2020,6 +2024,8 @@ de residuos. 100
 d) Para las dedicadas a la incineración
 
 de residuos. 250
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 2. Por la evaluación y dictaminación y en su caso autorización de las renovaciones en empresas públicas y privadas de las siguientes actividades en materia de residuos, se causará un derecho de acuerdo a lo siguiente:
 
@@ -2053,6 +2059,8 @@ h) Para las dedicadas a la incineración
 
 de residuos. 500
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 3. Por la evaluación de cada solicitud y en su caso autorización de proyectos para la construcción o rehabilitación o clausura de sitios de disposición final.
 
 a) Para sitios de disposición final
@@ -2078,6 +2086,8 @@ d) Para sitios de disposición final
 con recepción menor a 10
 
 toneladas por día de residuos. 25
+
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
 
 VI. Se causarán derechos por los servicios
 
@@ -2111,6 +2121,8 @@ lumínica, térmica y-o radiaciones
 
 electromagnéticas no ionizantes.
 
+> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2003)</small>
+
 VII. Se causarán derechos por la extracción
 
 en los bancos de material petreo para la
@@ -2135,11 +2147,9 @@ competencia. 20
 
 ###### ARTICULO 58.
 
-Los servicios que se presten por Actos del Registro Civil, causarán el pago de Derechos, en base a días de salario o fracción del mismo, conforme a lo siguiente:
+Los servicios que se presten por Actos del Registro Civil, causarán el pago de Derechos, en base a la UMA diaria o fracción de la misma, conforme a lo siguiente:
 
-DIAS DE PORCENTAJE
-
-SALARIO
+UMA PORCENTAJE
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
@@ -2251,11 +2261,13 @@ en las fracciones anteriores: 3
 
 COMISION PARA LA PROTECCION CONTRA RIESGOS SANITARIOS
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 69 BIS 1.- Los servicios que presta la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Durango, como órgano desconcentrado de la Secretaría de Salud, causarán derechos conforme a una cuota fija representada en salarios mínimos o fracción en los supuestos siguientes:
+Artículo 69 BIS 1.- Los servicios que presta la Comisión para la Protección Contra Riesgos Sanitarios del Estado de Durango, como órgano desconcentrado de la Secretaría de Salud, causarán derechos conforme a una cuota fija representada en UMA diaria o fracción de la misma en los supuestos siguientes:
 
-De las autorizaciones:
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
+I. De las autorizaciones:
 
 a) Por la autorización de Libros de Control de
 
@@ -2292,6 +2304,8 @@ embalsamador: 15
 h) Otras autorizaciones no consideradas en esta
 
 fracción: 10
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 II. De las constancias de los procesos de
 
@@ -2341,6 +2355,8 @@ más de cincuenta kilos o litros: 20
 
 h) Otras constancias no consideradas en esta fracción: 15
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 III. Por Capacitación y asesoría:
 
 a) Capacitación a petición de parte para manejadores
@@ -2384,6 +2400,8 @@ establecimientos de atención médica; por evento: 10
 g) Otras no consideradas en esta fracción; por unidad
 
 o por evento: 10
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
 IV. De los Servicios del Laboratorio Estatal de Salud Pública
 
@@ -2465,6 +2483,8 @@ k.1) Tuberculosis (cultivo Mycobacterium) 6
 
 l.1) Otras pruebas no consideradas 10
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 V. De las Licencias:
 
 a) Licencia sanitaria estatal anual para microempresa:
@@ -2485,6 +2505,8 @@ Ferreteras, tiendas de pinturas con ventas de solventes: 100
 
 e) Otras licencias no consideradas: 20
 
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2006)</small>
+
 VI. Servicios diversos:
 
 a) Visita de verificación de las condiciones sanitarias de
@@ -2503,9 +2525,11 @@ cada foja: .2
 
 e) Otros servicios no considerados: 10
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 69 BIS 2.- Los Servicios que presta la Secretaría de Seguridad Pública, en el territorio del Estado de Durango, causarán derechos conforme a una cuota fija representada en salarios mínimos o fracción conforme a lo siguiente:
+ARTICULO 69 BIS 2.- Los Servicios que presta la Secretaría de Seguridad Pública, en el territorio del Estado de Durango, causarán derechos conforme a una cuota fija representada en UMA diaria o fracción de la misma conforme a lo siguiente:
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2010)</small>
 
 I. De la autorización y otros trámites para el funcionamiento de las empresas de seguridad privada:
 
@@ -2581,11 +2605,9 @@ personal operativo, misma que será de uso obligatorio. 1
 
 ###### ARTICULO 59.
 
-Los servicios que preste la Dirección General de Catastro, o sus delegaciones, causarán derechos, conforme a un porcentaje de la base que corresponda, o en días de salario mínimo o fracción del mismo, de acuerdo a lo siguiente:
+Los servicios que preste la Dirección General de Catastro, o sus delegaciones, causarán derechos, conforme a un porcentaje de la base que corresponda, o en UMA diaria o fracción de la misma, de acuerdo a lo siguiente:
 
-DIAS DE PORCENTAJE
-
-SALARIO
+UMA PORCENTAJE
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2005)</small>
 
@@ -2823,23 +2845,21 @@ relotificación, por lote. 2.0
 
 XI.- Por la expedición de avaluó catastral:
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-a) Con valor catastral de 1 hasta 1875 salarios
+a) Con valor catastral de 1 hasta 1875 UMA diaria. 6.0
 
-mínimos. 6.0
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+b) Por el excedente del valor catastral de 1875 hasta
 
-b) Por el excedente del valor catastral
+7200 UMA diario. 0.25
 
-de 1875 hasta 7200 salarios mínimos. 0.25
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+c) Por el excedente del valor catastral de 7200 UMA diario.
 
-c) Por el excedente del valor catastral
-
-de 7200 salarios mínimos. 0.20
+0.20
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2947,13 +2967,11 @@ fracciones anteriores. 3.0
 
 ###### ARTICULO 60.
 
-Los derechos por los servicios que presta el Estado relacionados con el tránsito vehicular, deberán ser cubiertos con una cuota representada en base a días de salario mínimo o fracción del mismo, según el servicio que se preste en los términos siguientes:
+Los derechos por los servicios que presta el Estado relacionados con el tránsito vehicular, deberán ser cubiertos con una cuota representada en base a la UMA diaria o fracción de la misma, según el servicio que se preste en los términos siguientes:
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-DÍAS DE PORCENTAJE
-
-SALARIO
+UMA
 
 A.- CONTROL VEHICULAR
 
@@ -3031,13 +3049,11 @@ III. Por la expedición de permisos provisionales para
 
 circulación de vehículos:
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-a) Hasta por 15 días 6
+a) Hasta por quince días 6
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2011)</small>
-
-b) Segundo Permiso hasta por 15 días 6
+b) (DEROGADO, P.O. 25 DE DICIEMBRE DE 2016)
 
 c) (DEROGADO, P.O. 13 DE DICIEMBRE DE 2011)
 
@@ -3079,7 +3095,7 @@ destinado: 4
 
 8.- Baja de vehículos con placas de otros estados: 4
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 Los avisos anteriores deberán presentarse ante la
 
@@ -3089,7 +3105,7 @@ los 10 días hábiles posteriores a la actualización
 
 de cualquier causa. Su presentación extemporánea
 
-será sancionada con una multa de 5 salarios mínimos.
+será sancionada con una multa de 5 UMAS diarias.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2006)</small>
 
@@ -3193,17 +3209,15 @@ El importe de los derechos no pagados en los plazos establecidos en el Artículo
 
 Para efectos de la aplicación de la tarifa a que se refiere el apartado B del Artículo 60 de esta Ley, los conductores se clasificarán en las categorías que establece el Artículo 39 de la Ley de Tránsito de los Municipios del Estado de Durango y del Artículo 133 del Reglamento de la Ley de Transportes del Estado de Durango.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 66.
 
-Los derechos por expedición de concesiones, permisos o autorizaciones, se causarán en base a días de salario conforme a lo siguiente:
+Los derechos por la expedición de concesiones, permisos o autorizaciones, se causarán en base a días de UMA conforme a lo siguiente:
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2016)</small>
 
-DÍAS DE PORCENTAJE
-
-SALARIO
+UMA
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -3700,3 +3714,29 @@ P.O. 16 DE MARZO DE 2016.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 53 POR EL QUE SE MODIFICAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE HACIENDA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor el primero de enero de 2017, mismo que será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente.
+
+TERCERO. Para el otorgamiento de los subsidios respecto del replaqueo y refrendo para el año 2017, se estará a lo dispuesto en el artículo 7, apartado B, de la Ley de Ingresos del Estado de Durango, para el ejercicio fiscal 2017.
+
+P.O. 25 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 49.- POR EL QUE SE REFORMA EL ARTÍCULO 50 DE LA LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día 1 de enero de 2017.
+
+###### ARTÍCULO SEGUNDO.
+
+Solo aquellos municipios del Estado de Durango, que celebren convenio con el Gobierno Estatal, podrán cobrar el Derecho de Control Vehicular, específicamente el contenido en el inciso a) de la fracción III, apartado A del artículo 60 de la Ley de Hacienda del Estado de Durango; cuando así suceda, deberán adecuar sus leyes de ingresos en el apartado correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
