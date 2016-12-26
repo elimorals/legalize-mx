@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2016-07-04"
+last_updated: "2016-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "SON"
 ---
 # LEY DE HACIENDA DEL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
+[NOTA 1. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]
+
+[NOTA 2. DE ACUERDO AL ARTÍCULO TRANSITORIO TERCERO DEL DECRETO NÚMERO 106, PUBLICADO EN EL B.O. DE 26 DE DICIEMBRE DE 2016, CUANDO SE SEÑALE EN EL CÓDIGO FISCAL DEL ESTADO Y LEY DE HACIENDA DEL ESTADO, LA MENCIÓN DE SALARIOS MÍNIMOS EN EL ÁREA GEOGRÁFICA "B", DEBERÁ ENTENDERSE COMO LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN, EN VIRTUD DEL ACUERDO DE LA JUNTA DE GOBIERNO POR EL QUE SE APRUEBAN LAS REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN CON FECHA 22 DE DICIEMBRE DE 2015, CON VIGENCIA PARA LOS ARTÍCULOS 19 Y 23 DEL CITADO REGLAMENTO, UNA VEZ QUE ESTÉ VIGENTE EL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, DECRETO QUE FUE PUBLICADO EN EL MISMO ÓRGANO DE DIFUSIÓN CON FECHA 27 DE ENERO DE 2016, VIGENTE EL DÍA SIGUIENTE AL DE SU CITADA PUBLICACIÓN Y POR ÚLTIMO CON RELACIÓN A LA PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE FECHA 28 DE ENERO DE 2016, EN EL QUE SE DETERMINARON EL VALOR DIARIO, MENSUAL Y ANUAL EN EL AÑO 2016.]
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2016, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN III DEL B.O. DE 4 DE JULIO DE 2016.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -1491,6 +1491,12 @@ a).- El 80% del valor total del vehículo de la primera facturación, para vehí
 
 b).- Tratándose de vehículos que su modelo sea hasta 10 años anteriores a la fecha en que se cause el impuesto, el valor de compra que se determine en base a la guía EBC que es la guía oficial de información para comerciantes en automóviles y aseguradoras en nuestro país sobre precios de vehículos usados del mes de noviembre del año anterior al de aplicación de la Ley.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+La guía EBC sobre precios de automóviles usados será publicada en el Boletín Oficial del Gobierno del Estado de Sonora, así como en la página electrónica oficial de la Secretaria de Hacienda del Estado de Sonora.
+
 c).- El avalúo pericial presentado por el contribuyente cuando se trate de vehículos no clasificados en las Guías o Publicaciones a que se refiere el inciso anterior, accidentados o en condiciones de avanzado deterioro. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente y rechazarlo en caso de que no se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
 
 > <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
@@ -2143,17 +2149,19 @@ I.- Contraprestaciones a que se refiere el artículo 213 del presente ordenamien
 
 Tratándose de organismos descentralizados del Estado de Sonora y de los municipios del Estado, sólo estarán exentos cuando realicen actividades con fines no lucrativos;
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II.- Los pagos por cualquier concepto de indemnización de los establecidos en el artículo 50 de la Ley Federal del Trabajo;
+II.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-III.- Los pagos derivados de la separación de la relación laboral por concepto de jubilaciones, pensiones o antigüedad siempre que no excedan de cinco veces el salario mínimo general elevado al mes, vigente en la zona en que resida el perceptor de dichos conceptos;
+III.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IV.- Contraprestaciones cubiertas por instituciones y asociaciones con fines no lucrativos que promuevan o realicen asistencia social en cualquiera de sus formas, así como las que lleven a cabo gratuitamente, actividades sociales, deportivas o culturales, previa solicitud y autorización de la Secretaría de Hacienda;
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+IV.- Contraprestaciones cubiertas por instituciones y asociaciones con fines no lucrativos que promuevan o realicen asistencia social en cualquiera de sus formas, así como las que lleven a cabo gratuitamente, actividades sociales, deportivas o culturales.
 
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -2165,9 +2173,9 @@ V.- Contraprestaciones cubiertas por contribuyentes que tengan contratados un m�
 
 VI.- Contraprestaciones pagadas a personas con discapacidad;
 
-> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VII.- Participación de los trabajadores en las utilidades;
+VII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 2016)
 
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -2195,9 +2203,9 @@ XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre
 
 XIII.- Pagos que resulten del subsidio para el empleo conforme a la Ley del Impuesto Sobre la Renta.
 
-> <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XIV.- Los premios por asistencia y puntualidad, siempre que el importe de cada uno no rebasen el 10% del salario base.
+XIV.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 2016)
 
 > <small>(ADICIONADA, B.O. 2 DE JUNIO DE 2014)</small>
 
@@ -2239,9 +2247,11 @@ El presente estímulo será otorgado de conformidad con los lineamientos que al 
 
 La Secretaría de Hacienda hará efectivo el estímulo mediante la presentación del comprobante de la aportación expedido a nombre del contribuyente, al rendir la declaración correspondiente.
 
-> <small>(REFORMADO, B.O. 29 DE OCTUBRE DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-La Secretaría de Hacienda otorgará anualmente este beneficio, el cual será equivalente al 8% del impuesto presupuestado en la Ley de Ingresos del Estado del ejercicio correspondiente.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría de Hacienda otorgará anualmente este beneficio del 8% del impuesto presupuestado en la Ley de Ingresos del Estado del ejercicio correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3155,13 +3165,13 @@ Toda la recaudación que por concepto de ésta contribución se obtenga en cada 
 
 ### Capítulo III Bis. Contribuciones para el Fortalecimiento de la Infraestructura Educativa
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 292 Bis.
 
-Se causará una cuota adicional sobre impuestos y derechos del Estado, equivalente a un 15% de su importe, con la finalidad de conservar y crear infraestructura educativa.
+Se causará una cuota adicional sobre los impuestos y derechos del Estado, equivalente a un 15% de su importe, con la finalidad de conservar, crear y mantener infraestructura educativa, equipamiento para la prestación del servicio de educación en todos los niveles, incluyendo el servicio de transporte escolar, así como el financiamiento del programa de apoyo escolar.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3179,27 +3189,21 @@ II.- Impuesto sobre traslación de dominio de bienes muebles, en las operaciones
 
 III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, por servicios que presta el Registro Público de la Propiedad y en general por la legalización de firmas, expedición de certificados y certificaciones, que realicen las personas con discapacidad permanente. Para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del impuesto o derecho correspondiente, la credencial expedida por los Consejos Estatal o Municipales, para la integración de las personas con discapacidad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 292 BIS-2.- Toda la recaudación que por concepto de esta contribución se obtenga, será para conservar, crear y mantener infraestructura educativa, equipamiento para la prestación del servicio de educación en todos los niveles, incluyendo el servicio de transporte escolar, así como el financiamiento del programa de apoyo escolar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo III Bis 1. CONTRIBUCION PARA EL FORTALECIMIENTO Y SOSTENIMIENTO DE LA CRUZ ROJA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
-
-###### Artículo 292 Bis
-
-2.- Toda la recaudación que por concepto de esta contribución se obtenga, será para mantener y crear infraestructura educativa.
-
-> <small>(ADICIONADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
-
-De igual manera, esta Contribución se podrá afectar como garantía o en su caso como fuente de pago de los financiamientos obtenidos por el Gobierno del Estado de Sonora de manera específica para realizar obra pública consistente en mantener y crear infraestructura educativa.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 292 Bis
 
@@ -3217,8 +3221,6 @@ c) Por expedición de licencias de conducir.
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-### Capítulo Cuarto. Otras Contribuciones
-
 ###### Artículo 292 Bis
 
 4.- No causará la cuota adicional a que se refiere este Capítulo, los pagos que se realicen por los siguientes conceptos:
@@ -3228,6 +3230,12 @@ Por la expedición, canje o revalidación de placas de transporte privado, por e
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo Cuarto. Otras Contribuciones
+
+###### Artículo 292 Bis
+
+5.- Toda la recaudación que por concepto de esta cuota adicional se obtenga, será para el fortalecimiento y sostenimiento de la Cruz Roja.
 
 ###### Artículo 292 Bis
 
@@ -5119,9 +5127,17 @@ En los casos que la transmisión de la propiedad del bien inmueble o de cualquie
 
 $2,500.00
 
-> <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Tratándose del contrato de compraventa por el cual se transmita la propiedad destinada para vivienda, cuyo valor tomando como base el más alto entre el precio de la operación, el valor comercial y el valor catastral, no supere la suma que se obtenga de multiplicar por 25 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate se cobrará: $660.00
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de transmisión de propiedad destinada para vivienda, cuyo valor tomando como base el más alto entre el avalúo catastral, el comercial y el precio pactado de la operación, no supere la suma del que resulte de multiplicar 25 veces elevado al año de la Unidad de Medida y Actualización, por cada acto jurídico se cobrará: $679.00
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+Tratándose del contrato de compraventa por el cual se transmita la propiedad destinada para vivienda, cuyo valor tomando como base el más alto entre el precio de la operación, el valor comercial y el valor catastral, no supere la suma que se obtenga de multiplicar por 25 veces elevado al año de la Unidad de Medida y Actualización, se cobrará: $679.00
 
 b) Por el que fraccione, lotifique, relotifique, subdivida, fusione, cualquier inmueble rústico o urbano, o se constituya el régimen de propiedad condominal se cobrará por cada acto:
 
@@ -5151,9 +5167,11 @@ $400.00
 
 f).- Por el que cancele inscripción referente a gravamen, limitante, que pese sobre un bien inmueble, testamento ológrafo o poder, por cada antecedente se cobrará: $522.00
 
-Tratando de la cancelación para la obtención de vivienda cuyo valor, tomando como base el valor más alto entre el avalúo catastral, el comercial y el precio pactado de la operación, no supere la suma que resulte de multiplicar 25 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate, por cada acto jurídico se cobrará:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-$250.00
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de la cancelación para la obtención de vivienda, cuyo valor tomando como base el más alto entre el avalúo catastral, el comercial y el precio pactado de la operación, no supere la suma que resulte de multiplicar 25 veces elevado al año de la Unidad de Medida y Actualización, por cada acto jurídico se cobrará: $269.00
 
 g) En el que se formalice convenio modificatorio de un acto previamente registrado, por cada acto se cobrará:
 
@@ -5253,9 +5271,13 @@ $150.00
 
 $500.00
 
-4.- Para el caso de no ser agregado al documento público o privado que contenga lotificación, subdivisión, fusión o fraccionamiento de inmueble, en los formatos oficiales publicados por el Instituto Catastral o Registral del Estado de Sonora, por servicio de captura, por el lote o fracción resultante se cobrará:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-$55.00
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+4.- En todos aquellos documentos públicos o privados que contengan lotificación, condominio, subdivisión, fusión, o fraccionamiento del inmueble, por captura de cada lote o área exclusiva condominal resultante en sistema de gestión registral se cobrará:
+
+$60.00
 
 5.- Por la migración de antecedentes registrales de un inmueble a su folio real se cobrará por cada antecedente:
 
@@ -5275,11 +5297,25 @@ Para el caso, de que el documento no esté consultable en formato digital, su ve
 
 $5,000.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
-9.- Se causará un derecho adicional equivalente al 50% sobre la cantidad fijada, siempre y cuando el peticionario del servicio lo solicite, con el fin de que el servicio registral requerido le sea entregado dentro de las 24 horas hábiles siguientes a la solicitud; derechos éstos que se destinarán el 60% como compensación del personal adscrito al Registro Público, y el 40% para modernización de los servicios registrales en el Estado.
+9.- Se causará un derecho adicional equivalente al 50% sobre la cantidad fijada, siempre y cuando el peticionario del servicio lo solicite, con el fin de que el servicio registral requerido le sea entregado dentro de las 24 horas hábiles siguientes a la solicitud, derechos éstos que se destinarán el 60% como estímulo a todo el personal adscrito a la Dirección General de Servicios Registrales, así como a las áreas del Instituto Catastral y Registral del Estado de Sonora que colaboren directa e indirectamente en el proceso registral, y el 40% para modernización de los servicios registrales en el Estado.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+10.- Se causará un derecho adicional equivalente al 150% a petición del usuario, sobre la cantidad fijada para el servicio que se solicita, siempre y cuando la operatividad y naturaleza del acto lo permita, este mismo trámite deberá de ser entregado antes del término del horario laboral establecido. Los derechos causados se destinarán exclusivamente al fondo de modernización para ser distribuido en cada Oficina Jurisdiccional que haya prestado el citado servicio.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+11.- Por la presentación del aviso previo sin incluir la emisión del certificado se cobrará:
+
+$262.00
 
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
@@ -5955,7 +5991,7 @@ suelo de terrenos en que se pretendan realizar
 
 desarrollos turísticos, industriales o campestres,
 
-fuera del límite del centro de la población. $3,500.00
+fuera del límite del centro de población $3,500.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7534,3 +7570,43 @@ B.O. 9 DE JUNIO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 26 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 106, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES FISCALES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2017, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Cuando se señale en el Código Fiscal del Estado y Ley de Hacienda del Estado, la mención de salarios mínimos en el área geográfica "b", deberá entenderse como la Unidad de Medida y Actualización, en virtud del Acuerdo de la Junta de Gobierno por el que se aprueban las reformas al Reglamento Interior del Instituto Nacional de Estadística y Geografía, publicado en el Diario Oficial de la Federación con fecha 22 de diciembre de 2015, con vigencia para los artículos 19 y 23 del citado Reglamento, una vez que esté vigente el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, decreto que fue publicado en el mismo Órgano de difusión con fecha 27 de enero de 2016, vigente el día siguiente al de su citada publicación y por último con relación a la publicación en el Diario Oficial de la Federación de fecha 28 de enero de 2016, en el que se determinaron el valor diario, mensual y anual en el año 2016.
+
+###### ARTÍCULO CUARTO.
+
+Tratándose de créditos fiscales por contribuciones que debieron pagarse antes de la entrada en vigor de este decreto y para los efectos del artículo 18 Bis del Código Fiscal del Estado de Sonora, para proceder a la actualización de los créditos fiscales exigibles se considerará como mes más antiguo del período el de diciembre de 2016 y, el más reciente, el anterior a aquel en que se efectúe el pago.
+
+###### ARTÍCULO QUINTO.
+
+Se autoriza a la Secretaría de Hacienda a efectuar sustitución de la garantía de créditos fiscales pendientes de pago, en aquellos casos en que se hubiere:
+
+a) Practicado embargo sin sustracción.
+
+b) Se hubiesen embargado bienes muebles cuyo valor en el mercado se demerite.
+
+c) No sean bienes de fácil enajenación o requieran cuidados especiales.
+
+Para dicha sustracción, se aplicará la prelación establecida del artículo 151 del Código Fiscal del Estado de Sonora, en el caso de sustitución de bienes.
+
+###### ARTÍCULO SEXTO.
+
+Las normas adjetivas o procesales que contempla el presente decreto que de manera enunciativa más no limitativa se refieren a embargos, intervención de cuentas bancarias, subasta electrónica de bienes, entre otros, solo serán aplicables a la revisión o comprobación del cumplimiento de obligaciones fiscales del año 2017 y subsecuentes, salvo de aquellos créditos fiscales cuyo ejercicio de facultades de comprobación se hayan iniciado con anterioridad al año citado y que a la entrada en vigor de las presentes modificaciones hayan quedado firmes.
+
+###### ARTÍCULO SÉPTIMO.
+
+Tratándose de personas físicas y morales que previa a la entrada en vigor de la presente reforma ya habían contratado la prestación de servicios con empresas para que éstas les proporcionaran trabajadores, se les concederá un plazo de 180 días para que presenten el aviso correspondiente de conformidad con lo establecido en el artículo 33-Bis, mismo que se computará a partir de la entrada en vigor de la presente reforma.
