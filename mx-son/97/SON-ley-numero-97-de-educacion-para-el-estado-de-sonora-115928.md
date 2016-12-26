@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-97-de-educacion-para-el-estado-de-sonora-115928"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-14"
-last_updated: "2016-12-22"
+last_updated: "2016-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección III del Boletín Oficial del Estado de Sonora, el jueves 14 de julio de 2016.
 
@@ -69,9 +69,21 @@ VII.- Ley General Docente: la Ley General del Servicio Profesional Docente;
 
 VIII.- Organismos Descentralizados: a las entidades paraestatales con personalidad jurídica y patrimonio propios que impartan educación media superior;
 
-IX.- Secretaría: la Secretaría de Educación y Cultura; y
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
-X.- Sistema Educativo: el Sistema Educativo Estatal.
+IX.- Secretaría: la Secretaría de Educación y Cultura;
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+X.- Sistema Educativo: el Sistema Educativo Estatal;
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+XI.- Acoso Escolar: La forma de violencia entre compañeros en la que uno o varios alumnos molestan y agreden de manera constante y repetida a uno o varios compañeros, quienes no pueden defenderse de manera efectiva y generalmente están en una posición de desventaja o inferioridad; y
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+XII.- Mediación Escolar: La técnica que se utiliza para resolver los problemas que se presentan en la convivencia entre alumnos y/o entre alumnos y maestros. En algunos centros también se usa para solventar las dificultades que surgen entre el profesorado, y/o entre éste y los padres de familia.
 
 ###### ARTÍCULO 3o.
 
@@ -875,13 +887,109 @@ Estos recursos serán aplicados a través del Programa de Transporte Escolar de 
 
 El servicio de transporte escolar gratuito será prestado con los recursos materiales y humanos con que cuente la Secretaría, o por medio de convenio con los sistemas de transporte escolar establecido por particulares, las mismas escuelas o la sociedad de padres de familia del plantel que corresponda, por lo que no se cobrará cuota alguna que tenga la finalidad de financiar este servicio, ya sea de manera directa o indirecta.
 
-### CAPÍTULO XII. DEL SERVICIO PROFESIONAL DOCENTE
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO XIII. DE LAS INFRACCIONES Y LAS SANCIONES
+### CAPÍTULO XI BIS. DE LA MEDIACIÓN ESCOLAR
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 79 BIS.- La Secretaría incorporará en todos los planteles de Educación Básica en la entidad, públicos e incorporados, la Mediación Escolar como un mecanismo alternativo a la solución de los conflictos que se presenten entre estudiantes, estudiantes y maestros, maestros y padres de familia, considerando a la Mediación Escolar como una herramienta valiosa y efectiva para prevenir, afrontar y solucionar los conflictos que se presenten en el ámbito de la escuela, fomentando así una cultura de Paz en la comunidad Escolar, y coadyuvando de manera pronta y eficaz para eliminar el acoso escolar que se presenta entre estudiantes.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 79 BIS 1.- La Mediación Escolar en los Planteles Escolares, debe perseguir los siguientes propósitos:
+
+a).- Facilitar la discusión colaborativa, no evadirla. Así como fomentar una cultura de solución de conflictos naturales que se presentan entre los alumnos;
+
+b).- Promover una cultura de paz, ideal en el aula para el aprovechamiento escolar;
+
+c).- Disminuir el Acoso Escolar, presentando una alternativa de discusión asistida, sin evadir los problemas que se presentan, siendo una opción para afrontar de manera empática las diferencias que se presentan;
+
+d).- Propiciar una cultura de respeto y de concordia, que trascienda del aula al ámbito familiar, como una herramienta efectiva para promover alternativas para enfrentar y orientar la discusión en casa;
+
+e).- Proporcionar a los planteles escolares una herramienta eficaz, para buscar la prevención de la violencia;
+
+f).- Promover la colaboración institucional, la participación social, y propiciar una nueva visión para afrontar los conflictos que se suscitan en los planteles y la comunidad escolar, en su conjunto; y
+
+g).- Atender y activar de manera sensible y empática, el problema social del acoso escolar, desde una óptica pacífica y no punitiva, considerando tanto al acosado como al acosador, como sujetos susceptibles de ser escuchados y orientados, entendiendo el origen del conflicto.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 79 BIS 2.- La Mediación Escolar, como técnica que permite y facilita una discusión, debe ser de carácter colaborativa y voluntaria entre las partes en conflicto, para encontrar con la ayuda de una tercera persona, denominada el mediador, una solución pactada entre las partes, que contiene las siguientes características:
+
+a).- Es una estrategia para facilitar la discusión pacífica entre las partes en conflicto;
+
+b).- Debe ser de carácter voluntario, invariablemente, para todas las partes que estén de acuerdo en practicarla;
+
+c).- Debe ser un proceso sistemático, ordenado con diferentes fases a desarrollar;
+
+d).- La mediación escolar debe, en todo momento, buscar favorecer la comunicación y la colaboración entre las partes en conflicto;
+
+e).- Los mediadores deben facilitar el encuentro entre las partes en conflicto;
+
+f).- Debe ser un proceso educativo y transformador de la comunidad escolar en su conjunto, alumnos, maestros, padres de familia, directivos escolares y personal administrativo;
+
+g).- Son las personas en conflicto quienes atienden sus problemas, aprendiendo a gestionar las soluciones a su conflicto;
+
+h).- El proceso en todo momento debe ser confidencial y los registros quedan en el ámbito de la Escuela;
+
+i) Todas las manifestaciones, constancias y/o acuerdos generados en el proceso de mediación escolar, no constituyen una confesión expresa o espontanea de las partes, ni generan presunción de responsabilidad jurídica alguna, por lo que no pueden considerarse, ni valorarse como medios probatorios en procedimiento administrativo o de cualquier naturaleza jurídica; y
+
+j) En términos de lo que establece la Ley General de los Derechos de las Niñas, Niños y Adolescentes, cuando exista un conflicto entre un alumno y un maestro o personal directivo, invariablemente deberá (sic) participar los padres o tutores en el proceso de medicación.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 79 BIS 3.- Se entenderá como parte del proceso de la Mediación Escolar en el aula, las siguientes etapas para su realización:
+
+1.- Pre mediación.- En esta fase se realiza una reunión por separado con las partes en conflicto, en búsqueda de una descarga emocional previa a la mediación conjunta. Se trata de establecer el primer contacto entre el mediador y las partes en conflicto, para captar las primeras impresiones, determinar su disponibilidad a participar en un proceso de mediación asistida, dónde se establecen la mecánica y las reglas a seguir en la misma, entendiendo los alcances y consecuencias de la misma, que es el sujetarse a los acuerdos logrados durante el proceso de mediación.
+
+2.- Entrada.- Se realizan las presentaciones y se establecen las condiciones y reglas del proceso que les permita realizar la mediación. Se les da a las partes en conflicto la oportunidad de establecer sus dudas y hacer las aclaraciones necesarias previas al inicio del proceso de mediación.
+
+3.- Cuéntame.- Cada una de las partes, se le da la oportunidad de exponer y/ o relatar los motivos del conflicto. Se les otorga exactamente el mismo tiempo para su exposición inicial, decidiendo al azar quien será la primera persona en hacer uso de la palabra.
+
+4.- Ubicar el Conflicto.- Se hace una (sic) análisis de la exposición de las partes, se resaltan los aspectos en común que estos hayan expresado, se hace una síntesis por parte del mediador, para ubicar de manera clara el conflicto y/o sus causas; en esta fase se pueden pedir aclaraciones, para que no exista duda sobre lo expresado por las partes.
+
+5.- Búsqueda de soluciones.- Se intenta, por parte del mediador, presentar un enfoque integral del problema, que pueda ir acercando a las partes a posibles soluciones que les satisfagan a ambos. Aquí, es fundamental generar un proceso de escucha activa, generar un proceso de empatía por parte del mediador, para encauzar de manera inteligente la posible solución o alternativas de solución al conflicto.
+
+6.- El Acuerdo.- Se establece uno o varios acuerdos a los que hayan llegado las partes, se procede a la redacción de los mismos, que se firmen y estos sean avalados por ambas partes, en presencia de testigos, además del mediador del conflicto, para que sirvan como garantes del o los acuerdos logrados.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 79 BIS 4.- Los Mediadores Escolares, en el ámbito de un conflicto que surja entre los integrantes de la comunidad escolar, entendiéndose a estos como alumnos, maestros, padres de familia y personal directivo y administrativo de los diferentes planteles de Educación Básica en la entidad, públicos e incorporados, podrán ser alumnos, maestros, padres de familia o personal directivo o administrativo, que reúnan un perfil básico, que contenga al menos las siguientes características:
+
+a).- Liderazgo en la comunidad escolar, es importante que el mediador, sea alumno, padre de familia o docente o directivo, debe ejercer un liderazgo reconocido por quienes integran el plantel;
+
+b).- Facilidad de Palabra, es de suma importancia que el mediador, tenga la habilidad de expresarse en público, y que sea de voz clara y pueda, sin titubeos, tomar el control del proceso de mediación;
+
+c).- En el caso de los alumnos, estar matriculado en el plantel donde se vaya a participar como mediador, con promedio aprobatorio, para que este pueda tener autoridad ante quienes presenten un conflicto;
+
+d).- En el caso de los maestros, tener una plaza de base y tener al menos una antigüedad mínima de 3 años en el plantel, para que éste tenga conocimiento probado de la comunidad escolar y sea reconocido por los alumnos y los padres de familia;
+
+e).- En el caso de los padres de familia, estos deberán haber demostrado su interés por la comunidad escolar, pudiendo ser de entre los miembros de la Asociación de Padres de Familia, o tener el 80 % de asistencias o más a las reuniones escolares convocadas por los maestros y directivos del plantel; y
+
+f).- En General, los mediadores que surjan de cada plantel escolar, deberán tener el compromiso de capacitarse constantemente y asumir siempre la neutralidad e independencia en cada caso que participen, al tratarse de compañeros de clase, compañeros maestros o padres de familia del plantel.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 79 BIS 5.- La Secretaría buscará establecer las medidas necesarias para que los prestadores de servicio social, en los términos del artículo 16 de la presente ley, estén formados en la técnica de la mediación y, a su vez, sean los capacitadores y formadores de mediadores en las escuelas públicas e incorporadas del Estado, de conformidad con las características que presente el reglamento respectivo.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 79 BIS 6.- La Mediación Escolar, deberá ser transmitida a todos los grados y grupos de la totalidad de los planteles escolares en la entidad. Las características de los contenidos bibliográficos y técnicas de mediación a utilizar en dicho proceso, entiéndase folletería, manuales o libros que se editen para tal efecto, deberán ser elaborados, supervisados y autorizados por un Consejo Consultivo Profesional de Mediadores, que deberá ser convocado en los términos del Reglamento que la Secretaría emita para tal efecto, considerando en su composición la invitación a dicho Consejo Consultivo Profesional de Mediadores, al menos a un representante académicos (sic) de 3 instituciones Educativas de nivel superior en la entidad, que tengan dentro de su plan académico la mediación, además de, al menos, dos asociaciones civiles o institutos de mediación que estén formalmente instituidos en la Entidad.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 79 BIS 7.- Con la finalidad de conocer y llevar a cabo la estadística, así como los beneficios del proceso de Mediación Escolar, de elaborar el Semáforo Indicativo del nivel de violencia y de conocer aquellas situaciones que afecten a los menores estudiantes y que por su naturaleza y/o gravedad no sea posible atender mediante este, en cada plantel escolar de la Entidad en donde se esté aplicando el proceso educativo de Mediación Escolar, se deberá llevar un registro, el cual se deberá hacer del conocimiento de la Secretaría, de los padres de familia de cada plantel y de la institución especialista en mediación con la que se labore en cada caso específico, con la periodicidad que se requiera.
+
+El personal docente y administrativo de cada plantel, así como los padres de familia que adviertan cualquier circunstancia que por su gravedad no sea posible atender mediante la Mediación Escolar, deberá dar aviso inmediato a los padres o tutores de los menores, acosado y acosador, así como a la Secretaría, por escrito.
+
+### CAPÍTULO XII. DEL SERVICIO PROFESIONAL DOCENTE
 
 ###### ARTÍCULO 80.
 
 En la educación básica y media superior el ingreso, la promoción, el reconocimiento y la permanencia de docentes y de personal con funciones de dirección y de supervisión en las instituciones educativas dependientes del Estado y sus organismos descentralizados, así como de los ayuntamientos, se sujetará a lo dispuesto por la Ley General del Servicio Profesional Docente, la Ley General de Educación y la Ley del Instituto Nacional para la Evaluación de la Educación.
+
+### CAPÍTULO XIII. DE LAS INFRACCIONES Y LAS SANCIONES
 
 ###### ARTÍCULO 81.
 
@@ -1008,3 +1116,15 @@ B.O. 22 DE DICIEMBRE DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 26 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 109, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días naturales a partir de que el presente Decreto entre en vigor, la Secretaría deberá emitir las disposiciones reglamentarias en relación al presente Decreto.
