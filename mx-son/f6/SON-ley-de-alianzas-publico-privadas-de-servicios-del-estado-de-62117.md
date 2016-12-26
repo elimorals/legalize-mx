@@ -4,7 +4,7 @@ identifier: "SON-ley-de-alianzas-publico-privadas-de-servicios-del-estado-de-621
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-14"
-last_updated: "2016-10-21"
+last_updated: "2016-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE ALIANZAS PUBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA
 
-LEY DE ALIANZAS PUBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2016.
+LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el lunes 14 de julio de 2008.
 
@@ -137,7 +139,9 @@ Para aquellos Proyectos que pretendan desarrollar los Entes Contratantes señala
 
 I.- Cuando los Proyectos pretendan realizarse por los Municipios con fondos estatales conforme a un convenio de coordinación o colaboración con el Estado, las facultades, autorizaciones y procedimientos administrativos previstos en esta ley podrán ejercerse o realizarse por las dependencias señaladas en la misma, según se acuerde en el convenio correspondiente, y
 
-II.- Cuando los Proyectos pretendan realizarse únicamente con fondos municipales, las facultades y autorizaciones que en esta ley le corresponden a la Secretaría serán ejercidas u otorgadas por el Tesorero Municipal, y las autorizaciones de asignaciones presupuestales que rebasen un ejercicio presupuestal que conforme a esta ley debe otorgar el Congreso del Estado, deberán ser otorgadas por el Ayuntamiento. En este supuesto, las inconformidades que esta ley señala deben presentarse a la Contraloría, se presentarán ante el Órgano de Control Gubernamental. Los Municipios podrán solicitar la opinión de la Secretaría o del Congreso del Estado para determinar la viabilidad del Proyecto como Alianza.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+II.- Cuando los proyectos pretendan realizarse únicamente con fondos municipales, las facultades y autorizaciones que en esta ley le corresponden a la Secretaría serán ejercidas u otorgadas por el Tesorero Municipal, y las autorizaciones de asignaciones presupuestales que rebasen un ejercicio presupuestal que conforme a esta ley debe otorgar el Congreso del Estado, deberán ser otorgadas por el Ayuntamiento y el Congreso, en caso de así requerirlo cualquier ley aplicable. En este supuesto, las inconformidades que esta ley señala deben presentarse a la Contraloría, se presentarán ante el Órgano de Control Gubernamental. Los Municipios podrán solicitar la opinión de la Secretaría o del Congreso del Estado para determinar la viabilidad del proyecto como Alianza.
 
 Igualmente, en el caso previsto en esta fracción, cualquier referencia a instrumentos jurídicos propios del Gobierno del Estado, se deberá entender referida al instrumento jurídico municipal correspondiente.
 
@@ -189,17 +193,23 @@ III.- Los programas de transparencia y racionalidad presupuestaria; y
 
 IV.- Las disposiciones aplicables en materia de planeación, presupuestación y gasto público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 12.
 
-Para la solicitud de autorización presupuestal a la que se refiere la Ley del Presupuesto de Egresos, Contabilidad Gubernamental y Gasto Público Estatal, los Entes Contratantes deberán determinar tanto el presupuesto total del Proyecto como los presupuestos para el primer ejercicio presupuestal y los ejercicios presupuestales subsecuentes hasta la terminación del Contrato.
+Para la solicitud de autorización presupuestal a la que se refiere la Ley del Presupuesto de Egresos y Gasto Público Estatal, los Entes Contratantes deberán determinar tanto el presupuesto total del proyecto como los presupuestos para el primer ejercicio presupuestal y los ejercicios presupuestales subsecuentes hasta la terminación del Contrato.
 
 Durante la vigencia del Contrato, el Ente Contratante deberá considerar en la formulación de cada uno de sus presupuestos anuales, los pagos que deba efectuar en dicho ejercicio al Proveedor.
 
-Los Entes Contratantes efectuarán los pagos derivados de los Contratos de Alianzas con cargo a sus respectivos presupuestos autorizados de gasto corriente para el ejercicio fiscal correspondiente.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+Los entes contratantes efectuarán los pagos derivados de los contratos de Alianzas con cargo a sus respectivos presupuestos autorizados para el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 13.
 
-Los pagos que deban realizarse bajo un Contrato de Alianza, una vez que su celebración haya sido autorizada en términos de esta ley, se considerarán por el Ente Contratante preferentes respecto de otro tipo de compromisos de gasto corriente de naturaleza distinta. El Congreso del Estado aprobará, con tal preferencia los presupuestos de egresos de todos los años en los que se encuentren vigentes los Contratos.
+Los pagos que deban realizarse bajo un contrato de Alianza, una vez que su celebración haya sido autorizada en términos de esta ley, deberán presupuestarse por el Ente Contratante en forma preferente respecto de nuevas obligaciones similares. El Congreso del Estado aprobará, con tal preferencia los presupuestos de egresos de todos los años en los que se encuentren vigentes los contratos.
 
 ###### ARTÍCULO 14.
 
@@ -229,7 +239,9 @@ Si con base en lo dispuesto por esta ley, los Entes Contratantes consideran que 
 
 Se entenderá que existe un aumento presupuestal sustancial cuando se cumpla cualquiera de los siguientes supuestos:
 
-I.- El beneficio neto para el periodo residual del Contrato, calculado con base en el análisis comparativo señalado en el artículo 20 de la presente ley, se reduzca en un 50%. Por beneficio neto se entenderá el valor por el uso de los recursos públicos en términos de dicho análisis comparativo;
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+I.- El beneficio neto para el período residual del contrato, calculado con base en el análisis comparativo señalado en el artículo 20 de la presente ley, se reduzca en un cincuenta por ciento. Por beneficio neto se entenderá el valor por el uso de los recursos públicos en términos de dicho análisis de costo-beneficio;
 
 II.- Si el impacto de dicha modificación, en valor presente, excede el 20% del presupuesto del Contrato o valor estimado de éste; en el periodo residual de la vigencia del Contrato; o
 
@@ -241,8 +253,6 @@ ARTÍCULO 17 BIS.- (DEROGADO, B.O. 21 DE OCTUBRE DE 2016)
 
 ### CAPÍTULO III. AUTORIZACIÓN DEL PROYECTO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 18.
@@ -252,8 +262,6 @@ Los Entes Contratantes deberán presentar las solicitudes de autorización de lo
 La autorización del Proyecto se entenderá otorgada exclusivamente para efectos de que el Ente Contratante continúe con la elaboración de la documentación para el proceso de obtener la aprobación del Congreso del Estado y, posteriormente, la contratación de la Alianza.
 
 > <small>(DEROGADO TERCER PÁRRAFO, B.O. 21 DE OCTUBRE DE 2016)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
@@ -277,21 +285,23 @@ V.- Un documento que resuma los elementos principales que contendrá el Contrato
 
 VI.- En su caso, la solicitud de una Garantía de Pago.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 20.
 
-El análisis comparativo entre elaborar el Proyecto a través de una Alianza o a través de gasto de inversión pública que debe realizar el Ente Contratante, tendrá como finalidad estimar si el Proyecto a través de una Alianza genera mayores beneficios técnicos, financieros y en calidad y oportunidad para el Estado, que los beneficios que se obtendrían en caso de que el Proyecto fuere ejecutado con inversión pública estatal o a través de las otras modalidades previstas en la legislación aplicable.
+Se deberá realizar un análisis de costo-beneficio conforme a las disposiciones previstas en el artículo 21 de esta Ley, que tendrá como finalidad estimar si el proyecto a través de una Alianza genera mayores beneficios técnicos, financieros y en calidad y oportunidad para el Estado, que los beneficios que se obtendrían en caso de que el proyecto fuere ejecutado con inversión pública estatal, municipal o a través de las otras modalidades previstas en la legislación aplicable.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El análisis costo beneficio deberá cumplir, además, con las disposiciones previstas en la Ley del Presupuesto de Egresos; y Gasto Público Estatal y la Ley de Deuda Pública del Estado de Sonora.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 21.
 
-(DEROGADO, B.O. 15 DE DICIEMBRE DE 2014)
+Para la elaboración del análisis de costo-beneficio, los Entes Contratantes podrán apegarse, en su caso, a los lineamientos y metodología que la Secretaría emita previamente y publique en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO 22.
 
 En caso de que el Ente Contratante omitiera presentar la información prevista en el artículo anterior o la misma requiriera de aclaraciones, la Secretaría requerirá por escrito al Ente Contratante la información faltante en los términos y plazos señalados en el reglamento de esta ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
 
@@ -299,9 +309,11 @@ En caso de que el Ente Contratante omitiera presentar la información prevista e
 
 Cuando la solicitud presentada para la autorización del Proyecto cumpla con los requisitos establecidos en esta ley, su reglamento y los lineamientos correspondientes, la Secretaría procederá a emitir la resolución que corresponda para efecto de la aprobación definitiva del Congreso del Estado.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 24.
 
-Para emitir la autorización del Proyecto, la Secretaría deberá analizar y dictaminar si el Estado se beneficiará al desarrollar la Alianza, para lo cual considerará las características del Proyecto, el análisis comparativo que en términos del artículo 20 de esta Ley se lleve a cabo y el impacto en las finanzas públicas de las obligaciones de pago que se deriven de la Alianza.
+Para emitir la autorización del proyecto, la Secretaría deberá analizar y dictaminar si el Estado se beneficiará al desarrollar la Alianza, para lo cual considerará las características del proyecto, el análisis de costo-beneficio que en términos del artículo 20 de esta Ley se lleve a cabo y el impacto en las finanzas públicas de las Obligaciones de pago que se deriven de la Alianza.
 
 > <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -315,9 +327,19 @@ Una vez aprobada la Alianza por el Congreso del Estado, la Secretaría deberá r
 
 ### CAPÍTULO IV. DE LOS BIENES PÚBLICOS QUE PODRÁN USARSE EN LAS ALIANZAS
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 26.
 
-Para el desarrollo de una Alianza, el Estado y, en su caso, los municipios, podrán permitir el uso gratuito u oneroso de los bienes de su propiedad o de los bienes federales que lleguen a tener asignados, si las disposiciones aplicables así lo disponen. El uso que se otorgue podrá ser sobre bienes muebles o inmuebles mediante concesión, arrendamiento, comodato o cualquier otro medio legal, según la legislación de la materia lo permita. En cualquier caso, la vigencia del título legal a través del cual se otorgue dicho uso será por un periodo máximo equivalente a la vigencia del Contrato de Alianza. En el caso de concesiones, permisos o autorizaciones que se otorguen para una Alianza, las autoridades competentes podrán aplicar exenciones de pago de derechos por uso, aprovechamiento o explotación sobre los bienes públicos correspondientes, de conformidad con lo previsto en las disposiciones fiscales respectivas.
+Para el desarrollo de una Alianza, el Estado y, en su caso, los municipios podrán permitir el uso gratuito u oneroso de los bienes de su propiedad o de los bienes federales que llegue a tener asignados previa autorización de la autoridad competente para administrar el patrimonio federal, estatal o municipal, según corresponda, o en el caso de entidades paraestatales, de su órgano de gobierno. Para el uso de los bienes estatales y municipales, será suficiente la autorización de la autoridad correspondiente sin necesidad de otorgarse una concesión. La autorización a que hace referencia este artículo no será necesaria en caso de que así lo disponga la demás legislación aplicable al caso en cuestión.
+
+Sin perjuicio de la autorización prevista en el párrafo anterior, también podrá otorgarse el uso de bienes muebles o inmuebles a través de concesión, arrendamiento, comodato o cualquier otro medio legal, según la legislación en la materia lo permita. En cualquier caso, la vigencia del título legal a través del cual se otorgue dicho uso será por un periodo máximo equivalente a la vigencia del contrato.
+
+En el caso de concesiones, permisos o autorizaciones que se otorguen para una Alianza, las autoridades competentes podrán aplicar exenciones de pago de derechos por uso, aprovechamiento o explotación sobre los bienes públicos correspondientes, de conformidad con lo previsto en las disposiciones fiscales respectivas.
+
+Las autorizaciones antes citadas que, en su caso, sea necesario otorgar, contendrán únicamente las condiciones mínimas indispensables que, conforme a las disposiciones que las regulan, permitan al proveedor el uso de los bienes o la prestación de los servicios del proyecto. Los demás términos y condiciones que regulen la relación del proveedor con el Ente Contratante serán objeto del contrato en términos de esta Ley.
+
+En adición a la cesión de los derechos del contrato de Alianza a que se refiere el artículo 87 de la presente Ley, los derechos del proveedor derivados de las autorizaciones para la prestación de los servicios, podrán cederse, darse en garantía o afectarse de cualquier manera, cuando se cedan, den en garantía o afecten los derechos del contrato correspondiente y previa autorización del Ente Contratante que los haya otorgado. Asimismo, cuando el contrato se modifique, deberán revisarse las autorizaciones para la prestación de los servicios y, en su caso, realizarse los ajustes pertinentes.
 
 ### CAPÍTULO V. ADMINISTRACIÓN DEL PROYECTO
 
@@ -359,43 +381,61 @@ La Secretaría podrá recomendar el uso de modelos de contrato o clausulado para
 
 ### CAPÍTULO II. CARACTERÍSTICAS Y ELEMENTOS DEL MODELO DE CONTRATO
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 32.
 
-El modelo de Contrato deberá contener al menos los siguientes elementos:
+El modelo de contrato deberá contener al menos los siguientes elementos:
 
-I.- El plazo para dar inicio a la prestación de los servicios;
+I.- Nombres, datos de identificación y capacidad jurídica de las partes;
 
-II.- La descripción pormenorizada de los servicios que prestará el Proveedor;
+II.- Personalidad de los representantes legales de las partes;
 
-III.- Los riesgos que asumirán tanto el Ente Contratante como el Proveedor;
+III.- El objeto del contrato;
 
-IV.- En su caso, las penas convencionales que se aplicarán al Proveedor por el retraso en la provisión de los servicios, o al Ente Contratante por acciones u omisiones de su responsabilidad;
+IV.- Los derechos y obligaciones de las partes;
 
-V.- La forma, plazo, términos y condiciones de pago;
+V.- El plazo para dar inicio a la prestación de los servicios;
 
-VI.- Las causales de terminación anticipada o rescisión del Contrato en que pueda incurrir cualquiera de las partes;
+VI.- La descripción pormenorizada de las obras y servicios, que ejecutará o prestará el proveedor, incluyendo estándares técnicos, niveles de desempeño y calidad;
 
-VII.- Las obligaciones que deban asumir el Ente Contratante y el Proveedor en caso de terminación anticipada o rescisión del Contrato;
+VII.- Los riesgos que asumirán tanto el Ente Contratante como el proveedor, incluyendo causas excusables, eventos sujetos a reembolso, fuerza mayor o caso fortuito, retrasos y eventos sujetos a indemnización;
 
-VIII.- Los actos o hechos que puedan generar una modificación al precio del Contrato y la manera de calcular los incrementos o decrementos aplicables;
+VIII.- En su caso, las penas convencionales que se aplicarán al proveedor por el retraso en la fecha de terminación de obra y/o en la provisión de los servicios. Las penas convencionales podrán incluir una disminución o deducción en el pago de la contraprestación a la que tenga derecho en (sic) el proveedor. También podrán aplicar penas convencionales al Ente Contratante por acciones u omisiones de su responsabilidad;
 
-IX.- Las responsabilidades que asumirán las partes y las condiciones para cualquier pago que surja de las mismas o de la liberación de éstas;
+IX.- La forma, plazo, términos y condiciones de pago;
 
-X.- En su caso, las condiciones para la prórroga del Contrato;
+X.- Las causales de terminación anticipada o rescisión del contrato en que pueda incurrir cualquiera de las partes, así mismo podrán regularse los derechos de intervención sobre la Alianza que pueda tener el Ente Contratante derivado de emergencias, fuerza mayor o caso fortuito o incumplimientos del proveedor;
 
-XI.- Las garantías de cumplimiento y/o vicios ocultos que, en su caso, se le exigirán al Proveedor;
+XI.- Las obligaciones que deban asumir el Ente Contratante y el proveedor en caso de terminación anticipada o rescisión del contrato;
 
-XII.- Las coberturas y seguros que serán contratados obligatoriamente por el Proveedor;
+XII.- Los actos o hechos que puedan generar una modificación al precio del contrato y la manera de calcular los incrementos o decrementos aplicables;
 
-XIII.- Las fórmulas y metodologías generales para la evaluación del cumplimiento del Proveedor, incluyendo la aplicación de deducciones a los pagos que realice el Ente Contratante por faltas del Proveedor en la prestación de los servicios;
+XIII.- Las responsabilidades que asumirán las partes y las condiciones para cualquier pago que surja de las mismas o de la liberación de éstas;
 
-XIV.- La previsión de que los derechos al cobro y las garantías bajo el Contrato puedan cederse, en su caso, a los acreedores que financien al Proveedor respecto de la Alianza sin autorización posterior, y a otras personas previa autorización de la Secretaría;
+XIV.- En su caso, las condiciones para la prórroga del contrato;
 
-XV.- Los medios de consulta y de solución de controversias, incluyendo arbitraje.
+XV.- Las garantías de cumplimiento y/o vicios ocultos que, en su caso, se le exigirán al proveedor;
 
-De sujetarse al procedimiento arbitral, éste deberá llevarse a cabo dentro del Estado de Sonora, será aplicable la legislación estatal y el idioma del arbitraje será el español; y
+XVI.- Las coberturas y seguros que serán contratados obligatoriamente por el proveedor;
 
-XVI.- Las disposiciones relativas a la cesión que, en su caso, pueda realizar el Proveedor conforme al artículo 87 de la presente ley.
+XVII.- Las fórmulas y metodologías generales para la evaluación del cumplimiento del proveedor, incluyendo la aplicación de deducciones a los pagos que realice el Ente Contratante por faltas del proveedor en la prestación de los servicios;
+
+XVIII.- La previsión de que los derechos al cobro y las garantías bajo el contrato puedan cederse, en su caso, a los acreedores que financien al proveedor respecto de la Alianza sin autorización posterior, y a otras personas previa autorización de la Secretaría.
+
+En este caso, podrá incluir igualmente los términos y condiciones conforme a los cuales el proveedor deberá pactar con sus respectivos acreedores, en caso de incumplimiento frente a éstos, la transferencia temporal del control de la propia sociedad desarrolladora del contrato a los acreedores de ésta, previa autorización del Ente Contratante;
+
+XIX.- Los procedimientos de revisión y variación, así como los medios de consulta y de solución de controversias, incluyendo arbitraje;
+
+De sujetarse al procedimiento arbitral, éste deberá llevarse a cabo dentro del Estado de Sonora, será aplicable la legislación estatal y el idioma del arbitraje será el español;
+
+XX.- Las disposiciones relativas a la cesión que, en su caso, pueda realizar el proveedor conforme al artículo 87 de la presente ley;
+
+XXI.- En su caso, cualquier otra causa de reequilibrio económico en adición a las señaladas en el artículo 17 de la presente ley;
+
+XXII.- Los derechos de supervisión que tendrá el Ente Contratante, en su caso, durante la construcción de obras y provisión de servicios; y
+
+XXIII.- Las demás que en su caso establezcan el Reglamento de esta ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 33.
 
@@ -417,9 +457,11 @@ II.- Las entidades paraestatales, cuando los Contratos se celebren con ellas; o
 
 III.- En el caso de los Municipios, en términos de la legislación aplicable.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 36.
 
-El modelo de Contrato podrá prever la posibilidad de que el Proveedor subcontrate alguno o varios de los servicios materia del Proyecto, especificando, en su caso, las garantías de cumplimiento que los contratistas o subcontratistas deban otorgar ya sea al Proveedor y/o al Ente Contratante.
+El modelo de contrato podrá permitir que el proveedor subcontrate alguno o varios de los servicios materia del proyecto, siempre que el proveedor continúe como único responsable frente a la Ente Contratante. En su caso, el modelo de contrato especificará las garantías de cumplimiento que los contratistas o subcontratistas deban otorgar.
 
 ###### ARTÍCULO 37.
 
@@ -453,7 +495,9 @@ II.- El modelo de Contrato, el cual deberá contener todos y cada uno de los ele
 
 III.- La justificación de que el modelo de Contrato es congruente con la información presentada para la autorización de desarrollar el Proyecto como Alianza y con las disposiciones legales aplicables, así como con la disponibilidad presupuestal del Ente Contratante respecto a las obligaciones previstas en el modelo de Contrato;
 
-IV.- En su caso, la actualización del análisis comparativo;
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+IV.- En su caso, la actualización del análisis de costo-beneficio;
 
 V.- La acreditación correspondiente que demuestre que la obligación de pago para el ejercicio fiscal vigente cuenta con la previsión presupuestaria correspondiente;
 
@@ -505,6 +549,14 @@ La Secretaría y el Ente Contratante pondrán a disposición pública, a través
 
 La contratación de Alianzas se adjudicará, por regla general, a través de licitaciones públicas mediante convocatoria pública a fin de asegurar al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad, eficiencia y sustentabilidad.
 
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+Las bases de licitación deberán hacer públicos todos los conceptos que representen un costo para el Ente Contratante.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 46 BIS.- Previo a la emisión de la convocatoria, el Ente Contratante podrá publicar las pre-bases del proyecto a fin de invitar a los interesados, profesionales, cámaras o asociaciones empresariales del ramo para participar en la revisión y opinión de las mismas. Las pre-bases se sujetarán a los requisitos establecidos por la Secretaría o el Ayuntamiento, en su caso.
+
 ### CAPÍTULO II. DE LA LICITACIÓN PÚBLICA
 
 ###### ARTÍCULO 47.
@@ -519,15 +571,11 @@ I.- Estatales, cuando únicamente puedan participar personas de nacionalidad mex
 
 II.- Nacionales, cuando únicamente puedan participar personas de nacionalidad mexicana, cualquiera que sea su domicilio fiscal dentro del territorio nacional; o
 
-III.- Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjera; y solamente se podrá efectuar esta modalidad de licitación, en los siguientes casos:
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
-a) Cuando resulte obligatorio conforme a lo establecido en los tratados aplicables;
+III.- Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjera.
 
-b) Cuando, previa investigación de mercado que realice el Ente Contratante o la Secretaría, por sí o con la asesoría de terceros, no exista oferta suficiente de proveedores estatales o nacionales respecto a los servicios en cantidad o calidad requeridas, o sea conveniente en términos de precio o tecnología; y
-
-c) Cuando habiéndose realizado una licitación de carácter estatal o nacional, no se presente alguna propuesta o ninguna cumpla con los requisitos solicitados en las bases.
-
-Podrá negarse la participación a extranjeros en licitaciones internacionales, cuando con el país del cual sean nacionales no se tenga celebrado un tratado o ese país no conceda un trato recíproco a los licitantes, proveedores o a los servicios prestados por mexicanos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 49.
 
@@ -537,15 +585,25 @@ I.- El nombre, denominación o razón social del Ente Contratante;
 
 II.- La indicación de los lugares, fechas y horarios en que los interesados podrán obtener las bases de la licitación y, en su caso, el costo y forma de pago de las mismas. Cuando las bases impliquen un costo, éste será fijado sólo en razón de la recuperación de las erogaciones por publicación de la convocatoria y de la reproducción de los documentos que se entreguen; los interesados podrán revisarlas previamente a su pago, el cual será requisito para participar en la licitación. Igualmente, de así preverlo la convocatoria, los interesados podrán consultar y adquirir las bases de las licitaciones por los medios de difusión electrónica que se establezcan;
 
-III.- La fecha, hora y lugar de celebración de las etapas del acto de presentación y apertura de ofertas;
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+III.- La fecha, hora y lugar de celebración de las etapas del acto de presentación y apertura de ofertas, incluyendo en su caso, la celebración de talleres interactivos y etapa de precalificación;
 
 IV.- La indicación de si la licitación es estatal, nacional o internacional; y en caso de ser internacional, si se realizará o no bajo la cobertura del capítulo de compras del sector público de algún tratado, y el idioma o idiomas, además del español, en que podrán presentarse las ofertas;
 
 V.- La descripción general del Proyecto y los servicios a contratarse;
 
-VI.- Lugar, plazo y medio de entrega de ofertas; y
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
-VII.- La indicación de que no podrán participar las personas que se encuentren en los supuestos del artículo 68 de esta ley.
+VI.- Lugar, plazo y medio de entrega de ofertas;
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+VII.- La indicación de que no podrán participar las personas que se encuentren en los supuestos del artículo 68 de esta ley; y
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+VIII.- La indicación sobre si existirán o no cantidades que deberán reembolsarse por el licitante ganador en términos de lo previsto en esta ley.
 
 ###### ARTÍCULO 50.
 
@@ -611,6 +669,10 @@ El sobre que contenga la documentación de precalificación se presentará en la
 
 La documentación que deban presentar los Licitantes en el acto de precalificación no podrá contener precios ni aspecto alguno de la propuesta técnica. El Ente Contratante, en dicho acto, únicamente podrá requerir información para acreditar la capacidad jurídica, financiera y técnica del Licitante. La precalificación tendrá como único objetivo verificar las capacidades técnicas, financieras y legales previstas en las bases de licitación.
 
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+Los Entes Contratantes podrán celebrar talleres interactivos y explicativos del proyecto. Las respuestas y desarrollo de dichos talleres no serán obligatorios ni formarán parte de los procedimientos de contratación establecidos en este Capítulo, a menos que así lo establezca el Ente Contratante en las Bases de Licitación.
+
 ###### ARTÍCULO 55.
 
 El plazo para la presentación y apertura de proposiciones será, cuando menos, de treinta días naturales contados a partir de la fecha de publicación de la convocatoria, tratándose de licitaciones estatales y nacionales.
@@ -624,6 +686,10 @@ La entrega de ofertas se hará en un solo paquete cerrado que contendrá dos sob
 Dos o más personas, físicas o morales, podrán presentar conjuntamente ofertas en las licitaciones sin necesidad de constituir una sociedad, o nueva sociedad en caso de personas morales, siempre que, para tales efectos, en la propuesta se establezcan con precisión las obligaciones que asume cada parte y la manera en que se exigiría el cumplimiento de las mismas. En este supuesto la propuesta deberá ser firmada por el representante común que para ese acto y para todos los efectos de la licitación y, en su caso, el Contrato, haya sido designado por el grupo de personas.
 
 De adjudicarse el Contrato a un grupo de personas que hayan presentado oferta en términos de lo previsto en este artículo, el Contrato especificará las obligaciones de cada persona, en el entendido que su responsabilidad será solidaria.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+Las bases de licitación podrán obligar a los licitantes a constituir una sociedad de propósito específico, después de adjudicado el contrato, con los requerimientos que señalen las propias bases de licitación.
 
 ###### ARTÍCULO 57.
 
@@ -655,17 +721,29 @@ VIII.- Nombre, firma y cargo de los servidores públicos encargados de su elabor
 
 Cuando exista desechamiento de alguna propuesta, el Ente Contratante en el mismo acto de fallo deberá entregar al Licitante rechazado, las razones y fundamentos para ello.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 60.
 
 Para hacer la evaluación de las ofertas el Ente Contratante deberá verificar que las mismas cumplan con los requisitos solicitados en las bases de la licitación.
 
-En la evaluación de las ofertas podrán utilizarse mecanismos de puntos o porcentajes siempre y cuando la ponderación de la propuesta económica no sea menor al treinta por ciento. El sistema a utilizarse y la ponderación de los puntos o porcentajes se deberá establecer en las bases de la licitación correspondientes.
+No serán objeto de evaluación, las condiciones establecidas por el Ente Contratante que tengan como propósito facilitar la presentación de las ofertas y agilizar la conducción de los actos de la licitación; así como cualquier otro requisito cuyo incumplimiento por sí mismo no afecte la solvencia de las ofertas. La inobservancia por parte de los licitantes respecto a dichas condiciones o requisitos no será motivo para desechar sus ofertas. No obstante lo anterior, si a juicio del Ente Contratante alguna información no puede ser evaluada salvo que se presente en medio electrónico, lo hará del conocimiento de los licitantes en las bases y dicho requisito será obligatorio y de no presentarse ocasionará el desechamiento de la oferta.
 
-En caso de que se utilice el mecanismo de puntos y porcentajes para la evaluación de propuestas, la adjudicación del Contrato será para el Licitante con mayor puntaje de acuerdo al sistema establecido en las bases de licitación.
+Quedan comprendidos en los requisitos cuyo incumplimiento, por sí mismos, no afectan la solvencia de una oferta, el omitir aspectos que puedan ser cubiertos con información de la propia propuesta técnica o económica y el no observar los formatos establecidos.
 
-En caso de no utilizar un mecanismo de puntos y porcentajes, el Contrato se adjudicará de entre los Licitantes, a aquél cuya propuesta resulte solvente porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por el Ente Contratante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas. Si resultare que dos o más ofertas son solventes porque satisfacen la totalidad de los requerimientos solicitados por el Ente Contratante, el Contrato se adjudicará a quien presente la proposición cuyo precio sea el más bajo, calculando dicho precio conforme a la determinación de precios previstos en los lineamientos y metodología que emita la Secretaría.
+Los entes contratantes quedarán facultados, bajo su responsabilidad, para solicitar aclaraciones a los licitantes de las propuestas técnicas y económicas presentadas en los términos señalados en el Reglamento. En ningún caso podrán suplirse las deficiencias sustanciales de las propuestas señaladas.
 
-El Ente Contratante emitirá un dictamen que servirá como base para el fallo, en el que se hará constar una reseña cronológica de los actos del procedimiento, el análisis de las ofertas y las razones para admitirlas o desecharlas.
+En la evaluación de ofertas podrán utilizarse mecanismos de puntos y porcentajes siempre y cuando la ponderación de la propuesta económica sea por lo menos treinta por ciento. En caso de que se utilice el mecanismo de puntos y porcentajes para la evaluación de ofertas, la adjudicación del contrato podrá ser para el licitante con mayor puntaje de acuerdo al sistema establecido en las bases de licitación, o de así señalarlo en las bases de licitación, el ente Contratante podrá iniciar un procedimiento adicional con los licitantes que hayan obtenido los dos puntajes más altos y hayan acreditado el puntaje mínimo aceptable señalado en las bases de licitación. El Reglamento señalará las bases para dicho procedimiento, aplicándose lo siguiente:
+
+I.- Como resultado del procedimiento adicional, en caso de que las propuestas de los licitantes con los dos puntajes más altos presenten ajustes técnicos en relación con su propuesta original que beneficien la calidad o eficiencia del proyecto, podrán también presentar un ajuste en el Precio ofertado, en el entendido que no podrá, ninguno de los licitantes, incrementar el precio ofertado en más de un diez por ciento del precio original, sin perjuicio del cumplimiento de las demás disposiciones de esta Ley y su Reglamento respecto de modificaciones de precios.
+
+II.- El procedimiento consistirá en una o hasta tres reuniones más entre el Ente Contratante y cada uno de los licitantes, por separado, con el objeto de revisar las propuestas presentadas y que el Ente Contratante pueda expresar los ajustes que requeriría a las mismas.
+
+III.- El periodo en el que se lleve a cabo el procedimiento no podrá durar más de treinta días naturales.
+
+IV.- Una vez transcurrido el periodo, en acto público en el que esté presente una persona designada por la Secretaría de la Contraloría General y un testigo social si alguno de los licitantes lo solicita, deberán los licitantes presentar su nueva propuesta y el Ente Contratante deberá, en un plazo máximo de cinco días hábiles, re-evaluar las propuestas con base en el sistema de puntos y porcentajes propuesto en las bases de licitación, procediendo a dictar el fallo correspondiente.
+
+V.- El licitante al cual se le adjudicará el contrato correspondiente será el que al final del procedimiento obtenga el puntaje más alto con base en el sistema de evaluación previsto en las bases de licitación.
 
 ###### ARTÍCULO 61.
 
@@ -693,15 +771,19 @@ En la reunión correspondiente, deberá estar presente un representante de la Co
 
 Contra la resolución que contenga el fallo procederá la inconformidad que se interponga por los Licitantes en términos de esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 63.
 
-El Ente Contratante procederá a declarar desierta una licitación cuando las ofertas presentadas no reúnan los requisitos de las bases de la licitación o sus precios no fueren aceptables por rebasar el costo-beneficio que resultare de desarrollar el Proyecto como Alianza previsto en el análisis comparativo que al efecto la Secretaría haya revisado en el proceso de autorización.
+El Ente Contratante procederá a declarar desierta una licitación cuando las ofertas presentadas no reúnan los requisitos de las bases de la licitación o sus precios no fueren aceptables por rebasar el costo-beneficio que resultare de desarrollar el Proyecto como Alianza previsto en el análisis de costo-beneficio que al efecto la Secretaría haya revisado en el proceso de autorización.
 
 El Ente Contratante podrá cancelar una licitación por caso fortuito o fuerza mayor. De igual manera, podrá cancelar una licitación cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad para contratar la Alianza, y que de continuarse con el procedimiento de adjudicación se pudiera ocasionar un daño o perjuicio al propio Ente Contratante.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 64.
 
-En caso de que el Licitante al que se le haya adjudicado el Contrato no celebre el mismo dentro de un plazo de treinta días naturales siguientes a la notificación del fallo, por causas imputables a éste, sin perjuicio de la responsabilidad que asume dicho Licitante en términos de esta ley, el Contrato podrá ser adjudicado al segundo lugar de la licitación y así sucesivamente, siempre y cuando la propuesta económica de éste siga representando un beneficio para el Ente Contratante de conformidad con el análisis comparativo.
+En caso de que el licitante al que se le haya adjudicado el contrato no celebre el mismo dentro de un plazo de treinta días naturales siguientes a la notificación del fallo, por causas imputables a éste, sin perjuicio de la responsabilidad que asume dicho licitante en términos de esta ley, el contrato podrá ser adjudicado al segundo lugar de la licitación y así sucesivamente, siempre y cuando la propuesta económica de éste siga representando un beneficio para el Ente Contratante de conformidad con el análisis de costo-beneficio.
 
 ### CAPÍTULO III. DE LA LICITACIÓN SIMPLIFICADA Y ADJUDICACIÓN DIRECTA
 
@@ -741,9 +823,13 @@ V.- Se definirá el carácter estatal, nacional o internacional;
 
 VI.- Deberán establecerse en la invitación los términos de referencia de las propuestas técnicas y deberá describirse el sistema de evaluación de las propuestas, aplicándose lo dispuesto para evaluación de ofertas de licitaciones públicas en términos de esta ley;
 
-VII.- Se desecharán las ofertas cuya propuesta económica no presente un beneficio para el Ente Contratante en términos del análisis comparativo que al efecto haya revisado la secretaría al autorizar la Alianza;
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
 
-VIII.- En caso de no suscribirse el Contrato con el licitante ganador, por causas imputables a éste, dentro de los treinta días naturales siguientes al fallo, podrá el Ente Contratante adjudicar el Contrato al invitado que haya quedado en segundo lugar y así sucesivamente, salvo que su propuesta económica no presente beneficio para el Ente Contratante en términos del análisis comparativo; y
+VII.- Se desecharán las ofertas cuya propuesta económica no presente un beneficio para el Ente Contratante en términos del análisis de costo-beneficio que al efecto haya revisado la Secretaría al autorizar la Alianza. Asimismo, podrán desecharse aquellas ofertas cuyas propuestas económicas no superen el monto mínimo u otros criterios de elegibilidad que regulen los entes contratantes en las Bases de Licitación;
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+VIII.- En caso de no suscribirse el contrato con el licitante ganador, por causas imputables a éste, dentro de los treinta días naturales siguientes al fallo, podrá el Ente Contratante adjudicar el contrato al invitado que haya quedado en segundo lugar y así sucesivamente, salvo que su propuesta económica no presente beneficio para el Ente Contratante en términos del análisis de costo-beneficio; y
 
 IX.- Las disposiciones del Capítulo II del Título Cuarto de esta ley serán aplicables a este Capítulo en lo que no se contrapongan con el mismo.
 
@@ -835,7 +921,13 @@ IV.- No se ocasionen daños o perjuicios a terceros, a menos que se garanticen �
 
 El Ente Contratante deberá informar dentro de los tres días hábiles siguientes a la notificación de la suspensión, aportando la justificación del caso, si con la misma no se causa perjuicio al interés social o bien, se contravienen disposiciones de orden público, para que la Contraloría resuelva lo que proceda.
 
-Cuando sea el promovente quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiera ocasionar, mediante fianza por el monto que fije la Contraloría, de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+Cuando sea el promovente quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiera ocasionar, mediante fianza por el monto que fije la Contraloría en caso de que el Ente Contratante no lo haya hecho previamente, de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá dar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+El Ente Contratante quedará facultado para fijar en las bases de licitación o en el fallo de adjudicación del contrato, el monto de la garantía que deberán entregar los licitantes que decidan inconformarse en contra del procedimiento de licitación o invitación. En todo caso, el monto de la garantía deberá ser cuando menos equivalente al diez por ciento de la contraprestación total fijada para el proveedor en el proyecto que se trate.
 
 ###### ARTÍCULO 75.
 
@@ -945,7 +1037,9 @@ I.- Podrán cederse los derechos de cobro y garantías derivados de los Contrato
 
 II.- Previa autorización por escrito de la Secretaría, podrán cederse los derechos y obligaciones bajo un Contrato por parte del Proveedor a una sociedad cuyo único propósito sea el desarrollo de la Alianza, siempre y cuando los socios o accionistas de la misma sean el Proveedor o alguna subsidiaria directa de éste y existan dentro de la sociedad límites a la transmisión de activos, acciones o partes sociales aprobados por el Ente Contratante y los socios o accionistas no se encuentren en alguna de las hipótesis señaladas en el artículo 68 de esta ley.
 
-De tener lugar alguna causal que pudiere generar la rescisión administrativa del Contrato, el Ente Contratante, previa consulta y autorización de la Secretaría, rescindirá administrativamente el Contrato y pagará la indemnización prevista en el Contrato para tal evento, o exigirá que el Proveedor realice una cesión de los derechos y/o obligaciones derivados del Contrato a una tercera persona que autorice expresamente el Ente Contratante. En caso de cesión, el Proveedor deberá entregar al Ente Contratante, de la contraprestación que obtenga de la cesión, una cantidad equivalente a los gastos en los que haya incurrido el Ente Contratante respecto del Proyecto debido al incumplimiento del Proveedor.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+De tener lugar alguna causal que pudiere generar la rescisión administrativa del contrato, el Ente Contratante, previa consulta y autorización de la Secretaría, rescindirá administrativamente el contrato y pagará la indemnización prevista en el contrato para tal evento, o exigirá que el proveedor realice una cesión de los derechos y/u obligaciones derivados del contrato a una tercera persona que autorice expresamente el Ente Contratante. En caso de cesión, el proveedor deberá entregar al Ente Contratante, de la contraprestación que obtenga de la cesión, una cantidad equivalente a los gastos en los que haya incurrido el Ente Contratante respecto del proyecto debido al incumplimiento del proveedor. En este supuesto, el Ente Contratante podrá autorizar incrementos en la contraprestación pactada en el contrato siempre que tengan como objetivo que el proyecto cumpla con los estándares de desempeño, en cuyo caso, dicho incremento no excederá el precio presentado por el segundo lugar de la licitación actualizado en términos del contrato.
 
 El Proveedor podrá otorgar derechos a los acreedores de la Alianza para obtener el control de la misma en caso de incumplimiento del Proveedor al Contrato o a los documentos de financiamiento del Proyecto previa autorización de la Secretaría.
 
@@ -961,6 +1055,22 @@ En caso de incumplimiento en los pagos a que se refiere el párrafo anterior, el
 
 El Ente Contratante tendrá derecho de compensar cantidades adeudadas por el Proveedor a ésta, contra cantidades que adeude al Proveedor, respecto del mismo Proyecto.
 
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 89 BIS.- En caso de que así lo permita la rentabilidad del proyecto y según se haya establecido en las bases del concurso y en el contrato respectivo, el Ente Contratante podrá exigir al proveedor, con independencia de lo que señalen otras disposiciones aplicables, alguna o algunas de las prestaciones siguientes:
+
+I.- El reembolso del valor de los inmuebles, bienes y derechos aportados por dependencias o entidades del sector público, utilizados en el proyecto;
+
+II.- El reembolso de las cantidades por concepto de remanentes y otros rubros en la forma y términos que se establezcan en las bases o en el contrato.
+
+III.- El pago de derechos por la supervisión y vigilancia de la ejecución de la obra o de la prestación de los servicios, previstos en las disposiciones legales aplicables; o
+
+IV.- Cualquier otra que las partes estipulen en el contrato.
+
+Los seguros que el proveedor deberá contratar y mantener vigentes cubrirán, por lo menos, los riesgos a que estén expuestos los usuarios, la infraestructura y todos los bienes afectos al servicio, así como los de responsabilidad civil.
+
+Para estos efectos, el proveedor contratará con empresa especializada, previamente aprobada por el Ente Contratante, la elaboración de un estudio de riesgos, coberturas, indemnizaciones, montos mínimos, vigencia y demás términos y condiciones de los seguros. Dicho estudio servirá de base para que las partes acuerden las características y alcances de tales seguros.
+
 ###### ARTÍCULO 90.
 
 El Ente Contratante podrá modificar el Contrato siempre que no implique otorgar condiciones más ventajosas al Proveedor comparadas con las establecidas originalmente. Tratándose de modificaciones sustanciales o que impliquen modificaciones a los recursos presupuestarios será necesaria la autorización de la Secretaría y, en su caso, del Congreso del Estado en términos de esta ley.
@@ -973,11 +1083,15 @@ El coordinador del Proyecto estará a cargo del desarrollo y administración del
 
 ### CAPÍTULO II. INCUMPLIMIENTO, RESCISIÓN Y TERMINACIÓN
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 92.
 
-El Ente Contratante, podrá rescindir administrativamente el Contrato en caso de incumplimiento de las obligaciones a cargo del Proveedor que conforme al Contrato se hayan estipulado como causales de rescisión. A efecto de poder llevar a cabo la rescisión administrativa, el Ente Contratante deberá solicitar la autorización correspondiente de la Secretaría dentro de los diez días naturales siguientes a aquél en que se hubiere agotado cualquier periodo de gracia otorgado al Proveedor en el Contrato. Si previamente a la determinación de dar por rescindido el Contrato, se subsana el incumplimiento correspondiente, el procedimiento podrá quedar sin efecto a juicio del Ente Contratante.
+Salvo que conforme a lo previsto en esta Ley se haya elegido por el arbitraje como mecanismo para solución de controversias, en cuyo caso deberá demandarse el incumplimiento y la rescisión a través de dicho medio, el Ente Contratante podrá rescindir administrativamente el contrato en caso de incumplimiento de las obligaciones a cargo del proveedor que conforme al contrato se hayan estipulado como causales de rescisión. A efecto de poder llevar a cabo la rescisión administrativa, el Ente Contratante deberá solicitar la autorización correspondiente de la Secretaría dentro de los diez días naturales siguientes a aquél en que se hubiere agotado cualquier periodo de gracia otorgado al proveedor en el contrato. Si previamente a la determinación de dar por rescindido el contrato, se subsana el incumplimiento correspondiente, el procedimiento podrá quedar sin efecto a juicio del Ente Contratante.
 
 La notificación de rescisión tendrá efectos a partir del día siguiente a la fecha en que se realice.
+
+En caso de que un contrato se rescinda administrativamente por el incumplimiento de las obligaciones a cargo del proveedor, éste quedará inhabilitado temporalmente para participar en procedimientos de contratación o celebrar contratos regulados por esta Ley, por un plazo de cinco años contados a partir de que surta efectos la notificación de rescisión respectiva.
 
 ###### ARTÍCULO 93.
 
@@ -1060,6 +1174,118 @@ IV.- La situación específica del infractor.
 ###### ARTÍCULO 102.
 
 Las responsabilidades a que se refiere la presente ley serán independientes de las de orden civil o penal, que puedan derivar de la comisión de los mismos hechos.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LOS INTEGRAN, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO OCTAVO. DE LAS PROPUESTAS NO SOLICITADAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LOS INTEGRAN, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO ÚNICO. DE LAS PROPUESTAS NO SOLICITADAS
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 103.
+
+Cualquier persona física o moral del sector privado interesada en desarrollar un proyecto bajo la modalidad de Alianza como proveedor, podrá presentar su propuesta ante el Ente Contratante que resulte competente.
+
+Para efectos de lo anterior, el Ente Contratante podrá señalar, mediante convocatoria publicada en el Boletín Oficial del Gobierno del Estado y en su página en Internet, los tipos de propuestas de proyectos que estén dispuestos a recibir para ser desarrollados como Alianza y las características, en su caso, de las mismas, así como su vinculación con los objetivos estatales, estrategias y prioridades contenidas en el Plan Estatal de Desarrollo y en los programas sectoriales, institucionales, regionales y especiales que de él deriven. En estos casos, sólo se analizarán por el Ente Contratante las propuestas recibidas que atiendan los elementos citados.
+
+La convocatoria sólo representará un elemento indicativo para que los interesados decidan realizar estudios previos para presentar la propuesta del proyecto y no implicará compromiso alguno que vincule al Ente Contratante respecto al proyecto.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 104.
+
+Los interesados en presentar una propuesta no solicitada podrán solicitar una manifestación de interés por parte del Ente Contratante previo a la realización de los estudios y análisis para el proyecto, así como la información del Ente Contratante que requiera el interesado para preparar su propuesta. La respuesta a dicha manifestación de interés, así como cualquier entrega de información, será notificada al promotor dentro de los tres meses siguientes a que haya sido solicitada.
+
+Independientemente del sentido de la manifestación de interés que emita el Ente Contratante, ésta no se considerará vinculante para las partes, no generará compromiso u obligación alguna, no será antecedente sobre la opinión relativa a la evaluación de propuestas y no representa un acto de autoridad, por lo que contra ella no procederá recurso o medio de defensa legal alguno.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 105.
+
+En la manifestación de interés, el Ente Contratante deberá entregar o poner a disposición del promotor toda la información que le haya requerido o que el Ente Contratante estime necesaria para la preparación de la propuesta. Asimismo, en caso de que la propuesta resulte viable y el proyecto se someta a procedimiento de contratación en términos del Título Cuarto de esta Ley, el Ente Contratante deberá proporcionar y poner a disposición de los licitantes la misma información a que tuvo acceso el promotor. La información proporcionada por el Ente Contratante en términos del presente artículo deberá ser plenamente identificada por escrito.
+
+Sin perjuicio de lo anterior, el Ente Contratante podrá omitir información reservada o confidencial en términos de las disposiciones aplicables en materia de acceso a la información pública y protección de datos personales.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 106.
+
+En caso de que el Ente Contratante reciba dos o más solicitudes de manifestación de interés respecto del mismo Proyecto, deberá hacerlo del conocimiento general mediante publicación en el Boletín Oficial del Gobierno del Estado y en su página de Internet, señalando una fecha límite para que cualquier interesado presente propuestas no solicitadas respecto del proyecto en términos del presente Título Octavo. La fecha límite para la presentación de propuestas por ningún motivo podrá ser inferior a tres meses contados a partir de la publicación a que se refiere el presente artículo.
+
+Asimismo, cuando se presenten dos o más propuestas en relación con un mismo proyecto y más de una se consideren viables, el Ente Contratante resolverá en favor de la que represente mayores beneficios esperados y, en igualdad de condiciones, en favor de la primera propuesta presentada.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 107.
+
+Las propuestas no solicitadas que presenten los interesados al Ente Contratante deberán contener, como mínimo, los siguientes elementos:
+
+I.- La descripción del proyecto y los requerimientos de servicios que se pretenden prestar por parte del promotor para el mismo;
+
+II.- La justificación de que el proyecto es congruente con los objetivos y estrategias establecidos en el Plan Estatal de Desarrollo, los programas institucionales, regionales, sectoriales y especiales que correspondan al Ente Contratante, asimismo que su desarrollo es viable jurídica y presupuestalmente;
+
+III.- El análisis costo-beneficio a que se refiere el artículo 20 de esta Ley;
+
+IV.- Un documento que resuma los elementos principales que contendrá el contrato, incluyendo una descripción de los servicios que prestará el proveedor, la situación jurídica de los bienes con los que el proveedor prestará los servicios a contratarse, la duración del contrato, los riesgos que asumirán tanto el Ente Contratante como el proveedor, y las obligaciones de pago que asumirán las partes en caso de terminación anticipada o rescisión del contrato; y
+
+V.- En su caso, la solicitud de una Garantía de Pago.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 108.
+
+No se analizarán las propuestas que incumplan u omitan alguno de los requisitos o elementos señalados en el artículo anterior. Asimismo, las propuestas no podrán versar sobre proyectos previamente presentados y ya resueltos, para lo cual, el promotor deberá incluir la declaración bajo protesta de decir verdad de que no se trata de una propuesta previamente presentada y resuelta.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 109.
+
+Para llevar a cabo el análisis de las propuestas no solicitadas, el Ente Contratante podrá requerir por escrito al promotor aclaraciones o información adicional, o bien, podrá realizar los estudios complementarios por sí mismo.
+
+El Ente Contratante estará facultado para transferir la propuesta no solicitada a otra dependencia o entidad del sector público estatal o municipal que corresponda, o invitar a las mismas a participar conjuntamente en el proyecto.
+
+El Ente Contratante que reciba la propuesta contará con un plazo de hasta tres meses para su análisis y evaluación. Este plazo podrá prorrogarse hasta por tres meses adicionales, cuando el Ente Contratante así lo resuelva en atención a la complejidad del proyecto.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 110.
+
+Transcurrido el plazo para el análisis y evaluación de las propuestas, incluyendo cualquier prórroga aplicable, el Ente Contratante emitirá una opinión de viabilidad sobre la procedencia del proyecto en la modalidad de Alianza en la que deberá manifestar su intención de llevar a cabo un procedimiento de contratación respecto al mismo, o bien, de adquirir los estudios y análisis presentados por el promotor.
+
+La opinión de viabilidad deberá ser notificada por escrito al promotor y deberá publicarse en la página de Internet del Ente Contratante dentro de los quince días hábiles siguientes a la fecha en que haya sido emitida, pudiendo omitirse información reservada o confidencial en términos de las disposiciones aplicables en materia de acceso a la información pública y protección de datos personales.
+
+La opinión de viabilidad por la cual un proyecto se considere o no procedente, no representa un acto de autoridad y contra ella no procederá recurso o medio de defensa legal alguno.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 111.
+
+En caso de que el proyecto resulte procedente y el Ente Contratante decida llevar a cabo un procedimiento de contratación o adquirir los estudios y análisis realizados, se deberán cumplir las disposiciones en materia de autorización de proyectos previstos en el Capítulo III del Título Segundo de la presente Ley.
+
+Una vez que el Ente Contratante cuente con la autorización de la Secretaría para desarrollar el proyecto como Alianza, la autorización del modelo de contrato, la autorización del Congreso del Estado y las autorizaciones de las partidas presupuestales a afectar de conformidad con esta Ley, su reglamento y demás legislación aplicable, el Ente Contratante deberá sujetarse a lo previsto en el Título Cuarto de la presente Ley y a las disposiciones siguientes:
+
+I.- Se entregará al promotor un certificado para el reembolso de los gastos incurridos, el cual únicamente procederá en caso de que el promotor no participe en el procedimiento de contratación correspondiente, no resulte ganador en el mismo o el Ente Contratante haya adquirido los estudios y análisis realizados.
+
+Para efectos de lo anterior, el promotor deberá justificar los gastos realizados y su respectivo monto, los cuales serán confirmados por un tercero elegido de común acuerdo entre el Ente Contratante y el promotor.
+
+Al momento de la entrega del certificado al promotor, todos los derechos relativos a los estudios y análisis presentados pasarán al dominio del Ente Contratante;
+
+II.- El promotor deberá otorgar toda la información relativa al proyecto que le sea solicitada por el Ente Contratante o cualquier licitante, y deberá ceder los derechos y otorgar las autorizaciones en materia de derechos de autor y propiedad industrial para que el proyecto pueda desarrollarse adecuadamente.
+
+III.- En caso de que se lleve a cabo un procedimiento de contratación del proyecto en términos del Título Cuarto de esta Ley y en ella participe el promotor, el precio incluido dentro de la oferta económica entregada por el promotor que presentó la propuesta no solicitada se considerará hasta en un diez por ciento inferior al momento de evaluar las propuestas, según se especifique en el reglamento. El Ente Contratante deberá incluir esta situación en el dictamen que servirá como base para el fallo. Asimismo, las Bases de Licitación podrá regular otros sistemas de premio para las (sic) promotores de propuestas no solicitadas en los términos que señale el reglamento, incluyendo, procedimientos de subasta inversa y el otorgamiento de derechos de preferencia al promotor para igualar los términos económicos del licitante que haya presentado la mejor propuesta económica.
+
+IV.- En el supuesto de que en el procedimiento de contratación respectivo sólo participe el promotor, podrá adjudicársele el contrato siempre y cuando haya cumplido con todos los requisitos previstos en las bases de licitación. En ningún otro caso procederá la adjudicación directa o la licitación simplificada de Alianzas que provengan de propuestas no solicitadas; y
+
+V.- En caso de que se declare desierto el procedimiento de contratación y el Ente Contratante decida no adquirir los derechos sobre los estudios y análisis presentados, se cancelará el certificado a que se refiere la fracción I del presente artículo y se restituirán al promotor los estudios y análisis que éste haya presentado.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 112.
+
+En caso de que el proyecto no resulte procedente por cualquier razón para el Ente Contratante, se deberá notificar dicha determinación por escrito al promotor, quien no tendrá derecho alguno a solicitar el reembolso de gastos por los estudios y análisis realizados, toda vez que la presentación de propuestas no solicitadas sólo permiten que el Ente Contratante las analice y evalúe sin ser vinculantes frente al promotor.
 
 T R A N S I T O R I O S
 
@@ -1184,3 +1410,15 @@ El porcentaje a que hace referencia el artículo 133 de la Ley de Gobierno y Adm
 ###### ARTÍCULO DÉCIMO.
 
 En relación con todos los Decretos del H. Congreso del Estado de Sonora que se encuentren vigentes a la fecha de entrada en vigor de este Decreto, mediante los cuales se hubiere autorizado la contratación de financiamientos para ser destinados a inversiones públicas productivas consistentes en el refinanciamiento o la reestructura de deuda pública, se entenderán modificados para que su destino autorizado sea el refinanciamiento o reestructura de deuda pública previamente contratada, en consistencia con lo dispuesto en el artículo 3° de la Ley de Deuda Pública y en el “DECRETO por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de disciplina financiera de las entidades federativas y los municipios” publicado en el Diario Oficial de la Federación el 26 de mayo de 2015.
+
+B.O. 26 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 105, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Hacienda del Estado deberá emitir y publicar en el Boletín Oficial del Gobierno del Estado, dentro de los 180 días hábiles posteriores a la entrada en vigor del presente Decreto, los lineamientos y metodología para la elaboración del análisis de costo-beneficio a que se refiere el artículo 21 de la Ley de Alianzas Público Privadas de Servicios del Estado de Sonora.
