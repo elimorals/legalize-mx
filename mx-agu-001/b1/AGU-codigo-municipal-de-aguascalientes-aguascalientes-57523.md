@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2016-10-24"
+last_updated: "2016-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -297,9 +297,11 @@ Lo cual también resulta aplicable para el caso de las personas que acrediten me
 
 El H. Ayuntamiento del Municipio de Aguascalientes es el órgano colegiado de gobierno de la administración pública municipal, que tiene competencia sobre su territorio, población, organización política y administrativa, en los términos que fijen las leyes respectivas y posee personalidad jurídica y patrimonio propio.
 
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 12.
 
-El Presidente Municipal, Regidores y Síndicos integran el H. Ayuntamiento del Municipio de Aguascalientes, durarán en su encargo tres años, entrando en funciones el día señalado en la Ley que en materia municipal expida el Poder Legislativo del Estado y en el Código Electoral del Estado; son los encargados de establecer y definir las acciones, criterios y políticas con que deben manejarse los recursos y servicios del Municipio de Aguascalientes.
+El Presidente Municipal, Regidores y Síndicos integran el H. Ayuntamiento del Municipio de Aguascalientes, durarán en su encargo tres años, salvo el caso de que uno, varios, o la totalidad de sus integrantes, sean elegidos para un periodo más, entrando en funciones el día señalado en la Ley que en materia municipal expida el Poder Legislativo del Estado y en el Código Electoral del Estado; son los encargados de establecer y definir las acciones, criterios y políticas con que deben manejarse los recursos y servicios del Municipio de Aguascalientes.
 
 ###### ARTÍCULO 13.
 
@@ -523,9 +525,11 @@ IX. Las demás que le otorgue la Ley que en materia municipal expida el Poder Le
 
 El H. Ayuntamiento del Municipio de Aguascalientes, residirá en la ciudad capital.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 21.
 
-Para la instalación y toma de protesta constitucional del H. Ayuntamiento el Presidente Municipal los Regidores y Síndicos tanto del Ayuntamiento en funciones como del electo, se reunirán el día 31 de diciembre del año de la elección en el lugar y hora que determine el H. Ayuntamiento en funciones, en Sesión Solemne que se desarrollará conforme al siguiente procedimiento:
+Para la instalación y toma de protesta constitucional del H. Ayuntamiento el Presidente Municipal los Regidores y Síndicos tanto del Ayuntamiento en funciones como del electo, se reunirán dentro de las setenta y dos horas anteriores al inicio del período constitucional, en el lugar y hora que determine el H. Ayuntamiento en funciones, en Sesión Solemne que se desarrollará conforme al siguiente procedimiento:
 
 I. El Secretario del H. Ayuntamiento dará lectura a la lista de los integrantes del H. Ayuntamiento que hayan resultado electos, y comprobando que se tiene la asistencia que establecen la Constitución Política del Estado de Aguascalientes, la Ley que en materia municipal expida el Poder Legislativo del Estado y el presente Código, dará la palabra al Presidente Municipal electo.
 
@@ -539,7 +543,9 @@ Los Regidores y Síndicos que no hubieren asistido a esta Sesión deberán rendi
 
 IV. Acto continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
 
-El H. Ayuntamiento del Municipio de Aguascalientes, se declara legalmente instalado para el Periodo Constitucional del 1° de enero de… al 31 de diciembre de ....
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2016)</small>
+
+El H. Ayuntamiento del Municipio de Aguascalientes, se declara legalmente instalado para el Periodo Constitucional del ... del año ... al ... de ... de ...
 
 V. Por último el Presidente Municipal podrá dar a conocer los lineamientos generales de su Administración Pública Municipal.
 
@@ -645,11 +651,13 @@ Serán Sesiones Solemnes aquellas que el Cabildo les dé ese carácter por la im
 
 El miembro del H. Ayuntamiento que no hubiere sido citado a una Sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la Sesión, que se vuelva a discutir en su presencia, él o los acuerdos tomados en su ausencia y el Secretario del H. Ayuntamiento le informará de los acuerdos tomados, debiendo quedar asentado en el acta respectiva su opinión sobre cada uno de los asuntos tratados. En este caso el integrante del Cabildo que se encuentre en dicho supuesto podrá solicitar la revocación del acuerdo en cuestión en términos de lo establecido por este Código Municipal.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 31.
 
-El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse a más tardar en el mes de diciembre de cada año. El formato así como el orden del día de este tipo de sesiones serán acordadas por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todoslos (sic) casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia en materia de igualdad sustantiva y de eliminación de la violencia en sus diversos tipos y modalidades.
+El Informe Anual de Gobierno del Presidente Municipal, será llevado a cabo en Sesión Solemne de Cabildo a celebrarse a más tardar en el mes de septiembre de cada año. El formato así como el orden del día de este tipo de sesiones serán acordadas por el Cabildo en sesión previa a la misma, pero en todo caso contendrá la participación de dos integrantes del Ayuntamiento, uno de extracción partidista del Primer Edil y otro más de entre los miembros de la oposición. En todos los casos, los integrantes del Ayuntamiento que participen en el Informe deberán ser de sexo distinto. Dicho informe deberá señalar todas las acciones realizadas por la Presidencia en materia de igualdad sustantiva y de eliminación de la violencia en sus diversos tipos y modalidades.
 
 ###### ARTÍCULO 32.
 
@@ -24265,6 +24273,22 @@ TERCERO.- Todos aquellos ordenamientos jurídicos Municipales que hagan referenc
 
 P.O. 24 DE OCTUBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DE LAS "REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, TÍTULO SEGUNDO, DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIOS Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA, REFORMAS AL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS Y ADICIONES AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, TÍTULO SEGUNDO, DE LOS MERCADOS, ESTACIONAMIENTOS, COMERCIOS Y OTRAS ACTIVIDADES EN LA VÍA PÚBLICA, REFORMAS AL REGLAMENTO DE ESTACIONAMIENTOS DEL MUNICIPIO DE AGUASCALIENTES”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su presentación en el Periódico oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS A LOS ARTÍCULOS 12, 21 Y 31 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado, con acepción a la reforma establecida en el Artículo 31, por lo que dicho Informe Anual de Gobierno se deberá rendir en el mes de octubre a partir del año 2019.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a lo dispuesto en la presente reforma.
+
+###### ARTÍCULO TERCERO.
+
+Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de Aguascalientes, deberá ajustarse al período constitucional correspondiente.
