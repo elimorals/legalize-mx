@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2016-10-21"
+last_updated: "2016-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -1085,7 +1085,7 @@ d) Los estados financieros trimestrales que se deban enviar al Congreso del Esta
 
 e) El programa financiero mediante el cual se manejará la deuda pública municipal y su forma de administrarla; y
 
-f) Los estados contables de cierre de ejercicio de la administración pública municipal y demás documentación, para que sea agregado al acta de entrega-recepción de la misma, en el rubro relativo a la Tesorería.
+f) Los estados contables de cierre de ejercicio de la administración pública municipal y demás documentación, para que sea agregado al acta de entrega–recepción de la misma, en el rubro relativo a la Tesorería.
 
 XI. Organizar el funcionamiento de la unidad de auditoria interna;
 
@@ -1109,7 +1109,13 @@ I. Ejercer la facultad económica-coactiva y, en su caso delegarla, conforme a l
 
 II. Ejercer el Presupuesto de Egresos y efectuar los pagos de acuerdo a los programas y presupuestos aprobados; y
 
-III. Las demás que se establezcan en ésta u otras leyes, reglamentos, bandos de policía y disposiciones de observancia general.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+III. Las señaladas en el artículo 6 y demás disposiciones aplicables de la Ley de Alianzas Público Privadas de Servicios del Estado de Sonora, cuando los proyectos a que se refiere dicha ley se realicen únicamente con fondos municipales: y
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+IV. Las demás que se establezcan en ésta u otras leyes, reglamentos, bandos de policía y disposiciones de observancia general.
 
 #### Sección III. De la Jefatura de Policía Preventiva
 
@@ -1483,7 +1489,13 @@ VI. Las acciones de carácter regional en el caso de las Comisarías.
 
 El Presupuesto de Egresos Municipal será el que apruebe el Ayuntamiento respectivo, contendrá el ejercicio del gasto público municipal -desde el primero de enero hasta el treinta y uno de diciembre del ejercicio fiscal correspondiente- referido a los programas, las actividades, las obras y los servicios públicos previstos en las dependencias y entidades de la administración pública municipal, así como en las Comisarías y Delegaciones.
 
-En caso de que al treinta y uno de diciembre del año que corresponda, el Ayuntamiento apruebe el Presupuesto de Egresos que regirá el próximo año, se declarará aplicable para el siguiente ejercicio fiscal, el Presupuesto de Egresos que se encuentre vigente, sólo en lo relativo al gasto corriente. Para el cumplimiento de lo establecido en este párrafo, el Presidente Municipal mandará publicar en el Boletín Oficial del Gobierno del Estado la declaratoria correspondiente.
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+Igualmente, el Presupuesto de Egresos Municipal contendrá las asignaciones presupuestales para el ejercicio del gasto público multianual y compromisos generados por proyectos de Alianzas Público Privadas de servicios que se realicen en términos de la legislación aplicable, en cumplimiento de lo establecido en el artículo 141 Bis de la presente Ley.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+En caso de que al treinta y uno de diciembre del año que corresponda, el Ayuntamiento no apruebe el Presupuesto de Egresos que regirá el próximo año, se declarará aplicable para el siguiente ejercicio fiscal, el Presupuesto de Egresos que se encuentre vigente, sólo en lo relativo al Gasto Corriente. Para el cumplimiento de lo establecido en este párrafo, el Presidente Municipal mandará publicar en el Boletín Oficial del Gobierno del Estado la declaratoria correspondiente.
 
 > <small>(REFORMADO, B.O. 21 DE OCTUBRE DE 2016)</small>
 
@@ -1491,7 +1503,7 @@ En caso de que al treinta y uno de diciembre del año que corresponda, el Ayunta
 
 El Presupuesto de Egresos, además de comprender las erogaciones a que se refiere el artículo que antecede, deberá incorporar las erogaciones que rebasen un ejercicio presupuestal para proyectos de alianza público privada de servicios, los subsidios, apoyos, donaciones, estímulos y demás conceptos de gasto que con el carácter de transferencias de recursos se otorguen a entidades, organismos e instituciones que realizan actividades, obras o servicios acordes a los objetivos y metas del Plan Municipal de Desarrollo, así como la amortización y pago de intereses de la deuda pública municipal y pago de adeudos de ejercicios fiscales anteriores.
 
-Además de lo establecido en el párrafo anterior, los Ayuntamientos deberán prever en el Presupuesto de Egresos, para cada ejercicio fiscal, una partida específica denominada "fondo para el pago de aguinaldos de los trabajadores municipales". Cada Ayuntamiento deberá tomar como base para la integración de esta partida el número de trabajadores del municipio de que se trate y el monto anual de aguinaldo al que tienen derecho los trabajadores en términos de las leyes aplicables. Los recursos de dicha partida deberán ejercerse y depositarse en una cuenta bancaria en una institución de banca de desarrollo, la cual cuente con una disposición restringida para que su uso sea únicamente al momento en el que deba llevarse a cabo el pago de los aguinaldos de los trabajadores municipales. Dicho pago deberá realizarse a más tardar en las fechas especificadas para tal efecto en la legislación laboral aplicable.
+Además de lo establecido en el párrafo anterior, los Ayuntamientos deberán prever en el Presupuesto de Egresos, para cada ejercicio fiscal, una partida específica denominada “fondo para el pago de aguinaldos de los trabajadores municipales”. Cada Ayuntamiento deberá tomar como base para la integración de esta partida el número de trabajadores del municipio de que se trate y el monto anual de aguinaldo al que tienen derecho los trabajadores en términos de las leyes aplicables. Los recursos de dicha partida deberán ejercerse y depositarse en una cuenta bancaria en una institución de banca de desarrollo, la cual cuente con una disposición restringida para que su uso sea únicamente al momento en el que deba llevarse a cabo el pago de los aguinaldos de los trabajadores municipales. Dicho pago deberá realizarse a más tardar en las fechas especificadas para tal efecto en la legislación laboral aplicable.
 
 ###### Artículo 131.
 
@@ -2593,7 +2605,7 @@ I. Se advierta que existan o pudieren existir actos contrarios a las disposicion
 
 II. Con la suspensión no se cause perjuicio al interés social y no se contravengan disposiciones de orden público.
 
-Cuando sea el inconforme quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiere ocasionar, mediante fianza por el monto que fije el Órgano de Control y Evaluación Gubernamental, de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá dar contra fianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
+Cuando sea el inconforme quien solicite la suspensión, éste deberá garantizar los daños y perjuicios que pudiere ocasionar, mediante fianza por el monto que fije el Organo de Control y Evaluación Gubernamental, de conformidad con los lineamientos que al efecto expida; sin embargo, el tercero perjudicado podrá dar contra fianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efecto la suspensión.
 
 ###### Artículo 253.
 
@@ -4134,3 +4146,15 @@ El porcentaje a que hace referencia el artículo 133 de la Ley de Gobierno y Adm
 ###### ARTÍCULO DÉCIMO.
 
 En relación con todos los Decretos del H. Congreso del Estado de Sonora que se encuentren vigentes a la fecha de entrada en vigor de este Decreto, mediante los cuales se hubiere autorizado la contratación de financiamientos para ser destinados a inversiones públicas productivas consistentes en el refinanciamiento o la reestructura de deuda pública, se entenderán modificados para que su destino autorizado sea el refinanciamiento o reestructura de deuda pública previamente contratada, en consistencia con lo dispuesto en el artículo 3º de la Ley de Deuda Pública y en el “DECRETO por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de disciplina financiera de las entidades federativas y los municipios” publicado en el Diario Oficial de la Federación el 26 de mayo de 2015.
+
+B.O. 26 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 105, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Hacienda del Estado deberá emitir y publicar en el Boletín Oficial del Gobierno del Estado, dentro de los 180 días hábiles posteriores a la entrada en vigor del presente Decreto, los lineamientos y metodología para la elaboración del análisis de costo-beneficio a que se refiere el artículo 21 de la Ley de Alianzas Público Privadas de Servicios del Estado de Sonora.
