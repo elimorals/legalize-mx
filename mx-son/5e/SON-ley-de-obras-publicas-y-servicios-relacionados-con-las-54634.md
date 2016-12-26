@@ -4,7 +4,7 @@ identifier: "SON-ley-de-obras-publicas-y-servicios-relacionados-con-las-54634"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-01"
-last_updated: "2016-10-21"
+last_updated: "2016-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Uno del Boletín Oficial del Estado de Sonora, el jueves 1 de marzo de 2007.
 
@@ -507,7 +507,9 @@ XVII.- Tratándose de contratos a precios alzados o mixtos en su parte correspon
 
 XVIII.- Tratándose de contratos a precios unitarios o mixtos en su parte correspondiente, el procedimiento de ajuste de costos que deberá aplicarse, así como el catalogo de conceptos, cantidades y unidades de medición, lo cual debe ser firmado por el responsable del proyecto; y la relación de conceptos de trabajo más significativos, de los cuales deberán presentar análisis y relación de los costos básicos de materiales, mano de obra, maquinaria y equipo de construcción que intervienen en dichos análisis. En todos los casos, se deberá prever que cada proyecto de trabajo esté debidamente integrado y soportado, preferentemente, en las especificaciones de construcción y normas de calidad solicitadas, procurando que estos conceptos sean congruentes con las cantidades de trabajo requeridos por proyecto;
 
-XIX.- Modalidad bajo la cual se llevará a cabo la ejecución de la obra, especificando, en su caso, si comprende lo relativo a transferencia de tecnología, proyectos llave en mano, financiamiento, concesión de la obra, comodato, arrendamientos, entre otros.
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2016)</small>
+
+XIX.- Modalidad bajo la cual se llevará a cabo la ejecución de la obra, especificando, en su caso, si comprende lo relativo a transferencia de tecnología, proyectos llave en mano, obras asociadas a financiamiento, comodato, arrendamiento, entre otros.
 
 Tratándose de obras a ejecutarse bajo la modalidad de financiamiento, las bases deberán contener adicionalmente los siguientes datos:
 
@@ -1227,7 +1229,7 @@ Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR DEL ESTADO, EDUARDO BOURS CASTELO, RÚBRICA. EL SECRETARIO DE GOBIERNO, ROBERTO RUIBALASTIAZARÁN, RÚBRICA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 B.O. 14 DE JULIO DE 2008.
 
@@ -1292,3 +1294,15 @@ El porcentaje a que hace referencia el artículo 133 de la Ley de Gobierno y Adm
 ###### ARTÍCULO DÉCIMO.
 
 En relación con todos los Decretos del H. Congreso del Estado de Sonora que se encuentren vigentes a la fecha de entrada en vigor de este Decreto, mediante los cuales se hubiere autorizado la contratación de financiamientos para ser destinados a inversiones públicas productivas consistentes en el refinanciamiento o la reestructura de deuda pública, se entenderán modificados para que su destino autorizado sea el refinanciamiento o reestructura de deuda pública previamente contratada, en consistencia con lo dispuesto en el artículo 3° de la Ley de Deuda Pública y en el “DECRETO por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de disciplina financiera de las entidades federativas y los municipios” publicado en el Diario Oficial de la Federación el 26 de mayo de 2015.
+
+B.O. 26 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 105, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE ALIANZAS PÚBLICO PRIVADAS DE SERVICIOS DEL ESTADO DE SONORA, DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Hacienda del Estado deberá emitir y publicar en el Boletín Oficial del Gobierno del Estado, dentro de los 180 días hábiles posteriores a la entrada en vigor del presente Decreto, los lineamientos y metodología para la elaboración del análisis de costo-beneficio a que se refiere el artículo 21 de la Ley de Alianzas Público Privadas de Servicios del Estado de Sonora.
