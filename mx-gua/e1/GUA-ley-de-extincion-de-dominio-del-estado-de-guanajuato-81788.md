@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-extincion-de-dominio-del-estado-de-guanajuato-81788"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-21"
-last_updated: "2016-07-01"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el martes 21 de junio de 2011.
 
@@ -121,9 +121,11 @@ El ejercicio de la acción de extinción de dominio no excluye la facultad del M
 
 Delitos y bienes por los que procede
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 10.
 
-El procedimiento de extinción de dominio sólo procederá en los casos de delitos contra la salud, secuestro, robo de vehículos y trata de personas, respecto de los bienes siguientes:
+El procedimiento de extinción de dominio sólo procederá en los casos de delitos contra la salud, secuestro, robo de vehículos, trata de personas y el enriquecimiento ilícito respecto de los bienes siguientes:
 
 I. Aquellos que sean instrumento, objeto o producto del delito;
 
@@ -988,3 +990,19 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTO, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN.”]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 166, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LOS SIGUIENTES ORDENAMIENTOS: LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO Y LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los organismos autónomos deberán adecuar su normativa interna en un plazo de noventa días, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero. Los organismos autónomos constitucionalmente reconocidos, remitirán en un plazo de sesenta días, posteriores al plazo establecido en el artículo transitorio segundo de este Decreto, la terna al Congreso del Estado, para la designación del titular del órgano interno de control.
+
+Artículo Cuarto. El Congreso del Estado contará con un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, para designar a los titulares de los órganos de control interno, debiendo garantizar la designación, atendiendo a los principios de certeza, imparcialidad y legalidad.
+
+Artículo Quinto. Los contralores que hayan sido nombrados con antelación a la entrada en vigor del presente Decreto, continuarán como titulares de los órganos internos de control hasta en tanto el Congreso del Estado realice las nuevas designaciones, atendiendo al procedimiento establecido en la Ley, sin perjuicio de que puedan ser propuestos, atendiendo a los requisitos y principios de certeza, imparcialidad y legalidad.
+
+Artículo Sexto. La Universidad de Guanajuato deberá designar a través de su Consejo General Universitario al titular del órgano interno de control, en un plazo de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto.
