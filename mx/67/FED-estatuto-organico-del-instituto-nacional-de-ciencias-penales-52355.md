@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-ciencias-penales-52
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-12-05"
-last_updated: "2011-02-10"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52355&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,9 @@ issue_date: "2006-11-21"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES
 
-ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES
+ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES
 
-> <small>N. DE E. LAS REFORMAS APROBADAS EN EL DECRETO, MODIFICO DE MANERA SUSTANCIAL PRACTICAMENTE TODO EL TEXTO DEL ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES DEL 5 DE DICIEMBRE DE 2006, DANDO COMO RESULTADO UN TEXTO DIFERENTE AL ORIGINAL, Y SI BIEN DIVERSOS ARTICULOS QUEDARON INTACTOS POR LA REFORMA, DEBIDO A LO ANTERIOR SE CONSERVA EL TEXTO APROBADO Y PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION DEL 10 DE FEBRERO DE 2011.</small>
-
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2016.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 5 de diciembre de 2006.
 
@@ -46,6 +44,10 @@ ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES
 ###### Artículo 1.
 
 El presente Estatuto Orgánico tiene por objeto establecer la organización y distribuir las funciones del Instituto Nacional de Ciencias Penales (INACIPE), organismo público descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propio, para el cumplimiento de los objetivos y atribuciones que le confieren las leyes, el Decreto por el que se crea el Instituto Nacional de Ciencias Penales y los ordenamientos aplicables al funcionamiento de las Entidades Paraestatales.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+El INACIPE, al ser un Centro Público de Investigación, goza de autonomía de decisión técnica, operativa y administrativa en los términos de la Ley de Ciencia y Tecnología; y de gestión presupuestaria de conformidad con la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -89,15 +91,21 @@ La administración del Instituto estará a cargo de la Junta de Gobierno y del D
 
 ### CAPITULO III. DE LA JUNTA DE GOBIERNO
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 6.
 
-La Junta de Gobierno del Instituto Nacional de Ciencias Penales se integrará por: el Procurador General de la República, quien la presidirá; los Secretarios de Gobernación, de Educación Pública y de Hacienda y Crédito Público; el Subprocurador que el Procurador General de la República designe; el Procurador General de Justicia del Distrito Federal; los rectores de la Universidad Nacional Autónoma de México y de la Universidad Autónoma Metropolitana; el Presidente de la Academia Mexicana de Ciencias Penales; así como por un Comisario Público Propietario, designado por la Secretaría de la Función Pública con derecho a voz y sin voto, quien tendrá las atribuciones a que se refieren los artículos 60 y 62 de la Ley Federal de las Entidades Paraestatales.
+La Junta de Gobierno del Instituto Nacional de Ciencias Penales se integrará por: el Procurador General de la República, quien la presidirá; los Secretarios de Gobernación, de Educación Pública y de Hacienda y Crédito Público; el Subprocurador que el Procurador General de la República designe; el Procurador General de Justicia de la Ciudad de México; los rectores de la Universidad Nacional Autónoma de México y de la Universidad Autónoma Metropolitana; el Presidente de la Academia Mexicana de Ciencias Penales; el Director General del Consejo Nacional de Ciencia y Tecnología; así como por un Comisario Público Propietario, designado por la Secretaría de la Función Pública con derecho a voz y sin voto, quien tendrá las atribuciones a que se refieren los artículos 60 y 62 de la Ley Federal de las Entidades Paraestatales.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 Los integrantes de la Junta de Gobierno podrán designar a sus respectivos suplentes.
 
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+
 Cuando la Junta de Gobierno lo estime pertinente, podrá invitar a participar en sus sesiones a representantes de los Poderes Legislativo y Judicial o de cualquiera otra institución pública o privada.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
 La Junta ejercerá sus atribuciones conforme a la Ley Federal de las Entidades Paraestatales y su Reglamento, al Decreto por el que se crea el Instituto Nacional de Ciencias Penales, al presente Estatuto y demás normas aplicables.
 
@@ -131,9 +139,15 @@ XI. Acordar, con sujeción a las disposiciones legales relativas, los donativos 
 
 XII. Aprobar, con apoyo en la legislación aplicable, las normas y bases para conciliar adeudos a cargo de terceros y a favor del Instituto, cuando fuere notoria la imposibilidad práctica de su cobro de conformidad con lo dispuesto por el artículo 58 de la Ley Federal de las Entidades Paraestatales;
 
-XIII. Aprobar las convocatorias, los planes y programas de estudios, así como sus respectivas actualizaciones, y
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
-XIV. Las demás que le confieran las leyes, los reglamentos, el Decreto de Creación y el presente Estatuto.
+XIII. Aprobar las convocatorias, los planes y programas de estudios, así como sus respectivas actualizaciones;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+XIV. Aprobar la celebración de convenios con el Consejo Nacional de Ciencia y Tecnología, para establecer fondos sectoriales en términos del artículo 25 de la Ley de Ciencia y Tecnología, y
+
+XV. Las demás que le confieran las leyes, los reglamentos, el Decreto de Creación y el presente Estatuto.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -317,11 +331,11 @@ El Comité podrá conformar grupos de trabajo de entre los investigadores del In
 
 El Instituto Nacional de Ciencias Penales tendrá un Director General, que será designado de conformidad con lo establecido en la Ley Federal de las Entidades Paraestatales, su Reglamento y el Decreto por el que se crea el Instituto Nacional de Ciencias Penales.
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 30.
 
-El Director General es la autoridad administrativa de mayor jerarquía del Instituto. Durará en su cargo cuatro años y podrá ser reelecto por una sola vez.
+El Director General es la autoridad administrativa de mayor jerarquía del Instituto. Durará en su cargo cuatro años.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -445,9 +459,25 @@ XII. Vigilar el cumplimiento de las normas de disciplina que deben observar los 
 
 XIII. Coordinar el desarrollo de las investigaciones que, en el ámbito de las Ciencias Penales y la Política Criminal, permitan analizar los problemas nacionales en la materia;
 
-XIV. Supervisar y evaluar el desarrollo de los programas y cursos de formación inicial, capacitación y especialización, solicitados por las Procuradurías Generales de Justicia y los Tribunales Superiores de Justicia de las Entidades Federativas y del Distrito Federal, así como por instituciones públicas de los Municipios, las Entidades Federativas, el Distrito Federal y la Federación, dirigidos a sus servidores públicos, y
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
-XV. Llevar a cabo todas aquellas funciones que le confiera o encomiende el Decreto de Creación, el presente Estatuto, la Junta de Gobierno, las disposiciones aplicables y el Director General del Instituto.
+XIV. Supervisar y evaluar el desarrollo de los programas y cursos de formación inicial, capacitación y especialización, solicitados por la Procuraduría General de la República, el Instituto de la Judicatura Federal, las Procuradurías o Fiscalías Generales de Justicia y los Tribunales Superiores de Justicia de las Entidades Federativas, así como por instituciones públicas de los Municipios, las Entidades Federativas, la Ciudad de México y la Federación, dirigidos a sus servidores públicos;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+XV. Diseñar, coordinar y ejecutar los programas de formación de capacitadores en materia de sistema procesal penal de la Procuraduría General de la República;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+XVI. Diseñar, dirigir e implementar el modelo de certificación de competencias, para los operadores del sistema procesal penal acusatorio;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+XVII. Integrar y administrar los expedientes únicos de capacitación de los operadores del sistema procesal penal acusatorio que formen parte de la Procuraduría General de la República, para lo cual deberá coordinarse con las áreas competentes de dicha Procuraduría, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+XVIII. Llevar a cabo todas aquellas funciones que le confiera o encomiende el Decreto de Creación, el presente Estatuto, la Junta de Gobierno, las disposiciones aplicables y el Director General del Instituto.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -543,7 +573,9 @@ VIII. Integrar el archivo con la documentación de los aspirantes a los programa
 
 IX. Proponer al Consejo Académico el personal docente para el cumplimiento de las tareas encomendadas, de acuerdo a su formación académica, experiencia y reconocimiento profesional, así como realizar la evaluación de dicha planta docente;
 
-X. Planear, programar y ejecutar los servicios de capacitación, actualización y especialización que sean solicitados por las Procuradurías Generales de Justicia, los Tribunales Superiores de Justicia y otras instituciones públicas Municipales, Estatales, del Distrito Federal o Federales, y
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+X. Planear, programar y ejecutar los servicios de capacitación, actualización y especialización que sean solicitados por las Procuradurías o Fiscalías Generales de Justicia, los Tribunales Superiores de Justicia y otras instituciones públicas Municipales, Estatales, de la Ciudad de México o Federales, y
 
 XI. Realizar todas aquellas funciones que le confiere la normatividad del Instituto y las que encomienden el Secretario General Académico y el Director General del Instituto.
 
@@ -719,9 +751,13 @@ IX. Revisar y clasificar el Diario Oficial de la Federación, a efecto de inform
 
 X. Integrar y mantener actualizado el marco jurídico aplicable al Instituto;
 
-XI. En general, realizar todas aquellas actividades de carácter jurídico que sean necesarias para apoyar el buen funcionamiento del Instituto, y
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
-XII. Las demás que le encomiende el Director General del Instituto.
+XI. Fungir como Unidad de Transparencia del Instituto, y desempeñar las funciones que, al efecto, establece la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones en la materia;
+
+XII. En general, realizar todas aquellas actividades de carácter jurídico que sean necesarias para apoyar el buen funcionamiento del Instituto, y
+
+XIII. Las demás que le encomiende el Director General del Instituto.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2011)</small>
 
@@ -837,6 +873,40 @@ II. Poner en conocimiento de los miembros de la Junta, con una anticipación mí
 
 III. Aprobar la reforma con el voto de, por lo menos, dos tercios de los miembros de la Junta.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO SÉPTIMO. DEL COMITÉ DE TRANSPARENCIA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 55.
+
+El Comité de Transparencia del Instituto será la instancia máxima en transparencia, acceso a la información, protección de datos personales y archivo. Deberá coordinar y supervisar las acciones en la materia de conformidad con lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 56.
+
+El Comité de Transparencia se integrará por:
+
+I. El titular de la Unidad de Transparencia, quien lo presidirá;
+
+II. El Director de Administración, quien fungirá como Secretario Técnico, y
+
+III. El Titular del Órgano Interno de Control en el Instituto.
+
+Por cada integrante del Comité, habrá un suplente, quien deberá tener la jerarquía inmediata inferior a dicho titular. No podrá ser subordinado de algún otro miembro del Comité.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 57.
+
+El Comité de Transparencia sesionará cuantas veces sean necesarias para responder, oportunamente, las solicitudes de información y demás asuntos de su competencia. El Secretario Técnico levantará las actas del Comité, que deberán ser firmadas por sus miembros, y dará seguimiento a los acuerdos adoptados en las sesiones.
+
 ## ARTICULOS TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -866,3 +936,11 @@ Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico del Insti
 ###### ARTICULO SEGUNDO.
 
 Se instruye al Director General del Instituto realizar los trámites necesarios para la publicación del presente Estatuto Orgánico en el Diario Oficial de la Federación. Los actos que realicen las diversas áreas del Instituto, previos a la fecha de publicación, podrán estar fundados en los artículos anteriores a las reformas y adiciones al Estatuto Orgánico aprobadas en este acto por la Junta de Gobierno. Lo anterior siempre y cuando la atribución o fundamento de cada acto subsista en el Estatuto Orgánico vigente independientemente de las modificaciones en el articulado.
+
+D.O.F. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE CIENCIAS PENALES”.]
+
+Artículo Primero. Las presentes reformas y adiciones al Estatuto Orgánico del Instituto Nacional de Ciencias Penales fueron aprobadas por la H. Junta de Gobierno en su Primera Sesión Extraordinaria, celebrada el 13 de diciembre de 2016, y entrarán en vigor al día siguiente de su aprobación por la misma.
+
+Artículo Segundo. Se instruye al Director General del Instituto realizar los trámites necesarios para la publicación de las presentes reformas, adiciones y derogaciones al Estatuto Orgánico en el Diario Oficial de la Federación. Los actos que realicen las diversas áreas del Instituto, previos a la fecha de publicación, podrán estar fundados en los artículos anteriores a las reformas y adiciones al Estatuto Orgánico aprobadas en este acto por la Junta de Gobierno.
