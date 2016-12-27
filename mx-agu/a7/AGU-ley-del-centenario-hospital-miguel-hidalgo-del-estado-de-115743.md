@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-centenario-hospital-miguel-hidalgo-del-estado-de-115743
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-18"
-last_updated: "2016-07-18"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL CENTENARIO HOSPITAL MIGUEL HIDALGO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de julio de 2016.
 
@@ -343,9 +343,11 @@ Para el cumplimiento de las funciones del Comisario Público, la Junta de Gobier
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Los recursos humanos, financieros y materiales que se encuentran asignados al Centenario Hospital Miguel Hidalgo como unidad administrativa del ISSEA, necesarios para el cumplimiento de su objeto y objetivos específicos, pasarán a formar parte del Hospital, debiendo realizarse dichas transferencias a partir de la entrada en vigencia del presente Decreto, mismas que deberán concluir a más tardar el día 1° de enero del año 2017.
+Los recursos humanos, financieros y materiales asignados al Centenario Hospital Miguel Hidalgo como unidad administrativa del ISSEA, necesarios para el cumplimiento de su objeto y objetivos específicos, pasarán a formar parte del Hospital, debiendo realizarse dichas transferencias a partir de la entrada en vigencia del presente Decreto, mismas que deberán concluir a más tardar el día 31 de diciembre del año 2018.
 
 ###### ARTÍCULO TERCERO.
 
@@ -359,13 +361,21 @@ El reglamento interior y los manuales de organización y procedimientos del Hosp
 
 Los ingresos que percibe el Centenario Hospital Miguel Hidalgo como unidad administrativa del ISSEA, contemplados en la Ley de Ingresos para el Estado de Aguascalientes para el ejercicio fiscal 2016, a partir de la fecha de entrada en vigor del presente Decreto se entenderán como percibidos para todos los efectos legales por el Hospital, no obstante lo anterior, en el período de transición, el ISSEA podrá recaudar los recursos correspondientes, mismos que deberán ser transferidos al Hospital.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO SEXTO.
 
-Los recursos financieros federales que se destinan actualmente al ISSEA para la operación, programas e inversión del Centenario Hospital Miguel Hidalgo como unidad administrativa del ISSEA, podrán ser transferidos por el ISSEA y en su caso por la Secretaría de Finanzas del Estado, a favor del Hospital durante el ejercicio fiscal del año 2016.
+Los recursos financieros federales que se destinan actualmente al ISSEA para la operación, programas e inversión del Centenario Hospital Miguel Hidalgo como unidad administrativa del ISSEA, podrán ser transferidos por el ISSEA y en su caso por la Secretaría de Finanzas del Estado, a favor del Hospital durante los ejercicios fiscales correspondientes a los años 2016, 2017 y 2018.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO SÉPTIMO.
 
-Para el período de transición del Hospital, este último, el ISSEA y en su caso las dependencias correspondientes del Poder Ejecutivo podrán celebrar convenios y acuerdos administrativos para acordar la forma, términos y condiciones para la transferencia de recursos humanos, materiales y financieros a favor del Hospital durante el ejercicio fiscal del año 2016, con el fin de asegurar el adecuado funcionamiento de este último.
+Para el período de transición del Hospital, este último, el ISSEA y en su caso las dependencias correspondientes del Poder Ejecutivo podrán celebrar convenios y acuerdos administrativos para acordar la forma, términos y condiciones para la transferencia de recursos humanos, materiales y financieros a favor del Hospital durante los ejercicios fiscales correspondientes a los años 2016, 2017 y 2018, con el fin de asegurar el adecuado funcionamiento de este último.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de los recursos relativos al Fondo de Protección Contra Gastos Catastróficos éstos seguirán siendo operados por el ISSEA, hasta en tanto el Organismo Público Descentralizado denominado Centenario Hospital Miguel Hidalgo cuente con la acreditación en el Sistema de Protección Social en salud.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -396,3 +406,17 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado en la Ciudad de Aguascalientes, Ags., a 15 de julio de 2016.- Carlos Lozano de la Torre.- Rúbrica.- Lic. Alejandro Bernal Rubalcava, en suplencia del Secretario General de Gobierno por ministerio de Ley. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 32.- SE REFORMAN ARTÍCULOS TRANSITORIOS DE LA LEY DEL CENTENARIO HOSPITAL MIGUEL HIDALGO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
