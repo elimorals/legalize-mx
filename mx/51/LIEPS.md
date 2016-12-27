@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2016-11-15"
+last_updated: "2016-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,13 +22,11 @@ abbreviation: "LIEPS"
 
 [NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2: PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 26/2015 POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, PUBLICADO EN EL D.O.F. DE 24 DE DICIEMBRE DE 2015.]
+[NOTA 2: PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 99/2016 POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2016.]
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE NOVIEMBRE DE 2016.
-
-ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -74,7 +72,7 @@ La Federación, el Distrito Federal, los Estados, los Municipios, los organismos
 
 El impuesto a que hace referencia esta Ley no se considera violatorio de precios o tarifas, incluyendo los oficiales.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 26/2015 POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, PUBLICADO EN EL D.O.F. DE 24 DE DICIEMBRE DE 2015. VÉASE ARCHIVO ANEXO]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 99/2016 POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2016.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -206,8 +204,6 @@ I) Plaguicidas. La tasa se aplicará conforme a la categoría de peligro de toxi
 
 La categoría de peligro de toxicidad aguda se determinará conforme a la siguiente tabla:
 
-Tabla 1. Categorías de peligro de toxicidad aguda
-
 > <small>[N. DE E. VÉASE "TABLA 1. CATEGORÍAS DE PELIGRO DE TOXICIDAD AGUDA" EN EL D.O.F. DE 11 DE DICIEMBRE DE 2013, PAGINA 10.]</small>
 
 La aplicación de la tabla se sujetará a lo dispuesto a la Norma Oficial Mexicana "NOM-232-SSA1-2009, Plaguicidas: que establece los requisitos del envase, embalaje y etiquetado de productos grado técnico y para uso agrícola, forestal, pecuario, jardinería, urbano, industrial y doméstico", publicada en el Diario Oficial de la Federación el 13 de abril de 2010, emitida por la autoridad competente.
@@ -262,7 +258,7 @@ Para los efectos de esta fracción, la tasa se aplicará al valor de la enajenac
 
 Las exportaciones a las que se les aplica la tasa del 0%, producirán los mismos efectos legales que los actos o actividades por los que se deba pagar el impuesto conforme a esta Ley y los productores que exporten serán considerados como contribuyentes del impuesto que establece esta Ley por los bienes a que se refiere esta fracción.
 
-> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 26/2015 POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, PUBLICADO EN EL D.O.F. DE 24 DE DICIEMBRE DE 2015. VÉASE ARCHIVO ANEXO]</small>
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 99/2016 POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, PUBLICADO EN EL D.O.F. DE 27 DE DICIEMBRE DE 2016.]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -3289,3 +3285,9 @@ Vigésimo Segundo. Petróleos Mexicanos difundirá en su portal de Internet una 
 I. El Artículo Primero, el 1 de enero de 2017, salvo lo dispuesto en los transitorios Décimo Segundo y Décimo Cuarto de la Ley de Ingresos de la Federación para el Ejercicio Fiscal de 2017, los cuales entrarán en vigor el día siguiente al de la publicación en el Diario Oficial de la Federación del presente Decreto, y
 
 II. El Artículo Segundo, al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2017.
