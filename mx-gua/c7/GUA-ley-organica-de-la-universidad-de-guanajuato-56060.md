@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-de-la-universidad-de-guanajuato-56060"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-06-15"
-last_updated: "2007-06-15"
+last_updated: "2016-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD DE GUANAJUATO
 
-LEY ORGANICA DE LA UNIVERSIDAD DE GUANAJUATO
+LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Tercera Parte al Periódico Oficial del Estado de Guanajuato, el viernes 15 de junio de 2007.
 
@@ -243,7 +243,9 @@ XII. Proponer a la Junta Directiva los candidatos a Rector General, auscultando 
 
 XIII. Designar y, en su caso, remover por falta grave, que calificará el propio Consejo General Universitario, a los integrantes de la Junta Directiva, del Patronato y del órgano defensor de los derechos académicos de alumnos y profesores;
 
-XIV. Designar y sustituir al Contralor General, a propuesta del Rector General;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XIV. Designar y remover al titular del Órgano de Control Interno;
 
 XV. Otorgar distinciones honoríficas o reconocimientos académicos, de conformidad con la reglamentación aplicable;
 
@@ -337,11 +339,13 @@ X. Emitir los nombramientos del personal académico y administrativo que labore 
 
 XI. Conformar consejos consultivos, como instancias de apoyo a la Universidad;
 
-XII. Autorizar el personal de apoyo y la contratación de servicios profesionales externos, propuestos por la Junta Directiva, el Patronato, la Contraloría General y la Comisión de Vigilancia;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XII. Autorizar el personal de apoyo y la contratación de servicios profesionales externos, propuestos por la Junta Directiva, el Patronato, el Órgano Interno de Control y la Comisión de Vigilancia;
 
 XIII. Proponer a la Comisión de Vigilancia la enajenación, arrendamiento o la asignación en comodato de los bienes muebles de la Universidad;
 
-XIV. Presentar al Consejo General Universitario la propuesta de Contralor General de la Universidad; y
+XIV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2016); y
 
 XV. Realizar las demás funciones y actividades inherentes a su cargo y las derivadas de esta Ley y sus reglamentos, así como las contenidas en otras disposiciones normativas.
 
@@ -629,7 +633,7 @@ Será nombrado y removido por la autoridad unipersonal de la instancia a la que 
 
 Para el desarrollo integral de las instancias que representan y para la unidad institucional, los Secretarios Académicos conformarán una instancia de apoyo, que será coordinada por el Secretario General.
 
-## TÍTULO QUINTO. PATRIMONIO DE lA UNIVERSIDAD
+## TÍTULO QUINTO. PATRIMONIO DE LA UNIVERSIDAD
 
 ### CAPÍTULO I. INTEGRACIÓN DEL PATRIMONIO DE LA UNIVERSIDAD
 
@@ -745,9 +749,13 @@ II. Dictaminar y poner a consideración del Consejo General Universitario el pro
 
 III. Revisar y dictaminar los informes trimestrales del ejercicio de la cuenta pública que se deban presentar al Congreso del Estado;
 
-IV. Dar seguimiento a las recomendaciones o dictámenes que emitan la Contraloría General de la Universidad o los órganos de fiscalización correspondientes y, en su caso, turnar a las instancias competentes lo que resulte procedente;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-V. Aprobar los criterios y lineamientos en materia de control, fiscalización y evaluación que le proponga la Contraloría General;
+IV. Dar seguimiento a las recomendaciones o dictámenes que emita el órgano interno de control de la Universidad o los órganos de fiscalización correspondientes y, en su caso, turnar a las instancias competentes lo que resulte procedente;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+V. Aprobar los criterios y lineamientos en materia de control, fiscalización y evaluación le (sic) proponga el órgano interno de control de la Universidad;
 
 VI. Acordar sobre los actos de enajenación, arrendamiento o comodato de los bienes muebles de la Universidad, a propuesta del Rector General;
 
@@ -755,51 +763,123 @@ VII. Proponer al Consejo General Universitario sobre la enajenación, arrendamie
 
 VIII. Las demás que se le asignen en la presente Ley, sus reglamentos y las disposiciones aplicables.
 
-### CAPÍTULO II. CONTRALORÍA GENERAL DE LA UNIVERSIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO II. ÓRGANO INTERNO DE CONTROL DE LA UNIVERSIDAD
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 60.
 
-La Contraloría General de la Universidad será responsable del control, evaluación y desarrollo administrativo de la Universidad. Dependerá directamente del Rector General y tendrá las siguientes facultades:
+La Universidad contará con un Órgano Interno de Control con autonomía técnica y de gestión que tendrá a su cargo la fiscalización de los ingresos y egresos de la misma.
 
-I. Proponer y aplicar las normas y criterios en materia de control, fiscalización y evaluación que deban observarse en la Universidad;
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-II. Vigilar que las dependencias y unidades administrativas cumplan con los programas establecidos en el Plan de Desarrollo Institucional;
+###### Artículo 60 Bis.
 
-III. Vigilar que los procedimientos, actos y contratos de adquisición de bienes y servicios se lleven a cabo de conformidad con la ley de la materia y su reglamento;
+El Órgano Interno de Control de la Universidad será responsable del control, evaluación y desarrollo administrativo de la Universidad, así como de la prevención de conductas constitutivas de responsabilidad administrativa y, en su caso, de la aplicación del derecho disciplinario; por lo cual, le competen las siguientes atribuciones:
 
-IV. Presentar a la Comisión de Vigilancia un programa e informe anual sobre el cumplimiento de sus funciones o cuando le sea requerido;
+I. Inspeccionar el ejercicio del gasto público de la Universidad y su congruencia con el presupuesto de egresos, así como validar los indicadores para la evaluación del funcionamiento y operación de la Universidad, en los términos de las disposiciones aplicables;
 
-V. Proponer la adopción de recomendaciones y de medidas preventivas o correctivas que estime convenientes para el desarrollo administrativo de la Universidad y darles seguimiento;
+II. Proponer las normas que regulen los instrumentos y procedimientos de control interno de la Universidad. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
 
-VI. Recibir y registrar las declaraciones patrimoniales de los servidores públicos de la Universidad, conforme a la Ley de la materia y, en su caso, requerir información adicional, así como realizar las investigaciones correspondientes;
+III. Establecer las bases generales para la realización de auditorías internas y externas, así como las recomendaciones y observaciones que deriven de las mismas, y las normas que regulen los instrumentos y procedimientos de auditoría;
 
-VII. Recibir y dar seguimiento a las sugerencias, quejas y denuncias ciudadanas, con respecto a la actuación de los servidores públicos adscritos a la Universidad;
+IV. Realizar auditorías, revisiones y evaluaciones, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad de la Universidad en su gestión y encargo;
 
-VIII. Sustanciar los procedimientos disciplinarios por actos u omisiones de los servidores públicos, comunicando al superior jerárquico la imposición de las sanciones correspondientes en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios;
+V. Fiscalizar que la Universidad cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
-IX. Emitir las disposiciones y lineamientos en el ejercicio de las atribuciones que conforme a las leyes competen a la Contraloría General de la Universidad; y
+VI. Designar y remover en su caso a los responsables de las áreas a su cargo; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Estatales, representando al Titular de la Universidad;
 
-X. Las demás que se establezcan en la presente Ley, el Estatuto Orgánico y demás reglamentos de la Universidad.
+VII. Llevar y normar el registro de servidores públicos de la Universidad, recibir y registrar las declaraciones patrimoniales y de intereses así como la constancia de declaración fiscal que deban presentar, verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, hayan sido impuestas;
 
-Para el desempeño de sus facultades podrá auxiliarse de servicios profesionales externos.
+VIII. Atender las inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con la Universidad, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+IX. Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Contrataciones Públicas para el Estado de Guanajuato y la Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado y los Municipios de Guanajuato, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas;
+
+X. Definir la política de gestión digital y datos abiertos en el ámbito de la Universidad;
+
+XI. Ejercer las facultades que la Constitución le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos;
+
+XII. Conocer e investigar las conductas de los servidores públicos de la Universidad que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades aplicable, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Estatal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
+
+XIII. Presentar al Consejo General Universitario un programa e informe anual sobre el cumplimiento de sus funciones o cuando le sea requerido por este;
+
+XIV. Recibir y dar seguimiento a las sugerencias, quejas y denuncias ciudadanas, con respecto a la actuación de los servidores públicos adscritos a la Universidad; y
+
+XV. Las demás que establezcan otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 61.
 
-Para ocupar el cargo de Contralor General de la Universidad se requiere:
+Para ocupar la titularidad del Órgano Interno de Control de la Universidad se requiere:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+I. Ser ciudadano mexicano, con pleno goce de sus derechos civiles y políticos y contar con residencia en el Estado no menor de tres años anteriores a la fecha de designación;
 
-II. Contar con grado universitario de nivel superior en alguna de las áreas económica, contable, jurídica o administrativa; y
+II. Tener cuando menos treinta años cumplidos al día del nombramiento;
 
-III. Contar con experiencia profesional de cuando menos tres años en su ejercicio e igual término en actividades relacionadas con la fiscalización de recursos.
+III. Tener, al día de su nombramiento, título profesional en las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución facultada para ello, y con la antigüedad mínima en su ejercicio de cinco años;
+
+IV. Contar con experiencia profesional de cuando menos dos años en el control, manejo y fiscalización de recursos;
+
+V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de la libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza, enriquecimiento ilícito o cometido contra la administración pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y
+
+VI. No ser o haber sido dirigente de partido político o asociación política a nivel nacional, estatal o municipal o candidato a puesto de elección popular, ni ministro de ningún culto religioso, en los cinco años anteriores a su designación.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 61 Bis.
+
+Quien detente la titularidad del Órgano Interno de Control de la Universidad durará en su cargo un periodo de cinco años, sin posibilidad de reelección.
+
+La designación del titular del Órgano Interno de Control se hará mediante la elección de una terna que derivará de consulta pública realizada por el Consejo General Universitario, cuyas bases serán publicadas en el Periódico Oficial de Gobierno del Estado además de la amplia difusión en el portal de internet de la Universidad, y periódicos de mayor circulación. Lo anterior apegándose a los principios de equidad, oportunidad, transparencia, imparcialidad y honradez.
+
+Dicha consulta deberá ser emitida con sesenta días hábiles de anticipación al vencimiento del periodo en el cual se desempeñe el titular del órgano de control.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 61 Ter.
+
+En caso de falta absoluta, renuncia o remoción del titular del Órgano Interno de Control, se procederá de conformidad con el artículo 61 Bis de esta ley.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 61 Quáter.
+
+Quien detente la titularidad del Órgano Interno de Control, durante el ejercicio de su cargo, no podrá:
+
+I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes, en los términos del artículo 133 de la Constitución Política para el Estado de Guanajuato; y
+
+II. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la que sólo deberá utilizarse para los fines de control interno.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 61 Quinquies.
+
+Son causas graves de remoción del titular del Órgano Interno de Control:
+
+I. Actualizarse alguno de los supuestos previstos en el artículo anterior;
+
+II. Incumplir la obligación de determinar los daños y perjuicios y de promover el fincamiento de sanciones en los casos que establece esta ley;
+
+III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación que, por razón de su cargo, tenga a su cuidado o custodia;
+
+IV. Conducirse con parcialidad en los procedimientos de control interno, así como en el cumplimiento de las disposiciones de esta ley; y
+
+V. Incurrir en abandono del cargo por un periodo de 5 días.
+
+Ante la actualización de alguna de las causales previstas en el presente artículo, el Consejo General Universitario hará la remoción correspondiente.
 
 ## TÍTULO UNDÉCIMO. RESPONSABILIDADES Y SANCIONES
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 62.
 
-El Consejo General Universitario, con base a lo establecido en la Ley de la materia, incluirá en el Estatuto Orgánico un apartado sobre la responsabilidad del personal administrativo de la Universidad, el cual contendrá sus obligaciones específicas. La Contraloría General de la Universidad será la responsable de tramitar el procedimiento y, en su caso, aplicar las sanciones correspondientes.
+El Consejo General Universitario, con base a lo establecido en la Ley de la materia, incluirá en el Estatuto Orgánico un apartado sobre la responsabilidad del personal administrativo de la Universidad, el cual contendrá sus obligaciones específicas. El órgano interno de control de la Universidad será la (sic) responsable de tramitar el procedimiento y, en su caso, aplicar las sanciones correspondientes.
 
 ###### Artículo 63.
 
@@ -873,7 +953,7 @@ Los Directores de Departamento convocarán a los integrantes de su comunidad uni
 
 Integrado el Consejo General Universitario, en los términos de lo dispuesto por el artículo 15 del presente Decreto, desaparecerán los órganos académicos colegiados y las autoridades unipersonales reguladas en la Ley abrogada y se aplicarán en su totalidad las disposiciones contempladas en el presente Decreto.
 
-LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLlMIENTO GUANAJUATO, GTO., 31 DE MAYO DE 2007.- Ruth Esperanza Lugo Martínez.- Diputada Presidenta. José Francisco Martínez Pacheco.- Diputado Secretario.- José Ramón Rodríguez Gómez.- Diputado Secretario.- RÚBRICAS.
+LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDRÁ QUE SE IMPRIMA, PUBLIQUE, CIRCULE Y SE LE DÉ EL DEBIDO CUMPLIMIENTO GUANAJUATO, GTO., 31 DE MAYO DE 2007.- Ruth Esperanza Lugo Martínez.- Diputada Presidenta. José Francisco Martínez Pacheco.- Diputado Secretario.- José Ramón Rodríguez Gómez.- Diputado Secretario.- RÚBRICAS.
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -884,3 +964,21 @@ JUAN MANUEL OLIVA RAMÍREZ
 EL SECRETARIO DE GOBIERNO
 
 JOSÉ GERARDO MOSQUEDA MARTÍNEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 166, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LOS SIGUIENTES ORDENAMIENTOS: LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO Y LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los organismos autónomos deberán adecuar su normativa interna en un plazo de noventa días, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero. Los organismos autónomos constitucionalmente reconocidos, remitirán en un plazo de sesenta días, posteriores al plazo establecido en el artículo transitorio segundo de este Decreto, la terna al Congreso del Estado, para la designación del titular del órgano interno de control.
+
+Artículo Cuarto. El Congreso del Estado contará con un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, para designar a los titulares de los órganos de control interno, debiendo garantizar la designación, atendiendo a los principios de certeza, imparcialidad y legalidad.
+
+Artículo Quinto. Los contralores que hayan sido nombrados con antelación a la entrada en vigor del presente Decreto, continuarán como titulares de los órganos internos de control hasta en tanto el Congreso del Estado realice las nuevas designaciones, atendiendo al procedimiento establecido en la Ley, sin perjuicio de que puedan ser propuestos, atendiendo a los requisitos y principios de certeza, imparcialidad y legalidad.
+
+Artículo Sexto. La Universidad de Guanajuato deberá designar a través de su Consejo General Universitario al titular del órgano interno de control, en un plazo de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto.
