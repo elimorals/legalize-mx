@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-13"
-last_updated: "2016-06-07"
+last_updated: "2016-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 7 DE JUNIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de mayo de 2016.
 
@@ -935,7 +933,7 @@ VII. Los contratos colectivos, incluyendo el tabulador, convenios y las condicio
 
 VIII. Todos los documentos contenidos en el Expediente de registro sindical y de contratos colectivos de trabajo.
 
-Las autoridades administrativas y jurisdiccionales en materia laboral deberán expedir copias de los documentos que obren en los expedientes de los registros a las personas que los (sic) requieran, de conformidad con el procedimiento de acceso a la información.
+Las autoridades administrativas y jurisdiccionales en materia laboral deberán expedir copias de los documentos que obren en los expedientes de los registros a las personas que los requieran, de conformidad con el procedimiento de acceso a la información.
 
 Por lo que se refiere a los documentos que obran en el expediente de registro de las asociaciones, únicamente estará clasificada como información confidencial, los domicilios de los trabajadores señalados en los padrones de socios.
 
@@ -1569,7 +1567,7 @@ Disponibilidad de información
 
 ###### Artículo 96.
 
-La Unidad de Transparencia tendrá disponible la información solicitada, durante un plazo mínimo de sesenta días hábiles, contado (sic) a partir de que la persona solicitante hubiere realizado, en su caso, el pago respectivo, el cual deberá efectuarse en un plazo no mayor a treinta días hábiles.
+La Unidad de Transparencia tendrá disponible la información solicitada, durante un plazo mínimo de sesenta días hábiles, contado a partir de que la persona solicitante hubiere realizado, en su caso, el pago respectivo, el cual deberá efectuarse en un plazo no mayor a treinta días hábiles.
 
 Transcurridos dichos plazos, los sujetos obligados darán por concluida la solicitud y procederán, de ser el caso, a la destrucción del material en el que se reprodujo la información.
 
@@ -2249,13 +2247,115 @@ IV. Orientar y auxiliar a las personas para ejercer los derechos de acceso a la 
 
 Integración del Instituto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 159.
 
-El Instituto se integrará con un Pleno, una Secretaría General de Acuerdos, una Actuaría, Contraloría nterna (sic) y las demás áreas administrativas que permita la disponibilidad presupuestal.
+El Instituto se integrará con un Pleno, una Secretaría General de Acuerdos, una Actuaría, un Órgano Interno de Control y las demás áreas administrativas que permita la disponibilidad presupuestal.
 
-El Instituto contará con una Contraloría Interna, como órgano de control interno que tendrá a su cargo las facultades de control, inspección y comprobación respecto al cumplimiento por parte de quienes integran el Instituto a las obligaciones derivadas de las disposiciones en materia de planeación, presupuesto, ingresos, egresos, financiamiento y patrimonio, así como de cumplir con las normas y demás disposiciones relativas a los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Instituto.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+El Instituto contará con un Órgano Interno de Control que tendrá a su cargo las facultades de control, inspección y comprobación respecto al cumplimiento por parte de quienes integran el Instituto a las obligaciones derivadas de las disposiciones en materia de planeación, presupuesto, ingresos, egresos, financiamiento y patrimonio, así como de cumplir con las normas y demás disposiciones relativas a los sistemas de registro, contabilidad, contratación y pago de personal, contratación de servicios y recursos materiales del Instituto.
 
 La organización y funcionamiento del Instituto se establecerá en su Reglamento Interior.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Órgano de control interno
+
+###### Artículo 159 Bis.
+
+El titular del Órgano Interno de Control, será designado por el voto de las dos terceras partes de la totalidad de quienes integren el Congreso del Estado y durará en su cargo un periodo de cinco años, sin posibilidad de reelección. Para ocupar el cargo de contralor se requiere:
+
+I. Tener la ciudadanía mexicana, con residencia en el Estado no menor de tres años anteriores a la fecha de su designación;
+
+II. Tener dos años de experiencia en materia (sic) fiscalización y rendición de cuentas;
+
+III. Tener cuando menos treinta años cumplidos al día del nombramiento;
+
+IV. Tener al día de su nombramiento, título profesional en las áreas contables, económico-administrativas, jurídicas o financieras, expedido por autoridad o institución facultada para ello, y con una antigüedad mínima en su ejercicio de cinco años;
+
+V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza enriquecimiento ilícito o cometido contra la administración pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena;
+
+VI. No ser o haber sido dirigente de partido o asociación política a nivel nacional, estatal o municipal o candidato a puesto de elección popular, ni ministro de ningún culto religioso, en los tres años anteriores a su designación.
+
+La designación del titular del Órgano Interno de Control se hará mediante la elección de una terna a través de convocatoria pública la cual se realizará por el Instituto y se publicará en el Periódico Oficial de (sic) Gobierno del Estado, además de la amplia difusión en el portal de internet del Instituto, y periódicos de mayor circulación, de conformidad con el reglamento interior. Lo anterior apegándose a los principios de equidad, oportunidad, transparencia, imparcialidad y honradez.
+
+En el supuesto de que la terna no fuese aprobada, se regresará al Pleno del Instituto, para que en el término de cinco días hábiles elabore una nueva terna, considerando a otros de los propuestos a partir de la consulta pública realizada y cuya aprobación se hará conforme a lo previsto por los párrafos anteriores.
+
+Dicha consulta deberá ser emitida con sesenta días hábiles de anticipación al vencimiento del periodo en el cual se desempeñe el titular del órgano de control, siendo que la terna deberá ser remitida treinta días hábiles previos a su vencimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Atribuciones del órgano de control
+
+###### Artículo 159 Ter.
+
+El Órgano Interno de Control tendrá las siguientes atribuciones:
+
+I. Inspeccionar el ejercicio del gasto público del Instituto y su congruencia con el presupuesto de egresos y validar los indicadores para la evaluación del funcionamiento y operación del Instituto, en los términos de las disposiciones aplicables;
+
+II. Proponer las normas que regulen los instrumentos y procedimientos de control interno del Instituto. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+III. Establecer las bases generales para la realización de auditorías internas y externas; proponer las normas que regulen los instrumentos y procedimientos en dichas materias;
+
+IV. Realizar auditorías, revisiones y evaluaciones, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+
+V. Fiscalizar que el Instituto cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+
+VI. Designar y remover a los titulares de las áreas a su cargo; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Estatales, representando al Comisionado Presidente del Instituto;
+
+VII. Llevar y normar el registro de servidores públicos del Instituto, recibir y registrar las declaraciones patrimoniales y de intereses así como la constancia de declaración fiscal que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+VIII. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con el Instituto, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+IX. Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Contrataciones Públicas para el Estado de Guanajuato y la Ley de Obra Pública y Servicios Relacionados con las (sic) Misma para el Estado y los Municipios de Guanajuato, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas;
+
+X. Definir la política de gestión digital y datos abiertos en el ámbito del Instituto;
+
+XI. Ejercer las facultades que la Constitución le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos; y
+
+XII. Conocer e investigar las conductas de los servidores públicos del Instituto que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades aplicable, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Estatal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Duración del cargo del órgano interno
+
+###### Artículo 159 Quáter.
+
+El Titular del Órgano Interno de Control, durante el ejercicio de su cargo, no podrá:
+
+I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes, en los términos del artículo 133 de la Constitución Política para el Estado; y
+
+II. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la que sólo deberá utilizarse para los fines de control interno.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Causas graves de remoción del órgano
+
+###### Artículo 159 Quinquies.
+
+Son causas graves de remoción del Titular del Órgano de Control Interno:
+
+I. Actualizarse alguno de los supuestos previstos en el artículo anterior;
+
+II. Incumplir la obligación de determinar los daños y perjuicios y de promover el fincamiento de sanciones en los casos que establece esta ley;
+
+III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación que, por razón de su cargo, tenga a su cuidado o custodia;
+
+IV. Conducirse con parcialidad en los procedimientos de control interno, así como en el cumplimiento de las disposiciones de esta ley; e
+
+V. Incurrir en abandono del cargo por un periodo de cinco días.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Falta absoluta, renuncia o remoción
+
+###### Artículo 159 Sexies.
+
+En caso de falta absoluta, renuncia o remoción del titular del órgano interno de control, se procederá de conformidad con el artículo 159 bis de esta ley.
+
+En tanto se hace la designación correspondiente, el Instituto designará al encargado del despacho, quien no podrá permanecer en el encargo por más de tres meses.
 
 ### Capítulo II. Pleno del Instituto
 
@@ -2343,7 +2443,11 @@ XXXII. Implementar mecanismos dentro de la promoción del derecho de acceso a la
 
 XXXIII. Conocer la información objeto de los recursos de revisión a fin de determinar la procedencia de su clasificación; y
 
-XXXIV. Las demás que le señale esta Ley, la Ley General y otras disposiciones legales que resulten aplicables.
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XXXIV. Presentar al Congreso del Estado para su aprobación, la propuesta de remoción del titular del Órgano Interno de Control, en los términos de esta ley y demás disposiciones; y
+
+XXXV. Las demás que le señale esta Ley, la Ley General y otras disposiciones legales que resulten aplicables.
 
 ### Capítulo III. Comisionados
 
@@ -2954,3 +3058,21 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 166, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LOS SIGUIENTES ORDENAMIENTOS: LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO Y LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los organismos autónomos deberán adecuar su normativa interna en un plazo de noventa días, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero. Los organismos autónomos constitucionalmente reconocidos, remitirán en un plazo de sesenta días, posteriores al plazo establecido en el artículo transitorio segundo de este Decreto, la terna al Congreso del Estado, para la designación del titular del órgano interno de control.
+
+Artículo Cuarto. El Congreso del Estado contará con un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, para designar a los titulares de los órganos de control interno, debiendo garantizar la designación, atendiendo a los principios de certeza, imparcialidad y legalidad.
+
+Artículo Quinto. Los contralores que hayan sido nombrados con antelación a la entrada en vigor del presente Decreto, continuarán como titulares de los órganos internos de control hasta en tanto el Congreso del Estado realice las nuevas designaciones, atendiendo al procedimiento establecido en la Ley, sin perjuicio de que puedan ser propuestos, atendiendo a los requisitos y principios de certeza, imparcialidad y legalidad.
+
+Artículo Sexto. La Universidad de Guanajuato deberá designar a través de su Consejo General Universitario al titular del órgano interno de control, en un plazo de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto.
