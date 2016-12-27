@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-organo-de-fiscalizacion-superior-del-estado-18884"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2016-11-08"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 27 de diciembre de 2000.
 
@@ -1761,7 +1763,7 @@ Los procedimientos resarcitorios que el Órgano hubiese iniciado con anteriorida
 
 ###### ARTICULO CUARTO.
 
-A efecto de dar cumplimiento al artículo 204 de la Ley Municipal para el Estado de Nayarit que con este decreto se reforma, la Comisión de Hacienda, Cuenta Pública y Presupuesto, deberá presentar al Pleno del Congreso los montos a los cuales deberán sujetarse los Ayuntamientos durante el ejercicio fiscal del año 2003 en las excepciones a los procedimientos de licitación pública para la adquisición de bienes y servicios, mismo decreto que en todo caso deberá estar aprobado y publicado a más tardar el 31 de diciembre del año 2002 .
+A efecto de dar cumplimiento al artículo 204 de la Ley Municipal para el Estado de Nayarit que con este decreto se reforma, la Comisión de Hacienda, Cuenta Pública y Presupuesto, deberá presentar al Pleno del Congreso los montos a los cuales deberán sujetarse los Ayuntamientos durante el ejercicio fiscal del año 2003 en las excepciones a los procedimientos de licitación pública para la adquisición de bienes y servicios, mismo decreto que en todo caso deberá estar aprobado y publicado a más tardar el 31 de diciembre del año 2002.
 
 ###### ARTÍCULO QUINTO.
 
@@ -1842,3 +1844,53 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE NAYARIT”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+Segundo. Se abroga la Ley del Órgano de Fiscalización Superior del Estado, publicada en el Periódico Oficial, Órgano del Gobierno del Estado el 27 de diciembre de 2000, conforme a lo dispuesto en los artículos transitorios subsecuentes.
+
+Tercero. Las referencias, remisiones o contenidos de la presente Ley que estén vinculados con la aplicación de la Ley del Sistema Local Anticorrupción, de la Ley General de Responsabilidades Administrativas y de la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit, entrarán en vigor cuando dichos ordenamientos se encuentren vigentes.
+
+Las menciones a (sic) Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit, se entenderá la que expida el Congreso derivado de la armonización de la Ley General de Responsabilidades Administrativas.
+
+Cuarto. Los procedimientos administrativos y resarcitorios iniciados de conformidad con la Ley del Órgano de Fiscalización Superior del Estado, así como los recursos que deriven de estos, que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente Ley, se resolverán hasta su conclusión definitiva, en términos de la Ley del Órgano de Fiscalización Superior del Estado.
+
+Asimismo, los procedimientos de responsabilidad iniciados por la Auditoría Superior del Estado con anterioridad a la entrada en vigor de la Ley General de Responsabilidades Administrativas y la Ley local de responsabilidades administrativas aplicable en el Estado de Nayarit, serán tramitados de conformidad con la Ley del Órgano de Fiscalización Superior del Estado, publicada en el Periódico Oficial, Órgano del Gobierno del Estado el 27 de diciembre de 2000.
+
+Derivado del cambio de denominación, los expedientes que se encuentren en trámite ante el Órgano de Fiscalización Superior del Estado o en los que éste sea parte, así como los que deriven o sean consecuencia de los mismos, continuarán sustanciándose por la Auditaría Superior del Estado, hasta su total conclusión, conforme a las disposiciones aplicables.
+
+Quinto.- El actual Auditor General del Órgano de Fiscalización Superior del Estado, será el titular de la Auditoría Superior del Estado de Nayarit, lo anterior derivado del cambio de denominación con fundamento en el "Decreto que Designa al licenciado Roy Rubio Salazar, como Auditor General del Órgano de Fiscalización Superior", publicado el 12 de diciembre de 2013, en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Para efectos del párrafo anterior, la Legislatura del Estado, expedirá el nombramiento del Auditor Superior del Estado de Nayarit, a la entrada en vigor del presente ordenamiento.
+
+Sexto.- El Reglamento Interior del Órgano de Fiscalización Superior del Estado de Nayarit, publicado en el Periódico Oficial del Estado de Nayarit con fecha diez de marzo de dos mil diez, estará vigente en todo lo que no se oponga a la presente Ley y hasta en tanto se emita el ordenamiento que lo sustituya.
+
+El Auditor Superior expedirá en el plazo de 180 días naturales siguientes a la entrada en vigor de la presente Ley, el Reglamento Interior de la Auditoría Superior del Estado.
+
+Sin perjuicio de lo anterior, los asuntos que se encuentren en trámite o en proceso en la Auditoría Superior del Estado al entrar en vigor la Ley materia del presente Decreto, se seguirán tramitando hasta su conclusión en términos del Reglamento Interior del Órgano de Fiscalización Superior del Estado de Nayarit.
+
+Séptimo. Las funciones de fiscalización y revisión de la Auditoría Superior del Estado previstas en la presente Ley entrarán en vigor a partir de la Cuenta Pública del año 2016.
+
+Octavo. Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores entrarán en vigor al día siguiente de la publicación de la presente Ley.
+
+Noveno. Se ratifica el contenido de los acuerdos, circulares, gulas, manuales y demás normatividad, sin embargo, la Auditoría Superior del Estado deberá actualizar dicha normativa, en un plazo no mayor a 180 días naturales contados a partir de la vigencia de la presente Ley.
+
+Décimo. Las referencias que se hagan en otras leyes y disposiciones reglamentarias y administrativas, a la Ley del Órgano de Fiscalización Superior del Estado, se entenderán por realizadas, a la presente Ley, a la Auditoría Superior del Estado y a su titular.
+
+Décimo Primero. Los convenios y contratos que hubiere celebrado el Órgano de Fiscalización Superior del Estado con anterioridad a la entrada en vigor de la presente Ley, conservarán su valor y eficacia legal hasta su conclusión.
+
+Décimo Segundo. Todos los bienes muebles e inmuebles, archivos, expedientes, papeles de trabajo, documentos, recursos presupuestales y humanos con que cuente el Órgano de Fiscalización Superior del Estado a la entrada en vigor del presente Decreto, formarán parte de la estructura orgánica y patrimonio de la Auditoría Superior del Estado, en los términos que establezca esta Ley y su Reglamento Interior.
+
+Décimo Tercero. En tanto se realizan las modificaciones conducentes a los sellos, formatos, papelería y demás documentación que obre en el Órgano de Fiscalización Superior del Estado, se seguirá utilizando, hasta que la Auditoría Superior del Estado realice las adecuaciones conducentes sin exceder de los 180 días naturales siguientes a la entrada de la presente Ley.
+
+Décimo Cuarto. Los servidores públicos del Órgano de Fiscalización Superior del Estado, no sufrirán afectación alguna en sus derechos laborales, con motivo de la entrada en vigor de la presente ley.
+
+Décimo Quinto.- Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria del Estado, a que se refiere el artículo 31, apartado A, fracción II, inciso f); y apartado 8, fracción IV, de la presente Ley, entrarán en vigor para el ejercicio fiscal 2017.
+
+Décimo Sexto.- Las disposiciones relacionadas con el equilibrio presupuestario y responsabilidad hacendaria de los Municipios, a que se refiere el artículo 31, inciso A, fracción II, inciso f); y apartado B, fracción IV, de la presente Ley, entrarán en vigor para el ejercicio fiscal 2018.
+
+Décimo Séptimo.- Las reformas relativas a la Cuenta Pública y a los informes de Avance de Gestión Financiera, entrarán en vigor en el ejercicio fiscal 2017 y en el ejercicio fiscal 2018, según corresponda, de conformidad con lo dispuesto en el DECRETO por el que se expide la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, y se reforman, adicionan y derogan diversas disposiciones de las leyes de Coordinación Fiscal, General de Deuda Pública y General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación, el 27 de abril de 2016.
