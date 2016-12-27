@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado-180
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-26"
-last_updated: "2015-10-02"
+last_updated: "2016-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 26 de septiembre del 2000.
 
@@ -153,9 +151,11 @@ La Procuraduría deberá coordinarse con la Comisión Nacional de Derechos Human
 
 ### Capítulo Segundo. De la Integración de la Procuraduría
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 10.
 
-La Procuraduría se integrará por un Procurador, Consejo Consultivo, Subprocuradores, Secretario General, Coordinadores de Educación y de Promoción de los Derechos Humanos, así como por Agentes Investigadores y personal profesional, administrativo y técnico necesario para el desarrollo de sus actividades.
+La Procuraduría se integrará por un titular de la Procuraduría, Consejo Consultivo, Subprocuradurías, Secretaría General, Órgano Interno de Control, Coordinadores de Educación y de Promoción de los Derechos Humanos, así como por Agentes Investigadores y personal profesional, administrativo y técnico necesario para el desarrollo de sus actividades.
 
 ###### Artículo 11.
 
@@ -259,13 +259,15 @@ XII.- Formular el anteproyecto del presupuesto anual de egresos y el respectivo 
 
 XIII.- Enviar por escrito al Congreso del Estado, el segundo jueves del mes de abril, el Informe anual de actividades de la Procuraduría;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2010)</small>
+XIV. Presentar al Congreso del Estado, la cuenta pública de la Procuraduría, en la forma y términos que establezca la Ley;
 
-XIV.- Presentar al Congreso del Estado la cuenta pública de la Procuraduría, en la forma y términos que establezca la Ley; y
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XV.- Las demás que le señalen la presente Ley, el reglamento interno u otras disposiciones jurídicas aplicables.
+XV. Presentar al Congreso para su aprobación, la propuesta de remoción del titular del Órgano Interno de Control, en los términos de esta ley y demás disposiciones; y
+
+XVI.- Las demás que le señalen la presente Ley, el reglamento interno u otras disposiciones jurídicas aplicables.
 
 ### Capítulo Cuarto. Del Consejo Consultivo
 
@@ -410,6 +412,90 @@ IX.- Reunir la documentación necesaria para la elaboración del informe anual d
 X.- Dar seguimiento a las recomendaciones emitidas; y
 
 XI.- Las demás que le sean conferidas en otras disposiciones legales, reglamentarias y las que le delegue el Procurador.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Artículo 25 bis.- La Procuraduría, contará con un Órgano Interno de Control, con autonomía técnica y de gestión que tendrá a su cargo, la fiscalización de todos los ingresos y egresos de la misma.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Artículo 25 ter.- El titular del Órgano Interno de Control, será designado por el voto de las dos terceras partes de la totalidad de quienes integren el Congreso del Estado y durará en su cargo un periodo de cinco años, sin posibilidad de reelección. Para ocupar el cargo de contralor se requiere:
+
+I. Tener la ciudadanía mexicana, con residencia en el Estado no menor de tres años anteriores a la fecha de su designación;
+
+II. Tener dos años de experiencia en materia (sic) fiscalización y rendición de cuentas;
+
+III. Tener cuando menos treinta años cumplidos al día del nombramiento;
+
+IV. Tener al día de su nombramiento, título profesional en las áreas contables, económico-administrativas, jurídicas o financieras, expedido por autoridad o institución facultada para ello, y con una antigüedad mínima en su ejercicio de cinco años;
+
+V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza, enriquecimiento ilícito o cometido contra la administración pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y
+
+VI. No ser o haber sido dirigente de partido o asociación política a nivel nacional, estatal o municipal o candidato a puesto de elección popular, ni ministro de ningún culto religioso, en los cinco años anteriores a su designación.
+
+La designación del titular del Órgano Interno de Control se hará mediante la elección de una terna a través de consulta pública la cual se realizará por la Procuraduría y se publicará en el Periódico Oficial de Gobierno del Estado, además de la amplia difusión en el portal de internet de la Procuraduría, y periódicos de mayor circulación, de conformidad con el reglamento interior. Lo anterior apegándose a los principios de equidad, oportunidad, transparencia, imparcialidad y honradez.
+
+En el supuesto de que la terna no fuese aprobada, se regresará al titular de la Procuraduría, para que en el término de cinco días hábiles elabore una nueva terna, considerando a otros de los propuestos a partir de la consulta pública realizada y cuya aprobación se hará conforme a lo previsto por los párrafos anteriores.
+
+Dicha consulta deberá ser emitida con sesenta días hábiles de anticipación al vencimiento del periodo en el cual se desempeñe el titular del órgano de control, siendo que la terna deberá ser remitida treinta días hábiles previos a su vencimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Artículo 25 quáter.- El Órgano Interno de Control tendrá las siguientes atribuciones:
+
+I. Inspeccionar el ejercicio del gasto público de la Procuraduría y su congruencia con el presupuesto de egresos y validar los indicadores para la evaluación del funcionamiento y operación de la Procuraduría, en los términos de las disposiciones aplicables;
+
+II. Proponer las normas que regulen los instrumentos y procedimientos de control interno de la Procuraduría. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+III. Establecer las bases generales para la realización de auditorías internas y externas; proponer las normas que regulen los instrumentos y procedimientos en dichas materias;
+
+IV. Realizar auditorías, revisiones y evaluaciones, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
+
+V. Fiscalizar que la Procuraduría cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+
+VI. Designar y remover a los titulares de las áreas a su cargo; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales Estatales, representando al Titular de la Procuraduría;
+
+VII. Llevar y normar el registro de servidores públicos de la Procuraduría, recibir y registrar las declaraciones patrimoniales y de intereses así como la constancia de declaración fiscal que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, hayan sido impuestas;
+
+VIII. Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con la Procuraduría, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+IX. Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Contrataciones Públicas para el Estado de Guanajuato y la Ley de Obra Pública y Servicios Relacionados con la Misma para el Estado y los Municipios de Guanajuato, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas;
+
+X. Definir la política de gestión digital y datos abiertos en el ámbito de la Procuraduría;
+
+XI. Ejercer las facultades que la Constitución le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos; y
+
+XII. Conocer e investigar las conductas de los servidores públicos de la Procuraduría que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades aplicable, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Estatal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Artículo 25 quinquies.- El Titular del Órgano Interno de Control, durante el ejercicio de su cargo, no podrá:
+
+I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes, en los términos del artículo 133 de la Constitución Política para el Estado; y
+
+II. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la que sólo deberá utilizarse para los fines de control interno.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Artículo 25 sexies.- Son causas graves de remoción del Titular del Órgano de Control Interno:
+
+I. Actualizarse alguno de los supuestos previstos en el artículo anterior;
+
+II. Incumplir la obligación de determinar los daños y perjuicios y de promover el fincamiento de sanciones en los casos que establece esta ley;
+
+III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación que, por razón de su cargo, tenga a su cuidado o custodia;
+
+IV. Conducirse con parcialidad en los procedimientos de control interno, así como en el cumplimiento de las disposiciones de esta ley;
+
+V. Incumplir de manera reiterada con sus funciones y atribuciones; e
+
+VI. Incurrir en abandono del cargo por un periodo de 5 días.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Artículo 26 (sic) Septies. En caso de falta absoluta, renuncia o remoción del titular del Órgano Interno de Control, se procederá de conformidad con el artículo 25 ter de esta ley.
+
+En tanto se hace la designación correspondiente, la Procuraduría designará al encargado del despacho, quien no podrá permanecer en el encargo por más de tres meses.
 
 ### Capítulo Séptimo. De las Coordinaciones
 
@@ -884,3 +970,19 @@ Artículo Octavo. Las organizaciones de asistencia social que realicen cualquier
 Designación de representantes de la sociedad civil ante el Sistema
 
 Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 166, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LOS SIGUIENTES ORDENAMIENTOS: LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO Y LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los organismos autónomos deberán adecuar su normativa interna en un plazo de noventa días, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero. Los organismos autónomos constitucionalmente reconocidos, remitirán en un plazo de sesenta días, posteriores al plazo establecido en el artículo transitorio segundo de este Decreto, la terna al Congreso del Estado, para la designación del titular del órgano interno de control.
+
+Artículo Cuarto. El Congreso del Estado contará con un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, para designar a los titulares de los órganos de control interno, debiendo garantizar la designación, atendiendo a los principios de certeza, imparcialidad y legalidad.
+
+Artículo Quinto. Los contralores que hayan sido nombrados con antelación a la entrada en vigor del presente Decreto, continuarán como titulares de los órganos internos de control hasta en tanto el Congreso del Estado realice las nuevas designaciones, atendiendo al procedimiento establecido en la Ley, sin perjuicio de que puedan ser propuestos, atendiendo a los requisitos y principios de certeza, imparcialidad y legalidad.
+
+Artículo Sexto. La Universidad de Guanajuato deberá designar a través de su Consejo General Universitario al titular del órgano interno de control, en un plazo de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto.
