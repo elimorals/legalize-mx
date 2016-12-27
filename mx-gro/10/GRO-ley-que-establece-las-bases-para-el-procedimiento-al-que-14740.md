@@ -4,7 +4,7 @@ identifier: "GRO-ley-que-establece-las-bases-para-el-procedimiento-al-que-14740"
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-17"
-last_updated: "1988-06-17"
+last_updated: "2016-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GRO"
 ---
 # LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERA AJUSTARSE LA INSCRIPCION DE LOS PREDIOS SUB-URBANOS Y RUSTICOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE GUERRERO
 
-LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERA AJUSTARSE LA INSCRIPCION DE LOS PREDIOS SUB-URBANOS Y RUSTICOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD
+LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERA AJUSTARSE LA INSCRIPCIÓN DE LOS PREDIOS SUB-URBANOS Y RÚSTICOS EN EL REGISTRO PÚBLICO DE LA PROPIEDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 17 de junio de 1988.
 
@@ -53,51 +53,97 @@ Por lo expuesto y con fundamento en el Artículo 47 Fracción I de la Constituci
 
 LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERA AJUSTARSE LA INSCRIPCION DE LOS PREDIOS SUB-URBANOS Y RUSTICOS EN EL REGISTRO PUBLICO DE LA PROPIEDAD.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 1o.
 
-Se declara de Interés público el programa de regularización de la tenencia de la tierra de la pequeña propiedad de predios sub-urbanos y rústicos, del Estado que llevará a cabo el Ejecutivo de la Entidad.
+Se declara de interés Público el Programa de Regularización de la Tenencia de la Tierra de la Pequeña Propiedad, de Predios Sub urbanos y Rústicos del Estado que llevará a cabo el Gobierno del Estado de Guerrero, a través de la Secretaría de Finanzas y Administración y de la Coordinación General de Catastro.
 
 ###### ARTICULO 2o.
 
 Esta Ley tiene por objeto establecer las bases a las que debe ajustarse el procedimiento de regularización de la propiedad de predios sub-urbanos y rústicos del Estado de Guerrero.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley, se consideran predios sub-urbanos y rústicos los que así identifica el artículo 4o. fracción XIII y XIV de la Ley de Desarrollo Urbano del Estado.
+Para los efectos de esta Ley se considerarán predios Sub urbanos, los que están localizados en las áreas adyacentes o periféricas de un centro de Población y que son susceptibles de urbanizarse y rústicos, aquellos predios que están destinados al uso agrícola, ganadero y forestal, dividiéndose el primero en “de riego, jugo o humedad” y “de temporal”, y el segundo en “cultivado”, “de agostadero” y “cerril”.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 4o.
 
-Quienes estén en posesión de predios sub-urbanos y rústicos, que tengan una extensión no mayor de 30 hectáreas en cualquier calidad y cuyo valor no exceda de la suma que resulte de multiplicar 20 veces el salario mínimo general elevado al año de la zona económica en donde se encuentre el predio, con el tiempo y las condiciones exigidas para prescribirlos, y no posea título de propiedad, o teniéndolo éste sea defectuoso, podrán regularizar su situación legal mediante la presentación de una solicitud por escrito dirigida al Gobierno del Estado acompañando los documentos que conduzcan al conocimiento de tales hechos; siendo éstos:
+Quienes estén en posesión de predios sub urbanos y rústicos, que tengan una extensión no mayor de 30 hectáreas en cualquier calidad y cuyo valor no exceda de la cantidad de $1,000,000.00 (Un Millón de Pesos 00/100 M.N.), reuniendo los requerimientos de tiempo y condiciones exigidas para prescribirlos, y no posean un Título de Propiedad, o teniéndolo y éste sea defectuoso, podrán regularizar su situación legal mediante la presentación de una solicitud por escrito dirigida al Titular del Poder ejecutivo, acompañado de la totalidad de los documentos siguientes:
 
-I. Constancia de posesión expedida por el Presidente Municipal.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+I. Constancia de Posesión expedida por el Presidente Municipal, con medidas y nombre de los colindantes, la cual no deberá tener una vigencia mayor a seis meses de su expedición.
 
 II. En su caso, escritura o título de propiedad, privados o públicos que no reúnan los requisitos de Ley para su inscripción.
 
-III. Plano.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-IV. Notificaciones o colindantes y núcleos agrarios.
+III. Plano topográfico que contenga su cuadro de construcción, con coordenadas UTM geo referenciadas a la red geodésica nacional, elaborado y firmado por un perito en materia de topografía que cuente con cédula profesional.
 
-V. Constancia de la explotación del predio.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+IV. Constancia de no afectación a terrenos ejidales o comunales, expedida por el Comisariado Ejidal o Comunal del lugar donde se encuentre el predio. Tratándose de predios donde no haya comisariado ejidal o comunal, se presentará la constancia expedida por el Registro Agrario Nacional.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+V. En los casos en que no cuente con Escritura, deberá incluir Acta Testimonial de Hechos Propios expedida por fedatario público, la cual deberá contener la mención en el texto, que el predio no se encuentra inscrito en el Registro Público de la Propiedad y del Comercio en el Estado.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+VI. Contrato de compra venta, a nombre de la persona que pretende regularizar su predio.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+VII. Constancia de no Afectación Agraria expedida por el Registro Agrario Nacional.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+VIII. Cuando el predio que se pretende regularizar colinde con Zona Federal, deberá presentar una constancia de no afectación, expedido (sic) por las dependencias federales correspondientes.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+IX. Copia del Acta de Nacimiento, CURP y Credencial oficial vigente.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+X. Carta Responsiva de Derechos de Propiedad firmada por el beneficiario, y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XI. Las demás que sean requeridas por la Coordinación General de Catastro de la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 5o.
 
-Para el efecto anterior, el Gobierno del Estado en coordinación con la Secretaria de la Reforma Agraria, integrará sendos expedientes como consecuencia de la elaboración del Catastro Rural en el que ya se encuentran los documentos necesarios y que dan la posibilidad legal de iniciar el trámite para su regularización.
+Para el efecto anterior, el Gobierno del Estado a través de la Coordinación General de Catastro de la Secretaría de Finanzas y Administración, en coordinación con los H. Ayuntamientos integrarán sendos expedientes que darán la posibilidad legal para iniciar el trámite de regularización del predio.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 6o.
 
-Recibida la promoción y sus anexos o bien el expediente integrado por la Secretaría de la Reforma Agraria por conducto de su Delegación, el Gobierno del Estado procederá a llevar a cabo el estudio y dictamen respectivos.
+Recibida la promoción y sus anexos o bien el expediente integrado por la Coordinación General de Catastro y el H. Ayuntamiento correspondiente, se procederá a llevar a cabo el estudio y dictamen de la documentación respectiva.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 7o.
 
-Una vez hecho lo anterior, el Gobierno del Estado expedirá la constancia que servirá de título de propiedad, ordenando su inscripción en el Registro Público de la Propiedad, debiendo dar aviso al Presidente Municipal para efectos de la recaudación del impuesto predial.
+El Gobierno del Estado por conducto de la Coordinación General de Catastro valorarán el contenido del expediente, y en caso de dictaminarlo procedente, expedirá el Título de Propiedad respectivo para que sea signado por su conducto y por el Titular de la Secretaría de Finanzas y Administración, para que con posterioridad se ordene su inscripción en el Registro Público de la Propiedad, teniendo la obligación de dar aviso al H. Ayuntamiento de la municipalidad donde corresponda el predio, para efectos de contemplar lo necesario para la recaudación del pago de impuesto predial correspondiente.
 
 ###### ARTICULO 8o.
 
 Si durante el procedimiento y hasta entes de la resolución se presentase persona alguna alegando derechos sobre el procedimiento objeto de la promoción, acreditando interés jurídico, el procedimiento se suspenderá, quedando a salvo los derechos de los interesados para que los hagan valer ante la autoridad judicial competente.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 9o.
 
-La constancia que expida el Gobierno del Estado será inscrita en el Registro Público de la Propiedad sin mayor trámite y sin necesidad de protocolización, pudiendo el interesado, elevarla a escritura pública, ante el Notario designado por el Gobierno del Estado o los Organismos Estatales.
+El Título de Propiedad que expida el Gobierno del Estado, por conducto de los Titulares de la Secretaría de Finanzas y Administración y de la Coordinación General de Catastro, será inscrito el Registro Público de la Propiedad y del Comercio, sin mayor trámite o protocolización, pudiendo el interesado, elevar dicho Título de Propiedad a Escritura Pública ante el Notario Público.
 
 ###### ARTICULO 10o.
 
@@ -146,3 +192,15 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 422 POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES PARA EL PROCEDIMIENTO AL QUE DEBERÁ AJUSTARSE LA INSCRIPCIÓN DE LOS PREDIOS SUB-URBANOS Y RÚSTICOS EN EL REGISTRO PÚBLICO DE LA PROPIEDAD”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día 02 de enero del año 2017.
+
+SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
