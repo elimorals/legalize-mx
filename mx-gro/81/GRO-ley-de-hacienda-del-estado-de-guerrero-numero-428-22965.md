@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-hacienda-del-estado-de-guerrero-numero-428-22965"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-28"
-last_updated: "2016-11-29"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,15 @@ state: "GRO"
 ---
 # LEY DE HACIENDA DEL ESTADO DE GUERRERO, NUMERO 428
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE HACIENDA DEL ESTADO DE GUERRERO, NÚMERO 428
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -359,7 +363,7 @@ Es base para el pago del impuesto el monto total de los ingresos obtenidos.
 
 Se considerará como ingreso del espectáculo público la cantidad total que se cobre por los boletos o cuotas de entradas, donativos, cooperaciones o cualquier concepto, al que se condicione el acceso al espectáculo ya sea directamente o por un tercero incluyendo las que se paguen por derecho a reservar, apartar o adquirir anticipadamente el boleto de acuerdo al espectáculo público.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VEÁSE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
 
@@ -6359,7 +6363,7 @@ IV.- Los compradores o almacenistas de los productos gravados por este impuesto,
 
 ###### ARTICULO 124.
 
-Se autoriza a la Secretaría de Finanzas y la misma podrá delegar esta facultad en el personal que estime pertinente para hacer huso de las medidas de control y vigilancia que considere necesarias para el fiel cumplimiento de lo establecido en este capítulo.
+Se autoriza a la Secretaría de Finanzas y la misma podrá delegar esta facultad en el personal que estime pertinente para hacer uso de las medidas de control y vigilancia que considere necesarias para el fiel cumplimiento de lo establecido en este capítulo.
 
 Asimismo, establecerá las medidas reglamentarias conducentes para el debido control y comprobación del destino de los productos agrícolas que vayan a ser transformados industrialmente en el Estado.
 
@@ -7320,3 +7324,15 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, en el portal electrónico del Poder Legislativo del Estado y en dos diarios de mayor circulación en el Estado para su conocimiento general.
+
+P.O. DE 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- La presente Ley entrará en vigor el 1º de enero del año 2017.
+
+SEGUNDO.- Se abroga la Ley de Hacienda del Estado de Guerrero número 428.
+
+TERCERO. Comuníquese la presente Ley al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
