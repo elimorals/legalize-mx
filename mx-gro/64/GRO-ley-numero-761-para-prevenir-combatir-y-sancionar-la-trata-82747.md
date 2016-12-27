@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-761-para-prevenir-combatir-y-sancionar-la-trata-8274
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-26"
-last_updated: "2011-08-26"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 761 PARA PREVENIR, COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE GUERRERO
 
-LEY NUMERO 761 PARA PREVENIR COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE GUERRERO
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY NÚMERO 417 PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA DE LAS VÍCTIMAS, OFENDIDOS Y TESTIGOS DE ESTOS DELITOS EN EL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY NÚMERO 761 PARA PREVENIR COMBATIR Y SANCIONAR LA TRATA DE PERSONAS EN EL ESTADO DE GUERRERO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 26 de agosto de 2011.
 
@@ -920,3 +922,23 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HUMBERTO SALGADO GÓMEZ.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 417 PARA PREVENIR Y ERRADICAR LA TRATA DE PERSONAS Y PARA LA PROTECCIÓN, ATENCIÓN Y ASISTENCIA DE LAS VÍCTIMAS, OFENDIDOS Y TESTIGOS DE ESTOS DELITOS EN EL ESTADO DE GUERRERO”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Se abroga la Ley Número 761 para Prevenir, Combatir y Sancionar la Trata de Personas en el Estado de Guerrero, publicada en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, el viernes 26 de agosto de 2011. Los asuntos iniciados previo a la vigencia de la presente Ley, se seguiran conforme a la legislación vigente al inicio del procedimiento.
+
+TERCERO.- La Comisión Interinstitucional para la Prevención, Erradicación, Protección y Asistencia a las Víctimas, Ofendidos y Testigos de Trata de Personas en el Estado de Guerrero, deberá instalarse dentro de los sesenta días naturales siguientes a la entrada en vigor de la presente Ley.
+
+CUARTO.- La Comisión Interinstitucional para la Prevención, Erradicación, Protección y Asistencia a las Víctimas, Ofendidos y Testigos de Trata de Personas en el Estado de Guerrero, deberá elaborar y presentar, dentro de los sesenta días naturales siguientes al de su instalación, el Programa Estatal a que se refiere el artículo 5 fracción XIV de la presente Ley, para su aplicación inmediata.
+
+QUINTO.- El Reglamento de la presente Ley, deberá expedirse por el Titular del Ejecutivo del Estado, dentro de los noventa días siguientes a la entrada en vigor, para lo cual, la Comisión Interinstitucional para la Prevención, Erradicación, Protección y Asistencia a las Víctimas, Ofendidos y Testigos de Trata de Personas en el Estado de Guerrero, deberá elaborar y presentar el proyecto correspondiente.
+
+SEXTO.- Se autoriza al Ejecutivo Estatal, a través de la Secretaría de Finanzas y Administración, para que realice las asignaciones y trasferencias presupuestarias para el cumplimiento de la presente Ley.
+
+SÉPTIMO.- Los H. Ayuntamientos Municipales, deberán prever en su Presupuesto de Egresos, para el ejercicio fiscal 2017, los recursos financieros, materiales y humanos necesarios para la aplicación de la presente Ley.
