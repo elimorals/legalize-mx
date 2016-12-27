@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-406
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-08-13"
-last_updated: "2015-04-10"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO -- ANTES LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO --
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 167, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EMITE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO, PUBLICADA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 13 de agosto del 2004.
 
@@ -3230,3 +3232,17 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de
 Artículo Segundo. Las comisiones de Aguas y de Participación Ciudadana y Gestión Social, continuarán en funciones hasta concluir el periodo de ejercicio de la Sexagésima Segunda Legislatura del Congreso del Estado.
 
 Artículo Tercero. Para efecto del cómputo del término del encargo del Secretario General actual, se considerará la fecha de su nombramiento original.
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 167, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE EMITE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el 1 de enero del 2017.
+
+Artículo Segundo. Se abroga la Ley Orgánica del Poder Legislativo del Estado de Guanajuato, expedida por la Quincuagésima Novena Legislatura contenida en el Decreto Legislativo número 82 y publicada en el Periódico Oficial del Gobierno del Estado, número 130, tercera parte, de 13 de agosto de 2004.
+
+Artículo Tercero. En un plazo no mayor de sesenta días la Junta de Gobierno y Coordinación Política, deberá proponer una terna para ocupar la titularidad de la Contraloría Interna del Poder Legislativo al Pleno del Congreso del Estado de conformidad con el presente Decreto.
+
+El titular de la Contraloría Interna que haya sido nombrado con antelación a la entrada en vigor del presente Decreto, continuará como titular del misma (sic), hasta en tanto el Congreso del Estado realice la nueva designación, atendiendo al procedimiento establecido en el presente Decreto, sin perjuicio de que pueda ser propuesto dentro de la terna.
+
+Artículo Cuarto. El Congreso del Estado deberá aprobar los lineamientos de Parlamento Abierto, los lineamientos del sistema electrónico del Poder Legislativo del Estado de Guanajuato, los lineamientos para el desarrollo de actividades de cabildeo, los lineamientos de medios remotos de comunicación electrónica y demás lineamientos y manuales internos, en un plazo de noventa días contados a partir de la entrada en vigor del presente decreto.
