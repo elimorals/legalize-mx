@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2016-04-09"
+last_updated: "2016-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -231,7 +231,7 @@ XIII.- Establecimientos de hospedaje;
 
 XIV.- Transporte estatal y municipal;
 
-XV.- Gasolinerías (sic);
+XV.- Gasolinerías;
 
 XVI.- Vendedores ambulantes;
 
@@ -1331,6 +1331,8 @@ El Estado en coordinación con las dependencias y entidades públicas competente
 
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
 ### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
@@ -1345,7 +1347,7 @@ El Estado y la Secretaría, como autoridades sanitarias en sus respectivos ámbi
 
 ###### ARTICULO 115.
 
-El Estado en coordinación con las Instituciones del Sector Salud y la Secretaría llevará a cabo programas o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la seguridad general en Yucatán o de la República. De la misma manera, realizará actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
+El Gobierno del Estado, en coordinación con las autoridades federales y municipales competentes, llevará a cabo programas, acciones o campañas temporales o permanentes, para el control o erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la seguridad general en Yucatán o de la República. De la misma manera, realizará actividades de vigilancia epidemiológica, de prevención y control de las siguientes enfermedades transmisibles:
 
 I.- Cólera, Fiebre Tifoidea, Paratifoidea, Shigelosis, Amibiasis, Hepatitis Virales y otras enfermedades del aparato digestivo;
 
@@ -1357,7 +1359,9 @@ IV.- Difteria, Tosferina, Tétanos, Sarampión, Poliomielitis, Rubeola y Paratid
 
 V.- Rabia, Peste, Brucelosis y otras Zoonosis. En estos casos el Estado coordinará sus servicios con la Secretaría de Agricultura y Recursos Hidráulicos;
 
-VI.- Fiebre amarilla, Dengue y otras enfermedades virales transmisibles por artrópodos;
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2016)</small>
+
+VI.- Fiebre amarilla, dengue, chikunguña, zika y otras enfermedades transmitidas por mosquitos;
 
 VII.- Paludismo, Tifo, Fiebre Recurrente Transmitida por piojo, otras Rickettsiosis, Leishmaniasis, Tripanosomiasis y Onchocercosis;
 
@@ -1433,9 +1437,11 @@ Las Autoridades no Sanitarias, cooperarán en el ejercicio de la acción para co
 
 Los profesionales, técnicos y auxiliares de la salud al tener conocimiento de un caso de enfermedad transmisible, están obligados a tomar las medidas necesarias de acuerdo con la naturaleza y características del padecimiento aplicando los recursos a su alcance para proteger la salud individual y colectiva.
 
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 122.
 
-Los trabajadores de la salud, del Estado, así como los de otras instituciones facultadas por las autoridades sanitarias, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local o casa habitación para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán de estar debidamente acreditados por alguna de las Autoridades Competentes, en los términos de las disposiciones aplicables.
+Los trabajadores de la salud del Estado así como los de otras instituciones facultadas por las autoridades sanitarias, por necesidades técnicas de los programas específicos de prevención y control de enfermedades y por situaciones que pongan en peligro la salud de la población, podrán acceder al interior de todo tipo de local, casa-habitación o inmueble, habitado o deshabitado, para el cumplimiento de actividades encomendadas a su responsabilidad, para cuyo fin deberán de estar debidamente acreditados por alguna de las autoridades competentes, en los términos de las disposiciones aplicables.
 
 ###### ARTICULO 123.
 
@@ -3298,3 +3304,23 @@ El Gobernador deberá expedir, dentro de los treinta días naturales siguientes 
 Cuarto. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 424/2016 POR EL QUE SE EXPIDE LA LEY PARA LA PREVENCIÓN Y CONTROL DE ENFERMEDADES TRANSMITIDAS POR MOSQUITOS EN EL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY DE SALUD DEL ESTADO DE YUCATAN”.]
+
+Entrada en vigor
+
+Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Instalación
+
+Segundo. El Consejo Interinstitucional para la Prevención y Control de las Enfermedades Transmisibles por el Mosquito en el Estado de Yucatán deberá instalarse en un plazo de sesenta días naturales contado a partir de la entrada en vigor de este artículo.
+
+Expedición del reglamento interno
+
+Tercero. El Consejo Interinstitucional para la Prevención y Control de las Enfermedades Transmisibles por el Mosquito en el Estado de Yucatán deberá de expedir su reglamento interno dentro de un plazo de ciento veinte días naturales contado a partir de su instalación.
+
+Programa especial
+
+Cuarto. El titular del Poder Ejecutivo del estado deberá expedir dentro de los ciento ochenta días naturales contados a partir de la instalación del Consejo Interinstitucional para la Prevención y Control de las Enfermedades Transmisibles por el Mosquito en el Estado de Yucatán, el Programa Especial de Prevención y Control de las Enfermedades Transmisibles por el Mosquito en el Estado de Yucatán.
