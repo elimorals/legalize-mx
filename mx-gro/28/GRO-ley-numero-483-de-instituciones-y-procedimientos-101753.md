@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-483-de-instituciones-y-procedimientos-101753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2016-09-13"
+last_updated: "2016-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el lunes 30 de junio de 2014.
 
@@ -1461,7 +1461,9 @@ XVII. Abstenerse de realizar afiliaciones colectivas de ciudadanos;
 
 XVIII. Garantizar el registro de candidaturas a diputados, planilla de ayuntamientos y lista de regidores, así como las listas a diputados por el principio de representación proporcional, con formulas compuestas por propietario y suplente del mismo género, observando en todas la paridad de género y la alternancia;
 
-Para el efecto de lo anterior, en candidaturas para Ayuntamientos, el candidato a síndico deberá ser de género distinto a presidente, continuando la alternancia en la lista de regidores que se iniciará con un candidato de género distinto al síndico o segundo síndico;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Para efecto de lo anterior, los partidos políticos garantizarán la paridad de género vertical y horizontal en la postulación de candidaturas para ayuntamientos; asimismo, el candidato a síndico deberá ser de género distinto al del presidente, continuando la alternancia en la lista de regidores que se iniciará con un candidato de género distinto al síndico o segundo síndico;
 
 XIX. Elaborar y entregar los informes de origen y uso de recursos a que se refiere la Ley General de Partidos, esta Ley y demás disposiciones aplicables;
 
@@ -1693,7 +1695,9 @@ Los partidos políticos locales y nacionales tendrán derecho al financiamiento 
 
 a) Para el sostenimiento de actividades ordinarias permanentes:
 
-I. El Consejo General del Instituto Electoral, determinará anualmente el monto total por distribuir entre los partidos políticos locales y nacionales conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral de la Entidad, con corte a julio de cada año, por el sesenta y cinco por ciento del salario mínimo diario vigente en la Capital del Estado;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+I. El Consejo General del Instituto Electoral, determinará anualmente el monto total por distribuir entre los partidos políticos locales y nacionales conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral de la Entidad, con corte a julio de cada año, por el sesenta y cinco por ciento de la Unidad de Medida y Actualización;
 
 II. El resultado de la operación señalada en el inciso anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá en un 30% de manera igualitaria y el 70% restante en proporción al número de votos obtenidos por cada partido político en la elección inmediata anterior local de diputados por el principio de mayoría relativa;
 
@@ -4735,7 +4739,9 @@ Las coaliciones para registrar candidaturas a diputados de representación propo
 
 La asignación de diputados según el principio de representación proporcional se realizará por el Consejo General del Instituto, siguiendo el procedimiento establecido en los artículos 15, 16, 17 y 18 de esta Ley.
 
-III. Las candidaturas edilicias serán registradas por planillas que estarán formadas por los candidatos a Presidente y Síndico o Síndicos y una lista de candidatos a regidores de representación proporcional, por cada propietario se registrará un suplente del mismo género, en la cual los partidos promoverán y garantizaran la paridad de género en la postulación de candidaturas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+III. Las candidaturas edilicias serán registradas por planillas que estarán formadas por los candidatos a Presidente y Síndico o Síndicos y una lista de candidatos a regidores de representación proporcional, por cada propietario se registrará un suplente del mismo género, los partidos políticos garantizarán la paridad de género vertical y horizontal en la postulación de candidaturas.
 
 Las coaliciones para registrar sus candidaturas acreditarán que las asambleas u órganos equivalentes correspondientes aprobaron:
 
@@ -4981,7 +4987,9 @@ I. Las personas físicas, empresas u organizaciones que deseen realizar encuesta
 
 II. El día de la jornada electoral sólo podrán realizar encuestas de salida las empresas u organizaciones que hayan sido autorizadas por el Consejo General del Instituto, las cuales deberán cumplir con la normatividad que para ello se establezca, concluida su actividad entregarán al Consejo General copia del estudio completo realizado y los resultados obtenidos;
 
-III. El Consejo General del Instituto para otorgar la autorización de levantar cualquier encuesta, deberá estudiar la metodología que propone el solicitante y fijará una fianza de una cantidad equivalente a diez mil salarios mínimos vigentes en la ciudad capital del Estado, que será otorgada por quien patrocine la realización de este trabajo y depositada en la Secretaría General, la cual garantizará que los resultados de las encuestas no se difundan antes de la hora que para tal efecto determine por acuerdo el Consejo General del Instituto y que las actividades realizadas se hayan ejecutado en cumplimiento a la metodología propuesta para la realización de encuestas, en caso de incumplimiento, la fianza se hará efectiva a favor del patrimonio del Instituto Electoral, sin perjuicio de las demás sanciones aplicables a los infractores;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+III. El Consejo General del Instituto Electoral para otorgar la autorización de levantar cualquier encuesta, deberá estudiar la metodología que propone el solicitante y fijará una fianza de una cantidad equivalente a diez mil de la Unidad de Medida y Actualización que será otorgada por quien patrocine la realización de este trabajo y depositada en la Secretaría General, la cual garantizará que los resultados de las encuestas no se difundan antes de la hora que para tal efecto determine por acuerdo el Consejo General del Instituto Electoral y que las actividades realizadas se hayan ejecutado en cumplimiento a la metodología propuesta para la realización de encuestas, en caso de incumplimiento, la fianza se hará efectiva a favor del patrimonio del Instituto Electoral, sin perjuicio de las demás sanciones aplicables a los infractores.
 
 IV. La encuesta de salida no deberá realizarse en documentos en los que se reproduzcan los emblemas y colores de los partidos políticos, ni en papeletas que tengan similitud con las boletas electorales; y
 
@@ -6359,15 +6367,19 @@ Conocida la queja o la denuncia en la que se especifique la infracción, el Cons
 
 El Colegio de Notarios, la Secretaría General de Gobierno o la autoridad competente que haya conocido del asunto, deberá comunicar al Consejo General del Instituto, el seguimiento y la resolución que se haya emitido en el caso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 410.
 
-Las personas físicas o morales que ordenen, realicen o difundan por si mismas o por tercera persona, encuestas o sondeos de opinión o de salida o conteos rápidos, en contravención a lo dispuesto por el artículo 289 de esta Ley y de la normatividad emitida por el Consejo General del Instituto Electoral, independientemente de lo previsto por ese mismo artículo y lo regulado por la Ley General de Delitos Electorales se harán acreedores (sic) a una sanción de hasta un mil días de salario mínimo general vigente en la capital del Estado.
+Las personas físicas o morales que ordenen, realicen o difundan por si mismas o por tercera persona, encuestas o sondeos de opinión o de salida o conteos rápidos, en contravención a lo dispuesto por el artículo 289 de esta Ley y de la normatividad emitida por el Consejo General del Instituto Electoral, independientemente de lo previsto por ese mismo artículo y lo regulado por la Ley General de Delitos Electorales se harán acreedores (sic) a una sanción de hasta un mil de la Unidad de Medida y Actualización.
 
 Para determinar en su caso, la resolución que corresponda se deberá aplicar el procedimiento administrativo sancionador previsto en esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 411.
 
-En los casos en que los medios de comunicación, impresos y electrónicos infrinjan las disposiciones previstas en esta Ley y en la normatividad secundaria emitida por los órganos del Instituto Electoral, el Consejo General del Instituto integrará un expediente que turnará a la autoridad competente para que determine lo que en derecho corresponda. Independientemente de la sanción que le imponga la autoridad competente, el Consejo General del Instituto podrá imponer una multa de hasta 250 días de salario mínimo general vigente en la capital del Estado.
+En los casos en que los medios de comunicación, impresos y electrónicos infrinjan las disposiciones previstas en esta Ley y en la normatividad secundaria emitida por los órganos del Instituto Electoral, el Consejo General del Instituto integrará un expediente que turnará a la autoridad competente para que determine lo que en derecho corresponda. Independientemente de la sanción que le imponga la autoridad competente, el Consejo General del Instituto podrá imponer una multa de hasta 250 de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 412.
 
@@ -6377,9 +6389,11 @@ El Consejo General del Instituto informará a la Secretaría de Gobernación de 
 
 Cuando el Consejo General del Instituto Electoral tenga conocimiento que algún extranjero se inmiscuya de cualquier forma en los asuntos políticos del Estado durante el proceso electoral, notificará de inmediato para los efectos correspondientes a la Secretaría de Gobernación.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 414.
 
-Las infracciones cometidas por los servidores públicos de los poderes, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente u órgano del gobierno estatal y los Ayuntamientos, independientemente de la responsabilidad en la que incurran será sancionada con multa que irá de los cien a los diez mil salarios mínimos, dependiendo de la gravedad de la falta y de la jerarquía del servidor público que la cometa; además de que el Consejo General del Instituto, estará obligado a dar vista a las autoridades competentes, para la aplicación de la normatividad respectiva.
+Las infracciones cometidas por los servidores públicos de los poderes, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente u órgano del gobierno estatal y los Ayuntamientos, independientemente de la responsabilidad en la que incurran será sancionada con multa que irá de los cien a los diez mil de la Unidad de Medida y Actualización, dependiendo de la gravedad de la falta y de la jerarquía del servidor público que la cometa; además de que el Consejo General del Instituto, estará obligado a dar vista a las autoridades competentes, para la aplicación de la normatividad respectiva.
 
 ###### ARTÍCULO 415.
 
@@ -6421,7 +6435,9 @@ Los partidos políticos, coaliciones, aspirantes, precandidatos, candidatos a ca
 
 I. Con amonestación pública;
 
-II. Con multa de cincuenta a cinco mil días de salario mínimo vigente en la ciudad de Chilpancingo de los Bravo, Guerrero;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+II. Con multa de cincuenta a cinco mil de la Unidad de Medida y Actualización;
 
 En el caso de los partidos políticos si la infracción es a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior.
 
@@ -7116,3 +7132,11 @@ SEGUNDO.- El Instituto Electoral y de Participación Ciudadana del Estado de Gue
 TERCERO.- Publíquese este Decreto en el Periódico Oficial del Estado y en los medios electrónicos de que dispone el Congreso del Estado para la debida y amplia divulgación de este Decreto entre sus destinatarios.
 
 CUARTO.- Remítase este Decreto, al Titular del Poder Ejecutivo para los efectos legales conducentes.
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 424 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 483 DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto, al Titular del Poder Ejecutivo para los efectos constitucionales y legales conducentes
