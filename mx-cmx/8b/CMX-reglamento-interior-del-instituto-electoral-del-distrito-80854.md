@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-electoral-del-distrito-80854"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-15"
-last_updated: "2016-08-12"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80854&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-03-28"
 
 REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 12 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE DICIEMBRE DE 2016.
 
 Acuerdo del Consejo General del Instituto Electoral del Distrito Federal, por el cual se aprueba la propuesta de armonización tanto del Reglamento Interior del Instituto Electoral del Distrito Federal como del Reglamento de Sesiones del Consejo General y Comisiones del Instituto Electoral del Distrito Federal
 
@@ -154,7 +154,7 @@ El personal del Instituto Electoral deberá garantizar, desde el ámbito de su c
 
 Asimismo deberá participar, conforme a sus facultades, en los programas y acciones que garanticen el cumplimiento de la normativa aplicable en materia de igualdad de género y no discriminación.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+(REFORMADO, G.O. 28 DE ABRIL DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 4.
 
@@ -208,15 +208,17 @@ VI. Unidades Técnicas de:
 
 6) Vinculación con Organismos Externos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)</small>
 
-VII. Órgano con autonomía técnica y de gestión:
+VII. Órganos con autonomía técnica y de gestión:
 
-> <small>(REFORMADO, G.O. 12 DE AGOSTO DE 2016)</small>
+(REFORMADO, G.O. 12 DE AGOSTO DE 2016) (REPUBLICADO, G.O. 27 DE DICIEMBRE DE 2016)
 
 1) Contraloría General
 
-2) (DEROGADO, G.O. 12 DE AGOSTO DE 2016)
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2016)</small>
+
+2) Unidad Técnica Especializada de Fiscalización
 
 VIII. Órganos desconcentrados:
 
@@ -230,15 +232,21 @@ Las diversas áreas que componen la estructura del Instituto Electoral, contará
 
 Durante los procesos electorales y procedimientos de participación ciudadana, o cuando se trate de programas y proyectos específicos a desarrollarse en el Distrito Federal, el Instituto Electoral podrá contratar personal eventual para apoyar en el desarrollo de las actividades de las diversas áreas que componen su estructura, considerando en lo conducente, las reglas que para tal efecto establezca el Estatuto del Servicio.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+(REFORMADO, G.O. 28 DE ABRIL DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 5.
 
 Para efectos administrativos y orgánicos las áreas del Instituto Electoral estarán adscritas de acuerdo a lo siguiente:
 
+(REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
+
 I. Consejo General:
 
-1) (DEROGADO, G.O. 12 DE AGOSTO DE 2016)
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2016)</small>
+
+1) Unidad Técnica Especializada de Fiscalización.
+
+(REPUBLICADO, G.O. 27 DE DICIEMBRE DE 2016)
 
 2) Contraloría General.
 
@@ -352,7 +360,7 @@ XVII. Las demás que le confiera la normativa que rige al Instituto Electoral.
 
 #### SECCIÓN SEGUNDA. De la presidencia. Estructura y atribuciones
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+(REFORMADO, G.O. 28 DE ABRIL DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 10.
 
@@ -370,9 +378,9 @@ V. Remitir los asuntos que lleguen a su oficina y sean competencia de los órgan
 
 VI. Instruir a las Direcciones Ejecutivas o Unidades las acciones que considere pertinentes para el correcto funcionamiento del Instituto Electoral;
 
-> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2016)</small>
 
-VII. Autorizar las incidencias de quienes sean titulares de la Secretaría Ejecutiva y Administrativa, así como de la Contraloría General;
+VII. Autorizar las incidencias de quienes sean titulares de la (sic) Secretarías Ejecutiva y Administrativa, y de la Contraloría General así como de la Unidad Técnica Especializada de Fiscalización;
 
 VIII. Convocar y presidir las sesiones de la Junta en términos del reglamento respectivo;
 
@@ -542,7 +550,7 @@ II. Las demás que disponga la normativa del Instituto Electoral.
 
 ### CAPÍTULO IV. De la Secretaría Ejecutiva
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+(REFORMADO, G.O. 28 DE ABRIL DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 21.
 
@@ -584,23 +592,21 @@ XVI. Elaborar, con el apoyo de las áreas implicadas, el engrose señalado en el
 
 XVII. Informar al Consejo General de las resoluciones que emitan los Tribunales Electorales, con relación a los asuntos derivados de actos resueltos por autoridades del Instituto Electoral;
 
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2016)</small>
+XVIII. (DEROGADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
 
-XVIII. En materia de fiscalización, de conformidad con la Ley General, el Código, los Acuerdos y criterios emitidos por el Instituto Nacional y este Reglamento, tendrá las atribuciones siguientes:
+1a. (DEROGADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
 
-1a. La fiscalización relacionada con el origen y destino de los recursos de:
+a) (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
 
-a) Las Agrupaciones Políticas Locales y de las organizaciones de ciudadanas y ciudadanos interesadas en constituirse como Partidos Políticos locales, utilizados para el desarrollo de actividades tendentes a la obtención del registro legal, y
+b) (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
 
-b) Las organizaciones de observación electoral respecto del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con su función.
+2a. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2016)
 
-2a. En caso de delegación, la fiscalización sobre el origen y destino de los recursos de los Partidos Políticos, aspirantes a candidaturas independientes y candidaturas observando las disposiciones que para el efecto emita el Instituto Nacional;
+3a. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2016)
 
-3a. Informar de manera periódica y detallada a la Comisión de Fiscalización, respecto del procedimiento de liquidación del patrimonio de los Partidos Políticos Locales y Agrupaciones Políticas Locales que hubieren perdido su registro;
+4a. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2016)
 
-4a. Generar medidas preventivas, orientadas a favorecer el adecuado registro contable y presentación de informes de los Partidos Políticos Locales, Agrupaciones Políticas Locales, aspirantes y candidaturas independientes y a promover entre ellas la cultura de la rendición de cuentas, en su vertiente de origen, monto y destino de los recursos que emplean, y
-
-5a. Sustanciar, junto con la Comisión de Fiscalización, los procedimientos de Fiscalización en el supuesto de que el Instituto Nacional Electoral delegue dicha facultad.
+5a. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2016)
 
 > <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2016)</small>
 
@@ -616,9 +622,9 @@ XIX. En materia de información pública y protección de datos personales, tend
 
 5a. Difundir, en el sitio de Internet del Instituto Electoral, la información generada por las distintas áreas del mismo, con apego a la Ley de Transparencia.
 
-> <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, G.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XX. Coordinar las Oficinas de Información Pública y la Fiscalización del Instituto Electoral;
+XX. Coordinar la Oficina de Acceso a la Información Pública y Protección de Datos Personales del Instituto Electoral;
 
 > <small>(ADICIONADA, G.O. 12 DE AGOSTO DE 2016)</small>
 
@@ -634,7 +640,7 @@ XXIII. Proporcionar asesoría archivística a los órganos del Instituto Elector
 
 XXIV. Las demás que le confieran el Consejo General y la normativa que rige al Instituto Electoral.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+(REFORMADO, G.O. 28 DE ABRIL DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 22.
 
@@ -686,21 +692,21 @@ I.2.2.4. Departamento de Apoyo Jurídico:
 
 I.2.2.4.1 Analista.
 
-I.3 Oficina de Fiscalización:
+I.3 (DEROGADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
 
-a) Auxiliar de Servicios, y
+a) (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
 
-b) Asistente Administrativo o Administrativa.
+b) (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
 
-I.3.1 Subdirección de Fiscalización:
+I.3.1 (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
 
-I.3.1.1 Departamento de Análisis Contable:
+I.3.1.1 (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
 
-I.3.1.1.1 Analistas.
+I.3.1.1.1 (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
 
-I.3.1.2. Departamento de Fiscalización a Asociaciones Políticas y Asesoría:
+I.3.1.2. (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
 
-I.3.1.2.1 Analistas.
+I.3.1.2.1 (DEROGADO, G.O. 27 DE DICIEMBRE DE 2016)
 
 I.4 Oficialía Electoral y de Partes:
 
@@ -972,13 +978,51 @@ La persona titular de la Contraloría General someterá a la consideración de l
 
 #### SECCIÓN SEGUNDA. De la Unidad Técnica Especializada de Fiscalización
 
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 28.
 
-(DEROGADO, G.O. 12 DE AGOSTO DE 2016)
+De conformidad con la Ley General, el Código, los Acuerdos y criterios emitidos por el Instituto Nacional y este Reglamento, la Unidad Técnica Especializada de Fiscalización tendrá las atribuciones siguientes:
+
+I. La fiscalización relacionada con el origen y destino de los recursos de:
+
+a) Las Agrupaciones Políticas Locales y de las organizaciones de ciudadanas y ciudadanos interesadas en constituirse como Partidos Políticos locales, utilizados para el desarrollo de actividades tendentes a la obtención del registro legal, y
+
+b) Las organizaciones de observación electoral respecto del financiamiento que obtengan para el desarrollo de sus actividades relacionadas directamente con su función.
+
+II. En caso de delegación, la fiscalización sobre el origen y destino de los recursos de los Partidos Políticos, aspirantes a candidaturas independientes y candidaturas observando las disposiciones que para el efecto emita el Instituto Nacional;
+
+III. Informar de manera periódica y detallada a la Comisión de Fiscalización, respecto del procedimiento de liquidación del patrimonio de los Partidos Políticos Locales y Agrupaciones Políticas Locales que hubieren perdido su registro;
+
+IV. Generar medidas preventivas, orientadas a favorecer el adecuado registro contable y presentación de informes de los Partidos Políticos Locales, Agrupaciones Políticas Locales, aspirantes y candidaturas independientes y a promover entre ellas la cultura de la rendición de cuentas, en su vertiente de origen, monto y destino de los recursos que emplean, y
+
+V. Sustanciar, junto con la Comisión de Fiscalización, los procedimientos de Fiscalización en el supuesto de que el Instituto Nacional Electoral delegue dicha facultad.
+
+> <small>(ADICIONADO, G.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 29.
 
-(DEROGADO, G.O. 12 DE AGOSTO DE 2016)
+La estructura de la Unidad Técnica Especializada de Fiscalización es:
+
+I. Titular de la Unidad;
+
+a) Secretaria o Secretario de Unidad
+
+b) Auxiliar de Servicios, y
+
+c) Asistente Administrativo o Administrativa.
+
+I.1 Dirección de Fiscalización:
+
+I.1.1 Subdirección de Fiscalización
+
+I.1.1.1. Departamento de Análisis Contable:
+
+I.1.1.1.1. Analistas.
+
+I.1.1.2. Departamento de Fiscalización a Asociaciones Políticas y Asesoría:
+
+I.1.1.2.1. Analistas.
 
 > <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
 
@@ -1306,11 +1350,11 @@ I.2.2.2.1 Analista.
 
 #### SECCIÓN PRIMERA. De sus atribuciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 36.
 
-Son atribuciones de las y los Titulares de las Unidades:
+Son atribuciones de las y los Titulares de las Unidades, con excepción del o la Titular de la Unidad Técnica Especializada de Fiscalización:
 
 > <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
 
@@ -2102,11 +2146,11 @@ I.2.1.2.1 Analista.
 
 #### SECCIÓN OCTAVA. De la suplencia de las y los Titulares de las Direcciones Ejecutivas, Unidades Técnicas y Contraloría General
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 12 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 47.
 
-Las ausencias de las y los titulares de las Direcciones Ejecutivas y Unidades se sujetarán a lo siguiente:
+Las ausencias de las y los titulares de las Direcciones Ejecutivas y Unidades, así como de la Unidad Técnica Especializada de Fiscalización, se sujetarán a lo siguiente:
 
 > <small>(REFORMADA, G.O. 28 DE ABRIL DE 2016)</small>
 
@@ -2138,15 +2182,19 @@ En este supuesto, la Presidencia del Consejo General deberá informar a la Asamb
 
 Las personas encargadas del despacho recibirán la remuneración salarial que corresponda al cargo o puesto que ocupen. Al término de la encargaduría, deberán reincorporarse a su cargo o puesto de origen.
 
-> <small>(REFORMADO, G.O. 28 DE ABRIL DE 2016)</small>
+(REFORMADO, G.O. 28 DE ABRIL DE 2016) (REPUBLICADO PRIMER PÁRRAFO, G.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 50.
 
 Para los efectos de dar continuidad al Instituto Electoral en la debida atención de los asuntos a su cargo, serán competentes para suplir en la suscripción de los documentos respectivos:
 
+(REPUBLICADA, G.O. 27 DE DICIEMBRE DE 2016)
+
 I. Persona Titular de la Contraloría, titulares de las Subcontralorías;
 
-II. (DEROGADA, G.O. 12 DE AGOSTO DE 2016)
+> <small>(ADICIONADA, G.O. 27 DE DICIEMBRE DE 2016)</small>
+
+II. Persona Titular de la Unidad Técnica Especializada de Fiscalización, titular de su Dirección;
 
 III. Secretaría Ejecutiva, las y los Titulares de las Direcciones Ejecutivas o Titulares de Unidad, que le son adscritas y adscritos en el ámbito de sus respectivas competencias;
 
@@ -2547,3 +2595,15 @@ CUARTO. Se derogan las disposiciones que se opongan a este Reglamento.
 QUINTO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
 
 SEXTO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+
+G.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL POR EL QUE, EN CUMPLIMIENTO AL ACUERDO IDENTIFICADO CON LA CLAVE ACU-67-16 Y A LA SENTENCIA DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL DICTADA EN EL EXPEDIENTE TEDF-JEL-036/2016, SE APRUEBAN REFORMAS AL REGLAMENTO INTERIOR DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL".]
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Remítase para su publicación a la Gaceta Oficial de la Ciudad de México, dentro del plazo de diez días hábiles contados a partir de su aprobación.
+
+TERCERO. Publíquese de inmediato en los estrados del Instituto Electoral, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de Internet www.iedf.org.mx
+
+CUARTO. Se derogan las disposiciones que se opongan a este Reglamento.
