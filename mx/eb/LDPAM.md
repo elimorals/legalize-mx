@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2016-11-22"
+last_updated: "2016-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -226,9 +226,11 @@ III. Registro: El Estado a través del Instituto Nacional de las Personas Adulta
 
 El Estado promoverá la publicación y difusión de esta Ley para que la sociedad y las familias respeten a las personas adultas mayores e invariablemente otorguen el reconocimiento a su dignidad.
 
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 8o.
 
-Ninguna persona adulta mayor podrá ser socialmente marginada o discriminada en ningún espacio público o privado por razón de su edad, género, estado físico, creencia religiosa o condición social.
+Ninguna persona adulta mayor podrá ser socialmente marginada o discriminada en ningún espacio público o privado por razón de su origen étnico o nacional, el género, la edad, las discapacidades, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
 ###### Artículo 9o.
 
@@ -907,3 +909,9 @@ D.O.F. 22 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 17 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 8o. DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
