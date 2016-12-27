@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2016-04-20"
+last_updated: "2016-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -217,7 +217,9 @@ II.- Preservar y enriquecer el idioma maya peninsular, los conocimientos y todos
 
 III.- Acceder al uso, disfrute y aprovechamiento sustentable de los recursos naturales, flora y fauna silvestre de los lugares y sitios que habiten o en los que se encuentren ubicadas las comunidades; la libre asociación, y los derechos adquiridos por terceros o integrantes de su comunidad, en los términos y formas que para la propiedad y tenencia de la tierra establece la Constitución Política de los Estados Unidos Mexicanos y demás leyes relativas de la materia; salvo los casos que correspondan a las áreas estratégicas que se encuentran determinadas por las leyes.
 
-IV.- Elegir a sus autoridades y demás representantes que integran su forma de gobierno interno, con arreglo a los procedimientos y prácticas tradicionales; procurando en todo caso, la participación efectiva de las mujeres en igualdad de condiciones respecto a los varones.
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2016)</small>
+
+IV.- Elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfruten y ejerzan su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados. En ningún caso las prácticas comunitarias podrán limitar los derechos político-electorales de los ciudadanos en la elección de sus autoridades municipales.
 
 V.- Los integrantes del pueblo maya serán considerados como sujetos de derecho público, tendrán acceso pleno a la jurisdicción del estado, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, por lo que se deberán tomar en cuenta sus prácticas jurídicas y especificidades culturales, respetando los preceptos de esta Constitución; con derecho a ser asistidos por intérprete y defensor, en su propio idioma y cultura.
 
@@ -4342,3 +4344,15 @@ El Congreso deberá realizar las previsiones y adecuaciones presupuestales neces
 Vigésimo tercero. Derogación tácita
 
 Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
+
+D.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 426/2016 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE DERECHOS POLÍTICO-ELECTORALES DE LOS INDÍGENAS MAYAS DEL ESTADO DE YUCATÁN.”]
+
+Primero. Entrada en vigor.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Derogación tácita.
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
