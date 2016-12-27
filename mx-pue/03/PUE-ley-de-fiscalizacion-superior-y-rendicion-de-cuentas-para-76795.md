@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-para-76795
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-08"
-last_updated: "2015-02-11"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76795&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE FISCALIZACION SUPERIOR Y RENDICION DE CUENTAS PARA EL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA, PUBLICADA EN EL PERIÓDICO OFICIAL EL 27 DE DICIEMBRE DE 2016; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL PRIMERO DE ENERO DEL AÑO DOS MIL DIECISIETE.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en la Sección Quinta al Periódico Oficial del Estado de Puebla, el miércoles 8 de septiembre de 2010.
 
@@ -2546,3 +2548,35 @@ P.O. 11 DE FEBRERO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día primero de enero del año dos mil diecisiete, sin perjuicio de lo dispuesto en los Artículos Transitorios siguientes.
+
+SEGUNDO. Se abroga la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Puebla, y se derogan todas las disposiciones jurídicas y administrativas que contravengan o se opongan al presente Decreto, sin perjuicio de lo dispuesto en los Artículos Transitorios siguientes.
+
+TERCERO. Las referencias, remisiones o contenidos del presente Decreto que estén vinculados con la aplicación de la legislación aplicable en el Estado en materia de responsabilidades administrativas, del Sistema Estatal Anticorrupción y del Tribunal de Justicia Administrativa del Estado, entrarán en vigor cuando los respectivos ordenamientos legales entren en vigor.
+
+CUARTO. Los procedimientos legales, administrativos, de fiscalización superior y demás asuntos que a la entrada en vigor del presente Decreto, se encuentren en trámite ante la Auditoría Superior, o en los que ésta sea parte, continuarán sustanciándose por esta última, hasta su total conclusión, conforme a las disposiciones que se encontraban vigentes al momento de su inicio; disposiciones que también serán aplicables, para los asuntos que deriven o sean consecuencia de los mismos.
+
+Tratándose de las responsabilidades administrativas que deriven de la fiscalización superior de las Cuentas Públicas correspondientes al ejercicio fiscal dos mil dieciséis y al periodo comprendido del primero de enero al dieciocho de julio del año dos mil diecisiete, se emitirán los Informes Generales e Individuales que correspondan conforme a la Ley que se expide mediante el presente Decreto, y el Congreso del Estado Libre y Soberano de Puebla, aprobará en su caso, respecto de los Informes Individuales referidos, los inicios de procedimientos de responsabilidad administrativa que correspondan, en contra de los titulares o representantes legales de las Entidades Fiscalizadas o Sujetos de Revisión respectivos, para que se sustancien y resuelvan en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, y por las autoridades competentes conforme a dicho ordenamiento; disposiciones que también serán aplicables, para los asuntos que deriven o sean consecuencia de los mismos.
+
+QUINTO. Las funciones de fiscalización y revisión de la Auditoría Superior previstas en la Ley que se expide mediante el presente Decreto, entrarán en vigor a partir de las Cuentas Públicas correspondientes al ejercicio de 2016, sin perjuicio de lo previsto en el Artículo Tercero Transitorio de la Declaratoria que contiene el Decreto del Honorable Congreso del Estado, por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado de fecha cuatro de noviembre de dos mil dieciséis.
+
+Para efectos de lo previsto en el artículo 61 de la Ley que se expide mediante el presente Decreto, la obligación correspondiente se cumplirá a partir del mes de diciembre de 2018, respecto de las Cuentas Públicas del ejercicio 2016.
+
+SEXTO. Las funciones de fiscalización y revisión para el ejercicio del año en curso y de ejercicios anteriores, entrarán en vigor a partir de las Cuentas Públicas del ejercicio 2016.
+
+SÉPTIMO. La obligación de presentar las declaraciones de situación patrimonial ante la Auditoría Superior del Estado, continuará conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla, hasta en tanto entre en vigor la Ley de (sic) General de Responsabilidades Administrativas y en su caso, la correspondiente en el Estado.
+
+OCTAVO. El Reglamento Interior de la Auditoría Superior del Estado de Puebla deberá actualizarse dentro de los seis meses siguientes a la entrada en vigor del presente Decreto; hasta en tanto no se modifique, se seguirá aplicando en lo que no se oponga al presente Decreto.
+
+En tanto se emite y entra en vigor el acuerdo a que se refiere el segundo párrafo del artículo 16 de la Ley que se expide mediante el presente, el horario de atención a las entidades fiscalizadas y al público en general, en las instalaciones de la Auditoría Superior del Estado, será el comprendido entre las 8:00 y las 16:00 horas, de lunes a viernes, sin perjuicio de las horas hábiles para actuaciones o diligencias que el citado artículo establece, lo cual, entrará en vigor en la misma fecha que este Decreto.
+
+NOVENO. La actual estructura orgánica y el personal adscrito a la misma de la Auditoría Superior del Estado, continuará en funciones hasta en tanto no se modifique, y las actuaciones de su personal tendrán plena validez.
+
+DÉCIMO. Serán válidos hasta su terminación o conclusión de vigencia, los convenios y contratos que con anterioridad a la entrada en vigor del presente Decreto, hubiere celebrado la Auditoría Superior del Estado, así como las autorizaciones de Auditores Externos, hasta en tanto concluyan su vigencia, se autoricen otras o las realizadas queden sin efectos
+
+DÉCIMO PRIMERO. Se ratifica el contenido de los acuerdos, circulares, guías, manuales de organización y de procedimientos, así como demás normatividad que hubieren emitido las autoridades competentes de la Auditoría Superior, que a la entrada en vigor del presente Decreto se encuentren vigentes, hasta en tanto se sustituyan o dejen sin efectos.
