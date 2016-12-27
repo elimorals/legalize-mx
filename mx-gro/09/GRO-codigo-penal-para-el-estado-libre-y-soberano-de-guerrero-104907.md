@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2016-12-02"
+last_updated: "2016-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -2505,6 +2505,28 @@ Para estimar la cuantía del robo se atenderá al valor comercial de la cosa rob
 
 En los casos de tentativa de robo, cuando no sea posible determinar el monto, la pena será de seis meses a tres años de prisión.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 223 Bis.
+
+Robo equiparado.
+
+También se equiparará al delito de robo y se sancionará con pena de cinco a quince años de prisión y multa de cien a mil veces el valor diario de la unidad de medida y actualización a quienes:
+
+l. Desmantele algún vehículo robado y/o comercialice conjunta o separadamente sus partes;
+
+II. Enajene o trafique de cualquier manera con vehículo o vehículos robados;
+
+III. Detente, posea o custodie ilegítimamente uno o más vehículos robados;
+
+IV. Altere, modifique, sustituya o suprima de cualquier manera los números o letras de series del motor, chasis, carrocería o de cualquier parte, que sirva para identificar uno o más vehículos robados; o
+
+V. Traslade el o los vehículos robados a otra entidad federativa o al extranjero.
+
+A quien aporte recursos económicos o de cualquier índole para la ejecución de las actividades descritas en las fracciones anteriores, se le considerará coparticipe en los términos de este código.
+
+Si en los actos mencionados en este artículo participa algún servidor público que tenga a su cargo funciones de prevención, persecución o sanción del delito o de ejecución de penas, o de carácter administrativo en la expedición de placas y licencias o de cualquier otra relacionada con ésta, además de las sanciones a que se refiere este artículo, se le aumentará pena de prisión hasta en una mitad más y se le inhabilitará para desempeñar cualquier empleo, cargo o comisión público por un período hasta de catorce años.
+
 ###### Artículo 224.
 
 Robo específico
@@ -4204,3 +4226,19 @@ El presente Decreto entrará en vigor a los tres días después de su publicaci�
 ###### ARTÍCULO SEGUNDO.
 
 Comuníquese al Titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales procedentes.
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 416 POR EL QUE SE ADICIONA EL ARTÍCULO 223 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
