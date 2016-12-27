@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-el-estado-de-guanajuato-42425"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2016-07-01"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 27 de diciembre de 2004.
 
@@ -91,9 +91,11 @@ La Federación, el Estado, los Municipios, sus entidades paraestatales y los org
 
 Son responsables solidarios con los contribuyentes de este impuesto, quienes contraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago se realice por conducto de terceros.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 3.
 
-La base de este impuesto es el monto de las erogaciones realizadas por concepto de pago al trabajo personal subordinado, en términos del artículo 1 de esta Ley.
+La base de este impuesto es el monto de las erogaciones realizadas por concepto de pago al trabajo personal subordinado, en términos de lo dispuesto por los artículos 1 y 4, último párrafo de esta Ley.
 
 ###### Artículo 4.
 
@@ -113,7 +115,9 @@ VI.- Gastos de representación y viáticos erogados por cuenta del patrón, comp
 
 VII.- Aportaciones al Sistema de Ahorro para el Retiro, al Instituto del Fondo Nacional para la Vivienda de los Trabajadores, al Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado, al Instituto de Seguridad Social del Estado de Guanajuato, al Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas y las cuotas al Instituto Mexicano del Seguro Social a cargo del patrón;
 
-VIII.- El ahorro, siempre que se integre por un depósito por cantidad igual del trabajador y de la empresa, así como las cantidades otorgadas por el patrón para fines sociales o sindicales;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+VIII.- El ahorro, siempre que se integre por un depósito por cantidad igual del trabajador y del patrón;
 
 IX.- Los premios por asistencia y puntualidad, siempre que el importe de cada uno no rebase el 10% del salario base;
 
@@ -129,6 +133,18 @@ XIII.- Primas de seguros por gastos médicos o de vida; y
 
 XIV.- Las despensas en dinero o en especie, cuando su monto no rebase el 40% de la Unidad de Medida y Actualización diaria.
 
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XV.- Las cantidades otorgadas por el patrón para fines sociales o sindicales.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Para que los conceptos mencionados en este precepto se excluyan de la base para el cálculo de este impuesto, deberán estar debidamente registrados en la contabilidad del patrón.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Los excedentes de los límites previstos en las fracciones VIII, IX, X y XIV se integrarán a la base de cálculo de este impuesto.
+
 ###### Artículo 5.
 
 Este impuesto se determinará de acuerdo con la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
@@ -141,19 +157,21 @@ Este impuesto se causará en el momento en que se realicen las erogaciones que c
 
 El pago que realicen los contribuyentes de este impuesto se entenderá como definitivo.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-Los contribuyentes que hayan presentado una declaración en ceros, quedarán relevados de esta obligación en los periodos subsecuentes, hasta en tanto no exista impuesto a pagar o saldo a favor en el mismo ejercicio fiscal.
+Los contribuyentes deberán presentar sus declaraciones mensuales definitivas en términos de lo dispuesto en el primer párrafo del presente artículo, aun cuando no exista impuesto a pagar y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-El contribuyente que tenga diversas sucursales en el territorio del Estado, podrá optar por realizar un solo pago concentrado por todas sus oficinas en una declaración, presentando aviso a la autoridad fiscal para ejercer la opción, dentro de los primeros treinta días del inicio del ejercicio fiscal, acompañado de una relación de todas las sucursales con que cuente, indicando para cada una, su domicilio y número de empleados.
+El contribuyente que tenga diversas sucursales en el territorio del Estado, deberá de presentar en una declaración el pago concentrado por todas sus sucursales que tenga registradas ante el Registro Estatal de Contribuyentes.
 
-Los contribuyentes que realicen pagos concentrados deberán tener un solo registro por la matriz y sus sucursales.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+Los contribuyentes deberán tener un solo registro por la matriz y sus sucursales que se encuentren dentro del territorio del Estado.
 
-En caso de que se modifique el número de sucursales, se deberá presentar un aviso de cambio de dicha situación dentro de los veinte días siguientes al en que se de el supuesto.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+En caso de que se modifique el número de sucursales, se deberá presentar un aviso de cambio de dicha situación dentro de los quince días siguientes al en que se dé el supuesto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -173,15 +191,15 @@ Los contribuyentes a que se refieren este Capítulo tendrán las obligaciones si
 
 I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes;
 
-II.- Llevar la contabilidad de conformidad con el Código Fiscal para el Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+II.- Llevar los libros, registros, documentación que establezcan las leyes fiscales del Estado y sistemas de contabilidad, de conformidad con el Código Fiscal para el Estado de Guanajuato;
 
 III.- Presentar declaraciones; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-IV.- Presentar ante las oficinas autorizadas a más tardar el 28 de febrero de cada año, la información sobre las personas a las que les hayan efectuado pagos por concepto de remuneraciones, en la forma oficial que dé a conocer la Secretaría de Finanzas, Inversión y Administración.
+IV.- Presentar a más tardar el 28 de febrero de cada año, la información sobre las personas a las que les hayan efectuado pagos por concepto de remuneraciones, mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -199,7 +217,9 @@ Sin perjuicio de las obligaciones dispuestas en el artículo anterior, los contr
 
 La Secretaría de Finanzas, Inversión y Administración podrá estimar las erogaciones de los sujetos de este impuesto en los siguientes casos:
 
-I.- Cuando no presenten sus declaraciones, no lleven los libros o registros a que legalmente están obligados.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+I.- Cuando no presenten sus declaraciones, no lleven los libros, registros, documentación que establezcan las leyes fiscales del Estado y sistemas de la contabilidad a que legalmente están obligados.
 
 II.- Cuando por los informes que se obtengan se ponga de manifiesto que se han efectuado erogaciones gravadas que exceden del 3% de las declaradas por el causante.
 
@@ -301,7 +321,9 @@ Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisional
 
 El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas del mismo periodo. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
 
-Los contribuyentes que hayan presentado una declaración en ceros, quedarán relevados de esta obligación en los periodos subsecuentes, hasta en tanto no exista impuesto a pagar o saldo a favor en el mismo ejercicio fiscal.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Los contribuyentes deberán presentar sus declaraciones mensuales provisionales en términos de lo dispuesto en el primer párrafo del presente artículo, aun cuando no exista impuesto a pagar o saldo a favor y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
 
 Contra el pago provisional determinado conforme a este artículo, se acreditarán los pagos provisionales y el impuesto retenido del mismo ejercicio efectuados con anterioridad.
 
@@ -309,13 +331,17 @@ Cuando los contribuyentes presten servicios profesionales a personas morales, é
 
 Cuando los contribuyentes presten servicios profesionales a personas morales, y aquéllos tengan domicilio fiscal dentro del territorio del. Estado, la retención por parte de las personas morales a que hace referencia el presente artículo, se hará por el cincuenta por ciento del monto que resulte de aplicar la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, sin deducción alguna.
 
-Las personas que efectúen las retenciones a que se refiere el presente artículo, deberán presentar declaración ante las oficinas autorizadas a más tardar el día 28 de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario inmediato anterior.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Las personas que efectúen las retenciones a que se refiere el presente artículo deberán presentar declaración a más tardar el día 28 de febrero de cada año, mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario inmediato anterior.
 
 El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales y el impuesto retenido durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 17.
 
-Quienes en el ejercicio obtengan en forma esporádica ingresos derivados de la prestación de servicios profesionales cubrirán como pago provisional a cuenta del impuesto anual el monto que resulte de aplicar la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, sobre los ingresos percibidos, sin deducción alguna. El pago provisional se hará mediante declaración que presentarán ante las oficinas autorizadas dentro de los 15 días siguientes a la obtención del ingreso. Estos contribuyentes quedarán relevados de la obligación de llevar libros y registros.
+Quienes en el ejercicio obtengan en forma esporádica ingresos derivados de la prestación de servicios profesionales cubrirán como pago provisional a cuenta del impuesto anual el monto que resulte de aplicar la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, sobre los ingresos percibidos, sin deducción alguna. El pago provisional se hará mediante declaración que presentarán dentro de los 15 días siguientes a la obtención del ingreso mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general. Estos contribuyentes quedarán relevados de la obligación de llevar la contabilidad.
 
 Cuando el ingreso percibido en forma esporádica derive de los pagos efectuados por una persona moral, el contribuyente que realice el pago a que se refiere el párrafo anterior, podrá acreditar contra éste la retención efectuada en los términos del artículo anterior.
 
@@ -327,7 +353,9 @@ Los contribuyentes, personas físicas sujetos al pago del impuesto establecido e
 
 I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes;
 
-II.- Llevar la contabilidad de conformidad con el Código Fiscal para el Estado de Guanajuato, o bien, llevar un libro de ingresos y egresos y de registro de inversiones y deducciones;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+II.- Llevar los libros, registros, documentación que establezcan las leyes fiscales del Estado y sistemas de contabilidad, de conformidad con el Código Fiscal para el Estado de Guanajuato;
 
 III.- Expedir y conservar comprobantes que acrediten los ingresos que perciban, mismos que deberán reunir los requisitos establecidos en el Código Fiscal para el Estado de Guanajuato.
 
@@ -359,13 +387,17 @@ Los contribuyentes a que se refiere esta Sección, efectuarán pagos provisional
 
 El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el mes por el que declara, las deducciones del mismo periodo, a que se refiere el artículo anterior. Al resultado que se obtenga, se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, acreditándose el impuesto retenido durante el periodo.
 
-Los contribuyentes que hayan presentado una declaración en ceros, quedarán relevados de esta obligación en los periodos subsecuentes, hasta en tanto no exista impuesto a pagar o saldo a favor en el mismo ejercicio fiscal.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Los contribuyentes deberán presentar sus declaraciones mensuales provisionales en términos de lo dispuesto en el primer párrafo del presente artículo, aun cuando no exista impuesto a pagar o saldo a favor y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
 
 Tratándose de subarrendamiento, sólo se considerará la deducción por el importe de las rentas del mes que pague el subarrendador al arrendador.
 
 Cuando los ingresos a que se refiere esta Sección se obtengan por pagos que efectúen las personas morales con domicilio fiscal dentro del territorio del Estado de Guanajuato, éstas deberán retener por concepto del impuesto correspondiente, el equivalente al cincuenta por ciento del monto que resulte de aplicar la tasa establecida para dicho tributo en la Ley de Ingresos para el Estado de Guanajuato; sin deducción alguna, debiendo proporcionar a los contribuyentes constancia de la retención; dichas retenciones deberán enterarse en el mismo periodo que se establece para el pago de éste impuesto.
 
-Las personas que efectúen las retenciones a que se refiere el párrafo anterior, deberán presentar declaración ante las oficinas autorizadas a más tardar el día 28 de febrero de cada año, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en .el año de calendario inmediato anterior.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Las personas que efectúen las retenciones a que se refiere el párrafo anterior, deberán presentar declaración a más tardar el día 28 de febrero de cada año, mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general, proporcionando la información correspondiente de las personas a las que les hubieran efectuado retenciones en el año de calendario inmediato anterior.
 
 El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo periodo. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales y el impuesto retenido durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente.
 
@@ -375,7 +407,9 @@ Los contribuyentes que obtengan ingresos de los señalados en esta Sección, ade
 
 I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes;
 
-II.- Llevar la contabilidad de conformidad con el Código Fiscal para el Estado de Guanajuato, o bien, llevar un solo libro de ingresos, egresos y de registro de inversiones y deducciones;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+II.- Llevar los libros, registros, documentación que establezcan las leyes fiscales del Estado y sistemas de contabilidad, de conformidad con el Código Fiscal para el Estado de Guanajuato;
 
 III.- Expedir comprobantes por las contraprestaciones recibidas, mismos que deberán reunir los requisitos establecidos en el Código Fiscal para el Estado de Guanajuato;
 
@@ -397,11 +431,11 @@ Las personas físicas no residentes en el Estado que tengan uno o varios estable
 
 En lo relativo a los ingresos, deducciones y pérdidas fiscales se atenderá, adicionalmente a lo previsto en esta Ley, a lo establecido en el apartado correspondiente a Disposiciones Generales y al Capítulo II, Secciones I, II y Capítulo X, ambos del Título IV y al Título VII, de la Ley del Impuesto Sobre la Renta.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 25.
 
-Los contribuyentes a que se refiere el artículo 23 de esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el pago.
+Los contribuyentes a que se refiere el artículo 23 de esta Ley, efectuarán pagos provisionales mensuales a cuenta del impuesto del ejercicio, mediante declaración, a más tardar el día 22 del mes inmediato posterior a aquél al que corresponda el pago, mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general.
 
 El pago provisional se determinará restando de la totalidad de los ingresos obtenidos en el periodo comprendido desde el inicio del ejercicio y hasta el último día del mes al que corresponde el pago, las deducciones autorizadas correspondientes al mismo periodo, a que se refiere el artículo anterior y, en su caso, las pérdidas fiscales ocurridas en ejercicios anteriores que no se hubieren disminuido. Al resultado que se obtenga se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato.
 
@@ -409,11 +443,13 @@ Contra el pago provisional determinado conforme a este artículo, se acreditará
 
 Los pagos mensuales efectuados conforme a este artículo, también serán acreditables contra el impuesto del ejercicio.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-Los contribuyentes que hayan presentado una declaración en ceros, quedarán relevados de esta obligación en los periodos subsecuentes, hasta en tanto no exista impuesto a pagar o saldo a favor en el mismo ejercicio fiscal.
+Los contribuyentes deberán presentar sus declaraciones mensuales provisionales en términos de lo dispuesto en el primer párrafo del presente artículo, aun cuando no exista impuesto a pagar o saldo a favor y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
 
-El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo período. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, ante las oficinas autorizadas.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+El impuesto del ejercicio se calculará disminuyendo a la totalidad de los ingresos obtenidos, las deducciones autorizadas correspondientes al mismo período. Al resultado se le aplicará la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato. Contra el impuesto anual calculado en los términos de este párrafo, se podrá acreditar el importe de los pagos provisionales efectuados durante el año de calendario. La declaración anual a que se refiere este párrafo se presentará en el mes de abril del año siguiente, mediante las formas y medios que para tal efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -463,7 +499,9 @@ Los contribuyentes a que se refieren los artículos 23 y 26 de esta Ley, además
 
 I.- Solicitar su inscripción en el Registro Estatal de Contribuyentes;
 
-II.- Llevar la contabilidad de conformidad con el Código Fiscal para el Estado de Guanajuato o en su caso, llevar un solo libro de ingresos, egresos y de registro de inversiones y deducciones, según el régimen bajo el cual tributen; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+II.- Llevar los libros, registros, documentación que establezcan las leyes fiscales del Estado y sistemas de contabilidad, de conformidad con el Código Fiscal para el Estado de Guanajuato; y
 
 III.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2013)
 
@@ -493,15 +531,13 @@ La base para el pago de este impuesto será el precio más alto que resulte entr
 
 Este impuesto se causará y liquidará a la tasa que establezca anualmente la Ley de Ingresos para el Estado de Guanajuato, sobre la base gravable determinada conforme al artículo que antecede.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 33.
 
-El impuesto se pagará dentro de los 15 días siguientes a la adquisición y se liquidará en la Oficina Recaudadora que corresponda, presentando la factura o documento en que se haya hecho constar.
+El impuesto se pagará dentro de los 10 días siguientes a la adquisición y se liquidará mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general, cumpliendo con los requisitos que para tal efecto se establezcan.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-Los contribuyentes acreditarán el pago del impuesto mediante el recibo oficial que expidan las Oficinas Recaudadoras de la Secretaría de Finanzas, Inversión y Administración.
+Los contribuyentes acreditarán el pago del impuesto mediante el comprobante de pago que al efecto se expida en términos de lo dispuesto en el párrafo anterior.
 
 ###### Artículo 34.
 
@@ -559,13 +595,13 @@ Este impuesto se causará en el momento del pago por la prestación del servicio
 
 Este impuesto no se causa por los servicios de albergue o alojamiento prestados por hospitales, clínicas o sanatorios, conventos, asilos, seminarios, internados u orfanatos, casas de huéspedes sin fines turísticos y de beneficencia o asistencia social.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 43.
 
-El impuesto se pagará mediante declaraciones definitivas, a más tardar el día 22 del mes siguiente a aquél en que se perciban las contraprestaciones que dan origen al pago del impuesto.
+El impuesto se pagará mediante declaraciones definitivas, a más tardar el día 22 del mes siguiente a aquél en que se perciban las contraprestaciones que dan origen al pago del impuesto, mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general.
 
-Los contribuyentes que hayan presentado una declaración en ceros, quedarán relevados de esta obligación en los periodos subsecuentes, hasta en tanto no exista impuesto a pagar o saldo a favor en el mismo ejercicio fiscal.
+Los contribuyentes deberán presentar sus declaraciones mensuales definitivas en términos de lo dispuesto en el primer párrafo del presente artículo, aun cuando no exista impuesto a pagar y continuarán haciéndolo en tanto no presenten los avisos que en su caso correspondan para efectos del Registro Estatal de Contribuyentes.
 
 ###### Artículo 44.
 
@@ -575,9 +611,13 @@ Los contribuyentes de este impuesto además de las obligaciones señaladas en el
 
 I.- Solicitar su inscripción al Registro Estatal de Contribuyentes;
 
-II.- Presentar los avisos, documentos, datos o información que le soliciten las autoridades fiscales, dentro de los plazos y en los lugares señalados para tales efectos; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-III.- Llevar los controles contables y administrativos que exija la Ley y acrediten en forma fehaciente las actividades objeto de este impuesto.
+II.- Presentar las declaraciones mensuales definitivas, así como los avisos, documentos, datos o información que le soliciten las autoridades fiscales dentro de los plazos y en los lugares señalados para tales efectos; y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+III.- Llevar los libros, registros, documentación que establezcan las leyes fiscales del estado y sistemas de contabilidad de conformidad con lo establecido para tal efecto en el Código Fiscal para el Estado de Guanajuato.
 
 ###### Artículo 45.
 
@@ -599,11 +639,9 @@ Las infracciones a las disposiciones de este Capítulo se sancionarán en los t�
 
 El 90% de los ingresos que se obtengan de este impuesto, se destinarán por conducto de la dependencia respectiva, a la promoción y difusión de la imagen turística del Estado y municipios de Guanajuato, a la inversión y desarrollo en paraderos turísticos públicos, así como la participación del Estado en los fondos concurrentes con los gobiernos federal y municipales y el sector privado en esta materia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-La Secretaría de Finanzas, Inversión y Administración asignará a la dependencia correspondiente los ingresos captados, dentro de los 30 días siguientes al mes en que se deba pagar este impuesto en la oficina recaudadora.
+La Secretaría de Finanzas, Inversión y Administración asignará a la dependencia correspondiente los ingresos captados, dentro de los 30 días siguientes al mes en que se deba pagar este impuesto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -623,47 +661,63 @@ El 90% de los ingresos obtenidos de la recaudación de este impuesto, se destina
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS DE TRÁNSITO
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS POR SERVICIOS DE MOVILIDAD EN MATERIA DE TRÁNSITO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 49.
 
 Los derechos por la prestación de servicios públicos que presten las diversas dependencias del Gobierno del Estado, se causarán en el momento en que el particular reciba la prestación del servicio o en el momento en que se provoque por parte del Estado el gasto que deba ser remunerado por aquél, salvo el caso en que la disposición que fije el Derecho, señale cosa distinta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 50.
 
-El importe de las cuotas que para cada derecho señala anualmente la Ley de Ingresos respectivamente deberá ser cubierto, en la Oficina Recaudadora con jurisdicción donde se preste el servicio o en el lugar que al efecto señale la Secretaría de Finanzas, Inversión y Administración, salvo lo dispuesto en el Capítulo Tercero de este Título.
+El importe de las tarifas que para cada derecho señala anualmente la Ley de Ingresos deberá ser cubierto, mediante las formas y medios que para tal efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general, salvo lo dispuesto en el Capítulo Tercero de este Título.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 51.
 
-La Dependencia o servidor público que preste el servicio por el cual se paguen los Derechos, procederá la realización del mismo, al presentarle el interesado el recibo que acredite su pago ante la Oficina Recaudadora respectiva; ningún otro comprobante justificará el pago correspondiente.
+La dependencia o servidor público que preste el servicio por el cual se paguen los derechos, procederá a la realización del mismo, cuando el interesado presente el comprobante de pago que al efecto se expida en términos de lo dispuesto en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 51 Bis.
+
+Para realizar los trámites y prestar los servicios previstos en la Ley de Alcoholes para el Estado de Guanajuato y en los demás casos que así lo dispongan los ordenamientos jurídicos aplicables, los interesados deberán acreditar que se encuentran al corriente de sus obligaciones fiscales estatales.
 
 ###### Artículo 52.
 
 Estarán exentos del pago de derechos estatales: la Federación, el Estado y los municipios, salvo disposición expresa en contrario.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ### CAPÍTULO TERCERO. DE LOS DERECHOS POR USO DE CARRETERAS Y PUENTES ESTATALES DE CUOTA
 
 ###### Artículo 53.
 
-Toda persona al adquirir un vehículo, deberá registrarlo a su nombre, presentando el aviso de alta en la Oficina Recaudadora correspondiente a su domicilio, previo el pago de los derechos e impuestos respectivos, dentro de los diez días hábiles siguientes a la fecha de adquisición.
+Toda persona al adquirir un vehículo, deberá registrarlo a su nombre, presentando el aviso de alta mediante las formas y medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general, previo pago de los derechos e impuestos respectivos, dentro de los diez días hábiles siguientes a la fecha de la adquisición.
 
-Los documentos que acrediten el registro e identificación del vehículo deberán ser refrendados anualmente, dentro de los tres primeros meses del año, y en forma simultanea con el pago del Impuesto Sobre Tenencia o Uso de Vehículos.
+Los documentos que acrediten el registro e identificación del vehículo deberán ser refrendados anualmente, dentro de los tres primeros meses de cada año, realizando el pago respectivo mediante las formas y medios que para tal efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 54.
 
-No se dará de alta ni se proporcionarán placas y tarjetas de circulación a vehículos de motor que se encuentren en los siguientes casos:
+No se dará de alta ni se proporcionarán placas metálicas y tarjetas de circulación a vehículos de motor que se encuentren en los siguientes casos:
 
 I.- No inscritos en el Registro Estatal de Vehículos, o no comprueben su inscripción;
 
-II.- Aquellos respecto de los cuales no se acredite haber cubierto el Impuesto Federal sobre Tenencia o Uso de Vehículos, así como los impuestos y derechos estatales que se causen; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+II.- Aquéllos respecto de los cuales no se acredite haber cubierto los impuestos y derechos estatales que se causen;
 
 III.- Aquellos respecto de los cuales no se exhiba la documentación que acredite la propiedad o legítima posesión y, en su caso, el título, concesión o permiso para explotar el servicio público de transporte expedido en los términos de Ley.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+IV.- Cuando los propietarios o legítimos poseedores tengan adeudos con el fisco del Estado de vehículos inscritos en el registro estatal vehicular, hasta que estos se hayan cubierto.
 
 ###### Artículo 55.
 
@@ -687,11 +741,13 @@ VIII.- Recuperación de vehículo robado; y
 
 IX.- Baja ocasionada por destrucción o desarme.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-Los avisos anteriores se presentarán ante la Oficina Recaudadora correspondiente, dentro de los diez días hábiles siguientes a la fecha de realización del supuesto de que se trate, con excepción del aviso de cambio de domicilio, el cual deberá presentarse dentro de los treinta días siguientes.
+Los avisos anteriores se presentarán dentro de los diez días hábiles siguientes a la fecha de realización del supuesto de que se trate, mediante las formas o medios que para el efecto autorice y dé a conocer la Secretaría de Finanzas, Inversión y Administración, a través de disposiciones de carácter general, con excepción del aviso de cambio de domicilio, el cual deberá de presentarse dentro de los treinta días siguientes.
 
-Para obtener la baja definitiva del vehículo en los casos de cambio de propietario, cambio de domicilio fuera del Estado, por destrucción, desarme y por cambio en el servicio a que se destine el vehículo, será preciso comprobar que no se tienen adeudos con el Fisco del Estado y devolver las placas y tarjeta de circulación respectiva.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Para obtener la baja definitiva del vehículo en los casos de cambio de propietario, cambio de domicilio fuera del Estado, por destrucción, desarme y por cambio en el servicio a que se destine el vehículo, será preciso comprobar que no se tienen adeudos con el Fisco del Estado y devolver las placas metálicas y tarjeta de circulación respectiva.
 
 ### CAPÍTULO ÚNICO. DE LA CONTRIBUCIÓN POR EJECUCION DE OBRAS PÚBLICAS
 
@@ -853,7 +909,7 @@ Las obras públicas pueden ser realizadas a iniciativa del Ejecutivo del Estado,
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO ÚNICO. CONTRIBUCIONES DE MEJORAS POR OBRAS PÚBLICAS
 
 ###### Artículo 76.
 
@@ -913,17 +969,25 @@ III.- Cualquier otro acto productivo del Estado de acuerdo con las disposiciones
 
 ## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 83.
 
 Quedan comprendidos dentro de esta clasificación los ingresos que se obtengan por concepto de:
 
-I.- Rezagos;
+I.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2016)
 
-II.- Recargos;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-III.- Multas;
+II.- Recargos derivados o aplicables en relación con aprovechamientos;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+III.- Multas y sanciones económicas, excepto las derivadas por la omisión de pago de contribuciones;
 
 IV.- Reparación de daños renunciada por los ofendidos;
 
@@ -933,25 +997,33 @@ VI.- Donativos y subsidios;
 
 VII.- Herencias y legados;
 
-VIII.- Gastos de ejecución; y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-IX.- Administración de impuestos, originados por la celebración de los convenios respectivos.
+VIII.- Gastos de ejecución derivados o aplicables en relación con aprovechamientos; y
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+IX. Administración de contribuciones, originadas por la celebración de los convenios respectivos.
 
 ###### Artículo 84.
 
 Los aprovechamientos se harán efectivos según proceda en cada caso, atendiendo a la naturaleza y origen del crédito, por medio del procedimiento administrativo de ejecución o por la vía judicial.
 
-Los rezagos por concepto de impuestos, derechos, contribuciones especiales y productos, se liquidarán y cobrarán conforme a las disposiciones legales vigentes en la época en que se causaron.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 85.
 
-Los recargos y gastos de ejecución se causarán conforme a las tasas que se establezcan anualmente en la Ley de Ingresos del Estado.
+Los recargos y los gastos de ejecución de contribuciones o aprovechamientos se causarán conforme a las tasas que se establezcan anualmente en la Ley de Ingresos del Estado.
 
-## TÍTULO SEXTO. DE LAS TRANSFERENCIAS FEDERALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO SEXTO. DE LOS RECURSOS FEDERALES
 
 ###### Artículo 86.
 
-El Estado percibirá las participaciones y las aportaciones federales, en los términos de la Ley de Coordinación Fiscal en materia federal y los convenios que se suscriban para tal efecto.
+El Estado percibirá ingresos provenientes de la Federación por concepto de participaciones, aportaciones y convenios federales, en los términos de la Ley de Coordinación Fiscal en materia federal y de los convenios que se suscriban para tal efecto.
 
 T R A N S I T O R I O S
 
@@ -1020,3 +1092,9 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 171, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY DE HACIENDA PARA EL ESTADO DE GUANAJUATO PARA EL EJERCICIO FISCAL DEL AÑO 2017”.]
+
+Artículo Único. El presente decreto entrará en vigor el 1 de enero de 2017.
