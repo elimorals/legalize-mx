@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-control-del-gas-115749
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-07-25"
-last_updated: "2016-07-25"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115749&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2016-06-13"
 
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE DICIEMBRE DE 2016.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 25 de julio de 2016.
 
@@ -55,25 +55,29 @@ Para los efectos del presente Estatuto, además de las definiciones incluidas en
 
 I. Decreto: El Decreto por el que se crea el Centro, emitido por el Titular del Ejecutivo Federal, publicado en el Diario Oficial de la Federación el 28 de agosto de 2014 y, en su caso, sus modificaciones;
 
-II. Estatuto: El Estatuto Orgánico del Centro Nacional de Control del Gas Natural;
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
-III. Reglamento: El Reglamento de las actividades a que se refiere el Título Tercero de la Ley de Hidrocarburos;
+II. Derechos de Vía: Son los derechos sobre una determinada superficie de terreno que legítima al Centro Nacional de Control del Gas Natural, para mantener el tendido del conjunto de ductos y en su caso instalaciones que forman parte del SNG y SNH y que, por tanto, le permiten su uso y goce, entendido de que en dichos derechos quedan comprendidos los accesos, pasos y demás derechos necesarios para llevar a cabo su inspección y mantenimiento;
 
-IV. SCADA: Sistema de Supervisión, Control y Adquisición de Datos;
+III. Estatuto: El Estatuto Orgánico del Centro Nacional de Control del Gas Natural;
 
-V. Sistemas de Información: Conjunto de componentes o programas construidos con herramientas de software que habilitan una funcionalidad o automatizan un proceso, de acuerdo a requerimientos previamente definidos;
+IV. Reglamento: El Reglamento de las actividades a que se refiere el Título Tercero de la Ley de Hidrocarburos;
 
-VI. Sistemas Industriales: Sistema informático asociado a las Tecnologías Operacionales;
+V. SCADA: Sistema de Supervisión, Control y Adquisición de Datos;
 
-VII. SISTRANGAS: Sistema de Transporte y Almacenamiento Nacional Integrado de Gas Natural;
+VI. Sistemas de Información: Conjunto de componentes o programas construidos con herramientas de software que habilitan una funcionalidad o automatizan un proceso, de acuerdo a requerimientos previamente definidos;
 
-VIII. SNG: Sistema Nacional de Gasoductos;
+VII. Sistemas Industriales: Sistema informático asociado a las Tecnologías Operacionales;
 
-IX. SNH: Sistema Naco-Hermosillo;
+VIII. SISTRANGAS: Sistema de Transporte y Almacenamiento Nacional Integrado de Gas Natural;
 
-X. Tecnologías de Información y Comunicaciones: Comprenden el equipo de cómputo, software y dispositivos de impresión que sean utilizados para almacenar, procesar, convertir, proteger, transferir y recuperar información, datos, voz, imágenes y video, y
+IX. SNG: Sistema Nacional de Gasoductos;
 
-XI. Tecnologías Operacionales: Hardware o software que detecta o genera un cambio a través del control y/o monitoreo de dispositivos físicos, procesos y eventos del Centro.
+X. SNH: Sistema Naco-Hermosillo;
+
+XI. Tecnologías de Información y Comunicaciones: Comprenden el equipo de cómputo, software y dispositivos de impresión que sean utilizados para almacenar, procesar, convertir, proteger, transferir y recuperar información, datos, voz, imágenes y video, y
+
+XII. Tecnologías Operacionales: Hardware o software que detecta o genera un cambio a través del control y/o monitoreo de dispositivos físicos, procesos y eventos del Centro.
 
 ### CAPÍTULO SEGUNDO. OBJETO Y NATURALEZA DEL CENTRO
 
@@ -129,7 +133,9 @@ a) Dirección Ejecutiva Adjunta de Comunicación, Transparencia y Género;
 
 b) Dirección Ejecutiva Adjunta de Mejora de la Gestión, Seguridad y Protección al Medio Ambiente, y
 
-c) Dirección Ejecutiva Adjunta de Órganos Colegiados.
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+c) Dirección Ejecutiva Adjunta de Órganos Colegiados y Vinculación.
 
 II. Unidad de Gestión Técnica y Planeación.
 
@@ -157,9 +163,17 @@ V. Unidad de Finanzas y Administración.
 
 a) Dirección Ejecutiva de Recursos Financieros;
 
-b) Dirección Ejecutiva de Recursos Materiales, y
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
-c) Dirección Ejecutiva de Personal y Desarrollo Organizacional.
+b) Dirección Ejecutiva de Recursos Materiales;
+
+> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+c) Dirección Ejecutiva de Personal y Desarrollo Organizacional, y
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+d) Dirección Ejecutiva de Administración Patrimonial, Derechos de Vía y Seguridad Física.
 
 VI. Unidad de Tecnologías Operacionales y de Información.
 
@@ -477,7 +491,13 @@ VII. Dar seguimiento y coordinar el análisis de la información generada por la
 
 VIII. Coordinar la elaboración de documentos en los que concurra la competencia de más de una Unidad Administrativa del Centro, y
 
-IX. Las demás que le confiera el Director General, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+IX. Fungir como enlace con los Poderes Legislativos federal y locales y, cuando así lo instruya el Director General, con otros entes públicos de los diferentes niveles de gobierno, instituciones y empresas, y
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+X. Las demás que le confiera el Director General, así como las que se señalen en otras disposiciones legales o administrativas.
 
 ###### Artículo 29.
 
@@ -507,9 +527,11 @@ XI. Diseñar, implementar y promover los mecanismos para incentivar el respeto a
 
 XII. Las demás que le confiera la Coordinación General de Planeación y Proyectos, así como las que se señalen en otras disposiciones legales o administrativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 30.
 
-Corresponde a la Dirección Ejecutiva Adjunta de Mejora de la Gestión, Seguridad y Protección al Ambiente, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección Ejecutiva Adjunta de Mejora de la Gestión, Seguridad y Protección al Medio Ambiente, el ejercicio de las siguientes atribuciones:
 
 I. Emitir las directrices y estrategias institucionales en materia de mejora de la gestión, protección ambiental y desarrollo sustentable en el Centro;
 
@@ -537,9 +559,11 @@ XII. Participar en la verificación del impacto ambiental en el desarrollo de lo
 
 XIII. Las demás que le confiera la Coordinación General de Planeación y Proyectos, así como las que se señalen en otras disposiciones legales o administrativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 31.
 
-Corresponde a la Dirección Ejecutiva Adjunta de Órganos Colegiados, el ejercicio de las siguientes atribuciones:
+Corresponde a la Dirección Ejecutiva Adjunta de Órganos Colegiados y Vinculación, el ejercicio de las siguientes atribuciones:
 
 I. Coordinar la integración y entrega de la documentación e información que requiera el Consejo de Administración;
 
@@ -551,9 +575,21 @@ IV. Supervisar y coordinar la operación de los Órganos Colegiados que se encue
 
 V. Expedir copias certificadas, cotejo o compulsa, de los documentos e información que obre en los expedientes relativos a los asuntos de su competencia o necesarios para su integración;
 
-VI. Integrar los informes que deba rendir el Director General en términos de la Ley Federal de las Entidades Paraestatales, su Reglamento y el presente Estatuto, y
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
-VII. Las demás que le confiera la Coordinación General de Planeación y Proyectos, así como las que se señalen en otras disposiciones legales o administrativas.
+VI. Integrar los informes que deba rendir el Director General en términos de la Ley Federal de las Entidades Paraestatales, su Reglamento y el presente Estatuto;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+VII. Coordinar la elaboración de los acuerdos interinstitucionales, en los ámbitos nacional e internacional, que le encomiende el Director General;
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+VIII. Coadyuvar en las actividades de vinculación con los Poderes Legislativos federal y locales y, cuando así lo instruya el Director General, con otros entes públicos de los diferentes niveles de gobierno, instituciones y empresas; y
+
+> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+IX. Las demás que le confiera la Coordinación General de Planeación y Proyectos, así como las que se señalen en otras disposiciones legales o administrativas.
 
 ### CAPÍTULO TERCERO. DE LA UNIDAD DE GESTIÓN TÉCNICA Y PLANEACIÓN Y SUS DIRECCIONES EJECUTIVAS
 
@@ -917,29 +953,63 @@ II. Atender los requerimientos de las Unidades Administrativas en materia de adq
 
 III. Coordinar las solicitudes para comprometer los recursos de ejercicios fiscales subsecuentes en los términos de las disposiciones aplicables;
 
-IV. Suscribir los contratos, convenios y demás instrumentos, en materia de adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con la misma, administración de los bienes muebles e inmuebles;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+IV. Suscribir los contratos, convenios y demás instrumentos, en materia de adquisiciones, arrendamientos, servicios, obra pública y servicios relacionados con la misma, administración de los bienes muebles;
 
 V. Supervisar la elaboración, revisión, integración y ejecución de los programas anuales en materia de adquisiciones, arrendamientos, servicios, obra pública y disposición final de bienes muebles para el desarrollo y operación del Centro, así como presentar dichos programas al Jefe de la Unidad de Finanzas y Administración para su conocimiento y validación;
 
 VI. Iniciar, sustanciar y concluir los procedimientos de terminación anticipada y rescisión administrativa de los contratos y/o convenios, por sí o a solicitud de las Unidades Administrativas en las materias inherentes a esta Dirección;
 
-VII. Coordinar los trámites para la regularización administrativa de los bienes inmuebles del Centro conforme a la normatividad aplicable;
+> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
-VIII. Coordinar la administración y la seguridad física del patrimonio del Centro;
+VII. Coordinar los programas de mantenimiento, conservación y aseguramiento de los bienes muebles del Centro;
 
-IX. Coordinar los programas de mantenimiento, conservación y aseguramiento de los bienes muebles e inmuebles del Centro;
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN X], D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
-X. Autorizar los documentos, trámites, el pago de facturas que se deriven de la ejecución de los contratos bajo su administración, así como los correspondientes al pago de impuestos y derechos conforme a sus atribuciones;
+VIII. Autorizar los documentos, trámites, el pago de facturas que se deriven de la ejecución de los contratos bajo su administración, así como los correspondientes al pago de impuestos y derechos conforme a sus atribuciones;
 
-XI. Coordinar el programa interno de protección civil;
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XII], D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
-XII. Atender, elaborar y presentar en el ámbito de su competencia los informes de rendición de cuentas a las instancias o autoridades correspondientes;
+IX. Atender, elaborar y presentar en el ámbito de su competencia los informes de rendición de cuentas a las instancias o autoridades correspondientes;
 
-XIII. Coordinar la administración de la información documental del Centro, conforme a la normatividad aplicable;
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XIII], D.O.F. 27 DE DICIEMBRE DE 2016)</small>
 
-XIV. Coordinar las acciones para la importación y exportación de mercancías y servicios del Centro, conforme a la normatividad aplicable, y
+X. Coordinar la administración de la información documental del Centro, conforme a la normatividad aplicable;
 
-XV. Las demás que le confiera el Jefe de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XIV], D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+XI. Coordinar las acciones para la importación y exportación de mercancías y servicios del Centro, conforme a la normatividad aplicable, y
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN XV], D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+XII. Las demás que le confiera el Jefe de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 45 Bis.
+
+Corresponde a la Dirección Ejecutiva de Administración Patrimonial, Derechos de Vía y Seguridad Física, el ejercicio de las siguientes atribuciones:
+
+I. Coordinar la estrategia institucional para la administración del patrimonio inmobiliario del Centro y la administración de los Derechos de Vía;
+
+II. Dirigir los procesos de registro y control de los bienes inmuebles propiedad del Centro, así como rendir los informes ante las instancias gubernamentales que correspondan;
+
+III. Dirigir los procesos de regularización de los Derechos de Vía para el uso y ocupación superficial de los terrenos necesarios para el desarrollo de proyectos y/o de los inmuebles que se requieran conforme a la normatividad aplicable;
+
+IV. Diseñar y dirigir los procesos para la atención de reclamaciones derivadas de afectaciones ocasionadas en los Derechos de Vía;
+
+V. Coordinar la estrategia institucional para garantizar la seguridad física de la infraestructura y patrimonio del Centro, así como los programas de protección civil;
+
+VI. Coordinar los programas de mantenimiento y conservación de los bienes inmuebles del Centro;
+
+VII. Actuar como responsable inmobiliario del Centro;
+
+VIII. Atender los requerimientos de entrega o devolución de los bienes inmuebles cuando medie orden de autoridad judicial o administrativa competente o, la entrega del valor de éstos, cuando exista imposibilidad para devolverlos;
+
+IX. Dirigir los procesos para el aseguramiento de los bienes inmuebles e infraestructura del Centro, y
+
+X. Las demás que le confiera el Jefe de Unidad, así como las que se señalen en otras disposiciones legales o administrativas.
 
 ###### Artículo 46.
 
@@ -1147,9 +1217,11 @@ En sus ausencias, el Director General será suplido por el Jefe de la Unidad de 
 
 En toda clase de juicios y procedimientos en que deba intervenir el Director General, incluyendo los de amparo y en materia laboral, será suplido por el Jefe de la Unidad de Asuntos Jurídicos o, en su defecto, por el Director Ejecutivo de lo Contencioso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 58.
 
-En sus ausencias, el Jefe de la Unidad de Gestión Técnica y Planeación será suplido por el Director Ejecutivo de Gestión Técnica, el Director Ejecutivo de Planeación y Concursos de Proyectos y, el Director Ejecutivo de Análisis Económico y de Regulación, en el orden indicado; el Jefe de la Unidad de Transporte y Almacenamiento será suplido por el Director Ejecutivo de Operación, el Director Ejecutivo de Mantenimiento y Seguridad y, el Director Ejecutivo de Servicio a Usuarios y Cumplimiento Regulatorio, en el orden indicado; el Jefe de la Unidad de Asuntos Jurídicos será suplido por el Director Ejecutivo de Normatividad y Consulta y el Director Ejecutivo de lo Contencioso, en el orden indicado; el Jefe de la Unidad de Finanzas y Administración, será suplido por el Director Ejecutivo de Recursos Financieros, el Director Ejecutivo de Recursos Materiales y el Director Ejecutivo de Personal y Desarrollo Organizacional, en el orden indicado; el Jefe de la Unidad de Tecnologías Operacionales y de Información, será suplido por el Director Ejecutivo de Tecnologías Operacionales, el Director Ejecutivo de Sistemas de Información y el Director Ejecutivo de Infraestructura Tecnológica, en el orden indicado.
+En sus ausencias, el Jefe de la Unidad de Gestión Técnica y Planeación será suplido por el Director Ejecutivo de Gestión Técnica, el Director Ejecutivo de Planeación y Concursos de Proyectos y, el Director Ejecutivo de Análisis Económico y de Regulación, en el orden indicado; el Jefe de la Unidad de Transporte y Almacenamiento será suplido por el Director Ejecutivo de Operación, el Director Ejecutivo de Mantenimiento y Seguridad y, el Director Ejecutivo de Servicio a Usuarios y Cumplimiento Regulatorio, en el orden indicado; el Jefe de la Unidad de Asuntos Jurídicos será suplido por el Director Ejecutivo de Normatividad y Consulta y el Director Ejecutivo de lo Contencioso, en el orden indicado; el Jefe de la Unidad de Finanzas y Administración, será suplido por el Director Ejecutivo de Recursos Financieros, el Director Ejecutivo de Recursos Materiales, el Director Ejecutivo de Administración Patrimonial, Derechos de Vía y Seguridad Física y el Director Ejecutivo de Personal y Desarrollo Organizacional, en el orden indicado; el Jefe de la Unidad de Tecnologías Operacionales y de Información, será suplido por el Director Ejecutivo de Tecnologías Operacionales, el Director Ejecutivo de Sistemas de Información y el Director Ejecutivo de Infraestructura Tecnológica, en el orden indicado.
 
 Los demás servidores públicos del Centro, con excepción del Titular del Órgano Interno de Control, serán suplidos en sus ausencias por el servidor público designado para tales efectos por el Jefe de la Unidad o, en su defecto, por el del nivel jerárquico inmediato inferior, de acuerdo a la naturaleza de las funciones de la dirección a la que se encuentren adscritos.
 
@@ -1168,3 +1240,11 @@ PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicac
 SEGUNDO. Se abroga el Estatuto Orgánico del Centro Nacional de Control del Gas Natural, publicado en el Diario Oficial de la Federación el trece de abril de dos mil quince, y su modificación del dieciséis de marzo de dos mil dieciséis.
 
 Ciudad de México, a 13 de julio de 2016.- Con fundamento en los artículos 59, fracción XII, de la Ley Federal de las Entidades Paraestatales y Vigésimo Tercero, fracción VII, del Decreto por el que se crea el Centro Nacional de Control del Gas Natural, y en cumplimiento al Acuerdo número CA-024/2014, emitido por el Consejo de Administración en su sesión 12 ordinaria, celebrada el día 13 de junio de 2016, firma el Director General del Centro Nacional de Control del Gas Natural, David Madero Suárez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DE LAS “MODIFICACIONES AL ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DEL GAS NATURAL”.]
+
+ÚNICO.- La presente modificación al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
