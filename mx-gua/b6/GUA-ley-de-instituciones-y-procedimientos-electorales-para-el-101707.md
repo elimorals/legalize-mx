@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-instituciones-y-procedimientos-electorales-para-el-10170
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-27"
-last_updated: "2016-07-01"
+last_updated: "2016-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de junio de 2014.
 
@@ -1243,7 +1243,13 @@ XXXVI. Organizar durante las campañas al menos un debate entre los candidatos a
 
 XXXVII. Aprobar el calendario y el plan integral del proceso electoral local, a más tardar sesenta días antes de su inicio, y de los procesos extraordinarios o especiales que fueren convocados, y
 
-XXXVIII. Las demás que le confiera esta Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XXXVIII. Presentar al Congreso para su aprobación, la propuesta de remoción del titular del Órgano Interno de Control, en los términos de esta ley y demás disposiciones; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XXXIX. Las demás que le confiera esta Ley.
 
 ###### Artículo 93.
 
@@ -2117,7 +2123,13 @@ XII. Establecer criterios de aplicación de la ley;
 
 XIII. Ordenar la publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, los puntos resolutivos contenidos en las resoluciones definitivas que se refieran a los cargos de elección popular, y
 
-XIV. Las demás que sean necesarias para su correcto funcionamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XIV. Presentar al Congreso para su aprobación, la propuesta de remoción del titular del Órgano Interno de Control, en los términos de esta ley y demás disposiciones; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XV. Las demás que sean necesarias para su correcto funcionamiento.
 
 ###### Artículo 165.
 
@@ -5269,7 +5281,7 @@ XI. En los demás casos en que la improcedencia derive de alguna disposición de
 
 Las causales de improcedencia deberán ser examinadas de oficio.
 
-### Capítulo I. De la Contraloría, las Responsabilidades Administrativas y el Procedimiento para su Determinación
+### Capítulo I. Del órgano interno de control, las Responsabilidades Administrativas y el Procedimiento para su Determinación
 
 #### Sección Única
 
@@ -5439,15 +5451,21 @@ Dichas violaciones deberán acreditarse de manera objetiva y material. Se presum
 
 En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ## TÍTULO NOVENO
 
-DE LA CONTRALORÍA, LAS RESPONSABILIDADES ADMINISTRATIVAS Y PROCEDIMIENTOS ADMINISTRATIVOS Y LABORALES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO Y DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
+DEL ÓRGANO INTERNO DE CONTROL, LAS RESPONSABILIDADES ADMINISTRATIVAS Y PROCEDIMIENTOS ADMINISTRATIVOS Y LABORALES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ELECTORAL DEL ESTADO DE GUANAJUATO Y DEL TRIBUNAL ESTATAL ELECTORAL DE GUANAJUATO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 437.
 
 Para los efectos del presente Capítulo, serán considerados como servidores públicos, todos los funcionarios o empleados, y en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Instituto Estatal que no formen parte del Servicio Profesional Electoral Nacional en términos de la Ley General y el Estatuto que sea expedido por el Instituto Nacional, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-El titular de la Contraloría del Instituto Estatal y el personal adscrito a la misma, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución del Estado y esta Ley confieren a los funcionarios del Instituto Estatal.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Los titulares de los Órganos Internos de Control y el personal adscrito a los mismos, cualquiera que sea su nivel, están impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y ejercicio de atribuciones de naturaleza electoral que la Constitución Política para el Estado de Guanajuato y esta Ley confieren a los funcionarios del Instituto Estatal y del Tribunal Electoral.
 
 ###### Artículo 438.
 
@@ -5471,195 +5489,187 @@ VIII. Emitir opinión pública que implique prejuzgar sobre un asunto de su cono
 
 IX. Dejar de desempeñar las funciones o las labores que tenga a su cargo;
 
-X. Las previstas, en lo conducente, en los artículos 11 y 12 de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, y
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+X. Las previstas, en lo conducente, en la Ley de Responsabilidades aplicable, y
 
 XI. Las demás que determine esta Ley o las leyes que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 439.
 
-El procedimiento para determinar las responsabilidades de los servidores públicos del Instituto Estatal a que se refiere este Título se iniciará de oficio o a petición de parte, por queja o denuncia, presentada por cualquier persona, por el servidor público que tenga conocimiento de los hechos. No se admitirán denuncias anónimas. Las responsabilidades administrativas a que se refiere este artículo, prescribirán en tres años.
+El procedimiento para determinar las responsabilidades administrativas de los servidores públicos del Instituto Estatal y del Tribunal Estatal Electoral a que se refiere este Título se instaurará, sustanciará y resolverá de conformidad con la Ley de responsabilidades aplicable.
 
 ###### Artículo 440.
 
-Las quejas o denuncias que se presenten, deberán estar apoyadas en elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 441.
 
-Las quejas o denuncias serán improcedentes:
-
-I. Cuando se trate de actos u omisiones imputados a una misma persona que hayan sido materia de otra queja o denuncia ante la Contraloría del Instituto Estatal y que cuenten con resolución definitiva;
-
-II. Cuando se denuncien actos u omisiones de los que la Contraloría del Instituto Estatal resulte incompetente para conocer, y
-
-III. Cuando los actos u omisiones denunciados no constituyan causas de responsabilidad en los términos de esta Ley.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 442.
 
-Procederá el sobreseimiento del procedimiento sancionador, cuando habiendo sido recibida la queja o denuncia, sobrevenga una causa de, improcedencia.
-
-En ningún caso procederá el sobreseimiento cuando se trate de infracciones graves.
-
-El estudio de las causas de improcedencia o sobreseimiento de la queja o denuncia será de oficio.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 443.
 
-Para la determinación de las responsabilidades a que se refiere este Capítulo deberá seguirse el siguiente procedimiento:
-
-I. Recibida la queja o denuncia, y de no encontrarse ninguna causa de improcedencia o de desechamiento, se enviará copia de la misma, con sus anexos, al servidor público presunto responsable para que, en un término de cinco días hábiles, formule un informe sobre los hechos, ofrezca las pruebas correspondientes y exponga lo que a su derecho convenga. El informe deberá referirse a todos y cada uno de los hechos comprendidos en la queja o denuncia, afirmándolos, negándolos, expresando los que ignore, por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán ciertos los hechos de la queja o denuncia sobre los cuales el denunciado no se pronuncie, salvo prueba en contrario. La aceptación de los hechos no entraña la aceptación de la responsabilidad administrativa que se le imputa;
-
-II. Recibido el informe y desahogadas las pruebas, se resolverá dentro de los treinta días hábiles siguientes sobre la inexistencia de responsabilidad o imponiendo al infractor las sanciones administrativas correspondientes, y se notificará la resolución al servidor público y, en su caso, al denunciante, dentro de las setenta y dos horas cuando se trate de los casos de responsabilidad señalados en las fracciones II, IV, V, VI, y VIII a la XI del artículo 438 de esta Ley;
-
-III. Cuando se trate de los casos comprendidos en las fracciones I, III y VII del artículo 438 de esta Ley, el contralor citará al presunto responsable a una audiencia, haciéndole saber la responsabilidad o responsabilidades que se le imputen, el lugar, día y hora en que tendrá verificativo dicha audiencia, y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor. Entre la fecha de citación y la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
-
-IV. Si del informe o de los resultados de la audiencia no se desprenden elementos suficientes para resolver o se advierten otros que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otras personas, se podrá disponer la práctica de investigaciones y acordar, en su caso, la celebración de otra u otras audiencias;
-
-V. Con excepción del Secretario del Consejo General, la Contraloría podrá determinar la suspensión temporal del presunto responsable de su cargo, empleo o comisión, siempre que así convenga para la conducción o continuación de las investigaciones; la suspensión cesará cuando así lo resuelva la propia Contraloría. La suspensión temporal no prejuzga sobre la responsabilidad que se impute al servidor público, lo cual se hará constar expresamente en la resolución respectiva;
-
-VI. Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que hubiere estado suspendido, y
-
-VII. Cuando se compruebe la existencia de la infracción motivo de la denuncia, el titular de la Contraloría impondrá la sanción que corresponda y dictará las medidas para su corrección o remedio inmediato
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 444.
 
-Las sanciones aplicables a las faltas contempladas en el presente Capítulo y a las cometidas en contravención de los artículos 11 y 12 de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios consistirán en:
-
-I. Apercibimiento privado o público;
-
-II. Amonestación privada o pública;
-
-III. Sanción económica;
-
-IV. Suspensión;
-
-V. Destitución del puesto, y
-
-VI. Inhabilitación temporal, hasta por cinco años, para desempeñar empleos, cargos o comisiones en el servicio público.
-
-Tratándose del Consejero Presidente y los consejeros electorales del Consejo General, estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en el Título Cuarto de la Constitución y en términos de la Ley General.
-
-Tratándose del Secretario Ejecutivo y de los directores ejecutivos del Instituto, en caso de no formar parte del Servicio Profesional Electoral Nacional para la aplicación de las sanciones por las infracciones a que se refiere el párrafo anterior, el contralor presentará ante el Consejo General el expediente respectivo a fin de que resuelva sobre la procedencia de la sanción
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 445.
 
-Las faltas serán valoradas y, en su caso sancionadas, de conformidad con los criterios establecidos, en lo conducente, en los artículos 20, 21, 22, 23 y 24 de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
-
-En todo caso, se considerarán como faltas graves, el incumplimiento de las obligaciones señaladas en las fracciones VIII y XX del artículo 11 y de las prohibiciones señaladas en las fracciones I, II, III, IV y VI del artículo 12 de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios, así como en las fracciones I a V y VII del artículo 438 de esta Ley.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 446.
 
-Con independencia del sentido de la resolución que se dicte al final del procedimiento, el Contralor dictará las providencias oportunas para la corrección de las irregularidades administrativas que se detecten en ocasión del trámite de la queja o denuncia, y si del contenido de ésta se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, procederá en los términos previstos en este Capítulo.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2016)
 
 ###### Artículo 447.
 
-Las resoluciones por las que se impongan sanciones administrativas podrán ser impugnadas ante el Tribunal de lo Contencioso Administrativo del Estado de Guanajuato.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 2016)
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 448.
 
-La Contraloría es el órgano de control interno del Instituto Estatal que tendrá a su cargo la fiscalización de los ingresos y egresos del Instituto Estatal; en el ejercicio de sus atribuciones estará dotada de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones.
+En Instituto Electoral contará con un Órgano Interno de Control con autonomía técnica y de gestión que tendrá a su cargo la fiscalización de los ingresos y egresos del Instituto.
 
-El titular de la Contraloría tendrá un nivel jerárquico equivalente a Director de Unidad Técnica.
+El Tribunal Estatal Electoral contará con un Órgano Interno de Control con la misma naturaleza y atribuciones del Órgano Interno de Control del Instituto Electoral.
 
-El titular de la Contraloría será designado por el Consejo General del Instituto Estatal, con el voto de por lo menos cinco de los Consejeros Electorales, a propuesta de instituciones públicas de educación superior en el Estado de Guanajuato.
+Ambos órganos internos de control contarán con la estructura orgánica, personal y recursos, que respectivamente, aprueben el Consejo General y el Pleno del Tribunal, según corresponda, a propuesta de cada titular, de conformidad con las reglas previstas en este Capítulo.
 
-El electo rendirá la protesta de ley ante el Consejo General.
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-La Contraloría contará con la estructura orgánica, personal y recursos que apruebe el Consejo General a propuesta de su titular, de conformidad con las reglas previstas en este Capítulo.
+###### Artículo 448 Bis.
 
-En su desempeño, la Contraloría se sujetará a los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.
+Quienes detenten la titularidad de los Órganos Internos de Control del Instituto Electoral y del Tribunal Estatal Electoral durarán en su cargo un periodo de cinco años y serán designados por el voto de las dos terceras partes de la totalidad de quienes integren el Congreso del Estado, sin posibilidad de reelección.
+
+La designación de los titulares de los órganos internos de control se hará mediante la elección de una terna que derivará de consulta pública realizada por el Consejo General tratándose del Instituto Estatal y del Pleno tratándose del Tribunal Estatal Electoral cuyas bases serán publicadas en el Periódico Oficial de (sic) Gobierno del Estado, además de la amplia difusión en el portal de internet del Instituto y del Tribunal, respectivamente, y periódicos de mayor circulación. Lo anterior apegándose a los principios de equidad, oportunidad, transparencia, imparcialidad y honradez.
+
+En el caso de que la consulta pública sea declarada desierta, sea por no contar con una participación que impida que por lo menos tres prospectos cubran los requisitos establecidos en la presente Ley, se emitirá nueva consulta en el término de treinta días naturales, misma que debe ser publicada en el Periódico Oficial del Gobierno del Estado.
+
+En el supuesto de que la terna no fuese aprobada, se regresará al Consejo General o al Pleno del Tribunal Estatal Electoral según corresponda, para que en el término de cinco días hábiles elabore una nueva terna, considerando a otros de los propuestos a partir de la consulta pública realizada y cuya aprobación se hará conforme a lo previsto por los párrafos anteriores.
+
+Dicha consulta deberá ser emitida con sesenta días hábiles de anticipación al vencimiento del periodo en el cual se desempeñen los titulares de los órganos de control, siendo que la terna deberá ser remitida treinta días hábiles previos a su vencimiento.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 449.
 
-El contralor deberá reunir los mismos requisitos que esta Ley establece para ser Consejero Electoral, además de los siguientes:
+Para ocupar la titularidad del Órgano Interno de Control tanto del Instituto Electoral y del Tribunal Estatal Electoral se requiere:
 
-I. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratara de robo, fraude, falsificación, abuso de confianza u otro que afecte la buena fama en el concepto público, ello lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+I. Ser ciudadano mexicano, con pleno goce de sus derechos civiles y políticos y contar con residencia en el Estado no menor de tres años anteriores a la fecha de designación;
 
-II. Contar al momento de su designación con experiencia profesional de al menos cinco años en el control, manejo o fiscalización de recursos;
+II. Tener cuando menos treinta años cumplidos al día del nombramiento;
 
-III. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional, de nivel licenciatura, de contador público u otro relacionado en forma directa con las actividades de fiscalización, expedido por autoridad o institución legalmente facultada para ello, y
+III. Tener, al día de su nombramiento, título profesional en las áreas económicas, contables, jurídicas o administrativas, expedido por autoridad o institución legalmente facultada para ello, y con la antigüedad mínima en su ejercicio de cinco años;
 
-IV. No pertenecer o haber pertenecido en los cuatro años anteriores a su designación a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto Estatal o a algún partido político.
+IV. Contar con experiencia profesional de cuando menos dos años en el control, manejo y fiscalización de recursos;
+
+V. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de la libertad de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza, enriquecimiento ilícito o cometido contra la administración pública, quedará inhabilitado para el cargo, cualquiera que haya sido la pena; y
+
+VI. No ser o haber sido dirigente de partido político o asociación política a nivel nacional, estatal o municipal o candidato a puesto de elección popular, ni haber desempeñado cargo alguno de elección popular, ni ministro de ningún culto religioso, en los cinco años anteriores a su designación.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 450.
 
-El contralor podrá ser sancionado conforme a lo previsto en este Título, por las siguientes causas graves de responsabilidad administrativa:
+Quien detente la titularidad del Órgano Interno de Control, durante el ejercicio de su cargo, no podrá:
 
-I. Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente Ley y de la legislación en la materia;
+I. Desempeñar otro empleo, cargo o comisión, excepto las actividades docentes, en los términos del artículo 133 de la Constitución Política para el Estado; y
 
-II. Dejar sin causa justificada, de fincar responsabilidades en el ámbito de su competencia, cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones que realice en el ejercicio de sus atribuciones;
+II. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia, la que sólo deberá utilizarse para los fines de control interno.
 
-III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en la Contraloría, con motivo del ejercicio de sus atribuciones;
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-IV. Conducirse con parcialidad en los procedimientos de supervisión y disciplinarios a que se refiere esta Ley, y
+###### Artículo 450 Bis.
 
-V. Incurrir en alguna de las infracciones mencionadas en los artículos 11 y 12 de la Ley de Responsabilidades Administrativas de los Servidores Públicos para el Estado de Guanajuato y sus Municipios.
+Son causas graves de remoción del titular del Órgano Interno de Control:
 
-A solicitud del Consejo General, el Secretario Ejecutivo asumirá las funciones de instrucción y sustanciación del procedimiento disciplinario sancionador conferidas por esta Ley al contralor, y el propio Consejo General resolverá sobre la aplicación de las sanciones al contralor, incluida entre éstas la destitución, por causas graves de responsabilidad administrativa, debiendo garantizar el derecho de audiencia al afectado. La remoción requerirá del voto de por lo menos cinco de los Consejeros Electorales.
+I. Actualizarse alguno de los supuestos previstos en el artículo anterior;
+
+II. Incumplir la obligación de determinar los daños y perjuicios y de promover el fincamiento de sanciones en los casos que establece esta ley;
+
+III. Sustraer, destruir, ocultar o utilizar indebidamente la documentación que, por razón de su cargo, tenga a su cuidado o custodia;
+
+IV. Conducirse con parcialidad en los procedimientos de control interno, así como en el cumplimiento de las disposiciones de esta ley; y
+
+V. Incurrir en abandono del cargo por un periodo de 5 días.
+
+Ante la actualización de alguna de las causales previstas en el presente artículo, el Consejo General o el Pleno del Tribunal, según corresponda, presentarán la solicitud de remoción ante el Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 450 Ter.
+
+En caso de falta absoluta, renuncia o remoción de algún titular de los órganos internos de control, se procederá de conformidad con el artículo 448 Bis de esta ley.
+
+En tanto se hace la designación correspondiente, el Consejo General o el Pleno del Tribunal, según corresponda, designará al encargado del despacho, quien no podrá permanecer en el encargo por más de tres meses.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 451.
 
-La Contraloría es competente para:
+El Órgano Interno de Control tanto del Instituto Electoral como del Tribunal Estatal Electoral serán responsables del control, evaluación y desarrollo administrativo de sus respectivos organismos, así como de la prevención de conductas constitutivas de responsabilidad administrativa y, en su caso, de la aplicación del derecho disciplinario; por lo cual, les competen las siguientes atribuciones:
 
-I. Fijar los criterios para la realización de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de los recursos a cargo de las áreas y órganos del Instituto Estatal;
+I. Inspeccionar el ejercicio del gasto público y su congruencia con el presupuesto de egresos, así como validar los indicadores para la evaluación del funcionamiento y operación del organismo correspondiente, en los términos de las disposiciones aplicables;
 
-II. Establecer las normas, procedimientos, métodos y sistemas de contabilidad y de archivo, de los libros y documentos justificativos y comprobatorios del ingreso y del gasto, así como aquellos elementos que permitan la práctica idónea de las auditorías y revisiones, que realice en el cumplimiento de sus funciones;
+II. Proponer las normas que regulen los instrumentos y procedimientos de control interno. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
 
-III. Evaluar los informes de avance de la gestión financiera respecto de los programas autorizados y los relativos a procesos concluidos;
+III. Establecer las bases generales para la realización de auditorías internas y externas, así como las recomendaciones y observaciones que deriven de las mismas, y las normas que regulen los instrumentos y procedimientos de auditoría;
 
-IV. Evaluar el cumplimiento de los objetivos y metas fijadas en los programas de naturaleza administrativa contenidos en el presupuesto de egresos del Instituto Estatal;
+IV. Realizar auditorías, revisiones y evaluaciones, con el objeto de examinar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo;
 
-V. Verificar que las diversas áreas administrativas del Instituto que hubieren recibido, manejado, administrado o ejercido recursos, lo hagan conforme a la normatividad aplicable, los programas aprobados y montos autorizados, así como, en el caso de los egresos, con cargo a las partidas correspondientes y con apego a las disposiciones legales, reglamentarias y administrativas conducentes;
+V. Fiscalizar que se cumpla con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
 
-VI. Revisar que las operaciones presupuestales que realice el Instituto Estatal se hagan con apego a las disposiciones legales y administrativas aplicables a estas materias;
+VI. Designar y remover a los titulares de las áreas a su cargo; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los Tribunales, representando al Organismos (sic) correspondiente;
 
-VII. Verificar las obras, bienes adquiridos o arrendados y servicios contratados, para comprobar que las inversiones y gastos autorizados se han aplicado, legal y eficientemente al logro de los objetivos y metas de los programas aprobados;
+VII. Llevar y normar el registro de servidores públicos, recibir y registrar las declaraciones patrimoniales y de intereses así como la constancia de declaración fiscal que deban presentar, así como verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, hayan sido impuestas;
 
-VIII. Requerir a terceros que hubieran contratado bienes o servicios con el Instituto Estatal la información relacionada con la documentación justificativa y comprobatoria respectiva, a efecto de realizar las compulsas que correspondan;
+VIII. Atender las inconformidades que presenten los particulares con motivo de convenios o contratos que se celebren, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
 
-IX. Solicitar y obtener la información necesaria para el cumplimiento de sus funciones. Por lo que hace a la información relativa a las operaciones de cualquier tipo proporcionada por las instituciones de crédito, les será aplicable a todos los servidores públicos de la propia Contraloría del Instituto Estatal, así como a los profesionales contratados para la práctica de auditorías, la obligación de guardar la reserva a que aluden las disposiciones normativas en materia de transparencia y acceso a la información pública;
+IX. Establecer y conducir la política general de las contrataciones públicas reguladas por la Ley de Contrataciones Públicas para el Estado de Guanajuato y la Ley de Obra Pública y Servicios Relacionados con las Misma (sic) para el Estado y los Municipios de Guanajuato, propiciando las mejores condiciones de contratación conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas;
 
-X. Emitir los lineamientos, instruir, desahogar y resolver los procedimientos administrativos respecto de las quejas que se presenten en contra de los servidores públicos del Instituto Estatal, y llevar el registro de los servidores públicos sancionados;
+X. Definir la política de gestión digital y datos abiertos;
 
-XI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Instituto Estatal;
+XI. Ejercer las facultades que la Constitución le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refiere el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos;
 
-XII. Recibir denuncias o quejas directamente relacionadas con el uso y disposición de los ingresos y recursos del Instituto Estatal por parte de los servidores públicos del mismo y desahogar los procedimientos a que haya lugar;
+XII. Conocer e investigar las conductas de los servidores públicos que puedan constituir responsabilidades administrativas, así como substanciar los procedimientos correspondientes conforme a lo establecido en la Ley de Responsabilidades aplicable, así como realizar la defensa jurídica de sus resoluciones; para lo cual podrán aplicar las sanciones que correspondan en los casos que no sean de la competencia del Tribunal Estatal de Justicia Administrativa y cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante ese Tribunal; así como presentar las denuncias correspondientes ante la Fiscalía Especializada en Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones aplicables;
 
-XIII. Efectuar visitas a las sedes físicas de las áreas y órganos del Instituto Estatal para solicitar la exhibición de los libros y papeles indispensables para la realización de sus investigaciones, sujetándose a las formalidades respectivas;
+XIII. Presentar al Consejo General o al Pleno del Tribunal Electoral según corresponda un programa e informe anual o, cuando le sea requerido, sobre el cumplimiento de sus funciones;
 
-XIV. Establecer los mecanismos de orientación y cursos de capacitación que resulten necesarios para que los servidores públicos del Instituto Estatal cumplan adecuadamente con sus responsabilidades administrativas;
+XIV. Recibir y dar seguimiento a las sugerencias, quejas y denuncias ciudadanas, con respecto a la actuación de los servidores públicos adscritos a su organismo; y
 
-XV. Formular pliegos de observaciones en materia administrativa;
+XV. Las demás que establezcan otras disposiciones legales.
 
-XVI. Determinar los daños y perjuicios que afecten al Instituto Estatal en su patrimonio y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes;
-
-XVII. Fincar las responsabilidades e imponer las sanciones en términos de los lineamientos respectivos;
-
-XVIII. Presentar a la aprobación del Consejo General sus programas anuales de trabajo;
-
-XIX. Presentar al Consejo General los informes previo y anual de resultados de su gestión, y acudir ante el mismo Consejo cuando así lo requiera el Consejero Presidente;
-
-XX. Participar, a través de su titular, con voz pero sin voto, en las reuniones de la Junta General Ejecutiva cuando por motivo del ejercicio de sus facultades, así lo considere necesario el Consejero Presidente;
-
-XXI. Recibir y resguardar las declaraciones patrimoniales que deban presentar los servidores públicos del Instituto Estatal, a partir del nivel de jefe de departamento, conforme a los formatos y procedimientos que establezca la propia Contraloría. Serán aplicables en lo conducente las normas establecidas en la Ley de la materia;
-
-XXII. Intervenir en los procesos de entrega-recepción por inicio o conclusión de encargo de los servidores públicos que corresponda, y
-
-XXIII. Las demás que le otorgue esta Ley o las leyes aplicables en la materia.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 452.
 
-Los servidores públicos adscritos a la Contraloría del Instituto Estatal y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+Los servidores públicos adscritos a los Órganos Internos de Control y, en su caso, los profesionales contratados para la práctica de auditorías, deberán guardar reserva sobre la información y documentos que conozcan con motivo del desempeño de sus facultades así como de sus actuaciones y observaciones.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 453.
 
-Los órganos, áreas ejecutivas y servidores públicos del Instituto Estatal estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente la Contraloría, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+Los órganos, áreas ejecutivas y servidores públicos del Instituto Estatal y del Tribunal Electoral estarán obligados a proporcionar la información, permitir la revisión y atender los requerimientos que les presente el Órgano Interno de Control respectivo, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que esta Ley o las leyes aplicables les confieren.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 454.
 
-Si transcurrido el plazo establecido por la Contraloría, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, la Contraloría procederá a fincar las responsabilidades que correspondan conforme a derecho.
+Si transcurrido el plazo establecido por el Órgano Interno de Control respectivo, el órgano o área fiscalizada, sin causa justificada, no presenta el informe o documentos que se le soliciten, el Órgano Interno de Control respectivo procederá a fincar las responsabilidades que correspondan conforme a derecho.
 
 El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las sanciones.
 
-La Contraloría, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+El Órgano Interno de Control respectivo, además de imponer la sanción respectiva, requerirá al infractor para que dentro del plazo determinado, que nunca será mayor a cuarenta y cinco días, cumpla con la obligación omitida motivo de la sanción; y si aquél incumple, será sancionado.
 
 Durante el desahogo de los procedimientos administrativos tendentes, en su caso, al fincamiento de responsabilidades, los servidores públicos tendrán asegurado el ejercicio de las garantías constitucionales.
 
@@ -5902,3 +5912,19 @@ P.O. 1 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN DIVERSOS ORDENAMIENTOS, PARA ARMONIZAR LAS REFERENCIAS QUE SE CONTIENEN EN LOS MISMOS AL SALARIO MÍNIMO, Y QUEDAR COMO UNIDAD DE MEDIDA Y ACTUALIZACIÓN”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 166, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LOS SIGUIENTES ORDENAMIENTOS: LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO, LEY ORGÁNICA DE LA UNIVERSIDAD DE GUANAJUATO, LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO, LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE GUANAJUATO Y LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. Los organismos autónomos deberán adecuar su normativa interna en un plazo de noventa días, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Tercero. Los organismos autónomos constitucionalmente reconocidos, remitirán en un plazo de sesenta días, posteriores al plazo establecido en el artículo transitorio segundo de este Decreto, la terna al Congreso del Estado, para la designación del titular del órgano interno de control.
+
+Artículo Cuarto. El Congreso del Estado contará con un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, para designar a los titulares de los órganos de control interno, debiendo garantizar la designación, atendiendo a los principios de certeza, imparcialidad y legalidad.
+
+Artículo Quinto. Los contralores que hayan sido nombrados con antelación a la entrada en vigor del presente Decreto, continuarán como titulares de los órganos internos de control hasta en tanto el Congreso del Estado realice las nuevas designaciones, atendiendo al procedimiento establecido en la Ley, sin perjuicio de que puedan ser propuestos, atendiendo a los requisitos y principios de certeza, imparcialidad y legalidad.
+
+Artículo Sexto. La Universidad de Guanajuato deberá designar a través de su Consejo General Universitario al titular del órgano interno de control, en un plazo de ciento veinte días, contados a partir de la entrada en vigor del presente Decreto.
