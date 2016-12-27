@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2014-12-26"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NÚMERO 429
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -202,6 +202,10 @@ Cuando de conformidad con este articulo se entienda que hay enajenación, el adq
 El Estado tendrá derecho a percibir las participaciones que se le otorguen en impuestos o en otros ingresos federales, en los términos que señalan las leyes federales, estatales y los acuerdos o convenios de coordinación hacendaria que los regulen.
 
 Son ingresos derivados de la coordinación hacendaria los que perciba el Estado como consecuencia de la adhesión al Sistema Nacional de Coordinación Fiscal, de conformidad con las disposiciones de este Código, de los convenios, acuerdos o declaratorias que al efecto se celebren o realicen y se regularán además, por lo que en su caso disponga la Ley de Coordinación Fiscal.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 10 BIS. Cuando en las leyes fiscales se haga referencia a la Unidad de Medida y Actualización, será la que determine el Instituto Nacional de Estadística y Geografía en los términos que establece la constitución del país y las demás disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -727,7 +731,7 @@ Cuando las personas obligadas a presentar declaraciones, avisos y demás documen
 
 I.- Tratándose de la omisión en la presentación de una declaración periódica para el pago de contribuciones, podrán hacer efectiva al contribuyente o responsable solidario que haya incurrido en la omisión una cantidad igual a la contribución que hubiere determinado en la última o cualquiera de las seis últimas declaraciones de que se trate. Esta cantidad a pagar tendrá el carácter de pago provisional y no liberará a los obligados a presentar la declaración omitida;
 
-II.- Embargar precautoriamente los bienes o la negociación cuando el contribuyente haya omitido presentar declaraciones en los últimos dos meses o cuando no atienda al requerimiento de la autoridad fiscal;
+II.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2016)
 
 III.- Imponer las multas que correspondan en los términos de este Código.
 
@@ -1017,9 +1021,11 @@ Las multas cuya imposición hubiere quedado firme, deberán ser condonadas total
 
 #### SECCION PRIMERA. DE LOS SUJETOS
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 75.
 
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública, mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notario o fedatario público o, en caso de recursos administrativos, mediante la constancia de inscripción en el registro de representantes legales que lleve la autoridad fiscal, a través de la Subsecretaría de Ingresos.
+En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales, se hará mediante escritura pública pasada ante la fe de notario o fedatario público o, en caso de recursos administrativos, mediante la constancia de inscripción en el registro de representantes legales que lleve la autoridad fiscal, a través de la Subsecretaría de Ingresos.
 
 Los particulares o sus representantes podrán autorizar por escrito a personas que a su nombre reciban notificaciones. La persona así autorizada podrá ofrecer y rendir pruebas y presentar promociones relacionadas con estos propósitos.
 
@@ -1029,41 +1035,89 @@ Los incapacitados, los concursados, los ausentes y las sucesiones comparecerán 
 
 Los poderes se sujetarán a los requisitos y formas establecidas por las leyes civiles del Estado.
 
+Para los efectos de este artículo, las escrituras públicas que se contengan en documentos digitales, en los términos de lo dispuesto por el artículo 1834-Bis del Código Civil Federal, deberán contener Firma Electrónica Avanzada del fedatario público.
+
+Cuando las promociones deban ser presentadas en documentos digitales, el documento digital correspondiente deberá contener Firma Electrónica Avanzada de dichas personas.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 75 BIS.- con la finalidad de que se señale que las autoridades fiscales en el ejercicio de las facultades que las leyes les conceden, deben garantizar, respetar, y proteger el libre ejercicio de sus derechos humanos.
+
+En este sentido, se enlistan de manera expresa los derechos de los contribuyentes, los responsables solidarios y los terceros con ellos relacionados, entre los cuales se pueden destacar los siguientes:
+
+I. A ser llamados en los términos establecidos en este Código a los procedimientos administrativos que realicen las autoridades y en los que sean parte;
+
+II. A ser debida y legalmente representados en los procedimientos administrativos en que sean parte, y sean iniciados por las autoridades fiscales;
+
+III. A que durante la sustanciación de los procedimientos administrativos en que participen les sean recibidas las pruebas que ofrezcan conforme a este Código;
+
+IV. A conocer la identidad de las autoridades fiscales bajo cuya responsabilidad se tramiten los procedimientos en los que tengan condición de interesados.
+
+V. A ser tratados con el debido respeto y consideración por los servidores públicos de la administración tributaria;
+
+VI. A que las actuaciones de las autoridades fiscales que requieran su intervención se lleven a cabo en la forma que les resulte menos onerosa; y
+
+VII. A corregir en cualquier momento su situación fiscal, incluso cuando se ejerzan por parte de las autoridades fiscales las facultades de comprobación que la ley les conceden.
+
+Se propone, asimismo, reformar el primer párrafo del artículo 78, para señalar que las autoridades fiscales a efecto de proteger y salvaguardar los derechos humanos de los contribuyentes, así como para preservar sus garantías, y para el mejor cumplimiento de sus facultades, estarán a lo dispuesto en dicho numeral.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 76.
 
-Toda promoción que se presente ante las autoridades fiscales deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital, debiendo contener los siguientes requisitos:
+Toda promoción que se presente ante las autoridades fiscales, deberá estar firmada por el interesado o por quien esté legalmente autorizado para ello, a menos que el promovente no sepa o no pueda firmar, caso en el que imprimirá su huella digital.
 
-I.- Constar por escrito;
+Las promociones que realicen los particulares deberán presentarse en los formatos impresos que al efecto apruebe la Secretaría de Finanzas y Administración, en el número de ejemplares que establezca la forma oficial y acompañar los anexos que en su caso ésta requiera. Cuando no existan formas impresas aprobadas, el documento se presentará en escrito libre que contenga original y copia, y en su caso, con las copias necesarias para cada uno de los interesados que en él se señalen; debiendo tener por lo menos los siguientes requisitos:
 
-II.- Nombre, denominación o razón social y el domicilio fiscal manifestado al Registro de Contribuyentes del Estado;
+I. El nombre, la denominación o razón social de quien promueve; el domicilio fiscal manifestado al registro estatal de contribuyentes, y la clave que le correspondió en dicho registro y, en su caso, la Clave Única en el Registro de Población;
 
-III.- Señalar la autoridad a la que se dirige y el propósito de la promoción; y
+II. Señalar la autoridad a la que se dirige y el propósito de la promoción;
 
-IV.- En su caso el domicilio para oír y recibir notificaciones dentro del Territorio del Estado y el nombre de la persona autorizado para recibirlas.
+III. En su caso, el domicilio para oír y recibir notificaciones dentro del Estado, la dirección de correo electrónico y el nombre de la persona autorizada para recibirlas; y
 
-Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de cinco días cumpla con el requisito omitido, de lo contrario se tendrá por no interpuesta dicha promoción.
+Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales mediante oficio, requerirán al promovente a fin que en un plazo de 10 días hábiles contados a partir del día siguiente a aquél en que surta efectos la notificación, cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada; si la omisión consiste en no haber usado la forma oficial aprobada, las autoridades fiscales deberán acompañar al requerimiento la forma respectiva en el número de ejemplares que sea necesario.
+
+En el caso que la firma asentada en una promoción o instancia no sea legible o se dude de su autenticidad, las autoridades fiscales requerirán al promovente a fin que en el mismo plazo señalado en el párrafo anterior, se presente a ratificar la firma plasmada en la promoción, apercibido que de no hacerlo se tendrá por no presentada.
+
+Cuando se promueva a través de documento digital por medios electrónicos, deberá utilizarse la Firma Electrónica Avanzada que corresponda al interesado de acuerdo con las disposiciones de este Código. La Secretaría de Finanzas y Administración en reglas de carácter general, podrá determinar las promociones que se presenten en documento digital, debiendo cumplir con los siguientes requisitos:
+
+I. El nombre, la denominación o razón social, y el domicilio fiscal manifestado al registro estatal de contribuyentes, y la clave que le correspondió en dicho registro.
+
+II. Señalar la autoridad a la que se dirige y el propósito de la promoción.
+
+III. La dirección de correo electrónico para recibir notificaciones.
+
+Cuando no se cumplan los requisitos a que se refieren las fracciones I y II de este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de 10 días hábiles cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho plazo, la promoción se tendrá por no presentada, así como cuando se omita señalar la dirección de correo electrónico.
+
+Lo dispuesto en este artículo no es aplicable a las declaraciones, solicitudes de inscripción o avisos al registro estatal de contribuyentes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 77.
 
-Las personas físicas y morales que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de inscripción, declaraciones o avisos, ante las autoridades fiscales, así como expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Finanzas y Administración, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran.
+Las personas físicas y morales que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de inscripción, declaraciones o avisos, ante las autoridades fiscales, así como expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Finanzas y Administración, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran, o bien, deberán hacerlo mediante documento digital cuando así establezca la Secretaría mediante reglas de carácter general.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Finanzas y Administración, los obligados a presentarlas las formularán en escrito libre por triplicado que contengan su nombre, denominación o razón social, domicilio y clave de Registro Estatal de Contribuyentes y en su caso el Registro Federal de Contribuyentes, así como el período y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el período y el monto del mismo.
 
-En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Finanzas y Administración, los obligados a presentarlas las formularán en escrito libre por triplicado que contengan su nombre, denominación o razón social, domicilio y clave de Registro Federal de Contribuyentes, así como el período y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el período y el monto del mismo.
+Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo en tanto no presenten los avisos de suspensión, disminución o cancelación en el registro estatal de contribuyentes, según corresponda. Tratándose de las declaraciones de pago, los contribuyentes deberán presentar dichas declaraciones, aún cuando no exista cantidad a pagar.
 
-Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, están obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales.
+Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el Estado, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, están obligados a formular y presentar a nombre de sus representados en omisión de estos, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales. Esta disposición, no releva a los obligados principales de presentar el aviso correspondiente cuando no sea presentado por sus representantes.
 
 Las declaraciones, avisos, solicitud de inscripción y demás documentos que exijan las disposiciones fiscales, se presentarán en las administraciones o agencias fiscales estatales de su jurisdicción. También podrán enviarse por medio del servicio postal en pieza certificada, cuando no exista administración o agencia fiscal estatal en su jurisdicción; en este último caso, se tendrá como fecha de presentación la del día en que se haga la entrega a las oficinas de correos.
 
-Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Unicamente se podrá rechazar la presentación cuando no contengan el nombre, denominación o razón social del contribuyente, su clave de Registro Federal de Contribuyentes, su domicilio fiscal o no aparezcan debidamente firmados por el contribuyente o por su representante legal, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
+Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Únicamente se podrá rechazar la presentación cuando no contengan el nombre, denominación o razón social del contribuyente, su clave de Registro Estatal de Contribuyentes y en su caso, el Registro Federal de Contribuyentes, su domicilio fiscal o no aparezcan debidamente firmados por el contribuyente o por su representante legal, no se acompañen los anexos o tratándose de declaraciones en donde éstas contengan errores aritméticos.
+
+En este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
 Las personas obligadas a presentar solicitud de inscripción o avisos en los términos de las disposiciones fiscales, podrán presentar su solicitud o avisos complementarios, completando o sustituyendo los datos de la solicitud o aviso original, siempre que los mismos se presenten dentro de los plazos previstos en las disposiciones fiscales.
 
 Cuando las disposiciones fiscales no señalen plazos para la presentación de declaraciones, se tendrá por establecido el de quince días siguientes a la realización del hecho de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 78.
 
-Las autoridades fiscales para el mejor cumplimiento de sus facultades, estarán a lo siguiente:
+Las autoridades fiscales a efecto de proteger y salvaguardar los derechos humanos de los contribuyentes, así como para preservar sus garantías, y para el mejor cumplimiento de sus facultades, estarán a lo siguiente:
 
 I.- Proporcionarán asistencia gratuita a los contribuyentes y para ello procurarán:
 
@@ -1075,9 +1129,15 @@ c).- Elaborar los formularios de declaración que puedan ser llenados fácilment
 
 d).- Señalar en forma precisa en los requerimientos, mediante los cuales se exija a los contribuyentes la presentación de declaraciones, avisos y demás documentos a que estén obligados, cuál es el documento cuya presentación se exige;
 
-e).- Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales; y
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+e).- Difundir entre los contribuyentes los derechos y medios de defensa que se pueden hacer valer contra las resoluciones de las autoridades fiscales; especialmente cuando se modifiquen las disposiciones fiscales y durante los principales periodos de presentación de declaraciones.
 
 f).- Efectuar en distintas partes del Estado reuniones de información con los contribuyentes;
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+g).- Publicar anualmente las resoluciones dictadas por las autoridades fiscales que establezcan disposiciones de carácter general, agrupándolas de manera que faciliten su conocimiento por parte de los contribuyentes; se deberán publicar aisladamente aquellas disposiciones cuyos efectos se limitan a periodos inferiores a un año. Las resoluciones que se emitan conforme a este inciso y que se refieran a sujeto, objeto, base, tasa o tarifa, no generarán obligaciones o cargas adicionales a las establecidas en las propias leyes fiscales.
 
 II.- Establecerán programas de prevención y resolución de problemas del contribuyente, a fin de que las cámaras, colegios de profesionistas, universidades y asociaciones civiles, designen síndicos que los representen ante las autoridades fiscales; y
 
@@ -1095,6 +1155,10 @@ III.- Promoverán el espíritu de servicio y la superación técnica y profesion
 
 IV.- La oficina recaudadora expedirá a las personas físicas o morales que paguen contribuciones estatales, el recibo oficial o la forma prellenada en los que conste la impresión original de la máquina electrónica y cuando se carece de ella, deberá constar el sello de la oficina recaudadora y el nombre y firma del cajero o servidor público autorizado. Tratándose de los pagos efectuados en las oficinas de las instituciones de crédito autorizadas, el comprobante para el contribuyente deberá contener la impresión del equipo electrónico, el sello y la firma del cajero.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos de lo dispuesto en este artículo, la autoridad fiscal en el ejercicio de sus facultades de asistencia al contribuyente, podrá realizar recorridos, invitaciones y censos para informar y asesorar a los contribuyentes acerca del exacto cumplimiento de sus obligaciones fiscales.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2008)</small>
@@ -1103,11 +1167,51 @@ IV.- La oficina recaudadora expedirá a las personas físicas o morales que pagu
 
 Cuando las leyes fiscales estatales establezcan obligaciones de llevar contabilidad y de expedir comprobantes por las actividades que se realicen, dichas obligaciones deberán cumplirse de conformidad a lo establecido en este Código y en su defecto por el Código Fiscal de la Federación y su Reglamento.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 80.
 
-Los interesados directamente en situaciones reales y concretas que planteen consultas sobre aplicación que a las mismas deba hacerse de las disposiciones fiscales, tendrán derecho a que las autoridades dicten resolución sobre tales consultas.
+Cuando los contribuyentes efectúen consultas a la autoridad sobre la interpretación y aplicación de las normas y demás disposiciones fiscales, deberán hacerlo sobre situaciones reales y concretas que a ellos correspondan. Sólo se podrán hacer estas consultas de manera individual, y siempre que las mismas no sean materia de medios de defensas administrativos o jurisdiccionales que hubiesen sido interpuestos directamente o a través de representante por los propios interesados.
 
-Las autoridades se abstendrán de resolver consultas relativas a la interpretación general abstracta e impersonal de las disposiciones fiscales.
+Consultas planteadas en términos de este precepto, además de los requisitos formales obligatorios contenidos en el artículo 76 de este Código, deberán reunir los siguientes requisitos:
+
+I. Señalar los números telefónicos, en su caso, del contribuyente y de los autorizados para oír y recibir notificaciones en los términos de este Código;
+
+II. Señalar los nombres, direcciones y el registro estatal de contribuyentes, de todas las personas involucradas en la solicitud o consulta planteada.
+
+III. Describir las actividades a las que se dedica el interesado;
+
+IV. Indicar el monto de la operación u operaciones objeto de la promoción;
+
+V. Señalar todos los hechos y circunstancias relacionados con la promoción, así como acompañar los documentos e información que soporten tales hechos o circunstancias;
+
+VI. Describir las razones de negocio que motivan la operación planteada.
+
+VII. Indicar si los hechos o circunstancias sobre los que verse la promoción han sido previamente planteados ante la misma autoridad u otra distinta, o han sido materia de medios de defensa ante autoridades administrativas o jurisdiccionales y, en su caso, el sentido de la resolución,
+
+VIII. Indicar si el contribuyente se encuentra sujeto al ejercicio de las facultades de comprobación por parte de la Secretaría de Finanzas y Administración o del Servicio de Administración Tributaria, señalando los periodos y las contribuciones, objeto de la revisión.
+
+Asimismo, deberá mencionar si se encuentra dentro del plazo para que las autoridades fiscales del Estado emitan la resolución derivada del ejercicio de facultades de comprobación.
+
+Si el promovente no se encuentra en los supuestos a que se refieren las fracciones II, VII y VIII anteriores, deberá manifestarlo así expresamente.
+
+Cuando las consultas se realicen en contravención a lo establecido en este artículo, las autoridades fiscales lo comunicarán al interesado, para que éste en el plazo de 10 días hábiles, corrija mediante la presentación de otra promoción las irregularidades que le hubieren sido comunicadas. Si dentro del plazo señalado no se presenta una nueva promoción, las autoridades competentes, previa comunicación al interesado, podrán abstenerse de emitir una respuesta sobre los asuntos planteados, y no se actualizará el supuesto referente a la negativa ficta.
+
+Las autoridades fiscales sólo estarán obligadas a contestar las consultas que sobre situaciones reales y concretas les hagan los interesados individualmente.
+
+La autoridad quedará obligada a aplicar los criterios contenidos en la contestación a la consulta de que se trate, siempre que se cumpla con lo siguiente:
+
+I. Que la consulta comprenda los antecedentes y circunstancias necesarias para que la autoridad se pueda pronunciar al respecto.
+
+II. Que los antecedentes y circunstancias que originen la consulta no se hubieren modificado posteriormente a su presentación ante la autoridad.
+
+III. Que la consulta se formule antes de que la autoridad ejerza sus facultades de comprobación respecto de las situaciones reales y concretas a que se refiere la consulta.
+
+La autoridad no quedará vinculada por la respuesta otorgada a las consultas realizadas por los contribuyentes, cuando los términos de la consulta no coincidan con la realidad de los hechos o datos consultados o se modifique la legislación aplicable.
+
+Las respuestas recaídas a las consultas a que se refiere este artículo no serán obligatorias para los particulares, por lo cual, estos podrán impugnar, a través de los medios de defensa establecidos en las disposiciones aplicables, las resoluciones definitivas en las cuales la autoridad aplique los criterios contenidos en dichas respuestas.
+
+Las autoridades fiscales deberán contestar las consultas que formulen los particulares en un plazo de tres meses contados a partir de la fecha de presentación de la solicitud respectiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -1117,11 +1221,17 @@ En las consultas o peticiones que se formulen a las autoridades fiscales deberá
 
 Transcurridos los plazos establecidos para ello, el recurrente podrá decidir entre esperar la resolución expresa o promover el juicio de nulidad en contra de la negativa ficta ante el Tribunal de lo Contencioso Administrativo.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Cuando la autoridad requiera al promovente para que cumpla los requisitos que hubiere omitido en su promoción, o proporcione los elementos necesarios para resolver, éste contará con un término de diez días para cumplir dicho requerimiento. En este caso, el plazo para que las autoridades fiscales resuelvan, comenzará a correr desde que el requerimiento haya sido cumplido. En caso que no se dé cumplimiento al requerimiento en el plazo señalado se tendrá por no presentada la promoción o instancia respectiva.
+
 ###### ARTICULO 82.
 
 Son obligaciones de los contribuyentes y de los retenedores, aún cuando estos no causen directamente algún impuesto Estatal:
 
-I.- Empadronarse en un plazo que no excederá de treinta días a partir de la fecha de iniciación de operaciones; debiendo registrar cada uno de sus establecimientos, sucursales, bodegas, oficinas administrativas o agencias en la Administración o Agencia Fiscal Estatal de su jurisdicción, incluyendo los establecidos en una misma ciudad, para efectos de control;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+I.- Empadronarse a través de la presentación del aviso de inscripción al Registro Estatal de Contribuyentes, en un plazo que no excederá de treinta días a partir de la fecha de iniciación de operaciones; debiendo registrar cada uno de sus establecimientos, sucursales, bodegas, oficinas administrativas o agencias en la Administración o Agencia Fiscal Estatal de su jurisdicción, incluyendo los establecidos en una misma ciudad, para efectos de control;
 
 II.- Enterar el pago de sus contribuciones dentro de los plazos y fechas que establece el artículo 37 del presente Código, mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración;
 
@@ -1201,6 +1311,10 @@ Las autoridades fiscales del Estado a fin de comprobar que los contribuyentes, l
 
 I.- Ordenar y practicar visitas en el domicilio o dependencia de los sujetos pasivos, de los responsables solidarios o de los terceros y revisar sus libros, documentos y correspondencia, que tenga relación con las obligaciones fiscales y; en su caso, asegurarlos dejando en calidad de depositario al visitado, previo inventario que al efecto se formule.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Practicar visitas domiciliarias a los contribuyentes, a fin de verificar la presentación de solicitudes o avisos en materia del registro estatal de contribuyentes.
+
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2006)</small>
 
 Requerir a los contribuyentes, responsables solidarios o terceros con ellos relacionados, para que exhiban en las oficinas de las propias autoridades, la contabilidad, así como proporcionen los datos, otros documentos o informes que se requieran, así como revisar los dictámenes formulados por los contadores públicos en materia del Impuesto Sobre Remuneraciones al Trabajo Personal e Impuesto Sobre la Prestación de Servicios de Hospedaje y cualquier otro dictamen que tenga repercusión para efectos fiscales formulado por Contador Público y su relación con el cumplimiento de disposiciones fiscales estatales;
@@ -1215,15 +1329,7 @@ V.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los i
 
 VI.- Hacer las verificaciones de los lugares, bienes o mercancías en la forma que para el control de los gravámenes determine la Secretaría de Finanzas y Administración; para lo cual se designará expresamente y por escrito, a la persona que deberá realizar la inspección, señalando igualmente, las facultades inherentes;
 
-VII.- Para hacer cumplir sus determinaciones, podrán emplear cualquiera de los siguientes medios de apremio:
-
-a).- Imponer multa que se cuantificará aplicando, de uno hasta quince días de salario mínimo vigente en la zona; y
-
-b).- Solicitar el auxilio de la fuerza pública.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-Para los efectos de este inciso, los cuerpos de seguridad o policiales del estado deberán prestar en forma expedita el apoyo que les solicite la autoridad fiscal;
+VII.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2016)
 
 VIII.- Allegarse de las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales o en su caso, para formular la querella respectiva;
 
@@ -1275,9 +1381,143 @@ a).- Si con la base de contabilidad y la documentación del contribuyente, infor
 
 b).- Si la contabilidad y la documentación del contribuyente no permiten reconstruir las operaciones de treinta días, la Secretaría de Finanzas y Administración tomará como base los ingresos que observe durante siete días cuando menos, de operaciones normales promedio diario resultante, se multiplicará por el número de días que comprenda el período objeto de la revisión;
 
-c).- En la determinación presuntiva de las remuneraciones pagadas, se considerarán las que resulten de elevar al período que se revisa, cuatro veces el salario mínimo general de la zona económica del contribuyente por cada trabajador a su servicio; pudiendo la Secretaría de Finanzas y Administración allegarse de información o de dictámenes de otras dependencias facultadas para determinar las bases de los gravámenes que correspondan;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-A la base de las contribuciones, determinada presuntivamente por alguno de los procedimientos anteriores, se aplicará la tasa o tarifa que corresponda.
+c).- Las autoridades fiscales podrán estimar las erogaciones de los sujetos del Impuesto sobre Remuneraciones al Trabajo Personal en los siguientes casos:
+
+1. Cuando no presenten sus declaraciones o no lleven los libros o registros a que legalmente están obligados;
+
+2. Cuando por los informes que se obtengan se pongan de manifiesto que se han efectuado erogaciones gravadas que exceden del 3% de las declaradas por el contribuyente;
+
+3. Cuando se adviertan o detecten irregularidades en sus registros que imposibiliten el conocimiento de sus erogaciones que sirven de base para el cálculo del Impuesto sobre Remuneraciones al Trabajo Personal;
+
+Para practicar las estimaciones a que se refiere este artículo, se tendrán en cuenta:
+
+A. Las erogaciones realizadas, declaradas en los últimos doce meses para efecto del Impuesto sobre Remuneraciones al Trabajo;
+
+B. Los pagos a que se refiere el Capítulo I del Título IV de la Ley del Impuesto sobre la Renta en los últimos doce meses;
+
+C. La información contenida en los dictámenes que para efectos fiscales hubieren presentado los contribuyentes conforme a las disposiciones fiscales estatales o federales, en su caso;
+
+D. Los hechos que conozcan las autoridades fiscales con motivo del ejercicio de sus facultades de comprobación previstas en este Código, o bien que consten en los expedientes o documentos que lleven o tengan en su poder, así como aquellos proporcionados por otras autoridades del nivel federal, estatal o municipal, y
+
+E. Las actividades realizadas por el contribuyente y otros datos que puedan utilizarse, obtenidos a través de las facultades de comprobación de la autoridad fiscal.
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XIII. Cuando las autoridades fiscales en el ejercicio de sus facultades de comprobación adviertan la existencia de contribuyentes que no se encuentran inscritos en el registro estatal de contribuyentes, y se cuente con los datos necesarios para hacerlo, procederán a realizar de oficio la inscripción correspondiente.
+
+Asimismo, podrán solicitar a los contribuyentes la información necesaria para su inscripción y actualización de sus datos en el citado registro e inscribir a quienes de conformidad con las disposiciones fiscales deban estarlo y no cumplan con este requisito.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Artículo 86 A. Cuando los contribuyentes, los responsables solidarios o terceros con ellos relacionados, se opongan, impidan u obstaculicen el inicio o desarrollo del ejercicio de las facultades de las autoridades fiscales, éstas podrán aplicar como medidas de apremio, las siguientes observando estrictamente el siguiente orden:
+
+I. Solicitar el auxilio de la fuerza pública;
+
+Para los efectos de esta fracción, los cuerpos de seguridad o policiales deberán prestar en forma expedita el apoyo que solicite la autoridad fiscal.
+
+El apoyo a que se refiere el párrafo anterior consistirá en efectuar las acciones necesarias para que las autoridades fiscales ingresen al domicilio fiscal, establecimientos, sucursales, oficinas, locales, puestos fijos o semifijos, lugares en donde se almacenen mercancías y en general cualquier local o establecimiento que utilicen para el desempeño de sus actividades los contribuyentes, así como para brindar la seguridad necesaria al personal actuante, y se solicitará en términos de los ordenamientos que regulan la seguridad pública del Estado, la Federación, o de los municipios o, en su caso, de conformidad con los acuerdos de colaboración administrativa que se tengan celebrados al respecto.
+
+II. Imponer multa que se cuantificará aplicando, de una hasta quince Unidades de Medida y Actualización;
+
+III. Practicar el aseguramiento precautorio de los bienes o de la negociación del contribuyente o responsable solidario, respecto de los actos, solicitudes de información o requerimientos de documentación dirigidos a estos.
+
+IV. Solicitar a la autoridad competente se proceda por desobediencia a un mandato legítimo de autoridad competente.
+
+Las autoridades fiscales no aplicarán la medida de apremio prevista en la fracción I, cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, no atiendan las solicitudes de información o los requerimientos de documentación que les realicen las autoridades fiscales, o al atenderlos no proporcionen lo solicitado; cuando se nieguen a proporcionar la contabilidad con la cual acrediten el cumplimiento de las disposiciones fiscales a que estén obligados, o cuando destruyan o alteren la misma.
+
+No se aplicarán medidas de apremio cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos, manifiesten por escrito a la autoridad, que se encuentran impedidos de atender completa o parcialmente la solicitud realizada por causa de fuerza mayor o caso fortuito, y lo acrediten exhibiendo las pruebas correspondientes.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Artículo 86 B. El aseguramiento precautorio de los bienes o de la negociación de los contribuyentes o los responsables solidarios, a que se refiere la fracción III del artículo 86 A de este Código, así como el levantamiento del mismo, en su caso, se realizará conforme a lo siguiente:
+
+I. Se practicará una vez agotadas las medidas de apremio a que se refieren las fracciones I y II del artículo 86 A de este ordenamiento, salvo en los casos siguientes:
+
+a) Cuando no puedan iniciarse o desarrollarse las facultadas de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios, no sean localizables en su domicilio fiscal; desocupen o abandonen el mismo sin presentar el aviso correspondiente; hayan desaparecido, o se ignore su domicilio.
+
+b) Cuando las autoridades fiscales practiquen visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública y estos no puedan demostrar que se encuentran inscritos en el registro estatal de contribuyentes.
+
+c) Cuando una vez iniciadas las facultades de comprobación, exista riesgo inminente de que los contribuyentes o los responsables solidarios oculten, enajenen o dilapiden sus bienes.
+
+II. La autoridad practicará el aseguramiento precautorio hasta por el monto de la determinación provisional de adeudos fiscales presuntos que ella misma realice, únicamente para estos efectos. Para lo anterior, se podrá utilizar cualquiera de los procedimientos establecidos (sic) las fracciones XII y XIII del artículo 86 de este Código.
+
+La autoridad fiscal que practique el aseguramiento precautorio levantará acta circunstanciada en la que precise las razones por las cuales realiza dicho aseguramiento, misma que se notificará al contribuyente en ese acto.
+
+III. El aseguramiento precautorio podrá practicarse sobre los siguientes bienes:
+
+a) Bienes inmuebles, en este caso, el contribuyente o su representante legal deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, aseguramiento o embargo anterior; se encuentran en copropiedad, o pertenecen a sociedad conyugal alguna. Cuando la diligencia se entienda con un tercero, se deberá requerir a éste para que, bajo protesta de decir verdad, manifieste si tiene conocimiento de que el bien que pretende asegurarse es propiedad del contribuyente y, en su caso, proporcione la documentación con la que cuente para acreditar su dicho.
+
+b) Cuentas por cobrar, acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, estados y municipios y de instituciones o empresas de reconocida solvencia.
+
+c) Derechos de autor sobre obras literarias, artísticas o científicas; patentes de invención y registros de modelos de utilidad, diseños industriales, marcas y avisos comerciales.
+
+d) Obras artísticas, colecciones científicas, joyas, medallas, armas, antigüedades, así como instrumentos de artes y oficios, indistintamente.
+
+e) Dinero y metales preciosos.
+
+f) Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito, componente, producto o instrumento de ahorro o inversión en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro, hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 Unidades de Medidas (sic) y Actualización elevadas al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
+
+g) Los bienes muebles no comprendidos en las fracciones anteriores.
+
+h) La negociación del contribuyente.
+
+Los contribuyentes, responsables solidarios o terceros relacionados con ellos, deberán acreditar la propiedad de los bienes sobre los que se practique el aseguramiento precautorio.
+
+Cuando los contribuyentes, responsables solidarios o terceros relacionados con ellos no cuenten o, bajo protesta de decir verdad, manifiesten no contar con alguno de los bienes a asegurar conforme al orden establecido, se asentará en el acta circunstanciada referida en el segundo párrafo de la fracción II de este artículo.
+
+En el supuesto de que el valor del bien a asegurar conforme al orden establecido exceda del monto de la determinación provisional de adeudos fiscales presuntos efectuada por la autoridad, se podrá practicar el aseguramiento sobre el siguiente bien en el orden de prelación.
+
+Cuando no puedan iniciarse o desarrollarse las facultades de las autoridades fiscales derivado de que los contribuyentes, los responsables solidarios o terceros relacionados con ellos no sean localizables en su domicilio fiscal, desocupen o abandonen el mismo sin presentar el aviso correspondiente, hayan desaparecido o se ignore su domicilio, el aseguramiento se practicará sobre los bienes a que se refiere el inciso f) de esta fracción.
+
+Tratándose de las visitas a contribuyentes con locales, puestos fijos o semifijos en la vía pública a que se refiere el inciso b) de la fracción I de este artículo, el aseguramiento se practicará sobre las mercancías que se enajenen en dichos lugares, sin que sea necesario establecer un monto de la determinación provisional de adeudos fiscales presuntos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Artículo 86 C. El aseguramiento de los bienes a que se refiere el inciso f) de la fracción III del artículo 86 A de este Código, se realizará conforme a lo siguiente:
+
+La solicitud de aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda.
+
+Cuando la solicitud de aseguramiento se realice a través de las comisiones señaladas en el párrafo anterior, éstas contarán con un plazo de tres días hábiles para ordenar a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, que practique el aseguramiento precautorio.
+
+La entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, contará con un plazo de tres días hábiles contado a partir de la recepción de la solicitud respectiva, ya sea a través de la comisión de que se trate, o bien, de la autoridad fiscal, según sea el caso, para practicar el aseguramiento precautorio.
+
+Una vez practicado el aseguramiento precautorio, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, deberá informar a la autoridad fiscal que ordenó la medida a más tardar al tercer día siguiente a aquél en que lo haya realizado, las cantidades aseguradas en una o más cuentas o contratos del contribuyente, responsable solidario o tercero relacionado con ellos.
+
+En ningún caso procederá el aseguramiento precautorio de los depósitos bancarios, otros depósitos o seguros del contribuyente por un monto mayor al de la determinación provisional de adeudos fiscales presuntos que la autoridad fiscal realice para efectos del aseguramiento, ya sea que se practique sobre una sola cuenta o contrato o más de uno. Lo anterior, siempre y cuando previo al aseguramiento, la autoridad fiscal cuente con información de las cuentas o contratos y los saldos que existan en los mismos.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Artículo 86 D. La autoridad fiscal notificará al contribuyente, responsable solidario o tercero relacionado con ellos, a más tardar el quinto día hábil siguiente a aquél en que se haya practicado el aseguramiento, señalando la conducta que lo originó y, en su caso, el monto sobre el cual procedió el mismo. La notificación se hará personalmente al contribuyente, responsable solidario o tercero relacionado.
+
+Los bienes asegurados precautoriamente podrán, desde el momento en que se notifique el aseguramiento precautorio y hasta que el mismo se levante, dejarse en posesión del contribuyente, responsable solidario o tercero relacionado con ellos, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 166 de este Código.
+
+El contribuyente, responsable solidario o tercero relacionado con ellos que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
+
+Lo establecido en esta fracción no será aplicable tratándose del aseguramiento que se practique sobre los bienes a que se refieren los incisos e) y f) de la fracción III del artículo 86 A, así como sobre las mercancías que se enajenen en los locales, puestos fijos o semifijos en la vía pública, cuando el contribuyente visitado no demuestre estar inscrito en el registro estatal de contribuyentes.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Artículo 86 E. Cuando el ejercicio de facultades de comprobación no se concluya dentro de los plazos que establece este Código; se acredite fehacientemente que ha cesado la conducta que dio origen al aseguramiento precautorio, o bien exista orden de suspensión emitida por autoridad competente que el contribuyente haya obtenido, la autoridad deberá ordenar que se levante la medida a más tardar el tercer día siguiente a que ello suceda.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Artículo 86 F. En el caso de que se hayan asegurado los bienes a que se refiere el inciso f) de la fracción III del artículo 86 A, el levantamiento del aseguramiento se realizará conforme a lo siguiente:
+
+La solicitud para el levantamiento del aseguramiento precautorio se formulará mediante oficio dirigido a la Comisión Nacional Bancaria y de Valores, a la Comisión Nacional de Seguros y Fianzas o a la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien, a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, dentro del plazo de tres días hábiles siguientes a aquél en que se actualice alguno de los supuestos a que se refiere el primer párrafo de este artículo.
+
+Cuando la solicitud de levantamiento del aseguramiento se realice a través de las comisiones señaladas en el párrafo anterior, estas contarán con un plazo de tres días hábiles a partir de que surta efectos la notificación a las mismas, para ordenar a la entidad financiera o sociedad cooperativa de ahorro y préstamo que corresponda, que levante el aseguramiento precautorio.
+
+La entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate, contará con un plazo de tres días hábiles a partir de la recepción de la solicitud respectiva, ya sea a través de la comisión que corresponda, o bien de la autoridad fiscal, según sea el caso, para levantar el aseguramiento precautorio.
+
+Una vez levantado el aseguramiento precautorio, la entidad financiera o sociedad cooperativa de ahorro y préstamo de que se trate deberá informar del cumplimiento de dicha medida a la autoridad fiscal que ordenó el levantamiento, a más tardar al tercer día hábil siguiente a aquél en que lo haya realizado.
+
+Cuando la autoridad constate que el aseguramiento precautorio se practicó por una cantidad mayor a la debida, únicamente ordenará su levantamiento hasta por el monto excedente, observando para ello lo dispuesto en los párrafos que anteceden.
+
+Tratándose de los supuestos establecidos en el inciso b) de la fracción I del artículo 86 A, el aseguramiento precautorio quedará sin efectos cuando se acredite la inscripción al registro estatal de contribuyentes.
+
+Para la práctica del aseguramiento precautorio se observarán las disposiciones contenidas en la Sección Segunda del Capítulo Segundo del Título Cuarto de este Código, en aquello que no se oponga a lo previsto en este artículo.
 
 ###### ARTICULO 87.
 
@@ -1381,49 +1621,41 @@ XI.- El visitado o la persona con la que se entienda la diligencia los testigos 
 
 XII.- Con las mismas formalidades inducidas en la fracción anterior se levantarán actas previas o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-ARTICULO 88 BIS. Para los efectos de lo dispuesto por el artículo 37 de la Ley de Hacienda del Estado de Guerrero numero 428, las visitas domiciliarias se realizaran conforme a las siguientes reglas:
-
-I.- La visita domiciliaria se llevará a cabo en el lugar donde se realice la obra de construcción en proceso o concluida.
-
-II.- Cuando se ignore el nombre de la persona a la que va dirigida la orden de visita domiciliaria, se señalaran los datos suficientes que permitan su identificación, en todo caso el lugar de ubicación de la obra en cuestión.
-
-III.- Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregaran la orden de visita al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección, sin necesidad de dejar citatorio.
-
-IV.- Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si estos no son designados o los designados no aceptan servir como tales los visitadores los designaran, haciendo constar tal situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
-
-V.- La persona con quien se entienda la diligencia deberá poner a disposición de los visitadores la documentación que se mencione en la orden de visita de manera inmediata; en el caso de que exista causa justificada que impida que el visitado entregue la documentación requerida a juicio de los visitadores se le podrá conceder un término de seis días para que la entregue en el lugar que se señale en el acta de visita.
-
-VI.- En toda visita domiciliaria se levantara acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidas por los visitadores en los términos de este código, o en su caso, las irregularidades detectadas durante la misma.
-
-VII.- Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentara en la propia acta, sin que esto afecte la validez y el valor probatorio de la misma; dándose por concluida la visita domiciliaria.
-
-VIII.- Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación y notificación de la resolución correspondiente, dentro del término de 40 días hábiles. Fenecido este plazo y las autoridades no notifiquen la resolución al visitado, se entenderá concluida la revisión en esa fecha, quedando sin efectos la orden de visita.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTICULO 88 BIS], P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-ARTICULO 88 BIS I.- Quedan incluidos en la contabilidad los registros y cuentas especiales a que se obliguen las disposiciones fiscales, los que lleven los contribuyentes aún cuando no sean obligatorios y los libros y registros sociales que obliguen otras leyes.
-
-En los casos en que las demás disposiciones de este Código hagan referencia a la contabilidad se entenderá que la misma se integra por los sistemas y registros contables, por los papeles de trabajo, registros, cuentas especiales, libros y registros sociales señalados en el párrafo precedente por los equipos y sistemas electrónicos de registro fiscal y sus registros por las máquinas registradoras de comprobación fiscal y sus registros, cuando se este obligado a llevar dichas maquinas así como la documentación comprobatorios (sic) de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 88 Bis.
 
-Para los efectos de lo dispuesto por el artículo 37 de la Ley de Hacienda del Estado de Guerrero numero 428, las visitas domiciliarias se realizaran conforme a las siguientes reglas:
+Para los efectos de lo dispuesto por el artículo 42 de la Ley de Hacienda del Estado de Guerrero, las visitas domiciliarias se realizarán conforme a las siguientes reglas:
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 I.- La visita domiciliaria se llevará a cabo en el lugar donde se realice la obra de construcción en proceso o concluida.
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 II.- Cuando se ignore el nombre de la persona a la que va dirigida la orden de visita domiciliaria, se señalaran los datos suficientes que permitan su identificación, en todo caso el lugar de ubicación de la obra en cuestión.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 III.- Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregaran la orden de visita al visitado, a su representante legal, al encargado o a quien se encuentre al frente del lugar visitado, indistintamente, y con dicha persona se entenderá la visita de inspección, sin necesidad de dejar citatorio.
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 IV.- Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si estos no son designados o los designados no aceptan servir como tales los visitadores los designaran, haciendo constar tal situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 V.- La persona con quien se entienda la diligencia deberá poner a disposición de los visitadores la documentación que se mencione en la orden de visita de manera inmediata; en el caso de que exista causa justificada que impida que el visitado entregue la documentación requerida a juicio de los visitadores se le podrá conceder un término de seis días para que la entregue en el lugar que se señale en el acta de visita.
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 VI.- En toda visita domiciliaria se levantara acta en la que se harán constar en forma circunstanciada los hechos u omisiones conocidas por los visitadores en los términos de este código, o en su caso, las irregularidades detectadas durante la misma.
 
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+
 VII.- Si al cierre del acta de visita domiciliaria el visitado o la persona con quien se entendió la diligencia o los testigos se niegan a firmar el acta, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentara en la propia acta, sin que esto afecte la validez y el valor probatorio de la misma; dándose por concluida la visita domiciliaria.
+
+> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
 VIII.- Si con motivo de la visita domiciliaria a que se refiere este artículo, las autoridades conocieron incumplimientos a las disposiciones fiscales, se procederá a la formulación y notificación de la resolución correspondiente, dentro del término de 40 días hábiles. Fenecido este plazo y las autoridades no notifiquen la resolución al visitado, se entenderá concluida la revisión en esa fecha, quedando sin efectos la orden de visita.
 
@@ -1487,7 +1719,7 @@ IV.- Cuando el contribuyente no atienda el requerimiento de datos, informes o do
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
-Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, o de las prorrogas que procedan, los contribuyentes interponen algún medio de defensa o la autoridad inicia el juicio de lescividad contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
+Si durante el plazo para concluir la visita domiciliaria o la revisión de la contabilidad del contribuyente en las oficinas de las propias autoridades, o de las prorrogas que procedan, los contribuyentes interponen algún medio de defensa o la autoridad inicia el juicio de lescividad (sic) contra los actos o actividades que deriven del ejercicio de sus facultades de comprobación, dichos plazos se suspenderán desde la fecha en que se interpongan los citados medios de defensa hasta que se dicte resolución definitiva de los mismos.
 
 ###### ARTICULO 91.
 
@@ -1821,9 +2053,9 @@ a) Determinada la irregularidad se le notificará por oficio al Contador Públic
 
 b) Agotada la fase anterior, con vista en los elementos que obren en el expediente, la Secretaria emitirá la resolución que proceda.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XXIII.- El dictaminador deberá determinar la base para el pago de este impuesto por concepto de remuneraciones al trabajo personal, relacionando los conceptos gravables para efectos de este impuesto, de conformidad con el artículo 35 de la Ley de Hacienda del Estado de Guerrero, en cada uno de los meses del período sujeto a dictamen.
+XIII (SIC).- El dictaminador deberá determinar la base para el pago de este impuesto por concepto de remuneraciones al trabajo personal, relacionando los conceptos gravables para efectos de este impuesto, de conformidad con el artículo 39 de la Ley de Hacienda del Estado de Guerrero, en cada uno de los meses del período sujeto a dictamen.
 
 > <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -1835,9 +2067,9 @@ En caso de existir declaraciones complementarias, tal circunstancia deberá hace
 
 XXV.- Para el dictamen de cumplimiento de las obligaciones fiscales en materia del Impuesto sobre remuneraciones al trabajo personal, el Contador Público requisitará debidamente los anexos de acuerdo a las reglas de carácter general que al efecto expida la Secretaría de Finanzas.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XXVI.- El dictaminador deberá determinar la base para el pago de este impuesto por la prestación de servicios de hospedaje, relacionando los conceptos gravables para efectos de este impuesto, de conformidad con los artículos 48 y 50 de la Ley de Hacienda del Estado de Guerrero, en cada uno de los meses del período sujeto a dictamen.
+XXVI.- El dictaminador deberá determinar la base para el pago de este impuesto por la prestación de servicios de hospedaje, relacionando los conceptos gravables para efectos de este impuesto, de conformidad con los artículos 57 y 59 de la Ley de Hacienda del Estado de Guerrero, en cada uno de los meses del período sujeto a dictamen.
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -2013,7 +2245,9 @@ El monto de las multas que este Capítulo establece en cantidades determinadas o
 
 Cuando las multas no se paguen en la fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en términos del artículo 35 de este Código.
 
-Las multas que este Capítulo establece en cantidades determinadas o entre una mínima y otra máxima que se deban aplicar a los contribuyentes, que en el pago de su impuesto no rebasen 3 salarios mínimos vigente (sic) en la zona económica que corresponda, se considerarán reducidas en un 50% de dichos montos.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Las multas que este Capítulo establece en cantidades determinadas o entre una mínima y otra máxima que se deban aplicar a los contribuyentes, que en el pago de su impuesto no rebasen tres Unidades de Medida y Actualización, se considerarán reducidas en un 50% de dichos montos.
 
 ###### ARTICULO 103.
 
@@ -2071,19 +2305,31 @@ II.- Se disminuirán en un 20% el monto de las contribuciones omitidas o del ben
 
 La Secretaría de Finanzas y Administración y sus dependencias impondrán las sanciones administrativas a las infracciones cuya responsabilidad recae sobre los sujetos pasivos o responsables solidarios a una prestación fiscal, en los términos siguientes:
 
-I.- No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse en el Registro de Contribuyentes de la Secretaría de Finanzas y Administración, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción en el Registro de Contribuyentes que corresponda las actividades por las que sea causante habitual; de diez hasta treinta días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-No citar correctamente en la solicitud de inscripción o avisos al Registro Estatal de Contribuyentes, las actividades por las que sea contribuyente habitual, no citar la clave de Registro Federal de Contribuyentes o utilizar alguna distinta, de cinco a quince días de salario mínimo general vigente en la zona "A".
+I.- No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse en el Registro de Contribuyentes de la Secretaría de Finanzas y Administración, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción en el Registro de Contribuyentes que corresponda las actividades por las que sea causante habitual; de diez hasta treinta Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+No citar correctamente en la solicitud de inscripción o avisos al Registro Estatal de Contribuyentes, las actividades por las que sea contribuyente habitual, no citar la clave de Registro Federal de Contribuyentes o utilizar alguna distinta, de cinco a quince Unidades de Medida y Actualización.
 
 No cumplir con la garantía establecida en la fracción VIII del artículo 17 de la Ley de Hacienda del Estado, para la realización de espectáculos públicos, se aplicará la sanción establecida en el párrafo que antecede, la cual deberá cubrirse al concluir el acto de intervención.
 
-II.- Por obtener o usar más de un número de registro que corresponda para el cumplimiento de las obligaciones a su cargo, en relación con los impuestos o contribuciones estatales; de uno hasta treinta días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-III.- Por utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos o contribuciones correspondientes; de cinco hasta treinta días de salario mínimo general vigente en la zona "A";
+II.- Por obtener o usar más de un número de registro que corresponda para el cumplimiento de las obligaciones a su cargo, en relación con los impuestos o contribuciones estatales; de uno hasta treinta Unidades de Medida y Actualización.
 
-IV.- No exhibir los documentos que acrediten su registro en los lugares que señalen las disposiciones fiscales, no devolverlo oportunamente dentro del plazo que los mismos establecen, o no citar su número de registro o cuentas, según el caso, en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridad; de cinco a diez días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-V.- Emprender cualquier explotación sin reunir los requisitos exigidos por los ordenamientos fiscales, alterarlos o falsificarlos; de diez hasta treinta días del salario mínimo general vigente en la zona "A".
+III.- Por utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos o contribuciones correspondientes; de cinco hasta treinta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+IV.- No exhibir los documentos que acrediten su registro en los lugares que señalen las disposiciones fiscales, no devolverlos oportunamente dentro del plazo que los mismos establecen, o no citar su número de registro o cuentas, según el caso, en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridad; de cinco a diez Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+V.- Emprender cualquier explotación sin reunir los requisitos exigidos por los ordenamientos fiscales, alterarlos o falsificarlos; de diez hasta treinta Unidades de Medida y Actualización.
 
 #### SECCION CUARTA. DE LAS INFRACCIONES Y SANCIONES RELACIONADAS CON LA CONTABILIDAD
 
@@ -2091,27 +2337,45 @@ V.- Emprender cualquier explotación sin reunir los requisitos exigidos por los 
 
 Las autoridades fiscales de la Secretaría de Finanzas y Administración impondrán las sanciones administrativas a las infracciones relacionadas con la contabilidad en los siguientes casos:
 
-I.- No llevar los sistemas contables, a que aluden las disposiciones fiscales; llevarlos en forma distinta a como éstas prescriben, no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos o fuera de los plazos respectivos; de veinte a setenta días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-II.- Llevar doble juego de libros; de treinta a noventa días de salario mínimo general vigente en la zona "A";
+I.- No llevar los sistemas contables, a que aluden las disposiciones fiscales; llevarlos en forma distinta a como éstas prescriben, no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos o fuera de los plazos respectivos; de veinte a setenta Unidades de Medida y Actualización;
 
-III.- Hacer, mandar hacer, o permitir en su contabilidad anotaciones, asientos o cuentas, nombres, cantidades o datos falsos; alterar, en perjuicio del fisco, de treinta a noventa días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-IV.- Destruir o inutilizar los libros cuando no haya transcurrido el plazo durante el cual conforme al artículo 79 del Código Fiscal del Estado, los deban conservar; de treinta a noventa días de salario mínimo general vigente en la zona "A";
+II.- Llevar doble juego de libros; de treinta a noventa Unidades de Medida y Actualización;
 
-V.- No devolver oportunamente a las autoridades los comprobantes de pago de las prestaciones fiscales cuando lo exijan las disposiciones relativas; de treinta a noventa días de salario mínimo general vigente en la zona "A",
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-VI.- Faltar a la obligación de extender comprobantes, facturas o cualesquiera otros documentos que señalen las leyes fiscales. No exigirlos cuando tengan obligación de hacerlo, no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma; de treinta a noventa días de salario mínimo general vigente en la zona "A";
+III.- Hacer, mandar hacer, o permitir en su contabilidad anotaciones, asientos o cuentas, nombres, cantidades o datos falsos; alterar, en perjuicio del fisco, de treinta a noventa Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-VII.- No presentar, no proporcionar o hacerlo extemporáneamente los avisos, declaraciones, datos, informes, copias, libros y documentos que exijan las disposiciones fiscales, no comprobarlos o aclararlos, cuando las autoridades fiscales lo requieran; no cumplir los requerimientos o cumplirlos fuera de los plazos señalados en los mismos, de noventa a doscientos cincuenta días de salario general vigente en la zona "A", y, en caso de reincidencia hasta el doble del monto de la última sanción impuesta, la cual no podrá exceder de quinientos días de salario mínimo general vigente en la zona "A";
+IV.- Destruir o inutilizar los libros cuando no haya transcurrido el plazo durante el cual conforme al artículo 79 del Código Fiscal del Estado, los deban conservar; de treinta a noventa Unidades de Medida y Actualización;
 
-VIII.- Presentar los avisos, declaraciones, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal; de treinta a noventa días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-IX.- No presentar, no proporcionar o hacerlo extemporáneamente los avisos, datos, informes, copias, libros y/o documentos que establezcan las disposiciones fiscales, no comprobarlos o no aclararlos cuando las autoridades fiscales lo soliciten en materia de gravámenes suspendidos por virtud de la Coordinación Fiscal con la Federación; de treinta a noventa días de salario mínimo general vigente en la zona "A";
+V.- No devolver oportunamente a las autoridades los comprobantes de pago de las prestaciones fiscales cuando lo exijan las disposiciones relativas; de treinta a noventa Unidades de Medida y Actualización;
 
-X.- Declarar ingresos menores a los percibidos, hacer deducciones falsas, ocultar y omitir bienes, existencias que deben figurar en los inventarios, o ligarlos a precios inferiores que los reales, no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que éstas dispongan; de treinta a noventa días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+VI.- Faltar a la obligación de extender comprobantes, facturas o cualesquiera otros documentos que señalen las leyes fiscales. No exigirlos cuando tengan obligación de hacerlo, no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma; de treinta a noventa Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+VII.- No presentar, no proporcionar o hacerlo extemporáneamente los avisos, declaraciones, datos, informes, copias, libros y documentos que exijan las disposiciones fiscales, no comprobarlos o aclararlos, cuando las autoridades fiscales lo requieran; no cumplir los requerimientos o cumplirlos fuera de los plazos señalados en los mismos, de noventa a doscientos cincuenta Unidades de Medida y Actualización, y, en caso de reincidencia hasta el doble del monto de la última sanción impuesta, la cual no podrá exceder de quinientos (sic) Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Presentar los avisos, declaraciones, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal; de treinta a noventa Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+IX.- No presentar, no proporcionar o hacerlo extemporáneamente los avisos, datos, informes, copias, libros y/o documentos que establezcan las disposiciones fiscales, no comprobarlos o no aclararlos cuando las autoridades fiscales lo soliciten en materia de gravámenes suspendidos por virtud de la Coordinación Fiscal con la Federación; de treinta a noventa Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+X.- Declarar ingresos menores a los percibidos, hacer deducciones falsas, ocultar y omitir bienes, existencias que deben figurar en los inventarios, o ligarlos a precios inferiores que los reales, no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que éstas dispongan; de treinta a noventa Unidades de Medida y Actualización;
 
 XI.- Cuando las autoridades fiscales estatales, apliquen el procedimiento administrativo de ejecución fiscal, por falta de pago total o parcial de contribuciones dentro de los plazos antes señalados en las leyes fiscales:
 
@@ -2119,15 +2383,25 @@ a).- A los contribuyentes omisos, se les impondrá una multa equivalente a un ta
 
 b).- Al contribuyente reincidente un tanto y medio de la sanción a que se refiere esta fracción;
 
-XII.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras; de treinta hasta noventa días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XIII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso ilegal de ellos; de treinta a noventa días de salario mínimo general vigente en la zona "A";
+XII.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras; de treinta hasta noventa Unidades de Medida y Actualización;
 
-XIV.- Resistirse por cualquier medio, a las visitas de inspección, no suministrar los datos e informes que legalmente pueden exigir los inspectores o auditores, no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita domiciliaria; de cuarenta a ciento veinte días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XV.- No conservar los libros, documentos y correspondencia que les sean dejados en calidad de depositarios, por los visitadores, al estarse practicando visitas domiciliarias; de cincuenta a ciento sesenta días de salario mínimo general vigente en la zona "A";
+XIII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso ilegal de ellos; de treinta a noventa Unidades de Medida y Actualización;
 
-XVI.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes; de cuarenta a ciento veinte días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XIV.- Resistirse por cualquier medio, a las visitas de inspección, no suministrar los datos e informes que legalmente pueden exigir los inspectores o auditores, no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita domiciliaria; de cuarenta a ciento veinte Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XV.- No conservar los libros, documentos y correspondencia que les sean dejados en calidad de depositarios, por los visitadores, al estarse practicando visitas domiciliarias; de cincuenta a ciento sesenta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes; de cuarenta a ciento veinte Unidades de Medida y Actualización;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -2145,9 +2419,9 @@ Si las autoridades fiscales determinan una omisión mayor que la considerada por
 
 Las multas a que se refiere esta fracción se aumentarán en un 50% de las contribuciones omitidas a los contribuyentes omisos y a los reincidentes;
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XVIII.- Omitir dictaminar sus contribuciones fiscales estatales en los casos y de conformidad con lo previsto en el articulo 91 BIS de este Código, o abstenerse de presentar dicho dictamen dentro del término previsto por las leyes fiscales; de 158 a 1580 días de salario mínimo general vigente en la zona "A".
+XVIII.- Omitir dictaminar sus contribuciones fiscales estatales en el caso que haya optado por dictaminarse de conformidad con lo previsto en el artículo 91 BIS de este Código, o abstenerse de presentar dicho dictamen dentro del término previsto por las leyes fiscales; de 158 a 1580 Unidades de Medida y Actualización.
 
 #### SECCION QUINTA. DE LAS INFRACCIONES Y SANCIONES RELACIONADAS CON LAS RESPONSABILIDADES DE LOS FUNCIONARIOS REVESTIDOS DE FE PUBLICA
 
@@ -2155,31 +2429,55 @@ XVIII.- Omitir dictaminar sus contribuciones fiscales estatales en los casos y d
 
 Son infracciones cuya responsabilidad recae sobre los jueces, encargados de los registros, notarios, corredores, y en general funcionarios que se encuentran revestidos de fe pública, las que a continuación se indican:
 
-I.- No hacer la cotización y determinación de impuestos que causen las escrituras, minutas o cualesquier acto y contrato que se otorgue ante el fedatario o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales; de treinta a noventa días de salario mínimo general vigente en la zona "A".
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-II.- Expedir testimonio de escrituras, documentos o minutas cuando no estén pagados los impuestos correspondientes; multa de treinta a noventa días de salario mínimo general vigente en la zona "A".
+I.- No hacer la cotización y determinación de impuestos que causen las escrituras, minutas o cualesquier acto y contrato que se otorgue ante el fedatario o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales; de treinta a noventa Unidades de Medida y Actualización;
 
-III.- No consignar a las autoridades fiscales los documentos que se presenten cuando no estén pagados los impuestos correspondientes; multa de treinta a noventa días de salario mínimo general vigente en la zona "A".
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-IV.- No expedir las notas de liquidación de alguna prestación fiscal, o expedirlas en forma que dé lugar a la evasión parcial o total de gravámenes; multa de cincuenta a ciento sesenta días de salario mínimo general vigente en la zona "A".
+II.- Expedir testimonio de escrituras, documentos o minutas cuando no estén pagados los impuestos correspondientes; multa de treinta a noventa Unidades de Medida y Actualización;
 
-V.- Autorizar actos o contratos por los que se causa algún crédito fiscal a favor del Estado o que estén relacionados con fuentes de ingresos gravados por la Ley sin cerciorarse previamente de que está al corriente de las obligaciones fiscales; multa de veinte a sesenta días de salario mínimo general vigente en la zona "A".
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-VI.- Inscribir o registrar documentos, instrumentos o libros que carezcan total o parcialmente de la comprobación o constancia de haberse pagado los gravámenes correspondientes; multa de veinte a sesenta días de salario mínimo general vigente en la zona "A".
+III.- No consignar a las autoridades fiscales los documentos que se presenten cuando no estén pagados los impuestos correspondientes; multa de treinta a noventa Unidades de Medida y Actualización;
 
-VII.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo, en el plazo que fijen las disposiciones fiscales, o cuando lo exijan las autoridades competentes o presentarlos incompletos o inexactos, multa de veinte a sesenta días de salario mínimo general vigente en la zona "A".
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Proporcionar los informes o documentos a que se refiere la fracción anterior, alterados o falsificados, multa de cincuenta a ciento sesenta días de salario mínimo general vigente en la zona "A".
+IV.- No expedir las notas de liquidación de alguna prestación fiscal, o expedirlas en forma que dé lugar a la evasión parcial o total de gravámenes; multa de cincuenta a ciento sesenta Unidades de Medida y Actualización;
 
-IX.- Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento, multa de cincuenta a ciento sesenta días de salario mínimo general vigente en la zona "A".
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-X.- Cooperar con los infractores o facilitar en cualquier forma la omisión total o parcialmente, de gravámenes, mediante alteraciones, ocultamiento, otros hechos u omisiones, multa de cincuenta a ciento sesenta días de salario mínimo general vigente en la zona "A".
+V.- Autorizar actos o contratos por los que se causa algún crédito fiscal a favor del Estado o que estén relacionados con fuentes de ingresos gravados por la Ley sin cerciorarse previamente de que está al corriente de las obligaciones fiscales; multa de veinte a sesenta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+VI.- Inscribir o registrar documentos, instrumentos o libros que carezcan total o parcialmente dela (sic) comprobación o constancia de haberse pagado los gravámenes correspondientes; multa de veinte a sesenta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+VII.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo, en el plazo que fijen las disposiciones fiscales, o cuando lo exijan las autoridades competentes o presentarlos incompletos o inexactos, multa de veinte a sesenta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Proporcionar los informes o documentos a que se refiere la fracción anterior, alterados o falsificados, multa de cincuenta a ciento sesenta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+IX.- Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento, multa de cincuenta a ciento sesenta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+X.- Cooperar con los infractores o facilitar en cualquier forma la omisión total o parcialmente, de gravámenes, mediante alteraciones, ocultamiento, otros hechos u omisiones, multas de cincuenta a ciento sesenta Unidades de Medida y Actualización;
 
 XI.- No enterar dentro del plazo legal los créditos fiscales correspondientes a los actos en que intervengan; multa que no exceda de un tanto de lo que importe el crédito fiscal y los accesorios legales respectivos.
 
-XII.- Traficar ilegalmente con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos, por cada uno, multa de cincuenta a ciento sesenta días de salario mínimo general vigente en la zona "A".
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XIII.- Infringir otras disposiciones fiscales en forma no prevista en las precedentes; multa de cincuenta a ciento sesenta días de salario mínimo general vigente en la zona "A".
+XII.- Traficar ilegalmente con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso ilegal de ellos, por cada uno, multa de cincuenta a ciento sesenta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XIII.- Infringir otras disposiciones fiscales en forma no prevista en las precedentes; multas de cincuenta a ciento sesenta Unidades de Medida y Actualización.
 
 #### SECCION SEXTA. DE LAS INFRACCIONES Y SANCIONES RELACIONADAS CON LAS DE LOS FUNCIONARIOS Y EMPLEADOS PUBLICOS
 
@@ -2187,49 +2485,85 @@ XIII.- Infringir otras disposiciones fiscales en forma no prevista en las preced
 
 Son infracciones y sanciones cuya responsabilidad corresponde a los funcionarios y empleados públicos del Estado, así como a los encargados de servicios públicos y órganos oficiales, sin perjuicio de la Ley de Responsabilidad de los Servidores Públicos del Estado las siguientes:
 
-I.- Dar entrada o curso a documentos que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales, y en general no cuidar el cumplimiento de las mismas; de uno a cincuenta días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-II.- Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó el gravamen; de uno a cien días de salario mínimo general vigente en la zona "A";
+I.- Dar entrada o curso a documentos que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales, y en general no cuidar el cumplimiento de las mismas; de uno a cincuenta Unidades de Medida y Actualización;
 
-III.- Recibir el pago de una prestación fiscal y no enterar el importe en el plazo legal; de uno hasta ciento sesenta días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-IV.- No exigir el pago total de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal, sin cumplir con la forma establecida por las disposiciones aplicables y en perjuicio del control e interés fiscal; de cinco hasta doscientos días de salario mínimo general vigente en la zona "A";
+II.- Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó el gravamen; de uno a cien Unidades de Medida y Actualización;
 
-V.- No presentar ni proporcionar, extemporáneamente los informes, avisos, datos y documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; no prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias; de uno hasta cincuenta días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-VI.- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados; de uno hasta ciento treinta días de salario mínimo general vigente en la zona "A";
+III.- Recibir el pago de una prestación fiscal y no enterar el importe en el plazo legal; de uno hasta ciento sesenta Unidades de Medida y Actualización;
 
-VII.- Alterar los documentos fiscales que tengan en su poder; de uno hasta ciento sesenta días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Asentar falsamente en el acta de visita correspondiente, que se ha dado cumplimiento a las disposiciones o incluir en las relativas datos falsos; de uno hasta ciento sesenta días de salario mínimo general vigente en la zona "A";
+IV.- No exigir el pago total de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal, sin cumplir con la forma establecida por las disposiciones aplicables y en perjuicio del control e interés fiscal; de cinco hasta doscientos Unidades de Medida y Actualización;
 
-IX.- No practicar las visitas de inspección cuando tengan obligación de hacerlo; de uno hasta treinta días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-X.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales; de uno hasta cincuenta días de salario mínimo general vigente en la zona "A";
+V.- No presentar ni proporcionar, extemporáneamente los informes, avisos, datos y documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; no prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias; de uno hasta cincuenta Unidades de Medida y Actualización;
 
-XI.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los causantes o aprovecharse de ellos. Para los efectos de esta infracción los representantes de los causantes que intervengan ante las juntas que califiquen, tabulen o aprueben en su caso determinaciones para efectos fiscales, o los organismos fiscales autónomos se asimilan a los empleados o funcionarios públicos; de uno hasta cien días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XII.- Facilitar o permitir la alteración de las declaraciones, avisos, cualquier otro documento, cooperar en cualquier forma para que se eludan las prestaciones fiscales; de uno hasta ciento sesenta días de salario mínimo general vigente en la zona "A";
+VI.- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados; de uno hasta ciento treinta Unidades de Medida y Actualización;
 
-XIII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos, de uno hasta ciento veinte días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XIV.- Resistirse por cualquier medio a las visitas de auditoría administrativa; no suministrar datos o informes que legalmente puedan exigir los inspectores auditores, no mostrar los registros, controles, documentos, cajas de seguridad, almacenes, locales y en general negarse a proporcionar los elementos que se requieran en relación con el objeto de las visitas, de uno hasta cincuenta días de salario mínimo general vigente en la zona "A";
+VII.- Alterar los documentos Fiscales que tengan en su poder; de uno hasta ciento sesenta Unidades de Medida y Actualización;
 
-XV.- Exigir bajo título de cooperación o colaboración u otros semejantes cualquier prestación que no esté expresamente prevista en la Ley, aún cuando se aplique a la realización de las funciones propias de su cargo; de uno hasta ciento veinte días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XVI.- Adquirir los bienes objeto de un remate efectuado por el Fisco estatal, por sí o por interpósita persona, multa de uno a cien días de salario mínimo general vigente en la zona "A";
+VIII.- Asentar falsamente en el acta de visita correspondiente, que se ha dado cumplimiento a las disposiciones o incluir en las relativas datos falsos; de uno hasta ciento sesenta Unidades de Medida y Actualización;
 
-XVII.- Otorgar beneficios o estímulos fiscales a los contribuyentes sin estar legalmente facultado para ello, multa de cinco a cien días de salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XVIII.- Omitir la comprobación de la exactitud de los cálculos de impuestos sometidos por los notarios o jueces que actúen por receptoría o incurrir en los mismos errores de aquellos, si ello entraña omisión de impuestos, multa de uno a cincuenta días de salario mínimo general vigente en la zona "A";
+IX.- No practicar las visitas de inspección cuando tengan obligación de hacerlo; de uno hasta treinta Unidades de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XIX.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones anteriores; de uno a cien días de salario mínimo general vigente en la zona económica que le corresponda; y
+X.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales; de uno hasta cincuenta Unidades de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XX.- Cuando no se deje citatorio, no se realice la diligencia a la hora exacta, llenar parcialmente los campos del acta de notificación, alterar los datos del acta de notificación, asentar datos falsos en el acta de notificación, no recabar la firma del contribuyente o del propio notificador, no circunstanciar los hechos cuando se niegue el contribuyente a recibir u oponer resistencia, realizar la diligencia fuera del horario normal, en general todos los actos dolosos que tengan el fin (sic) no hacer efectivo el crédito fiscal, a los notificadores, visitadores y ejecutores se les impondrá una multa de cinco y hasta diez veces el salario mínimo general.
+XI.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los causantes o aprovecharse de ellos. Para los efectos de esta infracción los representantes de los causantes que intervengan ante las juntas que califiquen, tabulen o aprueben en su caso determinaciones para efectos fiscales, o los organismos fiscales autónomos se asimilan a los empleados o funcionarios públicos; de uno hasta cien Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XII.- Facilitar o permitir la alteración de las declaraciones, avisos, cualquier otro documento, cooperar en cualquier forma para que se eludan las prestaciones fiscales; de uno hasta ciento sesenta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XIII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos, de uno hasta ciento veinte Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XIV.- Resistirse por cualquier medio a las visitas de auditoría administrativa; no suministrar datos o informes que legalmente puedan exigir los inspectores auditores, no mostrar los registros, controles, documentos, cajas de seguridad, almacenes, locales y en general negarse a proporcionar los elementos que se requieran en relación con el objeto de las visitas, de uno hasta cincuenta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XV.- Exigir bajo título de cooperación o colaboración u otros semejantes cualquier prestación que no esté expresamente prevista en la Ley, aún cuando se aplique a la realización de las funciones propias de su cargo; de uno hasta ciento veinte Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Adquirir los bienes objeto de un remate efectuado por el Fisco estatal, por sí o por interpósita persona, multa de uno a cien Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XVII.- Otorgar beneficios o estímulos fiscales a los contribuyentes sin estar legalmente facultado para ello, multa de cinco a cien Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XVIII.- Omitir la comprobación de la exactitud de los cálculos de impuestos sometidos por los notarios o jueces que actúen por receptoría o incurrir en los mismos errores de aquellos, si ello entraña omisión de impuestos, multa de uno a cincuenta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XIX.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones anteriores; de uno a cien Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XX.- Cuando no se deje citatorio, no se realice la diligencia a la hora exacta, llenar parcialmente los campos del acta de notificación, alterar los datos del acta de notificación, asentar datos falsos en el acta de notificación, no recabar la firma del contribuyente o del propio notificador, no circunstanciar los hechos cuando se niegue el contribuyente a recibir u oponer resistencia, realizar la diligencia fuera del horario normal, en general todos los actos dolosos que tengan el fin no hacer efectivo el crédito fiscal, a los notificadores, visitadores y ejecutores se les impondrá una multa de cinco a hasta diez Unidades de Medida y Actualización.
 
 #### SECCION SEPTIMA. DE LAS INFRACCIONES Y SANCIONES CUYA RESPONSABILIDAD RECAE SOBRE TERCEROS
 
@@ -2237,43 +2571,79 @@ XX.- Cuando no se deje citatorio, no se realice la diligencia a la hora exacta, 
 
 Son infracciones cuya responsabilidad recae sobre terceros:
 
-I.- No inscribirse en el padrón o registro de contribuyentes que corresponda, o consentir o tolerar que se inscriba a su nombre en dichos padrones o registros, negociaciones ajenas o percibir ingresos gravables que corresponda a otra persona, cuando esto traiga como consecuencia omisión de impuestos o contribuciones; de uno hasta ciento veinte días del salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-II.- No proporcionar avisos, informes, datos o documentos o exhibirlos en el plazo fijado por las disposiciones fiscales, o cuando las autoridades lo exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten; de uno hasta cincuenta días del salario mínimo general vigente en la zona "A";
+I.- No inscribirse en el padrón o registro de contribuyentes que corresponda, o consentir o tolerar que se inscriba a su nombre en dichos padrones o registros, negociaciones ajenas o percibir ingresos gravables que corresponda a otra persona, cuando esto traiga como consecuencia omisión de impuestos o contribuciones; de uno hasta ciento veinte Unidades de Medida y Actualización;
 
-III.- Presentar los avisos, informes, datos y documentos de que habla en la fracción anterior, incompletos o inexactos; de uno hasta cincuenta días del salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-IV.- Proporcionar los avisos, informes, datos o documentos a que se refieren las fracciones anteriores, alterados o falsificados; de uno hasta cien días del salario mínimo general vigente en la zona "A";
+II.- No proporcionar avisos, informes, datos o documentos o exhibirlos en el plazo fijado por las disposiciones fiscales, o cuando las autoridades lo exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten; de uno hasta cincuenta Unidades de Medida y Actualización;
 
-V.- Autorizar o hacer constar documentos, inventarios, balances, asientos o datos falsos cuando actúen como contadores, peritos o testigos; de uno hasta ciento veinte días del salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-VI.- Asesorar o aconsejar a los contribuyentes para evadir el pago de una prestación fiscal o para infringir las disposiciones fiscales, contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan; de uno a ciento veinte días del salario mínimo general vigente en la zona "A";
+III.- Presentar los avisos, informes, datos y documentos de que habla en la fracción anterior, incompletos o inexactos; de uno hasta cincuenta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+IV.- Proporcionar los avisos, informes, datos o documentos a que se refieren las fracciones anteriores, alterados o falsificados; de uno hasta cien Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+V.- Autorizar o hacer constar documentos, inventarios, balances, asientos o datos falsos cuando actúen como contadores, peritos o testigos; de uno hasta ciento veinte Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+VI.- Asesorar o aconsejar a los contribuyentes para evadir el pago de una prestación fiscal o para infringir las disposiciones fiscales, contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan; de uno a ciento veinte Unidades de Medida y Actualización;
 
 VII.- Ser cómplices en cualquier forma no prevista en la comisión de infracciones fiscales, hasta tres tantos de la prestación fiscal y/o contraprestación;
 
-VIII.- No enterar total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones fiscales, retenidas o que debieron retener o recaudar; de uno hasta ciento treinta días del salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-IX.- Presentar los documentos relativos al pago de las prestaciones retenidas, alteradas, falsificadas, incompletas con errores que traigan consigo la evasión parcial o total de las mismas prestaciones; de uno hasta ciento veinte días del salario mínimo general vigente en la zona "A";
+VIII.- No enterar total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones fiscales, retenidas o que debieron retener o recaudar; de uno hasta ciento treinta Unidades de Medida y Actualización;
 
-X.- Adquirir, ocultar, retener o enajenar, productos, mercancías o artículos a sabiendas de que no se cubrieron los gravámenes que en relación con aquellos se hubieran debido pagar, de uno hasta cien días del salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XI.- No cerciorarse, o transportar artículos gravados del pago de los impuestos que se hayan causado, cuando las disposiciones fiscales, impongan esa obligación o hacer el transporte sin los requisitos establecidos por ello; de uno hasta cien días del salario mínimo general vigente en la zona "A";
+IX.- Presentar los documentos relativos al pago de las prestaciones retenidas, alteradas, falsificadas, incompletas con errores que traigan consigo la evasión parcial o total de las mismas prestaciones; de uno hasta ciento veinte Unidades de Medida y Actualización;
 
-XII.- Hacer pagos y aceptar documentos que los comprueben cuando derivándose de hechos que generan el gravamen, no se haya cumplido con el pago de la prestación fiscal o no se acredite su regular cumplimiento de acuerdo con las disposiciones; de uno hasta cincuenta días del salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XIII.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales; de uno hasta cien días del salario mínimo general vigente en la zona "A";
+X.- Adquirir, ocultar, retener o enajenar, productos, mercancías o artículos a sabiendas de que no se cubrieron los gravámenes que en relación con aquellos se hubiera debido pagar, de uno hasta cien Unidades de Medida y Actualización;
 
-XIV.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos; de uno hasta ciento treinta días del salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XV.- No poner en conocimiento a las autoridades fiscales, cuando se posean documentos de los mencionados en la fracción XII de este artículo; de uno hasta cincuenta días del salario mínimo general vigente en la zona "A";
+XI.- No cerciorarse, o transportar artículos gravados del pago de los impuestos que se hayan causado, cuando las disposiciones fiscales, impongan esa obligación o hacer el transporte sin los requisitos establecidos por ello; de uno hasta cien Unidades de Medida y Actualización;
 
-XVI.- Alterar o destruir los cordones o sellos oficiales; de uno hasta ciento treinta días del salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XVII.- Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir los visitadores, no mostrar los libros o cajas de valores y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o de los contribuyentes con quienes haya efectuado operaciones, en relación con el objeto de la visita; de uno hasta cien días del salario mínimo general vigente en la zona "A";
+XII.- Hacer pagos y aceptar documentos que los comprueben cuando derivándose de hechos que generan el gravamen, no se haya cumplido con el pago de la prestación fiscal o no se acredite su regular cumplimiento de acuerdo con las disposiciones; de uno hasta cincuenta Unidades de Medida y Actualización;
 
-XVIII.- No conservar los libros, documentos, correspondencia que le sean dejados en calidad de depositarios, por los visitadores, al estarse practicando visitas domiciliarias, de uno hasta ciento treinta días del salario mínimo general vigente en la zona "A";
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-XIX.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes; de uno hasta ciento veinte días del salario mínimo general vigente en la zona "A".
+XIII.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales; de uno hasta cien Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XIV.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos; de uno hasta ciento treinta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XV.- No poner en conocimiento a las autoridades fiscales, cuando se posean documentos de los mencionados en la fracción XII de este artículo; de uno hasta cincuenta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Alterar o destruir los cordones o sellos oficiales; de uno hasta ciento treinta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XVII.- Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir los visitadores, no mostrar los libros, o cajas de valores y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o de los contribuyentes con quienes haya efectuado operaciones, en relación con el objeto de la visita; de uno hasta cien Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XVIII.- No conservar los libros, documentos, correspondencia que les sean dejados en calidad de depositarios, por los visitadores, al estarse practicando visitas domiciliarias, de uno hasta ciento treinta Unidades de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+XIX.- Infringir disposiciones fiscales en formas distintas de las previstas en las fracciones precedentes; de uno hasta ciento veinte Unidades de Medida y Actualización;
 
 #### SECCION OCTAVA. DE LAS INFRACCIONES Y SANCIONES CUYA RESPONSABILIDAD RECAE SOBRE PERITOS VALUADORES DE BIENES INMUEBLES
 
@@ -2308,8 +2678,6 @@ b).- Reincidir en algunas de las situaciones señaladas en la fracción anterior
 III.- Cancelación del registro por:
 
 a).- Haber obtenido el registro con información y/o documentación falsa;
-
-> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE NO SE DEROGA EL INCISO B DE LA FRACCIÓN III, SINO EL INCISO B DEL PÁRRAFO TERCERO, DE CONFORMIDAD CON EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
 
 b).- Por violaciones graves y reiteradas a las disposiciones contenidas en la Ley de Hacienda del Estado, Reglamento de Valuación Inmobiliaria con Fines Fiscales y del Registro de Peritos Valuadores del Estado de Guerrero y al presente Código, relativos a la práctica y formulación de avalúos; y
 
@@ -2451,9 +2819,11 @@ Para la comprobación de los delitos previstos en los artículos 124 y 125, se d
 
 Comete el delito de defraudación fiscal quien haga uso de engaño o aproveche el error para omitir total o parcialmente el pago de alguna contribución y con ello obtenga un lucro indebido o ilegítimo en perjuicio del fisco estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 129.
 
-El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto del impuesto defraudado o que se intentó defraudar es inferior a treinta días del salario mínimo vigente en la zona económica que le corresponda y con prisión de dos a nueve años, si dicho monto es de treinta días o más del salario mínimo vigente en la zona económica que le corresponda.
+El delito de defraudación fiscal se sancionará con prisión de tres meses a seis años si el monto del impuesto defraudado o que se intentó defraudar es inferior a treinta Unidades de Medida y Actualización y con prisión de dos a nueve años, si dicho monto es de treinta o más Unidades de Medida y Actualización.
 
 Cuando no se pueda determinar la cuantía del impuesto que se defraudó o intentó defraudar, la pena será de tres meses a nueve años de prisión. No se impondrán las sanciones previstas en este artículo, si quien hubiera cometido el delito entera espontáneamente el gravamen omitido.
 
@@ -2493,9 +2863,11 @@ Comete el delito de rompimientos de sellos en materia fiscal quien sin autorizac
 
 Al que cometa el delito de rompimiento de sellos se le impondrá la pena de dos meses a seis años de prisión. Será sancionado con la misma pena, la alteración o destrucción dolosa de las máquinas registradoras de operaciones de caja en las oficinas recaudadoras que impida que dichas operaciones se registren correctamente.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 134.
 
-Se impondrá pena de tres meses a seis años de prisión al depositario o interventor designado por las Autoridades Fiscales que, con perjuicio del Fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de sus garantías que de cualquier crédito fiscal se habían constituido, si el valor de lo dispuesto no excede de 300 veces el salario mínimo general, cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá pena de tres meses a seis años de prisión al depositario o interventor designado por las autoridades fiscales que, con perjuicio del fisco estatal, disponga para sí o para otro del bien depositado, de sus productos o de sus garantías que de cualquier crédito fiscal se habían constituido, si el valor de lo dispuesto no excede de 300 Unidades de Medida y Actualización, cuando exceda, la sanción será de tres a nueve años de prisión.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -2675,9 +3047,13 @@ II.- Por la de embargo, incluyendo el señalado en la fracción II del artículo
 
 III.- Por la de remate, enajenación fuera de remate o adjudicación al Fisco estatal.
 
-Cuando en los casos de las fracciones anteriores el 2% del crédito sea inferior a una vez el salario mínimo diario vigente en la zona económica que le corresponda, se cobrará esta cantidad en vez del 2% del crédito.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán excederse de la cantidad equivalente a dos salarios mínimos vigentes en la zona económica que le corresponda elevado al año.
+Cuando en los casos de las fracciones anteriores el 2% del crédito sea inferior a una Unidad de Medida y Actualización, se cobrará esta cantidad en vez del 2% del crédito.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán excederse de la cantidad equivalente a dos Unidades de Medida y Actualización elevadas al año.
 
 Asimismo, se pagarán por concepto de gastos de ejecución las erogaciones extraordinarias en que se incurra con motivo de el procedimiento administrativo de ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, de avalúo, de impresión y publicación de convocatorias y edictos, de inscripción o cancelación de gravámenes en el Registro Público que corresponda, a los erogados por la obtención del certificado de libertad de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores.
 
@@ -2711,17 +3087,87 @@ IV.- El plazo para el pago, el cual será de cinco días salvo que la Ley señal
 
 #### SECCION SEGUNDA. DEL EMBARGO
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 150.
 
-Se podrá practicar embargo precautorio, sobre los bienes o la negociación para asegurar el interés fiscal antes de la fecha en que el crédito fiscal sea exigible:
+Se podrá practicar embargo precautorio, sobre los bienes o la negociación del contribuyente conforme a lo establecido en el presente Código.
 
-I.- Cuando a juicio de la autoridad fiscal, hubiere peligro de que el obligado se ausente, enajene y oculte sus bienes o realice cualquier maniobra tendiente a evadir el pago del crédito;
+Procederá el embargo precautorio cuando el contribuyente:
 
-II.- Cuando al realizarse actos de inspección se descubran negociaciones vehículos, objetos, cuya tenencia, producción, explotación, captura o transporte deba ser manifestado a las autoridades fiscales o autorizadas por ellas sin que hubiere cumplido en la obligación respectiva; y
+a) Haya desocupado el domicilio fiscal sin haber presentado el aviso de cambio de domicilio, después de haberse emitido la determinación respectiva.
 
-III.- En los demás casos que prevengan las leyes. En los casos de las fracciones I y II de este artículo, la autoridad deberá iniciar el procedimiento tendiente a determinar el crédito fiscal en un plazo que no excederá de treinta días.
+b) Se oponga a la práctica de la notificación de la determinación de los créditos fiscales correspondientes.
 
-Son aplicables al embargo precautorio a que este artículo se refiere y al previsto por el artículo 38 Fracción II, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que conforme a su naturaleza le sean aplicables.
+c) Tenga créditos fiscales que debieran estar garantizados, y no lo estén, o la garantía resulte insuficiente, excepto cuando haya declarado, bajo protesta de decir verdad, que son los únicos bienes que posee.
+
+La autoridad trabará el embargo precautorio hasta por un monto equivalente a las dos terceras partes de la contribución o contribuciones determinadas incluyendo sus accesorios. Si el pago se hiciere dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia de pago y embargo y se levantará dicho embargo.
+
+La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones por las cuales realiza el embargo, misma que se notificará al contribuyente en ese acto.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 150 A. Una vez practicado el embargo precautorio, el contribuyente afectado podrá ofrecer a la autoridad exactora alguna de las garantías que establece el artículo 20 de este Código, a fin de que el crédito fiscal y sus accesorios queden garantizados y se ordene el levantamiento del embargo trabado sobre los depósitos bancarios, otros depósitos o seguros del contribuyente.
+
+El embargo precautorio se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución, sujetándose a las disposiciones que este Código establece.
+
+Son aplicables al embargo precautorio a que se refiere este artículo, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables y no contravengan a lo dispuesto en este artículo y en los artículos 150, 150 B, 150 C y 150 D.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 150 B. El embargo precautorio se sujetará al orden siguiente:
+
+a) Bienes inmuebles. En este caso, el contribuyente o la persona con quien se entienda la diligencia, deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a sociedad conyugal alguna.
+
+b) Acciones, bonos, cupones vencidos, valores mobiliarios y, en general, créditos de inmediato y fácil cobro a cargo de entidades o dependencias de la Federación, estados y municipios y de instituciones o empresas de reconocida solvencia.
+
+c) Derechos de autor sobre obras literarias, artísticas o científicas; patentes de invención y registros de modelos de utilidad, diseños industriales, marcas y avisos comerciales.
+
+d) Obras artísticas, colecciones científicas, joyas, medallas, armas, antigüedades, así como instrumentos de arte y oficios, indistintamente.
+
+e) Dinero y metales preciosos.
+
+f) Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria conforme a la ley de la materia y las aportaciones voluntarias y complementarias, hasta por un monto de 20 Unidades de Medida y Actualización elevadas al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
+
+g) Los bienes muebles no comprendidos en las fracciones anteriores.
+
+h) La negociación del contribuyente.
+
+Los contribuyentes, responsables solidarios o terceros, deberán acreditar el valor del bien o los bienes sobre los que se practique el embargo precautorio.
+
+En caso de que los contribuyentes, responsables solidarios o terceros no cuenten con alguno de los bienes a asegurar o, bajo protesta de decir verdad, manifiesten no contar con ellos conforme al orden establecido en este artículo o, en su caso, no acrediten el valor de los mismos, ello se asentará en el acta circunstanciada referida en el último párrafo del artículo 150 de este Código.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 150 C. La autoridad fiscal solicitará mediante oficio dirigido a la unidad administrativa competente de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional de Seguros y Fianzas o de la Comisión Nacional del Sistema de Ahorro para el Retiro, según proceda, o bien a la entidad financiera o sociedad cooperativa de ahorro y préstamo a la que corresponda la cuenta, que procedan a inmovilizar y conservar los bienes señalados en el inciso f) del artículo 150 B, a más tardar al tercer día hábil siguiente a la recepción de la solicitud de embargo precautorio correspondiente formulada por la autoridad fiscal. Para efectos de lo anterior, la inmovilización deberá realizarse dentro de los tres días hábiles siguientes a aquél en que les fue notificado el oficio de la autoridad fiscal.
+
+Las entidades financieras o sociedades de ahorro y préstamo o de inversiones y valores que hayan ejecutado la inmovilización en una o más cuentas del contribuyente, deberán informar del cumplimiento de dicha medida a la autoridad fiscal que la ordenó a más tardar al tercer día hábil siguiente a la fecha en que se haya ejecutado, señalando los números de las cuentas, así como el importe total que fue inmovilizado.
+
+En los casos en que el contribuyente, la entidad financiera, sociedades de ahorro y préstamo o de inversiones y valores, hagan del conocimiento de la autoridad fiscal que la inmovilización se realizó en una o más cuentas del contribuyente por un importe mayor al señalado en el tercer párrafo del artículo 150 B, ésta deberá ordenar dentro de los tres días hábiles siguientes a aquél en que hubiere tenido conocimiento de la inmovilización en exceso, que se libere la cantidad correspondiente. Dichas entidades o sociedades cooperativas de ahorro y préstamo o de inversiones y valores, deberán liberar los recursos inmovilizados en exceso, a más tardar a los tres días hábiles siguientes a aquél en que surta efectos la notificación del oficio de la autoridad fiscal.
+
+En ningún caso procederá embargar precautoriamente los depósitos bancarios, otros depósitos o seguros del contribuyente, por un monto mayor al del crédito fiscal actualizado, junto con sus accesorios legales, ya sea que el embargo se trabe sobre una sola cuenta o en más de una. Lo anterior, siempre y cuando previo al embargo, la autoridad fiscal cuente con información de las cuentas y los saldos que existan en las mismas.
+
+Al acreditarse que ha cesado la conducta que dio origen al embargo precautorio, o bien, cuando exista orden de suspensión que el contribuyente haya obtenido emitida por autoridad competente, la autoridad deberá ordenar que se levante la medida dentro del plazo de tres días hábiles.
+
+La autoridad fiscal deberá solicitar a las entidades financieras, sociedades de ahorro y préstamo o de inversiones y valores, la desinmovilización de los bienes señalados en el inciso f) del artículo 150 B de este Código, dentro de los tres días hábiles siguientes a aquél en que se acredite que cesó la conducta que dio origen al embargo precautorio o bien, que existe orden de suspensión emitida por autoridad competente.
+
+Las entidades financieras o sociedades cooperativas de ahorro y préstamo contarán con un plazo de tres días hábiles a partir de la recepción de la solicitud respectiva, ya sea a través de la Comisión de que se trate, o bien, de la autoridad fiscal, según sea el caso, para la liberación de los bienes embargados.
+
+A más tardar al tercer día hábil siguiente a aquél en que hubiera tenido lugar el embargo precautorio, la autoridad fiscal notificará al contribuyente la conducta que originó la medida y, en su caso, el monto sobre el cual procede. La notificación se hará personalmente.
+
+Para los efectos de este Código, se entenderá como entidad financiera a las instituciones de crédito, instituciones de seguros que ofrecen seguros de vida, administradoras de fondos para el retiro, uniones de crédito, casas de bolsa, sociedades financieras populares, sociedades de inversión en renta variable, sociedades de inversión en instrumentos de deuda, sociedades operadoras de sociedades de inversión y sociedades que presten servicios de distribución de acciones de sociedades de inversión.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+ARTICULO 150 D. El ejecutor trabará embargo sobre los bienes bastantes para garantizar las prestaciones pendientes de pago y los gastos de ejecución, poniendo todo lo embargado, previa identificación, bajo la guarda de los depositarios que fueren necesarios y que los hubiere designado anticipadamente la Secretaría de Finanzas y Administración, cuando no hubiere tal designación, el ejecutor podrá designarlo en el mismo acto de la diligencia.
+
+Con excepción de los bienes a que se refiere el inciso f) el artículo 150 B, los bienes embargados precautoriamente podrán, desde el momento en que se notifique el mismo y hasta que se levante, dejarse en posesión del contribuyente, siempre que para estos efectos actúe como depositario en los términos establecidos en el artículo 166, del presente Código.
+
+El contribuyente que actúe como depositario, deberá rendir cuentas mensuales a la autoridad fiscal competente respecto de los bienes que se encuentren bajo su custodia.
+
+Salvo tratándose de los bienes a que se refiere el inciso f) del artículo 153, la autoridad fiscal deberá ordenar el levantamiento del embargo precautorio a más tardar al tercer día hábil siguiente a aquél en que se acredite que cesó la conducta que dio origen al embargo precautorio, o bien, que existe orden de suspensión emitida por autoridad competente.
+
+La autoridad requerirá al obligado para que dentro el término de diez días hábiles desvirtúe el monto por el que se realizó el embargo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2747,7 +3193,7 @@ El ejecutor entregará original del mandamiento de ejecución a la persona con q
 
 Si el requerimiento de pago se hizo por edictos la diligencia de embargo se entenderá con la autoridad auxiliar estatal de la circunscripción de los bienes, salvo que en el momento de iniciarse la diligencia compareciera el deudor en cuyo caso se entenderán con él.
 
-En el caso de la fracción I del Artículo 150, quien realice el acto de inspección llevará a cabo el aseguramiento de los bienes, si está facultado para ello en la orden respectiva.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 153.
 
@@ -2937,11 +3383,9 @@ VIII.- El depositario interventor que tuviere conocimiento de irregularidades en
 
 Cuando las medidas a que se refiere esta fracción no fueren acatadas, la oficina ejecutora ordenará que cese la intervención con cargo a la caja y se convierta en administración;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE AL PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-IX.- El interventor con cargo a la caja, recibirá por concepto de honorarios como pago por sus servicios, el equivalente a 7 salarios mínimos de la Zona Económica "A", sin que dicho importe sea superior al salario que percibe el administrador o gerente de la negociación intervenida, excepto cuando no exista esta figura en la negociación, los honorarios serán el equivalente al doble del salario del empleado de la negociación intervenida que perciba el mayor salario.
+IX.- El interventor con cargo a la caja, recibirá por concepto de honorarios como pago por sus servicios, el equivalente a 7 Unidades de Medida y Actualización, sin que dicho importe sea superior al salario que percibe el administrador o gerente de la negociación intervenida, excepto cuando no exista esta figura en la negociación, los honorarios serán el equivalente al doble del salario del empleado de la negociación intervenida que perciba el mayor salario.
 
 ###### ARTICULO 168.
 
@@ -2955,11 +3399,9 @@ El interventor administrador no quedará supeditado en su actuación al consejo 
 
 Tratándose de negociaciones que no constituyan una sociedad el interventor administrador tendrá todas las facultades de dueño para la conservación y buena marcha del negocio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2009)</small>
-
-El interventor administrador recibirá por concepto de honorarios como pago por sus servicios, el equivalente a 14 salarios mínimos de la Zona Económica "A", sin que dicho importe sea superior al salario que percibe el administrador o gerente de la negociación intervenida. Cuando no exista esta figura en la negociación, los honorarios serán el equivalente a 4 veces el salario del empleado de la negociación intervenida que perciba el mayor salario.
+El interventor administrador recibirá por concepto de honorarios como pago por sus servicios, el equivalente a 14 Unidades de Medida y Actualización, sin que dicho importe sea superior al salario que percibe el administrador o gerente de la negociación intervenida. Cuando no exista esta figura en la negociación, los honorarios serán el equivalente a 4 veces el salario del empleado de la negociación intervenida que perciba el mayor salario.
 
 ###### ARTICULO 169.
 
@@ -2981,7 +3423,7 @@ La enajenación de bienes embargados procederá:
 
 I.- A partir del día siguiente a aquél en que se hubiese fijado la base para el remate, en términos del artículo 173 de este Código;
 
-II.- En los casos de las fracciones I y II del artículo 150, cuando los créditos se hagan exigibles y no se paguen dentro del término del requerimiento;
+II.- (DEROGADA, P.O. 27 DE DICIEMBRE DE 2016)
 
 III.- Cuando el embargado no proponga comprador dentro de los plazos a que se refieren los artículos 192 y 193 de este Código;
 
@@ -3023,7 +3465,9 @@ La publicación de la convocatoria se hará cuando menos diez días antes de la 
 
 La convocatoria se fijará en un sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
 
-Cuando el valor de los muebles exceda cinco veces el salario mínimo elevado al año de la zona "A". La convocatoria se publicará en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación si lo hubiere dentro de la circunscripción de la oficina ejecutora, dos veces de siete en siete días.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
+Cuando el valor de los muebles exceda cinco Unidades de Medida y Actualización elevadas al año. La convocatoria se publicará en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos de mayor circulación si lo hubiere dentro de la circunscripción de la oficina ejecutora, dos veces de siete en siete días.
 
 En todo caso a petición del deudor y previo pago del costo, la oficina ejecutora puede ordenar una publicidad más amplia, dentro del plazo señalado en el 1er. párrafo de este artículo.
 
@@ -3057,9 +3501,11 @@ Mientras no se finque el remate, el deudor puede hacer el pago de las cantidades
 
 Es postura legal la que cubra las dos terceras partes del valor del bien mueble o inmueble que se subasta como base para el remate.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 179.
 
-En toda postura deberá ofrecerse de contado a lo menos, la parte suficiente para cubrir el interés fiscal, si éste es superado por la base fijada para la venta, y la diferencia podrá reconocerse en favor del deudor ejecutado, con los intereses correspondientes, hasta por un año de plazo si la cantidad es menor de tres veces al salario mínimo vigente en la zona económica que le corresponda y hasta un plazo de dos años de esa suma en adelante, los bienes, fracción o lote de bienes, cuya base para la venta sea igual o inferior al interés fiscal, sólo podrán rematarse de contado.
+En toda postura deberá ofrecerse de contado a lo menos, la parte suficiente para cubrir el interés fiscal, si éste es superado por la base fijada para la venta, y la diferencia podrá reconocerse en favor del deudor ejecutado, con los intereses correspondientes, hasta por un año de plazo si la cantidad es menor de tres Unidades de Medida y Actualización y hasta un plazo de dos años de esa suma en adelante, los bienes, fracción o lote de bienes, cuya base para la venta sea igual o inferior al interés fiscal, sólo podrán rematarse de contado.
 
 ###### ARTICULO 180.
 
@@ -3097,9 +3543,11 @@ Fincado el remate de bienes muebles se aplicará el depósito constituido y el p
 
 Tan pronto como el postor hubiere cumplido con los requisitos a que se refiere el párrafo anterior y el remate sea aprobado por la Secretaría de Finanzas y Administración, si este requisito fuere necesario conforme al artículo siguiente, la oficina ejecutora procederá a entregar los bienes que le hubiere adjudicado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 185.
 
-Si los bienes rematados fueran muebles o inmuebles, cuyo valor exceda de dos mil días de salario mínimo vigente en la zona económica que le corresponda, la oficina ejecutora, dentro de un plazo de cinco días, enviará el expediente al Secretario de Finanzas y Administración para que previa revisión apruebe el remate, si se encuentra ajustado a las normas que lo rigen; si la resolución es negativa, el remate que haya hecho la oficina ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
+Si los bienes rematados fueran muebles o inmuebles, cuyo valor exceda de dos mil Unidades de Medida y Actualización, la oficina ejecutora, dentro de un plazo de cinco días, enviará el expediente al Secretario de Finanzas y Administración para que previa revisión apruebe el remate, si se encuentra ajustado a las normas que lo rigen; si la resolución es negativa, el remate que haya hecho la oficina ejecutora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
 
 Aprobado el remate de bienes, raíces se le comunicará al postor para que dentro del plazo de cinco días, entere a la caja de la oficina ejecutora la cantidad de contado ofrecida en su postura aceptada.
 
@@ -3562,3 +4010,13 @@ P.O. 26 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 421 POR MEDIO DEL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429".]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+TERCERO. Públiquese en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero, para su conocimiento general.
