@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-tramite-y-sustanciacion-de-quejas-y-116963"
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-10-25"
-last_updated: "2016-10-25"
+last_updated: "2016-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116963&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2016-10-10"
 
 REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 27 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el martes 25 de octubre de 2016.
 
@@ -734,9 +734,11 @@ Una vez que la Secretaría Ejecutiva tenga conocimiento de la solicitud de medid
 
 Lo anterior, sin perjuicio de la facultad de la Secretaría Ejecutiva de someter a aprobación de la Comisión, de forma oficiosa, la adopción de medidas cautelares, cuando lo considere pertinente.
 
+> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 47.
 
-El otorgamiento o negativa de la medida cautelar deberá acordarse por la Comisión, en el plazo máximo de tres días posteriores al desahogo de la última diligencia precisada en el párrafo segundo del artículo anterior. Se dictará tomando en cuenta los hechos denunciados y el material probatorio que obre en autos, lo anterior sin perjuicio de que durante el trámite y sustanciación del procedimiento puedan modificarse o dejarse sin efectos.
+El otorgamiento o negativa de la medida cautelar deberá acordarse por la Comisión, en el plazo máximo de cuarenta y ocho horas, posteriores al desahogo de la última diligencia precisada en el párrafo segundo del artículo anterior. Se dictará tomando en cuenta los hechos denunciados y el material probatorio que obre en autos, lo anterior sin perjuicio de que durante el trámite y sustanciación del procedimiento puedan modificarse o dejarse sin efectos.
 
 ###### Artículo 48.
 
@@ -929,3 +931,21 @@ SEGUNDO. Se abroga el Reglamento para el Trámite y Sustanciación de Quejas y P
 TERCERO. Los procedimientos administrativos sancionadores que se encuentren en trámite a la entrada en vigor del presente Reglamento, serán resueltos conforme al Reglamento vigente al momento de su inicio.
 
 CUARTO. Para efectos del pago por la expedición de copia certificada o simple de las actuaciones que integren el expediente, así como copia de las pruebas técnicas que obren en distintos formatos electrónicos, a que se refiere el artículo 10 del presente Reglamento, la Junta Administrativa del Instituto tendrá un plazo de 45 días hábiles, contados a partir de la entrada en vigor del presente Reglamento, para la emisión de los Lineamientos que deberán observarse para la realización del pago correspondiente en la Secretaría de Finanzas, tomando como base para su cálculo lo previsto en el Código Fiscal del Distrito Federal.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, POR EL QUE SE MODIFICA EL REGLAMENTO PARA EL TRÁMITE Y SUSTANCIACIÓN DE QUEJAS Y PROCEDIMIENTOS DE INVESTIGACIÓN DEL INSTITUTO ELECTORAL DEL DISTRITO FEDERAL, EN CUMPLIMIENTO AL O ORDENADO EN LA SENTENCIA EMITIDA POR EL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL EN LOS EXPEDIENTES TEDF-JEL-351/2016 Y ACUMULADO TEDF-JEL-352/2016”.]
+
+PRIMERO. Se modifica el artículo 47 del Reglamento para el Trámite y Sustanciación de Quejas y Procedimientos de Investigación del Instituto Electoral del Distrito Federal, aprobado mediante Acuerdo ACU-75-16, en cumplimiento a lo ordenado en la sentencia emitida por el Tribunal Electoral del Distrito Federal en los expedientes TEDF-JEL-351/2016 acumulado TEDF-JEL-352/2016, para quedar en los términos precisados en el considerando 12 del presente Acuerdo.
+
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se instruye al Secretario Ejecutivo que, dentro de las veinticuatro horas contadas a partir del momento en que el Consejo General haya aprobado este Acuerdo, lo comunique al Tribunal Electoral, adjuntando copia certificada del mismo.
+
+CUARTO. Publíquese de inmediato este Acuerdo en los estrados del Instituto Electoral del Distrito Federal, tanto en oficinas centrales, como en sus cuarenta Direcciones Distritales, y en la página de internet www.iedf.org.mx
+
+QUINTO. Realícense las adecuaciones procedentes en virtud de la determinación asumida por este Consejo General, en el apartado de Transparencia de la página de internet www.iedf.org.mx, y publíquese un extracto de la misma en las redes sociales de este Instituto.
+
+SEXTO. Remítase el presente Acuerdo, a la Gaceta Oficial de la Ciudad de México para su publicación, dentro del plazo de diez días hábiles siguientes a su aprobación.
