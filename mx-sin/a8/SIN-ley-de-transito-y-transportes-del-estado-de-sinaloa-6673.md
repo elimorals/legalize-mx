@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-transito-y-transportes-del-estado-de-sinaloa-6673"
 country: "mx"
 rank: "ley"
 publication_date: "1993-04-09"
-last_updated: "2016-12-23"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE TRÁNSITO Y TRANSPORTES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 9 de abril de 1993.
 
@@ -1201,7 +1201,9 @@ Sin perjuicio de la imposición de las sanciones anteriores; cuando de una infra
 
 El tabulador de infracciones se elaborará, revocará, modificará o adicionará por el Ejecutivo del Estado determinando el monto de las sanciones económicas, debiendo publicarse en el Periódico Oficial “El Estado de Sinaloa”.
 
-Las sanciones económicas que en el tabulador se establezcan no deberán ser menores al equivalente a una vez el salario mínimo general vigente en la zona geográfica que corresponde al Estado de Sinaloa, ni mayores que el equivalente a treinta veces dicho salario mínimo.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Las sanciones económicas que en el tabulador se establezcan no deberán ser menores al equivalente a una vez el valor diario de la Unidad de Medida y Actualización ni mayores que el equivalente a treinta veces dicho valor.
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
@@ -1889,33 +1891,43 @@ Las violaciones a lo dispuesto en esta Ley y su Reglamento que se refieran a la 
 
 Atendiendo su gravedad, la autoridad competente de Tránsito y Transportes podrá aplicar por las transgresiones a la presente Ley y su Reglamento, sanciones administrativas consistentes en multa y como medida preventiva y de seguridad la detención y retiro del vehículo automotor, así como de los documentos, placas y tarjeta de circulación del mismo, en los casos previstos expresamente en dichos ordenamientos.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 271.
 
-La aplicación de horarios, itinerarios, tarifas y demás circunstancias relacionadas con el servicio público de transporte, que no tengan la aprobación del Ejecutivo del Estado, se sancionarán con multas que variarán del importe de uno a treinta días de salario mínimo general vigente en la zona económica en que se cometa la infracción a juicio de la Autoridad de Tránsito y Transportes.
+La aplicación de horarios, itinerarios, tarifas y demás circunstancias relacionadas con el servicio público de transporte, que no tengan la aprobación del Ejecutivo del Estado se sancionarán con multas que variarán del importe de uno a treinta veces el valor diario de la Unidad de Medida y Actualización a juicio de la Autoridad de Tránsito y Transportes.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 272.
 
-A los propietarios de vehículos particulares, que eventualmente hagan en ellos servicio público de transporte de pasaje o carga, sin contar con la autorización respectiva en los términos de esta Ley, se les impondrá multa que variará dependiendo de las circunstancias, del importe de uno a sesenta días de salario mínimo general a juicio de tránsito y transportes.
+A los propietarios de vehículos particulares, que eventualmente hagan en ellos servicio público de transporte de pasaje o carga, sin contar con la autorización respectiva en los términos de esta Ley, se les impondrá multa que variará dependiendo de las circunstancias, del importe de uno a sesenta veces el valor diario de la Unidad de Medida y Actualización a juicio de tránsito y transportes.
 
 ###### ARTICULO 273.
 
 La violación a las disposiciones de los artículos 264, 265 y 266 de esta Ley, se sancionarán con anulación o revocación de la concesión o permiso de ruta o zona, según corresponda.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 274.
 
-Las infracciones a la presente Ley que no tengan señalada sanción especial estarán sujetas a multa y su monto será fijado dentro de los límites comprendidos de uno a treinta días de salario mínimo general vigente, acorde a la gravedad de la falta a juicio de la Autoridad de Tránsito y Transportes.
+Las infracciones a la presente Ley que no tengan señalada sanción especial estarán sujetas a multa y su monto será fijado dentro de los límites comprendidos de uno a treinta veces el valor diario de la Unidad de Medida y Actualización, acorde a la gravedad de la falta a juicio de la Autoridad de Tránsito y Transportes.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 275.
 
-El que sin concesión o permiso del Ejecutivo del Estado explote regularmente vías estatales de comunicación, perderá en beneficio del Gobierno del Estado las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación, pagando además multa que variará de uno a sesenta días del salario mínimo general a juicio de tránsito y transportes.
+El que sin concesión o permiso del Ejecutivo del Estado explote regularmente vías estatales de comunicación, perderá en beneficio del Gobierno del Estado las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles e inmuebles dedicados a la explotación, pagando además multa que variará de uno a sesenta veces el valor diario de la Unidad de Medida y Actualización a juicio de tránsito y transportes.
 
 ###### ARTICULO 276.
 
 Cuando el conductor de las unidades destinadas a la prestación del servicio público de transporte de pasajeros, adopte una conducta que implique faltas a la moral y al buen trato que se debe dar a los usuarios, previa comprobación de la falta, se le multará y cancelará la licencia o certificado de aptitud, según proceda.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 277.
 
-Los concesionarios y permisionarios del servicio público de transporte que no proporcionen los datos a que se hace referencia en el Artículo 255, se harán acreedores a una sanción de cinco a treinta días de salario mínimo general vigente, la que podrá incrementarse hasta un 50% en caso de reincidencia.
+Los concesionarios y permisionarios del servicio público de transporte que no proporcionen los datos a que se hace referencia en el Artículo 255, se harán acreedores a una sanción de cinco a treinta veces el valor diario de la Unidad de Medida y Actualización, la que podrá incrementarse hasta un 50% en caso de reincidencia.
 
 ###### ARTICULO 278.
 
@@ -1925,9 +1937,11 @@ El Ejecutivo del Estado expedirá, revocará, modificará o adicionará el tabul
 
 Con la finalidad de hacer efectivo el pago de las sanciones económicas impuestas al concesionario o permisionario, las autoridades de Tránsito y Transportes podrán solicitar a la Secretaría de Hacienda Pública y Tesorería del Estado, utilizar el Procedimiento Administrativo de Ejecución previsto por la Ley de Hacienda del Estado de Sinaloa.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 280.
 
-Cuando el infractor cometa varias transgresiones a la Ley en un mismo acto, se le acumularán las sanciones correspondientes a cada una de ellas, no debiendo exceder de treinta días de salario.
+Cuando el infractor cometa varias transgresiones a la Ley en un mismo acto, se le acumularán las sanciones correspondientes a cada una de ellas, no debiendo exceder de treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 281.
 
@@ -1941,9 +1955,11 @@ La acción para imponer sanciones por infracciones a las disposiciones del prese
 
 El pago de las sanciones económicas deberá hacerse en las recaudaciones de rentas o en las oficinas que dependan de esta o sean autorizadas por las mismas.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 284.
 
-El incumplimiento injustificado e inoportuno de las resoluciones que se dicten en aplicación de la presente Ley y su Reglamento, será sancionado con multa de uno a sesenta días de salario mínimo general regional, pudiendo cancelarse además la concesión o permiso a juicio del Ejecutivo del Estado.
+El incumplimiento injustificado e inoportuno de las resoluciones que se dicten en aplicación de la presente Ley y su Reglamento, será sancionado con multa de uno a sesenta veces el valor diario de la Unidad de Medida y Actualización, pudiendo cancelarse además la concesión o permiso a juicio del Ejecutivo del Estado.
 
 ###### ARTICULO 285.
 
@@ -2007,7 +2023,7 @@ EL DIRECTOR GENERAL DE TRÁNSITO Y TRANSPORTES
 
 Lic. Fernando Díaz de la Vega
 
-N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]
 
 P.O. 13 DE AGOSTO DE 1997.
 
@@ -2130,3 +2146,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Ejecutivo del Estado deberá armonizar lo establecido por el presente Decreto, en el Tabulador de Infracciones y Sanciones de la Ley de Tránsito y Transportes del Estado de Sinaloa y su Reglamento General, en un plazo de sesenta días a partir del inicio de su vigencia.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 58: QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
