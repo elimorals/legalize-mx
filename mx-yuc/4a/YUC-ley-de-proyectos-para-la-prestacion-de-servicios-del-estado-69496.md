@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proyectos-para-la-prestacion-de-servicios-del-estado-694
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2009-07-24"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69496&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROYECTOS PARA LA PRESTACION DE SERVICIOS DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 24 de julio de 2009.
 
@@ -505,9 +505,11 @@ Sin perjuicio de lo previsto en este artículo, la Contraloría o el órgano de 
 
 ### CAPÍTULO IX. De las sanciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 48.
 
-Los Licitantes o Inversionistas Proveedores que infrinjan las disposiciones de esta Ley, podrán ser sancionados por la Contraloría o el órgano de control interno municipal, con una multa equivalente de cinco mil a veinte mil días de salario mínimo general vigente en el Estado de Yucatán, en el momento en que cometan las siguientes infracciones:
+Los Licitantes o Inversionistas Proveedores que infrinjan las disposiciones de esta ley podrán ser sancionados por la Contraloría o el órgano de control interno municipal, con una multa de cinco mil a veinte mil unidades de medida y actualización, en el momento en que cometan las siguientes infracciones:
 
 I.- Proporcionar a la Entidad Pública información falsa o documentación alterada, tanto en los procedimientos de contratación, durante la ejecución del Contrato o en la tramitación de una inconformidad;
 
@@ -612,3 +614,17 @@ GOBERNADORA DEL ESTADO
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
