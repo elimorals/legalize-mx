@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-uayma-yucatan-25648"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2015-12-18"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE UAYMA, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 30 de diciembre de 2000.
 
@@ -1505,11 +1505,73 @@ ARTÍCULO 111 I.- Para efectos del cobro de este derecho el Ayuntamiento podrá 
 
 ARTÍCULO 111 J.- Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
-### CAPÍTULO UNICO. DE LOS SUJETOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO X. DERECHOS POR LA EXPEDICIÓN DE LICENCIAS Y PERMISOS
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 111 K.- El cobro de derechos por el otorgamiento de licencias y permisos para el funcionamiento de establecimientos o locales, que vendan bebidas alcohólicas, se realizará con base en las siguientes tarifas:
+
+A) Por el otorgamiento de licencias de funcionamiento a establecimientos cuyo giro sea la venta de bebidas alcohólicas:
+
+I. Vinaterías y licorerías 205 Unidad de Medida y Actualización.
+
+II. Expendios de cerveza 205 Unidad de Medida y Actualización
+
+III. Supermercados y mini 205 Unidad de Medida y Actualización
+
+súper con departamento de licores
+
+B) Por permisos eventuales para el funcionamiento de establecimientos cuyo giro sea la venta de bebidas alcohólicas se pagará una cuota de 10 Unidad de Medida de Actualización.
+
+C) Para la autorización de funcionamiento en horario extraordinario de giros relacionados con la venta de bebidas alcohólicas, se aplicará por cada hora la siguiente tarifa:
+
+I.- Vinaterías y licorerías 5 Unidad de Medida y Actualización.
+
+II.- Expendios de cerveza 5 Unidad de Medida y Actualización
+
+III.- Supermercados y mini súper con 5 Unidad de Medida y Actualización. departamento de licores
+
+D) Por el otorgamiento de licencias de funcionamiento a establecimientos cuyo giro sea la prestación de servicios, que incluyan la venta de bebidas alcohólicas:
+
+I.- Cantinas y bares $205 Unidad de Medida y Actualización
+
+II.- Restaurantes-Bar 205 Unidad de Medida y Actualización
+
+III.- Restaurantes en general 205 Unidad de Medida y Actualización
+
+E) Por revalidación anual de licencias de funcionamiento para los establecimientos señalados en los incisos A) y D) de este artículo, se pagará la tarifa de 55 Unidad de Medida y Actualización por cada uno de ellos.
+
+En cumplimiento a lo dispuesto por el artículo 10-A de la Ley de Coordinación Fiscal Federal, el cobro de los derechos a que se refiere este artículo, no condiciona el ejercicio de las actividades comerciales, industriales o de prestación de servicios.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Artículo 111 L.- El cobro de derechos por el otorgamiento de licencias o permisos para la instalación de anuncios de toda índole se realizará con base en las siguientes cuotas:
+
+I.- Anuncios murales por m2 o fracción 0.07 Unidad de Medida y Actualización
+
+II.- Anuncios estructurales fijos por m2 0.07 Unidad de Medida y Actualización
+
+o fracción
+
+III.- Anuncios en carteleras mayores 0.07 Unidad de Medida y Actualización.
+
+de 2 metros cuadrados, por cada metro
+
+cuadrado o fracción.
+
+IV.- Anuncios en carteleras oficiales, 0.07 Unidad y Medida de Actualización
+
+por cada una
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Artículo 111 M.- Por el otorgamiento de permiso para luz y sonido, bailes populares con grupos locales, se causarán y pagarán derechos por la cantidad de 4 Unidad de Medida y Actualización mínimos por día.
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
-### CAPÍTULO ÚNICO. DE LA CLASIFICACIÓN
+### CAPÍTULO UNICO. DE LOS SUJETOS
 
 ###### ARTÍCULO 112.
 
@@ -1639,7 +1701,7 @@ El Tesorero Municipal previa solicitud por escrito del interesado y una vez real
 
 ## TÍTULO SEXTO. DE LOS PRODUCTOS
 
-### CAPÍTULO I. DE LAS MULTAS ADMINISTRATIVAS
+### CAPÍTULO ÚNICO. DE LA CLASIFICACIÓN
 
 ###### ARTÍCULO 124.
 
@@ -1697,7 +1759,7 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ## TÍTULO SÉPTIMO. APROVECHAMIENTOS
 
-### CAPÍTULO I. GENERALIDADES
+### CAPÍTULO I. DE LAS MULTAS ADMINISTRATIVAS
 
 ###### ARTÍCULO 132.
 
@@ -1779,13 +1841,15 @@ Para el caso de que los ingresos por gastos de ejecución, fueren generados en e
 
 ## TÍTULO NOVENO. INFRACCIONES Y MULTAS
 
-### CAPÍTULO II. INFRACCIONES Y SANCIONES
-
-DE LOS RESPONSABLES
+### CAPÍTULO I. GENERALIDADES
 
 ###### ARTÍCULO 138.
 
 La aplicación de las multas por infracciones a las disposiciones municipales y a la presente Ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+### CAPÍTULO II. INFRACCIONES Y SANCIONES
+
+DE LOS RESPONSABLES
 
 ###### ARTÍCULO 139.
 
@@ -1872,3 +1936,11 @@ D.O. 18 DE DICIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 429/2016 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, MOTUL, MUNA, SACALUM, SUMA DE HIDALGO, TEMAX, TIZIMÍN Y UAYMA".]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
