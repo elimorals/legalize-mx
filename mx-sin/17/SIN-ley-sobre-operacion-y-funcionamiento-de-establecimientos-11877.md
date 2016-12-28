@@ -4,7 +4,7 @@ identifier: "SIN-ley-sobre-operacion-y-funcionamiento-de-establecimientos-11877"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-05"
-last_updated: "1998-06-05"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY SOBRE OPERACION Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DESTINADOS A LA PRODUCCION, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE SINALOA
 
-LEY SOBRE OPERACION Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DESTINADOS A LA PRODUCCION, DISTRIBUCION, VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE SINALOA
+LEY SOBRE OPERACIÓN Y FUNCIONAMIENTO DE ESTABLECIMIENTOS DESTINADOS A LA PRODUCCIÓN, DISTRIBUCIÓN, VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 5 de junio de 1998.
 
@@ -673,11 +673,13 @@ Podrán levantarse en forma provisional los sellos de clausura, previa petición
 
 Las sanciones por violación a las disposiciones de esta Ley, consistirán en multa, clausura provisional, clausura definitiva del establecimiento y la cancelación de la licencia en su caso, de los locales donde se elaboren, envasen, distribuyan, transporten, almacenen, vendan y/o consuman bebidas con contenido alcohólico.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 69.
 
-Se aplicará multa por el equivalente de 50 a 250 días de salario mínimo general vigente en la entidad, en caso de incumplimiento de las obligaciones y prohibiciones que esta Ley y su Reglamento establecen. Esta sanción se impondrá a los propietarios o encargados o a quien o quienes resulten responsables, sin perjuicio de las que impongan otras Leyes.
+Se aplicará multa por el equivalente de 50 a 250 veces el valor diario de la Unidad de Medida y Actualización, en caso de incumplimiento de las obligaciones y prohibiciones que esta Ley y su Reglamento establecen. Esta sanción se impondrá a los propietarios o encargados o a quien o quienes resulten responsables, sin perjuicio de las que impongan otras Leyes.
 
-A los propietarios o encargados de negocios que expendan bebidas con contenido alcohólico sin contar con la licencia respectiva conforme al artículo 16 de esta Ley, se les impondrá multa por el equivalente de 80 a 800 días de salario mínimo general vigente en el Estado, además se les decomisarán las bebidas con contenido alcohólico que en ellos se encuentren; asimismo, se harán acreedor a lo anterior, los propietarios, encargados y los que expendan las citadas bebidas en cualquier local o lugar, sin contar con la licencia o el permiso correspondiente.
+A los propietarios o encargados de negocios que expendan bebidas con contenido alcohólico sin contar con la licencia respectiva conforme al artículo 16 de esta Ley, se les impondrá multa por el equivalente de 80 a 800 veces el valor diario de la Unidad de Medida y Actualización, además se les decomisarán las bebidas con contenido alcohólico que en ellos se encuentren; asimismo, se harán acreedor a lo anterior, los propietarios, encargados y los que expendan las citadas bebidas en cualquier local o lugar, sin contar con la licencia o el permiso correspondiente.
 
 ###### Artículo 70.
 
@@ -804,3 +806,21 @@ RENATO VEGA ALVARADO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 FRANCISCO C. FRÍAS CASTRO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivos del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
