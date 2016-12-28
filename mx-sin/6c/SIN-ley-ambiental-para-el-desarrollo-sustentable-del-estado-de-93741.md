@@ -4,7 +4,7 @@ identifier: "SIN-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-9374
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2016-06-06"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 8 de abril de 2013.
 
@@ -2863,7 +2863,9 @@ Cuando las autoridades ambientales ordenen alguna o algunas de las medidas de se
 
 Las violaciones a los preceptos de esta ley, sus reglamentos y las disposiciones que de ella emanen constituyen infracción y serán sancionadas administrativamente por las autoridades competentes, con una o más de las siguientes sanciones:
 
-I. Multa por el equivalente de 20 hasta 20,000 días de salario mínimo general vigente en el Estado, en el momento de imponer las sanciones, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I. Multa por el equivalente de 20 hasta 20,000 veces el valor diario de la Unidad de Medida y Actualización, en el momento de imponer las sanciones, cuando:
 
 1. Se impida al personal autorizado el acceso al lugar o lugares sujetos a inspección ambiental en los términos previstos en la orden escrita;
 
@@ -2973,9 +2975,13 @@ En los casos en que se imponga como sanción la clausura temporal, la autoridad 
 
 La Secretaría dará a los bienes decomisados alguno de los siguientes destinos:
 
-I. Venta directa en aquellos casos en que el valor de lo decomisado no exceda de 5,000 veces el salario mínimo general vigente en el Estado al momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II. Remate en subasta pública cuando el valor de lo decomisado exceda de 5,000 veces el salario diario mínimo general vigente en el Estado al momento de imponer la sanción;
+I. Venta directa en aquellos casos en que el valor de lo decomisado no exceda de 5,000 veces el valor diario de la Unidad de Medida y Actualización al momento de imponer la sanción;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Remate en subasta pública cuando el valor de lo decomisado exceda de 5,000 veces el valor diario de la Unidad de Medida y Actualización al momento de imponer la sanción;
 
 III. Donación a organismos públicos e instituciones científicas o de enseñanza superior o de beneficencia pública, según la naturaleza del bien decomisado y de acuerdo con las funciones y actividades que realice el donatario, siempre y cuando no sean lucrativas. Tratándose de especies y subespecies de flora y fauna silvestres, éstas podrán ser donadas a zoológicos públicos siempre que se garantice la existencia de condiciones adecuadas para su desarrollo; o
 
@@ -3007,39 +3013,53 @@ Toda persona podrá presentar directamente las denuncias penales que corresponda
 
 La Secretaría proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le solicite el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 273.
 
-Se impondrá pena de tres meses a tres años de prisión y multa por el equivalente de 50 a 5,000 días de salario mínimo general vigente en el Estado, al que sin contar con las autorizaciones respectivas o violando las normas de seguridad y operación aplicables a que se refiere a los artículo 206 y 207 de esta Ley, realice, autorice u ordene la realización de las actividades que conforme a este mismo ordenamiento se consideren como riesgosas, que ocasionan graves daños a la salud pública, la flora o la fauna o los ecosistemas.
+Se impondrá pena de tres meses a tres años de prisión y multa por el equivalente de 50 a 5,000 veces el valor diario de la Unidad de Medida y Actualización al que sin contar con las autorizaciones respectivas o violando las normas de seguridad y operación aplicables a que se refiere a los artículo (sic) 206 y 207 de esta Ley, realice, autorice u ordene la realización de las actividades que conforme a este mismo ordenamiento se consideren como riesgosas, que ocasionan graves daños a la salud pública, la flora o la fauna o los ecosistemas.
 
-Cuando las actividades consideradas como riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se podrá elevar la pena hasta 1 año más y la multa hasta 15,000 días de salario mínimo general vigente en el Estado.
+Cuando las actividades consideradas como riesgosas a que se refiere el párrafo anterior, se lleven a cabo en un centro de población, se podrá elevar la pena hasta 1 año más y la multa hasta 15,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 274.
 
-Se impondrá pena de tres meses a tres años de prisión y multa por el equivalente de 500 a 10,000 días de salario mínimo general vigente en el Estado, al que sin contar con la autorización de la autoridad competente o contraviniendo los términos en que esta haya sido concedida, fabrique, elabore, transporte, distribuya, comercie, almacene, posea, use, reuse, recicle, recolecte, trate, deseche, descargue, disponga o en general, realice actos con materiales o residuos de baja peligrosidad y residuos de manejo especial que ocasionen o puedan ocasionar daños graves a la salud pública, a los ecosistemas o sus elementos.
+Se impondrá pena de tres meses a tres años de prisión y multa por el equivalente de 500 a 10,000 veces el valor diario de la Unidad de Medida y Actualización, al que sin contar con la autorización de la autoridad competente o contraviniendo los términos en que esta haya sido concedida, fabrique, elabore, transporte, distribuya, comercie, almacene, posea, use, reuse, recicle, recolecte, trate, deseche, descargue, disponga o en general, realice actos con materiales o residuos de baja peligrosidad y residuos de manejo especial que ocasionen o puedan ocasionar daños graves a la salud pública, a los ecosistemas o sus elementos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 275.
 
-Se impondrá pena de 1 mes a 2 años 6 meses de prisión y multa por el equivalente de 50 a 5,000 días de salario mínimo general vigente en el Estado, al que con violación a lo establecido en las disposiciones legales, reglamentarias y normas oficiales mexicanas aplicables despida, descargue en la atmósfera o lo autorice o lo ordene, gases, humos y polvos que ocasionen o puedan ocasionar daños graves a la salud pública, la flora o la fauna o los ecosistemas.
+Se impondrá pena de 1 mes a 2 años 6 meses de prisión y multa por el equivalente de 50 a 5,000 veces el valor diario de la Unidad de Medida y Actualización, al que con violación a lo establecido en las disposiciones legales, reglamentarias y normas oficiales mexicanas aplicables despida, descargue en la atmósfera o lo autorice o lo ordene, gases, humos y polvos que ocasionen o puedan ocasionar daños graves a la salud pública, la flora o la fauna o los ecosistemas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 276.
 
-Se impondrá pena de 3 meses a 2 años 6 meses de prisión y multa por el equivalente de 50 a 5,000 días de salario mínimo general vigente en el Estado, al que sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas, aplicables, descargue, deposite o infiltre o la autorice u ordene, aguas residuales, desechos o contaminantes en los suelos o corrientes de agua de jurisdicción estatal que ocasionen o puedan ocasionar graves daños a la salud pública, la flora o la fauna o los ecosistemas.
+Se impondrá pena de 3 meses a 2 años 6 meses de prisión y multa por el equivalente de 50 a 5,000 veces el valor diario de la Unidad de Medida y Actualización, al que sin autorización de la autoridad competente y en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas, aplicables, descargue, deposite o infiltre o la autorice u ordene, aguas residuales, desechos o contaminantes en los suelos o corrientes de agua de jurisdicción estatal que ocasionen o puedan ocasionar graves daños a la salud pública, la flora o la fauna o los ecosistemas.
 
 Cuando se trate de aguas para abastecimiento público, la pena se podrá elevar hasta 1 año 6 meses más.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 277.
 
-Se impondrá pena de 1 mes a 2 años 6 meses de prisión y multa por el equivalente de 50 a 5,000 días de salario mínimo general vigente en el Estado, a quien en contravención a las disposiciones legales aplicables, genere emisiones de ruido, vibraciones, energía térmica, lumínica, en zonas de jurisdicción estatal que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
+Se impondrá pena de 1 mes a 2 años 6 meses de prisión y multa por el equivalente de 50 a 5,000 veces el valor diario de la Unidad de Medida y Actualización, a quien en contravención a las disposiciones legales aplicables, genere emisiones de ruido, vibraciones, energía térmica, lumínica, en zonas de jurisdicción estatal que ocasionen graves daños a la salud pública, la flora, la fauna o los ecosistemas.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 278.
 
-Se impondrá pena de 1 a 3 años de prisión y multa por el equivalente de 300 a 3,000 días de salario mínimo vigente en el Estado, al que ilícitamente, o sin aplicar las medidas de prevención o seguridad, realice actividades de producción, almacenamiento, transporte, abandono, desecho, descarga, lo ordene o autorice o realice cualquier otra actividad con sustancias, materiales o residuos no reservados a la Federación que por su clase, calidad o cantidad sean aptos para contaminar o alterar perjudicialmente el suelo, la atmósfera o las aguas de jurisdicción estatal o que generen daños a la población.
+Se impondrá pena de 1 a 3 años de prisión y multa por el equivalente de 300 a 3,000 veces el valor diario de la Unidad de Medida y Actualización, al que ilícitamente, o sin aplicar las medidas de prevención o seguridad, realice actividades de producción, almacenamiento, transporte, abandono, desecho, descarga, lo ordene o autorice o realice cualquier otra actividad con sustancias, materiales o residuos no reservados a la Federación que por su clase, calidad o cantidad sean aptos para contaminar o alterar perjudicialmente el suelo, la atmósfera o las aguas de jurisdicción estatal o que generen daños a la población.
 
-En el caso de que las actividades a que se refieren los párrafos anteriores, se lleven a cabo en un área natural protegida que se encuentre bajo la administración del gobierno del estado o de la autoridad municipal, la pena de prisión se incrementará hasta en 3 años y la pena económica hasta en 1,000 días de salario mínimo vigente en el Estado.
+En el caso de que las actividades a que se refieren los párrafos anteriores, se lleven a cabo en un área natural protegida que se encuentre bajo la administración del gobierno del estado o de la autoridad municipal, la pena de prisión se incrementará hasta en 3 años y la pena económica hasta en 1,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 279.
 
-Se impondrá pena de 1 a 3 años de prisión y multa económica de 300 a 3,000 días de salario mínimo vigente en el Estado, a quien:
+Se impondrá pena de 1 a 3 años de prisión y multa económica de 300 a 3,000 veces el valor diario de la Unidad de Medida y Actualización, a quien:
 
 I. Asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental local;
 
@@ -3268,3 +3288,19 @@ P.O. 6 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 554 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN LAS FRACCIONES II DEL ARTICULO 139; Y III DEL ARTICULO 153; SE ADICIONA EL ARTÍCULO 152 BIS; Y SE DEROGA EL INCISO E) DE LA FRACCIÓN XXII DEL ARTÍCULO 152 DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE SINALOA”.].
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
