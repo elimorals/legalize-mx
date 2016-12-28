@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-ganadero-del-estado-de-sinaloa-33344"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-30"
-last_updated: "2015-06-24"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL DESARROLLO GANADERO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 30 de julio de 2003.
 
@@ -1793,29 +1793,29 @@ La Secretaría a través de sus inspectores, levantará las actas circunstanciad
 
 Al que infrinja las disposiciones señaladas en los artículos: 16, 24, 36, 74, 90, 102, 155, 160 y 165 de la presente Ley, se le amonestará con apercibimiento por escrito de que realice la conducta o actos especificados en los citados numerales dentro del término de siete días hábiles contados a partir del día hábil siguiente al en que se le haya notificado la amonestación y, en caso de no acatarlo, se le aplicará la multa señalada en el artículo 205 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 205.
 
-Al que infrinja las disposiciones señaladas en los artículos 4 Bis, 27, 34, 37, 55, 56, 61, 70, 71, 72, 73, 138, 159 ó 162 de la presente Ley se le impondrá una sanción con multa de 100 a 200 días de salario mínimo general vigente en el Estado. Lo anterior, independientemente de las penas que correspondan por la comisión de algún delito.
+Al que infrinja las disposiciones señaladas en los artículos 4 Bis, 27, 34, 37, 55, 56, 61, 70, 71, 72, 73, 138, 159 ó 162 de la presente Ley se le impondrá una sanción con multa de 100 a 200 veces el valor diario de la Unidad de Medida y Actualización. Lo anterior, independientemente de las penas que correspondan por la comisión de algún delito.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 206.
 
-Al que infrinja las disposiciones señaladas en los artículos 20, 21, 48, 77, 78, 97, 98, 99, 121, 137, 152, 153, 154, 179, 180, 192 y 196 de la presente Ley se le impondrá una sanción con multa de 200 a 600 días de salario mínimo general vigente en el Estado, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
+Al que infrinja las disposiciones señaladas en los artículos 20, 21, 48, 77, 78, 97, 98, 99, 121, 137, 152, 153, 154, 179, 180, 192 y 196 de la presente Ley se le impondrá una sanción con multa de 200 a 600 veces el valor diario de la Unidad de Medida y Actualización, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 207.
 
-Al que infrinja las disposiciones señaladas en los artículos 51, 53, 57, 58, 59, 68, 69, 117, 126, 127 y 143 de la presente Ley se le impondrá una sanción con multa de 600 a 1,000 días de salario mínimo general vigente en el Estado, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
+Al que infrinja las disposiciones señaladas en los artículos 51, 53, 57, 58, 59, 68, 69, 117, 126, 127 y 143 de la presente Ley se le impondrá una sanción con multa de 600 a 1,000 veces el valor diario de la Unidad de Medida y Actualización, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 208.
 
-Al que infrinja las disposiciones señaladas en los artículos 22, 35, 38, 60, 79, 94, 139, 140, 141 y 146 de la presente Ley se le impondrá una sanción con multa de 1,000 a 10,000 días de salario mínimo general vigente en el Estado, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
+Al que infrinja las disposiciones señaladas en los artículos 22, 35, 38, 60, 79, 94, 139, 140, 141 y 146 de la presente Ley se le impondrá una sanción con multa de 1,000 a 10,000 veces el valor diario de la Unidad de Medida y Actualización, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
 
 ###### Artículo 209.
 
@@ -1851,9 +1851,11 @@ La Secretaría de Administración y Finanzas, informará a la Secretaría del re
 
 Las violaciones a las disposiciones legales concernientes al Servicio de Clasificaciones y Especificaciones de Ganado y Carne y al Servicio Estatal de Clasificación de la Leche, Productos Derivados y Subproductos, se sancionarán por la Secretaría, escuchando la opinión de la Comisión Estatal de Desarrollo Ganadero y la Comisión Estatal de la Leche, respectivamente.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 213.
 
-Las infracciones a la presente Ley y su Reglamento que no tengan señalada una sanción administrativa expresa, se castigarán, según su importancia, con una multa por el equivalente de 50 a 100 días de salario mínimo general vigente en el Estado, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
+Las infracciones a la presente Ley y su Reglamento que no tengan señalada una sanción administrativa expresa, se castigarán, según su importancia, con una multa por el equivalente de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización, lo anterior independientemente de las penas que correspondan por la comisión de algún delito.
 
 ###### Artículo 214.
 
@@ -1954,3 +1956,19 @@ SEGUNDO. Se derogan las demás disposiciones que se opongan al presente Decreto.
 TERCERO. Los establecimientos autorizados para el sacrificio de productos pecuarios que a la entrada en vigor del presente decreto estén en funciones, lo seguirán haciendo por un periodo de 10 años.
 
 CUARTO. El Poder Ejecutivo realizará las previsiones presupuestarias necesarias en la Ley de Ingresos y Presupuesto de Egresos, para el debido cumplimiento del presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
