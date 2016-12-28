@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2016-11-14"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -250,7 +250,9 @@ VI. Informar de los asuntos en los que tengan intereses o puedan obtener benefic
 
 VII. Abstenerse de realizar actos que sean incompatibles con la función que desempeñan, así como ostentarse con el carácter de legislador en toda clase de asuntos o negocios privados;
 
-VIII. Guardar reserva de todo lo que se trate y resuelva en las sesiones secretas, así como de la información a la que tenga acceso y que, conforme a lo dispuesto por las leyes respectivas, sea reservada o confidencial;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
+
+VIII. Guardar reserva de toda la información a la que tenga acceso y que conforme a lo dispuesto por las leyes respectivas, sea reservada o confidencial;
 
 IX. Tratar con respeto y profesionalismo al personal que preste sus servicios a la Cámara, en apego a las condiciones de trabajo;
 
@@ -266,7 +268,9 @@ XIII. Renunciar a obtener, por la realización de actividades inherentes a su ca
 
 a) Sí, su cónyuge, concubina o concubino;
 
-b) Parientes consanguíneos o por afinidad hasta el cuarto grado;
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Parientes consanguíneos, civiles o por afinidad hasta el cuarto grado;
 
 c) Terceros con los que tenga relaciones profesionales, laborales, de negocios, o
 
@@ -506,9 +510,9 @@ V. Para ocupar un cargo dentro de su partido político.
 
 ###### Artículo 33.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
 
-1. En el Salón de Sesiones habrá un lugar denominado galerías, destinado al público que concurra a presenciar las Sesiones del Pleno de la Cámara; se abrirán antes de comenzar cada una de ellas, y sólo se cerrarán en el momento que las sesiones se levanten, cuando haya sesiones secretas o sea necesario cerrarlas para restaurar el orden.
+1. En el Salón de Sesiones habrá un lugar denominado galerías, destinado al público que concurra a presenciar las Sesiones del Pleno de la Cámara; se abrirán antes de comenzar cada una de ellas, y sólo se cerrarán en el momento que las sesiones se levanten, o sea necesario cerrarlas para restaurar el orden.
 
 2. El Presidente valorará la conveniencia de abrir nuevamente las galerías una vez restaurado el orden, si estima que las garantías de seguridad de los diputados y diputadas son las adecuadas.
 
@@ -526,11 +530,11 @@ V. Para ocupar un cargo dentro de su partido político.
 
 #### Sección Primera. Generalidades
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 35.
 
-1. Las Sesiones de la Cámara tendrán el carácter de ordinarias, extraordinarias, solemnes o permanentes; todas las sesiones serán públicas, salvo las que de manera excepcional, sean consideradas como secretas, conforme al artículo 40 de este Reglamento.
+1. Las Sesiones de la Cámara tendrán el carácter de ordinarias, extraordinarias, solemnes o permanentes; todas las sesiones serán públicas.
 
 #### Sección Segunda. Sesiones Ordinarias
 
@@ -600,33 +604,25 @@ IV. Realizar actos protocolarios o diplomáticos.
 
 5. Cuando se traten asuntos para los cuales la legislación fije un plazo o término, ninguna sesión podrá prorrogarse más allá de dicho término.
 
-#### Sección Sexta. Sesiones Secretas
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
+
+#### Sección Sexta
 
 ###### Artículo 40.
 
-1. En las sesiones secretas sólo se podrán tratar los asuntos que:
-
-I. Sean dirigidos a la Cámara con carácter de reservado, de acuerdo con las normas legales aplicables,
-
-II. El Pleno califique con ese carácter por razones de seguridad nacional u orden público, y
-
-III. Los que por mandato de ley debieran tratarse de esa manera.
+(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
 ###### Artículo 41.
 
-1. El personal de apoyo estará obligado a respetar la confidencialidad de los documentos electrónicos, fílmicos, de audio y escritos, correspondientes a los asuntos tratados con carácter de reservado, en términos de las leyes aplicables. El desacato a esta disposición dará lugar a las sanciones que correspondan.
+(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
 ###### Artículo 42.
 
-1. En las sesiones secretas sólo deberán estar presentes los diputados, diputadas y el personal de apoyo que el Presidente considere indispensable.
+(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
 ###### Artículo 43.
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
-
-1. Los documentos electrónicos, fílmicos, videográficos de audio y escritos de las sesiones secretas serán mantenidos bajo reserva por el Presidente.
-
-2. La Cámara, a través de la Mesa Directiva, podrá hacer públicos los documentos reservados, de conformidad con lo que establecen la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y el Reglamento de Transparencia, Acceso a la Información Pública y Protección de Datos Personales de la Cámara de Diputados.
+(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
 ### CAPITULO II. De las Asistencias, Declaración de Quórum, Inasistencias, Permisos y Justificaciones
 
@@ -634,7 +630,9 @@ III. Los que por mandato de ley debieran tratarse de esa manera.
 
 1. Será facultad del Presidente que se realicen los avisos necesarios para procurar la presencia de todos los diputados y diputadas integrantes de la Cámara, en la apertura de las sesiones y en las votaciones nominales.
 
-2. El Presidente requerirá la presencia de los diputados y diputadas que no asistan a las sesiones y les comunicará de las sanciones por no acudir.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
+
+2. El Presidente requerirá la presencia de los diputados y diputadas que no asistan a las sesiones y les comunicará de las sanciones por no acudir injustificadamente.
 
 ###### Artículo 45.
 
@@ -674,9 +672,9 @@ III. Los que por mandato de ley debieran tratarse de esa manera.
 
 I. No registre su asistencia al inicio.
 
-> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
 
-II. No vote o manifieste su abstención en al menos, la mitad de los proyectos de ley o decreto que se discutan en la Sesión, salvo que exista justificación.
+II. En caso de votación nominal no vote o no manifieste su abstención en al menos, un tercio de los proyectos de ley o decreto que se discutan en la Sesión, salvo que exista justificación.
 
 ###### Artículo 48.
 
@@ -746,7 +744,9 @@ IV. Los nombres de las diputadas y de los diputados que no hayan participado en,
 
 ###### Artículo 56.
 
-1. Cuando haya transcurrido el plazo previsto, la Secretaría emitirá un reporte en el que se especifiquen los nombres de diputados y diputadas que justificaron sus inasistencias, así como de quienes no lo hicieron; el cual turnará al Presidente, para su publicación y difusión en la Gaceta, en Internet y en la bitácora de asistencias a las sesiones, de acuerdo con el siguiente formato:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
+
+1. Cuando haya transcurrido el plazo previsto, la Secretaría emitirá un reporte en el que se especifiquen los nombres de diputados y diputadas que justificaron sus inasistencias, así como de quienes no lo hicieron; el cual turnará al Presidente, para su publicación y difusión en la Gaceta, en Internet, a través de la página de Internet oficial y de las cuentas en redes sociales activadas por la Cámara y en la bitácora de asistencias a las sesiones, de acuerdo con el siguiente formato:
 
 I. Nombre de cada diputada y diputado;
 
@@ -754,13 +754,15 @@ II. Asistencias, permisos, inasistencias justificadas e injustificadas;
 
 III. Fecha de actualización, y
 
-IV. Los nombres de las diputadas y de los diputados que no hayan participado en cuando menos, la mitad de las votaciones que se hayan realizado.
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
+IV. Los nombres de las diputadas y de los diputados que no hayan participado en cuando menos, un tercio de las votaciones que se hayan realizado.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 57.
 
-1. La Secretaría formulará dentro de los veinte días siguientes al cierre del periodo de que se trate, un informe final de las inasistencias sin justificar, que deberá remitir al Presidente y a los coordinadores de los grupos, a efecto de que se publique en los medios de información de la Cámara y se determine la sanción correspondiente, en términos del artículo 64 de la Constitución.
+1. La Secretaría formulará dentro de los veinte días siguientes al cierre del periodo de que se trate, un informe final de las inasistencias sin justificar, que deberá remitir al Presidente y a los coordinadores de los grupos, a efecto de que se publique en los medios de información de la Cámara, a través de la página de Internet oficial y de las cuentas en redes sociales activadas por la Cámara; y se determine la sanción correspondiente en términos del artículo 64 de la Constitución.
 
 > <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2011)</small>
 
@@ -1864,7 +1866,9 @@ III. Por cédula.
 
 2. En caso de que no sea posible contar con el Sistema Electrónico, la votación se hará de la siguiente manera:
 
-I. La Secretaría dará lectura a todos los diputados y diputadas, los cuales al escuchar su nombre deberán expresar el sentido de su voto a favor, en contra o en abstención;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
+
+I. La Secretaría dará lectura a la lista nominal, y los diputados y diputadas al escuchar su nombre deberán expresar el sentido de su voto a favor, en contra o en abstención;
 
 II. Un Secretario será responsable del registro de los que aprueben, otro de los que rechacen y uno más de los que manifiesten su abstención;
 
@@ -2730,7 +2734,9 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 1. La lista de asistencia a las reuniones de comisión se verificará al inicio y al final de la misma. Los diputados y diputadas deberán firmar en ambos casos para constancia.
 
-2. Si un diputado o diputada no participa en la mayoría de las votaciones nominales que se presenten en una Reunión, se computará como inasistencia, aún cuando haya registrado su asistencia al inicio y al término de la misma.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
+
+2. Si un diputado o diputada no participa en una tercera parte de las votaciones nominales que se presenten en una Reunión, se computará como inasistencia, aún cuando haya registrado su asistencia al inicio y al término de la misma.
 
 ###### Artículo 193.
 
@@ -3238,7 +3244,7 @@ XVI. Significado de las siglas y abreviaturas incluidas.
 
 ###### Artículo 238.
 
-1. La versión estenográfica de los asuntos que se hayan tratado en sesiones secretas no se publicarán.
+(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
 #### Sección Tercera. Gaceta Parlamentaria
 
@@ -3342,9 +3348,11 @@ XXIX. Todos aquellos asuntos o labores de la Cámara que el Presidente considere
 
 #### Sección Primera. Servicios de Información en Internet
 
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 242.
 
-1. Los servicios de información en Internet de la Cámara son el medio por el que se da a conocer su estructura, composición, información legislativa, actividades y otros temas de interés general.
+1. Los servicios de información en Internet de la Cámara son el medio por el que se da a conocer su estructura, composición, información legislativa, actividades y otros temas de interés general, así como las cuentas oficiales en las principales redes sociales, mismas que deberán encontrarse continuamente actualizadas y vigentes.
 
 ###### Artículo 243.
 
@@ -3360,7 +3368,9 @@ XXIX. Todos aquellos asuntos o labores de la Cámara que el Presidente considere
 
 1. La Cámara cuenta con un órgano de comunicación social profesional e institucional, encargado de informar sobre los acontecimientos que se produzcan en la misma, así como de atender y dar servicios a los informadores acreditados.
 
-2. La Coordinación de Comunicación Social es el órgano de enlace con los medios de comunicación.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
+
+2. La Coordinación de Comunicación Social es el órgano de enlace con los medios de comunicación y de difusión por Internet, así como en las cuentas oficiales en las principales redes sociales.
 
 ###### Artículo 246.
 
@@ -3374,7 +3384,9 @@ XXIX. Todos aquellos asuntos o labores de la Cámara que el Presidente considere
 
 I. Facilitar a los informadores acreditados ante la Cámara, y en general a todos los medios, la información que se genere en la misma;
 
-II. Informar sobre las iniciativas de ley o decreto, las propuestas que no constituyan iniciativas y que se reciban por la Cámara, así como sobre los proyectos de dictamen que sean discutidos y resueltos por el Pleno;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Informar y divulgar utilizando las nuevas tecnologías de comunicación, página de Internet y redes sociales sobre las iniciativas de ley o decreto, las propuestas que no constituyan iniciativas y que se reciban por la Cámara, así como sobre los proyectos de dictamen que sean discutidos y resueltos por el Pleno;
 
 III. Apoyar el trabajo de los informadores, a través de las versiones estenográficas, la Gaceta y el Diario de los Debates;
 
@@ -3903,3 +3915,9 @@ D.O.F. 14 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL " DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 150, 155 Y 189 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS, EN MATERIA DE CONVOCATORIA A COMISIÓN A DIPUTADAS Y DIPUTADOS PROMOVENTES".]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
