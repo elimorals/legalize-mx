@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-la-auditoria-superior-del-estado-de-sinaloa-60836"
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-23"
-last_updated: "2013-04-19"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 23 de abril de 2008.
 
@@ -871,11 +871,15 @@ Artículo 34 Bis C. Los servidores públicos de los Poderes del Estado, los Orga
 
 Cuando derivado de la complejidad de los requerimientos de información formulados por parte de la Auditoría Superior del Estado, las entidades fiscalizadas le requieran un plazo adicional para ser atendidos, podrá otorgarlo por única vez, determinado en función de las actividades y plazos que deba cumplir. Exceptuando de lo anterior los requerimientos de información que se formulen para iniciar la revisión y fiscalización a través de las auditorías correspondientes.
 
-> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-Artículo 34 Bis D. La Auditoría Superior del Estado, sancionará con multa administrativa de 500 a 2000 días de salario mínimo general vigente para el Estado, cuando:
+Artículo 34 Bis D. La Auditoría Superior del Estado, sancionará con multa administrativa de 500 a 2000 veces el valor diario de la Unidad de Medida y Actualización cuando:
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
 
 I. Los servidores públicos o los particulares, no atiendan los requerimientos a que se refiere el artículo anterior, salvo que exista disposición legal o mandato judicial que se los impida.
+
+> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2013)</small>
 
 II. Los servidores públicos de las entidades fiscalizables, que en el ejercicio de sus funciones incumplan con:
 
@@ -899,7 +903,11 @@ I. Caucionar oportunamente el manejo de los recursos públicos; y,
 
 J. Cuando los Servidores Públicos de los Entes Públicos Estatales o Municipales no rindan los informes sobre la aplicación de los recursos públicos recibidos durante el ejercicio fiscal anterior, dentro de los plazos que establece la Constitución Política del Estado de Sinaloa, y esta Ley.
 
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
+
 Las multas administrativas que se establecen en este artículo se fincarán tomando en cuenta las condiciones económicas del infractor, la gravedad de la infracción cometida, los medios de ejecución y, en su caso, el nivel jerárquico al momento de cometer la infracción.
+
+> <small>(ADICIONADO, P.O. 19 DE ABRIL DE 2013)</small>
 
 Para la determinación y aplicación de las multas establecidas en este artículo se aplicará en lo conducente el procedimiento que establece el artículo 94 de esta Ley.
 
@@ -1017,7 +1025,7 @@ a). Determinar el resultado de la gestión y situación financiera;
 
 b). Verificar que los estados financieros estén elaborados de conformidad con los postulados básicos de contabilidad gubernamental; y,
 
-c). Verificar que los estados financieros elaborados, autorizados por la administración de la entidad correspondiente, sean completos y revelen la información necesaria que refleje la situación financiera, los resultados de operación, los cambios en la situación financiera y las variaciones en su patrimonio; y, (sic)
+c). Verificar que los estados financieros elaborados, autorizados por la administración de la entidad correspondiente, sean completos y revelen la información necesaria que refleje la situación financiera, los resultados de operación, los cambios en la situación financiera y las variaciones en su patrimonio; y,
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2013)</small>
 
@@ -1834,3 +1842,19 @@ A partir de la entrada en vigor del presente Decreto, se derogan todas aquellas 
 ###### ARTÍCULO TERCERO.
 
 Los procedimientos que se hayan iniciado por la Auditoría Superior del Estado a los entes fiscalizables conforme a las disposiciones que rige (sic) su actuación y de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Sinaloa, antes de la entrada en vigor del presente decreto de reforma, y que se encuentren en trámite o pendientes de resolución, deberán sustanciarse y resolverse conforme a las disposiciones vigentes en el momento en el que se iniciaron tales procedimientos.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
