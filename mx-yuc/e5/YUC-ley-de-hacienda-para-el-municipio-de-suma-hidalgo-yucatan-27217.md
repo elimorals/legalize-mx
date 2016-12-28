@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-suma-hidalgo-yucatan-27217
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2008-12-27"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27217&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE SUMA HIDALGO, YUCATAN
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE SUMA DE HIDALGO, YUCATAN
+LEY DE HACIENDA PARA EL MUNICIPIO DE SUMA DE HIDALGO, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 31 de diciembre de 2002.
 
@@ -147,9 +147,11 @@ CAPÍTULOLO (SIC) SEGUNDO
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 16.
 
-Las licencias de funcionamiento que expida la Tesorería Municipal serán gratuitas; excepto aquellas que autoricen el funcionamiento de establecimientos que de manera permanente o transitoria expendan bebidas alcohólicas.
+Las licencias de funcionamiento serán expidas por la Tesorería Municipal, previa autorización del Presidente Municipal y el pago respectivo. Para aquellas que autoricen el funcionamiento de establecimientos que de manera permanente o transitoria expendan bebidas alcohólicas se requerirá autorización del cabildo.
 
 Dichas licencias tendrán una vigencia que iniciará en la fecha de su expedición y terminará el último día del período constitucional de la administración municipal que la expidió.
 
@@ -753,9 +755,13 @@ Los usuarios de este servicio están obligados a permitir que las autoridades fi
 
 Son objeto de este derecho, la autorización, transporte, matanza, guarda en corrales, peso en básculas propiedad del municipio e inspección de animales por parte de la autoridad municipal.
 
-El Ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva y sin cobro alguno, la matanza de ganado fuera de las rastros públicos del municipio, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-En todo caso se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez salarios mínimos. En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
+El Ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva la matanza de ganado fuera de los rastros públicos del municipio, con el pago que se establezca en la ley de ingresos, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+En todo caso se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez Unidades de Medida y actualización (UMA). En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
 
 ###### ARTÍCULO 95.
 
@@ -1245,7 +1251,7 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIERREZ.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O. 31 DE DICIEMBRE DE 2004.
 
@@ -1258,3 +1264,11 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 429/2016 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, MOTUL, MUNA, SACALUM, SUMA DE HIDALGO, TEMAX, TIZIMÍN Y UAYMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
