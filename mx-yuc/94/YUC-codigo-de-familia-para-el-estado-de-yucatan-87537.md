@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-familia-para-el-estado-de-yucatan-87537"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2015-06-12"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -935,9 +935,11 @@ La renuncia deberá ser ratificada ante el juez.
 
 Consentimiento para capitales prestados
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 105.
 
-Ninguno de los cónyuges podrá tomar capitales prestados, sin el consentimiento del otro, cuando su importe exceda al equivalente de cien veces el salario mínimo general diario vigente en el Estado.
+Ninguno de los cónyuges podrá tomar capitales prestados, sin el consentimiento del otro, cuando su importe exceda al equivalente de cien unidades de medida y actualización.
 
 En contrario, el consentimiento deberá hacerse constar en el documento de préstamo.
 
@@ -1081,7 +1083,9 @@ II. En defecto o además de la casa habitación, una parcela que sea explotada d
 
 III. Los libros y el equipo para ejercer profesión u oficio;
 
-IV. Los muebles y enseres de uso familiar que no sean suntuosos y cuyo valor no exceda de dos mil salarios mínimos vigentes en el Estado, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV. Los muebles y enseres de uso familiar que no sean suntuosos y cuyo valor no exceda de dos mil unidades de medida y actualización.
 
 V. La maquinaria e instrumentos necesarios para el cultivo de la parcela.
 
@@ -5833,9 +5837,11 @@ Tanto el notario como los testigos que intervengan en cualquier testamento deben
 
 Prohibición en la redacción del testamento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 735.
 
-Se prohíbe a los notarios y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de cien a trescientas veces el salario mínimo general vigente en el Estado, a los notarios y la mitad a los que no lo fueren.
+Se prohíbe a los notarios y a cualesquiera otras personas que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de cien a trescientas unidades de medida y actualización, a los notarios y la mitad a los que no lo fueren.
 
 Además, los notarios, bajo su más estricta responsabilidad, están obligados a no contravenir el artículo 732 de este Código.
 
@@ -7294,3 +7300,15 @@ Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de es
 Décimo primero. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
