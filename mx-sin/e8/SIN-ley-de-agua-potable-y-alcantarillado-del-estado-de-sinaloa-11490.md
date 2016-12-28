@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-agua-potable-y-alcantarillado-del-estado-de-sinaloa-1149
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-20"
-last_updated: "2016-06-24"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 20 de febrero de 1984.
 
@@ -377,7 +377,7 @@ XXIII.- Determinar las condiciones particulares de descarga domiciliaria al sist
 
 > <small>(ADICIONADA, P.O. 27 DE MAYO DE 1998)</small>
 
-XXIV.- Contratar los servicios de particulares, cuando sea necesario, para el cumplimiento de las funciones y atribuciones consignadas en este artículo; y (sic)
+XXIV.- Contratar los servicios de particulares, cuando sea necesario, para el cumplimiento de las funciones y atribuciones consignadas en este artículo; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -989,11 +989,11 @@ Para efectos de la fracción XV, de este artículo, se entenderá como desperdic
 
 ### CAPITULO OCTAVO. DE LAS SANCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 81.
 
-A los que debiendo surtirse de agua potable del servicio público y conectarse al sistema de alcantarillado, no cumplan con esta obligación dentro de los plazos que fija el artículo 23, o impidan se efectúen las instalaciones correspondientes, se les impondrá una multa equivalente de tres a diez días de salario mínimo general en la zona respectiva de acuerdo con las circunstancias, e igual multa podrá seguir aplicándose mensualmente hasta en tanto se cumpla con tal obligación.
+A los que debiendo surtirse de agua potable del servicio público y conectarse al sistema de alcantarillado, no cumplan con esta obligación dentro de los plazos que fija el artículo 23, o impidan se efectúen las instalaciones correspondientes, se les impondrá una multa equivalente de tres a diez veces el valor diario de la Unidad de Medida y Actualización de acuerdo con las circunstancias, e igual multa podrá seguir aplicándose mensualmente hasta en tanto se cumpla con tal obligación.
 
 I.- En los casos de la fracción VI, inciso a), del artículo 23 desde la fecha en que se haya notificado legalmente haber quedado establecido el servicio en la calle en que estén ubicados sus predios, giros, o establecimientos, hasta el día en que se instale la toma;
 
@@ -1001,27 +1001,29 @@ II.- En los casos a que se refiere la fracción IV, inciso b), del mismo artícu
 
 III.- En los casos mencionados en la fracción VI, inciso c), del propio artículo, desde la fecha de iniciación de las obras hasta la instalación de la toma.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 82.
 
-Las infracciones a que se refieren las fracciones II, III, IV, X, XI y XVI, del artículo 80, se sancionarán con una multa equivalente de cinco a sesenta días del salario mínimo general en la zona correspondiente, de acuerdo con las circunstancias del caso.
+Las infracciones a que se refieren las fracciones II, III, IV, X, XI y XVI del artículo 80, se sancionarán con una multa equivalente de cinco a sesenta veces el valor diario de la Unidad de Medida y Actualización, de acuerdo con las circunstancias del caso.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 83.
 
-Las infracciones a que se refieren las fracciones V, VI, VII, VIII, IX y XIII del artículo 80, se sancionarán con multa equivalente de tres a diez días de salario mínimo general de la zona respectiva; igual multa se impondrá a quien cometa la infracción señalada en las fracciones XIV y XVI del artículo 80, pero tratándose de fraccionamientos o de usuarios con consumos mayores de 200 metros cúbicos bimestrales, la multa podrá elevarse al equivalente de cuarenta y cinco días del mismo salario.
+Las infracciones a que se refieren las fracciones V, VI, VII, VIII, IX y XIII del artículo 80, se sancionarán con multa equivalente de tres a diez veces el valor diario de la Unidad de Medida y Actualización; igual multa se impondrá a quien cometa la infracción señalada en las fracciones XIV y XVI del artículo 80, pero tratándose de fraccionamientos o de usuarios con consumos mayores de 200 metros cúbicos bimestrales, la multa podrá elevarse al equivalente de cuarenta y cinco veces del mismo valor.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
 
 Los infractores a que se refiere las fracciones VI, VII, VIII y IX del artículo 80 de la Ley, que reincidan en la violación de los aparatos medidores, el sello, los sistemas de limitación del servicio aplicados por las Juntas, registros del medidor y alteración al consumo marcado, serán sancionados con la interrupción del servicio, que no podrá ser reinstalado sino hasta que quede cubierto el monto de los daños y de los demás adeudos del usuario.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 1998)</small>
+
 También serán sancionados con la interrupción de los servicios, los infractores a que se refiere la fracción XVII del artículo 80, cuando se trate de usuarios industriales, comerciales o públicos a que se refiere el artículo 4 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
-
-Los usuarios referidos en la fracción XIX, del artículo 80 de esta ley, serán sancionados con multa de 500 a 1000 veces el salario mínimo general vigente en la zona respectiva.
+Los usuarios referidos en la fracción XIX, del artículo 80 de esta ley, serán sancionados con multa de 500 a 1000 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1035,9 +1037,13 @@ I. Después de levantada la primera acta de inspección donde se haga constar el
 
 II. De levantarse una segunda acta de inspección en el mismo año y por la misma causa, se le impondrá una multa económica equivalente a:
 
-a). Multa de 50 a 200 veces el salario mínimo general vigente en la zona respectiva, en el caso de usuarios domésticos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-b). Multa de 200 a 500 veces el salario mínimo general vigente en la zona respectiva, en el caso de usuarios comerciantes e industriales.
+a). Multa de 50 a 200 veces el valor diario de la Unidad de Medida y Actualización, en el caso de usuarios domésticos.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b). Multa de 200 a 500 veces el valor diario de la Unidad de Medida y Actualización, en el caso de usuarios comerciantes e industriales.
 
 III. Si mediante una inspección ocular resultare que el desperdicio de agua persiste, podrán imponerse multas sucesivas por cada día que transcurra sin obedecer el mandato, sin que el total de las multas exceda el monto máximo permitido.
 
@@ -1301,10 +1307,26 @@ P.O. 4 DE JULIO DE 2014.
 
 P.O. 24 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 562 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE GESTIÓN EMPRESARIAL Y REFORMA REGULATORIA, LEY DE FOMENTO A LA INVERSIÓN PARA EL DESARROLLO ECONÓMICO, LEY DE HACIENDA MUNICIPAL, LEY DE CATASTRO, LEY DE AGUA POTABLE Y ALCANTARILLADO, LEY DE PROTECCIÓN CIVIL Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 562 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE GESTIÓN EMPRESARIAL Y REFORMA REGULATORIA, LEY DE FOMENTO A LA INVERSIÓN PARA EL DESARROLLO ECONÓMICO, LEY DE HACIENDA MUNICIPAL, LEY DE CATASTRO, LEY DE AGUA POTABLE Y ALCANTARILLADO, LEY DE PROTECCIÓN CIVIL Y LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
 
 TERCERO. En un plazo de noventa días se deberán realizar las adecuaciones correspondientes a los Reglamentos de la Ley de Hacienda Municipal, Ley de Catastro, Ley de Agua Potable y Alcantarillado, Ley de Protección Civil, y Ley de Gobierno Municipal, todas del Estado, respectivamente, a efecto de establecer el procedimiento para llevar a cabo las solicitudes, dictaminaciones, pagos y emisión de documentos o constancias que se generen por medios electrónicos.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
