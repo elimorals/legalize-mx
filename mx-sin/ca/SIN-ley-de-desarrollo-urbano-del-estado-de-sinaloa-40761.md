@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-urbano-del-estado-de-sinaloa-40761"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-01"
-last_updated: "2013-02-27"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40761&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Sinaloa, el miércoles 1 de septiembre de 2004.
 
@@ -1639,17 +1639,23 @@ VI. De Vivienda Residencial; y,
 
 VII. De Vivienda Campestre.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 127.
 
-Los fraccionamientos de vivienda de objetivo social, son aquellos que se desarrollan mediante gestión pública a través de los Gobiernos Estatal o Municipales, y cuyo valor de venta final sea menor a 4,000 veces el salario mínimo general vigente.
+Los fraccionamientos de vivienda de objetivo social, son aquellos que se desarrollan mediante gestión pública a través de los Gobiernos Estatal o Municipales, y cuyo valor de venta final sea menor a 4,000 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 128.
 
-Los fraccionamientos de vivienda de interés social son aquellos cuyo valor de vivienda al término de su edificación, no exceda de la suma que resulte de multiplicar por quince el salario mínimo general vigente elevado al año, o el que acuerde el Comité Técnico de Vivienda que al efecto instituya el Gobierno del Estado.
+Los fraccionamientos de vivienda de interés social son aquellos cuyo valor de vivienda al término de su edificación, no exceda de la suma que resulte de multiplicar por quince veces el valor diario de la Unidad de Medida y Actualización elevado al año, o el que acuerde el Comité Técnico de Vivienda que al efecto instituya el Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 129.
 
-Los fraccionamientos de vivienda popular son aquellos cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por veintiocho el salario mínimo general vigente elevado al año, o el que acuerde el Comité Técnico de Vivienda que al efecto instituya el Gobierno del Estado.
+Los fraccionamientos de vivienda popular son aquellos cuyo valor al término de su edificación, no exceda de la suma que resulte de multiplicar por veintiocho veces el valor diario de la Unidad de Medida y Actualización elevado al año, o el que acuerde el Comité Técnico de Vivienda que al efecto instituya el Gobierno del Estado.
 
 ###### Artículo 130.
 
@@ -2067,7 +2073,9 @@ I. Ordenará de inmediato la suspensión de las obras que se estuvieren ejecutan
 
 II. Advertirá al público, por los medios más eficaces, de la ilicitud de las operaciones;
 
-III. Impondrá al infractor una multa de treinta salarios mínimos diarios por cada venta realizada;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III. Impondrá al infractor una multa de treinta veces el valor diario de la Unidad de Medida y Actualización por cada venta realizada;
 
 IV. Obligará al infractor a destruir las obras que se considere no deben subsistir, sin perjuicio de que el propio Municipio haga esa destrucción en caso de rebeldía, a costa del infractor; y,
 
@@ -2565,9 +2573,11 @@ III. Proporcionar informes, datos o documentos relativos a los planes, decretos 
 
 IV. Cooperar con los infractores o facilitarles en cualquier forma la violación a las disposiciones de la presente Ley, sus Reglamentos y demás Ordenamientos aplicables en la materia.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 252.
 
-Los responsables de las infracciones previstas en el artículo anterior, se harán acreedores a una multa de hasta 500 salarios mínimos diarios, que en caso de reincidencia en un año de calendario, podrá duplicarse. En el caso de que los responsables sean servidores públicos, se les separará de su cargo.
+Los responsables de las infracciones previstas en el artículo anterior, se harán acreedores a una multa de hasta 500 veces el valor diario de la Unidad de Medida y Actualización, que en caso de reincidencia en un año de calendario, podrá duplicarse. En el caso de que los responsables sean servidores públicos, se les separará de su cargo.
 
 ###### Artículo 253.
 
@@ -2579,7 +2589,9 @@ II. Nulidad del acto, convenio o contrato;
 
 III. Clausura temporal o definitiva, total o parcial, de las instalaciones, las construcciones y de las obras y servicios;
 
-IV. Multa de una a quinientas veces el salario mínimo general;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV. Multa de una a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 V. Pérdida de los beneficios fiscales;
 
@@ -2710,3 +2722,19 @@ P.O. 27 DE FEBRERO DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Los Ayuntamientos, dentro de un plazo de noventa días contados a partir del inicio de vigencia del presente Decreto, deberán realizar las adecuaciones reglamentarias conducentes.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
