@@ -4,7 +4,7 @@ identifier: "YUC-codigo-civil-del-estado-de-yucatan-14490"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-12-31"
-last_updated: "2015-06-12"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14490&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 1993.
 
@@ -4113,9 +4113,11 @@ Si se presentase alguno reclamando la cosa raíz denunciada como abandonada, la 
 
 El denunciante recibirá la cuarta parte del valor de los bienes que denuncie; observándose lo dispuesto en la parte final del artículo 615 de este código.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 624.
 
-El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de cien salarios mínimos, sin perjuicio de las penas que señale el respectivo código.
+El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo, pagará una multa de noventa a cien unidades de medida y actualización, sin perjuicio de las penas que señale el respectivo código.
 
 ## TITULO SEGUNDO. DE LA POSESION
 
@@ -6413,9 +6415,11 @@ Cuando sin el empleo de los mecanismos, instrumentos, etcétera, a que se refier
 
 La persona a que se refiere el artículo 1100 de este código, en los casos a que alude el mismo, podrá repetir contra el fabricante de los mencionados mecanismos, instrumentos, etc., dentro del plazo de garantía que se hubiere estipulado, cuando se demuestre plenamente que los daños se ocasionaron exclusivamente por defectos de fabricación de dichos mecanismos, instrumentos, etc., y esa responsabilidad se fijará de acuerdo con las reglas de este capítulo.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1103.
 
-La reparación del daño material debe consistir a elección del ofendido en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios. Cuando el daño se cause a las personas y produzca la muerte, incapacidad total o permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo diario más alto que esté en vigor en la región y se extenderá al número de días que para cada una de las incapacidades mencionadas en la citada Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+La reparación del daño material debe consistir a elección del ofendido en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios. Cuando el daño se cause a las personas y produzca la muerte, incapacidad total o permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo de la unidad de medida y actualización y se extenderá al número de días que para cada una de las incapacidades mencionadas en la citada Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
 
 Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
@@ -8317,9 +8321,11 @@ Las donaciones sólo pueden tener lugar entre vivos y no pueden revocarse sino e
 
 La donación es perfecta desde que el donatario la acepta, y se hace saber la aceptación al donador.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1484.
 
-No puede hacerse donación verbal más que de bienes muebles y cuando su valor no exceda de cien veces el salario mínimo vigente. Si el valor de los muebles donados excediere de esta cantidad, la donación deberá hacerse constar en escritura pública ante escribano o notario público, según corresponda conforme a la ley.
+No puede hacerse donación verbal más que de bienes muebles y cuando su valor no exceda de cien unidades de medida y actualización. Si el valor de los muebles donados excediere de esta cantidad, la donación deberá hacerse constar en escritura pública ante escribano o notario público, según corresponda conforme a la ley.
 
 ###### Artículo 1485.
 
@@ -8395,7 +8401,9 @@ Si en el primer caso del artículo anterior, el padre no revocare la donación, 
 
 La donación no podrá ser revocada por superveniencia de hijos:
 
-I.- Cuando no exceda de cien veces el salario mínimo vigente.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I.- Cuando no exceda de cien unidades de medida y actualización.
 
 II.- Cuando sea ante nupcial.
 
@@ -8897,13 +8905,17 @@ No se considera violación del contrato de arrendamiento, el hecho de que en una
 
 El arrendatario que va a establecer en la finca arrendada una industria peligrosa, tiene obligación de asegurar dicha finca contra riesgo probable que origine el ejercicio de esa industria.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1613.
 
-Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. En este caso, el arrendador tendrá derecho de aumentar la renta anterior en un porcentaje igual al que se haya incrementado ese año el salario mínimo general de la zona económica en que esté ubicado el predio objeto del contrato.
+Vencido un contrato de arrendamiento, tendrá derecho el inquilino, siempre que esté al corriente en el pago de las rentas, a que se le prorrogue hasta por un año ese contrato. En este caso, el arrendador tendrá derecho de aumentar la renta anterior en un porcentaje igual al que se haya incrementado ese año la unidad de medida y actualización.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1614.
 
-Quedan exceptuados de la obligación de prórroga consignada en el artículo anterior, los propietarios que posean solamente un predio urbano en la localidad donde residen, siempre que lo quieran para habitar personalmente. Si el propietario, no obstante haber alegado que lo necesita para habitar, no lo hiciere personalmente, incurrirá en multa de cien a quinientos salarios mínimos vigentes, que impondrá la autoridad competente.
+Quedan exceptuados de la obligación de prórroga consignada en el artículo anterior, los propietarios que posean solamente un predio urbano en la localidad donde residen, siempre que lo quieran para habitar personalmente. Si el propietario, no obstante haber alegado que lo necesita para habitar, no lo hiciere personalmente, incurrirá en multa de cien a quinientas unidades de medida y actualización, que impondrá la autoridad competente.
 
 ###### Artículo 1615.
 
@@ -9689,9 +9701,11 @@ II.- Poniendo el empresario sólo su trabajo o industria por un honorario fijo.
 
 En caso de duda se presume que el que se encarga de la obra, la hace por honorario o salario, si la obra es de cosa inmueble, y que lo hace por contrato, si es de cosa mueble.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1776.
 
-Siempre que el empresario se encargue por ajuste cerrado de obra en cosa inmueble cuyo valor sea de más de cuatrocientas veces el salario mínimo vigente en la zona, se otorgará el contrato por escrito firmado ante notario o escribano público, según corresponda incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano o diseño de la obra.
+Siempre que el empresario se encargue por ajuste cerrado de obra en cosa inmueble cuyo valor sea de más de cuatrocientas unidades de medida y actualización se otorgará el contrato por escrito firmado ante notario o escribano público, según corresponda incluyéndose en él una descripción pormenorizada, y en los casos que lo requieran, un plano o diseño de la obra.
 
 ###### Artículo 1777.
 
@@ -10527,7 +10541,9 @@ I.- Capacidad para obligarse.
 
 II.- Bienes raíces libres de gravamen, que estén situados en el lugar en que debe hacerse el pago y cuyo valor catastral importe cuando menos el triple de la cantidad en que se estime la obligación garantizada.
 
-Cuando la deuda no llegue a cuatrocientas veces el salario mínimo vigente en la región, no será necesaria la condición de la fracción II.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Cuando la deuda no llegue a cuatrocientas unidades de medida y actualización, no será necesaria la condición de la fracción II.
 
 ###### Artículo 1952.
 
@@ -10793,9 +10809,11 @@ Cuando se trate de otorgar fianza legal o judicial por cualquier cantidad, se pr
 
 La autoridad ante quien se otorgue la fianza, dentro del término de veinticuatro horas, dará aviso del otorgamiento al registro público, para que al margen de la inscripción de propiedad correspondiente al bien raíz que se designó para comprobar la solvencia del fiador, se ponga nota relativa al otorgamiento de la fianza. Extinguida ésta, dentro del mismo término de veinticuatro horas, se dará aviso al registro público, para que haga la cancelación de la nota marginal.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 2001.
 
-En caso de enajenación o gravamen de algún predio que hubiere servido para acreditar solvencia de fiador, el registrador dentro del término de veinticuatro horas, lo participará a la autoridad ante quien aparezca otorgada la fianza, a fin de que se proceda a exigir nuevo fiador al interesado. Al responsable de la omisión de dar los avisos a que éste artículo y el anterior se refieren se le aplicará la ley de responsabilidades de los servidores públicos del Estado y hará incurrir a quien lo cometa en multa de diez a cincuenta salarios mínimos vigentes en la zona, que impondrá el tribunal superior de justicia si se tratare de autoridad judicial o el ejecutivo del Estado si se tratare de autoridad administrativa.
+En caso de enajenación o gravamen de algún predio que hubiere servido para acreditar solvencia de fiador, el registrador dentro del término de veinticuatro horas, lo participará a la autoridad ante quien aparezca otorgada la fianza, a fin de que se proceda a exigir nuevo fiador al interesado. Al responsable de la omisión de dar los avisos a que éste artículo y el anterior se refieren se le aplicará la ley de responsabilidades de los servidores públicos del estado y hará incurrir a quien lo cometa en multa de diez a cincuenta unidades de medida y actualización, que impondrá el tribunal superior de justicia si se tratare de autoridad judicial o el ejecutivo del estado si se tratare de autoridad administrativa.
 
 ###### Artículo 2002.
 
@@ -15218,3 +15236,15 @@ Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de es
 Décimo primero. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
