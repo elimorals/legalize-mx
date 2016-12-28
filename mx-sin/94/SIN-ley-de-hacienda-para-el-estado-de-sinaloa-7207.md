@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2016-12-13"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE SINALOA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -523,27 +525,31 @@ ART. 17.- Se encuentran obligadas al pago de este impuesto las personas físicas
 
 Para los efectos de este impuesto, se considerarán erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás prestaciones que se deriven de una relación laboral y cuando el servicio se preste en otro Estado no se causará este impuesto por los pagos que realicen por estas erogaciones.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ART. 18. El impuesto sobre nóminas se determinará sobre el monto total de las erogaciones gravadas, realizadas por concepto de remuneración al trabajo personal subordinado (base gravable), mediante la aplicación de la tarifa y procedimientos siguientes:
+ART. 18. El impuesto sobre nóminas se determinará sobre el monto total de las erogaciones gravadas mensualmente, realizadas por concepto de remuneración al trabajo personal subordinado (base gravable), mediante la aplicación de la tarifa y procedimientos siguientes:
+
+Base gravable mensual
 
 Tarifa
 
-Límite inferior Límite superior Por ciento a aplicar sobre
+Límite inferior Límite superior Cuota Por ciento a aplicar fija sobre el excedente
 
-base gravable
+del límite inferior
 
-$ $ %
+$ Pesos moneda $ Pesos moneda $ Pesos %
 
-0.01 500,000.00 2.40%
+nacional nacional moneda
 
-500,000.01 700,000.00 2.60%
+nacional
 
-700,000.01 900,000.00 2.80%
+0.01 500,000.00 0.00 2.40%
 
-900,000.01 En adelante 3.00%
+500,000.01 700,000.00 12,000.00 2.60%
 
-Para los efectos de este artículo, la base gravable se ubicará dentro de los límites establecidos en columnas denominadas límite inferior y límite superior de la tarifa. A la base gravable se le aplicará el porcentaje que para el mismo renglón se establece en la última columna.
+700,000.01 900,000.00 17,200.00 2.80%
+
+900,000.01 En adelante 22,800.00 3.00%
 
 Sobre el impuesto previsto en este Capítulo no se causará impuesto adicional alguno.
 
@@ -551,9 +557,9 @@ Sobre el impuesto previsto en este Capítulo no se causará impuesto adicional a
 
 ART. 19.- Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración, que deberá presentarse ante la Oficina Recaudadora correspondiente al domicilio del contribuyente o ante la Oficina autorizada al efecto. El pago deberá efectuarse mediante declaración bimestral, dentro de los primeros quince días de los meses de marzo, mayo, julio, septiembre, noviembre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero, cuarto, quinto y sexto bimestre del año; según corresponda.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-Aquellos contribuyentes cuyas erogaciones mensuales por concepto de remuneración al trabajo personal subordinado, no excedan el importe del equivalente de diez veces el valor diario de la unidad de medida y actualización elevado a 30 días, podrán efectuar el pago mediante declaración trimestral, dentro de los primeros quince días de los meses de abril, julio, octubre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero y cuarto trimestre del año, según corresponda.
+Aquellos contribuyentes cuyas erogaciones mensuales por concepto de remuneración al trabajo personal subordinado, no excedan el importe del equivalente a diez veces el valor diario de la Unidad de Medida y Actualización elevado a 30 veces, podrán efectuar el pago mediante declaración trimestral, dentro de los primeros quince días de los meses de abril, julio, octubre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero y cuarto trimestre del año, según corresponda.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -931,11 +937,13 @@ ART. 35.- Los derechos por concepto de legalización de firmas, certificaciones 
 
 T A R I F A:
 
-VECES EL SALARIO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MINIMO GENERAL
+VECES EL VALOR DIARIO DE
 
-VIGENTE EN SINALOA
+LA UNIDAD DE MEDIDA Y
+
+ACTUALIZACIÓN
 
 CONCEPTO
 
@@ -1027,11 +1035,15 @@ ART. 37.- El cobro por concepto de copias de planos, certificados catastrales y 
 
 T A R I F A
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MINIMO GENERAL
+VECES EL VALOR DIARIO DE
 
-VIGENTE EN SINALOA
+LA UNIDAD DE MEDIDA Y
+
+ACTUALIZACIÓN
+
+CONCEPTO
 
 I.- Por la certificación:
 
@@ -1487,15 +1499,13 @@ ART. 39.- Los derechos por actos del Registro Civil serán los que establece la 
 
 T A R I F A
 
-CUOTA DE SALARIO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MINIMO GENERAL
+CUOTA DE EL VALOR DIARIO DE
 
-DIARIO VIGENTE
+LA UNIDAD DE MEDIDA Y
 
-EN EL ESTADO DE
-
-SINALOA
+ACTUALIZACIÓN
 
 CONCEPTO
 
@@ -1647,15 +1657,15 @@ ART. 44.- Los derechos a que se refiere el Artículo anterior, estarán sujetos 
 
 T A R I F A
 
-CUOTA DE SALARIO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MINIMO GENERAL
+CUOTA DE EL VALOR DIARIO DE
 
-DIARIO VIGENTE
+LA UNIDAD DE MEDIDA Y
 
-CONCEPTO EN EL ESTADO
+ACTUALIZACIÓN
 
-DE SINALOA
+CONCEPTO
 
 I.- Por la publicación:
 
@@ -1741,9 +1751,11 @@ Toda publicación o suscripción deberá ser pagada previamente en la Oficina Re
 
 ### CAPITULO V. LEGALIZACION DE TITULOS PROFESIONALES
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ART. 46.- Los derechos fiscales de legalización de títulos profesionales se causarán, por cada título que expidan las autoridades educativas competentes del Estado y que el Ejecutivo legalice con su firma, con una cuota equivalente a 2.50 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa en la fecha de causación del derecho correspondiente.
+ART. 46.- Los derechos fiscales de legalización de títulos profesionales se causarán, por cada título que expidan las autoridades educativas competentes del Estado y que el Ejecutivo legalice con su firma, con una cuota equivalente a 2.50 veces el valor diario de la Unidad de Medida y Actualización en la fecha de causación del derecho correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 El contribuyente podrá hacer el pago de la cuota a que se refiere el párrafo anterior, en la Oficina Recaudadora de Rentas del Estado correspondiente, debiendo presentar en la Secretaría General de Gobierno, junto con el título cuya legalización se pretenda, el recibo oficial de pago correspondiente que le será devuelto con el título.
 
@@ -1761,13 +1773,15 @@ ART. 48.- Por los servicios prestados por las Autoridades de Tránsito, se causa
 
 T A R I F A
 
-CONCEPTO CUOTA DE SALARIO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MINIMO GENERAL
+CUOTA DE EL VALOR DIARIO DE
 
-VIGENTE EN EL
+LA UNIDAD DE MEDIDA Y
 
-ESTADO DE SINALOA.
+ACTUALIZACIÓN
+
+CONCEPTO
 
 I.- Por expedición de licencias de manejo, con vigencia de:
 
@@ -1985,7 +1999,9 @@ a).- En zona urbana
 
 2.- Camiones, omnibuses y similares 10.00
 
-Fuera de la zona urbana, además de la cuota señalada se pagará 0.50 salario mínimo general diario vigente en el Estado por cada kilómetro de arrastre.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Fuera de la zona urbana, además de la cuota señalada se pagará 0.50 veces el valor diario de la Unidad de Medida y Actualización por cada kilómetro de arrastre.
 
 XIII.- Por revisión de las condiciones físicas de
 
@@ -2009,13 +2025,15 @@ ART. 50.- Los servicios que se presten en el Registro Público de la Propiedad, 
 
 T A R I F A
 
-CUOTA DE SALARIO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MINIMO GENERAL
+CUOTA DE EL VALOR DIARIO DE
 
-VIGENTE EN EL
+LA UNIDAD DE MEDIDA Y
 
-CONCEPTO ESTADO DE SINALOA
+ACTUALIZACIÓN
+
+CONCEPTO
 
 I.- Cuando se rehuse la inscripción de un
 
@@ -2031,9 +2049,9 @@ En caso de resolución judicial que ordene la inscripción definitiva se compens
 
 II.- Por la inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por medio de las cuales se adquiera, transmita o extinga el dominio o la posesión de bienes inmuebles u otros derechos reales sobre los mismos, se aplicará la tasa de 0.75% sobre la base del valor que resulte mayor entre el declarado en la operación, el avalúo que se utilizó ante las autoridades municipales, estatales y federales para cubrir los impuestos que se hayan causado o el valor catastral, salvo en los siguientes casos:
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-a).- Tratándose de adquisición de casa habitación cuyo valor catastral en la fecha de la operación no exceda de 7,500 días de salario mínimo general diario vigente en el Estado, los derechos correspondientes se causarán aplicándose la tasa del 0.75% señalada en el párrafo anterior sobre la base del 50% del valor a que se refiere dicho párrafo.
+a).- Tratándose de adquisición de casa habitación cuyo valor catastral en la fecha de la operación no exceda de 7,500 veces el valor diario de la Unidad de Medida y Actualización, los derechos correspondientes se causarán aplicándose la tasa del 0.75% señalada en el párrafo anterior sobre la base del 50% del valor a que se refiere dicho párrafo.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2057,15 +2075,13 @@ en cualquier grado, por cada uno de los
 
 inmuebles, se causarán: 10.00
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-El cobro de los derechos a que se refiere esta
+El cobro de los derechos a que se refiere esta fracción, no deberá exceder de 750 veces el valor diario de la Unidad de Medida y Actualización;
 
-fracción, no deberá exceder de 750 días de salario mínimo general diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
-
-III.- Por la inscripción de convenios o contratos de mutuo o crédito y ampliaciones de los mismos que no sean de naturaleza mercantil, con o sin otorgamiento de garantías hipotecarias, prendarias o fiduciarias, se aplicará la tasa del 0.25% sobre el importe del crédito, sin contar para ello los intereses normales, moratorios o refinanciamientos para el pago de los mismos; en ningún caso los derechos serán superiores a 250 días de salario mínimo general diario vigente en el Estado;
+III.- Por la inscripción de convenios o contratos de mutuo o crédito y ampliaciones de los mismos que no sean de naturaleza mercantil, con o sin otorgamiento de garantías hipotecarias, prendarias o fiduciarias, se aplicará la tasa del 0.25% sobre el importe del crédito, sin contar para ello los intereses normales, moratorios o refinanciamientos para el pago de los mismos; en ningún caso los derechos serán superiores a 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2099,9 +2115,9 @@ ya inscritos con anterioridad, que contengan
 
 o no garantías, se causarán: 10.00
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV bis.- Por la inscripción de contratos o convenios de reconocimiento de adeudo, que no deriven de contratos de mutuo o créditos ya inscritos con anterioridad, que contengan garantías de cualquier tipo o naturaleza que sean registrables, se causará un derecho del 0.25% del importe del reconocimiento de adeudo sin que los derechos excedan de 250 días de salario mínimo general diario vigente en el Estado.
+IV bis.- Por la inscripción de contratos o convenios de reconocimiento de adeudo, que no deriven de contratos de mutuo o créditos ya inscritos con anterioridad, que contengan garantías de cualquier tipo o naturaleza que sean registrables, se causará un derecho del 0.25% del importe del reconocimiento de adeudo sin que los derechos excedan de 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 V.- Por la inscripción de contratos de compra
 
@@ -2117,7 +2133,9 @@ Si la inscripción complementaria se hace después del término precisado en el 
 
 VII.- Por la inscripción de contratos o convenios que no sean de mutuo o de crédito por virtud de los cuales se constituya garantía hipotecaria o se impongan gravámenes a inmuebles o cualquiera otra limitación de dominio, inclusive que provengan de resolución judicial, administrativa, otorgamiento de fianza, por disposición testamentaria, o cualquier otro acto jurídico, se causarán derechos aplicando la tasa y el límite a que se refiere la fracción IV bis de este artículo, tomando como base la cantidad pactada por las partes, en su defecto el valor catastral de los inmuebles y en defecto de este valor, el que arroje el avalúo que se formule por peritos;
 
-VIII.- Por la inscripción de las cédulas hipotecarias se pagará conforme a la tasa de 0.375%, sirviendo como base el monto del crédito hipotecario, sin que el importe de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Por la inscripción de las cédulas hipotecarias se pagará conforme a la tasa de 0.375%, sirviendo como base el monto del crédito hipotecario, sin que el importe de los derechos deba exceder de 750 veces el valor diario de la Unidad de Medida y Actualización;
 
 IX.- Por la inscripción de las demandas a que se refiere el Reglamento del Registro Público se causará 3.00
 
@@ -2153,41 +2171,17 @@ de juicios por alimentos, laborales y fiscales
 
 se causará 2.00
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-XIV.- Tratándose de la inscripción de contratos que contengan créditos con o sin garantía, destinados a la adquisición, ampliación o remodelación de casa habitación cuyo valor catastral en la fecha del contrato no exceda de 7,500 días de salario mínimo general diario vigente en el Estado, los derechos correspondientes se causarán aplicando la tasa del 0.25% sobre el 50% del importe del crédito principal sin contar intereses, sin que el monto de los derechos exceda de 250 días de salario mínimo general diario vigente en el Estado;
+XIV.- Tratándose de la inscripción de contratos que contengan créditos con o sin garantía, destinados a la adquisición, ampliación o remodelación de casa habitación cuyo valor catastral en la fecha del contrato no exceda de 7,500 veces el valor diario de la Unidad de Medida y Actualización, los derechos correspondientes se causarán aplicando la tasa del 0.25% sobre el 50% del importe del crédito principal sin contar intereses, sin que el monto de los derechos exceda de 250 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-XIV bis.- Tratándose de la inscripción de
+XIV bis.- Tratándose de la inscripción de contratos que contengan créditos con o sin garantías destinados a la adquisición, ampliación o remodelación de casa habitación, adquisición de terrenos destinados para ello, otorgados por los Gobiernos Federal, Estatal, Municipal, por Organismos o Institutos Públicos de los tres niveles de Gobierno, promotores de vivienda de interés social, cuyo crédito no exceda de 7,500 veces el valor diario de la Unidad de Medida y Actualización, se causarán: (sic)
 
-contratos que contengan créditos con o
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-sin garantías destinados a la adquisición,
-
-ampliación o remodelación de casa
-
-habitación, adquisición de terrenos
-
-destinados para ello, otorgados por los
-
-Gobiernos Federal, Estatal, Municipal, por
-
-Organismos o Institutos Públicos de los
-
-tres niveles de Gobierno, promotores de
-
-vivienda de interés social, cuyo crédito no
-
-exceda de 7,500 salarios mínimos
-
-generales diarios vigentes en el Estado,
-
-se causarán: 10.00
-
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
-
-XV.- Tratándose de la inscripción de contratos o convenios sobre bienes muebles, en donde se pacte condición resolutoria, reserva de dominio o propiedad, limitaciones al dominio, prenda, incluyendo la de frutos pendientes de bienes raíces causarán un derecho del 0.40% sobre el valor o contraprestación pactada sin que el cobro de derechos exceda de 250 días de salario mínimo general diario vigente en el Estado;
+XV.- Tratándose de la inscripción de contratos o convenios sobre bienes muebles, en donde se pacte condición resolutoria, reserva de dominio o propiedad, limitaciones al dominio, prenda, incluyendo la de frutos pendientes de bienes raíces causarán un derecho del 0.40% sobre el valor o contraprestación pactada sin que el cobro de derechos exceda de 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 XVI.- Por el registro de testamento, de
 
@@ -2233,7 +2227,9 @@ no se fija capital, los derechos serán
 
 equivalentes a: 10.00
 
-b).- Por la inscripción del acta constitutiva o estatutos que contengan capital social, así como de los aumentos de capital, se aplicará la tasa del 0.75% sobre el importe del capital social o de los aumentos, según sea el caso sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b).- Por la inscripción del acta constitutiva o estatutos que contengan capital social, así como de los aumentos de capital, se aplicará la tasa del 0.75% sobre el importe del capital social o de los aumentos, según sea el caso sin que el cobro de los derechos deba exceder de 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 c).- La inscripción de actas de sociedades
 
@@ -2355,17 +2351,31 @@ de la sociedad conyugal, se causará 10.00
 
 XXX.- Por la inscripción de contratos o convenios de fideicomiso, se causarán:
 
-a).- En los que el fideicomitente no tenga derecho a readquirir los bienes se pagará con arreglo a la fracción II;
+a).- En los contratos de fideicomiso de cualquier tipo o naturaleza en los que se fideicomitan bienes muebles e inmuebles que el fideicomitente tenga derecho a readquirirlos o a la reversión de los mismos: 10.00
 
-b).- Por los de garantía y administración en los que el fideicomitente tenga derecho a la reversión, el 0.25% sobre el monto de la obligación garantizada, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado;
+b).- Por los actos jurídicos por virtud de los cuales el fideicomitente pierda el derecho a la reversión o readquisición de los bienes muebles o que se transmitan a fideicomisario distinto a él: 10.00
 
-c).- Por la sustitución de fiduciario o
+c).- En la fecha que se registren actos jurídicos por virtud de los cuales el fideicomitente pierda el derecho a readquirir o a la reversión de los bienes inmuebles, o bien se transmita a fideicomisario distinto a él o a cualquiera otra persona que no sea su cónyuge, ascendientes o descendientes en línea recta sin limitación de grado, se causarán derechos conforme a las bases y límites a que se refiere la fracción II de este artículo.
 
-fideicomisario 3.00
+d).- Por actos jurídicos por virtud de los cuales se extinga el fideicomiso y se readquiera o reviertan los bienes al fideicomitente que los haya fideicomitido, o a su cónyuge, ascendientes o descendientes en línea recta sin limitación de grado, por cada inmueble: 10.00
 
-d).- Por la reversión de cada uno de los
+e).- Por actos jurídicos por virtud de los cuales se sustituye al fideicomitente o fideicomisario si es el propio fideicomitente quien tiene ambos caracteres y por ello pierde el derecho a readquirir o a la reversión de los bienes inmuebles, si no se trata de su cónyuge, ascendientes o descendientes en línea recta y sin limitación de grado, se causarán derechos conforme a las bases y límites a que se refiere la fracción II de este artículo.
 
-bienes 2.00
+f).- Por actos jurídicos por virtud de los cuales se sustituye al fideicomitente o al fideicomisario, si es el propio fideicomitente, en quien recae ambas figuras y es sustituido por su cónyuge, ascendientes o descendientes en línea recta sin limitación de grado: 10.00
+
+g).- Por cualquier otro acto jurídico distinto a los regulados en los incisos que anteceden: 10.00
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+XXXI.- Por la inscripción de otorgamiento de poderes y sustitución de los mismos otorgados por no comerciantes, se causarán: 3.00
+
+> <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+
+XXXII.- Por la inscripción de revocación de poderes a que se refiere la fracción anterior, se causarán: 2.00
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+XXXIII. El registro de contratos de arrendamiento de bienes inmuebles entre no comerciantes, causarán derechos equivalentes al 0.25% de la renta de un año, sin que los derechos puedan ser inferiores al importe de tres veces el valor diario de la Unidad de Medida y Actualización, ni exceder de 250.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2413,9 +2423,9 @@ d).- En los casos de las inscripciones preventivas a que se refiere el Artículo
 
 e).- Cuando se trate de reinscripciones relativas a bienes inmuebles y derechos reales, si la misma se efectúa en una nueva oficina del registro público;
 
-> <small>(REFORMADA, P. O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-f).- La búsqueda y expedición de certificados de no propiedad para la adquisición de casa habitación, cuyo valor catastral en la fecha de la operación no exceda de 7,500 días de salario mínimo general diario vigente en el Estado;
+f).- La búsqueda y expedición de certificados de no propiedad para la adquisición de casa habitación, cuyo valor catastral en la fecha de la operación no exceda de 7,500 veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(ADICIONADA, P. O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2431,13 +2441,15 @@ ART. 53.- Los servicios que se presten en el Registro Público de Comercio, caus
 
 T A R I F A
 
-CUOTA DE SALARIO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MINIMO GENERAL
+CUOTA DE EL VALOR DIARIO DE
 
-VIGENTE EN EL
+LA UNIDAD DE MEDIDA Y
 
-CONCEPTO ESTADO
+ACTUALIZACIÓN
+
+CONCEPTO
 
 I.- Por la inscripción de contratos de
 
@@ -2453,9 +2465,9 @@ II.- Por la inscripción de actas constitutivas de sociedades cooperativas, soli
 
 a).- Si no se fija capital mínimo: 5.00
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-b).- Si hubiere capital fijo o mínimo se aplicará la tasa del 0.25% sobre el mismo, sin que el monto de los derechos exceda de 350 días de salario mínimo general diario vigente en el Estado.
+b).- Si hubiere capital fijo o mínimo se aplicará la tasa del 0.25% sobre el mismo, sin que el monto de los derechos exceda de 350 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2473,27 +2485,13 @@ disminución del capital fijo: 3.00
 
 III.- Por la inscripción de contratos de:
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-a).- Factoraje, contengan o no garantía, se aplicará la tasa del 0.25% sobre el monto de la operación, sin que el monto de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado.
+a).- Factoraje, contengan o no garantía, se aplicará la tasa del 0.25% sobre el monto de la operación, sin que el monto de los derechos deba exceder de 750 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-b).- Asociación en participación se
-
-aplicará la tasa del 0.25% sobre el
-
-monto de las aportaciones, sin que
-
-el importe de los derechos exceda
-
-de 500 días de salario mínimo general
-
-diario vigente en el Estado. Cuando
-
-no se determine el monto de las
-
-aportaciones causará: 20.00
+b).- Asociación en participación se aplicará la tasa del 0.25% sobre el monto de las aportaciones, sin que el importe de los derechos exceda de 500 veces el valor diario de la Unidad de Medida y Actualización. Cuando no se determine el monto de las aportaciones causará: (sic)
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2509,9 +2507,9 @@ IV.- Por la inscripción de la matrícula de cada comerciante individual, los de
 
 V.- Tratándose de sociedades mercantiles, los derechos correspondientes se causarán en los términos siguientes:
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-a).- Por la inscripción de la escritura constitutiva, donde se señale capital fijo, sobre su importe o monto se causará un derecho equivalente al 0.75% del importe de dicho capital, sin que el cobro pueda exceder de 750 días de salario mínimo general vigente en el Estado.
+a).- Por la inscripción de la escritura constitutiva, donde se señale capital fijo, sobre su importe o monto se causará un derecho equivalente al 0.75% del importe de dicho capital, sin que el cobro pueda exceder de 750 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2545,9 +2543,9 @@ bienes inmuebles se causarán: 5.00
 
 f).- Por la inscripción de documentos o actas de disolución o liquidación de sociedades mercantiles donde se adjudiquen bienes inmuebles a socios distintos de quienes los hayan aportado o a no socios, se causarán derechos en los términos y con los límites a que se refiere el inciso a) de esta fracción.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-g).- Por la inscripción de documentos o actas donde conste la fusión o escisión de sociedades, se causará un derecho equivalente a 10 días de salario mínimo general diario vigente en el Estado por cada sociedad que se fusione o por cada sociedad que nazca con motivo de la escisión.
+g).- Por la inscripción de documentos o actas donde conste la fusión o escisión de sociedades, se causará un derecho equivalente a 10 veces el valor diario de la Unidad de Medida y Actualización por cada sociedad que se fusione o por cada sociedad que nazca con motivo de la escisión.
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2583,9 +2581,9 @@ partes sociales de sociedades
 
 mercantiles, se causarán: 10.00
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-VII.- Por la inscripción de contratos de créditos refaccionarios, de habilitación o avío, en cuenta corriente o cualquier otro contrato de crédito de naturaleza mercantil, con o sin garantías prendarias, hipotecarias o fiduciarias causarán derechos aplicando la tasa del 0.25% del importe del crédito sin tomar en cuenta los intereses o créditos adicionales para el refinanciamiento de los mismos, sin que el monto de los derechos exceda de 250 días de salario mínimo vigente en el Estado.
+VIl.- Por la inscripción de contratos de créditos refaccionarios, de habilitación o avío, en cuenta corriente o cualquier otro contrato de crédito de naturaleza mercantil, con o sin garantías prendarias, hipotecarias o fiduciarias causarán derechos aplicando la tasa del 0.25% del importe del crédito sin tomar en cuenta los intereses o créditos adicionales para el refinanciamiento de los mismos, sin que el monto de los derechos exceda de 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2661,9 +2659,9 @@ XVI.- Por la inscripción de contratos de fideicomiso, se causará:
 
 a).- En los que el fideicomitente no tenga derecho a readquirir los bienes se pagará con arreglo a la fracción II de este artículo;
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-b).- Por los de garantía, de administración, en los que el fideicomitente tenga derecho a la reversión, el 0.25% sobre el monto de la obligación garantizada, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado;
+b).- Por los de garantía, de administración, en los que el fideicomitente tenga derecho a la reversión, el 0.25%, sobre el monto de la obligación garantizada, sin que el cobro de los derechos deba exceder de 250 veces el valor diario de la Unidad de Medida y Actualización.
 
 c).- Por la sustitución de fiduciario o
 
@@ -2677,15 +2675,21 @@ los bienes 2.00
 
 ART. 54.- Para el cobro de los derechos que establece la tarifa del artículo anterior, en los contratos que contengan prestaciones periódicas se valuarán en las sumas de éstas si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base la cantidad que resulte haciendo el cómputo por un año.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+ART. 55.- Por la inscripción de una escritura que contenga una modificación o rectificación de un acto previamente inscrito, que haga necesaria la cancelación de la inscripción anterior y requiera una nueva inscripción, cuando el error sea imputable a los interesados o a los fedatarios públicos, se causarán derechos equivalentes al 25% de lo que se hubiese causado en la inscripción que se rectifica, sin que estos derechos puedan ser inferiores a 5 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Cuando se trate de sustitución de hojas de testimonios de notarios o pólizas de corredores que ya hayan sido registradas y respecto de cuya inscripción no hayan transcurrido más de 60 días naturales, y que contengan errores que no cambien o alteren la naturaleza jurídica de los actos respectivos, a solicitud expresa de los fedatarios, bajo su responsabilidad y explicación escrita de las causas de sustitución, podrán hacerse las sustituciones causando una cuota de diez veces el valor diario de la Unidad de Medida y Actualización.
+
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
-
-ART. 55.- Por la inscripción de una escritura que contenga una modificación o rectificación de un acto previamente inscrito, que haga necesaria la cancelación de la inscripción anterior y requiera una nueva inscripción, cuando el error sea imputable a los interesados o a los fedatarios públicos, se causarán derechos equivalentes al 25% de lo que se hubiese causado en la inscripción que se rectifica, sin que estos derechos puedan ser inferiores a 5 días de salario mínimo general diario vigente en el Estado.
-
-Cuando se trate de sustitución de hojas de testimonios de notarios o pólizas de corredores que ya hayan sido registradas y respecto de cuya inscripción no hayan transcurrido mas de 60 días naturales, y que contengan errores que no cambien o alteren la naturaleza jurídica de los actos respectivos, a solicitud expresa de los fedatarios, bajo su responsabilidad y explicación escrita de las causas de sustitución, podrán hacerse las sustituciones causando una cuota de diez días de salario mínimo general vigente en el Estado.
 
 Cuando un mismo documento consigne diversos actos jurídicos independientes entre sí y que por ello deban de inscribirse en el Registro Público de la Propiedad y del Comercio, para que cada acto jurídico produzca sus efectos legales en forma separada uno de otro, los derechos se causarán por cada inscripción.
 
-En los casos en que los servicios que presta el Registro Público de la Propiedad y del Comercio, no se encuentren expresamente previstos en las tarifas de los artículos 50 y 53 de esta Ley, se causará una cuota de tres días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+En los casos en que los servicios que presta el Registro Público de la Propiedad y del Comercio, no se encuentren expresamente previstos en las tarifas de los artículos 50 y 53 de esta Ley, se causará una cuota de tres veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2719,9 +2723,9 @@ ART. 61.- Son sujetos de este derecho las personas físicas y morales a quienes 
 
 ART. 62.- La base de este derecho es el tipo de licencia que se otorgue en los términos de lo dispuesto por la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas en el Estado de Sinaloa y su Reglamento, conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 17 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-I.- Por el otorgamiento de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, deberá cubrirse el equivalente al número de veces de salario mínimo general diario vigente en el Estado de acuerdo a la siguiente:
+l. Por el otorgamiento de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, deberá cubrirse el equivalente al número de veces el valor diario de la Unidad de Medida y Actualización de acuerdo a la siguiente:
 
 T A R I F A
 
@@ -2877,13 +2881,17 @@ ART. 66 bis.- El uso o aprovechamiento del derecho de vía, accesos, accesorios 
 
 TARIFA
 
-CONCEPTOS VECES EL SALARIO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL DIARIO
+VECES EL VALOR DIARIO DE
 
-VIGENTE EN SINALOA
+LA UNIDAD DE MEDIDA Y
 
-l. Por el derecho de paso o acceso 1 por c/metro
+ACTUALIZACIÓN
+
+CONCEPTO
+
+I. Por el derecho de paso o acceso 1 por c/metro
 
 de negocios o establecimientos a lineal o fracción.
 
@@ -2947,51 +2955,69 @@ ART. 70.- Para los efectos del cobro de los derechos a que se refiere este Capí
 
 ART. 71.- Por la recepción, evaluación y dictamen de estudios de manifestación de impacto ambiental, se pagarán alguno de los derechos que a continuación se señalan según corresponda:
 
-I.- Informe preventivo. 40.00 días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- Manifestación de impacto ambiental modalidad general. 80.00 días de salario mínimo general vigente en el Estado.
+I.- Informe preventivo. 40.00 veces el valor diario de la Unidad de Medida y Actualización.
 
-III.- Manifestación de impacto ambiental modalidad intermedia. 120.00 días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV.- Manifestación de impacto ambiental modalidad específica. 160.00 días de salario mínimo general vigente en el Estado.
+II.- Manifestación de impacto ambiental modalidad general. 80.00 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- Manifestación de impacto ambiental modalidad intermedia 120.00 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV.- Manifestación de impacto ambiental modalidad específica. 160.00 veces el valor diario de la Unidad de Medida y Actualización.
 
 El proponente de la obra o proyecto, pagará los derechos por publicación de los avisos de presentación, de manifestación de impacto ambiental, en el Periódico Oficial "El Estado de Sinaloa".
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ART. 72.- Por la inscripción en el Registro Estatal de prestadores de servicios que realizan estudio de impacto ambiental, se pagará el derecho de impacto ambiental por cada campo de especialidad o refrendo anual correspondiente 70.00 días de salario mínimo general vigente en el Estado.
+ART. 72.- Por la inscripción en el Registro Estatal de prestadores de servicios que realizan estudio de impacto ambiental, se pagará el derecho de impacto ambiental por cada campo de especialidad o refrendo anual correspondiente 70.00 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ART. 73.- Por la recepción evaluación y dictamen de estudios de riesgos ambiental, se pagarán los derechos que a continuación se señalan:
 
-I.- Informe preliminar de riesgo. 40.00 días de salario mínimo general vigente en el Estado
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- Estudios de riesgo modalidad análisis de riesgo. 80.00 días de salario mínimo general vigente en el Estado.
+I.- Informe preliminar de riesgo 40.00 veces el valor diario de la Unidad de Medida y Actualización.
 
-III.- Por verificación del cumplimiento de las medidas de prevención y mitigación se pagará. 35.00 días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Estudios de riesgo modalidad análisis de riesgo 80.00 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- Por verificación del cumplimiento de las medidas de prevención y mitigación se pagará 35.00 veces el valor diario de la Unidad de Medida y Actualización.
 
 ART. 74.- Por el funcionamiento de las fuentes fijas de jurisdicción estatal que emitan olores desagradables o dañinos, gases o partículas sólidas o líquidas a la atmósfera, se pagará anualmente el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
 
-I.- Por la recepción, evaluación y resolución de funcionamiento 80.00 días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- Por la verificación de cumplimiento de las condiciones derivadas de la resolución 35.00 días de salario mínimo general vigente en el Estado.
+I.- Por la recepción, evaluación y resolución de funcionamiento 80.00 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ART. 75.- Por el otorgamiento del dictamen técnico para la obtención de estímulos fiscales o créditos de organismos financieros, en las actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente, se pagará el derecho de prevención y control de la contaminación por cada dictamen técnico, 35.00 días de salario mínimo general vigente en el Estado.
+II.- Por la verificación de cumplimiento de las condiciones derivadas de la resolución 35.00 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ART. 76.- Por la evaluación para instalar y operar sistemas de recolección, almacenaje, transporte, alojamiento, reuso, tratamiento, reciclaje, incineración y disposición final de residuos no peligrosos, así como para prestar servicios en dichas operaciones, se pagará por cada evaluación el derecho de prevención y control de la contaminación, 160.00 días de salario mínimo general vigente en el Estado.
+ART. 75.- Por el otorgamiento del dictamen técnico para la obtención de estímulos fiscales o créditos de organismos financieros, en las actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente, se pagará el derecho de prevención y control de la contaminación por cada dictamen técnico, 35.00 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ART. 77.- Por la verificación del funcionamiento de las empresas y particulares cuya actividad por su propia naturaleza, modifique o altere las condiciones naturales de las riberas de los ríos, contribuyendo con ello al desequilibrio o alteración ecológica, 70.00 días de salario mínimo general vigente en el Estado.
+ART. 76.- Por la evaluación para instalar y operar sistemas de recolección, almacenaje, transporte, alojamiento, reuso, tratamiento, reciclaje, incineración y disposición final de residuos no peligrosos, así como para prestar servicios en dichas operaciones, se pagará por cada evaluación el derecho de prevención y control de la contaminación, 160.00 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ART. 78.- Para la restauración de las áreas alteradas en sus condiciones naturales de las riberas de los ríos, provocadas por el aprovechamiento de éstas, las empresas o particulares pagarán el derecho de restauración por metro cúbico, conforme a la cuota de 0.20 días de salario mínimo general vigente en el Estado.
+ART. 77.- Por la verificación del funcionamiento de las empresas y particulares cuya actividad por su propia naturaleza, modifique o altere las condiciones naturales de las riberas de los ríos, contribuyendo con ello al desequilibrio o alteración ecológica, 70.00 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+ART. 78.- Para la restauración de las áreas alteradas en sus condiciones naturales de las riberas de los ríos, provocadas por el aprovechamiento de éstas, las empresas o particulares pagarán el derecho de restauración por metro cúbico, conforme a la cuota de 0.20 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
@@ -3013,13 +3039,15 @@ ART. 78 bis-2.- La base gravable de este derecho es la modalidad en el que el so
 
 TARIFA
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MINIMO GENERAL
+VECES EL VALOR DIARIO DE
 
-DIARIO VIGENTE
+LA UNIDAD DE MEDIDA Y
 
-EN SINALOA
+ACTUALIZACIÓN
+
+CONCEPTO
 
 I.- Por el estudio y trámite de la solicitud
 
@@ -3113,11 +3141,15 @@ ART. 78 bis-3.- Por la reproducción de materiales que contengan información p�
 
 T A R I F A
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MINIMO GENERAL
+VECES EL VALOR DIARIO DE
 
-DIARIO VIGENTE
+LA UNIDAD DE MEDIDA Y
+
+ACTUALIZACIÓN
+
+CONCEPTO
 
 1.- Por reproducción de:
 
@@ -3179,21 +3211,23 @@ a).- (DEROGADO, P.O. 9 DE DICIEMBRE DE 2015)
 
 b).- Disco compacto grabado: 0.125
 
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ART. 78 bis-4.- Por el envío de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, al domicilio del solicitante, se causarán derechos por una cantidad equivalente a 1.25 salarios mínimos generales diario vigente.
+ART. 78 bis-4.- Por el envío de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, al domicilio del solicitante, se causarán derechos por una cantidad equivalente a 1.25 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2003)</small>
+(NOTA: EL 28 DE NOVIEMBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2017, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 29 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-ART. 78 bis-5.- Por la búsqueda exhaustiva de información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas que no se encuentre disponible en el momento, se causarán derechos por una cantidad equivalente a 2 salarios mínimos generales diario vigentes.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+ART. 78 bis-5.- Por la búsqueda exhaustiva de información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas que no se encuentre disponible en el momento, se causarán derechos por una cantidad equivalente a 2 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2003)</small>
 
 ART. 78 bis-6.- Cuando en esta Ley se tenga fijado el cobro de algún derecho, por la reproducción de materiales que contengan información pública del Gobierno del Estado de Sinaloa o de sus entidades públicas, no se aplicará la tarifa que señala este Capítulo.
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ART. 78 bis-7. Por la revalidación anual de autorización o de reconocimiento de validez oficial de estudios, emitida por la autoridad educativa estatal, se cubrirá un salario mínimo general del Estado por cada alumno inscrito.
+ART. 78 bis-7.- Por la revalidación anual de autorización o de reconocimiento de validez oficial de estudios, emitida por la autoridad educativa estatal, se cubrirá una vez el valor diario de la Unidad de Medida y Actualización por cada alumno inscrito.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
 
@@ -3275,7 +3309,9 @@ ART. 79.- El producto de la venta, del arrendamiento, de la aparcería y de otro
 
 ART. 80.- Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por concepto de arrendamiento o usufructo oneroso de terrenos para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de las autopistas y carreteras de jurisdicción estatal.
 
-En estos casos se cobrará una cuota mensual de dos salarios mínimos generales vigentes en el Estado por metro cuadrado o fracción independientemente del pago del costo de acceso que afecte a la carretera.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+En estos casos se cobrará una cuota mensual de dos veces el valor diario de la Unidad de Medida y Actualización por metro cuadrado o fracción independientemente del pago del costo de acceso que afecte a la carretera.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -4153,9 +4189,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 25 DE DICIEMBRE DE 2015.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 444".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 444”.]
 
-ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 P.O. 4 DE MAYO DE 2016.
 
@@ -4225,51 +4261,29 @@ P.O. 13 DE DICIEMBRE DE 2016.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 102.- POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 11 Y LA FRACCIÓN I DEL ARTÍCULO 17 DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+P.O. 28 DE DICIEMBRE DE 2016.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 62 POR EL QUE SE REFORMA EL ARTÍCULO 18 DE LA LEY DE HACIENDA DEL ESTADO DE SINALOA".]
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+###### ARTÍCULO ÚNICO.
 
-G.G. 23 DE DICIEMBRE DE 2019.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 118.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY PARA LA COORDINACIÓN Y CONTROL DE ORGANISMOS AUXILIARES DEL ESTADO DE MÉXICO Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO, ASÍ COMO LAS AUTORIZACIONES ESPECÍFICAS RELATIVAS AL ARTÍCULO 2 DE LA LEY DE INGRESOS DEL ESTADO DE MÉXICO PARA EL EJERCICIO FISCAL DEL AÑO 2020, ASÍ COMO LA AUTORIZACIÓN ESPECÍFICA DE REFINANCIAMIENTO DE CRÉDITOS ESTATALES”.]
+P.O. 28 DE DICIEMBRE DE 2016.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
 
-SEGUNDO.- El presente Decreto entrará en vigor el 1 de enero de 2020, con excepción de la reforma al párrafo décimo del artículo 32 del Código Financiero del Estado de México y Municipios, así como el Transitorio Séptimo de este Decreto, que entrarán en vigor el día de su publicación.
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-TERCERO.- Los fideicomisos que integren recursos públicos y hayan sido constituidos con anterioridad a la entrada en vigor del presente Decreto, independientemente de la manera en que se hayan constituido y la fecha de su autorización, tendrán que inscribirse en el Registro de Fideicomisos del Estado de México, dentro de los 60 días hábiles siguientes a su entrada en vigor. De no cumplir con dicha obligación, la Secretaría de Finanzas podrá suspender la ministración de recursos que en su caso le corresponda, hasta en tanto cumpla con la obligación señalada, de acuerdo con las Reglas de Carácter General que al efecto emita la Secretaría.
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
 
-Para la constitución de fideicomisos públicos a partir de la entrada en vigor de este Decreto, se deberá contar como requisito previo, en todos los casos, con el visto bueno de la Secretaría de Finanzas, quien deberá verificar para tal efecto, el cumplimiento de lo previsto en la normatividad aplicable en cada caso.
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
 
-CUARTO.- Las autorizaciones para dictaminar emitidas hasta el 31 de diciembre de 2019, quedarán sin efectos a partir del 01 de enero de 2020. Los requisitos para obtener el registro a que se refiere el artículo 47-D del Código, entrarán en vigor a partir del 01 de enero del 2020 y será requisito para los dictámenes que se presenten a partir del año 2020, de conformidad con las Reglas Generales para dictaminar la determinación y pago del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal.
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
 
-QUINTO.- Con el fin de fortalecer las haciendas públicas municipales, con base en el mejoramiento de la recaudación de los ingresos propios, el Estado tendrá la facultad concurrente para la recaudación de contribuciones municipales y en general para todas las gestiones de cobro inherentes a dichas contribuciones.
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
 
-Los municipios conservarán en todo momento la facultad de administrar y recaudar libremente su hacienda, en términos de lo establecido en la fracción IV del artículo 115 de la Constitución Política de los Estado (sic) Unidos Mexicanos.
-
-La facultad concurrente a que se hace referencia en el primer párrafo, tendrá como fin la optimización del proceso tributario, facilitando el cumplimiento de las obligaciones a los contribuyentes, en beneficio de los municipios, al contar con una mejor recaudación de las contribuciones municipales y mayores recursos vía transferencias intergubernamentales.
-
-Conforme a la fracción IV del artículo 115 de la Constitución Política de los Estado (sic) Unidos Mexicanos, los municipios que decidan suscribir un convenio y lo formalicen a más tardar el 31 de marzo de 2020, percibirán, además de las participaciones estatales a que se refieren los incisos A), B), C) y D) de la fracción II del artículo 219 del citado Código, un 10% adicional de las participaciones que ordinariamente les son entregadas por concepto de la recaudación correspondiente al Impuesto sobre Tenencia o uso de Vehículos.
-
-Aquellos municipios que decidan no suscribir el convenio en cita, dejarán de percibir los recursos correspondientes a las participaciones de los ingresos ministrados por el Gobierno Estatal a que se refiere el párrafo anterior.
-
-De igual forma, los municipios que habiendo firmado algún convenio para la administración y recaudación de contribuciones, aprovechamientos e ingresos propios, decidan darlo por terminado en el transcurso del ejercicio fiscal correspondiente, dejarán de percibir el porcentaje extra de las participaciones de origen estatal a que se refiere el presente artículo a partir del mes inmediato posterior.
-
-> <small>(F. DE E., G.G. 20 DE FEBRERO DE 2020)</small>
-
-SEXTO.- La reforma al artículo 115 de este Código entrará en vigor a partir del día 01 de julio del año 2020.
-
-Durante el periodo del 01 de enero al 30 de junio del 2020, para determinar el Impuesto Sobre Adquisición de Inmuebles y otras Operaciones Traslativas de Dominio de Inmuebles, se utilizará la siguiente tabla:
-
-> <small>[N. DE E. VÉASE TABLA EN LA G.G. DE 23 DE DICIEMBRE DE 2019, PÁGINA 290.]</small>
-
-SÉPTIMO.- Las Instituciones que presenten adeudos por concepto de cuotas y aportaciones ante el Instituto de Seguridad Social del Estado de México y Municipios, podrán regularizarlos mediante convenio de pago en parcialidades hasta por ochenta y cuatro meses exceptuando lo previsto en el artículo 32 del Código Financiero del Estado de México y Municipios, y se les podrá condonar hasta el 100% de los recargos y multas que, en su caso, hubiesen generado, para tal efecto deberán suscribir el convenio respectivo dentro de los dos meses siguientes a la entrada en vigor del presente Decreto.
-
-OCTAVO.- Las Reglas Generales y Lineamientos Generales a que se refiere el presente Decreto, deberán emitirse dentro de los primeros 90 días a partir de la entrada en vigor de este Decreto.
-
-G.G. 23 DE JULIO DE 2020.
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 158.- POR EL QUE SE REFORMA LA FRACCIÓN XXXII DEL ARTÍCULO 8 DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE MÉXICO”.]
 
