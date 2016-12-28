@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-lo-contencioso-administrativo-del-estado-de-yucatan-1192
 country: "mx"
 rank: "ley"
 publication_date: "1987-10-01"
-last_updated: "2014-06-28"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 1 de octubre de 1987.
 
@@ -73,7 +73,9 @@ El Tribunal para hacer cumplir sus determinaciones o para imponer el orden podr�
 
 I.- Amonestación.
 
-II.- Multa equivalente al monto de cinco a sesenta días de salario mínimo vigente en el Estado.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Multa de cinco a sesenta unidades de medida y actualización.
 
 III.- Arresto hasta por treinta y seis horas.
 
@@ -437,11 +439,13 @@ El procedimiento se reanudará cuando se apersone a juicio el representante de l
 
 Independientemente de lo previsto en el Capítulo V de esta Ley, el incidente de suspensión del procedimiento administrativo de ejecución, también procederá ante el Tribunal cuando la autoridad ejecutora no respete la suspensión que fue otorgada, bien sea por la autoridad administrativa o por el propio Tribunal.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 41.
 
-Promovido el incidente a que se refiere el artículo anterior, se ordenará a la autoridad que haya reiniciado la ejecución, suspenda ésta y rinda informe en un plazo de tres días. Asimismo, se le apercibirá de que si no suspende desde luego la ejecución o si no rinde el informe, o bien, si no se refiere específicamente a los hechos, se tendrán éstos por ciertos y se declarará fundado el incidente respectivo.
+Promovido el incidente a que se refiere el artículo anterior se ordenará a la autoridad que haya reiniciado la ejecución, suspenda esta y rinda un informe en un plazo de tres días. Asimismo, se le apercibirá de que si no suspende la ejecución o si no rinde el informe, o bien, si no se refiere específicamente a los hechos, se tendrán estos por ciertos y se declarará fundado el incidente respectivo.
 
-En un plazo de cinco días el Tribunal dictará la resolución que corresponda. Si la autoridad no da cumplimiento a lo ordenado, se impondrá al funcionario responsable del incumplimiento una multa equivalente a sesenta días del salario mínimo vigente en el Estado. De persistir en su negativa el Tribunal podrá usar los medios de apremio que establece la fracción III del artículo 5 de esta Ley.
+En un plazo de cinco días el Tribunal dictará la resolución que corresponda. Si la autoridad no da cumplimiento a lo ordenado, se impondrá al funcionario responsable del incumplimiento una multa de cincuenta a sesenta unidades de medida y actualización. De persistir en su negativa el Tribunal podrá usar los medios de apremio que establece la fracción III del artículo 5 de esta ley.
 
 ### CAPITULO IX. DE LAS PRUEBAS
 
@@ -585,11 +589,13 @@ Cuando haya causado ejecutoria una sentencia favorable al actor, el Tribunal le 
 
 En el propio oficio en que se haga la notificación a las autoridades demandadas, se les prevendrá para que informen sobre el cumplimiento que se dé a la sentencia respectiva.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 62.
 
-Si dentro de los quince días siguientes a la notificación a las autoridades demandadas, la sentencia no quedare cumplida, el Tribunal de oficio o a petición de parte, dará vista a las autoridades para que manifiesten lo que a su derecho convenga.
+Si dentro de los quince días siguientes a la notificación a las autoridades demandadas, la sentencia no quedare cumplida el Tribunal, de oficio o a petición de parte, dará vista a las autoridades para que manifiesten lo que a su derecho convenga.
 
-El Tribunal resolverá si la autoridad, funcionario o servidor público, ha cumplido con los términos de la sentencia; de lo contrario lo requerirá para que la cumpla, amonestándola y previniéndole que, en caso de renuencia, se le impondrá una multa equivalente a sesenta días de salario mínimo vigente en el Estado.
+El Tribunal resolverá si la autoridad, funcionario o servidor público, ha cumplido con los términos de la sentencia; de lo contrario lo requerirá para que la cumpla, amonestándola y previniéndole que, en caso de renuencia, se le impondrá una multa de cincuenta a sesenta unidades de medida y actualización.
 
 ###### ARTICULO 63.
 
@@ -627,7 +633,9 @@ El recurso de queja es procedente contra actos de las autoridades por exceso o d
 
 El recurso deberá interponerse por escrito ante el Tribunal dentro de un plazo de tres días contados a partir del día siguiente hábil en que surta efectos la notificación de la resolución recurrida, acompañando una copia del escrito para cada una de las partes.
 
-Al dar entrada al recurso, el Tribunal requerirá a la autoridad o funcionario demandado, para que rinda un informe con justificación sobre la materia de la queja, dentro de un término de tres días, y, dentro de los tres días siguientes, dictará la resolución que proceda. La falta o deficiencia de los informes, establece la presunción de ser ciertos los hechos respectivos, y hará incurrir a las autoridades omisas en una multa equivalente a sesenta días del salario mínimo vigente en el Estado, que impondrá de plano el Tribunal, al resolver la queja.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Al dar entrada al recurso, el Tribunal requerirá a la autoridad o funcionario demandado para que rinda un informe con justificación sobre la materia de la queja, dentro de un término de tres días, y, dentro de los tres días siguientes, dictará la resolución que proceda. La falta o deficiencia de los informes establece la presunción de ser ciertos los hechos respectivos y, hará incurrir a las autoridades omisas en una multa de cincuenta a sesenta unidades de medida y actualización, que impondrá de plano el Tribunal, al resolver la queja.
 
 Si la autoridad o funcionario demandados no cumplieren con la resolución dictada en la queja, se procederá en los términos de los artículos 63 y 64 de esta Ley.
 
@@ -762,3 +770,15 @@ A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del T
 Décimo. Derogación tácita
 
 A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
