@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-partidos-politicos-del-estado-de-yucatan-101699"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2014-06-28"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PARTIDOS POLÍTICOS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -839,7 +839,9 @@ c) El resultado de la operación señalada en el inciso anterior constituye el f
 
 d) Las cantidades que, en su caso, se determinen para cada partido, serán entregadas en ministraciones mensuales conforme al calendario presupuestal que se apruebe anualmente.
 
-e) Cada año se actualizará el monto total del financiamiento público conforme a los incrementos del salario mínimo general vigente en el Estado de Yucatán, en su caso, pero exclusivamente, para efecto de actualizar las cantidades anuales que del mismo le corresponda a los partidos políticos, sin que pueda aplicarse retroactivamente.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+e) Cada año se actualizará el monto total del financiamiento público conforme al incremento de las unidades de medida y actualización, en su caso, pero exclusivamente, para efecto de actualizar las cantidades anuales que del mismo le corresponda a los partidos políticos, sin que pueda aplicarse retroactivamente.
 
 II. Para las actividades tendientes a la obtención del voto:
 
@@ -1023,7 +1025,9 @@ Los gastos que realicen los partidos políticos, las coaliciones y los candidato
 
 I. Estar amparados con un comprobante que cumpla los requisitos fiscales;
 
-II. Efectuar mediante transferencia electrónica, cheque nominativo para abono en cuenta del beneficiario, los pagos cuyo monto exceda de 90 días de salario mínimo general vigente para el Distrito Federal;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Efectuar mediante transferencia electrónica, cheque nominativo para abono en cuenta del beneficiario, los pagos cuyo monto exceda de noventa unidades de medida y actualización;
 
 III. Estar debidamente registrados en la contabilidad;
 
@@ -1566,3 +1570,17 @@ Gobernador del Estado de Yucatán
 Víctor Edmundo Caballero Durán
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
