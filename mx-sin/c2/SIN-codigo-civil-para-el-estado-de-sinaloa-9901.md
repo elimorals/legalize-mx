@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "2015-02-11"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -4884,6 +4884,8 @@ Tienen derecho de habitar la casa y de disfrutar los frutos de la parcela afecta
 ###### Artículo 727.
 
 Los beneficiarios de los bienes afectos al Patrimonio de la Familia serán representados en sus relaciones con tercero, en todo lo que al Patrimonio se refiere, por el que lo constituyó, y, en su defecto, por el que nombre la mayoría. El representante tendrá también la administración de dichos bienes.
+
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO TERCERO DEL DECRETO NÚMERO: 58 PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2016, A LA FECHA DE ENTRADA DEL PRESENTE DECRETO, TODAS LAS MENCIONES AL SALARIO MÍNIMO COMO UNIDAD DE CUENTA, ÍNDICE, BASE, MEDIDA O REFERENCIA DISTINTAS A SU NATURALEZA, PARA DETERMINAR LA CUANTÍA DE LAS OBLIGACIONES Y SUPUESTOS PREVISTOS EN LAS LEYES LOCALES, ASÍ COMO EN CUALQUIER DISPOSICIÓN JURÍDICA QUE EMANE DE ESTAS, SE ENTENDERÁN REFERIDAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 1996)</small>
 
@@ -13043,11 +13045,11 @@ De la Forma del Contrato de Compra-venta.
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 2199.
 
-La venta de un inmueble que tenga un valor hasta de trescientas cincuenta veces el salario mínimo general vigente en el Estado, podrá otorgarse en escritura privada.
+La venta de un inmueble que tenga un valor hasta de trescientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, podrá otorgarse en escritura privada.
 
 ###### Artículo 2200.
 
@@ -13057,21 +13059,25 @@ Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su r
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 2202.
 
-Si el valor del inmueble excede de trescientas cincuenta veces el salario mínimo general vigente en el Estado, su venta se otorgará en escritura pública.
+Si el valor del inmueble excede de trescientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, su venta se otorgará en escritura pública.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
 
 Se excepcionan de lo anterior los contratos y las operaciones relacionadas con los inmuebles que se adquieran directamente con los créditos provenientes del Instituto del Fondo Nacional de la Vivienda para los Trabajadores, del Instituto de la Vivienda del Estado de Sinaloa, de la Comisión Reguladora de la Tenencia de la Tierra o de los organismos que los sustituyan, que podrán hacerse constar en documentos privados, ante dos testigos, e inscribirse en el Registro Público de la Propiedad que corresponda, con la constancia del registrador sobre la autenticidad de las firmas y la voluntad de las partes.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+
 También se excepcionan a los Ayuntamientos, quienes podrán otorgar títulos de propiedad, previa autorización del Congreso del Estado, en programas de regularización y en las transferencias de poderes de sus reservas territoriales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 2203.
 
-Tratándose de bienes ya inscritos en el Registro, y cuyo valor no exceda de trescientas cincuenta veces el salario mínimo general vigente en el Estado, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor estén inscritos los bienes.
+Tratándose de bienes ya inscritos en el Registro, y cuyo valor no exceda de trescientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, cuando la venta sea al contado puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación, de expedir al vendedor a cuyo favor estén inscritos los bienes.
 
 El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compra-venta realizada en esta forma, hará una nueva inscripción de los bienes vendidos en favor del comprador.
 
@@ -17578,3 +17584,19 @@ P.O. 11 DE FEBRERO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO.- Las disposiciones contenidas en el presente Decreto no serán aplicables a los contratos de arrendamiento celebrados con anterioridad a la entrada en vigor del mismo.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
