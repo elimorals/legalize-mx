@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-36790"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2015-12-18"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -91,9 +93,11 @@ La ignorancia de las leyes y de las demás disposiciones fiscales de observancia
 
 ### CAPÍTULO III. DE LOS RECURSOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 9.
 
-Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley Orgánica de los Municipios del Estado de Yucatán.
+Contra las resoluciones que dicten autoridades fiscales municipales, serán admisibles los recursos establecidos en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 Cuando se trate de multas federales no fiscales, las resoluciones que dicten las autoridades fiscales municipales podrán combatirse mediante recurso de revocación o en juicio de nulidad, de conformidad con lo dispuesto en el Código Fiscal de la Federación.
 
@@ -101,9 +105,11 @@ En este caso, los recursos que se promueven se tramitarán y resolverán en la f
 
 ### CAPÍTULO IV. DE LAS GARANTÍAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 10.
 
-Interpuesto en tiempo algún recurso, en los términos de la Ley Orgánica de los Municipios del Estado de Yucatán o del Código Fiscal de la Federación, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgue garantía suficiente a juicio de la autoridad.
+Interpuesto en tiempo algún recurso, en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán o del Código Fiscal de la Federación, a solicitud de la parte interesada, se suspenderá la ejecución de la resolución recurrida cuando el contribuyente otorgue garantía suficiente a juicio de la autoridad.
 
 Las garantías que menciona este artículo serán estimadas por la autoridad como suficientes, siempre que cubran, además de las contribuciones o créditos actualizados, los accesorios causados como los recargos y las multas, así como los que se generen en los doce meses siguientes a su otorgamiento.
 
@@ -209,9 +215,11 @@ Las aportaciones son los recursos que la federación transfiere a las haciendas 
 
 INGRESOS EXTRAORDINARIOS
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 20.
 
-Los ingresos extraordinarios son aquellos distintos de los anteriores que las haciendas públicas municipales estiman percibir como partes integrantes del presupuesto municipal, como por ejemplo los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueren aprobados por la Legislatura del Estado en términos de lo dispuesto en la Ley Orgánica de los Municipios y en la Constitución Política, ambas del Estado de Yucatán. Los donativos también se considerarán ingresos extraordinarios.
+Los ingresos extraordinarios son aquellos distintos de los anteriores que la hacienda pública municipal estima percibir como partes integrantes del presupuesto municipal, como los empréstitos, la emisión de bonos de deuda pública y otros ingresos que se obtengan de las diversas fuentes de financiamiento, siempre que fueren aprobados por la Legislatura del Estado en términos de lo dispuesto en la Ley de Gobierno de los Municipios y en la Constitución Política, ambas del Estado de Yucatán. Los donativos también se considerarán ingresos extraordinarios.
 
 ### CAPÍTULO VII. DE LOS CRÉDITOS FISCALES
 
@@ -237,9 +245,11 @@ DE LOS SUJETOS OBLIGADOS Y DE LOS OBLIGADOS SOLIDARIOS
 
 Las personas domiciliadas dentro del Municipio de Motul, Yucatán, o fuera del que tuvieren bienes o celebren actos dentro del territorio del mismo, están obligados a contribuir para los gastos públicos del municipio y a cumplir con las disposiciones administrativas y fiscales que se señalen en la presente ley, en el Código Fiscal del Estado de Yucatán y en los Reglamentos Municipales que correspondan.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 24.
 
-Para los efectos de esta ley se entenderá por territorio municipal, el área geográfica que, para cada uno de los municipios del Estado señala, la Ley Orgánica de los Municipios del Estado de Yucatán o bien el área geográfica que delimite el Congreso del Estado en cualquiera de los casos previstos en la propia Ley Orgánica.
+Para los efectos de esta ley se entenderá por jurisdicción territorial municipal, el área geográfica que, para cada uno de los municipios del Estado señala, la Ley de Gobierno de los Municipios del Estado de Yucatán o bien el área geográfica que delimite el Congreso del Estado en cualquiera de los casos previstos en la propia Ley de Gobierno.
 
 ###### ARTÍCULO 25.
 
@@ -601,7 +611,9 @@ Estarán exentos de pago de Impuesto Predial, los bienes de dominio público de 
 
 Cuando en un mismo inmueble, se realicen simultáneamente actividades propias del objeto público, de las entidades u organismos mencionados en el párrafo anterior, y otras actividades distintas o accesorias, para que la Tesorería Municipal correspondiente esté en condiciones de determinar el impuesto a pagar, los organismos descentralizados, las empresas de participación estatal o quienes posean bajo cualquier título inmuebles del dominio público de la Federación, Estado o Municipio, deberán declarar, durante los primeros quince días del mes de diciembre de cada año, ante la propia Tesorería Municipal, la superficie ocupada efectivamente para la realización de su objeto principal señalando claramente la superficie que del mismo inmueble sea utilizado para fines administrativos o distintos a los de su objeto público.
 
-La Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación, de la declaración de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencia. En caso afirmativo, se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley Orgánica de los Municipios del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+La Tesorería Municipal, dentro de los diez días siguientes a la fecha de presentación, de la declaración de deslinde, realizará una inspección física en el lugar y resolverá si aprueba o no el deslinde de referencia. En caso afirmativo, se procederá al cobro del impuesto predial, sobre la superficie deslindada como accesoria. En caso contrario, la Tesorería correspondiente notificará al contribuyente los motivos y las modificaciones que considere convenientes, resolviendo así en definitiva la superficie gravable. La resolución que niegue la aceptación del deslinde podrá ser combatida en recurso de inconformidad en términos de lo dispuesto en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 Sólo en los casos de que la estructura de algún inmueble no admita una cómoda delimitación o cuando no se presente la declaratoria a que se refiere el párrafo anterior, será la oficina de catastro municipal o estatal en caso de que el Municipio no cuente con este servicio, la que, tomando como base los datos físicos y materiales que objetivamente presente el inmueble, fije el porcentaje que corresponda a la superficie gravable, calcule su valor catastral y éste último, servirá de base a la Tesorería Municipal, para la determinación del impuesto a pagar.
 
@@ -963,15 +975,19 @@ El pago de los derechos deberá hacerse previamente a la prestación del servici
 
 Los derechos que establece esta ley se pagarán por los servicios que preste el municipio en sus funciones de derecho público o por el uso o aprovechamiento de los bienes del dominio público del mismo.
 
-Cuando de conformidad con la Ley Orgánica de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta del mismo Municipio, se seguirán cobrando los derechos en los términos establecidos por esta ley.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta del mismo Municipio, se seguirán cobrando los derechos en los términos establecidos por esta ley.
 
 ###### ARTÍCULO 77.
 
 No serán exigibles los impuestos y derechos a que se refiere la presente ley, cuando hayan sido derogados o suspendidos para cumplir con los requisitos establecidos en las leyes federales y los convenios suscritos entre la Federación y el Estado o Municipio, a partir de la fecha de su celebración.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 78.
 
-Los derechos que de manera general se establecen en esta ley, podrán ser disminuidos, modificados o aumentados en la Ley de Ingresos del Municipio que apruebe el H. Congreso del Estado de Yucatán.
+Los derechos que de manera general se establecen en esta ley, podrán ser disminuidos, modificados o aumentados en la Ley de Ingresos del Municipio que apruebe el H. Congreso del Estado de Yucatán. De igual manera, podrán establecerse programas permanentes o temporales de apoyo a deudores, previo acuerdo de Cabildo que señale los requisitos y condiciones para otorgar las respectivas disminuciones.
 
 ### CAPÍTULO II. DE LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE DESARROLLO URBANO
 
@@ -1057,17 +1073,97 @@ Clase 4: Con construcción desde 241.00 metros cuadrados en adelante.
 
 DE LA TARIFA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 83.
 
-La tarifa del derecho por el servicio mencionado, se pagará por metro cuadrado, conforme lo siguiente:
+La tarifa del derecho por el servicio mencionado, se pagará en pesos mexicanos, conforme a lo (sic) siguiente Tabla:
 
-> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL D.O. DE 18 DE DICIEMBRE DE 2015, PÁGINAS DE LA 58 A LA 59.]</small>
+I.- Licencia de construcción, por metro cuadrado:
 
-Permiso por construcción de fraccionamientos $30.00 por metro cuadrado.
+Tipo y clase de construcción Tarifa en $
+
+a).- Tipo A, Clase 1 $10.00
+
+b).- Tipo A, Clase 2 $12.00
+
+c).- Tipo A, Clase 3 y 4 $14.00
+
+d).- Tipo B; Clase 1 $3.00
+
+f).- Tipo B; Clase 2 $4.00
+
+g).- Tipo B; Clase 3 $5.00
+
+h).- Tipo B, Clase 4 $6.00
+
+II.- Por expedición de permiso de uso de suelo:
+
+Superficie ocupada Precio por permiso en$
+
+a).- De 1 a 50.0 m2 $330.00
+
+b).- De 50.1 a 100.0 m2 $660.00
+
+c).- De 100.1 a 200.0 m2 $880.00
+
+d).- De 200.1 a 400.0 m2 $1,100.00
+
+e).- De 400.1 a 800.0 m2 $1,760.00
+
+f).- De 800.1 a 1000.0 m2 $2,200.00
+
+g).- De 1000.1 a 2000.0 m2 $4,400.00
+
+h).- De 2000.1 m2 en adelante $6,600.00
+
+i).- Para parques eólicos $300,000.00
+
+III.- Constancia de terminación de obra; $8.00 por metro cuadrado de construcción.
+
+IV.- Constancia de alineamiento; $10.00 x metro lineal de frente o frentes del predio que colinde a la vía pública.
+
+V.- Constancia de unión y división de inmuebles, por metro cuadrado de terreno:
+
+Tipo y clase de construcción Tarifa en$
+
+a).- Tipo A, Clase 1 $10.00
+
+b).- Tipo A, Clase 2 $20.00
+
+c).- Tipo A, Clase 3 $30.00
+
+d).- Tipo A, Clase 4 $40.00
+
+e).- Tipo B; Clase 1 $5.00
+
+f).- Tipo B; Clase 2 $10.00
+
+g).- Tipo B; Clase 3 $15.00
+
+h).- Tipo B, Clase 4 $20.00
+
+VI.- Licencia para construir bardas o colocar pisos; $8.00 por metro cuadrado.
+
+VIII.- Licencias para efectuar excavaciones; $22.00 por metro cúbico.
+
+IX.- Licencia para realizar demolición; $10.00 por metro cuadrado
+
+X.- Licencia para hacer cortes en banquetas, pavimento (zanjas) y guarniciones; $ 45.00 por metro lineal.
+
+XI.- Constancia de régimen de Condominio; $50.00 por predio, departamento o local.
+
+XII.- Constancia para Obras de Urbanización; $2.00 por metro cuadrado de vía pública.
+
+XIII.- Sellado de planos $ 60.00 por el servicio.
+
+XIV.- Revisión de planos para trámites de uso del suelo; $50.00 por plano.
+
+XV.- Certificado de Seguridad para el uso de Explosivos; $50.00 por el servicio.
+
+XVI.- Autorización de instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo; $75.00 por metro lineal en vialidades.
+
+XVII.- Autorización de instalación de antenas en inmuebles o mobiliario urbano; $15,000.00 por antena.
 
 DE LAS EXENCIONES
 
@@ -1109,23 +1205,29 @@ Son responsables solidarios del pago de estos derechos, los ingenieros, contrati
 
 ### CAPÍTULO III. OTROS SERVICIOS PRESTADOS POR EL AYUNTAMIENTO
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 87.
 
 Las personas físicas y morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente, estimado en salarios mínimos:
 
-Servicio Salarios
+SERVICIOS UNIDAD DE MEDIDA DE
 
-Mínimos
+ACTUALIZACION
 
-A) Por participar en licitaciones. 10
+A) Por participar en licitaciones 10
 
-B) Certificaciones expedidas por el Ayuntamiento. 0.30
+B) Certificaciones expedidas por el
 
-C) Constancias simples expedidas por el Ayuntamiento. 0.15
+ayuntamiento, incluyendo las emitidas por la 0.30
 
-D) Venta de formas oficiales impresas. 0.25
+Secretaría Municipal
+
+C) Constancias simples expedidas por el 0.30
+
+ayuntamiento
+
+D) Venta de formas oficiales impresas.- 0.25
 
 Por cada certificado que expida cualesquiera de las dependencias del Ayuntamiento, se pagará un derecho equivalente a 0.20 de un salario mínimo vigente en el Estado de Yucatán, en la fecha de la expedición, salvo en aquellos casos en que ésta propia ley señale de manera expresa otra tasa o tarifa.
 
@@ -1143,19 +1245,87 @@ DEL OBJETO
 
 Es objeto de este derecho, el transporte, matanza, guarda en corrales, peso en básculas e inspección fuera del rastro de animales y de carne fresca o en canal.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 90.
 
 Los derechos por los servicios de Rastro se causarán de conformidad con lo siguiente:
 
-(VÉASE ARCHIVO ANEXO)
+SERVICIO POR USO DEL RASTRO TARIFA
+
+U OTROS SERVICIOS En Unidades de Medida
+
+CONCESIONADOS de Actualización
+
+I.- Por Transporte 0.27 por cabeza de ganado porcino.
+
+0.50 por cabeza de ganado vacuno
+
+II.- Por matanza de ganado 2.00 por cabeza de ganado vacuno.
+
+0.20 por cabeza de ganado equino.
+
+a) Dentro de las instalaciones del
+
+Rastro Público: 1.23 por cabeza de ganado porcino
+
+y caprino.
+
+b) Fuera de las instalaciones del
+
+Rastro Público: Tratándose del inciso b) las tarifas
+
+serán en los dos primeros casos de 2
+
+salarios mínimos y en el tercer caso
+
+de 1.5 S.M.
+
+III.- Guarda en corrales 0.13 por cabeza de ganado diario.
+
+IV.- Peso en básculas 0.13 por cabeza de ganado.
+
+V.- Inspección fuera del rastro 0.30 por cabeza de ganado
+
+Servicios de Cobro al Público TARIFA
+
+Usuario En unidades de medida
+
+de actualización
+
+I.- Por Transporte 0.15 por cabeza de ganado porcino.
+
+0.35 por cabeza de ganado vacuno
+
+II.- Por matanza de ganado 2.00 por cabeza de ganado vacuno.
+
+2.00 por cabeza de ganado equino.
+
+1.50 por cabeza de ganado porcino
+
+y caprino.
+
+III.- Guarda en corrales 0.30 por cabeza de ganado diario.
+
+IV.- Peso en básculas 0.25 por cabeza de ganado.
+
+V.- Inspección fuera del rastro 0.50 por cabeza de ganado
+
+La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Motul, Yucatán, deberán pasar por esa inspección. Dicha inspección se practicará en términos de lo dispuesto en la Ley de Salud del Estado de Yucatán. Esta disposición es de orden público e interés social.
+
+En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren por la inspección mencionada, se harán vigente (sic) en el Estado de Yucatán, acreedoras a una sanción cuyo importe será de uno a diez unidades de medida y actualización por pieza de ganado introducida o su equivalente.
+
+En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
 
 DE LA MATANZA FUERA DE LOS RASTROS PÚBLICOS
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 91.
 
-El Ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva y sin cobro alguno, la matanza de ganado fuera de los Rastros Públicos del Municipio, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
+El Ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva, la matanza de ganado fuera del Rastro Público del Municipio, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
 
-En todo caso, se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez salarios mínimos vigentes en el Estado de Yucatán. En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
+En todo caso, se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez unidades de medida y actualización. En caso de reincidencia, dicha sanción se duplicará y así sucesivamente.
 
 ### CAPÍTULO V. DE LOS DERECHOS POR LOS SERVICIOS QUE PRESTA EL CATASTRO MUNICIPAL
 
@@ -1263,19 +1433,27 @@ Quedan exentas del pago de los derechos que establecen esta sección, las instit
 
 DE LOS DERECHOS POR EL USO Y APROVECHAMIENTO DE LOS BIENES DE DOMINIO PÚBLICO DEL PATRIMONIO MUNICIPAL.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 99.
 
-Están sujetos al pago de los derechos por el uso y aprovechamiento de bienes del dominio público municipal, las personas físicas o morales a quienes se les hubiera otorgado en concesión, o hayan obtenido la posesión por cualquier otro medio, así como aquéllas personas que hagan uso de las unidades deportivas, parques zoológicos, acuáticos, museos, bibliotecas y en general que usen o aprovechen los bienes del domino (sic) público municipal.
+Son sujetos al pago de los derechos por el uso y aprovechamiento de bienes del dominio público y privado municipal, las personas físicas o morales a quienes se les hubiera otorgado en concesión, o lo hayan obtenido en posesión por cualquier otro medio, así como aquéllas personas que hagan uso de las unidades deportivas, parques, instalaciones recreativas, museos, bibliotecas y en general, las que usen o aprovechen los bienes del domino (sic) público y privado municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 100.
 
-Es objeto de este derecho el uso y aprovechamiento de cualquiera de los bienes del dominio público del patrimonio municipal mencionados en el artículo anterior, así como el uso y aprovechamiento de locales o piso en los mercados y centrales de abasto propiedad del municipio.
+Es objeto de este derecho el uso y aprovechamiento de cualquiera de los bienes del dominio público y privado del patrimonio municipal mencionados en el artículo anterior, así como el uso y aprovechamiento de locales o piso en los mercados y centrales de abasto propiedad del municipio.
 
 Para los efectos de este artículo y sin perjuicio de lo dispuesto en los Reglamentos Municipales se entenderá por:
 
 a) Mercado.- El inmueble edificado o no, donde concurran diversidad de personas físicas o morales, oferentes de productos básicos y a los que accedan sin restricción los consumidores en general.
 
 b) Central de Abasto.- El inmueble en que se distribuyan al mayoreo diversidad de productos y cuyas actividades principales son la recepción, exhibición, almacenamiento especializado y venta al mayoreo de productos.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+c) Cuarto Frío. - El inmueble con las condiciones necesarias para la refrigeración y conservación de producto perecederos (sic).
 
 DE LA BASE
 
@@ -1285,23 +1463,43 @@ La base para determinar el monto de estos derechos, será el número de metros c
 
 DE LA TASA Y DEL PAGO
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 102.
 
-Los derechos de servicios de mercados y centrales de abasto se causarán y pagarán de conformidad con la siguiente tarifa tasada en salarios mínimos:
+Los derechos de servicios de mercados y centrales de abasto se causarán y pagarán de conformidad con la siguiente tarifa tasada en unidades de medida y actualización:
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+I.- Por espacios y/o locales cerrados ubicados en mercados, plazas comerciales, calles, terrenos, el contribuyente pagará $400.00, de manera mensual.
 
-I.- Por espacios ubicados en mercados construidos, así como plazas, calles, terrenos, se pagarán mensualmente 5 veces el salario mínimo vigente en el Estado por locales cerrados;
+Tratándose de puesto en meseta de mercado público, el ocupante o concesionario pagará una cuota mensual fija de $120.
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+II.- Por cuota fija para comerciantes ambulantes en puestos fijos o semifijos, se pagará por día $ 50 y por mes $400.
 
-II.- Por cuota fija para comerciantes ambulantes, se pagará la cuota diaria desde 0.44 veces el salario mínimo vigente en el Estado;
+III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán mensualmente 3.67 veces las unidades de medida y actualización.
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+IV.- Expendio de pirotecnia y bombitas para uso recreativo, exclusivamente en fiestas tradicionales; la tarifa será de $100 por día.
 
-III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán mensualmente 3.67 veces el salario mínimo vigente en el Estado.
+El permiso será emitido, una vez realizada la verificación por parte de la Unidad de Protección Civil.
+
+V.- El permiso de uso del Cuarto Frío será de $ 120 por mes o $ 10 por día.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 102 Bis.
+
+Los servicios que se proporcionan en el Cenote Sambula, inmueble perteneciente al patrimonio municipal, se causarán conforme a las siguientes tarifas y se pagarán en la ventanilla habilitada por la tesorería municipal, instalada para tal efecto en el acceso del mismo inmueble, conforme a las siguientes tarifas:
+
+I.- Acceso de visitantes vecinos del Municipio $7.00
+
+II.- Acceso de visitante no vecino del Municipio $10.00
+
+III.- Renta de chaleco salvavidas a visitantes $10.00
+
+vecinos del Municipio
+
+IV.- Renta de chaleco salvavidas a visitantes $15.00
+
+no vecinos del Municipio
 
 DE LA RENUNCIA Y OTORGAMIENTO DE CONCESIONES
 
@@ -1423,13 +1621,15 @@ I.- Pagar por única vez el derecho para el otorgamiento de la correspondiente a
 
 II.- Pagar anualmente el derecho correspondiente a la renovación, dentro de los primeros 60 días de cada año.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+III.- La tasa se determinará con base en el siguiente cuadro de categorización de los giros comerciales, tasados en unidad de medida de actualización para su cobro:
 
-III.- La tasa se determinará con base en el siguiente cuadro de categorización de los giros comerciales, tasados en salarios mínimos para su cobro:
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. 28 DE DICIEMBRE DE 2016, PÁGINA 75]</small>
 
-> <small>[N. DE E. VÉASE TABLAS EN EL SUPLEMENTO DEL D.O. DE 18 DE DICIEMBRE DE 2015, PÁGINAS DE LA 61 A LA 62.]</small>
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Con el objeto de fomentar el desarrollo empresarial, comercial, industrial y de servicios, entre los ciudadanos e incentivar sus inversiones, toda aquella persona física o moral, que demuestre fehacientemente su vecindad en este municipio, por ese simple hecho gozará del 50% de descuento en el pago de las tarifas descritas en la tabla anterior.
 
 > <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
@@ -1483,11 +1683,11 @@ alcohólicas con revalidación anual señalado en el Artículo 113, de acuerdo
 
 vencida o sin revalidación anual. a la superficie del establecimiento.
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 119.
 
-Por la promoción, propaganda o publicidad de los establecimientos comerciales de la ciudad, fijos o semifijos y ambulantes, se pagarán derechos de acuerdo con la siguiente tarifa basada en salarios mínimos:
+Por la promoción, propaganda o publicidad de los establecimientos comerciales de la ciudad, fijos o semifijos y ambulantes, se pagarán derechos de acuerdo con la siguiente tarifa basada en unidades de medida y actualización:
 
 I.- Anuncios luminosos mayores a 2 metros
 
@@ -1499,23 +1699,37 @@ cuadrado o fracción 5 Anualmente
 
 III.- Vehículos que comercien con propaganda 12 Anualmente
 
-IV.- Vehículos dedicados al perifoneo de
+IV.- Vehículos dedicados al perifoneo de propaganda 10 Anualmente
 
-propaganda 10 Anualmente
+V.- Anuncios en carteleras o mantas de hasta 6
 
-V.- Anuncios en carteleras o mantas de hasta
+metros cuadrados 1 mensualmente
 
-6 metros cuadrados 1 mensualmente
+VI.- Anuncios murales por metro cuadrado. 0.075 en forma única
 
-VI.- Anuncios murales por metro cuadrado 0.075 en forma única
+VII.- Anuncios de adheribles de temporales, en general 3 en forma única
 
-VII.- Anuncios de adheribles de eventos
+IX.- (sic) Por realización de perifoneo o propaganda 0.5 Unidad de
 
-temporales, en general 3 en forma única
+comercial exclusivamente en la cabecera, Medida de
 
-VIII.- Vehículos que promocionen propaganda
+mediante vehículo automotor. Actualización por día
 
-eventual 0.20 diariamente
+por unidad
+
+X.- Por realización de perifoneo o 1.0 S Unidad de
+
+propaganda comercial en el municipio Medida de
+
+cabecera, mediante vehículo automotor Actualización día
+
+por unidad
+
+XI.- Por realización de perifoneo o propaganda 0.5 Unidad de Medida
+
+comercial en la cabecera y las comisarias, Actualización por
+
+mediante vehículo de tracción humana o animal día por unidad
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
 
@@ -1583,15 +1797,15 @@ b) (sic) Por exhumación .7
 
 c) Por uso de la fosa común 1.5
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO X. DERECHOS POR SERVICIOS DE VIGILANCIA
+### CAPÍTULO X. DERECHOS POR SERVICIOS DE VIGILANCIA Y USO DE LAS VIALIDADES PARA FINES DISTINTOS Y, DE CARGA Y DESCARGA DE MATERIALES Y PRODUCTOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 121.
 
-Son sujetos obligados al pago de este derecho las personas físicas o morales que soliciten este servicio de acuerdo con la siguiente tarifa basada en salarios mínimos:
+Son sujetos obligados al pago de este derecho, las personas físicas o morales que soliciten el servicio particularmente para el reforzamiento y salvaguarda de su patrimonio y actividades de entretenimiento de carácter social, sin poner en riesgo la seguridad pública del municipio; este servicio se causará conforme a la siguiente tarifa, basada en unidades de medida y actualización:
 
 I.- Por mes por cada elemento 75
 
@@ -1599,9 +1813,23 @@ II.- Por turno de servicio por cada elemento 3.5
 
 III.- Por hora o fracción por cada elemento 0.75
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+IV.- Para eventos de carácter social y
+
+demás análogos 3.5 por elemento/
+
+jornada laboral
+
+V.- Por cierre total o parcial de calle y/o vialidad 4.0 hasta por 8 horas
 
 El pago de este derecho se hará al momento de solicitar el servicio.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 121 Bis.
+
+Son sujetos obligados al pago de este derecho por el uso de la vía pública para carga y descarga de materiales y productos en horario determinado, así como de las vialidades de la ciudad por parte del transporte de carga en vehículos automotores de 3.5 toneladas en adelante; los propietarios de los mismos y a falta de éste, sus conductores. La tarifa será en unidad de medida y actualización, conforme a la tabla siguiente:
+
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. 28 DE DICIEMBRE DE 2016, PÁGINAS 77 Y 78]</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
 
@@ -1805,15 +2033,65 @@ Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios
 
 Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
-### CAPÍTULO ÚNICO. DE LOS SUJETOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 110], D.O. 28 DE ENERO DE 2005)
+### CAPÍTULO XIV. DE LOS DERECHOS RELACIONADOS CON EL SUMINISTRO PÚBLICO DE AGUA POTABLE
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 122 J.- Son sujetos de los derechos relacionados con el servicio público de suministro de agua potable, el propietario, usufructuarios o poseedores de predios rústicos o urbanos del municipio, interesados en su contratación.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 122 K.- Es objeto de los derechos que a continuación se describen, la prestación del servicio público del suministro de agua potable a los habitantes del municipio, para al uso doméstico o comercial.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 122 L.- Los servicios relacionados con la prestación de este servicio público, serán los siguientes, con las respectivas tarifas en pesos mexicanos, y son:
+
+I.- Servicio de suministro de agua potable para uso $28.00
+
+doméstico en cabecera
+
+II.- Servicio de suministro de agua potable para uso $62.00
+
+comercial en cabecera
+
+III.- Servicio de suministro de agua potable para uso $20.00
+
+doméstico en comisarías.
+
+IV.- Expedición de constancia de inexistencia del $50.00
+
+servicio, de no adeudo o de cambio de propietario
+
+V.- Contrato de instalación de toma nueva de agua $1,100.00
+
+para uso doméstico en cabecera
+
+VI.- Contrato de instalación de toma nueva de agua $ 1,800.00
+
+para uso comercial en la cabecera
+
+VII.- Contrato de instalación de toma nueva de agua $550.00
+
+para uso doméstico en comisarias
+
+VIII.- Servicio de reconexión de toma de agua en la $200.00
+
+cabecera
+
+IX.- Servicio de reconexión de toma de agua en $100.00
+
+comisarías
+
+En el caso del servicio de suministro de agua potable para uso domiciliario en comisarías, el Sistema Municipal de Agua Potable y Alcantarillado de Motul en coordinación con la autoridad auxiliar, podrá modificar la tarifa expresada en la fracción III del presente artículo, ajustándose al consumo de energía eléctrica en los subsistemas de agua potable de cada localidad, sin exceder en ningún caso la tarifa expresada en la misma fracción.
 
 ## TÍTULO QUINTO. DE LAS CONTRIBUCIONES DE MEJORAS
 
-### CAPÍTULO ÚNICO. DE LA CLASIFICACIÓN
+### CAPÍTULO ÚNICO. DE LOS SUJETOS
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 122], D.O. 28 DE ENERO DE 2005)
+(REUBICADO [N. DE E. ANTES ARTÍCULO 110], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 123.
 
@@ -1967,9 +2245,9 @@ El Tesorero Municipal previa solicitud por escrito del interesado y una vez real
 
 ## TÍTULO SEXTO. DE LOS PRODUCTOS
 
-### CAPÍTULO I. DE LAS MULTAS ADMINISTRATIVAS
+### CAPÍTULO ÚNICO. DE LA CLASIFICACIÓN
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 130], D.O. 28 DE ENERO DE 2005)</small>
+(REUBICADO [N. DE E. ANTES ARTÍCULO 122], D.O. 28 DE ENERO DE 2005)
 
 ###### ARTÍCULO 135.
 
@@ -1985,23 +2263,27 @@ IV.- Por los daños que sufrieron las vías públicas o los bienes del patrimoni
 
 DE LOS ARRENDAMIENTOS Y LAS VENTAS
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 123], D.O. 28 DE ENERO DE 2005)
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 136.
 
-Los arrendamientos y las ventas de bienes muebles e inmuebles propiedad del municipio se llevará a cabo conforme a la Ley Orgánica de los Municipios del Estado de Yucatán.
+Los arrendamientos y las enajenaciones de los bienes muebles e inmuebles propiedad del municipio se llevará a cabo conforme a la Ley (sic) Gobierno de los Municipios y la de Bienes, ambas del Estado de Yucatán.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 123], D.O. 28 DE ENERO DE 2005)
 
 A que el arrendamiento de bienes se refiere la fracción II del artículo anterior, podrá realizarse cuando dichos inmuebles no sean destinados a la administración o prestación de un servicio público, mediante la celebración de contrato que firmarán el Presidente Municipal y el Secretario previa la aprobación del cabildo y serán las partes que intervengan en el contrato respectivo las que determinen de común acuerdo el precio o renta, la duración del contrato y época y lugar de pago.
+
+(REUBICADO [N. DE E. ANTES ARTÍCULO 123], D.O. 28 DE ENERO DE 2005)
 
 Queda prohibido el subarrendamiento de los inmuebles a que se refiere el párrafo anterior.
 
 DE LA EXPLOTACIÓN
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 124], D.O. 28 DE ENERO DE 2005)
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 137.
 
-Los bienes muebles e inmuebles propiedad del municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de la Ley Orgánica de los Municipios del Estado de Yucatán.
+Los bienes muebles e inmuebles propiedad del municipio, solamente podrán ser explotados, mediante concesión o contrato legalmente otorgado o celebrado, en los términos de la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 DEL REMATE DE BIENES MOSTRENCOS O ABANDONADOS
 
@@ -2041,9 +2323,9 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ## TÍTULO SÉPTIMO. APROVECHAMIENTOS
 
-### CAPÍTULO I. GENERALIDADES
+### CAPÍTULO I. DE LAS MULTAS ADMINISTRATIVAS
 
-> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 136], D.O. 28 DE ENERO DE 2005)</small>
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 130], D.O. 28 DE ENERO DE 2005)</small>
 
 ###### ARTÍCULO 143.
 
@@ -2135,15 +2417,19 @@ Para el caso de que los ingresos por gastos de ejecución, fueren generados en e
 
 ## TÍTULO NOVENO. INFRACCIONES Y MULTAS
 
+### CAPÍTULO I. GENERALIDADES
+
+> <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 136], D.O. 28 DE ENERO DE 2005)</small>
+
+###### ARTÍCULO 149.
+
+La aplicación de las multas por infracciones a las disposiciones municipales y a la presente ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
 ### CAPÍTULO II. INFRACCIONES Y SANCIONES
 
 DE LOS RESPONSABLES
 
 > <small>(ADICIONADO [N. DE E. ANTES ARTÍCULO 137], D.O. 28 DE ENERO DE 2005)</small>
-
-###### ARTÍCULO 149.
-
-La aplicación de las multas por infracciones a las disposiciones municipales y a la presente ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
 ###### ARTÍCULO 150.
 
@@ -2322,3 +2608,11 @@ D.O. 18 DE DICIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+[N DE E. TRANSITORIO DEL “DECRETO 429/2016 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, MOTUL, MUNA, SACALUM, SUMA DE HIDALGO, TEMAX, TIZIMÍN Y UAYMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
