@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-asentamientos-humanos-del-estado-de-yucatan-11957"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-30"
-last_updated: "1995-06-30"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE YUCATAN
 
-LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE YUCATAN
+LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
-Ley publicada en el Suplemento al Diario Oficial el Lunes 30 de Junio de 1995.
+Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 30 de junio de 1995.
 
 GOBIERNO DEL ESTADO
 
@@ -37,9 +37,7 @@ CIUDADANO INGENIERO FEDERICO GRANJA RICALDE, GOBERNADOR CONSTITUCIONAL DEL ESTAD
 
 QUE EL H. CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE YUCATAN, D E C R E T A:
 
-LEY DE ASENTAMIENTOS HUMANOS
-
-DEL ESTADO DE YUCATAN
+LEY DE ASENTAMIENTOS HUMANOS DEL ESTADO DE YUCATAN
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -59,7 +57,7 @@ IV. Determinar las bases para la participación social en materia de asentamient
 
 ###### ARTICULO 2.
 
-El ordenamiento territorial de los asentamientos humanos y el desarrollo urbano tenderán a mejorar las condiciones de vida de la población mediante :
+El ordenamiento territorial de los asentamientos humanos y el desarrollo urbano tenderán a mejorar las condiciones de vida de la población mediante:
 
 I. El desarrollo socioeconómico del Estado armonizando la interrelación de las ciudades y el campo y distribuyendo equitativamente los beneficios y cargas del proceso de urbanización.
 
@@ -87,49 +85,49 @@ XII. El aprovechamiento ordenado de la propiedad inmobiliaria en los centros de 
 
 ###### ARTICULO 3.
 
-Para los fines de esta Ley, se entiende por :
+Para los fines de esta Ley, se entiende por:
 
-I.APROVECHAMIENTO.- La utilización óptima de las aptitudes del suelo.
+I. APROVECHAMIENTO.- La utilización óptima de las aptitudes del suelo.
 
-II.ASENTAMIENTO HUMANO.- El establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran.
+II. ASENTAMIENTO HUMANO.- El establecimiento de un conglomerado demográfico, con el conjunto de sus sistemas de convivencia, en un área físicamente localizada, considerando dentro de la misma los elementos naturales y las obras materiales que lo integran.
 
-III.CENTROS DE POBLACION.- Son las áreas delimitadas por la autoridad competente en el acto de su fundación o reconocimiento, constituidas por las zonas urbanizadas, las que se reserven para su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas.
+III. CENTROS DE POBLACION.- Son las áreas delimitadas por la autoridad competente en el acto de su fundación o reconocimiento, constituidas por las zonas urbanizadas, las que se reserven para su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas.
 
-IV.CONURBACION.- Continuidad física y demográfica que formen o tiendan a formar dos o más centros de población.
+IV. CONURBACION.- Continuidad física y demográfica que formen o tiendan a formar dos o más centros de población.
 
-V.CONSERVACION.- La acción tendente a mantener el equilibrio ecológico y preservar el buen estado de la infraestructura, equipamiento, vivienda y servicios urbanos de los centros de población, incluyendo sus valores históricos y culturales.
+V. CONSERVACION.- La acción tendente a mantener el equilibrio ecológico y preservar el buen estado de la infraestructura, equipamiento, vivienda y servicios urbanos de los centros de población, incluyendo sus valores históricos y culturales.
 
-VI.CRECIMIENTO.- La acción tendente a ordenar y regular la expansión física de los centros de población.
+VI. CRECIMIENTO.- La acción tendente a ordenar y regular la expansión física de los centros de población.
 
-VII.DESARROLLO REGIONAL.- El proceso de mejoramiento de la calidad de vida de la población, la preservación del ambiente, así como la conservación y reproducción de los recursos naturales, en un territorio determinado.
+VII. DESARROLLO REGIONAL.- El proceso de mejoramiento de la calidad de vida de la población, la preservación del ambiente, así como la conservación y reproducción de los recursos naturales, en un territorio determinado.
 
 VIII. DESARROLLO URBANO.- El proceso de planeación y regulación para la fundación, conservación, mejoramiento y crecimiento de los centros de población.
 
-IX.DESTINOS.- Los fines públicos a los que se prevea dedicar determinadas áreas o predios de los centros de población.
+IX. DESTINOS.- Los fines públicos a los que se prevea dedicar determinadas áreas o predios de los centros de población.
 
-X.EQUIPAMIENTO URBANO.- El conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos.
+X. EQUIPAMIENTO URBANO.- El conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos.
 
-XI.FUNDACION.- La acción de establecer un centro de población.
+XI. FUNDACION.- La acción de establecer un centro de población.
 
-XII.INFRAESTRUCTURA URBANA.- Los sistemas y redes de conducción y distribución de bienes y servicios en los centros de población.
+XII. INFRAESTRUCTURA URBANA.- Los sistemas y redes de conducción y distribución de bienes y servicios en los centros de población.
 
 XIII. MEJORAMIENTO.- La acción tendente a reordenar o renovar las zonas de un centro de población de incipiente desarrollo o deterioradas física o funcionalmente.
 
-XIV.ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS.- El proceso de distribución equilibrada y sustentable de la población y de las actividades económicas en un territorio.
+XIV. ORDENAMIENTO TERRITORIAL DE LOS ASENTAMIENTOS HUMANOS.- El proceso de distribución equilibrada y sustentable de la población y de las actividades económicas en un territorio.
 
-XV.PATRIMONIO CULTURAL.- Son los valores que identifican de manera particular a una comunidad.
+XV. PATRIMONIO CULTURAL.- Son los valores que identifican de manera particular a una comunidad.
 
-XVI.PROVISIONES.- Las áreas que serán utilizadas para la fundación de un centro de población.
+XVI. PROVISIONES.- Las áreas que serán utilizadas para la fundación de un centro de población.
 
 XVII. RESERVAS.- Las áreas de un centro de población que serán utilizadas para su crecimiento.
 
 XVIII. SECRETARIA.- La Secretaría de Desarrollo Urbano, Obras Públicas y Vivienda del Gobierno del Estado.
 
-XIX.SERVICIOS URBANOS.- Las servicios públicos prestados directamente por la autoridad competente o concesionados para satisfacer necesidades colectivas en los centros de población.
+XIX. SERVICIOS URBANOS.- Las servicios públicos prestados directamente por la autoridad competente o concesionados para satisfacer necesidades colectivas en los centros de población.
 
-XX.USOS.- Los fines privados a que podrán dedicarse determinadas zonas o predios de un centro de población.
+XX. USOS.- Los fines privados a que podrán dedicarse determinadas zonas o predios de un centro de población.
 
-XXI.ZONA METROPOLITANA.- El espacio territorial de influencia dominante de un centro de población.
+XXI. ZONA METROPOLITANA.- El espacio territorial de influencia dominante de un centro de población.
 
 XXII. ZONIFICACION.- La determinación de las áreas que integran y delimitan un centro de población; sus aprovechamientos predominantes y las reservas, usos y destinos, así como la delimitación de las áreas de conservación, mejoramiento y crecimiento del mismo.
 
@@ -1025,11 +1023,15 @@ III. La demolición, a costa del infractor, de las construcciones efectuadas en 
 
 IV. El arresto administrativo de los responsables hasta por treinta y seis horas.
 
-V. Multa por un monto equivalente desde cien hasta cinco mil veces el salario mínimo general diario vigente del área geográfica que corresponda a la ciudad de Mérida.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+V. Multa de cien a cinco mil unidades de medida y actualización.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 88.
 
-A los responsables de las infracciones señaladas en el artículo 83 de esta Ley, se les sancionará con amonestación y la imposición de una multa por un monto equivalente desde cien hasta doscientas veces el salario mínimo general diario vigente en el área geográfica a que corresponda a la ciudad de Mérida y en caso de reincidencia, se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos.
+A los responsables de las infracciones señaladas en el artículo 83 de esta Ley, se les sancionará con amonestación y la imposición de una multa de cien a doscientas unidades de medida y actualización y en caso de reincidencia, se estará a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
 
 ###### ARTICULO 89.
 
@@ -1088,3 +1090,17 @@ ING. FEDERICO GRANJA RICALDE
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. ALVARO LOPEZ SOBERANIS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
