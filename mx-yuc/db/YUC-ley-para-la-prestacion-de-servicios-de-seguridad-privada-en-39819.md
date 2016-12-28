@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-prestacion-de-servicios-de-seguridad-privada-en-398
 country: "mx"
 rank: "ley"
 publication_date: "2004-05-31"
-last_updated: "2010-02-10"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN
 
-LEY PARA LA PRESTACION DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATAN
+LEY PARA LA PRESTACIÓN DE SERVICIOS DE SEGURIDAD PRIVADA EN EL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 31 de mayo de 2004.
 
@@ -79,7 +79,7 @@ II.- La custodia, vigilancia, cuidado y protección de bienes inmuebles;
 
 III.- Las investigaciones para la localización e información de personas físicas, morales y bienes, siempre que no lesionen los derechos de terceros;
 
-IV.- La vigilancia que realicen personas o cuerpos de seguridad en instituciones públicas, organismos descentralizados, aeropuertos, de servicios bancarios, financieros o de seguros; y (sic)
+IV.- La vigilancia que realicen personas o cuerpos de seguridad en instituciones públicas, organismos descentralizados, aeropuertos, de servicios bancarios, financieros o de seguros; y
 
 > <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
@@ -155,13 +155,13 @@ La Procuraduría publicará en el primer trimestre de cada año, en el Diario Of
 
 En caso de que se preste el servicio sin contar con autorización de la Procuraduría, se procederá a la imposición de la sanción prevista en la fracción II del artículo 37 de la presente ley, y a la clausura del establecimiento, debiéndose seguir las reglas, procedimientos y formalidades establecidas en esta Ley.
 
-> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 8.
 
-Para la revalidación de la autorización y registro, bastará que los prestadores, cuando menos con treinta días hábiles previos a la conclusión de la vigencia, presenten la solicitud por escrito, que cumpla con los requisitos señalados en las fracciones III, IV, VII, VIII y XI del artículo 5, y con los exámenes médicos, psicológicos y toxicológicos que establece la fracción VIII del artículo 16 de esta ley. Una vez presentada la solicitud de revalidación, la Procuraduría contará con diez días hábiles para resolver la procedencia de la revalidación.
+Para la revalidación de la autorización y registro, bastará que los prestadores, cuando menos con treinta días hábiles previos a la conclusión de la vigencia, presenten la solicitud por escrito, que cumpla con los requisitos señalados en las fracciones III, IV, VII, VIII y XI del artículo 5, y con los exámenes médicos, psicológicos y toxicológicos que establece la fracción VIII del artículo 16 de esta ley. Una vez presentada la solicitud de revalidación, la Fiscalía General del Estado contará con diez días hábiles para resolver la procedencia de la revalidación.
 
-En caso de que la solicitud de revalidación se efectúe en forma extemporánea, se impondrá una multa hasta por el equivalente a cien veces el salario mínimo vigente en el Estado. Una vez cubierta la multa, se dará el trámite que corresponda a la solicitud de revalidación.
+En caso de que la solicitud de revalidación se efectúe en forma extemporánea, se impondrá una multa de una a cien unidades de medida y actualización. Una vez cubierta la multa, se dará el trámite que corresponda a la solicitud de revalidación.
 
 > <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
@@ -531,13 +531,17 @@ IV.- Utilicen vehículos sin los emblemas o distintivos autorizados, y
 
 V.- Incumplan con lo establecido en las fracciones I, V, VII, VIII, IX, XI, XII, XIII, XIX y XXI del artículo 16 de esta Ley.
 
-> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 37.
 
-La Procuraduría sancionará a los prestadores con multa de hasta cinco mil veces el salario mínimo general vigente en el Estado, en los casos siguientes:
+La Fiscalía General del Estado sancionará a los prestadores con multa de una a cinco mil unidades de medida y actualización en el estado, en los casos siguientes:
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
 I.- Se reincida en cualquiera de los casos señalados en el artículo anterior, y
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
 II.- Cuando una persona física o moral preste servicios de seguridad privada sin contar con la autorización y registro correspondiente.
 
@@ -551,21 +555,31 @@ I.- Realicen actividades que no correspondan a la modalidad de los servicios de 
 
 II.- Incumplan lo establecido en las fracciones III, IV, VI, XIV, XV, XVI y XXIV del artículo 16 de esta Ley.
 
-> <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 39.
 
-La Procuraduría, sancionará a los prestadores con cancelación del registro respectivo y con una multa de hasta por el equivalente a cinco mil veces el salario mínimo general vigente en el Estado, por incumplimiento de los casos siguientes:
+La Fiscalía General del Estado, sancionará a los prestadores con cancelación del registro respectivo y con una multa de una a cinco mil unidades de medida y actualización, por incumplimiento de los casos siguientes:
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
 I.- Se altere la documentación que contenga la autorización y registro concedido;
 
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
 II.- Reincidan en cualquiera de los casos señalados en el artículo 38 de esta Ley;
+
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
 
 III.- Cuando habiéndose suspendido temporalmente su registro, no cumplan, con la obligación que se les imponga, y
 
+> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2010)</small>
+
 IV.- Transfieran la autorización y registro respectivo.
 
-Cuando la sanción impuesta se trate de una multa, la Procuraduría notificará lo conducente a la Secretaría de Hacienda del Estado, a efecto de que proceda al cobro de la misma.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Cuando la sanción impuesta se trate de una multa, la Fiscalía General del Estado notificará lo conducente a la Agencia de Administración Fiscal de Yucatán, a efecto de que proceda al cobro de esta.
 
 > <small>(REFORMADO, D.O. 10 DE FEBRERO DE 2010)</small>
 
@@ -770,3 +784,15 @@ Los Prestadores de Servicios de Seguridad Privada autorizados y que funcionen en
 ###### ARTÍCULO QUINTO.
 
 Los Prestadores de Servicios de Seguridad Privada autorizados y que funcionen en el Estado, cuya vigencia de su autorización esté por concluir, deberán realizar los trámites necesarios ante la Procuraduría en un plazo no mayor de 30 días, contados a partir de la entrada en vigor de este Decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, Índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
