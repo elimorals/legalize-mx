@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-la-fauna-del-estado-de-yucatan-80910"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-19"
-last_updated: "2014-04-25"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LA FAUNA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de abril de 2011.
 
@@ -657,15 +657,19 @@ Las violaciones a los preceptos de esta Ley y su reglamento, podrán ser sancion
 
 I.- Amonestación por escrito, por parte de la autoridad;
 
-II.- Multa por el equivalente de diez hasta cincuenta mil días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Multa de diez a cincuenta mil unidades de medida y actualización vigente.; (sic)
 
 III.- Arresto administrativo hasta por treinta y seis horas, y
 
 IV.- Decomiso temporal o definitivo del Animal.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 75.
 
-De comprobarse que algún animal ha sido torturado o maltratado por una persona de manera reincidente o habitual, se podrá imponer además de la sanción establecida en el artículo anterior, multa de diez a diez mil días de salario mínimo general vigente en el Estado y el decomiso definitivo del Animal.
+De comprobarse que algún animal ha sido torturado o maltratado por una persona, de manera reincidente o habitual, se podrá imponer, además de la sanción establecida en el artículo anterior, multa de diez a diez mil unidades de medida y actualización y el decomiso definitivo del animal.
 
 ###### Artículo 76.
 
@@ -726,3 +730,15 @@ D.O. 25 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 Esta (sic) decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
