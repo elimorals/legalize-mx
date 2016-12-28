@@ -4,7 +4,7 @@ identifier: "SIN-codigo-familiar-del-estado-de-sinaloa-92146"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-02-06"
-last_updated: "2016-12-14"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FAMILIAR DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 6 de febrero de 2013.
 
@@ -295,7 +295,9 @@ La reparación del daño comprende la publicación o divulgación de la sentenci
 
 En los casos en que no se pudiere resarcir el daño, se fijará indemnización tomando en cuenta la mayor o menor divulgación que el acto ilícito hubiere tenido, las condiciones personales de la víctima y las demás circunstancias.
 
-En ningún caso el monto por indemnización deberá exceder de trescientos cincuenta días de salario mínimo general vigente en el Estado, lo anterior no incluye los gastos y costas que deberá sufragar y que podrán ser restituidos conforme lo que dispone en estos casos, el Código de Procedimientos Familiares del Estado de Sinaloa.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+En ningún caso el monto por indemnización deberá exceder de trescientos cincuenta veces el valor diario de la Unidad de Medida y Actualización, lo anterior no incluye los gastos y costas que deberá sufragar y que podrán ser restituidos conforme lo que dispone en estos casos, el Código de Procedimientos Familiares del Estado de Sinaloa.
 
 ###### Artículo 33.
 
@@ -313,9 +315,11 @@ No se admitirán cambios, agregaciones o rectificaciones del nombre, sino en las
 
 El oficial del registro civil, exhortará a quien presente al menor de edad para que el nombre propio con el que se pretende registrar no sea peyorativo, discriminatorio, infamante, denigrante, carente de significado, o que constituya un signo, símbolo o siglas, o bien que exponga al registrado a ser objeto de burla.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 35.
 
-Si al registrar a un niño no se sabe quiénes son sus padres, el nombre propio y los apellidos serán puestos por la Procuraduría de la Defensa del Menor, la Mujer y la Familia, ante el oficial del registro civil que corresponda.
+Si al registrar a un niño no se sabe quiénes son sus padres, el nombre propio y los apellidos serán puestos por la Procuraduría de Protección de Niñas, Niños y Adolescentes, ante el oficial del registro civil que corresponda.
 
 ###### Artículo 36.
 
@@ -1587,7 +1591,9 @@ V. El tutor;
 
 VI. El Ministerio Público, y
 
-VII. La Procuraduría de la Defensa del Menor, la Mujer y la Familia.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+VII. La Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 Si las personas a que se refieren las fracciones II, IV y V de este artículo, no puedan representar al acreedor alimentario en el juicio en que se pida el aseguramiento de alimentos, se nombrará por el juez, un tutor interino. El tutor así nombrado, dará garantía por el importe anual de los alimentos, y si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
 
@@ -1911,13 +1917,17 @@ Cuando el reconocimiento se efectúe sucesivamente por los padres que no viven j
 
 Se puede recurrir a las pruebas biológicas a cargo del Estado, cuando el presunto padre solicite la comprobación del vínculo como condición para el reconocimiento. Además, el oficial del registro civil tiene la obligación de informar y orientar al progenitor que presente al menor de edad para su registro, sobre el derecho a promover el reconocimiento de la paternidad o maternidad, en su caso, señalando a las instituciones, a las que puedan acudir para recibir la asistencia jurídica necesaria.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 279.
 
-En caso de que el padre o la madre se opongan al reconocimiento, la Procuraduría de la Defensa del Menor, la Mujer y la Familia o el Ministerio Público, en aquellos casos en donde no exista Procuraduría, este último podrá representar a la persona menor en el juicio de investigación de la paternidad, siempre que el progenitor conocido lo autorice.
+En caso de que el padre o la madre se opongan al reconocimiento, la Procuraduría de Protección de Niñas, Niños y Adolescentes o el Ministerio Público, en aquellos casos en donde no exista Procuraduría, este último podrá representar a la persona menor de edad en el juicio de investigación de la paternidad, siempre que el progenitor conocido lo autorice.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 280.
 
-Tratándose de niños abandonados o expósitos, la Procuraduría de la Defensa del Menor, la Mujer y la Familia y el Ministerio Público, según corresponda, iniciarán oficiosamente la investigación de la paternidad y, en su caso, podrá ejercer la acción de pérdida de la patria potestad, siguiendo las disposiciones de la legislación procesal correspondiente, y las siguientes:
+Tratándose de niños abandonados o expósitos, la Procuraduría de Protección de Niñas, Niños y Adolescentes y el Ministerio Público, según corresponda, iniciarán oficiosamente la investigación de la paternidad y, en su caso, podrá ejercer la acción de pérdida de la patria potestad, siguiendo las disposiciones de la legislación procesal correspondiente, y las siguientes:
 
 I. Dar vista al Ministerio Público y éste a su vez iniciar las investigaciones necesarias y la averiguación previa correspondiente, para que determine el origen, la edad aparente, y demás circunstancias relacionadas con el menor de edad; para lo anterior, se auxiliaran de la constancia expedida por el médico legista y las personas e instituciones que estimen conveniente; para ello, los resultados deberán rendirse ante la autoridad correspondiente en un plazo de noventa días;
 
@@ -1925,9 +1935,11 @@ II. Proveer transitoriamente la guarda y custodia de la persona menor expósita,
 
 III. Presentar al menor ante el oficial del registro civil, con los documentos que se hubieran encontrado y los resultados de las investigaciones, así como de la averiguación previa, para realizar el registro de su nacimiento.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 281.
 
-Una vez transcurridos los noventa días establecidos para realizar las investigaciones necesarias y la averiguación previa correspondiente, y no habiendo encontrado quien pudiere ejercer la patria potestad del menor, la Procuraduría de Defensa del Menor, la Mujer y la Familia o el Ministerio Público; de conocerse quiénes son los padres, promoverán ante el juez de la competencia, la pérdida de patria potestad. De no encontrarse, se procederá como lo dispone la fracción III del artículo 280.
+Una vez transcurridos los noventa días establecidos para realizar las investigaciones necesarias y la averiguación previa correspondiente, y no habiendo encontrado quien pudiere ejercer la patria potestad del menor de edad, la Procuraduría de Protección de Niñas, Niños y Adolescentes o el Ministerio Público; de conocerse quiénes son los padres, promoverán ante el juez de la competencia, la pérdida de patria potestad. De no encontrarse, se procederá como lo dispone la fracción III del artículo 280.
 
 ### Capítulo V. De la Reproducción Humana Asistida y la Gestación Subrogada
 
@@ -2259,19 +2271,21 @@ II. Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuan
 
 También pueden adoptar las personas que tengan vínculo de parentesco consanguíneo con el menor o incapaz.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 333.
 
-Cuando se han cumplido cabalmente las obligaciones de protección, afecto, cuidado de la salud y educación del adoptado, según informes del Ministerio Público o de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en su caso, el Juez de Primera Instancia decretará la adopción, aunque el menor haya alcanzado la mayoría de edad.
+Cuando se han cumplido cabalmente las obligaciones de protección, afecto, cuidado de la salud y educación del adoptado, según informes del Ministerio Público o de la Procuraduría de Protección de Niñas, Niños y Adolescentes, en su caso, el Juez de Primera Instancia decretará la adopción, aunque la persona menor de edad haya alcanzado la mayoría de edad.
 
 ###### Artículo 334.
 
 Los adoptantes tendrán el deber de informar al adoptivo, sobre la forma de advenimiento de éste a su familia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 335.
 
-El Sistema para el Desarrollo Integral de la Familia del Estado de Sinaloa, a través de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, debe consentir en la adopción, cuando el menor o menores de edad que se pretendan adoptar, se encuentren por cualquier medio bajo su cuidado, y existan las circunstancias siguientes:
+El Sistema Estatal para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, debe consentir en la adopción, cuando el menor de edad o los menores de edad que se pretendan adoptar, se encuentren por cualquier medio bajo su cuidado, y existan las circunstancias siguientes:
 
 I. No haya quien ejerza la patria potestad o tutela sobre los mismos;
 
@@ -2299,9 +2313,11 @@ Cuando las personas que ejercen la patria potestad de un niño, lo entreguen vol
 
 La casa de asistencia pública o privada podrá formalizar, asimismo, una custodia familiar preadoptiva cuando considere, con anterioridad a la presentación de la propuesta de adopción, que fuera necesario establecer un período de adaptación del menor de edad a la familia. Este período será lo más breve posible y, en todo caso, no podrá exceder del plazo de un año.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 340.
 
-El desarrollo de la custodia familiar preadoptiva será vigilado por la Procuraduría de la Defensa del Menor, la Mujer y la Familia, el Ministerio Público y en caso de anomalías las pondrá del conocimiento al juez para que dicte las medidas de protección necesarias; lo relativo a administración de bienes, si los hubiera, se aplicarán las reglas de la tutela.
+El desarrollo de la custodia familiar preadoptiva será vigilado por la Procuraduría de Protección de Niñas, Niños y Adolescentes, el Ministerio Público y en caso de anomalías las pondrá del conocimiento al juez para que dicte las medidas de protección necesarias; lo relativo a administración de bienes, si los hubiera, se aplicarán las reglas de la tutela.
 
 ###### Artículo 341.
 
@@ -2723,9 +2739,11 @@ Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mi
 
 Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tutela, fueren opuestos, el tutor lo pondrá en conocimiento del juez, quien nombrará un tutor especial que defienda los intereses de los incapaces que él mismo designe, mientras se decide el punto de oposición.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 400.
 
-Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligadas a dar parte del fallecimiento al juez, dentro de ocho días, a fin de que provea a la tutela, bajo la pena de uno a cinco días de salarios mínimos vigentes en el estado, de multa.
+Cuando fallezca una persona que ejerza la patria potestad sobre un incapacitado a quien deba nombrarse tutor, su ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligadas a dar parte del fallecimiento al juez, dentro de ocho días, a fin de que provea a la tutela, bajo la pena de uno a cinco veces el valor diario de la Unidad de Medida y Actualización, de multa.
 
 Los oficiales del registro civil, las autoridades administrativas y las judiciales tienen obligación de dar aviso a los jueces de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
 
@@ -3227,9 +3245,11 @@ Para todos los gastos extraordinarios que no sean de conservación ni de reparac
 
 El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del juez.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 465.
 
-Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de veinte días de salario mínimo vigente en el estado, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
+Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de veinte veces el valor diario de la Unidad de Medida y Actualización, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
 
 ###### Artículo 466.
 
@@ -4037,9 +4057,11 @@ I. Por convenir de los integrantes si se demuestra que su disminución es de gra
 
 II. Cuando por causas posteriores a su constitución, ha rebasado en más de un cien por ciento el valor del máximo establecido en este Título.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 596.
 
-Siempre será oída la Procuraduría de la Defensa del Menor, la Mujer y la Familia en la constitución, disminución o extinción de los bienes del patrimonio de la familia.
+Siempre será oída la Procuraduría de Protección de Niñas, Niños y Adolescentes en la constitución, disminución o extinción de los bienes del patrimonio de la familia.
 
 ###### Artículo 597.
 
@@ -5111,13 +5133,17 @@ Si la identidad del testador no pudiera ser verificada, se declarará esta circu
 
 En el caso del artículo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 828.
 
-Se prohíbe a los Notarios Públicos y a cualquier otra persona que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de cien salarios mínimos de multa a los Notarios Públicos y de la mitad a los que no lo fueren.
+Se prohíbe a los Notarios Públicos y a cualquier otra persona que hayan de redactar disposiciones de última voluntad, dejar hojas en blanco y servirse de abreviaturas o cifras, bajo la pena de cien veces el valor diario de la Unidad de Medida y Actualización de multa a los Notarios Públicos y de la mitad a los que no lo fueren.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 829.
 
-El Notario Público que hubiere autorizado el testamento, debe dar aviso a los interesados luego de que sepa la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione y se le castigará con multa de veinte a cincuenta salarios mínimos.
+El Notario Público que hubiere autorizado el testamento, debe dar aviso a los interesados luego de que sepa la muerte del testador. Si no lo hace, es responsable de los daños y perjuicios que la dilación ocasione y se le castigará con multa de veinte a cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 830.
 
@@ -5311,9 +5337,9 @@ Toda persona que tuviere en su poder un testamento cerrado y no lo presente, com
 
 Testamento Público Simplificado es aquél que se otorga ante notario respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización de un inmueble que lleven a cabo las autoridades del Estado o cualquier dependencia o entidad de la Administración Pública Federal, o en acto posterior, de conformidad con lo siguiente:
 
-I. Que el precio del inmueble o su valor de avalúo no exceda del equivalente a veinticinco veces el salario mínimo general vigente en el Estado elevado al año, al momento de la adquisición.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el párrafo anterior, no importará su monto;
+I. Que el precio del inmueble o su valor de avalúo no exceda del equivalente a veinticinco veces el valor diario de la Unidad de Medida y Actualización elevado al año, al momento de la adquisición.
 
 II. El testador instituirá uno o más legatarios con derecho de acrecer, salvo designación de sustitutos. Para el caso de que cuando se llevare a cabo la protocolización notarial de la adquisición en favor de los legatarios, éstos fueren incapaces y no estuvieren sujetos a patria potestad o tutela, el testador también podrá designarles un representante especial que firme el instrumento notarial correspondiente por cuenta de los incapaces;
 
@@ -5407,7 +5433,9 @@ III. Cuando aún habiendo Notario Público o quien actúe por receptoría, sea i
 
 IV. Cuando los militares o asimilados del ejército entren en campaña o se encuentren prisioneros de guerra; y,
 
-V. Cuando tengan por objeto bienes raíces cuyo valor no exceda del equivalente de doscientos cincuenta salarios mínimos.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+V. Cuando tengan por objeto bienes raíces cuyo valor no exceda del equivalente de doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 887.
 
@@ -6491,9 +6519,11 @@ Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o fal
 
 Con las formas del Registro Civil se irán integrando volúmenes de acuerdo con el acto del registro civil de que se trate, los cuales serán visados en su primera y última hoja, por el Secretario General de Gobierno del Estado y se pondrá el sello de la Secretaría en cada volumen. Los libros se integrarán cada año debiendo quedar el original en la oficina del Registro Civil, así como los documentos que le correspondan; se remitirá un ejemplar de las formas, al Archivo General del Gobierno del Estado, otro a la Dirección del Registro Nacional de Población, y un ejemplar al interesado.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1104.
 
-La falta de remisión de cada uno de los ejemplares anteriormente señalados, se sancionará con cinco días de salario mínimo de multa, al oficial del registro civil por cada ejemplar.
+La falta de remisión de cada uno de los ejemplares anteriormente señalados, se sancionará con cinco veces el valor diario de la Unidad de Medida y Actualización de multa, al oficial del registro civil por cada ejemplar.
 
 ###### Artículo 1105.
 
@@ -6521,7 +6551,9 @@ VI. Tanto el número ordinal de las actas, como el de las fechas o cualquier otr
 
 VII. En ninguna frase se emplearán abreviaturas;
 
-VIII. No se hará raspadura alguna ni tampoco se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra, se pasará sobre ella una línea de manera que quede legible. La infracción de las disposiciones contenidas en esta fracción y las tres anteriores, se castigará con multa por valor de diez días de salario mínimo vigente por omisión; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+VIII. No se hará raspadura alguna ni tampoco se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra, se pasará sobre ella una línea de manera que quede legible. La infracción de las disposiciones contenidas en esta fracción y las tres anteriores, se castigará con multa de diez veces el valor diario de la Unidad de Medida y Actualización por omisión; y,
 
 IX. Los puntos dados a los interesados y los documentos que presenten se anotarán poniéndoles el número del acta y el sello del Registro y se reunirán y depositarán en el archivo correspondiente, formándose un índice de ellos en las últimas hojas de los libros correspondientes.
 
@@ -6575,11 +6607,11 @@ El oficial del registro civil, está obligado a hacer las anotaciones de las eje
 
 Los oficiales del registro civil, que celebren algún acto del estado familiar de persona o personas que hayan nacido fuera del Estado, remitirán un ejemplar de la inscripción correspondiente, al oficial del registro civil del lugar de nacimiento de quienes realizaron el acto, para que hagan su anotación en el libro de nacimiento.
 
-> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1119.
 
-En los casos de la celebración del matrimonio, deberá de exigir a los solicitantes, el certificado de orientación Prematrimonial señalado en la fracción III del artículo 49 de este Código, expedido por el propio oficial del registro civil o la Procuraduría de la Defensa del Menor, la Mujer y la Familia.
+En los casos de la celebración del matrimonio, deberá de exigir a los solicitantes, el certificado de orientación prematrimonial señalado en la fracción III del artículo 49 de este Código, expedido por el propio oficial del registro civil o la Procuraduría de Protección de Niñas, Niños y Adolescentes, o por los organismos públicos y privados autorizados para estos fines.
 
 ###### Artículo 1120.
 
@@ -6589,9 +6621,11 @@ Las parejas que decidan unirse en matrimonio deberán de solicitarlo en la forma
 
 El Ministerio Público, cuidará que las actuaciones de las inscripciones que se hagan en las formas del Registro Civil, sean conforme a la ley, pudiendo inspeccionarlas, así como dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido los empleados.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1122.
 
-Los jueces que no remitan en un lapso de diez días hábiles, las resoluciones definitivas dictadas en sus juzgados, con relación al estado familiar de las personas, serán multados por diez días de salario mínimo por cada resolución.
+Los jueces que no remitan en un lapso de diez días hábiles, las resoluciones definitivas dictadas en sus juzgados, con relación al estado familiar de las personas, serán multados con diez veces el valor diario de la Unidad de Medida y Actualización por cada resolución.
 
 ## TÍTULO SEGUNDO. DE LAS ACTAS DEL REGISTRO CIVIL
 
@@ -6615,17 +6649,21 @@ Tienen la obligación de declarar el nacimiento, el padre o la madre, o cualquie
 
 Para llevar a cabo la inscripción de un nacimiento, el oficial del registro civil exigirá el certificado de nacimiento expedido por el médico o la persona que atienda el parto y al recién nacido. El incumplimiento de esta disposición se sancionará con la destitución del servidor público que realice la inscripción, independientemente de las penas en que incurra de conformidad con la legislación aplicable.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1127.
 
-La misma obligación tienen los jefes, directores o administradores de los establecimientos de reclusión y cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad, respecto de los niños nacidos o expuestos en ellas; y en el caso de incumplimiento, se impondrá al infractor una multa de diez días de salario mínimo por caso omitido. Si se trata de instituciones privadas, en el caso de reincidencia podrá suspenderse temporal o definitivamente la licencia o permiso. Si se trata de instituciones públicas en el caso de reincidencia, se revocará el nombramiento del encargado de la institución.
+La misma obligación tienen los jefes, directores o administradores de los establecimientos de reclusión y cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad, respecto de los niños nacidos o expuestos en ellas; y en el caso de incumplimiento, se impondrá al infractor una multa de diez veces el valor diario de la Unidad de Medida y Actualización por caso omitido. Si se trata de instituciones privadas, en el caso de reincidencia podrá suspenderse temporal o definitivamente la licencia o permiso. Si se trata de instituciones públicas en el caso de reincidencia, se revocará el nombramiento del encargado de la institución.
 
 ###### Artículo 1128.
 
 En las poblaciones donde no haya oficial del registro civil, el menor de edad, será presentado ante el juez menor, o ante la autoridad del lugar, quien expedirá la constancia respectiva a los interesados para que la presenten ante el oficial del registro civil más próximo al lugar del nacimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1129.
 
-El acta de nacimiento se levantará con la asistencia de dos testigos que puedan ser designados por las partes interesadas, de personas que supieron del evento; contendrá el año, día, hora y lugar de nacimiento, el sexo del presentado, el nombre y los apellidos que le correspondan al inscrito sin que por motivo alguno pueda omitirse con la razón, de si es presentado vivo o muerto. Se tomará así mismo la impresión digital del presentado. Si se desconoce el nombre de los padres, la Procuraduría de la Defensa del Menor, la Mujer y la Familia le pondrá el nombre y apellidos, ante el oficial del registro civil, haciendo constar esta circunstancia en el acta.
+El acta de nacimiento se levantará con la asistencia de dos testigos que puedan ser designados por las partes interesadas, de personas que supieron del evento; contendrá el año, día, hora y lugar de nacimiento, el sexo del presentado, el nombre y los apellidos que le correspondan al inscrito sin que por motivo alguno pueda omitirse con la razón, de si es presentado vivo o muerto. Se tomará así mismo la impresión digital del presentado. Si se desconoce el nombre de los padres, la Procuraduría de Protección de Niñas, Niños y Adolescentes le pondrá el nombre y apellidos, ante el oficial del registro civil, haciendo constar esta circunstancia en el acta.
 
 Si el nacimiento ocurriere en un establecimiento de reclusión del Estado, el oficial del registro civil deberá asentar como domicilio del nacido, el que señalen sus padres. El oficial pondrá los apellidos paternos de los progenitores, en los términos de los artículos 34, 36 y 37.
 
@@ -6639,7 +6677,9 @@ II. Cuando el hijo sea presentado por el padre y la madre conjuntamente aunque n
 
 III. Cuando el hijo haya sido fecundado por medio de inseminación artificial, lo presentarán quienes tengan los derechos a partir de su nacimiento, asentándose lo señalado en la fracción I; y,
 
-IV. Cuando los padres del menor de edad se ignoren, porque éste haya sido expuesto, la Procuraduría de la Defensa del Menor, la Mujer y la Familia, ocurrirá ante el oficial del registro civil, quien le impondrá un nombre de pila y dos apellidos tomados de la lista que al efecto se formulará cada año.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV. Cuando los padres del menor de edad se ignoren, porque éste haya sido expuesto, la Procuraduría de Protección de Niñas, Niños y Adolescentes, ocurrirá ante el oficial del registro civil, quien le impondrá un nombre de pila y dos apellidos tomados de la lista que al efecto se formulará cada año.
 
 ###### Artículo 1131.
 
@@ -6655,9 +6695,11 @@ Si el padre o la madre no pudieren concurrir, no tuvieran apoderado, pero solici
 
 Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el oficial del registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1133.
 
-Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo ante el Ministerio Público y éste ante la Procuraduría de la Defensa del Menor, la Mujer y la Familia con los papeles o cualquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubieren hallado, así como las demás circunstancias que en el caso hayan ocurrido. Una vez lo anterior y después de satisfacer lo que señala este Código, la Procuraduría de la Defensa del Menor, la Mujer y la Familia, dará aviso al oficial del registro civil, para los efectos del artículo 1127 de este Código.
+Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo ante el Ministerio Público y éste ante la Procuraduría de Protección de Niñas, Niños y Adolescentes con los papeles o cualquiera otros objetos encontrados con él, y declarará el día y lugar donde lo hubieren hallado, así como las demás circunstancias que en el caso hayan ocurrido. Una vez lo anterior y después de satisfacer lo que señala este Código, la Procuraduría de Protección de Niñas, Niños y Adolescentes, dará aviso al oficial del registro civil, para los efectos del artículo 1127 de este Código.
 
 Las actas que se levanten en estos casos, expresarán la edad aparente del niño, su sexo, el nombre y apellidos que se le pongan y su nacionalidad, conforme a lo dispuesto en la fracción IV del artículo 1130 de este Código.
 
@@ -6705,9 +6747,11 @@ El reconocimiento del hijo menor, con una edad de tres a doce años bastará de 
 
 Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará dentro del plazo de quince días, al oficial del registro civil, el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1143.
 
-La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código, pero los responsables de la omisión incurrirán en una multa de cinco días del salario mínimo.
+La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código, pero los responsables de la omisión incurrirán en una multa de cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 1144.
 
@@ -6727,11 +6771,11 @@ Dictada la resolución judicial definitiva que autorice la adopción, el juez, d
 
 Los adoptantes podrán inscribir el nacimiento, en la oficina del registro civil de su preferencia.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1147.
 
-La falta de registro de la adopción no quita a ésta sus efectos legales, pero los responsables de dicha omisión, incurren en una multa de tres días de salario mínimo, que hará efectiva el oficial del registro ante quien se haga valer la adopción.
-
-Se levantará un acta como si fuera de nacimiento, en los mismos términos que la que se expide para los hijos consanguíneos.
+La falta de registro de la adopción no quita a ésta sus efectos legales, pero los responsables de dicha omisión, incurren en una multa de tres veces el valor diario de la Unidad de Medida y Actualización, que hará efectiva el oficial del registro ante quien se haga valer la adopción.
 
 ###### Artículo 1148.
 
@@ -6751,9 +6795,11 @@ Pronunciado el auto de discernimiento de la tutela y publicado en los términos 
 
 El juez, será responsable solidariamente con el tutor en el caso de incumplimiento del artículo anterior.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1152.
 
-La omisión del registro de tutela, no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsable al tutor de una multa de diez días de salario, que hará efectiva el oficial del registro ante quien se formalice la tutela.
+La omisión del registro de tutela, no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsable al tutor de una multa de diez veces el valor diario de la Unidad de Medida y Actualización, que hará efectiva el oficial del registro ante quien se formalice la tutela.
 
 ###### Artículo 1153.
 
@@ -6821,9 +6867,11 @@ III. El régimen de los bienes.
 
 El acta será firmada por los esposos, imprimiendo a su vez sus huellas. También asentarán su firma, el oficial del registro, los testigos y los padres, si están presentes.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1163.
 
-El oficial del registro civil, que sin motivo justificado retarde la celebración de un matrimonio, será castigado con multa de veinte días de salario, y en caso de reincidencia, con la destitución de su cargo.
+El oficial del registro civil, que sin motivo justificado retarde la celebración de un matrimonio, será castigado con multa de veinte veces el valor diario de la Unidad de Medida y Actualización, y en caso de reincidencia, con la destitución de su cargo.
 
 ###### Artículo 1164.
 
@@ -6923,9 +6971,11 @@ VI. La fecha y la hora de la muerte, si se supiere, y todos los informes que se 
 
 VII. Nombre, apellidos, nacionalidad, número de cédula profesional y domicilio del médico que certifique la defunción.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1176.
 
-Los que habiten la casa en que ocurra el fallecimiento; los directores o administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad, los huéspedes de los hoteles, mesones o las casas de vecindad tienen obligación de dar aviso al oficial del registro civil, dentro de las veinticuatro horas siguientes del fallecimiento y en el caso de incumplimiento se sancionará con una multa de diez días de salario mínimo.
+Los que habiten la casa en que ocurra el fallecimiento; los directores o administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad, los huéspedes de los hoteles, mesones o las casas de vecindad tienen obligación de dar aviso al oficial del registro civil, dentro de las veinticuatro horas siguientes del fallecimiento y en el caso de incumplimiento se sancionará con una multa de diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 1177.
 
@@ -7270,5 +7320,33 @@ El Ejecutivo del Estado realizará las previsiones administrativas y presupuesta
 El Registro Civil contará con un plazo de noventa días a partir de la entrada en vigor del presente decreto para iniciar la integración del Registro Estatal de Deudores Alimentarios Morosos. Una vez que entre en funciones deberá dar trámite inmediato a las resoluciones judiciales que se hubieren efectuado durante el plazo de inicio de vigencia de este Decreto y la creación del mismo.
 
 ###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 59 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, CÓDIGO DE PROCEDIMIENTOS FAMILIARES Y LEY ORGÁNICA DEL PODER JUDICIAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
