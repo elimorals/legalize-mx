@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-justicia-administrativa-para-el-estado-de-sinaloa-6624"
 country: "mx"
 rank: "ley"
 publication_date: "1993-03-26"
-last_updated: "2016-08-19"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 26 de marzo de 1993.
 
@@ -865,7 +865,9 @@ En caso necesario, el Magistrado Presidente o el Magistrado de Sala, podrán apl
 
 I.- Son medios de apremio:
 
-a). La multa, por una cantidad equivalente de diez a sesenta días de salario mínimo general vigente; y,
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+a). La multa, por una cantidad equivalente de diez a sesenta veces el valor diario de la Unidad de Medida y Actualización;
 
 b). La presentación de la persona con auxilio de la fuerza pública.
 
@@ -879,7 +881,9 @@ II.- Son medidas disciplinarias:
 
 a) La amonestación;
 
-b) La multa, por una cantidad equivalente de diez a sesenta días de salario mínimo general vigente; y,
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) La multa, por una cantidad equivalente de diez a sesenta veces el valor diario de la Unidad de Medida y Actualización; y,
 
 c) La expulsión temporal de las personas del lugar donde se lleve a cabo la diligencia, cuando para su continuación ello sea conveniente, a juicio del Magistrado.
 
@@ -1987,11 +1991,11 @@ En igual forma, causarán ejecutoria los convenios que suscriben las partes para
 
 La declaración de sentencia ejecutoria, se hará de oficio o a petición de parte. La que favorezca a un particular y contenga una obligación de hacer o de condena, deberá comunicarse a la autoridad correspondiente dentro de los diez días hábiles siguientes a la fecha en que se declaró ejecutoriada la sentencia, previniéndola y conminándola a rendir un informe sobre su cumplimiento dentro de los quince días siguientes.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 103.
+###### ARTÍCULO 103.
 
-Si dentro del término a que se refiere el artículo anterior, la autoridad no cumple con la sentencia o su cumplimiento es excesivo o defectuoso; o, habiéndola cumplido, en cualquier tiempo repite el acto declarado inválido o nulo; o bien, no rinde el informe que corresponda, se le aplicará una multa de diez a sesenta veces el salario mínimo general diario vigente en el Estado. Independientemente de esta sanción, la Sala del conocimiento comunicará al superior jerárquico de la autoridad de que se trate, la actitud de desobediencia, a fin de que lo conmine al cumplimiento de la resolución.
+Si dentro del término a que se refiere el artículo anterior, la autoridad no cumple con la sentencia o su cumplimiento es excesivo o defectuoso; o, habiéndola cumplido, en cualquier tiempo repite el acto declarado inválido o nulo; o bien, no rinde el informe que corresponda, se le aplicará una multa de diez a sesenta veces el valor diario de la Unidad de Medida y Actualización. Independientemente de esta sanción, la Sala del conocimiento comunicará al superior jerárquico de la autoridad de que se trate, la actitud de desobediencia, a fin de que lo conmine al cumplimiento de la resolución.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2073,17 +2077,21 @@ IV. Si la autoridad demandada goza de fuero constitucional, la Sala Superior for
 
 V. En el supuesto de incumplimiento a la medida cautelar o a la orden de suspensión de la ejecución del acto impugnado, el Magistrado instructor desde la presentación del recurso, podrá dictar las medidas necesarias a efecto de mantener la materia del juicio y evitar daños de imposible o difícil reparación;
 
-VI. Si el Magistrado Instructor resuelve que hubo incumplimiento de la medida cautelar o de la suspensión otorgada, declarará la nulidad de las actuaciones realizadas. La resolución a que se refiere esta fracción se notificará también al superior jerárquico del funcionario responsable, para que provea su cumplimiento. Además, impondrá al funcionario responsable o autoridad renuente, una multa en monto equivalente a entre quince y treinta días de su salario; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+VI. Si el Magistrado Instructor resuelve que hubo incumplimiento de la medida cautelar o de la suspensión otorgada, declarará la nulidad de las actuaciones realizadas. La resolución a que se refiere esta fracción se notificará también al superior jerárquico del funcionario responsable, para que provea su cumplimiento. Además, impondrá al funcionario responsable o autoridad renuente, una multa en monto equivalente a entre quince y treinta veces el valor diario de la Unidad de Medida y Actualización; y,
 
 VII. En caso de que la autoridad persista en no dar cumplimiento a la resolución, se estará a lo dispuesto en las fracciones III y IV, del presente artículo.
 
 Para la imposición de la sanción a la autoridad correspondiente, se tomará en cuenta la gravedad del incumplimiento, el sueldo del servidor público de que se trate, su nivel jerárquico, así como las consecuencias del no acatamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 109.
+
+A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no lesionen sus intereses, se le impondrá una multa en monto equivalente a entre treinta y sesenta veces el valor diario de la Unidad de Medida y Actualización.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-###### ARTICULO 109.
-
-A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no lesionen sus intereses, se le impondrá una multa en monto equivalente a entre treinta y sesenta veces el salario mínimo general diario vigente en el Estado de Sinaloa.
 
 Existiendo resolución administrativa, si la Sala considera que la queja es improcedente, por tratarse de un acto distinto, prevendrá al actor para que dentro de los diez días hábiles siguientes a aquél en que surta efectos la notificación del auto respectivo, encause su instancia como demanda, cumpliendo los requisitos previstos en esta Ley.
 
@@ -2317,7 +2325,9 @@ ARTICULO 119 BIS-R. En caso que el Tribunal advierta que alguna persona modific�
 
 Si el responsable es usuario del Sistema, se cancelará su firma electrónica avanzada, clave y contraseña para ingresar al Sistema de Justicia en Línea y no tendrá posibilidad de volver a promover Juicios en Línea.
 
-Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de cien a ciento cincuenta veces el salario mínimo general vigente en el Estado de Sinaloa al momento de cometer la infracción.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Sin perjuicio de lo anterior, y de las responsabilidades penales respectivas, se impondrá al responsable una multa de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización al momento de cometer la infracción.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2357,11 +2367,11 @@ P.O. 26 DE DICIEMBRE DE 1994.
 
 El Magistrado de Sala Regional, dará vista a la Sala Superior con la solicitud presentada por las partes, cuando ésta tenga por objeto hacer del conocimiento de la autoridad penal competente que durante el procedimiento, o en la ejecución de las resoluciones de los juicios tramitados en las Salas Regionales, se haya realizado por las partes, alguna conducta tipificada como delito en el Código Penal, o en los casos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado. La Sala Superior resolverá sobre la procedencia de la solicitud, a más tardar en la sesión siguiente a la que ésta fue presentada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 116.
+###### ARTÍCULO 116.
 
-Independientemente de la responsabilidad penal o administrativa que pudiera constituirse, el Magistrado de Sala impondrá multa de diez a sesenta veces el importe del salario mínimo general vigente en el Estado a las partes que:
+Independientemente de la responsabilidad penal o administrativa que pudiera constituirse, el Magistrado de Sala impondrá multa de diez a sesenta veces el valor diario de la Unidad de Medida y Actualización a las partes que:
 
 I. Afirmen dolosamente hechos falsos u omitan los que les consta en relación con sus pretensiones; y,
 
@@ -2518,3 +2528,19 @@ P.O. 19 DE AGOSTO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente decreto.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
