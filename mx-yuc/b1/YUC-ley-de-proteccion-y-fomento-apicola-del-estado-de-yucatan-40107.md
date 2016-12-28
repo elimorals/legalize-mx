@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-y-fomento-apicola-del-estado-de-yucatan-40107
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-06"
-last_updated: "2006-12-05"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROTECCIÓN Y FOMENTO APÍCOLA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2004.
 
@@ -717,9 +717,11 @@ La Secretaría cooperará con las entidades, cuya competencia sea mantener los c
 
 Las violaciones a los preceptos de esta ley y su Reglamento, constituyen infracciones que serán sancionados administrativamente por la Secretaría, sin perjuicio de que consigne a los responsables ante las autoridades competentes, si el acto u omisión implica la comisión de algún delito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 64.
 
-Se impondrán multas de 10 a 50 salarios mínimos vigentes en la zona a quienes:
+Se impondrán multas de diez a cincuenta unidades de medida y actualización a quienes:
 
 > <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2006)</small>
 
@@ -731,9 +733,11 @@ III.- No revaliden su fierro o marca de acuerdo a lo establecido en el Artículo
 
 IV.- Se dediquen a la producción y venta de las abejas reinas y no observen lo previsto en el Artículo 36.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 65.
 
-Se impondrá una multa por el valor de 50 a 100 salarios mínimos vigentes en la zona a quienes:
+Se impondrá una multa de cincuenta a cien unidades de medida y actualización a quienes:
 
 I.- Invadan intencionalmente la zona apícola de otro productor.
 
@@ -850,3 +854,15 @@ Los recursos que hasta la entrada en vigor del presente Decreto se encuentren en
 ###### ARTÍCULO CUARTO.
 
 El Ejecutivo del Estado deberá expedir las reformas al Reglamento de la Ley en un término que no exceda de 90 días a partir de la entrada en vigor del presente Decreto.
+
+D.O. 28. DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
