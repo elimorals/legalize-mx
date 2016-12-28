@@ -4,7 +4,7 @@ identifier: "YUC-ley-sobre-el-uso-de-medios-electronicos-y-firma-electronica-681
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-13"
-last_updated: "2009-04-13"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY SOBRE EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA DEL ESTADO DE YUCATAN
 
-LEY SOBRE EL USO DE MEDIOS ELECTRONICOS Y FIRMA ELECTRONICA DEL ESTADO DE YUCATAN
+LEY SOBRE EL USO DE MEDIOS ELECTRÓNICOS Y FIRMA ELECTRÓNICA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 13 de abril de 2009.
 
@@ -435,7 +435,9 @@ VIII.- Proporcionar su domicilio y dirección electrónica;
 
 IX.- Pagar los derechos correspondientes al ejercicio de esta actividad;
 
-X.- Garantizar las responsabilidades en que pudiere incurrir en el ejercicio de su actividad, debiendo otorgar y mantener vigente ante la Autoridad Certificadora, el equivalente a 500 veces el salario mínimo vigente en la zona económica que corresponda al Estado, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+X.- Garantizar las responsabilidades en que pudiere incurrir en el ejercicio de su actividad, debiendo otorgar y mantener vigente ante la Autoridad Certificadora, el equivalente a quinientas unidades de medida y actualización, y
 
 XI.- Las demás que establezca esta Ley, su Reglamento y otras disposiciones aplicables.
 
@@ -554,3 +556,17 @@ GOBERNADORA DEL ESTADO
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
