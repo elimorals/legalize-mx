@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fraccionamientos-del-estado-de-yucatan-8157"
 country: "mx"
 rank: "ley"
 publication_date: "1985-09-26"
-last_updated: "1985-09-26"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE FRACCIONAMIENTOS DEL ESTADO DE YUCATAN
 
-LEY DE FRACCIONAMIENTOS DEL ESTADO DE YUCATAN
+LEY DE FRACCIONAMIENTOS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial el Jueves 26 de Septiembre de 1985.
 
@@ -815,9 +815,11 @@ El fraccionador no podrá enajenar o conceder el uso de los lotes del fraccionam
 
 Los servidores públicos del Gobierno del Estado y de los Ayuntamientos que incurran en violación a las disposiciones de la presente Ley, serán sancionados con amonestaciones, suspensión de su cargo hasta de hasta por 15 días, según la gravedad de la infracción, y en caso de reincidencia destitución del mismo, sin perjuicio de la responsabilidad penal en que hubieren incurrido.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 65.
 
-Los Notarios y Escribanos Públicos en ejercicio no autorizarán escrituras públicas ni certificarán documentos en los que se consignen operaciones que contravengan lo dispuesto en esta Ley. La violación de lo anterior será sancionada con multa de 10 a 100 veces el salario mínimo diario general de la zona.
+Los Notarios y Escribanos Públicos en ejercicio no autorizarán escrituras públicas ni certificarán documentos en los que se consignen operaciones que contravengan lo dispuesto en esta ley. La violación de lo anterior será sancionada con multa de diez a cien unidades de medida y actualización.
 
 ###### ARTICULO 66.
 
@@ -837,13 +839,17 @@ b) Advertir al público, empleando los medios publicitarios que consideren más 
 
 c) En el caso de que no estuvieren cubiertas las obligaciones fiscales previstas en esta Ley u otras disposiciones legales aplicables y que sean a cargo del fraccionador, se procederá en los términos del artículo anterior.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 69.
 
-Se impondrá multa de 10 a 100 veces el salario mínimo diario general de la zona al que utilizando cualquier tipo de publicidad, ofrezca en venta lotes de terrenos de fraccionamientos que no hayan sido debidamente autorizados.
+Se impondrá multa de diez a cien unidades de medida y actualización al que utilizando cualquier tipo de publicidad ofrezca en venta lotes de terrenos de fraccionamientos que no hayan sido debidamente autorizados.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 70.
 
-Las infracciones no previstas en este capítulo, se sancionarán con multa hasta de 100 veces el salario mínimo diario general de la zona, según la gravedad de la falta.
+Las infracciones no previstas en este capítulo se sancionarán con multa de una a cien unidades de medida y actualización, según la gravedad de la falta.
 
 ## TRANSITORIOS
 
@@ -862,3 +868,17 @@ VICTOR M. CERVERA PACHECO.
 EL SECRETARIO DE GOBIERNO
 
 ABOG. ORLANDO A. PAREDES LARA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
