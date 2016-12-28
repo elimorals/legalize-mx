@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2016-03-29"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -2549,9 +2549,11 @@ En los contratos de prestación de servicios de cualquier naturaleza, se estará
 
 A falta de reglamentación expresa, se estará a lo dispuesto en las Leyes de la materia.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 159.
 
-Se entiende como servicios conexos los contratados por el Ayuntamiento, para la realización de funciones específicas, especializadas y calificadas, que se requieran para la programación y realización de obras y servicios públicos. Tratándose de contratos que en su conjunto excedan en un ejercicio anual de cuatro mil salarios mínimos vigentes en el Estado, se requerirá autorización del Cabildo.
+Se entiende como servicios conexos los contratados por el Ayuntamiento, para la realización de funciones específicas, especializadas y calificadas, que se requieran para la programación y realización de obras y servicios públicos. Tratándose de contratos que en su conjunto excedan en un ejercicio anual de cuatro mil unidades de medida y actualización, se requerirá autorización del Cabildo.
 
 #### SECCIÓN SEGUNDA. De las Adquisiciones y Arrendamientos
 
@@ -2565,9 +2567,13 @@ La convocatoria establecerá los términos, requisitos, montos, condiciones y de
 
 No será necesaria la licitación para las adquisiciones o arrendamientos de bienes muebles y para la contratación de servicios, siempre que se trate de:
 
-I.- Operaciones por adjudicación directa, cuando el monto máximo no exceda de tres mil salarios mínimos diarios vigentes en el Estado, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- Operaciones mediante adjudicación por invitación, habiéndose considerado previamente al menos tres propuestas, cuando el monto máximo no exceda de diez mil salarios mínimos diarios vigentes en el Estado.
+I.- Operaciones por adjudicación directa, cuando el monto máximo no exceda de tres mil unidades de medida y actualización, y
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Operaciones mediante adjudicación por invitación, habiéndose considerado previamente al menos tres propuestas, cuando el monto máximo no exceda de diez mil unidades de medida y actualización.
 
 El Cabildo establecerá el contenido de la convocatoria y demás disposiciones relativas, conforme al Reglamento que al efecto se expida, y a lo dispuesto en las Leyes en la materia.
 
@@ -2597,9 +2603,13 @@ En el día y hora señalados, se procederá a la apertura de los sobres que cont
 
 No será necesaria la licitación, siempre que se refieran a:
 
-I.- Operaciones por adjudicación directa, cuando el monto máximo no exceda de tres mil salarios mínimos diarios vigentes en el Estado, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- Operaciones por adjudicación por invitación, habiéndose considerado previamente al menos tres propuestas, cuando el monto máximo no exceda de diez mil salarios mínimos diarios vigentes en el Estado.
+I.- Operaciones por adjudicación directa, cuando el monto máximo no exceda de tres mil unidades de medida y actualización, y
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Operaciones por adjudicación por invitación, habiéndose considerado previamente al menos tres propuestas, cuando el monto máximo no exceda de diez mil unidades de medida y actualización.
 
 El Cabildo establecerá el contenido de la convocatoria y demás disposiciones relativas, conforme al Reglamento que al efecto se expida, y a lo dispuesto en las Leyes en la materia.
 
@@ -2873,7 +2883,9 @@ Cuando dos o más ordenamientos, establezcan distintas sanciones, se aplicará l
 
 Serán medios de apremio:
 
-I.- Multa de uno a diez días de salario mínimo vigente; si el infractor fuese jornalero obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I.- Multa de una a diez unidades de medida y actualización; si el infractor fuese jornalero obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día;
 
 II.- El auxilio de la fuerza pública, y
 
@@ -3231,7 +3243,9 @@ Los Regidores, así como, los funcionarios públicos municipales designados por 
 
 Los servidores públicos municipales, durante el desempeño de su empleo, cargo o comisión, y dos años después de haberlos concluido, no podrán solicitar, aceptar o recibir, por sí o por interpósita persona, dinero o cualquier donación que fundadamente se presuma se hace con motivo de servicios prestados o beneficios indebidos otorgados durante el ejercicio de su función.
 
-Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral, durante un año cuando el valor acumulado durante el mismo, no sea superior a diez veces el salario mínimo diario vigente en el Estado.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral, durante un año, cuando el valor acumulado no sea superior a diez unidades de medida y actualización.
 
 ###### Artículo 222.
 
@@ -3265,7 +3279,9 @@ La suspensión en el empleo, cargo o comisión, será de entre tres a noventa d�
 
 Las sanciones económicas, se impondrán cuando se obtenga un beneficio indebido o se cause daño al patrimonio municipal y consistirán en un monto equivalente de hasta dos tantos del lucro obtenido o del daño causado.
 
-La inhabilitación se impondrá como consecuencia de un acto u omisión que implique lucro, o cause daño al patrimonio municipal y tendrá una duración de entre seis meses a tres años, si el monto del lucro o del daño no excede de cien veces el salario mínimo vigente en el Estado y de tres a diez años, si excede de dicho límite. Esta sanción se podrá aplicar conjuntamente con la económica.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+La inhabilitación se impondrá como consecuencia de un acto u omisión que implique lucro, o cause daño al patrimonio municipal y tendrá una duración de entre seis meses a tres años, si el monto del lucro o del daño no excede de cien unidades de medida y actualización y de tres a diez años, si excede de dicho límite. Esta sanción se podrá aplicar conjuntamente con la económica.
 
 #### SECCIÓN TERCERA. DE LA DETERMINACIÓN DE SANCIONES
 
@@ -3460,3 +3476,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Derogación tácita
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
