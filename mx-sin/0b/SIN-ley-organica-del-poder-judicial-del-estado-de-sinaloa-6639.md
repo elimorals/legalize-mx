@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-poder-judicial-del-estado-de-sinaloa-6639"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-10"
-last_updated: "2014-05-30"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 10 de abril de 1995.
 
@@ -913,7 +913,9 @@ II.- Los miembros de los Cuerpos de Seguridad Pública del Estado;
 
 III.- Las Autoridades de Tránsito y Transporte.
 
-Tienen ese carácter y están igualmente obligados a cumplir las órdenes que dentro de sus facultades dicten las autoridades judiciales, los peritos o intérpretes oficiales, los Consejos Locales de Tutela o sus equivalentes, el Director y los Delegados del Consejo Tutelar para Menores del Estado, la Procuraduría de la Defensa del Menor, los Oficiales del Registro Civil, los depositarios e interventores, los tutores o curadores, los síndicos e interventores de concurso, los albaceas e interventores de sucesiones, los Notarios Públicos y los demás a quienes las leyes así lo prevengan.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Tienen ese carácter y están igualmente obligados a cumplir las órdenes que dentro de sus facultades dicten las autoridades judiciales, los peritos o intérpretes oficiales, los Consejos Locales de Tutela o sus equivalentes, el titular del Centro de Internamiento para Adolescentes, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Sinaloa, los Oficiales del Registro Civil, los depositarios e interventores, los tutores o curadores, los síndicos e interventores de concurso, los albaceas e interventores de sucesiones, los Notarios Públicos y los demás a quienes las leyes así lo prevengan.
 
 Si alguno de dichos auxiliares se negare a cumplir sin causa justificada las órdenes de los Tribunales, será obligación de éstos hacerlo del conocimiento del Ministerio Público.
 
@@ -1472,3 +1474,15 @@ CUARTO. La reforma prevista en al (sic) artículo 21, fracción VII de la Ley Or
 QUINTO. Los ARTÍCULOS SEGUNDO, TERCERO, CUARTO, QUINTO Y SEXTO del presente Decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEXTO. Publíquese el presente Decreto en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 59 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, CÓDIGO DE PROCEDIMIENTOS FAMILIARES Y LEY ORGÁNICA DEL PODER JUDICIAL, TODOS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
