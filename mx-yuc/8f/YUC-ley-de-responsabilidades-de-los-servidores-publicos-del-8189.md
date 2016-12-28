@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-responsabilidades-de-los-servidores-publicos-del-8189"
 country: "mx"
 rank: "ley"
 publication_date: "1989-03-09"
-last_updated: "2014-06-28"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 9 de marzo de 1989.
 
@@ -283,13 +283,15 @@ El Congreso del Estado o la Comisión respectiva, cuando se trate de diligencias
 
 El Juez practicará dentro de su jurisdicción las diligencias que se le encomienden, con estricta sujeción a las determinaciones que le comunique el Tribunal Superior de Justicia en auxilio del Congreso del Estado.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 428/2016 PUBLICADO EN EL D.O. DE 28 DE DICIEMBRE DE 2016, PÁGINA 11.]</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 31º.
 
 Tanto el inculpado como el denunciante o querellante, podrán solicitar de las oficinas o establecimientos públicos, las copias certificadas de documentos que pretendan ofrecer como prueba ante la Comisión respectiva o ante el Congreso del Estado.
 
-Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren, la Comisión o el Congreso del Estado a instancia del interesado, señalarán a la autoridad omisa un plazo razonable para que las expida bajo apercibimiento de imponerle una multa de 10 a 100 veces el salario mínimo vigente en la Capital del Estado, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiere solicitado las constancias, la multa se hará efectiva en su contra.
-
-Por otra parte, la Comisión o el Congreso del Estado solicitarán las copias certificadas de constancias que estimen necesarias para el procedimiento y si la autoridad de quien las solicitasen no las remite dentro del plazo discrecional que se les señale, se le impondrá la multa a que se refiere el párrafo anterior.
+Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora, y si no lo hicieren, la Comisión o el Congreso del Estado a instancia del interesado, señalarán a la autoridad omisa un plazo razonable para que las expida bajo apercibimiento de imponerle una multa de diez a cien unidades de medida y actualización, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiere solicitado las constancias, la multa se hará efectiva en su contra.
 
 ###### ARTICULO 32º.
 
@@ -453,7 +455,9 @@ V.- Sanción Económica.
 
 VI.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público, que será impuesta, por la autoridad jurisdiccional a solicitud, del superior jerárquico o de la Contraloría según el caso.
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que impliquen lucro o causen daños y perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien veces el salario mínimo mensual vigente en el Estado, y de tres a diez años si excede de dicho límite.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que impliquen lucro o causen daños y perjuicios, será de seis meses a tres años si el monto de aquellos no excede de cien unidades de medida y actualización, y de tres a diez años si excede de dicho límite.
 
 > <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2014)</small>
 
@@ -481,11 +485,13 @@ VI.- La reincidencia en el incumplimiento de obligaciones.
 
 VII.- El monto del beneficio, daño o perjuicio económico derivados del incumplimiento de obligaciones.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 47º.
 
-En caso de aplicación de sanciones económicas por beneficios obtenidos y daños y perjuicios causados por incumplimiento de las obligaciones establecidas en el artículo 39º., se aplicarán dos tantos del lucro obtenido y de los daños y perjuicios causados.
+En caso de aplicación de sanciones económicas por beneficios obtenidos y daños y perjuicios causados por incumplimiento de las obligaciones establecidas en el artículo 39º., se aplicarán hasta dos tantos del lucro obtenido y de los daños y perjuicios causados.
 
-Las sanciones económicas establecidas en este artículo se pagarán una vez determinadas en cantidad líquida, en su equivalencia en salarios mínimos vigentes al día de su pago.
+Las sanciones económicas establecidas en este artículo se pagarán una vez determinadas en cantidad líquida, en su equivalencia en unidades de medida y actualización.
 
 ###### ARTICULO 48º.
 
@@ -535,9 +541,11 @@ Incurrirán en responsabilidad administrativa los servidores públicos de las co
 
 En los mismos términos, procederán los Ayuntamientos.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 52º.
 
-La Contraloría interna de cada dependencia será competente para imponer sanciones disciplinarias, excepto las económicas cuyo monto sea superior a cien veces el salario mínimo diario vigente, las que están reservadas exclusivamente a la Secretaría de la Contraloría, que comunicará los resultados del procedimiento al titular de la dependencia o entidad. En este último caso, la Contraloría interna, previo informe al superior jerárquico, turnará el asunto a la Contraloría del Estado.
+La Contraloría interna de cada dependencia será competente para imponer sanciones disciplinarias, excepto las económicas cuyo monto sea superior a cien unidades de medida y actualización, las que están reservadas exclusivamente a la Secretaría de la Contraloría General, que comunicará los resultados del procedimiento al titular de la dependencia o entidad. En este último caso, la Contraloría interna, previo informe al superior jerárquico, turnará el asunto a la Secretaría de la Contraloría General.
 
 ###### ARTICULO 53.
 
@@ -549,9 +557,11 @@ Cuando se trate de servidores públicos municipales, el Presidente Municipal dar
 
 Si de las investigaciones y auditorías que realice la Contraloría apareciera la responsabilidad de los servidores públicos, informará a la contraloría interna de la dependencia correspondiente para que proceda a la investigación y sanción disciplinaria por dicha responsabilidad, si fuera de su competencia. Si se trata de responsabilidades mayores cuyo conocimiento sólo compete a la Contraloría, ésta se avocará directamente al asunto, informando de ello al Titular de la dependencia y a la Contraloría de la misma para que participe o coadyuve en el procedimiento de determinación de responsabilidades.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 55º.
 
-Las Dependencias, las Autoridades correspondientes y la Contraloría, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de cien veces el salario mínimo diario vigente en el Estado.
+Las Dependencias, las Autoridades correspondientes y la Contraloría, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor por una sola vez, cuando lo estime pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por este no exceda de cien unidades de medida y actualización.
 
 ###### ARTICULO 56º.
 
@@ -647,7 +657,9 @@ Si el servidor público presunto responsable confesare su responsabilidad por el
 
 Para el cumplimiento de las atribuciones que le confiere esta Ley, la Contraloría, las Dependencias y los Ayuntamientos podrán emplear los siguientes medios de apremio:
 
-I.- Sanción económica de hasta veinte veces el salario mínimo diario vigente en el Estado.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I.- Sanción económica de una a veinte unidades de medida y actualización.
 
 II.- Auxilio de la fuerza pública.
 
@@ -659,7 +671,9 @@ Si existe resistencia al mandamiento legítimo de autoridad se estará a lo que 
 
 Las facultades del superior jerárquico y de la Contraloría para imponer las sanciones que esta Ley prevé se sujetarán a lo siguiente:
 
-I.- Prescribirán en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez veces el salario mínimo diario vigente en el Estado, o si la responsabilidad no fuese estimable en dinero. El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fué de carácter continuo.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I.- Prescribirán en tres meses si el beneficio obtenido o el daño causado por el infractor no excede de diez unidades de medida y actualización, o si la responsabilidad no fuese estimable en dinero. El plazo de prescripción se contará a partir del día siguiente a aquel en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
 
 II.- En los demás casos prescribirán en tres años.
 
@@ -745,7 +759,9 @@ Para los efectos de esta Ley y del Código Penal del Estado de Yucatán, se comp
 
 Durante el desempeño de su empleo, cargo o comisión, y un año después, los servidores públicos no podrán solicitar, aceptar o recibir por sí, o por interpósita persona, dinero o cualquier otra donación, servicio, empleo, cargo o comisión para sí o para las personas mencionadas en la fracción XIII del artículo 39 y que procedan de personas cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público en el desempeño de su empleo, cargo o comisión, que determinen conflicto de intereses.
 
-Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente, durante un año, cuando el valor acumulado durante ese año no exceda de 20 veces el salario mínimo diario vigente en la capital del Estado, al momento de su recepción.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente, durante un año, cuando el valor acumulado durante ese año no exceda de veinte unidades de medida y actualización, al momento de su recepción.
 
 En ningún caso se podrán recibir de dichas personas títulos-valor, bienes inmuebles o cesiones de derechos sobre juicios o controversias en los que se dirima, la titularidad de los derechos de posesión o propiedad sobre bienes de cualquier clase.
 
@@ -846,3 +862,15 @@ A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del T
 Décimo. Derogación tácita
 
 A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
