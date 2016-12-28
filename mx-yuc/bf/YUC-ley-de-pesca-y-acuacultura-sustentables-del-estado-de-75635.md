@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-75635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-06"
-last_updated: "2013-02-15"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS OCTAVO, NOVENO Y DÉCIMO TRANSITORIOS DEL DECRETO NÚMERO 40, PUBLICADO EN EL D.O. DE 15 DE FEBRERO DE 2013, LAS REFERENCIAS QUE SE HAGAN A LA DIRECCIÓN DE PESCA Y ACUACULTURA DE LA SECRETARÍA DE FOMENTO AGROPECUARIO Y PESQUERO Y/O AL DIRECTOR DE PESCA Y ACUACULTURA DE LA SECRETARÍA DE FOMENTO AGROPECUARIO; A LA COORDINACIÓN PARA EL DESARROLLO DE LA ZONA COSTERA DE YUCATÁN; SE ENTENDERÁN QUE SE REFIEREN, EN TODOS LOS CASOS, A LA COMISIÓN DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN Y/O AL COMISIONADO DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN; ASÍ COMO, LAS REFERENCIAS QUE SE HAGAN AL CONSEJO ESTATAL DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN, SE ENTENDERÁN QUE SE REFIEREN, EN TODOS LOS CASOS, AL CONSEJO DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE YUCATÁN.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2010.
 
@@ -919,7 +917,9 @@ Las infracciones a los preceptos de esta Ley y sus reglamentos, serán sancionad
 
 I.- Amonestación con apercibimiento;
 
-II.- Multa de treinta a dos mil veces el Salario Mínimo Diario General vigente en el Estado, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Multa de treinta a dos mil unidades de medida y actualización, y
 
 III.- Suspensión o revocación de los permisos y autorizaciones correspondientes.
 
@@ -1034,3 +1034,15 @@ El Poder Ejecutivo del Estado, en un plazo no mayor a 180 días naturales contad
 ###### ARTÍCULO DÉCIMO QUINTO.
 
 Se derogan todas las disposiciones legales de igual o menor rango, que se opongan a este Decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
