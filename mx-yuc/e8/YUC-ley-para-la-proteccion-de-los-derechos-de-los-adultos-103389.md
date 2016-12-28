@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-los-adultos-103389"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-03"
-last_updated: "2014-11-03"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 3 de noviembre de 2014.
 
@@ -511,7 +511,9 @@ IX. Las demás que le confiera esta ley y otras disposiciones legales y normativ
 
 Dependencia responsable
 
-La Secretaría de Salud será la autoridad responsable de verificar el cumplimiento de las disposiciones de este capítulo y podrá imponer las sanciones de amonestación o multa, de cincuenta a mil veces el salario mínimo general vigente, a las instituciones de atención y cuidado de los adultos mayores que incumplan las obligaciones o condiciones previstas en los artículos 27 y 28 de esta ley.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría de Salud será la autoridad responsable de verificar el cumplimiento de las disposiciones de este capítulo y podrá imponer las sanciones de amonestación o multa, de cincuenta a mil unidades de medida y actualización, a las instituciones de atención y cuidado de los adultos mayores que incumplan las obligaciones o condiciones previstas en los artículos 27 y 28 de esta ley
 
 En caso de reincidencia en el incumplimiento de las obligaciones establecidas en las fracciones II y XI del artículo 27 o de las condiciones previstas en el artículo 28 la Secretaría de Salud podrá sancionar a las instituciones de atención y cuidado de los adultos mayores con su clausura.
 
@@ -541,7 +543,9 @@ La Procuraduría de la Defensa del Menor y la Familia deberá informar al adulto
 
 Infracciones y sanciones
 
-La Procuraduría de la Defensa del Menor y la Familia podrá imponer las sanciones de amonestación o multa, de veinte a cien veces el salario mínimo general vigente, a los familiares de los adultos mayores que les impidan el acceso o ejercicio de los derechos establecidos en el artículo 5 de esta ley o realicen contra ellos cualquier acto que implique explotación, abandono, marginación, discriminación o humillación.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+La Procuraduría de la Defensa del Menor y la Familia podrá imponer las sanciones de amonestación o multa, de veinte a cien unidades de medida y actualización, a los familiares de los adultos mayores que les impidan el acceso o ejercicio de los derechos establecidos en el artículo 5 de esta ley o realicen contra ellos cualquier acto que implique explotación, abandono, marginación, discriminación o humillación.
 
 Para la imposición de las sanciones por inobservancia de esta ley, se tomarán en cuenta la gravedad de la infracción, las condiciones económicas del infractor y la reincidencia o habitualidad.
 
@@ -612,3 +616,17 @@ Gobernador del Estado de Yucatán
 Víctor Edmundo Caballero Durán
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
