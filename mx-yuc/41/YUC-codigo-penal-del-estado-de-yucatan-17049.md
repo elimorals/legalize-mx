@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2016-06-18"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -437,23 +437,19 @@ Para los efectos de este Código se consideran inimputables aquellas personas ca
 
 ### CAPÍTULO IV. SANCIÓN PECUNIARIA
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 32.
 
-La sanción pecuniaria comprende la multa y la reparación del daño. La multa consiste en el pago de una suma de dinero al Estado, la cual no podrá exceder de quinientos días-multa, salvo los casos que la propia Ley señale. El día-multa equivale a la percepción neta diaria del sentenciado en el momento de consumar el delito, tomando en cuenta todos sus ingresos.
+La sanción pecuniaria comprende la multa y la reparación del daño. La multa consiste en el pago de una suma de dinero al estado, la cual no podrá exceder de quinientos días-multa, salvo los casos que la propia ley señale. El día-multa equivale a la percepción neta diaria del sentenciado en el momento de consumar el delito, tomando en cuenta todos sus ingresos.
 
-Para los efectos de este Código, el límite inferior del día-multa será el equivalente al salario mínimo diario vigente en el Estado, en el lugar y época en que se consumó el delito.
+Para los efectos de este Código, el límite inferior del día-multa será el equivalente a la unidad de medida y actualización en la época en que se consumó el delito.
 
-Por lo que toca al delito continuado, se atenderá al salario mínimo vigente en el Estado en el momento de consumarse la última conducta.
+Por lo que toca al delito continuado, se atenderá a la unidad de medida y actualización en el momento de consumarse la última conducta.
 
-Para el delito permanente, se considerará el salario mínimo en vigor en el Estado en el momento en que cesó la consumación.
+Para el delito permanente, se considerará a la unidad de medida y actualización en el momento en que cesó la consumación.
 
 Cuando se acredite que el sentenciado no puede pagar la multa o solamente puede cubrir parte de ella, la autoridad judicial puede substituirla, total o parcialmente, por prestación de trabajo en favor de la comunidad.
-
-> <small>(DEROGADO SEXTO PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
-
-> <small>(DEROGADO SÉPTIMO PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
-
-> <small>(DEROGADO OCTAVO PÁRRAFO, D.O. 2 DE MAYO DE 2016)</small>
 
 ###### ARTÍCULO 33.
 
@@ -467,7 +463,9 @@ II. El resarcimiento del daño material y moral causados, así como la indemniza
 
 La cuantía de la reparación será fijada por la autoridad judicial según el daño que sea preciso reparar, de acuerdo con los elementos obtenidos en el proceso.
 
-En los casos de lesiones, la reparación del daño comprenderá los gastos relativos a la asistencia médica, quirúrgica, rehabilitación, medicamentos y material de curación, los aparatos de prótesis y ortopedia necesarios y la indemnización correspondiente que se fijará de acuerdo con lo dispuesto en la Ley Federal del Trabajo, según las circunstancias de la víctima, y tomando como base la utilidad o salario que percibía y si no percibía utilidad o salario o no pudieren determinarse éstos, el pago se acordará tomando como base el salario mínimo general vigente en el Estado, en el momento de la ejecución del delito.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+En los casos de lesiones, la reparación del daño comprenderá los gastos relativos a la asistencia médica, quirúrgica, rehabilitación, medicamentos y material de curación, los aparatos de prótesis y ortopedia necesarios y la indemnización correspondiente que se fijará de acuerdo con lo dispuesto en la Ley Federal del Trabajo, según las circunstancias de la víctima, y tomando como base la utilidad o salario que percibía y si no percibía utilidad o salario o no pudieren determinarse éstos, el pago se acordará tomando como base la unidad de medida y actualización, en el momento de la ejecución del delito.
 
 En los casos de homicidio, la indemnización correspondiente se fijará en los mismos términos establecidos en el párrafo que antecede, y a lo dispuesto en el Libro Tercero, Título Primero, Capítulo V del Código Civil vigente en el Estado, que se refiere a las obligaciones que nacen de los actos ilícitos.
 
@@ -619,7 +617,9 @@ La inhabilitación es la incapacidad para obtener subvenciones y ayudas pública
 
 La sanción pecuniaria para las personas morales comprende la multa y la reparación del daño.
 
-El día-multa equivale a la percepción neta diaria de la persona moral en el momento de consumar el delito, sin que pueda ser inferior al triple del equivalente del salario mínimo diario vigente en el estado, en el lugar y época en que se consumó el delito.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+El día-multa equivale a la percepción neta diaria de la persona moral en el momento de consumar el delito, sin que pueda ser inferior al triple del equivalente a la unidad de medida y actualización en la época en que se consumó el delito.
 
 Para fijar el día-multa, además de lo previsto en los párrafos tercero y cuarto del artículo 32; el órgano jurisdiccional tomará en cuenta las siguientes circunstancias:
 
@@ -2057,13 +2057,19 @@ b) Fuera servidor público; además, será inhabilitado para formar parte del se
 
 c) Fuera dirigente o ministro de culto religioso.
 
-> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ARTÍCULO 216 TER. La tentativa del delito de trata de personas, se sancionará con las dos terceras partes de la sanción prevista para el delito consumado, así como multa de cien a doscientos días de salarios mínimos vigentes en la zona.
+ARTÍCULO 216 TER. La tentativa del delito de trata de personas se sancionará con las dos terceras partes de la sanción prevista para el delito consumado, así como multa de cien a doscientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2011)</small>
 
 Para imponer esta sanción, el juez deberá valorar el grado a que llegó la ejecución del delito y la magnitud del peligro producido o no evitado al bien protegido por el tipo penal en cuestión.
 
+> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2011)</small>
+
 En el caso que no fuere posible determinar el daño que se pretendió causar, cuando éste fuera determinante para la correcta adecuación atípica, se le impondrá la mitad de la sanción señalada en el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2011)</small>
 
 El delito de Trata de Personas se perseguirá de oficio y se regirá por lo establecido por este Código, el Código de Procedimientos Penales y la Ley para Prevenir y Combatir la Trata de Personas del Estado de Yucatán. Cuando en la comisión del delito de trata de personas concurra otro delito, se aplicarán las reglas del concurso establecidas en la Legislación Penal del Estado.
 
@@ -2991,6 +2997,8 @@ III. Al que, sin tener título legal, se atribuya el carácter profesional y eje
 
 ### CAPÍTULO I. REGLAS GENERALES
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 291.
 
 Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en los Capítulos I y II de este Título se acumulará a las falsificaciones el delito que por medio de ellas hubiere cometido el infractor.
@@ -3241,7 +3249,7 @@ DELITOS CONTRA EL PATRIMONIO
 
 ###### ARTÍCULO 317.
 
-Cuando se hable de salario en este Título, se entenderá que se refiere al mínimo general vigente en el Estado en el momento de consumarse el delito si fuere instantáneo; en el momento consumativo de la última conducta si fuere continuado y en el momento en que cesó la consumación si fuere permanente.
+Cuando se hable de unidad de medida y actualización en este título, se entenderá que se refiere a la unidad de medida y actualización, en su valor actualizado en el momento de consumarse el delito si fuere instantáneo; en el momento consumativo de la última conducta si fuere continuado y en el momento en que cesó la consumación si fuere permanente.
 
 ### CAPÍTULO V. ATAQUES PELIGROSOS
 
@@ -3249,17 +3257,21 @@ Cuando se hable de salario en este Título, se entenderá que se refiere al mín
 
 Comete el delito de abuso de confianza quien con perjuicio de alguien disponga para sí o para otro, de cantidad de dinero en numerario, en billetes de banco o en papel moneda; de un documento que importe obligación, liberación o transmisión de derechos; o de cualquier otra cosa ajena mueble de la cual se le haya transferido la tenencia y no el dominio.
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-Se sancionará con prisión de tres meses a un año y de veinte a cuarenta días-multa, cuando el monto del ilícito no exceda de cien días de salario.
+Se sancionará con prisión de tres meses a un año y de veinte a cuarenta días-multa, cuando el monto del ilícito no exceda de cien unidades de medida y actualización.
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-Si excede de cien pero no de trescientos días de salario la prisión será de uno a dos años y de veinticinco a sesenta días multa.
+Si excede de cien pero no de trescientas unidades de medida y actualización la prisión será de uno a dos años y de veinticinco a sesenta días multa.
 
-Si excede de trescientos pero no de seiscientos días de salario, la prisión será de dos a cuatro años y de sesenta a cien días-multa.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-Si el monto es mayor de seiscientos días de salario, la prisión será de cuatro a diez años y de cien a doscientos días-multa.
+Si excede de trescientos pero no de seiscientas unidades de medida y actualización, la prisión será de dos a cuatro años y de sesenta a cien días-multa.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Si el monto es mayor de seiscientas unidades de medida y actualización, la prisión será de cuatro a diez años y de cien a doscientos días-multa.
 
 > <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
@@ -3367,19 +3379,21 @@ XXII. Siendo patrón, dolosamente simule créditos o cualquier otra obligación 
 
 El delito de fraude se sancionará de acuerdo con las siguientes reglas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O. 7 DE DICIEMBRE DE 2010)</small>
-
-I. Cuando el valor de lo defraudado no exceda de cien veces el salario, se impondrá de seis meses a un año seis meses de prisión o de cuarenta a cien días-multa y de cuarenta a cien días de trabajo en favor de la comunidad;
+I. Cuando el valor de lo defraudado no exceda de cien unidades de medida y actualización, se impondrá de seis meses a un año seis meses de prisión o de cuarenta a cien días-multa y de cuarenta a cien días de trabajo en favor de la comunidad;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 II. (DEROGADA, D.O. 7 DE DICIEMBRE DE 2010)
 
-III. Con prisión de un año seis meses a cinco años y de cien a doscientos días-multa, cuando el valor de lo defraudado excediere de cien, pero no de seiscientas veces el salario;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV. Con prisión de cinco a diez años y de doscientos a quinientos días-multa, si el valor de lo defraudado fuere mayor de seiscientas veces el salario, y
+III. Con prisión de un año seis meses a cinco años y de cien a doscientos días-multa, cuando el valor de lo defraudado excediere de cien, pero no de seiscientas unidades de medida y actualización;
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV. Con prisión de cinco a diez años y de doscientos a quinientos días-multa, si el valor de lo defraudado fuere mayor de seiscientas unidades de medida y actualización, y
 
 V. La reparación del daño proveniente de la fracción XVIII del Artículo 324 de este Código, será regulado en la sentencia de gradación del concurso.
 
@@ -3513,21 +3527,21 @@ II. El aprovechamiento de energía eléctrica, agua o cualquier otro fluido, eje
 
 Para la aplicación de la sanción se dará por consumado el robo desde el momento en que el agente activo tenga en su poder la cosa robada, aun cuando la abandone o lo desapoderen de ella.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 333.
 
 El robo simple se sancionará de acuerdo con las siguientes reglas:
 
-> <small>(REFORMADA, D.O. 14 DE NOVIEMBRE DE 2011)</small>
-
-I. Cuando el valor de lo robado no exceda de cien veces el salario, se impondrá de seis meses a dos años de prisión y de veinte a cincuenta días-multa.
+I. Cuando el valor de lo robado no exceda de cien unidades de medida y actualización, se impondrá de seis meses a dos años de prisión y de veinte a cincuenta días-multa.
 
 En este caso, cuando ocurra alguna calificativa o la violencia, previstos respectivamente en los artículos 335 y 336 de este Código, la sanción dejará de ser alternativa y se aplicarán ambas;
 
-II. Cuando exceda de cien veces el salario, pero no de trescientas, la sanción será de dos a cuatro años de prisión y de cincuenta a cien días-multa;
+II. Cuando exceda de cien unidades de medida y actualización, pero no de trescientas, la sanción será de dos a cuatro años de prisión y de cincuenta a cien días-multa;
 
-III. Cuando exceda de trescientas veces el salario, pero no de ochocientas, la sanción será de cuatro a siete años de prisión y de cien a doscientos días-multa, y
+III. Cuando exceda de trescientas unidades de medida y actualización, pero no de ochocientas, la sanción será de cuatro a siete años de prisión y de cien a doscientos días-multa, y
 
-IV. Cuando exceda de ochocientas veces el salario, la sanción será de siete a doce años de prisión y de doscientos a cuatrocientos días-multa.
+IV. Cuando exceda de ochocientas unidades de medida y actualización, la sanción será de siete a doce años de prisión y de doscientos a cuatrocientos días-multa.
 
 ###### ARTÍCULO 334.
 
@@ -3693,7 +3707,9 @@ El infractor quedará exonerado de toda sanción en los casos siguientes:
 
 I. Cuando sin engaños ni medios violentos, se apodere una sola vez de los objetos estrictamente indispensables para satisfacer sus imperiosas necesidades personales o familiares del momento, y
 
-II. Cuando el valor de lo robado no rebase de diez veces el salario, sea restituido por el responsable espontáneamente y pague éste todos los daños y perjuicios, siempre que no se haya ejecutado el robo por medio de violencia.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Cuando el valor de lo robado no rebase de diez unidades de medida y actualización, sea restituido por el responsable espontáneamente y pague este todos los daños y perjuicios, siempre que no se haya ejecutado el robo por medio de violencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2011)</small>
 
@@ -4011,13 +4027,11 @@ II. Siendo padre o madre lesione o prive de la vida al corruptor de alguno de su
 
 De las lesiones o muerte que a una persona cause algún animal, será responsable quien con esa intención lo azuce o lo suelte o haga esto último por descuido.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 387
 
-BIS. Se impondrá una sanción de dos a seis años de prisión y multa de cuarenta a ochenta días de salario mínimo, a los que sustraigan órganos o partes del cuerpo humano sin la autorización de quien corresponda darla y sin cumplir los requisitos legales correspondientes.
+BIS. Se impondrá una sanción de dos a seis años de prisión y multa de cuarenta a ochenta unidades de medida y actualización, a los que sustraigan órganos o partes del cuerpo humano sin la autorización de quien corresponda darla y sin cumplir los requisitos legales correspondientes.
 
 ### CAPÍTULO ÚNICO
 
@@ -4470,3 +4484,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 Segundo. Obligación normativa
 
 El director general de los Servicios de Salud de Yucatán deberá presentar a la junta de gobierno, para su aprobación, el proyecto de modificación de su estatuto orgánico, para determinar la unidad administrativa que realizará las atribuciones que la Ley de Voluntad Anticipada del Estado de Yucatán asigna a los Servicios de Salud de Yucatán, dentro de los noventa días naturales siguientes a la entrada en vigor de este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
