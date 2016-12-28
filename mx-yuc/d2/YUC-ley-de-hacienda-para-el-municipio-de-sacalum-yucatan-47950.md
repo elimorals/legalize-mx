@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sacalum-yucatan-47950"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2015-12-18"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -435,31 +435,51 @@ IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y 
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 41.
 
-Las licencias de funcionamiento que expida la Tesorería Municipal, serán gratuitas, excepto aquellas que autoricen el funcionamiento de establecimientos que de manera permanente o transitoria expendan bebidas alcohólicas, mismas contribuciones que se señalan en el Capítulo III del Título Cuarto de esta ley.
+Las licencias de funcionamiento serán expedidas por la Tesorería Municipal.
 
-Dichas licencias tendrán una duración de un año, con excepción de las expedidas por la administración municipal, en su último año de gobierno que concluirán el último día del período constitucional.
+Estarán vigentes desde el día de su otorgamiento hasta el día 31 de diciembre del año en que se soliciten, y deberán se (sic) revalidadas dentro de los primeros dos meses del año siguiente.
 
-No obstante lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento, cuando por la actividad de la persona física o moral, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En estos casos, el plazo de vigencia o la condición serán iguales a las expresadas por dichas dependencias.
+La revalidación de las licencias de funcionamiento estará vigente desde el día de su tramitación y hasta el día 31 de diciembre del año en que se tramiten.
 
-En ningún caso la vigencia de la licencia de funcionamiento excederá del período constitucional de la administración municipal que la expidió.
+La vigencia de las licencias de funcionamiento podrá concluir anticipadamente, e incluso condicionarse, cuando por la actividad de la persona física o moral que la solicita, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En dicho caso, el plazo de vigencia o la condición, serán iguales a las expresadas por dichas dependencias.
 
-Los interesados deberán revalidar sus licencias en los meses de enero y febrero de cada año o, en su caso, en los dos primeros meses de cada administración municipal.
+Las personas físicas o morales que soliciten licencias de funcionamiento, tendrán que presentar a la Tesorería Municipal, además del pedimento respectivo, los siguientes documentos:
 
-Las personas físicas o morales que deseen obtener la licencia municipal de funcionamiento, deberán presentar a la Tesorería Municipal los siguientes documentos:
+I.- El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio, contrato u otro documento que compruebe la legal posesión del mismo;
 
-a).- Certificado de no adeudar impuesto predial.
+II.- Licencia de uso de suelo;
 
-b).- Carta de uso de suelo.
+III.- Determinación sanitaria, en su caso;
 
-c).- Determinación sanitaria, en su caso.
+IV.- El recibo de pago del derecho correspondiente en su caso;
 
-Para la revalidación de la licencia municipal de funcionamiento deberán presentarse:
+V.- Copia del comprobante de inscripción en el Registro Federal de Contribuyentes;
 
-a).- Licencia de funcionamiento anterior.
+VI.- Copia del comprobante de su Clave Única de Registro de Población en su caso.
 
-b).- Certificado de no adeudar impuesto predial.
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Artículo 41 A.- Las personas físicas o morales que soliciten revalidar licencias de funcionamiento, tendrán que presentar a Tesorería Municipal, además del pedimento respectivo, los siguientes documentos:
+
+I.- Licencia de funcionamiento expedida por la administración municipal;
+
+II.- Documento que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio, contrato u otro documento que compruebe la legal posesión del mismo;
+
+III.- El recibo de pago del derecho correspondiente en su caso;
+
+IV.- Determinación sanitaria, en su caso;
+
+V.- Copia del comprobante de inscripción en el Registro Federal de Contribuyentes, y
+
+VI.- Copia del comprobante de su Clave Única de Registro de Población en su caso.
+
+Los requisitos de las fracciones V y VI, sólo se presentarán en caso de que esos datos no estén registrados en el Padrón Municipal.
+
+La licencia cuya vigencia termine de manera anticipada de conformidad con este Artículo, deberá revalidarse dentro de los treinta días naturales siguientes a su vencimiento.
 
 ## TÍTULO TERCERO. DE LOS IMPUESTOS
 
@@ -1249,27 +1269,29 @@ Las licencias de funcionamiento que se expidan por cualquiera de los conceptos a
 
 Cuando una licencia de funcionamiento se expida dentro de los primero dos meses del último año de ejercicio o dentro de los dos primeros meses del primer año de ejercicio de una administración municipal, la tarifa de la revalidación se reducirá en un 50 por ciento.
 
-Para que la Tesorería Municipal este en condiciones de expedir la Licencia de Funcionamiento o su revalidación, el peticionario deberá de acompañar, además de la documentación que se señala en el Artículo 41 de esta ley, el original o copia certificada de la Licencia de Salubridad o determinación sanitaria vigente expedida por la Secretaría de Salud del Estado de Yucatán.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Para que la Tesorería Municipal esté en condiciones de expedir la Licencia de Funcionamiento o su revalidación, el peticionario deberá de acompañar, además de la documentación que se señala en los artículos 41 y 41 A de esta ley, el original o copia certificada de la Licencia de Salubridad o determinación sanitaria vigente expedida por la Secretaría de Salud del Estado de Yucatán.
 
 TARIFA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 90.
 
-La tarifa de los derechos para la obtención de las licencias de funcionamiento de los establecimientos que se señalan en el artículo 88 de esta Ley, serán los siguientes:
+La tarifa de los derechos para la obtención de las licencias de funcionamiento de los establecimientos que expendan bebidas alcohólicas que se señalan en el artículo 88 de esta Ley, serán los siguientes:
 
 I.- Por apertura $15,525.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
-
 II.- Por revalidación $ 2,600.00
 
-III.- Por permisos eventuales $ 1,246.00
+III.- Por permisos eventuales $ 1,250.00
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Artículo 90 A.- El cobro de derechos por el otorgamiento (sic) licencias, permisos o autorizaciones para el funcionamiento de los demás establecimientos y locales comerciales o de servicios, se realizará con base en las siguientes tarifas:
+
+> <small>[N. DE E. VÉASE TARIFAS EN D.O. DE 28 DE DICIEMBRE DE 2016, PÁGINAS DE LA 83 A LA 85.]</small>
 
 DE LAS MULTAS Y CLAUSURAS
 
@@ -2094,3 +2116,11 @@ D.O. 18 DE DICIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 429/2016 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DZIDZANTÚN, MOTUL, MUNA, SACALUM, SUMA DE HIDALGO, TEMAX, TIZIMÍN Y UAYMA".]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
