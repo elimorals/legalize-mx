@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-al-medio-ambiente-del-estado-de-yucatan-76517
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-08"
-last_updated: "2014-04-25"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROTECCIÓN AL MEDIO AMBIENTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 8 de septiembre de 2010.
 
@@ -1425,7 +1425,9 @@ Cuando la autoridad ordene alguna de las medidas de seguridad previstas en esta 
 
 Las violaciones a los preceptos de esta Ley y su Reglamento, serán sancionadas administrativamente por la Secretaría o por los ayuntamientos en asuntos de su competencia, con las siguientes sanciones:
 
-I.- Multa por el equivalente de 10 a 50 mil días de salario mínimo general vigente en el Estado de Yucatán en el momento de imponer la sanción;
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I.- Multa de diez a cincuenta mil unidades de medida y actualización;
 
 En los casos de reincidencia, cuando las infracciones generen efectos negativos al ambiente el monto de la multa podrá ser hasta por tres veces el monto original impuesto, y
 
@@ -1552,3 +1554,15 @@ D.O. 25 DE ABRIL DE 2014.
 Artículo primero.- Las disposiciones de este Decreto entrarán en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo segundo.- Para los efectos de este Decreto, se deroga todo aquello que conforme a la normativa estatal se oponga al mismo.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
