@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-proteccion-civil-del-estado-de-yucatan-18114"
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-16"
-last_updated: "1999-08-16"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE PROTECCION CIVIL DEL ESTADO DE YUCATAN
 
-LEY DE PROTECCION CIVIL DEL ESTADO DE YUCATAN
+LEY DE PROTECCIÓN CIVIL DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial el Lunes 16 de Agosto de 1999.
 
@@ -1403,7 +1403,9 @@ Son sanciones administrativas:
 
 I. Amonestación;
 
-II. Multa por el equivalente de veinte a diez mil días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de veinte a diez mil unidades de medida y actualización;
 
 III. Arresto hasta por treinta y seis horas;
 
@@ -1534,3 +1536,17 @@ C. VICTOR MANUEL CERVERA PACHECO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
