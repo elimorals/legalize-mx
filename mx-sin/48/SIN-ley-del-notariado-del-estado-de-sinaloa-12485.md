@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-notariado-del-estado-de-sinaloa-12485"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-14"
-last_updated: "2016-05-16"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL NOTARIADO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 14 de octubre de 1998.
 
@@ -249,11 +249,9 @@ III. Registrar el sello, su firma, firma abreviada y el domicilio de su oficina 
 
 IV. Establecer oficina única para el desempeño de su cargo en el lugar de su adscripción donde tendrá su residencia efectiva;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MARZO DE 2010)</small>
-
-V. Durante los primeros cinco años de su ejercicio notarial, otorgar una garantía para el desempeño responsable de su actuación, equivalente a 1,150 días de salario mínimo vigente en el Estado; esta garantía podrá otorgarse mediante fianza, prenda, hipoteca o deposito en efectivo ante la Secretaría de Administración y Finanzas del Gobierno del Estado.
+V. Durante los primeros cinco años de su ejercicio notarial, otorgar una garantía para el desempeño responsable de su actuación, equivalente a 1,150 veces el valor diario de la Unidad de Medida y Actualización; esta garantía podrá otorgarse mediante fianza, prenda, hipoteca o depósito en efectivo ante la Secretaría de Administración y Finanzas del Gobierno del Estado.
 
 Después de los cinco años iniciales de ejercicio continuo de las funciones notariales, si el Notario no fuere sujeto de alguna reclamación económica por vía judicial o administrativa, no tendrá la obligación de otorgar la garantía a que se refiere este artículo.
 
@@ -1519,7 +1517,9 @@ e) Por incumplimiento de las obligaciones estipuladas en los artículos 16 y 122
 
 f) Cuando por queja presentada por el Consejo de Notarios o cualquiera de los Colegios de Notarios del Estado de Sinaloa, se acredite competencia desleal a base de reducir costos de las escrituras mediante el no pago de impuestos y derechos cuando las leyes fiscales los fijen y los actos jurídicos se coloquen dentro de los supuestos de la norma fiscal.
 
-II. Con multa de treinta a trescientos días de salario mínimo diario general vigente en el Estado:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Con multa de treinta a trescientas veces el valor diario de la Unidad de Medida y Actualización:
 
 a) Por no otorgar las facilidades al personal autorizado para realizar la inspección, así como no proporcionarle la información requerida, al que se refiere el artículo 154 de esta Ley.
 
@@ -1989,23 +1989,29 @@ Los Notarios, en el ejercicio de sus funciones, tendrán derecho a cobrar como h
 
 Por tramitar Testamentarías en los términos que establece el Código de Procedimientos Civiles del Estado de Sinaloa, independientemente de los honorarios que se causen por las distintas actas notariales, consideradas por hoja, se cobrará el 2% porciento sobre el valor de la masa hereditaria.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 196.
 
-Por consulta oral que no amerite el otorgamiento de escritura o acta, si se celebra en el despacho de la Notaría, cobrarán 11.51 salarios mínimo general diario vigente en el Estado, por hora.
+Por consulta oral que no amerite el otorgamiento de escritura o acta, si se celebra en el despacho de la Notaría, cobrarán 11.51 veces el valor diario de la Unidad de Medida y Actualización, por hora.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 197.
 
-Por cada consulta por escrito, lo que convengan las partes, a falta de convenio, según la importancia del asunto, las dificultades técnicas del negocio y su extensión, cobrarán 19.19 salarios mínimo general diario vigente en el Estado, por hora utilizada.
+Por cada consulta por escrito, lo que convengan las partes, a falta de convenio, según la importancia del asunto, las dificultades técnicas del negocio y su extensión, cobrarán 19.19 veces el valor diario de la Unidad de Medida y Actualización, por hora utilizada.
 
-###### ARTICULO 198.
-
-Por los trabajos notariales hechos fuera de las horas hábiles, cobrarán un 50% porciento más de la cuota ordinaria que corresponda.
-
-> <small>(F. DE E., P.O. 11 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 199.
 
-Cuando el Notario tenga que salir fuera de la ciudad de su residencia, cobrará, además de lo que le corresponde conforme a este arancel, a razón de 76.77 salarios mínimo general diario vigente en el Estado, siendo los viáticos, gastos y asistencia por cuenta del interesado.
+Cuando el Notario tenga que salir fuera de la ciudad de su residencia, cobrarán, además de lo que les corresponde conforme a este arancel, a razón de 76.77 veces el valor diario de la Unidad de Medida y Actualización, siendo los viáticos, gastos y asistencia por cuenta del interesado.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 199.
+
+Cuando el Notario tenga que salir fuera de la ciudad de su residencia, cobrarán, además de lo que les corresponde conforme a este arancel, a razón de 76.77 veces el valor diario de la Unidad de Medida y Actualización, siendo los viáticos, gastos y asistencia por cuenta del interesado.
 
 ###### ARTICULO 200.
 
@@ -2118,3 +2124,19 @@ P.O. 16 DE MAYO DE 2016
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EI Estado de Sinaloa".
 
 Artículo Segundo. Las reformas al Reglamento del Registro Civil para el Estado de Sinaloa, para la implementación de la presente reforma, deberán ser publicadas dentro de los treinta días hábiles siguientes al inicio de vigencia del presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
