@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-familiares-del-estado-de-yucatan-87538
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2015-06-12"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -169,11 +169,13 @@ IV. Tener en cuenta que el fin inmediato del procedimiento es hacer efectivos lo
 
 V. Interpretar las disposiciones relativas a las partes, siempre en el sentido de que todas ellas, tengan iguales oportunidades.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 Concepto de salario mínimo
 
 ###### Artículo 18.
 
-Cuando para fijar la competencia del juez o las multas previstas en este Código se aluda al salario mínimo, debe entenderse que la alusión se refiere al salario mínimo general vigente en la entidad, al momento de imponerse la sanción respectiva.
+Cuando para fijar la competencia del juez o las multas previstas en este Código se aluda a la unidad de medida y actualización, debe entenderse al valor actualizado de la unidad de medida y actualización, al momento de imponerse la sanción respectiva.
 
 Supletoriedad
 
@@ -339,7 +341,9 @@ Cuando el elemento determinante de la competencia sea la cuantía, los procedimi
 
 Los procedimientos de menor cuantía, pueden seguirse ante un juez de Paz y, en caso de que éste no exista en la localidad, ante el juez de primera instancia.
 
-Para efectos de este artículo se consideran procedimientos de menor cuantía, los que no excedan de doscientas veces el salario mínimo, en aquellos municipios de hasta cinco mil habitantes y de quinientas veces el salario mínimo, en aquellos municipios de más de cinco mil habitantes.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Para efectos de este artículo se consideran procedimientos de menor cuantía, los que no excedan de doscientas unidades de medida y actualización, en aquellos municipios de hasta cinco mil habitantes y de quinientas unidades de medida y actualización, en aquellos municipios de más de cinco mil habitantes
 
 Prohibición para prorrogar la competencia
 
@@ -657,11 +661,13 @@ Efectos de la sentencia que declara la recusación
 
 Si en la sentencia se declara que procede la recusación, el asunto debe regresar al magistrado o juez recusado con testimonio de dicha sentencia, para que éste a su vez los remita al juez que corresponda y en el caso de un magistrado, se debe comunicar a la otra Sala para los efectos del artículo 58 de este Código.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 Efectos de la improcedencia de la recusación
 
 ###### Artículo 75.
 
-Si se declara no ser bastante la causa o si recibido a prueba el incidente se falla contra el recusante, se debe devolver el asunto al conocimiento del juez o magistrado recusado con testimonio de la resolución, para que continúe en el conocimiento del negocio y aplicarse al recusante una multa que, en los casos de los Jueces de Paz, debe ser de cinco a veinte veces el salario mínimo, y en los casos de jueces o magistrados, de diez a cincuenta veces el salario mínimo.
+Si se declara no ser bastante la causa o si recibido a prueba el incidente se falla contra el recusante, se debe devolver el asunto al conocimiento del juez o magistrado recusado con testimonio de la resolución, para que continúe en el conocimiento del negocio y aplicarse al recusante una multa que, en los casos de los Jueces de Paz, debe ser de cinco a veinte unidades de medida y actualización, y en los casos de jueces o magistrados, de diez a cincuenta unidades de medida y actualización.
 
 Inadmisibilidad de ulteriores recusaciones
 
@@ -759,7 +765,9 @@ Son correcciones disciplinarias:
 
 I. La amonestación;
 
-II. La multa, que no podrá ser menor de diez ni mayor de ciento veinte días de salario mínimo, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. La multa, que no podrá ser menor de diez ni mayor de ciento veinte unidades de medida y actualización, y
 
 III. La expulsión del responsable de la falta de la sala de audiencias.
 
@@ -773,7 +781,9 @@ Medios de apremio
 
 Para hacer cumplir sus determinaciones, los magistrados o jueces pueden emplear cualquiera de los siguientes medios de apremio:
 
-I. Multa, de veinte a doscientos días de salario mínimo, que se duplicaría en caso de reincidencia. La multa debe pagarse dentro de un plazo máximo de cinco días y el multado debe justificar su pago mediante la presentación del recibo correspondiente;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I. Multa de veinte a doscientas unidades de medida y actualización, que se duplicaría en caso de reincidencia. La multa debe pagarse dentro de un plazo máximo de cinco días y el multado debe justificar su pago mediante la presentación del recibo correspondiente;
 
 II. El auxilio de la fuerza pública, y
 
@@ -1951,9 +1961,11 @@ A solicitud de parte y siempre que ello no importe riesgo, puede entregarse el o
 
 Notificaciones nulas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 227.
 
-Las notificaciones que se practiquen en forma distinta de la prevenida en este Capítulo son nulas y el servidor público que las autorice, se hace acreedor de una multa de diez a treinta veces el salario mínimo, y debe además responder de los daños y perjuicios que se hayan originado por su culpa.
+Las notificaciones que se practiquen en forma distinta de la prevenida en este capítulo son nulas y el servidor público que las autorice, se hace acreedor de una multa de diez a treinta unidades de medida y actualización, y debe además responder de los daños y perjuicios que se hayan originado por su culpa.
 
 La parte agraviada puede promover ante el mismo juez que conozca del asunto el incidente sobre declaración de nulidad, dentro de los tres días siguientes a aquél en que tenga conocimiento de la notificación. Este incidente no suspende el curso del procedimiento.
 
@@ -3233,11 +3245,13 @@ Sentencia definitiva es la que decide el asunto principal.
 
 Las sentencias interlocutorias deciden un incidente, un recurso de revocación o cualquier otro procedimiento que no resuelva de fondo la controversia.
 
-Obligación de los juzgadores de dictar la sentencia en el plazo establecido
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Obligación de los juzgadores de dictar sentencia en el plazo establecido
 
 ###### Artículo 391.
 
-Si transcurre el término legal sin dictarse sentencia, los magistrados y jueces se hacen acreedores de plano a una multa de cincuenta a cien salarios mínimos.
+Si transcurre el término legal sin dictarse sentencia, los magistrados y jueces se hacen acreedores de plano a una multa de cincuenta a cien unidades de medida y actualización.
 
 Alcance de las sentencias interlocutorias
 
@@ -3367,11 +3381,13 @@ Interrupción del plazo para apelar
 
 La aclaración o adición de una sentencia interrumpe el plazo para apelar.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 Multa en caso de solicitud maliciosa
 
 ###### Artículo 407.
 
-Cuando los tribunales resuelvan que no ha lugar a la aclaración promovida y juzguen que fue solicitada maliciosamente, deben condenar al solicitante e imponerle una multa de diez a veinte veces el salario mínimo.
+Cuando los tribunales resuelvan que no ha lugar a la aclaración promovida y juzguen que fue solicitada maliciosamente, deben condenar al solicitante e imponerle una multa de diez a veinte unidades de medida y actualización.
 
 #### Sección Cuarta. Ejecución de las sentencias
 
@@ -5511,9 +5527,13 @@ Procedencia de las sucesiones de menor cuantía
 
 Los juicios de sucesión hereditaria se pueden radicar por simple denuncia en comparecencia ante el juez de Paz, cuando su caudal no exceda de:
 
-I. Doscientas veces el salario mínimo, en aquellos municipios de hasta cinco mil habitantes, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II. Quinientas veces el salario mínimo, en aquellos municipios con más de cinco mil habitantes.
+I. Doscientas unidades de medida y actualización, en aquellos municipios de hasta cinco mil habitantes, y
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Quinientas unidades de medida y actualización, en aquellos municipios con más de cinco mil habitantes.
 
 El caudal a que se refiere este artículo se debe determinar, en el caso de bienes inmuebles, según el avalúo catastral y para el caso de bienes muebles, con el valor que conste en la prueba documental o pericial.
 
@@ -6399,7 +6419,7 @@ C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O. 12 DE JUNIO DE 2015.
 
@@ -6446,3 +6466,15 @@ Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de es
 Décimo primero. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
