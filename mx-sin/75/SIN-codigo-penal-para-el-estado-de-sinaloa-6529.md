@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2016-08-03"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -367,15 +367,19 @@ La reclusión a que se refiere el presente artículo tendrá lugar en centros di
 
 La sanción pecuniaria comprende la multa y la reparación del daño.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 33.
 
-La multa consiste en el pago de una cantidad de dinero, que se fijará por días multa, los cuales no podrán exceder de cuarenta mil. El día multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todos sus ingresos.
+La multa consiste en el pago de una cantidad de dinero, que se fijará por veces multa, los cuales no podrán exceder de cuarenta mil. La vez multa equivale a la percepción neta diaria del inculpado en el momento de consumar el delito, tomando en cuenta todos sus ingresos.
 
-Para los efectos de este Código, el límite inferior del día multa será el equivalente al salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-Por lo que toca al delito continuado, se atenderá al salario mínimo vigente en el momento consumativo de la última conducta; para el permanente, se considerará al salario mínimo en vigor en el momento en que cesó la consumación.
+Para los efectos de este Código, el límite inferior de la vez multa será el equivalente al valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Por lo que toca al delito continuado, se atenderá al valor diario de la Unidad de Medida y Actualización en el momento consumativo de la última conducta; para el permanente, se considerará al mismo valor diario en el momento en que cesó la consumación.
 
 El importe de la multa fijada en sentencia se pagará al Fondo Auxiliar para la Administración de Justicia del Estado.
 
@@ -477,7 +481,9 @@ Los responsables del delito estarán obligados solidariamente a cubrir el import
 
 La reparación del daño material será fijada por el juzgador según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas en el procedimiento penal.
 
-La reparación del daño moral será fijada por el prudente arbitrio del juzgador, tomando en consideración las características del delito, las posibilidades económicas del obligado, la afectación moral sufrida por la víctima y las circunstancias personales de ésta, que tengan relevancia para la fijación del daño causado. Esta reparación no podrá exceder de cinco mil días de salario del obligado; a falta de prueba, se considerará el importe del salario general vigente en el Estado.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+La reparación del daño moral será fijada por el prudente arbitrio del juzgador, tomando en consideración las características del delito, las posibilidades económicas del obligado, la afectación moral sufrida por la víctima y las circunstancias personales de ésta, que tengan relevancia para la fijación del daño causado. Esta reparación no podrá exceder de cinco mil veces el valor diario de la Unidad de Medida y Actualización del obligado; a falta de prueba, se considerará el importe de dicho valor diario.
 
 Para la fijación del daño causado y el monto de la reparación, el juzgador, en lo conducente, tomará en cuenta las disposiciones de la Ley Federal del Trabajo y del Código Civil del Estado, en su caso.
 
@@ -2135,6 +2141,8 @@ Igual pena se impondrá al servidor público que incurra en estas conductas nega
 
 ### CAPITULO VIII. DAÑOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 196.
 
 (DEROGADO, P.O. 27 DE AGOSTO DE 2007)
@@ -2175,17 +2183,23 @@ Para la aplicación de la sanción se dará por consumado el robo desde el momen
 
 Cuando el valor de lo robado sea:
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-I.- Mayor de veinte veces y menor a cincuenta veces el salario mínimo vigente o no sea posible determinar su valor, se impondrá prisión de tres meses a dos años y de cuarenta a cien días multa.
+I.- Mayor de veinte y menor de cincuenta veces el valor diario de la Unidad de Medida y Actualización o no sea posible determinar su valor, se impondrá prisión de tres meses a dos años y de cuarenta a cien veces multa.
 
-La pena prevista en esta fracción se aplicará aún cuando el valor de lo robado no sea mayor de veinte salarios mínimos si el robo se realiza en alguno de los supuestos previstos en los artículos 204 y 205.
+La pena prevista en esta fracción se aplicará aún cuando el valor de lo robado no sea mayor de veinte veces el valor diario de la Unidad de Medida y Actualización si el robo se realiza en alguno de los supuestos previstos en los artículos 204 y 205.
 
-II.- De cincuenta a doscientas cincuenta veces el salario mínimo, se impondrá prisión de seis meses a tres años y de cuarenta a doscientos días multa;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-III.- De doscientos cincuenta a setecientas cincuenta veces el salario mínimo, se impondrá prisión de uno a seis años y de ochenta a trescientos días multa; y
+II.- De cincuenta a doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, se impondrá prisión de seis meses a tres años y de cuarenta a doscientas veces multa;
 
-IV.- Mayor de setecientas cincuenta veces el salario mínimo, se impondrá prisión de dos a ocho años y de ciento ochenta a cuatrocientos días multa.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- De doscientos cincuenta a setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización, se impondrá prisión de uno a seis años y de ochenta a trescientas veces multa; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV.- Mayor de setencientas (sic) cincuenta veces el valor diario de la Unidad de Medida y Actualización, se impondrá prisión de dos a ocho años y de ciento ochenta a cuatrocientas veces multa.
 
 En los casos de las fracciones I y II, si fuere la primera vez que delinque el inculpado, la autoridad judicial podrá discrecionalmente imponerle cualquiera de esas sanciones o ambas.
 
@@ -2351,11 +2365,17 @@ Esta disposición no será aplicable cuando el delito tenga carácter federal, p
 
 Al que con perjuicio de alguien, disponga para si o para otro, de cualquier cosa mueble ajena, de la que se le haya transmitido la tenencia pero no el dominio, se le impondrá las siguientes penas:
 
-I.- Prisión de tres meses a dos años y de quince a sesenta días multa, cuando el monto de lo dispuesto no exceda de cuatrocientas veces el salario mínimo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- Prisión de uno a cuatro años y de noventa a ciento ochenta días multa, si el monto excede de cuatrocientas pero no de mil doscientas veces el salario mínimo; y
+I.- Prisión de tres meses a dos años y de quince a sesenta veces multa, cuando el monto de lo dispuesto no exceda de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización.
 
-III.- Prisión de cuatro a siete años y de ciento ochenta a quinientos días multa, si el monto es mayor de mil doscientas veces el salario mínimo.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Prisión de uno a cuatro años y de noventa a ciento ochenta veces multa, si el monto excede de cuatrocientas pero no de mil doscientas veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- Prisión de cuatro a siete años y de ciento ochenta a quinientas veces multa, si el monto es mayor de mil doscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 213.
 
@@ -2371,11 +2391,17 @@ II.- Siendo poseedor derivado de una cosa mueble, no la devuelva cuando debiera 
 
 Al que engañando a alguien o aprovechándose del error en que éste se encuentre, obtenga ilícitamente alguna cosa ajena o alcance un lucro indebido para sí o para otro, se le impondrán las siguientes penas:
 
-I.- Prisión de tres meses a dos años y de veinte a cien días multa, si el monto de lo defraudado no excede de trescientas veces el salario mínimo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- Prisión de dos a seis años y de cien a doscientos días multa si el monto de lo defraudado excede de trescientas pero no de mil veces el salario mínimo; y
+I.- Prisión de tres meses a dos años y de veinte a cien veces multa, si el monto de lo defraudado no excede de trescientas veces el valor diario de la Unidad de Medida y Actualización;
 
-III.- Prisión de seis a diez años y de trescientos a quinientos días multa si el monto de lo defraudado excede de mil veces el salario mínimo.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Prisión de dos a seis años y de cien a doscientas veces multa, si el monto de lo defraudado excede de trescientas pero no de mil veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- Prisión de seis a diez años y de trescientas a quinientas veces multa si el monto de lo defraudado excede de mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 215.
 
@@ -2521,9 +2547,11 @@ Las penas previstas para el delito de despojo se impondrán aunque el derecho a 
 
 ###### ARTICULO 228.
 
-Al que por cualquier medio destruya o deteriore una cosa ajena en perjuicio de otro, se le impondrá prisión de tres meses a cinco años y de treinta a ciento ochenta días multa cuando los daños no excedan del equivalente a mil días de salario mínimo.
+Al que por cualquier medio destruya o deteriore una cosa ajena en perjuicio de otro, se le impondrá prisión de tres meses a cinco años y de treinta a ciento ochenta veces multa cuando los daños no excedan del equivalente a mil veces el valor de la Unidad de Medida y Actualización.
 
-Si el daño excediera de dicha cantidad, se impondrá de dos a ocho años de prisión y de noventa a trescientos sesenta días multa.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Si el daño excediera de dicha cantidad, se impondrá de dos a ocho años de prisión y de noventa a trescientos sesenta veces multa.
 
 Se aplicarán las mismas sanciones señaladas en el primer párrafo, al que dañe una cosa propia si ésta se haya por cualquier título legítimo en poder de otra persona.
 
@@ -3323,7 +3351,9 @@ VIII.- Otorgue identificación en que se acredite como servidor público a quien
 
 IX.- Ejerza algún otro empleo, cargo o comisión oficial o particular, teniendo impedimento legal para hacerlo.
 
-Cuando el monto del producto del delito o de los daños o perjuicios causados, exceda de mil veces el salario mínimo, la sanción será de uno a nueve años de prisión y de ciento ochenta a quinientos días multa.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Cuando el monto del producto del delito o de los daños o perjuicios causados, exceda de mil veces el valor diario de la Unidad de Medida y Actualización, la sanción será de uno a nueve años de prisión y de ciento ochenta a quinientas veces multa.
 
 ### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE PARTICULARES
 
@@ -4344,3 +4374,19 @@ P.O. 3 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 533 QUE REFORMA Y ADICIONA EL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
