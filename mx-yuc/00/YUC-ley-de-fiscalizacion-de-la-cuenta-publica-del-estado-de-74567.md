@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fiscalizacion-de-la-cuenta-publica-del-estado-de-74567"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-19"
-last_updated: "2011-12-22"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 19 de abril de 2010.
 
@@ -143,7 +143,9 @@ En el caso de que la Auditoría Superior del Estado formule requerimientos, el p
 
 Cuando la naturaleza del requerimiento implique un plazo mayor para su cumplimiento, la Auditoría Superior del Estado, previa solicitud de la Entidades Fiscalizadas, determinará un plazo improrrogable para la entrega de la información.
 
-Cuando las Entidades Fiscalizadas, los servidores públicos y las demás personas físicas o morales, públicas o privadas, no atiendan los requerimientos previstos en este Artículo, salvo disposición expresa en contrario, los titulares de las áreas responsables de la práctica de las auditorías y visitas de la Auditoría Superior del Estado, podrán imponerle una multa de entre 150 a 500 días de salario mínimo vigente en el Estado, en los términos previstos en el Reglamento de esta Ley.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Cuando las Entidades Fiscalizadas, los servidores públicos y las demás personas físicas o morales, públicas o privadas, no atiendan los requerimientos previstos en este artículo, salvo disposición expresa en contrario, los titulares de las áreas responsables de la práctica de las auditorías y visitas de la Auditoría Superior del Estado, podrán imponerle una multa de ciento cincuenta a quinientas unidades de medida y actualización, en los términos previstos en el reglamento de esta ley.
 
 La Auditoría Superior del Estado podrá también imponer las sanciones que se fijen en el Reglamento, a los terceros que hubieren contratado y ejecutado obra pública o bienes o servicios mediante cualquier título legal con las Entidades Fiscalizadas, cuando no entreguen la documentación e información que les requieran, en un plazo mínimo de 10 días y un máximo de 15 días, hábiles en ambos casos.
 
@@ -359,7 +361,9 @@ Las denuncias penales de hechos probablemente delictuosos y las denuncias de jui
 
 Las Entidades Fiscalizadas deberán presentar consideraciones a las observaciones, recomendaciones y acciones en un plazo de 30 días hábiles, contados a partir de la fecha en que les fueron notificadas.
 
-En caso de no hacerlo, la Auditoría Superior del Estado podrá aplicar a los titulares de las áreas administrativas auditadas una multa mínima de 150 a una máxima de 600 días de salario mínimo general vigente en el Estado, además de promover las acciones legales que correspondan.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+En caso de no hacerlo, la Auditoría Superior del estado podrá aplicar a los titulares de las áreas administrativas auditadas una multa de ciento cincuenta a seiscientas unidades de medida y actualización, además de promover las acciones legales que correspondan.
 
 En el caso de las recomendaciones a las Entidades Fiscalizadas, dentro de un plazo de 30 días hábiles siguientes al de la notificación de la recomendación correspondiente, éstas deberán precisar ante la Auditoría Superior del Estado las correcciones efectuadas, las acciones a realizar o, en su caso, justificar su improcedencia o las razones por las cuales no resulta factible su implementación.
 
@@ -419,11 +423,13 @@ V.- Actos que obstaculicen o paralicen la prestación de servicios públicos ese
 
 Las Entidades Fiscalizadas para cumplir el requerimiento de informe de situación excepcional solicitado por la Auditoría Superior del Estado, deberán de realizar una revisión, sin que ello obstaculice las funciones o atribuciones de los órganos de control interno o los servidores públicos.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 39.
 
-Si transcurrido el plazo para la presentación del informe de situación excepcional, las Entidades Fiscalizadas sin causa justificada no lo presentaren, se impondrá a los servidores públicos omisos una multa mínima de 150 a una máxima de 600 días de salario mínimo vigente en el Estado.
+Si transcurrido el plazo para la presentación del informe de situación excepcional, las Entidades Fiscalizadas sin causa justificada no lo presentaren, se impondrá a los servidores públicos omisos una multa de ciento cincuenta a seiscientas unidades de medida y actualización.
 
-Se considera que existe reincidencia, cuando una vez que se haya impuesto una sanción y se requiera al infractor nuevamente, éste no cumpla con su obligación en un plazo de 30 días hábiles y, en consecuencia, se impondrá una multa de hasta por el doble de la multa señalada en el párrafo anterior.
+Se considera que existe reincidencia, cuando una vez que se haya impuesto una sanción y se requiera al infractor nuevamente, éste no cumpla con su obligación en un plazo de treinta días hábiles y, en consecuencia, se impondrá una multa de hasta por el doble de la multa señalada en el párrafo anterior.
 
 ###### Artículo 40.
 
@@ -567,9 +573,11 @@ La Secretaría entregará a la dirección, departamento, área o tesorería comp
 
 El importe quedará en las Entidades Fiscalizadas como recursos disponibles y solamente podrá ser utilizado conforme lo señalen las leyes de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 60.
 
-Cuando se trate de hechos considerados no graves, no exista dolo, el daño causado no exceda de 1,500 veces el salario mínimo vigente en el Estado o los antecedentes o circunstancias del infractor lo justifiquen, la Auditoría Superior del Estado, podrá abstenerse por una sola vez de sancionar al infractor, siempre que éste cubra el monto del daño ocasionado.
+Cuando se trate de hechos considerados no graves, no exista dolo, el daño causado no exceda de mil quinientas unidades de medida y actualización o los antecedentes o circunstancias del infractor lo justifiquen, la Auditoría Superior del Estado, podrá abstenerse por una sola vez de sancionar al infractor, siempre que este cubra el monto del daño ocasionado.
 
 El procedimiento resarcitorio se sobreseerá por la Auditoría Superior del Estado cuando el probable responsable cubra, antes de que se emita la resolución, el importe de los daños o perjuicios, o ambos, causados a la entidad fiscalizada, con su actualización correspondiente.
 
@@ -1130,3 +1138,15 @@ Este Decreto entrará en vigor el día siguiente al de su publicación en el Dia
 ###### ARTÍCULO SEGUNDO.
 
 Los plazos para la presentación de las cuentas públicas, previstas en la Ley de Fiscalización de la Cuenta Pública y la Ley de Presupuesto y Contabilidad Gubernamental, ambas del Estado de Yucatán, se aplicarán a partir de la presentación de la cuenta pública del ejercicio fiscal correspondiente al año 2011.
+
+D.O. 28. DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
