@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-instituto-de-defensa-publica-del-estado-de-yucatan-7718
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-05"
-last_updated: "2014-11-29"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el viernes 5 de noviembre de 2010.
 
@@ -439,7 +439,9 @@ Se considera que una persona no se encuentra en condiciones de retribuir los ser
 
 I. Se encuentre desempleada y no perciba algún ingreso, o
 
-II. Perciba, por cualquier concepto o modalidad, ingresos inferiores a los tres salarios mínimos diarios.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Perciba, por cualquier concepto o modalidad, ingresos inferiores a tres unidades de medida y actualización diarias.
 
 En caso de personas jurídicas, sólo se podrá asesorar a ejidos, comunidades y a aquéllas que demuestren su insuficiencia económica para retribuir los servicios de un abogado postulante, en los términos de este artículo.
 
@@ -946,3 +948,15 @@ En tanto entra en vigor, en el estado de Yucatán, el Código Nacional de Proced
 Tercero. Derogación tácita
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, Índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
