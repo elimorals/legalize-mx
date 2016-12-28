@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2016-05-13"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,13 @@ abbreviation: "LFPC"
 ---
 # LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR PARA EL AÑO DOS MIL DIECISIETE, SE ESTABLECE QUE "PARA EFECTUAR EL PAGO DE LAS CANTIDADES QUE RESULTEN DE LA ACTUALIZACIÓN, PARA LAS FRACCIONES DEL PESO, EL MONTO SE AJUSTARÁ PARA QUE LAS MULTAS QUE CONTENGAN CANTIDADES QUE INCLUYAN DE 1 HASTA 50 CENTAVOS, SE AJUSTEN A LA UNIDAD INMEDIATA ANTERIOR Y LAS QUE CONTENGAN CANTIDADES DE 51 A 99 CENTAVOS, SE AJUSTEN A LA UNIDAD INMEDIATA SUPERIOR."]</small>
+
 LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ACUERDO A/005/2015 POR EL CUAL SE ADICIONA EL DIVERSO A/007/2014 POR EL QUE SE ACTUALIZAN LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR, PUBLICADO EN EL D.O.F. EL 28 DE AGOSTO DE 2015, SE ESTABLECE QUE “PARA EFECTUAR EL PAGO DE LAS CANTIDADES QUE RESULTEN DE LA ACTUALIZACIÓN, PARA LAS FRACCIONES DEL PESO, EL MONTO SE AJUSTARÁ PARA QUE LAS MULTAS QUE CONTENGAN CANTIDADES QUE INCLUYAN DE 1 HASTA 50 CENTAVOS, SE AJUSTEN A LA UNIDAD INMEDIATA ANTERIOR Y LAS QUE CONTENGAN CANTIDADES DE 51 A 99 CENTAVOS, SE AJUSTEN A LA UNIDAD INMEDIATA SUPERIOR.”</small>
-
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2016.
+
+ÚLTIMA ACTUALIZACIÓN POR ACUERDO EXPEDIDO POR LA PROCURADURIA FEDERAL DEL CONSUMIDOR PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 24 de diciembre de 1992.
 
@@ -418,13 +420,13 @@ La Procuraduría, para el desempeño de las funciones que le atribuye la ley, po
 
 I. Apercibimiento;
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2015)
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
-II. Multa de $236.54 a $23,654.95.
+II. Multa de $244.36 a $24,436.82.
 
-(ACTUALIZADA EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2015)
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
-III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $9,461.98, y
+III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $9,774.73, y
 
 IV. El auxilio de la fuerza pública.
 
@@ -1486,9 +1488,9 @@ f) Que la representación y gestión se realiza de manera gratuita, y
 
 g) Que no participan de manera institucional en actividades de proselitismo político o electoral.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2015)
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
-Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $473,099.00.
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $488,736.58.
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
@@ -1740,9 +1742,9 @@ En caso de no aceptarse el arbitraje se dejarán a salvo los derechos de ambas p
 
 La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos, observando los principios de legalidad, equidad y de igualdad entre las partes.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2015)
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
-Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $473,099.00.
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $488,736.58.
 
 ###### ARTICULO 118.
 
@@ -1802,27 +1804,27 @@ ARTICULO 124 BIS.- Para la sustanciación del procedimiento por infracciones a l
 
 Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuraduría.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2015)
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 126.
 
-Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $236.54 a $756,958.40.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $244.36 a $781,978.53.
 
-(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2015)
+(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $473.10 a $1´513,916.80.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $488.74 a $1´563,957.06.
 
-(REFORMADO, D.O.F. 16 DE ENERO DE 2013) (ACTUALIZADO EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2015)
+(REFORMADO, D.O.F. 16 DE ENERO DE 2013) (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis y 121 serán sancionadas con multa de $679.61 a $2'658,045.34.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 Bis, 63 Ter, 63 Quintus, 65, 65 Bis, 65 Bis 1, 65 Bis 2, 65 Bis 3, 65 Bis 4, 65 Bis 5, 65 Bis 6, 65 Bis 7, 73, 73 Bis, 73 Ter, 73 Quáter, 73 Quintus, 74, 76 Bis, 80, 86 Bis, 87, 87 Ter, 92, 92 Ter, 98 Bis y 121 serán sancionadas con multa de $702.07 a $2'745,903.07.
 
-(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2015)
+(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2011) (ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
-ARTICULO 128 BIS. En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $141,929.70 a $3´974,031.62.
+ARTICULO 128 BIS. En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $146,620.98 a $4´105,387.31.
 
 Las violaciones a lo establecido en el artículo 32 que se consideren particularmente graves conforme a lo establecido en el artículo 128 Ter de esta ley, serán sancionadas con la multa establecida en el párrafo anterior o bien con multa de hasta un 10% de los ingresos brutos anuales del infractor obtenidos por la comercialización del bien o los bienes, productos o servicios contenidos en la publicidad respectiva, correspondiente al último ejercicio fiscal en que se haya cometido la infracción, en caso de reincidencia.
 
@@ -1916,9 +1918,9 @@ Asimismo, la Procuraduría deberá considerar los hechos generales de la infracc
 
 En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia o cuando se afecten derechos de la infancia, adultos mayores, personas con discapacidad e indígenas.
 
-(ACTUALIZADO EN SU MONTO, D.O.F. 30 DE DICIEMBRE DE 2015)
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 2016)
 
-Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $7´948,063.22.
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $8´210,774.61.
 
 > <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2011)</small>
 
@@ -2309,3 +2311,9 @@ D.O.F. 13 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 32 DE LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ACTUALIZAN LOS MONTOS DE LAS OPERACIONES Y MULTAS PREVISTAS EN LA LEY FEDERAL DE PROTECCIÓN AL CONSUMIDOR PARA EL AÑO DOS MIL DIECISIETE”.]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el 1 de enero de 2017.
