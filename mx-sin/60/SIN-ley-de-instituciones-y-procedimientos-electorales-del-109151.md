@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2015-12-18"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -907,11 +907,15 @@ LOS PARTIDOS POLÍTICOS TENDRÁN DERECHO AL FINANCIAMIENTO PÚBLICO DE SUS ACTIV
 
 A) PARA EL SOSTENIMIENTO DE ACTIVIDADES ORDINARIAS PERMANENTES:
 
-1. EL CONSEJO GENERAL, DETERMINARÁ ANUALMENTE EL MONTO TOTAL QUE SE DISTRIBUIRÁ ENTRE LOS PARTIDOS POLÍTICOS CONFORME A LO SIGUIENTE: MULTIPLICARÁ EL NÚMERO TOTAL DE CIUDADANOS INSCRITOS EN EL PADRÓN ELECTORAL DE LA ENTIDAD, A LA FECHA DE CORTE DEL ÚLTIMO DÍA DEL MES DE JULIO DE CADA AÑO, POR EL SETENTA Y CINCO POR CIENTO DEL SALARIO MÍNIMO DIARIO VIGENTE PARA EL ESTADO DE SINALOA;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+1. El Consejo General, determinará anualmente el monto total que se distribuirá entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral de la entidad, a la fecha de corte del último día del mes de julio de cada año, por el setenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización;
 
 2. EL RESULTADO DE LA OPERACIÓN SEÑALADA EN EL NUMERAL ANTERIOR CONSTITUYE EL FINANCIAMIENTO PÚBLICO ANUAL A LOS PARTIDOS POLÍTICOS POR SUS ACTIVIDADES ORDINARIAS PERMANENTES Y SE DISTRIBUIRÁ EN LA SIGUIENTE FORMA: UN VEINTE POR CIENTO SE DIVIDIRÁ POR IGUAL ENTRE TODOS LOS PARTIDOS POLÍTICOS, EL OCHENTA POR CIENTO RESTANTE SE DIVIDIRÁ CONFORME A LA VOTACIÓN OBTENIDA POR CADA PARTIDO POLÍTICO EN LA ÚLTIMA ELECCIÓN DE DIPUTACIONES POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL;
 
-3. LAS CANTIDADES QUE, EN SU CASO, SE DETERMINEN PARA CADA PARTIDO, SERÁN ACTUALIZADAS DURANTE LA PRIMER QUINCENA DEL MES DE ENERO DE CADA AÑO, CONSIDERANDO EL INCREMENTO QUE SE OTORGUE AL SALARIO MÍNIMO GENERAL DE LA ZONA ECONÓMICA A LA QUE PERTENECE EL ESTADO DE SINALOA, Y SE ENTREGARÁN EN MINISTRACIONES MENSUALES CONFORME AL CALENDARIO PRESUPUESTAL QUE SE APRUEBE JUNTO CON LA ACTUALIZACIÓN;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+3. Las cantidades que, en su caso, se determinen para cada partido, serán actualizadas durante la primer quincena del mes de enero de cada año, considerando el incremento que se otorgue al valor diario de la Unidad de Medida y Actualización, y se entregarán en ministraciones mensuales conforme al calendario presupuestal que se apruebe junto con la actualización;
 
 4. CADA PARTIDO POLÍTICO DEBERÁ DESTINAR ANUALMENTE POR LO MENOS EL DOS POR CIENTO DEL FINANCIAMIENTO PÚBLICO QUE RECIBA PARA EL DESARROLLO DE LAS ACTIVIDADES ESPECÍFICAS, CONSISTENTES EN ACTIVIDADES DE FORMACIÓN IDEOLÓGICA, POLÍTICAS Y DE INVESTIGACIONES ACADÉMICAS Y EDITORIALES, Y,
 
@@ -989,9 +993,11 @@ f) Las personas que vivan o trabajen en el extranjero; y,
 
 g) Las personas morales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 66.
 
-Los Ayuntamientos otorgarán a los partidos políticos de conformidad con lo dispuesto en el artículo 15 de esta ley, financiamiento mensual en base a cien veces el salario mínimo general vigente en la entidad por cada regiduría que les corresponda. Para este efecto, será presupuestado por los respectivos Cabildos.
+Los Ayuntamientos otorgarán a los partidos políticos de conformidad con lo dispuesto en el artículo 15 de esta ley, financiamiento mensual en base a cien veces el valor diario de la Unidad de Medida y Actualización por cada regiduría que les corresponda. Para este efecto, será presupuestado por los respectivos Cabildos.
 
 Los Partidos Políticos deberán incorporar a sus informes anuales la comprobación del origen, monto y destino de este financiamiento.
 
@@ -1467,9 +1473,11 @@ Las y los candidatos independientes no podrán solicitar créditos provenientes 
 
 Para el manejo de los recursos de campaña electoral, se deberá utilizar la cuenta bancaria registrada a que se refiere esta ley; todas las aportaciones deberán realizarse exclusivamente en dicha cuenta, mediante cheque o transferencia bancaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 114.
 
-Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica. En el caso de los pagos por la prestación de bienes o servicios, cuyo monto exceda el equivalente a cien días de salario mínimo general vigente en el Estado, adicionalmente el cheque deberá contener la leyenda “para abono en cuenta del beneficiario”. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia del cheque a que se hace referencia.
+Todo egreso deberá cubrirse con cheque nominativo o transferencia electrónica. En el caso de los pagos por la prestación de bienes o servicios, cuyo monto exceda el equivalente a cien veces el valor diario de la Unidad de Medida y Actualización, adicionalmente el cheque deberá contener la leyenda “para abono en cuenta del beneficiario”. Las pólizas de los cheques deberán conservarse anexas a la documentación comprobatoria junto con la copia del cheque a que se hace referencia.
 
 Los comprobantes que amparen los egresos que realicen las y los candidatos independientes, deberán ser expedidos a su nombre y constar en original como soporte a los informes financieros de las campañas electorales, los cuales estarán a disposición de la Unidad de Fiscalización del Instituto Nacional Electoral para su revisión de conformidad con lo dispuesto en esta ley. Dicha documentación deberá cumplir con los requisitos que exigen las disposiciones fiscales aplicables, así como las establecidas por el reglamento de Fiscalización de los Recursos de los Partidos Políticos.
 
@@ -2215,11 +2223,15 @@ Los partidos políticos mediante formatos aprobados por el organismo electoral c
 
 Conforme a la naturaleza de las aportaciones que conforman el financiamiento de las precampañas electorales, se sujetarán a lo siguiente:
 
-I. Las aportaciones en dinero que efectúe cada persona física o moral durante la precampaña electoral tendrán como límite el equivalente a trescientas veces el salario mínimo general vigente en la entidad, debiendo expedirse recibos foliados, en los cuales se hará constar los datos de identificación del aportante, conforme al formato que establezca el Consejo General;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I. Las aportaciones en dinero que efectúe cada persona física o moral durante la precampaña electoral tendrán como límite el equivalente a trescientas veces el valor diario de la Unidad de Medida y Actualización, debiendo expedirse recibos foliados, en los cuales se hará constar los datos de identificación del aportante, conforme al formato que establezca el Consejo General;
 
 II. Los recursos obtenidos mediante autofinanciamiento, se comprobarán conforme a los lineamientos que dicte el Consejo General;
 
-III. En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido; de exceder este monto una cantidad equivalente a ciento cincuenta veces el salario mínimo general vigente, deberá justificarse su procedencia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III. En el caso de colectas, sólo deberá reportarse en el informe correspondiente el monto total obtenido; de exceder este monto una cantidad equivalente a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización, deberá justificarse su procedencia;
 
 IV. Las aportaciones en especie se harán constar por escrito en contratos celebrados conforme a las leyes aplicables; y,
 
@@ -2253,7 +2265,9 @@ Queda prohibido realizar actos de campaña y de propaganda electoral fuera de la
 
 El Pleno del Consejo General aprobará durante la primera quincena de diciembre del año anterior al de la elección, los topes máximos de gastos de precampaña y campaña que podrán erogar los partidos políticos y coaliciones, en cada uno de los procesos internos y elecciones, conforme a los siguientes criterios:
 
-I. El tope máximo de gastos de campaña, para cada tipo de elección será la cantidad que resulte de multiplicar el 0.25 del salario mínimo general vigente en el Estado, por el número total de ciudadanos empadronados en el Registro Federal de Electores en el Estado, Distrito o Municipio según corresponda, al día primero de enero del año de la elección; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I. El tope máximo de gastos de campaña, para cada tipo de elección será la cantidad que resulte de multiplicar el 0.25 el valor diario de la Unidad de Medida y Actualización, por el número total de ciudadanos empadronados en el Registro Federal de Electores en el Estado, distrito o municipio, según corresponda, al día primero de enero del año de la elección; y,
 
 II. En aquellos Distritos o Municipios en que el tope máximo de gastos de campaña en aplicación a la presente fórmula sea menor a cuatrocientos mil pesos, se tomará como tope esa cantidad.
 
@@ -3629,7 +3643,9 @@ I. Respecto de los partidos políticos:
 
 a) Con amonestación pública;
 
-b) Con multa de cien hasta diez mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de cien hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta;
 
 c) Con hasta un tanto del monto ejercido en exceso, en los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas.
 
@@ -3643,7 +3659,9 @@ II. Respecto de las y los aspirantes, precandidatos o candidatos a cargos de ele
 
 a) Con amonestación pública;
 
-b) Con multa de cincuenta hasta cinco mil días de salario mínimo general vigente en la Entidad; y,
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de cincuenta hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización; y,
 
 c) Tratándose del aspirante, con la pérdida del derecho a ser registrado como precandidato y con la pérdida del derecho del precandidato infractor a ser registrado como candidato, o con la cancelación si ya estuviere registrado. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
 
@@ -3651,11 +3669,17 @@ III. Respecto de las y los ciudadanos, de los dirigentes y miembros de los parti
 
 a) Con amonestación pública a los dirigentes y miembros de los partidos políticos;
 
-b) Con multa de cincuenta hasta mil días de salario mínimo general vigente en el Estado a los dirigentes y miembros de los partidos políticos o a cualquier otra persona física o moral en el caso de aportaciones a partidos político o candidatos que violen lo dispuesto en esta ley;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-c) Respecto de los ciudadanos, de los dirigentes y miembros de los partidos políticos, o cualquier persona moral, con amonestación pública y en caso de reincidencia, con multa de cincuenta hasta dos mil días de salario mínimo general vigente en el Estado, en el caso de que promuevan una queja frívola; y,
+b) Con multa de cincuenta hasta mil veces el valor diario de la Unidad de Medida y Actualización a los dirigentes y miembros de los partidos políticos o a cualquier otra persona física o moral en el caso de aportaciones a partidos político (sic) o candidatos que violen lo dispuesto en esta ley;
 
-d) Respecto de los ciudadanos que realicen actos anticipados de precampaña o tendentes a obtener el apoyo ciudadano, según sea el caso, durante el lapso que va desde antes o después del inicio de un proceso electoral local ordinario, hasta la fecha en que conforme a la normatividad legal y estatutaria de los partidos, puedan tener la calidad de aspirante, ya sea, en algún proceso interno de postulación de candidatos a cargo de elección popular de partido político, o bien como candidato independiente. Por la comisión de esta infracción, se aplicará multa de cincuenta a cinco mil días de salario mínimo general vigente en el Estado, perdiendo además el infractor, la posibilidad de participar en un proceso interno de postulación de candidato de algún partido o como aspirante a candidato independiente, según sea el caso.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+c) Respecto de los ciudadanos, de los dirigentes y miembros de los partidos políticos, o cualquier persona moral, con amonestación pública y en caso de reincidencia, con multa de cincuenta hasta dos mil veces el valor diario de la Unidad de Medida y Actualización, en el caso de que promuevan una queja frívola; y,
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+d) Respecto de los ciudadanos que realicen actos anticipados de precampaña o tendentes a obtener el apoyo ciudadano, según sea el caso, durante el lapso que va desde antes o después del inicio de un proceso electoral local ordinario, hasta la fecha en que conforme a la normatividad legal y estatutaria de los partidos, puedan tener la calidad de aspirante, ya sea, en algún proceso interno de postulación de candidatos a cargo de elección popular de partido político, o bien como candidato independiente. Por la comisión de esta infracción, se aplicará multa de cincuenta a cinco mil veces el valor diario de la Unidad de Medida y Actualización, perdiendo además el infractor, la posibilidad de participar en un proceso interno de postulación de candidato de algún partido o como aspirante a candidato independiente, según sea el caso.
 
 Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones; y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones;
 
@@ -3665,13 +3689,17 @@ a) Con amonestación pública;
 
 b) Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales locales; y,
 
-c) Con multa de cincuenta hasta doscientos días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+c) Con multa de cincuenta hasta doscientos (sic) veces el valor diario de la Unidad de Medida y Actualización;
 
 V. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
 
 a) Con amonestación pública;
 
-b) Con multa de cincuenta hasta cinco mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta; y
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de cincuenta hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta; y
 
 c) Con la cancelación del procedimiento tendente a obtener el registro como partido político estatal.
 
@@ -3679,13 +3707,17 @@ VI. Respecto de las organizaciones sindicales, laborales o patronales, o de cual
 
 a) Con amonestación pública; y
 
-b) Con multa de cincuenta hasta cinco mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta; y,
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de cincuenta hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta; y,
 
 VII. Respecto de las y los Aspirantes y Candidatos Independientes:
 
 a) Con amonestación pública;
 
-b) Con multa de cincuenta hasta cinco mil días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de cincuenta hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización;
 
 c) Con la pérdida del derecho del aspirante a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
 
@@ -4198,3 +4230,19 @@ P.O. 18 DE DICIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
