@@ -4,7 +4,7 @@ identifier: "CMX-codigo-fiscal-de-la-ciudad-de-mexico-antes-codigo-fiscal-71178"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-29"
-last_updated: "2015-12-30"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71178&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-12-28"
 
 CÓDIGO FISCAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE DICIEMBRE DE 2016.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 2009.
 
@@ -2262,17 +2262,19 @@ También estarán exentos los inmuebles adquiridos por representaciones Diplomá
 
 Los contribuyentes deberán solicitar a la autoridad fiscal la declaratoria de exención del Impuesto sobre Adquisición de Inmuebles, acreditando que el inmueble se encuentra en alguno de los supuestos de exención previstos en el presente artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 115.
 
-Para los efectos de este Capítulo, se entiende por adquisición, la que derive de:
+Para los efectos de este capítulo, se entiende por adquisición, la que derive de:
 
-I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir o liquidar la sociedad conyugal siempre que sean inmuebles propiedad de los cónyuges;
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 2016)</small>
 
-En las permutas se considerará que se efectúan dos adquisiciones.
+I. Todo acto por el que se transmita la propiedad, incluyendo la donación, la sucesión de inmuebles por herencia y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir o liquidar la sociedad conyugal siempre que sean inmuebles propiedad de los cónyuges;
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+En las permutas se considerará que se efectuarán dos adquisiciones.
 
-En el caso de adquisiciones por causa de muerte, se aplicará una tasa de 0% del Impuesto sobre Adquisición de Inmuebles, siempre que el valor del inmueble a la fecha de la escritura de adjudicación no exceda de la suma equivalente a doce mil setenta y tres veces la Unidad de Cuenta de la Ciudad de México vigente;
+En el caso de sucesión de inmuebles por herencia, se aplicará una tasa de 0% del Impuesto sobre Adquisición de Inmuebles.
 
 II. La compraventa en la que el vendedor se reserve el dominio, aun cuando la transferencia de ésta opere con posterioridad;
 
@@ -17037,3 +17039,13 @@ A las concentraciones reconocidas ante la Secretaría de Desarrollo económico q
 Además, para gozar de éste beneficio las concentraciones deberán de estar incluidas en el listado anexo de las colonias en las que los contribuyentes de los derechos por el suministro de agua en sistema medido, de uso doméstico o uso doméstico y no doméstico simultáneamente (mixto) que reciben el servicio por tandeo.
 
 El Sistema de Aguas procederá de manera automática a ajustar de manera retroactiva dichos cobros desde el año 2010, siempre y cuando los recibos emitidos por el SACMEX hayan sido superiores al monto derivado de dicho ajuste.
+
+G.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 115 DEL CÓDIGO FISCAL DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general que se opongan a lo establecido en este Decreto.
+
+TERCERO.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto, se tramitarán conforme a las disposiciones anteriores, que le sean aplicables.
