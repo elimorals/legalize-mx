@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "2015-06-12"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -101,13 +101,13 @@ El Juez puede habilitar los días y horas inhábiles, para actuar o para que se 
 
 Iniciada en horas hábiles una diligencia, podrá continuarse hasta su terminación sin necesidad de previa habilitación.
 
-> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 13.
 
 En las actuaciones judiciales y en los escritos que presenten las partes, no se emplearán abreviaturas; tampoco se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin con toda precisión el error cometido. Las fechas y cantidades se escribirán precisamente con letras.
 
-La infracción de este Artículo será castigada con una multa de hasta diez veces el salario mínimo vigente en la ciudad de Mérida, que impondrá el Juez respectivo.
+La infracción de este artículo será sancionada con una multa de una a diez unidades de medida y actualización, que impondrá el juez respectivo.
 
 > <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
@@ -191,15 +191,11 @@ ARTICULO 23 BIS.- Las resoluciones judiciales firmes dictadas en negocios de ali
 
 ### CAPITULO III. De las notificaciones
 
-(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991) (F. DE E., D.O. 31 DE MARZO DE 1992)
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 24.
 
-Las notificaciones y citaciones se verificarán lo más tarde el día siguiente al en que se dicten las resoluciones que las prevengan, cuando en ellas no se dispusiere otra cosa. Se impondrá de plano a los infractores de este artículo, una multa de 1 a 5 días de salario mínimo vigente en la ciudad de Mérida.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 13 DE JUNIO DE 2007)</small>
-
-Cuando se cite a una persona y ésta no pueda asistir a la diligencia por causa debidamente justificada, podrá presentar su justificación ante la oficialía de partes con cuarenta y ocho horas previas a la diligencia, en caso de contar con ella o con posterioridad, directamente ante el juez de la causa hasta antes de la audiencia.
+Las notificaciones y citaciones se verificarán lo más tarde el día siguiente al en que se dicten las resoluciones que las prevengan, cuando en ellas no se dispusiere otra cosa. Se impondrá de plano a los infractores de este artículo, una multa de una a cinco unidades de medida y actualización.
 
 ###### ARTICULO 25.
 
@@ -271,11 +267,11 @@ Las listas de notificación contendrán el nombre y apellido de las partes o sus
 
 Además de los casos a que se refiere el artículo 26 de este Código, la notificación se hará personalmente cuando se hubiere dejado de actuar durante seis meses o más en el expediente, o se trate de personas extrañas al juicio o de casos muy urgentes en concepto del Juez.
 
-(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991) (F. DE E., D.O. 31 DE MARZO DE 1992)
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 37.
 
-Las notificaciones que se hicieren en forma distinta de la prevenida en este Capítulo serán nulas, y el notificador que las autorice incurrirá en una multa hasta de 10 veces el salario mínimo vigente en la ciudad de Mérida, debiendo además responder de cuantos perjuicios y gastos se hayan originado por su culpa. La parte agraviada podrá promover ante el mismo Juez que conozca del negocio, el respectivo incidente sobre declaración de nulidad, dentro de los tres días siguientes a aquél en que tenga conocimiento de la notificación.
+Las notificaciones que se hicieren en forma distinta de la prevenida en este capítulo serán nulas, y el notificador que las autorice incurrirá en una multa de una a diez unidades de medida y actualización, debiendo además responder de cuantos perjuicios y gastos se hayan originado por su culpa. La parte agraviada podrá promover ante el juez que conozca del negocio, el respectivo incidente sobre declaración de nulidad, dentro de los tres días siguientes a aquel en que tenga conocimiento de la notificación.
 
 ###### ARTICULO 38.
 
@@ -407,13 +403,17 @@ La caducidad de la primera instancia no extingue la acción; ésta podrá ejerci
 
 La caducidad de la instancia no invalida la interrupción de la prescripción producida por la iniciación del juicio. El término de la prescripción comienza a correr de nuevo desde la fecha de la notificación del auto de caducidad.
 
-> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 58.
 
-Los Magistrados y los Jueces tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y las consideraciones debidas, corrigiendo en el acto las faltas que se cometieren con multa de hasta 5 veces el salario mínimo vigente en la ciudad de Mérida, en los juzgados de Paz; en los de Primera instancia hasta de 25 veces el salario mínimo vigente en la ciudad de Mérida, y hasta de 50 veces el salario mínimo vigente en la ciudad de Mérida en el Tribunal Superior.
+Los magistrados y los jueces tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y las consideraciones debidas, corrigiendo en el acto las faltas que se cometieren con multa de una a cinco unidades de medida y actualización, en los juzgados de paz; en los de primera instancia de una a veinticinco unidades de medida y actualización, y de una a cincuenta unidades de medida y actualización en el Tribunal Superior.
+
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
 
 Si las faltas llegaren a constituir delito, se procederá contra los responsables, con arreglo a lo dispuesto en el Código de Defensa Social.
+
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
 
 También podrá el Tribunal Superior y los Jueces imponer, por resolución escrita, correcciones disciplinarias a los Abogados, Secretarios, Actuarios y Dependientes de los Tribunales y Juzgados por las faltas que cometan en el desempeño de sus funciones respectivas.
 
@@ -423,9 +423,9 @@ Se entenderá corrección disciplinaria:
 
 I.- El apercibimiento o prevención.
 
-> <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- La multa que no exceda de 20 veces el salario mínimo vigente en la ciudad de Mérida.
+II.- La multa que no exceda de veinte unidades de medida y actualización.
 
 III.- La suspensión que no exceda de un mes.
 
@@ -437,9 +437,9 @@ Contra la resolución que impusiere la corrección disciplinaria, procede el rec
 
 Los Jueces, para hacer cumplir sus determinaciones, pueden emplear cualesquiera de los siguientes medios de apremio:
 
-> <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-I.- La multa de hasta 20 veces el salario mínimo vigente en la ciudad de Mérida.
+I.- La multa de una a veinte unidades de medida y actualización.
 
 II.- El auxilio de la fuerza pública.
 
@@ -695,11 +695,11 @@ Los Jueces y los Magistrados tienen el deber de inhibirse del conocimiento de lo
 
 En el caso del artículo anterior, el Juez o Magistrado lo comunicará por oficio al Tribunal Superior a fin de que éste lleve el registro de las excusas de cada Juez o Magistrado, para formar su hoja de servicios.
 
-> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 104.
 
-La infracción de los artículos anteriores será la causa de responsabilidad y se castigará, a queja de parte, con multa de hasta 20 veces el salario mínimo vigente en la ciudad de Mérida y destitución de empleo.
+La infracción de los artículos anteriores será la causa de responsabilidad y se castigará, a queja de parte, con multa de una a veinte unidades de medida y actualización y destitución de empleo.
 
 ### CAPITULO II. De las recusaciones
 
@@ -757,11 +757,11 @@ Si se declarare improcedente o no probada la causa de recusación que se hubiere
 
 ### CAPITULO III. De la substanciación y decisión de las recusaciones
 
-> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 115.
 
-Los Jueces o Tribunales desecharán de plano toda recusación que no estuviere hecha en tiempo y forma, o que no esté fundada en los artículos 101, 105, 109, 110. La infracción de este precepto será sancionada, a queja de parte, por el Tribunal Superior de Justicia, con multa hasta de 20 veces el salario mínimo vigente en la ciudad de Mérida.
+Los jueces o tribunales desecharán de plano toda recusación que no estuviere hecha en tiempo y forma, o que no esté fundada en los artículos 101, 105, 109, 110. La infracción de este precepto será sancionada, a queja de parte, por el Tribunal Superior de Justicia, con multa de una a veinte unidades de medida y actualización.
 
 ###### ARTICULO 116.
 
@@ -797,11 +797,11 @@ Si en la sentencia se declara que procede la recusación, volverán los autos al
 
 El Juez que conozca de una recusación, es irrecusable para sólo este efecto.
 
-> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 124.
 
-Si se declara no ser bastante la causa o si recibido a prueba el incidente se fallare contra el recusante, se devolverán los autos con testimonio de la resolución al juez recusado, para que continúe en el conocimiento del negocio, y se aplicará al recusante una multa que, tratándose de los Jueces de Paz será de cinco a veinte veces el salario mínimo diario vigente en la ciudad de Mérida; y tratándose de los jueces de primera instancia, competentes para aplicar este Código, o de los Magistrados del Tribunal Superior de Justicia, será de diez a cincuenta veces el salario mínimo.
+Si se declara no ser bastante la causa o si recibido a prueba el incidente se fallare contra el recusante, se devolverán los autos con testimonio de la resolución al juez recusado, para que continúe en el conocimiento del negocio, y se aplicará al recusante una multa que, tratándose de los jueces de paz será de cinco a veinte unidades de medida y actualización; y tratándose de los jueces de primera instancia; competentes para aplicar este código, o de los magistrados del Tribunal Superior de Justicia, será de diez a cincuenta unidades de medida y actualización.
 
 ###### ARTICULO 125.
 
@@ -1133,11 +1133,11 @@ Después de concluido el término ordinario no se recibirá prueba alguna que no
 
 El término extraordinario concluirá luego que se rindan las pruebas para que se pidió, aunque no haya expirado el plazo señalado.
 
-> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 183.
 
-El litigante a quien se hubiere concedido el término extraordinario y no rindiese la prueba que hubiere propuesto, será condenado en la sentencia definitiva a pagar a su contrario una multa de hasta 50 veces el salario mínimo vigente en la ciudad de Mérida, y la indemnización de daños y perjuicios. En la misma pena incurrirá si la prueba rendida se calificare de inconducente.
+El litigante a quien se hubiere concedido el término extraordinario y no rindiese la prueba que hubiere propuesto, será condenado en la sentencia definitiva a pagar a su contrario una multa de una a cincuenta unidades de medida y actualización, y la indemnización de daños y perjuicios. En la misma pena incurrirá si la prueba rendida se califica inconducente.
 
 ###### ARTICULO 184.
 
@@ -1465,11 +1465,11 @@ Si el nuevo perito nombrado no aceptare, el Juez hará el nombramiento.
 
 El Juez señalará, lugar, día y hora para la práctica de la diligencia.
 
-> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 253.
 
-El perito que dejare de concurrir, sin causa justificada calificada por el Juez, incurrirá en una multa de hasta 20 veces el salario mínimo vigente en la ciudad de Mérida e indemnizará de los daños y perjuicios que por su falta se hayan causado nombrándose otro perito.
+El perito que dejare de concurrir, sin causa justificada calificada por el juez, incurrirá en una multa de una a veinte unidades de medida y actualización e indemnizará de los daños y perjuicios que por su falta se hayan causado nombrándose otro perito.
 
 ###### ARTICULO 254.
 
@@ -1563,15 +1563,13 @@ Cuando una de las partes se oponga a la inspección o reconocimiento judicial or
 
 ### CAPITULO VII. De la prueba testimonial
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 268.
 
 Todo el que no tenga impedimento legal, está obligado a declarar como testigo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 13 DE JUNIO DE 2007)</small>
-
-Las partes tendrán la obligación de presentar a sus testigos, para cuyo efecto se le entregarán las cédulas de notificación. Cuando existiere imposibilidad para hacerla, bajo protesta de decir verdad, lo manifestarán al juez, quien ordenará la citación con apercibimiento de multa de cinco hasta quince veces el salario mínimo, que aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
+Las partes tendrán la obligación de presentar a sus testigos, para cuyo efecto se le entregarán las cédulas de notificación. Cuando existiere imposibilidad para hacerla, bajo protesta de decir verdad, lo manifestarán al juez, quien ordenará la citación con apercibimiento de multa de cinco hasta quince unidades de medida y actualización, que aplicará al testigo que no comparezca sin causa justificada o que se niegue a declarar.
 
 ###### ARTICULO 269.
 
@@ -1979,11 +1977,11 @@ A falta de ley expresa aplicable al caso, la controversia se decidirá en térmi
 
 Cuando hubiere condena de frutos, intereses, daños y perjuicios, se fijará su importe en cantidad líquida, o se establecerán por lo menos, las bases con arreglo a las cuales deba hacerse la liquidación, cuando no sean el objeto principal del juicio.
 
-> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 346.
 
-Si transcurriese el término legal sin dictarse sentencia, los Jueces y Magistrados incurrirán de plano en una multa hasta de 30 veces el salario mínimo vigente en la ciudad de Mérida y pagarán daños y perjuicios.
+Si transcurriese el término legal sin dictarse sentencia, los jueces y magistrados incurrirán de plano en una multa de una a treinta unidades de medida y actualización y pagarán daños y perjuicios.
 
 ###### ARTICULO 347.
 
@@ -2069,11 +2067,11 @@ El Juez en vista de lo que la parte exponga y sin otro trámite, lo más tarde a
 
 El auto que aclare la sentencia se reputará parte integrante de ésta.
 
-> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 362.
 
-Siempre que los tribunales resuelvan no haber lugar a la aclaración que se pida, y juzgaren que el recurso se ha interpuesto maliciosamente, condenarán al que solicitó aquélla en las costas del recurso y le impondrán una multa de hasta 30 veces el salario mínimo vigente en la ciudad de Mérida.
+Siempre que los tribunales resuelvan no haber lugar a la aclaración que se pida, y juzgaren que el recurso se ha interpuesto maliciosamente, condenarán al que solicitó aquélla en las costas del recurso y le impondrán una multa de una a treinta unidades de medida y actualización.
 
 ###### ARTICULO 363.
 
@@ -3133,11 +3131,11 @@ La incompetencia, por declinatoria de jurisdicción, se propondrá también al c
 
 El Juez remitirá desde luego los autos a su inmediato superior, emplazando a los interesados para que comparezcan ante éste, el cual, en una audiencia que fijará dentro de los seis días siguientes a aquél en que reciba los autos, admitirá y perfeccionará las pruebas que se ofrezcan, oirá los alegatos de las partes y del Ministerio Público, resolverá la cuestión y enviará sin retardo el expediente al Juez que estime competente, haciéndolo saber a los litigantes. La demanda y la contestación se tendrán como presentadas ante Juez competente.
 
-> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 555.
 
-Cuando se declare improcedente la declinatoria, deberá pagar las costas causadas el que la promovió y una multa mínima de diez veces y máxima de cien veces el salario mínimo, que según la naturaleza del litigio, le impondrá el superior a favor de la contraparte.
+Cuando se declare improcedente la declinatoria, deberá pagar las costas causadas el que la promovió y una multa de diez a cien unidades de medida y actualización que, según la naturaleza del litigio, le impondrá el superior a favor de la contraparte.
 
 ###### ARTICULO 556.
 
@@ -3485,11 +3483,11 @@ Verificado, de cualquiera de los modos que quedan indicados, el requerimiento, s
 
 La ejecución sólo se suspenderá cuando el demandado presente certificado legalmente expedido, en que conste que la finca que se quiere embargar, está sujeta a juicio hipotecario.
 
-> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 615.
 
-De todo embargo de bienes raíces se tomará razón en el Registro Público de la Propiedad librándose al efecto, copia certificada de la diligencia de embargo y poniéndose en autos la debida constancia. Es obligación del Juez enviar al Registro, dentro de veinticuatro horas, la copia certificada bajo pena de multa de hasta 20 veces el salario mínimo vigente en la ciudad de Mérida.
+De todo embargo de bienes raíces se tomará razón en el Registro Público de la Propiedad librándose al efecto, copia certificada de la diligencia de embargo y poniéndose en autos la debida constancia. Es obligación del juez enviar al registro, dentro de veinticuatro horas, la copia certificada bajo pena de multa de una a veinte unidades de medida y actualización.
 
 ###### ARTICULO 616.
 
@@ -3577,11 +3575,11 @@ Si la sentencia declarase que no procede el juicio ejecutivo, reservará al acto
 
 ### CAPITULO V. Del juicio verbal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 624.
 
-Serán objeto de juicio verbal las demandas cuya cuantía no exceda de doscientas veces el salario mínimo.
+Serán objeto de juicio verbal las demandas cuya cuantía no exceda de doscientas unidades de medida y actualización.
 
 > <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -3599,11 +3597,11 @@ Las demandas de arrendamiento nunca serán objeto de juicio verbal.
 
 Las disputas sobre el estado civil de las personas nunca serán motivo de juicio verbal, sea cual fuere el interés pecuniario que de ellas pueda dimanar a favor o en contra de los que las promuevan.
 
-> <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 626.
 
-Si al entablar demanda en juicio verbal se opusiere reconvención, por cantidad mayor a doscientas veces el salario mínimo, se remitirá el expediente al juez que corresponda por la cuantía de la reconvención para que éste continúe la tramitación del juicio.
+Si al entablar demanda en juicio verbal se opusiere reconvención, por cantidad mayor a doscientas unidades de medida y actualización, se remitirá el expediente al juez que corresponda por la cuantía de la reconvención para que continúe la tramitación del juicio.
 
 > <small>(REFORMADO, D.O. 13 DE JUNIO DE 2007)</small>
 
@@ -3623,11 +3621,11 @@ La orden se entregará al demandado en los términos prevenidos en el Capítulo 
 
 No compareciendo el demandado a la hora fijada, y formulada la demanda por el actor, se dará por contestada en sentido negativo, y se recibirá el juicio a prueba, si el actor lo pidiere o el Juez lo estimare necesario.
 
-> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 631.
 
-Presentándose el demandado a la hora fijada, y no el actor, se impondrá a éste una multa de hasta 10 veces el salario mínimo vigente en la ciudad de Mérida, que se aplicará a aquél por vía de indemnización; y sin que justifique haberse hecho el pago, no se citará de nuevo para el juicio.
+Presentándose el demandado a la hora fijada, y no el actor, se impondrá a este una multa de una a diez unidades de medida y actualización, que se aplicará a aquel por vía de indemnización; y sin que justifique haberse hecho el pago, no se citará de nuevo para el juicio.
 
 ###### ARTICULO 632.
 
@@ -4181,11 +4179,11 @@ El compromiso puede celebrarse antes de que haya juicio, durante éste, y despu�
 
 El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados renuncian expresamente los derechos que ella les otorga.
 
-> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 748.
 
-El compromiso debe de celebrarse en escritura pública, siempre que el interés del pleito exceda de 500 veces el salario mínimo vigente en la ciudad de Mérida; si no llegara a esa cantidad, puede celebrarse en escrito privado ante Escribano Público.
+El compromiso debe de celebrarse en escritura pública, siempre que el interés del pleito exceda de quinientas unidades de medida y actualización; cuando no alcance esa cantidad podrá celebrarse en escrito privado ante escribano público.
 
 ###### ARTICULO 749.
 
@@ -6876,3 +6874,15 @@ Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de es
 Décimo primero. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
