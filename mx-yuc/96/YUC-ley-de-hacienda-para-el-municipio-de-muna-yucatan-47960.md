@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-muna-yucatan-47960"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2015-12-18"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -443,11 +443,11 @@ IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y 
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 41.
 
-El cobro de derechos por las licencias de funcionamiento que expida la Tesorería Municipal, serán de acuerdo a las tarifas establecidas en el artículo 90 y 90-A de esta propia Ley de Hacienda.
+Las licencias de funcionamiento que expida la Tesorería Municipal serán gratuitas, excepto aquellas que autoricen el funcionamiento de establecimientos que de manera permanente o transitoria expendan bebidas alcohólicas y que autoricen el funcionamiento de plantas generadoras de energía renovable y/o no renovable, mismas que se señalan en el Capítulos III de esta ley.
 
 Dichas licencias tendrán una duración de un año, con excepción de las expedidas por la administración municipal, en su último año de gobierno que concluirán el último día del período constitucional.
 
@@ -1311,41 +1311,55 @@ Lo dispuesto en este artículo, no libera a los responsables de las obras o de l
 
 Son responsables solidarios del pago de estos derechos, los ingenieros, contratistas, arquitectos y/o encargados de la realización de las obras.
 
-### Capítulo III. De las Licencias de Funcionamiento de los Establecimientos que Expendan Bebidas Alcohólicas
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+### Capítulo III
+
+De las Licencias de Funcionamiento de los Establecimientos que Expendan Bebidas Alcohólicas y/o establecimientos que operen y/o instalen plantas generadoras de energía renovable y/o no renovable.
 
 DE LOS SUJETOS
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 88.
 
-Quedarán obligados al pago de los derechos para la obtención de la licencia de funcionamiento, todas aquéllas personas físicas o morales que deseen abrir al público:
+Quedarán obligados al pago de los derechos para la obtención de la licencia de funcionamiento, todas aquéllas personas físicas o morales que deseen abrir al público y/o operar:
 
 I.- Establecimientos en los que se expendan bebidas alcohólicas.
 
 II.- Establecimientos o locales comerciales y/o de servicios en general.
 
-Quedan obligados al pago de los derechos para la obtención de las licencias de funcionamiento que se establece en el presente capítulo, todas aquellas personas físicas o morales que deseen abrir o tengan en operación al público, establecimientos en los que se expendan bebidas alcohólicas tales como, los que de manera enunciativa más no limitativa, se relacionan a continuación:
+III.- Parques eólicos para la generación de energía renovable o no renovable.
 
-I.- Restaurantes.
+IV.- Plantas solares (fotovoltaicas) para la generación de energía renovable o no renovable.
 
-II.- Bares.
+Quedan obligados al pago de los derechos para la obtención de las licencias de funcionamiento que se establece en el presente capítulo, todas aquellas personas físicas o morales que deseen abrir o tengan en operación al público, establecimientos en los que se expendan bebidas alcohólicas y/o instalen u operen plantas generadoras de energía renovables y/o no renovables. Tales como, los que de manera enunciativa más no limitativa, se relacionan a continuación:
 
-III.- Hoteles.
+A).- Restaurantes.
 
-IV.- Discotecas.
+B).- Bares.
 
-V.- Salones de baile.
+C).- Hoteles.
 
-VI.- Supermercados.
+D).- Discotecas.
 
-VII.- Vinaterías.
+E).- Salones de baile.
 
-VIII.- Expendios de cerveza
+F).- Supermercados.
 
-IX.- Salón cerveza.
+G).- Vinaterías.
 
-Asimismo, se podrá otorgar permisos y autorizaciones de tipo eventual que se establezcan en esta Ley.
+H).- Expendios de cerveza
+
+I).- Salón cerveza.
+
+V.- Parques eólicos para la generación de energía renovable o no renovable.
+
+VI.- Plantas solares (fotovoltaicas) para la generación de energía renovable o no renovable
+
+Asimismo, se podrá otorgar permisos y autorizaciones de tipo eventual para la venta de bebidas alcohólicas que se establezcan en esta Ley.
+
+Para que la Tesorería Municipal esté en condiciones de expedir la Licencia de Funcionamiento para la venta de bebidas alcohólicas o su revalidación, el peticionario deberá de acompañar, además de la documentación que se señala en el Artículo 41 de esta Ley, el original o copia certificada de la Licencia de Salubridad o determinación sanitaria vigente expedida por la Secretaría de Salud del Estado de Yucatán.
 
 DE LA VIGENCIA
 
@@ -1377,21 +1391,21 @@ I.- Por apertura de expendios $ 20,000.00
 
 II.- Por apertura de minisúper y/o restaurante $ 20,000.00
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+III.- Por permisos eventuales para venta de bebidas alcohólicas $ 500.00
 
-III.- por permisos eventuales $ 500.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+IV.- Por revalidación para establecimientos que expendan bebidas alcohólicas $ 1,000.00
 
-> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV.- Por revalidación $ 1,200.00
+V.- Para la instalación y operación de Parques eólicos para la generación de energía renovable o no renovable $ 200,000.00
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-Por el otorgamiento de permisos con motivo de bailes populares, luz y sonido, verbenas y otros, se cobrará $ 1,000.00 por día.
+VI.- Para la instalación y operación Plantas fotovoltaicas para la generación de energía renovable o no renovable $250,000.00
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -2762,3 +2776,11 @@ D.O. 18 DE DICIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 429/2016 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, MOTUL, MUNA, SACALUM, SUMA DE HIDALGO, TEMAX, TIZIMÍN Y UAYMA".]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
