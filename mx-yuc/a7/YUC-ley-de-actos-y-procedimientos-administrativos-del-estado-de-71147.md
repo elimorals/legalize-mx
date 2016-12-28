@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-actos-y-procedimientos-administrativos-del-estado-de-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-07"
-last_updated: "2016-06-01"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de diciembre de 2009.
 
@@ -803,7 +803,9 @@ Las personas físicas o morales deberán cumplir los mandatos y medidas impuesta
 
 Las autoridades administrativas para hacer cumplir sus determinaciones, podrán hacer uso de los siguientes medios de apremio:
 
-I.- Multa de cincuenta a cien días de salario mínimo vigente en el Estado de Yucatán, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I.- Multa de cincuenta a cien unidades de medida y actualización, y
 
 II.- Auxilio de la fuerza pública.
 
@@ -1292,3 +1294,15 @@ D.O. 1 DE JUNIO DE 2016.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor el día de su publicación en el diario oficial del estado.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
