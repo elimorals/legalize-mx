@@ -4,7 +4,7 @@ identifier: "SIN-codigo-fiscal-del-estado-de-sinaloa-6437"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-12-28"
-last_updated: "2013-06-21"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO FISCAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 28 de diciembre de 1994.
 
@@ -391,6 +391,8 @@ Los particulares podrán solicitar a la autoridad la declaratoria de prescripci�
 
 La cancelación de créditos fiscales en las cuentas por incosteabilidad en el cobro y por insolvencia del sujeto pasivo o de los responsables solidarios no liberan a uno y a otro de su obligación.
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO NÚMERO: 58 PUBLICADO EN EL P.O. 28 DE DICIEMBRE DE 2016, LOS CRÉDITOS, CONTRATOS, CONVENIOS, GARANTÍAS, COBERTURAS Y OTROS ESQUEMAS FINANCIEROS, DE CUALQUIER NATURALEZA VIGENTES A LA FECHA DE ENTRADA EN VIGOR DE ESTE DECRETO QUE UTILICEN EL SALARIO MÍNIMO COMO REFERENCIA PARA CUALQUIER EFECTO, SE REGIRÁN CONFORME A LO ESTABLECIDO EN LOS ARTÍCULOS SÉPTIMO Y OCTAVO TRANSITORIOS DEL DECRETO QUE DECLARA REFORMADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTISIETE DE ENERO DEL AÑO DOS MIL DIECISÉIS.]</small>
+
 ###### ARTICULO 54.
 
 Procederá discrecionalmente la cancelación de créditos fiscales por incosteabilidad o insolvencia:
@@ -741,7 +743,9 @@ IX.- Recabar de los funcionarios y empleados públicos y de los fedatarios, los 
 
 X.- Emplear cualquiera de los siguientes medios de apremio que juzguen eficaces, para hacer cumplir sus determinaciones;
 
-a).- La multa de uno hasta quince salarios mínimos generales que se duplicará en caso de reincidencia;
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+a).- La multa de una hasta quince veces el valor diario de la Unidad de Medida y Actualización que se duplicará en caso de reincidencia;
 
 b).- El auxilio de la fuerza pública; y
 
@@ -760,10 +764,6 @@ a).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 b).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
 
 c).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
-
-> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
@@ -1099,7 +1099,9 @@ El Secretario de Hacienda Pública y Tesorería, el Subsecretario de Ingresos y 
 
 La aplicación de las sanciones administrativas que procedan se hará por las autoridades fiscales sin perjuicio de que se exija el pago de las contribuciones y demás accesorios así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-Cuando se haga referencia al salario mínimo general, se entenderá que es el vigente en el área geográfica correspondiente al Estado de Sinaloa, al momento de efectuar el pago.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Cuando se haga referencia a la Unidad de Medida y Actualización, se entenderá que es el valor diario de dicha Unidad, al momento de efectuarse el pago.
 
 ###### ARTICULO 95.
 
@@ -1127,71 +1129,101 @@ Son infracciones cuya responsabilidad corresponde a los sujetos pasivos de una o
 
 I.- No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse, o hacerlo fuera de los plazos legales; no incluir en las manifestaciones para su inscripción en el registro de causantes todas las actividades por las que sea contribuyente habitual o no citar su número de registro de contribuyentes en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquiera oficina o autoridades fiscales.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de uno hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 Si el registro se hace en forma espontánea no importando que sea fuera de plazo, no se aplicará la multa.
 
 II.- Obtener o usar más de un número de registro para el cumplimiento de las obligaciones a su cargo en relación con uno o más impuestos estatales.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 III.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos correspondientes.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 IV.- No obtener oportunamente los permisos, placas, boletas de registro, o cualquier otro documento exigido por las disposiciones fiscales; no tenerlos en los lugares que señalan dichas disposiciones o no devolverlos oportunamente dentro del plazo que las mismas disposiciones establecen.
 
-Multa de uno hasta diez díaz (sic) de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de uno hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 V.- Perforar o destruir sin estar facultados, los cierres de control que determinan las leyes fiscales, o desprenderlos de los barriles, botellas, botes o demás vasijas que contengan los productos gravados; o alterar o destruir los cordones, envolturas o sellos oficiales.
 
-Multa de cinco hasta veinte días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 VI.- No llevar los sistemas de contabilidad que requieran las disposiciones fiscales federales; llevarlos en forma distinta como estas prescriben; no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos o fuera de los plazos respectivos.
 
-Multa de cinco hasta veinte días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 VII.- Llevar doble contabilidad.
 
-Multa de cinco hasta veinte días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 VIII. Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco, cualquiera anotación, asiento o constancia hecha en la contabilidad; o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 IX.- Destruir o inutilizar los asientos contables cuando no haya transcurrido el plazo durante el cual conforme a la ley deben conservar.
 
-Multa de cinco hasta veinte días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 X.- No presentar los asientos o sistemas de contabilidad, cuando lo exigen las disposiciones fiscales.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de uno hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 XI.- No proporcionar oportunamente a las autoridades los comprobantes de pago de las prestaciones fiscales cuando lo exijan las disposiciones relativas.
 
-Multa de cinco hasta veinte días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-XII. Faltar a la obligación de extender recibos, facturas o cualesquiera otro documento que señalen las leyes fiscales. No exigirlos cuando tengan la obligación de hacerlo. No consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma.
+Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
 
-Multa de cinco hasta veinte días de salario mínimo general.
+XII.- Faltar a la obligación de extender recibos, facturas o cualesquiera otro documento que señalen las leyes fiscales. No exigirlos cuando tengan la obligación de hacerlo. No consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma.
 
-XIII. No presentar o no proporcionar o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales, no comprobarlo o no aclararlos cuando las autoridades fiscales lo soliciten.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
 
-Multa de cinco a diez días de salario mínimo general para el Estado de Sinaloa.
+XIII.- No presentar o no proporcionar o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias o documentos que exijan las disposiciones fiscales, no comprobarlo o no aclararlos cuando las autoridades fiscales lo soliciten.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de cinco a diez veces el valor diario de la Unidad de Medida y Actualización.
 
 XIV.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, o documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal.
 
-Multa de cinco hasta veinte días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 XV.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, o documentos a que se refieren las dos fracciones anteriores, alterados o falsificados.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 XVI.- Declarar ingresos menores de los percibidos, hacer deducciones derivadas de hechos falsos, o que no están autorizadas o que no reúnan los requisitos exigidos por las disposiciones fiscales; ocultar u omitir bienes o existencias que deban figurar en los inventarios, o listarlos a precios inferiores de los reales; no practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que éstas dispongan.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 XVII.- No pagar los impuestos o derechos dentro de los plazos señalados por las Leyes fiscales.
 
@@ -1201,33 +1233,47 @@ Multa del 50% al 100% de la prestación fiscal.
 
 XVIII.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitud, simulaciones, falsificaciones y otras maniobras.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 XIX.- Emplear para el pago de una prestación fiscal marbetes de clase o leyenda distinta de las previstas en las disposiciones respectivas.
 
-Multa de tres hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de tres hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 XX.- Expender marbetes o traficar con ellos sin autorización legal; adquirir marbetes de emisión fenecida o traficar con ellos, emplear para el pago de créditos fiscales marbetes que no correspondan a la época en que debió hacerse el pago.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de uno hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 XXI.- Resistirse por cualquier medio, a las visitas de inspección; no suministrar los datos, e informes que legalmente puedan exigir inspectores, auditores o visitadores; no mostrar los sistemas de contabilidad, documentos, registros o impedir acceso a los almacenes, depósitos, tinacales, bodegas o cualquier otra dependencia y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita;
 
-Multa de veinte hasta cien días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de veinte hasta cien veces el valor diario de la Unidad de Medida y Actualización.
 
 XXII.- No conservar documentos y correspondencia que le sean dejados en calidad de depositario, por los visitadores, inspectores o auditores al estarse practicando visitas domiciliarias.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 XXIII.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de uno hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADA, P.O. 19 DE SEPTIEMBRE DE 2001)</small>
 
 XXIV. No presentar el Dictamen de Obligaciones Fiscales Estatales en los términos del artículo 78 BIS-C de este Código.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 98.
 
@@ -1235,39 +1281,57 @@ Son infracciones cuya responsabilidad corresponde a los jueces, encargados de lo
 
 I.- No expedir las notas de liquidación de alguna prestación fiscal, aún en los casos de exención.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 II.- Expedir las notas a que se refiere la fracción anterior en forma que de lugar a la evasión total o parcial del gravamen.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 III.- Autorizar actos o contratos de enajenación o traspaso de negociaciones; de disolución por la Ley, sin cerciorarse previamente de que se esté al corriente en las obligaciones fiscales, o sin dar los avisos que prevengan las leyes de la materia.
 
-Multa de dos hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 IV.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo, en el plazo que fijen las disposiciones fiscales o cuando lo exijan las autoridades competentes, o presentarlos incompletos o inexactos.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 V.- Proporcionar los informes, datos o documentos a que se refiere la fracción anterior, alterados o falsificados;
 
-Multa de cinco hasta veinte días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 VI.- Extender constancia de haberse cumplido con las obligaciones fiscales en los actos en que intervengan, cuando no proceda su otorgamiento.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 VII.- Cooperar con los infractores o facilitarles en cualquier forma la omisión total o parcial del pago de contribuciones mediante alteraciones, ocultaciones u otros hechos u omisiones.
 
-Multa de dos hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 VIII.- Resistirse, por cualquier medio, a las visitas de auditores o inspectores, no suministrar los datos o informes que legalmente puedan exigir los auditores, visitadores o inspectores; no mostrarles los libros, documentos, registros y, en general, los elementos necesarios para la práctica de la visita.
 
-Multa de dos hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 IX.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 99.
 
@@ -1275,67 +1339,97 @@ Son infracciones cuya responsabilidad corresponde a los funcionarios y empleados
 
 I.- Dar entrada o curso a documentos que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales, y en general no cuidar el cumplimiento de las disposiciones fiscales.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 Esta responsabilidad será exigible aun cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo.
 
 II.- Extender actas, expedir certificados legalizar firmas, autorizar documentos inscribirlos o registrarlos cuando no exista constancia de que se pagó el impuesto o derecho correspondiente.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 III.- Recibir el pago de una prestación fiscal y no enterar su importe dentro de los plazos legales.
 
-Multa de diez hasta cien días de salario mínimo general. Esta sanción se aplicará sin perjuicio de la sanción penal que corresponda.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cien veces el valor diario de la Unidad de Medida y Actualización. Esta sanción se aplicará sin perjuicio de la sanción penal que corresponda.
 
 IV.- No exigir el pago total de las contribuciones causadas.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 V.- No presentar o no proporcionar, o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos y no prestar auxilio y colaboración a las autoridades fiscales para la determinación y cobro de las prestaciones fiscales.
 
-Multa de dos hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 VI.- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 VII.- Alterar documentos fiscales que tengan en su poder.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 VIII.- Asentar falsamente que se dio cumplimiento a las disposiciones fiscales o que se practicaron visitas de auditoría o inspección o incluir datos falsos en las actas relativas.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 IX.- No practicar las visitas de inspección cuando tengan la obligación de hacerlo.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 X.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales.
 
-Multa de dos hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 XI.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozca, revelar los datos declarados por los contribuyentes o aprovecharse de ellos.
 
-Multa de cinco hasta veinte días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 Para los efectos de esta infracción, los representantes de los causantes que integren los organismos fiscales autónomos, se asimilan a los empleados o funcionarios Públicos.
 
 XII.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento cooperar en cualquier forma para que se eludan las prestaciones fiscales.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 XIII.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos o informes que legalmente puedan exigir los inspectores, auditores o visitadores; no mostrar los documentos, registros, o locales y en general negarse a proporcionar los elementos que se requieran en relación con el objeto de la visita.
 
-Multa de dos hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 XIV.- Exigir bajo el título de cooperaciones, colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en la ley, aún cuando se aplique a la realización de las funciones propias del cargo.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 XV.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 100.
 
@@ -1343,59 +1437,87 @@ Son infracciones cuya responsabilidad recae sobre terceros, y a cada uno corresp
 
 I.- No inscribirse en el Registro Estatal de Causantes, o consentir o tolerar que se inscriban a su nombre en dicho registro negociaciones ajenas o percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando esto último origine la evasión de contribuciones.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 II.- No proporcionar avisos, informes, datos o documentos o no exhibirlos en el plazo fijado por las disposiciones fiscales o cuando las autoridades los exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 III.- Presentar los avisos, informes, datos o documentos de que se habla en la fracción anterior, alterados, falsificados, incompletos o inexactos.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 IV.- Proporcionar los avisos, datos, informes o documentos a que se refieren las fracciones anteriores, alterados o falsificados.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 V.- Autorizar o hacer constar documentos, inventarios, balances, asientos o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 VI.- Contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan.
 
-Multa de dos hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de dos hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 VII.- Ser cómplice en cualquier forma no prevista, la comisión de infracciones fiscales.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 VIII.- No enterar total o parcialmente el importe de las prestaciones fiscales retenidas, recaudadas o que debieron de retener o recaudar, dentro de los plazos que establezcan las disposiciones fiscales.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 IX.- Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas.
 
-Multa de diez hasta cincuenta días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de diez hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 X.- Adquirir, ocultar retener o enajenar productos, mercancías o artículos, a sabiendas de que no se cubrieron las contribuciones que en relación con los mismos se hubiesen debido pagar.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 XI.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de acuerdo con las disposiciones fiscales.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 XII.- Alterar o destruir los cordones, envolturas o sellos oficiales.
 
-Multa de cinco hasta veinte días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de cinco hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 XIII.- Resistirse por cualquier medio a las visitas domiciliarias; no suministrar los datos e informes que legalmente puedan exigir los visitadores, auditores o inspectores, no mostrar los documentos, registros, bodegas, depósitos, locales o cajas de valores y, en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal de los contribuyentes con quienes haya efectuado operaciones, en relación con el objeto de la visita.
 
-Multa de viente (sic) hasta cien días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de veinte hasta cien veces el valor diario de la Unidad de Medida y Actualización.
 
 XIV.- Infringir disposiciones fiscales en forma distinta de la prevista en las fracciones precedentes.
 
-Multa de uno hasta diez días de salario mínimo general.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 101.
 
@@ -1409,9 +1531,11 @@ I.- Aquellos que de conformidad con otras leyes tengan obligación de guardar re
 
 II.- Los que participen en las tareas de asistencia al contribuyente previstas por las disposiciones fiscales.
 
-###### ARTICULO 102.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-La infracción en cualquier forma a las disposiciones fiscales, diversa a las previstas en este capítulo, se sancionará con multa de uno hasta diez días de salario mínimo general.
+###### ARTÍCULO 102.
+
+La infracción en cualquier forma a las disposiciones fiscales, diversas a las previstas en este capítulo, se sancionará con multa de una hasta diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 103.
 
@@ -1887,9 +2011,13 @@ II.- Por el embargo.
 
 III.- Por el remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a un salario mínimo general diario correspondiente a la zona económica del Estado de Sinaloa, se cobrará ésta cantidad y no el 2% del crédito.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este Artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general de la zona económica correspondiente al Estado de Sinaloa, elevado a 30 días.
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a una vez el valor diario de la Unidad de Medida y Actualización se cobrará ésta cantidad, y no el 2% del crédito.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este Artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a 30 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 150.
 
@@ -2109,7 +2237,9 @@ El remate deberá ser convocado para una fecha fijada dentro de los treinta día
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el salario mínimo general de la zona económica que corresponda, elevado al año, la convocatoria se publicará en el órgano oficial de la entidad y en uno de los periódicos de mayor circulación.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+En el caso de que el valor de los bienes exceda de una cantidad equivalente a cinco veces el valor diario de la Unidad de Medida y Actualización, elevado al año, la convocatoria se publicará en el órgano oficial de la entidad y en uno de los periódicos de mayor circulación.
 
 ###### ARTICULO 178.
 
@@ -2342,3 +2472,19 @@ P.O. 21 DE JUNIO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
