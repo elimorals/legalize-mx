@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-obra-publica-y-servicios-conexos-del-estado-de-55236"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-25"
-last_updated: "2009-04-16"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE OBRA PUBLICA Y SERVICIOS CONEXOS DEL ESTADO DE YUCATAN
 
-LEY DE OBRA PUBLICA Y SERVICIOS CONEXOS DEL ESTADO DE YUCATAN
+LEY DE OBRA PÚBLICA Y SERVICIOS CONEXOS DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de abril de 2007.
 
@@ -691,9 +691,11 @@ II.- El cumplimiento de los contratos. Esta garantía deberá constituirse dentr
 
 El contratante fijará la forma y porcentaje a los que deberán sujetarse las garantías que deban constituirse.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 53.
 
-Cuando el monto de la obra contratada no exceda de 1300 salarios mínimos diarios vigentes en el Estado, el contratante bajo su responsabilidad, podrá eximir a los contratistas de presentar la garantía del cumplimiento.
+Cuando el monto de la obra contratada no exceda de mil trescientas unidades de medida y actualización el contratante, bajo su responsabilidad, podrá eximir a los contratistas de presentar la garantía del cumplimiento.
 
 ###### Artículo 54.
 
@@ -1173,9 +1175,11 @@ El resultado se hará constar en un dictamen, mismos (sic) que será firmado por
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 100.
 
-Los licitadores o contratistas que infrinjan las disposiciones de esta Ley, podrán ser sancionados por la contraloría o el órgano de control interno que corresponda, con multa equivalente de cincuenta hasta trescientas veces el salario mínimo general vigente en el Estado, a la fecha de la infracción.
+Los licitadores o contratistas que infrinjan las disposiciones de esta ley podrán ser sancionados por la contraloría o el órgano de control interno que corresponda, con multa de cincuenta a trescientas unidades de medida y actualización.
 
 ###### Artículo 101.
 
@@ -1235,7 +1239,7 @@ II.- Los actos cometidos durante el acto de presentación y apertura de proposic
 
 III.- Los actos y omisiones por parte de la convocante que impidan la formalización del contrato en los términos establecidos en las bases o en esta Ley. En este caso, la inconformidad solo podrá presentarse por quien haya resultado adjudicado, dentro de los diez días hábiles siguientes a aquel en que se hubiera vencido el plazo para la formalización del contrato.
 
-La Contraloría o el órgano de control interno respectivo desecharán las inconformidades en contra de actos o momentos distintos a los establecidos en las fracciones anteriores; (sic)
+La Contraloría o el órgano de control interno respectivo desecharán las inconformidades en contra de actos o momentos distintos a los establecidos en las fracciones anteriores;
 
 ###### Artículo 108.
 
@@ -1354,3 +1358,15 @@ Este Decreto entrará en vigor el día siguiente al de su publicación en el Dia
 ###### ARTÍCULO SEGUNDO.
 
 Se deroga cualquier disposición que se oponga al presente decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
