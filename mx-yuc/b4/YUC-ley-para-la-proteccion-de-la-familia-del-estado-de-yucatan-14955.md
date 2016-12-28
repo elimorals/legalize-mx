@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-la-familia-del-estado-de-yucatan-1495
 country: "mx"
 rank: "ley"
 publication_date: "1999-08-09"
-last_updated: "2014-11-03"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LA FAMILIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial el lunes 9 de Agosto de 1999.
 
@@ -829,7 +829,9 @@ La Procuraduría, podrá sancionar las infracciones a esta Ley de conformidad co
 
 I. Amonestación por escrito;
 
-II. Multa de tres a cincuenta veces el salario mínimo general vigente en el lugar al momento de realizarse las infracciones, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de tres a cincuenta unidades de medida y actualización, y
 
 III. Arresto inconmutable hasta por treinta y seis horas, en los casos de reincidencia.
 
@@ -859,7 +861,9 @@ VIII. En general, la contravención de cualquier disposición contenida en esta 
 
 Las infracciones señaladas en este artículo serán sancionadas con amonestación por escrito, además de la multa que corresponda de acuerdo con lo que dispone el párrafo siguiente:
 
-Las infracciones a que hacen referencia las fracciones I, II y III, serán sancionadas con multa de hasta veinte días de salario mínimo; la infracción a la que hace referencia la fracción IV, será sancionada con multa de hasta treinta días de salario mínimo; la infracción a que hace referencia la fracción V, será sancionada con multa de hasta cuarenta días de salario mínimo; la que señala la fracción VI, será sancionada con multa hasta de cincuenta días de salario mínimo; la que señala la fracción VII, será sancionada con multa hasta de quince días de salario mínimo, y las demás contravenciones a las disposiciones contenidas en esta Ley, serán sancionadas con multa de treinta días de salario mínimo.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Las infracciones a que hacen referencia las fracciones I, II y III, serán sancionadas con multa de una a veinte unidades de medida y actualización; la infracción a la que hace referencia la fracción IV, será sancionada con multa de una a treinta unidades de medida y actualización; la infracción a que hace referencia la fracción V, será sancionada con multa de una a cuarenta unidades de medida y actualización; la que señala la fracción VI, será sancionada con multa de una a cincuenta unidades de medida y actualización; la que señala la fracción VII, será sancionada con multa de una a quince unidades de medida y actualización, y las demás contravenciones a las disposiciones contenidas en esta ley, serán sancionadas con multa de una a treinta unidades de medida y actualización.
 
 ###### ARTÍCULO 93.
 
@@ -924,3 +928,15 @@ El Consejo Estatal para la Protección y Atención Integral de los Derechos de l
 Séptimo. Derogación tácita
 
 Se derogan todas las disposiciones legales y normativas de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
