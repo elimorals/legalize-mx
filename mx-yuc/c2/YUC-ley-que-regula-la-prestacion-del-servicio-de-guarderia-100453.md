@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-regula-la-prestacion-del-servicio-de-guarderia-100453"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-25"
-last_updated: "2014-04-25"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100453&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY QUE REGULA LA PRESTACIÓN DEL SERVICIO DE GUARDERÍA INFANTIL EN EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 25 de abril de 2014.
 
@@ -721,11 +721,17 @@ Sanciones
 
 Las infracciones a esta ley serán sancionadas de la siguiente manera:
 
-I. Las infracciones leves serán sancionadas con una multa de cincuenta a mil días de salario mínimo general vigente en el estado de Yucatán.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II. Las infracciones moderadas serán sancionadas con una multa de cien a mil quinientos días de salario mínimo general vigente en el estado de Yucatán y la suspensión de la autorización.
+I. Las infracciones leves serán sancionadas con una multa de cincuenta a mil unidades de medida y actualización.
 
-III. Las infracciones graves serán sancionadas con una multa de doscientos a dos mil días de salario mínimo general vigente en el estado de Yucatán y la revocación de la autorización y cancelación del registro.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Las infracciones moderadas serán sancionadas con una multa de cien a mil quinientas unidades de medida y actualización, y la suspensión de la autorización.
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III. Las infracciones graves serán sancionadas con una multa de doscientas a dos mil unidades de medida y actualización, y la revocación de la autorización y cancelación del registro.
 
 Estas sanciones se aplicarán sin perjuicio de las que procedan de conformidad con lo establecido en otras disposiciones legales y normativas.
 
@@ -788,3 +794,17 @@ Gobernador del Estado de Yucatán
 Víctor Edmundo Caballero Durán
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28. DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
