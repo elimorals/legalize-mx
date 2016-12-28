@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-participacion-ciudadana-que-regula-el-plebiscito-53551"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2014-06-28"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PARTICIPACIÓN CIUDADANA QUE REGULA EL PLEBISCITO, REFERÉNDUM Y LA INICIATIVA POPULAR EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 22 de enero 2007.
 
@@ -741,9 +741,11 @@ III.- Solicitar a la autoridad competente, realice el procedimiento de responsab
 
 El costo que genere la realización de los procedimientos de Plebiscito o Referéndum estarán a cargo del Instituto, el que deberá prever en su anteproyecto anual de presupuesto de egresos, la partida correspondiente; excepto, cuando lo solicite una autoridad quien sufragará dichos gastos.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 71.
 
-Corresponde al Consejo General, establecer los gastos máximos que erogaran las autoridades y los ciudadanos en cada procedimiento consultivo. La contravención al presente artículo, será sancionada con una multa de entre 50 a mil veces el salario mínimo general vigente en la entidad.
+Corresponde al Consejo General establecer los gastos máximos que erogaran las autoridades y los ciudadanos en cada procedimiento consultivo. La contravención a este artículo será sancionada con una multa de cincuenta a mil unidades de medida y actualización.
 
 ###### Artículo 72.
 
@@ -910,3 +912,15 @@ A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del T
 Décimo. Derogación tácita
 
 A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
