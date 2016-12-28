@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-adquisiciones-arrendamientos-y-prestacion-de-8130"
 country: "mx"
 rank: "ley"
 publication_date: "1988-10-04"
-last_updated: "1988-10-04"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 4 de Octubre de 1988.
 
@@ -333,13 +333,13 @@ Para los efectos de lo dispuesto en este artículo, la Dirección y las Entidade
 
 DE LAS INFRACCIONES Y SANCIONES.
 
-> <small>(F. DE E., D. O. 12 DE OCTUBRE DE 1988)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 33º.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley, podrán ser sancionados por la Secretaría de Finanzas con multa equivalente a la cantidad de diez a mil días de salario mínimo general vigente en el Estado a la fecha de la infracción.
+Quienes infrinjan las disposiciones contenidas en esta ley, podrán ser sancionados por la Secretaría con multa equivalente a la cantidad de diez a mil unidades de medida y actualización.
 
-Sin perjuicio de lo establecido en el párrafo anterior, los proveedores que incurran en infracciones a esta Ley, según la gravedad del acto u omisión de que fuesen responsables, podrán ser sancionados por la Dirección con la suspensión o cancelación de su registro en el Padrón de Proveedores de la Administración Pública Estatal.
+Sin perjuicio de lo establecido en el párrafo anterior, los proveedores que incurran en infracciones a esta Ley, según la gravedad del acto u omisión de que fuesen responsables, podrán ser sancionados por la Dirección con la suspensión o cancelación de su registro en el Padrón de Proveedores de la Administración Pública estatal.
 
 ###### ARTICULO 34º.
 
@@ -404,3 +404,17 @@ LIC. VICTOR MANZANILLA SCHAFFER.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. MARCO ANTONIO MARTINEZ ZAPATA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
