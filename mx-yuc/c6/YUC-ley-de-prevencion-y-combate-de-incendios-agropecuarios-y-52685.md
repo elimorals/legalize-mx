@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-prevencion-y-combate-de-incendios-agropecuarios-y-52685"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-13"
-last_updated: "2009-05-07"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE PREVENCION Y COMBATE DE INCENDIOS AGROPECUARIOS Y FORESTALES DEL ESTADO DE YUCATAN -ANTES LEY DE PREVENCION Y COMBATE DE INCENDIOS DEL ESTADO DE YUCATAN-
 
-LEY DE PREVENCION Y COMBATE DE INCENDIOS AGROPECUARIOS Y FORESTALES DEL ESTADO DE YUCATAN
+LEY DE PREVENCIÓN Y COMBATE DE INCENDIOS AGROPECUARIOS Y FORESTALES DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 13 de diciembre de 2006.
 
@@ -493,19 +493,21 @@ Los propietarios o poseedores de terrenos de uso forestal, deberán restaurar la
 
 ### CAPÍTULO X. De las Sanciones Administrativas
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 49.
 
-Las violaciones a los preceptos de esta Ley y a las disposiciones que de ella emanen, serán sancionadas por la Secretaría con multas administrativas o con trabajos a beneficio de la comunidad, independientemente de la responsabilidad Civil o Penal en que haya incurrido el infractor; cuando se de cualquiera de los supuestos que a continuación son relacionados:
+Las violaciones a los preceptos de esta Ley y a las disposiciones que de ella emanen, serán sancionadas por la Secretaría con multas administrativas o con trabajos a beneficio de la comunidad, independientemente de la responsabilidad civil o penal en que haya incurrido el infractor; cuando se de cualquiera de los supuestos que a continuación son relacionados:
 
-I. Al que no prevenga, no combata o por imprudencia, impericia o negligencia provoque incendios en terrenos agropecuarios, se le aplicará una multa de veinte a cincuenta días de salario mínimo general vigente en el Estado;
+I. Al que no prevenga, no combata o por imprudencia, impericia o negligencia provoque incendios en terrenos agropecuarios, se le aplicará una multa de veinte a cincuenta unidades de medida y actualización;
 
-II. Al que intencionalmente provoque incendios en terrenos agropecuarios y que se extienda a forestales, se le aplicará una multa de cien a doscientos días de salario mínimo general vigente en el Estado;
+II. Al que intencionalmente provoque incendios en terrenos agropecuarios y que se extienda a forestales, se le aplicará una multa de cien a doscientas unidades de medida y actualización;
 
-III. Al que sin autorización efectúe quemas en terrenos agropecuarios, se le aplicara una multa de doscientos a cuatrocientos días de salario mínimo general vigente en el Estado, y
+III. Al que sin autorización efectúe quemas en terrenos agropecuarios, se le aplicará una multa de doscientas a cuatrocientas unidades de medida y actualización, y
 
-IV. A los propietarios o poseedores de terrenos afectados por un incendio y a los titulares de autorizaciones de aprovechamiento de los recursos forestales maderables, forestación o reforestación, que teniendo conocimiento de un incendio no den aviso a la Secretaría, se les aplicará una multa de cincuenta a cuatrocientos días de salario mínimo general vigente en el Estado.
+IV. A los propietarios o poseedores de terrenos afectados por un incendio y a los titulares de autorizaciones de aprovechamiento de los recursos forestales maderables, forestación o reforestación, que teniendo conocimiento de un incendio no den aviso a la Secretaría, se les aplicará una multa de cincuenta a cuatrocientas unidades de medida y actualización.
 
-Las multas anteriormente previstas tendrán el carácter de fiscales y serán cobradas por la Secretaría de Hacienda del Estado, en términos del Código Fiscal del Estado, a través del procedimiento administrativo de ejecución.
+Las multas anteriormente previstas tendrán el carácter de fiscales y serán cobradas por la Agencia de Administración Fiscal de Yucatán, en términos del Código Fiscal del Estado de Yucatán, a través del procedimiento administrativo de ejecución.
 
 ###### Artículo 50.
 
@@ -614,3 +616,15 @@ A partir de la entrada en vigor de este Decreto, la Secretaría de Fomento Agrop
 ###### ARTÍCULO TERCERO.
 
 El Comité, en un plazo no mayor a 90 días a partir de la entrada en vigor de este Decreto, emitirá los lineamientos necesarios para la adopción de las medidas de seguridad que protejan a las personas y sus propiedades de las quemas.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
