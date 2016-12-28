@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-101698"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2016-02-18"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -2817,7 +2817,9 @@ Para la determinación de los gastos máximos de campaña, el Consejo General de
 
 I. Para la elección de Regidores:
 
-a) Multiplicará el número de ciudadanos inscritos en el Padrón Electoral del municipio correspondiente, con corte al 31 de diciembre del año previo a la elección, por un cuarto del salario mínimo general diario vigente en la entidad, al producto de esta operación se le denominará costo municipal, y
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+a) Multiplicará el número de ciudadanos inscritos en el Padrón Electoral del municipio correspondiente, con corte al 31 de diciembre del año previo a la elección, por un cuarto de la unidad de medida y actualización, al producto de esta operación se le denominará costo municipal, y
 
 b) El costo municipal se multiplicará por el factor territorial municipal que corresponda a cada municipio, obteniéndose de esta manera el gasto máximo de campaña del municipio de que se trate.
 
@@ -2825,7 +2827,9 @@ Para efectos de esta fracción, se entiende por factor territorial municipal, el
 
 II. Para la elección de Diputados de mayoría relativa:
 
-a) Multiplicará el número de ciudadanos inscritos en el Padrón Electoral del Distrito correspondiente, con corte al 31 de diciembre del año previo a la elección, por un cuarto del salario mínimo general diario vigente en la Entidad. Al producto de esta operación se le denominará costo distrital, y
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+a) Multiplicará el número de ciudadanos inscritos en el Padrón Electoral del Distrito correspondiente, con corte al 31 de diciembre del año previo a la elección, por un cuarto de la unidad de medida y actualización. Al producto de esta operación se le denominará costo distrital, y
 
 b) El costo distrital se multiplicará por el factor territorial distrital que corresponda a cada Distrito, obteniéndose de esta manera el gasto máximo de campaña del Distrito de que se trate.
 
@@ -4725,7 +4729,9 @@ I. Respecto de los partidos políticos:
 
 a) Con amonestación pública.
 
-b) Con multa de hasta diez mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de hasta diez mil unidades de medida y actualización, según la gravedad de la falta.
 
 En los casos de infracción a lo dispuesto en materia de topes a los gastos de precampaña y campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior.
 
@@ -4743,7 +4749,9 @@ II. Respecto de las agrupaciones políticas estatales:
 
 a) Con amonestación pública.
 
-b) Con multa de hasta diez mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de una a diez mil unidades de medida y actualización, según la gravedad de la falta
 
 c) Con la suspensión o cancelación de su registro, que en el primer caso no podrá ser menor a seis meses.
 
@@ -4751,7 +4759,9 @@ III. Respecto de los aspirantes, precandidatos o candidatos a cargos de elecció
 
 a) Con amonestación pública.
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de una a cinco mil unidades de medida y actualización.
 
 c) Con la pérdida del derecho del precandidato infractor a ser registrado como candidato, y en caso de ya ser candidato, con la cancelación definitiva de su registro.
 
@@ -4765,7 +4775,9 @@ IV. Respecto de los Candidatos Independientes:
 
 a) Con amonestación pública.
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de hasta cinco mil unidades de medida y actualización.
 
 c) Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo.
 
@@ -4775,13 +4787,21 @@ V. Respecto de los ciudadanos, de los dirigentes, militantes y afiliados a los p
 
 a) Con amonestación pública.
 
-b) Con multa de hasta mil días de salario mínimo vigente en el Estado.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-c) Respecto de los ciudadanos, o de los dirigentes, militantes y afiliados a los partidos políticos: con multa de hasta quinientos días de salario mínimo general vigente en el Estado; en el caso de aportaciones que violen lo dispuesto en esta Ley, o tratándose de la compra o adquisición ilegal de propaganda para la difusión política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo.
+b) Con multa de hasta mil unidades de medida y actualización.
 
-d) Respecto de las personas morales por las conductas señaladas en el inciso anterior: con multa de hasta cien mil días de salario mínimo general vigente en el Estado, en el caso de aportaciones que violen lo dispuesto en esta Ley, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-e) Respecto de la realización de actos de promoción electoral, previos al proceso electoral, con multa de mil a cinco mil días de salario mínimo en el Estado y el retiro de circulación o publicación del acto, documento, artículo, reportaje, o cualquier otro semejante, motivo de la infracción; en caso de reincidencia la negativa de registro como precandidato o candidato.
+c) Respecto de los ciudadanos, o de los dirigentes, militantes y afiliados a los partidos políticos: con multa de una a quinientas unidades de medida y actualización, en el caso de aportaciones que violen lo dispuesto en esta Ley, o tratándose de la compra o adquisición ilegal de propaganda para la difusión política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+d) Respecto de las personas morales por las conductas señaladas en el inciso anterior: con multa de una a cien mil unidades de medida y actualización, en el caso de aportaciones que violen lo dispuesto en esta Ley, o tratándose de la compra de tiempo en radio y televisión para la difusión de propaganda política o electoral, con multa de hasta el doble del precio comercial de dicho tiempo.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+e) Respecto de la realización de actos de promoción electoral, previos al proceso electoral, con multa de mil a cinco mil unidades de medida y actualización y el retiro de circulación o publicación del acto, documento, artículo, reportaje, o cualquier otro semejante, motivo de la infracción; en caso de reincidencia la negativa de registro como precandidato o candidato.
 
 VI. Respecto de observadores electorales u organizaciones de observadores electorales:
 
@@ -4789,13 +4809,17 @@ a) Con amonestación pública.
 
 b) Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales locales.
 
-c) Con multa de hasta doscientos días de salario mínimo general vigente en el Estado, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+c) Con multa de una a doscientas unidades de medida y actualización, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
 
 VII. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
 
 a) Con amonestación pública.
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de una a cinco mil unidades de medida y actualización, según la gravedad de la falta.
 
 c) Con la cancelación del procedimiento tendente a obtener el registro como partido político.
 
@@ -4803,7 +4827,9 @@ VIII. Respecto de las organizaciones sindicales, laborales o patronales, o de cu
 
 a) Con amonestación pública.
 
-b) Con multa de hasta cinco mil días de salario mínimo general vigente en el Estado, según la gravedad de la falta.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de una a cinco mil unidades de medida y actualización, según la gravedad de la falta.
 
 IX. Respecto de los ministros de culto, asociaciones, iglesias o agrupaciones de cualquier religión, el Consejo General cuando tenga conocimiento de la comisión de un delito por parte de los antes mencionados, deberá informar a la Secretaría de Gobernación del Poder Ejecutivo Federal, para los efectos legales conducentes.
 
@@ -5157,7 +5183,9 @@ III. Aquéllas que se refieran a hechos que no constituyan una falta o violació
 
 IV. Aquéllas que únicamente se fundamenten en notas de opinión periodística o de carácter noticioso, que generalicen una situación, sin que por otro medio se pueda acreditar su veracidad.
 
-Se impondrá una sanción de 100 a 1000 veces el salario mínimo en el Estado y ésta dependerá de la valoración del grado de frivolidad de la queja.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Se impondrá una sanción de cien a mil unidades de medida y actualización y esta dependerá de la valoración del grado de frivolidad de la queja.
 
 ###### Artículo 411.
 
@@ -5310,3 +5338,15 @@ El Poder Ejecutivo del Estado deberá incluir dentro del Informe trimestral de l
 Artículo Cuarto. Derogación tacita.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
