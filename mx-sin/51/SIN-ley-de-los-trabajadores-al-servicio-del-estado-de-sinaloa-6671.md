@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-trabajadores-al-servicio-del-estado-de-sinaloa-6671"
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-04"
-last_updated: "2015-12-18"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 4 de abril de 1986.
 
@@ -1247,7 +1247,9 @@ Las correcciones disciplinarias que indistintamente pueden imponerse son:
 
 I.- Amonestación;
 
-II.- Multa que no podrá exceder de siete veces el salario mínimo general vigente; y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Multa que no podrá exceder de siete veces el valor diario de la Unidad de Medida y Actualización;
 
 III.- Expulsión del local del Tribunal, con auxilio de la fuerza pública en caso de que sea necesario.
 
@@ -1261,19 +1263,25 @@ El Presidente del Tribunal y el Secretario de Acuerdos, podrán emplear conjunta
 
 Los medios de apremio que pueden utilizarse son:
 
-I.- Multa hasta de siete veces el salario mínimo general vigente;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I. Multa hasta de siete veces el valor diario de la Unidad de Medida y Actualización;
 
 II.- Presentación de las personas con auxilio de la fuerza pública; y,
 
 III.- Arresto hasta por treinta y seis horas.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 169.
 
-Cuando alguna de las partes o ambas o sus apoderados hayan obrado con dolo o mala fé, podrá imponérseles en el laudo una multa de hasta siete veces el salario mínimo general vigente.
+Cuando alguna de las partes o ambas o sus apoderados hayan obrado con dolo o mala fe, podrá imponérseles en el laudo una multa de hasta siete veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 170.
 
-El Presidente del Tribunal podrá castigar las infracciones a la presente ley, que no tengan señaladas otra sanción, con multa hasta de cincuenta veces el salario mínimo general vigente, excepto que se trate del trabajador, en cuyo caso se estará a lo dispuesto en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
+El Presidente del Tribunal podrá castigar las infracciones a la presente ley, que no tengan señaladas otra sanción, con multa hasta de cincuenta veces el valor diario de la Unidad de Medida y Actualización, excepto que se trate del trabajador, en cuyo caso se estará a lo dispuesto en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 171.
 
@@ -1331,9 +1339,11 @@ III.- El Tribunal citará a una audiencia que deberá llevarse a cabo dentro de 
 
 De resultar procedente la reclamación, se modificará en lo factible, la medida de apremio o la sanción.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 180.
 
-El Presidente del Tribunal, según corresponda, podrá imponer a la parte que promueva recursos notoriamente improcedentes, una multa hasta de siete veces el salario mínimo general vigente.
+El Presidente del Tribunal, según corresponda, podrá imponer a la parte que promueva recursos notoriamente improcedentes, una multa hasta de siete veces el valor diario de la Unidad de Medida y Actualización.
 
 Se entenderá que es notoriamente improcedente un recurso, cuando a juicio del Presidente o del Tribunal, aparezca que se promueve con el propósito de demorar o entorpecer la administración de justicia.
 
@@ -1960,3 +1970,19 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para el debido cumplimiento del presente Decreto, el Ejecutivo del Estado dentro del plazo de ciento ochenta días posteriores al inicio de su vigencia deberá realizar o expedir las disposiciones reglamentarias correspondientes.
 
 TERCERO. El Ejecutivo del Estado realizará las previsiones administrativas y presupuestales necesarias para garantizar el cumplimiento de las disposiciones contenidas en el presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
