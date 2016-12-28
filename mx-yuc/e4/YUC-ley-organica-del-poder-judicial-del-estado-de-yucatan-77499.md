@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-77499"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-24"
-last_updated: "2014-06-28"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el miércoles 24 de noviembre de 2010.
 
@@ -1275,9 +1275,11 @@ Los jueces de paz antes de tomar posesión rendirán su compromiso constituciona
 
 Competencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 102.
 
-Los jueces de paz podrán conocer de los asuntos civiles cuya cuantía no exceda de doscientas veces el salario mínimo vigente en la ciudad de Mérida en aquellos Municipios de hasta cinco mil habitantes, y quinientas veces el salario mínimo, en aquellos municipios con habitantes de más de cinco mil habitantes.
+Los jueces de paz podrán conocer de los asuntos civiles cuya cuantía no exceda de doscientas unidades de medida y actualización en aquellos municipios de hasta cinco mil habitantes, y de quinientas unidades de medida y actualización, en aquellos municipios con habitantes de más de cinco mil habitantes.
 
 Los jueces de Paz podrán conocer de:
 
@@ -2526,3 +2528,15 @@ A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del T
 Décimo. Derogación tácita
 
 A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
