@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-temax-yucatan-53554"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2008-12-27"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE TEMAX, YUCATAN
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE TEMAX, YUCATAN
+LEY DE HACIENDA PARA EL MUNICIPIO DE TEMAX, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -840,49 +840,85 @@ Las licencias de funcionamiento que se expidan por cualquiera de los conceptos a
 
 La tarifa que se cobrará para el otorgamiento de licencias para el funcionamiento de establecimientos con giros relacionados con la venta de bebidas alcohólicas, será la siguiente:
 
-I.- Vinaterías $ 3,600.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- Expendio de cerveza $ 3,600.00
+I.- Vinaterías $ 20,000.00
 
-III.- Departamento de licores en supermercados $3,600.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV.- Mini súper $ 3,600.00
+II.- Expendio de cerveza $ 20,000.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- Departamento de licores en supermercados $ 20,000.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV.- Mini súper $ 20,000.00
 
 ###### Artículo 81.
 
 Para el otorgamiento de licencias de funcionamiento de establecimientos o locales cuyos giros sean la prestación de servicios que incluyan el expendio de bebidas alcohólicas se cobrará una cuota de acuerdo a la siguiente tarifa:
 
-I.- Centros nocturnos y discotecas $ 3,000.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- Cantinas y bares $ 3,000.00
+I.- Centros nocturnos y discotecas $ 25,000.00
 
-III.- Clubes sociales $ 3,000.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV.- Salones de baile $ 3,000.00
+II.- Cantinas y bares $ 20,000.00
 
-V.- Restaurantes, hoteles y moteles $ 5,000.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- Clubes sociales $ 20,000.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV.- Salones de baile $ 20,000.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+V.- Restaurantes, hoteles y moteles $ 25,000.00
 
 ###### Artículo 82.
 
 Por el otorgamiento de la revalidación de licencias para el funcionamiento de los establecimientos que se relacionan en el artículo 79 de esta Ley, se pagará un derecho conforme a la siguiente tarifa:
 
-I.- Vinaterías $ 600.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- Expendio de cerveza $ 600.00
+I.- Vinaterías $ 3,500.00
 
-III.- Departamento de licores en supermercados $ 600.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV.- Mini súper $ 600.00
+II.- Expendio de cerveza $ 3,500.00
 
-V.- Centros nocturnos y discotecas $ 600.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-VI.- Cantinas y bares $ 600.00
+III.- Departamento de licores en supermercados $ 3,500.00
 
-VII.- Clubes sociales $ 600.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Salones de baile $ 600.00
+IV.- Mini súper $ 3,500.00
 
-IX.- Restaurantes, hoteles y moteles $ 600.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+V.- Centros nocturnos y discotecas $ 3,500.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+VI.- Cantinas y bares $ 3,500.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+VII.- Clubes sociales $ 3,500.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Salones de baile $ 3,500.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IX.- Restaurantes, hoteles y moteles $ 3,500.00
 
 ###### Artículo 83.
 
@@ -947,6 +983,12 @@ II.- Anuncios estructurales fijos por metro cuadrado o fracción $42.00 mensuale
 III.- Anuncios en carteleras mayores de 2 metros cuadrados por cada metro cuadrado o fracción $42.00 mensuales
 
 IV.- Anuncios en carteleras oficiales $13.00 por día
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Artículo 86 A.- Todo establecimiento, negocio y/o empresa en general sean estas comerciales, industriales, de servicios o cualquier otro giro que no esté relacionado con la venta de bebidas alcohólicas, deberá pagar de acuerdo a la taza que se determina en el siguiente cuadro de categorización de los giros comerciales tazados en unidades de medida de actualización.
+
+> <small>[N. DE E. VÉASE TABLAS EN EL D.O. DE 28 DE DICIEMBRE DE 2016, PÁGINAS DE LA 87 A LA 88.]</small>
 
 ### CAPÍTULO III. De los Servicios que presta la Dirección de Desarrollo Urbano de los Sujetos
 
@@ -1214,25 +1256,29 @@ a) Por cada hoja simple tamaño carta, de cédulas, planos, parcelas, formas de 
 
 b) Por cada copia simple tamaño oficio de cédulas, planos, parcelas, formas de manifestación de traslado de domino o cualquier otra manifestación, $ 25.00
 
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 II.- Por expedición de copias fotostáticas certificadas de:
 
-a) Cédulas, planos, parcelas, manifestaciones, tamaño carta. $ 21.00
+a) Cédulas, planos, parcelas, manifestaciones, tamaño carta. $ 25.00
 
-b) Fotostáticas de plano tamaño oficio, $ 26.00
+b) Fotostáticas de plano tamaño oficio, $ 30.00
 
-c) Fotostáticas de plano, hasta 4 veces tamaño oficio, por cada una. $ 51.00
+c) Fotostáticas de plano, hasta 4 veces tamaño oficio, por cada una $ 60.00
 
-d) Fotostáticas de planos, mayores de 4 veces del tamaño oficio, por cada una $ 92.00
+d) Fotostáticas de planos, mayores de 4 veces del tamaño oficio, por cada una $ 100.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 III.- Por expedición de oficios de:
 
-a) División (por cada parte) $ 20.00
+a) División (por cada parte) $ 50.00
 
-b) Unión, rectificación de medidas, urbanización y cambio de nomenclatura $ 26.00
+b) Unión, rectificación de medidas, urbanización y cambio de nomenclatura $ 100.00
 
-c) Cédulas catastrales $ 40.00
+c) Cédulas catastrales $ 55.00
 
-d) Constancias de no propiedad, única propiedad, valor catastral, número oficial de predio, certificado de inscripción vigente e información de bienes inmuebles $50.00
+d) Constancias de no propiedad, única propiedad, valor catastral, número oficial de predio, certificado de inscripción vigente e información de bienes inmuebles $ 55.00
 
 IV.- Por elaboración de planos:
 
@@ -1240,7 +1286,9 @@ a) Catastrales a escala $150.00
 
 b) Planos topográficos hasta 100 hectáreas $258.00
 
-V.- Por revalidación de oficios de división, unión y rectificación de medidas $ 26.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+V.- Por revalidación de oficios de división, unión y rectificación de medidas $ 100.00
 
 VI.- Por reproducción de documentos microfilmados:
 
@@ -1248,7 +1296,9 @@ a) Tamaño carta $ 41.00
 
 b) Tamaño oficio $ 52.00
 
-VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios $155.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+VII.- Por diligencias de verificación de medidas físicas y de colindancias de predios $25.00
 
 VIII.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tarifa de la fracción anterior, se causarán en los montos siguientes:
 
@@ -1328,27 +1378,35 @@ Los derechos de servicios de mercados y centrales de abasto se causarán y pagar
 
 I.- Por espacios ubicados en mercados construidos, así como plazas, calles, terrenos, se pagarán $130.00 mensual por locales cerrados;
 
-II.- Por cuota fija para comerciantes ambulantes, se pagarán $ 30.00 por día, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán $ 3.00 m2.
+II.- Por cuota fija para comerciantes ambulantes, se pagarán $ 50.00 por día, y
 
-IV.- Locatarios semifijos $ 15.00 diario.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- Por metro cuadrado de superficie asignada en mercados construidos, plazas, calles, terrenos y espacios, se pagarán $ 5.00 m2.
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV.- Locatarios semifijos $ 50.00 diario
 
 V.- Comercios de Verduras y legumbres $ 5.00 diario.
 
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 VI.- Comercio de carnes:
 
-a) Cerdo $ 11.00 diario.
+a) Cerdo $ 25.00 diario
 
-b) Pollo $ 9.00 diario.
+b) Pollo $ 25.00 diario
 
-c) Res $ 16.00 diario.
+c) Res $ 25.00 diario
 
-d) Pescado $ 9.00 diario.
+d) Pescado $ 25.00 diario
 
-e) Cochinita $ 11.00 diario.
+e) Cochinita $ 25.00 diario
 
-f) Otros $ 10.00 diario.
+f) Otros $ 25.00 diario
 
 ###### Artículo 110.
 
@@ -1386,6 +1444,18 @@ II) La superficie total del predio que deba limpiarse, a solicitud del propietar
 
 Por los servicios correspondientes a la recolecta de basura se causará y pagará la cantidad de $ 15.00 mensual.
 
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Artículo 115 A.- Por los servicios correspondientes a la recolecta de basura se causará y pagará de la siguiente manera:
+
+CONCEPTO IMPORTE
+
+Comercial $ 30.00 mensual
+
+Habitacional $ 10.00 mensual
+
+Industrial $ 50.00 por viaje
+
 ###### Artículo 116.
 
 El pago se realizará en la caja de la Tesorería Municipal o con la persona que el Ayuntamiento designe.
@@ -1404,29 +1474,45 @@ Son sujetos de este derecho las personas físicas o morales que, soliciten y rec
 
 Los derechos a que se refiere este capítulo se causarán y pagarán de conformidad con la siguiente tarifa:
 
-I.- Por renta de bóvedas del Ayuntamiento, por un período de 2 años $115.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- Por empadronamiento $53.00
+I.- Por renta de bóvedas del Ayuntamiento, por un período de 2 años a 3 años $165.00
 
-III.- Por uso de fosa común $53.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Por empadronamiento $65.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- Por uso de fosa común de 2 a 3 años $60.00
 
 IV.- Cambio de concesionario $155.00
 
-V.- Por construcción y remodelación $ 3.00 por metro cuadrado.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-VI.- Por inhumación $115.00
+V.- Por construcción y remodelación $ 100.00 por metro cuadrado.
 
-VII.- Por exhumación $53.00
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Por concesión de terreno a perpetuidad de $265.00
+VI.- Por inhumación $165.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+VII.- Por exhumación $159.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Por concesión de terreno a perpetuidad de $ 3,000.00
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 IX.- Por servicios en las comisarías se pagará:
 
-a) Por inhumación $103.00
+a) Por inhumación $165.00
 
-b) Por exhumación $31.00
+b) Por exhumación $ 165.00
 
-c) Por uso de la fosa común $53.00
+c) Por uso de la fosa común $60.00
 
 ### CAPÍTULO IX. Derechos por Servicios de Vigilancia
 
@@ -1506,15 +1592,21 @@ El objeto de este derecho es la prestación de los servicios de agua potable que
 
 Son sujetos del pago de estos derechos, las personas físicas o morales, propietarios, poseedores por cualquier título, del predio o la construcción objeto de la prestación del servicio, considerándose que el servicio se presta con la sola existencia de éste en el frente del predio, independientemente que se hagan o no las conexiones hacia el interior del mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 132.
 
-Por los servicios de agua potable que preste el Municipio, se pagaran bimestralmente las siguientes cuotas:
+Por los servicios de agua potable que preste el Municipio, se pagaran mensual las siguientes cuotas:
 
 I.- Por toma domestica: $ 10.00
 
 II.- Por toma comercial: $ 18.00
 
 III.- Por toma industrial: $ 30. 00
+
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV.- Por instalación de toma nueva: $ 650.00.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
@@ -1770,7 +1862,17 @@ De conformidad con lo establecido en la Ley de Coordinación Fiscal y en los con
 
 Las multas impuestas por el Ayuntamiento por infracciones a los reglamentos administrativos, tendrán el carácter de aprovechamientos y se turnarán a la Tesorería Municipal para su cobro. Cuando estas multas no fueren cubiertas dentro del plazo señalado, serán cobradas mediante el procedimiento administrativo de ejecución.
 
-### CAPÍTULO I. Generalidades
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO II. Aprovechamientos Diversos
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Artículo 166 A.- Los municipios percibirán aprovechamientos derivados de otros conceptos no previstos en los artículos anteriores, cuyo rendimiento, ya sea en efectivo o en especie, deberá ser ingresado al erario municipal, expidiendo de inmediato el recibo oficial respectivo.
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Artículo 166 B.- Sólo la Tesorería Municipal podrá recibir los aprovechamientos a que se refiere este Capítulo y sólo esta dependencia puede expedir los recibos que amparen el ingreso de tales recursos al erario municipal.
 
 ## TÍTULO OCTAVO. PROCEDIMIENTO ADMINISTRATIVO DE EJECUCIÓN, ORDENAMIENTO APLICABLE
 
@@ -1834,11 +1936,13 @@ Para el caso de que los ingresos por gastos de ejecución, fueren generados en e
 
 ## TÍTULO NOVENO. INFRACCIONES Y MULTAS
 
-### CAPÍTULO II. Infracciones y Sanciones De los Responsables
+### CAPÍTULO I. Generalidades
 
 ###### Artículo 171.
 
 La aplicación de las multas por infracciones a las disposiciones municipales y a la presente Ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
+
+### CAPÍTULO II. Infracciones y Sanciones De los Responsables
 
 ###### Artículo 172.
 
@@ -1914,10 +2018,18 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O. 27 DE DICIEMBRE DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+[N DE E. TRANSITORIO DEL "DECRETO 429/2016 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, MOTUL, MUNA, SACALUM, SUMA DE HIDALGO, TEMAX, TIZIMÍN Y UAYMA".]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
