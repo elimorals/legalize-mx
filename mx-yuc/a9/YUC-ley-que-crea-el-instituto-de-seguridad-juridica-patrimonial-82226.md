@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-instituto-de-seguridad-juridica-patrimonial-822
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-19"
-last_updated: "2011-07-19"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de julio de 2011.
 
@@ -2145,27 +2145,45 @@ Las infracciones en este Capítulo serán sancionadas por el Titular del Catastr
 
 I. Por presentar las manifestaciones con los siguientes retardos:
 
-a) Hasta de treinta días, el importe de cinco veces el salario mínimo diario de la región;
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-b) De treinta y uno a sesenta días, el importe de diez veces el salario mínimo diario de la región;
+a) Hasta de treinta días de una a cinco unidades de medida y actualización.
 
-c) De sesenta y uno a noventa días, el importe de quince veces el salario mínimo diario de la región;
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-d) De noventa y uno a ciento ochenta días, el importe de veinte veces el salario mínimo diario de la región, y
+b) De treinta y uno a sesenta días de cinco a diez unidades de medida y actualización.
 
-e) De más de ciento ochenta días, el importe de treinta veces el salario mínimo diario de la región.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II. Treinta veces el salario mínimo diario vigente a los sujetos cuya conducta corresponda a lo previsto por la fracción II del artículo anterior;
+c) De sesenta y uno a noventa días de diez a quince unidades de medida y actualización.
 
-III. Veinte veces el salario mínimo diario vigente a los sujetos cuya conducta corresponda a lo previsto por las fracciones III y IV del artículo anterior, y
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV. De diez a treinta veces el salario mínimo vigente a los sujetos cuya conducta corresponda a lo previsto por la fracción V del artículo anterior tomando en consideración la gravedad de la infracción cometida.
+d) De noventa y uno a ciento ochenta días de quince a veinte unidades de medida y actualización.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+e) De más de ciento ochenta días de veinte a treinta unidades de medida y actualización.
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. De veinte a treinta unidades de medida y actualización a los sujetos cuya conducta corresponda a lo previsto por la fracción II del artículo anterior;
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III. De diez a veinte unidades de medida y actualización a los sujetos cuya conducta corresponda a lo previsto por las fracciones III y IV del artículo anterior, y
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV. De diez a treinta unidades de medida y actualización a los sujetos cuya conducta corresponda a lo previsto por la fracción V del artículo anterior tomando en consideración la gravedad de la infracción cometida.
 
 En caso de reincidencia, la autoridad catastral podrá duplicar el monto de la multa señalada en este artículo.
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
 
-El monto de las multas a que se refieren las fracciones anteriores, se aplicará en relación directa con el salario mínimo que corresponda a la zona económica en que está ubicado el Municipio.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+El monto de las multas a que se refieren las fracciones anteriores, se aplicará en relación directa con la unidad de medida y actualización.
 
 A las personas a quienes se impute alguna sanción mediante el cobro de la multa impuesta, se les comunicará por escrito en el momento que acudan a la realización de su trámite ante la Dirección de Catastro que corresponda, debiendo cumplir la misma en los términos que para el efecto se señalen en el Reglamento. En caso de no cumplir con el pago de la misma, se procederá a la negativa del trámite catastral correspondiente.
 
@@ -2254,3 +2272,17 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
