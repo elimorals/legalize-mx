@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-catastro-del-estado-de-yucatan-11833"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-11"
-last_updated: "1998-08-14"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL CATASTRO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE AGOSTO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 11 de Marzo de 1992.
 
@@ -731,35 +731,33 @@ IV.- Oponerse o interferir en la valuación, revaluación o deslinde catastral; 
 
 V.- Realizar cualquier acción contraria o incurrir en omisiones a los preceptos de esta Ley, que sean distintas a las previstas en las fracciones anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 56.
 
-Las infracciones a la presente Ley serán sancionadas por el Director del Catastro que corresponda, con multas de:
+Las infracciones a esta Ley serán sancionadas por el Director del Catastro que corresponda, con multas de:
 
 I.- Por presentar las manifestaciones con los siguientes retardos:
 
-A).- Hasta de treinta días, el importe de cinco veces el salario mínimo de la región.
+a) Hasta de treinta días, el importe de una a cinco unidades de medida y actualización.
 
-B).- De treinta y uno a sesenta días, el importe de diez veces el salario mínimo de la región.
+b) De treinta y uno a sesenta días, el importe de cinco a diez unidades de medida y actualización.
 
-C).- De sesenta y uno a noventa días, el importe de quince veces el salario mínimo de la región.
+c) De sesenta y uno a noventa días, el importe de diez a quince unidades de medida y actualización.
 
-D).- De noventa y uno a ciento ochenta días, el importe de veinte veces el salario mínimo de la región.
+d) De noventa y uno a ciento ochenta días, el importe de quince a veinte unidades de medida y actualización.
 
-E).- De más de ciento ochenta días, el importe de treinta veces el salario mínimo de la región.
+e) De más de ciento ochenta días, el importe de veinte a treinta unidades de medida y actualización.
 
-II.- Treinta veces el salario mínimo diario vigente a los sujetos cuya conducta corresponda a lo previsto por la fracción II del precepto anterior.
+II.- De veinte a treinta unidades de medida y actualización a los sujetos cuya conducta corresponda a lo previsto por la fracción II del precepto anterior.
 
-III.- Veinte veces el salario mínimo diario vigente a los sujetos cuya conducta corresponda a lo previsto por las fracciones III y IV del artículo anterior.
+III.- De diez a veinte unidades de medida y actualización a los sujetos cuya conducta corresponda a lo previsto por las fracciones III y IV del artículo anterior.
 
-IV.- De diez a treinta veces el salario mínimo vigente a los sujetos cuya conducta corresponda a lo previsto por la fracción V del artículo anterior tomando en consideración la gravedad de la infracción cometida.
+IV.- De diez a treinta unidades de medida y actualización a los sujetos cuya conducta corresponda a lo previsto por la fracción V del artículo anterior tomando en consideración la gravedad de la infracción cometida.
 
 En caso de reincidencia, la autoridad catastral podrá duplicar el monto de la multa señalada en este artículo.
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
-
-El monto de las multas a que se refieren las fracciones señaladas se aplicará en relación directa con el salario mínimo que corresponda a la zona económica en que está ubicado el municipio.
 
 T R A N S I T O R I O S :
 
@@ -812,3 +810,15 @@ PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Los ayuntamientos que decidan administrar su Catastro dentro de sus circunscripciones territoriales, deberán formular su reglamento municipal del Catastro y celebrar los convenios de coordinación respectivos con el Ejecutivo del Estado, dentro de los treinta días siguientes a la publicación de dichos reglamentos en el Diario Oficial del Gobierno del Estado.
 
 En estos reglamentos los ayuntamientos crearán las Direcciones del Catastro Municipales y les otorgarán las atribuciones correspondientes.
+
+D.O. 28. DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
