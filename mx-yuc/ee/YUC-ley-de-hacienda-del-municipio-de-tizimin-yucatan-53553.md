@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-tizimin-yucatan-53553"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-28"
-last_updated: "2015-04-27"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TIZIMIN, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el jueves 28 de diciembre de 2006.
 
@@ -444,7 +444,9 @@ II.- Ser propietario del inmueble por el que solicita el descuento;
 
 III.- No ser propietario de otro inmueble en el Municipio de Tizimín; y
 
-IV.- El valor del inmueble no rebase los mil salarios mínimos generales diarios vigentes en el Estado.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV.- El valor del inmueble no rebase los $ 73,000.00 pesos.
 
 ###### Artículo 39.
 
@@ -598,9 +600,13 @@ VII.- Valor de la operación, y
 
 VIII.- Liquidación del impuesto.
 
-A la manifestación señalada en este Artículo, se acumulará copia del avalúo practicado al efecto.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-Cuando los fedatarios públicos y quienes realizan funciones notariales no cumplan con la obligación a que se refiere este Artículo, serán sancionados con una multa de diez salarios mínimos vigentes en el Estado de Yucatán.
+A la manifestación señalada en este Artículo, se acumulará copia del avalúo practicado al efecto y la copia de la Cédula Catastral.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Cuando los fedatarios públicos y quienes realizan funciones notariales no cumplan con la obligación a que se refiere este Artículo, serán sancionados con una multa de $ 730.00 pesos.
 
 Los jueces o presidentes de las juntas de conciliación y arbitraje federales o estatales, únicamente tendrán la obligación de comunicar a la Dirección de Finanzas y Tesorería, el procedimiento que motivó la adquisición, el número de expediente, el nombre o razón social de la persona a quien se adjudique el bien y la fecha de adjudicación.
 
@@ -844,7 +850,9 @@ Se considera que el contribuyente es de ostensible pobreza, en los casos siguien
 
 I.- Cuando el ingreso familiar del contribuyente sea inferior a un salario mínimo vigente en el Estado de Yucatán y el solicitando de la disminución del monto del derecho, tenga algún dependiente económico.
 
-II.- Cuando el ingreso familiar del contribuyente no exceda de 2 veces el salario mínimo vigente en el Estado de Yucatán y los dependientes de él sean más de dos.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Cuando el ingreso familiar del contribuyente no exceda de $ 150.00 pesos diarios.
 
 El solicitante de la disminución del monto del derecho deberá justificar a satisfacción de la autoridad, que se encuentra en algunos de los supuestos mencionados.
 
@@ -958,13 +966,17 @@ Los derechos por los servicios de Rastro se causarán de conformidad con la tari
 
 La inspección de carne en los rastros públicos no causará derecho alguno, pero las personas que introduzcan carne al Municipio de Tizimín, Yucatán, deberán pasar por esa inspección. Dicha inspección se practicará en términos de lo dispuesto en la Ley de Salud del Estado de Yucatán. Esta disposición es de orden público e interés social.
 
-En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren por la inspección mencionada, se harán acreedoras a una sanción cuyo importe será de uno a diez salarios mínimos vigentes en el Estado de Yucatán por pieza de ganado introducida o su equivalente.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren por la inspección mencionada, se harán acreedoras a una sanción cuyo importe será de $ 73.00 hasta $ 730.00 pesos por pieza de ganado introducida o su equivalente.
 
 ###### Artículo 95.
 
 El Ayuntamiento a través de sus órganos administrativos podrá autorizar mediante la licencia respectiva y sin cobro alguno, la matanza de ganado fuera de los Rastros Públicos del Municipio, previo el cumplimiento de los requisitos que determinan la Ley de Salud del Estado de Yucatán y su Reglamento.
 
-En todo caso, se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez salarios mínimos vigentes en el Estado de Yucatán. En caso de reincidencia, dicha sanción se duplicará.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+En todo caso, se requerirá la licencia correspondiente. El incumplimiento de esta disposición se sancionará con una multa de uno a diez unidades de medida y actualización. En caso de reincidencia, dicha sanción se duplicará.
 
 #### Sección Sexta. Derechos por Servicios de Catastro
 
@@ -1274,9 +1286,11 @@ El pago de las contribuciones especiales se realizará a más tardar dentro de l
 
 Transcurrido el plazo mencionado en el párrafo anterior, sin que se hubiere efectuado el pago, el Ayuntamiento por conducto de la Dirección de Finanzas y Tesorería procederá a su cobro por la vía coactiva.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 141.
 
-El Director de Finanzas y Tesorería previa solicitud por escrito del interesado y una vez realizado el estudio socioeconómico del contribuyente; podrá disminuir la contribución a aquellos contribuyentes de ostensible pobreza, dependan de él más de tres personas, y devengue un ingreso no mayor a dos salarios mínimos vigentes en el Estado de Yucatán.
+El Director de Finanzas y Tesorería previa solicitud por escrito del interesado y una vez realizado el estudio socioeconómico del contribuyente; podrá disminuir la contribución a aquellos contribuyentes de ostensible pobreza, dependan de él más de tres personas, y devengue un ingreso no mayor a $ 150.00 pesos.
 
 ### CAPÍTULO IV. Productos
 
@@ -1480,7 +1494,9 @@ II.- Embargo, y
 
 III.- Honorarios o enajenación fuera de remate.
 
-Cuando el 3% del importe del crédito omitido, fuere inferior al importe de un salario mínimo vigente en el Estado de Yucatán, se cobrará el monto de un salario mínimo, en sustitución del mencionado 3% del crédito omitido.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Cuando el 3% del importe del crédito omitido, fuere inferior a $ 73.00 pesos, se cobrará $ 73.00 pesos, en sustitución del mencionado 3% del crédito omitido.
 
 ### CAPÍTULO II. De los Gastos Extraordinarios de Ejecución
 
@@ -1560,7 +1576,9 @@ III.- Hipoteca, y
 
 IV.- Prenda.
 
-Respecto de la garantía prendaria, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 salarios mínimos vigentes en el Estado, al momento de la determinación del crédito.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Respecto de la garantía prendaria, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios será del 20 % del monto respectivo, al momento de la determinación del crédito.
 
 En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen en el Código Fiscal de la Federación y su reglamento.
 
@@ -1645,3 +1663,11 @@ D.O. 27 DE ABRIL DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 429/2016 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE DZIDZANTÚN, MOTUL, MUNA, SACALUM, SUMA DE HIDALGO, TEMAX, TIZIMÍN Y UAYMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
