@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-juventud-del-estado-de-yucatan-64497"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2008-11-20"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE JUVENTUD DEL ESTADO DE YUCATAN
 
-LEY DE JUVENTUD DEL ESTADO DE YUCATAN
+LEY DE JUVENTUD DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 20 de noviembre de 2008.
 
@@ -757,7 +757,7 @@ III.- Facilitar el acceso a los jóvenes a los servicios de salud, educación, v
 
 IV.- Garantizar la investigación y recopilación de estadísticas y demás información pertinente que permita conocer y comprender la problemática que viven actualmente los jóvenes en el Estado; y
 
-V.- Las demás que sea (sic) considerada (sic) de relevancia en esta materia.
+V.- Las demás que sea considerada (sic) de relevancia en esta materia.
 
 ###### Artículo 97.
 
@@ -925,23 +925,31 @@ V.- No denunciar ante las autoridades competentes la violación de alguno de los
 
 VI.- Aplicar selectivamente alguna de las acciones o políticas, en perjuicio de los jóvenes, discriminando a otros.
 
-Los servidores públicos considerados en la presente ley, que incurran en las responsabilidades a que se refiere este artículo, serán sujetos de responsabilidad administrativa y serán sancionados por la Secretaría de la Contraloría General del Estado y los órganos de control interno de los Ayuntamientos, en el ámbito de su competencia; de conformidad con los procedimientos dispuestos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.1
+Los servidores públicos considerados en la presente ley, que incurran en las responsabilidades a que se refiere este artículo, serán sujetos de responsabilidad administrativa y serán sancionados por la Secretaría de la Contraloría General del Estado y los órganos de control interno de los Ayuntamientos, en el ámbito de su competencia; de conformidad con los procedimientos dispuestos en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
 
 ###### Artículo 118.
 
 Las autoridades encontradas responsables de acciones u omisiones establecidas en el artículo anterior se harán acreedoras a las siguientes sanciones:
 
-I.- La realización de cualquiera de las acciones u omisiones señaladas en las fracciones I, II y IV del artículo 117 de esta ley, se sancionará con multa de 25 a 50 Salarios Mínimos;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- La realización de las acciones u omisiones señaladas en las fracciones III y V del artículo 117 de esta ley, se sancionará con multa de 37 a 75 Salarios Mínimos;
+I.- La realización de cualquiera de las acciones u omisiones señaladas en las fracciones I, II y IV del artículo 117 de esta ley, se sancionará con multa de veinticinco a cincuenta unidades de medida y actualización.
 
-III.- La realización de las acciones u omisiones señaladas en la fracción VI del artículo 117 de esta ley, se sancionará con multa de 50 a 100 Salarios Mínimos;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- La realización de las acciones u omisiones señaladas en las fracciones III y V del artículo 117 de esta ley, se sancionará con multa de treinta y siete a setenta y cinco unidades de medida y actualización.
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- La realización de las acciones u omisiones señaladas en la fracción VI del artículo 117 de esta ley, se sancionará con multa de cincuenta a cien unidades de medida y actualización.
 
 IV.- La realización simultánea de dos o más de las acciones u omisiones señaladas en el artículo 117 de esta ley, se sancionará con suspensión del cargo hasta por seis meses, y
 
 V.- En caso de reincidencia de cualquiera de las acciones u omisiones señaladas en el artículo 117 de esta ley, la sanción consistirá en inhabilitación para ejercer el servicio público hasta por 2 años.
 
-Las multas a que se refiere este artículo, se aplicarán de acuerdo al salario mínimo vigente en el Estado de Yucatán al momento de la imposición de las mismas.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Las multas a que se refiere este artículo, se aplicarán de acuerdo con el valor actualizado de la unidad de medida y actualización.
 
 Las responsabilidades administrativas que se generen por el incumplimiento de las obligaciones a que se refiere este artículo, son independientes de las de orden civil o penal que procedan.
 
@@ -992,3 +1000,17 @@ GOBERNADORA DEL ESTADO
 C. ROLANDO RODRIGO ZAPATA BELLO
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
