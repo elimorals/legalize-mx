@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "2013-11-27"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -547,7 +547,9 @@ Se entenderá corrección disciplinaria:
 
 I. El apercibimiento o amonestación;
 
-II. La multa, que será hasta de treinta días del salario mínimo general vigente en el Estado, cuando la impongan los jueces menores; hasta de ciento veinte días del mismo salario mínimo en los Juzgados de Primera Instancia y hasta de ciento ochenta días de salario mínimo, cuando sea impuesto por el Supremo Tribunal de Justicia; las que podrán duplicarse en caso de reincidencia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. La multa, que será hasta de treinta veces el valor diario de la Unidad de Medida y Actualización, cuando la impongan los jueces menores; hasta de ciento veinte veces en los Juzgados de Primera Instancia y hasta de ciento ochenta veces, cuando sea impuesto por el Supremo Tribunal de Justicia; las que podrán duplicarse en caso de reincidencia;
 
 III. La suspensión que no exceda de un mes.
 
@@ -3537,25 +3539,23 @@ Hay cosa juzgada cuando la sentencia causa ejecutoria.
 
 Causan ejecutoria por ministerio de ley:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
-
-l. Las sentencias pronunciadas en juicio cuyo interés no exceda del equivalente a doscientos días de salario mínimo general vigente en el Estado, en la fecha de presentación de la demanda; salvo lo dispuesto en este código para las controversias en materia familiar;
+I. Las sentencias pronunciadas en juicio cuyo interés no exceda del equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización, en la fecha de presentación de la demanda; salvo lo dispuesto en este código para las controversias en materia familiar;
 
 II. Las sentencias de segunda instancia;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2008)</small>
 
 III. Las demás que se declaren irrevocables por prevención expresa de Ley y de las que se dispone que no cabe recurso;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 IV. (DEROGADA, P.O. 4 DE AGOSTO DE 2008)
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 V. (DEROGADA, P.O. 4 DE AGOSTO DE 2008)
 
@@ -4759,13 +4759,9 @@ En caso de que dentro de los cinco minutos que sigan a la pregunta alguno la mej
 
 En cualquier momento en que pasados cinco minutos de hecha la pregunta correspondiente, no se mejore la última postura o puja, declarará el Tribunal fincado el remate en favor del postor que hubiere hecho aquélla.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
-
-###### Artículo 577.
-
-Dentro de los tres días siguientes al en que se hubiere fincado la venta judicial, el juez de oficio revisará el procedimiento de ejecución y dictará auto aprobando o no el remate. Contra esa resolución procede el recurso de apelación en ambos efectos, si el interés que represente la postura legal excede de doscientos días de salario mínimo general vigente en el Estado, pudiendo el tribunal de alzada en este caso suplir la deficiencia de los agravios, siempre que advierta una violación manifiesta del procedimiento ejecutivo que afecte gravemente los derechos del ejecutado.
+Artículo. 577. Dentro de los tres días siguientes al en que se hubiere fincado la venta judicial, el juez de oficio revisará el procedimiento de ejecución y dictará auto aprobando o no el remate. Contra esa resolución procede el recurso de apelación en ambos efectos, si el interés que represente la postura legal excede de doscientas veces el valor diario de la Unidad de Medida y Actualización, pudiendo el tribunal de alzada en este caso suplir la deficiencia de los agravios, siempre que advierta una violación manifiesta del procedimiento ejecutivo que afecte gravemente los derechos del ejecutado.
 
 ###### Artículo 578.
 
@@ -5601,13 +5597,11 @@ Si se tratare de auto o interlocutoria, en el de admisión se mandará remitir a
 
 La apelación admitida en ambos efectos suspende la ejecución de la sentencia o del auto, hasta que se resuelva el recurso; entretanto, sólo podrán dictarse las resoluciones que se refieran a la administración, custodia y conservación de bienes embargados o intervenidos judicialmente, siempre que la apelación no verse sobre alguno de estos puntos, o versando, se trate de la conservación de bienes perecederos, en cuyo caso el juez podrá adoptar las medidas necesarias que tiendan a evitar su pérdida o menoscabo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2008)</small>
+###### Art. 694.
 
-###### Artículo 694.
-
-Sólo se admitirá el recurso de apelación en los juicios cuyo interés exceda de doscientos días de salario mínimo general vigente en el Estado, en la fecha de presentación de la demanda.
+Sólo se admitirá el recurso de apelación en los juicios cuyo interés exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización, en la fecha de presentación de la demanda.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VER ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -6067,13 +6061,21 @@ Será también removido por los trámites establecidos para los incidentes, por 
 
 El síndico percibirá, como único honorario por sus trabajos, siendo de su cuenta las retribuciones de sus abogados o procuradores, las cantidades siguientes:
 
-I. Seis por ciento sobre el importe del activo del concurso, si este no excediera del monto de 300 veces el salario mínimo;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II. Si sobrepasase la cuantía prevista en la fracción anterior, además del honorario que allí se establece, el cinco por ciento hasta el monto de 1500 veces el salario mínimo;
+I. Seis por ciento sobre el importe del activo del concurso, si éste no excediera del monto de 300 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Cuatro por ciento de la cantidad comprendida entre 1501 y 3000 veces el salario mínimo, además del que expresan las dos fracciones anteriores;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV. Tres por ciento de la cantidad que exceda 3001 veces el mencionado salario, y además el señalado en las fracciones anteriores.
+II. Si sobrepasase la cuantía prevista en la fracción anterior, además del honorario que allí se establece, el cinco por ciento hasta el monto de 1500 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III. Cuatro por ciento de la cantidad comprendida entre 1501 y 3000 veces el valor diario de la Unidad de Medida y Actualización, además del que expresan las dos fracciones anteriores;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV. Tres por ciento de la cantidad que exceda 3001 veces el valor diario de la Unidad de Medida y Actualización, y además el señalado en las fracciones anteriores.
 
 Se tendrá como activo del concurso el producto de la venta de todos los bienes que hubieren entrado al mismo o el en que se estimen al aplicarlos en pago a los acreedores. Cuando sólo una parte se venda y la otra se aplique en pago, el activo será la suma de lo que se obtenga de la venta, más el precio de aplicación.
 
@@ -8366,3 +8368,19 @@ QUINTO: Las apelaciones que se interpongan contra las sentencias dictadas en los
 SEXTO: Quedan derogados del TÍTULO XI: Los Capítulos III y IV; Del TÍTULO XIV: Las Secciones: I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII y XIII; Del TÍTULO XV: Los Capítulos II, Secciones I, II, III y IV; Capítulos III y IV; Del Código de Procedimientos Civiles del Estado de Sinaloa.
 
 SÉPTIMO. Se derogan las demás disposiciones que se opongan al presente ordenamiento.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
