@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2016-12-14"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -189,61 +189,63 @@ Los responsables de la realización de los remates no judiciales, tienen obligac
 
 A falta de este aviso, la Tesorería Municipal impondrá las sanciones que corresponden, sin perjuicio de exigir el pago del impuesto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-###### Artículo 19.
+###### ARTICULO 19.
 
-El impuesto a que se refiere la fracción I del artículo 15, deberán enterarse a más tardar 30 días posteriores a la celebración del acto, y se causará en porcentaje tomando como base el valor diario de la unidad de medida y actualización para los casos a que se refieren los puntos 1 y 2; el valor del premio, de acuerdo con la siguiente:
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+El impuesto a que se refieren las fracciones I y II del artículo 15, deberán enterarse a más tardar 30 días posteriores a la celebración del acto, y se causará en porcentaje tomando como base el valor del bien traducido en valor diario de la Unidad de Medida y Actualización para los casos a que se refieren los puntos 1 y 2; tratándose del punto 3 el valor del premio. En lo que respecta a la fracción III del citado artículo, se pagará dentro de los primeros cinco días del mes siguiente a aquél al que se realizó la actividad, y tratándose del punto 4 el valor de las contraprestaciones gravadas efectivamente percibidas en el mes de que se trate, de acuerdo con la siguiente:
 
 T A R I F A
 
 CONCEPTO PORCIENTO
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 1.- Aplicable al rematador o subastador
 
-1.1. Hasta 12 veces el salario mínimo general diario 3%
+1.1. Hasta 12 veces el valor diario de la Unidad
 
-Vigente
+de Medida y Actualización 3%
 
-1.2. De más de 12 a 36 veces el salario mínimo general 5%
+1.2. De más de 12 a 36 veces el valor
 
-diario vigente
+diario de la Unidad de Medida y Actualización 5%
 
-1.3. De más de 36 a 59 veces el salario mínimo general 6%
+1.3. De más de 36 a 59 veces el valor
 
-diario vigente
+diario de la Unidad de Medida y Actualización 6%
 
-1.4. De más de 59 a 119 veces el salario mínimo general 7%
+1.4. De más de 59 a 119 veces el valor
 
-diario vigente
+diario de la Unidad de Medida y Actualización 7%
 
-1.5. De más de 119 veces el salario mínimo general 8%
+1.5. De más de 119 veces el valor diario de la
 
-diario vigente
+Unidad de Medida y Actualización 8%
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 2.- Aplicable a los adquirentes de los bienes rematados
 
-2.1. Hasta 12 veces el salario mínimo general diario 2%
+2.1. Hasta 12 veces el valor diario de la Unidad
 
-vigente
+de Medida y Actualización 2%
 
-2.2. De más de 12 a 36 veces el salario mínimo general 4%
+2.2. De más de 12 a 36 veces el valor
 
-diario vigente
+diario de la Unidad de Medida y Actualización 4%
 
-2.3. De más de 36 a 59 veces el salario mínimo general 5%
+2.3. De más de 36 a 59 veces el valor
 
-diario vigente
+diario de la Unidad de Medida y Actualización 5%
 
-2.4. De más de 59 a 119 veces el salario mínimo general 6%
+2.4. De más de 59 a 119 veces el valor
 
-diario vigente
+diario de la Unidad de Medida y Actualización 6%
 
-2.5. De más de 119 veces el salario mínimo general 7%
+2.5. De más de 119 veces el valor diario de
 
-diario vigente
+la Unidad de Medida y Actualización 7%
 
 3. (DEROGADO, P.O. 13 DE DICIEMBRE DE 2016)
 
@@ -281,11 +283,13 @@ El Impuesto sobre Anuncios, y Publicidad Comercial se causarán de acuerdo con l
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL
+CONCEPTO VECES EL VALOR
 
-DIARIO VIGENTE
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Los Anuncios pintados o colocados sobre muros, tapias, fachadas, techos, marquesinas, tableros o cualquier otro sitio visible de la vía pública o en lugares de uso común, así como los dibujos, signos, emblemas, avisos o cualquier otra representación que sirva para anunciar, advertir o indicar, una cuota mensual por metro cuadrado o fracción de acuerdo a lo siguiente.
 
@@ -385,11 +389,13 @@ El impuesto se pagará por metro cuadrado, conforme a la siguiente:
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL
+CONCEPTO VECES EL VALOR
 
-DIARIO VIGENTE
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Para fraccionamientos populares o campestres 0.01
 
@@ -397,7 +403,15 @@ DIARIO VIGENTE
 
 3.- Para fraccionamientos industriales 0.02
 
-4.- Para fraccionamientos de servicios progresivos, en los que el valor de la vivienda no exceda de 5,500 veces el salario mínimo general diario vigente en la zona Exento
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+4.- Para fraccionamientos de servicios progresivos,
+
+en los que el valor de la vivienda no exceda
+
+de 5,500 veces el valor diario de la Unidad
+
+de Medida y Actualización Exento
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -587,11 +601,11 @@ c).- Los adquirentes de la producción agrícola, acuícola, ganadera, porcícol
 
 III.- Para aquellos contribuyentes que se ubican en el caso del inciso b) de la fracción II del Artículo 34 deberán cubrir el impuesto anual a más tardar dentro del cuarto trimestre del ejercicio de que se trate.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 38.
 
-Están exentos del pago de este impuesto, los bienes inmuebles del dominio público de la Federación, del Estado de Sinaloa y sus Municipios, excepto sus organismos descentralizados y las empresas paraestatales. En tratándose de edificios sociales sede de los sindicatos obreros y campesinos, se deducirá a la base gravable 16,500 salarios mínimos diarios.
+Están exentos del pago de este impuesto, los bienes inmuebles del dominio público de la Federación, del Estado de Sinaloa y sus Municipios, excepto sus organismos descentralizados y las empresas paraestatales. En tratándose de edificios sociales sede de los sindicatos obreros y campesinos, se deducirá a la base gravable 16,500 el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -615,15 +629,21 @@ Los contribuyentes que realicen el pago total anual del Impuesto Predial Urbano,
 
 El pago anticipado del impuesto no impide el cobro de diferencias que deba hacer la Tesorería Municipal por cambios de la base gravable o alteración de las cuotas del impuesto.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 42.
 
-Los jubilados, pensionados o discapacitados, o sus cónyuges, pagarán una cuota fija anual de tres salarios mínimos, cuando el inmueble que habiten sea de su propiedad y tenga un valor de hasta diez mil salarios mínimos general vigente.
+Los jubilados, pensionados o discapacitados, o sus cónyuges, pagarán una cuota fija anual de tres el valor diario de la Unidad de Medida y Actualización, cuando el inmueble que habiten sea de su propiedad y tenga un valor de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización.
 
-Cuando el valor del bien inmueble señalado sea superior a los diez mil salarios mínimos general vigente, el impuesto predial se pagará con un descuento del 80% del monto total del impuesto determinado, aplicando la tasa que corresponda de la tarifa contenida en la fracción I del artículo 35 de la presente Ley.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Cuando el valor del bien inmueble señalado sea superior a los diez mil veces el valor diario de la Unidad de Medida y Actualización, el impuesto predial se pagará con un descuento del 80% del monto total del impuesto determinado, aplicando la tasa que corresponda de la tarifa contenida en la fracción I del artículo 35 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1999)</small>
 
 En ambos casos, se deberá acreditar la calidad de jubilado, pensionado, discapacitado o cónyuge a satisfacción de la Tesorería del Municipio donde se ubique la propiedad. Los Ayuntamientos deberán informar al Instituto Catastral del Estado de Sinaloa, sobre los predios que les sea otorgado este beneficio.
+
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1999)</small>
 
 Para los efectos de este artículo, tendrán la calidad de discapacitados, aquellos cuya situación se encuentre dentro del supuesto del artículo 2 fracción I de la Ley de protección e Integración Social de Personas con Discapacidad y Senescentes para el Estado de Sinaloa, que además, tengan a su cargo una familia y cuyo ingreso diario no sea superior a los tres salarios mínimos.
 
@@ -659,9 +679,13 @@ Para que se tenga derecho a los descuentos señalados en este artículo, así co
 
 Están obligados al pago de este Impuesto, las personas físicas o morales que adquieran inmuebles que consistan en el suelo, en construcciones adheridas a él, o en ambos conceptos, ubicados en los Municipios del Estado, así como los derechos relacionados con los mismos a que este Capítulo se refiere. El impuesto se calculará aplicando una tasa del 2% sobre la base gravable a que se refiere el Artículo 48 de este Capítulo.
 
-Cuando el bien inmueble, sea adquirido por herencia o legados, por el cónyuge supérstite o por los ascendientes o descendientes en línea recta, asimismo cuando se adquiera por donación entre cónyuges, ascendientes o descendientes en línea recta, se aplicará la tasa señalada en el párrafo que antecede, sin que el monto del impuesto a pagar pueda exceder de una cuota fija de 25 días de salario mínimo general diario vigente en la zona.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-Tratándose de adquisición de casa-habitación tipo interés social, de nueva construcción cuyo valor no exceda de 5,500 veces el salario mínimo general diario vigente en la zona, el impuesto se calculará sobre el 10% de la base gravable. En las que el valor sea de 5,501 a 9,500 veces el salario mínimo general diario vigente en la zona, el impuesto se calculará sobre el 32% de la base gravable.
+Cuando el bien inmueble, sea adquirido por herencia o legados, por el cónyuge supérstite o por los ascendientes o descendientes en línea recta, asimismo cuando se adquiera por donación entre cónyuges, ascendientes o descendientes en línea recta, se aplicará la tasa señalada en el párrafo que antecede, sin que el monto del impuesto a pagar pueda exceder de una cuota fija de 25 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de adquisición de casa-habitación tipo interés social, de nueva construcción cuyo valor no exceda de 5,500 veces el valor diario de la Unidad de Medida y Actualización el impuesto se calculará sobre el 10% de la base gravable. En las que el valor sea de 5,501 a 9,500 veces el valor diario de la Unidad de Medida y Actualización el impuesto se calculará sobre el 32% de la base gravable.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2011)</small>
 
@@ -705,7 +729,9 @@ X.- La prescripción positiva.
 
 La base gravable de este impuesto será el valor que resulte mayor entre el valor de operación y el de uno de cualquiera de los siguientes avalúos, a criterio del adquirente: bancario o comercial realizado por peritos autorizados por el H. Ayuntamiento o por perito reconocido por la Comisión Nacional Bancaria de Seguros, o por perito miembro del Instituto Mexicano de Valuación de Sinaloa, A.C. o por Corredor Público o por el Instituto Catastral del Estado de Sinaloa.
 
-Para las operaciones en que se trate de adquisiciones de casa habitación tipo interés social que no excedan de 6,500 veces el salario mínimo general diario vigente en la zona, la base gravable del impuesto se determinará conforme al valor comercial que deberá ser fijado por el Instituto Catastral.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Para las operaciones en que se trate de adquisiciones de casa habitación tipo interés social que no excedan de 6,500 veces el valor diario de la Unidad de Medida y Actualización, la base gravable del impuesto se determinará conforme al valor comercial que deberá ser fijado por el Instituto Catastral.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -813,19 +839,31 @@ Por los servicios prestados por las autoridades de obras públicas, se causarán
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL
+CONCEPTO VECES EL VALOR
 
-DIARIO VIGENTE
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Supervisión de fraccionamientos (% sobre el costo total de la obra urbanizada)
 
 1.1. Urbanos 1%
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-1.2. De servicios progresivos en los términos de la Ley de Desarrollo Urbano del Estado de Sinaloa, en los que el valor de la vivienda no exceda de 5,500 veces el salario mínimo general diario vigente en la zona. Exento
+1.2. De servicios progresivos en los términos de
+
+la Ley de Desarrollo Urbano del Estado de Sinaloa,
+
+en los que el valor de la vivienda no exceda
+
+de 5,500 veces el valor diario de la Unidad de
+
+Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2009)</small>
 
 El pago de los derechos a cargo de los urbanizadores contenidos en este punto, se deberá enterar a la Tesorería Municipal antes de dar principio a las obras, en caso de autorización para realizar las obras por etapas, el pago se hará proporcionalmente a la inversión correspondiente de cada etapa.
 
@@ -837,13 +875,37 @@ El pago de los derechos a cargo de los urbanizadores contenidos en este punto, s
 
 2.3. En las demás poblaciones conforme al costo de peritaje correspondiente.
 
-2.4. En los fraccionamientos de vivienda de interés social, de nueva construcción cuyo valor no exceda de 5,500 veces el salario mínimo general diario vigente en la zona. Exento
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-2.5. En los fraccionamientos de vivienda popular, de nueva construcción cuyo valor sea de 5,501 a 9,500 veces el salario mínimo general diario vigente en la zona. 1%
+2.4. En los fraccionamientos de vivienda de
+
+interés social, de nueva construcción cuyo
+
+valor no exceda de 5,500 veces el valor diario de la
+
+Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+2.5. En los fraccionamientos de vivienda
+
+popular, de nueva construcción cuyo valor
+
+sea de 5,501 a 9,500 veces el valor diario de la
+
+Unidad de Medida y Actualización.
 
 3.- Asignación de número oficial por cada dígito. 0.25
 
-3.1. Para los fraccionamientos de vivienda de interés social de nueva construcción cuyo valor no exceda de 6,500 veces el salario mínimo general diario vigente en la zona. Exento
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+3.1. Para los fraccionamientos de vivienda de
+
+interés social de nueva construcción cuyo
+
+valor no exceda de 6,500 veces el valor diario de la
+
+Unidad de Medida y Actualización.
 
 4.- Peritaje, por metro cuadrado o fracción
 
@@ -861,19 +923,51 @@ El pago de los derechos a cargo de los urbanizadores contenidos en este punto, s
 
 6.1. Construcción.
 
-a) Expedición de licencias para construcción con valor de hasta 5,500 veces el salario mínimo general diario vigente en la zona. 0.1%
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-b) Expedición de licencias para construcción con valor de 5,501 hasta 9,500 veces el salario mínimo general diario vigente en la zona (% sobre el equivalente en valor). 0.5%
+a) Expedición de licencias para construcción
 
-c) Expedición de licencias para construcción con valor de más de 9,501 veces el salario mínimo diario vigente en la zona (% sobre el equivalente en valor). 1.0%
+con valor de hasta 5,500 veces el valor diario
+
+de la Unidad de Medida y Actualización. 0.1%
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b) Expedición de licencias para construcción
+
+con valor de 5,501 hasta 9,500 veces el valor diario
+
+de la Unidad de Medida y Actualización
+
+(% sobre el equivalente en valor). 0.5%
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+c) Expedición de licencias para
+
+construcción con valor de más de
+
+9,501 veces el valor diario de la
+
+Unidad de Medida y Actualización
+
+(% sobre el equivalente en valor). 1.0%
 
 d) Prórroga de licencia (% adicional sobre el costo de licencia). 15% El porcentaje a que se refiere este inciso, se aplicará sobre el costo del derecho de licencias originales cuando ésta no tenga más de 3 años de antigüedad, de otra manera se cobrará dicho porcentaje sobre el costo de los derechos actuales
 
 6.2. Reconstrucción, remodelación o ampliación de fincas, (% sobre el valor de reconstrucción, remodelación o ampliación).
 
-a).- Con valor hasta de 500 veces el salario mínimo diario de la zona. 0.1%
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-b).- Con valor mayor de 501 veces el salario mínimo diario de la zona. 1.0% 1.0% (sic)
+a).- Con valor hasta de 500 veces el valor diario de la
+
+Unidad de Medida y Actualización. 0.1%
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+b).- Con valor mayor de 501 veces el valor diario de la
+
+Unidad de Medida y Actualización. 1.0%
 
 6.3. Demolición por plantas (por metro cuadrado). 0.05
 
@@ -935,9 +1029,13 @@ Son sujetos de este derecho, las personas a quienes se les preste el servicio m�
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO MINIMO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-GENERAL DIARIO VIGENTE
+CONCEPTO VECES EL VALOR
+
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Por servicio médico semanal. 1.00
 
@@ -961,7 +1059,9 @@ Será objeto de este derecho, la expedición por autoridades municipales de toda
 
 Son sujetos de este derecho, las personas físicas o morales que previa solicitud se les expidan certificados o copias de certificados, cotejo de documentos y legalización o ratificación de firmas.
 
-No se considerarán sujetos obligados al pago de derechos por concepto de la expedición de Certificados de Solvencia Fiscal, cuando éste sea solicitado para la adquisición de vivienda de interés social, cuyo valor no exceda de 5,500 veces el salario mínimo general diario vigente en la zona.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+No se considerarán sujetos obligados al pago de derechos por concepto de la expedición de Certificados de Solvencia Fiscal, cuando éste sea solicitado para la adquisición de vivienda de interés social cuyo valor no exceda de 5,500 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -971,11 +1071,13 @@ Los servicios solicitados concernientes a este capítulo, causarán derechos con
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL
+CONCEPTO VECES EL VALOR
 
-DIARIO VIGENTE
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Legalización de firmas o constancia de ratificación de
 
@@ -1011,11 +1113,11 @@ Es objeto de este derecho el otorgamiento de placas para el control del funciona
 
 Son sujetos de este derecho, las personas físicas o morales que soliciten del Ayuntamiento los servicios señalados en el artículo anterior.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 66.
 
-Los aparatos recreativos, eléctricos y manuales que funcionen con fines lucrativos en el Municipio, deberán contar con la placa de control correspondiente, debiéndose cubrir una cuota anual de 2.5 veces el salario mínimo general diario vigente en la zona.
+Los aparatos recreativos, eléctricos y manuales que funcionen con fines lucrativos en el Municipio, deberán contar con la placa de control correspondiente, debiéndose cubrir una cuota anual de 2.5 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1027,11 +1129,11 @@ Los aparatos recreativos, eléctricos y manuales que funcionen con fines lucrati
 
 Es objeto de este derecho, el servicio extraordinario de seguridad pública diurna y nocturna que preste el H. Ayuntamiento.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 68.
 
-Son sujetos de este Derecho, las personas físicas o morales a quienes se les preste el servicio extraordinario de seguridad pública ya sea a solicitud de éstos o cuando la autoridad municipal lo juzgue conveniente o necesario; debiendo cubrir una cuota diaria equivalente de 3 a 6 veces el salario mínimo general diario vigente por elemento policíaco, por turno.
+Son sujetos de este Derecho, las personas físicas o morales a quienes se les preste el servicio extraordinario de seguridad pública ya sea a solicitud de éstos o cuando la autoridad municipal lo juzgue conveniente o necesario; debiendo cubrir una cuota diaria equivalente de 3 a 6 veces el valor diario de la Unidad de Medida y Actualización por elemento policiaco, por turno.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -1057,11 +1159,13 @@ Los derechos por estos servicios, se causarán y pagarán de acuerdo a la siguie
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL
+CONCEPTO VECES EL VALOR
 
-DIARIO VIGENTE
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Concesión de terrenos para ocupación perpetua en panteones municipales. (por metro cuadrado).
 
@@ -1093,11 +1197,13 @@ El uso del rastro municipal para el sacrificio de semovientes a que se refiere e
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL
+CONCEPTO VECES EL VALOR
 
-DIARIO VIGENTE
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Uso de rastro municipal para sacrificios de semovientes (por cabeza).
 
@@ -1151,11 +1257,13 @@ El derecho por la expedición y refrendo de placas de vehículos que circulen en
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL
+CONCEPTO VECES EL VALOR
 
-DIARIO VIGENTE
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Por expedición y refrendo de placas:
 
@@ -1195,11 +1303,13 @@ Son sujetos de este derecho, las personas físicas o morales que utilicen, usen 
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL
+CONCEPTO VECES EL VALOR
 
-DIARIO VIGENTE
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Recolección de basura a establecimientos comerciales, industriales, o de prestación de servicios (por día) de 0.29 a 4.00
 
@@ -1235,11 +1345,13 @@ Los locatarios de mercados municipales pagarán por concepto de servicios de adm
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL
+CONCEPTO VECES EL VALOR
 
-DIARIO VIGENTE
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Por administración, mantenimiento, seguridad publica,
 
@@ -1263,11 +1375,13 @@ Los derechos por el uso, concesión de casillas y pisos en los mercados municipa
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL
+CONCEPTO VECES EL VALOR
 
-DIARIO VIGENTE
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Por el uso de local (mensual, por metro cuadrado) de 0.26 a 1.50
 
@@ -1285,11 +1399,13 @@ Las personas físicas o morales que en ejercicio de una actividad lucrativa de c
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL
+CONCEPTO VECES EL VALOR
 
-DIARIO VIGENTE
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Por instalaciones o puestos fijos o semifijos o ambulantes por volumen
 
@@ -1381,7 +1497,9 @@ I.- Es objeto de este derecho el otorgamiento de la revalidación anual de licen
 
 II.- Son sujetos de este derecho las personas físicas o morales que soliciten y obtengan la revalidación anual de su licencia de funcionamiento, autorización de horarios extraordinarios o permisos eventuales para el funcionamiento de establecimientos y locales en los términos de la fracción anterior.
 
-III.- La base de este derecho es el tipo de giro, licencia, autorización o permiso, que se otorgue en la materia, ya sea en número de días u horas cuando se trate de permisos eventuales o de funcionamiento en horas extraordinarias, en los términos de la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Sinaloa, debiendo cubrirse estos derechos por el equivalente al número de veces el salario mínimo general diario vigente en el estado, en los siguientes términos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- La base de este derecho es el tipo de giro, licencia, autorización o permiso, que se otorgue en la materia, ya sea en número de días u horas cuando se trate de permisos eventuales o de funcionamiento en horas extraordinarias, en los términos de la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Sinaloa, debiendo cubrirse estos derechos por el equivalente al número de veces el valor diario de la Unidad de Medida y Actualización, en los siguientes términos:
 
 a).- Por la revalidación anual de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, se causarán derechos conforme a la siguiente:
 
@@ -1531,11 +1649,15 @@ Las certificaciones que hagan y las copias certificadas o copias simples que exp
 
 Por la reproducción de materiales que contengan información pública de los Ayuntamientos del Estado de Sinaloa o de sus entidades públicas, se causarán derechos conforme a la siguiente:
 
-Tarifa
+TARIFA:
 
-Concepto Veces el Salario Mínimo
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-General Diario Vigente
+CONCEPTO VECES EL VALOR
+
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1. Por reproducción de:
 
@@ -1601,17 +1723,17 @@ a).- (DEROGADO, P.O. 9 DE DICIEMBRE DE 2015)
 
 b).- Disco compacto grabado 0.125
 
-> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 90-E.
 
-Por el envío de materiales que contengan información pública de los Ayuntamientos o de sus entidades públicas, al domicilio del solicitante, se causarán derechos por una cantidad equivalente a 1.25 salarios mínimos generales diario vigente.
+Por el envío de materiales que contengan información pública de los Ayuntamientos o de sus entidades públicas, al domicilio del solicitante, se causarán derechos por una cantidad equivalente a 1.25 veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2004)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 90-F.
 
-Por la búsqueda exhaustiva de información pública de los Ayuntamientos o de sus entidades públicas que no se encuentre disponible en el momento, se causarán derechos por una cantidad equivalente a 2 salarios mínimos generales diario vigentes.
+Por la búsqueda exhaustiva de información pública de los Ayuntamientos o de sus entidades públicas que no se encuentre disponible en el momento, se causarán derechos por una cantidad equivalente a 2 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2004)</small>
 
@@ -1661,11 +1783,13 @@ El pago de este producto se efectuará conforme a la siguiente:
 
 TARIFA:
 
-CONCEPTO VECES EL SALARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-MÍNIMO GENERAL
+CONCEPTO VECES EL VALOR
 
-DIARIO VIGENTE
+DIARIO DE LA UNIDAD
+
+DE MEDIDA Y ACTUALIZACIÓN
 
 1.- Central Camionera.
 
@@ -2283,6 +2407,8 @@ REMATES
 
 (DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL PRESENTE ARTÍCULO FUE DEROGADO POR DECRETO 574 PUBLICADO EN EL P.O. DE 14 DE DICIEMBRE DE 2016; NO OBSTANTE, SE REFORMA EN EL P.O. DE 28 DE DICIEMBRE DE 2016, QUE A LA LETRA DICE EN SU PÁGINA 74: “ARTÍCULO DÉCIMO NOVENO. Se reforman […] 208 fracciones I y II […] de la Ley de Hacienda Municipal.” BAJO ESE CONTEXTO, SE SUGIERE CONSULTAR SU CRONOLOGÍA LEGISLATIVA.]</small>
+
 ###### ARTICULO 208.
 
 (DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
@@ -2295,9 +2421,13 @@ REMATES
 
 (DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
 
-###### ARTICULO 211.
+> <small>[N. DE E. ES DE ADVERTIR QUE EL PRESENTE ARTÍCULO FUE DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. DEL 14 DE DICIEMBRE DE 2016, SE SUGIERE CONSULTAR SU CRONOLOGÍA LEGISLATIVA]</small>
 
-(DEROGADO POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 211.
+
+Las infracciones a los demás reglamentos y disposiciones de los Municipios que no señalen sanción o que para cuantificar su monto remitan a esta Ley, se sancionarán con una multa de 5 a 90 veces el valor diario de la Unidad de Medida y Actualización, excepto las que sean cometidas por obreros o trabajadores, el monto de la sanción no podrá ser mayor que su jornal o salario de un día; tratándose de trabajadores no asalariados la multa no excederá del equivalente al monto de un día de su ingreso.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO TRANSITORIO TERCERO DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE SINALOA, P.O. 14 DE DICIEMBRE DE 2016)</small>
 
@@ -2992,3 +3122,19 @@ QUINTO. Las infracciones y delitos cometidos durante la vigencia de las disposic
 SEXTO. Para efectos de este Código, lo relacionado con el instructivo para el dictamen de impuestos municipales que se señala en los artículos 89, 91 y 93 del mismo obligará a los particulares a partir del día siguiente de la publicación de dicho instructivo en el Periódico Oficial "El Estado de Sinaloa".
 
 SÉPTIMO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el 27 de enero del presente año, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos Séptimo y Octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
