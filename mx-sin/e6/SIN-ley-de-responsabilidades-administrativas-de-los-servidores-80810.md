@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-responsabilidades-administrativas-de-los-servidores-8081
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-13"
-last_updated: "2015-05-18"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80810&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 13 de abril de 2011.
 
@@ -213,7 +213,9 @@ XV.- Excusarse de intervenir, por motivo de su encargo, en cualquier forma en la
 
 XVI.- Abstenerse de adquirir valores y bienes muebles o inmuebles en los juicios o controversias en que intervengan;
 
-XVII.- Abstenerse durante el ejercicio de sus funciones de solicitar, aceptar o recibir por sí o por interpósita persona, servicios, concesiones, dinero, bienes muebles o cualquier otro bien mediante enajenación en precio notoriamente inferior al que tenga en el mercado ordinario que incremente su patrimonio económico, donaciones, empleos, cargos o comisiones para sí o para sus familiares, que procedan de cualquier persona cuyas actividades se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público. Sólo podrán recibir donativos en especie, de una misma persona, cuyo valor acumulado durante un año no sea superior de diez veces al salario mínimo general diario vigente en el Estado. Esta previsión es aplicable hasta un año después que se haya retirado del cargo, empleo o comisión;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+XVII.- Abstenerse durante el ejercicio de sus funciones de solicitar, aceptar o recibir por sí o por interpósita persona, servicios concesiones, dinero, bienes muebles o cualquier otro bien mediante enajenación en precio notoriamente inferior al que tenga en el mercado ordinario que incremente su patrimonio económico, donaciones, empleos, cargos o comisiones para sí o para sus familiares, que procedan de cualquier persona cuyas actividades se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público. Sólo podrán recibir donativos en especie, de una misma persona, cuyo valor acumulado durante un año no sea superior de diez veces el valor diario de la Unidad de Medida y Actualización. Esta previsión es aplicable hasta un año después que se haya retirado del cargo, empleo o comisión.
 
 XVIII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese, recisión del contrato o sanción de cualquier servidor público, cuando tengan interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas con quienes tenga parentesco consanguíneo hasta el cuarto grado por afinidad o civil;
 
@@ -373,15 +375,15 @@ Cuando el servidor público confiese su responsabilidad por el incumplimiento de
 
 La inhabilitación podrá aplicarse conjuntamente con la sanción económica, y se impondrá como consecuencia de un acto u omisión, considerada como grave en los términos del artículo 34 de esta Ley, conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-I. Cuando el monto del beneficio obtenido o de los daños y perjuicios causados no exceda de cien veces el salario mínimo general mensual vigente en el Estado de Sinaloa, así como cuando el servidor público incurra en las conductas establecidas en las fracciones III y IV del artículo 34 de esta Ley, la sanción de inhabilitación será de seis meses a tres años;
+I. Cuando el monto del beneficio obtenido o de los daños y perjuicios causados no exceda de cien veces el valor diario de la Unidad de Medida y Actualización, así como cuando el servidor público incurra en las conductas establecidas en las fracciones III y IV del artículo 34 de esta Ley, la sanción de inhabilitación será de seis meses a tres años;
 
 II. Cuando se incumplan las disposiciones contenidas en las fracciones XVII, XVIII, y XXXII, del artículo 15 de esta ley, la inhabilitación será de tres a seis años; y,
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
-III. Cuando el servidor público despliegue la conducta prevista en el supuesto de la fracción IV del artículo 34 de esta Ley, obteniendo un beneficio económico u ocasione daños o perjuicios que excedan de cien veces el salario mínimo general mensual vigente en el Estado de Sinaloa, se inhabilitará de tres a diez años.
+III. Cuando el servidor público despliegue la conducta prevista en el supuesto de la fracción V del artículo 34 de esta Ley, obteniendo un beneficio económico u ocasione daños o perjuicios que excedan de cien veces el valor diario de la Unidad de Medida y Actualización, se inhabilitará de tres a diez años.
 
 La inhabilitación disminuirá a la mitad de su determinación, cuando el sancionado también económicamente, cubra el monto de la sanción económica antes que la inhabilitación quede firme.
 
@@ -427,7 +429,9 @@ La Unidad Responsable o el contralor interno podrán comprobar el cumplimiento d
 
 Para el cumplimiento de las atribuciones que les confiere esta Ley, las autoridades previstas en el numeral 4 de la presente ley, podrán emplear los siguientes medios de apremio:
 
-I. Sanción de diez y hasta treinta días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I. Sanción de diez y hasta treinta veces el valor diario de la Unidad de Medida y Actualización;
 
 II. Auxilio de la fuerza pública; y,
 
@@ -505,7 +509,9 @@ II. En forma subsidiaria a los servidores que por la índole de sus funciones ha
 
 La Unidad Responsable de manera fundada y motivada podrá dispensar las responsabilidades relativas en los términos de esta Ley.
 
-La propia Unidad Responsable podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan de cincuenta veces el salario mínimo diario vigente en la capital del Estado, por incosteabilidad práctica del cobro.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+La propia Unidad Responsable podrá cancelar los créditos derivados del fincamiento de responsabilidades que no excedan de cincuenta veces el valor diario de la Unidad de Medida y Actualización, por incosteabilidad práctica del cobro.
 
 ###### ARTÍCULO 39.
 
@@ -539,7 +545,9 @@ IV. Que haya transcurrido el término de la inhabilitación, siempre y cuando la
 
 La facultad para iniciar el procedimiento de responsabilidad administrativa prescribirá en los siguientes plazos:
 
-I. En tres años, si el beneficio obtenido o el daño o perjuicio causado por el infractor no excede en quinientas veces el salario mínimo general diario vigente en el Estado o, si se trata de faltas administrativas de carácter disciplinario; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I. En tres años, si el beneficio obtenido o el daño o perjuicio causado por el infractor no excede en quinientas veces el valor diario de la Unidad de Medida y Actualización o, si se trata de faltas administrativas de carácter disciplinario; y,
 
 II. En cinco años, en el caso de que el beneficio obtenido o el daño o perjuicio causado por el infractor exceda del monto referido en la fracción anterior.
 
@@ -905,7 +913,9 @@ La autoridad que sustancie el procedimiento administrativo disciplinario, para m
 
 I. Apercibimiento;
 
-II. Multa hasta de veinte veces el salario mínimo general diario vigente en el Estado;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Multa hasta de veinte veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Auxilio de la fuerza pública, y,
 
@@ -1125,7 +1135,9 @@ La ejecución forzosa de los actos y acuerdos referidos en el artículo anterior
 
 I. Procedimiento administrativo de ejecución, y
 
-II. Multa de diez hasta veinte días de salario mínimo general diario vigente en el Estado.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de diez hasta veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 105.
 
@@ -1289,9 +1301,11 @@ Para los efectos de esta Ley y del Código Penal para el Estado de Sinaloa, se e
 
 El Órgano Interno de Control denunciará o presentará querella en su caso, ante el Ministerio Público de todo hecho que pudiere constituir delito, independientemente de la aplicación de la sanción administrativa procedente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 122.
 
-Cuando los servidores públicos reciban de las personas señaladas en la fracción XVIII del artículo 15 de esta ley, obsequios, donaciones o beneficios cuyo monto sea superior a diez veces el salario diario mínimo general vigente en el Estado, deberán entregarlos al Órgano Interno de Control, la cual llevará un registro de dichos bienes y les dará el destino que señalen los acuerdos o lineamientos que se expidan.
+Cuando los servidores públicos reciban de las personas señaladas en la fracción XVIII del artículo 15 de esta ley, obsequios, donaciones o beneficios cuyo monto sea superior a diez veces el valor diario de la Unidad de Medida y Actualización, deberán entregarlos al Órgano Interno de Control, la cual llevará un registro de dichos bienes y les dará el destino que señalen los acuerdos o lineamientos que se expidan.
 
 Si el servidor público no entregare dichos bienes, le serán decomisados por el Órgano Interno de Control correspondiente, la que procederá en los términos del párrafo anterior y se le aplicará la pena prevista para el delito de cohecho en el Código Penal para el Estado de Sinaloa.
 
@@ -1356,3 +1370,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 18 DE MAYO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
