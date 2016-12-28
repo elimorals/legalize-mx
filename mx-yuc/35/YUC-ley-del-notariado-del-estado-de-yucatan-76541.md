@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-notariado-del-estado-de-yucatan-76541"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2014-02-19"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 31 de agosto de 2010.
 
@@ -393,7 +393,7 @@ Al Fedatario Público le está prohibido ejercer la función notarial en los cas
 
 I.- En asuntos en los que sea parte una persona moral de la que el Fedatario Público sea empleado, apoderado, socio o accionista;
 
-II.- En el acto o hecho que por ley corresponda exclusivamente a un funcionario público. No obstante, podrán cotejar cualquier tipo de documentos, registros o expedientes relativos a algún proceso o ratificar firmas, y (sic)
+II.- En el acto o hecho que por ley corresponda exclusivamente a un funcionario público. No obstante, podrán cotejar cualquier tipo de documentos, registros o expedientes relativos a algún proceso o ratificar firmas, y
 
 > <small>(REFORMADA, D.O. 19 DE FEBRERO DE 2013)</small>
 
@@ -971,6 +971,8 @@ El Presidente del Consejo de Notarios será sustituido en caso de impedimento o 
 
 ### CAPÍTULO XIV. Del Ejercicio de las Funciones de los Escribanos Públicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 119.
 
 Los escribanos públicos serán nombrados por el Poder Ejecutivo del Estado y durarán en el ejercicio de sus funciones seis años.
@@ -1025,7 +1027,7 @@ El Reglamento de esta Ley, deberá establecer lo relativo a las ausencias y lice
 
 ###### Artículo 124.
 
-Los escribanos públicos gozarán de fe pública únicamente para dar autenticidad a cualquiera de los actos o hechos jurídicos cuya cuantía o interés no exceda del importe de un mil doscientos días de salario mínimo vigente en el Estado de Yucatán, siempre y cuando así lo prevengan las leyes.
+Los escribanos públicos gozarán de fe pública únicamente para dar autenticidad a cualquiera de los actos o hechos jurídicos cuya cuantía o interés no exceda mil doscientas unidades de medida y actualización, siempre y cuando así lo prevengan las leyes.
 
 Para los efectos de este artículo, en las operaciones traslativas de dominio se tomará en cuenta el valor consignado en el avalúo correspondiente y el valor consignado en la cédula catastral vigente, en cualquier otro caso.
 
@@ -1115,7 +1117,9 @@ f) Por no mantener en buen resguardo las hojas o libros del protocolo y sus apé
 
 Atendiendo a la gravedad respecto de los casos relacionados en las fracciones anteriores, el Poder Ejecutivo del Estado, podrá publicar la sanción correspondiente.
 
-II.- Multa hasta por el equivalente de cien a trescientas veces el salario mínimo general diario vigente en el Estado:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Multa de cien a trescientas unidades de medida y actualización:
 
 a) Por negarse sin causa justificada a la prestación de sus servicios, cuando haya sido expensado para ello;
 
@@ -1384,3 +1388,15 @@ Para los efectos de este decreto, se reconoce la validez de las patentes de los 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
