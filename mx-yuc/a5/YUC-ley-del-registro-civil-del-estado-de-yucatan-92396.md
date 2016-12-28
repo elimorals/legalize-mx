@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-registro-civil-del-estado-de-yucatan-92396"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-19"
-last_updated: "2015-06-12"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92396&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 19 de febrero de 2013.
 
@@ -1331,11 +1331,13 @@ IV.- No informar a la Dirección de las anotaciones o cancelaciones que efectúe
 
 Lo dispuesto en la fracción III de este artículo, referente a vicios o defectos, no producirá la nulidad del acta, a menos que judicialmente se pruebe la inexistencia del acto o inexactitud en su contexto.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 Multa
 
 ###### Artículo 138.
 
-Se considera infracción a esta Ley y se sancionará con multa de 2 a 10 veces el salario mínimo vigente en el Estado, el incumplimiento de los servidores públicos a lo dispuesto en el Capítulo XI del Título Segundo de esta Ley.
+Se considera infracción a esta Ley y se sancionará con multa de dos a diez unidades de medida y actualización, el incumplimiento de los servidores públicos a lo dispuesto en el Capítulo XI del Título Segundo de esta ley.
 
 Suspensión
 
@@ -1401,9 +1403,11 @@ Se considerarán infracciones a esta Ley por parte de los usuarios del Registro 
 
 Monto y aplicación de la multa
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 142.
 
-La infracción establecida en el artículo anterior será sancionada con multa por el equivalente de 2 a 5 veces el salario mínimo vigente en el Estado. Esta multa será impuesta por el Oficial competente ante quien se haya hecho la declaración extemporánea, quien la comunicará por escrito al infractor al momento de realizar el trámite de inscripción. El Reglamento establecerá el procedimiento para ello.
+La infracción establecida en el artículo anterior será sancionada con multa por el equivalente de dos a cinco unidades de medida y actualización. Esta multa será impuesta por el Oficial competente ante quien se haya hecho la declaración extemporánea, quien la comunicará por escrito al infractor al momento de realizar el trámite de inscripción. El Reglamento establecerá el procedimiento para ello.
 
 La multa establecida en este artículo no se aplicará a la persona que acredite ante el Oficial que la infracción cometida fue debido a una causa grave o independiente de su voluntad.
 
@@ -1520,3 +1524,15 @@ Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de es
 Décimo primero. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARLO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
