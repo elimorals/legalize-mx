@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-adquisiciones-arrendamientos-servicios-y-73958"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-15"
-last_updated: "2013-06-21"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS, SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 15 de marzo de 2010.
 
@@ -203,9 +203,11 @@ La Contraloría fungirá como órgano interno de control en aquellas dependencia
 
 Las dependencias y entidades, previamente al arrendamiento de bienes muebles, deberán realizar los estudios de factibilidad a efecto de determinar la conveniencia para su adquisición mediante arrendamiento con opción a compra.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 10.
 
-Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, las dependencias y entidades deberán realizar un estudio de costo beneficio, con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos; el citado estudio deberá efectuarse mediante avalúo emitido conforme a las disposiciones aplicables, expedido dentro de los seis meses previos, cuando el bien tenga un valor superior a cien mil veces el salario mínimo general vigente en el Estado de Sinaloa, el cual deberá integrarse al expediente de la contratación respectiva.
+Para determinar la conveniencia de la adquisición de bienes muebles usados o reconstruidos, las dependencias y entidades deberán realizar un estudio de costo beneficio, con el que se demuestre la conveniencia de su adquisición comparativamente con bienes nuevos; el citado estudio deberá efectuarse mediante avalúo emitido conforme a las disposiciones aplicables, expedido dentro de los seis meses previos, cuando el bien tenga un valor superior a cien mil veces el valor diario de la Unidad de Medida y Actualización, el cual deberá integrarse al expediente de la contratación respectiva.
 
 ###### Artículo 11.
 
@@ -557,9 +559,11 @@ El documento que contenga la proposición de los licitantes deberá entregarse e
 
 Las proposiciones presentadas deberán ser firmadas autógrafamente por los licitantes o sus apoderados; en el caso de que éstas sean enviadas a través de medios remotos de comunicación electrónica, en sustitución de la firma autógrafa se emplearán medios de identificación electrónica, los cuales producirán los mismos efectos que las leyes otorgan a los documentos correspondientes y, en consecuencia, tendrán el mismo valor probatorio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 35.
 
-En las licitaciones públicas, cuyo monto rebase el equivalente a cinco millones de días de salario mínimo general vigente en el Estado de Sinaloa, y en aquellos casos que determine la Contraloría atendiendo al impacto que la contratación tenga en los programas sustantivos de la dependencia o entidad de que se trate, podrán participar como testigos sociales conforme a lo siguiente:
+En las licitaciones públicas, cuyo monto rebase el equivalente a cinco millones de veces el valor diario de la Unidad de Medida y Actualización, y en aquellos casos que determine la Contraloría atendiendo al impacto que la contratación tenga en los programas sustantivos de la dependencia o entidad de que se trate, podrán participar como testigos sociales conforme a lo siguiente:
 
 I. La Contraloría tendrá a su cargo el padrón público de testigos sociales, tanto para las adquisiciones que realicen la Secretaría, las dependencias autorizadas, así como las entidades, quienes participarán en todas las etapas de los procedimientos de licitación pública, a los que se refiere esta Ley, con voz y emitirán un testimonio final que incluirá sus observaciones y en su caso recomendaciones, mismo que tendrá difusión en la página de Internet del Estado y en Compranet-Sinaloa, y se integrará al expediente respectivo;
 
@@ -875,7 +879,9 @@ Lo dispuesto en el artículo 50 de esta Ley resultará aplicable a la contrataci
 
 La suma de las operaciones que se realicen al amparo de este artículo no podrá exceder del veinte por ciento del presupuesto de adquisiciones, arrendamientos y servicios autorizado a la dependencia solicitante o entidad en cada ejercicio presupuestario. Para efectos del cálculo correspondiente, tratándose de adquisiciones, arrendamientos y servicios, cuya vigencia rebase un ejercicio presupuestario, las dependencias o entidades tomarán en consideración exclusivamente los montos a ejercerse durante el ejercicio respectivo. La contratación deberá ajustarse a los límites establecidos en el presupuesto de egresos del Estado.
 
-Para contratar adjudicaciones directas, cuyo monto sea igual o superior a la cantidad de seiscientas veces el salario mínimo diario general vigente en el Estado de Sinaloa, se deberá contar con al menos tres cotizaciones con las mismas condiciones, que se hayan obtenido en los treinta días previos al de la adjudicación y consten en documento en el cual se identifique indubitablemente al proveedor oferente.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Para contratar adjudicaciones directas, cuyo monto sea igual o superior a la cantidad de seiscientas veces el valor diario de la Unidad de Medida y Actualización, se deberá contar con al menos tres cotizaciones con las mismas condiciones, que se hayan obtenido en los treinta días previos al de la adjudicación y consten en documento en el cual se identifique indubitablemente al proveedor oferente.
 
 Los titulares de las dependencias y entidades, a más tardar dentro de los primeros diez días naturales de cada mes, enviarán un informe a la Secretaría, una copia a la Contraloría y, en su caso, al órgano de gobierno que corresponda, en el que se referirán las operaciones que, por excepciones a la licitación pública, fueron autorizadas en el mes calendario inmediato anterior, acompañando los dictámenes y las copias de las actas correspondientes.
 
@@ -1167,7 +1173,9 @@ I. Las enajenaciones que deban realizarse en circunstancias extraordinarias o im
 
 II. Cuando no existan por lo menos tres postores idóneos o legalmente capacitados para presentar oferta; y,
 
-III. Cuando el monto de los bienes sea inferior al equivalente a quinientos días de salario mínimo general en la entidad.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III. Cuando el monto de los bienes sea inferior al equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 El monto de la enajenación en todo caso, no podrá ser inferior a los precios mínimos de los bienes que para tales fines determine la Secretaría del que se hubiese fijado mediante avalúo que practicarán peritos o terceros capacitados para ello, conforme a las disposiciones legales aplicables.
 
@@ -1251,11 +1259,13 @@ El resultado de las comprobaciones se hará constar en un dictamen que será fir
 
 ### Capítulo Único
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 82.
 
-Los licitantes o proveedores que infrinjan las disposiciones de esta Ley, serán sancionados por la Contraloría, con multa equivalente a la cantidad de cincuenta hasta mil veces el salario mínimo general vigente en el Estado de Sinaloa elevado al mes, en la fecha de la infracción.
+Los licitantes o proveedores que infrinjan las disposiciones de esta Ley, serán sancionados por la Contraloría, con multa equivalente a la cantidad de cincuenta hasta mil veces el valor diario de la Unidad de Medida y Actualización elevado al mes, en la fecha de la infracción.
 
-Cuando los licitantes, injustificadamente y por causas imputables a los mismos, no formalicen contratos cuyo monto no exceda de cincuenta veces el salario mínimo general vigente en el Estado de Sinaloa elevado al mes, serán sancionados con multa equivalente a la cantidad de diez hasta cuarenta y cinco veces el salario mínimo general vigente en el Estado de Sinaloa elevado al mes, en la fecha de la infracción.
+Cuando los licitantes, injustificadamente y por causas imputables a los mismos, no formalicen contratos cuyo monto no exceda de cincuenta veces el valor diario de la Unidad de Medida y Actualización elevado al mes, serán sancionados con multa equivalente a la cantidad de diez hasta cuarenta y cinco veces el valor diario elevado al mes, en la fecha de la infracción.
 
 ###### Artículo 83.
 
@@ -1646,3 +1656,19 @@ P.O. 21 DE JUNIO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
