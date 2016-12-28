@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-profesiones-del-estado-de-yucatan-12837"
 country: "mx"
 rank: "ley"
 publication_date: "1989-02-23"
-last_updated: "2015-10-14"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PROFESIONES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial el jueves 23 de Febrero de 1989.
 
@@ -337,7 +337,7 @@ Se entiende por servicio social, el trabajo de carácter temporal y mediante ret
 
 ###### ARTICULO 32.
 
-Todos los estudiantes de las profesiones a que se refiere esta Ley, así como los profesionistas no mayores de 60 años, no impedidos por enfermedad grave, ejerzan o no, deberán presentar (sic) el servicio social en los términos de esta Ley.
+Todos los estudiantes de las profesiones a que se refiere esta Ley, así como los profesionistas no mayores de 60 años, no impedidos por enfermedad grave, ejerzan o no, deberán presentar el servicio social en los términos de esta Ley.
 
 ###### ARTICULO 33.
 
@@ -399,21 +399,23 @@ Corresponde a la Secretaría realizar las inspecciones correspondientes para ver
 
 (DEROGADO, D.O. 14 DE OCTUBRE DE 2015)
 
-> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 41.
 
-Al profesionista que tenga título legalmente expedido, pero que no lo haya registrado en los términos de esta Ley y ejerza actos propios de la profesión, se le amonestará la primera vez con el apercibimiento de multa; en caso de reincidencia, la Secretaría le impondrá una multa equivalente a treinta veces el salario mínimo general diario correspondiente a la ciudad de Mérida, previa audiencia del infractor. De continuar la irregularidad, se le duplicará la sanción o se le impondrá suspensión por un término no menor de seis meses ni mayor de dos años.
+Al profesionista que tenga título legalmente expedido, pero que no lo haya registrado en los términos de esta ley y ejerza actos propios de la profesión, se le amonestará la primera vez con el apercibimiento de multa; en caso de reincidencia, la Secretaría le impondrá una multa de veinte a treinta unidades de medida y actualización, previa audiencia del infractor. De continuar la irregularidad, se le duplicará la sanción o se le impondrá suspensión por un término no menor de seis meses ni mayor de dos años.
 
-###### ARTICULO 42.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-Queda prohibido el uso de la expresión "Colegio de Profesionistas", a las agrupaciones o asociaciones de personas no constituidas en los términos de esta Ley, como colegio. Quienes infrinjan esta disposición serán sancionados con una multa equivalente a cincuenta veces el salario mínimo general diario correspondiente a la Ciudad de Mérida.
+###### ARTÍCULO 42.
 
-> <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
+Queda prohibido el uso de la expresión "Colegio de Profesionistas", a las agrupaciones o asociaciones de personas no constituidas en los términos de esta ley, como colegio. Quienes infrinjan esta disposición serán sancionados con una multa de cuarenta a cincuenta unidades de medida y actualización.
 
-###### ARTICULO 43.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-A las instituciones educativas consideradas por esta Ley, que no se inscriban en la Secretaría se les impondrá una multa equivalente a mil veces el salario mínimo general diario de la ciudad de Mérida; y, en caso de reincidencia, la Secretaría promoverá, ante las autoridades competentes, la cancelación de la autorización o reconocimiento hecho a la institución educativa.
+###### ARTÍCULO 43.
+
+A las instituciones educativas consideradas por esta ley, que no se inscriban en la Secretaría se les impondrá una multa de novecientas a mil unidades de medida y actualización; y, en caso de reincidencia, la Secretaría promoverá, ante las autoridades competentes, la cancelación de la autorización o reconocimiento hecho a la institución educativa.
 
 > <small>(REFORMADO, D.O. 14 DE OCTUBRE DE 2015)</small>
 
@@ -473,7 +475,7 @@ EL SECRETARIO DE GOBIERNO
 
 LIC. MARCO ANTONIO MARTINEZ ZAPATA.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O. 14 DE OCTUBRE DE 2015.
 
@@ -524,3 +526,15 @@ La Secretaría de Administración y Finanzas, una vez concluidos los movimientos
 Décimo Segundo. Plan estratégico
 
 A partir de la entrada en vigor de las modificaciones al Reglamento del Código de la Administración Pública de Yucatán, se dará un plazo máximo de 60 días para que se establezca un plan estratégico que atienda proyectos de investigación de alto impacto en las condiciones de vida de la población. Asimismo, para este propósito se destinará un porcentaje de al menos el 20% del incremento en gasto público de la nueva Secretaría para actividades destinadas a la investigación científica de impacto social.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
