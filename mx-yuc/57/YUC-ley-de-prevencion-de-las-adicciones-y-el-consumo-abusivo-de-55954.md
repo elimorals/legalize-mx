@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-prevencion-de-las-adicciones-y-el-consumo-abusivo-de-559
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-08"
-last_updated: "2009-05-07"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55954&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE PREVENCION DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHOLICAS Y TABACO DEL ESTADO DE YUCATAN
 
-LEY DE PREVENCION DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHOLICAS Y TABACO DEL ESTADO
+LEY DE PREVENCIÓN DE LAS ADICCIONES Y EL CONSUMO ABUSIVO DE BEBIDAS ALCOHÓLICAS Y TABACO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MAYO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 8 de junio de 2007.
 
@@ -815,9 +815,11 @@ II.- Una vez que ha sido escuchado el interesado, se dictará la resolución cor
 
 Los responsables de los establecimientos de tratamiento y rehabilitación, tienen la obligación de permitir el acceso a sus instalaciones al personal de la Secretaría de Salud y proporcionar la documentación que se les requiera.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 52.
 
-Además de la clausura o suspensión del servicio que se preste, se podrán aplicar sanciones económicas en razón de la gravedad de la infracción hasta por un monto de cincuenta a quinientas veces el salario mínimo, según lo establecido en el artículo anterior.
+Además de la clausura o suspensión del servicio que se preste, se podrán aplicar sanciones económicas en razón de la gravedad de la infracción de cincuenta a quinientas unidades de medida y actualización, según lo establecido en el artículo anterior.
 
 ## TÍTULO TERCERO. DEL ÓRGANO CONSULTIVO
 
@@ -1061,7 +1063,9 @@ I.- Amonestación;
 
 II.- Apercibimiento;
 
-III.- Multa de entre veinte a quinientas veces el salario mínimo;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- Multa de veinte a quinientas unidades de medida y actualización.
 
 IV.- Suspensión de la licencia o permiso de conducir, por un período de entre uno hasta 36 meses;
 
@@ -1083,13 +1087,19 @@ La imposición de sanciones previstas en el artículo anterior, se harán de con
 
 Corresponde a la Secretaría de Salud la imposición de sanciones por la comisión u omisión de los supuestos previstos en las fracciones IV, VI, IX, X, XII y XIII del artículo 68 de esta Ley, y que serán las siguientes:
 
-I.- A quien o quienes incumplan lo dispuesto en la fracción IV del artículo 68, se le impondrá una multa de entre 20 a 200 veces el salario mínimo vigente;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-II.- A quien o quienes incumplan lo señalado en la fracción VI del artículo 68, se le impondrá una multa de entre 20 a 300 veces el salario mínimo vigente, sin perjuicio de la responsabilidad civil o penal;
+I.- A quien o quienes incumplan lo dispuesto en la fracción IV del artículo 68 se le impondrá una multa de veinte a doscientas unidades de medida y actualización.
 
-III.- A quien o quienes incumplan lo establecido en la fracción IX del artículo 68, se le impondrá una multa de entre 20 a 500 veces el salario mínimo vigente, sin perjuicio de la responsabilidad civil o penal;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV.-A quien o quienes incumplan lo establecido en la fracción X del artículo 68, se le impondrá de 12 a 36 horas de arresto.
+II.- A quien o quienes incumplan lo señalado en la fracción VI del artículo 68 se le impondrá una multa de veinte a trescientas unidades de medida y actualización, sin perjuicio de la responsabilidad civil o penal;
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- A quien o quienes incumplan lo establecido en la fracción IX del artículo 68 se le impondrá una multa de veinte a quinientas unidades de medida y actualización, sin perjuicio de la responsabilidad civil o penal;
+
+IV.- A quien o quienes incumplan lo establecido en la fracción X del artículo 68, se le impondrá de 12 a 36 horas de arresto.
 
 En los casos dispuestos en las fracciones VI, IX y X del artículo 68 de esta Ley, que de manera reincidente cometan las personas en el ejercicio de una profesión u oficio, les serán suspendidos e inhabilitados del ejercicio de su profesión u oficio de entre 6 a 24 meses, conforme al procedimiento establecido en la Ley de Profesiones del Estado.
 
@@ -1101,7 +1111,9 @@ V.- Al padre o tutor responsable que incumpla lo previsto en la fracción XII de
 
 SERÁN CONSIDERADOS EN ESTA LEY COMO TRABAJOS EN FAVOR DE LA COMUNIDAD, LOS QUE SE REALICEN PARA LA PRESTACIÓN DE SERVICIOS NO REMUNERADOS, EN INSTITUCIONES PÚBLICAS, EDUCATIVAS O DE ASISTENCIA SOCIAL, O EN INSTITUCIONES PRIVADAS ASISTENCIALES. ESTE TRABAJO SE LLEVARÁ A CABO HASTA EN 100 JORNADAS, EN HORARIOS DISTINTOS AL DE LAS LABORALES QUE REPRESENTEN LA FUENTE DE INGRESOS PARA LA SUBSISTENCIA DEL SUJETO Y DE SU FAMILIA, SIN QUE PUEDA EXCEDER A LA JORNADA EXTRAORDINARIA QUE DETERMINE LA LEY LABORAL Y BAJO LA ORIENTACIÓN Y VIGILANCIA DE LA AUTORIDAD QUE LA SECRETARÍA DE SALUD DETERMINE;
 
-VI.- A quien o quienes incumplan lo establecido en la fracción XIII del artículo 68, se le impondrá una multa de entre 20 y 250 veces el salario mínimo vigente.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+VI.- A quien o quienes incumplan lo establecido en la fracción XIII del artículo 68 se le impondrá una multa de veinte a doscientas cincuenta unidades de medida y actualización.
 
 ###### Artículo 73.
 
@@ -1111,13 +1123,19 @@ I.- A quien o quienes incumplan lo establecido en la fracción V del artículo 6
 
 II.- Al servidor público que incumpla lo dispuesto en la fracción VII del artículo 68, se le impondrá de 12 hasta 36 horas de arresto;
 
-III.- Al servidor público que incumpla lo señalado en la fracción VIII del artículo 68, será acreedor de una amonestación con apercibimiento, en caso de reincidencia se le impondrá una multa de entre 20 hasta 250 veces el salario mínimo;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV.- A quien o quienes incumplan lo establecido en la fracción XI del artículo 68, se le impondrá una multa de entre 100 y 500 veces el salario mínimo, y
+III.- El servidor público que incumpla lo señalado en la fracción VIII del artículo 68 será acreedor de una amonestación con apercibimiento, en caso de reincidencia se le impondrá una multa de veinte a doscientas cincuenta unidades de medida y actualización.
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV.- A quien o quienes incumplan lo establecido en la fracción XI del artículo 68 se le impondrá una multa de cien a quinientas unidades de medida y actualización, y
 
 (NOTA: EL 7 DE FEBRERO DE 2012, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 155/2007, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE OCTUBRE DE 2012 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
-V.- A quien o quienes incumplan lo señalado en la fracción XIV del artículo 68, se le impondrá una multa de entre 20 hasta 300 veces el salario mínimo, EN CASO DE REINCIDENCIA SE LE IMPONDRÁ COMO SANCIÓN LA REALIZACIÓN DE TRABAJOS A FAVOR DE LA COMUNIDAD.
+> <small>(REFORMADA [N. DE E. EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO], D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+V.- A quien o quienes incumplan lo señalado en la fracción XIV del artículo 68 se le impondrá una multa de veinte a trescientas unidades de medida y actualización, EN CASO DE REINCIDENCIA SE LE IMPONDRÁ COMO SANCIÓN LA REALIZACIÓN DE TRABAJOS A FAVOR DE LA COMUNIDAD.
 
 ### CAPÍTULO II. De la Responsabilidad Solidaria
 
@@ -1163,11 +1181,17 @@ I.- La clausura temporal o definitiva, parcial o total según la gravedad de la 
 
 II.- Arresto hasta por 36 horas de acuerdo con lo estipulado en el artículo 312 de la Ley de Salud del Estado de Yucatán;
 
-III.- Multa de 1 hasta 250 veces el salario mínimo general diario vigente en el Estado de Yucatán, cuando se trate del incumplimiento de alguna de las disposiciones contenidas en los artículos 40 y 41 último párrafo de esta Ley;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV.- Multa de 250 hasta 500 veces el salario mínimo general diario vigente en el Estado de Yucatán, por el incumplimiento de alguna de las disposiciones contenidas en los artículos 35 Bis, 37 fracciones I, II y III, 39, 41 primer y segundo párrafo de esta Ley, y
+III.- Multa de una a doscientas cincuenta unidades de medida y actualización, cuando se trate del incumplimiento de alguna de las disposiciones contenidas en los artículos 40 y 41 último párrafo de esta ley;
 
-V.- Multa de 500 hasta 1000 veces el salario mínimo general diario vigente en el Estado de Yucatán, por el incumplimiento de alguna de las disposiciones contenidas en los artículos 37 fracciones IV, V, VI y VII y 38 de esta Ley.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV.- Multa de doscientas cincuenta a quinientas unidades de medida y actualización, por el incumplimiento de alguna de las disposiciones contenidas en los artículos 35 Bis, 37, fracciones I, II y III, 39, 41 primer y segundo párrafo de esta ley, y
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+V.- Multa de quinientas a mil unidades de medida y actualización, por el incumplimiento de alguna de las disposiciones contenidas en los artículos 37 fracciones IV, V, VI y VII y 38 de esta ley.
 
 Para efectos de esta Ley se entenderá por reincidente, al infractor que incumpla la misma disposición de esta ley o sus reglamentos dos o más veces dentro del período de un año, contado a partir de la fecha en que se le hubiere notificado la sanción inmediata anterior. En caso de reincidencia se duplicará el monto de la multa que corresponda.
 
@@ -1265,7 +1289,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 D.O. 7 DE MAYO DE 2009.
 
@@ -1276,3 +1300,15 @@ Este decreto entrará en vigor el día siguiente de su publicación en el Diario
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo y los Ayuntamientos deberán adecuar los reglamentos y demás disposiciones jurídicas, de acuerdo a la competencia que les corresponda en base a este Decreto, dentro de un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
