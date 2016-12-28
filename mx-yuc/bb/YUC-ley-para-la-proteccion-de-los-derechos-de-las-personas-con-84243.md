@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-las-personas-con-8424
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-21"
-last_updated: "2015-06-12"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84243&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 21 de diciembre de 2011.
 
@@ -1223,7 +1223,9 @@ Las conductas que infrinjan las disposiciones de esta Ley y su reglamento y que 
 
 I.- Amonestación con apercibimiento, y
 
-II.- Multa de diez a doscientas veces el salario mínimo general vigente en el Estado, al momento de cometerse la infracción.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II.- Multa de diez a doscientas unidades de medida y actualización, al momento de cometerse la infracción.
 
 Para la aplicación e individualización de la sanción prevista en la fracción II de este artículo, se estará a lo previsto en la Ley de la materia o, en su caso, en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
@@ -1275,7 +1277,7 @@ SECRETARIO GENERAL DE GOBIERNO
 
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-P.O. 12 DE JUNIO DE 2015.
+D.O. 12 DE JUNIO DE 2015.
 
 Primero. Entrada en vigor
 
@@ -1320,3 +1322,15 @@ Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de es
 Décimo primero. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 28. DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
