@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-justicia-constitucional-para-el-estado-de-yucatan-80081"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-01"
-last_updated: "2011-03-01"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATAN
 
-LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATAN
+LEY DE JUSTICIA CONSTITUCIONAL PARA EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de marzo de 2011.
 
@@ -111,11 +111,13 @@ Disposiciones supletorias
 
 A falta de disposición expresa en esta Ley, se aplicará de manera supletoria lo dispuesto en la Ley Orgánica del Poder Judicial del Estado de Yucatán y, en su caso, en el Código de Procedimientos Civiles de Yucatán.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 Multas
 
 ###### Artículo 8.
 
-Las multas previstas en esta Ley se impondrán a razón de días de salario, y se tomará como base para calcularlas, el mínimo general vigente en el Estado de Yucatán al momento de realizarse la conducta u omisión sancionada.
+Las multas previstas en esta ley se impondrán a razón de unidades de medida y actualización, y se tomará como base para calcularlas su valor actualizado al momento de realizarse la conducta u omisión sancionada.
 
 Página electrónica del Tribunal Constitucional
 
@@ -219,11 +221,13 @@ Momento en que surten sus efectos las notificaciones
 
 Las notificaciones surtirán sus efectos a partir del día siguiente a aquel en que hubieren quedado legalmente hechas.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 Nulidad de las notificaciones
 
 ###### Artículo 22.
 
-Las notificaciones que se hicieren en forma distinta de la prevenida en este Capítulo serán nulas. Declarada la nulidad se impondrá multa de cinco a diez días de salario al responsable, quien en caso de reincidencia será destituido de su cargo.
+Las notificaciones que se hicieren en forma distinta de la prevenida en este capítulo serán nulas. Declarada la nulidad se impondrá multa de cinco a diez unidades de medida y actualización, quien en caso de reincidencia será destituido de su cargo.
 
 Convalidación de las notificaciones irregulares
 
@@ -765,11 +769,13 @@ Tramitación de recurso.
 
 El recurso de reclamación se promoverá ante el Presidente del Tribunal Constitucional, quien, de admitirlo correrá traslado a las demás partes para que dentro del plazo de cinco días aleguen lo que a su derecho convenga. Transcurrido este último plazo, el Presidente del Tribunal Constitucional turnará los autos a un magistrado distinto del instructor a fin de que elabore el proyecto de resolución que deba someter al Pleno del Tribunal Constitucional.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 Sanción por recursos de reclamación dilatorios
 
 ###### Artículo 80.
 
-Cuando el recurso de reclamación se interponga sin motivo, se impondrá al recurrente, una multa de diez a ciento veinte días de salario.
+Cuando el recurso de reclamación se interponga sin motivo, se impondrá al recurrente, una multa de diez a ciento veinte unidades de medida y actualización.
 
 Sub-sección Segunda
 
@@ -797,9 +803,11 @@ II.- En el caso de la fracción II del propio artículo, ante el Presidente del 
 
 Tramitación del recurso
 
-###### Artículo 83.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-Admitido el recurso de queja, se requerirá a la autoridad contra la cual se hubiere interpuesto para que dentro de un plazo de quince días rinda un informe y ofrezca pruebas y deje sin efectos la norma general o acto que diere lugar al recurso. La falta o deficiencia de este informe establecerá la presunción de ser ciertos los hechos imputados, sin perjuicio de que se le imponga a la autoridad omisa una multa de diez a ciento ochenta días de salario.
+###### Articulo 83.
+
+Admitido el recurso de queja, se requerirá a la autoridad contra la cual se hubiere interpuesto para que dentro de un plazo de quince días rinda un informe y ofrezca pruebas y deje sin efectos la norma general o acto que diere lugar al recurso. La falta o deficiencia de este informe establecerá la presunción de ser ciertos los hechos imputados, sin perjuicio de que se le imponga a la autoridad omisa una multa de diez a ciento ochenta unidades de medida y actualización.
 
 Transcurrido el término señalado en el párrafo anterior y siempre que subsista la materia del recurso, en el supuesto de la fracción I del artículo 81, el magistrado instructor fijará la fecha para la celebración de una audiencia dentro de los diez días siguientes a fin de que se desahoguen las pruebas y se formulen por escrito los alegatos; para el caso de la fracción II de dicho artículo, el presidente del Tribunal Constitucional turnará el expediente a un magistrado instructor para los mismos efectos.
 
@@ -1246,3 +1254,17 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARLO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
