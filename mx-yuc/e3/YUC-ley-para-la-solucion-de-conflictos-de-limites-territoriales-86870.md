@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-solucion-de-conflictos-de-limites-territoriales-868
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-27"
-last_updated: "2012-03-27"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA SOLUCIÓN DE CONFLICTOS DE LÍMITES TERRITORIALES INTERMUNICIPALES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 27 de marzo de 2012.
 
@@ -93,7 +93,7 @@ XI.- Convenio: el acuerdo entre dos o más municipios para crear, transferir, mo
 
 XII.- Municipio: a cualquiera de los 106 que conforman el Estado de Yucatán;
 
-XIII.- Salario Mínimo: el equivalente a un día de salario mínimo general vigente en el Estado de Yucatán, y
+XIII.- (DEROGADA, D.O. 28 DE DICIEMBRE DE 2016)
 
 XIV.- Secretaría General: la Secretaría General del Poder Legislativo del Estado de Yucatán.
 
@@ -137,11 +137,13 @@ En caso de que las notificaciones se realicen personalmente a los representantes
 
 En ambos casos, si se negaren a firmar el acta o recibir el oficio, la notificación se tendrá por legalmente hecha, asentando dicha negativa para constancia.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 11.
 
 Las notificaciones surtirán efectos a partir del día siguiente en que hubieren quedado legalmente hechas.
 
-Las notificaciones que no fueren hechas en la forma establecida serán nulas. Declarada la nulidad por la Comisión Permanente se impondrá multa de uno a diez salarios mínimos al responsable, quien en caso de reincidencia será destituido de su cargo, de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
+Las notificaciones que no fueren hechas en la forma establecida serán nulas. Declarada la nulidad por la Comisión Permanente se impondrá multa de una a diez unidades de medida y actualización, quien en caso de reincidencia será destituido de su cargo, de conformidad con lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
 
 ###### Artículo 12.
 
@@ -478,3 +480,17 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
