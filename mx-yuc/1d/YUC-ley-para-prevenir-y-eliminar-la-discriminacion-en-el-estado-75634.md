@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-756
 country: "mx"
 rank: "ley"
 publication_date: "2010-07-06"
-last_updated: "2015-06-12"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 6 de julio de 2010.
 
@@ -687,19 +687,25 @@ Las sanciones que correspondan a las personas responsables de una conducta discr
 
 I.- La realización de las conductas señaladas en las fracciones II, V, VI, VIII, XVI, XVII, XX, XXV, XXVI, XXX y XXXI del artículo 9 de esta ley, se sancionará con amonestación pública.
 
-II.- La infracción a las conductas señaladas en las fracciones I, III, IV, IX, XI, XIII, XIV, XVIII, XIX, XXI, XXII, XXIII, XXIV y XXVII del artículo 9 de esta ley se sancionarán con multa de 100 a 500 salarios mínimos vigentes en el Estado de Yucatán.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-III.- La realización de las conductas señaladas en las fracciones VII, X, XII, XV, XXVIII y XXIX del artículo 9 de esta ley, se sancionarán con multa de 501 a 1000 salarios mínimos vigentes en el Estado de Yucatán.
+II.- La infracción a las conductas señaladas en las fracciones I, III, IV, IX, XI, XIII, XIV, XVIII, XIX, XXI, XXII, XXIII, XXIV y XXVII del artículo 9 de esta ley se sancionarán con multa de cien a quinientas unidades de medida y actualización.
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- La realización de las conductas señaladas en las fracciones VII, X, XII, XV, XXVIII y XXIX del artículo 9 de esta ley, se sancionarán con multa de quinientas una a mil unidades de medida y actualización.
 
 Cuando el Organismo considere que se cometieron delitos, en la realización de conductas discriminatorias, dará vista al Ministerio Público para la persecución de los delitos que correspondan.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 67.
 
-En caso de reincidencia, tratándose de las conductas señaladas en la fracción I del artículo anterior, la sanción consistirá en multa de 100 a 500 salarios mínimos vigentes en el Estado de Yucatán.
+En caso de reincidencia, tratándose de las conductas señaladas en la fracción I del artículo anterior, la sanción consistirá en multa de cien a quinientas unidades de medida y actualización.
 
-En caso de reincidencia, tratándose de las conductas señaladas en la fracción II del artículo anterior, la sanción consistirá en multa de 200 a 700 salarios mínimos vigentes en el Estado de Yucatán.
+En caso de reincidencia, tratándose de las conductas señaladas en la fracción II del artículo anterior, la sanción consistirá en multa de doscientas y setecientas unidades de medida y actualización vigentes.
 
-En caso de reincidencia, tratándose de servidores públicos, la sanción consistirá en la remoción e inhabilitación del cargo hasta por 5 años. Cuando se trate de Servidores Públicos de elección popular, el Organismo estará facultado para promover lo que en derecho corresponda ante las instancias competentes.
+En caso de reincidencia, tratándose de servidores públicos, la sanción consistirá en la remoción e inhabilitación del cargo hasta por cinco años. Cuando se trate de servidores públicos de elección popular, el Organismo estará facultado para promover lo que en derecho corresponda ante las instancias competentes.
 
 ### CAPÍTULO IX. Del Recurso
 
@@ -782,3 +788,15 @@ Los matrimonios entre adolescentes celebrados antes de la entrada en vigor de es
 Décimo primero. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
