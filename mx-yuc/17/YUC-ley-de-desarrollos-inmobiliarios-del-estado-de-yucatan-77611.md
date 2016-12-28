@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-desarrollos-inmobiliarios-del-estado-de-yucatan-77611"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-07"
-last_updated: "2014-10-21"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77611&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE DESARROLLOS INMOBILIARIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 21 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 7 de diciembre de 2010.
 
@@ -363,7 +363,9 @@ II. Cancelación de la autorización;
 
 III. Clausura;
 
-IV. Multa, que podrá ser desde 100 salarios mínimos vigentes en el Estado de Yucatán hasta el equivalente del 20% del valor catastral del inmueble, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV. Multa de cien unidades de medida y actualización hasta el equivalente al 20% del valor catastral del inmueble, y
 
 V. Arresto hasta por 36 horas.
 
@@ -435,7 +437,7 @@ C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ
 
 SECRETARIO GENERAL DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O. 21 DE OCTUBRE DE 2014.
 
@@ -458,3 +460,15 @@ El Instituto de Seguridad Jurídica Patrimonial del Estado de Yucatán deberá r
 Artículo Quinto. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
