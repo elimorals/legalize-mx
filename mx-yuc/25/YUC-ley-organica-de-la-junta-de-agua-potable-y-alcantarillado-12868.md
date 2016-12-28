@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-junta-de-agua-potable-y-alcantarillado-12868
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-01-08"
-last_updated: "1992-03-16"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY ORGANICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATAN
 
-LEY ORGANICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATAN
+LEY ORGÁNICA DE LA JUNTA DE AGUA POTABLE Y ALCANTARILLADO DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE MARZO DE 1992.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial el Viernes 8 de Enero de 1982.
 
@@ -225,7 +225,7 @@ IV.- Los demás bienes, derechos y aprovechamientos que le fijen las Leyes y Reg
 
 ###### ARTICULO 10.
 
-Los propietarios o poseedores de predios, negocios o establecimientos, hayen(sic) dentro de las redes de agua potable y alcantarillado, deberán solicitar a la Junta la instalación del servicio de agua potable y descargas domiciliarias de alcantarillado. Los trabajos necesarios para la instalación de estos servicios se llevarán a cabo única y exclusivamente por el personal autorizado de la Junta, previo el pago correspondiente del derecho de contrato.
+Los propietarios o poseedores de predios, negocios o establecimientos, hayen (sic) dentro de las redes de agua potable y alcantarillado, deberán solicitar a la Junta la instalación del servicio de agua potable y descargas domiciliarias de alcantarillado. Los trabajos necesarios para la instalación de estos servicios se llevarán a cabo única y exclusivamente por el personal autorizado de la Junta, previo el pago correspondiente del derecho de contrato.
 
 ###### ARTICULO 11.
 
@@ -237,7 +237,7 @@ Para el efecto del artículo anterior, se considera como un solo predio, aquél 
 
 I.- Que pertenezca a una persona física o moral o si pertenece a varias, la propiedad sea pro-indiviso.
 
-II.- Que por la distribución u (sic)uso de edificaciones revele claramente la intención de constituir una unidad.
+II.- Que por la distribución u (sic) uso de edificaciones revele claramente la intención de constituir una unidad.
 
 III.- Que estando sin edificar, no se encuentra dividido en forma tal que una parte resulte independiente de la otra.
 
@@ -315,11 +315,11 @@ El pago será bimestral para las tarifas domésticas, siendo facultad del propio
 
 En el caso de consumo mixto que implique uso doméstico y comercial, se aplicará la tarifa correspondiente al servicio comercial.
 
-> <small>(REFORMADO, D.O. 16 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 24.
 
-Los derechos de conexión y las tarifas por la prestación de los servicios de agua potable y alcantarillado que preste la Junta, se fijarán con base en estudios de carácter económico que se formularán anualmente o antes, si el autofinanciamiento del sistema lo requiere, o las condiciones socioeconómicas del País y particularmente las del Estado, lo hacen necesario, en todo caso deberá tomarse en cuenta: el índice nacional de precios al consumidor para las clases industriales, comerciales y de servicios y el índice de salarios mínimos a las domésticas, el costo de las obras y el global del sistema construido, el mantenimiento, el mejoramiento y ampliación de las redes de los mismos, las condiciones socioeconómicas de las poblaciones, en las que se preste el servicio, así como el volumen del agua y el uso a que se destine.
+Los derechos de conexión y las tarifas por la prestación de los servicios de agua potable y alcantarillado que preste la Junta, se fijarán con base en estudios de carácter económico que se formularán anualmente o antes, si el autofinanciamiento del sistema lo requiere, o las condiciones socioeconómicas del País y particularmente las del Estado, lo hacen necesario, en todo caso deberá tomarse en cuenta: el índice nacional de precios al consumidor para las clases industriales, comerciales y de servicios y la unidad de medida y actualización a las domésticas, el costo de las obras y el global del sistema construido, el mantenimiento, el mejoramiento y ampliación de las redes de los mismos, las condiciones socioeconómicas de las poblaciones, en las que se preste el servicio, así como el volumen del agua y el uso a que se destine.
 
 ###### ARTICULO 25.
 
@@ -365,19 +365,19 @@ Los fraccionadores, urbanizadores de conjuntos habitacionales, hoteles o edifici
 
 ### CAPITULO IV. DE LAS SANCIONES
 
-> <small>(REFORMADO, D.O. 16 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 34.
 
 Se considerará como toma o descarga clandestina a la derivada para servir a otro predio, negocio o establecimiento distinto al que aparece registrado que se haya conectado sin autorización de la Junta, así como las tomas o descargas no registradas.
 
-Conocida la irregularidad, se cancelarán desde luego las tomas y descargas y el propietario o poseedor del predio, negocio o establecimiento en donde estén instaladas las tomas o descargas de las cuales se hace la derivación será sancionado con una multa por el equivalente de 5 a 20 veces el salario mínimo general, según la gravedad de la infracción; aplicándose igual multa a quien se beneficie de la misma.
+Conocida la irregularidad, se cancelarán desde luego las tomas y descargas y el propietario o poseedor del predio, negocio o establecimiento en donde estén instaladas las tomas o descargas de las cuales se hace la derivación será sancionado con una multa de cinco a veinte unidades de medida y actualización, según la gravedad de la infracción; aplicándose igual multa a quien se beneficie de esta.
 
-> <small>(REFORMADO, D.O. 16 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 35.
 
-Cuando por cualquier motivo el usuario pase de la clasificación doméstica a comercial, deberá comunicarlo a la Junta dentro del plazo de diez días siguientes al cambio correspondiente, debiendo aplicársele si no lo hiciere, una multa por el equivalente de 5 a 10 veces el salario mínimo general.
+Cuando por cualquier motivo el usuario pase de la clasificación doméstica a comercial, deberá comunicarlo a la Junta dentro del plazo de diez días siguientes al cambio correspondiente, debiendo aplicársele si no lo hiciere, una multa de cinco a veinte unidades de medida y actualización.
 
 Igual multa se impondrá tanto al vendedor como al comprador de un predio, negocio o establecimiento que no haga ante la Junta el aviso respectivo de cambio de registro.
 
@@ -393,15 +393,15 @@ II.- A quienes conecten bombas directamente a las líneas de conducción, distri
 
 III.- A los que cometan cualquier otra infracción a las disposiciones de esta Ley, no especificadas en las fracciones que anteceden.
 
-> <small>(REFORMADO, D.O. 16 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 36 BIS.- Se impondrá multa por el equivalente de 20 a 40 veces el salario mínimo general, a quien utilice para otros fines, sin autorización de la Junta, agua de los hidrantes destinados al uso exclusivo del H. Cuerpo de Bomberos.
+ARTICULO 36 BIS.- Se impondrá multa de veinte a cuarenta unidades de medida y actualización, a quien utilice para otros fines, sin autorización de la Junta, agua de los hidrantes destinados al uso exclusivo del H. Cuerpo de Bomberos.
 
-> <small>(REFORMADO, D.O. 16 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 37.
 
-Se impondrá multa por el equivalente de 10 a 30 veces el salario mínimo general, por cada lote o predio beneficiado, según la gravedad de la infracción a quien lleve a cabo trabajos sin autorización de la Junta o realice manipulaciones para aprovechar el servicio de agua o alcantarillado en los casos de fraccionamientos y de empresas constructoras de infraestructura urbana.
+Se impondrá multa de diez a treinta unidades de medida y actualización, por cada lote o predio beneficiado, según la gravedad de la infracción, a quien lleve a cabo trabajos sin autorización de la Junta o realice manipulaciones para aprovechar el servicio de agua o alcantarillado en los casos de fraccionamientos y de empresas constructoras de infraestructura urbana.
 
 ###### ARTICULO 38.
 
@@ -425,11 +425,11 @@ Las pruebas relativas al funcionamiento de un aparato medidor, se practicarán e
 
 En vista del resultado a que se refiere el artículo anterior, la Junta a través de la oficina o persona autorizada por el caso, determinará si el medidor ha funcionado normalmente y si por lo mismo debe regir o no los consumos registrados, aprobando o modificando, en su caso, el importe del consumo facturado. Dicha resolución deberá notificarse al interesado y tendrá el carácter de definitiva.
 
-> <small>(REFORMADO, D.O. 16 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 43.
 
-El usuario cubrirá a la Junta la suma por el equivalente de 2 veces el salario mínimo general, en cada caso en que objete la medición del consumo, una vez que desahogadas las pruebas correspondientes, se determine que el aparato medidor funcionaba correctamente o marcaba un consumo menor al real.
+El usuario cubrirá a la Junta la suma de dos unidades de medida y actualización, en cada caso en que objete la medición del consumo, una vez que desahogadas las pruebas correspondientes, se determine que el aparato medidor funcionaba correctamente o marcaba un consumo menor al real.
 
 ###### ARTICULO 44.
 
@@ -507,7 +507,7 @@ El Secretario de Gobierno
 
 Lic. Mario A. Bolio Granja
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O. 30 DE SEPTIEMBRE DE 1983.
 
@@ -536,3 +536,15 @@ Todo lo no previsto en este Decreto y en la Ley que reforma, será resuelto por 
 ###### ARTICULO CUARTO.
 
 Las dependencias y sectores que integrarán el Consejo Directivo deberán designar a sus representantes Propietario y Suplente dentro de los tres días siguientes a la publicación de este Decreto y comunicarlo a la Junta de Agua Potable y Alcantarillado de Yucatán, al igual que la autoridades que deban nombrar miembros en el Consejo Directivo o en el órgano de vigilancia.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
