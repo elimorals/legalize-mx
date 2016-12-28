@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2016-12-27"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -2909,25 +2909,33 @@ III.- Las condiciones socio-económicas del infractor; y
 
 IV.- La calidad de reincidente del infractor.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 304.
 
-Se sancionará con multa equivalente hasta 20 veces el salario mínimo general diario vigente en la zona económica de que se trate la violación de las disposiciones contenidas en los artículos, 54, 55, 80, 97, 117, 118, 119, 131, 178, 210, 273, 274 y 275 de esta Ley. Las violaciones contenidas en el artículo 95 de esta Ley, se sancionarán con multas equivalentes hasta de 100 veces el salario mínimo de la zona económica de que se trate.
+Se sancionará con multa de una a veinte unidades de medida y actualización la violación a las disposiciones contenidas en los artículos 54, 55, 80, 97, 117, 118, 119, 131, 178, 210, 273, 274 y 275 de esta ley. Las violaciones contenidas en el artículo 95 de esta ley, se sancionarán con multas de una a cien unidades de medida y actualización.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 305.
 
-Se sancionará con multa equivalente de 10 hasta 100 veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos, 107, 121, 127, 220 y 224 de esta Ley.
+Se sancionará con multa de diez a cien unidades de medida y actualización, la violación de las disposiciones contenidas en los artículos 107, 121, 127, 220 y 224 de esta ley.
 
-Las violaciones contenidas en los artículos 252, 259, 282 y 297 de esta Ley, se sancionará con multa equivalente de 50 a 500 veces el salario mínimo general diario en la zona económica de que se trate.
+Las violaciones contenidas en los artículos 252, 259, 282 y 297 de esta ley se sancionarán con multa de cincuenta a quinientas unidades de medida y actualización.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 306.
 
-Se sancionará con multa equivalente de 50 a 500 veces el salario mínimo general diario vigente en la zona económica de que se trate las violaciones a las disposiciones contenidas en el artículo 116 de esta Ley.
+Se sancionará con multa de cincuenta a quinientas unidades de medida y actualización la violación a las disposiciones contenidas en el artículo 116 de esta ley.
 
-Las violaciones contenidas en los artículos 68, 93, 94, 108, 120 y 159 fracción VI de esta Ley, se sancionarán con multa equivalente de 200 a 2,000 veces el salario mínimo general vigente en la zona económica de que se trate.
+Las violaciones contenidas en los artículos 68, 93, 94, 108, 120 y 159, fracción VI, de esta ley, se sancionarán con multa de doscientas a dos mil unidades de medida y actualización.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 307.
 
-Las infracciones no previstas en este capítulo, serán sancionadas con multa equivalente hasta por 500 veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 303 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa de una a quinientas unidades de medida y actualización, atendiendo las reglas de calificación que se establecen en el artículo 303 de esta ley.
 
 ###### ARTICULO 308.
 
@@ -3324,3 +3332,15 @@ Tercero. El Consejo Interinstitucional para la Prevención y Control de las Enfe
 Programa especial
 
 Cuarto. El titular del Poder Ejecutivo del estado deberá expedir dentro de los ciento ochenta días naturales contados a partir de la instalación del Consejo Interinstitucional para la Prevención y Control de las Enfermedades Transmisibles por el Mosquito en el Estado de Yucatán, el Programa Especial de Prevención y Control de las Enfermedades Transmisibles por el Mosquito en el Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
