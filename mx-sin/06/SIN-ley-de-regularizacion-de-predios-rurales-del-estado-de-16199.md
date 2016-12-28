@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-regularizacion-de-predios-rurales-del-estado-de-16199"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-14"
-last_updated: "2000-04-14"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE REGULARIZACION DE PREDIOS RURALES DEL ESTADO DE SINALOA
 
-LEY DE REGULARIZACION DE PREDIOS RURALES DEL ESTADO DE SINALOA
+LEY DE REGULARIZACIÓN DE PREDIOS RURALES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa" el 14 de abril de 2000.
 
@@ -129,13 +129,17 @@ El Oficial del Registro Público de la Propiedad deberá inscribir el testimonio
 
 Una vez inscrita la escritura notarial en el Registro Público de la Propiedad, quien crea tener algún derecho sobre el predio correspondiente, podrá acudir ante el Juez competente a demandar lo que a su derecho convenga, dentro de los cinco años siguientes a dicha inscripción.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 15.
 
-Para el pago de los derechos de inscripción en el Registro Público de la Propiedad, se aplicará la cuota prevista en el artículo 51, fracción V, de la Ley de Hacienda del Estado de Sinaloa, que dispone el pago de tres salarios mínimos, por este concepto.
+Para el pago de los derechos de inscripción en el Registro Público de la Propiedad, se aplicará la cuota prevista en el artículo 51, fracción V, de la Ley de Hacienda del Estado de Sinaloa, que dispone el pago de tres veces el valor diario de la Unidad de Medida y Actualización, por este concepto.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 16.
 
-Se celebrarán convenios de colaboración y coordinación con los organismos colegiados de Notarios Públicos, legalmente constituidos en la entidad, para efectos de la fijación de honorarios especiales generados por la tramitación del procedimiento administrativo establecido en este ordenamiento, los que en ningún caso serán superiores al 50% del arancel contenido en el Artículo 194 de la Ley del Notariado del Estado de Sinaloa ni inferiores a 15.30 salarios mínimos de la zona geográfica.
+Se celebrarán convenios de colaboración y coordinación con los organismos colegiados de Notarios Públicos, legalmente constituidos en la entidad, para efectos de la fijación de honorarios especiales generados por la tramitación del procedimiento administrativo establecido en este ordenamiento, los que en ningún caso serán superiores al 50% del arancel contenido en el Artículo 194 de la Ley del Notariado del Estado de Sinaloa ni inferiores a 15.30 veces el valor diario de la Unidad de Medida y Actualización.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -161,9 +165,13 @@ C. POLICARPO INFANTE FIERRO
 
 DIPUTADO PRESIDENTE
 
-C. MA. DEL CARMEN ARIAS RODRÍGUEZ C. RICARDO JAVIER CASAS LÓPEZ
+C. MA. DEL CARMEN ARIAS RODRÍGUEZ
 
-DIPUTADA SECRETARIA DIPUTADO SECRETARIO
+DIPUTADA SECRETARIA
+
+C. RICARDO JAVIER CASAS LÓPEZ
+
+DIPUTADO SECRETARIO
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -173,10 +181,36 @@ El Gobernador Constitucional del Estado.
 
 Juan S. Millán Lizarraga.
 
-El Secretario General de Gobierno El Secretario de Agricultura, Ganadería y Pesca.
+El Secretario General de Gobierno
 
-Gonzalo M. Armienta Calderón. Jesús Vega Acuña.
+Gonzalo M. Armienta Calderón.
 
-El Secretario de Administración y Finanzas El Secretario de Planeación y Desarrollo
+El Secretario de Agricultura, Ganadería y Pesca.
 
-Oscar J. Lara Aréchiga. Jesús Aguilar Padilla.
+Jesús Vega Acuña.
+
+El Secretario de Administración y Finanzas
+
+Oscar J. Lara Aréchiga.
+
+El Secretario de Planeación y Desarrollo
+
+Jesús Aguilar Padilla.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
