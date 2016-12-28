@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-de-medios-de-impugnacion-en-materia-50523"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-24"
-last_updated: "2014-06-28"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL DEL ESTADO DE YUCATÁN
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTICULO TERCERO TRANSITORIO DEL DECRETO MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTICULOS DE LA CONSTITUCION POLITICA DEL ESTADO DE YUCATAN, PUBLICADO EN EL D.O. 4 DE OCTUBRE DE 2010, CUALQUIER REFERENCIA QUE EN OTRAS DISPOSICIONES JURIDICAS Y ADMINISTRATIVAS SE REALICEN DE LAS DENOMINACIONES DE GRAN COMISION, COMISION PERMANENTE DE HACIENDA PUBLICA, INSPECCION DE LA CONTADURIA MAYOR DE HACIENDA Y PATRIMONIO ESTATAL Y MUNICIPAL EN RELACION A CUENTA PUBLICA, OFICIALIA MAYOR DEL CONGRESO Y TESORERIA DEL CONGRESO, SE ENTENDERAN POR JUNTA DE GOBIERNO Y COORDINACION POLITICA, VIGILANCIA DE LA CUENTA PUBLICA Y TRANSPARENCIA, SECRETARIA GENERAL DEL PODER LEGISLATIVO Y DIRECCION GENERAL DE ADMINISTRACION Y FINANZAS, RESPECTIVAMENTE.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 24 de mayo de 2006.
 
@@ -489,7 +487,9 @@ I.- Apercibimiento;
 
 II.- Amonestación;
 
-III.- Multa hasta por cien veces el salario mínimo vigente en la ciudad de Mérida, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III.- Multa de una a cien unidades de medida y actualización, y
 
 IV.- Auxilio de la fuerza pública.
 
@@ -857,7 +857,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 D.O. 4 DE OCTUBRE DE 2010.
 
@@ -883,33 +883,33 @@ IV.- Tesorería del Congreso: Dirección General de Administración y Finanzas.
 
 ###### ARTÍCULO CUARTO.
 
-La LlX Legislatura concluirá el 31 de agosto de 2012, según lo dispuesto en el artículo noveno transitorio del Decreto número 677 por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán.
+La LIX Legislatura concluirá el 31 de agosto de 2012, según lo dispuesto en el artículo noveno transitorio del Decreto número 677 por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 ###### ARTÍCULO QUINTO.
 
-De conformidad con lo dispuesto en el artículo duodécimo transitorio del Decreto número 677, por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán, y para los efectos del ajuste en el calendario constitucional ordinario y el propio en materia electoral, por la celebración concurrente de las elecciones estatales y federales en el año 2012; la LlX Legislatura del H. Congreso del Estado tendrá los siguientes periodos:
+De conformidad con lo dispuesto en el artículo duodécimo transitorio del Decreto número 677, por el que se reforman y adicionan diversos artículos de la Constitución Política del Estado de Yucatán, publicado en fecha 24 de mayo de 2006, en el Diario Oficial del Gobierno del Estado de Yucatán, y para los efectos del ajuste en el calendario constitucional ordinario y el propio en materia electoral, por la celebración concurrente de las elecciones estatales y federales en el año 2012; la LIX Legislatura del H. Congreso del Estado tendrá los siguientes periodos:
 
 Primer Periodo Ordinario de Sesiones Del 1 de julio al 31 de agosto del 2010
 
 Segundo Período Ordinario de Sesiones Del 16 de octubre al 15 de diciembre de 2010
 
-Tercer Período Ordinario de Sesiones Del 16 de enero al15 de abril de 2011
+Tercer Período Ordinario de Sesiones Del 16 de enero al 15 de abril de 2011
 
-Cuarto Período Ordinario de Sesiones Del 16 de mayo al ·15 de julio de 2011
+Cuarto Período Ordinario de Sesiones Del 16 de mayo al 15 de julio de 2011
 
-Quinto Período Ordinario de Sesiones Del 1 de septiembre al15 de diciembre de 2011
+Quinto Período Ordinario de Sesiones Del 1 de septiembre al 15 de diciembre de 2011
 
-Sexto Período Ordinario de Sesiones Del 16 de enero al15 de abril de 2012
+Sexto Período Ordinario de Sesiones Del 16 de enero al 15 de abril de 2012
 
 Séptimo Período Ordinario de Sesiones Del 16 de mayo al 15 de julio de 2012
 
-Durante los recesos de la LlX Legislatura, funcionará una Diputación Permanente.
+Durante los recesos de la LIX Legislatura, funcionará una Diputación Permanente.
 
 Los periodos ordinarios de sesiones a partir de la LX Legislatura, deberán ajustarse al calendario establecido en el artículo 27 de la Constitución Política del Estado de Yucatán.
 
 ###### ARTÍCULO SEXTO.
 
-La Junta de Gobierno y Coordinación Política de la LlX Legislatura se integrará de la forma siguiente:
+La Junta de Gobierno y Coordinación Política de la LIX Legislatura se integrará de la forma siguiente:
 
 PRESIDENTE: DIP. MAURICIO SAHUÍ RIVERA.
 
@@ -923,11 +923,11 @@ El Presidente deberá convocar a la instalación de la Junta de Gobierno y Coord
 
 ###### ARTÍCULO SÉPTIMO.
 
-La Junta de Gobierno y Coordinación Política de la LlX Legislatura, deberá proponer al Pleno del H. Congreso del Estado, en un plazo no mayor a 15 días hábiles a partir de la entrada en vigor de esta Ley, la integración de las Comisiones Permanentes que establece esta ley.
+La Junta de Gobierno y Coordinación Política de la LIX Legislatura, deberá proponer al Pleno del H. Congreso del Estado, en un plazo no mayor a 15 días hábiles a partir de la entrada en vigor de esta Ley, la integración de las Comisiones Permanentes que establece esta ley.
 
 Las comisiones permanentes que estén funcionando a la entrada en vigor de esta Ley, continuarán ejerciendo sus atribuciones hasta que sean integradas por el Pleno las que establece esta Ley.
 
-Las comisiones especiales creadas en la LlX Legislatura, durarán todo el ejercicio constitucional de ésta.
+Las comisiones especiales creadas en la LIX Legislatura, durarán todo el ejercicio constitucional de ésta.
 
 ###### ARTÍCULO OCTAVO.
 
@@ -998,3 +998,15 @@ A partir de la entrada en vigor de este decreto se deroga la Ley Orgánica del T
 Décimo. Derogación tácita
 
 A partir de la entrada en vigor de este decreto quedan derogadas todas las disposiciones de igual o menor rango en lo que se opongan a su contenido.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
