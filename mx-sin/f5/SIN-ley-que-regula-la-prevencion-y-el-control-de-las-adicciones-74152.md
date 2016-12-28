@@ -4,7 +4,7 @@ identifier: "SIN-ley-que-regula-la-prevencion-y-el-control-de-las-adicciones-741
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-26"
-last_updated: "2011-08-29"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74152&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY QUE REGULA LA PREVENCION Y EL CONTROL DE LAS ADICCIONES EN EL ESTADO DE SINALOA
 
-LEY QUE REGULA LA PREVENCION Y EL CONTROL DE LAS ADICCIONES EN EL ESTADO DE SINALOA
+LEY QUE REGULA LA PREVENCIÓN Y EL CONTROL DE LAS ADICCIONES EN EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 26 de marzo de 2010.
 
@@ -277,13 +277,17 @@ El tratamiento contra las adicciones, no debe ser considerado un castigo para el
 
 Los menores de edad adictos a sustancias psicoactivas tienen derecho a recibir tratamiento en los establecimientos que regula esta Ley; pero para ello, las instituciones deberán ser exclusivas para el tratamiento de los adolescentes o en su defecto, contar con espacios adecuados para ellos, separados de los adultos y el tratamiento deberá ser acorde a su edad.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 19.
 
-Los establecimientos, para el caso de los menores de edad, deberán obtener el consentimiento por escrito de quien ejerce la patria potestad, del representante legal o tutor, dando aviso de su ingreso dentro de las veinticuatro horas siguientes a la Procuraduría de la Defensa del Menor, la Mujer y la Familia para que inicie el procedimiento de protección correspondiente en atención a la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes en el Estado de Sinaloa.
+Los establecimientos, para el caso de los menores de edad, deberán obtener el consentimiento por escrito de quien ejerce la patria potestad, del representante legal o tutor, dando aviso de su ingreso dentro de las veinticuatro horas siguientes a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado para que inicie el procedimiento de protección correspondiente en atención a la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Sinaloa.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 20.
 
-Cuando se tenga conocimiento que un menor de edad es adicto a una sustancia psicoactiva y que su familia no le preste la ayuda necesaria para recibir un tratamiento por su adicción, cualquier persona podrá acudir a la Procuraduría de la Defensa del Menor, la Mujer y la Familia y solicitar el procedimiento de protección que contempla la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes en el Estado de Sinaloa.
+Cuando se tenga conocimiento que un menor de edad es adicto a una sustancia psicoactiva y que su familia no le preste la ayuda necesaria para recibir un tratamiento por su adicción, cualquier persona podrá acudir a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado y solicitar el procedimiento de protección que contempla la Ley de los Derechos de Niñas, Niños y Adolescentes en el Estado de Sinaloa.
 
 ###### ARTÍCULO 21.
 
@@ -959,9 +963,11 @@ III. Firma del usuario o su representante legal, de acuerdo a lo previsto por la
 
 Si el usuario sujeto a tratamiento ingresó por determinación de alguna autoridad judicial o administrativa, deberá dársele aviso a la misma dentro de las veinticuatro horas antes de su egreso.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 129.
 
-Si el usuario que egresa es menor de edad, deberá entregársele a su familiar más cercano en vínculo o a su representante legal y se deberá dar aviso a la Procuraduría de la Defensa del Menor, la Mujer y la Familia.
+Si el usuario que egresa es menor de edad, deberá entregársele a su familiar más cercano en vínculo o a su representante legal y se deberá dar aviso a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado.
 
 ###### ARTÍCULO 130.
 
@@ -1330,3 +1336,15 @@ PRIMERO. El presente decreto entrará en vigor el día de su publicación, salvo
 SEGUNDO. En materia de narcomenudeo, las autoridades competentes de la entidad conocerán de dicho delito a partir del día 21 de agosto de 2012, en cumplimiento al transitorio primero, párrafo tercero, del Decreto Federal publicado en el Diario Oficial de la Federación de fecha 20 de agosto de 2009.
 
 TERCERO. Durante la vacatio legis, los poderes Ejecutivo y Judicial deberán realizar las acciones necesarias para su debida observancia e instrumentación.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 52 QUE REFORMA LOS ARTÍCULOS 19, 20 Y 129 DE LA LEY QUE REGULA LA PREVENCIÓN Y EL CONTROL DE LAS ADICCIONES EN EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al•día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
