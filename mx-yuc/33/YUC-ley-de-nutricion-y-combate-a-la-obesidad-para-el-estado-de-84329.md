@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-nutricion-y-combate-a-la-obesidad-para-el-estado-de-8432
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-05"
-last_updated: "2012-01-05"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84329&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE NUTRICIÓN Y COMBATE A LA OBESIDAD PARA EL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 5 de enero de 2012.
 
@@ -110,8 +110,6 @@ Los ACF son utilizados con fines sociales, como el mejoramiento de la situación
 V. Canasta básica alimentaria recomendada: la que defina el Consejo, que deberá contener frutas y verduras, cereales, leguminosas y alimentos de origen animal, así como los requerimientos necesarios para su cocción e ingesta;
 
 VI. Complemento alimenticio: las fuentes concentradas de vitaminas o minerales, solos o combinados, que se comercializan en forma de capsulas, tabletas, polvo, soluciones, previstas para tomar en pequeñas cantidades unitarias y medidas;
-
-+
 
 VII. Consejo: el Consejo Estatal de Nutrición y Combate a la Obesidad;
 
@@ -821,9 +819,13 @@ II. Apercibimiento;
 
 III. Asistencia obligatoria a programas de orientación nutricional;
 
-IV. Multa de 1 a 10 salarios mínimos vigentes en el Estado de Yucatán, y
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
-IV. Clausura temporal o definitiva, mismas que podrán ser parcial o total, de establecimientos comerciales por la Autoridad Sanitaria Estatal.
+IV. Multa de una a diez unidades de medida y actualización, y
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+V. Clausura temporal o definitiva, mismas que podrán ser parcial o total, de establecimientos comerciales por la Autoridad Sanitaria Estatal.
 
 ###### Artículo 49.
 
@@ -885,7 +887,7 @@ El Consejo Estatal de Nutrición y Combate a la Obesidad deberá expedir su Regl
 
 ###### ARTÍCULO QUINTO.
 
-El Consejo Estatal de Nutrición y Combate a la Obesidad deberá expedir a más tardar en el mes de febrero del año 2012, la lista de dependencias y entidades que deberán presentar su de manera informe trimestral (sic).
+El Consejo Estatal de Nutrición y Combate a la Obesidad deberá expedir a más tardar en el mes de febrero del año 2012, la lista de dependencias y entidades que deberán presentar su de manera (sic) informe trimestral.
 
 ###### ARTÍCULO SEXTO.
 
@@ -926,3 +928,17 @@ GOBERNADORA DEL ESTADO DE YUCATÁN
 C. VÍCTOR MANUEL SÁNCHEZ ÁLVAREZ SECRETARIO
 
 GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
