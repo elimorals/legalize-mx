@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-transporte-del-estado-de-yucatan-14429"
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-15"
-last_updated: "2016-06-24"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 LEY DE TRANSPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JUNIO DE 2016.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL D.O. EL 24 DE JUNIO DE 2016 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL D.O. DE 22 DE JUNIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del estado de Yucatán, el sábado 15 de Mayo de 1999.
 
@@ -1037,13 +1035,17 @@ La Secretaría de Ecología, en coordinación con las Secretarías General de Go
 
 Las infracciones a lo dispuesto por esta Ley y su reglamento, serán sancionadas por la Secretaría General de Gobierno, a través de la Dirección de Transporte, con el auxilio de la Secretaría de Protección y Vialidad en el desempeño de su labor de vigilancia y verificación. Las sanciones pecuniarias se harán efectivas por la Secretaría de Hacienda y Planeación del Gobierno del Estado de acuerdo con el procedimiento que establezca la legislación respectiva.
 
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 91.
 
-Independientemente de la suspensión o revocación de las concesiones o permisos, en los casos en que tales medidas fueren procedentes, la Secretaría General de Gobierno, a través de la Dirección de Transporte, con el auxilio de la Secretaría de Protección y Vialidad estará facultada para imponer multas por infracciones a esta Ley, cuyo monto fluctuará entre los 25 y 1000 días de salario mínimo vigente en el Estado, de acuerdo a lo que establezca de manera particular el reglamento de esta Ley.
+Independientemente de la suspensión o revocación de las concesiones o permisos, en los casos en que tales medidas fueren procedentes, la Secretaria General de Gobierno, a través de la Dirección de Transporte, con el auxilio de la Secretaria de Seguridad Pública del Estado, estará facultada para imponer multas de veinticinco a mil unidades de medida y actualización por infracciones a esta ley, de acuerdo con lo que establezca de manera particular el reglamento de esta ley.
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 92.
 
-En el caso de que los vehículos concesionados o permisionados sean conducidos por personas que carezcan de la licencia de conducir correspondiente a ese tipo de vehículo, se retirarán de inmediato de la circulación y se sancionará a los propietarios de los mismos, como responsables solidarios con multa de 25 a 100 días de salario mínimo vigente en el Estado.
+En el caso de que los vehículos concesionados o permisionados sean conducidos por personas que carezcan de la licencia de conducir correspondiente a ese tipo de vehículo, se retirarán de inmediato de la circulación y se sancionará a sus propietarios, como responsables solidarios, con multa de veinticinco a cien unidades de medida y actualización.
 
 ###### ARTÍCULO 93.
 
@@ -1102,3 +1104,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Obligación normativa
 
 El gobernador deberá adecuar el Reglamento de la Ley de Transporte del Estado de Yucatán en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 28. DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
