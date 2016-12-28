@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2016-10-14"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -32,6 +32,8 @@ NICÉFORO ZAMBRANO, Gobernador Constitucional del Estado Libre y Soberano de Nue
 La XXXVII Legislatura del Estado Libre y Soberano de Nuevo León, en funciones de Constituyente, de acuerdo con el Decreto de 22 de Marzo próximo pasado, dictado por el Primer Jefe del Ejército Constitucionalista, Encargado del Poder Ejecutivo de la Nación, ha tenido a bien expedir la siguiente
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 1º.
 
@@ -73,9 +75,9 @@ La ley sólo queda abrogada o derogada por otra posterior que así lo declare ex
 
 ## TITULO I.
 
-De los Derechos del Hombre.
+De los Derechos Humanos y sus Garantías.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ## TITULO II.
 
@@ -13967,15 +13969,15 @@ Continúan en vigor todas las leyes y decretos existentes, en cuanto no se opong
 
 ###### Art. 1o.
 
-El pueblo nuevoleonés reconoce que los derechos humanos son fundamentales para la base y el objeto de las instituciones sociales. Toda persona en el Estado de Nuevo León, tiene derecho a gozar de los mismos y de las garantías que consagra esta Constitución.
+En el Estado de Nuevo León todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política (sic) los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte, y por esta Constitución, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Federal establece.
+
+Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los Tratados Internacionales de la materia, y por lo dispuesto en esta Constitución, favoreciendo en todo tiempo a las personas la protección más amplia.
 
 En el Estado todos nacen libres. Los esclavos que pisen el territorio del Estado, recobraran por ese solo hecho su libertad y tienen derecho a la protección de las Leyes.
 
-Todas las Leyes y las autoridades del Estado, deberán promover, proteger y garantizar que se respeten los derechos humanos, a través de los principios de universalidad, interdependencia, indivisibilidad y progresividad.
+Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, Interdependencia, Indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
-
-Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, embarazo, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos humanos y libertades.
+Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y el desarrollo de la familia. Cuando la terminología de género empleada en las disposiciones de observancia general sea en masculino, deberá entenderse que se refieren tanto el varón como a la mujer, salvo disposición expresa en contrario.
 
@@ -15676,3 +15678,9 @@ P.O. 14 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚM. 151. SE DEROGA LA FRACCIÓN XXVI DEL ARTÍCULO 63 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
 
 Unico.- EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 177. SE REFORMA POR MODIFICACIÓN EL TÍTULO I, QUE SE DENOMINA "DE LOS DERECHOS DEL HOMBRE" POR EL "DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS," ASÍ COMO EL ARTÍCULO 1º DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+Único.- El Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
