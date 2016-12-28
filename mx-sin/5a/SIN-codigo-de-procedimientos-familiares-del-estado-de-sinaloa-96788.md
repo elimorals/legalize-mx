@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-familiares-del-estado-de-sinaloa-96788
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-27"
-last_updated: "2016-12-14"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO DE PROCEDIMIENTOS FAMILIARES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Código publicado en la Edición Extraordinaria, Tercera Sección Parte Uno del Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 2013.
 
@@ -125,27 +125,35 @@ V. Los medios de prueba admisibles para demostrar la existencia de un acto o hec
 
 VI. Toda persona puede demandar o ser demandada ante los juzgados familiares del Estado, cuando así proceda conforme a las reglas de la competencia.
 
-### Capítulo II. De la Procuraduría de la Defensa del Menor, la Mujer y la Familia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+### Capítulo II. De la Procuraduría de Protección de Niñas, Niños y Adolescentes
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 11.
 
-Los jueces de primera instancia con competencia familiar, darán la intervención que este Código otorga a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, en aquellos conflictos que involucran a personas menores de edad o incapacitadas expósitas o abandonadas.
+Los jueces de primera instancia con competencia familiar, darán la intervención que este Código otorga a la Procuraduría de Protección de Niñas, Niños y Adolescentes, en aquellos conflictos que involucran a personas menores de edad o incapacitadas expósitas o abandonadas.
 
 ###### Artículo 12.
 
 Por vía de cooperación institucional, el juez podrá solicitar al Sistema para el Desarrollo Integral de la Familia que le preste apoyo o asesoría, o que realice las investigaciones que considere necesarias.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 13.
 
-La Procuraduría de la Defensa del Menor, la Mujer y la Familia, está legitimada para promover los asuntos que afecten a la familia, especialmente cuando se trate de personas expósitas o abandonadas, que requieran alimentos, solicitando las medidas judiciales tendientes a su protección inmediata.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes, está legitimada para promover los asuntos que afecten a la familia, especialmente cuando se trate de personas expósitas o abandonadas, que requieran alimentos, solicitando las medidas judiciales tendientes a su protección inmediata.
 
 ###### Artículo 14.
 
 Cuando se trate de impedimentos matrimoniales y violencia familiar, se concede acción popular para denunciar al oficial del registro civil o al Ministerio Público, en su caso, así como cualquier situación que afecte la constitución del matrimonio, la estabilidad emocional y la seguridad física de las personas menores de edad e incapacitadas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 15.
 
-La Procuraduría de la Defensa del Menor, la Mujer y la Familia, procurará implementar los mecanismos necesarios para impulsar una cultura de protección de los derechos de la infancia, basada en el contenido de la Convención Sobre los Derechos del Niño y tratados que sobre el tema apruebe el Senado de la República.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes, procurará implementar los mecanismos necesarios para impulsar una cultura de protección de los derechos de la infancia, basada en el contenido de la Convención sobre los Derechos del Niño y tratados que sobre el tema apruebe el Senado de la República.
 
 En la aplicación de este Código, se procurará el ejercicio igualitario a las niñas, niños y adolescentes, valorando las diferencias que afecten a quienes viven privados de sus derechos.
 
@@ -229,7 +237,9 @@ La acción se hace efectiva mediante una demanda formal en los términos del art
 
 Toda demanda debe presentarse ante el juez que resulte competente. Para interponerla o contradecirla, es necesario tener interés jurídico en el asunto de que se trate.
 
-La iniciación del proceso de parte del Ministerio Público o de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, estará sujeta a las disposiciones de las respectivas leyes orgánicas de dichas instituciones y demás ordenamientos jurídicos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+La iniciación del proceso de parte del Ministerio Público o de la Procuraduría de Protección de Niñas, Niños y Adolescentes, estará sujeta a las disposiciones de las respectivas leyes orgánicas de dichas instituciones y demás ordenamientos jurídicos.
 
 ###### Artículo 26.
 
@@ -345,9 +355,11 @@ VII. Las costas serán a cargo del actor, salvo que existiere reconvención, en 
 
 ### Capítulo II. De la Capacidad y la Personalidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 40.
 
-Quien conforme a este Código, esté en el pleno ejercicio de sus derechos familiares puede comparecer en juicio. Quienes no gocen del pleno ejercicio, comparecerán sus representantes legítimos, el Ministerio Público e incluso el Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de la Defensa del Menor, la Mujer y la Familia.
+Quien conforme a este Código, esté en el pleno ejercicio de sus derechos familiares puede comparecer en juicio. Quienes no gocen del pleno ejercicio, comparecerán sus representantes legítimos, el Ministerio Público e incluso el Sistema Estatal para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 Toda parte o interesado que comparezca al Juzgado para la práctica de alguna diligencia, acto o audiencia, debe presentar documento oficial con fotografía que demuestre su identidad.
 
@@ -481,7 +493,9 @@ I. Las personas físicas;
 
 II. Los concebidos no nacidos para todos los efectos que les sean favorables;
 
-III. La Procuraduría de la Defensa del Menor, la Mujer y la Familia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III. La Procuraduría de Protección de Niñas, Niños y Adolescentes;
 
 IV. El Ministerio Público, y
 
@@ -493,7 +507,9 @@ Pueden comparecer por sí en el proceso, las personas que pueden disponer de los
 
 Las físicas que no tienen, total o parcialmente, el libre ejercicio de sus derechos comparecerán representadas o asistidas, según disponga el Código Familiar, en el rubro de capacidad. Si durante el procedimiento, el incapaz alcanza la mayoría de edad o cesa su incapacidad, se le notificará personalmente el estado procesal que guarda el juicio y a fin de que haga valer lo que a su interés convenga. De no haber oposición el trámite se seguirá hasta agotar la primera instancia.
 
-Cuando un niño, niña, o incapaz no tenga persona que legalmente lo represente o asista para comparecer en juicio, o se halle ausente o impedido, el juzgado, de oficio o a petición de parte legítima, del Ministerio Público o de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, sin perjuicio de dictar las providencias que sean urgentes, le nombrará un tutor especial para que lo represente; en cuyo caso esta ultima autoridad, asumirá dicha representación y defensa provisionalmente en tanto se produce el nombramiento, y mientras no conste en autos su intervención, el proceso quedará en suspenso.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Cuando un niño, niña, o incapaz no tenga persona que legalmente lo represente o asista para comparecer en juicio, o se halle ausente o impedido, el juzgado, de oficio o a petición de parte legítima, del Ministerio Público o de la Procuraduría de Protección de Niñas, Niños y Adolescentes, sin perjuicio de dictar las providencias que sean urgentes, le nombrará un tutor especial para que lo represente; en cuyo caso esta última autoridad, asumirá dicha representación y defensa provisionalmente en tanto se produce el nombramiento, y mientras no conste en autos su intervención, el proceso quedará en suspenso.
 
 Por los concebidos y no nacidos, comparecerán las personas que legítimamente los representarían si ya hubieren nacido.
 
@@ -515,9 +531,11 @@ IV. En cualquier caso, el sucesor a título particular puede intervenir o ser ll
 
 V. Las transmisiones del derecho o derechos controvertidos que no afectan el procedimiento, excepto en los casos en que haga desaparecer, por confusión sustancial de intereses, la materia del litigio.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 66.
 
-El Ministerio Público y la Procuraduría de la Defensa del Menor, la Mujer y la Familia, tendrán en juicio la intervención que señalan las leyes. Debe darse oportunidad de expresarse libremente a la persona menor de edad, en asuntos que lo afecten y las que se valorarán en función de la madurez del niño o de la niña.
+El Ministerio Público y la Procuraduría de Protección de Niñas, Niños y Adolescentes, tendrán en juicio la intervención que señalan las leyes. Debe darse oportunidad de expresarse libremente a la persona menor de edad, en asuntos que lo afecten y las que se valorarán en función de la madurez del niño o de la niña.
 
 ### Capítulo II. De la Asistencia Técnica de las Partes
 
@@ -563,7 +581,9 @@ Las partes y sus representantes tienen los siguientes deberes:
 
 I. Comportarse en juicio con lealtad y probidad. Su incumplimiento, será sancionado con el pago de daños y perjuicios conforme al artículo 7 de este Código;
 
-II. Abstenerse de emplear expresiones indecorosas u ofensivas, su incumplimiento, se sancionará con multa de hasta cuarenta salarios mínimos y en caso de reincidencia, se duplicará hasta ser separado del lugar donde se cometió la infracción, y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Abstenerse de emplear expresiones indecorosas u ofensivas, su incumplimiento, se sancionará con multa de hasta cuarenta veces el valor diario de la Unidad de Medida y Actualización, y en caso de reincidencia, se duplicará hasta ser separado del lugar donde se cometió la infracción, y
 
 III. Comparecer ante el juez cuando sean llamados para actos conciliatorios cuando así proceda, o para interrogarlos sobre los hechos de la causa, y para hacer cumplir esto, el juez podrá usar los medios de apremio, catalogados en el artículo 137 de este Código.
 
@@ -883,9 +903,11 @@ Sin perjuicio de las providencias que conforme a este Código deben dictar, tien
 
 La resolución deberá expresar con toda claridad y amplitud, las razones fundadas que se tengan para la excusa.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 114.
 
-Cuando un juez o magistrado se excuse sin causa legítima, cualesquiera de las partes pueden acudir en queja ante el superior, quien encontrando injustificada la abstención, podrá imponerle una corrección disciplinaria consistente en una multa hasta de veinte veces el salario mínimo general, y se mandará copia a su expediente personal.
+Cuando un juez o magistrado se excuse sin causa legítima, cualesquiera de las partes pueden acudir en queja ante el superior, quien encontrando injustificada la abstención, podrá imponerle una corrección disciplinaria consistente en una multa hasta de veinte veces el valor diario de la Unidad de Medida y Actualización, y se mandará copia a su expediente personal.
 
 ###### Artículo 115.
 
@@ -961,7 +983,9 @@ V. En el incidente de recusación son admisibles todos los medios de prueba esta
 
 VI. Los magistrados y jueces que conozcan de una recusación son irrecusables para este sólo efecto;
 
-VII. Si se declara improcedente o no probada la causa de la recusación, se impondrá al recusante una multa de hasta cincuenta salarios mínimos generales si el recusado es un juez y hasta de cien salarios mínimos generales si es un magistrado;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+VII. Si se declara improcedente o no probada la causa de la recusación, se impondrá al recusante una multa de hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización si el recusado es un juez y hasta de cien veces si es un magistrado;
 
 VIII. Si en la sentencia se declara que procede la recusación, volverán los autos al juzgado de su origen, con testimonio de dicha sentencia, para que éste, a su vez lo remita al juez que corresponda. En el Supremo Tribunal de Justicia queda el magistrado recusado separado del conocimiento del asunto y se completará la sala en la forma que determine la Ley Orgánica del Poder Judicial del Estado, y
 
@@ -1013,7 +1037,9 @@ Se entenderá corrección disciplinaria:
 
 I. El apercibimiento o amonestación;
 
-II. La multa, que será hasta de treinta días del salario mínimo general vigente en el Estado, cuando la impongan los jueces menores; hasta de ciento veinte días del mismo salario mínimo en los juzgados de primera instancia y hasta de ciento ochenta días de salario mínimo, cuando sea impuesto por el Supremo Tribunal de Justicia; las que podrán duplicarse en caso de reincidencia, y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. La multa, que será hasta de treinta veces el valor diario de la Unidad de Medida y Actualización, cuando la impongan los jueces menores; hasta de ciento veinte veces en los juzgados de primera instancia y hasta de ciento ochenta veces, cuando sea impuesto por el Supremo Tribunal de Justicia; las que podrán duplicarse en caso de reincidencia, y
 
 III. La suspensión que no exceda de un mes.
 
@@ -1037,7 +1063,9 @@ El Supremo Tribunal de Justicia o el juzgado por conducto del empleado que se au
 
 Con el escrito inicial de cada asunto y documentos que se acompañan, así como las actuaciones posteriores que se lleven a cabo, se formará un expediente.
 
-Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y la hora de presentación, así como la razón material que se anexan, sellada y firmada por el empleado que la reciba en el juzgado. El secretario deberá dar cuenta del escrito, a más tardar dentro de setenta y dos horas siguientes, bajo la pena de multa hasta de veinte veces al salario mínimo general, sin perjuicio de otras penas que merezca conforme a las leyes.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y la hora de presentación, así como la razón material que se anexan, sellada y firmada por el empleado que la reciba en el juzgado. El secretario deberá dar cuenta del escrito; a más tardar dentro de setenta y dos horas siguientes, bajo la pena de multa hasta de veinte veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de otras penas que merezca conforme a las leyes.
 
 ###### Artículo 134.
 
@@ -1049,7 +1077,9 @@ Los expedientes judiciales que contengan los documentos y registros de las actua
 
 La frase “dar vista”; significa que los autos quedan en la secretaría del juzgado o en su caso si se requiere durante la audiencia, el juez debe darle a conocer a las partes, interesados o a sus legítimos representantes el asunto de que se trate, a fin de que se impongan de ellos y promuevan lo que a sus intereses convenga.
 
-Las disposiciones de este artículo comprenden al Ministerio Público y a la Procuraduría de la Defensa del Menor, la Mujer y la Familia.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Las disposiciones de este artículo comprenden al Ministerio Público y a la Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 La infracción a este artículo podrá ser sancionada con multa al responsable; pero la falta de cumplimiento de las disposiciones de este artículo, no traerá como consecuencia la nulidad de la actuación respectiva.
 
@@ -1075,7 +1105,9 @@ Contra el auto que desecha un incidente cabe la apelación en efecto devolutivo.
 
 Los juzgadores para hacer cumplir sus determinaciones, pueden emplear y sin importar el orden que se señala, los siguientes medios de apremio:
 
-I. Multa, hasta de cien días de salario mínimo general vigente en el Estado, cuando se imponga por jueces de primera instancia y hasta de ciento veinte días del mismo salario mínimo, cuando sea impuesto por el Supremo Tribunal de Justicia, las que podrán ser duplicadas en caso de reincidencia;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I. Multa, hasta de cien veces el valor diario de la Unidad de Medida y Actualización, cuando se imponga por jueces de primera instancia y hasta de ciento veinte veces, cuando sea impuesto por el Supremo Tribunal de Justicia, las que podrán ser duplicadas en caso de reincidencia;
 
 II. Auxilio de la fuerza pública;
 
@@ -1215,7 +1247,9 @@ I. En los despachos y exhortos no se requerirá la legalización de las firmas d
 
 II. Los exhortos podrán remitirse directamente al juez de la competencia familiar o tribunal que deba diligenciarlos, sin intervención de otras autoridades, a menos que las leyes del tribunal requerido exijan otras formalidades, y
 
-III. Los exhortos y despachos pueden entregarse a la parte interesada que haya solicitado la práctica de la diligencia para que los haga llegar a su destino, quien tendrá la obligación de devolverlos dentro del plazo de tres días de que se lleve a cabo la diligenciación de lo ordenado en el mismo, si por su conducto se hace la tramitación. La parte que no cumpla con esta prevención, será sancionada con una multa hasta de cincuenta veces el salario mínimo general, independientemente de que, si la diligencia practicada mediante el exhorto es un emplazamiento, el plazo del mismo no se computará hasta que el exhorto sea devuelto al juez de la competencia familiar requirente.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III. Los exhortos y despachos pueden entregarse a la parte interesada que haya solicitado la práctica de la diligencia para que los haga llegar a su destino, quien tendrá la obligación de devolverlos dentro del plazo de tres días de que se lleve a cabo la diligenciación de lo ordenado en el mismo, si por su conducto se hace la tramitación. La parte que no cumpla con esta prevención, será sancionada con una multa hasta de cincuenta veces el valor diario de la Unidad de Medida y Actualización, independientemente de que, si la diligencia practicada mediante el exhorto es un emplazamiento, el plazo del mismo no se computará hasta que el exhorto sea devuelto al juez de la competencia familiar requirente.
 
 En caso urgente, o en los que por la premura haya que entablarse comunicación entre dos órganos jurisdiccionales del Estado, para hacer alguna aclaración o explicación en cuanto a los exhortos y despachos a que se refiere este artículo, podrán hacerlo por vía telefónica, electrónica, informática, telemática o de otra clase semejante sin perjuicio de enviar acto continuo al requerido comunicación por fax, u otro medio de los mencionados que permita dejar un registro impreso de tales aclaraciones, que en ningún caso podrán alterar el sentido de lo originalmente solicitado, debiendo el juez requirente asentar de inmediato razón en autos del resultado de la comunicación y del texto que en su caso, por el medio alterno, se haya dirigido al juez requerido. Éste, agregará al documento original la impresión de referencia, para que forme parte integrante del mismo.
 
@@ -1491,7 +1525,9 @@ Cuando así lo establezca este Código o por disposición judicial se requiera d
 
 I. En fianza de compañía autorizada. Si el monto de la garantía excede de cincuenta millones de pesos, la fianza podrá darse por varias compañías, siempre que el total de las fianzas parciales sea igual a la suma fijada. El juzgado considerará acreditada la solvencia, si la fianza se otorga hasta el monto del límite de retención de la compañía autorizada, y si es por cantidad mayor, cuando se extiende con autorización de la Secretaría de Hacienda. Llenados estos requisitos el juzgado sólo calificará el monto y el alcance de la fianza de acuerdo con la redacción de la póliza respectiva;
 
-II. En fianzas otorgadas por particulares. Cuando las fianzas excedan del importe de mil salarios mínimos generales, el fiador acreditará tener bienes raíces inscritos en el Registro Público de la Propiedad, ubicados en el lugar del juicio y dé un valor que garantice suficientemente las obligaciones que contraiga. En este caso deberán cumplirse las disposiciones de los artículos 2675 al 2708 del Código Civil para el Estado;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. En fianzas otorgadas por particulares. Cuando las fianzas excedan del importe de mil veces el valor diario de la Unidad de Medida y Actualización, el fiador acreditará tener bienes raíces inscritos en el Registro Público de la Propiedad, ubicados en el lugar del juicio y dé un valor que garantice suficientemente las obligaciones que contraiga. En este caso deberán cumplirse las disposiciones de los artículos 2675 al 2708 del Código Civil para el Estado;
 
 III. En prenda o hipoteca, constituidas de acuerdo con la normatividad aplicable;
 
@@ -2429,7 +2465,9 @@ Es deber de los peritos suministrar su opinión técnica, el razonamiento de exc
 
 En la audiencia, las partes podrán formular a los peritos las preguntas que estimen pertinentes. En este caso se observarán las siguientes prevenciones:
 
-I. El perito que deje de concurrir sin justa causa a la audiencia, incurrirá en una multa hasta de cien días de salario mínimo general y será responsable de los daños causados por su culpa, sin perjuicio de que pueda ser removido por el juez, y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I. El perito que deje de concurrir sin justa causa a la audiencia, incurrirá en una multa hasta de cien veces el valor diario de la Unidad de Medida y Actualización, y será responsable de los daños causados por su culpa, sin perjuicio de que pueda ser removido por el juez, y
 
 II. Los peritos emitirán su dictamen en la misma audiencia, siempre que lo permita la naturaleza del asunto; de lo contrario, el juez les señalará un plazo prudente para que lo rindan. Cuando los peritos nombrados por las partes discuerdan, dictaminará el tercero, solo o asociado a los otros.
 
@@ -2491,9 +2529,11 @@ La parte a quien se encomiende la práctica de tales notificaciones estará comp
 
 El litigante a quien se le haya encomendado la práctica de la diligencia, no podrá prevalerse de su falta de realización, ni alegar nulidad de actuaciones por defectos en la citación o notificación que ella misma hubiese dejado de efectuar, o llevado a cabo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 293.
 
-En caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente hasta de cien días de salario mínimo general vigente, sin perjuicio de que se denuncie la falsedad en que ha incurrido el oferente de la prueba testimonial y la prueba será declarada desierta.
+En caso de que el señalamiento de domicilio de algún testigo resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, se impondrá al promovente una multa equivalente hasta de cien veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de que se denuncie la falsedad en que ha incurrido el oferente de la prueba testimonial y la prueba será declarada desierta.
 
 Las partes podrán sustituir sus testigos por otros de los mencionados en los hechos de los escritos de demanda y contestación, en cualquier momento hasta antes de la práctica de la prueba, debiendo en tal caso hacerlos comparecer personalmente al desahogo de la testimonial, por lo que no podrán pedir, en esta hipótesis, que sean citados por el juzgado.
 
@@ -2625,7 +2665,9 @@ Antes de la audiencia, oportunamente se prepararán las pruebas, por lo que se p
 
 I. A citar a las partes, a absolver posiciones y con el apercibimiento de declarárseles confesas, si no se presentan en la fecha señalada. El juez tiene la facultad de hacer comparecer a la parte para ese efecto, si lo juzga conveniente;
 
-II. Citar testigos, peritos y asesores de la Procuraduría de la Defensa del Menor, la Mujer y la Familia, bajo el apercibimiento de multa, arresto o de ser traídos por la policía salvo el caso de que el oferente se haya comprometido a presentarlos;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+II. Citar testigos, peritos y asesores de la Procuraduría de Protección de Niñas, Niños y Adolescentes, bajo el apercibimiento de multa, arresto o de ser traídos por la policía salvo el caso de que el oferente se haya comprometido a presentarlos;
 
 III. Dar a los peritos todas las facilidades, para que examinen objetos, lugares, documentos o personas para que cumplan su encargo;
 
@@ -2633,9 +2675,11 @@ IV. Exhortar al juez competente, para que desahogue cualquier medio de prueba of
 
 V. A ordenar traer copias, documentos, libros y demás instrumentos ofrecidos por las partes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 311.
 
-Las pruebas deberán estar preparadas al momento de iniciar la audiencia. Constituido el juzgado en audiencia pública, el día y la hora señalados al efecto, serán llamados por el juez o el secretario, los litigantes, la Procuraduría de la Defensa del Menor, la Mujer y la Familia, los peritos, los testigos, el Ministerio Público y las demás personas que por disposición del presente Código deban intervenir en el juicio; y se determinará, quiénes deben permanecer y quiénes tendrán que estar separados para en su momento, participar en la contienda.
+Las pruebas deberán estar preparadas al momento de iniciar la audiencia. Constituido el juzgado en audiencia pública, el día y la hora señalados al efecto, serán llamados por el juez o el secretario, los litigantes, la Procuraduría de Protección de Niñas, Niños y Adolescentes, los peritos, los testigos, el Ministerio Público y las demás personas que por disposición del presente Código deban intervenir en el juicio; y se determinará, quiénes deben permanecer y quiénes tendrán que estar separados para en su momento, participar en la contienda.
 
 La audiencia se celebrará concurran o no las partes y estén o no presentes los testigos, peritos, o abogados, con las pruebas que se encuentren preparadas, dejándose a salvo el derecho de que se designe nuevo día y hora para recibir las pendientes, señalándose al efecto fecha para su continuación, la que tendrá verificativo dentro de los quince días siguientes.
 
@@ -2655,7 +2699,9 @@ Cuando se haya hecho la impugnación de falsedad de un documento, de acuerdo con
 
 Los peritos dictaminarán por escrito u oralmente en presencia de las partes y del tercero en discordia si existe. Tanto las partes, como el tercero y el juez, pueden formular observaciones y hacer preguntas pertinentes durante la audiencia, en la cual se rendirán las pruebas, y el tercero dirá su parecer.
 
-Los peritos citados oportunamente serán sancionados con multas hasta el equivalente de ciento veinte días de salario mínimo general vigente, en caso de que no concurran, salvo causa grave que calificará el juez.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Los peritos citados oportunamente serán sancionados con multas hasta el equivalente de ciento veinte veces el valor diario de la Unidad de Medida y Actualización, en caso de que no concurran, salvo causa grave que calificará el juez.
 
 ###### Artículo 315.
 
@@ -3085,17 +3131,21 @@ El recurso de apelación y queja, será resuelto por el superior del juzgado que
 
 Cuando un recurso sea declarado inadmisible o improcedente no puede interponerse otro en contra de la misma resolución, aunque no haya vencido el plazo establecido por este Código.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 373.
 
-Si se hacen valer varios recursos simultáneamente, sólo se admitirá el recurso que proceda, e impondrá multa hasta de cincuenta veces el salario mínimo general vigente, al que lo haga, siempre y cuando el juzgado advierta mala fe o temeridad del recurrente.
+Si se hacen valer varios recursos simultáneamente, sólo se admitirá el recurso que proceda, e impondrá multa hasta de cincuenta veces el valor diario de la Unidad de Medida y Actualización, al que lo haga, siempre y cuando el juzgado advierta mala fe o temeridad del delincuente.
 
 ###### Artículo 374.
 
 Hasta antes de dictarse la resolución o sentencia, el que interpuso el recurso o su representante con poder bastante, puede desistirse o renunciar al recurso. El que se desista será condenado en las costas y en los daños causados por la suspensión del juicio, si la hubiere, salvo convenio en contrario.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 375.
 
-Las partes, el Ministerio Público, la Procuraduría de la Defensa del Menor, la Mujer y la Familia y las demás personas a quienes este Código conceda esta facultad, podrán hacer valer los recursos.
+Las partes, el Ministerio Público, la Procuraduría de Protección de Niñas, Niños y Adolescentes y las demás personas a quienes este Código conceda esta facultad, podrán hacer valer los recursos.
 
 ### Capítulo II. De la Revocación
 
@@ -3221,7 +3271,9 @@ Si la caución es otorgada por el actor, su monto comprenderá la devolución de
 
 IV. Si la apelación admitida en el efecto devolutivo es de auto o sentencia interlocutoria, sólo se remitirá al superior testimonio de lo conducente, por lo que al interponer el recurso el apelante deberá señalar con precisión y no genéricamente, las constancias que deban integrarlo, el cual podrá ser adicionado con las constancias que el juez estime necesario. Si la contraparte estima que el testimonio de apelación se integró en forma deficiente, podrá complementarlo con las constancias que estime convenientes, las cuales podrán exhibir hasta antes que venza el plazo que se le concede para contestar agravios.
 
-Si el recurrente omite hacer el señalamiento en la forma prescrita, se tendrá por no interpuesto el recurso y por firme la resolución apelada, a no ser que el apelante manifieste que prefiere esperar el envío de los autos originales cuando estén en estado. El juez deberá vigilar que el testimonio de la apelación sea enviado al superior dentro del plazo señalado. En caso de incumplimiento de esta disposición, dará al juez una multa hasta cincuenta veces el salario mínimo y suspensión en el desempeño de su cargo hasta por quince días, en caso de reincidencia, y
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Si el recurrente omite hacer el señalamiento en la forma prescrita, se tendrá por no interpuesto el recurso y por firme la resolución apelada, a no ser que el apelante manifieste que prefiere esperar el envío de los autos originales cuando estén en estado. El juez deberá vigilar que el testimonio de la apelación sea enviado al superior dentro del plazo señalado. En caso de incumplimiento de esta disposición, dará al juez una multa hasta cincuenta veces el valor diario de la Unidad de Medida y Actualización y suspensión en el desempeño de su cargo hasta por quince días, en caso de reincidencia, y
 
 V. Si se trata de sentencia definitiva, se dejará en el juzgado testimonio de lo necesario para ejecutarla, remitiéndose los autos originales al superior para la sustanciación del recurso.
 
@@ -3315,7 +3367,9 @@ III. Recibido el informe del juez, dentro de los tres días siguientes el tribun
 
 Si el juez no rinde el informe a que se refiere este Capítulo, porque quien interpuso el recurso, no entregó las copias a que se refiere el artículo precedente, se declarará por este solo hecho la queja infundada. Si la falta es imputable al juez, el tribunal compelerá a su inferior por los medios de apremio, a la rendición del debido informe.
 
-Si la queja no está apoyada en hechos ciertos, o exista otro recurso en contra de la resolución reclamada, será desechada por el tribunal imponiendo a la quejosa, su abogado o al procurador judicial, solidariamente una multa hasta de cincuenta veces el salario mínimo.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Si la queja no está apoyada en hechos ciertos o exista otro recurso en contra de la resolución reclamada, será desechada por el tribunal imponiendo a la quejosa, su abogado o al procurador judicial, solidariamente una multa hasta de cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 # LIBRO TERCERO. DE LOS PROCEDIMIENTOS EN PARTICULAR
 
@@ -3625,9 +3679,11 @@ El impedimento deberá acreditarse en incidente que se tramitará por cuerda sep
 
 Toda persona que sufra, maltrato físico, psicoemocional, económico o sexual, por parte de alguno de los miembros del grupo familiar, podrá acudir al juez con competencia familiar por escrito o por comparecencia personal, exponiendo de manera breve y concisa los hechos de que se trate y solicitar medida provisional urgente que evite su reiteración.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 450.
 
-El Ministerio Público, la Procuraduría de la Defensa del Menor, la Mujer y la Familia y así como los Directores o encargados de servicios asistenciales sociales, educativos o de salud, públicos o privados, o cualquier servidor público que por razón de su encargo tenga conocimiento de alguno de estos hechos que afecten a personas menores de edad o incapaces, adultos mayores o discapacitados, deberán formular la petición a que se refiere el artículo anterior.
+El Ministerio Público, la Procuraduría de Protección de Niñas, Niños y Adolescentes y así como los Directores o encargados de servicios asistenciales sociales, educativos o de salud, públicos o privados, o cualquier servidor público que por razón de su encargo tenga conocimiento de alguno de estos hechos que afecten a personas menores de edad o incapaces, adultos mayores o discapacitados, deberán formular la petición a que se refiere el artículo anterior.
 
 ###### Artículo 451.
 
@@ -3745,7 +3801,9 @@ Podrá tramitarse ante la autoridad judicial, por la vía diplomática o consula
 
 La restitución tiene como efecto obtener de inicio, el aseguramiento y posterior recuperación de la niña o niño, sin resolver sobre guarda y custodia definitiva, por lo que deberá dejarse a salvo los derechos de los interesados para promover en su caso, las acciones que correspondan.
 
-Una vez ubicada la persona menor de edad de que se trate, ordenará el juez que se salvaguarde a ésta, en la Procuraduría de la Defensa del Menor, la Mujer y la Familia, mientras dure el procedimiento.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Una vez ubicada la persona menor de edad de que se trate, ordenará el juez que se salvaguarde a ésta, en la Procuraduría de Protección de Niñas, Niños y Adolescentes, mientras dure el procedimiento.
 
 Deberá asegurarse el goce del derecho de visita y convivencia hacia los niños y niñas que se encuentran en el territorio nacional, procediendo de acuerdo con lo ordenado en los Tratados Internacionales suscritos y ratificados por el Estado Mexicano y en lo conducente, por las disposiciones del Código Familiar y de este ordenamiento.
 
@@ -3759,9 +3817,11 @@ Pasado el plazo señalado para replicar, se fijará una audiencia dentro del pla
 
 De seguir manifestando oposición a la restitución el requerido, el juez continuará con la audiencia y en la que admitidas y desahogadas las pruebas, habiéndose escuchado la opinión del niño de la forma como lo previene el artículo 6 de este Código, se concederá a las partes el derecho de alegar y una vez hecho lo anterior, se citará el asunto para sentencia, la que se dictará dentro del plazo de cinco días siguientes a la conclusión de la audiencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 466.
 
-Si se declara procedente la restitución, el juez deberá solicitar a las autoridades centrales, Procuraduría de la Defensa del Menor, la Mujer y la Familia y Secretaría de Relaciones Exteriores y demás que considere necesario, a fin de lograr la pronta reincorporación de la niña o niño al lugar de residencia habitual.
+Si se declara procedente la restitución, el juez deberá solicitar a las autoridades centrales, Procuraduría de Protección de Niñas, Niños y Adolescentes y Secretaría de Relaciones Exteriores y demás que considere necesario, a fin de lograr la pronta reincorporación de la niña o del niño al lugar de su residencia habitual.
 
 La sentencia que concede o niegue la restitución será apelable.
 
@@ -4147,9 +4207,11 @@ Si por cualquier motivo no hubiese albacea después de un mes de iniciado el jui
 
 El interventor no podrá deducir en juicio las acciones que por razón de mejoras, manutención o reparación tenga contra la testamentaría o el intestado, sino cuando haya hecho estos gastos con autorización previa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 532.
 
-El interventor tendrá el dos por ciento del importe de los bienes, si no excede de seiscientas veces el salario mínimo; si excede de dicha suma pero no de tres mil veces el mismo salario, tendrá además el uno por ciento sobre el exceso; y si excediere de este último monto, tendrá además el medio por ciento sobre la cantidad excedente.
+El interventor tendrá el dos por ciento del importe de los bienes, si no excede de seiscientas veces el valor diario de la Unidad de Medida y Actualización; si excede de dicha suma pero no de tres mil veces, tendrá además el uno por ciento sobre el exceso; y si excediere de este último monto, tendrá además el medio por ciento sobre la cantidad excedente.
 
 Si el interventor fuere abogado y ejerciere funciones de su profesión en los casos del artículo 530 de este Código, tendrá además los honorarios que señale la Ley de Aranceles para los Abogados.
 
@@ -4405,9 +4467,11 @@ II. Los legatarios de cantidad, de alimentos, de educación y de pensiones, mien
 
 La adjudicación de bienes hereditarios se otorgará con las formalidades que por su cuantía este Código exige para su venta. El notario ante el que se otorgue la escritura será designado por el albacea.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 578.
 
-La sentencia que apruebe o repruebe la partición es apelable en ambos efectos, cuando el caudal exceda de doscientos días de salario mínimo general vigente en el Estado.
+La sentencia que apruebe o repruebe la partición es apelable en ambos efectos, cuando el caudal exceda de doscientos (sic) veces el valor diario de la Unidad de Medida y Actualización.
 
 ### Capítulo VIII. De la Transmisión Hereditaria del Patrimonio Familiar
 
@@ -4551,7 +4615,9 @@ De la declaración judicial se remitirá copia autorizada al Secretario de la De
 
 Se aplicarán las disposiciones de este Título para todos los actos en que por disposición del presente Código o por solicitud de los interesados se requiere la intervención del juez, sin que esté promovida ni se promueva cuestión litigiosa alguna entre partes determinadas.
 
-Esta intervención judicial tiene por finalidad acreditar hechos dados o que se van a realizar, o que vayan a generar efectos jurídicos y de los cuales no se cause perjuicio a terceros conocidos o al interés público. Siempre se oirá al Ministerio Público y a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+Esta intervención judicial tiene por finalidad acreditar hechos dados o que se van a realizar, o que vayan a generar efectos jurídicos y de los cuales no se cause perjuicio a terceros conocidos o al interés público. Siempre se oirá al Ministerio Público y a la Procuraduría de Protección de Niñas, Niños y Adolescentes, cuando:
 
 I. La solicitud afecte intereses públicos;
 
@@ -4647,7 +4713,9 @@ I. Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limit
 
 II. El estado al que se refiere el artículo 603 de este Código, puede probarse por testigos o documentos; pero en todo caso se requiere certificación de dos médicos, por lo menos, que nombrará el juez, sin perjuicio de la prueba pericial que las partes promuevan. El tutor puede nombrar un médico para que tome parte en el reconocimiento o reconocimientos que se practiquen y se oiga su dictamen;
 
-III. El que promueva dolosamente la interdicción incurrirá en las penas que este Código impone por falsedad ante autoridad y sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa de uno a veinte días de salario mínimo vigente en el Estado, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino, y
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+III. El que promueva dolosamente la interdicción incurrirá en las penas que este Código impone por falsedad ante autoridad y sin perjuicio de la responsabilidad civil en que incurra, deberá pagar una multa de una a veinte veces el valor diario de la Unidad de Medida y Actualización, que se distribuirá por mitad entre el supuesto incapacitado y el tutor interino, y
 
 IV. Luego que cause ejecutoria la sentencia de interdicción, el juez llamará al ejercicio de la tutela a las personas a quienes corresponda conforme al presente Código, o hará el nombramiento de tutor en los casos que para ello esté legalmente facultado. Cuando el cargo de tutor definitivo deba recaer en el tutor interino, bastará confirmar el nombramiento anterior; lo mismo se observará para el nombramiento de curador definitivo.
 
@@ -4791,9 +4859,11 @@ V. Si los jueces lo creyeren conveniente, decretarán el depósito cuando se pre
 
 VI. Pedirán al efecto, las noticias que estimen necesarias del estado en que se halle la gestión de la tutela y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que puedan haberse cometido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 636.
 
-Los tutores al rendir sus cuentas deberán hacer una exposición sucinta que comprenda la administración de los bienes en el período a que se refieran; y listarán por riguroso debe y haber los ingresos y egresos precisando el saldo y presentarán los documentos justificativos, a excepción de los de aquellas partidas que no excedan de cinco salarios mínimos.
+Los tutores al rendir sus cuentas deberán hacer una exposición sucinta que comprenda la administración de los bienes en el período a que se refieran; y listarán por riguroso debe y haber los ingresos y egresos precisando el saldo y presentarán los documentos justificativos, a excepción de los de aquellas partidas que no excedan de cinco veces el valor diario de la Unidad de Medida y Actualización.
 
 Se tendrán como justificativos:
 
@@ -4855,7 +4925,9 @@ II. Derechos reales sobre muebles;
 
 III. Alhajas y muebles preciosos, y
 
-IV. Acciones de compañías industriales y mercantiles, cuyo valor exceda de ochenta días de salario mínimo vigente en el Estado.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2016)</small>
+
+IV. Acciones de compañías industriales y mercantiles, cuyo valor exceda de ochenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 648.
 
@@ -5178,3 +5250,31 @@ P.O. 14 DE DICIEMBRE DE 2016.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 Artículo Segundo. Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 58 QUE REFORMA DISPOSICIONES A DIVERSOS ORDENAMIENTOS DEL MARCO JURÍDICO DEL ESTADO DE SINALOA, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO. El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será el equivalente al que tenga el salario mínimo general vigente diario para todo el país, conforme a lo previsto en el artículo segundo transitorio del Decreto que reforma la Constitución Política de los Estados Unidos Mexicanos en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis, hasta en tanto se actualice dicho valor de acuerdo al procedimiento establecido en el artículo quinto transitorio del citado decreto.
+
+TERCERO. A la fecha de entrada del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia distintas a su naturaleza, para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales, así como en cualquier disposición jurídica que emane de estas, se entenderán referidas a la Unidad de Medida y Actualización.
+
+CUARTO. Los créditos, contratos, convenios, garantías, coberturas y otros esquemas financieros, de cualquier naturaleza vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, se regirán conforme a lo establecido en los artículos séptimo y octavo transitorios del Decreto que declara reformadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicada en el Diario Oficial de la Federación el veintisiete de enero del año dos mil dieciséis.
+
+QUINTO. El Ejecutivo del Estado y los municipios contarán con un plazo máximo de 90 días, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones que correspondan en los reglamentos y ordenamientos de sus respectivas competencias, según sea el caso, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto, excepto las relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+P.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 59 DEL H. CONGRESO DEL ESTADO.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, CÓDIGO DE PROCEDIMIENTOS FAMILIARES Y LEY ORGÁNICA DEL PODER JUDICIAL, TODOS DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
