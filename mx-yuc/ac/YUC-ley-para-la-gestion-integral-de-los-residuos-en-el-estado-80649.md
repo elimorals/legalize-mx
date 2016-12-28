@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-gestion-integral-de-los-residuos-en-el-estado-80649
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-08"
-last_updated: "2014-04-25"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA GESTIÓN INTEGRAL DE LOS RESIDUOS EN EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el suplemento del Diario Oficial del Estado de Yucatán, el viernes 8 de abril de 2011.
 
@@ -1011,7 +1011,9 @@ Cuando se ordene alguna de las medidas de seguridad, se indicará al interesado,
 
 La Secretaría o los Ayuntamientos, en asuntos de su competencia, aplicarán las siguientes sanciones, con motivo de las violaciones a los preceptos de esta Ley, su Reglamento y las disposiciones que de ella emanen:
 
-I.- Multa, por el equivalente de 10 a 50,000 días de salario mínimo general vigente en el Estado de Yucatán, en el momento de imponer la sanción;
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+
+I.- Multa de diez a cincuenta mil unidades de medida y actualización, en el momento de imponer la sanción;
 
 II.- Clausura temporal o definitiva, parcial o total de la obra, actividad o fuente de contaminación, cuando se incurra en cualquiera de los siguientes casos:
 
@@ -1136,3 +1138,15 @@ D.O. 25 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
