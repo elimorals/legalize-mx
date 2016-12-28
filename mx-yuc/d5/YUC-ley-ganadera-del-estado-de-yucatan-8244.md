@@ -4,7 +4,7 @@ identifier: "YUC-ley-ganadera-del-estado-de-yucatan-8244"
 country: "mx"
 rank: "ley"
 publication_date: "1972-10-16"
-last_updated: "2016-03-29"
+last_updated: "2016-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GANADERA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el lunes 16 de octubre de 1972.
 
@@ -1009,11 +1009,11 @@ Cuando el transportista no se hubiere detenido en una caseta de inspección pecu
 
 Cuando el inspector pecuario que efectúe la confiscación lo considere adecuado, podrá nombrar depositario al destinatario final de la carga, quien fungirá como tal en los términos de lo dispuesto por el Código Civil del Estado de Yucatán.
 
-> <small>(ADICIONADO, D.O. 23 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 108-D.
 
-Cuando se introduzcan al Estado animales, productos o subproductos de origen animal por vías de comunicación aérea, marítima o terrestre y no se informe a las autoridades correspondientes, se le impondrá al infractor una multa de 10 a 50 días de salario mínimo, vigente en el Estado así como la confiscación de la carga, cuando resulte procedente.
+Cuando se introduzcan al estado animales productos o subproductos de origen animal por vías de comunicación aérea, marítima o terrestre y no se informe a las autoridades correspondientes, se le impondrá al infractor una multa de diez a cincuenta unidades de medida y actualización así como la confiscación de la carga, cuando resulte procedente.
 
 > <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
@@ -1387,11 +1387,11 @@ ARTICULO 164 M.- El Poder Ejecutivo a través de la Secretaría de Desarrollo Ru
 
 Corresponde a la Secretaría de Desarrollo Rural por sí misma o a través de los inspectores pecuarios debidamente acreditados, salvo artículo expreso en contrario, sancionar y calificar las infracciones a lo dispuesto en la presente Ley, sin perjuicio de que consigne a los responsables ante las autoridades competentes, si el acto u omisión implica la comisión de algún delito.
 
-> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 166.
 
-Las infracciones que no tengan pena específicamente determinada serán sancionadas por las autoridades señaladas en las fracciones I, II y III del Artículo 5 de esta Ley, quienes lo comunicarán a la Tesorería General del Estado para los efectos de recaudación correspondientes. Cuando no exista sanción específicamente determinada por violación a la presente Ley, la autoridad competente, de acuerdo con la gravedad del caso, impondrá multas de 10 a 100 días de salario mínimo vigentes en el Estado.
+Las infracciones que no tengan pena específicamente determinada serán sancionadas por las autoridades señaladas en las fracciones I, II y III del artículo 5 de esta ley, quienes lo comunicarán a la Agencia de Administración Fiscal de Yucatán para los efectos de recaudación correspondientes. Cuando no exista sanción específicamente determinada por violación a esta ley, la autoridad competente, de acuerdo con la gravedad del caso, impondrá multas de diez a cien unidades de medida y actualización.
 
 > <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
@@ -1431,33 +1431,33 @@ A los propietarios de animales que deambulen por las vías de comunicación o po
 
 La autoridad municipal sancionará con la pérdida del producto, en beneficio del fisco municipal y multa igual al quíntuplo de su valor, a los comerciantes en pieles, dueños de saladeros, curtidurías y demás establecimientos dedicados a su industrialización cuando admitan pieles sin recabar la documentación legal respectiva, sin perjuicio de las penas a que se hicieren acreedores en caso de la comisión de algún delito sancionado en el Código de Defensa Social.
 
-> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 173.
 
-Se impondrá multa de 100 a 1000 días de salario mínimo vigente en el Estado a la persona que teniendo conocimiento de la existencia de cualquier enfermedad que ataque a las especies animales no cumplan con lo previsto en el Artículo 81 de esta Ley.
+Se impondrá multa de cien a mil unidades de medida y actualización a la persona que teniendo conocimiento de la existencia de cualquier enfermedad que ataque a las especies animales no cumplan con lo previsto en el artículo 81 de esta ley.
 
-> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 174.
 
-La violación a lo estipulado en los artículos 82 y 88 será sancionada con multa de 100 a 1000 días de salario mínimo vigente en el Estado.
+La violación a lo estipulado en los artículos 82 y 88 será sancionada con multa de cien a mil unidades de medida y actualización.
 
 ###### ARTICULO 175.
 
 La autoridad que expida guías de tránsito para una zona infestada, estando en vigencia la declaratoria de infección, será sancionada en los términos del Código de Defensa Social. En igual responsabilidad incurrirá cuando no cumpla con las obligaciones señaladas en el Artículo 102 de esta Ley.
 
-> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 176.
 
-Se impondrá una multa de 10 a 100 días de salario mínimo vigente en el Estado a los transportistas de ganado y pieles que no recaben del interesado las guías y documentación requeridas por esta Ley, para el transporte, sin el perjuicio de la pena en que pudiese incurrir en los términos del Código de Defensa Social.
+Se impondrá una multa de diez a cien unidades de medida y actualización a los transportistas de ganado y pieles que no recaben del interesado las guías y documentación requeridas por esta ley, para el transporte, sin el perjuicio de la pena en que pudiese incurrir en los términos del Código Penal del Estado.
 
-> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 177.
 
-Se impondrá multa de 10 a 100 días de salario mínimo a los transportistas que movilicen ganado y sus productos en contravención a lo dispuesto por los artículos 98, 100, 106, 107, 108 y 109 de esta Ley.
+Se impondrá multa de diez a cien unidades de medida y actualización a los transportistas que movilicen ganado y sus productos en contravención a lo dispuesto por los artículos 98, 100, 106, 107, 108 y 109 de esta ley.
 
 > <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
@@ -1465,39 +1465,39 @@ Se impondrá multa de 10 a 100 días de salario mínimo a los transportistas que
 
 Serán consignados por fraude al Fisco quienes introduzcan ganado al Estado o lo envíen fuera de él, sin la previa autorización de la Secretaría de Desarrollo Rural y sin llenar los requisitos indicados.
 
-> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 179.
 
-Quienes sacrifiquen ganado para el consumo doméstico en contravención al Artículo 127 de esta Ley serán sancionados con multa de 20 a 150 días de salario mínimo vigente en el Estado.
+Quienes sacrifiquen ganado para el consumo doméstico en contravención al artículo 127 de esta ley serán sancionados con multa de veinte a ciento cincuenta unidades de medida y actualización.
 
-> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 180.
 
-Se sancionará con multa de 50 a 500 días de salario mínimo vigente en el Estado a los dueños y encargados de tenerías, curtidurías, saladeros y demás establecimientos destinados a la industrialización sino están amparados con la documentación legal correspondiente sin perjuicio de las penas a que se hagan acreedores conforme al Código de Defensa Social.
+Se sancionará con multa de cincuenta a quinientas unidades de medida y actualización a los dueños y encargados de tenerías, curtidurías, saladeros y demás establecimientos destinados a la industrialización cuando no estén amparados con la documentación legal correspondiente, sin perjuicio de las penas a que se hagan acreedores conforme al Código Penal del Estado.
 
-> <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 181.
 
-Se impondrá multa de 50 a 500 días de salario mínimo vigente en el Estado a los dueños de tenerías, curtidurías y saladeros de pieles que no informen a la Secretaría de Desarrollo Rural en los términos del Artículo 132 de esta Ley o que carezcan del registro correspondiente.
+Se impondrá multa de cincuenta a quinientas unidades de medida y actualización a los dueños de tenerías, curtidurías y saladeros de pieles que no informen a la Secretaría de Desarrollo Rural en los términos del artículo 132 de esta ley o que carezcan del registro correspondiente.
 
-> <small>(ADICIONADO, D.O. 23 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 181-A.
 
-Las multas y sanciones correspondientes a los administradores o responsables de los rastros municipales en relación al Artículo 121 de la presente Ley serán de 10 a 50 días de salario mínimo vigente en el Estado.
+Las multas y sanciones correspondientes a los administradores o responsables de los rastros municipales, a que se refiere el artículo 121 de la ley, serán de diez a cincuenta unidades de medida y actualización.
 
 ###### ARTICULO 182.
 
 Quienes destruyan una cerca serán responsables de los daños que se ocasionen por ese motivo, independientemente de la sanción a que se hagan acreedores conforme al Código de Defensa Social.
 
-> <small>(ADICIONADO, D.O. 23 DE ABRIL DE 1993)</small>
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 182-A.
 
-El desacato a las autoridades competentes para la aplicación de la presente Ley durante el ejercicio de sus funciones, será sancionado con multa de 10 a 50 días de salario mínimo vigente en el Estado.
+El desacato a las autoridades competentes para la aplicación de la ley durante el ejercicio de sus funciones será sancionado con multa de diez a cincuenta unidades de medida y actualización.
 
 > <small>(REFORMADO, D.O. 23 DE ABRIL DE 1993)</small>
 
@@ -1614,3 +1614,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el dia
 Segundo. Derogación tácita
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 428/2016 POR EL QUE SE MODIFICAN CINCUENTA Y TRES LEYES ESTATALES EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Segundo. Obligación normativa
+
+El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
