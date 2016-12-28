@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2016-10-04"
+last_updated: "2016-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 3 de septiembre de 1999.
 
@@ -2084,27 +2084,41 @@ II. Cuando la minuta sea desechada, en todo o en parte, modificada o adicionada 
 
 1. El Congreso de la Unión hará la más amplia difusión de los actos a través de los cuales las Cámaras lleven a cabo el cumplimiento de las funciones que la Constitución y esta Ley les encomiendan.
 
-> <small>(N. DE E. ANTES ARTÍCULO 131, D.O.F. 20 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 140.
 
-1. El Congreso de la Unión, para la difusión de sus actividades, y de acuerdo con la legislación en la materia, contará con el Canal de Televisión que le asigne la autoridad competente, de conformidad con las normas técnicas aplicables.
+1. El Congreso de la Unión, para la difusión de sus actividades, y de acuerdo con la legislación en la materia, contará con un órgano denominado "Canal de Televisión del Congreso General de los Estados Unidos Mexicanos", el cual funcionará con base en los permisos y las autorizaciones que le asigne la autoridad competente, de conformidad con las normas técnicas aplicables.
 
-2. El Canal tiene por objeto reseñar y difundir la actividad legislativa y parlamentaria que corresponda a las responsabilidades de las Cámaras del Congreso y de la Comisión Permanente, así como contribuir a informar, analizar y discutir pública y ampliamente la situación de los problemas de la realidad nacional vinculadas con la actividad legislativa.
+2. El Canal de Televisión del Congreso General de los Estados Unidos Mexicanos tiene por objeto, reseñar y difundir, a través de las distintas plataformas de comunicación y canales de programación, la actividad legislativa y parlamentaria que corresponda a las de las Cámaras del Congreso de la Unión y de la Comisión Permanente, así como contribuir a informar, analizar y discutir pública y ampliamente la situación de los problemas de la realidad nacional vinculados con la difusión de la cultura democrática y los valores nacionales.
 
-> <small>(N. DE E. ANTES ARTÍCULO 132, D.O.F. 20 DE MAYO DE 2014)</small>
+3. El Canal de Televisión del Congreso General de los Estados Unidos Mexicanos gozará de autonomía técnica y de gestión para la consecución de su objeto.
+
+El Canal se sujetará a lo previsto en esta Ley, el Reglamento del Canal, por los lineamientos administrativos, políticas internas de orden general y programas de trabajo que apruebe la Comisión Bicamaral.
+
+4. Para la realización de su objeto, el Canal de Televisión del Congreso General de los Estados Unidos Mexicanos contará con el presupuesto que cada Cámara le haya asignado y que será acorde a las necesidades del Canal, para asegurar la transmisión y la calidad de los contenidos.
+
+Dichos recursos deberán ser aportados por cada Cámara en los términos que se determinen en el anexo del Decreto del Presupuesto de Egresos de la Federación correspondiente al Poder Legislativo, y deberán ser ejercidos de manera integral para el funcionamiento del Canal.
+
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 141.
 
-1. Para la conducción de las actividades que desarrolla el Canal, se constituye la Comisión Bicamaral del Canal de Televisión del Congreso de la Unión.
+1. Para la conducción de las actividades que desarrolla el Canal, se constituye la Comisión Bicamaral del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos.
 
 2. La Comisión estará integrada por tres diputados y tres senadores electos por el Pleno de cada Cámara a propuesta de las respectivas juntas de coordinación política. En su caso, los legisladores de la Comisión representarán a sus grupos parlamentarios en ambas Cámaras.
 
-3. La Comisión informará al inicio de cada periodo ordinario de sesiones en cada Cámara, a través de las respectivas mesas directivas, sobre el desarrollo de las actividades del Canal.
+3. En las reuniones de la Comisión que se discutan temas de contrataciones, adquisiciones y licitaciones que lleve a cabo el Canal de Televisión del Congreso General de los Estados Unidos Mexicanos, deberán estar presentes, con voz pero sin voto, el Secretario General de la Cámara de Diputados y el Secretario General de Servicios Administrativos de la Cámara de Senadores.
 
-4. Los coordinadores de los grupos parlamentarios de ambas Cámaras podrán solicitar al responsable del Canal copia de las video grabaciones transmitidas a través del mismo.
+4. La Comisión informará al inicio de cada periodo ordinario de sesiones en cada Cámara, a través de las respectivas mesas directivas, sobre el desarrollo de las actividades del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos.
 
-5. La organización y funcionamiento del Canal se sujetarán a las disposiciones legales aplicables y a las reglamentarias específicas que al efecto dicte el Congreso de la Unión, así como a las políticas internas de orden general y programas de trabajo que apruebe la Comisión Bicamaral.
+5. Para el mejor desempeño de las labores propias del Canal, este contará con una Comisión Bicamaral, una Dirección General, un Consejo Consultivo, así como de un Defensor de Audiencia, los dos últimos de conformidad con lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión.
+
+6. Cualquier legislador de las Cámaras que integran el Congreso de la Unión podrá solicitar al responsable del Canal copia del material videográfico transmitido a través del mismo.
+
+7. La organización y funcionamiento del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos se sujetará a las disposiciones legales aplicables y a las reglamentarias específicas que al efecto dicte el Congreso de la Unión, así como a las políticas internas de orden general y programas de trabajo que apruebe la Comisión Bicamaral.
+
+8. En ejercicio de las facultades delegatorias para la representación de las Cámaras previstas en esta Ley, los presidentes de ambas Cámaras otorgarán un poder especial para actos de administración, pleitos y cobranzas, en favor del titular de la Dirección General del Canal para llevar a cabo las contrataciones, adquisiciones y licitaciones de equipo y de servicios que realice el Canal, en apego a los lineamientos administrativos emitidos para tal efecto por la Comisión Bicamaral.
 
 > <small>(N. DE E. ANTES ARTÍCULO 133, D.O.F. 20 DE MAYO DE 2014)</small>
 
@@ -2623,3 +2637,19 @@ D.O.F. 4 DE OCTUBRE DE 2016.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los asuntos que la mesa directiva de la Cámara de Diputados hubiera turnado a la Comisión del Distrito Federal previo a la entrada en vigor del presente Decreto se entenderán como materias a resolver por la Comisión de la Ciudad de México. Lo mismo sucederá con todos los trámites sobre recursos administrativos, financieros, materiales y humanos, así como los distintos asuntos que desarrolle y que no estén sujetos a dictamen.
+
+D.O.F. 28 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 140 Y 141 DE LA LEY ORGÁNICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Primero. El presente Decreto entrará en vigor una vez publicado en el Diario Oficial de la Federación.
+
+Segundo. Se contará con un periodo de 90 días naturales a partir de la publicación del presente Decreto en el Diario Oficial de la Federación, para la elaboración de los lineamientos generales de administración por parte de la Comisión Bicamaral del Canal, mismos que serán aplicables para ambas Cámaras.
+
+Tercero. Las mesas directivas de las Cámaras de Diputados y de Senadores, en ejercicio de las facultades que les concede la Ley Orgánica del Congreso General de los Estados-Unidos Mexicanos, harán las previsiones presupuestales para asignar los recursos necesarios para el cumplimiento del presente Decreto.
+
+Cuarto. Las unidades de administración de ambas Cámaras deberán realizar las gestiones correspondientes ante la Secretaría de Hacienda y Crédito Público, para la creación de un programa presupuestario en el Ramo Autónomo 01 Poder Legislativo, para la difusión de las actividades legislativas a cargo del Canal de Televisión del Congreso General de los Estados Unidos Mexicanos; que tenga por objeto ser la fuente de recursos financieros para el desarrollo y operación del Canal, así como para acreditar su capacidad financiera.
+
+Quinto. Los servidores públicos que laboran en el Canal de Televisión del Congreso General de los Estados Unidos Mexicanos, preservan sus derechos y la vigencia de sus nombramientos, cargos y responsabilidades.
+
+Sexto. Queda sin efecto todo aquello que se oponga a lo dispuesto al presente Decreto.
