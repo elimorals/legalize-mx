@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-14121
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-07"
-last_updated: "2016-03-18"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el lunes 7 de diciembre de 1998.
 
@@ -1139,11 +1139,11 @@ Dentro del plazo que se hubiere señalado, la dependencia, entidad, órgano muni
 
 ### CAPITULO UNICO. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 58.
 
-Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base a ella se dicten, serán sancionados con multa equivalente a la cantidad de trescientas a quinientas veces el salario mínimo diario vigente en el Estado.
+Quienes infrinjan las disposiciones contenidas en esta Ley o las normas que con base a ella se dicten, serán sancionados con multa equivalente a la cantidad de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 2015)</small>
 
@@ -1336,3 +1336,23 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO. SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE VIOLENCIA FAMILIAR EN EL ESTADO DE MECHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL ARTÍCULO 58 PÁRRAFO PRIMERO DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
