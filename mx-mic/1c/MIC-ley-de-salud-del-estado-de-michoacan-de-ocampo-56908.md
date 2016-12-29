@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2015-09-30"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -789,7 +789,7 @@ Será responsabilidad del servicio de limpieza pública lo siguiente:
 
 I. El manejo de los residuos sólidos urbanos durante su transporte, vigilando que no (sic) éstos no salgan o se esparzan durante su transportación;
 
-III. Los cuerpos o restos de animales encontrados en la vía pública deberán ser incinerados o enterrados por los ayuntamientos en el área que ellos mismos establezcan;
+III (SIC). Los cuerpos o restos de animales encontrados en la vía pública deberán ser incinerados o enterrados por los ayuntamientos en el área que ellos mismos establezcan;
 
 IV. La disposición final de los residuos sólidos urbanos, la cual deberá realizarse en los sitios autorizados por la autoridad ambiental, en coordinación con la Secretaría, misma que emitirá un dictamen de congruencia de los estudios de factibilidad técnica del terreno y del proyecto a usarse como área de disposición final, o de ampliación de uno existente, conforme a las disposiciones normativas aplicables;
 
@@ -1519,7 +1519,7 @@ Las cooperativas escolares estarán sujetas a vigilancia sanitaria de manera per
 
 I. Instalaciones físicas acordes al Reglamento de Ingeniería Sanitaria;
 
-Il. Agua apta para uso y consumo humano;
+II. Agua apta para uso y consumo humano;
 
 III. Cisternas, tinaco y todo depósito destinado para tal fin;
 
@@ -2011,19 +2011,25 @@ V. La reincidencia del infractor; y
 
 VI. El beneficio obtenido por el infractor.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 228.
 
-Se sancionará con multa de diez hasta mil veces el salario mínimo general vigente en el Estado, la violación de las disposiciones contenidas en los artículos 41, 47, 48, 50, 51, 52, 55, 56, 57, 58, 59, 64, 69, 76, 82 segundo párrafo, 83, 84, 85, 88, 89, 105, 106, 107, 110, 129, 141, 148, 152, 172, y 179, de esta Ley.
+Se sancionará con multa de diez hasta mil veces el valor diario de la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los artículos 41, 47, 48, 50, 51, 52, 55, 56, 57, 58, 59, 64, 69, 76, 82 segundo párrafo, 83, 84, 85, 88, 89, 105, 106, 107, 110, 129, 141, 148, 152, 172, y 179, de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 229.
 
-Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general vigente en el Estado, la violación a las disposiciones contenidas en los artículos 60, 66, 67, 92, 139, 141, 155 y 156 de esta Ley.
+Se sancionará con multa de mil hasta cuatro mil veces el valor diario de la Unidad de Medida y Actualización, la violación a las disposiciones contenidas en los artículos 60, 66, 67, 92, 139, 141, 155 y 156 de esta Ley.
 
-La violación de las disposiciones contenidas en los artículos 206 y 221 de la presente normatividad, se sancionará con multa equivalente de cincuenta hasta quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate.
+La violación de las disposiciones contenidas en los artículos 206 y 221 de la presente normatividad, se sancionará con multa equivalente de cincuenta hasta quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 230.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general vigente en el Estado, atendiendo siempre a lo preceptuado en el artículo 227 de esta Ley.
+Las infracciones no previstas en este capítulo serán sancionadas con multa equivalente hasta por diez mil veces el valor diario de la Unidad de Medida y Actualización, atendiendo siempre a lo preceptuado en el artículo 227 de esta Ley.
 
 ###### ARTÍCULO 231.
 
@@ -2298,3 +2304,23 @@ Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al
 P.O. 30 DE SEPTIEMBRE DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 228, 229 Y 230 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
