@@ -4,7 +4,7 @@ identifier: "CAM-declaratoria-de-entrada-en-vigor-en-el-estado-de-campeche-11611
 country: "mx"
 rank: "otro"
 publication_date: "2016-07-22"
-last_updated: "2016-07-22"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 DECLARATORIA DE ENTRADA EN VIGOR EN EL ESTADO DE CAMPECHE DE LA LEY NACIONAL DE EJECUCIÓN PENAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Declaratoria publicada en el Periódico Oficial del Estado de Campeche, el viernes 22 de julio de 2016.
 
@@ -49,7 +49,9 @@ A partir de la entrada en vigor del presente decreto, se derogan todas las dispo
 
 ## TRANSITORIOS
 
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de conformidad con los plazos y salvedades establecidos en las disposiciones transitorias de la Ley Nacional de Ejecución Penal.
 
 Segundo.- Remítase copia de este decreto para su conocimiento a los Poderes Legislativo, Ejecutivo y Judicial de la Federación; Ejecutivo y Judicial del Estado de Campeche; Legislativo, Ejecutivo y Judicial de las demás entidades federativas; así como a los HH. Ayuntamientos del Estado; y a todas aquellas autoridades a las que les resulte de observancia obligatoria.
 
@@ -72,3 +74,11 @@ Que la LXII Legislatura del H. Congreso Constitucional del Estado Libre y Sobera
 Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de Campeche, Municipio y Estado de Campeche, el primer día del mes de julio del año dos mil dieciséis.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 126 POR EL QUE “SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO 65 DE FECHA 30 DE JUNIO DE 2016, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EL DÍA 22 DE JULIO DE 2016, RELATIVO A LA DECLARATORIA DE ENTRADA VIGOR EN EL ESTADO DE CAMPECHE DE LA LEY NACIONAL DE EJECUCIÓN PENAL”.]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial del Estado.
