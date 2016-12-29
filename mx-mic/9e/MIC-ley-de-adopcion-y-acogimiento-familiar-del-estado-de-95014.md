@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-adopcion-y-acogimiento-familiar-del-estado-de-95014"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-01"
-last_updated: "2016-11-18"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el lunes 1 de julio de 2013.
 
@@ -481,9 +481,11 @@ A los servidores públicos que intervengan en los procesos de adopción y que co
 
 Los jueces que conozcan del procedimiento de adopción y que contravengan lo dispuesto por la presente Ley, serán sancionados conforme a lo establecido en la Ley Orgánica del Poder Judicial del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 52.
 
-El Oficial del Registro Civil que no levante el acta de adopción correspondiente, se le impondrá una multa de quince a treinta días de salario mínimo general vigente en el Estado de Michoacán de Ocampo.
+El Oficial del Registro Civil que no levante el acta de adopción correspondiente, se le impondrá una multa de quince a treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 53.
 
@@ -554,3 +556,23 @@ P.O. 18 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 184 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 9 DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE "SE REFORMA EL ARTÍCULO 52 DE LA LEY DE ADOPCIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO."]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
