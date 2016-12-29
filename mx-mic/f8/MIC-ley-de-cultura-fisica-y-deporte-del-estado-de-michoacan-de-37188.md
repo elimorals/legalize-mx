@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cultura-fisica-y-deporte-del-estado-de-michoacan-de-3718
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-16"
-last_updated: "2015-05-28"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley Publicada en Periódico Oficial del Estado de Michoacán, el lunes 16 de febrero del 2004.
 
@@ -961,6 +961,12 @@ IX. Establecer las reglas bajo las cuales deberán sus asociados llevar a cabo s
 
 Se entiende como deporte profesional: las actividades de promoción, organización, desarrollo o participación en materia deportiva que se realicen con fines de lucro.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 57 Bis.
+
+Los Juegos Tradicionales y Autóctonos; y, la Charrería, serán considerados como parte del patrimonio cultural deportivo del Estado de Michoacán; por lo que el Estado y los Municipios en el ámbito de sus respectivas competencias deberán preservarlos, apoyarlos, promoverlos, fomentarlos y estimularlos, celebrando convenios de coordinación y colaboración entre ellos y con las Asociaciones Deportivas Estatales y Municipales; de conformidad con la Ley General de Cultura Física y Deporte.
+
 ###### Artículo 58.
 
 Los deportistas que participen dentro del deporte profesional, se regirán por lo establecido en la Ley Federal del Trabajo y demás ordenamientos que les sean aplicables.
@@ -1521,7 +1527,9 @@ a) Expulsión inmediata de las instalaciones deportivas;
 
 b) Amonestación privada o pública;
 
-c) Multa de 10 a 90 días de salario mínimo general vigente en el Estado de Michoacán; y,
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+c) Multa de 10 a 90 veces el valor diario de la Unidad de Medida y Actualización; y,
 
 d) Restricción de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculo.
 
@@ -1529,13 +1537,17 @@ d) Restricción de uno a cinco años del acceso a eventos deportivos masivos o c
 
 Artículo 110 A. Comete el delito de violencia en eventos deportivos, el espectador o cualquier otra persona que sin ser juez, jugador o parte del cuerpo técnico de los equipos contendientes en eventos deportivos masivos o de espectáculo y encontrándose en el interior de los recintos donde se celebre el evento, en sus instalaciones anexas, en sus inmediaciones o en los medios de transporte organizados para acudir a los mismos, realice por sí mismo o incitando a otros, cualquiera de las siguientes conductas:
 
-I. Lance objetos contundentes que por sus características pongan en riesgo la salud o la integridad de las personas. En este supuesto, se impondrán de seis meses a dos años de prisión y multa de cinco a treinta días de salario mínimo general vigente en el estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Ingrese sin autorización a los terrenos de juego y agreda a las personas o cause daños materiales. Quien incurra en esta hipótesis será sancionado con prisión de seis meses a tres años y multa de diez a cuarenta días de salario mínimo general vigente en el estado;
+I. Lance objetos contundentes que por sus características pongan en riesgo la salud o la integridad de las personas. En este supuesto, se impondrán de seis meses a dos años de prisión y multa de cinco a treinta veces el valor diario de la Unidad de Medida y Actualización;
 
-La sanción anterior se incrementará en dos terceras partes cuando la agresión a una persona la efectúen dos o más individuos.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-III. Participe activamente en riñas, lo que se sancionará con prisión de seis meses a cuatro años y multa de diez a sesenta días de salario mínimo general vigente en el estado;
+II. Ingrese sin autorización a los terrenos de juego y agreda a las personas o cause daños materiales. Quien incurra en esta hipótesis será sancionado con prisión de seis meses a tres años y multa de diez a cuarenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. Participe activamente en riñas, lo que se sancionará con prisión de seis meses a cuatro años y multa de diez a sesenta veces el valor diario de la Unidad de Medida y Actualización;
 
 IV. Incite o genere violencia, se considera incitador a quién dolosamente aliente a otro u otros para que participen en riñas o agresiones físicas a las personas o los bienes;
 
@@ -1543,7 +1555,9 @@ V. Cause daños materiales en los bienes muebles o inmuebles que se encuentren e
 
 VI. Introduzca al recinto o a sus instalaciones anexas, armas de fuego, explosivos o cualquier arma prohibida en términos de las leyes aplicables.
 
-Quien incurra en las conductas previstas en las fracciones IV, V y VI de este artículo, será sancionado con prisión de un año seis meses a cuatro años seis meses y multa de veinte a noventa días de salario mínimo general vigente en el estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Quien incurra en las conductas previstas en las fracciones IV, V y VI de este artículo, será sancionado con prisión de un año seis meses a cuatro años seis meses y multa de veinte a noventa veces el valor diario de la Unidad de Medida y Actualización.
 
 A quien resulte responsable de los delitos previstos en este artículo, se le impondrá también la suspensión del derecho a asistir a eventos deportivos masivos o con fines de espectáculo, por un plazo equivalente a la pena de prisión que le resulte impuesta.
 
@@ -1628,3 +1642,31 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Ejecutivo Estatal deberá expedir las reformas necesarias al Reglamento de esta Ley, en un plazo no mayor a 6 meses a partir de la entrada en vigor del presente Decreto.
 
 TERCERO. La Comisión Especial Contra la Violencia en el Deporte del Estado de Michoacán deberá quedar instalada dentro de los 90 días posteriores a la publicación de las reformas al Reglamento.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 110 FRACCIÓN V INCISO C) Y 110-A PÁRRAFO PRIMERO FRACCIONES I, II Y III Y PÁRRAFO SEGUNDO; DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 290 POR EL QUE “SE ADICIONA EL ARTÍCULO 57 BIS A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
