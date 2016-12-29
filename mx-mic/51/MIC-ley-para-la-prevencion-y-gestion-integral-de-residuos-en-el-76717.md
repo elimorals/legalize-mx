@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-prevencion-y-gestion-integral-de-residuos-en-el-767
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-15"
-last_updated: "2010-09-15"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY PARA LA PREVENCION Y GESTION INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACAN DE OCAMPO
+LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 15 de Septiembre de 2010.
 
@@ -1025,15 +1025,17 @@ Las violaciones a esta Ley, sus reglamentos y las disposiciones que de ella eman
 
 I. Amonestación;
 
-II. Multas por el equivalente de veinte a veinte mil días de salario mínimo general vigente en el Estado, en el momento de imponer la sanción, de conformidad con lo siguiente:
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-a) De veinte a cinco mil días de salario mínimo general vigente en el Estado por la infracción señalada en las fracciones I, II, III, IV,V, VI, VII y VIII, del artículo 82 de esta Ley;
+II. Multas por el equivalente de veinte a veinte mil veces el valor diario de la Unidad de Medida y Actualización, en el momento de imponer la sanción, de conformidad con lo siguiente:
 
-b) De cinco mil uno a diez mil días de salario mínimo general vigente en el Estado por la infracción señalada en las fracciones IX, X, XI, XII, XIII y XIV, del artículo 82 de esta Ley;
+a) De veinte a cinco mil veces el valor diario de la Unidad de Medida y Actualización, por la infracción señalada en las fracciones I, II, III, IV,V, VI, VII y VIII, del artículo 82 de esta Ley;
 
-c) De diez mil uno a quince mil días de salario mínimo general vigente en el Estado por la infracción señalada en las fracciones XV, XVI, XVII, XVIII, XIX y XX, del artículo 82 de esta Ley; o,
+b) De cinco mil una a diez mil veces valor diario de la Unidad de Medida y Actualización, por la infracción señalada en las fracciones IX, X, XI, XII, XIII y XIV, del artículo 82 de esta Ley;
 
-d) De quince mil uno a veinte mil días de salario mínimo general vigente en el Estado por la infracción señalada en las fracciones XXI, XXII y XXIII del artículo 82 de esta Ley.
+c) De diez mil una a quince mil veces el valor diario de la Unidad de Medida y Actualización, por la infracción señalada en las fracciones XV, XVI, XVII, XVIII, XIX y XX, del artículo 82 de esta Ley; o,
+
+d) De quince mil una a veinte mil veces el valor diario de la Unidad de Medida y Actualización, por la infracción señalada en las fracciones XXI, XXII y XXIII del artículo 82 de esta Ley.
 
 III. Clausura temporal o definitiva, parcial o total, cuando:
 
@@ -1150,3 +1152,25 @@ El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 24 veinticuatro días del mes de agosto de 2010 dos mil diez.
 
 ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRECTIVA.- DIP. CARLOS HUMBERTO QUINTANA MARTÍNEZ.- PRIMER SECRETARIO.- DIP. HELIBERTO LUGO CONTRERAS.- SEGUNDO SECRETARIO.- DIP. JOSÉ TRINIDAD MARTÍNEZ PASALAGUA.- TERCER SECRETARIO.- DIP. LUIS MANUEL ANTÚNEZ OVIEDO. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 83 DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
