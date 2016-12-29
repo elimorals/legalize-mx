@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-el-ejercicio-profesional-del-estado-de-michoacan-11008
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-29"
-last_updated: "2015-09-29"
+last_updated: "2016-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110089&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA EL EJERCICIO PROFESIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Décima Tercera Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -645,31 +645,43 @@ Las responsabilidades y sanciones por las infracciones administrativas a esta Le
 
 Los delitos en materia de profesiones serán perseguidos de oficio por el Ministerio Público, y sancionados conforme a los ordenamientos penales aplicables.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 69.
 
-Cuando derivado del ejercicio profesional se incumplan con las obligaciones que esta Ley señale para los profesionistas, se actúe con negligencia, se ataquen los derechos de terceros o los derechos de la sociedad en general, la Dirección podrá imponer una multa hasta por el equivalente a cien días de salario mínimo general vigente en el Estado, y podrá suspender o cancelar la autorización cuando la autoridad correspondiente lo ordene, para que continúe efectuando las actividades profesionales, conforme al procedimiento establecido en este capítulo.
+Cuando derivado del ejercicio profesional se incumplan con las obligaciones que esta Ley señale para los profesionistas, se actúe con negligencia, se ataquen los derechos de terceros o los derechos de la sociedad en general, la Dirección podrá imponer una multa hasta por el equivalente a cien veces el valor diario de la Unidad de Medida y Actualización, y podrá suspender o cancelar la autorización cuando la autoridad correspondiente lo ordene, para que continúe efectuando las actividades profesionales, conforme al procedimiento establecido en este capítulo.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 70.
 
-Cuando una persona dentro del territorio del Estado se ostente como pasante o profesionista sin serlo, y realice actos propios de una actividad profesional de las referidas en el artículo 10 de esta Ley, no tendrá derecho a cobrar por concepto de sueldo u honorarios, y se le impondrá además una multa hasta por el equivalente a cien días de salario mínimo general vigente en la capital del Estado.
+Cuando una persona dentro del territorio del Estado se ostente como pasante o profesionista sin serlo, y realice actos propios de una actividad profesional de las referidas en el artículo 10 de esta Ley, no tendrá derecho a cobrar por concepto de sueldo u honorarios, y se le impondrá además una multa hasta por el equivalente a cien veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 71.
 
-Al profesionista que ejerza en el Estado cualquiera de las profesiones a que se refiere el artículo 10 de esta Ley, sin haber obtenido el registro de sus documentos y su cédula profesional, se le amonestará por escrito la primera vez, con apercibimiento de multa si dentro de los treinta días posteriores a la notificación de la amonestación no tramita la expedición de dicha cédula ante la autoridad correspondiente. La multa en ningún caso excederá del pago de una cantidad equivalente a treinta días de salario mínimo general vigente en la capital del Estado.
+Al profesionista que ejerza en el Estado cualquiera de las profesiones a que se refiere el artículo 10 de esta Ley, sin haber obtenido el registro de sus documentos y su cédula profesional, se le amonestará por escrito la primera vez, con apercibimiento de multa si dentro de los treinta días posteriores a la notificación de la amonestación no tramita la expedición de dicha cédula ante la autoridad correspondiente. La multa en ningún caso excederá del pago de una cantidad equivalente a treinta veces el valor diario de la Unidad de Medida y Actualización.
 
-Una vez impuesta la multa a que se refiere el párrafo anterior, se le otorgarán al infractor otros treinta días para que tramite la expedición de la cédula profesional ante la autoridad correspondiente, y en caso de volver a incumplir, se le impondrá otra multa por la cantidad equivalente a sesenta días de salario mínimo general vigente en la capital del Estado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Una vez impuesta la multa a que se refiere el párrafo anterior, se le otorgarán al infractor otros treinta días para que tramite la expedición de la cédula profesional ante la autoridad correspondiente, y en caso de volver a incumplir, se le impondrá otra multa por la cantidad equivalente a sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
 Si el reincidente no tramita la expedición de su cédula profesional en el plazo señalado en el párrafo que antecede, la Dirección podrá dictaminarle la prohibición para ejercer su profesión en el Estado hasta que obtenga su cédula profesional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 72.
 
-Cuando se compruebe que existe falsedad en los documentos que presenten los profesionistas para su inscripción y registro ante la Dirección se efectuará la cancelación del mismo y se revocará la autorización para el ejercicio profesional, e independientemente de las sanciones penales a las que se haga acreedor, se le impondrá por parte de la Dirección, una multa hasta por el equivalente a cien días de salario mínimo general vigente en la capital del Estado.
+Cuando se compruebe que existe falsedad en los documentos que presenten los profesionistas para su inscripción y registro ante la Dirección se efectuará la cancelación del mismo y se revocará la autorización para el ejercicio profesional, e independientemente de las sanciones penales a las que se haga acreedor, se le impondrá por parte de la Dirección, una multa hasta por el equivalente a cien veces el valor diario de la Unidad de Medida y Actualización.
 
 La Dirección deberá de efectuar la denuncia correspondiente ante el Ministerio Público, respecto a lo que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 73.
 
-Queda prohibido el uso de la expresión «Colegio» a las asociaciones o sociedades de profesionistas constituidas en el Estado, que no hayan sido reconocidas y debidamente registradas ante la Dirección en los términos de esta Ley. A quienes infrinjan esta disposición, la Dirección no les autorizará por ningún concepto en el término de cinco años el funcionamiento de asociación profesional alguna y se les impondrá una multa hasta por el equivalente a ciento cincuenta días de salario mínimo general vigente en el Estado.
+Queda prohibido el uso de la expresión «Colegio» a las asociaciones o sociedades de profesionistas constituidas en el Estado, que no hayan sido reconocidas y debidamente registradas ante la Dirección en los términos de esta Ley. A quienes infrinjan esta disposición, la Dirección no les autorizará por ningún concepto en el término de cinco años el funcionamiento de asociación profesional alguna y se les impondrá una multa hasta por el equivalente a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 74.
 
@@ -756,3 +768,25 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 25 veinticinco días del mes de septiembre del año 2015 dos mil quince.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- LIC. JAIME AHUIZOTL ESPARZA CORTINA.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 69, 70, 71 PÁRRAFOS PRIMERO Y SEGUNDO, 72 PÁRRAFO PRIMERO Y 73 DE LA LEY PARA EL EJERCICIO PROFESIONAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
