@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2016-11-18"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -1813,7 +1813,9 @@ Los partidos políticos tendrán derecho al financiamiento público de sus activ
 
 a) Para el sostenimiento de actividades ordinarias permanentes:
 
-I. El Instituto, tratándose de partidos políticos, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por el veinte por ciento del salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I. El Instituto, tratándose de partidos políticos, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral local, a la fecha de corte de julio de cada año, por el veinte por ciento del valor diario de la Unidad de Medida y Actualización;
 
 II. El resultado de la operación señalada en el inciso anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes y se distribuirá en la forma que establece la Constitución General;
 
@@ -2023,7 +2025,9 @@ Los gastos que realicen los partidos políticos, las coaliciones y los candidato
 
 a) Estar amparados con un comprobante que cumpla los requisitos fiscales;
 
-b) Efectuar mediante transferencia electrónica, cheque nominativo para abono en cuenta del beneficiario, los pagos cuyo monto exceda de noventa días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+b) Efectuar mediante transferencia electrónica, cheque nominativo para abono en cuenta del beneficiario, los pagos cuyo monto exceda de noventa veces el valor diario de la Unidad de Medida y Actualización.
 
 c) Estar debidamente registrados en la contabilidad;
 
@@ -3755,7 +3759,9 @@ a) Respecto de los partidos políticos:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta diez mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Con multa de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes, o de los candidatos para sus propias campañas, con un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
 
 III. Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución;
 
@@ -3767,7 +3773,9 @@ b) Respecto de las agrupaciones políticas estatales:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta diez mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Con multa de hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta; y,
 
 III. Con la suspensión o cancelación de su registro, que en el primer caso no podrá ser menor a seis meses.
 
@@ -3775,7 +3783,9 @@ c) Respecto de los aspirantes, precandidatos o candidatos a cargos de elección 
 
 I. Con amonestación pública;
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización; y,
 
 III. Con la pérdida del derecho del precandidato infractor a ser registrado como candidato o, en su caso, si ya está hecho el registro, con la cancelación del mismo. Cuando las infracciones cometidas por aspirantes o precandidatos a cargos de elección popular, cuando sean imputables exclusivamente a aquéllos, no procederá sanción alguna en contra del partido político de que se trate. Cuando el precandidato resulte electo en el proceso interno, el partido político no podrá registrarlo como candidato.
 
@@ -3783,7 +3793,9 @@ d) Respecto de los Candidatos Independientes:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo;
 
@@ -3795,7 +3807,9 @@ e) Respecto de los dirigentes y afiliados a los partidos políticos; así como t
 
 I. Con amonestación pública;
 
-II. Con multa de hasta dos mil días de salario mínimo general vigente para el Estado, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Con multa de hasta dos mil veces el valor diario de la Unidad de Medida y Actualización, en el caso de que promuevan una denuncia frívola. Para la individualización de las sanciones a que se refiere esta fracción, la autoridad electoral deberá tomar en cuenta la gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir la práctica en atención al bien jurídico tutelado, o las que se dicten con base en él; las circunstancias de modo, tiempo y lugar de la infracción; las condiciones socioeconómicas del infractor; las condiciones externas y los medios de ejecución; la reincidencia en el incumplimiento de obligaciones y, en su caso, el monto del beneficio, lucro, daño o perjuicio derivado del incumplimiento de obligaciones.
 
 f) Respecto de observadores electorales u organizaciones de observadores electorales:
 
@@ -3803,13 +3817,17 @@ I. Con amonestación pública;
 
 II. Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales locales, según sea el caso; y,
 
-III. Con multa de hasta doscientos días de salario mínimo general vigente para el Estado, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. Con multa de hasta doscientos veces el valor diario de la Unidad de Medida y Actualización, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
 
 g) Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos:
 
 I. Con amonestación pública;
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta; y,
 
 III. Con la cancelación del procedimiento tendente a obtener el registro como partido político nacional;
 
@@ -3817,7 +3835,9 @@ h) Respecto de las organizaciones sindicales, laborales o patronales, o de cualq
 
 I. Con amonestación pública; y,
 
-II. Con multa de hasta cinco mil días de salario mínimo general vigente para el Estado, según la gravedad de la falta.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Con multa de hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización, según la gravedad de la falta.
 
 ###### ARTÍCULO 232.
 
@@ -5102,3 +5122,23 @@ PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado la Minu
 SEGUNDO. Una vez aprobado el presente Decreto por la mayoría de los Ayuntamientos y Concejos Municipales, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE ”SE REFORMAN LOS ARTÍCULOS 112 INCISO A) FRACCIÓN I; 124 INCISO B); 231 INCISO A) FRACCIÓN II, INCISO B) FRACCIÓN II, INCISO C) FRACCIÓN II; INCISO D) FRACCIÓN II, INCISO E) FRACCIÓN II, INCISO F) FRACCIÓN III, INCISO G) FRACCIÓN II E INCISO H) FRACCIÓN II, DEL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
