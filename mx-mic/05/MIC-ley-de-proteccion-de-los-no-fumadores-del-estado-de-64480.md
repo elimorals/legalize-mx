@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-de-los-no-fumadores-del-estado-de-64480"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-07"
-last_updated: "2008-11-07"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE PROTECCION DE LOS NO FUMADORES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE PROTECCION DE LOS NO FUMADORES DEL ESTADO DE MlCHOACAN DE OCAMPO
+LEY DE PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE MlCHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacan, el viernes 7 de noviembre de 2008.
 
@@ -59,7 +59,7 @@ I. Proteger a las generaciones presentes y futuras contra las consecuencias sani
 
 II. Establecer un marco jurídico para las medidas de control que habrán de aplicar las autoridades de los diferentes ámbitos de gobierno a fin de reducir de manera continua y sustancial la prevalencia del consumo de productos del tabaco y su exposición al humo;
 
-IIl. Proteger los derechos de los no fumadores a vivir y convivir en espacios cien por ciento libres de humo de tabaco;
+III. Proteger los derechos de los no fumadores a vivir y convivir en espacios cien por ciento libres de humo de tabaco;
 
 IV. Establecer políticas públicas saludables a, través de mecanismos, programas y acciones de difusión para la prevención y control del consumo de productos del tabaco;
 
@@ -131,15 +131,15 @@ II. Diseñar y operar campañas para la prevención, detección y atención opor
 
 III. Establecer con las autoridades educativas, la inclusión de contenidos educativos referentes al tabaquismo en programas y materiales educativos de todos los niveles;
 
-lV. La orientación a la población sobre los daños a la salud por el consumo de productos del tabaco y de los beneficios por dejar de fumar;
+IV. La orientación a la población sobre los daños a la salud por el consumo de productos del tabaco y de los beneficios por dejar de fumar;
 
 V. Diseñar el manual de letreros, señalamientos preventivos, informativos o restrictivos, que serán colocados en espacios estratégicos, interiores y exteriores, en las construcciones para prevenir el consumo de productos del tabaco y establecer las prohibiciones pertinentes, mismos que deberán contener iconografía relativa a los daños y consecuencias del tabaquismo;
 
-Vl. Realizar en conjunto con la iniciativa privada, campañas permanentes de información, concientización y difusión para prevenir el uso, consumo de productos del tabaco y la exposición a su humo;
+VI. Realizar en conjunto con la iniciativa privada, campañas permanentes de información, concientización y difusión para prevenir el uso, consumo de productos del tabaco y la exposición a su humo;
 
 VII. Deberá impulsar la participación de la comunidad para la prevención y atención del tabaquismo;
 
-VIll. Promover e implementar clínicas y servicios para la atención del fumador en todo el Estado;
+VIII. Promover e implementar clínicas y servicios para la atención del fumador en todo el Estado;
 
 IX. Fomentar la participación de las comunidades indígenas, en la elaboración y puesta en práctica de programas para la prevención del tabaquismo;
 
@@ -193,7 +193,7 @@ I. La promoción de la salud impulsará el desarrollo de actitudes y conductas q
 
 II. Promoción de espacios libres cien por ciento de humo de tabaco;
 
-IlI. La detección oportuna del fumador y su canalización a las clínicas de tratamiento del tabaquismo o al servicio hospitalario del nivel de atención que corresponda;
+III. La detección oportuna del fumador y su canalización a las clínicas de tratamiento del tabaquismo o al servicio hospitalario del nivel de atención que corresponda;
 
 IV. El establecimiento de políticas tendientes a disminuir el acceso a los productos derivados del tabaco;
 
@@ -219,7 +219,7 @@ El Consejo Estatal Contra las Adicciones realizará las investigaciones necesari
 
 I. Analizar a nivel estatal y municipal la magnitud, características, tendencias, causas, factores de riesgo individual, familiar y social, así como los contextos socioculturales de consumo;
 
-lI. Análisis de la dinámica social y prevalencia del consumo de productos del tabaco, de los requerimientos, y recursos disponibles para el desarrollo de los programas; y;
+II. Análisis de la dinámica social y prevalencia del consumo de productos del tabaco, de los requerimientos, y recursos disponibles para el desarrollo de los programas; y;
 
 III. Recabar información sobre las tendencias de la morbilidad, mortalidad y discapacidad atribuibles al consumo de productos del tabaco y el impacto económico en la sociedad.
 
@@ -245,7 +245,7 @@ V. En todas las áreas de las escuelas de educación especial, preescolar, prima
 
 VI. En unidades al cuidado y atención de niños y adolescentes, personas de la tercera edad y personas con discapacidad;
 
-VIl. En las construcciones públicas;
+VII. En las construcciones públicas;
 
 VIII. En salas de espera y sanitarios públicos ubicados en el Estado;
 
@@ -409,9 +409,13 @@ V. El beneficio obtenido por el infractor como resultado de la infracción.
 
 Se sancionará con multa:
 
-I. De setenta hasta cien veces el salario mínimo general diario vigente en el Estado, a quien consuma o tenga encendido cualquier producto de tabaco en las construcciones y espacios cien por ciento libres de humo de tabaco; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. De dos mil hasta cuatro mil veces el salario mínimo general diario vigente en el Estado, a quien siendo propietarios, administradores o responsables de una construcción o un espacio cien por ciento libre de humo de tabaco o de lo señalado en el artículo 14 de la presente Ley, permita el consumo o tener encendido cualquier producto del mismo.
+I. De setenta hasta cien veces el valor diario de la Unidad de Medida y Actualización, a quien consuma o tenga encendido cualquier producto de tabaco en las construcciones y espacios cien por ciento libres de humo de tabaco; y,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. De dos mil hasta cuatro mil veces el valor diario de la Unidad de Medida y Actualización, a quien siendo propietarios, administradores o responsables de una construcción o un espacio cien por ciento libre de humo de tabaco o de lo señalado en el artículo 14 de la presente Ley, permita el consumo o tener encendido cualquier producto del mismo.
 
 ###### ARTÍCULO 37.
 
@@ -466,3 +470,25 @@ PRESlDENTE.- DlP. ELlGIO CUITLÁHUAC GONZÁLEZ FARÍAS.-PRIMER SECRETARIO.- DIP.
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 21 veintiún días del mes de octubre del año 2008 dos mil ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE "SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 36 DE LA LEY DE PROTECCIÓN DE LOS NO FUMADORES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
