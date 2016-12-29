@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-pensiones-civiles-para-el-estado-de-michoacan-22008"
 country: "mx"
 rank: "ley"
 publication_date: "1980-05-08"
-last_updated: "2015-08-25"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 8 de mayo de 1980.
 
@@ -303,7 +303,9 @@ Las aportaciones obligatorias que deberán cubrir los servidores públicos a la 
 
 Las aportaciones de las entidades públicas serán del trece por ciento del sueldo base de cotización que les correspondan a los servidores públicos.
 
-Se establece como descuento mínimo obligatorio para los servidores públicos acogidos a los beneficios de la presente ley, el once por ciento de su sueldo base de cotización sin tomar en consideración la edad del obligado; estableciéndose como límite inferior un salario mínimo general que fije la comisión nacional de salarios mínimos para el área geográfica donde se encuentra ubicada la Ciudad de Morelia.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Se establece como descuento mínimo obligatorio para los servidores públicos acogidos a los beneficios de la presente ley, el once por ciento de su sueldo base de cotización sin tomar en consideración la edad del obligado; estableciéndose como límite inferior una vez el valor diario de la Unidad de Medida y Actualización.
 
 Cuando se requiera, con base en estudios técnicos, el incremento, se hará también en forma proporcional.
 
@@ -565,7 +567,9 @@ El derecho a jubilación se adquiere cuando el servidor público se encuentra de
 
 Tienen derecho a la jubilación los servidores públicos que tengan treinta años o más de servicio e igual tiempo de contribuir al fondo en los términos de esta ley, cualquiera que sea su edad y dejen de laborar.
 
-La jubilación dará derecho al pago de una cantidad equivalente al salario regulador del servidor público por promedio del salario base de cotización de los últimos tres años, con un máximo de hasta los veinte salarios mínimos generales vigentes para el área geográfica donde se encuentra ubicada la Ciudad de Morelia y su percepción comenzará a partir del día siguiente a aquél en que el servidor público hubiese disfrutado del mismo, por haber causado baja.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La jubilación dará derecho al pago de una cantidad equivalente al salario regulador del servidor público por promedio del salario base de cotización de los últimos tres años, con un máximo de hasta veinte veces el valor diario de la Unidad de Medida y Actualización y su percepción comenzará a partir del día siguiente a aquél en que el servidor público hubiese disfrutado del mismo, por haber causado baja.
 
 En el otorgamiento de jubilaciones y pensiones, se atenderá lo dispuesto en el reglamento que para tal efecto expida la Junta Directiva de la Dirección de Pensiones, para calcular el monto de las jubilaciones y pensiones se considerará el salario con el cual se cotiza a la Dirección de Pensiones.
 
@@ -906,3 +910,23 @@ Para el caso de los servidores públicos que desde antes de la entrada en vigor 
 NOVENO. Para los trabajadores pensionados y jubilados de la Secretaría de Educación en el Estado, el servicio de protección médica y social integral, deberá quedar debidamente garantizada en el Convenio que celebre el Gobierno del Estado con el Instituto del Seguro Social o Instituto de Seguridad Social al Servicio de los Trabajadores del Estado.
 
 DÉCIMO. La Junta Directiva de Pensiones tendrá un plazo de 45 días hábiles a la entrada en vigor de las presentes reformas, para homologarlas con su Reglamento.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 22 PÁRRAFO TERCERO Y 54 PÁRRAFO SEGUNDO DE LA LEY DE PENSIONES CIVILES PARA EL ESTADO DE MICHOACÁN.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
