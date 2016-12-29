@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-instituciones-de-asistencia-privada-del-estado-de-40025"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-09"
-last_updated: "2016-03-18"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el miércoles 9 de junio de 2004.
 
@@ -411,7 +411,7 @@ Si el fundador o fundadores hubieren consignado en los estatutos de la instituci
 
 ###### Artículo 46.
 
-Si la institución realiza reformas estatutarias contrarias a sus estatutos fundacionales o a esta Ley, sin la autorización de la Junta, Ésta (sic) declarará la extinción de oficio de la institución.
+Si la institución realiza reformas estatutarias contrarias a sus estatutos fundacionales o a esta Ley, sin la autorización de la Junta, Ésta declarará la extinción de oficio de la institución.
 
 ###### Artículo 47.
 
@@ -621,7 +621,9 @@ d) Nombrar personas que tengan parentesco con los integrantes del patronato de l
 
 e) Pagar deudas antes de su vencimiento, sin la autorización previa de la Junta;
 
-f) Entregar dinero, mercancías o valores que no estén amparados con documentos cuando su valor exceda de 25 salarios mínimos vigentes en el Estado; y,
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+f) Entregar dinero, mercancías o valores que no estén amparados con documentos cuando su valor exceda de 25 veces el valor diario de la Unidad de Medida y Actualización; y,
 
 g) Comprar en almoneda o fuera de ella los bienes de las instituciones que administren, ni hacer contrato alguno respecto de ellos, para sí, para su cónyuge, hijos y parientes por consanguinidad o afinidad dentro de cualquier grado;
 
@@ -1137,7 +1139,9 @@ Al aplicarse las sanciones se tomará en cuenta la gravedad de la infracción, l
 
 Las personas, físicas o morales, que representen, dirijan o administren asilos, escuelas, orfanatos, hospitales y demás establecimientos o instituciones destinados a la ejecución de actos de asistencia, sin autorización de la Junta, serán apercibidos para que legalicen ante dicha Junta la situación del establecimiento o institución de que se trate, dentro de un plazo de seis meses.
 
-De no hacerlo serán sancionados por la Junta con multa de cincuenta a quinientas veces el salario mínimo vigente en el Estado. En caso de reincidencia, aquella resolverá si clausura el establecimiento o, en su caso, declara de oficio la extinción de la institución y constituye con sus bienes una nueva.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+De no hacerlo serán sancionados por la Junta con multa de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización. En caso de reincidencia, aquella resolverá si clausura el establecimiento o, en su caso, declara de oficio la extinción de la institución y constituye con sus bienes una nueva.
 
 ###### Artículo 131.
 
@@ -1169,7 +1173,9 @@ V. Ejercer actos de dominio que impliquen la enajenación de bienes inmuebles qu
 
 VI. Los demás que señale esta Ley y disposiciones jurídicas aplicables.
 
-Cuando los patronos incurran en faltas o dejen de cumplir alguna de las obligaciones que les impone esta Ley y que no sean causa de remoción, la Junta los amonestará por escrito y, en caso de reincidencia, les impondrá una multa por el equivalente de diez a treinta veces el salario mínimo general vigente en el Estado, y si persisten en su falta, los suspenderá de su cargo por un lapso de seis a doce meses. Si incidieran nuevamente en el hecho por el que se les suspendió, la Junta los removerá definitivamente de su cargo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Cuando los patronos incurran en faltas o dejen de cumplir alguna de las obligaciones que les impone esta Ley y que no sean causa de remoción, la Junta los amonestará por escrito y, en caso de reincidencia, les impondrá una multa por el equivalente de diez a treinta veces el valor diario de la Unidad de Medida y Actualización, y si persisten en su falta, los suspenderá de su cargo por un lapso de seis a doce meses. Si incidieran nuevamente en el hecho por el que se les suspendió, la Junta los removerá definitivamente de su cargo.
 
 ###### Artículo 135.
 
@@ -1181,7 +1187,9 @@ Cuando en concepto de la Junta proceda legalmente la remoción de un patrono, de
 
 Si la Junta resuelve la remoción, sustituirá al removido con la persona a quien según los estatutos de la institución le corresponda, equiparándose para este efecto la remoción de un patrono a las causas de falta definitiva. Si la sustitución no estuviere prevista en los estatutos, se estará a lo dispuesto por esta Ley.
 
-La resistencia de un patrono a separarse de sus funciones, una vez resuelta por la Junta su remoción, se sancionará por la misma con multa de diez a cien veces el salario mínimo general vigente en el Estado, sin perjuicio de poner los hechos en conocimiento del Ministerio Público.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La resistencia de un patrono a separarse de sus funciones, una vez resuelta por la Junta su remoción, se sancionará por la misma con multa de diez a cien veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de poner los hechos en conocimiento del Ministerio Público.
 
 ### Capítulo III. De las responsabilidades de los miembros y de los empleados de la Junta
 
@@ -1287,7 +1295,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE AGOSTO DE 2007.
 
@@ -1300,3 +1308,23 @@ P.O. 18 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 125.- PRIMERO. SE REFORMA EL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- SEGUNDO. SE REFORMA EL CÓDIGO DE JUSTICIA ESPECIALIZADA PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN.- TERCERO. SE REFORMA LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO.- CUARTO. SE REFORMA LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- QUINTO. SE REFORMA LA LEY DE DESARROLLO ECONÓMICO DEL ESTADO DE MICHOACÁN DE OCAMPO.- SEXTO. SE REFORMA LA LEY DE DESARROLLO RURAL INTEGRAL Y SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO.- SÉPTIMO. SE REFORMA LA LEY DE EJECUCIÓN DE SANCIONES PENALES DEL ESTADO DE MICHOACÁN DE OCAMPO.- OCTAVO. SE REFORMA LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO.- NOVENO. SE REFORMA LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE MICHOACÁN DE OCAMPO Y SUS MUNICIPIOS.- DÉCIMO. SE REFORMA LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO PRIMERO. SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE MICHOACÁN DE OCAMPO.- DÉCIMO SEGUNDO. SE REFORMA LA LEY PARA LA PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL EN EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 69 PÁRRAFO PRIMERO FRACCIÓN IX INCISO F), 130 DEL PÁRRAFO SEGUNDO, 134 PÁRRAFO SEGUNDO Y 136 PÁRRAFO TERCERO DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
