@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2016-12-16"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -501,7 +501,9 @@ I. Los mínimos y máximos de la multa atenderán a cada delito en particular;
 
 II. El día multa equivale a la percepción neta diaria del imputado en el momento de cometer el delito; y,
 
-III. El límite inferior del día multa será equivalente al salario mínimo diario vigente en el Estado al momento de cometerse el delito.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. El límite inferior de la multa será equivalente al valor diario de la Unidad de Medida y Actualización, al momento de cometerse el delito.
 
 ###### Artículo 39.
 
@@ -1873,6 +1875,12 @@ III. Cuando teniendo la guarda y custodia compartida, no devuelva al sujeto pasi
 
 Este delito se perseguirá por querella.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Artículo 177 bis. Al que sin tener relación de parentesco a que se refiere el artículo anterior, o de tutela de un menor de edad o incapaz, lo retenga o sustraiga sin el consentimiento de quien ejerza su custodia legítima o guarda, se le impondrá prisión de ocho a quince años y setecientos a mil días multa. En este caso, el delito será perseguido de oficio.
+
+Cuando el sujeto devuelva espontáneamente al menor o incapaz, dentro de los tres días siguientes a la comisión del delito y sin haberle causado algún daño, se le impondrá la mitad de las sanciones señaladas.
+
 ## TÍTULO SÉPTIMO. DELITOS COMETIDOS CONTRA UN INTEGRANTE DE LA FAMILIA Y DELITOS POR DISCRIMINACIÓN CONTRA LA DIGNIDAD DE LAS PERSONAS
 
 ### CAPÍTULO I. AMENAZAS
@@ -2059,7 +2067,9 @@ Para los efectos de este capítulo, el honor es el derecho que tiene la persona 
 
 Punibilidad de delitos de ataques a honor
 
-A quien cometa el delito de ataques al honor, se aplicará una pena de tres a cinco años de prisión y una multa de cien a trescientos días de salario mínimo general vigente, así como la reparación del daño.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+A quien cometa el delito de ataques al honor, se aplicará una pena de tres a cinco años de prisión y una multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, así como la reparación del daño.
 
 Este delito se perseguirá por querella.
 
@@ -2077,7 +2087,9 @@ Para los efectos de este capítulo se entiende por vida privada aquella que no e
 
 Punibilidad del delito de ataques a la intimidad
 
-A quien cometa el delito de ataques a la intimidad, se aplicarán de tres a cinco años de prisión y multa de cien a trescientos días de salario mínimo general vigente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+A quien cometa el delito de ataques a la intimidad, se aplicarán de tres a cinco años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
 Este delito se perseguirá por querella.
 
@@ -2095,7 +2107,9 @@ La imagen es la reproducción identificable de los rasgos físicos de una person
 
 Punibilidad del delito de ataque la imagen
 
-A quien ataque la imagen de otro, se aplicarán de tres a cinco años de prisión y multa de cien a trescientos días de salario mínimo general vigente, así como a la reparación del daño.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+A quien ataque la imagen de otro, se aplicarán de tres a cinco años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización, así como a la reparación del daño.
 
 ###### Artículo 198.
 
@@ -2127,13 +2141,19 @@ Consecuencias jurídicas del robo
 
 Al responsable del delito de robo se le sancionará conforme a las reglas siguientes:
 
-I. Cuando el valor de lo robado no exceda del importe de trescientos días de salario mínimo general vigente, la sanción será de seis meses a dos años de prisión y de cincuenta a cien días multa;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I. Cuando el valor de lo robado no exceda del importe de trescientas veces el valor diario de la Unidad de Medida y Actualización, la sanción será de seis meses a dos años de prisión y de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización de multa;
 
 II. Si el valor de lo robado excede del importe señalado en la fracción anterior, pero no del que se establece en la siguiente, la sanción será de dos a cuatro años de prisión y de cien a doscientos días multa; y,
 
-III. Cuando el valor de lo robado exceda del importe de setecientos cincuenta días de salario mínimo general vigente, la sanción será de tres a doce años de prisión y de doscientos a quinientos días de multa.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Este delito se perseguirá por querella cuando el monto de lo robado no exceda de cincuenta veces el salario mínimo.
+III. Cuando el valor de lo robado exceda del importe de setecientos cincuenta días el valor diario de la Unidad de Medida y Actualización, la sanción será de tres a doce años de prisión y de doscientos a quinientos días de multa.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Este delito se perseguirá por querella cuando el monto de lo robado no exceda de cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 201.
 
@@ -2283,15 +2303,25 @@ Abuso de confianza
 
 A quien con perjuicio de una persona disponga para sí o para otro de una cosa ajena mueble, de la cual se le haya transmitido la tenencia, pero no el dominio, se le impondrá:
 
-I. De cuarenta a noventa días multa, cuando el valor de lo dispuesto no exceda de cien veces el salario mínimo, o no sea posible determinar su valor;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Prisión de seis meses a dos años o de doscientos a trescientos días multa, cuando el valor de lo dispuesto exceda de cien pero no de trescientas veces el salario mínimo;
+I. De cuarenta a noventa días multa, cuando el valor de lo dispuesto no exceda de cien veces el valor diario de la Unidad de Medida y Actualización, o no sea posible determinar su valor;
 
-III. Prisión de dos a cuatro años y de doscientos cincuenta a seiscientos días multa, cuando el valor de lo dispuesto exceda de trescientas pero no de seiscientas veces el salario mínimo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-IV. Prisión de cuatro a diez años y de quinientos a ochocientos días multa, si el valor de los dispuesto excede de seiscientas veces el salario mínimo pero no de mil veces el salario mínimo; y,
+II. Prisión de seis meses a dos años o de doscientas a trescientas días multa, cuando el valor de lo dispuesto exceda de cien pero no de trescientas veces el dicho valor;
 
-V. Prisión de seis a once años y de setecientos a mil trescientos días multa, si el valor de lo dispuesto excede de mil veces el salario mínimo.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. Prisión de dos a cuatro años y de doscientas cincuenta a seiscientas días de multa, cuando el valor de lo dispuesto exceda de trescientas pero no de seiscientas veces dicho valor;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV. Prisión de cuatro a diez años y de quinientas a ochocientas días multa, si el valor de los (sic) dispuesto excede de seiscientas veces pero no de mil veces el valor de la Unidad de Medida y Actualización; y,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+V. Prisión de seis a once años y de setecientas a mil trescientas días multa, si el valor de lo dispuesto excede de mil veces el valor de la Unidad de Medida y Actualización.
 
 ###### Artículo 215.
 
@@ -2323,15 +2353,25 @@ Fraude
 
 A quien por medio del engaño o aprovechando el error en que otra persona se halle, se haga ilícitamente de alguna cosa u obtenga un lucro en beneficio propio o de un tercero, se le impondrá:
 
-I. Prisión de seis meses a dos años o cien a doscientos setenta y cinco días multa, cuando el valor de lo defraudado no exceda de cincuenta veces el salario mínimo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Prisión de uno a cuatro años o de trescientos a quinientos días multa, cuando el valor de lo defraudado exceda de cincuenta pero no de quinientas veces el salario mínimo;
+I. Prisión de seis meses a dos años o cien a doscientas setenta y cinco días multa, cuando el valor de lo defraudado no exceda de cincuenta veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Prisión de tres a ocho años y de cuatrocientos a seiscientos días multa, cuando el valor de lo defraudado exceda de quinientas pero no de cinco mil veces el salario mínimo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-IV. Prisión de cinco a diez años y de setecientos a mil días multa, cuando el valor de lo defraudado exceda de cinco mil pero no de diez mil veces el salario mínimo;
+II. Prisión de uno a cuatro años o de trescientas a quinientas días multa, cuando el valor de lo defraudado exceda de cincuenta pero no de quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-V. Prisión de ocho a quince años y de mil a mil quinientos días multa, cuando el valor de lo defraudado exceda de diez mil veces el salario mínimo; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. Prisión de tres a ocho años y de cuatrocientas a seiscientas días multa, cuando el valor de lo defraudado exceda de quinientas pero no de cinco mil veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV. Prisión de cinco a diez años y de setecientas a mil días multa, cuando el valor de lo defraudado exceda de cinco mil pero no de diez mil veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+V. Prisión de ocho a quince años y de mil a mil quinientas días multa, cuando el valor de lo defraudado exceda de diez mil veces el valor diario de la Unidad de Medida y Actualización; y,
 
 VI. Prisión de dos a ocho años y de doscientos a mil días multa, cuando no sea posible determinar su valor.
 
@@ -2475,13 +2515,21 @@ Daño en las cosas doloso
 
 A quien dolosamente destruya o deteriore una cosa ajena o propia en perjuicio de otro, se le impondrá las siguientes consecuencias jurídicas:
 
-I. De seis meses a un año de prisión y de veinte a sesenta días multa, cuando el valor del daño no exceda de veinte veces el salario mínimo o no sea posible determinar su valor;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. De uno a dos años de prisión y de ciento cincuenta a cuatrocientos días multa, cuando el valor del daño exceda de veinte veces el salario mínimo pero no de trescientas veces;
+I. De seis meses a un año de prisión y de veinte a sesenta días multa, cuando el valor del daño no exceda de veinte veces el valor diario de la Unidad de Medida y Actualización o no sea posible determinar su valor;
 
-III. De dos a tres años de prisión y de cuatrocientos a seiscientos días multa cuando el valor del daño exceda de trescientas pero no de setecientas cincuenta veces el salario mínimo; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-IV. De tres a siete años de prisión y de seiscientos a mil días multa, cuando el valor del daño exceda de setecientas cincuenta veces el salario mínimo.
+II. De uno a dos años de prisión y de ciento cincuenta a cuatrocientos días multa, cuando el valor del daño exceda de veinte veces el valor diario de la Unidad de Medida y Actualización pero no de trescientas veces;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. De dos a tres años de prisión y de cuatrocientos a seiscientos días multa cuando el valor del daño exceda de trescientas pero no de setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización; y,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV. De tres a siete años de prisión y de seiscientos a mil días multa, cuando el valor del daño exceda de setecientas cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 Este delito se perseguirá por querella.
 
@@ -2541,7 +2589,9 @@ Este delito se perseguirá por querella.
 
 Encubrimiento por receptación
 
-A quien después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, reciba, traslade, use u oculte el instrumento, objeto o producto del delito, siempre que tenga conocimiento de esta circunstancia, se le impondrá de seis meses a cinco años de prisión y de cien a doscientos días multa, siempre que el valor de cambio no exceda de quinientas veces el salario mínimo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+A quien después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, reciba, traslade, use u oculte el instrumento, objeto o producto del delito, siempre que tenga conocimiento de esta circunstancia, se le impondrá de seis meses a cinco años de prisión y de cien a doscientas días de multa, siempre que el valor de cambio no exceda de quinientas veces el valor de esta Unidad de medida de actualización.
 
 Si el valor es superior a quinientas veces el salario mínimo, se impondrá de dos a siete años de prisión y de trescientos a ochocientos días multa.
 
@@ -2717,7 +2767,9 @@ II. La persona que en calidad de servidor público y teniendo a su cargo fondos 
 
 A quien cometa el delito de uso ilegal de atribuciones y facultades se le impondrá de seis meses a cinco años de prisión y de quinientos a mil días multa.
 
-Cuando el monto de las operaciones exceda del equivalente a quinientas veces el salario mínimo vigente en el Estado al momento de cometerse el delito, se impondrá de dos a ocho años de prisión y de quinientos a mil días multa.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Cuando el monto de las operaciones exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse el delito, se impondrá de dos a ocho años de prisión y de quinientos a mil días multa.
 
 Cuando las conductas previstas en el artículo anterior produzcan beneficios económicos a la persona que tenga la calidad de servidor público, a su cónyuge, ascendientes o descendientes, concubina o concubinario, adoptante o adoptado, socios o sociedades de las que el servidor público o las personas antes referidas formen parte, se aumentarán las penas en una tercera parte.
 
@@ -2795,9 +2847,13 @@ Cohecho pasivo.
 
 A quien teniendo la calidad de servidor público, por sí o por interpósita persona, solicite o reciba indebidamente para sí o para otro, dinero o cualquier otra dádiva, o acepte una promesa para hacer o dejar de hacer algo relacionado con sus funciones, se le impondrá las siguientes sanciones:
 
-I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces el salario mínimo diario vigente en el Estado al momento de cometerse el delito, o no sea valuable, se impondrá de uno a tres años de prisión y de cincuenta a doscientos días multa; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces el salario mínimo diario vigente en el Estado al momento de cometerse el delito, se impondrá de dos a siete años de prisión y de doscientos a setecientos días multa.
+I. Cuando la cantidad o el valor de la dádiva o promesa no exceda del equivalente de quinientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse el delito, o no sea valuable, se impondrá de uno a tres años de prisión y de cincuenta a doscientas días de multa; y,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse el delito, se impondrá de dos a siete años de prisión y de doscientas a setecientas días de multa.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2016)</small>
 
@@ -2827,9 +2883,13 @@ II. Utilice fondos públicos u otorgue alguno de los actos a que se refiere el a
 
 Concusión
 
-A quien teniendo la calidad de servidor público, y con tal carácter, exija por sí o por interpósita persona a título de impuesto, derecho, aportación de depósito o contribución, recargo, renta, rédito, salario o emolumento, dinero, valores, servicios o cualquier otra cosa que sepa no es debida, o en mayor cantidad de la que señala la ley, se le impondrá de seis meses a dos años de prisión, de cien a trescientos días multa e inhabilitación de seis meses a tres años para desempeñar cargo, empleo o comisión en el servicio público, cuando el valor de los exigido no exceda de quinientas veces el salario mínimo o no se pueda determinar el monto.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Si el valor de lo exigido excede de quinientas veces el salario mínimo, se le impondrá de dos a seis años de prisión, de trescientos a novecientos días multa e inhabilitación hasta diez años para desempeñar cargo, empleo o comisión en el servicio público.
+A quien teniendo la calidad de servidor público, y con tal carácter, exija por sí o por interpósita persona a título de impuesto, derecho, aportación de depósito o contribución, recargo, renta, rédito, salario o emolumento, dinero, valores, servicios o cualquier otra cosa que sepa no es debida, o en mayor cantidad de la que señala la ley, se le impondrá de seis meses a dos años de prisión, de cien a trescientas días de multa e inhabilitación de seis meses a tres años para desempeñar cargo, empleo o comisión en el servicio público, cuando el valor de los (sic) exigido no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización o no se pueda determinar el monto.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Si el valor de lo exigido excede de quinientas veces el valor diario de la Unidad de Medida y Actualización, se le impondrá de dos a seis años de prisión, de trescientas a novecientas días de multa e inhabilitación hasta diez años para desempeñar cargo, empleo o comisión en el servicio público.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE AGOSTO DE 2016)</small>
 
@@ -3047,7 +3107,9 @@ Fraude procedimental
 
 A quien para obtener un beneficio económico, para sí o para otra persona, simule un acto jurídico, un acto o escrito judicial o altere elementos de prueba y los presente en juicio, o realice cualquier otro tendiente a inducir a error a la autoridad judicial o administrativa, con el fin de obtener sentencia, resolución o acto administrativo contrario a la ley, se le impondrá de seis meses a cinco años de prisión y de cien a trescientos días multa. Si el beneficio es económico, se impondrán las penas establecidas para el delito de fraude.
 
-Este delito se perseguirá por querella, salvo que la cuantía o monto exceda de cinco mil veces el salario mínimo general vigente en el Estado al momento de cometerse el hecho.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Este delito se perseguirá por querella, salvo que la cuantía o monto exceda de cinco mil veces el valor diario de la Unidad de Medida y Actualización al momento de cometerse el hecho.
 
 ### CAPÍTULO III. ABANDONO, NEGACIÓN Y PRÁCTICA INDEBIDA DEL SERVICIO MÉDICO
 
@@ -3110,6 +3172,8 @@ A quien con el propósito de imputar a alguien por la comisión de un delito, si
 Al servidor público que produzca pruebas que hagan probable la responsabilidad de una persona con el propósito de que se le impute un delito, se le aplicará prisión de seis a doce años.
 
 ### CAPÍTULO II. USO INDEBIDO DE LOS MEDIOS DE COMUNICACIÓN DE EMERGENCIA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 279.
 
@@ -3245,9 +3309,9 @@ Si alguno de los hechos a que se refiere este capítulo se ejecuta por medio de 
 
 ###### Artículo 291.
 
-Uso indebido de medios de comunicación de emergencia
+Uso indebido de medios de comunicación de emergencia.
 
-Al que haga uso indebido de los medios de comunicación de emergencia, reportando hechos falsos que provoquen la movilización y presencia de personal y unidades de respuesta, se aplicará una pena de cien a quinientos días de salario mínimo general vigente.
+Al que haga uso indebido de los medios de comunicación de emergencia, reportando hechos falsos que provoquen la movilización y presencia de personal y unidades de respuesta, se aplicará una pena de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 292.
 
@@ -3447,7 +3511,9 @@ La reparación del daño tratándose de delitos contra la ecología consistirá 
 
 Delitos contra el desarrollo urbano
 
-Se impondrá de cuatro a ocho años de prisión y multa de quinientos a dos mil días de salario mínimo general vigente, al que dolosamente promueva, fraccione, lotifique, relotifique o subdivida un terreno, sin autorización, permiso o licencia de la autoridad competente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Se impondrá de cuatro a ocho años de prisión y multa de quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización, al que dolosamente promueva, fraccione, lotifique, relotifique o subdivida un terreno, sin autorización, permiso o licencia de la autoridad competente.
 
 Igual pena se impondrá a quien promueva un asentamiento humano irregular.
 
@@ -3457,7 +3523,9 @@ La pena se incrementará hasta una tercera parte al que realice las conductas an
 
 Delito contra el desarrollo urbano calificado
 
-Se impondrá de cuatro a diez años de prisión y multa de mil a tres mil días de salario mínimo general vigente, al funcionario o servidor público que autorice un asentamiento humano irregular.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Se impondrá de cuatro a diez años de prisión y multa de mil a tres mil veces el valor diario de la Unidad de Medida y Actualización, al funcionario o servidor público que autorice un asentamiento humano irregular.
 
 La misma sanción se impondrá al fedatario público que en ejercicio de sus funciones dolosamente intervenga en un asentamiento humano irregular.
 
@@ -3465,7 +3533,9 @@ La misma sanción se impondrá al fedatario público que en ejercicio de sus fun
 
 Crueldad contra los animales
 
-Comete el delito de crueldad quien inflige daño físico a un animal, que no constituya plaga ni peligro para la salud o vida humana, con el único fin de lastimarlo o privarlo de la vida, y se le impondrán de seis meses a dos años de prisión y multa de cincuenta a quinientos días de salario mínimo general vigente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Comete el delito de crueldad quien inflige daño físico a un animal, que no constituya plaga ni peligro para la salud o vida humana, con el único fin de lastimarlo o privarlo de la vida, y se le impondrán de seis meses a dos años de prisión y multa de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 310.
 
@@ -3627,12 +3697,38 @@ P.O. 18 DE NOVIEMBRE DE 2016.
 
 P.O. 8 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 182 POR EL QUE "SE REFORMA EL ARTÍCULO 252 EN SU TÍTULO Y SE ADICIONA EL ARTÍCULO 252 BIS AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 182 POR EL QUE “SE REFORMA EL ARTÍCULO 252 EN SU TÍTULO Y SE ADICIONA EL ARTÍCULO 252 BIS AL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 P.O. 16 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 253 POR EL QUE "SE REFORMAN LAS FRACCIONES I, II Y III DEL ARTÍCULO 179 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 38 FRACCIÓN III; 193 PÁRRAFO PRIMERO, 195 PÁRRAFO PRIMERO, 197, 200 PÁRRAFO PRIMERO FRACCIONES I, II Y III Y PÁRRAFO SEGUNDO; 214 FRACCIONES I, II, III, IV Y V; 217 FRACCIONES I, II, III, IV Y V; 228 PÁRRAFO PRIMERO FRACCIONES I, II, III Y IV; 233, 248 PÁRRAFO SEGUNDO, 252 FRACCIONES I Y II; 254, 271 PÁRRAFO SEGUNDO, 291, 307 PÁRRAFO PRIMERO, 308 PÁRRAFO PRIMERO Y 309 DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. TRANSITORIO ÚNICO DEL DECRETO NÚMERO 288 POR EL QUE "SE ADICIONA EL ARTÍCULO 177 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]</small>
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
