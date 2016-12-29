@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-el-desarrollo-y-proteccion-de-las-madres-jefas-de-8572
 country: "mx"
 rank: "ley"
 publication_date: "2012-02-01"
-last_updated: "2016-08-22"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA EL DESARROLLO Y PROTECCIÓN DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Décima Tercera Sección del Periódico Oficial del Estado de Michoacán, el miércoles 1 de febrero de 2012.
 
@@ -63,11 +63,11 @@ IV. Secretaría: La Secretaría de la Mujer en el Estado; y,
 
 V. Sistema: Es el Sistema Estatal de Desarrollo y Protección de las Madres Jefas de Familia, conformado por la Secretaría de la Mujer en coordinación con las distintas dependencias y entidades de la Administración Pública Estatal.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 3°.
 
-Para los efectos de esta Ley, se consideran madres jefas de familia, las personas que tengan a su cargo hijos menores de edad, o que sin ser madre de ellos, acrediten jurídicamente que tienen a su cargo a uno o varios menores de edad y sean las únicas proveedoras del sustento familiar, no sean beneficiarias de otros apoyos, no perciban ingresos o percibiéndolos, comprobables o no, no sean mayores a dos salarios mínimos.
+Para los efectos de esta Ley, se consideran madres jefas de familia, las mujeres que tengan a su cargo hijos menores de edad, sean las únicas proveedoras del sustento familiar, no sean beneficiarias de otros apoyos, no perciban ingresos o percibiéndolos, comprobables o no, no sean mayores a dos veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 4°.
 
@@ -131,9 +131,11 @@ En el Presupuesto de Egresos del Estado de cada ejercicio fiscal, se asignarán 
 
 ### CAPÍTULO IV. DERECHO AL APOYO ECONÓMICO MENSUAL
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 9°.
 
-Las madres jefas de familia recibirán un apoyo económico mensual, no menor a diez días de salario mínimo general diario vigente en el Estado, hasta por seis meses.
+Las madres jefas de familia recibirán un apoyo económico mensual, no menor a diez veces el valor diario de la Unidad de Medida y Actualización, hasta por seis meses.
 
 ###### ARTÍCULO 10.
 
@@ -280,3 +282,23 @@ P.O. 22 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO 164 POR EL QUE "SE REFORMA EL ARTÍCULO 3º DE LA LEY PARA EL DESARROLLO Y PROTECCIÓN DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 3 Y 9 DE LA LEY PARA EL DESARROLLO Y PROTECCIÓN DE LAS MADRES JEFAS DE FAMILIA DEL ESTADO DE MICHOACÁN DE OCAMPO.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
