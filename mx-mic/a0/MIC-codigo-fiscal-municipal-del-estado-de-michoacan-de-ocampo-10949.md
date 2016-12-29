@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-municipal-del-estado-de-michoacan-de-ocampo-10949
 country: "mx"
 rank: "codigo"
 publication_date: "1997-08-25"
-last_updated: "2011-12-29"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 25 de agosto de 1997.
 
@@ -205,7 +205,7 @@ Las contribuciones, así como las devoluciones a cargo del Fisco Municipal, no s
 
 En los casos en que el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no se haya dado a conocer por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 20.
 
@@ -815,9 +815,9 @@ A quien cometa las infracciones relacionadas con el ejercicio de las facultades 
 
 I.- De uno a tres tantos del monto de la contribución omitida, si hubo evasión de la misma y puede precisarse su monto; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II.- En caso contrario, se impondrán multas del equivalente a 30 o 45 días de salario mínimo general vigente en el Estado de Michoacán, por cada una de las infracciones señaladas en el artículo anterior.
+II. En caso contrario, se impondrán multas del equivalente a 30 o 45 veces el valor diario de la Unidad de Medida y Actualización, por cada una de las infracciones señaladas en el artículo anterior.
 
 ###### ARTICULO 63.
 
@@ -835,13 +835,13 @@ IV.- Exigir una prestación que no esté prevista en la Ley, aún cuando se apli
 
 A quien cometa las infracciones a las disposiciones fiscales municipales a que se refiere el artículo anterior, se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-I. Del equivalente de 75 a 113 días de salario mínimo general vigente en el Estado de Michoacán, a las comprendidas en las fracciones I y II; y,
+I. Del equivalente de 75 a 113 45 (sic) veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones I y II; y,
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Del equivalente de 200 a 300 días de salario mínimo general vigente en el Estado de Michoacán, a las comprendidas en las fracciones III y IV.
+II. Del equivalente de 200 a 300 veces el valor de la Unidad de Medida y Actualización, a las comprendidas en las fracciones III y IV.
 
 ###### ARTICULO 65.
 
@@ -851,11 +851,11 @@ I.- Colaborar a la alteración de cuentas o asentar datos falsos en los document
 
 II.- Ser cómplice en cualquier forma no prevista, en la comisión de infracciones a las leyes fiscales municipales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 66.
 
-A quien cometa cualquiera de las infracciones señaladas en el artículo anterior, se le impondrá multa del equivalente de 200 a 300 días de salario mínimo general vigente en el Estado de Michoacán.
+A quien cometa cualquiera de las infracciones señaladas en el artículo anterior, se le impondrá multa del equivalente de 200 a 300 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 67.
 
@@ -875,9 +875,9 @@ V.- No entregar el boletaje resellado sobrante a la Tesorería, por conducto del
 
 A quien cometa las infracciones a que se refiere el artículo anterior, se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-I. A las comprendidas en las fracciones I y II del equivalente de 5 a 8 días de salario mínimo general vigente en el Estado de Michoacán;
+I. A las comprendidas en las fracciones I y II del equivalente de 5 a 8 veces el valor diario de la Unidad de Medida y Actualización;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -907,31 +907,31 @@ A quien cometa las infracciones señaladas en el artículo anterior, se aplicara
 
 I.- Por lo que se refiere al Impuesto Predial, cuando se dé el supuesto previsto en la fracción I:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-A) Tratándose de predios urbanos con cuota mínima anual, el equivalente de 2 a 3 días de salario mínimo general vigente en el Estado de Michoacán;
+A) Tratándose de predios urbanos con cuota mínima anual, el equivalente de 2 a 3 veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-B) Tratándose de predios rústicos con cuota mínima anual, el equivalente de 1 a 2 días de salario mínimo general vigente en el Estado de Michoacán; y,
+B) Tratándose de predios rústicos con cuota mínima anual, el equivalente de 1 a 2 veces el valor diario de la Unidad de Medida y Actualización; y,
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-C) Tratándose de predios urbanos y rústicos respecto de los cuales el pago se haga bimestralmente, el equivalente de 1 a 2 días de salario mínimo general vigente en el Estado de Michoacán, por bimestre omitido.
+C) Tratándose de predios urbanos y rústicos respecto de los cuales el pago se haga bimestralmente, el equivalente de 1 a 2 veces el valor diario de la Unidad de Medida y Actualización, por bimestre omitido.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Por lo que se refiere al Impuesto sobre adquisición de inmuebles, a las comprendidas en las fracciones I y Il, el equivalente de 4 a 6 días de salario mínimo general vigente en el Estado de Michoacán.
+II. Por lo que se refiere al Impuesto sobre adquisición de inmuebles, a las comprendidas en las fracciones I y II, el equivalente de 4 a 6 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 71.
 
 Es infracción relacionada con los derechos por suministro de agua potable, alcantarillado y saneamiento, independientemente de las que se cometan por infracción a las disposiciones administrativas, no efectuar el pago dentro del plazo que establezcan las disposiciones respectivas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 72.
 
-A quienes cometan la infracción señalada en el artículo anterior, se aplicará una multa equivalente de 1 a 2 días de salario mínimo general vigente en el Estado de Michoacán, cuando el periodo de pago sea bimestral y del 50 % de 1 día, o 2 días, de dicho salario, según sea el caso, cuando el periodo de pago sea mensual. Por periodo omitido.
+A quienes cometan la infracción señalada en el artículo anterior, se aplicará una multa equivalente de 1 a 2 veces el valor diario de la Unidad de Medida y Actualización, cuando el periodo de pago sea bimestral y del 50 % de 1 o 2 veces de dicha Unidad, según sea el caso, cuando el periodo de pago sea mensual. Por periodo omitido.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -969,7 +969,9 @@ Por los delitos fiscales no se impondrán sanciones pecuniarias en el proceso pe
 
 Para proceder penalmente contra los presuntos responsables de los delitos fiscales previstos en este capítulo, será necesario que el Ayuntamiento presente querella ante el Ministerio Público.
 
-No procederá la querella a que se refiere el párrafo anterior, si las contribuciones omitidas, incluyendo el monto de las sanciones impuestas por infracciones al presente Código, no excede del equivalente a 100 días de salario mínimo general vigente en el Estado de Michoacán.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+No procederá la querella a que se refiere el párrafo anterior, si las contribuciones omitidas, incluyendo el monto de las sanciones impuestas por infracciones al presente Código, no excede del equivalente a 100 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 76.
 
@@ -1061,7 +1063,9 @@ VI.- Al depositario o interventor designado por las autoridades fiscales, que co
 
 A quienes incurran en el delito de defraudación fiscal, se les impondrán las siguientes sanciones:
 
-I.- Prisión de uno a cinco años en los casos de las fracciones I a IV del artículo anterior, si el monto de lo que se defraudó o intentó defraudar excede de 100 días de salario mínimo general vigente en el Estado de Michoacán; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I.- Prisión de uno a cinco años en los casos de las fracciones I a IV del artículo anterior, si el monto de lo que se defraudó o intentó defraudar excede de 100 veces el valor diario de la Unidad de Medida y Actualización; y
 
 II.- Prisión de tres días a tres años en el caso de las fracciones V y VI del artículo anterior, independientemente de las sanciones que les correspondan, si sus actos u omisiones constituyen delito diferente al previsto en el artículo anterior.
 
@@ -1069,9 +1073,11 @@ II.- Prisión de tres días a tres años en el caso de las fracciones V y VI del
 
 La determinación de la cantidad a que se refiere el artículo anterior en su fracción I, se hará tomando en cuenta lo defraudado o lo que se intentó defraudar dentro de un mismo período fiscal, aún cuando se trate de diferentes acciones y omisiones de las previstas con anterioridad y aunque la defraudación haya versado sobre contribuciones diferentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 89.
 
-Se impondrá sanción de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales municipales que, en perjuicio del Fisco Municipal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 500 veces el salario mínimo general vigente en el Estado de Michoacán; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales municipales que, en perjuicio del Fisco Municipal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 500 veces el valor diario de la Unidad de Medida y Actualización; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad fiscal municipal competente.
 
@@ -1303,9 +1309,11 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios que establezca este Código.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 115.
 
-Cuando se deje sin efecto una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el salario mínimo general vigente en el Estado de Michoacán.
+Cuando se deje sin efecto una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 116.
 
@@ -1445,9 +1453,13 @@ II.- Por la de embargo a que se refiere la fracción I del artículo 131 de este
 
 III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco municipal, a que se refiere la fracción I del artículo 131 del presente ordenamiento.
 
-Cuando en los casos de las fracciones anteriores, el 3% del crédito sea inferior a un día de salario mínimo general vigente en el Estado de Michoacán, se cobrará éste en lugar del 3% del crédito.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general vigente en el Estado de Michoacán elevado al año.
+Cuando en los casos de las fracciones anteriores, el 3% del crédito sea inferior a una vez el valor diario de la Unidad de Medida y Actualización, se cobrará éste en lugar del 3% del crédito.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a una vez el valor diario de la Unidad de Medida y Actualización, elevado al año.
 
 Para los efectos del penúltimo párrafo de este artículo, las autoridades fiscales, determinarán y cobrarán el monto de las erogaciones extraordinarias que deba pagar el contribuyente, acompañando copia de los documentos que acrediten dicho monto.
 
@@ -1473,7 +1485,9 @@ I.- Embargar bienes suficientes para, en su caso, rematarlos, enajenarlos fuera 
 
 II.- Embargar negociaciones con todo lo que de hecho y por derecho les corresponda, a fin de obtener, mediante la intervención de ellas, los ingresos necesarios que permitan satisfacer el crédito fiscal y los accesorios legales.
 
-El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género, se inscribirá en el Registro Público que corresponda, en atención a la naturaleza de los bienes o derechos de que se trate, siempre y cuando su valor supere el equivalente a diez días de salario mínimo general vigente en el Estado de Michoacán, elevado al año.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier género, se inscribirá en el Registro Público que corresponda, en atención a la naturaleza de los bienes o derechos de que se trate, siempre y cuando su valor supere el equivalente a diez veces el valor diario de la Unidad de Medida y Actualización, elevado al año.
 
 Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público que corresponda, en todas ellas se inscribirá el embargo.
 
@@ -1693,7 +1707,9 @@ V.- Cuando el dictamen rendido por el perito del embargado resulte diferente en 
 
 El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a la determinación del precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos diez días antes de la fecha del remate.
 
-Si se trata de bienes muebles cuyo valor no exceda de diez veces el salario mínimo general vigente en el Estado de Michoacán, elevado al año, vigente en el Estado la convocatoria se fijará en sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Si se trata de bienes muebles cuyo valor no exceda de diez veces el valor diario de la Unidad de Medida y Actualización, elevado al año, vigente en el Estado la convocatoria se fijará en sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
 
 Cuando el valor pericial de bienes muebles e inmuebles exceda del monto a que se refiere el párrafo anterior, la convocatoria se publicará además en el Periódico Oficial del Estado y en el periódico de mayor circulación de la Entidad.
 
@@ -1839,15 +1855,21 @@ Los plazos para el remate se contarán sin interrupción a partir del día sigui
 
 I.- Tratándose de semovientes:
 
-a). - Si el valor de cada animal no excede de cinco días de salario mínimo general vigente en el Estado de Michoacán, el plazo para el remate será de cinco días;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+a).- Si el valor de cada animal no excede de cinco veces el valor diario de la Unidad de Medida y Actualización, el plazo para el remate será de cinco días;
 
 b). - Si es mayor de la cantidad anterior, el plazo será de diez días; y
 
 II.- Tratándose de otra clase de muebles:
 
-a). - Si el valor es hasta de cinco días de salario mínimo general vigente en el Estado de Michoacán, el plazo para el remate será de diez días;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-b). - Si excede de cinco días de salario mínimo general vigente en el Estado de Michoacán, el plazo será de quince días.
+a).- Si el valor es hasta de cinco veces el valor diario de la Unidad de Medida y Actualización, el plazo para el remate será de diez días;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+b).- Si excede de cinco veces el valor diario de la Unidad de Medida y Actualización, el plazo será de quince días.
 
 ###### ARTICULO 181.
 
@@ -1917,7 +1939,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA A LA PRESENTE LEY.</small>
 
 P.O. 30 DE DICIEMBRE DE 1999.
 
@@ -1948,3 +1970,23 @@ El presente Decreto, entrará en vigor el día 1° de enero de 2012, previa su p
 ###### ARTÍCULO SEGUNDO.
 
 Dése cuenta a los Ayuntamientos del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 62 FRACCIÓN II, 64 FRACCIONES I Y II; 66, 68 PÁRRAFO PRIMERO FRACCIÓN I; 70 FRACCIONES I INCISOS A), B), C) Y II; 72, 75 PÁRRAFO SEGUNDO, 87 FRACCIÓN I; 89 PÁRRAFO PRIMERO, 115, 130 PÁRRAFOS SEGUNDO Y TERCERO, 131 PÁRRAFO SEGUNDO, 156 PÁRRAFO SEGUNDO, 180 FRACCIONES I INCISO A) Y II INCISOS A) Y B); DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
