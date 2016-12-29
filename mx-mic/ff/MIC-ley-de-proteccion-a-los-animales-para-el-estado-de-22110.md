@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-a-los-animales-para-el-estado-de-22110"
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-11"
-last_updated: "1988-07-11"
+last_updated: "2016-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
-Ley publicada en la Sección Segunda del Periódico Oficial, el lunes11 de julio de 1988.
+Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 11 de julio de 1988.
 
 LUIS MARTINEZ VILLICAÑA, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
@@ -301,17 +301,21 @@ Es responsable de las faltas previstas en esta Ley cualquier persona que partici
 
 Los ascendientes, tutor o encargados de menores serán responsables de las faltas que éstos cometan.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 39.
 
-Las infracciones a lo dispuesto en esta Ley se sancionará (sic) por la Comisión Estatal de Protección a los Animales, con multa de uno a tres veces el salario mínimo general vigente, en el lugar y tiempo en que se cometa la infracción o arresto hasta por veinticuatro horas, según la gravedad de la falta, la intención con la que fue cometida y las consecuencias a que haya dado lugar.
+Las infracciones a lo dispuesto en esta Ley se sancionarán por la Comisión Estatal de Protección a los Animales, con multa de una a tres veces el valor diario de la Unidad de Medida y Actualización, en el lugar y tiempo en que se cometa la infracción o arresto hasta por veinticuatro horas, según la gravedad de la falta, la intención con la que fue cometida y las consecuencias a que haya dado lugar.
 
-A los reincidentes se les castigará con multa de tres a cinco veces el salario mínimo general vigente, en el lugar y tiempo en que se cometió la infracción o arresto hasta por treinta y seis horas.
+A los reincidentes se les castigará con multa de tres a cinco veces el valor diario de la Unidad de Medida y Actualización, en el lugar y tiempo en que se cometió la infracción o arresto hasta por treinta y seis horas.
 
-En el caso de que las infracciones hayan sido cometidas por personas que ejerzan cargos de dirección en instituciones científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de malos tratos, o sean propietarios de vehículos exclusivamente destinados al transporte de éstos, la multa será de tres a diez veces el salario mínimo general vigente, en el lugar y tiempo en que se cometa la infracción o arresto hasta por treinta y seis horas.
+En el caso de que las infracciones hayan sido cometidas por personas que ejerzan cargos de dirección en instituciones científicas o directamente vinculadas con la explotación y cuidado de los animales víctimas de malos tratos, o sean propietarios de vehículos exclusivamente destinados al transporte de éstos, la multa será de tres a diez veces el valor diario de la Unidad de Medida y Actualización, en el lugar y tiempo en que se cometa la infracción o arresto hasta por treinta y seis horas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 40.
 
-Cuando un médico veterinario, por incapacidad o negligencia manifiesta, cause la muerte de un animal, tendrá que entregar a su propietario otro de la misma especie y clase, y se hará acreedor a una sanción equivalente de tres a diez veces el salario mínimo general vigente, en el lugar y tiempo en que se cometa la infracción.
+Cuando un médico veterinario, por incapacidad o negligencia manifiesta, cause la muerte de un animal, tendrá que entregar a su propietario otro de la misma especie y clase, y se hará acreedor a una sanción equivalente de tres a diez veces el valor diario de la Unidad de Medida y Actualización, en el lugar y tiempo en que se cometa la infracción.
 
 ###### Artículo 41.
 
@@ -345,7 +349,7 @@ I. Jefatura de Servicios Coordinados de Salud Pública;
 
 II. Secretaría de Desarrollo Agropecuario y Forestal;
 
-III . Secretaría de Turismo;
+III. Secretaría de Turismo;
 
 IV. Dirección de Seguridad Pública y Tránsito;
 
@@ -386,3 +390,25 @@ PALACIO DEL PODER LEGISLATIVO. Morelia, Michoacán de Ocampo, a 23 de junio de 1
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 29 veintinueve días del mes de junio de 1988, mil novecientos ochenta y ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LUIS MARTINEZ VILLICAÑA.- EL SECRETARIO DE GOBIERNO.- JAIME GENOVEVO FIGUEROA ZAMUDIO.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 39 Y 40 DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
