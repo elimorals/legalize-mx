@@ -4,7 +4,7 @@ identifier: "MIC-ley-inquilinaria-del-estado-de-michoacan-6128"
 country: "mx"
 rank: "ley"
 publication_date: "1984-12-24"
-last_updated: "2010-11-09"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY INQUILINARIA DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial, el lunes 24 de diciembre de 1984.
 
@@ -45,11 +45,11 @@ Esta Ley tiene por objeto regir dentro del territorio del Estado, el arrendamien
 
 Se declaran de orden público las disposiciones de esta Ley e irrenunciables los beneficios que consagra.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 3o.
 
-El contrato de arrendamiento, para su validez deberá otorgarse por escrito, cuando la renta pase de quinientos días de salario mínimo anual, pudiendo las partes registrarlo ante la Oficina Rentística del lugar, salvo cuando el periodo del arrendamiento sea mayor a seis años o cuando hubiere anticipos de rentas por más de tres, en cuyo caso será obligatoria su inscripción en el Registro Público de la Propiedad del distrito registral que corresponda, en los términos del Código Civil para el Estado de Michoacán. En él deberá constar el monto de la renta en moneda nacional y contener cuando menos las siguientes estipulaciones:
+El contrato de arrendamiento, para su validez deberá otorgarse por escrito, cuando la renta pase de quinientas veces el valor diario de la Unidad de Medida y Actualización anual, pudiendo las partes registrarlo ante la Oficina Rentística del lugar, salvo cuando el periodo del arrendamiento sea mayor a seis años o cuando hubiere anticipos de rentas por más de tres, en cuyo caso será obligatoria su inscripción en el Registro Público de la Propiedad del distrito registral que corresponda, en los términos del Código Civil para el Estado de Michoacán. En él deberá constar el monto de la renta en moneda nacional y contener cuando menos las siguientes estipulaciones:
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 1986)</small>
 
@@ -330,3 +330,23 @@ Notifíquese este Decreto al Titular del Poder Ejecutivo del Estado, para los ef
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL ARTÍCULO 3° DE LA LEY INQUILINARIA DEL ESTADO DE MICHOACÁN.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
