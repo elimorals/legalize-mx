@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-de-ocampo-105160"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2015-01-23"
+last_updated: "2016-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE CATASTRO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 23 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el martes 30 de diciembre de 2014.
 
@@ -139,7 +137,9 @@ Hasta en tanto el Congreso del Estado, no apruebe nuevos valores unitarios de te
 
 Cuando, como resultado de las operaciones a que se refiere el párrafo anterior, se obtengan cantidades en fracción monetaria, las mismas se ajustarán a la unidad monetaria más próxima.
 
-Ningún predio podrá inscribirse en el padrón catastral, con valor menor al importe de 25 días de salario mínimo vigente en el Estado, si es urbano y 12 días de salario mínimo vigente si es rústico.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Ningún predio podrá inscribirse en el padrón catastral, con valor menor al importe de 25 veces el valor diario de la Unidad de Medida y Actualización, si es urbano y 12 si es rústico.
 
 ###### ARTÍCULO 11.
 
@@ -263,7 +263,9 @@ El valor catastral determinado en un avalúo practicado por las Autoridades Cata
 
 La Secretaría de Finanzas y Administración podrá autorizar Peritos Valuadores de bienes inmuebles, mismos que deberán inscribirse en el registro de valuadores, previo cumplimiento de los requisitos establecidos en el Reglamento de esta Ley.
 
-Para garantizar el cumplimiento de su responsabilidad, los Peritos Valuadores Autorizados deberán otorgar fianza a favor de la Secretaría, por el equivalente a 500 días de salario mínimo vigente en la entidad, la que se otorgará en alguna de las formas que establece el artículo 120 del Código Fiscal del Estado de Michoacán de Ocampo.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Para garantizar el cumplimiento de su responsabilidad, los Peritos Valuadores Autorizados deberán otorgar fianza a favor de la Secretaría, por el equivalente a 500 veces el valor diario de la Unidad de Medida y Actualización, la que se otorgará en alguna de las formas que establece el artículo 120 del Código Fiscal del Estado de Michoacán de Ocampo.
 
 A los Peritos Valuadores Autorizados por la Secretaría, que no apliquen correctamente el procedimiento de valuación conforme a lo establecido en el Reglamento de esta Ley, les será suspendida su autorización sin perjuicio de las sanciones fiscales o penales en que incurran.
 
@@ -377,11 +379,17 @@ Las Autoridades Catastrales deberán declarar de oficio la prescripción, en tod
 
 Los infractores de la presente Ley y su Reglamento, serán sancionados por las Autoridades Catastrales que correspondan, de conformidad con las disposiciones siguientes:
 
-I. Los infractores de las fracciones I, III y IV del artículo anterior, se harán acreedores a una multa equivalente al monto de 5 días de salario mínimo general correspondiente al Estado de Michoacán de Ocampo, vigente en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. A los que incurran en las infracciones establecidas en las fracciones II y VII del artículo anterior se les aplicará una multa equivalente al monto de 10 días de salario mínimo general, correspondiente al Estado de Michoacán de Ocampo, vigente en el momento de imponer la sanción;
+I. Los infractores de las fracciones I, III y IV del artículo anterior, se harán acreedores a una multa equivalente al monto de 5 veces el valor diario de la Unidad de Medida y Actualización, vigente en el momento de imponer la sanción;
 
-III. A quienes incurran en las infracciones previstas en las fracciones V y VI del artículo anterior, se les aplicará una multa equivalente al monto de 15 días de salario mínimo general correspondiente al Estado de Michoacán de Ocampo, vigente en el momento de imponer la sanción;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. A los que incurran en las infracciones establecidas en las fracciones II y VII del artículo anterior se les aplicará una multa equivalente al monto de 10 veces el valor diario de la Unidad de Medida y Actualización, vigente en el momento de imponer la sanción;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. A quienes incurran en las infracciones previstas en las fracciones V y VI del artículo anterior, se les aplicará una multa equivalente al monto de 15 veces el valor diario de la Unidad de Medida y Actualización, vigente en el momento de imponer la sanción;
 
 IV. Cuando con motivo de la comisión de alguna de las infracciones a que se refiere el artículo anterior, se propicie que no se paguen los impuestos predial o sobre adquisición de inmuebles conforme a la Ley, se impondrá al infractor una multa equivalente a dos tantos de las contribuciones omitidas.
 
@@ -533,9 +541,11 @@ V. Último pago realizado por concepto de impuesto predial; y,
 
 VI. Cualquier otro dato que a su juicio pueda influir en el trámite respectivo,
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 67.
 
-Los Presidentes Municipales, Agentes del Ministerio Público y demás autoridades registrales o fiscales, están obligados a proporcionar los informes que sobre el particular les soliciten los Recaudadores de Rentas. En el caso de que no los proporcionen serán sancionados por el Ejecutivo del Estado con una multa equivalente a 30 días de salario mínimo general correspondiente al Estado de Michoacán de Ocampo, vigente al momento de la imposición de ésta.
+Los Presidentes Municipales, Agentes del Ministerio Público y demás autoridades registrales o fiscales, están obligados a proporcionar los informes que sobre el particular les soliciten los Recaudadores de Rentas. En el caso de que no los proporcionen serán sancionados por el Ejecutivo del Estado con una multa equivalente a 30 veces el valor diario de la Unidad de Medida y Actualización, vigente al momento de la imposición de ésta.
 
 ###### ARTÍCULO 68.
 
@@ -644,3 +654,25 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la Residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a 30 treinta días del mes de diciembre del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARÍO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 10 PÁRRAFO ÚLTIMO, 29 PÁRRAFO SEGUNDO. 41 PÁRRAFO PRIMERO FRACCIONES I, II Y III Y 67 DE LA LEY DE CATASTRO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
