@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2016-12-16"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -5167,49 +5167,87 @@ Cuando con una sola acción se violen dos o más disposiciones de las comprendid
 
 Son infracciones a este Código y sus correspondientes sanciones las siguientes:
 
-I. Quienes violenten lo dispuesto en lo (sic) programas de desarrollo urbano y sus declaratorias, se harán acreedores a una sanción de 600 a 900 veces salario mínimo diario vigente en la zona donde se cometa la infracción, en caso de reincidencia se duplicará la sanción;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. A quienes no cumplan con la obligación de proporcionar los informes que le solicite la autoridad competente, o lo haga con falsedad o fuera del plazo que se les hubiere concedido, se harán acreedores a una multa de 50 a 100 veces el salario mínimo diario vigente en la zona donde se cometa la infracción, en caso de reincidencia se duplicará la sanción;
+I. Quienes violenten lo dispuesto en los programas de desarrollo urbano y sus declaratorias, se harán acreedores a una sanción de 600 a 900 veces el valor diario de la Unidad de Medida y Actualización, en caso de reincidencia se duplicará la sanción;
 
-III. A los que den un uso distinto o construyan obras diferentes o con especificaciones distintas a las aprobadas y autorizadas por el Ayuntamiento, se les impondrá una sanción de 900 a 1,200 veces el salario mínimo diario vigente en la zona donde se cometa la infracción, o hasta del diez por ciento del valor de la obra ejecutada;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-IV. A los que realicen edificaciones de las que requieran aprobación o autorización previa sin haberla obtenido, se les aplicará una sanción de 2,000 a 3,000 veces el salario mínimo diario vigente de la zona donde se cometa la infracción, o hasta el diez por ciento del valor de la obra ejecutada;
+II. A quienes no cumplan con la obligación de proporcionar los informes que le solicite la autoridad competente, o lo haga con falsedad o fuera del plazo que se les hubiere concedido, se harán acreedores a una multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización, en caso de reincidencia se duplicará la sanción;
 
-V. A los que realicen edificaciones sin cumplir con las normas técnicas, especificaciones o diseño del proyecto aprobado, se les impondrá una sanción equivalente de 2,000 a 3 ,000 veces el salario mínimo diario vigente de la zona donde se cometa la infracción, o hasta el veinte por ciento del valor de la obra ejecutada;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-VI. A quienes no acaten la orden de suspender la construcción de una edificación o cumplir con una medida de seguridad, se les aplicará una sanción de 2,000 a 3,000 veces el salario mínimo diario vigente de la zona donde se cometa la infracción;
+III. A los que den un uso distinto o construyan obras diferentes o con especificaciones distintas a las aprobadas y autorizadas por el Ayuntamiento, se les impondrá una sanción de 900 a 1,200 veces el valor diario de la Unidad de Medida y Actualización, o hasta del diez por ciento del valor de la obra ejecutada;
 
-VII. A los que lleven a efecto la apertura, ampliación, prolongación, rectificación o clausura de una validad, sin tener la autorización correspondiente, se les aplicará una sanción de 900 a 1,200 veces el salario mínimo diario vigente donde se cometa la infracción;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-VIII. A los que lleven a efecto obras de cableado subterráneo en una validad, sin tener la autorización correspondiente, se les aplicará una sanción de 500 a 800 veces el salario mínimo diario vigente donde se cometa la infracción;
+IV. A los que realicen edificaciones de las que requieran aprobación o autorización previa sin haberla obtenido, se les aplicará una sanción de 2,000 a 3,000 veces el valor diario de la Unidad de Medida y Actualización, o hasta el diez por ciento del valor de la obra ejecutada;
 
-IX. Al que impida la inspección de un predio, obra en proceso, edificación o urbanización, se le impondrá una sanción de 900 a 1,200 veces el salario mínimo diario vigente en la zona donde se cometa la infracción;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-X. Al que realice una edificación o urbanización, fusione o subdivida un predio, con el deliberado propósito de impedir u obstruir un servicio público o una servidumbre, se le impondrá una sanción equivalente de 600 a 900 veces el salario mínimo diario vigente en la zona donde se cometa la infracción, independientemente de las medidas de seguridad que se ordenen en caso de ser necesarias;
+V. A los que realicen edificaciones sin cumplir con las normas técnicas, especificaciones o diseño del proyecto aprobado, se les impondrá una sanción equivalente de 2,000 a 3,000 veces el valor diario de la Unidad de Medida y Actualización, o hasta el veinte por ciento del valor de la obra ejecutada;
 
-XI. Al que por medio de edificaciones o cualquier otro obstáculo impida o trate de impedir después de ser requerido para ello, la realización de una obra, acción o servicio derivada de un programa de desarrollo urbano, se le impondrá una sanción equivalente de 3,500 a 5,000 veces el salario mínimo diario vigente de la zona donde se cometa la infracción; o,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-XII. Al que altere, rectifique o modifique planos aprobados de obras o construcciones sin permiso u orden de la autoridad competente, se le impondrá una sanción de 900 a 1,200 veces el salario mínimo diario vigente en la zona donde se cometa la infracción, sin perjuicio de la querella o denuncia penal correspondiente ante la autoridad competente, en caso de delito.
+VI. A quienes no acaten la orden de suspender la construcción de una edificación o cumplir con una medida de seguridad, se les aplicará una sanción de 2,000 a 3,000 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+VII. A los que lleven a efecto la apertura, ampliación, prolongación, rectificación o clausura de una validad (sic), sin tener la autorización correspondiente, se les aplicará una sanción de 900 a 1,200 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+VIII. A los que lleven a efecto obras de cableado subterráneo en una validad (sic), sin tener la autorización correspondiente, se les aplicará una sanción de 500 a 800 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IX. Al que impida la inspección de un predio, obra en proceso, edificación o urbanización, se le impondrá una sanción de 900 a 1,200 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+X. Al que realice una edificación o urbanización, fusione o subdivida un predio, con el deliberado propósito de impedir u obstruir un servicio público o una servidumbre, se le impondrá una sanción equivalente de 600 a 900 veces el valor diario de la Unidad de Medida y Actualización, independientemente de las medidas de seguridad que se ordenen en caso de ser necesarias;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XI. Al que por medio de edificaciones o cualquier otro obstáculo impida o trate de impedir después de ser requerido para ello, la realización de una obra, acción o servicio derivada de un programa de desarrollo urbano, se le impondrá una sanción equivalente de 3,500 a 5,000 veces el valor diario de la Unidad de Medida y Actualización; o,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XII. Al que altere, rectifique o modifique planos aprobados de obras o construcciones sin permiso u orden de la autoridad competente, se le impondrá una sanción de 900 a 1,200 veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de la querella o denuncia penal correspondiente ante la autoridad competente, en caso de delito.
 
 ###### ARTÍCULO 443.
 
 Son infracciones en materia de Desarrollos y desarrollo en condominio y las sanciones que a ellas corresponden, las siguientes:
 
-I. A los que realicen obras de urbanización sin la aprobación o la autorización correspondiente, se les aplicará una sanción de 2,500 a 3,500 veces el salario mínimo diario que rija en la zona donde se cometa la infracción;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. A quienes realicen obras de urbanización sin sujetarse a las especificaciones y diseño contenidos en la autorización definitiva, se les impondrá una sanción de 1,000 a 2,000 veces salario mínimo diario que rija en la zona donde se cometa la infracción;
+I. A los que realicen obras de urbanización sin la aprobación o la autorización correspondiente, se les aplicará una sanción de 2,500 a 3,500 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. A quienes habiendo realizado obras sin ajustarse a las especificaciones y diseño contenidos en la autorización definitiva, no lleven a efecto los cambios o modificaciones ordenados por la autoridad competente, se les impondrá una sanción de 350 a 500 veces el salario mínimo diario que rija en la zona donde se cometa la infracción, así como corregir las anomalías en las que haya incurrido;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-IV. A quienes no acaten la orden de suspensión de las obras de urbanización, cualesquiera que fuera la causa de suspensión, se les impondrá una sanción de 600 a 900 veces el salario mínimo diario que rija en la zona donde se cometa la infracción;
+II. A quienes realicen obras de urbanización sin sujetarse a las especificaciones y diseño contenidos en la autorización definitiva, se les impondrá una sanción de 1,000 a 2,000 veces el valor diario de la Unidad de Medida y Actualización;
 
-V. A quienes no acudan a las citaciones sin causa justificada a criterio de la autoridad competente, en la hora y día indicado en las mismas, se les aplicará de 10 a 50 veces salario mínimo diario que rija en la zona donde se cometa la infracción;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. A quienes habiendo realizado obras sin ajustarse a las especificaciones y diseño contenidos en la autorización definitiva, no lleven a efecto los cambios o modificaciones ordenados por la autoridad competente, se les impondrá una sanción de 350 a 500 veces el valor diario de la Unidad de Medida y Actualización, así como corregir las anomalías en las que haya incurrido;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV. A quienes no acaten la orden de suspensión de las obras de urbanización, cualesquiera que fuera la causa de suspensión, se les impondrá una sanción de 600 a 900 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+V. A quienes no acudan a las citaciones sin causa justificada a criterio de la autoridad competente, en la hora y día indicado en las mismas, se les aplicará de 10 a 50 veces el valor diario de la Unidad de Medida y Actualización;
 
 VI. A quienes no realicen las obras de urbanización dentro de los plazos señaladas (sic) en el programa y calendario de obra, se les impondrá una sanción del cinco por ciento del presupuesto de las obras faltantes, sin perjuicio de la actualización y el incremento de las fianzas correspondientes;
 
-VII. A quienes sin contar con la autorización correspondiente celebren cualquier hecho o acto jurídico, que mediata o inmediatamente tenga como finalidad transmitir la propiedad o la posesión de lotes en forma de fraccionamiento, se les impondrá una sanción de 8,500 a 10,000 veces el salario mínimo diario vigente donde se cometa la infracción. La sanción podrá ser aumentada en un cien por ciento en caso de reincidencia o rebeldía del infractor; o,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-VIII. A quienes sin contar con la autorización correspondiente se anuncien o por cualquier medio de comunicación efectúen la publicidad de un Desarrollo o desarrollo en condominio o contando con la autorización, no se ajusten a la misma, se les impondrá una sanción de 8,500 a 10,000 veces salario mínimo diario vigente que rija en la zona donde se cometa la infracción. La sanción podrá ser aumentada en un cien por ciento en caso de reincidencia o rebeldía del infractor.
+VII. A quienes sin contar con la autorización correspondiente celebren cualquier hecho o acto jurídico, que mediata o inmediatamente tenga como finalidad transmitir la propiedad o la posesión de lotes en forma de fraccionamiento, se les impondrá una sanción de 8,500 a 10,000 veces el valor diario de la Unidad de Medida y Actualización. La sanción podrá ser aumentada en un cien por ciento en caso de reincidencia o rebeldía del infractor; o,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+VIII. A quienes sin contar con la autorización correspondiente se anuncien o por cualquier medio de comunicación efectúen la publicidad de un Desarrollo o desarrollo en condominio o contando con la autorización, no se ajusten a la misma, se les impondrá una sanción de 8,500 a 10,000 veces el valor diario de la Unidad de Medida y Actualización. La sanción podrá ser aumentada en un cien por ciento en caso de reincidencia o rebeldía del infractor.
 
 En el caso de que los infractores fuesen los Directores Responsables de Obra, se procederá además a la cancelación de su registro del padrón correspondiente.
 
@@ -5229,9 +5267,11 @@ IV. Exigir o solicitar bajo título de cooperación, colaboración, ayuda u otro
 
 Las sanciones serán impuestas a los servidores públicos por los funcionarios que correspondan en los términos de la Ley de Responsabilidades de los Servidores Públicos, salvo que en los casos en que la infracción constituya violación a las normas estatales a que se refiere el Título Noveno del Libro Primero de este Código las que serán impuestas por la Auditoria Superior de Michoacán.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 445.
 
-A los responsables a que se refiere el artículo anterior, se les impondrá una sanción equivalente de 15,000 a 20,000 veces el salario mínimo vigente que rija en la zona donde se cometa la infracción, independientemente de las correcciones disciplinarias que establezcan las Condiciones Generales del Trabajo correspondientes y la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán, sin perjuicio de la responsabilidad penal en que hubieren incurrido.
+A los responsables a que se refiere el artículo anterior, se les impondrá una sanción equivalente de 15,000 a 20,000 veces el valor diario de la Unidad de Medida y Actualización, independientemente de las correcciones disciplinarias que establezcan las Condiciones Generales del Trabajo correspondientes y la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios, sin perjuicio de la responsabilidad penal en que hubieren incurrido.
 
 ###### ARTÍCULO 446.
 
@@ -5247,9 +5287,11 @@ IV. Proporcionar informes, datos o documentos relativos a los programas de desar
 
 Las infracciones aquí contenidas serán impuestas a los empleados y funcionarios estatales por la Secretaria de la Contraloría y Desarrollo Administrativo del Gobierno del Estado y en el caso de los municipales por las contralorías municipales.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 447.
 
-A los responsables a que se refiere el artículo anterior, se les impondrá una multa de 1,500 a 2,000 veces salario mínimo vigente en la zona donde se cometa la infracción, independientemente de las correcciones disciplinarias que establezcan las Condiciones Generales del Trabajo correspondientes y la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán, sin perjuicio de la responsabilidad penal en que hubieren incurrido.
+A los responsables a que se refiere el artículo anterior, se les impondrá una multa de 1,500 a 2,000 veces el valor diario de la Unidad de Medida y Actualización, independientemente de las correcciones disciplinarias que establezcan las Condiciones Generales del Trabajo correspondientes y la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios, sin perjuicio de la responsabilidad penal en que hubieren incurrido.
 
 ###### ARTÍCULO 448.
 
@@ -5432,3 +5474,23 @@ P.O. 16 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 201 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 4 FRACCIONES XII Y XIV, 14 FRACCIÓN XII, 16, 197 FRACCIÓN III, 274 FRACCIONES XX BIS Y XL, TODOS DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 442 FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X, XI Y XII; 443 FRACCIONES I, II, III, IV, V, VII Y VIII; 445 Y 447 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
