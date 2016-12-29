@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-proteccion-civil-del-estado-de-michoacan-de-ocampo-10378
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2014-12-10"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 25 de noviembre de 2014.
 
@@ -1093,7 +1093,9 @@ I. Apercibimiento: por escrito y de carácter público;
 
 II. Clausura o Suspensión: temporal o definitiva, parcial o total de cualquier tipo de establecimiento, instalación o inmueble sujeto de inspección o que haya sido afectado por una situación de riesgo, emergencia o desastre; y,
 
-III. Multa: que podrá ir de 25 días de salario mínimo, hasta los 2500 días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. Multa: que podrá ir de 25 veces (sic) valor diario de la Unidad de Medida y Actualización, hasta 2500 veces dicho valor.
 
 Las multas generarán un crédito fiscal a favor del Estado, y también para sus Municipios, con base en las disposiciones aplicables del régimen fiscal estatal.
 
@@ -1234,3 +1236,23 @@ P.O. 10 DE DICIEMBRE DE 2014.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Artículo Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo para los efectos legales conducentes.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL ARTÍCULO 111 PÁRRAFO PRIMERO FRACCIÓN III DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
