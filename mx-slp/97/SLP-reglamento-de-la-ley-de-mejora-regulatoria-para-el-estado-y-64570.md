@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-mejora-regulatoria-para-el-estado-y-645
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-15"
-last_updated: "2008-11-15"
+last_updated: "2016-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-REGLAMENTO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de noviembre de 2008.
 
@@ -259,7 +261,7 @@ La Dirección deberá enviar a la Secretaría y a la Comisión Federal de Mejora
 
 ###### ARTICULO 27.
 
-La Secretaría podrá gestionar ante Ia Comisión Federal de Mejora Regulatoria la asesoría y capacitación técnica en la materia para las dependencias y organismos descentralizados de la administración pública estatal, así como para los municipios, organismos paramunicipales e intermunicipales que la requieran.
+La Secretaría podrá gestionar ante la Comisión Federal de Mejora Regulatoria la asesoría y capacitación técnica en la materia para las dependencias y organismos descentralizados de la administración pública estatal, así como para los municipios, organismos paramunicipales e intermunicipales que la requieran.
 
 ###### ARTICULO 28.
 
@@ -332,3 +334,15 @@ EL SECRETARIO DE DESARROLLO ECONÓMICO
 ING. CARLOS FERNANDO BÁRCENA POUS
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Mejora Regulatoria del Estado y Municipios de San Luis Potosí, publicado en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado “Plan de San Luis”, el sábado 5 (sic) de noviembre del año 2008.
+
+TERCERO. Se derogan todas las disposiciones legales de orden administrativo que se opongan al presente Decreto
