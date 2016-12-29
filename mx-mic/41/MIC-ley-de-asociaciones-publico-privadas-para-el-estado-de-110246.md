@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asociaciones-publico-privadas-para-el-estado-de-110246"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-30"
-last_updated: "2016-05-18"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110246&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Décima Tercera Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -1431,9 +1431,11 @@ Para iniciar cualquier procedimiento administrativo o jurisdiccional relativo a 
 
 La falta de garantía no impedirá la continuación del procedimiento. Solamente tendrá efectos en relación con la suspensión que se llegue a solicitar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 138.
 
-La autoridad jurisdiccional o administrativa que conozca de una actuación notoriamente improcedente o como táctica meramente dilatoria, podrá imponer a quien la promueva una multa administrativa de cien y hasta dos mil veces el salario mínimo general diario para la zona geográfica del Estado de Michoacán, vigente en la fecha de promoción de la actuación o su equivalente.
+La autoridad jurisdiccional o administrativa que conozca de una actuación notoriamente improcedente o como táctica meramente dilatoria, podrá imponer a quien la promueva una multa administrativa de cien y hasta dos mil veces el valor diario de la Unidad de Medida y Actualización, vigente en la fecha de promoción de la actuación o su equivalente.
 
 Así mismo, podrá condenar al responsable a pagar a la Convocante y en su caso, a los terceros afectados, los daños y perjuicios que tales conductas ocasionen, con independencia de las demás responsabilidades administrativas, civiles y penales a que haya lugar.
 
@@ -1544,3 +1546,23 @@ P.O. 18 DE MAYO DE 2016.
 PRIMERO. El Presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y trámite correspondiente.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE "SE REFORMA EL ARTÍCULO 138 PÁRRAFO PRIMERO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO."]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
