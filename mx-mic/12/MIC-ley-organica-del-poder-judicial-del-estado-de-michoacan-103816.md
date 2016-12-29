@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-del-poder-judicial-del-estado-de-michoacan-103816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-03"
-last_updated: "2014-12-03"
+last_updated: "2016-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 3 de diciembre de 2014.
 
@@ -909,11 +909,17 @@ Tendrá competencia en cuanto al territorio en todo el Distrito Judicial a que c
 
 Los juzgados menores tendrán competencia para conocer y resolver:
 
-I. En materia civil, los juicios civiles cuya cuantía no exceda de mil veces el salario mínimo general vigente en el Estado. Se exceptúan las cuestiones del orden familiar, propiedad y demás derechos reales sobre inmuebles, de arrendamiento de inmuebles, de los posesorios, de los interdictos y los que versen sobre estado y condición de las personas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. En materia mercantil, de los juicios mercantiles cuya cuantía no exceda de mil veces el salario mínimo general vigente en el Estado; y,
+I. En materia civil, los juicios civiles cuya cuantía no exceda de mil veces el valor diario de la Unidad de Medida y Actualización. Se exceptúan las cuestiones del orden familiar, propiedad y demás derechos reales sobre inmuebles, de arrendamiento de inmuebles, de los posesorios, de los interdictos y los que versen sobre estado y condición de las personas;
 
-III. En materia penal del sistema tradicional, de los delitos que tengan como sanción apercibimiento; caución de no ofender; pena alternativa; multa, cuando ésta no exceda del importe de cien días de salario mínimo general vigente en el momento y lugar en que se cometió el delito; prisión, cuando ésta no exceda de tres años, excepto de los delitos de rebelión, motín o conspiración. Además de la diligencia de exhortos, requisitorias o despachos que reciban y sean de su competencia; y, de los demás asuntos que les encomienden las leyes.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. En materia mercantil, de los juicios mercantiles cuya cuantía no exceda de mil veces el valor diario de la Unidad de Medida y Actualización; y,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. En materia penal del sistema tradicional, de los delitos que tengan como sanción apercibimiento; caución de no ofender; pena alternativa; multa, cuando ésta no exceda del importe de cien veces el valor diario de la Unidad de Medida y Actualización vigente en el momento y lugar en que se cometió el delito; prisión, cuando ésta no exceda de tres años, excepto de los delitos de rebelión, motín o conspiración. Además de la diligencia de exhortos, requisitorias o despachos que reciban y sean de su competencia; y, de los demás asuntos que les encomienden las leyes.
 
 ###### Artículo 66.
 
@@ -951,7 +957,9 @@ El Consejo determinará el establecimiento de juzgados comunales, su extensión 
 
 Los jueces comunales, dentro de su jurisdicción civil, tendrán competencia para conocer y resolver de:
 
-I. Juicios civiles cuya cuantía no exceda de trescientas veces el salario mínimo general vigente en el Estado. Se exceptúan las cuestiones de propiedad y demás derechos reales sobre inmuebles, de arrendamiento de inmuebles, de los posesorios, de los interdictos y los que versan sobre estado y condición de las personas;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+l. Juicios civiles cuya cuantía no exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización. Se exceptúan las cuestiones de propiedad y demás derechos reales sobre inmuebles, de arrendamiento de inmuebles, de los posesorios, de los interdictos y los que versan sobre estado y condición de las personas;
 
 II. Diligencias de consignación, incluso las de pensión alimenticia; y,
 
@@ -981,7 +989,9 @@ VIII. Mediación y conciliación de conflictos en materia familiar, siempre que 
 
 Los jueces comunales, dentro de su jurisdicción mercantil, tendrán competencia para conocer y resolver:
 
-I. De los juicios mercantiles cuya cuantía no exceda de trescientas veces el salario mínimo general vigente en el Estado; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+l. De los juicios mercantiles cuya cuantía no exceda de trescientas veces el valor diario de la Unidad de Medida y Actualización; y,
 
 II. De la mediación y conciliación de conflictos en materia mercantil que no excedan de lo señalado en la fracción anterior.
 
@@ -995,7 +1005,9 @@ II. Caución de no ofender;
 
 III. Pena alternativa;
 
-IV. Multa, cuando ésta no exceda del importe de cien días de salario mínimo general vigente en el momento y lugar en que se cometió el delito; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV. Multa, cuando ésta no exceda del importe de cien veces el valor diario de la Unidad de Medida y Actualización vigente en el momento y lugar en que se cometió el delito; y,
 
 V. Prisión, cuando ésta no exceda de un año.
 
@@ -2003,9 +2015,11 @@ Las sanciones previstas en esta ley se aplicarán con independencia de las sanci
 
 Con independencia de si la queja o denuncia da o no lugar a una sanción, la Comisión de Vigilancia y Disciplina dictará las providencias oportunas para la corrección inmediata del hecho que dio origen a la queja o denuncia.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 170.
 
-Si el Consejo determina que la imputación fue interpuesta con dolo, se impondrá al quejoso, su representante o ambos, una multa de cien a quinientos días de salario mínimo general vigente al momento de interponerse la queja.
+Si el Consejo determina que la imputación fue interpuesta con dolo, se impondrá al quejoso, su representante o ambos, una multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de interponerse la queja.
 
 ###### Artículo 171.
 
@@ -2154,3 +2168,25 @@ En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Consti
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO, DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO, MTRO.
 
 JAIME DARÍO OSEGUERA MÉNDEZ. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 65 FRACCIONES I, II Y III; 70 FRACCIÓN I, 72 FRACCIÓN I, 73 PÁRRAFO PRIMERO FRACCIÓN IV Y 170 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
