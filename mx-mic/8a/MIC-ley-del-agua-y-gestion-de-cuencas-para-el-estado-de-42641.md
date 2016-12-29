@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-agua-y-gestion-de-cuencas-para-el-estado-de-42641"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2016-06-23"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42641&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 27 de diciembre de 2004.
 
@@ -1853,13 +1853,21 @@ VII. Cualquier otra infracción a esta Ley o a su Reglamento que no esté expres
 
 Las sanciones que señalen los ayuntamientos a través de los organismos operadores, se aplicarán sin perjuicio de la responsabilidad civil o penal que en su caso resulte, ni de la revocación o rescisión que proceda, de acuerdo a lo siguiente:
 
-I. Con multa por el equivalente de cinco a cien veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las infracciones a que se refieren las fracciones III, IV, XII, XIV, XV y XVI del artículo 126 de esta Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Con multa por el equivalente de cinco a treinta veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las fracciones VII, VIII, IX y XIII del artículo 126 de esta Ley;
+I. Con multa por el equivalente de cinco a cien veces el valor diario de la Unidad de Medida y Actualización, tratándose de las infracciones a que se refieren las fracciones III, IV, XII, XIV, XV y XVI del artículo 126 de esta Ley;
 
-III. Con multa por el equivalente de cinco a sesenta veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, en el caso de las fracciones II, V, XI, XVII y XIX del artículo 126 de esta Ley; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-IV. Con multa por el equivalente de cien a quinientas veces el salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de la fracción I, VI, X y XVIII del artículo 126 de esta Ley.
+II. Con multa por el equivalente de cinco a treinta veces el valor diario de la Unidad de Medida y Actualización, tratándose de las fracciones VII, VIII, IX y XIII del artículo 126 de esta Ley;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. Con multa por el equivalente de cinco a sesenta veces el valor diario de la Unidad de Medida y Actualización, en el caso de las fracciones II, V, XI, XVII y XIX del artículo 126 de esta Ley; y,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV. Con multa por el equivalente de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización, tratándose de la fracción I, VI, X y XVIII del artículo 126 de esta Ley.
 
 Los infractores señalados en la fracción XVIII del artículo 126 de esta Ley, perderán en beneficio del Municipio las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles o inmuebles dedicados a la prestación de los servicios públicos, sin perjuicio de la aplicación de la multa señalada en la fracción IV de este artículo. El Municipio podrá solicitar a la autoridad correspondiente el desalojo de los infractores y, en su caso, que se realice la demolición de las obras e instalaciones por cuenta del infractor.
 
@@ -1869,15 +1877,25 @@ Una vez que el Municipio tenga conocimiento de lo anterior y en tanto se dicta l
 
 Las infracciones a que se refiere el artículo 128 de esta Ley, serán sancionadas por la Comisión:
 
-I. Con multa de quinientos a dos mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las fracciones I y IV;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Con multa de mil a cuatro mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, en caso de la fracción II;
+I. Con multa de quinientas a dos mil veces el valor diario de la Unidad de Medida y Actualización, tratándose de las fracciones I y IV;
 
-III. Con multas de cien a mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de la fracción III;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-IV. Con multa de mil a cinco mil días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, tratándose de las fracciones V y VI; y,
+II. Con multa de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización, en caso de la fracción II;
 
-V. Con multa de hasta quinientos días de salario mínimo diario general vigente en el área geográfica en que se cometa la infracción, en el caso de la fracción VII.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. Con multas de cien a mil veces el valor diario de la Unidad de Medida y Actualización, tratándose de la fracción III;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV. Con multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización, tratándose de las fracciones V y VI; y,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+V. Con multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización, en el caso de la fracción VII.
 
 En caso de reincidencia, la Comisión podrá imponer una sanción equivalente hasta por el doble de la cuantía señalada.
 
@@ -1895,9 +1913,11 @@ Si una vez vencido el plazo concedido para subsanar la o las infracciones, resul
 
 En el caso de reincidencia, el monto de la multa podrá ser hasta de dos veces el monto originalmente impuesto. En caso de segunda reincidencia se aplicará tres veces el monto originalmente impuesto, y así sucesivamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 134.
 
-En caso de aquellos ayuntamientos que no cuenten con un organismo operador, será la Comisión quien asesorará y establecerá las diversas sanciones de acuerdo con éstos. Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente a juicio del organismo operador respectivo, o en su defecto por la Comisión, con multas equivalentes de diez a quinientos días de salario mínimo general correspondiente al Estado, vigente en el momento de la comisión de la infracción.
+En caso de aquellos ayuntamientos que no cuenten con un organismo operador, será la Comisión quien asesorará y establecerá las diversas sanciones de acuerdo con éstos. Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente a juicio del organismo operador respectivo, o en su defecto por la Comisión, con multas equivalentes de diez a quinientas veces el valor diario de la Unidad de Medida y Actualización, vigente en el momento de la comisión de la infracción.
 
 Para sancionar las infracciones anteriores, se calificarán tomando en consideración la gravedad de la falta, las condiciones en las que se cometió y la reincidencia.
 
@@ -2024,3 +2044,23 @@ P.O. 23 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 155 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 36 FRACCIÓN XIV Y 118 DE LA LEY DEL AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 129 PÁRRAFO PRIMERO FRACCIONES I, II, III y IV, 130 PÁRRAFO PRIMERO FRACCIONES I, II, III, IV y V y 134 PÁRRAFO PRIMERO DE LA LEY DE AGUA Y GESTIÓN DE CUENCAS PARA EL ESTADO DE MICHOACÁN.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
