@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2014-06-27"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -181,7 +181,7 @@ Por cada cinco días de trabajo disfrutará el trabajador de dos días de descan
 
 Las mujeres trabajadoras tendrán los siguientes derechos:
 
-l. Durante el período de embarazo, a no realizar trabajos que exijan esfuerzos que signifiquen un peligro para su salud en relación con la gestación;
+I. Durante el período de embarazo, a no realizar trabajos que exijan esfuerzos que signifiquen un peligro para su salud en relación con la gestación;
 
 II. A que no se les exija el examen de no gravidez o esterilización, al solicitar empleo;
 
@@ -329,7 +329,7 @@ V. Evitar la ejecución de actos que pongan en peligro su seguridad y la de sus 
 
 VI. Asistir puntualmente a sus labores;
 
-VII. No hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo; y, (sic)
+VII. No hacer propaganda de ninguna clase dentro de los edificios o lugares de trabajo; y,
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -351,7 +351,7 @@ II. La incapacidad física del trabajador, cuando la misma derive de un riesgo n
 
 III. La suspensión que como sanción dicte la institución o autoridad a la que preste sus servicios por faltas cometidas en el desempeño del trabajo que no ameriten su cese definitivo. Esta suspensión en ningún caso podrá exceder de 8 días hábiles;
 
-IV. La prisión preventiva del trabajador seguida de sentencia absolutoria; y, (sic)
+IV. La prisión preventiva del trabajador seguida de sentencia absolutoria; y,
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2013)</small>
 
@@ -895,9 +895,11 @@ Las cuestiones que se susciten sobre personalidad de las partes o personería de
 
 Cualquier término no especificado en esta Ley, será de tres días. En ningún término se contarán los días inhábiles que señale el Calendario Oficial del Estado.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 115.
 
-El Tribunal sancionará las faltas de respeto que cometan las partes o quienes intervengan, ya sea por escrito o en cualquiera otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá de un día de salario mínimo general para la Ciudad de Morelia.
+El Tribunal sancionará las faltas de respeto que cometan las partes o quienes intervengan, ya sea por escrito o en cualquiera otra forma. Las sanciones consistirán en amonestación o multa. Esta no excederá de una vez el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 116.
 
@@ -949,7 +951,7 @@ DIPUTADA PRESIDENTA.- MARIA HERMINIA YOLANDA MOLINA CORTES.- DIPUTADO SECRETARIO
 
 En cumplimiento por lo dispuesto en la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo y para su debida publicación y observancia promulgo el presente Decreto en la residencia del Poder Ejecutivo en la ciudad de Morelia Michoacán, a los 21 veintiún días del mes de julio de 1983 mil novecientos ochenta y tres.- Sufragio Efectivo. No Reelección.- El Gobernador Constitucional del Estado.- Ing. Cuauhtémoc Cárdenas Solórzano.- El Secretario de Gobierno.- Dr. Roberto Robles Garnica.- (Firmados).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 31 DE AGOSTO DE 2007.
 
@@ -990,3 +992,23 @@ TERCERO. Todo programa de estímulos, incentivos y acciones de capacitación as�
 P.O. 27 DE JUNIO DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL ARTÍCULO 115 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
