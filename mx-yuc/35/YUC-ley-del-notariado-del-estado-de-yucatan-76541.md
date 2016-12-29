@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-notariado-del-estado-de-yucatan-76541"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2016-12-28"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 31 de agosto de 2010.
 
@@ -1313,11 +1313,11 @@ Quienes con anterioridad a la entrada en vigor de esta ley, hubiesen concluido s
 
 Los notarios públicos que actualmente se encuentren en ejercicio de sus funciones, conservarán esa calidad en los mismos domicilios y números de notaría pública que se les ha sido asignada.
 
-> <small>(REFORMADO, D.O. 19 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO NOVENO.
 
-Los escribanos públicos con residencia en la ciudad de Mérida y demás municipios del estado cuya población exceda de treinta mil habitantes, nombrados conforme la ley del notariado que se abroga, dejarán de ejercer sus funciones el 31 de diciembre de 2016. Los nombramientos de los escribanos públicos en los municipios con menos de treinta mil habitantes se harán de conformidad con los requisitos señalados en esta ley.
+Los escribanos públicos con residencia en la ciudad de Mérida y demás municipios del estado cuya población exceda de treinta mil habitantes, nombrados conforme la ley del notariado que se abroga, dejarán de ejercer sus funciones el 31 de diciembre de 2018. Los nombramientos de los escribanos públicos en los municipios con menos de treinta mil habitantes se harán de conformidad con los requisitos señalados en esta ley.
 
 ###### ARTÍCULO DÉCIMO.
 
@@ -1400,3 +1400,19 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Obligación normativa
 
 El gobernador y los ayuntamientos deberán, en el ámbito de su competencia, realizar las actualizaciones conducentes a los reglamentos de las leyes que consideren al salario mínimo como unidad de cuenta, índice, base, medida o referencia, a más tardar el 27 de enero de 2017, para armonizarlos en los términos de este decreto.
+
+D.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 434/2016 POR EL QUE SE MODIFICA LA LEY DEL NOTARIADO DEL ESTADO DE YUCATÁN, EN MATERIA DE ESCRIBANOS PÚBLICOS”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Reconocimiento y validez de patentes
+
+Para los efectos de este decreto, las patentes de los escribanos públicos con residencia en el municipio de Mérida y en los demás municipios del estado con una población (sic) exceda de treinta mil habitantes, cuya validez fue reconocida mediante Decreto 148/2014 que modifica la Ley del Notariado del Estado de Yucatán, publicado en el diario oficial del estado el 19 de febrero de 2014, continuarán surtiendo sus efectos hasta el 31 de diciembre de 2018.
+
+Artículo Tercero. Derogación tácita
+
+Se derogan todas las disposiciones legales y normativas en lo que se opongan al contenido de este decreto.
