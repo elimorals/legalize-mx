@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-turismo-del-estado-de-michoacan-de-ocampo-81262"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-03"
-last_updated: "2016-12-12"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Quinta Sección al Periódico Oficial del Estado de Michoacán, el martes 3 de mayo de 2011.
 
@@ -1183,11 +1183,17 @@ Las infracciones a lo dispuesto en la presente Ley y su reglamento, serán sanci
 
 Por infracciones a esta Ley, la Secretaría impondrá las siguientes sanciones:
 
-I. Por infracciones a lo establecido en las fracciones III, XIII, XIV, XVI y XVII del Artículo 115, se impondrá una multa de cien a quinientos días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Por infracciones a lo previsto en la fracción VIII del artículo 53, el artículo 113 y las fracciones V, VII, VIII, IX y XI del artículo 115, se sancionará con multa de quinientos a mil días de salario mínimo vigente en el Estado; y,
+I. Por infracciones a lo establecido en las fracciones III, XIII, XIV, XVI y XVII del Artículo 115, se impondrá una multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Por infracciones a lo estipulado en las fracciones VI y XV del artículo 115 y a la contravención de lo contenido en el artículo 107, se sancionará con multa de mil hasta tres mil días de salario mínimo vigente en el Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Por infracciones a lo previsto en la fracción VIII del artículo 53, el artículo 113 y las fracciones V, VII, VIII, IX y XI del artículo 115, se sancionará con multa de quinientas a mil veces el valor diario de la Unidad de Medida y Actualización; y,
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. Por infracciones a lo estipulado en las fracciones VI y XV del artículo 115 y a la contravención de lo contenido en el artículo 107, se sancionará con multa de mil hasta tres mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 130.
 
@@ -1268,3 +1274,23 @@ P.O. 12 DE DICIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales correspondientes.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL ARTÍCULO 129 FRACCIONES I, II Y III DE LA LEY DE TURISMO DEL ESTADO DE MICHOACÁN DE OCAMPO.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
