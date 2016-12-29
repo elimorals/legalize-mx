@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-organizaciones-agricolas-del-estado-de-michoacan-14997"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-27"
-last_updated: "2007-09-26"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE ORGANIZACIONES AGRICOLAS DEL ESTADO DE MICHOACAN
 
-LEY DE ORGANIZACIONES AGRICOLAS DEL ESTADO DE MICHOACAN
+LEY DE ORGANIZACIONES AGRÍCOLAS DEL ESTADO DE MICHOACÁN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el jueves 27 de marzo de 1997.
 
@@ -383,11 +383,13 @@ El costo de los servicios que proporcionen el Centro Estatal para el Desarrollo 
 
 ### CAPITULO UNICO. DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 26.
 
-Las sanciones por violaciones a la presente Ley serán aplicadas por la Secretaría, las que consistirán en amonestación o multa de diez hasta doscientos días de salario mínimo vigente en el Estado, de acuerdo a la gravedad de la falta y conforme al procedimiento previsto en el Reglamento de esta Ley.
+Las sanciones por violaciones a la presente Ley serán aplicadas por la Secretaría, las que consistirán en amonestación o multa de diez hasta doscientas veces el valor diario de la Unidad de Medida y Actualización, de acuerdo a la gravedad de la falta y conforme al procedimiento previsto en el Reglamento de esta Ley.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2007)</small>
 
 Tratándose de infracciones a las disposiciones internas de la unión, la sanción que corresponda, será aplicada por la comisión de honor y justicia que para tal efecto se instituya, de acuerdo al procedimiento previsto en el Reglamento.
 
@@ -433,7 +435,7 @@ En cumplimiento a lo dispuesto por la fracción I del Artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- El SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 26 DE SEPTIEMBRE DE 2007.
 
@@ -452,3 +454,23 @@ El Titular del Poder Ejecutivo del Estado, adecuará el Reglamento de la Ley, co
 ###### ARTÍCULO CUARTO.
 
 En tanto no se publique en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, la reforma a la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo, se entenderá por Secretaría de Desarrollo Rural a la Secretaría de Desarrollo Agropecuario.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL ARTÍCULO 26 PÁRRAFO PRIMERO DE LA LEY DE ORGANIZACIONES AGRÍCOLAS DEL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
