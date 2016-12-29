@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-extincion-de-dominio-del-estado-de-michoacan-de-100914"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-13"
-last_updated: "2014-05-13"
+last_updated: "2016-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 13 de mayo de 2014.
 
@@ -449,7 +449,9 @@ II. La fecha de la audiencia de desahogo de pruebas y formulación de alegatos; 
 
 III. Las demás determinaciones que considere pertinentes.
 
-La audiencia se celebrará estén o no presentes las partes, excepto el Ministerio Público, así como los peritos o testigos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o de los testigos que el Juez haya citado para la audiencia, tampoco impedirá su celebración; pero se impondrá a los faltistas debidamente notificados una multa de hasta cien días de salario mínimo vigente en el Estado de Michoacán.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La audiencia se celebrará estén o no presentes las partes, excepto el Ministerio Público, así como los peritos o testigos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o de los testigos que el Juez haya citado para la audiencia, tampoco impedirá su celebración; pero se impondrá a los faltistas debidamente notificados una multa de hasta cien veces el valor diario de la Unidad de Medida y Actualización.
 
 De no ser posible por la hora o por cuestiones procesales, el Juez suspenderá la audiencia y citará para su continuación dentro de los tres días hábiles siguientes.
 
@@ -634,3 +636,25 @@ ATENTAMENTE.- “SUFRAGIO EFECTIVO. NO REELECCIÓN”.- PRESIDENTE DE LA MESA DI
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 13 trece días del mes de mayo del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL ENCARGADO DE DESPACHO DE LA SECRETARÍA DE GOBIERNO.- LIC. MARCO VINICIO AGUILERA GARIBAY. (Firmados)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL ARTÍCULO 44 PÁRRAFO SEGUNDO DE LA LEY DE EXTINCIÓN DE DOMINIO DEL ESTADO DE MICHOACÁN DE OCAMPO.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
