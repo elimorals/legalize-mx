@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-escudo-del-estado-libre-y-soberano-de-michoacan-de-5616
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-06"
-last_updated: "2007-07-06"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL ESCUDO DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Michoacán, el viernes 6 de julio de 2007.
 
@@ -205,17 +205,21 @@ II. Multa.
 
 La amonestación se aplicará a las autoridades que de manera involuntaria incurran en infracciones a la presente Ley, siempre y cuando sea la primera vez que cometa la falta.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 27.
 
-La multa se aplicará a las autoridades que reincidan en alguna infracción a la presente Ley, así como a las personas que incumplan lo establecido en los artículos 6, 7 y 8 de este ordenamiento legal, misma que podrá ser hasta por el equivalente a mil veces el salario mínimo general vigente en la entidad y se procederá al decomiso de los artículos que reproduzcan ilícitamente el Escudo.
+La multa se aplicará a las autoridades que reincidan en alguna infracción a la presente Ley, así como a las personas que incumplan lo establecido en los artículos 6, 7 y 8 de este ordenamiento legal, misma que podrá ser hasta por el equivalente a mil veces el valor diario de la Unidad de Medida y Actualización y se procederá al decomiso de los artículos que reproduzcan ilícitamente el Escudo.
 
 ###### Artículo 28.
 
 Las sanciones pecuniarias que se apliquen constituirán créditos fiscales a favor del erario público estatal.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 29.
 
-En caso de que las personas reincidan en la infracción a los artículos 6, 7 y 8 de la presente Ley, se duplicará la multa impuesta con anterioridad, hasta por el equivalente a dos mil veces el salario mínimo general vigente en la entidad.
+En caso de que las personas reincidan en la infracción a los artículos 6, 7 y 8 de la presente Ley, se duplicará la multa impuesta con anterioridad, hasta por el equivalente a dos mil veces el valor diario de la Unidad de Medida y Actualización.
 
 ## TRANSITORIOS
 
@@ -232,3 +236,25 @@ PRESIDENTE.- DIP. MINERVA BAUTISTA GÓMEZ.- PRIMER SECRETARIO.- DIP. JUAN ANTONI
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 15 quince días del mes de junio del año 2007 dos mil siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 27 Y 29 DE LA LEY DEL ESCUDO DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO."]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
