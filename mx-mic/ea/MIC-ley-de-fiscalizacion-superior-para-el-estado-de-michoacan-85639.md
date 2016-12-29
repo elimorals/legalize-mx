@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fiscalizacion-superior-para-el-estado-de-michoacan-85639
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-24"
-last_updated: "2016-03-11"
+last_updated: "2016-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Michoacán, el martes 24 de enero del 2012.
 
@@ -129,7 +129,9 @@ XIX. Reglamento.- Normatividad que, con tal carácter, formal o materialmente em
 
 XX. Sanción Administrativa.- Es la impuesta por las autoridades a los infractores de la Ley administrativa. Presupone la existencia de un acto ilícito, que es la oposición ó infracción de un ordenamiento jurídico. El daño que se causa por la infracción o ilícito a la administración, la colectividad, los individuos y al interés general, tiene como consecuencia el castigo consistente en la sanción administrativa. La naturaleza de las sanciones administrativas, de derecho y de hecho, cumplen con los objetivos de sanción administrativa: preventiva o represiva, correctiva o disciplinaria y tributaria o de castigo; y,
 
-XXI. Sanción Económica.- De carácter pecuniaria, fijada en salarios mínimos diarios generales vigentes en la zona geográfica a que pertenece el Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XXI. Sanción Económica.- De carácter pecuniaria, fijada conforme al valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTÍCULO 5.
 
@@ -731,9 +733,11 @@ Los bienes recuperados en los términos de esta Ley, quedarán a disponibilidad 
 
 El importe de las sanciones y los derechos se destinarán al Fondo, a través del Comité de Dirección, el que se ejercerá según lo dispuesto en el Reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 50.
 
-El Auditor Superior, bajo su responsabilidad, podrá abstenerse de sancionar al infractor, por una sola vez, justificando plenamente las causas de la abstención siempre que se trate de hechos que no constituyan delito, cuando lo ameriten los antecedentes y circunstancias económicas del infractor y el daño causado por éste no exceda de doscientas veces el salario mínimo general vigente en la capital del Estado, en la fecha en que se cometa la infracción.
+El Auditor Superior, bajo su responsabilidad, podrá abstenerse de sancionar al infractor, por una sola vez, justificando plenamente las causas de la abstención siempre que se trate de hechos que no constituyan delito, cuando lo ameriten los antecedentes y circunstancias económicas del infractor y el daño causado por éste no exceda de doscientas veces el valor diario de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción.
 
 ###### ARTÍCULO 51.
 
@@ -773,7 +777,9 @@ El término para interponer el recurso de revocación será de cuarenta y cinco 
 
 La Auditoría Superior deberá resolver el recurso en un plazo no mayor de cuarenta y cinco días hábiles, resolución que se dictará con efectos personalísimos para el recurrente.
 
-La autoridad responsable que no resuelva en los plazos antes citados, se hará acreedora a una sanción de cincuenta a cien días de salario mínimo general vigente en el Estado. En caso de reincidencia, se entenderá como falta en el ejercicio de sus funciones y será sancionado por las autoridades competentes en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La autoridad responsable que no resuelva en los plazos antes citados, se hará acreedora a una sanción de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización. En caso de reincidencia, se entenderá como falta en el ejercicio de sus funciones y será sancionado por las autoridades competentes en los términos de la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios.
 
 ###### ARTÍCULO 58.
 
@@ -897,7 +903,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. - EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LEONEL GODOY RANGEL. - EL SECRETARIO DE GOBIERNO. - RAFAEL MELGOZA RADILLO. (Firmados).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 9 DE DICIEMBRE DE 2013.
 
@@ -928,3 +934,23 @@ P.O. 11 DE MARZO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación.
 
 SEGUNDO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y debida publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN EL ARTÍCULO 4 FRACCIÓN XXI; 50 Y 57 PÁRRAFO TERCERO DE LA LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
