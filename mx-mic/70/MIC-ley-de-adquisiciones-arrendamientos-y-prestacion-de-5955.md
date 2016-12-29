@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-adquisiciones-arrendamientos-y-prestacion-de-5955"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-11"
-last_updated: "2007-08-23"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLE (SIC) DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLE (SIC) DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el jueves 11 de junio de 1998.
 
@@ -243,7 +243,7 @@ II.- La existencia en cantidad y calidad de los bienes a adquirir, los plazos es
 
 III.- Los requerimientos en materia de conservación, mantenimiento y ampliación de capacidad de los servicios públicos;
 
-IV.- Preferentemente, la utilización de los bienes y servicios de procedencia regional con especial atención a los sectores económicos cuya promoción, fomento y desarrollo estén comprendidos en los objetivos y prioridades del Plan de Desarrollo Integral del Estado; y (sic),
+IV.- Preferentemente, la utilización de los bienes y servicios de procedencia regional con especial atención a los sectores económicos cuya promoción, fomento y desarrollo estén comprendidos en los objetivos y prioridades del Plan de Desarrollo Integral del Estado; y,
 
 V.- De preferencia, la inclusión de insumos, material, equipo, sistemas y servicios que tengan incorporada tecnología nacional, tomando en cuenta los requerimientos técnicos y económicos de las adquisiciones o pedidos que vayan a hacerse en el país o en el extranjero;
 
@@ -429,7 +429,9 @@ Tratándose de los ayuntamientos, cuando proceda aplicar lo previsto en el prese
 
 Los servidores públicos que infrinjan las disposiciones contenidas en esta ley, serán sancionados por la Coordinación de Control y Desarrollo Administrativo, por denuncia del Comité o de la Oficialía Mayor, según corresponda, de conformidad con la ley de la materia.
 
-Los proveedores que incurran en infracciones a esta ley, serán sancionados por el Comité, con multa de cien hasta cinco mil días de salario mínimo general vigente en el Estado; suspensión o cancelación de su registro en el Padrón de Proveedores de la Administración Pública Estatal.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Los proveedores que incurran en infracciones a esta ley, serán sancionados por el Comité, con multa de cien hasta cinco mil veces el valor diario de la Unidad de Medida y Actualización; suspensión o cancelación de su registro en el Padrón de Proveedores de la Administración Pública Estatal.
 
 Cuando el infractor de la presente ley, sea un servidor público municipal, se observará lo dispuesto en la ley de la materia.
 
@@ -539,7 +541,7 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constit
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES.- (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 6 DE JULIO DE 2007.
 
@@ -550,3 +552,23 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL ARTÍCULO 38 PÁRRAFO SEGUNDO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS RELACIONADOS CON BIENES MUEBLES E INMUEBLE (SIC) DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
