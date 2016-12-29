@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2016-05-02"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -103,9 +103,11 @@ Los derechos que establece esta ley se pagarán por los servicios que presta el 
 
 Cuando de conformidad con el Código de la Administración Pública de Yucatán u otras disposiciones legales o administrativas, los servicios que preste una dependencia o entidad sean proporcionados por otra distinta, se seguirán cobrando los derechos en los términos establecidos por esta ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 6.
 
-Para los efectos de esta ley, las siglas S.M.G. se entenderán como veces de salario mínimo general diario, vigente en el Estado de Yucatán.
+Para los efectos de esta ley, la sigla UMA se entenderá como unidad de medida y actualización, en su valor actualizado.
 
 Las tasas, cuotas y tarifas de los derechos aplicables al ejercicio fiscal de que se trata, se podrán modificar en la cantidad o porcentaje que, a iniciativa del Ejecutivo, apruebe el Congreso del Estado; y las cantidades que resulten, se ajustarán de conformidad con la siguiente:
 
@@ -1205,21 +1207,15 @@ IV.- Los propietarios o legítimos poseedores de las máquinas de juegos a que s
 
 #### SECCIÓN PRIMERA. DE LA PROPIEDAD
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+#### SECCIÓN SEGUNDA. DEL COMERCIO
 
-#### SECCIÓN SEGUNDA. DE COMERCIO
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+#### SECCIÓN TERCERA. OTROS DERECHOS
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-#### SECCIÓN TERCERA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO IX. IMPUESTO A CASAS DE EMPEÑO
 
@@ -1227,7 +1223,7 @@ IV.- Los propietarios o legítimos poseedores de las máquinas de juegos a que s
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN CUARTA
+#### SECCIÓN CUARTA. DEL COBRO
 
 ###### ARTÍCULO 47-W.
 
@@ -1293,21 +1289,29 @@ II. Mantener en los establecimientos o sucursales en los cuales se realicen las 
 
 ### CAPÍTULO I. DERECHOS POR LOS SERVICIOS QUE PRESTA LA ADMINISTRACIÓN PÚBLICA EN GENERAL
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 #### SECCIÓN TERCERA. DE LA DETERMINACIÓN DE LOS DERECHOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 85 L.- Por los servicios de supervisión, vigilancia y registro a cargo de la Agencia de Administración Fiscal de Yucatán, se causará un derecho equivalente a trescientos noventa y seis UMA anualmente por máquina. Este derecho se pagará ante las oficinas autorizadas a más tardar el día diez del mes de febrero de cada ejercicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
-ARTÍCULO 85 L.- Por los servicios de supervisión, vigilancia y registro a cargo de la Agencia de Administración Fiscal de Yucatán, se pagará un derecho equivalente a 396 S.M.G. anualmente por máquina. Este derecho se pagará ante las oficinas autorizadas a más tardar el día diez del mes de febrero de cada ejercicio.
-
 Los contribuyentes podrán disminuir contra el derecho previsto en este Capítulo, el impuesto pagado en términos de la fracción II del artículo 31 de esta Ley en el ejercicio inmediato anterior al que corresponda el pago del derecho previsto en este Capítulo. En caso de que el citado impuesto sea superior al monto del derecho, el saldo a favor no dará lugar a acreditamiento, devolución o compensación alguna.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
 Los contribuyentes no podrán instalar máquinas sin haber pagado previamente el derecho a que se refiere este artículo y adherido el holograma correspondiente. Este derecho se pagará por meses completos en la proporción que represente del período comprendido desde el mes en que se presentó el aviso y hasta el último mes del ejercicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 Cuando los contribuyentes retiren una máquina sobre la cual ya se hubiera pagado el derecho a que se refiere el primer párrafo de este artículo, podrán solicitar la devolución por el remanente correspondiente a los meses completos en que dejo de utilizarse siempre que el contribuyente entregue a la Agencia de Administración Fiscal de Yucatán el holograma correspondiente. En caso de que las máquinas a que se refiere este párrafo vayan a ser sustituidas, el saldo a favor podrá aplicarse en contra del derecho correspondiente a la nueva máquina.
 
@@ -1363,47 +1367,39 @@ V.- Presentar a las autoridades fiscales la información que se les requiera med
 
 #### SECCIÓN TERCERA. DE LA DETERMINACIÓN DE LOS DERECHOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+Artículo 85 V.- Los derechos por los servicios a que se refiere este capítulo, se causará conforme a las siguientes cuotas:
 
-###### ARTÍCULO 85-V.
+l. Por el estudio de cumplimiento de requisitos para permitir la instalación y operación de casas de empeño, la expedición del permiso correspondiente y por su inscripción en el registro estatal de casas de empeño 111.11 UMA
 
-Los derechos por los servicios a que se refiere este capítulo, se pagarán conforme a las siguientes cuotas:
+II. Por la revalidación anual del estudio de cumplimiento y del permiso 55.56 UMA
 
-l. Por el estudio de cumplimiento de requisitos para permitir la instalación y operación de casas de empeño, la expedición del permiso correspondiente y por su inscripción en el registro estatal de casas de empeño. 111.11 S.M.G
+III. Por cada modificación que se solicite del permiso, debido a cambios en la información proporcionada al expedirse el permiso original 16.67 UMA
 
-II. Por la revalidación anual del estudio de cumplimiento y del permiso. 55.56 S.M.G.
+IV. Por la reposición del permiso otorgado o de la revalidación, en caso de extravío, robo o deterioro grave, a petición del interesado 6.95 UMA
 
-III. Por cada modificación que se solicite del permiso, debido a cambios en la información proporcionada al expedirse el permiso original. 16.67 S.M.G.
-
-IV. Por la reposición del permiso otorgado o de la revalidación, en caso de extravío, robo o deterioro grave, a petición del interesado. 6.95 S.M.G.
-
-V. Por la revalidación extemporánea del estudio de cumplimiento y del permiso. 83.34 S.M.G.
+V. Por la revalidación extemporánea del estudio de cumplimiento y del permiso 83.34 UMA
 
 Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del trámite de las solicitudes de permiso, revalidación, modificación o reposición antes descritas.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO II. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 #### SECCIÓN CUARTA. OBLIGACIONES DE LOS CONTRIBUYENTES
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTÍCULO 85-W.
-
-(DEROGADO, D.O. 2 DE MAYO DE 2016)
-
 ### CAPÍTULO III. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL REGISTRO CIVIL
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ### CAPÍTULO IV. DERECHOS POR EL USO DE CEMENTERIOS Y PRESTACIÓN DE SERVICIOS CONEXOS
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ## TÍTULO TERCERO. DE LOS DERECHOS
 
@@ -1411,35 +1407,35 @@ Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del
 
 ###### ARTÍCULO 48.
 
-Por los servicios prestados por cualquiera de las dependencias y entidades de la Administración Pública del Estado, salvo los que esta ley establece expresamente, se causarán los derechos conforme a las cuotas que para cada caso se señala:
+Por los servicios prestados por cualquiera de las dependencias y entidades de la Administración Pública del estado de Yucatán, salvo los que esta ley establece expresamente, se causarán los derechos conforme a las cuotas que para cada caso se señala:
 
-I.- Expedición de copias certificadas, por cada hoja 0.35 S.M.G.
+I.- Expedición de copias certificadas, por cada hoja 0.35 UMA
 
-II.- Emisión de copias simples, por cada hoja 0.07 S.M.G.
+II.- Emisión de copias simples, por cada hoja 0.07 UMA
 
-III.- Reposición de constancias o duplicados de las mismas, por cada hoja 0.25 S.M.G.
+III.- Reposición de constancias o duplicados de las mismas, por cada hoja 0.25 UMA
 
-IV.- Compulsa de documentos, por cada hoja 0.09 S.M.G.
+IV.- Compulsa de documentos, por cada hoja 0.09 UMA
 
-V.- Por constancia de cumplimiento de obligaciones fiscales 0.50 S.M.G.
+V.- Por constancia de cumplimiento de obligaciones fiscales 0.50 UMA
 
-VI.- Por expedición de duplicado de recibo oficial 0.25 S.M.G.
+VI.- Por expedición de duplicado de recibo oficial 0.25 UMA
 
-VII.-Inscripción en el Registro de Proveedores o su Revalidación 15.00 S.M.G.
+VII.-Inscripción en el Registro de Proveedores o su revalidación 15.00 UMA
 
-VIII.- Inscripción en el Registro de Contratistas o su Revalidación 30.00 S.M.G.
+VIII.- Inscripción en el Registro de Contratistas o su revalidación 30.00 UMA
 
-IX.- Por las consultas que se realizan a las autoridades de otras dependencias del Estado o de otras entidades federativas para verificar: pagos de contribuciones, legalización de vehículos de procedencia extranjera o alguna otra documentación relativa a trámites de control vehicular 2 S.M.G.
+IX.- Por las consultas que se realizan a las autoridades de otras dependencias del estado o de otras entidades federativas para verificar: pagos de contribuciones, legalización de vehículos de procedencia extranjera o alguna otra documentación relativa a trámites de control vehicular 2 UMA
 
-X.- Constancias de no inhabilitación 3 S.M.G.
+X.- Constancias de no inhabilitación 3 UMA
 
-XI.- Reposición de recibos oficiales o recibos de caja 0.25 S.M.G.
+XI.- Reposición de recibos oficiales o recibos de caja 0.25 UMA
 
-No se pagarán derechos por la expedición de documentos o copias certificadas de los mismos, que sean solicitados por el Estado, salvo que esta solicitud derive de la petición de un particular.
+No se causarán derechos por la expedición de documentos o copias certificadas que sean solicitados por el estado, salvo que esta solicitud derive de la petición de un particular.
 
-Tampoco se pagarán derechos por la expedición de copias certificadas para la substanciación del Juicio de Amparo.
+Tampoco se causarán derechos por la expedición de copias certificadas para la substanciación del Juicio de Amparo.
 
-No se pagarán derechos por las reposiciones que sean solicitadas por el Estado, salvo que éstas deriven de la petición de un particular.
+No se causarán derechos por las reposiciones que sean solicitadas por el estado, salvo que estas deriven de la petición de un particular.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1447,655 +1443,527 @@ No se pagarán derechos por las reposiciones que sean solicitadas por el Estado,
 
 ### CAPÍTULO VI. SERVICIOS QUE PRESTAN LOS FEDATARIOS A QUIENES EL ESTADO LES HAYA CONCEDIDO FE PÚBLICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 49.
 
 Se causarán derechos por la dotación, canje, reposición y baja de placas de circulación, conforme a lo siguiente:
 
-l. Automóviles, camiones y camionetas
+l.- Automóviles, camiones y camionetas:
 
-a) De servicio particular 13.50 S.M.G.
+a) De servicio particular 13.50 UMA
 
-b) De servicio público 16.00 S.M.G.
+b) De servicio público 16.00 UMA
 
-c) De arrendadoras 12.50 S.M.G.
+c) De arrendadoras 12.50 UMA
 
-d) De demostración 30.00 S.M.G.
+d) De demostración 30.00 UMA
 
-e) Provisionales 7.50 S.M.G.
+e) Provisionales 7.50 UMA
 
-II. Motocicletas 4.50 S.M.G.
+II.- Motocicletas 4.50 UMA
 
-III. Remolques 6.25 S.M.G.
+III.- Remolques 6.25 UMA
 
-IV. Por baja de placas para todos los mencionados en las fracciones anteriores 1.00 S.M.G.
+IV.- Por baja de placas para todos los mencionados en las fracciones anteriores 1.00 UMA
 
-> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-ARTÍCULO 49 A.- Por control vehicular, se causarán derechos por los siguientes:
+ARTÍCULO 49 A.- Se causarán derechos por control vehicular, conforme a lo siguiente:
 
-a).- Verificación de factura 2.64 S.M.G.
+I.- Verificación de factura 2.64 UMA
 
-b).- Verificación de baja vehicular de otra
+II.- Verificación de baja vehicular de otra entidad federativa 2.64 UMA
 
-Entidad Federativa 2.64 S.M.G.
+III.- Copia de la factura del vehículo que obre en el archivo 3.53 UMA
 
-c).- Copia de la factura del vehículo que
+IV.- Verificación física de vehículo fuera del módulo central 2.64 UMA
 
-obre en el archivo 3.53 S.M.G.
-
-d).- Verificación física de vehículo fuera
-
-del módulo central 2.64 S.M.G.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 50.
 
-Por la tarjeta de circulación y calcomanía para automóviles, camiones y camionetas; tarjetas de circulación para motocicletas y remolques, se pagará derechos conforme a lo siguiente:
+Por la tarjeta de circulación y calcomanía para automóvil, camión o camioneta; la tarjeta de circulación para motocicletas y remolques; y el permiso para circular sin placas, se causarán conforme a lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I.- Automóvil, camión o camioneta:
 
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+a) De servicio particular 3.00 UMA
 
-I.- Automóviles, camiones y camionetas de servicio particular 3.00 S.M.G.
+b) De servicio público 2.77 UMA
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+c) De arrendadoras 3.00 UMA
 
-II.- De servicio público 2.77 S.M.G.
+d) De demostración 6.03 UMA
 
-III.- De arrendadoras 3.00 S.M.G.
+II.- Motocicletas 1.00 UMA
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+III.- Remolque 3.31 UMA
 
-IV.- De demostración 6.03 S.M.G.
+IV.- Permiso para circular sin placas, por cada día 0.14 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+ARTÍCULO 50 BIS.- Por el refrendo de la tarjeta de circulación y calcomanía para automóvil, camión o camioneta se causarán 3.50 UMA
 
-V.- De motocicleta 1.00 S.M.G.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+ARTÍCULO 50 TER.- Por el refrendo de la tarjeta de circulación para motocicletas se causará 1.00 UMA
 
-VI.- De remolque 3.31 S.M.G.
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-VII.- Permiso para circular sin placas,
-
-por cada día 0.14 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 50 BIS.- Por el refrendo de tarjeta de circulación y calcomanía para automóviles, camiones y camionetas se pagarán 3.50 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 50 TER.- Por el refrendo de tarjeta de circulación para motocicletas se pagarán 1.00 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 51.
 
-Por reposición de tarjetas de circulación o constancia de calcomanía de automóviles, camiones, camionetas, motocicletas y remolques, se pagará 0.83 S.M.G.
+Por la reposición de la tarjeta de circulación o la constancia de calcomanía de automóvil, camión, camioneta, motocicleta o remolque, se pagará 0.83 UMA
 
 ###### ARTÍCULO 52.
 
 Se causará los derechos establecidos en el artículo 51 de esta ley, cuando sea cancelada la tarjeta de circulación con que se haya dotado a un vehículo automotor en los casos que éste cambie de propietario, o exista cambio de domicilio, de número de motor o en cualquier otro caso, que implique reposición de dicha tarjeta.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 53.
 
-Por la expedición de licencia para conducir vehículos, se causarán derechos conforme a lo siguiente:
+Por la expedición de la licencia para conducir vehículos, se causarán derechos conforme a lo siguiente:
 
 I.- De chofer:
 
-a) Con vigencia de dos años 6.00 S.M.G.
+a) Con vigencia de dos años 6.00 UMA
 
-b) Con vigencia de tres años 10.00 S.M.G.
+b) Con vigencia de tres años 10.00 UMA
 
-c) Con vigencia de cinco años 18.00 S.M.G.
+c) Con vigencia de cinco años 18.00 UMA
 
 II.- De automovilista:
 
-a) Con vigencia de dos años 5.00 S.M.G.
+a) Con vigencia de dos años 5.00 UMA
 
-b) Con vigencia de tres años 8.00 S.M.G.
+b) Con vigencia de tres años 8.00 UMA
 
-c) Con vigencia de cinco años 15.00 S.M.G.
+c) Con vigencia de cinco años 15.00 UMA
 
 III.- Vehículos menores motorizados:
 
-a) Con vigencia de dos años 3.00 S.M.G.
+a) Con vigencia de dos años 3.00 UMA
 
-b) Con vigencia de tres años 4.31 S.M.G.
+b) Con vigencia de tres años 4.31 UMA
 
-c) Con vigencia de cinco años 7.18 S.M.G.
+c) Con vigencia de cinco años 7.18 UMA
 
 IV.- Operador del servicio público de pasaje:
 
-a) Con vigencia de dos años 12.00 S.M.G.
+a) Con vigencia de dos años 12.00 UMA
 
-b) Con vigencia de tres años 14.67 S.M.G.
+b) Con vigencia de tres años 14.67 UMA
 
-c) Con vigencia de cinco años 24.45 S.M.G.
+c) Con vigencia de cinco años 24.45 UMA
 
 V.- Operador del servicio de carga:
 
-a) Con vigencia de dos años 12.00 S.M.G.
+a) Con vigencia de dos años 12.00 UMA
 
-b) Con vigencia de tres años 14.67 S.M.G.
+b) Con vigencia de tres años 14.67 UMA
 
-c) Con vigencia de cinco años 24.45 S.M.G.
+c) Con vigencia de cinco años 24.45 UMA
 
-VI.- Permiso temporal para
+VI.- Permiso temporal para conducir por un término de hasta seis meses 3.72 UMA
 
-conducir por un término
+VII.- Permiso temporal para conducir por un término de hasta treinta días 1.87 UMA
 
-de hasta seis meses 3.72 S.M.G.
-
-VII.- Permiso temporal
-
-para conducir por un término
-
-de hasta treinta días 1.87 S.M.G.
-
-VIII.- Constancias de
-
-licencias de conducir 0.50 S.M.G.
+VIII.- Constancias de licencias de conducir 0.50 UMA
 
 IX.- Personas con discapacidad:
 
-a) Con vigencia de dos años 2.15 S.M.G.
+a) Con vigencia de dos años 2.15 UMA
 
-b) Con vigencia de tres años 3.23 S.M.G.
+b) Con vigencia de tres años 3.23 UMA
 
-c) Con vigencia de cinco años 5.38 S.M.G.
+c) Con vigencia de cinco años 5.38 UMA
 
 ###### ARTÍCULO 54.
 
 Por reposición de licencias de conducir y permiso temporal para conducir, por un término de hasta seis meses, por extravío o deterioro, se causará un derecho equivalente al 50% del costo de su expedición.
 
-> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-ARTÍCULO 54 A.- Por la expedición de Tarjetón para pasajeros con discapacidad se causará un derecho de 1.57 S.M.G.
+ARTÍCULO 54 A.- Por la expedición de tarjetón para pasajeros con discapacidad se causará un derecho de 1.57 UMA
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 55.
 
-La estancia en el corralón, causará un derecho diario por vehículo, de acuerdo con lo siguiente:
+La estancia en el corralón causará un derecho diario por vehículo, de acuerdo con lo siguiente:
 
-I.- Automóviles, camiones y camionetas:
+I.- Automóvil, camión o camioneta:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+a) Por los primeros diez días 1.00 UMA
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+b) Por cada uno de los siguientes días 0.20 UMA
 
-a) Por los primeros diez días 1.00 S.M.G.
+II.- Motocicleta:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+a) Por los primeros diez días 0.30 UMA
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+b) Por cada uno de los siguientes días 0.07 UMA
 
-b) Por cada uno de los siguientes días 0.20 S.M.G.
+III.- Bicicleta, carruaje, carreta o carretón de mano 0.08 UMA
 
-II.- Motocicletas:
+IV.- Remolque u otros vehículos no especificados en las fracciones anteriores 0.11 UMA
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-a) Por los primeros diez días 0.30 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-b) Por cada uno de los siguientes días 0.07 S.M.G.
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-III.- Bicicletas, carruajes, carretas y
-
-carretones de mano 0.08 S.M.G.
-
-IV.- Remolques y otros vehículos no
-
-especificados en las fracciones
-
-anteriores 0.11 S.M.G.
-
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 56.
 
 El servicio de grúa causará derechos de la siguiente forma:
 
-I.- En la ciudad de Mérida, considerando todas sus colonias y fraccionamientos:
+I.- En el interior del anillo periférico de la ciudad de Mérida, considerando todas sus colonias y fraccionamientos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+a) Para vehículos con peso bruto vehicular de hasta de cuatro toneladas 6.00 UMA
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+b) Para vehículos con peso bruto vehicular de más de cuatro toneladas 18.00 UMA
 
-a) Para vehículos con peso bruto
+II.- Cuando el recorrido sea fuera del anillo periférico de la ciudad de Mérida:
 
-vehicular hasta de 4 toneladas 6.00 S.M.G.
+a) Para vehículos con peso bruto vehicular hasta de cuatro toneladas, más 0.14 UMA por kilómetro recorrido, desde el lugar en que se encuentre el vehículo objeto del servicio hasta el de su traslado 5.01 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+b) Para vehículos con peso bruto vehicular de más de cuatro toneladas, más 0.14 UMA por kilómetro recorrido, desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado 14.82 UMA
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+III.- Por abanderamiento durante el tiempo en que se efectúen las maniobras de salvamento, por hora que dure dicha maniobra: 4.00 UMA
 
-b) Para vehículos con peso bruto
+IV.- Por custodia del lugar, en tanto se realice el rescate, por hora de servicio 3.40 UMA
 
-vehicular de más de 4 toneladas 18.00 S.M.G.
+V.- Por maniobra de rescate y salvamento de vehículos:
 
-II.- Cuando el recorrido sea fuera de la ciudad de Mérida:
+a) Para vehículos con peso bruto vehicular hasta de cuatro toneladas para maniobras menores que comprendan movimientos en aceras, camellones, sobre la superficie de rodamiento o hasta diez metros después de la corona del camino 14.20 UMA
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+b) Para vehículos con peso bruto vehicular hasta de cuatro toneladas para maniobras menores que comprendan movimientos a partir de diez metros después de la corona del camino 42.75 UMA
 
-a) Para vehículos con peso bruto vehicular hasta de 4 toneladas 5.01 S.M.G. Más 0.14 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentre el vehículo objeto del servicio hasta el de su traslado.
+c) Para vehículos con peso bruto vehicular hasta de cuatro toneladas para maniobras mayores que comprendan volcaduras, hondonadas y demás maniobras de riesgo, en aceras, camellones, sobre la superficie de rodamiento o hasta diez metros después de la corona del camino 57.00 UMA
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+d) Para vehículos con peso bruto vehicular hasta de cuarto toneladas para maniobras mayores que comprendan volcaduras, hondonadas y demás maniobras de riesgo, a partir de diez metros después de la corona del camino 71.30 UMA
 
-b) Para vehículos con peso bruto vehicular de más de 4 toneladas 14.82 S.M.G.
+e) Para vehículos con peso bruto vehicular a partir de cuatro toneladas para maniobras menores que comprendan movimientos en aceras, camellones, sobre la superficie de rodamiento o hasta diez metros después de la corona del camino 28.50 UMA
 
-Más 0.14 S.M.G. por kilómetro recorrido, desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado.
+f) Para vehículos con peso bruto vehicular a partir de cuatro toneladas para maniobras menores que comprendan movimientos a partir de diez metros después de la corona del camino 68.46 UMA
 
-III.- Salvamento, rescate y traslado de vehículos accidentados:
+g) Para vehículos con peso bruto vehicular a partir de cuatro toneladas para maniobras mayores que comprendan volcaduras, hondonadas y demás maniobras de riesgo, en aceras, camellones, sobre la superficie de rodamiento o hasta diez metros después de la corona del camino 114.09 UMA
 
-a) En la ciudad de Mérida
+h) Para vehículos con peso bruto vehicular a partir de cuatro toneladas para maniobras mayores que comprendan volcaduras, hondonadas y demás maniobras de riesgo, a partir de diez metros después de la corona del camino 142.60 UMA
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-1.- Para vehículos con peso bruto vehicular hasta de 4 toneladas 19.86 S.M.G.
+ARTÍCULO 56 A.- Por la expedición del holograma que acredite que el vehículo cuenta con póliza vigente otorgada por alguna compañía de seguros autorizada por la autoridad competente, se causará 1.50 UMA
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-2.- Para vehículos con peso bruto vehicular de más de 4 toneladas 31.68 S.M.G.
+ARTÍCULO 56 B.- Por la expedición o renovación, en su caso, del permiso de funcionamiento para establecer una escuela de manejo, causará un derecho de 141.09 UMA
 
-b) En carreteras estatales
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+ARTÍCULO 56 C.- Por la expedición o renovación, en su caso, del permiso para ser instructor en alguna escuela de manejo, causará un derecho de 21.16 UMA
 
-1.- Para vehículos con peso bruto vehicular hasta de 4 toneladas 19.86 S.M.G.
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Más 0.14 S.M.G, por kilómetro recorrido desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado.
+ARTÍCULO 56 D.- Por la expedición del holograma de verificación de contaminantes se causará un derecho de 1.50 UMA
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-2.- Para vehículos con peso bruto vehicular de más de 4 toneladas 31.68 S.M.G.
+ARTÍCULO 56 E.- Por los servicios que preste la Secretaría de Seguridad Pública relacionados con la vialidad de vehículos de carga, se causara derechos conforme a lo siguiente:
 
-Más 0.14 S.M.G, por kilómetro recorrido desde el lugar en que se encuentra el vehículo objeto del servicio hasta el de su traslado.
+I.- Por cada maniobra de carga y descarga en la vía pública de vehículos con capacidad de carga:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+a) De cinco a treinta toneladas, se causará un derecho de 5.00 UMA
 
-> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+b) De más de treinta toneladas, se causará un derecho de 7.00 UMA
 
-ARTÍCULO 56 A.- Por la expedición del holograma que acredite que el vehículo cuenta con póliza vigente otorgada por alguna compañía de seguros autorizada por la autoridad competente, se pagará 1.50 S.M.G.
+II.- Por vialidad y transporte de maquinaria u objetos voluminosos, se causará un derecho de 8.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+III.- Por permiso especial por un evento de tránsito o de transporte de maquinaria u objeto voluminoso que exceda del peso o de las dimensiones permitidos, se causará un derecho de 20.00 UMA
 
-> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+IV.- Por el abanderamiento de maquinaria u objetos voluminosos que exceda del peso o de las dimensiones, se causará un derecho por cada hora de 5.00 UMA
 
-ARTÍCULO 56 B.- Por la expedición o renovación en su caso, del permiso de funcionamiento para establecer una escuela de manejo, causará un derecho de 141.09 S.M.G.
+V.- Por permiso de tránsito de entrada y salida de camiones C2 y C3 hacia el primer cuadro de la ciudad para maniobras de carga y descarga, se causará un derecho de 3.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VI.- Por cada hora de cierre parcial o total de la vía de circulación con dispositivos de seguridad vial, por maniobras de maquinaria o manipulación de objetos voluminosos o de grandes dimensiones, se causará un derecho 4.00 UMA
 
-> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
-
-ARTÍCULO 56 C.- Por la expedición o renovación en su caso del permiso para ser instructor en alguna escuela de manejo, causará un derecho de 21.16 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
-
-ARTÍCULO 56 D.- Por la expedición del holograma de verificación de contaminantes se pagará un derecho de 1.50 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 56 E.- Por los servicios que preste la Secretaría de Seguridad Pública relacionados con la vialidad de vehículos de carga:
-
-I.- Por cada maniobra de carga y
-
-descarga en la vía pública de
-
-vehículos con capacidad de carga
-
-de 5 a 30 toneladas, se pagará un
-
-derecho de 5.00 S.M.G.
-
-II.- Por maquinaria pesada se
-
-pagará un derecho por máquina
-
-de 8.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ARTÍCULO 56 F.- Por los servicios que preste la Secretaría de Seguridad Pública relacionados con la Policía Auxiliar y la Policía Bancaria, Industrial y Comercial:
 
-I.- Por servicio de 12 horas con elemento de la policía armada de
+I.- Por servicio de doce horas con elemento de la policía armada de lunes a sábado por mes 174.00 UMA
 
-lunes a sábado por mes. 74.00 S.M.G.
+II.- Por servicio de doce horas con elemento de la policía armada de lunes a domingo por mes 180.00 UMA
 
-II.- Por servicio de 12 horas con elemento de la policía armada
+III.- Por servicio de veinticuatro horas con elemento de la policía armada de lunes a sábado por mes 348.00 UMA
 
-de lunes a domingo por mes. 180.00 S.M.G.
+IV.- Por servicio de veinticuatro horas con elemento de la policía armada de lunes a domingo por mes 360.00 UMA
 
-III.- Por servicio de 24 horas con elemento de la policía armada
+V.- Por servicio de doce horas con elemento de la policía desarmada de lunes a sábado por mes 150.00 UMA
 
-de lunes a sábado por mes 348.00 S.M.G.
+VI.- Por servicio de doce horas con elemento de la policía desarmada de lunes a domingo por mes 168.00 UMA
 
-IV.- Por servicio de 24 horas con elemento de la policía armada
+VII.- Por servicio de veinticuatro horas con elemento de la policía desarmada de lunes a sábado por mes 300.00 UMA
 
-de lunes a domingo por mes. 360.00 S.M.G.
+VIII.- Por servicio de veinticuatro horas con elemento de la policía desarmada de lunes a domingo por mes 336.00 UMA
 
-V.- Por servicio de 12 horas con elemento de la policía
+IX.- Por servicio de doce horas a instituciones de banca múltiple y similares con manejo de efectivo, con elemento de la policía armada de lunes a sábado por mes 240.00 UMA
 
-desarmada de lunes a sábado por mes. 150.00 S.M.G.
+X.- Por servicio de veinticuatro horas a instituciones de banca múltiple y similares con manejo de efectivo, con elemento de la policía armado de lunes a sábado por mes 480.00 UMA
 
-VI.- Por servicio de 12 horas con elemento de la policía
+XI.- Por servicio de veinticuatro horas a instituciones de banca múltiple y similares con manejo de efectivo, con elemento de la policía desarmada de lunes a sábado por mes 355.00 UMA
 
-desarmada de lunes a domingo por mes. 168.00 S.M.G.
+XII.- Por servicio extraordinario de doce horas con elemento de la policía desarmada 25.00 UMA
 
-VII.- Por servicio de 24 horas con elemento de la policía
+XIII.- Por servicio extraordinario de doce horas con elemento de la policía armada 30.00 UMA
 
-desarmada de lunes a sábado por mes. 300.00 S.M.G.
+XIV.- Por servicio extraordinario de una hora con elemento de la policía armada 4.00 UMA
 
-VIII.- Por servicio de 24 horas con elemento de la policía
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-desarmada de lunes a domingo por mes 336.00 S.M.G.
+ARTÍCULO 56 G.- Por los servicios que presta la Secretaría de Seguridad Pública, relacionados con la seguridad externa en las vialidades y espacios públicos adyacentes a los lugares en los que se lleven a cabo exposiciones, asambleas, espectáculos públicos, eventos artísticos y demás eventos análogos en general, de conformidad con el aforo de cada uno de ellos, de acuerdo con la siguiente tabla:
 
-IX.- Por servicio de 12 horas a instituciones de banca múltiple y
+> <small>(REFORMADA, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-similares con manejo de efectivo, con elemento de la policía
+Tabla
 
-armada de lunes a sábado por mes. 240.00 S.M.G.
+I.- De 1 a 500 personas 20.00 UMA
 
-X.- Por servicio de 24 horas a instituciones de banca múltiple y
+II.- De 501 a 1000 personas 40.00 UMA
 
-similares con manejo de efectivo, con elemento de la policía
+III.- De 1001 a 2000 personas 65.00 UMA
 
-armado de lunes a sábado por mes. 480.00 S.M.G.
+IV.- De 2001 a 3000 personas 195.00 UMA
 
-XI.- Por servicio de 24 horas a instituciones de banca múltiple y
+V.- De 3001 a 4000 personas 225.00 UMA
 
-similares con manejo de efectivo, con elemento de la policía
+VI.- De 4001 a 5000 personas 285.00 UMA
 
-desarmada de lunes a sábado por mes 355.00 S.M.G.
+VII.- De 5001 a 10,000 personas 345.00 UMA
 
-XII.- Por servicio extraordinario de 12 horas con elemento de la
-
-policía desarmada 25.00 S.M.G.
-
-XIII.- Por servicio extraordinario de 12 horas con elemento de la
-
-policía armada 30.00 S.M.G.
-
-> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XIV.- Por servicio extraordinario de 1 hora con elemento de la
-
-policía armada 4.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 56 G.- Por los servicios que presta la Secretaría de Seguridad Pública relacionados con la seguridad externa en las vialidades y espacios públicos adyacentes a los lugares en los que se lleven a cabo exposiciones, asambleas, espectáculos públicos, eventos artísticos y demás eventos análogos en general, de conformidad con el aforo de cada uno de ellos, de acuerdo con la siguiente tabla:
-
-De 1 hasta 500 personas 20.00 S.M.G.
-
-De 501 a 1,000 personas 40.00 S.M.G.
-
-De 1,001 a 2,000 personas 65.00 S.M.G.
-
-De 2,001 a 3,000 personas 195.00 S.M.G.
-
-De 3,001 a 4,000 personas 225.00 S.M.G.
-
-De 4,001 a 5,000 personas 285.00 S.M.G.
-
-De 5,001 a 10,000 personas 345.00 S.M.G.
-
-Mayor a 10,001 personas 627.00 S.M.G.
+VIII.- Mayor a 10,001 personas 627.00 UMA
 
 El Secretario de Administración y Finanzas podrá, mediante acto fundado y motivado, reducir las cuotas establecidas en este artículo cuando se trate de personas que tributen de acuerdo con el artículo 79, fracciones VI, XII, XIX, XXII, XXIII, XXIV Y XXV de la Ley del Impuesto sobre la Renta y tomando en consideración la finalidad de la realización del evento o espectáculo. Lo previsto en este artículo no constituye instancia y las resoluciones que se emitan no podrán ser impugnadas.
 
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Artículo 56 H.- Por los servicios que presta la Secretaría de Seguridad Pública relacionados con la seguridad externa en las vialidades y espacios públicos adyacentes de las rutas y lugares en los que se lleven a cabo carreras de fondo, caminatas, paseos, rali, y demás eventos análogos en general, de conformidad al tipo de evento y al aforo de cada uno de ellos, de acuerdo con lo siguiente:
+
+I.- Por eventos de hasta 5 kilómetros:
+
+a) De 1 a 500 personas 11.40 UMA
+
+b) De 501 a 700 personas 17.11 UMA
+
+c) De 701 a 1000 personas 22.81 UMA
+
+d) De 1001 a 1500 personas 28.52 UMA
+
+e) A partir de 1501 personas 34.22 UMA
+
+II.- Por eventos de hasta 10 kilómetros:
+
+a) De 1 a 500 personas 22.81 UMA
+
+b) De 501 a 700 personas 34.22 UMA
+
+c) De 701 a 1000 personas 45.63 UMA
+
+d) De 1001 a 1500 personas 57.04 UMA
+
+e) A partir de 1501 personas 79.86 UMA
+
+III.- Por eventos de hasta 21 kilómetros:
+
+a) De 1 a 500 personas 45.63 U.M.A.
+
+b) De 501 a 700 personas 57.04 UMA
+
+c) De 701 a 1000 personas 85.56 UMA
+
+d) De 1001 a 1500 personas 96.97 UMA
+
+e) A partir de 1501 personas 114.09 UMA
+
+IV.- Por eventos de hasta 42 kilómetros:
+
+a) De 1 a 500 personas 57.04 UMA
+
+b) De 501 a 700 personas 68.45 UMA
+
+c) De 701 a 1000 personas 96.97 UMA
+
+d) De 1001 a 1500 personas 108.38 UMA
+
+e) A partir de 1501 personas 136.91 UMA
+
+V.- Por eventos de ciclismo, cualquiera que sea la distancia a cubrir:
+
+a) De 1 a 500 personas 57.04 UMA
+
+b) De 501 a 700 personas 68.45 UMA
+
+c) De 701 a 1000 personas 96.97 UMA
+
+d) De 1001 a 1500 personas 108.38 UMA
+
+e) A partir de 1501 personas 136.91 UMA
+
+VI.- Por eventos de triatlón, cualquiera que sea la distancia a cubrir:
+
+a) De 1 a 500 personas 102.68 UMA
+
+b) De 501 a 700 personas 114.09 UMA
+
+c) De 701 a 1000 personas 136.91 UMA
+
+d) De 1001 a 1500 personas 154.02 UMA
+
+e) A partir de 1501 personas 171.13 UMA
+
+VII.- Por eventos de rali, cualquiera que sea la distancia a cubrir:
+
+a) De 1 a 500 personas 57.04 UMA
+
+b) De 501 a 700 personas 68.45 UMA
+
+c) De 701 a 1000 personas 79.86 UMA
+
+d) De 1001 a 1500 personas 91.27 UMA
+
+e) A partir de 1501 personas 102.68 UMA
+
+El secretario de Administración y Finanzas podrá, mediante acto fundado y motivado, reducir las cuotas establecidas en este artículo cuando se trate de personas que tributen de acuerdo con el artículo 79, fracciones VI, XXIII y XXIV, de la Ley del Impuesto sobre la Renta y tomando en consideración la finalidad de la realización del evento y el aforo. Lo previsto en este artículo no constituye instancia y las resoluciones que se emitan no podrán ser impugnadas.
+
 ### CAPITULO VII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL ARCHIVO NOTARIAL DEL ESTADO
+
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 57.
 
 Por los servicios que presta la Dirección del Registro Civil, se causarán derechos conforme a lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I.- Registro de reconocimiento 1.20 UMA
 
-I.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2009)
+II.- Registro de adopción 2.17 UMA
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+III.- Registro de matrimonio:
 
-II.- Registro de reconocimiento 1.20 S.M.G.
+a) Celebrado en oficina 3.53 UMA
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+b) Celebrado enla (sic) ciudad de Mérida, fuera de oficina 50.00 UMA
 
-III.- Registro de adopción 2.17 S.M.G.
+c) Celebrado en las demás localidades, fuera de oficina 21.64 UMA
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+IV.- Registro de divorcio:
 
-IV.- Registro de Matrimonio:
+a) Volutario (sic) administrativo 21.17 UMA
 
-a) Celebrado en oficina 3.53 S.M.G.
+b) Voluntario judicial 9.62 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+c) Sin causales 14.66 UMA
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+V.- Registro de defunción 0.77 UMA
 
-b) Celebrado enla (sic) ciudad de Mérida, fuera de oficina 50.00 S.M.G.
+VI.- Autorización para el traslado de cadáver o cenizas:
 
-c) Celebrado en las demás localidades, fuera de oficina 21.64 S.M.G.
+a) A otros estados del país 1.92 UMA
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+b) Al extranjero 2.64 UMA
 
-V.- Registro de Divorcio:
+VII.- Inscripción de actas procedentes del extranjero 3.53 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VIII.- Cambio de nombre 1.69 UMA
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+IX.- Anotaciones marginales:
 
-a) Voluntario Administrativo 21.17 S.M.G.
+a) Por sentencia judicial 3.84 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+b) Administrativas 0.97 UMA
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+c) Notariales 7.84 UMA
 
-b) Voluntario Judicial 9.62 S.M.G.
+X.- Certificaciones 0.81 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XI.- Diligencia administrativa de registro extemporáneo de nacimiento:
 
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+a) De ocho a diecisiete años 1.44 UMA
 
-c) Sin Causales 14.66 S.M.G.
+b) De dieciocho años en adelante 2.17 UMA
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+XII.- Legalización de firma del Oficial del Registro Civil 1.58 UMA
 
-VI.- Registro de defunción 0.77 S.M.G.
+XIII.- Corrección de actas 0.97 UMA
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+XIV.- Autorización de exhumación 0.97 UMA
 
-VII.- Autorización para el traslado de cadáver o cenizas:
+XV.- Autorización de inhumación o cremación 0.27 UMA
 
-a) A otros estados del país 1.92 S.M.G.
+XVI.- Búsqueda de actas del estado civil sin datos concretos por búsqueda hasta cinco años mediante manual en oficialía y archivo 1.65 UMA
 
-b) Al extranjero 2.64 S.M.G.
+XVII.- Diligencia a domicilio por registro de nacimiento 4.59 UMA
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+XVIII.- Por expedición:
 
-VIII.- Inscripción de actas procedentes del extranjero 3.53 S.M.G.
+a) De copia simples por la primera hoja 0.50 UMA
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+b) Por cada hoja excedente 0.02 UMA
 
-IX.- Cambio de nombre 1.69 S.M.G.
+XIX. Por expedición de copia fiel del libro donde consta el acto registral 0.92 UMA
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+XX. Constancia de existencia o inexistencia de registro 2.00 UMA
 
-X.- Anotaciones marginales:
+XXI. Certificación de actas de otras entidades federativas 1.80 UMA
 
-a) Por sentencia judicial 3.84 S.M.G.
+XXII. Certificación de actas de nacimiento en línea 1.80 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Los servicios dispuestos en las fracciones II, IV, VII, y VIII, incluyen la expedición de un certificado. El Gobernador, mediante decreto, podrá eximir total o parcialmente el pago de los derechos que se establecen en las fracciones I, II, III, V, X, XI y XIII, en los términos dispuestos en el Código Fiscal del Estado de Yucatán.
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-b) Administrativas 0.97 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-c) Notariales 7.84 S.M.G.
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XI.- Certificaciones 0.81 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XII.- Diligencia administrativa de registro extemporáneo de nacimiento:
-
-a) De 8 a 17 años 1.44 S.M.G.
-
-b) De 18 años en adelante 2.17 S.M.G.
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XIII.- Legalización de firma del Oficial del Registro Civil 1.58 S.M.G.
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XIV.- Corrección de actas 0.97 S.M.G.
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XV.- Autorización de Exhumación 0.97 S.M.G.
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XVI.- Autorización de Inhumación o Cremación 0.27 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XVII.- Búsqueda de actas del estado civil sin datos concretos por búsqueda hasta 5 años mediante manual en oficialía y archivo 1.65 S.M.G
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XVIII.- Diligencia a domicilio por registro de nacimiento 4.59 S.M.G
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XIX.- Por expedición:
-
-a) De copia simples por la primera hoja 0.50 S.M.G.
-
-b) Por cada hoja excedente 0.02 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XX. Por expedición de copia fiel
-
-del libro donde consta el acto registral 0.92 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XXI. Constancia de existencia
-
-o inexistencia de registro 2.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 2015)</small>
-
-XXII. Certificación de actas de otras entidades federativas 1.80 S.M.G.
-
-Los servicios dispuestos en las fracciones III, V, VIII, y IX, incluyen la expedición de un certificado. El Ejecutivo, mediante decreto, podrá eximir total o parcialmente el pago de los derechos que se establecen en las fracciones I, II, III, IV, VI, XI, XII y XIV, en los términos dispuestos en el Código Fiscal del Estado de Yucatán.
-
-> <small>(ADICIONADO, D.O. 27 DE NOVIEMBRE DE 2014)</small>
-
-No se causarán los derechos a que se refiere la fracción XI de este artículo cuando se trate de la primera certificación del acta de registro de nacimiento.
+No se causarán los derechos a que se refiere la fracción X de este artículo cuando se trate de la primera certificación del acta de registro de nacimiento.
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 244/2014, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 26 DE DICIEMBRE DE 2014, EL CAPÍTULO IV, DEL TÍTULO TERCERO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
 
 ### CAPÍTULO VIII. DERECHOS POR LOS SERVICIOS QUE PRESTA EL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATAN
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 58.
 
-Los derechos a que se refiere este capítulo, serán pagados de conformidad con lo siguiente:
+Los derechos a que se refiere este capítulo, se causarán de conformidad con lo siguiente:
 
-I.- Por servicio funerario particular 6.00 S.M.G.
+I.- Por servicio funerario particular 6.00 UMA
 
-II.- Por renta de bóveda por un período de dos años o su
+II.- Por renta de bóveda por un período de dos años o su prórroga por el mismo período, en las poblaciones de: Progreso, Motul, Tizimín, Valladolid, Izamal, Tekax, Peto, Umán y Kanasín:
 
-prórroga por el mismo período, en las poblaciones de:
+a) Bóveda grande 6.00 UMA
 
-Progreso, Motul, Tizimín, Valladolid, Izamal, Tekax, Peto,
+b) Bóveda chica 3.00 UMA
 
-Umán y Kanasín:
-
-a) Bóveda grande 6.00 S.M.G.
-
-b) Bóveda chica 3.00 S.M.G.
-
-En las demás poblaciones del interior del Estado, se cobrará el 50% del importe señalado en esta fracción.
+En las demás poblaciones del interior del estado, se cobrará el 50% del importe señalado en esta fracción.
 
 No se cobrarán los derechos establecidos en esta fracción, cuando sea el municipio quien preste el servicio y cobre los derechos correspondientes conforme a su legislación municipal.
 
-III.- Por concesión de uso a perpetuidad de una sepultura, en los cementerios en las poblaciones del interior del Estado:
+III.- Por concesión de uso a perpetuidad de una sepultura, en los cementerios en las poblaciones del interior del estado:
 
-a) Osario o cripta mural 3.00 S.M.G.
+a) Osario o cripta mural 3.00 UMA
 
-b) Bóveda chica 17.00 S.M.G.
+b) Bóveda chica 17.00 UMA
 
-c) Bóveda grande 39.00 S.M.G.
+c) Bóveda grande 39.00 UMA
 
-d) Bóveda grande doble 60.00 S.M.G.
+d) Bóveda grande doble 60.00 UMA
 
-e) Mausoleos de 5 X 11 mts. por m2 2.00 S.M.G.
+e) Mausoleos de 5 X 11 mts. por m2 2.00 UMA
 
-IV.- Servicio de Inhumación o exhumación en los
+IV.- Servicio de Inhumación o exhumación en los cementerios públicos, en las poblaciones del interior del estado 2.00 UMA
 
-cementerios públicos, en las poblaciones del
+Cuando se trate de inhumaciones en fosa común, no se causará derecho alguno.
 
-interior del Estado 2.00 S.M.G.
+V.- En las poblaciones del interior del estado en donde no existan bóvedas, sino que sean fosas no comunes, la causación del pago a perpetuidad será:
 
-Cuando se trate de inhumaciones en
+a) Fosa grande 2.00 UMA
 
-fosa común, no se causará derecho alguno.
+b) Fosa chica 1.00 UMA
 
-V.- En las poblaciones del interior del Estado en donde no existan bóvedas, sino que sean fosas no comunes, el pago a perpetuidad será:
-
-a) Fosa grande 2.00 S.M.G.
-
-b) Fosa chica 1.00 S.M.G.
-
-VI.- Por la expedición de duplicado de un título
-
-de concesión de uso a perpetuidad de una sepultura,
-
-en los cementerios en las poblaciones del
-
-interior del Estado 1.00 S.M.G.
+VI.- Por la expedición de duplicado de un título de concesión de uso a perpetuidad de una sepultura, en los cementerios en las poblaciones del interior del estado 1.00 UMA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2103,93 +1971,67 @@ interior del Estado 1.00 S.M.G.
 
 ### CAPÍTULO IX. DERECHOS POR LOS SERVICIOS QUE PRESTA LA CONSEJERÍA JURÍDICA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 59.
 
-Por los servicios que preste la Dirección del Registro Público de la Propiedad y del Comercio, en su sección de Propiedad, se causarán los derechos conforme a lo siguiente:
+Por los servicios que preste la Dirección del Registro Público de la Propiedad y del Comercio, en su sección de propiedad, se causarán los derechos conforme a lo siguiente:
 
-I. Por la calificación de cualquier documento 1.41 S.M.G.
+I. Por la calificación de cualquier documento 1.41 UMA
 
-II. Por cualquier inscripción 5.80 S.M.G.
+II. Por cualquier inscripción 5.80 UMA
 
-III. Por la anotación de cualquier aviso 0.39 S.M.G.
+III. Por la anotación de cualquier aviso 0.39 UMA
 
-IV.- Por la expedición de cualquier constancia 2.66 S.M.G.
+IV.- Por la expedición de cualquier constancia 2.66 UMA
 
-V.- Por la expedición de cualquier certificado,
+V.- Por la expedición de cualquier certificado, por cada predio 5.80 UMA
 
-por cada predio 5.80 S.M.G.
+VI.- Por la rectificación de inscripción 1.32 UMA
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+VII.- Por la verificación de cualquier predio 0.65 UMA
 
-VI.- Por la rectificación de inscripción 1.32 S.M.G.
+VIII.- Por cualquier cancelación de inscripción 5.80 UMA
 
-VII.- Por la verificación de cualquier predio 0.65 S.M.G.
+IX.- Por la cancelación de la anotación de cualquier aviso. 0.35 UMA
 
-VIII.- Por cualquier cancelación de inscripción 5.80 S.M.G.
+X.- Por la corrección de la anotación de cualquier aviso 0.39 UMA
 
-IX.- Por la cancelación de la anotación
+XI.- Por la inscripción de la copia o constancia del acta de la diligencia de ejecución en juicio ejecutivo mercantil, para el caso de haberse embargado bienes inmuebles 0.39 UMA
 
-de cualquier aviso. 0.35 S.M.G.
+No se causarán los derechos a que se refieren las fracciones I, II, III y VIII de este artículo, en los casos en que el servicio se preste para la inscripción de contratos, en los cuales sean parte el Instituto de Seguridad Social para los Trabajadores del Estado de Yucatán, Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto de la Vivienda del Estado de Yucatán, la Comisión Reguladora de la Tenencia de la Tierra o el Registro Agrario Nacional; así como tampoco los que se refieren a las fracciones I, II y III en los casos relativos a contratos de créditos celebrados por cualesquiera de las instituciones públicas o de crédito autorizadas, cuyo objeto sea la adquisición o la construcción de viviendas; siempre y cuando el monto de la operación, individualmente considerada, no exceda del valor anual de veinticinco unidades de medida y actualización. De igual forma no se causarán los derechos señalados cuando se trate de las adjudicaciones a favor de los trabajadores que señala el artículo 975 fracción II inciso b) de la Ley Federal del Trabajo.
 
-> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-X.- Por la corrección de la anotación de cualquier
-
-aviso 0.39 S.M.G.
-
-> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XI.- Por la inscripción de la copia o constancia del acta de la diligencia de ejecución en juicio ejecutivo mercantil, para el caso de haberse embargado bienes inmuebles 0.39 S.M.G.
-
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-No se causarán los derechos a que se refieren las fracciones I, II, III y VIII de este artículo, en los casos en que el servicio se preste para la inscripción de contratos, en los cuales sean parte el Instituto de Seguridad Social para los Trabajadores del Estado de Yucatán, Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Instituto de la Vivienda del Estado de Yucatán, la Comisión Reguladora de la Tenencia de la Tierra o el Registro Agrario Nacional; así como tampoco los que se refieren a las fracciones I, II y III en los casos relativos a contratos de créditos celebrados por cualesquiera de las instituciones públicas o de crédito autorizadas, cuyo objeto sea la adquisición o la construcción de viviendas; siempre y cuando el monto de la operación, individualmente considerada, no exceda de la cantidad que resulte de multiplicar por 25 veces el salario mínimo general vigente en el Estado de Yucatán, elevado al año. De igual forma no se causarán los derechos señalados cuando se trate de las adjudicaciones a favor de los trabajadores que señala el artículo 975 fracción II inciso b) de la Ley Federal del Trabajo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 60.
 
-Por los servicios que presta la Dirección del Registro Público de la Propiedad y del Comercio, en su sección de Comercio, se causarán derechos de acuerdo a lo siguiente:
+Por los servicios que presta la Dirección del Registro Público de la Propiedad y del Comercio, en su sección de comercio, se causarán derechos de acuerdo a lo siguiente:
 
-I.- Por la calificación de cualquier documento 1.41 S.M.G.
+I.- Por la calificación de cualquier documento 1.41 UMA
 
-II.- Por la inscripción de cualquier matrícula 1.41 S.M.G.
+II.- Por la inscripción de cualquier matrícula 1.41 UMA
 
-III.- Por la inscripción de cualquier acto o convenio
+III.- Por la inscripción de cualquier acto o convenio relacionado con sociedades mercantiles, con excepción de poderes o mandatos 12.41 UMA
 
-relacionado con sociedades mercantiles, con excepción
+IV.- Por la inscripción de actos o convenios relacionados con poderes o mandatos o su revocación y que sean de sociedades mercantiles 4.50 UMA
 
-de poderes o mandatos 12.41 S.M.G.
+V.- Por la rectificación o reposición de inscripciones 1.41 UMA
 
-IV.- Por la inscripción de actos o convenios relacionados
-
-con poderes o mandatos o su revocación y que sean de
-
-sociedades mercantiles 4.50 S.M.G.
-
-V.- Por la rectificación o reposición de inscripciones 1.41 S.M.G.
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 61.
 
-Por los servicios que preste la Dirección del Registro Público de la Propiedad y del Comercio, que no estuvieren relacionados en los artículos 59 y 60 de esta Ley, se causarán los derechos siguientes por:
+Por los servicios que preste la Dirección del Registro Público de la Propiedad y del Comercio, que no estuvieren relacionados en los artículos 59 y 60 de esta ley, se causarán los derechos siguientes por:
 
-I.- La calificación de cualquier documento 1.41 S.M.G.
+I.- La calificación de cualquier documento 1.41 UMA
 
-II.- Por la inscripción de cualquier acto o convenio relacionado con el Registro de Personas Morales de Naturaleza Civil o con el Registro de Crédito Rural, con excepción de poderes o mandatos 12.41 S.M.G.
+II.- Por la inscripción de cualquier acto o convenio relacionado con el Registro de Personas Morales de Naturaleza Civil o con el Registro de Crédito Rural, con excepción de poderes o mandatos 12.41 UMA
 
-III.- Por la inscripción de cualquier acto o convenio relacionado con poderes o mandatos o su revocación en el Registro de Personas Morales de Naturaleza Civil o en el Registro de Crédito Rural. 4.50 S.M.G
+III.- Por la inscripción de cualquier acto o convenio relacionado con poderes o mandatos o su revocación en el Registro de Personas Morales de Naturaleza Civil o en el Registro de Crédito Rural 4.50 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+IV.- La inscripción de cualquier acto o convenio distinto a los anteriores 12.41 UMA
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2015)</small>
-
-IV.- La inscripción de cualquier acto o convenio distinto a los anteriores 12.41 S.M.G.
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 62.
 
@@ -2203,49 +2045,47 @@ III.- En los casos en que un documento tenga que inscribirse en varias secciones
 
 ### CAPÍTULO X. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL CATASTRO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 63.
 
 Por las siguientes escrituras públicas que se otorguen ante notario o escribano públicos, se causarán derechos conforme a lo siguiente:
 
-I.- De protesto 2.46 S.M.G.
+I.- De protesto 2.46 UMA
 
-II.- De poder o mandato 2.46 S.M.G.
+II.- De poder o mandato 2.46 UMA
 
-III.- De testamento 3.60 S.M.G.
+III.- De testamento 3.60 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 64.
 
-Cuando las escrituras o contratos otorgados ante cualquier fedatario público contengan precio de operación, se pagarán derechos conforme a la siguiente:
+Cuando las escrituras o contratos otorgados ante cualquier fedatario público contengan precio de operación, se causarán derechos conforme a la siguiente:
 
-TARIFA
+Tarifa
 
-PESOS
+Pesos
 
-HASTA 10,000.00 5.64 S.M.G.
+HASTA 10,000.00 5.64 UMA
 
-DE 10,000.01 A 20,000.00 8.31 S.M.G.
+DE 10,000.01 a 20,000.00 8.31 UMA
 
-DE 20,000.01 A 50,000.00 12.23 S.M.G.
+DE 20,000.01 a 50,000.00 12.23 UMA
 
-DE 50,000.01 A 80,000.00 15.99 S.M.G.
+DE 50,000.01 a 80,000.00 15.99 UMA
 
-DE 80,000.01 A 110,000.00 20.69 S.M.G.
+DE 80,000.01 a 110,000.00 20.69 UMA
 
-DE 110,000.01 A 500,000.00 32.92 S.M.G.
+DE 110,000.01 a 500,000.00 32.92 UMA
 
-DE 500,000.01 A 1'000,000.00 42.32 S.M.G.
+DE 500,000.01 a 1'000,000.00 42.32 UMA
 
-DE 1'000,000.01 EN ADELANTE 48.59 S.M.G.
+DE 1'000,000.01 En adelante 48.59 UMA
 
 En los contratos o convenios en los que se pacte la ocupación o la desocupación de inmuebles y se estipule un plazo indefinido, se tomará la cuantía correspondiente a un año, aplicándose la tarifa del párrafo anterior.
 
-Cualquier escritura pública o documento que contenga un contrato o convenio otorgado ante fedatario público, que se refiera o no a cantidad determinada y no esté gravada en este Capítulo, causará un derecho de 3.96 S.M.G.
+Cualquier escritura pública o documento que contenga un contrato o convenio otorgado ante fedatario público, que se refiera o no a cantidad determinada y no esté gravada en este capítulo, causará un derecho de 3.96 UMA
 
 No se causará este derecho, en los casos en que no se causen los establecidos en las fracciones I, II y III del artículo 59 de esta ley.
 
@@ -2257,29 +2097,17 @@ No se causará este derecho, en los casos en que no se causen los establecidos e
 
 Los servicios que preste la Dirección del Archivo Notarial del Estado, causarán derechos por:
 
-I.- La expedición de testimonios, por cada hoja 0.50 S.M.G.
+I.- La expedición de testimonios, por cada hoja 0.50 UMA
 
-II.- La expedición de certificados, por cada hoja 0.50 S.M.G.
+II.- La expedición de certificados, por cada hoja 0.50 UMA
 
-III.- Intervención del Director del Archivo Notarial en
+III.- Intervención del Director del Archivo Notarial en el o los trámites, al hacerse cargo de una notaría en los términos de la ley del notariado, por cada escritura pública. 3.25 UMA
 
-él o los trámites, al hacerse cargo de una notaría en
+IV.- La búsqueda de avisos de otorgamiento testamentario y contestación 3.00 UMA
 
-los términos de la Ley del Notariado, por cada
+V.- Registro y archivo de testamentos ológrafos 3.00 UMA
 
-escritura Pública. 3.25 S.M.G.
-
-IV.- La búsqueda de avisos de otorgamiento
-
-testamentario y contestación 3.00 S.M.G.
-
-V.- Registro y archivo de testamentos ológrafos 3.00 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-VI.- Por la recepción y revisión de cada aviso de escritura
-
-que se otorga ante Escribano Público 0.75 S.M.G.
+VI.- Por la recepción y revisión de cada aviso de escritura que se otorga ante escribano público 0.75 UMA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2287,65 +2115,45 @@ que se otorga ante Escribano Público 0.75 S.M.G.
 
 ### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA FISCALÍA GENERAL DEL ESTADO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 66.
 
-Las suscripciones y publicaciones en el Diario Oficial del Gobierno del Estado, causarán derechos conforme a lo siguiente:
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+Las suscripciones y publicaciones en el diario oficial del estado, causarán derechos conforme a lo siguiente:
 
 I.- Suscripciones por un año:
 
-a) Sin suplemento 22.11 S.M.G.
+a) Sin suplemento 22.11 UMA
 
-b) Con suplemento 28.84 S.M.G.
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+b) Con suplemento 28.84 UMA
 
 II.- Suscripciones por un semestre:
 
-a) Sin suplemento 11.54 S.M.G.
+a) Sin suplemento 11.54 UMA
 
-b) Con suplemento 15.39 S.M.G.
+b) Con suplemento 15.39 UMA
 
 III.- Publicaciones, por:
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+a) Edictos, circulares, avisos o cualquiera que no pase de diez líneas de columna, por cada publicación 1.92 UMA
 
-a) Edictos, circulares, avisos o cualquiera que no pase de diez líneas de columna, por cada publicación 1.92 S.M.G.
+b) Cada palabra adicional 0.03 UMA
 
-b) Cada palabra adicional 0.03 S.M.G.
+c) Una plana 13.46 UMA
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+d) Media plana 6.72 UMA
 
-c) Una plana 13.46 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-d) Media plana 6.72 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-e) Un cuarto de plana 3.84 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+e) Un cuarto de plana 3.84 UMA
 
 IV.- Por ejemplar:
 
-a) Del día sin suplemento 0.14 S.M.G.
+a) Del día sin suplemento 0.14 UMA
 
-b) Suplemento del día por hoja 0.01 S.M.G.
+b) Suplemento del día por hoja 0.01 UMA
 
-c) De fecha anterior sin suplemento 0.21 S.M.G.
+c) De fecha anterior sin suplemento 0.21 UMA
 
-d) Por el suplemento de fecha anterior por hoja 0.01 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-V.- Por expedición de copias certificadas por hoja 0.10 S.M.G.
+d) Por el suplemento de fecha anterior por hoja 0.01 UMA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -2353,227 +2161,137 @@ V.- Por expedición de copias certificadas por hoja 0.10 S.M.G.
 
 ### CAPÍTULO XIII. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE EDUCACIÓN
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 67.
 
 Los servicios que presta la Consejería Jurídica, causarán derechos de conformidad con lo siguiente:
 
-l. Legalización de firmas 1.75 S.M.G.
+I.- Legalización de firmas 1.75 UMA
 
-II. Apostillamiento de documentos públicos 1.75 S.M.G.
+II.- Apostillamiento de documentos públicos 1.75 UMA
 
-III. Expedición de opinión relacionada con armas de fuego y explosivos 4.50 S.M.G.
+III.- Expedición de opinión relacionada con armas de fuego y explosivos 4.50 UMA
 
-IV. Certificación de plicas 0.47 S.M.G.
+IV.- Certificación de plicas 0.47 UMA
 
-V. Expedición de opinión para la instalación de establecimientos de juegos y sorteos 5.50 S.M.G.
+V.- Expedición de opinión para la instalación de establecimientos de juegos y sorteos 5.50 UMA
 
 ### CAPÍTULO XIV. DERECHOS POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 68.
 
 Los servicios que presta la Dirección del Catastro causarán derechos de conformidad con lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2015)</small>
-
 I.- La emisión de copias fotostáticas simples impresas o en línea:
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+a) Por cada hoja simple tamaño carta u oficio, de cédulas, planos, parcelas o cualquier otro documento catastral 0.28 UMA
 
-a) Por cada hoja simple tamaño carta u oficio, de cédulas, planos, parcelas o cualquier otro documento catastral 0.28 S.M.G.
+b) Planos mayores al tamaño oficio y hasta cuatro veces tamaño carta 1.20 UMA
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-b) Planos mayores al tamaño oficio y hasta cuatro
-
-veces tamaño carta 1.20 S.M.G.
-
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
-
-c) Planos mayores a 4 veces tamaño carta 3.03 S.M.G.
+c) Planos mayores a cuatro veces tamaño carta 3.03 UMA
 
 II.- Expedición de copias fotostáticas certificadas de:
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+a) Cada hoja certificada tamaño carta u oficio de cedulas, planos, parcelas o cualquier otro documento catastral 0.76 UMA
 
-a) Cada hoja certificada tamaño carta u oficio de
+b) Planos mayores al tamaño oficio y hasta cuatro veces tamaño carta 2.45 UMA
 
-cedulas, planos, parcelas o cualquier otro documento
-
-catastral 0.76 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-b) Planos mayores al tamaño oficio y hasta 4 veces tamaño carta 2.45 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-c) Planos mayores a 4 veces tamaño carta 4.76 S.M.G.
-
-d) (DEROGADO, D.O. 20 DE DICIEMBRE DE 2010)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+c) Planos mayores a cuatro veces tamaño carta 4.76 UMA
 
 III.- Por expedición de:
 
-a) Oficio o revalidación de oficio de división o unión
+a) Oficio o revalidación de oficio de división o unión, por cada parte 0.51 UMA
 
-(por cada parte) 0.51 S.M.G.
+b) Oficio o revalidación de oficio de rectificación de medidas, urbanización y cambio de nomenclatura 1.21 UMA
 
-b) Oficio o revalidación de oficio de rectificación de medidas, urbanización y cambio de nomenclatura 1.21 S.M.G.
+c) Cédulas catastrales 1.94 UMA
 
-c) Cédulas catastrales 1.94 S.M.G.
+d) Constancias y certificados 1.99 UMA
 
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+e) Información de bienes por propietario o por predio:
 
-d) Constancias y certificados 1.99 S.M.G.
+De 0 a 5 predios 1.64 UMA
 
-e) (DEROGADO, D.O. 26 DE DICIEMBRE DE 2014)
+De 6 a 10 predios 3.34 UMA
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+De 11 a 20 predios 4.90 UMA
 
-f) Información de bienes por propietario o por predio:
+De 21 en adelante 0.31 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Adicionalmente por cada predio excedente a 21 0.20 UMA
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+f) Oficio de verificación de medidas, deslinde catastral, ubicación o marcación de predio 1.20 UMA
 
-De 0 a 5 predios 1.64 S.M.G.
-
-De 6 a 10 predios 3.34 S.M.G.
-
-De 11 a 20 predios 4.90 S.M.G.
-
-De 21 en adelante 0.31 S.M.G.
-
-Adicionalmente por
-
-cada predio excedente a 21 0.20 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-g) Oficio de verificación de medidas, deslinde catastral, ubicación o marcación de predio 1.20 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
-
-h) Constancia de factibilidad para uniones divisiones y rectificaciones de medidas 1.20 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+g) Constancia de factibilidad para uniones divisiones y rectificaciones de medidas 1.20 UMA
 
 IV.- Elaboración de planos:
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-a) Catastrales a escala sin cuadro de construcción 3.00 S.M.G.
-
-> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-Cuando se trate del primer plano catastral, se pagarán además los derechos previstos en las fracciones VI y VII de este artículo, en su caso.
-
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
+a) Catastrales a escala sin cuadro de construcción 3.00 UMA
 
 b) Planos topográficos
 
-de 1 m2 a 9,999 m2 7.20 S.M.G.
+de 1 m2 a 9,999 m2 7.20 UMA
 
-de 01-00-00 ha a 10-00-00 ha 7.63 S.M.G.
+de 01-00-00 ha a 10-00-00 ha 7.63 UMA
 
-de 10-00-01 ha a 20-00-00 ha 9.19 S.M.G.
+de 10-00-01 ha a 20-00-00 ha 9.19 UMA
 
-de 20-00-01 ha a 30-00-00 ha 11.44 S.M.G.
+de 20-00-01 ha a 30-00-00 ha 11.44 UMA
 
-A partir de 30-00-01 ha en adelante, por cada
+A partir de 30-00-01 ha en adelante, por cada hectárea excedente se cobrará 0.38 UMA
 
-hectárea excedente se cobrará 0.38 S.M.G.
+Cuando se trate del primer plano catastral, se causarán además los derechos previstos en las fracciones V y VI de este artículo, en su caso
 
-V.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2012)
+V.- Por diligencias de rectificación o verificación de medidas físicas, de colindancias de predios, división, unión, urbanización, ubicación, marcación y acta circunstanciada 4.78 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Más 0.10 UMA por kilómetro recorrido, considerando como punto de partida la ubicación de la Dirección de Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán, sin que el derecho establecido en este párrafo exceda de diecisiete UMA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+En el pago de kilometraje se causará un solo derecho cuando se trate del mismo propietario y en la misma localidad.
 
-VI.- Por diligencias de rectificación o verificación de medidas físicas, de colindancias de predios, división, unión, urbanización, ubicación, marcación y acta circunstanciada 4.78 S.M.G.
+VI.- Cuando los trámites a realizar requieran de trabajos de topografía, que usen el sistema de coordenadas universal transversal de Mercator, se cobrará de acuerdo con la siguiente tabla:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 29 DE DICIEMBRE DE 2016, PÁGINAS 47 Y 48.]</small>
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+VII.- Por impresión de planos:
 
-Más 0.10 S.M.G. por kilómetro recorrido, considerando como punto de partida la ubicación de la Dirección de Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán, sin que el derecho establecido en este párrafo exceda de 17 S.M.G.
+a) Tamaño carta 0.84 UMA
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
+b) Tamaño dos cartas 1.68 UMA
 
-En el pago de kilometraje se pagará un sólo derecho cuando se trate del mismo propietario y en la misma localidad.
+c) Tamaño cuatro cartas (Plotter) 3.39 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+d) Planos mayores a cuatro veces tamaño carta. 6.73 UMA
 
-> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+VIII.- Por la expedición del archivo electrónico de planos de carácter informativo de colonia, fraccionamiento, sección o municipio a nivel manzana, zonas urbanas:
 
-VII.- Cuando los trámites a realizar requieran de trabajos de topografía, que usen el sistema de coordenadas universal transversal de Mercator, se cobrará de acuerdo con la siguiente tabla:
+a) De 1 a 10 manzanas 1.00 UMA
 
-> <small>N. DE E. VÉASE TABLA EN EL D.O. DE 29 DE DICIEMBRE DE 2005, PÁGINAS DE LA 26 A LA 28.</small>
+b) De 11 a 20 manzanas 2.00 UMA
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. DE 24 DE DICIEMBRE DE 2007, PÁGINA 73; 20 DE DICIEMBRE DE 2010, PÁGINA 29; 19 DE DICIEMBRE DE 2013, PÁGINA 38; 26 DE DICIEMBRE DE 2014, PÁGINAS DE LA 36 A LA 37.</small>
+c) De 21 a 30 manzanas 3.00 UMA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 29 DE DICIEMBRE DE 2012)</small>
+d) Municipio completo 4.00 UMA
 
-VIII.- Por impresión de planos:
+IX.- Por la verificación vía Internet de planos 1.00 UMA
 
-a) Tamaño carta 0.84 S.M.G.
-
-b) Tamaño dos cartas 1.68 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-c) Tamaño cuatro cartas (Plotter) 3.39 S.M.G.
-
-d) Planos mayores a 4 veces tamaño carta 6.73 S.M.G.
-
-> <small>(ADICIONADA (N. DE E. REFORMADA], D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-IX.- Por la expedición del archivo electrónico de planos de carácter informativo de colonia, fraccionamiento, sección o municipio a nivel manzana, zonas urbanas:
-
-a) De 1 a 10 manzanas 1.00 S.M.G.
-
-b) De 11 a 20 manzanas 2.00 S.M.G.
-
-c) De 21 a 30 manzanas 3.00 S.M.G.
-
-d) Municipio completo 4.00 S.M.G.
-
-> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-X.- Por la verificación vía Internet de planos 1.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 69.
 
-Por las mejoras de predios urbanos y rústicos se causarán y pagarán los siguientes derechos:
+Por las mejoras de predios urbanos y rústicos se causarán los siguientes derechos:
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+De un valor de $1,000.00 a $4,000.00 0.00 UMA
 
-De un valor de $ 1,000.00 a $ 4,000.00 0.00 S.M.G.
+De un valor de $4,001.00 a $10,000.00 3.67 UMA
 
-De un valor de $ 4,001.00 a $ 10,000.00 3.67 S.M.G.
+De un valor de $10,001.00 a $75,000.00 9.10 UMA
 
-De un valor de $ 10,001.00 a $ 75,000.00 9.10 S.M.G.
+De un valor de $75,001.00 a $200,000.00 12.92 UMA
 
-De un valor de $ 75,001.00 a $ 200,000.00 12.92 S.M.G.
-
-De un valor de $ 200,000.01 en adelante 19.41 S.M.G.
+De un valor de $200,000.01 en adelante 19.41 UMA
 
 > <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
@@ -2581,41 +2299,31 @@ De un valor de $ 200,000.01 en adelante 19.41 S.M.G.
 
 No se causará derecho alguno por las divisiones o fracciones de terrenos rústicos menores de tres hectáreas que sean destinados plenamente a la producción agrícola o ganadera.
 
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 71.
 
 Los fraccionamientos causarán derechos de deslinde, a excepción de lo señalado en el artículo anterior, de conformidad con lo siguiente:
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+Hasta 5,000 m2, por m2 0.0008 UMA
 
-Hasta 5,000 m2 (por m2) 0.0008 S.M.G.
+De 5,001 m2 hasta 10,000 m2, por m2 0.0013 UMA
 
-De 5,001 m2 hasta 10,000 m2 (por m2) 0.0013 S.M.G.
+De 10,001 m2 hasta 160,000 m2, por m2 0.0014 UMA
 
-De 10,001 m2 hasta 160,000 m2 (por m2) 0.0014 S.M.G.
+Más de 160,000 m2, por metros excedentes 0.0005 UMA
 
-Más de 160,000 m2, (por metros excedentes) 0.0005 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 72.
 
 Por la revisión de la documentación de construcciones en régimen de propiedad en condominio, se causarán derechos de acuerdo a lo siguiente:
 
-a) Tipo comercial
+l. Tipo comercial, por cada unidad de propiedad exclusiva y áreas y bienes de uso común 1.92 UMA
 
-(por cada unidad de propiedad exclusiva y áreas y bienes de uso
+II. Tipo habitación, por cada unidad de propiedad exclusiva y áreas y bienes de uso común 0.98 UMA
 
-común) 1.92 S.M.G.
-
-b) Tipo habitación
-
-(por cada unidad de propiedad exclusiva y áreas y bienes de uso
-
-común) 0.98 S.M.G.
-
-c) Constancia de factibilidad 1.20 S.M.G.
+III. Constancia de factibilidad 1.20 UMA
 
 > <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -2665,427 +2373,169 @@ Las instituciones públicas federales, estatales y municipales, siempre que el s
 
 ### CAPÍTULO XVI. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SALUD
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ARTÍCULO 85 A.- Los servicios que presta la Secretaría de Salud, para la verificación, protección y control sanitario, causarán derechos de conformidad con lo siguiente:
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+I.- Determinaciones sanitarias:
 
-I.- Determinaciones Sanitarias
+a) Apertura:
 
-a) Apertura
+1. Expendio de cerveza en envase cerrado 601.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+2. Licorería 708.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+3. Tienda de autoservicio tipo A 601.00 UMA
 
-1.-Expendio de cerveza en envase cerrado 601.00 S.M.G.
+4. Tienda de autoservicio tipo B 901.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+5. Bodega y distribución de bebidas alcohólicas 601.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+6. Centro nocturno 1,501.00 UMA
 
-2.- Licorería 708.00 S.M.G.
+7. Discoteca 1,501.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+8. Cabaré 1,501.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+9. Restaurante de lujo 301.00 UMA
 
-3.- Tienda de autoservicio tipo A 601.00 S.M.G.
+10. Restaurante 225.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+11. Pizzería 225.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+12. Bar 1,051.00 UMA
 
-4.- Tienda de autoservicio tipo B 901.00 S.M.G.
+13. Video Bar 1,051.00 UMA
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
+14. Salón de baile 601.00 UMA
 
-5.- Bodega y distribución de bebidas Alcohólicas 601.00 S.M.G.
+15. Sala de recepción 301.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+16. Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento 4,502.00
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+b) Renovaciones:
 
-6.- Centro Nocturno 1,501.00 S.M.G.
+1. Expendio de cerveza en envase cerrado 76.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+2. Licorería 105.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+3. Tienda de autoservicio tipo A 76.00 UMA
 
-7.- Discoteca 1,501.00 S.M.G.
+4. Tienda de autoservicio tipo B 105.00 UMA
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
+5. Bodega y distribución de bebidas alcohólicas 76.00 UMA
 
-8.- Cabaré 1,501.00 S.M.G.
+6. Centro nocturno 256.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+7. Discoteca 256.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+8. Cabaret 256.00 UMA
 
-9.- Restaurante de Lujo 301.00 S.M.G.
+9. Cantina 105.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+10. Restaurante de lujo 68.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+11. Restaurante 60.00 UMA
 
-10.- Restaurante 225.00 S.M.G.
+12. Pizzería 38.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+13. Bar 225.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+14. Video bar 225.00 UMA
 
-11.- Pizzería 225.00 S.M.G.
+15. Salón de baile 76.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+16. Sala de recepción 76.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+17. Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento 1,501.00 UMA
 
-12.- Bar 1,051.00 S.M.G.
+c) Modificación de horario:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+1. Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega o distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaret, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 45.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+2. Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su reglamento 751.00 UMA
 
-13.- Video Bar 1,051.00 S.M.G.
+d) Cambio de denominación:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+1. Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega y distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaré, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 166.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+2. Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su reglamento 751.00 UMA
 
-14.- Salón de baile 601.00 S.M.G.
+e) Cambio de propietario:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+1. Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega y distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaré, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 301.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+2. Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su reglamento 4,502.00 UMA
 
-15.- Sala de recepción 301.00 S.M.G.
+f) Cambio de domicilio:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+1. Cantina 301.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+II.- Certificado de defunción 0.60 UMA
 
-16.- Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento. 4,502.00 S.M.G.
+III.- Por la expedición de certificado sobre pozo de agua para abastecimiento privado 17.00 UMA
 
-b) Renovaciones
+IV.- Por la revalidación de certificado 9.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V.- Por la autorización de libro de medicamento controlado 6.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+VI.- Permiso sanitario de construcción 17.00 UMA
 
-1.- Expendio de cerveza en envase cerrado 76.00 S.M.G.
+VII.- Por levantamiento o aplicación de medida de seguridad 14.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII.- Por día de capacitación 4.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+IX.- Por visita de establecimientos a petición de parte 13.00 UMA
 
-2.- Licorería 105.00 S.M.G.
+X.- Por muestra a petición de parte 13.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XI.- Por permiso para otorgar degustaciones 12.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+XII.- Por autorización de corrección de nomenclatura 17.00 UMA
 
-3.- Tienda de autoservicio tipo A 76.00 S.M.G.
+XIII.- Autorización temporal para expendio y suministro de bebidas alcohólicas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Tipo A 23.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+Tipo B 35.00 UMA
 
-4.- Tienda de autoservicio tipo B 105.00 S.M.G.
+Tipo C 39.00 UMA
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
+XIV.- Por expedición de código de barras para el manejo de Estupefacientes 9.00 UMA
 
-5.- Bodega y distribución de bebidas Alcohólicas 76.00 S.M.G.
+XV.- Por autorización de compra y venta de medicamentos controlado (sic) 9.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XVI.- Por autorización de libros para el registro del manejo de sangre y sus derivados 9.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+XVII.- Por validación de planos de construcción 9.00 UMA
 
-6.- Centro Nocturno 256.00 S.M.G.
+XVIII.- Por verificación a solicitud de parte, con muestreo 15.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XIX.- Autorización de libros de sustancias tóxicas 9.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+XX.- Renovación de Licencia Sanitaria de Plaguicidas 26.00 UMA
 
-7.- Discoteca 256.00 S.M.G.
+XXI.- Aviso de Funcionamiento Tipo A 11.00 UMA
 
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
+XXII.- Aviso de Funcionamiento Tipo B 38.00 UMA
 
-8.- Cabaré 256.00 S.M.G.
+XXIII.- Solicitud de verificación para destrucción o desactivación de medicamento no controlado 9.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXIV.- Solicitud de verificación sanitaria para destrucción de Alimentos 9.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+XXV.- Expedición de copias certificadas de documentos que obren en los archivos de la dirección hasta 20 hojas 5.00 UMA
 
-9.- Cantina 105.00 S.M.G.
+Por hoja adicional se cobrará $20.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXVI.- Visitas de verificación para constatación de corrección de anomalías 13.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
+XXVII.- Balance de medicamentos 85.00 UMA
 
-10.- Restaurante de Lujo 68.00 S.M.G.
+XXVIII.- Autorización de inhumación o cremación de cadáveres, durante las primeras doce horas 4.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XXIX.- Cambio de responsable sanitario y libros de control en farmacias 8.00 UMA
 
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-11.- Restaurante 60.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-12.- Pizzería 38.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-13.- Bar 225.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-14.- Video Bar 225.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-15.- Salón de baile 76.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-16.- Sala de recepción 76.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-17.- Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento. 1,501.00 S.M.G.
-
-c) Modificación de horario
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-1.- Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega o distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaret, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 45.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-2.- Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento. 751.00 S.M.G.
-
-d) Cambio de denominación
-
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
-
-1.- Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega y distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaré, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 166.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-2.- Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento 751.00 S.M.G.
-
-e) Cambio de propietario
-
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
-
-1.- Expendio de cerveza en envase cerrado, licorería, tienda de autoservicio tipo A, tienda de autoservicio tipo B, bodega y distribuidora de bebidas alcohólicas, centro nocturno, discoteca, cabaré, cantina, restaurante de lujo, restaurante, pizzería, bar, video bar, salón de baile, y sala de recepción 301.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADO EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-2.- Restaurante de lujo en establecimientos donde se realicen juegos con apuestas y sorteos en términos de la Ley Federal de Juegos y Sorteos y su Reglamento 4,502.00 S.M.G.
-
-f) Cambio de domicilio
-
-> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
-
-1.- Cantina 301.00 S.M.G.
-
-2.- (DEROGADO, D.O. 29 DE DICIEMBRE DE 2012)
-
-II.- Certificado de defunción 0.60 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-III.- Por la expedición de certificado sobre pozo de agua para abastecimiento privado; 17.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-IV.- Por la revalidación de certificado; 9.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-V.- Por la autorización de libro de medicamento controlado; 6.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-VI.- Permiso sanitario de construcción; 17.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-VII.- Por levantamiento o aplicación de medida de seguridad; 14.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-VIII.- Por día de capacitación; 4.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-IX.- Por visita de establecimientos a petición de parte; 13.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-X.- Por muestra a petición de parte; 13.00 S.M.G.
-
-(ACTUALIZADA EN SU MONTO, D.O. 29 DE DICIEMBRE DE 2012)
-
-XI.- Por permiso para otorgar degustaciones; 12.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XII.- Por autorización de corrección de nomenclatura; 17.00 S.M.G.
-
-(ACTUALIZADA EN SUS MONTOS, D.O. 29 DE DICIEMBRE DE 2012)
-
-XIII.- Autorización temporal para expendio y suministro de bebidas alcohólicas:
-
-Tipo A 23.00 S.M.G.
-
-Tipo B 35.00 S.M.G.
-
-Tipo C 39.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XIV.- Por expedición de código de barras para el manejo de estupefacientes; 9.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XV.- Por autorización de compra y venta de medicamentos controlados 9.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XVI.- Por autorización de libros para el registro del manejo de sangre y sus derivados; 9.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XVII.- Por validación de planos de construcción; 9.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XVIII.- Por verificación a solicitud de parte, con muestreo; 15.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XIX.- Autorización de libros de sustancias tóxicas; 9.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XX.- Renovación de Licencia Sanitaria de Plaguicidas; 26.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XXI.- Aviso de Funcionamiento Tipo A 11.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XXII.- Aviso de Funcionamiento Tipo B 38.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XXIII.- Solicitud de verificación para destrucción y/o desactivación de Medicamento no controlado 9.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XXIV.- Solicitud de verificación sanitaria para destrucción de alimentos 9.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XXV.- Expedición de copias certificadas de documentos que obren en los archivos de la Dirección hasta 20 hojas 5.00 S.M.G. Por hoja adicional se cobrará $ 20.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XXVI.- Visitas de verificación para constatación de corrección de anomalías 13.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XXVII.- Balance de medicamentos 85.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XXVIII.- Autorización de inhumación o cremación de cadáveres, durante las primeras doce horas 4.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XXIX.- Cambio de responsable sanitario y libros de control en farmacias: 8.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-(ACTUALIZADA EN SU MONTO, D.O. 22 DE DICIEMBRE DE 2011)
-
-XXX.- Por trámite de importación y exportación 26.00 S.M.G.
+XXX.- Por trámite de importación y exportación 26.00 UMA
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -3093,63 +2543,37 @@ XXX.- Por trámite de importación y exportación 26.00 S.M.G.
 
 Los servicios que presta la Fiscalía General del Estado, causarán derechos de conformidad con lo siguiente, por:
 
-I.- La expedición de certificados del Departamento de Dactiloscopía y Criminología:
+I.- La expedición de certificados del Instituto de Ciencias Forenses:
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+a) Para trámites consulares 1.23 UMA
 
-a) Para trámites consulares 1.23 S.M.G.
+b) De antecedentes o no antecedentes penales 0.61 UMA
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-b) De antecedentes o no antecedentes
-
-penales 0.61 S.M.G.
-
-II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-III.- La autorización, registro y revalidación del permiso para prestar los servicios de seguridad privada en el Estado, se pagará un derecho equivalente a 24.99 S.M.G.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
+II.- La autorización, registro y revalidación del permiso para prestar los servicios de seguridad privada en el estado, se causarán un derecho equivalente a 24.99 UMA
 
 ### CAPÍTULO XVII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA UNIDAD ESTATAL DE PROTECCIÓN CIVIL
 
-> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ARTÍCULO 85 E.- Los servicios que presta la Unidad de Protección Civil, causarán los siguientes derechos:
 
-I.- Registro a empresas capacitadoras 150.00 S.M.G.
+I.- Registro a empresas capacitadoras 150.00 UMA
 
-II.- Registro a instructores independientes 150.00 S.M.G.
+II.- Registro a instructores independientes 150.00 UMA
 
-III.- Registro a empresas de consultoría y
+III.- Registro a empresas de consultoría y estudios de riesgo vulnerabilidad 200.00 UMA
 
-estudios de riesgo vulnerabilidad 200.00 S.M.G
+IV.- Cursos de capacitación básico en materia de protección civil 10 UMA por persona.
 
-IV.- Cursos de capacitación básico en
+V.- Taller de elaboración de programas Internos de protección civil 10 UMA por persona.
 
-materia de Protección Civil 10 S.M.G. por persona
+VI.- Capacitación en la formación de brigadas 10 UMA por persona
 
-V.- Taller de Elaboración de Programas
+VII.- Autorización o aprobación de programas internos de protección civil 50.00 UMA
 
-Internos de Protección Civil 10 S.M.G. por persona
+VIII.- Renovación del Registro de Empresas e Instructores 100.00 UMA
 
-VI.- Capacitación en la formación de Brigadas 10 S.M.G. por persona
-
-VII.- Autorización o aprobación de programas
-
-internos de Protección Civil 50.00 S.M.G
-
-VIII.- Renovación del Registro de Empresas
-
-e Instructores 100.00 S.M.G
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
-
-IX.- Diagnóstico de Riesgo 15.00 S.M.G.
+IX.- Diagnóstico de riesgo 15.00 UMA
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -3161,249 +2585,107 @@ ARTÍCULO 85 F.- Están exentas del pago de los derechos establecidos en este ca
 
 Los servicios que presta la Secretaría de Educación, causarán derechos de conformidad con lo siguiente:
 
-I.- Trámite ante la Dirección General de Profesiones:
+I.- Estudio y Análisis de solicitud de autorización o reconocimiento de validez oficial, de estudios de los niveles siguientes:
 
-a) Registro de título profesional, de diploma
+a) Inicial preescolar, primaria y secundaria 6.00 UMA
 
-de especialidad y de grado académico, y expedición
+b) Medio Superior 10.25 UMA
 
-de la cédula profesional correspondiente 4.00 S.M.G.
+c) Extraescolar 5.00 UMA
 
-b) Registro de establecimiento educativo legalmente
+II.- Autorización a particulares, para impartir estudios de, nivel:
 
-autorizado, para expedir títulos profesionales,
+a) Preescolar 70.11 UMA
 
-diplomas de especialidad o grados académicos 24.75 S.M.G.
+b) Primaria 80.14 UMA
 
-c) Duplicados de cédula profesional 2.00 S.M.G.
+c) Secundaria 90.15 UMA
 
-d) Adición de carrera 2.50 S.M.G.
+III.- Reconocimiento de validez oficial a particulares, por cada plan de estudios de nivel:
 
-e) Actualización de un plan de estudios de nivel superior 2.50 S.M.G.
+a) Inicial 60.10 UMA
 
-f) Cambio de denominación de una Institución de
+b) Medio Superior y Extraescolar 100.17 UMA
 
-Educación Superior 2.50 S.M.G.
+IV.- Cambio de domicilio de instituciones educativas particulares, de todos los niveles:
 
-g) Cambio de domicilio de una Institución de
+a) Inicial, preescolar, primaria o secundaria 30.04 UMA
 
-Educación Superior 2.50 S.M.G.
+b) Medio superior 40.07 UMA
 
-h) Cambio de denominación de una carrera,
+c) Formación para el trabajo 30.04 UMA
 
-especialidad o Postgrado 2.50 S.M.G.
+V.- Inspección y vigilancia de establecimiento educativos particulares, por alumno inscrito en cada ejercicio escolar de, nivel:
 
-i) Registro de Firma 1.25 S.M.G.
+a) Preescolar 0.50 UMA
 
-j) Registro de Sello 1.25 S.M.G.
+b) Primaria 1.00 UMA
 
-II.- Inscripción de un colegio de profesionistas
+c) Secundaria 1.50 UMA
 
-en el Estado. 94.25 S.M.G.
+d) Medio superior y normal 1.50 UMA
 
-III.- Renovación de un consejo directivo, de un
+e) Extraescolar 1.00 UMA
 
-colegio de profesionistas inscrito en el Estado 9.75 S.M.G.
+El pago de este derecho se efectuará en las fechas que establezca la Secretaría de Educación, con base en el tipo de plan de estudios de que se trate, conforme a los acuerdos de reconocimiento de validez oficial
 
-IV.- Alta de asociado de un colegio de profesionistas,
+Quedan exentos, los alumnos becados por la secretaría
 
-que no figure en el registro original 0.50 S.M.G.
+VI.- Por examen:
 
-V.- Estudio y Análisis de solicitud de autorización
+a) De regularización de secundaria y media superior 0.18 UMA
 
-o reconocimiento de validez oficial, de estudios
+b) A título de suficiencia de nivel primaria 4.00 UMA
 
-de los niveles siguientes:
+b) (sic) Global a suficiencia de nivel secundaria, por grado 4.00 UMA
 
-a) Inicial preescolar, primaria y secundaria 6.00 S.M.G.
+c) Profesional a nivel medio superior 1.00 UMA
 
-b) Medio Superior 10.25 S.M.G.
+VII.- Por expedición de:
 
-c) Superior 71.75 S.M.G.
+a) Certificado parcial de estudios de nivel medio superior 0.75 UMA
 
-d) Extraescolar. 5.00 S.M.G.
+b) Certificado completo de estudios de nivel medio superior 1.00 UMA
 
-VI.- Estudio y análisis de actualización de un plan
+VIII.- Duplicado de:
 
-de estudios de nivel superior. 17.50 S.M.G.
+a) Constancia de preescolar 0.50 UMA
 
-VII.- Autorización a particulares, para impartir
+b) Certificado de primaria, secundaria y extra escolar 1.00 UMA
 
-estudios de, nivel:
+c) Dictamen de revalidación o equivalencia
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+1. Inicial, preescolar, primaria o secundaria 1.50 UMA
 
-a) Preescolar 70.11 S.M.G.
+2. Medio superior 2.20 UMA
 
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+IX.- Por expedición de constancia de estudios 1.00 UMA
 
-b) Primaria 80.14 S.M.G.
+X.- Para acreditar un trámite administrativo 1.00 UMA
 
-> <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
+XI.- Equivalencias de estudios de nivel medio superior 4.00 UMA
 
-c) Secundaria 90.15 S.M.G.
+XII.- Revalidación de estudios de nivel:
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+a) Primaria 0.50 UMA
 
-VIII.- Reconocimiento de validez oficial a particulares, por cada plan de estudios de nivel:
+b) Secundaria 1.50 UMA
 
-a) Inicial 60.10 S.M.G.
+c) Medio superior 4.02 UMA
 
-b) Medio Superior y Extraescolar 100.17 S.M.G.
+XIII.- Cambio de titular de un acuerdo de incorporación 50.08 UMA
 
-c) Técnico Superior Universitario y
+XIV.- Cambio de nombre de plantel educativo 15.02 UMA
 
-Licenciatura 150.25 S.M.G.
+XV.- Cambio o ampliación de turno 15.02 UMA
 
-d) Postgrado 180.31 S.M.G.
+XVI.- Ampliación de domicilio
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+a) Inicial, preescolar, primaria o secundaria 30.04 UMA
 
-IX.- Cambio de domicilio de instituciones educativas particulares, de todos los niveles:
+b) Medio superior 40.07 UMA
 
-a) Inicial, preescolar, primaria o secundaria 30.04 S.M.G.
-
-b) Medio Superior 40.07 S.M.G.
-
-c) Superior o postgrado 60.10 S.M.G.
-
-d) Formación para el trabajo 30.04 S.M.G.
-
-X.- Inspección y vigilancia de establecimiento (sic)
-
-educativos particulares, por alumno inscrito en cada
-
-ejercicio escolar de, nivel:
-
-a) Preescolar 0.50 S.M.G.
-
-b) Primaria 1.00 S.M.G.
-
-c) Secundaria 1.50 S.M.G.
-
-d) Medio superior y normal 1.50 S.M.G.
-
-e) Técnico Superior Universitario y Licenciatura 2.25 S.M.G.
-
-f) Postgrado 4.00 S.M.G.
-
-g) Extraescolar 1.00 S.M.G.
-
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2006)</small>
-
-El pago de este derecho se efectuará en las fechas que establezca la Secretaría de Educación, con base en el tipo de plan de estudios de que se trate, conforme a los acuerdos de reconocimiento de validez oficial.
-
-Quedan exentos, los alumnos becados por la Secretaría.
-
-XI.- Por examen:
-
-a) Ordinario por cada asignatura de nivel superior 0.25 S.M.G.
-
-b) De regularización de secundaria y media superior 0.18 S.M.G.
-
-c) De regularización de nivel superior 1.00 S.M.G.
-
-d) A título de suficiencia de nivel primaria 4.00 S.M.G.
-
-e) Global a suficiencia de nivel secundaria, por grado 4.00 S.M.G.
-
-f) Profesional a nivel medio superior 1.00 S.M.G.
-
-g) Profesional y de grado a nivel superior 2.25 S.M.G.
-
-XII.- Por expedición de:
-
-a) Certificado parcial de estudios de nivel medio superior 0.75 S.M.G.
-
-b) Certificado completo de estudios de nivel medio superior 1.00 S.M.G.
-
-c) Certificado parcial o completo de estudios
-
-constancia de servicio social, acta de examen
-
-profesional, de especialidad o de grado título profesional,
-
-diploma de especialidad o grado académico de
-
-instituciones de nivel superior, no activas 1.75 S.M.G.
-
-d) Título profesional de Educación Normal 3.25 S.M.G.
-
-XIII.- Duplicado de:
-
-a) Constancia de preescolar 0.50 S.M.G.
-
-b) Certificado de primaria, secundaria y extraescolar 1.00 S.M.G.
-
-c) Certificado parcial o completo de estudios de
-
-educación normal (trascripción) 1.75 S.M.G.
-
-d) Acta de examen profesional y título (trascripción) 2.25 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-e) Dictamen de revalidación o equivalencia
-
-1.- Inicial, preescolar, primaria o secundaria 1.50 S.M.G.
-
-2.- Medio superior 2.20 S.M.G.
-
-3.- Superior 6.51 S.M.G.
-
-XIV.- Por expedición de constancia de estudios 1.00 S.M.G.
-
-XV.- Para acreditar un trámite administrativo 1.00 S.M.G.
-
-XVI.- Equivalencias de estudios de nivel:
-
-a) Medio Superior 4.00 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-b) Superior 11.59 S.M.G
-
-XVII.- Revalidación de estudios de nivel:
-
-a) Primaria 0.50 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-b) Secundaria 1.50 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-c) Medio Superior 4.02 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-d) Superior 11.59 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XVIII.- Cambio de titular de un acuerdo de 50.08 S.M.G.
-
-incorporación
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XIX.- Cambio de nombre de plantel educativo 15.02 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XX.- Cambio de nombre de plantel educativo 15.02 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XXI.- Ampliación de domicilio
-
-a) Inicial, preescolar, primaria o secundaria 30.04 S.M.G.
-
-b) Medio superior 40.07 S.M.G.
-
-c) Superior 60.10 S.M.G.
-
-d) Formación para el trabajo 40.07 S.M.G.
+c) Formación para el trabajo 40.07 UMA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3411,131 +2693,53 @@ d) Formación para el trabajo 40.07 S.M.G.
 
 ### CAPÍTULO XVIII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PÚBLICO DEL ESTADO DE YUCATÁN QUE OPEREN COMO PARADORES TURÍSTICOS DE ZONAS ARQUEOLÓGICAS Y TURÍSTICAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-ARTÍCULO 85 G.- Por el uso de los paradores turísticos, ubicados en las áreas aledañas a las zonas arqueológicas y turísticas a que se refiere este artículo, se cobrarán los siguientes derechos:
+ARTÍCULO 85 G.- Por los servicios que presta el Patronato de las Unidades de Servicios Culturales y Turísticos del Estado de Yucatán, se causarán los siguientes derechos:
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+I.- Chichén ltzá 1.22 UMA
 
-I.- Chichén Itzá 1.22 S.M.G.
+II.- Chichén ltzá (extranjeros) 2.28 UMA
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+III.- Chichén ltzá horario Luz y Sonido 3.02 UMA
 
-II.- Chichén Itzá (extranjeros) 2.28 S.M.G.
+IV.- Chichén ltzá horario Luz y Sonido (extranjeros) 3.02 UMA
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+V.- Uxmal 1.15 UMA
 
-III.- Chichén Itzá horario Luz y Sonido 3.02 S.M.G.
+VI.- Uxmal (extranjeros) 2.03 UMA
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+VII.- Uxmal horario Luz y Sonido 0.78 UMA
 
-IV.- Chichén Itzá horario Luz y Sonido (extranjeros) 3.02 S.M.G.
+VIII.- Uxmal horario Luz y Sonido (extranjeros) 1.22 UMA
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+IX.- Grutas de Loltún Unidad de Servicio 0.58 UMA
 
-V.- Uxmal 1.15 S.M.G.
+X.- Grutas de Loltún (extranjeros) 1.02 UMA
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+XI.- Dzibilchaltún 0.58 UMA
 
-VI.- Uxmal (extranjeros) 2.03 S.M.G.
+XII.- Dzibilchaltún (extranjeros) 1.02 UMA
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+XIII.- Balankanché 0.58 UMA
 
-VII.- Uxmal horario Luz y Sonido 0.78 S.M.G.
+XIV.- Grutas de Balankanché (extranjeros) 1.02 UMA
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+XV.- Celestún 0.58 UMA
 
-VIII.- Uxmal horario Luz y Sonido (extranjeros) 1.22 S.M.G.
+XVI.- Celestún (extranjeros) 1.02 UMA
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+XVII.- Izamal horario Luz y Sonido 0.95 UMA
 
-IX.- Grutas de Loltún 0.58 S.M.G.
+XVIII.- Izamal horario Luz y Sonido (extranjeros) 1.39 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+XIX.- Ek Balam 0.92 UMA
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+XX.- Ek Balam (extranjeros) 1.75 UMA
 
-X.- Grutas de Loltún (extranjeros) 1.02 S.M.G.
+Las personas físicas que acrediten la nacionalidad mexicana estarán exentos del pago del derecho a que se refiere este artículo por el uso de los paradores turísticos los domingos, en Chichén ltzá, Uxmal, Dzibilchaltún y Ek Balam, con excepción del uso que se dé en horario de luz y sonido.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XI.- Dzibilchaltún 0.58 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XII.- Dzibilchaltún (extranjeros) 1.02 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XIII.- Balankanché 0.58 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XIV.- Grutas de Balankanché (extranjeros) 1.02 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XV.- Celestún 0.58 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XVI.- Celestún (extranjeros) 1.02 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-XVII.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-XVIII.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-XIX.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-XX.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2015)
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XXI.- Izamal horario Luz y Sonido 0.95 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XXII.- Izamal horario Luz y Sonido (extranjeros) 1.39 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XXIII.- Ek Balam 0.92 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XXIV.- Ek Balam (extranjeros) 1.75 S.M.G.
-
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-Las personas físicas que acrediten la nacionalidad mexicana estarán exentos del pago del derecho a que se refiere este artículo por el uso de los paradores turísticos los domingos, en Chichén Itzá, Uxmal, Dzibilchaltún y Ek Balam, con excepción del uso que se dé en horario de luz y sonido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
-
-Las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, que así lo acrediten, no pagarán el derecho a que se refiere este artículo, excepto tratándose del uso de los paradores turísticos en el horario de luz y sonido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+Las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, que así lo acrediten, no causarán el derecho a que se refiere este artículo, excepto tratándose del uso de los paradores turísticos en el horario de luz y sonido.
 
 La recaudación de este derecho se destinará a un fideicomiso cuyo fin principal será apoyar e impulsar las actividades y los objetivos turísticos y culturales del Estado de Yucatán.
 
@@ -3547,129 +2751,59 @@ La recaudación de este derecho se destinará a un fideicomiso cuyo fin principa
 
 Los servicios que presta la Secretaría de Desarrollo Urbano y Medio Ambiente, causarán derechos de conformidad con lo siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I.- Por la verificación de emisión de contaminantes, generados por vehículos automotores 3.00 UMA
 
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+II.- Por cada cuota de conservación de cazador nacional 35.27 UMA
 
-I.- Por la verificación de emisión de contaminantes,
+III.- Por cada cuota de conservación de cazador extranjero 48.50 UMA
 
-generados por vehículos automotores 3.00 S.M.G.
+IV.- Por cada cintillo de cobro cinegético 5.29 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+V.- Por cada evaluación y resolución de informe preventivo 62.49 UMA
 
-> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+VI.- Por cada evaluación y resolución de manifestación de impacto ambiental 115.37 UMA
 
-II.- Por cada cuota de conservación de cazador nacional 35.27 S.M.G.
+VII.- Por la expedición de exención de presentación de estudio de impacto ambiental 14.42 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII.- Por cada evaluación y resolución de estudio de riesgo 38.46 UMA
 
-> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+IX.- Por cada evaluación y resolución de la modificación del proyecto autorizado 35.57 UMA
 
-III.- Por cada cuota de conservación de cazador extranjero 48.50 S.M.G.
+X.- Por cada ratificación de autorizaciones otorgadas 26.92 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+XI.- Por cada verificación e inspección de áreas, predios y Obras 21.14 UMA
 
-> <small>(REFORMADA, D.O. 22 DE DICIEMBRE DE 2011)</small>
+XII.- Por cada evaluación y resolución de funcionamiento de fuente fija 28.84 UMA
 
-IV.- Por cada cintillo de cobro cinegético 5.29 S.M.G.
+XIII.- Por cada renovación de cédula de operación anual 14.42 UMA
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+XIV.- Por evaluación y resolución del plan de manejo de los residuos de manejo especial 47.00 UMA
 
-V.- Por cada evaluación y resolución de informe preventivo 62.49 S.M.G.
+XV.- Por evaluación y resolución del proyecto ejecutivo de los residuos de manejo especial 47.00 UMA
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+XVI.- Por cada verificación e inspección de áreas, predios y obras en materia de gestión de residuos de manejo especial 21.14 UMA
 
-VI.- Por cada evaluación y resolución de manifestación
+XVII.- Por cada evaluación y resolución de las solicitudes para obtener la factibilidad urbana ambiental 14.68 UMA
 
-de impacto ambiental 115.37 S.M.G.
+XVIII.- Por cada verificación e inspección de áreas, predios y obras en materia de extracción de material pétreo 22.00 UMA
 
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-VII.- Por la expedición de exención de presentación de estudio de impacto ambiental 14.42 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-VIII.- Por cada evaluación y resolución de estudio
-
-de riesgo 38.46 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-IX.- Por cada evaluación y resolución de la modificación
-
-del proyecto autorizado 35.57 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-X.- Por cada ratificación de autorizaciones otorgadas 26.92 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XI.- Por cada verificación e inspección de áreas,
-
-predios y obras 21.14 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XII.- Por cada evaluación y resolución de funcionamiento
-
-de fuente fija 28.84 S.M.G.
-
-> <small>(ADICIONADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-XIII.- Por cada renovación de cédula de operación anual 14.42 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XIV.- Por evaluación y resolución del plan de manejo de los residuos de manejo especial 47.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XV.- Por evaluación y resolución del proyecto ejecutivo de los residuos de manejo especial 47.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XVI.- Por cada verificación e inspección de áreas, predios y obras en materia de gestión de residuos de manejo especial 21.14 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XVII.- Por cada evaluación y resolución de las solicitudes para obtener la factibilidad urbana ambiental 14.68 S.M.G.
-
-> <small>(ADICIONADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XVIII.- Por cada verificación e inspección de áreas, predios y obras en materia de extracción de material pétreo 22.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 2015)</small>
-
-XIX.- Por el registro y evaluación de las actividades de extracción de material pétreo, por metro cúbico 0.028 S.M.G.
+XIX. Por el registro y evaluación de las actividades de extracción de material pétreo, por metro cúbico 0.028 UMA
 
 ### CAPÍTULO XIX. DERECHOS POR ACCESO A LA INFORMACIÓN
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ARTÍCULO 85 H.- Por los servicios que presten los sujetos obligados por la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, con excepción de los municipios, se causarán derechos conforme a lo siguiente:
 
-I.- Expedición de copias simples, con anterioridad a partir de dos años, por hoja 0.10 S.M.G.
+I.- Expedición de copias simples, con anterioridad a partir de dos años, por hoja 0.10 UMA
 
-II.- Expedición de copias simples, para el anterior y actual ejercicio, por hoja 0.04 S.M.G.
+II.- Expedición de copias simples, para el anterior y actual ejercicio, por hoja 0.04 UMA
 
-III.- Expedición de copias certificadas 0.20 S.M.G.
+III.- Expedición de copias certificadas 0.20 UMA
 
-IV.- Disco magnético o Disco Compacto (por cada uno) 1.00 S.M.G.
+IV.- Disco magnético o disco compacto, por cada uno 1.00 UMA
 
-V.- Disco Versatil Digital 2.00 S.M.G.
+V.- Disco versatil digital 2.00 UMA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3789,53 +2923,39 @@ Para los efectos del artículo anterior, se estará obligado al pago del derecho
 
 Se entenderá por aprovechamiento especial el que se obtenga por usar, gozar o aprovechar un bien de uso común, de modo que se limite el derecho de terceros para su libre uso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 27 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 85.
 
-Por el permiso para la instalación de anuncios publicitarios dentro y fuera del derecho de vía e instalación de señalamientos informativos dentro del derecho de vía de las carreteras estatales, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
+Por el permiso para la instalación de anuncios publicitarios dentro y fuera del derecho de vía e instalación de señalamientos informativos dentro del derecho de vía de las carreteras estatales, se causarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
 
-I. Por cada metro cuadrado de la superficie total
-
-del anuncio publicitario o señal informativa 1 S.M.G
+I.- Por cada metro cuadrado de la superficie total del anuncio publicitario o señal informativa 1 UMA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO XX. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE TRANSPORTE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+ARTÍCULO 85 I.- Por los servicios que presten la Dirección de Transporte, se causarán derechos conforme a lo siguiente:
 
-ARTÍCULO 85 l.- Por los servicios que presten la Dirección de Transporte, se causarán derechos conforme a lo siguiente:
+I.- Reposición de la credencial inteligente de transporte urbano (CITUR) 0.53 UMA
 
-I. Reposición de la credencial inteligente de transporte urbano (CITUR) 0.53 S.M.G.
+II.- Emisión del tarjeton único del operador de transporte público 2.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+III.- Reposición del tarjetón único del operador de transporte público 2.00 UMA
 
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+IV.- Expedición de impresiones a tamaño gran escala de los croquis y rutas concesionadas 2.00 UMA
 
-II. Emisión del tarjetón único del operador de transporte público 2.00 S.M.G.
+V.- Cesión de derechos (concesión o permiso) 20.00 UMA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+VI.- Reconocimiento de derechos del beneficiario como titular de concesión 10.00 UMA
 
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+VII.- Emisión de tarjeta de información de servicio público de transporte de pasajeros 4.00 UMA
 
-III. Reposición del tarjetón único del operador de transporte público 2.00 S.M.G.
+VIII.- Expedición de certificado vehicular titular 13.00 UMA
 
-IV. Expedición de impresiones a tamaño gran escala de los croquis y rutas concesionadas 2.00 S.M.G.
-
-V. Cesión de derechos (concesión o permiso) 20.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-VI. Reconocimiento de derechos del beneficiario como titular de concesión 10.00 S.M.G.
-
-VII. Emisión de tarjeta de información de servicio público de transporte de pasajeros 4.00 S.M.G.
+IX.- Expedición de certificado vehicular adicional 7.00 UMA
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -3913,21 +3033,19 @@ La Secretaría de la Contraloría General del Estado emitirá los lineamientos p
 
 ### CAPÍTULO XXIII. DERECHOS POR SERVICIOS QUE PRESTA EL PODER JUDICIAL DEL ESTADO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+ARTÍCULO 85 Q.- Por los servicios que presta el Poder Judicial del Estado, se causará derechos conforme a lo siguiente:
 
-ARTÍCULO 85 Q.- Por los servicios que presta el Poder Judicial del Estado, se pagarán derechos conforme a lo siguiente:
+l. Expedición de copias simples de expedientes, por cada hoja 0.02 UMA
 
-I. Expedición de copias simples de expedientes, por cada hoja 0.02 S.M.G.
+II. Disco compacto de audiencias llevadas a cabo en los procesos judiciales, por cada uno 0.39 UMA
 
-II. Disco compacto de audiencias llevadas a cabo en los procesos judiciales, por cada uno 0.39 S.M.G.
+III. Por la certificación y registro de facilitadores privados 4.70 UMA
 
-III. Por la certificación y registro de facilitadores privados 4.70 S.M.G.
+IV. Por la acreditación y registro de centros privados 4.70 UMA
 
-IV. Por la acreditación y registro de centros privados 4.70 S.M.G.
-
-V. Por la ratificación de convenios de centros privados de mediación 4.70 S.M.G.
+V. Por la ratificación de convenios de centros privados de mediación 4.70 UMA
 
 La recaudación de este derecho se destinará íntegramente al Poder Judicial del Estado.
 
@@ -3940,6 +3058,108 @@ La recaudación de este derecho se destinará íntegramente al Poder Judicial de
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 2 DE MAYO DE 2016)</small>
+
+### CAPÍTULO XXV. DERECHOS POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE INVESTIGACIÓN, INNOVACIÓN Y EDUCACIÓN SUPERIOR
+
+> <small>(ADICIONADO, D.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Artículo 85 W.- Los servicios que presta la Secretaría de Investigación, Innovación y Educación Superior, causaran derechos de conformidad con lo siguiente:
+
+I.- Tramite ante la Dirección General de Profesiones:
+
+a) Registro de título profesional, de diploma de especialidad y de grado académico, y expedición de la cedula profesional correspondiente 4.00 UMA
+
+b) Registro de establecimiento educativo legalmente autorizado, para expedir títulos profesionales, diplomas de especialidad o grados académicos 24.75 UMA
+
+c) Duplicados de cedula profesional 2.00 UMA
+
+d) Registro de adición de carrera 2.50 UMA
+
+e) Registro de actualización de un plan de estudios de nivel superior 2.50 UMA
+
+f) Registro de cambio de denominación de una institución de educación superior 2.50 UMA
+
+g) Registro de cambio de domicilio de una institución de educación superior 2.50 UMA
+
+h) Registro de cambio de denominación de una carrera, especialidad o posgrado 2.50 UMA
+
+i) Registro de firma 2.50 UMA
+
+j) Registro de sello 2.50 UMA
+
+Il.- Inscripción de un colegio de profesionistas en el estado 94.25 UMA
+
+III.- Renovación de un consejo directivo, de un colegio de profesionistas inscrito en el estado 9.75 UMA
+
+IV.- Alta de asociado de un colegio de profesionistas, que no figure en el registro original 2.25 UMA
+
+V.- Estudio y análisis de solicitud de autorización o reconocimiento de validez oficial, de estudios de nivel superior 71.75 UMA
+
+VI.- Estudio y análisis de actualización de un plan de estudios de nivel superior 17.50 UMA
+
+VII.- Reconocimiento de validez oficial a particulares, por cada plan de estudios de nivel:
+
+a) Técnico Superior Universitario y Licenciatura 150.25 UMA
+
+b) Postgrado 180.31 UMA
+
+VIII.- Cambio de domicilio de instituciones educativas particulares, del nivel superior o postgrado 60.10 UMA
+
+IX.- Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ciclo escolar, anual, semestral o cuatrimestral:
+
+a) Técnico Superior Universitario y Licenciatura 2.25 UMA
+
+b) Postgrado 4.00 UMA
+
+El pago de este derecho se efectuara en las fechas que establezca la Secretaría de Investigación, Innovación y Educación Superior, con base en el tipo de plan de estudios de que se trate, conforme a los acuerdos de reconocimiento de validez oficial.
+
+Quedan exentos, los alumnos becados por la secretaría.
+
+X.- Por examen:
+
+a) Ordinario por cada asignatura de nivel superior 0.25 UMA
+
+b) De regularización de nivel superior 1.00 UMA
+
+c) Profesional y de grado a nivel superior 2.25 UMA
+
+XI. Por expedición de:
+
+a) Certificado parcial o completo de estudios 1.75 UMA
+
+b) Constancia de servicio social 1.75 UMA
+
+c) Acta de examen profesional, de especialidad o de grado 1.75 UMA
+
+d) Título profesional, diploma de especialidad o grado académico 3.25 UMA
+
+XII.- Duplicado de:
+
+a) Certificado parcial o completo de estudios de educación superior (trascripción) 1.75 UMA
+
+b) Acta de examen profesional y título (trascripción) 2.25 UMA
+
+c) Dictamen de revalidación o equivalencia de educación superior 6.51 UMA
+
+XIII.- Equivalencias de estudios de nivel superior 11.59 UMA
+
+XIV.- Revalidación de estudios de nivel superior 11.59 UMA
+
+XV.- Ampliación de domicilio de instituciones de nivel superior 60.10 UMA
+
+XVI.- Autorización temporal para pasantes para ejercer actos profesionales 4.50 UMA
+
+XVII.- Dictamen de antecedente académico 11.59 UMA
+
+XVIII.- Por expedición de constancia de estudios de nivel superior 1.00 UMA
+
+XIX.- Para acreditar un trámite administrativo 1.00 UMA
+
+XX.- Cambio de titular de un acuerdo de incorporación de educación superior 50.08 UMA
+
+XXI.- Cambio de nombre de plantel educativo de educación superior 15.02 UMA
+
+XXII.- Cambio o ampliación de turno 15.02 UMA
 
 ### CAPÍTULO ÚNICO
 
@@ -3956,8 +3176,6 @@ La recaudación de este derecho se destinará íntegramente al Poder Judicial de
 ### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 85-R.
 
@@ -3986,6 +3204,8 @@ La recaudación de este derecho se destinará íntegramente al Poder Judicial de
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO ÚNICO
 
 ### CAPÍTULO ÚNICO
 
@@ -4384,3 +3604,19 @@ Las casas de empeño ya instaladas deberán apegarse a los términos de esta ley
 Cuarto. Derogación tacita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 437/2016 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2017, previa publicación en el diario oficial del estado.
+
+Segundo. Inaplicación del capítulo IV del título tercero
+
+El capítulo IV del título tercero de la Ley General de Hacienda del Estado de Yucatán dejará de ser aplicable a los municipios a partir de que se hagan cargo del servicio público de panteones y la función recaudatoria inherente a este.
+
+Tercero. Cálculo de los derechos de las fracciones II y IV del artículo 85-G
+
+Los derechos contenidos en las fracciones III y IV del artículo 85-G de la Ley General de Hacienda del Estado de Yucatán, durante los meses de enero, febrero y marzo del 2017, se calcularán de acuerdo con el último salario mínimo que estuvo vigente durante el ejercicio fiscal del 2016 en el estado de Yucatán.
