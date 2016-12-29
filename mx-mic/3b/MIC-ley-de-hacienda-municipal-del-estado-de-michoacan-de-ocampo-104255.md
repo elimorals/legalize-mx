@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-de-ocampo-104
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-25"
-last_updated: "2016-06-23"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el jueves 25 de diciembre de 2014.
 
@@ -585,13 +585,19 @@ La base gravable de este impuesto sobre Adquisición de Inmuebles, será el valo
 
 Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del 50% del valor de la propiedad, determinado conforme al párrafo anterior; asimismo, el valor de los derechos de copropiedad será equivalente al valor proporcional del inmueble de que se trate.
 
-El impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en el equivalente a una vez el salario mínimo general elevado al año, de la zona económica a que corresponda el Estado de Michoacán.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Tratándose de adquisiciones de vivienda en general, cuyo valor exceda de veinticinco veces el salario mínimo general vigente para el Estado, elevado al año, la reducción a que se refiere el párrafo anterior será de tres veces dicho salario; para vivienda cuyo valor sea de veinticinco veces el salario mínimo general vigente para el Estado, elevado al año, la reducción a que se refiere el párrafo anterior será de quince veces el salario mencionado y para la vivienda cuyo valor sea de quince veces el salario mínimo general vigente para el Estado, elevado al año, la reducción será igual a dicho valor.
+El impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en el equivalente a una vez el valor diario de la Unidad de Medida y Actualización; elevado al año, de la zona económica a que corresponda el Estado de Michoacán.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de adquisiciones de vivienda en general, cuyo valor exceda de veinticinco veces el valor diario de la Unidad de Medida y Actualización;, (sic) elevado al año, la reducción a que se refiere el párrafo anterior será de tres veces dicho valor; para vivienda cuyo valor sea de veinticinco veces el valor diario de la Unidad de Medida y Actualización, elevado al año, la reducción a que se refiere el párrafo anterior será de quince veces el valor mencionado y para la vivienda cuyo valor sea de quince veces el valor diario de la Unidad de Medida y Actualización, elevado al año, la reducción será igual a dicho valor.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 54.
 
-Para efectuar la reducción a que se refiere el artículo anterior, se aplicará el salario mínimo vigente en la fecha en que se den los supuestos a que se refiere el artículo 50 de esta Ley.
+Para efectuar la reducción a que se refiere el artículo anterior, se aplicará el valor diario de la Unidad de Medida y Actualización; en la fecha en que se den los supuestos a que se refiere el artículo 50 de esta Ley.
 
 La reducción se realizará conforme a lo siguiente:
 
@@ -1756,3 +1762,23 @@ P.O. 23 DE JUNIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 155 POR EL QUE "SE REFORMA EL ARTÍCULO 106 PÁRRAFOS PRIMERO Y TERCERO, DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 53 PÁRRAFOS TERCERO Y CUARTO Y 54 PÁRRAFO PRIMERO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
