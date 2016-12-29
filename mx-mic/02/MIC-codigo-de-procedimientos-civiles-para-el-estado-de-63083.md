@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-procedimientos-civiles-para-el-estado-de-63083"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-06"
-last_updated: "2016-12-09"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Código publicado en la Sección Extraordinaria del Periódico Oficial del Estado de Michoacán, el sábado 6 de septiembre de 2008.
 
@@ -677,9 +677,11 @@ La nulidad establecida en beneficio de una de las partes, no puede ser invocada 
 
 La nulidad de actuaciones y notificaciones se substanciará en la forma y términos que determine este Código para los incidentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 99.
 
-Sólo formará artículo de previo y especial pronunciamiento la nulidad de actuaciones por falta de emplazamiento o por defecto en éste. Si en el incidente se resuelve que son válidas la notificación o las actuaciones, se impondrá al promovente y a su abogado solidariamente una multa de veinticinco días de salario mínimo general vigente en el Estado.
+Sólo formará artículo de previo y especial pronunciamiento la nulidad de actuaciones por falta de emplazamiento o por defecto en éste. Si en el incidente se resuelve que son válidas la notificación o las actuaciones, se impondrá al promovente y a su abogado solidariamente una multa de veinticinco veces el valor diario de la Unidad de Medida y Actualización.
 
 Las cuestiones que se susciten con motivo de nulidades de actuaciones o de notificaciones, se decidirán en la sentencia definitiva.
 
@@ -783,9 +785,9 @@ Para tal efecto, el Juez citará a las partes, con al menos tres días de antici
 
 Las partes comparecerán personalmente a la audiencia de conciliación, sin mandatarios, abogados patronos o asesores.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Si una de las partes no concurre sin causa justificada, el Juez la sancionará con una multa de diez a veinte días de salario mínimo general vigente en el Estado, que se impondrá a favor del Fondo Auxiliar para la Administración de Justicia y se hará efectiva por el Consejo del Poder Judicial; si ambas no acudieren, serán sancionadas de igual manera.
+Si una de las partes no concurre sin causa justificada, el Juez la sancionará con una multa de diez a veinte veces el valor diario de la Unidad de Medida y Actualización, que se impondrá a favor del Fondo Auxiliar para la Administración de Justicia y se hará efectiva por el Consejo del Poder Judicial; si ambas no acudieren, serán sancionadas de igual manera.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
@@ -839,11 +841,11 @@ Al variar el personal de una sala o de un juzgado, no se proveerá decreto para 
 
 Los magistrados o jueces que infrinjan esta disposición, serán sancionados por el Consejo del Poder Judicial de conformidad con su Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 123.
 
-Los magistrados y los jueces tienen el deber de mantener el orden en los debates judiciales y de exigir que las partes, sus representantes o abogados y agentes del Ministerio Público les guarden y se guarden entre sí el respeto y consideraciones correspondientes, lo mismo que a las autoridades cuyos actos sean materia de la instancia o petición, o aquellas que por cualquier otro motivo fueren aludidas en los escritos o alegatos, corrigiendo las faltas que se cometieren con multas que no podrán exceder de cuatro días de salario mínimo general vigente en el Estado, en los juzgados menores; de diez en los de primera instancia, y de veinticinco en las Salas del Tribunal, las que se impondrán en favor del Fondo Auxiliar para la Administración de Justicia y se harán efectivas por el Consejo del Poder Judicial.
+Los magistrados y los jueces tienen el deber de mantener el orden en los debates judiciales y de exigir que las partes, sus representantes o abogados y agentes del Ministerio Público les guarden y se guarden entre sí el respeto y consideraciones correspondientes, lo mismo que a las autoridades cuyos actos sean materia de la instancia o petición, o aquellas que por cualquier otro motivo fueren aludidas en los escritos o alegatos, corrigiendo las faltas que se cometieren con multas que no podrán exceder de cuatro veces el valor diario de la Unidad de Medida y Actualización, en los juzgados menores; de diez en los de primera instancia, y de veinticinco en las Salas del Tribunal, las que se impondrán en favor del Fondo Auxiliar para la Administración de Justicia y se harán efectivas por el Consejo del Poder Judicial.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
@@ -863,9 +865,9 @@ I. Amonestación;
 
 II. Apercibimiento; y,
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-III. multa que no excederá de veinticinco días de salario mínimo general vigente en el Estado; que se duplicará en caso de reincidencia.
+III. Multa que no excederá de veinticinco veces el valor diario de la Unidad de Medida y Actualización; que se duplicará en caso de reincidencia.
 
 ###### Artículo 126.
 
@@ -893,7 +895,9 @@ Los magistrados, procuradores o subprocuradores de justicia, agentes del Ministe
 
 Los tribunales, para hacer cumplir sus determinaciones, pueden emplear, a discreción, los siguientes medios de apremio:
 
-I. La multa hasta de veinticinco días de salario mínimo general vigente en el Estado, que podrá duplicarse en caso de reincidencia;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I. La multa hasta de veinticinco veces el valor diario de la Unidad de Medida y Actualización, que podrá duplicarse en caso de reincidencia;
 
 II. El auxilio de la fuerza pública;
 
@@ -1463,11 +1467,11 @@ De las multas señaladas en este título al recusante, son solidariamente respon
 
 Si interpuesta la recusación con causa por un litigante, el contrario estuviere conforme, pasará el negocio, sin substanciarse la recusación, al Juez o Magistrado a que corresponde, mas no se tendrá, por esto, por probada la causa para proceder en contra del recusado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 236.
 
-Si se declarare improcedente o no probada la causa de la recusación, y el juzgador apreciara mala fe o temeridad en el recusante, se impondrá a éste una multa de cuatro a veinticinco días de salario mínimo general vigente en el Estado; multa que, en su caso, se remitirá al Fondo Auxiliar para la Administración de Justicia.
+Si se declarare improcedente o no probada la causa de la recusación, y el juzgador apreciara mala fe o temeridad en el recusante, se impondrá a éste una multa de cuatro a veinticinco veces el valor diario de la Unidad de Medida y Actualización; multa que, en su caso, se remitirá al Fondo Auxiliar para la Administración de Justicia.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
@@ -1903,9 +1907,11 @@ Las excepciones dilatorias de incompetencia y falta de personalidad deberán pro
 
 La declinatoria de jurisdicción se propondrá ante el Juez, pidiéndole que se abstenga del conocimiento del negocio. El Juez remitirá desde luego los autos a su inmediato superior, emplazando a los interesados para que en un término de tres días comparezcan ante éste, el cual citará a las partes y al representante del Ministerio Público a una audiencia dentro de los tres días siguientes al de la citación, en la que recibirá pruebas y alegatos y pronunciará resolución, mandando inmediatamente los autos al Juez que estime competente, quien debe hacerlo saber a los litigantes. En este caso, la demanda y contestación se tendrán como presentadas ante éste.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 320.
 
-Cuando no proceda la declinatoria, el que la promovió deberá pagar, además de las costas, una multa hasta de treinta días de salario mínimo general vigente en el Estado, que, según la importancia del litigio, le impondrá el superior a favor del colitigante.
+Cuando no proceda la declinatoria, el que la promovió deberá pagar, además de las costas, una multa hasta de treinta veces el valor diario de la Unidad de Medida y Actualización, que, según la importancia del litigio, le impondrá el superior a favor del colitigante.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2009)</small>
 
@@ -2057,9 +2063,11 @@ Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuan
 
 El Juez debe recibir todas las pruebas que se le presenten, excepto las que fueren contra el derecho o contra la moral.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 348.
 
-El que presentare pruebas notoriamente impertinentes, deberá pagar los gastos e indemnizar los perjuicios que ocasione con ellas a su colitigante, aunque en lo principal hubiere sentencia favorable. Se le impondrá, además, una multa de veinte a treinta y cinco días de salario mínimo general vigente en el Estado, según la importancia del negocio, a favor de su colitigante.
+El que presentare pruebas notoriamente impertinentes, deberá pagar los gastos e indemnizar los perjuicios que ocasione con ellas a su colitigante, aunque en lo principal hubiere sentencia favorable. Se le impondrá, además, una multa de veinte a treinta y cinco veces el valor diario de la Unidad de Medida y Actualización, según la importancia del negocio, a favor de su colitigante.
 
 ###### Artículo 349.
 
@@ -2237,9 +2245,11 @@ Concluido el término ordinario, no se recibirá prueba alguna que no fuere aqu�
 
 El término extraordinario concluye con la rendición de la prueba para que se pidió, aunque no haya expirado el plazo concedido.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 379.
 
-El litigante a quien se concediere el término extraordinario y no rindiere la prueba propuesta, sin justificar que tuvo para ello impedimento bastante, a juicio del Juez, será condenado a pagar a su contrario una multa de veinticinco a cuarenta días de salario mínimo general vigente en el Estado y la indemnización de daños y perjuicios. En la misma pena incurrirá si la prueba fuere calificada de inconducente.
+El litigante a quien se concediere el término extraordinario y no rindiere la prueba propuesta, sin justificar que tuvo para ello impedimento bastante, a juicio del Juez, será condenado a pagar a su contrario una multa de veinticinco a cuarenta veces el valor diario de la Unidad de Medida y Actualización, y la indemnización de daños y perjuicios. En la misma pena incurrirá si la prueba fuere calificada de inconducente.
 
 ###### Artículo 380.
 
@@ -2665,7 +2675,9 @@ El Juez señalará lugar, día y hora para que la diligencia se practique, si de
 
 En el caso de la primera parte del artículo anterior concurrirá el tercero en discordia y se observarán las reglas siguientes:
 
-I. El perito que dejare de concurrir sin justa causa, calificada por el tribunal, incurrirá en una multa de cuatro a veinte días de salario mínimo general vigente en el Estado, y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el artículo 461;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I. El perito que dejare de concurrir sin justa causa, calificada por el tribunal, incurrirá en una multa de cuatro a veinte veces el valor diario de la Unidad de Medida y Actualización, y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el artículo 461;
 
 II. Los peritos practicarán unidos la diligencia, pudiendo concurrir los interesados al acto y hacerles cuantas observaciones quieran; pero deberán retirarse, para que los peritos discutan y deliberen solos; y,
 
@@ -4019,11 +4031,11 @@ Recibidas las actuaciones se turnarán a la sala civil que en atención al turno
 
 La falta de informe con justificación, se sancionará por el Consejo del Poder Judicial conforme a la Ley Orgánica del mencionado poder.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 699.
 
-Si la queja se desecha por no proceder en contra de la resolución impugnada o resulta infundada por no estar apoyada en hecho cierto o no estar fundada en derecho, la Sala impondrá al quejoso y a su abogado, solidariamente, una multa de diez a cincuenta días de salario mínimo general vigente en el Estado, a favor del Fondo Auxiliar para la Administración de Justicia de la Entidad, la que se hará efectiva por el Consejo del Poder Judicial.
+Si la queja se desecha por no proceder en contra de la resolución impugnada o resulta infundada por no estar apoyada en hecho cierto o no estar fundada en derecho, la Sala impondrá al quejoso y a su abogado, solidariamente, una multa de diez a cincuenta veces el valor diario de la Unidad de Medida y Actualización, a favor del Fondo Auxiliar para la Administración de Justicia de la Entidad, la que se hará efectiva por el Consejo del Poder Judicial.
 
 ###### Artículo 700.
 
@@ -4245,9 +4257,11 @@ Si los bienes muebles no estuvieren valuados anteriormente o si su precio no con
 
 Si los bienes fueren raíces, el valor catastral servirá de base para el remate, excepto el caso en que cualquiera de las partes pida que el valor se fije por peritos, pues entonces éstos harán el avalúo con las formalidades establecidas por la ley.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 731.
 
-Justipreciados los bienes, si fueren raíces se anunciará su venta por tres veces de siete en siete días, fijándose edictos en los parajes públicos, y si el valor del inmueble pasare del equivalente a cuarenta días de salario mínimo general vigente en el Estado, se insertarán en el Periódico Oficial y en otro de los de más circulación, a juicio del Juez, si los hubiere en el lugar del pleito. Si los bienes fueren muebles, los plazos para la publicación de los edictos serán de tres en tres días, fijándose solamente en los parajes públicos.
+Justipreciados los bienes, si fueren raíces se anunciará su venta por tres veces de siete en siete días, fijándose edictos en los parajes públicos, y si el valor del inmueble pasare del equivalente a cuarenta veces el valor diario de la Unidad de Medida y Actualización, se insertarán en el Periódico Oficial y en otro de los de más circulación, a juicio del Juez, si los hubiere en el lugar del pleito. Si los bienes fueren muebles, los plazos para la publicación de los edictos serán de tres en tres días, fijándose solamente en los parajes públicos.
 
 ###### Artículo 732.
 
@@ -4649,9 +4663,11 @@ Cualquier documento que se presente con posterioridad, será valorado por el Jue
 
 Cuando entre los bienes embargados estuviere comprendida alguna finca destinada a habitación y viviere en ella el ejecutado, podrá el depositario exigir la desocupación inmediata, a menos que aquél estuviere físicamente impedido para trabajar o sin culpa suya careciere de otros bienes o de trabajo. El Juez apreciará estas circunstancias y las demás que concurran en el negocio y podrá permitir al ejecutado que siga ocupando todo o parte de la finca, sin pagar renta o fijando la que haya de pagar en atención a las circunstancias. En todo caso procederá la desocupación de la finca cuando llegare el caso del remate y de su adjudicación a un tercero o al mismo acreedor.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 799.
 
-Los sueldos y emolumentos, en los casos en que lo permita la Ley Federal del Trabajo, sólo podrán embargarse en un veinte por ciento, si el total de los mismos mensualmente no llegare a un importe equivalente a ciento cincuenta días de salario mínimo general vigente en el Estado; en un cuarenta por ciento si no llegare a un importe equivalente a trescientos días de salario mínimo general vigente en el Estado; y en un sesenta por ciento en un importe superior a trescientos días de salario mínimo general vigente en el Estado. Las disposiciones de este artículo tampoco son renunciables.
+Los sueldos y emolumentos, en los casos en que lo permita la Ley Federal del Trabajo, sólo podrán embargarse en un veinte por ciento, si el total de los mismos mensualmente no llegare a un importe equivalente a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización; en un cuarenta por ciento si no llegare a un importe equivalente a trescientas veces el valor diario de la Unidad de Medida y Actualización; y en un sesenta por ciento en un importe superior a trescientas veces el valor diario de la Unidad de Medida y Actualización. Las disposiciones de este artículo tampoco son renunciables.
 
 ###### Artículo 800.
 
@@ -4679,9 +4695,11 @@ Todas las cuestiones que surjan con motivo del embargo y de la depositaría, no 
 
 Todas las resoluciones, cuando lo amerite la cuantía del negocio, serán apelables en un solo efecto y se ejecutarán desde luego, sin necesidad de ninguna caución o garantía, salvo lo dispuesto en este capítulo respecto al depositario.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 805.
 
-En los juicios de menor cuantía, en que no procediere legalmente el recurso de apelación, cabrá el de revisión ante el Juez, si la cosa embargada tuviere un valor que exceda de veinticinco días de salario mínimo general vigente en el Estado.
+En los juicios de menor cuantía, en que no procediere legalmente el recurso de apelación, cabrá el de revisión ante el Juez, si la cosa embargada tuviere un valor que exceda de veinticinco veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 806.
 
@@ -5291,9 +5309,11 @@ El compromiso posterior a la sentencia irrevocable, sólo tendrá lugar, si los 
 
 En el caso del artículo anterior, si el compromiso es anulado caduca por causa del que fue condenado en la sentencia irrevocable, recobrará ésta toda su fuerza; quedando aquél obligado al resarcimiento de todos los daños y perjuicios.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 923.
 
-El compromiso debe celebrarse en escritura pública, siempre que el interés del pleito exceda al equivalente a doscientos días de salario mínimo general vigente en el Estado, y si no llegare a esa cantidad puede celebrarse en escrito privado ante dos testigos o en acta ante el Juez.
+El compromiso debe celebrarse en escritura pública, siempre que el interés del pleito exceda al equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización, y si no llegare a esa cantidad puede celebrarse en escrito privado ante dos testigos o en acta ante el Juez.
 
 ###### Artículo 924.
 
@@ -5515,9 +5535,11 @@ La junta de rectificación y graduación será presidida por el Juez, procedién
 
 En el informe deberá también calificar los créditos de acuerdo con sus privilegios según el Código Civil.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 962.
 
-Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios y será removido de plano imponiéndose, además, una multa de veinte días de salario mínimo general vigente en el Estado.
+Si el síndico no presentare el informe al principiar la junta, perderá el derecho de cobrar honorarios y será removido de plano imponiéndose, además, una multa de veinte veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 963.
 
@@ -5771,9 +5793,11 @@ Todo albacea definitivo o provisional presentará al Juez, a los treinta días d
 
 Los albaceas, cónyuges sobrevivientes, herederos u otras personas que con cualquier carácter se encarguen de los bienes de alguna sucesión, están obligados a participarlo por escrito al representante del Fisco en el distrito o municipio donde ocurra la muerte del autor de la herencia, dentro de treinta días hábiles de haber entrado en posesión de dichos bienes, agregando una lista de los mismos, así como de los que tengan conocimiento que pertenezcan a la sucesión aunque no los haya recibido.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1007.
 
-Los jueces y albaceas, al radicarse el juicio de sucesión, exigirán constancia de haberse dado el aviso a que se refiere el artículo anterior, y en caso de que no se presente tal constancia, impondrá a los infractores una multa de cuatro a veinticinco días de salario mínimo general vigente en el Estado y lo comunicarán al representante del Fisco para que la haga efectiva conforme a las leyes, no pudiendo continuar el juicio sucesorio sino hasta que esté pagada la multa. Igualmente exigirán certificado del archivo de notarías en que conste que el testamento presentado es el último del autor de la herencia o que no hay testamento alguno otorgado por él, cuando se trate de un intestado.
+Los jueces y albaceas, al radicarse el juicio de sucesión, exigirán constancia de haberse dado el aviso a que se refiere el artículo anterior, y en caso de que no se presente tal constancia, impondrá a los infractores una multa de cuatro a veinticinco veces el valor diario de la Unidad de Medida y Actualización y lo comunicarán al representante del Fisco para que la haga efectiva conforme a las leyes, no pudiendo continuar el juicio sucesorio sino hasta que esté pagada la multa. Igualmente exigirán certificado del archivo de notarías en que conste que el testamento presentado es el último del autor de la herencia o que no hay testamento alguno otorgado por él, cuando se trate de un intestado.
 
 ###### Artículo 1008.
 
@@ -6069,9 +6093,11 @@ Es provisional la que esté a cargo del albacea nombrado conforme al artículo 9
 
 Es definitiva la que esté a cargo del albacea nombrado en el testamento, por los herederos o por el Juez, conforme al artículo 1035 de este propio ordenamiento.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1063.
 
-Cuando los herederos o el Juez hagan uso de la facultad que les conceden los artículos 894 y 897 del Código Civil, el interventor nombrado se tendrá como albacea mancomunado del provisional o definitivo. El albacea, cualquiera que sea su carácter, no podrá ejecutar actos de administración sino de acuerdo con el interventor, bajo la pena de nulidad de los actos que ejecuta y treinta y cinco días de salario mínimo general vigente en el Estado de multa, sin perjuicio de la responsabilidad civil y criminal que debe satisfacer.
+Cuando los herederos o el Juez hagan uso de la facultad que les conceden los artículos 894 y 897 del Código Civil, el interventor nombrado se tendrá como albacea mancomunado del provisional o definitivo. El albacea, cualquiera que sea su carácter, no podrá ejecutar actos de administración sino de acuerdo con el interventor, bajo la pena de nulidad de los actos que ejecuta y treinta y cinco veces el valor diario de la Unidad de Medida y Actualización de multa, sin perjuicio de la responsabilidad civil y criminal que debe satisfacer.
 
 ###### Artículo 1064.
 
@@ -6117,9 +6143,11 @@ Reconocido y nombrado el albacea definitivo, recibirá la correspondencia anteri
 
 Todas las disposiciones referentes al albacea definitivo regirán, en lo conducente, respecto del provisional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1075.
 
-El albacea provisional y el interventor, en su caso, tendrán el dos por ciento del importe de los bienes, si no exceden al equivalente de cuatrocientos días de salario mínimo general vigente en el Estado; si excedieren de esta suma, pero no al equivalente de dos mil días de salario mínimo general vigente en el Estado, tendrán, además, el uno por ciento, y excediendo de esta última, tendrán, además, el medio por ciento de la cantidad excedente.
+El albacea provisional y el interventor, en su caso, tendrán el dos por ciento del importe de los bienes, si no exceden al equivalente de cuatrocientas veces el valor diario de la Unidad de Medida y Actualización; si excedieren de esta suma, pero no al equivalente de dos mil veces dicho valor, tendrán, además, el uno por ciento, y excediendo de esta última, tendrán, además, el medio por ciento de la cantidad excedente.
 
 El albacea definitivo tendrá el derecho que señala el artículo 907 del Código Civil, si su encargo hubiere durado más de seis meses; si hubiere durado menos tiempo, sólo cobrará como interventor.
 
@@ -6173,7 +6201,9 @@ A la cuenta mensual deberán acompañarse los justificantes que procedan, y apro
 
 El albacea provisional, judicial o definitivo y el cónyuge en el caso a que se refiere el artículo anterior, rendirán su cuenta general de administración dentro de los treinta días siguientes a aquél en que cesen en su cargo.
 
-La falta de cumplimiento de la obligación de rendir cuentas, se sancionará con multa de treinta y cinco días de salario mínimo general vigente en el Estado, sin perjuicio de las acciones civiles y penales que procedan en contra del obligado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La falta de cumplimiento de la obligación de rendir cuentas, se sancionará con multa de treinta y cinco veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las acciones civiles y penales que procedan en contra del obligado.
 
 ###### Artículo 1084.
 
@@ -6259,9 +6289,11 @@ Si no hubiere mayoría, el Juez nombrará partidor, eligiéndolo entre los propu
 
 El cónyuge, aunque no tenga el carácter de heredero será tenido como parte, si entre los bienes hereditarios hubiere bienes en copropiedad.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1098.
 
-El Juez pondrá a disposición del partidor los autos y bajo inventario, los papeles y documentos relativos al caudal, para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo y de multa de dos a veinticinco días de salario mínimo general vigente en el Estado.
+El Juez pondrá a disposición del partidor los autos y bajo inventario, los papeles y documentos relativos al caudal, para que proceda a la partición, señalándole un término que nunca excederá de veinticinco días para que presente el proyecto partitorio, bajo el apercibimiento de perder los honorarios que devengare, ser separado de plano de su encargo y de multa de dos a veinticinco veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 1099.
 
@@ -6703,7 +6735,9 @@ Presentada la solicitud, se mandará publicar un edicto que contenga el extracto
 
 Transcurrido ese término sin que se hubiere presentado opositor, el Juez recibirá desde luego la información, la que se aprobará o declarará sin lugar según su resultado, siendo apelable en ambos efectos la resolución que se dicte en el último sentido. En el primer caso, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción y mandará inscribir tal declaración en el Registro Público.
 
-La falta de presentación de los certificados que previene la fracción II del artículo 1166, producirá de pleno derecho la nulidad de la información y el Juez que la autorice sufrirá una multa de veinticinco a treinta y cinco días de salario mínimo general vigente en el Estado y responderá de los daños y perjuicios que ocasione. Si por segunda vez comete la infracción, en lugar de la multa será suspendido de su cargo, de uno a seis meses.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La falta de presentación de los certificados que previene la fracción II del artículo 1166, producirá de pleno derecho la nulidad de la información y el Juez que la autorice sufrirá una multa de veinticinco a treinta y cinco veces el valor diario de la Unidad de Medida y Actualización y responderá de los daños y perjuicios que ocasione. Si por segunda vez comete la infracción, en lugar de la multa será suspendido de su cargo, de uno a seis meses.
 
 Las mismas sanciones se impondrán al Registrador de la Propiedad que inscriba la información y al notario que la admita como antecedente legal de algún acto que autorice en el ejercicio de sus funciones, si en el testimonio o copia certificada de las diligencias que se les presente no están insertos los certificados de que trata el citado artículo 1166.
 
@@ -6836,3 +6870,23 @@ P.O. 9 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 180 POR EL QUE “SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 33, LOS ARTÍCULOS 35 Y 592 Y SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 33 TODOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 99 PÁRRAFO PRIMERO, 118 PÁRRAFO CUARTO, 123, 125 FRACCIÓN III; 131 FRACCIÓN I; 236, 320, 348, 379, 464 FRACCIÓN I; 699, 731, 799, 805, 923, 962, 1007, 1063, 1075 PÁRRAFO PRIMERO, 1083 PÁRRAFO SEGUNDO, 1098 Y 1171 PÁRRAFO SEGUNDO, DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
