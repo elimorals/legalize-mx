@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-voluntad-vital-anticipada-del-estado-de-michoacan-de-702
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-21"
-last_updated: "2009-09-21"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE VOLUNTAD VITAL ANTICIPADA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Michoacán, el lunes 21 de septiembre de 2009.
 
@@ -429,11 +429,17 @@ IV. Todas las demás que se deriven de la presente Ley, su reglamento y demás d
 
 A quienes incurran en las responsabilidades señaladas en el artículo anterior, se les aplicarán las siguientes sanciones:
 
-I. En el caso de la fracción I del artículo anterior, se aplicará a los responsables multa de 500 a 1000 días de salario mínimo vigente en el Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. En el caso de la fracción II del artículo anterior, se aplicará a los responsables multa de 300 a 500 días de salario mínimo vigente en el Estado; y,
+I. En el caso de la fracción I del artículo anterior, se aplicará a los responsables multa de 500 a 1000 veces el valor diario de la Unidad de Medida y Actualización;
 
-III. En el caso de la fracción III del artículo anterior, se aplicará a los responsables multa de 100 a 300 días de salario mínimo en el Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. En el caso de la fracción II del artículo anterior, se aplicará a los responsables multa de 300 a 500 veces el valor diario de la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. En el caso de la fracción III del artículo anterior, se aplicará a los responsables multa de 100 a 300 veces el valor diario de la Unidad de Medida y Actualización.
 
 A quienes incurran en las responsabilidades señaladas en las fracciones anteriores, se les aplicarán las sanciones establecidas en los ordenamientos legales correspondientes, independientemente de las señaladas en la presente Ley.
 
@@ -476,3 +482,25 @@ DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de O
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 9 nueve días del mes de septiembre del año 2009 dos mil nueve.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL ARTÍCULO 38 PÁRRAFO PRIMERO FRACCIONES I, II Y III DE LA LEY DE VOLUNTAD VITAL ANTICIPADA DEL ESTADO DE MICHOACÁN DE OCAMPO.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
