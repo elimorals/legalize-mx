@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-notariado-del-estado-de-michoacan-de-ocampo-6136"
 country: "mx"
 rank: "ley"
 publication_date: "1980-02-21"
-last_updated: "2015-12-28"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL NOTARIADO DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 21 de febrero de 1980.
 
@@ -291,9 +291,9 @@ La lista de aspirantes podrá ser impugnada por cualquier persona que acredite t
 
 Cuando el Ejecutivo del Estado haya expedido nombramiento de notario al solicitante, éste para iniciar el ejercicio de sus funciones deberá satisfacer los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-I.- Otorgar garantía por el equivalente a 500 días del salario mínimo si va a ejercer en la capital del Estado y 300 días de salario mínimo si actuare fuera de ella.
+I.- Otorgar garantía por el equivalente a 500 veces el valor diario de la Unidad de Medida y Actualización si va a ejercer en la capital del Estado y 300 veces el valor diario de la Unidad de Medida y Actualización si actuare fuera de ella.
 
 > <small>(REFORMADA, P.O. 26 DE JULIO DE 2013)</small>
 
@@ -651,11 +651,11 @@ III.- La expedición de copias certificadas, certificación de toda clase de doc
 
 IV.- En los demás casos en que otra Ley lo autorice expresamente.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 76.
 
-Las enajenaciones de bienes inmuebles cuyo valor fiscal sea mayor a 1 500 veces el salario mínimo y la constitución o transmisión de derechos reales estimados en más de esa suma o que garanticen un crédito por mayor cantidad que la mencionada, para su validez, deberán constar en escritura pública.
+Las enajenaciones de bienes inmuebles cuyo valor fiscal sea mayor a 1 500 veces el veces el (sic) valor diario de la Unidad de Medida y Actualización y la constitución o transmisión de derechos reales estimados en más de esa suma o que garanticen un crédito por mayor cantidad que la mencionada, para su validez, deberán constar en escritura pública.
 
 ###### ARTICULO 77.
 
@@ -693,13 +693,13 @@ IX. Clase de testamento;
 
 X. Número del instrumento Notarial;
 
-Xl. Nombre del Notario, número y Distrito donde se otorgó el testamento;
+XI. Nombre del Notario, número y Distrito donde se otorgó el testamento;
 
 XII. Volumen y número de escritura;
 
 XIII. Lugar y fecha del otorgamiento;
 
-XlV. Antecedentes sucesorios o notariales; y,
+XIV. Antecedentes sucesorios o notariales; y,
 
 XV. Los demás datos que permitan la mejor identificación de la voluntad sucesoria.
 
@@ -713,11 +713,11 @@ Cuando un instrumento contenga evidente injusticia para alguno de los contratant
 
 ### CAPITULO III. DE LOS INSTRUMENTOS PRIVADOS
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 80.
 
-Los contratos de compra-venta, mutuo, permuta, donación de hipoteca, cuando el valor fiscal de los bienes o el precio de las operaciones no exceda el equivalente a mil quinientas veces el salario mínimo, podrán otorgarse en instrumento privado.
+Los contratos de compra-venta, mutuo, permuta, donación de hipoteca, cuando el valor fiscal de los bienes o el precio de las operaciones no exceda el equivalente a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, podrán otorgarse en instrumento privado.
 
 ###### ARTICULO 81.
 
@@ -1087,9 +1087,9 @@ El Ejecutivo del Estado aplicará a los notarios las siguientes sanciones admini
 
 I.- Amonestación por oficio;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II.- Multa equivalente al monto de 300 a 500 días de salario mínimo;
+II.- Multa equivalente al monto de 300 a 500 veces el valor diario de la Unidad de Medida y Actualización;
 
 III.- Suspensión del cargo hasta por un año; y,
 
@@ -1356,3 +1356,23 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Los notarios en funciones, a la entrada en vigor del presente Decreto, cuentan con dieciocho meses para certificarse.
 
 Artículo Tercero. El programa de certificación previsto en el artículo 3 de esta Ley, deberá ser presentado por el Consejo de Notarios a la Secretaría de Gobierno; una vez autorizado por la Secretaría de Gobierno, el Consejo de Notarios contará con cuarenta y cinco días naturales para implementarlo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 24 FRACCIÓN I; 76, 80 Y 131 FRACCIÓN II DE LA LEY DEL NOTARIADO DEL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
