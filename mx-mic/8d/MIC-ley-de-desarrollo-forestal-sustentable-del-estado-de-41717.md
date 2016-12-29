@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-desarrollo-forestal-sustentable-del-estado-de-41717"
 country: "mx"
 rank: "ley"
 publication_date: "2004-11-22"
-last_updated: "2016-08-23"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACAN
 
-LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 22 de noviembre de 2004.
 
@@ -1591,11 +1591,17 @@ Las sanciones serán:
 
 I. Multa que se determinará en los casos y montos siguientes:
 
-a) Con el equivalente de 100 a 3,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, X, XI, XII, XIV, XV y XVIII del artículo 160 de esta Ley;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-b) Con el equivalente de 250 a 20,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: II; III, IV, V, VI, XIII, XVII y XIX del artículo 160 de esta Ley;
+a) Con el equivalente de 100 a 3,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: I, X, XI, XII, XIV, XV y XVIII del artículo 160 de esta Ley;
 
-c) Con el equivalente de 500 a 40,000 días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: VII; VIII; IX y XVI del artículo 160 de esta Ley;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+b) Con el equivalente de 250 a 20,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: II, III, IV, V, VI, XIII, XVII y XIX del artículo 160 de esta Ley;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+c) Con el equivalente de 500 a 40,000 veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en los supuestos previstos en las fracciones: VII, VIII, IX y XVI del artículo 160 de esta Ley;
 
 II. Además de las multas que se establecen en la fracción anterior, se harán acreedores, en su caso, a la clausura temporal o definitiva, parcial o total de los establecimientos o la cancelación temporal o definitiva, parcial o total de las autorizaciones de aprovechamiento o uso, o de la inscripción registral, o de las actividades de que se trate, a las personas físicas o morales que incurran en los supuestos previstos en las fracciones: III, IV, VI, X, XI, XII, XIII, y XIX del artículo 160 de la presente Ley; y,
 
@@ -1741,7 +1747,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 23 DE AGOSTO DE 2007.
 
@@ -1764,3 +1770,23 @@ P.O. 23 DE AGOSTO DE 2016.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional de Michoacán de Ocampo.
 
 Artículo Segundo. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y trámite correspondiente.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL ARTÍCULO 162 PÁRRAFO SEGUNDO FRACCIÓN I INCISOS A), B) Y C) DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
