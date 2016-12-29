@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-presupuesto-y-gasto-eficiente-de-la-ciudad-de-mexico-711
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-31"
-last_updated: "2014-12-22"
+last_updated: "2016-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71183&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,15 +20,17 @@ issue_date: "2009-12-28"
 ---
 # LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MEXICO -- ANTES LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL --
 
-LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
+LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 31 de diciembre de 2009.
 
 (Al margen superior un escudo que dice: Ciudad de México.- Capital en Movimiento)
 
-DECRETO POR EL QUE SE EXPIDE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL.
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULO TERCERO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+DECRETO POR EL QUE SE EXPIDE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MÉXICO)
 
 MARCELO LUIS EBRARD CASAUBON, Jefe de Gobierno del Distrito Federal, a sus habitantes sabed:
 
@@ -44,13 +46,17 @@ V LEGISLATURA
 
 D E C R E T A
 
-DECRETO POR EL QUE SE EXPIDE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL.
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULO TERCERO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Ú N I C O.- Se expide la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, para quedar como sigue:
+DECRETO POR EL QUE SE EXPIDE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MÉXICO.
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUELLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULO TERCERO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
+Ú N I C O.- Se expide la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México, para quedar como sigue:
+
+> <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULO TERCERO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+LEY DE PRESUPUESTO Y GASTO EFICIENTE DE LA CIUDAD DE MÉXICO
 
 # LIBRO PRIMERO. DE LOS INGRESOS Y DEL PRESUPUESTO DE EGRESOS
 
@@ -58,31 +64,35 @@ LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL
 
 ### CAPÍTULO I. Objeto, definiciones y Unidades Responsables del Gasto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés general y tiene por objeto regular y normar las acciones en materia de programación, presupuestación, aprobación, ejercicio, contabilidad gubernamental, emisión de información financiera, control y evaluación de los ingresos y egresos públicos del Distrito Federal.
+La presente Ley es de orden público e interés general y tiene por objeto regular y normar las acciones en materia de programación, presupuestación, aprobación, ejercicio, contabilidad gubernamental, emisión de información financiera, control y evaluación de los ingresos y egresos públicos de la Ciudad de México.
 
-La presente Ley es de observancia obligatoria para las Dependencias, Delegaciones, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno del Distrito Federal.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La presente Ley es de observancia obligatoria para las Dependencias, Delegaciones, Órganos Desconcentrados, Entidades, Órganos Autónomos y Órganos de Gobierno de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 Los sujetos obligados a cumplir las disposiciones de esta Ley deberán observar que la administración de los recursos públicos se realice con base en criterios de legalidad, honestidad, austeridad, eficiencia, eficacia, economía, racionalidad, resultados, transparencia, control, rendición de cuentas, con una perspectiva que fomente la equidad de género y con un enfoque de respeto a los derechos humanos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
-
-La Contraloría General del Distrito Federal, la Auditoría Superior y la instancia competente de cada Órgano de Gobierno y Órgano Autónomo, fiscalizarán y vigilarán en el ámbito de sus respectivas competencias, el estricto cumplimiento de las disposiciones de esta Ley por parte de los sujetos obligados, conforme a las disposiciones legales que las facultan.
+La Contraloría General de la Ciudad de México, la Auditoría Superior y la instancia competente de cada Órgano de Gobierno y Órgano Autónomo, fiscalizarán y vigilarán en el ámbito de sus respectivas competencias, el estricto cumplimiento de las disposiciones de esta Ley por parte de los sujetos obligados, conforme a las disposiciones legales que las facultan.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
+(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014) (REPUBLICADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)
 
 ###### ARTÍCULO 2.
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Administración Pública: Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I. Administración Pública: Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que integran la Administración Pública de la Ciudad de México;
 
 II. Adecuaciones Presupuestarias: Modificaciones que se realizan durante el ejercicio fiscal a las estructuras presupuestales aprobadas por la Asamblea, así como a los calendarios presupuestales autorizados, siempre que permitan un mejor cumplimiento de los objetivos, metas y resultados de las funciones aprobadas en el presupuesto;
 
@@ -98,11 +108,17 @@ VII. Auditoría Superior: Auditoría Superior de la Ciudad de México;
 
 VIII. Catálogo de Unidades Responsables: Relación de claves con la que se identifica la denominación de las Unidades Responsables del Gasto que realizan erogaciones con cargo al Presupuesto de Egresos;
 
-IX. Código: Código Fiscal del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-X. Consejo de Evaluación: Consejo de Evaluación del Desarrollo Social del Distrito Federal;
+IX. Código: Código Fiscal de la Ciudad de México;
 
-XI. Contraloría: Contraloría General del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+X. Consejo de Evaluación: Consejo de Evaluación del Desarrollo Social de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XI. Contraloría: Contraloría General de la Ciudad de México;
 
 XII. Coordinadora de Sector: Dependencia que en cada caso coordina un agrupamiento de Órganos Desconcentrados y/o Entidades;
 
@@ -120,15 +136,21 @@ XVIII. Cuenta por Liquidar Certificada: Instrumento mediante el cual los servido
 
 XIX. Cuenta Pública: Cuenta de la Hacienda Pública Local;
 
-XX. Decreto: Decreto de Presupuesto de Egresos del Distrito Federal que anualmente autoriza la Asamblea;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-XXI. Delegaciones: Órganos Político-Administrativos en cada una de las demarcaciones territoriales en que se divide el Distrito Federal;
+XX. Decreto: Decreto de Presupuesto de Egresos de la Ciudad de México que anualmente autoriza la Asamblea;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XXI. Delegaciones: Órganos Político-Administrativos en cada una de las demarcaciones territoriales en que se divide la Ciudad de México;
 
 XXII. Dependencias: Unidades administrativas que integran la Administración Pública Centralizada, de conformidad con la Ley Orgánica;
 
 XXIII. Economías: Diferencia positiva del gasto público generada durante el periodo de vigencia del Presupuesto de Egresos, una vez cumplidos los programas y metas establecidos y que se deriva de la obtención de mejores condiciones en la adquisición de bienes y servicios;
 
-XXIV. Entidades: Organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos del sector paraestatal del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XXIV. Entidades: Organismos descentralizados, empresas de participación estatal mayoritaria y los fideicomisos públicos del sector paraestatal de la Ciudad de México;
 
 XXV. Entidades Coordinadas: Las que se designen formando parte de un sector determinado;
 
@@ -136,9 +158,13 @@ XXVI. Estatuto: Estatuto de Gobierno del Distrito Federal;
 
 XXVII. Función: Agrupación del gasto público conforme a la naturaleza de los servicios gubernamentales en beneficio de una población objetivo, que se ejercen a través de una Unidad Responsable del Gasto;
 
-XXVIII. Gaceta: Gaceta Oficial del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-XXIX. Informe Trimestral: Documento de rendición de cuentas, en el cual el Gobierno del Distrito Federal reporta a la Asamblea, cada tres meses, sobre las Finanzas Públicas y la Deuda Pública, desde el inicio del ejercicio fiscal hasta el término del trimestre correspondiente;
+XXVIII. Gaceta: Gaceta Oficial de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XXIX. Informe Trimestral: Documento de rendición de cuentas, en el cual el Gobierno de la Ciudad de México reporta a la Asamblea, cada tres meses, sobre las Finanzas Públicas y la Deuda Pública, desde el inicio del ejercicio fiscal hasta el término del trimestre correspondiente;
 
 XXX. Ingresos de Aplicación Automática: Recursos por concepto de productos y aprovechamientos que recaudan y administran las Dependencias, Órganos Desconcentrados y las Delegaciones, de conformidad con las reglas de carácter general a que se refieren los artículos 303 y 308 del Código;
 
@@ -146,13 +172,19 @@ XXXI. Ingresos Excedentes: Recursos que durante el ejercicio fiscal se obtienen 
 
 XXXII. Ingresos Propios: Recursos que por cualquier concepto obtengan las Entidades, distintos a los recursos por concepto de subsidios, aportaciones y transferencias;
 
-XXXIII. Jefe de Gobierno: Jefe de Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XXXIII. Jefe de Gobierno: Jefe de Gobierno de la Ciudad de México;
 
 XXXIV. Largo Plazo: Periodo que comprende más de 6 años;
 
-XXXV. Ley: Ley de Presupuesto y Gasto Eficiente del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-XXXVI. Ley de Ingresos: Ley de Ingresos del Distrito Federal, que anualmente autoriza la Asamblea;
+XXXV. Ley: Ley de Presupuesto y Gasto Eficiente de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XXXVI. Ley de Ingresos: Ley de Ingresos de la Ciudad de México, que anualmente autoriza la Asamblea;
 
 XXXVII. Ley de Planeación: Ley de Planeación del Desarrollo del Distrito Federal;
 
@@ -162,9 +194,13 @@ XXXIX. Ley Orgánica: Ley Orgánica de la Administración Pública del Distrito 
 
 XL. Mediano Plazo: Periodo que comprende más de 3 y hasta 6 años;
 
-XLI. Oficialía: Oficialía Mayor del Gobierno del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-XLII. Órganos Autónomos: La Universidad Autónoma de la Ciudad de México, el Instituto Electoral, el Tribunal Electoral, la Comisión de Derechos Humanos, el Tribunal de lo Contencioso Administrativo, la Junta Local de Conciliación y Arbitraje y el Instituto de Acceso a la Información Pública, todos del Distrito Federal;
+XLI. Oficialía: Oficialía Mayor del Gobierno de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XLII. Órganos Autónomos: La Universidad Autónoma de la Ciudad de México, el Instituto Electoral, el Tribunal Electoral, la Comisión de Derechos Humanos, el Tribunal de lo Contencioso Administrativo, la Junta Local de Conciliación y Arbitraje y el Instituto de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas, todos de la Ciudad de México;
 
 XLIII. Órganos de Gobierno: La Asamblea y el Tribunal Superior de Justicia, ambos del Distrito Federal;
 
@@ -186,11 +222,15 @@ LI. Presupuesto Pagado: Erogaciones realizadas para efectos del cumplimiento efe
 
 LII. Programas de Inversión: Acciones que implican erogaciones de gasto de capital destinadas tanto a obra pública, infraestructura, adquisición y modificación de inmuebles, adquisiciones de bienes muebles asociadas a estos programas, rehabilitaciones que impliquen un aumento en la capacidad o vida útil de los activos de infraestructura e inmuebles, equipamiento y mantenimiento;
 
-LIII. Programa Delegacional: Programas de desarrollo de las demarcaciones territoriales del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+LIII. Programa Delegacional: Programas de desarrollo de las demarcaciones territoriales de la Ciudad de México;
 
 LIV. Programa General: Programa General de Desarrollo del Distrito Federal. Documento rector que contiene las directrices generales del desarrollo social, económico y del ordenamiento territorial;
 
-LV. Programa Operativo: Programa Operativo de la Administración Pública del Distrito Federal referente a su actividad conjunta y que cuantifica los objetivos, metas, programas, resultados y programas delegacionales para la asignación de recursos presupuestales;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+LV. Programa Operativo: Programa Operativo de la Administración Pública de la Ciudad de México referente a su actividad conjunta y que cuantifica los objetivos, metas, programas, resultados y programas delegacionales para la asignación de recursos presupuestales;
 
 LVI. Programa Operativo Anual: Documento que sirve de base para la integración de los Anteproyectos de Presupuesto anuales de las propias Dependencias, Órganos Desconcentrados, Delegaciones y Entidades;
 
@@ -204,11 +244,15 @@ LX. Reglamento Interior: Reglamento Interior de la Administración Pública del 
 
 LXI. Reglas de Operación: Disposiciones a las cuales se sujetan determinados programas de gobierno con el objeto de otorgar transparencia y asegurar la aplicación eficiente, eficaz, oportuna y equitativa de los recursos públicos asignados a los mismos;
 
-LXII. Responsabilidad Financiera: Observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos del Distrito Federal, el Código y los ordenamientos jurídicos aplicables que procuren la recaudación, el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por la Asamblea;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+LXII. Responsabilidad Financiera: Observancia de los principios y las disposiciones de esta Ley, la Ley de Ingresos, el Presupuesto de Egresos de la Ciudad de México, el Código y los ordenamientos jurídicos aplicables que procuren la recaudación, el equilibrio presupuestario, la disciplina fiscal y el cumplimiento de las metas aprobadas por la Asamblea;
 
 LXIII. Resultado: Conjunto de objetivos relacionados entre sí tendientes a crear una transformación de una determinada situación;
 
-LXIV. Secretaría: Secretaría de Finanzas del Distrito Federal;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+LXIV. Secretaría: Secretaría de Finanzas de la Ciudad de México;
 
 LXV. Sector: Agrupamiento de Entidades Coordinadas por la Secretaría y que en cada caso designe el Jefe de Gobierno;
 
@@ -216,19 +260,47 @@ LXVI. Sistema de Evaluación del Desempeño: Conjunto de elementos metodológico
 
 LXVII. Subsidios: Asignaciones previstas en el Presupuesto de Egresos para los diferentes sectores de la sociedad para fomentar el desarrollo de actividades sociales o económicas prioritarias de interés general;
 
-LXVIII. Tesorería: Tesorería del Distrito Federal, y
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-LXIX. Unidades Responsables del Gasto: Órganos Autónomos y de Gobierno, Dependencias, Órganos Desconcentrados, Delegaciones y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos.
+LXVIII. Tesorería: Tesorería de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+LXIX. Unidades Responsables del Gasto: Órganos Autónomos y de Gobierno, Dependencias, Órganos Desconcentrados, Delegaciones y Entidades y cualquier otro órgano o unidad que realicen erogaciones con cargo al Presupuesto de Egresos;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+LXX. Metodología del Marco Lógico: Es la herramienta de planeación estratégica basada en la estructuración y solución de problemas o áreas de mejora, que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causa y efecto, medios y fines;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+LXXI. Programa Presupuestario: Categoría programática-presupuestal que permite organizar, en forma representativa y homogénea, las asignaciones de recursos para que los sujetos obligados al cumplimiento de esta Ley generen bienes y servicios públicos o realicen actividades de apoyo, que sirvan para cumplir con propósitos y fines susceptibles de ser medidos y que responden a las prioridades establecidas en la planeación del desarrollo;
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+LXXII. Evaluación de desempeño: El seguimiento y evaluación sistemática de los Programas Presupuestarios, que permiten la valoración objetiva del desempeño de las políticas públicas a través de la verificación del cumplimiento de metas y objetivos con base en indicadores estratégicos y de gestión, y
+
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+LXXIII. Evaluación de diseño: Análisis y valoración del diseño del programa presupuestario, que tiene la finalidad de identificar si el programa contiene los elementos necesarios que permitan prever de manera razonable el logro de sus metas y objetivos, a efecto de instrumentar mejoras.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 3.
 
-La Secretaría interpretará para efectos administrativos las disposiciones de esta Ley y establecerá para las Dependencias, Delegaciones, Entidades y Órganos Desconcentrados, con la participación de la Contraloría, en el ámbito de su competencia, las medidas conducentes para aplicar correctamente lo dispuesto en esta Ley y en su Reglamento.
+La Secretaría interpretará para efectos administrativos las disposiciones de esta Ley y establecerá para las Dependencias, Delegaciones, Entidades y Órganos Desconcentrados, con la participación de la Contraloría, en el ámbito de su competencia, las medidas conducentes para aplicar correctamente lo dispuesto en esta Ley y en su Reglamento, así como en la demás normatividad en materia de disciplina financiera y contabilidad gubernamental.
 
 En el caso de los Órganos Autónomos y de Gobierno, sus respectivas unidades de administración podrán establecer las medidas conducentes para interpretar y aplicar correctamente lo dispuesto en esta Ley, las cuales para su vigencia deberán publicarse en la Gaceta.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+El Código Fiscal de la Ciudad de México será supletorio de esta Ley en lo conducente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 4.
 
-El gasto público en el Distrito Federal, se basará en el Presupuesto de Egresos aprobado por la Asamblea y comprenderá las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, responsabilidad patrimonial, así como pagos de pasivo o deuda que realizan las Unidades Responsables del Gasto.
+El gasto público en la Ciudad de México, se basará en el Presupuesto de Egresos aprobado por la Asamblea y comprenderá las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, responsabilidad patrimonial, así como pagos de pasivo o deuda que realizan las Unidades Responsables del Gasto.
 
 Las Unidades Responsables del Gasto están obligadas a rendir cuentas por la administración de los recursos públicos en los términos de la presente Ley y de las demás disposiciones aplicables.
 
@@ -240,9 +312,9 @@ I. Aprobar sus proyectos de presupuesto y enviarlos a la Secretaría para su int
 
 II. Será responsabilidad exclusiva de las unidades administrativas y de los servidores públicos competentes, manejar, administrar y ejercer sus presupuestos sujetándose a sus propias leyes, así como a las normas que al respecto se emitan en congruencia con lo previsto en esta Ley, en todo aquello que no se oponga a las normas que rijan su organización y funcionamiento.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Asimismo, elaborarán sus calendarios presupuestales y deberán comunicarlos a la Secretaría a más tardar el 20 de enero del ejercicio fiscal correspondiente, los cuales estarán en función de la capacidad financiera del Distrito Federal y deberán ser publicados en la Gaceta a más tardar dentro de los 10 días hábiles siguientes a la fecha de su comunicación.
+Asimismo, elaborarán sus calendarios presupuestales y deberán comunicarlos a la Secretaría a más tardar el 20 de enero del ejercicio fiscal correspondiente, los cuales estarán en función de la capacidad financiera de la Ciudad de México y deberán ser publicados en la Gaceta a más tardar dentro de los 10 días hábiles siguientes a la fecha de su comunicación.
 
 III. Autorizar las adecuaciones a sus presupuestos para el mejor cumplimiento de sus programas, previa aprobación de su órgano competente y de acuerdo con la normatividad correspondiente, sin exceder sus presupuestos autorizados y cumpliendo con las metas y objetivos de sus programas operativos;
 
@@ -250,17 +322,19 @@ IV. Coadyuvar con la disciplina presupuestaria, determinando los ajustes que cor
 
 V. Llevar contabilidad y elaborar los informes correspondientes, en términos del Libro Segundo de la presente Ley.
 
-Los Órganos Autónomos y de Gobierno deberán publicar trimestralmente en su página de internet y en la Gaceta los ingresos del periodo distintos a las transferencias del Gobierno del Distrito Federal, incluyendo sus rendimientos financieros, el destino y saldo de los fideicomisos en los que participen, en los términos de las disposiciones generales aplicables.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Los Órganos Autónomos y de Gobierno deberán publicar trimestralmente en su página de internet y en la Gaceta los ingresos del periodo distintos a las transferencias del Gobierno de la Ciudad de México, incluyendo sus rendimientos financieros, el destino y saldo de los fideicomisos en los que participen, en los términos de las disposiciones generales aplicables.
 
 La información a que se refiere el párrafo anterior deberá remitirse a la Secretaría para su integración en los informes trimestrales y en la Cuenta Pública.
 
 Los Órganos Autónomos y de Gobierno deberán seguir en lo conducente las disposiciones de esta Ley, de las leyes de su creación y demás normatividad aplicable en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 6.
 
-La Asamblea autorizará la afectación o retención de participaciones federales asignadas al Distrito Federal, así como de los ingresos propios de las Entidades, para el pago de obligaciones contraídas por el Distrito Federal, de acuerdo con el siguiente procedimiento:
+La Asamblea autorizará la afectación o retención de participaciones federales asignadas a la Ciudad de México, así como de los ingresos propios de las Entidades, para el pago de obligaciones contraídas por la Ciudad de México, de acuerdo con el siguiente procedimiento:
 
 I. El Jefe de Gobierno enviará a la Asamblea la solicitud correspondiente indicando:
 
@@ -280,21 +354,23 @@ No se reconocerán compromisos adquiridos sin la autorización de la Asamblea.
 
 Las Entidades podrán afectar y/o gravar como garantía y/o fuente de pago sus ingresos propios, previamente deberán solicitar a la Secretaría de Finanzas la opinión favorable para afectar sus ingresos y una vez que ésta otorgue dicha opinión, se procederá conforme a lo dispuesto en el párrafo primero de este artículo.
 
-La Secretaría llevará un Registro Único de Compromisos y Garantías que afecten los ingresos del Distrito Federal.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+La Secretaría llevará un Registro Único de Compromisos y Garantías que afecten los ingresos de la Ciudad de México.
 
-El Jefe de Gobierno, a través de la Secretaría, informará trimestralmente a la Asamblea de la cartera y evolución de los compromisos y garantías autorizados, con los cuales se hayan afectado los ingresos del Distrito Federal en los términos previstos en la Ley de Coordinación Fiscal y del presente artículo. En el informe se detallarán los compromisos contraídos y las garantías otorgadas, así como las fuentes de pago o garantía.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+El Jefe de Gobierno, a través de la Secretaría, informará trimestralmente a la Asamblea de la cartera y evolución de los compromisos y garantías autorizados, con los cuales se hayan afectado los ingresos de la Ciudad de México en los términos previstos en la Ley de Coordinación Fiscal y del presente artículo. En el informe se detallarán los compromisos contraídos y las garantías otorgadas, así como las fuentes de pago o garantía.
 
 Podrán incluirse las obligaciones derivadas de los convenios de seguridad social entre el Gobierno Federal y la Administración Pública.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-En el caso de las Entidades, Órganos Autónomos y de Gobierno, éstos deberán garantizar en su presupuesto el cumplimiento de estas obligaciones de seguridad social. En caso de que no cubran los adeudos en los plazos correspondientes y se hayan agotado los procesos de conciliación de pagos en los términos y condiciones que establezca la Ley Federal en la materia, la Secretaría queda facultada para enterar los recursos a la autoridad federal competente y afectar directamente el presupuesto que les autorice la Asamblea por el equivalente a las cantidades adeudadas, a fin de no afectar las participaciones del Distrito Federal.
+En el caso de las Entidades, Órganos Autónomos y de Gobierno, éstos deberán garantizar en su presupuesto el cumplimiento de estas obligaciones de seguridad social. En caso de que no cubran los adeudos en los plazos correspondientes y se hayan agotado los procesos de conciliación de pagos en los términos y condiciones que establezca la Ley Federal en la materia, la Secretaría queda facultada para enterar los recursos a la autoridad federal competente y afectar directamente el presupuesto que les autorice la Asamblea por el equivalente a las cantidades adeudadas, a fin de no afectar las participaciones de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-ARTÍCULO 6 BIS.- Cuando derivado del incumplimiento de obligaciones directamente atribuibles a las Unidades Responsables del Gasto, la Federación realice una afectación en las participaciones en ingresos federales que le asigna al Distrito Federal, las Dependencias, Órganos Desconcentrados, Delegaciones, Entidades, Órganos de Gobierno y Autónomos que lo hayan generado, deberán realizar el ajuste correspondiente a su presupuesto conforme a lo que determine la Secretaría.
+ARTÍCULO 6 BIS.- Cuando derivado del incumplimiento de obligaciones directamente atribuibles a las Unidades Responsables del Gasto, la Federación realice una afectación en las participaciones en ingresos federales que le asigna a la Ciudad de México, las Dependencias, Órganos Desconcentrados, Delegaciones, Entidades, Órganos de Gobierno y Autónomos que lo hayan generado, deberán realizar el ajuste correspondiente a su presupuesto conforme a lo que determine la Secretaría.
 
 ###### ARTÍCULO 7.
 
@@ -344,37 +420,43 @@ III. Fomentar el enfoque de género en el diseño y la ejecución de programas e
 
 IV. En los programas bajo su responsabilidad, establecer o consolidar las metodologías de evaluación y seguimiento que generen información relacionada con indicadores para resultados con enfoque de género;
 
-V. Aplicar el enfoque de género en las evaluaciones de los programas, con los criterios que emitan el Instituto de las Mujeres del Distrito Federal y el Consejo de Evaluación;
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-VI. Incluir en sus programas y campañas de comunicación social contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación, observando lo dispuesto por el artículo 83, fracción I de la Ley. El Instituto de las Mujeres del Distrito Federal coadyuvará con las Unidades Responsables del Gasto en el contenido de estos programas y campañas, y
+V. Aplicar el enfoque de género en las evaluaciones de los programas, con los criterios que emitan el Instituto de las Mujeres de la Ciudad de México y el Consejo de Evaluación;
+
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+VI. Incluir en sus programas y campañas de comunicación social contenidos que promuevan la igualdad entre mujeres y hombres, la erradicación de la violencia de género, y de roles y estereotipos que fomenten cualquier forma de discriminación, observando lo dispuesto por el artículo 83, fracción I de la Ley. El Instituto de las Mujeres de la Ciudad de México coadyuvará con las Unidades Responsables del Gasto en el contenido de estos programas y campañas, y
 
 VII. Elaborar diagnósticos sobre la situación de las mujeres en los distintos ámbitos de su competencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
+La Secretaría, en coordinación con el Instituto de las Mujeres de la Ciudad de México, y con base en la información que proporcionen las Unidades Responsables del Gasto, remitirá a la Comisión para la Igualdad de Género de la Asamblea, un informe trimestral de los avances financieros y programáticos, a más tardar a los 45 días naturales de concluido el trimestre que corresponda.
 
-La Secretaría, en coordinación con el Instituto de las Mujeres del Distrito Federal, y con base en la información que proporcionen las Unidades Responsables del Gasto, remitirá a la Comisión para la Igualdad de Género de la Asamblea, un informe trimestral de los avances financieros y programáticos, a más tardar a los 45 días naturales de concluido el trimestre que corresponda.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Dicho informe deberá contener las oportunidades de mejora que realice el Instituto de las Mujeres del Distrito Federal, en cuanto al impacto de las actividades mencionadas.
+Dicho informe deberá contener las oportunidades de mejora que realice el Instituto de las Mujeres de la Ciudad de México, en cuanto al impacto de las actividades mencionadas.
 
 Las Unidades Responsables del Gasto promoverán acciones para ejecutar el Programa contenido en la Ley de Igualdad Sustantiva entre Mujeres y Hombres en el Distrito Federal.
 
-El Instituto de las Mujeres del Distrito Federal, en coordinación con la Secretaría podrá emitir recomendaciones a la Administración Pública sobre las oportunidades de mejora en materia de presupuesto con perspectiva de género, así como los programas y acciones encaminadas a disminuir las brechas de igualdad entre mujeres y hombres.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+El Instituto de las Mujeres de la Ciudad de México, en coordinación con la Secretaría podrá emitir recomendaciones a la Administración Pública sobre las oportunidades de mejora en materia de presupuesto con perspectiva de género, así como los programas y acciones encaminadas a disminuir las brechas de igualdad entre mujeres y hombres.
 
-> <small>(ADICIONADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-El Instituto de las Mujeres del Distrito Federal podrá emitir opinión a las Unidades Responsables del Gasto sobre los resultados alcanzados en las acciones enfocadas a disminuir las brechas de igualdad entre mujeres y hombres.
+El Instituto de las Mujeres de la Ciudad de México podrá emitir opinión a las Unidades Responsables del Gasto sobre los resultados alcanzados en las acciones enfocadas a disminuir las brechas de igualdad entre mujeres y hombres.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 11.
 
-Con la finalidad de cumplir con el programa de Derechos Humanos del Distrito Federal, será obligatorio para todas las Unidades Responsables de Gasto, la inclusión del enfoque de derechos humanos en la ejecución, seguimiento y evaluación del presupuesto basado en resultados.
+Con la finalidad de cumplir con el programa de Derechos Humanos de la Ciudad de México, será obligatorio para todas las Unidades Responsables del Gasto, la inclusión del enfoque de derechos humanos en la ejecución, seguimiento y evaluación del presupuesto basado en resultados.
 
-Asimismo, deberán integrar en sus anteproyectos de Presupuesto de Egresos, recursos para el eficaz cumplimiento de sus objetivos y metas del programa de derechos humanos del Distrito Federal, para tal efecto, deberán considerar lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Asimismo, deberán integrar en sus anteproyectos de Presupuesto de Egresos, recursos para el eficaz cumplimiento de sus objetivos y metas del programa de derechos humanos de la Ciudad de México, para tal efecto, deberán considerar lo siguiente:
 
 I.- La realización y el seguimiento de las acciones encaminadas a mejorar los proyectos y los programas de gobierno en materia de desarrollo humano y régimen democrático;
 
@@ -384,9 +466,11 @@ III.- Que los servidores públicos, en la aplicación de los programas, asignaci
 
 ### CAPÍTULO II. Fideicomisos Públicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 12.
 
-Son fideicomisos públicos los que constituya el Gobierno del Distrito Federal por conducto de la Secretaría en su carácter de fideicomitente único de la Administración Pública. Los fideicomisos públicos tendrán como propósito auxiliar al Jefe de Gobierno o a los Jefes Delegacionales, mediante la realización de actividades prioritarias o de las funciones que legalmente les corresponden.
+Son fideicomisos públicos los que constituya el Gobierno de la Ciudad de México por conducto de la Secretaría en su carácter de fideicomitente único de la Administración Pública. Los fideicomisos públicos tendrán como propósito auxiliar al Jefe de Gobierno o a los Jefes Delegacionales, mediante la realización de actividades prioritarias o de las funciones que legalmente les corresponden.
 
 Se asimilarán a los fideicomisos públicos en términos de transparencia y rendición de cuentas, aquellos que constituyan los Órganos Autónomos y de Gobierno a los que se les asignen recursos del Presupuesto de Egresos.
 
@@ -396,7 +480,9 @@ Los fideicomisos públicos y los que se asimilen a éstos, deberán registrarse 
 
 Para constituir, modificar o extinguir fideicomisos públicos, cuando así convenga al interés público, las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades deberán contar con la aprobación del Jefe de Gobierno, emitida por conducto de la Secretaría.
 
-La constitución, modificación y extinción de los fideicomisos públicos del Distrito Federal, deberán informarse en un apartado específico en el Informe Trimestral y en la Cuenta Pública.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La constitución, modificación y extinción de los fideicomisos públicos de la Ciudad de México, deberán informarse en un apartado específico en el Informe Trimestral y en la Cuenta Pública.
 
 Cuando los fideicomisos públicos no cuenten con la autorización y registro de la Secretaría, procederá su extinción o liquidación.
 
@@ -422,9 +508,11 @@ Las Unidades Responsables del Gasto enviarán de manera trimestral a la Asamblea
 
 ### CAPÍTULO III. Del Equilibrio Presupuestario y de los Principios de Responsabilidad Financiera
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 16.
 
-Los proyectos de Ley de Ingresos y de Presupuesto de Egresos para cada ejercicio fiscal se elaborarán con base en los resultados que se pretendan alcanzar conforme al avance y cumplimiento del Programa General, al análisis del desempeño económico del Distrito Federal y las perspectivas económicas para el año que se presupuesta, de conformidad con lo establecido en esta Ley y su Reglamento.
+Los proyectos de Ley de Ingresos y de Presupuesto de Egresos para cada ejercicio fiscal se elaborarán con base en los resultados que se pretendan alcanzar conforme al avance y cumplimiento del Programa General, al análisis del desempeño económico de la Ciudad de México y las perspectivas económicas para el año que se presupuesta, de conformidad con lo establecido en esta Ley, su Reglamento y demás normatividad aplicable.
 
 ###### ARTÍCULO 17.
 
@@ -470,25 +558,43 @@ Los Órganos Autónomos y de Gobierno, de conformidad con las disposiciones de e
 
 Para el caso de las Delegaciones, la Secretaría se coordinará con éstas, para que en el ámbito de sus respectivas competencias, analicen, autoricen y apliquen las medidas de disciplina y equilibrio presupuestal que plantee el Jefe de Gobierno.
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 21.
 
-En el ejercicio de sus presupuestos, las Dependencias, Órganos Desconcentrados y Entidades se sujetarán estrictamente a los calendarios de presupuesto autorizados por la Secretaría, los cuales serán anuales con base mensual y estarán en función de la capacidad financiera del Distrito Federal.
+En el ejercicio de sus presupuestos, las Dependencias, Órganos Desconcentrados y Entidades se sujetarán estrictamente a los calendarios de presupuesto autorizados por la Secretaría, los cuales serán anuales con base mensual y estarán en función de la capacidad financiera de la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 Las Dependencias, Órganos Desconcentrados y Entidades remitirán a la Secretaría sus proyectos de calendarios en los términos y plazos establecidos por el Reglamento.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 La Secretaría autorizará los calendarios tomando en consideración las necesidades institucionales y la oportunidad en la ejecución de los recursos para el mejor cumplimiento de los objetivos de los Programas, dando prioridad a los programas sociales y de infraestructura.
 
-En el caso de las Delegaciones, la Secretaría y éstas en el ámbito de sus respectivas competencias analizarán, elaborarán, determinarán y autorizarán los calendarios presupuestales anuales.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+En el caso de las Delegaciones, la Secretaría y éstas en el ámbito de sus respectivas competencias analizarán, elaborarán, determinarán y autorizarán los calendarios presupuestales anuales y en caso de existir recursos adicionales, estos serán entregados conforme a lo que establece el Decreto de Presupuesto de Egresos para la Ciudad de México del ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría publicará en la Gaceta, a más tardar el último día del mes de febrero del ejercicio fiscal de que se trate, el calendario a que hace referencia el párrafo anterior.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 La Secretaría queda facultada para elaborar los calendarios de presupuesto de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades cuando no le sean presentados en los términos que establezca el Reglamento.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+
 Los calendarios de presupuesto deberán comunicarse por la Secretaría a las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades durante el mes de enero del ejercicio fiscal a que corresponda.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 Queda prohibido a las Unidades Responsables de Gasto, contraer compromisos que rebasen el monto de sus presupuestos autorizados o efectuar erogaciones que impidan el cumplimiento de acuerdo con sus actividades institucionales aprobadas.
 
-Los calendarios de presupuesto deberán publicarse en la Gaceta Oficial del Distrito Federal.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Los calendarios de presupuesto deberán publicarse en la Gaceta Oficial de la Ciudad de México.
 
 ###### ARTÍCULO 22.
 
@@ -514,13 +620,17 @@ II. Las previsiones de gasto público para cubrir los recursos humanos, material
 
 III. Las actividades y sus respectivas previsiones de gasto público correspondiente a los Órganos Autónomos y de Gobierno.
 
+> <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV. Las previsiones de gasto público para cubrir los recursos humanos, materiales, financieros y de otra índole, necesarios para la operación y el cumplimiento de los Programas Presupuestarios.
+
 ###### ARTÍCULO 25.
 
 La programación y presupuestación anual del gasto público se realizará con apoyo en los Anteproyectos de Presupuesto que elaboren las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para cada ejercicio fiscal y con base en:
 
 I. Las políticas del Programa General y los programas sectoriales establecidos en la Ley de Planeación, y
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
 II. Las políticas de gasto público que determine el Jefe de Gobierno, a través de la Secretaría. y
 
@@ -531,6 +641,36 @@ III. La evaluación de los avances logrados en el cumplimiento de los objetivos 
 El anteproyecto se elaborará por Dependencia, Órgano Desconcentrado, Delegación y Entidad estimando los costos para alcanzar los resultados cuantitativos y cualitativos previstos en las metas, así como los indicadores necesarios para medir su cumplimiento.
 
 El Anteproyecto de Presupuesto de las Entidades incluirá en su flujo de efectivo, la previsión de sus ingresos incluyendo en su caso, el endeudamiento neto, los subsidios, aportaciones y transferencias, la disponibilidad inicial y la disponibilidad final.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+El anteproyecto se elaborará por Dependencia, Órgano Desconcentrado y Entidad considerando sus Programas Presupuestarios.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 25 BIS.- Son obligaciones de las Dependencias, Órganos Desconcentrados y Entidades que integran la Administración Pública de la Ciudad de México, en materia de Evaluación del Desempeño, las siguientes:
+
+I. Elaborar y proponer a la Secretaría los Programas Presupuestarios y sus Indicadores de Desempeño a su cargo conforme a los lineamientos que emita la Secretaría;
+
+II. Evaluar el grado de cumplimiento de sus Indicadores de Desempeño, mediante autoevaluaciones o a través de evaluadores externos;
+
+III. Dar seguimiento y monitoreo a los Indicadores Estratégicos y de Gestión de los Programas Presupuestarios;
+
+IV. Atender las revisiones y recomendaciones de las Evaluaciones del Desempeño;
+
+V. Informar en los términos que establezca la Secretaría, los resultados de los Indicadores de Desempeño de los Programas Presupuestarios a su cargo;
+
+VI. Acordar con la Secretaría según corresponda, las adecuaciones a los Programas Presupuestarios en cumplimiento de las recomendaciones resultantes de los procesos de seguimiento y evaluación, y
+
+VII. Durante el primer año de operación de los Programas Presupuestarios, se deberá llevar a cabo una evaluación en materia de diseño en términos de los lineamientos que emita la Secretaría.
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 25 TER.- Los Programas Presupuestarios que diseñen, elaboren, implementen y operen, las Dependencias, Órganos Desconcentrados y Entidades, deberán incorporarse al Sistema de Evaluación del Desempeño.
+
+Para efectos de la Evaluación del Desempeño de las Dependencias, Órganos Desconcentrados y Entidades, la Secretaría será la instancia técnica de evaluación a que se refiere el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, la cual implementará de manera gradual la citada Evaluación.
+
+Corresponde a la Secretaría, la facultad de diseñar, operar y coordinar el Sistema de Evaluación de Desempeño, debiendo informar a la Asamblea Legislativa del Distrito Federal sobre los indicadores que se generan con motivo del sistema de evaluación de desempeño, dentro de los informes trimestrales.
 
 ###### ARTÍCULO 26.
 
@@ -552,21 +692,49 @@ La Secretaría podrá efectuar las modificaciones que considere necesarias a los
 
 Para el caso de las Delegaciones, la Secretaría se coordinará con éstas a efecto de acordar los ajustes planteados durante los primeros 15 días naturales del mes de Enero de cada ejercicio, a efecto de respetar la congruencia entre los objetivos del programa de Gobierno Delegacional y la aplicación del marco normativo y procedimental.
 
+(REPUBLICADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)
+
 ###### ARTÍCULO 28.
 
 Las asignaciones presupuestales para las Delegaciones se integrarán tomando en cuenta los siguientes criterios:
 
+(REPUBLICADO, G.O. 29 DE DICIEMBRE DE 2016)
+
 a) Población;
+
+(REPUBLICADO, G.O. 29 DE DICIEMBRE DE 2016)
 
 b) Marginación;
 
-c) Infraestructura, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-d) Equipamiento urbano.
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-La Secretaría deberá emitir las reglas, políticas y metodología en que se sustenten los criterios de distribución, la justificación del peso que se otorga a cada rubro y los ponderadores, considerando los indicadores públicos, oficiales, disponibles recientes, información que deberá publicarse en la Gaceta.
+c) Infraestructura;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+d) Equipamiento urbano, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+e) Las zonificaciones del suelo de conservación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEXTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría deberá emitir las reglas, políticas y metodología en que se sustenten los criterios de distribución, la justificación del peso que se otorga a cada rubro y los ponderadores, considerando los indicadores públicos, oficiales, disponibles recientes, así como lo establecido en el Programa General de Ordenamiento Ecológico, información que deberá publicarse en la Gaceta.
+
+(REPUBLICADO, G.O. 29 DE DICIEMBRE DE 2016)
 
 Los recursos provenientes de las aportaciones federales deberán cuantificarse de manera independiente, respecto de los montos que se asignen a las Delegaciones.
+
+(REPUBLICADO, G.O. 29 DE DICIEMBRE DE 2016)
 
 La Secretaría dará a conocer a las Delegaciones las reglas, políticas y metodología para que éstas manifiesten lo conducente, dentro del ámbito de su competencia.
 
@@ -634,9 +802,11 @@ El Programa Operativo y aquéllos que de él deriven, especificarán las accione
 
 ### CAPÍTULO III. De la Ley de Ingresos y el Presupuesto de Egresos
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 36.
 
-El Presupuesto de Ingresos es el documento que contiene la estimación de contribuciones, aprovechamientos, productos y demás ingresos que durante un año de calendario deba percibir el Distrito Federal, de conformidad con la Constitución, con el Estatuto, en esta Ley y demás disposiciones aplicables en la materia y que servirá de base para la elaboración de la Iniciativa de Ley de Ingresos.
+El Presupuesto de Ingresos es el documento que contiene la estimación de contribuciones, aprovechamientos, productos y demás ingresos que durante un año de calendario deba percibir la Ciudad de México, de conformidad con la Constitución, con el Estatuto, en esta Ley y demás disposiciones aplicables en la materia y que servirá de base para la elaboración de la Iniciativa de Ley de Ingresos.
 
 ###### ARTÍCULO 37.
 
@@ -712,15 +882,13 @@ El proyecto de Presupuesto de Egresos se integrará con los siguientes elementos
 
 I. Exposición de Motivos en la que señalen los efectos económicos y sociales que se pretenden lograr;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. El gasto neto total que en éste se especifique, así como la clasificación administrativa, por resultados, la clasificación por tipo de gasto y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Responsables de Gasto que el propio presupuesto señale;
+II. El gasto neto total que en éste se especifique, así como la clasificación administrativa, clasificación funcional, la clasificación por tipo de gasto y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Responsables de Gasto que el propio presupuesto señale;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 22 DE DICIEMBRE DE 2014)</small>
-
-III. Descripción clara de las funciones, resultados y subresultados que sean base del proyecto en los que se señalen objetivos, metas y prioridades, así como las Unidades responsables de su ejecución;
+III. Descripción clara de las funciones y subfunciones que sean base del proyecto en los que se señalen objetivos, metas y prioridades, así como las Unidades responsables de su ejecución;
 
 IV. Descripción del presupuesto con enfoque de equidad de género, derechos humanos y sustentabilidad; este último se contendrá en un Anexo específico de las actividades institucionales del Resultado correspondiente que realicen las Unidades Responsables del Gasto;
 
@@ -774,9 +942,11 @@ En el año en que termina su encargo, el Jefe de Gobierno saliente deberá elabo
 
 ### CAPÍTULO I. Del Ejercicio
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 43.
 
-El Presupuesto de Egresos será el que contenga el Decreto que apruebe la Asamblea a iniciativa del Jefe de Gobierno, para expensar, durante el periodo de un año contado a partir del 1° de enero del ejercicio fiscal correspondiente, el gasto neto total que en éste se especifique, así como la clasificación administrativa, por resultados y económica y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Responsables del Gasto que el propio presupuesto señale.
+El Presupuesto de Egresos será el que contenga el Decreto que apruebe la Asamblea a iniciativa del Jefe de Gobierno, para expensar, durante el periodo de un año contado a partir del 1ro de enero del ejercicio fiscal correspondiente, el gasto neto total que en éste se especifique, así como la clasificación administrativa, clasificación funcional y económica y el desglose de las actividades, obras y servicios públicos previstos en los programas a cargo de las Unidades Responsables del Gasto que el propio presupuesto señale.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -792,17 +962,23 @@ Las Unidades Responsables del Gasto deberán contar con sistemas de control pres
 
 La Secretaría emitirá las reglas de carácter general para los procedimientos del ejercicio presupuestal, con apego a lo dispuesto en esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 45.
 
-Los titulares de las Dependencias, Órganos Desconcentrados, Delegaciones, Entidades, Órganos de Gobierno y Autónomos del Distrito Federal, así como los servidores públicos adscritos a estas Unidades Responsables del Gasto encargados de la administración de los recursos asignados, que ejerzan recursos aprobados en el Decreto, tendrán la obligación de cubrir las contribuciones, aprovechamientos y productos federales y locales correspondientes y, en su caso, sus accesorios, con cargo a sus presupuestos de conformidad con las disposiciones aplicables.
+Los titulares de las Dependencias, Órganos Desconcentrados, Delegaciones, Entidades, Órganos de Gobierno y Autónomos de la Ciudad de México, así como los servidores públicos adscritos a estas Unidades Responsables del Gasto encargados de la administración de los recursos asignados, que ejerzan recursos aprobados en el Decreto, tendrán la obligación de cubrir las contribuciones, aprovechamientos y productos federales y locales correspondientes y, en su caso, sus accesorios, con cargo a sus presupuestos de conformidad con las disposiciones aplicables.
 
-Para el caso de las Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, las operaciones se consolidarán y se contabilizarán en el sector central, para tal efecto, las Entidades deberán ajustarse a las disposiciones establecidas en esta Ley, en lo que a Dependencias, Órganos Desconcentrados y Delegaciones se refiere.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Los titulares de las Dependencias, Delegaciones y Órganos Desconcentrados, así como las Entidades que realicen sus operaciones con el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, deberán remitir oportunamente a la Secretaría la información necesaria para que la Oficialía cumpla dentro de los plazos legales con la obligación de tramitar la declaración del Impuesto al Valor Agregado; de igual forma, deberán remitir correcta y oportunamente a la Oficialía la información necesaria para que ésta cumpla dentro de los plazos legales, con la obligación de tramitar ante la Secretaría el pago del Impuesto Sobre la Renta.
+Para el caso de las Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, las operaciones se consolidarán y se contabilizarán en el sector central, para tal efecto, las Entidades deberán ajustarse a las disposiciones establecidas en esta Ley, en lo que a Dependencias, Órganos Desconcentrados y Delegaciones se refiere.
 
-Si la falta de cumplimiento de dichas obligaciones a cargo del Gobierno del Distrito Federal se origina por causas imputables a las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, los servidores públicos facultados que no hayan enviado oportunamente la información serán responsables del pago de actualizaciones, recargos, multas y demás accesorios que en su caso se generen. La Secretaría o la Oficialía, según corresponda, harán del conocimiento de la Contraloría la falta de cumplimiento.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Los titulares de las Dependencias, Delegaciones y Órganos Desconcentrados, así como las Entidades que realicen sus operaciones con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, deberán remitir oportunamente a la Secretaría la información necesaria para que la Oficialía cumpla dentro de los plazos legales con la obligación de tramitar la declaración del Impuesto al Valor Agregado; de igual forma, deberán remitir correcta y oportunamente a la Oficialía la información necesaria para que ésta cumpla dentro de los plazos legales, con la obligación de tramitar ante la Secretaría el pago del Impuesto Sobre la Renta.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Si la falta de cumplimiento de dichas obligaciones a cargo del Gobierno de la Ciudad de México se origina por causas imputables a las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, los servidores públicos facultados que no hayan enviado oportunamente la información serán responsables del pago de actualizaciones, recargos, multas y demás accesorios que en su caso se generen. La Secretaría o la Oficialía, según corresponda, harán del conocimiento de la Contraloría la falta de cumplimiento.
 
 ###### ARTÍCULO 46.
 
@@ -828,9 +1004,11 @@ Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades podrán con
 
 La Secretaría, en casos excepcionales, podrá autorizar que las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, convoquen adquisiciones, arrendamientos y prestación de servicios u obra pública, sin contar con saldo disponible en su presupuesto, por lo que deberán iniciar de manera inmediata los trámites necesarios para asegurar la suficiencia presupuestal previa al fallo o adjudicación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 47.
 
-El ejercicio del presupuesto se sujetará estrictamente a los montos y calendarios presupuestales aprobados, así como a las disponibilidades de la hacienda pública, los cuales estarán en función de la capacidad financiera del Distrito Federal. En el ejercicio del gasto público, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán de cumplir con esta Ley, quedando facultada la Secretaría para no reconocer adeudos ni pagos por cantidades reclamadas o erogaciones efectuadas en contravención a lo dispuesto en este artículo.
+El ejercicio del presupuesto se sujetará estrictamente a los montos y calendarios presupuestales aprobados, así como a las disponibilidades de la hacienda pública, los cuales estarán en función de la capacidad financiera de la Ciudad de México. En el ejercicio del gasto público, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán de cumplir con esta Ley, quedando facultada la Secretaría para no reconocer adeudos ni pagos por cantidades reclamadas o erogaciones efectuadas en contravención a lo dispuesto en este artículo.
 
 > <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -880,9 +1058,11 @@ III. Que no impliquen obligaciones con cargo a presupuestos de años posteriores
 
 Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades en ningún caso contratarán obra pública, adquisiciones, arrendamientos o servicios, ni otorgarán las figuras a que se refiere la Ley del Régimen Patrimonial y del Servicio Público, con personas físicas o morales que no se encuentren al corriente en el cumplimiento de sus obligaciones fiscales tanto las de carácter local como las derivadas de los ingresos federales coordinados con base en el Convenio de colaboración administrativa en materia fiscal celebrado con el Gobierno Federal.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 52.
 
-Para la ejecución del gasto público, el Distrito Federal no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago con cargo a su Presupuesto de Egresos, salvo lo dispuesto en el artículo 6 de esta Ley.
+Para la ejecución del gasto público, la Ciudad de México no otorgará garantías ni efectuará depósitos para el cumplimiento de sus obligaciones de pago con cargo a su Presupuesto de Egresos, salvo lo dispuesto en el artículo 6 de esta Ley.
 
 ###### ARTÍCULO 53.
 
@@ -890,7 +1070,9 @@ El ejercicio del gasto público por concepto de adquisiciones, servicios general
 
 En el caso de adquisiciones y obras públicas, las Dependencias, Órganos Desconcentrados y Delegaciones deberán contar con los programas y presupuestos de adquisiciones y de obras respectivos, de conformidad con las disposiciones aplicables.
 
-Para el caso de obras públicas y adquisiciones que se financien con recursos federales a través de convenios, éstas no estarán sujetas a los criterios que emita el Distrito Federal, debiéndose aplicar únicamente la legislación federal vigente.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Para el caso de obras públicas y adquisiciones que se financien con recursos federales a través de convenios, éstas no estarán sujetas a los criterios que emita la Ciudad de México, debiéndose aplicar únicamente la legislación federal vigente.
 
 ###### ARTÍCULO 54.
 
@@ -910,19 +1092,19 @@ Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que efectú
 
 En los casos de los Órganos Autónomos y de Gobierno, a fin de garantizar la transparencia y rendición de cuentas enviarán a la Secretaría la información correspondiente para la integración de los informes a que se refiere esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 56.
 
-Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades remitirán a la Secretaría, dentro de los primeros diez días de cada mes, un reporte mensual sobre los recursos fiscales, crediticios y provenientes de transferencias federales, que se encuentren comprometidos al cierre de mes inmediato anterior. La Secretaría podrá solicitar a la Contraloría la verificación de dichos compromisos y en el caso de que estos no se encuentren debidamente formalizados, la Secretaría podrá reasignar los recursos que no se encuentren comprometidos.
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que celebren compromisos y que se encuentren debidamente acreditados, deberán registrarlos en el sistema informático de planeación de recursos gubernamentales, conforme a los plazos que determine la Secretaría, así como remitir en los términos que para tal efecto establezca la misma Secretaría, el correspondiente reporte dentro de los primeros diez días de cada mes. La Secretaría podrá solicitar a la Contraloría la verificación de dichos compromisos y en el caso de que estos no se encuentren debidamente formalizados, la Secretaría podrá reasignar los recursos que no se encuentren comprometidos.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades tendrán como fecha límite para comprometer recursos, a más tardar el 31 de octubre tratándose de obra pública por contrato y el 15 de noviembre para el resto de los conceptos de gasto, salvo los casos particulares en que los Convenios Federales establezcan fechas de compromiso específicas para los recursos federales o aquellos recursos que sirvan como contraparte (pari passu).
+Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades tendrán como fecha límite para comprometer recursos, a más tardar el 31 de octubre tratándose de obra pública por contrato y el 15 de noviembre para el resto de los conceptos de gasto, salvo los casos particulares en que para los recursos federales se establezcan fechas de compromiso específicas en los ordenamientos jurídicos aplicables, o aquellos recursos que sirvan como contraparte.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
 Quedan exceptuados de los plazos anteriores los compromisos que se financien con recursos adicionales al presupuesto originalmente autorizado, los derivados de obligaciones de carácter laboral, judicial y contingencias, debidamente justificadas de acuerdo a las reglas que emita la Secretaría, así como los recursos autogenerados y propios de Entidades, siempre y cuando sean adicionales al presupuesto originalmente autorizado.
-
-> <small>(DEROGADO CUARTO PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
 La Secretaría comunicará las fechas de los trámites presupuestales para el cierre del ejercicio.
 
@@ -930,9 +1112,11 @@ La Secretaría comunicará las fechas de los trámites presupuestales para el ci
 
 Para la ejecución del gasto público, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán sujetarse a las previsiones de esta Ley, su Reglamento y demás normatividad aplicable.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 58.
 
-Las Dependencias, Órganos Desconcentrados y Delegaciones deberán llevar un registro del ejercicio de su gasto autorizado de acuerdo con las disposiciones de esta Ley, así como a las normas que para tal efecto dicte el Jefe de Gobierno, por conducto de la Secretaría, a fin de que consolide la contabilidad general de egresos del Distrito Federal.
+Las Dependencias, Órganos Desconcentrados y Delegaciones deberán llevar un registro del ejercicio de su gasto autorizado de acuerdo con las disposiciones de esta Ley, así como a las normas que para tal efecto dicte el Jefe de Gobierno, por conducto de la Secretaría, a fin de que consolide la contabilidad general de egresos de la Ciudad de México.
 
 ###### ARTÍCULO 59.
 
@@ -950,9 +1134,11 @@ Las Unidades Responsables del Gasto informarán a la Secretaría, a más tardar 
 
 ARTÍCULO 60 BIS.- Los compromisos pendientes de pago reportados en tiempo y forma en el pasivo circulante enviado en su oportunidad a la Secretaría, así como los correspondientes a las partidas de manejo centralizado, y que no hayan sido tramitados y pagados a los contratistas, proveedores y prestadores de servicios por causas no imputables a las Dependencias, Órganos Desconcentrados y Delegaciones, serán cubiertos por la Secretaría con los remanentes que se presenten en el cierre del ejercicio en el cual se originaron los adeudos y no representarán un cargo al presupuesto autorizado de las Dependencias, Órganos Desconcentrados y Delegaciones en ejercicios subsecuentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 61.
 
-Las Entidades recibirán por conducto de la Secretaría, los fondos, subsidios y transferencias con cargo al Presupuesto de Egresos del Distrito Federal, conforme a lo que señala esta Ley y a las reglas de carácter general que emita la Secretaría. Asimismo, los manejarán, administrarán y ejercerán de acuerdo con las normas que rijan su funcionamiento.
+Las Entidades recibirán por conducto de la Secretaría, los fondos, subsidios y transferencias con cargo al Presupuesto de Egresos de la Ciudad de México, conforme a lo que señala esta Ley y a las reglas de carácter general que emita la Secretaría. Asimismo, los manejarán, administrarán y ejercerán de acuerdo con las normas que rijan su funcionamiento.
 
 La ministración de estas aportaciones a las Entidades, se hará como complemento a sus Ingresos Propios y conforme al calendario presupuestal mensual autorizado por la Secretaría, deduciendo las disponibilidades financieras de las Entidades.
 
@@ -992,13 +1178,19 @@ Las Cuentas por Liquidar Certificadas cumplirán con los requisitos que se estab
 
 Los servidores públicos de las Unidades Responsables del Gasto que hayan autorizado los pagos a través de las Cuentas por Liquidar Certificadas son los directamente responsables de la elaboración, generación, tramitación, gestión e información que en éstas se contenga.
 
+(REPUBLICADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)
+
 ###### ARTÍCULO 66.
 
 La Secretaría efectuará los pagos autorizados por las Unidades Responsables del Gasto con cargo a sus presupuestos aprobados y los que por otros conceptos deban realizarse directamente o por conducto de los auxiliares a que se refiere el Código, en función de sus disponibilidades presupuestales y financieras con que cuente la Secretaría, con base en lo previsto en esta Ley y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-ARTÍCULO 66 BIS.- En caso de incumplimiento por parte del Distrito Federal a sus obligaciones de pago de derechos y aprovechamientos por conceptos de agua y descarga de aguas residuales, la Comisión Nacional del Agua podrá solicitar a la Secretaría, previa acreditación del incumplimiento y siempre que el adeudo tenga una antigüedad mayor de 90 días naturales, la retención y pago con cargo a las aportaciones del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal.
+Con excepción de las Delegaciones, las cuales se regirán, por lo establecido en el artículo 21 de esta Ley, en lo relativo a los ingresos adicionales.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 66 BIS.- En caso de incumplimiento por parte de la Ciudad de México a sus obligaciones de pago de derechos y aprovechamientos por conceptos de agua y descarga de aguas residuales, la Comisión Nacional del Agua podrá solicitar a la Secretaría, previa acreditación del incumplimiento y siempre que el adeudo tenga una antigüedad mayor de 90 días naturales, la retención y pago con cargo a las aportaciones del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales de la Ciudad de México.
 
 ###### ARTÍCULO 67.
 
@@ -1030,7 +1222,9 @@ I. Que se encuentren debidamente contabilizados al 31 de diciembre del ejercicio
 
 II. Que exista suficiencia presupuestal para esos compromisos en el año en que se cumplieron;
 
-III. Que se informe a la Secretaría, a más tardar el día 15 de enero de cada año, en los términos del artículo 60 de esta Ley, el monto y características de su pasivo circulante, y
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. Que se informe a la Secretaría, a más tardar el día 10 de enero de cada año, en los términos del artículo 60 de esta Ley, el monto y características de su pasivo circulante, y
 
 IV. Que se radiquen en la Secretaría los documentos que permitan efectuar los pagos respectivos, a más tardar el último día de enero del año siguiente al del ejercicio al que corresponda el gasto.
 
@@ -1056,11 +1250,9 @@ No es aplicable lo dispuesto en este artículo, tratándose de recursos presupue
 
 Las unidades responsables del gasto que por cualquier motivo al término del ejercicio fiscal que corresponda conserve fondos presupuestales o recursos que no hayan sido devengados y, en su caso, los rendimientos obtenidos, los enterarán a la Secretaría dentro de los 15 días naturales siguientes al cierre del ejercicio. Las Unidades responsables del gasto que hayan recibido recursos federales, así como sus rendimientos financieros y que al día 31 de diciembre no hayan sido devengados, en el caso en que proceda su devolución, los enterarán a la Secretaría dentro de los 10 días naturales siguientes al cierre del ejercicio, salvo que las disposiciones federales establezcan otra fecha.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
-
-De los remanentes a los que se refieren los párrafos anteriores, se destinará como mínimo una cantidad equivalente al 30% del total, a un fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Delegaciones, el cual será destinado a la atención de contingencias y emergencias epidemiológicas y de desastres naturales; así como a mejorar el balance fiscal, de conformidad con las reglas que para tal efecto emita la Secretaría. Una vez que el fondo alcance el valor equivalente al 0.50% del PIB del Distrito Federal del año inmediato anterior, los excedentes del fondo podrán ser destinados conforme a lo siguiente:
+De los remanentes a los que se refieren los párrafos anteriores, se destinará como mínimo una cantidad equivalente al 30% del total, a un fondo para estabilizar los recursos presupuestales de las Dependencias, Entidades, Órganos Desconcentrados y Delegaciones, el cual será destinado a la atención de contingencias y emergencias epidemiológicas y de desastres naturales; así como a mejorar el balance fiscal, de conformidad con las reglas que para tal efecto emita la Secretaría. Una vez que el fondo alcance el valor equivalente al 0.50% del PIB de la Ciudad de México del año inmediato anterior, los excedentes del fondo podrán ser destinados conforme a lo siguiente:
 
 a) Proyectos de infraestructura, hasta por un cuarenta por ciento.
 
@@ -1068,25 +1260,25 @@ b) Proyectos ambientales, hasta por un veinticinco por ciento.
 
 c) Proyectos de infraestructura de las Delegaciones, hasta por un treinta y cinco por ciento. Los proyectos deberán ser presentados para la aprobación de la Secretaría de Finanzas y se ejecutarán bajo un esquema de coinversión por medio del cual las Delegaciones aportarán un peso por cada uno que se obtenga del fondo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(DEROGADO SEXTO PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(DEROGADO SÉPTIMO PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(DEROGADO OCTAVO PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(DEROGADO NOVENO PÁRRAFO, G.O. 22 DE DICIEMBRE DE 2014)</small>
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Los Órganos de Gobierno deberán informar a la Asamblea dentro de los primeros 5 días de enero de cada año, los fondos presupuestales o recursos provenientes del Gobierno del Distrito Federal y, en su caso, los rendimientos obtenidos, que al término del ejercicio anterior conserven. Asimismo, deberán informar a la Asamblea los recursos remanentes del ejercicio fiscal anterior, así como proponerle su aplicación y destino a más tardar el 5 de marzo siguiente. La Asamblea o cuando ésta se encuentre en receso, su órgano competente, deberá resolver lo conducente en un plazo que no excederá de quince días naturales y, de no ser así, se considerará como parte del presupuesto, por lo que serán descontados de las ministraciones que se les realicen, de conformidad con lo dispuesto por el artículo 62 de esta Ley. Para tal efecto, la Asamblea comunicará a la Secretaría lo que resuelva al respecto.
+Los Órganos de Gobierno deberán informar a la Asamblea dentro de los primeros 5 días de enero de cada año, los fondos presupuestales o recursos provenientes del Gobierno de la Ciudad de México y, en su caso, los rendimientos obtenidos, que al término del ejercicio anterior conserven. Asimismo, deberán informar a la Asamblea los recursos remanentes del ejercicio fiscal anterior, así como proponerle su aplicación y destino a más tardar el 5 de marzo siguiente. La Asamblea o cuando ésta se encuentre en receso, su órgano competente, deberá resolver lo conducente en un plazo que no excederá de quince días naturales y, de no ser así, se considerará como parte del presupuesto, por lo que serán descontados de las ministraciones que se les realicen, de conformidad con lo dispuesto por el artículo 62 de esta Ley. Para tal efecto, la Asamblea comunicará a la Secretaría lo que resuelva al respecto.
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -1138,13 +1330,17 @@ Las garantías que deban constituirse a favor de las Dependencias, Órganos Desc
 
 En los contratos que comprendan varios ejercicios fiscales, deberá estipularse la obligación para el contratista, proveedor o prestador de servicios de presentar una fianza por el 10% del importe del ejercicio inicial y se incrementará con el 10% del monto autorizado para cada uno de los ejercicios subsecuentes, en la inteligencia de que mediante dicha fianza, deberán quedar garantizadas todas las obligaciones que en virtud del contrato asuma el contratista, proveedor o prestador de servicios.
 
-Para el caso de proyectos de coinversión, así como los de prestación de servicios a largo plazo en los que no se autoricen recursos públicos por parte del Gobierno del Distrito Federal, en los primeros ejercicios en que se lleve a cabo el proyecto, los contratistas, proveedores, prestador de servicios o inversionista proveedor deberán garantizar el cumplimiento del vehículo o contrato con cuando menos el importe del 1% de su monto inicial.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Para el caso de proyectos de coinversión, así como los de prestación de servicios a largo plazo en los que no se autoricen recursos públicos por parte del Gobierno de la Ciudad de México, en los primeros ejercicios en que se lleve a cabo el proyecto, los contratistas, proveedores, prestador de servicios o inversionista proveedor deberán garantizar el cumplimiento del vehículo o contrato con cuando menos el importe del 1% de su monto inicial.
 
 A partir del ejercicio en que se autoricen recursos públicos al contratista, proveedor o prestador de servicios o inversionista proveedor deberá garantizar mediante fianza cuando menos el 10% del monto que se autorice en dicho ejercicio. Asimismo, deberá garantizarse mediante fianza cuando menos el 10% de los montos autorizados para cada uno de los ejercicios siguientes, para que al final del contrato se encuentre garantizado por lo menos el 10% del monto total de los recursos públicos autorizados al contratista, proveedor, prestador de servicios o inversionista proveedor.
 
 La fianza de cumplimiento continuará vigente como mínimo 5 años y no deberá ser cancelada por parte de la autoridad a favor de quien se expida sino hasta que hayan quedado cubiertos los vicios ocultos que pudiere tener el proyecto.
 
-Tratándose de contratos de prestación de servicios a largo plazo, la Comisión de Presupuestación, Evaluación del Gasto Público y Recursos de Financiamiento del Distrito Federal podrá autorizar al contratista, proveedor o prestador de servicios o inversionista proveedor la presentación de una garantía distinta a la fianza sujeta a los requisitos a que se refiere el párrafo anterior.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de contratos de prestación de servicios a largo plazo, la Comisión de Presupuestación, Evaluación del Gasto Público y Recursos de Financiamiento de la Ciudad de México podrá autorizar al contratista, proveedor o prestador de servicios o inversionista proveedor la presentación de una garantía distinta a la fianza sujeta a los requisitos a que se refiere el párrafo anterior.
 
 La Secretaría resolverá las solicitudes de autorización que presenten las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades para admitir otra forma de garantía o eximir de ésta, respecto de actos y contratos que celebren materia de este artículo.
 
@@ -1234,13 +1430,17 @@ Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, así como 
 
 Los recursos generados como resultado de la aplicación de dichas medidas deberán destinarse, en primer lugar a mitigar, en su caso, el déficit presupuestal de origen y, en segundo lugar, las funciones prioritarias del ejecutor de gasto que los genere, previa autorización de la Secretaría o de la instancia competente, tratándose de los Órganos Autónomos y de Gobierno.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 82.
 
-Esta Ley establece los criterios de economía y gasto eficiente que regirán para la elaboración, control y ejercicio anual del presupuesto que realicen las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal y los Órganos Autónomos y de Gobierno. Se aplicará sin perjuicio de lo dispuesto por otros ordenamientos legales y la Contraloría, en el ámbito de su competencia, interpretará y vigilará su debida observancia para las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades.
+Esta Ley establece los criterios de economía y gasto eficiente que regirán para la elaboración, control y ejercicio anual del presupuesto que realicen las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública de la Ciudad de México y los Órganos Autónomos y de Gobierno. Se aplicará sin perjuicio de lo dispuesto por otros ordenamientos legales y la Contraloría, en el ámbito de su competencia, interpretará y vigilará su debida observancia para las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 Los Órganos Autónomos y de Gobierno, respetando su autonomía, evaluarán y ajustarán dichos criterios con la finalidad de optimizar sus presupuestos.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 Se establece como criterio de gasto eficiente, que toda adquisición tenga racionalidad económica, que sea necesaria, que cumpla un fin predeterminado, que no sea redundante y que su costo monetario sea inferior al beneficio que aporte.
 
@@ -1254,7 +1454,9 @@ I. Publicidad: el gasto de publicidad en televisión radio y prensa, que lleve a
 
 Cada mes deberá publicarse en los sitios de Internet de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades el número de contratos y convenios que se hayan generado, debiendo mencionar el tipo de servicio de medios de difusión contratado, la temporalidad del mismo y su costo.
 
-II. Vehículos: Los vehículos oficiales al servicio de servidores públicos de la Administración Pública del Distrito Federal, sólo podrán sustituirse en cualquiera de los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Vehículos: Los vehículos oficiales al servicio de servidores públicos de la Administración Pública de la Ciudad de México, sólo podrán sustituirse en cualquiera de los siguientes casos:
 
 a) Si tienen, al menos, seis años de uso;
 
@@ -1270,7 +1472,9 @@ Las unidades nuevas que se adquieran no podrán costar más de 3300 veces la Uni
 
 Solo podrán exceder el costo señalado en el párrafo anterior, los vehículos blindados que se adquieran, de acuerdo con lo establecido en el penúltimo párrafo del artículo 86 de la presente Ley.
 
-Los vehículos oficiales al servicio de servidores públicos de la Administración Pública del Distrito Federal deberán de sustituirse o darse de baja cuando:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Los vehículos oficiales al servicio de servidores públicos de la Administración Pública de la Ciudad de México deberán de sustituirse o darse de baja cuando:
 
 a) Tengan doce años de uso, o
 
@@ -1314,31 +1518,43 @@ La Oficialía será responsable de que se lleve un registro del personal al serv
 
 Asimismo, las Dependencias, Órganos Desconcentrados y Delegaciones deberán mantener actualizados sus registros internos de plazas, empleos, los compromisos y pagos respectivos.
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUÉLLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.]</small>
+
 ###### ARTÍCULO 86.
 
 El pago de remuneraciones al personal se hará conforme al puesto o categoría que se les asigne, de conformidad con los tabuladores autorizados por la Oficialía.
 
-El sueldo neto que reciba el Jefe de Gobierno no podrá ser mayor a 54 veces al salario mínimo general vigente en esta entidad federativa. Los Secretarios; Jefes Delegacionales y los Subsecretarios; los Directores Generales u homólogos, percibirán en el desempeño de su encargo, una remuneración no mayor a 53, 51 y 49 veces el salario mínimo mensual vigente en el Distrito Federal, respectivamente.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+El sueldo neto que reciba el Jefe de Gobierno no podrá ser mayor a 54 veces al salario mínimo general vigente en esta entidad federativa. Los Secretarios; Jefes Delegacionales y los Subsecretarios; los Directores Generales u homólogos, percibirán en el desempeño de su encargo, una remuneración no mayor a 53, 51 y 49 veces el salario mínimo mensual vigente en la Ciudad de México, respectivamente.
 
 En el Proyecto de Presupuesto de Egresos se deberá presentar el tabulador de sueldos y salarios de mandos medios y superiores de la Administración Pública u homólogos.
 
 Ningún servidor público de la Administración Pública, de sus Dependencias, Delegaciones, Órganos Desconcentrados y Entidades, podrá percibir remuneraciones mayores a las señaladas en esta Ley.
 
-No se autorizarán bonos o percepciones extraordinarias, gastos de representación ni la contratación de seguros de gastos médicos privados para servidor público alguno, del Gobierno del Distrito Federal.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+No se autorizarán bonos o percepciones extraordinarias, gastos de representación ni la contratación de seguros de gastos médicos privados para servidor público alguno, del Gobierno de la Ciudad de México.
 
 Solamente contarán con Secretario Particular el Jefe de Gobierno, los Secretarios, Jefes Delegaciones y los Subsecretarios o puestos homólogos. Queda prohibida la creación de plazas de Secretario Privado o equivalente.
 
 Sólo habrá, como máximo, cinco asesores por Secretaría.
 
-Únicamente podrán disponer de escolta, en caso de ser necesario y por el plazo que se determine, los servidores públicos de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Distrito Federal, así como aquellos servidores públicos que la requieran en atención a sus funciones y/o temas concretos que atiendan, y sólo por el plazo que se determine, previa autorización del Jefe de Gobierno.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Los servidores públicos de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia del Distrito Federal, y aquellos que en atención a sus funciones y/o temas concretos que atiendan, y, si lo requieren, podrán utilizar automóviles blindados, previa autorización del Jefe de Gobierno.
+Únicamente podrán disponer de escolta, en caso de ser necesario y por el plazo que se determine, los servidores públicos de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia de la Ciudad de México, así como aquellos servidores públicos que la requieran en atención a sus funciones y/o temas concretos que atiendan, y sólo por el plazo que se determine, previa autorización del Jefe de Gobierno.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Los servidores públicos de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia de la Ciudad de México, y aquellos que en atención a sus funciones y/o temas concretos que atiendan, y, si lo requieren, podrán utilizar automóviles blindados, previa autorización del Jefe de Gobierno.
 
 Los servidores públicos que no cumplan con lo establecido en este artículo incurrirán en falta grave.
 
-> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO CUARTO DEL DECRETO SIN NÚMERO, PUBLICADO EN LA G.O. DE 28 DE NOVIEMBRE DE 2014, LAS REFERENCIAS QUE SE HAGAN DEL SALARIO MÍNIMO EN LAS NORMAS LOCALES VIGENTES, INCLUSO EN AQUÉLLAS PENDIENTES DE PUBLICAR O DE ENTRAR EN VIGOR, SE ENTENDERÁN HECHAS A LA UNIDAD DE CUENTA DE LA CIUDAD DE MÉXICO, A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO.]</small>
 
-ARTÍCULO 86 BIS.- Los Órganos de Gobierno y Autónomos ajustarán sus criterios de economía y gasto eficiente con el fin de que el sueldo de los servidores y funcionarios públicos no sea mayor al salario del Jefe de Gobierno del Distrito Federal que es cincuenta y cuatro veces el salario mínimo general vigente en el Distrito Federal.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 86 BIS.- Los Órganos de Gobierno y Autónomos ajustarán sus criterios de economía y gasto eficiente con el fin de que el sueldo de los servidores y funcionarios públicos no sea mayor al salario del Jefe de Gobierno de la Ciudad de México que es cincuenta y cuatro veces el salario mínimo general vigente en la Ciudad de México.
 
 ###### ARTÍCULO 87.
 
@@ -1362,25 +1578,33 @@ Con excepción del personal docente, las pagas de defunción sólo se cubrirán 
 
 Para que se tenga derecho a las pagas de defunción es indispensable que la persona fallecida no se hubiere encontrado disfrutando de licencia sin goce de sueldo superior a tres meses, excepto cuando se trate de licencia por enfermedad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 90.
 
-Los créditos a cargo del Distrito Federal se extinguen por prescripción en el término de tres años contados a partir de la fecha en que el acreedor pueda legalmente exigir su pago, salvo que otras leyes aplicables establezcan un plazo diferente, en cuyo caso se estará a lo que dichas leyes dispongan.
+Los créditos a cargo de la Ciudad de México se extinguen por prescripción en el término de tres años contados a partir de la fecha en que el acreedor pueda legalmente exigir su pago, salvo que otras leyes aplicables establezcan un plazo diferente, en cuyo caso se estará a lo que dichas leyes dispongan.
 
 Transcurrido el término a que se refiere el párrafo anterior, la autoridad competente hará la declaratoria de prescripción de los créditos respectivos, conforme a los antecedentes que para tal efecto remitan las dependencias y órganos desconcentrados.
 
 El término para que se consume la prescripción a que refiere el párrafo primero se interrumpirá por gestiones de cobro escritas de parte de quien tenga derecho de exigir el pago.
 
-La acción para exigir el pago de las remuneraciones del personal dependiente del Gobierno del Distrito Federal, que a continuación se indican, prescribirá en un año contado a partir de la fecha en que sean devengadas o se tenga derecho a percibirlas:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La acción para exigir el pago de las remuneraciones del personal dependiente del Gobierno de la Ciudad de México, que a continuación se indican, prescribirá en un año contado a partir de la fecha en que sean devengadas o se tenga derecho a percibirlas:
 
 I. Los sueldos, salarios, honorarios, emolumentos, sobresueldos, compensaciones y demás remuneraciones del personal, y
 
-II. Las recompensas a cargo del erario del Distrito Federal.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Las recompensas a cargo del erario de la Ciudad de México.
 
 La prescripción sólo se interrumpe por gestión de cobro hecha por escrito.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 91.
 
-Los movimientos que realicen las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades a sus estructuras orgánicas ocupacionales y salariales, así como a las plantillas de personal, deberán realizarse mediante adecuaciones presupuestarias compensadas, las que en ningún caso incrementarán el presupuesto regularizable para servicios personales del ejercicio fiscal inmediato siguiente, salvo en el caso de la creación de plazas que autorice la Oficialía, la Contraloría y la Secretaría en el ámbito de sus respectivas atribuciones.
+Los movimientos que realicen las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades a sus estructuras orgánicas ocupacionales y salariales, así como a las plantillas de personal, deberán realizarse mediante adecuaciones presupuestarias compensadas, las que en ningún caso incrementarán el presupuesto regularizable para servicios personales del ejercicio fiscal inmediato siguiente, salvo en el caso de la creación de plazas que autorice la Oficialía y la Secretaría en el ámbito de sus respectivas atribuciones.
 
 ###### ARTÍCULO 92.
 
@@ -1410,11 +1634,11 @@ Procederá la transferencia de asignaciones presupuestales a otras Delegaciones 
 
 ### CAPÍTULO VI. De los Subsidios, Donativos, Apoyos y Ayudas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 96.
 
-Los subsidios que sean otorgados por el Distrito Federal con cargo al Presupuesto de Egresos, se sustentarán en resoluciones administrativas dictadas por autoridad competente o en acuerdos de carácter general que se publicarán en la Gaceta.
+Los subsidios que sean otorgados por la Ciudad de México con cargo al Presupuesto de Egresos, se sustentarán en resoluciones administrativas dictadas por autoridad competente o en acuerdos de carácter general que se publicarán en la Gaceta.
 
 En esos acuerdos se establecerán facilidades administrativas para el cumplimiento de obligaciones fiscales.
 
@@ -1480,7 +1704,9 @@ II. Los recursos se identificarán específicamente en una subcuenta que deberá
 
 III. En el caso de fideicomisos constituidos por particulares, la suma de los recursos públicos otorgados no podrá representar más del 50% del saldo en su patrimonio neto, salvo en el caso de que se cuente con autorización de los titulares para incrementar ese porcentaje, informando de ello a la Secretaría y a la Contraloría, y
 
-IV. Si existe compromiso recíproco de los particulares y del Distrito Federal para otorgar recursos al patrimonio y aquéllos incumplen, el Gobierno del Distrito Federal, por conducto de la Dependencia, Órgano Desconcentrando, Delegación y Entidad con cargo a cuyo presupuesto se hayan otorgado los recursos, suspenderá las aportaciones subsecuentes.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV. Si existe compromiso recíproco de los particulares y de la Ciudad de México para otorgar recursos al patrimonio y aquéllos incumplen, el Gobierno de la Ciudad de México, por conducto de la Dependencia, Órgano Desconcentrado, Delegación y Entidad con cargo a cuyo presupuesto se hayan otorgado los recursos, suspenderá las aportaciones subsecuentes.
 
 Los recursos aportados mantienen su naturaleza jurídica de recursos públicos, para efectos de su fiscalización y transparencia.
 
@@ -1492,23 +1718,35 @@ Los apoyos, ayudas y los donativos deberán ser autorizados expresamente por el 
 
 Las Dependencias, Delegaciones, Órganos Desconcentrados y Entidades deberán informar a la Contraloría, en el ámbito de sus respectivas competencias, el monto global y los beneficios de las ayudas, apoyos y donativos otorgados.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 102.
 
-Con el propósito de elevar el impacto de los recursos, evitar duplicidades en las acciones y en el otorgamiento de beneficios, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán someter a la aprobación del Comité de Planeación del Desarrollo, previsto en la Ley de Planeación del Desarrollo del Distrito Federal, la creación y operación de programas de desarrollo social que otorguen subsidios, apoyos y ayudas a la población del Distrito Federal. De igual forma, deberán someter a su aprobación cualquier modificación en el alcance o modalidades de sus programas, cambios en la población objetivo, o cualquier otra acción que implique variaciones en los criterios de selección de beneficiarios, montos o porcentajes de subsidios, apoyos y ayudas.
+Con el propósito de elevar el impacto de los recursos, evitar duplicidades en las acciones y en el otorgamiento de beneficios, las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán someter a la aprobación del Comité de Planeación del Desarrollo, previsto en la Ley de Planeación del Desarrollo del Distrito Federal, la creación y operación de programas de desarrollo social que otorguen subsidios, apoyos y ayudas a la población de la Ciudad de México. De igual forma, deberán someter a su aprobación cualquier modificación en el alcance o modalidades de sus programas, cambios en la población objetivo, o cualquier otra acción que implique variaciones en los criterios de selección de beneficiarios, montos o porcentajes de subsidios, apoyos y ayudas.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 En caso de creación o modificación de los programas sociales de las Delegaciones, a que se refiere el párrafo anterior, el Comité de Planeación del Desarrollo, comunicará a sus titulares, su resolución en un plazo de 10 días hábiles, para que éstos manifiesten lo conducente dentro de los cinco días hábiles siguientes a la fecha de notificación. En caso, de que durante dicho plazo el titular de la Delegación respectiva no se manifieste, quedará firme la resolución emitida por el Comité de Planeación del Desarrollo.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+
 Las Delegaciones proporcionarán al Comité de Planeación del Desarrollo, a más tardar el 31 de enero, la relación de programas o acciones que tengan tales propósitos, a fin de que dicho Comité emita opinión sobre la posible duplicidad de esfuerzos y lo haga del conocimiento de las Delegaciones como de las Dependencias, Órganos Desconcentrados y Entidades, a más tardar en el mes de febrero.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, a través de la Secretaría, deberán comunicar a la Asamblea dentro del informe a que se refiere el artículo 135 de esta Ley, de los avances en la operación de los programas, la población beneficiaria, el monto de los recursos otorgados, la distribución por Delegación y colonia.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+
 Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades deberán elaborar las reglas de operación de sus programas de conformidad con los lineamientos que emita el Consejo de Evaluación, mismos que deberán apegarse a lo dispuesto en la Ley de Desarrollo Social para el Distrito Federal y publicarse en el Órgano de difusión local.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2010)</small>
 
 En el caso de que el Comité de Planeación del Desarrollo no apruebe la creación y operación de programas de desarrollo social las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, deberán reasignar el gasto conforme a las disposiciones aplicables.
 
-La Contraloría en el ámbito de su competencia verificará que el gasto a que se refiere este artículo guarde congruencia con lo dispuesto en esta Ley y en el Presupuesto de Egresos para el Distrito Federal.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La Contraloría en el ámbito de su competencia verificará que el gasto a que se refiere este artículo guarde congruencia con lo dispuesto en esta Ley y en el Presupuesto de Egresos para la Ciudad de México.
 
 > <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -1558,9 +1796,11 @@ Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades que reciban
 
 ### CAPÍTULO I. Del Presupuesto Plurianual
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 105.
 
-Los mecanismos plurianuales de gasto son todos aquellos instrumentos legales, financieros y económicos previstos en esta ley y otros ordenamientos legales que permiten al Distrito Federal diseñar, ejecutar y evaluar una política presupuestal de mediano y largo plazo y, en específico, presentar Presupuestos Plurianuales, realizar proyectos de prestación de servicios a largo plazo o arrendamientos a largo plazo y proyectos de coinversión, sin perjuicio de cualquier otra figura análoga determinada o determinable en la normatividad.
+Los mecanismos plurianuales de gasto son todos aquellos instrumentos legales, financieros y económicos previstos en esta ley y otros ordenamientos legales que permiten a la Ciudad de México diseñar, ejecutar y evaluar una política presupuestal de mediano y largo plazo y, en específico, presentar Presupuestos Plurianuales, realizar proyectos de prestación de servicios a largo plazo o arrendamientos a largo plazo y proyectos de coinversión, sin perjuicio de cualquier otra figura análoga determinada o determinable en la normatividad.
 
 El Jefe de Gobierno integrará en el proyecto de Presupuesto de Egresos las asignaciones a dichos instrumentos. Las asignaciones que apruebe la Asamblea estarán garantizadas y no estarán sujetas a la disponibilidad presupuestal de los ejercicios siguientes. Corresponderá al Jefe de Gobierno proponer los mecanismos para garantizar los recursos necesarios para su financiamiento en los ejercicios fiscales que comprendan su ejecución.
 
@@ -1586,7 +1826,9 @@ Los Presupuestos Plurianuales integrarán las necesidades básicas de operación
 
 Una vez determinados los mínimos de operación, éstos, dentro de la presentación del Proyecto de Presupuesto de Egresos se revisarán anualmente con el propósito de llevar a cabo los ajustes necesarios para su actualización, de acuerdo con la evolución económica internacional, nacional y local.
 
-De igual forma, podrán gozar de asignaciones plurianuales aquellos programas integrales que tengan por objeto llevar a cabo cambios estructurales a las decisiones políticas y económicas fundamentales del Distrito Federal, siempre y cuando, el Jefe de Gobierno, por conducto de la Secretaría proponga conjuntamente la estrategia de financiamiento necesaria para su instrumentación.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+De igual forma, podrán gozar de asignaciones plurianuales aquellos programas integrales que tengan por objeto llevar a cabo cambios estructurales a las decisiones políticas y económicas fundamentales de la Ciudad de México, siempre y cuando, el Jefe de Gobierno, por conducto de la Secretaría proponga conjuntamente la estrategia de financiamiento necesaria para su instrumentación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -1612,9 +1854,9 @@ Tratándose de garantías que deban constituirse en contratos de prestación de 
 
 Los Órganos de Gobierno podrán contemplar en su anteproyecto de presupuesto, recursos para la celebración de proyectos y contratos de prestación de servicios a largo plazo.
 
-Los Órganos de Gobierno observarán en lo conducente una perspectiva de mediano y largo plazo con relación a los mecanismos de programación, presupuestación y pago de las obligaciones derivadas al amparo de un proyecto de prestación de servicios a largo plazo. En consecuencia, tomarán en cuenta y se adecuarán a las líneas del Presupuesto Plurianual y la respectiva estrategia integral de inversión pública en infraestructura del Distrito Federal.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(DEROGADO TERCER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2010)</small>
+Los Órganos de Gobierno observarán en lo conducente una perspectiva de mediano y largo plazo con relación a los mecanismos de programación, presupuestación y pago de las obligaciones derivadas al amparo de un proyecto de prestación de servicios a largo plazo. En consecuencia, tomarán en cuenta y se adecuarán a las líneas del Presupuesto Plurianual y la respectiva estrategia integral de inversión pública en infraestructura de la Ciudad de México.
 
 En caso de incumplimiento de las obligaciones de pago de proyectos y contratos de prestación de servicios a largo plazo por parte de los Órganos de Gobierno, la Secretaría podrá afectar directamente las ministraciones correspondientes al pago de las contraprestaciones derivadas de los proyectos, contratos de prestación de servicios a largo plazo que les correspondan al Órgano de Gobierno respectivo, conforme al presupuesto autorizado por la Asamblea, hasta por el monto debido, sin perjuicio de las responsabilidades administrativas correspondientes.
 
@@ -1630,9 +1872,11 @@ Los proyectos de coinversión son aquellos encaminados al desarrollo de satisfac
 
 Las Entidades no destinarán recursos presupuestales para el financiamiento directo de los satisfactores sociales, infraestructura, obras, servicios, arrendamientos y adquisiciones realizados bajo el amparo de los proyectos de coinversión, salvo autorización expresa de la Secretaría y de la Contraloría, en cuyo caso, deberá observarse para su contratación, la normatividad aplicable en materia de obra pública, así como de adquisiciones, arrendamientos y prestación de servicios.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 114.
 
-Corresponde a la Secretaría emitir las reglas para determinar la participación de la Administración Pública en los proyectos de coinversión, así como la creación de fondos líquidos multianuales o mecanismos financieros que garanticen o mitiguen los riesgos de los proyectos en los casos que se justifique. La Comisión de Presupuestación, Evaluación del Gasto Público y Recursos de Financiamiento del Distrito Federal autorizará y ordenará la creación de los mecanismos a que se refiere este artículo, de acuerdo con lo que establezcan las reglas que emita la Secretaría.
+Corresponde a la Secretaría emitir las reglas para determinar la participación de la Administración Pública en los proyectos de coinversión, así como la creación de fondos líquidos multianuales o mecanismos financieros que garanticen o mitiguen los riesgos de los proyectos en los casos que se justifique. La Comisión de Presupuestación, Evaluación del Gasto Público y Recursos de Financiamiento de la Ciudad de México autorizará y ordenará la creación de los mecanismos a que se refiere este artículo, de acuerdo con lo que establezcan las reglas que emita la Secretaría.
 
 ###### ARTÍCULO 115.
 
@@ -1718,13 +1962,15 @@ Las Entidades, así como los Órganos de Gobierno y Autónomos, serán responsab
 
 Las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades, suministrarán a la Secretaría con la periodicidad que ésta lo determine, la información presupuestal, programática, contable y financiera que requiera.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 124.
 
-La información financiera, presupuestal, programática y contable que emane consolidadamente del sistema y de los registros auxiliares de las Dependencias, Órganos Desconcentrados, Delegaciones y en el caso de las Entidades de sus estados financieros, será la que sirva de base para que la Secretaría elabore los informes trimestrales así como de formular la Cuenta Pública del Distrito Federal y someterlos a la consideración del Jefe de Gobierno para su presentación en los términos de la Constitución y del Estatuto.
+La información financiera, presupuestal, programática y contable que emane consolidadamente del sistema y de los registros auxiliares de las Dependencias, Órganos Desconcentrados, Delegaciones y en el caso de las Entidades de sus estados financieros, será la que sirva de base para que la Secretaría elabore los informes trimestrales así como de formular la Cuenta Pública de la Ciudad de México y someterlos a la consideración del Jefe de Gobierno para su presentación en los términos de la Constitución y del Estatuto.
 
-La información contable financiera de aquellas Entidades que operen con el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, será consolidada por la Secretaría.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La información contable financiera de aquellas Entidades que operen con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, será consolidada por la Secretaría.
 
 > <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -1762,15 +2008,17 @@ Será responsabilidad de las Unidades Responsables de Gasto la confiabilidad de 
 
 ### CAPÍTULO II. De los Catálogos de Cuentas y del Registro Contable de las Operaciones
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 127.
 
-El plan de cuentas deberá permitir la armonización de la información contable del Distrito Federal, en los términos de la normatividad aplicable.
+El plan de cuentas deberá permitir la armonización de la información contable de la Ciudad de México, en los términos de la normatividad aplicable.
+
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 128.
 
-Las Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno del Distrito Federal, consolidarán y contabilizarán dichas operaciones en el Sector Central, para lo cual deberán ajustarse a las disposiciones que en esta materia establece la Ley para las Dependencias y Órganos Desconcentrados.
+Las Entidades que realicen operaciones con el Registro Federal de Contribuyentes del Gobierno de la Ciudad de México, consolidarán y contabilizarán dichas operaciones en el Sector Central, para lo cual deberán ajustarse a las disposiciones que en esta materia establece la Ley para las Dependencias y Órganos Desconcentrados.
 
 > <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -1786,15 +2034,17 @@ La observancia de esta Ley, en materia de contabilidad, no releva a las Dependen
 
 ### CAPÍTULO III. De la Contabilidad de Fondos y Valores
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 131.
 
-La Secretaría concentrará, revisará, integrará, controlará y registrará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado del Distrito Federal y, en su oportunidad, producirá los estados financieros que se requieran para su integración en la Cuenta Pública del Distrito Federal.
+La Secretaría concentrará, revisará, integrará, controlará y registrará la información contable del movimiento de los fondos y valores de la propiedad o al cuidado de la Ciudad de México y, en su oportunidad, producirá los estados financieros que se requieran para su integración en la Cuenta Pública de la Ciudad de México.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 132.
 
-La Secretaría preverá que en el sistema contable se realice el registro de fondos y valores del Distrito Federal, con base en la normatividad aplicable, a fin de:
+La Secretaría preverá que en el sistema contable se realice el registro de fondos y valores de la Ciudad de México, con base en la normatividad aplicable, a fin de:
 
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -1804,17 +2054,21 @@ II. Establecer y mantener los registros necesarios que provean la información p
 
 III. Aportar los elementos que permitan determinar la responsabilidad de los servidores públicos en materia de manejo de fondos y valores mediante controles contables y administrativos.
 
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 133.
 
-Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes a los valores que representen inversiones financieras del Distrito Federal, deberán registrarse en el sistema de contabilidad a que se refiere el presente Título.
+Los fondos que resulten del ejercicio de los derechos patrimoniales, inherentes a los valores que representen inversiones financieras de la Ciudad de México, deberán registrarse en el sistema de contabilidad a que se refiere el presente Título.
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 134.
 
-La Secretaría por conducto de la unidad administrativa responsable de concentrar los fondos y valores propiedad o al cuidado del Distrito Federal, formulará las cuentas comprobadas y registrará los asientos que correspondan en el sistema contable, para efectos de la Cuenta Pública del Distrito Federal.
+La Secretaría por conducto de la unidad administrativa responsable de concentrar los fondos y valores propiedad o al cuidado de la Ciudad de México, formulará las cuentas comprobadas y registrará los asientos que correspondan en el sistema contable, para efectos de la Cuenta Pública de la Ciudad de México.
 
-## TÍTULO SEGUNDO. De la Cuenta Pública del Distrito Federal
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO SEGUNDO. De la Cuenta Pública de la Ciudad de México
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -1856,7 +2110,9 @@ b) Estado analítico de ingresos en caso de ser áreas generadoras; en caso cont
 
 II. Mensualmente, dentro de los primeros cinco días del mes siguiente, el reporte correspondiente al pago de contribuciones en materia del impuesto al valor agregado generado por los actos o actividades realizadas por las Dependencias, Órganos Desconcentrados y Delegaciones, conforme las instrucciones y formatos que para tal efecto establezca la Secretaría.
 
-III. Mensualmente, dentro de los primeros siete días del mes siguiente, el reporte correspondiente al cumplimiento de obligaciones del Gobierno del Distrito Federal, relacionadas con la declaración informativa sobre el pago, retención, acreditamiento y traslado del impuesto al valor agregado en las operaciones con sus proveedores, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría.
+> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. Mensualmente, dentro de los primeros siete días del mes siguiente, el reporte correspondiente al cumplimiento de obligaciones del Gobierno de la Ciudad de México, relacionadas con la declaración informativa sobre el pago, retención, acreditamiento y traslado del impuesto al valor agregado en las operaciones con sus proveedores, conforme a las instrucciones y formatos que para tal efecto establezca la Secretaría.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE DICIEMBRE DE 2011)</small>
 
@@ -1968,7 +2224,9 @@ La Secretaría dará a conocer a las Unidades Responsables del Gasto de quienes 
 
 Con base en los estados financieros y demás información financiera, presupuestal y contable que emane de los registros de las Dependencias, Órganos Desconcentrados, Delegaciones y Entidades comprendidas en el Presupuesto de Egresos, la Secretaría integrará la Cuenta Pública y la someterá a la consideración del Jefe de Gobierno para su presentación en los términos de la Constitución y del Estatuto.
 
-Las áreas competentes de los Órganos Autónomos y Órganos de Gobierno, remitirán a más tardar dentro de los primeros 3 días hábiles del mes de mayo, los estados financieros dictaminados e información a que se refiere el párrafo anterior al Jefe de Gobierno, para que éste ordene su incorporación a la Cuenta Pública del Distrito Federal, en capítulo por separado.
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Las áreas competentes de los Órganos Autónomos y Órganos de Gobierno, remitirán a más tardar dentro de los primeros 3 días hábiles del mes de abril, la información presupuestaria, programática y contable, así como el Dictamen de Estados Financieros, conforme a los términos que establezca el Jefe de Gobierno por conducto de la Secretaría para su integración a la Cuenta Pública de la Ciudad de México.
 
 ###### ARTÍCULO 141.
 
@@ -2076,17 +2334,19 @@ Para iniciar el Procedimiento de Responsabilidad Resarcitoria, se estará a lo d
 
 Cualquier persona que tenga conocimiento de la violación a las disposiciones de esta Ley y su Reglamento, deberá dar aviso a los titulares de las Unidades Responsables del Gasto e informarán a la autoridad competente cuando las infracciones a esta Ley impliquen la comisión de una conducta sancionada en los términos de este título.
 
+> <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 149 BIS. Las Unidades Responsables del Gasto, en el manejo de los recursos públicos, deberán observar las disposiciones establecidas en la normatividad en materia de transparencia.
+
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 31 DE DICIEMBRE DE 2013)</small>
 
 # LIBRO CUARTO. DE LA INFORMACIÓN Y TRANSPARENCIA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 150.
 
-La Secretaría de Finanzas a través de una página de internet de presupuesto ciudadano, pondrá a disposición del público, documentos dirigidos a la Ciudadanía en el que se explique, de manera sencilla y en formatos accesibles, la Ley de Ingresos y el Decreto de egresos aprobados al Gobierno del Distrito Federal.
+La Secretaría a través de una página de internet de presupuesto ciudadano, pondrá a disposición del público, documentos dirigidos a la Ciudadanía en el que se explique, de manera sencilla y en formatos accesibles, la Ley de Ingresos y el Decreto de Egresos aprobados al Gobierno de la Ciudad de México.
 
 ## TRANSITORIOS
 
@@ -2225,3 +2485,33 @@ Las Unidades Responsables del Gasto se apegarán a lo dispuesto en el artículo 
 ###### ARTÍCULO CUARTO.
 
 La Secretaría emitirá dentro de los siguientes 90 días naturales a la publicación de la presente Ley las reglas de operación del fondo de infraestructura al que se refiere el artículo 71, párrafo V inciso c).
+
+G.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PRESUPUESTO Y GASTO EFICIENTE DEL DISTRITO FEDERAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1° de enero del año 2017.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+###### ARTÍCULO TERCERO.
+
+A partir del inicio de la vigencia del presente Decreto la denominación de esta Ley será la de Ley de Presupuesto y Gasto Eficiente de la Ciudad de México.
+
+Todas las referencias que en los demás ordenamientos jurídicos se haga de la Ley de Presupuesto y Gasto Eficiente del Distrito Federal, deberán entenderse realizadas a la Ley de Presupuesto y Gasto Eficiente de la Ciudad de México.
+
+###### ARTÍCULO CUARTO.
+
+Las Dependencias, Órganos Desconcentrados y Entidades que tengan a su cargo Programas Presupuestarios en operación, que no hayan sido sujetos a evaluación de diseño, deberán llevar a cabo dicha evaluación dentro de los doce meses siguientes a la entrada en vigor de las presentes reformas.
+
+###### ARTÍCULO QUINTO.
+
+La formulación de Programas Presupuestarios, la implementación del presupuesto basado en resultados y de los componentes de la Evaluación del Desempeño, así como las evaluaciones que respecto de su desempeño se realicen a los Programas Presupuestarios, se harán de manera gradual, con base en los lineamientos que se emitan, y conforme lo permita la capacidad financiera de la Hacienda Pública de la Ciudad de México.
+
+###### ARTÍCULO SEXTO.
+
+Las reformas y adiciones al artículo 28, en materia de suelo de conservación, entrará en vigor a partir del año 2018.
