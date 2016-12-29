@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-transito-y-vialidad-del-estado-de-michoacan-de-ocampo-26
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-24"
-last_updated: "2007-08-23"
+last_updated: "2016-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRANSITO Y VIALIDAD DEL ESTADO DE MICHOACAN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2007.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley Publicada en la Sección Tercera del Periódico Oficial del Estado de Michoacán, el martes 24 de septiembre de 2002.
 
@@ -457,7 +457,9 @@ Cuando al obtener una licencia de conducir, el interesado haya proporcionado inf
 
 Son causas de suspensión de la licencia o permiso hasta por seis meses:
 
-I. Que el titular cometa en el término de un año, tres infracciones de las que se sancionen con más de seis días de salario mínimo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I. Que el titular cometa en el término de un año, tres infracciones de las que se sancionen con más de seis veces el valor diario de la Unidad de Medida y Actualización;
 
 II. Que el titular permita que su licencia o permiso sea utilizado por otra persona;
 
@@ -641,6 +643,10 @@ III. Suspensión o cancelación de la licencia o permiso provisional.
 
 Corresponde a la Dirección hacer la calificación de las infracciones que cometan los conductores y propietarios de vehículos, consignando ante las autoridades competentes a todos aquellos que incurran en la comisión de un delito, de acuerdo con lo que establezcan las disposiciones legales de la materia.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Para efecto de la imposición de las sanciones por infracciones a esta Ley y su Reglamento, sólo los Agentes del Estado debidamente acreditados que porten identificación con su nombre y número perfectamente visibles, al momento de la infracción, expedirán la boleta correspondiente, fundando y motivando la causa legal; otorgando al presunto infractor, en caso de estar presente, el derecho de asentar en ella lo que a su interés convenga y entregándola por escrito.
+
 ###### Artículo 60.
 
 Cuando un conductor incurra en la comisión de la misma falta más de tres veces, será considerado como reincidente, en cuyo caso, y tomando en cuenta la gravedad de la infracción cometida, podrá suspenderse o cancelarse la licencia o permiso provisional para conducir. Las condiciones y los elementos de calificación que se requieren al respecto, se determinarán en el reglamento de esta Ley.
@@ -649,9 +655,11 @@ Cuando un conductor incurra en la comisión de la misma falta más de tres veces
 
 Los vehículos retirados de la vía pública o asegurados, se depositarán en los lugares que dispongan las autoridades para ese fin, en la inteligencia de que los gastos derivados de estas acciones, serán cubiertos íntegramente por los propietarios, de acuerdo con las tarifas autorizadas.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 62.
 
-Para los efectos y aplicación de la multa, se estará a lo establecido por el reglamento, el cual las fijará dentro de un margen de tres a cincuenta veces el salario mínimo general vigente en el Estado, atendiendo al tipo de falta y su gravedad, las circunstancias de su comisión y las personales del infractor.
+Para los efectos y aplicación de la multa, se estará a lo establecido por el reglamento, el cual las fijará dentro de un margen de tres a cincuenta veces el valor diario de la Unidad de Medida y Actualización, atendiendo al tipo de falta y su gravedad, las circunstancias de su comisión y las personales del infractor.
 
 ###### Artículo 63.
 
@@ -788,3 +796,29 @@ P.O. 23 DE AGOSTO DE 2007.
 PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 39 FRACCIÓN I Y 62 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 257 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 59 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
