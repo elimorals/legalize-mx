@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-justicia-administrativa-del-estado-de-michoacan-56576
 country: "mx"
 rank: "codigo"
 publication_date: "2007-08-23"
-last_updated: "2015-02-26"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Michoacán, el jueves 23 de agosto de 2007.
 
@@ -757,7 +757,7 @@ Se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente,
 
 El particular niegue conocer el acto, entonces, manifestará tal desconocimiento interponiendo el recurso de revisión ante la autoridad que debió notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiera practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por lista.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 96.
 
@@ -917,9 +917,9 @@ Las sanciones administrativas podrán ser precautorias y deberán estar prevista
 
 I. Amonestación con apercibimiento;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Multa de uno a quinientos días de salario mínimo general vigente del Estado;
+II. Multa de una a quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Arresto hasta por treinta y seis horas;
 
@@ -1015,7 +1015,7 @@ VII. Contra las resoluciones de las autoridades administrativas que pongan fin a
 
 VIII. Contra la resolución que declare la caducidad del procedimiento administrativo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 130.
 
@@ -1065,7 +1065,7 @@ III. Constancia de notificación del acto impugnado, excepto cuando el actor dec
 
 IV. Las pruebas documentales que ofrezca, excepto cuando estas obren en el expediente. Lo anterior sin perjuicio de entregar copias simples señalando la existencia de los originales en el expediente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 133.
 
@@ -1143,7 +1143,7 @@ V. El formato correspondiente;
 
 VI. Los datos y documentos específicos que debe contener o deben adjuntarse al trámite o servicio;
 
-VIl. El plazo máximo que tiene la autoridad administrativa correspondiente para resolver el trámite o servicio y la procedencia de la afirmativa o negativa ficta;
+VII. El plazo máximo que tiene la autoridad administrativa correspondiente para resolver el trámite o servicio y la procedencia de la afirmativa o negativa ficta;
 
 VIII. El monto de los derechos o aprovechamientos aplicables, en su caso, la forma de determinar el monto y los lugares en los que podrán ser liquidados;
 
@@ -1695,9 +1695,9 @@ Las sanciones aplicables a los servidores públicos del Tribunal son:
 
 I. Amonestación por escrito;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Multa de uno a diez días de salario mínimo general vigente en el Estado;
+II. Multa de una a diez veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Suspensión hasta por seis meses;
 
@@ -1823,9 +1823,9 @@ I. Amonestación;
 
 II. Apercibimiento;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-III. Multa equivalente al monto de uno a treinta días de salario mínimo general vigente en el Estado;
+III. Multa equivalente al monto de una a treinta veces el valor diario de la Unidad de Medida y Actualización;
 
 IV. Expulsión del local, en caso necesario con auxilio de la fuerza pública;
 
@@ -1845,9 +1845,9 @@ El Tribunal, para hacer cumplir sus determinaciones, podrá emplear los siguient
 
 I. Apercibimiento;
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Multa equivalente al monto de uno a treinta días de salario mínimo general vigente en el Estado;
+II. Multa equivalente al monto de una a treinta veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Requerimiento al superior jerárquico de la autoridad obligada al cumplimiento de un mandato del Tribunal; o,
 
@@ -1949,7 +1949,7 @@ La recusación de magistrados se hará valer en cualquier tiempo, mediante escri
 
 ### Capítulo Sexto. Demanda
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
 
 ###### Artículo 213.
 
@@ -2169,9 +2169,9 @@ La suspensión podrá ser revocada de oficio o a petición de parte por el Magis
 
 Tratándose de créditos fiscales, se concederá la suspensión si quien la solicita garantiza el interés fiscal ante la oficina correspondiente, en cualquiera de las formas previstas por el Código Fiscal del Estado.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-El Magistrado podrá conceder discrecionalmente la suspensión, sin necesidad de que se garantice el importe del crédito, cuando el asunto planteado no rebase quinientos días de salario mínimo general vigente en el Estado.
+El Magistrado podrá conceder discrecionalmente la suspensión, sin necesidad de que se garantice el importe del crédito, cuando el asunto planteado no rebase quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 El auto que dispense el otorgamiento de la garantía no será recurrible.
 
@@ -2407,7 +2407,9 @@ El Tribunal deberá suplir la deficiencia de la queja planteada en la demanda, e
 
 I. Cuando el acto impugnado se haya dictado sin motivación y fundamentación o fuera de procedimiento, o habiéndolo dictado dentro de un procedimiento legal, afecte a la libertad personal del actor;
 
-II. Cuando el actor manifieste suma ignorancia y cuando el asunto planteado no rebase la cantidad que resulte de multiplicar por ciento cincuenta el salario mínimo general diario vigente en el Estado; o,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Cuando el actor manifieste suma ignorancia y cuando el asunto planteado no rebase la cantidad que resulte de multiplicar por ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización; o
 
 III. Cuando se trate de menores de edad o incapaces.
 
@@ -2477,9 +2479,9 @@ Las sanciones, también serán procedentes cuando no se cumplimente en sus térm
 
 En caso de incumplimiento injustificado de la sentencia, se procederá como sigue:
 
-> <small>(REFORMADA, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-I. Se fijará multa de entre cien y quinientas veces el salario mínimo general vigente en el Estado, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiere ocasionado, requiriéndola a cumplir con la sentencia en el término de tres días hábiles y previniéndole, además, de que en caso de renuencia, se le impondrán nuevas multas en los términos de esta fracción, lo que se informará al superior jerárquico de la autoridad demandada;
+I. Se fijará multa de entre cien y quinientas veces el valor diario de la Unidad de Medida y Actualización, tomando en cuenta la gravedad del incumplimiento y las consecuencias que ello hubiere ocasionado, requiriéndola a cumplir con la sentencia en el término de tres días hábiles y previniéndole, además, de que en caso de renuencia, se le impondrán nuevas multas en los términos de esta fracción, lo que se informará al superior jerárquico de la autoridad demandada;
 
 II. Si al concluir el plazo mencionado en la fracción anterior, persistiere la renuencia de la autoridad demandada a cumplir con lo sentenciado, la Sala podrá requerir al superior jerárquico de aquélla para que en el plazo de tres días hábiles la obligue a cumplir sin demora;
 
@@ -2495,7 +2497,7 @@ Transcurridos los plazos señalados en las fracciones anteriores, la Sala pondr�
 
 ### Capítulo Décimo Cuarto. Procedimiento Sumario
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 287.
 
@@ -2539,15 +2541,17 @@ V. En el supuesto comprobado y justificado de imposibilidad de cumplir con la se
 
 VI. En el supuesto de incumplimiento a la orden de suspensión definitiva de la ejecución del acto impugnado el Magistrado Instructor pedirá un informe a la autoridad a quien se impute el incumplimiento de la sentencia interlocutoria que hubiese otorgado la suspensión definitiva, que deberá rendir dentro del plazo de cinco días hábiles, en el que, en su caso, se justificará el acto o la omisión que provocó la queja. Vencido dicho plazo, con informe o sin él, el Magistrado resolverá en un plazo máximo de cinco días hábiles;
 
-VII. Si el Magistrado Instructor resuelve que hubo incumplimiento de la suspensión otorgada, declarará la nulidad de las actuaciones realizadas en violación a la suspensión. La resolución a que se refiere esta fracción se notificará también al superior del funcionario responsable, entendiéndose por éste al que incumpla la suspensión decretada, para que proceda jerárquicamente y el Magistrado Instructor impondrá al funcionario responsable o autoridad renuente, una multa equivalente a un mínimo de quince días de su salario, sin exceder del equivalente a cuarenta y cinco días del mismo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+VII. Si el Magistrado Instructor resuelve que hubo incumplimiento de la suspensión otorgada, declarará la nulidad de las actuaciones realizadas en violación a la suspensión. La resolución a que se refiere esta fracción se notificará también al superior del funcionario responsable, entendiéndose por éste al que incumpla la suspensión decretada, para que proceda jerárquicamente y el Magistrado Instructor impondrá al funcionario responsable o autoridad renuente, una multa equivalente a un mínimo de quince veces el valor diario de la Unidad de Medida y Actualización, sin exceder del equivalente a cuarenta y cinco veces del mismo;
 
 VIII. En caso de que la autoridad persista en no dar cumplimiento a la sentencia, se estará a lo dispuesto en las fracciones III y IV del artículo 285; si aún la autoridad continuara renuente a cumplir se dará vista al Ministerio Público. En caso de que la autoridad sea sujeto de juicio político se hará del conocimiento del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 291.
 
-A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución administrativa definitiva, se le impondrá una multa en monto equivalente a entre cien y doscientas veces el salario mínimo general diario vigente en el Estado y, en caso de haberse suspendido la ejecución, se considerará este hecho como agravante para graduar la sanción que en definitiva se imponga.
+A quien promueva una queja notoriamente improcedente, entendiendo por ésta la que se interponga contra actos que no constituyan resolución administrativa definitiva, se le impondrá una multa en monto equivalente a entre cien y doscientas veces el valor diario de la Unidad de Medida y Actualización, y, en caso de haberse suspendido la ejecución, se considerará este hecho como agravante para graduar la sanción que en definitiva se imponga.
 
 Existiendo resolución administrativa definitiva, si la Sala considera que la queja es improcedente, prevendrán al actor para que dentro de los treinta días hábiles siguientes a aquél en que surta efectos la notificación del auto respectivo, la presente como demanda, cumpliendo los mismos requisitos previstos en este Código, ante el mismo Magistrado Instructor que conoció del primer juicio, la que será turnada al mismo Magistrado Instructor de la queja.
 
@@ -2555,7 +2559,7 @@ Existiendo resolución administrativa definitiva, si la Sala considera que la qu
 
 ###### Artículo 292.
 
-El procedimiento sumario será alternativo al ordinario a solicitud del actor en asuntos que afecten la libertad personal o cuya cuantía no exceda de quinientos días de salario mínimo general vigente en el Estado, o en el trámite de la negativa ficta.
+El procedimiento sumario será alternativo al ordinario a solicitud del actor en asuntos que afecten la libertad personal o cuya cuantía no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, o en el trámite de la negativa ficta.
 
 Un mismo asunto no podrá iniciarse en ambas vías. No procederá el procedimiento sumario cuando exista tercero perjudicado.
 
@@ -2677,7 +2681,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 30 DE NOVIEMBRE DE 2007.
 
@@ -2700,3 +2704,23 @@ SEGUNDO. El Titular del Poder Ejecutivo del Estado realizará lo conducente para
 P.O. 26 DE FEBRERO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 119 FRACCIÓN II; 184 FRACCIÓN II; 200 FRACCIÓN III; 202 FRACCIÓN II; 245 PÁRRAFO SEGUNDO, 277 FRACCIÓN II; 285 FRACCIÓN I; 290 FRACCIÓN VII, 291 PÁRRAFO PRIMERO Y 292 PÁRRAFO PRIMERO DEL CÓDIGO DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
