@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2016-04-25"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -429,29 +429,39 @@ El que hallare una cosa perdida o abandonada, deberá entregarla dentro de veint
 
 La autoridad dispondrá desde luego que la cosa hallada se tase por peritos, y la depositará en la Oficina de Rentas o en poder de persona segura, exigiendo formal y circunstanciado recibo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 60.
 
-Si el valor de la cosa no pasare de diez días de salario, se fijarán avisos en los lugares públicos y se insertarán en los principales periódicos tres veces durante un mes.
+Si el valor de la cosa no pasare de diez veces el valor diario de la Unidad de Medida y Actualización, se fijarán avisos en los lugares públicos y se insertarán en los principales periódicos tres veces durante un mes.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 61.
 
-Si el valor de la cosa pasare de diez días de salario y no llegare a cincuenta, los avisos se fijarán y publicarán cuatro veces durante dos meses.
+Si el valor de la cosa pasare de diez veces el valor diario de la Unidad de Medida y Actualización, y no llegare a cincuenta, los avisos se fijarán y publicarán cuatro veces durante dos meses.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 62.
 
-Si el valor fuere de cincuenta a cien días de salario, los avisos se fijarán y publicarán seis veces durante tres meses.
+Si el valor fuere de cincuenta a cien veces el valor diario de la Unidad de Medida y Actualización, los avisos se fijarán y publicarán seis veces durante tres meses.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 63.
 
-Si el valor pasare de cien días de salario, los avisos se fijarán y publicarán ocho veces durante seis meses.
+Si el valor pasare de cien veces el valor diario de la Unidad de Medida y Actualización, los avisos se fijarán y publicarán ocho veces durante seis meses.
 
 ###### Artículo 64.
 
 Si la cosa hallada fuere de las que no pueden conservarse, la autoridad dispondrá desde luego su venta y mandará depositar su precio.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 65.
 
-Si fuere algún animal cuyo precio no exceda de diez días de salario, la venta se verificará a los diez días; si excede de ese monto pero no de treinta, se verificará a los veinte días; si pasa de treinta días de salario pero no de cincuenta, se hará al fin del primer mes; si pasa de cincuenta pero sin exceder de cien, se hará a los dos meses; y si pasa de cien la venta se hará a los tres meses, depositándose su valor en todo caso.
+Si fuere algún animal cuyo precio no exceda de diez veces el valor diario de la Unidad de Medida y Actualización, la venta se verificará a los diez días; si excede de ese monto pero no de treinta, se verificará a los veinte días; si pasa de treinta veces el valor diario de la Unidad de Medida y Actualización pero no de cincuenta, se hará al fin del primer mes; si pasa de cincuenta pero sin exceder de cien, se hará a los dos meses; y si pasa de cien la venta se hará a los tres meses, depositándose su valor en todo caso.
 
 ###### Artículo 66.
 
@@ -493,9 +503,11 @@ El dueño, y en su caso la Hacienda Pública pagará el honorario de los peritos
 
 Todas las ventas se harán en almoneda pública.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 75.
 
-El que se apodere de una cosa mueble o inmueble sin cumplir con lo prevenido en los artículos 58 y 70 pagará una multa de uno a veinte días de salario mínimo general vigente, sin perjuicio de las penas que merezca, si hubiere cometido un delito.
+El que se apodere de una cosa mueble o inmueble sin cumplir con lo prevenido en los artículos 58 y 70 pagará una multa de una a veinte veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las penas que merezca, si hubiere cometido un delito.
 
 ## TÍTULO TERCERO. DE LA POSESIÓN
 
@@ -3333,11 +3345,11 @@ Si la identidad del testador no puede ser verificada, se hará constar esta circ
 
 En el caso del artículo que precede, no tendrá validez el testamento mientras no se justifique la identidad del testador.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 679.
 
-Se prohíbe a los notarios y a cualesquiera otras personas que hayan de redactar testamentos, dejar hojas en blanco y servirse de abreviaturas o cifras. La infracción a lo anterior se sancionará con multa de doscientos a mil días de salario mínimo a los notarios y de diez a veinte días de salario mínimo a los que no lo fueren.
+Se prohíbe a los notarios y a cualesquiera otras personas que hayan de redactar testamentos, dejar hojas en blanco y servirse de abreviaturas o cifras. La infracción a lo anterior se sancionará con multa de doscientas a mil veces el valor diario de la Unidad de Medida y Actualización a los notarios y de diez a veinte veces el valor diario de la Unidad de Medida y Actualización a los que no lo fueren.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2009)</small>
 
@@ -5271,7 +5283,9 @@ Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el art�
 
 La reparación del daño debe consistir a elección del ofendido en el restablecimiento de la situación anterior, cuando ello sea posible, o en el pago de daños y perjuicios.
 
-Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del salario mínimo diario más alto que esté en vigor en la región y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente, total temporal o parcial temporal, el grado de la reparación se determinará atendiendo a lo dispuesto por la Ley Federal del Trabajo. Para calcular la indemnización que corresponda se tomará como base el cuádruplo del valor diario de la Unidad de Medida y Actualización, y se extenderá al número de días que para cada una de las incapacidades mencionadas señala la Ley Federal del Trabajo. En caso de muerte la indemnización corresponderá a los herederos de la víctima.
 
 Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo convenio entre las partes.
 
@@ -7209,13 +7223,17 @@ En la venta de que habla el artículo 1477, mientras que no pasa la propiedad de
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1482.
 
-La venta de un inmueble cuyo valor en el contrato y en el catastro, no exceda de mil quinientas veces el salario mínimo, podrá hacerse en instrumento privado, o en los términos prevenidos por la Ley del Notariado.
+La venta de un inmueble cuyo valor en el contrato y en el catastro, no exceda de mil quinientas veces el valor diario de la Unidad de Medida y Actualización, podrá hacerse en instrumento privado, o en los términos prevenidos por la Ley del Notariado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1483.
 
-Si el valor del inmueble, fiscal o en venta, excede de mil quinientas veces el salario mínimo, deberá otorgarse en escritura pública.
+Si el valor del inmueble, fiscal o en venta, excede de mil quinientas veces el valor diario de la Unidad de Medida y Actualización, deberá otorgarse en escritura pública.
 
 Los contratos por medio de los cuales los organismos descentralizados federales o estatales, y empresas de participación estatal, dependientes de dichos organismos, enajenen inmuebles para regularizar la tenencia de la tierra, podrán otorgarse en documento público, para su validez bastará con las firmas de las partes y dos testigos, debiendo inscribirse en el Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán, y en el Catastro, sin que para ello importe el valor del inmueble.
 
@@ -7309,15 +7327,19 @@ La donación puede hacerse verbalmente o por escrito.
 
 No puede hacerse donación verbal más que de bienes muebles.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1504.
 
-La donación verbal sólo producirá efectos legales cuando el valor de los muebles no pase de cien veces el salario mínimo.
+La donación verbal sólo producirá efectos legales cuando el valor de los muebles no pase de cien veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1505.
 
-Si el valor de los muebles excede del monto señalado en el artículo anterior, pero no de quinientos días de salario, la donación debe hacerse por escrito.
+Si el valor de los muebles excede del monto señalado en el artículo anterior, pero no de quinientas veces el valor diario de la Unidad de Medida y Actualización, la donación debe hacerse por escrito.
 
-Si excede de quinientos días de salario, la donación se reducirá a escritura pública.
+Si excede de quinientas veces el valor diario de la Unidad de Medida y Actualización, la donación se reducirá a escritura pública.
 
 ###### Artículo 1506.
 
@@ -7395,7 +7417,9 @@ Si en el primer caso del artículo anterior el padre no hubiere revocado la dona
 
 La donación no podrá ser revocada por superveniencia de hijos:
 
-I. Cuando sea menor de mil quinientas veces el salario mínimo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I. Cuando sea menor de mil quinientas veces el valor diario de la Unidad de Medida y Actualización;
 
 II. Cuando sea antenupcial;
 
@@ -7619,13 +7643,17 @@ Se prohíbe a los magistrados, a los jueces y a cualesquiera otros empleados pú
 
 Se prohíbe a los encargados de los establecimientos públicos y a los funcionarios y empleados públicos, tomar en arrendamiento los bienes que con los expresados caracteres administren.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1567.
 
-El arrendamiento debe otorgarse por escrito cuando la renta pase de quinientas veces el salario mínimo anuales.
+El arrendamiento debe otorgarse por escrito cuando la renta pase de quinientas veces el valor diario de la Unidad de Medida y Actualización en un año.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1568.
 
-Si el predio fuere rústico y la renta pasare de quinientas veces el salario mínimo anuales, el contrato se otorgará en escritura pública.
+Si el predio fuere rústico y la renta pasare de quinientas veces el valor diario de la Unidad de Medida y Actualización en un año, el contrato se otorgará en escritura pública.
 
 ###### Artículo 1569.
 
@@ -7825,19 +7853,25 @@ El arrendador que no haga las obras que ordene la Secretaría de Salud como nece
 
 El propietario no puede rehusar como fiador a una persona que reúna los requisitos exigidos por la ley para que sea fiador.
 
-Si la renta no excede de cien días de salario mensuales, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Si la renta no excede de cien veces el valor diario de la Unidad de Medida y Actualización en un mes, es potestativo para el arrendatario dar fianza o substituir esa garantía con el depósito de un mes de renta.
 
 ###### Artículo 1611.
 
 No puede renunciarse anticipadamente el derecho de cobrar la indemnización que conceda el artículo 1609.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1612.
 
-La renta debe pagarse en los plazos convenidos y a falta de convenio, por meses vencidos si la renta excede de cincuenta veces el salario mínimo general vigente; y por quincenas vencidas, si es menor a ese monto.
+La renta debe pagarse en los plazos convenidos y a falta de convenio, por meses vencidos si la renta excede de cincuenta veces el valor diario de la Unidad de Medida y Actualización; y por quincenas vencidas, si es menor a ese monto.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 1613.
 
-La renta de las casas cuyo valor fiscal no exceda de quinientos días de salario mínimo general vigente, nunca podrá ser mayor del uno por ciento mensual sobre ese valor fiscal.
+La renta de las casas cuyo valor fiscal no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, nunca podrá ser mayor del uno por ciento mensual sobre ese valor fiscal.
 
 ### CAPÍTULO V. DEL ARRENDAMIENTO DE FINCAS RÚSTICAS
 
@@ -8219,7 +8253,9 @@ Tampoco puede retener la cosa como prenda que garantice otro crédito que tenga 
 
 Los dueños de establecimientos en donde se reciben huéspedes, son responsables del deterioro, destrucción o pérdida de los efectos introducidos en el establecimiento con su consentimiento o el de sus empleados autorizados, por las personas que allí se alojen; a menos que prueben que el daño sufrido es imputable a estas personas, a sus acompañantes, a sus servidores o a los que los visiten, o que provienen de caso fortuito, fuerza mayor o vicios de los mismos efectos.
 
-La responsabilidad de que habla este artículo, no excederá de la suma de doscientos días de salario mínimo general vigente, cuando no se pueda imputar culpa al hostelero o a su personal.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La responsabilidad de que habla este artículo, no excederá de la suma de doscientas veces el valor diario de la Unidad de Medida y Actualización, cuando no se pueda imputar culpa al hostelero o a su personal.
 
 ###### Artículo 1697.
 
@@ -8335,9 +8371,11 @@ II. Cuando el interés del negocio para que se confiere llegue a veinte mil peso
 
 III. Cuando en virtud de él haya de ejecutar el mandatario, a nombre del mandante, algún acto que conforme a la ley debe constar en instrumento público.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1717.
 
-El mandato podrá otorgarse en escrito privado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de un día de salario mínimo general vigente y no llegue a cien.
+El mandato podrá otorgarse en escrito privado ante dos testigos, sin que sea necesaria la previa ratificación de las firmas, cuando el interés del negocio para que se confiere exceda de un valor diario de la Unidad de Medida y Actualización y no llegue a cien.
 
 ###### Artículo 1718.
 
@@ -8675,9 +8713,11 @@ El contrato de obras a precio alzado, cuando el empresario dirige la obra y pone
 
 Todo el riesgo de la obra correrá a cargo del empresario hasta el acto de la entrega, a no ser que hubiere morosidad de parte del dueño de la obra en recibirla, o convenio expreso en contrario.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1779.
 
-Siempre que el empresario se encargue por ajuste cerrado de la obra en cosa inmueble cuyo valor sea de más de cien días de salario mínimo, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
+Siempre que el empresario se encargue por ajuste cerrado de la obra en cosa inmueble cuyo valor sea de más de cien veces el valor diario de la Unidad de Medida y Actualización, se otorgará el contrato por escrito, incluyéndose en él una descripción pormenorizada y en los casos que lo requieran, un plano, diseño o presupuesto de la obra.
 
 ###### Artículo 1780.
 
@@ -9703,13 +9743,17 @@ Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el acreedor 
 
 El fiador que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes raíces inscritos en el Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán y de un valor que garantice suficientemente las obligaciones que contraiga.
 
-Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de doscientas cincuenta veces el salario mínimo no se exigirá que el fiador tenga bienes raíces.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización no se exigirá que el fiador tenga bienes raíces.
 
 La fianza puede substituirse con prenda o hipoteca.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1986.
 
-Para otorgar una fianza legal o judicial por más de doscientos salarios mínimos general vigente, se presentará un certificado expedido por el Encargado del Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
+Para otorgar una fianza legal o judicial por más de doscientas veces el valor diario de la Unidad de Medida y Actualización, se presentará un certificado expedido por el Encargado del Registro Público de la Propiedad Raíz y del Comercio del Estado de Michoacán, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 
 ###### Artículo 1987.
 
@@ -10790,3 +10834,23 @@ P.O. 25 DE ABRIL DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA: NÚMERO 141 ARTÍCULO PRIMERO. SE REFORMAN LOS ARTÍCULOS 78, 84, 133, 141, 142, 182, 416, 421, 461 Y 612; Y SE DEROGAN LOS ARTÍCULOS 17, 76, 134, 135, 137, 156, 212, Y 259 TODOS DEL CÓDIGO FAMILIAR DEL ESTADO DE MICHOACÁN, ARTÍCULO SEGUNDO. SE DEROGA EL ARTÍCULO 24 DEL CÓDIGO CIVIL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS: 60, 61, 62, 63, 65, 75, 679, 1081 PÁRRAFO SEGUNDO, 1482, 1483 PÁRRAFO PRIMERO, 1504, 1505, 1522 FRACCIÓN I, 1567, 1568, 1610 PÁRRAFO SEGUNDO, 1612, 1613, 1696 PÁRRAFO SEGUNDO, 1717, 1779, 1985 PÁRRAFO SEGUNDO Y 1986 DEL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
