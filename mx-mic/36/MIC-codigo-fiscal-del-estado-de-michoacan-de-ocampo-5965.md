@@ -4,7 +4,7 @@ identifier: "MIC-codigo-fiscal-del-estado-de-michoacan-de-ocampo-5965"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-27"
-last_updated: "2014-12-30"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 27 de febrero de 1992.
 
@@ -1139,7 +1139,9 @@ D) Obras artísticas, colecciones científicas, joyas, medallas, armas, antigüe
 
 E) Dinero y metales preciosos.
 
-F) Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito, componente, producto o instrumento de ahorro o inversión en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria, conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 salarios mínimos elevados al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+F) Depósitos bancarios, componentes de ahorro o inversión asociados a seguros de vida que no formen parte de la prima que haya de erogarse para el pago de dicho seguro, o cualquier otro depósito, componente, producto o instrumento de ahorro o inversión en moneda nacional o extranjera que se realicen en cualquier tipo de cuenta o contrato que tenga a su nombre el contribuyente en alguna de las entidades financieras o sociedades cooperativas de ahorro y préstamo, salvo los depósitos que una persona tenga en su cuenta individual de ahorro para el retiro hasta por el monto de las aportaciones que se hayan realizado de manera obligatoria, conforme a la Ley de la materia y las aportaciones voluntarias y complementarias hasta por un monto de 20 veces el valor diario de la Unidad de Medida y Actualización elevado al año, tal como establece la Ley de los Sistemas de Ahorro para el Retiro.
 
 G) Los bienes muebles no comprendidos en las fracciones anteriores.
 
@@ -1727,13 +1729,13 @@ III. No presentar avisos o manifestaciones a que esté obligado a hacerlo extemp
 
 A quien cometa las infracciones relacionadas con el Registro Estatal de Contribuyentes a que se refiere el artículo anterior, se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-I. El equivalente de 20 a 30 días de salario mínimo diario vigente en la región, a la comprendida en la fracción I; y,
+I. El equivalente de 20 a 30 veces el valor diario de la Unidad de Medida y Actualización, a la comprendida en la fracción I; y,
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. El equivalente de 10 a 20 días de salario mínimo diario vigente en la región, a las comprendidas en las fracciones II y III.
+II. El equivalente de 10 a 20 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones II y III.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1757,11 +1759,9 @@ A quien cometa las infracciones relacionadas con el ejercicio de las facultades 
 
 I. Se aplicará una multa del 50% al 75% de las contribuciones omitidas a la comprendida en la fracción I; y,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-II. A la comprendida en la fracción II, se aplicará una multa equivalente de 100 a 150 días de salario mínimo diario vigente en la región.
+II. A la comprendida en la fracción II, se aplicará una multa equivalente de 100 a 150 veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 63.
 
@@ -1781,17 +1781,13 @@ V. Exigir una prestación que no esté prevista en la Ley, aún cuando se apliqu
 
 A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo anterior, se impondrán las siguientes multas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
+I. Del equivalente de 75 a 120 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones III y V; y,
 
-I. Del equivalente de 75 a 120 días de salario mínimo diario vigente en la región, a las comprendidas en las fracciones III y V; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-II. Del equivalente de 200 a 300 días de salario mínimo diario vigente en la región, a las comprendidas en las fracciones l, II y IV.
+II. Del equivalente de 200 a 300 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones I, II y IV.
 
 ###### ARTICULO 65.
 
@@ -1801,13 +1797,11 @@ I. Colaborar a la alteración de cuentas o asentar datos falsos en los documento
 
 II. Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 66.
 
-A quien cometa cualquiera de las infracciones señaladas en el artículo anterior, se le impondrá multa del equivalente de 150 a 200 días de salario mínimo diario vigente en la región.
+A quien cometa cualquiera de las infracciones señaladas en el artículo anterior, se le impondrá multa del equivalente de 150 a 200 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2007)</small>
 
@@ -1829,13 +1823,13 @@ II. No exhibir oportunamente las declaraciones del ejercicio o presentarlas exte
 
 A quien cometa las infracciones a las disposiciones fiscales a que se refiere el artículo anterior, se le impondrán las multas siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-I. Con el equivalente de 5 a 10 días de salario mínimo vigente en el Estado, a las personas físicas que se coloquen en el supuesto de la comprendida en la fracción I;
+I. Con el equivalente de 5 a 10 veces el valor diario de la Unidad de Medida y Actualización, a las personas físicas que se coloquen en el supuesto de la comprendida en la fracción I;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Con el equivalente de 10 a 20 días de salario mínimo vigente en el Estado, a las personas morales que se coloquen en el supuesto de la comprendida en la fracción I; y,
+II. Con el equivalente de 10 a 20 veces el valor diario de la Unidad de Medida y Actualización, a las personas morales que se coloquen en el supuesto de la comprendida en la fracción I; y,
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
 
@@ -1873,17 +1867,17 @@ IV. No presentar la información en los términos a que se refiere el artículo 
 
 A quien cometa las infracciones a las disposiciones fiscales señaladas en el artículo anterior, se impondrán las multas siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-I. Del equivalente de 15 a 20 días de salario mínimo vigente en el Estado, a las personas que se coloquen en el supuesto de las comprendidas en las fracciones I y III:
+I. Del equivalente de 15 a 20 veces el valor diario de la Unidad de Medida y Actualización, a las personas que se coloquen en el supuesto de las comprendidas en las fracciones I y III;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Del equivalente de 25 a 30 días de salario mínimo vigente en el Estado, a las personas que se coloquen en el supuesto de la comprendida en la fracción II; y,
+II. Del equivalente de 25 a 30 veces el valor diario de la Unidad de Medida y Actualización, a las personas que se coloquen en el supuesto de la comprendida en la fracción II; y,
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-III. Del equivalente de 800 a 1,150 días de salario mínimo vigente en el Estado, a las personas que se coloquen en el supuesto de la comprendida en la fracción IV.
+III. Del equivalente de 800 a 1,150 veces el valor diario de la Unidad de Medida y Actualización, a las personas que se coloquen en el supuesto de la comprendida en la fracción IV.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 2004)</small>
 
@@ -1901,21 +1895,23 @@ IV. No exhibir el documento que acredite la baja de las placas particulares al s
 
 V. No revalidar las concesiones de servicio público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 70.
 
-A quien cometa las infracciones señaladas en el artículo anterior, se impondrán las sanciones expresadas en el equivalente a los días de salario mínimo diario vigente en la región en la fecha en que las infracciones se cometan conforme a lo siguiente:
+A quien cometa las infracciones señaladas en el artículo anterior, se impondrán las sanciones expresadas en equivalente al valor diario de la Unidad de Medida y Actualización en la fecha en que las infracciones se cometan conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-I. Del equivalente de 10 a 15 días de salario mínimo vigente, a las comprendidas en las fracciones I y II;
+I. Del equivalente de 10 a 15 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones I y II;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Del equivalente de 15 a 20 días de salario mínimo vigente, a las comprendidas en las fracciones III y IV; y,
+II. Del equivalente de 15 a 20 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones III y IV; y,
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-III. Del equivalente de 10 a 15 días de salario mínimo vigente, a la comprendida en la fracción V.
+III. Del equivalente de 10 a 15 veces el valor diario de la Unidad de Medida y Actualización, a la comprendida en la fracción V.
 
 IV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 1993)
 
@@ -1963,25 +1959,19 @@ X. Colocar en los vehículos automotores, placas con características que no cor
 
 XI. No realizar el refrendo anual de calcomanía, en las fechas correspondientes.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 72.
 
-A quien cometa las infracciones señaladas en el artículo anterior, se impondrán sanciones expresadas en el equivalente a los días de salario mínimo vigente en la región en la fecha en que las infracciones se cometan, conforme a lo siguiente:
+A quien cometa las infracciones señaladas en el artículo anterior, se impondrán sanciones expresadas en el equivalente al valor diario de la Unidad de Medida y Actualización en la fecha en que las infracciones se cometan, conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+I. Del equivalente de 10 a 15 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones I, II, III, VIII y IX;
 
-I. Del equivalente de 10 a 15 días de salario mínimo vigente, a las comprendidas en las fracciones I, II, III, VIII y IX;
+II. Del equivalente de 5 a 10 veces el valor diario de la Unidad de Medida y Actualización, a las comprendidas en las fracciones IV, VI y VII;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
+III. Del equivalente de 4 a 8 veces el valor diario de la Unidad de Medida y Actualización, a la comprendida en la fracción V incisos a) y b) respectivamente; y,
 
-II. Del equivalente de 5 a 10 días de salario mínimo vigente, a las comprendidas en las fracciones IV, VI y VII;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-III. Del equivalente de 4 a 8 días de salario mínimo vigente, a la comprendida en la fracción V incisos a) y b) respectivamente; y,
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-IV. Del equivalente de 30 a 50 días de salario mínimo vigente, a la comprendida en la fracción X.
+IV. Del equivalente de 30 a 50 veces el valor diario de la Unidad de Medida y Actualización, a la comprendida en la fracción X.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2019,13 +2009,21 @@ II. Del equivalente del 100% al 150% del monto del impuesto que se determine en 
 
 Son infracciones y sanciones, relativas a la contabilidad de los contribuyentes:
 
-I. No llevar registros contables a que aluden las disposiciones fiscales, llevarlos en forma distinta a como éstas prescriben, no hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos o inexactos o fuera de los plazos respectivos; y se sancionará con una multa de 30 treinta hasta 70 setenta días de salario mínimo general correspondiente al Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco cualquier anotación, asiento de constancia hecha en la contabilidad; mandar o consentir que se hagan alteraciones, raspaduras o tachaduras; y se sancionará con una multa de 50 cincuenta hasta 100 cien días de salario mínimo general correspondiente al Estado, siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será hasta de un tanto del importe de dicha contribución;
+I. No llevar registros contables a que aluden las disposiciones fiscales, llevarlos en forma distinta a como éstas prescriben, no hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos o inexactos o fuera de los plazos respectivos; y se sancionará con una multa de 30 treinta hasta 70 setenta veces el valor diario de la Unidad de Medida y Actualización;
 
-III. Destruir o inutilizar los registros contables cuando no haya transcurrido el plazo durante el cual conforme a la ley los deban conservar; y se sancionará con una multa de 30 treinta hasta 70 setenta días de salario mínimo que corresponda al Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-IV. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores, alterados o falsificados; y se sancionará con una multa de 50 cincuenta hasta 100 cien días de salario mínimo general que corresponda al Estado; y,
+II. Hacer, mandar hacer o permitir en su contabilidad, anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco cualquier anotación, asiento de constancia hecha en la contabilidad; mandar o consentir que se hagan alteraciones, raspaduras o tachaduras; y se sancionará con una multa de 50 cincuenta hasta 100 cien veces el valor diario de la Unidad de Medida y Actualización, siempre que no pueda precisarse el monto de la contribución omitida. De lo contrario, la multa será hasta de un tanto del importe de dicha contribución;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. Destruir o inutilizar los registros contables cuando no haya transcurrido el plazo durante el cual conforme a la ley los deban conservar; y se sancionará con una multa de 30 treinta hasta 70 setenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores, alterados o falsificados; y se sancionará con una multa de 50 cincuenta hasta 100 cien veces el valor diario de la Unidad de Medida y Actualización; y,
 
 V. No conservar los registros contables y documentos que le sean dejados en calidad de depositario, por los visitadores al estarse practicando visitas de verificación; y se aplicará la sanción prevista en la fracción anterior.
 
@@ -2047,7 +2045,9 @@ Por los delitos fiscales no se impondrán sanciones pecuniarias en el proceso pe
 
 Para proceder penalmente contra los presuntos responsables de los delitos fiscales previstos en este Capítulo, será necesario que el Secretario de Finanzas y Administración del Estado, presente querella ante el Ministerio Público.
 
-No procederá la querella a que se refiere el párrafo anterior, si el adeudo fiscal, incluyendo el de las sanciones impuestas por infracciones al presente Código, no excede del equivalente a 100 días de salario mínimo diario vigente en la región.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+No procederá la querella a que se refiere el párrafo anterior, si el adeudo fiscal, incluyendo el de las sanciones impuestas por infracciones al presente Código, no excede del equivalente a 100 veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -2141,13 +2141,19 @@ IV. El que proporcione a las autoridades fiscales falsamente los datos necesario
 
 V. El que haciendo uso de engaño o aprovechándose de su error, omita parcial o totalmente el pago de una contribución u obtenga un beneficio indebido en perjuicio del Fisco Estatal.
 
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)
+
 ###### ARTICULO 89.
 
 A los responsables del delito de defraudación, se les impondrán las siguientes sanciones:
 
-I. Prisión de tres meses a dos años en los casos a que se refieren las fracciones I a IV del artículo anterior, si el monto de lo defraudado o que se intentó defraudar importa hasta 100 días de salario mínimo diario vigente en la región;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-II. Prisión de uno a cinco años en los casos de las fracciones I a IV del artículo anterior, si el monto de lo que se defraudó o intentó defraudar excede de 100 días de salario mínimo diario vigente en la región;
+I. Prisión de tres meses a dos años en los casos a que se refieren las fracciones I a IV del artículo anterior, si el monto de lo defraudado o que se intentó defraudar importa hasta 100 veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Prisión de uno a cinco años en los casos de las fracciones I a IV del artículo anterior, si el monto de lo que se defraudó o intentó defraudar excede de 100 veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Prisión de tres días a tres años en el caso de la fracción V del artículo anterior, independientemente de las sanciones que les correspondan, si sus actos u omisiones constituyen delito diferente al previsto en el artículo anterior; y
 
@@ -2157,9 +2163,11 @@ IV. Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena se
 
 La determinación de la cantidad a que se refiere el artículo anterior en sus fracciones I y II, se hará tomando en cuenta lo defraudado o lo que se intentó defraudar dentro de un mismo período fiscal, aún cuando se trate de diferentes acciones y omisiones de las previstas con anterioridad y aunque la defraudación haya versado sobre contribuciones diferentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 91.
 
-Se impondrá sanción de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio al Fisco Estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 500 veces el salario mínimo diario vigente en la región; cuando exceda, la sanción será de tres a nueve años de prisión.
+Se impondrá sanción de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales que, con perjuicio al Fisco Estatal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto no excede de 500 veces el valor diario de la Unidad de Medida y Actualización; cuando exceda, la sanción será de tres a nueve años de prisión.
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga a disposición de la autoridad competente.
 
@@ -2425,13 +2433,15 @@ Cuando la notificación se efectúe personalmente y el notificador no encuentre 
 
 Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que éstos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible en dicho domicilio, debiendo el notificador asentar razón de tal circunstancia, para dar cuenta al jefe de la oficina exactora.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrarán a quien incurra en el incumplimiento, los honorarios de notificación, equivalentes a dos veces el salario mínimo general correspondiente al Estado de Michoacán, debiendo cubrirse conjuntamente con el cumplimiento de la obligación requerida.
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrarán a quien incurra en el incumplimiento, los honorarios de notificación, equivalentes a dos veces el valor diario de la Unidad de Medida y Actualización, debiendo cubrirse conjuntamente con el cumplimiento de la obligación requerida.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 117.
 
-Cuando se deje sin efecto una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el salario mínimo diario vigente en la región.
+Cuando se deje sin efecto una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 118.
 
@@ -2699,7 +2709,9 @@ Son aplicables al embargo precautorio que refiere este artículo y al previsto p
 
 Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas, morales y las jurídico colectivas estarán obligadas a pagar el 2% del total del crédito, por cada una de las diligencias de requerimiento de pago, embargo, ampliación de embargo, remate, enajenación fuera de remate o adjudicación al fisco estatal, previstos en el presente Código, por concepto de gastos de ejecución ordinarios.
 
-Los gastos de ejecución, por cada una de las diligencias, no podrán ser menores al importe de 5 cinco salarios mínimos generales diarios correspondientes al área geográfica del Estado de Michoacán, ni exceder de la cantidad equivalente a 2 dos salarios mínimos generales elevados al año.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Los gastos de ejecución, por cada una de las diligencias, no podrán ser menores al importe de 5 cinco veces el valor diario de la Unidad de Medida y Actualización, ni exceder de la cantidad equivalente a 2 dos veces el valor diario de la Unidad de Medida y Actualización elevados al año.
 
 Asimismo, el contribuyente pagará por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios, interventores, administradores y peritos, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los honorarios que se deban erogar para la recuperación de títulos de crédito embargados, así como los honorarios de las personas que contraten las autoridades para el auxilio de los interventores, los gastos que generen los servicios adicionales que sean contratados por la autoridad para el resguardo, conservación y mantenimiento de los bienes muebles e inmuebles y así como de las negociaciones embargadas, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles aceptados como dación de pago o en adjudicación en los términos de lo previsto por este Código y las contribuciones que se paguen para liberar de cualquier gravamen, bienes que sean objeto de remate.
 
@@ -2793,11 +2805,13 @@ II. Por la de embargo a que se refiere la fracción I del Artículo 133 de este 
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al Fisco Estatal a que se refiera la fracción I del Artículo 133 del presente ordenamiento;
 
-(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008) (F. DE E., P.O. 16 DE ENERO DE 2009)
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Cuando en los casos de las fracciones anteriores, el 3% del crédito sea inferior a tres veces el salario mínimo general diario, correspondiente al Estado de Michoacán, se cobrará esta cantidad en lugar del 3% del crédito.
+Cuando en los casos de las fracciones anteriores, el 3% del crédito sea inferior a tres veces el valor diario de la Unidad de Medida y Actualización, se cobrará esta cantidad en lugar del 3% del crédito.
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general correspondiente al Estado de Michoacán, elevando al año.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a una vez el valor diario de la Unidad de Medida y Actualización, elevando al año.
 
 Para los efectos del penúltimo párrafo de este artículo, las autoridades de las oficinas Recaudadoras del Estado, determinarán y cobrarán el monto de los gastos extraordinarios que deba pagar el contribuyente, acompañando copia de los documentos que acrediten dicho monto.
 
@@ -3049,9 +3063,13 @@ II. En caso de que haya desacuerdo entre los dictámenes de los peritos designad
 
 El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a la determinación del precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos diez días antes de la fecha del remate.
 
-Si se trata de bienes muebles con valor que no exceda de quinientos días de salario mínimo diario vigente en la región, la convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-Cuando el valor pericial de los bienes muebles o inmuebles exceda del equivalente a 500 días de salario mínimo diario vigente en la región, la convocatoria se publicará además en el Periódico Oficial del Estado y en el periódico de mayor circulación en la Entidad.
+Si se trata de bienes muebles con valor que no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, la convocatoria se fijará en el sitio visible y usual de la oficina ejecutora y en los lugares públicos que se juzgue conveniente.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Cuando el valor pericial de los bienes muebles o inmuebles exceda del equivalente a 500 veces el valor diario de la Unidad de Medida y Actualización, la convocatoria se publicará además en el Periódico Oficial del Estado y en el periódico de mayor circulación en la Entidad.
 
 ###### ARTICULO 159.
 
@@ -3322,3 +3340,23 @@ La referencia que en la presente Ley se hace a la Secretaría de Finanzas y Admi
 ###### ARTÍCULO TERCERO.
 
 Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán del Honorable Congreso del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 38-A PÁRRAFO PRIMERO FRACCIÓN III INCISO F); 60 FRACCIONES I Y II; 62 FRACCIÓN II; 64 FRACCIONES I Y II; 66, 68 PÁRRAFO PRIMERO FRACCIONES I Y II; 68-B FRACCIONES I, II Y III; 70 PÁRRAFO PRIMERO Y FRACCIONES I, II Y III; 72; 74-A FRACCIONES I, II, III Y IV; 77 PÁRRAFO SEGUNDO; 89 FRACCIONES I Y II; 91 PÁRRAFO PRIMERO; 116 PÁRRAFO TERCERO; 117; 126-A PÁRRAFO SEGUNDO; 132 PÁRRAFO SEGUNDO Y 158 PÁRRAFOS SEGUNDO Y TERCERO, DEL CÓDIGO FISCAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
