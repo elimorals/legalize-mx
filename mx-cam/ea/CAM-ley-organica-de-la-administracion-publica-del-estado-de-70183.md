@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-70183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-09-14"
-last_updated: "2016-12-22"
+last_updated: "2016-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el lunes 14 de septiembre de 2009.
 
@@ -297,7 +297,17 @@ XXXII. Formular y evaluar políticas, programas y estudios dirigidos a la protec
 
 XXXIII. Promover la implementación de un programa para la protección de las niñas, niños y adolescentes en el Estado, sobre la base de una coordinación eficiente que asegure la participación de todos los sectores responsables; estableciendo mecanismos concretos para la evaluación y monitoreo del cumplimiento de los objetivos y metas definidos por la Ley General y la Ley local en la materia; y
 
-XXXIV. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XXXIV. Coordinar el Centro de Supervisores de Libertad, en términos de lo dispuesto por la Ley Nacional de Ejecución Penal, así como establecer el proceso de certificación para que una organización de la sociedad civil pueda coadyuvar en la supervisión de libertad condicionada; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XXXV. Las demás atribuciones que le señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1894,3 +1904,15 @@ DÉCIMO SEXTO.- El plazo para el cómputo de la prescripción a que se refiere e
 DÉCIMO SÉPTIMO.- La conversión de las tarifas, cuotas, derechos, multas y demás valores expresados en salarios mínimos generales diarios vigentes a Unidades de Medida y Actualización, se realizan en cumplimiento del artículo tercero transitorio del decreto por el que se declaran reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el veintisiete de enero de dos mil dieciséis.
 
 DÉCIMO OCTAVO.- Las referencias al Registro Único de Obligaciones y Financiamientos se entenderán hechas al Registro de Empréstitos y Obligaciones.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 127 POR EL QUE "SE REFORMA LA FRACCIÓN XXXIV Y SE ADICIONA UNA FRACCIÓN XXXV AL ARTÍCULO 21 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor ciento ochenta días naturales después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado en un plazo que no exceda de sesenta días naturales contados a partir de la entrada en vigor del presente decreto, expedirá el acuerdo de creación del Centro de Supervisores de Libertad.
+
+TERCERO.- El Ejecutivo del Estado procederá a hacer las correspondientes adecuaciones a su reglamentación interior y expedirá el marco administrativo que habrá de regir al Centro de Supervisores de Libertad.
+
+CUARTO.- El Centro de Supervisores de Libertad deberá estar debidamente integrado con el personal requisitado para el inicio de su funcionamiento, a más tardar el 30 de noviembre de 2017.
