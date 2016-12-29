@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-seguridad-privada-del-estado-de-michoacan-de-ocampo-7978
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-03"
-last_updated: "2011-01-03"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 3 de enero de 2011.
 
@@ -479,7 +479,9 @@ El incumplimiento por parte de los prestadores del servicio a las obligaciones e
 
 I. Amonestación con apercibimiento;
 
-II. Multa de cien a cinco mil días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de cien a cinco mil veces el valor diario de la Unidad de Medida y Actualización;
 
 III. Arresto hasta por treinta y seis horas;
 
@@ -626,3 +628,25 @@ DIP. ARTURO GUZMÁN ÁBREGO
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 03 tres días del mes de Enero del año 2011 dos mil once.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LEONEL GODOY RANGEL.- EL SECRETARIO DE GOBIERNO.- FIDEL CALDERÓN TORREBLANCA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL ARTÍCULO 45 FRACCIÓN II DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
