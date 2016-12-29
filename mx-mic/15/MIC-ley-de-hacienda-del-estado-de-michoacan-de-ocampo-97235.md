@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-97235"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2014-12-30"
+last_updated: "2016-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # LEY DE HACIENDA DEL ESTADO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 282, PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2013, TODA REFERENCIA HECHA A LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN, SE ENTENDERÁ COMO HECHA A LA SECRETARÍA DE FINANZAS.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Octagésima Sección, del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 31 de diciembre de 2013.
 
@@ -40,8 +42,6 @@ NÚMERO 282
 ###### ARTÍCULO ÚNICO
 
 Se expide la Ley de Hacienda del Estado de Michoacán de Ocampo, para quedar como sigue:
-
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 282, PUBLICADO EN EL P.O. 31 DE DICIEMBRE DE 2013, TODA REFERENCIA HECHA A LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN, SE ENTENDERÁ COMO HECHA A LA SECRETARÍA DE FINANZAS.</small>
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
@@ -481,9 +481,13 @@ IV. Las aportaciones que el patrón pague a sus trabajadores por concepto de cuo
 
 V. Las participaciones en las utilidades de la empresa;
 
-VI. La alimentación y la habitación cuando se entreguen en forma onerosa a los trabajadores, entendiéndose que son onerosas estas prestaciones cuando el trabajador pague por cada una de ellas, como mínimo, el 20% del salario mínimo general diario que rija en el Distrito Federal;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-VII. Las despensas en especie o en dinero, siempre y cuando su importe no rebase el 40% del salario mínimo general diario vigente en el Distrito Federal;
+VI. La alimentación y la habitación cuando se entreguen en forma onerosa a los trabajadores, entendiéndose que son onerosas estas prestaciones cuando el trabajador pague por cada una de ellas, como mínimo, el 20% del valor diario de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+VII. Las despensas en especie o en dinero, siempre y cuando su importe no rebase el 40% del valor diario de la Unidad de Medida y Actualización;
 
 VIII. Los premios por asistencia y puntualidad, siempre que el importe por cada uno de estos conceptos no rebase el 10% del salario;
 
@@ -943,7 +947,7 @@ En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO.- LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
 
-N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
 
 P.O. 30 DE DICIEMBRE DE 2014.
 
@@ -962,3 +966,23 @@ Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al 
 ###### ARTÍCULO CUARTO.
 
 Las obligaciones y los derechos derivados del Impuesto sobre Tenencia o Uso de Vehículos que se deroga en la Ley de Hacienda del Estado de Michoacán de Ocampo, a través de este Decreto, que hubieran nacido durante su vigencia, por la realización de las situaciones jurídicas o de hecho previstas en dicha Ley, deberán cumplirse conforme a los montos, formas y plazos establecidos en dicho ordenamiento.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMA EL ARTÍCULO 50 PÁRRAFO SEGUNDO FRACCIONES VI Y VII DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
