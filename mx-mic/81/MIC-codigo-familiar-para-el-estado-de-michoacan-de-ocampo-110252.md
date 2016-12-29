@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2016-12-16"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -355,9 +355,11 @@ Los médicos, cirujanos o parteras que hubieren asistido el nacimiento, tienen o
 
 Si el nacimiento tuviera lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo del director o de la persona encargada de la administración.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 55.
 
-Las personas que no cumplan con las obligaciones impuestas por el artículo anterior, serán sancionadas con multa de diez a treinta días de salario mínimo general vigente.
+Las personas que no cumplan con las obligaciones impuestas por el artículo anterior, serán sancionadas con multa de diez a treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 56.
 
@@ -403,7 +405,9 @@ Cuando el hijo nazca de una mujer casada que viva con su marido, no podrá asent
 
 Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al ministerio público, con los vestidos y valores o cualquier otro objeto encontrado con él, y declarará la fecha y lugar donde lo hubiere hallado, así como las circunstancias que en su caso hayan concurrido. Hecho lo anterior, el ministerio público dará aviso de tal situación al Oficial del Registro Civil para los efectos correspondientes.
 
-La misma obligación tienen los jefes, directores o administradores de los establecimientos de reclusión y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas, y en caso de incumplimiento, la autoridad impondrá al infractor una multa de diez a treinta días de salario mínimo general vigente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La misma obligación tienen los jefes, directores o administradores de los establecimientos de reclusión y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas, y en caso de incumplimiento, la autoridad impondrá al infractor una multa de diez a treinta veces el valor diario de la Unidad de Medida y Actualización
 
 ###### Artículo 62.
 
@@ -537,9 +541,11 @@ VII. Copia de la dispensa de impedimentos, si los hubo.
 
 Los Oficiales del Registro Civil, cuando se trate de indigentes y estos se lo pidan, tienen obligación de redactar la solicitud a que se refiere el artículo 77 de este Código.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 80.
 
-Los médicos que se nieguen a expedir el certificado de sanidad de que trata el artículo 78 fracción IV de este Código, se harán acreedores a una multa de diez a treinta días de salario mínimo general vigente y los que asentaren hechos falsos incurrirán en los delitos previstos por el Código Penal.
+Los médicos que se nieguen a expedir el certificado de sanidad de que trata el artículo 78 fracción IV de este Código, se harán acreedores a una multa de diez a treinta veces el valor diario de la Unidad de Medida y Actualización y los que asentaren hechos falsos incurrirán en los delitos previstos por el Código Penal.
 
 ###### Artículo 81.
 
@@ -621,9 +627,11 @@ El Oficial del Registro Civil que reciba una petición de matrimonio está plena
 
 También podrá exigir declaración bajo protesta, a los testigos que presenten los interesados, a las personas que figuren como progenitores o tutores de los pretendientes, y a los médicos que expidan el certificado de sanidad.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 94.
 
-El Oficial del Registro Civil, que sin motivo justificado, retarde la celebración de un matrimonio, será sancionado la primera vez con una multa equivalente a tres días de salario mínimo general vigente y en caso de reincidencia, con destitución del cargo.
+El Oficial del Registro Civil, que sin motivo justificado, retarde la celebración de un matrimonio, será sancionado la primera vez con una multa equivalente a tres veces el valor diario de la Unidad de Medida y Actualización y en caso de reincidencia, con destitución del cargo.
 
 ### CAPÍTULO VII. ACTAS DE DIVORCIO
 
@@ -679,9 +687,11 @@ VI. La clase de enfermedad de que este hubiere fallecido y específicamente el l
 
 VII. La hora de la muerte, si se supiere y todos los demás informes que se tengan en caso de muerte violenta.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 102.
 
-Si el fallecimiento ocurriere en un lugar o población en donde no exista Oficialía del Registro Civil, la autoridad municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que levante el acta. Si la autoridad no lo hiciere dentro de los quince días siguientes, se le impondrá multa de diez a treinta días de salario mínimo general vigente.
+Si el fallecimiento ocurriere en un lugar o población en donde no exista Oficialía del Registro Civil, la autoridad municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que levante el acta. Si la autoridad no lo hiciere dentro de los quince días siguientes, se le impondrá multa de diez a treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 103.
 
@@ -2933,7 +2943,9 @@ En la comparecencia el juez de instrucción debe informar al interesado que pued
 
 En el auto de admisión de la demanda, el juez de instrucción además, tomará las siguientes medidas:
 
-I. Fijará de inmediato una pensión provisional equivalente a un salario diario mínimo general vigente, salvo que de las pruebas aportadas hasta ese momento, se deduzca una capacidad económica diferente; decisión contra la cual no se admitirá recurso alguno;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I. Fijará de inmediato una pensión provisional equivalente a una vez el valor diario de la Unidad de Medida y Actualización, salvo que de las pruebas aportadas hasta ese momento, se deduzca una capacidad económica diferente; decisión contra la cual no se admitirá recurso alguno;
 
 II. Enseguida lo comunicará a su fuente laboral, para que la deposite ante el juzgado del conocimiento o haga la entrega directa de la misma al que exige los alimentos a elección de este;
 
@@ -3823,7 +3835,7 @@ En caso de que se soliciten alimentos por parte del cónyuge, hijos o ascendient
 
 Se nombrará representante en el siguiente orden:
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
 I. Al cónyuge, concubina o concubino del ausente;
 
@@ -4045,7 +4057,9 @@ II. El menaje de uso ordinario de la casa habitación, incluyendo los instrument
 
 III. Tratándose de familia campesina, además de los señalados en las fracciones anteriores, el terreno de cuya explotación se sostenga la familia, incluyendo los semovientes e instrumentos necesarios para el cultivo.
 
-Casa y terreno que pueden ser predios separados, pero dentro de los límites del Estado, cuyo valor, en todos estos supuestos, no exceda del resultado de multiplicar por cuarenta y cinco, el salario mínimo general vigente, multiplicando este resultado por los días del año.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Casa y terreno que pueden ser predios separados, pero dentro de los límites del Estado, cuyo valor, en todos estos supuestos, no exceda del resultado de multiplicar por cuarenta y cinco, el valor diario de la Unidad de Medida y Actualización, multiplicando este resultado por los días del año.
 
 ###### Artículo 665.
 
@@ -5039,9 +5053,11 @@ Cuando en el distrito judicial de que se trate, únicamente exista un juez de in
 
 Si se desecha o declara no probada la recusación con causa que se haya interpuesto, se repelerá de plano toda otra recusación de la misma clase, aunque el recusante señale que la causa, cualquiera que sea, es superveniente o que no había tenido conocimiento de ella, no obstante, si hubiere cambio en el personal, podrá hacerse valer la recusación con causa del nuevo magistrado, juez, secretario de acuerdos o actuario en los términos descritos en este capítulo.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 841.
 
-No probada la causa de recusación, si el juzgador apreciara mala fe o temeridad en el recusante, le impondrá en favor del Fondo Auxiliar para la Administración de Justicia multa de diez a treinta días de salario mínimo general vigente, de la cual será solidariamente responsable su abogado, si hubiere intervenido en la recusación.
+No probada la causa de recusación, si el juzgador apreciara mala fe o temeridad en el recusante, le impondrá en favor del Fondo Auxiliar para la Administración de Justicia multa de diez a treinta veces el valor diario de la Unidad de Medida y Actualización, de la cual será solidariamente responsable su abogado, si hubiere intervenido en la recusación.
 
 ## TÍTULO QUINTO. MEDIDAS CAUTELARES
 
@@ -5487,13 +5503,17 @@ Se entenderá corrección disciplinaria:
 
 I. El apercibimiento; y,
 
-II. La multa, que no excederá de veinticinco días de salario mínimo general vigente, que se duplicará en caso de reincidencia.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II. La multa, que no excederá de veinticinco veces el valor diario de la Unidad de Medida y Actualización, que se duplicará en caso de reincidencia.
 
 ###### Artículo 925.
 
 Los tribunales, para hacer cumplir sus determinaciones, pueden emplear, a discreción, los siguientes medios de apremio:
 
-I. La multa hasta de veinticinco días de salario mínimo general vigente, que podrá duplicarse en caso de reincidencia;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I. La multa hasta de veinticinco veces el valor diario de la Unidad de Medida y Actualización, que podrá duplicarse en caso de reincidencia;
 
 II. El auxilio de la fuerza pública;
 
@@ -6081,15 +6101,19 @@ El juez podrá interrogar al testigo, de no hacerlo, le permitirá que se retire
 
 Las partes tendrán la obligación de presentar sus propios testigos. La prueba se declarará desierta si el testigo no es presentado por el oferente. Sin embargo, cuando realmente estuvieren imposibilitadas para hacerlo, lo manifestarán desde el momento del ofrecimiento de la prueba y pedirán que se les cite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1012.
 
-Cuando se trate de testigos que deban ser citados por el juez, se les apercibirá que en caso de desobediencia se aplicará multa, que podrá ser de diez a treinta días de salario mínimo general vigente y, en caso de reincidencia, se les hará comparecer por medio de la fuerza pública.
+Cuando se trate de testigos que deban ser citados por el juez, se les apercibirá que en caso de desobediencia se aplicará multa, que podrá ser de diez a treinta veces el valor diario de la Unidad de Medida y Actualización y, en caso de reincidencia, se les hará comparecer por medio de la fuerza pública.
 
 La citación se hará mediante instructivo con tres días hábiles de anticipación al en que deban declarar.
 
 Si el testigo citado no asistiere a rendir su declaración en la audiencia programada, el juez le hará efectivo el apercibimiento realizado y reprogramará su desahogo. En este caso podrá suspenderse la audiencia.
 
-La prueba se declarará desierta, si aplicados los medios de apremio señalados anteriormente, no se logra la presentación de los testigos o bien, el señalamiento del domicilio de alguno resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, caso en el cual, se impondrá al oferente una multa que podrá ser de diez a treinta días de salario mínimo del general vigente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+La prueba se declarará desierta, si aplicados los medios de apremio señalados anteriormente, no se logra la presentación de los testigos o bien, el señalamiento del domicilio de alguno resulte inexacto o de comprobarse que se solicitó su citación con el propósito de retardar el procedimiento, caso en el cual, se impondrá al oferente una multa que podrá ser de diez a treinta veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 1013.
 
@@ -6875,7 +6899,9 @@ I. Mientras no se pronuncie sentencia irrevocable, la tutela interina debe limit
 
 II. El estado de interdicción puede demostrarse con los diversos medios de prueba legalmente previstos; pero en todo caso, a petición de parte o de oficio, se desahogará prueba pericial. El tutor puede nombrar un médico para que lo asesore en el desahogo de la prueba;
 
-III. El que promueva dolosamente la declaratoria de minoría de edad o de interdicción o se oponga de igual manera a esta, será sancionado penalmente por los delitos que resulten, y sin perjuicio de la responsabilidad civil en que incurra, deberá pagar además multa de cien a doscientos días de salario mínimo general vigente, que se distribuirá por mitad entre la persona presuntamente con discapacidad y el tutor interino, si se hubiere designado, en caso contrario, solamente a favor de aquella;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. El que promueva dolosamente la declaratoria de minoría de edad o de interdicción o se oponga de igual manera a esta, será sancionado penalmente por los delitos que resulten, y sin perjuicio de la responsabilidad civil en que incurra, deberá pagar además multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización, que se distribuirá por mitad entre la persona presuntamente con discapacidad y el tutor interino, si se hubiere designado, en caso contrario, solamente a favor de aquella;
 
 IV. La sentencia en que se decida lo correspondiente a la oposición, se ocupará a su vez de la declaratoria solicitada; y,
 
@@ -6969,9 +6995,11 @@ IV. Obligarán a los tutores a que depositen en el establecimiento público dest
 
 V. Pedirán al efecto las noticias que estimen necesarias del estado en que se halle la gestión de la tutela, y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que puedan haberse cometido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1164.
 
-Las cuentas de la tutela deben ser acompañadas de sus documentos justificativos, a excepción de aquellas partidas que no excedan de dos días de salario mínimo general vigente.
+Las cuentas de la tutela deben ser acompañadas de sus documentos justificativos, a excepción de aquellas partidas que no excedan de dos veces el valor diario de la Unidad de Medida y Actualización.
 
 Son justificantes del gasto:
 
@@ -7185,7 +7213,9 @@ IV. Alhajas y muebles preciosos; y,
 
 V. Acciones o partes sociales de sociedades civiles o mercantiles y títulos de renta.
 
-Los bienes de las dos últimas fracciones, siempre que su valor en conjunto exceda de quinientos días de salario mínimo general vigente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Los bienes de las dos últimas fracciones, siempre que su valor en conjunto exceda de quinientos (sic) veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### Artículo 1204.
 
@@ -7199,9 +7229,11 @@ La petición podrá formularse por uno solo de los que ejerzan la patria potesta
 
 El remate de los bienes inmuebles y derechos reales a que se refiere el artículo 1203 se hará conforme al capítulo respectivo del Código de Procedimientos Civiles.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1206.
 
-Cuando el valor de los inmuebles o derechos reales no exceda de quinientos días de salario mínimo general vigente, la venta se hará fuera de subasta.
+Cuando el valor de los inmuebles o derechos reales no exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización, la venta se hará fuera de subasta.
 
 ###### Artículo 1207.
 
@@ -7257,7 +7289,9 @@ En el primer escrito se ofrecerán las pruebas que se consideren necesarias para
 
 El perito deberá rendir su dictamen dentro del término de tres días, salvo que medie causa justificada, calificada de plano por el juez, en cuyo caso, se dictarán las providencias necesarias para obtener el peritaje.
 
-En el supuesto de que el perito no emita el dictamen sin causa justificada, se le impondrá una multa a favor del solicitante por la misma cantidad de dinero en que fijó sus honorarios, y si no los hubiere determinado, por la suma equivalente de treinta a cincuenta días de salario mínimo general vigente.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+En el supuesto de que el perito no emita el dictamen sin causa justificada, se le impondrá una multa a favor del solicitante por la misma cantidad de dinero en que fijó sus honorarios, y si no los hubiere determinado, por la suma equivalente de treinta a cincuenta veces el valor diario de la Unidad de Medida y Actualización.
 
 En el mismo acto, el juez dictará proveído de ejecución en contra del perito y designará otro.
 
@@ -7485,6 +7519,26 @@ P.O. 18 DE NOVIEMBRE DE 2016.
 
 P.O. 16 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 254 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 625, 629 Y 655 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 254 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 625, 629 Y 655 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 55, 61 PÁRRAFO SEGUNDO, 80, 94, 102, 464 FRACCIÓN I; 664 PÁRRAFO SEGUNDO, 841, 924 FRACCIÓN II; 925 PÁRRAFO PRIMERO FRACCIÓN I; 1012 PÁRRAFOS PRIMERO Y CUARTO, 1147 PÁRRAFO PRIMERO FRACCIÓN III; 1164 PÁRRAFO PRIMERO, 1203 PÁRRAFO SEGUNDO, 1206 Y 1219 PÁRRAFO SEGUNDO DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
