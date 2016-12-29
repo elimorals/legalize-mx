@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-justicia-en-materia-electoral-y-de-participacion-101653"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-30"
-last_updated: "2014-06-30"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 30 de junio de 2014.
 
@@ -591,7 +591,9 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa hasta por cien veces el salario mínimo diario general vigente en el Estado. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada; y,
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III. Multa hasta por cien veces el valor diario de la Unidad de Medida y Actualización. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada; y,
 
 IV Arresto hasta por treinta y seis horas.
 
@@ -599,7 +601,9 @@ IV Arresto hasta por treinta y seis horas.
 
 Para hacer cumplir las disposiciones del presente Ordenamiento y las sentencias que pronuncie, el Tribunal, podrá aplicar los siguientes medios de apremio:
 
-I. Multa hasta por cien veces el salario mínimo diario general vigente en el Estado. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I. Multa hasta por cien veces el valor diario de la Unidad de Medida y Actualización. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
 
 II. Auxilio de la fuerza pública; y,
 
@@ -625,7 +629,9 @@ Recibido el escrito de excitativa, el Presidente del Tribunal pedirá informe co
 
 El Presidente dará cuenta al Pleno del Tribunal para que éste resuelva lo que proceda; éste resolverá las excitativas de justicia con informe o sin él, a más tardar el día siguiente de su presentación. Cuando a juicio del Pleno haya mediado motivo racional e insuperable para el no pronunciamiento de la resolución, la excitativa será declarada improcedente.
 
-Cuando la excitativa de justicia sea procedente, se impondrá al responsable amonestación por escrito o multa de cien a mil días de salario mínimo general vigente en el Estado, y se le fijará un término de veinticuatro horas para dictar resolución.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+Cuando la excitativa de justicia sea procedente, se impondrá al responsable amonestación por escrito o multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización, y se le fijará un término de veinticuatro horas para dictar resolución.
 
 De reincidir los magistrados tres veces en la misma conducta, el Pleno del Tribunal, a través de la Secretaría General, turnará el expediente al Senado para la remoción del magistrado responsable.
 
@@ -1054,3 +1060,25 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 30 treinta días del mes de junio del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR SUBSTITUTO DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- MTRO. JAIME DARIO OSEGUERA MÉNDEZ.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 43 FRACCIÓN III; 44 FRACCIÓN I Y 46 PÁRRAFO CUARTO DE LA LEY DE JUSTICIA EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
