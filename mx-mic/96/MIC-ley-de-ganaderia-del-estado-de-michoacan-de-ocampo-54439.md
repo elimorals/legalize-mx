@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ganaderia-del-estado-de-michoacan-de-ocampo-54439"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-02"
-last_updated: "2010-08-06"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "MIC"
 ---
 # LEY DE GANADERIA DEL ESTADO DE MICHOACAN DE OCAMPO
 
-LEY DE GANADERIA DEL ESTADO DE MICHOACAN DE OCAMPO
+LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE AGOSTO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
 
 Ley publicada en la cuarta Sección del Periódico Oficial del Estado de Michoacán, el viernes 2 de marzo de 2007.
 
@@ -1031,9 +1031,13 @@ Las infracciones a la presente Ley ameritarán las sanciones siguientes:
 
 I. Multa que se determinará en los casos y montos siguientes:
 
-A) Con el equivalente de cuarenta a mil días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en infracciones menores, en los términos considerados en el artículo 130 de la Ley;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-B) Con el equivalente de cien a cinco mil días de salario mínimo general vigente en el Estado, al momento de imponer la sanción, a quienes incurran en infracciones graves, en los términos considerados en el artículo 130 de la Ley; y,
+A) Con el equivalente de cuarenta a mil veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en infracciones menores, en los términos considerados en el artículo 130 de la Ley;
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
+
+B) Con el equivalente de cien a cinco mil veces el valor diario de la Unidad de Medida y Actualización, al momento de imponer la sanción, a quienes incurran en infracciones graves, en los términos considerados en el artículo 130 de la Ley; y,
 
 II. Clausura temporal o definitiva, parcial o total de los establecimientos, que incurran en los supuestos previstos en el artículo 53 de la Ley.
 
@@ -1113,7 +1117,7 @@ En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Consti
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- EL SECRETARIO DE GOBIERNO.- L. ENRIQUE BAUTISTA VILLEGAS. (Firmados).
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE AGOSTO DE 2007.
 
@@ -1126,3 +1130,23 @@ SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto con
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 255 POR EL QUE "SE REFORMA EL ARTÍCULO 129 PÁRRAFO PRIMERO FRACCIÓN I INCISOS A) Y B) DE LA LEY DE GANADERÍA DEL ESTADO DE MICHOACÁN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Cualquier referencia posterior sobre índice, base o medida para determinar la cuantía de las obligaciones y supuestos previstos en las leyes locales y demás disposiciones que emanen de ellas, se entenderán referidos a la Unidad de Medida y Actualización (UMA).
+
+###### ARTÍCULO TERCERO.
+
+Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes Ejecutivo y Judicial, así como las administraciones públicas municipales deberán realizar las adecuaciones que correspondan en los ordenamientos de su competencia, según sea el caso, teniendo como fecha límite la que marca la entrada en vigor del Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en material (sic) de desindexación del salario mínimo.
+
+###### ARTÍCULO CUARTO.
+
+Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
