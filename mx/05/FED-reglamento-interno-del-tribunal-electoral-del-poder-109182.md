@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-109182"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-07"
-last_updated: "2016-03-04"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109182&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-08-03"
 ---
 # REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE ENERO DE 2017 EN EL D.O.F., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de agosto de 2015.
 
@@ -95,7 +97,9 @@ XXVII. Suprema Corte: La Suprema Corte de Justicia de la Nación;
 
 XXVIII. Tribunal Electoral: El Tribunal Electoral del Poder Judicial de la Federación;
 
-XXIX. Unidad de Enlace: La Dirección General de Transparencia, Acceso a la Información y Protección de Datos Personales; y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XXIX. Unidad de Transparencia: La Dirección General de Transparencia, Acceso a la Información y Protección de Datos Personales; y
 
 (REPUBLICADA, D.O.F. 4 DE MARZO DE 2016)
 
@@ -229,7 +233,9 @@ IV. Vigilar el buen desempeño y funcionamiento de los órganos del Tribunal Ele
 
 V. Delegar facultades entre el personal jurídico, administrativo o técnico del Tribunal Electoral, salvo aquellas que por disposición legal sean indelegables;
 
-VI. Crear, dentro de las áreas que le están adscritas, las comisiones y coordinaciones necesarias del personal jurídico, administrativo y técnico, para el buen funcionamiento del Tribunal Electoral, en los términos establecidos en este Reglamento;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+VI. Crear, dentro de las áreas que le están adscritas, las comisiones, coordinaciones y direcciones generales necesarias del personal jurídico, administrativo y técnico, para el buen funcionamiento del Tribunal Electoral, en los términos establecidos en este Reglamento;
 
 VII. Turnar a la Comisión Sustanciadora los medios de impugnación promovidos por las y los servidores del Tribunal Electoral;
 
@@ -435,13 +441,25 @@ III. Dirección General de Estadística e Información Jurisdiccional;
 
 IV. Unidad de Vinculación con las Salas Regionales;
 
-V. Oficina de Actuaría;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-VI. Oficialía de Partes; y
+V. Unidad de Apoyo Jurisdiccional;
 
-VII. Archivo Jurisdiccional.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-Las personas titulares de las referidas áreas deberán reunir los requisitos que exige el artículo 215 de la Ley Orgánica. Su designación se orientará por el principio de paridad de género.
+VI. Oficina de Actuaría;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+VII. Oficialía de Partes; y
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+VIII. Archivo Jurisdiccional.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+Las personas titulares de las referidas áreas deberán reunir los requisitos que exige el artículo 215 de la Ley Orgánica; con excepción del titular de la Unidad de Apoyo Jurisdiccional, quien podrá ostentar algún otro título en el área de su especialidad o materia afín a las labores a desempeñar, expedido legalmente con una antigüedad mínima de tres años. Su designación se orientará por el principio de paridad de género.
 
 ###### Artículo 22.
 
@@ -463,7 +481,9 @@ VII. Clasificar como reservada o confidencial la información de acuerdo a los c
 
 VIII. Organizar los expedientes de su competencia, a través de la integración de los documentos que los conforman, su ordenamiento y catalogación, así como la guarda y custodia de los mismos, de conformidad a los lineamientos correspondientes;
 
-IX. Formular las respuestas a las solicitudes de acceso a la información y de protección de datos personales que les turne la Unidad de Enlace; y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+IX. Formular las respuestas a las solicitudes de acceso a la información y de protección de datos personales que les turne la Unidad de Transparencia;
 
 X. Las demás que les confieran las disposiciones aplicables.
 
@@ -586,6 +606,44 @@ VII. Informar a las personas titulares de la Secretaría General y de la Subsecr
 VIII. Mantener actualizado, en el ámbito de su competencia, el sistema electrónico de consulta interna y externa; y
 
 IX. Informar permanentemente a la persona titular de la Dirección General de Estadística e Información Jurisdiccional, respecto del funcionamiento del área a su cargo y del desahogo de los asuntos de su competencia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+SECCIÓN 4ª (SIC)
+
+De la Unidad de Apoyo Jurisdiccional
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 30 Bis.
+
+La Unidad de Apoyo Jurisdiccional está encargada de coadyuvar y apoyar a la Presidencia, a las Magistradas y a los Magistrados, así como a la Secretaría General de la Sala Superior en el cumplimiento de las atribuciones que tienen encomendadas, y realizará sus fines con el personal de apoyo que determine la Presidencia y/o la persona titular de la Secretaría General.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 30 Ter.
+
+La persona titular de la Unidad de Apoyo Jurisdiccional tendrá las facultades siguientes:
+
+I. Coordinar el seguimiento de los procedimientos de fiscalización de los ingresos y egresos de los partidos políticos y candidatos, así como de aquellos asuntos que determine la Sala Superior.
+
+II. Coordinar la evaluación y dictaminación de la información relativa a los procedimientos de fiscalización de los ingresos y egresos de los partidos políticos y candidatos, que le sea solicitada por la Presidencia, las Magistradas y los Magistrados de la Sala Superior, a fin de coadyuvar en la sustanciación y resolución de los medios de impugnación relacionados con el tema.
+
+III. Identificar, analizar, sistematizar y clasificar los asuntos electorales y criterios relacionados con la fiscalización de los ingresos y egresos de los recursos de los partidos políticos y candidatos, así como de aquellos otros asuntos que determine la Sala Superior.
+
+IV. Apoyar a las Magistradas y a los Magistrados integrantes de la Sala Superior, así como a la Secretaría General de Acuerdos, en cuestiones técnicas o especializadas que coadyuven en la resolución de asuntos jurisdiccionales.
+
+V. Coadyuvar con la Secretaría General de Acuerdos y la Dirección General de Estadística e Información Jurisdiccional en la generación de base de datos y demás información relevante para el cumplimiento de la función jurisdiccional.
+
+VI. Cuando así lo determine la Sala Superior o la Presidencia, brindar apoyo en su ámbito de conocimiento a las salas regionales, en coordinación con la Unidad de Vinculación de la Secretaría General.
+
+VII. Proponer a su jefe inmediato los criterios, políticas y directrices para el cumplimiento del programa de trabajo de su área.
+
+VIII. Proponer a la Sala Superior, por conducto de su Presidencia, los proyectos de su área a considerar en el programa anual de trabajo, así como los convenios de colaboración con otras instituciones que faciliten el cumplimiento de sus atribuciones.
+
+IX. Participar en eventos, conferencias, talleres o cualquier otro evento análogo que contribuya a la capacitación en temas especializados para las funciones de apoyo jurisdiccional.
+
+X. Las demás que les sean encomendadas por las Magistradas y los Magistrados integrantes de la Sala Superior, cuyo propósito sea afín a las atribuciones de los titulares de las ponencias.
 
 SECCIÓN 5ª
 
@@ -799,11 +857,17 @@ VII. Auxiliar a los particulares en la elaboración de solicitudes de acceso a l
 
 VIII. Recibir solicitudes de acceso a la información y de protección de datos personales a través de la herramienta informática que para tal efecto se implemente;
 
-IX. Turnar a la Unidad de Enlace las solicitudes correspondientes para su trámite;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-X. Llevar el registro de las solicitudes de acceso a la información y de protección de datos personales que se reciban en la Sala Regional respectiva e informar a la Unidad de Enlace;
+IX. Turnar a la Unidad de Transparencia las solicitudes correspondientes para su trámite;
 
-XI. Notificar, en su caso, las respuestas recaídas a las solicitudes de acceso a la información y de protección de datos personales, cuando así lo determine la Unidad de Enlace;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+X. Llevar el registro de las solicitudes de acceso a la información y de protección de datos personales que se reciban en la Sala Regional respectiva e informar a la Unidad de Transparencia;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XI. Notificar, en su caso, las respuestas recaídas a las solicitudes de acceso a la información y de protección de datos personales, cuando así lo determine la Unidad de Transparencia;
 
 XII. Coadyuvar con el Centro en la formulación del Programa Académico del Tribunal Electoral, por lo que respecta al apartado de capacitación de las Salas Regionales;
 
@@ -1977,7 +2041,9 @@ La persona titular de la Presidencia de la Sala Superior del Tribunal Electoral 
 
 I. Convocar a la Comisión de Administración a sesiones ordinarias o extraordinarias, con al menos cinco días de anticipación para las primeras, y con dos días previos para las segundas;
 
-II. Designar y remover a la persona titular de la Secretaría Administrativa del Tribunal Electoral y de la Coordinación Técnica Administrativa;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Designar y remover a la persona titular de la Secretaría Administrativa del Tribunal Electoral.
 
 III. En caso de ausencia de la persona titular de la Secretaría Administrativa, podrá designar a la o el servidor público que lo supla en las sesiones de la Comisión de Administración;
 
@@ -1993,7 +2059,9 @@ VIII. Ordenar, fundada y motivadamente, en casos urgentes, a la Visitaduría Jud
 
 IX. Delegar facultades entre el personal jurídico, administrativo o técnico del Tribunal Electoral, salvo aquellas que, por disposición legal, sean indelegables;
 
-X. Designar al personal de mando superior de los órganos auxiliares, a excepción de las personas titulares de la Contraloría Interna, del Centro, de la Visitaduría General y Visitadurías; así como resolver sobre sus movimientos, remociones y renuncias, debiendo observar lo establecido en la normativa aplicable. De todo lo anterior deberá informar a la Comisión de Administración; y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+X. Designar al personal de mando superior de los órganos auxiliares, a excepción de las personas titulares de la Contraloría Interna, del Centro, de la Visitaduría; así como resolver sobre sus movimientos, remociones y renuncias, debiendo observar lo establecido en la normativa aplicable. De todo lo anterior deberá informar a la Comisión de Administración; y
 
 XI. Las demás que les confieran las disposiciones aplicables.
 
@@ -2009,7 +2077,9 @@ De la Secretaría de la Comisión de Administración
 
 La Secretaría de la Comisión de Administración tendrá las facultades siguientes:
 
-I. Remitir las convocatorias a sesiones ordinarias y extraordinarias a los miembros de la Comisión de Administración, con al menos cinco días hábiles de anticipación para las primeras y con dos días hábiles previos para las segundas. La documentación relativa deberá enviarse junto con la convocatoria;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+I. Elaborar y remitir las convocatorias a sesiones ordinarias y extraordinarias a los miembros de la Comisión de Administración, con al menos cinco días hábiles de anticipación para las primeras y con dos días hábiles previos para las segundas. La documentación relativa deberá enviarse junto con la convocatoria;
 
 II. Auxiliar a la persona titular de la Presidencia de la Comisión de Administración en la preparación del orden del día de las sesiones;
 
@@ -2023,9 +2093,45 @@ VI. Dar seguimiento a los acuerdos cuya ejecución se le haya encomendado;
 
 VII. Elaborar y someter a la aprobación de la Comisión de Administración, el informe anual de labores que deberá rendir a la misma;
 
-VIII. Expedir las copias y certificaciones que soliciten sus integrantes; y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-IX. Las demás que le confieran la Comisión de Administración, su Presidente y las disposiciones aplicables.
+VIII. Expedir las copias y certificaciones que soliciten sus integrantes;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+IX. Brindar el apoyo técnico-jurídico a las diversas áreas del Tribunal Electoral, en todos los asuntos relacionados con la Comisión de Administración;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+X. Integrar, analizar y revisar los asuntos que se requieran presentar a consideración de la Comisión de Administración;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XI. Elaborar la propuesta de calendario anual de sesiones ordinarias de la Comisión de Administración y presentarlo a la persona titular de la Presidencia, para su autorización y posterior puesta a consideración de este Órgano;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XII. Establecer un sistema de registro de los acuerdos tomados en las sesiones de la Comisión, que permita dar seguimiento a la ejecución de los mismos, así como el control de las reformas y adiciones que mediante éstos se aprueben;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XIII. Mantener actualizada la información respecto de los acuerdos emitidos y su vigencia;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XIV. Elaborar las constancias que las o los titulares de las áreas requieran en ejercicio de sus facultades, respecto de los acuerdos emitidos por la Comisión de Administración;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XV. Rendir periódicamente informes a la Presidencia y a la Comisión, respecto al seguimiento del cumplimiento de los acuerdos emitidos;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XVI. Informar a la Comisión de Administración de la ausencia de más de quince días de la o el Visitador, a efecto de que designe a la persona que deberá hacerse cargo del despacho; y
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XVII. Las demás que le confieran la Comisión de Administración, su Presidente y las disposiciones aplicables.
 
 SECCIÓN 3ª
 
@@ -2111,7 +2217,9 @@ V. No desempeñar ni haber desempeñado el cargo de Presidencia o Dirección en 
 
 VI. No haber ocupado un cargo de elección popular, ni haber sido registrado como candidata o candidato para ello, en los últimos tres años;
 
-VII. En el caso de las personas integrantes de la Visitaduría Judicial, ser o haber sido Magistrada o Magistrado y, para el caso de la Visitaduría General, ser o haber sido Consejera o Consejero de la Judicatura o Magistrada o Magistrado; y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+VII. En el caso de la persona titular de la Visitaduría Judicial, ser o haber sido Consejera o Consejero de la Judicatura o Magistrada o Magistrado; y
 
 VIII. Contar, preferentemente, con experiencia en el desempeño de actividades propias del cargo que se le encomiende.
 
@@ -2141,7 +2249,9 @@ X. Clasificar como reservada o confidencial la información de acuerdo a los cri
 
 XI. Organizar los expedientes de su competencia, a través de la integración de los documentos que los conforman, su ordenamiento y catalogación, así como la guarda y custodia de los mismos, de conformidad a los lineamientos correspondientes;
 
-XII. Formular las respuestas a las solicitudes de acceso a la información y de protección de datos personales que les turne la Unidad de Enlace; y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XII. Formular las respuestas a las solicitudes de acceso a la información y de protección de datos personales que les turne la Unidad de Transparencia; y
 
 XIII. Las demás que les confieran las disposiciones legales y administrativas y las que les encomiende la Comisión de Administración.
 
@@ -2155,19 +2265,15 @@ La Visitaduría Judicial es el órgano auxiliar con independencia técnica de la
 
 Contará con la estructura necesaria para el desempeño de sus funciones.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 177.
 
-La Visitaduría Judicial se integra por el personal siguiente:
+La Visitaduría Judicial se integra por una persona titular, nombrada por la Comisión de Administración a propuesta de la Presidencia del Tribunal, quien tendrá un periodo de encargo de cuatro años, prorrogables por una sola vez, a consideración de dicha Comisión.
 
-I. Una persona titular de la Visitaduría General, nombrada por la Comisión de Administración a propuesta de la Presidencia del Tribunal, quien tendrá un periodo de encargo de cuatro años, prorrogables por una sola vez, a consideración de dicha Comisión.
+En caso de ausencia del titular de la Visitaduría Judicial por más de quince días, la Comisión de Administración nombrará a la o el funcionario que cubrirá la misma.
 
-II. Dos personas denominadas Visitadores o Visitadoras, nombradas por la Comisión de Administración, a propuesta de la Presidencia del Tribunal. Durarán cuatro años en su encargo, prorrogables por una sola vez, a consideración de la citada Comisión.
-
-En caso de ausencia de cualquiera de sus integrantes, la Visitaduría Judicial funcionará válidamente con la presencia de dos de ellos. Si la ausencia es por más de quince días, la Comisión de Administración nombrará a la o el funcionario que cubrirá la misma.
-
-Los requisitos que deben cumplir los integrantes de la Visitaduría Judicial, además de los establecidos en este Reglamento, para las y los titulares de los órganos auxiliares de la Comisión de Administración, así como sus facultades y atribuciones estarán previstos en el Acuerdo General que para tal efecto apruebe la Comisión de Administración.
-
-La integración de la Visitaduría Judicial se orientará por el principio de paridad de género.
+Los requisitos que debe cumplir el titular de la Visitaduría Judicial, además de los establecidos en este Reglamento, para las y los titulares de los órganos auxiliares de la Comisión de Administración, así como sus facultades y atribuciones estarán previstos en el Acuerdo General que para tal efecto apruebe la Comisión de Administración.
 
 ###### Artículo 178.
 
@@ -2199,7 +2305,9 @@ XII. Rendir los informes que sean requeridos por la Comisión de Administración
 
 XIII. Iniciar y sustanciar los procedimientos de investigación, para lo cual debe informar de manera inmediata a la Comisión de Administración, o bien, cuando ésta se lo instruya, así como sustanciar e instruir los procedimientos disciplinarios del personal perteneciente a las Salas Regionales del Tribunal Electoral, en los términos de la Ley Orgánica;
 
-XIV. Informar a la Comisión de Administración de cualquier queja o denuncia que sea presentada ante la Visitaduría Judicial, misma que será asignada a una o un Visitador. En caso de que la queja o denuncia no sea de la competencia del citado órgano auxiliar, se turnará al área que corresponda para su atención, debiendo remitir copia de la misma al Secretario de la Comisión de Administración, para los efectos a que haya lugar;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XIV. Informar a la Comisión de Administración de cualquier queja o denuncia que sea presentada ante la Visitaduría Judicial. En caso de que la queja o denuncia no sea de la competencia del citado órgano auxiliar, se turnará al área que corresponda para su atención, debiendo remitir copia de la misma al Secretario de la Comisión de Administración, para los efectos a que haya lugar;
 
 XV. Informar a la Comisión de Administración cuando, en el desarrollo de una investigación o en la sustanciación de un procedimiento administrativo de responsabilidad, tenga conocimiento de conductas que puedan constituir algún delito;
 
@@ -2473,33 +2581,47 @@ El Comité de Desincorporación de Bienes es un órgano colegiado con carácter 
 
 El Comité para la Implementación del Sistema de Gestión de Control Interno y de Mejora Continua es un órgano colegiado con carácter permanente, el cual será la instancia en la que se analicen, estudien y propongan, la búsqueda de mejores prácticas administrativas de conformidad con los criterios establecidos por la Comisión de Administración, para lo cual se integrará y funcionará de conformidad con el Acuerdo General que para tales efectos emita dicha Comisión.
 
-## TÍTULO SEGUNDO. De las Coordinaciones Adscritas a la Presidencia del Tribunal
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO SEGUNDO. De las Coordinaciones y Direcciones Generales adscritas a la Presidencia del Tribunal
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 192.
 
-Para el debido cumplimiento de sus facultades, la Presidencia contará con las siguientes Coordinaciones:
+Para el debido cumplimiento de sus facultades, la Presidencia contará con las siguientes Coordinaciones y Direcciones Generales:
 
-I. De Jurisprudencia, Seguimiento y Consulta;
+A. Coordinaciones:
 
-II. De Relaciones con Organismos Electorales;
+I. De Jurisprudencia, Seguimiento y Consulta; y
 
-III. De Igualdad de Derechos y Paridad de Género;
+II. De Comunicación Social.
 
-IV. De Información, Documentación y Transparencia;
+B. Direcciones Generales:
 
-V. De Comunicación Social; y
+I. De Relaciones con Organismos Electorales;
 
-VI. De Asuntos Jurídicos.
+II. De Igualdad de Derechos y Paridad de Género;
 
-La integración de estas coordinaciones se orientará por el principio de paridad y contará con alguno o más con trayectoria y experiencia en temas de género.
+III. De Información y Documentación;
+
+IV. De Asuntos Jurídicos; y
+
+V. De Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+La integración de estas áreas se orientará por el principio de paridad y contará con alguno o más con trayectoria y experiencia en temas de género.
 
 ###### Artículo 193.
 
-Las personas titulares de las Coordinaciones adscritas a la Presidencia tendrán, en el ámbito de su competencia, las siguientes facultades:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+Las personas titulares de las Coordinaciones y Direcciones Generales adscritas a la Presidencia tendrán, en el ámbito de su competencia, las siguientes facultades:
 
 I. Integrar los Comités y Comisiones que determinen la Sala Superior y la Presidencia;
 
-II. Elaborar y, en su caso, actualizar el proyecto del Manual de Organización Específico de la Coordinación, así como de los lineamientos y procedimientos que regulen el funcionamiento de sus áreas, para su aprobación por las instancias competentes;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+II. Elaborar y, en su caso, actualizar el proyecto del Manual de Organización Específico del área, así como de los lineamientos y procedimientos que regulen su funcionamiento, para su aprobación por las instancias competentes;
 
 III. Dirigir la formulación e integración del programa Anual de Trabajo e informar permanentemente de los resultados y avances obtenidos;
 
@@ -2521,7 +2643,9 @@ XI. Clasificar como reservada o confidencial la información de acuerdo a los cr
 
 XII. Organizar los expedientes de su competencia, a través de la integración de los documentos que los conforman, su ordenamiento y catalogación, así como la guarda y custodia de los mismos, de conformidad a los lineamientos correspondientes;
 
-XIII. Formular las respuestas a las solicitudes de acceso a la información y de protección de datos personales que les turne la Unidad de Enlace; y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XIII. Formular las respuestas a las solicitudes de acceso a la información y de protección de datos personales que les turne la Unidad de Transparencia; y
 
 XIV. Las demás que les confieran las disposiciones aplicables.
 
@@ -2559,123 +2683,19 @@ XI. Organizar y participar en la impartición de cursos y talleres relacionados 
 
 XII. Implementar, proponer y actualizar sistemas electrónicos de consulta de jurisprudencia y tesis.
 
-### CAPÍTULO II. De la Coordinación de Relaciones con Organismos Electorales
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO II. De la Coordinación de Comunicación Social
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 196.
 
-La Coordinación de Relaciones con Organismos Electorales se encarga del establecimiento y promoción de vínculos entre el Tribunal Electoral y los organismos electorales nacionales y extranjeros; con la finalidad de expandir los valores democráticos, fortalecer e incrementar las relaciones institucionales.
-
-###### Artículo 197.
-
-La persona titular de la Coordinación de Relaciones con Organismos Electorales tendrá las facultades siguientes:
-
-I. Coadyuvar en el establecimiento y promoción de relaciones con organismos nacionales e internacionales vinculados con actividades electorales;
-
-II. Promover la vinculación con organismos de cooperación nacional e internacional para el desarrollo de proyectos interinstitucionales en materia electoral;
-
-III. Coordinarse con el Centro y la Coordinación de Información, Documentación y Transparencia, de conformidad con los lineamientos que dicte la Presidencia del Tribunal Electoral, en el ámbito de su competencia; y
-
-IV. Planear y programar en términos operativos y logísticos, los contactos y las relaciones del Tribunal Electoral con instancias gubernamentales, privadas, nacionales o extranjeras, para promover a la institución.
-
-### CAPÍTULO III
-
-De la Coordinación de Igualdad de Derechos y Paridad de Género.
-
-###### Artículo 198.
-
-La Coordinación de Igualdad de Derechos y Paridad de Género se encarga de implementar los proyectos y acciones tendentes a lograr el respeto, la protección y la promoción de la no discriminación e igualdad entre mujeres y hombres, principalmente en cuanto al ejercicio de sus derechos político-electorales; así como de institucionalizar el enfoque de la perspectiva de género en el Tribunal Electoral.
-
-###### Artículo 199.
-
-La persona titular de la Coordinación de Igualdad de Derechos y Paridad de Género tendrá las facultades siguientes:
-
-I. Coordinar la elaboración de programas y acciones que garanticen el cumplimiento de la normativa aplicable en materia de igualdad de género, no discriminación e igualdad para mujeres y hombres;
-
-II. Fomentar una cultura institucional que garantice el acceso a la justicia electoral a las personas que por diversas condiciones se encuentran en situación de desigualdad o desventaja en el ejercicio de sus derechos políticos-electorales;
-
-III. Impulsar el enfoque de la perspectiva de derechos humanos y, en consecuencia, de la igualdad de género en la elaboración del presupuesto del Tribunal Electoral, de conformidad con la normativa aplicable;
-
-IV. Promover todas las acciones tendentes a transversalizar la igualdad de derechos al interior del Tribunal Electoral;
-
-V. Promover vínculos con organismos nacionales e internacionales; instituciones públicas, privadas y sociales; entre otras afines, así como con la Suprema Corte y el Consejo de la Judicatura Federal, a fin de desarrollar y establecer convenios generales o específicos que garanticen el respeto a los derechos humanos, así como el enfoque de la perspectiva de género y la no discriminación;
-
-VI. Coordinar la elaboración del Programa Anual de Igualdad de Derechos y Paridad de Género del Tribunal Electoral y someterlo a la aprobación de la Comisión de Administración; y
-
-VII. Coordinar la difusión de los contenidos de la normativa nacional e internacional relacionada con la materia, con apoyo de la Coordinación de Comunicación Social y otras áreas.
-
-### CAPÍTULO IV. De la Coordinación de Información, Documentación y Transparencia
-
-###### Artículo 200.
-
-La Coordinación de Información, Documentación y Transparencia para robustecer la memoria institucional y el acervo documental electoral que permitan un mejor conocimiento de los derechos político-electorales y el sistema de justicia electoral se encarga de proponer, coordinar y administrar los planes, programas, proyectos y servicios en materia de información, documentación, transparencia y Archivo Institucional, en apoyo a las actividades jurisdiccionales, académicas y administrativas del Tribunal Electoral, así como los destinados al público en general.
-
-###### Artículo 201.
-
-La persona titular de la Coordinación de Información, Documentación y Transparencia tendrá las facultades siguientes:
-
-I. Proponer y supervisar el desarrollo de planes y proyectos estratégicos para actualizar, innovar y difundir los servicios documentales, archivísticos, de transparencia y acceso a la información, así como los relacionados con la tutela del derecho a la no discriminación en el Tribunal Electoral;
-
-II. Coadyuvar con las diversas instancias superiores, Coordinaciones y Direcciones Generales en la difusión del conocimiento en materia electoral, de la cultura democrática y de la educación cívica;
-
-III. Elaborar y compilar los informes correspondientes, que serán presentados ante la autoridad competente;
-
-IV. Coordinar las acciones necesarias para garantizar el cumplimiento de las obligaciones en materia de Transparencia;
-
-V. Coordinar y administrar la publicación de información en el portal de Internet de conformidad a la Ley de Transparencia, los Acuerdos, lineamientos o manuales operativos que para tal efecto se emitan, contando con el soporte técnico de la Dirección General de Sistemas y para ello integrará la junta editorial de la página de Intranet e Internet;
-
-VI. Publicar en el portal institucional los índices de información reservada en los términos de la normativa en materia de Transparencia;
-
-VII. Elaborar propuestas de acuerdos, manuales y lineamientos en materia de Transparencia, que deberán someterse a aprobación ante las instancias correspondientes;
-
-VIII. Mantener y actualizar los índices de información reservada en los términos de la normativa en materia de Transparencia;
-
-IX. Coordinar con el apoyo de la Dirección General de Sistemas y la Unidad de Enlace, la integración de herramientas informáticas que faciliten la administración, organización y descripción del Archivo Institucional y la localización inmediata de la información del Tribunal Electoral;
-
-X. Impulsar la celebración de acuerdos de cooperación con los demás sujetos obligados por la Ley de Transparencia, y participar en las acciones institucionales de investigación, estudios, capacitación y difusión en la materia de Transparencia;
-
-XI. Coadyuvar con la Unidad de Enlace en el desahogo de las solicitudes de acceso a la información, así como la publicación de la información del Tribunal Electoral, de conformidad con los ordenamientos en materia de transparencia;
-
-XII. Instrumentar las disposiciones derivadas de la Sala Superior, así como de otros órganos facultados para garantizar lo dispuesto por la política institucional sobre Transparencia;
-
-XIII. Elaborar su informe anual y remitirlo a la Comisión de Transparencia;
-
-XIV. En coordinación con la Dirección General de Sistemas y la Coordinación de Comunicación Social, mantener actualizada la página electrónica del Tribunal Electoral, proveyendo información necesaria para ello;
-
-XV. Promover las actividades de capacitación y actualización profesional en materia de transparencia, documentación y archivos;
-
-XVI. Compilar la normativa electoral federal y local, y supervisar su permanente actualización;
-
-XVII. Actualizar, incrementar y conservar el acervo del Centro de Documentación y, en su caso, el de cada una de las Salas Regionales;
-
-XVIII. Poner a disposición de las o los Magistrados del personal del Tribunal Electoral y del público en general, servicios de información y documentación especializados en materia jurídica, político-electoral y administrativa a través de los Centros de Documentación;
-
-XIX. Coordinar el desarrollo de las funciones, instrumentos archivísticos y demás disposiciones que establece la Ley Federal de Archivos;
-
-XX. Coadyuvar con la Secretaría General de Acuerdos en las transferencias de expedientes judiciales de las Salas al Archivo Histórico, previa valoración y cumplimiento de su vigencia documental, de conformidad con la normativa aplicable;
-
-XXI. Certificar los documentos que obren en el Fondo Histórico del Archivo Institucional;
-
-XXII. Proponer la celebración de convenios de colaboración con instituciones y organismos afines, nacionales e internacionales, en materia de transparencia y acceso a la información, servicios documentales y de archivo, intercambio y obtención de información jurídica, y de aquellos que propicien el intercambio de experiencias y conocimientos; y
-
-XXIII. Coordinar la venta de las publicaciones institucionales, de conformidad con el Programa Editorial Anual autorizado por el Comité Académico y Editorial.
-
-### CAPÍTULO V. De la Coordinación de Comunicación Social
-
-###### Artículo 202.
-
-El Archivo Institucional se compone por los archivos jurisdiccional y administrativo. La organización, conservación y consulta del archivo institucional se realizará con base en la metodología archivística, la normativa nacional aplicable, principalmente la Ley Federal de Archivos y la Ley de Transparencia, los estándares internacionales en la materia; así como en los acuerdos generales y lineamientos específicos que emitan la Comisión de Administración y el Comité de Transparencia, según corresponda.
-
-El Archivo Institucional del Tribunal Electoral se integra con los expedientes de archivo generados por las unidades en el ejercicio de sus funciones jurisdiccionales, académicas y administrativas y se clasifica en Archivo de Trámite, de Concentración e Histórico.
-
-###### Artículo 203.
-
 La Coordinación de Comunicación Social se encarga de planear, diseñar y dirigir las políticas de comunicación institucional, para una mejor difusión y comprensión de los derechos político-electorales y del sistema de justicia electoral que los garantiza, consolidando la imagen pública del Tribunal Electoral; así como de difundir la actividad jurisdiccional de conformidad con la normativa aplicable.
 
-### CAPÍTULO VI. De la Coordinación de Asuntos Jurídicos
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO I. De la Coordinación de Recursos Humanos y Enlace Administrativo
-
-###### Artículo 204.
+###### Artículo 197.
 
 La persona titular de la Coordinación de Comunicación Social tendrá las facultades siguientes:
 
@@ -2693,7 +2713,7 @@ VI. Monitorear, sintetizar, dar seguimiento y evaluar la información que sobre 
 
 VII. Acordar con la Presidencia del Tribunal Electoral las políticas de información institucional que se difundan;
 
-VIII. Coordinar la actualización de la página electrónica del Tribunal Electoral con la colaboración de la Coordinación de Información, Documentación y Transparencia y de la Dirección General de Sistemas y para ello integrará la junta editorial de la página de Intranet e Internet;
+VIII. Coordinar la actualización de la página electrónica del Tribunal Electoral con la colaboración de la Dirección General de Información y Documentación y de la Dirección General de Sistemas y para ello integrará la junta editorial de la página de Intranet e Internet;
 
 IX. Dar seguimiento a investigaciones y estudios de opinión;
 
@@ -2709,7 +2729,7 @@ XIV. Diseñar y desarrollar una estrategia de difusión para las Salas Regionale
 
 Con independencia de lo anterior, será responsabilidad de cada Sala llevar a cabo su respectivo plan de medios;
 
-XV. Apoyar en las tareas al Centro y de la Coordinación de Información, Documentación y Transparencia, en lo referente al cumplimiento del Programa Académico y Editorial Anual, de conformidad con los lineamientos que dicte la Presidencia del Tribunal Electoral;
+XV. Apoyar en las tareas al Centro y de la Dirección General de Documentación e Información, en lo referente al cumplimiento del Programa Académico y Editorial Anual, de conformidad con los lineamientos que dicte la Presidencia del Tribunal Electoral;
 
 XVI. Coordinar las actividades para la impresión y edición de libros, revistas, folletos, carteles, trípticos y materiales audiovisuales;
 
@@ -2719,41 +2739,253 @@ XVIII. Elaborar el Programa Editorial Anual para someterlo a la aprobación del 
 
 XIX. Coordinar la baja y destrucción de las publicaciones institucionales, de conformidad con el Programa Editorial Anual autorizado por el Comité Académico y Editorial.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO III
+
+De la Dirección General de Igualdad de Derechos y Paridad de Género.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 198.
+
+La Dirección General de Igualdad de Derechos y Paridad de Género se encarga de implementar los proyectos y acciones tendentes a lograr el respeto, la protección y la promoción de la no discriminación e igualdad entre mujeres y hombres, principalmente en cuanto al ejercicio de sus derechos político-electorales; así como de institucionalizar el enfoque de la perspectiva de género en el Tribunal Electoral.
+
+###### Artículo 199.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+La persona titular de la Dirección General de Igualdad de Derechos y Paridad de Género tendrá las facultades siguientes:
+
+I. Coordinar la elaboración de programas y acciones que garanticen el cumplimiento de la normativa aplicable en materia de igualdad de género, no discriminación e igualdad para mujeres y hombres;
+
+II. Fomentar una cultura institucional que garantice el acceso a la justicia electoral a las personas que por diversas condiciones se encuentran en situación de desigualdad o desventaja en el ejercicio de sus derechos políticos-electorales;
+
+III. Impulsar el enfoque de la perspectiva de derechos humanos y, en consecuencia, de la igualdad de género en la elaboración del presupuesto del Tribunal Electoral, de conformidad con la normativa aplicable;
+
+IV. Promover todas las acciones tendentes a transversalizar la igualdad de derechos al interior del Tribunal Electoral;
+
+V. Promover vínculos con organismos nacionales e internacionales; instituciones públicas, privadas y sociales; entre otras afines, así como con la Suprema Corte y el Consejo de la Judicatura Federal, a fin de desarrollar y establecer convenios generales o específicos que garanticen el respeto a los derechos humanos, así como el enfoque de la perspectiva de género y la no discriminación;
+
+VI. Coordinar la elaboración del Programa Anual de Igualdad de Derechos y Paridad de Género del Tribunal Electoral y someterlo a la aprobación de la Comisión de Administración; y
+
+VII. Coordinar la difusión de los contenidos de la normativa nacional e internacional relacionada con la materia, con apoyo de la Coordinación de Comunicación Social y otras áreas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO IV. De la Dirección General de Información y Documentación
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 200.
+
+La Dirección General de Información y Documentación se encarga de proponer, coordinar y administrar los planes, programas, proyectos y servicios en materia de información y documentación, en apoyo a las actividades jurisdiccionales, académicas y administrativas del Tribunal Electoral, así como los destinados al público en general.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 201.
+
+La persona titular de la Dirección General de Información y Documentación tendrá las facultades siguientes:
+
+I. Proponer y supervisar el desarrollo de planes y proyectos estratégicos para actualizar, innovar y difundir los servicios documentales, así como los relacionados con la tutela del derecho a la no discriminación en el Tribunal Electoral;
+
+II. Coadyuvar con las diversas instancias superiores, Coordinaciones y Direcciones Generales en la difusión del conocimiento en materia electoral, de la cultura democrática y de la educación cívica;
+
+III. Elaborar y compilar los informes correspondientes, que serán presentados ante la autoridad competente;
+
+IV. Dirigir y administrar la publicación de información en el portal de Internet de conformidad con los Acuerdos, lineamientos o manuales operativos que para tal efecto se emitan, en coordinación con la Dirección General de Sistemas y la Coordinación de Comunicación Social y para ello integrará la junta editorial de la página de Intranet e Internet;
+
+V. Coordinar con el apoyo de la Dirección General de Sistemas y la Unidad de Transparencia, la integración de herramientas informáticas que faciliten la localización inmediata de la información del Tribunal Electoral;
+
+VI. Coadyuvar con la Unidad de Transparencia en el desahogo de las solicitudes de acceso a la información, de conformidad con los ordenamientos en materia de transparencia;
+
+VII. Promover las actividades de capacitación y actualización profesional en materia de documentación;
+
+VIII. Compilar la normativa electoral federal y local, y supervisar su permanente actualización;
+
+IX. Actualizar, incrementar y conservar el acervo del Centro de Documentación y, en su caso, el de cada una de las Salas Regionales;
+
+X. Poner a disposición de las o los Magistrados del personal del Tribunal Electoral y del público en general, servicios de información y documentación especializados en materia jurídica, político-electoral y administrativa a través de los Centros de Documentación;
+
+XI. Proponer la celebración de convenios de colaboración con instituciones y organismos afines, nacionales e internacionales, en materia de servicios documentales, intercambio y obtención de información jurídica, y de aquellos que propicien el intercambio de experiencias y conocimientos; y
+
+XII. Coordinar la venta de las publicaciones institucionales, de conformidad con el Programa Editorial Anual autorizado por el Comité Académico y Editorial.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO V. De la Dirección General de Relaciones con Organismos Electorales
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 202.
+
+La Dirección General de Relaciones con Organismos Electorales se encarga del establecimiento y promoción de vínculos entre el Tribunal Electoral y los organismos electorales nacionales y extranjeros; con la finalidad de expandir los valores democráticos, fortalecer e incrementar las relaciones institucionales.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 203.
+
+La persona titular de la Dirección General de Relaciones con Organismos Electorales tendrá las facultades siguientes:
+
+I. Coadyuvar en el establecimiento y promoción de relaciones con organismos nacionales e internacionales vinculados con actividades electorales;
+
+II. Promover la vinculación con organismos de cooperación nacional e internacional para el desarrollo de proyectos interinstitucionales en materia electoral;
+
+III. Coordinarse con el Centro y la Dirección General de Información y Documentación, de conformidad con los lineamientos que dicte la Presidencia del Tribunal Electoral, en el ámbito de su competencia; y
+
+IV. Planear y programar en términos operativos y logísticos, los contactos y las relaciones del Tribunal Electoral con instancias gubernamentales, privadas, nacionales o extranjeras, para promover a la institución.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO VI. De la Dirección General de Asuntos Jurídicos
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO VII. De la Dirección General de Transparencia, Acceso a la Información y Protección de Datos Personales
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 204.
+
+La Dirección General de Asuntos Jurídicos se encarga de representar legalmente al Tribunal Electoral ante toda clase de autoridades, instituciones, entidades y personas para la defensa y salvaguarda de sus intereses, así como velar por el principio del autocontrol preventivo de los actos administrativos del Tribunal Electoral, a efecto de que las actuaciones de sus órganos y unidades se ajusten al marco normativo vigente.
+
 ###### Artículo 205.
 
-La Coordinación de Asuntos Jurídicos se encarga de representar legalmente al Tribunal Electoral ante toda clase de autoridades, instituciones, entidades y personas para la defensa y salvaguarda de sus intereses, así como velar por el principio del autocontrol preventivo de los actos administrativos del Tribunal Electoral, a efecto de que las actuaciones de sus órganos y unidades se ajusten al marco normativo vigente.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-### CAPÍTULO II. De la Coordinación Financiera
+La persona titular de la Dirección General de Asuntos Jurídicos tendrá las facultades siguientes:
 
-###### Artículo 206.
-
-La persona titular de la Coordinación de Asuntos Jurídicos tendrá las facultades siguientes:
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 I. Asesorar a la Presidencia del Tribunal Electoral;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 II. Emitir opiniones jurídicas, o en su caso dictámenes de validación jurídica a la Secretaría Administrativa, así como a las diversas unidades administrativas del Tribunal Electoral en aquellos asuntos que se le encomienden.
 
 En caso de que la unidad administrativa difiera de la opinión o el dictamen de validación jurídica, podrá solicitar su revisión a la Presidencia del Tribunal Electoral;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 III. Elaborar o, en su caso, validar los convenios y contratos que celebre el Tribunal Electoral, así como el seguimiento del cumplimiento de los mismos cuando le sea requerido;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 IV. Validar o, en su caso, elaborar los proyectos de reglamentos, acuerdos generales, lineamientos, manuales y demás instrumentos normativos que le sean encomendados por la Presidencia del Tribunal Electoral o solicitados por cualquier unidad administrativa;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 V. Compilar y sistematizar electrónicamente los Acuerdos Generales, las circulares y demás disposiciones de observancia general que emitan la Presidencia del Tribunal Electoral, la Comisión de Administración y la Secretaría Administrativa y hacerlas del conocimiento de todas y todos los funcionarios del Tribunal Electoral;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 VI. Proponer y coordinar los programas de actualización y sistematización de la normativa jurídico-administrativa interna;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 VII. Llevar a cabo el trámite del registro de las obras que edite el Tribunal Electoral en materia de propiedad intelectual;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 VIII. Representar legalmente los intereses del Tribunal Electoral conforme a los poderes que le otorgue la Presidencia;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 IX. Apoyar a las áreas respectivas, en la atención de las observaciones que deriven de las auditorías realizadas por la Contraloría Interna del Tribunal Electoral, así como de la Auditoria Superior de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 X. Atender los planteamientos jurídicos de carácter administrativo que la ciudadanía formule, la Presidencia del Tribunal Electoral, así como a las otras áreas del mismo;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 XI. Recibir las quejas y denuncias presentadas por las y los trabajadores de las empresas que tengan celebrados contratos con el Tribunal Electoral, sobre violaciones a sus derechos de seguridad social; y
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 XII. Participar con las unidades administrativas que sean designadas para tal efecto por la Presidencia del Tribunal Electoral, en la formulación y revisión periódica de las políticas institucionales sobre la tutela del derecho a la no discriminación en el ámbito interno.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO I. De la Dirección General de Recursos Humanos
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 206.
+
+La Dirección General de Transparencia, Acceso a la Información y Protección de Datos Personales es la encargada de dar trámite a las solicitudes de acceso a la información y protección de datos personales, así como de vigilar el cumplimiento de las obligaciones en materia de transparencia y archivo.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 206 Bis.
+
+La Dirección General de Transparencia, Acceso a la Información y Protección de Datos Personales tiene las facultades siguientes:
+
+I. Gestionar las solicitudes de acceso a la información y de protección de datos personales y realizar los trámites internos ante las Coordinaciones, Direcciones Generales, Unidades de Apoyo y Órganos Auxiliares que integran el Tribunal Electoral para que sean atendidas en las modalidades y los plazos establecidos;
+
+II. Vigilar el cumplimiento de las obligaciones en materia de transparencia, acceso a la información y protección de datos personales;
+
+III. Coordinar las acciones necesarias para garantizar el cumplimiento de las obligaciones en materia de Transparencia;
+
+IV. Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre las dependencias o entidades, u otro órgano que pudiera contar con la información;
+
+V. Prorrogar por sí misma o a petición de las Coordinaciones, Direcciones Generales, Unidad de Apoyo u Órgano Auxiliar respectivo, el plazo establecido en la normativa aplicable para dar respuesta a solicitudes de información y de protección de datos personales, cuando exista causa justificada;
+
+VI. Evaluar y, en su caso, emitir opinión sobre la idoneidad de las respuestas e información que recaigan a las solicitudes de acceso a la información y protección de datos personales, elaboradas por las Coordinaciones, Direcciones Generales, Unidades de Apoyo y Órganos Auxiliares que integran el Tribunal Electoral, mediante la confrontación con los criterios de clasificación, sometiendo a la consideración del Comité aquellas que por su competencia deba conocer;
+
+VII. Supervisar que las Coordinaciones, Direcciones Generales, Unidades de apoyo y Órganos Auxiliares que integran el Tribunal Electoral, operen los procedimientos para la atención de las solicitudes de acceso a la información y de protección de datos personales;
+
+VIII. Comunicar oportunamente a los solicitantes las respuestas o resoluciones recaídas a sus solicitudes, verificando su recepción;
+
+IX. Llevar el registro de las solicitudes de acceso a la información y de protección de datos personales, así como sus trámites, costos y resultados;
+
+X. Presentar mensualmente a la Comisión y al Comité, ambos de Transparencia, un informe sobre:
+
+a) El número de solicitudes de acceso a la información y de protección de datos personales presentadas durante el periodo;
+
+b) Las solicitudes de prórroga de los plazos de respuesta;
+
+c) El estado de cumplimiento de las Coordinaciones, Direcciones Generales, Unidades de Apoyo y Órganos Auxiliares que integran el Tribunal Electoral, respecto de las obligaciones de transparencia, de conformidad con el principio de máxima publicidad; y
+
+d) El estado que guardan los recursos interpuestos en los términos de la normatividad en materia de Transparencia.
+
+XI. Elaborar un informe anual para presentarlo ante la Comisión de Transparencia,
+
+XII. Proponer y supervisar el desarrollo de planes y proyectos estratégicos en materia archivística;
+
+XIII. Coordinar la publicación de información en el portal de Internet de conformidad a la Ley de Transparencia;
+
+XIV. Publicar en el portal institucional los índices de información reservada en los términos de la normativa en materia de Transparencia;
+
+XV. Elaborar propuestas de acuerdos, manuales y lineamientos en materia de Transparencia, que deberán someterse a aprobación ante las instancias correspondientes;
+
+XVI. Mantener y actualizar los índices de información reservada en los términos de la normativa en materia de Transparencia;
+
+XVII. Impulsar la celebración de acuerdos de cooperación con los demás sujetos obligados por la Ley de Transparencia, y participar en las acciones institucionales de investigación, estudios, capacitación y difusión en la materia de Transparencia;
+
+XVIII. Instrumentar las disposiciones derivadas de la Sala Superior, así como de otros órganos facultados para garantizar lo dispuesto por la política institucional sobre Transparencia;
+
+XIX. Promover las actividades de capacitación y actualización profesional en materia de transparencia y archivos;
+
+XX. Actualizar, incrementar y conservar el acervo del Centro de Documentación y, en su caso, el de cada una de las Salas Regionales;
+
+XXI. Coordinar el desarrollo de las funciones, instrumentos archivísticos y demás disposiciones que establece la Ley Federal de Archivos;
+
+XXII. Coadyuvar con la Secretaría General de Acuerdos en las transferencias de expedientes judiciales de las Salas al Archivo Histórico, previa valoración y cumplimiento de su vigencia documental, de conformidad con la normativa aplicable;
+
+XXIII. Certificar los documentos que obren en el Fondo Histórico del Archivo Institucional;
+
+XXIV. Proponer la celebración de convenios de colaboración con instituciones y organismos afines, nacionales e internacionales, en materia de transparencia y acceso a la información y de archivo; y
+
+XXV. Las demás que les confieran las disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 206 Ter.
+
+El Archivo Institucional se compone por los archivos jurisdiccional y administrativo. La organización, conservación y consulta del archivo institucional se realizará con base en la metodología archivística, la normativa nacional aplicable, principalmente la Ley Federal de Archivos y la Ley de Transparencia, los estándares internacionales en la materia; así como en los acuerdos generales y lineamientos específicos que emitan la Comisión de Administración y el Comité de Transparencia, según corresponda.
+
+El Archivo Institucional del Tribunal Electoral se integra con los expedientes de archivo generados por las unidades en el ejercicio de sus funciones jurisdiccionales, académicas y administrativas y se clasifica en Archivo de Trámite, de Concentración e Histórico.
 
 ## TÍTULO TERCERO. De la Secretaría Administrativa
 
@@ -2827,25 +3059,29 @@ XXVIII. Autorizar las adecuaciones presupuestarias por aumento o disminución, d
 
 XXIX. Las demás que le confieran las disposiciones aplicables, este Reglamento, la Presidencia del Tribunal y la Comisión de Administración.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 209.
 
 Para el eficaz desempeño de sus funciones, la Secretaría Administrativa contará con las siguientes áreas de apoyo:
 
-I. Coordinación de Recursos Humanos y Enlace Administrativo;
+I. Dirección General de Recursos Humanos;
 
-II. Coordinación Financiera;
+II. Dirección General de Recursos Financieros;
 
 III. Coordinación de Adquisiciones, Servicios y Obra pública;
 
-IV. Coordinación de Protección Institucional;
+IV. Dirección General de Protección Institucional;
 
 V. Dirección General de Sistemas;
 
 VI. Dirección General de Planeación y Evaluación Institucional;
 
-VII. Dirección General de Enlace y Vinculación Social; y
+VII. Dirección General de Enlace y Vinculación Social;
 
-VIII. Dirección General de Administración Regional.
+VIII. Dirección General de Administración Regional; y
+
+IX. Dirección General de Mantenimiento y Servicios Generales.
 
 Las áreas de apoyo, de conformidad con el presupuesto autorizado, contarán con la estructura que autorice la Comisión de Administración y se orientarán por el principio de paridad de género. Las funciones de cada una de estas áreas se establecerán en los manuales de organización específicos que apruebe la citada Comisión.
 
@@ -2899,15 +3135,21 @@ VI. No haber ocupado un cargo de elección popular, ni haber sido registrada com
 
 VII. Contar, preferentemente, con experiencia en el cargo que se le encomiende.
 
-### CAPÍTULO III. De la Coordinación de Adquisiciones, Servicios y Obra Pública
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO II. De la Dirección General de Recursos Financieros
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 212.
 
-La Coordinación de Recursos Humanos y Enlace Administrativo está encargada de garantizar el adecuado funcionamiento del Sistema de Administración y Desarrollo de los Recursos Humanos del Tribunal Electoral, en concordancia con las disposiciones legales y administrativas establecidas.
+La Dirección General de Recursos Humanos está encargada de garantizar el adecuado funcionamiento del Sistema de Administración y Desarrollo de los Recursos Humanos del Tribunal Electoral, en concordancia con las disposiciones legales y administrativas establecidas.
 
 ###### Artículo 213.
 
-La persona titular de la Coordinación de Recursos Humanos y Enlace Administrativo tendrá las facultades siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+La persona titular de la Dirección General de Recursos Humanos tendrá las facultades siguientes:
 
 I. Planear, organizar, dirigir y evaluar el funcionamiento de las áreas de apoyo de su adscripción, de acuerdo con las disposiciones aplicables;
 
@@ -2941,15 +3183,19 @@ XV. Participar en los Comités que le instruya la Secretaría Administrativa; y
 
 XVI. Elaborar constancias, efectuar cotejos, expedir todo tipo de certificaciones relacionadas con los expedientes del personal que labore en el Tribunal Electoral, así como de todo documento que se incorpore al mismo.
 
-### CAPÍTULO IV. De la Coordinación de Protección Institucional
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO III. De la Coordinación de Adquisiciones, Servicios y Obra Pública
 
 ###### Artículo 214.
 
-La Coordinación Financiera está encargada de planear, dirigir, coordinar, controlar e integrar los programas, el presupuesto, las ministraciones de fondos, el ejercicio del gasto y la inversión de los recursos financieros del Tribunal Electoral, así como el registro contable de las operaciones, verificando que estos procesos se apeguen al marco normativo vigente.
+La Dirección General de Recursos Financieros está encargada de planear, dirigir, coordinar, controlar e integrar los programas, el presupuesto, las ministraciones de fondos, el ejercicio del gasto y la inversión de los recursos financieros del Tribunal Electoral, así como el registro contable de las operaciones, verificando que estos procesos se apeguen al marco normativo vigente.
 
 ###### Artículo 215.
 
-La persona titular de la Coordinación Financiera tendrá las facultades siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+La persona titular de la Dirección General de Recursos Financieros tendrá las facultades siguientes:
 
 I. Coordinar los procesos para la planeación, administración, asignación, ejecución y control de los recursos financieros autorizados, para el cumplimiento de las tareas asignadas a la Sala Superior y las Salas Regionales;
 
@@ -2959,7 +3205,9 @@ III. Coordinar la elaboración de los informes relativos a la Cuenta de la Hacie
 
 IV. Revisar, suscribir y autorizar la documentación referente a la presupuestación, finanzas, tesorería, contabilidad y estados financieros del Tribunal Electoral;
 
-V. Coordinar la elaboración e integración del Anteproyecto, el Proyecto y el Presupuesto de Egresos del Tribunal Electoral, así como el Programa Anual de Trabajo y del Programa Anual de Ejecución de las áreas que integran la Coordinación Financiera e informar a la persona titular de la Secretaría Administrativa de los resultados y avances obtenidos de su aplicación;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+V. Coordinar la elaboración e integración del Anteproyecto, el Proyecto y el Presupuesto de Egresos del Tribunal Electoral, así como el Programa Anual de Trabajo y del Programa Anual de Ejecución de las áreas que integran la Dirección General de Recursos Financieros e informar a la persona titular de la Secretaría Administrativa de los resultados y avances obtenidos de su aplicación;
 
 VI. Vigilar el ejercicio oportuno del presupuesto del Tribunal Electoral, al igual que el flujo de recursos financieros relativos al mismo, procurando que los calendarios de ejecución del gasto guarden congruencia con los compromisos y metas establecidos en los programas anuales de trabajo y el programa anual de ejecución de adquisiciones, arrendamientos, prestación de servicios y obra pública;
 
@@ -2979,7 +3227,9 @@ XIII. Coadyuvar en el cumplimiento del pago de las contribuciones, incluyendo la
 
 XIV. Coordinar, autorizar y vigilar la realización de los procesos relacionados con los ingresos y egresos del Tribunal Electoral, que permitan una administración eficiente de los recursos financieros, a fin de determinar la disponibilidad diaria y, en su caso, aprobar la inversión de excedentes de Tesorería;
 
-XV. Proponer la optimización de los sistemas informáticos con que cuenta la Coordinación o que se desarrollen para la misma;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XV. Proponer la optimización de los sistemas informáticos con que cuenta la Dirección General o que se desarrollen para la misma;
 
 XVI. Proponer los procesos para la guarda y custodia del archivo financiero, contable y presupuestal del Tribunal;
 
@@ -2999,21 +3249,27 @@ XXIII. Solicitar en el ámbito de su competencia, las gestiones para la recupera
 
 XXIV. Efectuar las gestiones para el pago de diversos conceptos diferentes a los contemplados en la nómina de las y los servidores públicos del Tribunal, en caso de que la cuenta de deudores diversos refleje saldos a favor, una vez que concluyan su relación laboral.
 
-### CAPÍTULO V. De la Dirección General de Sistemas
+### CAPÍTULO IV. De la Dirección General de Protección Institucional
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 216.
 
-La Coordinación de Adquisiciones, Servicios y Obra Pública se encarga de la administración de los recursos materiales, de mantenimiento, servicios generales y obra pública; así como de los programas y acciones integrales en el ámbito de su competencia, para atender las necesidades del Tribunal Electoral.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+La Coordinación de Adquisiciones, Servicios y Obra Pública se encarga de la administración de los recursos materiales, servicios y obra pública; así como de los programas y acciones integrales en el ámbito de su competencia, para atender las necesidades del Tribunal Electoral.
 
 El personal de la Coordinación que de acuerdo a la normativa interna intervenga en los procedimientos de adquisición de bienes, la contratación de servicios, el arrendamiento de bienes muebles, la obra pública y los servicios relacionados con la misma será designado previo proceso de certificación y su desempeño será evaluado cada año, a efecto de ratificarlos en el puesto.
 
 La Comisión emitirá los lineamientos que contendrán los procesos de designación, certificación y evaluación del desempeño.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 217.
 
 La persona titular de la Coordinación de Adquisiciones, Servicios y Obra Pública tendrá las facultades siguientes:
 
-I. Supervisar, controlar y garantizar que los programas, recursos y facultades encomendadas a sus áreas de apoyo se ajusten a las leyes, reglamentos y demás disposiciones jurídicas en materia de adquisiciones, de bienes y servicios, arrendamiento de bienes muebles e inmuebles, prestación de servicios, obra pública y servicios relacionados con la misma, requeridos para el buen funcionamiento del Tribunal Electoral;
+I. Supervisar, controlar y garantizar que los programas, recursos y facultades encomendadas se ajusten a las leyes, reglamentos y demás disposiciones jurídicas en materia de adquisiciones, de bienes y servicios, arrendamiento de bienes muebles e inmuebles, prestación de servicios, obra pública y servicios relacionados con la misma, requeridos para el buen funcionamiento del Tribunal Electoral;
 
 II. Coordinar la elaboración del Programa Anual de Ejecución de Adquisiciones, Arrendamientos, Prestación de Servicios y Obra Pública del Tribunal Electoral, y someterlos a la aprobación de la persona titular de la Secretaría Administrativa y de la Comisión de Administración;
 
@@ -3021,27 +3277,25 @@ III. Autorizar en el ámbito de su competencia, los contratos, requisiciones, pe
 
 IV. Coordinar la asignación y uso de los equipos celulares, de radiocomunicación e Internet móvil, de conformidad con su regulación normativa;
 
-V. Coordinar el funcionamiento y control de los bienes que maneja el almacén general de la sede del Tribunal Electoral, así como, del patrimonio inmobiliario;
+V. Coordinar la elaboración y vigilar que el Programa Anual de Ejecución de Obra Pública y Servicios Relacionados con la misma, con su respectivo presupuesto, se ejecute en tiempo y forma, adoptando las medidas preventivas y correctivas para su eficaz cumplimiento;
 
-VI. Supervisar la asignación y uso de los vehículos oficiales y cajones de estacionamiento, de acuerdo a los lineamientos establecidos;
+VI. Participar en los Comités que le instruya la Secretaría Administrativa; y
 
-VII. Coordinar las acciones y programas que permitan otorgar mantenimiento oportuno, eficiente y de calidad a los bienes y servicios del Tribunal Electoral;
+VII. Autorizar solicitudes de recursos financieros y cheques para los diversos pagos que emanan de las adquisiciones, arrendamientos, prestación de servicios, obra pública y demás conceptos que le encomiende la persona titular de la Secretaría Administrativa y por atribución de la regulación competente.
 
-VIII. Coordinar la elaboración y vigilar que el Programa Anual de Ejecución de Obra Pública y Servicios Relacionados con la misma, con su respectivo presupuesto, se ejecute en tiempo y forma, adoptando las medidas preventivas y correctivas para su eficaz cumplimiento;
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-IX. Participar en los Comités que le instruya la Secretaría Administrativa; y
-
-X. Autorizar solicitudes de recursos financieros y cheques para los diversos pagos que emanan de las adquisiciones, arrendamientos, prestación de servicios, obra pública y demás conceptos que le encomiende la persona titular de la Secretaría Administrativa y por atribución de la regulación competente.
-
-### CAPÍTULO VI. De la Dirección General de Planeación y Evaluación Institucional
+### CAPÍTULO V. De la Dirección General de Sistemas
 
 ###### Artículo 218.
 
-La Coordinación de Protección Institucional está encargada de garantizar el funcionamiento de los sistemas de seguridad, vigilancia y protección implementados en el Tribunal Electoral, para la salvaguarda y custodia de su personal y de los bienes en posesión de la institución, así como de las personas que se encuentren en sus instalaciones.
+La Dirección General de Protección Institucional está encargada de garantizar el funcionamiento de los sistemas de seguridad, vigilancia y protección implementados en el Tribunal Electoral, para la salvaguarda y custodia de su personal y de los bienes en posesión de la institución, así como de las personas que se encuentren en sus instalaciones.
 
 ###### Artículo 219.
 
-La persona titular de la Coordinación de Protección Institucional tendrá las facultades siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+La persona titular de la Dirección General de Protección Institucional tendrá las facultades siguientes:
 
 I. Asegurar el cumplimiento de la normativa aplicable en materia de protección institucional, con base en el desarrollo de programas y acciones;
 
@@ -3061,9 +3315,13 @@ VIII. Establecer estrategias para prevenir y combatir la comisión de delitos en
 
 IX. Establecer las medidas que resulten necesarias ante una contingencia;
 
-X. Participar en el proceso de reclutamiento y selección del personal que se adscribirá a la Coordinación de Protección Institucional bajo esquemas de control de confianza, para estar en condiciones de elaborar el dictamen que justifique y fundamente razones para el movimiento, además de participar en la evaluación periódica que se practique para la permanencia con óptimos niveles de confiabilidad;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-XI. Organizar la formación, capacitación y desarrollo técnico operativo para el personal de la Coordinación de Protección Institucional e integrantes de la Unidad Interna de Protección Civil, para fortalecer las habilidades y capacidades requeridas para el desempeño de sus funciones;
+X. Participar en el proceso de reclutamiento y selección del personal que se adscribirá a la Dirección General de Protección Institucional bajo esquemas de control de confianza, para estar en condiciones de elaborar el dictamen que justifique y fundamente razones para el movimiento, además de participar en la evaluación periódica que se practique para la permanencia con óptimos niveles de confiabilidad;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+XI. Organizar la formación, capacitación y desarrollo técnico operativo para el personal de la Dirección General de Protección Institucional e integrantes de la Unidad Interna de Protección Civil, para fortalecer las habilidades y capacidades requeridas para el desempeño de sus funciones;
 
 XII. Planear, analizar, evaluar y proponer a la persona titular de la Secretaría Administrativa, la implementación de planes y medidas de seguridad necesarios para garantizar la seguridad y la integridad física dentro del Tribunal Electoral, de su personal;
 
@@ -3071,7 +3329,7 @@ XIII. Resguardar el orden en las instalaciones del Tribunal Electoral y contribu
 
 XIV. Controlar el acceso y salida de las instalaciones del Tribunal Electoral.
 
-### CAPÍTULO VII. De la Dirección General de Enlace y Vinculación Social
+### CAPÍTULO VI. De la Dirección General de Planeación y Evaluación Institucional
 
 ###### Artículo 220.
 
@@ -3107,7 +3365,7 @@ XII. Colaborar con la Coordinación de Comunicación Social y la Coordinación d
 
 XIII. Coadyuvar con la Visitaduría Judicial o con la Contraloría Interna, en el ámbito de sus facultades.
 
-### CAPÍTULO VIII. De la Dirección General de Administración Regional
+### CAPÍTULO VII. De la Dirección General de Enlace y Vinculación Social
 
 ###### Artículo 222.
 
@@ -3131,7 +3389,7 @@ VI. Coordinar la elaboración y presentación de documentos internos sobre las p
 
 VII. Coordinar la elaboración de la estructura orgánica del Tribunal Electoral, de conformidad con la normativa establecida en la materia.
 
-### CAPÍTULO I. De los Órganos
+### CAPÍTULO VIII. De la Dirección General de Administración Regional
 
 ###### Artículo 224.
 
@@ -3159,7 +3417,9 @@ VIII. Determinar, formular y presentar a la Secretaría Administrativa su respec
 
 IX. Elaborar y presentar los informes de actividades con la periodicidad que le sean requeridos.
 
-### CAPÍTULO II. De la Comisión de Transparencia, Acceso a la Información y Protección de Datos Personales
+### CAPÍTULO IX. De la Dirección General de Mantenimiento y Servicios Generales
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 226.
 
@@ -3183,11 +3443,41 @@ VI. Asesorar a las personas titulares de las Delegaciones Administrativas de las
 
 VII. Coordinar la elaboración y, en su caso, actualización del Manual de Organización Específico de las Delegaciones Administrativas de las Salas Regionales, así como de los lineamientos y procedimientos que regulen el funcionamiento de éstas.
 
-### CAPÍTULO III. Del Comité de Transparencia y Acceso a la Información
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO I. De los Órganos
+
+###### Artículo 227 Bis.
+
+La Dirección General de Mantenimiento y Servicios Generales es el área encargada de prestar los servicios de mantenimiento preventivo y correctivo a las instalaciones, maquinaria, equipo y parque vehicular; realizar los servicios auxiliares requeridos por las diversas unidades administrativas; así como llevar el control del almacén general del Tribunal Electoral.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 227 Ter.
+
+La persona titular de la Dirección General de Mantenimiento y Servicios Generales tendrá las facultades siguientes:
+
+I. Recabar y concentrar las solicitudes en materia de mantenimiento y adecuaciones menores de las áreas del Tribunal Electoral;
+
+II. Supervisar y, en su caso, coordinar las acciones tendentes al buen funcionamiento de los bienes muebles; así como de los servicios institucionales a su cargo;
+
+III. Proponer, implementar y ejecutar programas de intendencia y mantenimiento preventivo y correctivo de los bienes muebles e inmuebles;
+
+IV. Prestar los servicios de mensajería, fotocopiado, engargolado, control vehicular, estacionamientos y combustible;
+
+V. Abastecer oportunamente a las áreas jurídicas y administrativas los bienes de consumo y de mobiliario y equipo, así como, salvaguardar los bienes existentes en el almacén;
+
+VI. Controlar los activos de mobiliario y equipo de administración que integran el patrimonio del Tribunal Electoral;
+
+VII. Realizar los procedimientos de desincorporación de bienes y desechos con apego a la norma que tienden a optimizar los recursos disponibles en bienes y espacios; y
+
+VIII. Llevar el registro y la actualización del inventario de bienes del Tribunal Electoral.
 
 ## TÍTULO CUARTO. De los Órganos de Transparencia, Acceso a la Información y Protección de Datos Personales
 
-### CAPÍTULO IV. De la Unidad de Enlace
+### CAPÍTULO II. De la Comisión de Transparencia, Acceso a la Información y Protección de Datos Personales
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 228.
 
@@ -3201,21 +3491,23 @@ III. La Comisión de Transparencia;
 
 IV. El Comité de Transparencia;
 
-V. La Coordinación de Información, Documentación y Transparencia;
+V. (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 2016)
 
-VI. La Unidad de Enlace;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-VII. Las Coordinaciones, Unidades de Apoyo y Órganos Auxiliares que integran el Tribunal Electoral; y
+VI. La Unidad de Transparencia;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+VII. Las Coordinaciones, Direcciones Generales, Unidades de Apoyo y Órganos Auxiliares que integran el Tribunal Electoral; y
 
 VIII. Las Salas Regionales.
 
-### CAPÍTULO ÚNICO. Del Procedimiento de Reforma
+### CAPÍTULO III. Del Comité de Transparencia y Acceso a la Información
 
 ###### Artículo 229.
 
-La Comisión de Transparencia, es la instancia encargada de supervisar el cumplimiento de las disposiciones constitucionales, legales y reglamentarias, en materia de transparencia, acceso a la información y protección de datos personales del Tribunal Electoral, así como el órgano revisor de las determinaciones en la materia, emitidas por el Comité de Transparencia y por la Unidad de Enlace.
-
-La integración de esta Comisión se orientará por el principio de paridad y contará con alguno o más con trayectoria y experiencia en temas de género.
+La Comisión de Transparencia, es la instancia encargada de supervisar el cumplimiento de las disposiciones constitucionales, legales y reglamentarias, en materia de transparencia, acceso a la información y protección de datos personales del Tribunal Electoral, así como el órgano revisor de las determinaciones en la materia, emitidas por el Comité de Transparencia y por la Unidad de Transparencia.
 
 ###### Artículo 230.
 
@@ -3241,7 +3533,9 @@ II. Conocer y resolver de manera definitiva e inatacable los recursos de revisi�
 
 III. Someter a consideración de la Presidencia del Tribunal Electoral la adopción de medidas para la oportuna ejecución de las actividades del Comité de Transparencia y, en su caso, ser el conducto para hacer del conocimiento de la Comisión de Administración los requerimientos materiales para su realización;
 
-IV. Vigilar, por conducto de la Unidad de Enlace, que se ponga oportunamente a disposición del público la información del Tribunal Electoral, así como su actualización. Para ello, realizará las acciones necesarias para verificar que las coordinaciones, áreas de apoyo y órganos auxiliares del Tribunal Electoral, cumplan con las obligaciones derivadas de la materia, de conformidad con el principio de máxima publicidad;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+IV. Vigilar, por conducto de la Unidad de Transparencia, que se ponga oportunamente a disposición del público la información del Tribunal Electoral, así como su actualización. Para ello, realizará las acciones necesarias para verificar que las coordinaciones, áreas de apoyo y órganos auxiliares del Tribunal Electoral, cumplan con las obligaciones derivadas de la materia, de conformidad con el principio de máxima publicidad;
 
 V. Hacer del conocimiento de la Comisión de Administración, las presuntas infracciones a la normativa en materia de transparencia, o a este Reglamento, a efecto de que resuelva las quejas en los términos del artículo 209, fracción XIII de la Ley Orgánica, sin perjuicio de los procedimientos respectivos;
 
@@ -3261,6 +3555,8 @@ III. Elaborar y suscribir las actas de las sesiones, llevando el control y segui
 
 IV. Las demás que les confieran las disposiciones aplicables.
 
+### CAPÍTULO IV
+
 ###### Artículo 233.
 
 El Comité de Transparencia, es la instancia encargada de coordinar las acciones necesarias para dar cumplimiento a las disposiciones aplicables en materia de transparencia, acceso a la información y protección de datos personales del Tribunal Electoral.
@@ -3273,13 +3569,19 @@ I. La persona titular de la Secretaría General, quien lo presidirá;
 
 II. La persona titular de la Secretaría Administrativa, y
 
-III. La persona titular de la Coordinación de Información, Documentación y Transparencia.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-La persona titular de la Unidad de Enlace ocupará la Secretaría Técnica del Comité de Transparencia y sólo tiene derecho de voz.
+III. La persona titular de la Dirección General de Transparencia, Acceso a la Información y Protección de Datos Personales.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+La persona titular de la Dirección de Enlace y Transparencia ocupará la Secretaría Técnica del Comité de Transparencia y sólo tiene derecho de voz.
 
 La persona que ocupe la Secretaría Técnica será asistida en sus funciones y suplida en sus ausencias por otra persona designada por el Comité de Transparencia.
 
-La Presidencia del Comité de Transparencia puede convocar a sus sesiones a las personas titulares de las Coordinaciones, unidades de apoyo y órganos auxiliares que integran el Tribunal Electoral, cuando se trate algún asunto relacionado con la información de las mismas, quienes únicamente tendrán derecho de voz.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+La Presidencia del Comité de Transparencia puede convocar a sus sesiones a las personas titulares de las Coordinaciones, Direcciones Generales, unidades de apoyo y órganos auxiliares que integran el Tribunal Electoral, cuando se trate algún asunto relacionado con la información de las mismas, quienes únicamente tendrán derecho de voz.
 
 ###### Artículo 235.
 
@@ -3295,11 +3597,17 @@ IV. Aprobar los procedimientos que aseguren la mayor eficiencia en la gestión d
 
 V. Emitir e instruir la aplicación de los criterios de clasificación, desclasificación y custodia de la información reservada y confidencial; así como sistematizarlos;
 
-VI. Confirmar, modificar o revocar la clasificación de información que realicen las Coordinaciones, Unidades de Apoyo y Órganos Auxiliares que integran el Tribunal Electoral;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
 
-VII. Confirmar o revocar la determinación de inexistencia de información de las Coordinaciones, Unidades de Apoyo y Órganos Auxiliares que integran el Tribunal Electoral, para lo cual podrá, en casos extraordinarios y según los lineamientos aplicables, acceder a y localizar los documentos administrativos en donde pueda obrar la información solicitada;
+VI. Confirmar, modificar o revocar la clasificación de información que realicen las Coordinaciones, Direcciones Generales, Unidades de Apoyo y Órganos Auxiliares que integran el Tribunal Electoral;
 
-VIII. Solicitar a la Unidad de Enlace que se lleven a cabo las acciones necesarias para que se cumpla con la resolución recaída a la solicitud de acceso a la información;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+VII. Confirmar o revocar la determinación de inexistencia de información de las Coordinaciones, Direcciones Generales, Unidades de Apoyo y Órganos Auxiliares que integran el Tribunal Electoral, para lo cual podrá, en casos extraordinarios y según los lineamientos aplicables, acceder a y localizar los documentos administrativos en donde pueda obrar la información solicitada;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+VIII. Solicitar a la Unidad de Transparencia que se lleven a cabo las acciones necesarias para que se cumpla con la resolución recaída a la solicitud de acceso a la información;
 
 IX. Supervisar la aplicación de los criterios específicos para el Tribunal Electoral, en materia de clasificación y conservación de los documentos administrativos, así como la organización de archivos, de conformidad con los lineamientos expedidos;
 
@@ -3307,43 +3615,17 @@ X. Elaborar un informe anual y remitirlo a la Comisión de Transparencia, y
 
 XI. Las demás que les confieran las disposiciones aplicables.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO ÚNICO. Del Procedimiento de Reforma
+
 ###### Artículo 236.
 
-La Unidad de Enlace es la instancia operativa adscrita a la Coordinación de Información, Documentación y Transparencia, encargada de dar trámite a las solicitudes de acceso a la información y protección de datos personales, así como de vigilar el cumplimiento de las obligaciones en materia de transparencia.
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2016)
 
 ###### Artículo 237.
 
-La Unidad de Enlace tiene las facultades siguientes:
-
-I. Gestionar las solicitudes de acceso a la información y de protección de datos personales y realizar los trámites internos ante las Coordinaciones, Unidades de Apoyo y Órganos Auxiliares que integran el Tribunal Electoral para que sean atendidas en las modalidades y los plazos establecidos;
-
-II. Vigilar el cumplimiento de las obligaciones en materia de transparencia, acceso a la información y protección de datos personales;
-
-III. Auxiliar a los particulares en la elaboración de solicitudes y, en su caso, orientarlos sobre las dependencias o entidades, u otro órgano que pudiera contar con la información;
-
-IV. Prorrogar por sí misma o a petición de la Coordinación, Unidad de Apoyo u Órgano Auxiliar respectivo, el plazo establecido en la normativa aplicable para dar respuesta a solicitudes de información y de protección de datos personales, cuando exista causa justificada;
-
-V. Evaluar y, en su caso, emitir opinión sobre la idoneidad de las respuestas e información que recaigan a las solicitudes de acceso a la información y protección de datos personales, elaboradas por las Coordinaciones, Unidades de Apoyo y Órganos Auxiliares que integran el Tribunal Electoral, mediante la confrontación con los criterios de clasificación, sometiendo a la consideración del Comité aquellas que por su competencia deba conocer;
-
-VI. Supervisar que las Coordinaciones, Unidades de apoyo y Órganos Auxiliares que integran el Tribunal Electoral, operen los procedimientos para la atención de las solicitudes de acceso a la información y de protección de datos personales;
-
-VII. Comunicar oportunamente a los solicitantes las respuestas o resoluciones recaídas a sus solicitudes, verificando su recepción;
-
-VIII. Llevar el registro de las solicitudes de acceso a la información y de protección de datos personales, así como sus trámites, costos y resultados;
-
-IX. Presentar mensualmente a la Comisión y al Comité, ambos de Transparencia, un informe sobre:
-
-a) El número de solicitudes de acceso a la información y de protección de datos personales presentadas durante el periodo;
-
-b) Las solicitudes de prórroga de los plazos de respuesta;
-
-c) El estado de cumplimiento de las Coordinaciones, Unidades de Apoyo y Órganos Auxiliares que integran el Tribunal Electoral, respecto de las obligaciones de transparencia, de conformidad con el principio de máxima publicidad; y
-
-d) El estado que guardan los recursos interpuestos en los términos de la normatividad en materia de Transparencia.
-
-X. Elaborar un informe anual para presentarlo ante la Comisión de Transparencia, y
-
-XI. Las demás que les confieran las disposiciones aplicables.
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2016)
 
 ## TÍTULO QUINTO. De las Reformas al Reglamento
 
@@ -3400,3 +3682,9 @@ PRIMERO. Las presentes reformas y adiciones entrarán en vigor a partir del día
 SEGUNDO. Se derogan las disposiciones que se opongan a las presentes reformas y adiciones.
 
 TERCERO. Publíquense las presentes reformas y adiciones en el Diario Oficial de la Federación y en la Gaceta de Jurisprudencia y Tesis en Materia Electoral.
+
+D.O.F. 29 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS Y ADICIONES AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.
