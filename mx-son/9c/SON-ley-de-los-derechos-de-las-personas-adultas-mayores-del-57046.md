@@ -4,7 +4,7 @@ identifier: "SON-ley-de-los-derechos-de-las-personas-adultas-mayores-del-57046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-07"
-last_updated: "2016-12-22"
+last_updated: "2016-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE SONORA ANTES - LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE DICIEMBRE DE 2016 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS ADULTOS MAYORES DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 29 DE DICIEMBRE DE 2016.]</small>
 
 Ley publicada en la Edición Especial 14 al Boletín Oficial del Estado de Sonora, el viernes 7 de septiembre de 2007.
 
@@ -1311,11 +1311,57 @@ XV.- Asegurar se coadyuve con las instancias competentes cuando un adulto mayor 
 
 XVI.- Las demás que le sean encomendadas por el Procurador, y aquellas señaladas en las disposiciones legales aplicables.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 99, PUBLICADO EN EL B.O. DE 22 DE DICIEMBRE DE 2016, PÁGINA 13.]</small>
-
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
-ARTÍCULO 63 BIS 1.- El Subprocurador de Prevención, Promoción e Integración Social tendrá las siguientes facultades y obligaciones: (sic)
+ARTÍCULO 63 BIS 1.- El Subprocurador de Prevención, Promoción e Integración Social tendrá las siguientes facultades y obligaciones:
+
+> <small>(F. DE E., B.O. 29 DE DICIEMBRE DE 2016)</small>
+
+I.- Realizar y promover programas de asistencia, protección, provisión, prevención, participación y atención a adultos mayores;
+
+> <small>(F. DE E., B.O. 29 DE DICIEMBRE DE 2016)</small>
+
+II.- Establecer convenios en los tres órdenes de gobierno, y sectores social y privado para realizar programas de provisión, prevención, participación y atención al adulto mayor;
+
+> <small>(F. DE E., B.O. 29 DE DICIEMBRE DE 2016)</small>
+
+III.- Realizar acciones que impulsen el bienestar familiar y la atención integral de los adultos mayores;
+
+> <small>(F. DE E., B.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IV.- Promover programas de reconocimiento y estímulo a las personas físicas o morales que se distingan por brindar apoyo a las personas adultas mayores;
+
+> <small>(F. DE E., B.O. 29 DE DICIEMBRE DE 2016)</small>
+
+V.- Coordinar acciones y programas para la promoción y difusión de los derechos de los adultos mayores;
+
+> <small>(F. DE E., B.O. 29 DE DICIEMBRE DE 2016)</small>
+
+VI.- Desarrollar y establecer programas de difusión de obligaciones de la familia, a través de los cuales se reconozca a la familia como la piedra angular para la protección y desarrollo de los adultos mayores;
+
+> <small>(F. DE E., B.O. 29 DE DICIEMBRE DE 2016)</small>
+
+VII.- Formular y ejecutar programas de promoción, educación y fomento a la salud física, mental, psicoemocional y sexual del adulto mayor, para obtener un mejoramiento en la calidad de vida;
+
+> <small>(F. DE E., B.O. 29 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Establecer programas de capacitación y orientación en materia de salud, nutrición e higiene del adulto mayor para favorecer su cuidado personal;
+
+> <small>(F. DE E., B.O. 29 DE DICIEMBRE DE 2016)</small>
+
+IX.- Concertar estrategias que fomenten programas de educación, recreación, información y participación social del adulto mayor, a través de instituciones y organizaciones;
+
+> <small>(F. DE E., B.O. 29 DE DICIEMBRE DE 2016)</small>
+
+X.- Establecer y coordinar acciones que brinden oportunidades de acceso a una vida laboral digna para los adultos mayores;
+
+> <small>(F. DE E., B.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XI.- Establecer e impulsar programas de asistencia social para adultos mayores en situación de riesgo, desamparo, discapacidad o pérdida de los medios de subsistencia, a fin de garantizar una atención integral; y
+
+> <small>(F. DE E., B.O. 29 DE DICIEMBRE DE 2016)</small>
+
+XII.- Las demás que le sean encomendadas por el Procurador y aquellas señaladas en las disposiciones legales aplicables.
 
 > <small>(ADICIONADO, B.O. 9 DE ENERO DE 2014)</small>
 
