@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2016-12-16"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -883,7 +883,7 @@ VIII.- Expedir el Bando Solemne para dar a conocer en el Municipio respectivo la
 
 > <small>(REFORMADA, P.O. 31 DE ENERO DE 1984)</small>
 
-IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga.
+IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga;
 
 > <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 1994)</small>
 
@@ -891,7 +891,7 @@ X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2011)</small>
 
-XI.- Examinar, discutir, modificar, aumentar, reducir y aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, en los términos de la ley de la materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos;
+XI.- Examinar, discutir, modificar, aumentar, reducir y aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, en los términos de la ley de la materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos.
 
 > <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2009)</small>
 
@@ -1536,6 +1536,10 @@ La representación del Poder Judicial estará a cargo del Presidente del Tribuna
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2008)</small>
 
 El Presidente del Tribunal Superior de Justicia, el segundo jueves del mes de octubre, remitirá al Congreso del Estado un informe general, por escrito, del estado que guarde la Administración de Justicia en la entidad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Las sesiones del Pleno del Tribunal Superior de Justicia, deberán ser públicas; transmitidas a través de su portal de Internet; transcritas literalmente en versiones taquigráficas; grabadas en audio y video y ser consideradas tanto las versiones taquigráficas y las grabaciones como información de oficio para efectos de la ley, respetando en todo momento la protección de datos personales y el principio de confidencialidad.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2012)</small>
 
@@ -4375,6 +4379,12 @@ P.O. 16 DE DICIEMBRE DE 2016.
 
 P.O. 16 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 17 MEDIANTE EL CUAL SE INCORPORA LA REFORMA AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 17 MEDIANTE EL CUAL SE INCORPORA LA REFORMA AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 45 MEDIANTE EL CUAL SE INCORPORA LA ADICIÓN DE UN QUINTO PÁRRAFO AL ARTÍCULO 57 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
