@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-proteccion-a-los-animales-para-el-estado-de-puebla-73025
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-27"
-last_updated: "2014-08-04"
+last_updated: "2016-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el miércoles 27 de enero de 2010.
 
@@ -705,9 +705,11 @@ II.- Clausura provisional de los establecimientos o instalaciones donde se detec
 
 III.- Cualquier acción legal análoga que permita la protección de los animales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 78.
 
-Procede el aseguramiento provisional de animales cuando:
+Procede el aseguramiento precautorio de animales cuando:
 
 I- Cuando muestren signos o hayan sido objeto de crueldad o maltrato graves;
 
@@ -783,9 +785,11 @@ V.- La reincidencia, si la hubiere.
 
 La negligencia, la incompetencia y la violación de las disposiciones de esta Ley por parte de quien ejerza la profesión de Médico Veterinario Zootecnista, independientemente de la responsabilidad civil, penal o administrativa en que incurra, ameritará amonestación, multa y hasta la suspensión del ejercicio profesional en términos de las disposiciones relativas al ejercicio profesional del Estado de Puebla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 87.
 
-Procede el decomiso en todos los casos que ameritan aseguramiento provisional, cuando concurra alguna de las siguientes circunstancias:
+Procede el decomiso en todos los casos que ameritan aseguramiento precautorio, cuando concurra alguna de las siguientes circunstancias:
 
 I.- Que a juicio de la autoridad, la posesión del animal importe riesgo inminente de su muerte;
 
@@ -793,9 +797,17 @@ II.- Cuando se acredite plenamente su utilidad para la comisión de delitos;
 
 III.- Cuando se trate de animales sujetos a régimen de protección especial y su posesión no se encuentre autorizada por la autoridad federal;
 
-IV.- Cuando por la fiereza natural y extrema del animal se produzcan lesiones a seres humanos, o
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-V.- Cuando la enfermedad transmisible portada por el animal sea irreversible o incurable.
+IV.- Cuando por la fiereza natural y extrema del animal se produzcan lesiones a seres humanos;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+V.- Cuando la enfermedad transmisible portada por el animal sea irreversible o incurable, o
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VI.- Se enajenen o exploten en la vía pública.
 
 ###### ARTÍCULO 88.
 
@@ -968,3 +980,11 @@ PRIMERO.- El presente Decreto entrará en vigor al año de su publicación en el
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Dentro del plazo de tres meses siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos de los Municipios del Estado deberán adecuar la reglamentación en la materia.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ACÁPITE DEL ARTÍCULO 78, EL ACÁPITE Y LAS FRACCIONES IV Y V DEL 87, Y ADICIONA LA FRACCIÓN VI AL 87, DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
