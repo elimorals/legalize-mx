@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-registro-publico-de-la-propiedad-y-de-comercio-para-472
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2016-10-07"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 2 de diciembre de 2005.
 
@@ -43,11 +43,15 @@ LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO PARA EL ESTADO DE BAJA C
 
 La presente Ley es de orden público, de observancia obligatoria en el Estado de Baja California, y tiene por objeto establecer las disposiciones legales que regularán la actividad registral, que al efecto ejecute el Registro Público de la Propiedad y de Comercio.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 2.
 
-El Registro Público de la Propiedad y de Comercio es la institución responsable de realizar la actividad registral en el Estado, que tiene como función dar publicidad a los actos jurídicos que así lo requieran para que surta eficacia ante terceros en los términos de ley, haciendo constar de manera veraz y exacta aquellos que se inscriban, asienten o anoten en su archivo, utilizando las formas precodificadas e imágenes que la Dirección autorice, por lo que podrán ser materia de registro los actos, convenios y contratos relacionados con derechos reales o personales, en cuanto a su constitución, transmisión, modificación, afectación y extinción, así como la constitución de personas morales, y todos aquellos que deban inscribirse en materia de comercio.
+El Registro Público de la Propiedad y de Comercio es la institución responsable de realizar la actividad registral en el Estado y dar publicidad a la situación jurídica de bienes y derechos; así como, a los actos jurídicos que lo requieran para surtir eficacia ante terceros en los términos de ley, a fin de otorgar certeza y seguridad jurídica a los mismos.
+
+Podrán ser materia de registro los actos, convenios y contratos relacionados con derechos reales o personales, en cuanto a su constitución, transmisión, modificación, afectación y extinción; así como, la constitución de personas morales y todos aquellos que deban inscribirse en materia de comercio.
+
+Toda inscripción, anotación o asiento registral se hará constar de manera veraz y exacta en su archivo, utilizando las bases de datos, formas precodificadas e imágenes que esta Ley y su Reglamento autoricen.
 
 ###### ARTÍCULO 3.
 
@@ -65,13 +69,17 @@ V. Director.- Director General del Registro Público de la Propiedad y de Comerc
 
 VI. Firma electrónica.- Los datos en forma electrónica consignados en un mensaje de datos o adjuntados o lógicamente asociados al mismo por cualquier tecnología, que son utilizados para identificar al firmante en relación con el mensaje de datos e indicar que este aprueba el contenido de dicha información, aceptando que produce los mismos efectos jurídicos que la firma autógrafa;
 
-VII. Inscripción.- Es el acto por medio del cual, el Registrador o Subregistrador observando las formalidades legales, incorpora en el libro, o archivo electrónico correspondiente del Registro Público el título en donde conste el derecho real o personal, dejando constancia de su existencia;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VII. Inscripción: Es el acto por medio del cual, el Registrador o Subregistrador observando las formalidades legales, incorpora en el folio o archivo electrónico correspondiente del Registro Público el título y sus requisitos formales en donde conste el derecho real o personal, dejando constancia de su existencia, tomando como base la finca o la persona moral.
 
 VIII. Inscripción preventiva.- Es la inscripción que hace el registrador de un acto jurídico, indicando la fecha en que se hizo la solicitud de registro, misma que queda sujeta a inscripción definitiva ya sea, según el caso, por la presentación del instrumento que la confirma o de la resolución de la autoridad que lo ordena;
 
 IX. Mensaje de datos.- La información contenida, generada, enviada, recibida, o archivada por medios electrónicos, ópticos o cualquier otra tecnología;
 
-X. Partida.- Es el número de identificación único asignado por el registrador o subregistrador al expediente que contiene el derecho real o personal;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+X. Partida: Es el número de identificación único asignado por el Registrador o Subregistrador al expediente que contiene el derecho real o personal, y que se asienta en un folio electrónico determinado y está vinculado a este.
 
 XI. Registro Público.- La Dirección del Registro Público de la Propiedad y de Comercio, institución a que hace referencia el Código;
 
@@ -99,17 +107,51 @@ XVII. Número de control.- El número de volante indicado en el recibo de pago, 
 
 XVIII. Recurso.- Procedimiento de inconformidad seguido por un particular ante el Director por habérsele negado el registro o anotación de un título, la cancelación de una inscripción, o la expedición de certificación alguna;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-XIX. Reglamento.- Reglamento de la Ley del Registro Público de la Propiedad y de Comercio del Estado de Baja California, y
+XIX. Reglamento: Reglamento de la Ley del Registro Público de la Propiedad y de Comercio del Estado de Baja California.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
 
 XX. Archivo Registral.- Es el acervo histórico integrado por las bases de datos correspondientes a cada una de las circunscripciones municipales, mismo que se integrará con las inscripciones, sus imágenes, avisos, anotaciones y demás información presentada por los usuarios.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXI. Folio Electrónico: Documento electrónico correspondiente a un inmueble o a una persona moral, considerando cada uno de éstos como una unidad registral integral con historial jurídico propio, en el que se practican las inscripciones y anotaciones que correspondan a los mismos.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXII. Migración: Es el traslado o transmisión de la información registral al folio electrónico.
+
 ###### ARTÍCULO 4.
 
 Los registradores y subregistradores tendrán fe para hacer constar de manera veraz y exacta la existencia de las inscripciones, anotaciones y documentos que obren en sus archivos de registro, conforme a las funciones que esta Ley y las demás disposiciones legales aplicables establezcan.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 4 BIS.- La función registral se regirá por los principios registrales siguientes:
+
+I. Publicidad: Consiste en dar a conocer la situación jurídica de los bienes y derechos registrados, a través de las inscripciones o anotaciones que se verifiquen en sus respectivos asientos y mediante el acceso de cualquier persona a la consulta de la información contenida en los folios o partidas.
+
+II. Inscripción: El Registro Público está obligado a inscribir los actos, contratos, títulos o documentos que determine la Ley, y sólo mediante dicha inscripción surten efectos frente a terceros.
+
+III. Especialidad o determinación: Es la precisión o individualización del acto inscrito de tal manera que se identifique de manera indubitable la naturaleza y alcances de los derechos que correspondan.
+
+IV. Consentimiento: Consiste en la necesidad de la expresión de la voluntad acreditada fehacientemente de quien aparece inscrito como titular registral de un asiento, a efecto de que se modifique o cancele la inscripción que le beneficia.
+
+V. Tracto sucesivo: Es la concatenación ininterrumpida de inscripciones sobre una misma unidad registral, que se da desde su primera inscripción, la cual asegura que la operación a registrar proviene de quien es el titular registral.
+
+VI. Rogación: Este implica que el Registrador no puede actuar de oficio, sino a petición o instancia de parte interesada.
+
+VII. Prioridad o prelación: Se refiere a que la preferencia entre derechos respecto a dos o más actos relativos a un mismo folio, se determina por el orden de su presentación ante el Registro Público, haciéndose constar el día, hora, minuto y segundo de su presentación en el volante respectivo; con independencia de la fecha de otorgamiento del documento a registrar.
+
+VIII. Legalidad: Consiste en la función atribuida al Registrador para examinar cada documento que se presente para su inscripción, a efecto de determinar si es un documento susceptible de inscribirse, así como si cumple con los requisitos exigidos por la legislación aplicable para tal efecto.
+
+IX. Legitimación: Certeza y seguridad jurídica que se tiene sobre los derechos inscritos, los cuales prevalecen hasta en tanto no se pruebe su inexactitud.
+
+X. Fe pública registral: Se presume, salvo prueba en contrario, que el derecho inscrito en el Registro Público, existe y pertenece a su titular en la forma expresada en la inscripción o anotación respectiva.
+
+La seguridad jurídica es una garantía institucional que se basa en un título auténtico generador del derecho y en su publicidad, la cual opera a partir de su inscripción o anotación registral; por lo tanto, el Registrador realizará siempre la inscripción o anotación de los documentos que se le presenten, conforme a la Ley. Las causas de suspensión o denegación se aplicarán de manera estricta, por lo que sólo podrá suspenderse o denegarse una inscripción o anotación, en los casos en que no se cumpla con los requisitos que señala el Código y esta Ley.
 
 ### CAPÍTULO SEGUNDO. DE LA ORGANIZACIÓN
 
@@ -165,9 +207,9 @@ VIII. Promover, organizar, vigilar y controlar el funcionamiento del Registro P�
 
 IX. Proponer al Gobernador del Estado los proyectos de iniciativa de ley, reglamentos y acuerdos sobre los asuntos de la competencia del Registro Público;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-X. Designar y remover a quienes fungirán como Subdirector, Registradores, Subregistradores y demás personal necesario para la ejecución y control de las actividades propias del Registro Público, así como para garantizar que los servicios prestados estén apegados a Derecho;
+X. Designar y remover al Subdirector; asimismo, designar, remover y cambiar de adscripción a quienes fungirán como Registradores, Subregistradores y demás personal necesario para la ejecución y control de las actividades propias del Registro Público y para garantizar que los servicios prestados estén apegados a Derecho;
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
@@ -185,9 +227,45 @@ XIII. Conocer del recurso interpuesto por los usuarios, y en caso de emitir reso
 
 XIV. Registrar las patentes de los Notarios Públicos en el Estado, y salvaguardar los libros destinados para ello; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-XV. Las demás que le confiera esta Ley y demás ordenamientos aplicables.
+XV. Autorizar el formato y procedimiento para la implementación del folio electrónico, conforme a lo dispuesto en esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XVI. Establecer los sistemas informáticos y tecnologías requeridas para el funcionamiento del Registro Público conforme a las disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XVII. Impulsar y supervisar la actualización del Sistema de Información Registral cuando así se requiera para brindar un mejor servicio; así como favorecer la vinculación técnica, operativa y jurídica entre el Registro y otras dependencias e instituciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XVIII. Promover la implantación y operación del sistema de calidad en el servicio registral;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XIX. Elaborar y presentar propuestas de programas institucionales de corto, mediano y largo plazo, con los correspondientes proyectos de presupuestos, a fin de gestionar oportunamente los recursos necesarios para la modernización del servicio registral y favorecer su constante mejora y actualización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XX. Representar al Registro Público en los procedimientos judiciales o administrativos en los que la dependencia sea parte y sean inherentes a actos de naturaleza registral emitidos por esta, sin perjuicio de las facultades de representación que corresponden a otras dependencias del Ejecutivo del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXI. Celebrar convenios y acuerdos de coordinación con dependencias o entidades federales, estatales y municipales, así como con organismos no gubernamentales vinculados con los servicios registrales e instituciones académicas, tendientes a difundir o fortalecer los servicios que presta el Registro Público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXII. Delegar atribuciones al Subdirector, los Registradores o Subregistradores a efecto de que den cumplimiento a funciones específicas para la mejor prestación del servicio registral, de acuerdo con la naturaleza del asunto que se trate;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXIII. Coordinarse por medio de cualquier mecanismo, sistema o instrumento con los catastros municipales, a fin de impulsar la modernización, vinculación y armonización de la información registral y catastral conforme a las disposiciones aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXIV. Las demás que le confiera esta Ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 10.
 
@@ -217,9 +295,9 @@ X. Las demás que al efecto establezca el reglamento y demás disposiciones lega
 
 Son facultades y obligaciones de los Registradores, las siguientes:
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-I. Supervisar que la cuantificación y liquidación de los derechos que se causen por los servicios prestados por el Registro Público sean de conformidad con lo establecido en la Ley de Ingresos vigente;
+I. Supervisar que la cuantificación y liquidación de los derechos que se causen por los servicios prestados por el Registro Público sean de conformidad con lo establecido en la Ley de Ingresos vigente; asimismo verificar las constancias relativas al cumplimiento de contribuciones que correspondan, conforme a las disposiciones legales aplicables;
 
 II. Inscribir por riguroso turno, según el orden de presentación de los documentos;
 
@@ -235,7 +313,9 @@ VI. Expedir las certificaciones de los datos y documentos que obren en los archi
 
 VII. Facilitar al público la información que solicite de los asientos registrales, así como de los documentos relacionados que obren en los archivos públicos;
 
-VIII. Informar al Subregistrador y personal a su cargo, todas aquellas disposiciones de carácter legal, administrativo, fiscal y de operatividad, determinadas por la Dirección como obligatorias para el procedimiento registral;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VIII. Informar al Subregistrador y personal a su cargo, todas aquellas disposiciones de carácter legal, administrativo, fiscal y de operatividad, determinadas por la Dirección como obligatorias para el procedimiento registral; así como aquellas que se indiquen para la mejor prestación del servicio;
 
 IX. Dar aviso a la Secretaría de Planeación y Finanzas cuando exista omisión en el cumplimiento a las disposiciones fiscales, debiendo abstenerse de realizar trámite alguno mientras exista esa situación;
 
@@ -251,9 +331,25 @@ XI. Cancelar de manera total o parcial del archivo registral las inscripciones c
 
 XII. Crear y mantener actualizado un padrón de usuarios autorizados para la utilización del Sistema Integral de Información Registral en su circunscripción municipal; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-XIII. Las demás que le confieran esta Ley y demás disposiciones legales aplicables a la materia.
+XIII. Brindar el servicio registral que se solicite, así como suspenderlo o denegarlo en los casos en que proceda, conforme a las disposiciones del Código, esta Ley y su Reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XIV. Realizar la reposición del acervo registral que esté deteriorado, extraviado o destruido, conforme a lo previsto en el Código, esta Ley y su Reglamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XV. Proporcionar a las autoridades jurisdiccionales y al Ministerio Público, la información que soliciten relativa al archivo registral a su cargo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XVI. Resolver sobre las solicitudes de rectificación y cancelación de asientos, en los términos de las disposiciones aplicables; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XVII. Las demás que le confieran esta Ley y demás disposiciones legales aplicables a la materia.
 
 ###### ARTÍCULO 12.
 
@@ -287,9 +383,15 @@ En este caso, la calificación de la inscripción, anotación, cancelación o ex
 
 ### CAPÍTULO PRIMERO. ACTOS OBJETO DE INSCRIPCIÓN
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 13.
 
-El Registro Público, para los efectos de la inscripción contará por lo menos con Sección Civil y Comercio, pudiendo implementar las demás necesarias para su funcionamiento.
+La finca y la persona moral son la unidad básica registral. El Registro Público para los efectos de la inscripción contará, por lo menos, con Sección Civil y Sección Comercio, pudiendo implementar las demás necesarias para su funcionamiento.
+
+El folio electrónico, numerado y autorizado, contendrá los datos de identificación, así como los asientos de los actos jurídicos o hechos que en ellos incidan. Cuando se trate de inmuebles o fincas también se denominará folio real electrónico.
+
+La apertura del folio electrónico, o en su caso, folio real electrónico, la migración y vinculación de la información que les corresponda, así como las inscripciones o anotaciones respectivas, se efectuarán conforme a lo previsto en el Código, esta Ley y el Reglamento.
 
 ###### ARTÍCULO 14.
 
@@ -377,9 +479,15 @@ Las inscripciones podrán solicitarse en cualquiera de las oficinas del Registro
 
 La inscripción hace que el acto jurídico inscrito sea oponible a terceros, en los términos previstos por las leyes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 18.
 
-(DEROGADO, P.O. 6 DE MARZO DE 2009)
+Para el registro de documentos públicos o privados deberá exhibirse su original o copia certificada.
+
+En el caso de los documentos privados, las firmas deberán estar ratificadas ante las autoridades que establece el artículo 2878, fracción III, del Código.
+
+Cuando la inscripción se realice por medios electrónicos bastará con el envío de la forma precodificada autorizada por el Registro Público, siempre y cuando ésta sea firmada electrónicamente y se ajuste a lo dispuesto por el Reglamento.
 
 ###### ARTÍCULO 19.
 
@@ -387,15 +495,53 @@ Todo trámite que se realice ante el Registro Público, causará los derechos qu
 
 ### CAPÍTULO SEGUNDO. DEL REGISTRO
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 20.
 
-Para el registro de documentos públicos o privados deberá exhibirse su original o copia certificada.
+El folio electrónico contendrá la materia a la que se refiere, los antecedentes registrales vigentes y la siguiente información, según conste en el libro, folio o título que le de origen a su apertura:
 
-En el caso de los documentos privados, las firmas deberán estar ratificadas ante las autoridades que establece el artículo 2878 fracción III del Código.
+I. Inmueble:
 
-Cuando la inscripción se realice por medios electrónicos bastará con el envío de la forma precodificada autorizada por el Registro Público, siempre y cuando ésta sea firmada electrónicamente y se ajuste a lo dispuesto por el Reglamento.
+a) Descripción del mismo;
+
+b) Calle, número, lote y manzana que lo identifique;
+
+c) Denominación, si la tuviere;
+
+d) Delegación Municipal en la que se ubique;
+
+e) Fraccionamiento, colonia, poblado o conjunto urbano;
+
+f) Código postal;
+
+g) Superficie, con letra y número;
+
+h) Rumbos, medidas y colindancias;
+
+i) Número de cuenta catastral; y
+
+j) Titular registral con sus generales.
+
+II. Persona Moral:
+
+a) Denominación o razón social;
+
+b) Tipo de persona moral;
+
+c) Objeto;
+
+d) Domicilio;
+
+e) Importe del capital social, en su caso;
+
+f) Duración;
+
+g) Registro Federal de Contribuyentes;
+
+h) Integrantes del órgano de administración; y
+
+i) Clave única de identidad de la Secretaria de Economía.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
@@ -413,21 +559,29 @@ I. Recepción física o electrónica de la solicitud de registro, acompañada de
 
 II. Análisis de la información y verificación de la existencia o inexistencia de antecedentes registrales, y en su caso la captura en el Sistema de Información;
 
-III. Calificación del acto o derecho a registrar, mediante la cual se autoriza o rechaza, en definitiva la inscripción en el sistema de información mediante la firma autógrafa o electrónica generándose la partida registral; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+III. Calificación del acto o derecho a registrar, mediante la cual, se autoriza o rechaza en definitiva, la inscripción en el Sistema de Información Registral, mediante la firma autógrafa o electrónica, generándose el folio electrónico o la partida en su caso; y
 
 IV. Emisión de una boleta de inscripción que será entregada física o electrónicamente en su caso.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 23.
 
-La prelación registral entre derechos sobre dos o más actos que se refieran a una misma partida o folio electrónico, se determinará por el número de control que otorgue el registro, cualquiera que sea la fecha de su constitución o celebración. Los efectos jurídicos de los mismos actos serán los previstos por las leyes aplicables.
+La prelación registral entre derechos sobre dos o más actos que se refieran a un mismo folio electrónico, se determinará por el número de control que otorgue el registro, cualquiera que sea la fecha de su constitución o celebración. Los efectos jurídicos de los mismos actos serán los previstos por las leyes aplicables.
 
 ###### ARTÍCULO 24.
 
 Cuando conforme a la ley, algún acto o contrato deba inscribirse en el Registro Público, su inscripción será bastante para que surtan los efectos correspondientes contra terceros, salvo lo dispuesto por el Código.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 25.
 
-(DEROGADO, P.O. 6 DE MARZO DE 2009)
+A la apertura de cada folio electrónico se le dará el número progresivo que le corresponda y según la materia de que se trate.
+
+La migración que se haga para la apertura del folio electrónico, con base en los datos de libros, folios reales o folios de personas morales, se hará trasladando la información vigente, en los términos existentes, sin calificación alguna. De toda migración deberá dejarse constancia en el Sistema de Información Registral, señalando el número de folio electrónico que le corresponda.
 
 ###### ARTÍCULO 26.
 
@@ -459,35 +613,75 @@ Las resoluciones judiciales dictadas por los jueces o tribunales de otra Entidad
 
 Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en otro país, sólo se inscribirán concurriendo las circunstancias a las que se refiere el artículo 2872 del Código.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 33.
 
-Las inscripciones que se generen en la sección correspondiente, contendrá en forma genérica lo siguiente:
+Las inscripciones se vincularán con el folio electrónico y sección que le corresponda. Asimismo, todo folio electrónico será autorizado con la firma electrónica del Registrador que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Las inscripciones deberán contener, en todos los casos, lo siguiente:
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 I. Número de partida;
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 II. Sección;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 III. Fecha de inscripción;
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 IV. Número de recibo oficial del pago de derechos;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 V. Fecha y hora de pago de los derechos de registro;
 
-VI. Descripción del acto jurídico;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VI. Descripción del acto jurídico, en los términos de lo dispuesto por el Código y esta Ley;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 VII. Datos de identificación del documento;
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 VIII. Nombre de los otorgantes;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 IX. Objeto;
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 X. Antecedente registral;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
 
 XI. Nombre y firma del Registrador; y
 
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+
 XII. Sello de la oficina, cuando la inscripción sea física.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XIII. El número de volante y fecha de entrada; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XIV. Clave Única de Registro de Población (CURP) y Registro Federal de Contribuyentes (RFC).
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Del contenido de las inscripciones, el cumplimiento de los requisitos de Ley que correspondan y la firma electrónica correspondiente, en los términos que establece este artículo, quedará constancia en el Sistema de Información Registral.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
@@ -495,7 +689,9 @@ XII. Sello de la oficina, cuando la inscripción sea física.
 
 El Registrador resolverá la procedencia o improcedencia del registro de documentos dentro del plazo de cinco días hábiles, a partir de la fecha de su recepción.
 
-De resultar procedente la inscripción, deberá generarse la partida respectiva que contenga las formalidades a que se refiere el artículo anterior. En tal caso el registro surtirá efectos desde la fecha en que se realizó la inscripción preventiva. Si se califica de improcedente, se hará del conocimiento del interesado o en su caso a la autoridad que lo solicite, mediante un reporte.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+De resultar procedente la inscripción, deberá generarse el folio electrónico o partida respectiva que contenga las formalidades a que se refiere el artículo anterior. En tal caso el registro surtirá efectos desde la fecha de su ingreso en ventanilla. Si se califica de improcedente, se hará del conocimiento del interesado o en su caso a la autoridad que lo solicite, mediante un reporte.
 
 El Registrador no juzgará de la orden judicial o administrativa que decrete un registro, pero si a su juicio concurre una circunstancia por la que legalmente no debe practicarse, lo hará saber así a la autoridad respectiva. Si a pesar de ello ésta insistiere, se hará el mismo.
 
@@ -552,6 +748,10 @@ Los documentos traslativos de dominio de bienes inmuebles serán inscribibles si
 I. Indicación del lugar en que se ubique; señalando en su caso, si lo tuviere, fraccionamiento, colonia o poblado, número de lote, manzana y clave catastral; y
 
 II. Descripción del predio estableciendo superficie, medidas y colindancias que deberá concordar con su antecedente registral.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Asimismo, deberá contener la demás información a que se refieren los artículos 20, fracción I, y 33 de esta Ley, según resulte aplicable en cada caso.
 
 ### CAPÍTULO CUARTO. DEL REGISTRO MOBILIARIO
 
@@ -631,7 +831,9 @@ I. El nombre del propietario o propietarios de bien mueble o inmueble, titulares
 
 II. Descripción general del bien, o la característica del acto o derecho inscrito; en caso de inmuebles deberá establecer la superficie, medidas y colindancias;
 
-III. Número de partida;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+III. Número de folio electrónico y en su caso, de la partida o partidas;
 
 IV. Todas las anotaciones y los gravámenes existentes; y,
 
@@ -747,11 +949,11 @@ VIII. Las demás circunstancias relativas al incidente respectivo, cuando así l
 
 (DEROGADO, P.O. 6 DE MARZO DE 2009)
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 53.
 
-Cuando las inscripciones preventivas no reúnan todos los requisitos previstos por los artículos anteriores, o dichos datos estuvieren equivocados, se harán éstas siempre y cuando pueda identificarse de manera indubitable la partida que se afecta, informando lo conducente al interesado.
+Cuando las inscripciones preventivas no reúnan todos los requisitos previstos por los artículos anteriores, o dichos datos estuvieren equivocados, se harán éstas siempre y cuando pueda identificarse de manera indubitable el folio electrónico o partida que se afecta, informando lo conducente al interesado.
 
 ###### ARTÍCULO 54.
 
@@ -825,21 +1027,29 @@ III. Por mandato de autoridad judicial; y,
 
 IV. Cuando sea procedente la cancelación parcial, de acuerdo a lo establecido por esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 64.
 
-La cancelación se hará de tal manera, que siempre permita consultar la partida e imagen del documento y sus anexos materia de la cancelación.
+La cancelación se hará de tal manera, que siempre permita consultar el folio electrónico o partida en su caso, imagen del documento y sus anexos materia de la cancelación.
 
-### CAPÍTULO NOVENO. DEL ARCHIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO NOVENO. DEL SISTEMA DE INFORMACIÓN REGISTRAL Y EL ARCHIVO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 65.
 
-(DEROGADO, P.O. 6 DE MARZO DE 2009)
+El Registro Público deberá contar con un Sistema de Información Registral integral, de acuerdo a lo previsto en esta Ley y su Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 66.
 
-(DEROGADO, P.O. 6 DE MARZO DE 2009)
+El procedimiento registral se llevará electrónicamente a través del Sistema de Información Registral y de comunicación remota. La información almacenada en el sistema y los archivos complementarios necesarios serán utilizados para inscribir, asentar, anotar, cancelar, verificar, rectificar, validar y reponer los asientos registrales; así como para expedir certificados, copias certificadas y constancias de los mismos.
+
+Los asientos registrales que autorice el Registrador mediante firma electrónica, así como las certificaciones y constancias originales son documentos públicos y tendrán valor probatorio pleno. El mismo valor probatorio, tendrán los asientos y actos registrales que contenga la base de datos del Sistema de Información Registral.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2009)</small>
 
@@ -847,23 +1057,33 @@ La cancelación se hará de tal manera, que siempre permita consultar la partida
 
 Los usuarios que así lo soliciten, podrán obtener del Registro Público copia simple o certificada de las inscripciones, anotaciones y demás constancias que obren en el archivo registral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 68.
 
-El Registro Público contará con medios de consulta, la cual podrá realizarse por:
+El Registro Público contará con medios de consulta, la cual se realizará proporcionando el número de folio electrónico. A falta de éste, se podrá solicitar la búsqueda de los asientos proporcionando cualquiera de los siguientes datos:
 
-I. Número de partida;
+I.- Tratándose de inmuebles:
 
-II. Lote, manzana y Colonia, predio o local;
+a) Denominación de la finca, si tuviere;
 
-III. Nombre del titular;
+b) Calle o avenida, número y colonia;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2009)</small>
+c) Lote, manzana y fraccionamiento o conjunto urbano;
 
-IV. Razón o denominación social; y
+d) Nombre del propietario o de los titulares de otros derechos; y
 
-V. Las demás que los avances de la tecnología permitan.
+e) Clave catastral.
+
+II.- En caso de personas morales:
+
+a) Denominación o razón social;
+
+b) Registro Federal de Contribuyentes (RFC); y
+
+c) Nombre de los socios, asociados o administradores.
+
+III.- Por cualquier otro dato que determine el Director, en su caso, de acuerdo a la información con que se cuente y lo permita el Sistema de Información Registral.
 
 ## TÍTULO TERCERO. DE LOS SERVICIOS ELECTRÓNICOS
 
@@ -935,9 +1155,11 @@ I. El mensaje de datos deberá contener la firma electrónica del fedatario púb
 
 II. Efectuada la recepción se expedirá una constancia con el número progresivo, fecha y hora en la que se recibió la solicitud.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 81.
 
-Una vez firmado electrónicamente e inscrito el acto en la base de datos de la oficina del Registro Público, emitirá el número de partida de inscripción, la que será entregada al interesado previa presentación de la boleta de ingreso, o podrá verificarla e imprimirla si el notario o corredor público presentó el acto a inscribir, usando medios electrónicos.
+Una vez firmado electrónicamente e inscrito el acto en la base de datos de la oficina del Registro Público, se emitirá el número de inscripción, ya sea folio electrónico o partida, y será entregado al interesado, previa presentación de la boleta de ingreso, o podrá verificarla e imprimirla si el notario o corredor público presentó el acto a inscribir usando medios electrónicos.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MARZO DE 2009)</small>
 
@@ -1013,6 +1235,36 @@ V.- La difusión de los mecanismos señalados en la fracción I, así como aquel
 
 VI.- El impulso de mecanismos de coordinación con los Ayuntamientos en el Estado.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO SEXTO. DEL SERVICIO REGISTRAL
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO ÚNICO. DEL SERVICIO PROFESIONAL REGISTRAL
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 88.
+
+Con el fin de garantizar que los servidores públicos del Registro Público realicen sus funciones con eficiencia, eficacia y certeza, el Reglamento Interno establecerá las medidas necesarias para profesionalizar el servicio público registral. Dichas medidas podrán comprender la selección, capacitación, desarrollo, evaluación del desempeño y normas éticas. Asimismo, para tal efecto se observará lo dispuesto en las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 89.
+
+Para efectos del artículo anterior, el Reglamento Interno establecerá un Comité de Seguimiento al Servicio Profesional Registral, y regulará su integración y funcionamiento.
+
+Dicho órgano podrá supervisar, evaluar y emitir las recomendaciones necesarias para el mejor funcionamiento del Servicio Profesional Registral, en los términos de esta Ley, el Reglamento Interno y demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 90.
+
+Los servidores públicos del Registro Público, tendrán la obligación de participar en los programas establecidos para su profesionalización, incluyendo los relativos a su capacitación y actualización permanente.
+
+Podrán destinarse recursos del Fondo previsto en esta Ley, para los fines de profesionalización del servicio que prevé el presente Título.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- Se abroga la Ley de Organización y Reglamentaria del Registro Público de la Propiedad y de Comercio, publicada en el Periódico Oficial No. 20, de fecha 20 de julio de 1978, Tomo LXXXV.
@@ -1074,3 +1326,13 @@ P.O. 7 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL PUNTO TERCERO DEL “DECRETO NO. 590 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2191 Y 2194 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 654 MEDIANTE EL CUAL SE APRUEBA REFORMAS Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Dirección propondrá al Ejecutivo Estatal las reformas a las disposiciones reglamentarias y normativas que correspondan, dentro de los noventa días siguientes a partir de la publicación de las reformas legales contenidas en este Decreto.
+
+TERCERO.- La Dirección deberá implementar los programas respectivos a efecto de cumplir con lo dispuesto en el inciso b) y e) de la fracción I del artículo 68 del presente Decreto, con base en la información que provean los interesados así como el catastro municipal en virtud de los convenios de colaboración y vinculación que se implementen.
