@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-543-hacendario-para-el-municipio-de-veracruz-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-03-10"
-last_updated: "2015-08-10"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "VER"
 ---
 # CODIGO NUMERO 543 HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 10 de marzo de 2003.
 
@@ -1505,11 +1507,15 @@ Están exentos del pago del Impuesto Predial, los bienes de dominio público de 
 
 Cuando la Tesorería advierta que un inmueble ha salido del dominio público de la Federación, del Estado o de los Municipios, ordenará el cobro de los impuestos cuyo pago se hubiese omitido, incluidos los recargos, multas y accesorios que procedan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 121.
 
-Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
+Los contribuyentes del impuesto predial, que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina, con discapacidad, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
-Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil salarios mínimos.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Las personas mayores de sesenta años o con discapacidad, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil unidades de medida y actualización (UMA).
 
 A estos descuentos no se podrá adicionar el descuento señalado en el artículo 118 de este Código.
 
@@ -5220,3 +5226,11 @@ G.O. 10 DE AGOSTO DE 2015.
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Artículo Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 229 POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 121 DEL CÓDIGO NÚMERO 543 HACENDARIO PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
