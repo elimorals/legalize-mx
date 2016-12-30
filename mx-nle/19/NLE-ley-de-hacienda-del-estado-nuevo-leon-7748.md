@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2015-12-30"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE HACIENDA DEL ESTADO, NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -113,59 +115,149 @@ Se aceptarán como medios de pago, los cheques certificados y los giros postales
 
 ## TITULO SEGUNDO. De los Impuestos
 
-### CAPITULO PRIMERO. Del Impuesto Predial
+> <small>[N. DE E. EL DECRETO NÚMERO 226 PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2016, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE CAPÍTULO]</small>
 
-#### SECCION PRIMERA. Del Objeto del Impuesto
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO PRIMERO. De los Impuestos a los Juegos con Apuestas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+#### SECCION PRIMERA. Del Impuesto a las Erogaciones en Juegos con Apuestas
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 10.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+Están obligados al pago del impuesto previsto en esta Sección las personas que realicen erogaciones dentro del territorio del Estado de Nuevo León, para participar en juegos con apuestas.
+
+Para los efectos de este impuesto, se incluyen dentro de los juegos con apuestas independientemente del nombre con el que se les designe, aquellos en los que el premio se pueda obtener por la destreza del participante en el uso de máquinas, que en su desarrollo utilicen imágenes visuales electrónicas como números, cartas, símbolos, figuras u otras similares, independientemente de que en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+Igualmente se consideran juegos con apuestas aquellos en los que el participante deba estar presente en el juego, activamente o como espectador, y aquellos juegos en los que el participante haga uso de máquinas que utilicen algoritmos desarrollados en sistemas electrónicos o cualquier otro método mecánico, electrónico o electromagnético en el que el resultado no dependa de factores controlables o susceptibles de ser conocidos o dominados por el participante.
+
+Asimismo, quedan comprendidos en los juegos con apuestas, los de apuestas remotas, también conocidos como libros foráneos, autorizados por autoridad competente, para captar y operar cruces de apuestas en eventos, competencias deportivas y juegos permitidos por la Ley, realizados en el extranjero o en territorio nacional, transmitidos en tiempo real y de forma simultánea en video o audio o ambos.
+
+Igualmente, quedan comprendidos en los juegos con apuestas, aquellos establecimientos autorizados por autoridad competente, en los que se reciban, capten, crucen o exploten apuestas.
+
+Se incluyen como erogaciones para participar en juegos con apuestas, las cantidades que entreguen a operadores de los establecimientos por concepto de acceso y utilización de máquinas o instalaciones relacionados con los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.
+
+Para los efectos de este impuesto, se considera apuesta el monto susceptible de apreciarse en moneda nacional que se arriesga en un juego de los que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, con la posibilidad de obtener o ganar un premio, cuyo monto, sumado a la cantidad arriesgada deberá ser superior a ésta.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 11.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+El impuesto se calculará aplicando la tasa del 10% al monto de las erogaciones efectuadas por la persona que participe en juegos con apuestas, ya sean pagos en efectivo, en especie o por cualquier otro medio que permita participar en los mismos.
+
+Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos con apuestas a que se refiere el artículo 10, o el uso o acceso a las máquinas a que se refiere el propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 12.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento los montos o contraprestaciones que le permitan participar en dichos juegos con apuestas y hasta por el monto de cada pago que se realice de manera directa o a través de otro usuario distinto.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 13.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+El operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos recaudará el impuesto para participar en juegos con apuestas al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas autorizadas a más tardar el día 17 del mes de calendario siguiente a la fecha de su recaudación o el día hábil siguiente si aquel no lo fuere.
+
+Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda recaudar el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en el artículo 16.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 14.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+El impuesto previsto en esta Sección se causará y pagará con independencia de los impuestos a que se refiere la Sección Segunda de este Capítulo y el Capítulo Cuarto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 15.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+Los operadores de los establecimientos en los que se realicen los juegos con apuestas o en los que se instalen las máquinas de juegos, en adición a la obligación de recaudar y enterar el impuesto a que se refiere el artículo 13, están obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el importe recaudado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 16.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+Serán responsables solidarios del impuesto, en adición al operador del establecimiento en el que se realicen los juegos y concursos o en los que se instalen las máquinas de juegos, cualquiera de las siguientes personas físicas o morales, cuando no sean ellas quienes reciban los pagos del contribuyente:
 
-#### SECCION SEGUNDA. De los Sujetos del Impuesto
+I.- Las que organicen, administren, exploten o patrocinen los juegos referidos en el artículo 10;
+
+II.- Los arrendatarios de los establecimientos en los que se realicen los juegos o concursos a que se refiere el artículo 10;
+
+III.- Las que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto, y
+
+IV.- Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere esta Sección.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+#### SECCION SEGUNDA. Del Impuesto por la Realización de Juegos con Apuestas y Sorteos
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 17.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+Es objeto de este impuesto la realización de juegos con apuestas y sorteos, independientemente del nombre con el que se les designe, que requieran permiso de conformidad con lo dispuesto en la Ley Federal de Juegos y Sorteos y su Reglamento, así como la realización de juegos o concursos en los que el premio se obtenga por la destreza del participante en el uso de máquinas, que en el desarrollo de aquéllos utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, que se efectúen en el territorio del Estado
+
+Quedan comprendidos en los juegos con apuestas, aquéllos en los que solo se reciban, capten, crucen a (sic) exploten apuestas. Asimismo, quedan comprendidos en los sorteos, los concursos en los que se ofrezcan premios y en alguna etapa de su desarrollo intervenga directa o indirectamente el azar.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 18.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+Son sujetos de este impuesto las personas físicas, morales o unidades económicas que realicen los actos o actividades a que se refiere el artículo anterior, ya sea que organicen, administren, exploten, o celebren juegos con apuestas y sorteos
 
-###### ARTICULO 19.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+###### ARTÍCULO 19.
+
+El impuesto se calculará aplicando la tasa del 6% al valor de los actos o actividades realizados, a que se refiere el artículo 17.
+
+Se considerará como valor el total de las cantidades efectivamente percibidas de los participantes por dichas actividades. En los juegos o sorteos en los que se apueste, se considerará como valor el monto total de las apuestas.
+
+Tratándose de los juegos o sorteos en los que la apuesta se realice mediante fichas, tarjetas, contraseñas o cualquier otro comprobante, así como a través de bandas magnéticas, dispositivos electrónicos u objetos similares, que se utilicen para apostar en sustitución de cantidades de dinero y sean aceptadas para esos fines por la persona que realice el juego a (sic) sorteo de que se trate, se considerará como valor el total de las cantidades equivalentes en moneda nacional que amparen dichos medios.
+
+Cuando en algún sorteo el premio ofrecido se encuentre contenido de manera referenciada y oculta en bienes cuya adquisición otorgue el derecho a participar en dicho sorteo, se considerará como valor el precio en el que la persona que lo realice haya enajenado todos los bienes que participen en ese sorteo.
+
+Tratándose de sorteos en los que los participantes obtengan dicha calidad, incluso a título gratuito, por el hecho de adquirir un bien o contratar un servicio, recibiendo para ello un comprobante, se considerará como valor el monto total nominal por el que se entregue cada comprobante que otorgue el derecho a participar, conforme a las condiciones del sorteo establecidas en el permiso otorgado por la autoridad competente.
+
+Cuando además de adquirir un bien o contratar un servicio, se pague una cantidad adicional para participar en el sorteo de que se trate, el impuesto además de calcularse en los términos ya señalados también se calculará sobre dicha cantidad.
+
+Los valores a que se refiere este artículo se podrán disminuir con el monto de los siguientes conceptos:
+
+I.- Los premios efectivamente pagados o entregados conforme a las disposiciones aplicables. Tratándose de premios diversos al efectivo, el monto que se podrá disminuir será el que corresponda al valor estipulado en el permiso otorgado por la autoridad competente o, en su defecto, el valor de mercado.
+
+II.- Las cantidades efectivamente devueltas a los participantes, siempre que las devoluciones se efectúen previo a la realización del evento y éstas se encuentren debidamente registradas en contabilidad y, tratándose de juegos o sorteos en los que se apueste, también se registren en el sistema central de apuestas. Cuando el premio incluya la devolución de la cantidad efectivamente percibida del participante, dicho concepto se disminuirá únicamente como premio.
+
+Cuando el monto de los conceptos mencionados en las fracciones anteriores sea superior a los valores de las actividades a que se refiere el artículo 17 de esta Ley, correspondientes al mes de que se trate, la diferencia se podrá disminuir en los meses siguientes hasta agotarse.
+
+Se considerará también como valor de los actos o actividades realizados, el total de las cantidades efectivamente percibidas por los operadores de los establecimientos de los participantes por dichas actividades, por concepto de acceso y utilización de máquinas o instalaciones relacionados (sic) con los juegos con apuestas y sorteos, cualquiera que sea el nombre con el que se les designe.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 20.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+El impuesto se calculará mensualmente y se pagará a más tardar el día 17 del mes siguiente al en que corresponda dicho pago. Los pagos mensuales se realizarán mediante la presentación de una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas y tendrán el carácter de definitivos
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 21.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+No se pagará el impuesto a que se refiere el artículo 17, en los siguientes supuestos:
+
+I.- Cuando se lleven a cabo por personas morales sin fines de lucro autorizadas para recibir donativos deducibles para los efectos de la Ley del Impuesto sobre la Renta, a que se refiere el artículo 79, fracciones VI, X y XVII de dicha Ley, siempre que destinen la totalidad de sus ingresos, una vez descontados los premios efectivamente pagados, a los fines para los cuales fueron constituidas.
+
+II.- Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad sin sujetarse a pago, a la adquisición de un bien o a la contratación de un servicio.
+
+III.- Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir un bien o contratar un servicio, siempre que el realizador cumpla los requisitos siguientes:
+
+a) No obtenga más de diez permisos para celebrar sorteos en un año de calendario.
+
+b) El monto total de los premios ofrecidos en un año de calendario no exceda el 3% de los ingresos obtenidos en el año inmediato anterior.
+
+Quienes realicen sorteos en el ejercicio de inicio de actividades, podrán estimar sus ingresos en dicho ejercicio para los efectos de lo dispuesto en este inciso. En el supuesto de que el monto de los premios ofrecidos exceda el por ciento a que se refiere el párrafo anterior, se pagará el impuesto que corresponda de conformidad con lo dispuesto en este capítulo con la actualización y los recargos respectivos.
 
 ###### ARTICULO 22.
 
@@ -209,7 +301,7 @@ Se aceptarán como medios de pago, los cheques certificados y los giros postales
 
 ### CAPITULO SEGUNDO. Del Impuesto sobre Ingresos Mercantiles
 
-#### SECCION TERCERA. De la base del Impuesto
+#### Sección Primera. Del Objeto
 
 ###### ARTICULO 32.
 
@@ -283,7 +375,7 @@ Dentro de los tres meses siguientes a la fecha de su balance anual, se harán lo
 
 Si los causantes de que se trata repercuten el impuesto o no cumplen los requisitos expresados, cubrirán el gravamen sobre el total de los ingresos derivados de la venta de medicinas y, respecto de productos distintos a éstas, procederán en la forma previta (sic) por el artículo 77 de esta Ley.
 
-#### SECCION CUARTA. De la Tasa del Impuesto
+#### SECCION SEGUNDA. DEL SUJETO Y DEL DOMICILIO
 
 ###### ARTICULO 41.
 
@@ -317,13 +409,13 @@ Las sucursales, despachos, bodegas o dependencias que no perciban ingresos y que
 
 Se considera que los vendedores ambulantes no eximidos del pago del impuesto, tienen su domicilio en el lugar que como tal hayan señalado en su solicitud de empadronamiento.
 
-#### SECCION QUINTA. Determinación de la Base
+#### SECCION TERCERA. DE LA TASA
 
 ###### ARTICULO 46.
 
 El impuesto se causará a razón del 12 al millar sobre el monto total de los ingresos gravables percibidos por los causantes de los Municipios de Monterrey, Allende, Apodaca, Cadereyta, Garza García, General Escobedo, Guadalupe, Linares, Montemorelos, Sabinas Hidalgo, San Nicolás de los Garza, Santa Catarina y Santiago. En los demás Municipios del Estado, la tasa será del 9 al millar sobre el monto total de los ingresos gravables.
 
-#### SECCION SEXTA. Del Pago del Impuesto
+#### SECCION CUARTA. DE LOS INGRESOS EXENTOS
 
 ###### ARTICULO 47.
 
@@ -511,7 +603,7 @@ Los ingresos provenientes de la explotación de cabarets, cantinas, restaurantes
 
 Los establecimientos comprendidos en este artículo podrán ser gravados, además con impuestos especiales sobre expendios de bebidas alcohlicas (sic), tanto por el Estado como por los Municipios.
 
-#### SECCION SEPTIMA. De las manifestaciones y avisos
+#### SECCION QUINTA. De las deducciones y de las Rectificaciones
 
 ###### ARTICULO 50.
 
@@ -559,7 +651,7 @@ Si las rectificaciones comprueban que los contribuyentes pagaron impuesto en may
 
 Los contribuyentes por iniciativa propia no podrán hacer las rectificaciones a que se refieren los artículos anteriores, cuando se descubra falsedad en los asientos de su contabilidad, cuando la omisión del impuesto haya sido descubierta de antemano por alguna Autoridad, funcionario o empleado, cuando la haya precedido denuncia, cuando con anterioridad se haya iniciado una auditoría al responsable o presunto responsable, o haya sido requerido del pago de alguna prestación fiscal derivada de esta Ley.
 
-#### Sección Primera. Del Objeto
+#### SECCION SEXTA. De las oficinas recaudadoras y del empadronamiento
 
 ###### ARTICULO 57.
 
@@ -609,7 +701,7 @@ En los casos de cambio de objeto, giro, nombre, razón social o denominación de
 
 Las cédulas de empadronamiento no serán trasferibles ni en los casos de traspaso, y sólo ampararán el giro a que corresponda, en el lugar y dentro de las características que la misma cédula de empadronamiento indique.
 
-#### SECCION SEGUNDA. DEL SUJETO Y DEL DOMICILIO
+#### SECCION SEPTIMA. De las declaraciones y pago del Impuesto
 
 ###### ARTICULO 67.
 
@@ -655,7 +747,7 @@ Quedan al cuidado de la Tesorería General la función analítica, de comprobaci
 
 Las diferencias de impuesto y de recargos descubiertas por la Autoridad, con motivo de la glosa de las declaraciones presentadas, serán pagadas por los causantes dentro de los quince días siguientes a la fecha en que se les notifiquen.
 
-#### SECCION TERCERA. DE LA TASA
+#### SECCION OCTAVA. De las Obligaciones de los Causantes
 
 ###### ARTICULO 75.
 
@@ -719,7 +811,7 @@ Los contribuyentes de este impuesto están obligados cuando así lo solicite la 
 
 Con los datos y documentos a que se refiere el párrafo anterior, se ordenarán las auditorias, a efecto de hacer las investigaciones generales que procedan en la contabilidad de los causantes y en los inventarios y cuentas de ingresos o de venta de los propios causantes.
 
-#### SECCION CUARTA. DE LOS INGRESOS EXENTOS
+#### SECCION NOVENA. De las obligaciones de terceros y de la responsabilidad solidaria
 
 ###### ARTICULO 81.
 
@@ -763,7 +855,7 @@ Las personas físicas o morales que tengan relaciones con alguno o algunos de lo
 
 Las personas físicas o morales que mantengan o hayan tenido relaciones con los contribuyentes de este impuesto, están obligados a exhibir su contabilidad, la documentación y la correspondencia que se refiera a las operaciones realizadas con dichos causantes.
 
-#### SECCION QUINTA. De las deducciones y de las Rectificaciones
+#### SECCION DECIMA. De la Vigilancia
 
 ###### ARTICULO 90.
 
@@ -1045,8 +1137,6 @@ III.- Conservar la documentación relacionada con las constancias y las retencio
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### SECCION SEXTA. De las oficinas recaudadoras y del empadronamiento
-
 ###### ARTICULO 118.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
@@ -1077,10 +1167,6 @@ III.- Conservar la documentación relacionada con las constancias y las retencio
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-#### SECCION II. Automóviles
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
 ###### ARTICULO 122.
 
 (DEROGADO, P.O. 3 DE DICIEMBRE DE 2015)
@@ -1095,11 +1181,9 @@ III.- Conservar la documentación relacionada con las constancias y las retencio
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
-#### SECCION III. Otros vehículos
+#### SECCION II. Automóviles
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-#### SECCION SEPTIMA. De las declaraciones y pago del Impuesto
 
 ###### ARTICULO 124.
 
@@ -1137,7 +1221,9 @@ III.- Conservar la documentación relacionada con las constancias y las retencio
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### SECCION OCTAVA. De las Obligaciones de los Causantes
+#### SECCION III. Otros vehículos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 130.
 
@@ -1152,10 +1238,6 @@ III.- Conservar la documentación relacionada con las constancias y las retencio
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-#### SECCION IV. Vehículos usados
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 132.
 
@@ -1181,7 +1263,9 @@ III.- Conservar la documentación relacionada con las constancias y las retencio
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### SECCION NOVENA. De las obligaciones de terceros y de la responsabilidad solidaria
+#### SECCION IV. Vehículos usados
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTICULO 136.
 
@@ -1385,6 +1469,24 @@ Los contribuyentes que en el año inmediato anterior hayan efectuado pagos mensu
 
 Los contribuyentes que se encuentren en los supuestos a que se refiere el párrafo anterior, para ejercer la opción de pago trimestral deberán presentar previamente un aviso por escrito ante la Secretaría de Finanzas y Tesorería General del Estado, manifestando que efectuarán los pagos del impuesto en forma trimestral, respecto del trimestre siguiente a aquél en que se presente el aviso. En tanto no se inicie la obligación de pago trimestral de acuerdo al aviso, deberán realizarse los pagos mensuales en los términos del primer párrafo de este artículo.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+###### ARTICULO 158 Bis.
+
+Están obligadas a retener y enterar este impuesto, las personas físicas y morales, las unidades económicas, las asociaciones en participación y los fideicomisos, así como la Federación, el Estado, los Municipios, sus entidades paraestatales y los organismos autónomos que contraten la prestación de servicios de contribuyentes domiciliados dentro del territorio del Estado o en otra Entidad Federativa, los cuales incluyan la prestación de servicios de personal dentro del territorio del Estado. La retención del impuesto se efectuará al contribuyente que preste los servicios contratados, debiendo entregarle la constancia de retención correspondiente durante los quince días siguientes al periodo respectivo.
+
+Cuando para la determinación de la retención del impuesto se desconozca el monto de las remuneraciones al trabajo personal realizadas por el contribuyente de que se trate, la retención deberá determinarse aplicando la tasa del 3% al valor total de las contraprestaciones efectivamente pagadas por los servicios contratados en el mes que corresponda, sin incluir el Impuesto al Valor Agregado e independientemente de la denominación con que se designen.
+
+La retención del impuesto prevista anteriormente, no libera a los contribuyentes directos de la obligación de presentar la declaración de pago del impuesto prevista en el Artículo 158 de la presente Ley, en la cual podrá acreditar el impuesto que le haya sido retenido en el período correspondiente, y en su caso, cubrir la diferencia del impuesto sobre nóminas que le resulte a su cargo, o bien solicitar la devolución del impuesto correspondiente, en el supuesto de que dicha retención genere un saldo a favor del contribuyente.
+
+Para efectos de la devolución a que se refiere el párrafo anterior, el solicitante deberá presentar, además de los requisitos que señale el Código Fiscal del Estado, copia de los comprobantes fiscales por concepto de pago de salarios de los trabajadores respecto de los cuales se generó el impuesto, de los acuses de recibo, así como de la declaración de entero de las retenciones de impuestos federales efectuadas a dichos trabajadores y de pago de las cuotas obrero patronales al Instituto Mexicano del Seguro Social.
+
+Los contribuyentes a que se refiere este artículo deberán solicitar su inscripción en el Registro Estatal de Contribuyentes, como retenedores del Impuesto.
+
+Para los efectos de este artículo, se entenderá por prestación de servicios, toda obligación de hacer, de no hacer o permitir, asumida por una persona en beneficio de otra; cuando con motivo de la prestación de un servicio se proporcionen bienes o se otorgue su use o goce temporal al prestatario, y se considerará como ingreso por el servicio o como valor de éste, el importe total de la contraprestación a cargo del prestatario, siempre que sean bienes que normalmente se proporcionen o se conceda su uso o goce con el servicio de que se trate
+
+Son responsables solidarios del pago de este impuesto, las personas físicas o morales, las unidades económicas, las asociaciones en participación, los fideicomisos, así como la Federación, el Estado, los Municipios, su entidades paraestatales y los organismos autónomos que contraten o reciban la prestación del trabajo personal, no obstante el pago se realice por conducto de un tercero.
+
 ###### ARTICULO 159.
 
 Son obligaciones de los causantes de este impuesto:
@@ -1407,39 +1509,33 @@ IV.- Los contribuyentes deberán presentar aviso de apertura o cierre de sucursa
 
 V.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 159 Bis.
 
-Los contribuyentes que otorguen apoyos para la creación de obras literarias o artísticas de autores nuevoleoneses podrán acreditar, contra el impuesto sobre nóminas a su cargo, una cantidad equivalente al 80% del apoyo otorgado, conforme a lo siguiente:
-
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
+Los contribuyentes que otorguen apoyos para la creación de obras literarias o artísticas de autores nuevoleoneses podrán acreditar, contra el impuesto sobre nóminas a su cargo, una cantidad equivalente al 85% del apoyo otorgado, conforme a lo siguiente:
 
 1.- El monto total del estímulo fiscal a distribuir no excederá de $15,000,000.00 anuales;
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
+2.- Del monto total, un mínimo de $2,000,000.00 será destinado de forma exclusiva a autores nuevoleoneses menores de 30 años a la fecha en que lo soliciten al Consejo para la Cultura y las Artes de Nuevo León;
 
-2.- El monto anual del apoyo susceptible de aplicarse al estímulo fiscal por creador o por proyecto no podrá exceder de los siguientes montos: $500,000.00 (quinientos mil pesos) para el caso de creación de obras artísticas originales o $1,000,000.00 (un millón de pesos) tratándose de creaciones de producciones teatrales, musicales y dancísticas; y
+3.- El monto anual del apoyo susceptible de aplicarse al estímulo fiscal por creador o por proyecto no podrá exceder de los siguientes montos: $500,000.00 (Quinientos mil pesos) para el caso de creación de obras artísticas originales o $1,000,000.00 (Un millón de pesos) tratándose de creaciones de producciones teatrales, musicales y dancísticas;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+4.- El monto acreditable será hasta del 100 % del impuesto sobre nóminas a cargo del contribuyente; y
 
-3. El monto a acreditarse no podrá exceder del 20% del impuesto sobre nóminas a cargo del contribuyente.
+5.- Los autores podrán recibir hasta por dos ejercicios fiscales consecutivos apoyo derivado de este artículo y deberá pasar un ejercicio fiscal sin recibir para poder solicitarlo de nuevo.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
-
-Los estímulos previstos en este artículo podrán aplicarse a los procesos de creación de obras artísticas originales en las ramas literaria, musical, dramática, danza, pictórica o de dibujo, escultórica y de carácter plástico, caricatura e historieta, guion cinematográfico y fotografía o bien, se podrán utilizar los estímulos para la creación de producciones teatrales, musicales y dancísticas, entendiéndose como tal la materialización de obras artisticas originales de teatro, música y danza, a través de sus distintos procesos tales como la escenografía, utilería, vestuario, iluminación, elementos electrónicos, entre otros. Para los efectos de este artículo, no se considerará como creación literaria ni artística la interpretación, la ejecución, la reproducción, la divulgación o la difusión de dichas obras ni quedarán incluidas las obras que resulten de la adaptación o transformación de obras originales, tales como arreglos, compendios, ampliaciones, traducciones, adaptaciones, paráfrasis, compilaciones y colecciones de obras literarias o artísticas.
+Los estímulos previstos en este artículo podrán aplicarse a los procesos de creación de obras artísticas originales en las ramas literaria, musical, dramática, danza, pictórica o de dibujo, escultórica y de carácter plástico, caricatura e historieta, guion cinematográfico y fotografía o bien, se podrán utilizar los estímulos para la creación de producciones teatrales, musicales y dancísticas, entendiéndose como tal la materialización de obras artísticas originales de teatro, música y danza, a través de sus distintos procesos tales como la escenografía, utilería, vestuario, iluminación, elementos electrónicos, entre otros. Para los efectos de este artículo, no se considerará como creación literaria ni artística la interpretación, la ejecución, la reproducción, la divulgación o la difusión de dichas obras ni quedarán incluidas las obras que resulten de la adaptación o transformación de obras originales, tales como arreglos, compendios, ampliaciones, traducciones, adaptaciones, paráfrasis, compilaciones y colecciones de obras literarias o artísticas.
 
 Los apoyos serán inembargables, deberán proporcionarse en dinero y el contribuyente podrá optar por entregarlos directamente al creador o hacerlo a través del Consejo para la Cultura y las Artes de Nuevo León, conforme a las reglas de operación que este organismo expida.
 
 Los apoyos otorgados en los términos previstos en este artículo no podrán acumularse a otros estímulos que se otorguen en relación con diversas contribuciones federales, estatales o municipales.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2014)</small>
-
 Corresponderá al Consejo para la Cultura y las Artes de Nuevo León la autorización de los proyectos de creación literaria y artística, y de producción teatral, musical y dancística, así como el establecimiento de los requisitos y trámites que deberán cumplir los interesados para hacerse merecedores del estímulo fiscal.
 
-El Consejo para la cultura y las Artes de Nuevo León deberá publicar en su página de Internet, dentro de los meses de julio y enero de cada año, un informe que contenga los montos erogados durante el primero y segundo semestres del ejercicio fiscal respectivo, según corresponda, así como las personas beneficiadas con el otorgamientos (sic) del estímulo fiscal y los proyectos de creación artística y literaria de dicho estímulo.
+El Consejo para la cultura y las Artes de Nuevo León deberá publicar en su página de Internet, dentro de los meses de julio y enero de cada año, un informe que contenga los montos erogados durante el primero y segundo semestres del ejercicio fiscal respectivo, según corresponda, así como las personas beneficiadas con el otorgamiento del estímulo fiscal y los proyectos de creación artística y literaria de dicho estímulo.
 
-La Secretaría de Finanzas y Tesorería General del Estado, con base en su disponibilidad presupuestal, podrá ampliar las cantidades previstas en el presente artículo. Asimismo en el ejercicio de sus facultades, verificará el correcto uso del estímulo fiscal.
+La Secretaría de Finanzas y Tesorería General del Estado, con base en su disponibilidad presupuestal, podrá ampliar las cantidades previstas en el presente artículo. Asimismo, en el ejercicio de sus facultades, verificará el correcto uso del estímulo fiscal.
 
 ###### ARTICULO 160.
 
@@ -1459,15 +1555,15 @@ e).- Pagos por gastos funerarios;
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2003)</small>
 
-f) Viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la ley del impuesto sobre la renta;
+f).- Viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la ley del impuesto sobre la renta;
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2004)</small>
 
-g) Fondo de ahorro, despensas y alimentación;
+g).- Fondo de ahorro, despensas y alimentación;
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2007)</small>
 
-h) Las remuneraciones a personas discapacitadas.
+h).- Las remuneraciones a personas discapacitadas.
 
 Para efectos de esta Ley se entiende por persona discapacitada, la que tenga una deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria.
 
@@ -1475,13 +1571,11 @@ El Centro de Evaluación de Habilidades y Actitudes Laborales del Sistema Estata
 
 II.- Las erogaciones que efectúen:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+a).- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
 
-a) (DEROGADO, P.O. 17 DE DICIEMBRE DE 2010)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1986)</small>
-
-b).- Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas;
+b).- Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas, debidamente reconocidas como instituciones de beneficencia privada en los términos de la Ley de Beneficencia Privada para el Estado de Nuevo León.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -1489,13 +1583,13 @@ c).- Cámaras de comercio, industria, agricultura, ganadería, pesca o propietar
 
 d).- Instituciones educativas;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-e) Clubes de servicio a la comunidad, sin fines de lucro;
+e).- Asociaciones de servicio a la comunidad, sin fines de lucro, debidamente reconocidas como instituciones de beneficencia privada en los términos de la Ley de la Beneficencia Privada para el Estado de Nuevo León.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-f) Las asociaciones religiosas.
+f).- Las asociaciones religiosas.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
 
@@ -1629,17 +1723,21 @@ Dentro del objeto del impuesto se incluye el sistema de tiempo compartido, por l
 
 Son sujetos de este impuesto las personas físicas, morales o las unidades económicas que presten los servicios objeto de este gravamen.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Son responsables solidarios del pago de este impuesto los intermediarios o facilitadores de la prestación de los servicios de hospedaje, ya sea que se realicen a través de internet o de cualquier otro medio electrónico, respecto de personas físicas, morales o las unidades económicas contribuyentes del impuesto.
+
 > <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 173.
 
 Es base de este impuesto el monto total de las erogaciones por la prestación de los servicios gravados. Se consideran erogaciones por la prestación de los servicios gravados los pagos totales por la prestación de los servicios a que se refiere el artículo 171, incluyendo los intereses, penas convencionales y cualesquier otros conceptos que se adicionen, vinculados a los servicios prestados y que se realicen en efectivo o en especie, deduciendo las devoluciones, descuentos, reducciones y bonificaciones recibidas. El Impuesto al Valor Agregado no se incluirá en el cálculo del impuesto.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 174.
 
-El impuesto se determinará aplicando una tasa del 2% sobre la base determinada en el artículo precedente.
+El impuesto se determinará aplicando una tasa del 3% sobre la base determinada en el artículo precedente.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2811,8 +2909,6 @@ Los derechos de refrendo anual a que se refiere este artículo deberán cubrirse
 
 ### CAPITULO SEXTO. De los Derechos Prestados por la Secretaría de Desarrollo Sustentable
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 276.
@@ -3235,7 +3331,7 @@ Por los servicios prestados por la Secretaría de Desarrollo Sustentable, se cau
 
 Concepto TARIFA
 
-I. En el rubro de prestadores de servicios ambientales:
+I.- En el rubro de prestadores de servicios ambientales
 
 a) Constancia de ingreso a la base de datos
 
@@ -3243,147 +3339,269 @@ de prestadores de servicio en materia ambiental
 
 y su renovación anual 68.5 cuotas
 
-II. En el rubro de impacto ambiental:
+II.- En el rubro de impacto ambiental:
 
 a) Evaluación de informe preventivo 187.5 cuotas
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 b) Evaluación de manifestaciones de impacto
 
-ambiental, en la modalidad general e industrial 375 cuotas
+ambiental, en la modalidad general e industrial 500 cuotas
 
-c) Evaluación de estudio de riesgo 375 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-III. En el rubro de residuos:
+c) Evaluación de estudio de riesgo 500 cuotas
 
-a) Constancia de ingreso a la base de datos
+III.- En el rubro de residuos:
 
-de generadores de residuos de manejo especial 34 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+a) Constancia de ingreso a la base de datos de
+
+generadores de residuos de manejo especial 70 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 b) Evaluación de factibilidad para realizar,
 
-recolección, transporte, reciclaje, reuso y
+recolección, transporte, reciclaje, reuso y disposición
 
-disposición final de residuos de manejo especial 34 cuotas
+final de residuos de manejo especial 150 cuotas
 
-c) Evaluación de factibilidad de operación
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-y manejo integral de relleno sanitario 1,410 cuotas
+c) Evaluación de factibilidad de operación y manejo
+
+integral de relleno sanitario 1,500 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 d) Evaluación de factibilidad de operación de
 
-escombreras o sitios de disposición final de residuos
+escombreras o sitios de disposición final de
 
-provenientes de la construcción y estaciones de transferencia 103 cuotas
+residuos provenientes de la construcción y
 
-e) Evaluación de factibilidad de instalación de
+estaciones de transferencia 150 cuotas
 
-plantas de tratamiento térmico de residuos 103 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-f) Evaluación de factibilidad para la prestación
+e) Evaluación de factibilidad de instalación de plantas
 
-del servicio de manejo integral de los residuos
+de tratamiento térmico de residuos 150 cuotas
 
-sólidos urbanos, en caso que se preste en más de dos
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-municipios 34 cuotas
+f) Evaluación de factibilidad para la prestación del
+
+servicio de manejo integral de los residuos sólidos urbanos,
+
+en caso que se preste en más de dos municipios 75 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 g) Evaluación de factibilidad para empresas
 
-dedicadas a la compra y venta de materiales
+dedicadas a la compra y venta de materiales reciclables
 
-reciclables de residuos especiales 34 cuotas
+de residuos especiales 75 cuotas
 
 h) Evaluación de factibilidad para la operación
 
 y manejo integral de los centros de composteo 34 cuotas
 
-IV. En el rubro de aguas residuales:
+IV.- En el rubro de aguas residuales:
 
-a) Constancia de ingreso a la base de datos de
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-usuarios de fosas sépticas 9 cuotas
+a) Constancia de ingreso a la base de datos
+
+de usuarios de fosas sépticas 35 cuotas
 
 b) Constancia de ingreso a la base de datos de
 
 descargas o de plantas de tratamiento de aguas residuales 46 cuotas
 
-c) Evaluación de informes de descargas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-de aguas residuales 11 cuotas
+c) Evaluación de informes de descargas de
 
-V. En el rubro de Saneamiento Ambiental:
+aguas residuales 25 cuotas
+
+V.- En el rubro de Saneamiento Ambiental:
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 a) Evaluación de factibilidad de actividad
 
 de quema a cielo abierto autorizada por la
 
-dependencia competente en materia ambiental o
+dependencia competente en materia ambiental
 
-práctica de extinguidores 9 cuotas
+o práctica de extinguidores 25 cuotas
 
 b) Evaluación para actualización de datos
 
 e información 95 cuotas
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 c) Validación de Cédula de Operación
 
-Anual 95 cuotas
+anual 95 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 d) Evaluación de la factibilidad de
 
 aprovechamiento de recursos minerales
 
-no reservados a la Federación 72 cuotas
+no reservados a la Federación 150 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VI.- Certificación estatal de cumplimiento ambiental 25 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VII.- Evaluación de Impacto Urbano Regional 500 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Evaluación de Congruencia en planes
+
+o programas de desarrollo urbano 500 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IX.- Evaluación de Congruencia en planes
+
+o programas parciales de desarrollo urbano 375 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+X.- Evaluación de Medidas de Mitigación en
+
+zonas de riesgo para desarrollos en predios con
+
+superficie de hasta 499 metros cuadrados 75 cuotas
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Certificación estatal de cumplimiento ambiental 15 cuotas
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-VII. Evaluación de Impacto Urbano Regional 375 cuotas
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-VIII. Evaluación de Congruencia en planes o programas de desarrollo urbano 375 cuotas
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-IX. Evaluación de Congruencia en planes o programas parciales de desarrollo urbano 187.50 cuotas
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-X. Evaluación de Medidas de Mitigación en zonas de riesgo para
-
-desarrollos en predios con superficie de hasta 499 metros
-
-cuadrados 34 cuotas
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-XI. Evaluación de Medidas de Mitigación en zonas de riesgo para
+XI.- Evaluación de Medidas de Mitigación en zonas de riesgo para
 
 desarrollos en predios con superficie mayor a 499 y hasta 999
 
 metros cuadrados 187.50 cuotas
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XII.- Evaluación de Medidas de Mitigación en zonas de
+
+riesgo para multifamiliares u otros desarrollos con
+
+superficie mayor a 999 metros cuadrados 500 cuotas
+
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XII. Evaluación de Medidas de Mitigación en zonas de riesgo
-
-para multifamiliares u otros desarrollos con superficie mayor
-
-a 999 metros cuadrados 375 cuotas
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
-
-XIII. Asistencia Técnica del Centro de Colaboración
+XIII.- Asistencia Técnica del Centro de Colaboración
 
 Geoespacial 187.50 cuotas
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-XIV. Asistencia Técnica para trámites urbanísticos 34 cuotas
+XIV.- Asistencia Técnica para trámites urbanísticos 75 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XV.- Evaluación de factibilidad de instalación y
+
+viabilidad para el Almacenamiento y/o Acopio de
+
+residuos de Manejo Especial 150 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Evaluación de factibilidad para realizar, recolección,
+
+transporte, y disposición final de Aguas Residuales
+
+provenientes del desazolve de fosas sépticas y/o limpieza
+
+de baños portátiles 90 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XVII.- Validación al registro de los Planes de Manejo
+
+de Residuos de Manejo Especial 75 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XVIII.- Certificado de Bienestar Animal 90 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XIX.- Certificado de Sustentabilidad Animal 150 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XX.- Evaluación y elaboración de la cedula de
+
+ingreso al registro estatal de asociaciones
+
+protectoras de animales, individuos, organizaciones
+
+no gubernamentales y/o profesionales dedicados a
+
+la protección y bienestar animal 65 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXI.- Evaluación y elaboración de la cedula de
+
+ingreso al registro estatal de establecimientos que se
+
+dediquen a la crianza y/o venta de animales 150 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXII.- Análisis del registro de las personas físicas
+
+y morales que se dediquen o realicen actividades
+
+de exhibición, trabajo, deportivas, competencias
+
+y/o adestramiento (sic) de animales 136 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXIII.- Evaluación y elaboración de la cedula de
+
+ingreso al registro estatal de las personas físicas
+
+y morales que se dediquen o realicen actividades de
+
+atención médica y/o centros de atención veterinaria 40 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXIV.- Evaluación y elaboración de la cedula de
+
+ingreso al registro estatal de establecimientos físicos
+
+o móviles que proporcionen un servicio de limpieza,
+
+cuidado y/o resguardo de animales 136 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXV.- Evaluación, elaboración y análisis relativo al
+
+certificado de procedencia, respecto de animales
+
+destinados a la venta, por cada animal 6 cuotas
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -4287,17 +4505,15 @@ P.O. 3 DE DICIEMBRE DE 2015.
 
 Primero.- Se derogan los artículos del 118 al 138 de la Ley de Hacienda del Estado de Nuevo León, lo cual entrará en vigor el día 1 de enero de 2018.
 
-Segundo.- A fin de eliminar de manera gradual el Impuesto sobre Tenencia o Uso de Vehículos, el importe del impuesto que resulte de aplicar lo dispuesto en los artículos 118 al 138 de la Ley de Hacienda del Estado de Nuevo León, se reducirá en los subsecuentes ejercicios fiscales, en los porcentajes siguientes:
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Año Porcentaje de Reducción
+Segundo.- A fin de eliminar de manera gradual el impuesto Sobre Tenencia o Uso de Vehículos, el importe del impuesto que resulte de aplicar lo dispuesto en los artículos 118 al 138 de la Ley de Hacienda del Estado de Nuevo León, se reducirá en los subsecuentes ejercicios fiscales, en los porcentajes siguientes:
 
-2016 20%
+Año Porcentaje de Reduccón (sic)
 
-2017 50%
+2017 20%
 
 2018 100%
-
-El porcentaje de reducción señalado para cada ejercicio fiscal no debe considerarse acumulativo con los importes generados en otro ejercicio fiscal, por lo que en cada ejercicio se calculará el impuesto sobre Tenencia o Uso de Vehículos según lo dispuesto en los artículos 118 al 138 de la Ley de Hacienda del Estado de Nuevo León y posteriormente se aplicará al monto resultante el porcentaje de reducción del monto que corresponda.
 
 Tercero.- Las obligaciones derivadas de esta contribución, que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichos ordenamientos, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones aplicables.
 
@@ -4318,3 +4534,27 @@ P.O. 30 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 065. SE REFORMA EL ARTÍCULO 276, EN SUS FRACCIONES VI; XIII, INCISO A) Y XV; SE ADICIONA EN SU ARTÍCULO 276 BIS, CON LAS FRACCIONES DE LA VI A LA XIV; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN".]
 
 Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2016.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 223. SE REFORMA POR MODIFICACIÓN DEL ARTÍCULO 159 BIS DE LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el primero de enero de 2017.
+
+Segundo.- Respecto de la prohibición que se contiene en el punto 5, quienes reciban el estímulo fiscal del año 2017 podrán volverlo a recibir en el año 2018, independientemente de que lo hayan recibido en el año 2016.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 226. SE REFORMA LA LEY DE HACIENDA DEL ESTADO EN SU (SIC) ARTÍCULOS 160, FRACCIÓN II, INCISO B) Y E), 174 Y 276 BIS, FRACCIÓN II, INCISOS B) Y C), FRACCIÓN III, INCISOS A) AL G), FRACCIÓN IV, INCISOS A) Y C), FRACCIÓN V, INCISOS A) Y D), FRACCIONES VI AL (SIC) X, FRACCIONES XII Y XIV; SE ADICIONA EL TÍTULO SEGUNDO, CON UN CAPÍTULO PRIMERO DENOMINADO "DE LOS IMPUESTOS A LOS JUEGOS CON APUESTAS", CONTENIENDO UNA SECCIÓN PRIMERA DENOMINADA "DEL IMPUESTO A LAS EROGACIONES EN JUEGOS CON APUESTAS" CON LOS ARTÍCULOS 10 AL 16, Y UNA SECCIÓN SEGUNDA DENOMINADA "DEL IMPUESTO POR LA REALIZACIÓN DE JUEGOS CON APUESTAS Y SORTEOS", CON LOS ARTÍCULOS 17 AL 21, 158 BIS Y 172, CON UN SEGUNDO PÁRRAFO, ASÍ COMO 276 BIS, CON LAS FRACCIONES XV A XXVI".]
+
+Primero.- El presente Decreto entrara en vigor el día 1° de enero del año 2017.
+
+Segundo.- En relación con las modificaciones a que se refiere el presente Decreto, y tratándose de las actividades a que se refiere el artículo 17 de la Ley de Hacienda del Estado, que se realicen con posterioridad a la fecha de la entrada en vigor del presente Decreto, solo quedaran afectas al pago del impuesto las cantidades efectivamente percibidas a partir de su entrada en vigor, las cuales sólo se podrán disminuir con el monto de los siguiente conceptos:
+
+I. Los premios efectivamente pagados o entregados conforme a las disposiciones aplicables a partir de la fecha de la entrada en vigor del presente Decreto, en la proporción que representen las cantidades efectivamente percibidas a partir de dicha fecha respecto de la totalidad de las cantidades efectivamente percibidas por el juego o sorteo de que se trate.
+
+II. Las cantidades efectivamente devueltas a los participantes a partir de la fecha de la entrada en vigor del presente Decreto, cuando se identifiquen con las cantidades efectivamente percibidas a partir de dicha fecha. Si las cantidades primeramente mencionadas no fuesen identificables de conformidad con lo anterior, se podrán disminuir en la proporción que representen las cantidades efectivamente percibidas a partir de la entrada en vigor del presente Decreto respecto de la totalidad de las cantidades efectivamente percibidas por el juego o sorteo de que se trate.
+
+La disminución de las cantidades mencionadas en este inciso solo se podrá (sic) realizar cuando se cumplan los requisitos a que se refiere la fracción II del artículo 19 de la Ley de Hacienda del Estado.
+
+Tercero.- El Ejecutivo del Estado, deberá realizar los ajustes presupuestales que sean necesarios en relación con los ingresos adicionales a los previstos en la Ley de Ingresos del Estado para el año 2017, que resulten de la aplicación del sistema gradual de eliminación del Impuesto Sobre Tenencia o Uso de Vehículos aprobado mediante el presente Decreto.
