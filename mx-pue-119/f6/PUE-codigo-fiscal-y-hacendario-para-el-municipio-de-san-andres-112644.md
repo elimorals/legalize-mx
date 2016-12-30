@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-y-hacendario-para-el-municipio-de-san-andres-1126
 country: "mx"
 rank: "codigo"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "PUE"
 ---
 # CODIGO FISCAL Y HACENDARIO PARA EL MUNICIPIO DE SAN ANDRES CHOLULA, PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL Y HACENDARIO PARA EL MUNICIPIO DE SAN ANDRÉS CHOLULA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Código publicado en la Trigésima Sección del Periódico Oficial del Estado de Puebla, el jueves 31 de diciembre de 2015.
 
@@ -385,7 +387,9 @@ II. Que el derecho para solicitar la devolución no se haya extinguido o preclui
 
 III. Que no haya créditos fiscales exigibles a su cargo, porque de haberlos, cualquier excedente se aplicará en cuenta; y
 
-IV. Que se dicte acuerdo escrito del Presidente, cuando su monto exceda de una cantidad equivalente a un salario mínimo diario general vigente en el Municipio, elevado al año.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IV. Que se dicte acuerdo escrito del Presidente, cuando su monto exceda de $26,659.60.
 
 ## TÍTULO TERCERO. DE LAS AUTORIDADES FISCALES MUNICIPALES
 
@@ -929,41 +933,53 @@ Comete el delito de defraudación fiscal, quien haciendo uso de engaños o aprov
 
 El delito de defraudación fiscal se sancionará:
 
-I. Con prisión de seis meses a tres años y multa de cinco a cincuenta días de salario mínimo diario general vigente, si el monto de lo defraudado no excede de doscientas veces el salario mínimo diario general vigente en el Estado; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-II. Con prisión de tres a cinco años y multa de cincuenta a doscientos cincuenta días de salario mínimo diario general vigente, si el monto de lo defraudado excede de cien veces el salario mínimo diario general vigente en el Estado.
+I. Con prisión de seis meses a tres años y multa de $365.20 a $3,652.00, si el monto de lo defraudado no excede de $14,608.00, y
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+II. Con prisión de tres a cinco años y multa de $3,652.00 a $18,260.00, si el monto de lo defraudado excede de $7,304.00.
 
 ###### ARTÍCULO 67.
 
 Comete el delito de quebrantamiento de sellos o marcas oficiales, quien sin derecho los altere, destruya o retire, habiendo sido colocados con finalidad fiscal para identificar o asegurar documentación, negociaciones o establecimientos sujetos a comprobación de obligaciones fiscales o impida por cualquier medio que se logre el propósito para el que fueron colocados.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 68.
 
-Al que cometa el delito de quebrantamiento de sellos o marcas oficiales, colocados por autoridad fiscal en ejercicio de sus funciones, se le impondrá la pena de un mes a dos años de prisión y multa de cuarenta a ciento veinte veces el salario mínimo diario general vigente en el Estado.
+Al que cometa el delito de quebrantamiento de sellos o marcas oficiales, colocados por autoridad fiscal en ejercicio de sus funciones, se le impondrá la pena de un mes a dos años de prisión y multa de $2,921.60 a $8,764.80.
 
 ###### ARTÍCULO 69.
 
 Comete el delito de falsificación o uso de medios de control fiscal, quien sin autorización, grabe, manufacture, imprima, troquele, altere o forme con fragmentos de aquellos las matrices, punzones, dados, clichés, negativos, engomados, placas o comprobantes de pago, que se utilicen como medio de control fiscal; o los use, los ponga en circulación, los venda a sabiendas de su falsificación o los ostente como pago de contribuciones, en perjuicio del Erario del Municipio.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 70.
 
-El delito de falsificación o uso de medios de control fiscal se sancionará con prisión de seis meses a cinco años y multa de sesenta a ciento ochenta veces el salario mínimo diario general vigente en el Estado.
+El delito de falsificación o uso de medios de control fiscal se sancionará con prisión de seis meses a cinco años y multa de $4,382.40 a $13,147.20.
 
 ###### ARTÍCULO 71.
 
 Comete el delito de usurpación de funciones fiscales el servidor público o el particular que se ostente como tal, que ordene o practique actos propios de la autoridad fiscal, sin mandamiento escrito o acuerdo delegatorio de facultades emitido por Autoridad competente.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 72.
 
-El delito de usurpación de funciones fiscales, se sancionará con prisión de dos meses a dos años y multa de diez a cien veces el salario mínimo diario general vigente en el Estado.
+El delito de usurpación de funciones fiscales, se sancionará con prisión de dos meses a dos años y multa de $730.40 a $7,304.00.
 
 ###### ARTÍCULO 73.
 
 Comete el delito de disposición indebida de bienes, el depositario o interventor designado por la autoridad fiscal que con perjuicio del fisco municipal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 74.
 
-El delito de disposición indebida de bienes, se sancionará con prisión de tres meses a tres años y multa de cinco a veinte días de salario mínimo diario general vigente, si el valor de lo dispuesto no excede de doscientas veces el salario mínimo diario general vigente en el Estado; y si excede de ese monto, se sancionará con prisión en el Estado n (sic) de uno a cuatro años y multa de veinte a doscientos días de salario mínimo diario general vigente en el Estado.
+El delito de disposición indebida de bienes, se sancionará con prisión de tres meses a tres años y multa de $365.20 a $1,460.80, si el valor de lo dispuesto no excede de $14,608.00; y si excede de ese monto, se sancionará con prisión en el Estado de uno a cuatro años y multa de $1,460.80 a $14,608.00.
 
 ## TÍTULO QUINTO. DE LAS NOTIFICACIONES Y DE LA GARANTÍA DEL INTERÉS FISCAL
 
@@ -1241,7 +1257,9 @@ El remate deberá ser convocado para una fecha fijada, dentro de los treinta dí
 
 La convocatoria se fijará en el sitio visible y usual de la autoridad ejecutora.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a cien veces el salario mínimo diario vigente en el Estado, la convocatoria se publicará en el periódico de mayor circulación del Municipio dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+En el caso de que el valor de los bienes exceda de una cantidad equivalente a $7,304.00, la convocatoria se publicará en el periódico de mayor circulación del Municipio dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
 
 ###### ARTÍCULO 106.
 
@@ -1305,7 +1323,9 @@ Hecho el pago a que se refiere el párrafo anterior y designado el notario por e
 
 Aún en este caso, el deudor responderá de la evicción y saneamiento del inmueble rematado.
 
-Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la Autoridad Fiscal los ponga a su disposición, en caso de no hacerlo se causarán diariamente derechos por almacenaje a partir del día siguiente, por un importe equivalente al 25% de un salario mínimo general diario vigente en el Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la Autoridad Fiscal los ponga a su disposición, en caso de no hacerlo se causarán diariamente derechos por almacenaje a partir del día siguiente, por un importe equivalente $18.26.
 
 ###### ARTÍCULO 117.
 
@@ -1853,33 +1873,29 @@ XV. Por los servicios prestados por Protección Civil.
 
 ### CAPÍTULO II. DE LOS DERECHOS POR OBRAS MATERIALES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 183.
 
-Son objeto de este derecho, los servicios que preste la administración Municipal, a solicitud o en caso de daño a la infraestructura urbana dictaminada por la autoridad competente, por los siguientes conceptos:
+Son objeto de este derecho, los servicios que preste la administración Municipal, a solicitud o en caso de daño a la infraestructura urbana dictaminada por la autoridad competente, y demás relacionados con él, por los siguientes conceptos:
 
-I. Por alineamiento y número oficial del predio;
+I. Alineamiento y Número Oficial;
 
-II. Uso de suelo;
+II. Uso de Suelo;
 
-III. Licencias de construcción;
+III. Construcciones;
 
-IV. Otras licencias;
+IV. Directores Responsable de Obra Municipal y Corresponsables;
 
-V. Para la aprobación de proyecto;
+V. Movilidad;
 
-VI. Por renovación o prórroga de licencia de obras de construcción y urbanización;
+VI. Gestión Ambiental;
 
-VII. Para la terminación o suspensión de obra;
+VII. Gestión Territorial;
 
-VIII. Para regularización de obras;
+VIII. Imagen Urbana, y
 
-IX. De los que resulten por renovación o prórroga sobre el costo vigente de la licencia de lotificación, relotificación y urbanización, dependiendo del término de la vigencia de la licencia o aviso de suspensión de obra;
-
-X. Por regularización de proyectos y planos que no hubiesen presentado oportunamente para su estudio y aprobación;
-
-XI. Por cambio de proyecto de lotificación sin modificar superficies; y
-
-XII. Por cambios de régimen de propiedad.
+IX. Supervisión y Control.
 
 ###### ARTÍCULO 184.
 
@@ -2251,7 +2267,9 @@ III. Que tiene la capacidad jurídica para solicitar la renovación de la licenc
 
 La expedición de las licencias a que se refiere el párrafo anterior, se pagará de conformidad a las cuotas, tasas y tarifas asignadas a cada giro para el ejercicio correspondiente.
 
-En el caso que para la expedición de la autorización para la colocación de publicidad se obligue el solicitante a retirarla del lugar en el que la coloque, deberá otorgar fianza por afianzadora debidamente autorizada a favor de la Tesorería Municipal, por un monto de 100 días de salario mínimo diario vigente en el Estado de Puebla al momento de su otorgamiento, para el retiro de la misma.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+En el caso que para la expedición de la autorización para la colocación de publicidad se obligue el solicitante a retirarla del lugar en el que la coloque, deberá otorgar fianza por afianzadora debidamente autorizada a favor de la Tesorería Municipal, por un monto de $7,304.00, para el retiro de la misma.
 
 ###### ARTÍCULO 225.
 
@@ -2379,9 +2397,17 @@ VIII. Por impartición de cursos de capacitación;
 
 IX. Por servicios de derribo de árbol, dentro de propiedad privada;
 
-X. Por poda de árbol; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-XI. Por revisión de Programas Internos de Protección Civil.
+X. Por poda de árbol;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XI. Por revisión de Programas Internos de Protección Civil, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XII. Por otorgamiento de Prórrogas para que cumplan con su documentación.
 
 ###### ARTÍCULO 238.
 
@@ -2702,3 +2728,13 @@ CUARTO.- Los asuntos de la materia en proceso de substanciación de los recursos
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a los quince días del mes de diciembre de dos mil quince. Diputado Presidente. SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. Diputado Vicepresidente. FRANCISCO RODRÍGUEZ ÁLVAREZ. Rúbrica. Diputado Secretario. CUPERTINO ALEJO DOMÍNGUEZ. Rúbrica. Diputada Secretaria. MA. EVELIA RODRÍGUEZ GARCÍA. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los dieciséis días del mes de diciembre de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Encargado de Despacho de la Secretaría General de Gobierno. C. JORGE BENITO CRUZ BERMÚDEZ. Rúbrica. El Secretario de Finanzas y Administración. C. GUILLERMO EDMUNDO BERNAL MIRANDA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL Y HACENDARIO PARA EL MUNICIPIO DE SAN ANDRÉS CHOLULA, PUEBLA".]
+
+PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado de Puebla y entrará en vigor el día primero de enero del año dos mil diecisiete.
+
+SEGUNDO. Se derogan las demás disposiciones que se opongan al presente Decreto.
