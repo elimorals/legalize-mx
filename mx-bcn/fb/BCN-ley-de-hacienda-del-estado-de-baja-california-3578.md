@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "2016-10-07"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
-
-> <small>[N. DE E. LA REFORMA PUBLICADA EN EL DECRETO NO. 590 DE FECHA 7 DE OCTUBRE DE 2016, NO APLICA AL ARTICULADO DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -65,11 +63,13 @@ Ninguna contribución podrá recaudarse si no está prevista por la Ley anual de
 
 En este último caso, la exigibilidad o cumplimiento de las obligaciones fiscales no legitimará esos hechos o circunstancias.
 
-> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 4
 
-1.- Las contribuciones que perciban los Organismos Descentralizados, Concesionarios, Empresas de Participación Estatal o Paraestatales, por la prestación de un servicio público, ya sea de los establecidos como Derechos o cualquier otra denominación hacendaria, se fijarán mediante cuotas o tarifas que en su caso corresponda. Ninguna contribución mencionada en el presente artículo podrá recaudarse si no está prevista por la Ley anual de ingresos correspondiente, o por una ley posterior que lo establezca.
+1.- Las contribuciones que perciban los Organismos Descentralizados, Concesionarios, Empresas de Participación Estatal o Paraestatales, por la prestación de un servicio público, ya sea de los establecidos como Derechos o cualquier otra denominación hacendaria, se fijarán mediante cuotas o tarifas que en su caso corresponda. Ninguna contribución mencionada en el presente artículo podrá recaudarse si no está prevista por la Ley anual de ingresos correspondiente, o por una ley posterior que lo establezca. Tratándose de los servicios públicos que presten los organismos operadores del agua, las cuotas y tarifas podrán ser fijadas en la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
 
 Asimismo, deberán incluir las Entidades mencionadas en el párrafo anterior, todos los servicios que generen una obligación de cobro.
 
@@ -2305,11 +2305,11 @@ Los servicios que el Gobierno del Estado proporcione en forma directa o a travé
 
 En el caso de los Organismos Descentralizados, Concesionarios, Empresas de Participación Estatal o Paraestatales, deberán sujetarse a lo establecido en el artículo 4-1 del presente ordenamiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 158.
 
-Los derechos se causarán y pagarán de conformidad con las tasas, cuotas y tarifas que establezca la Ley de Ingresos del Estado.
+Los derechos se causarán y pagarán de conformidad con las tasas, cuotas y tarifas que establezca la Ley de Ingresos del Estado. Tratándose de los servicios públicos que presten los organismos operadores del agua, las cuotas y tarifas podrán ser fijadas en la Ley de la materia.
 
 > <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2013)</small>
 
@@ -3226,3 +3226,11 @@ P.O. 7 DE OCTUBRE DE 2016.
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO CUARTO DEL DECRETO NO. 590]</small>
 
 CUARTO.- No se aprueban las reformas a los artículos 1480, 1481, 1482, 1451 BIS, 671, 672, 1387, 1437, 1438, 1439, 1440, 1441, 1442, 1443, 1444, 1445, 1446, 1447, 1448, 1449, 1450, 1451, 2868 del Código Civil para el Estado de Baja California; 866, 867, 868 del Código de Procedimientos Civiles para el Estado de Baja California y 173 de la Ley de Hacienda del Estado de Baja California, por los argumentos vertidos en el cuerpo del presente Dictamen.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 56 MEDIANTE EL CUAL SE REFORMAN LOS PRIMEROS PÁRRAFOS DE LOS ARTÍCULOS 4-1 Y 158, DE LA LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
