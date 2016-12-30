@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-partidos-politicos-para-el-estado-de-tlaxcala-109861"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2015-11-27"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY DE PARTIDOS POLÍTICOS PARA EL ESTADO DE TLAXCALA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 3 de septiembre de 2015.
 
@@ -53,9 +53,11 @@ La aplicación de esta Ley corresponde, en los términos que establece la Consti
 
 La interpretación de esta Ley se hará conforme a los criterios gramatical, sistemático y funcional, además conforme a lo dispuesto en el último párrafo del artículo 14 de la Constitución Federal.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 3.
 
-Los Partidos Políticos en el estado tienen la obligación insoslayable de promover, respetar, proteger y garantizar el respeto a los derechos humanos consagrados en la Constitución Federal, la Constitución del Estado y los Tratados Internacionales de la materia, favoreciendo en todo tiempo a las personas en la protección más amplia y a sujetar todos sus actos y decisiones en torno a ello.
+Los Partidos Políticos en el Estado tienen la obligación insoslayable de promover, respetar, proteger y garantizar el respeto a los derechos humanos consagrados en la Constitución Federal, la Constitución del Estado y los Tratados Internacionales de la materia, favoreciendo en todo tiempo a las personas en la protección más amplia y a sujetar todos sus actos y decisiones en torno a ello; cuyos dirigentes son responsables de garantizar que en sus instituciones se respeten los derechos de las mujeres participantes y ésta se genere en un ambiente libre de discriminación y violencia política.
 
 ###### Artículo 4.
 
@@ -67,7 +69,9 @@ Son derechos político-electorales de los ciudadanos tlaxcaltecas, con relación
 
 a) Asociarse o reunirse pacíficamente para tomar parte en los asuntos políticos del Estado;
 
-b) Afiliarse libre e individualmente a los partidos políticos, y
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+b) Afiliarse libre e individualmente a los partidos políticos en un contexto libre de discriminación y de cualquier forma de violencia de género; y
 
 c) Votar y ser votado para todos los cargos de elección popular dentro de los procesos internos de selección de candidatos y elección de dirigentes, conforme a lo que establezca la ley y los estatutos de cada partido político.
 
@@ -90,6 +94,12 @@ Los partidos políticos estatales y nacionales gozan de los mismos derechos y pr
 ###### Artículo 10.
 
 Para los efectos de esta Ley, se entiende por:
+
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL TEXTO DE ESTE PÁRRAFO ES SIMILAR AL ACTUAL SEGUNDO PÁRRAFO DEL ARTÍCULO 12.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Cada partido político determinará y hará públicos los criterios para garantizar paridad y alternancia de género en los términos que establece esta Ley; así como con el derecho de igualdad de oportunidades, previstos en las constituciones federal y local en las candidaturas a legisladores locales, independientemente del principio por el cual sean postulados, así como en las de integrantes de los ayuntamientos.
 
 I. Afiliado o Militante: El ciudadano que, en pleno goce y ejercicio de sus derechos político-electorales, se registra libre, voluntaria e individualmente a un partido político en los términos que para esos efectos disponga el partido en su normatividad interna, independientemente de su denominación, actividad y grado de participación;
 
@@ -117,6 +127,10 @@ XII. Tribunal o Tribunal Electoral: al Tribunal Electoral de Tlaxcala, y
 
 XIII. Tribunal Federal: El Tribunal Electoral del Poder Judicial de la Federación.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XIV. Violencia política: Es toda acción y omisión, incluida la tolerancia, que basadas en elementos de género y dadas en el marco del ejercicio de derechos político-electorales, tengan por objeto o resultado menoscabar o anular el reconocimiento, goce y ejercicio de los derechos políticos o de las prerrogativas inherentes a un cargo público.
+
 ###### Artículo 11.
 
 En los partidos políticos con registro o acreditación ante el Instituto Tlaxcalteca de Elecciones queda prohibida la intervención de:
@@ -131,11 +145,17 @@ c) Cualquier forma de afiliación corporativa.
 
 Los partidos políticos promoverán los valores cívicos y la cultura democrática entre niñas, niños y adolescentes, y garantizarán la participación efectiva de ambos géneros en la integración de sus órganos, así como en la postulación de candidatos.
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 307 PUBLICADO EN EL P.O. DE 30 DE DICIEMBRE DE 2016, SE ADVIERTE QUE EL TEXTO DE ESTE PÁRRAFO ES SIMILAR AL ACTUAL SEGUNDO PÁRRAFO DEL ARTÍCULO 10.]</small>
+
 Cada partido político determinará y hará públicos los criterios para garantizar paridad y alternancia de género en los términos que establece la Ley Local Electoral, así como con el derecho de igualdad de oportunidades, previstos en las constituciones federal y local en las candidaturas a legisladores locales, independientemente del principio por el cual sean postulados, así como en las de integrantes de los ayuntamientos.
 
 A efecto de garantizar el principio de paridad de género en el ejercicio del cargo, todos los suplentes que integren las fórmulas de candidatos deberán ser del mismo género que los propietarios.
 
 En ningún caso se admitirán criterios que tengan como resultado que a alguno de los géneros le sean asignados exclusivamente aquellos distritos, municipios o comunidades en los que el partido haya obtenido sus porcentajes de votación más bajos en el proceso electoral anterior, en cada tipo de elección.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+En el caso de las candidaturas a integrantes de Ayuntamientos, todos los partidos políticos garantizaran la paridad en sus dos vertientes horizontal y vertical.
 
 ###### Artículo 13.
 
@@ -153,9 +173,15 @@ V. Coordinar acciones políticas y electorales conforme a su declaración de pri
 
 VI. Fomentar el debate sobre cuestiones de interés común y deliberaciones sobre temas que integran objetivos estatales y municipales;
 
-VII. Fomentar los principios democráticos en el desarrollo de sus actividades, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-VIII. Garantizar y cumplir con la paridad de género conforme a lo dispuesto por la Constitución Local, las leyes en la materia y sus estatutos.
+VII. Fomentar los principios democráticos en el desarrollo de sus actividades;
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VIII. Fomentar el empoderamiento de las mujeres mediante programas de capacitación política continua; y
+
+IX. Garantizar y cumplir con la paridad de género conforme a lo dispuesto por la Constitución Local, las leyes en la materia y sus estatutos.
 
 ###### Artículo 14.
 
@@ -329,9 +355,17 @@ III. La declaración de no aceptar pacto o acuerdo que lo sujete o subordine al 
 
 IV. La obligación de conducir sus actividades por medios pacíficos y por la vía democrática;
 
-V. No aceptar ni emplear apoyos, que tengan origen ilícito, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-VI. La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres.
+V. No aceptar ni emplear apoyos que tengan origen ilícito;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VI. La obligación de promover la participación política en igualdad de oportunidades y equidad entre mujeres y hombres; y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VII. La obligación de promover, proteger y respetar los derechos políticos de las mujeres reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano sea parte y en la legislación aplicable.
 
 ###### Artículo 27.
 
@@ -339,11 +373,17 @@ El programa de acción determinará:
 
 I. Medidas congruentes que permitan cumplir los postulados y alcanzar los objetivos contenidos en su declaración de principios;
 
-II. Acciones de formación ideológica y política de sus afiliados, infundiendo en ellos el respeto al adversario y sus derechos en la lucha política;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-III. Instrumentos de promoción de cultura política democrática entre la ciudadanía, que incidan en su participación en los procesos políticos, electorales y de consulta ciudadana en el Estado, los municipios y las comunidades, y
+II. Acciones de formación ideológica y política de sus afiliados, infundiendo en ellos el respeto al adversario y sus derechos en la lucha política con el fin de evitar acciones u omisiones que constituyan violencia política contra las mujeres;
 
-IV. Políticas públicas para coadyuvar en la solución de los problemas sociopolíticos, estatales y municipales.
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+III. Acciones para fomentar el empoderamiento de las mujeres mediante programas de capacitación política continua;
+
+IV. Instrumentos de promoción de cultura política democrática entre la ciudadanía, que incidan en su participación en los procesos políticos, electorales y de consulta ciudadana en el Estado, los municipios y las comunidades; y
+
+V. Políticas públicas para coadyuvar en la solución de los problemas sociopolíticos, estatales y municipales.
 
 ###### Artículo 28.
 
@@ -375,7 +415,9 @@ VIII. La obligación de presentar una plataforma electoral para cada elección e
 
 IX. La obligación de sus candidatos de sostener y difundir la plataforma electoral, durante la campaña electoral en que participen;
 
-X. La obligación de sus militantes y candidatos de actuar con respeto hacia sus adversarios;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+X. La obligación de sus militantes y candidatos de actuar con respeto hacia sus adversarios; así como de evitar actos u omisiones que constituyan violencia política en contra de las mujeres;
 
 XI. Los tipos y las reglas de financiamiento privado a los que recurrirán;
 
@@ -1557,10 +1599,22 @@ LEONARDO ERNESTO ORDOÑEZ CARRERA
 
 Rúbrica y sello
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 27 DE NOVIEMBRE DE 2015.
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
 
 Artículo Segundo. Se derogan todas aquéllas disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 307.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE TLAXCALA Y DE LA LEY DE PARTIDOS POLÍTICOS.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquéllas disposiciones que se opongan al contenido del presente Decreto.
