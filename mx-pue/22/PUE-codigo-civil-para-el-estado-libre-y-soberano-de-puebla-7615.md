@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2016-11-25"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -3863,19 +3863,13 @@ IV.- Si el abuelo o abuela por una de las líneas es viudo o casado en segundas 
 
 V.- Si la patria potestad se defiere por convenio o por resolución judicial a los abuelos por una línea, a falta o por impedimento de éstos, corresponderá ejercerla a los de la otra línea.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 608.
 
-Las personas que tienen al menor bajo su patria potestad o su custodia, deberán proporcionar a éste educación con la facultad de corregirlo de una manera prudente y moderada, así como la obligación de observar una conducta que le sirva de buen ejemplo.
+Las personas que tienen al menor bajo su patria potestad o su custodia, deberán proporcionar a éste educación con la facultad de corregirlo de una manera prudente y moderada, y abstenerse de ejercer cualquier tipo de violencia en su contra, en específico castigo corporal; así como la obligación de observar una conducta que le sirva de buen ejemplo.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1998)</small>
-
-La facultad de corregir no implica infligir al menor actos de fuerza u omisiones graves, que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 291 de este Código.
-
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2004)</small>
-
-Quien ejerza la patria potestad, debe procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerce la patria potestad, en consecuencia, cada uno de los ascendientes debe evitar cualquier acto encaminado a producir en los menores, rencor o rechazo hacia el otro progenitor.
+La facultad de corregir no implica infligir al menor actos de fuerza u omisiones, que atenten contra su integridad física o psíquica en términos de lo dispuesto por el artículo 291 de este Código, y las normas aplicables en materia de Niñas, Niños y Adolescentes.
 
 ###### Artículo 609.
 
@@ -20454,5 +20448,13 @@ P.O. 25 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 611 Y EL TERCER PÁRRAFO DEL ARTÍCULO 637, AMBOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 98 FRACCIÓN IX, 104 PÁRRAFO TERCERO Y 142 FRACCIÓN II, Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 61, TODOS DE LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, ASÍ COMO REFORMA EL ARTÍCULO 608 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
