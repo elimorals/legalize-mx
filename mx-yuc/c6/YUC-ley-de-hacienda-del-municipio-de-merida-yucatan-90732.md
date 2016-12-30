@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2015-12-28"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,13 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE MERIDA, YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE ENERO DE 2017 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -79,9 +83,11 @@ IV.- Los Reglamentos Municipales y las demás leyes, que contengan disposiciones
 
 La Ley de Ingresos del Municipio de Mérida, será publicada en el Diario Oficial del Gobierno del Estado a más tardar el treinta y uno de diciembre de cada año y entrará en vigor a partir del primero de enero del año siguiente.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 4.
 
-Cualquier disposición dictada o convenio celebrado por autoridad fiscal competente, deberá sujetarse al tenor de la presente Ley. En consecuencia carecerá de valor y será nulo de pleno derecho toda disposición dictada o convenio celebrado, en contravención con lo establecido en esta Ley.
+Cualquier disposición dictada o convenio celebrado por autoridad fiscal competente, se sujetará a la presente Ley; en caso contrario, carecerá de valor y será nulo de pleno derecho.
 
 ###### ARTÍCULO 5.
 
@@ -123,11 +129,19 @@ d).- Prenda.
 
 e).- Embargo en la vía administrativa.
 
-Respecto de la garantía prendaría, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 salarios mínimos diarios vigentes en el municipio al momento de la determinación del crédito.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Respecto de la garantía prendaria, solamente será aceptada por la autoridad como tal, cuando el monto del crédito fiscal y sus accesorios sea menor o igual a 50 veces la unidad de medida y actualización vigente al momento de la determinación del crédito.
 
 En caso de otorgarse la garantía señalada en el inciso e) deberán pagarse los gastos de ejecución que se establecen en el artículo 168 de esta Ley.
 
 En el procedimiento de constitución de estas garantías se observarán en cuanto fueren aplicables las reglas que fijen el Código Fiscal de la Federación y el reglamento de dicho Código.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 9 A.- Para los efectos de esta Ley, cuando se haga referencia a firma, equivaldrá a firma autógrafa o a firma electrónica según el medio en que se aplique.
+
+Se entenderá por "firma electrónica": el conjunto de datos y caracteres que permite la identificación del firmante, que ha sido creada por medios electrónicos bajo su exclusivo control, de manera que está vinculada únicamente al mismo y a los datos a los que se refiere, lo que permite que sea detectable cualquier modificación ulterior de éstos, la cual produce los mismos efectos jurídicos que la firma autógrafa; conforme a la ley estatal o federal de la materia.
 
 #### Sección Tercera. De las autoridades fiscales
 
@@ -161,37 +175,33 @@ El Subdirector de Ingresos tendrá facultades para suscribir:
 
 a).- Las licencias de funcionamiento municipales, cuya expedición apruebe la autoridad competente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+b).- Los certificados y las constancias de no adeudar contribuciones municipales;
 
-b).- Los certificados de no adeudar contribuciones municipales;
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-c).- Los acuerdos de notificación y mandamientos de ejecución, de las multas federales no fiscales y de las multas impuestas por las autoridades municipales y requerimientos de pago.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+c).- Los acuerdos de notificación, mandamientos de ejecución, de las multas federales no fiscales y de las multas impuestas por las autoridades municipales, requerimientos de pago y oficios de observaciones.
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 d).- Las constancias de excepción de pago de contribuciones previstas en esta Ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 e).- Los oficios de comisión de los interventores de espectáculos y diversiones públicas; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-f).- Los requerimientos de documentación a contribuyentes y terceros relacionados.
+f).- Los requerimientos de licencia de funcionamiento, de documentación a contribuyentes y terceros relacionados.
 
 #### Sección Cuarta. Del órgano administrativo
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 12.
 
-La Hacienda Pública del Municipio de Mérida, Estado de Yucatán, se administrará libremente por el Ayuntamiento y el único órgano de la administración facultado para recibir los ingresos y realizar los egresos será la Dirección de Finanzas y Tesorería Municipal.
+La Hacienda Pública del Municipio de Mérida, se rige por los principios establecidos en la Base Novena del Artículo 77 de la Constitución Política del Estado; administrándose conforme a las leyes correspondientes, reglamentos y demás disposiciones normativas que acuerde el Ayuntamiento. El único órgano de la administración pública municipal, facultado para recaudar y administrar los ingresos y aplicar los egresos, es la Dirección de Finanzas y Tesorería Municipal.
 
 ###### ARTÍCULO 13.
 
@@ -257,51 +267,73 @@ Las aportaciones: Son los recursos que la federación transfiere a las haciendas
 
 #### Sección Sexta. Transferencias, Asignaciones, Subsidios y Otras Ayudas
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 #### Sección Séptima. Ingresos derivados de Financiamiento
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 28 DE DICIEMBRE DE 2015)</small>
+ARTÍCULO 20 A.- Son Ingresos derivados de Financiamiento, los ingresos obtenidos por la celebración de empréstitos internos autorizados o ratificados por el Congreso del Estado y los autorizados de forma directa por el Cabildo, sin la aprobación específica del Congreso del Estado, de conformidad con lo dispuesto en las Leyes de Deuda Pública y de Gobierno de los Municipios, ambas del Estado de Yucatán; así como los financiamientos derivados de rescate y/o aplicación de Activos Financieros.
 
-ARTÍCULO 20 A.- Son los ingresos obtenidos por la celebración de empréstitos internos los autorizados o ratificados por el Congreso del Estado y los autorizados de forma directa por el Cabildo, sin la aprobación específica del Congreso del Estado, ambos de conformidad con lo dispuesto en la Ley de Deuda Pública del Estado de Yucatán; así como los financiamientos derivados de rescate y/o aplicación de Activos Financieros.
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-#### Sección Primera. De la causación y determinación
+#### Sección Octava. Ingresos por ventas de bienes y servicios
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 20 B.- Son recursos propios que obtienen las diversas entidades que conforman el sector paramunicipal por sus actividades de producción y/o comercialización.
 
 ###### ARTÍCULO 20.
 
-Son los recursos destinados en forma directa o indirecta a la Hacienda Pública Municipal y apoyos como parte de su política económica y social de acuerdo a las estrategias y prioridades de desarrollo para el sostenimiento de desempeño de sus actividades, por los siguientes conceptos:
+Las transferencias, asignaciones, subsidios y otras ayudas: Son los recursos recibidos en forma directa o indirecta por la Hacienda Pública Municipal y apoyos como parte de su política económica y social de acuerdo a las estrategias y prioridades de desarrollo para el sostenimiento de desempeño de sus actividades institucionales como son:
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
 I. Donativos
 
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
 II. Cesiones
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
 III. Herencias
 
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
 IV. Legados
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
 V. Por adjudicaciones judiciales
 
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
 VI. Por adjudicaciones administrativas
 
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
+
 VII. Por subsidios
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
 VIII. Otros ingresos no especificados
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
-#### Sección Segunda. De los obligados solidarios
+#### Sección Primera. De la causación y determinación
 
-#### Sección Tercera. De la época de pago
+#### Sección Segunda. De los obligados solidarios
 
 ### CAPÍTULO III. DE LOS CREDITOS FISCALES
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 21.
 
-Son créditos fiscales aquéllos que tenga derecho de percibir el Ayuntamiento y sus organismos descentralizados, que provengan de contribuciones, de aprovechamientos y de sus accesorios, incluyendo los que deriven de responsabilidades que el Ayuntamiento tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que la Ley otorgue ese carácter y el Municipio tenga derecho a percibir, por cuenta ajena.
+Son créditos fiscales, los ingresos que por sus funciones de derecho público le corresponde percibir al Ayuntamiento y a sus organismos descentralizados, provenientes de las contribuciones, aprovechamientos o de sus accesorios, incluidos los que se deriven de responsabilidades que el Ayuntamiento tenga derecho a exigir de sus servidores públicos o los particulares; o los que la Ley otorgue ese carácter y el Municipio tenga derecho a percibir, por cuenta ajena.
 
-#### Sección Cuarta. Del pago a plazos
+#### Sección Tercera. De la época de pago
 
 ###### ARTÍCULO 22.
 
@@ -309,15 +341,19 @@ Las contribuciones se causan, conforme se realizan las situaciones jurídicas o 
 
 Dichas contribuciones se determinarán de acuerdo con las disposiciones vigentes en el momento de su causación, pero les serán aplicables las normas sobre procedimientos que se expidan con posterioridad.
 
-La determinación de las contribuciones corresponde a las autoridades fiscales, con excepción del Impuesto Sobre Adquisición de inmuebles cuya determinación corresponde a los fedatarios públicos y a las personas que por disposición legal tengan funciones notariales; y la del Impuesto Predial, Base Contraprestación, que corresponde a los sujetos obligados.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Los contribuyentes, proporcionarán a las mencionadas autoridades, la información necesaria y suficiente para determinar las citadas contribuciones, en un plazo máximo de quince días siguientes, a la fecha de su causación, salvo en los casos que la propia Ley fije otro plazo.
+Los contribuyentes, proporcionarán a las mencionadas autoridades, la información necesaria y suficiente para determinar las contribuciones, en un plazo máximo de quince días siguientes, a la fecha de su causación, salvo en los casos que la propia Ley fije otro plazo.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+La determinación de las contribuciones corresponde a las autoridades fiscales, con excepción del Impuesto Sobre Adquisición de Inmuebles cuya determinación corresponde a los fedatarios públicos y a las personas que por disposición legal tengan funciones notariales; y la del Impuesto Predial, Base Contraprestación, que corresponde a los sujetos obligados.
 
 ###### ARTÍCULO 23.
 
 No serán exigibles los impuestos y derechos a que se refiere la presente Ley cuando hayan sido derogados o suspendidos para cumplir con los requisitos establecidos en las leyes federales y los convenios suscritos entre la Federación y el Estado o Municipio, a partir de la fecha de su celebración.
 
-#### Sección Quinta. De los pagos en general
+#### Sección Cuarta. Del pago a plazos
 
 ###### ARTÍCULO 24.
 
@@ -331,7 +367,7 @@ III.- Los retenedores de impuestos y otras contribuciones.
 
 IV.- Los funcionarios, fedatarios y las demás personas que señala la presente Ley y que en el ejercicio de sus funciones, no cumplan con las obligaciones que las leyes y disposiciones fiscales les imponen, de exigir, a quienes están obligados a hacerlo, que acrediten que están al corriente en el pago de sus contribuciones o créditos fiscales al Municipio.
 
-#### Sección Sexta. Del pago ajustado a pesos
+#### Sección Quinta. De los pagos en general
 
 ###### ARTÍCULO 25.
 
@@ -341,7 +377,7 @@ En los términos establecidos en el párrafo anterior, para el pago de los créd
 
 La existencia de personal de guardia no habilita los días en que se suspendan las labores. Si al término del vencimiento fuere día inhábil, el plazo se prorrogará al siguiente día hábil.
 
-#### Sección Séptima. De los formularios
+#### Sección Sexta. Del pago ajustado a pesos
 
 ###### ARTÍCULO 26.
 
@@ -363,7 +399,9 @@ Los pagos efectuados durante la vigencia de la autorización se deberán aplicar
 
 La falta de pago oportuno de alguna parcialidad ocasionará la revocación de la autorización de pago a plazos en parcialidades, a lo cual la autoridad exigirá el pago del adeudo total. El saldo de la contribución o aprovechamiento a que se refiere el inciso a) anterior que no haya sido cubierto en el pago a plazos se actualizará y causará recargos de conformidad con lo establecido en los artículos 32, 33 y 34 de esta Ley, desde la fecha en que se haya efectuado el último pago en parcialidades conforme a la autorización respectiva y hasta la fecha en que se realice el pago. A fin de determinar el adeudo total deberán considerarse los importes no cubiertos de la contribución o aprovechamiento, su actualización y accesorios, por los cuales se autorizó el pago en parcialidades adicionados con la actualización y accesorios que se generen a partir del incumplimiento del pago en parcialidades.
 
-#### Sección Octava. De las obligaciones en general
+#### Sección Séptima. De los formularios
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 27.
 
@@ -385,19 +423,27 @@ III.- Multas.
 
 IV.- La indemnización a que se refiere el artículo 35 de esta ley.
 
-#### Sección Novena. De las Licencias de Funcionamiento
+#### Sección Octava. De las obligaciones en general
 
 ###### ARTÍCULO 28.
 
 Para determinar las contribuciones, los productos y los aprovechamientos, se considerarán inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que los que contengan cantidades que incluyan de 1 hasta 49 centavos se ajusten a la unidad inmediata anterior y los que contengan cantidades de 50 a 99 centavos, se ajusten a la unidad inmediata superior.
 
-#### Sección Décima. De la actualización
+#### Sección Novena. De las Licencias de Funcionamiento
 
 ###### ARTÍCULO 29.
 
-Los avisos, declaraciones, solicitudes, memoriales o manifestaciones, que presenten los contribuyentes para el pago de alguna contribución o producto, se harán en los formularios que apruebe la Dirección de Finanzas y Tesorería Municipal en cada caso, debiendo consignarse los datos, y acompañar los documentos que se requieran.
+Los avisos, declaraciones, solicitudes, memoriales o manifestaciones, que presenten los contribuyentes para uso de aplicaciones en internet, o para el pago de alguna contribución o producto, se harán en los formularios que apruebe la Dirección de Finanzas y Tesorería Municipal en cada caso, debiendo consignarse los datos, y acompañar los documentos que se requieran.
 
-#### Sección Décima Primera. De los Recargos
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 29 A.- Los contribuyentes que remitan a la autoridad fiscal un documento digital, recibirán acuse de recibo, en virtud del cual se podrá identificar a la dependencia receptora.
+
+El acuse de recibo presumirá salvo prueba en contrario que el documento fue recibido en la hora y fecha consignada.
+
+Las autoridades fiscales establecerán los medios para que los contribuyentes puedan verificar la autenticidad de los acuses de recibo digitales así como de los documentos en que se utilice la firma electrónica.
+
+#### Sección Décima. De la actualización
 
 ###### ARTÍCULO 30.
 
@@ -421,19 +467,15 @@ VI.- Exhibir los documentos públicos y privados que requiera la Dirección de F
 
 VII.- Proporcionar con veracidad los datos que requiera la Dirección de Finanzas y Tesorería Municipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 VIII.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y términos que señala la presente Ley, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 IX.- Acreditar para la realización de trámites ante la Dirección de Finanzas y Tesorería Municipal, el Registro Federal de Contribuyentes (RFC) emitido por el Servicio de Administración Tributaria.
 
-#### Sección Décima Segunda. De la causación de los Recargos
+#### Sección Décima Primera. De los Recargos
 
 ###### ARTÍCULO 31.
 
@@ -449,101 +491,77 @@ En adición a lo señalado en el párrafo inmediato anterior, el Director de Fin
 
 El titular de la licencia de funcionamiento deberá revalidarla durante los cuatro primeros meses de cada administración municipal; por lo que durante este plazo dicha licencia continuará vigente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 El domicilio donde se encuentre el comercio, negocio o establecimiento deberá estar al día en el pago del Impuesto Predial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES SÉPTIMO PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-Para la obtención de la licencia de funcionamiento por apertura; las personas físicas o morales deberán comprobar:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I. Para la obtención de la licencia de funcionamiento por apertura; las personas físicas o morales deberán comprobar:
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 a).- La legal ocupación del inmueble, mediante el contrato, convenio o cualquier otro documento que lo compruebe; en caso de no ser propietario del mismo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 b).- La autorización de la Dirección de Desarrollo Urbano para establecer un uso diferente a casa habitación, en un predio o inmueble; mediante la Licencia de Uso del Suelo para el trámite de la Licencia de Funcionamiento Municipal.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 c).- La autorización para que en un establecimiento se expenda al público bebidas alcohólicas; mediante la determinación, licencia o permiso expedido por la autoridad sanitaria, que corresponda al domicilio y al giro de la licencia de funcionamiento municipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 d).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 e).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 f).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
 
 g).- Tratándose de estacionamientos públicos, la constancia de asignación de tipo y categoría previstos en el Reglamento de Estacionamientos Públicos, Privados y Temporales De Vehículos Del Municipio De Mérida.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 h).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente en el pago de los derechos por el uso y aprovechamiento de los bienes de dominio público del patrimonio municipal, o bien, del recibo que emita el organismo paramunicipal administrador del servicio.
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+i).- El contrato vigente del servicio de recolección y traslado de residuos sólidos no peligrosos o basura con la empresa autorizada por el Ayuntamiento de Mérida, para prestar el servicio en la zona geográfica donde se ubique la Persona Física o Moral solicitante, y estar al día en el pago de dicho servicio.
+
 Cuando el titular de una licencia de funcionamiento correspondiente a un comercio, negocio o establecimiento pretenda funcionar con un giro diferente o en otro domicilio deberá de obtener una nueva licencia satisfaciendo los requisitos anteriores.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ANTES NOVENO PÁRRAFO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-Para la obtención de la licencia de funcionamiento por revalidación¸ las personas físicas o morales deberán comprobar:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II. Para la obtención de la licencia de funcionamiento por revalidación las personas físicas o morales deberán comprobar:
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 a).- La autorización de la administración municipal inmediata anterior; mediante la Licencia de funcionamiento o constancia de la misma, expedida por la Dirección de Finanzas y Tesorería Municipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 b).- La legal ocupación del inmueble mediante el contrato, convenio o cualquier otro documento que lo compruebe; en caso de no ser propietario del inmueble.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 c).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 d).- La autorización para que en un establecimiento se expenda al público bebidas alcohólicas; mediante la determinación, licencia o permiso expedido por la autoridad sanitaria, que corresponda al domicilio y al giro de la licencia de funcionamiento municipal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 e).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 f).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente en el pago de los derechos por el uso y aprovechamiento de los bienes de dominio público del patrimonio municipal o bien, del recibo que emita el organismo paramunicipal administrador del servicio.
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+g).- El contrato vigente del servicio de recolección y traslado de residuos sólidos no peligrosos o basura con la empresa autorizada por el Ayuntamiento de Mérida, para prestar el servicio en la zona geográfica donde se ubique la Persona Física o Moral solicitante, y estar al día en el pago de dicho servicio.
+
 Para el cambio de titular de la licencia de funcionamiento, se deberá acreditar con documentación fehaciente la cesión de derechos o traslación de dominio del comercio, negocio o establecimiento de conformidad con lo establecido en la Ley de la materia.
 
 Para el cambio de denominación, suspensión de actividades, y baja definitiva, deberá acreditarse con documentación fehaciente la titularidad o representación legal de la licencia de funcionamiento correspondiente.
 
-#### Sección Décima Tercera. Del cheque presentado en tiempo y no pagado
+#### Sección Décima Segunda. De la causación de los Recargos
 
 ###### ARTÍCULO 32.
 
@@ -553,7 +571,7 @@ Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes 
 
 Cuando el resultado de la operación a que se refiere el primer párrafo de este artículo sea menor a 1, el factor de actualización que se aplicará al monto de las contribuciones, aprovechamientos y devoluciones a cargo del fisco municipal, será 1.
 
-#### Sección Décima Cuarta. De los recargos en pagos espontáneos
+#### Sección Décima Tercera. Del cheque presentado en tiempo y no pagado
 
 ###### ARTÍCULO 33.
 
@@ -561,9 +579,7 @@ Los recargos se calcularán y aplicarán en la forma y términos establecidos en
 
 No causarán recargos las multas no fiscales.
 
-#### Sección Décima Quinta. Del pago en exceso
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+#### Sección Décima Cuarta. De los recargos en pagos espontáneos
 
 ###### ARTÍCULO 34.
 
@@ -573,7 +589,9 @@ Los recargos se causarán por cada mes o fracción que transcurra desde el día 
 
 Cuando el pago de las contribuciones o de los créditos fiscales, hubiese sido menor al que corresponda, los recargos se causarán sobre la diferencia.
 
-#### Sección Décima Sexta. Del remate en pública subasta
+#### Sección Décima Quinta. Del pago en exceso
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 35.
 
@@ -581,17 +599,17 @@ El cheque recibido por el Municipio de Mérida, en pago de alguna contribución,
 
 Para tal efecto, la autoridad requerirá al librador del cheque para que, dentro de un plazo de siete días efectúe el pago de su importe junto con la mencionada indemnización. Transcurrido el plazo señalado sin que se obtenga el pago, la autoridad fiscal municipal requerirá y cobrará el monto del cheque, la indemnización y, en su caso, los recargos mediante el procedimiento administrativo de ejecución, sin perjuicio de la responsabilidad penal, que en su caso, proceda.
 
-#### Sección Décima Séptima. Del cobro de las multas
+#### Sección Décima Sexta. Del remate en pública subasta
 
 ###### ARTÍCULO 36.
 
 Cuando el contribuyente pague en una sola exhibición, el total de las contribuciones o de los créditos fiscales omitidos debidamente actualizados, en forma espontánea, sin mediar notificación alguna por parte de las autoridades fiscales, los recargos no podrán exceder de un tanto igual, al importe de la contribución omitida actualizada.
 
-#### Sección Décima Octava. Del salario mínimo
+#### Sección Décima Séptima. Del cobro de las multas
 
 ###### ARTÍCULO 37.
 
-Las autoridades fiscales municipales están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo y conforme a las disposiciones siguientes:
+Las autoridades fiscales municipales facultadas para el cobro de las contribuciones, están obligadas a devolver las cantidades pagadas indebidamente. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo y conforme a las disposiciones siguientes:
 
 I.- Si el pago de lo indebido se hubiese efectuado en el cumplimiento de un acto de autoridad, el derecho a la devolución nace, cuando dicho acto hubiere quedado insubsistente.
 
@@ -607,9 +625,9 @@ En ningún caso los intereses a cargo del fisco municipal excederán de los caus
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
-#### Sección Primera. Impuesto Predial
+#### Sección Décima Octava. De la unidad de medida y actualización
 
-De los sujetos
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 38.
 
@@ -621,7 +639,7 @@ Para el caso de que el valor de adjudicación no alcanzare a cubrir el adeudo de
 
 En todo caso se aplicarán a los remates las reglas que para tal efecto fije el Código Fiscal del Estado y en su defecto las del Código Fiscal de la Federación y su reglamento.
 
-#### Sección Segunda. Del Impuesto sobre Adquisición de Inmuebles
+#### Sección Primera. Impuesto Predial
 
 De los sujetos
 
@@ -629,19 +647,23 @@ De los sujetos
 
 Las multas por infracciones a las disposiciones municipales sean éstas de carácter administrativo o fiscal, serán cobradas mediante el procedimiento administrativo de ejecución.
 
-#### Sección Tercera. Impuesto sobre Espectáculos y Diversiones Públicas
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+#### Sección Segunda. Del Impuesto sobre Adquisición de Inmuebles
 
 De los sujetos
 
 ###### ARTÍCULO 40.
 
-Cuando en la presente Ley se haga mención de las palabras "salario" o "salario mínimo" dichos términos se entenderán indistintamente como el salario mínimo general diario de la zona económica a la que pertenezca el Municipio de Mérida, Estado de Yucatán, que estuviese vigente en el momento en que se determine una contribución o un crédito fiscal.
+Cuando en la presente Ley se haga mención de la sigla “U.M.A.” dicho término se entenderá como la unidad de medida y actualización, que estuviese vigente en el momento en que se determine una contribución o un crédito fiscal.
 
 ## TITULO SEGUNDO. DE LOS CONCEPTOS DE INGRESO
 
 ### CAPÍTULO I. IMPUESTOS
 
-#### Sección Primera. Disposiciones comunes
+#### Sección Tercera. Impuesto sobre Espectáculos y Diversiones Públicas
+
+De los sujetos
 
 ###### ARTÍCULO 41.
 
@@ -649,13 +671,19 @@ Son sujetos del impuesto predial:
 
 I.- Los propietarios o usufructuarios de inmuebles ubicados en el Municipio de Mérida, así como de las construcciones permanentes edificadas en ellos.
 
-II.- Los fideicomitentes por todo el tiempo que el fiduciario no transmitiere la propiedad o el uso del inmueble al fideicomisario o a las demás personas que correspondiere, en cumplimiento del contrato de fideicomiso.
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-III.- Los fideicomisarios, cuando tengan la posesión o el uso del inmueble.
+II.- Las entidades paraestatales, los organismos descentralizados y las personas morales o físicas que otorguen al bien que ocupan, propiedad de la federación, del estado o del municipio, un destino o fin distinto a su objeto público, de manera total o parcialmente; conforme al supuesto previsto en la fracción III del Artículo 43 de esta Ley;
 
-IV.- Los fiduciarios, cuando por virtud del contrato del fideicomiso tengan la posesión o el uso del inmueble.
+III.- Los fideicomitentes por todo el tiempo que el fiduciario no transmitiere la propiedad o el uso del inmueble al fideicomisario o a las demás personas que correspondiere, en cumplimiento del contrato de fideicomiso;
 
-V.- Los subarrendadores, cuya base será la diferencia que resulte a su favor entre la contraprestación que recibe y la que paga.
+IV.- Los fideicomisarios, cuando tengan la posesión o el uso del inmueble;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+V.- Los fiduciarios, cuando por virtud del contrato del fideicomiso tengan la posesión o el uso del inmueble, y
+
+VI.- Los subarrendadores, cuya base será la diferencia que resulte a su favor entre la contraprestación que recibe y la que paga.
 
 De los obligados solidarios
 
@@ -667,6 +695,10 @@ I.- Los funcionarios o empleados públicos, los notarios o fedatarios públicos 
 
 II.- Los empleados de la Dirección de Finanzas y Tesorería Municipal, que formulen certificados de estar al corriente en el pago del impuesto predial, que alteren el importe de los adeudos por este concepto, o los dejen de cobrar.
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+III.- La federación, el estado y municipio, cuando por cualquier título concedan la posesión de los bienes de dominio público, a las entidades paraestatales, los organismos descentralizados, las personas morales o físicas, y los utilicen para fines administrativos o propósitos distintos a su objeto público.
+
 Del objeto
 
 ###### ARTÍCULO 43.
@@ -677,11 +709,15 @@ I.- La propiedad y el usufructo, de predios urbanos y rústicos, ubicados en el 
 
 II.- La propiedad y el usufructo, de las construcciones edificadas, en predios urbanos y rústicos, ubicados en el Municipio de Mérida.
 
-III.- Los derechos de fideicomisario, cuando el inmueble se encuentre en posesión o uso del mismo.
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-IV.- Los derechos del fideicomitente, durante todo el tiempo que el fiduciario estuviere como propietario del inmueble, sin llevar a cabo la transmisión al fideicomisario.
+III.- La propiedad o posesión de los bienes inmuebles del dominio público de la federación, del estado y el municipio, cuando por cualquier título las entidades paraestatales, los organismos descentralizados, las personas morales o físicas, los utilicen para fines administrativos o propósitos distintos a su objeto público, de acuerdo al régimen de excepción establecido en el párrafo segundo del inciso c) de la fracción IV del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-V.- Los derechos de la fiduciaria, en relación con lo dispuesto en el artículo 41 de esta Ley.
+IV.- Los derechos de fideicomisario, cuando el inmueble se encuentre en posesión o uso del mismo.
+
+V.- Los derechos del fideicomitente, durante todo el tiempo que el fiduciario estuviere como propietario del inmueble, sin llevar a cabo la transmisión al fideicomisario.
+
+VI.- Los derechos de la fiduciaria, en relación con lo dispuesto en el artículo 41 de esta Ley.
 
 De las bases
 
@@ -691,7 +727,9 @@ Las bases del impuesto predial son:
 
 I.- El valor catastral del inmueble.
 
-II.- La contraprestación que produzcan los inmuebles, los terrenos o las construcciones ubicadas en los mismos y que por el uso o goce fuere susceptible de ser cobrada por el propietario, el fideicomisario o el usufructuario, independientemente de que se pacte en efectivo, especie o servicios.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+II.- La contraprestación que produzcan los inmuebles, incluyendo los del dominio público, cuando por cualquier título se utilicen para fines distintos a su objeto; los terrenos o construcciones ubicadas en los mismos y que por el uso o goce fuere susceptible de ser cobrada por el propietario, el fideicomisario, el usufructuario, o el concesionario, independientemente de que se pacte en efectivo, especie o servicios.
 
 De la base Valor Catastral
 
@@ -709,57 +747,57 @@ Para la determinación de los valores catastrales correspondientes se tomarán e
 
 I.- Los valores unitarios para el terreno correspondiente a las secciones catastrales del Municipio de Mérida, de la uno a la cincuenta que aparecen en las tablas siguientes que delimitan esas secciones:
 
-> <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.]</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE 16 A LA 50.</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 16 A LA 50; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 8 A LA 36.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 II.- Los valores unitarios para los terrenos ubicados en las calles y avenidas principales, se especifican en la siguiente tabla, sin considerar el valor de la sección a la que pertenecen:
 
-> <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 56 A LA 61.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 56 A LA 61.]</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE 50 A LA 58.</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 50 A LA 58; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 36 A LA 43.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 III.- Los valores unitarios para los terrenos ubicados en el periférico y las calles laterales adyacentes que provean acceso al mismo, así como en las principales vialidades ubicadas fuera del periférico, se especifican en la siguiente tabla:
 
-> <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 61 A LA 62.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 61 A LA 62.]</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91; 28 DE DICIEMBRE DE 2015, PÁGINAS DE 58 A LA 59.</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 58 A LA 59; 30 DE DICIEMBRE DE 2016, PÁGINA 44.]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 La aplicación de los valores unitarios contenidos en esta fracción será a la superficie que resulte de multiplicar el frente del terreno, que se encuentre sobre el periférico y las calles laterales adyacentes que provean acceso al mismo, así como en las principales vialidades ubicadas fuera del periférico, hasta por los cien primeros metros de fondo; la superficie restante será valorada con el valor unitario de la sección catastral que corresponda al terreno.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+IV.- Los valores unitarios para los locales correspondientes a las plazas comerciales, que incluyan su unidad de propiedad exclusiva y su cuota de participación de las áreas comunes (antes, área privativa y proindiviso), de acuerdo a la siguiente tabla:
 
-IV.- Los valores unitarios para los locales correspondientes a las plazas comerciales, que incluyan su unidad de propiedad exclusiva y su cuota de participación de las áreas comunes (antes, área privativa y proindiviso), de acuerdo a la siguientes (sic) tabla:
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINA 62.]</small>
 
-> <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINA 62.</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91; 28 DE DICIEMBRE DE 2015, PÁGINA 59; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 44 A LA 45.]</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91; 28 DE DICIEMBRE DE 2015, PÁGINA 59.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 V.- Los valores unitarios para los diferentes tipos de construcción y factores por zona, que se expresan en las siguientes tablas:
 
-> <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 63 A LA 64.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 63 A LA 64.]</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 91 A LA 94; 28 DE DICIEMBRE DE 2015, PÁGINAS DE 60 A LA 63.</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 91 A LA 94; 28 DE DICIEMBRE DE 2015, PÁGINAS DE LA 60 A LA 63; 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 45 A LA 48.]</small>
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 FACTORES DE DEMÉRITO AL VALOR UNITARIO DE TERRENO
 
-VI.- Los coeficientes de demerito que afectan los valores unitarios de terreno para la valuación de predios serán los siguientes:
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VI.- Los coeficientes de demérito que afectan los valores unitarios de terreno para la valuación de predios serán los siguientes:
 
 FACTORES DE DEMÉRITO (el valor unitario de terreno se multiplicará por el factor o factores de demérito que correspondan para disminuir su valor catastral unitario de tierra):
 
 A) DE FORMA* POR FRENTE (NO APLICA SI EL PREDIO ES INTERIOR, SIN ACCESO A VIALIDAD)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU TABLA DE VALORES, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 FRENTE (metros): FACTOR
 
@@ -770,10 +808,6 @@ menor a 5.00 0.65
 6.00 a 6.99 0.85
 
 7.00 o mayor 1.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 B) DE FORMA* POR RELACIÓN FONDO/FRENTE, que es el resultado de dividir el fondo entre el frente. Se podrá aplicar el factor de demérito indicado en la tabla aquí contenida, de acuerdo a la relación fondo/frente.
 
@@ -795,7 +829,7 @@ C) DE FORMA* POR IRREGULARIDAD
 
 El valor del terreno de un predio irregular será la suma de dos valores, el primero se determinará sumando el valor del mayor rectángulo que pueda ser inscrito, y el segundo será el resultado de multiplicar la superficie restante por el 50% del valor fijado a la calle de su ubicación.
 
-*Nota: en la aplicación de los tres factores de forma (frente, fondo/frente e irregularidad) se considerarán mutuamente excluyentes entre sí, es decir para un predio en particular solo se podrá aplicar uno de los tres deméritos anteriores, pudiéndose aplicar de manera conjunta con cualquier otra clase de demérito o premio de este anexo siempre y cuando no se indique algo en particular.
+*Nota: en la aplicación de los tres factores de forma (frente, fondo/frente e irregularidad) se considerarán mutuamente excluyentes entre sí, es decir para un predio en particular solo se podrá aplicar uno de los tres deméritos anteriores, pudiéndose aplicar de manera conjunta con cualquier otra clase de demérito de este anexo siempre y cuando no se indique algo en particular.
 
 D) DE LOCALIZACIÓN
 
@@ -803,7 +837,7 @@ Si el predio es interior (sin colindancia con vialidad) y no está sujeto a rég
 
 E) DE IRREGULARIDAD EN EL NIVEL ALTIMÉTRICO
 
-Cuando el predio presente una superficie de hondonada (bancos de material, cavernas destechadas, cenotes abiertos, etc.) mayor de 1.50 metros de profundidad, se podrá aplicar un coeficiente de demerito de 0.40 a la superficie que presente dicha irregularidad. Para la aplicación de este demerito se deberá presentar el avalúo pericial correspondiente en el que se identifique la superficie que presenta la irregularidad
+Cuando el predio presente una superficie de hondonada (bancos de material, cavernas destechadas, cenotes abiertos, etc.) mayor de 1.50 metros de profundidad, se podrá aplicar un coeficiente de demerito de 0.40 a la superficie que presente dicha irregularidad. Para la aplicación de este demerito se deberá presentar el avalúo pericial correspondiente en el que se identifique la superficie que presenta la irregularidad.
 
 F) DE AFECTACIÓN POR DERECHOS DE VÍA Y DERECHOS DE PASO
 
@@ -817,35 +851,37 @@ INFRAESTRUCTURA URBANA: Los sistemas y redes de conducción y distribución de b
 
 G) DE SUPERFICIE
 
-Si el predio es mayor de 5,000 m² el excedente de terreno por sobre esa cantidad podrá ser afectado de acuerdo a la siguiente tabla de factores
+Si el predio es mayor de 2,500 m² el excedente de terreno por sobre esa cantidad podrá ser afectado de acuerdo a la siguiente tabla de factores:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+SUPERFICIE EXCEDENTE SOBRE 2,500 M2 FACTOR
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+2,500 o menos 0.90
 
-SUPERFICIE EXCEDENTE SOBRE 5,000 M2 Factor
+2,500.01 a 5,000 0.80
 
-5,000 o menos 0.90
+5,000.01 a 10,000 0.70
 
-5,000.01 a 10,000 0.80
-
-10,000.01 a 20,000 0.70
-
-20,000.01 o más 0.60
+10,000.01 o más 0.60
 
 H) DE SERVICIOS
 
-Cuando el frente legal del predio no goce de vialidad pavimentada, se podrá aplicar un coeficiente de demérito de 0.80 al valor unitario del terreno. Este demérito dejará de surtir efectos en el momento de que se tenga la constancia de la autoridad competente de que dicha se encuentra pavimentada.
+Tratándose de predios urbanos, cuando el frente legal del predio no goce de vialidad pavimentada, se podrá aplicar un coeficiente de demérito de 0.75 al valor unitario del terreno. Este demérito dejará de surtir efectos en el momento de que se tenga la constancia de la autoridad competente de que dicha (sic) se encuentra pavimentada.
+
+Los tablajes catastrales ubicados en las secciones de la 31 a la 50, que no cuenten con acceso físico, podrán ser demeritados hasta con un factor de 0.40.
+
+I) DE ÁREA COMÚN EN CONDOMINIO
+
+Tratándose de predios en Régimen de Propiedad en Condominio, la superficie del área común de terreno podrá demeritarse con el factor de 0.20.
 
 NOTA 1.- Los tablajes catastrales; así como los predios urbanos ubicados en las secciones catastrales de la 31 a la 50, podrán ser demeritados hasta con el factor 0.50, respecto de la superficie restante a la del lote tipo de 1,000.00 M2, siempre y cuando no se haya aplicado para el predio el factor de demérito por superficie.
 
 NOTA 2.- Los inmuebles cuyo uso o destino sea de vialidad podrán ser demeritados hasta con el factor de 0.20
 
-NOTA 3.- En los casos en los que dentro de una misma unidad habitacional las características físicas no sean homogéneas, la Dirección de Catastro podrá, previa justificación, modificar el valor unitario de terreno siempre y cuando no sea a la alza y hasta con un factor de 0.40.
+NOTA 3.- En los casos en los que dentro de una misma unidad habitacional o sección catastral las características físicas no sean homogéneas, la Dirección de Catastro podrá, previa justificación, modificar el valor unitario de terreno siempre y cuando no sea a la alza y hasta con un factor de 0.40.
 
 NOTA 4.- Los inmuebles cuyo uso o destino sean áreas de donación para la federación, Estado o Municipio, podrán ser demeritados hasta con el coeficiente de 0.50.
 
-Los coeficientes de deméritos señalados en los incisos A), B), C) y H) no aplican en plazas comerciales ni en tablajes catastrales. El coeficiente de demerito señalado en el inciso D), E), F) Y G) no aplica en plazas comerciales.
+Los coeficientes de deméritos señalados en los incisos A), B), C), D), E), F), G) y H) no aplican en plazas comerciales. El coeficiente de demerito señalado en los incisos A), B), y C), podrá ser aplicado a tablajes catastrales, siempre que colinden con una vialidad constituida.
 
 De la tarifa
 
@@ -853,9 +889,9 @@ De la tarifa
 
 Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará aplicando al valor catastral la siguiente, (sic)
 
-> <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINA 66.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINA 66.]</small>
 
-> <small>N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 48 A LA 49.</small>
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 48 A LA 49.]</small>
 
 Se calculará de la siguiente manera: la diferencia entre el valor catastral y el límite inferior se multiplicará por la tasa aplicable y el producto obtenido se sumará a la cuota fija. Cuando el resultado de la aplicación de la tarifa sea menor a $20.00, se considerará $20.00. El resultado de la aplicación de la tarifa o el importe de $20.00, lo que sea mayor, se dividirá entre doce, determinándose de tal forma el impuesto correspondiente al período de un mes.
 
@@ -873,6 +909,10 @@ Cuando el último de los plazos a que se refieren los párrafos anteriores fuere
 
 Están exentos del pago del impuesto predial los bienes de dominio público de la Federación, del Estado o de los municipios, salvo que tales bienes sean utilizados por entidades paraestatales, organismos descentralizados o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Los contribuyentes deberán solicitar a la autoridad fiscal la declaratoria de exención del Impuesto Predial, así como la revalidación anual correspondiente, acreditando que el inmueble se encuentra en alguno de los supuestos de exención previstos en el presente artículo.
+
 De la base Contraprestación
 
 ###### ARTÍCULO 49.
@@ -881,11 +921,15 @@ El Impuesto Predial, se causará sobre la base de rentas, frutos civiles o cualq
 
 De las Obligaciones del Contribuyente
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 50.
 
-Los propietarios, fideicomisarios, fideicomitentes o usufructuarios de inmuebles, que se encuentren en los supuestos previstos en el artículo anterior referentes a otorgarlo en uso o goce mediante el pago de una contraprestación, estarán obligados a empadronarse en la Dirección de Finanzas y Tesorería Municipal en un plazo máximo de treinta días, contados a partir de la fecha de celebración del contrato correspondiente, entregando copia del mismo a la propia Dirección.
+Los propietarios, fideicomisarios, fideicomitentes, usufructuarios o concesionarios de inmuebles, incluyendo los del dominio público de la federación, del estado y municipio, cuando por cualquier título se utilicen total o parcialmente para fines distintos a su objeto; que se encuentren en los supuestos previstos en el artículo anterior referentes a otorgarlo en uso o goce mediante el pago de una contraprestación, estarán obligados a empadronarse en la Dirección de Finanzas y Tesorería Municipal en un plazo máximo de treinta días, contados a partir de la fecha de celebración del contrato correspondiente, entregando copia del mismo a la propia Dirección.
 
-Cualquier cambio en el monto de la contraprestación que generó el pago del impuesto predial sobre la base a que se refiere el artículo 49, será notificada a la Dirección de Finanzas y Tesorería Municipal, en un plazo de quince días, contados a partir de la fecha en que surta efectos la modificación respectiva. En igual forma, deberá notificarse la terminación de la relación jurídica que dio lugar a la contraprestación mencionada en el artículo 49 de esta Ley.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+La terminación de la relación jurídica que dio lugar a la contraprestación mencionada en el artículo 49 de esta Ley que generó el pago del impuesto predial sobre la base a que se refiere ese mismo artículo, será notificada, a la Dirección de Finanzas y Tesorería Municipal, en un plazo de quince días, contados a partir de la fecha en que surta efecto.
 
 > <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -893,7 +937,9 @@ En tanto el sujeto obligado no notifique la terminación de la relación jurídi
 
 Cuando de un inmueble formen parte dos o más departamentos y éstos se encontraren en los supuestos del citado artículo 49, el contribuyente deberá empadronarse por cada departamento.
 
-Los fedatarios públicos ante quienes se otorgare, firmare o ratificare el contrato, el convenio o el documento, que dio lugar a la situación jurídica, que permita al propietario, fideicomisario, fideicomitente o usufructuario obtener una contraprestación, en los términos señalados en el mismo artículo 49 de esta Ley, estarán obligados a entregar una copia certificada del mismo a la Dirección de Finanzas y Tesorería Municipal, en un plazo de treinta días, contados a partir de la fecha del otorgamiento, de la firma o de la ratificación del documento respectivo.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Los fedatarios públicos ante quienes se otorgare, firmare o ratificare el contrato, el convenio o el documento, que dio lugar a la situación jurídica, que permita al propietario, fideicomisario, fideicomitente, usufructuario o concesionario, obtener una contraprestación, en los términos señalados en el mismo artículo 49 de esta Ley, estarán obligados a entregar una copia certificada del mismo a la Dirección de Finanzas y Tesorería Municipal, en un plazo de treinta días, contados a partir de la fecha del otorgamiento, de la firma o de la ratificación del documento respectivo.
 
 De la Tarifa
 
@@ -933,9 +979,7 @@ La Dirección de Finanzas y Tesorería Municipal, expedirá los certificados de 
 
 Los fedatarios públicos o aquellas personas que por disposición legal tengan funciones notariales, cuando actúen en nombre del propietario del predio o por ministerio de ley, podrán realizar la solicitud a que se refiere el párrafo anterior, e incluso obtener la expedición de ese certificado mediante el uso de las aplicaciones en Internet que para tal efecto habilite la Dirección de Finanzas y Tesorería Municipal.
 
-#### Sección Segunda. De los servicios que presta la Dirección de Desarrollo Urbano
-
-De los sujetos
+#### Sección Primera. Disposiciones comunes
 
 ###### ARTÍCULO 54.
 
@@ -949,8 +993,6 @@ Son sujetos solidariamente responsables del pago del Impuesto Sobre Adquisición
 
 I.- Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, cuando autoricen una escritura que contenga alguno de los supuestos que se relacionan en el artículo 56 de la presente Ley y no hubiesen constatado el pago del impuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 II.- Los funcionarios o empleados del Registro Público de la Propiedad del Estado, que inscriban cualquier acto, contrato o documento relativo a algunos de los supuestos que se relacionan en el artículo 56 de esta Ley, sin que les sea exhibido el recibo y el comprobante fiscal digital por internet (CFDI) correspondiente al pago del impuesto.
@@ -962,8 +1004,6 @@ Del objeto
 Es objeto del Impuesto Sobre Adquisición de Inmuebles, toda adquisición del dominio de bienes inmuebles, que consistan en el suelo, en las construcciones adheridas a él, en ambos, o de derechos sobre los mismos, ubicados en el Municipio de Mérida.
 
 Para efectos de este Impuesto, se entiende por adquisición:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -989,15 +1029,15 @@ X.- La renuncia o repudio de la herencia o del legado, efectuado después del re
 
 XI.- La adquisición que se realice a través de un contrato de fideicomiso, en los términos de los supuestos relacionados en el Código Fiscal de la Federación.
 
-XII.- La disolución de la copropiedad y de la sociedad conyugal, por la parte que el copropietario o el cónyuge adquiera en demasía del porcentaje que le corresponde.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XII.- La disolución de la copropiedad y de la sociedad conyugal, por la parte que el copropietario o el cónyuge adquiera en demasía del valor de la porción que le corresponde.
 
 XIII.- La adquisición de la propiedad de bienes inmuebles, en virtud de remate judicial o administrativo.
 
 XIV.- En los casos de permuta se considerará que se efectúan dos adquisiciones.
 
 De las excepciones
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -1011,15 +1051,15 @@ II.- En la adquisición que realicen los Estados Extranjeros, en los casos que e
 
 III.- Cuando se adquiera la propiedad de Inmuebles, con motivo de la constitución de la sociedad conyugal.
 
-IV.- La disolución de la copropiedad, siempre que las partes adjudicadas no excedan de las porciones que a cada uno de los copropietarios corresponda. En caso contrario, deberá pagarse el impuesto sobre el exceso o la diferencia.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IV.- La disolución de la copropiedad y de la sociedad conyugal, siempre que las partes adjudicadas no excedan del valor de las porciones que a cada uno de los copropietarios o al cónyuge le correspondan. En caso contrario, deberá pagarse el impuesto sobre el exceso o la diferencia.
 
 V.- Cuando se adquieran inmuebles por herencia o legado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-VI.- La donación entre consortes, ascendientes y descendientes en línea directa,previa (sic) comprobación del parentesco respectivo ante la Dirección de Finanzas y Tesorería Municipal.
+VI.- La donación entre consortes, ascendientes y descendientes en línea directa, con la comprobación del parentesco respectivo ante la Dirección de Finanzas y Tesorería Municipal.
 
 De la base
 
@@ -1046,6 +1086,10 @@ b).- Registro Municipal o cédula profesional
 c).- Fecha de Avalúo
 
 d).- Tipo de inmueble
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+e).- firma
 
 II.- UBICACIÓN:
 
@@ -1105,8 +1149,6 @@ Vigencia de los avalúos
 
 Los avalúos periciales que se practiquen para el efecto del pago del Impuesto Sobre Adquisición de Bienes Inmuebles tendrán una vigencia de seis meses, contados a partir de la fecha de su expedición. En todo caso, la fecha de la escritura deberá ubicarse dentro del plazo de vigencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 De la tasa
@@ -1121,13 +1163,9 @@ Del manifiesto a la autoridad
 
 Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, deberán manifestar a la Dirección de Finanzas y Tesorería Municipal, por duplicado, dentro de los treinta días hábiles siguientes a la fecha del acto o contrato, la adquisición de inmuebles realizadas ante ellos, expresando:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-I.- Nombre, domicilio y Registro Federal de Contribuyentes (RFC) del adquirente, nombre y domicilio del enajenante.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I.- Nombre, domicilio fiscal o domicilio para oír y recibir notificaciones y Registro Federal de Contribuyentes (RFC) del adquirente, nombre y domicilio del enajenante.
 
 > <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -1147,15 +1185,11 @@ VIII.- Valor de la operación consignada en el contrato.
 
 IX.- Liquidación del impuesto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 Para el caso de que el manifiesto no expresare el RFC del adquirente o fuere de nacionalidad Extranjera, la Dirección de Finanzas y Tesorería Municipal, expedirá el Comprobante Fiscal Digital (CFDI) para público en general o para residentes en el extranjero, según sea el caso y enviará a la dirección de correo electrónico del fedatario público el archivo XML del CFDI y su representación gráfica, de conformidad con las reglas vigentes establecidas por el Servicio de Administración Tributaria.
 
 A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -1163,15 +1197,11 @@ La obligación de presentar la manifestación a que se refiere el primer párraf
 
 De los responsables solidarios
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 62.
 
 Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, acumularán al instrumento donde conste la adquisición del inmueble o de los derechos sobre el mismo, copia del recibo y del comprobante fiscal digital (CFDI) donde se acredite haber pagado el impuesto, o bien, original del recibo y del comprobante fiscal digital (CFDI) con importe cero y copia del manifiesto sellado por la Dirección de Finanzas y Tesorería Municipal, cuando se trate de las operaciones consignadas en el artículo 57 de esta ley. Para el caso de que las personas obligadas a pagar este impuesto, no lo hicieren, los fedatarios y las personas que por disposición legal tengan funciones notariales, se abstendrán de autorizar el contrato o escritura correspondiente.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -1189,8 +1219,6 @@ a).- Se celebre el acto o contrato por el que de conformidad con esta ley, se tr
 
 b).- Se eleve a escritura pública.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 c).- Se inscriba en el Registro Público de la Propiedad y del Comercio del Estado de Yucatán.
@@ -1201,13 +1229,9 @@ Los fedatarios públicos o aquellas personas que por disposición legal tengan f
 
 El Fedatario Público cuyo cheque sin certificar sea rechazado por la Institución Bancaria ante la que se presente para su pago por fondos insuficientes, dejará de tener ese beneficio y los pagos posteriores que realice con cheque, deberán apegarse a lo que dispone el párrafo segundo del artículo 27, sin perjuicio de la indemnización prevista en el artículo 35, ambos de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 Cuando dichas personas realicen el pago mediante el uso de aplicaciones en Internet, deberán poner a disposición de la Dirección de Finanzas y Tesorería Municipal, previo requerimiento de esta autoridad, la documentación relativa a cada una de las operaciones realizadas para esa contribución; consistente en el manifiesto señalado en el artículo 61 de esta Ley, así como el documento que exige el penúltimo párrafo del propio artículo y el recibo de pago.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -1217,8 +1241,6 @@ De la sanción
 
 Cuando el Impuesto Sobre Adquisición de Inmuebles no sea cubierto dentro del plazo señalado en el artículo inmediato anterior, los contribuyentes o los obligados solidarios, en su caso, se harán acreedores a una sanción equivalente al importe de los recargos que se determinen conforme al artículo 33 de esta Ley. Lo anterior, sin perjuicio de la aplicación del recargo establecido para las contribuciones fiscales pagadas en forma extemporánea.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 De la prescripción
@@ -1227,7 +1249,9 @@ ARTÍCULO 64 A.- El crédito fiscal se extingue por prescripción en el término
 
 Los adquirentes podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
-#### Sección Tercera. Otros servicios prestados por el Ayuntamiento
+#### Sección Segunda. De los servicios que presta la Dirección de Desarrollo Urbano
+
+De los sujetos
 
 ###### ARTÍCULO 65.
 
@@ -1283,15 +1307,13 @@ a).- Si pudiera determinarse previamente el monto del ingreso, el pago se efectu
 
 b).- Si no pudiera determinarse previamente el monto del ingreso, el sujeto obligado enterará en la Dirección de Finanzas y Tesorería Municipal, un pago provisional mediante depósito en efectivo, cheque certificado o cheque, del .50 del importe del impuesto determinado sobre el total de los boletos autorizados para el espectáculo que se trate, y la Dirección de Finanzas y Tesorería Municipal designará interventor o interventores suficientes para que determinen el total del impuesto, pagando el sujeto obligado en el mismo acto la diferencia que existiere a su cargo, en caso contrario se le devolverá la diferencia en los términos de esta Ley.
 
-En este caso, el sujeto obligado causará y pagará, junto con la determinación, la cantidad equivalente a 04.0 salarios mínimos por cada caja, taquilla, o acceso del lugar, local o establecimiento en el que se lleve a cabo el Espectáculo o Diversión Pública, en concepto de gastos extraordinarios, previstos en el artículo 169, inciso j) de esta Ley.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+En este caso, el sujeto obligado causará y pagará, junto con la determinación, la cantidad equivalente a 4.0 veces la unidad de medida y actualización por cada caja, taquilla, o acceso del lugar, local o establecimiento en el que se lleve a cabo el Espectáculo o Diversión Pública, en concepto de gastos extraordinarios, previstos en el artículo 169, inciso j) de esta Ley.
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 Las personas físicas o morales que presten a los sujetos de este impuesto el servicio de compraventa de boletos, directa o remota al público, tendrá la obligación de retener el impuesto resultante de la aplicación de la tasa referida en el artículo 68 a la totalidad del ingreso percibido por los sujetos del impuesto; y enterarlo a la Dirección de Finanzas y Tesorería en un plazo de siete días contados a partir del siguiente al de la celebración del espectáculo o diversión pública de que se trate.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -1299,9 +1321,7 @@ Los retenedores a quienes las leyes impongan la obligación de recaudar contribu
 
 ### CAPÍTULO II. DERECHOS
 
-#### Sección Cuarta. Derechos por Matanza de Ganado
-
-De los sujetos
+#### Sección Tercera. Otros servicios prestados por el Ayuntamiento
 
 ###### ARTÍCULO 71.
 
@@ -1315,7 +1335,9 @@ Los derechos que establece esta Ley se pagarán por los servicios que preste el 
 
 Cuando de conformidad con la Ley de Gobierno de los Municipios del Estado de Yucatán o cualesquiera otras disposiciones legales o reglamentarias, los servicios que preste una dependencia del Ayuntamiento, sean proporcionados por otra distinta o bien por un organismo descentralizado o paramunicipal, se seguirán cobrando los derechos en los términos establecidos por esta Ley.
 
-#### Sección Quinta. De los Certificados y Constancias
+#### Sección Cuarta. Derechos por Matanza de Ganado
+
+De los sujetos
 
 ###### ARTÍCULO 73.
 
@@ -1357,7 +1379,9 @@ VI.- Licencia de Urbanización.
 
 VII.- Validación de planos.
 
-VIII.- Otorgamiento de Constancia a que se refiere la Ley sobre Régimen de Propiedad y Condominio Inmobiliario del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Emisión de dictamen técnico.
 
 IX.- Permisos de anuncios.
 
@@ -1389,111 +1413,171 @@ XVIII.- Autorización de la Modificación de Desarrollo Inmobiliario.
 
 XIX.- Expedición de oficio de zona de Reserva de Crecimiento.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ACÁPITE, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO SU ACÁPITE, D.O. 28 DE DICIEMBRE DE 2015)</small>
+XX.- Emisión de la Cédula Urbana.
 
-De la base y de las cuotas
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXI.- Revisión de Integración de Predios Ejidales.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+De la Base y de las Cuotas
 
 ###### ARTÍCULO 76.
 
 Los derechos por los servicios indicados en el artículo 75 se pagarán conforme lo siguiente:
 
-Concepto Veces de Salario Mínimo
+Concepto Veces la unidad de
+
+medida y actualización
 
 I.- Licencias de Uso del Suelo.
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
-
 1. Para Desarrollo Inmobiliario
 
-a) Con superficie de hasta
+a) Zona 1. Consolidación Urbana
 
-10,000.00 metros cuadrados. 35 Licencia
+1) Con superficie de hasta 10,000.00 metros cuadrados 26 Licencia
 
-b) Con superficie de 10,000.01
+2) Con superficie de 10,000.01 hasta 50,000.00 metros cuadrados
 
-hasta 50,000.00 metros cuadrados 40 Licencia
+30 Licencia
 
-c) Con superficie de 50,000.01
+3) Con superficie de 50,000.01 hasta 100,000.00 metros cuadrados
 
-hasta 100,000.00 metros cuadrados. 60 Licencia
+45 Licencia
 
-d) Con Superficie de 100,000.01 hasta
+4) Con Superficie de 100,000.01 hasta 150,000.00 metros cuadrados
 
-150,000.00 metros cuadrados 70 Licencia
+53 Licencia
 
-e) Con superficie de 150,000.01 hasta
+5) Con superficie de 150,000.01 hasta 200,000.00 metros cuadrados
 
-200,000.00 metros cuadrados 75 Licencia
+56 Licencia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+6) Con superficie mayor a 200,000.00 metros cuadrados 75 Licencia
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+b) Zona 2. Crecimiento Urbano
 
-f) Con superficie mayor a 200,000.00 100 Licencia
+1) Con superficie de hasta 10,000.00 metros cuadrados 70 Licencia
 
-metros cuadrados
+2) Con superficie de 10,000.01 hasta 50,000.00 metros cuadrados
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+80 Licencia
+
+3) Con superficie de 50,000.01 hasta 100,000.00 metros cuadrados
+
+120 Licencia
+
+4) Con Superficie de 100,000.01 hasta 150,000.00 metros cuadrados
+
+140 Licencia
+
+5) Con superficie de 150,000.01 hasta 200,000.00 metros cuadrados
+
+150 Licencia
+
+6) Con superficie mayor a 200,000.00 metros cuadrados 200 Licencia
+
+c) Zona 3. Regeneración y Desarrollo Sustentable
+
+1) Con superficie de hasta 10,000.00 metros cuadrados 175 Licencia
+
+2) Con superficie de 10,000.01 hasta 50,000.00 metros cuadrados
+
+200 Licencia
+
+3) Con superficie de 50,000.01 hasta 100,000.00 metros cuadrados
+
+300 Licencia
+
+4) Con Superficie de 100,000.01 hasta 150,000.00 metros cuadrados
+
+350 Licencia
+
+5) Con superficie de 150,000.01 hasta 200,000.00 metros cuadrados
+
+375 Licencia
+
+6) Con superficie mayor a 200,000.00 metros cuadrados 500 Licencia
+
+d) Zona 4. Conservación de los Recursos Naturales
+
+1) Con superficie de hasta 10,000.00 metros cuadrados 350 Licencia
+
+2) Con superficie de 10,000.01 hasta 50,000.00 metros cuadrados
+
+400 Licencia
+
+3) Con superficie de 50,000.01 hasta 100,000.00 metros cuadrados.
+
+600 Licencia
+
+4) Con Superficie de 100,000.01 hasta 150,000.00 metros cuadrados
+
+700 Licencia
+
+5) Con superficie de 150,000.01 hasta 200,000.00 metros cuadrados
+
+750 Licencia
+
+6) Con superficie mayor a 200,000.00 metros cuadrados 1000 Licencia
 
 2. Para Otros Desarrollos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+a) Zona 1. Consolidación Urbana
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+1) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso e) 1.5 Licencia
 
-a) Cuya superficie sea de hasta 50.00
+2) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso e) 7.5 Licencia
 
-metros cuadrados excepto lo que
+3) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso e) 18.75 Licencia
 
-se señala en el inciso f) 2 Licencia
+4) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 37.50 Licencia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 75 Licencia
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+b) Zona 2. Crecimiento Urbano
 
-b) Cuya superficie sea de 50.01
+1) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso e) 4 Licencia
 
-hasta 100.00 metros cuadrados
+2) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso e) 20 Licencia
 
-excepto lo que se señala en el inciso f) 10 Licencia
+3) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso e) 50 Licencia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+4) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 100 Licencia
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 200 Licencia
 
-c) Cuya superficie sea de 100.01
+c) Zona 3. Regeneración y Desarrollo Sustentable
 
-hasta 500.00 metros cuadrados
+1) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso e) 10 Licencia
 
-excepto lo que se señala en el inciso f) 25 Licencia
+2) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso e) 50 Licencia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+3) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso e) 125 Licencia
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+4) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 250 Licencia
 
-d) Cuya superficie sea de 500.01
+5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 500 Licencia
 
-hasta 5,000.00 metros cuadrados
+d) Zona 4. Conservación de los Recursos Naturales
 
-excepto lo que se señala en el inciso f) 50 Licencia
+1) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso e) 20 Licencia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+2) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso e) 100 Licencia
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+3) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso e) 250 Licencia
 
-e) Cuya superficie sea mayor de 5,000.00
+4) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 500 Licencia
 
-metros cuadrados excepto lo que se
+5) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso e) 1000 Licencia
 
-señala en el inciso f) 100 Licencia
+Para los efectos de la fracción I, numeral 2, los incisos c) y d) no aplicarán para Desarrollos Inmobiliarios que cuenten con autorización anterior al año 2017, a estos desarrollos autorizados se les aplicará el inciso b).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-f) Se pagará de acuerdo al giro de que se trate:
+e) Se pagará de acuerdo al giro de que se trate:
 
 1. Gasolinera o estación de servicio 714 Licencia
 
@@ -1501,83 +1585,87 @@ f) Se pagará de acuerdo al giro de que se trate:
 
 3. Funeraria 115 Licencia
 
-4. Expendio de cerveza, tienda de autoservicio
-
-licorería o bar 115 Licencia
+4. Expendio de cerveza, tienda de autoservicio licorería o bar 411 Licencia
 
 5. Crematorio 286 Licencia
 
-6. Restaurante, video bar, cabaret,
-
-centro nocturno o disco 286 Licencia
+6. Restaurante, video bar, cabaret, centro nocturno o disco 685 Licencia
 
 7. Sala de fiestas cerrada 286 Licencia
 
+8. Torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente 354 Licencia
+
+9. Restaurante de primera A, B o C 421 Licencia
+
+10. Restaurante de segunda A, B o C 286 Licencia
+
 II.- Por el Análisis de Factibilidad de Uso de Suelo
 
-a) Para establecimiento con venta
+a) Para establecimiento con venta de bebidas alcohólicas en envase cerrado.
 
-de bebidas alcohólicas en
+70 Constancia
 
-envase cerrado. 10 Constancia
+b) Para establecimiento con venta de bebidas alcohólicas para su consumo en el mismo lugar. 70 Constancia
 
-b) Para establecimiento con venta
+c) Para establecimiento con giro diferente a los mencionados en los incisos a), b), d), i), j), k) de esta fracción
 
-de bebidas alcohólicas para su consumo
+1. Zona 1. Consolidación Urbana 0.75 Constancia
 
-en el mismo lugar. 14 Constancia
+2. Zona 2. Crecimiento Urbano 2 Constancia
 
-c) Para establecimiento con giro diferente
+3. Zona 3. Regeneración y Desarrollo Sustentable 5 Constancia
 
-a los mencionados en los incisos
+4. Zona 4. Conservación de los Recursos Naturales 10 Constancia
 
-a), b),d), i), j) y k) de esta fracción 1 Constancia
+d) Para otros desarrollos.
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+1. Zona 1. Consolidación Urbana 3.75 Constancia
 
-d) Para desarrollo Inmobiliario u otros 5 Constancia
+2. Zona 2. Crecimiento Urano 10 Constancia
 
-desarrollos.
+3. Zona 3. Regeneración y Desarrollo Sustentable 25 Constancia
+
+4. Zona 4. Conservación de los Recursos Naturales 50 Constancia
 
 e) Para casa habitación unifamiliar
 
-ubicada en zonas de reserva de
+1. Zona 1. Consolidación Urbana 1.88 Constancia
 
-crecimiento. 2.5 Constancia
+2. Zona 2. Crecimiento Urano 5 Constancia
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+3. Zona 3. Regeneración y Desarrollo Sustentable 12.5 Constancia
 
-f) Para la instalación de infraestructura
+4. Zona 4. Conservación de los Recursos Naturales 25 Constancia
 
-en bienes inmuebles propiedad del Municipio
+f) Para la instalación de infraestructura en bienes inmuebles propiedad del Municipio o en las vías públicas, excepto la que se señala en el inciso h)
 
-o en las vías públicas, excepto la que se
+0.10 Por aparto (sic),
 
-señala en el inciso h) 0.10 Por aparato, caseta o unidad.
+caseta o unidad.
 
-g) (DEROGADO, D.O. 23 DE DICIEMBRE DE 2013)
+g) (DEROGADO, D.O. 23 DE DICIEMBRE DE 2013) (REPUBLICADA SU DEROGACIÓN, D.O. 30 DE DICIEMBRE DE 2016)
 
-h) Para la instalación de torre
+h) Para la instalación de torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicaciones sobre una torre de alta tensión o sobre infraestructura existente 25 Por torre
 
-de comunicación 25 Por torre
+i) Para la instalación de gasolinera o estación de servicio 70 Constancia
 
-i) Para la instalación de gasolinera
+j) Para giros de utilidad temporal 5 Constancia
 
-o estación de servicio. 35 Constancia
+k) Para el establecimiento de bancos de explotación de materiales.
 
-j) Para la instalación de circos. 5 Constancia
+30 Constancia
 
-k) Para el establecimiento de
+l) Para desarrollo inmobiliario
 
-bancos de explotación de materiales. 30 Constancia
+1. Zona 1. Consolidación Urbana 3.75 Constancia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+2. Zona 2. Crecimiento Urbano 10 Constancia
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+3. Zona 3. Regeneración y Desarrollo Sustentable 25 Constancia
+
+4. Zona 4. Conservación de los Recursos Naturales 50 Constancia
 
 Para los efectos de los incisos anteriores de las fracciones I y II se entiende por Desarrollo Inmobiliario al bien inmueble que por sus características físicas o el régimen de propiedad se constituye como Fraccionamiento o División de Lotes.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 Para los efectos de las fracciones anteriores se entenderá por Otros Desarrollos los siguientes conceptos: industria, locales comerciales, centros comerciales, equipamiento, bodegas e infraestructura. Dichos conceptos se definen de conformidad con lo establecido en el Programa de Desarrollo Urbano del Municipio de Mérida Vigente.
 
@@ -1585,145 +1673,165 @@ III.- Constancia de Alineamiento 0.20 Metro Lineal
 
 IV.- Trabajos de Construcción
 
-a) Licencia para Construcción
+1. Licencia para Construcción
 
-1) Con superficie cubierta
+a) Zona 1. Consolidación Urbana
 
-hasta 40 m2 0.12 Metro Cuadrado
+1) Con superficie cubierta hasta 45 m2 0.09 Metro Cuadrado
 
-2) Con superficie cubierta mayor
+2) Con superficie cubierta mayor de 45 m2 y hasta 120 m2
 
-de 40 m2 y hasta 120 m2 0.13 Metro Cuadrado
+0.10 Metro Cuadrado
 
-3) Con superficie cubierta mayor
+3) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
 
-de 120 m2 y hasta 240 m2 0.15 Metro Cuadrado
+0.11 Metro Cuadrado
 
-4) Con superficie cubierta mayor
+4) Con superficie cubierta mayor de 240 m2 0.14 Metro Cuadrado
 
-de 240 m2 0.18 Metro Cuadrado
+b) Zona 2. Crecimiento Urbano
 
-b) Licencia para demolición y/o
+1) Con superficie cubierta hasta 45 m2 0.24 Metro Cuadrado
 
-desmantelamiento de bardas. 0.03 Metro Lineal
+2) Con superficie cubierta mayor de 45 m2 y hasta 120 m2
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+0.26 Metro Cuadrado
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+3) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
 
-c) Licencia para excavación de
+0.30 Metro Cuadrado
 
-zanjas en vialidades 1.25 Metro Lineal
+4) Con superficie cubierta mayor de 240 m2 0.36 Metro Cuadrado
 
-d) Licencia para construir bardas 0.06 Metro Lineal
+c) Zona 3. Regeneración y Desarrollo Sustentable
 
-e) Licencia para excavaciones 0.10 Metro Cúbico
+1) Con superficie cubierta hasta 45 m2 0.60 Metro Cuadrado
 
-f) Licencia para demolición y/o
+2) Con superficie cubierta mayor de 45 m2 y hasta 120 m2
 
-desmantelamiento distinta a la
+0.65 Metro Cuadrado
 
-señalada en el inciso b)
+3) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
 
-de esta fracción 0.09 Metro cuadrado
+0.75 Metro Cuadrado
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+4) Con superficie cubierta mayor de 240 m2 0.90 Metro Cuadrado
+
+d) Zona 4. Conservación de los Recursos Naturales
+
+1) Con superficie cubierta hasta 45 m2 1.20 Metro Cuadrado
+
+2) Con superficie cubierta mayor de 45 m2 y hasta 120 m2
+
+1.30 Metro Cuadrado
+
+3) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
+
+1.50 Metro Cuadrado
+
+4) Con superficie cubierta mayor de 240 m2 1.80 Metro Cuadrado
+
+2. Licencia para demolición y/o desmantelamiento de bardas
+
+0.03 Metro Lineal
+
+3. Licencia para excavación de zanjas en vialidades 1.25 Metro Lineal
+
+4. Licencia para construir bardas 0.06 Metro Lineal
+
+5. Licencia para excavaciones 0.10 Metro Cúbico
+
+6. Licencia para demolición y/o desmantelamiento distinta a la señalada en el numeral 2 de esta fracción 0.09 Metro cuadrado
+
+7. Licencia para la construcción para la instalación de una torre de comunicación, de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente. Por colocación por unidad.
+
+1,100 Licencia
+
+Para los efectos de la fracción IV, numeral 1, los incisos c) y d) no aplicarán para Desarrollos Inmobiliarios que cuenten con autorización anterior al año 2017, a estos desarrollos autorizados se les aplicará el inciso b).
 
 Por la renovación de la licencia de construcción a que se refiere la fracción IV de este artículo, se pagará una cuota equivalente al 50 por ciento de los derechos establecidos en dicha fracción por los trabajos otorgados en la correspondiente licencia.
-
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 Por la prórroga de la licencia de construcción a que se refiere la fracción IV de este artículo, se pagará una cuota equivalente al 25 por ciento de los derechos establecidos en dicha fracción por los trabajos otorgados en la correspondiente licencia. La cuota señalada en este párrafo se considerará que se otorga por una licencia de un plazo de 24 meses, sin embargo si el plazo fuese menor la cuota será en proporción al número de meses por los que fuese solicitada dicha prórroga.
 
 V.- Constancia de Terminación de obra.
 
-a) Con superficie cubierta
+a) Con superficie cubierta hasta 40 m2 0.03 Metro Cuadrado
 
-hasta 40 m2 0.03 Metro Cuadrado
+b) Con superficie cubierta mayor de 40 m2 y hasta 120 m2
 
-b) Con superficie cubierta
+0.04 Metro Cuadrado
 
-mayor de 40 m2 y hasta 120 m2 0.04 Metro Cuadrado
+c) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
 
-c) Con superficie cubierta mayor
+0.05 Metro Cuadrado
 
-de 120 m2 y hasta 240 m2 0.05 Metro Cuadrado
+d) Con superficie mayor de 240 m2 0.06 Metro Cuadrado
 
-d) Con superficie mayor
+e) De excavación de zanjas en la vía pública 0.02 Metro Lineal
 
-de 240 m2 0.06 Metro Cuadrado
+f) De excavación distinta a la señalada en el inciso e) 0.03 Metro Cúbico
 
-e) De excavación de zanjas en
-
-la vía pública 0.02 Metro Lineal
-
-f) De excavación distinta a la
-
-señalada en el inciso e) 0.03 Metro Cúbico
-
-g) De demolición distinta
-
-a la de bardas. 0.02 Metro Cuadrado
-
-> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+g) De demolición distinta a la de bardas. 0.02 Metro Cuadrado
 
 VI.- Licencia de Urbanización
 
-a) Licencia de Urbanización por
+1. Licencia de Urbanización por servicios básicos
 
-servicios básicos 0.02 Metro Cuadrado de vialidad
+a) Zona 1. Consolidación Urbana 0.02 Metro Cuadrado
 
-b) Autorización de instalación
+de superficie
 
-subterránea o aérea de ductos
+solicitada
 
-o conductores para la explotación de servicios
+b) Zona 2. Crecimiento Urbano 0.04 Metro Cuadrado
 
-digitales u otros de cualquier
+de superficie
 
-tipo 0.20 Metro Lineal de vialidad
+solicitada
+
+c) Zona 3. Regeneración y Desarrollo Sustentable 0.10 Metro Cuadrado
+
+de superficie
+
+solicitada
+
+d) Zona 4. Conservación de los Recursos Naturales 0.20 Metro Cuadrado
+
+de superficie
+
+solicitada
+
+2. Autorización de instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo
+
+0.20 Metro Lineal de
+
+vialidad
+
+Para los efectos de la fracción VI, numeral 1, los incisos c) y d) no aplicarán para Desarrollos Inmobiliarios que cuenten con autorización anterior al año 2017, a estos desarrollos autorizados se les aplicará el inciso b).
 
 VII.- Validación de planos 0.25 Por plano
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+VIII.- Emisión de dictamen técnico
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+1. Zona 1. Consolidación Urbana 3.75 Constancia
 
-VIII.- Otorgamiento de de dictamen técnico 5 Constancia
+2. Zona 2. Crecimiento Urbano 10 Constancia
+
+3. Zona 3. Regeneración y Desarrollo Sustentable 25 Constancia
+
+4. Zona 4. Conservación de los Recursos Naturales 50 Constancia
+
+Para los efectos de la fracción VIII, los numerales 3 y 4 no aplicarán para Desarrollos Inmobiliarios que cuenten con autorización anterior al año 2017, a estos desarrollos autorizados se les aplicará el numeral 2.
 
 IX.- Permisos de anuncios
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+a) Instalación de anuncios de propaganda o publicidad permanentes en inmuebles o en mobiliario urbano 1 Metro Cuadrado
 
-a) Instalación de anuncios de
+b) Instalación de anuncios de carácter denominativo permanente en inmuebles con una superficie mayor de 1.5 metros cuadrados
 
-propaganda o publicidad
+0.75 Metro Cuadrado
 
-permanentes en inmuebles o en
-
-mobiliario urbano 1 metro
-
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
-
-b) Instalación de anuncios de
-
-carácter denominativo
-
-permanente en inmuebles con
-
-una superficie mayor de 1.5
-
-metros cuadrados 0.75 Metro Cuadrado
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
-
-c) Instalación de anuncios de
-
-propaganda o publicidad
-
-transitorios en inmuebles o en
-
-mobiliario urbano:
+c) Instalación de anuncios de propaganda o publicidad transitorios en inmuebles o en mobiliario urbano:
 
 1) De 1 a 5 días naturales 0.15 Metro Cuadrado
 
@@ -1733,97 +1841,39 @@ mobiliario urbano:
 
 4) De 1 a 30 días naturales 0.50 Metro Cuadrado
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+d) Por exhibición de anuncios de propaganda o publicidad permanentes en vehículos de Transporte Público 2 Metro Cuadrado
 
-d) Por exhibición de anuncios
+e) Por exhibición de anuncios de propaganda o publicidad transitorios en vehículos de Transporte Público 1.5 Metro Cuadrado
 
-de propaganda o publicidad
+f) Por renovación de permisos permanentes, para la difusión de propaganda o publicidad asociada a música o sonido 0.25 Por Día
 
-permanentes en vehículos de
+g) Para la proyección óptica permanente de anuncios 2.5 Metro Cuadrado
 
-Transporte Público 2 Metro Cuadrado
+h) Para la proyección permanente a través de medios electrónicos de anuncios
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+2 Metro Cuadrado
 
-e) Por exhibición de anuncios
+i) Por exhibición de anuncios transitorios de propaganda o publicidad inflables suspendidos en el aire, con capacidad de 1 hasta 50 kg. de gas Helio
 
-de propaganda o publicidad
+2.5 Por elemento
 
-transitorios en vehículos de
+j) Por exhibición de anuncios transitorios de propaganda o publicidad inflables suspendidos en el aire, con capacidad de más de 50 kg. de gas Helio
 
-Transporte Público 1.5 Metro
+3 Por elemento
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+k) Por exhibición de anuncios figurativos o volumétricos
 
-f) Por renovación de permisos
+5 Por elemento
 
-permanentes, para la difusión de
-
-propaganda o publicidad
-
-asociada a música o sonido 0.25 Por Día
-
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
-
-g) Para la proyección óptica
-
-permanente de anuncios 2.5 Metro Cuadrado
-
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
-
-h) Para la proyección permanente
-
-a través de medios electrónicos de anuncios 2 Metro
-
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
-
-i) Por exhibición de anuncios
-
-transitorios de propaganda o
-
-publicidad inflables suspendidos
-
-en el aire, con capacidad de 1
-
-hasta 50 kg. de gas Helio 2.5 Por elemento
-
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
-
-j) Por exhibición de anuncios
-
-transitorios de propaganda o
-
-publicidad inflables suspendidos
-
-en el aire, con capacidad de más
-
-de 50 kg. de gas Helio 3 Por elemento
-
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
-
-k) Por exhibición de anuncios
-
-figurativos o volumétricos 5 Por elemento
-
-l) Por la difusión de propaganda
-
-o publicidad impresa en volantes o folletos:
+l) Por la difusión de propaganda o publicidad impresa en volantes o folletos:
 
 1) De 1 hasta 5 millares 1
 
 2) Por millar adicional 0.10
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+m) Por instalación permanente de anuncios de propaganda o publicidad en inmuebles o en mobiliario urbano, iluminados con luz Neón
 
-m) Por instalación permanente de
-
-anuncios de propaganda o
-
-publicidad en inmuebles o en
-
-mobiliario urbano, iluminados con
-
-luz Neón 1.5 Metro Cuadrado
+1.5 Metro Cuadrado
 
 Para el caso de renovación o prórroga de los permisos a que se refieren los incisos a), b), g), h) y m) de esta fracción se causarán los derechos con las mismas cuotas que dichos incisos señalen.
 
@@ -1833,299 +1883,225 @@ X.- Visitas de inspección:
 
 a) De fosas sépticas:
 
-1) Para el caso de desarrollo de
+1) Para el caso de desarrollo de fraccionamiento o conjunto habitacional, cuando se requiera una segunda o posterior visita de inspección:
 
-fraccionamiento o conjunto habitacional,
+10 Visita
 
-cuando se requiera una segunda
+2) Para los demás casos, cuando se requiera una tercera o posterior visita de inspección: 10 Visita
 
-o posterior visita de inspección: 10 Visita
+b) Por construcción o edificación distinta a la señalada en el inciso a) de esta fracción, en los casos en que se requiera una tercera o posterior visita de inspección: 10 Visita
 
-2) Para los demás casos, cuando
+c) Para la recepción o terminación de obras de infraestructura urbana, en los casos en los que se requiera una tercera o posterior visita de inspección, se pagará:
 
-se requiera una tercera o posterior
+1) Por los primeros 10,000 metros cuadrados de vialidad. 15.0
 
-visita de inspección: 10 Visita
+2) Por cada metro cuadrado excedente. .0015
 
-b) Por construcción o edificación
+d) Para la verificación de obras de infraestructura urbana a solicitud del particular, se pagará:
 
-distinta a la señalada en el inciso a)
-
-de esta fracción, en los casos en que
-
-se requiera una tercera o posterior
-
-visita de inspección: 10 Visita
-
-c) Para la recepción o terminación de
-
-obras de infraestructura urbana,
-
-en los casos en los que se requiera
-
-una tercera o posterior visita de
-
-inspección, se pagará:
-
-1) Por los primeros 10,000 metros
-
-cuadrados de vialidad. 15.0
-
-2) Por cada metro cuadrado
-
-excedente. .0015
-
-d) Para la verificación de obras de
-
-infraestructura urbana a solicitud
-
-del particular, se pagará:
-
-1) Por los primeros 10,000 metros
-
-cuadrados de vialidad. 15.0
+1) Por los primeros 10,000 metros cuadrados de vialidad. 15.0
 
 2) Por cada metro cuadrado excedente. .0015
 
 XI.- Revisión previa de Proyecto:
 
-a) Por segunda revisión de proyecto
+a) Por segunda revisión de proyecto de gasolinera o estación de servicio.
 
-de gasolinera o estación de servicio. 4.0 Revisión
+4.0 Revisión
 
-b) Por segunda revisión de proyecto
+b) Por segunda revisión de proyecto cuya superficie sea mayor a 1,000 m2
 
-cuya superficie sea mayor a 1,000 m2 4.0 Revisión
+4.0 Revisión
 
-c) Por segunda revisión de proyecto
+c) Por segunda revisión de proyecto distinto a los comprendidos en los incisos a) o b). 2.0 Revisión
 
-distinto a los comprendidos en los
+d) A partir de la tercera revisión de un proyecto de gasolinera o estación de servicio. 8.0 Revisión
 
-incisos a) o b). 2.0 Revisión
+e) A partir de la tercera revisión de un proyecto cuya superficie cubierta sea menor de 500 m2 3.0 Revisión
 
-d) A partir de la tercera revisión de
+f) A partir de la tercera revisión de un proyecto cuya superficie cubierta sea mayor de 500 m2 y hasta 1,000 m2. 6.0 Revisión
 
-un proyecto de gasolinera o
+g) A partir de la tercera revisión de un proyecto cuya superficie sea mayor a 1,000 m2 8.0 Revisión
 
-estación de servicio. 8.0 Revisión
+XII.- Revisión previa de todos los proyectos de urbanización e infraestructura urbana, para los casos donde se requiera una segunda o posterior revisión.
 
-e) A partir de la tercera revisión de un
+2 Revisión
 
-proyecto cuya superficie cubierta
+XIII.- Por la factibilidad de instalación de anuncios de propaganda o publicidad permanentes en inmuebles o en mobiliario urbano. 1 Constancia
 
-sea menor de 500 m2 3.0 Revisión
-
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
-
-f) A partir de la tercera revisión de
-
-un proyecto cuya superficie
-
-cubierta sea mayor de 500 m2 y
-
-hasta 1,000 m2. 6.0 Revisión
-
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
-
-g) A partir de la tercera revisión de
-
-un proyecto cuya superficie sea
-
-mayor a 1,000 m2 8.0 Revisión
-
-> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
-
-XII.- Revisión previa de todos los
-
-proyectos de urbanización e
-
-infraestructura urbana, para los
-
-casos donde se requiera una
-
-segunda o posterior revisión. 2 Revisión
-
-XIII.- Por la factibilidad de
-
-instalación de anuncios de propaganda
-
-o publicidad permanentes en
-
-inmuebles o en mobiliario urbano. 1 Constancia
-
-XIV.- Revisión previa de proyectos
-
-de lotificación de fraccionamientos:
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+XIV.- Revisión previa de proyectos de lotificación de fraccionamientos:
 
 a) Por la segunda revisión 3 Revisión
 
 b) A partir de la tercera revisión:
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+1.- De fraccionamientos de hasta 1 Hectárea. 5 Revisión
 
-1.- De fraccionamientos de hasta
+2.- De fraccionamientos de más de 1 hasta 5 Hectáreas. 10 Revisión
 
-1 Hectárea. 5 Revisión
+3.- De fraccionamiento de más de 5 hasta 20 Hectáreas. 15 Revisión
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+4.- De fraccionamientos de más de 20 Hectáreas. 20 Revisión
 
-2.- De fraccionamientos de más
+XV.- Por la expedición del oficio de anuencia de electrificación por cada inmueble solicitado. 2 Oficio
 
-de 1 hasta 5 Hectáreas. 10 Revisión
+XVI.- Por la expedición del oficio de zona de Reserva de Crecimiento por cada inmueble solicitado. 2 Oficio
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
-
-3.- De fraccionamiento de más
-
-de 5 hasta 20 Hectáreas. 15 Revisión
-
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
-
-4.- De fraccionamientos de más
-
-de 20 Hectáreas. 20 Revisión
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
-
-XV.- Por la expedición del
-
-oficio de anuencia de electrificación
-
-por cada inmueble solicitado. 2 Oficio
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
-
-XVI.- Por la expedición del
-
-oficio de zona de Reserva de
-
-Crecimiento por cada inmueble solicitado. 2 Oficio
-
-XVII.- Emisión de copias simples y/o
-
-copias certificadas de cualquier
-
-documentación contenida en los
-
-expedientes de la Dirección de Desarrollo
-
-Urbano:
+XVII.- Emisión de copias simples y/o copias certificadas de cualquier documentación contenida en los expedientes de la Dirección de Desarrollo Urbano:
 
 a) Por cada copia simple de:
 
-1) Cualquier documentación
+1) Cualquier documentación contenida en los expedientes en tamaño carta u oficio. 0.30 Página
 
-contenida en los expedientes en
+2) Plano aprobado por la Dirección de Desarrollo Urbano, en tamaño doble carta.
 
-tamaño carta u oficio. 0.30 Página
+0.60 Plano
 
-2) Plano aprobado por la Dirección de
+3) Plano aprobado por la Dirección de Desarrollo Urbano, en tamaño de hasta cuatro cartas 2.00 Plano
 
-Desarrollo Urbano, en tamaño
-
-doble carta. 0.60 Plano
-
-3) Plano aprobado por la Dirección de
-
-Desarrollo Urbano, en tamaño de
-
-hasta cuatro cartas 2.00 Plano
-
-4) Plano aprobado por la Dirección de
-
-Desarrollo Urbano, superior a cuatro
-
-veces el tamaño carta. 5.00 Plano
+4) Plano aprobado por la Dirección de Desarrollo Urbano, superior a cuatro veces el tamaño carta. 5.00 Plano
 
 b) Por cada copia certificada de:
 
-1) Cualquier documentación contenida
+1) Cualquier documentación contenida en los expedientes en tamaño carta u oficio. 0.50 Página
 
-en los expedientes en tamaño carta
+2) Plano aprobado por la Dirección de Desarrollo Urbano, en tamaño doble carta. 1.00 Plano
 
-u oficio. 0.50 Página
+3) Plano aprobado por la Dirección de Desarrollo Urbano, en tamaño de hasta cuatro cartas. 2.20 Plano
 
-2) Plano aprobado por la Dirección de
+4) Plano aprobado por la Dirección de Desarrollo Urbano, superior a cuatro veces el tamaño carta. 5.20 Plano
 
-Desarrollo Urbano, en tamaño
-
-doble carta. 1.00 Plano
-
-3) Plano aprobado por la Dirección de
-
-Desarrollo Urbano, en tamaño de
-
-hasta cuatro cartas. 2.20 Plano
-
-4) Plano aprobado por la Dirección de
-
-Desarrollo Urbano, superior a cuatro
-
-veces el tamaño carta. 5.20 Plano
-
-XVIII.- Copia electrónica de planos aprobados
-
-por la Dirección de Desarrollo Urbano
-
-en disco compacto no regrabable.
+XVIII.- Copia electrónica de planos aprobados por la Dirección de Desarrollo Urbano en disco compacto no regrabable.
 
 1) De 1 a 5 planos 5.20 Disco
 
-2) Por cada plano adicional 1.00 Plano
+2) Por cada plano adicional 1 Plano
 
 adicional
 
-> <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
-
 XIX.- Autorización de la Constitución de Desarrollo Inmobiliario
+
+1. Zona 1. Consolidación Urbana
+
+a) Hasta 10,000.00 metros cuadrados 53 Autorización
+
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 60 Autorización
+
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 68 Autorización
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados. 75 Autorización
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados 113 Autorización
+
+f) Mayores a 200,000.00 metros cuadrados 150 Autorización
+
+2. Zona 2. Crecimiento Urbano
+
+a) Hasta 10,000.00 metros cuadrados 140 Autorización
+
+b) De 10,000.01 hasta 50,000.00 metros cuadrados 160 Autorización
+
+c) De 50,000.01 hasta 100,000.00 metros cuadrados 180 Autorización
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados 200 Autorización
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados 300 Autorización
+
+f) Mayores a 200,000.00 metros cuadrados 400 Autorización
+
+3. Zona 3. Regeneración y Desarrollo Sustentable
+
+a) Hasta 10,000.00 metros cuadrados 350 Autorización
+
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 400 Autorización
+
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 450 Autorización
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados 500 Autorización
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados 750 Autorización
+
+f) Mayores a 200,000.00 metros cuadrados 1000 Autorización
+
+4. Zona 4. Conservación de los Recursos Naturales
+
+a) Hasta 10,000.00 metros cuadrados 700 Autorización
+
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 800 Autorización
+
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 900 Autorización
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados 1,000 Autorización
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados 1,500 Autorización
+
+f) Mayores a 200,000.00 metros cuadrados 2,000 Autorización
+
+XX.- Autorización de la Modificación de la Constitución de Desarrollo Inmobiliario.
+
+1. Zona 1. Consolidación Urbana
+
+a) Hasta 10,000.00 metros cuadrados 26 Autorización
+
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 30 Autorización
+
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 34 Autorización
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados. 38 Autorización
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados. 56 Autorización
+
+f) Mayores a 200,000.00 metros cuadrados 75 Autorización
+
+2. Zona 2. Crecimiento Urbano
 
 a) Hasta 10,000.00 metros cuadrados 70 Autorización
 
-b) De 10,000.01 hasta 50,000.00 metros cuadrados. 80 Autorización
+b) De 10,000.01 hasta 50,000.00 metros cuadrados 80 Autorización
 
 c) De 50,000.01 hasta 100,000.00 metros cuadrados. 90 Autorización
 
 d) De 100,000.01 hasta 150,000.00 metros cuadrados. 100 Autorización
 
-e) De 150,0 00.01 hast a (sic) 200,000.00 metros
-
-cuadrados. 150 Autorización
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+e) De 150,000.01 hasta 200,000.00 metros cuadrados 150 Autorización
 
 f) Mayores a 200,000.00 metros cuadrados 200 Autorización
 
-> <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+3. Zona 3. Regeneración y Desarrollo Sustentable
 
-XX.- Autorización de la Modificación de la Constitución de Desarrollo Inmobiliario.
+a) Hasta 10,000.00 metros cuadrados 175 Autorización
 
-a) Hasta 10,000.00 metros cuadrados 35 Autorización
+b) De 10,000.01 hasta 50,000.00 metros cuadrados 200 Autorización
 
-b) De 10,000.01 hasta 50,000.00 metros
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 225 Autorización
 
-cuadrados. 40 Autorización
+d) De 100,000.01 hasta 150,000.00 metros cuadrados. 250 Autorización
 
-c) De 50,000.01 hasta 100,000.00 metros
+e) De 150,000.01 hasta 200,000.00 metros cuadrados. 375 Autorización
 
-cuadrados. 45 Autorización
+f) Mayores a 200,000.00 metros cuadrados 500 Autorización
 
-d) De 100,000.01 hasta 150,000.00
+4. Zona 4. Conservación de los Recursos Naturales
 
-metros cuadrados. 50 Autorización
+a) Hasta 10,000.00 metros cuadrados 350 Autorización
 
-e) De 150,000.01 hast a (sic) 200,000.00 metros
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 400 Autorización
 
-cuadrados. 75 Autorización
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 450 Autorización
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+d) De 100,000.01 hasta 150,000.00 metros cuadrados. 500 Autorización
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+e) De 150,000.01 hasta 200,000.00 metros cuadrados. 750 Autorización
 
-f) Mayores a 200,000.00 metros cuadrados 100 Autorización
+f) Mayores a 200,000.00 metros cuadrados 1,000 Autorización
+
+XXI.- Emisión de la cédula urbana 5 Cédula
+
+XXII.- Revisión de integración de predios ejidales 0.014 Metro
+
+cuadrado del terreno
+
+En la zona de conservación ecológica Reserva Cuxtal se aplicarán las cuotas correspondientes a la zona 4.
 
 De las exenciones
 
@@ -2181,13 +2157,17 @@ En las oficinas recaudadoras se instalarán cartelones en lugares visibles, info
 
 Lo dispuesto en este artículo, no libera a los responsables de las obras o de los actos relacionados, de la obligación de solicitar los permisos o autorizaciones correspondientes.
 
-#### Sección Sexta. De los derechos por los servicios que presta la Dirección del Catastro del Municipio
+#### Sección Quinta. De los Certificados y Constancias
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 79.
 
 Las personas físicas o morales que soliciten los servicios que a continuación se detallan estarán obligadas al pago de los derechos conforme a lo siguiente:
 
-Servicio Factor Salario Mínimo
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Servicio Factor Unidad de Medida y Actualización
 
 I.- Por constancia de licencia
 
@@ -2203,41 +2183,29 @@ cédula de inscripción al Registro
 
 de Población Municipal 0.7
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 80.
 
-Por la reproducción de documentos o archivos a los cuales se refiere el artículo 6 de la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, se pagará conforme a las siguientes cuotas, siempre y cuando no se estipule en otra Sección de este Capítulo una cuota específica para el servicio:
+Por la reproducción de documentos o archivos a los cuales se refiere el artículo 141 de la Ley General de Transparencia y Acceso a la Información Pública, se pagará conforme a las siguientes cuotas, siempre y cuando no se estipule en otra Sección de este Capítulo una cuota específica para el servicio:
 
-Concepto Veces Salario Mínimo
+Concepto Precio
 
-a) Emisión de copias simples
+a) Emisión de copias simples o impresiones de documentos, tamaño carta u oficio, por cada página $1.00 peso
 
-o impresiones de documentos,
+b) Expedición de copias certificadas, tamaño carta u oficio, por cada hoja
 
-tamaño carta u oficio,
+$3.00 pesos
 
-por cada página 0.03
-
-b) Expedición de copias
-
-certificadas, tamaño carta
-
-u oficio, por cada hoja 0.35
-
-c) Copia de información
-
-municipal en disco compacto
-
-o disco de 3 1/2 pulgadas,
-
-conteniendo de 1 hasta 10
-
-archivos por disco. 1.0
+c) Información pública municipal en disco compacto. $10.00 pesos
 
 ###### ARTÍCULO 81.
 
 Los ejemplares y publicaciones en la Gaceta Municipal del Ayuntamiento de Mérida, causarán derechos conforme a lo siguiente:
 
-Concepto Veces Salario Mínimo
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Concepto Veces la unidad de medida y actualización
 
 I.- Por ejemplar 0.11
 
@@ -2259,9 +2227,9 @@ d) Media plana 5.50
 
 e) Un cuarto de plana 3.00
 
-#### Sección Séptima. De los Derechos por el Uso y Aprovechamiento de los Bienes de Dominio Público del Patrimonio Municipal
+#### Sección Sexta. De los derechos por los servicios que presta la Dirección del Catastro del Municipio
 
-De los sujetos
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 82.
 
@@ -2283,23 +2251,31 @@ De la tarifa
 
 La tarifa aplicable a los derechos por matanza de ganado será la siguiente:
 
-Concepto Veces Salario Mínimo
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Por cada cabeza de ganado:
+Concepto Veces la unidad de medida y actualización
 
-Vacuno: 4.0
+Por cada cabeza de ganado por introductor al mes:
 
-Porcino: (Sic)
+Vacuno: Por las primeras 50 cabezas de ganado 4.0
 
-Peso de hasta 45.99 kg. 1.0
+Vacuno: De la cabeza de ganado 51 a la 100 3.5
 
-Peso de entre 46 y hasta 125.99 kg 2.0
+Vacuno: De la cabeza de ganado 101 en adelante 2.5
 
-Peso de 126 kg. ó más 4.0
+Porcino:
 
-Equino: 4.0
+Peso de hasta 50 kg 1.0
 
-Caprino: 1.0
+Peso de entre 50.01 y hasta 135 kg 2.0
+
+Peso de más de 135 kg 3.0
+
+Equino 4.0
+
+Caprino 1.0
+
+Ovino 1.0
 
 De la matanza fuera del rastro público
 
@@ -2317,139 +2293,117 @@ De la introducción de carne al Municipio
 
 Cuando se introduzcan carnes frescas o refrigeradas al Municipio, no se pagará el derecho por la inspección que realice "Abastos de Mérida", en sus instalaciones, conforme a los artículos 22, 23, 24 y 25del (sic) Reglamento de dicho organismo.
 
-En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren por la inspección mencionada, se harán acreedoras a una sanción cuyo importe sea igual a 10 salarios mínimos por pieza de ganado introducida o su equivalente.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+En el caso de que las personas que realicen la introducción de carne en los términos del párrafo anterior, no pasaren por la inspección mencionada, se harán acreedoras a una sanción cuyo importe sea igual a 10 veces la unidad de medida y actualización por pieza de ganado introducida o su equivalente.
 
-No se aplicará la sanción prevista en el párrafo que inmediatamente antecede, siempre y cuando, quien introduzca carnes frescas o refrigeradas a este Municipio, permita que personal de "Abastos de Mérida" realice la inspección en lugar distinto de las instalaciones de dicho organismo descentralizado y pague por ese servicio un derecho de 0.0142 de salario mínimo por kilogramo.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-#### Sección Octava
+No se aplicará la sanción prevista en el párrafo que inmediatamente antecede, siempre y cuando, quien introduzca carnes frescas o refrigeradas a este Municipio, permita que personal de "Abastos de Mérida" realice la inspección en lugar distinto de las instalaciones de dicho organismo descentralizado y pague por ese servicio un derecho de 0.0142 veces la unidad de medida y actualización por kilogramo.
 
-Derechos por el Servicio Público de Panteones.
+#### Sección Séptima. De los Derechos por el Uso y Aprovechamiento de los Bienes de Dominio Público del Patrimonio Municipal
+
+De los sujetos
 
 ###### ARTÍCULO 87.
 
-Por la expedición de certificados o constancias de cualesquiera de las dependencias del Ayuntamiento, que no se encuentren señalados en forma expresa en otra Sección de este Capítulo, se causarán derechos que se calcularán multiplicando el factor que se especifica en cada uno de ellos, por el salario mínimo diario vigente en el Municipio de Mérida a la fecha de su expedición:
+Por la expedición de certificados o constancias de cualquiera de las dependencias del Ayuntamiento, que no se encuentren señalados en forma expresa en otra Sección de este Capítulo, se causarán derechos que se calcularán multiplicando el factor que se especifica en cada uno de ellos, por la unidad de medida y actualización a la fecha de su expedición:
 
-Concepto Veces de Salario Mínimo
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-I.- Certificado de no adeudar
+Concepto Veces la unidad de medida y actualización
 
-impuesto predial 1.0
+I.- Certificado de no adeudar impuesto predial 1.0
 
 II.- Certificado de vecindad 1.0
 
-III.- Constancia de no adeudar
+III.- Constancia de no adeudar derechos de urbanización
 
-derechos de urbanización 1.0
+1.0
 
-IV.- Constancia de Inscripción al
+IV.- Constancia de Inscripción al Registro de Población Municipal.
 
-Registro de Población Municipal. 1.0
+1.0
 
-V.- Constancia Anual de
+V.- Constancia Anual de Inscripción al Padrón Municipal de Contratistas de Obras Públicas. 10.0
 
-Inscripción al Padrón Municipal
+VI.- Constancia de no adeudar derechos por el servicio de agua potable en comisarías y colonias marginadas del Municipio de Mérida.
 
-de Contratistas de Obras Públicas. 10.0
+1.0
 
-VI.- Constancia de no adeudar
-
-derechos por el servicio de agua
-
-potable en comisarías y colonias
-
-marginadas del Municipio
-
-de Mérida. 1.0
-
-VII.- Constancia de no servicio
-
-de agua potable en comisarías y
-
-colonias marginadas del
-
-Municipio de Mérida. 1.0
+VII.- Constancia de no servicio de agua potable en comisarías y colonias marginadas del Municipio de Mérida. 1.0
 
 > <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-VIII.- Constancia de excepción de pago del
-
-Impuesto Sobre Adquisición de Inmuebles 1.0
+VIII.- Constancia de excepción de pago del Impuesto Sobre Adquisición de Inmuebles 1.0
 
 > <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
-IX.- Otros certificados o constancias no
-
-señalados en forma expresa en el Capítulo II
-
-del Título Segundo de esta Ley 1.0
+IX.- Otros certificados o constancias no señalados en forma expresa en el Capítulo II del Título Segundo de esta Ley 1.0
 
 ###### ARTÍCULO 88.
 
 El Director de Finanzas y Tesorero Municipal, podrá disminuir las cuotas señaladas en las fracciones II y IV del artículo 87 de esta sección, tratándose de personas de escasos recursos, previo estudio socioeconómico que para tal efecto realice la Secretaría Municipal.
 
-#### Sección Novena. Derechos por servicio de Alumbrado Público
+#### Sección Octava
+
+Derechos por el Servicio Público de Panteones.
 
 ###### ARTÍCULO 89.
 
-Por los servicios que presta la Dirección Municipal de Catastro se causarán derechos que se calcularán multiplicando la tasa que se especifica en cada uno de ellos, por el salario mínimo diario vigente en el Municipio de Mérida a la fecha de solicitud:
+Por los servicios que presta la Dirección Municipal de Catastro se causarán derechos que se calcularán multiplicando la tasa que se especifica en cada uno de ellos, por la unidad de medida y actualización a la fecha de solicitud:
 
 I.- Por la Emisión de copias fotostáticas simples:
 
-a).- Por cada hoja simple tamaño
+a).- Por cada hoja simple tamaño carta de cédulas, planos de predios, formas de manifestación de traslación de dominio, oficios de servicios expedidos por la Dirección o cualquier otra manifestación: 0.3
 
-carta de cédulas, planos de predios,
+b).- Por cada copia hasta tamaño cuatro cartas: 2.0
 
-formas de manifestación de traslación
+c).- Por cada copia mayor al tamaño cuatro cartas: 5.0
 
-de dominio, oficios de servicios
+d).- Por cada hoja simple tamaño carta de Libro de Parcela con datos registrales:
 
-expedidos por la Dirección o
-
-cualquier otra manifestación: 0.3
-
-b).- Por cada copia hasta tamaño
-
-cuatro cartas: 2.0
-
-c).- Por cada copia mayor al
-
-tamaño cuatro cartas: 5.0
-
-d).- Por cada hoja simple tamaño
-
-carta de Libro de Parcela con
-
-datos registrales: 2.0
+2.0
 
 II.- Por la expedición de copias fotostáticas certificadas o duplicados certificados de:
 
-a).- Cédulas, planos, manifestaciones,
+a).- Cédulas, planos, manifestaciones, oficios de servicios expedidos por la Dirección, (tamaño carta) cada una: 0.5
 
-oficios de servicios expedidos por la
+b).- Planos tamaño doble carta, cada una: 0.6
 
-Dirección, (tamaño carta) cada una: 0.5
+c).- Planos tamaño hasta cuatro cartas cada una: 2.2
 
-b).- Planos tamaño doble carta,
+d).- Planos mayores de cuatro veces tamaño carta, cada uno: 5.2
 
-cada una: 0.6
-
-c).- Planos tamaño hasta cuatro
-
-cartas cada una: 2.2
-
-d).- Planos mayores de cuatro veces
-
-tamaño carta, cada uno: 5.2
-
-e).- Libro de Parcela con
-
-datos registrales: 3.0
+e).- Libro de Parcela con datos registrales: 3.0
 
 III.- Por la expedición de oficio de:
 
 a).- División (Por cada parte): 0.5
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+1. Zona 1. Consolidación Urbana 0.38
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+2. Zona 2. Crecimiento Urbano 1
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+3. Zona 3. Regeneración y Desarrollo Sustentable 2.50
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+4. Zona 4. Conservación de los Recursos Naturales 5
+
+b).- Por cada copia hasta tamaño cuatro cartas: 2.0
+
+c).- Por cada copia mayor al tamaño cuatro cartas: 5.0
+
+d).- Por cada hoja simple tamaño carta de Libro de Parcela con datos registrales:
+
+2.0
 
 b).- Unión:
 
@@ -2461,9 +2415,7 @@ b).- Unión:
 
 4. De 41 predios en adelante 10.0
 
-c).- Urbanización catastral y
-
-cambio de nomenclatura: 1.0
+c).- Urbanización catastral y cambio de nomenclatura: 1.0
 
 d).- Cédula Catastral:
 
@@ -2471,13 +2423,7 @@ d).- Cédula Catastral:
 
 2. Emitida en Línea (Vía Internet) 4.0
 
-e).- Constancias ó certificados de
-
-no propiedad, única propiedad,
-
-valor catastral, número oficial de predio
-
-y certificado de inscripción vigente: 1.5
+e).- Constancias ó certificados de no propiedad, única propiedad, valor catastral, número oficial de predio y certificado de inscripción vigente: 1.5
 
 f).- Constancia de información de bienes inmuebles:
 
@@ -2491,9 +2437,7 @@ de 11 hasta 20 predios 5.0
 
 de 21 predios en adelante 5.25 de base más 0.25 por cada predio excedente.
 
-g).- Certificado de no inscripción
-
-predial: 4.0
+g).- Certificado de no inscripción predial: 4.0
 
 h) Inclusión por Omisión: 2.0
 
@@ -2501,11 +2445,9 @@ i) Historial del Predio y su Valor: 1.5
 
 j) Rectificación de medidas 4.0
 
-IV.- Por revalidación de cada oficio
+IV.- Por revalidación de cada oficio de división, unión y rectificación de Medidas
 
-de división, unión y
-
-rectificación de Medidas 1.0
+1.0
 
 V.- Por la elaboración de planos:
 
@@ -2517,29 +2459,9 @@ c).- Hasta 105 x 90 centímetros (Ploter) 20.0
 
 VI.- Por cada diligencia de verificación:
 
-a).- Para la factibilidad de división,
+a).- Para la factibilidad de división, urbanización catastral, cambio de nomenclatura, estado físico del predio, ubicación física, no inscripción, mejora o demolición de construcción, rectificación de medidas, medidas físicas de construcción, colindancias de predios, o marcajes 5.0
 
-urbanización catastral, cambio de
-
-nomenclatura, estado físico del predio,
-
-ubicación física, no inscripción, mejora
-
-o demolición de construcción,
-
-rectificación de medidas, medidas físicas
-
-de construcción, colindancias
-
-de predios, o marcajes 5.0
-
-b).- Para la elaboración de actas
-
-circunstanciadas por cada predio colindante
-
-que requiera de investigación
-
-documental 20.0
+b).- Para la elaboración de actas circunstanciadas por cada predio colindante que requiera de investigación documental 20.0
 
 VII.- Por los trabajos de topografía que se requieran para la elaboración de planos o la diligencia de verificación, se causarán derechos de acuerdo a la superficie, conforme a lo siguiente:
 
@@ -2553,37 +2475,23 @@ De 1,000.01 a 2,500.00 m2 10.0
 
 De 2,500.01 a 10,000.00 m2 25.0
 
-De 10,000.01 m2 a
+De 10,000.01 m2 a 30,000.00 m2, por m2 0.0040
 
-30,000.00m2, por m2 0.0040
+De 30,000.01 m2 a 60,000.00 m2, por m2 0.0032
 
-De 30,000.01 m2 a
+De 60,000.01 m2 a 90,000.00 m2, por m2 0.0029
 
-60,000.00 m2, por m2 0.0032
+De 90,000.01 m2 a 120,000.00 m2, por m2 0.0026
 
-De 60,000.01 m2 a
+De 120,000.01 m2 a 150,000.00 m2, por m2 0.0023
 
-90,000.00 m2, por m2 0.0029
-
-De 90,000.01 m2 a
-
-120,000.00 m2, por m2 0.0026
-
-De 120,000.01 m2 a
-
-150,000.00 m2, por m2 0.0023
-
-De 150,000.01 m2
-
-en adelante, por m2 0.0021
+De 150,000.01 m2 en adelante, por m2 0.0021
 
 b).- De Construcción:
 
 De hasta 50.00 m2 0.00
 
-De 50.01 m2 en adelante,
-
-por m2 excedente 0.014
+De 50.01 m2 en adelante, por m2 excedente 0.014
 
 Tratándose de trabajos de topografía para desarrollos inmobiliarios, que hayan cumplido con todos los requisitos legales que señalan las normas de la materia, se pagará una cuota equivalente al 40 por ciento de los derechos establecidos en el anterior inciso a) de esta fracción.
 
@@ -2591,7 +2499,9 @@ En el caso de que el particular haya realizado los trabajos de topografía del d
 
 a) Por la localización del predio y determinación de sus vértices, por cada metro lineal con base a la distancia existente desde el punto de referencia catastral más cercano al predio solicitado 0.081 por cada metro lineal
 
-b) Por cada punto posicionado geográficamente con sistemas de posicionamiento global (G.P.S.) 16.0 salarios.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+b) Por cada punto posicionado geográficamente con sistemas de posicionamiento global (G.P.S.) 16.0 U. M. A.
 
 En el caso de localización de predios y determinación de sus vértices, se cobrará adicionalmente a la superficie del predio, lo siguiente:
 
@@ -2621,7 +2531,9 @@ Los deslindes o marcajes y las divisiones causarán derechos de conformidad con 
 
 Por la expedición del oficio de resultado de la revisión técnica de la documentación de constitución o modificación del régimen de propiedad en condominio, se causarán derechos por departamento de acuerdo a su tipo.
 
-Veces de salario mínimo
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Veces la unidad de medida y actualización
 
 I.- Comercial: 1.5
 
@@ -2637,61 +2549,97 @@ Otros Servicios Prestados por el Catastro Municipal.
 
 I.- Impresión de imagen satelital o de fotografía aérea a color del Municipio de Mérida:
 
-a).- Tamaño Carta 5.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b).- Tamaño doble carta 9.0 salarios
+a).- Tamaño Carta 5.0 U.M.A.
 
-c).- Tamaño cuatro cartas 15.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-d).- Tamaño 60 x 75 centímetros 20.0 salarios
+b).- Tamaño doble carta 9.0 U.M.A.
 
-e).- Tamaño 60 x 90 centímetros 22.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-f).- Tamaño 90 x 130 centímetros 25.0 salarios
+c).- Tamaño cuatro cartas 15.0 U.M.A.
 
-g).- Tamaño 105 x 162.5 centímetros 35.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+d).- Tamaño 60 x 75 centímetros 20.0 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+e).- Tamaño 60 x 90 centímetros 22.0 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+f).- Tamaño 90 x 130 centímetros 25.0 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+g).- Tamaño 105 x 162.5 centímetros 35.0 U.M.A.
 
 II.- Impresión de planos a nivel manzana, fraccionamiento, sección catastral o de la ciudad:
 
-a).- Tamaño carta 4.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b).- Tamaño doble carta 8.0 salarios
+a).- Tamaño carta 4.0 U.M.A.
 
-c).- Tamaño cuatro cartas 14.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-d) Tamaño 60 x 75 centímetros 18.0 salarios
+b).- Tamaño doble carta 8.0 U.M.A.
 
-e).- Tamaño 60 x 90 centímetros 20.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-f).- Tamaño 90 x 130 centímetros 22.0 salarios
+c).- Tamaño cuatro cartas 14.0 U.M.A.
 
-g).- Tamaño 105 x 162.5 centímetros 30.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-III.- Trabajos de referencia geográfica con sistemas de posicionamiento global (G.P.S) por cada punto posicionando geográficamente 16.0 salarios
+d) Tamaño 60 x 75 centímetros 18.0 U.M.A.
 
-IV.- Cuando los servicios catastrales solicitados, requieran de trabajos de verificación en el Registro Público de la Propiedad del Estado de Yucatán, Registro Agrario Nacional, u otra institución pública 10.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-V.- Plano del Municipio de Mérida (No georeferenciado) hasta nivel manzana, en disco compacto 5.0 salarios
+e).- Tamaño 60 x 90 centímetros 20.0 U.M.A.
 
-VI.- Asignación de nomenclatura en planos de fraccionamientos y divisiones de predios que formen al menos una vialidad, por cada fracción 0.1 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+f).- Tamaño 90 x 130 centímetros 22.0 U.M.A.
 
-VII.- Por revisión y validación en línea (vía internet) de planos en 0.32 formato catastral, elaborados y presentados por un dibujante salarios empadronado, se cobrará por cada plano.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-#### Sección Décima. Derechos por Licencias de funcionamiento y Permisos
+g).- Tamaño 105 x 162.5 centímetros 30.0 U.M.A.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+III.- Trabajos de referencia geográfica con sistemas de posicionamiento global (G.P.S) por cada punto posicionando geográficamente 16.0 U.M.A.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IV.- Cuando los servicios catastrales solicitados, requieran de trabajos de verificación en el Registro Público de la Propiedad del Estado de Yucatán, Registro Agrario Nacional, u otra institución pública 10.0 U.M.A.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+V.- Plano del Municipio de Mérida (No georeferenciado) hasta nivel manzana, en disco compacto 5.0 U.M.A.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VI.- Asignación de nomenclatura en planos de fraccionamientos y divisiones de predios que formen al menos una vialidad, por cada fracción 0.1 U.M.A.
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VII.- Por revisión y validación en línea (vía internet) de planos en formato catastral, elaborados y presentados por un dibujante empadronado, se cobrará por cada plano. 0.32 U.M.A.
+
+#### Sección Novena. Derechos por servicio de Alumbrado Público
 
 ###### ARTÍCULO 96.
 
 Son sujetos al pago de los derechos establecidos en esta sección las personas que usen y aprovechen los bienes del dominio público del patrimonio municipal.
 
-De la base
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+De la base
 
 ###### ARTÍCULO 97.
 
-La base para determinar el importe de estos derechos será el número de metros cuadrados o lineales, según sea el caso, usados y aprovechados por la persona obligada al pago.
+La base para determinar el importe de estos derechos será el acceso a los aparatos de recreo, o el número de metros cuadrados o lineales, según sea el caso, usados y aprovechados por la persona obligada al pago.
 
 De la tasa y del pago
 
@@ -2701,45 +2649,57 @@ Los derechos establecidos en esta sección serán pagados de conformidad con lo 
 
 I.- Por el uso de espacios en la vía o parques públicos:
 
-a) Para la instalación de juegos mecánicos, eléctricos, manuales o cualquier otro que promueva el esparcimiento o diversión pública, se pagará por los dos primeros metros cuadrados el equivalente a 5.0 salarios mínimos, y por cada metro excedente a dos metros cuadrados el equivalente a 0.15 salarios mínimos.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Para la instalación de mobiliario urbano del tipo paradero de autobús con espacio para la instalación de publicidad: 1.20 salarios mínimos por metro cuadrado.
+a) Para la instalación de juegos mecánicos, eléctricos, manuales o cualquier otro que promueva el esparcimiento o diversión pública, se pagará por los dos primeros metros cuadrados el equivalente a 5.0 veces la unidad de medida y actualización, y por cada metro excedente a dos metros cuadrados el equivalente a 0.15 veces la unidad de medida y actualización.
 
-c) Para la instalación de mobiliario urbano distinto al señalado en el inciso b) de esta fracción, cuyo uso requiera el pago de una contraprestación: 0.50 salarios mínimos por metro cuadrado o fracción de este.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+b) Para la instalación de mobiliario urbano del tipo paradero de autobús con espacio para la instalación de publicidad: 1.20 veces la unidad de medida y actualización por metro cuadrado.
 
-d) Para la instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo: 0.05 salarios mínimos por metro lineal.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+c) Para la instalación de mobiliario urbano distinto al señalado en el inciso b) de esta fracción, cuyo uso requiera el pago de una contraprestación: 0.50 veces la unidad de medida y actualización por metro cuadrado o fracción de éste.
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-e) Para la instalación de puestos semifijos en los tianguis, ubicados en las zonas y lugares destinados al comercio, en las colonias y suburbios del municipio, que cumplan con la normatividad correspondiente; se pagará 1.0699 salarios mínimos por metro cuadrado.
+d) Para la instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo: 0.05 veces la unidad de medida y actualización por metro lineal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+e) Para la instalación de puestos semifijos en los tianguis, ubicados en las zonas y lugares destinados al comercio, en las colonias y suburbios del municipio, que cumplan con la normatividad correspondiente; se pagará 1.0669 veces la unidad de medida y actualización por metro cuadrado.
 
 Cuando la aplicación de este factor resultare una cantidad superior a 75.00 pesos, se cobrará esta cantidad en vez de aquella.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-f) Para uso distinto a los señalados en los incisos anteriores: 10.0 salarios mínimos por metro cuadrado
+f) Para uso distinto a los señalados en los incisos anteriores: 10.0 veces la unidad de medida y actualización por metro cuadrado.
 
 Para efectos de esta fracción se entiende como mobiliario urbano entre otros las casetas telefónicas, fuentes, bancas, depósitos de basura, señalización, buzones, y otros elementos análogos.
 
-II.- Por el uso y aprovechamiento de locales o piso en los mercados públicos propiedad del Municipio 0.27 salario mínimo por metro cuadrado.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+II.- Por el uso y aprovechamiento de locales o piso en los mercados públicos propiedad del Municipio 0.27 veces la unidad de medida y actualización por metro cuadrado.
 
 Cuando el contribuyente pague los derechos a que se refiere esta fracción II correspondientes a una anualidad, durante los meses de enero y febrero del año vigente de que se trate, gozará de una bonificación del 0.10 sobre el importe a pagar de dichos derechos.
 
-III.- Por el uso de espacios públicos ubicados en bienes de dominio público destinados a la compraventa de vehículos, se pagará una cuota diaria equivalente a 0.075 salarios mínimos por metro cuadrado.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+III.- Por el uso de espacios públicos ubicados en bienes de dominio público destinados a la compraventa de vehículos, se pagará una cuota diaria equivalente a 0.075 veces la unidad de medida y actualización por metro cuadrado.
 
 Cuando de la aplicación de este factor resultare una cantidad superior a 30 pesos, se cobrará esta cantidad en vez de aquélla.
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Excepto por el derecho contenido en la fracción III, los demás derechos señalados en este artículo se causarán por períodos de un mes natural, sin embargo para el caso de los derechos establecidos en los incisos a) y e) de la fracción I de este artículo si el período de uso fuese menor a un mes natural el período de causación será en proporción a los días de uso considerando para tales efectos que un mes natural es equivalente a treinta días.
+IV.- Por el uso y acceso al tren localizado dentro de las instalaciones del Parque Zoológico del Bicentenario Animaya, se cobrará $5.00 pesos por persona.
 
-Los derechos establecidos en los incisos b) y c) de la fracción I y fracción II de este artículo se pagarán dentro de los quince días naturales del mes siguiente a aquel en que se hayan causado.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Excepto por el derecho contenido en las fracciones III y IV, los demás derechos señalados en este artículo se causarán por períodos de un mes natural, sin embargo para el caso de los derechos establecidos en los incisos a) y f) de la fracción I de este artículo si el período de uso fuese menor a un mes natural el período de causación será en proporción a los días de uso considerando para tales efectos que un mes natural es equivalente a treinta días.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Los derechos establecidos en los incisos b) y c) de la fracción I y fracción II de este artículo se pagarán dentro de los quince días naturales del mes siguiente a aquel en que se hayan causado. Tratándose de lo establecido en los incisos b) y c) de la fracción I se podrá realizar el pago anticipado correspondiente a una anualidad.
 
 > <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -2757,17 +2717,17 @@ El otorgamiento de concesiones para el uso y aprovechamiento de superficies de l
 
 Cuando algún concesionario ilegalmente haya pretendido enajenar sus derechos, el contrato que contenga la operación será nulo de pleno derecho, será causa de revocación de la concesión y de la aplicación al adquirente de una multa consistente en el .30 del valor comercial del área concesionada. El Ayuntamiento podrá concesionar discrecionalmente, al presunto adquirente la superficie en cuestión mediante un nuevo acto administrativo, y el pago de los derechos y la multa a que se refiere este artículo.
 
-Por el permiso para realizar el comercio ambulante, se pagará un derecho de 0.18 de un salario mínimo por día.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Por el permiso para realizar el comercio ambulante, se pagará un derecho de 0.18 veces la unidad de medida y actualización por día.
 
 ###### ARTÍCULO 100.
 
 El pago de los derechos establecidos en la presente sección será posterior a la obtención de la autorización que otorgue la autoridad o dependencia municipal que corresponda.
 
-#### Sección Décima Primera. Derechos por los servicios que presta la Subdirección de Servicios Generales
+#### Sección Décima. Derechos por Licencias de funcionamiento y Permisos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 101.
 
@@ -2775,21 +2735,13 @@ Los derechos a que se refiere esta sección por los conceptos a los que se refie
 
 TARIFA
 
-I.- Por el uso o servicio de la
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-cámara de refrigeración por cadáver
+I.- Por el uso o servicio de la cámara de refrigeración por cadáver o resto humano a solicitud de particular, por día 4.0 U.M.A.
 
-o resto humano a solicitud de
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-particular, por día 4.0 salarios
-
-II.- Por el permiso para prestar el
-
-servicio funerario particular se causará
-
-un derecho de 6.2 salarios
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+II.- Por el permiso para prestar el servicio funerario particular se causará un derecho de 6.2 U.M.A.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
@@ -2797,63 +2749,105 @@ III. Por otorgar el derecho de uso temporal a tres años mínimo, dentro de los 
 
 a) Xoclán, General y Chuburná se pagará:
 
-1.- Bóveda chica 4.65 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-2.- Bóveda grande 10.65 salarios
+1.- Bóveda chica 4.65 U.M.A.
 
-3.- Bóveda grande doble 15.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+2.- Bóveda grande 10.65 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+3.- Bóveda grande doble 15.0 U.M.A.
 
 b) Florido y Jardines de la Paz se pagará:
 
-1.- Bóveda grande 17.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+1.- Bóveda grande 17.0 U.M.A.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+En caso de re-inhumación al vencer el derecho de uso temporal a tres años se pagará por cada año a utilizar las tarifas señaladas en los incisos a y b de esta fracción.
 
 IV.- Por otorgar el derecho de uso temporal a quince años, dentro de los Panteones o cementerios Públicos Municipales:
 
 a) General, Xoclán y Chuburná se pagará:
 
-1.- Osario o Cripta mural 5.7 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-2.- Bóveda chica 23.7 salarios
+1.- Osario o Cripta mural 5.7 U.M.A.
 
-3.- Bóveda grande 59.4 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-4.- Bóveda grande doble 95.0 salarios
+2.- Bóveda chica 23.7 U.M.A.
 
-5.- Cripta en la capilla de Xoclán 21.4 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+3.- Bóveda grande 59.4 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+4.- Bóveda grande doble 95.0 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+5.- Cripta en la capilla de Xoclán 21.4 U.M.A.
 
 b) Florido y Jardines de la Paz se pagará:
 
-1.- Bóveda grande 102.1 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-2.- Espacio para mausoleos de hasta
+1.- Bóveda grande 102.1 U.M.A.
 
-5 x 11 metros, por metro cuadrado 6.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+2.- Espacio para mausoleos de hasta 5 x 11 metros, por metro cuadrado
+
+6.0 U.M.A.
 
 V.- Por otorgar el derecho de uso a perpetuidad, dentro de los Panteones o cementerios Públicos Municipales:
 
 a) General, Xoclán y Chuburná se pagará:
 
-1.- Osario o Cripta mural 9.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-2.- Bóveda chica 35.0 salarios
+1.- Osario o Cripta mural 9.0 U.M.A.
 
-3.- Bóveda grande 90.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-4.- Bóveda grande doble 142.0 salarios
+2.- Bóveda chica 35.0 U.M.A.
 
-5.- Cripta en la capilla de Xoclán 32.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-6.- Espacio para mausoleos de hasta
+3.- Bóveda grande 90.0 U.M.A.
 
-5 x 11 metros, por metro cuadrado 6.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+4.- Bóveda grande doble 142.0 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+5.- Cripta en la Capilla y Edificio de Cruz en Xoclán 32.0 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+6.- Espacio para mausoleos de hasta 5 x 11 metros, por metro cuadrado
+
+6.0 U.M.A.
 
 b) Florido y Jardines de la Paz se pagará:
 
-1.- Bóveda grande 153.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-2.- Espacio para mausoleos de hasta
+1.- Bóveda grande 153.0 U.M.A.
 
-5 x 11 metros, por metro cuadrado 8.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+2.- Espacio para mausoleos de hasta 5 x 11 metros, por metro cuadrado
+
+8.0 U.M.A.
 
 VI.- Cuando se trate de inhumaciones en comisarías y subcomisarias del municipio de Mérida, no se causarán los derechos por el uso de la bóveda.
 
@@ -2861,63 +2855,45 @@ VII.- Cuando se trate de inhumaciones o exhumaciones en fosa común, no se causa
 
 VIII.- Por el servicio de inhumación o exhumación:
 
-a) En la ciudad de Mérida 2.4 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) En las comisarías y subcomisarias
+a) En la ciudad de Mérida 2.4 U.M.A.
 
-del Municipio de Mérida 1.2 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+b) En las comisarías y subcomisarias del Municipio de Mérida 1.2 U.M.A.
 
-IX.- Por el registro de cambio de titular
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-o la corrección de datos y su correspondiente
+IX.- Por el registro de cambio de titular y su correspondiente expedición de título de derecho de uso a perpetuidad o por uso temporal a quince años, cuando haya sido adquirida por herencia, legado o mandato judicial. 3.5 U.M.A.
 
-expedición de título de derecho de uso a
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-perpetuidad o por uso temporal a quince años,
+X.- Por el registro de cambio de titular o la corrección de datos y su correspondiente expedición de título de derecho de uso a perpetuidad o por uso temporal a quince años, cuando el cónyuge supérstite haya sido casado con el titular bajo el régimen de sociedad legal o bienes mancomunados.
 
-cuando haya sido adquirida por herencia, legado
+3.5 U.M.A.
 
-o mandato judicial. 3.5 salarios
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+XI.- Por el permiso temporal para establecer puestos semi-fijos para realizar actividades autorizadas en el interior de los panteones públicos, por día.
 
-X.- Por el registro de cambio de titular
+1.0 U.M.A.
 
-o la corrección de datos y su correspondiente
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-expedición de título de derecho de uso a
+XII.- Por el otorgamiento de la concesión para operar un panteón particular, por cada año concesionado. 400 U.M.A.
 
-perpetuidad o por uso temporal a quince años,
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-cuando el cónyuge supérstite haya sido casado
+XIII.- Por el otorgamiento de la concesión para operar un crematorio particular, por cada año concesionado. 400 U.M.A.
 
-con el titular bajo el régimen de sociedad legal
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-o bienes mancomunados. 3.5 salarios
+XIV.- Por la corrección de datos en los registros de derechos de uso y su correspondiente expedición de título de derecho de uso a perpetuidad o por uso temporal a quince años. 1 U.M.A.
 
-XI.- Por el permiso temporal para
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-establecer puestos semi-fijos para
-
-realizar actividades autorizadas en el
-
-interior de los panteones
-
-públicos, por día. 1.0 salario
-
-XII.- Por el otorgamiento de la
-
-concesión para operar un panteón
-
-particular, por cada año concesionado. 400 salarios
-
-XIII.- Por el otorgamiento de la
-
-concesión para operar un crematorio
-
-particular, por cada año concesionado. 400 salarios
+XV.- Por la recuperación de restos de fosa común cuando fueren exhumados con cargo al municipio. 1.20 U.M.A.
 
 ###### ARTÍCULO 102.
 
@@ -2927,61 +2903,55 @@ Concepto Cuota
 
 I.- Por los servicios prestados en Xoclán:
 
-a) Velación 4.0 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Ambulancia 3.6 salarios
+a) Velación 4.0 U.M.A.
 
-c) Carroza 8.3 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-d) Preparación 2.4 salarios
+b) Ambulancia 3.6 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+c) Carroza 8.3 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+d) Preparación 2.4 U.M.A.
 
 e) Cremación y disposición de cenizas:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+1) Adulto (uso de ataúd y entrega en urna) 37.07 U.M.A.
 
-1) Adulto
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-(uso de ataúd y entrega en urna) 37.07 salarios
+2) Niño (uso de ataúd y entrega en urna) 19.85 U.M.A.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+3) Restos áridos (entrega en urna) 15.88 U.M.A.
 
-2) Niño
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-(uso de ataúd y entrega en urna) 19.85 salarios
+4) Órganos humanos (entrega en urna) 18.88 U.M.A.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-3) Restos áridos
-
-(entrega en urna) 15.88 salarios
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
-
-4) Órganos humanos
-
-(entrega en urna) 18.88 salarios
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
-
-f) Por el uso de la sala de
-
-embalsamamiento 3 salarios
+f) Por el uso de la sala de embalsamamiento 3 U.M.A.
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
 g) Por traslado de un cadáver:
 
-1) Del Municipio de Mérida a otro Municipio del Estado de Yucatán, se pagarán 3.6 salarios más 0.1 salarios por kilómetro recorrido.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-2) Del Municipio de Mérida a otro Estado de la República Mexicana, se pagarán 3.6 salarios más 0.2 salarios por kilómetro recorrido.
+1) Por traslado fuera de la ciudad de Mérida, se pagarán 3.6 veces la unidad de medida y actualización más 0.1 veces la unidad de medida y actualización por kilómetro recorrido.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+2) Cuando sea fuera del Estado de Yucatán, se pagarán 3.6 veces la unidad de medida y actualización más 0.2 veces la unidad de medida y actualización por kilómetro recorrido.
 
 Para el cómputo del número de kilómetros recorridos señalados en esta fracción, se considerará como kilómetros recorridos, las distancias establecidas por la Secretaría de Comunicaciones y Transportes, entre el punto de origen hasta el punto de destino del traslado.
 
@@ -2989,13 +2959,21 @@ Para el cómputo del número de kilómetros recorridos señalados en esta fracci
 
 h) Por el servicio de Cremación prestado a empresas funerarias:
 
-1. Adulto: 54.6 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-2. Niño: 28.5 salarios
+1. Adulto 38 U.M.A.
 
-3. Restos áridos: 21.4 salarios
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-4. Por Órganos Humanos, hasta 2 órganos: 25.0 salarios
+2. Niño 17 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+3. Restos áridos 13 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+4. Por Órganos Humanos, hasta 2 órganos 15 U.M.A.
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -3029,7 +3007,9 @@ En el caso de personas de escasos recursos el Director de Finanzas y Tesorero Mu
 
 El Director de Servicios Públicos Municipales o el Director de Desarrollo Social a fin de solicitar la disminución que se señala en el párrafo anterior, deberá tomar en consideración el estudio socioeconómico y los lineamientos que para tal efecto realice y establezca, respectivamente, el Departamento de Panteones de la Dirección de Servicios Públicos Municipales del Ayuntamiento de Mérida.
 
-#### Sección Décima Segunda. Derechos por los Servicios de Vigilancia y los Relativos a Vialidad
+#### Sección Décima Primera. Derechos por los servicios que presta la Subdirección de Servicios Generales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 104.
 
@@ -3057,51 +3037,49 @@ Para efectos del cobro de este derecho el Ayuntamiento podrá celebrar convenios
 
 Los ingresos que se perciban por el derecho a que se refiere la presente Sección se destinarán al pago, mantenimiento y mejoramiento del servicio de alumbrado público que proporcione al Ayuntamiento.
 
-#### Sección Décima Tercera. Derechos por los Servicios de Corralón y Grúa
+#### Sección Décima Segunda. Derechos por los Servicios de Vigilancia y los Relativos a Vialidad
 
 ###### ARTÍCULO 110.
 
-Todas las tarifas de esta Sección se calcularán con base en el salario mínimo por cada licencia.
+Todas las tarifas de esta Sección se calcularán con base en la unidad de medida y actualización por cada licencia.
 
 ###### ARTÍCULO 111.
 
 Tratándose de apertura, por la expedición de licencias para el funcionamiento de establecimientos dedicados al expendio de bebidas alcohólicas y/o cerveza para su consumo en lugar diferente, se cobrará un derecho de acuerdo a lo siguiente:
 
-Tipo de establecimiento Veces Salario Mínimo
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-I.- Expendio de vinos, licores
+Tipo de establecimiento Veces la unidad de medida y actualización
 
-y cervezas en envase cerrado: 75
+I.- Expendio de vinos, licores y cervezas en envase cerrado: 75
 
-II.- Expendio de cerveza en
-
-envase cerrado: 50
+II.- Expendio de cerveza en envase cerrado: 50
 
 III.- Supermercado: 200
 
 IV.- Minisuper: 150
 
-V.- Expendio de vinos
-
-y licores al por mayor: 200
+V.- Expendio de vinos y licores al por mayor: 200
 
 ###### ARTÍCULO 112.
 
 Tratándose de apertura, por la expedición de licencias para el funcionamiento de giros dedicados al expendio de bebidas alcohólicas y/o cerveza para su consumo en el mismo lugar, se cobrará una cuota de acuerdo a lo siguiente:
 
-Tipo de establecimiento Veces de Salario Mínimo
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-I.- Restaurante de primera “A” 325
+Tipo de establecimiento Veces la unidad de medida y actualización
 
-II.- Restaurante de primera “B” 250
+I.- Restaurante de primera "A" 325
 
-III.- Restaurante de primera “C” 200
+II.- Restaurante de primera "B" 250
 
-IV.- Restaurante de segunda “A” 175
+III.- Restaurante de primera "C" 200
 
-V.- Restaurante de segunda “B” 150
+IV.- Restaurante de segunda "A" 175
 
-VI.- Restaurante de segunda “C” 125
+V.- Restaurante de segunda "B" 150
+
+VI.- Restaurante de segunda "C" 125
 
 VII.- Cantina y bar: 125
 
@@ -3119,35 +3097,31 @@ Para los efectos de este artículo, se entenderá la clasificación de estableci
 
 Por la revalidación de licencias para el funcionamiento de los establecimientos que se relacionan en los artículos 111 y 112 de esta Ley se pagará un derecho conforme a la siguiente tarifa:
 
-Tipo de establecimiento Veces de Salario Mínimo
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-I.- Expendio de vinos, licores y
+Tipo de establecimiento Veces la unidad de medida y actualización
 
-cervezas en envase cerrado: 15
+I.- Expendio de vinos, licores y cervezas en envase cerrado: 15
 
-II.- Expendio de cerveza en
-
-envase cerrado: 12.5
+II.- Expendio de cerveza en envase cerrado: 12.5
 
 III.- Supermercado: 50
 
 IV.- Minisuper: 37.5
 
-V.- Expendio de vinos y licores
+V.- Expendio de vinos y licores al por mayor: 50
 
-al por mayor: 50
+VI.- Restaurante de primera "A": 81.25
 
-VI.- Restaurante de primera “A”: 81.25
+VII.- Restaurante de primera "B": 62.5
 
-VII.- Restaurante de primera “B”: 62.5
+VIII.- Restaurante de primera "C": 50
 
-VIII.- Restaurante de primera “C”: 50
+IX.- Restaurante de segunda "A": 43.75
 
-IX.- Restaurante de segunda “A”: 43.75
+X.- Restaurante de segunda "B": 37.5
 
-X.- Restaurante de segunda “B”: 37.5
-
-XI.- Restaurante de segunda “C”: 31.25
+XI.- Restaurante de segunda "C": 31.25
 
 XII.- Cantina y bar: 31.25
 
@@ -3161,57 +3135,41 @@ Cuando por su denominación algún establecimiento no se encuentre comprendido e
 
 El derecho correspondiente a la revalidación de la licencia de funcionamiento, para los establecimientos cuyo giro sea el expendio de bebidas alcohólicas y/o cerveza se incrementará en un cien por ciento si el titular no la obtuvo durante la administración municipal inmediata anterior.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
-#### Sección Décima Cuarta. Derechos por el uso de Estacionamientos y Baños Públicos, propiedad del Municipio
+#### Sección Décima Tercera. Derechos por los Servicios de Corralón y Grúa
 
 ###### ARTÍCULO 114.
 
 Por los servicios que presta la Subdirección de Servicios Generales se pagarán los siguientes derechos:
 
-> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-CONCEPTO VECES DE SALARIO MINIMO
+CONCEPTO VECES LA UNIDAD DE MEDIDA Y
 
-I.- Por el uso de vertederos propiedad del
+ACTUALIZACIÓN
 
-Municipio de Mérida:
+I.- Por el uso de vertederos propiedad del Municipio de Mérida:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+a) Por la recepción de lodos y aguas residuales en el sitio de tratamiento de aguas residuales por cada metro cúbico: 0.50
 
-a) Por la recepción de lodos y aguas residuales
+II.- Por la recepción de cada perro o gato para su cuidado en el Centro Municipal de Control Animal (C.E.M.C.A.):
 
-en el sitio de tratamiento de aguas residuales
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-por cada metro cúbico:
+a) En las Instalaciones del C.E.M.C.A. 1.00
 
-0.25
-
-II.- Por la recepción de cada perro o gato
-
-para su cuidado en el Centro Municipal
-
-de Control Animal (C.E.M.C.A.):
-
-a) En las Instalaciones del
-
-C.E.M.C.A. 0.85
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 b) En el Domicilio del solicitante 1.70
 
-III.- Por estancia de animales y/o
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-recuperación de los mismos, que por alguna
+III.- Por estancia de animales y/o recuperación de los mismos, que por alguna razón fueron capturados o decomisados y resguardados en el C.E.M.C.A., por día 3.00
 
-razón fueron capturados o decomisados y
-
-resguardados en el C.E.M.C.A., por día 0.85
-
-#### Sección Décima Quinta. Derechos por Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura
+#### Sección Décima Cuarta. Derechos por el uso de Estacionamientos y Baños Públicos, propiedad del Municipio
 
 ###### ARTÍCULO 115.
 
@@ -3229,35 +3187,49 @@ Este derecho se pagará conforme a lo siguiente:
 
 I.- Por servicios de vigilancia:
 
-a) En fiestas de carácter social, exposiciones, asambleas y demás eventos análogos, en general, una cuota equivalente a cuatro veces el salario mínimo vigente en el Estado de Yucatán por comisionado por cada jornada de ocho horas.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) En las centrales y terminales de autobuses, centros deportivos, empresas, instituciones y con particulares una cuota equivalente a cinco veces el salario mínimo vigente en el Estado de Yucatán por comisionado, por cada jornada de ocho horas.
+a) En fiestas de carácter social, exposiciones, asambleas y demás eventos análogos, en general, una cuota equivalente a cuatro veces la unidad de medida y actualización por comisionado por cada jornada de ocho horas.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+b) En las centrales y terminales de autobuses, centros deportivos, empresas, instituciones y con particulares una cuota equivalente a cinco veces la unidad de medida y actualización por comisionado, por cada jornada de ocho horas.
 
 II.- Por permisos relacionados con la Vialidad de vehículos de carga:
 
-a) Por cada maniobra de carga y descarga en la vía pública, de vehículos con capacidad de carga mayor de 10,000 kilos, se pagará una cuota equivalente a dos salarios mínimos.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Por transitar en el primer cuadro de la ciudad, en ruta y horario determinado, fuera del horario autorizado por la norma respectiva, con vehículos de capacidad de carga mayor de 3,500 kilos, se pagará una cuota equivalente a un salario mínimo.
+a) Por cada maniobra de carga y descarga en la vía pública, de vehículos con capacidad de carga mayor de 10,000 kilos, se pagará una cuota equivalente a dos veces la unidad de medida y actualización.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+b) Por transitar en el primer cuadro de la ciudad, en ruta y horario determinado, fuera del horario autorizado por la norma respectiva, con vehículos de capacidad de carga mayor de 3,500 kilos, se pagará una cuota equivalente a una unidad de medida y actualización.
 
 III.- Por permisos para actividades que requieran la ocupación de la vía pública:
 
-a) Por trabajo de extracción de aguas negras o desazolve de pozos, se pagará una cuota equivalente a cuatro salarios mínimos.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Por cierre total de calle, por cada día o fracción de éste, se pagará una cuota equivalente a ocho salarios mínimos.
+a) Por trabajo de extracción de aguas negras o desazolve de pozos, se pagará una cuota equivalente a cuatro veces la unidad de medida y actualización.
 
-c) Por cierre parcial de calle por cada día o fracción de éste, se pagará una cuota equivalente a cuatro salarios mínimos.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+b) Por cierre total de calle, por cada día o fracción de éste, se pagará una cuota equivalente a ocho veces la unidad de medida y actualización.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+c) Por cierre parcial de calle por cada día o fracción de éste, se pagará una cuota equivalente a cuatro veces la unidad de medida y actualización.
 
 Cuando se causen y paguen los derechos establecidos en los incisos b) ó c) de la fracción III de este artículo, no se causarán los derechos establecidos en la fracción II del mismo.
 
 A solicitud expresa del Director de Policía Municipal, en consideración a la actividad o trabajo a realizar por los cuales se causen los derechos previstos en este artículo, el Director de Finanzas y Tesorero Municipal podrá disminuir las cuotas establecidas en este mismo artículo.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 118.
 
-El pago de los derechos se hará por anticipado en el momento de la solicitud del servicio, ante las oficinas de la Tesorería Municipal o lugar autorizado para ello. En el caso de que la autoridad determine de oficio la prestación del servicio, y el pago de éste no pudiera ser realizado con anterioridad, el sujeto obligado deberá realizar el pago dentro del plazo que establezca dicha autoridad.
+El pago de los derechos se hará por anticipado en el momento de la solicitud del servicio, ante las oficinas de la Dirección de Finanzas y Tesorería Municipal o lugar autorizado para ello. En el caso de que la autoridad determine de oficio la prestación del servicio, y el pago de éste no pudiera ser realizado con anterioridad, el sujeto obligado deberá realizar el pago dentro del plazo que establezca dicha autoridad.
 
-#### Sección Décima Sexta
-
-Derechos por Permisos otorgados a Oferentes en Programas para la Promoción Económica Turística y Cultural.
+#### Sección Décima Quinta. Derechos por Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura
 
 ###### ARTÍCULO 119.
 
@@ -3275,55 +3247,73 @@ I.- Por la estadía en el corralón se pagará un derecho diario por cada vehíc
 
 1.- Automóviles, camiones y camionetas
 
-Por los primeros 10 días: 0.93 salarios por día
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Por los siguientes días: 0.21 salarios por día
+Por los primeros 10 días: 0.93 U.M.A.
 
-2.- Tráilers y equipo pesado 1.54 salarios por día
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Por los siguientes días: 0.21 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+2.- Tráilers y equipo pesado 1.54 U.M.A.
 
 3.- Motocicletas y triciclos
 
-Por los primeros 10 días: 0.24 salarios por día
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Por los siguientes días: 0.048 salarios por día
+Por los primeros 10 días: 0.24 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Por los siguientes días: 0.048 U.M.A.
 
 4.- Bicicletas
 
-Por los primeros 10 días: 0.095 salarios por día
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Por los siguientes días: 0.072 salarios por día
+Por los primeros 10 días: 0.095 U.M.A.
 
-5.- Carruajes, carretas y
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-carretones de mano 0.072 salarios por día
+Por los siguientes días: 0.072 U.M.A.
 
-6.- Remolques y otros vehículos
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-no especificados en las
+5.- Carruajes, carretas y carretones de mano 0.072 U.M.A.
 
-fracciones anteriores 0.12 salarios por día
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+6.- Remolques y otros vehículos no especificados en las fracciones anteriores
+
+0.12 U.M.A.
 
 II.- Por el servicio de grúa se pagará por cada vehículo:
 
-1.- Automóviles, motocicletas
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-y camionetas 5.94 salarios
+1.- Automóviles, motocicletas y camionetas 5.94 U.M.A.
 
-2.- Camiones, autobuses,
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-microbuses y minibuses 11.88 salarios
+2.- Camiones, autobuses, microbuses y minibuses 11.88 U.M.A.
 
-III.- Salvamento, rescate y
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-traslado de vehículos
+III.- Salvamento, rescate y traslado de vehículos accidentados:
 
-accidentados: 18.76 salarios
+18.76 U.M.A.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 122.
 
-El pago de los derechos a que se refiere esta Sección se hará una vez proporcionado el servicio, de acuerdo a las cuotas establecidas en la ley y en los lugares autorizados por la Tesorería Municipal.
+El pago de los derechos a que se refiere esta Sección se hará una vez proporcionado el servicio, de acuerdo a las cuotas establecidas en la ley y en los lugares autorizados por la Dirección de Finanzas y Tesorería Municipal.
 
-#### Sección Décima Séptima. De los Derechos por el Servicio de Agua Potable y Drenaje
+#### Sección Décima Sexta
+
+Derechos por Permisos otorgados a Oferentes en Programas para la Promoción Económica Turística y Cultural.
 
 ###### ARTÍCULO 123.
 
@@ -3331,23 +3321,21 @@ Los derechos por el uso de estacionamientos en los mercados a que se refiere est
 
 I.- Por motocicletas $ 5.00 por hora
 
-II.- Por automóviles o
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-camionetas $ 8.00 por hora
+II.- Por automóviles o camionetas $ 10.00 por hora
 
-III.- Por otros vehículos de
-
-mayor capacidad de carga. $15.00 por hora
+III.- Por otros vehículos de mayor capacidad de carga. $15.00 por hora
 
 Por la primera hora de uso de estacionamiento o fracción de esta se cobrarán las cuotas establecidas en el párrafo anterior. Posterior a la primera hora, se cobrará el equivalente al 50% de la cuota establecida, según sea el caso, por fracciones de tiempo de hasta media hora.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 124.
 
-Los derechos por el uso de baños públicos no concesionados en los mercados públicos propiedad del Municipio, se pagarán con la tarifa única de $3.00 pesos, y por el uso de regaderas se pagará una tarifa única de $7.00.
+Los derechos por el uso de baños públicos no concesionados en los mercados públicos propiedad del Municipio, se pagarán con la tarifa única de $4.00 pesos, y por el uso de regaderas se pagará una tarifa única de $7.00 pesos.
 
-#### Sección Décima Octava. Derechos por los Servicios de la Central de Abasto
-
-De los sujetos
+#### Sección Décima Séptima. De los Derechos por el Servicio de Agua Potable y Drenaje
 
 ###### ARTÍCULO 125.
 
@@ -3359,37 +3347,37 @@ Los ingresos que obtenga el organismo municipal descentralizado del Ayuntamiento
 
 Los derechos a que se refiere el artículo anterior se pagarán conforme a la siguiente:
 
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
 TARIFA:
 
 Tipo Sub-tipo Tarifa Mensual en pesos
 
-Zona residencial Alta 58.30
+Zona residencial Alta 75.80
 
-Zona residencial Media 50.60
+Zona residencial Media 65.80
 
-Zona media Alta 36.30
+Zona media Alta 47.20
 
-Zona media Media 30.80
+Zona media Media 40.00
 
-Zona media Baja 25.30
+Zona media Baja 32.90
 
-Zona popular Alta 22.00
+Zona popular Alta 28.60
 
-Zona popular Media 18.70
+Zona popular Media 24.30
 
-Zona popular Baja 15.40
+Zona popular Baja 20.00
 
-Fraccionamiento
+Fraccionamiento popular Alta 28.60
 
-popular Alta 22.00
-
-Fraccionamiento
-
-popular Media 18.70
+Fraccionamiento popular Media 24.30
 
 Zona Marginada 0.00
 
-Para el caso de residuos sólidos no peligrosos o basura de origen comercial, la tarifa es de 16.45 pesos por tambor.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Para el caso de residuos sólidos no peligrosos o basura de origen comercial, la tarifa es de 18.60 pesos por tambor.
 
 ###### ARTÍCULO 127.
 
@@ -3403,7 +3391,9 @@ b) Los usuarios de los servicios de recolección y traslado de residuos sólidos
 
 Para los efectos del inciso b) de este artículo, se considerará como tarifa de consumo ordinario el importe total que resulte de aplicar la tarifa señalada en el último párrafo del artículo 126 por el número de tambores de residuos sólidos de origen comercial generados por el usuario en el mes inmediato anterior a aquél en que se realice el pago señalado en ese inciso. Si durante cualquiera de los meses de servicio de recolección que se haya pagado por anticipado el usuario del servicio de recolección excediera en un 20 por ciento el número de tambores considerados para la determinación de la tarifa de consumo ordinario, éste deberá pagar la cuota correspondiente al número de tambores que excedieron al número de tambores considerados para la determinación de la tarifa de consumo ordinario.
 
-#### Sección Décima Novena. De los Derechos por los Servicios de Limpia de Bienes Inmuebles en Desuso
+#### Sección Décima Octava. Derechos por los Servicios de la Central de Abasto
+
+De los sujetos
 
 ###### ARTÍCULO 128.
 
@@ -3413,21 +3403,27 @@ Son sujetos obligados al pago de los derechos establecidos en la presente secci�
 
 Por los permisos que expida el Ayuntamiento para ser oferente en los programas o eventos para la promoción económica y turística, de conformidad con el artículo que antecede, se causarán derechos:
 
-a) En el caso de programas de carácter permanente, se causará un derecho mensual, con base a los metros cuadrados del puesto semifijo y del espacio de venta que le sea asignado, equivalente a 1.2 de salario mínimo por metro cuadrado. El pago de este derecho se efectuará en forma previa al mes al cual corresponda el permiso.
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) En el caso de programas o eventos de carácter eventual, por participar en estos se causará un derecho equivalente a 0.50 de salario mínimo por metro cuadrado por día.
+a) En el caso de programas de carácter permanente, se causará un derecho mensual, con base a los metros cuadrados del puesto semifijo y del espacio de venta que le sea asignado, equivalente a 1.2 veces la unidad de medida y actualización por metro cuadrado. El pago de este derecho se efectuará en forma previa al mes al cual corresponda el permiso.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+b) En el caso de programas o eventos de carácter eventual, por participar en estos se causará un derecho equivalente a 0.50 veces la unidad de medida y actualización por metro cuadrado por día.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 130.
 
-Por la emisión de la credencial de oferente en programas o eventos para la promoción económica y turística, se pagará un derecho equivalente a 2 salarios mínimos.
+Por la emisión de la credencial de oferente en programas o eventos para la promoción económica y turística, se pagará un derecho equivalente a 2 veces la unidad de medida y actualización.
+
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 131.
 
-El Director de Finanzas y Tesorero Municipal, a solicitud expresa del Director de Desarrollo Económico, podrá reducir las cuotas establecidas en esta sección, tomando en consideración la finalidad de la realización del evento o programa.
+El Director de Finanzas y Tesorero Municipal, a solicitud expresa del Director de Turismo y Promoción Económica, podrá reducir las cuotas establecidas en esta sección, tomando en consideración la finalidad de la realización del evento o programa.
 
-#### Sección Única. Contribuciones por Mejoras
-
-De los sujetos
+#### Sección Décima Novena. De los Derechos por los Servicios de Limpia de Bienes Inmuebles en Desuso
 
 ###### ARTÍCULO 132.
 
@@ -3525,9 +3521,27 @@ Los derechos a que se refiere la presente sección deberán cubrirse dentro del 
 
 Cuando el Municipio de Mérida realice la reconexión de los servicios de agua potable, con motivo de la reducción o suspensión del servicio de agua potable a que se hizo acreedor el usuario que adeudó las cuotas establecidas en el artículo 135, el usuario deberá pagar una cuota de 110 pesos por concepto de reconexión.
 
-#### Sección Única. Generalidades
+#### Sección Vigésima. De los Derechos por la Prestación de Servicios en Materia de Protección Civil
 
-De la clasificación
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 144 A.- Son sujetos de los derechos establecidos en esta sección las personas físicas o morales que soliciten, cualquierade (sic) los servicios a que se refiere esta sección.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 144 B.- El objeto de los derechos establecidos en esta sección son los servicios prestados por el Departamento de Protección Civil por concepto de:
+
+I.- Constancia de Conformidad respecto de seguridad y ubicación para el consumo de Pirotecnia y Explosivos, y
+
+II.- Resultado de visita de verificación voluntaria.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 144 C.- Los derechos por los servicios a que se refiere la presente sección se pagarán conforme a lo siguiente:
+
+I.- Por la Constancia de Conformidad respecto de seguridad y ubicación para el consumo de pirotecnia y explosivos: 10 U.M.A.
+
+II.- Por el resultado de visita de verificación voluntaria: 5 U.M.A.
 
 ###### ARTÍCULO 138.
 
@@ -3542,8 +3556,6 @@ Es objeto de este derecho, la prestación de los servicios de administración de
 Por el servicio de administración de central de abasto se entenderá, la asignación de lugares o espacios para la instalación de lugares fijos o semifijos y el control de los mismos, así como los servicios de aseo, mantenimiento, vigilancia, de entrada de vehículos, y otros relacionados con la operación y funcionamiento de las áreas e instalaciones de uso común.
 
 Los ingresos que se obtengan por los servicios señalados en esta Sección, serán administrados por el organismo municipal descentralizado del Ayuntamiento de Mérida denominado "Central de Abasto de Mérida", en los términos del Decreto Número 526 publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 5 de Enero de 1982.
-
-De la base y cuotas
 
 ###### ARTÍCULO 140.
 
@@ -3565,6 +3577,10 @@ III.- Por cada 4 metros de frente de bodega, por concepto de mantenimiento y lim
 
 Cuando derivado de la aplicación de esta fracción III resulte un importe mayor a 1,100 pesos por mes, el derecho se considerará causado hasta por 1,100 pesos del pago.
 
+> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IV.- Por el uso del centro de almacenaje temporal de residuos de manejo especial ante la recepción de cada tambor que deposite sus desechos en este: 18.60 pesos
+
 Del pago
 
 ###### ARTÍCULO 141.
@@ -3575,9 +3591,9 @@ En el caso a que se refiere la fracción II del artículo 140, las cuotas deber�
 
 No se causarán actualización ni recargos sobre las cuotas a que se refiere el artículo 140
 
-#### Sección Única. Aprovechamientos
+#### Sección Única. Contribuciones por Mejoras
 
-Multas Federales No Fiscales
+De los sujetos
 
 ###### ARTÍCULO 142.
 
@@ -3589,15 +3605,23 @@ Para los efectos de esta sección se entenderá como servicios de limpia, aquell
 
 El objeto de los derechos establecidos en esta sección es el servicio de limpia realizado por el Ayuntamiento de Mérida.
 
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 144.
 
-Por los servicios a que se refiere la presente sección se causará un derecho equivalente a 0.20 salarios mínimos por cada metro cuadrado de la superficie del bien inmueble en el cual se efectúe el servicio de limpia. El pago de este derecho se realizará previamente a la prestación del servicio.
+Por los servicios a que se refiere la presente sección se causará un derecho equivalente a 0.20 veces la unidad de medida y actualización por cada metro cuadrado de la superficie del bien inmueble en el cual se efectúe el servicio de limpia. El pago de este derecho se realizará previamente a la prestación del servicio.
 
-#### Sección Primera. De los Gastos de Ejecución
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+#### Sección Única. Generalidades
+
+De la clasificación
 
 ### CAPÍTULO III. CONTRIBUCIONES ESPECIALES
 
-#### Sección Segunda. De los Gastos Extraordinarios de Ejecución
+#### Sección Única. Aprovechamientos
+
+Multas Federales No Fiscales
 
 ###### ARTÍCULO 145.
 
@@ -3727,7 +3751,7 @@ Para tal efecto, la Dirección o dependencia, a que se refiere el párrafo anter
 
 ### CAPÍTULO IV. DE LOS PRODUCTOS
 
-#### Sección Primera. Generalidades
+#### Sección Primera. De los Gastos de Ejecución
 
 ###### ARTÍCULO 157.
 
@@ -3773,13 +3797,13 @@ De la venta de formas oficiales
 
 Los productos que percibirá el Ayuntamiento, por la venta de formas o formatos oficiales, por cada uno se pagará:
 
-I.- Formato de tarjetón de licencia
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-de funcionamiento: 2.0 salarios.
+I.- Formato de tarjetón de licencia de funcionamiento: 2.0 U.M.A.
 
-II.- Formato o forma oficial impresa
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-distinta a la señalada en la fracción I: 0.40 salarios.
+II.- Formato o forma oficial impresa distinta a la señalada en la fracción I: 0.40 U.M.A.
 
 De los daños
 
@@ -3789,7 +3813,7 @@ Los productos que percibirá el Municipio por los daños que sufrieren las vías
 
 ### CAPÍTULO V. APROVECHAMIENTOS
 
-#### Sección Segunda. De los responsables
+#### Sección Segunda. De los Gastos Extraordinarios de Ejecución
 
 ###### ARTÍCULO 163.
 
@@ -3817,11 +3841,11 @@ VII.- Aprovechamientos Diversos.
 
 De los honorarios por notificación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 165.
 
-Cuando las autoridades fiscales ordenen la realización de notificaciones personales y se lleven a cabo de conformidad con lo establecido en el Código Fiscal del Estado de Yucatán o el Código Fiscal de la Federación para requerir el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán y cobrarán a cargo de quien incurrió en el incumplimiento el equivalente a 1.5 veces el salario mínimo vigente en la fecha de la diligencia, por concepto de honorarios por notificación.
+Cuando las autoridades fiscales ordenen la realización de notificaciones personales y se lleven a cabo de conformidad con lo establecido en el Código Fiscal del Estado de Yucatán o el Código Fiscal de la Federación para requerir el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán y cobrarán a cargo de quien incurrió en el incumplimiento el equivalente a 1.5 veces la unidad de medida y actualización en la fecha de la diligencia, por concepto de honorarios por notificación.
 
 No obstante lo anterior, el importe de los honorarios por notificación no excederá del que resulte de la determinación del crédito fiscal derivado de la obligación omitida requerida.
 
@@ -3847,7 +3871,7 @@ Las autoridades fiscales municipales exigirán el pago de las contribuciones, lo
 
 En todo caso las autoridades fiscales municipales deberán señalar en los mandamientos escritos correspondientes el texto legal en el que se fundamenten.
 
-#### Sección Tercera. De las infracciones y sanciones
+#### Sección Primera. Generalidades
 
 ###### ARTÍCULO 168.
 
@@ -3859,9 +3883,11 @@ II.- Por la de embargo, incluyendo el señalado en el inciso e) del artículo 9 
 
 III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco municipal.
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Cuando el .02 del importe del crédito omitido, fuere inferior al importe de tres salarios mínimos, se cobrará esta cantidad en lugar del mencionado .02 del crédito omitido. Tratándose de multas Administrativas Federales no Fiscales se aplicará lo que dispone el Código Fiscal de la Federación.
+Cuando el .02 del importe del crédito omitido, fuere inferior al importe de tres veces la unidad de medida y actualización, se cobrará esta cantidad en lugar del mencionado .02 del crédito omitido. Tratándose de multas Administrativas Federales no Fiscales se aplicará lo que dispone el Código Fiscal de la Federación.
+
+#### Sección Segunda. De los responsables
 
 ###### ARTÍCULO 169.
 
@@ -3909,6 +3935,8 @@ Los ingresos mencionados en los artículos 168 y 169 serán recaudados por la Di
 
 ### CAPÍTULO II. DE LAS INFRACCIONES Y MULTAS
 
+#### Sección Tercera. De las infracciones y sanciones
+
 ###### ARTÍCULO 173.
 
 La aplicación de las multas por infracciones a las disposiciones municipales y a la presente Ley se efectuará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, así como de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
@@ -3955,8 +3983,6 @@ i).- Resistirse por cualquier medio a las visitas de inspección, a las interven
 
 j).- Proporcionar o manifestar datos falsos a la autoridad fiscal, de conformidad con lo establecido en esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 k) Omitir contribuciones retenidas.
@@ -3965,19 +3991,25 @@ k) Omitir contribuciones retenidas.
 
 A quien cometa las infracciones a que se refiere el artículo 176, se hará acreedor de las siguientes sanciones:
 
-I.- Multa de 10 a 15 salarios mínimos, a las comprendidas en los incisos a), c), d), e) y h).
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-II.- Multa de 25 a 30 salarios mínimos, a la establecida en el inciso f).
+I.- Multa de 10 a 15 veces la unidad de medida y actualización, a las comprendidas en los incisos a), c), d), e) y h).
 
-III.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso b).
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-IV.- Multa de 150 a 170 salarios mínimos, a la establecida en el inciso g).
+II.- Multa de 25 a 30 veces la unidad de medida y actualización, a la establecida en el inciso f).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+III.- Multa de 50 a 60 veces la unidad de medida y actualización, a la establecida en el inciso b).
 
-V.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso i), j) y k).
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IV.- Multa de 150 a 170 veces la unidad de medida y actualización, a la establecida en el inciso g).
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2016)</small>
+
+V.- Multa de 50 a 60 veces la unidad de medida y actualización, a la establecida en el inciso i), j) y k).
 
 Para el caso de las infracciones previstas en los incisos c), d) y h) del artículo 176 de esta Ley, sin perjuicio de la sanción que corresponda, el Director de Finanzas y Tesorero Municipal, o el Subdirector de Ingresos, quedarán facultados para ordenar la clausura temporal del comercio, negocio o establecimiento que corresponda, por el tiempo que subsista la infracción
 
@@ -4157,7 +4189,7 @@ C. MIGUEL ANTONIO FERNÁNDEZ VARGAS
 
 SECRETARIO DE LA CONTRALORÍA GENERAL
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 D.O. 23 DE DICIEMBRE DE 2013.
 
@@ -4423,7 +4455,7 @@ Los derechos establecidos en la Sección Décima Segunda del Capítulo II del T�
 
 ###### ARTÍCULO TERCERO.
 
-En caso de que durante el ejercicio fiscal 2016 fueran modificadas mediante sesión de cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta del Capítulo II del Título Segundo se verán incrementadas, o en su caso decrementadas (sic), en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+En caso de que durante el ejercicio fiscal 2016 fueran modificadas mediante sesión de cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta del Capítulo II del Título Segundo se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
 
 ###### ARTÍCULO CUARTO.
 
@@ -4542,3 +4574,323 @@ b) Los predios que fueron objeto de traslación de dominio a partir del ejercici
 Si como resultado de las reformas constitucionales en materia de salario mínimo, se crea la Unidad de Medida y Actualización (UMA), a efecto de desvincular el salario mínimo como unidad, base, medida o referencia económica para fines ajenos a su naturaleza; se establece que para el ejercicio fiscal 2016, en donde se haga referencia en la presente Ley, al mencionado salario mínimo, éste se sustituirá por la Unidad de Medida y Actualización (UMA) que se publique para tal efecto.
 
 Cuando la aplicación de la Unidad de Medida y Actualización resultare una cantidad inferior a 72.20 pesos, se tomará como base esta cantidad en vez de la UMA.
+
+D.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 440/2016 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA".]
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día uno de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los derechos establecidos en la Sección Décima Segunda del Capítulo II del Título Segundo de esta Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+###### ARTÍCULO TERCERO.
+
+En caso de que durante el ejercicio fiscal 2017 fueran modificadas mediante sesión de cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta del Capítulo II del Título Segundo se verán incrementadas, o en su caso decrementadas, en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2017, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 48 las bonificaciones se otorgarán de conformidad con la siguiente tabla:
+
+Mes en el que se paga el Factor de bonificación
+
+equivalente a una anualidad
+
+Enero 0.20
+
+Febrero 0.10
+
+Marzo 0.08
+
+Para estos efectos, los contribuyentes que paguen el importe correspondiente a una anualidad en el mes de marzo no pagarán actualización y recargos sobre el impuesto correspondiente a los meses de enero y febrero del año 2017.
+
+###### ARTÍCULO QUINTO.
+
+Se otorga un estímulo fiscal en materia de impuesto predial, consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial que se cause hasta el mes de diciembre de 2017, siempre y cuando los trabajos fueren iniciados y concluidos durante el año 2017, de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles catalogados o declarados por el Instituto Nacional de Antropología e Historia como monumentos históricos o artísticos.
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los catalogados o declarados como monumentos históricos o artísticos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por acreditamiento, el restar del impuesto predial que corresponda hasta el mes de diciembre de 2017, el importe de la inversión que se determine en la constancia de aplicación del estímulo.
+
+Asimismo, para efectos de este artículo, los tipos de trabajos que se podrán realizar serán los siguientes:
+
+I.- Rescate: Aquellos trabajos que se realizan para la recuperación de elementos que hubieren sido mutilados o alterados;
+
+II.- Consolidación: Aquellos trabajos que se realizan para devolver la estabilidad a partir de lo existente;
+
+III.- Restauración: Aquellos trabajos que se realizan para reincorporar algún elemento original, o con características similares a la original;
+
+IV.- Integración al contexto: Aquellos trabajos que permiten incorporar al predio en cuestión con las características de su entorno; y
+
+V.- Rehabilitación integral: Conjunto de trabajos, en interior y exterior, respetuosos de las características originales de inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente solicitará por escrito a la Dirección de Desarrollo Urbano, un dictamen en el cual se determine el importe de la inversión de los trabajos, que podrá considerarse en la aplicación del estímulo.
+
+Dicha solicitud deberá contener cuando menos la información que indique el importe de la inversión, fecha de inicio y conclusión, así como el tipo de trabajo que se realizará.
+
+La Dirección de Desarrollo Urbano previa revisión de la solicitud señalada en el párrafo anterior desechará o aprobará la solicitud, en este último caso emitirá el dictamen en el cual se establecerán los requisitos que el contribuyente deberá cumplir para obtener la constancia de aplicación del estímulo.
+
+Una vez concluidos todos los trabajos de conformidad con los requisitos y plazos establecidos en el dictamen el contribuyente dará aviso por escrito, dentro de los quince días hábiles siguientes, a la Dirección de Desarrollo Urbano, la que en caso de que sea procedente, emitirá la constancia de aplicación del estímulo en la cual se indicará el importe de la inversión que podrá acreditarse contra el impuesto predial, tomando en cuenta el monto de la inversión y el porcentaje de aplicación del estímulo, de acuerdo con el tipo de trabajo realizado.
+
+Después de obtener la constancia señalada en el párrafo anterior, si el impuesto lo causa sobre la base del valor catastral, el contribuyente deberá solicitar por escrito a la Dirección de Finanzas y Tesorería Municipal la aplicación del estímulo señalado en este artículo, anexando a su solicitud la constancia señalada en el párrafo anterior.
+
+Para la aplicación de dicho estímulo la Dirección de Finanzas y Tesorería Municipal dictará un acuerdo de conformidad con lo siguiente:
+
+1. Determinará el importe del impuesto que se cause hasta por el mes de diciembre de 2017.
+
+2. Procederá a realizar el acreditamiento de conformidad con lo establecido en este artículo.
+
+3. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es menor que el importe de la inversión señalada en la constancia de aplicación del estímulo, se considerará pagado en su totalidad el impuesto correspondiente al período determinado en el punto 1.
+
+4. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es mayor que el importe de la inversión determinada en la constancia de aplicación del estímulo, la diferencia deberá ser pagada al momento de aplicar el estímulo.
+
+En caso de que el impuesto predial se cause sobre la base de la contraprestación, el contribuyente deberá determinar el impuesto que se cause hasta el mes de diciembre de 2017, y realizar, en una sola declaración, el acreditamiento que señala este artículo. En este caso, le será aplicable lo dispuesto en los puntos 3 y 4 del párrafo anterior.
+
+En caso de que en los períodos comprendidos hasta el mes de diciembre de 2017 le corresponda al contribuyente tributar, por algún, o algunos meses, sobre la base del valor catastral y por otro, u otros sobre la base de la contraprestación, para la aplicación del estímulo, deberá cumplir con lo que para cada una de esas bases dispone este artículo.
+
+La suma de los acreditamientos aplicados no podrá ser mayor al importe de la inversión que se determinó en la constancia de aplicación del estímulo.
+
+El acreditamiento del importe de la inversión deberá realizarse contra el principal así como por los accesorios del mismo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SEXTO.
+
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2017, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+
+Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
+
+1.- El certificado o dictamen expedido por el Instituto Nacional de Antropología e Historia en el que se señale que el inmueble está declarado o catalogado como monumento histórico o artístico.
+
+2.- Se encuentre pagado en su totalidad el impuesto predial, causado hasta por el mes de diciembre de 2016.
+
+Para efectos de que el contribuyente acredite que el inmueble objeto del estímulo fiscal es su casa habitación, deberá exhibir cualquiera de los documentos comprobatorios que se relacionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el domicilio del inmueble objeto del estímulo:
+
+1. La credencial de elector, expedida por el Instituto Nacional Electoral (INE).
+
+2. Los comprobantes de los pagos efectuados por la prestación de energía eléctrica o de telefonía fija.
+
+La documentación a que se refieren las fracciones anteriores, deberá estar a nombre del propietario del inmueble objeto del estímulo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SÉPTIMO.
+
+Si durante el ejercicio fiscal 2017 el contribuyente hubiese pagado el importe correspondiente a esa anualidad del impuesto predial sobre la base del valor catastral, este pago se considerará como definitivo respecto de esta base; en consecuencia no le será aplicable lo dispuesto en los párrafos segundo y tercero del artículo 45 de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones legales que eximan a los particulares del pago de las contribuciones previstas en esta Ley con excepción de las que dispone la misma que otorguen beneficios fiscales.
+
+###### ARTÍCULO NOVENO.
+
+Las constancias que haya expedido la Dirección de Finanzas y Tesorería Municipal, para el registro de peritos valuadores, seguirán vigentes respecto de los avalúos que se emitan para efectos del Impuesto Sobre Adquisición de Inmuebles.
+
+###### ARTÍCULO DÉCIMO.
+
+En el ejercicio fiscal 2017 el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 4% del que le haya correspondido durante el ejercicio fiscal 2016 para los predios cuyo valor catastral sea menor o igual a $500,000.00 y para los predios cuyo valor catastral sea superior a $500,000.00 el impuesto predial no podrá exceder de un 10% del que le haya correspondido durante el ejercicio fiscal 2016. Este comparativo se efectuará solamente sobre el impuesto principal, sin tomar en consideración, bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+Se exceptúan de lo dispuesto en el párrafo inmediato anterior:
+
+a) Los predios, que como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en más de un 50% el valor catastral que tenían antes de dichas modificaciones, de conformidad con las disposiciones legales aplicables.
+
+b) Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Los artículos 76 y 89 de esta ley, relativos a la Zona 1. Consolidación Urbana, Zona 2. Crecimiento Urbano, Zona 3. Regeneración y Desarrollo Sustentable y Zona 4. Conservación de los Recursos Naturales, entrarán en vigor para el ejercicio fiscal 2017, al día siguiente de la aprobación del Programa Municipal de Desarrollo Urbano, solamente en el caso de que queden incluidos exactamente en los mismos términos en los que se encuentran redactados, mientras esto no ocurra, se aplicarán los derechos como sigue:
+
+De la Base y de las Cuotas.
+
+###### ARTÍCULO 76.
+
+Los derechos por los servicios indicados en el artículo 75 se pagarán conforme lo siguiente:
+
+Concepto Veces la unidad de medida y actualización
+
+I.- Licencias de Uso del Suelo
+
+1. Para Desarrollo Inmobiliario
+
+a) Con superficie de hasta 10,000.00 metros cuadrados 35 Licencia
+
+b) Con superficie de 10,000.01 hasta 50,000.00 metros cuadrados
+
+40 Licencia
+
+c) Con superficie de 50,000.01 hasta 100,000.00 metros cuadrados
+
+60 Licencia
+
+d) Con superficie de 100,000.01 hasta 150,000.00 metros cuadrados
+
+70 Licencia
+
+e) Con superficie de 150,000.01 hasta 200,000.00 metros cuadrados
+
+75 Licencia
+
+f) Con superficie mayor a 200,000.00 metros cuadrados 100 Licencia
+
+2. Para Otros Desarrollos
+
+a) Cuya superficie sea de hasta 50.00 metros cuadrados excepto lo que se señala en el inciso f) 2 Licencia
+
+b) Cuya superficie sea de 50.01 hasta 100.00 metros cuadrados excepto lo que se señala en el inciso f) 10 Licencia
+
+c) Cuya superficie sea de 100.01 hasta 500.00 metros cuadrados excepto lo que se señala en el inciso f) 25 Licencia
+
+d) Cuya superficie sea de 500.01 hasta 5,000.00 metros cuadrados excepto lo que se señala en el inciso f) 50 Licencia
+
+e) Cuya superficie sea mayor de 5,000.00 metros cuadrados excepto lo que se señala en el inciso f) 100 Licencia
+
+f) Se pagará de acuerdo al giro de que se trate
+
+1. Gasolinera o estación de servicio 714 Licencia
+
+2. Casino 2854 Licencia
+
+3. Funeraria 115 Licencia
+
+4. Expendio de cerveza, tienda de autoservicio, licorería o bar 411 Licencia
+
+5. Crematorio 286 Licencia
+
+6. Video bar, cabaret, centro nocturno o disco 685 Licencia
+
+7. Sala de fiestas cerrada 286 Licencia
+
+8. Torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente. 354 Licencia
+
+9. Restaurante de primera A, B o C 421 Licencia
+
+10. Restaurante de segunda A, B o C 286 Licencia
+
+II.- Por el Análisis de Factibilidad de Uso de Suelo
+
+a) Para establecimiento con venta de bebidas alcohólicas en envase cerrado.
+
+70 Constancia
+
+b) Para establecimiento con venta de bebidas alcohólicas para su consumo en el mismo lugar. 70 Constancia
+
+c) Para establecimiento con giro diferente a los mencionados en los incisos a), b), d), i), j), k) de esta fracción. 1 Constancia
+
+d) Para desarrollo Inmobiliario u otros desarrollos. 5 Constancia
+
+e) Para casa habitación unifamiliar. 2.5 Constancia
+
+f) Para la instalación de infraestructura en bienes inmuebles propiedad del Municipio o en las vías públicas, excepto la que se señala en el inciso h).
+
+0.10 Por aparato,
+
+caseta o unidad
+
+g) Se Deroga
+
+h) Para la instalación de torre de comunicación de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente. 25 Por torre
+
+i) Para la instalación de gasolinera o estación de servicio. 70 Constancia
+
+j) Para giros de utilidad temporal. 25 Constancia
+
+k) Para el establecimiento de bancos de explotación de materiales.
+
+30 Constancia
+
+Para los efectos de los incisos anteriores de las fracciones I y II se entiende por Desarrollo Inmobiliario al bien inmueble que por sus características físicas o el régimen de propiedad se constituye como Fraccionamiento, División de Lotes.
+
+Para los efectos de las fracciones anteriores se entenderá por Otros Desarrollos los siguientes conceptos: industria, locales comerciales, centros comerciales, equipamiento, bodegas e infraestructura. Dichos conceptos se definen de conformidad con lo establecido en el Programa de Desarrollo Urbano del Municipio de Mérida Vigente.
+
+IV.- Trabajos de Construcción
+
+a) Licencia para Construcción
+
+1) Con superficie cubierta hasta 40 m2 0.12 Metro Cuadrado
+
+2) Con superficie cubierta mayor de 40 m2 y hasta 120 m2
+
+0.13 Metro Cuadrado
+
+3) Con superficie cubierta mayor de 120 m2 y hasta 240 m2
+
+0.15 Metro Cuadrado
+
+4) Con superficie cubierta mayor de 240 m2 0.18 Metro Cuadrado
+
+b) Licencia para demolición y/o desmantelamiento de bardas
+
+0.03 Metro Lineal
+
+c) Licencia para excavación de zanjas en vialidades 1.25 Metro Lineal
+
+d) Licencia para construir bardas 0.06 Metro Lineal
+
+e) Licencia para excavaciones 0.10 Metro Cúbico
+
+f) Licencia para demolición y/o desmantelamiento distinta a la señalada en el inciso b) de esta fracción 0.09 Metro Cuadrado
+
+g) Licencia para la construcción para la instalación de una torre de comunicación, de una estructura monopolar para colocación de antena celular, de una base de concreto o adición de cualquier equipo de telecomunicación sobre una torre de alta tensión o sobre infraestructura existente. Por colocación por unidad 1,100 Licencia
+
+Por la renovación de la licencia de construcción a que se refiere la fracción IV de este artículo, se pagará una cuota equivalente al 50 por ciento de los derechos establecidos en dicha fracción por los trabajos otorgados en la correspondiente licencia.
+
+Por la prórroga de la licencia de construcción a que se refiere la fracción IV de este artículo, se pagará una cuota equivalente al 25 por ciento de los derechos establecidos en dicha fracción por los trabajos otorgados en la correspondiente licencia. La cuota señalada en este párrafo se considerará que se otorga por una licencia de un plazo de 24 meses, sin embargo si el plazo fuese menor la cuota será en proporción al número de meses por los que fuese solicitada dicha prórroga.
+
+VI.- Licencia de Urbanización
+
+a) Licencia de Urbanización por servicios básicos 0.02 Metro Cuadrado
+
+de vialidad
+
+b) Autorización de instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo
+
+0.20 Metro Lineal
+
+de vialidad
+
+VIII.- Emisión de dictamen técnico 5 Constancia
+
+XIX.- Autorización de la Constitución de Desarrollo Inmobiliario
+
+a) Hasta 10,000.00 metros cuadrados. 70 Autorización
+
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 80 Autorización
+
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 90 Autorización
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados 100 Autorización
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados. 150 Autorización
+
+f) Mayores a 200,000.00 metros cuadrados 200 Autorización
+
+XX.- Autorización de la Modificación de la Constitución de Desarrollo Inmobiliario
+
+a) Hasta 10,000.00 metros cuadrados. 35 Autorización
+
+b) De 10,000.01 hasta 50,000.00 metros cuadrados. 40 Autorización
+
+c) De 50,000.01 hasta 100,000.00 metros cuadrados. 45 Autorización
+
+d) De 100,000.01 hasta 150,000.00 metros cuadrados 50 Autorización
+
+e) De 150,000.01 hasta 200,000.00 metros cuadrados. 75 Autorización
+
+f) Mayores a 200,000.00 metros cuadrados. 100 Autorización
+
+###### ARTÍCULO 89.
+
+Por los servicios que presta la Dirección Municipal de Catastro se causarán derechos que se calcularán multiplicando la tasa que se especifica en cada uno de ellos, por la unidad de medida y actualización a la fecha de solicitud:
+
+III.- Por la expedición de oficio de:
+
+a).- División (Por cada parte) 0.5
