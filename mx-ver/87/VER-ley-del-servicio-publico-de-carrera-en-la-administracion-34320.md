@@ -4,7 +4,7 @@ identifier: "VER-ley-del-servicio-publico-de-carrera-en-la-administracion-34320"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-10"
-last_updated: "2016-07-14"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL SERVICIO PÚBLICO DE CARRERA EN LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave, el viernes 10 de octubre de 2003.
 
@@ -85,19 +85,29 @@ XII. Tabulador: la estructura de sueldos y prestaciones económicas autorizados 
 
 Son sujetos del presente ordenamiento las personas que ocupen puestos o cargos de confianza en las dependencias de la administración pública centralizada que desempeñen funciones de: dirección, inspección, vigilancia, fiscalización, manejo de fondos o valores, auditoría, planeación, supervisión, control directo de adquisiciones, responsabilidad en autorización de ingreso, salida, alta, baja o destino de bienes y valores de almacenes e inventarios, investigación, investigación científica, formulación de juicios, lineamientos o criterios y desarrollo de procesos de evaluación, tomando como base el Catálogo y las denominaciones siguientes:
 
-I. Director General;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
-II. Director de Área;
+I. Director general;
 
-III. (DEROGADA, G.O. 14 DE JULIO DE 2016)
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
-IV. (DEROGADA, G.O. 14 DE JULIO DE 2016)
+II. Director de área;
 
-V. (DEROGADA, G.O. 14 DE JULIO DE 2016)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 14 DE JULIO DE 2016)</small>
+III. Subdirector de área;
 
-VI. Los homólogos o equivalentes de los puestos a que hacen referencia las fracciones I y II anteriores.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IV. Jefe de Departamento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+V. Jefe de Oficina; y
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VI. Los homólogos de los puestos a que hacen referencia las fracciones anteriores.
 
 ###### Artículo 5.
 
@@ -590,3 +600,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
 
 Tercero. La Secretaría de Finanzas y Planeación, y la Contraloría General, contarán con un plazo de 90 días para realizar las acciones procedentes que cumplan lo dispuesto en el presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 13 QUE REFORMA LAS FRACCIONES I, II, III, V Y VI DEL ARTÍCULO 7; REFORMA EL PRIMER PÁRRAFO Y DEROGA EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 10 DE LA LEY ESTATAL DEL SERVICIO CIVIL DE VERACRUZ; Y REFORMA LAS FRACCIONES III, IV, V Y VI DEL ARTÍCULO 4 DE LA LEY DEL SERVICIO PÚBLICO DE CARRERA EN LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, Órgano de Gobierno del Estado de Veracruz.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
