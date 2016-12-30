@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2015-10-20"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # CODIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO NÚMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NUMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE, EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -69,125 +69,137 @@ V. La integración de la cuenta pública estatal, y
 
 VI. El manejo de la deuda pública estatal.
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 2.
 
 Para los efectos de este Código se entenderá por:
 
-I. Actividad Institucional: La categoría programática que incluye atribuciones o funciones de la Administración Pública Estatal, previstas en la normatividad de las Dependencias y Entidades, que no corresponden a un Programa Presupuestario;
+I. Actividad Institucional: La categoría programática que incluye atribuciones o funciones de la administración pública estatal, previstas en la normatividad de las dependencias y entidades, que no corresponden a un programa presupuestario;
 
-II. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave;
+II. Asociaciones público-privadas: las previstas en la Ley de Asociaciones Público- Privadas para el Estado de Veracruz de Ignacio de la Llave;
 
-III. Contraloría: La Contraloría General;
+III. Balance presupuestario: la diferencia entre los ingresos totales incluidos en la Ley de Ingresos, y los gastos totales considerados en el presupuesto de egresos, con excepción de la amortización de la deuda;
 
-IV. Dependencias: Las Secretarías de Despacho, la Procuraduría General de Justicia, la Contraloría y la Coordinación General de Comunicación Social;
+IV. Balance presupuestario de recursos disponibles: la diferencia entre los ingresos de libre disposición, incluidos en la Ley de Ingresos, más el financiamiento neto y los gastos no etiquetados considerados en el Presupuesto de Egresos, con excepción de la amortización de la deuda;
 
-V. Dictamen de Suficiencia Presupuestal: El documento por medio del cual la Secretaría autoriza a las dependencias y entidades el ejercicio del gasto público asignado a sus Programas Presupuestarios y Actividades Institucionales conforme a la normatividad aplicable;
+V. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+VI. Contraloría: La Contraloría General;
 
-VI. Documento Electrónico: El documento o archivo electrónico en cualquier formato sea este alfanumérico, de video o de audio, el cual sea firmado con un certificado electrónico con validez jurídica;
+VII. Criterios Generales de Política Económica: el documento enviado por el Ejecutivo Federal al Congreso de la Unión, en los términos del artículo 42, fracción III, inciso a), de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, el cual sirve de base para la elaboración de la Ley de Ingresos y el Presupuesto de Egresos de la Federación;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+VIII. Deuda contingente: cualquier Financiamiento sin fuente o garantía de pago definida, que sea asumida de manera solidaria o subsidiaria por el Estado con sus Municipios, organismos descentralizados y empresas de participación estatal mayoritaria y fideicomisos, locales o municipales y, por los propios Municipios con sus respectivos organismos descentralizados y empresas de participación municipal mayoritaria;
 
-VII. Entidades: Los organismos descentralizados, las empresas de participación estatal, los fideicomisos públicos en los que el fideicomitente sea el Gobierno del Estado, las comisiones, comités y juntas creados por el Congreso o por decreto del propio Ejecutivo que cuenten con asignación presupuestal;
+IX. Dependencias: Las Secretarías de Despacho, la Contraloría y la Coordinación General de Comunicación Social;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+X. Deuda estatal garantizada: El financiamiento del Estado y los Municipios con garantía del Gobierno Federal, de acuerdo con lo establecido en la Ley General de Disciplina;
 
-VIII. Evaluación: El proceso que tiene como finalidad determinar el grado de eficacia, eficiencia, economía y calidad con que han sido empleados los recursos económicos destinados para alcanzar los objetivos previstos en las políticas públicas, el Plan y los programas que de él se deriven, los Programas Presupuestarios y las Actividades Institucionales, posibilitando la adopción de medidas que garanticen el cumplimiento adecuado de las metas, de conformidad con lo señalado en el Título Sexto, denominado "De Control y Evaluación del Gasto Público" del Libro Cuarto de este Código;
+XI. Deuda pública: cualquier financiamiento contratado por las entidades;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XII. Dictamen de suficiencia presupuestal: El documento por medio del cual la Secretaría autoriza a las dependencias y entidades el ejercicio del gasto público asignado a sus programas presupuestarios y actividades institucionales conforme a la normatividad aplicable;
 
-IX. Firma Electrónica: La firma electrónica avanzada que es generada con un certificado reconocido legalmente, a través de un dispositivo seguro de creación de firma y tiene, en relación a la información firmada, un valor jurídico equivalente al de la firma autógrafa, y que ha sido aprobada para su uso en los trámites contenidos en esta Ley por la Secretaría;
+XIII. Disciplina Financiera: la observancia de los principios y las disposiciones en materia de responsabilidad hacendaria y financiera, la aplicación de reglas y criterios en el manejo de recursos y contratación de obligaciones por las entidades, que aseguren una gestión responsable y sostenible de sus finanzas públicas, generando condiciones favorables para el crecimiento económico, el empleo y la estabilidad del sistema financiero;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XIV. Documento electrónico: El documento o archivo electrónico en cualquier formato sea éste alfanumérico, de video o de audio, el cual sea firmado con un certificado electrónico con validez jurídica;
 
-X. Gasto Público: Las erogaciones que con cargo a recursos públicos realizan las Unidades Presupuestales;
+XV. Entidades: Los poderes Ejecutivo, Legislativo y Judicial, los organismos autónomos del Estado; los Municipios; los organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos del Estado y los Municipios, así como cualquier otro ente sobre el que el Estado y los Municipios tengan control sobre sus decisiones o acciones;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XVI. Evaluación: El proceso que tiene como finalidad determinar el grado de eficacia, eficiencia, economía y calidad con que han sido empleados los recursos económicos destinados para alcanzar los objetivos previstos en las políticas públicas, el plan y los programas que de él se deriven, los programas presupuestarios y las actividades institucionales, posibilitando la adopción de medidas que garanticen el cumplimiento adecuado de las metas, de conformidad con lo señalado en el Título Sexto, denominado “De control y Evaluación del Gasto Público” del Libro Cuarto de este Código;
 
-XI. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
+XVII. Financiamiento: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, a cargo de las entidades, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XVIII. Financiamiento neto: la diferencia entre las disposiciones realizadas de un financiamiento y las amortizaciones efectuadas de la deuda pública;
 
-XII. Indicador de Desempeño: La observación o fórmula que integra información cuantitativa o cualitativa, estratégica o de gestión, en términos de eficacia, eficiencia, economía y calidad, respecto del logro o resultado de los objetivos de la política pública, de los Programas Presupuestarios y de las Actividades Institucionales de Dependencias y Entidades;
+XIX. Firma electrónica: La firma electrónica avanzada que es generada con un certificado reconocido legalmente, a través de un dispositivo seguro de creación de firma y tiene, en relación a la información firmada, un valor jurídico equivalente al de la firma autógrafa, y que ha sido aprobada para su uso en los trámites contenidos en este Código por la Secretaría;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XX. Gasto corriente: Las erogaciones que no tienen como contrapartida la creación de un activo, incluyendo, de manera enunciativa, el gasto por servicios personales, materiales y suministros, y los servicios generales, así como las transferencias, asignaciones, subsidios, donativos y apoyos;
 
-XIII. Indicadores de Gestión: Los Indicadores de Desempeño que miden el avance y logro en procesos y actividades, es decir, la forma en que los bienes y servicios públicos son generados y entregados;
+XXI. Gasto Público: Las erogaciones que con cargo a recursos públicos realizan las unidades presupuestales;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XXII. Garantía de pago: Mecanismo que respalda el pago de un financiamiento u obligación contratada;
 
-XIV. Indicadores Estratégicos: Los Indicadores de Desempeño que miden el grado de cumplimiento de los objetivos de las políticas públicas y de los Programas Presupuestarios, los cuales contribuyen a fortalecer o corregir las estrategias y la orientación de los recursos;
+XXIII. Gasto etiquetado: las erogaciones que realizan el Estado y los Municipios con cargo a las transferencias federales etiquetadas. En el caso de los Municipios, adicionalmente se incluyen las erogaciones que realizan con recursos del Estado con un destino específico;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XXIV. Gasto no etiquetado: las erogaciones que realizan el Estado y los Municipios con cargo a sus ingresos de libre disposición y financiamientos. En el caso de los Municipios, se excluye el gasto que realicen con recursos del Estado con un destino específico;
 
-XV. Ley de Contabilidad: La Ley General de Contabilidad Gubernamental;
+XXV. Gasto total: la totalidad de las erogaciones aprobadas en el Presupuesto de Egresos, con cargo a los ingresos previstos en la Ley de Ingresos, las cuales no incluyen las operaciones que darían lugar a la duplicidad en el registro del gasto;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XXVI. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
 
-XVI. Matriz de Indicadores para Resultados: La herramienta de planeación estratégica que organiza los objetivos, indicadores y metas de un Programa Presupuestario y que de forma resumida y sencilla vincula los instrumentos de diseño, organización, ejecución, seguimiento, monitoreo, evaluación y mejora de los Programas Presupuestarios, como resultado de un proceso de programación realizado con base en la Metodología del Marco Lógico;
+XXVII. Indicador de desempeño: La observación o fórmula que integra la información cuantitativa o cualitativa, estratégica o de gestión, en términos de eficacia, eficiencia, economía y calidad, respecto del logro o resultado de los objetivos de la política pública, de los programas presupuestarios y de las actividades institucionales de dependencias y entidades;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XXVIII. Indicadores de gestión: Los indicadores de desempeño que miden el avance y logro en procesos y actividades, es decir, la forma en que los bienes y servicios públicos son generados y entregados;
 
-XVII. Medios electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología;
+XXIX. Indicadores estratégicos: Los indicadores de desempeño que miden el grado de cumplimiento de los objetivos de las políticas públicas y de los programas presupuestarios, los cuales contribuyen a fortalecer o corregir las estrategias y la orientación de los recursos;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XXX. Ingresos de libre disposición: los ingresos locales y las participaciones federales, así como cualquier otro recurso que no esté destinado a un fin específico;
 
-XVIII. Metodología del Marco Lógico: La herramienta de planeación estratégica basada en la estructuración y solución de problemas que permite organizar de manera sistemática y lógica los objetivos de un Programa Presupuestario y sus relaciones de causalidad; identificar los factores externos que pueden influir en el cumplimiento de los objetivos del Programa Presupuestario; proporcionar elementos para evaluar el avance en la consecución de dichos objetivos, y examinar el desempeño del Programa Presupuestario en todas sus etapas. Asimismo, facilita el proceso de conceptualización y diseño de Programas Presupuestarios, a través de la Matriz de Indicadores para Resultados;
+XXXI. Ingresos excedentes: los recursos que durante el ejercicio fiscal se obtienen en exceso de los aprobados en la Ley de Ingresos;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XXXII. Ingresos locales: aquellos percibidos por el Estado y los Municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios y los demás previstos en términos de las disposiciones aplicables;
 
-XIX. Municipio o municipios: El o los municipios del Estado de Veracruz de Ignacio de la Llave;
+XXXIII. Ingresos totales: la totalidad de los ingresos de libre disposición, las transferencias federales etiquetadas y el financiamiento neto;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XXXIV. Instituciones Financieras: instituciones de crédito, sociedades financieras de objeto múltiple, casas de bolsa, almacenes generales de depósito, uniones de crédito, instituciones de seguros, sociedades mutualistas de seguros, sociedades cooperativas de ahorro y préstamo, sociedades financieras populares, sociedades financieras comunitarias y cualquiera otra sociedad autorizada por la Secretaría de Hacienda y Crédito Público o por cualquiera de las Comisiones Nacionales para organizarse y operar como tales, siempre y cuando la normatividad que les resulte aplicable no les prohíba el otorgamiento de créditos;
 
-XX. Organismos Autónomos: Los señalados en el Capítulo V del Título Segundo de la Constitución Política del Estado de Veracruz de Ignacio de la Llave. Para efectos únicamente de este Código se incluirá también a la Universidad Veracruzana que es una Institución Autónoma de Educación Superior;
+XXXV. Instrumentos derivados: los valores, contratos o cualquier otro acto jurídico cuya valuación esté referida a uno o más activos, valores, tasas o índices subyacentes;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XXXVI. Inversión pública productiva: toda erogación por la cual se genere, directa o indirectamente, un beneficio social, y adicionalmente, cuya finalidad específica sea: (i) la construcción, mejoramiento, rehabilitación o reposición de bienes de dominio público; (ii) la adquisición de bienes asociados al equipamiento de dichos bienes de dominio público, comprendidos de manera limitativa en los conceptos de mobiliario y equipo de administración, mobiliario y equipo educacional, equipo médico e instrumental médico y de laboratorio, equipo de defensa y seguridad, y maquinaria, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable, o (iii) la adquisición de bienes para la prestación de un servicio público específico, comprendidos de manera limitativa en los conceptos de vehículos de transporte público, terrenos y edificios no residenciales, de acuerdo al clasificador por objeto de gasto emitido por el Consejo Nacional de Armonización Contable;
 
-XXI. OVH: Oficina Virtual de Hacienda;
+XXXVII. Ley de Contabilidad: La Ley General de Contabilidad Gubernamental;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XXXVIII. Ley de Disciplina: Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
 
-XXII. Plan: El Plan Veracruzano de Desarrollo;
+XXXIX. Matriz de indicadores para resultados: La herramienta de planeación estratégica que organiza los objetivos, indicadores y metas de un programa presupuestario y que de forma resumida y sencilla vincula los instrumentos de diseño, organización, ejecución, seguimiento, monitoreo, evaluación y mejora de los programas presupuestarios, como resultado de un proceso de programación realizado con base en la metodología del marco lógico;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XL. Medios electrónicos: Los dispositivos tecnológicos para transmitir o almacenar datos e información, a través de computadoras, líneas telefónicas, enlaces dedicados, microondas, o de cualquier otra tecnología;
 
-XXIII. Poderes: Los Poderes Legislativo, Ejecutivo y Judicial del Estado de Veracruz de Ignacio de la Llave;
+XLI. Metodología del marco lógico: La herramienta de planeación estratégica basada en la estructuración y solución de problemas que permite organizar de manera sistemática y lógica los objetivos de un programa presupuestario y sus relaciones de causalidad; identificar los factores externos que pueden influir en el cumplimiento de los objetivos del programa presupuestario; proporcionar elementos para evaluar el avance en la consecución de dichos objetivos y examinar el desempeño del programa presupuestario en todas sus etapas. Asimismo, facilita el proceso de conceptualización y diseño de programas presupuestarios, a través de la matriz de indicadores para resultados;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XLII. Municipios: Los del Estado de Veracruz de Ignacio de la Llave;
 
-XXIV. Presupuesto basado en Resultados: El instrumento de la Gestión por Resultados consistente en un conjunto de actividades y herramientas que permiten que las decisiones involucradas en el proceso presupuestario incorporen, sistemáticamente, consideraciones sobre los resultados obtenidos y esperados de la aplicación de los recursos públicos;
+XLIII. Obligaciones: los compromisos de pago a cargo de las entidades derivados de los financiamientos y de las asociaciones público-privadas;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XLIV. Obligaciones a corto plazo: cualquier obligación contratada con instituciones financieras a un plazo menor o igual a un año;
 
-XXV. Programa Presupuestario: La categoría programática que permite organizar, en forma representativa y homogénea, las asignaciones de recursos cuya identificación corresponde a la solución de una problemática de carácter público, que de forma tangible y directa entrega bienes o presta servicios públicos a una población objetivo claramente identificada y localizada;
+XLV. Organismos autónomos: Los señalados en el Capítulo V del Título Segundo de la Constitución Política del Estado de Veracruz de Ignacio de la Llave. Para efectos únicamente de este Código se incluirá también a la Universidad Veracruzana que es una Institución Autónoma de Educación Superior;
 
-> <small>(REFORMADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XLVI. OVH: Oficina Virtual de Hacienda;
 
-XXVI. Recursos Públicos: Los recursos humanos, materiales y financieros que por cualquier concepto obtengan, contraten, dispongan o apliquen las Unidades Presupuestales;
+XLVII. Percepciones extraordinarias: los estímulos, reconocimientos, recompensas, incentivos, y pagos equivalentes a los mismos, que se otorgan de manera excepcional a los servidores públicos, condicionados al cumplimiento de compromisos de resultados sujetos a evaluación; así como el pago de horas de trabajo extraordinarias y demás asignaciones de carácter excepcional autorizadas en los términos de las disposiciones aplicables. Las percepciones extraordinarias no constituyen un ingreso fijo, regular ni permanente, ya que su otorgamiento se encuentra sujeto a requisitos y condiciones variables. Dichos conceptos de pago en ningún caso podrán formar parte integrante de la base de cálculo para efectos de indemnización o liquidación o de prestaciones de seguridad social;
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+XLVIII. Percepciones ordinarias: los pagos por sueldos y salarios, conforme a los tabuladores autorizados y las respectivas prestaciones, que se cubren a los servidores públicos de manera regular como contraprestación por el desempeño de sus labores cotidianas en las entidades, así como los montos correspondientes a los incrementos a las remuneraciones que, en su caso, se hayan aprobado para el ejercicio fiscal;
 
-XXVII. Secretaría: La Secretaría de Finanzas y Planeación del Estado de Veracruz de Ignacio de la Llave;
+XLIX. Plan: El Plan Veracruzano de Desarrollo;
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+L. Poderes: Los Poderes Legislativo, Ejecutivo y Judicial del Estado de Veracruz de Ignacio de la Llave;
 
-XXVIII. Sistema de Evaluación del Desempeño: El instrumento del proceso integral de planeación estratégica que permite evaluar el desempeño gubernamental en la ejecución de políticas y programas públicos, para mejorar la toma de decisiones;
+LI. Presupuesto basado en resultados: El instrumento de la gestión por resultados consistente en un conjunto de actividades y herramientas que permiten que las decisiones involucradas en el proceso presupuestario incorporen sistemáticamente consideraciones sobre los resultados obtenidos y esperados de la aplicación de los recursos públicos;
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+LII. Programa presupuestario: La categoría programática que permite organizar, en forma representativa y homogénea, las asignaciones de recursos cuya identificación corresponde a la solución de una problemática de carácter público, que de forma tangible y directa entrega bienes o presta servicios públicos a una población objetivo claramente identificada y localizada;
 
-XXIX. Titulares de Certificados de Firma Electrónica: Los ciudadanos, representantes legales de empresas o entidades públicas y privadas, y servidores públicos que posean un certificado electrónico con validez jurídica;
+LIII. Reestructuración: la celebración de actos jurídicos que tengan por objeto modificar las condiciones originalmente pactadas en un financiamiento;
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+LIV. Refinanciamiento: la contratación de uno o varios financiamientos cuyos recursos se destinen a liquidar total o parcialmente uno o más financiamientos previamente contratados;
 
-XXX. Unidades Administrativas: Las áreas encargadas de la presupuestación, programación, ejercicio y registro de los recursos públicos asignados a las unidades presupuestales para la realización de sus atribuciones. En los fideicomisos públicos será el Secretario Técnico o su equivalente; y
+LV. Recursos públicos: Los recursos humanos, materiales y financieros que por cualquier concepto obtengan, contraten, dispongan o apliquen las unidades presupuestales;
 
-> <small>(ADICIONADA, G.O. 16 DE DICIEMBRE DE 2013)</small>
+LVI. Secretaría: La Secretaría de Finanzas y Planeación del Estado de Veracruz de Ignacio de la Llave;
 
-XXXI. Unidades Presupuestales: Los Poderes Legislativo y Judicial, los Organismos Autónomos, las Dependencias y Entidades, que tengan asignación financiera en el presupuesto del Estado para el ejercicio de sus funciones.
+LVII. Sistema de alertas: la publicación hecha por la Secretaría de Hacienda y Crédito Público sobre los indicadores de endeudamiento de los Estados;
+
+LVIII. Sistema de evaluación del desempeño: El instrumento del proceso integral de planeación estratégica que permite evaluar el desempeño gubernamental en la ejecución de políticas y programas públicos, para mejorar la toma de decisiones;
+
+LIX. Techo de financiamiento neto: el límite de financiamiento neto anual que podrá contratar una entidad, con fuente de pago de ingresos de libre disposición. Dicha fuente de pago podrá estar afectada a un vehículo específico de pago, o provenir directamente del Presupuesto de Egresos;
+
+LX. Titulares de certificados de firma electrónica: Los ciudadanos, representantes legales de empresas o entidades públicas y privadas, y servidores públicos que posean un certificado electrónico con validez jurídica;
+
+LXI. Transferencias federales etiquetadas: los recursos que reciben de la Federación el Estado y los Municipios, que están destinados a un fin específico, entre los cuales se encuentran las aportaciones federales a que se refiere el Capítulo V de la Ley de Coordinación Fiscal, la cuota social y la aportación solidaria federal previstas en el Título Tercero Bis de la Ley General de Salud, los subsidios, convenios de reasignación y demás recursos con destino específico que se otorguen en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y el Presupuesto de Egresos de la Federación;
+
+LXII. Unidades administrativas: Las áreas encargadas de la presupuestación, programación, ejercicio y registro de los recursos públicos asignados a las unidades presupuestales para la realización de sus atribuciones. En los fideicomisos públicos será el Secretario Técnico o su equivalente; y
+
+LXIII. Unidades presupuestales: Los Poderes Legislativo y Judicial, los Organismos Autónomos, las Dependencias y Entidades, que tengan asignación financiera en el presupuesto del Estado para el ejercicio de sus funciones;
 
 ###### Artículo 3.
 
@@ -201,17 +213,21 @@ Todos los caudales públicos pertenecientes al Estado ingresarán a la Secretar�
 
 La Secretaría hará la distribución de los recursos públicos de acuerdo con las disposiciones de este Código y con base en el presupuesto aprobado por el Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 6.
 
-Las finanzas públicas del Estado estarán apegadas a criterios de racionalidad y de estricta disciplina fiscal, de manera que para cada año el nivel de gasto que se establezca sea igual o inferior a los ingresos previstos para el mismo ejercicio fiscal.
+Las finanzas públicas del Estado estarán apegadas a las reglas de disciplina financiera establecidas en el Título Segundo Capítulo Primero de la Ley de Disciplina, así como a criterios de racionalidad y de estricta disciplina fiscal, de manera que para cada año se cumpla con el balance presupuestario.
 
 > <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
 Asimismo, para satisfacer los objetivos a los que estén destinados, los recursos públicos de que dispongan las Unidades Presupuestales se administrarán de conformidad con los principios de: eficiencia, eficacia, economía, transparencia, honradez, rendición de cuentas, y evaluación del desempeño.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 7.
 
-El Gobierno del Estado podrá recurrir al endeudamiento directo como fuente de recursos, para casos excepcionales, previa autorización del Congreso y en los términos establecidos en el presente ordenamiento.
+El Gobierno del Estado podrá recurrir al endeudamiento directo como fuente de recursos, para casos excepcionales, previa autorización del Congreso y en los términos establecidos en el presente ordenamiento, así como en la Ley de Disciplina.
 
 ###### Artículo 8.
 
@@ -1725,51 +1741,9 @@ IV. Proporcionar a las autoridades fiscales, la información a la que se encuent
 
 V. Presentar ante la autoridad fiscal la información que contenga los datos de todas las personas que le prestaron servicios en el formato oficial en el mes de febrero del siguiente año.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE OCTUBRE DE 2015)</small>
-
 ###### Artículo 105.
 
-La recaudación total, proveniente del impuesto a que se refiere este capítulo, se destinará:
-
-> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2015)</small>
-
-a) Como base de garantía líquida en el otorgamiento de créditos para las micro, pequeñas y medianas empresas;
-
-> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2015)</small>
-
-b) Para el financiamiento de obra pública;
-
-> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2015)</small>
-
-c) Para inversión de capital en materia de protección civil;
-
-> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2015)</small>
-
-d) Para el pago de deuda pública; y
-
-> <small>(ADICIONADO, G.O. 20 DE OCTUBRE DE 2015)</small>
-
-e) Para saneamiento financiero.
-
-> <small>(REFORMADO, G.O. 20 DE OCTUBRE DE 2015)</small>
-
-En caso de que el Gobierno del Estado contrate financiamiento garantizándolo con el impuesto al que se refiere este Capítulo, la recaudación efectivamente ingresada del mismo, se destinará en primer término, a cubrir las obligaciones garantizadas con esta contribución, y el remanente del monto recaudado será destinado a un fideicomiso público. El Comité Técnico del fideicomiso público se integrará paritariamente con representantes de los sectores público y privado de la entidad. En el Comité el Poder Ejecutivo y el sector privado tendrán igual número de representantes y se ajustarán en lo conducente a lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado. Además estará facultado para conocer y, en su caso, aprobar y controlar los proyectos de obras y acciones públicas, así como fijar el monto destinado al otorgamiento de créditos que se sometan a su aprobación, con el propósito de garantizar la correcta aplicación de los recursos al fin señalado en el primer párrafo de este artículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
-
-En casos excepcionales, el Ejecutivo del Estado, previa aprobación del Congreso, podrá afectar un porcentaje de la recaudación que se obtenga del Impuesto Sobre Erogaciones por Remuneraciones al trabajo Personal al pago de Obligaciones contraídas de conformidad con el Título Quinto del Libro Quinto del presente Código, para financiar el gasto público en el rubro de obra pública, obligaciones que incluirán, en su caso, todos los gastos directos o indirectos relacionados con los financiamientos respectivos, durante la vigencia de los mismos y siempre y cuando los recursos derivados de dichos financiamientos, menos en su caso, las cantidades necesarias para cubrir los gastos de estructuración y ejecución de los financiamientos, así como las reservas correspondientes, se aporten invariablemente al fideicomiso público a que se refiere este artículo y se destinen íntegramente a financiar el gasto público en el rubro de obra pública.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
-
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2010)</small>
-
-El Congreso podrá autorizar la afectación de un porcentaje de la recaudación del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal al pago de obligaciones contraídas en términos de lo dispuesto por el párrafo anterior, cuando el plazo de su vigencia no rebase el periodo de ejercicio constitucional del Titular del Ejecutivo Estatal que haya solicitado la autorización para implementar este mecanismo.
-
-> <small>(ADICIONADO [N. DE E. REUBICADO], G.O. 24 DE JULIO DE 2003)</small>
-
-El Ejecutivo del Estado, al presentar la Cuenta Pública, exhibirá el informe pormenorizado que deberá rendir el Comité Técnico del Fideicomiso, sobre las metas fiscales y financieras que se alcanzaron en el año respecto de la aplicación de los recursos provenientes de este impuesto.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2931,7 +2905,9 @@ II. El resultado que arroje el seguimiento, control y evaluación de los indicad
 
 III. El diagnóstico económico y financiero que para el ejercicio correspondiente formule la Secretaría.
 
-La Secretaría difundirá a las Unidades Presupuestales los documentos y metodologías relativas a la Programación-Presupuestación del gasto público, derivados de este Código, de la Ley de Contabilidad y demás disposiciones aplicables.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría difundirá a las Unidades Presupuestales los documentos y metodologías relativos a la programación y presupuestación del gasto público, derivados de este Código, de la Ley de Contabilidad, de la ley de Disciplina y demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2001)</small>
 
@@ -2943,11 +2919,11 @@ Los Ingresos del Estado comprenderán los conceptos de ingresos ordinarios y en 
 
 Al presentarse el Presupuesto del Estado se señalará sólo el monto de los ingresos ordinarios que puedan ser cuantificados; pero, en su caso, al rendir la cuenta pública el Titular del Ejecutivo Estatal, cuantificará y desglosará la totalidad de los ingresos obtenidos en el ejercicio fiscal de que se trate.
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 156.
 
-El gasto público estatal se basará en presupuestos con enfoque en resultados que se integrarán con Programas Presupuestarios y Actividades Institucionales. Para ello se observará lo establecido en la Ley de Contabilidad y demás disposiciones aplicables. Los presupuestos se elaborarán para cada año calendario.
+El gasto público estatal se basará en presupuestos con enfoque en resultados que se integrarán con programas presupuestarios y actividades institucionales. Para ello se observará lo establecido en la Ley de Contabilidad, la Ley de Disciplina y demás disposiciones aplicables. Los presupuestos se elaborarán para cada año calendario.
 
 > <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
@@ -2971,19 +2947,17 @@ Los Programas Presupuestarios y Actividades Institucionales y demás programas d
 
 La Secretaría será la encargada de efectuar las previsiones de ingresos, en las que quedarán comprendidos aquellos que se obtengan por la recaudación de contribuciones estatales, productos, aprovechamientos, transferencias federales y demás ingresos federales.
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 158.
 
-Las unidades presupuestales remitirán sus respectivos anteproyectos de presupuesto, dentro de los cinco primeros días hábiles del mes de octubre de cada año, a la Secretaría, con sujeción a las normas y estimaciones financieras que el Gobernador del Estado establezca por conducto de la Secretaría y cumpliendo con la Ley de Contabilidad y demás disposiciones aplicables.
+Las unidades presupuestales remitirán sus respectivos anteproyectos de presupuesto, dentro de los cinco primeros días hábiles del mes de octubre de cada año, a la Secretaría, con sujeción a las normas y estimaciones financieras que el Gobernador del Estado establezca por conducto de la Secretaría y cumpliendo con la Ley de Contabilidad, con la Ley de Disciplina y demás disposiciones aplicables.
 
-Los Poderes y los Organismos Autónomos formularán sus proyectos de presupuesto elaborados conforme a sus Programas Presupuestarios y Actividades Institucionales, tomando en consideración los lineamientos y estimaciones económicas que emita la Secretaría y lo dispuesto por la Ley de Contabilidad y demás disposiciones aplicables, los cuales remitirán dentro de los cinco días hábiles del mes de octubre, de cada año, con excepción del Poder Legislativo, que en el año de su renovación se apegará a lo establecido por el artículo 26 fracción I, inciso a) de la Constitución Política del Estado.
-
-> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 158 Bis.
 
-En sus anteproyectos de presupuesto, las Unidades Presupuestales determinarán las previsiones del gasto y su calendarización de acuerdo con la clasificación por objeto del gasto y demás clasificaciones que señale la Secretaría, para cada una de las categorías programáticas establecidas por ésta, y apegándose a lo preceptuado por la Ley de Contabilidad y demás disposiciones aplicables.
+En sus anteproyectos de presupuesto, las unidades presupuestales determinarán las previsiones del gasto y su calendarización de acuerdo con la clasificación por objeto del gasto y demás clasificaciones que señale la Secretaría, para cada una de las categorías programáticas establecidas por ésta, y apegándose a lo preceptuado por la Ley de Contabilidad, por la Ley de Disciplina y demás disposiciones aplicables.
 
 ###### Artículo 159.
 
@@ -3053,7 +3027,9 @@ g) La estimación del impacto esperado por género, región y grupos vulnerables
 
 VIII. En general, toda la información que se considere útil para proporcionar elementos de juicio para su aprobación.
 
-En todo caso, el proyecto de Presupuesto de Egresos deberá cumplir con los requisitos que prevén los artículos 46, 47, 48 y 61 fracción II de la Ley de Contabilidad y publicarse en los términos de dicha Ley.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+En todo caso, el proyecto de Presupuesto de Egresos deberá cumplir con los requisitos que prevén los artículos 46, 47, 48 y 61 fracción II de la Ley de Contabilidad, así como con las reglas de disciplina financiera establecidas en el Título segundo Capítulo primero de la Ley de Disciplina y publicarse en los términos de dicha Ley.
 
 El proyecto de Presupuesto de Egresos enviado al Congreso, así como las disposiciones aplicables a su proceso de integración, los dictámenes, acuerdos de comisión y, en su caso, actas de aprobación correspondientes, conforme al marco jurídico aplicable, deberán publicarse en los términos de la Ley de Contabilidad y demás disposiciones aplicables.
 
@@ -3077,7 +3053,9 @@ e) Otros aspectos que el Gobernador del Estado juzgue convenientes para justific
 
 II. La estimación de ingresos desglosada por concepto, para el año que se presupuesta.
 
-En todo caso el proyecto de Ley de Ingresos deberá cumplir con los requisitos que prevén los artículos 46, 47, 48 y 61 fracción I de la Ley de Contabilidad y publicarse en los términos de dicha Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+En todo caso el proyecto de Ley de Ingresos deberá cumplir con los requisitos que prevén los artículos 46, 47, 48 y 61 fracción I de la Ley de Contabilidad, así como con las reglas de disciplina financiera establecidas en el Título segundo Capítulo primero de la Ley de Disciplina y publicarse en los términos de dicha Ley y demás disposiciones aplicables.
 
 La Ley de Ingresos aprobada por el Congreso y la iniciativa correspondiente, así como los dictámenes, acuerdos de comisión y, en su caso, las actas de aprobación respectivas, conforme al marco jurídico vigente, así como las disposiciones aplicables a su proceso de integración, deberán publicarse en los términos de la Ley de Contabilidad y demás disposiciones aplicables.
 
@@ -3091,19 +3069,19 @@ El gasto público se ejercerá con base en los calendarios financieros y de meta
 
 Los calendarios de presupuesto de egresos con base mensual deberán publicarse en los términos de la Ley de Contabilidad y demás disposiciones aplicables.
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 163.
 
-Durante el mes de agosto de cada año, la Secretaría dará a conocer a las Unidades Presupuestales los criterios y los lineamientos para la formulación del presupuesto, observando la Ley de Contabilidad y demás disposiciones aplicables.
+Durante el mes de agosto de cada año, la Secretaría dará a conocer a las unidades presupuestales los criterios y los lineamientos para la formulación del presupuesto, observando la Ley de Contabilidad, la Ley de Disciplina y demás disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. DE LA INICIATIVA, APROBACIÓN Y REFORMAS DEL PRESUPUESTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 164.
 
-En cumplimiento de lo dispuesto en el artículo 26, fracción I, inciso a) de la Constitución Política local, el Gobernador del Estado presentará al Congreso, entre el seis y diez de noviembre de cada año, el presupuesto estatal para su aprobación, el cual detallará ampliamente los ingresos y egresos del año siguiente, debiendo cumplir en lo conducente, además de lo establecido en este Código, la Ley de Contabilidad y demás disposiciones aplicables. En caso de que el día diez de noviembre sea inhábil, el término se trasladará al día hábil inmediato siguiente. Cuando se trate de año de renovación del Congreso, el Gobernador del Estado tendrá los primeros quince días hábiles del mes de noviembre para presentar el presupuesto.
+En cumplimiento de lo dispuesto en el artículo 26, fracción I, inciso a) de la Constitución Política local, el Gobernador del Estado presentará al Congreso, entre el seis y diez de noviembre de cada año, el presupuesto estatal para su aprobación, el cual detallará ampliamente los ingresos y egresos del año siguiente, debiendo cumplir en lo conducente, además de lo establecido en este Código, la Ley de Contabilidad, la Ley de Disciplina y demás disposiciones aplicables. En caso de que el día diez de noviembre sea inhábil, el término se trasladará al día hábil inmediato siguiente. Cuando se trate de año de renovación del Congreso, el Gobernador del Estado tendrá los primeros quince días hábiles del mes de noviembre para presentar el presupuesto.
 
 Si al 31 de diciembre no se han aprobado la Ley de Ingresos y el Decreto de Presupuesto de Egresos, el Gobierno del Estado recaudará los ingresos establecidos en este Código; asimismo ejercerá en cada mes una doceava parte del último presupuesto ejercido, en tanto se aprueben dichas Ley o Decreto.
 
@@ -3123,13 +3101,11 @@ Al efecto, la Secretaría, con base en la disponibilidad presupuestal existente,
 
 Tratándose del Poder Judicial, del Poder Legislativo y de los Organismos Autónomos, el Ejecutivo Estatal enviará las modificaciones al Congreso, el cual, en su caso, las aprobará.
 
-> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 166 Bis.
 
-Las Dependencias y Entidades que elaboren anteproyectos de iniciativas de leyes y decretos que se tenga programado presentar al Congreso, así como reglamentos, decretos, convenios, acuerdos y demás documentos análogos que impliquen repercusiones financieras, realizarán una evaluación sobre su impacto presupuestal, el cual deberá adjuntarse al anteproyecto y remitirse a la Secretaría previo a su trámite ante las instancias que procedan.
-
-En caso de que el anteproyecto tenga un impacto presupuestal, las Dependencias o Entidades deberán señalar la fuente de financiamiento de los nuevos gastos.
+El Ejecutivo del Estado por conducto de la Secretaría de Finanzas, en el momento de elaborar las iniciativas de leyes y decretos que se tenga programado presentar al Congreso, así como reglamentos, decretos, convenios, acuerdos y demás documentos análogos que impliquen repercusiones financieras, deberá realizar y entregar una evaluación sobre el impacto presupuestal correspondiente.
 
 La evaluación del impacto presupuestal considerará cuando menos:
 
@@ -3139,15 +3115,17 @@ II. Las modificaciones que deberán hacerse a los Programas Presupuestarios y Ac
 
 III. El establecimiento de nuevas atribuciones y actividades que deberán realizar las Dependencias o Entidades;
 
-IV. La inclusión de disposiciones generales que incidan en la regulación en materia presupuestal y organizacional, y
+IV. La inclusión de disposiciones generales que incidan en la regulación en materia presupuestal y organizacional;
 
-V. El destino específico de gasto público de conformidad con las distintas clasificaciones de gasto aplicables.
+V. El destino específico de gasto público de conformidad con las distintas clasificaciones de gasto aplicables; y
 
-> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+VI. Deberá acompañarse, en su caso, con la correspondiente iniciativa de ingreso o compensarse con reducciones en otras previsiones de gasto.
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 166 Ter.
 
-Las Dependencias y Entidades presentarán a la Secretaría para su autorización, la solicitud de suficiencia presupuestaria acompañada de la evaluación del impacto presupuestal de los anteproyectos referidos en el artículo anterior, de conformidad con las prioridades de desarrollo del Estado y de la capacidad financiera de la hacienda pública estatal. La Secretaría podrá solicitar a la Dependencia o Entidad, la información complementaria que considere pertinente para dar el trámite respectivo. La Secretaría podrá emitir, cuando así lo considere, recomendaciones que incidan en el ámbito presupuestal respecto del anteproyecto, conforme a las disposiciones jurídicas vigentes. A la autorización que emita la Secretaría, se anexarán los anteproyectos referidos en este artículo y el anterior, para presentarlos a la consideración del Gobernador del Estado.
+Las dependencias y entidades presentarán a la Secretaría, para su autorización, la solicitud de suficiencia presupuestaria acompañada de la evaluación del impacto presupuestal de los anteproyectos referidos en el artículo anterior, de conformidad con las prioridades de desarrollo del Estado y de la capacidad financiera de la hacienda pública estatal. La Secretaría podrá solicitar a la dependencia o entidad, la información complementaria que considere pertinente para dar el trámite respectivo. La Secretaría podrá emitir, cuando así lo considere, recomendaciones que incidan en el ámbito presupuestal respecto del anteproyecto, conforme a la Ley de Disciplina y las disposiciones jurídicas vigentes. A la autorización que emita la Secretaría, se anexarán los anteproyectos referidos en este artículo y el anterior, para presentarlos a la consideración del Gobernador del Estado.
 
 ###### Artículo 167.
 
@@ -3183,9 +3161,9 @@ La administración del gasto público se efectuará en los términos de este Có
 
 La Secretaría, la Contraloría y el Órgano de Fiscalización Superior del Estado, en el ámbito de sus respectivas competencias, emitirán los criterios y lineamientos para la administración del gasto público estatal, los que serán de observancia obligatoria para las Unidades Presupuestales.
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Se exceptúan de estas disposiciones, el ejercicio, la contabilidad, el control y la evaluación del presupuesto de los Poderes y de los Organismos Autónomos, en cuyo caso sus órganos de gobierno determinarán los criterios y lineamientos aplicables, de conformidad a lo establecido en la Ley de Contabilidad y demás disposiciones aplicables.
+Se exceptúan de estas disposiciones las reglas de disciplina financiera del Título segundo Capítulo primero de la ley de Disciplina, así como el ejercicio, la contabilidad, el control y la evaluación del presupuesto de los Poderes y de los Organismos Autónomos, en cuyo caso sus órganos de gobierno determinarán los criterios y lineamientos aplicables, de conformidad a lo establecido en la Ley de Contabilidad y demás disposiciones aplicables.
 
 ###### Artículo 174.
 
@@ -3257,7 +3235,9 @@ Los fideicomisos públicos que se constituyan para ejercer recursos obtenidos de
 
 Las unidades presupuestales serán responsables de la administración de los recursos estatales y federales de que dispongan para la realización de los Programas Presupuestarios y Actividades Institucionales a su cargo.
 
-Tratándose de fondos federales, las unidades presupuestales ejercerán y controlarán los recursos que les sean transferidos para la realización de los programas convenidos entre la Federación y el Estado, de manera que se aplique la normatividad federal y las disposiciones específicas para su ejercicio.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de fondos federales, las unidades presupuestales ejercerán y controlarán los recursos que les sean transferidos para la realización de los programas convenidos entre la Federación y el Estado, de manera que se aplique la normatividad federal y las disposiciones específicas para su ejercicio. En caso de que no se ejerzan al cierre del ejercicio se estará a lo dispuesto en la Ley de Disciplina.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 26 DE AGOSTO DE 2013)</small>
 
@@ -3285,9 +3265,11 @@ El Congreso, por conducto de la Comisión de Vigilancia, remitirá al Órgano de
 
 El gasto público se ajustará al monto autorizado para los Programas Presupuestarios, Actividades Institucionales y partidas presupuestales, excepto para aquellas erogaciones cuyo monto no sea posible prever.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 181.
 
-Una vez concluída la vigencia de un presupuesto, sólo procederá hacer pagos con base en él por los conceptos efectivamente devengados en el año que corresponda, siempre que se hubieren contabilizado debida y oportunamente las operaciones correspondientes y, en su momento, se hubiere presentado el informe a la Secretaría.
+Una vez concluida la vigencia de un presupuesto, sólo procederá hacer pagos con base en él por los conceptos efectivamente devengados en el año que corresponda, siempre que se hubieren contabilizado debida y oportunamente las operaciones correspondientes y, en su momento, se hubiere presentado el informe a la Secretaría. En caso de que existan adeudos provenientes de ejercicios anteriores, se estará a lo dispuesto en la Ley de Disciplina.
 
 En el ejercicio del gasto público no podrán mezclarse los presupuestos de dos o más años.
 
@@ -3295,7 +3277,9 @@ En el ejercicio del gasto público no podrán mezclarse los presupuestos de dos 
 
 Tratándose de operaciones con cargo a partidas de dos o más ejercicios presupuestales, se desglosarán los montos que correspondan a cada uno de ellos.
 
-En el caso de que las unidades presupuestales requieran efectuar erogaciones por concepto de adeudos provenientes de ejercicios anteriores, los pagos se harán conforme a los montos establecidos con cargo a las partidas de gasto que correspondan y estén previstas en el presupuesto vigente, sin que su pago implique la asignación de recursos adicionales.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+En el caso de que las unidades presupuestales requieran efectuar erogaciones por concepto de adeudos provenientes de ejercicios anteriores, los pagos se harán conforme a los montos establecidos con cargo a las partidas de gasto que correspondan y estén previstas en el presupuesto vigente, sin que su pago implique la asignación de recursos adicionales, siempre que se cumplan las reglas establecidas en la Ley de Disciplina.
 
 La procedencia de los pagos señalados en los párrafos anteriores será verificada por los órganos de control de las unidades presupuestales.
 
@@ -3311,11 +3295,11 @@ En casos excepcionales, debidamente justificados y dictaminados, el Gobernador d
 
 Para los efectos del párrafo anterior, las dependencias remitirán a la Secretaría los proyectos respectivos, mismos que contendrán la estimación de la cantidad total a erogar, el monto total de la operación, la justificación del gasto, el periodo de ejecución, el calendario de ministraciones e indicación de las áreas responsables de su ejercicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 184.
 
-Las entidades se sujetarán a las disposiciones legales referentes a la aprobación de su presupuesto y rendición de cuentas que se determinen en los ordenamientos que las crean; debiendo observar, en lo que les sea aplicable, las disposiciones que sobre el ejercicio del gasto se detallan en este Título. En todo caso deberán observar la regulación prevista en la Ley de Contabilidad y demás disposiciones aplicables.
+Las entidades se sujetarán a las disposiciones legales referentes a la aprobación de su presupuesto y rendición de cuentas que se determinen en los ordenamientos que las crean, debiendo observar, en lo que les sea aplicable, las disposiciones que sobre el ejercicio del gasto se detallan en este Título. En todo caso deberán observar la regulación prevista en la Ley de Contabilidad y la Ley de Disciplina, así como las demás disposiciones aplicables.
 
 Los órganos de gobierno de las entidades reportarán en tiempo y forma a la Secretaría la información presupuestal y contable que le solicite para la integración del presupuesto y de la cuenta pública del Gobierno del Estado.
 
@@ -3335,11 +3319,11 @@ Cuando, por la naturaleza de las funciones que correspondan a la dependencia, o 
 
 Para el ejercicio del gasto público, las coordinaciones administrativas tendrán las mismas facultades que la unidad administrativa, salvo las que se señalen como exclusivas de esta última.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 186.
 
-Los respectivos titulares de las unidades administrativas en las dependencias o entidades de su adscripción, serán responsables del ejercicio del gasto público asignado a la dependencia o entidad de que se trate de conformidad con lo dispuesto por la Ley Orgánica del Poder Ejecutivo, este Código, la Ley de Contabilidad y demás disposiciones aplicables, para lo cual contarán con las siguientes responsabilidades en el ejercicio del gasto público:
+Los respectivos titulares de las unidades administrativas en las dependencias o entidades de su adscripción, serán responsables del ejercicio del gasto público asignado a la dependencia o entidad de que se trate, de conformidad con lo dispuesto por la Ley Orgánica del Poder Ejecutivo, este Código, la Ley de Contabilidad, la Ley de Disciplina y demás disposiciones aplicables, para lo cual contarán con las siguientes responsabilidades en el ejercicio del gasto público:
 
 I. Organizar y dirigir, por acuerdo del titular de la dependencia, las actividades administrativas de la dependencia o entidad;
 
@@ -3505,19 +3489,21 @@ Asimismo, serán responsables por los cargos financieros causados por no cubrir 
 
 Tratándose de los pagos que la Secretaría efectúe a través de la Tesorería, se estará a lo dispuesto por el artículo 233 de este Código.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 193.
 
-La Secretaría determinará los lineamientos a que se sujetarán las dependencias y entidades respecto de las disponibilidades financieras con que cuenten durante cada ejercicio presupuestal; las cuales no se invertirán en mecanismos bursátiles de renta variable, ni afectarán con su inversión su liquidez financiera. Para tal efecto, las dependencias y entidades proporcionarán la información financiera que requiera la Secretaría.
+La Secretaría determinará los lineamientos a que se sujetarán las dependencias y entidades, respecto de las disponibilidades financieras con que cuenten durante cada ejercicio presupuestal, cumpliendo en todo momento con las reglas establecidas en la Ley de Disciplina, las cuales no se invertirán en mecanismos bursátiles de renta variable, ni afectarán con su inversión su liquidez financiera. Para tal efecto, las dependencias y entidades proporcionarán la información financiera que requiera la Secretaría.
 
 ###### Artículo 194.
 
 Los recursos presupuestales que no se hayan destinado oportunamente a efectuar los pagos para los que fueron ministrados, se reintegrarán de inmediato a la Secretaría.
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 195.
 
-Los montos presupuestales no devengados y las economías presupuestales, previa autorización de la Secretaría, podrán aplicarse a Programas Presupuestarios y Actividades Institucionales de las unidades presupuestales que los originen, conforme a los lineamientos administrativos que al efecto expida la Secretaría.
+Los montos presupuestales no devengados y las economías presupuestales, previa autorización de la Secretaría, podrán aplicarse a programas presupuestarios y actividades institucionales de las unidades presupuestales que los originen, conforme a la Ley de Disciplina y los lineamientos administrativos que al efecto expida la Secretaría.
 
 ###### Artículo 196.
 
@@ -3563,13 +3549,19 @@ III. El avance programático presupuestal de sus Programas Presupuestarios y Act
 
 IV. Que la transferencia se efectúe de una partida no prioritaria a otra que sí lo sea.
 
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+V. Que se cumpla con la normatividad expresa en la Ley de Disciplina.
+
 > <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2006)</small>
 
 La autorización de las transferencias que refiere este artículo, se integrará al informe trimestral correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 200.
 
-El Ejecutivo Estatal, por conducto de la Secretaría, efectuará las reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestados.
+El Ejecutivo Estatal, por conducto de la Secretaría, efectuará las reducciones a los montos de los presupuestos aprobados a las dependencias y entidades, cuando se presenten contingencias que repercutan en una disminución de los ingresos presupuestados, cumpliendo en todo momento con lo establecido en la Ley de Disciplina.
 
 Para los efectos del párrafo anterior, se tomarán en cuenta las circunstancias económicas y sociales que priven en la Entidad y, en su caso, la naturaleza y características particulares de operación de las dependencias y entidades.
 
@@ -3593,9 +3585,9 @@ IV. Ingresos provenientes de apoyos adicionales del Gobierno Federal.
 
 V. Aportaciones de beneficiarios, los derivados de convenios interestatales o de aportaciones municipales.
 
-> <small>(REFORMADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Con excepción expresa de aquellos montos que tengan un destino específico, el Gobernador del Estado asignará los recursos excedentes a los Programas Presupuestarios y Actividades Institucionales que considere necesarios. De igual manera, la Secretaría queda facultada para la ministración de los mismos, así como para asignar hasta un ocho por ciento de los ingresos excedentes a incentivar las acciones que efectivamente lo hayan generado.
+Con excepción expresa de aquellos montos que tengan un destino específico, el Gobernador del Estado asignará los recursos excedentes de acuerdo a lo establecido en la Ley de Disciplina. De igual manera, la Secretaría queda facultada para la ministración de los mismos, así como para asignar hasta un ocho por ciento de los ingresos excedentes a incentivar las acciones que efectivamente lo hayan generado.
 
 > <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
@@ -3607,9 +3599,11 @@ Los recursos excedentes podrán destinarse a cubrir gastos contingentes no previ
 
 ### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 202.
 
-En la administración de los recursos humanos, las unidades administrativas se sujetarán a lo dispuesto por este Código, la Ley Estatal del Servicio Civil, las condiciones generales de trabajo y demás disposiciones aplicables.
+En la administración de los recursos humanos, las unidades administrativas se sujetarán a lo dispuesto por este Código, la Ley Estatal del Servicio Civil, la Ley de Disciplina, las condiciones generales de trabajo y demás disposiciones aplicables.
 
 ###### Artículo 203.
 
@@ -3673,9 +3667,11 @@ Los servidores públicos adscritos a las dependencias se abstendrán de interven
 
 Las unidades administrativas se abstendrán de contratar personas inhabilitadas en el servicio público, estatal o federal, para desempeñar un empleo, cargo o comisión.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 211.
 
-Las unidades administrativas no comprometerán los recursos del capítulo de servicios personales para ejercicios posteriores; asimismo, cualquier modificación a las estructuras orgánicas o remuneraciones se deberán cubrir con recursos presupuestales del ejercicio fiscal en que se realicen, de tal forma que no generen necesidades presupuestales adicionales en los años subsecuentes.
+Las unidades administrativas no comprometerán los recursos del capítulo de servicios personales para ejercicios posteriores; asimismo, cualquier modificación a las estructuras orgánicas o remuneraciones se deberán cubrir con recursos presupuestales del ejercicio fiscal en que se realicen, cumpliendo en todo momento con lo establecido en la Ley de Disciplina, de tal forma que no generen necesidades presupuestales adicionales en los años subsecuentes.
 
 ###### Artículo 212.
 
@@ -3683,7 +3679,9 @@ Si existen contratos por honorarios, no incrementarán sus percepciones ni obten
 
 Las unidades administrativas informarán a la Secretaría y a la Contraloría en los meses de marzo, junio, septiembre y diciembre de cada año sobre los contratos por honorarios que se encuentren vigentes hasta el último día del mes inmediato anterior de cada reporte.
 
-Respecto a los contratos por honorarios vigentes de un año a otro, las dependencias solicitarán autorización a la Secretaría, misma que se otorgará si se cuenta con los recursos suficientes, está debidamente justificada y si se considera indispensable. Esta autorización se tramitará durante el mes de enero de cada año.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Respecto a los contratos por honorarios vigentes de un año a otro, las dependencias solicitarán autorización a la Secretaría, misma que se otorgará siempre que se cumpla con los lineamientos establecidos en la Ley de Disciplina, si se cuenta con los recursos suficientes, está debidamente justificada y si se considera indispensable. Esta autorización se tramitará durante el mes de enero de cada año.
 
 ### CAPÍTULO CUARTO. DE LA ADMINISTRACIÓN DE LOS RECURSOS MATERIALES
 
@@ -4063,7 +4061,9 @@ La Secretaría vigilará y comprobará el funcionamiento adecuado de las oficina
 
 I. Efectuar visitas, inspecciones y auditorias que tengan por objeto la revisión de operaciones de los ingresos y los egresos, examinando los aspectos contables y legales correspondientes;
 
-II. Examinar si los remanentes presupuestarios, ingresos propios, disponibilidades financieras, contratación de servicios bancarios, cuentas bancarias y sus rendimientos, se ajustan a lo establecido en el presupuesto del Estado y demás disposiciones que para el efecto expidan la Secretaría y la Contraloría en el ámbito de su competencia;
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+II. Examinar si los remanentes presupuestarios, ingresos propios, disponibilidades financieras, contratación de servicios bancarios, cuentas bancarias y sus rendimientos, se ajustan a lo establecido en el presupuesto del Estado, la Ley de Disciplina y demás disposiciones que para el efecto expidan la Secretaría y la Contraloría en el ámbito de su competencia;
 
 III. Comprobar la existencia de los fondos y valores que obren en poder de las oficinas del Estado;
 
@@ -4299,11 +4299,11 @@ La Secretaría y la Contraloría General, en el ámbito de sus competencias, har
 
 ### CAPÍTULO TERCERO. DE LA CUENTA PÚBLICA
 
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 280.
 
-La Secretaría emitirá y dará a conocer a las unidades presupuestales, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública, a más tardar el día 31 de octubre de cada año. Los Lineamientos correspondientes deberán observar lo dispuesto por la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
+La Secretaría emitirá y dará a conocer a las unidades presupuestales, los lineamientos para obtener de éstas los datos necesarios para la elaboración de la cuenta pública, a más tardar el día 31 de octubre de cada año. Los lineamientos correspondientes deberán observar lo dispuesto por la Ley General de Contabilidad Gubernamental, la Ley de Disciplina y demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2015)</small>
 
@@ -4343,11 +4343,11 @@ Las unidades administrativas serán responsables de que la información consolid
 
 La información a que se refiere este artículo, deberá contar con la aprobación del titular de la dependencia o entidad.
 
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 287.
 
-La Secretaría formulará la cuenta pública y la someterá a consideración del Titular del Poder Ejecutivo durante la última semana del mes de febrero de cada año, para su presentación al Congreso en los términos de la Constitución Política del Estado de Veracruz de Ignacio de la Llave. La cuenta pública se formulará observando las disposiciones de este Código, la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
+La Secretaría formulará la cuenta pública y la someterá a consideración del Titular del Poder Ejecutivo durante la última semana del mes de febrero de cada año, para su presentación al Congreso en los términos de la Constitución Política del Estado de Veracruz de Ignacio de la Llave. La cuenta pública se formulará observando las disposiciones de este Código, la Ley de Disciplina, la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2012)</small>
 
@@ -4701,15 +4701,15 @@ El presente libro regula las operaciones de endeudamiento relativas a las bases 
 
 Asimismo, considera la contratación de operaciones destinadas a cubrir necesidades urgentes de liquidez, a enfrentar situaciones imprevisibles de la economía nacional o estatal y a sufragar las erogaciones que debieran efectuarse en virtud de algún acontecimiento futuro e incierto que alterare la planeación financiera del Estado.
 
-> <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
-La deuda pública deberá ser transparentada y publicada en términos de la Ley de Contabilidad y demás disposiciones aplicables.
+La deuda pública deberá ser transparentada y publicada en términos de la Ley de Contabilidad, Ley de Disciplina y demás disposiciones aplicables.
 
-> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 313.
 
-La deuda pública, en su conjunto, está constituida por las obligaciones directas o indirectas a cargo del Estado, por sí o por sus entidades paraestatales, derivadas de la celebración de financiamientos, reestructuraciones, adquisición de bienes o contratación de obra o servicios cuyo pago se pacte a plazos, así como la emisión de valores, tales como bonos u obligaciones de deuda, certificados bursátiles y pagarés en los que el Estado asuma obligaciones directas o contingentes, constituidos en términos de lo dispuesto por este Código y la celebración de actos jurídicos análogos que, previa autorización del Congreso, se generen a cargo del Estado, por sí o por sus entidades, obligaciones que podrán tener como garantía o fuente de pago o ambas, los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios, así como las participaciones federales derivadas del Sistema Nacional de Coordinación Fiscal.
+La deuda pública, en su conjunto, se integra por las obligaciones directas o indirectas a cargo del Estado, por sí o por sus entidades paraestatales, derivadas de la celebración de financiamientos, reestructuraciones, adquisición de bienes o contratación de obra o servicios cuyo pago se pacte a plazos, así como la emisión de valores, tales como bonos u obligaciones de deuda, certificados bursátiles y pagarés en los que el Estado asuma obligaciones directas o contingentes, constituidos en términos de lo dispuesto por este Código y la celebración de actos jurídicos análogos que, previa autorización del Congreso, se generen a cargo del Estado, por sí o por sus entidades, obligaciones que podrán tener como garantía o fuente de pago, o ambas, los ingresos estatales derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios, así como las participaciones federales derivadas del Sistema Nacional de Coordinación Fiscal.
 
 > <small>(ADICIONADO, G.O. 26 DE AGOSTO DE 2013)</small>
 
@@ -4717,19 +4717,19 @@ Las obligaciones directas o indirectas a cargo del Estado o municipios, o las en
 
 ###### Artículo 314.
 
-Los municipios y sus entidades estarán sujetos a las disposiciones de la Ley de Deuda Pública Municipal para la celebración de operaciones de endeudamiento, y se sujetarán a las disposiciones del presente Código cuando requieran del aval o se establezca la responsabilidad solidaria del Gobierno del Estado en dichas operaciones.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2016)
+
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 315.
 
-La deuda pública de los municipios y sus entidades será aquella que derive de operaciones de endeudamiento que, para cumplir con los objetivos encomendados, celebren estos o sus propias entidades, pudiendo el Gobierno del Estado concurrir como deudor solidario o aval. En este caso, la deuda pública municipal estará regulada por las disposiciones de este Código y demás aplicables.
+La deuda pública de los municipios y sus entidades se integrará por las operaciones de endeudamiento que, para cumplir con los objetivos encomendados, celebren aquéllos o sus propias entidades. La deuda pública municipal estará regulada por las disposiciones de este Código, de la Ley de Disciplina y demás aplicables.
 
-> <small>(REFORMADO, G.O. 17 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 316.
 
-Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código, asuma el Estado, por sí o por sus entidades, se destinarán a inversiones públicas productivas, entendiéndose como tales las erogaciones realizadas con estos recursos destinadas a la ejecución de obras, contratación de servicios, adquisición de bienes y los asignados para rehabilitación de bienes que generen un aumento en la capacidad o vida útil de los mismos, siempre que con la operación de dichos activos se genere, directa o indirectamente, un incremento en los ingresos públicos del Estado.
-
-Asimismo, los recursos derivados de operaciones de financiamiento podrán destinarse a cubrir un déficit en la Hacienda del Estado, generado por situaciones de la economía nacional o estatal, o suscitadas por algún acontecimiento futuro e incierto que altere la planeación financiera original del Estado, previo cumplimiento de los requisitos establecidos en este Código.
+Las operaciones de endeudamiento que, previo cumplimiento de los requisitos detallados por este Código, asuma el Estado, por sí o por sus entidades, se destinarán a inversiones públicas productivas, cumpliendo en cualquier momento con las reglas mencionadas en la Ley de Disciplina.
 
 ###### Artículo 317.
 
@@ -4741,7 +4741,13 @@ II. Las previsiones contenidas en los programas anuales que elabore para el fina
 
 III. Los lineamientos establecidos para la presupuestación de la deuda pública, que emita la propia Secretaría.
 
-IV. Las demás disposiciones que rijan la celebración de las operaciones de endeudamiento previstas.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IV. Las reglas mencionadas en la Ley de Disciplina; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN IV], G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+V. Las demás disposiciones que rijan la celebración de las operaciones de endeudamiento previstas.
 
 Quedan excluidas de la planeación y presupuestación la deuda pública, operaciones relacionadas con pasivos contingentes, entendiéndose por éstas las operaciones que se destinen a cubrir necesidades urgentes de liquidez, a enfrentar situaciones imprevisibles de la economía nacional o estatal y a sufragar las erogaciones suscitadas por virtud de algún acontecimiento futuro e incierto que altere la original planeación financiera del Estado.
 
@@ -4781,9 +4787,7 @@ La Secretaría estará facultada para controlar y, en su caso, reestructurar la 
 
 ###### Artículo 322.
 
-Cuando requieran el aval del Gobierno del Estado, los municipios y las entidades estatales y municipales sólo podrán celebrar operaciones de endeudamiento, previa autorización del Congreso y con la participación de la Secretaría.
-
-En ningún caso se autorizarán financiamientos que generen obligaciones que excedan la capacidad de pago del Estado, de los municipios, y de sus entidades.
+(DEROGADO, G.O. 30 DE DICIEMBRE DE 2016)
 
 ## TÍTULO SEGUNDO. DE LA COMPETENCIA EN MATERIA DE DEUDA PÚBLICA
 
@@ -4821,15 +4825,17 @@ X. Llevar el registro de obligaciones derivadas de la contratación de todas las
 
 El Ejecutivo del Estado podrá solicitar al Congreso la contratación de montos adicionales de endeudamiento a los originalmente presupuestados, cuando considere que existen situaciones económicas extraordinarias que así lo exijan.
 
-> <small>(REFORMADO, G.O. 24 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 325.
 
-Corresponde al Congreso autorizar al Ejecutivo Estatal para que éste celebre, de conformidad con lo establecido en este Código, las operaciones de endeudamiento sobre el crédito del Estado y otorgue a los Ayuntamientos el aval del Estado; así como autorizar el pago de las obligaciones de deuda contraídas y la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés, afectando en caso necesario, las participaciones derivadas del Sistema Nacional de Coordinación Fiscal y los ingresos derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios que le correspondan a la Entidad. Asimismo, autorizará la reestructuración de las obligaciones de deuda que permitan optimizar su manejo o reducir la carga de su servicio.
+Corresponde al Congreso autorizar al Ejecutivo Estatal para que éste celebre, de conformidad con lo establecido en este Código, las operaciones de endeudamiento sobre el crédito del Estado y otorgue a los Ayuntamientos el aval del Estado; así como autorizar el pago de las obligaciones de deuda contraídas y la emisión de valores, tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés, afectando en caso necesario, las participaciones derivadas del Sistema Nacional de Coordinación Fiscal y los ingresos derivados de impuestos, derechos, productos, aprovechamientos y sus respectivos accesorios que le correspondan al Estado, cumpliendo en todo momento con las reglas establecidas en la Ley de Disciplina.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 326.
 
-Para la realización de las operaciones de endeudamiento que requieran el aval del Gobierno del Estado, los municipios y sus entidades observarán las disposiciones de éste Código.
+Para la realización de las operaciones de endeudamiento que requieran el aval del Gobierno del Estado, los municipios y sus entidades observarán las disposiciones de este Código, así como de las reglas establecidas en la Ley de Disciplina.
 
 Las operaciones de endeudamiento que realice el Estado, los municipios y sus entidades deberán sujetarse a los montos aprobados expresamente por el Congreso. Cuando se otorgue el aval del Estado, además, observarán las disposiciones que establezca la Secretaría.
 
@@ -4837,9 +4843,11 @@ En el presupuesto anual se señalarán los montos autorizados para las operacion
 
 ### CAPÍTULO SEGUNDO. DE LA CONTRATACIÓN DE LAS OPERACIONES DE ENDEUDAMIENTO
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 327.
 
-Las dependencias y entidades que requieran concertar alguna operación de endeudamiento o que intenten reestructurar obligaciones de deuda para proyectos relacionados con sus funciones, únicamente podrán hacerlo a través de la Secretaría; para ello, deberán solicitarlo, por escrito de su Titular, proporcionando sus programas financieros anuales y de mediano y largo plazo, así como toda aquella información que le sea solicitada.
+Las dependencias y entidades que requieran concertar alguna operación de endeudamiento o que intenten reestructurar obligaciones de deuda para proyectos relacionados con sus funciones, deberán contar con el visto bueno de la Secretaría; para ello, deberán solicitarlo, por escrito de su Titular, proporcionando sus programas financieros anuales y de mediano y largo plazo, así como toda aquella información que les sea solicitada.
 
 ###### Artículo 328.
 
@@ -4851,27 +4859,39 @@ II. Solicitar por escrito el consentimiento del Ejecutivo Estatal para que, en s
 
 III. La solicitud deberá acompañarse de toda la información que la Secretaría determine, presentando además, periódicamente y en la forma en que la Secretaría lo considere conveniente, los documentos que permitan determinar su capacidad de pago y la necesidad debidamente razonada del tipo de endeudamiento que se pretenda financiar con los recursos obtenidos.
 
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IV. Se cumpla con las reglas de contratación establecidas en la Ley de Disciplina.
+
 El manejo de los recursos provenientes de las operaciones contratadas, será supervisado por la Secretaría.
 
 ###### Artículo 329.
 
 Los titulares de las dependencias y entidades que administren recursos provenientes de la contratación de deuda pública, serán responsables del estricto cumplimiento de las disposiciones legales aplicables y de las directrices que determine la Secretaría.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 330.
 
-Las dependencias y entidades estatales presentarán periódicamente y en la forma que la Secretaría lo requiera, la información que permita determinar su capacidad de pago y la justificación del tipo de gasto que se pretenda financiar con los recursos obtenidos, justificando la necesidad de la contratación de deuda a partir de los beneficios que se obtendrán con los recursos del financiamiento.
+Las dependencias y entidades estatales, así como los Ayuntamientos y sus entes públicos, presentarán periódicamente y en la forma que la Secretaría lo requiera, la información que permita determinar su capacidad de pago y la justificación del tipo de gasto que se pretenda financiar con los recursos obtenidos, justificando la necesidad de la contratación de deuda a partir de los beneficios que se obtendrán con los recursos del financiamiento. Para el caso de los Ayuntamientos y sus entes públicos dichos informes serán únicamente para efectos de registro.
 
-El endeudamiento concertado en favor de las dependencias y entidades estatales, estará invariablemente calendarizado y se ajustará a las demás previsiones en materia de deuda pública y financiamiento.
+El endeudamiento concertado en favor de las dependencias y entidades estatales, así como los Ayuntamientos y sus entes públicos, estará invariablemente calendarizado y se ajustará a las demás previsiones en materia de deuda pública y financiamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 331.
 
-Cuando los municipios pretendan celebrar operaciones de financiamiento o la reestructuración de su deuda con el aval del Gobierno del Estado, deberán:
+Cuando los municipios pretendan celebrar operaciones de financiamiento o la reestructuración de su deuda con o sin el aval del Gobierno del Estado, deberán:
 
 I. Contar con la aprobación del Cabildo, en donde se otorgue la anuencia para afectar las participaciones que en ingresos federales les correspondan, así como para obtener el aval del Gobierno del Estado.
 
 II. Solicitar y obtener autorización del Congreso para contratar el empréstito y afectar las participaciones que en ingresos federales le correspondan, así como para obtener el aval del Gobierno del Estado.
 
 III. Gestionar el endeudamiento requerido, acompañando toda la información relativa a la necesidad, objeto y forma de pago.
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IV. Cumplir con las reglas establecidas en la Ley de Disciplina.
 
 Las entidades municipales al contratar operaciones de endeudamiento o reestructurar el servicio de su deuda con aval del Gobierno del Estado deberán de contar, además, con el acuerdo favorable de su órgano de Gobierno. El endeudamiento de las entidades municipales estará invariablemente calendarizado y se ajustará a las demás previsiones en materia de deuda pública y financiamiento.
 
@@ -5011,7 +5031,9 @@ Para la cancelación de la inscripción en el Registro Público de Deuda Estatal
 
 Las participaciones que corresponden al Estado y los Municipios son inembargables, no pueden afectarse para fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas con apego a lo dispuesto en este Código, a cargo del Estado o municipios, entidades estatales o municipales incluyendo las que provengan de la celebración de los contratos de prestación de servicios a que se refiere la Ley de Proyectos para la Prestación de Servicios para el Estado de Veracruz de Ignacio de la Llave, o de los fideicomisos bursátiles establecidos de conformidad con el artículo 175 del presente Código, que hayan requerido de afectación en pago, en garantía o en ambos, para la emisión de valores tales como bonos, obligaciones de deuda, certificados bursátiles y pagarés y la celebración de actos jurídicos análogos ante personas físicas o morales de nacionalidad mexicana.
 
-Las operaciones deberán estar debidamente inscritas en el registro de la Secretaría de Hacienda y Crédito Público, en el Registro Público de Deuda Estatal y, en su caso, en el Registro de Deuda Pública Municipal correspondiente, tratándose de adeudos avalados por el Estado.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Las operaciones deberán estar debidamente inscritas en el registro de la Secretaría de Hacienda y Crédito Público mencionado en la Ley de Disciplina y en el Registro Público de Deuda Estatal.
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
 
@@ -5462,3 +5484,39 @@ Segundo. El presente Decreto entrará a vigor por cuanto hace a su artículo SEG
 Tercero. En el caso de existir algún ingreso procedente de la recaudación del Impuesto Sobre Nóminas (ISN) que estuvo vigente hasta el 31 de diciembre del 2010, el mismo se destinará al Fideicomiso a que hace referencia el segundo párrafo del artículo 105 del Código 18 Financiero para el Estado de Veracruz de Ignacio de la Llave.
 
 Cuarto. Se deroga cualquier disposición que contravenga al presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 12 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado de Veracruz.
+
+Segundo. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+Tercero.- El porcentaje establecido en el artículo 9 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017; 5.0 por ciento para el año 2018; 7.5 por ciento para el año 2019, y a partir del año 2020 se observará el porcentaje establecido en el artículo citado.
+
+Cuarto.- La fracción I del artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+Quinto.- El porcentaje establecido en el artículo 12 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, relativo a los adeudos del ejercicio fiscal anterior del Estado, será del 5 por ciento para el ejercicio 2017; 4 por ciento para el 2018; 3 por ciento para el 2019, y a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+Sexto.- El registro de proyectos de inversión pública productiva del estado y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 13 fracción III, segundo párrafo y la fracción V segundo párrafo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, respectivamente, deberá estar en operación a más tardar el 1o. de enero de 2018.
+
+Séptimo. De la Información contenida en el tercer informe trimestral del gasto público del ejercicio 2016, emitido por la Secretaría de Finanzas y Planeación del Estado de Veracruz de Ignacio de la Llave se conoce la existencia de razones excepcionales que hacen necesaria la previsión de un balance presupuestario negativo para el ejercicio 2017, en los términos de lo dispuesto en los artículos 6 y 7 de del (sic) Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Octavo. Los ingresos excedentes derivados de ingresos de libre disposición a que hace referencia el artículo 14 fracción I de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores a partir de la entrada en vigor de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y hasta el ejercicio fiscal 2022.
+
+En lo correspondiente al último párrafo del artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, adicionalmente podrán destinarse a gasto corriente hasta el ejercicio 2018 los ingresos excedentes derivados de ingreso de libre disposición, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas previsto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Noveno. Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria de los Municipios a que se refiere el Capítulo II del Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del ejercicio fiscal 2018, con las salvedades previstas en el artículo 21 y el décimo primero transitorio de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+Décimo. A falta de disposición expresa en este Código, se aplicarán supletoriamente la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, la Ley General de Contabilidad Gubernamental y la Ley de Coordinación Fiscal y se estará a la interpretación de la Secretaría de Finanzas y Planeación del Estado para los efectos administrativos correspondientes.
+
+G.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 10 QUE DEROGA EL ARTÍCULO 105 DEL CÓDIGO FINANCIERO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
