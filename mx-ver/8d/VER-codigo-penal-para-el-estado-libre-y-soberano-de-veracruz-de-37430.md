@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2016-08-03"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1611,7 +1611,7 @@ Al responsable de este delito se le impondrán de seis meses a dos años de pris
 
 ### CAPÍTULO III. ABUSO SEXUAL
 
-> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 182.
 
@@ -1665,9 +1665,9 @@ En el caso previsto en la fracción IV, además de las sanciones arriba indicada
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 2 DE ABRIL DE 2010)</small>
 
-### CAPÍTULO V. ACOSO SEXUAL
+### CAPÍTULO V. ACOSO Y HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO Y REUBICADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 185 Bis.
 
@@ -1681,11 +1681,15 @@ En el caso previsto en la fracción IV, además de las sanciones arriba indicada
 
 ###### Artículo 186.
 
-A quien, sin el consentimiento de una persona mayor de dieciocho años y sin el propósito de llegar a la cópula, ejecute en ella un acto erótico-sexual o la haga ejecutarlo, se le impondrán de uno a seis años de prisión y multa de hasta cien días de salario.
+A quien, sin el consentimiento de una persona mayor de dieciocho años y sin el propósito de llegar a la cópula, ejecute en ella actos sexuales o la haga ejecutarlo, se le impondrán de uno a seis años de prisión y multa de hasta cien días de salario mínimo.
+
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 Si la víctima fuere incapaz de comprender el significado del hecho o por cualquier causa no pudiere resistir, se impondrán prisión de cinco a diez años y multa de hasta doscientos cincuenta días de salario.
 
-Un roce o tocamiento accidental no constituye abuso erótico-sexual.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Un roce o tocamiento accidental, no constituye abuso sexual.
 
 > <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -1723,7 +1727,7 @@ II. Si el activo del delito excede en más de cinco años pero en menos de siete
 
 Este delito se perseguirá por querella.
 
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO III. PORNOGRAFÍA
 
@@ -1731,23 +1735,27 @@ Este delito se perseguirá por querella.
 
 ###### Artículo 190.
 
-A quien, con fines lascivos, acose u hostigue reiteradamente a una persona de cualquier sexo, se le impondrán de seis meses a tres años de prisión y multa de hasta trescientos días de salario.
+Comete el delito de acoso sexual, quien, con fines lascivos, acose reiteradamente a una persona de cualquier sexo, se le impondrán de seis meses a tres años de prisión y multa de hasta trescientos días de salario.
+
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 Cuando la víctima sea menor de dieciocho años, se impondrá una pena de uno a siete años de prisión y multa de hasta quinientos días de salario.
 
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 190 Bis.
 
-Cuando el sujeto activo de este delito se valga de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas o cualquiera otra condición que implique subordinación de la víctima, se le impondrán de uno a cinco años de prisión y multa de hasta trescientos días de salario. Si el acosador fuere servidor público y utilizare los medios y las circunstancias que su encargo le proporcione, será destituido y se le inhabilitará para ocupar otro empleo o comisión públicos, hasta por cinco años.
+Comete el delito de hostigamiento sexual, quien, con fines lascivos, asedie, a una persona de cualquier sexo, valiéndose de su posición jerárquica o de poder, derivada de sus relaciones laborales, docentes, domésticas, religiosas, o cualquier otra condición que implique subordinación a la víctima, se le impondrán de uno a cinco años de prisión y multa de hasta trescientos días de salario.
+
+Si el acosador fuere servidor público y utilizare los medios y las circunstancias que su encargo le proporcione, será destituido y se le inhabilitará para ocupar otro empleo o comisión públicos, hasta por cinco años.
 
 Cuando la víctima sea menor de dieciocho años, se impondrá una pena de dos a ocho años de prisión y multa de hasta mil días de salario.
 
-> <small>(ADICIONADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 190 Ter.
 
-El delito de acoso sexual se perseguirá por querella.
+Los delitos de acoso y hostigamiento sexual se perseguirán por querella.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -4305,7 +4313,7 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 29 DE ABRIL DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 865 QUE REFORMA EL ARTÍCULO 86 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 865 QUE REFORMA EL ARTÍCULO 86 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
@@ -4319,27 +4327,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARAN REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LOS ARTÍCULOS 107 Y 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE JUSTICIA LABORAL”.]
+G.O. 30 DE DICIEMBRE DE 2016.
 
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 231 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-Segundo. El Congreso de la Unión y las legislaturas de las entidades federativas deberán realizar las adecuaciones legislativas que correspondan para dar cumplimiento a lo previsto en el presente Decreto, dentro del año siguiente a la entrada en vigor del mismo.
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
-Tercero. En tanto se instituyen e inician operaciones los tribunales laborales, los Centros de Conciliación y el organismo descentralizado a que se refiere el presente Decreto, de conformidad con el transitorio anterior, las Juntas de Conciliación y Arbitraje y, en su caso, la Secretaría del Trabajo y Previsión Social o las autoridades locales laborales, continuarán atendiendo las diferencias o conflictos que se presenten entre el capital y el trabajo y sobre el registro de los contratos colectivos de trabajo y de organizaciones sindicales.
-
-Los Tribunales Colegiados de Circuito del Poder Judicial de la Federación continuarán conociendo de los amparos interpuestos en contra de los laudos emitidos por las referidas Juntas en términos de lo previsto por la fracción V del artículo 107 de esta Constitución.
-
-Los asuntos que estuvieran en trámite al momento de iniciar sus funciones los tribunales laborales, los Centros de Conciliación y el organismo descentralizado a que se refiere el presente Decreto, serán resueltos de conformidad con las disposiciones aplicables al momento de su inicio.
-
-Cuarto. Dentro del plazo a que se refiere el artículo segundo transitorio de este Decreto, el Ejecutivo Federal someterá a la Cámara de Senadores la terna para la designación del titular del organismo descentralizado que se encargará de atender los asuntos relacionados con el registro de contratos colectivos de trabajo y organizaciones sindicales.
-
-Quinto. En cualquier caso, los derechos de los trabajadores que tienen a su cargo la atención de los asuntos a que se refiere el primer párrafo del artículo tercero transitorio, se respetarán conforme a la ley.
-
-Sexto. Las autoridades competentes y las Juntas de Conciliación y Arbitraje deberán transferir los procedimientos, expedientes y documentación que, en el ámbito de sus respectivas competencias, tengan bajo su atención o resguardo a los tribunales laborales y a los Centros de Conciliación que se encargarán de resolver las diferencias y los conflictos entre patrones y trabajadores.
-
-Asimismo, las autoridades competentes y las Juntas de Conciliación y Arbitraje deberán transferir los expedientes y documentación que, en el ámbito de sus respectivas competencias tengan bajo su atención o resguardo, al organismo descentralizado que se encargará de atender los asuntos relacionados con el registro de contratos colectivos de trabajo y organizaciones sindicales.
-
-D.O.F. 15 DE SEPTIEMBRE DE 2017.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 16, 17 Y 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE JUSTICIA COTIDIANA (SOLUCIÓN DE FONDO DEL CONFLICTO Y COMPETENCIA LEGISLATIVA SOBRE PROCEDIMIENTOS CIVILES Y FAMILIARES)”.]
 
