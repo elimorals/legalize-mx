@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11260
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2016-11-25"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 3 de junio de 2015.
 
@@ -729,6 +729,10 @@ IV. Desarrollar campañas permanentes de sensibilización de los derechos de ni�
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo integral.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Asimismo, quienes tengan trato con niñas, niños y adolescentes deberán abstenerse de ejercer cualquier tipo de violencia en su contra, en específico castigo corporal.
+
 ###### ARTÍCULO 62.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
@@ -1069,7 +1073,9 @@ VII. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, 
 
 VIII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, trata de personas y explotación;
 
-IX. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IX. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral; en específico castigo corporal. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
 
 X. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de la familia;
 
@@ -1171,7 +1177,9 @@ VIII. Espacios de participación para expresar libremente sus ideas y opiniones 
 
 IX. Actividades externas que les permita tener contacto con su comunidad.
 
-Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes; así como cualquier tipo de violencia en su contra, en específico castigo corporal.
 
 De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos.
 
@@ -1705,7 +1713,9 @@ Son infracciones a la presente Ley, las acciones u omisiones de los servidores p
 
 I. Impidan a alguna niña, niño o adolescente, el ejercicio de algún derecho o nieguen la prestación del servicio al que están obligados;
 
-II. En el ejercicio de sus funciones o actividades o con motivo de ellas conozcan de la violación de algún derecho a alguna niña, niño o adolescente e indebidamente se abstengan de hacerlo del conocimiento de la autoridad competente, en términos de lo dispuesto en el artículo 11 de esta Ley y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+II. En el ejercicio de sus funciones o actividades o con motivo de ellas conozcan de la violación de algún derecho a alguna niña, niño o adolescente e indebidamente se abstengan de hacerlo del conocimiento de la autoridad competente, en términos de lo dispuesto en el artículo 11 de esta Ley y demás ordenamientos aplicables; o realicen cualquier acto de violencia en su contra, en específico castigo corporal;
 
 III. Propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes, y
 
@@ -1792,3 +1802,11 @@ P.O. 25 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 98 FRACCIÓN IX, 104 PÁRRAFO TERCERO Y 142 FRACCIÓN II, Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 61, TODOS DE LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE PUEBLA, ASÍ COMO REFORMA EL ARTÍCULO 608 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
