@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-44-de-coordinacion-fiscal-para-el-estado-y-los-15983
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2016-06-28"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 44 DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 30 de diciembre de 1999.
 
@@ -36,8 +36,6 @@ Que la H. Legislatura del Estado se ha servido dirigirme la siguiente Ley para s
 Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
 
 "La Honorable Quincuagésima Octava Legislatura del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 68, fracción I de la Constitución Política Local; 44 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo y en nombre del pueblo, expide la siguiente:
-
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 918, PUBLICADO EN LA G.O. 15 DE AGOSTO DE 2007, SE MODIFICA EL NOMBRE DEL MUNICIPIO DE TEMAPACHE POR EL DE ÁLAMO TEMAPACHE. EN CONSECUENCIA, LAS DISPOSICIONES LEGALES QUE SE REFIERAN A ESTE MUNICIPIO ÚNICAMENTE COMO TEMAPACHE SE ENTENDERÁN REFERIDOS AL MISMO CON SU NUEVO NOMBRE DE "ÁLAMO TEMAPACHE".</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN POR ARTÍCULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NÚMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -1229,7 +1227,7 @@ MADERO 0.00208161445
 
 84. IXHUATLAN
 
-EL CAFE 0.00253642040
+DEL CAFE 0.00253642040
 
 85. IXHUATLAN DEL
 
@@ -1347,7 +1345,7 @@ AMATLAN 0.00363653972
 
 132. PEROTE 0.00354864338
 
-133. PLATON SANCHE 0.00201720255
+133. PLATON SANCHEZ 0.00201720255
 
 134. PLAYA VICENTE 0.00451235289
 
@@ -1523,11 +1521,11 @@ HIDALGO 0.00157628307
 
 TOTAL 1.00000000000
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Artículo Tercero. Para el ejercicio fiscal del año 2016, los fondos de participaciones que establecen los artículos 9 y 14 de esta Ley, el Fondo de Compensación del Impuesto Sobre Automóviles Nuevos, los Fondos de Fiscalización y el Fondo de Extracción de Hidrocarburos se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2015, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
+Artículo tercero. Para el ejercicio fiscal del año 2017, los fondos de participaciones que establecen los artículos 9 y 14 de esta Ley, el Fondo de Compensación del Impuesto sobre Automóviles Nuevos, los Fondos de Fiscalización y el Fondo de Extracción de Hidrocarburos se distribuirán a los municipios mediante la aplicación de los factores vigentes en 2016, en sustitución de los porcentajes referidos en el artículo 10 de este mismo ordenamiento.
 
-La recaudación derivada de la aplicación de la Ley del Impuesto Especial sobre Producción y Servicios al consumo de gasolina y diesel, en su porcentaje correspondiente al 9/11, se distribuirá a los municipios de la Entidad en 70% con base en el factor de distribución del Fondo de Aportaciones para el Fortalecimiento de los Municipios y las Demarcaciones Territoriales del Distrito Federal (FORTAMUNDF) y en 30% con base en el Fondo de Infraestructura Social Municipal (FISM) vigentes en 2015.
+La recaudación derivada de la aplicación de la Ley del Impuesto Especial sobre Producción y Servicios al consumo de gasolina y diesel, en su porcentaje correspondiente al 9/11, se distribuirá a los municipios de la Entidad en 70% con base en el factor de distribución del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal (FORTAMUNDF) y en 30% con base en el Fondo de Infraestructura Social Municipal (FISM) vigentes en 2016.
 
 Artículo cuarto. (DEROGADO, G.O. 9 DE JUNIO DE 2008)
 
@@ -1712,6 +1710,14 @@ Se abroga la Ley Reglamentaria para Establecimientos de Bebidas Alcohólicas con
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo Segundo. Se deroga cualquier disposición que contravenga el presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 9 QUE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO Y LOS MUNICIPIOS DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor el día 1° de enero de 2017, previa su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### ARTICULO PRIMERO.
 
