@@ -4,7 +4,7 @@ identifier: "VER-ley-del-ejercicio-profesional-para-el-estado-de-veracruz-de-910
 country: "mx"
 rank: "ley"
 publication_date: "1963-12-24"
-last_updated: "2013-02-07"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 24 de diciembre de 1963.
 
@@ -345,7 +345,7 @@ Para los efectos a que se contrae la fracción VII del artículo 17 de esta Ley,
 
 ### CAPITULO VI. DE LOS COLEGIOS DE PROFESIONALES
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE JULIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE JULIO DE 2002)</small>
 
 ###### ARTICULO 36.
 
@@ -421,11 +421,11 @@ l).- Gestionar el registro de los títulos de sus componentes.
 
 ### CAPITULO VII. DEL SERVICIO SOCIAL OBLIGATORIO
 
-> <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 43.
 
-Para los efectos de esta Ley se entiende por Servicio Social la actividad de carácter temporal que en beneficio de la colectividad prestan los estudiantes y pasantes de las distintas profesiones a que la misma se refiere, podrá ser presencial o a distancia en línea.
+Para los efectos de esta Ley se entiende por Servicio Social la actividad de carácter temporal que en beneficio de la colectividad prestan los estudiantes y pasantes de las distintas profesiones a que la misma se refiere, podrá ser presencial o a distancia en línea, y será considerado como experiencia laboral.
 
 > <small>(REFORMADO, G.O. 7 DE FEBRERO DE 2013)</small>
 
@@ -613,7 +613,7 @@ MARIANO RAMOS ZARRABAL.- Diputado Presideinte (sic).- ING. ARMANDO CARDEL AGUILA
 
 Jalapa-Enríquez, Ver., a 20 de diciembre de 1963. Sub Secretario de Gobierno Enc. de la Secretaría, Lic. LORENZO J. CASARIN U.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 28 DE NOVIEMBRE DE 1964. (REPUBLICADA, G.O. 3 DE DICIEMBRE DE 1964)
 
@@ -680,3 +680,11 @@ DECRETO No. 817, POR EL QUE SE REFORMA EL ARTICULO 2 DE LA LEY DEL EJERCICIO PRO
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 228 QUE REFORMA EL ARTÍCULO 43 DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
