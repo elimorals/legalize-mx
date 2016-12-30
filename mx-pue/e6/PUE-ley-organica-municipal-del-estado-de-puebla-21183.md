@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2016-08-01"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1054,6 +1054,14 @@ Si el suplente, por cualquier motivo no se presentase, el Congreso del Estado de
 d) La falta absoluta de algún Regidor electo por el principio de representación proporcional, deberá ser cubierta por su suplente, y a falta de éste, por aquel candidato del mismo partido político que siga en el orden de la lista, después de habérsele asignado los Regidores que le hubieren correspondido.
 
 No se considerará como falta la ausencia de un Regidor o del Síndico propiciada por la negativa de incorporación por parte del Presidente Municipal o de los miembros del Cabildo, o por la falta de convocatoria a la sesión respectiva.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 52 BIS.- El Presidente Municipal, Regidor o Síndico Municipal con licencia que comunique su reincorporación al ejercicio de su cargo, presentará escrito firmado y dirigido al Ayuntamiento respectivo. El Presidente Municipal lo comunicará en la sesión siguiente.
+
+En el supuesto de que el suplente se encuentre en funciones, el Presidente Municipal le comunicará de inmediato la reincorporación del propietario.
+
+Quienes se reincorporen ejercerán sus funciones el mismo día de la presentación de su escrito, sin menoscabo de sus derechos, prerrogativas y obligaciones.
 
 ###### ARTÍCULO 53.
 
@@ -2591,15 +2599,21 @@ Los Tesoreros Municipales serán responsables de las erogaciones que efectúen f
 
 ### CAPÍTULO XVI. DE LA CONTRALORÍA MUNICIPAL
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 168.
 
-Cada Municipio contará con una Contraloría Municipal, la cual tendrá las funciones de contraloría interna del Municipio, la que estará a cargo de un Contralor Municipal, quien deberá cumplir los mismos requisitos señalados para el Secretario del Ayuntamiento, será nombrado y removido por el Ayuntamiento, a propuesta del Presidente Municipal, y remunerado de acuerdo con el presupuesto respectivo.
+Cada Municipio contará con una Contraloría Municipal, la cual tendrá las funciones y facultades de un órgano interno de control en el Municipio, estará a cargo de un Contralor Municipal, quien deberá cumplir los mismos requisitos señalados para el Secretario del Ayuntamiento, será nombrado y removido por el Ayuntamiento, a propuesta del Presidente Municipal y será remunerado de acuerdo con el presupuesto respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2001)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 169.
 
-El Contralor Municipal, en el ámbito de su competencia, tendrá las siguientes facultades y obligaciones:
+El Contralor Municipal, en el ámbito de su competencia, tendrá las facultades y obligaciones siguientes:
 
 I.- Planear, organizar y coordinar el Sistema de Control y Evaluación Municipal;
 
@@ -2609,7 +2623,23 @@ III.- Vigilar el correcto uso del patrimonio municipal;
 
 IV.- Formular al Ayuntamiento propuestas para que en el estatuto o reglamento respectivo se expidan, reformen o adicionen las normas reguladoras del funcionamiento, instrumentos y procedimientos de control de la Administración Pública Municipal;
 
-V.- Vigilar el cumplimiento de las normas de control y fiscalización de las dependencias municipales;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+V.- Vigilar el cumplimiento de las normas de control y fiscalización de las dependencias y entidades municipales;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+V Bis.- Dar estricto cumplimiento a los lineamientos, bases, políticas, metodologías, principios, recomendaciones, requerimientos y demás instrumentos que emitan los Comités Coordinadores de los Sistemas Nacional y Estatal Anticorrupción, así como el Comité Rector del Sistema Nacional de Fiscalización;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+V Ter.- Proporcionar de manera inmediata a la autoridad que lo requiera, la información, documentación o cualquier otro elemento relacionado con faltas administrativas o hechos de corrupción;
 
 VI.- Designar y coordinar a los Comisarios que intervengan en las entidades municipales;
 
@@ -2631,9 +2661,29 @@ XIII.- Verificar el cumplimiento de las obligaciones de proveedores y contratist
 
 XIV.- Emitir opinión sobre proyectos de sistemas de contabilidad y control en materia de programación, presupuestos, administración de recursos humanos, materiales y financieros, contratación de deuda y manejo de fondos y valores que formule la Tesorería Municipal;
 
-XV.- Informar cuando lo requiera el Presidente Municipal o el Síndico, sobre el resultado de la evaluación, y responsabilidades, en su caso, de los servidores públicos municipales;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XVI.- Recibir y registrar, sin perjuicio de lo que dispongan otros ordenamientos, las declaraciones patrimoniales de servidores públicos municipales, que conforme a la ley están obligados a presentar, así como investigar la veracidad e incremento ilícito correspondientes;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XV.- Informar cuando lo requiera el Secretario de la Contraloría del Estado, el Presidente Municipal, o el Síndico, sobre el resultado de la evaluación, y responsabilidades, en su caso, de los servidores públicos municipales;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Recibir y registrar, sin perjuicio de lo que dispongan otros ordenamientos, las declaraciones patrimoniales, de conflicto de intereses y, en su caso, la constancia de presentación de declaración fiscal anual de los servidores públicos municipales, que conforme a la ley están obligados a presentar, así como investigar la veracidad e incremento ilícito correspondientes;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XVI Bis.- Remitir, en el plazo, forma y términos que le soliciten las autoridades competentes la información relativa a los instrumentos de rendición de cuentas previstos en la Ley de Responsabilidades Administrativas del Estado de Puebla;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XVI Ter.- Proporcionar de manera puntual y oportuna la información relativa a las Plataformas Digital Nacional y Estatal en los términos que le sean requeridos;
 
 XVII.- Atender las quejas, denuncias y sugerencias de la ciudadanía, relativas al ámbito de su competencia;
 
@@ -2645,9 +2695,29 @@ XX.- Participar en la entrega-recepción de las dependencias y entidades del Mun
 
 XXI.- Vigilar que el inventario general de los bienes municipales sea mantenido conforme a lo dispuesto por la presente Ley;
 
-XXII.- Sustanciar el procedimiento administrativo de determinación de responsabilidades en contra de los servidores públicos municipales, de acuerdo a la ley en la materia; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXIII.- Las demás que le confieran esta Ley y disposiciones aplicables.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXII.- Investigar, calificar, sustanciar y resolver el procedimiento administrativo de determinación de responsabilidades en contra de los servidores públicos municipales, en el caso de faltas administrativas no graves de acuerdo a la ley de la materia;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXII Bis.- Investigar, calificar y sustanciar el procedimiento administrativo de responsabilidades en contra de los servidores públicos municipales o particulares en el caso de faltas administrativas graves de acuerdo a la ley de la materia;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXII Ter.- Remitir, previa sustanciación, en el caso de faltas administrativas graves, el expediente respectivo al Tribunal de Justicia Administrativa del Estado y a la Fiscalía Especializada de Combate a la Corrupción; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXIII.- Las demás que le confieran esta Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 170.
 
@@ -3884,3 +3954,23 @@ P.O. 1 DE AGOSTO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA EL ARTÍCULO 52 BIS A LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En un plazo no mayor a ciento ochenta días, los doscientos diecisiete Ayuntamientos del Estado, deberán modificar su reglamentación para cumplir con lo dispuesto en el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día 19 de julio de 2017.
+
+SEGUNDO. Una vez en vigor la Ley General de Responsabilidades Administrativas y hasta en tanto el Comité Coordinador del Sistema Nacional Anticorrupción determina los formatos para la presentación de las declaraciones patrimonial y de intereses, los servidores públicos municipales presentarán sus declaraciones en los formatos que, a la entrada en vigor de la referida Ley General, se utilicen en el ámbito federal.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
