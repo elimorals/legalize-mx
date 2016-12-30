@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2016-09-20"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3147,9 +3147,11 @@ II.- Al que, para eludir la práctica de una diligencia decretada por una autori
 
 III.- Al funcionario o empleado público, que en los actos propios de su cargo, atribuyere a una persona título o nombre, a sabiendas de que no le pertenecen.
 
-#### SECCION PRIMERA.- ATAQUES AL PUDOR
+#### SECCIÓN PRIMERA.- ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 258.
 
@@ -3183,7 +3185,9 @@ Para los efectos del presente ordenamiento, se considerará como Servidor Públi
 
 #### SECCION SEGUNDA.- ESTUPRO
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 259.
 
@@ -3191,39 +3195,47 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 ### CAPITULO UNDECIMO.- DELITOS SEXUALES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 #### SECCION TERCERA.- VIOLACION
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 260.
 
-Comete el delito de ataques al pudor quien sin el propósito de llegar a la cópula y sin el consentimiento de una persona mayor o menor de doce años, o con consentimiento de esta última, ejecutare en ella o le hiciere ejecutar un acto erótico sexual, o la obligue a observarlo.
+Comete el delito de abuso sexual quien, sin el propósito de llegar a la cópula:
+
+I. Ejecutare en una persona mayor de catorce años de edad o le hiciere ejecutar un acto erótico sexual, sin su consentimiento o la obligue a observarlo, y
+
+II. Ejecutare en una persona o le hiciere ejecutar un acto erótico sexual, o la haga observarlo aun con su consentimiento, tratándose de menor de catorce años de edad o en otra circunstancia de desigualdad o sumisión de la víctima respecto al victimario que le impida oponer resistencia.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 261.
 
-Al responsable de un delito de ataques al pudor se le impondrán:
+Al responsable de un delito de abuso sexual se le impondrán:
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+I.- Prisión de un mes a un año y multa de dos a veinte Unidades de Medida y Actualización, si el sujeto pasivo es mayor de catorce años y el delito se cometió sin su consentimiento;
 
-I.- Prisión de un mes a un año y multa de dos a veinte días de salario, si el sujeto pasivo es mayor de doce años y el delito se cometió sin su consentimiento;
+II.- Si el sujeto pasivo del delito fuere persona menor de catorce años o se encontrare en otra circunstancia de desigualdad o sumisión de la víctima respecto al victimario que le impida oponer resistencia, estuviere privada de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia, se presumirá la violencia y la sanción será de uno a cinco años de prisión y multa de veinte a doscientas Unidades de Medida y Actualización, se haya ejecutado el delito con o sin su consentimiento, debiéndose aumentar hasta en otro tanto igual las sanciones, si el delito fuere cometido con intervención de dos o más personas, y
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
-
-II.- Si el sujeto pasivo del delito fuere persona menor de doce años, estuviera privada de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia, se presumirá la violencia y la sanción será de uno a cinco años de prisión y multa de veinte a doscientos días de salario, se haya ejecutado el delito con o sin su consentimiento, debiéndose aumentar hasta en otro tanto igual las sanciones, si el delito fuere cometido con intervención de dos o más personas, y
-
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
-
-III.- Cuando el sujeto pasivo sea mayor de doce años y el delito se ejecute con violencia física o moral, se impondrán al responsable de seis meses a cuatro años de prisión y multa de diez a cien días de salario, sanciones que se aumentarán hasta en otro tanto igual, si el delito fuere cometido con intervención de dos o más personas.
+III.- Cuando el sujeto pasivo sea mayor de catorce años y el delito se ejecute con violencia física o moral, se impondrán al responsable de seis meses a cuatro años de prisión y multa de diez a cien Unidades de Medida y Actualización, sanciones que se aumentarán hasta en otro tanto igual, si el delito fuere cometido con intervención de dos o más personas.
 
 ###### Artículo 262.
 
 (DEROGADO, P.O. 1 DE JULIO DE 1994)
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 263.
 
-El delito de ataques al pudor se considerará siempre como delito consumado y se perseguirá a petición de parte, salvo que el sujeto pasivo estuviere en alguno de los supuestos previstos en la fracción II del artículo 261, en cuyo caso se perseguirá de oficio.
+El delito de abuso sexual se considerará siempre como delito consumado y se perseguirá a petición de parte, salvo que el sujeto pasivo sea menor de edad o estuviere en alguno de los supuestos previstos en la fracción II del artículo 261, en cuyo caso se perseguirá de oficio.
 
 #### SECCION CUARTA.- RAPTO
 
@@ -3231,19 +3243,29 @@ El delito de ataques al pudor se considerará siempre como delito consumado y se
 
 ###### Artículo 264.
 
-Al que tenga cópula con persona mayor de doce años de edad pero menor de dieciocho, empleando la seducción o el engaño para alcanzar su consentimiento, se sancionará con prisión de dos a ocho años y multa de cien a trescientos cincuenta días de salario.
+Al que tenga cópula con persona mayor de catorce años de edad pero menor de dieciocho, empleando la seducción o el engaño para alcanzar su consentimiento, se sancionará con prisión de dos a ocho años y multa de cien a trescientos cincuenta Unidades de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 23 DE MARZO DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 265.
 
-Cuando la persona estuprada fuere menor de quince años de edad se presumirá la seducción o el engaño.
+El estupro se sancionará:
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2000)</small>
+I.- Si el sujeto activo no es mayor de tres años en referencia a la víctima, con prisión de seis meses a tres años y multa de cincuenta a ciento cincuenta Unidades de Medida y Actualización;
+
+II.- Si el sujeto activo es mayor de tres años en referencia a la víctima, con prisión de dos a ocho años y multa de cien a trescientos cincuenta Unidades de Medida y Actualización, y
+
+III.- Si además de ser mayor de tres años en referencia a la víctima, es su pariente por consanguinidad, afinidad o civil; su tutor, curador o tenga alguna representación sobre ella, habite en su mismo domicilio, sea su docente, consejero espiritual, o de alguna forma ejerza influencia moral, física, psicológica o económica en la víctima, se sancionará con prisión de cinco a diez años y multa de cien a trescientos cincuenta Unidades de Medida y Actualización.
+
+En las fracciones II y III se presumirá la seducción o el engaño.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### Artículo 266.
 
-No se procederá contra el estuprador, sino por queja del ofendido, de sus padres o a falta de éstos, de sus representantes.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2016)
 
 #### SECCIÓN QUINTA.- DISPOSICIÓN COMÚN AL ESTUPRO Y VIOLACIÓN
 
@@ -3329,13 +3351,19 @@ Se equipara a la violación:
 
 I.- La cópula con persona privada de razón o de sentido, o que por enfermedad o cualquier otra causa, no pudiera resistir;
 
-II.- La cópula con persona menor de doce años de edad; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+II.- La cópula con persona menor de catorce años de edad, y
 
 III.- La introducción en una persona, por vía anal o vaginal, de cualquier objeto distinto al miembro viril, usando violencia física o moral.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-En los casos previstos en las fracciones I y II, se impondrá al autor del delito, de diez a cuarenta años de prisión y multa de ciento veinte a mil doscientos días de salario. En el caso de la fracción III la sanción será la establecida en el artículo 267 de este ordenamiento legal.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+En los casos previstos en las fracciones I y II, se impondrá al autor del delito, de diez a cuarenta años de prisión y multa de ciento veinte a mil doscientas Unidades de Medida y Actualización. En el caso de la fracción III la sanción será la establecida en el artículo 267 de este ordenamiento legal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3379,7 +3407,9 @@ En los casos previstos en las fracciones I y II, se impondrá al autor del delit
 
 #### SECCIÓN SÉPTIMA. DISPOSICIONES COMUNES A DELITOS SEXUALES
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 278.
 
@@ -3433,7 +3463,7 @@ En los supuestos a que se refiere el artículo anterior, los delitos se persegui
 
 ###### Artículo 278 Octies.
 
-Cualquier persona que tenga conocimiento de la comisión del delito de violación, acoso sexual o ataques al pudor a niños menores de doce años y no acuda a la autoridad competente para denunciar el hecho y evitar la continuación de la conducta, será castigada de dos a siete años de prisión.
+Cualquier persona que tenga conocimiento de la comisión del delito de violación, acoso sexual, o abuso sexual a niños menores de catorce años y no acuda a la autoridad competente para denunciar el hecho y evitar la continuación de la conducta será castigada de dos a siete años de prisión.
 
 #### SECCION TERCERA.- SUSTRACCION Y TRAFICO DE MENORES
 
@@ -3983,9 +4013,9 @@ Cuando el homicidio se cometiere en riña o duelo, se impondrá al responsable u
 
 #### SECCION SEXTA.- HOMICIDIO EN RAZON DEL PARENTESCO O RELACION
 
-> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 318.
 
@@ -4125,9 +4155,11 @@ El que pudiendo impedir un suicidio, no lo impida o no lo evite, o impidiere que
 
 ###### Artículo 336.
 
-Se configura el delito de homicidio en razón de parentesco o relación, al privar de la vida a un o una ascendiente o descendiente, hermano o hermana, un o una adoptante, adoptado o adoptada, con conocimiento del parentesco; o al cónyuge, concubino, amasio o novio.
+Se configura el delito de homicidio en razón de parentesco o relación, al privar de la vida a un ascendiente o descendiente, hermano, adoptante, adoptado, con conocimiento del parentesco; o al cónyuge, concubino, amasio o novio.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 1994)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 337.
 
@@ -4155,15 +4187,37 @@ III.- Cuando existan datos que establezcan en la víctima, lesiones o mutilacion
 
 IV.- Que existan antecedentes o datos de violencia en el ámbito familiar, laboral, escolar o cualquier otro del sujeto activo en contra de la víctima;
 
-V.- Que exista o se tengan datos de antecedentes de violencia en una relación de matrimonio, concubinato, amasiato o noviazgo entre el sujeto activo y la víctima;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VI.- Que empleando la perfidia aproveche la relación sentimental, afectiva o de confianza entre el activo y la víctima;
+V.- (DEROGADA, P.O. 30 DE DICIEMBRE DE 2016)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VI.- Haya existido entre el activo y la víctima una relación sentimental, afectiva o de confianza;
+
+Se presumirá que existió una relación sentimental entre el activo y la víctima cuando sea o haya sido concubina, amasia o novia, del sujeto activo o que ésta haya tenido una relación de hecho por la cual vivieran juntos o relaciones sexuales estables o de forma casual.
 
 VII.- Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
 
-VIII.- Que la víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida; o
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IX.- Que el cuerpo de la víctima sea expuesto o exhibido en un lugar público.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Que la víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IX.- Que el cuerpo de la víctima sea expuesto o exhibido en un lugar público, o
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+X.- Que la víctima tenga parentesco con el victimario.
 
 > <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -6450,3 +6504,11 @@ P.O. 20 DE SEPTIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los diez días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas disposiciones que se opongan al presente Decreto.
