@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2016-11-07"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -22099,9 +22099,7 @@ VI. LOCAL: Puestos fijos ubicados en el interior de los mercados en los cuales s
 
 VII. COMERCIANTE DE MERCADO TEMPORAL: Al vendedor semifijo que cuente con la autorización y permiso expedido por el Departamento de Concertación de Espacios Públicos, para la comercialización en un Mercado Temporal; y
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-VIII. COMERCIANTE DE MERCADO DE ANTIGÜEDADES: Al vendedor semifijo que cuente con la autorización y permiso expedido por el Departamento de Concertación de Espacios Públicos, para comercializar en un Mercado de Antigüedades.
+VIII. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2016)
 
 ###### Artículo 1401.
 
@@ -22113,9 +22111,7 @@ II. De apoyo: Cuando se constituyan bajo el régimen de propiedad en Condominio 
 
 III. Temporales: Los autorizados por el Cabildo Municipal, autoridad ésta que determinará los espacios dentro del Municipio, así como los días y horas donde puedan establecerse.
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
-IV. De Antigüedades: Espacio autorizado por el Cabildo Municipal dentro del perímetro denominado Zona de Monumentos, cuya actividad consiste en el comercio de mercancías consideradas como antigüedades.
+IV. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2016)
 
 ###### Artículo 1402.
 
@@ -22299,57 +22295,17 @@ Si se determina viable la petición ésta se turnará al Cabildo para su aprobac
 
 MERCADOS DE ANTIGÜEDADES
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
-
 ###### Artículo 1424 Bis.
 
-Es Mercado de Antigüedades:
-
-El Mercado de Los Sapos.
-
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2016)
 
 ###### Artículo 1424 Ter.
 
-Para comercializar en un Mercado de Antigüedades, los interesados deberán cubrir los siguientes requisitos, ante el Departamento de Concertación de Espacios Públicos:
-
-I. Solicitud por escrito dirigido al Departamento de Concertación de Espacios Públicos de la Secretaría de Gobernación Municipal;
-
-II. Para Persona Física identificación Oficial y para Persona Moral acta constitutiva;
-
-III. Croquis de localización de donde se desea ejercer la actividad;
-
-IV. Señalar qué tipo de mercancías se pretenden comercializar, observando lo dispuesto por el artículo 1424 Quater fracción III del presente Capítulo;
-
-V. El mobiliario se sujetará a la imagen permitida por la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticas e Históricas; y
-
-VI. Fianza por la cantidad que a juicio de la autoridad competente, garantice que al fenecimiento de la autorización correspondiente, se realice la limpieza total del lugar donde se hubiere instalado.
-
-La autoridad, previa comprobación de que el lugar donde se instaló el Mercado de Antigüedades se encuentra debidamente aseado, devolverá la cantidad de dinero que hubiere sido entregada para cumplimiento de esta fracción.
-
-La respuesta a la solicitud se otorgará en un plazo no mayor a diez días hábiles posteriores al día en que se presente la solicitud, pudiendo ser negada por escrito debidamente fundado y motivado, debiendo notificarse la resolución al solicitante. En caso de no dar contestación por escrito en el término de referencia, la autoridad competente incurrirá en responsabilidad administrativa.
-
-La Comisión de Gobernación del Honorable Ayuntamiento, deberá observar que los permisos se entreguen como lo establece el presente Capítulo, de conformidad con la atribución que tienen los Regidores de Inspección y Vigilancia, contenida en el artículo 92 fracción I de la Ley Orgánica Municipal del Estado de Puebla.
-
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2016)
 
 ###### Artículo 1424 Quater.
 
-El Mercado de Los Sapos tiene las siguientes características:
-
-I. Se ubica en la Calle 6 Sur, entre las Calles 5 y 7 Oriente, y Calle 5 Oriente, entre Boulevard 5 de Mayo y Calle 4 Sur;
-
-II. Los días autorizados para la comercialización serán los sábados, domingos, 5 y 6 de Enero, Semana Santa (la que corresponda de acuerdo al calendario), 15 y 16 de Septiembre, 1 y 2 de Noviembre, 24 y 25 de Diciembre de cada año;
-
-III. Para los comerciantes del Mercado de Antigüedades de Los Sapos queda prohibido el comercio de alimentos, bebidas de todo tipo, productos nuevos manufacturados, artículos que atenten contra los derechos de autor y la propiedad industrial, así como el uso de aparatos generadores de sonido, permitiéndose sólo la comercialización de Antigüedades, entendiéndose a los objetos que pertenecen a una época pasada apreciados por su arte, la artesanía, la rareza y la edad, debiendo tener un valor histórico que proporciona identidad en los años anteriores;
-
-IV. El horario permitido será de las 9:00 a las 20:00 horas, tiempo en el cual el horario de carga y descarga será el comprendido de las 9:00 a las 10:00 horas, el horario para comercialización es el contemplado de las 10:00 a las 19:00 horas, destinando el horario de 19:00 a las 20:00 horas para el retiro de mercancía;
-
-V. Sólo se deberán autorizar por parte del Departamento de Concertación de Espacios Públicos la emisión de 198 permisos, para la comercialización en la Zona de Los Sapos para establecerse en sábados y domingos, 117 en la Plazuela de Los Sapos ubicada en la 6 Sur, entre la 5 y la 7 Oriente; y 81 en la esquina que conforma la Calle 5 Oriente y 4 Sur y la Calle 5 Oriente, entre Blvd. 5 de Mayo y 4 Sur; en el caso de días festivos se emitirán 117 permisos correspondientes al espacio ubicado de la plazuela. Del total de los permisos autorizados, deben ser otorgados el 2% para personas con discapacidad y el 9% para adultos mayores; y
-
-VI. Los espacios autorizados serán de 2.00 metros por 2.00 metros en la plazuela y 2.00 metros por 2.50 metros sobre la Calle 5 Oriente, respetando el espacio de 2.50 metros para circulación peatonal.
-
-La autoridad, ya sea Federal, Estatal y/o Municipal, deberá gozar de un espacio para la difusión del Estado, y los Municipios, referente a cultura y costumbres; el espacio lo determinará el Departamento de Concertación de Espacios Públicos. Las medidas del espacio descrito serán de 4.00 metros por 6.00 metros.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 2016)
 
 DE LAS AUTORIDADES COMPETENTES
 
@@ -36469,7 +36425,7 @@ P.O. 7 DE ENERO DE 2016.
 
 P.O. 30 DE MARZO DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE MARZO DE 2016, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE TURISMO, ARTE Y CULTURA, POR EL QUE APRUEBA QUE EL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA LLEVE EL NOMBRE DE HUGO LEICHT".]
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 18 DE MARZO DE 2016, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE TURISMO, ARTE Y CULTURA, POR EL QUE APRUEBA QUE EL PREMIO MUNICIPAL DE INVESTIGACIÓN HISTÓRICA LLEVE EL NOMBRE DE HUGO LEICHT”.]
 
 ÚNICO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
@@ -36500,3 +36456,15 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
 TERCERO. El Comité Técnico de Pensiones contará con cinco días naturales, a partir de la entrada en vigor del presente Dictamen, para su debida instalación.
 
 CUARTO. Todos aquellos trabajadores del Ayuntamiento que hayan realizado su trámite de jubilación o pensión ante la Secretaría del Ayuntamiento, podrán ajustarse a las disposiciones que se establecen en el presente Dictamen.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 15 DE DICIEMBRE DE 2016, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE GOBERNACIÓN Y JUSTICIA, POR EL QUE SE DEROGA LA FRACCIÓN VII DEL ARTÍCULO 1400, LA FRACCIÓN IV DEL ARTÍCULO 1401, EL 1424 BIS, EL 1424 TER Y EL 1424 QUATER, DEL CAPÍTULO 20 DENOMINADO "DE LOS MERCADOS MUNICIPALES", DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA, Y SE AUTORIZA LA INSTALACIÓN DE LOS MERCADOS TEMPORALES UBICADOS EN EL JARDÍN DE ANALCO, ZONA DE LOS SAPOS, DEL CORREDOR ARTESANAL DEL CAROLINO Y CALLEJÓN DEL VARIEDADES, ASIMISMO, SE EXPIDEN SUS LINEAMIENTOS CORRESPONDIENTES".]
+
+PRIMERO. El presente Dictamen entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Los Lineamientos para el Funcionamiento de los Mercados Temporales ubicados en el Jardín de Analco, Zona de los Sapos, Zona del Edificio Carolino y Callejón del Variedades, serán vigentes hasta el catorce de octubre del dos mil dieciocho.
+
+TERCERO. El Comité Asesor de los Mercados Temporales contará con cinco días naturales, a partir de la entrada en vigor de los presentes Lineamientos, para su debida instalación.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a los presentes Lineamientos.
