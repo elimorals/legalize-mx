@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-de-la-ley-de-vialidad-transito-y-control-65947"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-09"
-last_updated: "2009-01-09"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "CAM"
 ---
 # REGLAMENTO DE LA LEY DE VIALIDAD, TRANSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-REGLAMENTO DE LA LEY DE VIALIDAD, TRANSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
+REGLAMENTO DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el viernes 9 de enero de 2009.
 
@@ -1509,6 +1509,12 @@ La persona que inscriba un vehículo con datos o documentos falsos o apócrifos 
 
 Las placas de circulación serán las que se encuentran establecidas en el artículo 70 de la Ley.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 119 Bis.
+
+La vigencia de las placas será de tres años y deberá realizarse el canje de las mismas una vez finalizada su vigencia, dentro del período comprendido entre el 1 de enero al 31 de marzo del año que corresponda al canje, conforme a las disposiciones generales que emita la Secretaría, y se cubrirá la cuota señalada en el artículo 74, fracción I de la Ley de Hacienda de los Municipios del Estado de Campeche.
+
 ###### Artículo 120.
 
 Las placas de servicio particular se destinarán para los vehículos al servicio privado de sus propietarios, pudiendo ser de pasajeros o de carga, indistintamente.
@@ -2114,3 +2120,13 @@ Dado en el Palacio de Gobierno, residencia del Poder Ejecutivo del Estado, en la
 C.P. Jorge Carlos Hurtado Valdez, Gobernador Constitucional del Estado.- M. en D. Ricardo Miguel Medina Farfán, Secretario de Gobierno.- C.P. Víctor Santiago Pérez Aguilar, Secretario de Finanzas y Administración.- Ing. Eduardo Guerrero Valdez, Secretario de Obras Públicas y Comunicaciones.- Q.I. José Hernández Chávez, Secretario de Ecología.- Lic. Carlos Miguel Aysa González, Secretario de Seguridad Pública.- Rúbricas.
 
 La presente hoja de firmas corresponde al Reglamento de la ley de Vialidad, Tránsito y Control Vehicular del Estado de Campeche.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE "SE ADICIONA EL ARTÍCULO 119 BIS AL REGLAMENTO DE LA LEY DE VIALIDAD, TRÁNSITO Y CONTROL VEHICULAR DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente acuerdo.
