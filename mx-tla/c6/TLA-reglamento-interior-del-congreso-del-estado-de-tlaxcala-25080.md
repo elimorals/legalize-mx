@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2015-12-30"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -205,11 +205,11 @@ El Pleno del Congreso se erigirá en colegio electoral según los casos y proced
 
 Durante los recesos del año legislativo funcionará una Comisión Permanente compuesta de un presidente, dos secretarios y un vocal, los que serán electos por el Pleno mediante cédula y a mayoría de votos, de acuerdo con lo previsto en la Ley.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-La Comisión Permanente funcionará en los períodos siguientes: Del dieciséis de mayo al treinta y uno de julio y del dieciséis de diciembre al treinta de diciembre del mismo año.
+La Comisión Permanente funcionará en los periodos siguientes: Del dieciséis de mayo al treinta y uno de julio y del dieciséis de diciembre al catorce de enero del año siguiente.
 
 ###### Artículo 19.
 
@@ -1898,5 +1898,21 @@ P.O. 30 DE DICIEMBRE DE 2015.
 El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 308.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día quince de diciembre del año dos mil diecisiete.
+
+###### ARTÍCULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
