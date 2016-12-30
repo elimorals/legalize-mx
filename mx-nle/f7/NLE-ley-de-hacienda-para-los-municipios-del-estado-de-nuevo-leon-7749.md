@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2015-12-30"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -413,17 +415,17 @@ La base del Impuesto será el valor catastral de los predios que se determinará
 
 A falta de actualización de las tablas de valores unitarios de suelo y construcción éstas se ajustarán conforme a los porcentajes que autorice el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 21 Bis 3.
 
-Sobre el valor catastral de los predios que se fije en los términos de la Ley respectiva, la Tesorería Municipal procederá a la determinación del Impuesto para efectos del artículo 21 bis-8.
+Sobre el valor catastral de los predios que se fije en los términos de la Ley respectiva, los contribuyentes procederán a la determinación del impuesto predial.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 21 Bis 4.
 
-Cuando el predio se encuentre edificado con diversos departamentos sujetos al régimen de propiedad en condominio, la Tesorería Municipal fijará el impuesto de acuerdo con los valores catastrales, el cual entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado previamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos, la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; cada predio, departamento, despacho o local se empadronará por separado, girándose a cada cual el documento para el pago correspondiente.
+Cuando el predio se encuentre edificado con diversos departamentos sujetos al régimen de propiedad en condominio, se fijara el impuesto de acuerdo con los valores catastrales, el cual entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado previamente la escritura de constitución del condominio. Si este se constituye sin estar terminadas las construcciones, el impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos, la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; cada predio, departamento, despacho o local se empadronará por separado, girándose a cada cual el documento para el pago correspondiente.
 
 > <small>(ADICIONADO, P. O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -591,9 +593,9 @@ La Tesorería Municipal que corresponda, de acuerdo a los párrafos anteriores, 
 
 #### SECCION SEXTA. DEL PAGO DEL IMPUESTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 21 BIS 12.- El Impuesto se causará anualmente y su pago deberá de hacerse por bimestres adelantados, que se cubrirán a más tardar el día 5° de los meses de Febrero, Abril, Junio, Agosto, Octubre y Diciembre. El impuesto podrá pagarse por anualidad anticipada a más tardar el día 5° del mes de Marzo, sin recargos. En el caso de que se pague a más tardar el (sic) 5° del mes de Febrero, gozará de una reducción del 15% de dicha anualidad y si lo cubre a más tardar el día 5° del mes de Marzo, gozará de una reducción del 10% de la misma.
+ARTICULO 21 BIS 12.- EI Impuesto se causará anualmente y deberá pagarse por bimestres adelantados, que se cubrirán a más tardar el día 5° de los meses de Febrero, Abril, Junio, Agosto, Octubre y Diciembre. El impuesto podrá pagarse por anualidad anticipada a más tardar el día 5° del mes de Marzo, sin recargos. En el caso de que se pague a más tardar el día 5° del mes de Febrero, gozará de una reducción del 15% de dicha anualidad y si lo cubre a más tardar el día 5° del mes de Marzo, gozará de una reducción del 10% de la misma.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -777,29 +779,25 @@ Los sujetos del impuesto están obligados a manifestar a la Secretaría de Finan
 
 ### CAPITULO I BIS (SIC). IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 28 Bis.
-
-Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan solo el suelo, o en el suelo con construcciones o instalaciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos, a que este impuesto se refiere. El impuesto se calculará aplicando la tasa del 2% al valor gravable del inmueble.
+ARTICULO 28 bis.- Están obligados al pago del Impuesto Sobre Adquisición de Inmuebles, las personas físicas o morales que adquieran inmuebles que consistan solo el suelo, o en el suelo con construcciones o instalaciones adheridas a él, ubicados en el territorio del Estado, así como los derechos relacionados con los mismos, a que este impuesto se refiere. El impuesto se calculará aplicando la tasa del 3% al valor gravable del inmueble.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 Es base de este impuesto el valor gravable, que será el valor que resulte mayor entre el de operación y el valor catastral del inmueble.
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-###### ARTICULO 28 Bis 1.
-
-En la adquisición de viviendas cuyo valor gravable no exceda de 25 cuotas elevadas al año y siempre que el adquirente sea persona física y no posea otro bien raíz en el Estado, cubrirá el impuesto aplicando la tasa del 2% al valor del inmueble, después de reducirlo en 15 cuotas elevadas al año. Para efectos de la no-propiedad de predios, bastará que el interesado manifieste bajo protesta de decir verdad que no es propietario o poseedor de otro bien inmueble en el Estado, conservando el Municipio sus facultades de comprobación.
+ARTICULO 28 bis-1.- En la adquisición de inmuebles cuyo valor gravable no exceda dentro de 30 cuotas elevadas al año y siempre que el adquiriente sea persona física y no posea otro bien raíz en el Estado, cubrirá el impuesto aplicando la tase (sic) del 3% al valor del inmueble, después de reducirlo en 15 cuotas elevadas al año. Para efectos de la no-propiedad de predios, bastará que el interesado manifieste bajo protesta de decir verdad que no es propietario o poseedor de otro bien inmueble en el Estado, conservando el Municipio sus facultades de comprobación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 El Impuesto sobre adquisición de inmuebles se cubrirá a una tarifa única especial por cada inmueble equivalente a 7 cuotas, en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-I.- En las adquisiciones realizadas por instituciones de beneficencia privada y asociaciones civiles legalmente constituidas y certificadas por la Junta de Beneficencia Privada del Estado de Nuevo León, respecto de bienes destinados exclusivamente a sus fines.
+I.- En las adquisiciones realizadas por instituciones de beneficencia privada y asociaciones civiles constituidas legalmente en los términos de la Ley de la Beneficencia Privada para el Estado de Nuevo León, y certificadas por la Junta de Beneficencia Privada del Estado de Nuevo León, respecto de bienes destinados exclusivamente a sus fines.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
@@ -841,7 +839,7 @@ X.- En las adquisiciones, derechos o renta a perpetuidad de los lotes en los pan
 
 XI.- En las adquisiciones de bienes del dominio privado que realicen los Municipios y las entidades paraestatales de los Municipios.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2007)</small>
 
 XII.- En las adquisiciones de viviendas cuyo valor gravabable (sic), no exceda de 15 cuotas elevadas al año, siempre que el adquiriente sea una persona física y que no sea propietario o poseedor de otro bien inmueble en el Estado.
 
@@ -1143,11 +1141,11 @@ II.- Los servidores públicos que tengan a su cargo el otorgamiento de los permi
 
 III.- Los terceros que permitan en cualquier forma, la celebración de espectáculos públicos en instalaciones de su propiedad, si no exigen a los sujetos del Impuesto, el permiso correspondiente y comprobante fehaciente de haber cubierto o garantizado el Impuesto a que se refiere este Capítulo.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 31.
 
-TASA.- Los sujetos pagarán, por concepto de este impuesto, el 5% de la entrada bruta que genere el espectáculo correspondiente.
+TASA.- Los sujetos pagarán, por concepto de este impuesto, el 7% de la entrada bruta que genere el espectáculo correspondiente.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1901,21 +1899,21 @@ Servicios prestados por las oficinas competentes en materia de Obras Públicas y
 
 I.- Por examen y aprobación de planos de construcción se cobrará por metro cuadrado, en cada una de las plantas:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-a) PRIMERA CATEGORIA:- Comprende residencias con más de 500 metros cuadrados de construcción cerrada, oficinas y comercios, incluyéndose, entre otros, hoteles, cines, restaurantes y en general todo establecimiento en el que se desarrolle una actividad comercial, 0.109 cuotas el metro cuadrado.
+a) PRIMERA CATEGORIA:- Comprende residencias con más de 500 metros cuadrados de construcción cerrada, oficinas y comercios, incluyéndose, entre otros, hoteles, cines, restaurantes y en general todo establecimiento en el que se desarrolle una actividad comercial, 0.1526 cuotas el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) SEGUNDA CATEGORIA:- Comprende construcciones industriales y todo tipo de construcción no incluida dentro de la primera, tercera o cuarta categoría, 0.073 cuotas el metro cuadrado.
+b) SEGUNDA CATEGORIA:- Comprende construcciones industriales y todo tipo de construcción no incluida dentro de la primera, tercera o cuarta categoría, 0.1022 cuotas el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-c) TERCERA CATEGORIA:- Comprende casa-habitación y edificios o conjuntos multifamiliares con superficie de construcción cerrada no mayor de 150 metros cuadrados por vivienda, 0.030 cuotas el metro cuadrado y 0.015 cuotas el metro cuadrado de construcción abierta.
+c) TERCERA CATEGORIA:- Comprende casa-habitación y edificios o conjuntos multifamiliares con superficie de construcción cerrada no mayor de 150 metros cuadrados por vivienda, 0.042 cuotas el metro cuadrado y 0.021 cuotas el metro cuadrado de construcción abierta.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-d) CUARTA CATEGORIA:- Comprende construcciones de bardas en cualquiera de las anteriores categorías, 0.037 cuotas por metro lineal.
+d) CUARTA CATEGORIA:- Comprende construcciones de bardas en cualquiera de las anteriores categorías, 0.0518 cuotas por metro lineal.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -1925,9 +1923,9 @@ Los derechos previstos en esta fracción, en ningún caso serán inferiores a 2.
 
 II.- Construcción o reconstrucción de banquetas en el sector urbanizado de la ciudad, cuando el trabajo se realice por el Municipio en razón de no haberla efectuado el obligado dentro del plazo de un mes siguiente al día en que surta efectos la notificación del requerimiento para que efectúe dichas obras. En este caso se pagarán los derechos correspondientes en función del costo real de la obra.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-III.- Por el permiso para la introducción subterránea de cualquier tipo de conductores en bienes de uso común, se cobrarán 5 cuotas por metro cuadrado o fracción.
+III.- Por el permiso para la introducción subterránea de cualquier tipo de conductores en bienes de uso común, se cobrarán 7 cuotas por metro cuadrado o fracción.
 
 En materia de construcciones y urbanizaciones, no se cobrará derecho alguno por cualquier servicio prestado por la Autoridad Municipal, diverso a los señalados expresamente en esta Ley.
 
@@ -1937,117 +1935,117 @@ En materia de construcciones y urbanizaciones, no se cobrará derecho alguno por
 
 Por los servicios prestados en tramitaciones urbanísticas que se realizan en el Municipio en materia de desarrollo urbano:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-I.- Por subdivisiones, parcelaciones, fusiones y relotificaciones, por cada lote o fracción resultante 30 cuotas
+I.- Por subdivisiones, parcelaciones, fusiones y relotificaciones, por cada lote o fracción resultante 42 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Por los predios resultantes de hasta 250 metros cuadrados de superficie y los que se deriven de herencias, si el valor catastral de éstos no excede de 6,378 cuotas, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de 12,755 cuotas, se pagarán por cada lote o fracción resultante 3 cuotas
+Por los predios resultantes de hasta 250 metros cuadrados de superficie y los que se deriven de herencias, si el valor catastral de éstos no excede de 6,378 cuotas, siempre que el propietario sea persona física y no tenga otra propiedad raíz en el Estado o, teniendo una sola, su valor catastral no exceda de 12,755 cuotas, se pagarán por cada lote o fracción resultante 4.20 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Por información de factibilidad y lineamientos de los usos de suelo urbanos y de las edificaciones 2 cuotas
+Por información de factibilidad y lineamientos de los usos de suelo urbanos y de las edificaciones 2.80 cuotas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 II.- Por inicio de trámite de licencia de uso de suelo o de edificación, por unidad de edificación o vivienda o por superficie de terreno, conforme a la siguiente tarifa:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-a) Hasta 100 m2 6 cuotas
+a) Hasta 100 m2 8.40 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Mayor de 100 m2 y hasta 250 m2 12 cuotas
+b) Mayor de 100 m2 y hasta 250 m2 16.80 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-c) Mayor de 250 m2 y hasta 500 m2 18 cuotas
+c) Mayor de 250 m2 y hasta 500 m2 25.20 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-d) Mayor de 500 m2 y hasta 1,000 m2 24 cuotas
+d) Mayor de 500m2 y hasta 1,000 m2 33.60 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-e) Mayor de 1,000 m2 30 cuotas
+e) Mayor de 1,000 42 cuotas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 III.- Por la licencia de uso de suelo o de edificaciones, por unidad de edificación o vivienda o por superficie de terreno, conforme a la siguiente tarifa:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-a) Hasta 100 m2 6 cuotas
+a) Hasta 1 00 m2 8.40 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Mayor de 100 m2 y hasta 250 m2 12 cuotas
+b) Mayor de 100m2 y hasta 250m2 16.80 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-c) Mayor de 250 m2 y hasta 500 m2 18 cuotas
+c) Mayor de 250 m2 y hasta 500 m2 25.20 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-d) Mayor de 500 m2 y hasta 1,000 m2 24 cuotas
+d) Mayor de 500m2 y hasta 1,000 m2 33.60 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-e) Mayor de 1,000 m2 30 cuotas
+e) Mayor de 1,000 m2 42 cuotas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 Adicionalmente se cubrirá una cantidad complementaria, por metro cuadrado de construcción, excluyendo estacionamientos, conforme a la siguiente tarifa:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-a) Hasta 100 m2 0.08 cuotas
+a) Hasta 100 m2 0.112 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Mayor de 100 m2 y hasta 250 m2 0.16 cuotas
+b) Mayor de 100m2 y hasta 250m2 0.224 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-c) Mayor de 250 m2 y hasta 500 m2 0.24 cuotas
+c) Mayor de 250 m2 y hasta 500 m2 0.336 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-d) Mayor de 500 m2 y hasta 1000 m2 0.31 cuotas
+d) Mayor de 500 m2 y hasta 1 000 m2 0.434 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-e) Mayor de 1000 m2 0.38 cuotas
+e) Mayor de 1000 m2 0.532 cuotas
 
 La cuota prevista en el párrafo anterior, no excederá de $8.00 por metro cuadrado, para las edificaciones habitacionales multifamiliares. Las casas-habitación estarán exentas del pago de este derecho.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 IV.- Por factibilidad y autorización de regímenes en condominio:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-a) Vertical, por metro cuadrado de construcción, excluyendo estacionamientos 0.12 cuotas
+a) Vertical, por metro cuadrado de construcción, excluyendo estacionamientos 0.168 cuotas
 
 b) Horizontal, por metro cuadrado de terreno, conforme a la tarifa señalada en la fracción V.
 
 c) Mixto, le serán aplicables los derechos previstos en los incisos a) y b)
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 V.- Por autorización de fraccionamientos:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-a) Por factibilidad y lineamientos $ 117.5 cuotas.
+a) Por factibilidad y lineamientos 164.50 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Por Proyecto Urbanístico 117.5 cuotas
+b) Por Proyecto Urbanístico 164.50 cuotas
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 c) Por Proyecto Ejecutivo, por metro cuadrado de área vendible:
 
@@ -2055,67 +2053,77 @@ c) Por Proyecto Ejecutivo, por metro cuadrado de área vendible:
 
 1.- Habitacionales o industriales, exceptuando los predios reservados para equipamientos comerciales y de servicios, de acuerdo a lo siguiente:
 
-A.- Lotes con superficie hasta 150 m2 0.107 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-B.- Lotes con superficie de más de 150 m2 hasta 300 m2 0.143 cuotas
+A- Lotes con superficie hasta 150 m2 01498 cuotas
 
-C.- Lotes con superficie mayor de 300 m2 0.172 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+B.- Lotes con superficie de más de 150m2 hasta 300m2 0.20 cuotas
 
-2.- Industriales ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina 0.107 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+C.- Lotes con superficie mayor de 300 0.24 cuotas
 
-3.- Campestres ubicados en los Municipios de Apodaca, García, Guadalupe, Juárez, Monterrey, San Pedro Garza García, Santa Catarina y Santiago 0.107 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+2.- Industriales ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina 0.1498 cuotas
 
-4.- Campestres ubicados en el resto del Estado 0.007 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+3.- Campestres ubicados en los Municipios de Apodaca, García, Guadalupe, Juárez, Monterrey, San Pedro Garza García, Santa Catarina y Santiago 0.1498 cuotas
 
-5.- Otros ubicados en los municipios de Apodaca, Escobedo, García Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina 0.107 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+4.- Campestres ubicados en el resto del Estado.0.0098 cuotas
 
-6.- Otros ubicados en el resto del Estado 0.007 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+5.- Otros ubicados en los Municipios de Apodaca, Escobedo, García Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina 0.1498 cuotas
 
-d) Certificación del cumplimiento de requisitos para ventas $117.5 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+6.- Otros ubicados en el resto del Estado 0.0098 cuotas
 
-e) Prórroga $58.5 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+d) Certificación del cumplimiento de requisitos para
 
-f) Actualización de garantías $58.5 cuotas
+ventas 164.50 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-g) Modificaciones $58.5 cuotas
+e) Prorroga 81.90 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-h) Recepción de obra $586.5 cuotas
+f) Actualización de garantías 81.90 cuotas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-VI.- Por regularización y ordenamiento urbano en fraccionamientos y en licencia de uso de suelo o de edificaciones, se cubrirán las cuotas previstas en este artículo en las fracciones III y V, con un incremento del 75%.
+g) Modificaciones 81.90 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-VII.- Por expedición de copias certificadas de planos $3.5 cuotas
+h) Recepción de obra 821.10 cuotas
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+7.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1999) (SIC)
 
-VIII.- Por la expedición de diversas constancias y certificaciones $2.5 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+VI.- Por regularización y ordenamiento urbano en fraccionamientos y en licencia de uso de suelo o de edificaciones, se cubrirán las cuotas previstas en este artículo en las fracciones III y V, con un incremento del 105%.
 
-IX.- Por información de alineamiento de la vialidad 1.5 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VII.- Por expedición de copias certificadas de planos 4.90 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Por la expedición de diversas constancias y certificaciones 3.5 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+IX.- Por información de alineamiento de la vialidad 2.1 cuotas
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2151,25 +2159,25 @@ Quedan exentos de los Derechos señalados en el Artículo 52 de esta Ley, los en
 
 Por la inscripción de nuevos fraccionamientos o ampliaciones a los ya existentes, que apruebe la Autoridad Municipal, se cubrirán los siguientes derechos por metro cuadrado del área vendible:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados .023 cuotas
+a) Fraccionamientos cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados 0.322 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros cuadrados y 250 metros cuadrados .012 cuotas
+b) Fraccionamientos cuyos lotes tengan una superficie promedio entre 150 metros cuadrados y 250 metros cuadrados 168 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados .009 cuotas
+c) Fraccionamientos cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados 0.126 cuotas
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-d) Cementerios ubicados en los Municipios de Apodaca, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza y San Pedro Garza García 0.012 cuotas
+d) Cementerios ubicados en los Municipios de Apodaca, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza y San Pedro Garza García 0.168 cuotas
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-e) Cementerios ubicados en el resto de los municipios del Estado .009 cuotas
+e) Cementerios ubicados en el resto de los municipios del Estado 0.0126 cuotas
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1994)</small>
 
@@ -2199,45 +2207,67 @@ Por expedición de certificados, autorizaciones, constancias o registros:
 
 I.- Por la expedición de copias, certificaciones, constancias y reproducciones diversas, que expidan las dependencias y entidades del gobierno municipal, se causarán los derechos de acuerdo a las siguientes tarifas:
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 a) Copias simples por hoja:
 
-1. Tamaño carta 0.012 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-2. Tamaño oficio 0.017 cuotas
+1. Tamaño carta 0.0168 cuotas
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Coplas a color por hoja:
+2. Tamaño oficio 0.0238 cuotas
 
-1. Tamaño carta 0.024 cuotas
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-2. Tamaño oficio 0.034 cuotas
+b) Copias a color por hoja:
 
-c) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en las fracciones anteriores 1 cuota
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-d) Copias simples de planos 0.43 cuotas
+1. Tamaño carta 0.0336 cuotas
 
-e) Copias simples de planos a color 2 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-f) Copias certificadas de planos 3 cuotas
+2. Tamaño oficio 0.0476 cuotas
 
-g) Copias certificadas de planos a color 5 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-h) Diversas constancias y certificaciones 1 cuota
+c) Copias certificadas por cada documento, sin perjuicio de lo dispuesto en las fracciones anteriores 1.4 cuota
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+d) Copias simples de planos 0.602 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+e) Copias simples de planos a color 2.8 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+f) Copias certificadas de planos 4.2 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+g) Copias certificadas de planos a color 7 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+h) Diversas constancias y certificaciones 1.4 cuota
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
 En caso de reproducción en fotografías, cintas de video, dispositivos de archivos electrónicos o magnéticos, registros digitales, sonoros, visuales, holográficos y, en general, todos aquellos medios o soportes derivados de los avances de la ciencia y la tecnología en que obre la información que se requiera, serán proporcionados por el Interesado.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-En todos los casos, con excepción de las solicitudes tramitadas en los términos que establece la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, por búsqueda y localización de documentos, archivos y expedientes y demás información solicitada, generará 1 cuota, en cada caso sin perjuicio del derecho que corresponda por las copias expedidas.
+En todos los casos, con excepción de las solicitudes tramitadas en los términos que establece la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, por búsqueda y localización de documentos, archivos y expedientes y demás información solicitada, generará 1.4 cuota, en cada caso, sin perjuicio del derecho que corresponda por las copias expedidas.
 
-(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998) (F. DE E., P.O. 18 DE ENERO DE 1999)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Tratándose de constancias de no infracciones, relativas a control vehícular, .25 cuotas.
+Tratándose de constancias de no infracciones, relativas a control vehicular, .35
+
+cuotas.
 
 > <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
@@ -2363,77 +2393,127 @@ Los derechos previstos en las fracciones I a V, serán aplicables únicamente a 
 
 Por la emisión de la anuencia municipal y en su caso, por revalidación anual de la anuencia municipal, en los términos previstos en la Ley para la Prevención y Combate al Abuso del Alcohol y de Regulación para su Venta y Consumo del Estado de Nuevo León, se cubrirán las siguientes cuotas en los municipios de Apodaca, Cadereyta Jiménez, General Escobedo, García, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santa Catarina y Santiago:
 
+> <small>(REFORMADO [N. DE. E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 A) Licencias y autorizaciones de cambio de giro o domicilio:
 
-1.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15,000 personas, 1,500 cuotas, con capacidad de más de 15,000 personas y hasta 25,000 personas, 2,700 cuotas y con capacidad de más de 25,000 personas, 3,500 cuotas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-2.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 2.390 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 2,825 cuotas;
+1.- Estadios de futbol y beisbol, arenas de box, lucha libre, plazas de toros y en general todo lugar donde se realicen actividades deportivas, con capacidad de hasta 15,000 personas, 1,500 cuotas, con capacidad de más de 15,000 personas y hasta 25,000 personas, 2,700 cuotas y con capacidad de más de 25,000 personas, 4,900 cuotas;
 
-3.- Rodeos con capacidad de hasta 1,500 personas, 1,883 cuotas y con capacidad mayor de 1,500 personas, 2,500 cuotas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-4.- Hoteles y moteles de paso, con servicio de bar y restaurante-bar, 1,500 cuotas;
+2.- Cabarets, centros nocturnos, discotecas, casas y establecimientos de apuestas, lugares públicos de reunión con variedad artística y similares, con un área de atención al público no mayor de 120 metros cuadrados, 3,346 cuotas y con superficie de atención al público mayor a 120 metros cuadrados, 3,955 cuotas;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+3.- Rodeos con capacidad de hasta 1,500 personas, 1,883 cuotas y con capacidad mayor de 1,500 personas, 3,500 cuotas;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+4.- Hoteles y moteles de paso, con servicio de bar y restaurante-bar, 2,100 cuotas;
+
+> <small>(REFORMADO [N. DE. E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 5.- En botella cerrada:
 
-a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 15 cuotas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 30 cuotas;
+a) Abarrotes con venta de cerveza, con un área de exposición al público, no mayor de 50 metros cuadrados, 21 cuotas;
 
-c) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 40 cuotas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-d) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 80 cuotas;
+b) Abarrotes con venta de cerveza, vinos y licores con un área de exposición al público no mayor de 50 metros cuadrados, 42 cuotas;
 
-e) Licorerías, 80 cuotas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-f) Minisuper y tiendas de conveniencia con un área de exposición al público no mayor a 120 metros cuadrados, 60 cuotas;
+c) Depósitos con venta de cerveza, incluyendo los que tienen servicio de auto, 56 cuotas;
 
-g) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 135 cuotas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-h) Tiendas de autoservicio con un área de exposición al público mayor a 120 metros cuadrados, 190 cuotas;
+d) Depósitos con venta de cerveza, vinos y licores, incluyendo los que tienen servicio de auto, 112 cuotas;
 
-i) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 380 cuotas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-j) Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 340 cuotas.
+e) Licorerías, 112 cuotas;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+f) Minisuper y tiendas de conveniencia con un área de exposición al público no mayor a 120 metros cuadrados, 84 cuotas;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+g) Minisuper y tiendas de conveniencia con un área de exposición al público mayor a 120 metros cuadrados, 189 cuotas;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+h) Tiendas de autoservicio con un área de exposición al público mayor a 120 metros cuadrados, 266 cuotas;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+i) Tiendas de autoservicio departamentales con un área de exposición al público mayor a 120 metros cuadrados, 532 cuotas;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+j) Establecimientos que expendan al mayoreo y con servicio de distribución, cerveza o bebidas alcohólicas en botella cerrada, 476 cuotas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 k) Establecimientos que expendan o en los que se consuman bebidas alcohólicas en botella abierta o al copeo:
 
-a) Cervecerías con expendio de cerveza, 85 cuotas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 85 cuotas;
+a) Cervecerías con expendio de cerveza, 119 cuotas;
 
-c) Billares con expendio de cerveza, 85 cuotas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-d) Billares con expendio de cerveza, vinos y licores, 130 cuotas;
+b) Restaurantes, loncherías, fondas y similares, con expendio de cerveza, 119 cuotas;
 
-e) Cantinas o bares, con expendio de cerveza, vinos y licores, 250 cuotas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 150 cuotas;
+c) Billares con expendio de cerveza, 119 cuotas;
 
-g) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 250 cuotas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-h) Centros o Clubes Sociales, o Deportivos con expendio y consumo de cerveza, vinos y licores, pagarán 1 cuota por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 100 cuotas;
+d) Billares con expendio de cerveza, vinos y licores, 182 cuotas;
 
-i) Centros o Clubes Sociales o Deportivos con consumo de cerveza, vinos y licores, pagarán 0.25 cuotas por metro cuadrado de superficie de consumo. En ningún caso la cantidad a pagar será inferior a 50 cuotas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+e) Cantinas o bares, con expendio de cerveza, vinos y licores, 350 cuotas;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+f) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público de hasta 120 metros cuadrados, 210 cuotas;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+g) Restaurantes-bar, con expendio de cerveza, vinos y licores, con un área de atención al público mayor a 120 metros cuadrados, 350 cuotas;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+h) Centros o Clubes Sociales, o Deportivos con expendio y consumo de cerveza, vinos y licores, pagarán 1.4 cuota por metro cuadrado de superficie de expendio o consumo. En ningún caso la cantidad a pagar será inferior a 140 cuotas;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+i) Centros o Clubes Sociales o Deportivos con consumo de cerveza, vinos y licores, pagarán 0.35 cuotas por metro cuadrado de superficie de consumo. En ningún caso la cantidad a pagar será inferior a 70 cuotas;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 j) Hoteles en los que se expendan o consuman cervezas, vinos o licores, pagarán:
 
-Hasta 150 metros cuadrados de
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Expendio o consumo abierto al
+Hasta 150 metros cuadrados de Expendio o consumo abierto al público 210 cuotas
 
-público ....... 150 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Por el excedente de 150 metros,
+Por el excedente de 150 metros, Pagarán por cada metro cuadrado o fracción de expendio o consumo abierto al público 0.84 cuotas.
 
-Pagarán por cada metro cuadrado
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-o fracción de expendio o consumo
+En ningún caso la cantidad a pagar Será mayor a 1 ,400 cuotas
 
-abierto al público ............ 0.6 cuotas
-
-En ningún caso la cantidad a pagar
-
-Sera mayor a ............... 1,000 cuotas
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 B) Permisos especiales:
 
@@ -2685,25 +2765,25 @@ De $ 0.00 a $ 1,000.00 $ 15.00
 
 Por revisión, inspección y servicios, que se indican a continuación, se fijan las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-I.- Por servicios de examen médico, de pericia, de verificación de datos proporcionados por el conductor y de comprobación del cumplimiento de los requisitos contenidos en el Reglamento de Tránsito Municipal, para la autorización de expedición de licencias de manejo, 2 cuotas.
+I.- Por servicios de examen médico, de pericia, de verificación de datos proporcionados por el conductor y de comprobación del cumplimiento de los requisitos contenidos en el Reglamento de Tránsito Municipal, para la autorización de expedición de licencias de manejo, 2.8 cuotas.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 Esta autorización sólo se expedirá cuando se obtenga la licencia por primera vez y cuando el conductor sobrepase la edad prevista en el Reglamento de Tránsito.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Permisos para transitar sin placas, 6 cuotas.
+Permisos para transitar sin placas, 8.4 cuotas.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1999)</small>
 
 Dichos permisos serán provisionales y únicamente se otorgarán en caso de baja en el padrón vehicular; siempre y cuando ésta se origine por traslado del vehículo a otra entidad federativa, así como en caso de pérdida o robo de las placas respectivas, previa denuncia del particular ante las autoridades competentes, debiendo otorgarse el permiso por una sola vez, sin exceder del término de 15 días, de acuerdo con el Reglamento respectivo. En circunstancias distintas a lo anterior, que estén debidamente establecidas en los reglamentos municipales, podrán ampliarse el término y la frecuencia en el otorgamiento del permiso, debiéndose cubrir en tal caso, los derechos a que se refiere el párrafo anterior.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-Por expedición de licencias para estacionamiento exclusivo para carga y descarga, 5 cuotas.
+Por expedición de licencias para estacionamiento exclusivo para carga y descarga, 7 cuotas.
 
 > <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO TERCERO DEL DECRETO NÚM. 340, SE SUSPENDE LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN LA PRESENTE FRACCIÓN, P.O. 31 DE DICIEMBRE DE 1999.</small>
 
@@ -2717,37 +2797,53 @@ II.- Por inspecciones que previenen los Reglamentos a nivel municipal, de N$20.0
 
 III.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: N$40.00 por cabeza de ganado vacuno, caballar, asnar, mular y porcino, y N$.25 por cabeza de ganado cabrío o lanar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, 10 cuotas por cada inmueble.
+IV.- Por servicios de revisión de documentación en las operaciones de adquisición de inmuebles, 14 cuotas por cada inmueble.
 
 > <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
 
 Este derecho se cubrirá únicamente en los casos en que no exista cantidad a pagar por concepto de Impuesto Sobre Adquisición de Inmuebles.
 
-(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 4 DE JULIO DE 2013)
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 V.- Por servicios de examen médico que preste el municipio, a las personas que lo soliciten, de conformidad con las disposiciones legales aplicables en materia de salud, como sigue:
 
-a) Exámenes médicos en General 2 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Exámenes de laboratorio 3 cuotas
+a) Exámenes médicos en general. 2.8 cuotas
 
-c) Exámenes médicos de embarazo 1 cuota
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-d) Duplicado de certificados médicos 1 cuota
+b) Exámenes de laboratorio ..........................................4.2 cuotas
 
-e) Consulta médica o dental general 0.50 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-f) Consulta médica por especialista 0.75 cuotas
+c) Exámenes médicos de embarazo ......................... 1.4 cuota
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+d) Duplicado de certificados médicos ........................ 1.4 cuota
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+e) Consulta médica o dental generai. ....................... 0.70 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+f) Consulta médica por especialista .......................... 1.05 cuotas
 
 (ADICIONADA, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 4 DE JULIO DE 2013)
 
 VI.- Por servicios sanitarios que preste el municipio, a las personas que lo soliciten, de conformidad con las disposiciones legales aplicables en materia de salud, como sigue:
 
-a) Mantener animales en observación 0.50 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Recoger animales domésticos enfermos 0.50 cuotas
+a) Mantener animales en observación..................... 0.7 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+b) Recoger animales domésticos enfermos............. 0.7 cuotas
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
@@ -2853,9 +2949,13 @@ El pago de la multa que se impusiere al infractor no lo exime de las obligacione
 
 Cuando el Municipio efectúe los servicios a los que se refiere el párrafo anterior, se causarán los derechos conforme a la siguiente tarifa por metro cuadrado:
 
-a) Lotes baldíos con superficie hasta 1,000 metros cuadrados, por cada metro cuadrado 0.60 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente en lotes baldíos 0.52 cuotas
+a) Lotes baldíos con superficie hasta 1 ,000 metros cuadrados, por cada metro cuadrado 0.84 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente en lotes baldíos 0.72 cuotas
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
@@ -2885,9 +2985,9 @@ Entendiéndose por abandono, el estado físico del inmueble en cuestión que a s
 
 Reincidencia.- Se considera que se presenta la reincidencia cuando no se cumpla en más de una ocasión con la obligación que establece el primer párrafo de este artículo, habiéndose requerido previamente por el Municipio.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-El propietario podrá solicitar al Municipio el servicio de recolección, traslado y disposición final de basura producto de la limpieza de su lote baldío o casa desocupada, siendo el costo de este servicio la cantidad de 6 cuotas por metro cúbico o fracción de materia recolectada.
+El propietario podrá solicitar al Municipio el servicio de recolección, traslado y disposición final de basura producto de la limpieza de su lote baldío o casa desocupada, siendo el costo de este servicio la cantidad de 8.4 cuotas por metro cúbico o fracción de materia recolectada.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -2953,27 +3053,29 @@ En el caso de los contribuyentes mencionados en los incisos a) y b), deberán ef
 
 Por ocupación de la vía pública:
 
-(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 4 DE JULIO DE 2013)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-I.- Por ocupar la vía pública con toda clase de instalaciones fijas o semifijas, se pagarán 0.016 cuotas diarias por metro cuadrado completo o fracción. En ningún caso la cantidad a pagar será inferior a lo que corresponda por un metro.
+I. Por ocupar la vía pública con toda clase de instalaciones fijas o semifijas, se pagarán 0.224 cuotas diarias por metro cuadrado completo o fracción. En ningún caso la cantidad a pagar será inferior a lo que corresponda por un metro.
 
-Por otras ocupaciones de la vía pública, se pagarán 0.081 cuotas diarias por metro cuadrado completo o fracción. En ningún caso la cantidad a pagar será inferior a lo que corresponda por un metro.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-(REFORMADA, P.O. 26 DE DICIEMBRE DE 2001) (REPUBLICADA, P.O. 4 DE JULIO DE 2013)
+Por otras ocupaciones de la vía pública, se pagarán 0.1134 cuotas diarias por metro cuadrado completo o fracción. En ningún caso la cantidad a pagar será inferior a lo que corresponda por un metro.
 
-II.- Por ocupar la vía pública, los propietarios de sitios de automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán 5 cuotas por unidad trimestralmente.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+II.- Por ocupar la vía pública, los propietarios de sitios de automóviles, de camiones y camionetas de carga o de pasajeros destinados al servicio público, pagarán 7 cuotas por unidad trimestralmente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 III.- Por ocupar la vía pública con cajones para estacionamiento de vehículos, en la extensión que señale el departamento de tránsito, de acuerdo con su reglamento, se pagará una tarifa anual en la forma siguiente:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-a) Las empresas comerciales 5 cuotas por metro cuadrado.
+a) Las empresas comerciales 7 cuotas por metro cuadrado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-b) Los particulares 1.5 cuotas por metro cuadrado.
+b) Los particulares 2.10 cuotas por metro cuadrado.
 
 (REFORMADO, P.O. 27 DE DICIEMBRE DE 1996) (REPUBLICADO, P.O. 4 DE JULIO DE 2013)
 
@@ -3812,3 +3914,23 @@ P.O. 30 DE DICIEMBRE DE 2015.
 Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
 Segundo.- Los municipios contarán con 90 días hábiles a partir de la entrada en vigor de este decreto para modificar su reglamentación municipal correspondiente.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 186. SE REFORMA POR MODIFICACIÓN DE LOS ARTÍCULOS 21 BIS 3 Y 21 BIS 4 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor al día 1º de enero del 2017.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 214. SE REFORMAN POR MODIFICACIÓN LOS ARTÍCULOS 28 BIS, 28 BIS 1,31, 52, 52 BIS, 55, 57, 58 BIS, 62, 65 Y 65 BIS 1 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al 01 de enero de 2017.
+
+Segundo.- Las operaciones de compra-venta cuyos avisos pre-preventivo o preventivo realizados en términos del Artículo 2910 del Código Civil para el Estado de Nuevo León, cuyo trámite estuviere ingresado en el Instituto Registral y Catastral de Nuevo León, previo a la entrada en vigor del presente Decreto causaran el impuesto sobre adquisición de inmuebles a la tasa 2%.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 222 SE EXPIDE LA LEY DE INGRESOS DE LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN PARA EL EJERCICIO FISCAL 2017”.]
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2017
