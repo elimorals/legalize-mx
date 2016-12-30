@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-transformacion-industrial-110504"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-11-13"
-last_updated: "2015-11-13"
+last_updated: "2016-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110504&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-11-04"
 ---
 # ESTATUTO ORGANICO DE PEMEX TRANSFORMACION INDUSTRIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL, PUBLICADO EN EL D.O.F. DE 30 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2015.
 
@@ -2480,3 +2482,25 @@ SÉPTIMO. Las obligaciones asumidas por Pemex-Exploración y Producción, Pemex-
 El presente Estatuto Orgánico de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos denominada Pemex Transformación Industrial, fue aprobado por el Consejo de Administración de Pemex Transformación Industrial, con fundamento en el artículo 12, fracción VI y Transitorio Octavo del Acuerdo de Creación de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, en sesión de instalación celebrada el día 3 de noviembre de 2015, mediante acuerdo número CAEPS-PTRI-004/2015.
 
 Ciudad de México, D.F., a 4 de noviembre de 2015.- El Director Jurídico de Petróleos Mexicanos, Marco Antonio de la Peña Sánchez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE PEMEX TRANSFORMACIÓN INDUSTRIAL”.]
+
+PRIMERO. El presente Estatuto Orgánico de Pemex Transformación Industrial, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, publicado en el Diario Oficial de la Federación el día trece de noviembre de dos mil quince.
+
+TERCERO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos. La implementación de dicha estructura se realizará mediante movimientos compensados, que no impliquen incremento al presupuesto global de servicios personales o en el número total de plazas de Pemex Transformación Industrial.
+
+CUARTO. La normativa interna y demás disposiciones emitidas por cualquier órgano o área de Petróleos Mexicanos, Pemex Transformación Industrial, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica con anterioridad a la entrada en vigor del presente Estatuto, continuarán siendo aplicables en lo que no se opongan a la Ley de Petróleos Mexicanos, su Reglamento, al presente Estatuto y demás disposiciones aplicables, hasta en tanto no se determine su modificación o abrogación.
+
+QUINTO. Los contratos, convenios y actos jurídicos, así como los procedimientos de contratación celebrados o en trámite a la entrada en vigor del presente Estatuto, se respetarán en los términos pactados, salvo que se convenga lo contrario, de conformidad con lo previsto en el Transitorio Décimo Tercero de la Ley de Petróleos Mexicanos.
+
+SEXTO. Los poderes, mandatos y, en general, las representaciones otorgadas y las facultades conferidas por los entonces Organismos Subsidiarios Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, y por la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Transformación Industrial, con anterioridad a la entrada en vigor de este Estatuto, subsistirán en sus términos en tanto no sean modificados o revocados expresamente.
+
+SÉPTIMO. Los acuerdos de delegación de funciones y de asignación de responsabilidades, emitidos por Pemex Transformación Industrial, relacionados con la modificación a la estructura autorizada por el Consejo de Administración de Petróleos Mexicanos, dejarán de tener efectos una vez que el presente Estatuto entre en vigor.
+
+OCTAVO. Las referencias que se hagan en otros instrumentos al área respectiva que se elimine, se entenderán hechas a las áreas a las que se asignaron las funciones, conforme al presente Estatuto.
