@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2016-11-03"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -847,7 +847,9 @@ XL. Vigilancia.
 
 Los Secretarios de Despacho o equivalentes del Gobierno del Estado comparecerán ante las Comisiones Permanentes que correspondan, en caso de ser citados por el Congreso, a efecto de ampliar o precisar lo conducente respecto del informe escrito presentado por el Ejecutivo sobre el estado que guarda la administración pública. En su caso, a propuesta de la Junta de Coordinación Política, el Pleno emitirá el acuerdo en el que se señalen las dependencias cuyos titulares deban comparecer y el calendario correspondiente, mismo que se comunicará al Gobernador.
 
-Igual obligación de comparecer tendrán los titulares de las dependencias y entidades de la Administración Pública, para dar cuenta del estado que guardan éstas, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, si fueren convocados por el Congreso, por conducto del Gobernador, a propuesta de la Junta de Coordinación Política.
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Igual obligación de comparecer en cualquier tiempo tendrán los titulares de las dependencias y entidades de la Administración Pública, por conducto del Gobernador del Estado, para dar cuenta del estado que guardan éstas, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, si fueren convocados por la comisión permanente del ramo que le corresponda, cuando a juicio de la mayoría de sus miembros exista causa suficiente o extraordinaria para ello; en caso de que la convocatoria no fuera atendida, la comisión podrá dirigirse oficialmente en queja al Gobernador del Estado.
 
 En los supuestos previstos en los párrafos anteriores, los servidores públicos que comparezcan rendirán sus informes bajo protesta de decir verdad.
 
@@ -1521,10 +1523,18 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 G.O. 3 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 922 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 922 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. En un plazo no mayor a treinta días naturales, contado a partir del inicio de vigencia de este Decreto, el Congreso del Estado realizará las adecuaciones correspondientes en la Reglamentación Interior y en Materia de Servicios Administrativos del Poder Legislativo.
+
+G.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 227 QUE REFORMA EL ARTÍCULO 40 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
