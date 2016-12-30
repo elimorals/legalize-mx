@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2016-10-21"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -85,13 +85,15 @@ De las Sesiones de Cabildo.- El Ayuntamiento funciona de manera colegiada, en r�
 
 I.- En las sesiones de Cabildo, todos los miembros integrantes del Ayuntamiento tienen derecho a voz y voto;
 
-II.- Las sesiones de Cabildo se desarrollarán conforme lo disponga el reglamento correspondiente, debiendo ser públicas por regla general y reservadas cuando así lo proponga el Presidente Municipal, o en su caso, lo soliciten por escrito la mayoría de los miembros del Ayuntamiento y que la naturaleza de los asuntos a tratar así lo ameriten. Los acuerdos que se adopten deberán hacerse públicos;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+II.- Las sesiones de Cabildo se desarrollarán conforme lo disponga el reglamento correspondiente, debiendo ser públicas por regla general y se deberán transmitir en vivo a través de su portal de internet conforme a las disposiciones de esta ley; y reservadas cuando así lo proponga el Presidente Municipal, o en su caso, lo soliciten por escrito la mayoría de los miembros del Ayuntamiento y que la naturaleza de los asuntos a tratar así lo amerite. En dichas sesiones deberán tomarse las medidas necesarias para la protección de los datos personales y demás información cuya difusión sea restringida por la ley de la materia. Los acuerdos que se adopten deberán hacerse públicos.
 
 III.- Para levantar las actas de las reuniones de Cabildo, llevar su adecuado registro, darle publicidad a los acuerdos adoptados, y ejercer la fé pública del órgano de gobierno, en cada Ayuntamiento fungirá una persona como secretario fedatario, quien no será miembro del Ayuntamiento y se designará por mayoría a propuesta del Presidente Municipal;
 
 > <small>(REFORMADA, P.O. 12 DE JUNIO DE 2015)</small>
 
-IV. Cada Ayuntamiento establecerá las comisiones de Regidores para analizar y dictaminar los asuntos que sean sometidos a la consideración del Ayuntamiento en las (sic) materia de legislación, hacienda y administración, seguridad pública, desarrollo urbano, servicios públicos, equidad de género y las demás que conforme a las características económicas, políticas y sociales, resulten necesarias y se acuerde establecer.
+IV.- Cada Ayuntamiento establecerá las comisiones de Regidores para analizar y dictaminar los asuntos que sean sometidos a la consideración del Ayuntamiento en las (sic) materia de legislación, hacienda y administración, seguridad pública, desarrollo urbano, servicios públicos, equidad de género y las demás que conforme a las características económicas, políticas y sociales, resulten necesarias y se acuerde establecer.
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -137,9 +139,11 @@ X. Garantizar y cumplir con el principio de interés superior de la niñez, así
 
 XI. Todas aquellas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 8.
 
-Del Síndico Procurador.- El Síndico Procurador tendrá a su cargo la función de contraloría interna y la procuración de la defensa de los intereses del Ayuntamiento, ostentando en todo caso, las siguientes atribuciones:
+Del Síndico Procurador.- El Síndico Procurador tendrá a su cargo la función de contraloría interna, la procuración de la defensa de los intereses del Ayuntamiento y vigilar que no se afecten los intereses de los habitantes del municipio, en el ejercicio de las funciones y atribuciones de orden municipal, ostentando en todo caso, las siguientes atribuciones:
 
 I.- Ejercer la representación jurídica del Ayuntamiento en los litigios jurisdiccionales y en las negociaciones relativas a la hacienda municipal pudiendo nombrar apoderado legal, con arreglo a las facultades específicas que el Ayuntamiento le delegue;
 
@@ -173,33 +177,41 @@ VIII.- Recibir del Órgano de Fiscalización Superior, las observaciones resulta
 
 IX.- Recibir del Congreso del Estado los Dictámenes derivados de las cuentas públicas correspondientes, para su debido cumplimiento, según lo establecido en los Artículos 63 y 64 de la Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California y sus Municipios; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-X.- Todas aquéllas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+X.- Participar en la formulación y vigilancia de la ejecución de los programas municipales de desarrollo social;
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-ARTÍCULO 8 BIS.- Del Síndico Social.- El Síndico Social tendrá a su cargo la función de procuración de la defensa de los intereses de los habitantes del municipio, ostentando las siguientes atribuciones:
+XI.- Participar en los programas y políticas públicas en materia de desarrollo social que se realicen en el ámbito de su competencia y vigilar que se hagan públicos sus resultados;
 
-I.- Participar en la formulación y ejecución de los programas municipales de desarrollo social, vigilando su cabal cumplimiento;
+> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-II.- Participar en los programas y políticas públicas en materia de desarrollo social que se realicen en el ámbito de su competencia y hacer públicos sus resultados;
+XII.- Proponer mecanismos de inclusión de participación social en los programas y acciones de desarrollo social;
 
-III.- Proponer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
+> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-IV.- Instrumentar y operar un sistema de comunicación para la recepción de quejas y sugerencias de la población en general, con relación a la prestación de servicios públicos municipales;
+XIII.- Recibir y dar trámite a las quejas contra servidores públicos o con relación a los servicios prestados por el ayuntamiento;
 
-V.- Instrumentar mecanismos para que la ciudadanía participe en la vigilancia de obras públicas y programas estratégicos del Ayuntamiento;
+> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-VI.- Nombrar y remover al personal a su cargo; y
+XIV.- Instrumentar y operar un sistema de comunicación con la población en general, con relación a la prestación de servicios municipales;
 
-VII.- Todas aquéllas que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2012)</small>
+XV.- Instrumentar mecanismos para que la ciudadanía participe en la vigilancia de obras públicas y programas estratégicos del Ayuntamiento;
+
+> <small>(REFORMADA [N DE E. ADICIONADA], P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Las demás que el Ayuntamiento le confiera en su reglamentación interior o de gobierno, o en los acuerdos específicos que adopte.
+
+ARTÍCULO 8 BIS.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 2016)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 9.
 
-Los Regidores, en conjunto con el Presidente Municipal, Síndico Procurador, y el Síndico Social en los casos que así corresponda, conforman el Ayuntamiento que es el órgano deliberante de representación popular de los ciudadanos del Municipio; no podrán ser reconvenidos por las manifestaciones que viertan con motivo del ejercicio de su cargo y tendrán las siguientes atribuciones:
+Los Regidores, en conjunto con el Presidente Municipal y el Síndico Procurador, conforman el Ayuntamiento que es el órgano deliberante de representación popular de los ciudadanos del Municipio; no podrán ser reconvenidos por las manifestaciones que viertan con motivo del ejercicio de su cargo y tendrán las siguientes atribuciones:
 
 I.- Participar en las sesiones de Cabildo y en la gestión de los intereses del Municipio en general y de las demarcaciones territoriales interiores en su caso, de conformidad con lo que al efecto establezca la reglamentación interna del Ayuntamiento;
 
@@ -694,3 +706,21 @@ P.O. 21 DE OCTUBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 683 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LAS FRACCIONES IX Y X, ASÍ COMO LA ADICIÓN DE LA FRACCIÓN XI, AL ARTÍCULO 7 DE LA LEY DE RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 46 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 8, SE DEROGA EL ARTÍCULO 8 BIS Y SE REFORMA EL ARTÍCULO 9 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Artículo Primero.- El presente decreto entrara en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Artículo Segundo.- Se derogan todas las disposiciones que contravengan el presente decreto.
+
+Artículo Tercero.- Los ayuntamientos deberán dentro (sic) un plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente reforma, adecuar la reglamentación municipal que corresponda.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 51 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 5 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los Municipios del Estado tendrán un plazo de 60 días, contados a partir de la entrada en vigor del presente decreto, para armonizar sus reglamentos conforme a lo establecido en la presente reforma.
