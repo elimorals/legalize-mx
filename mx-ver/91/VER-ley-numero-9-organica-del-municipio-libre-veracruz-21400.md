@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2016-11-11"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -793,6 +793,10 @@ XXV. Desempeño.
 
 XXVI. De Desarrollo Económico.
 
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+XXVII. De la niñez y la familia.
+
 ###### Artículo 41.
 
 Además de las señaladas en el artículo anterior, el Ayuntamiento podrá formar las Comisiones de carácter permanente o transitorias que requiera, conforme a las necesidades del servicio público. Asimismo, para su mejor prestación, podrá reasignar o reagrupar las funciones y servicios públicos señalados en el artículo 35, fracción XXV, debiendo notificarlo al Congreso del Estado.
@@ -1386,6 +1390,20 @@ IV. Proponer al Ayuntamiento la realización de acciones, ante los Ejecutivos Es
 V. Promover acciones de desarrollo económico con los municipios vecinos, cuando la naturaleza de los programas así lo requiera, proyectando agro parques que impulsen esa región como polo de desarrollo en el Estado; y
 
 VI. Vigilar la aplicación de los recursos provenientes de los programas productivos basados en la agricultura por contrato y agricultura certificada, dirigidos a los productores, cumpliendo con la normatividad establecida por el Estado o la Federación.
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+
+Artículo 60 duodecies. Son atribuciones de la Comisión de la Niñez y la Familia:
+
+I. Garantizar el ejercicio pleno del interés superior de la niñez previsto en nuestra Carta Magna y en los tratados internacionales;
+
+II. Promover y realizar acciones encaminadas al respeto de los derechos humanos de las niñas, niños y adolescentes, a través de la vinculación interinstitucional y la sociedad civil;
+
+III. Promover y destinar mayores recursos orientados a políticas públicas y acciones a favor de los derechos de niñas, niños y adolescentes;
+
+IV. Realizar un diagnóstico municipal sobre la situación de la niñez y la Adolescencia en el Municipio, que pueda orientar en la cuantificación de la violencia, exclusión, distinción, restricción o cualquier tipo de discriminación que tenga por objeto menoscabar o anular el reconocimiento, goce o ejercicio pleno de derechos humanos de las niñas, niños y adolescentes, donde se ponga especial énfasis en las personas menores en situación de mayor riesgo o vulnerabilidad de manera urgente; y
+
+V. Coadyuvar en la detección y orientación de denuncia en materia de trata de personas, en específico, lo referente a niñas, niños y adolescentes observando en todo momento los principios rectores, entre ellos el interés superior de la niñez.
 
 ### CAPÍTULO IX. DE LOS JEFES DE MANZANA, COMISARIO MUNICIPAL Y ORGANISMOS AUXILIARES
 
@@ -3884,3 +3902,11 @@ QUINTO. Para llevar a cabo las actividades derivadas de las facultades transferi
 SEXTO. En tanto se expidan las nuevas normas reglamentarias o reformas correspondientes, seguirá siendo aplicable en lo que no se oponga a estas reformas, la normatividad reglamentaria vigente.
 
 SÉPTIMO Las donaciones, compensaciones, multas o cuotas voluntarias de los trámites administrativos relacionados con los servicios prestados por la Secretaría, la Procuraduría y los Municipios en materia forestal, tendrán un fin específico relacionado con la protección y restauración del medio ambiente del Estado de Veracruz y serán depositados en el Subfiso del Fondo Forestal Estatal.
+
+G.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 230 QUE ADICIONA LA FRACCIÓN XXVII AL ARTÍCULO 40 Y EL ARTÍCULO 60 DUODECIES EN LA LEY ORGÁNICA DEL MUNICIPIO LIBRE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
