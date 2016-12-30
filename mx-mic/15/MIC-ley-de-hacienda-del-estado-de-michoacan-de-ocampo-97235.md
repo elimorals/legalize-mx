@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-97235"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2016-12-29"
+last_updated: "2016-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Octagésima Sección, del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 31 de diciembre de 2013.
 
@@ -445,9 +445,11 @@ III. Albergue a personas damnificadas por desastres naturales.
 
 El incumplimiento de las obligaciones a que se refiere este Capítulo, se sancionará en los términos que establezca el Código Fiscal del Estado de Michoacán de Ocampo.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 47.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 2014)
+De los recursos que se obtengan de la recaudación del impuesto sobre servicios de hospedaje, se destinará el equivalente al cien por ciento de lo recaudado, para la realización de acciones de fomento y promoción de la actividad turística del Estado, los que se aplicarán a través de un único fideicomiso creado para ese fin, en el que participarán los prestadores de servicios objeto de este impuesto, a través de los dirigentes de la organización empresarial que legalmente los agrupe.
 
 ### CAPÍTULO V. DEL IMPUESTO SOBRE EROGACIONES POR REMUNERACIÓN AL TRABAJO PERSONAL, PRESTADO BAJO LA DIRECCIÓN Y DEPENDENCIA DE UN PATRÓN
 
@@ -986,3 +988,15 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 294 POR EL QUE “SE ADICIONA EL ARTÍCULO 47 A LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1° primero de enero del año 2017, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado y al Titular de la Auditoría Superior de Michoacán, para los efectos conducentes.
