@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-benemerito-conservatorio-de-musica-del-estado-de-12232"
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-31"
-last_updated: "1998-07-31"
+last_updated: "2016-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # LEY DEL BENEMERITO CONSERVATORIO DE MUSICA DEL ESTADO DE PUEBLA -- ANTES LEY DEL CONSERVATORIO DE MUSICA --
 
-LEY DEL CONSERVATORIO DE MUSICA DEL ESTADO DE PUEBLA
+LEY DEL BENEMÉRITO CONSERVATORIO DE MÚSICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla el viernes 31 de julio de 1998.
 
@@ -51,13 +51,17 @@ Que con la creación del citado Conservatorio se dio un impulso significativo a 
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 63 fracción I, 64, 67 y 79 fracción VI de la Constitución Política del Estado Libre y Soberano de Puebla; 39 fracción IV, 40, 41, 42, 74 y 75 de la Ley Orgánica del Poder Legislativo; 39 y 42 fracción IV del Reglamento Interior del H. Congreso del Estado, se expide la siguiente:
 
-LEY DEL CONSERVATORIO DE MÚSICA DEL ESTADO DE PUEBLA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+LEY DEL BENEMÉRITO CONSERVATORIO DE MÚSICA DEL ESTADO DE PUEBLA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1.
 
-El Conservatorio de Música del Estado de Puebla es una Institución dependiente de la Secretaría de Educación Pública, el cual tendrá su domicilio en la Capital del Estado; sin perjuicio de establecer unidades en otras localidades de la Entidad.
+El Benemérito Conservatorio de Música del Estado de Puebla es una institución dependiente de la Secretaría de Educación Pública, el cual tendrá su domicilio en la Capital del Estado; sin perjuicio de establecer unidades en otras localidades de la Entidad.
 
 ###### Artículo 2.
 
@@ -67,7 +71,9 @@ I.- Secretaría: La Secretaría de Educación Pública del Estado;
 
 II.- Secretario: El Secretario de Educación Pública del Estado, y
 
-III.- Conservatorio: El Conservatorio de Música del Estado de Puebla.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2016)</small>
+
+III.- Conservatorio: El Benemérito Conservatorio de Música del Estado de Puebla.
 
 ###### Artículo 3.
 
@@ -179,7 +185,7 @@ La educación musical de tipo superior se ofrecerá a individuos que hayan concl
 
 ###### Artículo 15.
 
-Los aspirantes a ingresar a los niveles que componen la educación musical de tipo superior, deberán cumplir con los requisitos que marque esta Ley y el reglamento de ingreso, permanencia y egreso de alumnos del Conservatorio.
+Los aspirantes a ingresar a los niveles que componen la educación musical de tipo superior, deberán cumplir con los requisitos que marque (sic) esta Ley y el reglamento de ingreso, permanencia y egreso de alumnos del Conservatorio.
 
 ###### Artículo 16.
 
@@ -460,3 +466,15 @@ En tanto se expidan los reglamentos a que se hace referencia en el párrafo ante
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Heroica Ciudad de Puebla de Zaragoza, a los dieciséis días del mes de julio de mil novecientos noventa y ocho.- Diputado Presidente.- ENRIQUE ALEJANDRO CERRO BARRIOS.- Rúbrica.- Diputada Secretaria.- GUADALUPE HINOJOSA RIVERO.- Rúbrica.- Diputada Secretaria.- YOLANDA ZEGBE SANEN.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los diecisiete días del mes de julio de mil novecientos noventa y ocho.- El Gobernador Constitucional del Estado.- LICENCIADO MANUEL BARTLETT DÍAZ.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO CARLOS MANUEL MEZA VIVEROS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE DECLARA “BENEMÉRITO CONSERVATORIO” AL CONSERVATORIO DE MÚSICA DEL ESTADO DE PUEBLA, Y REFORMA LOS ARTÍCULOS 1 Y 2 DE LA LEY DEL CONSERVATORIO DE MÚSICA DEL ESTADO DE PUEBLA, ASÍ COMO SU DENOMINACIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las referencias al Conservatorio de Música del Estado de Puebla que se realicen dentro de la legislación local, sus reglamentos, manuales o cualquier disposición oficial, se entenderán al Benemérito Conservatorio de Música del Estado de Puebla.
