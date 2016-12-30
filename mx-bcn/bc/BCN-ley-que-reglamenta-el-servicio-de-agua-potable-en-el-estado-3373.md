@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado-337
 country: "mx"
 rank: "ley"
 publication_date: "1969-04-30"
-last_updated: "2015-03-20"
+last_updated: "2016-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DEL AGUA PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016. (ABROGADA)
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 30 de abril de 1969.
 
@@ -1264,3 +1266,83 @@ P.O. 20 DE MARZO DE 2015.
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a las presentes reformas.
+
+P.O. DE 30 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 55 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE LEY DEL AGUA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga la Ley que Reglamenta el Servicio de Agua Potable en el Estado de Baja California de fecha 30 de abril de 1969, la Ley de Fomento a la Cultura del Cuidado del Agua para el Estado de Baja California, de fecha 22 de marzo de 2013, así como la Ley de las Comisiones Estatales de Servicios Públicos del Estado de Baja California, de fecha 10 de febrero de 1979 y demás disposiciones en materia de agua potable y alcantarillado sanitario en el Estado de Baja California.
+
+TERCERO.- Las disposiciones reglamentarias derivadas de la presente Ley, se expedirán a más tardar dentro de seis meses siguientes a la entrada en vigor del presente ordenamiento legal. Hasta en tanto las referidas disposiciones no sean publicadas, en cuanto los procedimientos operativos para la prestación de los servicios públicos, continuarán vigentes las previstas en la Ley que Reglamenta el Servicio de Agua Potable en el Estado de Baja California.
+
+CUARTO.- Hasta en tanto no exista transferencia del Estado a los Gobiernos Municipales, de las funciones y servicios públicos, estos serán prestados por los Organismos Operadores Metropolitanos en los términos de esta Ley; para efectos de dicha transferencia deberán considerarse las condiciones territoriales y socioeconómicas, así como la capacidad administrativa y financiera que les permita a los Gobiernos Municipales prestar los servicios públicos de manera que no afecte a la población, condición que deberá ser confirmada mediante dictamen emitido y aprobado por el Congreso del Estado de Baja California.
+
+QUINTO.- La Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano prestará los servicios públicos a partir de la fecha en que quede concluida la extinción de las Comisiones de Servicios Públicos de Ensenada, Tecate y Tijuana.
+
+La Comisión Estatal de Servicios Públicos de Mexicali deberá ajustar su estructura, normatividad y operación en los términos de la presente Ley, a más tardar al 31 de diciembre de 2016.
+
+SEXTO.- El patrimonio de las Comisiones de Servicios Públicos de Ensenada, Tecate y Tijuana se transmitirá en forma automática, sin necesidad de actos jurídicos adicionales y a titulo universal a la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismos Metropolitano.
+
+SÉPTIMO.- Los Consejos de Administración de la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano y de la Comisión Estatal de Servicios Públicos de Mexicali deberán quedar integrados de conformidad con la presente Ley a más tardar en el primer trimestre del ejercicio fiscal 2017, para lo cual el Gobernador del Estado solicitará las propuestas de consejeros a que se refieren las fracciones VIII y IX del artículo 17 de la presente Ley, y llevará a cabo los nombramientos correspondientes.
+
+OCTAVO.- A la entrada en vigor de la presente Ley, el Gobernador del Estado, designará a un Director General Interino de la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano, y una vez integrado su Consejo de Administración, e iniciadas sus funciones respecto a la prestación de los servicios públicos, el Gobernador del Estado designará al Director General.
+
+NOVENO.- El Director General Interino de la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano, en coordinación con las Comisiones Estatales de Servicios Públicos de Ensenada, Tecate y Tijuana, deberán de atender a la brevedad además de las funciones que su cargo le confieren, las actividades siguientes:
+
+a). Informar a los agentes financieros que tengan celebrados contratos con las Comisiones Estatales de Servicios Públicos de Ensenada, Tecate y Tijuana de la transmisión del patrimonio de las mismas a la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano y para celebrar los actos jurídicos necesarios para dar cumplimiento a dichos contratos, incluyendo sin limitar, la ratificación de sus términos y condiciones, o su modificación y renegociación, el solicitar y obtener las anuencias, autorizaciones, permisos, renuncias o efectuar avisos necesarios para dar plena vigencia a sus términos y condiciones.
+
+b). Implementar y concluir el programa para la integración y consolidación de las operaciones de las Comisiones Estatales de Servicios Públicos de Ensenada, Tecate y Tijuana referido en el Artículo Transitorio Décimo Primero.
+
+c). Dar aviso de sustitución patronal al personal de las Comisiones Estatales de Servicios Públicos de Ensenada, Tecate y Tijuana.
+
+c). Gestionar ante el Registro Público de la Propiedad y de Comercio del Estado, oficinas registradoras de los Municipios de Ensenada, Playas de Rosarito, Tecate y Tijuana, la afectación de las partidas correspondientes a los inmuebles que integran el patrimonio de las Comisiones Estatales de Servicios Públicos de Ensenada, Tecate y Tijuana, para su transmisión a favor de la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Operador Metropolitano, con motivo de la expedición de la presente Ley. El Registro Público de la Propiedad y del Comercio procederá a realizar las anotaciones pertinentes.
+
+d). Elaborar la propuesta del Reglamento Interno de la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Operador Metropolitano, que habrá de someter al Consejo en un plazo no mayor a seis meses a su nombramiento.
+
+e). Presentar las Cuentas Públicas y los avances trimestrales de las Comisiones Estatales de Servicios Públicos de Ensenada, Tecate y Tijuana, ante el consejo para su aprobación y remisión a la legislatura local en cumplimiento de lo dispuesto en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, Ley de Fiscalización Superior de los Recursos Públicos para el Estado de Baja California.
+
+f). Atender con responsabilidad y diligencia las auditorias que se realicen a los órganos extintos por parte de los distintos órganos fiscalizadores ya sean federales o estatales.
+
+g). Presentar ante el Consejo un avance pormenorizado de los actos antes mencionados en la sección correspondiente o de requerirse autorización alguna para el desahogo de las mismas convocar a sesión extraordinaria conformé a lo establecido en la Ley de las Entidades Paraestatales del Estado de Baja California.
+
+DECIMO.- Las presentes reformas no afectarán los derechos adquiridos y demás prestaciones reconocidas a los trabajadores de base de las Comisiones Estatales de Servicios Públicos de Mexicali, Tecate, Tijuana y Ensenada con anterioridad al presente Decreto y a la sustitución patronal que refiere el inciso c) del artículo noveno transitorio.
+
+DECIMO PRIMERO.- Los trabajadores de base de las Comisiones Estatales de Servicios Públicos de Mexicali, Tecate, Tijuana y Ensenada, incluyendo los trabajadores del Municipio de Playas de Rosarito, no podrán bajo ningún concepto ser reasignados de lugar de trabajo a otro municipio, salvo su aceptación expresa y la anuencia de la autoridad sindical que corresponda.
+
+DECIMO SEGUNDO.- Tratándose de personal de base que sea reasignado dentro de la estructura de los dos organismos metropolitanos estatales que se crean; esta reasignación además de las reglas que refiere el artículo anterior, deberá respetar sus funciones y experiencia, y será con el visto bueno y la presencia de la Autoridad Sindical.
+
+DECIMO TERCERO.- En tanto se realice la sustitución patronal que refiere el inciso c) del artículo noveno transitorio, la relación laboral de los trabajadores de base de las Comisiones Estatales de Servicios Públicos de Mexicali, Tecate, Tijuana y Ensenada, se regirá por los Contratos Colectivos de Trabajo firmados con anterioridad al presente Decreto por cada una de las Secciones del Sindicato Único de Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California; y una vez hecha la sustitución los nuevos contratos colectivos serán firmados exclusivamente con cada una de las Secciones del Sindicato Único de Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California y sus condiciones no podrán ser menores a las antes mencionadas.
+
+DÉCIMO CUARTO.- La substitución de patrón no afectará las relaciones de trabajo de las Comisiones Estatales de Servicios Públicos de Mexicali, Tecate, Tijuana y Ensenada. El Gobierno del Estado de Baja California será solidariamente responsable con el nuevo patrón denominado Comisión Estatal de Servicios Públicos de Mexicali, Organismo Metropolitano y Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano respectivamente, por los juicios, procedimientos y laudos derivados de las relaciones de trabajo y de la Ley, nacidos antes de la fecha de la substitución.
+
+DECIMO QUINTO.- Tratándose de trabajadores de confianza, eventuales y de nuevo ingreso, estos seguirán con los mismos derechos y obligaciones de la relación laboral adquirida con las Comisiones Estatales de Servicios Públicos de Mexicali, Tecate, Tijuana y Ensenada y serán respetados los acuerdos firmados con anterioridad al presente Decreto por cada una de las Secciones del Sindicato Único de Trabajadores al Servicio de los Poderes del Estado, Municipios e Instituciones Descentralizadas de Baja California; y una vez hecha la sustitución las condiciones resultantes no podrán ser menores a las antes mencionadas.
+
+DÉCIMO SEXTO.- Los Consejos de Administración de la Comisión Estatal de Servicios Públicos de la Zona Costa y de la Comisión Estatal de Servicios Públicos de Mexicali, tendrán un plazo que no excederá de seis meses contados a partir de la instalación (sic) los mismos, para aprobar su Reglamento Interno, para que posteriormente sea remitido al titular del Poder Ejecutivo Estatal, para su expedición. En tanto no sean emitidos los Reglamentos correspondientes, continuarán vigentes, en lo que no se opongan a la presente Ley, el Reglamento Interno de la Comisión de Servicios Públicos de Tijuana, para la Comisión Estatal de Servicios Públicos de la Zona Costa y el Reglamento Interno de Comisión Estatal de Servicios Públicos de Mexicali.
+
+DÉCIMO SÉPTIMO.- Los Directores Generales de las Comisiones Estatales de Servicios Públicos de Ensenada, Tecate, y Tijuana formularán un programa para la integración y consolidación de las operaciones en los términos del artículo 3 fracción II de la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos para el Estado de Baja California, a efecto de que la fusión de dichos organismos en la Comisión Estatal de Servicios Públicos de la Zona Costa, quede en el primer semestre del ejercicio fiscal 2017.
+
+DÉCIMO OCTAVO.- Los Directores Generales de las Comisiones Estatales de Servicios Públicos de Ensenada, Tecate y Tijuana formularán y presentaran ante su Consejo la solicitud de cambio de deudor solidarios (sic) y reestructuración de deuda pública de los contratos de créditos que cuenten y que constituyan deuda pública, acompañada del programa financiero respectivo para su autorización y remisión a la Secretaría de Planeación y Finanzas del Estado en los términos de la Ley de Deuda Pública del Estado de Baja California y sus Municipios, con el propósito que dicha Secretaría gestione conforme a la Ley la autorización para la emisión y contratación de deuda pública a la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano.
+
+DÉCIMO NOVENO.- Corresponde a la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano, atender la confronta derivada de la fiscalización de las cuentas públicas de las Comisiones Estatales de Servicios Públicos de Ensenada, Tecate y Tijuana, y en coordinación con las dependencias que considere atiendan las observaciones que emita el Órgano Fiscalizador.
+
+VIGÉSIMO.- Los procesos judiciales, administrativos y laborales, así como los demás asuntos jurídicos que se encuentren en proceso a la fecha en que la Comisión Estatal de Servicios Públicos de la Zona Costa inicié en la prestación de los servicios públicos del agua, incluyendo los derivados de la determinación y cobro de contribuciones y sanciones a nombre de las Comisiones Estatales de Servicios Públicos de Ensenada, Tecate y Tijuana, corresponderá atenderlos a la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano.
+
+VIGÉSIMO PRIMERO.- Los créditos fiscales generados a favor de las Comisiones Estatales de Servicios Públicos de Ensenada, Tecate y Tijuana, que a la fecha en que la Comisión Estatal de Servicios Públicos de la Zona Costa inicié en la prestación de los servicios públicos del agua queden sin cubrir, derivados de los servicios públicos así como de los convenios de adeudos, serán cobrados y recaudados por la Secretaría de Planeación y Finanzas del Estado por conducto de las Subrecaudaciones Adscritas a dichos Organismos, e ingresados a la (sic) cajas recaudadoras de la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano.
+
+VIGÉSIMO SEGUNDO.- Los adeudos generados y el patrimonio a favor de los organismos públicos descentralizados denominados Comisiones Estatales de Servicios Públicos de Ensenada, Tecate y Tijuana se transfieren a partir de la fecha en que se concluya el procedimiento descrito en el transitorio Décimo Segundo a la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano.
+
+VIGÉSIMO TERCERO.- La Secretaría General de Gobierno del Estado, la Secretaría de Planeación y Finanzas del Estado, la Dirección de Control y Evaluación Gubernamental del Estado, y la Oficialía Mayor de Gobierno del Estado, en la esfera de sus respectivas atribuciones, establecerán las medidas necesarias para efecto de dar cumplimiento a lo previsto en la presente Ley.
+
+VIGÉSIMO CUARTO.- Se instruye al Director General Interino de la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano para que lleve a cabo las acciones necesarias para:
+
+a. Obtener el registro federal de contribuyentes de la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano.
+
+b. Gestione ante todas (sic) instituciones Bancarias la apertura de cuentas de cheques a favor de la Comisión Estatal de Servicios Públicos de la Zona Costa, Organismo Metropolitano.
+
+Lo anterior con el propósito que el organismo cuente con la personalidad jurídica y fiscal que requiere al entrar en funcionamiento.
+
+VIGÉSIMO QUINTO.- Se derogan las disposiciones que se establezcan en otras leyes, reglamentos, acuerdos, circulares o disposiciones administrativas en la parte que contenga exenciones, totales o parciales, beneficios o estímulos fiscales, o consideren a personas como no sujetos de estos derechos, salvo las establecidas en esta Ley, en la Ley de Ingresos del Estado vigente y los Acuerdos emitidos por el Gobernador del Estado en términos del Código Fiscal del Estado.
+
+VIGÉSIMO SEXTO.- Las tarifas a las que se refieren los artículos 138, 139, 140, 141 y 142, serán aplicables a partir del ejercicio fiscal 2017, y su actualización en términos del artículo 119 será a partir del ejercicio fiscal 2018.
