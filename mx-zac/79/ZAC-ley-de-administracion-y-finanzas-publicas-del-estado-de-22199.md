@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-administracion-y-finanzas-publicas-del-estado-de-22199"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-19"
-last_updated: "2013-03-23"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE ADMINISTRACION Y FINANZAS PUBLICAS DEL ESTADO DE ZACATECAS
 
+[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
 LEY DE ADMINISTRACIÓN Y FINANZAS PÚBLICAS DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 19 de septiembre de 2001.
 
@@ -968,3 +970,49 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE DISCIPLINA FINANCIERA Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Administración y Finanzas Públicas del Estado de Zacatecas, contenida en el Decreto No. 329, publicado en Suplemento al número 75 del Periódico Oficial del Gobierno del Estado, correspondiente al día 19 de septiembre del 2001.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan a lo contenido en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos de lo dispuesto en el artículo 23 de la presente Ley, el nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5% para el año 2017, 5.0% para el año 2018, 7.5% para el año 2019 y, a partir del año 2020 se observará el porcentaje establecido en el artículo citado.
+
+###### ARTÍCULO QUINTO.
+
+Lo dispuesto en la fracción I del artículo 54 de la presente Ley, entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
+
+Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo 54 de esta Ley, hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
+
+###### ARTÍCULO SEXTO.
+
+El porcentaje que hace referencia el artículo 22 de esta Ley, relativo a los adeudos de ejercicios fiscales anteriores del Estado será del 5% para el ejercicio 2017, 4% para el 2018, 3% para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+En el caso de los Municipios del Estado, el porcentaje al que se refiere el artículo 22, será del 5.5% para el año 2018; 4.5% para el año 2019; 3.5% para el año 2020; y a partir del año 2021 se estará al porcentaje establecido en dicho artículo.
+
+###### ARTÍCULO SÉPTIMO.
+
+El registro de proyectos de inversión pública productiva del Estado y el sistema de registro y control de las erogaciones de servicios personales, a que se refiere el artículo 26 fracción III, segundo párrafo y la fracción V, segundo párrafo, respectivamente, de esta Ley, deberá estar en operación a más tardar el 1° de enero de 2018.
+
+###### ARTÍCULO OCTAVO.
+
+Los Ingresos excedentes derivados de Ingresos de libre disposición a que hace referencia el artículo 27, fracción I de esta Ley, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de esta Ley hasta el ejercicio fiscal 2021.
+
+En lo correspondiente al último párrafo del artículo 27 de esta Ley, adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2018 los ingresos excedentes derivados de ingresos de libre disposición, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas, de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+###### ARTÍCULO NOVENO.
+
+Los Entes Públicos que no cuenten con un órgano interno de control, deberán habilitarlo en el término no mayor a 90 días hábiles a partir de la publicación del presente Decreto.
