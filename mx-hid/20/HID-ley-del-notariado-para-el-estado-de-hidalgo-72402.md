@@ -4,7 +4,7 @@ identifier: "HID-ley-del-notariado-para-el-estado-de-hidalgo-72402"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2015-12-31"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 25 de enero de 2010.
 
@@ -37,7 +37,7 @@ QUE CONTIENE LA LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo D E C R E T A:
 
-A N T E C E D E N T E S.
+A N T E C E D E N T E S...
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR El SIGUIENTE:
 
@@ -321,7 +321,9 @@ IV.- Establecer la notaría en el lugar autorizado por la patente e iniciar func
 
 Para el caso de que el notario público cambie el domicilio de su notaría, éste dará el aviso correspondiente a la Dirección, solicitando se publique a su costa el cambio en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en la Entidad; y
 
-V.- Obtener fianza o seguro de responsabilidad civil profesional a favor de la Secretaría, por la cantidad que resulte de multiplicar por mil, el importe del salario mínimo general diario en el Estado, vigente a la fecha de la constitución de la misma. Dicha fianza o seguro deberá mantenerse vigente y actualizarse en el mes de enero de cada año, modificándose en la misma forma en que se haya modificado a esa fecha el salario mínimo de referencia, salvo que la fianza o seguro a esa fecha cubra una cantidad mayor.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V.- Obtener fianza o seguro de responsabilidad civil profesional a favor de la Secretaría, por la cantidad que resulte de multiplicar por mil, el importe de la Unidad de Medida y Actualización vigente a la fecha de la constitución de la misma. Dicha fianza o seguro deberá mantenerse vigente y actualizarse en el mes de enero de cada año, modificándose en la misma forma en que se haya modificado a esa fecha la Unidad de Medida y Actualización de referencia, salvo que la fianza o seguro a esa fecha cubra una cantidad mayor.
 
 El Notario Público deberá presentar anualmente del Colegio o, en su caso, de la compañía legalmente autorizada, el documento que acredite la constitución de la fianza correspondiente ante la Dirección. La omisión en que incurra el Notario Público a esta disposición será sancionada por la autoridad administrativa en términos de la presente Ley. El contrato de fianza correspondiente se celebrará en todo caso en el concepto de que el fiador no gozará de los beneficios de orden y excusión.
 
@@ -725,11 +727,11 @@ El Notario Público Titular es responsable administrativamente de la conservaci�
 
 Dentro de los sesenta días hábiles siguientes a la integración de cada libro del Protocolo, sino (sic) hubiera impedimento legal el Notario Público deberá asentar en una hoja adicional que deberá agregarse al final del libro una razón de cierre en la que se indicara la fecha del asiento, el número de folios utilizados e inutilizados, la cantidad de instrumentos asentados y los autorizados, los pendientes de autorizar, los que no pasaron y pondrá al calce de la misma su firma y sello de autorizar.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 79.
 
-A partir de la fecha en que se asiente la razón del cierre del libro a que se refiere el artículo anterior, el notario público dispondrá de un plazo máximo de ciento ochenta días para encuadernarlo y enviarlo a la Dirección, la que revisará solamente la exactitud de la razón a que se refiere el artículo anterior debiendo devolver el libro al notario público dentro de los diez días hábiles siguientes a la fecha de entrega con la certificación de cierre. Los libros que sean remitidos después del plazo indicado, causaran el cobro de una multa equivalente a 2 salarios mínimos por cada libro. La Dirección no autorizará folios cuando no sean enviados los libros para la certificación de cierre, dentro del plazo señalado.
+A partir de la fecha en que se asiente la razón del cierre del libro a que se refiere el artículo anterior, el notario público dispondrá de un plazo máximo de ciento ochenta días para encuadernarlo y enviarlo a la Dirección, la que revisará solamente la exactitud de la razón a que se refiere el artículo anterior debiendo devolver el libro al notario público dentro de los diez días hábiles siguientes a la fecha de entrega con la certificación de cierre. Los libros que sean remitidos después del plazo indicado, causaran el cobro de una multa equivalente a 2 veces la Unidad de Medida y Actualización vigente por cada libro. La Dirección no autorizará folios cuando no sean enviados los libros para la certificación de cierre, dentro del plazo señalado.
 
 ###### ARTÍCULO 80.
 
@@ -975,7 +977,9 @@ El notario público dará de alta en el sistema del Registro Nacional de Avisos 
 
 Los notarios públicos ante quienes se tramite una escritura por conducto de apoderados, deberán verificar si el poder se encuentra inscrito en el Registro Nacional de Avisos de Poderes Notariales o si éstos no han sido revocados.
 
-Para el caso de que el aviso de poder se presente fuera del plazo indicado ante la Dirección, se impondrá multa equivalente a 8 salarios mínimos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para el caso de que el aviso de poder se presente fuera del plazo indicado ante la Dirección, se impondrá multa equivalente a 8 veces la Unidad de Medida y Actualización vigente.
 
 ###### ARTÍCULO 107.
 
@@ -991,9 +995,9 @@ Los Jueces y los Notarios Públicos ante quienes se tramite una sucesión, recab
 
 Al expedir el informe indicado la Dirección mencionará en él, si con anterioridad ha proporcionado el mismo informe a otro funcionario.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Para el caso de que el aviso de testamento se presente fuera del plazo indicado, se impondrá multa equivalente a 30 salarios mínimos.
+Para el caso de que el aviso de testamento se presente fuera del plazo indicado, se impondrá multa equivalente a 30 veces la Unidad de Medida y Actualización vigente.
 
 ###### ARTÍCULO 108.
 
@@ -1257,7 +1261,9 @@ III.- Ejercer sus funciones cuando sean solicitados o requeridos siempre que no 
 
 IV.- Pertenecer al Colegio;
 
-V.- Actualizar durante los primeros treinta días hábiles de cada año, la garantía a que se refiere esta Ley, atendiendo a los criterios generales de incremento de los salarios mínimos, debiendo mantenerla vigente inclusive durante todo el año siguiente a aquél en que haya dejado de ejercer en forma definitiva;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V.- Actualizar durante los primeros treinta días hábiles de cada año, la garantía a que se refiere esta Ley, atendiendo a los criterios generales de incremento de la Unidad de Medida y Actualización en su caso, debiendo mantenerla vigente inclusive durante todo el año siguiente a aquél en que haya dejado de ejercer en forma definitiva;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1271,9 +1277,9 @@ VII.- Mantener abiertas sus oficinas por lo menos ocho horas diarias en días h�
 
 VIII.- Reanudar sus funciones dentro de los treinta días hábiles siguientes al de la terminación de la licencia o de la suspensión, salvo lo dispuesto en el artículo 43 de esta de (sic) Ley;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IX.- Cuando así sean expensados, deberán entregar a los interesados los testimonios debidamente inscritos en el Registro Público de la Propiedad y del Comercio, cuando contengan actos traslativos de dominio u otros actos jurídicos que deban ser inscritos, a más tardar dentro de los 4 meses siguientes, a partir de que se haya firmado la escritura, salvo causa justificada; para el caso de que el interesado se encargue de la inscripción en el Registro Público de la Propiedad, el notario deberá entregar el testimonio en 2 meses a partir de que se haya firmado la escritura, salvo causa justificada. El notario público que incumpla con los plazos señalados sin causa justificada, se hará acreedor a una multa de 1 a 12 meses de salario mínimo; y
+IX.- Cuando así sean expensados, deberán entregar a los interesados los testimonios debidamente inscritos en el Registro Público de la Propiedad y del Comercio, cuando contengan actos traslativos de dominio u otros actos jurídicos que deban ser inscritos, a más tardar dentro de los 4 meses siguientes, a partir de que se haya firmado la escritura, salvo causa justificada; para el caso de que el interesado se encargue de la inscripción en el Registro Público de la Propiedad, el notario deberá entregar el testimonio en 2 meses a partir de que se haya firmado la escritura, salvo causa justificada. El notario público que incumpla con los plazos señalados sin causa justificada, se hará acreedor a una multa de 1 a 12 veces el valor mensual de la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1609,7 +1615,9 @@ Se constituye el Fondo de Garantía del Notariado del Estado, como instrumento d
 
 El Fondo de Garantía se integra con:
 
-I.- Los depósitos que al efecto realicen los Notarios Públicos para el inicio de sus funciones, por la cantidad que resulte de multiplicar por mil el salario mínimo general vigente en el Estado; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+I.- Los depósitos que al efecto realicen los Notarios Públicos para el inicio de sus funciones, por la cantidad que resulte de multiplicar por mil veces de la Unidad de Medida y Actualización vigente; y
 
 II.- Los depósitos que al efecto realicen los Notarios Públicos anualmente por concepto de actualización de la garantía de su Función.
 
@@ -1699,7 +1707,7 @@ IX.- El Notario Público o la persona con quien se entienda la inspección podr�
 
 X.- Si la inspección fuera general el Notario Público deberá ser notificado por lo menos con cinco días hábiles de anticipación. Tratándose de inspección especial a instancia de parte deberá realizarse con tres días hábiles de anticipación y agregarse copia del escrito y anexos que la motivan, en caso de no encontrarse el Notario Público en el domicilio, la notificación se hará por correo certificado con acuse de recibo;
 
-Xl.- Si la visita fuere general el inspector revisará todo el Protocolo o diversas partes de éste, para cerciorarse del cumplimiento de la Función Notarial en sus formalidades, sin que pueda revisar el contenido del instrumento;
+XI.- Si la visita fuere general el inspector revisará todo el Protocolo o diversas partes de éste, para cerciorarse del cumplimiento de la Función Notarial en sus formalidades, sin que pueda revisar el contenido del instrumento;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1763,25 +1771,41 @@ Para la aplicación de las sanciones a que se refiere el artículo anterior, la 
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 187.
 
-Se sancionará al notario con multa de uno a doce meses de salario mínimo general vigente en el momento del incumplimiento:
+Se sancionará al notario con multa de uno a doce veces el valor mensual de la Unidad de Medida y Actualización vigente, en el momento del incumplimiento:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 I.- Por retraso injustificado imputable al notario público o a su personal en la realización de una actuación o trámite de una escritura de acuerdo al servicio solicitado, siempre y cuando, el interesado hubiere entregado la documentación previa que el notario público le requiera y acredite haber cumplido con los pagos o gastos solicitados;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 II.- Por abstenerse de llevar los correspondientes índices, de encuadernar los libros del Protocolo y sus apéndices o conservarlos en términos de Ley; o de enviar oportunamente los libros del protocolo, apéndices e índices que le solicite la Dirección, conforme a lo establecido en la presente Ley;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 III.- Por separarse de sus funciones sin haber dado previo aviso u obtenido licencia;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 IV.- Por negarse a ejercer sus funciones habiendo sido requerido y expensado en su caso para ello, sin que medie explicación o justificación fundada por parte del notario público al solicitante;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 V.- Por negarse a ejercer sus funciones en actividades de orden público e interés social por mandato legal o a solicitud de la Dirección;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 VI.- Por negarse a ejercer sus funciones en días y horas hábiles y excepcionalmente en los inhábiles en los términos de esta Ley;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 VI.- (SIC) Por incumplir en tiempo el otorgamiento o dejar de mantener en vigor la garantía del ejercicio de sus funciones siempre que se trate de la primera vez que el Notario Público cometa esta falta; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 VIII.- Por deficiencias administrativas en el ejercicio de la función notarial.
 
@@ -1905,9 +1929,11 @@ La Dirección procederá a la clausura de las oficinas en donde se hayan cometid
 
 ### CAPÍTULO ÚNICO. ARANCEL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 199.
 
-El Ejecutivo expedirá y publicará anualmente en el Periódico Oficial del Estado el Arancel al que los Notarios Públicos sujetarán el cobro de sus honorarios, gastos notariales y gestoría el cual se determinará, con referencia al salario mínimo para su actualización.
+El Ejecutivo expedirá y publicará anualmente en el Periódico Oficial del Estado el Arancel al que los Notarios Públicos sujetarán el cobro de sus honorarios, gastos notariales y gestoría el cual se determinará con referencia al valor diario de la Unidad de Medida y Actualización vigente para su actualización, salvo disposición expresa.
 
 ###### ARTÍCULO 200.
 
@@ -1970,3 +1996,13 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
