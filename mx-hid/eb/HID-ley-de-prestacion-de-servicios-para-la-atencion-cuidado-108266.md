@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prestacion-de-servicios-para-la-atencion-cuidado-108266"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-25"
-last_updated: "2015-05-25"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108266&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO, PROTECCIÓN Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de mayo de 2015.
 
@@ -725,7 +725,9 @@ Los plazos a que se refiere el artículo anterior, podrán ampliarse siempre y c
 
 Las autoridades verificadoras, de conformidad con el Reglamento de esta Ley, podrán imponer las siguientes sanciones:
 
-I. Multa administrativa de 50 a 2000 días de salario mínimo general vigente en el Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+I. Multa administrativa de 50 a 2000 veces la Unidad de Medida y Actualización vigente;
 
 II. Suspensión temporal de la autorización a que se refiere esta Ley; y
 
@@ -733,9 +735,11 @@ III. Revocación de la autorización a que se refiere esta Ley y la cancelación
 
 Estas sanciones se aplicarán sin perjuicio de las que procedan de conformidad con lo establecido en otras disposiciones legales y normativas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 68.
 
-Será impuesta una multa de cincuenta a mil días de salario mínimo general vigente en el Estado de Hidalgo, en los siguientes casos:
+Será impuesta una multa de cincuenta a mil veces la Unidad de Medida y Actualización vigente, en los siguientes casos:
 
 I. Impedir total o parcialmente el desarrollo de la visita del personal encargado de realizar las supervisiones correspondientes;
 
@@ -753,9 +757,11 @@ VII. Realizar por parte del personal que labora en los Centros de Atención, alg
 
 VIII. Algunas más que se deriven de otros ordenamientos aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 69.
 
-La suspensión temporal será impuesta, además de una una (sic) multa de cien a mil quinientos días de salario mínimo general vigente en el Estado de Hidalgo, en los siguientes casos:
+La suspensión temporal será impuesta, además de una multa de cien a mil quinientas veces la Unidad de Medida y Actualización vigente, en los siguientes casos:
 
 I. Carecer del personal competente o suficiente para brindar los servicios para la atención, cuidado, protección y desarrollo integral infantil;
 
@@ -771,9 +777,11 @@ VI. Reincidir en alguna de las causas que originen las sanciones contenidas en e
 
 En caso de pérdida de la vida o la existencia de lesiones graves en una niña o niño, se impondrá la suspensión temporal, hasta en tanto se deslinde la responsabilidad del Centro de Atención o del personal relacionado con el mismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 70.
 
-La revocación de la autorización y cancelación del registro serán impuestas, además de multa de doscientos a dos mil días de salario mínimo vigente en el Estado de Hidalgo, en los siguientes casos:
+La revocación de la autorización y cancelación del registro serán impuestas, además de multa de doscientos a dos mil veces la Unidad de Medida y Actualización vigente, en los siguientes casos:
 
 I. La pérdida de la vida o existencia de lesiones graves en una niña o niño, acreditadas mediante sentencia ejecutoria que haya causado estado y sean atribuibles al incumplimiento de la presente Ley y demás disposiciones aplicables;
 
@@ -822,3 +830,15 @@ PRESIDENTE, DIP. PEDRO OCAMPO TREJO.- RÚBRICA; SECRETARIO, DIP. RAMIRO MENDOZA 
 EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS VEINTIDÓS DÍAS DEL MES DE MAYO DEL AÑO DOS MIL QUINCE. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
