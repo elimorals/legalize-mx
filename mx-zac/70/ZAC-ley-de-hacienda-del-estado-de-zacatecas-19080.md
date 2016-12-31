@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2016-08-27"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A PARTIR DEL 1 DE ENERO DE 2017.]</small>
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -3884,3 +3884,35 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE HACIENDA DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. La presente Ley entrará en vigor en todo el Estado de Zacatecas a partir del 1 de enero de 2017, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. A la entrada en vigor de la presente Ley queda abrogada la Ley de Hacienda del Estado de Zacatecas publicada en el Suplemento número 3 al 105 del Periódico Oficial del Gobierno del Estado, correspondiente al día 30 de diciembre de 2000 que contiene el Decreto No. 228, así como todas aquellas disposiciones emitidas con posterioridad al citado Decreto y que se opongan al presente.
+
+TERCERO. Los contribuyentes sujetos al pago del Impuesto Adicional para la Infraestructura quedarán inscritos automáticamente con base en el cumplimiento de los artículos 98 y 99 de esta Ley.
+
+CUARTO. Los ingresos que se obtengan de la recaudación del Impuesto establecido en el Capítulo Séptimo Sección I del Título Segundo de esta Ley, se destinarán prioritariamente a:
+
+I. La inversión en infraestructura física, incluyendo la construcción, reconstrucción, ampliación, mantenimiento y conservación de infraestructura; así como la adquisición de bienes para el equipamiento de las obras generadas o adquiridas; infraestructura hidroagrícola, y hasta un 3 por ciento del costo del programa o proyecto programado en el ejercicio fiscal correspondiente, para gastos indirectos por concepto de realización de estudios, elaboración y evaluación de proyectos, supervisión y control de estas obras de infraestructura; entendiéndose como tal la establecida en el artículo 2 fracción XXI de la Ley de Obligaciones y Empréstitos y Deuda Pública;
+
+II. Como fuente de financiamiento para su aportación en convenios de coordinación, reasignación o pari passu con el Gobierno Federal, siempre y cuando su destino sea lo establecido en la fracción anterior;
+
+III. Al saneamiento financiero, a través de la amortización de la deuda pública, expresada como una reducción al saldo registrado al 31 de diciembre del año inmediato anterior, siempre y cuando su contratación provenga de conceptos establecidos en la fracción I de este artículo.
+
+QUINTO. En tanto no sea publicado el Código de Biodiversidad para el Estado de Zacatecas, será aplicable de manera supletoria lo dispuesto en la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Zacatecas, la Ley del Cambio Climático para el Estado de Zacatecas y sus Municipios y la Ley de Residuos Sólidos para el Estado de Zacatecas.
+
+SEXTO. En tanto los organismos a que hacen referencia los artículos 124 y 132 de esta Ley, no realicen la publicación de los servicios por los que procede el cobro de derechos, se continuarán aplicando las tarifas o cuotas del ejercicio inmediato anterior.
+
+SÉPTIMO. Las referencias que se hagan y las atribuciones que se otorgan en la presente Ley, a las dependencias o unidades administrativas que desaparezcan o cambien de denominación por virtud de la entrada en vigor de la nueva Ley Orgánica de la Administración Pública del Estado de Zacatecas, se entenderán hechas o conferidas a las dependencias o unidades administrativas que resulten competentes conforme a la misma, de acuerdo con sus atribuciones y su denominación.
+
+OCTAVO. Los recursos obtenidos por el importe que represente el incremento en la recaudación del Impuesto para la Universidad Autónoma de Zacatecas establecido en el Capítulo Séptimo, Sección II del Título Segundo de esta Ley, se destinará al saneamiento financiero de la citada Universidad.
+
+Para los efectos del presentre (sic) artículo, se entenderá lo siguiente:
+
+I. Incremento de la recaudación será la diferencia de los ingresos observados del ejercicio 2017 con relación a 2016, del citado impuesto.
+
+II. Saneamiento Financiero serán los recursos que se destinen a la disminución de pasivos, considerándose entre otros los establecidos en el artículo 90 de esta Ley, los de carácter fiscal, instituciones de seguridad social, proveedores, entre otros, expresada como una reducción al saldo registrado al 31 de diciembre del año inmediato anterior, asimismo, podrán realizarse otras acciones de saneamiento financiero, siempre y cuando se acredite un impacto favorable en la fortaleza de las finanzas de la Universidad Autónoma de Zacatecas.
