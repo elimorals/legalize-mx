@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-presupuesto-y-responsabilidad-hacendaria-del-848
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2015-12-31"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -41,9 +41,11 @@ LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
 ### CAPÍTULO PRIMERO. OBJETO Y DEFINICIONES DE LA LEY, REGLAS GENERALES Y EJECUTORES DE GASTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, y tiene por objeto reglamentar los artículos 59 fracciones XXI. XXI Bis; 61; 99; 114; 137 y 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca, en materia de programación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos.
+La presente Ley es de orden público, y tiene por objeto reglamentar los artículos 53 fracción VII, 59 fracciones XXI, XXI Bis, 61, 99, 114, 137 y 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca, en materia de programación, presupuestación, aprobación, ejercicio, control y evaluación de los ingresos y egresos públicos.
 
 Los Ejecutores de gasto estarán obligados a cumplir las disposiciones de esta Ley así como observar que la administración de los recursos públicos se realice con base en criterios de legalidad, eficiencia, eficacia, economía, transparencia, honradez, racionalidad, austeridad, control, rendición de cuentas y equidad de género.
 
@@ -267,6 +269,20 @@ Los titulares de las Unidades Responsables tendrán facultades para delegar la s
 
 Los titulares de las Unidades de administración estarán facultados para realizar los trámites presupuestarios y, en su caso, emitir las autorizaciones correspondientes en los términos de esta Ley y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 8 Bis.
+
+Una vez aprobado el Presupuesto de Egresos para el ejercicio del gasto, los Ejecutores de gasto, deberán observar las disposiciones siguientes:
+
+I. Sólo podrán comprometer recursos con cargo al presupuesto aprobado, contando previamente con la suficiencia presupuestaria, identificando la fuente de financiamiento;
+
+II. Podrán realizar erogaciones adicionales a las aprobadas en el presupuesto, cuando la Secretaría autorice adecuaciones presupuestarias derivadas de ingresos excedentes que se obtengan, las que invariablemente tendrán el carácter de no regularizables para los ejercicios fiscales subsecuentes;
+
+III. Con anterioridad al ejercicio o contratación de cualquier proyecto de inversión pública cuyo monto rebase el equivalente a 50 millones de pesos, deberá realizarse un análisis costo y beneficio, en donde se muestre que dichos proyectos son susceptibles de generar, en cada caso, un beneficio social neto bajo supuestos razonables. Dicho análisis no se requerirá en el caso del gasto de inversión que se destine a la atención prioritaria de desastres naturales declarados en los términos de la Ley General de Protección Civil, y
+
+IV. En el caso de proyectos de inversión pública que rebase el equivalente a 500 millones de pesos, deberá realizar un análisis costo eficiencia, a nivel de prefactibilidad.
+
 ###### Artículo 9.
 
 El Ejecutivo Estatal autorizará, por conducto de la Secretaría, la participación estatal en las empresas, sociedades y asociaciones, civiles o mercantiles, ya sea en su creación, para aumentar su capital o patrimonio o adquiriendo todo o parte de éstos en los términos de la Ley de Entidades Paraestatales del Estado de Oaxaca.
@@ -301,19 +317,31 @@ Los fideicomisos públicos que tengan como objeto principal financiar programas 
 
 Cuando en alguna disposición legal se haga referencia a la constitución de fondos, invariablemente deberán ser considerados como fideicomisos públicos de administración y pago, debiendo observar lo establecido en el presente artículo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 11.
 
-Las dependencias y entidades podrán otorgar donativos o subsidios los cuales mantienen su naturaleza jurídica de recursos públicos estatales para efectos de su fiscalización y transparencia; siempre y cuando cumplan con lo que a continuación se señala:
+Las Dependencias y Entidades podrán otorgar donativos y subsidios, cuando estén previstos en sus programas operativos anuales. Los recursos públicos otorgados mantendrán su naturaleza jurídica de recursos públicos estatales para efectos de su fiscalización y transparencia.
 
-I. Los donativos en numerario deberán otorgarse en los términos de esta Ley y del Reglamento;
+Las Dependencias y Entidades en los programas de subsidios deberán cumplir con lo siguiente:
 
-II. Los recursos se identificarán específicamente en una subcuenta, misma que deberá reportarse en los informes trimestrales, identificando los ingresos, incluyendo rendimientos financieros del periodo, egresos, así como su destino y el saldo;
+I. Identificar la población objetivo, tanto por grupo específico como por región del Estado y Municipios;
 
-III. En el caso de fideicomisos constituidos por particulares, la suma de los recursos públicos estatales otorgados no podrá representar, en ningún momento, más del 50 por ciento del saldo en el patrimonio neto de los mismos;
+II. El propósito y destino principal;
 
-IV. Tratándose de fideicomisos constituidos por las entidades, se requerirá la autorización del titular de la dependencia o entidad para otorgar recursos públicos estatales que representen más del 50 por ciento del saldo en el patrimonio neto de los mismos, informando de ello a la Secretaría y a la Contraloría; y
+III. La temporalidad de su otorgamiento;
 
-V. Si existe compromiso recíproco del Ejecutivo Estatal o de los particulares para otorgar recursos al patrimonio y aquéllos incumplen, el Ejecutivo Estatal, por conducto de la dependencia o entidad con cargo a cuyo presupuesto se hayan otorgado los recursos, suspenderá las aportaciones subsecuentes.
+IV. Prever los montos máximos por beneficiario y porcentaje del costo total del programa;
+
+V. Determinar los mecanismos de distribución, operación y administración;
+
+VI. Garantizar que los recursos se entreguen a la población objetivo;
+
+VII. Remitir a la Secretaria el programa e informes trimestrales de avance y resultados alcanzados para su publicación en la página de internet de la misma, y
+
+VIII. Las demás obligaciones contenidas en la presente Ley y su Reglamento, así como las señaladas por el Consejo Nacional de Armonización Contable.
+
+Tratándose de donativos, las Dependencias y Entidades deberán cumplir con lo establecido en el artículo 76 de la presente Ley.
 
 ###### Artículo 12.
 
@@ -723,17 +751,25 @@ La estructura programática que se envíe a la Legislatura se apegará a lo esta
 
 La Legislatura podrá remitir al Ejecutivo Estatal, opinión en un plazo de 15 días posteriores a la recepción de la estructura.
 
-II. El Ejecutivo Estatal remitirá al Congreso del Estado, a más tardar el 25 de noviembre de cada año:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II. El Ejecutivo Estatal remitirá al Congreso del Estado, a más tardar el 17 de noviembre de cada año:
 
 a) La iniciativa de Ley de Ingresos y, en su caso, las iniciativas de reformas legales relativas a las fuentes de ingresos para el siguiente ejercicio fiscal; y
 
 b) El proyecto de Presupuesto de Egresos;
 
-III. La Ley de Ingresos será aprobada por la Legislatura a más tardar el 11 de diciembre;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV. El Presupuesto de Egresos deberá ser aprobado por el Congreso del Estado a más tardar el 22 de diciembre;
+III. La Ley de Ingresos y, en su caso, las iniciativas relacionadas con las fuentes de ingresos serán aprobadas por la Legislatura a más tardar el 30 de noviembre;
 
-V. La Ley de Ingresos y el Presupuesto de Egresos del Estado deberán publicarse en el Periódico Oficial del Estado a más tardar el 27 de diciembre;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV. El Presupuesto de Egresos, así como las iniciativas relacionadas con la programación, presupuestación, ejercicio del gasto deberán ser aprobadas a más tardar el 10 de diciembre;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V. La Ley de Ingresos y el Presupuesto de Egresos del Estado deberán promulgarse y publicarse a más tardar el 20 de diciembre;
 
 Asimismo, el Ejecutivo Estatal, por conducto de la Secretaría, deberá enviar al Congreso del Estado, a más tardar 20 días naturales después de publicado el Presupuesto de Egresos en el Periódico Oficial del Estado, los anexos del Presupuesto, con las modificaciones respectivas, que conformarán el Presupuesto aprobado.
 
@@ -757,13 +793,35 @@ En el año en que termina su encargo, el Ejecutivo Estatal deberá elaborar ante
 
 En el caso de que dichas recomendaciones no fueran consideradas, el Gobernador al día siguiente de haber tomado posesión de su cargo podrá enviarlas a la Legislatura.
 
-En el año que corresponda la renovación del titular del Poder Ejecutivo, el Congreso del Estado aprobará la Ley de Ingresos y Decreto de Presupuesto de Egresos del Estado a más tardar el 30 de diciembre.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+En el año que corresponda la renovación del titular del Poder Ejecutivo, el Congreso aprobará la Ley de Ingresos, Presupuesto de Egresos y las demás iniciativas relacionadas con las fuentes de financiamiento o relativas al ejercicio del gasto a más tardar en el plazo señalado por la Constitución Local.
 
 Para realizar las actividades a que se refiere este artículo y la elaboración del Plan Estatal de Desarrollo, se podrán aprobar recursos en el correspondiente Presupuesto de Egresos para cubrir los gastos de un equipo de asesores que apoye los trabajos del Gobernador Electo, estableciendo para tal efecto un Fondo específico que estará sujeto a las normas de ejercicio y fiscalización de los recursos estatales que correspondan. Asimismo, se deberá informar al respecto en el Informe de Avance de Gestión y Cuenta Pública.
 
 Para la aprobación de la Ley de Ingresos y el Presupuesto de Egresos en el año en que inicie una nueva Administración del Ejecutivo Estatal, se observará, en lo conducente, el procedimiento establecido en el artículo 37 de esta Ley.
 
 Las obligaciones subsecuentes a la aprobación de la Ley de Ingresos y el Presupuesto de Egresos a que se refieren los artículos 33 y 35 de esta Ley deberán realizarse conforme a los plazos y procedimientos establecidos en los mismos artículos, en lo conducente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 38 Bis.
+
+Habiendo transcurrido el plazo de excepción previsto en la Constitución Local para que el Congreso apruebe las iniciativas de Ley de Ingresos y Presupuesto de Egresos, el Ejecutivo del Estado, por conducto de la Secretaría, actualizará los montos de ingresos estimados contenidos en la Ley de Ingresos del ejercicio fiscal anterior, para que la misma continúe vigente en el año de calendario siguiente y lo publicará en el Periódico Oficial del Estado con la nota que funde y motive la ampliación de la vigencia del ordenamiento antes citado.
+
+Tratándose del Presupuesto de Egresos, continuará vigente aquel aprobado por el Congreso del Estado para el ejercicio fiscal anterior, adecuándose respecto de los siguientes gastos:
+
+a) Los recursos aprobados para los Municipios que por disposición legal deban ser incluidos anualmente en el Presupuesto de Egresos, o bien requieran de la aprobación del Congreso, cuyos montos específicos sean determinables en cantidad específica, porcentajes o fórmulas señaladas en la Ley de Coordinación Fiscal;
+
+b) El gasto corriente aprobado para el año anterior deberá crecer hasta en un 50 por ciento del incremento de los ingresos de gestión, a fin de sostener el balance presupuestario sostenible;
+
+c) El pago de la deuda pública se sujetará a las condiciones de amortización pactadas en los instrumentos que le dieron origen, y
+
+d) Ajustar los montos de los recursos federales previstos en el Decreto de Presupuesto de Egresos de la Federación para el ejercicio fiscal correspondiente.
+
+Los presupuestos aprobados por el Congreso del Estado para el ejercicio fiscal anterior para el Poder Legislativo, Judicial y los Órganos Autónomos se entenderán prorrogados y vigentes para el año calendario siguiente.
+
+El Ejecutivo Estatal notificará lo anterior, a los Ejecutores de gasto dentro de los 20 días hábiles posteriores a la conclusión del plazo señalado en el artículo 53 fracción VII de la Constitución Local.
 
 ###### Artículo 39.
 
@@ -1283,9 +1341,9 @@ X. Procurar que sea el medio más eficaz y eficiente para alcanzar los objetivos
 
 XI. Reportar su ejercicio en los informes trimestrales, detallando los elementos a que se refieren las fracciones I a IX de este artículo, incluyendo el importe de los recursos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Las asignaciones destinadas a cubrir el déficit de operación y los gastos de administración asociados con el otorgamiento de subsidios de las Entidades, serán otorgadas de forma excepcional y temporal, siempre que se justifique ante la Secretaría su beneficio económico y social. Estas asignaciones se sujetarán a lo establecido en las fracciones V, VI y VIII a X, de este artículo.
+Las asignaciones destinadas a cubrir el déficit de operación y los gastos de administración asociados con el otorgamiento de subsidios de las Entidades, serán otorgadas de forma excepcional y temporal, siempre que se justifique ante la Secretaría su beneficio económico y social.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -1596,3 +1654,19 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO: El porcentaje a que hace referencia el artículo 50 párrafo cuarto de esta Ley, relativo a los adeudos del ejercicio fiscal anterior, previsto en el Decreto de Presupuesto de Egresos del Ejercicio Fiscal 2016; será del 5 por ciento para el ejercicio fiscal 2017; 4 por ciento para el 2018; 3 por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 10.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 11.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
