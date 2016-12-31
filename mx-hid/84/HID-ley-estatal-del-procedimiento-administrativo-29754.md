@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-del-procedimiento-administrativo-29754"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2009-06-15"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ESTATAL DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de diciembre de 2002.
 
@@ -569,7 +569,9 @@ Las Autoridades Administrativas para hacer cumplir sus determinaciones, podrán 
 
 I. Apercibimiento;
 
-II. Multa de cincuenta a cien días de salario mínimo vigente en la Entidad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de cincuenta a cien veces la Unidad de Medida y Actualización vigente;
 
 III. Auxilio de la fuerza pública y
 
@@ -923,7 +925,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE JUNIO DE 2009.
 
@@ -938,3 +940,13 @@ La presente reforma entrará en vigor al día siguiente de su Publicación en el
 ###### ARTÍCULO TERCERO.
 
 Las autoridades administrativas deberán integrar y publicar sus registros de trámites y servicios al público en un término de 60 días naturales a partir de la Publicación del presente ordenamiento.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
