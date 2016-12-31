@@ -4,7 +4,7 @@ identifier: "HID-ley-de-procesos-productivos-eficientes-del-estado-de-hidalgo-79
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-07"
-last_updated: "2011-02-07"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROCESOS PRODUCTIVOS EFICIENTES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de febrero de 2011.
 
@@ -273,29 +273,41 @@ Los gastos derivados de la revisión de una producción no contaminante y la cap
 
 Para establecer las sanciones, la Secretaría de Medio Ambiente, fundamentará y motivará sus resoluciones considerando, para su individualización, los elementos señalados en la Ley Estatal del Procedimiento Administrativo.
 
-Las sanciones económicas deberán establecerse entre el mínimo y máximo establecido, considerando el salario mínimo general vigente en la zona geográfica correspondiente al estado de Hidalgo, al momento de cometerse alguna violación establecida en la presente Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Las sanciones económicas deberán establecerse entre el mínimo y máximo establecido, considerando veces la Unidad de Medida y Actualización vigente al momento de cometerse alguna violación establecida en la presente Ley.
 
 En los casos de reincidencia en alguna violación establecida en el presente capítulo, en el período de un año, se aplicará hasta el doble de la sanción originalmente impuesta, sin exceder del doble del máximo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 40.
 
-En caso de que cualquier empresa o individuo viole las previsiones contenidas en el Artículo 23 de esta Ley o falsee, adultere la información de la etiqueta referente a la composición de materiales, o no dé información veraz y oportuna, las dependencias encargadas de la supervisión de calidad y tecnología deberán ordenar la rectificación correspondiente en un término de diez días naturales, en el caso de no subsanar los (sic) recomendaciones emitidas por la autoridad correspondiente, se impondrá una multa de 50 a 250 días de salario mínimo general vigente en el estado de Hidalgo.
+En caso de que cualquier empresa o individuo viole las previsiones contenidas en el Artículo 23 de esta Ley o falsee, adultere la información de la etiqueta referente a la composición de materiales, o no dé información veraz y oportuna, las dependencias encargadas de la supervisión de calidad y tecnología deberán ordenar la rectificación correspondiente en un término de diez días naturales, en el caso de no subsanar los (sic) recomendaciones emitidas por la autoridad correspondiente, se impondrá una multa de 50 a 250 veces la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 41.
 
-En caso de que cualquier empresa o persona viole lo previsto en el Artículo 26 de esta Ley, produciendo o vendiendo materiales de construcción o decoración tóxicos o dañinos, cuyo nivel de toxicidad rebase los estándares locales, la Secretaría le impondrá una multa de 100 a 500 días de salario mínimo general vigente en el estado de Hidalgo y, en su caso, deberá dar vista a las autoridades correspondientes de acuerdo con las leyes administrativas, civiles o penales.
+En caso de que cualquier empresa o persona viole lo previsto en el Artículo 26 de esta Ley, produciendo o vendiendo materiales de construcción o decoración tóxicos o dañinos, cuyo nivel de toxicidad rebase los estándares locales, la Secretaría le impondrá una multa de 100 a 500 veces la Unidad de Medida y Actualización vigente y, en su caso, deberá dar vista a las autoridades correspondientes de acuerdo con las leyes administrativas, civiles o penales.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 42.
 
-En caso de que cualquier empresa o persona viole lo previsto en el Artículo 29 de esta Ley, e incumpla su obligación de reciclar sus desechos o embalajes, la Secretaría de Medio Ambiente, deberán (sic) ordenar a ésta, efectuar rectificaciones en un término de veinte días naturales contados a partir de la notificación, además de imponer una multa de 50 a 200 días de salario mínimo general vigente en el estado de Hidalgo, si la parte no lleva a cabo la rectificación.
+En caso de que cualquier empresa o persona viole lo previsto en el Artículo 29 de esta Ley, e incumpla su obligación de reciclar sus desechos o embalajes, la Secretaría de Medio Ambiente, deberán (sic) ordenar a ésta, efectuar rectificaciones en un término de veinte días naturales contados a partir de la notificación, además de imponer una multa de 50 a 200 veces la Unidad de Medida y Actualización vigente, si la parte no lleva a cabo la rectificación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 43.
 
-Si cualquier empresa o individuo viola lo previsto en el tercer párrafo del Artículo 31 de esta Ley, falle al implementar revisiones de producción eficiente, o ha efectuado revisiones pero no reporta los resultados, la Secretaría del Medio Ambiente deberá ordenar, a la parte, efectuar la rectificación correspondiente dentro de un término de veinte días contados a partir de la notificación, e imponer, además, una multa de 50 a 70 días de salario mínimo general vigente en el Estado de Hidalgo, si la parte no hace la rectificación correspondiente.
+Si cualquier empresa o individuo viola lo previsto en el tercer párrafo del Artículo 31 de esta Ley, falle al implementar revisiones de producción eficiente, o ha efectuado revisiones pero no reporta los resultados, la Secretaría del Medio Ambiente deberá ordenar, a la parte, efectuar la rectificación correspondiente dentro de un término de veinte días contados a partir de la notificación, e imponer, además, una multa de 50 a 70 veces la Unidad de Medida y Actualización vigente, si la parte no hace la rectificación correspondiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 44.
 
-En caso de que cualquier empresa o individuo viole las previsiones del Artículo 34 de esta Ley, o no realice la Publicación de los requerimientos respecto a la información de emisión de contaminantes, la Secretaría de Medio Ambiente impondrá una multa de 70 días de salario mínimo general vigente en el Estado de Hidalgo, y deberá publicar la información relativa a las circunstancias de la parte emisora de contaminantes.
+En caso de que cualquier empresa o individuo viole las previsiones del Artículo 34 de esta Ley, o no realice la publicación de los requerimientos respecto a la información de emisión de contaminantes, la Secretaría de Medio Ambiente impondrá una multa de 70 veces la Unidad de Medida y Actualización vigente, y deberá publicar la información relativa a las circunstancias de la parte emisora de contaminantes.
 
 T R A N S I T O R I O S
 
@@ -330,3 +342,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
