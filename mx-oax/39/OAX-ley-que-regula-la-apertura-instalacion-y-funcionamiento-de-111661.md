@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-regula-la-apertura-instalacion-y-funcionamiento-de-1116
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY QUE REGULA LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 31 de diciembre de 2015.
 
@@ -67,9 +67,11 @@ VIII. Peticionario: Sujetos que conforme a la Ley soliciten la expedición del P
 
 IX. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 3.
 
-Son Sujetos de esta Ley las personas físicas, morales o unidades económicas que tengan como actividad ofertar al público la celebración de contratos de mutuo con interés y garantía pendería, a través de las llamadas Casas de empeño.
+Son Sujetos de esta Ley las personas físicas, morales o unidades económicas que tengan como actividad ofertar al público la celebración de contratos de mutuo con interés y garantía prendaria, a través de las llamadas Casas de empeño.
 
 ###### Artículo 4.
 
@@ -103,7 +105,9 @@ I. Nombre, razón social o denominación del Peticionario;
 
 II. Registro Federal y Estatal de Contribuyentes;
 
-III. Cédula de Identificación Fiscal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III. Constancia de Situación Fiscal expedida por el Servicio de Administración Tributaria;
 
 IV. Clave Única de Registro de Población, del Peticionario o representante legal, en su caso;
 
@@ -113,9 +117,13 @@ VI. Fecha y lugar de la solicitud;
 
 VII. Declarar que cuenta con los servicios de un Valuador;
 
-VIII. Original y dos copias de la solicitud de Permiso con los datos y documentos señalados previamente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IX. Constancia de no adeudos fiscales;
+VIII. Original de la solicitud de Permiso con los datos y documentos señalados previamente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IX. Constancia de no adeudos fiscales vigente;
 
 X. Domicilio donde se establecerá la Casa de empeño, sucursal, establecimiento o local, según sea el caso, con su respectivo comprobante;
 
@@ -123,15 +131,31 @@ XI. Exhibir comprobante de pago de derechos por el estudio y análisis de la doc
 
 XII. Copia del formato del Contrato que utilizarán para la celebración de los servicios ofertados al público, demostrando que fue registrado y autorizado por la Procuraduría Federal del Consumidor;
 
-XIII. Constancia de inscripción en el Registro Público de Casas de Empeño de la Procuraduría Federal del Consumidor;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XIV. Tratándose de personas morales, copia certificada del acta constitutiva así como del Poder Notarial otorgado al representante legal, y
+XIII. Constancia de inscripción en el Registro Público de Casas de Empeño de la Procuraduría Federal del Consumidor vigente;
 
-XV. Correo Electrónico.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIV. Tratándose de personas morales, copia certificada del acta constitutiva así como del Poder Notarial otorgado al representante legal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XV. Correo electrónico;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVI. Formato de Inscripción al Registro Estatal de Contribuyentes, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVII. Copia de Identificación Vigente del Peticionario o representante legal, en su caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 9.
 
-Los derechos de expedición, revalidación o modificación de los Permisos para el funcionamiento de las Casas de empeño, se causarán y pagarán conforme a lo establecido en la Ley Estatal de Derechos.
+Los derechos de expedición, revalidación, modificación y reposición de los Permisos para el funcionamiento de las Casas de empeño, se causarán y pagarán conforme a lo establecido en la Ley Estatal de Derechos.
 
 La Secretaría publicará en los primeros quince días del mes de febrero de cada ejercicio fiscal, el registro actualizado de las Casas de empeño que cuentan con Permiso, en el Periódico Oficial del Estado y en su página electrónica.
 
@@ -173,9 +197,17 @@ VIII. La obligación del Permisionario de revalidar anualmente el Permiso en los
 
 IX. Vigencia del Permiso;
 
-X. Nombre y firma del servidor público autorizado para expedir el Permiso, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XI. Fecha y lugar de expedición.
+X. Nombre y firma del servidor público autorizado para expedir el Permiso;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI. Fecha y lugar de expedición, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII. Sello digital.
 
 ###### Artículo 13.
 
@@ -183,9 +215,11 @@ El Permiso que se expida será intransferible y con vigencia para el ejercicio f
 
 #### Sección Tercera. De la Modificación del Permiso
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-La Secretaría autorizará la modificación del Permiso expedido, por cambio del domicilio fiscal, establecimiento, sucursal o local, que tengan los Sujetos, en los términos de la presente Ley.
+La Secretaría autorizará la modificación del Permiso expedido, por cambio de nombre, denominación, razón social, representante legal, domicilio fiscal, establecimiento, sucursal o local, que tengan los Sujetos, en los términos de la presente Ley.
 
 ###### Artículo 15.
 
@@ -199,7 +233,17 @@ I. Solicitud por escrito, expresando la causa que motiva la petición;
 
 II. El Permiso original, y
 
-III. El comprobante de pago de derechos correspondientes.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III. El comprobante de pago de derechos correspondientes;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV. Formato de solicitud, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V. Acuse de movimientos de actualización de Situación Fiscal expedido por el Servicio de Administración Tributaria.
 
 ###### Artículo 17.
 
@@ -213,11 +257,25 @@ La entrega del permiso original para las casas de empeño se hará dentro del t�
 
 El Permisionario deberá revalidar anualmente su Permiso, el que deberá efectuarse durante los primeros quince días del mes de enero de cada ejercicio fiscal, debiendo presentar ante la Secretaría lo siguiente:
 
-I. Solicitud por escrito;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II. El Permiso original sujeto a revalidación, y
+I. Formato de solicitud;
 
-III. El comprobante de pago de los derechos correspondientes.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II. El Permiso original sujeto a revalidación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III. El comprobante de pago de los derechos correspondientes;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV. Tratándose de personas morales, copia certificada del acta constitutiva, así como del Poder Notarial otorgado al representante legal, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V. Copia de Identificación Vigente del Peticionario o representante legal, en su caso.
 
 En caso de que la petición de revalidación del Permiso sea en forma extemporánea, se impondrá la sanción establecida en la presente Ley, una vez cubierta la multa se continuará con el trámite correspondiente.
 
@@ -254,6 +312,10 @@ I. Solicitud por escrito;
 II. Exhibir el original del permiso, para el caso de que se cuente con él, o copia simple del mismo, y
 
 III. El comprobante de pago de los derechos correspondientes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para el caso de haber sido extraviado o robado el citado permiso, además de los requisitos ya mencionados, deberá presentar el acta circunstanciada respectiva, levantada ante Ministerio Público.
 
 ### Capítulo Tercero. De las Competencia de la Secretaría
 
@@ -339,9 +401,11 @@ II. El Permisionario acumule dos sanciones de suspensión temporal dentro de un 
 
 III. El Permisionario sin causa justificada suspenda las operaciones de la Casa de empeño autorizado al público por más de diez días hábiles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 35.
 
-Se impondrá multa de cien a quinientos días de salario mínimo general, cuando el Permisionario:
+Se impondrá multa de cien a quinientas veces el valor de la Unidad de Medida y Actualización vigente, cuando el Permisionario:
 
 I. Haga funcionar una Casa de empeño sin contar con el Permiso expedido por la Secretaría;
 
@@ -352,6 +416,10 @@ III. Solicite extemporáneamente la revalidación del Permiso;
 IV. No solicite la modificación del Permiso dentro del término establecido por la Ley, y
 
 V. No cumpla con las obligaciones que le establece la presente Ley.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para efecto de la presente Ley, se entenderá por Unidad de Medida y Actualización, el valor establecido por el Instituto Nacional de Estadística y Geografía, en términos del artículo 26, apartado B, de la Constitución Política de los Estados Unidos Mexicanos, y la Ley reglamentaria de la materia.
 
 ###### Artículo 36.
 
@@ -416,3 +484,15 @@ Tlalixtac de Cabrera, Centro, Oax., 31 de diciembre del 2015.
 SECRETARIO GENERAL DE GOBIERNO.
 
 ING. CARLOS SANTIAGO CARRASCO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 12.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
