@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-catastro-para-el-estado-de-oaxaca-10646"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2016-11-12"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 16 de diciembre de 1996.
 
@@ -44,6 +44,10 @@ LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 ###### ARTÍCULO 1.
 
 La presente Ley es de orden e interés públicos y de observancia general en todo el Estado, correspondiendo su aplicación e interpretación en el ámbito administrativo a las autoridades que la propia Ley establece.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para efectos de la presente Ley se entenderá por Unidad de Medida y Actualización, a la Unidad de cuenta, índice, base, medida o referencia establecida por el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, y la ley reglamentaria de la materia.
 
 ###### ARTÍCULO 2.
 
@@ -367,7 +371,9 @@ XVIII. Vigilar y autorizar, en su caso, los trabajos catastrales.
 
 XIX. Elaborar y mantener actualizada la cartografía catastral.
 
-XX. Atender y resolver las consultas técnicas y procedimentales que, sobre situaciones reales y concretas y en relación a las disposiciones de esta Ley, planteen los particulares, así como elaborar los avalúos comerciales que le sean solicitados.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XX. Atender y resolver las consultas técnicas y procedimientos que, sobre situaciones reales y concretas y en relación a las disposiciones de esta Ley, planteen los particulares;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -563,27 +569,11 @@ También procederá la cancelación de registro de cuenta catastral en el Sistem
 
 XIV. Deslinde Catastral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-###### ARTÍCULO 23 Bis 1.
+Las operaciones antes señaladas se causarán y pagarán de conformidad con las cuotas que se establezcan en la Ley Estatal de Derechos.
 
-El cobro de los derechos que corresponden a las operaciones catastrales señaladas en el artículo 23 BIS de esta Ley, se determinaran con base en la Ley Estatal de Derechos.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-Para efectos de esta ley se entiende por:
-
-a) Valor de la operación: aquel que fijen las partes en el acto traslativo de dominio; dicho valor deberá ser declarado por los notarios públicos o cualquier otro fedatario público que intervengan en la celebración de contratos que tengan por objeto transmitir o modificar el dominio directo de un bien inmueble; y
-
-b) Tabla de Valores Unitarios de Suelo y Construcciones: aquella que contiene los valores de mercado de la propiedad raíz.
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
-
-Las Tablas de Valores Unitarios de Suelo y Construcciones podrán ser objeto de revisión y actualización cada año o cuando surjan circunstancias que puedan afectar el valor de la propiedad inmobiliaria.
+ARTÍCULO 23 BIS 1.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
 
@@ -1091,6 +1081,10 @@ IV. Exhibir currículum vitae actualizado; y
 
 V. Acreditar los conocimientos en materia catastral, mediante evaluación realizada a la conclusión del curso sobre valuación inmobiliaria, organizado por el Instituto Catastral del Estado de Oaxaca.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VI. Exhibir el comprobante de pago de derechos previstos en la Ley Estatal de Derechos por concepto de registro.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2009)</small>
@@ -1225,9 +1219,9 @@ ARTÍCULO 64 K.- Los Peritos Valuadores que incumplan con las obligaciones estab
 
 I. Amonestación por escrito;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II. Multa por el equivalente de 500 a 1000 veces el salario mínimo;
+II. Multa por el equivalente de quinientas a mil veces el valor de la Unidad de Medida y Actualización vigente;
 
 III. Suspensión temporal del registro de uno a seis meses; y
 
@@ -1239,9 +1233,9 @@ IV. Cancelación definitiva del registro de Perito Valuador.
 
 ARTÍCULO 64 L.- Procede la amonestación por escrito, cuando se presente un avalúo con errores de datos que no trasciendan al resultado del mismo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-ARTÍCULO 64 M.- El Instituto Catastral del Estado de Oaxaca, procederá a imponer multa equivalente de 500 a 1000 veces el salario mínimo, cuando los Peritos Valuadores incurran en lo siguiente:
+ARTÍCULO 64 M.- El Instituto Catastral del Estado de Oaxaca, procederá a imponer multa equivalente de quinientas a mil veces el valor de la Unidad de Medida y Actualización vigente, cuando los Peritos Valuadores incurran en lo siguiente:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1465,21 +1459,21 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 65.
 
-Las infracciones a la presente Ley serán sancionadas con multa, calculada con base en el salario mínimo vigente, entendiéndose como tal el salario mínimo general diario vigente de la zona económica que corresponda a la capital del Estado, al momento de cometerse la infracción.
+Las infracciones a la presente Ley serán sancionadas con multa, calculada en base al valor de la Unidad de Medida y Actualización vigente, al momento de cometerse la infracción.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
 Dichas sanciones se determinarán tomando en cuenta la trascendencia de la infracción y la reincidencia, salvo cuando la impuesta sea la mínima.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 66.
 
-Se impondrá multa de cinco a diez días de salario mínimo vigente, a todos aquellos propietarios o poseedores de un bien inmueble:
+Se impondrá multa de cinco a diez veces el valor de la Unidad de Medida y Actualización vigente, a todos aquellos propietarios o poseedores de un bien inmueble:
 
 I. Que no proporcione al Instituto, los datos o informes que éste le solicite.
 
@@ -1507,13 +1501,17 @@ Para la imposición de las multas en los supuestos señalados en las fracciones 
 
 Las multas previstas en este artículo las hará efectivas la Secretaría de Finanzas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 67.
 
-Se impondrá una multa de 100 a 500 días de salario mínimo vigente, cuando los fraccionadores, lotificadores o propietarios de condominios cometan alguna de las infracciones a que se refiere el Artículo anterior, o cuando éstos antes de la terminación de las obras celebren un contrato traslativo de dominio, preparatorio o definitivo, sin tener la autorización correspondiente.
+Se impondrá una multa de 100 a 500 veces el valor de la Unidad de Medida y Actualización vigente, cuando los fraccionadores, lotificadores o propietarios de condominios cometan alguna de las infracciones a que se refiere el artículo anterior, o cuando éstos antes de la terminación de las obras celebren un contrato traslativo de dominio, preparatorio o definitivo, sin tener la autorización correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 68.
 
-Se impondrá multa de entre 100 a 500 días de salario mínimo vigente, a todos aquellos Notarios Públicos que intervengan en la celebración de contratos que transmitan o modifiquen el dominio de inmuebles, en los siguientes casos:
+Se impondrá multa de entre cien a quinientas veces el valor de la Unidad de Medida y Actualización vigente, a todos aquellos Notarios Públicos que intervengan en la celebración de contratos que transmitan o modifiquen el dominio de inmuebles, en los siguientes casos:
 
 I. Cuando no cumplan el término de 30 días naturales para dar aviso al Instituto sobre la celebración de un acto jurídico en el que intervengan y que modifique las características de la propiedad o posesión de un inmueble.
 
@@ -1788,3 +1786,11 @@ SÉPTIMO.- El Gobernador del Estado a través de la Secretaría de Finanzas y de
 OCTAVO.- Cuando en disposiciones normativas, se haga referencia a la Dirección General del Registro Público de la Propiedad, se entenderá al Instituto de la Función Registral del Estado de Oaxaca.
 
 El mismo criterio se aplicará para los titulares de dichas instancias. Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias que por virtud de esta ley cambian de denominación y sector, se entenderán subrogadas y contraídas por su correlativa.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 14.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil diecisiete, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
