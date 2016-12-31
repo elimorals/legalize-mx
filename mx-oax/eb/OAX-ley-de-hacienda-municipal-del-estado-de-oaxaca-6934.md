@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "2015-05-09"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -134,6 +134,18 @@ El Código Fiscal Municipal del Estado de Oaxaca, será supletorio de esta Ley e
 ###### ARTICULO 2.
 
 Son ingresos los provenientes de contribuciones, productos, aprovechamientos, participaciones, aportaciones federales y cualquier otro ingreso de naturaleza federal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+La Tesorería podrá ser auxiliada por las sucursales o a través de los medios electrónicos que al efecto proporcionen las instituciones bancarias y entidades financieras; así como en las sucursales de casas comerciales, oficinas postales y otros organismos públicos o privados, que cumplan con todos los requisitos de seguridad y control que, en su caso, determine la Tesorería, como auxiliares en la recaudación de los ingresos, considerando al efecto la mayor cobertura y eficiencia posibles.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para tal efecto, se podrá celebrar los acuerdos, contratos y convenios que sean necesarios con las instituciones señaladas en el párrafo anterior, previa autorización del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+La Tesorería deberá identificar cada uno de los ingresos en cuentas bancarias productivas específicas, en las cuales se depositaran los recursos municipales, estatales y federales transferidos por cualquier concepto, durante el ejercicio fiscal que corresponda.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2015)</small>
 
@@ -1613,33 +1625,41 @@ Para los aprovechamientos a que se refieren las fracciones IX y X del artículo 
 
 Los aprovechamientos a que se refiere este capítulo, deberán ingresar al erario municipal, tratándose de numerario o al inventario de bienes patrimoniales tratándose de bienes muebles o inmuebles, en un plazo no mayor de setenta y dos horas contados a partir del momento en que tales bienes o recursos sean del conocimiento de la autoridad municipal.
 
-### CAPITULO III. PROVENIENTES DEL CREDITO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO III. PROVENIENTES DE FINANCIAMIENTO U OBLIGACIONES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 155.
 
-Los municipios podrán obtener recursos derivados de empréstitos o financiamientos que se concerten con personas físicas y morales, siguiendo los procedimientos que para tales efectos contempla la ley y previa autorización de la Legislatura del Estado.
+Los Municipios podrán obtener recursos derivados de financiamientos u obligaciones que se contraten en términos de lo señalado en las Leyes de Disciplina Financiera de las Entidades Federativas y los Municipios y de Deuda Pública.
+
+Debiendo registrarlos en los términos establecidos en el Reglamento del Registro Estatal de Financiamientos u Obligaciones, y el Reglamento del Registro Público Único emitido por la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 156.
 
-Sólo podrán obtenerse empréstitos o financiamientos que sean destinados a obras públicas productivas, de conformidad con lo que establece el artículo 117 de la Constitución General de la República.
+Sólo podrán contratar financiamientos u obligaciones cuando se destinen a inversiones públicas productivas.
 
 ###### ARTICULO 157.
 
-Independientemente del monto de la deuda, deberá ser suscrita por el Tesorero y Presidente Municipal (sic), respectivamente, solicitándose autorización del ayuntamiento para su contratación en aquellos casos en que rebase el diez por ciento del monto total anual las partidas presupuestales aprobadas para el ejercicio fiscal en que se pretende concertar la deuda y que correspondan al gasto corriente.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ## ARTICULOS TRANSITORIOS
 
 ###### ARTICULO 158.
 
-La deuda pública que se contraiga deber registrarse de inmediato en la contabilidad del municipio y dar aviso de la misma al Congreso del Estado a más tardar dentro de los diez días siguientes a la fecha en que ésta se hubiera concertado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 159.
 
-Todo recurso que obtenga el municipio por concepto de deuda pública, deberá invariablemente ingresarse al erario por conducto de la Tesorería Municipal.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ###### ARTICULO 160.
 
-Adquiere responsabilidad cualquier funcionario que contravenga las disposiciones contenidas en este capítulo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ### CAPITULO IV. APROVECHAMIENTOS DIVERSOS
 
@@ -1669,19 +1689,19 @@ Los Municipios percibirán las Participaciones Federales e Incentivos por Admini
 
 Las participaciones e incentivos Federales que reciban los Municipios deberán ingresarse de inmediato al Erario Municipal y expedir el recibo oficial correspondiente.
 
-> <small>(ADICIONADO, CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-## TITULO SEPTIMO. DE LOS FONDOS DE APORTACIONES FEDERALES
+## TITULO SEPTIMO. DE LOS RECURSOS FEDERALIZADOS
 
 > <small>(ADICIONADO, CON EL ARTICULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2000)</small>
 
 ### CAPITULO UNICO
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 165.
 
-Los Municipios percibirán recursos de los Fondos de Aportaciones Federales para la Infraestructura Social Municipal y del Fortalecimiento de los Municipios conforme a lo que establece el Capítulo V de la Ley de Coordinación Fiscal y el Ramo 33 del Presupuesto de Egresos de la Federación.
+Los Municipios percibirán recursos de los Fondos de Aportaciones Federales para la Infraestructura Social Municipal y de Fortalecimiento de los Municipios, conforme lo establecido en el Capítulo V de la Ley de Coordinación Fiscal, así como de los asignados en los diferentes ramos previstos en el Decreto de Presupuesto de Egresos de la Federación.
 
 TRANSITORIOS:
 
@@ -1798,3 +1818,11 @@ P.O. 31 DE DICIEMBRE DE 2008.
 P.O. 9 DE MAYO DE 2015.
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 16.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
