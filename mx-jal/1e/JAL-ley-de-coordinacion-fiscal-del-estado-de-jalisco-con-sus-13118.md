@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-coordinacion-fiscal-del-estado-de-jalisco-con-sus-13118"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-28"
-last_updated: "2014-12-25"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "JAL"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Novena del Periódico Oficial del Estado de Jalisco, el sábado 28 de diciembre de 1996.
 
@@ -78,7 +78,7 @@ Las participaciones Federales y Estatales que correspondan a los municipios en l
 
 El Fondo Municipal de Participaciones se integrará con los recursos que perciba el Estado procedentes del Fondo General de Participaciones, de la Recaudación del Impuesto sobre Tenencia o Uso de Vehículos; del Impuesto Especial sobre Producción y Servicios y del Impuesto sobre Automóviles Nuevos, así mismo del Fondo de Fomento Municipal, en los términos de la Ley Federal de Coordinación Fiscal, por los ingresos estatales derivados de los Impuestos sobre Nóminas, y Hospedaje.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 5°.
 
@@ -102,15 +102,23 @@ VII. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2013)
 
 VIII. Hasta el 100% del importe que perciba por concepto del impuesto estatal sobre hospedaje, siempre que dicho porcentaje se defina en acuerdos tanto con los municipios y representantes de la industria hotelera, y
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IX. Los ingresos correspondientes al Fondo de Fiscalización y Recaudación, con base a lo señalado en el artículo 10 de esta ley; y
+IX. Los ingresos correspondientes al Fondo de Fiscalización y Recaudación, con base a lo señalado en el artículo 10 de esta ley;
 
-> <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-X. El 22.00% del importe que perciba el Estado por concepto de participaciones del Impuesto Especial sobre Producción y Servicios en gasolinas y diesel.
+X. El 22% del importe que perciba el estado por concepto de participaciones del impuesto especial sobre producción y servicios en gasolina y diesel.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI. El 100% de la recaudación que se obtenga del Impuesto Sobre la Renta que efectivamente enteren los Municipios y sus entidades paramunicipales a la Federación, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en el municipio, así como en sus respectivas entidades paramunicipales, siempre y cuando se cumpla con los requisitos especificados en el artículo 3-B de la Ley de Coordinación Fiscal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+La distribución se realizará de conformidad con los montos por Municipio que informe la Secretaría de Hacienda y Crédito Público a la Secretaría de Planeación, Administración y Finanzas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Respecto de los importes a que se refiere la fracción VI del presente artículo, se exceptúan los ingresos que el Estado perciba por concepto de Impuesto sobre Nóminas que causen y enteren la Federación, así como sus organismos descentralizados, fideicomisos, dependencias, entidades paraestatales y organismos públicos autónomos, por las erogaciones que efectúen en calidad de entidades patronales.
 
@@ -126,7 +134,13 @@ Los Municipios recibirán y manejarán los recursos transferidos por el Estado m
 
 El factor que a cada Municipio corresponda en el Fondo Municipal de Participaciones, se determinará conforme a las siguientes bases:
 
-I. De los ingresos federales. Se aplicarán los siguientes criterios y parámetros:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+I. De los ingresos federales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Se aplicarán los siguientes criterios y parámetros:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -154,9 +168,9 @@ c) 20% en función a su propia recaudación, es decir, lo que perciban por conce
 
 d) 10% por número de localidades y la extensión territorial en función de la totalidad de ellos, y
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-e) 5% en proporción al índice de marginalidad según la información oficial que dé a conocer el Instituto Nacional de Estadística, Geografía e Informática.
+e) 5% en proporción al índice de marginación, según la última información oficial que dé a conocer el Consejo Nacional de Población, o la Institución responsable de medir la marginación en el país.
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2006)</small>
 
@@ -172,11 +186,11 @@ Por los porcentajes descritos en el artículo 5° fracción VI, que se generen e
 
 Los factores de participación que conforme a las bases anteriores resulten, se revisarán, modificarán y aprobarán anualmente por el Congreso del Estado. En tanto dichos factores no se actualicen, el Congreso del Estado autorizará que se sigan aplicando las que correspondan al año inmediato anterior, a cada municipio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 8°.
 
-Las participaciones serán cubiertas sin condicionamiento alguno y no podrán ser objeto de reducciones salvo lo dispuesto por el artículo 9° de la Ley Federal de Coordinación Fiscal. Se calcularán para cada ejercicio fiscal y serán entregadas, por conducto de la Secretaría de Planeación, Administración y Finanzas directamente o a través de los mecanismos generales de distribución que la misma determine, el día 25 de cada mes o al día hábil siguiente en caso de ser inhábil. El fondo de fiscalización a que se refiere la fracción IX del artículo 5° de esta Ley, se distribuirá en forma trimestral a los Municipios, dentro de los cinco días siguientes a aquél en que el Estado lo reciba.
+Las participaciones serán cubiertas sin condicionamiento alguno y no podrán ser objeto de reducciones, salvo lo dispuesto por el artículo 9º de la Ley de Coordinación Fiscal Federal. Se calcularán para cada ejercicio fiscal y serán entregadas, por conducto de la Secretaría de Planeación, Administración y Finanzas directamente o a través de los mecanismos generales de distribución que la misma determine, el día 25 de cada mes o al día hábil siguiente en caso de ser inhábil. El Fondo de Fiscalización y Recaudación a que se refiere la fracción IX del artículo 5º de esta Ley, se distribuirá en forma trimestral a los Municipios, dentro de los cinco días siguientes a aquél en que el Estado lo reciba.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -206,11 +220,15 @@ II. Adicionalmente percibirán la cantidad que resulte del excedente con respect
 
 El coeficiente se determinará conforme a las siguientes reglas:
 
-a) El 70% del excedente se distribuirá entre la totalidad de los municipios del Estado de Jalisco, y se hará considerando en un 50% la recaudación de los impuestos municipales y en un 50% los derechos municipales, generados en el año inmediato anterior en que se efectúa el cálculo y reportados en las caratulas de la cuenta pública anual entregada a la Auditoría Superior del Estado de Jalisco, de cada uno de los municipios con respecto a la recaudación total reportada en el Estado por estos mismos conceptos, aplicando la siguiente fórmula:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+a) El 70% informado y determinado a la Entidad por la Secretaría de Hacienda y Crédito Público, conforme lo establece el artículo 2-A fracción III de la Ley de Coordinación Fiscal, se distribuirá entra (sic) la totalidad de los municipios del Estado de Jalisco, y se hará considerando en un 50% la recaudación de los impuestos municipales y en un 50% los derechos municipales, generados en el año inmediato anterior en que se efectúa el cálculo y reportados en las carátulas de la cuenta pública anual entregada a la Auditoría Superior del Estado de Jalisco, de cada uno de los municipios con respecto a la recaudación total reportada en el Estado por estos mismo (sic) conceptos, aplicando la siguiente fórmula:
 
 > <small>N. DE E. VÉASE FÓRMULA EN LA SECCIÓN VII DEL P.O. DEL 23 DE DICIEMBRE DE 2014, PÁGINA 4.</small>
 
-b) El 30% restante se distribuirá entre el total de los municipios que celebren el convenio para la administración del impuesto predial con el Gobierno del Estado de Jalisco y que este publicado en el periódico oficial El Estado de Jalisco.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+b) El 30% informado y determinado a la Entidad por la Secretaría de Hacienda y Crédito Público, conforme lo establece el artículo 2-A, fracción III de la Ley de Coordinación Fiscal, el cual se distribuirá entre el total de los municipios que celebren el convenio para la administración del impuesto predial con el Gobierno del Estado de Jalisco, que esté publicado en el periódico oficial El Estado de Jalisco y hubiesen sido aceptados por la Secretaría de Hacienda y Crédito Público e informados a la Secretaría de Planeación, Administración y Finanzas.
 
 La distribución del 30% del excedente se realizará conforme la siguiente fórmula:
 
@@ -246,7 +264,9 @@ Las participaciones a favor de los municipios a que se refiere la fracción X de
 
 a) 70% en función directa al número de habitantes de cada municipio, en relación al total estatal, de conformidad a la última información oficial del Instituto Nacional de Estadística y Geografía.
 
-b) 30% en proporción al índice de marginalidad, según la información oficial que de a conocer el Instituto Nacional de Estadística y Geografía.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+b) 30% en proporción al índice de marginación, según la última información oficial que dé a conocer el Consejo Nacional de Población, o la institución responsable de medir la marginación en el país.
 
 A través de un fondo denominado FIEPS, de conformidad con la fórmula siguiente:
 
@@ -330,11 +350,13 @@ Las autoridades fiscales municipales, en el ejercicio de las facultades y funcio
 
 ### CAPÍTULO VI. De los organismos en materia de coordinación fiscal
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 18.
 
-El Gobierno del Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas, el Congreso del Estado, por conducto de la Comisión de Hacienda y Presupuestos, y los Gobiernos Municipales, por conducto de sus tesoreros, participarán en el desarrollo, vigilancia y perfeccionamiento del sistema de distribución de participaciones a que se refiere esta Ley, y de la colaboración administrativa entre dichos niveles de gobierno, a través del Consejo Estatal Hacendario.
+El Gobierno del Estado, por conducto de la Secretaría de Planeación, Administración y Finanzas, el Congreso del Estado, por conducto de la Comisión de Hacienda y Presupuestos, y los Gobiernos Municipales, por conducto de sus Encargados de la Hacienda Municipal, participarán en el desarrollo, vigilancia y perfeccionamiento del sistema de distribución de participaciones a que se refiere esta ley, y de la colaboración administrativa entre dichos niveles de gobierno, a través del Consejo Estatal Hacendario.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 19.
 
@@ -346,7 +368,9 @@ I. El Gobierno del Estado, por conducto del Secretario de Planeación, Administr
 
 II. El Congreso del Estado, por conducto del Presidente de la Comisión de Hacienda y Presupuestos, y
 
-III. Los 124 municipios, por conducto de los tesoreros de cada uno de los Ayuntamientos de la entidad.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III. Los 125 Municipios, por conducto de los Encargados de la Hacienda Municipal de cada uno de los Ayuntamientos de la entidad.
 
 El Consejo Estatal Hacendario se establece como un órgano de consulta y análisis técnico, respecto del estudio, modificación y actualización de la legislación fiscal estatal y municipal de la entidad, en sus diversas modalidades, para proponerlos al Congreso del Estado, para su aprobación, por conducto de las instancias gubernativas correspondientes.
 
@@ -360,7 +384,9 @@ Las ausencias de los Titulares del Consejo Estatal Hacendario, podrá ser suplid
 
 2. El Presidente de la Comisión de Hacienda y Presupuestos del Congreso, por un representante que invariablemente será integrante de la misma Comisión, y
 
-3. Los Tesoreros Municipales de cada uno de los Ayuntamientos de la entidad, por su Director de Ingresos, o la persona que éstos designen.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+3. Los Encargados de la Hacienda Municipal de cada uno de los Ayuntamientos de la entidad, por su Director de Ingresos, o la persona que éstos designen.
 
 ###### Artículo 20.
 
@@ -390,65 +416,57 @@ VIII. Formular las actas del Consejo Estatal Hacendario y cumplimentar los acuer
 
 El Consejo Estatal Hacendario, tendrá a su vez un reglamento donde especificará, la representación, integración, funcionamiento, objetivos, facultades y obligaciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. Y REESTRUCTURADO EN FRACCIONES], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Representación.- El Comité Directivo estará integrado por: el Titular del Poder Ejecutivo del Estado, representado por el Secretario de Planeación, Administración y Finanzas; el Poder Legislativo, representado por el Presidente de la Comisión de Hacienda y Presupuestos; y a su vez los 125 Municipios del Estado, serán representados de acuerdo con el mecanismo de los Grupos que a continuación se especifican:
+El Comité Directivo estará integrado por:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
+I. El Titular del Poder Ejecutivo del Estado, representado por el Secretario de Planeación, Administración y Finanzas, con las siguientes representaciones:
 
-Integración.
+a) El Secretario de Planeación, Administración y Finanzas, quien contará con su suplente;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
+b) El Secretario de Finanzas, quien contará con su suplente;
 
-Por la Secretaría de Planeación, Administración y Finanzas:
+c) El Director General de Ingresos, quien contará con su suplente; y
 
-El Secretario de Planeación, Administración y Finanzas y un suplente;
+d) El Director de Planeación Fiscal e Ingresos Coordinados, quien contará con su suplente;
 
-El Sub Secretario de Finanzas y un suplente;
+II. El Poder Legislativo, representado por el Presidente de la Comisión de Hacienda y Presupuestos, quien contará con su suplente;
 
-Integración. Por la Secretaría de Finanzas:
+III. Los 125 Municipios del Estado, representados de acuerdo con el mecanismo de los Grupos que a continuación se especifican:
 
-El Secretario de Finanzas y un suplente
+GRUPO I. De 2,000 hasta 14,999 habitantes;
 
-El Director General de Ingresos y un suplente
+GRUPO II. De 15,000 hasta 24,999 habitantes;
 
-El Director de Planeación Fiscal e Ingresos Coordinados y un suplente
+GRUPO III. De 25,000 hasta 49,999 habitantes;
 
-El Director General de Fondo de Apoyo Municipal y un suplente
+GRUPO IV. De 50,000 habitantes en adelante, excepto zona metropolitana; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+GRUPO V. Los Municipios del Área Metropolitana de Guadalajara.
 
-Por la Comisión de Hacienda y Presupuestos:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-El Presidente y un suplente.
+Cada Grupo designará un Titular y dos suplentes, que deberán pertenecer a diferentes Municipios, respectivamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Los 125 Municipios formarán 5 grupos, que se integrarán de la siguiente manera:
+Estos Grupos se conforman de acuerdo al rango que pertenezca cada Municipio, según lo establecido en el Reglamento del Consejo Estatal Hacendario y dichos representantes estarán en funciones por un año, o mayor a este tiempo que determinen los Municipios del Grupo representado.
 
-Grupo I. De 2,000 hasta 14,999 habitantes
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Grupo II. De 15,000 hasta 24,999 habitantes
+Funcionamiento. El Comité Directivo sesionará en los términos que determine el Reglamento del Consejo Estatal Hacendario.
 
-Grupo III. De 25,000 hasta 49,999 habitantes
-
-Grupo IV. De 50,000 habitantes en adelante, excepto zona metropolitana.
-
-Grupo V. Los municipios de la zona metropolitana.
-
-Cada grupo designará un titular y dos suplentes, que deberán pertenecer a diferentes municipios, respectivamente.
-
-Estos grupos se conforman de acuerdo al rango que pertenezca cada municipio, según lo establecido en el Reglamento del Consejo Estatal Hacendario y dichos representantes estarán en funciones por un año, o mayor a este tiempo que determinen los municipios del grupo representado.
-
-Funcionamiento. El comité directivo sesionará en los términos que determine el Reglamento del Consejo Estatal Hacendario.
-
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Objetivos. Promover los mecanismos para el diálogo e información entre la Secretaría de Planeación, Administración y Finanzas, el Congreso del Estado y los Ayuntamientos; realizar propuestas en materia Hacendaria, así como brindar asesoría técnica y jurídica.
 
-Obligaciones. Preparar las asambleas de autoridades hacendarias; establecer los Reglamentos de Funcionamiento del propio consejo, y formar subcomités para funciones específicas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Los acuerdos emitidos por el Consejo Estatal Hacendario, que propongan cambios sustanciales a la legislación fiscal estatal o municipal, se remitirán a los ciudadanos presidentes municipales, para que los sometan a la consideración de sus cabildos, para que en su oportunidad se presenten al Congreso del Estado por sí o por conducto del gobernador de la entidad, para su autorización.
+Obligaciones. Preparar las Asambleas de autoridades Hacendarias; establecer los Reglamentos de Funcionamiento del propio Consejo, y formar Subcomités para funciones específicas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Los acuerdos emitidos por el Consejo Estatal Hacendario, que propongan cambios sustanciales a la legislación fiscal estatal o municipal, se remitirán a los ciudadanos Presidentes Municipales, para que los sometan a la consideración de sus cabildos, para que en su oportunidad se presenten al Congreso del Estado por sí o por conducto del Gobernador de la Entidad, para su autorización.
 
 ### CAPÍTULO VII. De los alcances por violación al sistema de coordinación fiscal del estado
 
@@ -557,3 +575,11 @@ P.O. 23 DE DICIEMBRE DE 2014.
 P.O. 25 DE DICIEMBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor a partir del 01 de enero de 2015, previa su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 26210/LXI/16 QUE MODIFICA DIVERSOS ARTÍCULOS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE JALISCO CON SUS MUNICIPIOS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", salvo lo previsto en el transitorio siguiente:
+
+SEGUNDO. Las reformas a los incisos a) y b) de la fracción II del artículo 9 de la Ley de Coordinación Fiscal del Estado de Jalisco con sus Municipios, entrarán en vigor a partir del 1 de enero de 2017.
