@@ -1,0 +1,2044 @@
+---
+title: "LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2017"
+identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-117984"
+country: "mx"
+rank: "ley_de_ingresos"
+publication_date: "2016-12-31"
+last_updated: "2016-12-31"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117984&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-bcn"
+scjn_id: "117984"
+scjn_status: "NO VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "59 SECCION I NUMERO ESPECIAL"
+reform_count: "2"
+scjn_last_update: "2017-02-17"
+issue_date: "2016-12-21"
+state: "BCN"
+---
+# LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2017
+
+LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2017
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección I al Número 59 del Periódico Oficial del Estado de Baja California, el sábado 31 de diciembre de 2016.
+
+FRANCISCO ARTURO VEGA DE LAMADRID GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA, ANUNCIO QUE EL CONGRESO DEL ESTADO HA DIRIGIDO AL SUSCRITO PARA SU PUBLICACIÓN, LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA, PARA EL EJERCICIO FISCAL DE 2017, CUYO TEXTO ES EL SIGUIENTE:
+
+LA H. XXII LEGISLATURA CONSTITUCIONAL DEL ETADO (SIC) LIBRE Y SOBERANO DE BAJA CLIFORNIA (SIC), EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 27, FRACCIONES I Y XI DE LA CONSTITUCIÓN POLÍTICA LOCAL, TIENE A BIEN EXPEDIR LA SIGUIENTE:
+
+LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2017
+
+ÍNDICE GENERAL.
+
+## TÍTULO PRIMERO GENERALIDADES.
+
+## TÍTULO SEGUNDO IMPUESTOS.
+
+- Capítulo I Impuesto sobre Actividades Mercantiles e Industriales.
+
+- Capítulo II Impuesto sobre Remuneraciones al Trabajo Personal.
+
+- Capítulo III Impuesto sobre Diversiones y Espectáculos Públicos.
+
+- Capítulo IV Impuesto sobre Compraventa y Operaciones Similares.
+
+- Capítulo V Impuesto sobre Servicios de Hospedaje.
+
+- Capítulo VI Impuesto sobre Loterías, Rifas, Sorteos, Juegos Permitidos y Concursos.
+
+- Capítulo VII Impuesto Adicional para la Educación Media y Superior.
+
+- Capítulo VIII Impuesto Ambiental sobre la Extracción y Aprovechamiento de Materiales Pétreos.
+
+## TÍTULO TERCERO CONTRIBUCIONES DE MEJORAS.
+
+### Capítulo Único Contribuciones de Mejoras.
+
+## TÍTULO CUARTO DERECHOS.
+
+- Capítulo I Servicios de Agua.
+
+- Capítulo II Servicios de Control Vehicular.
+
+- Capítulo III Servicios de la Dirección del Registro Público de la Propiedad y de Comercio.
+
+- Capítulo IV Servicios de la Secretaría de Protección al Ambiente.
+
+- Capítulo V Legalización de Firmas, Expedición de Certificados y Certificaciones, Estudios de Cumplimiento, Revaluación de Estudios y Publicaciones.
+
+- Capítulo VI Servicios de la Secretaría de Infraestructura y Desarrollo Urbano.
+
+- Capítulo VII Servicios de la Secretaría de Fomento Agropecuario del Estado.
+
+- Capítulo VIII Servicios del Instituto para el Desarrollo Inmobiliario y de la Vivienda para el Estado.
+
+- Capítulo IX Servicios de la Secretaría de Seguridad Pública.
+
+- Capítulo X Registro de Establecimientos.
+
+- Capítulo XI Servicios de la Dirección del Archivo General de Notarías.
+
+- Capítulo XII Servicios de Regulación y Fomento Sanitario.
+
+- Capítulo XIII Servicios de la Secretaría de Educación y Bienestar Social y del Instituto de Servicios Educativos y Pedagógicos de Baja California.
+
+- Capítulo XIV Servicios de la Secretaría de Desarrollo Económico.
+
+- Capítulo XV Cooperación para Obras y Servicios Públicos.
+
+- Capítulo XVI Obras de Urbanización.
+
+## TÍTULO QUINTO CONTRIBUCIONES CAUSADAS EN EJERCICIOS ANTERIORES.
+
+- Capítulo Único Contribuciones causadas en ejercicios anteriores.
+
+## TÍTULO SEXTO PRODUCTOS.
+
+- Capítulo I Explotación de Bienes del Estado.
+
+- Capítulo II Periódico Oficial, Venta de Formas y Otros Productos.
+
+- Capítulo III Almacenamiento y Guarda de Bienes en Establecimientos dependientes del Estado.
+
+- Capítulo IV Explotación o Aprovechamiento de Establecimientos dependientes del Estado.
+
+- Capítulo V Ingresos de Organismos Descentralizados y Empresas de Participación Estatal.
+
+- Capítulo VI Intereses de Valores.
+
+- Capítulo VII Avalúos.
+
+- Capítulo VIII Otros.
+
+## TÍTULO SÉPTIMO APROVECHAMIENTOS.
+
+- Capítulo I Recargos.
+
+- Capítulo II Donativos e Indemnizaciones.
+
+- Capítulo III Herencias y Legados a favor de la Hacienda Pública del Estado.
+
+- Capítulo IV Multas.
+
+- Capítulo V Reintegros.
+
+- Capítulo VI Cauciones, Fianzas y Depósitos cuya pérdida se declare por resolución firme.
+
+- Capítulo VII Aportaciones del Gobierno Federal para Obras Públicas.
+
+- Capítulo VIII Otorgamiento y Usufructo de Concesiones.
+
+- Capítulo IX Otros.
+
+## TÍTULO OCTAVO PARTICIPACIONES Y APORTACIONES FEDERALES
+
+### Capítulo Único Participaciones y aportaciones federales.
+
+## TÍTULO NOVENO INGRESOS EXTRAORDINARIOS.
+
+### Capítulo Único Ingresos Extraordinarios.
+
+ARTÍCULOS TRANSITORIOS: Primero, Segundo, Tercero, Cuarto, Quinto, Sexto, Séptimo, Octavo, Noveno, Décimo, Decimoprimero, Decimosegundo, Decimotercero, Decimocuarto, Decimoquinto, Decimosexto, Decimoséptimo, Decimoctavo, Decimonoveno y Vigésimo.
+
+## TÍTULO PRIMERO
+
+GENERALIDADES.
+
+###### ARTÍCULO 1.
+
+Los ingresos que la Hacienda Pública del Estado percibirá durante el Ejercicio Fiscal comprendido del primero de enero al treinta y uno de diciembre del año dos mil diecisiete, serán los provenientes de los conceptos y en los importes estimados que a continuación se enumeran:
+
+> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN I DEL P.O. DE 31 DE DICIEMBRE DE 2017, PÁGINAS DE LA 7 A LA 17.]</small>
+
+## TÍTULO SEGUNDO
+
+IMPUESTOS.
+
+### CAPÍTULO I
+
+IMPUESTO SOBRE ACTIVIDADES MERCANTILES E INDUSTRIALES.
+
+###### ARTÍCULO 2.
+
+El Impuesto sobre Actividades Mercantiles e Industriales se causa con una tasa de...... 2.0%
+
+### CAPÍTULO II
+
+IMPUESTO SOBRE REMUNERACIONES AL TRABAJO PERSONAL.
+
+###### ARTÍCULO 3.
+
+El Impuesto sobre Remuneraciones al Trabajo personal se causa con una tasa de...... 1. 80%
+
+Adicional al porcentaje anterior, se establece una sobretasa del Impuesto Sobre Remuneraciones al Trabajo Personal a que se refiere este capítulo del 0.63% sobre la base establecida en el artículo 151-14 de la Ley de Hacienda del Estado de Baja California.
+
+Los recursos que se recauden por esta sobretasa se destinarán por el Poder Ejecutivo del Estado exclusivamente a la Educación Superior en la Entidad.
+
+Esta sobretasa no se considerará para la determinación de las participaciones a que se refiere el artículo 7° de la Ley de Coordinación Fiscal del Estado de Baja California, ni para el fondo compensatorio a que se refiere el artículo 7° BIS de la citada ley.
+
+De los ingresos estatales que se obtengan por este impuesto se destinará el 5% a un fideicomiso empresarial que tendrá como objetivos:
+
+a).- Apoyo a la Seguridad Pública en el Estado.
+
+b).- Fomento a la Participación Social en Educación.
+
+c).- Fortalecimiento de las Comisiones y Consejos de Desarrollo Económico.
+
+d).- Creación del Programa Estatal de Guarderías en coordinación con el Sistema de Desarrollo Integral de la Familia (DIF) en el Estado.
+
+Los recursos que se obtengan por la aplicación de esta sobretasa tampoco se considerarán ni serán participables para el fideicomiso empresarial de referencia.
+
+No se causará el impuesto adicional para la educación media y superior respecto del impuesto sobre remuneraciones al trabajo personal, excepto en los casos en que los sujetos de este impuesto se encuentren exentos del mismo, en términos de los artículos 175, 177, 180 fracciones II y III, y 181 de la Ley de Hacienda del Estado de Baja California.
+
+Con independencia de lo que establezcan otras leyes, se incluye dentro de los sujetos referidos en el artículo 151-15 de la Ley de Hacienda del Estado de Baja California, a cualquier ente público de la administración central o paraestatal de los tres órdenes de gobierno, que realice pagos por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo su dirección o dependencia de un tercero, incluidos las entidades paraestatales, paramunicipales y organismos autónomos, salvo aquellos entes públicos que directamente o a través de las participaciones referidas en la Ley de Coordinación Fiscal del Estado de Baja California, obtengan ingresos derivados de este impuesto.
+
+### CAPÍTULO III
+
+IMPUESTO SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS.
+
+###### ARTÍCULO 4.
+
+El Impuesto sobre Diversiones y Espectáculos Públicos, se causa conforme a las siguientes
+
+T A S A S:
+
+I.- Obras de Teatro y funciones de circo; por el ingreso bruto percibido por la venta de boletos para entrar al espectáculo...... 2.96%
+
+II.- Espectáculos cómicos, taurinos, audiencias musicales, bailes, eventos de box y lucha, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo...... 5.0%
+
+III.- Espectáculos de carpa y aquéllos en que participan deportistas profesionales, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo...... 5.0%
+
+IV.- Espectáculos en que participen deportistas, músicos y actores no profesionales, así como los realizados por Instituciones Educativas y organizaciones que no persigan fines de lucro, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo...... 2.5%
+
+V.- Espectáculos de frontón, carreras de caballos, o de galgos, sobre el ingreso bruto percibido por la venta de boletos para entrar al espectáculo...... 10.0%
+
+VI.- Otras diversiones y espectáculos públicos, sobre el ingreso bruto percibido por la venta de boletos que importen el derecho de admisión para entrar al espectáculo...... 10.0%
+
+Para efectos de este impuesto se considerará también como boletos vendidos aquéllos por los que no se pague la entrada, por tener boletos de cortesía, pases, o por cualquier otro motivo, determinándose como base gravable de éstos, el costo promedio aritmético del valor de los boletos ofrecidos al público.
+
+Para la determinación del impuesto, en los casos en que para un espectáculo se vendan boletos con distinto costo para una misma sección, zona o ubicación, se considerará como base gravable el de costo mayor.
+
+Cuando estos espectáculos sean realizados por Organismos no lucrativos que brinden servicios y asistencia médica de manera gratuita a enfermos que padezcan cáncer en etapa terminal, debidamente registrados en la Secretaría de Salud del Estado...... 0.00%
+
+El ingreso que se recaude por concepto del impuesto sobre diversiones y espectáculos públicos, se destinará a la promoción y prestación de servicios de asistencia social en el Estado, al desarrollo integral de la familia, de la comunidad y de los grupos vulnerables, a la promoción del sano desarrollo físico, mental y social de la niñez, a través del Sistema para el Desarrollo Integral de la Familia de Baja California; con excepción de los ingresos que le correspondan a los Municipios en términos de la Ley de Coordinación Fiscal del Estado de Baja California.
+
+### CAPÍTULO IV
+
+IMPUESTO SOBRE COMPRAVENTA Y OPERACIONES SIMILARES.
+
+###### ARTÍCULO 5.
+
+El Impuesto Sobre Compraventa y Operaciones Similares, en la compra de vehículos automotores usados y operaciones similares se causa a una tasa de 4.0%, a excepción de los actos por los que deba pagarse el Impuesto al Valor Agregado.
+
+Para efecto de este impuesto, la base gravable será la que a continuación se establece:
+
+A. Para vehículos año modelo 2007 y anteriores, la base del impuesto será el valor que señale el tabulador oficial de valores mínimos a que se refiere la fracción I, del Artículo 146 de la Ley de Hacienda del Estado de Baja California.
+
+B. Para vehículos año modelo 2008 y posteriores, la base del impuesto, será el resultado de multiplicar el valor total del vehículo contenido en la factura de origen de la agencia, armadora o distribuidora, por el factor de depreciación de acuerdo al año modelo del vehículo, en los siguientes términos:
+
+AÑOS DE FACTOR DE
+
+ANTIGÜEDAD DEPRECIACIÓN
+
+0 1.000
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+Para los efectos de la depreciación, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+### CAPÍTULO V
+
+IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE.
+
+###### ARTÍCULO 6.
+
+El Impuesto sobre Servicios de Hospedaje se causa con una tasa de...... 3.0%
+
+Los ingresos que se obtengan por la recaudación ordinaria de este impuesto, serán destinados en un setenta por ciento a la promoción y difusión de la actividad turística del Estado. No se incluyen en dicha recaudación, los ingresos que se obtengan derivados del ejercicio de las facultades de cobro o de comprobación por parte de las autoridades fiscales.
+
+### CAPÍTULO VI
+
+IMPUESTO SOBRE LOTERÍAS, RIFAS, SORTEOS, JUEGOS PERMITIDOS Y CONCURSOS.
+
+###### ARTÍCULO 7.
+
+El Impuesto sobre Loterías, Rifas, Sorteos, Juegos Permitidos y Concursos, se causa conforme a las tasas siguientes:
+
+Para los organizadores de loterías, rifas, sorteos, juegos con apuestas permitidas y/o de habilidades y destrezas, así como concursos de toda clase...... 6.0%
+
+Del impuesto a que se refiere el párrafo precedente, podrá disminuirse el monto del pago efectivamente realizado por concepto de impuestos o derechos que los municipios del Estado tengan establecidos sobre los juegos con apuestas y sorteos, o sobre las máquinas o terminales a través de las cuales se realizan los mismos, sin que en ningún caso esta disminución exceda de la mitad del impuesto que establece esta Ley a dichas actividades. La disminución prevista en este párrafo se podrá realizar en la declaración de pago siguiente al mes en que se haya efectuado el entero de los impuestos o derechos establecidos por los citados municipios.
+
+Quienes obtengan los premios calcularán el impuesto aplicando al valor del premio obtenido la tasa del...... 6.0%
+
+No se pagará el impuesto a que se refiere el párrafo anterior en los casos en que los organizadores de la actividad o evento se encuentren obligados al pago de este impuesto por dicha organización.
+
+El impuesto a cargo de quienes obtengan los premios a que se refiere el cuarto párrafo de este artículo, no causará impuestos estatales de carácter adicional y deberá ser retenido por los organizadores y enterarlo a través de declaración que se presente dentro del plazo establecido en el Artículo 156-13 de la Ley de Hacienda del Estado.
+
+Para efectos de este impuesto, se consideran incluidas dentro de las actividades con apuestas permitidas, todas y cada una de las señaladas en el Artículo 156-8 de la Ley de Hacienda del Estado de Baja California.
+
+### CAPÍTULO VII
+
+IMPUESTO ADICIONAL PARA LA EDUCACIÓN MEDIA Y SUPERIOR.
+
+###### ARTÍCULO 8.
+
+El Impuesto Adicional para la Educación Media y Superior se causa con una tasa de...... 35.0%
+
+### CAPÍTULO VIII
+
+IMPUESTO AMBIENTAL SOBRE LA EXTRACCIÓN Y APROVECHAMIENTO DE MATERIALES PÉTREOS.
+
+###### ARTÍCULO 9.
+
+Se establece el Impuesto Ambiental sobre Extracción y Aprovechamiento de Materiales Pétreos, de acuerdo a lo siguiente:
+
+I.- Es objeto de este impuesto, la extracción y aprovechamiento de material pétreo que se realice en el Estado, incluyendo en el régimen de propiedad privada o ejidal.
+
+Para efectos de este impuesto se considerarán materiales pétreos, los minerales o sustancias no reservadas a la Federación, que constituyan depósitos de naturaleza similar a los componentes de los terrenos, como pueden ser la arena, arcilla, limos, materiales en greña, grava, las rocas o demás productos de su descomposición.
+
+II.- Son sujetos de este impuesto las personas físicas o morales, que con fines de lucro, realicen las actividades señaladas en este artículo.
+
+III.- La base del impuesto será el volumen mensual determinado en metros cúbicos, de extracción y aprovechamiento de material pétreo.
+
+IV.- La cuota a enterar por concepto del presente impuesto será de $3.35 pesos por metro cúbico extraído que sea aprovechado.
+
+V.- El impuesto se pagará mensualmente ante las oficinas de la Recaudación de Rentas del Estado, mediante las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado, dentro de los cinco primeros días del mes siguiente al de la extracción y aprovechamiento.
+
+VI.- Son obligaciones a cargo de los sujetos de este impuesto, además de las señaladas en los ordenamientos fiscales estatales, las siguientes:
+
+a) Registrarse como sujeto de este impuesto ante la Recaudación de Rentas del Estado cuya jurisdicción corresponda a su domicilio fiscal.
+
+b) Contar con la autorización en materia de impacto ambiental otorgada por la Secretaria de Protección al Ambiente del Estado, para la explotación y aprovechamiento de materiales pétreos, en términos de las disposiciones legales aplicables.
+
+Para efecto del presente artículo, se presume que la persona física o moral que cuenta con la autorización referida en este inciso es quien realiza la extracción y aprovechamiento de materiales pétreos.
+
+c) Llevar un registro diario de los volúmenes extraídos en el formato que para tal efecto autorice y expida la Secretaría de Protección al Ambiente, el cual deberá conservarse en los términos que ésta determine mediante disposiciones de carácter general.
+
+d) Presentar declaración mensual de pago en los términos del presente artículo anexando para tal efecto, el registro a que se refiere el inciso c).
+
+## TÍTULO TERCERO. CONTRIBUCIONES DE MEJORAS
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 10.
+
+El Gobierno del Estado y los Organismos Descentralizados del Estado obtendrán ingresos por contribuciones de mejoras, conforme a lo que establecen las Leyes y Reglamentos respectivos.
+
+## TÍTULO CUARTO
+
+DERECHOS:
+
+DERECHOS POR LA PRESTACIÓN DE LOS SIGUIENTES SERVICIOS PÚBLICOS.
+
+### CAPÍTULO I
+
+SERVICIOS DE AGUA.
+
+###### ARTÍCULO 11.
+
+Los derechos por servicios de agua se pagarán conforme lo establecido en la ley especial en materia de agua y lo dispuesto en el presente artículo.
+
+Con independencia de las exenciones señaladas en el Título IX de la Ley de Hacienda del Estado de Baja California, se otorgará una exención del pago correspondiente a personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados, siempre que éstos no obtengan ingresos mayores al equivalen te a cinco veces el salario mínimo general, en los Municipios de Tijuana, Playas de Rosarito, Tecate y Ensenada con exención total del pago de los derechos por consumo de agua, siempre y cuando sus consumos no excedan de 25 m3; se otorgará exención del 50% del crédito fiscal cuando sus consumos mensuales no excedan de 40 m3, quedando exento del pago por los primeros 25 m3; y tratándose del consumo excedente de 40 m3 mensuales pagarán por el consumo total de acuerdo a la tarifa normal de Ley. En tanto que, por condiciones climáticas extremas en el Municipio de Mexicali, cuando los consumos domésticos de dicho sector de la población no excedan de 30 m3 mensuales se les otorgará exención total del pago; se exentará el 50% del crédito fiscal cuando sus consumos mensuales no excedan de 60 m3, quedando exento del pago por los primeros 30 m3; y por el excedente de 60 m3 mensuales pagarán por el consumo total de acuerdo a la tarifa normal de Ley. Este beneficio será únicamente por un domicilio del beneficiario, previo estudio socioeconómico elaborado por el Organismo respectivo y siempre que se cumpla con las reglas generales que para tal efecto determine el citado Organismo.
+
+Los usuarios podrán hacer pagos anticipados a cuenta del consumo de agua de todo el año, durante los meses de enero y febrero del mismo año, en cuyo caso gozarán quienes hagan el pago total aproximado por los servicios obtenidos, de un 12% de descuento, sin que se causen los recargos correspondientes durante el mes de enero si es pagado en febrero.
+
+Asimismo, podrán pagar el 50% del monto total aproximado con un descuento del 7.5%, pudiendo liquidar el 50% restante durante los meses de julio y agosto con el mismo descuento, sin que se causen los recargos correspondientes del mes de julio si es pagado en el mes de agosto. En caso de que resulte una diferencia a cargo del usuario ésta se pagará en la facturación siguiente, de lo contrario el organismo abonará la diferencia resultante.
+
+Los Centros de Reinserción Social (CERESOS) y las escuelas públicas de educación preescolar, primaria, secundaria y media superior o bachillerato, pagarán los derechos por consumo de agua con la tarifa de uso no doméstico correspondiente menos un 30%. Se perderá este beneficio cuando se deje de cubrir tres meses consecutivos el pago de los derechos en un mismo ejercicio fiscal.
+
+Las instituciones públicas de educación superior que cuenten con planta de tratamiento de aguas residuales y que las utilicen en los usos propios de la institución, se les disminuirá en su consumo de agua potable el equivalente a 35 litros por educando, maestro y personal administrativo con que cuente la institución, por día natural por mes, en el caso del Municipio de Mexicali y de 30 litros por educando, maestro y personal administrativo con que cuente la institución, por día natural por mes, en el caso de los Municipios de Ensenada, Tecate, Tijuana y Playas de Rosarito, siempre y cuando el volumen utilizado de aguas residuales sea mayor o igual a la disminución referida. Al excedente de consumo de agua potable se le aplicará la tarifa no doméstica respectiva al Municipio donde se ubique. Se entenderá como educando a los alumnos que cuando menos asistan en promedio 4 horas por día hábil en calendario escolar.
+
+Tratándose de consumos de agua de organismos públicos, poblados de los ejidos y colonias rurales de los municipios del Estado, asociaciones civiles de vecinos, derivados de tomas instaladas para el riego de camellones, parques y jardines públicos, los derechos correspondientes se causarán al 30% del importe de la tarifa respectiva a cargo de los mismos. Para gozar del beneficio se deberá cumplir con las reglas generales que para el uso eficiente del agua establezca el Organismo operador de agua.
+
+Los beneficios fiscales mencionados en los párrafos anteriores, serán aplicables siempre y cuando no se tenga el beneficio de otro estímulo fiscal para los servicios de agua potable y alcantarillado sanitario.
+
+Se derogan las disposiciones que se establezcan en otras Leyes, reglamentos, acuerdos, circulares o disposiciones administrativas en la parte que contengan exenciones, totales o parciales, beneficios o estímulos fiscales, o consideren a personas como no sujetos de estos derechos, distintas a las comprendidas en las Leyes que establezcan contribuciones locales, Código Fiscal del Estado de Baja California y en la ley especial en materia de agua.
+
+### CAPÍTULO II
+
+SERVICIOS DE CONTROL VEHICULAR.
+
+###### ARTÍCULO 12.
+
+Los servicios a que se refiere el presente Capítulo se cobrarán conforme a las siguientes
+
+C U O T A S:
+
+I.- LICENCIAS PARA CONDUCIR:
+
+Las licencias de conducir tendrán una vigencia de 3 o 5 años, a elección del solicitante, a partir de la fecha de su expedición. Dicho plazo podrá variar, disminuyéndose o aumentándose de acuerdo a la fecha de nacimiento del conductor, sin que esta variación sea mayor a 6 meses.
+
+A).- Por expedición por primera vez:
+
+1.- De automovilista con vigencia de 3 años...... $490.54
+
+2.- De automovilista con vigencia de 5 años...... $613.70
+
+3.- De motociclista con vigencia de 3 años...... $405.81
+
+4.- De motociclista con vigencia de 5 años...... $528.98
+
+5.- De Chofer "C" con vigencia de 3 años...... $564.64
+
+6.- De Chofer "C" con vigencia de 5 años...... $687.80
+
+7.- De Chofer "A", "B" y "D"...... $988.13
+
+8.- Licencia para conducir automóviles o motocicletas para menor de 18 años y mayor de 16, hasta por un año...... $387.82
+
+9.- Licencia provisional para conducir de servicio público (pasajeros o carga) por 12 meses, por única vez...... $487.59
+
+El presente documento tendrá validez como licencia de chofer "C".
+
+No se otorgará este tipo de documento a quienes ya cuenten con licencia de chofer.
+
+10.- Licencia provisional de automovilista, motociclista o chofer "C", nacional o extranjero, hasta por nueve meses...... $449.90
+
+B).- Por revalidación de licencia de conducir:
+
+1.- De automovilista con vigencia de 3 años...... $400.37
+
+2.- De automovilista con vigencia de 5 años...... $523.52
+
+3.- De motociclista con vigencia de 3 años...... $346.01
+
+4.- De motociclista con vigencia de 5 años...... $469.17
+
+5.- De Chofer "C" con vigencia de 3 años...... $510.77
+
+6.- De Chofer "C" con vigencia de 5 años...... $633.93
+
+7.- De Chofer "A", "B" y "D"...... $963.90
+
+8.- Licencia para conducir automóviles o motocicletas para menor de 18 años y mayor de 16, hasta por un año...... $314.72
+
+C).- En pagos extemporáneos de licencias de conducir, se pagará un adicional sobre su costo de expedición de la siguiente manera:
+
+a).- Hasta un año de vencida, el 25% de su costo.
+
+b).- Hasta dos años de vencida, el 50% de su costo.
+
+c).- Hasta tres años de vencida, el 75% de su costo.
+
+d).- Más de tres años de vencida el 100% de su costo.
+
+D).- Por reposición de licencia:
+
+1.- Por robo o extravío u otros...... $322.86
+
+2.- Por solicitud de cambio de datos...... $161.44
+
+E).- Por baja de licencia de conducir...... $186.15
+
+Para revalidar la licencia de conducir por tercera ocasión, el solicitante deberá acudir al módulo de fotografía, para que le sea actualizada la foto en su licencia.
+
+II.- PLACAS, CALCOMANÍAS Y TARJETA DE CIRCULACIÓN:
+
+A).- Servicio Particular:
+
+1.- Por expedición de Calcomanía y Tarjeta de Circulación (revalidación):
+
+a).- Automóviles y camiones particulares...... $559.54
+
+b).-Motocicletas...... $127.59
+
+c).- Para demostración...... $1,053.61
+
+d).- Remolques...... $245.82
+
+2.- Por canje extemporáneo, se pagará un adicional sobre su costo de expedición de la siguiente manera:
+
+a).- Hasta tres meses de su vencimiento, el 50% de su costo.
+
+b).- Más de tres meses y hasta seis meses de su vencimiento, el 75% de su costo.
+
+c).- Más de seis meses de su vencimiento, el 100% de su costo.
+
+3.- Por expedición de Placas:
+
+a).- Automóviles y camiones particulares...... $913.43
+
+b).-Motocicletas...... $183.30
+
+c).- Para demostración...... $2,060.59
+
+d).- Remolques...... $662.26
+
+e).- Para vehículo de persona discapacitada...... $913.43
+
+4.- Por canje extemporáneo, se pagará un adicional sobre su costo de expedición de la siguiente manera:
+
+a).- Hasta tres meses de su vencimiento, el 50% de su costo.
+
+b).- Más de tres meses y hasta seis meses de su vencimiento, el 75% de su costo.
+
+c).- Más de seis meses de su vencimiento, el 100% de su costo.
+
+5.- Por expedición de tarjeta de circulación por primera vez:
+
+a).- Automóviles y camiones particulares...... $867.25
+
+b).- Motocicletas...... $350.91
+
+c).- Para demostración...... $2,072.38
+
+d).- Remolques...... $797.57
+
+6.- Expedición de constancia de registro de vehículo todo terreno:
+
+a).- Por expedición por primera vez de constancia anual de registro en el padrón vehicular estatal, de vehículos todo terreno cuya circulación no es permitida en poblaciones y caminos del Estado...... $559.35
+
+b).- Por la expedición anual, de la constancia de registro en el padrón vehicular estatal, de vehículos todo terreno...... $381.05
+
+B).- Servicio Público:
+
+1.- Por expedición de Calcomanía y Tarjeta de Circulación (revalidación):
+
+a).- Taxis y autobuses de pasajeros...... $561.92
+
+b).- Camiones de carga...... $757.95
+
+c).- Motocicletas...... $263.40
+
+2.- Por canje extemporáneo, se pagará un adicional sobre su costo de expedición de la siguiente manera:
+
+a).- Hasta tres meses de su vencimiento, el 50% de su costo.
+
+b).- Más de tres meses y hasta seis meses de su vencimiento, el 75% de su costo.
+
+c).- Más de seis meses de su vencimiento, el 100% de su costo.
+
+3.- Por expedición de placas:
+
+a).- Taxis y autobuses de pasajeros...... $1,049.34
+
+b).- Camiones de carga...... $1,244.99
+
+c).- Motocicletas...... $171.98
+
+4.- Por canje extemporáneo, se pagará un adicional sobre su costo de expedición de la siguiente manera:
+
+a).- Hasta tres meses de su vencimiento, el 50% de su costo.
+
+b).- Más de tres meses y hasta seis meses de su vencimiento, el 75% de su costo.
+
+c).- Más de seis meses de su vencimiento, el 100% de su costo.
+
+5.- Por expedición de tarjeta de circulación por primera vez:
+
+a).- Taxis y autobuses de pasajeros...... $1,128.42
+
+b).- Camiones de carga...... $1,454.82
+
+c).- Motocicletas...... $797.57
+
+C).- Reducción por pronto pago:
+
+A las personas que efectúen el pago de los derechos por revalidación de calcomanías y tarjetas de circulación para el ejercicio fiscal 2017, se les otorgará una reducción en el monto de los derechos correspondientes a ese ejercicio, de acuerdo al siguiente calendario:
+
+1.- En el mes de enero, gozarán de una reducción del 12%.
+
+2.- En el mes de febrero, gozarán de una reducción del 8.5%.
+
+3.- En el mes de marzo, gozarán de una reducción del 5%.
+
+El citado beneficio aplica para el pago de derechos correspondientes al ejercicio fiscal 2017.
+
+III.- OTROS SERVICIOS:
+
+1.- Por expedición de constancias...... $149.25
+
+2.- Certificación de documentos expedidos por la Recaudación de Rentas...... $149.25
+
+3.- Por búsqueda de documentos, por cada documento...... $52.68
+
+4.- Por reposición de tarjetas de circulación...... $187.41
+
+5.- Por reposición de placas de servicio particular...... $605.54
+
+6.- Por baja del padrón vehicular...... $187.41
+
+7.- Por reposición de placas de taxis y autobuses de pasajeros...... $ 741.44
+
+8.- Por reposición de placas de camiones de carga...... $937.10
+
+9.- Por flotillas, en la expedición de calcomanías y tarjetas de circulación, por unidad...... $100. 90
+
+10.- Por servicio de entrega a domicilio (hasta dos trámites en un mismo domicilio)...... $119.00
+
+11.- Por servicio de recaudación en la empresa, por trámite...... $119.00
+
+12.- Por servicio de control vehicular en agencias de autos...... $119.00
+
+13.- Por servicio de revisión del vehículo y documentos para altas al padrón vehicular en el domicilio del contribuyente...... $119.00
+
+14.- Por expedición por única vez, de permiso de traslado, por 15 días...... $505.18
+
+Tratándose del servicio de entrega a domicilio, el contribuyente deberá presentar los requisitos al momento de recibir la tarjeta de circulación; en los demás casos al momento de solicitar el servicio.
+
+Los demás servicios que presta la Secretaría de Planeación y Finanzas del Estado, causarán derechos, los cuales se cobrarán de conformidad con los presupuestos que al efecto se realicen por esta dependencia, los que en todo caso serán proporcionales al costo del servicio.
+
+### CAPÍTULO III
+
+SERVICIOS DE LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO.
+
+###### ARTÍCULO 13.
+
+Los servicios que se presten en materia de la Propiedad, causarán derechos cada vez y se pagarán previamente por los interesados, con excepción de los solicitados por las Autoridades Fiscales de la Federación, Estado y Municipios, y Organismos Descentralizados, los cuales se harán efectivos a través del Procedimiento Administrativo de Ejecución como parte del crédito fiscal, debiendo éstas enterarlos a la oficina recaudadora correspondiente dentro de los treinta días naturales contados a partir de la fecha de su cobro, conforme a la siguiente
+
+T A R I F A:
+
+I.- Por el análisis que se realice sobre todo tipo de documento sea público o privado que se presente al Registro para su inscripción, anotación o cancelación, por una sola vez...... $189.35
+
+Por la anotación o cancelación que se realice por el aviso preventivo de notario público relativo a escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces o cualquier derecho real sobre los mismos, o por las autoridades establecidas en el Artículo 2878 fracción III del Código Civil para el Estado de Baja California, cada vez...... $112.92
+
+II.- Por la inscripción de documentos públicos o privados, por virtud de los cuales se establezca, declare, reconozca, transmita, modifique o extinga el dominio o la propiedad de bienes muebles e inmuebles, asimismo, la condición resolutoria o suspensiva en los casos de venta de bienes raíces, por cada acto en un mismo documento...... $5, 693.21
+
+III.- Por la inscripción de toda clase de gravámenes o contratos de garantía que limiten la propiedad o la posesión ordinaria de inmuebles; actos o contratos, en virtud de los cuales se adquieran, se den en comodato, se arrienden, transmitan, limiten o modifiquen derechos reales de muebles e inmuebles distintos de dominio; contratos de crédito hipotecario incluyendo aquellos cuyo destino sea la adquisición, remodelación, ampliación o construcción de vivienda, sobre el monto del gravamen, garantía o acto de que se trate...... $5,693.21
+
+Esta tarifa se aplicará igualmente para aquellos convenios modificatorios que impliquen aumento o diferencia en el monto del crédito inscrito, se causarán derechos por la diferencia que resulte entre el crédito inscrito y la suma de dinero que se reconozca adeudar.
+
+IV.- Por la inscripción de contratos que tengan por objeto la adquisición individualizada de vivienda de interés social o popular, por cada acto y unidad de vivienda...... $900.00
+
+Esta tarifa se aplicará igualmente para aquellos contratos de crédito hipotecario celebrados con instituciones u organismos auxiliares de crédito, destinados para la adquisición o construcción individualizada de los tipos de vivienda señalados en esta fracción, sobre el monto que ampara el capital del crédito que se destine a la compra-venta de dichas viviendas y que así se indique en el acto jurídico.
+
+V.- Por la inscripción de la designación, aceptación, discernimiento de albacea y declaración de herederos si consta en el mismo documento...... $621.33
+
+VI.- Por la inscripción:
+
+A).- De la constitución del patrimonio familiar...... $621.33
+
+B).- Del otorgamiento de poderes, sustitución, Revocación o renuncia de los mismos, por cada acto, contenido en un mismo documento...... $519.77
+
+C).- De actos, contratos, convenios o resoluciones administrativas por los que se constituye un fraccionamiento, se fusione, se lotifique, se relotifique, se divida o subdivida un inmueble, por cada lote que resulte...... $59.73
+
+D).- De actos, contratos, convenios por los que se extinga o constituye el régimen de propiedad en condominio, que no se destine a interés social, por lote, departamento, despacho o local, que lo integre, cada vez...... $648.25
+
+Salvo tratándose del régimen de propiedad en condominio para vivienda de interés social, por cada departamento...... $322.59
+
+E).- De documentos públicos o privados por los que se constituyan Asociaciones Civiles, Sociedades Civiles y Asociaciones Religiosas, o por el aumento de capital:
+
+- Hasta por la cantidad de $50,000.00...... $2,138.54
+
+- Por el excedente de $50,000.00...... 5.0 al millar
+
+En ningún caso el derecho correspondiente excederá de...... $32,483.36
+
+Cuando estos documentos impliquen transmisión de bienes inmuebles, se estará además a lo dispuesto por el Artículo 13 Fracción II.
+
+F).- De las Actas de Asamblea, y Juntas Administrativas de Sociedades y Asociaciones Civiles, cada vez...... $633.76
+
+G).- De las inscripciones preventivas de demanda, sentencias, jurisdicciones voluntarias que no impliquen declaración de dominio, embargos, cédulas o demandas de juicio especial hipotecario, rescisiones de contratos, convenios modificatorios que no impliquen aumento al monto del crédito, convenios de extinción de fideicomiso...... $654.16
+
+H).- De la inscripción o anotación de contratos o convenios que constituyan, modifiquen, liquiden o disuelvan el régimen de sociedad conyugal, así como las capitulaciones matrimoniales...... $654.16
+
+Cuando estos documentos impliquen transmisión de bienes inmuebles, se estará además a lo dispuesto por el Artículo 13 Fracción II.
+
+I).- Por el registro e inscripción de Patente, sello y firma de Notario Titular, de Notario Adscrito o de corredor público, cada vez...... $5,200.84
+
+J).- Por el registro e inscripción de Patente de aspirante al ejercicio del notariado, cada vez...... $5,126.49
+
+K).- Por el registro de convenios de asociación o suplencia celebrados entre Notarios Públicos, cada vez...... $701.30
+
+VII.- Por la expedición de:
+
+A).- Certificado de no Propiedad Municipal...... $41.76
+
+B).-Certificado de no Propiedad Estatal...... $157.85
+
+VIII.- Por la expedición de:
+
+A).- Certificados de inscripción con o sin gravamen, por cada predio, departamento o local...... $313.66
+
+En caso de que la expedición comprenda más de un predio derivado de un mismo antecedente registral, por cada predio, departamento o local, adicional, en un mismo certificado, por cada uno...... $56.72
+
+B).- Certificación de partida registral, hasta 15 hojas...... $259.89
+
+Por el excedente de 15 hojas, por cada hoja...... $5.41
+
+C).- Certificado de no inscripción o no contradicción, por cada predio, departamento o local...... $611.07
+
+D).- Historia registral por un predio, departamento o local, sociedad o asociación civil que involucre:
+
+- Hasta cinco partidas registrales anotaciones y/o anotaciones ...... $638.52
+
+- De seis a diez partidas registrales y/o anotaciones...... $820.95
+
+- Más de diez partidas registrales y/o anotaciones...... $1,404.68
+
+E).- Cada copia de imagen registral sin certificar, reportes de anotaciones derivadas de las mismas, así como libro de copias de documentos, por cada hoja...... $5.95
+
+IX.- Por el retiro de cada testamento ológrafo y expedición de la respectiva constancia...... $782.66
+
+X.- Por la ratificación de firma de documento, cada vez...... $412.19
+
+XI.- Por la cancelación de partidas, por cada partida...... $182.19
+
+XII.- Por la inscripción, anotación, registro, cancelación o expedición de otros actos no comprendidos en las fracciones de este artículo......$972.48
+
+XIII.- Por el servicio de consulta al Sistema de Enlace Remoto...... $3,284.55
+
+La vigencia del servicio será de un año a partir de su fecha de pago.
+
+XIV.- Por el registro de cesión de derechos sobre gravámenes relacionados con créditos:
+
+- Hasta 10 créditos...... $912.15
+
+- De 11 a 20 créditos......$1,824.33
+
+- Más de 21 créditos...... $2,736.48
+
+XV.- Por el servicio de monitoreo de predio o lote, por año:
+
+A).- Por un predio...... $265.74
+
+B).- Por hasta 4 predios...... $531.48
+
+C).- De 5 a 10 predios...... $1,009.81
+
+D).- De 11 a 20 predios...... $1,328.70
+
+Por el excedente de 1 hasta 10 predios, $250.00 por cada 10 predios.
+
+Los derechos referidos aplicarán cuanto se trate de predios pertenecientes a una misma persona física o moral. Cuando se trate de predios de diferentes propietarios se pagarán derechos por cada propietario, conforme al tabulador anterior.
+
+XVI.- OTROS SERVICIOS:
+
+Los demás servicios que presta el Registro Público de la Propiedad y de Comercio, causarán derechos, los cuales se cobrarán de conformidad con los presupuestos que al efecto se realicen por esta dependencia, los que en todo caso serán proporcionales al costo del servicio.
+
+###### ARTÍCULO 14.
+
+Para el cobro de los derechos que establece el artículo anterior, se observarán las siguientes reglas:
+
+I.- Con base en el valor mayor que resulte entre el de operación contractual, el catastral o el de avalúo certificado por la autoridad catastral que no podrá tener antigüedad mayor de un año a la fecha de presentación, el cual deberá ser practicado por Institución Bancaria o Perito Valuador autorizado.
+
+II.- Toda transmisión de bienes o derechos reales formalizada en documento público o privado, cuando en ella queden comprendidos varios bienes, se pagarán conforme a las tarifas que establece el artículo anterior.
+
+III.- Cuando un documento público o privado origine inscripción en las diversas Oficinas Registrales de la Dirección del Registro Público de la Propiedad y de Comercio en razón de la ubicación jurisdiccional de los bienes o garantías reales en el Estado, se causarán los derechos por el análisis del mismo una sola vez, y por inscripción en cada una de las oficinas registrales que se requiera.
+
+IV.- Cuando se soliciten trámites de certificaciones de bienes inmuebles inscritos en otras Oficinas Registrales de la Dirección del Registro Público de la Propiedad y de Comercio, aplicará la tarifa que establece el Artículo 13 Fracciones VII y VIII de esta Ley.
+
+V.- Cuando se trate de contratos, demandas o resoluciones judiciales y administrativas que se refieran a prestaciones periódicas, el valor se determinará por la suma de éstas, en caso contrario se tomará como base la cantidad que resulte, haciendo el cómputo por anualidades.
+
+VI.- Tratándose de los Servicios Tecnológicos de Enlaces Remotos a que se refiere la Fracción XIII del Artículo 13 de esta Ley, que presta la Dirección del Registro Público de la Propiedad y de Comercio a entidades públicas o privadas, éstos se prestarán siempre y cuando se cumpla con los requisitos que para el efecto determine la Dirección del Registro Público de la Propiedad y de Comercio.
+
+VII.- No se causarán los derechos a que se refiere el Artículo 13 en los siguientes casos:
+
+A).- Los inmuebles regularizados e enajenados por el Instituto para el Desarrollo Inmobiliario y de la Vivienda para el Estado de Baja California.
+
+B).- Cuando se trate de inmuebles que adquiera la Administración Pública Centralizada, Estatal o Municipal.
+
+C).- Cuando se trate de inmuebles regularizados por la Comisión para la Regularización de la Tenencia de la Tierra, Instituto del Fondo Nacional de la Vivienda para los Trabajadores, Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y cualquier otro organismo público facultado por la Federación, Estado o los Municipios de la entidad.
+
+D).- Por los informes o certificados que soliciten las autoridades correspondientes para asuntos de carácter penal, laboral o juicios de amparo y aquéllos que provengan de la Defensoría Pública estatal o federal.
+
+E).- Por la inscripción de contratos de apertura de crédito o convenios judiciales cuyo objeto sea la reestructuración de pasivos derivados de contratos de crédito refaccionario y de habilitación o avío, cuyo destino encuadre en lo dispuesto por el Artículo 16 Fracción VIII Inciso B).
+
+F).- Por la inscripción, anotación y cancelación de hipoteca, embargos precautorios, decomiso y aseguramientos que se constituya mediante acta ministerial o judicial en los términos de la legislación penal aplicable.
+
+G).- Por la inscripción, anotación y cancelación de actas de embargo provenientes de autoridades laborales y fiscales.
+
+H).- Por la búsqueda y expedición de información respecto a la existencia de disposición testamentaria solicitada por las Autoridades Judiciales y Notarios Públicos.
+
+I).- Cuando se trate de la inscripción por primera vez de títulos de propiedad de terrenos originados de Certificados de Derechos Agrarios y de los títulos de solares urbanos al mismo nombre del beneficiario que realizó el trámite de titulación a través de un Programa de Certificación de Derechos Agrarios.
+
+J).- Por los certificados de no propiedad solicitados por el Instituto para el Desarrollo Inmobiliario y de la Vivienda para el Estado de Baja California.
+
+VIII.- Los documentos depositados con fecha anterior al 31 de diciembre de 2016, que fueron registrables causarán los derechos de acuerdo a la Ley vigente a la fecha de su depósito.
+
+IX.- Cuando un mismo título o documento origine dos o más inscripciones en el Registro Público de la Propiedad, los derechos se causarán por cada una de ellas, calculándose separadamente, con su cuota respectiva.
+
+X.- Cuando en un documento el monto o cantidad sea en dólares, unidades de inversión o cualquier tipo de moneda distinta a la de curso legal en el país, se cuantificarán los derechos conforme al tipo de cambio señalado por el Banco de México al momento de la presentación para su registro, con excepción de aquellos documentos que además de señalar la cantidad en dólares, unidades de inversión o cualquier otro tipo de moneda indique el equivalente en moneda de curso legal.
+
+###### ARTÍCULO 15.
+
+Los servicios que se presten en materia del Comercio, causarán derechos cada vez y se pagarán previamente por los interesados, con excepción de los solicitados por las Autoridades Fiscales de la Federación, Estado y Municipios, los cuales se harán efectivos dentro del Procedimiento Administrativo de Ejecución como parte del crédito fiscal, debiendo éstas enterarlos a la oficina recaudadora correspondiente dentro de los treinta días naturales contados a partir de la fecha de su cobro, conforme a la siguiente
+
+T A R I F A:
+
+I.- Por el análisis que se realice sobre todo tipo de documento, sea público o privado, que se presente al Registro para su inscripción, anotación o cancelación, por una sola vez…… $189.35
+
+II.- Por la inscripción de:
+
+A).- Matrícula de un comerciante persona física…… $621.33
+
+B).- Inscripción de documentos públicos o privados, resoluciones judiciales o administrativas, por virtud de los cuales se establezca, declare, adquiera, transmita, modifique o extinga la propiedad industrial o la propiedad de buques, aeronaves y en general de bienes mercantiles, sobre el valor mayor que resulte entre el de factura o avalúo certificado, practicado por Institución Bancaria o Perito Valuador autorizado…… 5.0 al millar
+
+En ningún caso el derecho correspondiente excederá de......... $28,l07.78
+
+C).- De los instrumentos públicos en los que se consigne la constitución, escisión, aumento de capital o fusión de sociedades mercantiles, sobre el aumento o el incremento que experimente, incluyendo las Asociaciones en
+
+Participación, Sociedades de Producción Rural y Sociedades Cooperativas.
+
+- Hasta por la cantidad de $50,000.00 ... $ 2,240.46
+
+- Por el excedente de $50,000.00 ........ 5.0 al millar
+
+En ningún caso el derecho correspondiente excederá de ....... $33,804.20
+
+Cuando estos documentos impliquen transmisión de bienes inmuebles, se estará además a lo dispuesto por el Artículo 13 Fracción II.
+
+D).- Actas de asamblea, cada vez .............. $ 1,556.31
+
+Cuando en dichas actas queden comprendidas el aumento de capital y el otorgamiento de poderes, sustitución o revocación de los mismos, se estará a lo dispuesto por los Incisos C) y H) de esta Fracción.
+
+E).- Del depósito o resguardo de programas de la firma autógrafa o electrónica de administradores o de los balances bancarios, industriales o comerciales a que se refieren los Artículos 92, 125 fracción VII, 177 y 242 segundo párrafo de la Ley General de Sociedades Mercantiles..... $621.33
+
+F).- Anotación o depósito del acta de emisión de bonos y obligaciones de sociedades mercantiles sobre el monto de la emisión 5.0 al millar
+
+G).- De la disolución o liquidación de sociedades mercantiles o por la cancelación en su caso del asiento de la constitución de la sociedad, cada acto.. $621.33
+
+H).- Del otorgamiento de poderes, sustitución, renuncia o revocación de los mismos, por cada acto contenido en un mismo documento. $621.33
+
+I).- Por cada acta de embargo definitiva, precautoria, reinscripciones, actas complementarias, ampliaciones de embargos, así como secuestros del orden mercantil, sobre su monto........................... 5.0 al millar
+
+En ningún caso el derecho correspondiente excederá de . . . . $28,086.52
+
+En los casos en los que de un mismo mandamiento de autoridad deriven dos o más actas de embargo, se causarán derechos por una sola vez, respecto al total del adeudo.
+
+J).- De declaraciones judiciales de suspensión de pago, sentencias de estado de quiebra……$200.10
+
+K).- De contratos, convenios o corresponsalía mercantil. . . . $621.33
+
+L).- Por la inscripción o anotación de contratos de créditos hipotecarios, refaccionarios, de habilitación o avío, destinados a la adquisición de materias primas y a la realización de actividades industriales y comerciales, así como la consolidación y reestructuración de pasivos concertados con las Instituciones de Crédito, de Seguros, de Fianzas o de cualquier otra índole mercantil, incluyendo apoyo a capital de trabajo, sobre el monto del crédito ................ 3.5 al millar
+
+Esta tarifa se aplicará igualmente para aquellos convenios modificatorios que impliquen aumento o diferencia en el monto del crédito inscrito, se causarán derechos por la diferencia que resulte entre el crédito inscrito y la suma de dinero que se reconozca adeudar.
+
+En ningún caso el derecho correspondiente excederá de ..... $56,167.10
+
+M).- El arrendamiento financiero ............... 5.0 al millar
+
+En ningún caso el derecho correspondiente excederá de ..... $28,086.52
+
+N).- Del fideicomiso en administración o en garantía......$2,034.30
+
+Ñ).- Del fideicomiso traslativo de dominio, sobre el valor mayor que resulte entre el de operación y el de avalúo practicado por institución bancaria o perito valuador autorizado ....................... 5.0 al millar
+
+En ningún caso el derecho correspondiente excederá de ..... $28,086.52
+
+III.- Por el registro relativo a inscripciones principales cuando se refieran a modificaciones de plazo, intereses o garantías, números equivocados o cualquier otra que no constituya renovación de contrato ..... $621.33
+
+En tratándose de rectificación o modificación de la cuantía, se cobrará por la diferencia de acuerdo al tipo de contrato.
+
+IV.- Por la ratificación de firma de documento, cada vez ..... $412.19
+
+V.- Por las inscripciones de fianzas, contrafianzas y obligaciones solidarias con el fiador, para el solo efecto de comprobar la solvencia del fiador, del contrafiador y del obligado solidario, cuando éstos sean sujetos de derecho mercantil, sobre su monto... 3.5 al millar
+
+En ningún caso el derecho correspondiente excederá de ..... $47,784.73
+
+VI.- Por la cancelación de partidas, por cada partida..... $182.19
+
+VII.- Por expedición de:
+
+A).- Certificado de no propiedad .........$41.76
+
+B).- Certificados de inscripción con o sin gravamen....$131.66
+
+C).- Certificación de partida registral, hasta 15 hojas..... $259.89
+
+Por el excedente de 15 hojas, por cada hoja....... $5.41
+
+D).- Por cada certificado de inscripción o no inscripción en materia de contratos de mandato y sociedades mercantiles...... $259.89
+
+E).- Historia registral de sociedades mercantiles:
+
+- Hasta cinco partidas registrales y/o anotaciones ..$638.52
+
+- De seis a diez partidas registrales y/o anotaciones . $820.95
+
+Más de diez partidas registrales y/o anotaciones ....$1.404.68
+
+F).- Cada copia de imagen registral sin certificar, reportes de anotaciones derivadas de las mismas, así como libro de copias de documentos, por cada hoja .... $5.95
+
+Por la expedición de informe o constancia solicitada por autoridades estatales, federales, municipales u organismos descentralizados, se causarán derechos conforme a los incisos anteriores.
+
+VIII.- Por la inscripción, anotación, registro, cancelación o expedición de otros actos no comprendidos en las fracciones de este artículo........... $972.48
+
+IX.- Por el registro de cesión de derechos sobre gravámenes relacionados con créditos:
+
+- Hasta 10 créditos ................... $912.15
+
+- De 11 a 20 créditos ................. $1,824.33
+
+- Más de 21 créditos .................. $2,736.48
+
+X.- OTROS SERVICIOS:
+
+Los demás servicios que presta el Registro Público de la Propiedad y de Comercio, en materia de comercio, causarán derechos, los cuales se cobrarán de conformidad con los presupuestos que al efecto se realicen por esta dependencia, los que en todo caso serán proporcionales al costo del servicio.
+
+###### ARTÍCULO 16.
+
+Para el cobro de los derechos que establece la tarifa del artículo anterior, se observarán las siguientes reglas:
+
+I.- Con base en el valor mayor que resulte entre el de operación contractual, el fiscal o el de avalúo que no podrá tener antigüedad mayor de un año a la fecha de presentación, el cual deberá ser practicado por Institución Bancaria o Perito Valuador autorizado.
+
+II.- Toda transmisión de bienes o derechos reales formalizada en documento público o privado, cuando en ella queden comprendidos varios bienes, se pagarán sobre el valor de cada uno de ellos, conforme a la fracción anterior.
+
+III.- Cuando un mismo título o documento origine dos o más inscripciones en el Registro del Comercio, los derechos se causarán por cada una de ellas, calculándose separadamente, con su cuota respectiva.
+
+IV.- Cuando un documento público o privado origine inscripción en las diversas Oficinas Registrales de la Dirección del Registro Público de la Propiedad y de Comercio en razón de la ubicación jurisdiccional de los bienes o garantías reales en el Estado, se causarán los derechos por el análisis del mismo una sola vez, y por inscripción en cada una de las oficinas registrales que se requiera.
+
+V.- Cuando se trate de contratos, demandas o resoluciones judiciales y administrativas que se refieran a prestaciones periódicas, el valor se determinará por la suma de éstas, en caso contrario se tomará como base la cantidad que resulte, haciendo el cómputo por anualidades.
+
+VI.- En los contratos mercantiles relativos a buques y aeronaves en los que medie condición suspensiva, resolutoria, reserva de propiedad o cualquier otra modalidad que dé lugar a una inscripción complementaria para su perfeccionamiento, se pagará el total de lo que corresponda, de acuerdo con la disposición aplicable.
+
+VII.- Respecto de inscripciones relativas a embarcaciones o aeronaves, los derechos se cobrarán con base en el valor mayor que resulte entre el de operación, factura o de avalúo, practicado por Institución Bancaria o Perito Valuador autorizado.
+
+VIII.- No se causarán los derechos a que se refiere el artículo anterior:
+
+A).- Por los informes o certificados que soliciten las autoridades correspondientes para asuntos de carácter penal, laboral, administrativo y juicios de amparo.
+
+B).- Por la inscripción de contratos de crédito refaccionario y de habilitación o avío, destinados a la adquisición de materias primas y materiales y en el pago de los jornales, salarios y gastos decretados de explotación indispensables para los fines de su actividad, aperos, útiles de labranza, ganado o animales de cría y la realización de plantaciones o cultivos cíclicos o permanentes, compra o instalación de maquinarias de la, construcción de obras, materiales para el fomento de la actividad agropecuaria como perforación de pozo profundo y electrificación, así como la pesca o acuacultura, siempre y cuando sea otorgado por institución de crédito.
+
+Cuando en un mismo contrato el destino del crédito no sólo se refiera a lo que establece este inciso, sino además una parte del crédito sea destinado para un fin diverso, este último se cobrará de acuerdo a lo establecido en la Fracción II Inciso L) del Artículo 15 de esta Ley.
+
+C).- Por la inscripción de contratos de apertura de crédito o convenios judiciales cuyo objeto sea la reestructuración de pasivos derivados de contratos de crédito refaccionario y de habilitación o avío, cuyo destino encuadre en lo dispuesto por el Inciso anterior.
+
+D).- De la inscripción, anotación y cancelación de actas de embargo provenientes de autoridades laborales.
+
+La cantidad equivalente a la cuota que se recaude por concepto de análisis de documentos a que se refieren la fracción I del artículo 13 y la fracción I del artículo 15 de esta Ley, se destinará al Fondo para la Modernización del Registro Público de la Propiedad y de Comercio del Estado, en los términos que se establecen en los artículos 86 y 87 de la Ley del Registro Público de la Propiedad y de Comercio para el Estado de Baja California, y con base a las reglas que determine la Secretaría de Planeación y Finanzas del Estado.
+
+### CAPÍTULO IV. SERVICIOS DE LA SECRETARÍA DE PROTECCIÓN AL AMBIENTE
+
+###### ARTÍCULO 17.
+
+Por los servicios que presta la Secretaría de Protección al Ambiente del Estado, se cubrirán las siguientes
+
+C U O T A S:
+
+I.- IMPACTO AMBIENTAL.
+
+Por los servicios que a continuación se señalan con referencia al impacto ambiental.
+
+A).- Recepción y evaluación del Informe Preventivo...... $2,119.06
+
+B).- Recepción y evaluación de la Manifestación del Impacto Ambiental:
+
+1.- En su modalidad general...... $6,891.30
+
+2.- Modalidad planes y programas...... $12,398.31
+
+3.- Estudios de riesgo...... $6,891.30
+
+4.- Modalidad regional...... $12,398.31
+
+5.- En su modalidad particular...... $6,891.30
+
+II.- DESCARGAS Y EMISIONES.
+
+Por los servicios que a continuación se señalan con respecto a los registros de emisiones a la atmósfera.
+
+A).- Recepción y evaluación de emisiones a la atmósfera:
+
+1.- Registro de emisiones a la atmósfera...... $3,639.23
+
+B).- Revaluación a los registros de emisiones a la atmósfera:
+
+1.- Registro de emisiones a la atmósfera...... $2,074.86
+
+2.- Análisis de solicitud de prórroga para presentar revaluación de los registros de emisiones a la atmósfera...... $969.49
+
+III.- PRESTADORES DE SERVICIOS AMBIENTALES.
+
+Por los servicios que a continuación se señalan con respecto a las personas físicas o morales como prestadores de servicios ambientales:
+
+A).- Por el estudio y evaluación de factibilidad para prestar servicios ambientales:
+
+1.- Auditor ambiental...... $3,639.23
+
+2.- Perito en monitoreo...... $3,639.23
+
+3.- Prestador de servicios en materia ambiental de impacto...... $6,747.40
+
+4.- Laboratorio ambiental...... $7,785.48
+
+B.- Por la inscripción al padrón de prestador de servicios en materia de Impacto Ambiental, Auditores Ambientales, Laboratorios Ambientales y Peritos en Monitoreo.
+
+a).- Por la inscripción al padrón de prestador de servicios en materia de impacto ambiental...... $6,747.40
+
+b).- Por la inscripción al padrón de Auditores Ambientales...... $3,639.23
+
+c).- Por la inscripción al padrón de Laboratorios Ambientales...... $7,785.48
+
+d).- Por la inscripción al padrón de Peritos en Monitoreo...... $3,639.23
+
+C).- Por la evaluación para seguir inscrito en el padrón de prestador de servicios en Materia de Impacto Ambiental, Auditores Ambientales, Laboratorios Ambientales y Peritos en Monitoreo.
+
+a).- Evaluación para seguir inscrito en el padrón de prestador de servicios en materia de impacto ambiental...... $4,048.44
+
+b).- Evaluación para seguir inscrito en el padrón de auditores ambientales...... $2,183.56
+
+c).- Evaluación para seguir inscrito en el padrón de laboratorios ambientales...... $4,671.27
+
+d).- Evaluación para seguir inscrito en el padrón de perito en monitoreo...... $2,183.56
+
+IV.- OTROS SERVICIOS
+
+a).- Cambios de razón social, fusiones, transferencias de derechos y obligaciones respecto a resoluciones o trámites en general...... $2,799.37
+
+b).- Por el análisis para la reconsideración de condicionantes de autorización y licencia...... $1,629.50
+
+c).- Por la evaluación en materia de impacto ambiental por modificaciones a proyectos autorizados....... $2,119.06
+
+d).- El servicio de visitas de verificación a petición de parte, para constatar el cumplimiento de condicionantes en materia de impacto ambiental:
+
+1.- En sitios ubicados dentro de los centros de población...... $2,339.53
+
+2.- En sitios ubicados fuera de los centros de población...... $7,798.43
+
+e).- Análisis de solicitud de prórroga para dar cumplimiento a condicionantes de impacto ambiental y del permiso de emisiones y de descargas de aguas residuales...... $974.15
+
+f).- Análisis de solicitud de exención al trámite de registro de descargas de aguas potencialmente contaminantes...... $974.15
+
+g).- Análisis de solicitud de condiciones particulares de descargas de agua potencialmente contaminantes...... $2,799.41
+
+h).- Por la expedición de información relativa al historial de la empresa...... $2,799.41
+
+i).- Cotejo de hojas, por hoja...... $30.69
+
+j).- Expedición de copias simples de documentales integradas al expediente, por cada hoja ..... $6.81
+
+k).- Análisis de prórroga para presentar la información adicional en materia de impacto ambiental, de riesgo y del registro y/o reevaluación en materia del permiso de emisiones a la atmósfera...... $937.57
+
+l).- Cualquier otra certificación o expedición de constancias...... $221.39
+
+m).- Revaluación de la manifestación del impacto ambiental...... $6,891.30
+
+n).- Expedición de constancia de disposición de llantas de desecho en un número equivalente al que le fuera autorizado para su importación y comercialización por parte de la autoridad competente........ $484.76
+
+ñ).- Están obligados por la recepción y evaluación de la solicitud de registro de generadores de residuos de manejo especial en el Estado de Baja California:
+
+Pequeño Generador y Grande Generador...... $680.87
+
+De conformidad con lo previsto en la Ley General para la Prevención y Gestión Integral de los Residuos se considera como: a) Gran Generador: Persona física o moral que genere una cantidad igual o superior a 10 toneladas en peso bruto total de residuos al año o su equivalente en otra unidad de medida; y b) Pequeño Generador: Persona física o moral que genere una cantidad igual o mayor a cuatrocientos kilogramos y menor a diez toneladas en peso bruto total de residuos al año o su equivalen te en otra unidad de medida.
+
+o).- Están obligadas las personas físicas o morales por la recepción y evaluación de la solicitud para registro para la realización de la actividad, relativa a la prestación del servicio de manejo integral de residuos de manejo especial...... $7,660.94
+
+p).- Por la recepción y disposición de llantas o neumáticos de vehículos que se reciba en los centros de acopio de la Secretaría de Protección al Ambiente; por cada llanta o neumático de:
+
+Automóvil y motocicleta...... $5.18
+
+Camiones urbanos y similares...... $10.34
+
+Tractocamión u otros...... $10.34
+
+q).- Por recepción y evaluación del Plan de Manejo de Residuos de manejo especial...... $1,727.97
+
+r).- Revaluación del Plan de Manejo de Residuos de manejo especial...... $985.22
+
+s).- Actualización del Plan de Manejo de Residuos de manejo especial...... $954.67
+
+t).- Recepción y evaluación del reporte anual de Generadores de Residuos de manejo especial...... $863.97
+
+El cobro señalado en el inciso t) se realizará por una sola vez.
+
+u).- Actualización al Registro como Generador de Residuos de manejo especial en el Estado...... $329.88
+
+v).- Solicitud de prórroga para presentar la información adicional en materia de Residuos especial de manejo especial...... $943.94
+
+w).- Análisis de la solicitud de revalidación de licencia de prestador de servicios para el manejo integral de Residuos de manejo especial......$4,454.03
+
+Los demás servicios que presta la Secretaría de Protección al Ambiente del Estado, causarán derechos, los cuales se cobrarán de conformidad con los presupuestos que al efecto se realicen por esta dependencia, los que en todo caso serán proporcionales al costo del servicio.
+
+### CAPÍTULO V
+
+LEGALIZACIÓN DE FIRMAS, EXPEDICIÓN DE CERTIFICADOS Y CERTIFICACIONES, ESTUDIOS DE CUMPLIMIENTO, REVALUACIÓN DE ESTUDIOS Y PUBLICACIONES.
+
+###### ARTÍCULO 18.
+
+Los derechos de legalización de firmas y expedición de certificados, certificaciones, estudios de cumplimiento y revaluación de estudios no comprendidos en otros capítulos de la presente Ley, publicaciones en los Órganos de Difusión Oficiales y los derechos por servicios que presta la Dirección del Registro Civil del Estado, se pagarán conforme lo siguiente:
+
+C U O T A S:
+
+A).- Legalización de documentos expedidos por servidores públicos estatales y notarios públicos...... $78.27
+
+B).- Expedición de copias certificadas del Periódico Oficial del Estado, por cada hoja...... $31.89
+
+C).- Apostillamiento de documentos expedidos por servidores públicos estatales y notarios públicos...... $526.39
+
+D).- Copias certificadas de declaraciones de pago de impuestos que obren en las Recaudaciones de Rentas del Estado, por cada hoja...... $150.80
+
+E).- Certificaciones de no adeudos fiscales que obren en las Recaudaciones de Rentas del Estado, por cada hoja...... $226.17
+
+F).- Certificaciones que realicen o certificados que expidan cualquier dependencia, entidad paraestatal o unidad administrativa, del Poder Ejecutivo del Poder Legislativo, Poder Judicial y de los organismos constitucionalmente autónomos, exceptuando las autoridades de trabajo y las que en forma específica se señalan en este artículo, por cada hoja...... $83.29
+
+G).- Expedición de copias y certificaciones de documentos judiciales, por cada hoja...... $69.59
+
+H).- Expedición de constancia de antecedentes Penales...... $136.31
+
+Por la expedición subsecuente a la primer copia, se cobrará el 50% de su costo; siempre y cuando se solicite en un mismo acto.
+
+I).- Expedición de duplicado de cédula de registro profesional para ejercer en el Estado...... $287.09
+
+J).- Por expedición de copias certificadas o testimonios de escrituras que obren en el Archivo de Notarías a cargo del Tribunal Superior de Justicia del Estado se cobrará por hoja...... $78.27
+
+K).- Certificaciones que realice o certificados que expida la Junta de Urbanización del Estado, por cada hoja...... $137.50
+
+L).- Expedición de copias y certificaciones de documentos judiciales generados en medios audiovisuales, del Nuevo Sistema de Justicia Penal del Estado de Baja California, por cada certificación...... $80.00
+
+M).- Por publicaciones en el Boletín Judicial del Estado, las siguientes tarifas:
+
+1.- Por una cuartilla...... $400.00
+
+2.- Por media cuartilla...... $273.00
+
+3.- Por un cuarto de cuartilla...... $255.00
+
+N).- Por el estudio y análisis de la solicitud anual para el Listado de Padrón de Peritos del Consejo de la Judicatura del Poder Judicial, la cantidad de...... $1,500.00
+
+II.- Los derechos de estudio de cumplimiento y revaluación de estudio, pagarán las siguientes:
+
+CUOTAS:
+
+A).- Estudio de cumplimiento, para análisis Jurídico y verificación en campo de factibilidad de instalación y operación de casas de empeño......$6,157.92
+
+B).- Revaluación de estudio de cumplimiento...... $3,078.97
+
+C).- Modificación y reposición de Estudio de cumplimiento...... $1,231.58
+
+III.- Por expedición de actas certificadas de constancias que obran en el Archivo de la Dirección del Registro Civil del Estado, rectificación de actas y otros servicios, se cobrarán conforme a la siguiente
+
+T A R I F A:
+
+A).- Matrimonios y defunciones...... $118.91
+
+B).- Nacimientos...... $118.91
+
+C).- Divorcios...... $118.91
+
+D).- Adopciones y reconocimiento de hijos...... $118.91
+
+E).- Análisis de documentos para rectificación de actas, aun cuando no proceda lo solicitado...... $150.80
+
+F).- Búsqueda de datos y antecedentes...... $150.80
+
+G).- Expedición de certificados de inexistencia de actas del estado civil en el Estado...... $231.97
+
+H).- Expedición de actas del estado civil que obran en las Oficinas Registradoras de otros Estados de la República Mexicana $226.28
+
+I).- Rectificación de actas del estado civil...... $723.68
+
+J).- Otras certificaciones...... $118.91
+
+K).- Copia certificada excedente que forme parte de una misma acta...... $39.63
+
+L).- Copia certificada de expediente existente en registro civil del Estado, por hoja...... $39.63
+
+M).- Trámite de cancelación de acta...... $389.94
+
+N).- Por la entrega a los Municipios de formatos para inscripción de actos del estado civil de las personas, por millar...... $1,497.30
+
+Ñ).- Por la expedición de copia simple de las actas señaladas en los incisos A), B), C), D)...... $38.12
+
+Por expedición subsecuente a la primer acta de las señaladas en los incisos A) a D) se cobrará el 50% de su costo; siempre y cuando se solicite en un mismo acto.
+
+IV.- Los derechos por los servicios que se prestan por la solicitud de inserciones en el Periódico Oficial del Gobierno del Estado se cobrarán conforme a las siguientes
+
+CUOTAS:
+
+A).- Publicación a Organismos Descentralizados, Desconcentrados y Autónomos Federales, Estatales y Municipales, así como a Dependencias Federales y Municipios, por plana...... $1,951.36
+
+No se estará obligado al pago de dicha cuota, tratándose de las publicaciones de Acuerdos de Cabildo, Leyes de Ingresos, Tablas de Valores Catastrales, Presupuestos de Egresos, Reglamentos y Estados Financieros de los Ayuntamientos del Estado; excepto cuando se trate de Fe de Erratas a las certificaciones de acuerdos de cabildo de los Ayuntamientos del Estado.
+
+B).- Publicación a particulares, por plana...... $2,822.23
+
+### CAPÍTULO VI
+
+SERVICIOS DE LA SECRETARÍA DE INFRAESTRUCTURA Y DESARROLLO URBANO.
+
+###### ARTÍCULO 19.
+
+Por los servicios que presta la Secretaría de Infraestructura y Desarrollo Urbano del Estado, se cubrirán las siguientes
+
+C U O T A S:
+
+I.- POR ANÁLISIS DE FACTIBILIDAD Y CONGRUENCIA DE ACCIONES DE URBANIZACIÓN QUE NO ESTÉN CONTEMPLADAS EN LOS PLANES Y PROGRAMAS DE DESARROLLO URBANO, O QUE SE UBIQUEN DONDE NO EXISTAN ESTOS.
+
+A).- Por análisis y emisión de dictamen de terrenos ubicados hasta 5 kilómetros fuera de los centros de población, se pagará por la superficie total del predio estudiado, en la forma siguiente:
+
+1.- En terrenos de hasta 5 hectáreas…… $2,517.43
+
+2.- Por cada mil metros cuadrados que excedan de 5 hectáreas…… $26.07
+
+3.- A la cuota máxima del inciso anterior se le acumulará por cada kilómetro en zonas ubicadas más allá de 5 kilómetros fuera de los centros de población…… $34.76
+
+Los proyectos de fraccionamientos para ser realizados por objetivo social en los términos del Capítulo Octavo del Título Séptimo de la Ley del Desarrollo Urbano del Estado, pagarán el cincuenta por ciento de esta cuota.
+
+II.- POR LINEAMIENTOS VIALES PARA ESTUDIOS Y PROYECTOS DE ACCIONES DE URBANIZACIÓN.
+
+Por la validación de los proyectos viales para la integración a la infraestructura, obras o proyectos de vialidades de competencia estatal, incluyendo la supervisión de la obra, el 12% sobre el costo de la misma.
+
+III.- POR EQUIPAMIENTO ESCOLAR:
+
+La cuota correspondiente se causa por cada lote resultante del fraccionamiento, división de copropiedad, relotificación o subdivisión de predios dedicados a uso habitacional, así como por cada departamento, casa o vivienda resultante de la constitución del régimen de propiedad en condominio de inmuebles habitacionales, de acuerdo con la clasificación establecida en esta Ley y en el Reglamento de Fraccionamientos del Estado de Baja California y cubrirá los siguientes porcentajes sobre el importe conjunto de un aula escolar, anexos e instalaciones complementarias, conforme a presupuesto elaborado para el efecto por la Secretaría de Infraestructura y Desarrollo Urbano del Estado:
+
+A).- Fraccionamientos con oferta de suelo y vivienda o conjuntos habitacionales y edificios multifamiliares de interés social…… 0.40%
+
+B).- Fraccionamientos con oferta de suelo y vivienda o conjuntos habitacionales y edificios multifamiliares de tipo popular…… 0.60%
+
+C).- Fraccionamientos o conjuntos habitacionales y edificios multifamiliares de nivel medio…… 0.80%
+
+D).- Fraccionamientos, conjuntos habitacionales y edificios multifamiliares de nivel residencial…… 1.00%
+
+E).- Fraccionamientos objetivo social Capitulo Octavo Ley de Desarrollo que se realicen por en los términos del Título Séptimo de la
+
+Urbano del Estado…… 0.40%
+
+El pago por Equipamiento Escolar derivado de la modificación, división de copropiedad, relotificación o subdivisión de lotes en fraccionamientos autorizados, se hará por cada lote que exceda el número original de unidades, de acuerdo con la clasificación determinada por la Secretaria de Infraestructura y Desarrollo Urbano del Estado, apoyada en la Tabla de Valores Catastrales Unitarios del Municipio a que corresponda.
+
+En el caso de conjuntos habitacionales o edificios multifamiliares para constituirse el régimen de propiedad en condominios, construidos en lotes de fraccionamientos autorizados, el pago se hará por cada vivienda que exceda el número original de lotes, conforme al tipo de unidad que resulte del avalúo respectivo.
+
+En los fraccionamientos en los que sólo se ofrezca el suelo urbanizado para uso habitacional, la cuota por Equipamiento Escolar correspondiente será determinada por la Secretaria de Infraestructura y Desarrollo Urbano del Estado, de conformidad con la clasificación del fraccionamiento determinada en el Reglamento de Fraccionamientos del Estado en vigor.
+
+La donación para equipamiento a que se refiere el artículo 175 de la Ley de Desarrollo Urbano del Estado de Baja California, podrá realizarse en efectivo ante la Recaudación de Rentas del Estado correspondiente, en aquellos casos en los que las características de ubicación y superficie no sean idóneas, siempre que exista dictamen de la autoridad competente sobre ello y se autorice por la Secretaria de Planeación y Finanzas del Estado. En este caso el importe a enterar será el valor que corresponda al predio que deberá donarse de acuerdo al avalúo que emita la Comisión Estatal de Avalúos.
+
+El pago de los derechos a que se refieren las fracciones I, II y III, lo hará el interesado previa notificación de la Secretaría de Infraestructura y Desarrollo Urbano del Estado, una vez determinado el costo correspondiente.
+
+En el caso de no presentar el comprobante de haber enterado en la Recaudación de Rentas del Estado el monto total de los derechos en un plazo de 20 días hábiles a partir de la fecha de su notificación, ésta quedará sin efecto y se suspenderá el trámite correspondiente.
+
+IV.- POR SERVICIOS DERIVADOS DEL SISTEMA ESTATAL DE INFORMACIÓN GEOGRÁFICA.
+
+A).- Material Cartográfico Automatizado por Computadora:
+
+1.- Impresión de planos a color (original ploteado), por Cm2:
+
+a).- Planimétrico…… $0.24
+
+b).- Topográfico (Planimetría y Altimetría)…… $0.29
+
+c).- Topográfico con información adicional (por cada nivel de información)…… $0.01
+
+2.- Impresiones de planos en tinta negra (plano original ploteado), por Cm2:
+
+a).- Planimétrico…… $0.02
+
+b).- Topográfico (Planimetría y Altimetría)…… $0.28
+
+c).- Topográfico con información adicional (por cada nivel de información)…… $0.01
+
+3.- Grabación en medio magnético en formato autocad, de planos base de las ciudades y/o localidades:
+
+a).- Hasta un Km.
+
+Planimétrico…… $527.84
+
+Topográfico (Planimetría y Altimetría)…… $797.54
+
+Topográfico con información adicional (por cada nivel de información)…… $269.70
+
+b).- Por cada kilómetro cuadrado subsecuente o fracción:
+
+Planimétrico…… $31.89
+
+Topográfico…… $49.30
+
+Topográfico con información adicional (por cada nivel de información)…… $5.78
+
+4.- Grabación en medio magnético en formato autocad de planos base de los Municipios y/o el Estado:
+
+a).- Estado…… $4,040.08
+
+b).- Municipio…… $2,523.25
+
+5.- Grabación en medio magnético de imagen de planos de fraccionamientos, por plano ..... $64.65
+
+6.- Impresión de planos de fraccionamientos, por cada metro de longitud de papel bond ..... $161.63
+
+B).- Vértices Geodésicos:
+
+1.- Información por vértice (ubicación, coordenadas, descripción)…… $104.40
+
+2.- El establecimiento de vértices geodésicos en el Estado mediante el Sistema de Posicionamiento por Satélite GPS, estará condicionado al presupuesto que al efecto realice la Secretaría de Infraestructura y Desarrollo Urbano, tomando en cuenta el lugar del establecimiento y características fisiográficas del sitio.
+
+3.- Liga al Sistema Estatal de Coordenadas, mediante equipo GPS, hasta 10 kilómetros fuera de los límites del centro de población.
+
+a).- Por los primeros dos vértices de desarrollo ligados en:
+
+Mexicali….................… $2,123.01
+
+Tijuana…….................. $4,770.94
+
+Ensenada…….............. $5,301.69
+
+Tecate…...................… $4,240.25
+
+Playas de Rosarito…… $4,770.94
+
+b).- Por cada vértice extra ligado (hasta un máximo de 3):
+
+Mexicali…................… $527.84
+
+Tijuana..................…… $1,061.47
+
+Ensenada.............…… $1,061.47
+
+Tecate…...................… $1,061.47
+
+Playas de Rosarito…… $1,061.47
+
+V.- POR REVISIÓN DE PROYECTOS DE ALCANTARILLADO PLUVIAL Y RASANTES DE VÍAS PÚBLICAS:
+
+A).- Por la revisión de proyecto de alcantarillado pluvial y rasantes de vías públicas en predios de hasta 5 hectáreas…… $2,798.48
+
+Por cada hectárea o fracción adicional…… $559.68
+
+B).- Por la verificación en campo de la ejecución de obra de alcantarillado pluvial, conforme al proyecto autorizado, se pagará sobre el importe total del presupuesto aprobado por la Secretaría de Infraestructura y Desarrollo Urbano del Estado, el…… 2%
+
+VI.- POR EL ALTA EN EL PADRÓN DE CONTRATISTAS Y PROVEEDORES CON VIGENCIA ANUAL, A QUIEN LO SOLICITE:
+
+A).- Por el alta o su renovación anual…… $417.72
+
+VII. - POR EXPEDICIÓN DE DOCUMENTOS:
+
+A).- Certificación de copias de planos…… $287.09
+
+B).- Constancias en relación con los desarrollos urbanos…… $287.09
+
+C).- Constancias y copias certificadas de documentos, por la primera hoja…… $78.27
+
+D).- Por hoja adicional…… $20.27
+
+E).- Copias simples de documentos, por hoja…… $11.57
+
+F).- Catálogo de costos unitarios de edificación o Infraestructura…… $403.52
+
+VIII.- POR EL MANTENIMIENTO, OPERACIÓN Y CONSERVACIÓN DEL TRAMO CARRETERO LA ROSITA-RUMOROSA:
+
+Por el mantenimiento, operación y conservación del tramo carretero La Rosita-Rumorosa, se aplicará la tarifa que para tal efecto establezca la concesión correspondiente.
+
+IX.- OTROS SERVICIOS:
+
+A).- Por servicio consistente en el mantenimiento superficial de pavimentos asfálticos en caliente, mediante proceso de reciclado de un solo paso, se pagará por M2…… $45.24
+
+La prestación del servicio incluye el equipo, mano de obra, insumos para el funcionamiento de la maquinaria, suministro y aplicación de agente rejuvenecedor cuando sea necesario, tendido y compactado, para la integración de otra capa de carpeta asfáltica nueva de 2.5 centímetros de espesor.
+
+No incluye el suministro de concreto asfáltico y control de calidad del mismo, protección vial y traslados dentro de la ciudad, renivelación o retiro de instalaciones hidráulicas y de telefonía, retiro de rampas de concreto, extracción de baches y demás elementos extraños dentro de la vialidad.
+
+La prestación del servicio será en los términos que establezca la Secretaría de Infraestructura y Desarrollo Urbano del Estado.
+
+B).- Cualquier otro servicio que la Secretaría de Infraestructura y Desarrollo Urbano requiera prestar, se cobrará de conformidad al presupuesto que al efecto realice, el que en todo caso será proporcional al costo del servicio y, en su caso, a la contraprestación en especie a que esté obligado el usuario del servicio.
+
+### CAPÍTULO VII
+
+SERVICIOS DE LA SECRETARÍA DE FOMENTO AGROPECUARIO DEL ESTADO.
+
+###### ARTÍCULO 20.
+
+Por los servicios que presta la Secretaría de Fomento Agropecuario del Estado, se cubrirán las siguientes
+
+C U O T A S:
+
+I.- POR LA CLASIFICACIÓN O CERTIFICACIÓN DE GANADO Y CARNES DE BOVINO Y CLASIFICACIÓN DE HUEVO EN EL ESTADO.
+
+A).- Por clasificación de canales de ganado, por canal…… $9.85
+
+Tratándose de la clasificación de canales de ganado bovino que se produzcan en el estado, estarán exentos del pago de derechos por la prestación de dichos servicios.
+
+B).- Por certificación de calidad de carne en cortes, por kilogramo…… $0.15
+
+C).- Por la clasificación de huevo para plato, por kilogramo…… $0.06
+
+II.- OTROS SERVICIOS
+
+A).- Por la expedición de credencial de patente ganadera…… $309.60
+
+B).- Por la expedición de duplicado de credencial de patente Ganadera…… $196.08
+
+C).- Por la expedición de duplicado de patente ganadera y comerciante…… $196.98
+
+D).- Por la expedición de duplicado de Certificado de Registro Ganadero, Marca Herrar y Señal de Sangre…… $361.20
+
+E).- Por el servicio de báscula…… $40.04
+
+### CAPÍTULO VIII
+
+SERVICIOS DEL INSTITUTO PARA EL DESARROLLO INMOBILIARIO Y DE LA VIVIENDA PARA EL ESTADO.
+
+###### ARTÍCULO 21.
+
+Por los servicios que presta el Instituto para el Desarrollo Inmobiliario y de la Vivienda para el Estado, en lo sucesivo INDIVI, se cubrirán las siguientes
+
+C U O T A S:
+
+I.- POR TRABAJOS TÉCNICOS.
+
+Para los municipios de Ensenada y Mexicali, en predios irregulares donde no exista la totalidad de los ejes físicos y puntos de control definidos, ubicados dentro o fuera de zonas urbanas o suburbanas, pero que se encuentren dentro de los límites de los centros de población, determinados en el Programa de Desarrollo de Centro de Población de la municipalidad correspondiente.
+
+A).- Para predios con superficie de hasta 180 m2 pagará…… $1,671.16
+
+B).- Para predios con superficie superior a 180 m2 y hasta 300 m2 pagará la cuota del inciso anterior, y por cada metro cuadrado excedente de 180 m2 pagará…… $2.28
+
+C).- Para predios con superficie superior de 300 m2 y hasta 500 m2 pagará la cuota del inciso, anterior y por cada metro cuadrado excedente de 300 m2 pagará…… $1.90
+
+D).- Para predios con superficie superior de 500 m2 y hasta 1,000 m2 pagará la cuota del inciso anterior, y por cada metro cuadrado excedente de 500 m2 pagará…… $1.67
+
+E).- Para predios con superficie superior de 1,000 m2 y hasta 2,500 m2 pagará la cuota del inciso anterior, y por cada metro cuadrado excedente de 1,000 m2 pagará…… $1.52
+
+F).- Para predios con superficie superior de 2,500 m2 y hasta 5,000 m2 pagará la cuota del inciso anterior, y por cada metro cuadrado excedente de 2,500 m2 pagará…… $0.99
+
+G).- Para predios con superficie superior de 5,000 m2 y hasta 10,000 m2 pagará la cuota del inciso anterior, y por cada metro cuadrado excedente de 5,000 m2 pagará…… $0.68
+
+H).- Para predios con superficie superior a 10,000 m2 pagará la cuota del inciso anterior, y por cada hectárea o fracción de hectárea adicional a los 10,000 m2 pagará…… $607.69
+
+Para los municipios de Tecate, Tijuana y Playas de Rosarito, en predios irregulares donde no exista la totalidad de los ejes físicos y puntos de control definidos, ubicados dentro o fuera de zonas urbanas o suburbanas, pero que se encuentren dentro de los límites de los centros de población, determinado en el Programa de Desarrollo de Centro de Población de la municipalidad correspondiente.
+
+A).- Para predios con superficie de hasta 180 m2 pagará…… $2,506.73
+
+B).- Para predios con superficie superior a 180 m2 y hasta 300 m2 pagará la cuota del inciso anterior, y por cada metro cuadrado excedente de 180 m2 pagará…… $3.42
+
+C).- Para predios con superficie superior de 300 m2 y hasta 500 m2 pagará la cuota del inciso, anterior y por cada metro cuadrado excedente de 300 m2 pagará…… $2.89
+
+D).- Para predios con superficie superior de 500 m2 y hasta 1,000 m2 pagará la cuota del inciso anterior, y por cada metro cuadrado excedente de 500 m2 pagará…… $2.51
+
+E).- Para predios con superficie superior de 1,000 m2 y hasta 2,500 m2 pagará la cuota del inciso anterior, y por cada metro cuadrado excedente de 1,000 m2 pagará…… $2.28
+
+F).- Para predios con superficie superior de 2,500 m2 y hasta 5,000 m2 pagará la cuota del inciso anterior, y por cada metro cuadrado excedente de 2,500 m2 pagará…… $1.52
+
+G).- Para predios con superficie superior de 5,000 m2 y hasta 10,000 m2 pagará la cuota del inciso anterior, y por cada metro cuadrado excedente de 5,000 m2 pagará…… $1.06
+
+H).- Para predios con superficie superior a 10,000 m2 pagará la cuota del inciso anterior, y por cada hectárea o fracción de hectárea adicional a los 10,000 m2 pagará…… $911.54
+
+Para los municipios de Ensenada y Mexicali, por el levantamiento topográfico, amojonamiento y cálculo topográfico de poligonal envolvente de predios ubicados dentro de los límites del centro de la población:
+
+A).- Para predios con superficies de hasta 50,000 m2 pagará…… $23,548.10
+
+B).- Para predios con superficie superior a 50,000 m2 pagará la cuota del inciso anterior, y por cada hectárea o fracción adicional de hectárea pagará…… $4,557.70
+
+Para los municipios de Tecate, Tijuana y Playas de Rosarito, por el levantamiento topográfico, amojonamiento y cálculo topográfico de poligonal envolvente de predios ubicados dentro de los límites del centro de población:
+
+A).- Para predios con superficies de hasta 50,000 m2 pagará…… $29,435.12
+
+B).- Para predios con superficie superior a 50,000 m2 pagará la cuota del inciso anterior, y por cada hectárea o fracción adicional de hectárea pagará…… $5,697.12
+
+A los predios ubicados fuera de los límites de los centros de población, en los que el INDIVI cuente con oficinas que presten el servicio de trabajos técnicos, además de las cuotas anteriores se les acumulará 0.30 veces salario mínimo diario general vigente por cada kilómetro fuera de los centros de población, medido a partir del límite determinado en el Programa de Desarrollo de Centro de Población de la municipalidad correspondiente, hasta el punto donde se encuentra ubicado el predio.
+
+Cuando alguna parte de los trabajos que corresponde realizar al INDIVI, sea iniciada por otras instancias, previa aprobación de la Junta Directiva del INDIVI, se podrá evaluar el aprovechamiento de los conceptos iniciados y disminuir las cuotas previstas en el presente artículo, en la medida en la que se disminuya la inversión para prestar el servicio.
+
+II.- POR EXPEDICIÓN DE DOCUMENTOS.
+
+A).- Por expedición de títulos de propiedad, cuando se trate de predios ocupados en terrenos cuyo valor catastral sea de $1.00 a $325.00 por metro cuadrado…… $926.73
+
+B).- Por expedición de títulos de propiedad, a personas en situación de pobreza mayores de 60 años, personas viudas en situación de pobreza mayores de 50 años, discapacitados, jubilados y pensionados cuando se trate de predios ocupados con superficie hasta de 200 m2 cuyo valor catastral sea de $1.00 a $325.00 por metro cuadrado…… $75.96
+
+C).- Por expedición de título de propiedad, cuando se trate de predios baldíos en terrenos cuyo valor catastral sea de $1.00 a $325.00 por metro cuadrado…… $1,268.56
+
+D).- Por expedición de título de propiedad, cuando se trate de predios ocupados en terrenos cuyo valor catastral sea de $325.01 o más por metro cuadrado…… $1,655.96
+
+E).- Por expedición de título de propiedad, cuando se trate de predios baldíos en terrenos cuyo valor catastral sea de $325.01 o más por metro cuadrado…… $2,338.10
+
+F).- Cesión de Derechos…… $335.75
+
+G).- Carta Finiquito o Constancia de Regularización…… $151.92
+
+H).- Integración de expediente para escrituración…… $1,519.23
+
+III.- OTROS SERVICIOS.
+
+Se cobrarán derechos de conformidad al presupuesto que al efecto realice el Instituto para el Desarrollo Inmobiliario y de la Vivienda para el Estado, los que en todo caso serán proporcionales al costo del servicio. Los ingresos que por concepto de derechos se perciban por los servicios señalados en las fracciones anteriores, pasarán a formar parte del patrimonio del Instituto para el Desarrollo Inmobiliario y de la Vivienda para el Estado.
+
+### CAPÍTULO IX
+
+SERVICIOS DE LA SECRETARÍA DE SEGURIDAD PÚBLICA.
+
+###### ARTÍCULO 22.
+
+Por los servicios que presta la Secretaría de Seguridad Pública, se cubrirán las siguientes
+
+C U O T A S:
+
+I.- PERSONA FÍSICA O MORAL CON ESTABLECIMIENTO.
+
+A).- Por el estudio y evaluación de factibilidad para prestar servicios de seguridad privada…… $10,994.11
+
+B).- Por la revaluación anual…… $8,795.30
+
+C).- Por el alta en el padrón de seguridad privada (por agente)…… $109.94
+
+D).- Por ampliación del tipo o lugares para la prestación de este servicio…… $6,596.44
+
+E).- Por el estudio y evaluación de factibilidad por cambio de:
+
+1.- Domicilio…… $359.20
+
+2.- Denominación o razón social y nombre comercial…… $359.20
+
+II.- PRESTADOR INDIVIDUAL.
+
+A).- Por el estudio y evaluación de factibilidad para prestar servicios de seguridad privada…… $2,198.81
+
+B).- Por la revaluación anual…… $1,649.12
+
+C).- Por la expedición de credenciales de identificación personal…… $329.82
+
+D).- Por el alta en el padrón de seguridad privada. $109.93
+
+E).- Por ampliación del tipo o lugares para la prestación de este servicio…… $1,099.40
+
+F).- Por el estudio y evaluación de factibilidad por cambio de:
+
+1.- Domicilio…… $359.20
+
+III.- PROTECCIÓN PERSONAL A PARTICULARES.
+
+A).- Por el servicio de escolta, por mes, por agente…… $16,296.22
+
+El costo del servicio será de conformidad con los tiempos y condiciones que establezca el contrato respectivo, pudiendo considerarse costos adicionales según las necesidades de la prestación del servicio en tiempos y horas extraordinarias.
+
+IV. - OTROS SERVICIOS.
+
+Los demás servicios que preste la Secretaría de Seguridad Pública, causarán derechos cada vez, y se cobrarán de conformidad con los presupuestos que al efecto realice la Dependencia, los que en todo caso serán proporcionales al costo del servicio.
+
+### CAPÍTULO X
+
+REGISTRO DE ESTABLECIMIENTOS.
+
+###### ARTÍCULO 23.
+
+Independientemente de la obligación de hacerlo conforme a otras Leyes o Reglamentos, todas las personas físicas y morales que cuenten con establecimientos comerciales, industriales, de servicios e inclusive los de arrendamiento y los de actividades agropecuarias, deberán registrarlos o inscribirlos dentro de los diez días siguientes a la fecha en que inicien operaciones, en las oficinas recaudadoras de Rentas del Estado, del lugar en donde realicen parcial o totalmente sus actividades, proporcionando los datos que consignan las formas aprobadas por la Secretaría de Planeación y Finanzas del Estado, aun cuando conforme a las Leyes respectivas no sean objeto, sujeto, no causen o se encuentren exentos del pago de contribuciones.
+
+### CAPÍTULO XI
+
+SERVICIOS DE LA DIRECCIÓN DEL ARCHIVO GENERAL DE NOTARIAS.
+
+###### ARTÍCULO 24.
+
+Por los servicios que presta la Dirección del Archivo General de Notarías, deberán cubrirse las siguientes
+
+C U O T A S:
+
+a).- Por búsqueda de registro de aviso de testamento…… $89.57
+
+b).- Por informes de disposiciones testamentarias…… $186.05
+
+c).- Por revisión y resguardo de aviso de otorgamiento de disposición testamentaria…… $186.05
+
+d).- Por consulta a los índices de los libros del protocolo en custodia de la Dirección del Archivo General de Notarías…… $170.47
+
+e).- Por búsqueda de instrumentos notariales…… $403.96
+
+f).- Por la expedición de constancias…… $153.42
+
+g).- Por la expedición de testimonios y copias certificadas, de 1 a 4 páginas…… $239.14
+
+Adicional de 5 en adelante, por página…… $15.93
+
+h).- Por autorización de traslado de Protocolo Notarial resguardado por la Dirección del Archivo de Notarías a la Notaría de origen…… $274.38
+
+i).- Por expedición de copias simples, por página…… $7.99
+
+j).- Por apertura de expediente de práctica notarial…… $354.24
+
+k).- Por análisis y estudio de solicitud, y el trámite para la celebración de examen de aspirante al ejercicio del notariado…… $2,391.09
+
+l).- Por análisis y estudio de solicitud, y el trámite para la celebración de examen para lograr la titularidad de una notaría…… $3,985.17
+
+m).- Por apertura de expediente de aspirante al ejercicio de la función notarial…… $3,985.17
+
+n).- Por apertura de expediente de notario adscrito…… $11,158.48
+
+ñ).- Por apertura de expediente como notario titular…… $12,752.53
+
+o).- Por la recepción y resguardo de convenios de asociación y de suplencia…… $9,564.40
+
+p).- Expedición de constancia de patente notarial, titular o adscrito…… $1,247.73
+
+q).- Por el estudio y evaluación de factibilidad para valuadores…… $718.56
+
+r).- Por el estudio y evaluación de factibilidad para refrendo anual de valuadores…… $552.74
+
+s).- Por la expedición de credenciales de valuadores…… $331.64
+
+t).- Por la actualización de credenciales de valuadores…… $99.50
+
+u).- Por expedición de constancia de terminación de práctica notarial…… $361.20
+
+v).- Expedición bianual de credencial de identificación de Notario titular y adscrito…… $2,421.07
+
+w).- Renovación de credencial de identificación de Notario titular y adscrito…… $1,210.54
+
+x).- Reposición de credencial de identificación vigente de notario titular y adscrito…… $1,210.54
+
+Los servicios extraordinarios tendrán un incremento del 100% de su costo regular.
+
+Los demás servicios que preste la Dirección del Archivo General de Notarías, causarán derechos, los cuales se cobrarán de conformidad con los presupuestos que al efecto se realicen por esa dependencia, los que en todo caso serán proporcionales al costo del servicio.
+
+### CAPÍTULO XII
+
+SERVICIOS DE REGULACIÓN Y FOMENTO SANITARIO.
+
+###### ARTÍCULO 25.
+
+Por los servicios de regulación y fomento sanitario, deberán cubrirse las siguientes
+
+C U O T A S:
+
+I.- Por la capacitación otorgada al que realice actividades relacionadas con los giros sujetos a vigilancia sanitaria…… $1,420.32
+
+II.- Por la práctica de visita sanitaria a solicitud de parte interesada…… $250.45
+
+III.- Por la práctica de muestreo a productos sujetos a regulación sanitaria a solicitud de parte interesada…… $334.47
+
+### CAPÍTULO XIII
+
+SERVICIOS DE LA SECRETARÍA DE EDUCACIÓN Y BIENESTAR SOCIAL Y DEL INSTITUTO DE SERVICIOS EDUCATIVOS Y PEDAGÓGICOS DE BAJA CALIFORNIA.
+
+###### ARTÍCULO 26.
+
+Por los servicios que prestan la Secretaría de Educación y Bienestar Social y el Instituto de Servicios Educativos y Pedagógicos de Baja California, deberán cubrirse las siguientes
+
+C U O T A S:
+
+1.- Trámite de Registro Profesional Estatal en el nivel licenciatura, especialidad, maestría y doctorado…… $607.86
+
+2.- Análisis de solicitud de autorización provisional para ejercer una profesión…… $233.95
+
+3.- Expedición de duplicado de registro profesional estatal…… $311.93
+
+4.- Análisis de solicitud por parte de asociaciones de profesionistas…… $3,899.21
+
+5.- Constancia de antecedentes de profesionistas…… $78.00
+
+6.- Estudio, trámite y resolución de solicitud, de reconocimiento de validez oficial de estudios a los particulares para impartir educación inicial…… $14,598.64
+
+7.- Estudio, trámite y resolución de solicitud, de reconocimiento de validez oficial de estudios a los particulares para impartir educación de formación para el trabajo…… $14,598.64
+
+8.- Estudio y resolución de solicitud, de reconocimiento de validez oficial de estudios de Técnico Superior Universitario, Profesional Asociado, Licenciatura, Especialidad, Maestría y Doctorado…… $14,598.64
+
+9.- Estudio, trámite y resolución de solicitud, de autorización a los particulares para impartir educación preescolar…… $14,598.64
+
+10.- Estudio, trámite y resolución de solicitud, de autorización a particulares para impartir educación primaria…… $14,598.64
+
+11.- Estudio, trámite y resolución de solicitud, de autorización a particulares para impartir educación secundaria…… $14,598.64
+
+12.- Estudio, trámite y resolución de solicitud, por Cambio de domicilio de cada nivel educativo incorporado o ampliación de servicios educativos de grupos o grados escolares en escuelas particulares…… $3,649.65
+
+13.- Estudio, trámite y resolución de solicitud, de Cambio de titular a particulares que cuenten con Autorización para impartir educación básica o reconocimiento de validez oficial de estudios…… $2,189.80
+
+14.- Estudio, trámite y resolución de solicitud, de cambio de representante legal del plantel particular incorporado…… $749.85
+
+15.- Estudio, trámite y resolución de solicitud, de cambio de director del plantel particular incorporado…… $749.85
+
+16.- Estudio, trámite y resolución de solicitud, por cada cambio de docente en escuelas particulares incorporadas…… $749.85
+
+17.- Estudio, trámite y resolución de solicitud, de cambio de nombre del plantel particular incorporado…… $749.85
+
+18.- Expedición de duplicados de Certificados de terminación de estudios de educación primaria y secundaria…… $30.96
+
+19.- Expedición de revalidaciones de Estudios de Educación Básica…… $30.96
+
+20.- Equivalencia de Educación Media Superior…… $194.02
+
+21.- Equivalencia de Educación Superior…… $194.02
+
+22.- Equivalencia de Educación Normal…… $194.02
+
+23.- Revalidación de Educación Media Superior…… $194.02
+
+24.- Revalidación de Educación Superior…… $581.02
+
+25.- Revalidación de Educación Normal…… $581.02
+
+26.- Dictamen Técnico de Nivel Superior…… $581.02
+
+27.- Dictamen Técnico de Educación Normal…… $581.02
+
+28.- Registro a preparatoria abierta (REGISTRO)…… $180.60
+
+29.- Expedición de Credencial (CREDENCIALIZACIÓN)…… $77.40
+
+30.- Expedición de Certificado de terminación completo, Parcial o Duplicado (CERTIFICACIÓN)…… $180.60
+
+31.- Expedición de Constancia de Estudios (CONSTANCIA DE ESTUDIO)…… $51.60
+
+32.- Expedición de Historial Académico (HISTORIAL ACADÉMICO)…… $25.80
+
+33.- Aplicación de exámenes en Centros de Atención Particulares y Sociales (APLICACIÓN Y CALIFICACIÓN)…… $361.20
+
+34.- Plática Informativa en Centros de Atención Particulares y Sociales (INDUCCIÓN PROPEDÉUTICA)…… $309.60
+
+35.- Trámite y envío de documentos fuera del Estado…… $309.60
+
+36.- Registro por Centro de Atención…… $2,580.00
+
+37.- Solicitud de Examen…… $48.15
+
+38.- Análisis y resolución de modificación a la denominación del registro de la asociación de profesionistas…… $880.00
+
+39.- Análisis y resolución de modificación a los estatutos de las asociaciones de profesionistas registradas…… $818.00
+
+### CAPÍTULO XIV
+
+SERVICIOS DE LA SECRETARÍA DE DESARROLLO ECONÓMICO.
+
+###### ARTÍCULO 27.
+
+Por los servicios que presta la Secretaría de Desarrollo Económico, deberán cubrirse las siguientes
+
+C U O T A S:
+
+a).- Por el estudio y evaluación de factibilidad de servicios de agente profesional inmobiliario e incorporación al Padrón de agentes…… $2,786.40
+
+b).- Por la revaluación trianual de agente profesional inmobiliario…… $2,167.20
+
+c).- Por la reposición de licencia de agente profesional inmobiliario…… $154.80
+
+d).- Por la expedición de Constancias de agentes profesionales inmobiliarios…… $154.80
+
+### CAPÍTULO XV
+
+COOPERACIÓN PARA OBRAS Y SERVICIOS PÚBLICOS.
+
+### CAPÍTULO XVI
+
+OBRAS DE URBANIZACIÓN.
+
+## TÍTULO QUINTO
+
+CONTRIBUCIONES CAUSADAS EN EJERCICIOS ANTERIORES.
+
+### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 28.
+
+Las contribuciones causadas en ejercicios anteriores, se determinarán y cobrarán aplicando la tasa que fija la Ley de Ingresos vigente en la fecha en que se realizaron los hechos o situaciones jurídicas previstas en las Leyes fiscales.
+
+## TÍTULO SEXTO
+
+PRODUCTOS.
+
+### CAPÍTULO I
+
+EXPLOTACIÓN DE BIENES DEL ESTADO.
+
+###### ARTÍCULO 29.
+
+Los productos derivados de la explotación de bienes del Estado, provenientes de las ventas o arrendamientos de bienes muebles e inmuebles u otros actos sobre los mismos, se originarán en los contratos que se celebren o en las concesiones que se otorguen al efecto por el Ejecutivo del Estado, en uso de sus atribuciones legales y sobre las bases que en los mismos establezcan.
+
+### CAPÍTULO II
+
+PERIÓDICO OFICIAL, VENTA DE FORMAS Y OTROS PRODUCTOS.
+
+###### ARTÍCULO 30.
+
+Los productos del Periódico Oficial del Gobierno del Estado, venta de formas, otros productos, así como los relativos al Poder Judicial del Estado, se regirán por las siguientes
+
+C U O T A S:
+
+I.- SUSCRIPCIONES Y EJEMPLARES:
+
+A).- Suscripción anual…… $2,827.71
+
+B).- Ejemplar de la semana…… $47.65
+
+C).- Ejemplar atrasado del año en curso…… $56.56
+
+D).- Ejemplar de años anteriores…… $71.09
+
+E).- Ejemplar de edición especial: Leyes, Reglamentos, etc…… $101.79
+
+F).- Ejemplar de calendario oficial…… $80.78
+
+II. - FORMAS OFICIALES Y COPIAS:
+
+A).- Por cada forma oficial para efectuar declaraciones de impuestos o solicitar devoluciones y cualquier otro trámite administrativo…… $5.13
+
+B).- Por copia fotostática simple, sin certificar $2.26
+
+III.- OTROS PRODUCTOS:
+
+A).- Pago por derecho de uso de imagen en publicaciones (impresas, digitales o cualquier otro medio)…… $117.74
+
+B).- Por reproducción de fotografías en papel fotográfico:
+
+1.- En papel fotográfico de 5 X 7…… $113.09
+
+2.- En papel fotográfico de 8 X 10…… $178.25
+
+3.- En papel fotográfico de 11 X 14…… $201.98
+
+4.- En papel fotográfico de 16 X 20…… $250.45
+
+C).- Por digitalización de imágenes (de originales hasta 8 1/2 "por 14" más derecho de imagen)…… $33.92
+
+IV.- DEL PODER JUDICIAL:
+
+Los ingresos que obtenga el Poder Judicial del Estado serán recaudados por conducto del Fondo Auxiliar para Administración de Justicia, de acuerdo a las siguientes
+
+C U O T A S:
+
+A).- Expedición de copias simples de documentos que obren en archivos del Poder Judicial del Estado, por cada hoja…… $2.26
+
+B).- Expedición de copias simples de audio y video de audiencias del Nuevo Sistema de Justicia Penal del Estado de Baja California, por disco compacto…… $10.00
+
+C).- Por el costo de diversos servicios proporcionados por el Servicio Médico Forense (SEMEFO) de Baja California las siguientes tarifas:
+
+1.- Visitas guiadas con práctica de necropsia, por grupo o institución que lo solicite…… $3,000.00
+
+D).- Por suscripción anual en el Boletín Estado Judicial del Estado…… $1,200.00
+
+### CAPÍTULO III
+
+ALMACENAMIENTO Y GUARDA DE BIENES EN ESTABLECIMIENTOS DEPENDIENTES DEL ESTADO.
+
+###### ARTÍCULO 31.
+
+Los bienes que por cualquier motivo se encuentren depositados, guardados, secuestrados o simplemente internados en almacenes, depósitos, patios o locales dependientes del Gobierno del Estado, causarán por cada metro cuadrado o fracción de superficie que ocupen, diariamente una cuota de ........................... $9.76
+
+Las cuotas que señala este artículo, deberán pagarse en la oficina recaudadora correspondiente, por períodos vencidos de diez días.
+
+Transcurridos cinco días después del vencimiento sin que se haga el pago para el almacenaje o guarda de los bienes, se cobrará el adeudo mediante el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado.
+
+### CAPÍTULO IV
+
+EXPLOTACIÓN O APROVECHAMIENTO DE ESTABLECIMIENTOS DEPENDIENTES DEL ESTADO.
+
+###### ARTÍCULO 32.
+
+Los productos líquidos de los establecimientos dependientes del Gobierno del Estado, en los que se ejerzan actividades económicas lucrativas, que no correspondan a las funciones de derecho público, se regirán por las bases generales que fije el Ejecutivo del Estado y su cobro se sujetará a lo que en las mismas bases se disponga.
+
+### CAPÍTULO V
+
+INGRESOS DE ORGANISMOS DESCENTRALIZADOS Y EMPRESAS DE PARTICIPACIÓN ESTATAL.
+
+###### ARTÍCULO 33.
+
+Los ingresos producidos por organismos descentralizados y empresas de participación estatal, se percibirán cuando lo decreten y exhiban, conforme a sus respectivos regímenes interiores, los organismos y empresas que los produzcan.
+
+### CAPÍTULO VI
+
+INTERESES DE VALORES.
+
+###### ARTÍCULO 34.
+
+Los capitales impuestos a réditos, así como toda clase de acciones y valores que formen parte de la Hacienda Pública del Estado y los intereses o productos de los mismos, se regirán por los contratos o actos jurídicos de que se deriven, en caso de que incurra en mora en el pago de los créditos, éstos se harán efectivos en la forma convenida en los propios actos o contratos y en caso de que no exista convenio al respecto, por vía judicial. En este caso, por acuerdo del Gobernador del Estado, podrá encomendarse el ejercicio de las acciones procedentes a la Dirección Jurídica del Estado o abogados particulares, cuyos honorarios se cubrirán con el importe de las cuotas que cubra el deudor, más el porcentaje que se estipule en el convenio respectivo.
+
+### CAPÍTULO VII
+
+AVALÚOS.
+
+###### ARTÍCULO 35.
+
+Todos los avalúos que emita la Comisión Estatal de Avalúos, devengarán honorarios que serán a cargo de las personas u organismos interesados que los hayan solicitado y se pagarán conforme a la siguiente tarifa:
+
+I.- Práctica de Avalúos.
+
+a).- Dentro del centro de población. ..... $584.00 pesos (como anticipo) Más el 4.00 al millar sobre el valor del bien(al término del trámite)
+
+b).- Fuera del centro de población. .....$730.40 pesos (como anticipo) Más el 4.00 al millar sobre el valor del bien(al término del trámite)
+
+II.- Actualización de Avalúo (hasta un año después de su fecha de término de vigencia).
+
+a).- Dentro del centro de población. ..... $584.00 pesos (corno anticipo) Más el 2.00 al millar sobre el valor del bien (al término del trámite)
+
+b).- Fuera del centro de población. ..... $730.40 pesos (como anticipo) Más el 2.00 al millar sobre el valor del bien (al término del trámite)
+
+La delimitación del centro de población será con base en el Programa de Desarrollo del Centro de Población de cada Municipio que se encuentre vigente.
+
+Cuando el monto que resulte de la aplicación del 4.00 y 2.00 al millar sobre el valor del bien sea inferior a $ 876.48 pesos, se cobrará esta cantidad como tarifa por el servicio.
+
+La comisión practicará los avalúos de bienes muebles e inmuebles, cuando las dependencias del Poder Ejecutivo del Estado sean parte en las operaciones que se celebren sobre dichos bienes; tales avalúos se realizarán en forma gratuita.
+
+En los casos en que el avalúo sea a cargo de Entidades Paraestatales del Gobierno del Estado, Municipios o Entidades Paramunicipales, los honorarios se reducirán al 50% del arancel.
+
+Tratándose de personas pensionadas, jubiladas, con discapacidad o personas mayores de sesenta años que acrediten esta condición con identificación oficial expedida por institución pública, se otorgará exención del 50% del arancel, previo estudio socioeconómico realizado por la dependencia que presta el servicio.
+
+### CAPÍTULO VIII
+
+OTROS.
+
+###### ARTÍCULO 36.
+
+Otros productos distintos de los señalados por los artículos anteriores.
+
+## TÍTULO SÉPTIMO
+
+APROVECHAMIENTOS.
+
+### CAPÍTULO I
+
+RECARGOS.
+
+###### ARTÍCULO 37.
+
+Cuando se conceda prórroga para el pago de créditos fiscales o para que los mismos sean cubiertos en parcialidades, se causarán recargos sobre el saldo insoluto a la tasa del 1.5% mensual.
+
+Cuando no se cubran las contribuciones dentro de los plazos señalados en las disposiciones fiscales o no se cubran las parcialidades en los plazos convenidos, se pagarán recargos por concepto de indemnización al fisco estatal a la tasa del 2.25% mensual.
+
+### CAPÍTULO II
+
+DONATIVOS E INDEMNIZACIONES.
+
+###### ARTÍCULO 38.
+
+Las cantidades que por concepto de donativo e indemnizaciones perciba el Estado, se sujetarán a las disposiciones de los donantes o a las estipulaciones de los contratos, normas o resoluciones relativas.
+
+### CAPÍTULO III
+
+HERENCIAS Y LEGADOS A FAVOR DE LA HACIENDA PÚBLICA DEL ESTADO.
+
+###### ARTÍCULO 39.
+
+Los bienes que obtenga la Hacienda Pública del Estado por concepto de herencias y legados, se sujetarán a las disposiciones de los testadores y, en su caso, se harán efectivos de acuerdo con las Leyes respectivas.
+
+### CAPÍTULO IV
+
+MULTAS.
+
+### CAPÍTULO V
+
+REINTEGROS.
+
+### CAPÍTULO VI
+
+CAUCIONES, FIANZAS Y DEPÓSITOS CUYA PÉRDIDA SE DECLARE POR RESOLUCIÓN FIRME.
+
+### CAPÍTULO VII
+
+APORTACIONES DEL GOBIERNO FEDERAL PARA OBRAS PÚBLICAS.
+
+### CAPÍTULO VIII
+
+OTORGAMIENTO Y USUFRUCTOS DE CONCESIONES.
+
+### CAPÍTULO IX
+
+OTROS.
+
+## TÍTULO OCTAVO
+
+PARTICIPACIONES Y APORTACIONES FEDERALES.
+
+### CAPÍTULO ÚNICO.
+
+###### ARTÍCULO 40.
+
+Las participaciones y aportaciones que correspondan al Estado se regirán por las disposiciones que al respecto establezcan las Leyes y reglamentos correspondientes o por los convenios que al efecto se celebren.
+
+## TÍTULO NOVENO
+
+INGRESOS EXTRAORDINARIOS.
+
+### CAPÍTULO ÚNICO.
+
+###### ARTÍCULO 41.
+
+Los ingresos extraordinarios son:
+
+I.- Créditos otorgados al Estado.
+
+II.- Impuestos Extraordinarios.
+
+III.- Derechos Extraordinarios por la prestación de servicios.
+
+IV.- Expropiaciones.
+
+V.- Aportaciones Extraordinarias de los Entes Públicos.
+
+VI.- Otros conceptos.
+
+T R A N S I T O R I O S:
+
+PRIMERO.- En caso de que durante el presente ejercicio sea modificado el Artículo 10-A de la Ley de Coordinación Fiscal o la terminación del Convenio que en materia de Derechos, el Estado de Baja California ha suscrito con el Ejecutivo Federal, el cobro de los Derechos Estatales, que en base al Decreto No. 30 publicado en el Periódico Oficial el día 20 de abril de 1984, se encuentran suspendidos, en tanto no se hayan efectuado las modificaciones legales correspondientes, se cobrarán conforme a las cuotas vigentes en la fecha en que haya ocurrido la suspensión del derecho de que se trate.
+
+SEGUNDO.- La suspensión del cobro de los derechos a que se refiere el Decreto mencionado en el artículo que antecede, no libera a los particulares de la obligación de cumplir con todos los requisitos que las Leyes Estatales y Municipales establecen respecto de los servicios que dan origen a la causación de los derechos, cuyo cobro se encuentra suspendido.
+
+TERCERO.- En caso de que durante el año 2017, alguna de las Dependencias a que se refiere la presente Ley, sufriera alguna modificación o cambiara su denominación, los servicios previstos por dicha Dependencia, se entenderán referidos y prestados por la que la sustituya.
+
+CUARTO.- Los Acuerdos o decretos que el Ejecutivo del Estado emita en los términos de los Artículos 2 y 35 del Código Fiscal del Estado, respecto de la causación de las contribuciones a que se refiere esta Ley y demás disposiciones fiscales estatales, se cobrarán de conformidad con dichos Acuerdos o Decretos.
+
+QUINTO.- Para efectos de esta Ley se considerará:
+
+Fraccionamientos por Objetivo Social: Aquellos Fraccionamientos y urbanización de terreno que se desarrollarán en forma progresiva mediante la gestión pública a través de los Ayuntamientos, del Gobierno del Estado o de ambas Autoridades, en los términos de la Ley de Desarrollo Urbano del Estado de Baja California.
+
+Fraccionamientos o Colonias Populares: Aquéllos cuyas características reúnan los requisitos que para el efecto establece el Reglamento de Fraccionamientos del Estado de Baja California.
+
+Viviendas de Interés Social: Aquéllas que consistan en el suelo y las construcciones adheridas a él y cuyo valor comercial o precio de venta final no exceda de la suma que resulte de multiplicar por quince el salario mínimo general elevado al año, vigente en el Estado de Baja California.
+
+Viviendas Populares: Aquéllas que consistan en el suelo y las construcciones adheridas a él y cuyo valor, determinado mediante avalúo bancario con antigüedad máxima de un año, no exceda de la suma que resulte de multiplicar por veinticinco el salario mínimo general elevado al año, vigente en el Estado de Baja California.
+
+Viviendas de Nivel Medio: Aquéllas que consistan en el suelo y las construcciones adheridas a él y cuyo valor, determinado mediante avalúo bancario con antigüedad máxima de un año, no exceda de la suma que resulte de multiplicar por treinta el salario mínimo general elevado al año, vigente en el Estado de Baja California.
+
+Viviendas de Nivel Residencial: Aquéllas que consistan en el suelo y las construcciones adheridas a él y cuyo valor, determinado mediante avalúo bancario con antigüedad máxima de un año, exceda de la suma que resulte de multiplicar por treinta el salario mínimo general elevado al año, vigente en el Estado de Baja California.
+
+SEXTO.- En caso de que cualesquiera de los Municipios no esté en condiciones de prestar los servicios que les fueron transferidos por el Estado para su administración, estos podrán ser prestados por el Ejecutivo Estatal, a través de las Dependencias competentes, conforme a las tarifas de los derechos aprobados para cada uno de ellos, de acuerdo con las disposiciones legales vigentes.
+
+SÉPTIMO.- Las cuotas por los Derechos a que se refiere esta Ley, con excepción de las que se establecen en los Artículos 13, 15, 18 Fracción I Inciso H), y III Inciso N), 19 Fracción (sic) III, VI Inciso A), VII Inciso F), VIII y IX Inciso A), 20 Fracciones I Inciso A) y C), y II Inciso A), 21 y 26 numeral 37 de esta Ley, se actualizarán mensualmente a partir del mes de febrero, con el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor que se publique en el Diario Oficial de la Federación por el Instituto Nacional de Estadística y Geografía, o la dependencia federal que en sustitución de ésta lo publique, del último mes inmediato anterior al mes por el cual se hace el ajuste, entre el citado índice del penúltimo mes inmediato anterior al del mismo mes que se actualiza.
+
+Para efectos de la actualización a que se refiere este artículo, se considerarán cuotas, sólo aquellas que estén determinadas en cantidad fija.
+
+OCTAVO.- Durante el Ejercicio Fiscal del año 2017, el Impuesto sobre Actividades Mercantiles e Industriales, se causará a la tasa del 0%, respecto de los ingresos que obtengan los establecimientos, negociaciones o giros mercantiles con motivo de la enajenación de libros, periódicos y revistas.
+
+NOVENO.- Durante el Ejercicio Fiscal del año 2017, el Impuesto Adicional para la Educación Media y Superior, se causará a la tasa del 0%, respecto de los derechos que se perciban por concepto de servicios de agua, por entrega a los Municipios de formatos para inscripción de actos del estado civil de las personas, equipamiento escolar y por servicios de rehabilitación de pavimento asfáltico en un solo paso, a que se refiere (sic) los Artículos 11, 18 Fracción III Inciso N), 19 Fracciones III y IX Inciso A) de esta Ley.
+
+DÉCIMO.- Los ingresos adicionales a los estimados en la proyección de ingresos, de acuerdo al Artículo 64 de la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California, deberán programarse y someterse como egresos a la aprobación del Congreso del Estado.
+
+DECIMOPRIMERO.- Sin perjuicio de lo establecido en los Artículos 13 y 15 de esta Ley, la Dirección del Registro Público de la Propiedad y de Comercio durante el ejercicio fiscal del año 2017, y previo al pago de los derechos respectivos, podrá prestar los servicios de inscripción de actos traslativos de dominio o actos por los que se constituya o transmita derechos reales, que hayan sido celebrados a través de documento privado convencional ratificado ante notario, juez de paz, Registro Público de la Propiedad o Catastro Municipal, hasta antes del 26 de septiembre del año 2015 y cuyo valor convencional no sea mayor de la cantidad que resulte de multiplicar por 7,000 el importe del salario mínimo general vigente en el Estado.
+
+DECIMOSEGUNDO.- Durante el Ejercicio Fiscal del 2017, solo deberán cumplir el requisito del seguro de responsabilidad civil a que hacen referencia los artículos 7 fracción IX, 17 fracción IV, 18 BIS, 26 fracción IX, 27 fracción VI y 29 fracción VI, de la Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California, quienes realicen tramites de alta y cambios de propietarios, así como todos aquellos que efectúen canje de tarjetas de circulación de vehículos modelos 2008 y posteriores, y aquellos que en el año 2016 hayan tenido la obligación de presentar el seguro de responsabilidad civil.
+
+DECIMOTERCERO.- Las personas físicas y morales que estén obligadas a presentar declaraciones de impuestos estatales, deberán realizarlo a través del portal de internet del Poder Ejecutivo del Gobierno del Estado o mediante declaración que contenga la referencia para pago en ventanilla bancaria.
+
+No se considerarán presentadas las citadas declaraciones, cuando se realicen por medios distintos a los señalados en el presente artículo, por lo que se generarán los accesorios correspondientes hasta en tanto se cumpla con la obligación fiscal a través del portal de internet del Poder Ejecutivo del Gobierno del Estado o declaración que contenga la referencia para pago en ventanilla bancaria.
+
+La Secretaría de Planeación y Finanzas diseñará e implementará los mecanismos que mediante el uso de las tecnologías de la información acerque a la población los servicios que presta dicha Dependencia incluyendo los relativos al cumplimiento de obligaciones en materia fiscal.
+
+DECIMOCUARTO.- Las personas físicas y morales que tengan registrados vehículos en el Registro Estatal Vehicular, podrán realizar la baja definitiva de los mismos, cuando hayan dejado de ser de su propiedad o bien se encuentren inutilizados para la circulación, y por los cuales no se haya cumplido con la obligación de darlos de baja en los términos de la normatividad aplicable. En este caso se condonará y eximirá del pago de los derechos por los servicios de control vehicular establecidos en las leyes de Ingresos del Estado de Baja California, así como del Impuesto Adicional para la Educación media y Superior, y de las multas que se hayan generado por tal motivo, en términos de las reglas generales que para tal efecto emita la Secretaría de Planeación y Finanzas del Estado. Debiendo cubrir los derechos por la baja respectiva, y las contribuciones y accesorios de carácter federal que en su caso se adeuden por los citados vehículos.
+
+El vehículo que haya sido dado de baja definitiva que se desee inscribir nuevamente al Registro Estatal Vehicular, podrá hacerse siempre y cuando se cubran las contribuciones que en su momento dejó de pagar por acogerse al presente beneficio.
+
+DECIMOQUINTO.- Para efecto de dar cumplimiento al primer párrafo del artículo 24 de la Ley que Regula los Servicios de Control Vehicular en el Estado, durante el ejercicio fiscal 2017 se realizará el canje general de placas de circulación. Por lo que, con la excepción que se señala a continuación, resulta obligatorio el canje de placas de circulación para todo vehículo a partir del mes de abril de 2017. Con base en el citado artículo, la obligación de canje de placas para el ejercicio fiscal 2017, no será aplicable respecto de los vehículos que hayan obtenido placas de circulación en 2014, 2015 y 2016, los cuales se encontrarán obligados a realizar el canje de placas durante el año inmediato posterior al que cumplan tres años de haber obtenido las placas de circulación, o cuando se realice el trámite de cambio de propietario.
+
+Las placas que sean expedidas a partir de 2017 estarán sujetas a la vigencia a que se refiere el artículo 24 primer párrafo de la Ley que Regula los Servicios de Control Vehicular en el Estado de Baja California.
+
+DECIMOSEXTO.- Con la finalidad de dotar de viabilidad financiera al régimen de seguridad social de los trabajadores del sector público del Estado y Municipios de Baja California se autoriza al Estado de Baja California para que por conducto de la Secretaría de Planeación y Finanzas, en el ejercicio fiscal 2017 se constituya en obligado solidario de los Municipios de Mexicali, Ensenada, Tecate y Playas de Rosarito, frente al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California (ISSSTECALI) y sus causahabientes, de las obligaciones de pago que dichos Municipios asuman en los convenios de regularización de adeudos históricos autorizados en términos de los decretos números 195 y 298, publicados en el Periódico Oficial del Estado de Baja California el 31 de diciembre de 2014 y 10 de julio de 2015, respectivamente. Para tal efecto cada uno de los Municipios antes referidos deberán celebrar el convenio de compensación correspondiente con el Estado de Baja California a través de la Secretaría de Planeación y Finanzas, a efecto de resarcir las cantidades o montos que en ejecución de la obligación solidaria asumida se exijan al Estado de Baja California por el ISSSTECALI o sus causahabientes.
+
+DECIMOSÉPTIMO.- Durante el ejercicio fiscal 2017 el Gobierno del Estado de Baja California y los Municipios de Mexicali, Ensenada, Tecate y Playas de Rosarito podrán ejercer las autorizaciones a que se refieren los Decretos números 195, 273 y 298, publicados en el Periódico Oficial del Estado de Baja California el 31 de diciembre de 2014, 29 de mayo de 2015 y 10 de julio de 2015, respectivamente, hasta por el saldo de financiamiento autorizado pendiente de contratación.
+
+DECIMOCTAVO.- El Ejecutivo Estatal por conducto de la Secretaría de Planeación y Finanzas podrá afectar en garantía y/o como fuente de pago los ingresos que deriven del impuesto sobre remuneraciones al trabajo personal y la sobretasa a que se refiere el artículo 3 de la presente Ley, previa autorización expresa de la Legislatura del Estado mediante la cual se determine las condiciones para ello.
+
+En el supuesto de que los ingresos derivados de la citada sobretasa se vean disminuidos con motivo de esta operación, el Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, repondrá los recursos hasta por el importe dispuesto, a fin de mantener el monto destinado para la Educación Superior.
+
+DECIMONOVENO.- Los ingresos que se destinen a la promoción y difusión de la actividad turística del Estado, en los términos establecidos por el artículo 6 de la presente Ley, se administrarán por el Fideicomiso Público para la Promoción Turística del Estado de Baja California.
+
+VIGÉSIMO.- La presente Ley entrará en vigor el día primero de enero del año dos mil diecisiete.
+
+DIP. RAÚL CASTAÑEDA POMPOSO
+
+P R E S I D E N T E
+
+DIP. MARCO ANTONIO CORONA BOLAÑOS CACHO
+
+S E C R E T A R I O
+
+DE CONFORMIDAD CON LO DISPUESTO POR LA FRACCIÓN I DEL ARTÍCULO 49 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, IMPRÍMASE Y PUBLÍQUESE.
+
+MEXICALI, BAJA CALIFORNIA, A LOS VEINTIÚN DÍAS DE DICIEMBRE DEL AÑO DOS MIL DIECISÉIS.
+
+FRANCISCO ARTURO VEGA DE LA MADRID
+
+GOBERNADOR DEL ESTADO
+
+FRANCISCO RUEDA GÓMEZ
+
+SECRETARIO GENERAL DE GOBIERNO
