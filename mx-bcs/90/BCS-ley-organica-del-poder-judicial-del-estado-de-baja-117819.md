@@ -1,0 +1,3866 @@
+---
+title: "LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR"
+identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-117819"
+country: "mx"
+rank: "ley_organica"
+publication_date: "2016-12-31"
+last_updated: "2016-12-31"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117819&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-bcs"
+scjn_id: "117819"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "50"
+reform_count: "11"
+scjn_last_update: "2025-11-21"
+issue_date: "2016-12-21"
+state: "BCS"
+---
+# LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
+
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2016.
+
+CARLOS MENDOZA DAVIS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
+
+QUE EL H. CONGRESO DEL ESTADO, SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
+
+DECRETO 2421
+
+EL H. CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR
+
+D E C R E T A:
+
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+###### ARTÍCULO ÚNICO.
+
+SE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, PARA QUEDAR COMO SIGUE:
+
+LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
+
+## TÍTULO PRIMERO. DE LAS AUTORIDADES JUDICIALES
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 1.
+
+La presente ley es de orden público e interés general, y tiene por objeto regular la estructura y atribuciones de los Servidores Públicos que integran el Poder Judicial del Estado, quienes se regirán por los principios rectores de excelencia, objetividad, imparcialidad, profesionalismo e independencia.
+
+###### Artículo 2.
+
+El ejercicio de la función jurisdiccional del Estado de Baja California Sur se deposita en el Tribunal Superior de Justicia, Magistrados y Jueces del Fuero Común, en los términos de la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de Baja California Sur, de manera independiente y autónoma.
+
+El Pleno del Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial.
+
+El representante legal del Poder Judicial, es el Magistrado Presidente del Tribunal Superior de Justicia.
+
+Corresponde al Tribunal Superior de Justicia, Magistrados y Jueces del Estado la función jurisdiccional en los asuntos del fuero común, lo mismo que en los del orden federal, en los casos que expresamente señale la Constitución Política de los Estados Unidos Mexicanos y la (sic) Leyes que de ella emanen.
+
+El Poder Judicial contará con un Consejo de la Judicatura, el cual será un órgano con independencia técnica y de gestión, así como para emitir sus resoluciones, que estará encargado de la administración, vigilancia, disciplina y carrera judicial del Poder Judicial, con excepción del Tribunal Superior de Justicia, en la forma y términos que señalan la Constitución Política de la Entidad y la presente ley.
+
+###### Artículo 3.
+
+El desempeño de la función jurisdiccional corresponde a:
+
+I. El Tribunal Superior de Justicia;
+
+II. Los Jueces de Primera Instancia;
+
+III. Los Jueces de Control;
+
+IV. El Tribunal de Enjuiciamiento;
+
+V. Los Jueces de Control, el Tribunal Unitario de Enjuiciamiento y el Juez de Ejecución, Especializados en el Sistema Integral de Justicia Penal para Adolescentes;
+
+VI. Los Jueces de Ejecución;
+
+VII. Los Jueces Menores;
+
+VIII. Los Jueces de Paz;
+
+IX. Los Árbitros; y
+
+X. Los demás funcionarios y auxiliares de la administración de Justicia.
+
+###### Artículo 4.
+
+Para los efectos de esta Ley, según corresponda se entenderá por:
+
+I. Poder Judicial: Al Poder Judicial del Estado de Baja California Sur;
+
+II. Tribunal: Al Tribunal Superior de Justicia del Estado de Baja California Sur;
+
+III. Pleno del Tribunal: Al Pleno del Tribunal Superior de Justicia del Estado;
+
+IV. Consejo: Al Consejo de la Judicatura; y
+
+V. Pleno del Consejo: Al Pleno del Consejo de la Judicatura.
+
+###### Artículo 5.
+
+La solución de controversias mediante mecanismos alternativos, a excepción de aquellos conflictos suscitados en la comisión de delitos y en materia de Justicia para Adolescentes, corresponde al Centro Estatal de Justicia Alternativa, dependencia auxiliar de la Administración de Justicia del Poder Judicial, dependiente del Consejo de la Judicatura, el cual tendrá su sede en la capital y competencia en todo el territorio del Estado, a través de las unidades que el Pleno del Consejo designe para tales efectos.
+
+## TÍTULO SEGUNDO. DIVISIÓN TERRITORIAL
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 6.
+
+La jurisdicción territorial del Poder Judicial comprende todo el Estado de Baja California Sur.
+
+Para los efectos de esta Ley, el Estado de Baja California Sur se divide en los Partidos Judiciales siguientes:
+
+I. El de Mulegé, con la extensión territorial del Municipio del mismo nombre;
+
+II. El de Loreto, con la extensión territorial del Municipio del mismo nombre;
+
+III. El de Comondú, con la extensión territorial del Municipio del mismo nombre;
+
+IV. El de La Paz, con extensión la (sic) territorial del Municipio del mismo nombre; y
+
+V. El de Los Cabos, con la extensión territorial del Municipio del mismo nombre.
+
+## TÍTULO TERCERO. DE LA ORGANIZACIÓN DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+### CAPÍTULO PRIMERO. DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+###### Artículo 7.
+
+El Tribunal Superior de Justicia tendrá su residencia en la capital del Estado y solo podrá cambiarla cuando así lo decrete el Congreso del Estado de Baja California Sur. Estará constituido por siete Magistrados que durarán en su encargo seis años, en términos del artículo 93 de la Constitución Política del Estado.
+
+Los Magistrados que aspiren a ser reelectos deberán ser evaluados y deben conservar los requisitos cumplidos para su elección previstos en la Constitución Política del Estado Libre y Soberano de Baja California Sur, así como no encontrarse en ninguno de los supuestos previstos en el artículo 93 de la misma. La evaluación del desempeño de los Magistrados deberá sujetarse a criterios objetivos relativos a la excelencia y ética profesional, honestidad, eficiencia, diligencia y honorabilidad.
+
+Las resoluciones del Congreso del Estado de Baja California Sur, respecto a la reelección o no reelección de Magistrados, serán definitivas e inatacables, por lo que no procederá juicio, recurso o medio de defensa ordinario o extraordinario alguno en contra de las mismas.
+
+###### Artículo 8.
+
+Los Magistrados que previa reelección, concluyan su segundo periodo constitucional en el cargo, tendrá derecho a partir de ese momento a un haber de retiro equivalente al cien por ciento del total de las percepciones que correspondan a los Magistrados en activo durante los primeros dos años, porcentaje que se reducirá en un diez por ciento cada dos años, hasta llegar al setenta por ciento, porcentaje este último que se cubrirá a partir del octavo año de la conclusión del segundo periodo en el cargo y hasta el fallecimiento del Magistrado.
+
+Los Magistrados que renuncien o se separen del cargo o por sufrir incapacidad física o mental habiendo desempeñado el cargo durante nueve años o más, tendrán derecho a un haber de retiro equivalente al cien por ciento del total de las percepciones que correspondan a los Magistrados en activo durante los primeros dos años, porcentaje que se reducirá en un diez por ciento cada dos años, hasta llegar al ochenta por ciento y a partir del séptimo año se le cubrirá el setenta y cinco por ciento de esos ingresos, porcentaje este último que se le pagará hasta llegar a los doce años contados a partir de la renuncia o separación del cargo; plazo en que se extinguirá este derecho.
+
+Si la renuncia o incapacidad se actualiza encontrándose el Magistrado en ejercicio de su segundo periodo constitucional, pero antes de haber cubierto la mitad de la duración de este, el haber de retiro al que tendrá derecho será el que corresponde a los Magistrados que concluyen un primer periodo en términos de la presente Ley.
+
+Los Magistrados que concluyan su primer periodo constitucional en el cargo y no sean reelectos, tendrán derecho a un haber de retiro, equivalente al cien por ciento del total de las percepciones que correspondan a los Magistrados en activo durante los primeros dos años, porcentaje que se reducirá en un diez por ciento cada dos años, hasta llegar al setenta por ciento, porcentaje este último que se cubrirá hasta llegar a los doce años contados a partir de la conclusión del cargo, sin que hayan sido reelectos; plazo en que se extinguirá este derecho.
+
+En caso de que un Magistrado sea removido de su cargo por alguna causa de responsabilidad de las indicadas en la Constitución del Estado, no tendrá derecho al haber de retiro.
+
+El derecho al haber de retiro previsto en el presente artículo es intransferible.
+
+###### Artículo 9.
+
+Para ser Magistrado se requiere:
+
+I. Ser ciudadana o ciudadano Sudcaliforniano, en pleno ejercicio de sus derechos políticos y civiles y haber residido en el Estado durante los dos años anteriores al día de la designación;
+
+II. Tener treinta y cinco años de edad cumplidos el día de la designación;
+
+III. Poseer al día de su elección, con una antigüedad mínima de diez años, Título y cédula profesional de Licenciado en Derecho, expedidos por la autoridad o Institución legalmente facultada para ello;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena; y
+
+V. No haber sido Secretario de Despacho del Poder Ejecutivo o su equivalente, Procurador General de Justicia, Diputado Local o Presidente Municipal durante el año previo al día de la designación.
+
+Los Magistrados del Tribunal Superior de Justicia serán designados preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la Administración de Justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
+
+###### Artículo 10.
+
+El Tribunal Superior de Justicia desarrollará sus funciones en Pleno y en Salas.
+
+###### Artículo 11.
+
+El recinto del Tribunal Superior de Justicia es inviolable. Toda fuerza pública tiene impedido el acceso al mismo, salvo con el correspondiente permiso del Pleno o del Presidente del Tribunal, bajo cuyo mando quedarán dichas fuerzas.
+
+### CAPÍTULO SEGUNDO. DEL TRIBUNAL PLENO
+
+###### Artículo 12.
+
+El Tribunal Pleno se constituirá por los Magistrados que integren el Tribunal Superior de Justicia y lo presidirá el que designe el propio cuerpo colegiado, de acuerdo con esta Ley.
+
+###### Artículo 13.
+
+El Pleno deberá sesionar ordinariamente el primer martes de cada mes, y con carácter extraordinario siempre que el Presidente o alguno de los Magistrados lo solicite para tratar y resolver asuntos urgentes, previa convocatoria del Presidente, en la que se determinará si la sesión será privada o pública.
+
+El Pleno del Tribunal funcionará legalmente con la concurrencia de la mayoría de los Magistrados, debiendo estar presente el Presidente o aquel que lo sustituya en su función.
+
+###### Artículo 14.
+
+Son facultades del Pleno del Tribunal:
+
+I. Presentar ante el Congreso del Estado de Baja California Sur, las Iniciativas de Ley o Iniciativas de Decreto para modificar diversos ordenamientos que estime convenientes para la buena administración de justicia;
+
+II. Discutir, modificar y aprobar en su caso, el anteproyecto de presupuesto de egresos del Tribunal Superior de Justicia que para cada ejercicio fiscal proponga el Presidente del Tribunal, el que a través del Ejecutivo se someterá a la aprobación del Congreso del Estado;
+
+III. Conocer en única instancia de las demandas de responsabilidad patrimonial que se entablen contra las Salas del Tribunal y el Consejo de la Judicatura, en los términos de la Ley de Responsabilidad Patrimonial Para el Estado y Municipios de Baja California Sur;
+
+IV. Expedir el Reglamento del Tribunal Superior de Justicia, que regule las funciones, atribuciones y responsabilidades de los integrantes del Pleno, de sus Salas y de los servidores públicos adscritos a la Presidencia del Tribunal;
+
+V. Elegir al Presidente del Tribunal Superior de Justicia de entre los Magistrados que conforman el Pleno y designar a los que deban integrar cada Sala;
+
+VI. Acordar sobre la sustitución del Presidente del Tribunal, de las ausencias temporales y de las absolutas, por el resto de su período;
+
+VII. Conocer de los impedimentos, excusas y recusaciones de los Magistrados. En caso de su procedencia, designar a los que deban intervenir en el conocimiento del asunto que se trate;
+
+VIII. Imponer a los Magistrados y Consejeros, las correcciones disciplinarias que procedan, conforme a las leyes aplicables;
+
+IX. Ordenar, por conducto del Presidente del Tribunal, que se haga la denuncia que corresponda ante el ministerio público en los casos de la posible comisión de delitos durante su encargo o con motivo del mismo, imputables a magistrados o servidores públicos adscritos al Tribunal Superior de Justicia, que deban ser sancionados por las autoridades competentes;
+
+X. Conocer de las excitativas de justicia presentadas en contra de los Magistrados del Tribunal;
+
+XI. Informar al Gobernador o al Congreso del Estado acerca de los casos de indulto necesario, reconocimiento de inocencia, anulación de sentencia, rehabilitación y demás que las Leyes determinen, previos los trámites y con los requisitos que ellos establezcan;
+
+XII. Exigir al Presidente del Tribunal el fiel cumplimiento de sus obligaciones;
+
+XIII. Imponer correcciones disciplinarias, conforme a las leyes respectivas, a los abogados, agentes de negocios, procuradores o litigantes cuando, en las promociones que hagan ante el Pleno, falten al respeto al Tribunal Superior de Justicia, alguno de sus miembros o a cualquier otro servidor público del Poder Judicial;
+
+XIV. Resolver las denuncias o quejas que se presenten en contra del Presidente del Tribunal, Magistrados y Consejeros, previa la sustanciación correspondiente de acuerdo al procedimiento que señale la Constitución Política del Estado y la presente Ley Orgánica;
+
+XV. Dictar las medidas pertinentes, a efecto de que en las Salas del Tribunal, el trabajo se distribuya proporcional y equitativamente;
+
+XVI. Determinar las adscripciones de los magistrados a las Salas cuando las necesidades del servicio lo requieran;
+
+XVII. Determinar los casos de retiro de los Magistrados del Tribunal Superior de Justicia;
+
+XVIII. Resolver sobre las licencias de Magistrados, con o sin goce de sueldo, siempre que no sea mayor a treinta días;
+
+XIX. Conocer y resolver cualquier asunto de competencia del Poder Judicial, cuyo conocimiento no corresponda al Consejo de la Judicatura o a su Presidente, por disposición expresa de la Ley;
+
+XX. Emitir los acuerdos que estime pertinentes para llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos adscritos al Tribunal Superior de Justicia, así como para celebrar convenios con la Comisión Nacional Bancaria y de Valores o cualquier otra institución a efecto de obtener información relativa al patrimonio de los Magistrados y Consejeros;
+
+XXI. Elegir al Magistrado y al Juez de primera instancia que formarán parte del Consejo de la Judicatura;
+
+XXII. Emitir los acuerdos generales y circulares que estime pertinentes en el ámbito de su competencia;
+
+XXIII. Aprobar los manuales de procedimientos que sometan a su consideración los Magistrados de las Salas del Tribunal;
+
+XXIV. Revisar a petición de parte interesada, las decisiones del Pleno del Consejo respecto a la designación, adscripción, destitución, ratificación y no ratificación de jueces, para el efecto de verificar que se ajustaron a las reglas previstas en esta Ley;
+
+XXV. Disponer los casos en que los Magistrados deban utilizar toga;
+
+XXVI. Tomar conjuntamente con el Consejo de la Judicatura, la protesta constitucional a los jueces designados;
+
+XXVII. Informar a la Comisión de Vigilancia y Disciplina sobre los casos en los que se adviertan actuaciones de Jueces o Juezas y por lo que hace a los funcionarios judiciales, en términos de la Constitución, que pudieran derivar en responsabilidad en el desempeño de las funciones jurisdiccionales;
+
+XXVIII. Establecer criterios de interpretación jurídica cuando no exista jurisprudencia al respecto y resolver cuando los sustentados por las Salas de la materia sean contradictorios, vigilando su cumplimiento;
+
+XXIX. Resolver sobre la responsabilidad administrativa de los consejeros de la Judicatura;
+
+XXX. Instrumentar estímulos a la productividad del personal adscrito al Tribunal Superior de Justicia del Estado, atenta la disponibilidad presupuestal; y
+
+XXXI. Las demás facultades que le confieren las Leyes y Reglamentos.
+
+###### Artículo 15.
+
+El Pleno del Tribunal deberá rendir al Congreso del Estado, los informes y documentación que éste le solicite en relación con los procedimientos de reelección de Magistrados.
+
+La información para procedimiento de reelección de algún Magistrado, deberá entregarse dentro del plazo de diez días naturales contados a partir del día siguiente a aquel en que se formula la solicitud, incluyendo:
+
+I. La información estadística, que contendrá el número total de asuntos que fueron turnados a su adscripción y los que fueron resueltos, incluyendo el porcentaje de los pendientes de resolución;
+
+II. El total de asuntos turnados a la Sala que tiene a su cargo el Magistrado, precisando cuántos han sido resueltos y cuantos están pendientes de resolución;
+
+III. El número desglosado del total de sentencias elaboradas por la Sala a la que pertenezca el Magistrado, en las que se concedió el amparo y protección de la Justicia Federal, diferenciando aquéllas que implicaron modificaciones de forma y cuáles de fondo así como la concesión lisa y llana, de plano, para efectos y sobreseídos;
+
+IV. La información de los resultados que el Pleno haya recibido en materia de quejas procesales o administrativas contra la ponencia del Magistrado en cuestión, las cuales deberán contener la evolución de los procedimientos respectivos y el resultado de su procedencia o no, así como las sanciones impuestas en su caso;
+
+V. Las comisiones realizadas en el desempeño de su encargo;
+
+VI. La documentación que acredite la impartición de cursos, conferencias o seminarios justicia y los dirigidos hacia la sociedad, para promover la cultura jurídica; así como las constancias que demuestren la preparación y actualización de sus conocimientos durante el desempeño de su cargo; y
+
+VII. El total de sesiones del Pleno del Tribunal celebradas, tanto ordinarias como extraordinarias, y el número total de éstas a las que asistió la Magistrada o el Magistrado sujeto al procedimiento de reelección.
+
+En caso de que el magistrado sujeto al procedimiento de reelección haya desempeñado o esté desempeñando el cargo de consejero dentro del Consejo de la Judicatura se deberá acompañar además, la siguiente información:
+
+a) Porcentaje de las sesiones del pleno del Consejo a las que asistió; y
+
+b) Trabajo desarrollado en las comisiones permanentes o especiales del consejo, de las que forme parte.
+
+En el supuesto de que el Magistrado Presidente esté sujeto al procedimiento de reelección, se deberá acompañar además, la siguiente documentación:
+
+a) Los informes anuales de labores;
+
+b) Los decretos expedidos por el Congreso del Estado mediante los cuales se determina el resultado de la revisión y fiscalización de las cuentas públicas anuales, correspondientes a su periodo; y
+
+c) Un informe sobre las acciones realizadas como presidente del Consejo de la Judicatura.
+
+###### Artículo 16.
+
+Las resoluciones del Pleno se tomarán por mayoría de votos de los Magistrados presentes. En caso de empate, el Presidente del Tribunal o el Magistrado que lo sustituya tendrán voto de calidad.
+
+###### Artículo 17.
+
+Las actas que se levanten de los acuerdos y resoluciones del Pleno, deberán firmarse por los Magistrados que intervinieron en el conocimiento del asunto, así como por el Secretario de Acuerdos del Pleno y la Presidencia.
+
+### CAPÍTULO TERCERO. DEL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+###### Artículo 18.
+
+El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en escrutinio secreto en la primera sesión plenaria celebrada durante el mes de abril de cada tres años y estará presidida por el Magistrado de más edad, pudiendo ser reelecto para el periodo inmediato. El Presidente no integrará Sala.
+
+El resultado de la elección de Presidente del Tribunal Superior de Justicia se publicará en el Boletín Oficial del Gobierno del Estado.
+
+###### Artículo 19.
+
+El Presidente del Tribunal Superior de Justicia, tendrá las facultades que le confiere la presente Ley, constituyendo su función principal la de velar para que la administración de justicia sea pronta y expedita.
+
+El Presidente del Tribunal Superior de Justicia, como representante legal del Poder Judicial, contará con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y aún las especiales que requieran cláusula especial conforme a la ley.
+
+###### Artículo 20.
+
+El Presidente del Tribunal Superior de Justicia será sustituido en las ausencias eventuales por el Magistrado que él designe y, de la misma manera, cuando se trate de sustituirlo en una sesión plenaria o en algún otro acto oficial determinado.
+
+###### Artículo 21.
+
+Las providencias y acuerdos del Presidente pueden reclamarse ante el Pleno dentro del plazo de tres días, siempre que dicha reclamación se presente por escrito y con motivo fundado por la parte interesada.
+
+###### Artículo 22.
+
+Corresponde al Presidente del Tribunal Superior de Justicia:
+
+I. Convocar a los Magistrados a sesiones del Pleno, presidirlas, dirigir los debates y conservar el orden en las sesiones y en las audiencias;
+
+II. Representar legalmente al Poder Judicial, al Tribunal Superior de Justicia y a su Pleno, asumiendo para los efectos legales procedentes la representación del Poder Judicial, con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y aún las especiales que requieran cláusula especial conforme a la ley. Esta representación podrá delegarse en Magistrados o Jueces para la celebración de actos cívicos oficiales y para la atención de actos administrativos o asuntos litigiosos mediante la concesión de mandatos limitados, previa aprobación del Pleno del Tribunal.
+
+III. Llevar la correspondencia oficial con los Poderes del Estado, la Federación, los Ayuntamientos y con los demás Estados y la Ciudad de México;
+
+IV. Vigilar el debido cumplimiento de los acuerdos del Pleno del Tribunal y de los que él mismo dictare;
+
+V. Dictar las medidas pertinentes de carácter urgente para remediar la demora, o faltas no graves en que incurran los servidores públicos adscritos al Tribunal en el cumplimiento de sus obligaciones y en el despacho de los asuntos, a efecto de evitar que se produzcan, o se continúe produciendo, efectos perjudiciales, sin perjuicio de la imposición de una corrección disciplinaria en términos de esta Ley;
+
+VI. Dictar las medidas que estime convenientes para que se observen la disciplina y puntualidad debidas por parte de los servidores públicos adscritos al Tribunal;
+
+VII. Conceder licencias a Magistrados, con o sin goce de sueldo, hasta por quince días, según lo estime conveniente, llamando o designando a los sustitutos respectivos;
+
+VIII. Recibir la protesta de los servidores públicos a su cargo, y requerir a éstos la protesta de sus subalternos, así como a aquellos que el Pleno del Tribunal determine;
+
+IX. Poner en conocimiento del Pleno del Tribunal las solicitudes de licencia por más de quince y hasta por treinta días de los Magistrados.
+
+X. Proponer al Pleno del Tribunal, los cambios y nombramientos del Secretario General de Acuerdos del Pleno y la Presidencia, Secretario Particular y Secretarios Auxiliares;
+
+XI. Turnar al Pleno o a las Salas los asuntos que sean de su competencia;
+
+XII. Proponer ante el Pleno del Tribunal el proyecto de Presupuesto de Egresos del Tribunal, que deberá regir en el ejercicio fiscal siguiente, el cual a través del Ejecutivo se someterá a la aprobación del Congreso del Estado;
+
+XIII. Presentar ante el Ejecutivo el proyecto de presupuesto de egresos del Poder Judicial, integrando en un solo documento los proyectos de presupuestos de egresos correspondientes al Tribunal Superior de Justicia y al Consejo de la Judicatura, a efecto de que por su conducto sea remitido conforme a la ley, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado;
+
+XIV. Ejercer el Presupuesto de Egresos aprobado por el Congreso del Estado para el Tribunal Superior de Justicia y acordar las erogaciones que deban hacerse con cargo a sus diversas partidas, sin que queden comprendidas en esta facultad las relativas al sueldo fijo, que sólo podrán ser alteradas por concepto de las correcciones disciplinarias en los términos que prescriba la Ley;
+
+XV. Tramitar todos los asuntos de la competencia del Pleno del Tribunal hasta su estado de resolución;
+
+XVI. Rendir los informes previos y justificados en los juicios de amparo que se promuevan en contra de las resoluciones del Pleno y la Presidencia del Tribunal Superior de Justicia;
+
+XVII. Legalizar conjuntamente con el Secretario General de Acuerdos del Pleno y la Presidencia las firmas de los servidores públicos adscritos a las Salas del Tribunal;
+
+XVIII. Celebrar convenios de colaboración con el Poder Judicial de la Federación y de otras entidades, instituciones o dependencias, en los casos que sean necesarios;
+
+XIX. Designar al Secretario de Acuerdos de Sala que deberá suplir al Secretario General de Acuerdos del Pleno y la Presidencia en sus ausencias eventuales, temporales y absolutas;
+
+XX. Presentar ante el Congreso del Estado, los informes y documentación que éste le solicite en relación con los procedimientos de reelección de Magistrados; y
+
+XXI. Conocer de los demás asuntos que le encomienden las Leyes.
+
+###### Artículo 23.
+
+El Presidente del Tribunal Superior de Justicia contará con el auxilio de un Secretario Particular, los Secretarios Auxiliares y demás servidores públicos que sean necesarios para el despacho de los asuntos de su competencia.
+
+### CAPÍTULO CUARTO. DE LAS SALAS DEL TRIBUNAL
+
+###### Artículo 24.
+
+El Tribunal Superior de Justicia funcionará en Salas Unitarias. Para distinguirlas serán designadas por número ordinal. Cada Magistrado integrará una Sala, con excepción del Presidente del Tribunal Superior de Justicia.
+
+En caso de ausencia, recusación o excusa de un Magistrado, integrará Sala un Magistrado de otra Sala que designe el Pleno. Lo mismo ocurrirá cuando las Salas Penales hubieran intervenido en un mismo asunto en apelación durante la etapa de investigación e intermedia, y se interpusiera la apelación contra resoluciones emitidas por el Tribunal de Enjuiciamiento.
+
+En el supuesto de que la totalidad de los Magistrados de las Salas Unitarias estuvieren impedidos para conocer de un asunto, integrará Sala Especial un Juez de Primera Instancia designado por el Pleno del Tribunal, sin perjuicio de las labores o funciones propias de su cargo.
+
+###### Artículo 25.
+
+Para los efectos de las materias civil, administrativa, especializada para adolescentes y, penal del sistema tradicional, las Salas Unitarias del Tribunal Superior de Justicia se compondrán además del Magistrado, de un Secretario de Acuerdos, un Actuario, los Secretarios de Estudios y Proyecto y los auxiliares de apoyo que determine el Pleno del Tribunal según la disponibilidad del presupuesto.
+
+En el sistema penal acusatorio, los Magistrados tendrán facultad para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video o se transcriban.
+
+###### Artículo 26.
+
+Corresponde a los Magistrados de las Salas Unitarias Civiles:
+
+I. Conocer de los recursos de apelación, apelación extraordinaria, y cualesquiera otros que la Ley conceda contra los decretos, autos, sentencias y demás resoluciones dictadas por los Jueces de Primera Instancia en materia civil, mercantil, familiar y mixtos conforme a las Leyes Procesales;
+
+II. Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala;
+
+III. Conocer de las excusas y recusaciones de los Jueces y demás servidores públicos de la Sala, en el ámbito de su competencia;
+
+IV. Conocer de los asuntos en los que la Ley establezca la revisión de oficio;
+
+V. Conocer de los conflictos de competencia que se susciten en materia civil, familiar y mercantil entre las autoridades judiciales del fuero común del Estado;
+
+VI. Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la Sala cumplan con sus deberes respectivos, aplicando las correcciones disciplinarias que sean necesarias y en su caso, dar cuenta al Pleno para los efectos conducentes;
+
+VII. Conocer de las excitativas de justicia que se promuevan en contra de los jueces, en los asuntos del orden civil, familiar o mercantil;
+
+VIII. Apercibir, amonestar o imponer multas hasta de ciento ochenta veces el valor diario de la unidad de medida y actualización vigente, al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún servidor público del Poder Judicial;
+
+IX. Turnar al Pleno los asuntos que sean de su competencia; y
+
+X. Conocer de los demás asuntos que le encomienden las Leyes, el Pleno o el Presidente.
+
+###### Artículo 27.
+
+Corresponde a los Magistrados de las Salas Unitarias Penales:
+
+I. Conocer de los recursos de apelación, denegada apelación, revisión y cualquier otro que la Ley conceda contra los decretos, autos, sentencias y demás resoluciones dictadas por los Jueces de Primera Instancia, Jueces de Control, Tribunal de Enjuiciamiento, de Ejecución de Sanciones Penales, Menores y de Paz, en asuntos del orden penal que sean de su competencia;
+
+II. Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala;
+
+III. Conocer de las excusas y recusaciones de los Jueces y demás servidores públicos de la Sala, en el ámbito de su competencia;
+
+IV. Conocer de las contiendas de acumulación que se susciten en materia penal entre las autoridades del fuero común;
+
+V. Dirimir las cuestiones de competencia que se susciten entre los jueces penales del Estado, a excepción de los jueces menores y de paz. En el caso de que haya varios jueces de primera instancia, de control o de ejecución de sanciones penales en un mismo partido judicial que puedan ser declarados competentes, el Magistrado remitirá el asunto al que corresponda según el turno que lleve la Presidencia o la Coordinación Administrativa de Juzgados en su caso;
+
+VI. Conocer de las solicitudes de radicación de procesos penales en diversos partidos judiciales al que originalmente le compete, formuladas por la parte interesada o por la propia autoridad judicial, atendiendo a razones de competencia por razón de seguridad;
+
+VII. Conocer del procedimiento de reconocimiento de inocencia;
+
+VIII. Conocer del procedimiento de anulación de sentencia;
+
+IX. Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la Sala cumplan con sus deberes respectivos, aplicando las correcciones disciplinarias que sean necesarias y en su caso, dar cuenta al Pleno para los efectos conducentes;
+
+X. Conocer de las excitativas de justicia que se promuevan en contra de los Jueces del orden penal; así como de las quejas planteadas por las partes en contra de los Jueces de Control y Enjuiciamiento o del Tribunal de Enjuiciamiento, por omisiones en la realización de un acto procesal dentro del plazo señalado por este el Código Nacional de Procedimientos Penales;
+
+XI. Apercibir, amonestar o imponer multas hasta de ciento ochenta veces el valor diario de la unidad de medida y actualización vigente, al día de cometerse la falta, a los defensores públicos, ministerios públicos, asesores jurídicos o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún servidor público del Poder Judicial;
+
+XII. Turnar al Pleno los asuntos que sean de su competencia; y
+
+XIII. Conocer de los demás asuntos que le encomienden las Leyes, el Pleno o la Presidencia.
+
+###### Artículo 28.
+
+Corresponde al Magistrado de la Sala Unitaria Especializada en Justicia para Adolescentes:
+
+I. Conocer y resolver, del recurso de apelación y cualquier otro que de manera supletoria concedan las leyes, contra las resoluciones dictadas por los jueces especializados en justicia para adolescentes conforme a la Ley estatal de la materia, así como de las apelaciones contra las resoluciones que emanen de los Jueces de Control, del Tribunal Unitario de Enjuiciamiento y de los Jueces de Ejecución, Especializados en el Sistema Integral de Justicia Penal Adolescentes, en términos de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y de la normatividad nacional de aplicación supletoria.
+
+II. Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala Unitaria Especializada en Justicia para Adolescentes;
+
+III. Conocer de las excusas y recusaciones de los Jueces Especializados en Justicia para Adolescentes, en el ámbito de su competencia;
+
+IV. Vigilar que los secretarios de Acuerdos y demás servidores públicos de la Sala cumplan con sus deberes respectivos, aplicando las correcciones disciplinarias que sean necesarias y en su caso, dar cuenta al Pleno, para los efectos conducentes;
+
+V. Conocer de las excitativas de justicia que se promuevan en contra de los Jueces especializados en Justicia para Adolescentes;
+
+VI. Apercibir, amonestar o imponer multas hasta por ciento ochenta veces el valor diario de la unidad de medida y actualización vigente, al día de cometerse la falta, a los defensores públicos, ministerios públicos, asesores jurídicos o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún servidor público del Poder Judicial;
+
+VII. Turnar al Pleno, los asuntos que sean de su competencia; y
+
+VIII. Conocer de los demás asuntos que le encomienden los ordenamientos jurídicos, el Pleno o el Presidente.
+
+###### Artículo 29.
+
+Corresponde al Magistrado de la Sala Unitaria de Justicia Administrativa:
+
+I. Conocer de los juicios contenciosos administrativos de acuerdo a lo establecido en la Ley de Justicia Administrativa para el Estado de Baja California Sur, así como en materia fiscal en el ámbito de su competencia;
+
+II. Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala Unitaria en Justicia Administrativa;
+
+III. Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la Sala cumplan con sus deberes respectivos, aplicando las correcciones disciplinarias que sean necesarias y en su caso, dar cuenta al Pleno, para los efectos conducentes;
+
+IV. Conocer de las demandas en materia de responsabilidad patrimonial, en términos de la Ley de Responsabilidad Patrimonial Para el Estado y Municipios de Baja California Sur;
+
+V. Apercibir, amonestar o imponer multas hasta de ciento ochenta veces el valor diario de la unidad de medida y actualización vigente, al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto a algún órgano o miembro del Poder Judicial;
+
+VI. Turnar al Pleno, los asuntos que sean de su competencia; y
+
+VII. Conocer de los demás asuntos que le encomienden los ordenamientos jurídicos, el Pleno o el Presidente.
+
+### CAPÍTULO QUINTO. DE LOS SECRETARIOS Y DEMÁS SERVIDORES PÚBLICOS DEL TRIBUNAL SUPERIOR DE JUSTICIA
+
+###### Artículo 30.
+
+El personal del Tribunal Superior de Justicia se compondrá de:
+
+I. Un Secretario General de Acuerdos del Pleno y la Presidencia;
+
+II. Los Secretarios de Estudios y Proyectos que las necesidades del servicio requiera para cada Sala;
+
+III. Los Secretarios de Acuerdos para cada Sala que las necesidades del servicio requiera;
+
+IV. Los Actuarios y Notificadores para cada Sala que las necesidades del servicio requiera; y
+
+V. De los demás servidores públicos y auxiliares que las necesidades del servicio requiera.
+
+###### Artículo 31.
+
+Para ser Secretario General de Acuerdos del Pleno y la Presidencia, se exige reunir los mismos requisitos previstos por esta Ley para ser Juez de Primera Instancia.
+
+###### Artículo 32.
+
+Corresponde al Secretario General de Acuerdos del Pleno y la Presidencia del Tribunal:
+
+I. Concurrir a las sesiones del Pleno del Tribuna (sic) y dar fe de sus acuerdos;
+
+II. Autenticar y remitir los testimonios de las resoluciones que dicte el Pleno del Tribunal;
+
+III. Practicar las diligencias que se ordenen en los asuntos de la competencia del Pleno del Tribunal;
+
+IV. Preparar el acuerdo de trámite con la oportunidad debida;
+
+V. Dar cuenta, dentro de las veinticuatro horas siguientes a la de la presentación de los oficios, promociones o expedientes que ameriten resolución;
+
+VI. Redactar los acuerdos que se dicten y vigilar que reciban el debido cumplimiento;
+
+VII. Redactar las actas de los asuntos que se tramiten, recabando la firma y firmándolas a su vez;
+
+VIII. Autenticar y dar fe de las actas, providencias, acuerdos y resoluciones;
+
+IX. Expedir constancias y certificaciones, de documentos derivados de expedientes físicos o digitalizados, previo el acuerdo respectivo;
+
+X. Vigilar el despacho oportuno de la correspondencia;
+
+XI. Recibir los escritos que se presenten, asentando al calce la razón, el día y hora de presentación, imprimiendo en ellos el sello oficial con la firma de recibido, expresando el número de anexos. Asimismo, deberá poner razón idéntica en la copia que quede en poder del interesado, pudiendo recibirlos a través de su personal en las horas de oficina;
+
+XII. Preparar aquellos proyectos que los Magistrados le encomienden, procurando ceñirse a las instrucciones que reciba;
+
+XIII. Hacer las notificaciones que le encomienden o entregar, para el mismo efecto, los expedientes al actuario;
+
+XIV. Integrar y mantener actualizados los expedientes personales de los Magistrados, asentando en ellas las anotaciones que procedan;
+
+XV. Guardar bajo su responsabilidad los pliegos, documentos, valores y expedientes que la Ley o el Superior dispongan, y entregarlos con las formalidades legales, mientras no se envíen al Archivo Judicial los que procedieren;
+
+XVI. Llevar los siguientes libros de registro: de tocas penales, de tocas civiles, de amparos, de quejas administrativas de las que corresponda conocer al Tribunal, de inhabilitaciones relativas a servidores públicos del Tribunal, de despachos, de diligencias actuariales, de registro de expedientillos, de registro de oficios emitidos y demás que las leyes o que el Superior le encomiende. Al efecto se podrán omitir algunos o todos los registros en los libros a que se refiere la presente fracción, cuando a consideración del Pleno, se cumpla con el registro y control mediante el sistema de gestión electrónico;
+
+XVII. Autenticar y desempeñar las demás funciones y servicios que le confieran las Leyes, el Reglamento y las demás que por la naturaleza de sus funciones le encomiende el Pleno del Tribunal o su Presidente;
+
+XVIII. Iniciar, diligenciar y sustanciar hasta el estado de resolución el procedimiento de responsabilidad administrativa en los casos en que se presente queja o denuncia en contra de Magistrados o Consejeros, en términos de lo establecido por esta Ley y su Reglamento; y
+
+XIX. Las demás que establezca el Reglamento de la presente Ley, y las que le encomienden el Pleno del Tribunal o su Presidente.
+
+###### Artículo 33.
+
+Para ser Secretario de Estudios y Proyectos y Secretario de Acuerdos de Sala, se deben reunir los mismos requisitos previstos por esta Ley para ser Juez de Primera Instancia, con excepción de la edad que deberá ser de 25 años cumplidos al día de su designación.
+
+###### Artículo 34.
+
+Corresponde a los Secretarios de Acuerdos de las Salas:
+
+I. Suplir al Secretario General de Acuerdos del Pleno y la Presidencia del Tribunal, en las ausencias eventuales, temporales y absolutas en tanto el Pleno nombre al sustituto;
+
+II. Autenticar y remitir los testimonios de las sentencias y demás resoluciones que dicte la Sala;
+
+III. Preparar aquellos proyectos que los Magistrados les encomienden procurando ceñirse a las instrucciones que reciban;
+
+IV. Guardar bajo su responsabilidad los pliegos, documentos, valores y expedientes que la Ley o el Magistrado de la Sala disponga y entregarlos con las formalidades legales mientras no se envíen al Archivo Judicial los que procedieran;
+
+V. Llevar los libros que prevenga la Ley, o que el Magistrado de la Sala le encomiende;
+
+VI. Practicar las diligencias que se ordenen en los asuntos de la competencia de la Sala;
+
+VII. Preparar el acuerdo de trámite con la oportunidad debida;
+
+VIII. Dar cuenta, dentro de las veinticuatro horas siguientes a la de la presentación de los oficios, promociones o expedientes que ameriten resolución;
+
+IX. Redactar los acuerdos que se dicten y vigilar que reciban el debido cumplimiento;
+
+X. Redactar las actas de los asuntos que se tramiten, recabando la firma y firmándolas a su vez;
+
+XI. Autenticar y dar fe de las actas, providencias, acuerdos y resoluciones;
+
+XII. Expedir constancias y certificaciones, previo el acuerdo respectivo;
+
+XIII. Vigilar el despacho oportuno de la correspondencia;
+
+XIV. Recibir los escritos que se presenten, asentando al calce la razón, el día y hora de presentación, imprimiendo en ellos el sello oficial con la firma de recibido, expresando el número de anexos. Asimismo, deberá poner razón idéntica en la copia que quede en poder del interesado, pudiendo recibirlos a través de su personal en las horas de oficina;
+
+XV. Preparar aquellos proyectos que los Magistrados le encomienden, procurando ceñirse a las instrucciones que reciba;
+
+XVI. Hacer las notificaciones que le encomienden o entregar, para el mismo efecto, los expedientes al actuario;
+
+XVII. Guardar bajo su responsabilidad los pliegos, documentos, valores y expedientes que la Ley o el Superior dispongan, y entregarlos con las formalidades legales, mientras no se envíen al Archivo Judicial los que procedieren; y
+
+XVIII. Llevar los siguientes libros de registro: de tocas penales, de tocas civiles, de amparos, de quejas administrativas, de peritos, de cedulas profesionales, de inhabilitaciones, de despachos, de diligencias actuariales, de registro de expedientillos, de registro de oficios emitidos y demás que las leyes o que el Superior le encomiende. Al efecto se podrán omitir algunos o todos los registros en los libros a que se refiere la presente fracción, cuando a consideración del Pleno, se cumpla con el registro y control mediante el sistema de gestión electrónico.
+
+###### Artículo 35.
+
+Corresponde a los Secretarios de Estudios y Proyectos de las Salas:
+
+I. Preparar los proyectos de resoluciones y sentencias en todos los asuntos que los Magistrados les encomiende, de acuerdo a las instrucciones al efecto recibidas;
+
+II. Guardar bajo su más estricta responsabilidad, los expedientes cuyos proyectos se le encomienden;
+
+III. Entregar al Magistrado los expedientes en el término que se le conceda para elaborar su proyecto; y
+
+IV. Las demás funciones que les encomiende el Magistrado de la Sala, esta Ley y su reglamento.
+
+###### Artículo 36.
+
+Las resoluciones que dicten el Pleno y las Salas del Tribunal Superior de Justicia serán notificadas a las partes por los Secretarios, Actuarios y Notificadores, en los términos de los Códigos de Procedimientos respectivos.
+
+###### Artículo 37.
+
+Los Secretarios de Acuerdos y los Actuarios, así como los Notificadores adscritos a los Juzgados Penales del Sistema Acusatorio, tienen fe pública en el desempeño de las funciones que se les encomienden y autenticarán con su firma las diligencias y notificaciones.
+
+###### Artículo 38.
+
+Los Actuarios de las Salas lo serán también del Pleno y la Presidencia del Tribunal y del Consejo de la Judicatura, y desempeñarán las labores que la Ley o sus Superiores les encomienden.
+
+###### Artículo 39.
+
+Los servidores públicos del Poder Judicial deberán ser mexicanos, mayores de edad, de notoria buena conducta y capacitados para el empleo que sean nombrados.
+
+## TÍTULO CUARTO. DE LOS JUZGADOS
+
+### CAPÍTULO PRIMERO. DE LOS JUZGADOS DE PRIMERA INSTANCIA
+
+###### Artículo 40.
+
+En cada Partido Judicial habrá el número necesario de Juzgados de Primera Instancia que determine el Pleno del Consejo, los cuales serán integrados por los Jueces de la materia que les corresponda.
+
+Previo acuerdo del Pleno del Consejo, se fijará la jurisdicción y la competencia en las materias penal, civil, familiar, mercantil y mixta de dichos órganos jurisdiccionales.
+
+###### Artículo 41.
+
+Los Jueces del Poder Judicial deberán residir en sus respectivos Partidos Judiciales y no podrán ausentarse de su circunscripción territorial, sin licencia previa del Presidente del Consejo de la Judicatura.
+
+###### Artículo 42.
+
+Para ser Juez de Primera Instancia, se requiere:
+
+I. Ser ciudadana o ciudadano Sudcaliforniano, en pleno ejercicio y goce de sus derechos;
+
+II. Tener 30 años de edad cumplidos al día de su designación;
+
+III. Tener Título y Cédula de Licenciado en Derecho, debidamente expedido y registrado conforme a la Ley;
+
+IV. Acreditar tener por lo menos cinco años de ejercicio profesional o tres años dentro del Poder Judicial, los cuales se contarán a partir de la fecha de la expedición del Título Profesional y cédula profesional;
+
+V. Tener reconocida honradez, probidad y buena conducta;
+
+VI. No ser ministro de culto alguno;
+
+VII. No tener impedimento físico ni enfermedad que lo imposibilite para el ejercicio de su cargo;
+
+VIII. No haber sido condenado en sentencia ejecutoria por delito doloso, ni estar siendo procesado por ilícito de la misma naturaleza; y, tampoco haber sido sancionado en procedimiento ni estar sujeto al mismo por responsabilidad administrativa;
+
+IX. Acreditar que cuenta con los conocimientos, habilidades y capacidades que se requieran para el desempeño de su cargo, para lo cual deberá acreditar que cursó y aprobó la especialización que al efecto establezcan las disposiciones reglamentarias;
+
+X. Acreditar con examen toxicológico que no hace uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; y
+
+XI. No padecer alcoholismo.
+
+En el nombramiento de los Jueces, el Pleno del Consejo tendrá en cuenta preferentemente a quienes estén prestando sus servicios con eficiencia y probidad en el Poder Judicial.
+
+###### Artículo 43.
+
+En materia Civil los Jueces de Primera Instancia conocerán:
+
+I. De los asuntos de jurisdicción voluntaria;
+
+II. De los procesos que versen sobre la propiedad y demás derechos reales;
+
+III. De los demás asuntos de jurisdicción contenciosa, común o concurrente; así como de lo relativo a concursos, suspensiones de pagos y quiebras;
+
+IV. De los actos prejudiciales;
+
+V. De los interdictos;
+
+VI. De la diligenciación de los exhortos, rogatorias y despachos;
+
+VII. De los conflictos de competencia que se susciten entre los Jueces Menores y de Paz de sus respectivos partidos judiciales;
+
+VIII. De las controversias del orden civil que se susciten entre particulares, con motivo de aplicación de leyes federales, cuando el actor elija los tribunales del orden común, en los términos de la fracción I del artículo 104 de la Constitución Política de los Estados Unidos Mexicanos;
+
+IX. De los asuntos de la competencia del Juez de Primera Instancia en materia familiar del mismo partido judicial en los casos de excusa o recusación del mismo, siempre que no exista otro juez familiar que pueda conocer del asunto o cuando los que existan se encuentren impedidos;
+
+X. Del procedimiento de extinción de dominio; y
+
+XI. De los demás asuntos que les encomienden las Leyes.
+
+###### Artículo 44.
+
+En materia mercantil los Jueces de Primera Instancia conocerán de los asuntos que por materia le correspondan de conformidad con el Código de Comercio, la Ley General de Títulos y Operaciones de Crédito, los Códigos Civil y de Procedimientos Civiles, ambos federales, y de aquellos que por su jurisdicción concurrente o delegada les confieran otras leyes.
+
+Asimismo conocerán de los asuntos de la competencia del Juez de Primera Instancia en materia civil del mismo partido judicial en los casos de excusa o recusación del mismo, siempre que no exista otro juez civil que pueda conocer del asunto o cuando los que existan se encuentren impedidos.
+
+El Poder Judicial contará con Jueces de Primera Instancia en materia mercantil especializados en juicios orales, en términos del Código de Comercio.
+
+###### Artículo 45.
+
+En materia Penal del sistema tradicional los Jueces de Primera Instancia del sistema tradicional conocerán:
+
+I. De los delitos que se cometan en la circunscripción territorial del partido judicial que sea de su competencia;
+
+II. De los incidentes civiles que surjan en los negocios que ante ellos se tramiten;
+
+III. De los conflictos de competencias, que se susciten entre los Jueces Menores y de Paz de sus Partidos Judiciales;
+
+IV. De la diligenciación de los exhortos, rogatorias y despachos que deba hacerse dentro de su jurisdicción; y
+
+V. De los demás asuntos que les encomienden las Leyes.
+
+###### Artículo 46.
+
+Los Jueces de Ejecución de Sanciones Penales tendrán las siguientes atribuciones:
+
+I. Respetar y garantizar al sentenciado y a la víctima u ofendido el goce de los derechos humanos que les reconoce la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano, la Constitución del Estado Libre y Soberano del Estado de Baja California Sur y demás ordenamientos aplicables;
+
+II. Garantizar que la sentencia definitiva se ejecute en sus términos, de conformidad con lo prescrito en la ley y que, los derechos del sentenciado no se restrinjan más allá de lo resuelto en dicho fallo;
+
+III. Resolver en audiencia oral en términos del artículo 51, a) fracción VIII de la Ley de Ejecución de Sanciones y Medidas de Seguridad para el Estado de Baja California Sur, las peticiones y planteamientos que le hagan las partes, siempre que ameriten debate, bajo los principios rectores del sistema acusatorio;
+
+IV. Vigilar que el sistema penitenciario se organice sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad;
+
+V. Garantizar a las partes el acceso a intérpretes y traductores en los casos necesarios;
+
+VI. Resolver sobre la extinción, modificación, suspensión o sustitución de las penas o medidas de seguridad impuestas;
+
+VII. Ordenar el cumplimiento de las sanciones distintas a la privativa de libertad, así como ordenar el cumplimiento de las sanciones que, por sentencia judicial, sustituyan a la pena de prisión o a la multa o concedan la condena condicional;
+
+VIII. Ordenar el cumplimiento de las medidas impuestas a inimputables;
+
+IX. Decretar como medidas de seguridad, la custodia del interno que padezca enfermedad mental de tipo crónico, continuo e irreversible a cargo de una institución del sector salud, representante legal o tutor, para que se le brinde atención, trato y tratamiento de tipo asilar;
+
+X. Sustanciar el procedimiento para el cumplimiento de la reparación del daño;
+
+XI. Vigilar y garantizar la ejecución de los acuerdos reparatorios generados como solución alterna del procedimiento;
+
+XII. Garantizar a los sentenciados su defensa técnica en el procedimiento de ejecución;
+
+XIII. Revocar los beneficios otorgados cuando se actualice algún supuesto contenido en la ley aplicable;
+
+XIV. Ordenar la aprehensión o reaprehensión del sentenciado cuando proceda;
+
+XV. Aplicar la ley más favorable a los sentenciados;
+
+XVI. Solicitar información sobre el Programa de Reinserción aplicado a los internos;
+
+XVII. Conocer y resolver sobre las solicitudes de beneficios preliberacionales que supongan una modificación en las condiciones de cumplimiento de la condena;
+
+XVIII. Resolver las peticiones de traslado que formulen internos o autoridades a otras entidades federativas;
+
+XIX. Conocer de los incidentes y medios de impugnación que surjan con motivo de la ejecución de las sanciones;
+
+XX. Declarar la extinción de las sanciones y entregar al sentenciado la constancia formal de libertad definitiva;
+
+XXI. Resolver con aplicación del procedimiento previsto para la queja, las peticiones o quejas que los internos formulen en relación con el régimen y el programa penitenciario en cuanto afecten sus derechos fundamentales;
+
+XXII. Imponer las medidas de apremio que procedan para hacer cumplir sus determinaciones;
+
+XXIII. Visitar periódicamente los centros penitenciarios para conocer de las peticiones y quejas que le hagan los sentenciados;
+
+XXIV. Expedir constancias y certificaciones previa resolución judicial.
+
+XXV. Ejercer aquellas atribuciones previstas para los jueces de control en el artículo 55, fracciones II, XXII, XXIII y XXIV de esta Ley; y
+
+XXVI. Las demás que otros ordenamientos y los Acuerdos Generales le confieran.
+
+###### Artículo 47.
+
+En Justicia para Adolescentes, los Jueces Especializados tendrán las siguientes atribuciones:
+
+I. Conocer de las causas instauradas en contra de las personas a quienes se impute la realización de un acto tipificado como delito en las leyes locales, teniendo entre doce años cumplidos y menos de dieciocho años de edad;
+
+II. Respetar, proteger y garantizar a los adolescentes y a la víctima u ofendido el goce de sus derechos humanos que les reconoce la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano, la Constitución del Estado Libre y Soberano de Baja California Sur y demás ordenamientos aplicables;
+
+III. Promover los mecanismos alternativos de justicia entre el adolescente y la víctima u ofendido, a fin de cumplir con los principios de mínima intervención y subsidiariedad y en su caso, decretar la suspensión del procedimiento por arreglo conciliatorio;
+
+IV. Resolver los asuntos sometidos a su conocimiento, conforme a los plazos y términos previstos en la Ley;
+
+V. Resolver sobre las medidas a imponer, atendiendo los principios de culpabilidad por el acto, proporcionalidad y racionalidad, así como a las circunstancias, gravedad de la conducta, características y necesidades de los adolescentes; y
+
+VI. Las demás que otros ordenamientos le confieran.
+
+###### Artículo 48.
+
+En materia familiar los Jueces de Primera Instancia conocerán de:
+
+I. Los asuntos judiciales relativos al estado civil de las personas, a su capacidad y los derivados del parentesco;
+
+II. Los asuntos contenciosos relativos al matrimonio, a su ilicitud o nulidad y al divorcio, incluyendo los que se refieran al régimen de bienes en el matrimonio;
+
+III. Los asuntos que tengan por objeto modificaciones, o rectificaciones de las actas del Registro Civil;
+
+IV. Los asuntos que afecten al parentesco, a los alimentos, a la paternidad y a la filiación legítima natural o adoptiva;
+
+V. Los asuntos que tengan por objeto cuestiones derivadas de la patria potestad, estado de interdicción, tutela, cuestiones de ausencias y de presunción de muerte;
+
+VI. Los asuntos que se refieren a cualquier cuestión relacionada con el patrimonio de la familia, así como su constitución, disminución, extinción o afectación de cualquier forma;
+
+VII. Los asuntos de jurisdicción voluntaria relacionados con el derecho familiar;
+
+VIII. Los juicios sucesorios;
+
+IX. De los asuntos de la competencia del Juez de Primera Instancia en materia civil del mismo partido judicial en los casos de excusa o recusación del mismo, siempre que no exista otro juez civil que pueda conocer del asunto o cuando los que existan se encuentren impedidos.
+
+X. La diligenciación de los exhortos, rogatorias, requisitorias y despachos, relacionados con el derecho familiar;
+
+XI. Mantener actualizado el Sistema de Gestión Judicial; y
+
+XII. Las demás controversias del orden familiar.
+
+###### Artículo 49.
+
+Corresponde a los Jueces de Primera Instancia:
+
+I. Cumplir y hacer cumplir con estricto apego a la Ley, las determinaciones que ellos, el Presidente o el Pleno del Tribunal ordenen; así como atender las excitativas y llamados de la Superioridad, desempeñando eficazmente las comisiones que la misma les confiera;
+
+II. Actuar con Secretarios de Acuerdos o testigos de asistencia, a excepción de los jueces de control, del tribunal de enjuiciamiento, y de ejecución de sanciones penales en el sistema penal acusatorio;
+
+III. Remitir al Presidente del Consejo de la Judicatura, dentro de los primeros cinco días hábiles de cada mes, la estadística de los asuntos que se hayan ventilado en el Juzgado a su cargo durante el mes inmediato anterior. En caso de los juzgados penales del sistema acusatorio, dicha obligación recaerá en el Coordinador Administrativo de Juzgado;
+
+IV. En materia penal practicar mensualmente una visita de inspección al Centro de Reinserción Social de su residencia, para cerciorarse del estado del mismo y del trato que reciben los internos sujetos a proceso, debiendo dar aviso de inmediato al Tribunal Superior de Justicia de los abusos o deficiencias que advirtiere;
+
+V. Rendir a las autoridades Federales, Estatales y Municipales los datos e informes estadísticos que le soliciten conforme a la Ley, en caso de los juzgados penales del sistema acusatorio, dicha obligación recaerá en el Coordinador Administrativo de Juzgado;
+
+VI. Promover los mecanismos alternativos de justicia entre las partes, a fin de cumplir con los principios de mínima intervención y subsidiariedad y en su caso, decretar la suspensión del procedimiento por arreglo conciliatorio, en los casos que la Ley lo permita;
+
+VII. Vigilar que se lleven al corriente los siguientes libros:
+
+a) De gobierno, para control de las entradas, salidas y estado de los asuntos de cada ramo;
+
+b) De registro de promociones;
+
+c) De conocimiento, para entrega y recibo de expedientes y comunicaciones;
+
+d) De remisión de exhortos y despachos para cada ramo;
+
+e) De recepción de exhortos y despachos para cada ramo;
+
+f) De entrega y recibo de expedientes al Archivo Judicial;
+
+g) De registro de presentaciones de procesados libres bajo caución;
+
+h) De registro de valores en cada ramo;
+
+i) De registro de objetos e instrumentos del delito; y
+
+j) Las demás que mediante Acuerdos Generales determine el Consejo de la Judicatura;
+
+Se podrán omitir algunos o todos los registros en los libros a que se refiere la presente fracción, cuando a consideración del Pleno del Consejo y por acuerdo notificado al Juez correspondiente, se cumpla con el registro y control mediante el sistema de gestión electrónico que se lleve en el juzgado respectivo.
+
+En caso de los juzgados penales del sistema acusatorio, la obligación a que se refiere esta fracción recaerá en el Coordinador Administrativo de Juzgado;
+
+VIII. Calificar las excusas y recusaciones de sus Secretarios y actuarios;
+
+IX. Corregir las faltas de sus Secretarios y demás servidores públicos conforme al Título Octavo de esta Ley, siempre que no sean de trascendencia tal que ameriten dar inicio a la denuncia por responsabilidad administrativa. En caso de los juzgados penales del sistema acusatorio, dicha obligación recaerá en el Coordinador Administrativo de Juzgado;
+
+X. Conceder licencias a los servidores públicos de su adscripción hasta por tres días, en caso de los Juzgados penales del sistema acusatorio, dicha obligación recaerá en el Coordinador Administrativo de Juzgado;
+
+XI. Vigilar la buena conducta así como la disciplina del personal a su cargo;
+
+XII. Mantener actualizado el Sistema informático de Gestión Judicial.
+
+XIII. Vigilar que se remitan oportunamente al Archivo Judicial, los expedientes que ordene esta Ley; en caso de los juzgados penales del sistema acusatorio, dicha obligación recaerá en el Coordinador Administrativo de Juzgado;
+
+XIV. Hacer uso de los sistemas de reproducción a distancia vía videoconferencia, para recabar los testimonios o realizar diligencias en las que deban intervenir personas que se encuentren o residan fuera de la circunscripción territorial del Juzgado; debiendo conservar en el expediente el registro escrito o audiovisual de la diligencia, según corresponda; y
+
+XV. Las demás atribuciones y obligaciones que les señalen las Leyes y otros ordenamientos.
+
+###### Artículo 50.
+
+En materia mercantil, penal acusatoria y oral, en materia de justicia para adolescentes, y en materia de ejecución de sanciones penales, tendrán validez y eficacia los documentos públicos originales de registro, los archivos de documentos, mensajes, imágenes, banco de datos y toda aplicación almacenada o transmitida por medios electrónicos, informáticos, magnéticos, ópticos, telemáticos o producidos por nuevas tecnologías, destinados a la tramitación judicial, ya sea que registren actos o resoluciones judiciales. Lo anterior siempre que cumplan con los procedimientos establecidos para garantizar su autenticidad, integridad y seguridad.
+
+Las alteraciones que afecten la autenticidad o integridad de dichos soportes los harán perder el valor jurídico que se les otorga en el párrafo anterior.
+
+Cuando un juez de las referidas materias utilice los medios indicados en el primer párrafo de este artículo para hacer constar sus actos o resoluciones, los medios de protección del sistema resultarán suficientes para acreditar su autenticidad.
+
+Las autoridades judiciales de la materia penal en el sistema acusatorio, así como las especializadas en justicia para adolescentes y de ejecución de sanciones penales, podrán utilizar los medios referidos para comunicarse oficialmente entre sí, remitiéndose informes, comisiones y cualquier otra documentación. Las partes en materia penal también podrán utilizar esos medios para presentar sus solicitudes y recursos ante los tribunales, salvo que su presentación deba ser por escrito conforme a la ley.
+
+El Pleno del Consejo expedirá el Reglamento o los acuerdos necesarios para normar el envío, recepción, trámite y almacenamiento de los citados medios de comunicación, para garantizar su seguridad y conservación, así como para determinar el acceso del público o de las partes a la información contenida en las bases de datos conforme a la ley.
+
+###### Artículo 51.
+
+En caso de impedimento legal de un Juez de Primera Instancia en los Partidos Judiciales donde existan dos o más, conocerá del asunto el Juez del mismo ramo que corresponda y que no esté impedido. Si sólo existiera un Juez o todos tuvieren que eximirse, conocerá del asunto el Juez de la misma categoría y ramo, con residencia más próxima.
+
+###### Artículo 52.
+
+Los Jueces de Primera Instancia actuarán con funciones de Juez Menor y de Paz dentro de su Partido Judicial, en todos aquellos lugares en donde no existan éstos.
+
+### CAPÍTULO SEGUNDO
+
+DE LOS JUZGADOS PENALES DEL SISTEMA ACUSATORIO, LOS JUZGADOS ESPECIALIZADOS EN EL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, LOS JUZGADOS DE EJECUCIÓN Y LA COORDINACIÓN ADMINISTRATIVA DE JUZGADOS
+
+#### SECCIÓN I. DE LOS JUZGADOS PENALES DEL SISTEMA ACUSATORIO
+
+###### Artículo 53.
+
+Los Juzgados penales del sistema acusatorio se integrarán por Jueces de Control; así como por el personal administrativo y auxiliar que cada uno de éstos requiera; los Tribunales de Enjuiciamiento serán integrados por Jueces diversos a los que hayan conocido de las causas penales en etapas previas a la de juicio.
+
+Los Tribunales de Enjuiciamiento serán colegiados e integrados por tres Jueces de Control, en aquellas causas penales que tengan como materia del Juicio los delitos de homicidio doloso y violación, en todas las modalidades previstas en el Código Penal Para el Estado, así como cuando se trate de los delitos de secuestro y trata de personas, previstos en las Leyes Generales de esas materias; también será colegiado el Tribunal de Enjuiciamiento, cuando en una misma causa sean tres o más acusados o sean materia del juicio tres o más delitos; en los demás casos, el Tribunal de Enjuiciamiento será unipersonal y estará conformado por un Juez de Enjuiciamiento que no haya conocido de las etapas previas al Juicio de que se trate.
+
+Los Jueces de Control deberán residir en su respectivo Partido Judicial, y no podrán ausentarse de su circunscripción territorial sin licencia previa del Presidente del Consejo de la Judicatura, a excepción de aquellos Jueces de Control que sean comisionados para integrar (sic) Tribunal de Enjuiciamiento, o cuando se requiera la realización de un acto procesal que amerite su traslado fuera de su circunscripción territorial, ante la imposibilidad de lograr la comparecencia de la víctima o un testigo por su edad, enfermedad grave o por alguna otra imposibilidad física o psicológica; en el primer supuesto podrán hacerlo previa comisión otorgada por la Presidencia del Consejo de la Judicatura para ese efecto; y en el segundo previo aviso fundado y motivado al mencionado órgano.
+
+###### Artículo 54.
+
+En el proceso penal acusatorio, los Jueces de Control tendrán facultad para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video o se transcriban.
+
+###### Artículo 55.
+
+Corresponde a los Jueces de Control, dentro de las etapas previas a la de juicio:
+
+I. Respetar, proteger y garantizar que se respeten los derechos humanos del imputado y de la víctima u ofendido, así como la salvaguarda de todos los que intervienen en el procedimiento;
+
+II. Resolver los asuntos sometidos a su consideración con la debida diligencia, dentro de los términos previstos en la ley y con sujeción a los principios que deben regir el ejercicio de la función jurisdiccional;
+
+III. Informar a la embajada o consulado correspondiente, la detención de un imputado extranjero que sea puesto a su disposición;
+
+IV. Notificar a la embajada o consulado correspondiente, en caso de que la víctima u ofendido sea extranjera (sic);
+
+V. Garantizar a las partes el acceso a intérpretes y traductores en los casos necesarios;
+
+VI. Ordenar a favor de la víctima u ofendido la restitución de bienes, objetos, instrumentos o productos del delito, o bien la reposición de las cosas al estado en que se encontraban antes del hecho delictivo;
+
+VII. Resolver de manera inmediata y por cualquier medio, sobre la solicitud de orden de cateo, aprehensión, detención, presentación, o comparecencia que solicite el ministerio público; así como de la realización de aquellos actos de investigación de la autoridad que requieran autorización judicial previa, garantizando los derechos de los imputados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre Jueces y ministerio público, y demás autoridades competentes;
+
+VIII. Realizar el control de la legalidad de la detención en los casos de flagrancia, caso urgente o cumplimiento de orden de aprehensión;
+
+IX. Dirigir la audiencia inicial, la audiencia intermedia y emitir las decisiones que en ellas corresponda, así como celebrar cualquier otra audiencia que legalmente le sea solicitada y asumir las decisiones atinentes al caso;
+
+X. Resolver sobre el desahogo de la prueba anticipada;
+
+XI. Resolver sobre la imposición, modificación, sustitución, cancelación o revocación de las medidas cautelares y providencias precautorias de carácter real o personal que les sean solicitados por quien esté legitimado para ello y que resulten indispensables para el desarrollo del procedimiento;
+
+XII. Conocer sobre las soluciones alternas del procedimiento en los términos que la ley señale;
+
+XIII. Aprobar los acuerdos reparatorios asumidos como solución alterna del procedimiento o cuando el proceso ya se haya iniciado, o independientemente de esto, que sean de cumplimiento diferido;
+
+XIV. Conocer del procedimiento abreviado y dictar la resolución correspondiente;
+
+XV. Resolver las impugnaciones que haga la víctima u ofendido sobre las omisiones del ministerio público en la investigación de los delitos, así como en torno a las resoluciones que emita respecto de la abstención de investigar, el archivo temporal, la aplicación de algún criterio de oportunidad o el no ejercicio de la acción penal;
+
+XVI. Dar vista al Procurador sobre el ocultamiento en que incurra el ministerio público sobre prueba favorable a la defensa, y de la cual aquel haya tenido conocimiento;
+
+XVII. Abstenerse de presentar en público al imputado como culpable;
+
+XVIII. Autorizar dentro del auto de apertura a juicio oral, el auxilio judicial a las partes, cuando éstas así lo soliciten;
+
+XIX. Resolver el recurso de revocación que interpongan las partes;
+
+XX. Resolver sobre la declaración de abandono de bienes asegurados o la devolución de los mismos;
+
+XXI. Conocer del procedimiento de la acción penal privada;
+
+XXII. Garantizar que se mantenga el orden en las salas de audiencias, así como restringir el acceso a las audiencias a las personas, en los casos que sea procedente;
+
+XXIII. Rendir los informes previos y justificados solicitados por las autoridades judiciales federales, a través del Coordinador Administrativo del Juzgado;
+
+XXIV. Rendir en el plazo de veinticuatro horas, los informes requeridos por el Pleno del Consejo en torno a las quejas que fueren planteadas por las partes;
+
+XXV. Expedir constancias y certificaciones previa resolución respectiva; y
+
+XXVI. Las demás que establezca el Código Nacional de Procedimientos Penales, las leyes aplicables y los Acuerdos Generales que emita el Pleno del Consejo.
+
+Los Jueces de Control y el Tribunal de Enjuiciamiento ejercerán su jurisdicción en todo el territorio del Estado, con independencia de la circunscripción territorial del Juzgado y Partido Judicial al que estén adscritos los primeros o bien del lugar donde se encuentre radicada la causa penal que motive el Juicio en el caso del segundo, cuando se requiera la realización de un acto procesal que amerite su traslado fuera de esa circunscripción territorial, ante la imposibilidad de lograr la comparecencia de la víctima o un testigo por su edad, enfermedad grave o por alguna otra imposibilidad física o psicológica, o bien al ordenar una citación o solicitud de informe.
+
+El traslado de Los Jueces de Control y del Tribunal de Enjuiciamiento fuera de la circunscripción territorial de los primeros o del lugar donde se encuentre radicada la causa penal que motive el Juicio, en el caso del segundo se llevará a cabo sólo ante la imposibilidad de practicar vía videoconferencia en tiempo real el acto procesal de que se trate, garantizando la identidad e intervención de las partes y el cumplimiento del principio de inmediación, así como el debido registro de la audiencia.
+
+###### Artículo 56.
+
+El Tribunal de Enjuiciamiento estará investido de fe pública para constancia y certificación de los actos que dicho órgano realice.
+
+El Tribunal de Enjuiciamiento tendrá las siguientes atribuciones:
+
+I. Actuar en forma unitaria o colegiada al momento de emitir sus resoluciones y cuando alguna de las partes interponga la revocación respecto de una decisión emitida en audiencia;
+
+II. Dirigir la audiencia de juicio oral desde el momento en que se declare legalmente instalado el Tribunal hasta aquél en que declare cerrado el debate y se proceda a la fase de deliberación para concluir con la lectura y explicación de sentencia, en los términos previstos por la legislación procesal;
+
+III. Deliberar unitaria o colegiadamente para determinar si se considera o no probada la responsabilidad del acusado y en su caso, la fijación de la sanción aplicable;
+
+IV. Dirigir la audiencia de lectura y explicación de sentencia;
+
+V. Aclarar, de oficio o a petición de parte la sentencia que emita, cuando ésta sea oscura, ambigua o contradictoria, siempre que ello no modifique o altere el sentido de la resolución;
+
+VI. Remitir la sentencia cuando ésta sea de carácter condenatorio y haya causado ejecutoria, al juez de ejecución de sanciones penales;
+
+VII. Ejercer el poder de disciplina, cuidar que se mantenga el buen orden, exigir que se guarde respeto y consideraciones debidas a ellos y a los demás intervinientes de la audiencia, así como restringir el acceso a las audiencias a las personas, en los casos que sea procedente;
+
+VIII. Representar al Tribunal de Enjuiciamiento en el trámite de juicio de amparo, cuando se interponga en la etapa de juicio oral o posterior a ella cuando aquel sea señalado como autoridad responsable;
+
+IX. Ejercer aquellas atribuciones previstas para los jueces de control en el artículo 55, establecidas en las fracciones I, II, V, XIX, XXI, XXII, XXIII, XXIV, y XXV de esta Ley; y
+
+X. Las demás que establezca el Código Nacional de Procedimientos Penales, las leyes aplicables y los Acuerdos Generales que emita el Pleno del Consejo.
+
+Tratándose de Tribunales de Enjuiciamiento Colegiados; las atribuciones a que se refieren las fracciones II, IV, VII y VIII del presente artículo, las llevará a cabo específicamente quien funja como Presidente.
+
+#### SECCIÓN II. DE LOS JUZGADOS ESPECIALIZADOS EN EL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES
+
+###### Artículo 57.
+
+Los Juzgados Especializados en el Sistema Integral de Justicia Penal para Adolescentes, tendrán la competencia territorial que mediante Acuerdos Generales establezca el Pleno del Consejo.
+
+Los Jueces de Control, el Tribunal de Enjuiciamiento y los Jueces de Ejecución especializados en el Sistema Integral de Justicia Penal para Adolescentes ejercerán las facultades que establece la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes y las Leyes de aplicación supletorias en la materia.
+
+El Tribunal de Enjuiciamiento especializado en el Sistema Integral de Justicia Penal para Adolescentes se integrará por un Juez de Control Especializado en la materia, que no haya conocido del asunto en las etapas previas al juicio oral que deba resolver.
+
+#### SECCIÓN III. DE LOS JUZGADOS ESPECIALIZADOS EN EJECUCIÓN PENAL
+
+###### Artículo 58.
+
+Los Juzgados Especializados en Ejecución Penal, tendrán la competencia territorial que mediante Acuerdos Generales establezca el Pleno del Consejo.
+
+Los Jueces Especializados en Ejecución Penal tendrán la competencia material, facultades y obligaciones que establece la Ley Nacional de Ejecución Penal y las Leyes de aplicación supletorias en la materia.
+
+#### SECCIÓN IV. DE LA COORDINACIÓN ADMINISTRATIVA DE JUZGADOS
+
+###### Artículo 59.
+
+La Coordinación Administrativa es una instancia auxiliar en la operación de los Juzgados que comprende el presente Capítulo y tiene como objetivo general brindar el apoyo necesario, para la preparación, programación y celebración de audiencias, contando con las siguientes atribuciones:
+
+I. Dirigir las labores administrativas de los Juzgados Penales del Sistema Acusatorio, de los Juzgados Especializados en el Sistema Integral de Justicia Penal Para Adolescentes, y los Juzgados de Ejecución;
+
+II. Vigilar y controlar el buen desempeño de los servidores públicos a su cargo en el ejercicio de las funciones encomendadas, conforme a lo dispuesto por las leyes;
+
+III. Proveer, en la esfera administrativa, la programación de las diligencias a desarrollarse en las Salas de Audiencias a su cargo y, en general, todas las medidas necesarias para la buena marcha de los Juzgados o Salas;
+
+IV. Remitir a la Presidencia del Consejo de la Judicatura, dentro de los primeros cinco días hábiles de cada mes, un informe estadístico, sobre los trámites realizados en los juzgados Penales del Sistema Acusatorio y las Salas Penales, durante el mes inmediato anterior;
+
+V. Vigilar la conservación y funcionalidad de los bienes muebles e inmuebles asignados, debiendo poner en inmediato conocimiento al área correspondiente sobre cualquier deterioro que sufran;
+
+VI. Custodiar los bienes y valores que se encuentren a disposición de los Juzgados o Tribunales con motivo de la tramitación de los asuntos;
+
+VII. Entregar y recibir bajo riguroso inventario los bienes y valores a que se refieren las dos fracciones anteriores, cuando se requiera;
+
+VIII. Distribuir los asuntos entre los jueces del sistema acusatorio por turno riguroso, respetando la agenda previamente establecida;
+
+IX. Establecer los modelos de gestión para el funcionamiento de los Juzgados y salas Penales del sistema acusatorio;
+
+X. Establecer y mantener actualizados, en coordinación con el Director de la Escuela Judicial, los programas de capacitación al personal administrativo de los Juzgados y salas Penales del sistema acusatorio.
+
+XI. Presentar al Pleno del Consejo, para su aprobación, los manuales de operación de la Coordinación Administrativa;
+
+XII. Expedir constancias, previo el acuerdo respectivo;
+
+XIII. Determinar la conformación del Tribunal de Enjuiciamiento y en caso de que este se deba integrar colegiadamente, designar a los Jueces de Control que fungirán respectivamente como Presidente y Relator.
+
+En aquellos casos en que no sea posible conformar el Tribunal de Enjuiciamiento en virtud de que los Jueces de Control adscritos al Partido Judicial del lugar del Juicio, se encuentren impedidos en virtud de excusa, impedimento legal o por haber conocido de las etapas previas a la de juicio, el Coordinador Administrativo deberá solicitar con la debida oportunidad al Presidente del Consejo de la Judicatura, proceda a Comisionar a los Jueces de Control necesarios para constituir el Tribunal de Enjuiciamiento, a fin de que estos puedan actuar con tal carácter en un partido judicial diverso al de su adscripción; debiendo precisar en su solicitud los nombres de los Jueces de Control que hayan conocido de las etapas del procedimiento previas a la de Juicio o bien de los que se encuentren legalmente impedidos;
+
+XIV. Prestar a las partes, el auxilio judicial establecido dentro del auto de apertura a juicio oral;
+
+XV. Entregar los oficios y citaciones remitidos por los Jueces de Control o Tribunales de Enjuiciamiento en los casos previstos en el antepenúltimo párrafo del artículo 55 de la presente Ley, así como cuando dichos oficios y citaciones sean emitidos por los mencionados órganos jurisdiccionales adscritos o actuando en la misma sede de la Coordinación Administrativa;
+
+XVI. Dar contestación mediante oficio administrativo, a las solicitudes de información o requerimientos dirigidos al Juez de Control o Tribunal de Enjuiciamiento, cuya respuesta no implique un acto de carácter jurisdiccional;
+
+XVII. Delegar atribuciones en las Jefaturas de las Unidades de Sala y Causa, en aquellas sedes en las que no exista un Coordinador Administrativo y cuando así lo ameriten las necesidades del servicio; y
+
+XVIII. Las demás que señalen las Leyes aplicables y los Acuerdos Generales que emita el Pleno del Consejo.
+
+#### SECCIÓN V. DISPOSICIONES COMUNES
+
+###### Artículo 60.
+
+El Poder Judicial contará con las Coordinaciones Regionales que permita el presupuesto, así como con los jefes de unidad, encargados de área y demás servidores públicos que sean necesarios para el buen funcionamiento de los órganos jurisdiccionales previstos en el presente Capítulo y el Tribunal de Alzada.
+
+Asimismo las Coordinaciones Administrativas contarán con notificadores dotados de fe pública, para la práctica de las notificaciones y citaciones que ordenen los órganos jurisdiccionales comprendidos en el presente Capítulo, así como los Magistrados de las Salas Penales y de la Sala Especializada en el Sistema Integral de Justicia Penal Para Adolescentes.
+
+###### Artículo 61.
+
+Para ser Coordinador Administrativo de Juzgado se requiere:
+
+I. Ser ciudadana o ciudadano Sudcaliforniano, en pleno ejercicio y goce de sus derechos;
+
+II. Tener veintiocho años cumplidos al día de su designación;
+
+III. Ser Licenciado en Derecho o Administración, o carrera afín, con cédula y Título Profesional emitidos por institución legalmente facultada para ello;
+
+IV. Acreditar, cuando menos, cinco años de ejercicio profesional o tres años dentro del Poder Judicial que se contarán a partir de la fecha de la expedición del Título Profesional y cédula;
+
+V. Tener reconocida honradez, probidad y buena conducta;
+
+VI. No ser ministro de culto alguno;
+
+VII. No tener impedimento físico ni enfermedad que lo imposibilite para el ejercicio de su cargo; y
+
+VIII. No haber sido condenado en sentencia ejecutoria por delito doloso, ni estar siendo procesado por ilícito de la misma naturaleza; y, tampoco haber sido sancionado en procedimiento ni estar sujeto al mismo por responsabilidad administrativa.
+
+Para ser Jefe de Unidad de los Juzgados y Salas del Sistema Acusatorio, se deberán cumplir los mismos requisitos establecidos en la presente Ley, para ser Secretario de Acuerdos o Secretario de Estudios y Proyectos de un Juzgado de Primera Instancia, con excepción de los años de ejercicio profesional que para estos últimos se establecen. Para ocupar la Jefatura de la Unidad de Informática, se deberá poseer título y cedula de licenciatura o ingeniería en ciencias de la computación.
+
+Para ser encargado de Área de los Juzgados y Salas del Sistema Acusatorio, deberán cubrir los mismos requisitos establecidos en la presente Ley, para ser Actuario de un Juzgado de Primera Instancia. Para el caso de los Encargados de Área de la Unidad de Informática, se deberá poseer título y cedula de licenciatura o ingeniería en ciencias de la computación.
+
+#### SECCIÓN I. DE LA DIRECCIÓN DE RECURSOS HUMANOS
+
+###### Artículo 62.
+
+Los Jueces de Control y de Enjuiciamiento, el Tribunal de Enjuiciamiento de los Juzgados Penales del Sistema Acusatorio, así como los Jueces de Control, el Tribunal Unitario de Enjuiciamiento y los Jueces de Ejecución Especializados en el Sistema Integral de Justicia Penal Para Adolescentes, y los Jueces de Ejecución Penal, que actúen bajo el régimen del sistema acusatorio en términos de las Leyes Nacionales aplicables, gozarán de fe pública en sus funciones, por lo cual no requerirán la asistencia de los Secretarios de Acuerdos.
+
+### CAPÍTULO TERCERO. DE LOS SECRETARIOS DE ACUERDOS Y DEMÁS SERVIDORES PÚBLICOS DE LOS JUZGADOS DE PRIMERA INSTANCIA
+
+###### Artículo 63.
+
+Para ser Secretario de Acuerdos o Secretario de Estudios y Proyectos de un Juzgado de Primera Instancia se requiere:
+
+I. Ser ciudadana o ciudadano sudcaliforniano, en pleno ejercicio y goce de sus derechos civiles y políticos;
+
+II. Tener 25 años de edad cumplidos el día de la designación;
+
+III. Tener Cédula y Título de Licenciado en Derecho, debidamente expedidos y registrados conforme a la Ley;
+
+IV. Acreditar tener cuando menos tres años de ejercicio profesional o dos años dentro del Poder Judicial, estos últimos se contarán desde la fecha de la expedición del título y cedula profesional.
+
+V. Tener reconocida honradez, probidad y buena conducta;
+
+VI. No ser ministro de culto alguno;
+
+VII. No tener impedimento físico ni enfermedad que lo imposibilite para el ejercicio de su cargo; y
+
+VIII. No haber sido condenado en sentencia ejecutoria por delito doloso, ni estar siendo procesado por ilícito de la misma naturaleza; y, tampoco haber sido sancionado en procedimiento ni estar sujeto al mismo por responsabilidad administrativa.
+
+###### Artículo 64.
+
+Corresponde a los Secretarios de Acuerdos de Primera Instancia:
+
+I. Autenticar con su firma los despachos, exhortos, actas, diligencias, autos y toda clase de resoluciones que se expidan, asienten, practiquen o dicten por el Juez;
+
+II. Guardar e integrar debidamente los expedientes de los asuntos que se tramiten en el área de su adscripción;
+
+III. Conservar en su poder el sello del Juzgado, facilitándolo a los demás Servidores Públicos cuando lo necesiten para el desempeño de sus funciones;
+
+IV. Guardar bajo su responsabilidad los documentos, valores y expedientes, mientras no se remitan al archivo del Juzgado, al Archivo Judicial o al superior, y entregarlo con las formalidades legales cuando deba tener lugar la remisión;
+
+V. Notificar dentro o fuera del Juzgado a las partes con las formalidades legales o entregar para el mismo objeto los expedientes al actuario;
+
+VI. Ejercer vigilancia y tener bajo su dependencia a los demás Servidores Públicos, distribuyéndoles las labores propias de las funciones que desempeñen;
+
+VII. Redactar los acuerdos y actas de los asuntos que se tramiten debiendo ceñirse a las instrucciones del Juez, recabando la firma y autenticándolos a su vez, así como preparar los proyectos que el juez le encomiende;
+
+VIII. Tener a su cargo el archivo del Juzgado, cuidando que esté debidamente ordenado;
+
+IX. Llevar el control de los libros de registro;
+
+X. Dar cuenta, dentro de las veinticuatro horas siguientes a la de la presentación de los oficios, promociones o expedientes que ameriten resolución;
+
+XI. Redactar los acuerdos que se dicten y vigilar que reciban el debido cumplimiento;
+
+XII. Autenticar y dar fe de las actas, providencias, acuerdos y resoluciones;
+
+XIII. Expedir constancias y certificaciones, previo el acuerdo respectivo;
+
+XIV. Vigilar el despacho oportuno de la correspondencia;
+
+XV. Recibir los escritos que se presenten, asentando al calce la razón, el día y hora de presentación, imprimiendo en ellos el sello oficial con la firma de recibido, expresando el número de anexos. Asimismo, deberá poner razón idéntica en la copia que quede en poder del interesado, pudiendo recibirlos a través de su personal en las horas de oficina;
+
+XVI. Hacer las notificaciones que le encomienden o entregar, para el mismo efecto, los expedientes al actuario;
+
+XVII. Suplir la ausencias eventuales de los Jueces de Primera Instancia, con facultades para acordar o diligenciar promociones urgentes, debiendo abstenerse de resolver en cuanto al fondo del asunto; y
+
+XVIII. Las demás que las Leyes y demás ordenamientos le atribuyan, o las autoridades superiores ordenen dentro de sus funciones.
+
+###### Artículo 65.
+
+Corresponde a los Secretarios de Estudios y Proyectos de Primera Instancia:
+
+I. Preparar los proyectos de resoluciones y sentencias en todos los asuntos que el Juez les encomiende, de acuerdo a las instrucciones al efecto recibidas;
+
+II. Guardar bajo su más estricta responsabilidad, los expedientes cuyos proyectos se le encomienden;
+
+III. Entregar al Juez los expedientes en el término que se le conceda para elaborar su proyecto;
+
+IV. Suplir la (sic) ausencias eventuales de los Secretarios de Acuerdos de los Juzgados de primera instancia; y
+
+V. Las demás funciones que les encomiende el Juez, esta Ley y su reglamento.
+
+###### Artículo 66.
+
+Para ser Actuario de un Juzgado de Primera Instancia se requiere:
+
+I. Ser ciudadana o ciudadano sudcaliforniano, en pleno ejercicio y goce de sus derechos civiles y políticos;
+
+II. Tener cumplidos 23 años de edad al día de su designación;
+
+III. Tener cédula profesional y Título de Licenciado en Derecho, debidamente expedido y registrado conforme a la Ley;
+
+IV. Tener reconocida honradez, probidad y buena conducta;
+
+V. No ser ministro de culto alguno;
+
+VI. No tener impedimento físico ni enfermedad que lo imposibilite para el ejercicio de su cargo; y
+
+VII. No haber sido condenado en sentencia ejecutoria por delito doloso, ni estar siendo procesado por ilícito de la misma naturaleza; y, tampoco haber sido sancionado en procedimiento ni estar sujeto al mismo por responsabilidad administrativa.
+
+###### Artículo 67.
+
+Corresponde a los Actuarios adscritos a los Juzgados de Primera Instancia:
+
+I. Permanecer en el Juzgado dentro del horario que al efecto establezca el titular, para hacer las notificaciones a las partes personalmente, cuando aquéllas deban efectuarse en tal forma, sólo en el caso de que los interesados concurran al Juzgado;
+
+II. Recibir de los Secretarios los expedientes de notificaciones personales o de diligencias que deban llevarse a cabo fuera de la oficina del propio Juzgado, firmando el libro respectivo; y
+
+III. Las demás que les fijen las Leyes, el Reglamento de la presente Ley y las que las autoridades superiores les ordenen dentro de sus atribuciones legales.
+
+###### Artículo 68.
+
+Los Actuarios tienen fe pública en el ejercicio de sus funciones.
+
+###### Artículo 69.
+
+Los servidores públicos adscritos a los Órganos y Dependencias del Poder Judicial, desempeñarán sus labores de acuerdo en esta Ley y su Reglamento.
+
+### CAPÍTULO CUARTO. DE LOS JUZGADOS MENORES
+
+###### Artículo 70.
+
+En cada Partido Judicial habrá los Juzgados Menores que requiera (sic) el interés público y la buena marcha de la Administración de Justicia, previo acuerdo del Pleno del Consejo, el cual determinará su domicilio y la jurisdicción de su competencia.
+
+###### Artículo 71.
+
+Los Jueces Menores actuarán con (sic) Secretario de Acuerdos o con dos testigos de asistencia.
+
+###### Artículo 72.
+
+El personal de los Juzgados Menores, se compondrá de un Juez y el número de servidores públicos que determine el Pleno del Consejo.
+
+###### Artículo 73.
+
+Para ser Juez Menor se exigen los requisitos previstos en la presente Ley para ser Secretario de Acuerdos o Secretario de Estudios y Proyectos de un Juzgado de Primera Instancia.
+
+###### Artículo 74.
+
+Para ser Secretario de Acuerdos de un Juzgado Menor deberán reunirse los mismos requisitos previstos en esta Ley para ser Actuario de un Juzgado de Primera Instancia.
+
+###### Artículo 75.
+
+Los Jueces Menores deberán residir en la población designada y no podrán salir de su jurisdicción sin licencia previa del Presidente del Tribunal.
+
+###### Artículo 76.
+
+Corresponde a los Jueces Menores:
+
+I. En materia Penal siempre y cuando los asuntos no correspondan al sistema acusatorio, conocer de los delitos que ocurran dentro de su jurisdicción que tengan una o más de las siguientes sanciones: apercibimiento, caución de no ofender, suspensión de derechos, pena privativa de libertad que no exceda del término medio aritmético de tres años y nueve meses como máximo y multa. No podrán conocer de los delitos de fraude y abuso de confianza, sino en el caso de las cuantías previstas en la fracción II de este artículo.
+
+Conocer siempre y cuando los asuntos no correspondan al sistema acusatorio, de delitos culposos cometidos con motivo del tránsito de vehículos que causen lesiones o daño en las cosas, o ambas, siempre que el imputado no se encontrare en estado de ebriedad o bajo el influjo de estupefacientes u otras substancias que produzcan efectos similares;
+
+II. En materia civil, conocer de todos los asuntos cuyo interés no exceda de setecientas treinta veces el valor diario de la unidad de medida y actualización vigente, con excepción de los conflictos de competencia que se susciten entre los Jueces Menores y de Paz de sus respectivos partidos judiciales y del procedimiento de extinción de dominio;
+
+III. En materia familiar, conocer de los asuntos que afecten a los alimentos, cuya cuantía no exceda de la cantidad fijada en la fracción segunda del presente artículo, y en jurisdicción voluntaria, lo relativo al domicilio, la dependencia económica y registro extemporáneo de nacimiento;
+
+IV. Practicar, dentro del territorio de su jurisdicción, las diligencias que les encomienden el Tribunal, los Jueces de Primera Instancia u otras autoridades judiciales, atendiendo los exhortos y requisitorias que reciban;
+
+V. Actuar con funciones de Juez de Paz cuando en su circunscripción territorial no lo haya; y
+
+VI. Las atribuciones conferidas por esta Ley a los Jueces de Primera Instancia, dentro de la esfera de su competencia.
+
+###### Artículo 77.
+
+Cuando un Juez Menor tuviere impedimento legal para conocer determinado asunto, conocerá el Juez Menor o de Primera Instancia más próximo dentro del mismo Partido Judicial.
+
+###### Artículo 78.
+
+Los Secretarios de los Juzgados Menores tendrán las atribuciones y obligaciones que esta Ley establece para los Secretarios de Acuerdos y Actuarios de Primera Instancia, en cuanto les sean aplicables y tendrán fe pública en el ejercicio de sus funciones.
+
+### CAPÍTULO QUINTO. DE LOS JUZGADOS DE PAZ
+
+###### Artículo 79.
+
+En cada Partido Judicial habrá los Juzgados de Paz que requiera (sic) el interés público y la buena marcha de la Administración de Justicia.
+
+###### Artículo 80.
+
+El personal de los Juzgados de Paz se integrará con un Juez, y el número de servidores públicos auxiliares que determine el Consejo de la Judicatura.
+
+###### Artículo 81.
+
+Para ser Juez de Paz se exigen los requisitos que esta Ley establece para ser Actuario de un Juzgado de Primera Instancia.
+
+###### Artículo 82.
+
+El Pleno del Consejo determinará el número de Juzgados de Paz que deberán existir en cada Partido Judicial, así como su domicilio y circunscripción territorial.
+
+###### Artículo 83.
+
+Los Jueces de Paz, deberán residir en la población designada y no podrán ausentarse de su circunscripción territorial sin licencia previa del Presidente del Consejo de la Judicatura.
+
+###### Artículo 84.
+
+Corresponde a los Jueces de Paz:
+
+I. En materia Penal siempre y cuando los asuntos no correspondan al sistema acusatorio, conocer de los delitos que ocurran dentro de su jurisdicción y que tengan una o más de las siguientes sanciones: apercibimiento, caución de no ofender, suspensión o multa;
+
+II. Conocer preventivamente dentro del sistema penal tradicional, de los demás delitos cuando hubiere detenido; una vez desahogadas las primeras diligencias y resuelta la situación jurídica, remitirán lo actuado al Juez competente;
+
+III. En materia civil, conocer de todos los asuntos cuyo interés no exceda de treinta veces el valor diario de la unidad de medida y actualización vigente;
+
+IV. En materia familiar, conocer en jurisdicción voluntaria respecto del domicilio y la dependencia económica de las personas;
+
+V. Practicar dentro del territorio de su jurisdicción las diligencias que le encomienden el Tribunal, los Jueces de Primera Instancia u otras autoridades jurisdiccionales, atendiendo los exhortos y requisitorias que reciban;
+
+VI. Cumplir con las obligaciones generales que la presente Ley atribuye a los Jueces de Primera Instancia, con excepción de la práctica de visitas de inspección al Centro de Reinserción Social; y
+
+VII. Las demás atribuciones que señalen otros ordenamientos.
+
+###### Artículo 85.
+
+Cuando un Juez de Paz tuviere impedimento legal para conocer determinado asunto, conocerá el Juez de Paz, Menor o de Primera Instancia más próximo dentro del mismo Partido Judicial.
+
+###### Artículo 86.
+
+Los Jueces (sic) Paz actuarán con Secretario de Acuerdos o con dos testigos de asistencia.
+
+###### Artículo 87.
+
+Para ser Secretario de Acuerdos de un Juzgado de Paz es necesario reunir los requisitos previstos en la presente Ley para ser Actuario de un Juzgado de Primera Instancia.
+
+Los Secretarios de los Juzgados de Paz tendrán las atribuciones que esta Ley establece para los Secretarios de Acuerdos y Actuarios de Primera Instancia, en cuanto les sean aplicables y tendrán fe pública en el ejercicio de sus funciones.
+
+## TÍTULO QUINTO. DEL CONSEJO DE LA JUDICATURA
+
+### CAPÍTULO PRIMERO. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+
+###### Artículo 88.
+
+La administración, vigilancia, disciplina y carrera judicial del Poder Judicial, con excepción del Tribunal Superior de Justicia, estarán a cargo del Consejo de la Judicatura, en los términos que establecen la Constitución Política del Estado y la presente ley.
+
+El Consejo de la Judicatura velará, en todo momento, por la autonomía de los órganos del Poder Judicial y por la independencia e imparcialidad de sus miembros.
+
+###### Artículo 89.
+
+El Consejo de la Judicatura tendrá su sede en la ciudad de La Paz y ejercerá sus atribuciones en todo el territorio del Estado. El pleno será su máximo órgano de decisión.
+
+###### Artículo 90.
+
+El Pleno del Consejo se integrará de la siguiente manera:
+
+I. El Magistrado Presidente del Tribunal Superior de Justicia, quien lo presidirá;
+
+II. Un magistrado, designado por el Pleno del Tribunal, para ejercer la comisión;
+
+III. Un juez de primera instancia, designado por el Pleno del Tribunal, para ejercer la comisión;
+
+IV. Un Representante, designado por el Gobernador del Estado, conforme a lo establecido en la Constitución Política del Estado; y
+
+V. Un Representante Ciudadano, electo por el Congreso del Estado, conforme a lo establecido en la Constitución Política del Estado.
+
+###### Artículo 91.
+
+Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad. Durante el desempeño de su encargo sólo podrán ser removidos en los términos del Título Noveno de la Constitución Política del Estado.
+
+Los miembros del Consejo de la Judicatura deberán reunir los requisitos señalados en las fracciones I, II, III y IV del artículo 91 de la Constitución Política del Estado.
+
+Los Consejeros de la Judicatura percibirán una remuneración adecuada e irrenunciable conforme a la ley, la cual no podrá ser disminuida durante su encargo.
+
+Durarán 4 años en el ejercicio de su encargo, sin posibilidad de reelección, salvo el Consejero presidente que permanecerá en el cargo durante el tiempo que funja como Presidente del Tribunal Superior de justicia.
+
+El magistrado que sea comisionado para desempeñar el cargo de consejero, ejercerá la doble función.
+
+Cuando el juez de primera instancia concluya su encargo como consejero, se reincorporará a sus funciones de juez.
+
+Los Magistrados y Jueces que, por cualquier circunstancia dejen de serlo, no podrán seguir formando parte del Consejo de la Judicatura por lo que el Tribunal deberá designar a quienes les sustituyan, para concluir el plazo por el que fueron electos. Los Magistrados y Jueces que sean designados en sustitución, podrán ser designados consejeros en un periodo que no sea continuo a aquel en que hayan cubierto la sustitución.
+
+###### Artículo 92.
+
+El Consejo de la Judicatura funcionará en Pleno o a través de comisiones y ejercerá sus atribuciones de conformidad con lo previsto en la presente ley y el reglamento interno que al efecto expida.
+
+###### Artículo 93.
+
+El Pleno del Consejo celebrará sesiones ordinarias los días jueves de cada semana y extraordinarias cuando se estime necesario, a solicitud del Consejero Presidente o de tres miembros del Consejo.
+
+Las sesiones ordinarias y extraordinarias serán públicas por regla general y privadas cuando así lo acuerde el pleno del Consejo por la naturaleza de los asuntos a tratar.
+
+El Pleno del Consejo podrá acordar la celebración de sesiones solemnes, de conformidad con lo establecido en su reglamento.
+
+###### Artículo 94.
+
+Las resoluciones del Pleno y de las comisiones del Consejo de la Judicatura constarán en acta, deberán firmarse por todos los presentes, y notificarse personalmente a la brevedad posible a las partes interesadas. La notificación y, en su caso, la ejecución de las mismas, deberá realizarse por conducto de los órganos competentes del propio Consejo de la Judicatura.
+
+El Pleno del Consejo deberá publicar su Reglamento Interno y cuando estime que sus acuerdos o resoluciones o los de las comisiones pudieran resultar de interés general, deberá ordenar su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### Artículo 95.
+
+Habrá Quórum legal para sesionar cuando asistan al menos tres de los cinco consejeros, debiendo estar presente el Consejero Presidente o quien legalmente lo sustituya.
+
+###### Artículo 96.
+
+Las ausencias del Consejero presidente serán cubiertas por el Consejero que al efecto este designe.
+
+###### Artículo 97.
+
+Cuando el Pleno del Consejo lo estime necesario, podrán participar en las sesiones, con derecho a voz pero sin voto, los titulares de las diversas dependencias, direcciones, unidades y órganos del Poder Judicial.
+
+###### Artículo 98.
+
+Las resoluciones y acuerdos del Pleno del Consejo se tomarán por el voto de la mayoría de los presentes.
+
+Los consejeros no podrán abstenerse de votar sino cuando tengan impedimento legal o cuando no hayan asistido a la discusión del asunto de que se trate. En caso de empate, el presidente tendrá voto de calidad.
+
+###### Artículo 99.
+
+El Pleno del Consejo calificará los impedimentos de sus miembros que hubieran sido planteados en asuntos de su competencia, y si el impedido fuera el consejero presidente, será sustituido por el Consejero que al efecto este designe.
+
+###### Artículo 100.
+
+El o los consejeros que disintieren de la mayoría podrán formular voto particular, el cual se insertará en el acta respectiva.
+
+### CAPITULO SEGUNDO. DE LAS COMISIONES
+
+###### Artículo 101.
+
+El Consejo de la Judicatura contará con las comisiones permanentes o especiales que determine el Pleno del mismo y estarán integradas por tres miembros, de los cuales uno de ellos tendrá el carácter de presidente y los otros dos fungirán como secretarios.
+
+Al menos deberán existir las siguientes comisiones permanentes:
+
+I. Administración;
+
+II. Vigilancia y Disciplina,
+
+III. Carrera Judicial; y
+
+IV. Transparencia, Estadística y Tecnologías.
+
+###### Artículo 102.
+
+Las resoluciones de las comisiones se tomarán por mayoría de votos de sus integrantes, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal. El Pleno del Consejo calificará las excusas e impedimentos de sus miembros.
+
+###### Artículo 103.
+
+En todos aquellos casos en los que no fuere posible la resolución de un asunto en comisiones, su conocimiento y resolución pasará al Pleno del Consejo.
+
+###### Artículo 104.
+
+Las comisiones tendrán facultades decisorias o consultivas según lo determine el reglamento expedido por el pleno del propio Consejo de la Judicatura.
+
+La estructura orgánica de las comisiones se definirá mediante acuerdos generales del Pleno del Consejo.
+
+###### Artículo 105.
+
+La Comisión de Administración tiene la función de cuidar que los recursos del Poder Judicial y el presupuesto de egresos aprobado anualmente por el Poder Legislativo, se apliquen bajo los principios de honestidad, economía, eficiencia, eficacia, celeridad, buena fe y transparencia.
+
+De igual forma, vigilará y supervisará el funcionamiento y operación de las siguientes dependencias y áreas:
+
+I. Oficialía Mayor;
+
+a) Dirección de Recursos Humanos;
+
+b) Dirección de Nómina;
+
+c) Dirección de Adquisiciones; y
+
+d) Dirección de Planeación.
+
+II. Dirección de Finanzas; y
+
+III. Dirección del Fondo Auxiliar para la Administración de Justicia.
+
+###### Artículo 106.
+
+Son atribuciones de la Comisión de Administración:
+
+I. Vigilar la adecuada aplicación de los recursos autorizados al Poder Judicial, evaluando, coordinando y dirigiendo las políticas, métodos y procedimientos de operación interna, para dar seguimiento a la aplicación de los recursos por las áreas administrativas e implantar un sistema que agilice los trámites con criterios de economía y eficiencia, para mantener un estricto control de los recursos del Poder Judicial;
+
+II. Vigilar que la aplicación de los recursos se lleve a cabo con apego al presupuesto de egresos autorizado, de conformidad con las disposiciones legales aplicables en materia de planeación y presupuestación, procurando satisfacer los recursos humanos, materiales y financieros que requiera el Poder Judicial, para la buena marcha de la administración de justicia;
+
+III. Revisar que el anteproyecto de presupuesto de egresos del Consejo de la Judicatura que elabore la Dirección de Finanzas cumpla con las disposiciones legales aplicables en materia de planeación y presupuesto, verificado lo cual presentará el mismo al Presidente del Consejo, para su trámite y aprobación por parte del Pleno del Consejo;
+
+IV. Coordinar con los órganos facultados, la administración del ejercicio presupuestal del Poder Judicial;
+
+V. Informar al Pleno del Consejo, conforme a los plazos legales y términos establecidos y los acuerdos que al respecto emita éste, de los avances en el ejercicio presupuestal;
+
+VI. Presentar en el área de su competencia, propuestas de evaluaciones internas sobre el ejercicio presupuestal;
+
+VII. Presentar al Pleno del Consejo la cuenta pública mensual, dentro de los 15 días naturales, siguientes a la fecha en que concluye el periodo de referencia;
+
+VIII. Recibir bimestralmente los informes del avance obtenido de los programas anuales de adquisiciones, arrendamientos y prestación de servicios, obra pública, enajenación de bienes muebles, y los que determinen los acuerdos generales que se emitan respecto a la administración y manejo de recursos, e informarlo al Pleno del Consejo;
+
+IX. Vigilar que se lleven a cabo las medidas necesarias para el mantenimiento, conservación y acondicionamiento de los bienes muebles e inmuebles del Poder Judicial, conforme a los planes y programas previamente autorizados por el Pleno del Consejo;
+
+X. De conformidad con la capacidad presupuestal, presentar al Pleno del Consejo, la factibilidad para el ingreso, capacitación, estímulos y ascensos de los servidores públicos del Poder Judicial; y
+
+XI. Las demás que le confiera el Reglamento Interno y los Acuerdos que al efecto emita el Pleno del Consejo.
+
+###### Artículo 107.
+
+La Comisión de Vigilancia y Disciplina Tiene como funciones primordiales establecer medios adecuados de vigilancia para consolidar los programas institucionales del Poder Judicial, con la finalidad de alcanzar un óptimo funcionamiento de las unidades, órganos y departamentos administrativos, de tomar las medidas de apoyo que garanticen la autonomía del Poder Judicial, de preservar la independencia e imparcialidad de sus miembros, cuidando que su actuación se apegue a los principios de excelencia, profesionalismo y objetividad. Lo mismo que ordenar y practicar visitas a los juzgados con el objetivo de supervisar el buen funcionamiento jurisdiccional y administrativo de los mismos, así como supervisar la tramitación de los procedimientos de responsabilidad administrativa de los servidores públicos del Poder Judicial.
+
+Para este efecto, se auxiliará de las siguientes dependencias:
+
+I.- La Visitaduría Judicial; y
+
+II.- La Contraloría del Poder Judicial.
+
+###### Artículo 108.
+
+Son atribuciones de la Comisión de Vigilancia y Disciplina las siguientes:
+
+I. Vigilar el cumplimiento de los programas institucionales, así como proponer las medidas pertinentes para el óptimo funcionamiento del Poder Judicial;
+
+II. Establecer en el ámbito de su competencia, medios adecuados de vigilancia del Poder Judicial, como apoyo a la toma de decisiones tendientes a garantizar su autonomía y preservar la independencia e imparcialidad de sus miembros, cuidando que su actuación se apegue a los principios de excelencia, profesionalismo y objetividad;
+
+III. Ordenar y practicar por sí o con auxilio de los órganos de control interno competentes, las visitas que estimen necesarias, así como las que le encomiende el Pleno del Tribunal y el del Consejo;
+
+IV. Informar el resultado de las visitas ordinarias, extraordinarias o especiales, dando cuenta al Pleno del Tribunal o del Consejo, según corresponda con el acta levantada con motivo de la misma, dentro del término de cinco días hábiles siguientes a la visita;
+
+V. Conocer y tramitar en términos de la presente Ley, todos los procedimientos administrativos de responsabilidad en contra de los servidores públicos del Poder Judicial, con excepción de los Magistrados.
+
+Para este efecto llevará a cabo la substanciación de procedimientos de quejas, denuncias y apertura de procedimiento administrativo de oficio o a instancia de parte, desde la radicación hasta ponerlos en estado de resolución, turnando el respectivo proyecto de resolución al Pleno del Consejo;
+
+VI. Ordenar a los órganos de control interno la instrumentación del Programa Usuario Simulado, con la finalidad de investigar o detectar conductas de servidores públicos del Poder Judicial que tergiversando sus atribuciones utilicen el cargo para obtener algún beneficio económico o personal, así como dirigir y supervisar su operación, informando al Pleno del Consejo las técnicas y estrategias a utilizar y los resultados obtenidos; este Programa se podrá autorizar tanto para la investigación de un caso real y concreto, como para detectar posibles actos de corrupción.
+
+Los servidores públicos o particulares que participen en la ejecución del Programa Usuario Simulado, no incurrirán en responsabilidad penal, civil, patrimonial o administrativa, siempre que su actuación se ajuste a los lineamientos prestablecidos mediante Acuerdos Generales;
+
+VII. Presentar proyectos de resolución al Pleno del Consejo, en las quejas, denuncias y apertura de procedimiento administrativo iniciados de oficio o a instancia de parte, que resulten sin responsabilidad; y
+
+VIII. Las demás que establezcan el Reglamento Interno y los Acuerdos del Pleno del Consejo.
+
+###### Artículo 109.
+
+La Comisión de Carrera Judicial velará porque el ingreso y promoción de los servidores públicos del Poder Judicial, se efectúe mediante el sistema de la carrera judicial, que se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad; Para este efecto supervisará la operación de la Escuela Judicial.
+
+###### Artículo 110.
+
+Son atribuciones de la Comisión de Carrera Judicial:
+
+I. Proponer al Pleno del Consejo lineamientos para llevar a cabo el procedimiento de evaluación de servidores públicos del Poder Judicial;
+
+II. Proponer las políticas generales para la capacitación, actualización y especialización judicial;
+
+III. Verificar la legalidad de los procesos de preparación, ingreso, permanencia, promoción y retiro de los servidores públicos que integran la carrera judicial;
+
+IV. Vigilar que el procedimiento para llevar a cabo los concursos de oposición para el ingreso y promoción de los servidores públicos del Poder Judicial, se realicen conforme a la convocatoria emitida por el Pleno del Consejo;
+
+V. Proponer al Pleno del Consejo, las bases de la convocatoria para los exámenes de oposición relativos al ingreso y promoción de los servidores públicos;
+
+VI. Proponer de acuerdo a las condiciones presupuestales, en coordinación con la Comisión de Administración, los planes de estímulos y capacitación para los servidores públicos comprendidos en el sistema de la carrera judicial y los aspirantes a ésta;
+
+VII. Presentar al Pleno del Consejo para su aprobación, los proyectos de convenios con instituciones académicas para capacitar, actualizar y especializar a los servidores públicos jurisdiccionales para los fines de la carrera judicial, con apoyo de la Escuela Judicial;
+
+VIII. Presentar al Pleno del Consejo para su aprobación, los proyectos de convenios con instituciones académicas para llevar a cabo cursos de formación inicial dirigido a quienes aspiren a ingresar al Poder Judicial; y
+
+IX. Las demás que le confieran el Reglamento y los Acuerdos emitidos por el Pleno del Consejo.
+
+###### Artículo 111.
+
+La Comisión de Transparencia, Estadística y Tecnologías es la encargada de establecer los medios adecuados de información, transparencia y de Tecnologías, para consolidar los programas institucionales del Consejo, con la finalidad de mantener actualizada la información estadística, promover y difundir el ejercicio del derecho de acceso a la Información y la protección de datos personales, así como sistematizar y automatizar los procesos mediante el uso de sistemas informáticos y tecnológicos, para estos efectos, vigilará y supervisará el funcionamiento y operación de las siguientes dependencias:
+
+I. Dirección de Informática; y
+
+II.- Unidad de Transparencia.
+
+###### Artículo 112.
+
+Son atribuciones de la Comisión de Transparencia, Estadística y Tecnologías:
+
+I. Verificar que los órganos jurisdiccionales y administrativos obligados, presenten en tiempo y forma los informes estadísticos de sus respectivas áreas; y en caso de incumplimiento, dar vista a la comisión e instancia respectiva del Consejo para determinar lo correspondiente;
+
+II. Supervisar se realice la difusión de la información pública a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur;
+
+III. Analizar y someter a consideración del Pleno del Consejo, los programas en materia de transparencia para facilitar la obtención de información de cada una de las unidades administrativas y jurisdiccionales del Poder Judicial;
+
+IV. Proponer al Pleno del Consejo los programas de capacitación, archivo, clasificación y desclasificación de la información en materia de transparencia, para servidores públicos del Poder Judicial;
+
+V. Establecer los mecanismos para actualizar el programa que facilite la obtención de información, así como su proceso y sistematización;
+
+VI. Vigilar el cumplimiento de los lineamientos y políticas generales emitidas por el Pleno del Consejo para el manejo, mantenimiento, seguridad y protección de los datos personales que estén en posesión del Poder Judicial, así como fomentar el desarrollo de acciones para garantizar su propósito;
+
+VII. Vigilar que las áreas administrativas y órganos jurisdiccionales cumplan lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y los acuerdos que para tal efecto emita el Pleno del Consejo y en caso de incumplimiento, dar vista a la comisión e instancia respectiva del Consejo para determinar lo correspondiente;
+
+VIII. Fomentar e impulsar proyectos que incorporen el uso de tecnologías en las funciones jurisdiccionales y administrativas del Poder Judicial;
+
+IX. Supervisar el desarrollo de sistemas informáticos de gestión, evaluar su operación y proponer los ajustes que se estimen conducentes; y
+
+X. Las demás que le confieran el Reglamento y los Acuerdos emitidos por el Pleno del Consejo.
+
+### CAPITULO TERCERO. DE SUS ATRIBUCIONES
+
+###### Artículo 113.
+
+Son atribuciones del Consejo de la Judicatura:
+
+I. Con excepción de los Magistrados; nombrar a los Jueces, y demás servidores públicos del Poder Judicial que señale la Ley y permita el presupuesto, así como tomar su protesta de ley, sin expresar en los nombramientos respectivos la jurisdicción territorial en que deban ejercer sus funciones.
+
+Tratándose del nombramiento de Jueces, la protesta constitucional, se tomará conjuntamente con el Pleno del Tribunal;
+
+II. Asignar la adscripción y competencia en que deban ejercer sus funciones los Jueces;
+
+III. Cambiar de adscripción y competencia a los jueces y demás servidores públicos, siempre que las necesidades del servicio lo requieran;
+
+IV. Resolver respecto de los procedimientos en contra del personal adscrito a los órganos jurisdiccionales y a las dependencias del Poder Judicial, sustanciados por la Visitaduría Judicial y la Contraloría, respectivamente; imponiendo las sanciones o correcciones disciplinarias que procedan, conforme a las leyes aplicables;
+
+V. Ordenar, por conducto del Presidente del Pleno del Consejo, que se haga la denuncia que corresponda ante el ministerio público en los casos de la posible comisión de delitos oficiales imputables a los servidores públicos subordinados al Consejo y que deban ser sancionados por las autoridades competentes;
+
+VI. Resolver sobre las renuncias que presenten a sus cargos los servidores públicos del Poder Judicial; con excepción de las que presenten los Magistrados;
+
+VII. Fijar los periodos de vacaciones y acordar la suspensión de labores de los órganos y dependencias del Poder Judicial, en los casos en que oficialmente no esté determinado por Ley o Decreto y se considere procedente, debiéndose tomar las providencias necesarias para la atención de los asuntos urgentes en materia penal y familiar;
+
+De manera fundada y motivada, se podrá determinar la suspensión de labores en todas o en algunas direcciones u órganos técnicos y jurisdiccionales del Poder Judicial en días hábiles, por causas de fuerza mayor y con la aprobación del Tribunal Superior de Justicia, si la suspensión incluirá a este órgano;
+
+VIII. Conceder licencia, con goce de sueldo, a los Jueces y demás servidores públicos de la Administración de Justicia por más de quince días y hasta por tres meses.
+
+Las licencias con o sin goce de sueldo se podrán conceder hasta por dos años, nombrando en su caso a los sustitutos respectivos, si se considera procedente la causa en que se funda la solicitud correspondiente; en el entendido de que en ningún caso se podrá conceder más de una licencia por año;
+
+IX. Discutir, modificar y aprobar en su caso, el anteproyecto de presupuesto de egresos del Consejo de la Judicatura que para cada ejercicio fiscal proponga el Consejero Presidente, mismo que será remitido al Presidente del Tribunal para los efectos legales conducentes;
+
+X. Exigir al Presidente del Pleno del Consejo el fiel cumplimiento de sus obligaciones;
+
+XI. Acordar el número de Juzgados, competencia y especialización de los mismos, así como las dependencias del Poder Judicial, y el número de servidores públicos con que cada uno debe contar, cuando las necesidades del servicio lo requieran y lo permitan las condiciones del erario;
+
+XII. Autorizar las erogaciones extraordinarias que tengan que hacerse para la mejor Administración de Justicia;
+
+XIII. Dictar las medidas pertinentes, a efecto de que en los Partidos Judiciales donde existan dos o más juzgados, el trabajo se distribuya proporcional y equitativamente;
+
+XIV. Administrar el Fondo Auxiliar para la Administración de Justicia;
+
+XV. Emitir los acuerdos que estime pertinentes para garantizar el adecuado funcionamiento de los órganos y dependencias del Poder Judicial;
+
+XVI. Establecer los Acuerdos Generales para el acceso a las audiencias en los procesos jurisdiccionales, a los periodistas o representantes de los medios de comunicación y, las condiciones que deberán observar;
+
+XVII. Emitir los acuerdos que regulen los medios electrónicos de comunicación procesal que podrán ser utilizados para la recepción de promociones, notificaciones y trámites relacionados con las causas jurisdiccionales, así como los mecanismos que permitan garantizar su realización y recepción en tiempo y contenido;
+
+XVIII. Determinar la información que deba ser considerada como reservada, en términos de la ley de la materia;
+
+XIX. Emitir los acuerdos que estime pertinentes para llevar por sí, o través de los órganos de control interno del Poder Judicial, el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Poder Judicial, con excepción de los Magistrados y Consejeros, así como para celebrar convenios con la Comisión Nacional Bancaria y de Valores o cualquier otra institución a efecto de obtener información relativa al patrimonio de Jueces y demás servidores públicos del Poder Judicial, con la referida excepción;
+
+XX. Emitir los acuerdos generales y circulares que estime pertinentes;
+
+XXI. Aprobar los manuales de procedimientos que sometan a su consideración los titulares de los órganos y dependencias del Poder Judicial;
+
+XXII. Emitir las Convocatorias relativas a los procesos de selección e ingreso al Poder Judicial;
+
+XXIII. Emitir las convocatorias que estime pertinentes para la selección y en su caso el registro de peritos que deban auxiliar a los órganos jurisdiccionales en la administración de justicia;
+
+XXIV. Disponer los casos en que los jueces deban utilizar toga;
+
+XXV. Emitir el Reglamento para la administración del Sistema de Ahorro de los Trabajadores del Poder Judicial;
+
+XXVI. Emitir las bases para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes y prestación de servicios que realice el Poder Judicial;
+
+XXVII. Otorgar estímulos y recompensas a los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo, conforme a la disponibilidad presupuestal;
+
+XXVIII. Autorizar, de manera conjunta con el Pleno del Tribunal, durante el mes de enero, el calendario de labores del Poder Judicial, para el año en curso;
+
+XXIX. Crear las áreas, direcciones, unidades u órganos técnicos necesarios para la realización de sus atribuciones y de acuerdo al presupuesto;
+
+XXX. Supervisar directamente o a través de las Comisiones o de los órganos de control interno, el funcionamiento de las direcciones, unidades y de los órganos técnicos, desconcentrados y descentralizados del Poder Judicial;
+
+XXXI. Investigar de oficio o a petición de parte, la conducta de los empleados y funcionarios públicos del Poder Judicial, en relación a hechos que puedan constituir irregularidades que transgredan cualquier disposición legal;
+
+XXXII. Conducir la Carrera Judicial en el Poder Judicial en el ámbito de su competencia;
+
+XXXIII. Aprobar la contratación de servicios de auditoría externa;
+
+XXXIV. Conocer y dar seguimiento al cumplimiento de las observaciones y recomendaciones resultantes de las auditorías externas que dicho órgano contrate;
+
+XXXV. Captar, validar, resguardar, explorar, aprovechar y difundir la información estadística, en el ámbito de su competencia, relativa a la actividad jurisdiccional y administrativa.
+
+XXXVI. Emitir mediante Acuerdos Generales el Reglamento del Consejo y el de las Comisiones, mismos que no podrán contravenir lo dispuesto en la presente ley;
+
+XXXVII. Emitir Acuerdos Generales para orientar el desarrollo de proyectos de asociación público privada que pretenda celebrar el Poder Judicial de conformidad con la Ley de Asociaciones Público Privadas Para el Estado de Baja California Sur; y
+
+XXXVIII. Las demás facultades que le confieren las Leyes y Reglamentos.
+
+El Consejo de la Judicatura incorporará la perspectiva de género, de forma transversal y equitativa en el desempeño de sus atribuciones, programas y acciones, con el objeto de garantizar a las mujeres y hombres, el ejercicio y goce de sus derechos humanos, en igualdad de condiciones y velará por que los órganos a su cargo así lo hagan.
+
+###### Artículo 114.
+
+El Consejo de la Judicatura contará con los servidores públicos que establece la presente ley, su reglamento interno, o los acuerdos generales expedidos por el propio consejo, pudiendo crearse nuevos puestos según lo permita el presupuesto.
+
+### CAPITULO CUARTO. DE SU PRESIDENTE
+
+###### Artículo 115.
+
+Son atribuciones del Presidente del Consejo de la Judicatura, las siguientes:
+
+I. Representar legalmente al Consejo de la Judicatura y a su Pleno, asumiendo esta representación para los efectos legales procedentes, con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, con todas las facultades generales y aún las especiales que requieran cláusula especial conforme a la ley. Esta representación podrá delegarse en otros Consejeros para la celebración de actos cívicos oficiales y para la atención de actos administrativos o asuntos litigiosos mediante la concesión de mandatos limitados, previa aprobación del Pleno del Consejo.
+
+En los casos de los actos de dominio, sólo podrá celebrar contratos previa autorización del Pleno del Consejo.
+
+II. Convocar a los Consejeros a sesiones del Pleno, presidirlas, dirigir los debates y conservar el orden en las sesiones y en las audiencias;
+
+III. Tener a su cargo a los Juzgados Penales del Sistema Acusatorio, y autorizar los roles de guardias y vacaciones de Jueces y personal adscritos a los mismos;
+
+IV. Llamar a su presencia a los Jueces para tratar asuntos relacionados con la buena marcha de la Administración de Justicia y requerir en cualquier tiempo, copia de diligencias o actuaciones, o los expedientes originales que se tramiten en los Juzgados, cuidando de no interrumpir los términos previstos en la Ley y el regular procedimiento;
+
+V. Llamar a su presencia a los Coordinadores Administrativos de los Juzgados Penales del Sistema Acusatorio para asuntos relacionados con la buena marcha de la Administración de los mismos y requerir en cualquier tiempo, informe del desempeño de los funcionarios y empleados a su cargo, en ejercicio de las funciones encomendadas;
+
+VI. Vigilar el debido cumplimiento de los acuerdos del Pleno del Consejo y de los que él mismo dictare;
+
+VII. Practicar visitas de inspección a los Juzgados cuando así lo estime conveniente o lo acuerde el Pleno del Consejo, así como a las demás dependencias administrativas del Poder Judicial. Lo anterior podrá realizarse por conducto de los Consejeros que se designen para tal efecto o por el titular de la Visitaduría Judicial y Contraloría en su caso, según corresponda, con el fin de vigilar la puntualidad de los acuerdos y la observancia de las disposiciones reglamentarias y dictar todas las providencias que estime convenientes para la buena marcha de la Administración de Justicia, debiéndose levantar acta debidamente circunstanciada;
+
+VIII. Informar al Pleno del Consejo de las irregularidades que se encontraren en dichas inspecciones, sin perjuicio de dictar de inmediato, en forma provisional, las medidas que estimare pertinentes;
+
+IX. A petición de parte interesada y aún de oficio, dictar las medidas pertinentes para remediar las demoras, o faltas no graves en que incurran los servidores públicos bajo su dependencia jerárquica, en el cumplimiento de sus obligaciones y en el despacho de los asuntos; a efecto de evitar que se produzcan, o se continúe produciendo, efectos perjudiciales, sin perjuicio de la imposición de una corrección disciplinaria en términos de esta Ley;
+
+X. Dictar las medidas que estimen convenientes para que se observen la disciplina y puntualidad debidas en los órganos y dependencias del Poder Judicial;
+
+XI. Conceder licencias a los Jueces y demás servidores públicos del Poder Judicial, con o sin goce de sueldo, hasta por quince días, según lo estime conveniente, llamando o designando a los sustitutos respectivos;
+
+XII. Recibir la protesta de los servidores públicos a su cargo, y requerir a éstos la protesta de sus subalternos, así como a aquellos que el Pleno del Consejo determine;
+
+XIII. Poner en conocimiento del Pleno del Consejo las solicitudes de licencia por más de quince y hasta por treinta días de los Jueces y demás servidores públicos del Poder Judicial;
+
+XIV. Poner en conocimiento del Pleno del Consejo las faltas absolutas y temporales de los Jueces, Coordinadores Administrativos de Juzgados, Secretarios y demás servidores públicos del Poder Judicial, para efectos de nombrar los sustitutos;
+
+XV. Tener bajo su cargo a las dependencias del Poder Judicial;
+
+XVI. Proponer al Pleno del Consejo los cambios y nombramientos de Visitador General y Contralor, así como de los titulares de las dependencias del Poder Judicial;
+
+XVII. Revisar y aprobar la cuenta mensual sobre los gastos menores erogados;
+
+XVIII. Comisionar a los Jueces de Ejecución de Sanciones Penales y de primera instancia, así como al Visitador que deberán encargarse de las visitas periódicas de inspección a Centros de Reinserción Social y demás lugares de detención.
+
+XIX. Proponer al Pleno del Consejo el proyecto de Presupuesto de Egresos del Consejo de la Judicatura que deberá regir en el siguiente ejercicio fiscal anual, para su aprobación y trámite correspondiente;
+
+XX. Remitir al Órgano de Fiscalización Superior del Congreso del Estado la cuenta pública mensual y al Congreso del Estado la cuenta pública anual en los plazos establecidos en la ley de la materia;
+
+XXI. Ejercer el Presupuesto de Egresos aprobado por el Congreso del Estado para el Poder Judicial y acordar las erogaciones que deban hacerse con cargo a sus diversas partidas, sin que queden comprendidas en esta facultad las relativas al sueldo fijo, que sólo podrán ser alteradas por concepto de las correcciones disciplinarias en los términos que prescriba la Ley;
+
+XXII. Tramitar todos los asuntos de la competencia del Pleno del Consejo hasta su estado de resolución;
+
+XXIII. Rendir los informes previos y justificados en los juicios de amparo que se promuevan en contra de las resoluciones del Pleno del Consejo y la Presidencia del mismo;
+
+XXIV. Vigilar que se integren los expedientes personales de los servidores públicos del Poder Judicial, haciendo las anotaciones que procedan, incluyendo quejas fundadas y correcciones disciplinarias impuestas;
+
+XXV. Legalizar conjuntamente con la Secretaría Ejecutiva las firmas de los servidores públicos del Poder Judicial;
+
+XXVI. Celebrar convenios con Instituciones Públicas y Privadas, de Educación Superior u Organismos de Investigación y Organizaciones de la Sociedad Civil, que contribuyan a lograr los planes, programas de trabajo y capacitación establecidos por el Poder Judicial;
+
+XXVII. Comisionar a los Jueces de Control y de Enjuiciamiento, para constituirse como Tribunal de Enjuiciamiento cuando deban actuar con tal carácter en un partido judicial diverso al de su adscripción;
+
+XXVIII. Celebrar convenios de colaboración con el Poder Judicial de la Federación y de otras entidades, instituciones o dependencias;
+
+XXIX. Designar al servidor público que deberá suplir al Secretario Ejecutivo en sus ausencias eventuales, temporales y absolutas; y
+
+XXX. Conocer de los demás asuntos que le encomienden las Leyes.
+
+### CAPITULO QUINTO. DEL SECRETARIO EJECUTIVO
+
+###### Artículo 116.
+
+El Consejo de la Judicatura contará con un Secretario Ejecutivo, cargo que recaerá en el Titular de la Secretaría General de Acuerdos del Pleno y la Presidencia del Tribunal Superior de Justicia.
+
+###### Artículo 117.
+
+El Secretario Ejecutivo tendrá las atribuciones que se establezcan en el reglamento interno del Consejo, así como aquellas que determine el Pleno del Consejo mediante acuerdos generales.
+
+### CAPÍTULO SEXTO. DE LA CARRERA JUDICIAL
+
+### CAPÍTULO ÚNICO (SIC)
+
+###### Artículo 118.
+
+El ingreso, formación, permanencia, promoción, especialización, evaluación y reconocimiento de los servidores públicos de carácter jurisdiccional del Poder Judicial, se hará mediante el sistema de Carrera Judicial, la cual se regirá por los principios de legalidad, profesionalismo, objetividad, imparcialidad, independencia, excelencia y antigüedad.
+
+###### Artículo 119.
+
+El Reglamento de la materia establecerá las categorías que integran la Carrera Judicial, los lineamientos para la emisión y publicación de convocatorias y el proceso de evaluación a que se sujetaran los aspirantes de nuevo ingreso, así como las bases para los concursos de oposición para promoción del personal en activo.
+
+## TÍTULO SEXTO. DE LOS IMPEDIMENTOS E INCOMPATIBILIDADES
+
+### CAPÍTULO ÚNICO
+
+###### Artículo 120.
+
+Los Magistrados, Consejeros de la Judicatura, Jueces, Secretarios, así como Jefes de Unidad, Encargados de Área, Actuarios y Notificadores deberán excusarse cuando estén impedidos para conocer de los asuntos por las causas a que aluden las Leyes de la materia respectiva.
+
+Las personas que hayan ocupado el cargo de Magistrado, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial, excepto cuando se trate de sus propios derechos, de los de su cónyuge, concubinario, de los de sus ascendientes, descendientes o de los correspondientes a las personas que estén bajo su patria potestad.
+
+###### Artículo 121.
+
+No podrán reunirse en el Tribunal o en el Consejo dos o más Magistrados o Consejeros que sean cónyuges, concubinos, parientes entre sí por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo grado.
+
+Tampoco podrán desempeñar sus funciones en un mismo órgano o dependencia, dos o más servidores públicos que tengan entre sí la relación o el parentesco a que se refiere el párrafo que antecede.
+
+###### Artículo 122.
+
+Los servidores públicos del Poder Judicial no podrán actuar como árbitros, y están impedidos para el ejercicio de la abogacía y la procuración, excepto cuando se trate de sus propios derechos, de los de su cónyuge, concubinario, de los de sus ascendientes, descendientes o de los correspondientes a las personas que estén bajo su patria potestad.
+
+###### Artículo 123.
+
+Ningún servidor público del Poder Judicial podrá tener ocupación o empleo diverso con excepción de los docentes, cuyo desempeño no perjudique las funciones propias de su cargo.
+
+## TÍTULO SÉPTIMO. DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
+
+### CAPÍTULO PRIMERO. DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
+
+###### Artículo 124.
+
+Son auxiliares de la Administración de Justicia:
+
+I. Los Presidentes y Delegados Municipales;
+
+II. Los Jefes, Oficiales y Agentes de la Policía Ministerial del Estado, Policía Procesal, de los cuerpos de Policía Preventiva Municipal y de las demás corporaciones que integran el Sistema Nacional de Seguridad Pública;
+
+III. Los Oficiales y Encargados de las Oficinas del Registro Civil;
+
+IV. Los Directores y Encargados del Registro Público de la Propiedad y del Comercio;
+
+V. Los peritos, médicos legistas, traductores o intérpretes oficiales y demás oficiales y peritos de nombramiento oficial en los ramos que les están encomendados;
+
+VI. Los síndicos, interventores, albaceas, tutores, curadores, depositarios y los Notarios, en las funciones que les sean encomendadas de acuerdo con la Ley; y
+
+VII. Todos los demás a quienes las Leyes les confieran ese carácter.
+
+###### Artículo 125.
+
+Para ser auxiliares de la Administración de Justicia a que se refieren las fracciones V y VI del artículo anterior, con excepción de los notarios públicos, se requiere:
+
+I. Ser ciudadana o ciudadano mexicano, en pleno uso y goce de todos sus derechos;
+
+II. Ser de notoria honradez y responsabilidad;
+
+III. No haber sido condenado por delito doloso;
+
+IV. No haber sido removido por falta o delito cometido en el ejercicio de sus funciones; y
+
+V. No estar impedido por alguna de las causas previstas en los artículos 171 y 172 del Código de Procedimientos Civiles.
+
+###### Artículo 126.
+
+El Pleno del Consejo, con la información que reciba de las autoridades auxiliares de la Administración de Justicia, deberá formar una lista de las personas que puedan ejercer los cargos de síndicos, interventores, albaceas, depositarios, tutores, curadores, árbitros, peritos y demás auxiliares de la Administración de Justicia que deban designarse en los asuntos que se tramiten ante los Tribunales del orden común y conforme a los requisitos que la Ley señale.
+
+###### Artículo 127.
+
+Los auxiliares de la Administración de Justicia deben prestar la cooperación que las leyes determinen, estando obligados a cumplir las órdenes que dentro de sus facultades dicten las autoridades y servidores públicos del Poder Judicial.
+
+### CAPÍTULO SEGUNDO. DE LOS PERITOS
+
+###### Artículo 128.
+
+El perito es un auxiliar de la actividad de la impartición de justicia que posee conocimientos profesionales, científicos, técnicos, artísticos o prácticos y que en el ejercicio de una función pública o de su actividad privada, es llamado a emitir un dictamen en un proceso judicial para el cual es designado.
+
+###### Artículo 129.
+
+Para ser perito se requiere:
+
+I. Ser ciudadana o ciudadano mexicano;
+
+II. Ser de notoria honradez y conducta ética;
+
+III. No haber sido condenado por delito doloso, ni tener la calidad de imputado, procesado o acusado, con motivo de un delito de la misma naturaleza;
+
+IV. Tener conocimiento en la profesión, ciencia, técnica, arte u oficio sobre la que vaya a versar la peritación;
+
+V. Contar con título debidamente registrado y cédula profesional en los casos que la profesión, ciencia, técnica, arte u oficio requieren título para ejercerla de acuerdo con la Ley para el Ejercicio de las Profesiones del Estado de Baja California Sur;
+
+VI. Pertenecer preferentemente, a cualquiera de los Colegios o Asociaciones de profesionistas, en caso de que en la localidad se encuentren legalmente constituidos, acreditando su certificación; y
+
+VII. Contar con la certificación para desempeñarse como perito, que acredite que posee los conocimientos y habilidades para la rama o especialidad para la cual desea registrarse, la cual deberá ser expedida por institución autorizada para ello; o comprobar la actualización de sus conocimientos técnicos a través de respaldos académicos o capacitación recibida, o en su caso comprobar la actualización de respaldos académicos, debiendo además acreditar contar con experiencia mínima de 5 años en la rama o especialidad para el (sic) cual se solicita el registro.
+
+En el caso del requisito a que se refiere la fracción I del presente Artículo, podrá dispensarse en los casos que el Pleno del Consejo así lo acuerde.
+
+###### Artículo 130.
+
+El Poder Judicial, contará con un padrón de las personas autorizadas por el Pleno del Consejo, de los cuales deberán designar las autoridades judiciales, a fin de que se desempeñen en los cargos previstos.
+
+El Pleno del Consejo podrá convocar cada año o cuando fuere necesario, a los interesados a formar parte del padrón de peritos, en términos del Reglamento de la presente Ley.
+
+Los peritos autorizados por el Pleno del Consejo no forman parte ni son servidores públicos del Poder Judicial.
+
+###### Artículo 131.
+
+Sólo en el caso de que no existiera en el padrón, perito autorizado en la profesión, ciencia, técnica, arte u oficio, en la que se requiera dictaminar o que las personas indicadas en él estuvieren impedidas para ejercer el cargo, los Jueces podrán nombrarlos libremente, tomando en consideración, que los peritajes que deban versar sobre materias relativas a profesiones, deberán encomendarse a personas autorizadas con título debidamente registrado. Si no fuese posible encontrarlas en la localidad de que se trate, o las que hubieren estén impedidas para ejercer el cargo, se acudirá a los profesores del ramo correspondiente en las escuelas oficiales de carácter técnico en establecimientos o corporaciones del Gobierno, quienes estarán obligados a rendir los dictámenes que se les encomienden.
+
+###### Artículo 132.
+
+En los asuntos del orden penal, cuando no estuvieren designados especialmente por la ley las personas que deban ejercer las funciones de peritos, se ocurrirá, de preferencia, a los servidores públicos de carácter técnico en los establecimientos o corporaciones dependientes del Gobierno del Estado o Municipios, cuando deban nombrarlos los Jueces o el Tribunal.
+
+###### Artículo 133.
+
+En los asuntos civiles, mercantiles, familiares, penales, de justicia administrativa o fiscal, las partes interesadas podrán nombrar libremente los peritos que les convengan. Los peritos nombrados por las partes o en su rebeldía por el Juez, serán remunerados por aquéllas en los términos del convenio o contrato respectivo y, a falta de convenio o contrato, conforme al arancel previsto en la presente Ley.
+
+###### Artículo 134.
+
+En los asuntos civiles, mercantiles, familiares, de justicia administrativa o fiscal, los honorarios de los peritos designados por el órgano jurisdiccional, sin solicitud de ninguno de los interesados, se regularán atendiendo al arancel previsto en la presente Ley y serán cubiertos por ambas partes por mitad, de acuerdo con lo que dispone el Código de Procedimientos Civiles, sin perjuicio de lo que establezca la sentencia definitiva sobre condonación de costas.
+
+En los asuntos penales, Los honorarios de los peritos designados por el órgano jurisdiccional, sin solicitud de ninguno de los interesados, se regularán atendiendo al arancel previsto en la presente Ley y serán cubiertos por el Tribunal Superior de Justicia, procurando que la designación recaiga en aquellos peritos que tengan obligación de rendir peritaje gratuito como servicio social en términos de la presente Ley y su Reglamento.
+
+###### Artículo 135.
+
+Para los efectos de esta Ley, los peritos se clasifican en las siguientes ramas, con sus respectivas especialidades, en su caso:
+
+I. Profesional en:
+
+a) Ingenierías;
+
+b) Contaduría Pública;
+
+c) Arquitectura;
+
+d) Psicología;
+
+e) Medicina;
+
+f) Psiquiatría;
+
+g) Odontología;
+
+h) Economía;
+
+i) Veterinaria;
+
+j) Antropología forense;
+
+k) Agronomía;
+
+l) Informática;
+
+m) Sociología;
+
+n) Matemáticas;
+
+ñ) Química;
+
+o) Administración;
+
+p) Trabajo Social; y
+
+q) Las demás que considere el Pleno del Consejo.
+
+II. Ciencia en:
+
+a) Balística;
+
+b) Criminalística;
+
+c) Dactiloscopía;
+
+d) Documentoscopía;
+
+e) Grafología;
+
+f) Grafoscopía;
+
+g) Impacto ambiental;
+
+h) Toxicología;
+
+i) Genética;
+
+j) Antropometría;
+
+k) Polígrafo; y
+
+l) Las demás que considere el Pleno del Consejo.
+
+III. Técnica, arte u oficio en:
+
+a) Mecánica;
+
+b) Espeleología;
+
+c) Fotografía;
+
+d) Carpintería;
+
+e) Plomería;
+
+f) Electricidad;
+
+g) Cerrajería;
+
+h) Traductor e intérprete de idiomas;
+
+i) Traducción e intérprete auditivo – oral;
+
+j) Tránsito terrestre o náutico;
+
+k) videograbación forense;
+
+l) Identificación fisonómica;
+
+m) Incendios y explosiones;
+
+n) Avalúo;
+
+ñ) Carrocería;
+
+o) Refrigeración; y
+
+p) Las demás que considere el Pleno del Consejo.
+
+###### Artículo 136.
+
+Los peritos autorizados por el Pleno tendrán las obligaciones siguientes:
+
+I. Realizar personalmente el dictamen o avalúo debiendo cerciorarse en forma directa de la identidad de las personas o bienes sobre las cuales versarán la pericial encomendada;
+
+II. Emitir dictámenes, traducciones o interpretaciones con estricto apego al conocimiento de la profesión, materia, oficio, arte o técnica en los que se fundamenten y con entera independencia e imparcialidad de la parte que los hubiese propuesto o cubra sus honorarios;
+
+III. Emitir la tarea encomendada en el plazo que sea fijado por el Juez después de haber sido autorizados los honorarios. En caso de considerar que dicho plazo es insuficiente para elaborar la experticial solicitada, podrá pedir al Juez una prórroga, quien de acuerdo a su prudente arbitrio tomando en cuenta la dificultad del peritaje y conforme a la Ley de la materia, concederá el tiempo que estime pertinente;
+
+IV. Emitir el dictamen agotando los puntos propuestos por las partes para el conocimiento de la verdad, ya sea por escrito o en forma oral;
+
+V. Justificar ante el órgano jurisdiccional, dentro del plazo de tres días a partir de recibir la notificación de su nombramiento, su negativa a efectuar el dictamen encomendado;
+
+VI. Elaborar por lo menos una vez al año un peritaje gratuito para las partes como servicio social, a solicitud del Juzgador, y cuando las circunstancias del caso así lo ameriten;
+
+VII. Abstenerse de entrevistarse con las partes, salvo que el peritaje lo requiera, para evitar algún acto que pudiera ser considerado a favor de alguna de ellas;
+
+VIII. Exhibir recibo de honorarios con los requisitos fiscales correspondientes para que les sean cubiertos;
+
+IX. Acreditar su actualización en los conocimientos para ofrecer servicios profesionales de alta calidad;
+
+X. Acudir ante el Órgano Jurisdiccional y participar en las audiencias a las que se le cite, cuantas veces sea requerido;
+
+XI. Excusarse de su función cuando tenga alguno de los impedimentos establecidos en la presente Ley;
+
+XII. Guardar secreto de los asuntos que con motivo de sus actividades tenga conocimiento;
+
+XIII. Conservar los requisitos exigidos para su autorización como perito; y
+
+XIV. Conducirse con verdad ante toda clase de informes, dictámenes o audiencias en las que intervengan.
+
+###### Artículo 137.
+
+Queda prohibido a los peritos, intervenir con ese carácter en los asuntos, si se encuentran dentro de los casos siguientes:
+
+I. Ser pariente por consanguinidad en línea recta o afinidad dentro del cuarto grado, de alguna de las partes, sus apoderados, abogados, autorizados o del Juez o de sus secretarios; o tener parentesco civil con alguna de dichas personas;
+
+II. Ser dependiente, socio, arrendatario o tener negocios de cualquier clase, con las personas que se indican en la fracción I del presente artículo;
+
+III. Tener interés directo o indirecto en el proceso o en otro juicio semejante o participación en la sociedad, establecimiento o empresa con alguna de las personas que se indican en la fracción I del presente artículo;
+
+IV. Tener amistad íntima o enemistad manifiesta con alguna de las partes, sus representantes, abogados o con cualquier otra persona de relación familiar cercana a aquellos; y
+
+V. Ser servidor público del Poder Judicial.
+
+###### Artículo 138.
+
+Son faltas de los peritos y auxiliares, además de las previstas en el título octavo de la presente Ley, las siguientes:
+
+I. Incumplir las actividades que le son encomendadas dentro del plazo concedido;
+
+II. Provocar el retraso innecesario de procedimientos en los que se solicite su participación;
+
+III. Incumplir con el servicio social a que se refiere esta Ley y su Reglamento;
+
+IV. Ostentarse como miembro del Poder Judicial; y
+
+V. Las demás que prevén las Leyes, o determine el Pleno del Consejo, mediante Acuerdos Generales.
+
+###### Artículo 139.
+
+Los Peritos son responsables por los delitos y faltas oficiales en que incurran durante el ejercicio de su cargo y responderán de los daños y perjuicios que causen.
+
+La falta indicada (sic) la fracción III y IV del artículo que antecede será considerada grave, y trae consigo la cancelación inmediata del nombramiento como perito auxiliar de la administración de justicia del Estado, bastando para ello que se acredite la actualización del supuesto de referencia.
+
+###### Artículo 140.
+
+El Pleno del Consejo tramitará hasta su total resolución, las quejas administrativas en contra de peritos y auxiliares conforme al procedimiento previsto por el Reglamento de la presente Ley.
+
+###### Artículo 141.
+
+La cancelación o inhabilitación como perito o auxiliar de la Administración de Justicia, únicamente podrá darse por las siguientes causas:
+
+I. Por haber emitido con dolo, dictámenes o traducciones que contengan certificaciones, datos o apreciaciones falsas;
+
+II. Por haber obtenido la autorización como perito auxiliar en la Administración de Justicia, proporcionando a la Secretaría Ejecutiva datos o documentos falsos; y
+
+III. Por omitir prestar sus servicios sin causa justificada, una vez que haya aceptado y protestado el cargo.
+
+### CAPÍTULO TERCERO. DE LOS NOTARIOS
+
+###### Artículo 142.
+
+En los casos en que, conforme al Código de Procedimientos Civiles del Estado, los litigantes designen un Notario para que desempeñe las funciones del Secretario, quedará éste obligado a cumplir con todas las disposiciones que esta Ley establece para dichos funcionarios, únicamente en relación con el asunto en que intervengan y sujeto a las sanciones establecidas en el Capítulo de Responsabilidades, por las faltas o delitos oficiales en que incurra en el desempeño del cargo. Sólo será necesario que el Notario permanezca en el Juzgado respectivo, el tiempo indispensable para que se desahoguen y dicten las diligencias, acuerdos y resoluciones en dicho asunto.
+
+## TÍTULO OCTAVO. DE LAS DEPENDENCIAS DEL CONSEJO DE LA JUDICATURA
+
+### CAPÍTULO PRIMERO. DEPENDENCIAS DEL CONSEJO DE LA JUDICATURA
+
+###### Artículo 143.
+
+Son dependencias del Consejo de la Judicatura:
+
+I. Oficialía Mayor:
+
+a) Dirección de Recursos Humanos;
+
+b) Dirección de Nómina;
+
+c) Dirección de Adquisiciones; y
+
+d) Dirección de Planeación.
+
+II. Dirección de Finanzas.
+
+III. Dirección del Fondo Auxiliar para la Administración de Justicia.
+
+IV. Centro Estatal de Justicia Alternativa.
+
+V. Escuela Judicial;
+
+VI. Dirección de Informática;
+
+VII. Visitaduría Judicial;
+
+VIII. Contraloría;
+
+IX. Dirección de Comunicación Social y Relaciones Públicas;
+
+X. Central de Actuarios;
+
+XI. Unidad de Igualdad de Género y Derechos Humanos;
+
+XII. Centros de Convivencia Familiar;
+
+XIII. Oficialías de Partes;
+
+XIV. Central de consignaciones de pensiones alimentarias;
+
+XV. Unidad de Transparencia; y
+
+XVI. Archivo Judicial.
+
+### CAPÍTULO SEGUNDO. DE LA OFICIALÍA MAYOR
+
+###### Artículo 144.
+
+Para ser Oficial Mayor se deberán reunir los mismos requisitos que para ser Juez.
+
+El requisito del título y cedula de Licenciado en Derecho podrá ser dispensado por acuerdo del Pleno del Consejo, siempre que se trate de Licenciado en Administración y áreas afines.
+
+La Oficialía Mayor dependerá del Consejo de la Judicatura en términos de su reglamento interno
+
+La Oficialía Mayor estará integrada por las siguientes Direcciones: Dirección de Recursos Humanos, Dirección de Nómina, Dirección de Adquisiciones y Dirección de Planeación.
+
+Además de las Direcciones señaladas, la Oficialía Mayor contará con el personal técnico y administrativo que determine el Pleno del Consejo, de acuerdo con el presupuesto de egresos del Poder Judicial.
+
+###### Artículo 145.
+
+Corresponde al Oficial Mayor:
+
+I. Tener a su cargo el despacho de los asuntos administrativos bajo la autoridad del Presidente del Consejo;
+
+II. Llevar por órdenes del Presidente del Pleno del Consejo, la correspondencia oficial de los órganos y dependencias del Poder Judicial;
+
+III. Presidir el Comité de Adquisiciones del Poder Judicial, en términos de lo establecido por la presente Ley y su Reglamento;
+
+IV. Hacer cumplir las normas y directrices relativas a la selección, contratación, nombramientos, remuneración, capacitación, desarrollo, control e incentivos del personal, sin perjuicio de las atribuciones de los titulares o responsables de las dependencias en lo relativo al personal adscrito a éstas;
+
+V. Cuidar que las oficinas del Tribunal Superior de Justicia y los Juzgados estén provistas del material suficiente para su buen funcionamiento;
+
+VI. Auxiliar a los Magistrados, Consejeros, Jueces y demás servidores públicos titulares de las diferentes áreas, en sus funciones de carácter administrativo;
+
+VII. Mantener actualizadas las bitácoras de mantenimiento del parque vehicular del Poder Judicial, así como llevar el control de la dotación de combustible necesario para el funcionamiento del mismo;
+
+VIII. Formalizar y mantener vigente la funcionalidad del Comité de Adquisiciones, mediante reuniones periódicas para atender las necesidades propias del Poder Judicial;
+
+IX. Participar, en coordinación con la Dirección de Finanzas, en la generación de información relativa a su área y en la conformación de proyectos y gestión de recursos que permitan mejorar y hacer más eficientes las labores del Poder Judicial;
+
+X. Ordenar, previa autorización del Presidente del Consejo de la Judicatura, los pagos que deban hacerse a proveedores de bienes y servicios, ya sea derivado de un proceso de licitación o por compra directa;
+
+XI. Verificar que se cumplan las disposiciones en materia de trabajo, seguridad e higiene laboral;
+
+XII. Vigilar que se lleven a cabo los servicios generales, así como el mantenimiento de los edificios y mobiliario asignado a los órganos y dependencias del Poder Judicial;
+
+XII (SIC). Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que éste, en ejercicio de sus funciones, le requiera;
+
+XIII. Instrumentar y operar el Programa Interno de Protección Civil, de conformidad con la Ley de Protección Civil y Gestión de Riesgos Para el Estado y Municipios de Baja California Sur y demás disposiciones generales y reglamentarias en la materia; y
+
+XIV. Las demás que señale el Reglamento interno, así como las que por la naturaleza de sus funciones le confieran el Pleno del Consejo o su Presidente.
+
+#### SECCIÓN II. DE LA DIRECCIÓN DE NÓMINA
+
+###### Artículo 146.
+
+La Dirección de Recursos Humanos estará a cargo del funcionario que designe el Pleno del Consejo y contará con el personal técnico que permita el presupuesto de egresos del Poder Judicial.
+
+Para ser Director de esta dependencia deberán cubrirse los mismos requisitos que se exigen para ser Secretario de Acuerdos, con excepción de la carrera profesional, la cual deberá ser Licenciado en Administración o carrera afín.
+
+###### Artículo 147.
+
+La Dirección de Recursos Humanos se encargará de mantener una organización administrativa integral, tecnificada y sistematizada del control de los recursos humanos del Poder Judicial, y tendrá las siguientes atribuciones:
+
+I. Integrar y mantener actualizados los expedientes personales de todos los servidores públicos del Poder Judicial, así como llevar el seguimiento del escalafón del personal sindicalizado, con excepción de los Magistrados, Consejeros y Jueces;
+
+II. Formular las hojas de servicio de los servidores públicos de la Administración de Justicia asentando en ellas las anotaciones que procedan;
+
+III. Procurar, mediante la capacitación permanente y oportuna del recurso humano del Poder Judicial, mejorar la calidad de los servicios que se prestan a los usuarios;
+
+IV. Fomentar actividades sociales, culturales y deportivas en beneficio de los trabajadores al servicio del Poder Judicial;
+
+V. Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que éste, en ejercicio de sus funciones, le requiera; y
+
+VI. Las demás que señale el Reglamento interno, así como las que por la naturaleza de sus funciones le encomienden el Pleno del Consejo, su presidente, o el Oficial Mayor.
+
+#### SECCIÓN III. DE LA DIRECCIÓN DE ADQUISICIONES
+
+###### Artículo 148.
+
+La Dirección de Nómina estará a cargo del funcionario que designe el Pleno del Consejo y contará con el personal que permita el presupuesto de egresos del Poder Judicial.
+
+Para ser Director de esta dependencia deberán cubrirse los requisitos que se exigen para ser Secretario de Acuerdos.
+
+El requisito de Licenciado en Derecho podrá ser dispensado por acuerdo del Pleno del Consejo, pudiendo ser Licenciado en Administración o en carrera afín.
+
+###### Artículo 149.
+
+Corresponde a la Dirección de Nómina:
+
+I. Remitir a la Dirección de Finanzas, en tiempo y forma, la solicitud de recursos presupuestales, correspondiente a la partida de sueldos y el impuesto patronal;
+
+II. La elaboración y pago de la nómina del personal del Poder Judicial;
+
+III. Llevar el control de las incidencias de nómina;
+
+IV. Proponer, coordinar, dirigir y controlar los sistemas y procedimientos internos del pago de los servicios personales y de las actividades inherentes al área de nómina, así como llevar a cabo la aplicación de los movimientos de sueldo de acuerdo a los tabuladores vigentes;
+
+V. Elaborar anualmente el manual de administración de remuneraciones, el cual será sometido a la aprobación del Pleno del Consejo;
+
+VI. Llevar el control y seguimiento del seguro de vida colectivo del personal del poder judicial;
+
+VII. Efectuar la retención de impuestos a los empleados del Poder Judicial, y enterarlos a la Dirección de Finanzas para el trámite correspondiente; y
+
+VIII. Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que éste, en ejercicio de sus funciones, le requiera; y
+
+IX. Las atribuciones que le sean designadas por disposiciones legales y las que confieran el Pleno del Consejo, su presidente, o el Oficial Mayor de acuerdo a la naturaleza de sus funciones.
+
+#### SECCIÓN IV. DE LA DIRECCIÓN DE PLANEACIÓN
+
+###### Artículo 150.
+
+La Dirección de Adquisiciones estará a cargo del funcionario que designe el Pleno del Consejo y contará con el personal técnico que permita el presupuesto de egresos del Poder Judicial.
+
+Para ser Director de esta dependencia deberán cubrirse los mismos requisitos que se exigen para ser Secretario de Acuerdos, con excepción de la carrera profesional, la cual deberá ser Licenciado en Administración o carrera afín.
+
+###### Artículo 151.
+
+El Director de Adquisiciones tendrá las siguientes atribuciones:
+
+I. Elaborar los programas anuales para la adquisición de bienes, arrendamientos y servicios con base en las necesidades y la disponibilidad financiera en coordinación con la Dirección de Finanzas y someterlos a consideración del Comité de Adquisiciones del Poder Judicial;
+
+II. Dar seguimiento a los acuerdos tomados al interior del Comité de Adquisiciones del Poder Judicial, respecto a las adquisiciones, arrendamientos y contratación de servicios en base al Reglamento de la Ley Orgánica del Poder Judicial, así como a la normatividad vigente para atender en tiempo y forma las necesidades propias del Poder Judicial;
+
+III. Llevar el control de las entradas y salidas del almacén de papelería, artículos de oficina, limpieza, mobiliario y equipo, así como atender las necesidades materiales y de mantenimiento de todas las áreas del Poder Judicial;
+
+IV. Mantener actualizado el inventario de mobiliario y equipo de oficina, de acuerdo a las altas y bajas registradas en el sistema de cómputo respectivo;
+
+V. Mantener actualizado el padrón de proveedores necesario para los diferentes tipos de adquisiciones y servicios, así como los contratos de arrendamientos de bienes muebles e inmuebles;
+
+VI. Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que éste, en ejercicio de sus funciones, le requiera;
+
+VII. Tener a su cargo la organización y el cumplimiento de las actividades del área de fotocopiado; y
+
+VIII. Las demás que señale el Reglamento, así como las que por la naturaleza de sus funciones le encomienden el Pleno del Consejo, su presidente, o el Oficial Mayor.
+
+#### SECCIÓN V. DEL COMITÉ DE ADQUISICIONES
+
+###### Artículo 152.
+
+La Dirección de Planeación, estará a cargo del funcionario que designe el Pleno del Consejo y contará con el personal técnico que permita el presupuesto de egresos del Poder Judicial.
+
+Para ser Director de esta dependencia deberá (sic) cubrirse los mismos requisitos que se exigen para ser Secretario de Acuerdos, con excepción de la carrera profesional la cual deberá ser Licenciado en Administración o carrera afín.
+
+El Director de Planeación tendrá las siguientes atribuciones:
+
+I. Organizar, planear y dar seguimiento a los planes y programas de trabajo implementados por las dependencias del Poder Judicial;
+
+II. Diseñar y mantener actualizado en coordinación con la Dirección de Finanzas un sistema de presupuesto acorde con los objetivos y necesidades del Poder Judicial;
+
+III. Coordinar la elaboración del presupuesto anual del Poder Judicial, asesorando y auxiliando a las dependencias del mismo;
+
+IV. Evaluar, durante cada ejercicio anual, la ejecución y seguimiento del gasto de las dependencias del Poder Judicial, así como el cumplimiento de metas con base en sus planes y programas de trabajo;
+
+V. Remitir mensualmente al Presidente del Consejo de la Judicatura un informe estadístico de las actividades de las dependencias del Poder Judicial;
+
+VI. Coordinar, actualizar y evaluar periódicamente el sistema de gestión de calidad;
+
+VII. Coordinar la elaboración, de manuales de organización y de procedimientos de los órganos y dependencias del Poder Judicial; y
+
+VIII. Las demás que el Pleno del Consejo, su presidente, o el Oficial Mayor le asignen en uso de sus facultades.
+
+#### SECCIÓN I. DE LAS COSTAS
+
+###### Artículo 153.
+
+El Comité de Adquisiciones del Poder Judicial, es el órgano encargado de programar, regular, asesorar y autorizar los actos y contratos que celebre el Poder Judicial en materia de adquisiciones, arrendamientos y servicios.
+
+Así mismo, corresponde al Comité de Adquisiciones del Poder Judicial emitir las bases, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes y prestación de servicios de cualquier naturaleza que realice el Poder Judicial, en ejercicio de su presupuesto de egresos, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Baja California Sur.
+
+###### Artículo 154.
+
+El Comité de Adquisiciones estará integrado de la siguiente manera:
+
+I. Un Presidente, que será el Oficial Mayor, con derecho a voz y voto;
+
+II. Dos Vocales, los cuales serán el Consejero Presidente de la Comisión de Administración, así como el Director de Finanzas, ambos con derecho a voz y voto; y
+
+III. Un Secretario Técnico, que será el Director de Adquisiciones, con derecho a voz pero sin voto.
+
+A las sesiones deberá asistir el Contralor con derecho a voz pero sin voto, y de igual forma podrán asistir como invitados, cualquier otro servidor público del Poder Judicial, cuya intervención considere necesaria el comité de adquisiciones.
+
+Las decisiones del Comité se tomarán por mayoría simple de votos de sus integrantes.
+
+En el desarrollo de las sesiones deberán estar presentes todos sus integrantes.
+
+Los integrantes del Comité deberán nombrar suplente.
+
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE FINANZAS
+
+###### Artículo 155.
+
+La Dirección de Finanzas estará a cargo del funcionario que designe el Pleno del Consejo y contará con el personal que permita el presupuesto de egresos del Poder Judicial.
+
+Para ser Director de Finanzas se deberán reunir los mismos requisitos que la presente Ley establece para ser Juez de Primera Instancia, salvo el de la profesión, para lo cual se exigirá título de Licenciado en Contaduría o en áreas de la administración afines, con título y cédula debidamente registrados, y estará a cargo del funcionario que designe el Pleno del Consejo.
+
+La Dirección de Finanzas dependerá directamente de la Presidencia del Consejo de la Judicatura.
+
+###### Artículo 156.
+
+La Dirección de Finanzas, tendrá las siguientes atribuciones:
+
+I. Elaborar anualmente, en coordinación con la Dirección de Nómina, el anteproyecto de presupuesto de egresos del Tribunal Superior de Justicia y del Consejo de la Judicatura, garantizando su operatividad y considerando sus necesidades de crecimiento, debiendo remitir el primero al Presidente del Tribunal para su aprobación por parte del Pleno de dicho órgano y el segundo a la Comisión de Administración, para efectos (sic) revisión y entrega al Presidente del Consejo, quién lo someterá a la aprobación del Pleno .
+
+II. Coadyuvar con el Presidente del Comité de Adquisiciones, en la elaboración de los programas anuales para la adquisición de bienes, arrendamientos y servicios con base en las necesidades y la disponibilidad financiera;
+
+III. Vigilar que la distribución del gasto comprometa exclusivamente los montos asignados a cada capítulo del presupuesto;
+
+IV. Llevar la supervisión de la aplicación de las partidas presupuestales;
+
+V. Utilizar la información estadística existente para la administración oportuna del presupuesto tendiente a mejorar el ejercicio de sus atribuciones;
+
+VI. Llevar el registro de ingresos y egresos;
+
+VII. La elaboración de declaraciones federales y estatales derivados (sic) de los cálculos de impuestos realizados por la Dirección de Nómina y Oficialía Mayor y enterarlos a la Secretaría de Hacienda y Crédito Público;
+
+VIII. La elaboración de conciliaciones bancarias mensuales;
+
+IX. Llevar el seguimiento de las inversiones en instituciones bancarias, para obtener mejor aprovechamiento y cuando así convenga a los intereses institucionales, podrá hacerlo en participación con los recursos del Fondo Auxiliar;
+
+X. Efectuar los pagos relacionados con la adquisición de bienes muebles e inmuebles;
+
+XI. La elaboración de cheques para gasto corriente, así como la recepción de comprobantes de bienes y servicios;
+
+XII. Intervenir para que se cumplan las disposiciones de la programación de pagos autorizados;
+
+XIII. Participar en la supervisión y conciliación de los registros contables y consolidar los estados financieros del Poder Judicial en coordinación con el Fondo Auxiliar;
+
+XIV. Rendir mensualmente al Presidente del Consejo de la Judicatura, los informes de cuenta pública y estados financieros;
+
+XV. Administrar el Sistema de Ahorro de los Trabajadores del Poder Judicial, rindiendo anualmente cuenta de ello al Pleno del Consejo y a su Presidente en el momento que este lo requiera; y
+
+XVI. Las demás que señale el Reglamento de la Ley Orgánica del Poder Judicial, así como las que por la naturaleza de sus funciones le confieran el Pleno o la Presidencia del Consejo de la Judicatura.
+
+###### Artículo 157.
+
+El director (sic) Finanzas deberá remitir en los términos que se le requiera, la documentación, registros o información que le soliciten en cualquier momento los órganos de control interno del Poder Judicial.
+
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DEL FONDO AUXILIAR PARA LA ADMINISTRACIÓN DE JUSTICIA
+
+###### Artículo 158.
+
+La Dirección del Fondo Auxiliar para la Administración de Justicia estará a cargo del funcionario que designe el Pleno del Consejo y contará con el personal que permita el presupuesto de egresos del Poder Judicial.
+
+La Dirección del Fondo Auxiliar para la Administración de Justicia, es una dependencia del Consejo de la Judicatura, cuyo objetivo primordial es; auxiliar al Pleno del Consejo, en la administración, custodia, vigilancia, supervisión y optimización de los recursos que integran el Fondo Auxiliar para la Administración de Justicia.
+
+Para ser Director del Fondo Auxiliar se deberá contar con los mismos requisitos previstos en la presente Ley para ser Secretario de Acuerdos o Secretario de Estudios y Proyectos de un Juzgado de Primera Instancia, con excepción de la profesión, ya que deberá contar con título y cedula profesional legalmente expedido de licenciatura en Contaduría, o carrera afín.
+
+Para el debido cumplimiento de sus funciones la Dirección del Fondo Auxiliar se integrara de las siguientes áreas: de cuenta pública, de ingresos, de egresos y de supervisión, para el mismo efecto contará con el personal técnico y administrativo que determine el Pleno del Consejo de la Judicatura, de acuerdo con el presupuesto de egresos.
+
+###### Artículo 159.
+
+El Fondo Auxiliar para la Administración de Justicia se integrará por recursos propios y ajenos adicionales al presupuesto de egresos asignado al Poder Judicial.
+
+Los recursos propios estarán integrados por multas, cauciones hechas efectivas por parte de la autoridad jurisdiccional, intereses devengados, producto de decomisos y de bienes declarados abandonados, en los términos establecidos por el Código Nacional de Procedimientos Penales, así como el cobro de derechos que establezcan las leyes o reglamentos, ingresos de entidades productivas y recursos institucionales provenientes del subsidio estatal.
+
+Los recursos ajenos se integrarán por depósitos de pensiones alimentarias, depósitos en efectivo o en valores que por concepto de garantías, reparación de daño, consignaciones de pago a terceros, así como aquellos de que con arreglo a la ley por cualquier causa se realicen ante los órganos jurisdiccionales y se encuentre (sic) sujetos a procedimiento. Estos recursos serán inembargables por constituir prenda o garantías de víctimas, acreedores o justiciables.
+
+###### Artículo 160.
+
+El Director del Fondo Auxiliar para la Administración de Justicia, tendrá las siguientes atribuciones:
+
+I. Asistir al Pleno del Consejo, en la administración de los recursos del Fondo Auxiliar para la Administración de Justicia;
+
+II. Vigilar que los órganos del Poder Judicial envíen en tiempo y forma la documentación referente a ingresos al fondo auxiliar;
+
+III. Coordinar el trámite para la devolución de garantías a través de los órganos jurisdiccionales del Poder Judicial;
+
+IV. Llevar la contabilidad de los recursos que integran el fondo auxiliar;
+
+V. Emitir mensualmente informe de estados financieros al Presidente del Consejo de la Judicatura;
+
+VI. Proponer al Pleno del Consejo, las inversiones a realizar, para obtener un mejor rendimiento, quedando estrictamente prohibidas las que pongan en riesgo el patrimonio del Fondo Auxiliar;
+
+VII. Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que éste, en ejercicio de sus funciones, le requiera; y
+
+VIII. Las demás que señale el Reglamento de la presente Ley, así como las que por la naturaleza de sus funciones le confieran el Pleno del Consejo o su Presidente.
+
+###### Artículo 161.
+
+El Fondo Auxiliar para la Administración de Justicia será administrado por el Pleno del Consejo y se integrará con:
+
+I. Los intereses de los depósitos en dinero o en valores que por cualquier concepto se efectúen ante los órganos y dependencias del Poder Judicial, además de las multas, sanciones, garantías que se hagan efectivas, así como derechos y aprovechamientos que permita la legislación aplicable;
+
+II. Con el producto de los objetos o instrumentos materia del delito cuando no sean reclamados por su propietario o por quien tenga derecho a ellos, dentro de los términos establecidos en el Código Nacional de Procedimientos Penales;
+
+III. Con el producto de los objetos o instrumentos materia del delito que hubiesen sido decomisados, en su integridad respecto de aquellos que correspondan a los procesos penales tradicionales, y la parte correspondiente de conformidad con el Código Nacional de Procedimientos Penales en aquellos que correspondan al sistema acusatorio;
+
+IV. Con el producto de los muebles y valores depositados por cualquier motivo ante los órganos y dependencias del Poder Judicial que no fueron retirados por el depositario o por quien tenga derecho a ellos dentro del plazo que señalen las leyes respectivas, computado a partir de la fecha en que pudo solicitar su devolución o entrega, teniéndose como tal la fecha de la notificación respectiva.
+
+En los casos no previstos por la ley, tratándose de valores, el plazo será de un año, con excepción de los depósitos derivados de pensiones alimentarias.
+
+V. La caución exhibida por el inculpado para garantizar su buena conducta procesal, al obtener su libertad provisional bajo caución, cuando éste incumpla con alguna de las obligaciones procesales; y
+
+VI. Con las donaciones, aportaciones y recursos institucionales a favor del Fondo Auxiliar.
+
+###### Artículo 162.
+
+Los depósitos que se hagan en efectivo mediante transferencia bancaria, en título, documentos o billetes de depósito, ante los órganos y dependencias del Poder Judicial deberán hacerse a nombre del “Consejo de la Judicatura del Estado de Baja California Sur”.
+
+###### Artículo 163.
+
+Para los efectos de los artículos anteriores el Tribunal Superior de Justicia, o cualquier órgano o dependencia del Poder Judicial, que por cualquier motivo reciba un depósito en dinero o en valores deberá remitirlo o integrarlo a la Dirección del Fondo Auxiliar, a más tardar al día hábil siguiente.
+
+Todo depósito mediante transferencia bancaria, título, documento, billete de depósito o efectivo, deberá hacerse en moneda de curso legal en la República Mexicana.
+
+###### Artículo 164.
+
+Las cantidades por reintegrar que reciba la Dirección del Fondo Auxiliar, serán reintegradas al beneficiario o depositante, pudiendo ser utilizadas por éstos para el pago de sanciones pecuniarias, beneficios o reparación del daño, según proceda, mediante orden por escrito del titular del órgano correspondiente únicamente.
+
+###### Artículo 165.
+
+Los recursos propios del Fondo Auxiliar para la Administración de Justicia se destinarán:
+
+I. A reparar el daño cuando se dicte sentencia que así lo ordene o cuando el imputado se sustraiga a la acción de la justicia, siempre y cuando se hubiese garantizado mediante caución dicha reparación;
+
+II. A sufragar los gastos que origine su administración;
+
+III. A la adquisición de bienes para el Poder Judicial;
+
+IV. A la capacitación y actualización profesional de los integrantes del Poder Judicial y Órganos Auxiliares de la Administración de Justicia; y
+
+V. Al otorgamiento de estímulos económicos y prestaciones sociales a la planta de servidores públicos del Poder Judicial que autorice el Pleno del Consejo.
+
+Los recursos de la Dirección de Finanzas transferidos a la Dirección del Fondo Auxiliar serán colocados en los fondos de inversión para generar intereses a tasa preferencial y una vez que se requieran para cubrir los gastos previstos en el presupuesto de egresos, serán reintegrados conjuntamente con los intereses generados proporcionalmente en relación con el capital invertido.
+
+###### Artículo 166.
+
+La administración y el destino del Fondo Auxiliar para la Administración de Justicia podrán ser revisados por el Órgano de Fiscalización Superior del Estado de Baja California Sur.
+
+###### Artículo 167.
+
+El Pleno del Consejo podrá ordenar visitas especiales con la intervención de Auditores, para la supervisión del manejo de los valores y depósitos a cargo de la Dirección del Fondo Auxiliar y, de acuerdo con el resultado de la visita, el mismo Pleno tomará el acuerdo correspondiente.
+
+###### Artículo 168.
+
+El Director del Fondo Auxiliar deberá remitir en los términos que se le requiera, la documentación, registros o información que le soliciten en cualquier momento los órganos de control interno del Poder Judicial.
+
+### CAPÍTULO QUINTO. DEL CENTRO ESTATAL DE JUSTICIA ALTERNATIVA
+
+###### Artículo 169.
+
+El Centro Estatal de Justicia Alternativa, tendrá por objeto el establecido en la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur y estará a cargo de un Director o Directora del cual partirá la estructura necesaria para el desarrollo eficaz y eficiente de sus funciones, así como con el personal técnico y administrativo que para ello requiera y permita el presupuesto que para tal efecto asigne el Pleno del Consejo, de acuerdo a sus atribuciones.
+
+La designación del Director del Centro Estatal de Justicia Alternativa se hará por el Pleno del Consejo y durará en su encargo cuatro años.
+
+El Centro contará con el número de especialistas que permita el presupuesto del Poder Judicial, mismos que serán nombrados por el Pleno del Consejo y serán adscritos en base a las necesidades y perfiles de cada uno.
+
+El Centro Estatal de Justicia Alternativa dependerá directamente del Consejo de la Judicatura.
+
+###### Artículo 170.
+
+Para ser Titular del Centro se deberán cumplir los siguientes requisitos:
+
+I. Tener 30 años de edad cumplidos al día de su designación;
+
+II. Acreditar por lo menos cinco años de servicio profesional o tres años dentro del Poder Judicial, los cuales se contarán a partir de la fecha de la expedición del Título y Cédula Profesional;
+
+III. Ser ciudadana o ciudadano mexicano, en pleno ejercicio y goce de sus derechos;
+
+IV. Tener Título y Cédula de Licenciado en Derecho, debidamente expedido y registrado conforme a la Ley;
+
+V. No ser ministro de culto alguno;
+
+VI. No tener impedimento físico ni enfermedad que lo imposibilite para el ejercicio de su cargo;
+
+VII. Tener reconocida honradez, probidad y buena conducta;
+
+VIII. No haber sido condenado en sentencia ejecutoria por delito doloso, ni en juicios por responsabilidad administrativa, o no estar siendo procesado por delito doloso, ni sujeto a juicio de responsabilidad administrativa;
+
+IX. Acreditar que cuenta con los conocimientos, habilidades y capacidades que se requieran para el desempeño de su cargo, para lo cual deberá acreditar contar con experiencia y estudios en métodos alternos para la solución de conflictos;
+
+X. Acreditar con examen toxicológico que no hace uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares; y
+
+XI. No padecer alcoholismo.
+
+###### Artículo 171.
+
+Para ser Especialista del Centro de Justicia Alternativa se deberán cumplir los requisitos establecidos en la Ley de Mecanismos Alternativos de Solución de Controversias del Estado de Baja California Sur.
+
+###### Artículo 172.
+
+El Centro podrá contar con Unidades Regionales en cada Partido Judicial del Estado, al frente de la cual estará un Encargado de Unidad, quien será nombrado por el Pleno del Consejo, y tendrá las facultades y obligaciones que determinen las disposiciones reglamentarias. Los Encargados de Unidad deberán reunir los mismos requisitos que esta Ley establece para ser titular del Centro.
+
+Asimismo, en cada Unidad habrá el número de Especialistas que determine el Pleno del Consejo, de acuerdo al presupuesto del Poder Judicial.
+
+###### Artículo 173.
+
+El Director del Centro Estatal de Justicia Alternativa tendrá las atribuciones que le confiere la Ley de Mecanismos Alternativos Para la Solución de Controversias del Estado de Baja California Sur, esta Ley, las disposiciones Reglamentarias; y las que de acuerdo a la naturaleza del cargo se le encomienden en los Acuerdos del Pleno del Consejo.
+
+###### Artículo 174.
+
+El Director del Centro Estatal de Justicia Alternativa deberá asegurarse de que los convenios en que aquel intervenga, sean redactados de forma clara y en términos que hagan materialmente posible su ejecución, y no tengan vicios del consentimiento, o estipulaciones contrarias al derecho, la moral o las buenas costumbres; las mismas previsiones deberá observar para la aprobación y registro de los convenios celebrados por Especialistas Privados.
+
+### CAPÍTULO SEXTO. DE LA ESCUELA JUDICIAL
+
+###### Artículo 175.
+
+El objeto de la Escuela Judicial es la formación, capacitación, actualización y especialización de los servidores públicos del Poder Judicial, así como de quienes aspiren a pertenecer al mismo; impulsar la investigación jurídica y coordinar los procesos de ingreso, formación, permanencia, promoción, especialización, evaluación y reconocimiento, en los términos que establezca el Reglamento de la Carrera Judicial.
+
+###### Artículo 176.
+
+La Escuela Judicial dependerá directamente del Presidente del Consejo de la Judicatura, y contará con un Director y el personal docente y técnico-administrativo que permita el presupuesto.
+
+###### Artículo 177.
+
+Para ser Director de la Escuela Judicial se deberán reunir los mismos requisitos que se establecen en la presente Ley para ser Juez de Primera Instancia, con la salvedad de que en todo caso se deberá acreditar, cuando menos cinco años de ejercicio profesional.
+
+###### Artículo 178.
+
+Son funciones y responsabilidades del Director de la Escuela Judicial:
+
+I. Formular anualmente el programa de actividades, para ser sometido a la aprobación del Presidente del Consejo de la Judicatura;
+
+II. Cuidar que el programa de la Escuela Judicial se elabore con apego a las necesidades del Poder Judicial;
+
+III. Establecer y mantener comunicación permanente con otras dependencias, Instituciones educativas y centros de investigación con el propósito de lograr el mejoramiento académico y operativo de los cursos que se impartan;
+
+IV. Promover entre el personal del Poder Judicial cursos de capacitación, actualización y especialización;
+
+V. Tener a su cargo la Biblioteca del Poder Judicial;
+
+VI. Coordinar el sistema de Carrera Judicial, en términos del Reglamento de la materia y los Acuerdos del Pleno del Consejo.
+
+VII. Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que éste, en ejercicio de sus funciones, le requiera;
+
+VIII. Remitir al Pleno del Consejo para su aprobación, las propuestas de publicaciones de los servidores públicos del Poder Judicial; y
+
+IX. Realizar las demás funciones y asumir las responsabilidades establecidas en el Reglamento y las demás que de acuerdo a la naturaleza de sus funciones le asigne el Pleno del Consejo y su presidente.
+
+###### Artículo 179.
+
+La Biblioteca es el área del Poder Judicial donde se concentra el acervo bibliográfico, hemerográfico y demás documentos, que proporciona al personal de la institución, y usuarios externos, un área de consulta jurídica actualizada en los temas vinculados con el objeto del Poder Judicial.
+
+La Biblioteca estará preferentemente al servicio del personal que integra el Poder Judicial.
+
+### CAPÍTULO SÉPTIMO. DE LA DIRECCIÓN DE INFORMÁTICA
+
+###### Artículo 180.
+
+La Dirección de Informática estará a cargo del funcionario que designe el Pleno del Consejo, contará con el personal que permita el presupuesto de egresos del Poder Judicial y dependerá directamente de la Presidencia del Consejo.
+
+Para ser Director de esta dependencia deberán cubrirse los mismos requisitos que se establecen en la presente Ley para ser Juez de Primera Instancia, con excepción de la profesión, la cual deberá ser Licenciado o Ingeniero en Ciencias de la Computación o carrera relacionada con las atribuciones de esta Dirección.
+
+La Dirección de Informática se integrará de tres departamentos:
+
+I. Desarrollo de Sistemas;
+
+II. Administración de Redes y Bases de Datos; y
+
+III. Soporte técnico.
+
+El personal de la Dirección de Informática deberá contar con título profesional o documento que acredite sus conocimientos profesionales en el área;
+
+###### Artículo 181.
+
+El titular de la Dirección de Informática tendrá las siguientes atribuciones:
+
+I. Mantener y conservar actualizados los registros estadísticos de los juicios o procedimientos por materia, juzgado, sala y dependencia, debiendo integrarla en bases de datos, los cuales estarán permanentemente disponibles para el Pleno del Consejo de Judicatura, su Presidencia, y la Unidad de Transparencia;
+
+II. Diseñar programas y sistemas informáticos y de telecomunicaciones de apoyo a todas las áreas del Poder Judicial que permitan su constante desarrollo;
+
+III. La elaboración del Boletín Judicial en tanto la normatividad procesal lo contemple como un medio para la práctica de notificaciones;
+
+IV. Administrar, mantener y supervisar los sistemas implementados en el ámbito jurídico, administrativo y financiero, desarrollando nuevos módulos de acuerdo a las necesidades de información, garantizando la integridad y seguridad de los mismos;
+
+V. Desarrollar y administrar las aplicaciones para la consulta de expedientes y la implementación de procedimientos judiciales vía internet;
+
+VI. Administrar los servicios de telecomunicaciones entre las diversas áreas del Poder Judicial;
+
+VII. Auxiliar y asesorar al personal de la Unidad de Informática de los Juzgados Penales del Sistema Acusatorio;
+
+VIII. Garantizar el correcto funcionamiento de la infraestructura informática y de telecomunicaciones a través del mantenimiento preventivo y correctivo;
+
+IX. Brindar capacitación, asesoría y soporte técnico a los usuarios de los sistemas informáticos, equipamiento y telecomunicaciones;
+
+X. Auxiliar a la Oficialía Mayor en la elaboración de dictámenes técnicos en la adquisición de equipamiento informático y de telecomunicaciones, así como de los suministros necesarios para su correcto funcionamiento;
+
+XI. Llevar el control, seguimiento y actualización de la información que sea publicada en el portal de Internet oficial del Poder Judicial; estando a su cargo la publicación en este medio, de los Acuerdos Generales emitidos por el Pleno del Consejo, sus comisiones y su Presidente, así como los edictos, calendario general de actividades y de audiencias públicas de los juzgados Penales del Sistema Acusatorio, y avisos de interés para justiciables;
+
+XII. Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que éste, en ejercicio de sus funciones, le requiera; y
+
+XIII. Las demás que señale el Reglamento, así como las que por la naturaleza de sus funciones le encomienden el Pleno del Consejo o su Presidente.
+
+### CAPÍTULO OCTAVO. DE LA VISITADURÍA JUDICIAL
+
+###### Artículo 182.
+
+La Visitaduría Judicial es una dependencia auxiliar del Pleno del Consejo y de su Presidente, competente para inspeccionar el funcionamiento de las Salas, los juzgados del Poder Judicial, la Central de Actuarios, Oficialías de Partes, Centro Estatal de Justicia Alternativa y sus unidades, las Coordinaciones Administrativas de Juzgados y demás órganos relacionados con la administración de justicia, así como para supervisar el desempeño profesional de sus integrantes en el ejercicio de sus funciones.
+
+La Visitaduría Judicial estará integrada por el Visitador General, visitadores auxiliares y el personal administrativo que determine el Pleno del Consejo con base al presupuesto del Poder Judicial.
+
+Para ser Visitador General o auxiliar se deberán reunir los mismos requisitos que para ser Juez de Primera Instancia.
+
+La designación del Visitador General, los visitadores auxiliares y demás servidores públicos de esa dependencia, se hará por el Pleno del Consejo, a propuesta de su Presidente.
+
+El Visitador General, en el ejercicio de sus funciones, actuará ante un visitador auxiliar o testigos de asistencia.
+
+###### Artículo 183.
+
+El Pleno del Consejo, mediante acuerdos generales, establecerá los sistemas que permitan evaluar de manera periódica el desempeño y la honorabilidad del Visitador General y los visitadores auxiliares para efectos del adecuado cumplimiento de sus funciones.
+
+La Visitaduría Judicial dependerá directamente de la Presidencia del Consejo de la Judicatura.
+
+###### Artículo 184.
+
+El Visitador General tendrá las siguientes atribuciones:
+
+I. Practicar visitas ordinarias y extraordinarias a los diversos órganos del Poder Judicial para verificar el cumplimiento de las disposiciones legales y las emitidas por el pleno del Consejo o por su presidente;
+
+II. Iniciar, diligenciar y sustanciar hasta el estado de resolución el procedimiento de responsabilidad, en los términos previstos en esta Ley y su Reglamento, con las más amplias facultades de investigación de los hechos, siempre que no sean contrarias a derecho, relativas a las faltas a la función pública encomendada a los servidores públicos adscritos a los órganos jurisdiccionales del Poder Judicial, con excepción del Visitador General y los Visitadores Auxiliares;
+
+III. Examinar los expedientes formados por motivo de las causas radicadas en los juzgados, así como los expedientes formados con motivo de los tocas de las Salas, que se estime conveniente a fin de verificar que se lleven con arreglo a la ley, si las resoluciones o acuerdos han sido dictados y cumplidos oportunamente, si las notificaciones y diligencias se efectuaron en los plazos legales, si se han respetado los términos constitucionales y derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales suscritos por el Estado Mexicano, y la Constitución Política del Estado Libre y Soberano de Baja California Sur;
+
+IV. Verificar si los exhortos y despachos han sido debidamente diligenciados dentro de los plazos que la ley establece;
+
+V. Revisar los libros de Gobierno correspondientes, a fin de determinar si se encuentran en orden y contienen los datos requeridos según la normatividad relativa;
+
+VI. Comprobar el cumplimiento de las disposiciones que regulan lo relativo al aseguramiento, destino provisional y definitivo de los objetos materiales e instrumentos del delito;
+
+VII. Verificar la existencia de los valores y su debido resguardo y custodia;
+
+VIII. Nombrar a los testigos de asistencia en las actuaciones que fuere necesario;
+
+IX. Requerir en cualquier momento, siempre que en ejercicio de sus funciones le resulte necesario, la información, registros o documentos a los titulares de los órganos y dependencias;
+
+X. Rendir informe al Presidente del Consejo de la Judicatura, al momento de su radicación, de toda queja o denuncia que le sea turnada o se presente ante la Visitaduría Judicial, en contra de servidores públicos del Poder Judicial;
+
+XI. Instrumentar en la esfera de su competencia y bajo los lineamientos, la dirección y supervisión de la Comisión de Vigilancia y Disciplina el Programa Usuario Simulado, con la finalidad de investigar o detectar conductas de servidores públicos del Poder Judicial que tergiversando sus atribuciones utilicen el cargo para obtener algún beneficio económico o personal;
+
+XII. Delegar sus atribuciones a los visitadores auxiliares, para el cumplimiento de las funciones de la Visitaduría; y
+
+XIII. Las demás que señale el Reglamento, así como las que por la naturaleza de sus funciones le encomienden el Pleno del Consejo o su Presidente.
+
+Contra las actuaciones, acuerdos o resoluciones emitidas por la Visitaduría Judicial no procederá recurso ordinario alguno.
+
+###### Artículo 185.
+
+De toda visita de inspección, el Visitador que la lleve a cabo deberá levantar acta circunstanciada, en la cual hará constar el desarrollo de la misma, las quejas o denuncias presentadas en contra de los titulares y demás servidores públicos del órgano de que se trate, las manifestaciones que respecto de la visita o del contenido del acta quisieran realizar los propios titulares o servidores del órgano, así como las firmas del titular del órgano de que se trate.
+
+Los visitadores auxiliares que lleven a cabo la visita de inspección deberán entregar el acta levantada al Visitador General, para los efectos del párrafo que antecede.
+
+Los visitadores auxiliares deberán realizar las funciones que señale el Reglamento de esta Ley y las que de acuerdo a la naturaleza de sus atribuciones les asigne el Pleno del Consejo, su Presidente y el Visitador General.
+
+### CAPÍTULO NOVENO. DE LA CONTRALORÍA
+
+###### Artículo 186.
+
+La Contraloría del Poder Judicial es una dependencia auxiliar del Pleno del Consejo y de su Presidente y tendrá en su encargo las facultades de control interno y coadyuvancia en la inspección del cumplimiento de las normas del funcionamiento administrativo que rijan a las dependencias, servidores públicos y empleados del propio Poder Judicial, con excepción de aquellas que correspondan al Pleno del Consejo y a su Presidente, sin perjuicio de las atribuciones de la Visitaduría Judicial.
+
+La Contraloría estará integrada por el Contralor General, los auditores adjuntos y el personal administrativo que determine el Pleno del Consejo con base al presupuesto del Poder Judicial.
+
+El Contralor General, en el ejercicio de sus funciones, actuará ante un auditor adjunto o testigos de asistencia.
+
+###### Artículo 187.
+
+Para ser Contralor General y auditor adjunto se deberán reunir los mismos requisitos que se establecen en la presente Ley para ser Juez de Primera Instancia.
+
+El requisito del título de Licenciado en Derecho podrá ser dispensado por acuerdo del Pleno del Consejo, siempre que se trate de Licenciado en Contaduría Pública, Administración o profesiones afines.
+
+La designación del Contralor General se hará por el Pleno del Consejo, a propuesta de su Presidente.
+
+La Contraloría del Poder Judicial dependerá directamente de la Presidencia del Consejo de la Judicatura.
+
+###### Artículo 188.
+
+El Contralor General tendrá las siguientes atribuciones:
+
+I. Vigilar el cumplimiento de las normas de control interno establecidas en esta Ley, su Reglamento y las que determine el Pleno del Consejo;
+
+II. Practicar visitas ordinarias y extraordinarias a las dependencias del Poder Judicial para verificar el cumplimiento de las disposiciones establecidas en los ordenamientos jurídicos y las emitidas por el Pleno del Consejo o por su Presidente;
+
+III. Iniciar, diligenciar y sustanciar hasta el estado de resolución el procedimiento de responsabilidad, en los términos previstos en esta Ley y su Reglamento, con las más amplias facultades de investigación de los hechos, siempre que no sean contrarias a derecho, relativas a las faltas a la función pública encomendada a los servidores públicos adscritos a las dependencias del Tribunal y darles el trámite correspondiente, con excepción de los procedimientos que se instruyan en contra del Contralor General y los Auditores Adjuntos;
+
+IV. Diseñar las políticas, planes de trabajo, sistemas y acciones, para el logro de su objetivo institucional de fiscalización y evaluación;
+
+V. Practicar auditorías financieras a órganos jurisdiccionales del Poder Judicial en los casos que le sea solicitado por la Visitaduría judicial o las que ordene el Presidente;
+
+VI. Vigilar y dar seguimiento a los procesos de adquisiciones, arrendamientos y servicios autorizados por el Comité de Adquisiciones del Poder Judicial, a efecto de garantizar su legalidad;
+
+VII. Intervenir en la entrega y recepción de bienes cuando ocurran cambios de titulares de las dependencias y juzgados del Poder Judicial, en los casos que así lo disponga el Presidente del Consejo de la Judicatura.
+
+VIII. Participar en la elaboración de los manuales de organización y procedimientos de las dependencias;
+
+IX. Mantener en las diligencias de sus procedimientos, la más absoluta reserva y abstenerse de comunicar a los interesados o a terceros el resultado de sus indagaciones;
+
+X. Requerir, recibir y registrar copia de las declaraciones de situación patrimonial, de intereses y fiscal, que presenten los servidores públicos del Poder Judicial ante la instancia competente en términos de las Leyes Generales y las que en el ámbito estatal regulen el Sistema Nacional Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos, comprobando la exactitud y veracidad de ellas y comunicar al Presidente del Consejo de la Judicatura las irregularidades detectadas;
+
+XI. Llevar el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Poder Judicial;
+
+XII. Revisar oportunamente el desempeño administrativo, financiero y operacional de las dependencias del Poder Judicial;
+
+XIII. Poner a consideración del Presidente del Consejo de la Judicatura para su aprobación, los manuales de procedimientos y guías para la realización de visitas de auditorías en los órganos y las dependencias del Poder Judicial, de acuerdo con los lineamientos establecidos;
+
+XIV. Supervisar el ejercicio del gasto público y su aplicación de acuerdo con el presupuesto de egresos autorizado y con apego a la normatividad aplicable;
+
+XV. Vigilar el cumplimiento de las normas de control establecidas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California Sur, y en su caso la Ley Federal de Responsabilidad de los Servidores Públicos;
+
+XVI. Participar en las reuniones que celebra la Comisión de Escalafón del Poder Judicial, para vigilar que se cumpla la normatividad que en materia de recursos humanos sea aplicable;
+
+XVII. Comisionar al personal a su cargo para apoyar en la práctica de visitas de inspección, ordinarias y extraordinarias, de las dependencias del Poder Judicial;
+
+XVIII. Solicitar la colaboración de la Visitaduría Judicial, en caso de requerir su intervención en una visita de inspección;
+
+XIX. Rendir semestralmente al Presidente del Consejo de la Judicatura, dentro de los diez días hábiles después de concluido cada semestre, un informe detallado de labores;
+
+XX. Requerir en cualquier momento, siempre que en ejercicio de sus funciones le resulte necesario, la información, datos, registros o documentos a los titulares de los órganos y dependencias;
+
+XXI. Practicar las auditorías financieras, operacionales, de resultado de programas, contables, administrativas, de supervisión física, así como fincar cuando proceda la responsabilidad administrativa a los servidores públicos del Poder Judicial, remitiendo el resultado al Presidente del Consejo de la Judicatura y al titular del área respectiva;
+
+XXII. Instrumentar en la esfera de su competencia y bajo los lineamientos, la dirección y supervisión de la Comisión de Vigilancia y Disciplina el Programa Usuario Simulado, con la finalidad de investigar o detectar conductas de servidores públicos del Poder Judicial que tergiversando sus atribuciones utilicen el cargo para obtener algún beneficio económico o personal;
+
+XXIII. Nombrar a los testigos de asistencia en las actuaciones que fuere necesario;
+
+XXIV. Delegar en los auditores adjuntos, las facultades necesarias para el ejercicio de sus atribuciones; y
+
+XXV. Las demás que señalen las Leyes y Reglamentos, así como las que de acuerdo a la naturaleza de sus funciones le asigne el Pleno del Consejo y su presidente.
+
+Los auditores adjuntos deberán realizar las funciones que señale el Reglamento de esta Ley y las que de acuerdo a la naturaleza de sus atribuciones les asigne el Pleno del Consejo, su Presidente y el Contralor General.
+
+Contra las actuaciones, acuerdos o resoluciones emitidas por la Contraloría del Poder Judicial no procederá recurso ordinario alguno.
+
+### CAPÍTULO DÉCIMO. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL Y RELACIONES PÚBLICAS
+
+###### Artículo 189.
+
+La Dirección de Comunicación Social y Relaciones Públicas es la dependencia del Consejo de la Judicatura, responsable de fomentar y mantener la relación de éste con los medios de comunicación, así como de difundir la información que se vincule con los actos oficiales del Poder Judicial.
+
+La Dirección de Comunicación Social y Relaciones Públicas contará con un Director y el personal técnico-administrativo que determine el Pleno del Consejo de acuerdo al presupuesto del Poder Judicial.
+
+A propuesta de su Presidente, el Pleno del Consejo nombrará un Director de Comunicación Social y Relaciones Públicas, quien deberá reunir los mismos requisitos establecidos en la presente Ley para ser Juez de Primera Instancia, salvo los relativos a la profesión que en este caso debe ser Licenciado en Ciencias de la Comunicación o carrera afín y la temporalidad que se exige para el ejercicio profesional, que para este cargo no aplicará.
+
+El Director de Comunicación Social y Relaciones Públicas dependerá directamente del Presidente del Consejo de la Judicatura.
+
+###### Artículo 190.
+
+El titular de la Dirección de Comunicación Social y Relaciones Públicas tendrá las siguientes atribuciones:
+
+I. Establecer y fomentar las relaciones con los medios de comunicación masiva;
+
+II. Compilar y clasificar la información que difundan los medios de comunicación masiva;
+
+III. Participar en la organización de eventos especiales del Poder Judicial, que le instruya el Presidente del Consejo de la Judicatura;
+
+IV. Elaborar diariamente una síntesis de la información emitida por los diferentes medios de comunicación para su difusión al interior del Poder Judicial;
+
+V. Difundir oportunamente las actividades del Poder Judicial a través de los medios de comunicación que el Presidente del Consejo de la Judicatura determine; y
+
+VI. Las demás que de acuerdo a la naturaleza de sus funciones le asignen el Reglamento, el Pleno del Consejo y su Presidente
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LA CENTRAL DE ACTUARIOS
+
+###### Artículo 191.
+
+La Central de Actuarios del Poder Judicial es el órgano auxiliar de apoyo a la función jurisdiccional encargada de:
+
+I. Realizar las diligencias de ejecución que ordene la autoridad jurisdiccional competente; y
+
+II. Las demás que determinen los diversos ordenamientos, así como el Pleno del Consejo y su Presidente.
+
+En la Central de Consignaciones de Pensiones Alimentarias, así como en los partidos judiciales donde no hubiere central de actuarios, los actuarios estarán adscritos a los órganos y dependencias de esa circunscripción territorial, y tendrán las obligaciones establecidas en esta Ley para los Actuarios adscritos a los Juzgados de Primera Instancia.
+
+###### Artículo 192.
+
+La Central de Actuarios estará a cargo de un Coordinador, el cual deberá reunir los mismos requisitos previstos en la presente Ley para ser Secretario de Acuerdos o Secretario de Estudios y Proyectos de un Juzgado de Primera Instancia.
+
+La designación del Coordinador de la Central de Actuarios se hará por el Pleno del Consejo, a propuesta de su Presidente.
+
+La Central de Actuarios será la encargada de practicar las notificaciones y citaciones de las resoluciones judiciales a quien vaya dirigida conforme a lo ordenado por el órgano jurisdiccional, en los términos señalados por los ordenamientos procesales.
+
+La Central de Actuarios dependerá directamente de la Presidencia del Consejo de la Judicatura, y contará con el número de actuarios y personal administrativo que determine el Pleno del Consejo acuerdo al presupuesto del Poder Judicial.
+
+El Coordinador, y los actuarios, en el ejercicio de sus funciones contarán con fe pública.
+
+### CAPÍTULO DÉCIMO SEGUNDO. DE LA UNIDAD DE IGUALDAD DE GÉNERO Y DERECHOS HUMANOS
+
+###### Artículo 193.
+
+La Unidad de Igualdad de Género y Derechos Humanos es la dependencia encargada de diseñar e implementar las estrategias encaminadas a la reorganización, mejora, desarrollo y evaluación de los procesos con perspectiva de Género y Derechos Humanos, dentro del Poder Judicial, a efecto de propiciar su inclusión en todas las políticas y acciones implementadas.
+
+La Unidad de Igualdad de Género y Derechos Humanos estará a cargo de un Titular nombrado por el Pleno del Consejo, a propuesta de su Presidente, y deberá ser profesionista, con estudios especializados en igualdad de género y Derechos Humanos, debiendo cumplir con los mismos requisitos previstos en la presente Ley para ser Secretario de Acuerdos o Secretario de Estudios y Proyectos de un Juzgado de Primera Instancia.
+
+La Unidad de Igualdad de Género y Derechos Humanos dependerá directamente de la Presidencia del Consejo de la Judicatura.
+
+###### Artículo 194.
+
+Son funciones de la Unidad de Igualdad de Género y Derechos Humanos, las siguientes:
+
+I. Llevar a cabo las acciones encaminadas a la institucionalización del enfoque de igualdad de género y Derechos Humanos en la Administración de Justicia;
+
+II. Implementar, dar seguimiento y monitorear las políticas de igualdad de género y Derechos Humanos, proponiendo al Presidente del Consejo de la Judicatura los mecanismos necesarios para lograr la coordinación entre los diferentes órganos y dependencias del Poder Judicial responsables de su aplicación;
+
+III. Incorporar la perspectiva de género y Derechos Humanos en los proyectos de planeación, reformas y modernización jurisdiccional y administrativa;
+
+IV. Promover investigaciones sobre el impacto del género en el acceso a la justicia; y
+
+V. Revisar las políticas laborales para eliminar la discriminación.
+
+###### Artículo 195.
+
+El titular de la Unidad de Igualdad de Género y Derechos Humanos, tendrá las siguientes atribuciones:
+
+I. Coordinarse con el Director de la Escuela Judicial, para incorporar la perspectiva de género y Derechos Humanos en los programas de formación y capacitación continua dirigidos a los servidores públicos del Poder Judicial;
+
+II. Proponer al Presidente del Consejo de la Judicatura, los proyectos y programas que deban gestionarse ante las dependencias federales, estatales y municipales, así como ante las organizaciones no gubernamentales;
+
+III. Vigilar la aplicación de políticas laborales para eliminar la discriminación basada en el género, con la finalidad de:
+
+a) Crear mecanismos eficientes para la prevención, atención, sanción y erradicación del acoso y hostigamiento laboral y sexual, tales como protocolos especializados de atención y resolución de dichos casos;
+
+b) Desarrollar políticas específicamente orientadas a erradicar los estereotipos de género; y
+
+c) Las demás que determinen el Reglamento de la presente Ley Orgánica y otros ordenamientos aplicables;
+
+IV. Rendir semestralmente un informe al Presidente del Consejo de la Judicatura, relativo a las actividades realizadas;
+
+V. Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que éste, en ejercicio de sus funciones, le requiera; y
+
+VI. Las demás que establezca el Reglamento de la presente Ley, así como el Pleno del Consejo y su Presidente.
+
+### CAPÍTULO DÉCIMO TERCERO. DE LOS CENTROS DE CONVIVENCIA FAMILIAR
+
+###### Artículo 196.
+
+Los Centros de Convivencia Familiar, son las dependencias administrativas auxiliares de la administración de justicia, ubicadas en los Partidos Judiciales que determine el Pleno del Consejo, estarán destinadas a garantizar el interés superior del menor, siendo estos los espacios destinados para que se desarrolle una eficaz y sana convivencia entre los menores y las personas que tengan derecho de convivir con aquellos, a efecto de propiciar y reforzar los lazos de identidad y confianza entre ellos. Cada Centro de Convivencia Familiar estará integrado por:
+
+I. Un Director;
+
+II. Trabajadores Sociales;
+
+III. Psicólogos;
+
+IV. Enfermeros; y
+
+V. El personal de apoyo necesario.
+
+###### Artículo 197.
+
+Las convivencias familiares supervisadas serán decretadas por los jueces competentes, para que el menor de edad conviva con alguno de sus progenitores o con quien les asista el derecho de convivencia en las instalaciones de los Centros de Convivencia Familiar, bajo la supervisión de un psicólogo o trabajador social, durante el plazo que se determine jurisdiccionalmente.
+
+Cuando la Autoridad judicial lo determine, el Centro de Convivencia familiar podrá registrar y supervisar la entrega de un menor por parte del padre, madre, tutor o persona que ejerza la guarda o custodia, a quien no la ejerce y que tiene derecho a la convivencia, así como vigilar y registrar la devolución del menor a quien realizó la entrega.
+
+###### Artículo 198.
+
+Para ser Director del Centro de Convivencia familiar, se deberán reunir los mismos requisitos previstos por esta Ley para ser Juez de Primera Instancia, con excepción de la edad y la profesión; que respectivamente para este cargo será de por lo menos veintiocho años cumplidos al día de su designación, pudiendo la profesión ser la de Licenciado en psicología.
+
+###### Artículo 199.
+
+El Director del Centro de Convivencia Familiar tendrá las siguientes atribuciones:
+
+I. Recibir y dar trámite a las determinaciones que remitan los jueces de la materia, en que se ordena la convivencia supervisada o de tránsito que corresponda;
+
+II. Llevar los libros de registro de las convivencias familiares llevadas a cabo en el Centro;
+
+III. Vigilar que las convivencias se lleven a cabo con la supervisión del personal adscrito al Centro de Convivencia Familiar;
+
+IV. Informar periódicamente a los jueces que hayan decretado la convivencia familiar, o a petición de éstos, sobre el desarrollo y cumplimiento de la misma y de cualquier acontecimiento extraordinario que ponga en peligro inminente la integridad de los menores;
+
+V. Recomendar al juez e interesados sobre la conveniencia de una convivencia paterno filial no supervisada, cuando después de tres meses y antes de seis, no reciba determinación distinta de la autoridad judicial;
+
+VI. Rendir al Presidente del Consejo de la Judicatura, un informe estadístico dentro de los primeros cinco días de cada mes, sobre las actividades del Centro de Convivencia Familiar en el mes inmediato anterior;
+
+VII. Adoptar las medidas preventivas y correctivas necesarias para salvaguardar el orden en el Centro de Convivencia Familiar;
+
+VIII. Informar al Juez que corresponda sobre el incumplimiento, de cualquier ordenamiento jurisdiccional por parte del padre, madre, tutor o persona que ejerza la guarda o custodia, al siguiente día hábil de que haya ocurrido éste; y
+
+IX. Las demás que determine el Reglamento, el Pleno del Consejo y su Presidente.
+
+### CAPÍTULO DÉCIMO CUARTO. DE LAS OFICIALÍAS DE PARTES
+
+###### Artículo 200.
+
+La Oficialía de Partes es una dependencia de apoyo judicial, subordinada a la Presidencia del Consejo de la Judicatura, y tiene por objeto recibir los escritos, oficios y correspondencia dirigidos al Pleno, la Presidencia y las Salas del Tribunal Superior de Justicia, así como Juzgados de Primera Instancia del Poder Judicial.
+
+Las Oficialías de Partes Comunes podrán contar con un Coordinador que dependerá de la Presidencia del Consejo de la Judicatura, y contará con el personal administrativo que determine el Pleno del mismo, de acuerdo con el presupuesto del Poder Judicial.
+
+###### Artículo 201.
+
+El Pleno del Consejo está facultado para crear oficialías de partes de acuerdo a las necesidades de cada partido judicial.
+
+###### Artículo 202.
+
+En aquellos lugares donde existan dos o más juzgados de primera instancia, habrá una oficialía de partes común que podrá operar en turno matutino y vespertino.
+
+###### Artículo 203.
+
+No se recibirá en la oficialía de partes común, en el turno vespertino, los oficios provenientes de autoridades de amparo.
+
+###### Artículo 204.
+
+La Oficialía de Partes no recibirá dinero en efectivo como anexos de demanda, recursos o cualquier tipo de promoción.
+
+###### Artículo 205.
+
+El Reglamento de la presente Ley establecerá:
+
+I. Tipos de documentos que se podrán recibir en la oficialía de partes;
+
+II. Criterios de asignación descritos por los que se inicia un expediente;
+
+III. Frecuencia y forma de envío de los documentos al juzgado o tribunal competente;
+
+IV. Procedimiento y datos que debe contener la restricción de documentos y su correspondiente envío al órgano jurisdiccional; y
+
+V. Funcionamiento operativo de la oficialía de partes.
+
+En los casos que la oficialía de partes remita erróneamente algún escrito a un órgano diverso al que fuere dirigido, éste será devuelto a la misma para ser enviado correctamente, sin que sea necesaria su anotación.
+
+### CAPÍTULO DÉCIMO QUINTO. DE LA CENTRAL DE CONSIGNACIONES DE PENSIONES ALIMENTARIAS
+
+###### Artículo 206.
+
+Para el debido cumplimiento de la Central de Consignaciones de Pensiones Alimentarias, habrá una oficina principal ubicada en la cabecera del Partido Judicial de La Paz, en la que despachará el Coordinador. En los demás partidos judiciales, se contará con los módulos necesarios en el lugar de residencia de los juzgados que conozcan de la materia familiar, que serán operados por supervisores y podrán contar con el personal de apoyo que el presupuesto del Poder Judicial permita.
+
+###### Artículo 207.
+
+La Central de Consignaciones de Pensiones Alimentarias estará a cargo de un Coordinador nombrado por el Pleno del Consejo a propuesta de su Presidente, quien deberá cumplir los requisitos exigidos para ser Secretario de Acuerdos, pudiendo ser licenciado en administración o carrera afín.
+
+La Central de Consignaciones de Pensiones Alimentarias dependerá directamente de la Presidencia del Consejo de la Judicatura, y tendrá a su cargo a los Actuarios, Supervisores, Cajero General y demás empleados que sean necesarios para su buen funcionamiento y que determine el presupuesto del Poder Judicial.
+
+###### Artículo 208.
+
+El Coordinador de la Central de Consignaciones de Pensiones Alimentarias tendrá las siguientes atribuciones:
+
+I. Recibir, resguardar y entregar a su beneficiario, las consignaciones de pensiones alimentarias que realicen los usuarios;
+
+II. Instrumentar las medidas y registros necesarios para el adecuado funcionamiento de la Central de Consignaciones de Pensiones Alimentarias;
+
+III. Realizar las notificaciones personales a los beneficiarios conforme lo prevé el Reglamento;
+
+IV. Firmar los recibos de caja y expedir los recibos de entrega; solicitando en su caso a la persona autorizada para recibir las cantidades depositadas a su favor que proporcione los datos de la cuenta bancaria de la institución de su preferencia, para el cobro de las consignaciones periódicas; lo que se notificará a la parte depositante y se informará lo conducente a la Dirección del Fondo Auxiliar para la Administración de Justicia del Poder Judicial;
+
+V. Llevar el registro en los libros de control de la oficina principal de la Central de Consignaciones y supervisar los de los demás módulos;
+
+VI. Rendir al Presidente del Consejo de la Judicatura, dentro de los cinco primeros días hábiles de cada mes, un informe de actividades de la oficina principal y de los módulos, desarrolladas en el mes inmediato anterior;
+
+VII. Hacer entrega en cualquier momento, al órgano de control interno, de la información, registros o documentos que éste en ejercicio de sus funciones, le requiera; y
+
+VIII. Las demás que determine el Reglamento y órganos competentes del Poder Judicial en relación a sus funciones.
+
+### CAPÍTULO DÉCIMO SEXTO. DE LA UNIDAD DE TRANSPARENCIA
+
+###### Artículo 209.
+
+La Unidad de Transparencia es la dependencia del Poder Judicial encargada de velar por el cumplimiento de las obligaciones en materia de acceso a la información pública, previstas en la legislación aplicable.
+
+###### Artículo 210.
+
+La Unidad de Transparencia estará a cargo de un Jefe de Unidad nombrado por el Pleno del Consejo, a propuesta de su Presidente, quien deberá cumplir los mismos requisitos previstos en la presente Ley para ser Secretario de Acuerdos o Secretario de Estudios y Proyectos de un Juzgado de Primera Instancia.
+
+La Unidad de Transparencia dependerá directamente de la Presidencia del Consejo de la Judicatura, y contará con el personal administrativo que determine el Pleno según lo permita el presupuesto de egresos.
+
+###### Artículo 211.
+
+Son funciones de la Unidad de Transparencia:
+
+I. Recibir y tramitar todas las solicitudes de acceso a la información que se reciban en el Poder Judicial, debiendo remitir mensualmente a la Presidencia del Consejo de la Judicatura y al Comité de Transparencia un informe detallado de los asuntos tramitados;
+
+II. Recabar y difundir la información pública de oficio a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur;
+
+III. Asesorar y orientar a quienes lo requieran, en la elaboración de las solicitudes de información, así como en los trámites para el efectivo ejercicio de su derecho de acceso a la misma;
+
+IV. Efectuar las notificaciones correspondientes a las y los solicitantes en los términos de Ley;
+
+V. Proponer al Presidente del Consejo de la Judicatura y al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la legislación aplicable;
+
+VI. Hacer de conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y demás disposiciones aplicables;
+
+VII. Hacer entrega en cualquier momento al órgano de control interno, la información, registros o documentos que éste, en ejercicio de sus funciones, le requiera; y
+
+VIII. Las que determine la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur; el Reglamento de la presente Ley y los Acuerdos Generales emitidos por el Pleno del Consejo.
+
+### CAPÍTULO DÉCIMO SÉPTIMO. DEL COMITÉ DE TRANSPARENCIA
+
+###### Artículo 212.
+
+El Comité de Transparencia del Poder Judicial es el órgano colegiado encargado de dar cumplimiento a las obligaciones que en materia de transparencia, acceso a la información y protección de datos personales le imponen la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y demás normatividad aplicable.
+
+El Comité de Transparencia se integrará de manera colegiada, con los mismos Consejeros que conformen la Comisión de Transparencia, Estadística y Tecnologías, adoptará sus resoluciones por mayoría de votos y a sus sesiones podrán asistir como invitados, cualquier otro servidor público del Poder Judicial, cuya intervención considere necesaria el Comité de Transparencia, quienes tendrán voz pero no voto.
+
+###### Artículo 213.
+
+El Comité de Transparencia tendrá las siguientes funciones:
+
+I. Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información;
+
+II. Confirmar, modificar o revocar las determinaciones que en materia de clasificación de la información y declaración de inexistencia o de incompetencia realicen las áreas del Poder Judicial;
+
+III. Solicitar y autorizar los plazos de reserva;
+
+IV. Recabar y enviar al Instituto de Transparencia, Acceso (sic) la Información Pública y Protección de Datos Personales del Estado de Baja California Sur, de conformidad a los lineamientos que éste expida los datos necesarios para la elaboración del informe anual;
+
+V. Promover la capacitación y actualización del personal adscrito a la Unidad de Transparencia del Poder Judicial;
+
+VI. Ordenar y supervisar que siempre que sea materialmente posible, el Poder Judicial genere o reponga la información en caso de que ésta tuviera que existir, en la medida que derive del ejercicio de sus facultades, competencias o funciones; o bien, previa acreditación de la imposibilidad de su generación o reposición, exponga de forma fundada y motivada, las razones por las cuales en el caso particular no se ejercieron dichas facultades, competencias o funciones; y
+
+VII. Las demás que se desprendan de la normatividad aplicable.
+
+### CAPÍTULO DÉCIMO OCTAVO. DEL ARCHIVO JUDICIAL
+
+###### Artículo 214.
+
+El Archivo Judicial estará a cargo de un Jefe del Archivo nombrado por el Pleno del Consejo a propuesta de su Presidente; quien deberá cumplir los mismos requisitos previstos por esta Ley para ser Juez de Primera Instancia, con excepción de la edad y la profesión; que respectivamente para este cargo será de por lo menos veinticinco años cumplidos al día de su designación, pudiendo la profesión ser la de licenciado en administración o área afín.
+
+El Archivo Judicial contará con el personal que el Pleno del Consejo considere necesario de acuerdo con la suficiencia presupuestal.
+
+El Archivo Judicial dependerá directamente de la Presidencia del Consejo de la Judicatura.
+
+###### Artículo 215.
+
+La documentación generada por los diversos órganos jurisdiccionales, así como por las dependencias del Poder Judicial deberá ser clasificada, depurada, archivada y custodiada en los términos de la presente Ley, su Reglamento, así como de los acuerdos que emita el Pleno del Consejo y su Presidente.
+
+Para el mejor funcionamiento del Archivo Judicial, se implementará un sistema de digitalización de expedientes y depuración, de acuerdo como lo que determine el Reglamento y los Acuerdos que emita el Pleno Consejo de la Judicatura, el cual podrá acordar, en todo caso, las disposiciones que crea convenientes para optimizar el funcionamiento del archivo.
+
+###### Artículo 216.
+
+Para la depuración de los expedientes, el Jefe del Archivo deberá acatar los lineamientos que al efecto emita el Pleno del Consejo y la Comisión Dictaminadora.
+
+###### Artículo 217.
+
+La Comisión Dictaminadora se integrará por:
+
+I. El Consejero Presidente de la Comisión de Vigilancia y Disciplina;
+
+II. El Oficial Mayor;
+
+III. Un Juez o el Contralor;
+
+IV. El jefe del Archivo Judicial; y
+
+V. Un Secretario de Acuerdos designado por el Presidente del Consejo de la Judicatura.
+
+La presencia del juez que será designado por el Presidente del Consejo de la Judicatura será indispensable sólo cuando se trate de la dictaminación de expedientes de los órganos jurisdiccionales y, la presencia del Contralor para la dictaminación de documentos y expedientes provenientes de las dependencias.
+
+###### Artículo 218.
+
+Se depositarán en el Archivo del Poder Judicial:
+
+I. Los tocas y expedientes, registros y documentos que se hubieren tramitado y concluido ante el Tribunal Superior de Justicia y los Juzgados del Estado, y cuya remisión o entrega no haya de hacerse a oficina determinada o a los particulares interesados;
+
+II. Los instrumentos u objetos que le sean remitidos por las autoridades jurisdiccionales del Estado en los asuntos de su conocimiento;
+
+III. Los documentos que por su antigüedad y contenido constituyan el acervo cultural del Poder Judicial y aquellos que formen parte de la memoria histórica de la Judicatura o que representen un aporte a la Ciencia del Derecho, integrarán el archivo histórico;
+
+IV. Los registros que se hubieren tramitado y concluido ante el Centro Estatal de Justicia Alternativa y sus Unidades; y
+
+V. Los demás documentos que las leyes determinen.
+
+Los asuntos que hayan dejado de tramitarse dentro del término de seis meses naturales, se depositarán en el archivo provisional de cada Juzgado o en el Archivo Judicial, en su caso. Los incidentes se archivarán con el juicio principal al que pertenezcan, cualquiera que sea su naturaleza.
+
+###### Artículo 219.
+
+Los documentos y expedientes depositados en el Archivo Judicial serán motivo de depuración, siendo responsabilidad de la Comisión Dictaminadora del Archivo Judicial, la cual previo dictamen, estudio y aprobación del Pleno del Consejo, desechará todos aquellos documentos que jurídicamente o por su naturaleza no tengan ningún valor, procediéndose a su destrucción total conforme a los lineamientos del Reglamento de la presente Ley.
+
+De todo expediente depurado se deberá conservar el documento digitalizado, debidamente clasificado.
+
+###### Artículo 220.
+
+Los órganos y dependencias, al remitir los expedientes al Archivo para su resguardo, llevarán un libro en el cual harán constar, en forma de inventario, lo que contenga cada remisión. Al pie de este inventario pondrá el Jefe del Archivo una constancia de su recibo dando cuenta por escrito al Presidente del Consejo de la Judicatura.
+
+###### Artículo 221.
+
+Las solicitudes de certificaciones, constancias, documentos y registros, se tramitarán por conducto del Jefe del Archivo Judicial, y se autorizarán mediante acuerdo del Presidente del Consejo de la Judicatura.
+
+###### Artículo 222.
+
+Los expedientes, documentos y objetos recibidos en el Archivo, serán registrados en un libro de entrada para cada uno de los órganos jurisdiccionales o dependencias, así como en la base de datos con que al efecto se cuente, y una vez organizados adecuadamente se colocarán en el lugar que les corresponda evitando que sufran cualquier deterioro.
+
+###### Artículo 223.
+
+No podrán extraerse expedientes, registros, documentos u objetos del Archivo Judicial; excepción hecha de aquellos casos en que el titular del órgano o dependencia de origen, lo solicite de manera fundada y motivada.
+
+###### Artículo 224.
+
+La consulta o inspección de libros, documentos o expedientes del Archivo, podrá permitirse a los interesados o a sus representantes legales en presencia del Jefe de dicha dependencia y dentro de ella, y deberá llevarse a cabo en el interior del edificio del Archivo Judicial.
+
+###### Artículo 225.
+
+Por ningún motivo se permitirá que los empleados del Archivo extraigan del mismo, documentos, registros, expedientes u objetos de ninguna clase sin la debida autorización de persona facultada para ello.
+
+###### Artículo 226.
+
+La falta de remisión al Archivo de los expedientes, registros, documentos u objetos que lo ameriten, serán sancionadas por el Presidente del Consejo de la Judicatura con base en lo establecido en esta Ley y en su Reglamento.
+
+###### Artículo 227.
+
+Cualquier defecto, irregularidad o infracción que advierta el Jefe del Archivo en los expedientes, registros, documentos u objetos que se le remitan para su depósito, lo comunicará inmediatamente al Presidente del Consejo de la Judicatura.
+
+###### Artículo 228.
+
+El Reglamento de la presente Ley fijará las atribuciones de los servidores públicos del Archivo Judicial y determinará la forma de los asientos, índices, libros y bases de datos que en la oficina deban llevar para el debido control.
+
+## TÍTULO NOVENO. DE LAS RESPONSABILIDADES
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES
+
+###### Artículo 229.
+
+Son órganos de control interno del Consejo de la Judicatura, la Visitaduría Judicial y la Contraloría, de conformidad con las facultades establecidas en esta Ley y su Reglamento.
+
+En los casos que se presente queja o denuncia en contra del visitador general o visitadores auxiliares, así como del Contralor o Auditores adjuntos, conocerá de la sustanciación del procedimiento el Secretario Ejecutivo del Consejo, en términos de lo previsto en la presente Ley y su Reglamento.
+
+###### Artículo 230.
+
+Los Magistrados del Tribunal Superior de Justicia y los Consejeros de la Judicatura, sólo podrán ser privados de sus cargos en la forma y términos establecidos en la Constitución Política del Estado Libre y Soberano de Baja California Sur.
+
+###### Artículo 231.
+
+Los Magistrados del Tribunal Superior de Justicia y los Jueces del fuero común, serán responsables al establecer o fijar la interpretación de los preceptos constitucionales y legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe.
+
+###### Artículo 232.
+
+Para los efectos del procedimiento de queja a que se refiere este Título, derivada del procedimiento llevado a cabo por la Visitaduría y la Contraloría, tendrán el carácter de parte el servidor público a quien se atribuye la falta administrativa, y la persona que lo denuncia o formula la queja.
+
+###### Artículo 233.
+
+Los Magistrados, Consejeros de la Judicatura, Jueces, Coordinadores Administrativos y Jefes de Unidad los Juzgados del Sistema Penal Acusatorio, Secretario General de Acuerdos del Pleno y la Presidencia, Secretario Ejecutivo del Consejo de la Judicatura, Secretario Particular, Secretarios Auxiliares, Secretarios de Acuerdos y Secretarios de Estudios y Proyectos de Primera y Segunda Instancia, Actuarios y Notificadores; así como los Titulares y Jefes de Departamento de las dependencias del Poder Judicial, y demás servidores públicos que determine la Ley, estarán obligados a presentar declaraciones de situación patrimonial, de intereses y fiscal, ante la instancia competente en términos de las Leyes Generales y las que en el ámbito estatal regulen el Sistema Nacional Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos, debiendo entregar copia a la Contraloría del Poder Judicial.
+
+###### Artículo 234.
+
+Todo servidor público del Poder Judicial, será sujeto de responsabilidad de conformidad a lo establecido por la Constitución Política del Estado y esta Ley, teniendo la obligación de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión y cuyo incumplimiento, dará lugar al procedimiento y a las sanciones que correspondan.
+
+###### Artículo 235.
+
+Son causas de responsabilidad para los servidores públicos del Poder Judicial:
+
+I. Ejercer las funciones de un empleo, cargo o comisión, después de concluido el período para el cual se le designó, o de haber sido cesado por cualquier otra causa, en el ejercicio de sus funciones;
+
+II. Disponer o autorizar a un subordinado para inasistir sin causa justificada a sus labores, así como otorgar indebidamente permisos, licencias o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio no lo requiera;
+
+III. Desempeñar algún otro empleo, cargo o comisión oficial o particular, que la Ley prohíba, con excepción de la docencia;
+
+IV. Inasistir, sin motivo justificado y puntualmente, al desempeño de sus funciones por tres ocasiones consecutivas o más de tres en un período de treinta días;
+
+V. Cerrar su área de trabajo, sin causa justificada, limitando indebidamente el normal funcionamiento de las labores del Poder Judicial;
+
+VI. Incurrir en conductas que atenten contra la independencia de la función judicial, tales como aceptar o ejercer consignas, presiones, encargos o comisiones, o cualquier conducta que genere o implique subordinación respecto de alguna persona, del mismo u otro poder;
+
+VII. Inmiscuirse indebidamente en cuestiones del orden jurisdiccional que competan a otros órganos del Poder Judicial;
+
+VIII. Tener una ineptitud notoria o descuido en el desempeño de las funciones o labores que deban realizar;
+
+IX. Impedir en los procedimientos judiciales que las partes ejerzan los derechos que legalmente les correspondan;
+
+X. Omitir informar al Presidente del Tribunal o del Consejo de la Judicatura, según corresponda, cualquier acto tendiente a vulnerar la independencia de la función judicial;
+
+XI. Dejar de preservar la ética, dignidad, imparcialidad y profesionalismo propios de la función judicial en el desempeño de sus labores;
+
+XII. Ausentarse durante su jornada de trabajo, de la residencia del órgano al que esté adscrito, o dejar de desempeñar las funciones o las labores que tenga a su cargo, sin la autorización correspondiente;
+
+XIII. El incumplimiento de las obligaciones previstas en el artículo 46 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur, así como de las previstas (sic) las Leyes Generales y las que en el ámbito estatal regulen el Sistema Nacional Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos;
+
+XIV. Concurrir a sus labores en estado de ebriedad o bajo el influjo de cualquier droga;
+
+XV. Consumir drogas;
+
+XVI. Dar uso inadecuado al equipo de cómputo, electrónico o de cualquier otro tipo que se le haya facilitado para el desarrollo de sus labores, o el que exista en su área de adscripción;
+
+XVII. Revelar información de los asuntos que conozca con motivo del ejercicio de su función;
+
+XVIII. Destruir, mutilar, ocultar o alterar expedientes, registros, documentos o dispositivos de almacenamiento de datos de cualquier órgano o dependencia del Poder Judicial;
+
+XIX. Obstaculizar el normal desarrollo de la práctica de las visitas programadas por las autoridades del Poder Judicial;
+
+XX. Asignar a los servidores públicos a su cargo, labores ajenas a sus funciones;
+
+XXI. Tratar a los litigantes, abogados y público en general, así como a los demás integrantes del Poder Judicial, con desatención o despotismo;
+
+XXII. Recibir gratificaciones de las partes con motivo de las diligencias en que participe por razón de su encargo;
+
+XXIII. Inobservar el debido respeto hacia sus superiores jerárquicos, inmediatos o mediatos;
+
+XXIV. Incumplir las disposiciones que sus superiores jerárquicos dicten en el cumplimiento de sus atribuciones, o bien realizarlos con falta de diligencia;
+
+XXV. Participar en actos de comercio dentro del horario de trabajo, en las instalaciones del Poder Judicial;
+
+XXVI. Inasistir o asistir impuntualmente de manera reiterada a los actos oficiales del Poder Judicial a que sea convocado, o a los cursos de capacitación que se le indiquen;
+
+XXVII. Incumplir las disposiciones constitucionales y legales en materia de propaganda y de informes de labores o de gestión;
+
+XXVIII. Incurrir en alguna de las conductas previstas por el Título Décimo Sexto del Código Penal para el Estado Libre y Soberano de Baja California Sur;
+
+XXIX. Incumplir los requerimientos que en ejercicio de sus atribuciones les formulen los órganos de control interno del Poder Judicial;
+
+XXX. Omitir o abstenerse de dictar, sin causa justificada, las resoluciones que deban recaer legalmente a las promociones de las partes o las que procedan en los asuntos de su conocimiento y competencia, dentro de los plazos señalados por la Ley;
+
+XXXI. Omitir presentar ante la Contraloría del Poder Judicial las copias de sus declaraciones de situación patrimonial, de intereses y fiscal, estando obligado a ello en términos de las Leyes Generales y las que en el ámbito estatal regulen el Sistema Nacional Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos; y
+
+XXXII. Las demás que determinen esta Ley u otros ordenamientos.
+
+###### Artículo 236.
+
+Se consideran faltas administrativas del Presidente del Tribunal Superior de Justicia o del Presidente del Consejo de la Judicatura, así como de los Magistrados y Consejeros, según corresponda, además de las señaladas en el artículo que antecede, las siguientes conductas:
+
+I. Dejar de asistir, sin causa justificada, a los actos o diligencias que requieran su presencia;
+
+II. Dictar resoluciones o trámites infundados o notoriamente innecesarios que tiendan a dilatar el proceso sometido a su competencia;
+
+III. Conocer de los asuntos para los cuales esté impedido por las causas previstas en la ley, con pleno conocimiento de esa circunstancia;
+
+IV. Ejercer influencia para que el nombramiento del personal de las Salas o Juzgados, recaiga en persona determinada o que no reúna los requisitos legales;
+
+V. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento, o emitir opiniones anticipadas sobre los acuerdos y resoluciones de asuntos de su conocimiento a los contendientes o sus abogados;
+
+VI. Asesorar a las partes en asuntos de los que conozca, o del conocimiento de otras autoridades judiciales;
+
+VII. Impedir en los procedimientos judiciales que las partes ejerzan los derechos que legamente les correspondan;
+
+VIII. Hacer uso, en perjuicio de las partes, de los medios de apremio sin causa justificada;
+
+IX. Omitir la preservación de la dignidad, imparcialidad y profesionalismo propios de la función jurisdiccional en el desempeño de sus labores;
+
+X. Admitir fianza o contrafianzas en los casos que prescriben las Leyes, de personas que no acrediten suficientemente su solvencia y la libertad de gravámenes de los bienes que sirvan para ello; y
+
+XI. Todas aquellas conductas similares a las contempladas en las fracciones anteriores que se aparten de la rectitud y puedan causar el desprestigio al buen nombre de la administración de justicia.
+
+###### Artículo 237.
+
+Son faltas administrativas de los Jueces, además de las señaladas en esta Ley como causas de responsabilidad para los servidores públicos del Poder Judicial, en lo conducente, las conductas siguientes:
+
+I. Dejar de presentarse, sin causa justificada, dentro de los tres días hábiles siguientes a la notificación de su designación, a tomar posesión de su cargo o cambio de adscripción;
+
+II. Hacer declaraciones de rebeldía en perjuicio de alguna de las partes, sin que las notificaciones o citaciones anteriores hayan sido hechas en forma legal o antes de que transcurra el plazo previsto en la Ley;
+
+III. Abandonar, sin la autorización correspondiente, la residencia del juzgado al que esté adscrito, o dejar de desempeñar las funciones o labores que tenga a su cargo;
+
+IV. Omitir llevar a cabo el registro de actividades y actualización del Sistema de Gestión Judicial; y
+
+V. Omitir la remisión oportuna de los informes estadísticos a la superioridad sin causa justificada.
+
+###### Artículo 238.
+
+Son faltas administrativas de los Secretarios de Acuerdos del Pleno, las Salas y los Juzgados las siguientes conductas:
+
+I. Omitir dar cuenta a su titular, dentro del término de la Ley, con los oficios, escritos y promociones de las partes;
+
+II. Omitir asentar en autos, dentro del término, las certificaciones que procedan por disposición de ley o por mandato judicial;
+
+III. Dejar de diligenciar, dentro de las veinticuatro horas siguientes a aquellas a las que surtan efecto, las resoluciones judiciales, a menos que exista causa justificada;
+
+IV. Dejar de dar cuenta al Presidente, Magistrado o Juez de su adscripción, de las faltas u omisiones que personalmente hubieren notado en los servidores públicos subalternos del área, o que se le denuncien por el público verbalmente o por escrito;
+
+V. Dejar de formular el proyecto de resolución que se les hubiera encomendado, en el plazo fijado para tal efecto;
+
+VI. Omitir la remisión al archivo, de los expedientes conforme a la Ley;
+
+VII. Dejar de entregar oportunamente a la Central de Actuarios o a los Actuarios de su adscripción, en sus respectivos casos, los expedientes de notificación personal o pendientes de diligencia cuando deban hacerse fuera del Juzgado;
+
+VIII. Omitir hacer dentro del término de ley la notificación personal que proceda a las partes cuando concurran al recinto jurisdiccional de su adscripción;
+
+IX. No permitir la consulta, sin causa justificada, de los expedientes a las partes cuando lo soliciten, salvo los casos en que deba guardarse la reserva de ley;
+
+X. Omitir acatar las órdenes que conforme a sus atribuciones les impartan sus superiores;
+
+XI. Dejar de presentarse, sin causa justificada, dentro de los tres días hábiles siguientes a la notificación de su designación, a tomar posesión de su cargo en el lugar de adscripción que se le haya designado; y
+
+XII. Además de las señaladas en el artículo 235 de la presente Ley, serán faltas administrativas de los Secretarios de Acuerdos las previstas por las fracciones I, III, V, VII, VIII y X del artículo 236 de la presente Ley.
+
+###### Artículo 239.
+
+Son faltas administrativas de los Actuarios y Notificadores, las siguientes conductas:
+
+I. Omitir, sin causa justificada, llevar a cabo las notificaciones personales, o dejar de diligenciar aquello que les haya sido legalmente encomendado, cuando la diligencia deba efectuarse fuera del local que ocupa el órgano jurisdiccional o dependencia que la ordene;
+
+II. Retardar indebida o maliciosamente las notificaciones, emplazamientos, embargos o diligencias de cualquier clase que les fueren encomendados;
+
+III. Dar preferencia a alguno o algunos de los litigantes y con perjuicio de otros, por cualquiera causa que sea, en la diligencia de sus asuntos en general y, especialmente, para llevar a cabo las que se determinan en la fracción que antecede;
+
+IV. Practicar notificaciones, citaciones o emplazamientos a las partes, por cédula o instructivo, fuera del lugar designado en autos o sin cerciorarse, cuando proceda, de que el interesado tiene su domicilio en donde se lleva a cabo la diligencia;
+
+V. Practicar embargos, aseguramientos, retención de bienes o lanzamientos, a personas físicas o jurídicas que no sean las designadas en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del Juzgado, se demuestre fehacientemente que esos bienes no pertenecen al ejecutado y para comprobar tal situación, en todo caso deberá agregar a los autos la documentación que se le presente a efecto de dar cuenta a quien hubiere ordenado la diligencia;
+
+VI. Omitir levantar el acta relativa a la diligencia que practique, en el lugar y momento en que ésta se efectúe;
+
+VII. Dejar de presentarse sin causa justificada dentro de los tres días hábiles siguientes a la notificación de su designación, a tomar posesión de su cargo en el lugar de adscripción que le corresponda;
+
+VIII. Dar fe de hechos falsos; y
+
+IX. Además de las señaladas en el artículo 235 que antecede, serán faltas de los actuarios las previstas por las fracciones II, VIII, XI y XII del artículo 236 de esta Ley.
+
+###### Artículo 240.
+
+El procedimiento para determinar las responsabilidades de los servidores públicos del Poder Judicial, se iniciará de oficio cuando de una visita resulte alguna irregularidad que pueda constituir una conducta materia del procedimiento de responsabilidad o cuando algún servidor público adscrito al Tribunal Superior de Justicia o al Consejo de la Judicatura tenga conocimiento del hecho; por queja cuando se formule a cargo de quien considere ser agraviado por la conducta presumiblemente infractora; o por denuncia presentada a cargo de cualquier persona ajena al asunto en que se cometió la conducta atribuida al servidor público.
+
+Las quejas que se formulen deberán estar apoyadas en elementos probatorios para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+
+###### Artículo 241.
+
+Cuando se presente una queja o denuncia ante el juez o el titular de la dependencia en contra de los servidores públicos a su cargo, estará obligado a remitirla al órgano de control competente dentro de un plazo no mayor a cinco días hábiles.
+
+La omisión a lo anterior, dará lugar a responsabilidad administrativa.
+
+###### Artículo 242.
+
+Será competente para sustanciar el procedimiento de queja una vez iniciado, el titular del órgano de control que corresponda de acuerdo a la naturaleza de la falta. La autoridad competente para resolver acerca de las responsabilidades de los servidores públicos del Poder Judicial, así como para imponer las sanciones a que se refiere el artículo 247 de la presente Ley será:
+
+I. El Pleno del Consejo tratándose de faltas cometidas por Jueces, Coordinadores Administrativos, Secretario General y funcionarios de Presidencia, Secretarios de Acuerdos, Secretarios de Estudios y Proyectos y Actuarios; así como por Consejeros y los titulares de las dependencias del Consejo de la Judicatura;
+
+II. El Pleno del Tribunal, tratándose de Magistrados o Consejeros; y
+
+III. El Presidente del Consejo de la Judicatura, en todos los demás casos.
+
+###### Artículo 243.
+
+El plazo para la presentación de denuncia o queja, se sujetará a las siguientes reglas:
+
+I. Deberá presentarse dentro del término de treinta días hábiles, contados a partir del siguiente al en que el quejoso o denunciante haya tenido conocimiento de la conducta presumiblemente infractora; y
+
+II. Independientemente de esa circunstancia, el plazo para iniciar el procedimiento de oficio, prescribirá en tres años, contados a partir de la fecha en que se haya cometido la conducta presumiblemente infractora.
+
+###### Artículo 244.
+
+Para la determinación de las responsabilidades a que se refiere este Título deberá llevarse el siguiente procedimiento:
+
+I. El procedimiento podrá iniciar a instancia de parte o de oficio cuando en ejercicio de las facultades de vigilancia se detecten irregularidades durante las visitas ordinarias, extraordinarias o especiales practicadas en los términos de la presente Ley a los órganos o dependencias del Poder Judicial, en cuyo caso el acta levantada al efecto, hará las veces de escrito inicial.
+
+El procedimiento iniciado de oficio seguirá en lo conducente el trámite previsto para la denuncia o queja.
+
+II. Cuando la denuncia o queja se presente por escrito, deberá contener: nombre y apellidos del promovente, nombre, cargo y área de adscripción del servidor público al que se atribuyen los hechos, relación sucinta del hecho materia de la queja, la cual deberá expresar bajo protesta de decir verdad; ofrecimiento de las pruebas que pretenda desahogar para sustentar su queja y, firma del quejoso o denunciante.
+
+La omisión de requisitos formales en el escrito inicial dará lugar a la prevención al promovente para que subsane el requisito omitido dentro de un plazo de 3 días hábiles.
+
+III. Cuando la denuncia o queja sea recabada por comparecencia, dicha diligencia deberá contener los mismos requisitos establecidos en la fracción anterior, pudiendo ofrecer las pruebas que considere pertinentes para sustanciar su queja en un plazo de tres días hábiles, contados a partir del día siguiente al en que llevó a cabo su comparecencia;
+
+IV. El órgano de control, radicará la denuncia o queja iniciada, dentro de los tres días hábiles siguientes a su presentación, y ordenará su ratificación dentro de los ocho días hábiles posteriores con excepción de aquellas denuncias o quejas que se hayan realizado por comparecencia, en cuyo caso se dará el trámite que corresponda.
+
+Si la denuncia o queja inicial presentada por escrito no fuere ratificada o el promovente no haya subsanado la omisión en el cumplimiento de los requisitos formales dentro del plazo concedido al efecto, el titular del órgano de control que corresponda, de acuerdo a la naturaleza de la falta, dará cuenta al Presidente del Consejo de la Judicatura, para el efecto de que se determine el desechamiento de la queja o denuncia, o bien la prosecución del procedimiento respecto de aquellas faltas que por su gravedad así lo ameriten. Lo mismo será aplicable si existiere desistimiento escrito debidamente ratificado, o por comparecencia, del denunciante o quejoso;
+
+V. Si la denuncia o queja inicial presentada por escrito fuera ratificada, subsanada, o se hubiera ordenado su prosecución oficiosa, se ordenará notificar al servidor público denunciado y correrle traslado con copia simple del escrito inicial y anexos que se hubieren presentado, para el efecto de que sea emplazado y rinda su informe en el plazo de cinco días hábiles, ofreciendo las pruebas que estime pertinentes, debiendo hacer del conocimiento del Presidente del Consejo de la Judicatura el inicio de dicho procedimiento.
+
+El informe deberá referirse a todos y cada uno de los hechos comprendidos en la denuncia o queja, afirmándolos o negándolos, y expresando los que ignore por no ser propios, o refiriéndolos como crea que tuvieron lugar. Se presumirán confesados los hechos de la denuncia o queja sobre los cuales el denunciado no suscitare explícitamente controversia, sin admitirse prueba en contrario. La confesión de los hechos no entraña la aceptación del derecho del denunciante.
+
+Si el denunciado no rindiera dicho informe no se interrumpirá la consecución del procedimiento;
+
+VI. Recibido el informe, o vencido el plazo para su presentación, se llevará a cabo el desahogo de las pruebas ofrecidas por las partes dentro de los siguientes treinta días hábiles.
+
+Si una de las partes no acudiera a una diligencia de desahogo de pruebas, se procederá por única ocasión a fijar nuevo día y hora para llevarla a cabo; si por segunda ocasión inasistiera, el desahogo de las pruebas se llevará a cabo sin su presencia.
+
+En el último acto de desahogo de pruebas, las partes podrán formular sus alegatos en forma verbal;
+
+VII. Integrado el expediente de queja, tratándose de asuntos que deba resolver el Pleno del Consejo, el órgano de control lo remitirá dentro de los siguientes tres días hábiles a la Comisión de Vigilancia y Disciplina, para el efecto de que se realice la asignación del asunto, por turno, en los próximos tres días hábiles al Consejero que corresponda para la elaboración del proyecto de resolución, el cual deberá ser circulado oportunamente a los integrantes del Pleno del Consejo dentro de un término no mayor a quince días hábiles;
+
+VIII. Agotado ese término, el Pleno del Consejo discutirá y resolverá si la queja es fundada o infundada, en sesión que deberá celebrarse dentro de los diez días hábiles siguientes;
+
+IX. Emitida la resolución definitiva, la Secretaría Ejecutiva, por sí o por medio del actuario que para el efecto sea designado, la notificará a las partes dentro de los tres días hábiles siguientes; y
+
+X. Si la queja fuera declarada procedente, la sanción impuesta deberá ejecutarse dentro de los siguientes quince días a la notificación a que se refiere la fracción que antecede, para lo cual la Secretaría Ejecutiva tomará las medidas que sean necesarias.
+
+###### Artículo 245.
+
+En caso de haberse impuesto sanción económica, se requerirá de pago al responsable para el efecto de que la exhiba en el plazo de tres días hábiles siguientes y, en caso de omitir el cumplimiento del pago, su cobro se realizará mediante descuento salarial vía nómina, convenio de pago en parciales que no podrá exceder de 3 meses o a través del procedimiento económico coactivo.
+
+###### Artículo 246.
+
+En todo lo no previsto en la presente Ley Orgánica para la sustanciación del procedimiento de queja, se aplicará supletoriamente lo previsto en el Código de Procedimientos Civiles de la entidad, en lo conducente.
+
+###### Artículo 247.
+
+Las sanciones aplicables a las faltas contempladas en el presente Título, y el incumplimiento de las obligaciones de los servidores públicos previstas en el artículo 46 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur, así como las previstas en las Leyes Generales y las que en el ámbito estatal regulen el Sistema Nacional Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos; y les resulten aplicables consistirán en:
+
+I. Apercibimiento, el cual consistirá en la prevención verbal que se haga al servidor público infractor, haciéndole saber que de incurrir en una nueva falta, se le aplicarán una o más de las sanciones previstas en la presente Ley Orgánica, según sea el caso;
+
+II. Amonestación, la cual consistirá en hacer saber por escrito al servidor público infractor las consecuencias de la conducta cometida, a efecto de prevenir su reincidencia;
+
+III. Sanción económica de treinta a noventa veces el valor diario de la unidad de medida y actualización vigente en la época de la conducta atribuida, que consistirá en el pago que debe hacer el infractor en cantidad cierta y determinada;
+
+IV. Suspensión, que consistirá en la separación temporal del cargo que ocupa el infractor, que podrá ser de uno a tres meses del cargo, empleo o comisión, privando al servidor público del derecho de percibir remuneración o cualquiera otra de las prestaciones económicas a que tenga derecho;
+
+V. Destitución del puesto, que consistirá en la pérdida definitiva del cargo, empleo o comisión dentro del Poder Judicial;
+
+VI. Inhabilitación temporal para desempeñar empleos, cargos o comisiones dentro del Poder Judicial, que consistirá en el impedimento temporal de seis meses a tres años para ocupar cargo, empleo o comisión públicos, cuando la falta cometida implique lucro o se haya causado daño o perjuicio al quejoso o denunciante, si el monto de aquellos no excede de quinientas veces el valor diario de la unidad de medida y actualización vigente; y, la inhabilitación será de tres a seis años cuando exceda de dicha cantidad, éste último plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos; y
+
+VII. Inhabilitación definitiva para desempeñar empleos, cargos o comisiones dentro del Poder Judicial.
+
+###### Artículo 248.
+
+Las sanciones administrativas se impondrán tomando en cuenta los siguientes elementos:
+
+I. La magnitud del daño causado o el peligro en que se haya colocado la administración de justicia con la infracción cometida;
+
+II. El nivel jerárquico, los antecedentes y las condiciones del infractor;
+
+III. Las circunstancias de tiempo, lugar y modo de la conducta infractora;
+
+IV. Los medios de ejecución empleados;
+
+V. La reincidencia en el incumplimiento de obligaciones;
+
+VI. El monto del beneficio obtenido por el infractor o el monto del daño o perjuicio económicos causados a un tercero, derivado del incumplimiento de obligaciones; y
+
+VII. Las demás circunstancias que sean relevantes para determinar la gravedad de la infracción cometida.
+
+###### Artículo 249.
+
+Con independencia de si el motivo de la queja da o no lugar a responsabilidad, durante el procedimiento el Presidente del Consejo de la Judicatura dictará las medidas provisionales necesarias para hacer cesar los efectos de la conducta denunciada en los casos que ello sea posible.
+
+En cualquier momento, previo o posteriormente a la recepción del informe o celebración de la audiencia, el Pleno del Consejo o su Presidente según corresponda, podrán determinar la suspensión temporal de los cargos, empleos o comisiones de los probables responsables, con la correspondiente retención del cincuenta por ciento de las percepciones del servidor público involucrado, siempre que a su juicio así convenga para la conducción o continuación de las investigaciones, la cual cesará cuando así lo resuelvan independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere el presente artículo. La suspensión temporal no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la suspensión.
+
+Si el servidor público suspendido temporalmente no resultare responsable de la falta que se le imputa, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debiera haber recibido durante el tiempo en que se hallare suspendido.
+
+###### Artículo 250.
+
+Si el Pleno del Consejo o su Presidente, estimaren que la queja fue interpuesta con dolo, sustentando la misma en hechos, testimonios o documentos cuya falsedad se haya demostrado durante el procedimiento, se impondrá al denunciante, al quejoso o a su representante, o abogado, o a ambos, una multa de sesenta a ciento veinte veces el valor diario de la unidad de medida y actualización, tomando como base el valor vigente al momento de interponerse la queja.
+
+###### Artículo 251.
+
+En caso de que la sanción impuesta por el Pleno del Consejo, sea la destitución del puesto, el Pleno del Tribunal, a petición de parte interesada, podrá revisar dicha decisión para el efecto de verificar que se ajustó a las reglas previstas en la presente ley y demás disposiciones aplicables.
+
+En los demás casos no procederá recurso alguno en contra de la resolución que emita el Pleno del Consejo en el procedimiento a que se refiere este Capítulo.
+
+## TÍTULO DÉCIMO. DE LAS EXCITATIVAS DE JUSTICIA
+
+### CAPÍTULO ÚNICO. DE LAS EXCITATIVAS DE JUSTICIA
+
+###### Artículo 252.
+
+La excitativa de justicia es el medio que tienen las partes para hacer valer su inconformidad en contra de la dilación indebida para dictar un auto, sentencia interlocutoria o sentencia definitiva en un juicio, una vez fenecido el plazo legal para hacerlo.
+
+En el procedimiento penal acusatorio, las partes podrán hacer valer dicha inconformidad mediante la queja y bajo los términos previstos en la ley adjetiva de la materia.
+
+###### Artículo 253.
+
+Las excitativas de justicia sólo procederán contra Magistrados y Jueces.
+
+###### Artículo 254.
+
+Procede la excitativa de justicia a petición de cualquiera de las partes, si transcurren más de quince días hábiles de la fecha en que deba dictarse una sentencia definitiva, sin que ésta se pronuncie. También a petición de parte agraviada procede dicha excitativa en caso de que transcurran más de diez días hábiles de la fecha en que deba dictarse un auto o sentencia interlocutoria, sin que éstos se pronuncien.
+
+###### Artículo 255.
+
+La excitativa de justicia se presentará por escrito ante la Presidencia del Tribunal Superior de Justicia y conocerá el Pleno del Tribunal cuando se interponga en contra de algún Magistrado, y la Sala de la materia respectiva cuando se trate de un Juez.
+
+###### Artículo 256.
+
+Recibida la excitativa de Justicia el Pleno del Tribunal o la Sala, solicitará informe al funcionario contra quien se promueve, por conducto del actuario adscrito, para lo cual se mandará entregar o remitir la copia simple del escrito de excitativa.
+
+###### Artículo 257.
+
+El plazo para rendir el informe, será dentro del término de tres días hábiles siguientes de que se notifique al servidor público.
+
+###### Artículo 258.
+
+Cuando el servidor público del Poder Judicial, no rinda en tiempo oportuno el informe solicitado, se considerará emitido en sentido afirmativo y el Pleno del Tribunal o la Sala, aplicará las medidas de apremio que la Ley establece.
+
+###### Artículo 259.
+
+Rendido el informe se dará vista con él al quejoso por el término de tres días hábiles para que exponga o no, lo que a su derecho convenga. El Pleno del Tribunal o la Sala, según corresponda, resolverán dentro de los tres días hábiles siguientes si ha lugar o no a la expedición de la excitativa solicitada.
+
+###### Artículo 260.
+
+Encontrándose fundada la excitativa por falta de sentencia en primera o segunda instancia, el Pleno del Tribunal Superior de Justicia o la Sala, según corresponda, concederá un plazo de cinco días hábiles para que se pronuncie la resolución definitiva.
+
+En caso de ser fundada la excitativa de justicia por falta de pronunciamiento de auto o interlocutoria, el Pleno del Tribunal, o la Sala, ordenarán al funcionario público que pronuncie su resolución en un plazo de tres días hábiles.
+
+Las excitativas decretadas se notificarán al servidor público por cualquier medio legal, dejando constancia de ello.
+
+###### Artículo 261.
+
+El Tribunal Superior de Justicia, impondrá al servidor público contra quien se haya interpuesto la excitativa en caso de que en el plazo concedido, no cumpla con el pronunciamiento motivo de ésta, una multa hasta por la cantidad equivalente a quince veces el valor diario de la unidad de medida y actualización vigente, la cual se aplicará al Fondo Auxiliar para la Administración de Justicia.
+
+Así mismo, se remitirá copia certificada de la resolución correspondiente, a la Secretaría General de Acuerdos del Pleno y la Presidencia, para que sea agregada al expediente del servidor público.
+
+###### Artículo 262.
+
+Cuando el quejoso se desista de su promoción, se tendrá por no interpuesta, pero se procederá a lo que haya lugar, conforme a los datos que arroje el expediente.
+
+###### Artículo 263.
+
+Dentro de los primeros cinco días hábiles de cada mes, el Pleno del Tribunal y las Salas rendirán al Consejo un informe estadístico sobre las excitativas presentadas, las resueltas en el periodo y el sentido de la resolución.
+
+## TÍTULO DÉCIMO PRIMERO. DE LAS AUSENCIAS, VACACIONES Y LICENCIAS
+
+### CAPÍTULO ÚNICO. DE LAS AUSENCIAS, VACACIONES Y LICENCIAS
+
+###### Artículo 264.
+
+Las ausencias de los servidores públicos del Poder Judicial serán suplidas en los términos que ordena la presente Ley.
+
+Las ausencias se dividen en eventuales, temporales y absolutas.
+
+a) Son eventuales: Cuando se falta al desempeño de labores sin licencia previa o por enfermedad.
+
+b) Son temporales: Por licencia, por suspensión de empleo o cargo, o por disfrutar de vacaciones.
+
+c) Son absolutas: En los casos de renuncia, destitución, incapacidad total definitiva física o muerte.
+
+###### Artículo 265.
+
+En los casos de la vacante en la Sala respectiva que deje el Magistrado, al ser electo Presidente del Tribunal Superior de Justicia, será cubierta por el Magistrado que designe el Pleno del Tribunal.
+
+###### Artículo 266.
+
+Las ausencias temporales de los Jueces serán suplidas por los Secretarios de Acuerdos que designe el Presidente del Consejo de la Judicatura, cuando no excedan de quince días y cuando faltaren éstos o excediere dicho término, serán suplidos por quien designe el Pleno del mismo; las ausencias eventuales de los Jueces de (sic) serán suplidas por Ministerio de Ley por los Secretarios de Acuerdos.
+
+Las ausencias eventuales y temporales de Magistrados, serán suplidas por el Magistrado que designe el Pleno del Tribunal.
+
+Las ausencias temporales de los Coordinadores Administrativos de Juzgado serán suplidas por el servidor público que designe el Pleno del Consejo; las ausencias eventuales serán suplidas por los Jefes de las Unidades de Sala y Causa; en ese orden.
+
+###### Artículo 267.
+
+Los Secretarios de Acuerdos o Encargados del Despacho de los Juzgados, conforme al artículo anterior, percibirán el sueldo correspondiente a su nombramiento cuando la sustitución no exceda de un mes, y si es mayor de ese término el sueldo que devengarán será el correspondiente al del titular del Juzgado que sustituyan.
+
+###### Artículo 268.
+
+Las ausencias temporales de Secretarios de Acuerdos que no excedan de quince días, serán cubiertas por otro Secretario de Acuerdos, un Secretario Proyectista de Primera Instancia o, en su defecto, por el actuario o testigos de asistencia. Si excediere el término aludido, será el Pleno del Consejo, quien haga la designación.
+
+Las ausencias eventuales de Secretarios de Acuerdos serán cubiertas en el orden establecido en este artículo, mediante la designación que al efecto haga el superior jerárquico; en caso de que la designación recaiga en un Secretario Proyectista, este quedará investido de fe pública.
+
+###### Artículo 269.
+
+Las ausencias temporales de los Actuarios que no excedan de quince días, serán cubiertas por el servidor público que designe el Presidente del Consejo de la Judicatura.
+
+Las ausencias eventuales de Actuarios serán cubiertas, mediante la designación que al efecto haga el superior jerárquico; quedando investido de fe pública el servidor público designado para cubrir la ausencia.
+
+###### Artículo 270.
+
+Las ausencias eventuales y temporales de los demás servidores públicos judiciales serán cubiertas por aquél que designe el superior inmediato, siempre que no excedan de un término de tres días; cuando las ausencias excedan de este término, pero no de quince días, serán sustituidas por el servidor público que designe el Presidente del Consejo de la Judicatura.
+
+Las ausencias eventuales y temporales de los servidores públicos que excedan de quince días, serán cubiertas por la persona que designe el Pleno del Consejo.
+
+###### Artículo 271.
+
+Las ausencias absolutas de los Magistrados del Tribunal Superior de Justicia y de los miembros del Consejo de la Judicatura, se suplirán en la forma prevista por la Constitución Política del Estado Libre y Soberano de Baja California Sur.
+
+###### Artículo 272.
+
+Las ausencias absolutas de los Jueces serán suplidas en la forma prevista por esta Ley, y entre tanto se hace el nombramiento, se procederá en la forma establecida para las ausencias temporales o eventuales.
+
+###### Artículo 273.
+
+Las ausencias absolutas de los Secretarios del Tribunal y de los Juzgados, así como de los demás servidores públicos del Poder Judicial, serán cubiertas por nuevos nombramientos, y entre tanto se proceda a ello, se suplirán en la forma prevista para las ausencias temporales.
+
+###### Artículo 274.
+
+En el Poder Judicial se gozará de los períodos de vacaciones que fije el Pleno del Consejo.
+
+###### Artículo 275.
+
+Los Magistrados y Consejeros podrán obtener licencias, con o sin goce de sueldo, por un periodo que exceda de uno pero no de tres meses, solicitándola por conducto del Gobernador al Congreso del Estado conforme al párrafo tercero de la fracción XXI, del artículo 64, de la Constitución Política del Estado Libre y Soberano de Baja California Sur.
+
+Cuando la licencia de los Magistrados o de los Consejeros sea menor a un mes, corresponderá resolver de su solicitud al Pleno del Tribunal y al Pleno del Consejo, respectivamente.
+
+## TÍTULO DÉCIMO SEGUNDO. DE LA ENTREGA-RECEPCIÓN
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+###### Artículo 276.
+
+El Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura, al separarse de su cargo deberá rendir a quien lo sustituya, un informe de los asuntos de su competencia y entregar los recursos financieros, humanos y materiales que tengan asignados para el ejercicio de sus atribuciones, acorde a los lineamientos establecidos en este Título.
+
+###### Artículo 277.
+
+La entrega-recepción, así como el informe, se efectuará por escrito mediante acta administrativa que describa el estado que guardan los asuntos que esta propia Ley les encomienda.
+
+###### Artículo 278.
+
+La entrega y recepción se hará al tomar posesión del cargo, el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura entrante, previa protesta que deberá rendir en términos de ley.
+
+###### Artículo 279.
+
+Ante la ausencia absoluta del Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura entrante, la entrega y recepción se hará al titular de la Secretaría Ejecutiva.
+
+###### Artículo 280.
+
+Los documentos e información que se anexen al acta administrativa de entrega-recepción del despacho deberán circunscribirse a los aspectos más relevantes, debiendo presentarse en forma concentrada y global por el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura en los términos de esta Ley.
+
+###### Artículo 281.
+
+La verificación del contenido del acta correspondiente deberá realizarse por el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura entrante, en un término no mayor de quince días hábiles, contados a partir de la fecha de entrega y recepción del despacho; durante dicho lapso el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura saliente hará las aclaraciones y proporcionará la información adicional que éstos le soliciten.
+
+###### Artículo 282.
+
+En caso de que el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura entrante descubra irregularidades durante el término señalado en el artículo anterior, deberá hacerlo del conocimiento del Pleno del Consejo, para que se aclaren por el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura saliente, o en su caso, se proceda de conformidad al régimen de responsabilidades de los servidores públicos.
+
+Si el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura entrante, no procediera de conformidad con el párrafo anterior, incurrirá en responsabilidad en términos de Ley.
+
+###### Artículo 283.
+
+La entrega del despacho y de los asuntos en trámite encomendados al Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura saliente, no lo exime de las responsabilidades en que hubiere incurrido en los términos de Ley.
+
+###### Artículo 284.
+
+El Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura saliente que no entregue los asuntos y recursos a su cargo en los términos de esta Ley, será requerido por el el (sic) Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura entrante para que en un lapso no mayor de quince días hábiles, contados a partir de la fecha de separación del empleo, cargo o comisión, cumpla con esta obligación.
+
+En este caso, el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura entrante, al tomar posesión, o el encargado del despacho, levantará acta circunstanciada, con asistencia de dos testigos, dejando constancia del estado en que se encuentren los asuntos, para efectos del requerimiento a que se refiere este artículo, a fin de que se promuevan las acciones que correspondan, en aplicación del régimen de responsabilidades de los servidores públicos.
+
+### CAPÍTULO SEGUNDO. DE LA DOCUMENTACIÓN
+
+###### Artículo 285.
+
+La documentación de entrega deberá integrarse en la forma siguiente:
+
+I. El Expediente Protocolario que contendrá:
+
+a) Acta administrativa de entrega-recepción;
+
+b) Informe de los asuntos de su competencia; y
+
+c) Acta circunstanciada, en su caso.
+
+II. Los Estados Financieros y Presupuestales, que contendrán:
+
+a) Balance general;
+
+b) Estado de ingresos ordinarios y extraordinarios;
+
+c) Corte de caja adicional;
+
+III. Estado de ejercicio presupuestal que contenga:
+
+a) Gasto corriente;
+
+b) Transferencias;
+
+c) Gastos de inversión;
+
+d) Erogaciones extraordinarias;
+
+e) Deuda Pública;
+
+f) Relación de cuentas bancarias;
+
+g) Programa de inversión; y
+
+h) Calendarización y metas.
+
+IV. Situación Patrimonial, que contendrá:
+
+a) Bienes en almacén;
+
+b) Bienes inmuebles;
+
+c) Bienes muebles;
+
+d) Expedientes en archivo;
+
+e) Material bibliográfico;
+
+f) Contratos; y
+
+g) Inventario de programas de computación.
+
+V. Recursos Humanos, especificando:
+
+a) Plantilla de personal;
+
+b) Inventario de recursos humanos;
+
+c) Estructura orgánica;
+
+d) Resumen de plazas; y
+
+e) Sueldos no cobrados.
+
+VI. Asuntos en trámite, especificando:
+
+a) Juicios en proceso;
+
+b) Convenios; y
+
+c) Informe de obras.
+
+## TÍTULO DÉCIMO TERCERO. DE LAS COSTAS Y ARANCELES
+
+### CAPÍTULO ÚNICO
+
+#### SECCIÓN II. DE LOS ARANCELES DE LOS INTERVENTORES Y ALBACEAS JUDICIALES
+
+###### Artículo 286.
+
+Las costas son la sanción impuesta en los términos de la ley a los litigantes que hayan actuado de mala fe, con falsedad o sin derecho, cuyo objeto es el pago de los gastos legales que el juicio implicó a la contraparte.
+
+###### Artículo 287.
+
+Los Jueces y Magistrados al momento de dictar la sentencia que condene a costas, determinarán el monto líquido de las mismas si ello fuese posible, de no serlo se determinará por vía incidental. En su caso, las partes deberán aportar los elementos necesarios para efectuar la liquidación correspondiente y en su defecto, el Juez la determinará con los elementos que se desprendan del propio expediente.
+
+Las partes siempre tendrán derecho al cobro de las costas establecidas en esta ley, cuando acrediten haber sido asesorados, durante el juicio, por Licenciado en Derecho con cédula profesional expedida por la autoridad o institución legalmente facultada para ello.
+
+Para el efecto de la acreditación, los Licenciados en Derecho registrarán su cédula profesional ante la Secretaría Ejecutiva del Consejo de la Judicatura, en términos del Reglamento de la presente Ley. Debiendo la Secretaría Ejecutiva proporcionar el número correspondiente para la acreditación ante cualquiera de los órganos jurisdiccionales del Estado.
+
+En caso de que la parte favorecida con el resultado del juicio haya sido asesorada por terceros, podrá solicitar al Juez que las costas sean determinadas en la sentencia a favor del abogado o la institución que lo haya patrocinado.
+
+###### Artículo 288.
+
+Las costas en Primera Instancia se causarán conforme a las siguientes bases:
+
+a) Cuando el monto del negocio no exceda del equivalente a tres mil veces el valor diario de la unidad de medida y actualización vigente, se causará el 10%;
+
+b) Cuando el monto del negocio exceda del equivalente a tres mil veces el valor diario de la unidad de medida y actualización vigente y sea hasta de seis mil veces el valor diario de la unidad de medida y actualización vigente, se causará el 8%; y
+
+c) Cuando el monto del negocio exceda del equivalente a seis mil veces el valor diario de la unidad de medida y actualización vigente, se causará el 6%.
+
+Si el asunto tuviere que resolverse a través de una segunda instancia, las cuotas anteriores se aumentarán en 2%.
+
+###### Artículo 289.
+
+En los negocios de cuantía indeterminada se causarán las costas siguientes:
+
+I. Por el estudio del negocio para plantear la demanda, el equivalente a cien veces el valor diario de la unidad de medida y actualización vigente;
+
+II. Por el escrito de demanda, el equivalente a sesenta veces el valor diario de la unidad de medida y actualización vigente;
+
+III. Por el escrito de contestación a la demanda, el equivalente a sesenta veces el valor diario de la unidad de medida y actualización vigente;
+
+IV. Por la lectura de escritos o promociones presentados por el contrario, por foja, el equivalente a cinco veces el valor diario de la unidad de medida y actualización vigente;
+
+V. Por el escrito en que se promueva un incidente o recurso del que deba conocer el mismo juez de los autos, o se evacue el traslado o vistas de promociones de la contraria, el equivalente a diez veces el valor diario de la unidad de medida y actualización vigente;
+
+VI. Por cada escrito proponiendo pruebas, el equivalente a veinte veces el valor diario de la unidad de medida y actualización vigente;
+
+VII. Por cada interrogatorio o pliego de posiciones a la contraria, de preguntas o repreguntas a los testigos, o cuestionarios a los peritos, por hoja, el equivalente a cinco veces el valor diario de la unidad de medida y actualización vigente;
+
+VIII. Por la asistencia a juntas, audiencias o diligencias en el local del Juzgado, por cada hora o la parte proporcional del tiempo que exceda de la hora, el equivalente a ocho veces el valor diario de la unidad de medida y actualización vigente;
+
+IX. Por la asistencia a cualquier diligencia fuera del juzgado, por cada hora o la parte proporcional del tiempo que exceda de la hora, contada a partir de la salida del Juzgado, el equivalente a diez veces el valor diario de la unidad de medida y actualización vigente;
+
+X. Por la notificación o vista de proveídos, el equivalente a cinco veces el valor diario de la unidad de medida y actualización vigente;
+
+XI. Por notificación o vista de sentencia, el equivalente a ocho veces el valor diario de la unidad de medida y actualización vigente;
+
+Las costas a que se refiere esta fracción y la anterior, se cobrarán sólo cuando conste en autos que el abogado fue notificado directamente por el actuario. En cualquier otro caso, por cada notificación se cobrará el equivalente a dos veces el valor diario de la unidad de medida y actualización vigente, siempre que la promoción posterior revele que el abogado tuvo conocimiento del proveído o sentencia relativos;
+
+XII. Por los alegatos en lo principal, según la importancia o dificultad del caso a juicio del Juez, el equivalente a seis y hasta doce veces el valor diario de la unidad de medida y actualización vigente, y
+
+XIII. Por el escrito de agravios o contestación de los mismos, el equivalente a cien veces el valor diario de la unidad de medida y actualización vigente.
+
+###### Artículo 290.
+
+Si en un juicio civil o mercantil hubiere condenación en costas y los escritos relativos no estuvieren firmados por abogado alguno, pero pudiere comprobarse plenamente la intervención de éste y sus gestiones en el negocio, la regulación de costas se hará de acuerdo con este arancel.
+
+###### Artículo 291.
+
+Los abogados que intervengan en juicios civiles o mercantiles por derecho propio, cobrarán las costas que fija el presente arancel, aun cuando no sean patrocinados por otro abogado.
+
+#### SECCIÓN III. DE LOS DEPOSITARIOS
+
+###### Artículo 292.
+
+En los juicios sucesorios, los interventores y albaceas judiciales cobrarán el 4% del importe de los bienes, si no exceden de ocho mil veces el valor diario de la unidad de medida y actualización vigente, si exceden de esta suma, pero no del equivalente a veinticuatro mil veces el valor diario de la unidad de medida y actualización vigente, cobrará además el 2% sobre el exceso; si excediere del equivalente a veinticuatro mil veces el valor diario de la unidad de medida y actualización vigente, cobrará además el 1% sobre la cantidad excedente.
+
+#### SECCIÓN IV. DE LOS INTÉRPRETES Y TRADUCTORES
+
+###### Artículo 293.
+
+Los depositarios de bienes muebles, además de los gastos de arrendamiento del local en donde se constituya el depósito, así como de la conservación que autoriza el juez, cobrarán como honorarios hasta un 2% sobre el valor de los muebles depositados.
+
+###### Artículo 294.
+
+Los depositarios de semovientes cobrarán sus honorarios con arreglo al artículo anterior, además de los gastos de manutención y costo de arrendamiento del local necesario para el depósito.
+
+###### Artículo 295.
+
+En el caso de los dos artículos que anteceden, si se hiciere necesaria la venta de los bienes, los depositarios cobrarán además de dichos honorarios, del 2% al 5% sobre el producto líquido de ésta, si en ella hubieren intervenido.
+
+###### Artículo 296.
+
+Los depositarios de fincas urbanas cobrarán el 10% del importe bruto de los productos o rentas que se recauden. En caso de que la finca nada produzca, los honorarios se regularán conforme a lo dispuesto en el artículo 289 de esta Ley.
+
+###### Artículo 297.
+
+Los depositarios de fincas rústicas percibirán como honorarios los que señala el artículo 293 de la presente Ley más un 10% sobre las utilidades líquidas de la finca.
+
+###### Artículo 298.
+
+Cuando la disposición recaiga sobre créditos, el depositario, además de los honorarios a que se refiere el artículo 293 de la presente Ley, cobrará el 5% sobre el importe de los réditos o pensiones que recaude.
+
+#### SECCIÓN V. DE LOS PERITOS
+
+###### Artículo 299.
+
+Los intérpretes y traductores podrán cobrar por honorarios, hasta un máximo de lo señalado en los casos siguientes:
+
+I. Por asistencia ante las autoridades judiciales para traducir declaraciones en lenguas indígenas o en idioma extranjero, por cada hora o fracción, el equivalente a cinco veces el valor diario de la unidad de medida y actualización vigente; y
+
+II. Por traducción de cualquier documento, por hoja, el equivalente a dos veces el valor diario de la unidad de medida y actualización vigente.
+
+#### SECCIÓN VI. DE LOS ÁRBITROS
+
+###### Artículo 300.
+
+Los peritos de las diferentes especialidades que prestan sus servicios como auxiliares de la administración de justicia, cobrarán conforme al arancel siguiente:
+
+I. En asuntos relacionados con valuación, el 2.5 al millar del valor de los bienes por valuar;
+
+II. En exámenes de grafoscopía, dactiloscopía y de cualquier otra técnica, veinte veces el valor diario de la unidad de medida y actualización vigente, y
+
+III. En los negocios de cuantía indeterminada, los peritos cobrarán hasta doscientas cuarenta veces el valor diario de la unidad de medida y actualización vigente, cantidad que se determinará por el juzgador, tomando en cuenta la naturaleza del negocio y la complejidad de la materia sobre la que verse el peritaje. Dicha cantidad se actualizará en términos de lo dispuesto por el último párrafo del Artículo anterior.
+
+###### Artículo 301.
+
+Los árbitros necesarios o voluntarios, salvo convenio de las partes, cobrarán como únicos honorarios por conocer y decidir el juicio en que intervengan, hasta el 4% del valor del negocio.
+
+###### Artículo 302.
+
+Cuando el árbitro no llegue a pronunciar el laudo, por haberse avenido las partes, por recusación o por cualquier otro motivo, cobrará el 25% del porcentaje que se establece en el artículo que antecede y el 50% del mismo porcentaje, si hubiere recibido pruebas y el negocio estuviere en estado de resolución.
+
+###### Artículo 303.
+
+Cuando el o los árbitros no pronuncien el laudo dentro del plazo correspondiente, no devengarán honorarios.
+
+###### Artículo 304.
+
+El Secretario que sin ser árbitro, intervenga con este carácter en el juicio respectivo, devengará el 50% de los honorarios que le corresponderían si fuere árbitro.
+
+###### Artículo 305.
+
+Las cuotas de la tarifa anterior rigen para el caso de que el árbitro sea único. Cuando sean dos, cada uno de ellos percibirá como honorarios el 50% del importe de las cuotas respectivas que señala la tarifa mencionada, cuando sean más de dos, la parte proporcional que corresponda.
+
+###### Artículo 306.
+
+Los árbitros terceros, para el caso de discordia, devengarán el 75% del porcentaje señalado en el artículo 300 de la presente Ley.
+
+###### Artículo 307.
+
+En los negocios cuya cuantía sea indeterminada, el árbitro cobrará de doscientas a quinientas veces el valor diario de la unidad de medida y actualización vigente.
+
+Para regular la cuota anterior, se atenderá a la importancia del negocio, a las dificultades técnicas que presente y a las posibilidades pecuniarias de las partes.
+
+T R A N S I T O R I O S:
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de la publicación del presente Decreto, con las siguientes excepciones:
+
+A) En tanto se materializa la instalación (sic) Consejo de la Judicatura, las facultades, atribuciones y funciones que el presente Decreto atribuye al Pleno del Consejo de la Judicatura y a su Presidente, se entenderán conferidas respectivamente al Pleno del Tribunal Superior de Justicia y a su Presidente.
+
+B) Las disposiciones relativas a la Ley Nacional de Ejecución Penal y al Sistema de Justicia en Ejecución Penal, entrarán en vigor en los términos y plazos que establezcan las Declaratorias que al efecto emita el H. Congreso del Estado, de conformidad con el artículo transitorio segundo del Decreto mediante el cual se expide la referida Ley Nacional, publicada el 16 de junio de 2016; en tanto esto acontece, los jueces penales de la causa y los Jueces de Ejecución, continuarán aplicando los procedimientos establecidos en la Ley de Ejecución de Sanciones y medidas de Seguridad para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado del 18 de junio de 2011, con las funciones y atribuciones que la misma establece.
+
+C) Las disposiciones que establecen obligaciones y responsabilidades relativas a las Leyes Generales y las que en el ámbito estatal regulen el Sistema Nacional Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos; entrarán en vigor en los tiempos y términos que dispongan las Leyes aplicables.
+
+SEGUNDO.- En tanto se cuenta con los recursos presupuestales necesarios para la contratación de Jueces con competencia exclusiva para la operación del Sistema Integral de Justicia Penal para Adolescentes, el Pleno del Consejo de la Judicatura, podrá habilitar a los Jueces de Control del Sistema Penal Acusatorio que cuenten con la especialidad en la materia, como Jueces especializados en el Sistema Integral de Justicia Penal para Adolescentes, facultándoles para actuar como Jueces de Control, Tribunal Unitario de Enjuiciamiento o Jueces de Ejecución Especializados en esta materia.
+
+TERCERO.- Una vez que inicie su vigencia la Ley Nacional de Ejecución Penal y el Sistema de Justicia en Ejecución Penal y hasta en tanto se cuente con la disponibilidad presupuestal necesaria, el Pleno del Consejo de la Judicatura, podrá habilitar a los Jueces de Control del Sistema Penal Acusatorio como Jueces de Ejecución Penal.
+
+CUARTO.- A excepción del Presidente del Consejo de la Judicatura, que ostentará tal carácter durante el tiempo que se desempeñe como Presidente del Tribunal Superior de Justicia, los Consejeros del Poder Judicial deberán ser designados por el Pleno del Tribunal Superior de Justicia con la anticipación necesaria para la instalación del Consejo, en términos de los artículos transitorios segundo y tercero del Decreto número 2366, publicado en el Boletín Oficial del Gobierno del Estado con fecha 31 de julio de 2016.
+
+QUINTO.- El Gobernador del Estado designará al Consejero miembro a que se refiere la Constitución Política del Estado Libre y Soberano de Baja California Sur y la presente Ley, con la anticipación necesaria para la instalación del Consejo, en términos de los artículos transitorios segundo y tercero del Decreto número 2366, publicado en el Boletín Oficial del Gobierno del Estado con fecha 31 de julio de 2016.
+
+SEXTO.- El Congreso del Estado llevará a cabo la elección del Consejero miembro a que se refiere la Constitución Política del Estado Libre y Soberano de Baja California Sur y la presente Ley, con la anticipación necesaria para la instalación del Consejo, en términos de los artículos transitorios segundo y tercero del Decreto número 2366, publicado en el Boletín Oficial del Gobierno del Estado con fecha 31 de julio de 2016.
+
+SÉPTIMO.- El Consejo de la Judicatura deberá quedar instalado en los términos que disponen los artículos transitorios segundo y tercero del Decreto número 2366, publicado en el Boletín Oficial del Gobierno del Estado con fecha 31 de julio de 2016; Una vez instalado el Consejo de la Judicatura, contará con un término de noventa días para elaborar y publicar el Reglamento respectivo.
+
+OCTAVO.- La Secretaría de Finanzas del Gobierno del Estado de Baja California Sur y el Congreso del Estado de Baja California Sur, deberán considerar en los presupuestos correspondientes, los recursos económicos necesarios para sufragar la infraestructura, equipamiento y gasto de operación del Consejo de la Judicatura.
+
+NOVENO.- Los asuntos iniciados con anterioridad al presente Decreto continuarán tramitándose conforme a la ley aplicable en ese momento hasta su total conclusión.
+
+DÉCIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, EN LA PAZ, BAJA CALIFORNIA SUR, A LOS DIECISEIS DÍAS DEL MES DE DICIEMBRE DEL AÑO 2016.
+
+DIP. ALFREDO ZAMORA GARCIA
+
+P R E S I D E N T E
+
+DIP. NORMA ALICIA PEÑA RODRÍGUEZ
+
+S E C R E T A R I A
+
+EN CUMPLIMIENTO A LO DISPUESTO POR LA FRACCIÓN II DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA SUR, EN LA RESIDENCIA DEL PODER EJECUTIVO, A LOS VEINTIUN DÍAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL DIECISÉIS.
+
+A T E N T A M E N T E
+
+GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR
+
+CARLOS MENDOZA DAVIS
+
+SECRETARIO GENERAL DE GOBIERNO
+
+ALVARO DE LA PEÑA ANGULO
