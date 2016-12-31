@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-el-ejercicio-de-las-profesiones-del-estado-de-baja-167
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-10"
-last_updated: "2016-10-31"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 10 de julio de 2000.
 
@@ -53,7 +53,9 @@ I. Las funciones de la Dirección de Profesiones del Estado y del Consejo;
 
 II. Los requisitos para el ejercicio profesional y su supervisión;
 
-III. Los lineamientos para la organización y supervisión de las agrupaciones de profesionistas, así como de sus facultades y obligaciones;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III. Los lineamientos para la organización y supervisión de los colegios de profesionistas, así como de sus facultades y obligaciones;
 
 IV. Los requisitos para la prestación, vigilancia y control del servicio social profesional;
 
@@ -75,7 +77,9 @@ III. Instituciones de educación superior: A las enlistadas en las fracciones de
 
 IV. Profesionista: Es toda persona física que obtenga un título en los niveles de normal, licenciatura, o postgrado, expedido por las Instituciones educativas debidamente autorizadas o reconocidas por las autoridades competentes;
 
-V. Colegio: La agrupación de personas que pertenecen a una misma profesión, que poseen título legalmente expedido y están habilitadas para ejercer; con personalidad jurídica propia, de acuerdo con la ley Civil y de libre ingreso;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V. Colegios de Profesionistas: Las asociaciones de profesionistas debidamente registradas en la Dirección;
 
 VI. Agrupaciones de Profesionistas: Las asociaciones de profesionistas debidamente registradas en la Dirección;
 
@@ -199,21 +203,27 @@ Podrán ser árbitros en ese orden:
 
 I. El que designen ambas partes;
 
-II. Alguna agrupación de profesionistas de la misma rama o equivalente a la del prestador del servicio, designada por las partes; y
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II. Algún colegio de profesionistas de la misma rama o equivalente a la del prestador del servicio, designada por las partes; y
 
 III. La Dirección;
 
 IV. El Consejo Consultivo.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 16.
 
-Para fungir como árbitro, las agrupaciones de profesionistas designadas para tal efecto deberán integrar un comité encargado de estudiar el asunto y emitir el laudo.
+Para fungir como árbitro, los colegios de profesionistas designados para tal efecto deberán integrar un comité encargado de estudiar el asunto y emitir el laudo.
 
-Dicho comité deberá formarse por un presidente y cuatro vocales electos por voto secreto y directo de los miembros de la agrupación, quienes se abocarán en forma expedita al estudio e investigación del asunto, concediendo el derecho de audiencia y defensa a las partes correspondientes, valorando todas las pruebas apegándose al principio de estricto derecho, y una vez agotado el procedimiento, emitirá el laudo debidamente fundado y motivado.
+Dicho comité deberá formarse por un presidente y cuatro vocales electos por voto secreto y directo de los miembros del colegio, quienes se abocarán en forma expedita al estudio e investigación del asunto, concediendo el derecho de audiencia y defensa a las partes correspondientes, valorando todas las pruebas apegándose al principio de estricto derecho, y una vez agotado el procedimiento, emitirá el laudo debidamente fundado y motivado.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 17.
 
-El pago de los gastos del arbitraje en el caso de que el árbitro sea un particular o alguna agrupación de profesionistas, se realizará por acuerdo previo entre las partes en conflicto.
+El pago de los gastos del arbitraje en el caso de que el árbitro sea un particular o algún colegio de profesionistas, se realizará por acuerdo previo entre las partes en conflicto.
 
 ###### Artículo 18.
 
@@ -237,13 +247,17 @@ Tanto las actuaciones como el laudo se mantendrán en secreto y sólo podrá hac
 
 Si el laudo arbitral fuese adverso al profesionista, éste no tendrá derecho a cobrarle al cliente por concepto alguno; en caso contrario, el cliente o empleador deberá pagar los honorarios y gastos correspondientes.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 20.
 
-La responsabilidad en que incurra un profesionista en el desempeño del ejercicio profesional será siempre individual y no afectará a la agrupación de profesionistas a la que pertenezca.
+La responsabilidad en que incurra un profesionista en el desempeño del ejercicio profesional será siempre individual y no afectará al colegio de profesionistas al que pertenezca.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 21.
 
-En su caso las autoridades judiciales correspondientes, dentro de los treinta días siguientes al que haya causado ejecutoria la sentencia en la cual condenen a algún profesionista, inhabilitándolo o suspendiéndolo en el ejercicio de su profesión, deberán remitir copia certificada de la misma a la Dirección y ésta deberá comunicarlo a las agrupaciones de profesionistas según sea el ramo, independientemente de que pertenezca o no a alguna.
+En su caso las autoridades judiciales correspondientes, dentro de los treinta días siguientes al que haya causado ejecutoria la sentencia en la cual condenen a algún profesionista, inhabilitándolo o suspendiéndolo en el ejercicio de su profesión, deberán remitir copia certificada de la misma a la Dirección y ésta deberá comunicarlo al colegio de profesionistas según sea el ramo, independientemente de que pertenezca o no a alguna.
 
 ### CAPITULO V. Servicio Social Estudiantil, Prácticas Profesionales y residencias
 
@@ -273,13 +287,17 @@ La Dirección recibirá cada semestre el listado de los alumnos de cada instituc
 
 Se entiende por servicio solidario profesional voluntario, el trabajo de carácter temporal y gratuito que presten los profesionistas que hayan obtenido la cédula correspondiente.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 25.
 
-La Dirección es la encargada de coordinar la prestación del servicio solidario profesional voluntario en la Entidad. Contará para ello con el apoyo de las demás dependencias del gobierno del Estado y de los Ayuntamientos, así como del Gobierno Federal de conformidad con los convenios celebrados o que se celebren para tal efecto. Asimismo, contará con el respaldo de todas las agrupaciones de profesionistas legalmente reconocidas y registradas en la Propia Dirección.
+La Dirección es la encargada de coordinar la prestación del servicio solidario profesional voluntario en la Entidad. Contará para ello con el apoyo de las demás dependencias del gobierno del Estado y de los Ayuntamientos, así como del Gobierno Federal de conformidad con los convenios celebrados o que se celebren para tal efecto. Asimismo, contará con el respaldo de todos los colegios de profesionistas legalmente reconocidas y registradas (sic) en la propia Dirección.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 26.
 
-Cada año, a más tardar el día último del mes de enero, las agrupaciones de profesionistas deberán proporcionar a la Dirección:
+Cada año, a más tardar el día último del mes de enero, los colegios de profesionistas deberán proporcionar a la Dirección:
 
 I. Lista de los afiliados que hayan consentido en prestar su servicio solidario profesional voluntario;
 
@@ -287,19 +305,25 @@ II. Lista de los afiliados que en año inmediato anterior comenzaron y terminaro
 
 III. Los programas anuales por ejecutar del servicio solidario profesional voluntario, los resultados que esperan de los mismos y la recomendación de los sitios en que con mayor urgencia se requiere la prestación de dicho servicio.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 27.
 
-Los profesionistas que no estén afiliados a alguna agrupación de profesionistas, podrán comprometerse con el Consejo para la prestación del servicio solidario profesional voluntario y acreditar ante la misma, su cumplimiento para que le sea entregada la constancia correspondiente.
+Los profesionistas que no estén afiliados a algún colegio de profesionistas, podrán comprometerse con el Consejo para la prestación del servicio solidario profesional voluntario y acreditar ante la misma, su cumplimiento para que le sea entregada la constancia correspondiente.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 28.
 
-Los profesionistas podrán prestar los servicios de índole solidario en comunidades de escasos recursos, instituciones públicas o privadas, en agrupaciones de profesionistas, o en donde la Dirección determine, a través de asesoría, consultas, aportación de datos o ejecución de trabajos de su profesión, con la vigilancia y aprobación de la Dirección.
+Los profesionistas podrán prestar los servicios de índole solidario en comunidades de escasos recursos, instituciones públicas o privadas, en colegios de profesionistas, o en donde la Dirección determine, a través de asesoría, consultas, aportación de datos o ejecución de trabajos de su profesión, con la vigilancia y aprobación de la Dirección.
 
 ###### Artículo 29.
 
 La Dirección extenderá anualmente la constancia del servicio social profesional voluntario a todos los profesionistas que hayan cumplido con el mismo.
 
-En el mismo evento, el cual deberá de ser público ante el Gobernador del Estado o su representante, se hará entrega de los reconocimientos a los profesionistas más destacados en cada rama profesional a propuesta de las agrupaciones de profesionistas.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+En el mismo evento, el cual deberá de ser público ante el Gobernador del Estado o su representante, se hará entrega de los reconocimientos a los profesionistas más destacados en cada rama profesional a propuesta de los colegios de profesionistas.
 
 ### CAPITULO VII. De la Asistencia Social Gratuita por Profesionistas Extranjeros y Nacionales
 
@@ -313,37 +337,131 @@ II. Que en la prestación de la asistencia social gratuita también participaran
 
 III. Que en la prestación de la asistencia social gratuita, los profesionistas del servicio deben contar con la autorización de las autoridades correspondientes en materia de migración, así como, exhibir los documentos que acrediten sus profesiones.
 
-### CAPITULO VIII. De las Agrupaciones de Profesionistas
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO VIII. De la Colegiación
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+#### Sección Primera. DE LOS COLEGIOS
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 31.
 
-Los profesionistas en el Estado, pueden organizarse y constituirse para el ejercicio de sus derechos y defensa de sus intereses de carácter profesional, en agrupaciones de profesionistas, en los términos de Ley.
+Los Colegios de Profesionistas son entidades privadas de interés público que agrupan a profesionistas de la misma rama de actividad para reunirse de manera no transitoria, a efecto de coadyuvar en las funciones de mejoramiento y vigilancia del ejercicio profesional y realizar todo tipo de actividades relacionadas con la superación, defensa y correcto ejercicio de una misma profesión.
+
+Los profesionistas en el Estado, pueden organizarse y constituirse para el ejercicio de sus derechos y defensa de sus intereses de carácter profesional, en colegios, federaciones y confederaciones de profesionistas, en los términos de Ley.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 31 Bis.
+
+Son facultades y atribuciones de los Colegios de Profesionistas:
+
+I. La ordenación del ejercicio de las Actividades Profesionales.
+
+II. Ostentar en su ámbito la representación y defensa exclusiva de la profesión ante la Administración, Instituciones, Tribunales, Entidades y particulares, con legitimación para ser parte en cuantos litigios afecten a los intereses profesionales y ejercitar el derecho de petición, conforme a la ley.
+
+III. La defensa de los derechos e intereses profesionales de los colegiados.
+
+IV. El control ético y la aplicación del régimen disciplinario de alguna de las Actividades Profesionales de que se trate en garantía de la sociedad.
+
+V. Llevar el registro y formar expediente individualizado de cada uno de sus integrantes, asentando las actividades de educación continua efectuadas, recabando copia de las constancias pertinentes y anotando los procedimientos de sanción que les hubieren sido instruidos;
+
+VI. Ordenar en el ámbito de su competencia, la actividad profesional de los colegiados, velando por la ética y dignidad profesional y por el respeto debido a los derechos de los particulares.
+
+VII. Procurar la armonía y colaboración entre los colegiados, impidiendo la competencia desleal entre los mismos.
+
+VIII. Adoptar las medidas conducentes a evitar el intrusismo profesional.
+
+IX. Cumplir y hacer cumplir a los colegiados las leyes generales y especiales y los estatutos profesionales y reglamentos de régimen interior, así como las normas y decisiones adoptadas por los órganos colegiales, en materia de su competencia.
+
+X. Colaborar en los procesos de diseño, elaboración o modificación de los planes y programas de estudio de sus respectivas Actividades Profesionales, cuando sean requeridos por las autoridades o a solicitud de las instituciones educativas;
+
+XI. Servir de mediador o árbitro en los conflictos entre profesionistas, o entre éstos y las personas a quienes presten sus servicios o terceros afectados, cuando acuerden someterse a dicha mediación o bien al arbitraje, mismo que se sujetará a las reglas que sobre el particular se establezcan en los estatutos del respectivo Colegio de Profesionistas de conformidad con esta ley.
+
+XII. Prestar la más amplia colaboración al poder público como cuerpos consultores.
+
+XIII. Formular para proponer ante las autoridades correspondientes, listas de peritos de entre sus miembros, a fin de que se les reconozca como "peritos oficiales." Para ser perito se deberá obtener la constancia de certificación, cuando corresponda, así como cumplir con los requisitos específicos que establezca el colegio y dispongan otras leyes, en su caso.
+
+XIV. Velar porque los puestos públicos en que se requieran conocimientos propios de determinada profesión o actividad profesional sean desempeñados por los profesionistas correspondientes.
+
+XV. Aplicar las sanciones que prevén sus propios estatutos, por violación a las normas de ética profesional correspondientes y colaborar con las autoridades competentes en la aplicación de otras sanciones cuando sean procedentes;
+
+XVI. Organizar y supervisar los programas de actualización profesional y otorgar las constancias correspondientes a quienes demuestren haberlos cumplido y reúnan los demás requisitos previstos en cada caso;
+
+XVII. Cuantas otras funciones redunden en beneficio de los intereses profesionales de los colegiados y las demás que señalen sus propios estatutos, y otras disposiciones aplicables siempre que no contravengan a lo dispuesto en la presente Ley.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 32.
 
-Todo profesionista podrá solicitar su incorporación en alguna de las agrupaciones de profesionistas de la rama a que corresponda. Las agrupaciones de profesionistas decidirán sobre su admisión conforme a lo que establezcan sus estatutos.
+Todo profesionista podrá solicitar su incorporación en alguno de los colegios de profesionistas de la rama a que corresponda. Los Colegios de profesionistas decidirán sobre su admisión conforme a lo que establezcan sus estatutos.
 
-(REFORMADO, B.O. 31 ENERO DE 2004) (F. DE E., B.O. 17 DEMARZO DE 2004)
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 33.
 
-Por cada licenciatura, normal, profesional, especialidad, maestría o doctorado, podrán constituirse en el Estado un colegio de profesionistas y una o varias organizaciones civiles con carácter municipal.
+Todos los profesionistas de una misma profesión o rama, podrán organizarse y constituirse en Colegios de Profesionistas, para el ejercicio de sus derechos y defensa de sus intereses de carácter profesional, en los términos de la presente Ley.
 
-Las agrupaciones de profesionistas a nivel licenciatura, normal, especialidad, maestría o doctorado, adoptarán el nombre que elijan pero que denote la rama profesional de que se trate, cuando se refiera a los colegios de profesionistas de alcance estatal, deberán iniciar con la palabra "Colegio" y terminar con "Baja California Sur".
+Los profesionistas que tengan conocimientos especializados profesionales, conocidas estas (sic) como ramas profesionales, quedaran comprendidos dentro de su colegio correspondiente, y la conformación del Consejo Directivo de los Colegios que se hace mención en el párrafo anterior se renovara cada dos años a partir de la fecha del primer registro, salvo que los propios estatutos de cada colegio dispongan a un año, en cuyo plazo no podrá exceder de dos años.
 
-No se podrá autorizar que más de una agrupación de profesionistas se ostenten con el mismo nombre o razón social en el Estado, aunque exista la mínima diferencia en el calificativo de su nombre.
+El Gobierno y Administración de los Colegios se regirá por el Consejo Directivo compuesto como mínimo por los siguientes miembros un Presidente, un Vice Presidente, un Secretario Propietario y un Suplente, que durarán dos años en su ejercicio, salvo que los propios estatutos de cada colegio dispongan a un año, en cuyo caso el plazo no podrá exceder dos años, pudiendo reelegirse para un periodo inmediato, siempre que la mayoría simple (50% mas 1) del quórum legal en la asambleas (sic) debidamente convocada así lo apruebe.
+
+El Consejo será electo por mayoría mediante voto individual y personal emitido en la Asamblea respectiva, la cual será legal siempre que se haya cumplido con las formalidades de la convocatoria y se encuentre presente la mayoría de los socios activos.
+
+Los Colegios se denominarán "Colegio de..." indicándose la profesión o rama profesional que corresponda, y podrá agregarse el nombre de un personaje honorable, de probada fama pública y prestigio en el ejercicio de la profesión o rama de que se trate, debiendo terminar con: de Baja California Sur.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+#### Sección Segunda. DE LAS FEDERACIONES Y CONFEDERACIONES DE PROFESIONISTAS
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 33 Bis.
+
+Los Colegios de una misma profesión o los afines, si así lo determinan, podrán constituirse en una Federación de Colegios con la finalidad de coordinar, fortalecer y optimizar el desarrollo de dicha profesión. Esta Federación estará conformada por un consejo directivo, el cual estará integrado por el presidente de cada colegio de la profesión correspondiente que decida integrarse. La organización y funciones de las Federaciones de Colegios serán, en lo general, las mismas que para los Colegios en particular, de acuerdo a lo establecido en esta ley.
+
+Los Colegios y las Federaciones por rama, si así lo determinan, podrán integrarse en una Confederación Estatal, como la organización pluridisciplinaria que reúna a los Colegios de todas las ramas profesionales en el Estado, la cual tendrá las siguientes atribuciones:
+
+I. Agrupar a los Colegios y Federaciones de Colegios por ramas, legalmente registradas ante la Dirección de Profesiones;
+
+II. Vincular y organizar los cuadros científicos y tecnológicos del Estado, para lograr el desenvolvimiento de una ciencia o tecnología al servicio de la sociedad, mediante la superación constante de los profesionistas, en una comunidad científica, amplia y participativa;
+
+III. Elevar sistemáticamente el conocimiento y la capacidad de los cuadros científicos y tecnológicos adecuando la práctica profesional al logro de los objetivos del desarrollo social y económico del Estado, en beneficio de la sociedad;
+
+IV. Elaborar proyectos susceptibles de ser llevados a la práctica por grupos empresariales para ser desarrollados en el Estado y ofrecer consultoría multidisciplinaria, para contribuir de esta forma al desarrollo integral del Estado;
+
+V. Fomentar la elevación de los valores de la ética profesional, para exigir y aplicar su práctica entre los cuadros científicos y tecnológicos, en beneficio de la sociedad;
+
+VI. Fomentar la participación de los Colegios y Federaciones miembros, en actividades de beneficio social;
+
+VII. Coadyuvar con las autoridades Federales, Estatales y Municipales, como cuerpo consultor multidisciplinario;
+
+VIII. Fomentar en los Colegios y Federaciones de Colegios la elaboración del Programo Anual del Servicio Social;
+
+IX. Servir de árbitro en los conflictos que surjan entre las Federaciones de Colegios; y
+
+X. Las demás que le señalen sus estatutos, esta ley y las demás que les sean aplicables.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 34.
 
-Las agrupaciones de profesionistas a las que la Dirección debe llevar seguimiento, deberán auxiliar a los gobiernos del Estado y de los Municipios en Calidad de consultores en materia de profesiones, y tendrán todos los derechos y obligaciones que esta Ley y su Reglamento estipulan.
+Los colegios de profesionistas a las (sic) que la Dirección debe llevar seguimiento, deberán auxiliar a los gobiernos del Estado y de los Municipios en Calidad de consultores en materia de profesiones, y tendrán todos los derechos y obligaciones que esta Ley y su Reglamento estipulan.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 35.
 
-Toda agrupación de profesionistas que en el Estado se constituya contraviniendo las disposiciones constitucionales y legales, o que no esté acorde con las mismas, no podrá utilizar la denominación de "Colegio", Asociación, Barra, Unión, Cámara, etcétera, no será reconocida ni registrada por la Dirección, con todos los efectos inherentes.
+Los Colegios de Profesionistas colaboraran con las autoridades competentes en las funciones de vigilancia y control del Ejercicio Profesional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 36.
 
-Para que una agrupación de profesionistas obtenga el reconocimiento, y registro de la Dirección, deberá cumplir con todos los lineamientos contenidos en la presente Ley y su Reglamento, cuyos requisitos mínimos serán los siguientes:
+Para que un colegio de profesionistas obtenga el reconocimiento, y registro de la Dirección, deberá cumplir con todos los lineamientos contenidos en la presente Ley y su Reglamento, cuyos requisitos mínimos serán los siguientes:
 
 I. Presentar solicitud por escrito al Consejo, acompañando copia del testimonio de la escritura pública del acta constitutiva y copia de sus estatutos;
 
@@ -351,25 +469,35 @@ II. Cumplir con lo establecido en el Código Civil del Estado en materia de asoc
 
 III. Entregar a la Dirección y/o al Consejo un directorio de sus miembros, con el número de cédula de cada uno de ellos.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 36 Bis.
 
-Las agrupaciones de profesionistas serán representadas en los términos que señala el Código Civil del Estado y en todo caso, sus representantes serán registrados ante la Dirección.
+Los colegios de profesionistas serán representados en los términos que señala el Código Civil del Estado y en todo caso, sus representantes serán registrados ante la Dirección;
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 37.
 
-Las agrupaciones de profesionistas podrán crear secciones especializadas e instalar delegaciones en los otros Municipios del Estado aparte de aquel en que se hayan establecido, dando aviso a la Dirección y de conformidad con lo que señale el Reglamento en cuanto a la designación de delegados.
+Los colegios de profesionistas podrán crear secciones especializadas e instalar delegaciones en los Municipios del Estado aparte de aquel en que se hayan establecido, dando aviso a la Dirección y de conformidad con lo que señale el Reglamento en cuanto a la designación de delegados.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 38.
 
-Las agrupaciones de profesionistas, para el cumplimiento de sus fines, serán consideradas personas jurídicas de interés social a quienes el Estado reconoce personalidad jurídica propia.
+Los colegios de profesionistas, para el cumplimiento de sus fines, serán consideradas (sic) personas jurídicas de interés social a quienes el Estado reconoce personalidad jurídica propia.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 39.
 
-Las agrupaciones de profesionistas deberán informar a la Dirección, anualmente, durante los primeros diez días del mes de enero, sobre su directorio de miembros, actividades, así como sus cambios de órganos directivos cuando estos se realicen, las modificaciones a sus estatutos, cursos de actualización, programas de certificación y recertificación y resultados (sic) cumplimiento del servicio solidario profesional voluntario de sus afiliados, y en general, sobre todos aquellos datos que a juicio de la propia Direccióno (sic) sea necesario que proporcionen.
+Los colegios de profesionistas deberán informar a la Dirección, anualmente, durante los primeros diez días del mes de enero, sobre su directorio de miembros, actividades, así como sus cambios de órganos directivos cuando estos se realicen, las modificaciones a sus estatutos, cursos de actualización, programas de certificación y recertificación y resultados cumplimiento del servicio solidario profesional voluntario de sus afiliados, y en general, sobre todos aquellos datos que a juicio de la propia Dirección o (sic) sea necesario que proporcionen.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 40.
 
-Las agrupaciones de profesionistas tienen los siguientes derechos y obligaciones:
+Los colegios de profesionistas tienen los siguientes derechos y obligaciones:
 
 I. Vigilar que el ejercicio profesional y actividad de sus miembros y profesionistas de la rama no afiliados se realice apegado a derecho, denunciando a las autoridades competentes, las violaciones a los dispositivos legales en que incurran por tal motivo;
 
@@ -387,7 +515,9 @@ VII. Promover y participar en los programas de actualización profesional;
 
 VIII. Promover entre sus miembros, la prestación del servicio solidario profesional voluntario;
 
-IX. Promover la creación y fortalecimiento de relaciones con otras agrupaciones de profesionistas, ya sea locales, nacionales o internacionales, y fomentar programas de colaboración entre sí;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IX. Promover la creación y fortalecimiento de relaciones con otros colegios de profesionistas, ya sea locales, nacionales o internacionales, y fomentar programas de colaboración entre sí;
 
 X. Llevar el registro de los trabajos anualmente desempeñados por sus miembros en la práctica del servicio social profesional, servicio solidario profesional voluntario y de aquellos otros que en forma destacada realicen;
 
@@ -399,7 +529,9 @@ XIII. Nombrar a un representante ante el Consejo y ante las demás autoridades e
 
 XIV. Designar representantes para asistir a los congresos locales, nacionales y extranjeros, relacionados con las ramas de la actividad y profesión de su propia agrupación;
 
-XV. Modificar cuando sean necesario los estatutos de la agrupación, dando aviso de ello a la Dirección;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XV. Modificar cuando sea necesario los estatutos del colegio, dando aviso de ello a la Dirección;
 
 XVI. Expulsar por el voto de por lo menos dos terceras partes de sus miembros, a los profesionistas que tengan afiliados, que cometan actos que deshonren su profesión y por ende a su agrupación, debiendo de otorgársele al afectado su derecho de audiencia y defensa, desahogando todas las pruebas que se estime conveniente con estricto apego a derecho y en la forma que lo determinen los estatutos de la agrupación.
 
@@ -419,13 +551,21 @@ XXII. Llevar el control de la certificación y recertificación de los miembros 
 
 XXIII. Efectuar todo aquello que tienda a la superación profesional de sus miembros o a un mejor servicio de la comunidad, así como lo que determinen otros ordenamientos legales aplicables.
 
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXIV. Contar con su respectivo código de ética profesional al momento de solicitar su registro como Colegio de Profesionistas.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXV. Contar con un órgano interno de control ético al momento de solicitar su registro como Colegio de Profesionistas.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 41.
 
-La Dirección podrá suspender o cancelar el registro de las agrupaciones de profesionistas, mediante resolución debidamente fundada y motivada, cuando éstas incumplan con las leyes, reglamentos y demás disposiciones aplicables; cuando no cumplan con sus estatutos, o por resolución judicial.
+La Dirección podrá suspender o cancelar el registro de los colegios de profesionistas, mediante resolución debidamente fundada y motivada, cuando éstas incumplan con las leyes, reglamentos y demás disposiciones aplicables; cuando no cumplan con sus estatutos, o por resolución judicial.
 
-(ADICIONADO, B.O. 31 ENERO DE 2004) (F. DE E., B.O. 17 DEMARZO DE 2004)
-
-Para tomar la resolución correspondiente, la Dirección de Profesiones deberá citar a la agrupación profesional de que se trate, haciéndole saber por escrito el inicio del procedimiento respectivo, las imputaciones que se le hacen, las pruebas que existen en su contra, otorgándoles la oportunidad de defensa, así como de aportar pruebas a su favor, en los términos establecidos en la presente Ley el reglamento que para tales efectos se expida.
+Para tomar la resolución correspondiente. La Dirección de Profesiones deberá citar al Colegio de Profesionistas que se trate, haciéndole saber por escrito el inicio del procedimiento respectivo, las imputaciones que se le hacen, las pruebas que existen en su contra, otorgándole la oportunidad de defensa, así como de aportar pruebas a su favor en los términos establecidos en la presente Ley, y el reglamento que para tales efectos se expida.
 
 ### CAPITULO IX. De las Instituciones de Educación Superior; y de los Títulos que expidan
 
@@ -485,9 +625,11 @@ VI. Obtener la autorización y reconocimiento por parte de la Secretaría de Edu
 
 Los documentos a que se refiere el artículo 42 de esta Ley o sus equivalentes, expedidos por las autoridades competentes de otras entidades federativas del país, podrán ser registrados en la Dirección, si sus titulares desean ejercer profesionalmente en Baja California Sur, siempre que su expedición se haya sujetado a las disposiciones respectivas del Estado de que se trate, de acuerdo con lo establecido en la fracción V del artículo 121 de la Constitución Política de los Estados Unidos Mexicanos, excepción hecha si la documentación a que se refiere este artículo, ha sido expedido por la secretaría de educación pública de la Federación.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 47.
 
-Para los efectos del artículo anterior, la Dirección exigirá la cédula profesional expedida por la Secretaría de Educación Pública, o por la autoridad competente de la entidad federativa de donde proviene, y a falta de éstos documentos, los comprobantes idóneos que acrediten haber cursado los estudios y aprobado los exámenes de la rama o especialidad profesional o posgrado que pretende ejercer, pudiendo esto ser avalado por alguna agrupación de profesionistas legalmente registrada ante la Dirección.
+Para los efectos del artículo anterior, la Dirección exigirá la cédula profesional expedida por la Secretaría de Educación Pública, o por la autoridad competente de la entidad federativa de donde proviene, y a falta de éstos documentos, los comprobantes idóneos que acrediten haber cursado los estudios y aprobado los exámenes de la rama o especialidad profesional o posgrado que pretende ejercer, pudiendo esto ser avalado por algún colegio de profesionistas legalmente registrada ante la Dirección.
 
 ###### Artículo 48.
 
@@ -513,11 +655,17 @@ IV. El 50% de los representantes de la totalidad de los colegios de profesionist
 
 La Dirección tendrá las facultades y obligaciones siguientes:
 
-I. Llevar el registro y dar seguimiento al funcionamiento de las agrupaciones de profesionistas, extendiendo a su favor la constancia respectiva;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II. Supervisar el funcionamiento de las agrupaciones de profesionistas y suspender y cancelar su registro por las causas señaladas en esta Ley, previo el procedimiento de audiencia y defensa contemplado en el Reglamento;
+I. Llevar el registro y dar seguimiento al funcionamiento de los colegios de profesionistas, extendiendo a su favor la constancia respectiva;
 
-III. Coordinar en el Estado y vigilar su debido cumplimiento con el auxilio de las instituciones de educación superior, de las agrupaciones de profesionistas, o de los profesionistas en lo particular;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II. Supervisar el funcionamiento de los colegios de profesionistas y suspender y cancelar su registro por las causas señaladas en esta Ley, previo el procedimiento de audiencia y defensa contemplado en el Reglamento;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III. Coordinar en el Estado y vigilar su debido cumplimiento con el auxilio de las instituciones de educación superior, de los colegios de profesionistas, o de los profesionistas en lo particular;
 
 IV. Llevar el registro de las instituciones de educación superior que expidan título, diploma o grado académico, respecto a los estudios que en las mismas se hayan cursado; así como de los planes de estudio de las carreras, especialidades, maestrías, o doctorados que en éstas se lleven;
 
@@ -543,21 +691,31 @@ VII. Otorgar la autorización provisional a los estudiantes que hayan comprobado
 
 La autorización provisional tendrá vigencia de seis meses y podrá prorrogarse seis meses más si el pasante acredita estar efectuando los trámites destinados a la titulación;
 
-VIII. Expedir constancias de actualización y práctica profesional, acreditadas por las agrupaciones de profesionistas previo el pago de los derechos correspondientes;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IX. Promover la unificación del nombre de las distintas carreras profesionales y de posgrado que se cursen en el Estado, así como orientar con la participación de las agrupaciones de profesionistas, en la distribución de la matrícula de los estudios superiores cuando le sea solicitado;
+VIII. Expedir constancias de actualización y práctica profesional, acreditadas por los colegios de profesionistas previo el pago de los derechos correspondientes;
+
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IX. Promover la unificación del nombre de las distintas carreras profesionales y de posgrado que se cursen en el Estado, así como orientar con la participación de los colegios de profesionistas, en la distribución de la matrícula de los estudios superiores cuando le sea solicitado;
 
 X. Efectuar a través de su personal capacitado, inspecciones a los lugares de trabajo de los que se ostenten como profesionistas, a efecto de comprobar que cuentan con los requisitos y autorizaciones legales correspondientes en la materia, con apego a las prevenciones contenidas en el artículo 16 Constitucional;
 
-XI. Pedir informes a las agrupaciones de profesionistas respecto al ejercicio profesional de sus afiliados;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI. Pedir informes a los colegios de profesionistas respecto al ejercicio profesional de sus afiliados;
 
 XII. Elaborar, organizar y actualizar permanentemente, el Padrón de Profesionistas en el Estado.
 
-Para tal efecto la Dirección contará con el apoyo de las agrupaciones de profesionistas, de las autoridades estatales y municipales y de las instituciones de educación superior públicas y privadas. Podrá también solicitar apoyo a las autoridades federales;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para tal efecto la Dirección contará con el apoyo de los colegios de profesionistas, de las autoridades estatales y municipales y de las instituciones de educación superior públicas y privadas. Podrá también solicitar apoyo a las autoridades federales;
 
 XIII. Establecer y organizar delegaciones regionales del Estado, previo acuerdo por escrito del Gobernador, a fin de actualizar y agilizar trámites de registro, expedición de cédulas y autorizaciones, así como del cumplimiento del servicio social profesional;
 
-XIV. Ser árbitro a petición de parte, en los conflictos que se susciten entre las agrupaciones de profesionistas, entre los miembros de éstas o con otros profesionistas, o entre profesionistas y sus clientes, emitiendo el laudo correspondiente;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIV. Ser árbitro a petición de parte, en los conflictos que se susciten entre los colegios de profesionistas, entre los miembros de éstas o con otros profesionistas, o entre profesionistas y sus clientes, emitiendo el laudo correspondiente;
 
 XV. Aplicar las sanciones en materia de profesiones conforme a las disposiciones legales aplicables, así como resolver los recursos que promuevan en el ámbito de su competencia;
 
@@ -567,7 +725,9 @@ XVII. Ordenar anualmente, dentro de los diez primeros días del mes de enero, la
 
 XVIII. Proporcionar información respecto al registro, expedición de cédulas, constancias o autorizaciones que lleva a cabo la Dirección a quien demuestre interés jurídico;
 
-XIX. Recopilar datos relacionados con las instituciones de educación superior, de enseñanza normal, de profesional técnica, y agrupaciones de profesionistas, sobre regulación, apoyo, organización y control del ejercicio profesional en la República Mexicana y en el Extranjero;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIX. Recopilar datos relacionados con las instituciones de educación superior, de enseñanza normal, de profesional técnica, y colegios de profesionistas, sobre regulación, apoyo, organización y control del ejercicio profesional en la República Mexicana y en el Extranjero.
 
 XX. Llevar memoria, de los profesionistas que residan en el Estado, aún cuando declaren no ejercer su profesión en el mismo;
 
@@ -593,9 +753,11 @@ El pago de derechos por la expedición de cédulas, autorizaciones y constancias
 
 ### CAPITULO XI. Del Consejo Consultivo para la Vigilancia en el Ejercicio Profesional
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 52.
 
-La Dirección de Profesiones, se encargará de la vigilancia del ejercicio profesional y será el órgano de comunicación entre el Estado y las Agrupaciones de Profesionistas. Para los efectos correspondientes, el Ejecutivo del Estado contará con un Consejo Consultivo que será presidido por el Gobernador del Estado o por la persona que designe como su representante.
+La Dirección de Profesiones, se encargara de la vigilancia del ejercicio profesional y será el órgano de comunicación entre el Estado y los Colegios de Profesionistas. Para los efectos correspondientes, el Ejecutivo del Estado contara con un Consejo Consultivo que será presidido por el Gobernador del Estado o por la persona que designe como su representante.
 
 El Consejo Consultivo estará integrado, además con:
 
@@ -603,7 +765,9 @@ a) Un vicepresidente, que será el Secretario de Educación.
 
 b) Un Secretario técnico, que será el Director de Profesiones.
 
-c) Vocales, que serán los Presidentes de las Agrupaciones de (Colegios) Profesionistas de Baja California Sur; reconocidos legalmente ante la Dirección, así como los Directivos de cada una de las Instituciones de Estudios Superiores del Estado.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+c) Vocales: Que serán los Presidentes de los Colegios de Profesionistas de Baja California Sur; reconocidos legalmente ante la Dirección, así como los Directivos de cada una de las Instituciones de Estudios Superiores del Estado
 
 ###### Artículo 53.
 
@@ -615,7 +779,7 @@ II. Convocar a reunión extraordinaria a solicitud de una tercera parte de sus m
 
 III. Realizar sus trabajos en pleno o mediante comisiones especificas;
 
-IV. Analizar y discutir propuestas de reformas a la presente Ley y su Reglamento;
+IV. (DEROGADA, B.O. 31 DE DICIEMBRE DE 2016)
 
 V. Fomentar la elaboración de programas enfocados a la superación y actualización profesional y velar por la excelencia en cada rama profesional;
 
@@ -623,7 +787,9 @@ VI. Ser Órgano de consulta y de análisis para los programas educativos que par
 
 VII. Recibir de la Secretaría de Educación la información repecto (sic) a las cancelaciones que por mandato judicial realizó, respecto de los actos que deban registrarse;
 
-VIII. Analizar y revisar, en su caso, la solicitud previa audiencia de parte interesada, sobre la cancelación de las inscripciones de títulos profesionales, Agrupaciones de Profesionistas o demás actos que deban registrarse;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VIII. Analizar y revisar, en su caso, la solicitud previa audiencia de parte interesada, sobre la cancelación de las inscripciones de títulos profesionales, Colegios de Profesionistas o demás actos que deban registrarse.
 
 IX. Otorgar permiso eventual a los extranjeros, para ejercer su profesión, siempre que su trabajo se aplique en beneficio de la comunidad y la solicitud respectiva sea avalada por una Institución u Organismo de Servicio Social del estado;
 
@@ -671,17 +837,17 @@ Cuando se compruebe que existe falsedad en los documentos que presenten los prof
 
 La Dirección deberá de efectuar la denuncia correspondiente ante el Ministerio Público, respecto a lo que se refiere el párrafo anterior.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 59.
 
-El profesionista que perteneciendo a alguna agrupación debidamente reconocida, y registrada por la Dirección, haya otorgado su consentimiento para efectuar su servicio social profesional gratuito, y rehusare sin causa justificada a cumplir con su compromiso por mas de tres ocasiones se le impondrá una sanción hasta por el equivalente a 60 veces el valor diario de la Unidad de Medida y Actualización. La misma sanción se impondrá a quienes no perteneciendo a ninguna agrupación de profesionistas, se hayan comprometido ante la Dirección a prestar el servicio profesional.
+El profesionista que perteneciendo a algún colegio debidamente reconocido y registrado por la Dirección, haya otorgado su consentimiento para efectuar su servicio social profesional gratuito, y rehusare sin causa justificada a cumplir con su compromiso por más de tres ocasiones se le impondrá una sanción hasta por el equivalente a 60 días de salario mínimo general vigente en el Estado. La misma sanción se impondrá a quienes no perteneciendo a ningún colegio de profesionistas, se hayan comprometido ante la Dirección a prestar el servicio profesional.
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 60.
 
-Queda prohibido el uso de la expresión "Colegio" a las agrupaciones o asociaciones de profesionistas constituidas en el Estado, que no hayan sido reconocidas y debidamente registradas ante la Dirección en los Términos de esta Ley. A quienes infrinjan esta disposición, la Dirección no les autorizará por ningún concepto en el término de 5 años el funcionamiento de agrupación profesional alguna y se les impondrá una multa hasta por el equivalente a 300 veces el valor diario de la Unidad de Medida y Actualización.
+Queda prohibido el uso de la expresión "Colegio" a las asociaciones de profesionistas constituidas en el Estado, que no hayan sido reconocidas y debidamente registradas ante la Dirección en los términos de esta ley. A quienes infrinjan esta disposición la Dirección no les autorizara por ningún concepto en el término de 5 años el funcionamiento de colegio profesional alguno y se les impondrá una multa hasta por el equivalente a 300 días de salario mínimo general vigente en el Estado.
 
 ###### Artículo 61.
 
@@ -720,6 +886,48 @@ En el procedimiento de imposición de sanciones por faltas cometidas a esta Ley 
 ###### Artículo 69.
 
 La Dirección tendrá las más amplias facultades para allegarse de oficio los elementos probatorios que estime necesarios, conforme a derecho, para obtener el mejor conocimiento de los asuntos sometidos a su resolución, y deberán de apegarse a los procedimientos que establece esta Ley, su Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO XIV. De la elaboración, expedición y aplicación de un código de ética profesional
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 70.
+
+A fin de obtener su inscripción como Colegio de Profesionistas, cualquier asociación interesada deberá contar con su respectivo código de ética que recoja todos aquellos aspectos que constituyan los principios y valores éticos reconocidos nacional e internacionalmente como los propios de la Actividad Profesional correspondiente. Dicho código deberá atender los problemas específicos del Ejercicio Profesional en el país y estado, y hacer frente a aquellas cuestiones consideradas como prácticas a corregir.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 71.
+
+El código de ética profesional de la Actividad Profesional de que se trate deberá contener las normas sustantivas básicas que deben regir la conducta profesional de los colegiados en Baja California Sur, organizadas bajo los siguientes rubros:
+
+I. Los derechos y deberes de los profesionistas;
+
+II. Las relaciones con otros profesionistas y otras Actividades Profesionales;
+
+III. Las relaciones con el colegio y otras autoridades;
+
+IV. El cobro de honorarios y en su caso de la provisión de fondos;
+
+V. El desarrollo y certificación profesionales
+
+VI. El Servicio Social Profesional; y
+
+VII. Régimen específico de la responsabilidad civil de los profesionistas
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 72.
+
+Los colegiados están sujetos a responsabilidad disciplinaria en el caso de infracción de sus deberes éticos. Las sanciones disciplinarias impuestas por los colegios se harán constar en el expediente personal del colegiado. En la medida en que las sanciones impuestas por la autoridad judicial o administrativa con motivo del Ejercicio Profesional tengan directa relación con una norma ética del Colegio de Profesionistas respectivo, dichas sanciones deberán constar en el expediente personal de los profesionistas involucrados previa audiencia de los mismos
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 73.
+
+Los Colegios de Profesionistas, deberán contar con un órgano competente para el ejercicio de la potestad disciplinaria, en los términos que establezcan sus estatutos. Sin perjuicio de las responsabilidades civiles, penales o administrativas que correspondan, ningún colegiado podrá ser sancionado por acciones u omisiones que no estén tipificadas como infracción en la presente Ley, en las leyes que rijan el ejercicio de cada Actividad Profesional en lo particular y en las normas éticas aplicables en cada colegio.
 
 ## ARTÍCULOS TRANSITORIOS
 
@@ -786,3 +994,27 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su aplicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2386 SE REFORMAN LOS ARTÍCULOS 2 FRACCIÓN III, 3 FRACCIÓN V, 15 FRACCIÓN II, 16, 17, 20, 25, 26 PÁRRAFO PRIMERO, 27, 28, 29, PÁRRAFO SEGUNDO, 31, 32, 33, 34, 35, 36 PÁRRAFO PRIMERO, 36 BIS, 37, 38, 39, 40 FRACCIONES IX Y XV, 41, 47, 50 FRACCIONES I, II, III, VIII, IX, XI, XII PÁRRAFO SEGUNDO, XIV, XIX, 52 PÁRRAFO PRIMERO, 53 FRACCIÓN VIII, 59 Y 60, SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VIII; SE ADICIONA EL ARTÍCULO 31 BIS, LAS FRACCIONES XXIV Y XXV EL (SIC) ARTÍCULO 40, EL CAPÍTULO XIV CON LOS SUBSECUENTES ARTÍCULOS 70, 71, 72 Y 73; Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 53. TODOS DE LA LEY PARA EL EJERCICIO DE LAS PROFESIONES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+A los colegios de profesionistas, que a la fecha de la entrada en vigor del presente Decreto, se encuentren debidamente reconocidos, autorizados y registrados ante la Dirección de Profesiones de la Secretaría de Educación Pública, se les seguirá respetando su registro, autorización y reconocimiento.
+
+###### ARTICULO TERCERO.
+
+Al momento de entrar en vigor el presente Decreto, las secciones municipales de profesionista (sic) que pertenezcan a colegios estatales de las diversas ramas profesionales con registro oficial, estarán en libertad de constituirse en Colegio, quienes tendrán el carácter de personas morales, con todos los derechos, obligaciones y atribuciones que señala la ley. Para lo cual deberán satisfacer los requisitos necesarios y, registrarse como colegio de profesionistas ante la Dirección de Profesiones de la Secretaría de Educación Pública, quien deberá de brindar todas las facilidades necesarias en la tramitología.
+
+###### ARTICULO CUARTO.
+
+Los bienes muebles e inmuebles, y en general todos los activos de las secciones municipales de profesionistas adquiridos con anterioridad a la presente reforma, y que tengan a bien constituirse en Colegio, pasaran a formar parte de su patrimonio.
+
+###### ARTICULO QUINTO.
+
+Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo. El Ejecutivo del Estado, en un plazo que no excederá de treinta días naturales contados a partir de la publicación del presente decreto, deberá actualizar la reglamentación de la Ley para el Ejercicio de las Profesiones de Baja California Sur.
