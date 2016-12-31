@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2015-12-31"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2017 EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -145,11 +147,11 @@ Para la determinación presuntiva de la base del impuesto, se considerarán las 
 
 DE LA TASA
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 7], P.O. 31 DE DICIEMBRE DE 2011)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 8.
 
-Este impuesto se causará y pagará mediante la aplicación de la tasa del 1.6% a la base gravable.
+Este impuesto se causará y pagará mediante la aplicación de la tasa del 2 % a la base gravable.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -273,11 +275,11 @@ II.- El valor que sirva o hubiese servido de base para el cálculo del Impuesto 
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 16.
 
-Este impuesto se causará y pagará a la tasa de 0.1% sobre la base gravable.
+Este impuesto se causará y pagará a la tasa de 0.13% sobre la base gravable.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -387,6 +389,10 @@ También están obligados a retener y enterar este Impuesto las personas física
 
 En este caso, deberán entregar a la persona física o moral que le proporcione los trabajadores, la constancia de retención correspondiente debidamente avalada por la Secretaría de Finanzas y Administración.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+La Federación, el Estado y los Municipios, así como sus organismos descentralizados estarán obligados al pago de este impuesto por las remuneraciones que efectúen con motivo de las actividades que realice su personal dentro del territorio del Estado.
+
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 DE LA BASE
@@ -401,39 +407,11 @@ Es base gravable de este impuesto, el monto total de los pagos realizados, en el
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 24.
 
-El Impuesto Sobre Nóminas se determinará mediante la aplicación, a la base que señala el artículo 23 de esta Ley, de la tarifa y procedimientos siguientes:
-
-l.- Tarifa
-
-límite inferior límite superior cuota fija Por ciento a aplicarse
-
-sobre el excedente del
-
-límite inferior
-
-$ $ $ %
-
-0.01 500,000.00 0.00 0.50%
-
-500,000.01 600,000.00 2,499.99 1.50%
-
-600,000.01 700,000.00 3,999.98 1.60%
-
-700,000.01 800,000.00 5,599.97 1.70%
-
-800,000.01 900,000.00 7,299.96 1.80%
-
-900,000.01 1,000,000.00 9,099.95 1.90%
-
-1,000,000.01 en adelante 10,999.94 2.00%
-
-II.- Procedimiento de Cálculo:
-
-Para los efectos de este artículo, la base gravable a que se refiere el artículo 23 de la presente Ley se ubicará dentro de los límites establecidos en las columnas denominadas límite inferior y límite superior de la tarifa. A la base gravable se le restará la cantidad prevista en el renglón correspondiente de la columna límite inferior y a la diferencia obtenida se le aplicará el porcentaje que para el mismo renglón se establece en la última columna. Al resultado de esta última operación se le sumará la cuota fija que para ese mismo renglón se establece en la columna cuota fija y el importe obtenido será el impuesto a pagar.
+El Impuesto Sobre Nóminas se pagará aplicando a la base que señala el artículo anterior la tasa del 3%.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -467,6 +445,10 @@ Los contribuyentes de este impuesto tienen las obligaciones siguientes:
 
 I.- Inscribirse en el Padrón Estatal de Contribuyentes de la Secretaría de Finanzas y Administración, dentro del mes siguiente a la fecha de inicio de sus operaciones, vía internet o mediante las formas oficiales aprobadas por la misma Secretaría en el Centro Regional de Atención al Contribuyente de su jurisdicción;
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para efectos de la inscripción a través de medios electrónicos, el contribuyente deberá contar con su firma electrónica (FIEL) expedida por el Servicio de Administración Tributaria.
+
 > <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 II.- Las personas físicas o morales, cuya casa matriz y sucursales operen en diferentes lugares dentro del territorio del Estado, deberán presentar las declaraciones correspondientes conforme a lo dispuesto por el Artículo 25 de esta Ley, en el Centro Regional de Atención al Contribuyente que corresponda al domicilio de la matriz, en la que se acumulará a la base gravable, el número de trabajadores y el impuesto a pagar por cada una de sus negociaciones; así como deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado;
@@ -476,6 +458,10 @@ II.- Las personas físicas o morales, cuya casa matriz y sucursales operen en di
 III.- Las personas físicas o morales cuya matriz se encuentre ubicada fuera del territorio del Estado y cuenten con sucursales dentro del mismo, deberán dar aviso al Centro Regional de Atención al Contribuyente correspondiente, respecto de las sucursales que realicen sus operaciones dentro de esta Entidad Federativa, así como del lugar en el que se presentarán las declaraciones conforme a lo dispuesto en el Artículo 25 de esta Ley, en las que acumulará la base gravable del impuesto y el número de trabajadores que tengan en todas las sucursales citadas; así mismo deberán registrar el domicilio de las sucursales que operen dentro del Territorio del Estado, así como el domicilio de la casa matriz ubicado fuera del Territorio del Estado; y
 
 IV.- Presentar, vía internet o a través del Centro Regional de Atención al Contribuyente mediante las formas oficiales aprobadas por la Secretaría de Finanzas y Administración, los avisos respectivos por cambio de nombre o razón social, domicilio fiscal o cuenta de correo electrónico, suspensión o reanudación de actividades, apertura o cierre de negociación, fusión o escisión y/o aumento o disminución de obligaciones, dentro del término de treinta días siguiente (sic) al en que ocurra el hecho.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Así mismo, presentar ante cualquier Centro Regional de Atención al Contribuyente, las declaraciones informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas oficiales, con los requisitos y en los plazos que en las mismas se establezcan.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -585,11 +571,11 @@ En los casos de servicios de hospedaje prestados bajo la modalidad de uso de tie
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 31.
 
-Este impuesto se pagará y determinará mediante la aplicación de la tasa del 2% a la base gravable.
+Este impuesto se pagará y determinará mediante la aplicación de la tasa del 2.5% a la base gravable.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -722,6 +708,10 @@ II.- Quienes reciban vehículos en consignación o comisión, para su enajenaci�
 III.- Los servidores públicos competentes que autoricen la incorporación, actualización, refrendo y desincorporación al Registro Vehicular Estatal de vehículos objeto de este impuesto, así como la expedición de permisos provisionales, placas metálicas, tarjetas de circulación y engomados, sin haberse cerciorado que no existan adeudos por el impuesto previsto en este Capítulo, a favor del Estado de Hidalgo o del Impuesto Sobre Tenencia o Uso de Vehículos previsto en la legislación federal, ya sea a favor de la Entidad, de otros Estados o de la Federación, según sea el caso, correspondiente a los últimos cinco años, salvo en los supuestos en que el contribuyente acredite con los medios idóneos que se encuentra liberado de la obligación que corresponda; y
 
 IV.- Los copropietarios del vehículo.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V.- Quienes transmitan la propiedad, tenencia o uso del vehículo sin previamente realizar la baja o cambio de propietario ante el Registro Vehicular Estatal, serán obligados solidarios hasta en tanto el nuevo propietario, usuario o poseedor, no realice dicho trámite ante la autoridad estatal.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -881,25 +871,21 @@ Años de Antigüedad Factor de Depreciación
 
 10 y en adelante 0.030
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 II.- Al resultado obtenido en el inciso anterior, se le aplicará la tarifa siguiente:
 
-Tarifa
+Límite inferior Límite superior CUOTA FIJA TASA
 
-Límite Inferior Límite superior Cuota Fija Tasa para aplicarse sobre el
+0.01 550,000.00 0.00 2.6%
 
-excedente del Límite Inferior
+550,000.01 1,100,000.00 14,299.99 11%
 
-$ $ $ %
+1,100,000.01 1 ,500,000.00 71,499.97 17%
 
-0.01 550,000.00 0.00 2%
+1,500,000.01 2,000,000.00 139,099.96 21%
 
-550,000.01 1,100,000.00 10,999.99 8%
-
-1,100,000.01 1,500,000.00 54,999.98 13%
-
-1,500,000.01 2,000,000.00 106,999.97 16%
-
-2,000,000.01 En adelante 186,999.96 19%
+2,000,000.01 En adelante 243,099.95 25%
 
 ###### ARTICULO 42.
 
@@ -1135,87 +1121,67 @@ VI.- Presentar, vía internet o a través del Centro Regional de Atención al Co
 
 No causan este impuesto las cantidades que se obtengan por concepto de reintegros.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>[N. DE E. ES DE ADVERTIR QUE MEDIANTE DECRETO NÚMERO 81 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2016, SE REPUBLICA LA DEROGACIÓN DEL CAPÍTULO SÉPTIMO.]</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO SÉPTIMO. IMPUESTO ADICIONAL PARA LA CONSTRUCCIÓN DE CARRETERAS, SOSTENIMIENTO DE LA ASISTENCIA PÚBLICA Y DEL HOSPITAL DEL NIÑO DIF DEL ESTADO
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 DEL OBJETO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 68.
 
-Es objeto de este impuesto la realización de pagos por concepto de impuestos y derechos que establezcan las leyes fiscales del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 DEL SUJETO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 69.
 
-Son sujetos de este impuesto, los contribuyentes que realicen los pagos señalados en el Artículo anterior.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 DE LA BASE
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 70.
 
-Es base de este impuesto, el monto total de los pagos que efectúen por concepto de impuestos y derechos estatales.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
-En los casos de contribuyentes que gocen de subsidios fiscales al amparo de los ordenamientos respectivos, lo causarán y pagarán sobre el total de los impuestos y derechos con exclusión de los que obtengan resolución favorable de subsidio o de excepción de pago por parte de la Secretaria de Finanzas y Administración, conforme a los preceptos legales vigentes.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 71.
 
-Este impuesto se causará y pagará a la tasa del 30%.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 DEL PAGO
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 72.
 
-El pago de este impuesto, se efectuará en el momento en que se realicen los pagos de impuestos y derechos a que se refiere el Artículo 68 de este Capítulo.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 DE LAS OBLIGACIONES
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 73.
 
-Los sujetos de este impuesto están obligados a enterar de manera conjunta, al momento del pago del impuesto o derecho principal y se pagará mediante declaraciones que deberán presentarse en las formas y ante la (sic) Instituciones Bancarias autorizadas por la Secretaría de Finanzas y Administración o vía internet.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 DE LA APLICACIÓN
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 74.
 
-El ingreso que se percibe por concepto de este impuesto, se aplicará en la siguiente forma:
-
-I.- 66% para la construcción de carreteras;
-
-II.- 17% para el sostenimiento de la Asistencia Pública; y
-
-III.- 17% para el sostenimiento del Hospital del Niño DIF, del Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ### CAPÍTULO ÚNICO
 
@@ -1609,7 +1575,7 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del pre
 
 P.O. 31 DE DICIEMBRE DE 2010.
 
-PRIMERO. El presente Decreto entrará en vigor el día 1 de enero de 2010, previa su Publicación en el Periódico Oficial del Estado.
+PRIMERO. El presente Decreto entrará en vigor el día 1 de enero de 2011, previa su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
@@ -1658,3 +1624,49 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 80 POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, DE LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, DE LA LEY DE DERECHOS DEL ESTADO DE HIDALGO, DEL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO, Y DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. Las reformas y adiciones a la presente Ley entrarán en vigor el día primero de enero del año 2017, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Continúa vigente el Decreto número 120, publicado en el Periódico Oficial del Estado de fecha 4 de Julio de 1983, en virtud de estar en vigor la coordinación que en materia de Derechos, suscribió el Estado de Hidalgo y la Secretaría de Hacienda y Crédito Público, quedando sin efecto el cobro de derechos establecidos en el mismo, salvo aquellos que han sido liberados, de acuerdo a lo establecido en la Ley de Coordinación Fiscal Federal y que se incluirán en las Leyes locales correspondientes.
+
+CUARTO. En caso de que la Ley Orgánica de la Administración Pública del Estado de Hidalgo sea reformada, o bien, cuando se acuerde la desincorporación de una Entidad de la Administración Pública Paraestatal, el Poder Ejecutivo del Estado estará facultado para llevar a cabo el cobro de las contribuciones establecidas en la presente Ley, a través de la dependencia o entidad paraestatal a la que, en razón de la reforma o desincorporación respectiva, se le otorguen las atribuciones que hubieren estado asignadas a otras y que estuvieran vinculadas expresamente con dichas contribuciones.
+
+QUINTO. Se abroga el Capítulo VII de la Ley de Hacienda del Estado de Hidalgo, que regula el Impuesto Adicional para la Construcción de Carreteras, Sostenimiento de la Asistencia Pública y del Hospital del Niño DIF del Estado, mismo que establece una tasa del 30% y que se aplica a los ciudadanos que realizan pagos por concepto de impuestos y derechos establecidos en las leyes fiscales del Estado, y en consecuencia, deberá integrarse dicho porcentaje, a todos los impuestos y derechos regulados en la Ley de Hacienda para el Estado de Hidalgo y en la Ley Estatal de Derechos.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor una vez que las disposiciones reglamentarias y administrativas que permitan el cabal cumplimiento de la presente Ley, hayan sido publicadas en el Periódico Oficial del Estado, para lo cual la Secretaría de Finanzas y Administración, implementará los cambios, procesos y definiciones de carácter normativo, técnico y administrativo necesarios para tales efectos.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2017, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 81 QUE APRUEBA LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2017”].
+
+PRIMERO. La presente Ley entrará en vigor el día primero de enero del año 2017, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+TERCERO. Continúa vigente el Decreto número 120, publicado en el Periódico Oficial del Estado de fecha 4 de Julio de 1983, en virtud de estar en vigor la coordinación que en materia de Derechos, suscribió el Estado de Hidalgo y la Secretaría de Hacienda y Crédito Público, quedando sin efecto el cobro de derechos establecidos en el mismo, salvo aquellos que han sido liberados, de acuerdo a lo establecido en la Ley de Coordinación Fiscal Federal y que se incluirán en las Leyes locales correspondientes.
+
+CUARTO. En caso de que la Ley Orgánica de la Administración Pública del Estado de Hidalgo sea reformada, o bien, cuando se acuerde la desincorporación de una Entidad de la Administración Pública Paraestatal, el Poder Ejecutivo del Estado estará facultado para llevar a cabo el cobro de las contribuciones establecidas en la presente Ley, a través de la dependencia o entidad paraestatal a la que, en razón de la reforma o desincorporación respectiva, se le otorguen las atribuciones que hubieren estado asignadas a otras y que estuvieran vinculadas expresamente con dichas contribuciones.
+
+QUINTO. Las cantidades que se establecen como ingreso por concepto de Participaciones y Aportaciones Federales, estarán sujetas a las variaciones que sufra el Presupuesto de Egresos de la Federación, para el ejercicio fiscal 2017.
+
+SEXTO. Se abroga el Capítulo VII de la Ley de Hacienda del Estado de Hidalgo, que regula el Impuesto Adicional para la Construcción de Carreteras, Sostenimiento de la Asistencia Pública y del Hospital del Niño DIF del Estado, mismo que establece una tasa del 30% que se aplica a los pagos por concepto de impuestos y derechos establecidos en las leyes fiscales del Estado, y en consecuencia, deberá integrarse dicho porcentaje, a todos los impuestos y derechos regulados en la Ley de Hacienda para el Estado de Hidalgo y en la Ley Estatal de Derechos. Las obligaciones y los derechos derivados del Impuesto Adicional para la Construcción de Carreteras, Sostenimiento de la Asistencia Pública y del Hospital del Niño DIF del Estado que se abroga conforme al punto OCTAVO de este Decreto, que hubieran nacido durante su vigencia, por la realización de las situaciones jurídicas o de hecho previstas en dicho Impuesto, deberán cumplirse conforme a los montos, formas y plazos establecidos en el citado Capítulo VII de la Ley de Hacienda del Estado de Hidalgo y en las demás disposiciones aplicables en materia del Impuesto que se abroga.
+
+SÉPTIMO. Dada la implementación de la Unidad de Medida Actualizada (UMA), como unidad de cuenta, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las diversas leyes federales y estatales, y a efecto de proteger la economía de los hidalguenses, en un entorno económico complicado, que pudiera detonar un aumento considerable en el valor de la UMA, con el consiguiente impacto en el monto de las tasas por concepto de derechos e impuestos locales, se determina que el porcentaje para efectos de incremento de tasas en los impuestos y derechos locales, será hasta un máximo del 6%, independientemente de que el valor de la UMA rebase este porcentaje.
+
+OCTAVO. Se autoriza al Ejecutivo del Estado a emitir reglas de carácter general sobre las cuotas y tarifas del servicio de agua potable, Impuestos sobre Nóminas, Tenencia y Uso de Vehículos, y en general sobre las contribuciones reguladas en la legislación fiscal estatal, considerando en todo momento el interés de la colectividad.
+
+NOVENO. Los beneficios fiscales y facilidades administrativas otorgados a través de este ordenamiento, no darán derecho a compensación o devolución alguna.
