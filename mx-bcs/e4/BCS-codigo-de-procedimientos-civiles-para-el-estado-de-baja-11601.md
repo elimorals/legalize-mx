@@ -4,7 +4,7 @@ identifier: "BCS-codigo-de-procedimientos-civiles-para-el-estado-de-baja-11601"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-05-23"
-last_updated: "2016-10-31"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Código publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 23 de mayo de 1997.
 
@@ -4245,9 +4245,13 @@ Si sólo alguno de los bienes ejecutados fuere objeto de la tercería, los proce
 
 Si la tercería, cualquiera que sea, se interpone ante un Juez de Paz y el interés de ella excede del que la ley somete a su jurisdicción, aquél ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al Juez competente en turno. El juez designado correrá traslado de la demanda y decidirá la tercería, sujetándose en la substanciación a lo prevenido en los artículos anteriores.
 
-## TITULO DECIMO PRIMERO. Divorcio por mutuo consentimiento
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO UNICO
+## TITULO DECIMO PRIMERO. Del divorcio
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO I. Divorcio Vincular o de Mutuo Consentimiento
 
 ###### Artículo 657.
 
@@ -4297,23 +4301,75 @@ La sentencia que decrete el divorcio por mutuo consentimiento, es apelable en el
 
 Ejecutoriada la sentencia de divorcio, el Tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al de el lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados para los efectos de los artículos 118, 121 y 321 del Código Civil.
 
-Divorcio voluntario en la vía administrativa
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO II. Del Divorcio Voluntario en Vía Administrativa
 
 > <small>(REFORMADO, B.O. 31 DE JULIO DE 2012)</small>
-
-### CAPITULO I. De la revocación y apelación
 
 ###### Artículo 666.
 
 El divorcio voluntario en la vía administrativa se tramitará ante el Oficial del Registro Civil del domicilio de los divorciantes, conforme lo establecen los artículos 277, 278 y 279 del Código Civil.
 
-### CAPITULO II. De la apelación extraordinaria
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO III. De la queja
+### CAPITULO III. Del divorcio vincular por causas objetivas
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Artículo 666 A. La separación de los cónyuges por más de dos años y la declaración de ausencia, sólo legitiman el divorcio vincular, pudiendo notificarse al demandado por medio de edictos cuando se ignore su domicilio, procediendo en los términos previsto para el juicio ordinario.
+
+Cuando la separación de cuerpos se haya prolongado por más de dos años, cualquiera de ellos puede solicitar su conversión a divorcio vincular, por vía incidental en el juicio original, en el que será oída la otra parte, en una audiencia de pruebas, alegatos y resolución, que deberá celebrarse dentro de los cinco días siguientes a la notificación de la demanda.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+### CAPITULO IV. Del Divorcio Unilateral Sin Causa
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Artículo 666 B. Cuando el divorcio se solicite por uno de los cónyuges, sin expresión de causa, deberá exhibir el acta de matrimonio para demostrar que han transcurrido más de dos años de celebrado el vínculo, así como la propuesta de convenio y el acuerdo de liquidación como requisitos indispensables para la admisión de la demanda, así como las actas de nacimiento de los hijos si los hubiere.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Artículo 666 C. Con copia del escrito original y los documentos que anexe la actora, se correrá traslado al otro cónyuge para que admita o se oponga al divorcio, alegando que no se ha cumplido el plazo o que procede el divorcio por las causas basadas en la enfermedad o en razones objetivas.
+
+Al admitirse la demanda de divorcio se dictarán provisionalmente y mientras dure el juicio las siguientes medidas:
+
+I.- Separar a los cónyuges en todo caso. En el auto respectivo, el juez ordenará al marido que se separe del domicilio conyugal llevando su ropa, objetos personales y los bienes muebles que sean necesarios para el ejercicio de su profesión, arte u oficio.
+
+Sólo a solicitud de la mujer se podrá ordenar su separación del domicilio conyugal o el depósito, en su caso. En este último supuesto, el juez ordenará que se le entreguen los mismos objetos previstos para el marido;
+
+II.- Prevenir a ambos cónyuges para que no se molesten ni causen daño;
+
+III.- Dictar las medidas necesarias para que éstos no afecten su respectivos bienes o los de la sociedad conyugal, en su caso;
+
+IV.- Fijar las reglas para el cuidado de los hijos, tomando en cuenta que los menores de siete años quedarán al cuidado de la madre, salvo que se ponga en peligro su salud física o mental;
+
+V.- Señalar y asegurar los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos, y
+
+VI.- Dictar las medidas precautorias que la ley establece cuando la mujer quede encinta.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Artículo 666 D. La instancia concluirá sin sentencia:
+
+I.- Si hubiere inactividad total de las partes en el proceso por más de seis meses, y
+
+II.- Si se demuestra la reconciliación de los cónyuges en cualquier estado del juicio, mientras no se hubiese dictado sentencia ejecutoria.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Artículo 666 E. Ejecutoriado el divorcio, el juez remitirá copia al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y anote la disolución del vínculo.
+
+La sentencia de divorcio será notificada a los cónyuges en la forma prevista por este Código.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Artículo 666 F. La Sentencia definitiva en el juicio de divorcio sin causa, es apelable en el efecto suspensivo, pero podrá ejecutarse por lo que se refiere a pensión alimenticia. Durante el trámite de la apelación, continuarán vigentes las medidas provisionales decretadas por el juez
 
 ## TITULO DECIMO SEGUNDO. De los recursos
 
-### CAPITULO IV. Recurso de responsabilidad
+### CAPITULO I. De la revocación y apelación
 
 ###### Artículo 667.
 
@@ -4479,7 +4535,7 @@ En estas apelaciones los términos a que se refiere el artículo 687 se reducir�
 
 La revisión de las sentencias recaídas en los juicios sobre nulidad, rectificación o modificación, y reposición de actas del estado civil; sobre nulidad de matrimonio por las causas expresadas en los artículos 244, 245 y 249 a 252 del Código Civil, y de las resoluciones que ordenen el registro de nacimiento, abre de oficio la segunda instancia, con intervención del Ministerio Público y aunque las partes no expresaren agravios ni promovieren pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando entretanto sin ejecutarse ésta.
 
-### CAPITULO I. Reglas generales
+### CAPITULO II. De la apelación extraordinaria
 
 ###### Artículo 698.
 
@@ -4515,7 +4571,7 @@ Cuando el progenitor que ejerza la patria potestad, el tutor o el menor en su ca
 
 El actor o el demandado capaces que estuvieron legítimamente representados en la demanda y contestación, y que dejaron de estarlo después, no podrán intentar esta apelación.
 
-### CAPITULO II. De la rectificación y graduación de créditos
+### CAPITULO III. De la queja
 
 ###### Artículo 704.
 
@@ -4553,7 +4609,7 @@ Si la queja no está apoyada por hecho cierto o no estuviere fundada en derecho 
 
 El recurso de queja contra los jueces sólo procede en las causas apelables, a no ser que se intente para calificar el grado en la denegación de apelación.
 
-### CAPITULO III. De la administración del concurso
+### CAPITULO IV. Recurso de responsabilidad
 
 ###### Artículo 709.
 
@@ -4605,7 +4661,7 @@ En ningún caso la sentencia pronunciada en el juicio de responsabilidad civil a
 
 ## TITULO DECIMO TERCERO. De los concursos
 
-### CAPITULO IV. Del deudor común
+### CAPITULO I. Reglas generales
 
 ###### Artículo 719.
 
@@ -4655,7 +4711,7 @@ En este caso y en el previsto en el artículo anterior, la revocación se tramit
 
 El concursado en el caso de concurso forzoso deberá presentar al juzgado, dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo con nombres y domicilios de acreedores y deudores, privilegiados y avalistas; si no lo presentare lo hará el síndico.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO II. De la rectificación y graduación de créditos
 
 ###### Artículo 725.
 
@@ -4743,7 +4799,7 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Cuando al hacerse una cesión de bienes sólo hubiese acreedores hipotecarios, se observarán las disposiciones contenidas en el título primero, tercera parte del libro cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo quien litigará en representación de los demás acreedores, y se observará lo dispuesto en los artículos precedentes.
 
-### CAPITULO II. De las testamentarias
+### CAPITULO III. De la administración del concurso
 
 ###### Artículo 741.
 
@@ -4783,7 +4839,7 @@ El síndico será removido de plano si dejare de rendir la cuenta mensual o deja
 
 Será removido por los trámites establecidos para los incidentes por mal desempeño de su cargo o por comprobarse alguno de los impedimentos a que se refiere el artículo 743.
 
-### CAPITULO III. De los intestados
+### CAPITULO IV. Del deudor común
 
 ###### Artículo 748.
 
@@ -4801,7 +4857,7 @@ Si en el curso del juicio se hace constar que los bienes son inferiores a los cr
 
 ## TITULO DECIMO CUARTO. Juicios sucesorios
 
-### CAPITULO IV. Del inventario y avalúo
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 750.
 
@@ -5015,7 +5071,7 @@ VI. Lo relativo a la aplicación de los bienes.
 
 Si durante la tramitación de un intestado apareciere el testamento, se sobreseerá aquél para abrir el juicio de testamentaría, a no ser que las disposiciones testamentarias se refieran sólo a una parte de los bienes hereditarios. En este caso, se acumularán los juicios bajo la representación del ejecutor testamentario y la liquidación y partición serán siempre comunes; los inventarios lo serán también cuando los juicios se acumularen antes de su formación.
 
-### CAPITULO V. De la administración
+### CAPITULO II. De las testamentarias
 
 ###### Artículo 771.
 
@@ -5061,7 +5117,7 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 En la junta prevenida por el artículo 771 de este ordenamiento podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 1633 del Código Civil, y se nombrará precisamente en los casos previstos por el artículo 1636 del mismo código.
 
-### CAPITULO VI. De la liquidación y partición de la herencia
+### CAPITULO III. De los intestados
 
 ###### Artículo 780.
 
@@ -5149,7 +5205,7 @@ Al albacea se le entregarán los bienes sucesorios, así como los libros y papel
 
 Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos o no fuere reconocido con derechos a ella ninguno de los pretendientes, se tendrá como heredera a la Beneficencia Pública.
 
-### CAPITULO VII. De la transmisión hereditaria del patrimonio familiar
+### CAPITULO IV. Del inventario y avalúo
 
 ###### Artículo 797.
 
@@ -5229,7 +5285,7 @@ La remoción a que se refiere el último precepto será de plano.
 
 Los gastos de inventario y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
-### CAPITULO VIII. De la tramitación por notarios
+### CAPITULO V. De la administración
 
 ###### Artículo 813.
 
@@ -5335,7 +5391,7 @@ El auto que apruebe o repruebe la cuenta es apelable en el efecto devolutivo.
 
 Concluido y aprobado el inventario, el albacea procederá a la liquidación de la herencia.
 
-### CAPITULO IX. Del testamento público cerrado
+### CAPITULO VI. De la liquidación y partición de la herencia
 
 ###### Artículo 835.
 
@@ -5463,7 +5519,7 @@ VI. La firma de todos los interesados.
 
 La sentencia que apruebe o repruebe la partición es apelable en ambos efectos cuando el monto del caudal exceda de quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-### CAPITULO X. Declaración de ser formal el testamento ológrafo
+### CAPITULO VII. De la transmisión hereditaria del patrimonio familiar
 
 ###### Artículo 852.
 
@@ -5483,7 +5539,7 @@ V. El acta o actas en que consten las adjudicaciones pueden servir de título a 
 
 VI. La transmisión de los bienes del patrimonio familiar está exenta de contribuciones, cualquiera que sea su naturaleza.
 
-### CAPITULO XI. Declaración de ser formal el testamento privado
+### CAPITULO VIII. De la tramitación por notarios
 
 ###### Artículo 853.
 
@@ -5515,7 +5571,7 @@ Cuando todos los herederos fueren mayores de edad y hubieren sido reconocidos ju
 
 El testamento público simplificado se tramitará ante notario público conforme lo establece el artículo 1460 del Código Civil y en caso de existir oposición dentro del trámite, el notario público suspenderá su intervención y enviará testimonio de las actas que hubiere levantado al juzgado competente.
 
-### CAPITULO XII. Del testamento militar
+### CAPITULO IX. Del testamento público cerrado
 
 ###### Artículo 859.
 
@@ -5535,7 +5591,7 @@ Será preferida para la protocolización de todo testamento público cerrado, la
 
 Si se presentaren dos o más testamentos públicos cerrados de una misma persona, sean de la misma fecha o de diversas, el juez procederá respecto a cada uno de ellos como se previene en este capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar en los casos previstos por los artículos 1399 y 1401 del Código Civil.
 
-### CAPITULO XIII. Del testamento marítimo
+### CAPITULO X. Declaración de ser formal el testamento ológrafo
 
 ###### Artículo 863.
 
@@ -5549,7 +5605,7 @@ Recibido el pliego, procederá el tribunal como se dispone en los artículos 147
 
 Si para la debida identificación fuere necesario reconocer la firma, por no existir los testigos de identificación que hubieren intervenido, o por no estimarse bastante sus declaraciones, el tribunal nombrará un perito para que confronte la firma con las indubitadas que existan del testador, y teniendo en cuenta su dictamen hará la declaración que corresponda.
 
-### CAPITULO XIV. Del testamento hecho en país extranjero
+### CAPITULO XI. Declaración de ser formal el testamento privado
 
 ###### Artículo 866.
 
@@ -5577,7 +5633,7 @@ Recibidas las declaraciones, el tribunal procederá conforme al artículo 1492 d
 
 De la resolución que niegue la declaración solicitada pueden apelar el promovente y cualquiera de las personas interesadas en la disposición testamentaria; de la que acuerde la declaración, puede apelar el Ministerio Público.
 
-### CAPITULO I. Disposiciones generales
+### CAPITULO XII. Del testamento militar
 
 ###### Artículo 870.
 
@@ -5589,13 +5645,13 @@ De la declaración judicial se remitirá copia autorizada al Secretario de la De
 
 En lo demás, se observará lo dispuesto en el capítulo que antecede.
 
-### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
+### CAPITULO XIII. Del testamento marítimo
 
 ###### Artículo 872.
 
 Hechas las publicaciones que ordena el Código Civil de aplicación federal, podrán los interesados ocurrir al tribunal competente para que pida de la Secretaría de Relaciones Exteriores la remisión del testamento o directamente a ésta para que lo envíe.
 
-### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
+### CAPITULO XIV. Del testamento hecho en país extranjero
 
 ###### Artículo 873.
 
@@ -5607,9 +5663,7 @@ Ante el tribunal competente se procederá con respecto al testamento público ce
 
 ## TITULO DECIMO QUINTO. De la jurisdicción voluntaria
 
-### CAPITULO IV. De la adopción
-
-Adopción simple
+### CAPITULO I. Disposiciones generales
 
 ###### Artículo 875.
 
@@ -5663,7 +5717,7 @@ Toda cuestión que surja en los negocios a que se refieren los capítulos siguie
 
 En los negocios de menores e incapacitados intervendrán el juez de lo familiar y los demás funcionarios que determine el Código Civil.
 
-### CAPITULO V. De las informaciones ad perpetuam
+### CAPITULO II. Del nombramiento de tutores y curadores y discernimiento de estos cargos
 
 ###### Artículo 884.
 
@@ -5799,7 +5853,7 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo, frau
 
 Los tutores y curadores no pueden ser removidos ni excusarse sino a través del incidente contradictorio respectivo.
 
-### CAPITULO VI. Apeo y deslinde
+### CAPITULO III. De la enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
 
 ###### Artículo 897.
 
@@ -5857,7 +5911,9 @@ Para recibir dinero prestado en nombre del menor o incapacitado necesita el tuto
 
 Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenación de los bienes de ausentes, así como a la transacción y arrendamiento por más de cinco años de bienes de ausentes, menores e incapacitados.
 
-### CAPITULO VII. Disposiciones relativas a otros actos de jurisdicción voluntaria
+### CAPITULO IV. De la adopción
+
+Adopción simple
 
 ###### Artículo 905.
 
@@ -5919,7 +5975,7 @@ El juez debe solicitar dentro de los tres días siguientes a la radicación del 
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 2010)
 
-### CAPITULO UNICO
+### CAPITULO V. De las informaciones ad perpetuam
 
 ###### Artículo 914.
 
@@ -5950,6 +6006,8 @@ Las informaciones se protocolizarán por el notario público que designe el prom
 ###### Artículo 917.
 
 En ningún caso se admitirán en jurisdicción voluntaria informaciones de testigos sobre hechos que fueren materia de un juicio comenzado; las que se recibieren con infracción de este artículo no tendrán ningún valor.
+
+### CAPITULO VI. Apeo y deslinde
 
 ###### Artículo 918.
 
@@ -6007,6 +6065,8 @@ Los puntos respecto a los cuales hubiere oposición, no quedarán deslindados ni
 
 Los gastos generales del apeo y deslinde se harán por el que lo promueva. Los que importen la intervención de los peritos que designen y de los testigos que presenten los colindantes serán pagados por el que nombre a los unos y presente a los otros.
 
+### CAPITULO VII. Disposiciones relativas a otros actos de jurisdicción voluntaria
+
 ###### Artículo 924.
 
 Se tramitará en la forma de incidente que habrá de seguirse con el Ministerio Público en todo caso:
@@ -6040,6 +6100,8 @@ V. En el caso de que el juez conceda la inscripción del registro de nacimiento,
 VI. De confirmarse en su caso, por el Tribunal Superior de Justicia la resolución que conceda la inscripción del registro de nacimiento, el juez enviará copia certificada de ésta al Oficial del Registro Civil que corresponda para que levante el acta respectiva.
 
 ## TITULO DECIMO SEXTO. De las controversias del orden familiar
+
+### CAPITULO UNICO
 
 ###### Artículo 927.
 
@@ -6522,3 +6584,11 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2415 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y CÓDIGO DE PROCEDIMIENTOS CIVILES, AMBOS PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
