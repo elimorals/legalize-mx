@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-familiares-para-el-estado-de-55054"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-04-09"
-last_updated: "2011-03-31"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55054&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO DE PROCEDIMIENTOS FAMILIARES PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 2011.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -257,7 +257,7 @@ II.- En los procedimientos no contenciosos, el del domicilio del que promueve;
 
 III.- Para la designación de tutor, rendición y aprobación de cuentas de éste y en los demás casos, el del domicilio del menor o incapacitado;
 
-IV.- En los negocios relativos a suplir el consentimiento de quien ejerce la patria potestad o impedimentos para contraer matrimonio, el del lugar donde se hayan presentado los pretendientes;
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 V.- En los procesos relativos a la acción de pago de pensión alimenticia, es competente el juez del domicilio del acreedor alimentista;
 
@@ -339,13 +339,11 @@ El juez de oficio o a petición de parte, puede declararse incompetente, fundand
 
 No podrán emplearse ni simultánea ni sucesivamente los dos medios señalados en este código para promover una competencia, tendrá que optarse por uno u otro.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO</small>
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016
 
 ###### Artículo 36.
 
-La promoción de una competencia que resulte improcedente origina que se imponga a la promovente una multa por el equivalente de cinco a diez días del salario mínimo vigente en la región, la cual será aplicada a favor del Poder Judicial del Estado.
+La promoción de una competencia que resulte improcedente origina que se imponga a la promovente una multa por el equivalente de cinco a diez veces la Unidad de Medida y Actualización vigente, la cual será aplicada a favor del Poder Judicial del Estado.
 
 ## TITULO SEGUNDO. DE LAS ACTUACIONES JUDICIALES
 
@@ -399,7 +397,9 @@ I.- Apercibimiento;
 
 II.- Amonestación; y
 
-III.- Multa de hasta veinte días de salario mínimo vigente.
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016
+
+III.- Multa de hasta veinte veces la Unidad de Medida y Actualización vigente.
 
 Pueden también emplear el uso de la fuerza pública o decretar arresto hasta por 36 horas.
 
@@ -425,9 +425,11 @@ Las copias simples de los documentos que se presenten, confrontadas y autorizada
 
 Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el Tribunal.
 
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016
+
 ###### Artículo 48.
 
-El secretario o el encargado de la oficialía de partes harán constar el día y la hora en que se presente un escrito. Recibido por el Secretario, dará cuenta con él, a más tardar dentro de veinticuatro horas bajo la pena de hasta tres días de salario mínimo de multa, sin perjuicio de las demás que merezca conforme a las Leyes.
+El secretario o el encargado de la oficialía de partes harán constar el día y la hora en que se presente un escrito. Recibido por el secretario, dará cuenta con él, a más tardar dentro de veinticuatro horas bajo la pena de hasta tres veces la Unidad de Medida y Actualización vigente, sin perjuicio de las demás que merezca conforme a las Leyes.
 
 ###### Artículo 49.
 
@@ -467,7 +469,9 @@ Al desechar las promociones o solicitudes, incluyendo lo (sic) recursos e incide
 
 Los jueces, para hacer cumplir sus determinaciones, pueden emplear cualesquiera de los siguientes medios de apremio que juzguen eficaces:
 
-I.- La multa de hasta diez días de salario mínimo vigente, que se duplicará en caso de reiteración;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016
+
+I.- La multa de hasta diez veces la Unidad de Medida y Actualización vigente, que se duplicará en caso de reiteración;
 
 II.- El auxilio de la fuerza pública;
 
@@ -603,9 +607,11 @@ A solicitud expresa de cualquiera de las partes y a su costa, las salas del trib
 
 ### CAPITULO IV. DE LAS NOTIFICACIONES
 
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016
+
 ###### Artículo 76.
 
-Las notificaciones, citaciones y emplazamientos se efectuarán lo más tarde al tercer día de que se dicten las resoluciones que las prevengan. Se impondrá de plano a los infractores de este Artículo, una multa de un día de salario mínimo vigente. En caso de reincidencia, la multa será hasta de cinco días estando obligado el juez a comunicarlo al Consejo de la Judicatura.
+Las notificaciones, citaciones y emplazamientos se efectuarán lo más tarde al tercer día de que se dicten las resoluciones que las prevengan. Se impondrá de plano a los infractores de este Artículo, una multa de una vez la Unidad de Medida y Actualización vigente. En caso de reincidencia, la multa será hasta de cinco veces la Unidad de Medida y Actualización vigente, estando obligado el juez a comunicarlo al Consejo de la Judicatura.
 
 ###### Artículo 77.
 
@@ -659,7 +665,9 @@ Si después de que el actuario se hubiere cerciorado de que la persona por empla
 
 Cuando no se conociere el lugar en que la persona que debe notificarse tenga el principal asiento de sus negocios y en su domicilio no se pudiere hacer la notificación, conforme al Artículo anterior, se podrá hacer en el lugar en donde se encuentre.
 
-En este caso, las notificaciones se firmarán por el actuario y por la persona a quien se hiciere. Si ésta no supiere hacerlo o no pudiere firmar, lo hará a su ruego un testigo o dejará huellas digitales. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el actuario. Estos testigos no podrán negarse a hacerlo bajo multa de uno a tres días de salario mínimo vigente en la región.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016
+
+En este caso, las notificaciones se firmarán por el actuario y por la persona a quien se hiciere. Si ésta no supiere hacerlo o no pudiere firmar, lo hará a su ruego un testigo o dejará huellas digitales. Si no quisiere firmar o presentar testigo que lo haga por ella, firmarán dos testigos requeridos al efecto por el actuario. Estos testigos no podrán negarse a hacerlo bajo multa de uno a tres veces la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 85.
 
@@ -1297,9 +1305,11 @@ IV.- Cuando el que fue nombrado y aceptó el cargo lo renunciare después.
 
 El juez señalará lugar, día y hora, para la práctica de la diligencia en caso que deba presidirla. Las partes podrán formular a los peritos las preguntas que consideren pertinentes. En cualquier otro caso, se dará a los peritos un término prudente para que rindan su dictamen.
 
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016
+
 ###### Artículo 179.
 
-Si los peritos dejaren de asistir sin justa causa a la diligencia, se harán acreedores a una multa de uno a diez días de salario mínimo vigente, siendo responsables de los daños causados a las partes por su culpa.
+Si los peritos dejaren de asistir sin justa causa a la diligencia, se harán acreedores a una multa de uno a diez veces la Unidad de Medida y Actualización vigente, siendo responsables de los daños causados a las partes por su culpa.
 
 ###### Artículo 180.
 
@@ -1317,9 +1327,11 @@ III.- Ser socio, inquilino o arrendador o amigo o íntimo de alguna de las parte
 
 El juez calificará de plano la recusación, debiendo presentar las partes sus pruebas al hacerla valer. Contra el auto en que se admita o deseche la recusación, no procede recurso alguno. Si ésta se declara procedente, se nombrará un nuevo perito.
 
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016
+
 ###### Artículo 182.
 
-Si la recusación es improcedente, se impondrá al recusante una multa de uno a diez días de salario mínimo vigente.
+Si la recusación es improcedente, se impondrá al recusante una multa de uno a diez veces la Unidad de Medida y Actualización vigente.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -1401,9 +1413,11 @@ Necesariamente cuando el testigo resida fuera del lugar del juicio, deberá el p
 
 Pudiendo en su caso en el auto de admisión de pruebas decretar que el exhorto sea entregado personalmente al oferente de la prueba, con la obligación de devolverlo debidamente diligenciado dentro del plazo de desahogo de pruebas; en caso de incumplimiento a lo anterior, será declarada desierta esta prueba.
 
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016
+
 ###### Artículo 195.
 
-Cuando el oferente de la prueba testimonial designe como testigos personas inexistentes o proporcione domicilios falsos, se sancionará con una multa de cinco a veinte días de salario mínimo vigente.
+Cuando el oferente de la prueba testimonial designe como testigos personas inexistentes o proporcione domicilios falsos, se sancionará con una multa de cinco a veinte veces la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 196.
 
@@ -1677,7 +1691,7 @@ II.- Las autorizaciones necesarias para contratar entre sí los cónyuges en los
 
 III.- Tramitación de pensión alimenticia, y
 
-IV.- La solicitud de autorización de menores para contraer matrimonio.
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 ###### Artículo 239.
 
@@ -1875,7 +1889,9 @@ Hay cosa juzgada, cuando la sentencia ha causado ejecutoria.
 
 Causan ejecutoria por Ministerio de Ley:
 
-I.- Las sentencias pronunciadas en juicio cuyo interés no pase del importe de treinta días de salario mínimo vigente;
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016
+
+I.- Las sentencias pronunciadas en juicio cuyo interés no pase del importe de treinta veces la Unidad de Medida y Actualización vigente;
 
 II.- Las sentencias de segunda instancia;
 
@@ -2499,9 +2515,11 @@ Todos los recursos o impugnaciones de la misma naturaleza hechos valer por separ
 
 Cuando un recurso sea declarado inadmisible o improcedente, no puede interponerse nuevamente, aunque no haya vencido el término establecido por la Ley.
 
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016
+
 ###### Artículo 369.
 
-Si se hicieren valer varios recursos simultáneamente, sólo se admitirá el recurso que proceda, y se impondrá multa de uno a diez días de salario mínimo al que lo hiciere.
+Si se hicieren valer varios recursos simultáneamente, sólo se admitirá el recurso que proceda, y se impondrá multa de uno a diez veces la Unidad de Medida y Actualización vigente al que lo hiciere.
 
 ###### Artículo 370.
 
@@ -2627,17 +2645,21 @@ Tratándose de apelaciones contra cualquier clase de resoluciones, excepto la re
 
 La apelación admitida en ambos efectos, suspende desde luego la ejecución de la sentencia, hasta que cause ejecutoria.
 
-Y si a solicitud de alguno de los interesados pretende la ejecución de aquella, se dejará en el juzgado para ejecutarla, copia certificada de ella y de las demás constancias que el juez estime necesarias, remitiéndose desde luego los autos originales al Tribunal Superior de Justicia. Debiendo exhibir previamente una fianza dentro del término de seis días para que surta efectos la suspensión, cuyo monto se fijará atendiendo a la importancia del asunto y no podrá ser inferior al equivalente a sesenta días de salario mínimo general vigente en el Estado. Así mismo podrá la parte contraria exhibir contrafianza para la no ejecución.
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+Y si a solicitud de alguno de los interesados pretende la ejecución de aquella, se dejará en el juzgado para ejecutarla, copia certificada de ella y de las demás constancias que el juez estime necesarias, remitiéndose desde luego los autos originales al Tribunal Superior de Justicia. Debiendo exhibir previamente una fianza dentro del término de seis días para que surta efectos la suspensión, cuyo monto se fijará atendiendo a la importancia del asunto y no podrá ser inferior al equivalente a sesenta veces la Unidad de Medida y Actualización vigente. Así mismo podrá la parte contraria exhibir contrafianza para la no ejecución.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016
 
 ###### Artículo 393.
 
-En caso de que el Juez señale una garantía que se estime excesiva, se puede ocurrir en queja ante el mismo Juez dentro del término de tres días, acompañando a su recurso el equivalente a la garantía mínima de sesenta días de salario mínimo general vigente en el Estado. El Juez remitirá al Superior la queja planteada junto con su informe justificado para que se resuelva dentro de igual término.
+En caso de que el Juez señale una garantía que se estime excesiva, se puede ocurrir en queja ante el mismo Juez dentro del término de tres días, acompañando a su recurso el equivalente a la garantía mínima de sesenta veces la Unidad de Medida y Actualización vigente. El Juez remitirá al Superior la queja planteada junto con su informe justificado para que se resuelva dentro de igual término.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Declarada fundada la queja, el superior señalará el monto de la garantía que deberá exhibir el recurrente ante el Juez, dentro de seis días, para los efectos de la ejecución solicitada.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
 Si la queja se declara infundada, el quejoso exhibirá ante el Juez el faltante del monto fijado para la ejecución o no ejecución.
 
@@ -2933,7 +2955,7 @@ IV.- Si durante la tramitación del juicio apareciere, además de la causa o cau
 
 ###### Artículo 436.
 
-En los juicios sobre nulidad de matrimonio, los cónyuges menores de edad necesitan de un tutor para litigar. La demanda será suscrita también con la firma del menor y con la huella dígito pulgar derecha del mismo, quien la ratificará en la presencia judicial.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ###### Artículo 437.
 
@@ -3053,11 +3075,9 @@ Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el
 
 El Juez Familiar al comprobar el parentesco del acreedor alimentista con la parte demandada y alguno de los datos mencionados en el Artículo anterior, fijará una pensión provisional, observando las reglas siguientes:
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
-
-I.- Si los reclamantes son: La esposa, el esposo o los hijos del demandado o demandada, el juez determinará como pensión provisional, atendiendo al principio de proporcionalidad hasta el 50% de los ingresos del demandado; o en su caso una pensión que nunca será menor al equivalente del importe mensual del salario mínimo general o profesional vigente en la Entidad.
+I.- Si los reclamantes son: La esposa, el esposo o los hijos del demandado o demandada, el juez determinará como pensión provisional, atendiendo al principio de proporcionalidad hasta el 50% de los ingresos del demandado; o en su caso una pensión que nunca será menor al equivalente del importe mensual de la Unidad de Medida y Actualización vigente.
 
 II.- Cuando los acreedores alimentistas sean los padres o solamente uno de ellos, se impondrá como pensión alimenticia provisional, hasta el 35% de los ingresos del deudor alimentante; y
 
@@ -3079,9 +3099,11 @@ En caso de que se presenten varios acreedores alimentistas demandando pensión a
 
 Cuando el deudor alimentante no perciba salario pero sea dueño de algún negocio o industria mercantil, el Juez Familiar, fijará una pensión alimenticia proporcional al número de salarios mínimos generales o profesionales vigentes en el estado, según sea el caso, atendiendo al principio de proporcionalidad, con base en las pruebas y datos que se aporten.
 
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016
+
 ###### Artículo 456.
 
-Cuando no sea posible determinar los ingresos del deudor alimentante, se tomará como base de acuerdo a las proporciones establecidas, el importe mensual del salario mínimo vigente en la entidad.
+Cuando no sea posible determinar los ingresos del deudor alimentante, se tomará como base de acuerdo a las proporciones establecidas, el importe equivalente mensual de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 457.
 
@@ -3111,13 +3133,11 @@ A toda persona, a quien, por su encargo corresponda proporcionar informes sobre 
 
 La pensión alimenticia provisional podrá ser modificada durante el juicio, con base a las pruebas aportadas por las partes o los informes del Consejo de Familia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016
 
 ###### Artículo 462.
 
-El Juez podrá, en la sentencia definitiva, fijar cualquier porcentaje del ingreso del deudor alimentario o condenarlo al número de salarios mínimos generales o profesionales vigentes en el estado, según sea el caso y, siempre atendiendo al principio de proporcionalidad.
+El Juez podrá, en la sentencia definitiva, fijar cualquier porcentaje del ingreso del deudor alimentario o condenarlo al número equivalente de la Unidad de Medida y Actualización vigente, según sea el caso y, siempre atendiendo al principio de proporcionalidad.
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
 
@@ -3313,15 +3333,17 @@ IV.- Para el caso de los mayores incapaces, sujetos a la guarda y custodia de al
 
 V.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés superior de los hijos menores de edad.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2011)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016
 
 ###### Artículo 476 Bis.
 
-Independientemente del régimen por el cual contrajeron matrimonio o concubinato declarado Judicialmente, se tendrá derecho a recibir del otro cónyuge una compensación por la cantidad que resulte de multiplicar el salario mínimo general diario vigente en el Estado de Hidalgo, integrado a razón de 4 cuatro meses por año, considerándose a partir de la fecha de celebración del matrimonio hasta la terminación del juicio de divorcio por medio de sentencia ejecutoriada, si se está en los siguientes supuestos:
+Independientemente del régimen por el cual contrajeron matrimonio o concubinato declarado Judicialmente, se tendrá derecho a recibir del otro cónyuge una compensación por la cantidad que resulte de multiplicar la Unidad de Medida y Actualización vigente integrado a razón de 4 cuatro meses por año, considerándose a partir de la fecha de celebración del matrimonio hasta la terminación del juicio de divorcio por medio de sentencia ejecutoriada, si se está en los siguientes supuestos:
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
 I.- Que se haya responsabilizado preponderantemente del desempeño del trabajo del hogar y al cuidado y crianza de los hijos, en caso de haberlos, y además.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
 II.- Que no tenga algún bien inmueble, o teniéndolo, se encuentre gravado por alguna Institución paraestatal de vivienda, adquirido durante la vigencia del matrimonio, exceptuándose lo adquirido conforme a lo dispuesto por los Artículos 67, 68, 69 y 70 de la Ley para la Familia del Estado.
 
@@ -4106,3 +4128,21 @@ Artículo Primero.- El presente Decreto entrará en vigor a los sesenta días de
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 Artículo Tercero.- Las controversias del orden familiar que están tramitándose antes de la iniciación de vigencia de este Decreto, se resolverán conforme a las disposiciones vigentes en su momento.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA Y DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES, AMBOS DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los matrimonios y uniones celebrados por y entre menores de edad, previos a la publicación del presente Decreto, tendrán validez plena con todos los derechos y obligaciones adquiridos a partir de la celebración o unión.
