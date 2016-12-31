@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-auditoria-superior-del-estado-de-hidalgo-70418"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-28"
-last_updated: "2013-04-29"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE LA AUDITORIA SUPERIOR DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE JULIO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 28 de septiembre de 2009.
 
@@ -265,7 +267,9 @@ Los servidores públicos y las personas físicas o morales, públicas o privadas
 
 Cuando esta Ley no prevea plazo, la Auditoría Superior del Estado de Hidalgo podrá fijarlo y no será mayor a 5 días hábiles contados a partir del día siguiente a la fecha de recibo del requerimiento respectivo; si derivado de la complejidad del requerimiento de información, se requiera un plazo mayor para ser atendido, el Órgano Técnico a propuesta de las entidades fiscalizadas podrá determinar conjuntamente con las mismas los plazos de entrega de información, los cuales serán improrrogables.
 
-Cuando los servidores públicos o los particulares no atiendan los requerimientos a que se refiere este Artículo, salvo que exista disposición legal o mandato judicial que se los impida, se les impondrá una multa de 200 a 1000 días de salario mínimo diario general vigente en la entidad. La reincidencia se sancionará con una multa hasta del doble de la ya impuesta, sin perjuicio de que se deba atender el requerimiento respectivo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando los servidores públicos o los particulares no atiendan los requerimientos a que se refiere este Artículo, salvo que exista disposición legal o mandato judicial que se los impida, se les impondrá una multa de 200 a 1000 veces la Unidad de Medida y Actualización vigente. La reincidencia se sancionará con una multa hasta del doble de la ya impuesta, sin perjuicio de que se deba atender el requerimiento respectivo.
 
 También se aplicarán las multas previstas en este Artículo a los terceros que hubieran contratado obra pública, bienes o servicios mediante cualquier título legal con las entidades fiscalizadas, cuando no entreguen la documentación e información que les requiera la Auditoría Superior del Estado.
 
@@ -333,7 +337,9 @@ IX.- La demás información que describa la situación financiera que guardan la
 
 El Auditor Superior entregará al Congreso a través de la Comisión, los Informes del Resultado de la Revisión a más tardar el último día hábil del mes de febrero del año siguiente al de la presentación de la Cuenta Pública, mismos que tendrán el carácter público y mientras ello no suceda el Órgano Técnico deberá guardar reserva de sus actuaciones e informaciones; hecho lo anterior y dentro de los 10 días hábiles siguientes a la fecha en que se haya entregado el Informe del Resultado de la Revisión, notificará a las Entidades Fiscalizadas el pliego de recomendaciones.
 
-Las Entidades Fiscalizadas, dentro de un plazo de 30 días hábiles siguientes al de su notificación, deberán precisar ante la Auditoría Superior las mejoras efectuadas, las acciones a realizar o, en su caso, justificar su improcedencia o las razones por las cuales no resulta factible su implementación. En caso de incumplimiento a lo anterior, la Auditoría Superior impondrá a los titulares de las áreas administrativas auditadas, una multa de 200 a 1000 días de salario mínimo general vigente en el Estado, además de promover las acciones legales que correspondan.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Las Entidades Fiscalizadas, dentro de un plazo de 30 días hábiles siguientes al de su notificación, deberán precisar ante la Auditoría Superior las mejoras efectuadas, las acciones a realizar o, en su caso, justificar su improcedencia o las razones por las cuales no resulta factible su implementación. En caso de incumplimiento a lo anterior, la Auditoría Superior impondrá a los titulares de las áreas administrativas auditadas, una multa de 200 a 1000 veces la Unidad de Medida y Actualización vigente, además de promover las acciones legales que correspondan.
 
 Con relación al pliego de observaciones, la Auditoría Superior lo notificará a las Entidades fiscalizadas dentro de los 8 días hábiles siguientes a la fecha en que se haya entregado el Informe del Resultado de la Revisión, para que en un plazo de 30 días hábiles contados a partir del siguiente al que se notifique, presenten la información y documentación suficiente, competente, relevante y pertinente para su solventación.
 
@@ -363,7 +369,9 @@ Las Entidades Fiscalizadas deberán rendir al Órgano Técnico, en un plazo que 
 
 Con base en el informe a que se refiere el párrafo anterior, la Auditoría Superior podrá fincar las responsabilidades que procedan o, en su caso, solicitar a la entidad fiscalizada que profundice en la investigación de la denuncia formulada e informe de los resultados obtenidos.
 
-Si transcurrido el plazo señalado, la entidad fiscalizada, sin causa justificada, no presenta el informe, se procederá a imponer como medida de apremio a los servidores públicos responsables, una multa de 200 a 1000 veces el salario mínimo general vigente en el Estado, sin perjuicio de la promoción de otras responsabilidades ante las autoridades competentes, ni del ejercicio de otras facultades que esta Ley le confiere. Su reincidencia se castigará con una multa hasta del doble de la ya impuesta, además de que el Órgano Técnico podrá promover la destitución de los responsables ante las autoridades competentes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Si transcurrido el plazo señalado, la entidad fiscalizada, sin causa justificada, no presenta el informe, se procederá a imponer como medida de apremio a los servidores públicos responsables, una multa de 200 a 1000 veces la Unidad de Medida y Actualización vigente, sin perjuicio de la promoción de otras responsabilidades ante las autoridades competentes, ni del ejercicio de otras facultades que esta Ley le confiere. Su reincidencia se castigará con una multa hasta del doble de la ya impuesta, además de que el Órgano Técnico podrá promover la destitución de los responsables ante las autoridades competentes.
 
 El fincamiento de responsabilidades y la imposición de sanciones no relevarán al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las mismas.
 
@@ -375,7 +383,9 @@ Para el cumplimiento de las atribuciones que le otorga esta Ley, la Auditoría S
 
 I.- Apercibimiento; y
 
-II.- Multa de 200 a 1000 veces el salario mínimo vigente en la Entidad.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II.- Multa de 200 a 1000 veces la Unidad de Medida y Actualización vigente.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo dispuesto en la Legislación aplicable.
 
@@ -431,9 +441,11 @@ Cuando la Auditoría Superior, además de imponer la sanción respectiva, requie
 
 Las responsabilidades resarcitorias señaladas, se fincarán independientemente de las que procedan con base en otras Leyes y de las sanciones de carácter penal que imponga la Autoridad Judicial.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 33.
 
-En los casos en que la irregularidad no exceda de 100 veces el salario mínimo diario general vigente en la Entidad en la fecha en que se cometa la infracción, se promoverá ante las instancias de control competentes el fincamiento de responsabilidades administrativas sancionatorias.
+En los casos en que la irregularidad no exceda de 100 veces la Unidad de Medida y Actualización vigente, en la fecha en que se cometa la infracción, se promoverá ante las instancias de control competentes el fincamiento de responsabilidades administrativas sancionatorias.
 
 ###### Artículo 34.
 
@@ -499,9 +511,11 @@ El importe de las indemnizaciones y sanciones pecuniarias que se recuperen deber
 
 La Auditoría Superior, solicitará semestralmente a la Secretaría de Finanzas o a las Tesorerías Municipales, información sobre los trámites que se vayan realizando para la ejecución de los cobros respectivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 44.
 
-El Auditor Superior, bajo su más estricta responsabilidad, podrá abstenerse de sancionar al infractor, por una sola vez, justificando plenamente las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de 100 veces el salario mínimo general vigente en el Estado, al momento de cometerse la infracción. Los infractores no podrán recibir este beneficio dos veces.
+El Auditor Superior, bajo su más estricta responsabilidad, podrá abstenerse de sancionar al infractor, por una sola vez, justificando plenamente las causas de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por éste no exceda de 100 veces la Unidad de Medida y Actualización vigente, al momento de cometerse la infracción. Los infractores no podrán recibir este beneficio dos veces.
 
 Cuando el presunto responsable cubra, antes de que se emita la resolución, a satisfacción de la Auditoría Superior, el importe de los daños y perjuicios, o ambos, causados a la Hacienda Pública del Estado o Municipio o, en su caso, al patrimonio de las demás entidades fiscalizadas, con su actualización correspondiente, la Auditoría Superior sobreseerá el procedimiento resarcitorio.
 
@@ -649,9 +663,11 @@ II.- En el mes de mayo de cada año, la de modificación patrimonial, a la que s
 
 III.- Dentro de los 30 días hábiles siguientes a la conclusión del cargo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 60.
 
-En caso de que los servidores públicos de elección popular no presenten la declaración inicial, anual o final en los plazos señalados, se les impondrá una multa por el equivalente a 200 veces el salario mínimo vigente en la capital del Estado, si persiste en su omisión, se dará aviso a la Comisión, a fin de que, con la autorización del Pleno del Congreso, se proceda a iniciar una investigación sobre la situación patrimonial del servidor público omiso.
+En caso de que los servidores públicos de elección popular no presenten la declaración inicial, anual o final en los plazos señalados, se les impondrá una multa por el equivalente a 200 veces la Unidad de Medida y Actualización vigente, si persiste en su omisión, se dará aviso a la Comisión, a fin de que, con la autorización del Pleno del Congreso, se proceda a iniciar una investigación sobre la situación patrimonial del servidor público omiso.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2013)</small>
 
@@ -1117,10 +1133,20 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 29 DE ABRIL DE 2013.
 
 PRIMERO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Por lo que hace a la presentación de la declaración de situación patrimonial de los síndicos y regidores, se estará a lo dispuesto en la Ley de la Auditoría Superior del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
