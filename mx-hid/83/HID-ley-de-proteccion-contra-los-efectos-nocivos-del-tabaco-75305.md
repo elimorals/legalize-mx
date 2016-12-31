@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-contra-los-efectos-nocivos-del-tabaco-75305"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-07"
-last_updated: "2012-07-23"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CONTRA LOS EFECTOS NOCIVOS DEL TABACO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de junio de 2010.
 
@@ -407,13 +407,19 @@ V.- El beneficio obtenido por el infractor como resultado de la conducta.
 
 Para la imposición de las sanciones económicas, se observará lo siguiente:
 
-I.- Multa equivalente de una a cien veces el salario mínimo diario general vigente en el Estado de Hidalgo, a las personas que fumen en lugares o sitios prohibidos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- Multa equivalente de cien a doscientas veces el salario mínimo diario general vigente en el Estado de Hidalgo, a las personas que cometan infracciones consideradas como graves, conforme a lo dispuesto en el Artículo 37 de esta Ley.
+I.- Multa equivalente de una a cien veces de la Unidad de Medida y Actualización vigente.
 
-Si el infractor fuese obrero o jornalero, la multa no será mayor al importe de su jornada o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de sus ingresos. La calidad de obrero o jornalero podrá acreditarse con cualquier documento fehaciente expedido por el patrón o empleado o por alguna institución de seguridad social. Los trabajadores no asalariados podrán demostrar esta calidad, con documento que compruebe el tipo de actividad que realiza de manera preponderante, condición que deberá acreditarse en un plazo de diez días hábiles, contados a partir de que sean hechos sabedores.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-III.- Multa de cien hasta mil veces el salario mínimo diario general vigente en el Estado de Hidalgo, a los propietarios, administradores o responsables en caso de incumplimiento de las disposiciones contenidas en los Artículos 10,12 y 15, de la presente Ley.
+II.- Multa equivalente de cien a doscientas veces de la Unidad de Medida y Actualización vigente, a las personas que cometan infracciones consideradas como graves, conforme a lo dispuesto en el Artículo 37 de esta Ley.
+
+Si el infractor fuese obrero o jornalero, la multa no será mayor al importe del valor diario de la Unidad de Medida y Actualización vigente, y asequible a la capacidad adquisitiva de él. Tomando el mismo criterio para los trabajadores no asalariados. La calidad de obrero o jornalero podrá acreditarse con cualquier documento fehaciente expedido por el patrón o empleado o por alguna institución de seguridad social. Los trabajadores no asalariados podrán demostrar esta calidad, con documento que compruebe el tipo de actividad que realiza de manera preponderante, condición que deberá acreditarse en un plazo de diez días hábiles, contados a partir de que sean hechos sabedores.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III.- Multa de cien hasta mil veces la Unidad de Medida y Actualización vigente, a los propietarios, administradores o responsables en caso de incumplimiento de las disposiciones contenidas en los Artículos 10,12 y 15, de la presente Ley.
 
 ###### Artículo 34.
 
@@ -500,3 +506,13 @@ P.O. 23 DE JULIO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
