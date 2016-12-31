@@ -4,7 +4,7 @@ identifier: "HID-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-8928
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2012-08-27"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -947,19 +947,31 @@ Las violaciones a lo establecido por la presente Ley y demás disposiciones que 
 
 La contravención a las disposiciones de esta Ley serán sancionadas con multas establecidas en la presente Ley, su Reglamento, Escritura Constitutiva y Reglamento Interno que se aplicará de acuerdo con los siguientes criterios:
 
-I.- Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, se aplicará multa por el equivalente de diez a cincuenta días de salario mínimo general vigente en la capital del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos, que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes, o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de cincuenta y uno a cien días de salario mínimo general vigente en la capital del Estado de Hidalgo;
+l.- Por faltas que afecten la tranquilidad o la comodidad de la vida condominal, se aplicará multa por el equivalente de diez a cincuenta veces la Unidad de Medida y Actualización;
 
-III.- Por aquellas faltas que provoquen un daño patrimonial o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el equivalente de cincuenta y uno a cien días de salario mínimo general vigente en la capital del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV.- Por incumplimiento en el pago oportuno de las cuotas ordinarias, extraordinarias, de servicio, de mantenimiento y las correspondientes al fondo de reserva, se aplicará multa que no podrá ser mayor de diez a cien días de salario mínimo general vigente en el Estado por cada incumplimiento;
+II.- Por faltas que afecten el estado físico del inmueble sin que esto signifique poner en riesgo la seguridad de los demás condóminos, que impidan u obstaculicen el uso adecuado de las instalaciones y áreas comunes, o que afecten el funcionamiento del condominio, se aplicará multa por el equivalente de cincuenta y uno a cien veces la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III.- Por aquellas faltas que provoquen un daño patrimonial o pongan en riesgo la seguridad del inmueble o las personas, se aplicará multa por el equivalente de cincuenta y uno a cien veces la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV.- Por incumplimiento en el pago oportuno de las cuotas ordinarias, extraordinarias, de servicio, de mantenimiento y las correspondientes al fondo de reserva, se aplicará multa que no podrá ser mayor de diez a cien veces la Unidad de Medida y Actualización por cada incumplimiento;
 
 V.- Los administradores o comités de vigilancia que a juicio de la asamblea general, no hagan un buen manejo o vigilancia de las cuotas de servicios, mantenimiento, para el fondo de reserva y/o extraordinarias, así como por el abuso de su cargo o incumplimiento de sus funciones, estarán sujetos a las sanciones establecidas en las fracciones I, II, III y IV de este Artículo, aumentando un 50% la sanción que corresponda, independientemente de las responsabilidades o sanciones a que haya lugar, contempladas en otras Leyes. Lo anterior será determinado por la Asamblea;
 
-VI.- Se aplicara multa de cincuenta días de salario mínimo general vigente en el Estado de Hidalgo al Administrador o persona que tenga bajo su custodia el libro de Actas debidamente autorizado y que habiendo sido notificado de la realización de una Asamblea legalmente constituida, no lo presente para el desahogo de la misma; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VII.- Se aplicara multa de cincuenta a trescientos días de salario mínimo general vigente en el Estado de Hidalgo por incumplimiento a lo dispuesto en el Artículo 44 de la presente Ley.
+VI.- Se aplicará multa de cincuenta veces la Unidad de Medida y Actualización al Administrador o persona que tenga bajo su custodia el libro de Actas debidamente autorizado y que habiendo sido notificado de la realización de una Asamblea legalmente constituida, no lo presente para el desahogo de la misma; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VII.- Se aplicará multa de cincuenta a trescientas veces la Unidad de Medida y Actualización por incumplimiento a lo dispuesto en el Artículo 44 de la presente Ley.
 
 En los casos de reincidencia, se aplicará hasta el doble de la sanción originalmente impuesta.
 
@@ -1016,3 +1028,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
