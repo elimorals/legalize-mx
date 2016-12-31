@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-789
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2016-03-28"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 24 de enero de 2011.
 
@@ -1145,11 +1145,17 @@ Para aquellos casos en los que, por primera vez se incumplan con las disposicion
 
 Las sanciones por la violación de las disposiciones de la presente Ley, se aplicarán conforme a lo siguiente:
 
-I.- Multa de 10 a 150 días de salario mínimo vigente en el estado de Hidalgo, contra quien por segunda ocasión realice alguna de las conductas descritas en el Artículo anterior de la presente Ley;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- Multa de 150 a mil días de salario mínimo vigente en el estado de Hidalgo; y
+I. Multa de 10 a 150 veces la Unidad de Medida y Actualización, contra quien por segunda ocasión realice alguna de las conductas descritas en el artículo anterior de la presente Ley;
 
-III.- Arresto administrativo hasta por 36 horas o multa de mil a dos mil 500 días de salario mínimo vigente en el estado de Hidalgo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de 150 a mil veces la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III. Arresto administrativo hasta por 36 horas o multa de mil a dos mil 500 veces la Unidad de Medida y Actualización.
 
 ###### Artículo 103.
 
@@ -1266,3 +1272,13 @@ P.O. 28 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 643 QUE ADICIONA EL INCISO A) A LA FRACCIÓN I DEL ARTÍCULO 6; Y LA FRACCIÓN XVI AL ARTÍCULO 44 DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
