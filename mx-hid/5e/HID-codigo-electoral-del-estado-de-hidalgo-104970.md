@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2015-09-11"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -443,7 +443,9 @@ Los partidos políticos tendrán derecho al financiamiento público de sus activ
 
 I. Para el sostenimiento de actividades ordinarias permanentes:
 
-a. El Consejo General del Instituto Estatal Electoral, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral del Estado de Hidalgo, a la fecha de corte de julio de cada año, por el veinticinco por ciento del salario mínimo diario vigente para la región;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+a. El Consejo General del Instituto Estatal Electoral, determinará anualmente el monto total por distribuir entre los partidos políticos conforme a lo siguiente: multiplicará el número total de ciudadanos inscritos en el padrón electoral del Estado de Hidalgo, a la fecha de corte de julio de cada año, por el veinticinco por ciento de la Unidad de Medida y Actualización;
 
 b. El resultado de la operación señalada en el inciso anterior constituye el financiamiento público anual a los partidos políticos por sus actividades ordinarias permanentes, el 30% se distribuirá entre los partidos políticos en forma igualitaria y el 70% restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados locales inmediata anterior;
 
@@ -473,7 +475,9 @@ Los partidos políticos tendrán derecho a recibir una bonificación por activid
 
 a. La representación para efectos de esta bonificación será de un representante por partido político en cada casilla electoral;
 
-b. El monto por casilla será de diez veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+b. El monto por casilla será de diez veces la Unidad de Medida y Actualización;
 
 c. Esta bonificación se entregará cinco días después de que los partidos efectúen el registro de los nombramientos de sus representantes ante las mesas directivas de casilla de conformidad con el artículo 137 de este Código; y
 
@@ -3763,7 +3767,9 @@ I. Respecto de los partidos políticos:
 
 a) Con amonestación pública;
 
-b) Con multa de cincuenta hasta mil días de salario mínimo general vigente en la entidad, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes o militantes, o de los candidatos para sus propias campañas, además de la multa, se aplicará un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+b Con multa de cincuenta hasta mil veces la Unidad de Medida y Actualización, según la gravedad de la falta. En los casos de infracción a lo dispuesto en materia de topes a los gastos de campaña, o a los límites aplicables en materia de donativos o aportaciones de simpatizantes o militantes, o de los candidatos para sus propias campañas, además de la multa, se aplicará un tanto igual al del monto ejercido en exceso. En caso de reincidencia, la sanción será de hasta el doble de lo anterior;
 
 c) Según la gravedad de la falta, con la reducción de hasta el cincuenta por ciento de las ministraciones del financiamiento público que les corresponda, por el periodo que señale la resolución; o
 
@@ -3773,7 +3779,9 @@ II. Respecto de las agrupaciones políticas:
 
 a) Con amonestación pública;
 
-b) Con multa de veinticinco hasta quinientos días de salario mínimo general vigente en la entidad, según la gravedad de la falta; o
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de veinticinco hasta quinientas veces la Unidad de Medida y Actualización, según la gravedad de la falta; o
 
 c) Con la pérdida o suspensión de su registro por un periodo no menor a seis meses.
 
@@ -3791,7 +3799,9 @@ IV. Respecto de los aspirantes a Candidatos Independientes y de los Candidatos I
 
 a) Con amonestación pública;
 
-b) Con multa de quince hasta quinientos días de salario mínimo general vigente en la entidad, según la gravedad de la falta;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de quince hasta quinientas veces la Unidad de Medida y Actualización, según la gravedad de la falta;
 
 c) Con la pérdida del derecho del aspirante infractor a ser registrado como Candidato Independiente o, en su caso, si ya hubiera sido registrado, con la cancelación del mismo; y
 
@@ -3801,7 +3811,9 @@ V. Respecto de los ciudadanos, de los dirigentes y afiliados a los partidos pol�
 
 a) Con amonestación pública; o
 
-b) En caso de reincidencia o en el caso de que promuevan una denuncia frívola, con multa de quince hasta quinientos días de salario mínimo general vigente en la entidad.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+b) En caso de reincidencia o en el caso de que promuevan una denuncia frívola, con multa de quince hasta quinientas veces la Unidad de Medida y Actualización.
 
 VI. Respecto de observadores electorales u organizaciones de observadores electorales:
 
@@ -3809,13 +3821,17 @@ a) Con amonestación pública;
 
 b) Con la cancelación inmediata de la acreditación como observadores electorales y la inhabilitación para acreditarlos como tales en al menos dos procesos electorales locales, según sea el caso; o
 
-c) Con multa de veinticinco hasta trescientos días de salario mínimo general vigente en la entidad, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+c) Con multa de veinticinco hasta trescientas veces la Unidad de Medida y Actualización, tratándose de las organizaciones a las que pertenezcan los observadores electorales.
 
 VII. Respecto de las organizaciones de ciudadanos que pretendan constituir partidos políticos locales:
 
 a) Con amonestación pública;
 
-b) Con multa de veinticinco hasta trescientos días de salario mínimo general vigente en la entidad, según la gravedad de la falta; o
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de veinticinco hasta trescientas veces la Unidad de Medida y Actualización, según la gravedad de la falta; o
 
 c) Con la cancelación del procedimiento tendente a obtener el registro como partido político local.
 
@@ -3823,7 +3839,9 @@ VIII. Respecto de las organizaciones sindicales, laborales o patronales, o de cu
 
 a) Con amonestación pública; o
 
-b) Con multa de cincuenta hasta mil días de salario mínimo general vigente en la entidad, según la gravedad de la falta.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+b) Con multa de cincuenta hasta mil veces la Unidad de Medida y Actualización, según la gravedad de la falta.
 
 ###### Artículo 313.
 
@@ -4611,7 +4629,9 @@ a. Apercibimiento;
 
 b. Amonestación;
 
-c. Multa de diez a treinta días de salario mínimo general vigente en el Estado. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+c. Multa de diez a treinta veces la Unidad de Medida y Actualización. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
 
 d. Suspensión hasta por un mes;
 
@@ -4627,7 +4647,9 @@ a. Apercibimiento;
 
 b. Amonestación;
 
-c. Multa hasta por cien días de salario mínimo general vigente en el Estado. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+c. Multa hasta por cien veces la Unidad de Medida y Actualización. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
 
 d. Auxilio de la fuerza pública;
 
@@ -5110,3 +5132,13 @@ P.O. 11 DE SEPTIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas y adiciones del Código Electoral del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
