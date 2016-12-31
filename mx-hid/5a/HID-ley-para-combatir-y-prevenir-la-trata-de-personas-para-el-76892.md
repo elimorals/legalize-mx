@@ -4,7 +4,7 @@ identifier: "HID-ley-para-combatir-y-prevenir-la-trata-de-personas-para-el-76892
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-04"
-last_updated: "2013-09-02"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA COMBATIR Y PREVENIR LA TRATA DE PERSONAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 4 de octubre de 2010.
 
@@ -105,11 +105,13 @@ VII.- La extracción ilícita de un órgano, tejidos, sus componentes o derivado
 
 Quien resultare responsable del delito de trata de personas, además del decomiso de todos los bienes producto de las conductas antes descritas, se le impondrán las siguientes penas:
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-I.- De seis a doce años de prisión y multa de quinientos a mil quinientos días de salario mínimo; y
+I.- De seis a doce años de prisión y multa de quinientas a mil quinientas veces la Unidad de Medida y Actualización; y
 
-II.- De nueve a dieciocho años de prisión y multa de setecientos cincuenta a dos mil doscientos cincuenta días de salario mínimo, si el delito es cometido en contra de una persona menor de dieciocho años de edad o en contra de persona que no tenga capacidad para comprender el significado del hecho o para resistirlo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II.- De nueve a dieciocho años de prisión y multa de setecientas cincuenta a dos mil doscientas cincuenta veces la Unidad de Medida y Actualización vigente, si el delito es cometido en contra de una persona menor de dieciocho años de edad o en contra de persona que no tenga capacidad para comprender el significado del hecho o para resistirlo.
 
 En caso de reincidencia, la pena se aumentará hasta en una mitad más.
 
@@ -127,9 +129,11 @@ En los casos señalados en este inciso el Juez podrá, atendiendo a las circunst
 
 Cuando en la comisión del delito de trata de personas concurra otro delito, se aplicarán las reglas del concurso establecidas en el Código Penal del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 9.
 
-Al que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión del delito de trata de personas, se le Impondrá la pena de seis meses a dos años de prisión y de cincuenta a doscientos días de salario mínimo, como multa.
+Al que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión del delito de trata de personas, se le impondrá la pena de seis meses a dos años de prisión y de cincuenta a doscientas veces la Unidad de Medida y Actualización vigente, como multa.
 
 Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes para denunciar el delito de trata de personas de cuya comisión tenga noticia.
 
@@ -488,3 +492,13 @@ PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publica
 P.O. 2 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
