@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2016-07-04"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -287,7 +287,7 @@ VII.- Celebrar con la Federación los Acuerdos de Coordinación en materia de Sa
 
 VIII.- Promover, coordinar y realizar la evaluación de programas y servicios de salud que tenga bajo su responsabilidad, así como fiscalizar los recursos materiales y humanos para su óptimo aprovechamiento;
 
-IX.- Promover el establecimiento de un sistema de información básico en materia de salud, y (sic)
+IX.- Promover el establecimiento de un sistema de información básico en materia de salud, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1519,21 +1519,29 @@ IV.- La calidad de reincidente del infractor; y
 
 V.- El beneficio obtenido por el infractor como resultado de la infracción.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 185.
 
-Se sancionará con multa equivalente de hasta cien veces el salario mínimo general diario vigente en el Estado, la violación de las disposiciones contenidas en los Artículos: 14, 15, 80, 85 y 150.
+Se sancionará con multa equivalente de hasta cien veces la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los Artículos: 14, 15, 80, 85 y 150.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 186.
 
-Se sancionará con multa equivalente de cien hasta quinientas veces el salario mínimo general diario vigente en el Estado, la violación de las disposiciones contenidas en los Artículos 16, 24, 28, 29, 30, 34, 43, 44, 61, 67, 81, 109, 117, 119, 121, 123, 127, 128 y 151.
+Se sancionará con multa equivalente de cien hasta quinientas veces la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los Artículos 16, 24, 28, 29, 30, 34, 43, 44, 61, 67, 81, 109, 117, 119, 121, 123, 127, 128 y 151.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 187.
 
-Se sancionará con multa equivalente de quinientas hasta mil veces el salario mínimo general diario vigente en el Estado, la violación de las disposiciones contenidas en los Artículos 82, 102, 104, 105, 106, 112, 125, 148 y 178.
+Se sancionará con multa equivalente de quinientas hasta mil veces la Unidad de Medida y Actualización, la violación de las disposiciones contenidas en los Artículos 82, 102, 104, 105, 106, 112, 125, 148 y 178.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 188.
 
-Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por quinientas veces el salario mínimo general diario vigente en el Estado, atendiendo a las reglas de calificación que se establecen en el Artículo 184 de esta Ley.
+Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por quinientas veces la Unidad de Medida y Actualización, atendiendo a las reglas de calificación que se establecen en el Artículo 184 de esta Ley.
 
 ###### Artículo 189.
 
@@ -1752,3 +1760,13 @@ P.O. 4 DE JULIO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 669 QUE REFORMA LA FRACCIÓN X, DEL INCISO A), DEL ARTÍCULO 3, DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
