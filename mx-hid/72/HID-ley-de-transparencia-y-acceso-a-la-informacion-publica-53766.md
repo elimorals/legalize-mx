@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transparencia-y-acceso-a-la-informacion-publica-53766"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2016-05-04"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA GUBERNAMENTAL PARA EL ESTADO DE HIDALGO
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL PARA EL ESTADO DE HIDALGO
-
 > <small>[N. DE E. DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 4 DE MAYO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO A LOS SEIS MESES DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2016 (ABROGADA).
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL PARA EL ESTADO DE HIDALGO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -989,33 +989,47 @@ Cuando el Instituto verifique que por negligencia no se hubiese atendido la soli
 
 El incumplimiento de las disposiciones contenidas en esta Ley, estará sujeto a lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 111.
 
-El servidor público que por negligencia, dolo o mala fe, no difundiere la información contenida en el catálogo de disposición documental, será sancionado con multa de diez a treinta días de salario mínimo vigente en el Estado de Hidalgo. Si la conducta se repite será aumentada proporcionalmente hasta en un cien por ciento en cada ocasión, a juicio de la autoridad sancionadora.
+El servidor público que por negligencia, dolo o mala fe, no difundiere la información contenida en el catálogo de disposición documental, será sancionado con multa de diez a (sic) veces la Unidad de Medida y Actualización vigente. Si la conducta se repite será aumentada proporcionalmente hasta en un cien por ciento en cada ocasión, a juicio de la autoridad sancionadora.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 112.
 
-Al servidor público que indebidamente recabe datos personales que no resulten indispensables para el cumplimiento de sus funciones, será sancionado con multa de diez a treinta días de salario mínimo vigente en el Estado de Hidalgo. El servidor público que reiteradamente incurra en la conducta antes descrita será sancionado con una multa de veinte a cincuenta días de salario mínimo vigente en el Estado de Hidalgo.
+Al servidor público que indebidamente recabe datos personales que no resulten indispensables para el cumplimiento de sus funciones, será sancionado con multa de diez a treinta veces la Unidad de Medida y Actualización vigente. El servidor público que reiteradamente incurra en la conducta antes descrita será sancionado con una multa de veinte a cincuenta veces la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 113.
 
-Al servidor público que no guarde con el debido cuidado la información que por el desempeño de su cargo o comisión, tenga bajo su custodia y la utilice, sustraiga, dañe, destruya, esconda, estropee, divulgue o altere, total o parcialmente, o de manera indebida proporcione información que se encuentre bajo su custodia, al cual tenga acceso o conocimiento con motivo de su empleo, cargo o comisión, se le sancionará con una multa de veinte a cincuenta días de salario mínimo vigente en el Estado de Hidalgo.
+Al servidor público que no guarde con el debido cuidado la información que por el desempeño de su cargo o comisión, tenga bajo su custodia y la utilice, sustraiga, dañe, destruya, esconda, estropee, divulgue o altere, total o parcialmente, o de manera indebida proporcione información que se encuentre bajo su custodia, al cual tenga acceso o conocimiento con motivo de su empleo, cargo o comisión, se le sancionará con una multa de veinte a cincuenta veces la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 114.
 
-Al servidor público que se desempeñe con negligencia, dolo o mala fe en la sustanciación de las solicitudes de acceso a la Información Pública Gubernamental o de las acciones de protección de datos personales, o entregue información de manera incompleta, se le sancionará con multa de treinta a cien días de salario mínimo vigente en el Estado de Hidalgo.
+Al servidor público que se desempeñe con negligencia, dolo o mala fe en la sustanciación de las solicitudes de acceso a la Información Pública Gubernamental o de las acciones de protección de datos personales, o entregue información de manera incompleta, se le sancionará con multa de treinta a cien veces la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 115.
 
-Al servidor público que niegue intencionalmente el acceso a la información, aduciendo falsamente que la misma se encuentra clasificada como reservada o confidencial; entregue indebidamente información clasificada como reservada o confidencial; clasifique con dolo o mala fe cualquier información que no deba ser clasificada, se le sancionará con multa de cincuenta a ciento cincuenta días de salario mínimo vigente en el Estado de Hidalgo.
+Al servidor público que niegue intencionalmente el acceso a la información, aduciendo falsamente que la misma se encuentra clasificada como reservada o confidencial; entregue indebidamente información clasificada como reservada o confidencial; clasifique con dolo o mala fe cualquier información que no deba ser clasificada, se le sancionará con multa de cincuenta a ciento cincuenta veces la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 116.
 
-Al servidor público que comercialice con datos personales que obren en los archivos a su alcance, o haga mal uso de éstos, será sancionado con multa de cien a trescientos días de salario mínimo vigente en el Estado de Hidalgo.
+Al servidor público que comercialice con datos personales que obren en los archivos a su alcance, o haga mal uso de éstos, será sancionado con multa de cien a trescientas veces la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 117.
 
-Al servidor público que indebidamente recabe datos personales que no resulten indispensables para el cumplimiento de sus funciones, con el fin de comercializarlos o hacer mal uso de ellos, será sancionado con multa de doscientos a cuatrocientos días de salario mínimo vigente en el Estado de Hidalgo.
+Al servidor público que indebidamente recabe datos personales que no resulten indispensables para el cumplimiento de sus funciones, con el fin de comercializarlos o hacer mal uso de ellos, será sancionado con multa de doscientas a cuatrocientas veces la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 118.
 
@@ -1078,3 +1092,13 @@ SEXTO. El Instituto emitirá las bases para la integración y funcionamiento del
 SÉPTIMO. El Instituto deberá, dentro de los 180 días naturales posteriores a la entrada en vigor de esta Ley, crear y publicar las Reglas de Operación a las que se refiere el artículo 58, para certificar a las empresas como Empresas Transparentes.
 
 OCTAVO. El Ejecutivo del Estado expedirá el Reglamento de esta Ley dentro del año siguiente a su entrada en vigor.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
