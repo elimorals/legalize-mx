@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asociaciones-publico-privadas-del-estado-de-hidalgo-8486
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-19"
-last_updated: "2011-12-19"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 19 de diciembre de 2011.
 
@@ -1909,9 +1909,11 @@ Para iniciar cualquier procedimiento administrativo o jurisdiccional, relativo a
 
 El Reglamento señalará los montos, términos y condiciones de estas garantías.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 180.
 
-La autoridad, jurisdiccional o administrativa, que conozca de una actuación notoriamente improcedente o como táctica meramente dilatoria, podrá imponer a quien lo promueva multa administrativa de quinientas y hasta dos mil veces el salario mínimo general diario para el Estado de Hidalgo, elevado al mes, vigente en la fecha de interposición del recurso.
+La autoridad, jurisdiccional o administrativa, que conozca de una actuación notoriamente improcedente o como táctica meramente dilatoria, podrá imponer a quien lo promueva multa administrativa de quinientas y hasta dos mil veces la Unidad de Medida y Actualización vigente; elevado al mes, en la fecha de interposición del recurso.
 
 Asimismo, podrá condenar al responsable a pagar a los Contratantes y, en su caso, a los terceros afectados, los daños y perjuicios que tales conductas ocasionen, con independencia a las demás responsabilidades administrativas, civiles y penales a que haya lugar.
 
@@ -1944,3 +1946,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
