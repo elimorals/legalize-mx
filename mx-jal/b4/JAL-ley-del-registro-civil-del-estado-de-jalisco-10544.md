@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2016-10-11"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -175,29 +173,27 @@ Son requisitos para ser oficial del Registro Civil:
 
 I. Tener la nacionalidad mexicana;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1999)</small>
-
-II. Ser mayor de veintisiete años de edad el día de su designación;
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 III. Estar avecindado por lo menos un año en el lugar de su adscripción, previamente a su designación;
 
 IV. Estar en el pleno ejercicio de sus derechos ciudadanos;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-V. Poseer título de abogado o de licenciado en derecho; y
+V. Poseer título de abogado o de licenciado en derecho y una práctica profesional de tres años; y
 
 VI. No tener antecedentes penales por delito doloso.
 
-> <small>(REFORMADO, P. O. 15 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 20.
 
-Los requisitos del artículo precedente podrán disminuir de conformidad con lo previsto en los párrafos siguientes, en los municipios con menos de treinta mil habitantes sólo respecto de la edad mínima y grado académico.
+Los requisitos del artículo precedente podrán disminuir de conformidad con lo previsto en los párrafos siguientes, en los municipios con menos de treinta mil habitantes sólo respecto de la práctica profesional.
 
-Cuando el cargo de Oficial del Registro Civil esté vacante y no se encuentre quien cumpla con los requisitos señalados, el Presidente Municipal convocará, dentro de los treinta días siguientes a quienes cumplan con lo previsto por el artículo 19, excepto en lo relativo a la edad mínima y el grado académico, que serán de veinticinco años e instrucción preparatoria concluida, respectivamente.
+Cuando el cargo de Oficial del Registro Civil esté vacante y no se encuentre quien cumpla con los requisitos señalados, el Presidente Municipal convocará, dentro de los treinta días siguientes a quienes cumplan con lo previsto por el artículo 19, excepto en lo relativo a la práctica profesional.
 
-Cuando ninguno de los comparecientes reúna los requisitos mencionado (sic), deberá expedirse una segunda convocatoria en la que se exigirá que la edad mínima sea de veintiún años, debiéndose observar en lo conducente, lo ordenado en el párrafo anterior.
+Cuando ninguno de los comparecientes reúna los requisitos mencionados, deberá expedirse una segunda convocatoria en la que se exigirá que la edad mínima sea de veintiún años e instrucción preparatoria concluida, debiéndose observar en lo conducente, lo ordenado en el párrafo anterior.
 
 ###### Artículo 21.
 
@@ -439,9 +435,9 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes, con la represe
 
 Los profesionales de la medicina, paramédicos o parteras que hubieren asistido el alumbramiento, deberán extender dentro de los seis días siguientes y en forma gratuita, constancia única de nacimiento expedida y autorizada por la Secretaría de Salud del Estado, anotando el nombre y huella digital de la madre, número de orden que ocupa ese parto; así como huella digital, día, hora y lugar de nacimiento, sexo, peso y demás características de los recién nacidos, que pudieran servir de identificación.
 
-> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Para llevar a cabo el registro de un nacimiento, el Oficial del Registro Civil exigirá la constancia única de nacimiento, y la cancelará para evitar la duplicidad de registros.
+Para llevar a cabo el registro de un nacimiento, el Oficial del Registro Civil exigirá la identificación oficial de los padres o en su caso, del padre o la madre según quien comparezca al registro, y la constancia única de nacimiento, debiendo cancelar esta última una vez levantado el registro para evitar la duplicidad del mismo.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -464,6 +460,14 @@ Cuando sólo uno de los cónyuges presente al infante y exhiba copia certificada
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
 Cuando no se presente copia certificada o extracto del acta de matrimonio o no ocurran ambos progenitores, sólo se asentará el nombre del padre o de la madre, cuando éste lo solicite por sí o por apoderado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Los abuelos maternos o los familiares más próximos podrán efectuar el registro de un nacimiento cuando la madre hubiese fallecido y no fuere casada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Podrá efectuar el registro de su hijo, el padre que en compañía de los abuelos maternos o los familiares más próximos o dos testigos declaren la relación afectiva que existió entre el padre y la madre fallecida.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -759,9 +763,11 @@ III. Que es su voluntad unirse en matrimonio.
 
 Este escrito deberá ser firmado por los solicitantes y si alguno no puede o no supiere escribir, estampará el interesado su huella digital ante la presencia de dos testigos, quienes también deberán firmar o estampar su huella digital. Si el interesado no pudiere firmar ni imprimir su huella digital, podrá firmar a su ruego otra persona, ante el mismo número de testigos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 82.
 
-A la solicitud a que se refiere el artículo anterior se acompañará:
+Se deberán acompañar a la solicitud de matrimonio:
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -803,9 +809,7 @@ VII. Copia certificada de la resolución que decrete la dispensa judicial de imp
 
 VIII. Constancia expedida del curso prematrimonial, previsto en el Código Civil; y
 
-> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2004)</small>
-
-IX. Copia simple de la Cartilla Nacional de Salud de la Mujer.
+IX. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 ###### Artículo 83.
 
@@ -851,7 +855,7 @@ II. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 1996)
 
 III. Los nombres, apellidos, edad, nacionalidad y domicilio de los padres;
 
-IV. En su caso, el consentimiento de sus ascendientes, del tutor o de la autoridad que corresponda si fueran menores de edad;
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 V. Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
@@ -959,11 +963,11 @@ Extendida el acta de divorcio se anotará en las actas de NACIMIENTO Y matrimoni
 
 Ninguna inhumación o cremación se hará sin autorización escrita del Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento con el certificado de defunción expedido por médico o persona legalmente autorizada. La inhumación o cremación se efectuará en un lapso de 12 a 48 horas después del fallecimiento, salvo lo que se ordene por la autoridad que corresponda o en los casos en que la persona (sic) falleció sea donador de órganos, el lapso podrá extenderse hasta las 72 horas.
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 102.
 
-En el acta de defunción se asentarán los datos que el Oficial del Registro Civil requiera o la declaración que se la (sic) haga y será firmada por dos testigos, prefiriéndose para el caso los parientes, si los hay, o los vecinos del difunto.
+En el acta de defunción se asentarán los datos que del certificado de defunción y del acta de nacimiento se desprendan o los que en su defecto el oficial del Registro Civil requiera. El acta será firmada por dos testigos, requiriéndose para el caso la comparecencia de los parientes, o en su caso, de quien sea la persona más cercana al difunto.
 
 ###### Artículo 103.
 
@@ -986,6 +990,10 @@ VI. El nombre, apellidos, número de cédula profesional y domicilio del médico
 VII. Nombre, apellidos, edad, nacionalidad y domicilio del declarante y grado de parentesco, en su caso con el difunto; y
 
 VIII. Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos y, si fuesen parientes del difunto, el grado en que lo sean.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+El certificado de defunción tendrá validez en todo el Estado independientemente del lugar en el que se expida, por lo que es facultad del Oficial de (sic) Registro Civil, elaborar el acta de defunción aún en lugar diverso a aquel en que se expidió el certificado.
 
 ###### Artículo 104.
 
@@ -1074,6 +1082,14 @@ Las certificaciones de las copias y extractos de las actas y documentos que obre
 Las certificaciones a que se refiere el presente artículo podrán llevarse a cabo mediante la utilización de la firma electrónica, de conformidad con lo previsto en la presente ley, su reglamento y las demás disposiciones aplicables.
 
 Los formatos para la expedición de las copias y extractos referidos, serán autorizados por la misma Dirección, con las especificaciones técnicas y diseños que ésta determine.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Las certificaciones de las copias del acta del registro de nacimiento para trámites escolares del nivel preescolar, básico y medio superior no serán sujetas a cobro en derechos de expedición. Dichas certificaciones se expedirán únicamente por la Dirección General del Registro Civil del Estado y deberán señalar en este tipo de certificaciones lo siguiente: "certificación gratuita válida sólo para trámites escolares".
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Los municipios podrán contemplar en sus respectivas leyes de ingresos lo conducente a fin de otorgar el beneficio descrito en el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 1999)</small>
 
@@ -1170,6 +1186,10 @@ III. En el caso de homonimia que le cause un perjuicio podrá pedirse al juez co
 ###### Artículo 128.
 
 Procede la aclaración cuando se trate de errores ortográficos, de impresión que sea manual, mecánica, eléctrica o electrónica, numéricos y otros meramente accidentales que no afecten los datos esenciales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+También procederá la aclaración cuando los ascendientes hayan rectificado o aclarado sus actas y sea interés de los descendientes modificar las propias en los mismos términos.
 
 (REUBICADO [N. DE E. ANTES ARTÍCULO 127], P.O. 15 DE JUNIO DE 1999)
 
@@ -1540,3 +1560,9 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26181/LXI/16 SE REFORMAN LOS ARTÍCULOS 19, 20, 41, 43, 82, 87, 102, 103, 120 Y 128 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; 69 DE LA LEY DE HACIENDA DE JALISCO; Y 28 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO 2016”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
