@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2016-08-01"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MARZO DE 2017 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -61,13 +63,31 @@ QUE CONTIENE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE H
 
 La presente Ley regula la organización y funcionamiento de la Administración Pública Centralizada y Paraestatal del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 2.
 
-El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las facultades, atribuciones y obligaciones que le señalan la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Hidalgo, la presente Ley y las demás disposiciones legales vigentes en el Estado.
+El ejercicio del Poder Ejecutivo corresponde al Gobernador Constitucional del Estado de Hidalgo, quien tendrá las facultades, atribuciones y obligaciones que le señalan la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Hidalgo, la presente Ley y las demás disposiciones legales vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 2 Bis.
+
+Para efectos de la presente Ley, se entenderá en singular o plural por:
+
+I.- Dependencia: A las Dependencias de la Administración Pública centralizada del Estado de Hidalgo;
+
+II.- Entidad: A los Organismos Descentralizados, empresas de participación Estatal y Fideicomisos Públicos que tienen el carácter de Entidades Paraestatales del Estado de Hidalgo;
+
+III.- Gobernador: Al Gobernador Constitucional del Estado de Hidalgo; y
+
+IV.- Ley: A la presente Ley Orgánica de la Administración Pública Estatal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 3.
 
-Para el despacho de los asuntos que competen al Poder Ejecutivo, el Gobernador del Estado se auxiliará de las Dependencias de la administración pública centralizada que establece esta Ley, así como con las unidades de apoyo cuyas atribuciones se encuentran reguladas en el Artículo 38 de la presente Ley, mismas que estarán a cargo directo del Gobernador.
+Para el despacho de los asuntos que competen al Poder Ejecutivo, el Gobernador del Estado se auxiliará de las Dependencias y Entidades de la Administración Pública que establece esta Ley.
 
 ###### Artículo 4.
 
@@ -123,11 +143,17 @@ Las dependencias del Poder Ejecutivo que constituyen la Administración Pública
 
 I.- Secretaría de Gobierno;
 
-II.- Secretaría de Finanzas y Administración;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+I Bis.- Secretaría Ejecutiva de la Política Pública Estatal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II.- Secretaría de Finanzas Públicas;
 
 III.- Secretaría de Desarrollo Social;
 
-IV.- Secretaría de Planeación, Desarrollo Regional y Metropolitano;
+IV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 V.- Secretaría de Obras Públicas y Ordenamiento Territorial;
 
@@ -137,17 +163,41 @@ VII.- Secretaría de Medio Ambiente y Recursos Naturales;
 
 VIII.- Secretaría de Desarrollo Agropecuario;
 
-IX.- Secretaría de Turismo y Cultura;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-X.- Secretaría de Contraloría y Transparencia Gubernamental;
+IX.- Secretaría de Turismo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X.- Secretaría de Contraloría;
 
 XI.- Secretaría de Educación Pública;
 
 XII.- Secretaría de Salud;
 
-XIII.- Secretaría de Seguridad Pública; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XIV.- Secretaría del Trabajo y Previsión Social.
+XIII.- Secretaría de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIV.- Secretaría del Trabajo y Previsión Social;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XV.- Secretaría de Movilidad y Transporte;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Secretaría de Cultura;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVII.- Unidad de Planeación y Prospectiva; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVIII.- Oficialía Mayor.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -217,7 +267,21 @@ II.- Atender los asuntos del despacho del Gobernador cuando éste se ausente má
 
 III.- Cumplir y hacer cumplir los acuerdos, órdenes, circulares y demás disposiciones del Poder Ejecutivo, que no sean de la competencia de otras dependencias;
 
-IV.- Proveer en coordinación con la Secretaría de Seguridad Pública, en la esfera administrativa el respeto de las garantías individuales, la preservación de la paz pública; promover y proteger los derechos humanos, y el desarrollo de las actividades políticas; así como presidir, en ausencia del C. Gobernador, el Consejo Estatal de Seguridad Pública;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV.- Presidir, en ausencia del Gobernador, el Consejo Estatal de Seguridad Pública y auxiliarse del Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV Bis.- Impulsar, promover y vigilar el cumplimiento de los preceptos constitucionales, en materia de derechos humanos por parte de las dependencias y organismos de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV Ter.- Coordinar en vinculación con las organizaciones de la sociedad civil trabajos y tareas de promoción y defensa de los derechos humanos, así como dar seguimiento a la atención de las recomendaciones que para tal efecto emitan los organismos competentes en dicha materia;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV Quáter.- Promover el respeto irrestricto de los derechos humanos de toda persona que se encuentre en el territorio estatal, permanente o transitoriamente, a través de la instancia correspondiente;
 
 V.- Atender la política en materia de población;
 
@@ -243,7 +307,9 @@ XV.- Intervenir, con la representación del Gobernador el Estado, en las controv
 
 XVI.- Tramitar los recursos administrativos que competa resolver al Ejecutivo, cuando no esté atribuido a otras dependencias;
 
-XVII.- Dar trámite a las solicitudes que, para el otorgamiento de concesiones, permisos y licencias gubernamentales, presenten los particulares ante el Gobierno del Estado y que no estén reservadas a otras dependencias, así como lo relativo a la terminación, suspensión o revocación de las ya otorgadas; asimismo, por acuerdo del Titular del Poder Ejecutivo, podrá otorgar, expedir, autorizar, revocar, cancelar, normar y regular concesiones y permisos en materia de servicio de transporte y de los servicios auxiliares y conexos de éste;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVII.- Dar trámite a las solicitudes que, para el otorgamiento de concesiones, permisos y licencias gubernamentales, presenten los particulares ante el Gobierno del Estado y que no estén reservadas a otras dependencias, así como lo relativo a la terminación, suspensión o revocación de las ya otorgadas;
 
 XVIII.- Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado;
 
@@ -259,15 +325,15 @@ XXIII.- Organizar, dirigir y vigilar el funcionamiento del Registro Público de 
 
 XXIV.- Dar trámite a los nombramientos que expida el titular del Ejecutivo para el ejercicio de las funciones notariales, llevar un registro de los mismos, vigilar su funcionamiento y administrar el Archivo General de Notarías del Estado;
 
-XXV.- Formular, regular y conducir la política de comunicación social, para difundir la imagen del Estado y el quehacer de la gubernatura, así como el trabajo y objetivos de las dependencias y entidades de la Administración Pública Estatal, coordinando las relaciones con los medios masivos de información;
+XXV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-XXVI.- Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias y entidades de la Administración Pública Estatal;
+XXVI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-XXVII.- Planear, dirigir, coordinar y evaluar el sistema de radio y televisión estatal, promoviendo la producción cinematográfica y la industria editorial; así como vigilar que las publicaciones impresas, las transmisiones de radio y televisión locales, y la exhibición de películas cinematográficas, se mantengan dentro de los límites de respeto a la vida privada, a la paz y moral pública, a la dignidad personal y no ataquen derechos de terceros ni provoquen la comisión de algún delito o perturben el orden público;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+XXVII.- Supervisar que las publicaciones impresas, las transmisiones de radio y televisión locales, y la exhibición de películas cinematográficas, se mantengan dentro de los límites de respeto a la vida privada, a la paz y moral pública, a la dignidad personal y no ataquen derechos de terceros ni provoquen la comisión de algún delito o perturben el orden público;
 
-XXVIII.- Efectuar análisis, diagnósticos y estudios que permitan al Titular del Poder Ejecutivo Estatal, contar con información estratégica y recomendaciones de carácter técnico, así como aprobar e instruir en coordinación con las autoridades competentes de la Administración Pública Estatal, la elaboración de los indicadores de impacto social y desempeño de la gestión gubernamental; además de integrar información confiable, oportuna y pertinente relacionada con beneficiarios e impacto de los programas gubernamentales;
+XXVIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -275,9 +341,57 @@ XXVIII Bis.- Promover, fomentar y fortalecer los planes y programas que contribu
 
 XXIX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 24 Bis.
+
+La Secretaría Ejecutiva de la Política Pública Estatal, tendrá las siguientes facultades:
+
+I. Solicitar de las dependencias y entidades de la Administración Pública Estatal la información necesaria que le permita valorar el estado de la gestión gubernamental en la Entidad;
+
+II. Poner a consideración del Gobernador la creación o eliminación de dependencias, unidades administrativas y organismos, que garanticen la máxima eficacia y eficiencia en la gestión gubernamental;
+
+III. Actuar como apoyo al gobernador en las reuniones de gabinete con la participación de los titulares de las dependencias y entidades de la Administración Pública Estatal, así como propiciar y facilitar la comunicación y coordinación entre las mismas;
+
+IV. Preparar y llevar la agenda de las reuniones de gabinete, generales o específicas, conforme a las instrucciones del Gobernador, así como formular las minutas respectivas y los acuerdos que se deriven. Además, dar seguimiento al cumplimiento de las resoluciones adoptadas y presentar al Gobernador y a los integrantes del gabinete un informe periódico sobre los resultados alcanzados;
+
+V. Presentar, debidamente sustentados, asuntos de relevancia a la consideración del gabinete, con el objetivo de apoyar sus trabajos generales o específicos, así como el cumplimiento de sus acuerdos;
+
+VI. Coadyuvar con el Gobernador en el fortalecimiento de las relaciones interinstitucionales entre el Ejecutivo Estatal y las delegaciones de la Administración Pública Federal;
+
+VII. Garantizar esquemas eficaces que fomenten la participación y atención ciudadana, con el visto bueno del Gobernador;
+
+VIII. Dar seguimiento a las peticiones ciudadanas, a través de mecanismos de mejora en la gestión pública;
+
+IX. Coadyuvar con el Gobernador en la coordinación de las giras, audiencias, apoyos y de enlace con la ayudantía;
+
+X. Formular, regular y conducir la política de comunicación social para difundir la imagen del Estado y el quehacer de la gubernatura, así como el trabajo y objetivos de las dependencias y entidades de la Administración Pública Estatal, coordinando las relaciones con los medios de comunicación;
+
+XI. Orientar, autorizar, coordinar, supervisar y evaluar los programas de comunicación social de las dependencias y entidades de la Administración Pública Estatal;
+
+XII. Planear, dirigir, coordinar y evaluar el sistema de radio y televisión estatal;
+
+XIII. Fomentar entre las dependencias y entidades de la Administración Pública el ahorro de recursos, así como el apego a la ética, honradez y a la legalidad en las acciones de los servidores públicos en el ejercicio de su función;
+
+XIV. Solicitar a las dependencias y entidades de la Administración Pública Estatal, en el caso que así se requiera la reorientación de las acciones de gobierno en coherencia con la planeación estatal;
+
+XV. Promover y coordinar las acciones de modernización e innovación gubernamental, así como la aplicación y uso de las tecnologías de información y comunicaciones, que contribuyan al seguimiento de los asuntos gubernamentales, mejorar los sistemas de desempeño, productividad y aprovechamiento óptimo de recursos de la gestión pública, tanto estatal como municipal, de conformidad a la legislación y reglamentación aplicable vigente;
+
+XVI. Vigilar el cumplimiento de las disposiciones aplicables a las entidades que integran el sector paraestatal y su correcta administración;
+
+XVII. Establecer acciones entre las dependencias y entidades de la Administración Pública Estatal, que fomenten una cultura de rendición de cuentas;
+
+XVIII. Dirigir y coordinar con las unidades administrativas de las dependencias y entidades del Poder Ejecutivo, el establecimiento de las medidas necesarias para la actualización de las estructuras orgánicas, administrativas y funcionales, el sistema de profesionalización de los servidores públicos, así como los diferentes procesos de calidad y mejora continua de los servicios institucionales y el mejoramiento de los sistemas de atención, conforme al modelo y normatividad que se establezca para tales efectos, promoviendo mecanismos de colaboración y asistencia técnica con las dependencias y entidades de la Administración Pública Estatal;
+
+XIX. Normar, asesorar y supervisar, en coordinación con las unidades administrativas correspondientes, la elaboración o actualización de los reglamentos interiores, estatutos orgánicos, manuales administrativos, de organización y de procedimientos de las dependencias y entidades paraestatales del Poder Ejecutivo del Estado; y
+
+XX. Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 25.
 
-A la Secretaría de Finanzas y Administración, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Finanzas Públicas le corresponde el despacho de los siguientes asuntos:
 
 I.- Celebrar, en la forma que acuerde el titular del Ejecutivo y con la participación de las dependencias correspondientes, los actos que afecten los ingresos, egresos y patrimonio del Gobierno del Estado o le generen obligaciones económicas en los términos de las leyes vigentes;
 
@@ -313,9 +427,9 @@ XV.- Proponer al Gobernador del Estado, en coordinación con la Secretaría de C
 
 XVI.- Autorizar la administración de recursos para el ejercicio del gasto público en función con el presupuesto aprobado y de las disponibilidades financieras del Gobierno Estatal, de conformidad a las disposiciones que en materia de racionalidad, armonización contable y evaluación del desempeño establezca la Secretaría, asegurándose en todos los casos que los presupuestos estén elaborados con perspectiva de género.
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XVII.- Estimar y dar a conocer a la Secretaría de Planeación, Desarrollo Regional y Metropolitano, el monto de inversión y la calendarización provisional del presupuesto de inversión para el siguiente ejercicio fiscal, a fin de posibilitar el ejercicio de las atribuciones de esta última en materia de programación y presupuestación;
+XVII.- Estimar el monto de inversión y su calendarización provisional para el ejercicio fiscal correspondiente, de conformidad a la información emitida por la Secretaría de Hacienda y Crédito Público, a fin de posibilitar la programación y presupuestación de la cartera de proyectos dictaminada en coordinación con la Unidad de Planeación y Prospectiva;
 
 XVIII.- Aplicar las políticas que señale el Gobernador del Estado para el ejercicio del presupuesto de egresos;
 
@@ -329,7 +443,9 @@ XXII.- Calendarizar y efectuar los pagos conforme a los programas y presupuestos
 
 XXIII.- Llevar el registro y control de la deuda pública del Estado y sobre la situación que guardan las amortizaciones de capital y pago de intereses;
 
-XXIV.- Emitir, con la opinión de la Secretaría de Contraloría y Transparencia Gubernamental, los catálogos de cuentas para la contabilidad del gasto público estatal y formular la cuenta anual de hacienda pública estatal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXIV.- Emitir, con la opinión de la Secretaría de Contraloría, los catálogos de cuentas para la contabilidad del gasto público estatal y formular la cuenta anual de hacienda pública estatal;
 
 XXV.- Revisar las operaciones financieras del Estado, así como llevar a cabo la contabilidad de las operaciones gubernamentales;
 
@@ -341,9 +457,9 @@ XXVIII.- Formular las querellas y denuncias en materia de delitos fiscales y de 
 
 XXIX.- Representar en toda clase de procedimientos judiciales o administrativos, los intereses de la hacienda pública del Estado y los que deriven de las funciones operativas inherentes a los acuerdos del Ejecutivo Federal, en materia de ingresos federales coordinados;
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XXX.- Intervenir en la autorización de los programas de inversión de las Dependencias y Entidades de la Administración Pública del Estado, conjuntamente con la Secretaría de Planeación, Desarrollo Regional y Metropolitano;
+XXX.- Autorizar el presupuesto total y de gasto de inversión, para el ejercicio fiscal correspondiente, considerando que, para este último, cada dependencia y entidad de la Administración Pública Estatal deberá contar de manera previa con la validación técnica y de impacto social que realice la Unidad de Planeación y Prospectiva para cada programa y proyecto a financiar.
 
 XXXI.- Emitir opinión, sobre los precios y tarifas de los bienes y servicios de la Administración Pública del Estado;
 
@@ -353,17 +469,17 @@ XXXIII.- Realizar una labor permanente de difusión y orientación fiscal;
 
 XXXIV.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XXXV.- Programar, presupuestar, ejecutar, controlar y evaluar lo relativo al gasto público en los capítulos de gasto corriente, estableciendo mecanismos de coordinación con la Secretaría de Planeación, Desarrollo Regional y Metropolitano en materia de seguimiento y evaluación del gasto;
+XXXV.- Programar, presupuestar, controlar y monitorear lo relativo al gasto público en los capítulos de gasto corriente, en materia de seguimiento y evaluación del gasto;
 
-XXXVI.- Determinar las políticas en materia de administración de los recursos materiales y servicios y vigilar su correcta aplicación;
+XXXVI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-XXXVII.- Adquirir los bienes y contratar los servicios que requiera el funcionamiento del Poder Ejecutivo del Estado con apego a las Leyes de la materia, cuando no corresponda a otra dependencia, así como celebrar contratos de arrendamiento financiero;
+XXXVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XXXVIII.- Coadyuvar en la celebración de mecanismos de coordinación institucional, que permitan incrementar el aprovechamiento de los recursos Federales en beneficio de proyectos prioritarios que presenten las distintas Dependencias y Entidades de la Administración Pública Estatal a la Secretaría de Planeación, Desarrollo Regional y Metropolitano, y que contribuyan al logro de los objetivos y metas definidos en el Plan Estatal de Desarrollo";
+XXXVIII.- Coadyuvar en la celebración de mecanismos de coordinación institucional, que permitan incrementar el aprovechamiento de los recursos Federales en beneficio de los proyectos prioritarios que presenten las distintas dependencias y entidades de la Administración Pública Estatal previamente dictaminados por la Unidad de Planeación y Prospectiva, y que contribuyan al logro de los objetivos y metas definidos en el Plan Estatal de Desarrollo;
 
 XXXIX.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
@@ -379,31 +495,61 @@ XLIV.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
 XLV.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XLVI.- Evaluar, en coordinación con la Secretaría de Planeación, Desarrollo Regional y Metropolitano, la correcta aplicación de los recursos Federales aprobados en el Presupuesto de Egresos de la Federación al Estado, a fin de lograr un aprovechamiento integral, eficaz y eficiente de los mismos;
+XLVI.- Dar seguimiento a la correcta aplicación de los recursos Federales aprobados en el Presupuesto de Egresos de la Federación al Estado, a fin de lograr un aprovechamiento integral, eficaz y eficiente de los mismos;
 
-XLVII.- Determinar y ejecutar las políticas en materia de administración de recursos humanos y vigilar el cumplimiento de las disposiciones que rijan las relaciones entre el Ejecutivo del Estado y sus trabajadores;
+XLVII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-XLVIII.- Contratar y capacitar a los servidores públicos del Poder Ejecutivo del Estado, así como tramitar las remociones, renuncias, licencias y jubilaciones de los mismos;
+XLVIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-XLIX.- Organizar y controlar el escalafón de los trabajadores de base del Poder Ejecutivo del Estado;
+XLIX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-L.- Ejercer la posesión, administración y conservación de los bienes que conforman el patrimonio de la Administración Pública Central, ejecutando los actos administrativos e interviniendo en los actos jurídicos necesarios para tal efecto, cuando no corresponda al ámbito de otra dependencia;
+L.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-LI.- Ejercer actos de dominio, inspección y vigilancia sobre el patrimonio del Estado, de conformidad a lo que establecen los ordenamientos legales vigentes en el Estado; y ejercer el derecho de reversión sobre los bienes otorgados en donación, destino o concesión, con la intervención de las dependencias competentes, salvo en los casos en que la Ley de la materia lo faculte para hacerlo directamente;
+LI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-LII.- Administrar los servicios y los almacenes generales del Poder Ejecutivo, cuando no correspondan al ámbito de otra dependencia o entidad;
+LII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-LIII.- Dirigir y coordinar con las unidades administrativas de las dependencias y entidades del Poder Ejecutivo, el establecimiento de las medidas necesarias para la actualización de las estructuras orgánicas, administrativas y funcionales, el sistema de profesionalización de los servidores públicos, así como los diferentes procesos de calidad y mejora continua de los servicios institucionales y el mejoramiento de los sistemas de atención ciudadana a cargo de la Administración Pública Estatal, conforme al modelo y normatividad que se establezca para tales efectos, promoviendo mecanismos de colaboración y asistencia técnica con las unidades de apoyo del Titular del Poder Ejecutivo del Estado;
+LIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-LIV.- Normar, asesorar y supervisar, en coordinación con las unidades administrativas correspondientes, la elaboración o actualización de los reglamentos interiores, estatutos orgánicos, manuales administrativos, de organización y de procedimientos de las dependencias y entidades paraestatales del Poder Ejecutivo del Estado;
+LIV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-LV.- Dirigir, coordinar y regular la formulación, ejecución y difusión de las políticas, planes, programas, proyectos y acciones impulsadas por el Sistema Estatal de Archivos, para regular y homogeneizar la administración documental de los archivos estatales, de conformidad a las leyes aplicables en la materia;
+LV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-LVI.- Conformar y administrar el archivo general del Estado, estableciendo y vigilando el cumplimiento de las políticas y lineamientos para la organización, preservación, difusión, guarda y custodia de los acervos documentales; y
+LVI.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-LVII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+LVII.- Emitir la validación financiera de los proyectos técnicamente dictaminados por la Unidad de Planeación y Prospectiva;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+LVIII.- Articular el procedimiento administrativo para vincular la cartera de programas y proyectos de inversión, previamente dictaminada por la Unidad de Planeación y Prospectiva, con sus respectivas fuentes de financiamiento a fin de que puedan ser presupuestadas en el ejercicio fiscal correspondiente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+LIX.- Revisar y autorizar la factibilidad financiera para la ejecución del gasto de inversión que se proyecte en los municipios, así como en las dependencias y entidades de la Administración Pública Estatal, en apego a la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+LX.- Coordinar la programación y actualización presupuestal del gasto de inversión para el ejercicio correspondiente al programa financiero calendarizado, de conformidad a la Legislación aplicable vigente;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+LXI.- Aplicar la normatividad establecida para el gasto federalizado en materia de programación, presupuestación y evaluación financiera;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+LXII.- Vigilar y evaluar, en coordinación con la Secretaría de Contraloría, que los programas y proyectos de inversión de las dependencias y entidades de la Administración Pública Estatal, se financien conforme a las reglas de operación aplicables a cada fondo;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+LXIII.- Programar y autorizar los recursos destinados a los programas de inversión de las dependencias y entidades de la Administración Pública del Estado, y establecer los mecanismos de colaboración y coordinación con los Municipios para estos propósitos, en materia de programación y presupuestación, de conformidad a los lineamientos y criterios que la Secretaría haya emitido; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+LXIV.- Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
 
 ###### Artículo 26.
 
@@ -413,165 +559,67 @@ I.- Coordinar, ejecutar, evaluar, proponer y dar seguimiento a la política de d
 
 II.- Planear, formular, normar, instrumentar, coordinar, supervisar, promover y evaluar los programas de desarrollo social y humano, así como, establecer una efectiva coordinación con las dependencias y entidades de la Administración Pública Estatal, del Gobierno Federal y de los Gobiernos Municipales para la ejecución de programas, obras y acciones que contribuyan al mejoramiento de la calidad de vida de los hidalguenses y, muy especialmente, el desarrollo de los grupos socialmente vulnerables, promoviendo bajo la coordinación de las autoridades competentes, la elaboración e integración uniforme de los indicadores de evaluación y desempeño que correspondan a los programas sociales de su responsabilidad;
 
-III.- Diseñar, impulsar, promover, ejecutar, supervisar y evaluar en coordinación con las autoridades competentes, las políticas públicas enfocadas a reducir la pobreza y fomentar mejoras en la calidad y nivel de vida de la población indígena, a través de programas sectoriales y especiales que determine el Titular del Poder Ejecutivo Estatal;
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 IV.- Promover y contribuir al desarrollo integral del sector social de la economía mediante el diseño de estrategias que coadyuven e impulsen la sustentabilidad del sector social de la economía, a través de la identificación de fuentes de financiamiento preferenciales, así como de la implementación de apoyos para la capacitación, asesoría, asistencia técnica y operativa que requieran los grupos vulnerables en el Estado, para la realización de proyectos económicamente sustentables, solicitando la intervención de las autoridades de la Administración Pública Federal, Estatal y Municipales (sic) competentes en la materia, de conformidad a la legislación aplicable vigente;
 
 V.- Promover al sector social de la economía a través de apoyar la capacitación, asesoría, apoyo técnico y operativo que requieran las poblaciones indígenas y los grupos marginados en el Estado, para el diseño, financiamiento y la realización de proyectos productivos sustentables y sostenibles;
 
-VI.- Formular, normar y coordinar las políticas de apoyo a la participación de los grupos vulnerables de población, en especial de los pueblos y comunidades indígenas, en los diversos ámbitos del desarrollo social, para promover su participación activa y plena en la vida económica y política del Estado, así como el fomento y preservación de sus costumbres y cultura como parte de su desarrollo con base en los principios de equidad y de igualdad de oportunidades, trato e impartición de justicia, estableciendo convenios de colaboración y coordinación con las autoridades de la administración Pública Estatal competentes en la materia
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VII.- Instrumentar, controlar, supervisar y emprender, en coordinación con las autoridades competentes y tomando en cuenta la participación de las etnias y de los núcleos involucrados; los programas de desarrollo de la micro y pequeña empresa, industrial, comercial o artesanal, vinculados a la transformación socioeconómica de las comunidades indígenas y grupos vulnerables, promoviendo el desarrollo de nuevas fuentes de financiamiento no consideradas en otros programas;
+VI.- Formular, normar y coordinar las políticas de apoyo a la participación de los grupos vulnerables de la población, como parte de su desarrollo con base en los principios de inclusión, equidad e igualdad de oportunidades, trato e impartición de justicia, estableciendo acuerdos de colaboración y coordinación con las autoridades de la Administración Pública Estatal competentes en la materia;
 
-VIII.- Intervenir en coordinación con las dependencias competentes, en la suscripción de convenios, contratos, anexos y demás disposiciones que en la materia de su competencia sean aplicables en el Estado, ejerciendo las facultades y funciones derivadas de los mismos, además de promover el establecimiento de vínculos institucionales con la Federación, entidades federativas y los municipios, a efecto de garantizar su eficacia y ejecución oportuna;
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-IX.- Colaborar, en apoyo a la Secretaría de Planeación, Desarrollo Regional y Metropolitano, en las materias de su competencia, en la elaboración del Plan Estatal de Desarrollo, así como en el ejercicio de los programas, conforme a sus propias facultades;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-X.- Impulsar el desarrollo social y humano de los grupos en situación de vulnerabilidad o que por diferentes factores enfrentan situaciones de desigualdad o discriminación, promoviendo la obtención de bienes y recursos financieros, provenientes de la iniciativa privada, organizaciones no gubernamentales y de organismos internacionales públicos y privados, como una fuente complementaria a los recursos públicos destinados a dicho objeto, observando las disposiciones aplicables, establecidas por la Secretaría de Finanzas y Administración;
+VIII.- Intervenir en coordinación con las dependencias competentes, en la suscripción de convenios, contratos, anexos y demás disposiciones que en la materia de su competencia sean aplicables en el Estado, con excepción de los relativos a adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obras, ejerciendo las facultades y funciones derivadas de los mismos, además de promover el establecimiento de vínculos institucionales con la Federación, entidades federativas y los municipios, a efecto de garantizar su eficacia y ejecución oportuna;
+
+IX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X.- Impulsar y promover el acceso a bienes y recursos financieros, provenientes de la iniciativa privada, organizaciones no gubernamentales y de organismos nacionales e internacionales públicos y privados, como fuente complementaría a los recursos públicos destinados a los grupos en situación de vulnerabilidad o que por diferentes factores enfrentan situaciones de desigualdad o discriminación, observando las disposiciones aplicables en la materia;
 
 XI.- Promover, en el ámbito de su competencia, acciones en los municipios dirigidas al desarrollo de su potencial productivo, a favor de sus grupos vulnerables y al aprovechamiento de los recursos con que cuenta;
 
 XII.- Promover, apoyar y asesorar a los grupos sociales organizados, en su participación en la ejecución de obras y acciones, de conformidad con la legislación aplicable en la materia de desarrollo social;
 
-XIII.- Formular, en coordinación con la Secretaría de Planeación, Desarrollo Regional y Metropolitano, así como con la Secretaría de Finanzas y Administración, el presupuesto correspondiente a los programas sociales de su competencia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XIV.- Promover la constitución de fondos de coinversión social, con recursos provenientes de organismos internacionales y organizaciones no gubernamentales, para apoyar el desarrollo de los programas sociales a favor de los grupos más vulnerables de la Entidad, estableciendo las reglas de operación de los mismos para su formulación y ejecución, observando las disposiciones aplicables establecidas por la Secretaría de Finanzas y Administración;
+XIII.- Formular, en coordinación con la Secretaría de Finanzas Públicas, el presupuesto correspondiente a los programas sociales de su competencia;
 
-XV.- Colaborar en la elaboración de Plan Estatal de Desarrollo, así como en la formulación de los programas sectoriales y especiales objeto de su responsabilidad, de conformidad a las directrices que establezca la Secretaría de Planeación, Desarrollo Regional y Metropolitano, así como en el ejercicio de los programas, conforme a sus propias facultades;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XVI.- Intervenir, en coordinación con las autoridades competentes del Estado, en los procedimientos judiciales y administrativos en el que la Secretaría sea parte o tenga interés jurídico de conformidad con las facultades que le otorguen los ordenamientos vigentes y convenios celebrados por la administración pública estatal, con la Federación y los municipios; y
+XIV.- Promover la constitución de fondos de coinversión social, con recursos provenientes de organismos internacionales y organizaciones no gubernamentales, para apoyar el desarrollo de los programas sociales a favor de los grupos más vulnerables de la población en la Entidad, estableciendo las reglas de operación de los mismos para su formulación y ejecución, observando las disposiciones aplicables en la materia;
 
-XVII.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XV.- Colaborar en la elaboración de Plan Estatal de Desarrollo, así como en la formulación de los programas sectoriales y especiales objeto de su responsabilidad, de conformidad a las directrices en la materia, así como en el ejercicio de los programas que competen a sus facultades;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Intervenir, en coordinación con las autoridades competentes del Estado, en los procedimientos judiciales y administrativos en el que la Secretaría sea parte o tenga interés jurídico de conformidad con las facultades que le otorguen los ordenamientos vigentes y convenios celebrados por la administración pública estatal, con la Federación y los municipios;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVII.- Realizar de manera coordinada con la Federación las acciones pertinentes para el ejercicio de los programas insertos en el Convenio de Desarrollo Social, debiendo promover la celebración de mecanismos institucionales para la elaboración e integración uniforme de los indicadores derivados de dicho Convenio; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVIII.- Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
 
 ###### Artículo 27.
 
-A la Secretaría de Planeación, Desarrollo Regional y Metropolitano, corresponde el despacho de los siguientes asuntos:
-
-I.- Elaborar, coordinar, ejecutar y evaluar, con la participación de las demás dependencias y entidades del Poder Ejecutivo, los municipios y los sectores social y privado, el Plan Estatal de Desarrollo, los Programas Regionales, Metropolitanos y Sectoriales y aquéllas de carácter especial que fije el Titular del Poder Ejecutivo;
-
-II.- Definir, instrumentar y conducir, con acuerdo del Gobernador del Estado, las políticas sobre las cuales se orientará el Plan Estatal y los programas para el desarrollo de la Entidad;
-
-III.- Establecer la coordinación entre el Plan Estatal y los Programas de Desarrollo Regionales, Metropolitanos, Sectoriales y Especiales que genere el Gobierno del Estado, con los de la Administración Pública Federal y los municipios en la Entidad, en el marco del Sistema Estatal de Planeación Democrática;
-
-IV.- Coordinar las actividades del Comité de Planeación para el Desarrollo del Estado de Hidalgo, así como los comités equivalentes a nivel regional y municipal, representando en el ámbito de sus atribuciones al Gobernador del Estado ante la Federación en el ejercicio de los programas insertos en el Convenio de Desarrollo Social; debiendo promover la celebración de mecanismos de coordinación institucional con las dependencias, entidades y unidades de apoyo de la Administración Pública Estatal para la elaboración e integración uniforme de los indicadores de evaluación y desempeño que correspondan, de conformidad a la legislación aplicable en la materia;
-
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
-
-V.- Promover e instrumentar estrategias de descentralización y desconcentración hacia las regiones, Municipios y comunidades, de los programas y acciones que impacten en el desarrollo regional, debiendo establecer mecanismos de coordinación y concertación con las Dependencias y Entidades de la Administración Pública del Estado de Hidalgo. Asimismo, supervisar las obras públicas que le sean encomendadas y aquellas que obedezcan al cumplimiento de los propósitos del desarrollo de los habitantes de la Entidad;
-
-VI.- Establecer los lineamientos que sirvan de base para elaboración de los programas sectoriales, metropolitanos, regionales y especiales;
-
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
-
-VII.- Coadyuvar en el proceso de formulación, programación, instrumentación y evaluación de los proyectos estratégicos a cargo de la Unidad de Proyectos Estratégicos de la Coordinación del Despacho del Gobernador;
-
-VIII.- Elaborar estudios y proyectos regionales y municipales que permitan apoyar a las comunidades en su desarrollo y productividad para propiciar mejores condiciones de bienestar social y calidad de vida;
-
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
-
-IX.- Participar, en el ámbito de sus facultades, de conformidad a la legislación aplicable en la materia, en la promoción y apoyo de los programas y proyectos orientados a crear y modernizar la infraestructura agrícola, industrial, energética, logística, comercial y de servicios; así como organizar y dirigir las acciones destinadas al impulso y desarrollo regional, estableciendo para tal caso mecanismos de coordinación y vinculación institucional con las Dependencias y Entidades de la Administración Pública Estatal, Municipal y Federal, así como con la sociedad organizada;
-
-X.- Coordinar la vinculación de los municipios, con las dependencias estatales y federales, en el establecimiento de infraestructura, unidades de servicio y acciones que impulsen el desarrollo regional;
-
-XI.- Coordinar con los ayuntamientos, la integración, seguimiento y evaluación de los programas objeto de los Convenios Municipales de Desarrollo Regional, representando en ellos al Ejecutivo Estatal;
-
-XII.- Promover la participación comunitaria en la ejecución de obras y acciones de competencia de la Secretaría;
-
-XIII.- Formular y proponer al Ejecutivo del Estado la celebración, y en su caso celebrar convenios de Coordinación con la Administración Pública Federal, Estatal y Municipal, que fortalezcan la planeación del desarrollo regional y metropolitano;
-
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XIV.- En apoyo del Ejecutivo Estatal, definir, establecer, dirigir y coordinar el establecimiento de las prioridades regionales, a través de la integración de la cartera de programas y proyectos de inversión, a realizarse en el ejercicio fiscal correspondiente;
-
-XV.- Promover, desarrollar, coordinar, supervisar y controlar el Sistema de Información Estadística y Geográfica del Gobierno Estatal, a través del organismo que para tal efecto establezca el Titular del Poder Ejecutivo del Estado, con el propósito de regular, captar, sistematizar, procesar y publicar, en su caso, la información relativa que disponga la legislación aplicable en la materia, así como apoyando el adecuado funcionamiento de sistemas especializados por sector, rama, o especialidad requerida, contribuyendo de esta manera a las tareas de planeación para el desarrollo;
-
-XVI.- Proporcionar, a solicitud expresa de los municipios, la asesoría técnica necesaria para la elaboración y desarrollo de estudios y proyectos municipales, regionales y metropolitanos, en apego a la planeación para el desarrollo estatal y a la legislación aplicable en la materia;
-
-XVII.- Asesorar a los Municipios, en el ámbito de sus facultades y atribuciones, cuando así lo soliciten y en coordinación con las dependencias del ramo correspondiente, en el diseño de políticas y mecanismos técnicos, financieros y de control, para la elaboración de sus Planes y Programas de Desarrollo Municipal y Urbano;
-
-XVIII.- Fijar los lineamientos que se deben observar en la integración de la documentación necesaria para la formulación del informe anual del Titular del Poder Ejecutivo Estatal;
-
-XIX.- Autorizar los dictámenes de validación de factibilidad de las obras, acciones y proyectos productivos que conforme al gasto de inversión se proyecten en los municipios, en las dependencias y entidades de la Administración Pública Estatal, en apego a la normatividad aplicable;
-
-XX.- Emitir los catálogos de precios unitarios que rijan la obra pública y las acciones a ejecutar por los municipios y las dependencias y entidades de la Administración Pública Estatal, observando una actualización, cuando existan incrementos o decrementos sustanciales en los insumos de construcción o en la mano de obra;
-
-XXI.- Autorizar, en el ámbito de sus facultades y atribuciones, los precios unitarios extraordinarios de obra pública y de acciones que estén fuera de catálogo a las dependencias y entidades de la Administración Pública Estatal, así como a los municipios, de conformidad a la legislación aplicable en la materia;
-
-XXII.- Promover, coordinar y evaluar, de manera conjunta, con las dependencias y entidades de la Administración Pública Estatal que correspondan, en el ámbito de sus facultades y atribuciones, las acciones y programas orientados al desarrollo de las zonas intermunicipales o de conurbación de la Entidad;
-
-XXIII.- Coordinar, dirigir y asesorar los trabajos de las dependencias y entidades de la Administración Pública Estatal, en las negociaciones y acuerdos de carácter regional, así como en las gestiones de tipo intermunicipal, que tengan relación con la planeación del desarrollo del Estado, vigilando el cumplimiento de los acuerdos en el ámbito de su competencia;
-
-XXIV.- Dirigir y promover la formulación y ejecución de las políticas públicas en materia de desarrollo metropolitano; coordinar, dar seguimiento y evaluar el desempeño de las Comisiones Metropolitanas, así como, participar en otras instituciones del sector paraestatal relacionadas con dicho ámbito; además de lo relativo a la ejecución del Plan Estatal de Desarrollo, programas, proyectos, acciones y obras de carácter metropolitano y conurbadas, así como, la realización de estudios, análisis y concertación de proyectos metropolitanos a corto, mediano y largo plazo, en coordinación con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, de conformidad a la legislación aplicable vigente;
-
-XXV.- Elaborar e implementar programas, proyectos, estudios y acciones de desarrollo regional y metropolitano, que permitan dirigir y articular esfuerzos de coordinación, vinculación y colaboración entre los distintos ámbitos de la Administración Pública Federal, Estatal y Municipal, que contribuyan a la realización de un desarrollo integral y sustentable de corto, mediano y largo plazo;
-
-XXVI.- Promover, coordinar y evaluar, de conformidad a la Legislación aplicable vigente, los proyectos de inversión regional e intermunicipal de obras y acciones estatales, cuyo objeto contribuya al fortalecimiento estatal del desarrollo sostenible, procurando el intercambio de información estratégica y la realización de esquemas de colaboración, consulta y asistencia técnica con las dependencias y entidades de la Administración Pública Estatal competentes en la materia;
-
-XXVII.- Realizar y promover investigaciones y estudios para apoyar las actividades de la Administración Pública Estatal en las zonas conurbadas de la Entidad, así como de aquéllas que se deriven de los programas de las comisiones metropolitanas;
-
-XXVIII.- Dirigir, coordinar y establecer las bases y lineamientos en materia de asesoría y asistencia técnica a los municipios del Estado, sobre políticas de desarrollo metropolitano, coordinación regional e intermunicipal, orientadas a fortalecer sus programas de infraestructura y equipamiento urbano, promoviendo una adecuada participación de las instituciones responsables en la materia;
-
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2016)</small>
-
-XXIX.- Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter estatal e intermunicipales;
-
-XXX.- Establecer acuerdos de coordinación y colaboración administrativa con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como, con los representantes del sector privado, que propicien el fortalecimiento de las actividades en materia de información estadística y geográfica en la Entidad;
-
-XXXI.- Instrumentar, administrar y coordinar el sistema estatal de monitoreo de programas federales, integrando y operando la red interinstitucional de enlaces en la materia, vinculándose con la Secretaría de Finanzas y Administración para establecer los mecanismos de coordinación pertinentes que permitan incrementar los niveles de eficiencia institucional y el debido aprovechamiento de los recursos que se proporcionan a través de dichos programas, promoviendo la asistencia y facilitación técnica necesarias a las dependencias y entidades de la Administración Pública Estatal que lo soliciten, a efecto de garantizar el debido cumplimiento de los requisitos y procedimientos que establecen sus reglas de operación; y
-
-> <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XXXII.- Procurar el desarrollo y fortalecimiento de la infraestructura eléctrica, el aprovechamiento eficiente de los recursos energéticos, así como el desarrollo de fuentes alternas de energía;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XXXIII.- Dirigir, establecer, conducir y coordinar el proceso de programación-presupuestación del gasto de inversión para el ejercicio correspondiente en el programa financiero calendarizado, conjuntamente con la Secretaría de Finanzas y Administración, en el ámbito de sus respectivas competencias, de conformidad a la Legislación aplicable vigente;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XXXIV.- Diseñar, establecer, dirigir, coordinar y actualizar, con la participación de la Secretaría de Finanzas y Administración, un sistema de programación del gasto de inversión, acorde con los objetivos del Plan Estatal de Desarrollo, los programas sectoriales, regionales, institucionales y especiales, así como de las necesidades de la Administración Pública del Estado;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XXXV.- Vigilar el cumplimiento de la normatividad establecida para el gasto federalizado en materia de programación, presupuestación y evaluación;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XXXVI.- Otorgar a los Municipios, cuando así lo soliciten, la asesoría y el apoyo técnico necesario para la integración de los expedientes técnicos, la formulación de programas, proyectos y acciones del gasto de inversión;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XXXVII.- Elaborar con la participación de las Dependencias y Entidades de la Administración Pública del Estado, los programas de inversión; además y por delegación del Titular del Ejecutivo, definir el establecimiento de prioridades para la asignación, autorización, aplicación y evaluación de estos recursos en los Municipios y proponer las adecuaciones que se requieran para el eficaz cumplimiento de los objetivos y metas programados;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XXXVIII.- Recibir, revisar, analizar y dictaminar la demanda de obras factibles de financiarse con recursos Federales y Estatales, para la integración de la propuesta de inversión del ejercicio correspondiente, evaluando sus resultados;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XXXIX.- Integrar y actualizar de manera permanente, un sistema de información para el seguimiento de los recursos Federales y Estatales de gasto de inversión, estableciendo los lineamientos y criterios que correspondan, de conformidad a la Legislación vigente aplicable a la materia;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XL.- Vigilar y evaluar, en coordinación con la Secretaría de Contraloría y Transparencia Gubernamental, que los programas de inversión de las Dependencias y Entidades de la Administración Pública Estatal, se realicen conforme a los objetivos y metas programadas;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XLI.- Promover la realización de diagnósticos y estudios técnicos especializados que permitan identificar áreas de oportunidad e incrementar el aprovechamiento de los recursos Federales en beneficio de los proyectos prioritarios, así como adoptar las medidas preventivas necesarias que fortalezcan su ejecución en el Estado; además de procurar la celebración de esquemas de coordinación y asistencia técnica con la Secretaría de Finanzas y Administración para la elaboración de guías e instrumentos técnicos que faciliten a las dependencias el seguimiento, accesibilidad técnica, aprovechamiento oportuno y eficiencia en la canalización de los recursos federales a la Entidad;
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XLII.- Coordinar, programar y autorizar los recursos destinados a los programas de inversión de las Dependencias y Entidades de la Administración Pública del Estado, y establecer los mecanismos de colaboración y coordinación con los Municipios para estos propósitos, conjuntamente con la Secretaría de Finanzas y Administración, en materia de programación y presupuestación, de conformidad a los lineamientos y criterios que la Secretaría de Planeación, Desarrollo Regional y Metropolitano establezca sobre el particular; y
-
-> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2012)</small>
-
-XLIII.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ###### Artículo 28.
 
 A la Secretaría de Obras Públicas y Ordenamiento Territorial, corresponde el despacho de los siguientes asuntos:
 
-I.- Instrumentar y conducir las políticas y programas relativos a obras públicas y comunicaciones bajo las directrices que se determinen en el marco del Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+I.- Instrumentar y conducir las políticas y programas relativos a obras públicas y comunicaciones, bajo las directrices que se determinen en el Plan Estatal de Desarrollo; garantizando que, en la totalidad de sus atribuciones, se apliquen criterios de sostenibilidad de acuerdo al Ordenamiento Ecológico Territorial vigente;
 
 II.- Ejecutar y supervisar, directamente o por contrato con particulares, las obras públicas del Gobierno del Estado, de la Federación o de los Ayuntamientos, que le sean encomendadas;
 
@@ -595,7 +643,9 @@ XI.- Participar en el desarrollo de las comunicaciones en el Estado y formular y
 
 XII.- Construir y conservar por sí misma y con la cooperación que se acuerde con el Gobierno Federal, las carreteras, caminos, puentes, centrales de autotransporte, aeropuertos e infraestructura estatales;
 
-XIII.- Proyectar, construir, reconstruir, ampliar, modernizar, operar, administrar, explotar, rehabilitar y conservar por sí o por terceros, mediante financiamiento del Estado o de particulares, a través del otorgamiento de concesiones, contratos, permisos o autorizaciones según sea el caso, en términos de las disposiciones aplicables, las carreteras libres o de cuota, caminos, puentes e infraestructura de competencia estatal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIII.- Proyectar, construir, reconstruir, ampliar, modernizar, operar, administrar, explotar, rehabilitar, y conservar por sí o por terceros, mediante financiamiento del Estado o de particulares las carreteras libres o de cuota, caminos, puentes e infraestructura de competencia estatal. Las concesiones, contratos, permisos o autorizaciones requeridas, serán otorgadas por la autoridad competente según sea el caso, en términos de las disposiciones aplicables;
 
 XIV.- Otorgar, revocar, cancelar, suspender, modificar y dar por terminadas las concesiones, permisos, autorizaciones y explotación a que se refiere la fracción anterior, vigilando e inspeccionando su cumplimiento y operación en los términos de la Leyes aplicables;
 
@@ -641,7 +691,13 @@ XXXIV.- Establecer políticas e implementar acciones de coordinación institucio
 
 XXXV.- Asesorar y otorgar la asistencia técnica para la creación y funcionamiento de los organismos descentralizados estatales y municipales, cuando estos últimos lo soliciten, encargados de la prestación de los servicios públicos de suministro de agua potable, drenaje, alcantarillado y tratamiento de aguas residuales, de conformidad a la Legislación aplicable en la materia;
 
-XXXVI.- Las demás que señalen las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXXVI.- Proponer los catálogos de precios unitarios y precios unitarios extraordinarios que rijan la obra pública y las acciones a ejecutar por los municipios y las dependencias y entidades de la Administración Pública Estatal, observando una actualización, cuando existan incrementos o decrementos sustanciales en los insumos de construcción o en la mano de obra; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXXVII.- Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
 
 ###### Artículo 29.
 
@@ -711,7 +767,7 @@ XXXI.- Convenir con la banca de desarrollo nacional, programas de financiamiento
 
 XXXII.- Diseñar, proponer e implementar, en su caso, fideicomisos, fondos y otros instrumentos de intermediación financiera para el apoyo crediticio y desarrollo de los sectores productivos, estableciendo mecanismos de coordinación y colaboración con las autoridades competentes;
 
-XXXIII.- Contratar servicios de empresas de consultoría y asistencia técnica, en apoyo al cumplimiento de los objetivos y funciones de la Secretaría;
+XXXIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 XXXIV.- Establecer y promover la modernización y el mejoramiento de sistemas e infraestructura para el abasto y el comercio interior;
 
@@ -719,11 +775,19 @@ XXXV.- Realizar estudios y análisis históricos, descriptivos y prospectivos, d
 
 XXXVI.- Integrar un Sistema de Información Económica y de Registro Estadístico Empresarial, que soporte y favorezca la toma de decisiones de los sectores público, privado y social en materia de desarrollo económico y metropolitano, coordinándose con las autoridades competentes de la Administración Pública Estatal, a efecto de sistematizar y homologar los criterios para la integración y procesamiento de la información en esta materia;
 
-XXXVII.- Suscribir los instrumentos jurídicos pertinentes, para la consolidación de los objetivos de la Secretaría y los que, por delegación o representación del Ejecutivo del Estado, se requieran;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXXVII.- Suscribir los instrumentos jurídicos pertinentes, para la consolidación de los objetivos de la Secretaría y los que, por delegación o representación del Ejecutivo del Estado, se requieran, con excepción de los relativos a adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obras;
 
 XXXVIII.- (DEROGADA, P.O. 9 DE JULIO DE 2012)
 
-XXXIX.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXXIX.- Impulsar el desarrollo y fortalecimiento de la infraestructura eléctrica, el aprovechamiento eficiente de los recursos energéticos, así como el desarrollo de fuentes alternas de energía; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XL.- Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
 
 ###### Artículo 30.
 
@@ -747,7 +811,9 @@ VIII.- Coadyuvar con la dependencia responsable de la Administración Pública F
 
 IX.- Evaluar, dictaminar y dar trámite a las manifestaciones de impacto ambiental, de proyectos y desarrollos que presenten los sectores público, social y privado, estableciendo los criterios, lineamientos y procedimientos necesarios que garanticen, en la esfera de sus atribuciones, el cumplimiento irrestricto de los principios de legalidad, oportunidad y eficacia jurídica;
 
-X.- Inspeccionar, vigilar y promover, en coordinación con las autoridades competentes en la materia de la Administración Pública Federal, Estatal y Municipal, el cumplimiento de las leyes, normas y lineamientos relacionados con la protección, preservación y sustentabilidad de los recursos naturales, medio ambiente, aguas, bosques, flora y fauna silvestre, terrestre y acuática, y pesca; imponiendo, en su caso, las sanciones procedentes, que establezca el órgano desconcentrado de la Secretaría, de conformidad a la legislación y reglamentación aplicable vigente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X.- Inspeccionar, vigilar, promover y sancionar, en coordinación con las autoridades competentes en la materia de la Administración Pública Federal, Estatal y Municipal, el cumplimiento de las leyes, normas y lineamientos relacionados con la protección, preservación y sostenibilidad de los recursos naturales, medio ambiente, aguas, bosques, flora y fauna silvestre, terrestre y acuática, y pesca; imponiendo, en su caso, las sanciones procedentes, por si o las que establezca el órgano desconcentrado de la Secretaría, de conformidad a la legislación y reglamentación aplicable vigente;
 
 XI.- Dar cumplimiento a los compromisos de carácter intergubernamental derivados del diseño, instrumentación, expedición, conducción, evaluación, ejecución y difusión de las políticas; los programas, acciones y estrategias en materia de preservación y protección al ambiente, el equilibrio ecológico, los recursos naturales y el patrimonio natural del Estado que contengan los convenios firmados por el Estado con la Federación, las Entidades Federativas y los Municipios;
 
@@ -779,9 +845,21 @@ XXIV.- Coordinar y dirigir la formulación, ejecución y actualización de la Es
 
 XXV.- Estimular que las instituciones de educación superior y los centros de investigación realicen programas de formación de especialistas, proporcionen conocimientos ambientales e impulsen la investigación científica y tecnología en la materia, y en coordinación con la Secretaria de Educación Pública, fortalecer los contenidos ambientales de planes y programas de estudios y los materiales de enseñanza de los diversos niveles y modalidades de educación;
 
-XXVI. Promover la participación social y de la comunidad científica, en la formulación, aplicación y vigilancia de la política ambiental y concertar acciones e inversiones con los sectores social y privado, para la preservación, protección, restauración y aprovechamiento del ambiente; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XXVII.- Las demás que señalen las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
+XXVI.- Promover la participación social y de la comunidad científica, en la formulación, aplicación y vigilancia de la política ambiental y concertar acciones e inversiones con los sectores social y privado, para la preservación, protección, restauración y aprovechamiento del ambiente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXVII.- Impulsar el desarrollo y fortalecimiento de la infraestructura eléctrica, el aprovechamiento eficiente de los recursos energéticos, así como el desarrollo de fuentes alternas de energía;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXVIII.- Fomentar, validar y vigilar las políticas públicas establecidas en materia de uso eficiente, mejoramiento, y operación de los sistemas de agua potable, alcantarillado y saneamiento en zonas del Estado, procurando así, la gestión integral de las cuencas hidrológicas; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXIX.- Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
 
 ###### Artículo 31.
 
@@ -791,9 +869,13 @@ I.- Instrumentar y conducir, en coordinación con las dependencias y entidades c
 
 II.- Dirigir, coordinar, fomentar y apoyar el desarrollo de las políticas y programas de producción y comercialización de los productos forestales destinados al mercado, promoviendo la formulación de estrategias y programas de apoyo y asistencia técnica en favor de los productores forestales, a efecto de alcanzar una mayor productividad y competitividad comercial de las áreas y regiones productoras vinculadas al sector; participando, en su caso, con la Secretaría del Medio Ambiente y Recursos Naturales, en la promoción de acciones tendientes al desarrollo armónico sustentable del sector forestal;
 
-III.- Suscribir, en el ámbito de su competencia, por delegación expresa del Titular del Poder Ejecutivo Estatal, convenios y contratos con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal; instituciones educativas de educación media y superior y organizaciones no gubernamentales, ejerciendo las atribuciones y obligaciones que al respecto se deriven de dichos instrumentos jurídicos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV.- Elaborar, en coordinación con la Secretaría de Planeación, Desarrollo Regional y Metropolitano, los estudios e inventarios relativos al potencial productivo de las regiones del Estado, a efecto de coadyuvar en la planeación de su desarrollo y en la ejecución de proyectos productivos sustentables; así como coadyuvar con la Secretaría de Medio Ambiente y Recursos Naturales, en la integración de los estudios vinculados con los recursos naturales disponibles, a fin de asegurar su óptima utilización y el mejoramiento del medio ambiente;
+III.- Suscribir, en el ámbito de su competencia, por delegación expresa del Titular del Poder Ejecutivo Estatal, convenios y contratos, con excepción de los relativos a adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obras, con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal; instituciones educativas de educación media y superior y organizaciones no gubernamentales, ejerciendo las atribuciones y obligaciones que al respecto se deriven de dichos instrumentos jurídicos;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV.- Elaborar, en coordinación con la Unidad de Planeación y Prospectiva, los estudios e inventarios relativos al potencial productivo de las regiones del Estado, a efecto de coadyuvar en la planeación de su desarrollo y en la ejecución de proyectos productivos sostenibles; así como coadyuvar con la Secretaría de Medio Ambiente y Recursos Naturales, en la integración de los estudios vinculados con los recursos naturales disponibles, a fin de asegurar su óptima utilización y el mejoramiento del medio ambiente;
 
 V.- Proporcionar información en las materias de su competencia, a las dependencias y entidades de la Administración Pública Estatal;
 
@@ -831,11 +913,15 @@ XXI.- Impulsar acciones encaminadas a realizar estudios y proyectos estratégico
 
 XXII.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 32.
 
-A la Secretaría de Turismo y Cultura, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Turismo, corresponde el despacho de los siguientes asuntos:
 
-I.- Formular, conducir, coordinar, vigilar y evaluar las políticas de desarrollo turístico, culturales y de las artes que se realicen en el Estado, estableciendo mecanismos de coordinación con las autoridades competentes de la Administración Pública Federal, Estatal y Municipal, además de promover convenios de colaboración, intercambio y de asistencia técnica, con organizaciones no gubernamentales, instituciones y organismos internacionales especialistas en estas materias;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+I.- Formular, conducir, coordinar, vigilar y evaluar las políticas de desarrollo turístico, alineadas al Plan Estatal de Desarrollo, estableciendo mecanismos de coordinación con la Administración Pública Federal, Estatal y Municipal, además de promover convenios de colaboración, intercambio y de asistencia técnica, con organizaciones no gubernamentales, instituciones y organismos internacionales en materia de desarrollo turístico;
 
 II.- Promover en coordinación con los municipios, las zonas de desarrollo turístico sustentable en el Estado y formular conjuntamente con los organismos rectores en las materias de desarrollo regional, metropolitano, urbano, sustentable, de ecología y del agua en la Entidad, los planes maestros de desarrollo turístico y la declaratoria respectiva;
 
@@ -859,25 +945,35 @@ XI.- Promover la capacitación, investigación y desarrollo tecnológico en mate
 
 XII.- Formular y difundir la información oficial en materia de turismo; coordinar la publicidad que efectúen las autoridades estatales y municipales y promover la que desarrollen los sectores social y privado en la materia;
 
-XIII.- Formular y dirigir la estrategia de promoción turística y cultural del Estado, a través de la elaboración anual de un Plan de Mercadotecnia, Relaciones Públicas, Comercialización y Difusión que contendrá de manera ordenada las estrategias en materia de campañas promocionales, programas y acciones relativos en estas materias;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIII.- Implementar los programas anuales en materia de Mercadotecnia, Relaciones Públicas, Comercialización y Difusión que orienten las acciones de este sector al crecimiento y desarrollo turístico en las distintas regiones del estado, en alineación al Plan Estatal de Desarrollo y bajo criterios de sostenibilidad;
 
 XIV.- Organizar en coordinación con otras dependencias y entidades del ejecutivo en su caso, ferias, exposiciones y certámenes en las materias que sean de su competencia, así como participar en congresos, seminarios y reuniones de trabajo que se realicen dentro y fuera del Estado;
 
-XV.- Organizar, fomentar y estimular el sector artesanal, como complemento del desarrollo turístico;
+XV.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 XVI.- Desarrollar y operar, a través del Sistema Estadístico de Información Turística del Estado de Hidalgo, el acopio, recolección, ordenamiento y procesamiento de la información cuantitativa y cualitativa del sector, estableciendo los mecanismos de coordinación y vinculación con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal;
 
-XVII.- Planear, programar, promover y ejecutar, en coordinación con las dependencias y Entidades de la Administración Pública Federal, Estatal y Municipal, el desarrollo, modernización y rescate del patrimonio e infraestructura cultural y turística del Estado, que permita una mayor competitividad de los servicios turísticos, la preservación, mantenimiento y aprovechamiento sustentable y racional del patrimonio cultural, la creación de empleos y el fortalecimiento de las actividades turísticas y culturales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XVIII.- Fomentar el desarrollo de nuevos productos turísticos que coadyuven en la generación de empleos y en la preservación del entorno natural, cultural e histórico de las comunidades y regiones del Estado;
+XVII.- Planear, programar e instrumentar los mecanismos y acciones para impulsar el desarrollo, modernización y rescate de la infraestructura turística del Estado, enfocada al incremento de la calidad de los servicios, el fortalecimiento de competitividad de este sector y la generación de empleos;
 
-XIX.- Fomentar el desarrollo del turismo sustentable a través de la conservación y aprovechamiento racional de los recursos naturales y atractivos turísticos, así como, del patrimonio cultural, histórico nacional, económico y social; en coordinación con otras dependencias y entidades de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVIII.- Fomentar el desarrollo de nuevos productos y servicios turísticos que coadyuven en la generación de empleos y en la preservación del entorno natural e histórico de las comunidades y regiones del Estado bajo criterios de sostenibilidad y en coordinación con las instancias competentes;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIX.- Fomentar el desarrollo del turismo sostenible a través de la conservación y aprovechamiento racional de los recursos naturales y atractivos turísticos; en coordinación con otras dependencias y entidades de la Administración Pública Estatal, municipal y federal;
 
 XX.- Promover y apoyar la coordinación de los prestadores de servicios turísticos para su integración en organismos empresariales relacionados con la actividad, fomentando así su participación en el desarrollo turístico de la entidad;
 
 XXI.- Fomentar la inversión en materia turística de capitales nacionales y extranjeros;
 
-XXII.- Promover el turismo social y contribuir en la preservación del patrimonio histórico y cultural del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXII.- Promover el turismo social y contribuir en la preservación del patrimonio histórico del Estado de Hidalgo, bajo criterios de sostenibilidad y en coordinación con las instancias competentes;
 
 XXIII.- Promover y participar en programas de desarrollo y promoción turística federal, estatal y municipal, así como, con otras entidades federativas y del extranjero;
 
@@ -891,9 +987,79 @@ XXVII.- Fijar e imponer de acuerdo a las leyes y reglamentos, el tipo y monto de
 
 XXVIII.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 32 Bis.
+
+A la Secretaría de Cultura corresponde el despacho de los siguientes asuntos:
+
+I. Promover el derecho de todas las personas a participar de la vida cultural y a gozar de los beneficios del desarrollo cultural;
+
+II. Elaborar y conducir la política estatal en materia de cultura con la participación que corresponda a otras dependencias y entidades de la Administración Pública Estatal;
+
+III. Conducir la elaboración del Programa Estatal de Cultura, de conformidad con las disposiciones jurídicas aplicables y su alineación con el Plan Estatal de Desarrollo, así como su implementación y evaluación;
+
+IV. Preservar el patrimonio cultural tangible e intangible del Estado, como elemento fundamental de la identidad hidalguense;
+
+V. Promover la cultura como actividad económica y parte del aparato productivo del Estado y crear mecanismos y herramientas para generar el financiamiento de la misma;
+
+VII. Fortalecer el apoyo a los creadores, gestores y promotores culturales;
+
+VIII. Coordinar, conforme a las disposiciones jurídicas aplicables, las acciones que realizan las unidades administrativas e instituciones públicas pertenecientes a la Administración Pública Estatal centralizada y paraestatal en materias de:
+
+a) Investigación científica sobre antropología e historia relacionada principalmente con la población del Estado y con la conservación y restauración del patrimonio cultural, arqueológico e histórico, así como el paleontológico; la protección, conservación, restauración y recuperación de ese patrimonio y la promoción y difusión de dichas materias; y,
+
+b) Fomento, estímulo, creación, educación profesional artística y literaria, investigación y difusión de las bellas artes en las ramas de la música, las artes plásticas, las artes dramáticas y la danza, las bellas letras en todos sus géneros y la arquitectura;
+
+IX. Organizar y administrar bibliotecas públicas y museos, exposiciones artísticas, congresos y otros eventos de interés cultural;
+
+X. Proponer programas de educación artística a la Secretaría de Educación Pública, que se impartan en las escuelas e institutos oficiales, incorporados o reconocidos para la enseñanza y difusión de las bellas artes y de las artes populares;
+
+XI. Diseñar estrategias, mecanismos e instrumentos, así como fomentar la elaboración de programas, proyectos y acciones para promover y difundir la cultura, la historia, la gastronomía y las artes, así como impulsar la formación de nuevas audiencias, en un marco de participación corresponsable de los sectores público, social y privado;
+
+XII. Promover los medios para la difusión, la generación de información y el desarrollo de la cultura, atendiendo la diversidad cultural en todas sus manifestaciones y expresiones;
+
+XIII. Planear, dirigir y coordinar las tareas relacionadas con la preservación y rescate cultural de las lenguas indígenas;
+
+XIV. Promover e impulsar la investigación, conservación y promoción de la historia, las tradiciones y el arte popular;
+
+XV. Fomentar las relaciones de orden cultural con otros estados de la República y países; facilitar la celebración de convenios de intercambio de educandos en las especialidades de las artes y la cultura universal; y definir la proyección de la cultura hidalguense en el ámbito internacional, tanto bilateral como multilateral, con la colaboración de la Secretaría de Relaciones Exteriores, sus embajadas y consulados en el extranjero;
+
+XVI. Promover la producción cinematográfica, de radio y televisión y en la industria editorial sobre temas de interés cultural y artístico y de aquellas tendientes al mejoramiento cultural y la propiedad del idioma nacional, así como diseñar, promover y proponer directrices culturales y artísticas en dichas producciones;
+
+XVII. Estimular el desarrollo y mejoramiento de las artes escénicas en el Estado, la generación de industrias creativas y de emprendimiento cultural, así como organizar concursos para autores, actores y escenógrafos;
+
+XVIII. Gestionar becas para realizar investigaciones o completar ciclos de estudios relacionados con la cultura y las artes en el extranjero;
+
+XIX. Promover e impulsar, en coordinación con otras dependencias, el uso de las tecnologías de la información y comunicación para la difusión y desarrollo de la cultura, así como de los bienes y servicios culturales que presta el Estado, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa, conforme a las disposiciones aplicables;
+
+XX. Promover la conservación, rescate y resguardo de los monumentos arqueológicos, artísticos e históricos, ubicados en el Estado y promover el establecimiento de proyectos integrales de sostenibilidad para su cuidado y protección, de conformidad con las leyes federales y estatales aplicables;
+
+XXI. Organizar, controlar y mantener actualizado el registro de la propiedad literaria y artística, así como promover el respeto a los derechos de autor y conexos de conformidad con lo dispuesto en la Ley Federal del Derecho de Autor;
+
+XXII. Formular el catálogo del patrimonio histórico estatal;
+
+XXIII. Formular y manejar el catálogo de los monumentos estatales;
+
+XXIV. Organizar y administrar museos históricos, arqueológicos y artísticos, pinacotecas y galerías, a efecto de cuidar la integridad, mantenimiento y conservación de tesoros históricos y artísticos del patrimonio cultural del Estado;
+
+XXV. Establecer consejos de asesores, de carácter interinstitucional, en los que también podrán participar especialistas en las materias competencia de la Secretaría;
+
+XXVI. Coadyuvar en la celebración de convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, nacionales e internacionales, en asuntos de su competencia;
+
+XXVII. Diseñar y operar las estrategias para la preservación y rescate de las artesanías del Estado, así como organizar, fomentar y estimular el desarrollo del sector artesanal, mediante la instrumentación de programas de capacitación, certificación e innovación de los procesos productivos artesanales, respetando las costumbres y generando desarrollo entre las comunidades de artesanos;
+
+XXVIII. Coadyuvar en el diseño y celebración de mecanismos directos de intercambio comercial entre los artesanos hidalguenses y la población, a fin de difundir los productos artesanales, promoviendo la realización de concursos, exposiciones y ferias que permitan incorporar la participación directa de los artesanos;
+
+XXIX. Promover, instrumentar, dirigir, supervisar y coordinar acciones con las autoridades competentes, tomando en cuenta la participación de las etnias y de los núcleos involucrados; para el desarrollo e innovación de la micro y pequeña empresa, industrial, comercial, artesanal, creativa o cultural, vinculadas a la transformación socioeconómica de las comunidades indígenas y grupos vulnerables, promoviendo el desarrollo de nuevas fuentes de financiamiento no consideradas en otros programas; y
+
+XXX. Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 33.
 
-A la Secretaría de Contraloría y Transparencia Gubernamental, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Contraloría, corresponde el despacho de los siguientes asuntos:
 
 I.- Planear, programar, establecer, organizar y coordinar el sistema de control y evaluación gubernamental, inspeccionar debidamente el ejercicio y evaluación del gasto público central y paraestatal y su congruencia con el presupuesto de egresos;
 
@@ -935,7 +1101,9 @@ XIX.- Coadyuvar en el asesoramiento y orientación a los gobiernos municipales a
 
 XX.- Designar y remover a los comisarios públicos propietarios y suplentes, que constituyan el órgano de vigilancia de las Entidades Paraestatales, así como normar y controlar su desempeño;
 
-XXI.- Designar, remover y coordinar a los titulares de los órganos internos de control de las Secretarías y Entidades Paraestatales y de la Procuraduría General de Justicia, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría y Transparencia Gubernamental, y tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales, representando al titular de dicha Secretaría;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXI.- Designar, remover y coordinar a los titulares de los órganos internos de control de las Secretarías y Entidades Paraestatales y de la Procuraduría General de Justicia, así como a los de las áreas de auditoría, quejas y responsabilidades de tales órganos, quienes dependerán jerárquica y funcionalmente de la Secretaría de Contraloría, y tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales, representando al titular de dicha Secretaría;
 
 XXII.- Recibir y resolver las inconformidades que presenten los proveedores y contratistas del Gobierno del Estado que consideren que sus derechos fueron afectados;
 
@@ -953,7 +1121,7 @@ XXVIII.- Promover la participación ciudadana, a través de la figura de contral
 
 XXIX.- Diseñar y ejecutar las estrategias y mecanismos de vinculación que permitan organizar, capacitar e incorporar a grupos organizados de la sociedad interesados en participar corresponsablemente en la planeación, control y evaluación de las programas y acciones de la Administración Pública Estatal, extendiendo su cobertura al ámbito municipal, en términos de los instrumentos de coordinación que se celebren;
 
-XXX.- Promover y coordinar las acciones de mejora regulatoria y simplificación administrativa, así como de la aplicación y uso de las tecnologías de información y comunicaciones, que contribuyan a dar seguimiento de los asuntos a cargo del Gobernador, mejorar los sistemas de desempeño, productividad y aprovechamiento óptimo de recursos de la gestión gubernamental, tanto estatal como municipal, de conformidad a la legislación y reglamentación aplicable vigente;
+XXX.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 XXXI.- Instrumentar mecanismos para evaluar permanentemente la calidad e impacto de los servicios que prestan las dependencias y entidades de la Administración Pública Estatal, proponiendo la implementación de acciones y medidas para su mejoramiento o corrección;
 
@@ -993,7 +1161,9 @@ VI.- Fomentar una cultura de prácticas alimentarias sanas al interior de los pl
 
 VII.- Representar al Estado ante todo tipo de organismos educativos;
 
-VIII.- Suscribir y vigilar el cumplimiento de los convenios y contratos, que en materia educativa celebre el Estado con la Federación, con otras entidades federativas y con los Municipios, así como con instituciones autónomas y particulares;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Suscribir, con excepción de los relativos a adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios y obras, los convenios y contratos que en materia educativa celebre el Estado con la Federación, con otras entidades federativas, Municipios e instituciones autónomas y particulares, así como, vigilar su cumplimiento;
 
 IX.- Dar seguimiento a los programas con recursos federales que operen en la Entidad, fomentando acciones que permitan incrementar la participación de los recursos asignados, estableciendo las medidas de coordinación, evaluación y control necesarias para su eficiente desempeño, de conformidad a la legislación aplicable en la materia;
 
@@ -1071,7 +1241,9 @@ VIII.- Representar al Gobierno del Estado ante todo tipo de organismos de salud;
 
 IX.- Estudiar, proponer, coordinar, ejecutar y vigilar los convenios de coordinación que en materia de salud celebre el Estado con la Federación, con otras entidades federales, o con los municipios y cualquier institución privada o social que le permitan cumplir con sus objetivos;
 
-X.- Suscribir y vigilar el cumplimiento de los acuerdos, bases, convenios y contratos, que en materia de salud celebre el Estado con la Federación, con otras entidades federativas o con los municipios, así como con instituciones autónomas y particulares;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X.- Suscribir, con excepción de los relativos a adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios y obras, los acuerdos, bases, convenios y contratos, que en materia de salud celebre el Estado con la Federación, con otras entidades federativas o con los municipios, así como con instituciones autónomas y particulares, así como vigilar su cumplimiento;
 
 XI.- Implementar mecanismos de participación social a nivel estatal y municipal que contribuyan al mejoramiento de los servicios de salud en la Entidad;
 
@@ -1217,27 +1389,199 @@ XXVII.- Dirigir, formular e instrumentar programas de capacitación y adiestrami
 
 XXVIII.- Los demás que le fijen expresamente las Leyes y Reglamentos.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 37 Bis.
+
+A la Secretaría de Movilidad y Transporte corresponde el despacho de los siguientes asuntos:
+
+I. Estructurar y dirigir los programas y políticas públicas para el desarrollo de la movilidad, tomando el derecho social al desplazamiento como referente para preservar el desarrollo social, la integración económica, el uso de vías públicas y el transporte como detonante de otros derechos, propiciando la accesibilidad universal y la seguridad en el desplazamiento de las personas, aplicando criterios de sostenibilidad;
+
+II. Elaborar y someter a la aprobación del Gobernador el Programa Sectorial de Movilidad y el Programa de Seguridad Vial, los cuales deberán guardar congruencia con los objetivos, políticas, metas y previsiones establecidas en los planes nacional y estatal de desarrollo del Estado, así como al Ordenamiento Ecológico Territorial vigente, en coordinación con la Unidad de Planeación y Prospectiva;
+
+III. Realizar los estudios necesarios para la creación, redistribución, modificación y adecuación de las vialidades de acuerdo con las necesidades y condiciones impuestas por la planeación del Estado, promoviendo una mejor utilización de las vialidades y el espacio público, bajo criterios de sostenibilidad, brindando prioridad a las personas con discapacidad, al peatón, al ciclista, motociclista y al usuario de transporte público;
+
+IV. Evaluar los estudios de impacto de movilidad de su competencia y, emitir opiniones técnicas o dictámenes para la realización de proyectos, obra y actividades por parte de particulares, de conformidad con las leyes, reglamentos y demás normativa aplicable;
+
+V. Instrumentar, programas y campañas permanentes de cultura de movilidad, encaminados a mejorar las condiciones en que se realizan los desplazamientos, fomentar cambios de hábitos de movilidad y la sana convivencia entre los distintos usuarios de la vía, así como la prevención de hechos de tránsito, en coordinación con otras dependencias;
+
+VI. Estudiar, validar y presentar al Gobernador las propuestas de Innovación tecnológica y el empleo de herramientas e instrumentos de última generación para la planificación, operación, control y mantenimiento del sistema de transporte, mismos que deberán estar alineados a criterios de sostenibilidad;
+
+VII. Generar planes y programas de inversión pública en proyectos de movilidad acordes a los instrumentos de planeación del Estado o que impulsen el desarrollo en la Entidad;
+
+VIII. Proponer al Gobernador, los lineamientos generales de planeación, organización, dirección, ejecución, control y evaluación y los programas, proyectos y políticas del Sistema de Transporte; en coordinación con la Unidad de Planeación y Prospectiva;
+
+IX. Planificar y diseñar áreas de transferencia destinadas a la conexión de los diversos modos de transporte que permitan un adecuado funcionamiento de la movilidad;
+
+X. Realizar o aprobar estudios que sustenten la necesidad de otorgar nuevas concesiones para la prestación del servicio de transporte público de pasajeros y de carga, así como para aprobar el establecimiento de nuevos sistemas, rutas de transporte, y las modificaciones de las ya existentes; tomando como base los objetivos, metas y previsiones establecidas en el Programa Sectorial de Movilidad;
+
+XI. Previo acuerdo del Gobernador, otorgar, expedir, autorizar, modificar, revocar, cancelar, revertir, normar y regular concesiones, permisos y autorizaciones en materia de servicio de transporte y de los servicios auxiliares y conexos de éste, así como de movilidad, vialidad e infraestructura asociada y carretera en coordinación con la Secretaría de Obras Públicas y Ordenamiento Territorial, de conformidad con la leyes y reglamentos de la materia;
+
+XII. Cancelar, extinguir, rescatar, revocar, rescindir o declarar la caducidad de las concesiones, permisos, licencias, autorizaciones, convenios y contratos de las materias de su competencia, que se hubieren otorgado, instaurando, substanciando y resolviendo los procedimientos respectivos;
+
+XIII. Expedir, autorizar, otorgar, revocar, cancelar o extinguir, los documentos y elementos de identificación vehicular; así como las Licencias y Permisos para operar y conducir vehículos con las modalidades y características que la Ley y reglamentos en la materia establezcan;
+
+XIV. Actualizar permanentemente el Registro Público del Transporte, que incluya los vehículos de todas las modalidades del transporte en el Estado de Hidalgo; concesiones; permisos; licencias y permisos para conducir; infracciones y sanciones; representantes, apoderados y mandatarios legales autorizados para realizar trámites y gestiones, relacionados con el transporte y los demás registros que establezcan otros ordenamientos y/o sean necesarios a juicio de la Secretaría;
+
+XV. Proponer al Gobernador del Estado, las tarifas de transporte público de pasajeros en todas sus modalidades previo estudio que se realice conforme a la normatividad de la materia;
+
+XVI. Implantar el sistema electrónico de pago tarifario en las redes de transporte urbano, bajo la constitución de fondos fiduciarios aptos para avalar operaciones de inversión pública y privada en medios, equipamientos e infraestructura, y facilitar la adopción de esquemas sociales y tarifarios direccionados a grupos determinados de usuarios;
+
+XVII. Previo estudio, aprobar las normas técnicas y operativas para la eficiente prestación del Servicio de Transporte y de los Servicios Auxiliares y Conexos que presenten los Organismos;
+
+XVIII. Regular, vigilar y sancionar la prestación de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, de los Servicios Auxiliares y Conexos relacionados con ello y de las autorizaciones y convenios de cualquier tipo que sean relativos a la materia, así como establecer, regular y vigilar las tarifas aplicables a los usuarios y la forma de pago a los prestadores del servicio;
+
+XIX. Controlar y supervisar las operaciones a cargo de los Organismos Públicos Descentralizados sectorizados relacionados con el ejercicio, otorgamiento, transferencia, registro, regulación, vigilancia y sanción o modificación de las concesiones, permisos, autorizaciones y convenios en materia del servicio de transporte y de los servicios auxiliares y conexos que emitan los organismos, en términos de las disposiciones legales y reglamentarias aplicables, contando con el visto bueno del Gobernador del Estado;
+
+XX. Vigilar las acciones de verificación e inspección en la prestación del Servicio de Transporte en el Estado y de los Servicios Auxiliares y Conexos que lleven a cabo los organismos respectivos;
+
+XXI. Supervisar las acciones de verificación e inspección que efectúen los organismos respecto de la inspección documental y físico mecánica de las unidades, Servicios Auxiliares y Conexos, tecnología o infraestructura, a fin de comprobar el cumplimiento de las disposiciones en materia de instalaciones, equipo, aditamentos, sistemas y en general, las condiciones de operación y especificaciones técnicas para la óptima prestación del servicio, o, por acuerdo del Gobernador, ejercerlas directamente la Secretaría, en términos de la Ley de la materia;
+
+XXII. Desarrollar, en coordinación con Seguridad Pública, políticas en materia de control y operación vial, para contribuir a la movilidad de las personas en el Estado de Hidalgo;
+
+XXIII. Promover el equilibrio entre el modelo de desarrollo urbano y el modelo de movilidad, orientando el crecimiento de las ciudades hacia la consolidación de conglomerados compactos y continuos, alentando el uso creciente del transporte público y los modos no motorizados de movilidad plenamente orientados a la sostenibilidad de las ciudades y en apego a los ordenamientos ambientales en coordinación con la Unidad de Planeación y Prospectiva;
+
+XXIV. Coordinar las actividades en materia de vialidad y transporte con las autoridades federales, estatales y municipales, así como con las entidades paraestatales cuya competencia y objeto se relacione con estas materias;
+
+XXV. Participar en los términos que señale el Gobernador, en la planeación y ejecución de acciones coordinadas con la federación, estados y municipios en las zonas conurbadas limítrofes en materia de movilidad y transporte en coordinación con la Unidad de Planeación y Prospectiva;
+
+XXVI. Imponer, determinar y aplicar las sanciones y los montos de las multas, tomando en cuenta la gravedad de la infracción cometida por los concesionarios, permisionarios o a los titulares de una autorización que infrinjan las disposiciones contenidas en la Ley de la materia;
+
+XXVII. Presidir los Órganos de Gobierno de los organismos públicos descentralizados que le sean adscritos o sectorizados;
+
+XXVIII. Crear comisiones, comités o grupos de trabajo temporales o permanentes, para la atención y seguimiento de actividades inherentes a la Secretaría; y
+
+XXIX. Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 37 Ter.
+
+La Unidad de Planeación y Prospectiva, tendrá las siguientes facultades:
+
+I. Instrumentar y operar el proceso de Planeación para el Desarrollo Estatal, en términos de la legislación aplicable y con sujeción a las políticas, objetivos y metas que para tal efecto establezca el Gobernador y se determinen en el Sistema Estatal de Planeación Democrática;
+
+II. Definir las políticas y lineamientos para la orientación y formulación del Plan Estatal de Desarrollo y de los programas que de él se deriven, bajo una orientación a la prospectiva, al equilibrio económico, social y de cuidado del medio ambiente con la concurrencia de las instancias competentes en la materia;
+
+III. Dirigir y operar en términos de la legislación correspondiente el proceso de formulación, instrumentación, seguimiento, evaluación y actualización del Plan Estatal de Desarrollo y definir, en coordinación con la Secretaría de Contraloría, los lineamientos para el control de los objetivos y prioridades en él señalados;
+
+IV. Impulsar la vinculación, coordinación, evaluación y congruencia entre el Plan Estatal de Desarrollo y los programas que genere el Gobierno con los de la administración pública federal y los municipios de la Entidad, en el marco del Sistema Estatal de Planeación Democrática;
+
+V. Proponer y validar las políticas y criterios de acción para la inversión pública a nivel estatal, sectorial, regional y municipal, que permitan una distribución equilibrada y racional de los recursos públicos para los proyectos detonadores del desarrollo;
+
+VI. Formular y proponer al Gobernador, los proyectos de Ley, reglamentos, Decretos, acuerdos, órdenes, convenios y demás disposiciones normativas que fundamenten el proceso de Planeación y prospectiva en la Entidad;
+
+VII. Integrar, instrumentar y conducir proyectos de reorientación de procesos, relacionados con los sistemas de planeación, programación, control y evaluación de acciones susceptibles de modernizarse y desarrollarse;
+
+VIII. Formular y desarrollar en un esquema de coordinación interinstitucional, programas de asesoría, asistencia técnica, apoyo metodológico, capacitación y actualización, dirigidos a servidores públicos del Gobierno y de los municipios que lo soliciten, de manera coordinada con la instancia administrativa correspondiente;
+
+IX. Elaborar, coordinar, ejecutar y evaluar, con la participación de las dependencias y entidades del Poder Ejecutivo, los municipios y los sectores social y privado, el Plan Estatal de Desarrollo, los Programas Regionales, Metropolitanos y Sectoriales y aquellos de carácter especial que fije el Gobernador;
+
+X. Definir, instrumentar y conducir, con acuerdo del Gobernador del Estado, las políticas sobre las cuales se orientará el Plan Estatal de Desarrollo y los programas para el desarrollo de la Entidad;
+
+XI. Establecer la coordinación entre el Plan Estatal y los Programas de Desarrollo Regionales, Metropolitanos, Sectoriales y Especiales que genere el Gobierno del Estado, con los de la Administración Pública Federal, los de otros Gobiernos de los Estados y los municipios en la Entidad, en el marco del Sistema Estatal de Planeación Democrática;
+
+XII. Coordinar las actividades del Comité de Planeación para el Desarrollo del Estado de Hidalgo, así como los comités equivalentes a nivel regional y municipal, representando en el ámbito de sus atribuciones al Gobernador del Estado ante la Federación, debiendo promover la expedición de mecanismos de coordinación institucional con las dependencias, entidades y unidades de apoyo de la Administración Pública Estatal para la elaboración, integración y evaluación uniforme de los indicadores de impacto y desempeño que correspondan, de conformidad a la legislación aplicable en la materia;
+
+XIII. Proponer al Gobernador, la regionalización de la Entidad que para propósitos del desarrollo resulte conveniente;
+
+XIV. Promover e instrumentar estrategias y líneas de acción hacia las regiones, municipios y localidades, a través de los programas y proyectos que impacten en el desarrollo regional, debiendo establecer mecanismos de coordinación y concertación con las dependencias y entidades de la Administración Pública del Estado;
+
+XV. Establecer los lineamientos que sirvan de base para la elaboración de los programas sectoriales, metropolitanos, regionales y especiales; y coadyuvar en el proceso de formulación, programación, instrumentación y evaluación de los proyectos estratégicos; elaborar estudios, proyectos regionales y municipales que permitan apoyar el desarrollo local, bajo mecanismos de coordinación y vinculación institucional con las dependencias y entidades de la Administración Pública Estatal, Municipal y Federal, con la sociedad organizada y en su caso, con otros Estados del País;
+
+XVI. Coordinar la vinculación de los municipios, con las dependencias estatales y federales, en el establecimiento de infraestructura, unidades de servicio y acciones que impulsen el desarrollo regional; y coordinar con los ayuntamientos, la integración, seguimiento y evaluación de los programas objeto de los Convenios Municipales de Desarrollo Regional, representando en ellos al Estado;
+
+XVII. Fungir como área técnica y de validación, sobre los instrumentos de planeación, prospectiva investigación y política pública que las dependencias de la Administración Estatal y organismos, generen con objeto de impulsar el desarrollo integral del Estado;
+
+XVIII. Coadyuvar en la celebración de mecanismos de coordinación institucional, que permitan incrementar el aprovechamiento de los recursos federales y estatales, en beneficio de proyectos prioritarios que presenten las distintas Dependencias y Entidades de la Administración Pública Estatal, y que contribuyan al logro de los objetivos y metas definidos en el Plan Estatal de Desarrollo;
+
+XIX. Formular y proponer al Gobernador la celebración de convenios de coordinación con la Administración Pública Federal, Estatal, Municipal y en su caso, con otros Estados del País, que fortalezcan la planeación del desarrollo regional y metropolitano;
+
+XX. Promover la participación social en las acciones del Estado;
+
+XXI. Desarrollar, coordinar y promover el Sistema de Información Georreferenciada del Gobierno del Estado de Hidalgo, con el propósito de regular, integrar, sistematizar, procesar y difundir, la información proporcionada por las dependencias y entidades de la Administración Pública, y en su caso, la que sea necesaria captar, para la adecuada toma de decisiones, contribuyendo de esta manera a las tareas de planeación para el desarrollo.
+
+En los casos donde las dependencias y entidades de la Administración Pública Estatal cuenten con sistemas de información de cualquier índole, la Unidad de Planeación y Prospectiva valorará si estos deben ser considerados subsistemas del Sistema de Información Georreferenciado del Gobierno del Estado de Hidalgo, en cuyo caso, establecerán de manera conjunta, un programa de homologación técnica y conceptual que los haga compatibles y útiles para la toma de decisiones fundamentada;
+
+XXII. Proporcionar, a solicitud expresa de los municipios, la asesoría técnica necesaria para la elaboración y desarrollo de estudios y proyectos municipales, regionales y metropolitanos, así como participar, en la promoción y apoyo de los programas y proyectos orientados a crear y modernizar la infraestructura necesaria para el desarrollo del Estado, en el ámbito de sus facultades, en apego a la planeación para el desarrollo estatal;
+
+XXIII. Ofrecer a los Municipios la asesoría y el apoyo técnico necesario para la formulación de programas, proyectos y acciones de inversión pública;
+
+XXIV. Asesorar a los Municipios, en el ámbito de sus facultades y atribuciones, cuando así lo soliciten y en coordinación con las dependencias del ramo correspondientes, en el diseño de políticas y mecanismos técnicos y de control, para la elaboración de sus Planes y Programas de Desarrollo Municipal y Urbano;
+
+XXV. Validar los catálogos de precios unitarios y precios unitarios extraordinarios que rijan la obra pública y las acciones a ejecutar por los municipios y las dependencias y entidades de la Administración Pública Estatal, observando una actualización, cuando existan incrementos o decrementos sustanciales en los insumos de construcción o en la mano de obra;
+
+XXVI. Fijar los lineamientos que se deben observar en la integración de la información y documentación necesaria, para la formulación del informe anual del Gobernador;
+
+XXVII. Promover, coordinar y evaluar, de manera conjunta, con las dependencias y entidades de la Administración Pública Estatal que correspondan, en el ámbito de sus facultades y atribuciones, las acciones y programas orientados al desarrollo de las zonas intermunicipales o de conurbación de la Entidad;
+
+XXVIII. Coordinar, dirigir y asesorar los trabajos de las dependencias y entidades de la Administración Pública Estatal, en las negociaciones y acuerdos de carácter regional, así como en las gestiones de tipo intermunicipal, que tengan relación con la planeación del desarrollo del Estado, vigilando el cumplimiento de los acuerdos en el ámbito de su competencia;
+
+XXIX. Dirigir y promover la formulación y evaluación de las políticas públicas en materia de desarrollo metropolitano; coordinar, dar seguimiento y evaluar el desempeño de las Comisiones Metropolitanas, en coordinación con las dependencias de la Administración Pública Estatal y las instituciones del sector paraestatal relacionadas con cada comisión;
+
+XXX. Dar seguimiento a la ejecución de las acciones de gobierno que sobre desarrollo metropolitano contenga del Plan Estatal de Desarrollo, los programas, proyectos, acciones y obras de carácter metropolitano y conurbadas, así como, la realización de estudios, análisis y concertación de proyectos a corto, mediano y largo plazo, en coordinación con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, de acuerdo a sus facultades en la materia;
+
+XXXI. Elaborar programas, proyectos y estudios de planeación y prospectiva, así como evaluar las acciones de desarrollo regional y metropolitano, que permitan dirigir y articular esfuerzos de coordinación, vinculación y colaboración entre los distintos ámbitos de la Administración Pública Federal, Estatal y Municipal, que contribuyan a la realización de un desarrollo integral y sostenible de corto, mediano y largo plazo;
+
+XXXII. Promover y coordinar, de conformidad a la Legislación aplicable vigente, en los proyectos regionales e intermunicipales de obras y acciones estatales, el intercambio de información estratégica, la generación de esquemas de colaboración, consulta, asistencia técnica y validación conjunta entre las dependencias y entidades de la Administración Pública Estatal competentes en la materia, a fin de garantizar un desarrollo equilibrado y sostenible;
+
+XXXIII. Realizar y promover investigaciones y estudios para apoyar las actividades de la Administración Pública Estatal en las zonas conurbadas de la Entidad, así como de aquellas que se deriven de los programas de las comisiones metropolitanas;
+
+XXXIV. Dirigir, coordinar y establecer las bases y lineamientos en materia de asesoría y asistencia técnica a los municipios del Estado, sobre políticas de desarrollo metropolitano, coordinación regional e intermunicipal, orientadas a fortalecer sus programas de infraestructura y equipamiento urbano, promoviendo una adecuada participación y validación conjunta de las instituciones responsables en la materia, a fin de garantizar un desarrollo equilibrado y sostenible;
+
+XXXV. Fomentar la participación ciudadana en la planeación y evaluación de acciones y programas de carácter intermunicipales;
+
+XXXVI. Expedir acuerdos de coordinación y colaboración con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como, con los representantes del sector privado, que propicien el fortalecimiento de las actividades en materia de información estadística y georreferenciada de la Entidad;
+
+XXXVII. Promover la asistencia técnica necesaria a las dependencias y entidades de la Administración Pública Estatal que lo soliciten, a efecto de garantizar el debido cumplimiento de los requisitos y procedimientos que establecen las reglas de operación de los programas públicos;
+
+XXXVIII. Promover la realización de diagnósticos y estudios técnicos especializados que permitan identificar áreas de oportunidad e incrementar el aprovechamiento de los recursos públicos en beneficio de los proyectos prioritarios, así como adoptar las medidas preventivas necesarias que fortalezcan su ejecución en el Estado;
+
+XXXIX. Dictaminar el impacto y rentabilidad social de los proyectos públicos susceptibles de ser financiados en el Estado, bajo un análisis técnico, social y económico, que permita alcanzar los objetivos del Plan Estatal de Desarrollo;
+
+XL. Efectuar análisis, diagnósticos y estudios que permitan al Gobernador, contar con información estratégica y recomendaciones de carácter técnico, así como aprobar e instruir en coordinación con las autoridades competentes de la Administración Pública Estatal, la elaboración de los indicadores de impacto social y desempeño de la gestión gubernamental, con la finalidad de evaluar el alcance de objetivos y metas o la reorientación de las acciones para su cumplimiento;
+
+XLI. Normar, implementar y coordinar el Sistema Estatal de Evaluación y Monitoreo en el marco de la plataforma establecida en el Plan Estatal de Desarrollo y los indicadores estratégicos definidos para tal efecto por las áreas y sectores;
+
+XLII. Coordinar y normar los procesos de evaluación Estratégica y de las acciones implementadas en las áreas de la Administración Pública tendientes a medir el impacto que sus programas y proyectos tienen en el incremento al bienestar social; y
+
+XLIII. Las demás que en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 37 Quáter.
+
+La Oficialía Mayor, tendrá las siguientes facultades:
+
+I. Aplicar las políticas y acciones de disciplina, racionalidad y eficiencia del gasto público, así como los lineamientos que regulen el adecuado desarrollo de las estructuras orgánicas de las dependencias y entidades de la Administración Pública Estatal;
+
+II. Determinar y dar seguimiento a la planeación y ejecución pertinente, eficaz, y eficiente de la administración de los recursos humanos, técnicos y materiales, así como de los servicios y gastos del gobierno que estén alineados a medidas de racionalidad y en congruencia con los objetivos estratégicos del Plan Estatal de Desarrollo;
+
+III. Normar, organizar y coordinar el sistema de contratación y adquisiciones de bienes, obra y servicios que requiera el funcionamiento del Poder Ejecutivo del Estado con apego a las leyes de la materia, así como celebrar contratos de acuerdo a la normatividad establecida;
+
+IV. Determinar y ejecutar las políticas en materia de recursos humanos y vigilar el cumplimiento de las disposiciones que rijan las relaciones entre la Administración Pública del Estado y sus trabajadores;
+
+V. Establecer los lineamientos para el acceso, contratación, capacitación y profesionalización de los trabajadores del Poder Ejecutivo del Estado, así como aplicar las políticas para las remociones, renuncias, licencias y jubilaciones de los mismos;
+
+VI. Normar, organizar y coordinar el esquema escalafonario aplicable a los trabajadores de base del Poder Ejecutivo del Estado;
+
+VII. Dictar la política para el ejercicio de la posesión, administración y conservación de los bienes que conforman el patrimonio del Estado, ejecutando los actos administrativos e interviniendo en los actos jurídicos necesarios para tal efecto;
+
+VIII. Estipular los mecanismos para ejercer actos de dominio, inspección y vigilancia sobre el patrimonio del Estado, de conformidad a lo que establecen los ordenamientos legales vigentes; y señalar las políticas para ejercer el derecho de reversión sobre los bienes otorgados en donación, destino o concesión, con la intervención de las dependencias competentes, salvo en los casos en que la Ley de la materia lo faculte para hacerlo directamente;
+
+IX. Establecer los lineamientos y criterios para la administración de los servicios y los almacenes generales del Poder Ejecutivo;
+
+X. Dirigir, coordinar y regular la formulación, ejecución y difusión de las políticas, planes, programas, proyectos y acciones establecidas en la normatividad vigente al Sistema Estatal de Archivos, que garantice la adecuada administración documental de los archivos del Poder Ejecutivo;
+
+XI. Conformar y administrar el archivo general del Estado, estableciendo y vigilando el cumplimiento de las políticas y lineamientos para la organización, preservación, difusión, guarda y custodia de los acervos documentales;
+
+XII. Actuar como depositario de bienes transferidos al Estado bajo cualquier título; y
+
+XIII. Las demás que, en relación con su competencia, le señale el Gobernador, las leyes, reglamentos, decretos, acuerdos, convenios y disposiciones vigentes.
+
 ###### Artículo 38.
 
-A las Unidades de Apoyo con que cuenta el Titular del Poder Ejecutivo Estatal corresponden el despacho de los siguientes asuntos:
-
-I.- La Secretaría Particular, para coadyuvar con el Gobernador en su relación cotidiana con los distintos sectores, instituciones y otros órdenes de gobierno; siendo responsable también, de coordinar las giras, audiencias, apoyos, y ayudantías del Gobernador, así como de las relaciones públicas y de la administración de los recursos asignados a la oficina del Titular del Ejecutivo Estatal;
-
-II.- La Secretaría Privada, para apoyar en los asuntos que expresamente le asigne el Gobernador, dando oportuno cumplimiento a las instrucciones y órdenes concretas relacionadas con el desahogo de la agenda de trabajo, debiendo mantener actualizada la documentación e información de los asuntos que requiera la atención directa del Gobernador;
-
-III.- La Coordinación del Despacho del Gobernador, para dar cohesión, seguimiento, supervisar, proponer y evaluar el nivel de avance de las instrucciones emitidas por el Gobernador, respecto de asuntos vinculados al cumplimiento oportuno y eficaz de los acuerdos, programas, fondos, proyectos y acciones relativas a la ejecución de medidas específicas de política gubernamental; actuando como secretariado en las reuniones de gabinete con la participación de los titulares de las dependencias y entidades de la Administración Pública Estatal.
-
-La Coordinación del Despacho del C. Gobernador estará asistida y auxiliada por:
-
-a).- La Consejería Jurídica, como órgano técnico y especializado del Gobernador en materia jurídica, encargado de proporcionar consulta, asesoría, asistencia y gestión en todos los asuntos que le sean encomendados por el titular del Ejecutivo del Estado;
-
-b).- La Unidad de Coordinación de Proyectos Estratégicos, realizará tareas de coordinación, control técnico, supervisión y evaluación de los proyectos que sobre este particular le asigne el Gobernador, solicitando la participación de las Autoridades de la Administración Pública central y paraestatal, así como con municipios, cuando así se convenga al respecto, en los términos de la legislación aplicable vigente; y
-
-c).- La Unidad de Asuntos Internacionales, como instancia responsable de integrar y coordinar la agenda de temas y asuntos internacionales de la Administración Pública, así como promover la cooperación internacional, el intercambio en diferentes ámbitos y la cooperación multilateral entre el Estado y diversos organismos internacionales, de conformidad con la legislación aplicable vigente en la materia y en coordinación con las dependencias y entidades del Estado.
-
-IV.- El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública, para dar seguimiento y el debido cumplimiento a los acuerdos establecidos en el Consejo; asimismo y en coordinación con las autoridades estatales competentes, planear, programar y administrar con apego a la normatividad establecida, los recursos asignados a programas y proyectos elegibles para el Consejo Estatal de Seguridad Pública, así como supervisar y evaluar las políticas, programas y acciones emprendidas, a fin de garantizar el oportuno y eficaz cumplimiento de las medidas y acciones de coordinación institucional e intergubernamental en la materia; y
-
-V.- La Representación del Poder Ejecutivo del Estado en el Distrito Federal, para apoyar en sus relaciones institucionales con las autoridades administrativas establecidas en la ciudad sede de los Poderes de la Federación. También para efectuar diversas gestiones ante las autoridades Federales, del Distrito Federal, instancias de gestión pública o ante particulares; (sic)
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ### CAPITULO ÚNICO. ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL Y FIDEICOMISOS
 
@@ -1265,9 +1609,11 @@ Se asimilan a las empresas de participación estatal mayoritaria, las sociedades
 
 Son fideicomisos públicos del Estado, aquellos que constituya el Gobierno del Estado, con el propósito de auxiliar al Poder Ejecutivo en funciones administrativas, con una estructura orgánica análoga a las otras especies de entidades y con un comité técnico.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 42.
 
-El Poder Ejecutivo podrá adscribir las entidades a las dependencias según sus respectivas atribuciones y objetos institucionales, a fin de coordinar su programación y presupuestación, conocer y evaluar su operación y participar en sus órganos de gobierno, sin perjuicio de las atribuciones que en materia de congruencia global con el Plan Estatal de Desarrollo y de expedición de lineamientos generales sobre gasto, financiamiento, control y evaluación corresponden a las Secretarías de Planeación, Desarrollo Regional y Metropolitano, de Finanzas y Administración, de Contraloría y Transparencia Gubernamental.
+El Titular del Ejecutivo podrá adscribir las entidades a las dependencias según sus respectivas atribuciones y objetos institucionales, a fin de coordinar su programación y presupuestación, conocer y evaluar su operación y participar en sus órganos de gobierno, sin perjuicio de las atribuciones que en materia de congruencia global con el Plan Estatal de Desarrollo y de expedición de lineamientos generales sobre gasto, financiamiento, control y evaluación corresponden a la Secretaría Ejecutiva de la Política Pública Estatal, a la Secretaría de Finanzas Públicas, a la Secretaría de Contraloría, a la Oficialía Mayor y a la Unidad de Planeación y Prospectiva.
 
 ## TRANSITORIOS
 
@@ -1356,3 +1702,25 @@ P.O. 1 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 688 QUE REFORMA LA FRACCIÓN XXIX DEL ARTÍCULO 27, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 166 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Gobernador del Estado, emitirá, reformará o adecuará los Reglamentos y Estatutos correspondientes; asimismo presentará al Congreso del Estado la armonización de las leyes y normatividad relativa a lo establecido en el presente Decreto en un plazo de 180 días, contados a partir de la fecha de su publicación.
+
+TERCERO. Los recursos financieros y materiales, así como expedientes, archivos, acervos y demás documentación que se encuentren en las dependencias cuyas funciones cambian por este Decreto a otras, se transferirán a estas a fin de apoyar el cumplimiento de los programas y metas que les correspondan, lo anterior dentro del plazo de 180 días.
+
+La readscripción de personal, en ninguna forma afectará los derechos laborales que hubieren adquirido con la administración pública del Estado.
+
+CUARTO. Los asuntos en trámite que deban pasar de una Secretaría a otra o una entidad de la administración pública, según lo que dispone esta Ley, permanecerán en el estado en que se encuentren, hasta que se incorporen a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
+
+QUINTO. En todos los ordenamientos que señalen a la Secretaría de Planeación, Desarrollo Regional y Metropolitano, se referirá a la Unidad de Planeación y Prospectiva, hasta en tanto se realice la armonización normativa correspondiente.
+
+SEXTO. En todos los ordenamientos que señalen a la Secretaría de Finanzas y Administración, se referirá a la Secretaría de Finanzas Públicas o en su caso a la Oficialía Mayor, hasta en tanto se realice la armonización normativa correspondiente.
+
+SÉPTIMO. En todos los ordenamientos que señalen a la Secretaría de Contraloría y Transparencia Gubernamental, se referirá a la Secretaría de Contraloría, hasta en tanto se realice la armonización normativa correspondiente.
+
+OCTAVO. Las Dependencias del Poder Ejecutivo contempladas en el artículo 13 de esta Ley, integrarán las diversas comisiones, órganos colegiados, consejos, comités y coordinarán a las entidades paraestatales previstas en las disposiciones legales y normativas aplicables, según el ámbito de sus atribuciones.
