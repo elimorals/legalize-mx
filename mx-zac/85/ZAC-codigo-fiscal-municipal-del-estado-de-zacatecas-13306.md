@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-fiscal-municipal-del-estado-de-zacatecas-13306"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-12-29"
-last_updated: "1984-12-29"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO FISCAL MUNICIPAL DEL ESTADO DE ZACATECAS
 
-CODIGO FISCAL MUNICIPAL DEL ESTADO DE ZACATECAS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, PUBLICADO EN EL SUPLEMENTO 16 DEL P.O. DE 31 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE ZACATECAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016 (ABROGADO).
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 29 de diciembre de 1984.
 
@@ -1776,3 +1778,31 @@ LIC. JOSE GUADALUPE CERVANTES CORONA.
 EL DIRECTOR GENERAL DE GOBIERNO
 
 LIC. RAUL RODRIGUEZ SANTOYO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO FISCAL DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil diecisiete, previa publicación en el Periódico Oficial, Órgano del Gobierno Constitucional del Estado Libre y Soberano de Zacatecas.
+
+SEGUNDO. Se abroga el Código Fiscal del Estado de Zacatecas, contenido en el Decreto número 154, publicado en el Tomo XCIV del Periódico Oficial, órgano del Gobierno del Estado, del Sábado 29 de diciembre de 1984.
+
+TERCERO. Se abroga el Código Fiscal Municipal del Estado de Zacatecas, contenido en el Decreto número 155, publicado en el Tomo XCIV del Periódico Oficial, Órgano del Gobierno del Estado, del Sábado 29 de diciembre de 1984.
+
+CUARTO. Los procedimientos de determinación, liquidación y apremio ya iniciados continuarán ventilándose conforme a las disposiciones vigentes en su tiempo; los recursos administrativos que antes de entrar en vigor el presente ordenamiento, se hubieren interpuesto contra el procedimiento o las resoluciones dictadas por las autoridades fiscales, se tramitarán y resolverán conforme a las leyes fiscales vigentes al iniciarse el recurso.
+
+QUINTO. Las infracciones y delitos cometidos durante la vigencia del Código que se abroga, se sancionarán en los términos establecidos por el mismo, a menos que el interesado manifieste su voluntad de acogerse al presente Código por estimarlo más favorable.
+
+SEXTO. Las disposiciones relativas a buzón tributario, medios electrónicos, notificaciones electrónicas y la firma electrónica, así como la establecida en el segundo párrafo del artículo 67 de este Código, entrarán en vigor a partir del uno de enero de dos mil dieciocho.
+
+Lo anterior no será aplicable a los contribuyentes que tengan la obligación de presentar declaraciones cuando no exista cantidad a pagar.
+
+SÉPTIMO. La obligación establecida en el artículo 44 de este Código, con relación al pago de impuestos por medio o a través de transferencia electrónica de fondos, los contribuyentes podrán optar realizarlo durante el ejercicio 2017.
+
+OCTAVO. La formulación de requerimientos a que se refiere el último párrafo del artículo 81 del presente Código, entrará en vigor a partir del 1 de enero de 2018.
+
+NOVENO. Para efectos del Título Quinto, Capítulo Cuarto, Sección V, del presente Código, los municipios que realicen el embargo de bienes muebles o inmuebles, para efectuar el remate de los mismos, lo podrán hacer a través del portal de Internet de la Secretaría de Finanzas.
+
+DÉCIMO. La Secretaría de Finanzas está obligada a emitir las reglas de carácter general que se establecen en diversos artículos de este Código, dentro de los seis meses posteriores a la entrada en vigor de este ordenamiento jurídico.
