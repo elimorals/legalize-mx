@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-11256
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-30"
-last_updated: "2015-12-30"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2016
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2017, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2016
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el miércoles 30 de diciembre de 2015.
 
@@ -304,3 +306,29 @@ LIC. JAIME SANTOYO CASTRO.
 EL SECRETARIO DE FINANZAS
 
 ING. FERNANDO ENRIQUE SOTO ACOSTA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2016
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE INGRESOS DEL ESTADO DE ZACATECAS, PARA EL EJERCICIO FISCAL DEL AÑO 2017".]
+
+PRIMERO. La presente Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2017, entrará en vigor el día primero de enero del año dos mil diecisiete, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2016, contenida en el Decreto número 555, publicado el 30 de diciembre del 2015, en el Suplemento número 2 al número 104 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Asimismo, se derogan las disposiciones legislativas y administrativas que se opongan a la presente Ley.
+
+TERCERO. Las obligaciones derivadas de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, que se abroga mediante "Decreto por el que se reforman, adicionan, derogan y abrogan diversas disposiciones de la Ley de Coordinación Fiscal, de la Ley del Impuesto sobre Tenencia o Uso de Vehículo y de la Ley del Impuesto Especial sobre Producción y Servicios" publicado en el Diario Oficial de la Federación del 21 de diciembre de 2007, con vigencia a partir del 1° de enero del 2012 según disposición transitoria, que se hubieren causado durante su vigencia, deberán ser cumplidas en las formas y plazos establecidos en las leyes aplicables.
+
+CUARTO. Los contribuyentes que tributen conforme a los regímenes que administra el Estado de Zacatecas con base en el Convenio de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos, así como los contribuyentes de impuestos estatales que declaren en ceros, deberán presentar sus declaraciones exclusivamente en medios electrónicos, a través de la página www.finanzas.gob.mx, a partir del mes de febrero de 2017.
+
+QUINTO. Las instituciones de salud pública a través de sus áreas de servicio social y atención al público o sus equivalentes y, en su caso, la Administración de la Beneficencia Pública del Estado de Zacatecas, considerando el costo de los servicios y valorando las condiciones socioeconómicas de los usuarios, podrán eximir parcial o totalmente a aquellos que carezcan de recursos para cubrirlas, con base en criterios de capacidad contributiva, las disposiciones normativas que regulen directamente a la institución de salud pública y demás factores que permitan adoptar las medidas de compensación necesarias para hacer efectivo el derecho a la salud, como responsabilidad social.
+
+SEXTO. Los ingresos que perciba o recaude el Estado de Zacatecas, se acreditarán mediante el recibo oficial, comprobante fiscal impreso por medios propios o a través de terceros, comprobante fiscal digital o cualquier otra documentación que impresa o digital expida la Secretaría de Finanzas o los Organismos Descentralizados de la Administración Pública Estatal, según el caso y, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. En el rubro correspondiente a Fondos de Aportaciones Federales, específicamente al Fondo de Aportaciones Múltiples, se presenta un monto estimado para cuyo ingreso se estará a lo dispuesto por el artículo 52 de la Ley de Coordinación Fiscal, así como al Convenio de Colaboración para la Entrega de Recursos a nombre y por cuenta de tercero y por el que se establece un mecanismo de potenciación de recursos celebrado en el Gobierno Federal y el Estado de Zacatecas, así como los Fideicomisos de Emisión y, el de Distribución celebrados para ese efecto.
+
+OCTAVO. El importe a recaudar correspondiente a los impuestos: Sobre la Extracción de Materiales de Suelo y Subsuelo; Sobre la Venta Final de Bebidas con contenido alcohólico; Emisión de Gases a la Atmósfera; de la Contaminación al Suelo, Subsuelo, al Agua; y Adicional para Infraestructura; son montos estimados por lo que, ante las variaciones que pudieran darse durante su recaudación, corresponderá a la Secretaría de Finanzas hacer las adecuaciones contables y presupuestales que legalmente se requieran.
+
+NOVENO. Las condiciones y especificaciones de contratación del crédito establecido en el artículo 17 de esta Ley, serán las que contenga el Decreto de autorización que emita la Legislatura del Estado.
