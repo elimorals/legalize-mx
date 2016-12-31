@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-109762"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-01"
-last_updated: "2016-10-31"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,6 +20,8 @@ issue_date: "2015-08-25"
 state: "BCS"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
+
+> <small>[N. DE E. MEDIANTE EL DECRETO 2421 SE EXPIDE LA NUEVA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR PUBLICADO EN EL B.O. DE 31 DE DICIEMBRE DE 2016, POR LO QUE EN RELACIÓN CON LA ENTRADA EN VIGOR DE DICHO ORDENAMIENTO SE SUGIERE CONSULTAR SU TRANSITORIO PRIMERO.]</small>
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
@@ -3384,3 +3386,33 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 31 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL "DECRETO 2421 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR".]</small>
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de la publicación del presente Decreto, con las siguientes excepciones:
+
+A) En tanto se materializa la instalación (sic) Consejo de la Judicatura, las facultades, atribuciones y funciones que el presente Decreto atribuye al Pleno del Consejo de la Judicatura y a su Presidente, se entenderán conferidas respectivamente al Pleno del Tribunal Superior de Justicia y a su Presidente.
+
+B) Las disposiciones relativas a la Ley Nacional de Ejecución Penal y al Sistema de Justicia en Ejecución Penal, entrarán en vigor en los términos y plazos que establezcan las Declaratorias que al efecto emita el H. Congreso del Estado, de conformidad con el artículo transitorio segundo del Decreto mediante el cual se expide la referida Ley Nacional, publicada el 16 de junio de 2016; en tanto esto acontece, los jueces penales de la causa y los Jueces de Ejecución, continuarán aplicando los procedimientos establecidos en la Ley de Ejecución de Sanciones y medidas de Seguridad para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado del 18 de junio de 2011, con las funciones y atribuciones que la misma establece.
+
+C) Las disposiciones que establecen obligaciones y responsabilidades relativas a las Leyes Generales y las que en el ámbito estatal regulen el Sistema Nacional Anticorrupción y el régimen de Responsabilidades Administrativas de los Servidores Públicos; entrarán en vigor en los tiempos y términos que dispongan las Leyes aplicables.
+
+SEGUNDO.- En tanto se cuenta con los recursos presupuestales necesarios para la contratación de Jueces con competencia exclusiva para la operación del Sistema Integral de Justicia Penal para Adolescentes, el Pleno del Consejo de la Judicatura, podrá habilitar a los Jueces de Control del Sistema Penal Acusatorio que cuenten con la especialidad en la materia, como Jueces especializados en el Sistema Integral de Justicia Penal para Adolescentes, facultándoles para actuar como Jueces de Control, Tribunal Unitario de Enjuiciamiento o Jueces de Ejecución Especializados en esta materia.
+
+TERCERO.- Una vez que inicie su vigencia la Ley Nacional de Ejecución Penal y el Sistema de Justicia en Ejecución Penal y hasta en tanto se cuente con la disponibilidad presupuestal necesaria, el Pleno del Consejo de la Judicatura, podrá habilitar a los Jueces de Control del Sistema Penal Acusatorio como Jueces de Ejecución Penal.
+
+CUARTO.- A excepción del Presidente del Consejo de la Judicatura, que ostentará tal carácter durante el tiempo que se desempeñe como Presidente del Tribunal Superior de Justicia, los Consejeros del Poder Judicial deberán ser designados por el Pleno del Tribunal Superior de Justicia con la anticipación necesaria para la instalación del Consejo, en términos de los artículos transitorios segundo y tercero del Decreto número 2366, publicado en el Boletín Oficial del Gobierno del Estado con fecha 31 de julio de 2016.
+
+QUINTO.- El Gobernador del Estado designará al Consejero miembro a que se refiere la Constitución Política del Estado Libre y Soberano de Baja California Sur y la presente Ley, con la anticipación necesaria para la instalación del Consejo, en términos de los artículos transitorios segundo y tercero del Decreto número 2366, publicado en el Boletín Oficial del Gobierno del Estado con fecha 31 de julio de 2016.
+
+SEXTO.- El Congreso del Estado llevará a cabo la elección del Consejero miembro a que se refiere la Constitución Política del Estado Libre y Soberano de Baja California Sur y la presente Ley, con la anticipación necesaria para la instalación del Consejo, en términos de los artículos transitorios segundo y tercero del Decreto número 2366, publicado en el Boletín Oficial del Gobierno del Estado con fecha 31 de julio de 2016.
+
+SÉPTIMO.- El Consejo de la Judicatura deberá quedar instalado en los términos que disponen los artículos transitorios segundo y tercero del Decreto número 2366, publicado en el Boletín Oficial del Gobierno del Estado con fecha 31 de julio de 2016; Una vez instalado el Consejo de la Judicatura, contará con un término de noventa días para elaborar y publicar el Reglamento respectivo.
+
+OCTAVO.- La Secretaría de Finanzas del Gobierno del Estado de Baja California Sur y el Congreso del Estado de Baja California Sur, deberán considerar en los presupuestos correspondientes, los recursos económicos necesarios para sufragar la infraestructura, equipamiento y gasto de operación del Consejo de la Judicatura.
+
+NOVENO.- Los asuntos iniciados con anterioridad al presente Decreto continuarán tramitándose conforme a le ley aplicable en ese momento hasta su total conclusión.
+
+DÉCIMO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
