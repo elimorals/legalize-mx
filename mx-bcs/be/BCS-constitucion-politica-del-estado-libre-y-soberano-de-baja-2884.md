@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2016-10-31"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1863,17 +1863,13 @@ Los Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatu
 
 97.- Son facultades del Pleno del Tribunal Superior de Justicia:
 
-> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 1976)</small>
-
-I.- Conocer de las controversias en que el Estado fuere parte como sujeto de derecho privado.
+I.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2016)
 
 II.- Conocer de los recursos de apelación, queja y cualesquiera otros señalados en las leyes comunes;
 
-III.- Conocer de las competencias de jurisdicción que se susciten entre los jueces del Estado;
+III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(REFORMADA, B.O. 20 DE FEBRERO DE 1988)</small>
-
-IV.- Nombrar a los jueces preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica, así como remover y adscribir a los jueces de partidos judiciales y demás funcionarios y empleados del Poder Judicial del Estado.
+IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2016)
 
 > <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
 
@@ -1885,7 +1881,9 @@ VI.- Solicitar al Consejo de la Judicatura, el aumento de juzgados y de la plant
 
 VII.- Ordenar, por conducto del Presidente del Tribunal, que se haga la consignación que corresponda al Ministerio Público en los casos de la comisión de delitos oficiales que deban ser sancionados por las autoridades competentes;
 
-VIII.- Informar al Gobernador o al Congreso del Estado acerca de los casos de indulto necesario, rehabilitación y demás que las leyes determinen, previos los trámites y con los requisitos que ellos establezcan;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Informar al Gobernador o al Congreso del Estado acerca de los casos de indulto necesario, reconocimiento de inocencia, anulación de sentencia, rehabilitación y demás que las Leyes determinen, previos los trámites y con los requisitos que ellos establezcan.
 
 > <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
 
@@ -1901,9 +1899,9 @@ XI.- Conceder licencia a los Magistrados cuando no sean mayores de un mes en los
 
 XII.- Emitir la opinión que solicite el Congreso del Estado sobre las iniciativas de Leyes o Decretos relacionados con la administración de Justicia;
 
-> <small>(ADICIONADA, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XIII.- Recibir anualmente en sesión solemne el informe que rendirá el Presidente del Tribunal Superior de Justicia sobre el estado que guarda la Administración de Justicia y del ejercicio presupuestal. A este acto asistirán los Poderes Legislativo y Ejecutivo.
+XIII.- Recibir anualmente en sesión solemne, conjuntamente con el Pleno del Consejo de la Judicatura el informe que rendirá el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura sobre el estado que guarda la Administración de Justicia y del ejercicio presupuestal. A este acto asistirán los Poderes Legislativo y Ejecutivo.
 
 > <small>(REFORMADA, B.O. 31 DE JULIO DE 2016)</small>
 
@@ -1949,7 +1947,9 @@ Los Consejeros rendirán la protesta de ley ante quien los designó, durarán cu
 
 De igual forma, deberán reunir los requisitos señalados en las fracciones I, II, III, y IV del numeral 91 de esta Constitución, ser personas que se hayan distinguido por su capacidad profesional y administrativa, así como por su honestidad y honorabilidad en el ejercicio de sus actividades.
 
-Los Jueces que, por cualquier circunstancia dejen de serlo, no podrán seguir formando parte del Consejo de la Judicatura por lo que el Tribunal deberá designar a quien le sustituya para concluir el plazo por el que fue electo a quien se sustituye. El Juez que sea designado en sustitución podrá ser designado consejero en un periodo que no sea continuo a aquel en que haya cubierto la sustitución.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Los Magistrados y Jueces que, por cualquier circunstancia dejen de serlo, no podrán seguir formando parte del Consejo de la Judicatura por lo que el Tribunal deberá designar a quienes les sustituyan, para concluir el plazo por el que fueron electos. Los Magistrados y Jueces que sean designados en sustitución, podrán ser designados consejeros en un periodo que no sea continuo a aquel en que hayan cubierto la sustitución.
 
 Los Consejeros en ejercicio de su función, deberán proceder con independencia e imparcialidad. Durante su encargo, los Consejeros solo podrán ser removidos en los términos del Título Noveno de esta Constitución.
 
@@ -3793,9 +3793,13 @@ B.O. 31 DE JULIO DE 2016.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
-SEGUNDO.- Los Jueces comisionados para que sean miembros del Consejo de la Judicatura ejercerán el cargo a partir del día 9 de enero de 2017.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-TERCERO.- El Consejo de la Judicatura iniciará sus funciones el día de su instalación, que no deberá exceder del día 15 de enero de 2017.
+SEGUNDO.- Los miembros del Consejo de la Judicatura deberán ser designados o electos según corresponda, a más tardar el día 14 de febrero de 2017.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+TERCERO.- El Consejo de la Judicatura iniciará sus funciones el día de su instalación, que no deberá exceder del día 16 de febrero de 2017.
 
 CUARTO.- El Pleno del Tribunal Superior de Justicia deberá, proponer al Congreso del Estado, dentro del Presupuesto para el ejercicio 2017, el ajuste de las partidas presupuestales que ejercerá el Consejo de la Judicatura, por única ocasión y el Pleno del Tribunal, a efecto que los recursos materiales y financieros sean acordes a las necesidades y objeto de la presente Reforma Constitucional.
 
@@ -3812,3 +3816,9 @@ SEGUNDO.- Se abroga la Ley de Presupuesto y Control del Gasto Público Estatal, 
 TERCERO.- Se abroga la Ley de Deuda Pública para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 48 de fecha 25 de noviembre del 2006.
 
 CUARTO.- Los Poderes del Estado de Baja California Sur, las Dependencias y Entidades del Poder Ejecutivo y los Organismos Autónomos deberán efectuar los ajustes correspondientes en sus Reglamentos Internos o equivalentes.
+
+B.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 2420 SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO. - El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
