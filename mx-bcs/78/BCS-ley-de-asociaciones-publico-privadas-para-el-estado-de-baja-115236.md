@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-asociaciones-publico-privadas-para-el-estado-de-baja-115
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-13"
-last_updated: "2016-06-13"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCS"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 13 de junio de 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2016.
 
-TEXTO ORIGINAL.
+Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 13 de junio de 2016.
 
 CARLOS MENDOZA DAVIS, GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR, A SUS HABITANTES HACE SABER:
 
@@ -488,6 +488,10 @@ Cuando por las condiciones especiales del Proyecto se requiera la intervención 
 ###### Artículo 33.
 
 Cuando en un proyecto de asociación público privada el uso de bienes públicos o la prestación de los servicios por parte del o de los desarrolladores requiera de permisos, concesiones u otras autorizaciones, estos se realizarán y otorgarán conforme a las disposiciones que lo regulen, o mediante el procedimiento de concurso previsto en la Ley, según corresponda.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando el desarrollador de un proyecto de Asociación Público Privada requiera de servicios de transporte, bajo cualquier modalidad, deberá contratar estos con los titulares de los permisos, concesiones y/o autorizaciones previstas en la Ley del Transporte del Estado de Baja California Sur.
 
 La vigencia de los permisos, concesiones u otras autorizaciones se sujetará a lo siguiente:
 
@@ -1542,3 +1546,17 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PIÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2417 SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTICULO 33 DE LA LEY DE ASOCIACIONES PUBLICO PRIVADAS PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la fecha que entre envigo (sic) este Decreto, se dejan sin efectos las disposiciones que contravengan o se opongan al mismo.
