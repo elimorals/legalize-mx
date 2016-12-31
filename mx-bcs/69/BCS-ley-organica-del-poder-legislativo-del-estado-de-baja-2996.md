@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-2996"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-10"
-last_updated: "2015-10-17"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2996&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de diciembre de 1990.
 
@@ -107,21 +107,19 @@ Ninguna autoridad podrá ejecutar mandamientos judiciales o administrativos sobr
 
 EL COLEGIO ELECTORAL Y LA CALIFICACION DE LAS ELECCIONES.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 13.
 
-A mas tardar el último día del mes de julio del año de renovación de los miembros del Congreso, y bajo la vigilancia de la Diputación Permanente, se abrirá por la Secretaría el libro destinado para el efecto del registro de las constancias de mayoría expedidas y debidamente requisitadas por las Autoridades Electorales, correspondientes a los presuntos Diputados propietarios y suplentes electos mediante el sistema de Distritos Electorales Uninominales, así como el de las constancias de asignación de los presuntos Diputados Propietarios y Suplentes electos mediante el principio de Representación Proporcional, expedidas por el Organismo Electoral competente. En la solicitud de registro se especificará el domicilio de los presuntos, para los efectos de la Ley.
+Entre los días quince al veintinueve de agosto del año de la elección para la renovación del Congreso del Estado, y bajo la vigilancia de la Diputación Permanente, se abrirá por la Secretaría, el libro destinado para el efecto del registro de las constancias de mayoría expedidas y debidamente requisitadas por las autoridades Electorales correspondientes a los Diputados propietarios y suplentes, electos mediante el sistema de Distritos Electorales Uninominales, así como el de las constancias de asignación de los Diputados Propietarios y Suplentes electos mediante el Principio de Representación Proporcional, expedidas por el Organismo Electoral competente. En el registro se especificará el domicilio donde se le podrá notificar.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+En el libro de registro se especificará el partido político por el cual fueron electos, para efecto de la integración de las fracciones parlamentarias.
 
-> <small>(REFORMADO, B.O. 28 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 14.
 
-A más tardar el primer día hábil del mes de agosto, la Diputación Permanente comunicará a los presuntos diputados en su domicilio, el número de registro de su constancia de mayoría o de asignación.
+A más tardar el día treinta de agosto del año de la elección para la renovación del Congreso, la diputación permanente comunicará a los diputados electos en su domicilio, el número de registro de su constancia de mayoría o de asignación.
 
 ###### ARTICULO 15.
 
@@ -313,9 +311,11 @@ Corresponde a la Directiva bajo la autoridad de su Presidente, preservar la Libe
 
 DE LA PRESIDENCIA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 41.
 
-Son atribuciones del Presidente:
+El Presidente de la Mesa Directiva conducirá las relaciones institucionales con los Poderes de la Unión, con los Poderes de las Entidades Federativas, con el Gobierno de la Ciudad de México, así como con los otros dos poderes del Estado, con las Autoridades Estatales y Municipales, Organismos y Entidades Públicas Nacionales e Internacionales, en tal virtud, tiene la representación Protocolaria del Congreso ante cualquier autoridad y podrá nombrar a los Diputados que representen al Poder Legislativo ante cualquier Organismo Público y designar representantes que deban asistir a eventos cívicos y sociales. Además contará con las siguientes atribuciones:
 
 I.- Presidir, abrir, prorrogar, suspender y clausurar las Sesiones.
 
@@ -429,11 +429,13 @@ De incurrir el Secretario en la falta consecutiva de sus obligaciones, se consid
 
 DE LA JUNTA DE GOBIERNO Y COORDINACIÓN POLÍTICA.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 50.
 
-La Junta de Gobierno y Coordinación Política, es el órgano de gobierno y dirección general colegiado y plural del Congreso del Estado, facultado para desempeñar la concertación política de la (sic) fuerzas representadas en el congreso, mediante la cual se impulsan entendimientos y convergencias políticas, tanto al interior del Congreso como las instancias y órganos que resulten necesarios, a fin de alcanzar acuerdos para que el Pleno esté en condiciones de cumplir con las atribuciones y obligaciones que constitucionalmente le corresponden.
+La Junta de Gobierno y Coordinación Política, es el órgano de gobierno y dirección general colegiado y plural del Congreso del Estado, facultado para desempeñar la concertación política de las fuerzas representadas en el Congreso, mediante la cual se impulsan entendimientos y convergencias políticas, al interior del Congreso.
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 La Junta de Gobierno y Coordinación Política se constituye con los coordinadores de cada una de las fracciones parlamentarias reconocidas y autorizadas en los términos de esta ley, así como con los diputados que no conformen fracción, mediante las siguientes disposiciones:
 
@@ -473,9 +475,9 @@ Son facultades de la Junta de Gobierno y Coordinación Política:
 
 I.- Impulsar la conformación de acuerdos relacionados con el contenido de las propuestas o iniciativas que requieran de su votación en el Pleno, a fin de agilizar el trabajo legislativo.
 
-II.- Tratar todos los asuntos políticos de carácter externo de la Legislatura con los demás Poderes, ya sean Federales, del Estado o de cualquier Entidad Federativa y con los Municipios; así como también con los demás organismos y entidades públicas nacionales e internacionales, en este último caso realizar la designación de delegaciones para atender la celebración de reuniones interparlamentarias con órganos de representación popular de otras entidades federativas o el Congreso de la Unión; con respecto a estas reuniones, en los periodos de receso, el Presidente de la Junta de Gobierno y Coordinación Política hará la designación respectiva.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Así como Proponer al Congreso los nombres de los Diputados que representen al Poder Legislativo ante cualquier Organismo Público y designar representantes que deban asistir a eventos cívicos y sociales;
+II.- Designar delegaciones para atender la celebración de reuniones interparlamentarias con órganos de representación popular de otras entidades federativas o el Congreso de la Unión; con respecto a estas reuniones, en los periodos de receso, el Presidente de la Junta de Gobierno y Coordinación Política hará la designación respectiva.
 
 III.- Proponer a los Diputados que integran las Comisiones Permanentes, Especiales y el Gran Jurado, y expedir los nombramientos correspondientes, una vez que fueren aprobados por la asamblea; así como llevar a cabo la sustitución justificada de los integrantes de las mismas.
 
@@ -579,7 +581,9 @@ VIII.- DE ASUNTOS LABORALES Y DE PREVISION SOCIAL.
 
 IX.- DE LA SALUD, LA FAMILIA Y LA ASISTENCIA PUBLICA.
 
-X.- DE ASUNTOS EDUCATIVOS Y DE LA JUVENTUD.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X.- DE ASUNTOS EDUCATIVOS.
 
 XI.- DE ECOLOGIA.
 
@@ -593,7 +597,9 @@ XIV.- DE CUENTA Y ADMINISTRACION.
 
 XV.- DE GESTORIA Y QUEJAS.
 
-XVI.- COMISION EDITORIAL.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVI.- DE EDITORIAL, ACERVO LEGISLATIVO Y CONSTITUCIONAL.
 
 XVII.- DE CORRECCION Y ESTILO.
 
@@ -621,9 +627,9 @@ XXII.- DEL AGUA.
 
 XXIII.- DEL DEPORTE.
 
-> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XXIV.- DE TRANSPARENCIA.
+XXIV.- DE TRANSPARENCIA Y ANTICORRUPCIÓN.
 
 > <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2011)</small>
 
@@ -636,6 +642,26 @@ XXVI.- DE SEGUIMIENTO A LOS PUNTOS DE ACUERDO
 > <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XXVII.- DE CULTURA Y ARTES
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXVIII.- DE DESARROLLO SOCIAL.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXIX.- DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXX.- DE PROTECCIÓN CIVIL.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXXI.- DE INFRAESTRUCTURA.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXXII.- DE LA JUVENTUD.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -789,11 +815,13 @@ e).- Lo relacionado con los casos que afecten o pudieran afectar la salud de la 
 
 f).- Las demás que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-X.- DE ASUNTOS EDUCATIVOS Y DE LA JUVENTUD:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X.- DE ASUNTOS EDUCATIVOS.
 
 a).- Lo que corresponda a Educación en todos sus niveles.
 
-b).- Lo que tienda a impulsar el mejoramiento de la Juventud, mediante el Fomento del Deporte y la Cultura.
+b).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
@@ -905,7 +933,9 @@ b).- Lo relativo a la recepción, atención y seguimiento a demandas de la pobla
 
 c).- Las demás que le encomiende la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-XVI.- DE LA COMISION EDITORIAL:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVI.- DE LA COMISIÓN EDITORIAL Y ACERVO LEGISLATIVO.
 
 a).- La divulgación y difusión de las actividades de la Legislatura, de las Comisiones y de los Diputados.
 
@@ -913,9 +943,13 @@ b).- La edición de una Publicación Oficial del Congreso, que contendrá reseñ
 
 c).- Coordinar con la Oficialía Mayor, las acciones relativas a la Biblioteca Legislativa.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-d).- Las demás que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+d).- La edición de una publicación oficial de las reformas y adiciones que se han realizado y se realicen a la Constitución Política del Estado Libre y Soberano de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+e).- Las demás que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 XVII.- DE CORRECCION Y ESTILO:
 
@@ -957,7 +991,7 @@ d).- Las demás que establezcan la Mesa Directiva del Congreso y la Junta de Gob
 
 > <small>(ADICIONADA, B.O. 20 DE JUNIO DE 2000)</small>
 
-XX.- DE LA COMISIÓN DE SEGURIDAD PÚBLICA:
+XX.- DE LA COMISION DE SEGURIDAD PUBLICA:
 
 a).- Los convenios de coordinación que celebre el Gobierno del Estado con la Federación o con los Ayuntamientos en materia de Seguridad Pública;
 
@@ -1027,117 +1061,99 @@ c).- Lo relativo a la creación de estímulos y premios para reconocer el esfuer
 
 d).- Los demás que le señale la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2011)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL B.O. DE 31 DE DICIEMBRE DE 2016, PÁGINAS DE LA 156 A 158]</small>
 
-XXIV.- DE TRANSPARENCIA:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+XXIV.- DE TRANSPARENCIA Y ANTICORRUPCIÓN.
 
-a).- El conocimiento de los asuntos relacionados con la falta de transparencia de los actos de gobierno de la administración publica;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+a).- La promoción e impulso de la cultura de la transparencia, acceso a la información pública, protección de datos personales y archivos al interior del Poder Legislativo y coadyuvar con el Instituto de Transparencia, Acceso a la Información pública y Protección de Datos Personales del Estado de Baja California Sur, en el fin antes mencionado dentro de la administración pública estatal y municipal y demás sujetos obligados;
 
-b).- Lo relacionado con la difusión de las iniciativas, pronunciamientos, puntos de acuerdo y dictámenes sobre iniciativas que se presenten ante el pleno del Congreso del Estado, así como la información financiera y administrativa;
+b).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-c).- Las quejas de particulares que tengan que ver con la falta de transparencia; y
+c).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
 d).- Los demás que le señale la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+e).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-e).- Establecer los órganos, criterios y procedimientos para proporcionar el acceso a la información, de conformidad con los principios y plazos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+f).- Lo relativo en materia de transparencia, acceso a la información pública, protección de datos personales y combate a la corrupción;
 
-f).- Lo relativo en materia de acceso a la Información Publica y Transparencia así como la protección de datos;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+g).- La coordinación con instituciones y organismos públicos y privados locales, nacional e internacionales que promuevan la cultura de la transparencia, acceso a la información pública, protección de datos personales y archivos con el fin de suscribir convenios para promover, actualizar y establecer mecanismos de evaluación en esa materia en el Poder Legislativo;
 
-g).- Establecer coordinación con instituciones y organismos públicos y privados, locales, nacional e internacionales que promuevan la cultura de la Transparencia y de la Protección de Datos Personales con el fin de suscribir convenios para promover, actualizar y establecer mecanismos de evaluación en esa materia en el Congreso del Estado;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+h).- La elección de los Comisionados e integrantes del Consejo Consultivo del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur;
 
-h).- Dictaminar sobre la elección de Consejeros del Instituto de Transparencia y Acceso a la Información Publica del Estado de Baja California Sur;
+i).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+j).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-i).- De la Vigilancia del cumplimiento por parte del Congreso del Estado, de las normas, reglamentos, criterios y lineamientos derivadas de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur;
+k).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+l).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-j).- El seguimiento a las solicitudes de información que realicen los ciudadanos en el marco de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, tratándose de asuntos que sean competencia del Congreso;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+m).- Las iniciativas de reformas, adiciones o derogaciones de la Ley de Acceso a la Información Pública del Estado de Baja California Sur, las Leyes relacionadas con el combate a la corrupción y las que le sean turnadas por el pleno;
 
-k).- De la vigilancia y evaluación de las actividades de la Unidad de Acceso a la Información Pública del Congreso del Estado, misma que dependerá de la Comisión;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+n).- El análisis del informe anual del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur que presente por conducto del Presidente del Consejo General, a partir de la segunda quincena del mes de marzo, y presentar al Pleno el informe de acciones y resultados obtenidos por parte de ese Instituto;
 
-l).- De vigilancia y supervisión para que las áreas técnicas y administrativas del Congreso del Estado proporcionen la información pública solicitada;
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+ñ).- Ser el enlace entre Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California Sur y el Congreso del Estado, para la implementación de las acciones de capacitación y promoción de una cultura y apertura a la información;
 
-m).- Los que se refieran a las iniciativas de reformas, adiciones o derogaciones de la Ley de Acceso a la Información Pública del Estado de Baja California Sur y las que le sean turnadas por el pleno;
+o).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-n).- Analizar el informe anual de (sic) Instituto de Transparencia y acceso a la Información Pública del Estado y presentar al Pleno el informe de acciones y resultados obtenidos por parte de ese Instituto;
+p).- La atención de las demandas ciudadanas, propuestas y aportaciones tendientes al fortalecimiento y apoyo de una nueva cultura de transparencia y acceso a la información;
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+q).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-o).- Ser el enlace entre Instituto (sic) de Transparencia y acceso a la Información Pública del Estado de B.C.S y el Congreso del Estado, para la implementación de las acciones de capacitación y promoción de una cultura y apertura a la información;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+r).- Los asuntos a las relaciones con las demás dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
 
-p).- Colaborar en la elaboración del informe justificado que rendirá el Representante Jurídico del Congreso del Estado ante las autoridades respectivas, por la interposición del Procedimiento de Revisión en contra de la de la (sic) negativa a proporcionar información;
+s).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-q).- La atención de las demandas ciudadanas, propuestas y aportaciones tendientes al fortalecimiento y apoyo de una nueva cultura de transparencia y acceso a la información;
+t).- Presentar para su aprobación y/o modificación ante el pleno en sesión pública, el Reglamento de la Unidad de Acceso a la Información Pública del Congreso del Estado;
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+u).- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-r).- Solicitar de cualquier órgano y dependencia del Congreso del Estado los informes que requiera, con atribuciones de acceder a información documental de tipo legislativo, administrativo y financiero, quienes estarán obligados a entregar la información en un termino de tres días hábiles contados a partir de la solicitud;
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
-
-s).- Los tocantes a las relaciones con las demás dependencias y entidades de la administración pública estatal y municipal relacionadas con la materia, cuando resulte necesario para el estudio o aclaración de los asuntos que le competen;
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
-
-t).- Acordar con la aprobación del pleno en sesión privada, la información que será clasificada como reservada, la reglamentación sobre sanciones a quienes omitan cumplir con la normatividad de transparencia y acceso a la información y los programas y métodos de evaluación de la unidad de acceso a la información;
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
-
-u).- Presentar para su aprobación y/o modificación ante el pleno en sesión pública, el reglamento de la Unidad de Acceso a la Información Pública del Congreso del Estado;
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
-
-v).- De la Vigilancia del cumplimiento de la publicación en la página Web del Congreso del Estado de la información legislativa, financiera y administrativa y su actualización permanente.
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
-
-w).- Los demás análogos que, a juicio del Presidente del Congreso, de la Diputación Permanente o la Junta de Gobierno y Coordinación Política, en su caso, le sean turnados.
+v).- Los demás análogos que, a juicio del Presidente del Congreso, de la Diputación Permanente o la Junta de Gobierno y Coordinación Política, en su caso, le sean turnados.
 
 > <small>(ADICIONADA, B.O. 20 DE AGOSTO DE 2011)</small>
 
 XXV.- DE LA COMISIÓN DE ATENCIÓN A GRUPOS VULNERABLES Y A PERSONAS CON DISCAPACIDAD
 
-a) Analizar y dictaminar, en su caso, sobre la legislación relacionada con las personas con discapacidad, que no sean materia de otra Comisión;
+a).- Analizar y dictaminar, en su caso, sobre la legislación relacionada con las personas con discapacidad, que no sean materia de otra Comisión;
 
-b) Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merecen los grupos vulnerables y las personas con discapacidad;
+b).- Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merecen los grupos vulnerables y las personas con discapacidad;
 
-c) Conocer e impulsar acciones que conlleven a la realización de planes y programas que contribuyan a mejorar la inserción productiva en la sociedad de las personas con discapacidad, para garantizar una situación de vida más digna a estos grupos;
+c).- Conocer e impulsar acciones que conlleven a la realización de planes y programas que contribuyan a mejorar la inserción productiva en la sociedad de las personas con discapacidad, para garantizar una situación de vida más digna a estos grupos;
 
-d) Promover la coordinación entre los niveles federal, estatal y municipal, así como, con las instituciones y organizaciones especializadas que brindan servicios de promoción y atención a personas con discapacidad;
+d).- Promover la coordinación entre los niveles federal, estatal y municipal, así como, con las instituciones y organizaciones especializadas que brindan servicios de promoción y atención a personas con discapacidad;
 
-e) Organizar foros de consulta, a efecto de recibir y realizar propuestas que tiendan a mejorar la aplicación o adecuación de la legislación en materia de personas con discapacidad y lograr el cumplimiento de sus objetivos; y
+e).- Organizar foros de consulta, a efecto de recibir y realizar propuestas que tiendan a mejorar la aplicación o adecuación de la legislación en materia de personas con discapacidad y lograr el cumplimiento de sus objetivos; y
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2011)</small>
 
-f) Los demás que le señale la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+f).- Los demás que le señale la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
 
 > <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1180,6 +1196,70 @@ j).- Los planes y programas en materia de cultura;
 k).- Coadyuvar a la difusión en forma oportuna de las actividades culturales que realiza el Congreso del Estado; y
 
 l).- Las demás que le señalen la Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXVIII.- DE DESARROLLO SOCIAL.
+
+a).- Lo relacionado con los diversos programas y la inversión en materia de desarrollo social, así como de combate a la pobreza y desigualdad en el ámbito estatal y federal;
+
+b).- Lo referente al registro de beneficiarios de los programas sociales que ejecuten las diferentes dependencias y entidades de la Administración Pública del Estado;
+
+c).- Lo relativo a la propuesta e impulso de la ejecución de programas de emergencia social, social destinados a zonas indígenas, rurales y urbanas marginales;
+
+d).- La coordinación con las áreas de desarrollo social de los municipios en la entidad, al igual que con los organismos públicos, privados y académicos, interesados en desarrollar actividades de investigación, bienestar y asistencia social, que tenga por objeto para beneficiar a los habitantes de la entidad;
+
+e).- Lo referente a reformas y adiciones dentro de la legislación estatal que faciliten la aplicación de políticas públicas en la materia; y
+
+f).- Las demás que le señalen la Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXIX.- DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES.
+
+a).- Lo referente a garantizar el ejercicio pleno del interés de la niñez previsto en la Constitución Política del Estado de Baja California Sur, en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales.
+
+b).- Lo referente a las acciones encaminadas a promover el respeto de los derechos humanos de las niñas, niños y adolescentes, y Jóvenes a través de la vinculación interinstitucional y la sociedad civil.
+
+c).- Lo referente a la armonización de la legislación y de los Derechos de los Niños, Niñas y Adolescentes, atendiendo los principales retos y problemáticas.
+
+d).- Lo referente a la problemática concurrente del gobierno estatal, Municipal y delegaciones federales, con los organismos internacionales competentes y la sociedad civil.
+
+d) (sic).- Lo que tienda a impulsar al mejoramiento y desarrollo de los jóvenes.
+
+e).- Las que le señalen la Mesa Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXX.- DE PROTECCION CIVIL.
+
+a).- Lo relativo a la normatividad, así como todo lo relacionado con la problemática de protección civil en el Estado.
+
+b).- La prevención y atención a la problemática de las viviendas en zonas de alto riesgo.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXXI.- DE INFRAESTRUCTURA.
+
+a).- Todo lo relativo a regulación en materia de infaestructura (sic) y equipamiento urbano;
+
+b).- Lo relacionado con la infraestructura, turística, de educación y obras hidráulicas; y
+
+c).- Las demás que establezcan la Meza (sic) Directiva del Congreso y la Junta de Gobierno y Coordinación Política.
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXXII.- DE LA JUVENTUD.
+
+a).- Las que se relaciones (sic) con los derechos de los jóvenes.
+
+b).- La armonización de la Legislación en la materia.
+
+c).- Proponer políticas públicas en coordinación con el Instituto Sudcaliforniano de la Juventud.
+
+d).- Lo referente a las acciones encaminadas a emprendedores.
+
+e).- Las demás que señale la Mesa Directiva del Congreso.
 
 ###### ARTICULO 56.
 
@@ -1299,7 +1379,17 @@ VI.- Hacer privadamente a los empleados las observaciones a que se hagan acreedo
 
 VII.- Formular y preparar la documentación que requiere el Congreso para su funcionamiento como Cuerpo Colegiado;
 
-VIII.- Coadyuvar con la Secretaría en la Ordenación y Vigilancia de la impresión oportuna del "DIARIO DE LOS DEBATES", así como las iniciativas y dictámenes y sus anexos, su distribución a todos los Diputados y su envío al Ejecutivo para su promulgación o publicación;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Coadyuvar con la Secretaría, en la Ordenación y Vigilancia de la impresión oportuna del "DIARIO DE LOS DEBATES", y el envió al Ejecutivo para su promulgación y publicación de las Leyes, Reformas y Decretos expedidos del Congreso;
+
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VIII BIS.- Implementar un programa de uso racional del papel, predominando el uso de la tecnología, para lo cual deberá remitir a los diputados por medio electrónico, el orden del día, el acta de la sesión anterior, las iniciativas, los dictámenes, los decretos, citaciones e invitaciones a sesiones de Comisión y todos aquellos documentos necesarios para el debido funcionamiento del Poder Legislativo.
+
+Deberá implementar asimismo, un sistema de comunicación interno entre las diversas direcciones y áreas administrativas que permita la eliminación del uso del papel.
+
+Para los efectos de los párrafos anteriores el Honorable Congreso del Estado dispondrá del uso de la firma electrónica certificada;
 
 IX.- Conservar y clasificar la versión mecanográfica y la grabación magnetofónica del desarrollo de cada una de las Sesiones del Congreso;
 
@@ -1753,9 +1843,9 @@ Tratándose de los asuntos enumerados en las fracciones V, VI y VIII del present
 
 No podrá negarse el registro de asuntos legislativos, cuando cumplan con los requisitos señalados en el presente artículo.
 
-> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Para el caso de proposiciones con punto de acuerdo o iniciativas con proyecto de decreto o dictámenes con proyecto de decreto que se presenten para lectura ante el Pleno, que fueren distintos a los registrados, en ningún caso podrán dispensarse los trámites a que se refiere la presente ley; para el caso de dictámenes con punto de acuerdo, el presidente de la Mesa Directiva deberá regresarlo a la comisión dictaminadora.
+Para el caso de proposiciones con punto de acuerdo económico, iniciativas con proyecto de decreto o dictámenes que se presenten ante el Pleno, previo su registro, Podrá leerse el total de su contenido o exponer el tema de forma general; en ambos casos se deberá inscribir en el Diario de los Debates el Texto íntegro del documento, en ningún momento será válido el texto o extracto de temas distintos en la Presentación ante el Pleno a la del Registro. Para el Caso de los Dictámenes con punto de Acuerdo, que sean distintos al tema registrado, el Presidente de la Mesa Directiva lo regresará a la Comisión que lo emitió.
 
 > <small>(REFORMADO, B.O. 6 DE JULIO DE 2011)</small>
 
@@ -1959,7 +2049,7 @@ Para que se dispensen los trámites que debe correr un Proyecto de Ley, Decreto 
 
 ###### ARTICULO 125.
 
-La proposición inmediatamente será puesta a discusión, lo que tratará sobre la urgencia de la expedición de la Ley pudiÉndo hablar dos Diputados en pro y dos en contra.
+La proposición inmediatamente será puesta a discusión, lo que tratará sobre la urgencia de la expedición de la Ley pudiéndo hablar dos Diputados en pro y dos en contra.
 
 ###### ARTICULO 126.
 
@@ -2005,7 +2095,7 @@ Cuando algún Diputado de los que hayan solicitado la palabra, no estuviere en l
 
 ###### ARTICULO 132.
 
-Si en el curso de las discusiones, el orador, con el propósito de allegar más luz en los debates interpela a uno o más de los Diputados, Estos podrán discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios Diputados, se contestarán en el órden en que hubieren sido hechas; pudiendo contestar también por todos uno solo de los interpelados autorizado por los demás.
+Si en el curso de las discusiones, el orador, con el propósito de allegar más luz en los debates interpela a uno o más de los Diputados, estos podrán discrecionalmente, contestar la interpelación o abstenerse de hacerlo. Las interpelaciones se harán siempre claras, precisas y concretas. Cuando las interpelaciones sean dirigidas a varios Diputados, se contestarán en el orden en que hubieren sido hechas; pudiendo contestar también por todos uno solo de los interpelados autorizado por los demás.
 
 ###### ARTICULO 133.
 
@@ -2645,7 +2735,7 @@ En la Sesión que celebre el Congreso para inaugurar un Periodo Extraordinario d
 
 ###### ARTICULO 233.
 
-La Diputación Permanente, durante los Periodos de receso, además de las facultades que le confieren el Artículo 66 de la Constitución del Estado y esta Ley, tendran la de contestar en representación del Congreso, los informes previos o con su justificación que soliciten los Jueces Federales, con motivo de Amparos interpuestos en contra del Congreso, así como la de poder intervenir en la tramitación de los Juicios relativos.
+La Diputación Permanente, durante los Periodos de receso, además de las facultades que le confieren el Artículo 66 de la Constitución del Estado y esta Ley, tendrán la de contestar en representación del Congreso, los informes previos o con su justificación que soliciten los Jueces Federales, con motivo de Amparos interpuestos en contra del Congreso, así como la de poder intervenir en la tramitación de los Juicios relativos.
 
 ###### ARTICULO 234.
 
@@ -2659,13 +2749,11 @@ Al final de su ejercicio, la Diputación Permanente entregará a la Directiva de
 
 ## TITULO NOVENO. DE LA TRANSPARENCIA Y ACCESO A LA INFORMACION
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
-### CAPITULO I
+### CAPÍTULO I. DISPOSICIONES GENERALES EN MATERIA DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN
 
-DE LA INFORMACION PUBLICA MINIMA DEL PODER LEGISLATIVO.
-
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 236.
 
@@ -2723,37 +2811,9 @@ En este caso, el Presidente de la Junta de Gobierno y Coordinación Política en
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 31 DE JULIO DE 2009)</small>
 
-### CAPITULO I BIS
+### CAPITULO I BIS. ARTICULO 249 BIS.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
-DE LA INFORMACION RELACIONADA CON LOS PROCESOS LEGISLATIVOS DE LAS LEYES DE INGRESOS Y DEL PRESUPUESTO DE EGRESOS DEL ESTADO.
-
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 249 BIS.- El Congreso del Estado deberá publicar en su página de internet, información relacionada con los procesos legislativos de las Leyes de Ingresos del Estado y de los Municipios, así como del Presupuesto de Egresos del Estado.
-
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 249 TER.- La información señalada en el artículo anterior estará concentrada en un apartado especial y deberá publicarse de acuerdo con las siguientes previsiones:
-
-a) Las iniciativas con proyecto de ley o de decreto correspondientes, deberán publicarse en formato digital, a más tardar al día siguiente de que hayan sido turnadas en el pleno;
-
-b) Se señalará el nombre de la comisión o comisiones permanentes a las que fueron turnadas las iniciativas;
-
-c) Fecha de vencimiento del plazo para la emisión de los dictámenes correspondientes;
-
-d) Información sobre cada una de las reuniones de trabajo que celebre la comisión o comisiones de dictamen;
-
-e) Publicación de los Dictámenes con proyecto de ley o de decreto, correspondientes;
-
-f) Fechas de las sesiones en que los dictámenes recibieron la primera y segunda lecturas;
-
-g) Extracto de cada una de las intervenciones de los integrantes de la legislatura, generadas durante la discusión del dictamen, ya sea en lo general o en lo particular;
-
-h) La votación obtenida en cada dictamen, tanto en lo general como en lo particular, así como el sentido del voto de cada integrante de la Legislatura;
-
-i) Actas de las sesiones en las se aprobaron cada uno de los dictámenes;
-
-j) Numero asignado a cada decreto y su fecha de publicación en el Boletín Oficial del Gobierno del Estado.
+ARTICULO 249 TER.- (DEROGADO, B.O. 31 DE DICIEMBRE DE 2016)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -2793,7 +2853,7 @@ e). Sueldos no cobrados.
 
 DE LA ATENCION DE LAS SOLICITUDES DE INFORMACION PUBLICA.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 245.
 
@@ -2809,81 +2869,15 @@ DE LA INFORMACIÓN RESERVADA Y CONFIDENCIAL.
 
 ###### ARTICULO 246.
 
-En materia de acceso a la información pública, el Congreso del Estado observará lo establecido en la Constitución Política Local, en la Ley de Transparencia y Acceso a la Información Pública Para el Estado de Baja California Sur y en los demás ordenamientos que regulen aspectos relacionados con esta materia.
+En materia de transparencia y acceso a la información pública, el Poder Legislativo observará los principios y bases establecidos en el apartado "A", del artículo 6° de la Constitución Política de los Estados Unidos Mexicanos y el apartado "B" del numeral 13 de la Constitución Política del Estado Libre y Soberano de Baja California Sur, así como lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública, Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y en los demás ordenamientos que regulen aspectos relacionados con esta materia.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 247.
 
-En general, el Poder Legislativo deberá informar por lo menos:
+El Poder Legislativo pondrá a disposición del público y mantendrán (sic) actualizada en su página de internet, de acuerdo con sus facultades, atribuciones, funciones y según corresponda la información común que alude el artículo 75 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
 
-I.- Su estructura orgánica, los servicios que en general presta, las atribuciones por unidad o área administrativa y la normatividad que la rige;
-
-II.- Las leyes, decretos, pronunciamientos, acuerdos económicos, resolutivos, escritos de particulares, dictámenes, acuerdos, reglamentos, circulares y demás disposiciones de observancia general que rijan en el ámbito de su competencia;
-
-III.- Manuales de organización y, en general, la base legal que fundamente la actuación de los órganos o entidades del Congreso;
-
-IV.- El directorio de servidores públicos, de diputados, oficial mayor, directores, jefes de departamento, coordinadores y asesores del congreso, y de los grupos parlamentarios;
-
-V.- La plantilla del personal, indicando el puesto, la adscripción, la remuneración mensual neta considerando prestaciones, estímulos y compensaciones y cualquier otra percepción que en dinero o en especie reciban los servidores públicos del Congreso del Estado; incluyendo a los diputados y a su personal dentro de los grupos parlamentarios;
-
-VI.- Las convocatorias a concurso o licitación de obras, adquisiciones, arrendamientos, contratación de servicios, así como sus resultados y demás actos relacionados con el ejercicio del gasto público. Dichos resultados deberán contener:
-
-a) Nombre o denominación de la dependencia o entidad convocante, así como la identificación del contrato;
-
-b) El lugar y descripción general de la obra a ejecutar, de cada uno de los bienes o servicios que sean objeto de la licitación, las posturas y el monto;
-
-c) El nombre del proveedor, contratista o de la persona física o moral a quien haya favorecido el fallo y con quien o quienes se haya celebrado el contrato;
-
-d) Requisitos que deberán cumplir el proveedor, contratista o la persona física favorecido con el fallo, según las características, complejidad y magnitud de los trabajos, así como el plazo para su cumplimiento;
-
-e) Los mecanismos de participación ciudadana que se desarrollan en la obra pública;
-
-f) Los datos sobre las garantías, así como porcentajes, forma y términos de los anticipos que se concedan; y
-
-g) Los demás datos que se deriven del cumplimiento de los requisitos establecidos en las bases que emitan las Entidades Gubernamentales y de Interés Público para las licitaciones públicas, de conformidad con la Ley de Obras Públicas del Estado de Baja California Sur y la Ley de Adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles del Gobierno del estado de Baja California Sur.
-
-VII.- Las opiniones, datos y fundamentos finales contenidos en los expedientes administrativos que justifican las contrataciones, licitaciones y los procesos de toda adquisición de bienes o servicios;
-
-VIII.- Las declaraciones de situación patrimonial de los diputados que así lo autoricen, conforme a la Ley de Transparencia y Acceso a la Información Pública Para el Estado de Baja California Sur;
-
-IX.- Los Balances, estados financieros y contables, formularios, estados contables auxiliares y otros de la misma especie;
-
-X.- La ejecución del presupuesto de egresos conforme al ejercicio correspondiente;
-
-XI.- Los resultados de todo tipo de auditorias concluidas y practicadas al ejercicio presupuestal de cada una de las entidades u órganos del Congreso;
-
-XII.- Los convenios celebrados con instituciones públicas o privadas;
-
-XIII.- El nombre, domicilio oficial y dirección electrónica, en su caso, de los servidores públicos encargados de gestionar y resolver las solicitudes de información pública;
-
-XIV.- Los instrumentos y formulas de participación ciudadana;
-
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2013)</small>
-
-XV.- La Gaceta Parlamentaria, que contendrá el orden del día de la sesión del Pleno, así como el sentido de la votación de cada diputado en las votaciones nominales y económicas; las iniciativas de ley, decreto, proposiciones con punto de acuerdo, y dictámenes de las comisiones, decretos y acuerdos aprobados;
-
-XVI.- Informe anual de actividades;
-
-XVII.- La calendarización de las sesiones o reuniones públicas y las correspondientes minutas o actas de dichas sesiones;
-
-XVIII.- El registro de asistencia de cada diputado a las sesiones del Pleno, y de las comisiones;
-
-XIX.- Las resoluciones definitivas sobre juicio político, declaración de procedencia y de sanciones administrativas, una vez que hayan causado estado;
-
-XX.- Los documentos, convocatorias, eventos, direcciones electrónicas, requisitos de acceso al sistema de cómputo, acervos bibliográficos o hemerográficos y requisitos para su consulta, y demás información que sea considerada relevante o de utilidad, respecto al funcionamiento del Congreso;
-
-XXI.- Los boletines de prensa emitidos por la Dirección de Comunicación Social y Relaciones Públicas.
-
-XXII.- Estadísticas del trabajo parlamentario desarrollado por las comisiones permanentes, así como de los juicios y procedimientos administrativos instaurados por el Congreso del Estado;
-
-XXIII.- Los servicios y programas de apoyo que ofrecen, así como los trámites, requisitos y formatos para acceder a los mismos;
-
-XXIV.- Las controversias constitucionales entre poderes públicos de la entidad;
-
-XXV.- El padrón de proveedores;
-
-XXVI.- Cualquiera otra información que sea de utilidad para el ejercicio del derecho a la información pública o la que conforme a la ley tenga que hacerse pública.
+Además de lo señalado en el párrafo que antecede, el Congreso del Estado deberá poner a disposición del público y actualizada en su página de internet la información señalada en los artículos 77 y 78 de la Ley antes citada.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -2899,25 +2893,61 @@ Cualquier persona tendrá acceso a los Informes del Resultado de la revisión de
 
 3.- Las controversias entre poderes públicos, iniciadas por el Congreso o cualquiera de sus integrantes.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 249.
 
-La información mínima a que se refieren los artículos anteriores, no restringe ni limita otro tipo de información pública que deba proporcionar el Congreso del Estado, según lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública Para el Estado de Baja California Sur o a solicitud de los interesados en los términos previstos en el mismo ordenamiento.
+El Comité y la Unidad de Transparencia solicitarán a los servidores públicos del Poder Legislativo la información que derive del ejercicio de sus facultades, competencia o funciones para el cumplimiento de sus fines.
 
-El Oficial Mayor con la información que le deberán entregar la Dirección de Finanzas, Dirección de Comunicación Social y Relaciones Publicas, Jefatura de Apoyo Parlamentario, Jefatura de Recursos Materiales y Humanos, Asesores Jurídicos, Fracciones Parlamentarias, Comisiones Legislativas, Mesa Directiva, Junta de Gobierno y Coordinación Política y Órgano de Fiscalización Superior, instruirá a la Jefatura de Informática a publicar en la página Web del Congreso del Estado la información de carácter legislativo, administrativo y financiero requerida en los artículos anteriores.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 250.
 
-Las solicitudes de información pública que se formulen al Congreso del Estado, se atenderán conforme al procedimiento que se establece en la ley de la materia.
+Las solicitudes de información pública que se formulen al Congreso del Estado, se atenderán conforme al procedimiento establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, el Reglamento de Transparencia del Congreso del Estado y los lineamientos que para el efecto se expidan.
 
-> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 251.
 
-El Congreso del Estado establecerá una instancia encargada de la atención de las solicitudes de información pública, la cual será creada conforme a lo que se establece en la Ley de Transparencia y Acceso a la Información Pública Para el Estado de Baja California Sur, denominada Unidad de Acceso a la Información Pública del Poder Legislativo del Estado de Baja California Sur, quien dependerá de la Comisión de Transparencia.
+El Congreso del Estado establecerá un Comité de Transparencia el cual se integrará y tendrá la competencia de acuerdo a lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+
+El Comité de Transparencia se conformará por tres Diputados de la Legislatura, observando para su integración el mismo procedimiento para la elección de las comisiones especiales que prescribe la presente Ley y deberá contar con una integración plural. Los integrantes de la Comisión Permanente de Transparencia no podrán formar parte del Comité de Transparencia. Este deberá quedar instalado al inicio del primer periodo de sesiones de la legislatura entrante a más tardar a la segunda sesión siguiente de aquella que haya quedado instalada la Junta de Gobierno y Coordinación Política. El Comité de Transparencia elegido durará toda la Legislatura.
+
+El Comité de Transparencia de la Legislatura saliente deberá elaborar un informe general de los asuntos, el cual deberá ser entregado al Presidente de la Junta de Gobierno y Coordinación Política, a más tardar tres días antes de la fecha en que concluya la Legislatura, para que este lo integre a la documentación que señala el artículo 244 de esta Ley. El Presidente de la Junta de Gobierno y Coordinación Política entrante deberá entregar el informe al nuevo Comité de Transparencia.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 251 Bis.
+
+El Congreso del Estado contará con una Unidad de Transparencia la cual se integrará de la siguiente forma:
+
+I. Un Titular;
+
+II. Un Auxiliar Jurídico;
+
+III. Un Auxiliar en Informática; y
+
+IV. Por el personal que designe la Junta de Gobierno y Coordinación Política para el cumplimiento de sus fines y buen funcionamiento.
+
+Serán competencia de la Unidad los asuntos a que se refiere el artículo 31 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y los que le asigne el Reglamento de Transparencia del Congreso.
+
+> <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 251 Ter.
+
+El titular de la Unidad de Transparencia, deberá contar con los siguientes requisitos:
+
+I.- Ser de Nacionalidad Mexicana y con residencia en el Estado no menor de cinco años anteriores a la fecha de su designación;
+
+II.- Tener cuando menos treinta años cumplidos al día de su designación;
+
+III.- Poseer el día de la designación, título profesional expedido por la institución legalmente facultada para ello, Cédula Profesional y tres años de experiencia en el ejercicio profesional;
+
+IV.- Contar por lo menos con 3 años de experiencia en temas relacionados con la transparencia;
+
+V.- No haber sido condenado por delito que amerita pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y
+
+VI.- No estar inhabilitado para ejercer cargos públicos en el Estado y la Federación.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -3224,3 +3254,21 @@ B.O. 20 DE OCTUBRE DE 2014.
 B.O. 17 DE OCTUBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2416 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Para los efectos de lo dispuesto por el artículo 41 mediante el cual determina que la representación del Congreso del Estado recaerá en el Presidente de la Mesa Directiva de cada periodo, entrará en vigor a partir del día de toma de protesta de la XV Legislatura del Congreso del Estado de Baja California Sur.
+
+TERCERO.- El Comité y la Unidad de Transparencia del Congreso del Estado de Baja California Sur, por única ocasión deberán quedar instalados dentro de los 15 días naturales siguientes a la entrada en vigor el presente Decreto.
+
+Los recursos materiales y humanos que actualmente se encuentran asignados a la Unidad de Información del Congreso del Estado, pasarán a formar parte de la Unidad de Transparencia.
+
+CUARTO.- El Congreso del Estado de Baja California Sur, deberá expedir a los 30 días naturales siguientes a la entrada en vigor del presente Decreto, el Reglamento de Transparencia del Poder Legislativo del Estado de Baja California Sur, en el cual se especifiquen las atribuciones y facultades del Comité y la Unidad de Transparencia, así como las demás disposiciones que se observarán al interior del Poder Legislativo para garantizar el acceso a la información.
+
+QUINTO.- En el presupuesto del Congreso del Estado de Baja California Sur, para el ejercicio fiscal 2017, se deberán considerar los recursos necesarios para el cumplimiento de las obligaciones en materia de transparencia y el correcto funcionamiento del Comité y la Unidad de Transparencia, así como la página de internet de (sic) Congreso del Estado de Baja California Sur.
+
+SEXTO.- Para la integración de las Comisiones de Desarrollo Social, de los Derechos de la (sic) Niñas, Niños y Adolescentes, De protección Civil, de Infraestructura, y la de la Juventud, tendrán 4 meses a partir de la publicación del presente Decreto.
