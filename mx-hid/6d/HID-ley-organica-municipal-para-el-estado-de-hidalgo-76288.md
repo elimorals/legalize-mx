@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2016-08-01"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -381,13 +381,33 @@ Si alguno de los miembros del Ayuntamiento deja de desempeñar su cargo, será s
 
 Se considera desintegrado un Ayuntamiento, cuando por cualquier causa, aunque sea temporal, falten todos los regidores propietarios y suplentes, quedando sin gobierno el Municipio; si quedan algunos regidores pero no los suficientes para constituir mayoría, se llamará a los suplentes y si así tampoco integran mayoría, el Congreso del Estado hará la declaratoria de desaparición y se estará a lo dispuesto en el Artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 36.
 
-Los Ayuntamientos iniciarán sus funciones en la fecha que establezca la Constitución Política del Estado y, en sesión pública y solemne se tomará la protesta de Ley a los funcionarios electos.
+Quienes integran los Ayuntamientos, tomarán posesión el día cinco de septiembre del año de la elección, conforme lo establece la Constitución Política del Estado y la Legislación Electoral vigente.
 
 Tratándose de elecciones extraordinarias, lo harán en la fecha que señale la autoridad electoral en la convocatoria a dichos comicios, lo que no deberá exceder de un plazo de sesenta días naturales posteriores a la fecha de la elección.
 
-El Presidente entrante, rendirá la protesta de Ley ante el Ayuntamiento saliente y a continuación la tomará a los Síndicos y los Regidores.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 36 BIS.- Para la instalación, quienes integran el Ayuntamiento saliente, convocarán a una sesión pública y solemne, en la que se tomará la protesta a quienes integran el Ayuntamiento entrante.
+
+La instalación de quienes integran el Ayuntamiento entrante, se celebrará en el lugar y hora que se convoque para tales efectos, salvo que se decida realizar en lugar distinto o que exista impedimento para ello, en cuyo caso, quienes integran el Ayuntamiento entrante, podrán sugerir el recinto oficial en el que deberá desarrollarse la ceremonia de instalación.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 36 TER.- Quien presida la titularidad de la Presidencia entrante, rendirá la protesta de Ley ante quienes integran el Ayuntamiento saliente, acto seguido la tomará a las Sindicaturas y Regidurías.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 36 QUATER.- La ausencia de alguno o algunos de quienes integran el Ayuntamiento saliente en los actos de instalación y toma de protesta, no podrán impedir la celebración de éstos, en cuyo caso quien presida la titularidad de la Presidencia entrante, realizará tales actos ante quien presida la titularidad de la Presidencia y/o sindicaturas y/o regidurías del Ayuntamiento saliente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 36 QUINQUIES.- La ausencia en su totalidad de quienes integran el Ayuntamiento saliente en los actos de instalación y toma de protesta, no podrán impedir la celebración de éstos, en cuyo caso quien presida la titularidad de la Presidencia entrante, tomará protesta ante la ciudadanía representativa del Municipio que corresponda, y éste a su vez, tomará protesta a las Sindicaturas y Regidurías entrante.
 
 ###### ARTÍCULO 37.
 
@@ -525,6 +545,14 @@ Las sesiones del Ayuntamiento serán presididas por el Presidente Municipal y mo
 
 Para la atención de asuntos internos y la correspondencia, los Ayuntamientos podrán contar con un Oficial Mayor, nombrado mediante acuerdo de sus integrantes. El presupuesto de egresos contemplará la remuneración que le corresponda.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Es obligación de los ayuntamientos celebrar cuando menos dos sesiones ordinarias al mes, en los términos que señale el reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 49 BIS.- Quienes integran los ayuntamientos, tienen la obligación de asistir con toda puntualidad a las sesiones que celebre el Ayuntamiento cuando hayan sido convocados previamente para tal efecto, salvo causa justificada la cual, comunicarán oportunamente a quien presida la titularidad de la Presidencia Municipal.
+
 ###### ARTÍCULO 50.
 
 Por regla general, los Ayuntamientos están impedidos para revocar sus acuerdos, salvo en los siguientes casos:
@@ -548,6 +576,12 @@ Los Ayuntamientos deberán sesionar en pleno para conocer del ejercicio de las f
 Las sesiones de los Ayuntamientos, constarán en un libro de actas, en el que se registre un extracto de los asuntos tratados, el resultado y sentido de la votación.
 
 Cuando se refieran a normas de carácter general que sean de observancia Municipal o reglamentos, se harán constar íntegramente en el libro de actas, las que deberán ser firmadas en ambos casos por los miembros del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+ARTÍCULO 52 BIS.- Quienes integran los ayuntamientos, tienen la obligación de registrar su asistencia para los efectos de comprobar el quórum de las sesiones en que participen, así mismo, deberán firmar las actas de las sesiones en las que intervengan.
+
+Quien presida la Secretaria General Municipal, podrá dejar constancia de hechos y certificación de documentos en el desarrollo de las sesiones del Ayuntamiento.
 
 ###### ARTÍCULO 53.
 
@@ -2731,7 +2765,9 @@ En caso de que las infracciones a las normas contenidas en la legislación Munic
 
 I.- Amonestación;
 
-II.- Multa que no excederá del importe del jornal o salario de un día, si se tratara de jornalero, obrero o trabajador. Si el infractor fuese no asalariado, la multa no excederá del equivalente a un día de su ingreso;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II.- Multa que no excederá del importe del valor diario de la Unidad de Medida y Actualización vigente, si se tratara de jornalero, obrero o trabajador. Si el infractor fuese no asalariado, se aplicará el mismo criterio, con el principio de proporcionalidad;
 
 III.- Arresto administrativo no mayor de 36 horas;
 
@@ -3116,3 +3152,19 @@ P.O. 1 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 693 QUE ADICIONA UNA FRACCIÓN IX Y SE RECORRE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 126, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
