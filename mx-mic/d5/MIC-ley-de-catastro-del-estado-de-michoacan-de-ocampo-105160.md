@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-catastro-del-estado-de-michoacan-de-ocampo-105160"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-30"
-last_updated: "2016-12-29"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CATASTRO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el martes 30 de diciembre de 2014.
 
@@ -77,11 +77,21 @@ IV. SECRETARÍA: La Secretaría de Finanzas y Administración;
 
 V. AUTORIDAD MUNICIPAL: Los Presidentes Municipales del Estado de Michoacán de Ocampo;
 
-VI. RECAUDADOR DE RENTAS: El titular de la Oficina recaudadora del Estado, establecidas en el artículo 57 del Reglamento Interior de la Administración Pública Centralizada del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VII. LEY: La Ley de Catastro del Estado de Michoacán de Ocampo; y,
+VI. RECAUDADOR DE RENTAS: El titular de la Oficina recaudadora del Estado, establecidas en el artículo 69 del Reglamento Interior de la Administración Pública Centralizada del Estado de Michoacán de Ocampo;
 
-VIII. REGLAMENTO: El Reglamento de la Ley de Catastro del Estado de Michoacán de Ocampo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VII. LEY: La Ley de Catastro del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VIII. REGLAMENTO: El Reglamento de la Ley de Catastro del Estado de Michoacán de Ocampo; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IX. UNIDAD DE MEDIDA Y ACTUALIZACIÓN: Será aquella determinada por el Instituto Nacional de Estadística y Geografía.
 
 ###### ARTÍCULO 5.
 
@@ -676,3 +686,11 @@ Sin perjuicio de lo dispuesto en el artículo transitorio anterior, los Poderes 
 ###### ARTÍCULO CUARTO.
 
 Notifíquese a los Poderes Ejecutivo y Judicial, así como a los 112 ayuntamientos y al Concejo Municipal de Cherán, Michoacán, para su conocimiento y debido cumplimiento.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 333.- REFORMAS A LA LEY DE CATASTRO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1 de enero del año 2017, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado y al Titular de la Auditoría Superior de Michoacán, para los efectos conducentes.
