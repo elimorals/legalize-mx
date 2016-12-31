@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2016-01-09"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -671,7 +671,17 @@ De no querer firmar el acta las o los intervenientes (sic) se asentará tal circ
 
 La o el trabajador que haya sido separado del empleo injustificadamente, a su elección, podrá solicitar ante el Tribunal, que se le reinstale en el trabajo que desempeñaba o que se le indemnice con el importe de tres meses de salario.
 
-Si en el juicio no comprueba la entidad pública alguna causa de rescisión así como el procedimiento administrativo seguido, la o el trabajador tendrá derecho además, cualquiera que hubiese sido al acción intentada, a que se le paguen los salarios vencidos desde la fecha del despido hasta que se cumplimente el laudo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Si en el juicio no comprueba la entidad pública alguna causa de rescisión, así como el procedimiento administrativo seguido, la o el trabajador tendrá derecho, además, cualquiera que hubiese sido la acción intentada, a que se le paguen los salarios vencidos desde la fecha del despido hasta por un período máximo de doce meses, en términos de lo preceptuado en la última parte del párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha dado cumplimiento al laudo, se pagarán también al trabajador los intereses que se generen sobre el importe de quince meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+En caso de muerte del trabajador, dejarán de computarse los salarios vencidos como parte del conflicto, a partir de la fecha del fallecimiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3418,3 +3428,13 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo segundo. Dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto, las Dependencias que regula la presente Ley, deberán contar con el espacio lactario debidamente acondicionado y equipado.
 
 Artículo tercero. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 123.- REFORMA AL ARTÍCULO 33 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 1 de enero de 2017.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
