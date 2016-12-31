@@ -4,7 +4,7 @@ identifier: "HID-codigo-civil-para-el-estado-de-hidalgo-40095"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-08"
-last_updated: "2014-12-22"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40095&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO CIVIL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Código publicado en el Apéndice al Número 38 del Periódico Oficial del Estado de Hidalgo, el 8 de octubre de 1940.
 
@@ -7435,11 +7435,9 @@ Del testamento público simplificado.
 
 Testamento público simplificado es aquél que se otorga ante notario público respecto de un inmueble destinado o que vaya a destinarse a vivienda por el adquirente en la misma escritura que consigne su adquisición o en la que se consigne la regularización del inmueble que lleven a cabo las autoridades del Gobierno Federal, del Estado o Municipios o cualquiera de sus dependencias o entidades, o en acto posterior.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-###### Art. 1530 Ter.
-
-El precio del inmueble o su valor de avalúo no debe exceder del equivalente a 25 veces el salario mínimo general vigente en el Estado de Hidalgo elevado al año, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el Artículo anterior, no importará su monto.
+(sic) 1530 TER.- El precio del inmueble o su valor de avalúo no debe exceder del equivalente a 25 veces la Unidad de Medida y Actualización, al momento de la adquisición. En los casos de regularización de inmuebles que lleven a cabo las dependencias y entidades a que se refiere el artículo anterior, no importará su monto.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
 
@@ -11295,7 +11293,9 @@ El contrato de compra-venta no requiere para su validez formalidad alguna especi
 
 Tratándose de inmuebles, su venta se hará en escritura pública, por regla general.
 
-Los contratos de compraventa sobre bienes inmuebles cuyo valor no exceda del equivalente de trescientos sesenta y cinco veces el salario mínimo general diario vigente en el lugar en que se ubique dicho bien, conforme a avalúo practicado por perito con reconocimiento oficial, así como la constitución de gravámenes reales o su transmisión, para garantizar el precio de tales compraventas, podrán hacerse constar por escrito, en documento que firmen los contratantes ante dos testigos, las firmas de todos los cuales se ratifiquen ante Notario Público, Juez competente o Registrador Público de la Propiedad del mismo lugar.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Los contratos de compraventa sobre bienes inmuebles cuyo valor no exceda del equivalente de trescientas sesenta y cinco veces la Unidad de Medida y Actualización, conforme al avalúo practicado por perito con reconocimiento oficial, así como la constitución de gravámenes reales o su transmisión, para garantizar el precio de tales compraventas, podrán hacerse constar por escrito, en documento que firmen los contratantes ante dos testigos, las firmas de todos los cuales se ratifiquen ante Notario Público, Juez competente o Registrador Público de la Propiedad del mismo lugar.
 
 ###### Art. 2300.
 
@@ -15796,3 +15796,13 @@ El acuerdo de referencia deberá publicarse en el Periódico Oficial del Estado 
 CUARTO. En tanto no se emitan los acuerdos correspondientes para el inicio de la aplicación de esta Ley, continuaran aplicándose las disposiciones señaladas en el transitorio segundo y el reglamento en vigor.
 
 QUINTO. El Titular del Ejecutivo del Estado expedirá el Reglamento de la presente Ley, a más tardar en el plazo de 180 días posteriores a la publicación del primer acuerdo que emita el Secretario de Gobierno.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
