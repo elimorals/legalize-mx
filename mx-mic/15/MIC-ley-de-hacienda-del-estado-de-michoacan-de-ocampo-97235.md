@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-97235"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2016-12-30"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Octagésima Sección, del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 31 de diciembre de 2013.
 
@@ -49,13 +49,13 @@ LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 1°.
 
-La Hacienda Pública del Estado de Michoacán de Ocampo, para los efectos de esta Ley, se constituye entre otros aspectos, con los ingresos que perciba el Gobierno del Estado de Michoacán en cada ejercicio fiscal, por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, participaciones e incentivos en ingresos federales, aportaciones federales, apoyos extraordinarios de la Federación, transferencias federales y municipales por convenio, financiamientos y cualesquiera otros que anualmente se establezcan en la Ley de Ingresos del Estado de Michoacán, para cubrir los gastos públicos a su cargo.
+La Hacienda Pública del Estado de Michoacán de Ocampo, para los efectos de esta Ley, se constituye entre otros aspectos, con los ingresos que perciba el Gobierno del Estado de Michoacán en cada ejercicio fiscal, por concepto de impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos, Ingresos por Venta de Bienes, Participaciones e incentivos en ingresos federales, aportaciones federales, apoyos extraordinarios de la Federación, transferencias federales y municipales por convenio, financiamientos y cualesquiera otros que anualmente se establezcan en la Ley de Ingresos del Estado de Michoacán, para cubrir los gastos públicos a su cargo.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-Ninguna contribución podrá recaudarse si no está prevista en la Ley de Ingresos correspondiente. Sólo podrá destinarse un ingreso a un fin específico, cuando así lo disponga expresamente este Código, la Ley de Ingresos o el Presupuesto de Egresos.
+Ninguna contribución podrá recaudarse si no está prevista en la Ley de Ingresos correspondiente, o por Ley posterior a ella. Sólo podrá destinarse un ingreso a un fin específico, cuando así lo disponga expresamente esta Ley, la Ley de Ingresos o el Presupuesto de Egresos.
 
 ###### ARTÍCULO 2°.
 
@@ -70,6 +70,10 @@ Las disposiciones fiscales que establezcan cargas a las personas, incluidas las 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
 A falta de norma fiscal expresa, se aplicarán las disposiciones del derecho común vigente en el Estado, siempre y cuando su aplicación no sea contraria a la naturaleza jurídica del derecho fiscal.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Entendiéndose como Unidad de Medida y Actualización aquella determinada por el Instituto Nacional de Estadística y Geografía de conformidad con las disposiciones jurídicas aplicables.
 
 ## TÍTULO SEGUNDO. DE LOS IMPUESTOS
 
@@ -103,11 +107,11 @@ De los ingresos derivados de este Impuesto que obtenga el Estado, participarán 
 
 #### SECCIÓN I. DEL OBJETO Y DEL SUJETO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 6°.
 
-Es objeto del Impuesto sobre Enajenación de Vehículos de Motor Usados, la enajenación de vehículos de motor usados, que se realicen entre personas físicas en el territorio del Estado de Michoacán. Así mismo están obligadas a retener y enterar este impuesto, las personas jurídicas colectivas que reciban en consignación vehículos automotores usados y los enajenen.
+Es objeto del Impuesto sobre Enajenación de Vehículos de Motor Usados, la enajenación de vehículos de motor usados, cuyo año modelo corresponda al de aplicación de la Ley de Ingresos del Estado y al del año posterior siguiente, así como a los nueve años modelo anteriores al de aplicación de dicha Ley, que se realicen entre personas físicas en el territorio del Estado de Michoacán. Así mismo están obligadas a retener y enterar este impuesto, las personas jurídicas colectivas que reciban en consignación vehículos automotores usados y los enajenen.
 
 Se exceptúa de lo dispuesto en este artículo, la enajenación de vehículos de motor usados por la que se cause el Impuesto al Valor Agregado, así como las compras de vehículos efectuadas por empresas cuyo giro sea compraventa de vehículos automotores siempre que hayan sido adquiridos a personas físicas que no realicen actividades empresariales.
 
@@ -455,11 +459,11 @@ De los recursos que se obtengan de la recaudación del impuesto sobre servicios 
 
 #### SECCIÓN I. DEL OBJETO Y DEL SUJETO
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 48.
 
-Están obligados al pago del Impuesto sobre Erogaciones por Remuneración al Trabajo Personal Prestado Bajo la Dirección y Dependencia de un Patrón, las personas físicas y morales, así como las Asociaciones en Participación, que realicen dichas erogaciones, dentro del territorio del Estado.
+Se encuentran obligadas al pago del impuesto sobre erogaciones por remuneración al trabajo personal, prestado bajo la dirección y dependencia de un patrón, las personas físicas y morales, así como las asociaciones en participación, que en el Estado de Michoacán, realicen erogaciones en dinero o en especie por concepto de remuneración al trabajo personal subordinado.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -467,11 +471,15 @@ Están obligados al pago del Impuesto sobre Erogaciones por Remuneración al Tra
 
 Quedan comprendidos entre los obligados a que se refiere el artículo 48 de esta Ley, las personas físicas y morales incluidas las asociaciones en participación, que realicen el pago de las remuneraciones afectas a este Impuesto en la Entidad, aun cuando para efectos distintos tengan su domicilio en otra Entidad federativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 50.
 
-Los salarios y demás prestaciones que deriven de una relación laboral, para los efectos de este impuesto, quedan comprendidos en el concepto de remuneración al trabajo personal prestado bajo la Dirección y Dependencia de un Patrón.
+Para los efectos de este impuesto se considerará remuneración al trabajo personal subordinado, los sueldos y salarios así como todas las prestaciones en dinero o en especie, con independencia de la designación que se le otorgue que deriven de un trabajo personal prestado bajo la dirección y dependencia de un patrón.
 
-Para los efectos de este Impuesto, no quedan comprendidas como conceptos de remuneración a que se refiere el párrafo anterior, las prestaciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+No se consideran como parte de la remuneración al trabajo personal subordinado, las prestaciones siguientes:
 
 I. Los instrumentos de trabajo tales como herramientas, ropa y otros similares;
 
@@ -511,9 +519,11 @@ Tampoco formarán parte de las remuneraciones afectas al pago de este Impuesto, 
 
 #### SECCIÓN II. DE LA BASE Y DE LA TASA
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 51.
 
-El Impuesto a que se refiere este Capítulo, se calculará aplicando la tasa del 2% al monto de las remuneraciones devengadas y efectivamente pagadas en el mes de que se trate, por los conceptos a que se refiere el artículo 50 de esta Ley.
+El Impuesto a que se refiere este Capítulo, se determinará, aplicando la tasa del 2% sobre el monto total de las erogaciones realizadas por conceptos de remuneraciones al trabajo personal subordinado.
 
 ###### ARTÍCULO 52.
 
@@ -605,9 +615,11 @@ De los acuerdos o decretos señalados en el párrafo anterior, deberá proporcio
 
 ### CAPÍTULO I. DEL CONCEPTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 61.
 
-Son las contribuciones por el uso o aprovechamiento de los bienes de dominio público del Estado de Michoacán, así como por recibir servicios que presta el Estado en sus funciones de derecho público, que se clasifican en:
+Derechos son las contribuciones por el uso o aprovechamiento de los bienes de dominio público del Estado de Michoacán, así como por recibir servicios que presta el Estado en sus funciones de derecho público, que se clasifican en:
 
 I. Derechos por servicios que se prestan periódicamente; y,
 
@@ -727,11 +739,15 @@ Una vez realizado el pago de los derechos el contribuyente o retenedor deberá d
 
 ### CAPÍTULO VII. DE LAS EXENCIONES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 71.
 
-No se pagarán derechos por los servicios que se presten a Dependencias del Poder Ejecutivo del Estado y a sus Organismos Descentralizados.
+El Gobierno del Estado, los Municipios, los organismos descentralizados o cualquier otra persona, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones o estén exentos de ellas, deberán pagar los derechos que establece esta Ley con las excepciones que se indican a continuación:
 
-Asimismo estarán exentos del pago de los derechos a que se refieren las fracciones I y II del artículo 62 de esta Ley, los vehículos de la Federación, del Estado y de los Municipios, que sean utilizados para la prestación de los servicios públicos de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Los derechos a que se refieren las fracciones I y II del artículo 62 de esta Ley, cuando se trate de vehículos de la Federación, del Estado y de los Municipios que sean utilizados para la prestación de los servicios públicos de:
 
 I. Rescate;
 
@@ -776,6 +792,10 @@ D) Los servidores públicos fiscales del Poder Ejecutivo del Estado, para acredi
 E) Los acusados, para que surtan sus efectos en los procesos penales que se les instruyan; y,
 
 F) Los obreros, para asuntos laborales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Así mismo estarán exentos los Derechos que señale la Ley de Ingresos del Estado del ejercicio fiscal de que se trate.
 
 ###### ARTÍCULO 72.
 
@@ -825,33 +845,119 @@ I. Honorarios y Gastos de ejecución; conforme al reglamento respectivo;
 
 II. Recargos; de acuerdo a las tasas que establezca anualmente la Ley de Ingresos del Estado;
 
-III. Indemnizaciones a favor del erario estatal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV. Fianzas efectivas a favor del erario estatal;
+III. Multas:
 
-V. Donativos y subsidios;
+A) Por infracciones a la Ley de Tránsito y Vialidad del Estado de Michoacán de Ocampo y su Reglamento, que se apliquen por las autoridades estatales, en los municipios cuyas autoridades no han asumido el ejercicio de las funciones que conforme a las disposiciones legales les corresponden y que por lo tanto los servicios se prestan por el Gobierno del Estado;
 
-VI. Herencias vacantes, inmuebles mostrencos y legados en favor del Estado;
+B) Por infracciones a la Ley de Comunicaciones y Transportes del Estado de Michoacán de Ocampo y su Reglamento;
 
-VII. Reintegros por responsabilidades de servidores públicos, de conformidad con la Ley de la materia;
+C) Por infracciones a la Ley Ambiental para el Desarrollo Sustentable del Estado de Michoacán de Ocampo;
 
-VIII. Multas;
+D) Por infracciones a la Ley para la Prevención y Gestión Integral de Residuos en el Estado de Michoacán de Ocampo;
 
-IX. Tesoros ocultos;
+E) Por Infracciones a la Ley para la Prestación de Servicios de Atención, Cuidado y Desarrollo Integral Infantil en el Estado de Michoacán;
 
-X. Estímulos y subsidios de la Federación;
+F) Por infracciones al Reglamento de la Ley de Seguridad Privada del Estado de Michoacán de Ocampo;
 
-XI. Recuperación de las erogaciones por publicación de la convocatoria y de los documentos que se entreguen tanto a contratistas como a proveedores, en la celebración de concursos o adjudicación directa de contratos;
+G) Por infracciones impuestas por la Dirección del Trabajo y Previsión Social;
 
-XII. Las multas por infracciones a lo dispuesto por la normatividad estatal correspondiente;
+H) Por infracciones a lo dispuesto por la Ley para la Prestación de Servicios Inmobiliarios en el Estado de Michoacán;
 
-XIII. Los incentivos que otorgue la Federación por la administración de Impuestos Federales Coordinados, y aquellos que señale el Convenio de Colaboración Administrativa en Materia Fiscal Federal; y,
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XIV. Otros no especificados, así como los que se señalen en la Ley de Ingresos del Estado.
+IV. Multas por infracciones a otras disposiciones estatales fiscales y no fiscales;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V. Reintegros de Recursos Financieros no devengados por Dependencias y Entidades paraestatales de la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VI. Donativos de cualquier naturaleza, distintos a los que se establezcan en las disposiciones de desarrollo urbano del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VII. Indemnizaciones por cheques no pagados por las instituciones bancarias, en los términos de lo dispuesto por el Código Fiscal del Estado de Michoacán de Ocampo, y otras indemnizaciones a favor del Erario Estatal, independientemente de su origen;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VIII. Recuperación de los costos por la realización de los procedimientos de adjudicación de contratos para la adquisición de bienes o servicios, o ejecución de obras públicas, ya sea por licitación pública, por invitación restringida o por adjudicación directa, de conformidad con las leyes y demás disposiciones aplicables en cada materia, como sigue:
+
+A) Conforme al monto que determine la dependencia o entidad competente, el cual debe resultar suficiente para recuperar el costo de la elaboración de las bases de licitación y de la publicación de la convocatoria respectiva o envío de las cartas de invitación, para la adquisición de bienes o servicios; y,
+
+B) Conforme al monto que determine la dependencia o entidad de que se trate, el cual debe resultar suficiente para recuperar el costo de la elaboración de las bases de licitación y de la publicación de la convocatoria respectiva o envío de las cartas de invitación, para la ejecución de obra pública.
+
+Independientemente de la dependencia, coordinación o entidad de la administración pública que realice la adjudicación de contratos a que se refieren los incisos anteriores, el importe que se cobre a los proveedores de bienes y servicios y contratistas de obra, deberá enterarse en la caja de la Secretaría de Finanzas y Administración.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IX. Cuotas de Recuperación de Política de Abasto;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X. Incentivos derivados del Convenio de Colaboración Administrativa en Materia Fiscal Federal, suscrito por el Gobierno del Estado y la Secretaría de Hacienda y Crédito Público:
+
+A) Incentivos por la Administración del Impuesto Sobre la Renta de Contribuyentes Intermedios;
+
+B) Incentivos por la Administración del Impuesto Sobre la Renta por Enajenación de Bienes Inmuebles;
+
+C) Incentivos por la Administración de Multas Federales no Fiscales;
+
+D) Incentivos por la Administración de Derechos por el Otorgamiento de Concesiones, para el Uso o Goce de la Zona Federal Marítimo Terrestre;
+
+E) Incentivos provenientes del Régimen de Incorporación Fiscal;
+
+F) Incentivos por el Fondo de Compensación de Repecos y Régimen de Intermedios;
+
+G) Incentivos por la Administración del Impuesto Sobre la Renta, Impuesto al Valor Agregado, e Impuesto Especial sobre Producción y Servicios, de Pequeños Contribuyentes;
+
+H) Incentivos por administración de contribuciones municipales coordinadas, en los términos de los convenios respectivos;
+
+I) Por actos de Fiscalización Concurrente a Contribuyentes de Impuesto al Valor Agregado;
+
+J) Por Actos de Fiscalización Concurrente a Contribuyentes de Impuesto Sobre la Renta;
+
+K) Incentivos por Actos de Fiscalización Concurrente a Contribuyentes del Impuesto Especial Sobre Producción y Servicios y al Activo; y,
+
+L) Por Actos de Fiscalización del cumplimiento de las obligaciones fiscales y aduaneras, derivadas de la introducción de mercancías y vehículos de procedencia extranjera;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI. Ingresos provenientes de lo dispuesto por la Ley de Extinción de Dominio del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII. Otros Aprovechamientos:
+
+A) Por infracciones a otras leyes y reglamentos no fiscales, de conformidad con los tabuladores que las mismas establezcan;
+
+B) Herencias vacantes, inmuebles mostrencos y legados en favor del Estado;
+
+C) Herencias derivadas de juicios sucesorios, distintas de bienes inmuebles que deriven de juicios de la misma naturaleza, que se incorporen directamente al patrimonio del Estado;
+
+D) Fianzas que se hagan efectivas a favor del Gobierno del Estado, distintas a las que se otorguen en garantía de créditos fiscales;
+
+E) Reintegros por responsabilidades de servidores públicos, de conformidad con la Ley de la Materia;
+
+F) Tesoros ocultos, en un equivalente al 15% del valor de los bienes, determinado por perito especializado en la materia;
+
+G) Por actualización de Constancia en el Registro de Padrón de Proveedores, para personas físicas o morales residentes en el Estado;
+
+H) Por actualización de Constancia en el Registro de Padrón de Proveedores, para personas físicas o morales residentes en el exterior del Estado; y,
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIII. Otros no especificados, así como los que se señalen en la Ley de Ingresos del Estado.
+
+XIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 Cuando los predios que deban donarse a favor del Gobierno del Estado, en términos de lo establecido por el Artículo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, fueren muy pequeñas o de difícil aprovechamiento, la Secretaría de Finanzas y Administración, recaudará su equivalente en moneda nacional, conforme a los valores que se determinen.
 
-Cuando se trate de donaciones a favor del Gobierno del Estado, en cumplimiento de la obligación establecida en el citado artículo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, la Secretaría de Finanzas y Administración por conducto de las autoridades catastrales, vigilará el cumplimiento de dicha obligación, al momento de que se le solicite el servicio de desglose a que se refiere el artículo 31 de la Ley de Catastro del Estado de Michoacán de Ocampo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando se trate de donaciones a favor del Gobierno del Estado, en cumplimiento de la obligación establecida en el citado artículo 329 del Código de Desarrollo Urbano del Estado de Michoacán de Ocampo, la Secretaría de Finanzas y Administración por conducto de las autoridades catastrales, vigilará el cumplimiento de dicha obligación, al momento de que se le solicite el servicio de desglose a que se refiere el Capítulo Sexto del Título Primero de la Ley de Catastro del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO 77.
 
@@ -861,27 +967,31 @@ Los aprovechamientos se harán efectivos según proceda en cada caso, atendiendo
 
 Tratándose de aprovechamientos a que se refiere el presente titulo, que no hayan sido cubiertos en la fecha o dentro del plazo fijado por la normatividad correspondiente, se causarán accesorios por concepto de multas y otros accesorios, además de recargos de acuerdo a las tasas que establezca anualmente la Ley de Ingresos del Estado.
 
-## TÍTULO SÉPTIMO. INGRESOS POR VENTA DE BIENES Y SERVICIOS, Y OTROS INGRESOS DE ORIGEN ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+## TÍTULO SÉPTIMO. INGRESOS POR VENTAS DE BIENES Y SERVICIOS
 
 ### CAPÍTULO I. INGRESOS POR VENTA DE BIENES Y SERVICIOS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 79.
 
-Son los recursos propios que se obtienen por las diversas Dependencias del Poder Ejecutivo del Estado por sus actividades de producción y/o comercialización.
+Son recursos propios que obtienen las diversas entidades que conforman el sector paraestatal y gobierno central por sus actividades de producción y/o comercialización; los que se clasifican en:
 
-### CAPÍTULO II. OTROS INGRESOS DE ORIGEN ESTATAL
+I. Ingresos por ventas de bienes y servicios de organismos descentralizados;
+
+II. Ingresos de operación de entidades paraestatales empresariales; y
+
+III. Ingresos por ventas de bienes y servicios producidos en establecimientos del Gobierno Central.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO II
 
 ###### ARTÍCULO 80.
 
-Otros ingresos de origen estatal, son los que se obtienen por:
-
-I. Los reintegros de recursos otorgados por el Estado, para financiar la operación de las dependencias, coordinaciones y entidades de la Administración Pública Estatal, que no hayan sido ejercidos al 31 de diciembre del año de que se trate;
-
-II. Por la aportación de municipios para la ejecución de obras públicas que se concerten por las dependencias o entidades ejecutoras con las autoridades municipales, mediante la suscripción de los acuerdos correspondientes; y,
-
-III. Cualquier otro concepto distinto a los regulados en la presente Ley.
-
-De los acuerdos referidos en la fracción II antes referida, deberá proporcionarse copia a la Secretaría de Finanzas y Administración dentro de los 15 días siguientes a la fecha de su firma, a efecto de que se realice la recaudación de las aportaciones concertadas.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ## TÍTULO OCTAVO. DE LAS PARTICIPACIONES, APORTACIONES, TRANFERENCIAS (SIC) POR CONVENIO Y OTRAS TRANSFERENCIAS FEDERALES
 
@@ -902,6 +1012,14 @@ Los ingresos del Estado provenientes de los Fondos de Aportaciones Federales, se
 ###### ARTÍCULO 83.
 
 Los ingresos que conforme a los convenios respectivos se transfieran al Estado, derivados de reasignaciones de responsabilidades y recursos del Presupuesto de Egresos de la Federación para el año de que se trate, para financiar programas coordinados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 83-A.
+
+Las contribuciones de mejoras a cargo de los Municipios para la ejecución de obras públicas que se convengan por las dependencias o entidades ejecutoras con las autoridades municipales, mediante la suscripción de los acuerdos correspondientes.
+
+Se deberá proporcionar copia del convenio respectivo a la Secretaría de Finanzas y Administración dentro de los quince días siguientes a la fecha de su firma, a efecto de que se realice la recaudación de las aportaciones financieras concertadas.
 
 ### CAPÍTULO IV. OTRAS TRANSFERENCIAS FDERALES (SIC)
 
@@ -1000,3 +1118,13 @@ El presente Decreto entrará en vigor el día 1° primero de enero del año 2017
 ###### ARTÍCULO SEGUNDO.
 
 Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado y al Titular de la Auditoría Superior de Michoacán, para los efectos conducentes.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 332 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1°, 6° PRIMER PÁRRAFO, 48, 50 PRIMER Y SEGUNDO PÁRRAFOS, 51, 61 PRIMER PÁRRAFO; 71 PRIMER Y SEGUNDO PÁRRAFOS; 76 PÁRRAFO PRIMERO FRACCIONES III, IV, V, VI, VII, VIII, IX, X, XI, XII Y XIII Y PÁRRAFO TERCERO, LA DENOMINACIÓN DEL TÍTULO SÉPTIMO Y 79; SE ADICIONAN LOS ARTÍCULOS 2° CON UN QUINTO PÁRRAFO; 71 CON UN CUARTO PÁRRAFO Y 83-A; Y, SE DEROGAN LA FRACCIÓN XIV DEL ARTÍCULO 76, EL CAPÍTULO II DEL TÍTULO SÉPTIMO Y EL ARTÍCULO 80, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del 1° de enero del año 2017, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dése cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado y al Titular de la Auditoría Superior de Michoacán, para los efectos conducentes.
+
+El Titular del Poder Ejecutivo del Estado, acompañado del refrendo del Secretario de Gobierno, de conformidad con lo dispuesto por la primera parte del artículo 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, dispondrá se publique y observe.
