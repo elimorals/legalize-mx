@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-proyectos-de-prestacion-de-servicios-del-estado-de-57214
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2010-07-07"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE PROYECTOS DE PRESTACION DE SERVICIOS DEL ESTADO DE CHIAPAS
 
-LEY DE PROYECTOS DE PRESTACION DE SERVICIOS DEL ESTADO DE CHIAPAS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO CUARTO DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2010
+LEY DE PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO DE CHIAPAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 22 de agosto de 2007.
 
@@ -35,7 +37,7 @@ La Honorable Sexagésima Segunda Legislatura Constitucional del Estado Libre y S
 
 Considerando
 
-.
+[...]
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir el siguiente Decreto de:
 
@@ -573,10 +575,26 @@ De conformidad con la fracción I del artículo 42 de la Constitución Política
 
 Juan Sabines Guerrero, Gobernador del Estado.- Jorge Antonio Morales Messner, Secretario de Gobierno.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
 
 P.O. 7 DE JULIO DE 2010.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 036 LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- El Reglamento de la Ley de Asociaciones Público Privadas para el Estado de Chiapas, deberá publicarse en un plazo que no exceda de ciento ochenta días naturales, contados a partir de la fecha de la publicación del presente Decreto; hasta en tanto, seguirán aplicándose las disposiciones contenidas en el Reglamento de la Ley de Proyectos de Prestación de Servicios del Estado de Chiapas, en lo que no contravenga a lo dispuesto por la Ley que a través del presente se expide.
+
+Artículo Tercero.- Los proyectos equiparables a los regulados por esta Ley, iniciados con antelación a su vigencia, y que se encuentren en proceso de contratación o ejecución a la entrada en vigor de la presente, continuarán rigiéndose conforme a las disposiciones imperantes al momento de su contratación o ejecución.
+
+Artículo Cuarto.- A partir de la entrada en vigor de la presente Ley, se abroga la Ley de Proyectos de Prestación de Servicios del Estado de Chiapas y todas las referencias que otros instrumentos jurídicos realicen a ese ordenamiento deberán entenderse realizadas a la presente Ley. De igual forma, las referencias a proyectos de prestación de servicios deberán entenderse realizadas a proyectos de asociación público privada regulados en la presente Ley.
+
+Artículo Quinto.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Sexto.- Para la interpretación de lo dispuesto en el presente instrumento, así como para las situaciones no previstas, la Secretaría de Hacienda, y la Secretaría de Planeación, Gestión Pública y Programa de Gobierno, resolverán lo conducente.
