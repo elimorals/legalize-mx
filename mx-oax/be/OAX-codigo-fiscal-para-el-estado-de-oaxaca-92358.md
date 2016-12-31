@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2015-12-31"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # CODIGO FISCAL PARA EL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -73,9 +75,29 @@ IV. Reglas: A las Reglas de Carácter General;
 
 V. Secretaría: A la Secretaría de Finanzas del Poder Ejecutivo del Estado;
 
-VI. Secretario: Al Titular de la Secretaría, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VII. Tribunal: Al Tribunal de lo Contencioso Administrativo del Estado de Oaxaca.
+VI. Secretario: Al Titular de la Secretaría;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VII. Tribunal: Tribunal de lo Contencioso Administrativo y de Cuentas del Poder Judicial del Estado de Oaxaca, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VIII. Entidades Públicas: Instituciones de la Administración Pública Estatal y Federal;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IX. Entidades Privadas: Personas Morales legalmente constituidas, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X. Administración de Ingresos Públicos: Acciones de Fiscalización y Recaudación voluntaria o coercitiva.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI. Unidad de Medida y Actualización: Unidad de cuenta, índice, base, medida o referencia establecida por el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, y la ley reglamentaria de la materia.
 
 ###### ARTÍCULO 3.
 
@@ -103,7 +125,9 @@ V. La Ley de Catastro para el Estado de Oaxaca;
 
 VI. Los ordenamientos relativos a los servicios administrativos para la recaudación, distribución y control de los ingresos;
 
-VII. Los convenios de colaboración administrativa, que celebre el gobierno del Estado con sus municipios, con el Gobierno Federal; y, en general con cualquier otra entidad federativa, en materia fiscal, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VII. Los convenios de colaboración administrativa y sus anexos, que celebre el Gobierno del Estado con la Federación, con sus Municipios y en general con cualquier otra entidad federativa, en materia fiscal, y
 
 VIII. Las demás leyes, reglamentos y disposiciones de carácter fiscal.
 
@@ -119,13 +143,17 @@ I. El Gobernador del Estado;
 
 II. El Secretario de Finanzas;
 
-III. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III. El Subsecretario de Ingresos;
 
 IV. El Procurador Fiscal y los Directores de la Procuraduría a su cargo;
 
 V. El Tesorero y los Coordinadores de la Tesorería a su cargo;
 
-VI. El Director de Ingresos y los Coordinadores de la Dirección a su cargo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VI. El Director de Ingresos y Recaudación, y los Coordinadores de la Dirección a su cargo;
 
 VII. El Director de Auditoría e Inspección Fiscal y los Coordinadores de la Dirección a su cargo;
 
@@ -139,7 +167,9 @@ IX. El Coordinador de Delegaciones Fiscales, delegados y subdelegaciones fiscale
 
 X. Director General del Instituto Catastral del Estado y los Coordinadores de la Dirección a su cargo;
 
-XI. Los organismos autorizados para la administración y recaudación de ingresos públicos, en el desempeño de dichas funciones, así como los servidores públicos federales y municipales, cuando los Convenios de Colaboración celebrados, así lo prevengan, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI. Las entidades públicas o privadas autorizadas para la administración de ingresos públicos, en el ejercicio de dichas funciones. Así como los servidores públicos federales y municipales, cuando los Convenios de Colaboración celebrados, así lo prevengan, y
 
 XII. Quienes conforme a las disposiciones legales estatales o convenios de colaboración tengan facultades para administrar ingresos fiscales.
 
@@ -873,7 +903,9 @@ La solicitud de inscripción y avisos de apertura o cierre de establecimientos d
 
 La Secretaría llevará de conformidad con este artículo y asignará la clave que corresponda conforme las Reglas emitidas para tal efecto, el registro estatal de contribuyentes que corresponda a cada persona inscrita, utilizando y basándose, en los datos que por los interesados le sean proporcionados. Para estos efectos, se podrá considerar y utilizar la clave del registro federal de contribuyentes cuando de forma general, haya sido autorizado por la Secretaría mediante Reglas.
 
-Los obligados a presentar los avisos a que se refiere este (sic) el Reglamento de este Código, deberán citar la clave que les haya sido asignada en todo documento que se presente ante las autoridades fiscales, y en su caso, ante las jurisdiccionales, cuando en este último caso se trate de asuntos en los que la Secretaría sea parte.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Los obligados a presentar los avisos a que se refiere el Reglamento de este Código, deberán citar la clave que se haya asignado en todo documento que se presente ante las autoridades fiscales, y en su caso, ante las jurisdiccionales, cuando en este último caso se trate de asuntos en los que la Secretaría sea parte.
 
 Cuando a los obligados señalados en este artículo les hubieren iniciado facultades de comprobación, las autoridades fiscales estatales, aun en su carácter de autoridades fiscales federales en términos de los convenios celebrados con la Secretaría de Hacienda y Crédito Público, y se coloquen en cualquiera de los supuestos para presentar avisos al registro estatal de contribuyentes, deberán presentar los avisos con cinco días de anticipación a aquél en que se dé el supuesto que corresponda, y deberán proporcionar copia dentro del mismo término a las autoridades que directamente estén ejerciendo las referidas facultades de comprobación.
 
@@ -1979,7 +2011,9 @@ Cuando los interesados en el ejercicio de sus derechos hubiesen señalado domici
 
 Cuando la notificación se efectúe personalmente en el domicilio del afectado, si no se encuentra a quien debe ser notificado, se practicará con cualquier persona que se encuentre en dicho domicilio, de lo cual deberá dejarse constancia en el acta o documento escrito que al efecto se levante. En el caso de visitas domiciliarias la notificación de la orden se llevará a cabo en el lugar o lugares señalados en la misma.
 
-Cuando las notificaciones tengan por objeto el requerimiento para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán honorarios a cargo de quien incurrió en el incumplimiento, los cuales serán igual a seis veces el salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando las notificaciones tengan por objeto el requerimiento para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán honorarios a cargo de quien incurrió en el incumplimiento, los cuales serán igual a seis veces el valor de la Unidad de Medida y Actualización vigente.
 
 ###### ARTÍCULO 141.
 
@@ -2719,11 +2753,15 @@ II. Por la de embargo, incluyendo el señalado en la fracción V del artículo 1
 
 III. Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a cinco salarios mínimos generales vigentes en el Estado, se cobrará esta cantidad.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando en los casos de las fracciones anteriores, el dos por ciento del crédito sea inferior a cinco veces el valor de la Unidad de Medida y Actualización vigente, se cobrará esta cantidad.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven del embargo señalado en la fracción V del artículo 129 de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles que sean adjudicados a favor del Estado en los términos de lo previsto por los artículos 234 y 235 de este Código, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen a los bienes que sean objeto de remate, o cualquier otro que no siendo de los previstos dentro del procedimiento aplicable, se eroguen con carácter extraordinario.
 
-En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de dos salarios mínimos generales vigentes en el Estado elevados al año.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+En ningún caso los gastos de ejecución por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de dos veces el valor de la Unidad de Medida y Actualización vigente elevados al año.
 
 Los gastos de ejecución tienen la finalidad de resarcir a la administración pública de los gastos que se originan al mantener y poner en movimiento el aparato administrativo necesario para rescatar a través del procedimiento administrativo de ejecución los créditos que siendo firmes en favor del Estado, no sean pagados espontáneamente dentro de los plazos establecidos en este Código por el deudor, y se establecerán en cantidad líquida por la autoridad ejecutora, debiendo ser pagados junto con los demás créditos fiscales.
 
@@ -3407,7 +3445,9 @@ En el recurso de revocación se admitirá toda clase de pruebas, excepto la test
 
 Las pruebas supervenientes podrán presentarse siempre que no se haya dictado la resolución del recurso.
 
-Cuando el recurrente anuncie que exhibirá las pruebas en términos de lo previsto por el último párrafo del artículo 248 de este Código, tendrá un plazo de dos meses contados a partir de la fecha en que haya efectuado el anuncio correspondiente, para presentarlas.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando el recurrente anuncie que exhibirá las pruebas en términos de lo previsto por el último párrafo del artículo 248 de este Código, tendrá un plazo de quince días contados a partir de la fecha en que haya efectuado el anuncio correspondiente, para presentarlas.
 
 La autoridad que conozca del recurso, para un mejor conocimiento de los hechos controvertidos, podrá acordar la exhibición de cualquier documento que tenga relación con los mismos, así como ordenar la práctica de cualquier diligencia.
 
@@ -3591,37 +3631,63 @@ En caso que no existan agravantes o reincidencia en la omisión de pago de contr
 
 Son infracciones relacionadas con el registro estatal de contribuyentes las siguientes:
 
-I. No solicitar la inscripción cuando se está obligado a ello o hacerlo extemporáneamente; se impondrá una multa de 50 a 100 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II. No presentar los avisos al registro estatal de contribuyentes o hacerlo extemporáneamente; se impondrá una multa de 50 a 100 veces el salario mínimo general vigente en el Estado;
+I. No solicitar la inscripción cuando se está obligado a ello o hacerlo extemporáneamente; se impondrá una multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente;
 
-III. No citar la clave del registro estatal de contribuyentes o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales y jurisdiccionales, cuando se esté obligado conforme este Código; se impondrá una multa de 25 a 50 veces el salario mínimo general vigente en el Estado, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV. Señalar como domicilio fiscal para efectos del registro estatal de contribuyentes, un lugar distinto del que corresponda conforme al artículo 17 de este Código; se impondrá una multa de 50 a 100 veces el salario mínimo general vigente en el Estado.
+II. No presentar los avisos al registro estatal de contribuyentes o hacerlo extemporáneamente; se impondrá una multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III. No citar la clave del registro estatal de contribuyentes o utilizar alguna no asignada por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales y jurisdiccionales, cuando se esté obligado conforme este Código; se impondrá una multa de veinticinco a cincuenta veces el valor de la Unidad de Medida y Actualización vigente, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV. Señalar como domicilio fiscal para efectos del registro estatal de contribuyentes, un lugar distinto del que corresponda conforme al artículo 17 de este Código; se impondrá una multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
 
 ###### ARTÍCULO 269.
 
 Son infracciones relacionadas con la obligación de pago de las contribuciones, así como de presentación de declaraciones, solicitudes, documentación, avisos, información o expedir constancias:
 
-I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales, o no hacerlo a través de los medios electrónicos que señale la Secretaría, o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos o no hacerlo a través de los medios electrónicos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos; se impondrá una multa de 50 a 100 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+I. No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales, o no hacerlo a través de los medios electrónicos que señale la Secretaría, o presentarlos a requerimiento de las autoridades fiscales. No cumplir los requerimientos de las autoridades fiscales para presentar alguno de los documentos o no hacerlo a través de los medios electrónicos a que se refiere esta fracción, o cumplirlos fuera de los plazos señalados en los mismos; se impondrá una multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente;
 
 II. No presentar o hacerlo fuera del plazo señalado en el requerimiento de la autoridad fiscal las declaraciones, las solicitudes, documentación, avisos, contratos, información o constancias que exijan las disposiciones fiscales, se impondrán las siguientes multas:
 
-a) De 25 a 50 veces el salario mínimo general vigente en el Estado, para el primer requerimiento;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-b) De 50 a 100 veces el salario mínimo general vigente en el Estado, para el segundo requerimiento, y
+a) De veinticinco a cincuenta veces el valor de la Unidad de Medida y Actualización vigente, para el primer requerimiento;
 
-c) De 100 a 150 veces el salario mínimo general vigente en el Estado, para el tercer requerimiento;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-III. Presentar las declaraciones, las solicitudes, los avisos, o expedir constancias, incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales, o bien cuando se presenten con dichas irregularidades, las declaraciones o los avisos en medios electrónicos;
+b) De cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente, para el segundo requerimiento, y
 
-IV. No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales; se impondrá una multa de 50 a 100 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-V. No efectuar el monto correcto de las contribuciones en términos de las disposiciones fiscales; se impondrá una multa de 50 a 100 veces el salario mínimo general vigente en el Estado;
+c) De cien a ciento cincuenta veces el valor de la Unidad de Medida y Actualización vigente, para el tercer requerimiento;
 
-VI. No presentar aviso de cambio de domicilio fiscal o de establecimientos, o presentarlo fuera de los plazos que señale el Reglamento; se impondrá una multa de 100 a 150 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VII. No dictaminar el cumplimiento de sus obligaciones fiscales estatales en los casos y de conformidad con lo previsto en el artículo 81 de este Código, o no presentar dicho dictamen dentro de los términos previstos por las disposiciones fiscales estatales; se impondrá una multa de 150 a 200 veces el salario mínimo general vigente en el Estado, y
+III. Presentar las declaraciones, las solicitudes, los avisos, o expedir constancias, incompletos, con errores o en forma distinta a lo señalado por las disposiciones fiscales, o bien cuando se presenten con dichas irregularidades, las declaraciones o los avisos en medios electrónicos; se impondrá una multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV. No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales; se impondrá una multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V. No efectuar el monto correcto de las contribuciones en términos de las disposiciones fiscales; se impondrá una multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VI. No presentar aviso de cambio de domicilio fiscal o de establecimientos, o presentarlo fuera de los plazos que señale el Reglamento; se impondrá una multa de cien a ciento cincuenta veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VII. No dictaminar el cumplimiento de sus obligaciones fiscales estatales en los casos y de conformidad con lo previsto en el artículo 81 de este Código, o no presentar dicho dictamen dentro de los términos previstos por las disposiciones fiscales estatales; se impondrá una multa de ciento cincuenta a doscientas veces el valor de la Unidad de Medida y Actualización vigente, y
 
 VIII. El incumplimiento de las obligaciones fiscales de los contribuyentes que deben elaborar los contadores públicos de conformidad con el artículo 81 de este Código, que el contador público que dictamina no observe la omisión de contribuciones retenidas o propias del contribuyente, cuando dichas omisiones se vinculen al incumplimiento de las normas internacionales de auditoria y la información que rinda como resultado de los mismos y siempre que la omisión sea determinada por las autoridades fiscales en ejercicio de sus facultades de comprobación, mediante resolución que haya quedado firme; se impondrá una multa del 10% al 20% de las contribuciones omitidas, sin que dicha multa exceda del doble de los honorarios cobrados por la elaboración del dictamen. No se incurrirá en esta infracción cuando la omisión determinada no supere el 20% de las contribuciones retenidas o el 30% tratándose de las contribuciones propias.
 
@@ -3629,21 +3695,35 @@ VIII. El incumplimiento de las obligaciones fiscales de los contribuyentes que d
 
 Son infracciones relacionadas con la obligación de llevar contabilidad, las siguientes:
 
-I. No llevar contabilidad, se impondrá una multa de 100 a 150 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II. Llevar la contabilidad en forma distinta a las disposiciones de este Código, su Reglamento o las demás leyes fiscales, o llevarla en lugares distintos a los señalados en dichas disposiciones; se impondrá una multa de 150 a 200 veces el salario mínimo general vigente en el Estado;
+I. No llevarla, se impondrá una multa de cien a ciento cincuenta veces el valor de la Unidad de Medida y Actualización vigente;
 
-III. No hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos, inexactos o fuera de los plazos respectivos; se impondrá una multa de 100 a 150 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV. No conservar la contabilidad a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales; se impondrá una multa de 150 a 200 veces el salario mínimo general vigente en el Estado;
+II. Llevarla en forma distinta a las disposiciones de este Código, su Reglamento o las demás leyes fiscales, o llevarla en lugares distintos a los señalados en dichas disposiciones; se impondrá una multa de ciento cincuenta a doscientas veces el valor de la Unidad de Medida y Actualización vigente;
 
-V. No expedir o no entregar comprobante de las operaciones que realice, cuando las disposiciones fiscales lo establezcan, o expedirlos sin los requisitos fiscales estatales; se impondrá una multa de 150 a 200 veces el salario mínimo general vigente en el Estado, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VI. Expedir comprobantes fiscales asentando nombre, denominación, razón social o domicilio de persona distinta a la que adquiere el bien, o contrate el uso o goce temporal de bienes o el uso de servicios, se impondrá una multa de 150 a 200 veces el salario mínimo general vigente en el Estado.
+III. No realizar los registros correspondientes a las operaciones efectuadas, hacerlos incompletos, inexactos o fuera de los plazos respectivos; se impondrá una multa de cien a ciento cincuenta veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV. No conservarla a disposición de las autoridades por el plazo que establezcan las disposiciones fiscales; se impondrá una multa de ciento cincuenta a doscientas veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V. No expedir o no entregar comprobante de las operaciones que realice, cuando las disposiciones fiscales lo establezcan, o expedirlos sin los requisitos fiscales estatales; se impondrá una multa de ciento cincuenta a doscientas veces el valor de la Unidad de Medida y Actualización vigente, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VI. Expedir comprobantes fiscales asentando nombre, denominación, razón social o domicilio de persona distinta a la que adquiere el bien, o contrate el uso o goce temporal de bienes o el uso de servicios, se impondrá una multa de ciento cincuenta a doscientas veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 271.
 
-Son infracciones relacionadas con el ejercicio de las facultades de comprobación las que a continuación se señalan, por las que se impondrá una sanción de 150 a 200 veces el salario mínimo general vigente en el Estado:
+Son infracciones relacionadas con el ejercicio de las facultades de comprobación las que a continuación se señalan, por las que se impondrá una sanción de ciento cincuenta a doscientas veces el valor de la Unidad de Medida y Actualización vigente:
 
 I. Oponerse a que se practique la visita; no suministrar los datos e informes que legalmente exijan las autoridades fiscales; no proporcionar la contabilidad o parte de ella y en general, los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros;
 
@@ -3657,45 +3737,79 @@ V. Presentar fuera de los plazos establecidos en el artículo 153 de este Códig
 
 VI. No presentar en el lugar señalado en el mandamiento correspondiente, la documentación que le hubiere sido requerida para su revisión en las oficinas de la autoridad en los términos del artículo 150 fracción I de este Código.
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO NO. 14 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2016, SE ADVIERTE QUE FUERON REESTRUCTURADAS LAS FRACCIONES DE ESTE ARTÍCULO, PÁGINA DE LA 15 A LA 16.]</small>
+
 ###### ARTÍCULO 272.
 
 Además de las que otras leyes señalen expresamente, son infracciones, en que pueden incurrir los servidores públicos en el ejercicio de sus funciones:
 
-I. Dar entrada o curso a documentos o libros que carezcan en todo o en parte de los requisitos establecidos en las disposiciones fiscales y en general, no vigilar el cumplimiento de éstas, se impondrá una multa por el equivalente de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II. Extender actas, legalizar firmas, expedir certificados o certificaciones, autorizar documentos o libros, inscribirlos o registrarlos, sin que exista constancia de pago de los gravámenes correspondientes, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+I. Dar entrada o curso a documentos o libros que carezcan en todo o en parte de los requisitos establecidos en las disposiciones fiscales, y en general no vigilar el cumplimiento de éstas, se impondrá una multa por el equivalente de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
 
-III. Recibir el pago de un crédito fiscal y no contabilizar o enterar su importe de inmediato o dentro de los plazos que al efecto prevengan las disposiciones fiscales, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV. No presentar ni proporcionar o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; o no prestar el auxilio y colaboración que este Código establece a las autoridades fiscales, inspectores, valuadores y ejecutores que tengan encomendadas la determinación o cobro de las diversas prestaciones fiscales, o presentar cualesquiera de los elementos a que se contrae esta fracción, alterados o falsificados, dará lugar una multa por el equivalente de 50 a 80 veces el salario mínimo general vigente en el Estado;
+II. Extender actas, legalizar firmas, expedir certificados o certificaciones, autorizar documentos o libros, inscribirlos o registrarlos, sin que exista constancia de pago de los gravámenes correspondientes, dará lugar a una multa por el equivalente de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
 
-V. Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se han practicado visitas de inspección, intervenciones o auditorías, o incluir en las actas relativas datos falsos, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VI. Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos manifestados por los sujetos obligados o responsables, o aprovecharse de ellos, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+III. Recibir el pago de un crédito fiscal, no enterar su importe de inmediato o dentro de los plazos que al efecto prevengan las disposiciones fiscales, y no contabilizar el ingreso, dará lugar a una multa por el equivalente de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
 
-VII. Intervenir en la tramitación o resolución de algún asunto, cuando tengan impedimento de acuerdo con las disposiciones fiscales, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VIII. Exigir bajo el título de cooperación, colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en la ley, aun cuando se aplique a la realización de las funciones propias del cargo, dará lugar a una multa por el equivalente de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+IV. No presentar ni proporcionar o hacerlo extemporáneamente, los informes, avisos, datos o documentos que exijan las disposiciones fiscales o presentarlos incompletos o inexactos; o no prestar el auxilio y colaboración que este Código establece a las autoridades fiscales, inspectores, valuadores y ejecutores que tengan encomendadas la determinación o cobro de las diversas prestaciones fiscales, o presentar cualesquiera de los elementos a que se contrae esta fracción, alterados o falsificados, dará lugar (sic) una multa por el equivalente de cincuenta a ochenta veces el valor de la Unidad de Medida y Actualización vigente;
 
-IX. Adquirir los bienes objeto de un remate efectuado por el fisco local, por sí o por medio de interpósita persona, se impondrá una multa de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-X. Exigir el pago de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, se impondrá una multa de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+V. Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se han practicado visitas de inspección, intervenciones o auditorías, o incluir en las actas relativas datos falsos, dará lugar a una multa por el equivalente de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
 
-XI. Omitir la comprobación de la exactitud en los cálculos de contribuciones, sometidas por los notarios o jueces que actúen por receptoría o incurrir en los mismos errores de aquéllos, si ello entraña omisión en el entero de una obligación, se impondrá una multa de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XII. Alterar las bases o tasas vigentes, para el cobro de cualquier gravamen u otorgar beneficio o estímulos fiscales a los obligados, sin estar legalmente facultados para ello, se impondrá una multa de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+VI. Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos manifestados por los sujetos obligados o responsables, o aprovecharse de ellos, dará lugar a una multa por el equivalente de un mil setecientas veinte a dos mil docientos (sic) noventa veces el valor de la Unidad de Medida y Actualización vigente;
 
-XIII. No dar debido cumplimiento a las funciones o actividades que en materia de asistencia o difusión fiscal establezcan los ordenamientos y disposiciones administrativas de la materia, se impondrá una multa de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XIV. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, se impondrá una multa de 1720 a 2290 veces el salario mínimo general vigente en el Estado;
+VII. Intervenir en la tramitación o resolución de algún asunto, cuando tengan impedimento de acuerdo con las disposiciones fiscales, dará lugar a una multa por el equivalente de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
 
-XV. Por la pérdida o extravío de formas valoradas de 10 a 20 veces el salario mínimo general vigente en el Estado, por cada formato, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XVI. Divulgar, o hacer uso personal o indebido de la información confidencial proporcionada conocida con motivo de su participación en los actos de fiscalización, se impondrá una multa de 1720 a 2290 veces el salario mínimo general vigente en el Estado.
+VIII. Exigir bajo el título de cooperación, colaboración u otro semejante, cualquier prestación que no esté expresamente prevista en la ley, aun cuando se aplique a la realización de las funciones propias del cargo, dará lugar a una multa por el equivalente de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IX. Adquirir los bienes objeto de un remate efectuado por el fisco local, por sí o por medio de interpósita persona, se impondrá una multa de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
+
+Exigir el pago de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, se impondrá una multa de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X. Omitir la comprobación de la exactitud en los cálculos de contribuciones, sometidas por los notarios o jueces que actúen por receptoría o incurrir en los mismos errores de aquéllos, si ello entraña omisión en el entero de una obligación, se impondrá una multa de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI. Alterar las bases o tasas vigentes, para el cobro de cualquier gravamen u otorgar beneficio o estímulos fiscales a los obligados, sin estar legalmente facultados para ello, se impondrá una multa de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII. No dar debido cumplimiento a las funciones o actividades que en materia de asistencia o difusión fiscal establezcan los ordenamientos y disposiciones administrativas de la materia, se impondrá una multa de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIII. Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, se impondrá una multa de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIV. Por la pérdida o extravío de formas valoradas de diez a veinte veces el valor de la Unidad de Medida y Actualización vigente, por cada formato, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XV. Divulgar, o hacer uso personal o indebido de la información clasificada como confidencial en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, que sea proporcionada o conocida con motivo de su participación en los actos de fiscalización, se impondrá una multa de un mil setecientas veinte a dos mil doscientas noventa veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 273.
 
-Son infracciones cuya responsabilidad recae sobre terceros, las que a continuación se señalan, por las que se impondrá una sanción de 730 a 1145 veces el salario mínimo general vigente en el Estado:
+Son infracciones cuya responsabilidad recae sobre terceros, las que a continuación se señalan, por las que se impondrá una sanción de setecientas treinta a un mil ciento cuarenta y cinco veces el valor de la Unidad de Medida y Actualización vigente:
 
 I. Asesorar, aconsejar o prestar servicios para omitir total o parcialmente el pago de alguna contribución en contravención a las disposiciones fiscales;
 
@@ -3791,11 +3905,17 @@ La omisión total o parcial de alguna contribución a que se refiere el párrafo
 
 El delito de defraudación fiscal se sancionará con las penas siguientes:
 
-I. Con prisión de tres meses a un año, cuando el monto de lo defraudado no exceda de mil veces el salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II. Con prisión de uno a tres años cuando el monto de lo defraudado exceda de mil veces el salario mínimo general vigente en el Estado pero sea menor de dos mil veces el salario mínimo general vigente en el Estado, y
+I. Con prisión de tres meses a un año, cuando el monto de lo defraudado no exceda de mil veces el valor de la Unidad de Medida y Actualización vigente.
 
-III. Con prisión de tres a siete años cuando el monto de lo defraudado fuere mayor de dos mil veces el salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II. Con prisión de uno a tres años cuando el monto de lo defraudado exceda de mil veces el valor diario de la Unidad de Medida y Actualización vigente pero sea menor de dos mil veces el valor de la Unidad de Medida y Actualización vigente, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III. Con prisión de tres a siete años cuando el monto de lo defraudado fuere mayor de dos mil veces el valor de la Unidad de Medida y Actualización vigente.
 
 Cuando no se pueda determinar la cuantía de lo que se defraudó, la pena será de tres meses a seis años de prisión.
 
@@ -3879,9 +3999,11 @@ II. Oculte, altere o destruya, total o parcialmente los sistemas y registros con
 
 No se formulará querella, si quien encontrándose en los supuestos anteriores subsana la omisión o el ilícito antes de que la autoridad fiscal lo descubra o medie requerimiento, orden de visita o cualquier otra gestión notificada por la misma, tendiente a la comprobación del cumplimiento de las disposiciones fiscales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 286.
 
-Se impondrá sanción de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales, o depositarios por disposición de ley, que, con perjuicio del fisco estatal, dispongan para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto sea mayor a 1000 veces el salario mínimo general vigente en el Estado y menor a 2000 veces el salario mínimo general vigente en el Estado; en el caso de que el valor de lo dispuesto exceda de 2000 veces el salario mínimo general vigente en el Estado, la sanción será de tres a siete años de prisión.
+Se impondrá sanción de tres meses a tres años de prisión, al depositario o interventor designado por las autoridades fiscales, o depositarios por disposición de ley, que, con perjuicio del fisco estatal, dispongan para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido, si el valor de lo dispuesto sea mayor a un mil veces el valor de la Unidad de Medida y Actualización vigente y menor a dos mil veces el valor de la Unidad de Medida y Actualización vigente; en el caso de que el valor de lo dispuesto exceda de dos mil veces el valor de la Unidad de Medida y Actualización vigente, la sanción será de tres a siete años de prisión.
 
 Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositario que los oculte o no los ponga en los términos de ley, a disposición de la autoridad competente, o a quienes en los casos de intervención de la negociación, no entreguen u oculten las cantidades que en numerario debe retirar el depositario designado por la autoridad.
 
@@ -3992,3 +4114,11 @@ P.O. 31 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1667.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 14.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil diecisiete, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
