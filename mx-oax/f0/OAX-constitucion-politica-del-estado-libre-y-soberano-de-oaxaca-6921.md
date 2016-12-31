@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2016-10-17"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1497,17 +1497,15 @@ Si el legislativo insiste en mantener su proyecto original, éste quedará firme
 
 El Ejecutivo del Estado no podrá vetar las resoluciones del Congreso cuando éste ejerza funciones de Colegio Electoral o de Gran Jurado, lo mismo que cuando el Congreso del Estado declaré que debe acusarse a uno de los altos funcionarios del Estado por delitos oficiales; tampoco podrá vetar la legislación orgánica del Poder Legislativo ni los decretos que convoquen a periodos extraordinarios de sesiones;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VII.- En caso de que los proyectos de Ley de Ingresos y/o Presupuesto de Egresos no se aprueben por el Congreso a más tardar el 15 de diciembre, o no se hubiese superado el veto del Ejecutivo, se prorrogará por treinta días naturales la Ley de Ingresos y/o el Presupuesto de Egresos vigente hasta el momento, en todo o en la parte no vetada del proyecto correspondiente.
+VII.- En caso de que los proyectos de Ley de Ingresos y/o Presupuesto de Egresos del Estado no se aprobaran por el Congreso a más tardar el diez de diciembre, o no se hubiese superado el veto del Ejecutivo, se tendrán por extendida su vigencia el año calendario siguiente.
 
-Si vencido el plazo referido no se hubieren aprobado los proyectos de Ley de Ingresos y/o Presupuesto de Egresos o la parte faltante de los mismos, se tendrá por extendida su vigencia por el resto del año calendario del ordenamiento o parte faltante de que se trate.
+El veto a que se refiere la presente fracción se resolverá de acuerdo con las disposiciones contenidas en las fracciones anteriores.
 
-Tratándose de la Ley de Ingresos, el Ejecutivo sólo podrá actualizar los montos, sin aumentar tasas, cuotas o tarifas en los impuestos, derechos o contribuciones; respecto al Presupuesto de Egresos podrá hacer los ajustes que se requieran atendiendo a las necesidades del Estado, en el ejercicio fiscal que corresponda y las derivadas de obligaciones contractuales indexando los montos a la inflación según lo establecido por el Banco de México, en los términos que disponga la ley en la materia, sin afectar los presupuestos del Poder Judicial y de los órganos constitucionales autónomos.
+Rebasada la fecha a que se refiere el párrafo primero de la presente fracción, el Ejecutivo del Estado, tratándose de la Ley de Ingresos del Estado, sólo podrá actualizar los montos estimados de ingresos, sin aumentar las tasas de los impuestos; respecto del Presupuesto de Egresos podrá hacer los ajustes de conformidad con lo establecido en la Ley reglamentaria.
 
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-En el año que corresponda la renovación del titular del Poder Ejecutivo, el Congreso del Estado aprobará la Ley de Ingresos y Decreto de Presupuesto de Egresos del Estado a más tardar el treinta de diciembre.
+Los presupuestos aprobados en el año anterior al Poder Legislativo, Judicial y Órganos Autónomos no podrán afectarse.
 
 ###### ARTICULO 54.
 
@@ -1687,11 +1685,15 @@ XXIII. Coordinar y evaluar, sin perjuicio de la autonomía técnica y de gestió
 
 XXIV. Legislar acerca de la administración, conservación y enajenación de los bienes del Estado, y de la inversión de los capitales que a éste pertenezcan;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XXV. Autorizar por el voto de las dos terceras partes de sus miembros presentes, los montos máximos para contraer obligaciones o empréstitos cuando se destinen a inversiones público productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+XXV. Autorizar por el voto de las dos terceras partes de sus miembros presentes, los montos máximos para contraer financiamiento u obligaciones cuando se destinen a inversiones público productivas, mismas que deberán realizarse bajo las mejores condiciones de mercado, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 Sin perjuicio de lo anterior, el Estado y Municipios podrán contraer obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la legislación general aplicable. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante los últimos tres meses.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 En ningún caso podrán destinarse empréstitos para cubrir gasto corriente.
 
@@ -2269,9 +2271,9 @@ XVVI (SIC). Representar al Estado en las comisiones federales y en las comisione
 
 XVII. Ejercer actos de dominio sobre el patrimonio del Estado en los términos de esta Constitución;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XVIII. Contratar obligaciones o empréstitos, en los términos del artículo 59 fracción XXV de esta Constitución.
+XVIII. Contratar financiamientos u obligaciones, en los términos del artículo 59 fracción XXV de esta Constitución.
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -2325,13 +2327,9 @@ II. Cuidar del puntual cumplimiento de esta Constitución y de las leyes, decret
 
 III. (DEROGADA, P.O. 9 DE JULIO DE 1994)
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV. Presentar al Congreso a más tardar el 25 de noviembre de cada año la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, con el contenido y los anexos que determine la ley.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2016)</small>
-
-Cuando inicie su encargo en la fecha prevista por el artículo 69, el Ejecutivo Estatal presentará al Congreso la iniciativa de Ley de Ingresos y el proyecto de Presupuesto de Egresos del Estado, a más tardar el día cinco de diciembre.
+IV. Presentar al Congreso a más tardar el diecisiete de noviembre de cada año, la iniciativa de Ley de Ingresos y proyecto de Presupuesto de Egresos del Estado, con el contenido y los anexos que determine la Ley reglamentaria.
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2008)</small>
 
@@ -4836,3 +4834,19 @@ P.O. 17 DE OCTUBRE DE 2016.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 6.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Órgano de difusión oficial del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 7.- MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
