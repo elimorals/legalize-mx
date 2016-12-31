@@ -4,7 +4,7 @@ identifier: "HID-ley-de-responsabilidades-de-los-servidores-publicos-5503"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-08"
-last_updated: "2016-05-16"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5503&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 8 de junio de 1984.
 
@@ -385,7 +385,9 @@ Presentada la excusa o la recusación, se calificará dentro de los tres días h
 
 Tanto el inculpado como el denunciante o querellante, podrán solicitar a las oficinas o establecimientos públicos las copias certificadas de documentos que pretendan ofrecer como prueba ante la Comisión, ante el Congreso o ante el Tribunal.
 
-Las autoridades estarán obligadas a expedir dichas copias certificadas, sin demora, y si no lo hicieren la Comisión, el Congreso o el Tribunal a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa hasta de diez veces el salario mínimo diario vigente en el Estado, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Las autoridades estarán obligadas a expedir dichas copias certificadas, sin demora, y si no lo hicieren la Comisión, el Congreso o el Tribunal a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa hasta de diez veces la Unidad de Medida y Actualización vigente, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2015)</small>
 
@@ -675,7 +677,9 @@ IV.- Sanción económica. Retribución que debe hacer el servidor público a fav
 
 V.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público del Estado o Municipios.
 
-Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, la sanción será de seis meses a tres años si el monto de aquéllos no excede de cien veces el salario mínimo mensual vigente en el Estado y de tres años a diez años si excede de dicho límite.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique lucro o cause daños y perjuicios, la sanción será de seis meses a tres años si el monto de aquéllos no excede de cien veces la Unidad de Medida y Actualización vigente, y de tres años a diez años si excede de dicho límite.
 
 ###### ARTICULO 54.
 
@@ -777,11 +781,11 @@ Si el encargado interno de la dependencia o la Asamblea Municipal tuvieran conoc
 
 En el ámbito del Poder Ejecutivo y sólo derivado de la naturaleza de los hechos denunciados o de la gravedad de las presuntas responsabilidades, si la Secretaría de Contraloría y Transparencia Gubernamental estima que debe instruir el procedimiento disciplinario, requerirá al contralor interno de las dependencias, entidades o la Procuraduría General de Justicia, el envío del expediente respectivo e impondrá en su caso y por conducto de su Unidad Administrativa competente, las sanciones administrativas a que haya lugar.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 63.
 
-La dependencia y la Secretaría de Contraloría y Transparencia Gubernamental, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por este no exceda de diez veces el salario mínimo diario vigente en el Estado.
+La dependencia y la Secretaría de Contraloría y Transparencia Gubernamental, en los ámbitos de sus respectivas competencias, podrán abstenerse de sancionar al infractor, por una sola vez, cuando lo estimen pertinente, justificando la causa de la abstención, siempre que se trate de hechos que no revistan gravedad ni constituyan delito, cuando lo ameriten los antecedentes y circunstancias del infractor y el daño causado por este no exceda de diez veces la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -917,7 +921,9 @@ Si el servidor público presunto responsable confesare su responsabilidad por el
 
 Para cumplimiento de las atribuciones que le confiere esta Ley, la Secretaría de Contraloría y Transparencia Gubernamental podrá emplear los siguientes medios de apremio:
 
-I.- Sanción económica hasta de diez veces el salario mínimo diario vigente en el Estado; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+I.- Sanción económica hasta de diez veces la Unidad de Medida y Actualización vigente; y
 
 II.- Auxilio de la fuerza pública.
 
@@ -1019,7 +1025,9 @@ Si transcurrido el plazo a que hace referencia la fracción I de este artículo,
 
 Lo mismo ocurrirá cuando se omita la declaración a que alude la fracción III.
 
-Para el caso de omisión, sin causa justificada, en la presentación de la declaración de conclusión, se impondrá al infractor una sanción económica de cincuenta a doscientos días de salario mínimo vigente en el Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para el caso de omisión, sin causa justificada, en la presentación de la declaración de conclusión, se impondrá al infractor una sanción económica de cincuenta a doscientas veces la Unidad de Medida y Actualización vigente.
 
 El servidor público que en su declaración de situación patrimonial deliberadamente faltare a la verdad en relación con lo que es obligatorio manifestar en términos de la Ley, previa sustanciación del procedimiento a que se refiere el artículo 64, será suspendido sin goce de sueldo de su empleo, cargo o comisión por un período no menor de tres días ni mayor de tres meses, o cuando por su gravedad lo amerite, podrá ser destituido e inhabilitado en términos de lo establecido en los artículos 53 y 54 de esta Ley, sin perjuicio de que la Secretaría de Contraloría y Transparencia Gubernamental o la autoridad competente, formule la denuncia correspondiente ante el Ministerio Público.
 
@@ -1077,7 +1085,9 @@ Para los efectos de esta Ley y del Código Penal, se computarán entre los biene
 
 Durante el desempeño de su empleo, cargo o comisión, y un año después, los servidores públicos no podrán solicitar, aceptar o recibir por sí, o por interpósita persona, dinero o cualquier otra donación, servicio, empleo, cargo, comisión para sí, o para las personas a que se refiere la fracción XV del Artículo 47 y que procedan de cualquier persona cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público en el desempeño de su empleo, cargo o comisión que determinen conflicto de intereses.
 
-Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente, durante un año, cuando el valor acumulado durante ese año no sea superior a diez veces el salario mínimo diario vigente en el Estado en el momento de su recepción.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para los efectos del párrafo anterior, no se considerarán los que reciba el servidor público en una o más ocasiones, de una misma persona física o moral de las mencionadas en el párrafo precedente, durante un año, cuando el valor acumulado durante ese año no sea superior a diez veces la Unidad de Medida y Actualización vigente en el momento de su recepción.
 
 En ningún caso se podrán recibir de dichas personas títulos, valores, bienes inmuebles o cesiones de derechos sobre juicios o controversias en las que se dirima la titularidad de los derechos de posesión o de propiedad sobre bienes de cualquier clase.
 
@@ -1210,3 +1220,13 @@ P.O. 16 DE MAYO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 652.- QUE REFORMA LAS FRACCIONES PRIMERA Y SEGUNDA DEL ARTÍCULO 78, DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS PARA EL ESTADO DE HIDALGO”.]
 
 Único.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
