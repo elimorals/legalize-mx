@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-para-el-estado-de-hidalgo-99814"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-10"
-last_updated: "2016-08-15"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de marzo de 2014.
 
@@ -159,11 +159,13 @@ XXV. Eliminar estereotipos establecidos en función del sexo y del género.
 
 XXVI. Incluir, promover y fomentar la Cultura Turística, como instrumento de integración social incorporando las dimensiones sociales, culturales, ambientales y económicas del turismo, orientadas hacia la consolidación de beneficios comunitarios, resaltando la participación de las comunidades según sus propias características locales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 8°.
 
-El criterio que orientará la educación que el Estado, sus organismos descentralizados y órganos desconcentrados, así como la que los particulares impartan, se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra las mujeres, niñas y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios; además:
+El criterio que orientará la educación que el Estado, sus organismos descentralizados y órganos desconcentrados, así como la que los particulares impartan, atenderá en todo momento el interés superior de la niñez, se basará en los resultados del progreso científico; luchará contra la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra las mujeres, niñas y niños, debiendo implementar políticas públicas de Estado orientadas a la transversalidad de criterios; además:
 
-I. Será democrático, considerando a la democracia no solamente como una• estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
+I. Será democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
 II. Será nacional, en cuanto -sin hostilidades ni exclusivismos- atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de nuestra independencia económica y a la continuidad y acrecentamiento de nuestra cultura;
 
@@ -210,6 +212,10 @@ Las instituciones del Sistema Educativo Estatal impartirán educación de manera
 ###### ARTÍCULO 11.
 
 La aplicación y vigilancia del cumplimiento de la presente ley, corresponde a la autoridad educativa local y municipal, en los términos que la propia ley establece.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Las actuaciones y decisiones que tomen dichas autoridades deberán considerar, primordialmente, el interés superior de la niñez, cuando se trate de la educación que concierna a niñas, niños y adolescentes, las autoridades establecerán los mecanismos necesarios para garantizar este principio.
 
 Para efectos de la presente ley, se entenderá por:
 
@@ -1275,7 +1281,9 @@ En los supuestos previstos en este artículo, además de la aplicación de las s
 
 Las infracciones enumeradas en los artículos anteriores serán sancionadas con:
 
-I. Multa por el equivalente de quinientas a cinco mil veces el salario mínimo vigente en el Estado en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+I. Multa por el equivalente de quinientas a cinco mil veces la Unidad de Medida y Actualización vigente en la fecha en que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia; y
 
 II. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondientes.
 
@@ -1286,6 +1294,10 @@ La imposición de la sanción establecida en la fracción II, no excluye la posi
 ###### ARTÍCULO 94.
 
 Para la tramitación y resolución del recurso administrativo ante la autoridad educativa local, se substanciará conforme a lo dispuesto en la Ley Estatal del Procedimiento Administrativo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando se tome una decisión que afecte a educandos menores de edad, en lo individual o colectivo, las autoridades educativas y escolares deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar el interés superior de la niñez y sus derechos humanos; cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
 
 T R A N S I T O R I O S
 
@@ -1326,3 +1338,19 @@ P.O. 15 DE AGOSTO DE 2016.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
