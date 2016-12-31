@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-atencion-y-sancion-de-la-violencia-familiar-75077"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-24"
-last_updated: "2013-03-11"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75077&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de mayo de 2010.
 
@@ -421,13 +421,15 @@ III.- Los actos de violencia familiar señalados en el Artículo 3 fracción VII
 
 IV.- El incumplimiento e inobservancia de la resolución contenciosa administrativa.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 43.
 
-Se sancionará con multa hasta de 20 días de salario mínimo general vigente en el Estado, por el incumplimiento a la fracción I del Artículo 42 de la presente ley, misma que se duplicará en caso de inasistencia reiterada, hasta por tres ocasiones.
+Se sancionará con multa hasta de 20 veces la Unidad de Medida y Actualización vigente, por el incumplimiento a la fracción I del Artículo 42 de la presente ley, misma que se duplicará en caso de inasistencia reiterada, hasta por tres ocasiones.
 
-El incumplimiento a la resolución a que se refieren la fracción II del citado Artículo, se sancionará con multa hasta de 90 días de salario mínimo general vigente en el Estado.
+El incumplimiento a la resolución a que se refieren la fracción II del citado Artículo, se sancionará con multa hasta de 90 veces la Unidad de Medida y Actualización vigente.
 
-Para el caso de la fracción III del Artículo invocado, la multa será hasta de 120 días de salario mínimo vigente en Hidalgo, al día de la imposición de la sanción, que antecede.
+Para el caso de la fracción III del Artículo invocado, la multa será hasta de 120 veces la Unidad de Medida y Actualización vigente, al día de la imposición de la sanción, que antecede.
 
 ###### ARTÍCULO 44.
 
@@ -486,3 +488,13 @@ LIC. MIGUEL ÁNGEL OSORIO CHONG
 P.O. 11 DE MARZO DE 2013.
 
 ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
