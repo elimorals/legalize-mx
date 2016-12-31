@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2016-08-15"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -921,9 +921,11 @@ IV.- Apoyar la organización para la producción, transformación y comercializa
 
 V.- Propiciar la conformación de organismos productivos, comerciales y de servicios de ramas y sistemas afines, a nivel de grupo, local, Municipal, Regional y Estatal, para el fortalecimiento productivo y comercial de los productores agrícolas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 78.
 
-Para facilitar la conformación de las figuras asociativas, los Presidentes Municipales tendrán la facultad de certificar su constitución dentro del territorio de su jurisdicción sin cobro superior a un salario mínimo vigente en el Estado. En el caso de figuras asociativas que requieren obligadamente la participación de los notarios públicos, el Gobierno del Estado convendrá con éstos los descuentos o cobros mínimos en el otorgamiento de su fe pública y en la protocolización de las mismas; así también, les dará facilidades para su inscripción en el Registro Público de la Propiedad y del Comercio.
+Para facilitar la conformación de las figuras asociativas, los Presidentes Municipales tendrán la facultad de certificar su constitución dentro del territorio de su jurisdicción sin cobro superior al valor diario de la Unidad de Medida y Actualización. En el caso de figuras asociativas que requieren obligadamente la participación de los notarios públicos, el Gobierno del Estado convendrá con éstos los descuentos o cobros mínimos en el otorgamiento de su fe pública y en la protocolización de las mismas; así también, les dará facilidades para su inscripción en el Registro Público de la Propiedad y del Comercio.
 
 ## TITULO SEXTO. DE LAS MEDIDAS DE CONTROL Y SANCIONES
 
@@ -1081,7 +1083,9 @@ X.- Comercializar insumos y productos químicos para la producción agrícola, q
 
 XI.- No cumplir con los términos convenidos en los proyectos y acciones de apoyo, así como los actos u omisiones que propicien el uso indebido de los apoyos directos, subsidios, estímulos y todos aquellos instrumentos económicos diseñados para el desarrollo agrícola.
 
-XII.- Incurrir en lo dispuesto en la fracción XIV del Artículo 27 de la presente Ley, ameritando por ello una sanción pecuniaria de 1000 días de salario mínimo vigente en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII.- Incurrir en lo dispuesto en la fracción XIV del Artículo 27 de la presente Ley, ameritando por ello una sanción pecuniaria de 1000 veces la Unidad de Medida y Actualización.
 
 ###### ARTICULO 97.
 
@@ -1103,13 +1107,19 @@ La Secretaría, mediante un estudio socioeconómico del infractor y si se tratar
 
 El procedimiento que se deberá de seguir para la aplicación de este beneficio, se llevará a cabo, de acuerdo a lo establecido en el Reglamento de la presente Ley.
 
-I.- Con el equivalente de 20 a 100 veces el salario mínimo, a quien cometa las infracciones señaladas en las fracciones I, II, V, VII y X del Artículo 96 de esta Ley.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- Con el equivalente de 50 a 200 veces el salario mínimo, a quien cometa las infracciones señaladas en las fracciones: III, IV, VI, VIII, IX y XI del Artículo 96 de la presente Ley.
+I.- Con el equivalente de 20 a 100 veces la Unidad de Medida y Actualización, a quien cometa las infracciones señaladas en las fracciones I, II, V, VII y X del Artículo 96 de esta Ley.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II.- Con el equivalente de 50 a 200 veces la Unidad de Medida y Actualización, a quien cometa las infracciones señaladas en las fracciones: III, IV, VI, VIII, IX y XI del Artículo 96 de la presente Ley.
 
 En lo que se refiere a la fracción XI del Artículo 96 de esta Ley, los infractores, además de ser sancionados con la aplicación de la multa correspondiente, deberán reintegrar los apoyos proporcionados, por hacer mal uso de los mismos.
 
-Para la imposición de las multas, se tomará como base el salario mínimo vigente en el Estado, al momento de cometerse la infracción.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para la imposición de las multas, se tomará como base la Unidad de Medida y Actualización vigente, al momento de cometerse la infracción.
 
 A los comercializadores, distribuidores de productos agrícolas y demás productores que reincidan, se les aplicará el doble de las multas mencionadas en este Artículo, según corresponda.
 
@@ -1228,3 +1238,13 @@ P.O. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 692 QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO, LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO, LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO, LEY DE FOMENTO COOPERATIVO PARA EL ESTADO DE HIDALGO, LEY DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE HIDALGO, LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO, LEY DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE HIDALGO, LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO, LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO, LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE TULA-TEPEJI Y LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN TODAS DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
