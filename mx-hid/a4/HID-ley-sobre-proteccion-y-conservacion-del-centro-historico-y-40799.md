@@ -4,7 +4,7 @@ identifier: "HID-ley-sobre-proteccion-y-conservacion-del-centro-historico-y-4079
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-06"
-last_updated: "2004-09-06"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "HID"
 ---
 # LEY SOBRE PROTECCION Y CONSERVACION DEL CENTRO HISTORICO Y DEL PATRIMONIO CULTURAL DE LA CIUDAD DE PACHUCA DE SOTO, ESTADO DE HIDALGO
 
-LEY SOBRE PROTECCION Y CONSERVACION DEL CENTRO HISTORICO Y DEL PATRIMONIO CULTURAL DE LA CIUDAD DE PACHUCA DE SOTO, ESTADO DE HIDALGO
+LEY SOBRE PROTECCIÓN Y CONSERVACIÓN DEL CENTRO HISTÓRICO Y DEL PATRIMONIO CULTURAL DE LA CIUDAD DE PACHUCA DE SOTO, ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 6 de septiembre de 2004.
 
@@ -283,7 +283,9 @@ III.- Suspensión temporal de la obra;
 
 IV.- Clausura definitiva;
 
-V.- Multa desde cien hasta diez mil, salarios mínimos vigentes en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V.- Multa desde cien hasta diez mil veces la Unidad de Medida y Actualización vigente;
 
 VI.- Demolición de la obra; y
 
@@ -336,3 +338,15 @@ DADO EN LA RESIDENCIA DEL POER (SIC) EJECUTIVO DEL ESTADO LIBRE Y SOBEANO (SIC) 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
