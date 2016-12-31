@@ -4,7 +4,7 @@ identifier: "HID-ley-de-extincion-de-dominio-para-el-estado-de-hidalgo-80424"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-21"
-last_updated: "2014-12-29"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 29 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de marzo de 2011.
 
@@ -577,9 +575,11 @@ El demandado y el tercero actuarán por sí o a través de sus representantes o 
 
 ### Capítulo IX. De las Notificaciones
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 34.
 
-Las notificaciones, citaciones y emplazamientos, se efectuaran lo mas tarde al tercer día de que se dicten las resoluciones que las prevengan, cuando el juez o la ley no dispusieren otra cosa. Se impondrán de plano a los infractores de este Artículo una multa de hasta diez salarios mínimos.
+Las notificaciones, citaciones y emplazamientos, se efectuaran lo más tarde al tercer día de que se dicten las resoluciones que las prevengan, cuando el juez o la ley no dispusieren otra cosa. Se impondrán de plano a los infractores de este artículo una multa de hasta diez veces de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 35.
 
@@ -727,7 +727,13 @@ El juez valorará las pruebas desahogadas, en los términos que establece el Có
 
 Las audiencias deberán celebrarse de forma oral bajo los principios de inmediación, concentración, contradicción, continuidad y publicidad; salvo las excepciones previstas en esta ley.
 
-Las audiencias serán conducidas por el juez, quien la presidirá en su integridad y se desarrollará oralmente; serán públicas, salvo que, por razones de seguridad del tribunal o de los intervinientes, el juez determine que se efectúen a puerta cerrada; y se llevarán a cabo con o sin la asistencia de las partes. Quien injustificadamente, a criterio del juez, no acuda a las audiencias, será sancionado con de (sic) treinta a cien días de salario mínimo general vigente en la Entidad.
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE LA ÚLTIMA PARTE DEL SEGUNDO PÁRRAFO, PASÓ A SER TERCER PÁRRAFO, DE CONFORMIDAD CON EL DECRETO PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2016.]</small>
+
+Las audiencias serán conducidas por el juez, quien la presidirá en su integridad y se desarrollará oralmente; serán públicas, salvo que, por razones de seguridad del tribunal o de los intervinientes, el juez determine que se efectúen a puerta cerrada; y se llevarán a cabo con o sin la asistencia de las partes.
+
+> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES PARTE FINAL DEL SEGUNDO PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Quien injustificadamente, a criterio del juez, no acuda a las audiencias, será sancionado con de treinta a cien veces de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 51.
 
@@ -735,9 +741,11 @@ La audiencia comenzará con el desahogo de las pruebas del agente del Ministerio
 
 De no ser posible por la hora o por cuestiones procesales, el juez suspenderá la audiencia y citará para su continuación en nueva fecha, dentro de los diez días hábiles siguientes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 52.
 
-La audiencia se celebrará estén o no presentes las partes, excepto el agente del Ministerio Público, así como los peritos o testigos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o testigos que el juez haya citado para la audiencia, tampoco impedirá su celebración; pero se impondrá a los faltistas debidamente notificados, multa de veinte a cien días de salario mínimo vigente.
+La audiencia se celebrará estén o no presentes las partes, excepto el agente del Ministerio Público, así como los peritos o testigos cuya presentación quedará a cargo de la parte que los ofrezca. La falta de asistencia de los peritos o testigos que el juez haya citado para la audiencia, tampoco impedirá su celebración; pero se impondrá a los faltistas debidamente notificados, multa de veinte a cien veces de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 53.
 
@@ -1010,3 +1018,13 @@ PRIMERO. Las reformas a la presente Ley entrarán en vigor a partir de las cero 
 SEGUNDO. Las instituciones involucradas en la aplicación de la presente Ley, deberán establecer planes y programas dirigidos a capacitar a su personal a efecto de darle cabal cumplimiento.
 
 TERCERO. Se derogan todas aquellas disposiciones contrarias a esta Ley.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
