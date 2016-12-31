@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-para-el-estado-de-hidalgo-83957"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-11-21"
-last_updated: "2015-04-06"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "HID"
 ---
 # CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE ABRIL DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 309 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -159,9 +161,9 @@ Son accesorios de las contribuciones: Los recargos, sanciones, gastos de ejecuci
 
 Siempre que en este Código se haga referencia únicamente a contribuciones no se entenderán incluidos los accesorios.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Cuando en los ordenamientos de carácter fiscal se haga referencia a salarios mínimos, estos serán los vigentes para el área geográfica que corresponda al Estado de Hidalgo, de conformidad con lo emitido por la Comisión Nacional de los Salarios Mínimos.
+Cuando en los ordenamientos de carácter fiscal se haga referencia a la Unidad de Medida y Actualización (U.M.A) esta será la que establezca el Sistema Nacional de Información Estadística y Geográfica, que es el organismo facultado para calcular en los términos que señale la ley, el valor de la U.M.A.
 
 ###### ARTÍCULO 17.
 
@@ -719,7 +721,9 @@ Cuando los contribuyentes acrediten cantidades por concepto de estímulos fiscal
 
 El Ayuntamiento, por conducto del Presidente Municipal, podrá cancelar créditos fiscales por incosteabilidad en el cobro o por insolvencia del deudor o de los responsables solidarios, con sujeción a las normas reglamentarias que para el efecto se dicten.
 
-Se consideran créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 5 salarios mínimos diarios del área geográfica que corresponda al Municipio y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquellos, cuyo costo de recuperación sea igual o mayor a su importe.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Se consideran créditos de cobro incosteable, aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a 5 u.m.a.'s y cuyo costo de recuperación rebase el 75% del importe del crédito, así como aquellos, cuyo costo de recuperación sea igual o mayor a su importe.
 
 Se consideran insolventes, los deudores o los responsables solidarios cuando no tengan bienes embargables suficientes para cubrir el crédito o cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
 
@@ -1001,7 +1005,9 @@ X.- Aplicar, en su caso, con el auxilio de las autoridades competentes, las sigu
 
 a).- Apercibimiento;
 
-b).- Multa hasta 10 salarios mínimos;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+b).- Multa hasta 10 u.m.a.'s;
 
 c).- Emplear el auxilio de la fuerza pública; y
 
@@ -1305,7 +1311,9 @@ IX.- Cuando la liquidación de alguna prestación fiscal esté encomendada a fun
 
 X.- La Tesorería Municipal se abstendrá de imponer sanciones, cuando se haya incurrido en infracción a causa de fuerza mayor, de caso fortuito o cuando se enteren en forma espontánea las contribuciones no cubiertas dentro de los plazos señalados por las disposiciones respectivas;
 
-XI.- Las multas establecidas en este código aplicaran considerando el salario mínimo vigente en el Estado de Hidalgo al momento de cometerse la infracción; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI.- Las multas establecidas en este código aplicaran considerando la Unidad de Medida y Actualización vigente al momento de cometerse la infracción; y
 
 XII.- No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones fiscales o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito. Se considerará que el cumplimiento no es espontáneo en el caso de que:
 
@@ -1349,45 +1357,83 @@ En los casos de presentación de declaraciones o avisos cuando por diferentes co
 
 Son infracciones cuya responsabilidad recae sobre los sujetos pasivos de una contribución fiscal, las que a continuación se indican y de las que se señalan las sanciones correspondientes por:
 
-I.- No solicitar la inscripción en el padrón municipal que corresponda cuando se está obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente de manera espontánea, multa de 25 a 50 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- No incluir en las manifestaciones para su inscripción todas las actividades por las que sea contribuyente, multa de 50 a 75 salarios mínimos;
+I.- No solicitar la inscripción en el padrón municipal que corresponda cuando se está obligado a ello o hacerlo extemporáneamente, salvo cuando la solicitud se presente de manera espontánea, multa de 25 a 50 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II.- No incluir en las manifestaciones para su inscripción todas las actividades por las que sea contribuyente, multa de 50 a 75 u.m.a.'s;
 
 III.- No citar su número del padrón municipal de contribuyentes o utilizar alguno no asignado por la autoridad fiscal, en las declaraciones, avisos, solicitudes, promociones y demás documentos que se presenten ante las autoridades fiscales y jurisdiccionales, cuando se esté obligado conforme a la ley:
 
-a).- En los casos de declaraciones se impondrá una multa de 10 a 20 salarios mínimos; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-b).- De 5 a 10 salarios mínimos, en los demás documentos.
+a) En los casos de declaraciones se impondrá una multa de 10 a 20 u.m.a.'s; y
 
-IV.- Utilizar interpósita persona para manifestar negociaciones propias con el propósito de omitir pagar, total o parcialmente las contribuciones correspondientes, multa de 50 a 100 salarios mínimos;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-V.- No obtener oportunamente los permisos, placas, comprobantes de registro o funcionamiento o cualquier otro documento exigido por las disposiciones fiscales, multa de 25 a 50 salarios mínimos;
+b) De 5 a 10 u.m.a.'s, en los demás documentos.
 
-VI.- No tener los permisos, placas, comprobantes de registro o cualquier otro documento exigido por las disposiciones fiscales en los lugares que señalan dichas disposiciones o no devolverlos oportunamente dentro del plazo que las mismas establecen, multa de 50 a 75 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VII.- Iniciar cualquier actividad económica sin cubrir los requisitos exigidos por los distintos ordenamientos legales, multa de 50 a 75 salarios mínimos;
+IV.- Utilizar interpósita persona para manifestar negociaciones propias con el propósito de omitir pagar, total o parcialmente las contribuciones correspondientes, multa de 50 a 100 u.m.a.'s;
 
-VIII.- Llevar doble juego de libros de contabilidad, multa de 50 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IX.- Alterar deliberadamente y con dolo la contabilidad o permitir este acto con el fin de omitir el pago de contribuciones multa de 50 a 75 salarios mínimos;
+V.- No obtener oportunamente los permisos, placas, comprobantes de registro o funcionamiento o cualquier otro documento exigido por las disposiciones fiscales, multa de 25 a 50 u.m.a.'s;
 
-X.- No exhibir los recibos, facturas, notas de venta o cualesquiera otros documentos que señalen las leyes fiscales, cuando tengan obligación de hacerlo, multa de 25 a 50 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XI.- No consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar de esa forma, por la primera vez, multa de 50 a 75 salarios mínimos;
+VI.- No tener los permisos, placas, comprobantes de registro o cualquier otro documento exigido por las disposiciones fiscales en los lugares que señalan dichas disposiciones o no devolverlos oportunamente dentro del plazo que las mismas establecen, multa de 50 a 75 u.m.a.'s;
 
-XII.- Presentar los avisos, declaraciones, datos, informes, copias y documentos alterados o falsificados, multa de 50 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XIII.- Declarar ingresos menores a los percibidos, multa de 50 a 100 salarios mínimos;
+VII.- Iniciar cualquier actividad económica sin cubrir los requisitos exigidos por los distintos ordenamientos legales, multa de 50 a 75 u.m.a.'s;
 
-XIV.- Omitir la comprobación de la exactitud de los cálculos de contribuciones que deban hacer los notarios o jueces o incurrir en los mismos errores de aquellos, si ello entraña omisión de impuestos, multa de 25 a 50 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XV.- No presentar, ante las autoridades fiscales municipales, cualquier aviso de movimiento que realice y que modifique su inscripción inicial, en las formas aprobadas por la Tesorería Municipal, multa de 50 a 75 salarios mínimos;
+VIII.- Llevar doble juego de libros de contabilidad, multa de 50 a 100 u.m.a.'s;
 
-XVI.- Ostentar, en forma diversa de las que señalen las disposiciones fiscales, la comprobación del pago de una contribución, multa de 50 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XVII.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, multa de 50 a 100 salarios mínimos; y
+IX.- Alterar deliberadamente y con dolo la contabilidad o permitir este acto con el fin de omitir el pago de contribuciones multa de 50 a 75 u.m.a.'s;
 
-XVIII.- Señalar en el padrón municipal de contribuyentes, para efectos de inscripción, un domicilio fiscal distinto del que corresponda conforme al Artículo 47 de este Código, multa de 25 a 50 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X.- No exhibir los recibos, facturas, notas de venta o cualesquiera otros documentos que señalen las leyes fiscales, cuando tengan obligación de hacerlo, multa de 25 a 50 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI.- No consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar de esa forma, por la primera vez, multa de 50 a 75 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII.- Presentar los avisos, declaraciones, datos, informes, copias y documentos alterados o falsificados, multa de 50 a 100 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIII.- Declarar ingresos menores a los percibidos, multa de 50 a 100 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIV.- Omitir la comprobación de la exactitud de los cálculos de contribuciones que deban hacer los notarios o jueces o incurrir en los mismos errores de aquellos, si ello entraña omisión de impuestos, multa de 25 a 50 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XV.- No presentar, ante las autoridades fiscales municipales, cualquier aviso de movimiento que realice y que modifique su inscripción inicial, en las formas aprobadas por la Tesorería Municipal, multa de 50 a 75 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Ostentar, en forma diversa de las que señalen las disposiciones fiscales, la comprobación del pago de una contribución, multa de 50 a 100 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVII.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, multa de 50 a 100 u.m.a.'s; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVIII. Señalar en el padrón municipal de contribuyentes, para efectos de inscripción, un domicilio fiscal distinto del que corresponda conforme al artículo 47 de este Código, multa de 25 a 50 u.m.a.'s;
 
 En caso de reincidencia de las conductas a que se refiere este Artículo, la sanción se duplicará, en cada caso.
 
@@ -1395,101 +1441,185 @@ En caso de reincidencia de las conductas a que se refiere este Artículo, la san
 
 Son infracciones cuya responsabilidad corresponde a los jueces, encargados de los registros, notarios, corredores y en general a los funcionarios que tienen fé pública, las que a continuación se indican y señalan las sanciones correspondientes:
 
-I.- No hacer la cotización de las escrituras, minutas o cualesquiera actos o contratos que se otorguen ante su fé o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales, multa de 50 a 75 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- Expedir testimonios de escrituras, documentos o minutas, cuando no estén pagados los impuestos correspondientes, por cada una, multa de 50 a 75 salarios mínimos;
+I.- No hacer la cotización de las escrituras, minutas o cualesquiera actos o contratos que se otorguen ante su fé o efectuarla sin sujetarse a lo previsto por las disposiciones fiscales, multa de 50 a 75 u.m.a.'s;
 
-III.- No consignar documentos a las autoridades fiscales, cuando no estén pagados los impuestos correspondientes, multa de 50 a 75 salarios mínimos, por cada falta de consignación;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV.- No expedir las notas de liquidación de alguna prestación fiscal o expedirlas en forma que dé lugar a la evasión parcial o total de contribuciones, multa de 50 a 75 salarios mínimos, por cada falta de expedición;
+II.- Expedir testimonios de escrituras, documentos o minutas, cuando no estén pagados los impuestos correspondientes, por cada una, multa de 50 a 75 u.m.a.'s;
 
-V.- Autorizar actos o contratos por los que se cause algún crédito fiscal a favor del municipio o que estén relacionados con fuentes de ingresos gravados por la ley, sin cerciorarse previamente del cumplimiento de las obligaciones fiscales, multa de 50 a 100 salarios mínimos, por cada autorización;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VI.- Inscribir o registrar documentos, instrumentos o libros que carezcan total o parcialmente de la comprobación o constancia de haberse pagado los gravámenes correspondientes, multa de 50 a 100 salarios mínimos;
+III.- No consignar documentos a las autoridades fiscales, cuando no estén pagados los impuestos correspondientes, multa de 50 a 75 u.m.a.'s, por cada falta de consignación;
 
-VII.- No proporcionar informes, datos o no exhibir documentos cuando deban hacerlo en el plazo que fijan las disposiciones fiscales, o cuando lo exijan las autoridades competentes, así como, presentarlos incompletos o inexactos, multa de 50 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Proporcionar los informes o documentos a que se refiere la fracción anterior alterados o falsificados, multa de 50 a 100 salarios mínimos;
+IV.- No expedir las notas de liquidación de alguna prestación fiscal o expedirlas en forma que dé lugar a la evasión parcial o total de contribuciones, multa de 50 a 75 u.m.a.'s, por cada falta de expedición;
 
-IX.- Extender constancias de haber cumplido con las obligaciones fiscales en los actos en que intervenga, cuando no proceda su otorgamiento, multa de 50 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-X.- Cooperar con los infractores o facilitar en cualquier forma la omisión total o parcial de contribuciones mediante alteraciones, ocultaciones u omisiones, multa de 50 a 100 salarios mínimos;
+V.- Autorizar actos o contratos por los que se cause algún crédito fiscal a favor del municipio o que estén relacionados con fuentes de ingresos gravados por la ley, sin cerciorarse previamente del cumplimiento de las obligaciones fiscales, multa de 50 a 100 u.m.a.'s, por cada autorización;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VI.- Inscribir o registrar documentos, instrumentos o libros que carezcan total o parcialmente de la comprobación o constancia de haberse pagado los gravámenes correspondientes, multa de 50 a 100 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VII.- No proporcionar informes, datos o no exhibir documentos cuando deban hacerlo en el plazo que fijan las disposiciones fiscales, o cuando lo exijan las autoridades competentes, así como, presentarlos incompletos o inexactos, multa de 50 a 100 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Proporcionar los informes o documentos a que se refiere la fracción anterior alterados o falsificados, multa de 50 a 100 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IX.- Extender constancias de haber cumplido con las obligaciones fiscales en los actos en que intervenga, cuando no proceda su otorgamiento, multa de 50 a 100 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X.- Cooperar con los infractores o facilitar en cualquier forma la omisión total o parcial de contribuciones mediante alteraciones, ocultaciones u omisiones, multa de 50 a 100 u.m.a.'s;
 
 XI.- No enterar dentro del plazo legal las contribuciones correspondientes a los actos en que intervengan, multa de hasta el 30% del importe y los accesorios legales respectivos; y
 
-XII.- Infringir otras disposiciones fiscales no previstas en las fracciones precedentes, multa de 50 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII.- Infringir otras disposiciones fiscales no previstas en las fracciones precedentes, multa de 50 a 100 u.m.a.'s;
 
 ###### ARTÍCULO 123.
 
 Son infracciones cuya responsabilidad corresponde a los servidores públicos, así como a los encargados de servicios públicos u órganos oficiales, las que a continuación se indican y señalan las sanciones correspondientes:
 
-I.- Dar entrada o curso a documentos o libros que carezcan, en todo o en parte, de los requisitos exigidos por las disposiciones fiscales, multa de 50 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- Extender actas, expedir certificados, legalizar y autorizar documentos o libros e inscribirlos o registrarlos, sin que exista constancia de pago de las contribuciones correspondientes de 50 a 100 salarios mínimos;
+I.- Dar entrada o curso a documentos o libros que carezcan, en todo o en parte, de los requisitos exigidos por las disposiciones fiscales, multa de 50 a 100 u.m.a.'s;
 
-III.- Recibir el pago de una contribución fiscal y no enterar su importe, multa de 50 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV.- No prestar auxilio a las autoridades fiscales para la determinación y cobro de contribuciones, multa de 50 a 100 salarios mínimos;
+II.- Extender actas, expedir certificados, legalizar y autorizar documentos o libros e inscribirlos o registrarlos, sin que exista constancia de pago de las contribuciones correspondientes de 50 a 100 u.m.a.'s;
 
-V.- Alterar documentos fiscales que tengan en su poder, multa de 50 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VI.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas de inspección o auditorías, así como, incluir en las actas relativas datos falsos, multa de 50 a 75 salarios mínimos;
+III.- Recibir el pago de una contribución fiscal y no enterar su importe, multa de 50 a 100 u.m.a.'s;
 
-VII.- No practicar las visitas de inspección o auditorías cuando tengan obligación de hacerlo, multa de 50 a 75 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Intervenir en la tramitación o resolución de algún asunto cuando estén impedidos de acuerdo con las disposiciones legales, multa de 50 a 75 salarios mínimos;
+IV.- No prestar auxilio a las autoridades fiscales para la determinación y cobro de contribuciones, multa de 50 a 100 u.m.a.'s;
 
-IX.- Divulgar, hacer uso personal o indebido de la información confidencial, multa de 50 a 75 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-X.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento, multa de 50 a 75 salarios mínimos;
+V.- Alterar documentos fiscales que tengan en su poder, multa de 50 a 100 u.m.a.'s;
 
-XI.- Cooperar en cualquier forma para que se evadan las prestaciones fiscales, multa de 50 a 75 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XII.- Exigir bajo el título de cooperación u otro semejante, cualquier prestación que no esté expresamente prevista en la ley, aún cuando se aplique a la realización de las funciones propias en su cargo, multa de 100 a 200 salarios mínimos;
+VI.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas de inspección o auditorías, así como, incluir en las actas relativas datos falsos, multa de 50 a 75 u.m.a.'s;
 
-XIII.- No exigir el pago total de las contribuciones y sus accesorios, recaudar, permitir u ordenar que se reciba el pago en forma diversa a la prevista en las disposiciones fiscales, multa de 50 a 75 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XIV.- Recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, multa de 50 a 75 salarios mínimos;
+VII.- No practicar las visitas de inspección o auditorías cuando tengan obligación de hacerlo, multa de 50 a 75 u.m.a.'s;
 
-XV.- Adquirir los bienes objeto de un remate efectuado por el fisco estatal, por sí o por interpósita persona, multa de 50 a 150 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XVI.- Otorgar beneficios o estímulos fiscales a los contribuyentes sin estar legalmente facultado para ello, multa de 50 a 100 salarios mínimos;
+VIII.- Intervenir en la tramitación o resolución de algún asunto cuando estén impedidos de acuerdo con las disposiciones legales, multa de 50 a 75 u.m.a.'s;
 
-XVII.- Alterar las bases o tasas impositivas que existen en los controles administrativos, para el cobro de contribuciones, multa, de 50 a 75 salarios mínimos, por cada alteración; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XVIII.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, multa de 50 a 75 salarios mínimos;
+IX.- Divulgar, hacer uso personal o indebido de la información confidencial, multa de 50 a 75 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento, multa de 50 a 75 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI.- Cooperar en cualquier forma para que se evadan las prestaciones fiscales, multa de 50 a 75 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII.- Exigir bajo el título de cooperación u otro semejante, cualquier prestación que no esté expresamente prevista en la ley, aun cuando se aplique a la realización de las funciones propias en su cargo, multa de 100 a 200 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIII. No exigir el pago total de las contribuciones y sus accesorios, recaudar, permitir u ordenar que se reciba el pago en forma diversa a la prevista en las disposiciones fiscales, multa de 50 a 75 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIV.- Recaudar, permitir u ordenar que se recaude alguna prestación fiscal sin cumplir con las disposiciones aplicables y en perjuicio del control e interés del fisco, multa de 50 a 75 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XV.- Adquirir los bienes objeto de un remate efectuado por el fisco estatal, por sí o por interpósita persona, multa de 50 a 150 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVI.- Otorgar beneficios o estímulos fiscales a los contribuyentes sin estar legalmente facultado para ello, multa de 50 a 100 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVII.- Alterar las bases o tasas impositivas que existen en los controles administrativos, para el cobro de contribuciones, multa, de 50 a 75 u.m.a.'s, por cada alteración; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVIII.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, multa de 50 a 75 u.m.a.'s;
 
 ###### ARTÍCULO 124.
 
 Son infracciones cuya responsabilidad corresponde a terceros, las que a continuación se indican y señalan las sanciones correspondientes.
 
-I.- Consentir o tolerar que se inscriban a su nombre negociaciones ajenas, multa de 50 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- Percibir a su nombre ingresos gravables que correspondan a otra persona, cuando traiga como consecuencia la omisión de pago de contribuciones, multa de 50 a 100 salarios mínimos;
+I.- Consentir o tolerar que se inscriban a su nombre negociaciones ajenas, multa de 50 a 100 u.m.a.'s;
 
-III.- No proporcionar avisos, informes, datos o documentos o no aclararlos en el término establecido por las disposiciones fiscales o cuando las autoridades lo exijan con apoyo en sus facultades legales, multa de 25 a 50 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV.- Proporcionar o presentar alterados o falsificados los avisos, datos, informes o documentos que les exijan las autoridades fiscales, multa de 50 a 75 salarios mínimos;
+II.- Percibir a su nombre ingresos gravables que correspondan a otra persona, cuando traiga como consecuencia la omisión de pago de contribuciones, multa de 50 a 100 u.m.a.'s;
 
-V.- Autorizar o hacer constar documentos, inventarios, asientos o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos, multa de 50 a 75 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VI.- Asesorar a los contribuyentes para evadir el pago de una prestación fiscal o para infringir las disposiciones fiscales, multa de 50 a 100 salarios mínimos;
+III.- No proporcionar avisos, informes, datos o documentos o no aclararlos en el término establecido por las disposiciones fiscales o cuando las autoridades lo exijan con apoyo en sus facultades legales, multa de 25 a 50 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV.- Proporcionar o presentar alterados o falsificados los avisos, datos, informes o documentos que les exijan las autoridades fiscales, multa de 50 a 75 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V.- Autorizar o hacer constar documentos, inventarios, asientos o datos falsos, cuando actúen como contadores, comisarios, peritos o testigos, multa de 50 a 75 u.m.a.'s;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VI.- Asesorar a los contribuyentes para evadir el pago de una prestación fiscal o para infringir las disposiciones fiscales, multa de 50 a 100 u.m.a.'s;
 
 En los casos que quien preste asesoría sea persona con conocimientos profesionales en materia fiscal o contable la sanción se duplicará.
 
-VII.- Contribuir en la alteración, inscripción de cuentas, asientos, datos falsos o en algún hecho preparatorio para el cumplimiento de estos fines, multa de 50 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VIII.- Cooperar o participar en cualquier forma no prevista en este Artículo en la comisión de infracciones, multa del 30% de la prestación fiscal;
+VII.- Contribuir en la alteración, inscripción de cuentas, asientos, datos falsos o en algún hecho preparatorio para el cumplimiento de estos fines, multa de 50 a 100 u.m.a.'s;
 
-IX.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de contribuciones en los casos que tengan obligación de hacerlo conforme con las disposiciones fiscales, multa de 25 a 50 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-X.- Impedir por cualquier medio las visitas de revisión y auditoría, multa de 75 a 100 salarios mínimos;
+VIII.- Cooperar o participar en cualquier forma no prevista en este artículo en la comisión de infracciones, multa del 30% de la prestación fiscal;
 
-XI.- No suministrar los datos e informes que legalmente puedan exigir los visitadores, multa de 50 a 75 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XII.- No mostrar los documentos, registros y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o la de los contribuyentes con quienes haya efectuado operaciones, en relación con el objeto de la visita, multa de 50 a 75 salarios mínimos; y
+IX.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de contribuciones en los casos que tengan obligación de hacerlo conforme con las disposiciones fiscales, multa de 25 a 50 u.m.a.'s;
 
-XIII.- Infringir disposiciones en forma distinta de la prevista en las fracciones precedentes, multa de 25 a 50 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X.- Impedir por cualquier medio las visitas de revisión y auditoría, multa de 75 a 100 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI.- No suministrar los datos e informes que legalmente puedan exigir los visitadores, multa de 50 a 75 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII.- No mostrar los documentos, registros y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o la de los contribuyentes con quienes haya efectuado operaciones, en relación con el objeto de la visita, multa de 50 a 75 u.m.a.'s; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIII.- Infringir disposiciones en forma distinta de la prevista en las fracciones precedentes, multa de 25 a 50 u.m.a.'s.
 
 ###### ARTÍCULO 125.
 
@@ -1497,29 +1627,51 @@ Son infracciones relacionadas con la obligación de pago de las contribuciones, 
 
 I.- No presentar las declaraciones, las solicitudes, los avisos o las constancias que exijan las disposiciones fiscales o no hacerlo a través de los medios electrónicos que señale la Tesorería Municipal o presentarlos a requerimiento de las autoridades fiscales, o cumplirlos fuera de los términos señalados en los mismos:
 
-a).- En los casos de avisos, declaraciones, solicitudes o constancias por cada una de las obligaciones no declaradas, aún cuando dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presente declaración complementaria de aquélla, en la que declare contribuciones adicionales, multa de 20 a 100 salarios mínimos;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-b).- Por cada obligación a que esté afecto al presentar una declaración, solicitud, aviso o constancia, fuera del término que se señale en el requerimiento que le formule la autoridad fiscal o por su incumplimiento, multa de 20 a 100 salarios mínimos;
+a) En los casos de avisos, declaraciones, solicitudes o constancias por cada una de las obligaciones no declaradas, aun cuando dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presente declaración complementaria de aquélla, en la que declare contribuciones adicionales, multa de 20 a 100 u.m.a.'s;
 
-c).- Por no presentar las declaraciones, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los términos señalados en los mismos, multa de 50 a 100 salarios mínimos; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-d).- En los demás documentos, multa de 20 a 60 salarios mínimos.
+b) Por cada obligación a que esté afecto al presentar una declaración, solicitud, aviso o constancia, fuera del término que se señale en el requerimiento que le formule la autoridad fiscal o por su incumplimiento, multa de 20 a 100 u.m.a.'s;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+c) Por no presentar las declaraciones, presentarlas fuera del plazo o no cumplir con los requerimientos de las autoridades fiscales para presentarlas o cumplirlos fuera de los términos señalados en los mismos, multa de 50 a 100 u.m.a.'s; y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+d) En los demás documentos, multa de 20 a 60 u.m.a.'s.
 
 II.- Presentar las declaraciones, las solicitudes, los avisos o expedir constancias incompletas con errores o en forma distinta a lo señalado por las disposiciones fiscales o bien, cuando se presenten con dichas irregularidades las declaraciones o los avisos en medios electrónicos. Lo anterior, no será aplicable tratándose de la presentación de la solicitud de inscripción o registro en el padrón municipal de contribuyentes:
 
-a).- Por cada omisión en el asiento del nombre, domicilio o hacerlo equivocadamente, multa de 15 a 30 salarios mínimos;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-b).- Por cada dato no asentado o asentado incorrectamente, multa de 3 a 5 salarios mínimos, en los casos que se omita la presentación de anexos, la multa se calculará en los términos de este inciso;
+a).- Por cada omisión en el asiento del nombre, domicilio o hacerlo equivocadamente, multa de 15 a 30 u.m.a.'s;
 
-c).- Por presentar, en medios electrónicos, declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales, multa de 60 a 100 salarios mínimos;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-d).- Por omitir presentar firmadas por el contribuyente o por el representante legal debidamente acreditado, las declaraciones para el pago de contribuciones, multa de 20 a 50 salarios mínimos; y
+b).- Por cada dato no asentado o asentado incorrectamente, multa de 3 a 5 u.m.a.'s; en los casos que se omita la presentación de anexos, la multa se calculará en los términos de este inciso;
 
-e).- En los demás casos, multa de 10 a 25 salarios mínimos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-III.- No pagar las contribuciones dentro del término que establecen las disposiciones fiscales, cuando se trate de contribuciones que no sean determinadas por los contribuyentes, salvo cuando el pago se efectúe espontáneamente, multa de 20 a 100 salarios mínimos; y
+c) Por presentar, en medios electrónicos, declaraciones incompletas, con errores o en forma distinta a lo señalado por las disposiciones fiscales, multa de 60 a 100 u.m.a.'s;
 
-IV.- No efectuar en los términos de las disposiciones fiscales los pagos de una contribución, multa de 50 a 100 salarios mínimos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+d) Por omitir presentar firmadas por el contribuyente o por el representante legal debidamente acreditado, las declaraciones para el pago de contribuciones, multa de 20 a 50 u.m.a.'s y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+e) En los demás casos, multa de 10 a 25 u.m.a.'s.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III.- No pagar las contribuciones dentro del término que establecen las disposiciones fiscales, cuando se trate de contribuciones que no sean determinadas por los contribuyentes, salvo cuando el pago se efectúe espontáneamente, multa de 20 a 100 u.m.a.'s; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV.- No efectuar en los términos de las disposiciones fiscales los pagos de una contribución, multa de 50 a 100 u.m.a.'s.
 
 ###### ARTÍCULO 126.
 
@@ -1575,31 +1727,51 @@ En los casos de omitir contribuciones por error aritmético en las declaraciones
 
 Son infracciones relacionadas con la obligación de llevar contabilidad, siempre que sean descubiertas en el ejercicio de las facultades de comprobación, las siguientes:
 
-I.- No llevar contabilidad, multa de 25 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- No llevar algún registro especial a que obliguen las Leyes fiscales, multa de 10 a 50 salarios mínimos;
+I.- No llevar contabilidad, multa de 25 a 100 u.m.a.'s;
 
-III.- Llevar la contabilidad en forma distinta a como las disposiciones de este Código o de otras leyes señalan, llevarla en lugares distintos a los señalados en dichas disposiciones, multa de 10 a 50 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV.- No hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos, inexactos o fuera de los plazos respectivos, multa de 15 a 75 salarios mínimos;
+II.- No llevar algún registro especial a que obliguen las Leyes fiscales, multa de 10 a 50 u.m.a.'s;
 
-V.- No conservar la contabilidad a disposición de las autoridades por el término que establezcan las disposiciones fiscales, multa de 10 a 100 salarios mínimos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VI.- No expedir comprobantes de sus actividades cuando estén obligadas a ello por las disposiciones fiscales la multa será por el importe que resulte mayor entre 2 salarios mínimos y el 100% del comprobante no emitido;
+III.- Llevar la contabilidad en forma distinta a como las disposiciones de este Código o de otras leyes señalan, llevarla en lugares distintos a los señalados en dichas disposiciones, multa de 10 a 50 u.m.a.'s;
 
-VII.- Expedir comprobantes fiscales con datos falsos o erróneos, multa de 5 a 25 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Cuando se trate de contribuyentes que demuestren que en el Ejercicio Fiscal anterior sus ingresos fueron inferiores a $300,000.00, multa de 2 a 10 salarios mínimos en ambos casos de los previstos en las fracciones anteriores; y
+IV.- No hacer los asientos correspondientes a las operaciones efectuadas, hacerlos incompletos, inexactos o fuera de los plazos respectivos, multa de 15 a 75 u.m.a.'s;
 
-VIII.- Expedir comprobantes fiscales con el nombre, denominación, razón social o domicilio de persona distinta al contribuyente obligado, multa de 25 a 50 salarios mínimos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V. No conservar la contabilidad a disposición de las autoridades por el término que establezcan las disposiciones fiscales, multa de 10 a 100 u.m.a.'s;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VI.- No expedir comprobantes de sus actividades cuando estén obligadas a ello por las disposiciones fiscales la multa será por el importe que resulte mayor entre 2 u.m.a.'s y el 100% del comprobante no emitido;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VII.- Expedir comprobantes fiscales con datos falsos o erróneos, multa de 5 a 25 u.m.a.'s.
+
+Cuando se trate de contribuyentes que demuestren que en el Ejercicio Fiscal anterior sus ingresos fueron inferiores a $300,000.00, multa de 2 a 10 u.m.a.'s en ambos casos de los previstos en las fracciones anteriores; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Expedir comprobantes fiscales con el nombre, denominación, razón social o domicilio de persona distinta al contribuyente obligado, multa de 25 a 50 u.m.a.'s.
 
 ###### ARTÍCULO 131.
 
 Son infracciones relacionadas con el ejercicio de las facultades de comprobación, las siguientes:
 
-I.- Oponerse a que se practique la visita en el domicilio fiscal, no suministrar los datos e informes que legalmente exijan las autoridades fiscales, no proporcionar la contabilidad o parte de ella y, en general los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros, multa de 25 a 50 salarios mínimos; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito, multa de 20 a 100 salarios mínimos.
+I.- Oponerse a que se practique la visita en el domicilio fiscal, no suministrar los datos e informes que legalmente exijan las autoridades fiscales, no proporcionar la contabilidad o parte de ella y, en general los elementos que se requieran para comprobar el cumplimiento de obligaciones propias o de terceros, multa de 25 a 50 u.m.a.'s; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II.- No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito, multa de 20 a 100 u.m.a.'s.
 
 ###### ARTÍCULO 132.
 
@@ -2009,9 +2181,11 @@ Cuando la notificación se efectúe personalmente y el notificador no encuentre 
 
 Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino. En caso de que estos últimos se negasen a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar razón de tal circunstancia para dar cuenta al jefe de la oficina exactora.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 174.
 
-Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces el salario mínimo general diario vigente en el Estado.
+Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de diez veces la Unidad de Medida y Actualización vigente.
 
 ###### ARTÍCULO 175.
 
@@ -2189,7 +2363,9 @@ III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco mu
 
 Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $500.00, se cobrará esta cantidad en vez del 2% del crédito.
 
-En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este Artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el municipio para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de dos salarios mínimos elevados al año, vigentes en el municipio que corresponda.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por el municipio para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de dos u.m.a.'s elevados al año, vigentes en el municipio que corresponda.
 
 Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en el Artículo 178, fracción V, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles que sean adjudicados a favor del municipio y las contribuciones que se paguen por el municipio para liberar de cualquier gravamen a los bienes que sean objeto de remate.
 
@@ -2525,7 +2701,9 @@ Es postura legal, la que cubra las dos terceras partes del valor señalado como 
 
 En toda postura deberá ofrecerse de contado por lo menos, la parte suficiente para cubrir el interés fiscal.
 
-Si éste es superado por la base fijada para la venta, la diferencia podrá reconocerse en favor del deudor ejecutado, con los intereses correspondientes hasta por un año, si la cantidad es menor (sic) veinticinco salarios mínimos y hasta por un plazo de dos años de esa suma en adelante.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Si éste es superado por la base fijada para la venta, la diferencia podrá reconocerse en favor del deudor ejecutado, con los intereses correspondientes hasta por un año, si la cantidad es menor (sic) veinticinco u.m.a.'s y hasta por un plazo de dos años de esa suma en adelante.
 
 Los bienes, fracción o lotes de bienes, cuya base para la venta sea igual o inferior al interés fiscal, sólo podrán rematarse de contado.
 
@@ -2561,9 +2739,11 @@ Fincado el remate de bienes muebles, se aplicará el depósito constituido y el 
 
 Tan pronto como el postor hubiere cumplido con los requisitos a que se refiere el párrafo anterior, la Tesorería Municipal procederá a entregar los bienes que hubiere adjudicado y otorgará un término de cinco días, al deudor, para que haga la entrega de los documentos que acrediten la propiedad debidamente endosados y de no hacerlo servirá de título justificativo de propiedad la copia certificada de la resolución que aprobó la adjudicación, complementándola con los recibos de pago.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 228.
 
-Si los bienes rematados fueran raíces o muebles cuyo valor exceda de cincuenta salarios mínimos, la Tesorería Municipal dentro de un término de cinco días, enviará el expediente al Presidente Municipal para que previa revisión, apruebe el remate si el procedimiento se apegó a las normas que lo rigen. Si la resolución es negativa, el fincamiento del remate que haya hecho la Tesorería Municipal, quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
+Si los bienes rematados fueran raíces o muebles cuyo valor exceda de cincuenta u.m.a.'s, la Tesorería Municipal dentro de un término de cinco días, enviará el expediente al Presidente Municipal para que previa revisión, apruebe el remate si el procedimiento se apegó a las normas que lo rigen. Si la resolución es negativa, el fincamiento del remate que haya hecho la Tesorería Municipal, quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
 
 Aprobado el remate de bienes raíces, se le comunicará al postor para que, dentro del plazo de diez días entere en la caja de la Tesorería Municipal la cantidad de contado ofrecida en su postura aceptada.
 
@@ -3130,3 +3310,27 @@ PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2015, pre
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 TERCERO.- Con el propósito de que los Municipios y los prestadores de servicio cuenten con un plazo perentorio para el cumplimiento de lo dispuesto en el artículo 5° de este Decreto, con relación al Derecho de Alumbrado Público, las disposiciones contenidas en él, entrarán en vigor hasta el 1° de julio del año 2015.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 80, POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, DE LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, DE LA LEY DE DERECHOS DEL ESTADO DE HIDALGO, DEL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO, Y DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor una vez que las disposiciones reglamentarias y administrativas que permitan el cabal cumplimiento de la presente Ley, hayan sido publicadas en el Periódico Oficial del Estado, para lo cual la Secretaría de Finanzas y Administración, implementará los cambios, procesos y definiciones de carácter normativo, técnico y administrativo necesarios para tales efectos.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2017, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
