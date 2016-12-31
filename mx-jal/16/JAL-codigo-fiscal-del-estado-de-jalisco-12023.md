@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2016-10-11"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 CÓDIGO FISCAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN VI DEL PERIÓDICO OFICIAL DEL 11 DE OCTUBRE DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -267,9 +265,9 @@ VIII. El Procurador Fiscal del Estado;
 
 IX. El Director de Notificación y Ejecución Fiscal; y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-X. Los jefes de las oficinas de recaudación fiscal.
+X. Los Directores de Administración Tributaria, y sus jefes de las oficinas de recaudación fiscal.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -541,6 +539,18 @@ Artículo 31 B.- Los hechos que se conozcan con motivo del ejercicio de las facu
 
 Cuando otras autoridades en términos de la Colaboración Administrativa con la Secretaría de Planeación, Administración y Finanzas o terceros proporcionen información, expedientes, bases de datos o documentos a las autoridades fiscales conforme a lo dispuesto en el párrafo anterior, éstas darán a conocer a los contribuyentes, sobre la (sic) irregularidades que se desprendan de ello, para que en un plazo de diez días, contados a partir del día en que les den a conocer las irregularidades de referencia, manifiesten lo que a su derecho convenga.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Artículo 31 C.- Las autoridades fiscales que al practicar visitas a los contribuyentes o al ejercer las facultades de comprobación, conozcan de hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, determinarán las contribuciones omitidas mediante resolución que se notificará personalmente al contribuyente, dentro de un plazo máximo de seis meses contado a partir de la fecha en que se levante el acta final de la visita o, tratándose de la revisión de la contabilidad de los contribuyentes que se efectúe en las oficinas de las autoridades fiscales, a partir de la fecha en que concluya el plazo señalado en la fracción VI del artículo 31 de este Código.
+
+El plazo para emitir la resolución a que se refiere este artículo se suspenderá en los casos previstos en las fracciones I, II y III del artículo 30 de este Código.
+
+Si durante el plazo para emitir la resolución de que se trate, los contribuyentes interponen algún medio de defensa en el país o en el extranjero, contra el acta final de visita o del oficio de observaciones de que se trate, dicho plazo se suspenderá desde la fecha en que se interpongan los citados medios de defensa y hasta que se dicte resolución definitiva de los mismos.
+
+Cuando las autoridades no emitan la resolución correspondiente dentro del plazo mencionado, quedará sin efectos la orden y las actuaciones que se derivaron durante la visita o revisión de que se trate.
+
+En dicha resolución deberán señalarse los plazos en que la misma puede ser impugnada en el recurso administrativo y en el juicio contencioso administrativo. Cuando en la resolución se omita el señalamiento de referencia, el contribuyente contará con el doble del plazo que establecen las disposiciones legales para interponer el recurso administrativo o el juicio contencioso administrativo.
+
 ###### Artículo 32.
 
 La determinación y pago de las obligaciones fiscales corresponde a los sujetos pasivos, salvo disposición expresa en contrario.
@@ -685,7 +695,9 @@ III. Al día siguiente al en que se cometió la infracción a las leyes y dispos
 
 El plazo a que se refiere este artículo será de diez años, cuando el contribuyente no haya presentado su solicitud en el Registro Estatal de Contribuyentes, no lleve contabilidad o no la conserve durante el plazo que establece este Código.
 
-En los casos de responsabilidad solidaria a que se refiere el artículo 45, fracciones II, IV, VI, VII y XI de este Código, el plazo será de cinco años a partir de que la autoridad se encuentre impedida por cualquier causa para hacer efectivo el crédito al responsable directo del mismo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+En los casos de responsabilidad solidaria a que se refiere el artículo 45 y de responsabilidad objetiva a que refiere el artículo 46 de este Código, el plazo será de cinco años a partir de que la autoridad se encuentre impedida por cualquier causa para hacer efectivo el crédito al responsable directo del mismo.
 
 El plazo señalado en este artículo no está sujeto a interrupción y sólo se suspenderá cuando se ejerzan las facultades de comprobación de las autoridades fiscales a que se refieren las fracciones I, III, VI, IX y X del artículo 26 de este Código; cuando se interponga algún recurso administrativo o juicio; o cuando las autoridades fiscales no puedan iniciar el ejercicio de sus facultades de comprobación en virtud de que el contribuyente hubiera desocupado su domicilio sin haber presentado el aviso correspondiente o cuando hubiere señalado de manera incorrecta su domicilio. En estos dos últimos casos, se reiniciará el cómputo del plazo de caducidad a partir de la fecha en la que se localice al contribuyente. Asimismo, el plazo a que hace referencia este artículo se suspenderá en los casos de huelga, a partir de que se suspenda temporalmente el trabajo y hasta que termine la huelga y en el de fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión.
 
@@ -737,11 +749,17 @@ I. Quienes en los términos de las leyes están obligados al pago de una contrib
 
 II. Quienes manifiesten su voluntad de asumir responsabilidad solidaria;
 
-III. Los copropietarios, los coposeedores o los partícipes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o derecho en común y hasta el monto del valor de éste. Por el excedente de los créditos fiscales cada uno quedará obligado en la proporción que le corresponde en el bien o derecho mancomunado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV. Las personas a quienes se imponga la obligación de retener o recaudar créditos fiscales a cargo de terceros;
+III. Los copropietarios, los coposeedores o los partícipes en derechos mancomunados, respecto de las contribuciones derivadas del bien o derecho en común y hasta el monto del valor de éstas. Por el excedente de las contribuciones cada uno quedará obligado en la proporción que le corresponde en el bien o derecho mancomunado;
 
-V. Los legatarios y los donatarios a título particular respecto de los créditos fiscales que se hubieren causado en relación con los bienes legados o donados, hasta por el monto de éstos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV. Las personas a quienes se imponga la obligación de retener o recaudar contribuciones a cargo de los contribuyentes, hasta por el monto de dichas contribuciones.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V. Los legatarios y donatarios a título particular respecto de las contribuciones que se hubieren causado en relación con los bienes legados o donados, hasta por el monto de éstos;
 
 VI. Los servidores públicos, así como los notarios y corredores públicos que autoricen algún acto jurídico, expidan testimonio o den trámite a algún documento en que se consignen actos, convenios, contratos u operaciones de naturaleza mercantil, según corresponda, si no se cercioran de que se han pagado total o parcialmente los impuestos y derechos respectivos, o no dan cumplimiento a las disposiciones correspondientes que regulen el pago de gravámenes, independientemente de que se hagan acreedores a la imposición de sanciones previstas por este código, por las infracciones en que hubieran incurrido;
 
@@ -761,13 +779,61 @@ d) Los fiduciarios; y
 
 e) Los propietarios, cuando otorguen el uso temporal de bienes inmuebles para explotación de espectáculos públicos, salvo que den aviso a la Secretaría de Planeación, Administración y Finanzas de la celebración del contrato respectivo;
 
-IX. Los comisionistas, respecto de los créditos fiscales a cargo de sus comitentes, derivados de operaciones motivo del contrato de comisión y los comitentes por los créditos fiscales a cargo de los comisionistas, por las operaciones relativas al mismo contrato;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IX. Los comisionistas, respecto de las contribuciones a cargo de sus comitentes, derivados de operaciones motivo del contrato de comisión y los comitentes por las contribuciones a cargo de los comisionistas, por las operaciones relativas al mismo contrato;
 
 X. Quienes adquieran por cualquier título, establecimientos comerciales o industriales afectos al pago de impuestos estatales; y
 
-XI. Las demás personas que señalen las leyes ú otras disposiciones de carácter fiscal o hacendario.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-En los casos de responsabilidad solidaria, los responsables quedan obligados al pago de la totalidad de los créditos fiscales, y por lo tanto, las autoridades fiscales, pueden exigir de cualquiera de ellos, simultánea o separadamente, el cumplimiento de las obligaciones fiscales.
+XI. Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en la liquidación o quiebra, así como de aquellas que se causaron durante su gestión.
+
+La persona o personas cualquiera que sea el nombre con que se les designe, que tengan conferida la dirección general, la gerencia general, o la administración única de las personas morales, serán responsables solidarios por las contribuciones causadas o no retenidas por dichas personas morales durante su gestión, así como por las que debieron pagarse o enterarse durante la misma, cuando dicha persona moral incurra en cualquiera de los siguientes supuestos:
+
+a) No solicite su inscripción en el registro estatal de contribuyentes.
+
+b) Cambie su domicilio sin presentar el aviso correspondiente en los términos de este Código, siempre que dicho cambio se efectúe después de que se le hubiera notificado el inicio del ejercicio de las facultades de comprobación previstas en este Código y antes de que se haya notificado la resolución que se dicte con motivo de dicho ejercicio, o cuando el cambio se realice después de que se le hubiera notificado un crédito fiscal y antes de que éste se haya cubierto o hubiera quedado sin efectos.
+
+c) No lleve contabilidad, la oculte o la destruya.
+
+d) Desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio en los términos de este Código.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII. Quienes ejerzan la patria potestad o la tutela, por las contribuciones a cargo de su representado.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIII. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenía tal calidad, exclusivamente en los casos en que dicha sociedad incurra en cualquiera de los supuestos a que se refieren los incisos a), b), c) y d) de la fracción XI de este artículo, sin que la responsabilidad exceda de la participación que tenía en el capital social de la sociedad durante el período o a la fecha de que se trate.
+
+La responsabilidad solidaria a que se refiere el párrafo anterior se calculará multiplicando el porcentaje de participación que haya tenido el socio o accionista en el capital social suscrito al momento de la causación, por la contribución omitida.
+
+La responsabilidad a que se refiere esta fracción únicamente será aplicable a los socios o accionistas que tengan o hayan tenido el control efectivo de la sociedad, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad.
+
+Se entenderá por control efectivo la capacidad de una persona o grupo de personas, de llevar a cabo cualquiera de los actos siguientes:
+
+a) Imponer decisiones en las asambleas generales de accionistas, de socios u órganos equivalentes, o nombrar o destituir a la mayoría de los consejeros, administradores o sus equivalentes, de una persona moral.
+
+b) Mantener la titularidad de derechos que permitan ejercer el voto respecto de más del cincuenta por ciento del capital social de una persona moral.
+
+c) Dirigir la administración, la estrategia o las principales políticas de una persona moral, ya sea a través de la propiedad de valores, por contrato o de cualquier otra forma.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIV. Las sociedades escindidas, por las contribuciones causadas en relación con la transmisión de los activos, pasivos y de capital transmitidos por la escindente, así como por las contribuciones causadas por esta última con anterioridad a la escisión, sin que la responsabilidad exceda del valor del capital de cada una de ellas al momento de la escisión.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XV. Los albaceas o representantes de la sucesión, por las contribuciones que se causaron o se debieron pagar durante el período de su encargo, y
+
+> <small>(REFORMADA [N. DE E. Y REUBICADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XVI. Las demás personas que señalen las leyes u otras disposiciones de carácter fiscal o hacendario.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+En los casos de responsabilidad solidaria, los responsables quedan obligados al pago de la totalidad de los créditos fiscales incluyendo sus accesorios con excepción de las multas, y por lo tanto, las autoridades, pueden exigir de cualquiera de ellos, simultánea o separadamente, el cumplimiento de las obligaciones fiscales. Lo dispuesto en éste párrafo no impide que los responsables solidarios puedan ser sancionados por los actos u omisiones propios.
 
 #### SECCIÓN SEGUNDA. De la Responsabilidad Objetiva
 
@@ -819,9 +885,9 @@ b) Si existen varios establecimientos, en donde se encuentre la administración 
 
 c) A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Si no fuera posible la localización del contribuyente en los domicilios citados en los incisos anteriores, por haber desocupado su domicilio sin haber presentado el aviso correspondiente, las autoridades fiscales solicitaran a las Instituciones que integran el Sistema Financiero Mexicano, información respecto del domicilio que hubiera registrado el contribuyente en las entidades financieras, el cual se considerará como domicilio.
+Si no fuera posible la localización del contribuyente en los domicilios citados en los incisos anteriores, por haber desocupado o desaparecido de su domicilio sin haber presentado el aviso correspondiente, se ignore su domicilio, las autoridades fiscales podrán considerar como domicilio del contribuyente, el proporcionado a las Instituciones que integran el Sistema Financiero Mexicano o a las autoridades de administración tributaria federales o municipales en los términos del presente artículo.
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -997,6 +1063,18 @@ Las resoluciones favorables a los particulares no podrán ser revocadas o nulifi
 
 Cuando deban ser nulificadas, será necesario promover juicio ante el Tribunal de lo Administrativo del Estado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+El Secretario de Planeación Administración y Finanzas, el Subsecretario de Finanzas y el Director General de Ingresos, podrán revisar las resoluciones administrativas de carácter individual no favorables a un particular emitidas por sus subordinados jerárquicamente y, en el supuesto de que se demuestre fehacientemente que las mismas se hubieran emitido en contravención a las disposiciones fiscales, podrán, por una sola vez, modificarlas o revocarlas en beneficio del contribuyente, siempre y cuando éstos no hubieren interpuesto medios de defensa y hubieren transcurrido los plazos para presentarlos, y sin que haya prescrito el crédito fiscal.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Así mismo, las citadas autoridades podrán dejar sin efecto resoluciones de sus subordinados, cuando los montos determinados no rebasen de 100 veces el valor diario de la Unidad de Medida y Actualización y el contribuyente hubiese demostrado plenamente que fue dictada en contravención con las disposiciones debidas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Lo señalado en el párrafo anterior, no constituirá instancia y las resoluciones que se dicten al respecto, no podrán ser impugnadas por los contribuyentes.
+
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 60.
@@ -1113,33 +1191,17 @@ Se consideran créditos fiscales, los que tenga derecho a percibir el Estado que
 
 La falta de pago de un crédito fiscal en la fecha o plazo establecido en las leyes fiscales respectivas, determinan que el crédito sea exigible.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 68.
 
-El monto de un crédito fiscal o de las devoluciones a cargo del fisco estatal, se actualizarán por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual, se aplicará el factor de actualización a las cantidades que se deben actualizar.
+El monto de las contribuciones, aprovechamientos, así como de las devoluciones a cargo del fisco estatal, se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones, los aprovechamientos, así como las devoluciones a cargo del fisco estatal no se actualizarán por fracciones de mes.
 
-(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1999) (F. DE E. P.O. 16 DE MARZO DE 2000)
+En los casos en que el Índice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo, no hubiere sido publicado por el Instituto Nacional de Estadística y Geografía, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
 
-En el caso de un crédito fiscal el factor de actualización se obtendrá dividiendo A entre B donde:
+El Índice Nacional de Precios al Consumidor, publicado por las autoridades fiscales federales, será aplicable en la determinación del factor de actualización de las contribuciones establecidas en las leyes tributarias del Estado de Jalisco.
 
-A = Indice nacional de precios al consumidor vigente en el momento en que suceda el pago del contribuyente.
-
-B = Indice citado, vigente en el momento en que se hace exigible el pago por parte del fisco.
-
-Tratándose del caso de devoluciones a cargo del fisco el factor de actualización se obtendrá dividiendo C entre D donde:
-
-C = Indice Nacional de precios al consumidor vigente en el momento de realizar la devolución.
-
-D = Indice citado vigente al momento en que fue recibido por el fisco el pago indebido motivo de la devolución.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
-
-Los créditos fiscales, así como las devoluciones a cargo del fisco estatal, no se actualizarán por fracciones de mes.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
-
-En los casos en que el Indice Nacional de precios al consumidor del mes anterior al que suceda el pago o se realice la devolución, no haya sido publicado por el Banco de México, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
+Tratándose del caso de devoluciones a cargo del fisco el factor de actualización se obtendrá dividiendo el Índice Nacional de precios al consumidor vigente en el momento de realizar la devolución; entre el Índice citado vigente al momento en que fue recibido por el fisco el pago indebido motivo de la devolución.
 
 Las cantidades actualizadas, conservarán la naturaleza jurídica que tenían antes de la actualización.
 
@@ -1227,51 +1289,79 @@ II. Los recargos y las multas; y
 
 III. Los impuestos, derechos, productos y aprovechamientos distintos de los señalados en la fracción anterior, por orden de antigüedad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 75.
 
-La Secretaría de Planeación, Administración y Finanzas estará obligada a devolver las cantidades que hubiesen sido pagadas indebidamente, conforme a las reglas que siguen:
+La Secretaría de Planeación, Administración y Finanzas estará obligada a devolver las cantidades que hubiesen sido pagadas indebidamente o las que procedan conforme a las leyes fiscales, de acuerdo a las reglas que siguen:
 
-I. Cuando el pago de lo indebido, se hubiere efectuado en cumplimiento de resolución de autoridad que determine la existencia de un crédito fiscal; el derecho a la devolución nace cuando dicha resolución hubiere quedado insubsistente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+I. Cuando el pago, se hubiere efectuado en cumplimiento de resolución de autoridad que determine la existencia de un crédito fiscal; el derecho a la devolución nace cuando dicha resolución hubiere quedado insubsistente;
 
 II. Tratándose de créditos fiscales cuyo importe hubiere sido efectivamente retenido a los sujetos pasivos, el derecho a la devolución sólo corresponderá a éstos; y
 
-III. En los casos no previstos en las fracciones anteriores, tendrán derecho a la devolución de lo pagado indebidamente, quienes hubieren efectuado el entero respectivo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+III. En los casos no previstos en las fracciones anteriores, tendrán derecho a la devolución, quienes hubieren efectuado el entero respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 76.
 
-Para que se haga la devolución de cantidades pagadas indebidamente, será necesario que se dicte el acuerdo del Secretario de Planeación, Administración y Finanzas, el Sub Secretario de Finanzas o el funcionario autorizado conforme al Reglamento Interior de la Secretaría de Planeación, Administración y Finanzas.
+Para que se haga la devolución de cantidades pagadas indebidamente o las que procedan conforme a la ley, será necesario que se dicte el acuerdo del Secretario de Planeación, Administración y Finanzas, el Subsecretario de Finanzas o el funcionario autorizado conforme al Reglamento Interno de la Secretaría de Planeación, Administración y Finanzas.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 La devolución se hará de oficio, o a petición del interesado, en cuyo caso se realizará dentro del plazo de los tres meses siguientes a la fecha en que se presente la solicitud ante la autoridad competente con todos los datos, informes y documentos que comprueben la procedencia.
 
-Las autoridades fiscales, para verificar la procedencia de la devolución requerirán al contribuyente, en un plazo no mayor de veinte días posteriores a la presentación de la solicitud de devolución, los datos, informes o documentos adicionales que considere necesarios y que estén relacionados con la misma.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Las autoridades fiscales, para verificar la procedencia de la devolución requerirán al contribuyente, en un plazo no mayor de veinte días posteriores a la presentación de la solicitud de devolución, los datos, informes, o documentos que consideren necesarios y que estén relacionados con la misma.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 Para efecto de lo dispuesto en el párrafo anterior las autoridades fiscales, requerirán al promovente, a fin de que en un plazo no mayor de quince días, cumpla con lo solicitado, apercibido, que de no hacerlo en dicho plazo, se le tendrá por desistido de la solicitud de devolución correspondiente.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 El plazo citado en el párrafo que antecede podrá prorrogarse hasta por 10 días más a solicitud del promovente.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 Las autoridades fiscales solo podrán efectuar un nuevo requerimiento, dentro de los diez días siguientes a la fecha en la que se haya cumplido el primer requerimiento, cuando se refiera a datos, informes o documentos que hayan sido aportados por el contribuyente al atender dicho requerimiento. Para el cumplimiento del segundo requerimiento el contribuyente contará con un plazo de diez días y le será aplicable el apercibimiento a que se refiere el párrafo cuarto del presente artículo. Cuando la autoridad requiera datos, informes o documentos, antes señalados, el período transcurrido entre la fecha en que se hubiera notificado el requerimiento de los mismos y la fecha en que estos sean proporcionados en su totalidad por el contribuyente, no se computará en la determinación del plazo para la devolución señalado en el párrafo segundo del presente artículo.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando, soliciten los datos, informes y documentos a que se refieren los párrafos tercero y quinto, pudiendo ejercerlas en cualquier momento.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 Solo procederá la devolución de pago de lo indebido, a los sujetos pasivos de la relación tributaria, en los términos que establece el presente código.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 Las autoridades fiscales, deberán pagar la devolución que proceda, actualizada conforme a lo previsto en el artículo 68, de este Código, desde el mes en que se presentó la solicitud hasta aquél en que la devolución se efectúe. Si la devolución no se hubiera efectuado en el plazo de tres meses, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al del vencimiento de dicho plazo, conforme a una tasa que se aplicará sobre la devolución actualizada, y que será igual a la prevista para los recargos, en los términos del artículo 71 de este Código.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 En ningún caso, los intereses a cargo del fisco estatal excederán de los que se generen en cinco años.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
+
 Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 71, de este Código, sobre las cantidades actualizadas tanto por las devueltas indebidamente como por la de los posibles intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
 #### SECCIÓN PRIMERA. De la Compensación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 77.
 
-Los contribuyentes obligados a presentar declaración, podrán optar por compensar las cantidades que tengan a su favor, contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios.
+Los contribuyentes obligados a presentar declaración, podrán optar por compensar las cantidades que tengan a su favor, contra las que estén obligados a pagar por adeudo propio o por retención a terceros, incluyendo sus accesorios.
 
 Al efecto, bastará que efectúen la compensación de dichas cantidades actualizadas, conforme a lo previsto en el artículo 68 de éste Código, desde el mes en que se presentó la declaración que contenga el saldo a favor, hasta aquél en que la compensación se realice.
 
@@ -1427,17 +1517,63 @@ En ningún trámite administrativo se admitirá la gestión de negocios.
 
 Los interesados podrán autorizar por escrito, en cada caso, a persona que en su nombre reciba notificaciones, ofrezca y rinda pruebas o interponga recursos dentro del procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 94.
 
-Las notificaciones de los citatorios, emplazamientos, solicitudes de informes o documentos y las de acuerdos o resoluciones administrativas que puedan ser recurridas, se harán personalmente.
+Las notificaciones de los citatorios, requerimientos, emplazamientos, solicitudes de informes o documentos y las de acuerdos o resoluciones administrativas que puedan ser recurridas, se harán:
 
-Se notificará por edictos, cuando se ignore el domicilio de la persona a quien se deba notificar, o ésta se encuentre fuera del Estado, sin haber dejado representante legal acreditado ante las autoridades fiscales locales.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Se notificará por estrados, cuando la persona a quien deba notificarse no se encuentre después de iniciadas las facultades de comprobación o se oponga a la diligencia de notificación y en los demás casos que señalan las leyes fiscales y este Código.
+I. Personalmente o por mensaje de datos con acuse de recibo en el buzón tributario.
+
+La notificación electrónica de documentos digitales se realizará en el buzón tributario. Para tales efectos la Secretaría de Planeación, Administración y Finanzas podrá establecer reglas de carácter general.
+
+El acuse de recibo consistirá en el documento digital con firma electrónica, que transmita el destinatario al abrir el documento digital que le hubiera sido enviado.
+
+Las notificaciones electrónicas, se tendrán por realizadas cuando se genere el acuse de recibo electrónico en el que conste la fecha y hora en que el contribuyente se autenticó para abrir el documento a notificar.
+
+Previo a la realización de la notificación electrónica, al contribuyente le será enviado un aviso mediante el mecanismo elegido por el contribuyente.
+
+Los contribuyentes contarán con tres días para abrir los documentos digitales pendientes de notificar. Dicho plazo se contará a partir del día siguiente a aquél en que le sea enviado el aviso al que se refiere el párrafo anterior.
+
+En caso de que el contribuyente no abra el documento digital en el plazo señalado, la notificación electrónica se tendrá por realizada al cuarto día, contado a partir del día siguiente a aquél en que le fue enviado el referido aviso.
+
+La clave de seguridad será personal, intransferible y de uso confidencial, por lo que el contribuyente será responsable del uso que dé a la misma para abrir el documento digital que le hubiera sido enviado.
+
+El acuse de recibo también podrá consistir en el documento digital con firma electrónica avanzada que genere el destinatario de documento remitido al autenticarse en el medio por el cual le haya sido enviado el citado documento.
+
+Las notificaciones electrónicas estarán disponibles en el portal de Internet establecido al efecto por las autoridades fiscales y podrán imprimirse para el interesado, dicha impresión contendrá un sello digital que lo autentifique.
+
+Las notificaciones en el buzón tributario serán emitidas anexando el sello digital correspondiente, conforme a lo señalado en el artículo 100 fracción IV de este Código;
+
+II. Por correo ordinario o por telegrama, cuando se trate de actos distintos señalados a los precisados en la fracción anterior.
+
+III. Por edictos, en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al representante de la sucesión;
+
+IV. Por estrados, cuando la persona a quien deba notificarse, desocupe, desaparezca o no sea localizable en el domicilio que hubiere señalado para efectos del Registro Estatal de Contribuyentes, se ignore su domicilio o el de su representante y en los demás casos que señalan las leyes fiscales y éste Código; o
+
+V. Por instructivo, en los casos a que se refiere el artículo 96 de este Código.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 95.
 
-Los acuerdos distintos de los señalados en el artículo anterior, podrán ser notificados por medio de oficio o telegrama.
+Las personas físicas y morales inscritas en el Registro Estatal de Contribuyentes tendrán asignado un buzón tributario, consistente en un sistema de comunicación electrónico ubicado en la página de Internet de la Secretaría de Planeación, Administración y Finanzas, a través del cual:
+
+La autoridad fiscal realizará la notificación de cualquier acto o resolución administrativa que emita, en documentos digitales, incluyendo cualquiera que pueda ser recurrido.
+
+Las personas físicas y morales que tengan asignado un buzón tributario deberán consultarlo dentro de los tres días siguientes a aquél en que reciban un aviso electrónico enviado por la Secretaría de Planeación, Administración y Finanzas, mediante los mecanismos de comunicación que el contribuyente elija de entre los que se den a conocer a través de reglas de carácter general.
+
+La autoridad enviará por única ocasión, por medio del mecanismo elegido, un aviso de confirmación que servirá para corroborar la autenticidad y correcto funcionamiento de éste.
+
+Para los efectos mencionados en el párrafo anterior, se deberá contar con un certificado que confirme el vínculo entre un firmante y los datos de creación de una firma electrónica avanzada, expedido por la Secretaría de Planeación, Administración y Finanzas.
+
+En los documentos digitales, una firma electrónica avanzada amparada por un certificado vigente sustituirá a la firma autógrafa del firmante, garantizará la integridad del documento y producirá los mismos efectos que las leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+Se entiende por documento digital todo mensaje de datos que contiene información o escritura generada, enviada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología.
 
 ###### Artículo 96.
 
@@ -1457,13 +1593,17 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Las notificaciones por oficio o telegrama se harán en el domicilio que el interesado haya señalado para el efecto al iniciar alguna instancia y sólo por lo que toca al trámite y resolución de ésta. Bastará para considerar que se ha señalado domicilio para recibir notificaciones en instancias administrativas, el que la dirección del interesado aparezca impresa en la promoción respectiva. A falta de domicilio designado se tendrá en cuenta el que resulte de las leyes fiscales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 98.
 
-Las notificaciones por edictos se realizarán, haciendo publicaciones que contendrán un resumen de las resoluciones por notificar; dichas publicaciones deberán efectuarse por tres veces consecutivas en el Periódico Oficial El Estado de Jalisco y en uno de los diarios de mayor circulación en la entidad, con cargo al contribuyente.
+Las notificaciones por edictos se realizarán, haciendo publicaciones que contendrán un resumen de las resoluciones por notificar; dichas publicaciones deberán efectuarse por tres veces consecutivas en el Periódico Oficial El Estado de Jalisco, en uno de los diarios de mayor circulación en la entidad con cargo al contribuyente o en la página electrónica que al efecto establezcan las autoridades fiscales. Se tendrá como fecha de notificación la de la última publicación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 99.
 
-Para las notificaciones por estrados se fijarán durante cinco días el texto de la resolución que se pretenda notificar. El estrado se establecerá, en un sitio abierto al público, en las oficinas de la autoridad respectiva. La autoridad dejará constancia de ello en el expediente. En estos casos, se tendrá como fecha de notificación, la del sexto día hábil inmediato siguiente a aquél en que se hubiera fijado el texto.
+Para las notificaciones por estrados se harán fijando durante cinco días el documento que se pretenda notificar en un sitio abierto al público, en las oficinas de la autoridad que efectúe la notificación o en la página electrónica que al efecto establezcan las autoridades fiscales; dicho plazo se contará a partir del día siguiente a aquél en que el documento fue fijado o publicado según corresponda; la autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación, la del sexto día hábil, contado a partir del día siguiente a aquél en que se hubiera fijado o publicado el documento.
 
 ###### Artículo 100.
 
@@ -1475,13 +1615,23 @@ II. La autoridad que lo emite;
 
 III. Deberá estar fundado y motivado, y expresar la resolución, objeto o propósito de que se trate; y
 
-IV. La firma del servidor público que lo dicte y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV. La firma del servidor público que lo dicte y, en su caso, el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación. En el caso de resoluciones administrativas que consten en documentos digitales, deberán tener la firma electrónica avanzada del funcionario competente, la que tendrá el mismo valor que la firma autógrafa.
+
+Para la emisión y regulación de la firma electrónica avanzada de los funcionarios pertenecientes a la Secretaría de Planeación Administración y Finanzas, serán aplicables las disposiciones previstas en la Ley de Firma Electrónica Avanzada para el Estado de Jalisco y sus Municipios.
+
+En caso de resoluciones administrativas que consten en documentos impresos, el funcionario competente podrá expresar su voluntad para emitir la resolución plasmando en el documento impreso un sello expresado en caracteres, generado mediante el uso de su firma electrónica avanzada y amparada por un certificado vigente a la fecha de la resolución.
+
+Para dichos efectos, la impresión de caracteres consistente en el sello resultado del acto de firmar con la firma electrónica avanzada amparada por un certificado vigente a la fecha de la resolución, que se encuentre contenida en el documento impreso, producirá los mismos efectos que las Leyes otorgan a los documentos con firma autógrafa, teniendo el mismo valor probatorio.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará, además, la causa legal de la responsabilidad.
 
-Las notificaciones surtirán sus efectos el día hábil siguiente al que fueron hechas.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 21 DE JULIO DE 2001)</small>
+Las notificaciones surtirán sus efectos el día hábil siguiente al que fueron hechas.
 
 ###### Artículo 101.
 
@@ -1503,11 +1653,19 @@ No obstante lo dispuesto en los párrafos anteriores, si el último día del pla
 
 Para los efectos de cómputos de plazos fiscales, son días inhábiles el 1° de enero, el primer lunes de febrero en conmemoración del 5 de febrero, el tercer lunes de marzo en conmemoración del 21 de marzo, 1° y 5 de mayo, 16 y 28 de septiembre, 12 de octubre, 2 y tercer lunes de noviembre en conmemoración del 20 de noviembre, 25 de diciembre, el día correspondiente a la transmisión del Poder Ejecutivo Federal y los sábados y domingos.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+También son días inhábiles aquellos en que tengan vacaciones generales las autoridades fiscales.
+
+(REFORMADO, P.O. 16 DE DICIEMBRE DE 1999) (REFORMADO [N. DE E. REPUBLICADO Y REUBICADO], P.O. 31 DE DICIEMBRE DE 2016)
 
 La presencia de personal de guardia por vacaciones generales, no habilita los días en que se suspendan las labores.
 
-La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas de lunes a viernes, de 8:00 a 17:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez. Las autoridades fiscales, para la práctica de auditoría domiciliarias (sic), del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles, esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
+> <small>(REFORMADO [N. DE E. Y REUBICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+La práctica de diligencias por las autoridades fiscales deberá efectuarse en días y horas hábiles, que son las comprendidas de lunes a viernes, de 7:30 a 18:00 horas. Una diligencia de notificación iniciada en horas hábiles podrá concluirse en hora inhábil sin afectar su validez. Las autoridades fiscales, para la práctica de auditoría (sic) domiciliarias, del procedimiento administrativo de ejecución, de notificaciones y de embargos precautorios, podrán habilitar los días y horas inhábiles, cuando la persona con quien se va a practicar la diligencia realice las actividades por las que deba pagar contribuciones en días u horas inhábiles, esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO Y REUBICADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 También se podrá continuar en días u horas inhábiles una diligencia iniciada en días y horas hábiles, cuando la continuación tenga por objeto el aseguramiento de contabilidad o de bienes del particular, debiendo de asentarse en las actas parciales y en el acta final.
 
@@ -1569,15 +1727,15 @@ X. La Secretaría de Planeación, Administración y Finanzas no impondrá multas
 
 XI. Cuando las multas impuestas por las autoridades fiscales, se paguen dentro del plazo de 10 días hábiles siguientes contados a partir de que surta efectos su notificación, la sanción se reducirá en un 30 por ciento de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución.
 
-(REPUBLICADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 108.
 
-Son infracciones cuya responsabilidad recae sobre los sujetos pasivos, de un crédito fiscal, las que a continuación se indican, debiéndose aplicar las sanciones siguientes:
+Son infracciones cuya responsabilidad recae sobre los sujetos pasivos de la relación jurídico tributaria, las que a continuación se indican, debiéndose aplicar las sanciones siguientes:
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-I. No cumplir con las obligaciones que señalan las leyes fiscales, de inscribirse o registrarse, ante el Registro Estatal de Contribuyentes o ante cualquier padrón a que se encuentren obligados los sujetos pasivos en términos de las leyes respectivas, o hacerlo fuera de los plazos legales; multa de 15 a 100 veces el valor diario de la Unidad de Medida y Actualización;
+I. No cumplir con las obligaciones que señalan las leyes fiscales, de inscribirse o registrarse, ante el Registro Estatal de Contribuyentes o ante cualquier padrón a que se encuentren obligados los sujetos pasivos en términos de las leyes respectivas, o hacerlo fuera de los plazos legales; multa de 50 a 100 veces el valor diario de Unidad de Medida y Actualización.
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -1631,9 +1789,9 @@ XII. No presentar, o hacer extemporáneamente, los avisos, declaraciones, contra
 
 XII BIS. No presentar o hacerlo extemporáneamente, el aviso de cambio de domicilio o de propietario en el padrón de vehículos a que se refiere el artículo 70 fracción II último párrafo de la Ley de Hacienda del Estado de Jalisco, multa de 20 a 50 veces el valor diario de la Unidad de Medida y Actualización. La multa tendrá carácter incondonable;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XIII. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de un crédito fiscal, multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización; cuando no pueda precisarse el monto del crédito fiscal omitido. De lo contrario, la multa será hasta de tres tantos del importe de dicha contribución;
+XIII. Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos que exijan las leyes fiscales, incompletos o con errores que traigan consigo la evasión de un crédito fiscal, multas de 10 a 100 veces el valor diario de la Unidad de Medida y Actualización; cuando no pueda precisarse el monto del crédito fiscal omitido. De lo contrario, la multa será hasta de tres tantos del importe de dicha contribución;
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -1671,9 +1829,9 @@ XXI. Presentar los avisos, declaraciones, contratos, solicitudes, datos e inform
 
 XXII. Señalar como domicilio para efectos del registro estatal de contribuyentes, un lugar distinto al que corresponda conforme a este Código o leyes fiscales, multa de 20 a 50 veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XXIII. No presentar las declaraciones de entero de retenciones a que obligan las disposiciones legales correspondientes o hacerlo a requerimiento de la autoridad, por cada una, multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización; y
+XXIII. No cumplir con la obligación de retener y enterar o de recaudar y enterar las contribuciones que establecen las disposiciones legales correspondientes o hacerlo a requerimiento de la autoridad, por cada periodo omitido, multa de 50 a 100 veces el valor diario de la Unidad de Medida y Actualización; La multa establecida en esta fracción se aplicará también a quien retenga o recaude y no entere las contribuciones a que se encuentra obligado;
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2016)</small>
 
@@ -1682,6 +1840,22 @@ XXIV. No proporcionar información solicitada por las autoridades fiscales, resp
 > <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
 Artículo 108 A.- Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones, incluyendo las retenidas o recaudadas, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades, se aplicará una multa del 55% al 75% de las contribuciones omitidas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Se considera agravante el hecho de que el infractor sea reincidente. Se da la reincidencia cuando tratándose de infracciones que tengan como consecuencia la omisión en el pago de contribuciones, incluyendo las retenidas o recaudadas, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción que tenga esa consecuencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+En este caso, además de la multa precisada en este artículo, se impondrá al infractor una multa de 20% a 30% del monto de las contribuciones omitidas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+También se considera agravante, la omisión en el entero de contribuciones que se hubieren retenido o recaudado de los contribuyentes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+En este supuesto, además de la multa precisada en el primer párrafo de este artículo, se impondrá al infractor una multa de 50% a 75% del importe de las contribuciones retenidas o recaudadas y no enteradas.
 
 ###### Artículo 109.
 
@@ -2195,9 +2369,13 @@ XIV. La renta vitalicia para alimentos en los términos del Código Civil; y
 
 XV. Las servidumbres, cuando no se embargue también el predio dominante.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 141.
 
-Cuando se embarguen negociaciones comerciales, industriales, agrícolas y ganaderas y se practique intervención con cargo a la caja de dichas negociaciones, las autoridades correspondientes podrán ordenar que se retenga hasta el 25% por ciento de los ingresos diarios a fin de garantizar el importe del crédito fiscal reclamado.
+Cuando se embarguen negociaciones comerciales, industriales, agrícolas y ganaderas y se practique intervención con cargo a la caja de dichas negociaciones, las autoridades correspondientes podrán ordenar que se retenga hasta el 25% por ciento de los ingresos diarios percibidos en efectivo, mediante transferencia electrónica o depósitos a través de instituciones del sistema financiero, y enterarlos en la caja de la oficina ejecutora diariamente o a medida que se efectúe la recaudación, a fin de garantizar el importe del crédito fiscal reclamado.
+
+Los movimientos de las cuentas bancarias y de inversiones de la negociación intervenida, por conceptos distintos a los señalados en el párrafo anterior, que impliquen retiros, traspasos, transferencias, pagos, reembolsos, deberán ser aprobados previamente por el interventor, quien además llevará un control de dichos movimientos.
 
 ###### Artículo 142.
 
@@ -2267,9 +2445,13 @@ VII. Rendir cuentas mensuales comprobadas ante la oficina ejecutora; y
 
 VIII. El depositario interventor que tuviere conocimiento de irregularidades en el manejo de las negociaciones sujetas a embargo o de operaciones que pongan en peligro los intereses de la Hacienda del Estado, dictará las medidas provisionales urgentes que estime necesarias, para proteger dichos intereses y dará cuenta a la oficina ejecutora, la que podrá ratificarlas o modificarlas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 151.
 
-Si las medidas urgentes que dicten los depositarios interventores en los casos previstos en la fracción VIII del artículo anterior, no fueren acatadas por el deudor o el personal de la negociación sujeta a embargo, la oficina ejecutora ordenará de plano que el depositario interventor se convierta en administrador.
+Si las medidas urgentes que dicten los depositarios interventores en los casos previstos en la fracción VIII del artículo anterior, no fueren acatadas por el deudor o el personal de la negociación sujeta a embargo, la oficina ejecutora ordenará de plano que el depositario interventor con cargo a caja se convierta en interventor con carácter de administrador, quien tendrá todas las facultades que correspondan a la administración de la sociedad y plenos poderes con potestades que requieran cláusula especial conforme a la Ley, para ejercer actos de dominio y de administración, para pleitos y cobranzas, otorgar o suscribir títulos de crédito, presentar denuncias, querellas y desistir de éstas últimas, previo acuerdo de la oficina ejecutora, así como para otorgar los poderes generales o especiales que juzgue conveniente, revocar los otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
+
+El interventor con carácter de administrador, no quedará supeditada su actuación al consejo de administración, asamblea de accionistas, socios o partícipes.
 
 ###### Artículo 152.
 
@@ -2952,6 +3134,18 @@ P.O. 11 DE OCTUBRE DE 2016.
 > <small>(F. DE E., P.O. 11 DE OCTUBRE DE 2016)</small>
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26209/LXI/16 QUE REFORMA LOS ARTÍCULOS 22, 41, 45, 47, 59, 68, 75, 76, 77, 94, 95, 98, 99, 100, 103, 108, 108 A, 141, Y 151; Y SE ADICIONA EL ARTÍCULO 31 C, AL CÓDIGO FISCAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. Todos los procedimientos que a la fecha de entrada en vigor del presente Decreto se encuentren en proceso, serán tramitados hasta su conclusión en los términos de las disposiciones del Código Fiscal vigente en su inicio.
+
+TERCERO. Se derogan las disposiciones que se opongan a la aplicación y cumplimiento del presente Decreto.
+
+CUARTO. Las reformas a las disposiciones relativas a las notificaciones mediante buzón tributario, previstas en los artículos 94 fracción I y 95 de éste Código, entrarán en vigor a partir del 02 de Enero de 2018. El diferimiento en la aplicación de la norma, no incluye las demás modalidades de notificación previstas en el numeral 94 de referencia. La Secretaría de Planeación, Administración y Finanzas, podrá emitir reglas de carácter general, para facilitar y precisar los procedimientos relativos al buzón tributario enunciado en los artículos ya mencionados, incluso para postergar el inicio de vigencia de las reformas a dichos preceptos.
 
 ###### ARTICULO PRIMERO
 
