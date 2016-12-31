@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-del-estado-de-jalisco-17570"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-23"
-last_updated: "2014-12-25"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 23 de septiembre de 2000.
 
@@ -83,7 +83,9 @@ b) Archivo de Instrumentos Públicos y Archivo General del Estado
 
 c) Autorizaciones para el Ejercicio Profesional y Notarial
 
-d) Servicios en los ramos de Vialidad, Tránsito, Transporte y su Registro
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+d) Servicios en los ramos de Movilidad y Transporte y su Registro;
 
 e) Certificaciones, Expediciones de Constancias y otros Servicios
 
@@ -105,9 +107,11 @@ VII. Ingresos por Financiamientos.
 
 Del objeto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 2°.
 
-Es objeto de este impuesto, toda transmisión de propiedad de bienes muebles efectuada mediante:
+Es objeto de este impuesto, toda transmisión de propiedad o titularidad de derechos de bienes muebles efectuada mediante:
 
 I. La adjudicación;
 
@@ -137,9 +141,11 @@ Son sujetos de este impuesto, las personas físicas, jurídicas o unidades econ�
 
 De la base del impuesto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 4°.
 
-Será base de este impuesto, el valor que resulte más alto entre el de operación consignado en el documento de que se trate y, en su caso, el del avalúo pericial, conforme a lo siguiente:
+Será base de este impuesto, el valor que resulte más alto entre el de operación consignado en el documento de que se trate y, en su caso, el del avalúo pericial, valor catastral o actuaciones judiciales, conforme a lo siguiente:
 
 I. En los casos de transmisión o cesión de derechos hereditarios o de disolución de copropiedad o de sociedad legal o conyugal, el valor de la parte proporcional del bien o bienes que correspondan a los derechos que se transmitan o en que se incrementen las correspondientes porciones de los copropietarios, herederos o cónyuges, determinado de acuerdo con lo señalado en la presente fracción;
 
@@ -311,9 +317,11 @@ No se dará trámite ni se registrará documento alguno si no obra en él dicha 
 
 Tratándose de contratos mercantiles cuyo registro no puede ser demorado de acuerdo con el artículo 31 del Código de Comercio, la obligación de los registradores se limitará a denunciar de inmediato, a la oficina de recaudación fiscal respectiva, las omisiones fiscales que adviertan.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 21.
 
-En el caso de que las obligaciones estipuladas estén sujetas a alguna condición, también se causará el impuesto por la celebración del contrato respectivo.
+En el caso de que en una misma escritura o documento privado se consignen varios actos o contratos, además del principal, se causará el impuesto por cada uno de ellos. La modalidad pactada en el acto o contrato, no dará lugar a la causación adicional del gravamen.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -341,21 +349,53 @@ Se considera que la adquisición, compra-venta, donación, permuta o aportación
 
 De las bases del impuesto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 25.
 
-Para los efectos de este impuesto, la base gravable será:
+Para los efectos de este impuesto, la base gravable se determinará aplicando el siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-I. Tratándose de vehículos automotores y eléctricos, el valor que señale el tabulador que mediante disposiciones de carácter general expida la Secretaría de Planeación, Administración y Finanzas;
+I. Se considerará el valor total del vehículo establecido en la factura inicial de adquisición o carta factura que hubiese expedido el fabricante, ensamblador o distribuidor autorizados, sin incluir el Impuesto al Valor Agregado, siempre que se encuentre desglosado. El valor del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la tabla siguiente:
 
-II. Tratándose de vehículos usados cuyo modelo sea del año en curso o del siguiente, el valor total consignado en la factura original expedida por el distribuidor, relativo al precio de la unidad, equipo opcional y otros accesorios,
+TABLA
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+Años de Factor
 
-III. Tratándose de vehículos no comprendidos en el tabulador oficial, la Secretaría de Planeación, Administración y Finanzas practicará un avalúo para determinar el valor que sirva de base para el pago del impuesto; y
+antigüedad
 
-IV. En el caso de vehículos no aptos para circular se considerará sólo el 25% del valor que señale el tabulador a que se refiere la fracción I de este artículo.
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 y más 0.075
+
+antiguos
+
+El resultado se actualizará, en los términos del artículo 68 del Código Fiscal del Estado de Jalisco, dividiendo el Índice Nacional de Precios al Consumidor, del mes anterior al en que se realice el pago del impuesto, entre el citado Índice correspondiente al mes anterior a la fecha de factura inicial de adquisición o carta factura, del vehículo de que se trate.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II. Tratándose de vehículos usados cuyo modelo sea del año en curso o del siguiente, el valor total consignado (sic) la factura inicial de adquisición o carta factura expedida por el fabricante, ensamblador o distribuidor autorizados, relativo al precio de la unidad, equipo opcional y otros accesorios,
+
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV. En el caso de vehículos no aptos para circular se considerará sólo el 25% del valor factura, de acuerdo al procedimiento de la fracción I de este artículo.
 
 Se considerará que los vehículos no son aptos para circular, cuando se destinen para la venta de partes o refacciones usadas.
 
@@ -365,13 +405,15 @@ De la cuota y pago del impuesto
 
 Este impuesto se calculará aplicando a la base determinada conforme al artículo anterior, las tasas establecidas en la Ley de Ingresos del Estado.
 
-Tratándose de vehículos usados, deberá pagarse dentro de los treinta días posteriores a la fecha en que ocurra cualquiera de los siguientes hechos:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Tratándose de vehículos usados, deberá pagarse dentro de los diez días hábiles posteriores a la fecha en que ocurra cualquiera de los siguientes hechos:
 
 I. Endoso de la factura o del documento que acredite legalmente la propiedad del vehículo; o
 
-> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II. Aviso de cambio de propietario en la Secretaría de Planeación, Administración y Finanzas a través de la correspondiente Oficina de Recaudación Fiscal.
+II. La fecha de adquisición, compra-venta, donación, permuta o aportación a una sociedad, o en que hubiera sido obtenido como premio en rifa o sorteos.
 
 ###### Artículo 27.
 
@@ -385,17 +427,17 @@ I. Los contribuyentes deberán presentar la documentación que acredite la propi
 
 II. La oficina de recaudación fiscal, al efectuarse el entero del impuesto, expedirá el recibo oficial respectivo y certificará constancia de pago en la factura o documento que ampare la propiedad del vehículo.
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Los contribuyentes propietarios de vehículos automotores usados registrados en el Estado que efectúen la transmisión de un vehículo, o los contribuyentes que lo adquieran, deberán presentar ante la Oficina Recaudadora Fiscal competente, el aviso de cambio de propietario dentro de los treinta días siguientes a aquel en que se realice la adquisición, compra-venta, donación, permuta o aportación a una sociedad, adjuntando el documento que acredite dicha circunstancia.
+Los contribuyentes propietarios de vehículos automotores usados registrados en el Estado que efectúen la transmisión de un vehículo, o los contribuyentes que lo adquieran, deberán presentar ante la oficina de recaudación fiscal competente, el aviso de cambio de propietario dentro de los diez días hábiles siguientes a aquél en que se realice la adquisición, compra-venta, donación, permuta o aportación a una sociedad, adjuntando el documento que acredite dicha circunstancia.
 
 De las exenciones
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 29.
 
-Están exentas del pago de este impuesto, las operaciones de compra-venta de vehículos usados por cuya enajenación debe pagarse el impuesto al valor agregado.
+Están exentas del pago de este impuesto, las operaciones de compra-venta de vehículos usados por cuya enajenación debe pagarse el impuesto al valor agregado, así como las relativas a vehículos eléctricos y en un 50% a los vehículos híbridos.
 
 ### CAPITULO CUARTO. Del impuesto sobre remuneraciones al trabajo personal no subordinado
 
@@ -413,7 +455,13 @@ De los sujetos
 
 Son sujetos de este impuesto las personas físicas que, habitual o eventualmente, obtengan los ingresos a que se refiere el artículo anterior.
 
-Cuando operen organizadas en asociaciones o sociedades de carácter civil, serán dichas agrupaciones los sujetos del impuesto, con responsabilidad directa por el total de los ingresos que obtengan; las personas físicas y jurídicas domiciliadas en el estado, que contraten la prestación de actividades no subordinadas están obligadas a retener y enterar el impuesto generado por la obtención de los ingresos gravados.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando operen organizadas en asociaciones o sociedades, serán dichas agrupaciones los sujetos del impuesto, con responsabilidad directa por el total de los ingresos que obtengan; las personas físicas y jurídicas, que cubran las remuneraciones a que se refiere el artículo anterior de esta Ley, deberán retener el impuesto y enterarlo dentro del plazo establecido en este capítulo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando se trate de servicios de medicina, las personas físicas y jurídicas, que en sus instalaciones permitan la prestación de servicios independientes en la materia, estarán obligados a recaudar el impuesto causado por los prestadores de referencia y enterarlo dentro del término que establece este capítulo.
 
 De la base
 
@@ -439,9 +487,11 @@ La obligación de presentar la declaración subsistirá aún cuando no se hayan 
 
 De las obligaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 35.
 
-Los sujetos que obtengan los ingresos comprendidos en este capítulo, y en su caso los retenedores tendrán, además de las obligaciones establecidas en la presente Ley u otras disposiciones legales, las siguientes:
+Los sujetos que obtengan los ingresos comprendidos en este capítulo, y en su caso los retenedores o recaudadores del impuesto tendrán, además de las obligaciones establecidas en la presente Ley u otras disposiciones legales, las siguientes:
 
 I. Pagar el impuesto en la forma y términos establecidos en este capítulo;
 
@@ -457,7 +507,17 @@ IV. Presentar los avisos de inscripción o modificaciones ante el Registro Estat
 
 V. Cumplir con las obligaciones y disposiciones que se establece (sic) en el Código Fiscal del Estado, entre las que se señalan de manera enunciativa, mas no limitativa, obligaciones en materia de contabilidad, conservación de la misma, de proporcionar a las autoridades fiscales avisos, datos informes o cualquiera otra documentación a que se obligue el Código Fiscal del Estado, en lo que no contravengan lo dispuesto en el presente capitulo; y
 
-VI. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VI. Expedir constancia de retención del Impuesto Sobre Remuneración al Trabajo Personal no Subordinado, en el formato que al efecto apruebe la Secretaría de Planeación, Administración y Finanzas, de manera mensual o anual.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VII. En el caso de retenedores, presentar declaración informativa anual ante las Oficinas de Recaudación Fiscal del Estado o a través de los medios electrónicos que establezca la secretaría de Planeación, Administración y Finanzas, en el formato oficial que ésta señale, por todas las operaciones del ejercicio, a más tardar en el mes de febrero del año siguiente al que corresponda la declaración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Mismas obligaciones tendrán los recaudadores del impuesto, es decir, quienes permitan la utilización de sus instalaciones para la prestación de servicios independientes de medicina.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -471,7 +531,9 @@ La Secretaría de Planeación, Administración y Finanzas podrá designar interv
 
 Quienes cubran remuneraciones objeto de este impuesto a contribuyentes que no estén establecidos en el estado y operen eventualmente dentro de éste, deberán retenerlo y enterarlo en la oficina de recaudación fiscal de su domicilio, dentro del plazo señalado en este capítulo.
 
-Las personas jurídicas que cubran las remuneraciones a que se refiere el artículo 30 de esta Ley, deberán retener el impuesto y enterarlo dentro del plazo establecido en este capítulo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Las personas físicas y jurídicas que cubran las remuneraciones a que se refiere el artículo 30 de esta Ley, deberán retener el impuesto y enterarlo dentro del plazo establecido en este capítulo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2013)</small>
 
@@ -625,9 +687,11 @@ En caso de que no se efectué el entero del impuesto omitido o no se realicen ac
 
 De las obligaciones de los contribuyentes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 46.
 
-Son obligaciones de los contribuyentes de este impuesto, además de las establecidas en la presente Ley o en cualquier otra disposición legal, las siguientes:
+Son obligaciones de los contribuyentes de este impuesto y en su caso de los retenedores, además de las establecidas en la presente Ley o en cualquier otra disposición legal, las siguientes:
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
 
@@ -645,9 +709,15 @@ III. Las sucursales, bodegas, agencias y otras dependencias de la matriz que se 
 
 IV. Los contribuyentes que teniendo sus matrices fuera del estado, establezcan dentro del territorio del mismo, sucursales, bodegas, agencias, oficinas y otras dependencias, cuando se encuentren gravadas por este impuesto o cuando no lo estén, deberán registrarse para efectos de pago y control;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-V. Las personas físicas o jurídicas que reciben las prestaciones del trabajo personal subordinado y que no hagan las erogaciones objeto de este impuesto, deberán de presentar su aviso de inscripción para efectos de control, exhibiendo copia del contrato de prestación de servicios ante la oficina de recaudación fiscal que corresponda a su domicilio, y proporcionar los datos que identifiquen a la persona que haga dichas erogaciones, así como el número de trabajadores que presten el trabajo subordinado;
+V. Las personas físicas o jurídicas que reciban la prestación de servicios de personal por parte de un tercero, no obstante que no paguen la nómina correspondiente de este personal, deberán retener el impuesto causado por el prestador de servicios de personal y enterarlo en el mismo plazo establecido para los sujetos de este impuesto. La misma obligación aplica a las personas físicas y jurídicas, que reciban la prestación de los citados servicios de personal por parte de un tercero, para la construcción de inmuebles ubicados en el territorio del Estado de Jalisco, sin importar que el receptor del servicio de referencia no se encuentre domiciliado en el Estado para fines fiscales.
+
+Así mismo, deberán presentar su aviso de inscripción en su carácter de retenedores ante la oficina de recaudación fiscal que corresponda a su domicilio y expedir constancia de retención del Impuesto Sobre Nómina, en el formato que al efecto apruebe la Secretaría de Planeación, Administración y Finanzas, de manera mensual o anual.
+
+Las prestadoras de servicios de personal a que se refiere esta fracción, informarán mensualmente a la receptora de dicho servicio, el importe de la nómina y el impuesto correspondiente que habrá de retenerse.
+
+En caso de que la prestadora de servicios de personal no proporcione la información a que se refiere el párrafo anterior para efectos de la retención respectiva, esta se determinará aplicando al valor total de los servicios prestados en el mes, consignados en los respectivos comprobantes fiscales, el factor de .90 y a su resultado se le aplicará la tasa del impuesto.
 
 VI. (DEROGADA, P.O. 25 DE DICIEMBRE DE 2014)
 
@@ -919,7 +989,9 @@ Los derechos por la prestación de servicios públicos a cargo de las diversas d
 
 A falta de disposición expresa, el importe de los derechos que resulten de acuerdo con las tasas o cuotas que señalen la Ley de Ingresos del Estado deberá ser cubierto en las Oficinas de Recaudación Fiscal de la jurisdicción donde se presta el servicio, o en el lugar que al efecto señale la Secretaria de Planeación, Administración y Finanzas. No causarán pago de derechos los contratos de crédito que otorguen las instituciones de seguridad social para la adquisición de vivienda de interés social, que señale la Ley de Ingresos del Estado.
 
-Tampoco causarán pago de derechos la expedición de constancias certificadas de inexistencias de registros de nacimientos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Tampoco causarán pago de derechos la expedición de constancias certificadas de inexistencia de registros de nacimientos, ni las certificaciones de las copias del acta del registro de nacimiento que se soliciten para trámites exclusivamente escolares del nivel preescolar, básico y medio superior.
 
 ###### Artículo 70.
 
@@ -1196,3 +1268,17 @@ P.O. 25 DE DICIEMBRE DE 2014.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. Las reformas contenidas en este Decreto, se aplicarán a partir de su entrada en vigor. El ejercicio de facultades de comprobación iniciadas con anterioridad a la entrada en vigor del presente Decreto, serán concluidos conforme las disposiciones aplicables en el momento de su inicio.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26181/LXI/16 QUE REFORMA LOS ARTÍCULOS 19, 20, 41, 43, 82, 87, 102, 103, 120 Y 128 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; 69 DE LA LEY DE HACIENDA DE JALISCO; Y 28 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO 2016”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 26211/LXI/16 QUE REFORMA LOS ARTÍCULOS 1, 2, 4, 21, 25, 26, 28, 29, 31, 35, 37, Y 46 DE LA LEY DE HACIENDA DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Se derogan las disposiciones que se opongan a la aplicación y cumplimiento del presente decreto.
