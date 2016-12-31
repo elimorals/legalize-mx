@@ -4,7 +4,7 @@ identifier: "HID-ley-de-control-vehicular-para-el-estado-de-hidalgo-97915"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2015-12-31"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
@@ -147,11 +149,17 @@ A) El contrato de cesión de derechos, análogo o similar, cuando se trate de ve
 
 B) La factura a que se refiere la fracción I, inciso A) del presente artículo, cuando se encuentre cedida, y siempre que en la última cesión conste el nombre completo de quien cede el documento, su firma, la fecha, el precio pactado en la operación de transmisión de propiedad, o la estipulación de que ésta se realizó a título gratuito, y la manifestación expresa de que cede todos los derechos y obligaciones que ampara la factura, así como el nombre completo de la persona a favor de quien se cede la misma;
 
-C) Las resoluciones de tribunales competentes que hagan las veces de factura judicial, siempre y cuando no exista aviso preventivo en el Registro Estatal Vehicular o en el Registro Público Vehicular; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+C) Las resoluciones de tribunales competentes que hagan las veces de factura judicial, siempre y cuando no exista aviso preventivo en el Registro Vehicular Estatal o en Registro Público Vehicular.
 
-D) Los contratos de compra-venta, siempre que se adjunte la factura original del vehículo. En estos casos, cuando la factura contenga endosos, deberá coincidir el nombre del vendedor con el del último endoso registrado. Asimismo, el contrato o el endoso deberán contener el precio pactado en la operación de transmisión de propiedad, o la estipulación de que ésta se realizó a título gratuito. Las disposiciones de este inciso son aplicables a contratos de compra-venta privados, así como aquellos que se otorguen ante fedatario público.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+D) La factura original del vehículo. En estos casos, cuando la factura contenga cesiones de derechos de propiedad, deberá coincidir el nombre del vendedor con el de la última cesión registrada en la factura. Asimismo, la cesión deberá contener el precio pactado en la operación de transmisión de propiedad o la estipulación de que esta se realizó a título gratuito. Las disposiciones de este inciso son aplicables a contratos de compra venta privados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+E) Tratándose de remolques ensamblados se acreditara su propiedad con factura o acta levantada ente (sic) el juzgado mixto menor.
 
 III.- Tratándose de vehículos importados:
 
@@ -159,9 +167,11 @@ A) Los títulos de propiedad emitidos en otros países, siempre que se adjunte e
 
 Cuando las facturas o documentos correspondientes se hubiesen emitido a través de medios electrónicos, será indispensable presentar alguno de los documentos contenidos en la fracción II, incisos A), C) y D), además del archivo electrónico que en su caso corresponda.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 7.
 
-En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales se hará mediante escritura pública o mediante carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante las autoridades fiscales, notario o fedatario público, acompañando copia de la identificación del contribuyente o representante legal, previo cotejo con su original.
+En ningún trámite administrativo se admitirá la gestión de negocios. La representación de las personas físicas o morales ante las autoridades fiscales se hará mediante escritura pública o carta poder firmada ante dos testigos y ratificadas la (sic) firmas del otorgante y testigos ante las autoridades fiscales, notarios o fedatario público, acompañado (sic) copia de la identificación del contribuyente o representante legal, o a través de un familiar directo, mayor de edad en línea recta ascendente o descendente, sin limitación de grado.
 
 ###### Artículo 8.
 
@@ -175,7 +185,9 @@ III.- Cartilla del Servicio Militar Nacional expedida por la Secretaría de la D
 
 IV.- Pasaporte vigente expedido por la Secretaría de Relaciones Exteriores; y
 
-V.- Licencia para Conducir Vehículos expedida por el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+V.- Licencia para conducir vehículos, vigente.
 
 Tratándose de extranjeros, éstos podrán identificarse con el documento migratorio vigente emitido por autoridad federal competente o el pasaporte respectivo.
 
@@ -255,9 +267,11 @@ En los casos de sustitución vehicular del transporte público, sea cual sea la 
 
 El registro de los vehículos en el Registro Vehicular Estatal se acreditará mediante los Elementos de Identificación Vehicular vigentes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 14.
 
-Cuando se lleva a cabo la desincorporación de un vehículo, el o los propietarios deberán entregar a la Secretaría las placas metálicas y tarjeta de circulación del vehículo que se desincorpora a efectos de proceder a su destrucción.
+Cuando se lleva a cabo la desincorporación de un vehículo, el o los propietarios deberán entregar a la Secretaría las placas metálicas del vehículo que se desincorpora a efectos de proceder a su destrucción.
 
 ###### Artículo 15.
 
@@ -325,9 +339,11 @@ Todo vehículo deberá circular con los elementos de identificación vehicular, 
 
 Los remolques, semirremolques, bicimotos, triciclos automotores, tetramotos, motonetas y motocicletas sólo requerirán de una placa metálica para su circulación, que se colocará en la parte posterior del mismo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 20.
 
-Los vehículos, independientemente del tipo de placas metálicas que porten, con excepción de los señalados en el último párrafo del artículo anterior, deben portar la correspondiente calcomanía de identificación, misma que será adherida en un lugar visible en los cristales del vehículo.
+Los vehículos, independientemente del tipo de placas metálicas que porten, con excepción de los señalados en el último párrafo del artículo anterior, deben portar la calcomanía de identificación correspondiente, misma que será adherida en un lugar visible en los cristales del vehículo, en caso de pérdida, robo o extravío de la calcomanía de identificación, el propietario deberá solicitar un cambio de placas.
 
 ###### Artículo 21.
 
@@ -405,7 +421,9 @@ Para realizar trámites relacionados al control vehicular, es requisito indispen
 
 La Secretaría expedirá los formatos que, en su caso, se requieran para realizar trámites de control vehicular.
 
-A efecto de identificar a las personas, así como de recabar datos relativos al domicilio de las mismas, aquellas que pretendan realizar trámites de control vehicular deberán presentar, en todos los casos, original para el cotejo y copia simple de lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+A efecto de identificar a las personas, así como de recabar datos relativos al domicilio de las mismas, aquellas que pretendan realizar trámites de control vehicular deberán presentar, en todos los casos, original.
 
 I.- Tratándose de propietarios personas físicas:
 
@@ -427,11 +445,15 @@ B) Poder notarial de quien acude a realizar el trámite, cuando no constan los p
 
 C) Identificación oficial con fotografía de quien acude a realizar el trámite;
 
-D) Cédula de Identificación Fiscal con Registro Federal de Contribuyentes de la persona moral, y de la persona que acude a realizar el trámite;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-E) Clave Única de Registro de Población de la persona que acude a realizar el trámite; y
+D) Cédula de Identificación Fiscal con Registro Federal de Contribuyentes de la persona moral.
 
-F) Comprobante de domicilio vigente de la persona moral, y de la persona que acude a realizar el trámite.
+E) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+F) Comprobante de domicilio vigente de la persona moral.
 
 ###### Artículo 27.
 
@@ -439,7 +461,9 @@ El propietario del vehículo, adicionalmente a los requisitos previstos en el ar
 
 I.- Incorporación de vehículos nuevos en el Registro Vehicular Estatal:
 
-A) El propietario deberá presentar el vehículo a la Secretaría para inspección física del mismo, así como original para cotejo del documento y copia simple, con que acredite la propiedad del vehículo, en los términos del artículo 6 de la Ley y conforme al procedimiento que establezca la Secretaría y el Reglamento;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+A) Tratándose de vehículos usados, el propietario deberá presentarlo ante la Secretaría para inspección física del mismo, así como original del documento con que acredite la propiedad del vehículo, en los términos del artículo 4 de la Ley y conforme al procedimiento que establezca la Secretaría y el Reglamento. En el caso de vehículos nuevos, el propietario podrá realizar la inspección física del mismo y bajo su responsabilidad, presentará a la Secretaría la calca o fotografía del número de serie del vehículo.
 
 B) Tratándose de vehículos nuevos cuya incorporación al Registro Vehicular Estatal la realicen directamente los fabricantes, ensambladores, distribuidores o comerciantes de autos nuevos, será de la entera responsabilidad de éstos la verificación física y documental de los vehículos y sus propietarios; y
 
@@ -447,15 +471,21 @@ C) Tratándose de vehículos nuevos importados que no hubiesen sido enajenados d
 
 II.- Incorporación de vehículos usados en el Registro Vehicular Estatal, provenientes de otras entidades federativas, así como de procedencia extranjera, previa comprobación de su legal introducción al país:
 
-A) En lo que sea conducente, además de presentar los documentos y cumplir los requisitos a que se refiere la fracción I de este artículo, el propietario deberá presentar el vehículo a la Secretaría para inspección física del mismo, así como original para cotejo de los siguientes documentos y copia simple:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-1. Juego de placas metálicas, tarjeta de circulación o documento de baja de la Entidad Federativa de que se trate, cuando sea el caso.
+A) En lo que sea conducente, además de presentar los documentos y cumplir los requisitos a que se refiere la fracción I de este artículo, el propietario deberá presentar el vehículo a la Secretaría para inspección física del mismo, así como original de los siguientes documentos:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+1. Juego de placas metálicas y documento de baja de la Entidad Federativa de que se trate, cuando sea el caso.
 
 B) Tratándose de vehículos usados importados, deberá presentarse, también, el documento que ampara la legal estancia del vehículo en territorio nacional. En estos casos, la Secretaría verificará la autenticidad del documento en los sistemas electrónicos que para tales efectos ponga a disposición del Estado el Gobierno Federal, o bien, realizará la consulta mediante oficio. No se realizará el trámite en tanto no se tenga certidumbre de la autenticidad del documento.
 
 III.- Incorporación de vehículos en el Registro Vehicular Estatal, en que se acredite la factibilidad para emisión de elementos de identificación vehicular correspondientes a personas con discapacidad:
 
-A) En lo que sea conducente, además de presentar los documentos y cumplir los requisitos a que se refieren las fracciones I y II de este artículo, el propietario deberá presentar el vehículo a la Secretaría para inspección física del mismo, así como original para cotejo y copia simple del certificado médico expedido por institución de salud pública en el que se acredite la discapacidad del propietario del vehículo, o del familiar del propietario del vehículo;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+A) En lo que sea conducente, además de presentar los documentos y cumplir los requisitos a que se refieren las fracciones I y II de este artículo, el propietario deberá presentar el vehículo a la Secretaría para inspección física del mismo, así como original del certificado médico expedido por institución de salud pública en el que se acredite la discapacidad del propietario del vehículo, o del familiar del propietario del vehículo;
 
 B) El certificado médico hará constar si la discapacidad permite a la persona física conducir un vehículo sin modificaciones, y si la misma es temporal o permanente;
 
@@ -463,11 +493,15 @@ C) Cuando la discapacidad permita conducir un vehículo con modificaciones, se p
 
 D) Solo se expedirán hasta tres juegos de elementos de identificación vehicular a las que se refiere la presente fracción por persona con discapacidad; y
 
-E) Cuando los vehículos a que se refiere la presente fracción sean objeto de adquisición por terceros, el vendedor deberá dar aviso a la Secretaría para la actualización respectiva en el Registro Vehicular Estatal y a la expedición de los elementos de identificación vehicular correspondientes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+E) Cuando los vehículos a que se refiere la presente fracción sean objeto de adquisición por terceros, el vendedor deberá realizar la desincorporación del vehículo del Registro Vehicular Estatal.
 
 IV.- Incorporación de vehículos antiguos en el Registro Vehicular Estatal:
 
-A) En lo que sea conducente, además de presentar los documentos y cumplir los requisitos a que se refieren las fracciones I y II de este artículo, el propietario deberá presentar el vehículo a la Secretaría para inspección física del mismo, así como original para cotejo y copia simple del dictamen o certificado de antigüedad emitido por el Instituto Politécnico Nacional o personas jurídicas autorizadas, para tales efectos por la Secretaría mediante reglas de carácter general.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+A) En lo que sea conducente, además de presentar los documentos y cumplir los requisitos a que se refieren las fracciones I y II de este artículo, el propietario deberá presentar el vehículo a la Secretaría para inspección física del mismo, así como el original del dictamen o certificado de antigüedad emitido por el Instituto Politécnico Nacional o personas jurídicas autorizadas, para tales efectos por la Secretaría mediante reglas de carácter general.
 
 V.- Expedición y entrega de placas metálicas para vehículos de demostración:
 
@@ -489,7 +523,9 @@ A) Cuando proceda el canje total de modelo de placas metálicas vigente en térm
 
 1. Juego de placas metálicas anteriores al canje, mismas que serán entregadas a la Secretaría para su destrucción.
 
-B) Cuando se realice el canje total de placas, no se requerirá la presentación de copias simples, salvo tratándose de personas jurídicas o morales, en cuyo caso deberán presentar original y copia simple del poder notarial e identificación oficial del representante legal que acude a realizar el trámite;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+B) Cuando se realice el canje total de placas, no se requerirá la presentación de copias simples, y tratándose de personas jurídicas o morales, deberán presentar original del poder notarial e identificación oficial del representante legal que acude a realizar el trámite;
 
 C) Cuando el canje de placas metálicas obedezca al robo o extravío de una o ambas placas, adicionalmente se estará a lo dispuesto en el artículo 30 de la Ley. En estos casos, así como en los casos en que el particular solicite el canje, se procederá primero a la desincorporación del vehículo de que se trate, para posteriormente volverlo a incorporar al Registro Vehicular Estatal; y
 
@@ -513,17 +549,23 @@ A) Las personas físicas y morales que soliciten la reposición de tarjeta de ci
 
 IX.- Actualización de datos al Registro Vehicular Estatal por cambio de propietario, domicilio, o características del vehículo:
 
-A) Cuando una persona física o moral adquiera la propiedad de un vehículo de otra persona, el adquirente deberá dar aviso a la Secretaría mediante el formato que al efecto ésta emita, dentro del plazo de los 15 días hábiles siguientes a la fecha de la transmisión;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-B) El aviso señalará, en forma precisa, nombre y domicilio para oír y recibir notificaciones tanto de quien transmite la propiedad, como de quien adquiere la misma. En su caso, deberá señalar en forma precisa, nombre y domicilio para oír y recibir notificaciones del representante legal que corresponda;
+A) Cuando una persona física o moral adquiera la propiedad de un vehículo, el adquirente deberá realizar el cambio de propietario ante la Secretaría, dentro del plazo de los 15 días hábiles siguientes a la fecha de la transmisión;
 
-C) Asimismo, el aviso deberá acompañarse de original para cotejo del documento y copia simple que acredite la propiedad del vehículo, en los términos del artículo 6 del presente ordenamiento jurídico;
+B) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
-D) Quienes transmiten la propiedad de un vehículo son responsables solidarios en el cumplimiento de las disposiciones contenidas en la presente fracción, siempre que la persona que transmite la propiedad no realice el trámite a que se refiere la fracción VII del presente artículo o bien haya efectuado el aviso correspondiente a la Secretaría dentro del plazo de 5 días hábiles;
+C) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+D) Quienes transmiten la propiedad de un vehículo son responsables solidarios en el cumplimiento de las disposiciones contenidas en la presente fracción, siempre que la persona que transmite la propiedad no realice el tramite a que se refiere la fracción VII del presente artículo.
 
 E) Los propietarios de vehículos que cambien de domicilio deberán notificar de tal situación a la Secretaría, en el formato que para tales efectos emita esta última, en el plazo de 15 días hábiles siguientes a que realice dicho movimiento, y presentarán original para cotejo y copia simple del nuevo comprobante de domicilio; y
 
-F) Cuando el propietario de un vehículo realice cambio de motor o a las características contenidas en el Registro Vehicular Estatal, deberá notificar de tal situación a la Secretaría, en el formato que para tales efectos emita esta última, en el plazo de 15 días hábiles siguientes a que realice dicho cambio, y presentarán original para cotejo y copia simple del documento que acredite el pago de las modificaciones efectuadas, o la adquisición de los insumos para realizar dichas modificaciones.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+F) Cuando el propietario de un vehículo realice cambio de motor o a (sic) las características contenidas en el Registro Vehicular Estatal, deberá notificar de tal situación a la Secretaría, en el formato que para tales efectos emita esta última, en el plazo de 15 días hábiles siguientes a que realice dicho cambio, y presentarán original del documento que acredite el pago de las modificaciones efectuadas, o la adquisición de los insumos para realizar dichas modificaciones.
 
 ###### Artículo 28.
 
@@ -696,3 +738,17 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 80 POR EL QUE SE MODIFICAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE HIDALGO, DE LA LEY DE HACIENDA DEL ESTADO DE HIDALGO, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO, DE LA LEY DE DERECHOS DEL ESTADO DE HIDALGO, DEL CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO, Y DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO”.]
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor una vez que las disposiciones reglamentarias y administrativas que permitan el cabal cumplimiento de la presente Ley, hayan sido publicadas en el Periódico Oficial del Estado, para lo cual la Secretaría de Finanzas y Administración, implementará los cambios, procesos y definiciones de carácter normativo, técnico y administrativo necesarios para tales efectos.
+
+## TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2017, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
