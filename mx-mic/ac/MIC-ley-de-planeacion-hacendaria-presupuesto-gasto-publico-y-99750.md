@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-planeacion-hacendaria-presupuesto-gasto-publico-y-99750"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-20"
-last_updated: "2016-08-23"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MIC"
 ---
 # LEY DE PLANEACION HACENDARIA, PRESUPUESTO, GASTO PUBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO DE REFORMAS NÚMERO 166 PUBLICADO EN EL P.O. 5 DE AGOSTO DE 2016, VÉASE TRANSITORIO SEXTO, CON LAS SALVEDADES PREVISTAS EN LOS TRANSITORIOS SÉPTIMO AL DÉCIMO TERCERO DE DICHO DECRETO.]</small>
-
 LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 20 de marzo de 2014.
 
@@ -549,13 +547,9 @@ XVII. La demás información que contribuya a la comprensión de los proyectos a
 
 XVIII. Toda información que se considere útil para presentar la propuesta en forma clara y completa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
-
 ###### ARTÍCULO 21.
 
-El Ejecutivo del Estado, deberá considerar en el Proyecto de presupuesto correspondiente, una asignación equivalente al 2 por ciento de los ingresos estimados de libre disposición para el ejercicio fiscal de que se trate, en una unidad programática especial, con el objeto de que dicha asignación, se destine para la amortización de las diferencias que resulten entre los ingresos estimados y los devengados de cada mes, esta unidad programática, estará a cargo de la Secretaría.
-
-El monto de la asignación a que se refiere el párrafo anterior, trimestralmente se reducirá de manera proporcional al monto original anualizado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 > <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
@@ -679,13 +673,9 @@ XIV. Toda información que se considere útil para presentar la propuesta en for
 
 XV. Las previsiones de egresos se clasificarán separadamente por unidad programática especial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2016)</small>
-
 ###### ARTÍCULO 31.
 
-El Ayuntamiento, deberá considerar en el Presupuesto, una asignación equivalente al 2 por ciento de los ingresos estimados de libre disposición para el ejercicio fiscal de que se trate, en una unidad programática especial, con el objeto de que dicha asignación, se destine para la amortización de las diferencias que resulten entre los ingresos estimados y los devengados de cada mes, esta unidad programática, estará a cargo de la Tesorería Municipal.
-
-El monto de la asignación a que se refiere el párrafo anterior, trimestralmente se reducirá de manera proporcional al monto original anualizado.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO DÉCIMO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
@@ -747,11 +737,13 @@ IV. Dentro de los capítulos de gasto de inversión, los titulares de las unidad
 
 Así mismo los Organismos Descentralizados, Autónomos y los Poderes Legislativo y Judicial, previa autorización de sus órganos administrativos competentes, podrán realizar adecuaciones presupuestales compensadas ajustándose a los techos financieros autorizados en su presupuesto, observando lo establecido en las fracciones de este artículo.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 37.
 
-El Gobierno del Estado, por conducto de la Secretaría, deberá realizar adecuaciones presupuestales para registrar las variaciones mensuales que resulten en los ingresos estimados respecto de los reales devengados, conforme lo establece el artículo 10 y afectando a la Unidad Programática Presupuestaria que alude el artículo 21 de la presente Ley.
+El Gobierno del Estado, por conducto de la Secretaría, deberá realizar adecuaciones presupuestales para registrar las variaciones mensuales que resulten en los ingresos estimados respecto de los reales devengados, conforme lo establece el artículo 10.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 Los ingresos excedentes derivados de Ingresos de libre disposición, se podrán destinar a los siguientes conceptos:
 
@@ -763,7 +755,11 @@ A) Inversión pública productiva, a través de un fondo que se constituya para 
 
 B) La creación de un fondo cuyo objetivo sea compensar la caída de Ingresos de libre disposición de ejercicios subsecuentes.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 Los Ingresos excedentes derivados de Ingresos de Libre Disposición podrán destinarse a los rubros mencionados en el párrafo que antecede, sin limitación alguna, siempre y cuando el Gobierno del Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas a que se refieren la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y la Ley de Deuda Pública para el Estado de Michoacán de Ocampo y sus Municipios.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Ley de Ingresos, el Ejecutivo del Estado, por conducto de la Secretaría, a efecto de cumplir con el principio de sostenibilidad del Balance presupuestario y del Balance presupuestario de recursos disponibles, deberá aplicar ajustes al Presupuesto de Egresos en los rubros de gasto en el siguiente orden:
 
@@ -773,7 +769,11 @@ II. Gasto corriente que no constituya un subsidio entregado directamente a la po
 
 III. Gasto en servicios personales, prioritariamente las erogaciones por concepto de Percepciones extraordinarias.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+
 En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto, siempre y cuando se procure no afectar los programas sociales.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 Las adecuaciones presupuestales serán independientes de las que se tengan que realizar por concepto de participaciones y aportaciones federales que correspondan a los municipios, en los términos de las disposiciones aplicables y las que se deriven de ingresos destinados a un fin específico.
 
@@ -953,11 +953,13 @@ IV. Dentro del capítulo de gasto de inversión; los titulares de las Unidades P
 
 Así mismo los organismos municipales descentralizados previa autorización de sus órganos administrativos competentes, podrán realizar adecuaciones presupuestales compensadas ajustándose a los techos financieros autorizados en su presupuesto, observando lo establecido en las fracciones de este artículo.
 
-> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 52.
 
-Los Municipios, por conducto de la Tesorería Municipal, deberán realizar adecuaciones presupuestales para registrar las variaciones mensuales que resulten en los ingresos estimados respecto de los reales devengados, conforme lo establece el artículo 10, afectando a la Unidad Programática Presupuestaria que alude el artículo 31 de la presente Ley.
+Los Municipios, por conducto de la Tesorería Municipal, deberán realizar adecuaciones presupuestales para registrar las variaciones mensuales que resulten en los ingresos estimados respecto de los reales devengados, conforme lo establece el artículo 10.
+
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2016)</small>
 
 En lo referente a los ingresos excedentes derivados de Ingresos de libre disposición y cuando los ingresos se vean disminuidos respecto de los previstos en la Ley de Ingresos Municipal, se estará a lo dispuesto por el artículo 37 párrafos segundo, tercero y cuarto de esta Ley.
 
@@ -1542,3 +1544,17 @@ Tercero. Se derogan todas las disposiciones que se opongan al presente Decreto.
 Cuarto. Los reglamentos, manuales y demás disposiciones administrativas que en materia presupuestaria emite el Ejecutivo del Estado, deberán estar acordes a lo dispuesto por el presente Decreto, a efecto de que estén considerados en el proyecto de Presupuesto de Egresos del Gobierno del Estado.
 
 Quinto. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado y al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, para su conocimiento y efectos legales conducentes.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 335 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 37 PRIMER PÁRRAFO; 52 PRIMER PÁRRAFO; Y SE DEROGAN LOS ARTÍCULOS 21 Y 31 DE LA LEY DE PLANEACIÓN HACENDARIA, PRESUPUESTO, GASTO PÚBLICO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 1° de enero del año 2017, previa su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los reglamentos, manuales y demás disposiciones administrativas que en materia presupuestario (sic) emita el Ejecutivo del Estado, deberán de adecuarse a lo dispuesto en el Presente Decreto, a efecto de estar considerados en el Proyecto de Presupuesto de Egresos.
+
+CUARTO. Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado, al Titular de la Secretaría de Finanzas y Administración del Gobierno del Estado, y al Titular de la Auditoría Superior de Michoacán, para su conocimiento y efectos legales conducentes.
+
+QUINTO. El porcentaje a que hace (sic) referencia los artículos derogados 21 y 31, relativo a los adeudos del ejercicio fiscal, de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, será del cinco por ciento para el ejercicio 2017, cuatro por ciento para el 2018, tres por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en la citada Ley.
