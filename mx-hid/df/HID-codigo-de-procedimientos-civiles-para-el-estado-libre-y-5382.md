@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-procedimientos-civiles-para-el-estado-libre-y-5382"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-12-01"
-last_updated: "2016-07-11"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5382&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 11 DE JULIO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Código publicado en el Apéndice del Periódico Oficial del Estado de Hidalgo, el 1 de diciembre de 1940.
 
@@ -391,11 +389,13 @@ El acuerdo será reservado.
 
 Los Secretarios, los Jueces y Magistrados a quienes corresponda, recibirán por sí mismos, las declaraciones y presidirán todos los actos de prueba, bajo su responsabilidad.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 61.
 
-Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, corrigiendo en el acto las faltas que se cometieren, con apercibimiento, amonestación o multa de hasta veinte días de salario mínimo vigente. Pueden también emplear el uso de la fuerza pública o decretar arresto hasta por 36 horas. Si las conductas se estiman constitutivas de delito se levantará acta circunstanciada y se dará vista al Ministerio Público para lo que legalmente proceda.
+Los Jueces y Magistrados tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y consideración debidos, corrigiendo en el acto las faltas que se cometieren, con apercibimiento, amonestación o multa de hasta veinte veces la Unidad de Medida y Actualización vigente; Pueden también emplear el uso de la fuerza pública o decretar arresto hasta por 36 horas. Si las conductas se estiman constitutivas de delito se levantará acta circunstanciada y se dará vista al Ministerio Público para lo que legalmente proceda.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
 La multa y el arresto a que se refiere el párrafo anterior se aplicarán a la parte responsable y a su asesor, si hubiere éste autorizado con su firma el ocurso, y la primera podrá duplicarse en caso de reiteración. Por salario mínimo se entenderá el general vigente en el área geográfica en que se impongan las multas reguladas en este Código.
 
@@ -421,11 +421,11 @@ Las copias simples de los documentos que se presenten, confrontadas y autorizada
 
 Los interesados pueden presentar una copia simple de sus escritos, a fin de que se les devuelva con la anotación de la fecha y hora de presentación, sellada y firmada por el empleado que la reciba en el tribunal.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 66.
 
-El Secretario o el encargado de la Oficialía de partes harán constar el día y la hora en que se presente un escrito. Recibido por el Secretario dará cuenta con él, a más tardar dentro de veinticuatro horas bajo la pena de hasta tres días de salario mínimo de multa, sin perjuicio de las demás que merezca conforme a las leyes.
+El Secretario o el encargado de la Oficialía de partes harán constar el día y la hora en que se presente un escrito. Recibido por el Secretario dará cuenta con él, a más tardar dentro de veinticuatro horas bajo la pena de hasta tres veces la Unidad de Medida y Actualización vigente, sin perjuicio de las demás que merezca conforme a las leyes.
 
 ###### Artículo 67.
 
@@ -471,9 +471,9 @@ Los incidentes ajenos al negocio principal deberán ser repelidos de oficio por 
 
 Los jueces, para hacer cumplir sus determinaciones, pueden emplear cualesquiera de los siguientes medios de apremio que juzguen eficaces:
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-I.- La multa de hasta diez días de salario mínimo vigente, que se duplicará en caso de reiteración;
+I.- La multa de hasta diez veces la Unidad de Medida y Actualización vigente, que se duplicará en caso de reiteración;
 
 II.- El auxilio de la fuerza pública;
 
@@ -895,7 +895,9 @@ Deben firmar las notificaciones las personas que las hacen y aquéllas a quienes
 
 Diariamente, antes de las doce horas, el Actuario del Juzgado o Tribunal deberá fijar en lugar visible de las oficinas mencionadas, o incorporar al sistema computarizado de notificación, la lista de notificación firmada por él.
 
-En el Tribunal y en los Juzgados, los Actuarios harán constar en los autos respectivos las fechas de publicación de las resoluciones en la lista, o incorporación al sistema computarizado de notificación, bajo la pena de un día de salario mínimo de multa por la primera falta, de cinco días por la segunda, de suspensión de empleo hasta de tres meses por la tercera y de cese del cargo por la cuarta; sin perjuicio de indemnizar debidamente a la persona que resulta perjudicada por la omisión en todos los casos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+En el Tribunal y en los Juzgados, los Actuarios harán constar en los autos respectivos las fechas de publicación de las resoluciones en la lista, o incorporación al sistema computarizado de notificación, bajo la pena del equivalente al valor diario de la Unidad de Medida y Actualización vigente de multa por la primera falta, de cinco veces dicha Unidad, por la segunda, de suspensión de empleo hasta de tres meses por la tercera y de cese del cargo por la cuarta; sin perjuicio de indemnizar debidamente a la persona que resulta perjudicada por la omisión en todos los casos.
 
 ###### Artículo 126.
 
@@ -1773,11 +1775,11 @@ Si entre las excepciones opuestas hubiere de previo y especial pronunciamiento, 
 
 La declinatoria de jurisdicción se propondrá ante el Juez pidiéndole que se abstenga del conocimiento del negocio. El Juez remitirá desde luego los autos a su inmediato superior, emplazando a los interesados para que en un término de diez días comparezcan ante éste, el cual en una audiencia en que se reciban las pruebas y alegatos de las partes y del Ministerio Público, resolverá la cuestión y mandará sin retardo los autos al Juez que estime competente, quien debe hacerlo saber a los litigantes. En este caso la demanda y la contestación se tendrán como presentadas ante éste.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 261.
 
-El Juez o Tribunal que de las actuaciones de la incompetencia deduzca que se interpuso sin razón y con el claro propósito de alargar o entorpecer el juicio, impondrá una multa a la parte promovente, que no excederá del equivalente a cien días de salario mínimo vigente en el lugar en que se desahogue el procedimiento, según la importancia del litigio y además pagará las costas causadas.
+El Juez o tribunal que de las actuaciones de la incompetencia deduzca que se interpuso sin razón y con el claro propósito de alargar o entorpecer el juicio, impondrá una multa a la parte promovente, que no excederá del equivalente a cien veces la Unidad de Medida y Actualización vigente, según la importancia del litigio y además pagará las costas causadas.
 
 ###### Artículo 262.
 
@@ -2025,11 +2027,11 @@ II.- Que se indiquen los nombres y domicilios de los testigos que hayan de ser e
 
 III.- Que se designe, en caso de ser prueba instrumental, los archivos públicos o particulares donde se hallen los documentos que hayan de presentarse, inspeccionarse o cotejarse.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 299.
 
-El Juez al calificar la admisibilidad de las pruebas resolverá sobre el término mencionado en el artículo anterior y determinará el monto del depósito que el promovente debe hacer y que se hará efectivo en calidad de multa que no será menor de diez ni excederá de cincuenta días de salario mínimo vigente, en caso de no rendirse la prueba. Sin este depósito no surtirá efectos el término concedido.
+El Juez al calificar la admisibilidad de las pruebas resolverá sobre el término mencionado en el artículo anterior y determinará el monto del depósito que el promovente debe hacer y que se hará efectivo en calidad de multa que no será menor de diez ni excederá de cincuenta veces la Unidad de Medida y Actualización vigente, en caso de no rendirse la prueba. Sin este depósito no surtirá efectos el término concedido.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
 
@@ -2305,9 +2307,9 @@ El Juez señalará lugar, día y hora para que la diligencia se practique, si de
 
 En el caso de la primera parte del artículo anterior concurrirá el tercero en discordia y se observarán las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-I.- El perito que dejare de concurrir sin justa causa, calificada por el tribunal, incurrirá en una multa de hasta veinte días de salario mínimo vigente y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el artículo 344;
+I.- El perito que dejare de concurrir sin justa causa, calificada por el tribunal, incurrirá en una multa de hasta veinte veces la Unidad de Medida y Actualización vigente, y será responsable de los daños causados por su culpa, sin perjuicio de lo que previene el artículo 344;
 
 II.- Los peritos practicarán unidos la diligencia, pudiendo concurrir los interesados al acto y hacerles cuantas observaciones quieran, pero deberán retirarse para que los peritos discutan y deliberen solos;
 
@@ -2325,11 +2327,11 @@ III.- Ser socio, inquilino, arrendador o amigo íntimo de alguna de las partes.
 
 El Juez calificará de plano la recusación y las partes deben presentar las pruebas al hacerla valer. Contra el auto en que se admita o deseche la recusación no procede recurso alguno. Admitida se nombrará nuevo perito en los mismos términos que al recusado.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 348.
 
-En caso de ser desechada la recusación se impondrá al causante una multa que no excederá de veinte días de salario mínimo vigente.
+En caso de ser desechada la recusación se impondrá al causante una multa que no excederá de veinte veces la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 349.
 
@@ -2767,9 +2769,9 @@ Hay cosa juzgada cuando la sentencia causa ejecutoria.
 
 Causan ejecutoria por ministerio de la ley:
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-I.- Las sentencias pronunciadas en juicio cuyo interés no pase de cien días de salario mínimo vigente;
+I.- Las sentencias pronunciadas en juicio cuyo interés no pase de cien veces la Unidad de Medida y Actualización vigente;
 
 II.- Las sentencias de segunda instancia;
 
@@ -4571,11 +4573,11 @@ Se da el recurso de queja en contra de los Actuarios y Secretarios por ante el J
 
 El recurso de queja contra el Juez se interpondrá ante el Superior inmediato, dentro de las veinticuatro horas que sigan a la notificación de la resolución reclamada, haciéndolo sober (sic) dentro del mismo tiempo al Juez contra quien va el recurso, acompañándole copia. Dentro del tercero día de que tenga conocimiento el Juez de los autos, remitirá al Superior informe con justificación. El Superior dentro del tercero día decidirá lo que corresponda.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 714.
 
-Si la queja no está apoyada en hecho cierto o no estuviere fundada en derecho, o hubiere recurso ordinario contra la resolución reclamada, será desechada por el Tribunal, imponiendo a la parte quejosa y a su abogado solidariamente, una multa hasta de diez días de salario mínimo vigente.
+Si la queja no está apoyada en hecho cierto o no estuviere fundada en derecho, o hubiere recurso ordinario contra la resolución reclamada, será desechada por el Tribunal, imponiendo a la parte quejosa y a su abogado solidariamente, una multa hasta de diez veces la Unidad de Medida y Actualización vigente;
 
 ###### Artículo 715.
 
@@ -6618,3 +6620,13 @@ P.O. 27 DE JUNIO DE 2016.
 > <small>(F. DE E., P.O. 11 DE JULIO DE 2016)</small>
 
 ÚNICO.- El presente decreto entrará en vigor a los quince días siguientes al de su publicación, en tal razón, las reformas objeto del mismo serán aplicables tanto a los juicios que se encuentran en trámite, como a los que se inicien a partir de su entrada en vigor.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
