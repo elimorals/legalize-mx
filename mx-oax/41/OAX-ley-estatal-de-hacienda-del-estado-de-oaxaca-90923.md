@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2016-11-12"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -69,11 +71,19 @@ VI. Obligaciones específicas de cada contribución: A los deberes a cargo de lo
 
 VII. Pago: Al elemento temporal en que se deben cubrir las contribuciones;
 
-VIII. Salario: Al salario mínimo general vigente en el Estado;
+VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
-IX. Secretaría: A la Secretaría de Finanzas del Poder Ejecutivo del Estado, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-X. Tasa o Tarifa: Al porcentaje que se aplica a la base para determinar el monto de la contribución.
+IX. Secretaría: Secretaría de Finanzas del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X. Tasa o Tarifa: Porcentaje que se aplica a la base para determinar el monto de la contribución, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI. Unidad de Medida y Actualización (UMA): Unidad de cuenta, índice, base, medida o referencia establecida por el Instituto Nacional de Estadística y Geografía, en términos de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, y la ley reglamentaria de la materia.
 
 ###### ARTÍCULO 3.
 
@@ -143,11 +153,17 @@ III. Retener y enterar el impuesto retenido mediante declaración dentro (sic) l
 
 IV. Proporcionar, cuando lo solicite el interesado, constancia de retención de dicho impuesto.
 
-Ante el incumplimiento de cualquiera de las obligaciones previstas en las fracciones anteriores el sujeto obligado se hará acreedor a una multa por el equivalente de 50 a 100 veces el Salario Mínimo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Ante el incumplimiento de cualquiera de las obligaciones previstas en las fracciones anteriores el sujeto obligado se hará acreedor a una multa por el equivalente de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
 
 Cuando los sujetos obligados no garanticen el interés fiscal de conformidad con lo dispuesto por el inciso b) fracción I del presente artículo, la autoridad fiscal podrá suspender la organización o evento, hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor designado podrá solicitar el auxilio de la fuerza pública.
 
 Los servidores públicos estatales o municipales, al otorgar permisos para la realización de rifas, loterías, sorteos y/o concursos, deberán dar aviso a la Secretaría o a sus Delegaciones o Subdelegaciones Fiscales, de las autorizaciones que otorguen a más tardar al día siguiente de su emisión.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+La Secretaría será competente para intervenir durante el desarrollo de la rifa, lotería, sorteo o concurso atendiendo a las formalidades señaladas en el Código.
 
 ###### ARTÍCULO 9.
 
@@ -157,7 +173,7 @@ I. Los ingresos obtenidos por la enajenación de billetes y demás comprobantes 
 
 II. Los ingresos obtenidos por premios con motivo de concursos científicos, académicos, artísticos o literarios.
 
-La Secretaría estará facultada para intervenir durante el desarrollo de la rifa, lotería, sorteo o concurso atendiendo a las formalidades señaladas en el Código.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ### CAPÍTULO SEGUNDO. SOBRE DIVERSIONES Y ESPECTÁCULOS PÚBLICOS
 
@@ -201,15 +217,21 @@ II. Garantizar el interés fiscal que ampare el 4 por ciento del valor total del
 
 III. Presentar el aviso correspondiente en los casos de ampliación o suspensión del periodo de realización de la diversión o espectáculo, ante la Secretaría o en la Delegación o Subdelegación Fiscal que corresponda a su domicilio fiscal en el Estado, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar o suspender.
 
-Ante el incumplimiento de cualquiera de las obligaciones previstas en las fracciones anteriores el sujeto obligado se hará acreedor a una multa por el equivalente de 50 a 100 veces el Salario.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Ante el incumplimiento de cualquiera de las obligaciones previstas en las fracciones anteriores el sujeto obligado se hará acreedor a una multa por el equivalente de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 16.
 
-Las personas físicas, morales o unidades económicas que realicen actividades de venta de boletos de diversiones o espectáculos deberán verificar previo a la venta de los boletos, se haya presentado el aviso a que se refiere la fracción I del artículo 15; en caso contrario, se harán acreedores a una multa por el equivalente de 50 a 100 veces el Salario.
+Las personas físicas, morales o unidades económicas que realicen actividades de venta de boletos de diversiones o espectáculos deberán verificar previo a la venta de los boletos, se haya presentado el aviso a que refiere la fracción I del artículo 15 de la presente Ley; en caso contrario, se harán acreedores a una multa por el equivalente de cincuenta a cien veces el valor de la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 17.
 
-Cuando los sujetos de este impuesto, obligados a garantizar el interés fiscal de acuerdo con lo dispuesto en el artículo 15 fracción II, no hubieren cumplido tal obligación, la autoridad fiscal podrá suspender la diversión o espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor designado podrá solicitar el auxilio de la fuerza pública.
+Cuando los sujetos de este impuesto, obligados a garantizar el interés fiscal de acuerdo con lo dispuesto en el artículo 15 fracción II de la presente Ley, no hubieren cumplido tal obligación, la autoridad fiscal podrá suspender la diversión o espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor designado podrá solicitar el auxilio de la fuerza pública.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -421,7 +443,9 @@ Para los efectos de este Capítulo se considera como:
 
 I. Año Modelo: Al año de fabricación o ejercicio automotriz;
 
-II. Automóviles: A los autos, camionetas, minibuses, microbuses, camiones, autobuses integrales, ómnibuses, motocicletas, así como, tractores no agrícolas tipo quinta rueda;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II. Automóviles: A los autos, camionetas, minibuses, microbuses, camiones, motocarros, autobuses integrales, omnibuses, así como, tractores no agrícolas tipo quinta rueda;
 
 III. Comerciantes en el ramo de vehículos: A las personas físicas, morales y unidades económicas cuya actividad sea la importación y venta de vehículos nuevos o usados con registro ante la Secretaría de Economía;
 
@@ -461,7 +485,9 @@ XI. Valor total del vehículo: Al precio de enajenación del fabricante, ensambl
 
 En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo;
 
-XII. Vehículos: A los autos, camionetas, minibuses, microbuses, camiones, autobuses integrales, ómnibuses, así como, tractores no agrícolas tipo quinta rueda, motocicletas, embarcaciones, veleros, esquís acuáticos motorizados, acuáticas, tablas de oleaje con motor, aeronaves hélice, turbohélice, reacción y helicópteros;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII. Vehículos: A los autos, camionetas, minibuses, microbuses, camiones, autobuses integrales, omnibuses, así como, tractores no agrícolas tipo quinta rueda, motocicletas, motocarros, embarcaciones, veleros, esquís acuáticos motorizados, acuáticas, tablas de oleaje con motor, aeronaves hélice, turbohélice, reacción y helicópteros;
 
 XIII. Vehículo nuevo:
 
@@ -841,9 +867,13 @@ Para los efectos de la depreciación a que se refiere esta fracción, los años 
 
 Los Vehículos de diez o más años modelo anterior, se sujetaran a lo siguiente:
 
-I. Automóviles destinados al transporte de hasta quince pasajeros y motocicletas, el impuesto se determinará atendiendo al cilindraje del motor, conforme a lo siguiente:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Cilindraje mínimo Número de Salarios Mínimos
+I. Automóviles destinados al transporte de hasta quince pasajeros o carga, el impuesto se determinará atendiendo al cilindraje del motor, conforme a lo siguiente:
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cilindraje mínimo Número de Unidad de Medida y Actualización
 
 1 o 2 1.50
 
@@ -857,7 +887,9 @@ Más de 8 3.50
 
 II. Automóviles destinados al transporte demás (sic) de quince pasajeros o carga, el impuesto a pagar se determinará atendiendo lo siguiente:
 
-Clasificación Número de Salarios Mínimos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Clasificación Número de Unidad de Medida y Actualización
 
 Camionetas tipo pick up,
 
@@ -871,7 +903,9 @@ Otros: 6.00
 
 III. Embarcaciones, veleros, esquís acuáticos motorizados, motocicleta acuática y tablas de oleaje con motor, el impuesto será el que resulte de aplicar la siguiente tarifa:
 
-Vehículos Número de Salarios Mínimos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Vehículos Número de Unidad de Medida y Actualización
 
 Embarcaciones: 7.00
 
@@ -885,7 +919,9 @@ Tabla de oleaje con motor: 2.00
 
 IV. Aeronaves tipo: hélice, turbohélice, reacción, pistón y helicópteros, cuyo modelo tenga de diez o más años de antigüedad al ejercicio fiscal en curso, pagarán aplicando la tarifa que a continuación se señala:
 
-Aeronaves: Números de Salarios Mínimos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Aeronaves: Número de Unidad de Medida y Actualización
 
 Pistón y Hélice: 45.00
 
@@ -987,7 +1023,9 @@ Cuando el documento que acredite la legítima propiedad del vehículo no especif
 
 Este impuesto se calculará aplicando a la base, la tasa del 0.6 por ciento.
 
-En ningún caso el impuesto a pagar será inferior a 3.0 Salarios.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+En ningún caso el impuesto a pagar será inferior a 3.0 al valor de la Unidad de Medida y Actualización vigente.
 
 Cuando se pague el impuesto a que se refiere el presente capítulo dentro de los quince días hábiles siguientes a aquel en que se realice la operación objeto del presente impuesto, se aplicará a la base la tasa del 0.0 por ciento.
 
@@ -1428,3 +1466,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno 
 SEGUNDO.- El Presente Decreto entrará en vigor a partir del primero de enero de dos mil diecisiete.
 
 TERCERO.- El Presente Decreto deroga todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o lo contradigan.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 14.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA; SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil diecisiete, previa publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
