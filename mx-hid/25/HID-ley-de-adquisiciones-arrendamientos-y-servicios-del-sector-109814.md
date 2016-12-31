@@ -4,7 +4,7 @@ identifier: "HID-ley-de-adquisiciones-arrendamientos-y-servicios-del-sector-1098
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-14"
-last_updated: "2015-09-14"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 14 de septiembre de 2015.
 
@@ -521,9 +521,11 @@ La o las juntas de aclaraciones, el acto de presentación y apertura de proposic
 
 III. Mixta, en la cual los licitantes, a su elección, podrán participar en forma presencial o electrónica en la o las juntas de aclaraciones, el acto de presentación y apertura de proposiciones y el acto de fallo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 35.
 
-En las licitaciones públicas, cuyo monto rebase el equivalente a trescientos mil días de salario mínimo general vigente en el Estado de Hidalgo y en aquellos casos que determine la Contraloría, atendiendo al impacto que la contratación tenga en los programas sustantivos de los convocantes, participarán un máximo de tres testigos sociales.
+En las licitaciones públicas, cuyo monto rebase el equivalente a trescientos mil veces la Unidad de Medida y Actualización vigente, y en aquellos casos que determine la Contraloría, atendiendo al impacto que la contratación tenga en los programas sustantivos de los convocantes, participarán un máximo de tres testigos sociales.
 
 En caso de que el testigo social detecte irregularidades en los procedimientos de contratación, deberá remitir su testimonio a la Contraloría o al Órgano Interno de Control del convocante.
 
@@ -1141,9 +1143,11 @@ El resultado de las comprobaciones, se hará constar en un dictamen que será fi
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 81.
 
-Los licitantes o proveedores que infrinjan las disposiciones de esta Ley, serán sancionados por la Contraloría o el Órgano Interno de Control, con multa equivalente a la cantidad de cincuenta hasta mil veces el salario mínimo general vigente en el Estado elevado al mes, en la fecha de la infracción.
+Los licitantes o proveedores que infrinjan las disposiciones de esta Ley, serán sancionados por la Contraloría o el Órgano Interno de Control, con multa equivalente a la cantidad de cincuenta hasta mil veces la Unidad de Medida y Actualización vigente, elevado al mes, en la fecha de la infracción.
 
 Cuando los proveedores injustificadamente y por causas imputables a los mismos, no formalicen contratos, serán sancionados con multa equivalente al treinta por ciento del valor total del contrato.
 
@@ -1450,3 +1454,15 @@ PRESIDENTE, DIP. ISMAEL GADOTH TAPIA BENITEZ, RÚBRICA; SECRETARIO, DIP. ROSALÍ
 EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS NUEVE DÍAS DEL MES DE JULIO DEL AÑO DOS MIL QUINCE. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO.".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
