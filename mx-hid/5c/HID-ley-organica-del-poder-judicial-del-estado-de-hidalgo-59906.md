@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-judicial-del-estado-de-hidalgo-59906"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-01-07"
-last_updated: "2014-12-29"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59906&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, CON EXCEPCIÓN DE LO DISPUESTO EN EL TÍTULO CUARTO RELATIVO AL TRIBUNAL ELECTORAL QUE COMPRENDE LOS ARTÍCULOS 96 AL 117 DE ESTA LEY, CONTINUARÁ EN VIGOR, HASTA EN TANTO SE EXPIDA LA LEGISLACIÓN QUE LO REGULE.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 10 DE NOVIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2014 (ABROGADA).
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Número 1 Bis del Periódico Oficial del Estado de Hidalgo, el lunes 7 de enero de 2008.
 
@@ -503,7 +501,7 @@ III.- Conocer de los demás asuntos que les encomienden las Leyes y demás orden
 
 Las salas Especializadas en Justicia para Adolescentes, conocerán, además de los conflictos de competencia que se susciten entre los jueces para adolescentes y entre uno de éstos y un Juez Penal.
 
-A Las (sic) Salas en Materia Penal les corresponde resolver la autorización de cambio de radicación de los procesos penales, conforme a lo dispuesto en el Código Procesal Penal.
+A Las Salas en Materia Penal les corresponde resolver la autorización de cambio de radicación de los procesos penales, conforme a lo dispuesto en el Código Procesal Penal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA DE LA LEY.</small>
 
@@ -1083,11 +1081,17 @@ VIII.- Las demás atribuciones que esta Ley y otras disposiciones le asignen.
 
 ARTÍCULO 56 L.- Los juzgados Mixtos serán competentes para conocer de todos los asuntos mencionados en los Artículos 56, 56-A, 56-B Y 56-D.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### ARTÍCULO 56-M.
+
+Los juzgados de Cuantía Menor podrán ser mixtos o especializados. En materia penal, tendrán la competencia que les fije el Código de Procedimientos Penales para el Estado de Hidalgo. En las materias civil y mercantil conocerán de todos los asuntos mencionados en los Artículos 56 y 56-A cuando la cuantía de aquéllos no exceda del importe de trescientas veces la Unidad de Medida y Actualización vigente al tiempo de la interposición de la demanda o del escrito que le dé comienzo al procedimiento respectivo.
+
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-ARTÍCULO 56 M.- Los juzgados de Cuantía Menor podrán ser mixtos o especializados. En materia penal, tendrán la competencia que les fije el Código de Procedimientos Penales para el Estado de Hidalgo. En las materias civil y mercantil conocerán de todos los asuntos mencionados en los Artículos 56 y 56-A cuando la cuantía de aquéllos no exceda del importe de trescientos días de salario mínimo general vigente en el estado al tiempo de la interposición de la demanda o del escrito que le dé comienzo al procedimiento respectivo.
-
 Carecen de competencia para conocer de asuntos del orden familiar o de justicia especializada para adolescentes, así como para los asuntos competencia de los jueces penales de control, de juicio oral y de ejecución.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
 En los distritos judiciales en donde no exista Juzgado de Cuantía Menor, los jueces que conozcan de lo civil o de lo penal, según sea el caso, serán competentes para conocer de lo anteriormente mencionado en este Artículo.
 
@@ -2783,7 +2787,7 @@ El ingreso y promoción para las categorías de la Carrera Judicial se realizar�
 
 > <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2009)</small>
 
-Con la excepción prevista por el Artículo 100 Ter fracción tercera de la Constitución Política del Estado de Hidalgo y conforme a Las (sic) previstas en el Reglamento de la presente Ley.
+Con la excepción prevista por el Artículo 100 Ter fracción tercera de la Constitución Política del Estado de Hidalgo y conforme a Las previstas en el Reglamento de la presente Ley.
 
 ###### ARTÍCULO 167.
 
@@ -2971,9 +2975,11 @@ II.- Cuando reincidan en una causa de responsabilidad sin haber atendido a las o
 
 Con independencia de si el motivo de la queja da o no lugar a responsabilidad, el Presidente del Consejo de la Judicatura o el Presidente del Tribunal que conozca, dictará las providencias oportunas para su corrección inmediata y si de la propia queja se desprende la realización de una conducta que pudiera dar lugar a responsabilidad, dará cuenta al Pleno del órgano que corresponda, para que proceda en los términos previstos en éste, sin perjuicio de que en cualquier momento, se acuerde la suspensión temporal sin goce de sueldo en el ejercicio de las funciones del probable infractor.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTÍCULO 186.
 
-Cuando una queja se interponga sin fundamento, carezca de las formalidades necesarias o bien sea notoriamente frívola e improcedente y así se declare por la Contraloría General, se impondrá al quejoso o a su abogado, o a ambos, una multa de diez a ciento veinte días de Salario mínimo tomando como base el vigente en el Estado de Hidalgo al momento de interponerse la queja, misma que será efectiva a través del Fondo Judicial.
+Cuando una queja se interponga sin fundamento, carezca de las formalidades necesarias o bien sea notoriamente frívola e improcedente y así se declare por la Contraloría General, se impondrá al quejoso o a su abogado, o a ambos, una multa de diez a ciento veinte veces la Unidad de Medida y Actualización vigente al momento de interponerse la queja, misma que será efectiva a través del Fondo Judicial.
 
 ###### ARTÍCULO 187.
 
@@ -3093,7 +3099,7 @@ LIC. MIGUEL ÁNGEL OSORIO CHONG
 
 P.O. 16 DE NOVIEMBRE DE 2009.
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su Publicación (sic) en el Periódico Oficial del Estado.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Hasta en tanto no se expidan las Leyes respectivas o sean promulgadas las reformas que permitan el inicio del nuevo Sistema de Justicia Penal, todos los asuntos y procedimientos iniciados con anterioridad a la entrada en vigor del presente Decreto, se resolverán conforme a las disposiciones vigentes antes de su expedición.
 
@@ -3126,3 +3132,13 @@ SEGUNDO. El presente decreto abroga el diverso 391 que contiene la Ley Orgánica
 TERCERO. En un término no mayor de 180 días naturales, deberá expedirse el Reglamento de la presente Ley.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
