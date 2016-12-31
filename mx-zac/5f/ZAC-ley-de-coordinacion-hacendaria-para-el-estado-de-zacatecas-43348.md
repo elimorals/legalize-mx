@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-coordinacion-hacendaria-para-el-estado-de-zacatecas-4334
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-01"
-last_updated: "2014-12-31"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "ZAC"
 ---
 # LEY DE COORDINACION HACENDARIA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
+[NOTA 1: DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
 LEY DE COORDINACIÓN HACENDARIA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 1 de enero de 2005.
 
@@ -856,3 +860,13 @@ P.O. 31 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día primero de enero del año dos mil quince, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE COORDINACIÓN Y COLABORACIÓN FINANCIERA PARA EL ESTADO DE ZACATECAS Y SUS MUNICIPIOS”.]
+
+Artículo primero. La presente Ley entrará en vigor el primero de enero del dos mil diecisiete, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Se abroga la Ley de Coordinación Hacendaria para el Estado de Zacatecas y sus Municipios, contenida en el Decreto No. 78 publicado en (sic) Suplemento al número 1 del Periódico Oficial del Gobierno del Estado, correspondiente al día 1 de enero del 2005.
+
+Artículo tercero. Se derogan los decretos en los que hayan aprobado reformas, adiciones y derogaciones que contravengan esta Ley.
