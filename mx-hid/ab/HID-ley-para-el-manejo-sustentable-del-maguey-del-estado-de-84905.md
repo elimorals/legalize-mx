@@ -4,7 +4,7 @@ identifier: "HID-ley-para-el-manejo-sustentable-del-maguey-del-estado-de-84905"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2011-12-31"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84905&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA EL MANEJO SUSTENTABLE DEL MAGUEY DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en Alcance del Periódico Oficial del Estado de Hidalgo, el sábado 31 de diciembre de 20011.
 
@@ -935,9 +935,13 @@ VI.- Clausura temporal o definitiva, parcial o total, de las instalaciones, maqu
 
 La imposición de las multas a que se refiere el Artículo anterior, se determinará en la forma siguiente:
 
-Con el equivalente de 20 a 5,000 veces de salario mínimo a quien cometa las infracciones señaladas en el Artículo 73 de esta Ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-Para la imposición de las multas servirá de base el salario mínimo general diario vigente para el Estado al momento de cometerse la infracción.
+Con el equivalente de 20 a 5,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en el Artículo 73 de esta Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para la imposición de las multas servirá de base la Unidad de Medida y Actualización vigente al momento de cometerse la infracción.
 
 A los reincidentes se les aplicará el doble de las multas previstas en este Artículo, según corresponda. Se considera reincidente a quién infrinja repetidamente un mismo precepto, en un periodo de un año, a partir de la fecha en que se levante el acta que hizo constar la primera infracción, sin que ésta haya sido desvirtuada.
 
@@ -1000,3 +1004,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
