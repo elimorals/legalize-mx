@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-51381"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2010-12-13"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -57,7 +57,7 @@ QUE CONTIENE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO I. DEL OBJETO Y APLlCACION DE LA LEY
+### CAPITULO I. DEL OBJETO Y APLICACION DE LA LEY
 
 ###### ARTICULO 1.
 
@@ -391,7 +391,7 @@ XXII.- La atención de los demás asuntos que en materia de desarrollo forestal 
 
 #### SECCION 1. DE LAS ATRIBUCIONES DE LA SECRETARIA DE AGRICULTURA Y DESARROLLO RURAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 11.
 
@@ -509,7 +509,7 @@ Del mismo modo, el Estado, la CONAFOR, CONANP y las instancias involucradas, se 
 
 ## TITULO TERCERO. DE LA POLITICA ESTATAL EN MATERIA FORESTAL
 
-### CAPITULO I. DE LOS CRITERIOS DE LA POLlTICA ESTATAL EN MATERIA FORESTAL
+### CAPITULO I. DE LOS CRITERIOS DE LA POLITICA ESTATAL EN MATERIA FORESTAL
 
 ###### ARTICULO 17.
 
@@ -623,7 +623,7 @@ XIV.- El apoyo, estímulo y compensación de los efectos económicos de largo pl
 
 XV.- La realización de acciones equivalentes a la regeneración, restauración y restablecimiento de recursos forestales, en aquellas obras o actividades públicas o privadas que por ellas mismas puedan ocasionar el deterioro.
 
-### CAPITULO II. DE LOS INSTRUMENTOS DE LA POLlTICA FORESTAL
+### CAPITULO II. DE LOS INSTRUMENTOS DE LA POLITICA FORESTAL
 
 ###### ARTICULO 23.
 
@@ -1051,7 +1051,7 @@ La Secretaría instrumentará un mecanismo para la autorización automática de 
 
 #### SECCION 2. DE LAS PLANTACIONES FORESTALES COMERCIALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 65.
 
@@ -1213,7 +1213,7 @@ Para el funcionamiento de centros de almacenamiento y transformación de materia
 
 ### CAPITULO I. DEL CAMBIO DE USO DE SUELO EN LOS TERRENOS FORESTALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 87.
 
@@ -1445,7 +1445,7 @@ La Secretaría deberá promover y difundir a nivel regional o local, según sea 
 
 ### CAPITULO II. DE LA INFRAESTRUCTURA PARA EL DESARROLLO FORESTAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 110.
 
@@ -1643,7 +1643,7 @@ Además, en la constitución del Consejo se propiciará la representación propo
 
 El Consejo será presidido por el titular del Ejecutivo Estatal, contará con una presidencia suplente a cargo del titular de la Secretaria, un Secretario Técnico a cargo del titular de la Gerencia Regional de la Comisión Nacional Forestal, así como con un suplente de éste, que será designado por el Gerente Regional de la CONAFOR; además deberá participar en el Consejo, un representante de la Procuraduría.
 
-## TITULO OCTAVO. DE LOS MEDlOS DE CONTROL, VIGILANCIA Y SANCIONES FORESTALES
+## TITULO OCTAVO. DE LOS MEDIOS DE CONTROL, VIGILANCIA Y SANCIONES FORESTALES
 
 ### CAPITULO I. DE LA PREVENCION Y VIGILANCIA FORESTAL
 
@@ -1857,7 +1857,7 @@ XXIII.- Depositar residuos sólidos, que representen peligro de desequilibrio ec
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XXlV.- Cualquier otra contravención a lo dispuesto en la presente Ley o la Ley para la Protección al Ambiente del Estado de Hidalgo y demás ordenamientos aplicables.
+XXIV.- Cualquier otra contravención a lo dispuesto en la presente Ley o la Ley para la Protección al Ambiente del Estado de Hidalgo y demás ordenamientos aplicables.
 
 ### CAPITULO VI. DE LAS SANCIONES
 
@@ -1883,11 +1883,17 @@ En el caso de las fracciones III y IV, la Secretaría ordenará se haga la inscr
 
 La imposición de las multas a que se refiere el Artículo anterior, se determinará en la forma siguiente:
 
-I.- Con el equivalente de 40 a 1,000 veces de salario mínimo vigente en el Estado de Hidalgo a quien cometa las infracciones señaladas en las fracciones V, VI, VIII, XII, XV, XVI, XVIII, XX y XXIV del Artículo 152 de esta Ley, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- Con el equivalente de 100 a 20,000 veces de salario mínimo a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII, XXIII del Artículo 152 de esta Ley.
+I.- Con el equivalente de 40 a 1,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones V, VI, VIII, XII, XV, XVI, XVIII, XX y XXIV del Artículo 152 de esta ley, y
 
-Para la imposición de las multas servirá de base el salario mínimo general diario vigente para el Estado de Hidalgo al momento de cometerse la infracción.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II.- Con el equivalente de 100 a 20,000 veces la Unidad de Medida y Actualización a quien cometa las infracciones señaladas en las fracciones I, II, III, IV, VII, IX, X, XI, XIII, XIV, XVII, XIX, XXI, XXII, XXIII del Artículo 152 de esta Ley.
+
+> <small>(REFORMADO P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para la imposición de las multas servirá de base la Unidad de Medida y Actualización al momento de cometerse la infracción.
 
 A los reincidentes se les aplicará el doble de las multas previstas en este Artículo, según corresponda.
 
@@ -1895,7 +1901,7 @@ A los reincidentes se les aplicará el doble de las multas previstas en este Art
 
 La Procuraduría, fundamentando y motivando plenamente su decisión, podrá otorgar al infractor la opción de pagar la multa o realizar trabajos o inversiones equivalentes en materia de conservación, protección o restauración de los recursos forestales, siempre y cuando se garanticen las obligaciones del infractor, éste no sea reincidente y no se trate de irregularidades que impliquen la existencia de daño o deterioro de los ecosistemas forestales, la biodiversidad o el patrimonio natural, observando lo previsto por la Ley para la Protección Ambiental del Estado de Hidalgo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 155.
 
@@ -1923,9 +1929,9 @@ VII.- La afectación a especies o ejemplares de vida silvestre enlistadas en alg
 
 > <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-VlII.- Que se hubiese producido el daño o afectación dentro de un área natural protegida.
+VIII.- Que se hubiese producido el daño o afectación dentro de un área natural protegida.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 156.
 
@@ -1985,15 +1991,15 @@ SECRETARIO
 
 DIP. HORACIO RAMÍREZ CURIEL.
 
-EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 71 FRACCION I DE LA CONSTITUCION POLlTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
+EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTICULO 71 FRACCION I DE LA CONSTITUCION POLITICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
-DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS DOS DlAS DEL MES DE AGOSTO DEL AÑO DOS MIL SEIS.
+DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS DOS DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL SEIS.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 13 DE DICIEMBRE DE 2010.
 
@@ -2010,3 +2016,13 @@ Artículo Quinto.- Los cambios de adscripción de personal, en ninguna forma afe
 Artículo Sexto.- Los asuntos en trámite que deban pasar de una dependencia u órgano de la Administración Pública del Estado, a otra, según lo que dispone esta ley, permanecerán en el Estado en que se encuentren hasta que la unidad que los venga desahogando se incorpore a su nueva adscripción, salvo que fueren de especial urgencia o de término improrrogable. En ambos casos se notificará a los interesados el cambio de radicación.
 
 Artículo Séptimo.- Por lo que hace a las reformas a la Ley de Salud para el Estado de Hidalgo, el reglamento a que hace referencia, el último párrafo del Artículo Tercero, deberá publicarse noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
