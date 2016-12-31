@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-deuda-publica-para-el-estado-y-los-municipios-de-54286"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-03"
-last_updated: "2011-06-25"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE DEUDA PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE ZACATECAS
 
-LEY DE DEUDA PUBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE ZACATECAS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS, PUBLICADA EN EL SUPLEMENTO 10 AL NO. 105 DEL P.O. DE 31 DE DICIEMBRE DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JUNIO DE 2011.
+LEY DE DEUDA PÚBLICA PARA EL ESTADO Y LOS MUNICIPIOS DE ZACATECAS
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el martes 3 de enero de 2007.
 
@@ -131,7 +133,7 @@ La Secretaría será la única dependencia del Poder Ejecutivo del Estado, facul
 
 Los financiamientos a que se refiere este artículo no se considerarán dentro de los montos anuales de endeudamiento autorizados.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE JUNIO DE 2011)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE JUNIO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -465,7 +467,7 @@ El Ejecutivo del Estado y los Ayuntamientos podrán otorgar en garantía de pago
 
 ### CAPÍTULO V. DEL REGISTRO ESTATAL DE DEUDA PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2011)</small>
 
 ###### Artículo 30.
 
@@ -545,8 +547,20 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LUIS GERARDO ROMO FONSECA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 25 DE JUNIO DE 2011.
 
 Artículo Único.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE OBLIGACIONES, EMPRÉSTITOS Y DEUDA PÚBLICA DEL ESTADO DE ZACATECAS Y SUS MUNICIPIOS".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se abroga la Ley de Deuda Pública para el Estado y los Municipios de Zacatecas, expedida mediante Decreto No. 431 publicada en Suplemento al Número 1 del Periódico Oficial del Gobierno del Estado, correspondiente al día 3 de enero de 2007.
+
+TERCERO. En el caso de los Entes Públicos que se ubiquen en un endeudamiento elevado conforme a la evaluación inicial del Sistema de Alertas, los convenios a que hace referencia el artículo 50 de esta Ley, podrá establecer un Techo de Financiamiento Neto, en los términos de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a la presente Ley.
