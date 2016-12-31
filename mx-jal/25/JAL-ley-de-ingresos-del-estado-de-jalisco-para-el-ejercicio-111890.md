@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-111890"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-19"
-last_updated: "2016-11-25"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2016
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en la Sección LIX del Periódico Oficial del Estado de Jalisco, el sábado 19 de diciembre de 2015.
 
@@ -325,9 +325,17 @@ b) Por los tribunales del trabajo, cuando se trate del proceso del derecho del t
 
 c) Para probar hechos relacionados con las demandas de indemnización civil proveniente de delito (sic);
 
-d) Por las autoridades en el ramo de educación, a petición de instituciones iguales y penitenciarias; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-e) Para los juicios de alimentos cuando sean solicitados por el acreedor alimentista, así como aquellos en los que intervienen menores, adultos mayores o incapaces;
+d) Por las autoridades en el ramo de educación, a petición de instituciones iguales y penitenciarias;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+e) Para los juicios de alimentos cuando sean solicitados por el acreedor alimentista, así como aquellos en los que intervienen menores, adultos mayores o incapaces; y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+f) Por la Dirección General del Registro Civil, tratándose de las copias de las actas del registro de nacimiento que se soliciten para trámites escolares de nivel preescolar, básico y medio superior.
 
 III. Las certificaciones que asienten en los expedientes los Secretarios de los Tribunales, sobre hechos o actos ocurridos en la tramitación de los juicios;
 
@@ -740,3 +748,9 @@ SEGUNDO. La medida de seguridad relativa al retiro de la circulación de un veh�
 TERCERO. El Titular del Poder Ejecutivo deberá, durante los 60 días siguientes a la entrada en vigor del presente Decreto, emitir las modificaciones Reglamentarias que estime pertinentes.
 
 CUARTO. Los talleres acreditados dentro del actual "Programa de Verificación Vehicular Obligatorio del Estado de Jalisco", podrán participar con criterios de preferencia en la convocatoria para el otorgamiento de líneas de verificación del nuevo programa que publique el Ejecutivo del Estado, siempre que adquieran los equipos bajo la tecnología unificada que determine la Secretaría de Medio Ambiente y Desarrollo Territorial, adecúen los procedimientos de medición para la verificación de los límites de emisiones de contaminantes provenientes de los vehículos automotores, implementen la prueba dinámica en sustitución de la prueba estática, en los términos de la NOM-047-SEMARNAT-2014, y se sujeten a las condiciones y bases de la convocatoria que se emita al efecto.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 26181/LXI/16 QUE REFORMA LOS ARTÍCULOS 19, 20, 41, 43, 82, 87, 102, 103, 120 Y 128 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO; 69 DE LA LEY DE HACIENDA DE JALISCO; Y 28 DE LA LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO 2016”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
