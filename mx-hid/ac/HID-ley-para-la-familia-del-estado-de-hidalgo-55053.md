@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2016-06-06"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -123,7 +123,9 @@ Son requisitos esenciales para contraer matrimonio:
 
 I.- Celebrarse ante el Oficial del Registro del Estado Familiar, habiendo satisfecho las formalidades exigidas por la Ley;
 
-II.- La edad para contraer matrimonio será de dieciocho años para el hombre y la mujer, salvo dispensa y autorización legalmente otorgada; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II.- La edad mínima para contraer matrimonio será de dieciocho años cumplidos; y
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -131,17 +133,11 @@ III.- Expresar su voluntad de unirse en matrimonio y manifestar bajo protesta de
 
 ###### Artículo 13.
 
-La suplencia del consentimiento se dará conforme a las siguientes reglas:
-
-I.- El juez familiar lo otorgará discrecionalmente cuando medien causas justificadas;
-
-II.- El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin consentimiento de quienes ejerzan la patria potestad o la tutela, faltando éstos, el Juez Familiar; y
-
-III.- Una vez otorgado el consentimiento no podrá revocarse sino por causa justificada.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ###### Artículo 14.
 
-Si el Juez se niega a dar su consentimiento, los interesados ocurrirán ante el superior quien resolverá lo conducente.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ### CAPITULO III. DE LOS IMPEDIMENTOS PARA CONTRAER MATRIMONIO
 
@@ -155,23 +151,17 @@ Toda persona tiene obligación de revelar al Oficial del Registro del Estado Fam
 
 ###### Artículo 17.
 
-Hay dos clases de impedimentos:
-
-I.- Los dispensables, que consisten en una prohibición de contraer matrimonio, pero si se celebra es susceptible de convalidación y confirmación; y
-
-II.- Los no dispensables, que prohíben gravemente contraer matrimonio e impiden su validez.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ###### Artículo 18.
 
-Son impedimentos dispensables:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
-I.- No tener la edad de dieciocho años el hombre y la mujer, si no han obtenido el consentimiento conforme a las reglas del Artículo 13 de esta Ley; y
-
-II.- (DEROGADA, P.O. 31 DE MARZO DE 2011)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 19.
 
-Son impedimentos no dispensables:
+Son impedimentos para contraer matrimonio:
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -189,9 +179,7 @@ V.- Haber sido autor o cómplice de homicidio o atentado contra la vida de uno d
 
 VI.- El consentimiento obtenido por error, violencia o miedo grave;
 
-> <small>(REFORMADA, P.O. 31 DE MARZO DE 2011)</small>
-
-VII.- Padecer enfermedad de riesgo, crónica degenerativa e incurable que además sea contagiosa;
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 VIII.- La existencia de tutela entre los pretendientes;
 
@@ -199,25 +187,31 @@ VIII.- La existencia de tutela entre los pretendientes;
 
 IX.- El adoptante no puede contraer matrimonio con el adoptado;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-X.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando haya sido judicialmente comprobado siempre y cuando existan hijos de los excónyuges; y
+X.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando haya sido judicialmente comprobado siempre y cuando existan hijos de los ex cónyuges;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XI.- El rapto cometido en los términos del artículo 169 del Código Penal para el Estado de Hidalgo.
+XI.- El rapto cometido en los términos del Artículo 169 del Código Penal para el Estado de Hidalgo; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII.- Ser menor de dieciocho años.
 
 ###### Artículo 20.
 
 Ninguna persona puede contraer un nuevo matrimonio antes de disolverse el primero.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 21.
 
-El matrimonio celebrado existiendo un impedimento no dispensable, no produce efecto legal alguno en cuanto a los cónyuges; en cuanto a los hijos, tendrán los mismos derechos y obligaciones de un matrimonio existente y válido.
+El matrimonio contraído bajo alguno de los impedimentos señalados en el artículo 19 de la presente Ley, no produce efecto legal alguno entre los cónyuges; pero en cuanto a los hijos subsistirán los derechos y obligaciones que se establecen en la Ley.
 
 ###### Artículo 22.
 
-El matrimonio contraído sin obtener la dispensa de los impedimentos señalados en el Artículo 18 de este ordenamiento, sólo podrá anularse a petición de alguno o de ambos cónyuges.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ###### Artículo 23.
 
@@ -275,9 +269,11 @@ V.- Acta de defunción del cónyuge fallecido, de divorcio o de nulidad del matr
 
 Entregados los documentos anteriores, el Oficial del Registro del Estado Familiar deberá emitir una explicación clara y con perspectiva de género a los pretendientes, acerca de los derechos, deberes y obligaciones, así como las consecuencias legales derivadas del matrimonio, entregándoles la Carta Familiar, así como la reproducción de lo expresado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 30.
 
-Cuando haya impedimentos, el matrimonio no podrá celebrarse a menos que haya sentencia judicial ejecutoriada declarando su inexistencia o dispensa.
+Cuando exista algún impedimento, el matrimonio no podrá celebrarse, a menos que haya sentencia judicial ejecutoriada declarando la inexistencia del impedimento.
 
 ###### Artículo 31.
 
@@ -303,11 +299,11 @@ El matrimonio será público y gratuito cuando se celebre en las oficinas del Re
 
 Cuando los pretendientes no puedan concurrir personalmente al acto, los representará un mandatario especial con poder otorgado en escritura pública o en documento privado, firmado por el otorgante y dos testigos, ratificando las firmas ante notario público. Tratándose de extranjeros, el poder debe ser legalizado como lo prescriban las Leyes o tratados respectivos.
 
-> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 31 DE MARZO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 37.
 
-El Oficial del Registro del Estado Familiar, llevará a cabo el matrimonio en presencia de los presuntos cónyuges o sus representantes, testigos y padres en la siguiente forma:
+El Oficial del Registro del Estado Familiar llevará a cabo el matrimonio en presencia de los presuntos cónyuges o de sus apoderados, testigos y padres de la siguiente forma:
 
 I.- Leerá la solicitud de matrimonio y los documentos presentados, identificando previamente a los futuros contrayentes;
 
@@ -339,11 +335,11 @@ V.- La firma de los demás que intervinieron en el acto, así como, la firma y n
 
 VI.- Los sellos correspondientes;
 
-VII.- La autorización del Juez Familiar en su caso;
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016)
 
 VIII.- El resultado de los certificados médicos a que se refiere el Artículo 28 fracción II de este ordenamiento; y
 
-Tratándose de menores de edad, siempre firmarán sus representantes legales y en su caso, la Autoridad que haya suplido su consentimiento.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO V. DE LOS DEBERES, DERECHOS Y OBLIGACIONES DE LOS CONYUGES
 
@@ -427,11 +423,7 @@ Durante el matrimonio, los esposos pueden dar por terminado alguno de los regím
 
 ###### Artículo 57.
 
-El menor de edad que contraiga matrimonio manifestará el régimen bajo el cual lo celebra con aprobación de su representante legal.
-
-En caso de ser sociedad conyugal y se aporten bienes, deberá acompañar copia certificada de la resolución judicial en la que el Juez competente haya autorizado la disposición de dichos bienes para formar parte de la misma.
-
-También requerirá de representación legal para la liquidación anticipada de la sociedad.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ### CAPITULO VII. DE LA SOCIEDAD CONYUGAL
 
@@ -667,9 +659,17 @@ VIII.- La ausencia de la manifestación de la voluntad de uno o de ambos contray
 
 IX.- El contraído por el tutor con la persona que está bajo su tutela;
 
-X.- El que celebren los parientes por afinidad en línea recta sin limitación; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XI.- La falta de solemnidad en el acta matrimonial consistente en que el Oficial del Registro del Estado Familiar y los cónyuges no hayan firmado el acta respectiva y puesto éstos su huella digital.
+X.- El que celebren los parientes por afinidad en línea recta sin limitación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI.- La falta de solemnidad en el acta matrimonial consistente en que el Oficial del Registro del Estado Familiar y los cónyuges no hayan firmado el acta respectiva y puesto estos su huella digital; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII. El matrimonio contraído por o entre menores de dieciocho años.
 
 ###### Artículo 96.
 
@@ -679,15 +679,11 @@ La acción para hacer valer la nulidad relativa caduca a los sesenta días natur
 
 La nulidad relativa es confirmable, convalidable, prescriptible, invocable sólo por las personas afectadas.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 98.
 
-Son causas de nulidad relativa del matrimonio:
-
-I.- (DEROGADA, P.O. 31 DE MARZO DE 2011)
-
-II.- El matrimonio contraído con persona distinta de aquella con la cual se pretendió celebrarlo; y
-
-III.- La falta de edad requerida por la Ley, excepto que se haya concedido la dispensa correspondiente por los titulares de la patria potestad, de la tutela, o por el Juez Familiar.
+El matrimonio contraído con persona distinta de aquella con la cual se pretendió celebrarlo, es causa de nulidad relativa.
 
 ###### Artículo 99.
 
@@ -695,7 +691,7 @@ El derecho de pedir la nulidad del matrimonio, no es trasmisible por herencia. E
 
 ###### Artículo 100.
 
-En los juicios sobre nulidad de matrimonio, los cónyuges menores de edad, necesitan un tutor para deducir la acción y comparecer en juicio.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ## TITULO TERCERO. DEL DIVORCIO
 
@@ -995,7 +991,9 @@ V.- Concubina o concubinario: Quien llena los requisitos del Artículo 143 de es
 
 El concubinato es la unión de un hombre y una mujer libres de matrimonio, que durante más de tres años de manera pública y constante hacen o hicieron vida en común como si estuvieren casados.
 
-Será aplicable lo dispuesto por el Artículo 19 de este ordenamiento, con excepción de las fracciones: V, VI y X.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Será aplicable al concubinato lo dispuesto en el artículo 19 de este ordenamiento.
 
 ###### Artículo 144.
 
@@ -1625,7 +1623,7 @@ I.- Por la muerte del titular o la declaración de presunción de su muerte, si 
 
 II.- Por la mayoría de edad del hijo;
 
-III.- Con la emancipación derivada del matrimonio; y
+III.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2016); y
 
 IV.- Con la adopción del hijo, en cuyo caso, la filiación se trasmite al adoptante.
 
@@ -1965,7 +1963,7 @@ I.- Los menores de edad;
 
 II.- Los mayores de edad que se encuentren bajo tutela;
 
-III.- Los que hayan sido separados de otra tutela por haberse conducido mal, ya (sic) respecto de la persona, ya (sic) respecto de la administración de los bienes del incapacitado;
+III.- Los que hayan sido separados de otra tutela por haberse conducido mal, ya respecto de la persona, ya respecto de la administración de los bienes del incapacitado;
 
 IV.- Los que, por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para obtenerlo;
 
@@ -2197,9 +2195,11 @@ Para todos los gastos extraordinarios que no sean de conservación ni de reparac
 
 Se requiere autorización judicial para que el tutor pueda transigir o comprometer en árbitros los negocios del incapacitado. El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del Juez.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 320.
 
-Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de trescientos sesenta y cinco días de salario mínimo general vigente en el Estado de Hidalgo, necesita del consentimiento del Consejo de Familia y de la aprobación judicial otorgada con audiencia de éste.
+Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de trescientas sesenta y cinco veces la Unidad de Medida y Actualización vigente, necesita del consentimiento del Consejo de Familia y de la aprobación judicial otorgada con audiencia de éste.
 
 ###### Artículo 321.
 
@@ -2421,7 +2421,7 @@ Cuando un cónyuge abandone a otro y a sus hijos sin recursos económicos para s
 
 ###### Artículo 363.
 
-El matrimonio de un menor de dieciocho años produce de derecho su emancipación y aunque el matrimonio se disuelva, el cónyuge emancipado no recaerá en la patria potestad aunque no haya alcanzado todavía la mayoría de edad.
+(DEROGADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)
 
 Los mayores de dieciséis años que estén sujetos a patria potestad o a tutela, tienen derecho a que se les emancipe, si demuestran su buena conducta y su aptitud para el manejo de sus intereses.
 
@@ -2493,9 +2493,11 @@ IV.- Imprescriptibles.
 
 La constitución del patrimonio familiar, se hará con inmuebles ubicados en el lugar donde esté domiciliada la familia.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 375.
 
-El valor máximo de los bienes que forman el patrimonio familiar, será el que resulte de multiplicar la cantidad derivada del importe de sesenta días de salario mínimo vigente en el Estado por trescientos sesenta y cinco días; autorizando un incremento del 10% anual no acumulable.
+El valor máximo de los bienes que forman el patrimonio familiar, será el que resulte de multiplicar la cantidad derivada del importe de sesenta veces la Unidad de Medida y Actualización vigente por trescientos sesenta y cinco días; autorizando un incremento del 10% anual no acumulable.
 
 > <small>(REFORMADO, P.O. 31 DE MARZO DE 2011)</small>
 
@@ -2629,7 +2631,9 @@ En los casos en que se requiera, el Oficial del Registro del Estado Familiar, es
 
 Las actas del Registro del Estado Familiar se asentarán en hojas especiales que se denominarán "Formas del Registro del Estado Familiar".
 
-La infracción de esta regla producirá la nulidad del acta y se castigará con una multa de uno a diez días de salario mínimo por cada acta que se haya levantado fuera de las formas correspondientes o con treinta y seis horas de arresto cuando haya insolvencia.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+La infracción de esta regla producirá la nulidad del acta y se castigará con una multa de uno a diez veces la Unidad de Medida y Actualización vigente por cada acta que se haya levantado fuera de las formas correspondientes o con treinta y seis horas de arresto cuando haya insolvencia.
 
 En caso de reincidencia se aplicará la Ley de Responsabilidades de los Servidores Públicos del Estado, y si la conducta es constitutiva de ilícito penal, se dará vista al Ministerio Público.
 
@@ -2651,9 +2655,11 @@ Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o fal
 
 Con las formas del Registro del Estado Familiar, se irán integrando volúmenes de acuerdo con el acto mismo de que se trate, los cuales serán visados en su primera y última hojas por la dependencia competente del Poder Ejecutivo del Estado, y se pondrá el sello de la misma en cada volumen. Los volúmenes se integrarán cada año debiendo quedar el original en la oficina del Registro del Estado Familiar, así como los documentos que le corresponden, se remitirá un ejemplar de las formas a la Dirección del Registro del Estado Familiar.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 400.
 
-Por la falta de remisión de los ejemplares anteriormente señalados, se sancionará con un día de salario mínimo vigente en el Estado, al Oficial del Registro del Estado Familiar por cada ejemplar.
+Por la falta de remisión de los ejemplares anteriormente señalados, se sancionará con el equivalente al valor diario de la Unidad de Medida y Actualización vigente, al Oficial del Registro del Estado Familiar por cada ejemplar.
 
 ###### Artículo 401.
 
@@ -2683,7 +2689,9 @@ VII.- En ninguna frase se emplearán abreviaturas;
 
 VIII.- No se hará raspadura alguna, ni tampoco se permitirá borrar lo escrito. Cuando sea necesario testar alguna palabra, se pasará sobre ella una línea, de manera que quede legible, salvándose al final con toda precisión el error cometido.
 
-La infracción de las disposiciones contenidas en esta fracción y las tres anteriores se castigará con multa por valor de un día de salario mínimo vigente en el Estado; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+La infracción de las disposiciones contenidas en esta fracción y las tres anteriores se castigará con multa con el equivalente del valor diario de la Unidad de Medida y Actualización vigente; y
 
 IX.- Los datos proporcionados por los interesados y los documentos que presenten, se anotarán poniéndoles el número de Acta y el sello del registro y se reunirán y depositarán en el archivo correspondiente, formándose un índice de ellos en las últimas hojas de los libros.
 
@@ -2753,7 +2761,9 @@ Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera d
 
 Los médicos cirujanos o parteras que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro del Estado Familiar, dentro de los quince días siguientes.
 
-Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo del director o de la persona encargada de la administración. La omisión del aviso dentro de los términos señalados se sancionará con una multa de uno a cinco días de salario mínimo vigente en el Estado de Hidalgo, impuesta dicha sanción por la autoridad municipal del lugar donde se haga la declaración extemporánea del nacimiento.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Si el nacimiento tuviere lugar en un sanatorio particular o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo del director o de la persona encargada de la administración. La omisión del aviso dentro de los términos señalados se sancionará con una multa de uno a cinco veces la Unidad de Medida y Actualización vigente, impuesta dicha sanción por la autoridad municipal del lugar donde se haga la declaración extemporánea del nacimiento.
 
 Recibido el aviso, el Oficial del Registro del Estado Familiar tomará las medidas legales que sean necesarias a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
 
@@ -2795,9 +2805,11 @@ El Ministerio Público una vez iniciada ésta, enviará de manera inmediata al e
 
 EL MINISTERIO PÚBLICO ORDENARÁ LA INSTITUCIÓN A CUYO CUIDADO QUEDE EL EXPÓSITO, PARA QUE DENTRO DE LAS SETENTA Y DOS HORAS SIGUIENTES SOLICITE EL REGISTRO DEL NACIMIENTO DEL MENOR ANTE EL OFICIAL DEL REGISTRO DEL ESTADO FAMILIAR, REMITIÉNDOLE A ÉSTE ÚLTIMO COPIA CERTIFICADA DE LA AVERIGUACIÓN, ASÍ COMO OBJETOS Y PAPELES ENCONTRADOS CON EL MENOR.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 420.
 
-La misma obligación a que se refiere el Artículo anterior, tienen los jefes, directores o administradores de los establecimientos de reclusión, de comunidad, especialmente los de los hospitales, casas de maternidad, e inclusas, respecto de los niños nacidos o expuestos en ellas, y en caso de incumplimiento, se impondrá al infractor, una multa de diez días del importe del salario mínimo general vigente en el Estado de Hidalgo legal fijado en el lugar correspondiente.
+La misma obligación a que se refiere el Artículo anterior, tienen los jefes, directores o administradores de los establecimientos de reclusión, de comunidad, especialmente los de los hospitales, casas de maternidad, e inclusas, respecto de los niños nacidos o expuestos en ellas, y en caso de incumplimiento, se impondrá al infractor, una multa de diez veces la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 421.
 
@@ -2833,9 +2845,11 @@ El reconocimiento del hijo mayor de edad requiere del consentimiento expreso de 
 
 Si el reconocimiento se hace por alguno de los otros medios establecidos en esta Ley, se presentará dentro del término de quince días, al Oficial del Registro, el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 429.
 
-La omisión del registro, en el caso del Artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de esta Ley, pero los responsables de la omisión incurrirán en una multa de un día de salario mínimo vigente.
+La omisión del registro, en el caso del Artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de esta Ley, pero los responsables de la omisión incurrirán en una multa equivalente al valor diario de la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 430.
 
@@ -2853,9 +2867,11 @@ Si el reconocimiento se hiciere en oficina distinta de aquella en que se levant�
 
 Realizada la diligencia de discernimiento de la tutela, el tutor, dentro de setenta y dos horas presentará copia certificada de la misma al Oficial del Registro del Estado Familiar, para que levante el Acta respectiva. El Ministerio Público y el Consejo de Familia vigilarán el cumplimiento de esta disposición.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 433.
 
-La omisión del registro de tutela, no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsable al tutor de una multa de hasta treinta días de salario mínimo vigente en el Estado, que hará efectiva el Oficial del Registro del Estado Familiar, ante quien se formalice la tutela.
+La omisión del registro de tutela, no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsable al tutor de una multa de hasta treinta veces la Unidad de Medida y Actualización vigente, que hará efectiva el Oficial del Registro del Estado Familiar, ante quien se formalice la tutela.
 
 ###### Artículo 434.
 
@@ -2881,7 +2897,7 @@ VI.- Los datos del procedimiento judicial.
 
 ###### Artículo 436.
 
-En los casos de emancipación por efecto de matrimonio, no se extenderá acta por separado; será suficiente para acreditarla el acta de matrimonio.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2016)
 
 ### CAPITULO VII. DE LAS ACTAS DE DIVORCIO
 
@@ -2915,9 +2931,11 @@ En el día, hora y lugar para la celebración del matrimonio, en presencia de lo
 
 Se levantará luego el acta de matrimonio que contendrá los requisitos del Artículo 39 de esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 444.
 
-El Oficial del Registro del Estado Familiar, que sin motivo justificado retarde la celebración de un matrimonio, será castigado con una multa de hasta treinta días de salario mínimo vigente en el Estado, y en caso de reincidencia con la destitución de su cargo.
+El Oficial del Registro del Estado Familiar, que sin motivo justificado retarde la celebración de un matrimonio, será castigado con una multa de hasta treinta veces la Unidad de Medida y Actualización vigente, y en caso de reincidencia con la destitución de su cargo.
 
 ### CAPITULO VIII. DE LAS ACTAS DE DEFUNCION
 
@@ -2963,9 +2981,11 @@ VI.- La fecha y hora de la muerte, si se supiere, y todos los informes que se te
 
 VII.- Nombre, apellidos, nacionalidad, número de cédula profesional y domicilio del médico que certifique la defunción.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 451.
 
-Los que habiten la casa en que ocurra la defunción, los directores o administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad, los huéspedes de los hoteles, mesones o las casas de vecindad, tienen obligación de dar aviso al Oficial del Registro del Estado Familiar, dentro de las veinticuatro horas siguientes a la defunción y en caso de incumplimiento se sancionarán con una multa de hasta treinta días de salario mínimo vigente en el Estado de Hidalgo.
+Los que habiten la casa en que ocurra la defunción, los directores o administradores de los establecimientos de reclusión, hospitales, colegios o cualquiera otra casa de comunidad, los huéspedes de los hoteles, mesones o las casas de vecindad, tienen obligación de dar aviso al Oficial del Registro del Estado Familiar, dentro de las veinticuatro horas siguientes a la defunción y en caso de incumplimiento se sancionarán con una multa de hasta treinta veces la Unidad de Medida y Actualización vigente.
 
 ###### Artículo 452.
 
@@ -3173,6 +3193,24 @@ P.O. 17 DE AGOSTO DE 2015.
 
 P.O. 6 DE JUNIO DE 2016.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 660 QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 450, Y ADICIONA LA FRACCIÓN IX AL ARTÍCULO 242, DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 660 QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 450, Y ADICIONA LA FRACCIÓN IX AL ARTÍCULO 242, DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto, entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 37 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA Y DEL CÓDIGO DE PROCEDIMIENTOS FAMILIARES, AMBOS DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los matrimonios y uniones celebrados por y entre menores de edad, previos a la publicación del presente Decreto, tendrán validez plena con todos los derechos y obligaciones adquiridos a partir de la celebración o unión.
