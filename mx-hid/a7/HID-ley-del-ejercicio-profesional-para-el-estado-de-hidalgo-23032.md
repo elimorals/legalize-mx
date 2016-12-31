@@ -4,7 +4,7 @@ identifier: "HID-ley-del-ejercicio-profesional-para-el-estado-de-hidalgo-23032"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-31"
-last_updated: "2015-07-13"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2001.
 
@@ -37,7 +37,7 @@ QUE CONTIENE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
 El Honorable Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo; D E C R E T A:
 
-.
+...
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -445,9 +445,11 @@ II.- Multa o
 
 III.- Cancelación temporal o definitiva del registro respectivo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 54.
 
-Para los efectos del Artículo anterior, la multa consistirá en el pago de una cantidad en efectivo que no podrá ser mayor de doscientos cincuenta salarios mínimos vigentes en el Estado de Hidalgo. La multa podrá duplicarse en caso de reincidencia, la cual se hará efectiva por la instancia legal correspondiente.
+Para los efectos del Artículo anterior, la multa consistirá en el pago de una cantidad en efectivo que no podrá ser mayor de doscientas cincuenta veces la Unidad de Medida y Actualización. La multa podrá duplicarse en caso de reincidencia, la cual se hará efectiva por la instancia legal correspondiente.
 
 ###### ARTICULO 55.
 
@@ -481,13 +483,17 @@ La cancelación será independientemente de las sanciones aplicables por los del
 
 Quien se atribuya el carácter de profesionista sin poseer título profesional, cédula con efectos de patente, registro profesional estatal o en su caso, diploma de especialidad o grado académico; ejerza los actos propios de la profesión, haga uso de documentos públicos o privados falsos o alterados u ofrezca públicamente sus servicios como profesionista, sin serlo, se le impondrán las sanciones que establezca esta Ley, su Reglamento y demás disposiciones legales aplicables independientemente de las sanciones o delitos en que incurra.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### ARTICULO 57.
 
-Se sancionará con multa de quinientos salarios mínimos vigentes en el Estado de Hidalgo a quienes incurran en lo señalado en el artículo anterior.
+Se sancionará con multa de quinientas veces la Unidad de Medida y Actualización a quienes incurran en lo señalado en el artículo anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 58.
 
-Los profesionistas que incumplan lo establecido en los artículos 25 y 26 de esta Ley, serán sancionados con multa de cien salarios mínimos vigentes en el Estado de Hidalgo y podrá duplicarse en caso de reincidencia.
+Los profesionistas que incumplan lo establecido en los artículos 25 y 26 de esta Ley, serán sancionados con multa de cien veces la Unidad de Medida y Actualización, y podrá duplicarse en caso de reincidencia.
 
 ###### ARTICULO 59.
 
@@ -673,8 +679,18 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO:
 
 LIC. MANUEL ANGEL NUÑEZ SOTO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 13 DE JULIO DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
