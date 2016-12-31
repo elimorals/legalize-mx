@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transporte-para-el-estado-de-hidalgo-95592"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-29"
-last_updated: "2016-08-01"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 29 de julio de 2013.
 
@@ -745,31 +745,51 @@ De acuerdo a la modalidad y tipo de servicio al que se destinan las unidades, lo
 
 I. Cuando se trate de vehículos destinados al Servicio Público de Transporte Masivo, Colectivo o Individual:
 
-a. Responsabilidad civil frente a terceros, por un monto de diez mil días de salario mínimo vigente en la Entidad;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-b. Gastos médicos por las lesiones ocasionadas a cada pasajero o usuario, por un monto de tres mil ciento sesenta días de salario mínimo vigente en la Entidad;
+a. Responsabilidad civil frente a terceros, por un monto de diez mil veces la Unidad de Medida y Actualización vigente;
 
-c. Responsabilidad civil por cada pasajero o usuario, por un monto de tres mil ciento sesenta días de salario mínimo vigente en la Entidad que cubra, incapacidad temporal, incapacidad permanente parcial e incapacidad total, muerte y gastos funerarios;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-d. Gastos médicos por las lesiones ocasionadas al conductor, por un monto de tres mil ciento sesenta días de salario mínimo vigente en la Entidad;
+b. Gastos médicos por las lesiones ocasionadas a cada pasajero o usuario, por un monto de tres mil ciento sesenta veces la Unidad de Medida y Actualización;
 
-e. Responsabilidad civil por el conductor, por un monto de tres mil ciento sesenta días de salario mínimo vigente en la Entidad que cubra, incapacidad temporal, incapacidad permanente parcial e incapacidad total, muerte y gastos funerarios; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+c. Responsabilidad civil por cada pasajero o usuario, por un monto de tres mil ciento sesenta veces la Unidad de Medida y Actualización que cubra, incapacidad temporal, incapacidad permanente parcial e incapacidad total, muerte y gastos funerarios;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+d. Gastos médicos por las lesiones ocasionadas al conductor, por un monto de tres mil ciento sesenta veces la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+e. Responsabilidad civil por el conductor, por un monto de tres mil ciento sesenta veces la Unidad de Medida y Actualización que cubra, incapacidad temporal, incapacidad permanente parcial e incapacidad total, muerte y gastos funerarios; y
 
 f. Cuando así resulte aplicable por el tipo de servicio que se presta, por la responsabilidad civil derivada de la pérdida parcial o total o el daño del equipaje.
 
 II. Cuando se trate de vehículos destinados al Servicio de Transporte Privado o Complementario:
 
-a. Responsabilidad civil frente a terceros, por un monto de diez mil días de salario mínimo vigente en la Entidad;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-b. Gastos médicos por las lesiones ocasionadas a cada pasajero o usuario, por un monto de tres mil ciento sesenta días de salario mínimo vigente en la Entidad;
+a. Responsabilidad civil frente a terceros, por un monto de diez mil veces la Unidad de Medida y Actualización;
 
-c. Gastos médicos por las lesiones ocasionadas al conductor, por un monto de tres mil ciento sesenta días de salario mínimo vigente en la Entidad;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-d. Responsabilidad civil por el conductor, por un monto de tres mil ciento sesenta días de salario mínimo vigente en la Entidad que cubra, incapacidad temporal, incapacidad permanente parcial e incapacidad total, muerte y gastos funerarios;
+b. Gastos médicos por las lesiones ocasionadas a cada pasajero o usuario, por un monto de tres mil ciento sesenta veces la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+c. Gastos médicos por las lesiones ocasionadas al conductor, por un monto de tres mil ciento sesenta veces la Unidad de Medida y Actualización;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+d. Responsabilidad civil por el conductor, por un monto de tres mil ciento sesenta veces la Unidad de Medida y Actualización que cubra, incapacidad temporal, incapacidad permanente parcial e incapacidad total, muerte y gastos funerarios;
 
 e. Responsabilidad civil por los daños o pérdida de la carga, cuyo monto estará en función del valor de la misma que se transporte, de acuerdo al contrato suscrito entre las partes o manifestación hecha por el usuario; y
 
-f. Responsabilidad civil por daños al medio ambiente y la ecología, hasta por veinticinco mil días de salario mínimo vigente en la Entidad.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+f. Responsabilidad civil por daños al medio ambiente y la ecología, hasta por veinticinco mil veces la Unidad de Medida y Actualización;
 
 ###### Artículo 51.
 
@@ -1837,9 +1857,11 @@ La transferencia de los derechos de una concesión es un acto personalísimo e i
 
 Los derechos derivados de las concesiones de los Servicios Públicos de Transporte Colectivo e Individual serán transferibles a título gratuito, previo cumplimiento de los requisitos que señala esta Ley y el Reglamento respectivo y mediante autorización expresa de la Autoridad Competente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 155.
 
-Quien solicite la transferencia deberá garantizar el cumplimiento del trámite, mediante cheque certificado o de caja a favor del Organismo del Transporte Convencional por el importe equivalente a sesenta días de salario mínimo vigente en la Entidad; hecho lo anterior, dentro de los noventa días siguientes se dictará la resolución respectiva.
+Quien solicite la transferencia deberá garantizar el cumplimiento del trámite, mediante cheque certificado o de caja a favor del Organismo del Transporte Convencional por el importe equivalente a sesenta veces la Unidad de Medida y Actualización; hecho lo anterior, dentro de los noventa días siguientes se dictará la resolución respectiva.
 
 La garantía depositada se devolverá al interesado cuando se emita la resolución.
 
@@ -3151,11 +3173,17 @@ Si la concesión otorgada por el Organismo del Transporte Convencional le fuere 
 
 Para que un vehículo registrado por el contratante pueda ingresar a los Centros deberá contar con seguro que ampare la cobertura de los conceptos siguientes:
 
-I. Por daños intencionales, accidentales o fortuitos a las instalaciones por un monto de 19,000 días de Salario Mínimo Vigente en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II. Por responsabilidad civil frente a terceros, por un monto de 19,000 días de Salario Mínimo Vigente en el Estado; y
+I. Por daños intencionales, accidentales o fortuitos a las instalaciones por un monto de 19,000 veces la Unidad de Medida y Actualización;
 
-III. Por causar lesiones, incapacidad o muerte a un pasajero, transeúnte o a cualquier otra persona localizada en las instalaciones del Centro de Transferencia Modal por un monto de 3,160 días de Salario Mínimo Vigente en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II. Por responsabilidad civil frente a terceros, por un monto de 19,000 veces la Unidad de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III. Por causar lesiones, incapacidad o muerte a un pasajero, transeúnte o a cualquier otra persona localizada en las instalaciones del Centro de Transferencia Modal por un monto de 3,160 veces la Unidad de Medida y Actualización;
 
 ###### Artículo 257.
 
@@ -3973,7 +4001,9 @@ Para la tramitación y resolución de los asuntos ante la Autoridad Competente, 
 
 A los concesionarios, permisionarios o a los titulares de una autorización que infrinjan las disposiciones contenidas en esta Ley, la Autoridad Competente, de acuerdo a sus respectivas facultades, les impondrá cualquiera de las siguientes sanciones:
 
-I. Multa de veinte hasta dos mil quinientos días de salario mínimo vigente en la Entidad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+I. Multa de veinte hasta dos mil quinientas veces la Unidad de Medida y Actualización;
 
 II. Detención y aseguramiento del vehículo;
 
@@ -4001,41 +4031,69 @@ La Autoridad Competente, de acuerdo a sus respectivas atribuciones, está facult
 
 Por tratarse de cuestiones de orden público e interés social que, de no sancionarse, atentan contra la economía de los usuarios y de cometerse incluso conllevan un riesgo para la seguridad colectiva, para la integridad física y la vida de los usuarios de las Vías Públicas de competencia Estatal y para la de los propios usuarios los Servicios de Transporte tutelados en esta Ley, la Autoridad Competente, en lo aplicable y de acuerdo a sus respectivas competencias y atribuciones, impondrá la multa por los montos e infracciones siguientes:
 
-I. Toda persona que altere, modifique o falsifique las placas reglamentarias o los documentos relativos a la matriculación de los vehículos, será sancionado con la aplicación de una multa equivalente al importe de mil novecientos cincuenta hasta dos mil quinientos días de salario mínimo vigente en la Entidad; aunado a lo anterior, de los hechos se dará conocimiento al Ministerio Público, para los efectos procedentes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II. En términos de los artículos 68; 85; 86; 87; 116; 176 y 185 de esta Ley, a quien preste el servicio sin contar con la concesión, permiso, autorización o convenio correspondiente será sancionado mediante la imposición de una multa equivalente al importe de mil cuatrocientos cincuenta hasta dos mil días de salario mínimo vigente en la Entidad, con independencia de las sanciones que les resulten aplicables por otros ordenamientos;
+I. Toda persona que altere, modifique o falsifique las placas reglamentarias o los documentos relativos a la matriculación de los vehículos, será sancionado con la aplicación de una multa equivalente al importe de mil novecientas cincuenta hasta dos mil quinientas veces la Unidad de Medida y Actualización; aunado a lo anterior, de los hechos se dará conocimiento al Ministerio Público, para los efectos procedentes;
 
-III. Al que preste el Servicio Público de Transporte en bicicletas, triciclos, motocicletas y vehículos similares se le sancionará mediante la imposición de una multa equivalente al importe de mil cuatrocientos cincuenta hasta dos mil días de salario mínimo vigente en la Entidad, con absoluta independencia de las sanciones que les resulten aplicables por otros ordenamientos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV. Prestar cualquiera de los Servicios Auxiliares y Conexos señalados en esta Ley, sin contar con la concesión o el permiso correspondiente será sancionado mediante la imposición de una multa equivalente al importe de mil novecientos cincuenta hasta dos mil quinientos días de salario mínimo vigente en la Entidad, y con la clausura del establecimiento de que se trate, con absoluta independencia de las sanciones que les resulten aplicables por otros ordenamientos;
+II. En términos de los artículos 68; 85; 86; 87; 116; 176 y 185 de esta Ley, a quien preste el servicio sin contar con la concesión, permiso, autorización o convenio correspondiente será sancionado mediante la imposición de una multa equivalente al importe de mil cuatrocientos cincuenta hasta dos mil veces la Unidad de Medida y Actualización, con independencia de las sanciones que les resulten aplicables por otros ordenamientos;
 
-V. A quien de cualquier forma altere las tarifas, itinerarios y horarios o los modifique de cualquier forma o a quien incurra transgreda a las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores se le impondrá multa por el importe de doscientos cincuenta hasta quinientos días de salario mínimo vigente en el Estado al momento de cometer la infracción;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VI. A quien transgreda de cualquier manera las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores, se le impondrá multa por el importe de doscientos cincuenta hasta quinientos días de salario mínimo vigente en el Estado al momento de cometer la infracción;
+III. Al que preste el Servicio Público de Transporte en bicicletas, triciclos, motocicletas y vehículos similares se le sancionará mediante la imposición de una multa equivalente al importe de mil cuatrocientos cincuenta hasta dos mil veces la Unidad de Medida y Actualización; con absoluta independencia de las sanciones que les resulten aplicables por otros ordenamientos;
 
-VII. Cuando los titulares de la concesión, permiso o autorización o sus conductores o empleados se nieguen a prestar el servicio se les impondrá multa por el importe de doscientos hasta quinientos días de salario mínimo vigente en el Estado; por igual monto se les multará cuando incurran en actos de maltrato al usuario;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VIII. Se sancionará con multa de quinientos hasta mil días de salario mínimo diario al momento de cometer la infracción, independientemente de que se proceda a la detención y aseguramiento del vehículo hasta que cumpla con la disponibilidad del seguro respectivo, a quien preste el Servicio de Transporte en cualquiera de sus modalidades sin contar con seguro vigente, así como a aquel que pretenda amparar la prestación del servicio en un documento vencido;
+IV. Prestar cualquiera de los Servicios Auxiliares y Conexos señalados en esta Ley, sin contar con la concesión o el permiso correspondiente será sancionado mediante la imposición de una multa equivalente al importe de mil novecientos cincuenta hasta dos mil quinientas veces la Unidad de Medida y Actualización, y con la clausura del establecimiento de que se trate, con absoluta independencia de las sanciones que les resulten aplicables por otros ordenamientos;
 
-IX. Se sancionará con multa de quinientos hasta mil días de salario mínimo diario al momento de cometer la infracción, independientemente de que se proceda a la detención y aseguramiento del vehículo hasta que cumpla con las normas establecidas, a quien transporte materiales, sustancias o residuos tóxicos o peligrosos sin contar con el permiso correspondiente, o sin cumplir con las normas oficiales respectivas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-X. Se sancionará con multa de quinientos hasta setecientos cincuenta días de salario mínimo diario al momento de cometer la infracción, independientemente de que se proceda a la detención y aseguramiento del vehículo, a quien conduzca vehículos del Servicio de Transporte, bajo los influjos de bebidas alcohólicas, enervantes o de cualquier otra sustancia tóxica, en términos del artículo 66 de esta Ley; adicionalmente en términos del artículo 305, fracción IV, se impondrá la revocación del Tarjetón y la suspensión hasta por un año en el derecho de servir como conductor de vehículos del Servicio de Transporte y, si el infractor es el propio concesionario o permisionario, se revocará de pleno derecho la concesión o permiso correspondiente.
+V. A quien de cualquier forma altere las tarifas, itinerarios y horarios o los modifique de cualquier forma o a quien incurra transgreda a las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores se le impondrá multa por el importe de doscientos cincuenta hasta quinientas veces la Unidad de Medida y Actualización al momento de cometer la infracción;
 
-XI. Se impondrá multa de treinta hasta cincuenta días de salario mínimo diario vigente en el Estado a quienes infrinjan lo preceptuado en los artículos: 23 fracción XXX, 28; 30; 34 párrafo primero; 36 fracciones I a IV; 111; 113 primer supuesto; 93 párrafo segundo; 305 fracciones I, XI y XII, 307 último párrafo; 309 fracciones XI y XIII;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XII. Se impondrá multa de ochenta hasta cien días de salario mínimo diario vigente en el Estado a quienes infrinjan lo preceptuado en los artículos: 23 fracción XII, 24 párrafo tercero en cualquiera de sus supuestos; 59; 73, 89; 90; 95 párrafo primero; 115 párrafo segundo; 302 párrafos segundo y tercero; 304 fracción XVI; y 305 fracciones V y XV.
+VI. A quien transgreda de cualquier manera las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores, se le impondrá multa por el importe de doscientos cincuenta hasta quinientas veces la Unidad de Medida y Actualización al momento de cometer la infracción;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XIII. Se impondrá multa de ciento treinta hasta ciento cincuenta días de salario mínimo diario vigente en el Estado a quienes infrinjan lo preceptuado en los artículos: 35; 36 fracción V; 37; 55; 65 párrafo segundo; 77; 91; 94 párrafo tercero; 102 en todas sus fracciones; 117; 119; 126 párrafos primero y segundo; 143 fracción II; 182 párrafos primero y segundo; 183; 204 fracción I, incisos d y e; 204 fracción II, inciso b; 223 párrafos primero y segundo; 304 fracciones I, II, III, VIII, IX, X, XIII, XIV, XVII, XVIII, XXI, XXII y XXIII; y 305 fracciones II, VI, VII, XIII, XIV, XVI, XVII, XVIII, XIX y XX;
+VII. Cuando los titulares de la concesión, permiso o autorización o sus conductores o empleados se nieguen a prestar el servicio se les impondrá multa por el importe de doscientos hasta quinientas veces la Unidad de Medida y Actualización; por igual monto se les multará cuando incurran en actos de maltrato al usuario;
 
-> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XIII BIS. Se impondrá multa de sesenta hasta ochenta días de salario mínimo diario vigente en el Estado a quienes infrinjan lo preceptuado en el artículo 204 fracción I, incisos a al c;
+VIII. Se sancionará con multa de quinientos hasta mil veces la Unidad de Medida y Actualización; al momento de cometer la infracción, independientemente de que se proceda a la detención y aseguramiento del vehículo hasta que cumpla con la disponibilidad del seguro respectivo, a quien preste el Servicio de Transporte en cualquiera de sus modalidades sin contar con seguro vigente, así como a aquel que pretenda amparar la prestación del servicio en un documento vencido;
 
-XIV. Se impondrá multa hasta por veinte días de salario mínimo diario vigente en el Estado a quienes infrinjan lo preceptuado en los artículos 45, 60 párrafo segundo; 63; 142 o (sic) 271; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XV. Se impondrá multa hasta por treinta días de salario mínimo diario vigente en el Estado a quienes infrinjan lo preceptuado en los artículos 64, 78 fracción III, 272; 314.
+IX. Se sancionará con multa de quinientos hasta mil veces la Unidad de Medida y Actualización; al momento de cometer la infracción, independientemente de que se proceda a la detención y aseguramiento del vehículo hasta que cumpla con las normas establecidas, a quien transporte materiales, sustancias o residuos tóxicos o peligrosos sin contar con el permiso correspondiente, o sin cumplir con las normas oficiales respectivas;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+X. Se sancionará con multa de quinientos hasta setecientas cincuenta veces la Unidad de Medida y Actualización; al momento de cometer la infracción, independientemente de que se proceda a la detención y aseguramiento del vehículo, a quien conduzca vehículos del Servicio de Transporte, bajo los influjos de bebidas alcohólicas, enervantes o de cualquier otra sustancia tóxica, en términos del artículo 66 de esta Ley; adicionalmente en términos del artículo 305, fracción IV, se impondrá la revocación del Tarjetón y la suspensión hasta por un año en el derecho de servir como conductor de vehículos del Servicio de Transporte y, si el infractor es el propio concesionario o permisionario, se revocará de pleno derecho la concesión o permiso correspondiente.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XI. Se impondrá multa de treinta hasta cincuenta veces la Unidad de Medida y Actualización; a quienes infrinjan lo preceptuado en los artículos: 23 fracción XXX, 28; 30; 34 párrafo primero; 36 fracciones I a IV; 111; 113 primer supuesto; 93 párrafo segundo; 305 fracciones I, XI y XII, 307 último párrafo; 309 fracciones XI y XIII;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XII. Se impondrá multa de ochenta hasta cien veces la Unidad de Medida y Actualización; a quienes infrinjan lo preceptuado en los artículos: 23 fracción XII, 24 párrafo tercero en cualquiera de sus supuestos; 59; 73, 89; 90; 95 párrafo primero; 115 párrafo segundo; 302 párrafos segundo y tercero; 304 fracción XVI; y 305 fracciones V y XV;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIII. Se impondrá multa de ciento treinta hasta ciento cincuenta veces la Unidad de Medida y Actualización; a quienes infrinjan lo preceptuado en los artículos: 35; 36 fracción V; 37; 55; 65 párrafo segundo; 77; 91; 94 párrafo tercero; 102 en todas sus fracciones; 117; 119; 126 párrafos primero y segundo; 143 fracción II; 182 párrafos primero y segundo; 183; 204 fracción I, incisos d y e; 204 fracción II, inciso b; 223 párrafos primero y segundo; 304 fracciones I, II, III, VIII, IX, X, XIII, XIV, XVII, XVIII, XXI, XXII y XXIII; y 305 fracciones II, VI, VII, XIII, XIV, XVI, XVII, XVIII, XIX y XX;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIII BIS. Se impondrá multa de sesenta hasta ochenta veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en el artículo 204 fracción I, incisos a al c;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIV. Se impondrá multa hasta por veinte veces la Unidad de Medida y Actualización a quienes infrinjan lo preceptuado en los artículos 45, 60 párrafo segundo; 63; 142 o 271; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XV. Se impondrá multa hasta por treinta veces la Unidad de Medida y Actualización; a quienes infrinjan lo preceptuado en los artículos 64, 78 fracción III, 272; 314.
 
 ###### Artículo 324.
 
@@ -4152,3 +4210,13 @@ P.O. 1 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 687 QUE REFORMA LA FRACCIÓN XIX Y XX DEL ARTÍCULO 23; Y ADICIONA EL ARTÍCULO 115 BIS, A LA LEY DE TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
