@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2015-12-31"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -39,7 +39,7 @@ El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que
 
 A N T E C E D E N T E S
 
-.
+...
 
 POR TODO LO EXPUESTO, ESTE HONORABLE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -203,7 +203,7 @@ XXXVI.- Subdivisión: La partición de un terreno en dos o más fracciones que n
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
-XXXVlI.- Suelo no urbanizable: Las zonas, áreas y predios que por su ubicación y características y de conformidad con los programas que integran el Sistema, su uso del suelo deberá permanecer inalterable;
+XXXVII.- Suelo no urbanizable: Las zonas, áreas y predios que por su ubicación y características y de conformidad con los programas que integran el Sistema, su uso del suelo deberá permanecer inalterable;
 
 XXXVIII.- Suelo urbanizado: Las zonas, áreas o predios de un centro de población que cuenten con la infraestructura, equipamiento y servicios urbanos y que están edificados en al menos dos terceras partes de su superficie, que pueden ser objeto de reordenamiento o reestructuración;
 
@@ -267,7 +267,7 @@ XVI.- (DEROGADA, P.O. 27 DE AGOSTO DE 2012)
 
 > <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XVlI.- Las de más (sic) que atribuyan las Leyes y disposiciones legales aplicables.
+XVII.- Las de más (sic) que atribuyan las Leyes y disposiciones legales aplicables.
 
 ###### ARTICULO 7.
 
@@ -2315,27 +2315,41 @@ I.- Para el supuesto establecido en la fracción I;
 
 a) Con Autoridades, se sujetará a lo dispuesto en las Leyes correspondientes; y
 
-b) Con particulares, la rescisión administrativa de convenios o, en su caso, multa de 50 a 500 veces el salario mínimo vigente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- La suspensión, clausura temporal o definitiva, demolición o modificación de construcciones e instalaciones, para los supuestos contemplados en las fracciones II, III, IV y V, y en su caso, multa de 500 a 1000 veces el salario mínimo vigente;
+b) Con particulares, la rescisión administrativa de convenios o, en su caso, multa de 50 a 500 veces la Unidad de Medida y Actualización vigente.
 
-III.- La revocación de las licencias, autorizaciones y permisos otorgados, cuando se incurra en el supuesto contemplado en la fracción VI, y en su caso, multa de 1000 a 2000 veces el salario mínimo vigente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+II.- La suspensión, clausura temporal o definitiva, demolición o modificación de construcciones e instalaciones, para los supuestos contemplados en las fracciones II, III, IV y V, y en su caso, multa de 500 a 1000 veces la Unidad de Medida y Actualización vigente;
 
-IV.- Suspensión, clausura temporal o definitiva, demolición o modificación de construcciones e instalaciones y multa de 250 a 2000 salarios mínimos, en caso de incurrir en el supuesto que establecen las fracciones VII, VIII y IX.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III.- La revocación de las licencias, autorizaciones y permisos otorgados, cuando se incurra en el supuesto contemplado en la fracción VI, y en su caso, multa de 1000 a 2000 veces la Unidad de Medida y Actualización vigente;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IV.- Suspensión, clausura temporal o definitiva, demolición o modificación de construcciones e instalaciones y multa de 250 a 2000 veces la Unidad de Medida y Actualización vigente, en caso de incurrir en el supuesto que establecen las fracciones VII, VIII y IX.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 Asimismo, y sin perjuicio de la sanción a que se refiere el primer párrafo de esta fracción, tratándose de daños ocasionados a vías públicas, adicionalmente se sancionará al particular con un importe equivalente al 30% de la cuantificación del daño;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-V.- Suspensión, clausura temporal o definitiva, o demolición o modificación de construcciones e instalaciones, o desocupación o desalojo de inmuebles, retiro de instalaciones, prohibición de actos de utilización o la realización de trabajos de emergencia para evitar daños, multa de 500 a 2000 veces el salario mínimo vigente alternativamente o todas a la vez, en caso de incurrir en los supuestos que establecen las fracciones X, XI, XII y XII (sic), las cuales podrán imponerse individual o conjuntamente;
+V.- Suspensión, clausura temporal o definitiva, o demolición o modificación de construcciones e instalaciones, o desocupación o desalojo de inmuebles, retiro de instalaciones, prohibición de actos de utilización o la realización de trabajos de emergencia para evitar daños, multa de 500 a 2000 veces la Unidad de Medida y Actualización vigente alternativamente o todas a la vez, en caso de incurrir en los supuestos que establecen las fracciones X, XI, XII y XII (sic), las cuales podrán imponerse individual o conjuntamente;
 
-VI.- Multa de 500 veces a 1000 veces de salario mínimo vigente, cuando se ejecuten obras o instalaciones sin licencia, permiso o autorización o con una licencia violatoria de los programas que forman parte del Sistema. En este caso se aplicará la sanción al promotor de la obra y al responsable de la acción urbana de que se trate;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VII.- Multa de 1000 a 2000 veces el salario mínimo vigente, al propietario del terreno en el que se lleven a cabo fusiones, subdivisiones, relotificaciones y parcelaciones ilegales;
+VI.- Multa de 500 a 1000 veces la Unidad de Medida y Actualización vigente, cuando se ejecuten obras o instalaciones sin licencia, permiso o autorización o con una licencia violatoria de los programas que forman parte del Sistema. En este caso se aplicará la sanción al promotor de la obra y al responsable de la acción urbana de que se trate;
 
-VIII.- Multa de 20 a 40 veces el salario mínimo, así como la adecuación de las obras o construcciones, a quienes infrinjan las normas referentes al desarrollo urbano para las personas con discapacidad al:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VII.- Multa de 1000 a 2000 veces la Unidad de Medida y Actualización vigente, al propietario del terreno en el que se lleven a cabo fusiones, subdivisiones, relotificaciones y parcelaciones ilegales;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VIII.- Multa de 20 a 40 veces la Unidad de Medida y Actualización vigente, así como la adecuación de las obras o construcciones, a quienes infrinjan las normas referentes al desarrollo urbano para las personas con discapacidad al:
 
 a) Obstaculizar la circulación peatonal o las rampas ubicadas en las esquinas, para su uso por las personas con discapacidad;
 
@@ -2343,7 +2357,9 @@ b) Ocupar las zonas de estacionamiento reservadas para su uso por las personas c
 
 c) Omitir la realización de obras que permitan a las personas con discapacidad la accesibilidad a instalaciones, construcciones o cualquier tipo de edificación.
 
-IX.- A quien después de notificado por la Autoridad competente, persista en la violación, de 1000 a 1500 veces de salario mínimo vigente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+IX.- A quien después de notificado por la Autoridad competente, persista en la violación, de 1000 a 1500 veces la Unidad de Medida y Actualización vigente;
 
 X.- Tratándose de infracciones cometidas por servidores públicos, suspensión de su cargo e inicio del procedimiento correspondiente, de conformidad con la Ley aplicable, sin perjuicio de la nulidad del acto correspondiente.
 
@@ -2510,3 +2526,13 @@ P.O. 31 DE DICIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
