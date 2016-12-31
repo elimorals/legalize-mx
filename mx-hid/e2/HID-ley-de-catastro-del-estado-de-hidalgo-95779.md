@@ -4,7 +4,7 @@ identifier: "HID-ley-de-catastro-del-estado-de-hidalgo-95779"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2013-09-02"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CATASTRO DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -635,11 +635,17 @@ VI. Incurrir en cualquier otro acto u omisión, distinto de los enumerados en la
 
 A quien cometa las Infracciones a que se refiere el Artículo anterior, la Autoridad Catastral impondrá las sanciones siguientes:
 
-I. Multa de cinco días de salario mínimo diario vigente en el Estado, por infringir lo dispuesto en las fracciones I, V y VI;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II. Multa de diez días de salario mínimo diario vigente en el Estado, por infringir lo dispuesto en la fracción III; y
+I. Multa de cinco veces de la Unidad de Medida y Actualización vigente, por infringir lo dispuesto en las fracciones I, V y VI;
 
-III. Multa de veinte días de salario mínimo diario vigente en el Estado, por infringir lo dispuesto en la fracción II y IV.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II. Multa de diez veces de la Unidad de Medida y Actualización vigente, por infringir lo dispuesto en la fracción III; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+III. Multa de veinte veces de la Unidad de Medida y Actualización vigente, por infringir lo dispuesto en la fracción II y IV.
 
 En caso de reincidencia, el monto de la multa podrá aumentarse hasta tres veces al monto establecido.
 
@@ -876,3 +882,15 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
