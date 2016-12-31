@@ -4,7 +4,7 @@ identifier: "HID-codigo-penal-para-el-estado-de-hidalgo-5385"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-06-09"
-last_updated: "2016-08-15"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5385&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CÓDIGO PENAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el sábado 9 de junio de 1990.
 
@@ -463,9 +463,9 @@ II.- La indemnización del daño material y moral causados, incluyendo la atenci
 
 III.- El resarcimiento de los perjuicios ocasionados;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV.- El pago de la pérdida de ingreso económico y lucro cesante, para ello se tomará como base el salario que la víctima percibía en el momento de sufrir el delito y en caso de no contar con esa información, será conforme al salario mínimo vigente en el lugar en que ocurra el hecho;
+IV.- El pago de la pérdida del ingreso económico y lucro cesante, para ello se tomará como base el ingreso económico o la utilidad que la víctima percibía en el momento de sufrir el delito y en caso de no contar con esa información, será conforme la Unidad de Medida y Actualización vigente, con base a la proporcionalidad.
 
 > <small>(REFORMADA, P.O. 1 DE ABRIL DE 2013)</small>
 
@@ -951,13 +951,13 @@ V.- La culpabilidad del sujeto y las demás condiciones especiales y personales 
 
 Cuando el inculpado perteneciere a un grupo étnico indígena, también se tomarán en cuenta sus usos, costumbres y tradiciones culturales.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 93.
 
-Cuando en relación con la punibilidad aplicable, se haga referencia al salario para estimar el valor, cuantía o monto del objeto o producto del delito o de los daños o perjuicios patrimoniales causados, se atenderá al salario mínimo general vigente en el momento y lugar en que se cometió el delito, si éste fuere instantáneo.
+Cuando en relación con la punibilidad aplicable para cuantificar una multa, se haga referencia a un número de días o veces, se tomará el equivalente al valor diario de la Unidad de Medida y Actualización vigente. Para estimar el valor, cuantía o monto del objeto o producto del delito o de los daños o perjuicios patrimoniales causados, se atenderá al valor diario de la Unidad de Medida y Actualización vigente, en el momento en que se cometió el delito, si éste fuere instantáneo.
 
-Tratándose de delito permanente o continuo, se atenderá al salario que hubiese estado en vigor al cesar su consumación. En caso de delito continuado, se tomará en cuenta el salario vigente al momento de consumarse la última conducta.
+Tratándose de delito permanente o continuo, se atenderá al valor diario de la Unidad de Medida y Actualización en vigor al cesar su consumación. En caso de delito continuado, se tomará en cuenta el valor diario la Unidad de Medida y Actualización vigente, al momento de consumarse la última conducta.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -1417,17 +1417,17 @@ Comete el delito de lesiones el que causa a otro un daño en su salud.
 
 Cuando no concurra alguno de los resultados enunciados en el artículo siguiente, las lesiones se sancionarán:
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-I.- Si no ponen en peligro la vida y tardan en sanar hasta quince días, con multa de 10 a 50 días de salario mínimo;
+I.- Si no ponen en peligro la vida y tardan en sanar hasta quince días, con multa de 10 a 50 veces la Unidad de Medida y Actualización vigente;
 
-> <small>(REFORMADA, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- Si no ponen en peligro la vida y tardan en sanar más de quince días, con prisión de tres meses a dos años y multa de 10 a 50 días de salario mínimo o
+II.- Si no ponen en peligro la vida y tardan en sanar más de quince días, con prisión de tres meses a dos años y multa de 10 a 50 veces la Unidad de Medida y Actualización vigente; y
 
-> <small>(ADICIONADA, P.O. 14 DE ENERO DE 2002)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-III.- Si ponen en peligro la vida, con prisión de dos a siete años y multa de 30 a 275 días de salario mínimo.
+III.- Si ponen en peligro la vida, con prisión de dos a siete años y multa de 30 a 275 veces la Unidad de Medida y Actualización vigente.
 
 > <small>(REFORMADO, P.O. 14 DE ENERO DE 2002)</small>
 
@@ -2089,9 +2089,13 @@ No servirá de excusa de la difamación o de la calumnia, que el hecho imputado 
 
 ARTICULO 223 BIS.- A quien por cualquier medio realice inscripciones, leyendas, consignas, anuncios, pintas, letras, grabados, marcas, signos, símbolos, rayas, nombres, palabras o dibujos en la vía pública, en bienes inmuebles o muebles de propiedad privada o pública, como expresión gráfica denominada graffiti, utilizando elementos, como aerosoles, lijas, abrasivos o lacas y sus derivados, que dañen su apariencia o estado normal u original, sin que cuenten previamente con la autorización de la persona que deba otorgarlo, se le impondrán:
 
-I.- De seis meses a un año de prisión, de quince a treinta días de trabajo a favor de la comunidad y de veinte a cincuenta días-multa, cuando el monto del daño causado, no exceda de veinte veces el salario mínimo; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- De ocho meses a un año seis meses de prisión, de veinticinco a cincuenta días de trabajo a favor de la comunidad y de cincuenta a ciento veinte días-multa, cuando el monto del daño causado, exceda a veinte veces el salario mínimo.
+I. De seis meses a un año de prisión, de quince a treinta días de trabajo a favor de la comunidad y de veinte a cincuenta veces la Unidad de Medida y Actualización vigente, de multa, cuando el monto del daño causado, no exceda de veinte veces el valor diario equivalente de dicha Unidad; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II.- De ocho meses a un año seis meses de prisión, de veinticinco a cincuenta días de trabajo a favor de la comunidad y de cincuenta a ciento veinte veces la Unidad de Medida y Actualización vigente de multa, cuando el monto del daño causado, exceda a veinte veces el valor diario equivalente de dicha Unidad.
 
 En caso de reincidencia, la sanción será de uno a tres años de prisión y la multa se incrementará hasta un cincuenta por ciento, de acuerdo al monto del daño ocasionado.
 
@@ -2099,25 +2103,25 @@ En caso de reincidencia, la sanción será de uno a tres años de prisión y la 
 
 Al que se apodere de una cosa mueble ajena, sin consentimiento de quien pueda otorgarlo conforme a la ley, se le aplicarán las siguientes penas:
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-I.- Prisión de seis meses a dos años y multa de 50 a 100 días, cuando el valor de lo robado no exceda de cincuenta veces el salario;
+I.- Prisión de seis meses a dos años y multa de 50 a 100 veces la Unidad de Medida y Actualización vigente, cuando el valor de lo robado no exceda de cincuenta veces el valor diario equivalente de dicha Unidad;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-II.- Prisión de dos a cuatro años y multa de 100 a 150 días cuando el valor de lo robado sea de cincuenta a quinientas veces el salario;
+II.- Prisión de dos a cuatro años y multa de 100 a 150 veces la Unidad de Medida y Actualización vigente, cuando el valor de lo robado sea de cincuenta a quinientas veces el valor diario equivalente de dicha Unidad;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-III.- Prisión de cuatro a seis años y multa de 150 a 200 días, cuando el valor de lo robado sea quinientas a mil veces el salario mínimo;
+III.- Prisión de cuatro a seis años y multa de 150 a 200 veces la Unidad de Medida y Actualización vigente, cuando el valor de lo robado sea quinientas a mil veces el valor diario equivalente de dicha Unidad;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-IV.- Prisión de seis a diez años y multa de 200 a 300 días, cuando el valor de lo robado exceda de mil veces el salario;
+IV.- Prisión de seis a diez años y multa de 200 a 300 veces la Unidad de Medida y Actualización vigente, cuando el valor de lo robado exceda de mil veces el valor diario equivalente de dicha Unidad;
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-V.- Prisión de uno a cinco años y multa de cincuenta a doscientos días, si por alguna circunstancia la cuantía del robo no fuere estimable en dinero o si por su naturaleza no se hubiere fijado su valor.
+V.- Prisión de uno a cinco años y multa de cincuenta a doscientas veces la Unidad de Medida y Actualización vigente, si por alguna circunstancia la cuantía del robo no fuere estimable en dinero o si por su naturaleza no se hubiere fijado su valor.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 1999)</small>
 
@@ -2513,7 +2517,9 @@ ARTICULO 243 SEXTUS.- En los casos previstos en este Capítulo, el Ministerio P�
 
 Los delitos previstos por este título sólo se perseguirán por querella, con excepción de los delitos de robo, abigeato, extorsión y receptación que se perseguirán de oficio. Estos delitos, salvo el de extorsión, también serán perseguibles por querella, cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubino, adoptante o adoptado, pariente por afinidad hasta el segundo grado y por los terceros que hubieren intervenido en su ejecución con aquéllos.
 
-Los tipos penales de robo y abigeato cuya cuantía de lo apoderado no exceda de quinientas veces el salario y no concurra alguna de las calificativas previstas por el artículo 206 de este Código en lo correspondiente, también serán perseguibles por querella, siempre y cuando el inculpado no se dedique en forma reiterada a su comisión. En estos casos, el perdón del ofendido o del legitimado para otorgarlo sólo surtirá efectos cuando el inculpado pague a satisfacción de aquél, el monto de la reparación de los daños y perjuicios, dejándose constancia en autos de dicho pago.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Los tipos penales de robo y abigeato cuya cuantía de lo apoderado no exceda de quinientas veces la Unidad de Medida y Actualización vigente y no concurra alguna de las calificativas previstas por el artículo 206 de este Código en lo correspondiente, también serán perseguibles por querella, siempre y cuando el inculpado no se dedique en forma reiterada a su comisión. En estos casos, el perdón del ofendido o del legitimado para otorgarlo sólo surtirá efectos cuando el inculpado pague a satisfacción de aquél, el monto de la reparación de los daños y perjuicios, dejándose constancia en autos de dicho pago.
 
 Se perseguirá por querella el delito de receptación, cuando el objeto o producto receptado provengan de la comisión de un delito también perseguible a instancia de parte ofendida.
 
@@ -2827,25 +2833,43 @@ Se impondrá prisión de seis meses a cinco años y de 15 a 60 días multa, al q
 
 Las mismas penas se impondrán al que a sabiendas y con los fines a que se refiere el artículo anterior, haga uso de un documento falso o alterado, o haga uso indebido de un documento verdadero expedido a favor de otro, como si hubiera sido expedido a su nombre.
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 265 BIS.- Se impondrán de tres a nueve años de prisión y de ciento cincuenta a cuatrocientos cincuenta días de salario mínimo de multa al que, sin consentimiento de quien esté facultado para ello:
+ARTICULO 265 BIS.- Se impondrán de tres a nueve años de prisión y de ciento cincuenta a cuatrocientas cincuenta veces la Unidad de Medida y Actualización vigente de multa al que, sin consentimiento de quien esté facultado para ello:
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2008)</small>
 
 I.- Produzca, imprima, enajene, distribuya, altere o falsifique, aún gratuitamente, tarjetas, títulos o documentos utilizados para el pago de bienes y servicios o para disposición de efectivo;
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2008)</small>
+
 II.- Adquiera, utilice, posea o detente, indebidamente, tarjetas, títulos o documentos para el pago de bienes y servicios, a sabiendas de que son alterados o falsificados;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2008)</small>
 
 III.- Adquiera, utilice, posea o detente, indebidamente, tarjetas, títulos, o documentos auténticos para el pago de bienes y servicios o para disposición de efectivo;
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2008)</small>
+
 IV.- Altere, copie o reproduzca, indebidamente, los medios de identificación electrónica de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2008)</small>
 
 V.- Acceda indebidamente a los equipos electromagnéticos o sistemas de cómputo de las instituciones emisoras de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo; o
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2008)</small>
+
 VI.- Adquiera, utilice, posea o detente equipos electromagnéticos o electrónicos para sustraer en forma indebida la información contenida en la cinta magnética de tarjetas, títulos o documentos para el pago de bienes y servicios o para disposición de efectivo.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2008)</small>
 
 Las mismas penas se impondrán a quien utilice o revele indebidamente información confidencial o reservada de la institución o persona que legalmente esté facultada para emitir tarjetas, títulos o documentos utilizados para el pago de bienes y servicios. Asimismo, se impondrán similares penas a quien posea o detente en forma indebida a través de cualquier medio o equipos electromagnéticos o electrónicos información confidencial o reservada de la institución que legalmente esté facultada para emitir tarjetas, títulos o documentos utilizados para el pago de bienes y servicios.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2008)</small>
+
 Si el sujeto activo es empleado o dependiente del ofendido, las penas aumentarán en una mitad.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2008)</small>
 
 En el caso de que se actualicen otros delitos con motivo de las conductas a que se refiere este Artículo, se aplicarán las reglas del concurso.
 
@@ -2933,11 +2957,13 @@ Las mismas penas se impondrán a quien, no acuda a la autoridad o a sus agentes 
 
 Quien resultare responsable del delito de trata de personas, además del decomiso de todos los bienes producto de las conductas antes descritas, se impondrán las siguientes penas:
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-I.- De seis a doce años de prisión y multa de quinientos a mil quinientos días de salario mínimo.
+I.- De seis a doce años de prisión y multa de quinientos a mil quinientas veces la Unidad de Medida y Actualización vigente; y
 
-II.- De nueve a dieciocho años de prisión y multa de setecientos cincuenta a dos mil doscientos cincuenta días de salario mínimo, si el delito es cometido en contra de persona menor de dieciocho años de edad o en contra de persona que no tenga capacidad para comprender el significado del hecho o para resistirlo.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+II.- De nueve a dieciocho años de prisión y multa de setecientos cincuenta a dos mil doscientos cincuenta veces la Unidad de Medida y Actualización vigente, si el delito es cometido en contra de persona menor de dieciocho años de edad o en contra de persona que no tenga capacidad para comprender el significado del hecho o para resistirlo.
 
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2010)</small>
 
@@ -2953,9 +2979,11 @@ En los casos señalados en este inciso el juez podrá, atendiendo a las circunst
 
 Cuando en la comisión del delito de trata de personas concurra otro delito, se aplicarán las reglas del concurso establecidas en el Código Penal del Estado.
 
-> <small>(ADICIONADO P.O. 4 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 274 TER.- Al que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión del delito de trata de personas, se le impondrá la pena de seis meses a dos años de prisión y de cincuenta a doscientos días de salario mínimo, como multa.
+ARTICULO 274 TER.- Al que pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión del delito de trata de personas, se le impondrá la pena de seis meses a dos años de prisión y de cincuenta a doscientas veces la Unidad de Medida y Actualización vigente, como multa.
+
+> <small>(ADICIONADO P.O. 4 DE OCTUBRE DE 2010)</small>
 
 Las mismas penas se impondrán a quien, pudiendo hacerlo, no acuda a la autoridad o a sus agentes para denunciar el delito de trata de personas de cuya comisión tenga noticia.
 
@@ -3267,7 +3295,9 @@ No cometen este delito los trabajadores que se coaliguen en ejercicio de sus der
 
 Al servidor público que con carácter de tal o a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija por sí o por medio de otro, dinero, valores, servicios o cualquier otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la ley, se le impondrá de seis meses a tres años de prisión y de 30 a 180 días multa.
 
-Cuando la cantidad o el valor de lo exigido indebidamente, exceda de mil veces el salario mínimo, la pena será de uno a seis años de prisión y de 30 a 180 días multa.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando la cantidad o el valor de lo exigido indebidamente, exceda de mil veces la Unidad de Medida y Actualización vigente, la pena será de uno a seis años de prisión y de 30 a 180 veces la Unidad de Medida y Actualización vigente de multa.
 
 ### CAPITULO II. FRAUDE PROCESAL
 
@@ -3341,9 +3371,9 @@ Las mismas penas se aplicarán al que, a sabiendas, adquiera indebidamente o hag
 
 ### CAPITULO III BIS. DELITOS CONTRA El AMBIENTE
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 349 TER.- Al que, sin contar con la autorización que se requiera o en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas, así como, a las normas técnicas ecológicas aplicables, desmonte, destruya la vegetación natural, cambie el uso del suelo; se le impondrá de uno a ocho años de prisión, así como, una multa de doscientos a quinientos días de salario mínimo vigente en el Estado.
+ARTICULO 349 TER.- Al que, sin contar con la autorización que se requiera o en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas, así como, a las normas técnicas ecológicas aplicables, desmonte, destruya la vegetación natural, cambie el uso del suelo; se le impondrá de uno a ocho años de prisión, así como, una multa de doscientos a quinientas veces la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -3371,9 +3401,11 @@ Será considerado como agravante, el que estos residuos industriales se deposite
 
 X.- Haya sido sancionado administrativamente en dos o más ocasiones por la autoridad ecológica competente y no obstante ello, persista en la misma conducta dañosa al ambiente.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 349 QUINQUIES.- Se impondrá prisión de dos a cuatro años y multa de ciento cincuenta a quinientos días de salario mínimo vigente en el Estado, a los prestadores de servicios ambientales autorizados, Centros de Verificación, laboratorios y/o cualquier persona física o moral que, de manera dolosa o culposa, proporcione documentación o información falsa o alterada, u omita datos, con el objeto de que las autoridades ambientales y/o fiscales competentes, otorguen o avalen licencias, autorizaciones, registros, constancias o permisos de cualquier tipo o, cancelen sanciones o créditos fiscales.
+ARTICULO 349 QUINQUIES.- Se impondrá prisión de dos a cuatro años y multa de ciento cincuenta a quinientas veces la Unidad de Medida y Actualización vigente, a los prestadores de servicios ambientales autorizados, Centros de Verificación, laboratorios y/o cualquier persona física o moral que, de manera dolosa o culposa, proporcione documentación o información falsa o alterada, u omita datos, con el objeto de que las autoridades ambientales y/o fiscales competentes, otorguen o avalen licencias, autorizaciones, registros, constancias o permisos de cualquier tipo o, cancelen sanciones o créditos fiscales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
 Esta pena se aumentará en una mitad más, así como, la inhabilitación para ocupar cargos públicos, cuando, en la comisión de esta conducta o cualquier otro delito previsto en este Capítulo, intervenga un servidor público en ejercicio, quien, con motivo de sus funciones y haciendo uso de sus facultades; integre expedientes, otorgue o avale licencias, autorizaciones, registros, constancias o permisos de cualquier tipo que pongan en riesgo la salud pública, el medio ambiente o los recursos naturales.
 
@@ -3479,7 +3511,7 @@ Para los efectos de esta disposición, se entiende por ultraje toda acción o ex
 
 ### CAPITULO II. DELITOS ELECTORALES COMETIDOS POR PARTICULARES
 
-> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 321.
 
@@ -3491,15 +3523,15 @@ II.- Usare uniforme, insignia, distintivo o condecoración a que no tenga derech
 
 ### CAPITULO III. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS ELECTORALES
 
-> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO IV. DELITOS ELECTORALES COMETIDOS POR SERVIDORES PUBLICOS
 
-> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ### CAPITULO V. DELITOS ELECTORALES COMETIDOS POR FUNCIONARIOS PARTIDISTAS
 
-> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ## TITULO VIGESIMO. DE LOS DELITOS EN MATERIA ELECTORAL
 
@@ -3881,9 +3913,9 @@ Los vehículos y animales instrumento del delito serán asegurados y decomisados
 
 Al que a sabiendas comercie o emplee para fines industriales productos forestales de cualquier clase obtenidos subrepticiamente o sin autorización de las autoridades correspondientes, se le aplicarán de uno a cuatro años de prisión y multa de 20 a 150 días.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-ARTICULO 349 BIS.- Al que extraiga, corte, utilice, destruya, comercialice, transporte o almacene alguna de las especies de maguey pulquero, sus derivados y/o subproductos, sin la autorización requerida por la Norma Técnica Estatal NTE-SAGEH-001/2006, se le aplicará una sanción de 1 a 3 años de prisión y multa de cincuenta a cien días de salarios mínimos vigentes en el Estado de Hidalgo.
+ARTICULO 349 BIS.- Al que extraiga, corte, utilice, destruya, comercialice, transporte o almacene alguna de las especies de maguey pulquero, sus derivados y/o subproductos, sin la autorización requerida por la Norma Técnica Estatal NTESAGEH-001/2006, se le aplicará una sanción de 1 a 3 años de prisión y multa de cincuenta a cien veces la Unidad de Medida y Actualización vigente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -3921,129 +3953,235 @@ VII.- Material Electoral: Los elementos físicos, tales como urnas, canceles o e
 
 ###### ARTICULO 352.
 
-Se impondrá prisión de tres meses a cinco años y multa de treinta a cien días de salario mínimo general vigente en el estado, a quien:
+Se impondrá prisión de tres meses a cinco años y multa de treinta a cien veces la Unidad de Medida y Actualización vigente, a quien:
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 I.- Vote a sabiendas que está impedido por la Ley;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 II.- Vote más de una vez en una misma elección;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 III.- Se presente a votar con una credencial de la que no sea titular;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 IV.- Suplante a otro votante en la jornada electoral;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 V.- Obstaculice o interfiera el desarrollo normal del proceso electoral;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 VI.- Se presente a una casilla electoral portando armas, independientemente de cualquier otro delito que resulte;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 VII.- Haga proselitismo o presione a los electores dentro de los tres días previos o el día de la jornada electoral, para que voten a favor o en contra de un determinado candidato, partido político o coalición, o para que se abstengan de emitir su sufragio;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 VIII.- Induzca a uno o más electores a abstenerse de votar;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 IX.- Obligue a votar por determinado candidato, partido o coalición a las personas que se encuentren bajo su autoridad o dependencia económica;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 X.- Ejerza presión sobre los funcionarios de la mesa directiva de casilla, representantes de partido o de los electores, impidiendo el desarrollo normal de la jornada electoral;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XI.- Impida que una casilla electoral se instale oportunamente u obstruya su funcionamiento o clausura conforme a la Ley;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XII.- Acepte o difunda su candidatura para un cargo de elección popular sin reunir los requisitos de elegibilidad;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XIII.- Acepte nombramiento para el desempeño de alguna función electoral a sabiendas de que no reúne los requisitos legales;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XIV.- No teniendo el carácter de funcionario de casilla se ostente como tal o usurpe sus funciones, independientemente de cualquier otro delito que resulte;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XV.- Obstaculice o evite la entrega de documentos y material electoral a su destinatario durante el proceso electoral;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XVI.- Recoja sin causa prevista por la Ley, credenciales para votar con fotografía de los ciudadanos;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XVII.- Viole de cualquier manera el secreto del voto;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XVIII.- Obtenga o solicite declaración firmada del elector acerca de la intención o sentido del voto;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XIX.- Impida el desempeño de las funciones de los integrantes de los órganos electorales;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XX.- Introduzca, sustraiga, altere, destruya, se apodere o haga uso indebido de documentos o material electoral;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XXI.- Indebidamente destruya o inutilice propaganda electoral;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XXII.- Solicite votos por paga, dádiva o promesa de dinero u otra recompensa;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XXIII.- Obstaculice o se posesione de oficinas electorales, impida la entrada o salida de los funcionarios electorales;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XXIV.- Propale noticias falsas en torno al desarrollo del proceso electoral o respecto de los resultados oficiales del cómputo de la elección;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XXV.- Expida una o más facturas a un partido político o candidato, alterando el costo real de los servicios prestados;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XXVI.- Impida u obstaculice la realización de actos de campaña;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XXVII.- Dentro de los ocho días previos a la elección y hasta la hora oficial del cierre de las casillas, publique o difunda por cualquier medio los resultados de encuestas o sondeos de opinión que den a conocer las preferencias de los ciudadanos.
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XXVIII.- Propale o divulgue en la casilla electoral la intención de su voto, pretendiendo inducir el sufragio de los demás electores;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XXIX.- El día de la jornada impida el derecho del ciudadano de votar; y
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XXX.- Obtenga o utilice fondos, bienes o servicios provenientes de actividades ilícitas, para la promoción del voto o actividades propias de los partidos políticos.
+
+> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
 Si en los casos anteriores se empleara violencia o fuesen cometidos por dos o más particulares o sean cometidos por servidores públicos, funcionarios electorales o partidistas, se aumentará hasta una mitad más la punibilidad aplicable prevista en este artículo.
 
-> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 353.
 
-Se impondrá prisión de seis meses a tres años y multa de cien a quinientos días de salario mínimo general vigente en el Estado, a los ministros de culto religioso que por cualquier medio en el desarrollo de actos propios de su ministerio, induzcan expresamente al electorado a la abstención, a votar en favor o en contra de un candidato, partido político o coalición.
+Se impondrá prisión de seis meses a tres años y multa de cien a quinientas veces la Unidad de Medida y Actualización vigente, a los ministros de culto religioso que por cualquier medio en el desarrollo de actos propios de su ministerio, induzcan expresamente al electorado a la abstención, a votar en favor o en contra de un candidato, partido político o coalición.
 
-> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 354.
 
-Se impondrá prisión de tres meses a cinco años y multa de cien a trescientos días de salario mínimo general vigente en el Estado, a quien se ostente como candidato de un partido político o coalición durante el proceso electoral, sin que hubiere sido registrado por el mismo.
+Se impondrá prisión de tres meses a cinco años y multa de cien a trescientas veces la Unidad de Medida y Actualización vigente, a quien se ostente como candidato de un partido político o coalición durante el proceso electoral, sin que hubiere sido registrado por el mismo.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P. O. 11 DE MAYO DE 2007)</small>
 
 ###### ARTICULO 355.
 
-Se impondrá prisión de uno a seis años y multa de cincuenta a doscientos días de salario mínimo general vigente en el Estado, así como destitución del cargo o empleo, al funcionario electoral que:
+Se impondrá prisión de uno a seis años y multa de cincuenta a doscientas veces la Unidad de Medida y Actualización vigente, así como destitución del cargo o empleo, al funcionario electoral que:
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 I.- Se abstenga de cumplir deliberadamente y sin causa justificada con sus obligaciones electorales, impidiendo el desarrollo normal del proceso electoral;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 II.- Obstruya el desarrollo normal de la votación;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 III.- Se rehúse a aceptar el voto de quien tenga derecho a emitirlo;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 IV.- Se niegue a reconocer, sin causa justificada, la personalidad de los representantes de los partidos políticos, coaliciones u observadores electorales, debidamente acreditados, o bien, les impidan el ejercicio de las atribuciones que les corresponden;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 V.- Instale, abra o cierre una casilla fuera de los tiempos y formas previstos por la ley de la materia, la instale en lugar distinto al legalmente señalado o impida su instalación;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 VI.- Teniendo en custodia el material o documentación electoral, se niegue a entregarlo cuando sea requerido por quien tenga derecho a ello;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 VII.- Por sus acciones u omisiones imposibilite el cumplimiento de las etapas del proceso electoral;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 VIII.- Altere los resultados electorales, sustituya, destruya o haga uso indebido de las boletas o documentos electorales;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 IX.- Durante el ejercicio de sus funciones ejerza presión sobre los electores o los induzca a votar por un candidato o partido determinado durante el proceso electoral;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 X.- Permita o tolere, que un ciudadano emita su voto a sabiendas que no cumple con los requisitos legales, o que se introduzcan ilícitamente una o más boletas electorales en las urnas;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XI.- Siendo funcionario de mesa directiva de casilla, consienta que la votación se lleve a cabo en forma ilegal; retenga u omita entregar a la autoridad electoral competente los paquetes electorales en los términos previstos por la Ley;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XII.- Propale noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XIII.- Conociendo la existencia de condiciones o actividades que atenten con la libertad y el secreto del voto, no tome las medidas conducentes;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XIV.- Estando obligado, no dote oportunamente del material necesario para el funcionamiento de la casilla;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XV.- Solicite o retenga credenciales de elector, sin estar facultado legalmente para ello;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XVI.- Niegue o retarde la tramitación de los recursos interpuestos por los partidos políticos o sus representantes;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XVII.- Siendo funcionario de casilla, se abstenga de levantar debida y oportunamente las actas correspondientes u omita la entrega de las copias de ellas a los representantes de los partidos políticos;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XVIII.- Se niegue a hacer constar o informar oportunamente las violaciones en el desarrollo del proceso electoral;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XIX.- Al presidente de una casilla que dolosamente se abstenga de concurrir al lugar y a la hora señalados para la apertura e instalación de la misma, o se retire en forma definitiva de ella antes de la clausura, sin causa justificada prevista en la Ley;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XX.- Al integrante de los Consejos Distritales o Municipales electorales que no se presente, o se separe mientras no se concluyan los trabajos de la sesión de cómputo, entrega de la constancia de mayoría y declaración de validez de la elección respectiva;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XXI.- Siendo presidente de casilla admita en la misma la presencia de personas distintas a las que legalmente puedan permanecer en ella; y
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XXII.- Consienta que la votación se lleve a cabo cometiendo cualquiera de los ilícitos previstos en este Título.
 
@@ -4051,27 +4189,49 @@ XXII.- Consienta que la votación se lleve a cabo cometiendo cualquiera de los i
 
 ###### ARTICULO 356.
 
-Se impondrá prisión de uno a siete años y multa de cien a trescientos días de salario mínimo general vigente en el Estado, y destitución del cargo, empleo o comisión que desempeñe e inhabilitación para obtener algún cargo público hasta por cinco años, al servidor público que:
+Se impondrá prisión de uno a siete años y multa de cien a trescientas veces la Unidad de Medida y Actualización vigente, y destitución del cargo, empleo o comisión que desempeñe e inhabilitación para obtener algún cargo público hasta por cinco años, al servidor público que:
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 I.- Se abstenga de dar cumplimiento a lo establecido en el artículo 205 de la Ley Electoral del Estado, cuando sea requerido por las autoridades electorales competentes;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 II.- Altere o inutilice un documento electoral, o a sabiendas lo presente o lo haga valer alterado;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 III.- Teniendo fe pública, certifique hechos falsos relativos a la función electoral, o sin causa justificada se niegue a dar fe de los actos en que debe intervenir en los términos de la Ley Electoral;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 IV.- Abusando de sus funciones, directamente o por instrucciones dadas a personas bajo su dependencia jerárquica, obtenga de los electores sufragios a favor de una candidatura determinada o los induzca a la abstención;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 V.- Prive de la libertad a los candidatos o representantes de un partido político, o personas que realicen actos de propaganda, pretextando faltas que no hayan cometido;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 VI.- Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas, a la emisión del sufragio a favor de un partido político, candidato o coalición;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 VII.- Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como: vehículos, inmuebles, equipos y servicios, al apoyo de un partido político candidato o coalición sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que los presten al servicio de un partido político, candidato o coalición;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 VIII.- Impida, sin motivo e infundadamente, la realización de cualquier acto de campaña que se esté realizando pacíficamente;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 IX.- Estando obligado a dar aviso al registro electoral de los fallecimientos, estados de interdicción, inhabilitaciones, declaración de ausencia y presunción de muerte, omita hacerlo oportunamente;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 X.- Permita que se fije propaganda política en las oficinas públicas de su encargo; y
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XI.- Ejerza presión sobre sus subordinados para emitir su voto en favor de un partido político, coalición o candidato.
 
@@ -4079,39 +4239,65 @@ XI.- Ejerza presión sobre sus subordinados para emitir su voto en favor de un p
 
 ###### ARTICULO 357.
 
-Se impondrá prisión de uno a siete años y multa de cien a doscientos días de salario mínimo general vigente en el Estado, al funcionario partidista que:
+Se impondrá prisión de uno a siete años y multa de cien a doscientas veces la Unidad de Medida y Actualización vigente, al funcionario partidista que:
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 I.- Ejerza presión sobre los electores o los induzca a votar por un candidato, partido o coalición determinado, en el interior de la casilla o en el lugar donde los propios electores se encuentren formados;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 II.- Sustraiga, destruya, altere, falsifique o haga uso indebido de documentos electorales;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 III.- Obstaculice el desarrollo normal de la votación sin mediar causa justificada, o ejerza violencia física o moral sobre los funcionarios electorales;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 IV.- Propale noticias falsas en torno a la jornada electoral respecto de sus resultados;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 V.- Impida con violencia o presión la instalación, apertura o cierre de una casilla;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 VI.- Mediante violencia obligue a los funcionarios electorales a la apertura o cierre de los tiempos previstos en la ley de la materia;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 VII.- Impida o dificulte por sí o por interpósita persona la distribución, entrega de documentación electoral o paquetes electorales, a los consejos distritales o municipales;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 VIII.- Incite a la población a realizar los actos señalados en la fracción anterior;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 IX.- Solicite o retenga credenciales de elector sin estar facultado legalmente para ello;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 X.- Dificulte por sí mismo o por interpósita persona el funcionamiento de las oficinas electorales, asimismo, impedir la entrada o salida a las mismas a los funcionarios electorales, así como a otras personas;
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XI.- Fije o haga propaganda electoral en lugares o días prohibidos por la Ley Electoral del Estado;
 
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
+
 XII.- Prepare, organice, participe o induzca a realizar actos violentos que alteren el desarrollo del proceso electoral; y
+
+> <small>(ADICIONADA, P. O. 11 DE MAYO DE 2007)</small>
 
 XIII.- Obtenga o utilice fondos, bienes o servicios provenientes de actividades ilícitas para la promoción del voto o actividades propias de los partidos políticos.
 
-> <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 358.
 
-Se impondrá prisión de tres meses a cinco años y multa de 100 a 300 días de salario mínimo vigente en el estado al que oculte, distorsione o niegue la información que le sea requerida por la autoridad electoral que corresponda.
+Se impondrá prisión de tres meses a cinco años y multa de 100 a 300 veces la Unidad de Medida y Actualización vigente al que oculte, distorsione o niegue la información que le sea requerida por la autoridad electoral que corresponda.
 
 > <small>(ADICIONADO, P. O. 11 DE MAYO DE 2007)</small>
 
@@ -4402,3 +4588,13 @@ P.O. 15 DE AGOSTO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 701.- QUE ADICIONA AL TÍTULO DÉCIMO NOVENO EL CAPÍTULO III TER DENOMINADO "DELITOS EN CONTRA DE LOS ANIMALES" CON LOS ARTÍCULOS 349 DECIES Y 349 UNDECIES, AL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara (sic) reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
