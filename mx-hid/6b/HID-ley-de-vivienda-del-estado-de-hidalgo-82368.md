@@ -4,7 +4,7 @@ identifier: "HID-ley-de-vivienda-del-estado-de-hidalgo-82368"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-18"
-last_updated: "2013-09-02"
+last_updated: "2016-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82368&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VIVIENDA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Alcance al Periódico Oficial del estado de Hidalgo, el lunes 18 de julio de 2011.
 
@@ -121,19 +121,31 @@ XVI. Sistema de Información: El Sistema Estatal de Información e Indicadores d
 
 XVII. Vivienda: Área construida como alojamiento de carácter permanente, destinado a satisfacer necesidades vitales de habitabilidad de una o varias personas;
 
-XVIII. Vivienda de Interés Medio: Aquélla cuyo valor al término de su edificación, se encuentre dentro del parámetro que resulte de multiplicar veintiséis y hasta sesenta y seis veces el salario mínimo general diario vigente en el Estado por 365 días;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XIX. Vivienda de Interés Social: Aquélla cuyo valor al término de su edificación, se encuentre dentro del parámetro que resulte de multiplicar catorce y hasta veintiséis veces el salario mínimo general diario vigente en el Estado por 365 días;
+XVIII. Vivienda de Interés Medio: Aquélla cuyo valor al término de su edificación, se encuentre dentro del parámetro que resulte de multiplicar veintiséis y hasta sesenta y seis veces la Unidad de Medida y Actualización por 365 días;
 
-XX. Vivienda Económica: Aquélla cuyo valor al término de su edificación, se encuentre dentro del parámetro que resulte de multiplicar cinco y hasta catorce veces el salario mínimo general diario vigente en el Estado por 365 días;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XXI. Vivienda Popular: Aquélla cuyo valor al término de su edificación, no exceda del total que resulte de multiplicar por cinco veces el salario mínimo general diario vigente en el Estado, por 365 días;
+XIX. Vivienda de Interés Social: Aquélla cuyo valor al término de su edificación, se encuentre dentro del parámetro que resulte de multiplicar catorce y hasta veintiséis veces la Unidad de Medida y Actualización en el Estado por 365 días;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XX. Vivienda Económica: Aquélla cuyo valor al término de su edificación, se encuentre dentro del parámetro que resulte de multiplicar cinco y hasta catorce veces la Unidad de Medida y Actualización por 365 días;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXI. Vivienda Popular: Aquélla cuyo valor al término de su edificación, no exceda del total que resulte de multiplicar por cinco veces la Unidad de Medida y Actualización por 365 días;
 
 XXII. Vivienda Progresiva: Aquélla que se construye en etapas de acuerdo a los recursos del beneficiario;
 
-XXIII. Vivienda de Tipo Residencial Alto.- Aquélla cuyo valor al término de su edificación, exceda del total que resulte de multiplicar por ciento cuarenta y siete veces el salario mínimo general diario vigente en el Estado, por 365 días; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-XXIV. Vivienda de Tipo Residencial Medio.- Aquélla cuyo valor al término de su edificación, se encuentre dentro del parámetro que resulte de multiplicar sesenta y seis y hasta ciento cuarenta y siete veces el salario mínimo general diario vigente en el Estado por 365 días.
+XXIII. Vivienda de Tipo Residencial Alto: Aquélla cuyo valor al término de su edificación, exceda del total que resulte de multiplicar por ciento cuarenta y siete veces la Unidad de Medida y Actualización, por 365 días; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XXIV. Vivienda de Tipo Residencial Medio: Aquélla cuyo valor al término de su edificación, se encuentre dentro del parámetro que resulte de multiplicar sesenta y seis y hasta ciento cuarenta y siete veces la Unidad de Medida y Actualización por 365 días.
 
 ## TÍTULO SEGUNDO. DE LA POLÍTICA, COMPETENCIA Y ATRIBUCIONES
 
@@ -998,3 +1010,13 @@ El presente Decreto entrará en vigor al día siguiente al de su Publicación en
 P.O. 2 DE SEPTIEMBRE DE 2013.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial.
+
+P.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 2 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LEYES DEL ESTADO DE HIDALGO, EN MATERIA DE DESINDEXACIÓN DEL SALARIO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
+
+TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
