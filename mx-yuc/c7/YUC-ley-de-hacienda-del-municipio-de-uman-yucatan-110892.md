@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-uman-yucatan-110892"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-29"
-last_updated: "2015-12-29"
+last_updated: "2016-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE UMÁN, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2016.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 29 de Diciembre de 2015.
 
@@ -347,7 +347,9 @@ Se aceptarán como medio de pago, el dinero en efectivo en moneda nacional y cur
 
 También, se aceptará el pago mediante tarjeta de crédito, débito o monedero electrónico, cuando en las cajas recaudadoras se encuentren habilitados los dispositivos necesarios para la recepción de dichos medios de pago y para las contribuciones o grupo de contribuyentes que determine la Tesorería Municipal.
 
-Cuando en la presente ley se haga mención de las palabras “salario”, “SMV” o “salario mínimo” dichos términos se entenderán indistintamente como el salario mínimo general diario vigente en el Estado de Yucatán en el momento de realización de la situación jurídica o de hecho prevista en la misma. Tratándose de multas, el salario que servirá de base para su cálculo será el vigente al momento de individualizar la sanción.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando en la presente ley se haga mención de las palabras "Unidad de Media" ó "UMA" la referencia económica en pesos para determinar la cuantía del pago de las obligaciones y supuestos previstos. El Instituto Nacional de Estadística y Geografía determinará el valor diario de la Unidad de Medida y Actualización y lo publicará en el Diario Oficial de la Federación. Tratándose de multas, la Unidad de Medida y Actualización servirá de base para su cálculo será el vigente al momento de individualizar la sanción.
 
 ###### Artículo 28.
 
@@ -457,29 +459,31 @@ Una vez vencido este término sin que se haya cumplido con éstas obligaciones, 
 
 En adición a lo señalado en el párrafo inmediato anterior, el Director de Finanzas y Tesorería Municipal estará facultado para revocar la licencia de funcionamiento para aquellos casos que para su obtención o revalidación se hayan proporcionado o presentado información o documentos falsos o cuando se le revoque la licencia de uso de suelo por resolución de autoridad competente.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 38.
 
 Las personas físicas o morales que deban obtener por apertura la licencia de funcionamiento municipal, tendrán que anexar a la solicitud que presentarán a la Dirección de Finanzas y Tesorería Municipal los siguientes documentos vigentes:
 
-I. Copia simple de su inscripción en el Registro Federal de Contribuyentes;
+l. Copia simple de su inscripción en el Registro Federal de Contribuyentes;
 
-II. Credencial para votar con fotografía;
+II. Credencial para votar con fotografía del propietario o su representante;
 
-III. Comprobante domiciliario del dueño o representante;
+III. Comprobante domiciliario del propietario o su representante;
 
-IV. Visto bueno del Programa Interno de Protección Civil, de acuerdo al Reglamento Municipal de Protección Civil;
+IV. Copia del comprobante de su Clave Única de Registro de Población del propietario o su representante;
 
-V. Comprobante del último pago del agua potable para acreditar que no adeuda el servicio;
+V. Dictamen otorgado por la Dirección de la Unidad Municipal de Protección Civil donde se otorga el visto bueno al Programa Interno de Protección Civil, de acuerdo al Reglamento Municipal de Protección Civil;
 
-VI. El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario, deberá presentar el convenio o contrato vigente, u otro documento que compruebe la legal posesión del mismo;
+VI. Comprobante del último pago del agua potable para acreditar que no adeuda el servicio;
 
-VII. Licencia de Uso del Suelo para iniciar el trámite de la Licencia de Funcionamiento Municipal;
+VIl. El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario, deberá presentar el convenio o contrato vigente, u otro documento que compruebe la legal posesión del mismo;
 
-VIII. Autorización, determinación, licencia o permiso expedido por la autoridad sanitaria, que corresponda al domicilio y al giro de la licencia de funcionamiento municipal;
+VIII. Licencia de Uso del Suelo vigente;
 
-IX. El recibo de pago del derecho correspondiente al giro en su caso;
+IX. Autorización, determinación, licencia o permiso expedido por la autoridad sanitaria, que corresponda al domicilio y al giro de la licencia de funcionamiento municipal;
 
-X. Copia del comprobante de su Clave Única de Registro de Población, en su caso;
+X. El recibo de pago del derecho correspondiente al giro en su caso;
 
 XI. Autorización de Ocupación en los casos previstos en el Reglamento de Construcciones del Municipio de Umán, de existir el mismo o en el Reglamento que así lo prevenga;
 
@@ -487,13 +491,11 @@ XII. Tratándose de estacionamientos públicos, la constancia de asignación de 
 
 XIII. Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente del pago de derechos, acreditándolo con copia del recibo oficial correspondiente o bien del recibo que emita el organismo paramunicipal administrador del servicio;
 
-XIV. Copia del comprobante de su Clave Única de Registro de Población, en su caso, y,
+XIV. Programa de recolección de residuos sólidos validado por la Dirección de Servicios Públicos e Imagen Municipal,
 
-XV. Autorización de ocupación en los casos previstos en el Reglamento de Construcciones del Municipio de Umán, Yucatán.
+XV. Copia del contrato de recolección de residuos y,
 
-Cuando el titular de una licencia de funcionamiento correspondiente a un comercio, negocio o establecimiento pretenda funcionar con un giro diferente o en otro domicilio deberá de obtener una nueva licencia satisfaciendo los requisitos anteriores.
-
-En ningún caso la vigencia de la licencia de funcionamiento excederá del periodo de la administración municipal que la expidió.
+XVI. Autorización de ocupación en los casos previstos en el Reglamento de Construcciones del Municipio de Umán, Yucatán.
 
 ###### Artículo 39.
 
@@ -619,7 +621,9 @@ En caso contrario, la Dirección de Finanzas y Tesorería Municipal cobrará el 
 
 La expedición de una nueva cédula se hará siempre a solicitud del contribuyente, previo pago de los derechos correspondientes.
 
-Cuando un inmueble sea otorgado en uso, goce, se permita su ocupación por cualquier título y con motivo o de la ocupación se genere una contraprestación, el impuesto predial se causará sobre la base de rentas, frutos civiles o cualquier otro tipo de contraprestación a la tasa señalada en el artículo siguiente.
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Cuando un inmueble sea otorgado en uso, goce, se permita su ocupación por cualquier título y con motivo o de la ocupación se genere una contraprestación, el impuesto predial se causará sobre la base de rentas, frutos civiles o cualquier otro tipo de contraprestación a la tasa señalada en la Ley de Ingresos.
 
 ###### Artículo 45.
 
@@ -650,6 +654,10 @@ Sólo en los casos de que la estructura de algún inmueble no admita una cómoda
 El impuesto predial se causará sobre la base de rentas, frutos civiles o cualquier otra contraprestación pactada, cuando el inmueble de que se trate, hubiese sido otorgado en arrendamiento, subarrendamiento, convenio de desocupación o cualquier otro título o instrumento jurídico por virtud del cual se permitiere su uso y con ese motivo, se genere dicha contraprestación, aun cuando el título en el que conste la autorización o se permita el uso no se hiciere constar el monto de la contraprestación respectiva.
 
 El impuesto predial calculado sobre la base contraprestación, se pagará única y exclusivamente en el caso de que al determinarse, diere como resultado una cantidad mayor a la que se pagaría si el cálculo se efectuara sobre la base del valor catastral. No será aplicada esta base cuando los inmuebles sean destinados a sanatorios de beneficencia y centros de enseñanza reconocidos por la autoridad educativa correspondiente.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
+Para el caso de que el título generador de la contraprestación sea un convenio de desocupación y entrega, el impuesto correspondiente se causará sobre los ingresos obtenidos mensualmente, en una tasa del 5% sobre estos, toda vez que en dichos convenios no se estipula una renta sobre el inmueble materia del mismo.
 
 ###### Artículo 49.
 
@@ -1029,31 +1037,37 @@ El pago de los derechos a que se refiere esta sección deberá cubrirse con anti
 
 Por el otorgamiento de licencias o permisos a que hace referencia esta sección, se causarán y pagarán derechos de conformidad con las tarifas señaladas en la Ley de Ingresos del Municipio de Umán.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 83.
 
 Quedarán obligados al pago de los derechos para la obtención de la Licencia de Funcionamiento, todas aquéllas personas físicas o morales que deseen abrir al público, establecimientos en los que se expendan bebidas alcohólicas tales como los que de manera enunciativa pero no limitativa se relacionan a continuación:
 
-I.- Vinaterías
+l. Expendio de cerveza en envase cerrado.
 
-II.- Expendio de cerveza
+II. Cantina, bares.
 
-III.- Departamento de licores en supermercados
+III. Centros nocturnos y cabarets.
 
-IV.- Mini súper
+IV. Discotecas y clubes sociales.
 
-V.- Centros nocturnos y discotecas
+V. Salones de baile, de billar o boliche.
 
-VI.- Cantinas y bares
+VI. Fondas y loncherías.
 
-VII.- Clubes sociales
+VIl. Hoteles, moteles y posadas.
 
-VIII.- Salones de baile, de billar o boliches
+VIII. Licorerías.
 
-IX.- Restaurantes, hoteles y moteles
+IX. Tiendas de autoservicio con venta de cerveza, vino y licores.
 
-X.- Licorerías
+X. Restaurantes en general con venta de cervezas y licores.
 
-XI.- Bodega de fabricación y/o distribución de licores y cerveza
+XI. Bodega de distribución y/o fabricación de cerveza y licores.
+
+XII. Supermercado con venta de cerveza, vino y licores.
+
+Cuando por su denominación algún establecimiento no se encuentre comprendido en la clasificación anterior, se ubicará en aquél que por sus características le sea más semejante.
 
 ###### Artículo 84.
 
@@ -1067,6 +1081,8 @@ Los establecimientos con venta de bebidas alcohólicas que no cuenten con licenc
 
 Para efecto de la expedición de licencias de funcionamiento se deberá cumplir con lo dispuesto en el Reglamento relativo a los establecimientos con venta de bebidas alcohólicas en el Municipio de Umán, para el caso de que lo hubiere, así como en las disposiciones establecidas en el Bando de Policía y Buen Gobierno del Municipio de Umán, y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 86.
 
 La tarifa que se cobrará por las anuencias para el funcionamiento de establecimientos y/o giros relacionados con la venta de bebidas alcohólicas y/o cerveza, será de conformidad a lo previsto en la Ley de Ingresos del Municipio.
@@ -1077,29 +1093,141 @@ De igual manera, para el otorgamiento y renovación de licencias nuevas de funci
 
 Los giros de prestación de servicios serán los siguientes:
 
-I.- Centros nocturnos y cabarets;
+l. Tendejones
 
-II.- Cantinas y bares y expendios o agencias de cerveza;
+II. Tienda de abarrotes
 
-III.- Restaurants-bar;
+III. Minisúper
 
-IV.- Discotecas y clubes sociales;
+IV. Súper mercado
 
-V.- Salones de baile de billar o boliche;
+V. Farmacias
 
-VI.- Restaurantes en general sin venta de cervezas;
+VI. Consultorio médico
 
-VII.- Fondas y loncherías;
+VIl. Laboratorios y análisis clínicos
 
-VIII.- Hoteles, moteles y posadas;
+VIII. Farmacia y consultorio
 
-IX.- Vinaterías y licorerías;
+IX. Veterinaria
 
-X.- Tiendas de autoservicio con venta de cerveza vinos y licores;
+X. Pizzería
 
-XI.- Restaurants en general con venta de cervezas y licores;
+XI. Molino y tortillería.
 
-XII.- Bodega de distribución de cervezas, licores y supermercados.
+XII. Nevería, frapería, dulcería
+
+XIII. Panadería
+
+XIV. Pastelería
+
+XV. Rosticería y asadero
+
+XVI. Lonchería, Taquería
+
+XVII. Cocinas económicas
+
+XVIII. Restaurantes sin venta de bebidas alcohólicas
+
+XIX. Venta de frutas y verduras
+
+XX. Carnicería
+
+XXI. Carnicería mayoristas
+
+XXII. Zapatería
+
+XXIII. Tienda de ropa
+
+XXIV. Almacén de ropa
+
+XXV. Bisutería y mercería
+
+XXVI. Sastrería y confecciones
+
+XXVII. Estancias infantiles
+
+XXVIII. Instituciones educativas del Sector Privado
+
+XXIX. Sala de fiestas
+
+XXX. Cíber
+
+XXXI. Venta y reparación de celulares
+
+XXXII. Peluquería y/o salones de belleza
+
+XXXIII. Estudio fotográfico
+
+XXXIV. Oficinas administrativas
+
+XXXV. Instituciones bancarias
+
+XXXVI. Instituciones financieras y/o de crédito
+
+XXXVII. Casa de empeño
+
+XXXVIII. Lotería y pronósticos
+
+XXXIX. Papelería
+
+XL. Lavandería
+
+XLI. Funeraria
+
+XLII. Purificadoras de agua
+
+XLIII. Hoteles, moteles
+
+XLIV. Ferretería y tlapalería
+
+XLV. Refaccionaria de bicicleta
+
+XLVI. Refaccionaria de electrónica
+
+XLVII. Refaccionaria de motocicletas
+
+XLVIII. Refaccionaria automotriz
+
+XLIX. Llantera
+
+L. Taller de bicicletas
+
+Ll. Taller de motocicletas
+
+Lll. Taller automotriz
+
+LIII. Taller eléctrico
+
+LIV. Taller de herrería
+
+LV. Venta de material de construcción
+
+LVI. Venta de material de acero
+
+LVII. Almacén o bodega diversos
+
+LVIII. Empresas de 1 a 50 empleados
+
+LIX. Empresas de 51 a 100 empleados
+
+LX. Empresas de 101 a 150 empleados
+
+LXI. Empresas de 151 a 250 empleados
+
+LXII. Fábrica de aceros o transformación
+
+LXIII. Lavadero automotriz
+
+LXIV. Bancos de extracción de material pétreo
+
+LXV. Planta de trituración y emulsiones
+
+LXVI. Gasolineras
+
+LXVII. Recicladora de materiales al menudeo
+
+LXVIII. Recicladora de materiales al mayoreo
 
 La tarifa por la ampliación de horario y la autorización para laborar en días especiales será la establecida en la Ley de Ingresos del Municipio, previo análisis de factibilidad por parte de la Secretaría Municipal.
 
@@ -1257,21 +1385,29 @@ Son responsables solidarios del pago de estos derechos, los ingenieros, contrati
 
 #### Sección Tercera. Derechos por los servicios que presta la Dirección de Seguridad Pública y Vialidad
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 95.
 
-Es objeto del derecho por servicio de vigilancia y los relativos a vialidad, el prestado especialmente por la Dirección de Seguridad Pública y Vialidad, en materia de seguridad pública, para lo cual deberán emitir las disposiciones reglamentarias correspondientes. Estos servicios comprenden las actividades de vigilancia que se preste a toda clase de establecimientos que proporcionen servicios al público.
-
-Tratándose de servicios de vigilancia solicitados por dependencias u organismos públicos descentralizados de la Federación o del Estado, el costo del servicio será el previsto en la Ley de Ingresos Municipal.
-
-###### Artículo 96.
-
-Son sujetos obligados al pago de derechos por los servicios de vigilancia, las personas físicas o morales, incluyendo entre éstas las instituciones públicas o privadas que lo soliciten, o de oficio cuando por disposición legal sea necesario que cuente con dicho servicio.
+Son sujetos obligados al pago de derechos por los servicios de vigilancia, las personas físico (sic) o moral, incluyendo entre éstas las instituciones públicas o privadas que lo soliciten, o de oficio cuando por disposición legal sea necesario que cuente con dicho servicio.
 
 También se consideran como sujetos obligados las personas físicas o morales que requieran permisos por parte de la Dirección de Seguridad Pública y Vialidad, para efectuar ciertos eventos, trabajos o maniobras que afecten la vialidad del lugar donde se realicen.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
+###### Artículo 96.
+
+Es objeto del derecho por servicio de vigilancia y los relativos a vialidad, el servicio prestado por la autoridad municipal en materia de seguridad pública, por la vigilancia de los establecimientos que brindan servicios al público, cuya posesión legal tengan las personas mencionadas en el primer párrafo del artículo anterior, así como el otorgamiento de permisos para la realización de eventos, trabajos o maniobras que afecten la vialidad del lugar cuando éstos se realicen fuera de los horarios establecidos en las normas correspondientes.
+
+Tratándose de servicios de vigilancia solicitados por dependencias u organismos públicos descentralizados de la Federación o del Estado, el costo del servicio será el previsto en la Ley de Ingresos del Municipio.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 97.
 
-Es base para el pago del derecho a que se refiere esta sección, el número de agentes solicitados, así como el número de horas que se destinen a la prestación del servicio por la vigilancia de los establecimientos que brindan servicios al público, así como el otorgamiento de permisos para la realización de eventos, trabajos o maniobras que afecten la vialidad del lugar cuando éstos se realicen fuera de los horarios establecidos en las normas correspondientes.
+Es base para el pago del derecho a que se refiere esta sección, el número de agentes solicitados, así como el número de horas que se destinen a la prestación del servicio por la vigilancia de los establecimientos que brindan servicios al público, así como el otorgamiento de permisos para la realización de eventos, trabajos o maniobras que afecten la vialidad del lugar.
+
+A solicitud expresa del Director de Seguridad Pública, en consideración a la actividad o trabajo a realizar por los cuales se causen los derechos previstos en este artículo, el Director de Finanzas y Tesorero Municipal podrá disminuir las cuotas establecidas en este mismo artículo.
 
 ###### Artículo 98.
 
@@ -1355,7 +1491,19 @@ XII.- Renta de bóvedas para infantes por dos años;
 
 XIII.- Renta de bóvedas para recién nacidos por dos años.
 
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XIV.- Servicios de velación;
+
+> <small>(ADICIONADA, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
+XV.- Servicios de traslado.
+
 Las tarifas aplicables para el cobro de los mismos, serán las previstas en la Ley de Ingresos del Municipio.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
+En el caso de personas de escasos recursos el Director de Finanzas y Tesorero Municipal, podrá disminuir a petición expresa del Director de Desarrollo Social, las cuotas señaladas en la Ley de Ingresos del Municipio de Umán, Yucatán. El Director de Desarrollo Social a fin de solicitar la disminución que se señala, deberá tomar en consideración el estudio socioeconómico y los lineamientos que para tal efecto realice y establezca, respectivamente, la Dirección de Panteones del Ayuntamiento de Umán.
 
 ###### Artículo 107.
 
@@ -1481,9 +1629,13 @@ a) Casa habitación
 
 b) Industrias
 
-V. Por revalidación de oficios de división, unión y rectificación de medidas
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2016)</small>
 
-VI. Por diligencias de verificación de medidas físicas y de colindancias de predios
+V.- Por revalidación de oficios de división, unión y rectificación de medidas y demás oficios expedidos por catastro municipal de Umán.
+
+> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
+VI.- Por diligencias de verificación de medidas físicas, colindancias de predios factibilidad de división, cambios de nomenclatura, estado físico del predio, no inscripción, mejora, demolición de construcción, rectificación de medidas, medidas físicas de construcción, colindancia de predios, constitución de fraccionamientos y demás, se causarán y pagarán los derechos consignados en la respectiva Ley de Ingresos, según la zona donde se ubiquen, siendo estas:
 
 a) Zona habitacional
 
@@ -1491,19 +1643,25 @@ b) Zona Comercial
 
 c) Zona Industrial
 
+Para el caso de los derechos en zonas habitacionales, estos solo aplican a los ubicados dentro de la cabecera municipal, siendo que los ubicados en comisarías u otra localidad, causarán un derecho dependiendo de la distancia de estas, pudiendo tomar en cuenta en derecho de pago, en relación a el costo por zona industrial o comercial.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 118.
 
-Por la actualización de predios industriales se causarán y pagarán derechos de conformidad a los valores y factores establecidos en la Ley de Ingresos del Municipio.
+Por las actualizaciones de predios cuyo destino o uso sean industriales, comerciales y los destinados a desarrollos inmobiliarios tipo fraccionamiento, causarán y pagarán acorde a su valor catastral, además de la respectiva cédula y verificación según su tipo, los derechos y montos establecidos en la Ley de Ingresos del Municipio de Umán, para cumplir con las obligaciones fiscales señaladas en las diversas disposiciones de carácter municipal.
 
-Todos los predios, sean urbanos o rústicos, deberán efectuar su trámite de actualización cada 5 años.
+Los predios destinados a casa-habitación, deberán efectuar su trámite de actualización de acuerdo al ejercicio fiscal en curso, para el pago correspondiente del impuesto predial y demás contribuciones previstas en las diversas disposiciones fiscales de carácter municipal; siempre y cuando la cédula posea una antigüedad mayor a dos años, siendo así, deberán cumplir con lo establecido en el reglamento de catastro o el catálogo de trámites y servicios emitidos por la Dirección de Catastro Municipal, para la debida y correcta actualización de los valores consignados en la respectiva cédula catastral del año fiscal en curso, para poder realizar dicho trámite.
 
 ###### Artículo 119.
 
 No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rústicas que sean destinadas plenamente a la producción agrícola o ganadera.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 120.
 
-Los fraccionamientos causarán derechos de deslindes, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con lo establecido en la Ley de Ingresos del Municipio de Umán, Yucatán.
+Los fraccionamientos causarán derechos de deslindes, a excepción hecha de lo dispuesto en el artículo anterior, de conformidad con lo establecido en la Ley de Ingresos del Municipio de Umán, Yucatán.
 
 ###### Artículo 121.
 
@@ -1545,11 +1703,15 @@ Cuando algún concesionario ilegalmente haya pretendido enajenar sus derechos, e
 
 En este caso, el bien de que se trate se revertirá al Municipio y el Ayuntamiento podrá concesionarlo nuevamente.
 
-#### Sección Octava (sic). Derechos por Servicio de Limpia y Recolección de Basura
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
+#### Sección Octava (Sic). Derechos por Servicio de Limpia y Recolección de Residuos Sólidos
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 127.
 
-Es objeto de éste derecho el servicio de limpia y/o recolección de basura a domicilio o en los lugares que al efecto se establezcan en los reglamentos municipales correspondientes, así como la limpieza de predios baldíos que sean aseados por el Ayuntamiento a solicitud de los propietarios de los mismos y el uso de basureros propiedad del municipio, fuera de este último caso, se estará a lo dispuesto en la reglamentación
+Es objeto de éste derecho el servicio de limpia y/o recolección de residuos sólidos a domicilio o en los lugares que al efecto se establezcan en los reglamentos municipales correspondientes, así como la limpieza de predios baldíos que sean aseados por el Ayuntamiento a solicitud de los propietarios de los mismos y el uso de basureros propiedad del municipio, fuera de este último caso, se estará a lo dispuesto en la reglamentación.
 
 ###### Artículo 128.
 
@@ -1619,21 +1781,27 @@ Los ingresos que se perciban por el derecho a que se refiere la presente secció
 
 #### Sección Décima. Derechos por Servicios de la Unidad de Acceso a la Información
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 137.
 
-Es objeto del derecho por los servicios que presta la Unidad Municipal de Acceso a la Información Pública, la entrega de información a través de copias simples, copias certificadas, discos magnéticos, discos compactos o discos de video digital o formato DVD.
+Es objeto del derecho por los servicios que presta la Unidad Municipal de Transparencia, la entrega de información a través de copias simples, copias certificadas, discos magnéticos, discos compactos o discos de video digital o formato DVD.
+
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 138.
 
-Son sujetos al pago de este derecho las personas físicas y morales que soliciten la reproducción de la información a que se refiere la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán.
+Son sujetos al pago de este derecho las personas físicas y morales que soliciten la reproducción de la información a que se refiere la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán.
 
 ###### Artículo 139.
 
 Es base para el cálculo del derecho a que se refiere la presente sección, el costo de cada uno de los insumos usados para la entrega de la información.
 
+> <small>(REFORMADO, D.O. 31 DE DICIEMBRE DE 2016)</small>
+
 ###### Artículo 140.
 
-El pago de los derechos a que se refiere la presente sección, se realizará en una sola exhibición, en el momento de solicitar el servicio, conforme a lo dispuesto por la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán.
+El pago de los derechos a que se refiere la presente sección, se realizará en una sola exhibición, en el momento de solicitar el servicio, conforme a lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Transparencia y Acceso a la Información Pública del Estado de Yucatán.
 
 ###### Artículo 141.
 
@@ -2266,3 +2434,13 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE MODIFICA LA LEY DE HACIENDA DE UMÁN DEL ESTADO DE YUCATÁN”.]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil diecisiete, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
