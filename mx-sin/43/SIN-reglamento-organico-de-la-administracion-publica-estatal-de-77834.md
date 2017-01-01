@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-organico-de-la-administracion-publica-estatal-de-778
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-01-05"
-last_updated: "2013-04-05"
+last_updated: "2017-01-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77834&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SIN"
 ---
 # REGLAMENTO ORGANICO DE LA ADMINISTRACION PUBLICA ESTATAL DE SINALOA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE SINALOA, PUBLICADO EN EL P.O. DE 1 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 5 de enero de 2011.
 
@@ -1474,3 +1476,21 @@ Cuarto. Los recursos humanos, financieros y materiales con que cuenten las unida
 Quinto. Los derechos laborales del personal que, en virtud de lo dispuesto en el presente decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
 
 Sexto. Todos los asuntos que se encuentren en trámite a la entrada en vigor del presente decreto pasarán para su despacho a las unidades administrativas de la Oficina del Gobernador del Estado, quienes serán responsables de los mismos, conforme a las disposiciones jurídicas aplicables.
+
+P.O. 1 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE SINALOA”.]
+
+Primero. El presente Reglamento entrara en vigor el mismo día de su publicación en el Periodico Oficial “El Estado de Sinaloa”.
+
+Segundo. Se abroga el Reglamento Orgánico de la Administración Pública del Estado de Sinaloa, públicado en el Periodico Oficial “El Estado de Sinaloa”, de fecha 5 de enero de 2011.
+
+Tercero. Se derogan todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
+
+Cuarto. En tanto se emiten los reglamentos interiores de las Secretarias y dependecias (sic), a que se refiere el presente Reglamento, seguiran aplicandose los vigentes, en todo lo que no se oponga a sus disposiciones.
+
+Quinto. Los titulares de las secretarías y dependencias, dentro de los 50 días hábiles siguientes a la entrada en vigor del presente Reglamento, deberán coordinarse y designar a los encargados de llevar a cabo la entrega de los asuntos, recursos humanos, materiales, financieros y tecnológicos que deban corresponder a la nueva secretaría que asuma las facultades y funciones. En caso de controversia respecto de la Secretaría o dependencia que deba continuar con la atención de los asuntos, correspondera al Secretario Genaral (sic) de Gobierno la determinación de la unidad administrativa competente, con la opinión de la Subsecretaría de Asuntos Jurídicos.
+
+Sexto. En tanto se concluye la tranferencia (sic) de los asuntos que a la entrada en vigor del presente Reglamento les competa conocer a las nuevas secretarías y dependencias, en los términos del artículo transitorio anterior, se deberá continuar su trámite conforme a las disposiciones vigentes al de su inicio
+
+Séptimo. Toda referencia realizada en las leyes, reglamentos, decretos, acuerdos y demás disposiciones legales, a las secretarías y dependiencias (sic) que en virtud de la entrada en vigor del presente Reglamento, dejen de tener las facultades y funciones por las que se les menciona, se deberán entender realizadas a las secretarías y dependencias que en este Reglamento se les designan.
