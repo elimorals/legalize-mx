@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-la-movilidad-sustentable-del-estado-5192
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2016-05-27"
+last_updated: "2017-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 30 de septiembre de 2006.
 
@@ -913,9 +913,11 @@ Los conductores del Sistema Metrorrey que operen sobre rieles se regularán seg�
 
 La Agencia por conducto de la Comisión de Atención al Usuario evaluará, dará seguimiento y determinará lo procedente en relación con los servicios otorgados por los concesionarios y permisionarios de las diferentes modalidades del SITRA Y SITME. El Consejo en todo tiempo podrá emitir las opiniones al respecto que estime pertinentes.
 
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2017)</small>
+
 ###### Artículo 41.
 
-Cualquier persona u organismo podrá acudir ante la Agencia a presentar quejas o denuncias derivadas de la prestación de los diversos servicios del SET. La Agencia recibirá dichas promociones y les dará el trámite correspondiente. Asimismo, llevará un registro de todas las quejas o denuncias presentadas, las cuales serán tomadas en cuenta al momento de ejercer las funciones de control y vigilancia.
+Cualquier persona u organismo podrá acudir ante la Agencia a presentar quejas o denuncias derivadas de la prestación de los diversos servicios del SET. La Agencia recibirá dichas promociones y les dará el trámite correspondiente. Asimismo, los procedimientos originados por las quejas y denuncias señaladas en el presente Artículo, tendrán que regirse por los principios de legalidad, brevedad, sencillez, claridad, eficiencia y publicidad; con base en lo anterior la Agencia llevará un registro de todas las quejas o denuncias presentadas, las cuales serán tomadas en cuenta al momento de ejercer las funciones de control y vigilancia.
 
 ### CAPÍTULO VI. DEL SISTEMA DE TRANSPORTE DE CARGA
 
@@ -2066,3 +2068,13 @@ Tercero.- La Secretaría de Finanza (sic) y Tesorería del Estado deberá reenca
 Cuarto.- Los concesionarios y permisionarios prestadores del servicio de transporte que no cuente (sic), al momento de entrar en vigor el presente decreto, con los dispositivos para el uso del sistema de peaje electrónico, cuyas bases se establecieron mediante acuerdo publicado en el Periódico Oficial del Estado en fecha 24 de junio de 2009, contarán con un plazo de 90 días naturales para adecuar sus unidades e instalar los dispositivos a fin de cumplir con el presente decreto. Este plazo podrá prorrogarse hasta por 30 días naturales adicionales previa petición expresa del concesionario o permisionario por motivo justificado.
 
 Todo concesionario y permisionario prestador del servicio de transporte que no cumpla con lo anterior perderá el derecho a utilizar las unidades que no cuenten con validador y demás dispositivos para la aplicación del sistema de peaje electrónico para explotar su concesión o permiso. En caso de que el concesionario o permisionario no actualice sus unidades, se aplicará lo dispuesto en el artículo 65 fracción IV de la Ley.
+
+P.O. 2 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 178. SE REFORMA EL ARTÍCULO 41 DE LA LEY DE TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- El Poder Ejecutivo realizará las adecuaciones necesarias al Reglamento de la Ley de Transporte para la Movilidad Sustentable del Estado de Nuevo León, derivado del presente Decreto en un plazo no mayor a 60 días hábiles, contados a partir de su entrada en vigor.
+
+Tercero.- Se derogan todas las disposiciones que contravengan a lo contemplado en el presente Decreto.
