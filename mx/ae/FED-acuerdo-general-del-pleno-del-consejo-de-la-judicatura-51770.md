@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-51770"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2006-10-03"
-last_updated: "2016-10-13"
+last_updated: "2017-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA CARRERA JUDICIAL Y LAS CONDICIONES DE LOS FUNCIONARIOS JUDICIALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2017.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 3 de octubre de 2006.
 
@@ -557,31 +557,39 @@ II. Tener seis años en el desempeño como juzgador federal, ya sea durante el t
 
 La garantía de permanencia se reconocerá, según el caso, a través de una resolución de ratificación.
 
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA RESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 45.
 
-El trámite de los expedientes de ratificación corresponderá al Presidente, por conducto del Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos.
+El trámite de los expedientes de ratificación corresponderá al Presidente, por conducto del Secretario Ejecutivo de Carrera Judicial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA RESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 46.
 
-El Director General de Recursos Humanos levantará, con seis meses de antelación, una certificación en el expediente personal del funcionario de que se trate, en la que hará constar el vencimiento del plazo de seis años a que alude el artículo 97, párrafo primero, de la Constitución. Acto seguido, comunicará dicha situación al Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos y le remitirá el citado expediente. Asimismo, informará al Secretario Ejecutivo de Disciplina para que remita, a la brevedad, informe sobre los procedimientos administrativos disciplinarios formulados en contra del servidor público.
+El Director General de Recursos Humanos levantará, con seis meses de antelación, una certificación en el expediente personal del funcionario de que se trate, en la que hará constar el vencimiento del plazo de seis años a que alude el artículo 97, párrafo primero, de la Constitución. Acto seguido, comunicará dicha situación al Secretario Ejecutivo de Carrera Judicial y le remitirá el citado expediente. Asimismo, informará al Secretario Ejecutivo de Disciplina para que remita, a la brevedad, informe sobre los procedimientos administrativos disciplinarios formulados en contra del servidor público.
 
 El Magistrado de Circuito o Juez de Distrito podrá hacer del conocimiento de cualquiera de dichos Secretarios Ejecutivos, el vencimiento del plazo, con la oportunidad mencionada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA RESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 47.
 
-El Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos dará cuenta con la certificación a que se refiere el artículo anterior al Presidente, quien emitirá un acuerdo en el que se decretará la procedencia o improcedencia del procedimiento de ratificación.
+El Secretario Ejecutivo de Carrera Judicial dará cuenta con la certificación a que se refiere el artículo anterior al Presidente, quien emitirá un acuerdo en el que se decretará la procedencia o improcedencia del procedimiento de ratificación.
 
 De estimarse improcedente el inicio del procedimiento de ratificación, el Presidente ordenará la devolución del expediente a Recursos Humanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-De ser procedente el inicio del procedimiento de ratificación, el Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos:
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA RESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
+De ser procedente el inicio del procedimiento de ratificación, el Secretario Ejecutivo de Carrera Judicial:
 
 I. Dispondrá que se forme y registre el expediente de ratificación bajo el número que le corresponda, al cual deberá agregarse copia autorizada de la certificación a que se refiere el artículo anterior y, en su caso, el comunicado del funcionario;
 
@@ -601,11 +609,13 @@ VII. Turnará el expediente a un Consejero a fin de que elabore el dictamen corr
 
 VIII. El original del dictamen que al efecto se elabore, así como los documentos a que hacen referencia las fracciones II y III de este artículo, deberán enviarse al expediente personal del servidor público que obra en Recursos Humanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA RESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 48.
 
-El Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos debe vigilar la tramitación y seguimiento del procedimiento de ratificación en los términos establecidos en las disposiciones que al efecto emita el Pleno.
+El Secretario Ejecutivo de Carrera Judicial debe vigilar la tramitación y seguimiento del procedimiento de ratificación en los términos establecidos en las disposiciones que al efecto emita el Pleno.
 
 La existencia de procedimientos de responsabilidad administrativa en trámite no impide la continuación y emisión de la resolución correspondiente a la ratificación.
 
@@ -1013,11 +1023,13 @@ En los lugares en donde existan dos o más tribunales unitarios de circuito o ju
 
 Para la efectividad de la regla anterior, los magistrados de circuito y los jueces de distrito deberán comunicarlo al Consejo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA RESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 102.
 
-La comunicación a que se refiere el artículo anterior deberá ser dirigida mediante oficio, con cinco días naturales de anticipación, al Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos para que éste lo haga del conocimiento de la Comisión con la debida oportunidad.
+La comunicación a que se refiere el artículo anterior deberá ser dirigida mediante oficio, con cinco días naturales de anticipación, al Secretario Ejecutivo de Carrera Judicial para que éste lo haga del conocimiento de la Comisión con la debida oportunidad.
 
 Los períodos vacacionales de los mencionados servidores públicos podrán ser modificados por el Pleno por necesidades del servicio.
 
@@ -1403,11 +1415,13 @@ La Comisión presentará un informe anual al Pleno sobre los períodos sabático
 
 Al concluir el primer año sabático se iniciará el cómputo de seis años para estar en posibilidad de solicitar un segundo.
 
-> <small>(REFORMADO POR EL ARTÍCULO QUINTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA RESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 158.
 
-El Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos llevará el registro de los períodos sabáticos otorgados, así como de los resultados de éstos.
+El Secretario Ejecutivo de Carrera Judicial llevará el registro de los períodos sabáticos otorgados, así como de los resultados de éstos.
 
 ###### Artículo 159.
 
@@ -2046,3 +2060,27 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Quedan sin efectos las circulares 2/2012 y 1/2013 de la Comisión de Disciplina así como la circular de la Comisión de Carrera Judicial de ocho de agosto de dos mil dos, en la que se recomienda a los jueces de Distrito y magistrados de Circuito evitar el otorgamiento de bases cuando hayan sido notificados de su próxima readscripción.
+
+D.O.F. 2 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA RESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 16 de enero de 2017, con excepción de lo previsto en el Transitorio Quinto de este instrumento, cuya vigencia iniciará al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en cualquier disposición a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos como superior jerárquico de la Dirección General de Estadística Judicial se entenderán hechas a la Secretaría Ejecutiva de Creación de Nuevos Órganos.
+
+El resto que se realicen se entenderán hechas a la Secretaría Ejecutiva de Carrera Judicial o a la Secretaría Ejecutiva de Creación de Nuevos Órganos, según corresponda conforme a su ámbito de competencia.
+
+CUARTO. El personal de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos que a la entrada en vigor del presente Acuerdo, desempeñe funciones relacionadas con las atribuciones que dicho instrumento normativo confiere a la Secretaría Ejecutiva de Creación de Nuevos Órganos, se incorporará con su plaza a tal unidad administrativa, conservando sus derechos laborales. El resto del personal quedará adscrito a la Secretaría Ejecutiva de Carrera Judicial. Ello, sin perjuicio de que la Secretaría Ejecutiva de Administración lleve a cabo las acciones necesarias para la reorganización de los recursos humanos en las áreas administrativas objeto de la reestructura.
+
+Asimismo, los recursos materiales y financieros relacionados con el desempeño de las atribuciones a que alude el párrafo anterior, con que cuenten la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos se transferirán a las nuevas unidades administrativas, según corresponda, atendiendo a las atribuciones con que se relacionan.
+
+Lo previsto en este artículo se deberá llevar a cabo dentro de los quince días naturales siguientes a la entrada en vigor del presente Acuerdo, mediante la suscripción de las actas de entrega-recepción respectivas y demás instrumentos necesarios.
+
+QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le estén adscritas, deberá adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
+
+SEXTO. Los asuntos que se encuentren en trámite en la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos a la entrada en vigor del presente Acuerdo, serán atendidos por la Secretaría Ejecutiva de Carrera Judicial o por la Secretaría Ejecutiva de Creación de Nuevos Órganos, según corresponda conforme a su ámbito de competencia.
+
+SÉPTIMO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
