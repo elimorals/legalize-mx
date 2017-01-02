@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-rural-sustentable-del-estado-de-sinaloa-96789
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-27"
-last_updated: "2013-11-27"
+last_updated: "2017-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SINALOA
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO POR EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR NOVENTA DÍAS DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección de la Edición Extraordinaria del Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 2013.
 
@@ -158,6 +156,10 @@ I. Actividades agropecuarias. Los procesos productivos primarios basados en recu
 II. Actividades económicas de la sociedad rural. Las actividades agropecuarias y otras actividades productivas, industriales, comerciales y de servicios;
 
 III. Agentes de la sociedad rural. Personas físicas o morales de los sectores social y privado que integran a la sociedad rural;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2017)</small>
+
+III Bis. Agricultura orgánica: Es un sistema de producción que utiliza al máximo los recursos naturales, poniendo énfasis en la fertilidad del suelo y la actividad biológica, y al mismo tiempo minimiza el uso de los recursos no renovables como fertilizantes y plaguicidas sintéticos, con el objetivo de proteger el medio ambiente, pero principalmente para salvaguardar la salud de los seres humanos;
 
 IV. Alimentos básicos y estratégicos. Aquellos calificados por su importancia en la alimentación básica de la mayoría de la población o por su relevancia en la actividad económica de los productores del campo o de la industria;
 
@@ -339,9 +341,15 @@ VII. Establecer proyectos de carácter estratégicos tendientes a fortalecer el 
 
 VIII. Impulsar una cultura del agua que considere a este elemento como un recurso estratégico, vital y escaso, de alto valor económico, social y ambiental y de seguridad nacional, procurando en las instancias del órgano rector hídrico que correspondan la modernización integral de la infraestructura hidroagrícola conforme a lo establecido en la Ley de Aguas Nacionales, su Reglamento y demás disposiciones aplicables;
 
-IX. Promover el desarrollo de esquemas de denominación de origen de los productos agroalimentarios; y,
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2017)</small>
 
-X. Las demás que se requieran para la aplicación de la presente Ley.
+IX. Promover el desarrollo de esquemas de denominación de origen de los productos agroalimentarios;
+
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2017)</small>
+
+X. Diseñar e implementar programas y políticas públicas, donde se detallen acciones, metas, objetivos y estrategias que fomenten el desarrollo de productos orgánicos en el Estado. Principalmente en aquellas regiones donde las condiciones ambientales y socioeconómicas sean propicias para la actividad o hagan necesaria la reconversión productiva, con el objetivo de preservar los ecosistemas, y de producir alimentos bajo un esquema de sustentabilidad ambiental; y,
+
+XI. Las demás que se requieran para la aplicación de la presente Ley.
 
 ###### Artículo 19.
 
@@ -1268,3 +1276,11 @@ C. Juan Ernesto Millán Pietsch
 El Secretario de Agricultura, Ganadería y Pesca
 
 Juan Nicasio Guerra Ochoa
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 60 QUE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 9 Y LA FRACCIÓN X AL ARTÍCULO 18 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE SINALOA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
