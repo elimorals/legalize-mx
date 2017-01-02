@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2016-10-28"
+last_updated: "2017-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2017.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -3375,13 +3375,13 @@ Cuando se realicen obras públicas y servicios relacionados, el Consejo y los co
 
 El titular del área de obras, cuando sea el caso, previamente a la realización de los trabajos, deberá tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, así como la propiedad o los derechos de propiedad, incluyendo derechos de vía, sobre los cuales se ejecutarán las obras públicas. En las bases de licitación se precisarán, en su caso, aquellos trámites que corresponderá realizar al contratista.
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO DE REFORMAS PUBLICADO EN EL D.O.F. DE 7 DE SEPTIEMBRE DE 2015, LAS REFERENCIAS QUE SE HAGAN EN CUALQUIER DISPOSICIÓN A LA SECRETARÍA EJECUTIVA DE ADMINISTRACIÓN COMO SUPERIOR JERÁRQUICO DE LA DIRECCIÓN GENERAL DE ESTADÍSTICA JUDICIAL SE ENTENDERÁN HECHAS A LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS.]</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 286.
 
-Para la formulación de los Programas de Ejecución a que se refiere este Capítulo, se deberán tomar en cuenta prioritariamente, los requerimientos necesarios para la creación de nuevos órganos jurisdiccionales, en coordinación con las áreas administrativas competentes, tomando como base la información que proporcione la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos.
+Para la formulación de los Programas de Ejecución a que se refiere este Capítulo, se deberán tomar en cuenta prioritariamente, los requerimientos necesarios para la creación de nuevos órganos jurisdiccionales, en coordinación con las áreas administrativas competentes, tomando como base la información que proporcione la Secretaría Ejecutiva de Creación de Nuevos Órganos.
 
 ###### Artículo 287.
 
@@ -5409,7 +5409,9 @@ En los casos de rescisión o terminación anticipada de contratos en que se haya
 
 #### SECCIÓN QUINTA. ARRENDAMIENTOS
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 19 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 430.
 
@@ -5971,7 +5973,7 @@ Antes de formalizar el arrendamiento, la Dirección General de Inmuebles y Mante
 
 ###### Artículo 473.
 
-Los titulares de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos; de la Coordinación de Administración Regional y de la Dirección General de Recursos Materiales presentarán al Comité de Administración Inmobiliaria, las necesidades de espacio para la instalación o reubicación de órganos jurisdiccionales o áreas administrativas.
+Los titulares de la Secretaría Ejecutiva de Creación de Nuevos Órganos; de la Coordinación de Administración Regional y de la Dirección General de Recursos Materiales presentarán al Comité de Administración Inmobiliaria, las necesidades de espacio para la instalación o reubicación de órganos jurisdiccionales o áreas administrativas.
 
 ###### Artículo 474.
 
@@ -11914,3 +11916,27 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el Portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. La Dirección General de Comunicación Social deberá realizar una campaña de difusión y concientización sobre el contenido del presente Acuerdo, para lo cual utilizará anuncios tipo posters, trípticos y todos aquellos medios que determine y tenga a su alcance.
+
+D.O.F. 2 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 16 de enero de 2017, con excepción de lo previsto en el Transitorio Quinto de este instrumento, cuya vigencia iniciará al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en cualquier disposición a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos como superior jerárquico de la Dirección General de Estadística Judicial se entenderán hechas a la Secretaría Ejecutiva de Creación de Nuevos Órganos.
+
+El resto que se realicen se entenderán hechas a la Secretaría Ejecutiva de Carrera Judicial o a la Secretaría Ejecutiva de Creación de Nuevos Órganos, según corresponda conforme a su ámbito de competencia.
+
+CUARTO. El personal de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos que a la entrada en vigor del presente Acuerdo, desempeñe funciones relacionadas con las atribuciones que dicho instrumento normativo confiere a la Secretaría Ejecutiva de Creación de Nuevos Órganos, se incorporará con su plaza a tal unidad administrativa, conservando sus derechos laborales. El resto del personal quedará adscrito a la Secretaría Ejecutiva de Carrera Judicial. Ello, sin perjuicio de que la Secretaría Ejecutiva de Administración lleve a cabo las acciones necesarias para la reorganización de los recursos humanos en las áreas administrativas objeto de la reestructura.
+
+Asimismo, los recursos materiales y financieros relacionados con el desempeño de las atribuciones a que alude el párrafo anterior, con que cuenten la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos se transferirán a las nuevas unidades administrativas, según corresponda, atendiendo a las atribuciones con que se relacionan.
+
+Lo previsto en este artículo se deberá llevar a cabo dentro de los quince días naturales siguientes a la entrada en vigor del presente Acuerdo, mediante la suscripción de las actas de entrega-recepción respectivas y demás instrumentos necesarios.
+
+QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le estén adscritas, deberá adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
+
+SEXTO. Los asuntos que se encuentren en trámite en la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos a la entrada en vigor del presente Acuerdo, serán atendidos por la Secretaría Ejecutiva de Carrera Judicial o por la Secretaría Ejecutiva de Creación de Nuevos Órganos, según corresponda conforme a su ámbito de competencia.
+
+SÉPTIMO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
