@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2016-11-11"
+last_updated: "2017-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ENERO DE 2017.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -573,15 +573,19 @@ XXII. Administrar los bienes muebles e inmuebles del Poder Judicial de la Federa
 
 XXIII. Proponer al Pleno, para su aprobación, el proyecto de creación de estructuras administrativas y plazas definitivas para la atención de nuevos programas;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXIV. Autorizar las plantillas de personal para los nuevos órganos jurisdiccionales creados por el Pleno, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, y la Visitaduría Judicial, con la participación de la Dirección General de Estadística Judicial;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
+XXIV. Autorizar las plantillas de personal para los nuevos órganos jurisdiccionales creados por el Pleno, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Creación de Nuevos Órganos, y la Visitaduría Judicial, con la participación de la Dirección General de Estadística Judicial;
 
 XXV. Proponer para autorización del Pleno, las plazas definitivas de nueva creación de defensores públicos y su personal de apoyo, así como de oficinas de correspondencia común, que se requieran con motivo de la creación de nuevos órganos jurisdiccionales;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXVI. Proponer para la autorización del Pleno, las plazas definitivas de nueva creación cuando tengan por objeto homogeneizar plantillas de personal por tipo de órgano y ciudad, o para reforzar plantillas o programas ya autorizados, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, y la Visitaduría Judicial; con la participación de la Dirección General de Estadística Judicial;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
+XXVI. Proponer para la autorización del Pleno, las plazas definitivas de nueva creación cuando tengan por objeto homogeneizar plantillas de personal por tipo de órgano y ciudad, o para reforzar plantillas o programas ya autorizados, previo dictamen que de manera conjunta emitan la Secretaría Ejecutiva de Creación de Nuevos Órganos, y la Visitaduría Judicial; con la participación de la Dirección General de Estadística Judicial;
 
 XXVII. Someter al Pleno para su autorización la creación de nuevas estructuras orgánicas o la modificación de las ya existentes, la adscripción definitiva, retabulación y transferencia de plazas; así como contrataciones temporales por honorarios;
 
@@ -595,9 +599,11 @@ XXX. Autorizar los programas específicos en materia de recursos humanos, relati
 
 XXXI. Aprobar el monto de la remuneración y honorarios de los peritos;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXXII. Determinar, a propuesta del Director General de Estadística Judicial, que haga por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, el nombramiento y remoción del personal de las oficinas de correspondencia común;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
+XXXII. Determinar, a propuesta del Director General de Estadística Judicial, que haga por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, el nombramiento y remoción del personal de las oficinas de correspondencia común;
 
 XXXIII. Determinar el nombramiento y remoción del titular y demás empleados de las unidades de notificadores que se establezcan;
 
@@ -1135,7 +1141,11 @@ La operación y funcionamiento de la Unidad de Enlace Legislativo se llevará a 
 
 Al frente de cada una de las secretarías ejecutivas, de las coordinaciones y de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, estará un Titular, quien deberá tener experiencia profesional mínima de cinco años; contar con título profesional, expedido legalmente, afín a las funciones que deba desempeñar; gozar de buena reputación; y no haber sido condenado por delito doloso con sanción privativa de libertad mayor de un año.
 
-En el caso de los Secretarios Ejecutivos del Pleno; de Adscripción; de Carrera Judicial y Creación de Nuevos Órganos; y de Disciplina, el título profesional deberá ser de Licenciado en Derecho. Tratándose de los titulares de las secretarías ejecutivas de Administración; de Vigilancia, Información y Evaluación; de los coordinadores y del Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, el título deberá estar relacionado con sus funciones.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
+En el caso de los Secretarios Ejecutivos del Pleno; de Adscripción; de Carrera Judicial; de Creación de Nuevos Órganos; y de Disciplina, el título profesional deberá ser de Licenciado en Derecho. Tratándose de los titulares de las secretarías ejecutivas de Administración; de Vigilancia, Información y Evaluación; de los coordinadores y del Titular de la Unidad para la Consolidación del Nuevo Sistema de Justicia Penal, el título deberá estar relacionado con sus funciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE REFORMAN DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA DENOMINACIÓN DE LA UNIDAD PARA LA CONSOLIDACIÓN DEL NUEVO SISTEMA DE JUSTICIA PENAL Y SU COMPETENCIA, D.O.F. 25 DE AGOSTO DE 2016)</small>
 
@@ -1271,9 +1281,17 @@ II. El Secretario Ejecutivo de Administración;
 
 II Bis. El Secretario Ejecutivo de Adscripción;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-III. El Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
+III. El Secretario Ejecutivo de Carrera Judicial;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
+III. Bis. El Secretario Ejecutivo de Creación de Nuevos Órganos;
 
 IV. El Secretario Ejecutivo de Disciplina;
 
@@ -1657,17 +1675,21 @@ XII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la u
 
 XIII. Las demás que establezcan el Pleno y las Comisiones.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 83.
 
-El Secretario Ejecutivo de Carrera Judicial y Creación de Nuevos Órganos se encargará de auxiliar a las Comisiones de Carrera Judicial y de Creación de Nuevos Órganos para el desempeño de las atribuciones que éstas tienen encomendadas.
+El Secretario Ejecutivo de Carrera Judicial se encargará de auxiliar a la Comisión de Carrera Judicial para el desempeño de las atribuciones que ésta tiene encomendadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 84.
 
-El titular de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos tendrá las siguientes atribuciones:
+El titular de la Secretaría Ejecutiva de Carrera Judicial tendrá las siguientes atribuciones:
 
 I. Recibir los proyectos de resoluciones o dictámenes y propuestas de acuerdos relacionados con la carrera judicial, en los términos que define el Título Séptimo de la Ley, los cuales serán turnados a la Comisión de Carrera Judicial, para su análisis y, en su caso, posterior aprobación en el Pleno;
 
@@ -1695,9 +1717,9 @@ XII. Elaborar anualmente la lista de las personas que puedan fungir como peritos
 
 XIII. Llevar el sistema de turnos y efectuar los trámites requeridos para las resoluciones de las ratificaciones de magistrados de Circuito y jueces de Distrito;
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XIV. Elaborar y actualizar el Sistema de Turnos de Guardias de los juzgados de Distrito, para la recepción de asuntos de nuevo ingreso en días y horas inhábiles;
+XIV. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
 XIV (SIC). (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
 
@@ -1709,39 +1731,53 @@ XVIII. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSE
 
 XIX. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)
 
-XX. Analizar y evaluar las solicitudes de creación de nuevos órganos jurisdiccionales, a fin de determinar la prioridad de su creación, para someterlas a la consideración de la Comisión de Creación de Nuevos Órganos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+XX. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-XXI. Instruir a la Dirección General de Estadística Judicial la elaboración de estudios estadísticos, así como analizar y evaluar los mismos, con el propósito de ponderar la viabilidad y prioridad para la creación de un órgano nuevo o determinar la especialización, cambio de sede, competencia y sistema de turno de los órganos jurisdiccionales;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXII. Solicitar, analizar y evaluar los informes de órganos jurisdiccionales que sean necesarios para el desarrollo de las funciones de la Secretaría Ejecutiva;
+XXI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXIII. Elaborar los proyectos de acuerdos relativos a la creación, competencia, jurisdicción, reglas de distribución de los asuntos y fecha de inicio de funciones de los nuevos órganos jurisdiccionales, que conforme al análisis de las cargas de trabajo que le presente la Dirección General de Estadística Judicial se consideren necesarios, con la finalidad de someterlos a la consideración de la Comisión de Creación de Nuevos Órganos;
+XXII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXIV. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número y límites territoriales de los circuitos en que se divida el territorio de la República y, en su caso, los cambios de residencia de los órganos jurisdiccionales, que conforme al análisis de las cargas de trabajo que le presente la Dirección General de Estadística Judicial se consideren convenientes;
+XXIII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXV. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número, límites territoriales y, en su caso, especialización por materia de los órganos jurisdiccionales en cada uno de los circuitos a que se refiere la fracción anterior, que conforme al análisis de las cargas de trabajo que le presente la Dirección General de Estadística Judicial se consideren necesarios;
+XXIV. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-XXVI. Proponer a la Comisión de Creación de Nuevos Órganos las disposiciones necesarias para regular el turno de los asuntos de la competencia de los órganos jurisdiccionales, cuando en un mismo lugar haya varios de ellos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXVII. Proponer la normativa y procedimientos específicos para la creación y determinación de competencia, jurisdicción, especialización, cambio de sede y sistema de turno de órganos jurisdiccionales;
+XXV. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-XXVIII. Dar seguimiento, en coordinación con las unidades administrativas correspondientes, a las etapas generales de los procedimientos de instalación de los órganos jurisdiccionales creados para estar en posibilidad de informar periódicamente a la Comisión de Creación de Nuevos Órganos sobre su avance, así como proponer a esta última la fecha de inicio de funciones de los mismos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXIX. Elaborar y aprobar los dictámenes relativos a las plantillas del personal de nuevos órganos jurisdiccionales, que al efecto le remita la Dirección General de Recursos Humanos;
+XXVI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-XXX. Evaluar el funcionamiento del órgano jurisdiccional creado, a fin de verificar si cumple con las expectativas consideradas para su instalación;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+XXVII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-XXXI. Ejercer las atribuciones que le confiere a la Secretaría Ejecutiva, el Acuerdo General relativo a la integración y funcionamiento de los plenos de Circuito;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XXVIII. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XXIX. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XXX. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+XXXI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
 XXXII. Formular y presentar al Pleno, el Programa Anual de Actividades de la unidad administrativa a su cargo;
 
@@ -1749,13 +1785,13 @@ XXXIII. Someter a la consideración de las Comisiones, las disposiciones, reglas
 
 XXXIV. Informar a las Comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXXV. Programar, coordinar, supervisar y evaluar los sistemas de estadística judicial, de conformidad con las disposiciones aplicables;
+XXXV. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXXVI. Instrumentar las políticas y directrices emitidas por el Pleno y la Comisión de Administración para la operación de sistemas administrativos en materia de estadística judicial;
+XXXVI. (DEROGADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)
 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
@@ -1765,15 +1801,77 @@ XXXVII. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a l
 
 XXXVIII. Las demás que establezcan el Pleno, y las Comisiones.
 
-> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
 ###### Artículo 84 Bis.
 
-La Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, contará con las unidades administrativas siguientes:
+La Secretaría Ejecutiva de Creación de Nuevos Órganos, contará con las unidades administrativas siguientes:
+
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
 I. Dirección General de Estadística Judicial; y
 
+> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+
 II. Las demás que determine el Pleno.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
+###### Artículo 84 Ter.
+
+El Secretario Ejecutivo de Creación de Nuevos Órganos se encargará de auxiliar a la Comisión de Creación de Nuevos Órganos para el desempeño de las atribuciones que ésta tiene encomendadas.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
+###### Artículo 84 Quater.
+
+El titular de la Secretaría Ejecutiva de Creación de Nuevos Órganos tendrá las siguientes atribuciones:
+
+I. Analizar y evaluar las solicitudes de creación de nuevos órganos jurisdiccionales, a fin de determinar la prioridad de su creación, para someterlas a la consideración de la Comisión de Creación de Nuevos Órganos;
+
+II. Instruir a la Dirección General de Estadística Judicial la elaboración de estudios estadísticos, así como analizar y evaluar los mismos, con el propósito de ponderar la viabilidad y prioridad para la creación de un órgano nuevo o determinar la especialización, cambio de sede, competencia y sistema de turno de los órganos jurisdiccionales;
+
+III. Elaborar y aprobar los dictámenes relativos a las plantillas del personal de nuevos órganos jurisdiccionales, que al efecto le remita la Dirección General de Recursos Humanos;
+
+IV. Elaborar los proyectos de acuerdos relativos a la creación, competencia, jurisdicción, reglas de distribución de los asuntos y fecha de inicio de funciones de los nuevos órganos jurisdiccionales, que conforme al análisis de las cargas de trabajo que le presente la Dirección General de Estadística Judicial se consideren necesarios, con la finalidad de someterlos a la consideración de la Comisión de Creación de Nuevos Órganos;
+
+V. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número y límites territoriales de los circuitos en que se divida el territorio de la República y, en su caso, los cambios de residencia de los órganos jurisdiccionales, que conforme al análisis de las cargas de trabajo que le presente la Dirección General de Estadística Judicial se consideren convenientes;
+
+VI. Someter a la consideración de la Comisión de Creación de Nuevos Órganos, los proyectos relativos al número, límites territoriales y, en su caso, especialización por materia de los órganos jurisdiccionales en cada uno de los circuitos a que se refiere la fracción anterior, que conforme al análisis de las cargas de trabajo que le presente la Dirección General de Estadística Judicial se consideren necesarios;
+
+VII. Proponer a la Comisión de Creación de Nuevos Órganos las disposiciones necesarias para regular el turno de los asuntos de la competencia de los órganos jurisdiccionales, cuando en un mismo lugar haya varios de ellos;
+
+VIII. Proponer la normativa y procedimientos específicos para la creación y determinación de competencia, jurisdicción, especialización, cambio de sede y sistema de turno de órganos jurisdiccionales;
+
+IX. Elaborar y actualizar el Sistema de Turnos de Guardias de los juzgados de Distrito, para la recepción de asuntos de nuevo ingreso en días y horas inhábiles;
+
+X. Dar seguimiento, en coordinación con las áreas administrativas correspondientes, a las etapas generales de los procedimientos de instalación de los órganos jurisdiccionales creados para estar en posibilidad de informar periódicamente a la Comisión de Creación de Nuevos Órganos sobre su avance, así como proponer a esta última la fecha de inicio de funciones de los mismos;
+
+XI. Evaluar el funcionamiento del órgano jurisdiccional creado, a fin de verificar si cumple con las expectativas consideradas para su instalación;
+
+XII. Ejercer las atribuciones que le confiere a la Secretaría Ejecutiva, el Acuerdo General relativo a la integración y funcionamiento de los plenos de Circuito;
+
+XIII. Solicitar, analizar y evaluar los informes de órganos jurisdiccionales que sean necesarios para el desarrollo de las funciones de la Secretaría Ejecutiva;
+
+XIV. Programar, coordinar, supervisar y evaluar los sistemas de estadística judicial, de conformidad con las disposiciones aplicables;
+
+XV. Instrumentar las políticas y directrices emitidas por el Pleno y la Comisión de Administración para la operación de sistemas administrativos en materia de estadística judicial;
+
+XVI. Formular y presentar al Pleno, el Programa Anual de Actividades de la unidad administrativa a su cargo;
+
+XVII. Someter a la consideración de las Comisiones, las disposiciones, reglas, bases de carácter general, normas, lineamientos y políticas, en el ejercicio de las atribuciones que competan a la unidad administrativa;
+
+XVIII. Informar a las Comisiones, en los plazos establecidos, sobre el ejercicio de las atribuciones conferidas y del avance de los proyectos y programas a su cargo;
+
+XIX. Presentar ante el Pleno, el Informe Anual de Labores correspondiente a la unidad administrativa de su competencia; y
+
+XX. Las demás que establezcan el Pleno, y las Comisiones.
 
 ###### Artículo 85.
 
@@ -2827,9 +2925,11 @@ IV. Mantener actualizado el Sistema Integral de Seguimiento de Expedientes, a tr
 
 V. Revisar y validar la congruencia de la captura de datos de los expedientes que se tramitan en los órganos jurisdiccionales;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VI. Proponer al Pleno, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, la implantación de nuevos módulos, esquemas y normativa que deban agregarse al Sistema Integral de Seguimiento de Expedientes;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
+VI. Proponer al Pleno, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, la implantación de nuevos módulos, esquemas y normativa que deban agregarse al Sistema Integral de Seguimiento de Expedientes;
 
 VII. Verificar físicamente y de manera aleatoria la coincidencia en la captura de datos en el Sistema Integral de Seguimiento de Expedientes, respecto de los diferentes tipos de asuntos del conocimiento de los órganos jurisdiccionales;
 
@@ -2837,13 +2937,17 @@ VIII. Mantener actualizado el padrón de analistas jurídicos encargados de la o
 
 IX. Informar a las áreas administrativas correspondientes, acerca del seguimiento de las observaciones y manifestaciones contenidas en las actas de visita de inspección practicadas e informes circunstanciados de los órganos jurisdiccionales, en relación con la supervisión de los reportes estadísticos;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-X. Inspeccionar el funcionamiento de las oficinas de correspondencia común, vigilar el correcto turno de los asuntos a los órganos jurisdiccionales y supervisar el desempeño de los servidores públicos adscritos a éstas; así como proponer, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, a la Comisión de Creación de Nuevos Órganos las medidas necesarias para el mejoramiento administrativo del sistema de distribución de asuntos o implementarlas en casos urgentes;
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+X. Inspeccionar el funcionamiento de las oficinas de correspondencia común, vigilar el correcto turno de los asuntos a los órganos jurisdiccionales y supervisar el desempeño de los servidores públicos adscritos a éstas; así como proponer, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, a la Comisión de Creación de Nuevos Órganos las medidas necesarias para el mejoramiento administrativo del sistema de distribución de asuntos o implementarlas en casos urgentes;
 
-XI. Proponer a la Comisión de Administración, por conducto de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, a los candidatos para ocupar las plazas vacantes de las oficinas de correspondencia común, cuya aprobación hará del conocimiento de la Dirección General de Recursos Humanos para la debida expedición de sus nombramientos, así como la remoción del personal adscrito a dichas oficinas, y determinar la prórroga de los nombramientos respectivos;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
+XI. Proponer a la Comisión de Administración, por conducto de la Secretaría Ejecutiva de Creación de Nuevos Órganos, a los candidatos para ocupar las plazas vacantes de las oficinas de correspondencia común, cuya aprobación hará del conocimiento de la Dirección General de Recursos Humanos para la debida expedición de sus nombramientos, así como la remoción del personal adscrito a dichas oficinas, y determinar la prórroga de los nombramientos respectivos;
 
 XII. Solicitar, concentrar, analizar y sistematizar la información administrativa de aplicación estadística que generen los órganos jurisdiccionales y áreas administrativas que integran el Poder Judicial de la Federación, para la elaboración de los estudios que las distintas áreas de éste le soliciten;
 
@@ -2869,9 +2973,11 @@ XX. Revisar el contenido y alcance de la información, documentación, análisis
 
 XXI. Coordinar las tareas tendientes al establecimiento, desarrollo y mantenimiento del SISE Control Biométrico;
 
-> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXII. Acordar con el titular de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, los asuntos que en ejercicio de sus atribuciones pretenda presentar a la consideración del Pleno y de las Comisiones; y
+> <small>(REFORMADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS, D.O.F. 2 DE ENERO DE 2017)</small>
+
+XXII. Acordar con el titular de la Secretaría Ejecutiva de Creación de Nuevos Órganos, los asuntos que en ejercicio de sus atribuciones pretenda presentar a la consideración del Pleno y de las Comisiones; y
 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, D.O.F. 7 DE SEPTIEMBRE DE 2015)</small>
 
@@ -5652,3 +5758,27 @@ D.O.F. 11 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor a los tres días siguientes de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 2 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA, ADICIONA Y DEROGA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RESPECTO DE LA REESTRUCTURACIÓN DE LA SECRETARÍA EJECUTIVA DE CARRERA JUDICIAL Y CREACIÓN DE NUEVOS ÓRGANOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 16 de enero de 2017, con excepción de lo previsto en el Transitorio Quinto de este instrumento, cuya vigencia iniciará al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Las referencias que se hagan en cualquier disposición a la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos como superior jerárquico de la Dirección General de Estadística Judicial se entenderán hechas a la Secretaría Ejecutiva de Creación de Nuevos Órganos.
+
+El resto que se realicen se entenderán hechas a la Secretaría Ejecutiva de Carrera Judicial o a la Secretaría Ejecutiva de Creación de Nuevos Órganos, según corresponda conforme a su ámbito de competencia.
+
+CUARTO. El personal de la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos que a la entrada en vigor del presente Acuerdo, desempeñe funciones relacionadas con las atribuciones que dicho instrumento normativo confiere a la Secretaría Ejecutiva de Creación de Nuevos Órganos, se incorporará con su plaza a tal unidad administrativa, conservando sus derechos laborales. El resto del personal quedará adscrito a la Secretaría Ejecutiva de Carrera Judicial. Ello, sin perjuicio de que la Secretaría Ejecutiva de Administración lleve a cabo las acciones necesarias para la reorganización de los recursos humanos en las áreas administrativas objeto de la reestructura.
+
+Asimismo, los recursos materiales y financieros relacionados con el desempeño de las atribuciones a que alude el párrafo anterior, con que cuenten la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos se transferirán a las nuevas unidades administrativas, según corresponda, atendiendo a las atribuciones con que se relacionan.
+
+Lo previsto en este artículo se deberá llevar a cabo dentro de los quince días naturales siguientes a la entrada en vigor del presente Acuerdo, mediante la suscripción de las actas de entrega-recepción respectivas y demás instrumentos necesarios.
+
+QUINTO. La Secretaría Ejecutiva de Administración, por conducto de las unidades administrativas competentes que le estén adscritas, deberá adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
+
+SEXTO. Los asuntos que se encuentren en trámite en la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos a la entrada en vigor del presente Acuerdo, serán atendidos por la Secretaría Ejecutiva de Carrera Judicial o por la Secretaría Ejecutiva de Creación de Nuevos Órganos, según corresponda conforme a su ámbito de competencia.
+
+SÉPTIMO. La Contraloría del Poder Judicial de la Federación, intervendrá dentro de su ámbito de competencia en el cumplimiento del presente Acuerdo.
