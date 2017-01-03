@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2016-12-30"
+last_updated: "2017-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ENERO DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1303,7 +1303,7 @@ En todos los casos previstos en este Capítulo, el Ministerio Público acordará
 
 ### CAPÍTULO II. OMISIÓN DE CUIDADO
 
-> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2014)</small>
+(REFORMADO, G.O. 3 DE ENERO DE 2017
 
 ###### Artículo 155.
 
@@ -1317,7 +1317,7 @@ A quien lesione a una persona, así sea culposa o fortuitamente, y no le preste 
 
 ###### Artículo 156.
 
-A quien abandone a una persona incapaz de valerse por sí misma, exponiéndola a un peligro en su integridad física, teniendo la obligación de cuidarla, se le impondrán de dos a seis años de prisión y multa hasta de trescientos días de salario. Además, si el activo fuese ascendiente o tutor del ofendido, se le privará de la patria potestad o de la tutela.
+A quien abandone a menores o personas enfermas, adultas mayores o incapaces de cuidarse por sí mismos, exponiéndolas a un peligro en su integridad física, teniendo la obligación de cuidarlas, se le impondrán de dos a seis años de prisión y multa hasta de trescientos días de salario. Además, si el activo fuese ascendiente o tutor del ofendido, se le privará de la patria potestad o de la tutela o custodia, así como del derecho a heredar si estuviere en aptitud legal para ello.
 
 ### CAPÍTULO IV. PELIGRO DE CONTAGIO
 
@@ -4335,19 +4335,13 @@ Primero. El presente decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 16, 17 Y 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE JUSTICIA COTIDIANA (SOLUCIÓN DE FONDO DEL CONFLICTO Y COMPETENCIA LEGISLATIVA SOBRE PROCEDIMIENTOS CIVILES Y FAMILIARES)”.]
+G.O. 3 DE ENERO DE 2017.
 
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo dispuesto en el transitorio siguiente.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 6 QUE REFORMA EL ARTÍCULO 156 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
-SEGUNDO. La reforma del primer párrafo del artículo 16 y la adición de un nuevo tercer párrafo al artículo 17 constitucional entrarán en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Diario Oficial de la Federación. Para tal efecto, y en los casos en que se requiera, el Congreso de la Unión y las Legislaturas de las entidades federativas deberán adecuar a las modificaciones en cuestión, respectivamente, las leyes generales y las leyes federales, así como las leyes de las entidades federativas.
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del estado.
 
-TERCERO. Las Legislaturas de las entidades federativas deberán llevar a cabo las reformas a sus constituciones para adecuarlas al contenido del presente Decreto en un plazo que no excederá de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto.
-
-CUARTO. El Congreso de la Unión deberá expedir la legislación procedimental a que hace referencia la fracción XXX del artículo 73 constitucional adicionado mediante el presente Decreto, en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
-
-QUINTO. La legislación procesal civil y familiar de la Federación y de las entidades federativas continuará vigente hasta en tanto entre en vigor la legislación a que se refiere la fracción XXX del artículo 73 constitucional, adicionada mediante el presente Decreto, y de conformidad con el régimen transitorio que la misma prevea. Los procedimientos iniciados y las sentencias emitidas con fundamento en la legislación procesal civil federal y la legislación procesal civil y familiar de las entidades federativas deberán concluirse y ejecutarse, respectivamente, conforme a la misma.
-
-D.O.F. 27 DE AGOSTO DE 2018.
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO DÉCIMO SEXTO TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA POLÍTICA-ELECTORAL”, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 10 DE FEBRERO DE 2014”.]
 
