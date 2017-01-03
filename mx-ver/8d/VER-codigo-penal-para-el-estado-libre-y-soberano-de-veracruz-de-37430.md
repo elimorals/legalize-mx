@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2016-12-30"
+last_updated: "2017-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 3 DE ENERO DE 2017.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1303,7 +1303,7 @@ En todos los casos previstos en este Capítulo, el Ministerio Público acordará
 
 ### CAPÍTULO II. OMISIÓN DE CUIDADO
 
-> <small>(REFORMADO, G.O. 2 DE JUNIO DE 2014)</small>
+(REFORMADO, G.O. 3 DE ENERO DE 2017
 
 ###### Artículo 155.
 
@@ -1317,7 +1317,7 @@ A quien lesione a una persona, así sea culposa o fortuitamente, y no le preste 
 
 ###### Artículo 156.
 
-A quien abandone a una persona incapaz de valerse por sí misma, exponiéndola a un peligro en su integridad física, teniendo la obligación de cuidarla, se le impondrán de dos a seis años de prisión y multa hasta de trescientos días de salario. Además, si el activo fuese ascendiente o tutor del ofendido, se le privará de la patria potestad o de la tutela.
+A quien abandone a menores o personas enfermas, adultas mayores o incapaces de cuidarse por sí mismos, exponiéndolas a un peligro en su integridad física, teniendo la obligación de cuidarlas, se le impondrán de dos a seis años de prisión y multa hasta de trescientos días de salario. Además, si el activo fuese ascendiente o tutor del ofendido, se le privará de la patria potestad o de la tutela o custodia, así como del derecho a heredar si estuviere en aptitud legal para ello.
 
 ### CAPÍTULO IV. PELIGRO DE CONTAGIO
 
@@ -4332,5 +4332,13 @@ G.O. 30 DE DICIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 231 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 3 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 6 QUE REFORMA EL ARTÍCULO 156 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
