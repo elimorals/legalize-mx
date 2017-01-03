@@ -4,7 +4,7 @@ identifier: "LGV"
 country: "mx"
 rank: "ley_general"
 publication_date: "2013-01-09"
-last_updated: "2013-05-03"
+last_updated: "2017-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90708&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGV"
 
 LEY GENERAL DE VÍCTIMAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 2017.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 9 de enero de 2013.
 
@@ -44,17 +44,17 @@ LEY GENERAL DE VÍCTIMAS
 
 ### CAPÍTULO I. APLICACIÓN, OBJETO E INTERPRETACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 1.
 
-La presente Ley general es de orden público, de interés social y observancia en todo el territorio nacional, en términos de lo dispuesto por los artículos 1o., párrafo tercero, 17, y 20 de la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales celebrados y ratificados por el Estado Mexicano, y otras leyes en materia de víctimas.
+La presente Ley general es de orden público, de interés social y observancia en todo el territorio nacional, en términos de lo dispuesto por los artículos 1o., párrafo tercero, 17, 20 y 73, fracción XXIX-X, de la Constitución Política de los Estados Unidos Mexicanos, Tratados Internacionales celebrados y ratificados por el Estado Mexicano, y otras leyes en materia de víctimas.
 
 En las normas que protejan a víctimas en las leyes expedidas por el Congreso, se aplicará siempre la que más favorezca a la persona.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
-La presente Ley obliga, en sus respectivas competencias, a las autoridades de todos los ámbitos de gobierno, y de sus poderes constitucionales, así como a cualquiera de sus oficinas, dependencias, organismos o instituciones públicas o privadas que velen por la protección de las víctimas, a proporcionar ayuda, asistencia o reparación integral.
+La presente Ley obliga, en sus respectivas competencias, a las autoridades de todos los ámbitos de gobierno, y de sus poderes constitucionales, así como a cualquiera de sus oficinas, dependencias, organismos o instituciones públicas o privadas que velen por la protección de las víctimas, a proporcionar ayuda, asistencia o reparación integral. Las autoridades de todos los ámbitos de gobierno deberán actuar conforme a los principios y criterios establecidos en esta Ley, así como brindar atención inmediata en especial en materias de salud, educación y asistencia social, en caso contrario quedarán sujetos a las responsabilidades administrativas, civiles o penales a que haya lugar.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -148,6 +148,12 @@ Integralidad, indivisibilidad e interdependencia.- Todos los derechos contemplad
 
 Para garantizar la integralidad, la asistencia, atención, ayuda y reparación integral a las víctimas se realizará de forma multidisciplinaria y especializada.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Interés superior de la niñez.- El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
+
+Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
+
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 Máxima protección.- Toda autoridad de los órdenes de gobierno debe velar por la aplicación más amplia de medidas de protección a la dignidad, libertad, seguridad y demás derechos de las víctimas del delito y de violaciones a los derechos humanos.
@@ -196,21 +202,23 @@ Las autoridades deberán contar con mecanismos efectivos de rendición de cuenta
 
 Trato preferente.- Todas las autoridades en el ámbito de sus competencias tienen la obligación de garantizar el trato digno y preferente a las víctimas.
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO SIN NÚMERO, PUBLICADO EN EL D.O.F. 3 DE MAYO DE 2013, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+> <small>[N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO SIN NÚMERO, PUBLICADO EN EL D.O.F. 3 DE MAYO DE 2013, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
 
 ###### Artículo 6.
 
 Para los efectos de esta Ley, se entenderá por:
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-I. Asesor Jurídico: Asesor Jurídico Federal de Atención a Víctimas y sus equivalentes en las entidades federativas;
+I. Asesor Jurídico: Asesor Jurídico Federal de Atención a Víctimas adscritos a la Comisión Ejecutiva y sus equivalentes en las entidades federativas;
 
 > <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 II. Asesoría Jurídica: Asesoría Jurídica Federal de Atención a Víctimas y sus equivalentes en las entidades federativas;
 
-III. Comisiones de víctimas: Comisión Estatal y del Distrito Federal de Atención Integral a Víctimas;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+III. Comisiones de víctimas: Comisiones Estatales de Atención Integral a Víctimas y de la Ciudad de México;
 
 IV. Comisión Ejecutiva: Comisión Ejecutiva de Atención a Víctimas;
 
@@ -228,49 +236,57 @@ VII. Delito: Acto u omisión que sancionan las leyes penales;
 
 VIII. Fondo: Fondo de Ayuda, Asistencia y Reparación Integral;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE ENERO DE 2017)</small>
 
-IX. Hecho victimizante: Actos u omisiones que dañan, menoscaban o ponen en peligro los bienes jurídicos o derechos de una persona convirtiéndola en víctima. Éstos pueden estar tipificados como delito o constituir una violación a los derechos humanos reconocidos por la Constitución y los Tratados Internacionales de los que México forme parte;
+IX. Fondo estatal: El fondo de ayuda, asistencia y reparación integral en cada entidad federativa;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-X. Ley: Ley General de Víctimas;
+X. Hecho victimizante: Actos u omisiones que dañan, menoscaban o ponen en peligro los bienes jurídicos o derechos de una persona convirtiéndola en víctima. Estos pueden estar tipificados como delitos o constituir una violación a los derechos humanos reconocidos por la Constitución y los Tratados Internacionales de los que México forme parte;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-XI. Plan: Plan Anual Integral de Atención a Víctimas;
+XI. Ley: Ley General de Víctimas;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-XII. Programa: Programa de Atención Integral a Víctimas;
+XII. Plan: Plan Anual Integral de Atención a Víctimas;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-XIII. Procedimiento: Procedimientos seguidos ante autoridades judiciales o administrativas;
+XIII. Programa: Programa de Atención Integral a Víctimas;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-XIV. Registro: Registro Nacional de Víctimas, que incluye el registro federal y los registros de las entidades federativas;
+XIV. Procedimiento: Procedimientos seguidos ante autoridades judiciales o administrativas;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE ENERO DE 2017)</small>
 
-XV. Reglamento: Reglamento de la Ley General de Víctimas;
+XV. Recursos de Ayuda: Gastos de ayuda inmediata, ayuda, asistencia, atención y rehabilitación previstos en los títulos segundo, tercero y cuarto de la Ley, con cargo al Fondo o a los Fondos estatales, según corresponda;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-XVI. Sistema: Sistema Nacional de Atención a Víctimas;
+XVI. Registro: Registro Nacional de Víctimas, que incluye el registro federal y los registros de las entidades federativas;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-XVII. Víctima: Persona física que directa o indirectamente ha sufrido daño o el menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un delito;
+XVII. Reglamento: Reglamento de la Ley General de Víctimas;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-XVIII. Víctima potencial: Las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima ya sea por impedir o detener la violación de derechos o la comisión de un delito;
+XVIII. Sistema: Sistema Nacional de Atención a Víctimas;
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-XIX. Violación de derechos humanos: Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución o en los Tratados Internacionales, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de derechos humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público.
+XIX. Víctima: Persona física que directa o indirectamente ha sufrido daño o el menoscabo de sus derechos producto de una violación de derechos humanos o de la comisión de un delito;
+
+> <small>(REFORMADA [N. DE E. Y REUBICADA ANTES FRACCIÓN XVIII], D.O.F. 3 DE ENERO DE 2017)</small>
+
+XX. Víctima potencial: Las personas físicas cuya integridad física o derechos peligren por prestar asistencia a la víctima ya sea por impedir o detener la violación de derechos o la comisión de un delito, y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XIX], D.O.F. 3 DE ENERO DE 2017)</small>
+
+XXI. Violación de derechos humanos: Todo acto u omisión que afecte los derechos humanos reconocidos en la Constitución o en los Tratados Internacionales, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de derechos humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS DE LAS VÍCTIMAS
 
@@ -326,7 +342,9 @@ XIX. A ser beneficiaria de las acciones afirmativas y programas sociales públic
 
 XX. A participar en la formulación, implementación y seguimiento de la política pública de prevención, ayuda, atención, asistencia y reparación integral;
 
-XXI. A que las políticas públicas que son implementadas con base en la presente Ley tengan un enfoque transversal de género y diferencial, particularmente en atención a la infancia, los adultos mayores y población indígena;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+XXI. A que las políticas públicas que son implementadas con base en la presente Ley tengan un enfoque transversal de género y diferencial, particularmente en atención a la infancia, los adultos mayores, la población indígena y las personas en situación de desplazamiento interno;
 
 XXII. A no ser discriminadas ni limitadas en sus derechos;
 
@@ -344,29 +362,73 @@ XXVIII. A expresar libremente sus opiniones e intereses ante las autoridades e i
 
 XXIX. Derecho a ejercer los recursos legales en contra de las decisiones que afecten sus intereses y el ejercicio de sus derechos;
 
-XXX. A que se les otorgue, en los casos que proceda, la ayuda provisional;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+XXX. A que se les otorgue, la ayuda provisional de los Recursos de Ayuda de la Comisión Ejecutiva o de las Comisiones de víctimas en los términos de la presente Ley;
 
 XXXI. A recibir gratuitamente la asistencia de un intérprete o traductor de su lengua, en caso de que no comprendan el idioma español o tenga discapacidad auditiva, verbal o visual;
 
 XXXII. A trabajar de forma colectiva con otras víctimas para la defensa de sus derechos, incluida su reincorporación a la sociedad;
 
-XXXIII. A participar en espacios colectivos donde se proporcione apoyo individual o colectivo que le permita relacionarse con otras víctimas, y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-XXXIV. Los demás señalados por la Constitución, los Tratados Internacionales, esta Ley y cualquier otra disposición aplicable en la materia o legislación especial.
+XXXIII. A participar en espacios colectivos donde se proporcione apoyo individual o colectivo que le permita relacionarse con otras víctimas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE ENERO DE 2017)</small>
+
+XXXIV. Toda comparecencia ante el órgano investigador, el juez o tribunal, organismo público de protección de los derechos humanos, o ante cualquiera otra autoridad o perito que requiera la presencia de la Víctima, se considerará justificada para los efectos laborales y escolares, teniendo ella derecho a gozar del total de los emolumentos a que se refiere la Ley Federal del Trabajo;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+XXXV. La protección de las víctimas del delito de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la Ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, de los intervinientes o colaboradores en un procedimiento penal, así como de las personas o familiares cercanas a todos ellos, se otorgará además de los dispuesto por esta Ley en términos de la legislación aplicable;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+XXXVI. Tener acceso ágil, eficaz y transparente a los fondos de ayuda federal y estatales en términos de esta Ley, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], D.O.F. 3 DE ENERO DE 2017)</small>
+
+XXXVII. Los demás señalados por la Constitución, los Tratados Internacionales, esta Ley y cualquier otra disposición en la materia o legislación especial.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE AYUDA, ASISTENCIA Y ATENCIÓN
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 8.
 
-Las víctimas recibirán ayuda provisional, oportuna y rápida de acuerdo a las necesidades inmediatas que tengan relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades de alimentación, aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia, transporte de emergencia y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos. Las medidas de ayuda provisional se brindarán garantizando siempre un enfoque transversal de género y diferencial, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata.
+Las víctimas recibirán ayuda provisional, oportuna y rápida de los Recursos de Ayuda de la Comisión Ejecutiva o de las Comisiones de víctimas de las entidades federativas según corresponda, de acuerdo a las necesidades inmediatas que tengan relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades de alimentación, aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia, transporte de emergencia y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos. Las medidas de ayuda provisional se brindarán garantizando siempre un enfoque transversal de género y diferencial, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata.
 
-Las víctimas de delitos o de violaciones de derechos contra la libertad y la integridad, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente Ley.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Las víctimas de delitos o de violaciones de derechos que atenten contra la vida, contra la libertad o la integridad, así como de desplazamiento interno, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 Los servidores públicos deberán brindar información clara, precisa y accesible a las víctimas y sus familiares, sobre cada una de las garantías, mecanismos y procedimientos que permiten el acceso oportuno, rápido y efectivo a las medidas de ayuda contempladas en la presente Ley.
 
-Las medidas de ayuda, asistencia, atención y demás establecidas en los Títulos Segundo, Tercero, Cuarto y Quinto de esta Ley, se brindarán exclusivamente por las instituciones públicas de los gobiernos Federal, de las entidades federativas y municipios, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Las medidas de ayuda inmediata, ayuda, asistencia, atención, rehabilitación y demás establecidas en los Títulos Segundo, Tercero, Cuarto y Quinto de esta Ley, se brindarán por las instituciones públicas de los gobiernos Federal, de las entidades federativas y municipios en el ámbito de sus competencias, a través de los programas, mecanismos y servicios con que cuenten, salvo en los casos urgentes o de extrema necesidad en los que se podrá recurrir a instituciones privadas.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Las víctimas podrán requerir que las medidas materia de esta Ley le sean proporcionadas por una institución distinta a aquélla o aquéllas que hayan estado involucradas en el hecho victimizante, ya sea de carácter público o privado, a fin de evitar un nuevo proceso de victimización.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+La Comisión Ejecutiva, así como las Comisiones de víctimas de las entidades federativas deberán otorgar, con cargo a sus Recursos de Ayuda que corresponda, medidas de ayuda provisional, ayuda, asistencia, atención y rehabilitación que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación directa con el hecho victimizante.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+En casos urgentes, de extrema necesidad o aquellos en que las instituciones de carácter público no cuenten con la capacidad de brindar la atención que requiere, la Comisión Ejecutiva o Comisiones de víctimas podrán autorizar que la víctima acuda a una institución de carácter privado con cargo al Fondo o al Fondo Estatal, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+La Comisión Ejecutiva, así como las Comisiones de víctimas, en el ámbito de sus competencias, deberán otorgar, con cargo al Fondo o del Fondo Estatal que corresponda, los Recursos de Ayuda que requiera la víctima para garantizar que supere las condiciones de necesidad que tengan relación con el hecho victimizante. La Comisión Ejecutiva o las Comisiones de víctimas requerirán a la víctima en un plazo de treinta días, los comprobantes del gasto que se hayan generado con motivo del otorgamiento de dichas medidas, de conformidad con los criterios de comprobación a los que hace referencia el párrafo segundo del artículo 136 de la Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+La Comisión Ejecutiva deberá cubrir, con cargo al Fondo, medidas de ayuda inmediata cuando la Comisión Estatal lo solicite por escrito en caso de no contar con disponibilidad de recursos, y se comprometa a resarcirlos en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
 
 ###### Artículo 9.
 
@@ -379,6 +441,10 @@ Se entiende por asistencia el conjunto integrado de mecanismos, procedimientos, 
 Se entiende por atención, la acción de dar información, orientación y acompañamiento jurídico y psicosocial a las víctimas, con el objeto de facilitar su acceso a los derechos a la verdad, a la justicia y a la reparación integral, cualificando el ejercicio de los mismos.
 
 Las medidas de asistencia y atención no sustituyen ni reemplazan a las medidas de reparación integral, por lo tanto, el costo o las erogaciones en que incurra el Estado en la prestación de los servicios de atención y asistencia, en ningún caso serán descontados de la compensación a que tuvieran derecho las víctimas.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+La Federación y las Entidades Federativas, en el ámbito de sus respectivas competencias, deben cubrir las erogaciones derivadas de las medidas de ayuda inmediata, ayuda, asistencia, atención y rehabilitación que brinden la Comisión Ejecutiva o las Comisiones de víctimas a través de sus respectivos Recursos de Ayuda.
 
 ### CAPÍTULO III. DEL DERECHO DE ACCESO A LA JUSTICIA
 
@@ -410,7 +476,9 @@ II. A que se les repare el daño en forma expedita, proporcional y justa en los 
 
 III. A coadyuvar con el Ministerio Público; a que se les reciban todos los datos o elementos de prueba con los que cuenten, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio como partes plenas ejerciendo durante el mismo sus derechos los cuales en ningún caso podrán ser menores a los del imputado. Asimismo, tendrán derecho a que se les otorguen todas las facilidades para la presentación de denuncias o querellas;
 
-IV. A ser asesoradas y representadas dentro de la investigación y el proceso por un Asesor Jurídico. En los casos en que no quieran o no puedan contratar un abogado, les será proporcionado por el Estado, de acuerdo al procedimiento que determine esta Ley y su Reglamento; esto incluirá su derecho a elegir libremente a su representante legal;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+IV. A ser asesoradas y representadas dentro de la investigación y el proceso por un Asesor Jurídico. En los casos en que no quieran o no puedan contratar un abogado, les será proporcionado por el Estado a solicitud de la víctima de acuerdo al procedimiento que determine esta Ley y su Reglamento; esto incluirá su derecho a elegir libremente a su representante legal;
 
 V. A impugnar ante la autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento, con independencia de que se haya reparado o no el daño;
 
@@ -429,6 +497,14 @@ XI. A que se les informe sobre la realización de las audiencias donde se vaya a
 XII. A que se les notifique toda resolución que pueda afectar sus derechos y a impugnar dicha resolución, y
 
 XIII. En los casos que impliquen graves violaciones a los derechos humanos, a solicitar la intervención de expertos independientes, a fin de que colaboren con las autoridades competentes en la investigación de los hechos y la realización de peritajes. Las organizaciones de la sociedad civil o grupos de víctimas podrán solicitar que grupos de esos expertos revisen, informen y emitan recomendaciones para lograr el acceso a la justicia y a la verdad para las víctimas.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+La Comisión Ejecutiva, así como las Comisiones de víctimas de las entidades federativas, podrán cubrir los gastos que se originen con motivo de la contratación de expertos independientes o peritos a que se refiere el párrafo anterior, con cargo al Fondo o al Fondo Estatal, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -450,11 +526,17 @@ Las víctimas tienen derecho a intervenir en el proceso penal y deberán ser rec
 
 Las víctimas tienen derecho a que se les explique el alcance y trascendencia de los exámenes periciales a los que podrán someterse dependiendo de la naturaleza del caso, y en caso de aceptar su realización a ser acompañadas en todo momento por su Asesor Jurídico o la persona que consideren.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+La Comisión Ejecutiva, así como las Comisiones de víctimas de las entidades federativas, podrán cubrir los costos de los exámenes a que se refiere el párrafo anterior, con cargo al Fondo o al Fondo Estatal, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia.
 
 ###### Artículo 16.
 
-Toda comparecencia ante el órgano investigador, el juez o tribunal, o ante cualquiera otra autoridad o perito que requiera la presencia de la víctima, se considerará justificada para los efectos laborales y escolares, teniendo ella derecho a gozar del total de los emolumentos a que se refiere la Ley Federal del Trabajo.
+(DEROGADO, D.O.F. 3 DE ENERO DE 2017)
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -500,11 +582,19 @@ Esta obligación, incluye la realización de las exhumaciones de cementerios, fo
 
 Los familiares de las víctimas tienen el derecho a estar presentes en las exhumaciones, por sí y/o a través de sus asesores jurídicos; a ser informadas sobre los protocolos y procedimientos que serán aplicados; y a designar peritos independientes, acreditados ante organismo nacional o internacional de protección a los derechos humanos, que contribuyan al mejor desarrollo de las mismas.
 
-Una vez plenamente identificados y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta Ley y en los códigos de procedimientos penales, la entrega de los cuerpos u osamentas de las víctimas a sus familiares, deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Las autoridades competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar los restos de las víctimas ya identificados, de conformidad con lo que establezca el Reglamento de esta Ley.
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+La Comisión Ejecutiva, así como las Comisiones de víctimas de las entidades federativas, podrán cubrir los costos de los exámenes a que se refiere el párrafo anterior, con cargo al Fondo o al Fondo Estatal, según corresponda. Sólo se podrán contratar servicios de expertos independientes o peritos internacionales, cuando no se cuente con personal nacional capacitado en la materia.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Una vez plenamente identificados y realizadas las pruebas técnicas y científicas a las que está obligado el Estado y que han sido referidas en esta Ley, en el Código Nacional de Procedimientos Penales y la legislación aplicable, la entrega de los cuerpos u osamentas de las víctimas a sus familiares, deberá hacerse respetando plenamente su dignidad y sus tradiciones religiosas y culturales. Las autoridades competentes, a solicitud de los familiares, generarán los mecanismos necesarios para repatriar los restos de las víctimas ya identificados, de conformidad con lo que establezca el Reglamento de esta Ley.
 
 En caso necesario, a efecto de garantizar las investigaciones, la autoridad deberá notificar a los familiares la obligación de no cremar los restos, hasta en tanto haya una sentencia ejecutoriada. Las autoridades ministeriales tampoco podrán autorizar ni procesar ninguna solicitud de gobierno extranjero para la cremación de cadáveres, identificados o sin identificar, hasta en tanto no haya sentencia ejecutoriada.
 
-Con independencia de los derechos previstos en esta Ley, el reconocimiento de la personalidad jurídica de las víctimas de desaparición de personas y el procedimiento para conocer y resolver de las acciones judiciales de declaración especial de ausencia por desaparición se sujetarán a lo que dispongan las leyes aplicables, a fin de que las víctimas indirectas ejerzan de manera expedita los derechos patrimoniales y familiares del ausente para salvaguardar los intereses esenciales del núcleo familiar.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Con independencia de los derechos previstos en esta Ley, el reconocimiento de la personalidad jurídica de las víctimas de desaparición de personas y el procedimiento para conocer y resolver de las acciones judiciales de declaración especial de ausencia por desaparición se sujetarán a lo que dispongan las leyes en la materia, a fin de que las víctimas indirectas ejerzan de manera expedita los derechos patrimoniales y familiares del ausente para salvaguardar los intereses esenciales del núcleo familiar.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -582,6 +672,10 @@ VI. Para los efectos de la presente Ley, la reparación colectiva se entenderá 
 
 Las medidas colectivas que deberán implementarse tenderán al reconocimiento y dignificación de los sujetos colectivos victimizados; la reconstrucción del proyecto de vida colectivo, y el tejido social y cultural; la recuperación psicosocial de las poblaciones y grupos afectados y la promoción de la reconciliación y la cultura de la protección y promoción de los derechos humanos en las comunidades y colectivos afectados.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Las medidas de reparación integral previstas en el presente artículo podrán cubrirse con cargo al Fondo o a los Fondos Estatales, según corresponda.
+
 > <small>(DEROGADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2013)</small>
 
 ## TÍTULO TERCERO
@@ -596,13 +690,19 @@ Las medidas colectivas que deberán implementarse tenderán al reconocimiento y 
 
 La gravedad del daño sufrido por las víctimas será el eje que determinará prioridad en su asistencia, en la prestación de servicios y en la implementación de acciones dentro de las instituciones encargadas de brindarles atención y tratamiento.
 
-Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de mujeres, menores de edad, adultos mayores y población indígena.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+Los servicios a que se refiere la presente Ley tomarán en cuenta si la víctima pertenece a un grupo en condiciones de vulnerabilidad, sus características y necesidades especiales, particularmente tratándose de los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Las medidas de ayuda inmediata previstas en el presente Capítulo podrán cubrirse con cargo a los Recursos de Ayuda, según corresponda, en coordinación con las autoridades correspondientes en el ámbito de sus competencias.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 29.
 
-Las instituciones hospitalarias públicas del Gobierno Federal, de los estados, del Distrito Federal y de los municipios tienen la obligación de dar atención de emergencia de manera inmediata a las víctimas que lo requieran, con independencia de su capacidad socioeconómica o nacionalidad y sin exigir condición previa para su admisión.
+Las instituciones hospitalarias públicas Federales, de las entidades federativas y de los municipios tienen la obligación de dar atención de emergencia de manera inmediata a las víctimas que lo requieran, con independencia de su capacidad socioeconómica o nacionalidad y sin exigir condición previa para su admisión.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -630,13 +730,15 @@ IX. Servicios de interrupción voluntaria del embarazo en los casos permitidos p
 
 X. La atención para los derechos sexuales y reproductivos de las mujeres víctimas.
 
-En caso de que la institución médica a la que acude o es enviada la víctima no cuente con lo señalado en las fracciones II y III y sus gastos hayan sido cubiertos por la víctima o en el caso de la fracción IV, la Federación, los estados, el Distrito Federal o los municipios, según corresponda, los reembolsarán de manera completa e inmediata, de conformidad con lo que establezcan las normas reglamentarias aplicables.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+En caso de que la institución médica a la que acude o es enviada la víctima no cuente con lo señalado en las fracciones II y III y sus gastos hayan sido cubiertos por la víctima o en el caso de la fracción IV, la Federación, las entidades federativas o los municipios, según corresponda, los reembolsarán de manera completa e inmediata, de conformidad con lo que establezcan las normas reglamentarias aplicables.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 31.
 
-La Federación, los estados, el Gobierno del Distrito Federal o municipios donde se haya cometido el hecho victimizante apoyarán a las víctimas indirectas con los gastos funerarios que deban cubrirse por el fallecimiento de la víctima directa cuando la causa de la muerte sea homicidio. Estos gastos incluirán los de transporte, cuando el fallecimiento se haya producido en un lugar distinto al de su lugar de origen o cuando sus familiares decidan inhumar su cuerpo en otro lugar. Por ningún motivo se prohibirá a las víctimas ver los restos de sus familiares, si es su deseo hacerlo. Si los familiares de las víctimas deben desplazarse del lugar en el que se encuentran hacia otro lugar para los trámites de reconocimiento, se deberán cubrir también sus gastos. El pago de los apoyos económicos aquí mencionados, se gestionará conforme lo establezcan las normas reglamentarias aplicables.
+La Federación, las entidades federativas o municipios donde se haya cometido el hecho victimizante apoyarán a las víctimas indirectas con los gastos funerarios que deban cubrirse por el fallecimiento de la víctima directa en todos los casos en los cuales la muerte sobrevenga como resultado del hecho victimizante. Estos gastos incluirán los de transporte, cuando el fallecimiento se haya producido en un lugar distinto al de su lugar de origen o cuando sus familiares decidan inhumar su cuerpo en otro lugar. Por ningún motivo se prohibirá a las víctimas ver los restos de sus familiares, si es su deseo hacerlo. Si los familiares de las víctimas deben desplazarse del lugar en el que se encuentran hacia otro lugar para los trámites de reconocimiento, se deberán cubrir también sus gastos. El pago de los apoyos económicos aquí mencionados, se gestionará conforme lo establezcan las normas reglamentarias correspondientes a los Recursos de Ayuda de la Comisión Ejecutiva y de las Comisiones de víctimas de las entidades federativas según corresponda.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -644,11 +746,13 @@ La Federación, los estados, el Gobierno del Distrito Federal o municipios donde
 
 La Comisión Ejecutiva definirá y garantizará la creación de un Modelo de Atención Integral en Salud con enfoque psicosocial, de educación y asistencia social, el cual deberá contemplar los mecanismos de articulación y coordinación entre las diferentes autoridades obligadas e instituciones de asistencia pública que conforme al Reglamento de esta Ley presten los servicios subrogados a los que ella hace referencia. Este modelo deberá contemplar el servicio a aquellas personas que no sean beneficiarias de un sistema de prestación social o será complementario cuando los servicios especializados necesarios no puedan ser brindados por el sistema al cual pertenece.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 33.
 
-Los Gobiernos federal, estatales y del Distrito Federal, a través de sus organismos, dependencias y entidades de salud pública, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias serán las entidades obligadas a otorgar el carnet que identifique a las víctimas ante el sistema de salud, con el fin de garantizar la asistencia y atención urgentes para efectos reparadores.
+Los Gobiernos federal y de las entidades federativas, a través de sus organismos, dependencias y entidades de salud pública, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias serán las entidades obligadas a otorgar el carnet que identifique a las víctimas ante el sistema de salud, con el fin de garantizar la asistencia y atención urgentes para efectos reparadores.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 El proceso de credencialización se realizará de manera gradual y progresiva dando prioridad a las víctimas de daños graves a la salud e integridad personal. No obstante, aquellas víctimas que no cuenten con dicho carnet y requieran atención inmediata deberán ser atendidas de manera prioritaria.
 
@@ -658,9 +762,13 @@ El proceso de credencialización se realizará de manera gradual y progresiva da
 
 En materia de asistencia y atención médica, psicológica, psiquiátrica y odontológica, la víctima tendrá todos los derechos establecidos por la Ley General de Salud para los Usuarios de los Servicios de Salud, y tendrá los siguientes derechos adicionales:
 
-I. A que se proporcione gratuitamente atención médica y psicológica permanente de calidad en cualquiera de los hospitales públicos federales, estatales, del Distrito Federal y municipales, de acuerdo a su competencia, cuando se trate de lesiones, enfermedades y traumas emocionales provenientes del delito o de la violación a los derechos humanos sufridos por ella. Estos servicios se brindarán de manera permanente, cuando así se requiera, y no serán negados, aunque la víctima haya recibido las medidas de ayuda que se establecen en la presente Ley, las cuales, si así lo determina el médico, se continuarán brindando hasta el final del tratamiento;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-II. Los Gobiernos federal, estatales y del Distrito Federal, a través de sus organismos, dependencias y entidades de salud pública, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias deberán otorgar citas médicas en un periodo no mayor a ocho días, a las víctimas que así lo soliciten, salvo que sean casos de atención de emergencia en salud, en cuyo caso la atención será inmediata;
+I. A que se proporcione gratuitamente atención médica y psicológica permanente de calidad en cualquiera de los hospitales públicos federales, de las entidades federativas y municipales, de acuerdo a su competencia, cuando se trate de lesiones, enfermedades y traumas emocionales provenientes del delito o de la violación a los derechos humanos sufridos por ella. Estos servicios se brindarán de manera permanente, cuando así se requiera, y no serán negados, aunque la víctima haya recibido las medidas de ayuda que se establecen en la presente Ley, las cuales, si así lo determina el médico, se continuarán brindando hasta el final del tratamiento;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+II. Los Gobiernos federal y de las entidades federativas, a través de sus organismos, dependencias y entidades de salud pública, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias deberán otorgar citas médicas en un periodo no mayor a ocho días, a las víctimas que así lo soliciten, salvo que sean casos de atención de emergencia en salud, en cuyo caso la atención será inmediata;
 
 III. Una vez realizada la valoración médica general o especializada, según sea el caso, y la correspondiente entrega de la formula médica, se hará la entrega inmediata de los medicamentos a los cuales la víctima tenga derecho y se le canalizará a los especialistas necesarios para el tratamiento integral, si así hubiese lugar;
 
@@ -670,6 +778,10 @@ V. Se le proporcionará atención permanente en salud mental en los casos en que
 
 VI. La atención materno-infantil permanente cuando sea el caso incluyendo programas de nutrición.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+No podrá negarse la garantía de ejercer los derechos que protege este artículo a ninguna víctima que se encuentre fuera de su jurisdicción de derechohabientes.
+
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 ###### Artículo 35.
@@ -678,11 +790,11 @@ A toda víctima de violación sexual, o cualquier otra conducta que afecte su in
 
 En cada una de las entidades públicas que brinden servicios, asistencia y atención a las víctimas, se dispondrá de personal capacitado en el tratamiento de la violencia sexual con un enfoque transversal de género.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 36.
 
-Los Gobiernos federal, estatales y del Distrito Federal, a través de sus organismos, dependencias y entidades de salud pública, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, definirán los procedimientos para garantizar de manera gratuita los servicios de asistencia médica preoperatoria, postoperatoria, quirúrgica, hospitalaria y odontológica a que hubiese lugar de acuerdo al concepto médico y valoración, que permita atender lesiones transitorias y permanentes y las demás afectaciones de la salud física y psicológica que tengan relación causal directa con las conductas.
+Los Gobiernos federal y de las entidades federativas, a través de sus organismos, dependencias y entidades de salud pública, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, definirán los procedimientos para garantizar de manera gratuita los servicios de asistencia médica preoperatoria, postoperatoria, quirúrgica, hospitalaria y odontológica a que hubiese lugar de acuerdo al concepto médico y valoración, que permita atender lesiones transitorias y permanentes y las demás afectaciones de la salud física y psicológica que tengan relación causal directa con las conductas.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -692,13 +804,15 @@ En caso de que la institución médica a la que acude o es enviada la víctima n
 
 ### CAPÍTULO II. MEDIDAS EN MATERIA DE ALOJAMIENTO Y ALIMENTACIÓN
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 38.
 
-El Sistema Nacional para el Desarrollo Integral de la Familia (DIF) o su análogo, similar o correlativo en las entidades federativas y los municipios, y las instituciones de las que dependen las casas de refugio y acogida que existan y brinden estos servicios en el ámbito federal, estatal, del Distrito Federal o municipal, contratarán servicios o brindarán directamente alojamiento y alimentación en condiciones de seguridad y dignidad a las víctimas que se encuentren en especial condición de vulnerabilidad o que se encuentren amenazadas o desplazadas de su lugar de residencia por causa del delito cometido contra ellas o de la violación de sus derechos humanos. El alojamiento y la alimentación se brindarán durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de emergencia y pueda retornar libremente en condiciones seguras y dignas a su hogar.
+El Sistema Nacional para el Desarrollo Integral de la Familia (DIF) o su análogo, similar o correlativo en las entidades federativas y los municipios, y las instituciones de las que dependen las casas de refugio y acogida que existan y brinden estos servicios en el ámbito federal, estatal, del Distrito Federal o municipal, contratarán servicios o brindarán directamente alojamiento y alimentación en condiciones de seguridad y dignidad a las víctimas que se encuentren en especial condición de vulnerabilidad o que se encuentren amenazadas o en situación de desplazamiento de su lugar de residencia por causa del delito cometido contra ellas o de la violación de sus derechos humanos. El alojamiento y la alimentación se brindarán durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de emergencia, exista una solución duradera y pueda retornar libremente en condiciones seguras y dignas a su hogar.
 
-### CAPÍTULO III. MEDIDAS EN MATERIA DE TRANSPORTE
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE ENERO DE 2017)</small>
+
+### CAPÍTULO III. MEDIDAS EN MATERIA DE TRASLADO
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -706,13 +820,33 @@ El Sistema Nacional para el Desarrollo Integral de la Familia (DIF) o su análog
 
 Cuando la víctima se encuentre en un lugar distinto al de su lugar de residencia y desee regresar al mismo, las autoridades competentes de los diversos órdenes de gobierno, pagarán los gastos correspondientes, garantizando, en todos los casos, que el medio de transporte usado por la víctima para su regreso es el más seguro y el que le cause menos trauma de acuerdo con sus condiciones.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 39 Bis.
+
+Las autoridades competentes del orden de gobierno que corresponda cubrirán los gastos relacionados con los apoyos de traslados de las víctimas, que comprenden los conceptos de transportación, hospedaje y alimentación, cuando la víctima tenga que trasladarse por las siguientes causas:
+
+I. Formular denuncia o querella a efecto de que tengan reconocida su calidad procesal;
+
+II. Desahogar diligencias o comparecer ante el Ministerio Público, sus autoridades auxiliares o bien para acudir ante las autoridades judiciales, las Comisiones Nacional o Estatales de Derechos Humanos u otra autoridad relacionada con los hechos victimizantes;
+
+III. Solicitar a alguna institución nacional medidas de seguridad o protección de las autoridades competentes, cuando la víctima considere que existe un probable riesgo a su vida o integridad física o psicoemocional, y
+
+IV. Recibir atención especializada o de tratamiento por alguna institución nacional, pública o privada cuando así sea autorizado en términos del quinto párrafo del artículo 8 de esta Ley, para el apoyo médico, psicológico o social que requiera.
+
+En caso de que las Comisiones de víctimas no hayan cubierto los gastos, la Comisión Ejecutiva de conformidad con los lineamientos que para tal efecto emita, deberá brindar la ayuda a que se refiere el presente artículo, con cargo al Fondo.
+
+Las Comisiones de víctimas deberán reintegrar los gastos en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
+
 ### CAPÍTULO IV. MEDIDAS EN MATERIA DE PROTECCIÓN
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 40.
 
-Cuando la víctima se encuentre amenazada en su integridad personal o en su vida o existan razones fundadas para pensar que estos derechos están en riesgo, en razón del delito o de la violación de derechos humanos sufrida, las autoridades del orden federal, estatal, del Distrito Federal o municipales de acuerdo con sus competencias y capacidades, adoptarán con carácter inmediato, las medidas que sean necesarias para evitar que la víctima sufra alguna lesión o daño.
+Cuando la víctima se encuentre amenazada en su integridad personal o en su vida o existan razones fundadas para pensar que estos derechos están en riesgo, en razón del delito o de la violación de derechos humanos sufrida, las autoridades del orden federal, de las entidades federativas o municipales de acuerdo con sus competencias y capacidades, adoptarán con carácter inmediato, las medidas que sean necesarias para evitar que la víctima sufra alguna lesión o daño.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 Las medidas de protección a las víctimas se deberán implementar con base en los siguientes principios:
 
@@ -724,7 +858,9 @@ III. Principio de confidencialidad: Toda la información y actividad administrat
 
 IV. Principio de oportunidad y eficacia: Las medidas deben ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima y deben ser otorgadas e implementadas a partir del momento y durante el tiempo que garanticen su objetivo.
 
-Serán sancionadas administrativa, civil o penalmente, de conformidad con las leyes aplicables, los servidores públicos federales, estatales, del Distrito Federal o municipales que contribuyan a poner en riesgo la seguridad de las víctimas, ya sea a través de intimidación, represalias, amenazas directas, negligencia o cuando existan datos suficientes que demuestren que las víctimas podrían ser nuevamente afectadas por la colusión de dichas autoridades con los responsables de la comisión del delito o con un tercero implicado que amenace o dañe la integridad física o moral de una víctima.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Serán sancionadas administrativa, civil o penalmente, de conformidad con las leyes aplicables, los servidores públicos federales, de las entidades federativas o municipales que contribuyan a poner en riesgo la seguridad de las víctimas, ya sea a través de intimidación, represalias, amenazas directas, negligencia o cuando existan datos suficientes que demuestren que las víctimas podrían ser nuevamente afectadas por la colusión de dichas autoridades con los responsables de la comisión del delito o con un tercero implicado que amenace o dañe la integridad física o moral de una víctima.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -734,11 +870,11 @@ Las medidas adoptadas deberán ser acordes con la amenaza que tratan de conjurar
 
 ### CAPÍTULO V. MEDIDAS EN MATERIA DE ASESORÍA JURÍDICA
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 42.
 
-Las autoridades del orden federal, estatal, las del Distrito Federal y municipios brindarán de inmediato a las víctimas información y asesoría completa y clara sobre los recursos y procedimientos judiciales, administrativos o de otro tipo a los cuales ellas tienen derecho para la mejor defensa de sus intereses y satisfacción de sus necesidades, así como sobre el conjunto de derechos de los que son titulares en su condición de víctima. La Comisión Ejecutiva garantizará lo dispuesto en el presente artículo a través de la Asesoría Jurídica federal o de las entidades federativas, en los términos del título correspondiente.
+Las autoridades del orden federal, de las entidades federativas y municipios brindarán de inmediato a las víctimas información y asesoría completa y clara sobre los recursos y procedimientos judiciales, administrativos o de otro tipo a los cuales ellas tienen derecho para la mejor defensa de sus intereses y satisfacción de sus necesidades, así como sobre el conjunto de derechos de los que son titulares en su condición de víctima. La Comisión Ejecutiva garantizará lo dispuesto en el presente artículo a través de la Asesoría Jurídica federal o de las entidades federativas, en los términos del título correspondiente.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -762,23 +898,23 @@ La Comisión Ejecutiva como responsable de la creación y gestión del Registro 
 
 El sistema nacional de seguridad pública recabará y concentrará información estadística sobre víctimas asistidas por las comisiones ejecutivas de las entidades federativas, por modalidades de asistencia, ayuda o reparación y por tipo de delito o violación de derechos que la motivare. La información tendrá carácter público y en ningún caso incluirá datos personales.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 45.
 
-Conforme a los lineamientos desarrollados por la Comisión Ejecutiva, las secretarías, dependencias, organismos y entidades del orden federal y de las entidades federativas del sector salud, educación, desarrollo social y las demás obligadas, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la presente Ley y en particular el enfoque diferencial para las mujeres; niños, niñas y adolescentes; personas con discapacidad; adultos mayores y población indígena.
+Conforme a los lineamientos desarrollados por la Comisión Ejecutiva, las secretarías, dependencias, organismos y entidades del orden federal y de las entidades federativas del sector salud, educación, desarrollo social y las demás obligadas, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán tener en cuenta las principales afectaciones y consecuencias del hecho victimizante, respetando siempre los principios generales establecidos en la presente Ley y en particular el enfoque diferencial para los grupos expuestos a un mayor riesgo de violación de sus derechos, como niñas, niños y adolescentes, mujeres, adultos mayores, personas con discapacidad, migrantes, indígenas, personas defensoras de derechos humanos, periodistas y personas en situación de desplazamiento interno.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 46.
 
-Todas las medidas de asistencia, atención, protección o servicios otorgados por las instituciones públicas federales, de los estados, del Distrito Federal y de los municipios a las víctimas por cualquier hecho, serán gratuitos y éstas recibirán un trato digno con independencia de su capacidad socio-económica y sin exigir condición previa para su admisión a éstos que las establecidas en la presente Ley.
+Todas las medidas de asistencia, atención, protección o servicios otorgados por las instituciones públicas federales, de las entidades federativas y de los municipios a las víctimas por cualquier hecho, serán gratuitos y éstas recibirán un trato digno con independencia de su capacidad socio- económica y sin exigir condición previa para su admisión a éstos que las establecidas en la presente Ley.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 47.
 
-Las políticas y acciones establecidas en este Capítulo tienen por objeto asegurar el acceso de las víctimas a la educación y promover su permanencia en el sistema educativo si como consecuencia del delito o de la violación a derechos humanos se interrumpen los estudios, para lo cual se tomarán medidas para superar esta condición provocada por el hecho victimizante. La educación deberá contar con enfoque transversal de género y diferencial, de inclusión social y con perspectiva de derechos. Se buscará garantizar la exención para las víctimas de todo tipo de costos académicos en las instituciones públicas de educación preescolar, primaria, secundaria y media superior.
+Las políticas y acciones establecidas en este Capítulo tienen por objeto asegurar el acceso de las víctimas a la educación y promover su permanencia en el sistema educativo si como consecuencia del delito o de la violación a derechos humanos se interrumpen los estudios, para lo cual se tomarán medidas para superar esta condición provocada por el hecho victimizante, particularmente niñas, niños y adolescentes, mujeres, personas con discapacidad, migrantes, indígenas y personas en situación de desplazamiento interno. La educación deberá contar con enfoque transversal de género y diferencial, de inclusión social y con perspectiva de derechos. Se buscará garantizar la exención para las víctimas de todo tipo de costos académicos en las instituciones públicas de educación preescolar, primaria, secundaria y media superior.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -804,11 +940,11 @@ El Estado a través de sus organismos descentralizados y de los particulares con
 
 La víctima o sus familiares tendrán el derecho de recibir becas completas de estudio en instituciones públicas, como mínimo hasta la educación media superior para sí o los dependientes que lo requieran.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 52.
 
-Los Gobiernos federal, estatales y del Distrito Federal, a través de sus secretarías, dependencias, entidades y organismos de educación, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias deberán entregar a los niños, niñas y adolescentes víctimas los respectivos paquetes escolares y uniformes para garantizar las condiciones dignas y su permanencia en el sistema educativo.
+Los Gobiernos federal y de las entidades federativas, a través de sus secretarías, dependencias, entidades y organismos de educación, así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias deberán entregar a los niños, niñas y adolescentes víctimas, los respectivos paquetes escolares y uniformes para garantizar las condiciones dignas y su permanencia en el sistema educativo.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -816,11 +952,11 @@ Los Gobiernos federal, estatales y del Distrito Federal, a través de sus secret
 
 La víctima o sus hijos menores de edad, deberán tener acceso a los libros de texto gratuitos y demás materiales educativos complementarios que la Secretaría de Educación Pública proporcione.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 54.
 
-Los Gobiernos federal, estatales y del Distrito Federal, a través de sus secretarías, dependencias, entidades y organismos de educación y las instituciones de educación superior, en el marco de su autonomía, establecerán los apoyos para que las víctimas participen en los procesos de selección, admisión y matrícula que les permitan acceder a los programas académicos ofrecidos por estas instituciones, para lo cual incluirán medidas de exención del pago de formulario de inscripción y de derechos de grado.
+Los Gobiernos federal y de las entidades federativas, a través de sus secretarías, dependencias, entidades y organismos de educación y las instituciones de educación superior, en el marco de su autonomía, establecerán los apoyos para que las víctimas participen en los procesos de selección, admisión y matrícula que les permitan acceder a los programas académicos ofrecidos por estas instituciones, para lo cual incluirán medidas de exención del pago de formulario de inscripción y de derechos de grado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -838,11 +974,11 @@ Dentro de la política de desarrollo social el Estado en sus distintos órdenes,
 
 Son derechos para el desarrollo social, la educación, la salud, la alimentación, la vivienda, el disfrute de un medio ambiente sano, el trabajo y la seguridad social y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos y de los Tratados Internacionales de derechos humanos.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 57.
 
-La Federación, los estados, el Gobierno del Distrito Federal y los municipios en sus respectivos ámbitos, formularán y aplicarán políticas y programas de asistencia, que incluyan oportunidades de desarrollo productivo e ingreso en beneficio de las víctimas destinando los recursos presupuestales necesarios y estableciendo metas cuantificables para ello.
+La Federación, las entidades federativas y los municipios en sus respectivos ámbitos, formularán y aplicarán políticas y programas de asistencia, que incluyan oportunidades de desarrollo productivo e ingreso en beneficio de las víctimas destinando los recursos presupuéstales necesarios y estableciendo metas cuantificables para ello.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -888,7 +1024,9 @@ Las víctimas tendrán derecho a la restitución en sus derechos conculcados, as
 
 Las medidas de restitución comprenden, según corresponda:
 
-I. Restablecimiento de la libertad, en caso de secuestro o desaparición forzada;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+I. Restablecimiento de la libertad, en caso de secuestro o desaparición de persona;
 
 II. Restablecimiento de los derechos jurídicos;
 
@@ -898,7 +1036,9 @@ IV. Restablecimiento de la vida y unidad familiar;
 
 V. Restablecimiento de la ciudadanía y de los derechos políticos;
 
-VI. Regreso digno y seguro al lugar de residencia;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+VI. Regreso digno y seguro al lugar original de residencia u origen;
 
 VII. Reintegración en el empleo, y
 
@@ -960,6 +1100,14 @@ Las normas reglamentarias aplicables establecerán el procedimiento y el monto d
 
 La compensación subsidiaria a las víctimas de los delitos señaladas en el artículo 68 de esta Ley, consistirá en apoyo económico cuya cuantía tomará en cuenta la proporcionalidad del daño y los montos señalados en el artículo 67 de este ordenamiento.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+En los casos de la fracción VIII, cuando se hayan cubierto con los Recursos de Ayuda, no se tomarán en consideración para la determinación de la compensación.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+La Comisión Ejecutiva o las Comisiones de víctimas, según corresponda, expedirán los lineamientos respectivos a efecto de que a la víctima no se le cause mayores cargas de comprobación.
+
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 ###### Artículo 65.
@@ -986,25 +1134,35 @@ Cuando se trate de resoluciones judiciales que determinen la compensación a la 
 
 Sólo en caso de que no se actualicen los supuestos anteriores, se estará a lo dispuesto en el artículo 67 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 67.
 
-El Pleno de la Comisión Ejecutiva correspondiente determinará el monto del pago de una compensación en forma subsidiaria a cargo del fondo respectivo en términos de la presente Ley o la legislación local aplicable, así como de las normas reglamentarias correspondientes, tomando en cuenta:
-
-a) La determinación del Ministerio Público cuando el responsable se haya sustraído de la justicia, haya muerto o desaparecido o se haga valer un criterio de oportunidad;
-
-b) La resolución firme emitida por la autoridad judicial;
-
-La determinación de la Comisión Ejecutiva correspondiente deberá dictarse dentro del plazo de noventa días contados a partir de emitida la resolución correspondiente.
-
-El monto de la compensación subsidiaria a la que se podrá obligar al Estado, en sus ámbitos federal o local, será hasta de quinientas veces el salario mínimo mensual en el Distrito Federal, ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
+La Comisión Ejecutiva o las Comisiones de víctimas, según corresponda, determinarán el monto del pago de una compensación en forma subsidiaria a cargo del fondo respectivo en términos de la presente Ley y la legislación local aplicable, así como de las normas reglamentarias correspondientes, tomando en cuenta:
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
+a) La determinación del Ministerio Público cuando el responsable se haya sustraído de la justicia, haya muerto o desaparecido o se haga valer un criterio de oportunidad;
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
+b) La resolución firme emitida por la autoridad judicial;
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
+La determinación de la Comisión Ejecutiva correspondiente deberá dictarse dentro del plazo de noventa días contados a partir de emitida la resolución correspondiente.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+El monto de la compensación subsidiaria a la que se podrá obligar al Estado, en sus ámbitos federal o local, será hasta de quinientas Unidades de Medida y Actualización mensuales, que ha de ser proporcional a la gravedad del daño sufrido y no podrá implicar el enriquecimiento para la víctima.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
 ###### Artículo 68.
 
-La Federación y las entidades federativas compensarán de forma subsidiaria el daño causado a la víctima de los delitos considerados como graves en el ámbito de su competencia en aquellos casos en que la víctima haya sufrido daño o menoscabo a su libertad, o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física y/o mental como consecuencia del delito.
+La Federación y las entidades federativas compensarán a través de las Comisiones en el ámbito de su competencia, de forma subsidiaria el daño causado a la víctima de los delitos que ameriten prisión preventiva oficiosa o en aquellos casos en que la víctima haya sufrido daño o menoscabo a su libertad, daño o menoscabo al libre desarrollo de su personalidad o si la víctima directa hubiera fallecido o sufrido un deterioro incapacitante en su integridad física o mental como consecuencia del delito, cuando así lo determine la autoridad judicial.
+
+La Comisión Ejecutiva podrá cubrir la compensación subsidiaria para asegurar su cumplimiento, con cargo al Fondo, cuando la Comisión de víctimas de la entidad federativa lo solicite por escrito en términos de lo previsto en la fracción XVII del artículo 81 de la Ley.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1018,17 +1176,17 @@ II. La sentencia firme de la autoridad judicial competente, en la que se señale
 
 III. La resolución emitida por autoridad competente u organismo público de protección de los derechos humanos de donde se desprenda que no ha obtenido la reparación del daño, de la persona directamente responsable de satisfacer dicha reparación.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 70.
 
-La compensación subsidiaria a favor de las víctimas de delitos, se cubrirá con cargo al Fondo en términos de esta Ley y su Reglamento.
+La compensación subsidiaria a favor de las víctimas de delitos se cubrirá con cargo al Fondo o los Fondos Estatales, según corresponda, en términos de esta Ley y su Reglamento.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 71.
 
-La Federación tendrá derecho a exigir que el sentenciado restituya al Fondo los recursos erogados por concepto de la compensación subsidiaria otorgada a la víctima por el delito que aquél cometió.
+La Federación a través de la Comisión Ejecutiva o las entidades federativas, según corresponda, tendrán la obligación de exigir que el sentenciado restituya al Fondo o a los Fondos Estatales los recursos erogados por concepto de la compensación subsidiaria otorgada a la víctima por el delito que aquél cometió.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1134,19 +1292,33 @@ Cuando el sujeto haya sido sentenciado por delitos o violación a los derechos h
 
 El Sistema Nacional de Atención a Víctimas será la instancia superior de coordinación y formulación de políticas públicas y tendrá por objeto proponer, establecer y supervisar las directrices, servicios, planes, programas, proyectos, acciones institucionales e interinstitucionales, y demás políticas públicas que se implementen para la protección, ayuda, asistencia, atención, acceso a la justicia, a la verdad y a la reparación integral a las víctimas en los ámbitos local, federal y municipal.
 
-El Sistema Nacional de Atención a Víctimas está constituido por todas las instituciones y entidades públicas federales, estatales, del Gobierno del Distrito Federal y municipales, organismos autónomos, y demás organizaciones públicas o privadas, encargadas de la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas, a que se refiere el Capítulo II del presente Título.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+El Sistema Nacional de Atención a Víctimas está constituido por todas las instituciones y entidades públicas federales, estatales, del Gobierno de la Ciudad de México y municipales, organismos autónomos, y demás organizaciones públicas o privadas, encargadas de la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas, a que se refiere el Capítulo II del presente Título.
 
 El Sistema tiene por objeto la coordinación de instrumentos, políticas, servicios y acciones entre las instituciones y organismos ya existentes y los creados por esta Ley para la protección de los derechos de las víctimas.
 
-Para la operación del Sistema y el cumplimiento de sus atribuciones, el Sistema contará con una Comisión Ejecutiva Federal de Atención a Víctimas y Comisiones Ejecutivas de atención a víctimas estatales y del Distrito Federal, quienes conocerán y resolverán los asuntos de su competencia, de conformidad con las disposiciones aplicables.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
-Las Comisiones Ejecutivas de atención a víctimas estatales y del Distrito Federal tienen la obligación de atender a las víctimas de delitos del fuero común o de violaciones a derechos cometidos por servidores públicos del orden estatal o municipal. Las víctimas podrán acudir directamente a la Comisión Ejecutiva Federal de Atención a Víctimas cuando no hubieren recibido respuesta dentro de los treinta días naturales siguientes, cuando la atención se hubiere prestado de forma deficiente o cuando se hubiere negado.
+Para la operación del Sistema y el cumplimiento de sus atribuciones, el Sistema contará con una Comisión Ejecutiva y Comisiones de víctimas, quienes conocerán y resolverán los asuntos de su competencia, de conformidad con las disposiciones aplicables.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Las Comisiones de víctimas tienen la obligación de atender, asistir y, en su caso, reparar a las víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Las víctimas podrán acudir directamente a la Comisión Ejecutiva cuando no hubieren recibido respuesta dentro de los treinta días naturales siguientes, cuando la atención se hubiere prestado de forma deficiente o cuando se hubiere negado. En estos casos, la Comisión Ejecutiva podrá otorgar las medidas de atención inmediata, en términos de lo previsto por el Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+En el caso de víctimas de desplazamiento interno que se encuentren en una entidad federativa distinta de su entidad de origen la Comisión Ejecutiva y las Comisiones Ejecutivas en el ámbito de sus competencias, cuando proceda, garantizarán su debido registro, atención y reparación, en términos de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 80.
 
-El Gobierno Federal, los estados, el Gobierno del Distrito Federal y los municipios, en el ámbito de sus respectivas competencias, así como los sectores social y privado, deberán coordinarse para establecer los mecanismos de organización, supervisión, evaluación y control de los servicios en materia de protección, ayuda, asistencia y atención, acceso a la justicia, a la verdad y reparación integral a víctimas, previstos en esta Ley.
+El Gobierno Federal, de las entidades federativas y los municipios, en el ámbito de sus respectivas competencias, así como los sectores social y privado, deberán coordinarse para establecer los mecanismos de organización, supervisión, evaluación y control de los servicios en materia de protección, ayuda, asistencia y atención, acceso a la justicia, a la verdad y reparación integral a víctimas, previstos en esta Ley.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1154,11 +1326,15 @@ El Gobierno Federal, los estados, el Gobierno del Distrito Federal y los municip
 
 Para el cumplimiento de su objeto, el Sistema tendrá las siguientes atribuciones:
 
-I. Promover la coordinación y colaboración entre las instituciones, entidades públicas federales, estatales, del Gobierno del Distrito Federal y municipales, organismos autónomos encargados de la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+I. Promover la coordinación y colaboración entre las instituciones, entidades públicas federales, estatales, del Gobierno de la Ciudad de México y municipales, organismos autónomos encargados de la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas;
 
 II. Formular propuestas para la elaboración del Programa de Atención Integral a Víctimas y demás instrumentos programáticos relacionados con la protección, ayuda, asistencia, atención, defensa de los derechos humanos, acceso a la justicia, a la verdad y a la reparación integral de las víctimas;
 
-III. Analizar y evaluar los resultados que arrojen las evaluaciones que se realicen a la Comisión Ejecutiva de Atención a Víctimas y a su equivalente en las entidades federativas y el Distrito Federal;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+III. Analizar y evaluar los resultados que arrojen las evaluaciones que se realicen a la Comisión Ejecutiva de Atención a Víctimas y a su equivalente en las entidades federativas.
 
 IV. Elaborar propuestas de reformas en materia de atención a víctimas;
 
@@ -1184,9 +1360,27 @@ XIV. Establecer lineamientos para el desahogo de procedimientos de atención a v
 
 XV. Expedir sus reglas de organización y funcionamiento;
 
-XVI. Promover la uniformidad de criterios jurídicos, y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-XVII. Las demás que le otorga esta Ley y otras disposiciones aplicables.
+XVI. Promover la uniformidad de criterios jurídicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE ENERO DE 2017)</small>
+
+XVII. Promover la celebración de convenios de coordinación entre la Comisión Ejecutiva y las Comisiones de víctimas para establecer las reglas de reintegración de los recursos erogados por la Comisión Ejecutiva a través del Fondo, ya sea por conceptos de Recursos de Ayuda o de compensación subsidiaria. Dichos convenios garantizarán los criterios de transparencia, oportunidad, eficiencia y rendición de cuentas y deberán contener como mínimo:
+
+a) La obligación de las Comisiones de víctimas de entregar por escrito a la Comisión Ejecutiva la solicitud fundada y motivada de apoyo para la atención de la víctima;
+
+b) La obligación de las Comisiones de víctimas de acompañar a cada solicitud de apoyo copia certificada del estado financiero que guarda su Fondo Estatal en el que demuestre que no cuenta con recursos suficientes para la atención de la víctima;
+
+c) El plazo para restituir los recursos solicitados a la Comisión Ejecutiva, el cual no podrá exceder del primer semestre del siguiente ejercicio fiscal.
+
+En caso de incumplimiento al reintegro, la Federación compensará el monto respectivo con cargo a las transferencias de recursos federales que correspondan a la entidad federativa de que se trate, y
+
+d) La obligación de la Comisión Ejecutiva de dar aviso a la Auditoria Superior de la Federación en caso de incumplimiento de pago de la entidad federativa, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 3 DE ENERO DE 2017)</small>
+
+XVIII. Las demás que le otorgue esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO II. INTEGRACIÓN DEL SISTEMA NACIONAL DE ATENCIÓN A VÍCTIMAS
 
@@ -1220,7 +1414,9 @@ IV. Organismos Públicos:
 
 a) El Presidente de la Comisión Nacional de los Derechos Humanos, y
 
-b) Un representante de organismos públicos de protección de los derechos humanos de los estados y del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+b) Un representante de organismos públicos de protección de los derechos humanos de las entidades federativas.
 
 V. La Comisión Ejecutiva de Atención a Víctimas y un representante de las comisiones ejecutivas locales.
 
@@ -1238,7 +1434,9 @@ Corresponderá al Presidente del Sistema la facultad de promover en todo tiempo 
 
 El Presidente del Sistema será suplido en sus ausencias por el Secretario de Gobernación. Los integrantes del Sistema deberán asistir personalmente.
 
-Tendrán el carácter de invitados a las sesiones del Sistema o de las comisiones previstas en esta Ley, las instituciones u organizaciones privadas o sociales, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras, que por acuerdo del Pleno de la Comisión Ejecutiva deban participar en la sesión que corresponda.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Tendrán el carácter de invitados a las sesiones del Sistema o de las comisiones previstas en esta Ley, las instituciones u organizaciones privadas o sociales, los colectivos o grupos de víctimas o las demás instituciones nacionales o extranjeras, que por acuerdo del Titular de la Comisión Ejecutiva deban participar en la sesión que corresponda.
 
 El Reglamento establecerá el mecanismo de invitación correspondiente. Los invitados acudirán a las reuniones con derecho a voz pero sin voto.
 
@@ -1246,61 +1444,173 @@ El Reglamento establecerá el mecanismo de invitación correspondiente. Los invi
 
 ### CAPÍTULO III. DE LA ESTRUCTURA OPERATIVA DEL SISTEMA NACIONAL DE ATENCIÓN A VÍCTIMAS
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 84.
 
-La Comisión Ejecutiva de Atención a Víctimas es el órgano operativo del Sistema Nacional de Atención a Víctimas, contará con personalidad jurídica, patrimonio propio y gozará de autonomía técnica y de gestión. El Titular del Ejecutivo Federal expedirá el Reglamento de esta Ley, el cual establecerá las atribuciones y funciones de la Comisión Ejecutiva.
+La Comisión Ejecutiva es un organismo con personalidad jurídica y patrimonio propios; con autonomía técnica, de gestión y contará con los recursos que le asigne el Presupuesto de Egresos de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Las medidas y reparaciones que dicte la Comisión Ejecutiva, serán determinadas por el Comisionado Ejecutivo en los términos de la fracción XIII del artículo 95 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+La Comisión Ejecutiva tendrá por objeto garantizar, promover y proteger los derechos de las víctimas del delito y de violaciones a derechos humanos, en especial los derechos a la asistencia, a la protección, a la atención, a la verdad, a la justicia, a la reparación integral y a la debida diligencia, en términos del artículo 2 de la Ley; así como desempeñarse como el órgano operativo del Sistema y las demás que esta Ley señale.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+El domicilio de la Comisión Ejecutiva es en la Ciudad de México, y podrá establecer delegaciones y oficinas en otras entidades federativas, cuando así lo autorice la Junta de Gobierno, de acuerdo a su disponibilidad presupuestaria.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 En la ejecución de las funciones, acciones, planes y programas previstos en esta Ley, la Comisión Ejecutiva garantizará la representación y participación directa de las víctimas y organizaciones de la sociedad civil, propiciando su intervención en la construcción de políticas públicas, así como el ejercicio de labores de vigilancia, supervisión y evaluación de las instituciones integrantes del Sistema con el objetivo de garantizar un ejercicio transparente de sus atribuciones.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
 De la Comisión Ejecutiva depende el Fondo, la Asesoría Jurídica Federal y el Registro Nacional de Víctimas.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 A fin de garantizar el acceso efectivo de las víctimas a los derechos, garantías, mecanismos, procedimientos y servicios que establece esta Ley, el Gobierno Federal contará con un Fondo, una asesoría jurídica y un registro de víctimas, los cuales operarán a través de las instancias correspondientes, para la atención a víctimas en los términos dispuestos por esta Ley.
 
-Las entidades federativas y el Distrito Federal contarán con una asesoría jurídica y un registro de víctimas en los términos de esta Ley y de lo que disponga la legislación aplicable.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+Las entidades federativas contarán con una asesoría jurídica, un registro de víctimas y un Fondo estatal en los términos de esta Ley y de lo que disponga la legislación aplicable.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 84 Bis.
+
+El patrimonio de la Comisión Ejecutiva se integra:
+
+I. Con los recursos que le asigne la Cámara de Diputados a través del Presupuesto de Egresos de la Federación;
+
+II. Los bienes muebles e inmuebles que le sean asignados, y
+
+III. Los demás ingresos, rendimientos, bienes, derechos y obligaciones que adquiera o se le adjudiquen por cualquier título jurídico.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 84 Ter.
+
+La Comisión Ejecutiva cuenta con una Junta de Gobierno y un Comisionado Ejecutivo para su administración, así como con una Asamblea Consultiva, como órgano de consulta y vinculación con las víctimas y la sociedad.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 84 Quáter.
+
+La organización y funcionamiento de la Junta de Gobierno se regirá por lo dispuesto en esta Ley y las demás disposiciones aplicables, estará integrada de la siguiente manera:
+
+I. Un representante de las siguientes secretarías de Estado:
+
+a) Gobernación quien la presidirá;
+
+b) Hacienda y Crédito Público;
+
+c) Educación Pública;
+
+d) Salud;
+
+II. Cuatro representantes de la Asamblea Consultiva, designados por ésta, y
+
+III. El titular de la Comisión Ejecutiva.
+
+Las y los integrantes referidos en la fracción I del párrafo anterior, serán las personas titulares de cada Institución y sus suplentes tendrán el nivel de Subsecretaría, Dirección General o su equivalente. En sus decisiones los integrantes tendrán derecho a voz y voto.
+
+La Junta de Gobierno contará con un Secretario Técnico.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 84 Quinquies.
+
+La Junta de Gobierno celebrará sesiones ordinarias por lo menos cuatro veces al año y las extraordinarias que propondrá su Presidente, el Comisionado Ejecutivo o al menos 3 de sus integrantes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Artículo 84 Sexíes. La Junta de Gobierno sesionará válidamente con la asistencia de la mayoría de sus integrantes, siempre que esté presente el Presidente de la Junta de Gobierno. Los acuerdos se adoptarán por mayoría de votos de los miembros presentes.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 84 Septies.
+
+La Junta de Gobierno tendrá exclusivamente las siguientes atribuciones:
+
+I. Aprobar y modificar su reglamento de sesiones, con base en la propuesta que presente el Comisionado Ejecutivo;
+
+II. Aprobar las disposiciones normativas que el Comisionado Ejecutivo someta a su consideración en términos de la Ley y el Reglamento;
+
+III. Definir los criterios, prioridades y metas de la Comisión Ejecutiva que proponga el Comisionado Ejecutivo;
+
+IV. Conocer de los convenios y acuerdos de colaboración, coordinación y concertación que celebre la Comisión Ejecutiva de acuerdo con esta Ley, y
+
+V. Aquellas que por su naturaleza jurídica le correspondan.
+
+En ningún caso la Junta de Gobierno tendrá competencia para conocer de los recursos de ayuda y la reparación integral que la Comisión Ejecutiva otorgue a las víctimas.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 84 Octies.
+
+La Asamblea Consultiva es un órgano de opinión y asesoría de las acciones, políticas públicas, programas y proyectos que desarrolle la Comisión Ejecutiva.
+
+La Asamblea Consultiva estará integrada por nueve representantes de colectivos de víctimas, organizaciones de la sociedad civil y académicos quienes serán electos por la Junta de Gobierno y cuyo cargo tendrá carácter honorífico.
+
+Para efectos del párrafo anterior, la Comisión Ejecutiva emitirá una convocatoria pública, que establecerá los criterios de selección, la cual deberá ser publicada en el Diario Oficial de la Federación.
+
+La convocatoria para integrar la Asamblea Consultiva atenderá a un criterio de representación regional rotativa de cuando menos una institución, organización, colectivo o grupo por región.
+
+Las bases de la convocatoria pública deben ser emitidas por el Comisionado Ejecutivo y atender, cuando menos, a criterios de experiencia nacional o internacional en trabajos de protección, atención, asistencia, justicia, verdad y reparación integral de víctimas; desempeño destacado en actividades profesionales, de servicio público, sociedad civil o académicas así como experiencia laboral, académica o de conocimientos especializados, en materias afines a la Ley.
+
+La elección de los miembros de la Asamblea Consultiva deberá garantizar el respeto a los principios que dan marco a esta Ley, especialmente los de paridad y enfoque diferencial.
+
+Las funciones de la Asamblea Consultiva estarán previstas en el Reglamento de la Ley, las personas integrantes durarán en su cargo cuatro años, y podrán ser ratificadas sólo por un período igual, en los términos de lo dispuesto en dicho ordenamiento.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 85.
 
-La Comisión Ejecutiva estará integrada por siete comisionados. El Ejecutivo Federal enviará al Senado, previa convocatoria pública, tres propuestas por cada comisionado a elegir. El Senado elegirá por el voto de las dos terceras partes de los presentes.
+La Comisión Ejecutiva estará a cargo de un Comisionado Ejecutivo elegido por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores, de la terna que enviará el Ejecutivo Federal, previa consulta pública a los colectivos de víctimas, expertos y organizaciones de la sociedad civil especializadas en la materia.
 
-Una vez cerrada la convocatoria, deberá publicarse la lista de las propuestas recibidas.
-
-Para garantizar que en la Comisión Ejecutiva estén representados colectivos de víctimas, especialistas y expertos que trabajen en la atención a víctimas, ésta se conformará en los siguientes términos de las propuestas presentadas al Ejecutivo Federal:
-
-I. Cuatro comisionados especialistas en derecho, psicología, derechos humanos, sociología o especialidades equivalentes con experiencia en la materia de esta Ley, propuestos por universidades públicas;
-
-II. Tres comisionados representando a colectivos de víctimas, propuestos por organizaciones no gubernamentales, registradas ante la Secretaría de Relaciones Exteriores, con actividad acreditada en atención a víctimas de al menos cinco años, o por los organismos públicos de derechos humanos.
-
-Para la elección de los comisionados, el Senado conformará una Comisión Plural integrada por los presidentes de las Comisiones de Justicia y Gobernación, que se constituirá en la Comisión responsable de encabezar el proceso de selección y que recibirá las propuestas de comisionados.
-
-En su conformación, el Ejecutivo y el Senado garantizarán la representación de las diversas regiones geográficas del país, así como de las diversas especializaciones sobre hechos victimizantes.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 86.
 
-Para ser comisionado se requiere:
+Para ser Comisionado Ejecutivo se requiere:
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 I. Ser ciudadano mexicano;
 
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+
 II. No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
 
-III. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley, y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-IV. No haber ocupado cargo público ni haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
+III. Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en sociedad civil o académicas relacionadas con la materia de esta Ley, por lo menos en los dos años previos a su designación;
 
-En la elección de los comisionados, deberá garantizarse el respeto a los principios que dan marco a esta Ley, especialmente los de enfoque transversal de género y diferencial.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE ENERO DE 2017)</small>
 
-Los comisionados se desempeñarán en su cargo por cinco años y se renovarán de forma escalonada cada dos años hasta que concluyan su mandato, sin posibilidad de reelección. Durante el mismo no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+IV. Contar con título profesional, y
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 3 DE ENERO DE 2017)</small>
+
+V. No haber desempeñado cargo de dirección nacional o estatal en algún partido político, dentro de los dos años previos a su designación.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+En la elección del Comisionado Ejecutivo, deberá garantizarse el respeto a los principios que dan marco a esta Ley, especialmente los de enfoque transversal de género y diferencial.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+El Comisionado Ejecutivo se desempeñará en su cargo por cinco años sin posibilidad de reelección. Durante el mismo no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 87.
 
-La Comisión Ejecutiva será presidida por un Comisionado quien durará en funciones dos años, renovable por una ocasión y será elegido por los comisionados.
+El Comisionado Ejecutivo para el desarrollo de las actividades de la Comisión Ejecutiva designará a las personas responsables del Fondo, la Asesoría Jurídica y el Registro Nacional de Víctimas.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1334,7 +1644,9 @@ XII. Establecer las directrices para alimentar de información el Registro Nacio
 
 XIII. Rendir un informe anual ante el Sistema, sobre los avances del Programa y demás obligaciones previstas en esta Ley;
 
-XIV. Administrar y vigilar el adecuado ejercicio del Fondo y emitir las recomendaciones pertinentes a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+XIV. Vigilar el adecuado ejercicio del Fondo y emitir las recomendaciones pertinentes a fin de garantizar su óptimo y eficaz funcionamiento, con base en los principios de publicidad, transparencia y rendición de cuentas;
 
 XV. Solicitar al órgano competente se apliquen las medidas disciplinarias y sanciones correspondientes;
 
@@ -1350,13 +1662,17 @@ XX. Formular propuestas de política integral nacional de prevención de violaci
 
 XXI. Proponer medidas, lineamientos o directrices de carácter obligatorio que faciliten condiciones dignas, integrales y efectivas para la atención y asistencia de las víctimas, que permitan su recuperación y restablecimiento para lograr el pleno ejercicio de su derecho a la justicia, a la verdad y a la reparación integral;
 
-XXII. Promover la coordinación interinstitucional de las dependencias, instituciones y órganos que integran el Sistema así como los comités de las entidades federativas y del Distrito Federal, cuidando la debida representación de todos sus integrantes y especialmente de las áreas, instituciones, grupos de víctimas u organizaciones que se requieran para el tratamiento de una problemática específica, de acuerdo con los principios establecidos en esta Ley y los de coordinación, concurrencia, subsidiariedad, complementariedad y delegación;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+XXII. Promover la coordinación interinstitucional de las dependencias, instituciones y órganos que integran el Sistema así como los comités de las entidades federativas, cuidando la debida representación de todos sus integrantes y especialmente de las áreas, instituciones, grupos de víctimas u organizaciones que se requieran para el tratamiento de una problemática específica, de acuerdo con los principios establecidos en esta Ley y los de coordinación, concurrencia, subsidiariedad, complementariedad y delegación;
 
 XXIII. Establecer medidas que contribuyan a garantizar la reparación integral, efectiva y eficaz de las víctimas que hayan sufrido un daño como consecuencia de la comisión de un delito o de la violación de sus derechos humanos;
 
 XXIV. Proponer al Sistema las directrices o lineamientos que faciliten el acceso efectivo de las víctimas a la verdad y a la justicia;
 
-XXV. Emitir los lineamientos para la canalización oportuna y eficaz de los recursos humanos, técnicos, administrativos y económicos que sean necesarios para el cumplimiento de las acciones, planes, proyectos y programas de atención, asistencia, acceso a la justicia, a la verdad y reparación integral de las víctimas en los ámbitos federal, estatal, del Distrito Federal y municipal;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+XXV. Emitir los lineamientos para la canalización oportuna y eficaz de los recursos humanos, técnicos, administrativos y económicos que sean necesarios para el cumplimiento de las acciones, planes, proyectos y programas de atención, asistencia, acceso a la justicia, a la verdad y reparación integral de las víctimas en los ámbitos federal, de las entidades federativas y municipal;
 
 XXVI. Crear una plataforma que permita integrar, desarrollar y consolidar la información sobre las víctimas a nivel nacional a fin de orientar políticas, programas, planes y demás acciones a favor de las víctimas para la prevención del delito y de violaciones a los derechos humanos, atención, asistencia, acceso a la verdad, justicia y reparación integral con el fin de llevar a cabo el monitoreo, seguimiento y evaluación del cumplimiento de las políticas, acciones y responsabilidades establecidas en esta Ley. La Comisión Ejecutiva dictará los lineamientos para la transmisión de información de las instituciones que forman parte del Sistema, cuidando la confidencialidad de la información pero permitiendo que pueda haber un seguimiento y revisión de los casos que lo lleguen a requerir;
 
@@ -1368,7 +1684,7 @@ Las autoridades de los distintos órdenes de gobierno deberán adecuar sus manua
 
 XXIX. En casos de graves violaciones a derechos humanos o delitos graves cometidos contra un grupo de víctimas, proponer al Sistema los programas integrales emergentes de ayuda, atención, asistencia, protección, acceso a justicia, a la verdad y reparación integral;
 
-XXX. Crear y coordinar los comités especiales de atención a víctimas de delitos o violaciones de derechos humanos que requieran prevención, atención e investigación con una perspectiva integral tales como en los casos de desaparición de personas, extravío, ausencia o no localización de personas, trata de personas, tráfico de personas y secuestro, a fin de que además de las acciones, propuestas, planes o programas que se deriven para un grupo de víctimas específicas, se guarde una integralidad respecto al tratamiento de las víctimas y reparación integral, con cargo a su presupuesto autorizado;
+XXX. (DEROGADA, D.O.F. 3 DE ENERO DE 2017)
 
 XXXI. Realizar diagnósticos nacionales que permitan evaluar las problemáticas concretas que enfrentan las víctimas en términos de prevención del delito o de violaciones a los derechos humanos, atención, asistencia, acceso a la justicia, derecho a la verdad y reparación integral del daño;
 
@@ -1378,15 +1694,51 @@ XXXIII. Brindar apoyo a las organizaciones de la sociedad civil que se dedican a
 
 XXXIV. Implementar los mecanismos de control, con la participación de la sociedad civil, que permitan supervisar y evaluar las acciones, programas, planes y políticas públicas en materia de víctimas. La supervisión deberá ser permanente y los comités u órganos específicos que se instauren al respecto, deberán emitir recomendaciones que deberán ser respondidas por las instituciones correspondientes;
 
-XXXV. Recibir y evaluar los informes rendidos por el titular del Fondo, de la Asesoría Jurídica Federal, así como el Programa y emitir las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia, y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-XXXVI. Las demás que se deriven de la presente Ley.
+XXXV. Hacer públicos los informes anuales sobre el funcionamiento del Fondo, de la Asesoría Jurídica Federal, así como sobre el Programa y las recomendaciones pertinentes a fin de garantizar un óptimo y eficaz funcionamiento, siguiendo los principios de publicidad y transparencia;
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE ENERO DE 2017)</small>
+
+XXXVI. Conocer y aprobar los casos a que se refiere el artículo 88 Bis de la Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 3 DE ENERO DE 2017)</small>
+
+XXXVII. Las demás que se deriven de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 88 Bis.
+
+La Comisión Ejecutiva podrá ayudar, atender, asistir y, en su caso, cubrir una compensación subsidiaria en términos de esta Ley, en aquellos casos de víctimas de delitos del fuero común o de violaciones a derechos humanos cometidos por servidores públicos del orden estatal o municipal en los siguientes supuestos:
+
+I. Cuando en el lugar de la comisión del delito o de la violación a derechos humanos no se cuente con el Fondo respectivo o carezca de fondos suficientes;
+
+II. Cuando se trate de violaciones graves de derechos humanos así calificados por ley o autoridad competente;
+
+III. Cuando el Ministerio Público de la Federación o la Comisión Nacional de los Derechos Humanos, ejerzan su facultad de atracción en el ámbito de sus competencias;
+
+IV. Cuando exista una resolución por parte de algún organismo internacional, jurisdiccional o no jurisdiccional, de protección de derechos humanos, cuya competencia derive de un tratado en el que el Estado mexicano sea parte o bien del reconocimiento expreso de competencia formulado por éste;
+
+V. Cuando las circunstancias del caso lo justifiquen, por estar involucradas autoridades de diversas entidades federativas, o cuando aquél posea trascendencia nacional por cualquier otro motivo, y
+
+VI. Cuando la Comisión Ejecutiva, atendiendo a las características propias del hecho delictivo o violatorio de derechos humanos, así como a las circunstancias de ejecución o la relevancia social del mismo, así lo determine en los siguientes supuestos:
+
+a) Cuando una autoridad competente determine que existe un riesgo a la vida o integridad física de la víctima;
+
+b) Cuando el hecho constitutivo de delito trascienda el ámbito de una o más entidades federativas, y
+
+c) A solicitud de la Secretaría de Gobernación, cuando el hecho constitutivo victimizante revista trascendencia nacional.
+
+La Comisión Ejecutiva podrá valorar estos casos, de oficio, o a petición de la Comisión Nacional de los Derechos Humanos, los organismos públicos de derechos humanos locales, las Comisiones de víctimas locales, la autoridad ministerial o jurisdiccional correspondiente, o bien de las víctimas o sus representantes. La determinación que al respecto realice la Comisión Ejecutiva deberá atender a la obligación de garantizar de manera oportuna y efectiva los derechos de las víctimas.
+
+Los recursos erogados bajo este supuesto deberán ser reintegrados al Fondo Federal, por la Comisión de víctimas local con cargo al Fondo Local correspondiente, en cuanto éste cuente con los recursos para tal efecto, o por la entidad federativa, con cargo a su presupuesto, en caso de que aún no exista la Comisión de víctimas local o se haya constituido el Fondo Local.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 89.
 
-La Comisión Ejecutiva podrá celebrar convenios de coordinación, colaboración y concertación con las entidades e instituciones federales así como con las entidades e instituciones homólogas estatales y del Distrito Federal, incluidos los organismos autónomos de protección de los derechos humanos que sean necesarios para el cumplimiento de los fines del Sistema.
+La Comisión Ejecutiva podrá celebrar convenios de coordinación, colaboración y concertación con las entidades e instituciones federales así como con las entidades e instituciones homologas de las entidades federativas, incluidos los organismos autónomos de protección de los derechos humanos que sean necesarios para el cumplimiento de los fines del Sistema.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1394,7 +1746,9 @@ La Comisión Ejecutiva podrá celebrar convenios de coordinación, colaboración
 
 En los casos de graves violaciones a los derechos humanos o delitos cometidos contra un grupo de víctimas, las organizaciones no gubernamentales, los poderes ejecutivos y legislativos de las entidades federativas, el Congreso de la Unión, los municipios, o cualquier otra institución pública o privada que tenga entre sus fines la defensa de los derechos humanos podrán proponer el establecimiento de programas emergentes de ayuda, atención, asistencia, protección, acceso a la justicia, acceso a la verdad y reparación integral de las víctimas.
 
-Estos programas también podrán ser creados por la Comisión Ejecutiva a propuesta de alguno de sus integrantes cuando del análisis de la información con que se cuente se determine que se requiere la atención especial de determinada situación o grupos de víctimas.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Estos programas también podrán ser creados por la Comisión Ejecutiva a propuesta del Comisionado Ejecutivo cuando del análisis de la información con que se cuente se determine que se requiere la atención especial de determinada situación o grupos de víctimas.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1408,81 +1762,89 @@ La Comisión Ejecutiva podrá también contar con la asesoría de grupos de expe
 
 Se deberá procurar en todo momento, además de la especialización técnica y científica, el aporte de los grupos de víctimas y organizaciones de base que trabajen directamente con víctimas.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
-
 ###### Artículo 92.
 
-La Comisión Ejecutiva sesionará al menos una vez a la semana y en sesión extraordinaria, cada que la situación urgente así lo requiera. Los integrantes tienen obligación de comparecer a las sesiones. Si un comisionado no asistiera a las sesiones ordinarias en más de tres ocasiones consecutivas durante un año en forma injustificada será removido de su cargo.
+(DEROGADO, D.O.F. 3 DE ENERO DE 2017)
 
-Las determinaciones de la Comisión Ejecutiva se tomarán por la mayoría de los presentes.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 93.
 
-A fin de lograr una especialización, atención integral y coordinada en temas que requieran ser tratados en todo el país, la Comisión Ejecutiva contará, con los siguientes comités, cuyas atribuciones serán determinadas en el Reglamento de esta Ley:
+La Comisión Ejecutiva cuenta con un comité interdisciplinario evaluador con las siguientes facultades:
 
-I. Comité de violencia familiar;
+I. Elaborar los proyectos de dictamen de acceso a los recursos del Fondo para el otorgamiento de los Recursos de Ayuda;
 
-II. Comité de violencia sexual;
+II. Elaborar los proyectos de dictamen de reparación integral y, en su caso, la compensación, previstas en la Ley y el Reglamento;
 
-III. Comité de trata y tráfico de personas;
+III. Elaborar los proyectos de dictamen para la creación de fondos de emergencia, y
 
-IV. Comité de personas desaparecidas, no localizadas, ausentes o extraviadas;
-
-V. Comité de personas víctimas de homicidio;
-
-VI. Comité de tortura, tratos crueles, inhumanos o degradantes;
-
-VII. Comité de detención arbitraria;
-
-VIII. Comité interdisciplinario evaluador, y
-
-IX. Comité de derechos económicos, sociales, culturales y ambientales.
-
-Se podrán establecer también comités por grupo de víctimas tales como niños y niñas, adultos mayores, mujeres, indígenas, migrantes, personas con discapacidad, entre otros.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+IV. Las demás establecidas en la Ley y el Reglamento.
 
 ###### Artículo 94.
 
-Las comisiones ejecutivas de atención a víctimas de cada entidad federativa también contarán con sus comités especiales que les permitan focalizar las necesidades y políticas públicas integrales que respondan a la realidad local.
+(DEROGADO, D.O.F. 3 DE ENERO DE 2017)
 
-Estos comités generarán diagnósticos situacionales precisos que les permita evaluar las leyes, políticas públicas o acciones estatales que impiden un acceso efectivo de las víctimas a la atención, asistencia, protección, justicia, verdad o reparación integral. Evaluarán también las políticas de prevención sobre la situación concreta que se evalúa desde una visión de seguridad ciudadana y humana.
-
-Las autoridades están obligadas a entregar toda la información que requieran estos comités para la evaluación y elaboración de los diagnósticos, cuidando la información de carácter privado de las víctimas.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 95.
 
-El Comisionado Presidente tendrá las siguientes facultades:
+El Comisionado Ejecutivo, tendrá las siguientes facultades:
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 I. Administrar, representar legalmente y dirigir el cumplimiento de las atribuciones de la Comisión Ejecutiva;
 
-II. Convocar, dirigir, coordinar y dar seguimiento a las sesiones que celebre la Comisión Ejecutiva;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+II. Convocar y dar seguimiento a las sesiones que realice la Junta de Gobierno;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 III. Crear los lineamientos, mecanismos, instrumentos e indicadores para el seguimiento y vigilancia de las funciones de la Comisión Ejecutiva;
 
-IV. Notificar a los integrantes del Sistema los acuerdos asumidos y dar seguimiento a los mismos a través de las sesiones que se celebren;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+IV. Notificar a los integrantes del Sistema los acuerdos asumidos y dar seguimiento a los mismos;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 V. Coordinar las funciones del Registro Nacional de Víctimas, incluido el registro federal, mediante la creación de lineamientos, mecanismos, instrumentos e indicadores para implementar y vigilar el debido funcionamiento de dicho registro;
 
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+
 VI. Rendir cuentas a la Cámara de Diputados cuando sea requerido, sobre las funciones encomendadas a la Comisión Ejecutiva, al Registro Nacional de Víctimas y al Fondo;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 VII. Coordinar las acciones para el cumplimiento de las funciones de la Comisión Ejecutiva;
 
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+
 VIII. Garantizar el registro de las víctimas que acudan directamente ante la Comisión Ejecutiva a solicitar su inscripción en el Registro Nacional de Víctimas, así como los servicios de ayuda, asistencia, atención, acceso a la justicia, acceso a la verdad y reparación integral que soliciten a través de las instancias competentes, dando seguimiento hasta la etapa final para garantizar el cumplimiento eficaz de las funciones de las instituciones;
 
-IX. Proponer al Pleno de la Comisión Ejecutiva los convenios de colaboración o la contratación de expertos que se requiera para el cumplimiento de sus funciones;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+IX. Suscribir los convenios de colaboración, coordinación o concertación o la contratación de expertos que se requiera para el cumplimiento de sus funciones;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 X. Realizar los programas operativos anuales y los requerimientos presupuestales anuales que corresponda a la Comisión Ejecutiva;
 
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+
 XI. Aplicar las medidas que sean necesarias para garantizar que las funciones de la Comisión Ejecutiva se realicen de manera adecuada, eficiente, oportuna, expedita y articulada;
 
-XII. Recabar información que pueda mejorar la gestión y desempeño de la Comisión Ejecutiva, y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-XIII. Las demás que se requiera para el eficaz cumplimiento de las funciones de la Comisión Ejecutiva.
+XII. Recabar información que pueda mejorar la gestión y desempeño de la Comisión Ejecutiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE ENERO DE 2017)</small>
+
+XIII. Determinar a propuesta del Comité Interdisciplinario Evaluador, los Recursos de Ayuda y la reparación integral que la Comisión Ejecutiva otorgue a las víctimas. Para lo cual, el Comisionado Ejecutivo se podrá apoyar de la asesoría de la Asamblea Consultiva, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 3 DE ENERO DE 2017)</small>
+
+XIV. Las demás que se requiera para el eficaz cumplimiento de las funciones de la Comisión Ejecutiva en términos de la legislación aplicable.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -1496,13 +1858,21 @@ El Registro Nacional de Víctimas, es el mecanismo administrativo y técnico que
 
 El Registro Nacional de Víctimas constituye un soporte fundamental para garantizar que las víctimas tengan un acceso oportuno y efectivo a las medidas de ayuda, asistencia, atención, acceso a la justicia y reparación integral previstas en esta Ley.
 
-EI Registro Nacional de Víctimas será una unidad administrativa de la Comisión Ejecutiva y contará con un titular designado por el Pleno de la Comisión Ejecutiva.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
-El Registro es la unidad administrativa encargada de llevar y salvaguardar el padrón de víctimas, a nivel nacional, e inscribir los datos de las víctimas del delito y de violaciones a derechos humanos del orden federal.
+El Registro Nacional de Víctimas es una unidad administrativa de la Comisión Ejecutiva.
 
-Los estados y el Distrito Federal contarán con sus propios registros. La Federación, los estados y el Distrito Federal estarán obligados a intercambiar, sistematizar, analizar y actualizar la información que diariamente se genere en materia de víctimas del delito y de violaciones a derechos humanos para la debida integración del Registro. La integración del registro federal estará a cargo de la Comisión Ejecutiva.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
-El Presidente de la Comisión Ejecutiva dictará las medidas necesarias para la integración y preservación de la información administrada y sistematizada en el Registro Nacional de Víctimas, incluida aquella contenida en el registro federal.
+El Registro es la unidad administrativa encargada de llevar y salvaguardar el padrón de víctimas, a nivel nacional, e inscribir los datos de las víctimas del delito y de violaciones a derechos humanos del orden federal, y por excepción del orden local en los casos a que se refiere el artículo 88 Bis de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Las entidades federativas contarán con sus propios registros. La Federación, y las entidades federativas estarán obligadas a intercambiar, sistematizar, analizar y actualizar la información que diariamente se genere en materia de víctimas del delito y de violaciones a derechos humanos para la debida integración del Registro. La integración del registro federal estará a cargo de la Comisión Ejecutiva.
+
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+El Comisionado Ejecutivo dictará las medidas necesarias para la integración y preservación de la información administrada y sistematizada en el Registro Nacional de Víctimas, incluida aquella contenida en el registro federal.
 
 Los integrantes del Sistema estarán obligados a compartir la información en materia de víctimas que obren en sus bases de datos con el Registro Nacional de Víctimas.
 
@@ -1516,7 +1886,9 @@ I. Las solicitudes de ingreso hechas directamente por las víctimas del delito y
 
 II. Las solicitudes de ingreso que presenten cualquiera de las autoridades y particulares señalados en el artículo 99 de esta Ley, como responsables de ingresar el nombre de las víctimas del delito o de violación de derechos humanos al Sistema, y
 
-III. Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito federal, estatal, del Distrito Federal o municipal, así como de las comisiones públicas de derechos humanos en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+III. Los registros de víctimas existentes al momento de la entrada en vigor de la presente Ley que se encuentren en cualquier institución o entidad del ámbito federal, de las entidades federativas o municipal, así como de las comisiones públicas de derechos humanos en aquellos casos en donde se hayan dictado recomendaciones, medidas precautorias o bien se hayan celebrado acuerdos de conciliación.
 
 Las entidades e instituciones generadoras y usuarias de la información sobre las víctimas y que posean actualmente registros de víctimas, pondrán a disposición del Registro Nacional de Víctimas la información que generan y administran, de conformidad con lo establecido en las leyes que regulan el manejo de datos personales, para lo cual se suscribirán los respectivos acuerdos de confidencialidad para el uso de la información.
 
@@ -1524,17 +1896,25 @@ En los casos en que existiere soporte documental de los registros que reconocen 
 
 Dichas entidades serán responsables por el contenido de la información que transmiten al Registro Nacional de Víctimas.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 98.
 
-Las solicitudes de ingreso se realizarán en forma totalmente gratuita, ante la Comisión Ejecutiva y sus correlativos estatales o del Distrito Federal, según corresponda de acuerdo a la competencia. Las solicitudes derivadas de delitos federales o de violaciones donde participen autoridades federales, serán presentadas a la Comisión Ejecutiva quien llevará el registro federal.
+Las solicitudes de ingreso se realizarán en forma totalmente gratuita, ante la Comisión Ejecutiva y sus correlativos de las entidades federativas, según corresponda de acuerdo a la competencia. Las solicitudes derivadas de delitos federales o de violaciones donde participen autoridades federales, serán presentadas a la Comisión Ejecutiva quien llevará el registro federal.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 Los mexicanos domiciliados en el exterior, podrán presentar la incorporación de datos al Registro Nacional de Víctimas ante la Embajada o Consulado del país donde se encuentren. En los países en que no exista representación del Estado mexicano, podrán acudir al país más cercano que cuente con sede diplomática.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
 La información que acompaña la incorporación de datos al registro se consignará en el formato único de declaración diseñado por la Comisión Ejecutiva y su utilización será obligatoria por parte de las autoridades responsables de garantizar el ingreso al mismo, de conformidad con lo dispuesto en la Ley. El formato único de incorporación al registro deberá ser accesible a toda persona y de uso simplificado y buscará recoger la información necesaria para que la víctima pueda acceder plenamente a todos sus derechos, incluidos los que se le reconocen en la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+
 La solicitud de inscripción de la víctima no implica de oficio su ingreso al Registro. Para acceder a las medidas de atención, asistencia y reparación integral previstos en esta Ley, deberá realizarse el ingreso, y valoración por parte de la autoridad correspondiente en cumplimiento de las disposiciones del Capítulo III del presente Título.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 El ingreso al Registro podrá solicitarse y tramitarse de manera personal y directa por la víctima, o a través de representante que, además de cumplir con las disposiciones aplicables, esté debidamente inscrito en el padrón de representantes que al efecto establezca la Comisión Ejecutiva o las correspondientes a las entidades federativas, conforme a lo que se determine en las disposiciones reglamentarias correspondientes.
 
@@ -1572,7 +1952,9 @@ II. Para las solicitudes de ingreso en el Registro tomadas en forma directa, dil
 
 III. Disponer de los medios tecnológicos y administrativos necesarios para la toma de la declaración, de acuerdo con los parámetros que la Comisión Ejecutiva determine;
 
-IV. Remitir el original de las declaraciones tomadas en forma directa, el siguiente día hábil a la toma de la declaración al lugar que la Comisión Ejecutiva, estatales o del Distrito Federal según la competencia; (sic)
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+IV. Remitir el original de las declaraciones tomadas en forma directa, el siguiente día hábil a la toma de la declaración al lugar que la Comisión Ejecutiva o a las Comisiones de las entidades federativas según la competencia;
 
 V. Orientar a la persona que solicite el ingreso sobre el trámite y efectos de la diligencia;
 
@@ -1738,17 +2120,25 @@ II. El juzgador penal o de paz que tiene conocimiento de la causa;
 
 III. El juzgador en materia de amparo, civil o familiar que tenga los elementos para acreditar que el sujeto es víctima;
 
-IV. Los órganos jurisdiccionales internacionales de protección de derechos humanos a los que México les reconozca competencia, y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-V. La Comisión Ejecutiva que podrá tomar en consideración las determinaciones de:
+IV. Los organismos públicos de protección de los derechos humanos;
 
-a) El Ministerio Público;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-b) La autoridad responsable de la violación a los derechos humanos que le reconozca tal carácter;
+V. Los organismos internacionales de protección de derechos humanos a los que México les reconozca competencia;
 
-c) Los organismos públicos de protección de los derechos humanos, o
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-d) Los organismos internacionales de protección de derechos humanos a los que México les reconozca competencia.
+VI. La autoridad responsable de la violación a los derechos humanos que le reconozca tal carácter;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+VII. La Comisión Ejecutiva, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+VIII. El Ministerio Público.
 
 El reconocimiento de la calidad de víctima tendrá como efecto que la víctima pueda acceder a los recursos del Fondo y a la reparación integral de conformidad con lo previsto en la presente Ley y en el Reglamento.
 
@@ -1800,7 +2190,9 @@ IV. Elaborar, coordinar y aplicar el Programa a que se refiere la Ley, auxilián
 
 V. Asegurar la difusión y promoción de los derechos de las víctimas indígenas con base en el reconocimiento de la composición pluricultural de la nación;
 
-VI. Realizar a través de la Comisión Nacional de los Derechos Humanos y con el apoyo de las Comisiones estatales y del Distrito Federal, y de las instancias locales, campañas de información, con énfasis en la doctrina de la protección integral de los derechos humanos de las víctimas, en el conocimiento de las leyes y las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+VI. Realizar a través de la Comisión Nacional de los Derechos Humanos y con el apoyo de las Comisiones de las entidades federativas, y de las instancias locales, campañas de información, con énfasis en la doctrina de la protección integral de los derechos humanos de las víctimas, en el conocimiento de las leyes y las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
 
 VII. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, de manera que sirvan de cauce para lograr la atención integral de las víctimas para facilitar la actuación de la Comisión Ejecutiva;
 
@@ -1872,7 +2264,17 @@ VIII. Denunciar ante la autoridad competente, cuando tenga conocimiento de viola
 
 IX. Apoyar a las autoridades encargadas de efectuar la investigación del delito o de violaciones a derechos humanos, proporcionando la información que sea requerida por la misma, y
 
-X. Las demás previstas para el cumplimiento de la presente Ley, las normas reglamentarias respectivas y el Programa.
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE ENERO DE 2017)</small>
+
+X. Generar los espacios públicos para cumplir, en el ámbito de sus atribuciones lo que mandata la Ley;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+XI. Brindar las medidas de atención prioritaria, determinadas por la Comisión Ejecutiva y las Comisiones de víctimas, en términos de esta Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 3 DE ENERO DE 2017)</small>
+
+XII. Las demás previstas para el cumplimiento de la presente Ley, las normas reglamentarias respectivas y el Programa.
 
 En materia educativa, las autoridades competentes establecerán un programa de becas permanente para el caso de las víctimas directas e indirectas que se encuentren cursando los niveles de educación primaria, secundaria, preparatoria o universidad en instituciones públicas, con la finalidad de que puedan continuar con sus estudios. Estos apoyos continuarán hasta el término de su educación superior.
 
@@ -1888,27 +2290,45 @@ Las dependencias e instituciones de seguridad pública deberán salvaguardar la 
 
 ### CAPÍTULO II. DEL ACCESO A LA JUSTICIA
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 117.
 
-En materia de acceso a la justicia, corresponde al Gobierno Federal, a los estados y al Distrito Federal, en el ámbito de sus respectivas competencias:
+En materia de acceso a la justicia, corresponde al Gobierno Federal y a las entidades federativas, en el ámbito de sus respectivas competencias:
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 I. Promover la formación y especialización de agentes de la Policía Federal Investigadora, agentes del Ministerio Público, Peritos y de todo el personal encargado de la procuración de justicia en materia de derechos humanos;
 
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+
 II. Proporcionar a las víctimas orientación y asesoría para su eficaz atención y protección, de conformidad con la Ley Orgánica de la Procuraduría General de la República, su Reglamento y demás ordenamientos aplicables;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 III. Dictar las medidas necesarias para que la Víctima reciba atención médica de emergencia;
 
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+
 IV. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 V. Brindar a las víctimas la información integral sobre las instituciones públicas o privadas encargadas de su atención;
 
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+
 VI. Proporcionar a las víctimas información objetiva que les permita reconocer su situación;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 VII. Promover la cultura de respeto a los derechos humanos de las víctimas y garantizar la seguridad de quienes denuncian;
 
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
+
 VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 IX. Las demás previstas para el cumplimiento de la presente Ley, y las normas reglamentarias aplicables.
 
@@ -2126,19 +2546,37 @@ XI. Las demás acciones que dispongan las disposiciones jurídicas aplicables en
 
 Corresponde al Asesor Jurídico de las Víctimas:
 
-I. Procurar hacer efectivos cada uno de los derechos y garantías de la víctima, en especial el derecho a la protección, la verdad, la justicia y a la reparación integral;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+I. Procurar hacer efectivos cada uno de los derechos y garantías de la víctima, en especial el derecho a la protección, la verdad, la justicia y a la reparación integral. Por lo que podrá contar con servicios de atención médica y psicológica, trabajo social y aquellas que considere necesarias para cumplir con el objetivo de esta fracción;
 
 II. Brindar a la víctima información clara, accesible y oportuna sobre los derechos, garantías, mecanismos y procedimientos que reconoce esta Ley;
 
-III. Asesorar y asistir a las víctimas en todo acto o procedimiento ante la autoridad;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-IV. Formular denuncias o querellas;
+III. Tramitar, supervisar o, cuando se requiera, implementar las medidas de ayuda inmediata, ayuda, asistencia, atención y rehabilitación previstas en la presente Ley;
 
-V. Representar a la víctima en todo procedimiento penal;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-VI. Informar y asesorar a la víctima sobre las medidas alternativas de resolución de conflictos, y velar por que las mismas se realicen en estricto respeto de los principios que sustentan la justicia restaurativa, en especial, la voluntariedad, y
+IV. Asesorar y asistir a las víctimas en todo acto o procedimiento ante la autoridad;
 
-VII. Vigilar la efectiva protección y goce de los derechos de las víctimas en las actuaciones del Ministerio Público en todas y cada una de las etapas del procedimiento penal y, cuando lo amerite, suplir las deficiencias de éste ante la autoridad jurisdiccional correspondiente cuando el Asesor Jurídico de las Víctimas considere que no se vela efectivamente por la tutela de los derechos de las víctimas por parte del Ministerio Público.
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+V. Formular denuncias o querellas;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+VI. Representar a la víctima en todo procedimiento jurisdiccional o administrativo derivado de un hecho victimizante.
+
+VII. (DEROGADA, D.O.F. 3 DE ENERO DE 2017)
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 125 Bis.
+
+La Asesoría Jurídica se integrará por los abogados, peritos, profesionales y técnicos de las diversas disciplinas que se requieren para la defensa de los derechos previstos en esta Ley.
+
+La Asesoría Jurídica para el cumplimiento de los objetos de la presente Ley contará con un servicio civil de carrera que comprende la selección, ingreso, adscripción, permanencia, formación, promoción, capacitación, prestaciones, estímulos y sanciones, en términos del Reglamento.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -2220,11 +2658,13 @@ Todo empleador de una víctima, sea público o privado, deberá permitir y respe
 
 ### CAPÍTULO I. OBJETO E INTEGRACIÓN
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 130.
 
-El Fondo tiene por objeto brindar los recursos necesarios para la ayuda, asistencia y reparación integral de las víctimas del delito y las víctimas de violaciones a los derechos humanos.
+El Fondo tiene por objeto brindar los Recursos de Ayuda y la reparación integral de las víctimas del delito y las víctimas de violaciones a los derechos humanos, siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 La víctima podrá acceder de manera subsidiaria al Fondo en los términos de esta Ley, sin perjuicio de las responsabilidades y sanciones administrativas, penales y civiles que resulten.
 
@@ -2240,9 +2680,11 @@ Para ser beneficiarios del apoyo del Fondo, además de los requisitos que al efe
 
 El Fondo se conformará con:
 
-I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos de la Federación en el rubro correspondiente, sin que pueda disponerse de dichos recursos para un fin diverso;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
 
-El monto que apruebe anualmente la Cámara de Diputados será de 0.014% del Gasto Programable del Presupuesto de Egresos de la Federación.
+I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos de la Federación en el rubro correspondiente, sin que pueda disponerse de dichos recursos para un fin diverso, y sin que pueda ser disminuido.
+
+La aportación al Fondo se realizará siempre y cuando el patrimonio total del mismo sea inferior al 0.014% del gasto programable del Presupuesto de Egresos de la Federación del año inmediato anterior;
 
 II. El producto de la enajenación de los bienes que sean decomisados en los procedimientos penales, en la proporción que corresponda, una vez que se haya cubierto la compensación, en los términos establecidos en el Código Federal de Procedimientos Penales o en la legislación respectiva;
 
@@ -2268,27 +2710,27 @@ Las compensaciones subsidiarias se cubrirán con los recursos del Fondo correspo
 
 El Fondo estará exento de toda imposición de carácter fiscal y parafiscal, así como de los diversos gravámenes a que puedan estar sujetas las operaciones que se realicen por el Fondo.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 134.
 
-La Comisión Ejecutiva deberá emitir las disposiciones necesarias para el funcionamiento del Fondo, las cuales se regirán por lo establecido en esta Ley.
+La Comisión Ejecutiva deberá emitir las reglas de operación para el funcionamiento del Fondo, las cuales se regirán por lo establecido en esta Ley.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 135.
 
-Cuando la situación lo amerite, y por decisión de la Comisión Ejecutiva, se podrá crear un fondo de emergencia para los apoyos establecidos en el Título Tercero de esta Ley, el cual tendrá adjudicado parte de los recursos del Fondo por un tiempo determinado.
-
-La Comisión Ejecutiva, en un plazo máximo de diez días, determinará los apoyos económicos de emergencia que se requieran.
+Cuando la situación lo amerite, en términos de lo establecido en el Reglamento, el Comisionado Ejecutivo, previo dictamen a que se refiere el artículo 93, fracción III podrá crear un fondo de emergencia para el otorgamiento de los Recursos de Ayuda, el cual tendrá adjudicado parte de los recursos del Fondo por un tiempo determinado. El ejercicio de los recursos del fondo de emergencia no estará supeditado al dictamen a que se refiere el artículo 93, fracción I de la Ley.
 
 ### CAPÍTULO II. DE LA ADMINISTRACIÓN
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 136.
 
-El Fondo será administrado por la Comisión Ejecutiva siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
+El Fondo será administrado por una institución de banca de desarrollo que funja como fiduciaria, de acuerdo a las instrucciones de la Comisión Ejecutiva en su calidad de fideicomitente, siguiendo criterios de transparencia, oportunidad, eficiencia y rendición de cuentas.
+
+La Comisión Ejecutiva proveerá a las víctimas que corresponda los recursos para cubrir las medidas a que se refieren los Títulos Segundo, Tercero y Cuarto de la Ley, con cargo al Fondo. La víctima deberá comprobar el ejercicio del monto a más tardar a los treinta días posteriores de haber recibido el recurso. El Reglamento establecerá los criterios de comprobación, dentro de los cuales deberá señalar aquellos en los que los organismos públicos de protección de derechos humanos podrán auxiliar en la certificación del gasto.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -2296,17 +2738,25 @@ El Fondo será administrado por la Comisión Ejecutiva siguiendo criterios de tr
 
 Los recursos del Fondo serán administrados y operados por medio de un fideicomiso público.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 138.
 
-El titular del Fondo deberá:
+El titular de la Comisión Ejecutiva, con el apoyo del servidor público designado por éste para realizar los actos que le corresponden a aquélla en calidad de fideicomitente del Fondo, deberá:
 
-I. Administrar cautelosamente los recursos que conforman el Fondo a fin de permitir el cumplimiento efectivo del objeto de ésta Ley;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+I. Vigilar que los recursos que conforman el Fondo se administren y ejerzan adecuadamente a fin de permitir el cumplimiento efectivo del objeto de esta Ley;
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 II. Gestionar lo pertinente para que los recursos asignados al Fondo ingresen oportunamente al mismo;
 
-III. Presentar periódicamente informes y rendición de cuentas ante el Pleno de la Comisión Ejecutiva, y
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 2017)</small>
+
+III. Presentar periódicamente informes y rendición de cuentas a la Junta de Gobierno, y
+
+> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2013)</small>
 
 IV. Realizar las previsiones necesarias a fin de procurar la solvencia del Fondo.
 
@@ -2360,11 +2810,11 @@ Quien reciba la solicitud la remitirá a la Comisión Ejecutiva o comisiones de 
 
 Las determinaciones de las comisiones respecto a cualquier tipo de pago, compensación o reparación del daño tendrán el carácter de resoluciones administrativas definitivas. Contra dichas resoluciones procederá el juicio de amparo.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 145.
 
-En cuanto reciba una solicitud, la Comisión Ejecutiva lo turnará al comité interdisciplinario evaluador, para la integración del expediente que servirá de base para la propuesta que el comisionado presidente presente al Pleno de la Comisión Ejecutiva para determinar el apoyo o ayuda que requiera la víctima.
+En cuanto reciba una solicitud, la Comisión Ejecutiva la turnará al comité interdisciplinario evaluador, para la integración del expediente que servirá de base para la determinación del Comisionado Ejecutivo en torno a los Recursos de Ayuda y, en su caso, la reparación que requiera la víctima.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -2480,9 +2930,37 @@ La Comisión Ejecutiva tendrá facultades para cubrir las necesidades en términ
 
 Cuando proceda el pago de la reparación, el fondo registrará el fallo judicial que lo motivó y el monto de la indemnización, que será de consulta pública.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+### CAPÍTULO V. DE LOS FONDOS DE AYUDA, ASISTENCIA Y REPARACIÓN INTEGRAL EN CADA ENTIDAD FEDERATIVA
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 157 Bis.
+
+El Fondo estatal se conformará con los recursos que destinen las entidades federativas expresamente para dicho fin.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 157 Ter.
+
+La suma de las asignaciones anuales que cada entidad federativa aporte a su respectivo Fondo estatal, será igual al 50% de la asignación que se destine al Fondo en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate.
+
+La aportación anual que deberá realizar cada entidad federativa al Fondo estatal respectivo, para alcanzar el monto total que corresponde a la suma de las asignaciones anuales referidas en el párrafo anterior, se calculará con base en un factor poblacional. Dicho factor será equivalente a la proporción de la población de dicha entidad federativa con respecto del total nacional, de acuerdo con el último censo o conteo de población que publique el Instituto Nacional de Estadística y Geografía.
+
+La aportación anual de cada entidad federativa se deberá efectuar, siempre y cuando, el patrimonio del Fondo estatal al inicio del ejercicio sea inferior al monto de aportación que corresponde a la entidad federativa de acuerdo con el párrafo anterior. Dicha aportación se deberá efectuar a más tardar al 31 de marzo de cada ejercicio.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 157 Quáter.
+
+De los recursos que constituyan el patrimonio de cada uno de los Fondos estatales, se deberá mantener una reserva del 20% para cubrir los reintegros que, en su caso, deban realizarse al Fondo, de acuerdo con lo establecido en los artículos 8, 39 Bis, 68 y 88 Bis de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+###### Artículo 157 Quinquies.
+
+La constitución de cada Fondo estatal será con independencia de la existencia de otros ya establecidos para la atención a víctimas. La aplicación de recursos establecidos en otros mecanismos a favor de las víctimas y los de esta Ley, se hará de manera complementaria, a fin de evitar su duplicidad. El acceso a los recursos a favor de cada víctima no podrá ser superior a los límites establecidos en esta Ley.
 
 ## TÍTULO NOVENO. DE LA CAPACITACIÓN, FORMACIÓN, ACTUALIZACIÓN Y ESPECIALIZACIÓN
 
@@ -2540,13 +3018,17 @@ La formación y capacitación se realizará con enfoque diferencial y transforma
 
 Asimismo, deberá brindarse a la víctima orientación ocupacional específica que le permita optar sobre los programas, planes y rutas de capacitación y formación más idóneos conforme su interés, condición y contexto.
 
-Para el cumplimiento de lo descrito se aplicarán los programas existentes en los distintos órdenes de gobierno al momento de la expedición de la presente Ley, garantizando su coherencia con los principios rectores, derechos y garantías detallados en la misma. Cuando en el Gobierno Federal, entidades federativas o el Gobierno del Distrito Federal no cuenten con el soporte necesario para el cumplimiento de las obligaciones aquí referidas, deberán crear los programas y planes específicos.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Para el cumplimiento de lo descrito se aplicarán los programas existentes en los distintos órdenes de gobierno al momento de la expedición de la presente Ley, garantizando su coherencia con los principios rectores, derechos y garantías detallados en la misma. Cuando en el Gobierno Federal o en los gobiernos de las entidades federativas no cuenten con el soporte necesario para el cumplimiento de las obligaciones aquí referidas, deberán crear los programas y planes específicos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 3 DE MAYO DE 2013)</small>
 
 ## TÍTULO DÉCIMO. DE LA ASESORÍA JURÍDICA FEDERAL Y DE LAS ENTIDADES FEDERATIVAS DE ATENCIÓN A VÍCTIMAS
 
-### CAPÍTULO XV. DEL ASESOR JURÍDICO FEDERAL DE LAS VÍCTIMAS
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 ###### Artículo 165.
 
@@ -2562,7 +3044,9 @@ Las Asesorías Jurídicas de Atención a Víctimas de las entidades federativas 
 
 La Asesoría Jurídica estará integrada por asesores jurídicos de atención a víctimas, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
 
-Contará con una Junta Directiva, un Director General y las unidades administrativas que se requieran para el desempeño de sus funciones, en los términos que señalen las normas reglamentarias aplicables.
+> <small>(REFORMADO, D.O.F. 3 DE ENERO DE 2017)</small>
+
+Con independencia de lo anterior, cuando no se cuente con el personal profesional necesario, la Asesoría Jurídica podrá contar, de manera excepcional, con el servicio de particulares para ejercer las funciones de asesores jurídicos, en términos de lo dispuesto en el artículo 121 y 125 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -2584,13 +3068,17 @@ VI. Las demás que se requiera para la defensa de los derechos de las víctimas.
 
 La Asesoría Jurídica de las entidades federativas tendrán las mismas funciones en el ámbito de su competencia.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ENERO DE 2017)</small>
 
 ###### Artículo 168.
 
-La víctima tendrá derecho a nombrar un Asesor Jurídico el cual elegirá libremente desde el momento de su ingreso al Registro. En caso de no contar con abogado particular, la Comisión Ejecutiva del Sistema Nacional de Víctimas deberá nombrarle uno a través de la Asesoría Jurídica Federal.
+La víctima tendrá derecho a solicitar a la Comisión Ejecutiva o a las Comisiones de víctimas, según corresponda, que le proporcione un Asesor Jurídico en caso de que no quiera o no pueda contratar un abogado particular, el cual elegirá libremente desde el momento de su ingreso al Registro. En este caso, la Comisión Ejecutiva del Sistema Nacional de Víctimas deberá nombrarle uno a través de la Asesoría Jurídica Federal.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 La víctima tendrá el derecho de que su abogado comparezca a todos los actos en los que ésta sea requerida.
+
+> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
 El servicio de la Asesoría Jurídica será gratuito y se prestará a todas las víctimas que quieran o pueden contratar a un abogado particular y en especial a:
 
@@ -2668,55 +3156,21 @@ El servicio civil de carrera para los Asesores Jurídicos, comprende la selecci�
 
 El Director General, los Asesores Jurídicos y el personal técnico de la Asesoría Jurídica Federal serán considerados servidores públicos de confianza.
 
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
-
 ###### Artículo 175.
 
-La Junta Directiva estará integrada por el Director General de la Asesoría Jurídica Federal, quien la presidirá, así como por seis profesionales del Derecho de reconocido prestigio, nombrados por la Comisión Ejecutiva, a propuesta del Director General.
-
-Los miembros de la Junta Directiva realizarán sus funciones de manera personal e indelegable y durarán en su cargo tres años y podrán ser reelectos por otros tres.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+(DEROGADO, D.O.F. 3 DE ENERO DE 2017)
 
 ###### Artículo 176.
 
-La Junta Directiva podrá sesionar con un mínimo de cuatro miembros y tomará sus decisiones por mayoría de votos de los miembros presentes. En caso de empate el Director General tendrá voto de calidad.
-
-Las sesiones ordinarias se verificarán cuando menos cada dos meses, sin perjuicio de que puedan convocarse por el Director General o mediante solicitud que a éste formulen por lo menos tres miembros de la Junta Directiva, cuando se estime que hay razones de importancia para ello.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+(DEROGADO, D.O.F. 3 DE ENERO DE 2017)
 
 ###### Artículo 177.
 
-Son las facultades de la Junta Directiva:
-
-I. Fijar la política y las acciones relacionadas con la Asesoría Jurídica de las Víctimas;
-
-II. Promover que las instituciones, organismos y asociaciones públicas y privadas contribuyan a la elevación del nivel profesional de los asesores jurídicos, e igualmente se proporcione a la Junta asesoramiento técnico en las áreas o asuntos específicos en que ésta lo requiera;
-
-III. Promover la realización de estudios tendientes a perfeccionar el servicio de Asesoría Jurídica Federal;
-
-IV. Impulsar la celebración de convenios con los distintos sectores sociales y organismos públicos y privados, en temas como capacitación y apoyo;
-
-V. Aprobar los lineamientos para la selección, ingreso y promoción de los asesores jurídicos de atención a víctimas;
-
-VI. Aprobar las bases generales de organización y funcionamiento de la Asesoría Jurídica Federal;
-
-VII. Aprobar la propuesta de anteproyecto de presupuesto que se someta a la consideración de la Comisión Ejecutiva;
-
-VIII. Aprobar los lineamientos generales para la contratación de peritos y especialistas en las diversas áreas del conocimiento en que se requieran;
-
-IX. Aprobar el Plan Anual de Capacitación y Estímulos de la Asesoría Jurídica Federal;
-
-X. Examinar y aprobar los informes periódicos que someta a su consideración el Director General, y
-
-XI. Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplicables.
-
-> <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
+(DEROGADO, D.O.F. 3 DE ENERO DE 2017)
 
 ###### Artículo 178.
 
-El Director General de la Asesoría Jurídica Federal, será designado por el voto de la mayoría absoluta de la Comisión Ejecutiva y durará tres años en su cargo, pudiendo ser reelecto hasta por tres años más.
+(DEROGADO, D.O.F. 3 DE ENERO DE 2017)
 
 > <small>(REFORMADO, D.O.F. 3 DE MAYO DE 2013)</small>
 
@@ -2843,3 +3297,47 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Para efectos de lo dispuesto en el último párrafo del artículo 21 de la Ley General de Víctimas, el Congreso de la Unión, las legislaturas locales y la Asamblea Legislativa del Distrito Federal, contarán con un plazo de un año contado a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a la legislación que corresponda.
 
 TERCERO.- Todas las autoridades, de los distintos órdenes de gobierno, relacionadas con el cumplimiento de esta Ley, deberán adecuar su normatividad interna para efectos del cumplimiento del Artículo Noveno Transitorio de la ley vigente.
+
+D.O.F. 3 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE VÍCTIMAS".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero.- El Ejecutivo Federal deberá realizar las reformas al Reglamento a los ciento ochenta días hábiles siguientes, a la entrada en vigor del presente Decreto.
+
+Cuarto.- La Comisión Ejecutiva, en un plazo no mayor de noventa días hábiles emitirá los lineamientos a los que se refiere el artículo 39 Bis de la Ley.
+
+Quinto.- Por única ocasión, dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo Federal, previa consulta pública a los colectivos de víctimas, expertos y organizaciones de la sociedad civil especializadas en la materia, remitirá al Senado de la República la propuesta de nombramiento del Comisionado Ejecutivo, quien durará en el cargo tres años.
+
+En adelante la designación del Comisionado Ejecutivo se realizará de acuerdo al proceso establecido en el artículo 85 de esta Ley.
+
+Los Comisionados nombrados por el Pleno del Senado de la República en la Sesión Ordinaria del día 8 de octubre del año 2013, que rindieron protesta el día 10 del mismo mes y año, y que se encuentren en funciones, dejarán de ejercer el cargo que les fue conferido, a la entrada en vigor del presente Decreto. Queda sin efecto el nombramiento realizado en la fecha 8 de octubre del año 2013.
+
+En tanto no se designe al Comisionado Ejecutivo, el Asesor Jurídico Federal estará a cargo de la Comisión Ejecutiva. Por lo que se refiere a las autorizaciones para el acceso a los recursos del Fondo, éstas serán emitidas de manera conjunta entre el Asesor Jurídico Federal y el servidor público responsable del Fondo.
+
+Sexto.- La Comisión Ejecutiva, en un plazo no mayor a treinta días naturales a partir de la entrada en vigor del presente Decreto publicará la Convocatoria a que se refiere el artículo 84 Octies de la Ley.
+
+Séptimo.- La Comisión Ejecutiva realizará las adecuaciones necesarias a su estructura orgánica y al contrato de fideicomiso en un plazo de noventa días hábiles posteriores a la entrada en vigor del Reglamento.
+
+Octavo.- Las erogaciones que, en el ámbito de la federación se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado, por lo que no se autorizarán recursos adicionales en el ejercicio fiscal correspondiente.
+
+Noveno.- En un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto, las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, realizarán las modificaciones legislativas y presupuestales conforme a lo dispuesto en el presente Decreto.
+
+Décimo.- Las entidades federativas en un plazo de 90 días contados a partir de la entrada en vigor del presente Decreto, deberán integrar su Comisión de Atención a Víctimas.
+
+Décimo Primero.- En un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto, las Comisiones de víctimas de las entidades federativas que se encuentren operando con antelación deberán realizar las adecuaciones conducentes en términos de lo previsto por el presente Decreto.
+
+De igual forma deberán hacer las previsiones presupuestales necesarias para la operación de la presente Ley para el siguiente ejercicio fiscal a su entrada en vigor.
+
+Décimo Segundo.- El Sistema Nacional de Atención a Víctimas promoverá la celebración de los convenios de coordinación entre la Comisión Ejecutiva y las Comisiones de víctimas para establecer las reglas de reintegración de los recursos erogados por la Comisión Ejecutiva a través del Fondo.
+
+Décimo Tercero.- En un plazo de 180 días contados a partir de la entrada en vigor del presente Decreto: las secretarías, dependencias, organismos y entidades del orden federal y de las entidades federativas del sector salud, educación, desarrollo social y las demás obligadas; así como aquellos municipios que cuenten con la infraestructura y la capacidad de prestación de servicios, en el marco de sus competencias y fundamentos legales de actuación, deberán adecuar su normatividad conforme al Programa y el Modelo de atención a víctimas previstos en la Ley y el Reglamento.
+
+Décimo Cuarto.- En tanto las entidades federativas se encuentren en la integración de sus Comisiones de víctimas, las obligaciones previstas para estas Comisiones en la Ley serán asumidas por la Secretaría de Gobierno de cada entidad.
+
+Décimo Quinto.- Por única ocasión, para la primera designación de los miembros de la Asamblea Consultiva a que se refiere el artículo 84 Octies, el Comisionado Ejecutivo enviará propuestas de integrantes al Senado de la República, el cual los elegirá por las dos terceras partes de los presentes en sesión ordinaria.
+
+Décimo Sexto.- Constituida la Asamblea Consultiva, deberá elegir a los integrantes de la Junta de Gobierno dentro de los diez días siguientes.
