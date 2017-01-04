@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2016-10-03"
+last_updated: "2017-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2017.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -811,7 +811,9 @@ Para lograr el adecuado cumplimiento de los fines del Instituto, se apoyará de 
 
 I. El Director del Instituto Chihuahuense del Deporte y Cultura Física.
 
-II. Un representante de la Comisión de Juventud y Deporte del H. Congreso del Estado.
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2017)</small>
+
+II. Dos representantes de la Comisión de Juventud y Deporte del H. Congreso del Estado.
 
 III. Un representante de las asociaciones deportivas debidamente registradas en el Sistema.
 
@@ -820,6 +822,10 @@ IV. Un representante de las sociedades deportivas debidamente registradas en el 
 V. Un representante de los deportistas de alto rendimiento.
 
 VI. Hasta cinco integrantes del sector privado que representen a los principales municipios de la Entidad.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2017)</small>
+
+VII. Un representante de cada uno de los órganos municipales de cultura física y deporte, de los municipios con más de 100,000 habitantes en el Estado.
 
 > <small>(ADICIONADO, P.O. 9 DE ENERO DE 2016)</small>
 
@@ -1017,13 +1023,13 @@ En ausencia del Presidente, en cualquiera de las sesiones, uno de los miembros d
 
 Cuando la ausencia del Presidente sea definitiva, el titular del Ejecutivo Estatal designará de entre los Miembros Titulares, a quien deba sustituirlo para que concluya el periodo respectivo. Ante la ausencia definitiva de cualquiera de los Miembros Titulares, el titular del Ejecutivo Estatal, designará a quien deba sustituirlo para que concluya el periodo respectivo.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 44-A.
 
 El Ejecutivo Estatal expedirá las normas reglamentarias necesarias para la integración y funcionamiento de la Comisión. Asimismo, proporcionará anualmente el presupuesto para su funcionamiento.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 44-B.
 
@@ -2360,3 +2366,11 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 4 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LXV/RFDEC/0022/2016 I P.O., MEDIANTE EL CUAL SE REFORMA EL DECRETO NO. 1566/2016 XXI P.E., ENVIADO AL PODER EJECUTIVO PARA SU PUBLICACIÓN Y DEVUELTO CON OBSERVACIONES A ESE CUERPO COLEGIADO, CON FUNDAMENTO EN LO DISPUESTO POR EL ARTÍCULO 70 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
