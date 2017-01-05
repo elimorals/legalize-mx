@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-exploracion-y-produccion-108879"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-07-03"
-last_updated: "2015-12-29"
+last_updated: "2017-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108879&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2015-06-26"
 ---
 # ESTATUTO ORGANICO DE PEMEX EXPLORACION Y PRODUCCION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE PEMEX EXPLORACIÓN Y PRODUCCIÓN, PUBLICADO EN EL D.O.F. DE 5 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO]</small>
+
 ESTATUTO ORGÁNICO PEMEX EXPLORACIÓN Y PRODUCCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ENERO DE 2017 (ABROGADO).
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 3 de julio de 2015.
 
@@ -3312,3 +3314,99 @@ D.O.F. 29 DE DICIEMBRE DE 2015.
 PRIMERO. Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico de Pemex Exploración y Producción, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las áreas cuyas funciones se modifican o se crean en virtud de las reformas y adiciones al Estatuto Orgánico de Pemex Exploración y Producción, deberán realizar lo necesario para que se lleve a cabo la transferencia de los recursos humanos, materiales y financieros que correspondan, en coordinación con las Direcciones Corporativas de Petróleos Mexicanos competentes.
+
+D.O.F. 5 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE PEMEX EXPLORACIÓN Y PRODUCCIÓN”.]
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, publicado en el Diario Oficial de la Federación el día tres de julio de dos mil quince, y modificado por publicación en el mismo órgano de difusión oficial el veintinueve de diciembre de dos mil quince.
+
+TERCERO. La estructura orgánica básica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos. La implementación de dicha estructura se realizará mediante movimientos compensados, que no impliquen incremento al presupuesto global de servicios personales o en el número total de plazas de Pemex Exploración y Producción.
+
+CUARTO. El Director General y los Directores Operativos coordinarán que los recursos humanos, materiales y financieros, así como la información, asuntos y documentación a cargo de las áreas que desaparecen o se modifican con motivo de la adecuación a la estructura orgánica básica de Pemex Exploración y Producción, se distribuyan entre las áreas que correspondan conforme a la nueva estructura consignada en este Estatuto.
+
+Al efecto, las áreas cuyas funciones se modifican o se crean contenidas en el presente Estatuto, deberán realizar y formalizar, según corresponda, cualquier tipo de acto o documento que sean necesarios para los traspasos, transferencias y demás actos que correspondan.
+
+Sin perjuicio de lo anterior, las áreas referidas deberán realizar las actividades, funciones y actos que resulten necesarios, con el propósito de dar continuidad a la operación y funcionamiento de Pemex Exploración y Producción.
+
+El Director General de Pemex Exploración y Producción informará al Consejo de Administración los avances en la implementación de las acciones a que se refiere el presente Transitorio.
+
+QUINTO. Los lineamientos, políticas, bases, criterios y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente Estatuto, por cualquier órgano o área de Petróleos Mexicanos, Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, continuarán siendo aplicables a la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, en lo que no se opongan a la Ley de Petróleos Mexicanos, su Reglamento, el Acuerdo de Creación de Pemex Exploración y Producción, al presente Estatuto y demás disposiciones aplicables, hasta en tanto se determinen su modificación o abrogación.
+
+SEXTO. La normativa interna y demás disposiciones emitidas por cualquier órgano o área de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, con anterioridad a la entrada en vigor del presente Estatuto, continuarán siendo aplicables en lo que no se opongan a la Ley de Petróleos Mexicanos, su Reglamento, al presente Estatuto y demás disposiciones aplicables, hasta en tanto los órganos o áreas referidas no determinen su modificación o abrogación.
+
+SÉPTIMO. Con independencia de su fecha de emisión, cualquier documento, código, política, lineamiento, directriz, regla, disposición, mecanismo, normativa, estatuto orgánico e incluso comunicado, así como cualquier tipo de documento, cuyo contenido mencione los términos o las figuras de Comité de Dirección o Director Ejecutivo del Comité de Dirección de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, deberán entenderse atribuidas y/o dirigidas al Director General de Pemex Exploración y Producción.
+
+OCTAVO. Los contratos, convenios y actos jurídicos, así como los procedimientos de contratación celebrados o en trámite a la entrada en vigor del presente Estatuto, se respetarán en los términos pactados, salvo que se convenga lo contrario, de conformidad con lo previsto en el Transitorio Décimo Tercero de la Ley de Petróleos Mexicanos.
+
+NOVENO. Los poderes, mandatos y, en general, las representaciones otorgadas y las facultades conferidas por el entonces Organismo Subsidiario Pemex-Exploración y Producción, y por la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, con anterioridad a la entrada en vigor de este Estatuto, subsistirán en sus términos en tanto no sean modificados o revocados expresamente. De ser necesario para el cumplimiento de las funciones contenidas en el presente Estatuto, las áreas correspondientes de Pemex Exploración y Producción, deberán realizar las gestiones necesarias ante la Dirección Jurídica para el otorgamiento de los poderes correspondientes.
+
+DÉCIMO. Las obligaciones asumidas por Pemex-Exploración y Producción, Pemex-Gas y Petroquímica Básica, Pemex-Petroquímica y Pemex-Refinación, al amparo de los convenios de responsabilidad solidaria suscritos por ellos, para garantizar las obligaciones constitutivas de deuda pública contratadas por Petróleos Mexicanos y, en su caso, otros organismos subsidiarios, así como las operaciones donde dichos organismos subsidiarios han comparecido directamente, para tales efectos, continuarán vigentes hasta su conclusión, siempre que la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, sea su causahabiente directo.
+
+DÉCIMO PRIMERO. Con el propósito de dar continuidad a los procesos y actividades de los equipos de trabajo integrados para llevar a cabo los procesos de migración de las asignaciones relacionadas con contratos integrales de exploración y producción y contratos de obra pública financiada a contratos para la exploración y extracción de Hidrocarburos, migración de asignaciones a contratos para la exploración y extracción de Hidrocarburos, participación en rondas licitatorias o separación de activos, conforme señalan las disposiciones legales vigentes que, a la fecha de entrada en vigor del presente Estatuto, hayan iniciado procedimientos que involucren autoridades, socios o terceras partes, la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, continuará a cargo de los proyectos y gestiones necesarios, procurando integrar al personal que designe la Dirección Corporativa de Alianzas y Nuevos Negocios de Petróleos Mexicanos.
+
+En los supuestos señalados en el párrafo anterior, Pemex Exploración y Producción, por conducto de sus servidores públicos conforme a las funciones previstas en el presente Estatuto, continuará hasta su conclusión los procedimientos referidos.
+
+DÉCIMO SEGUNDO. Hasta en tanto la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, concluya la transferencia de los recursos humanos, materiales y financieros, así como los bienes, derechos y obligaciones a la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Perforación y Servicios, de manera transitoria operará y contará con las funciones necesarias para dar continuidad a las actividades en materia de servicios de perforación, terminación y reparación de pozos, así como la ejecución de los servicios a pozos, sin perjuicio de conservar las funciones que en estas mismas materias, le corresponden en razón de su objeto.
+
+DÉCIMO TERCERO. En cumplimiento al Acuerdo CA-182/2015, del 24 de septiembre de 2015, adoptado en la Sesión 899 Extraordinaria del Consejo de Administración de Petróleos Mexicanos, la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, de manera transitoria operará y contará con las funciones que correspondieron a la extinta Subdirección de Acondicionamiento y Distribución de Hidrocarburos, hasta en tanto dichas funciones sean realizadas por la Subdirección de Tratamiento y Logística Primaria de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Logística.
+
+Las funciones a que se refiere el presente transitorio son las siguientes:
+
+I. Coordinar la medición, transporte, acondicionamiento, almacenamiento y distribución de Hidrocarburos, así como las ventas de primera mano y ventas entre Empresas Productivas Subsidiarias que la Dirección de Desarrollo y Producción designe;
+
+II. Diseñar y coordinar estrategias operativas y comerciales en materia de sistemas de mezclado, distribución y compraventa de Hidrocarburos;
+
+III. Coordinar el desarrollo e implantación de sistemas de medición, monitoreo, automatización y control en ductos e instalaciones;
+
+IV. Vigilar y evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios;
+
+V. Adecuar y modernizar la infraestructura de explotación y transporte de Hidrocarburos;
+
+VI. Coordinar las operaciones de distribución y manejo de Hidrocarburos producidos en territorio nacional;
+
+VII. Proponer y desarrollar proyectos de optimización de infraestructura para el transporte, distribución y acondicionamiento de Hidrocarburos;
+
+VIII. Integrar los planes y programas periódicos para la disponibilidad y distribución de la producción de la Dirección de Desarrollo y Producción;
+
+IX. Evaluar el cumplimiento diario de los programas de disponibilidad de la producción;
+
+X. Establecer los parámetros operativos para el transporte en la venta de Hidrocarburos;
+
+XI. Dirigir las operaciones en la aplicación de planes de respuesta a emergencias;
+
+XII. Administrar los procesos estratégicos y coordinar la operación de los sistemas de información de transporte y distribución de Hidrocarburos;
+
+XIII. Desarrollar modelos de mezclas de petróleo crudo y gas natural;
+
+XIV. Establecer y negociar los términos y condiciones para la comercialización de petróleo crudo, gas natural, condensado, insumos y servicios asociados a la producción, así como su administración y evaluación;
+
+XV. Gestionar los permisos, autorizaciones, metodologías y modelos de precios y tarifas ante las instancias competentes para la realización de las actividades de la Subdirección;
+
+XVI. Llevar a cabo la administración financiera de las ventas de petróleo crudo, gas natural, condensados y derivados a exportación y entre Empresas Productivas Subsidiarias;
+
+XVII. Implementar mejoras continuas en sus procesos;
+
+XVIII. Elaborar los programas de nominaciones de petróleo crudo, gas natural y condensado, de corto, mediano y largo plazo;
+
+XIX. Identificar y documentar oportunidades de negocio de transporte y distribución de Hidrocarburos;
+
+XX. Participar en los Grupos Directivos de las Alianzas y ejecutar los programas operativos de alianzas;
+
+XXI. Llevar a cabo el transporte, acondicionamiento y distribución de los Hidrocarburos;
+
+XXII. Determinar y llevar a cabo el mantenimiento de su infraestructura;
+
+XXIII. Ejecutar el plan de implantación del sistema de confiabilidad operativa y el sistema de seguridad, salud en el trabajo y la protección ambiental;
+
+XXIV. Ejecutar los planes de respuesta a emergencias;
+
+XXV. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios, acorde a los lineamientos emitidos en materia ambiental, y
+
+XXVI. Implantar los sistemas de medición, monitoreo, automatización y control en ductos e instalaciones.
+
+DÉCIMO CUARTO. Las referencias a las denominaciones de las áreas del organismo público descentralizado Pemex-Exploración y Producción, así como de las áreas de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, que se contengan en contratos u otros instrumentos jurídicos, se entenderán hechas o conferidas a las áreas que correspondan de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, conforme a este Estatuto.
+
+DÉCIMO QUINTO. Los acuerdos de delegación de funciones y de asignación de responsabilidades, emitidos por la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, relacionados con la modificación a la estructura autorizada por el Consejo de Administración de Petróleos Mexicanos, dejarán de tener efectos una vez que el presente Estatuto entre en vigor.
