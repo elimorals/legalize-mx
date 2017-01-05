@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-periodico-oficial-del-estado-de-san-luis-potosi-87565"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-10"
-last_updated: "2015-10-06"
+last_updated: "2017-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87565&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2017.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 10 de enero de 2012.
 
@@ -33,7 +33,9 @@ DECRETO 901
 
 LA QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA:
 
-EXPOSICION DE MOTIVOS.
+EXPOSICION DE MOTIVOS
+
+[...]
 
 Se establece un capítulo sobre la fe de erratas, donde se indica qué se entiende por ésta figura, y se determina la forma en que se tramita la misma.
 
@@ -291,23 +293,29 @@ El periódico tendrá una versión electrónica que se difundirá vía internet,
 
 El director administrará la página electrónica del periódico en internet.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 29.
 
-Cada ejemplar del periódico será reproducido en la página electrónica de la dirección en Internet, inmediatamente a su publicación impresa.
+Cada ejemplar del periódico será reproducido en la página electrónica de la dirección en internet, el mismo día que su publicación impresa.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 30.
 
-La página electrónica deberá identificarse con los mismos datos y requisitos que se contemplan para la edición impresa.
+La página electrónica deberá identificarse con los mismos datos y requisitos que se contemplan para la edición impresa. Para su mejor ubicación y consulta, deberán ordenarse por fecha de publicación.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 31.
 
-La publicación electrónica del periódico será únicamente para efectos de divulgación, por lo que no afecta la entrada en vigor, ni el contenido oficial de los materiales publicados en el formato impreso.
+La publicación electrónica del periódico tendrá carácter oficial.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 32.
 
-La consulta del formato electrónico será bajo la responsabilidad del usuario, por lo que, ni la Secretaría, ni la dirección, responderán por la fidelidad de los textos divulgados.
+La Secretaría, y la Dirección, serán responsables de la fidelidad de los textos divulgados. La consulta del formato electrónico, y el uso indebido de la información, seráì (sic) responsabilidad del usuario.
 
 ###### ARTICULO 33.
 
@@ -346,5 +354,13 @@ Lic. Cándido Ochoa Rojas
 P.O. 6 DE OCTUBRE DE 2015.
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0460.- SE REFORMAN LOS ARTÍCULOS, 29, 30, 31 Y 32, DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor ciento veinte días después de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
