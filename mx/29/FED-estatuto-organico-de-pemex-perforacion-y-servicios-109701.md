@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-perforacion-y-servicios-109701"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-09-04"
-last_updated: "2015-09-04"
+last_updated: "2017-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109701&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,1026 +19,1156 @@ issue_date: "2015-08-17"
 ---
 # ESTATUTO ORGANICO DE PEMEX PERFORACION Y SERVICIOS
 
-ESTATUTO ORGÁNICO DE PEMEX PERFORACIÓN Y SERVICIOS
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DEL SERVICIO DE CARRERA POLICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 20 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 4 de septiembre de 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2017 (ABROGADO).
 
-Al margen un logotipo, que dice: Petróleos Mexicanos.
+Reglamento publicado en la Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 13 de abril de 2011.
 
-EL CONSEJO DE ADMINISTRACIÓN DE PEMEX PERFORACIÓN Y SERVICIOS, con fundamento en el artículo 12, fracción VI, del Acuerdo de Creación de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos, denominada Pemex Perforación y Servicios, aprobó el:
+LEONEL GODOY RANGEL, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, en ejercicio de las atribuciones que al Ejecutivo a mi cargo le confieren los artículos 60 fracciones I, XII y XXII, 62, 65 y 66 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo; 3º, 4º, 5º, 6º, 8º, 9º, 11, 15, 16, 18, 19 y 25 de la Ley Orgánica de la Administración Pública del Estado de Michoacán de Ocampo; 11 fracción I, 77 fracción I, 78, 132, 139 y 140 de la Ley del Sistema de Seguridad Pública del Estado de Michoacán de Ocampo; y,
 
-ESTATUTO ORGÁNICO PEMEX PERFORACIÓN Y SERVICIOS
+C O N S I D E R A N D O.
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+Por lo antes expuesto, he tenido a bien expedir el siguiente:
 
-### CAPÍTULO PRIMERO. DE LAS FUNCIONES DEL CONSEJO DE ADMINISTRACIÓN
+REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-###### Artículo 1.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-El presente Estatuto tiene por objeto establecer la estructura y organización básica y las funciones de las distintas áreas que integran Pemex Perforación y Servicios, así como los directivos o personal que tendrán la representación de la misma y aquellos que podrán otorgar poderes en nombre de la empresa y las reglas para el funcionamiento de su Consejo de Administración.
+###### Artículo 1°.
 
-###### Artículo 2.
+El presente ordenamiento es de orden público, interés social y de observancia obligatoria para la Secretaría de Seguridad Pública y sus integrantes, y tiene por objeto la implementación del Sistema de Desarrollo Policial como un conjunto de procesos debidamente estructurados y enlazados entre sí, que comprenden la Carrera Policial, los esquemas de profesionalización, la certificación y el régimen disciplinario del personal de la Policía Estatal Preventiva, garantizar el desarrollo institucional, la estabilidad, la seguridad y la igualdad de oportunidades del mismo, elevar la profesionalización, fomentar la vocación de servicio y el sentido de pertenencia, así como de promover el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-Pemex Perforación y Servicios es una empresa productiva del Estado subsidiaria de Petróleos Mexicanos, con personalidad jurídica y patrimonio propios, sujeta a la conducción central, dirección estratégica y coordinación de Petróleos Mexicanos, de conformidad con lo establecido en la Ley de Petróleos Mexicanos y su Reglamento, que tiene como finalidad generar valor económico y rentabilidad para el Estado Mexicano.
+###### Artículo 2°.
 
-###### Artículo 3.
+Para efectos del Reglamento del Servicio Profesional de Carrera Policial del Estado de Michoacán de Ocampo, estará sujeto a las definiciones previstas en la Ley del Sistema de Seguridad Pública del Estado de Michoacán de Ocampo, así como a las siguientes:
 
-Pemex Perforación y Servicios tiene por objeto:
+I. Aspirante: A la persona que manifiesta su interés por ingresar al servicio, a fin de incorporase al procedimiento de selección;
 
-I. Proveer servicios de perforación, terminación y reparación de pozos, así como la ejecución de los servicios a pozos;
+II. CUIP: A la Clave Única de Identificación Permanente;
 
-II. Administrar la planeación, evaluación y desarrollo de los proyectos y otras iniciativas de negocio relacionadas con su objeto;
+III. Instituto: Al Instituto Estatal de Formación Policial;
 
-III. Crear empresas filiales y participar en asociaciones y alianzas, así como participar en forma minoritaria en el capital social o patrimonio de otras sociedades o asociaciones, nacionales o extranjeras, bajo cualquier figura societaria o contractual permitida por la ley, que se requieran para la consecución de su objeto, de conformidad con las políticas generales que emita el Consejo de Administración de Petróleos Mexicanos;
+IV. Plaza de nueva creación: A la posición presupuestaria que respalda un puesto, que no puede ser ocupada por más de un servidor público a la vez, que tiene una adscripción determinada, y que se crea cuando sea estrictamente indispensable desde el punto de vista técnico y funcional para la consecución de los objetivos institucionales del servicio, sustentándose en nuevas actividades o en una mayor complejidad de las existentes;
 
-IV. La compraventa de certificados o documentos que amparen emisiones de gases de efecto invernadero y su comercialización en los mercados internos y externos, así como la participación en proyectos inherentes al cambio climático nacionales o extranjeros, en colaboración con las áreas responsables de Petróleos Mexicanos;
+V. Plaza vacante: A la posición presupuestaria que respalda un puesto, que no puede ser ocupada por más de un integrante del servicio de carrera a la vez, con una adscripción determinada, y que se encuentra desocupada por cualquier causal ordinaria o extraordinaria;
 
-V. La gestión y administración de negocios comerciales o inmobiliarios de todo tipo, incluyendo la promoción, urbanización, explotación, administración, arrendamiento, compra, permuta, comodato, donación, servidumbre, usufructo, venta o cualquier otra operación inmobiliaria, de fincas o inmuebles cualquiera que sea su clase, destino o naturaleza, relacionadas con su objeto;
+VI. Policía Estatal Preventiva: La encargada de prevenir la comisión de delitos e infracciones administrativas, realizar las acciones de inspección, vigilancia y vialidad en su circunscripción;
 
-VI. Fabricar, preparar, distribuir, comprar, vender, arrendar, importar y exportar toda clase de productos permitidos por las leyes y comerciar estos productos por cuenta propia o ajena, relacionados con su objeto;
+VII. Reglamento: Al Reglamento del Servicio Profesional de Carrera Policial del Estado de Michoacán de Ocampo; y,
 
-VII. Solicitar, obtener, comprar, arrendar, licenciar, ceder, adquirir bajo cualquier título o disponer de marcas, avisos y nombres comerciales, derechos de autor, patentes, invenciones, dibujos y modelos industriales, avisos comerciales, procesos, metodologías y procedimientos industriales y para la elaboración de productos y, en general, derechos de propiedad intelectual e industrial;
+VIII. Sistema de Desarrollo Policial: Al conjunto de reglas y procedimientos, debidamente estructurados y enlazados entre sí, que comprenden la carrera policial, los esquemas de profesionalización, la certificación y los regímenes disciplinarios y de prestación del personal de la Policía Estatal Preventiva.
 
-VIII. Contratar o convenir operaciones de comisión mercantil, mediación, asistencia técnica, agencia, prestación de servicios profesionales, asesoría, y todo tipo de actos jurídicos relacionados directa o indirectamente con su objeto;
+###### Artículo 3°.
 
-IX. Emitir, librar, girar, suscribir, aceptar, endosar, avalar y realizar cualquier tipo de actos de comercio o jurídicos en relación con títulos de crédito, u operaciones financieras propias o de terceros, incluyendo sin limitar la constitución de garantías reales o personales respecto de créditos a su cargo o de terceros;
+La relación jurídica entre el personal de la Policía Estatal Preventiva y la Secretaría, se rige por los artículos 123 fracción XIII del apartado B y 116 fracción VI, de la Constitución Política de los Estados Unidos Mexicanos, así como por las leyes orgánicas, reglamentarias y demás disposiciones administrativas sobre la materia que se emitan con arreglo a los ordenamientos constitucionales citados.
 
-X. Participar en toda clase de concursos o licitaciones públicas o privadas, nacionales e internacionales u otros procedimientos de contratación, tales como invitaciones o adjudicaciones directas, en toda clase de negocios relacionados directa o indirectamente con su objeto;
+### CAPÍTULO II. DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL
 
-XI. Establecer, adquirir, administrar y operar talleres, plantas, fábricas y todo tipo de instalaciones comerciales o industriales, así como bodegas u oficinas;
+###### Artículo 4º.
 
-XII. Prestar servicios a terceros relacionados con las actividades vinculadas a su objeto, y
+El Servicio Profesional de Carrera Policial, es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción y reconocimiento; así como la separación o baja del personal integrante de la Policía Estatal Preventiva.
 
-XIII. En general, realizar las operaciones relacionadas directa o indirectamente con su objeto, pudiendo celebrar con personas físicas o morales, nacionales o extranjeras, toda clase de actos, convenios y contratos.
+###### Artículo 5°.
 
-###### Artículo 4.
+Los fines del Servicio Profesional de Carrera Policial son:
 
-Para los efectos del presente Estatuto, se entenderá por:
+I. Brindar un mejor servicio a la ciudadanía y al Estado, al asegurar al policía un desarrollo pleno de sus capacidades y desarrollo profesional en condiciones de certeza;
 
-I. Acuerdo de Creación: El instrumento aprobado por el Consejo de Administración de Petróleos Mexicanos por virtud del cual se crea a la empresa productiva del Estado subsidiaria de Petróleos Mexicanos denominada Pemex Perforación y Servicios;
+II. Garantizar el desarrollo policial y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para el personal de la Policía Estatal Preventiva;
 
-II. Cadena de Valor: A las actividades de perforación, terminación y reparación de pozos, así como la ejecución y servicios a pozos;
+III. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de la Policía Estatal Preventiva;
 
-III. Consejeros: Los designados con tal carácter, propietarios y suplentes, de conformidad con el Acuerdo de Creación;
+IV. Fomentar la vocación de servicio y el sentido de pertenencia mediante la motivación y el establecimiento de un adecuado sistema de promociones que permita satisfacer las expectativas de desarrollo profesional y reconocimiento del personal de la Policía Estatal Preventiva;
 
-IV. Consejo de Administración: El Consejo de Administración de Pemex Perforación y Servicios;
+V. Instrumentar e impulsar la capacitación y profesionalización permanente del personal Integrante de la Policía Estatal Preventiva, para asegurar la lealtad institucional en la prestación de los servicios; y,
 
-V. Director General: El Director General de Pemex Perforación y Servicios;
+VI. Los demás que establezcan las disposiciones que deriven de este Reglamento.
 
-VI. Empresas Filiales: Aquellas en las que Pemex Perforación y Servicios participa, directa o indirectamente, en más del cincuenta por ciento de su capital social, con independencia de que se constituyan conforme a la legislación mexicana o a la extranjera;
+###### Artículo 6°.
 
-VII. Empresas Productivas Subsidiarias: Las empresas productivas del Estado subsidiarias de Petróleos Mexicanos, con personalidad jurídica y patrimonio propios, sujetas a la conducción central, dirección estratégica y coordinación de Petróleos Mexicanos, de conformidad con el artículo 1 del Acuerdo de Creación;
+Dentro del Servicio Profesional de Carrera Policial, sólo se podrá ingresar, permanecer y ascender a la categoría, jerarquía o grado inmediato superior y ser separado, mediante los términos y las condiciones que establece este Reglamento.
 
-VIII. Entes Participantes: Las personas morales que intervienen en el Modelo Operativo Basado en Administración por Procesos;
+###### Artículo 7°.
 
-IX. Estatuto: El Estatuto Orgánico de Pemex Perforación y Servicios;
+El Servicio Profesional de Carrera Policial, funcionará mediante las acciones correspondientes a los subsistemas siguientes:
 
-X. Estructuras de Gobierno para la Mejora de Procesos: Los grupos colegiados que intervienen en el Modelo Operativo Basado en Administración por Procesos, para gestionar la mejora de dichos procesos;
+I. Planeación;
 
-XI. Intervención a Pozos: A las actividades de perforación, terminación y reparación de pozos;
+II. Reclutamiento;
 
-XII. Ley: La Ley de Petróleos Mexicanos;
+III. Selección;
 
-XIII. MOBAP: El Modelo Operativo Basado en Administración por Procesos, transversal y orientado a alinear y coordinar los procesos de negocio hacia los objetivos, misión y visión de Petróleos Mexicanos y los Entes Participantes;
+IV. Formación inicial;
 
-XIV. Pemex: Petróleos Mexicanos;
+V. Formación continua;
 
-XV. Pemex Perforación y Servicios: La empresa productiva del Estado subsidiaria de Pemex, creada mediante acuerdo por el Consejo de Administración de Pemex;
+VI. Certificación;
 
-XVI. Plan de Negocios: Aquél a que se refieren los artículos 13, fracción III y 14, de la Ley y 3, fracción VII, del Acuerdo de Creación;
+VII. Ingreso;
 
-XVII. Planeación Estratégica Institucional: El conjunto de actividades y mecanismos encaminados a definir el rumbo y la dirección estratégica de Pemex, sus Empresas Productivas Subsidiarias y, en su caso, Empresas Filiales, reflejado en objetivos, estrategias, metas de desempeño e inversiones;
+VIII. Asimilados;
 
-XVIII. Portal del Consejo: El portal informático por el que se convoca y se hace llegar, a los Consejeros e invitados permanentes del Consejo de Administración de Pemex y de los consejos de administración de sus Empresas Productivas Subsidiarias, la información de los asuntos que se van a someter a consideración de ese órgano colegiado en las sesiones;
+IX. Evaluación para la permanencia, remoción y promoción;
 
-XIX. Presidente: El Presidente del Consejo de Administración;
+X. Reconocimientos, estímulos y recompensas; y,
 
-XX. Procura y Abastecimiento: Las actividades encaminadas a cubrir las necesidades de contratación de bienes, servicios, arrendamientos y obras, considerando calidad, cantidad, tiempo, precio y ubicación, que lleve a cabo Pemex para Pemex Perforación y Servicios;
+XI. Conclusión del servicio.
 
-XXI. Prosecretario: El Prosecretario del Consejo de Administración;
+###### Artículo 8°.
 
-XXII. Reglamento: El Reglamento de la Ley;
+A falta de disposición expresa en el Reglamento, se aplicarán de forma supletoria la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán, así como las disposiciones relativas del derecho laboral del Estado y/o Ley Federal del Trabajo.
 
-XXIII. Secretario: El Secretario del Consejo de Administración;
+### CAPÍTULO III. DE LA ORGANIZACIÓN JERÁRQUICA Y NIVELES DE MANDO
 
-XXIV. Sistema de Control Interno: El conjunto de políticas, principios, normas, procedimientos y mecanismos de verificación y evaluación establecidos conforme a los lineamientos que apruebe el Consejo de Administración de Pemex, en términos del artículo 56 de la Ley;
+###### Artículo 9°.
 
-XXV. Tecnología de Información: Incluye los términos de tecnología de información, comunicaciones, sistemas de información geográfica, referidos a la infraestructura de hardware y software, aplicaciones, sistemas, soluciones de negocio y servicios, que habilitan e integran todos los procesos de negocio, así como los flujos de información en Pemex y sus Empresas Productivas Subsidiarias, y
-
-XXVI. Tecnologías Especializadas: Son aquellas tecnologías emergentes y maduras, que estén disponibles en el mercado, diferentes a Tecnología de Información, de aplicación exclusiva en las operaciones sustantivas de la Cadena de Valor de Pemex Perforación y Servicios.
-
-### CAPÍTULO SEGUNDO. DE LAS FUNCIONES DEL PRESIDENTE, DEL SECRETARIO Y PROSECRETARIO DEL CONSEJO DE ADMINISTRACIÓN
-
-###### Artículo 5.
-
-De conformidad con el modelo institucional establecido en la Ley y el Reglamento, así como en el Acuerdo de Creación, las áreas de Pemex Perforación y Servicios deberán ejercer sus funciones con sujeción a la conducción central, dirección estratégica y coordinación de Pemex y en congruencia con las funciones de sus direcciones, así como de las áreas competentes en las materias de vigilancia y auditoría y de responsabilidades, que les confiere el Estatuto Orgánico de Pemex.
-
-En estos términos, corresponde a las áreas de Pemex Perforación y Servicios, participar en su caso, en el diseño y elaboración, así como ejecutar, implementar, aplicar, cumplir y dar seguimiento a las propuestas, estrategias, programas, planes, proyectos, sistemas, directrices, criterios, acuerdos, mecanismos, iniciativas y demás disposiciones e instrumentos institucionales que determine el Consejo de Administración de Pemex, el Director General de Pemex o sus direcciones, así como el área competente en materia de control interno, en términos de las funciones que les confiere el Estatuto Orgánico de Pemex y demás disposiciones aplicables.
-
-Los servidores públicos de todas las áreas de Pemex Perforación y Servicios deberán observar las disposiciones, lineamientos, criterios, políticas, acuerdos, bases y demás normativa que establezca el Consejo de Administración de Pemex, en lo que les resulte aplicable.
-
-De igual forma, las áreas de Pemex Perforación y Servicios deberán:
-
-I. Realizar las acciones que resulten necesarias para el cumplimiento de los objetivos, metas de operación y de negocio, resultados e indicadores de desempeño establecidos en el Plan de Negocios;
-
-II. Proporcionar la información operativa, técnica y administrativa que les sea requerida por el Director General y por las direcciones corporativas de Pemex, en la forma y términos solicitados; así como la información sobre los avances y resultados y, en su caso, presentar medidas de mejora;
-
-III. Diseñar e instrumentar mecanismos de rendición de cuentas y evaluación del desempeño, alineados con los establecidos en Pemex, y
-
-IV. Presentar por conducto del Director General, al Director General de Pemex para su resolución, los conflictos que se susciten entre Pemex Perforación y Servicios y otras Empresas Productivas Subsidiarias y Empresas Filiales.
-
-Las funciones de soporte para Pemex Perforación y Servicios en las materias de recursos humanos, salud, financiera y de seguros, aduanal, salvaguardia estratégica, administración patrimonial, aprovechamiento y mantenimiento inmobiliario, procura y abastecimiento, jurídica, y de tecnología de información, se llevarán a cabo por las áreas de Pemex, conforme a su Estatuto Orgánico.
-
-Tratándose de las funciones relacionadas con alianzas y nuevos negocios, procesos de negocio y tecnología de información, así como planeación, coordinación y desempeño, éstas se realizarán por las áreas de Pemex, en términos de su Estatuto Orgánico, con la participación que corresponda a Pemex Perforación y Servicios.
-
-## TÍTULO SEGUNDO. DEL CONSEJO DE ADMINISTRACIÓN DE PEMEX PERFORACIÓN Y SERVICIOS
-
-###### Artículo 6.
-
-El Consejo de Administración, además de las funciones establecidas en el Acuerdo de Creación, tendrá las siguientes:
-
-I. Aprobar la normativa interna de carácter técnico e industrial, relativa a las directrices, prioridades y políticas de Pemex Perforación y Servicios, o sus modificaciones, requerida para el cumplimiento de su objeto;
-
-II. Aprobar conforme a las políticas establecidas por el Consejo de Administración de Pemex, el otorgamiento de garantías solidarias, corporativas o financieras, para respaldar obligaciones contraídas por Pemex, sus Empresas Productivas Subsidiarias y Empresas Filiales, y
-
-III. Aprobar los programas correspondientes a Pemex Perforación y Servicios, así como sus modificaciones, salvo los que se encuentren regulados en otras disposiciones jurídicas aplicables.
-
-###### Artículo 7.
-
-Corresponden al Presidente las funciones siguientes:
-
-I. Presidir, coordinar y moderar las sesiones del Consejo de Administración;
-
-II. Someter a consideración de los miembros del Consejo de Administración el orden del día correspondiente;
-
-III. Instruir al Secretario la celebración de sesiones extraordinarias;
-
-IV. Diferir la celebración de las sesiones y decretar, en su caso, los recesos de las mismas;
-
-V. Resolver sobre las solicitudes que el Director General o cuando menos dos Consejeros, le presenten para la celebración de sesiones extraordinarias;
-
-VI. Suscribir las actas de las sesiones, y
-
-VII. Las demás que le señalen las disposiciones aplicables y aquellas necesarias para el cumplimiento de las funciones del Consejo de Administración.
-
-###### Artículo 8.
-
-El Secretario y el Prosecretario serán designados por el Consejo de Administración a propuesta de su Presidente, y tendrán voz pero no voto en las sesiones del Consejo de Administración.
-
-### CAPÍTULO TERCERO. DEL FUNCIONAMIENTO DEL CONSEJO DE ADMINISTRACIÓN
-
-###### Artículo 9.
-
-El Secretario tendrá las funciones siguientes:
-
-I. Someter a consideración del Consejo de Administración el calendario anual de sesiones ordinarias;
-
-II. Convocar a sesiones ordinarias y extraordinarias;
-
-III. Administrar el Portal del Consejo, en la sección correspondiente a Pemex Perforación y Servicios;
-
-IV. Elaborar la lista de asistencia y verificar que se cuenta con el quórum para llevar a cabo la sesión;
-
-V. Registrar y hacer del conocimiento del Presidente el sentido del voto de los Consejeros;
-
-VI. Supervisar la elaboración de las actas de las sesiones del Consejo de Administración;
-
-VII. Suscribir los acuerdos del Consejo de Administración;
-
-VIII. Hacer del conocimiento del Director General los acuerdos adoptados por el Consejo de Administración, así como darles seguimiento e integrar el informe correspondiente en las sesiones, con base en el reporte proporcionado por Pemex Perforación y Servicios;
-
-IX. Ordenar la protocolización de las actas y acuerdos que, en su caso, lo requieran, así como la publicación en el Diario Oficial de la Federación de aquellos asuntos que resulten conducentes;
-
-X. Expedir constancias y certificaciones de acuerdos y actas, así como de cualquier documento que obre en el archivo de la Secretaría del Consejo, y
-
-XI. Las demás que expresamente el Consejo de Administración o el Presidente le señalen, así como aquellas que se requieran para el adecuado desarrollo de las sesiones o las que sean necesarias para el ejercicio de las funciones anteriores y las que se prevean en las disposiciones jurídicas aplicables.
+Para el funcionamiento ordenado y jerarquizado del servicio, éste se organizará en categorías, jerarquías o grados.
 
 ###### Artículo 10.
 
-Le corresponderán al Prosecretario las funciones siguientes:
+El personal Preventivo de Carrera se agrupará en las categorías siguientes:
 
-I. Suplir al Secretario en sus ausencias, en el ejercicio de sus funciones;
+I. Comisarios;
 
-II. Integrar el orden del día de las sesiones, así como la información necesaria para convocar y llevar a cabo el desarrollo de las mismas;
+II. Inspectores;
 
-III. Administrar, resguardar y digitalizar el archivo del Consejo de Administración;
+III. Oficiales; y,
 
-IV. Elaborar los proyectos de actas de las sesiones y, una vez aprobadas y firmadas, asentarlas en los libros respectivos;
+IV. Escala Básica.
 
-V. Expedir constancias y certificaciones de acuerdos y actas, así como de cualquier documento que obre en el archivo de la Secretaría del Consejo;
-
-VI. Integrar, registrar y clasificar la información que genere u obtenga el Consejo de Administración, en términos de las disposiciones aplicables y considerando las medidas que al respecto adopte el Consejo de Administración de Pemex;
-
-VII. Apoyar en la administración del Portal del Consejo, en la sección correspondiente a Pemex Perforación y Servicios;
-
-VIII. Solicitar la difusión de las actas y acuerdos del Consejo de Administración en la página de Internet de Pemex;
-
-IX. Apoyar al Presidente y al Secretario en el desarrollo de las sesiones y en el ejercicio de sus funciones, y
-
-X. Las demás que expresamente el Consejo de Administración, el Presidente o el Secretario le señalen, así como aquellas que se requieran para el adecuado desarrollo de las sesiones o las que sean necesarias para el ejercicio de las funciones anteriores, y las que se prevean en las disposiciones jurídicas aplicables.
-
-### CAPÍTULO PRIMERO. DEL DIRECTOR GENERAL DE PEMEX PERFORACIÓN Y SERVICIOS
+### CAPÍTULO IV. DE LAS JERARQUÍAS O GRADOS
 
 ###### Artículo 11.
 
-Todas las comunicaciones relacionadas con el desarrollo de las funciones y actividades a que se refieren las reglas establecidas en este Capítulo podrán llevarse a cabo por escrito, mediante el uso de Tecnología de Información que asegure su recepción, o a través del Portal del Consejo.
+El personal Preventivo de Carrera, se organizará de conformidad con las siguientes jerarquías o grados:
+
+I. Comisarios:
+
+a) Comisario General;
+
+b) Comisario en Jefe; y,
+
+c) Comisario.
+
+II. Inspectores:
+
+a) Inspector General;
+
+b) Inspector Jefe; y,
+
+c) Inspector.
+
+III. Oficiales:
+
+a) Subinspector;
+
+b) Oficial; y,
+
+c) Suboficial.
+
+IV. Escala Básica:
+
+a) Policía Primero de Carrera;
+
+b) Policía Segundo de Carrera;
+
+c) Policía Tercero de Carrera; y,
+
+d) Policía de Carrera.
 
 ###### Artículo 12.
 
-El acceso al Portal del Consejo se otorgará exclusivamente a los Consejeros, invitados permanentes, al Secretario y Prosecretario, y demás personas que expresamente determine el propio Consejo de Administración.
+La organización operativa se sustenta bajo un esquema de jerarquización terciaria, cuya célula básica se compone por tres elementos, quienes junto con el mando, constituyen la primera unidad operativa que es la Escuadra. El modelo terciario permite incorporar unidades operativas de mando y subordinación en efecto multiplicador por cada tres unidades operativas, como se muestra a continuación:
+
+> <small>[N. DE E. VÉASE CUADRO EN LA CUARTA SECCIÓN DEL P.O. DE 13 DE ABRIL DE 2011, PÁGINA 4.]</small>
 
 ###### Artículo 13.
 
-El Consejo de Administración sesionará en forma ordinaria trimestralmente, de conformidad con el calendario que se acuerde en la última sesión ordinaria del ejercicio inmediato anterior.
+La máxima unidad estará determinada por el número de personal operativo, sin embargo, el grado de Comisario, lo asumirá indistintamente el superior mando operativo.
 
-### CAPÍTULO SEGUNDO. DE LOS SUBDIRECTORES Y GERENTES
+El cuadro siguiente muestra el esquema general de la Carrera Policial del área operativa de Prevención y Reacción, cuyos componentes se explican a continuación:
 
-#### SECCIÓN PRIMERA. DE LOS SUBDIRECTORES
+I. La competencia operativa que caracteriza a cada categoría;
+
+II. El grado académico que le corresponde a cada nivel jerárquico y tiempo estimado de formación;
+
+III. La sugerencia de las edades óptimas para cada jerarquía;
+
+IV. Las jerarquías de la Carrera Policial del área operativa de Prevención y Reacción, y los años de estadía en cada una;
+
+V. La duración de los procesos de formación inicial para aspirantes;
+
+VI. El ingreso al nivel jerárquico correspondiente, de acuerdo a su nivel de estudios; y,
+
+VII. Las edades de retiro óptimas para cada categoría, conforme a las leyes locales aplicables.
+
+> <small>[N. DE E. VÉASE CUADRO EN LA CUARTA SECCIÓN DEL P.O. DE 13 DE ABRIL DE 2011, PÁGINA 4.]</small>
+
+### CAPÍTULO V. DE LOS NIVELES DE MANDO
 
 ###### Artículo 14.
 
-Cuando la urgencia o importancia de algún asunto lo requiera, el Presidente por sí, o a petición del Director General o cuando menos dos Consejeros, podrá instruir al Secretario para que convoque a una sesión extraordinaria.
+Los niveles de mando serán subordinados, cuando éstos se encuentren adscritos en razón de su categoría, jerarquía o grado, lo que significa que tienen bajo su mando y dirección, personal subordinado, organizados en Escuadra, Pelotón, Sección, Compañía, Grupo, Agrupamiento, Unidad, División y Coordinación.
 
-### CAPÍTULO TERCERO. DEL PERSONAL DE PEMEX PERFORACIÓN Y SERVICIOS
+Estos estarán divididos en:
+
+I. Altos mandos: Comisarios;
+
+II. Mandos Superiores: Inspectores;
+
+III. Mandos Operativos: Oficiales; y,
+
+IV. Subordinados: Escala Básica.
+
+### CAPÍTULO VI. DEL PERFIL DEL GRADO DEL PERSONAL DE CARRERA POR COMPETENCIA
 
 ###### Artículo 15.
 
-Las sesiones deberán convocarse con una anticipación que no podrá ser menor a siete días hábiles de la fecha de la sesión para las sesiones ordinarias y dos días hábiles para las sesiones extraordinarias.
+Los ascensos dentro de la Carrera Policial se deberán sujetar, independientemente del proceso establecido para tal fin, a los siguientes requisitos en cuanto a edad, antigüedad, escolaridad, formación inicial y continua, tal como se presenta en la tabla siguiente:
 
-### CAPÍTULO PRIMERO. DE LA ESTRUCTURA BÁSICA
+> <small>[N. DE E. VÉASE TABLA EN LA CUARTA SECCIÓN DEL P.O. DE 13 DE ABRIL DE 2011, PÁGINA 5.]</small>
+
+Las categorías y jerarquías o grados del área operativa de Prevención y Reacción definen los siguientes perfiles de manera general:
+
+I. Comisarios: Funciones de dirección y toma de decisiones, se consideran altos mandos;
+
+II. Inspectores: Funciones básicas de planeación y coordinación, se consideran mandos superiores;
+
+III. Oficiales: Funciones básicas de supervisión, enlace y vinculación, los dos primeros se consideran mandos operativos y el último mando superior; y,
+
+IV. Escala Básica o de Policías: Funciones primordiales de operación y ejecución, ejercen mando con carácter subordinado.
+
+### CAPÍTULO VII. DE LA PROFESIONALIZACIÓN
 
 ###### Artículo 16.
 
-La convocatoria, así como la documentación correspondiente, será enviada a los Consejeros e invitados vía electrónica, o a través del Portal del Consejo o por escrito y deberá indicar la fecha, hora y lugar para la celebración de la sesión.
-
-Las convocatorias a sesiones ordinarias se deberán acompañar de la siguiente información:
-
-I. El proyecto de orden del día;
-
-II. La documentación soporte de los asuntos incorporados en el orden del día.
-
-En caso de que exista información relacionada con temas del orden del día de una sesión, que se haya generado u obtenido con posterioridad a la fecha de la convocatoria, la misma se podrá hacer llegar a los Consejeros e invitados con una anticipación no menor a dos días hábiles al día de la sesión, en caso de sesiones ordinarias, y un día hábil para sesiones extraordinarias;
-
-III. Las propuestas de acuerdo para cada asunto del orden del día;
-
-IV. El informe sobre el seguimiento en la atención de los acuerdos adoptados por el propio Consejo de Administración, y
-
-V. El proyecto de acta de la sesión anterior.
-
-Las convocatorias para sesiones extraordinarias deberán acompañarse de la información señalada en las fracciones I, II y III anteriores.
+La Profesionalización, es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades del personal integrante de la Policía Estatal Preventiva, de conformidad al artículo anterior de este Reglamento.
 
 ###### Artículo 17.
 
-Para la inclusión de un tema en el orden del día de una sesión, el enlace de Pemex Perforación y Servicios que sea designado por el Director General deberá hacer la solicitud al Secretario, acompañándola con la nota y la documentación soporte en un plazo no menor a diez días hábiles antes de las sesiones ordinarias y tres días hábiles para extraordinarias.
-
-Las notas de los asuntos del orden del día y su documentación soporte, deberán cumplir con lo siguiente:
-
-I. Estar suscritas por los responsables de su contenido y elaboración, y
-
-II. En su caso, estar clasificadas de conformidad con lo dispuesto en la legislación en materia de transparencia y acceso a la información pública y demás disposiciones aplicables.
-
-No podrá incorporarse un asunto al orden del día de la sesión, si no se cumple con los requisitos anteriores.
+Los planes y programas de estudio para la Profesionalización, se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza-aprendizaje comprendidos en el programa rector de Profesionalización, de conformidad con los artículos 119 y 121 de la Ley, así como el artículo 48 de la Ley General.
 
 ###### Artículo 18.
 
-En caso de que una sesión convocada no pueda celebrarse en la fecha programada, o sea suspendida, ésta podrá celebrarse o reanudarse en cualquier momento, sin que para ello tenga que mediar nueva convocatoria, siendo suficiente con el aviso que el Secretario haga a los Consejeros, con una anticipación de al menos veinticuatro horas.
+Se entiende por programa de estudios, a la propuesta básica de aprendizaje que agrupa determinados contenidos derivados del plan de estudios a desarrollar en un periodo definido de tiempo y con propósitos concretos.
 
 ###### Artículo 19.
 
-Las sesiones se celebrarán en el domicilio legal de Pemex Perforación y Servicios, sin perjuicio de que, a juicio del Presidente, puedan celebrarse en otro domicilio, el cual deberá quedar establecido en la convocatoria correspondiente.
+Los planes y programas de estudio, deben cumplir con un doble objetivo: cumplir los principios y requerimientos que contempla la formación continua y la acreditación de los niveles académicos establecidos para cada nivel jerárquico.
 
 ###### Artículo 20.
 
-Las sesiones del Consejo de Administración se celebrarán a puerta cerrada y a las mismas asistirán los Consejeros, el Secretario, el Prosecretario, los invitados permanentes, así como los invitados y el personal de apoyo necesario para su desarrollo.
-
-El Auditor Externo será invitado cuando el Presidente así lo determine.
-
-El Director General podrá ser asistido en las sesiones del Consejo de Administración por directivos de Pemex Perforación y Servicios, cuando la naturaleza del asunto así lo requiera.
-
-También podrán asistir a las sesiones con el carácter de invitados, aquellas personas que autorice el Presidente por sí o a propuesta del Director General.
-
-No podrán asistir a las sesiones personas distintas a las señaladas en los párrafos anteriores.
+Para garantizar el proceso de profesionalización, el Instituto deberá contar con un Comité Técnico, de conformidad a lo establecido en el artículo 120 de la Ley General.
 
 ###### Artículo 21.
 
-Para la validez de las sesiones, se requerirá como mínimo la asistencia de la mitad más uno de los Consejeros. Dicho quórum se declarará al inicio de la sesión y se deberá mantener en la misma.
-
-Los Consejeros podrán participar en las sesiones del Consejo de Administración por medios remotos de comunicación audiovisual, lo cual deberá ser informado por el Secretario al Consejo de Administración al momento de verificar el quórum, y se deberá hacer constar en el acta respectiva.
+De conformidad con el artículo 121 de la Constitución Política de los Estados Unidos Mexicanos y 60 de la Ley General de Educación, se dará entera fe y crédito a los actos públicos de certificación, expedición de títulos, constancias, diplomas, grados académicos, reconocimientos y registros de otros estados, a fin de garantizar el libre ejercicio de la profesión de los miembros del servicio en todo el territorio nacional.
 
 ###### Artículo 22.
 
-En cada sesión se deberán recabar las firmas de los Consejeros e invitados que asistan de manera presencial. Asimismo, en el caso de asistencia por medios remotos de comunicación audiovisual, el Secretario deberá recabar posteriormente las firmas respectivas, haciendo constar en cada caso en el acta correspondiente, el medio a través del cual se llevó a cabo su participación en la sesión de que se trate.
+El desarrollo de los procesos de formación se realizará sobre las bases siguientes:
+
+I. El Instituto será el responsable directo del desarrollo de las actividades académicas de formación, las cuales impartirá las veces que sean necesarias conforme a su programación, la cual deberá estar alineada al Programa Rector, a las necesidades de la corporación y a la planeación correspondiente;
+
+II. Previo al inicio de las actividades académicas de formación, el Instituto deberá enviar a la instancia correspondiente sus planes y programas de estudio debidamente coordinados y homologados en los términos del presente Reglamento; y,
+
+III. El Instituto informará mensualmente a la instancia correspondiente el avance en el cumplimiento de las metas anuales previstas, proporcionando para tal efecto como mínimo los datos siguientes:
+
+a) El curso correspondiente;
+
+b) Fechas de inicio y conclusión;
+
+c) Relación de participantes que concluyeron;
+
+d) Etapa de formación;
+
+e) Nivel de escolaridad o grado; y,
+
+f) Carga horaria.
 
 ###### Artículo 23.
 
-En las sesiones ordinarias se tratarán los asuntos que hayan sido incorporados en el orden del día notificado con la convocatoria y sólo en casos urgentes o trascendentes, a petición del Presidente, de algún Consejero o del Director General, el Consejo de Administración podrá autorizar la inclusión en el orden del día de un asunto para que se someta a su consideración el mismo día de la sesión, en el apartado que corresponda, según su naturaleza.
+El personal docente encargado de las actividades académicas, a fin de garantizar la excelencia en el servicio, deberá reunir como mínimo los requisitos siguientes:
+
+I. Acreditar con constancias, certificados u otros documentos idóneos el dominio de la asignatura o tema que desee impartir;
+
+II. Contar con experiencia frente a grupo de por lo menos 3 años en temas afines a aquellos que se desee impartir;
+
+III. Encontrarse en condiciones de seguir especializándose en la asignatura que imparte o afines;
+
+IV. Acreditar el curso de formación para instructores policiales;
+
+V. Presentar y acreditar él, o los exámenes de oposición que aplique el Instituto;
+
+VI. Tener por lo menos un nivel de escolaridad de bachillerato o grado académico superior a aquel que tengan los educandos; podrá exceptuarse de este requisito en las ramas o áreas en que no exista profesional;
+
+VII. Gozar de buena salud física y mental;
+
+VIII. Ser de reconocida solvencia moral;
+
+IX. No haber sido condenado por sentencia irrevocable como responsable de un delito doloso, ni estar sujeto a proceso penal;
+
+X. No estar suspendido, ni haber sido destituido o inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento administrativo alguno, en términos de las normas aplicables; y,
+
+XI. No hacer uso ilícito de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares, ni padecer alcoholismo.
 
 ###### Artículo 24.
 
-El Consejo de Administración deliberará en forma colegiada y sus decisiones se adoptarán por mayoría de votos de los Consejeros presentes en la sesión, salvo para aquellos casos en que la Ley, las disposiciones aplicables o mediante acuerdo del Consejo de Administración se exija una mayoría calificada. En caso de empate, el Presidente tendrá voto de calidad.
+La consulta del Registro Nacional de Información sobre Personal de Seguridad Pública, será obligatoria y previa al ingreso de toda persona al Instituto. Una vez obtenidos los resultados de la consulta, la autoridad procederá de conformidad con las normas correspondientes.
 
-### CAPÍTULO SEGUNDO. DE LA SUBDIRECCIÓN DE INGENIERÍA DE POZOS Y DESARROLLO DEL NEGOCIO
+### CAPÍTULO VIII. DE LA PLANEACIÓN
 
 ###### Artículo 25.
 
-Los Consejeros deberán expresar su voto en sentido positivo o negativo, no pudiendo abstenerse, salvo en caso de existir algún conflicto de interés. En caso de que el voto de algún Consejero sea en sentido negativo, al momento de emitirlo deberá expresar las razones para ello, mismas que deberán quedar asentadas en el acta respectiva.
+La planeación determinará las definiciones y decisiones estratégicas del Modelo de Policía por desarrollar, incluye el diseño organizacional y los perfiles de puestos por jerarquía, asimismo, los esquemas de coordinación que se tienen que establecer para que el sistema opere adecuadamente, las necesidades institucionales, diagnóstico de evolución de la criminalidad, condiciones presupuestales y demandas sociales.
 
 ###### Artículo 26.
 
-En el supuesto de que algún Consejero se encuentre en una situación que genere o pueda generar conflicto de interés, tendrá la obligación de comunicarlo al Presidente y a los demás Consejeros asistentes a la sesión y deberá abandonar temporalmente la sesión correspondiente para abstenerse de conocer del asunto de que se trate y de participar en la deliberación y resolución del mismo, debiendo existir quórum para la votación de dicho asunto.
+Constituyen los elementos básicos de la Carrera Policial, la capacitación profesional, inicial y continua, la estabilidad en el servicio, el salario digno y un esquema permanente de reclutamiento, selección, contratación, inducción, evaluación y promoción, que permita el ascenso del personal en función de su escolaridad y formación policial, antigüedad, desempeño en el servicio, disciplina y ética, así como un retiro decoroso.
 
 ###### Artículo 27.
 
-Cada acuerdo adoptado por el Consejo de Administración se hará constar en un documento independiente el cual será firmado por el Secretario, en los términos aprobados durante la sesión. En cada acuerdo se deberá indicar el número y fecha de la sesión, y deberán estar numerados en forma consecutiva bajo un esquema anual.
-
-Los acuerdos deberán difundirse en la página de Internet de Pemex y en el Portal del Consejo, en un plazo que no podrá exceder de quince días hábiles, contado a partir de la fecha de la sesión correspondiente.
+El Estado, a través de la Secretaría, administrará la Carrera Policial y el Régimen Disciplinario de sus integrantes, a través de la Comisión de Honor y Justicia, a que se refiere la ley, que se integrará y funcionará en la forma y con las atribuciones señaladas en la misma.
 
 ###### Artículo 28.
 
-De cada sesión se deberá levantar un acta en la que se hará constar de manera sucinta los asuntos tratados y asentarse los acuerdos adoptados, así como, en su caso, los votos razonados de los Consejeros.
-
-Cada acta será sometida a consideración del Consejo de Administración en la sesión ordinaria siguiente y, una vez aprobada, será firmada por el Presidente, el Secretario y el Prosecretario que hayan actuado con tal carácter en la sesión.
-
-Una vez firmadas, las actas deberán incorporarse a la página de Internet de Pemex y en el Portal del Consejo.
+El salario, percepciones y prestaciones del personal integrante de la Policía Estatal Preventiva, serán homologados al salario y demás percepciones y prestaciones que perciba el personal de las diversas instituciones policiales, con el alcance que permitan las posibilidades presupuestarias de cada institución.
 
 ###### Artículo 29.
 
-Para efectos de la difusión de acuerdos y actas del Consejo de Administración, se observará lo dispuesto en la legislación en materia de transparencia y acceso a la información pública y demás disposiciones aplicables.
+El personal de la Policía Estatal Preventiva, gozará del régimen de seguridad social que establece la ley.
 
-### CAPÍTULO TERCERO. DE LA SUBDIRECCIÓN DE OPERACIONES EN INTERVENCIONES A POZOS
+### CAPÍTULO IX. DEL RECLUTAMIENTO
 
 ###### Artículo 30.
 
-La clasificación de los acuerdos y actas se llevará a cabo de conformidad con la información remitida por las áreas responsables de la elaboración de los documentos presentados al Consejo de Administración.
-
-En caso de clasificación de acuerdos o actas del Consejo de Administración, corresponderá al Secretario la elaboración de la versión pública respectiva, de conformidad con la normativa aplicable.
+El ingreso a la Policía Estatal Preventiva, estará bajo la supervisión del Instituto, quien se encargará de la emisión de la convocatoria para el aspirante, una vez que se le notifique por la autoridad competente.
 
 ###### Artículo 31.
 
-Las solicitudes de información a que se refiere el artículo 13 del Acuerdo de Creación, podrán realizarse por escrito, o bien, a través de cualquier medio de comunicación electrónica, incluyendo el Portal del Consejo.
+Cuando existan plazas vacantes o de nueva creación, el Instituto deberá emitir la convocatoria, que contendrá como mínimo lo siguiente:
+
+I. Las ramas a las cuales se reclutará y el perfil que deberán cubrir los aspirantes;
+
+II. Lugar, fecha, hora y responsable de la recepción de los documentos requeridos;
+
+III. Periodo de la aplicación de exámenes de selección, para quienes cumplan con los requisitos de la convocatoria respectiva;
+
+IV. Las fechas en que se darán a conocer los resultados de los exámenes aplicados;
+
+V. Los requisitos, condiciones y duración de la formación inicial y demás características de la misma;
+
+VI. La documentación que deberán presentar los aspirantes; y,
+
+VII. Precisará lugar, fecha y hora para la aplicación de los exámenes y estudios de selección de aspirantes para quienes cumplan con los requisitos de la convocatoria.
 
 ###### Artículo 32.
 
-La solicitud a que se refiere el artículo anterior deberá contener:
+Los tipos de convocatoria emitidas podrán ser en las modalidades siguientes:
 
-I. Datos de identificación de la información solicitada, incluyendo fuente, fecha y cualquier dato que facilite su localización o integración;
+I. Interna: Aquella dirigida al personal integrante de la Policía Estatal Preventiva; y,
 
-II. Área de Pemex Perforación y Servicios o de Pemex que a su juicio pueda contar con la información requerida, y
-
-III. Tema general con el cual se encuentre relacionada la información.
-
-La información o documentación solicitada se deberá poner a disposición del Consejero que la requirió en un plazo no mayor a diez días hábiles contados a partir de la recepción de la solicitud.
+II. Externa: Aquella dirigida a toda persona interesada en ingresar a la Policía Estatal Preventiva.
 
 ###### Artículo 33.
 
-Los Consejeros, Secretario, Prosecretario y los invitados del Consejo de Administración, estarán obligados a guardar la confidencialidad sobre la información expuesta en la sesión, así como a no revelarla; debiendo custodiar y cuidar la documentación e información que, por razón de su participación en el Consejo de Administración, tengan conocimiento o que esté bajo su responsabilidad o resguardo, así como impedir y evitar su uso, sustracción, destrucción, ocultamiento, utilización, reproducción o difusión no autorizada por dicho órgano de gobierno.
+El reclutamiento, es un procedimiento que permite atraer el mayor número de aspirantes idóneos que cubran el perfil y demás requisitos para la ocupación de la plaza vacante o una de nueva creación.
 
 ###### Artículo 34.
 
-Las situaciones no previstas en el presente capítulo que se refieran a la operación del Consejo de Administración, podrán ser resueltas por el propio Consejo de Administración, escuchando la opinión de la Dirección Jurídica de Pemex.
-
-## TÍTULO TERCERO. DE LOS DIRECTIVOS Y PERSONAL DE PEMEX PERFORACIÓN Y SERVICIOS
+El reclutamiento, dependerá de las necesidades de la Secretaría para cada ejercicio fiscal, de acuerdo a la suficiencia presupuestaria.
 
 ###### Artículo 35.
 
-En adición a lo establecido en el artículo 15 del Acuerdo de Creación, el Director General tendrá las funciones siguientes:
+Quienes aspiren a ingresar a la formación inicial deberán presentar, cubrir y comprobar los requisitos siguientes:
 
-I. Representar a Pemex Perforación y Servicios, para lo cual gozará de las más amplias facultades para pleitos y cobranzas, actos de administración y actos de dominio, en términos de los tres primeros párrafos del artículo 2554 del Código Civil Federal, y sus correlativos en los Códigos Civiles de las entidades federativas, incluso las que requieran autorización, poder o cláusula especial en términos del artículo 2587 del Código Civil citado, por lo que podrá en forma enunciativa mas no limitativa desistirse, transigir, comprometer en árbitros, absolver y articular posiciones, hacer cesión de bienes, recusar, recibir pagos, realizar los demás actos que expresamente determine la ley, incluyendo la facultad para formular querellas en casos de delitos que sólo se pueden perseguir a petición de parte afectada; para otorgar el perdón; para ejercitar y desistirse de acciones judiciales y administrativas, inclusive en el juicio de amparo. Asimismo, contará con la representación legal y patronal en términos de los artículos 11, 692, 786 y 876, de la Ley Federal del Trabajo. Igualmente estará facultado para emitir, avalar, suscribir, endosar, librar y negociar títulos de crédito en términos de la Ley General de Títulos y Operaciones de Crédito; asimismo tendrá la naturaleza de encargado de la defensa jurídica de Pemex Perforación y Servicios para efectos del artículo 5 de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables; así como para otorgar y revocar toda clase de poderes generales o especiales;
+I. Acta de nacimiento en original;
 
-II. Dirigir la participación de Pemex Perforación y Servicios en la Planeación Estratégica Institucional;
+II. Carta de antecedentes no penales, no mayor a dos meses de publicada la convocatoria;
 
-III. Coordinar la participación en la elaboración del programa de ejecución de la estrategia de Pemex Perforación y Servicios y supervisar la generación de los mecanismos para el seguimiento de su implementación;
+III. Certificado de estudios, a fin de acreditar como mínimo, en los casos siguientes:
 
-IV. Conducir la integración, optimización, jerarquización y gestión del registro del portafolio y la cartera de inversiones de Pemex Perforación y Servicios;
+a) Aspirante al área de reacción: Nivel secundaria; y,
 
-V. Dirigir el cumplimiento de las metas operativas, de negocio y de generación de valor económico establecidas en el Plan de Negocios y los programas operativos y financieros correspondientes;
+b) Aspirantes al área de investigación y prevención: Nivel de enseñanza media superior o equivalente.
 
-VI. Definir el modelo de negocio, consolidar las estrategias de Pemex Perforación y Servicios, dar seguimiento y evaluar su ejecución;
+IV. Tener 18 años de edad como mínimo y un máximo de 35 años;
 
-VII. Dirigir la planeación, maduración, evaluación y ejecución de proyectos y otras iniciativas de negocio conforme a la estrategia institucional de Pemex;
+V. Ser ciudadano mexicano, con ejercicio pleno de sus derechos políticos y civiles;
 
-VIII. Supervisar la ejecución de los proyectos de Pemex Perforación y Servicios, así como coordinar la participación de sus áreas adscritas en la definición, seguimiento y evaluación de las inversiones;
+VI. No haber sido sentenciado, ni estar sujeto a proceso penal;
 
-IX. Designar a los servidores públicos que deberán interactuar en la alineación y coordinación con las direcciones competentes de Pemex en los procesos de dirección, cadena de valor y soporte, conforme a los mecanismos que resulten necesarios respecto de la conducción central y dirección estratégica de Pemex;
+VII. Copia de la baja o las bajas en caso de haber pertenecido a algún cuerpo de seguridad pública, ejército mexicano o empresa de seguridad privada, teniendo que ser de carácter voluntario, ya que cualquier otro motivo de baja será impedimento para su ingreso;
 
-X. Definir con el director corporativo de Pemex que corresponda, los mecanismos de coordinación, control, entrega de información y resultados que se definan en materia de conducción central y dirección estratégica de Pemex, así como instrumentar las acciones de mejora que se determinen;
+VIII. Cumplimiento del servicio militar nacional, en el caso de los hombres;
 
-XI. Dirigir al interior de Pemex Perforación y Servicios, la ejecución de los acuerdos adoptados por las Estructuras de Gobierno para la Mejora de Procesos;
+IX. Comprobante de domicilio vigente;
 
-XII. Liderar los procesos de negocio que le sean asignados, e informar su desempeño al Comité Ejecutivo de Pemex;
+X. Carta de exposición de motivos para el ingreso a la Institución;
 
-XIII. Dirigir en sus áreas la alineación al MOBAP, en coordinación con lo que establezcan las áreas competentes;
+XI. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme para el ejercicio de empleos, cargos o comisiones en el servicio público, ni estar sujeto a procedimiento administrativo alguno;
 
-XIV. Supervisar la participación, promoción e implementación de acciones de prevención, mejores prácticas y mejora continua a los procesos de negocio en Pemex Perforación y Servicios;
+XII. Someterse a las evaluaciones de control y confianza, para comprobar el no uso de psicotrópicos, enervantes o estupefacientes; comprobar buena salud física y mental y situación socioeconómica;
 
-XV. Proponer a los servidores públicos de Pemex Perforación y Servicios que fungirán como enlaces ante instituciones del sector público y privado, cuya designación corresponde a los directores corporativos de Pemex;
+XIII. Tener estatura mínima sin calzado de 1.65 metros tratándose de hombres; y de 1.60 metros tratándose de mujeres;
 
-XVI. Establecer mecanismos de coordinación o colaboración para las diversas áreas de Pemex Perforación y Servicios y, en su caso, entre esta última y las áreas de Pemex;
+XIV. Presentar una imagen adecuada al servicio policial, no presentar tatuajes alusivos y perforaciones; y,
 
-XVII. Participar en los Grupos Directivos de las Alianzas y coordinar la implementación de los acuerdos;
-
-XVIII. Suscribir en coordinación con la dirección corporativa competente de Pemex, las alianzas y asociaciones con personas físicas o morales, de conformidad con lo aprobado por el Consejo de Administración de Pemex;
-
-XIX. Presentar al Consejo de Administración en cada sesión ordinaria, un informe ejecutivo sobre el estado que guarda la operación y administración de Pemex Perforación y Servicios;
-
-XX. Presentar al Consejo de Administración los informes de los asuntos relevantes que considere necesarios;
-
-XXI. Evaluar con Pemex la constitución de reservas contables y requerimientos de inversión, alianzas, asociaciones, nuevos negocios y mercados, que Pemex Perforación y Servicios determine viables para el cumplimiento de su objeto;
-
-XXII. Supervisar la atención de los requerimientos de programación y de presupuesto de Pemex Perforación y Servicios y de las áreas adscritas a ésta, conforme a las disposiciones que para este efecto emita Pemex;
-
-XXIII. Coordinar con las áreas competentes de Pemex, las gestiones de los recursos humanos, materiales, financieros, Tecnología de Información, Procura y Abastecimiento, infraestructura y demás apoyo administrativo;
-
-XXIV. Participar en los procedimientos de selección y evaluación del desempeño de los subdirectores y, en su caso, gerentes de Pemex Perforación y Servicios, con base en lo aprobado por el Consejo de Administración de Pemex y en coordinación con la Dirección Corporativa de Recursos Humanos;
-
-XXV. Nombrar a los Gerentes;
-
-XXVI. Aprobar la estructura y la plantilla de personal para la operación de Pemex Perforación y Servicios que no corresponda a la estructura orgánica básica prevista en este Estatuto, en coordinación con la Dirección Corporativa de Administración y Servicios;
-
-XXVII. Definir, con los directores corporativos de Pemex, los objetivos, indicadores y metas que permitan evaluar el desempeño de los servidores públicos de Pemex Perforación y Servicios, en términos de la normativa que emita el Consejo de Administración de Pemex;
-
-XXVIII. Validar las propuestas de requerimientos para la elaboración del programa de capacitación, en coordinación con la Dirección Corporativa de Recursos Humanos, así como dar seguimiento a su implementación;
-
-XXIX. Dirigir el proceso de formación técnica del personal y de ingeniería de la perforación, terminación, reparación y servicios a pozos;
-
-XXX. Establecer la estrategia para la sustitución, mantenimiento y modernización de equipos de perforación, reparación y de servicios a pozos e infraestructura;
-
-XXXI. Establecer las estrategias, políticas y lineamientos para la ejecución de la perforación, terminación, reparación y servicios a pozos;
-
-XXXII. Establecer las estrategias para la formulación de las bases técnicas de contratación de equipos, materiales y servicios para perforación, terminación y reparación de pozos, así como para el mantenimiento de equipos e instalaciones;
-
-XXXIII. Dirigir y vigilar la aplicación de los planes y programas de confiabilidad, así como el plan de respuesta a emergencias asociado a la perforación, terminación, reparación y servicios a pozos e instalaciones;
-
-XXXIV. Dirigir los procesos de planeación, programación, presupuesto, operación y comercialización de Pemex Perforación y Servicios;
-
-XXXV. Evaluar el desempeño financiero, técnico, operativo, de seguridad y confiabilidad de Pemex Perforación y Servicios, estableciendo estándares y medidas de control;
-
-XXXVI. Suscribir los convenios conducentes para la prestación de servicios comunes por parte de Pemex a Pemex Perforación y Servicios, en términos de lo establecido por el Consejo de Administración de Pemex;
-
-XXXVII. Constituir, disolver y determinar las funciones de grupos de trabajo que se requieran para el cumplimiento del objeto de Pemex Perforación y Servicios, así como dictar las bases para su funcionamiento y designar a los servidores públicos que participarán en dichos grupos de trabajo;
-
-XXXVIII. Participar en órganos colegiados o grupos de trabajo;
-
-XXXIX. Definir mediante acuerdo y con el apoyo de las redes de expertos, las Tecnologías Especializadas para la Cadena de Valor de Pemex Perforación y Servicios;
-
-XL. Participar en la negociación con las instancias competentes en la agenda regulatoria de Pemex Perforación y Servicios en materia de actividades reguladas;
-
-XLI. Establecer en coordinación con el área competente de Pemex, los rangos en los montos de actuación para la suscripción de contratos y convenios que los servidores públicos de Pemex Perforación y Servicios, según su nivel jerárquico, puedan celebrar;
-
-XLII. Planear, programar, dirigir, supervisar y evaluar el funcionamiento y la resolución de los asuntos de Pemex Perforación y Servicios;
-
-XLIII. Suscribir los instrumentos jurídicos correspondientes para la prestación de servicios por parte de Pemex Perforación y Servicios a Pemex, a las demás Empresas Productivas Subsidiarias y, en su caso, a Empresas Filiales;
-
-XLIV. Coordinar la propuesta de los objetivos y de la definición y evaluación de las estrategias, metas e indicadores de producción, confiabilidad y mejora;
-
-XLV. Dirigir la participación, promoción e implementación de acciones de prevención, mejores prácticas y mejora continua a los procesos de negocio en Pemex Perforación y Servicios;
-
-XLVI. Instruir la implantación del Sistema de Confiabilidad Operativa para asegurar la eficiencia de la operación y mantenimiento de instalaciones;
-
-XLVII. Dirigir la implantación y vigilar el cumplimiento y desempeño del sistema de seguridad industrial, salud en el trabajo y protección ambiental, y estándares de desarrollo sustentable establecidos por Pemex y por las demás disposiciones aplicables;
-
-XLVIII. Proponer al Consejo de Administración la normativa interna técnica que de acuerdo con el objeto de Pemex Perforación y Servicios le corresponda y, en su caso, emitir, interpretar, modificar o dejar sin efectos la que sea de su ámbito de competencia;
-
-XLIX. Definir en conjunto con las direcciones corporativas de Pemex los mecanismos de transparencia y rendición de cuentas;
-
-L. Atender los requerimientos de información sobre resultados de la operación para su evaluación;
-
-LI. Participar con el área competente de Pemex en la instrumentación de las acciones para el otorgamiento de apoyos en materia de responsabilidad y desarrollo social que otorga Pemex Perforación y Servicios, relacionados con donaciones de bienes muebles e inmuebles de su propiedad, obras de beneficio mutuo y cualquier otro mecanismo análogo, en términos de la Ley y de la normativa que emita para tal efecto el Consejo de Administración de Pemex;
-
-LII. Resolver los asuntos que las disposiciones aplicables atribuyan a Pemex Perforación y Servicios, siempre que no formen parte de las funciones del Consejo de Administración;
-
-LIII. Resolver los conflictos que se susciten entre las áreas de Pemex Perforación y Servicios;
-
-LIV. Presentar al Director General de Pemex para su resolución, los conflictos que se susciten entre Pemex Perforación y Servicios, con otras Empresas Productivas Subsidiarias o con Empresas Filiales;
-
-LV. Llevar con apoyo de la Dirección Jurídica de Pemex un registro sobre el otorgamiento y revocación de poderes generales y especiales que sean otorgados a personas ajenas a Pemex Perforación y Servicios;
-
-LVI. Cotejar y expedir constancias de los documentos que obren en los archivos de su área;
-
-LVII. Delegar funciones y asignar responsabilidades a los servidores públicos de las áreas de su adscripción, salvo aquéllas que sean indelegables, y
-
-LVIII. Las demás que sean necesarias para el cumplimiento de sus funciones y las señaladas por el Consejo de Administración, otros ordenamientos jurídicos y demás disposiciones aplicables.
-
-Son indelegables las atribuciones del Director General señaladas en las fracciones II, IV, VI, IX, XI, XVI, XVII, XVIII, XIX, XX, XXIV, XXV, XXVI, XXXVII, XL, XLVIII, LIII, LIV y LVII.
+XV. Disponibilidad para cambiar de residencia.
 
 ###### Artículo 36.
 
-Para el funcionamiento coordinado de las Empresas Productivas Subsidiarias de Pemex previsto en el Acuerdo de Creación, el Director General deberá atender las instrucciones que reciba del Director General de Pemex directamente o a través de las direcciones corporativas, conforme a sus respectivas funciones, para la ejecución y supervisión de las estrategias, políticas, lineamientos y acuerdos aprobados por el Consejo de Administración de Pemex.
+Para los efectos de reclutar a quienes aspiren a ingresar a la formación inicial, deberán cumplir con los requisitos del perfil de ingreso, en las condiciones y los términos de la convocatoria que al efecto emita el Instituto, además de los señalados en la ley.
 
 ###### Artículo 37.
 
-El Director General se auxiliará en sus áreas adscritas y, en el ámbito de sus respectivas funciones, en las subdirecciones, gerencias y demás áreas de Pemex Perforación y Servicios, así como en el personal adscrito a éstas.
+Los aspirantes a ingresar a la formación inicial se deberán presentar en el lugar, fecha y hora señalados en la convocatoria, y presentar la documentación siguiente en original y copia:
+
+I. Formato para solicitud de empleo con fotografía, requisitado de puño y letra del aspirante;
+
+II. Acta de nacimiento;
+
+III. Clave única de registro de población;
+
+IV. Cartilla liberada del servicio militar nacional, en el caso de los hombres;
+
+V. Constancia reciente de no antecedentes penales, expedida por la autoridad competente;
+
+VI. Credencial de elector actualizada;
+
+VII. Certificado de estudios correspondiente a la enseñanza secundaria, media superior y superior según sea el caso;
+
+VIII. Copia de la, o las bajas, en caso de haber pertenecido a alguna corporación de seguridad pública, fuerza armada o empresas de seguridad privada, teniendo que ser de carácter voluntario;
+
+IX. Ocho fotografías de perfil tamaño credencial, ocho fotografías de frente tamaño credencial y ocho fotografías tamaño infantil de frente; todas ellas con las características siguientes:
+
+a) Hombres: sin lentes, barba, bigote y patillas, con orejas descubiertas; y,
+
+b) Mujeres: sin lentes, sin maquillaje y con orejas descubiertas.
+
+X. Comprobante de domicilio vigente;
+
+XI. Carta de recomendación de su último empleo;
+
+XII. Dos cartas de recomendación selladas y membretadas; y,
+
+XIII. Carta de modo honesto de vida, expedida por la autoridad competente.
+
+### CAPÍTULO X. DE LA SELECCIÓN
 
 ###### Artículo 38.
 
-El informe anual que rinda el Director General al Consejo de Administración en términos de la fracción XXI del artículo 15 del Acuerdo de Creación, deberá formularse conforme a la alineación que exista con las distintas áreas de Pemex, incorporando un apartado que permita conocer la contabilidad separada de los servicios comunes prestados por Pemex, así como del sistema de pensiones.
+La selección es el proceso que consiste en elegir, de entre quienes aspiran a ingresar, a aquellos que hayan aprobado el reclutamiento, que cubran el perfil y la formación requeridos para ingresar a la Policía Estatal Preventiva.
 
 ###### Artículo 39.
 
-El Director General solicitará a la Dirección Jurídica de Pemex el otorgamiento y revocación de poderes generales o especiales.
+El Centro, será el encargado de dirigir, coordinar, operar y calificar los procesos de evaluación del personal integrante de las instituciones policiales del Estado, se integrará y funcionará en la forma y con las atribuciones señaladas en la ley.
+
+### CAPÍTULO XI. DE LA FORMACIÓN INICIAL
 
 ###### Artículo 40.
 
-Cada uno de los subdirectores tendrá, en el ámbito de competencia de su respectiva subdirección, las funciones siguientes:
-
-I. Representar a Pemex Perforación y Servicios, en el ámbito de sus funciones con facultades para actos de administración, en términos del artículo 2554, segundo párrafo, del Código Civil Federal, y sus correlativos en los códigos civiles de las entidades federativas, así como en aquellos otros asuntos que le asigne o delegue expresamente el Director General;
-
-II. Coordinar la implementación de los planes y programas de las estrategias y directrices establecidas por Pemex en materia de Planeación Estratégica Institucional y operativa, seguridad industrial, salud en el trabajo y protección ambiental, disciplina y, confiabilidad operacional, gestión de mantenimiento, integridad de infraestructura y mejora del desempeño operativo;
-
-III. Coadyuvar en la elaboración de metas, planes y programas para el diseño y definición de las estrategias de Pemex Perforación y Servicios, así como para el seguimiento de su implementación;
-
-IV. Gestionar la aprobación y ejecución de los proyectos a su cargo, así como coordinar la participación de sus áreas adscritas en la definición, seguimiento y evaluación de inversiones;
-
-V. Supervisar el cumplimiento de las metas operativas, de negocio y de generación de valor económico establecidas en el Plan de Negocios y los programas operativos y financieros correspondientes;
-
-VI. Supervisar la elaboración de las propuestas del modelo de negocio y estrategias de Pemex Perforación y Servicios, así como la ejecución de las aprobadas;
-
-VII. Proponer al Director General la información que deba presentarse para la elaboración del Plan de Negocios y de la propuesta del programa operativo y financiero anual de trabajo de Pemex;
-
-VIII. Coordinar la planeación, maduración, evaluación y ejecución de proyectos y otras iniciativas de negocio conforme a la estrategia institucional de Pemex;
-
-IX. Apoyar en la atención y cumplimiento de la ejecución de los acuerdos de los consejos de administración de Pemex y de Pemex Perforación y Servicios y demás decisiones conforme a las disposiciones aplicables;
-
-X. Supervisar la implementación de los mecanismos de coordinación, control, entrega de información y resultados que en materia de conducción central y dirección estratégica, definan las áreas competentes de Pemex, así como instrumentar las acciones de mejora que se determinen;
-
-XI. Participar en la implementación del Sistema de Control Interno, promover el fortalecimiento de la cultura de control, así como contribuir a la efectividad de los controles internos;
-
-XII. Promover la ejecución de los acuerdos adoptados por las Estructuras de Gobierno para la Mejora de Procesos, así como participar en proyectos, toma de decisiones y ejecución de acciones de forma transversal en Pemex y Entes Participantes, en esta materia;
-
-XIII. Coordinar a nivel institucional las acciones requeridas para la mejora de los procesos que le sean asignadas por los líderes de los procesos;
-
-XIV. Coordinar en sus áreas la alineación al MOBAP, promover y evaluar que sus funciones contribuyan a la mejora de los procesos de negocio, y adoptar objetivos en esta materia en los mecanismos de evaluación del desempeño;
-
-XV. Coordinar la participación, promoción e implementación de acciones de prevención, mejores prácticas y mejora continua a los procesos de negocio en Pemex Perforación y Servicios;
-
-XVI. Someter a la consideración del Director General, a los enlaces de Pemex Perforación y Servicios, ante cualquier órgano colegiado o institución del sector público y privado;
-
-XVII. Supervisar el establecimiento de mecanismos de coordinación o colaboración para las diversas áreas de Pemex Perforación y Servicios y, en su caso, entre este último y las áreas de Pemex;
-
-XVIII. Ejercer los derechos corporativos en las sociedades mercantiles nacionales o extranjeras consideradas filiales y en aquellas sociedades en las que Pemex Perforación y Servicios tenga alguna participación accionaria;
-
-XIX. Integrar la información necesaria para la elaboración del anteproyecto de presupuesto de Pemex Perforación y Servicios;
-
-XX. Supervisar la elaboración y suscribir los documentos que contengan la información que se someterá a la consideración del Consejo de Administración, así como atender los requerimientos de información de dicho órgano de gobierno, por conducto de su Director General;
-
-XXI. Coordinar la atención de los requerimientos de programación y de presupuesto de la subdirección y de las áreas adscritas a ésta, conforme a las disposiciones que para este efecto emita Pemex;
-
-XXII. Coordinar las acciones de evaluación, identificación y consolidación de las necesidades en materia de infraestructura, equipos, servicios, obras, nuevas inversiones y, en general, de recursos humanos, materiales, financieros, de Tecnología de Información y Procura y Abastecimiento, y demás apoyo para el cumplimiento de sus funciones;
-
-XXIII. Revisar las propuestas de directrices y prioridades para el cumplimiento del objeto de Pemex Perforación y Servicios, alineando las actividades al Plan de Negocios;
-
-XXIV. Coordinar el apoyo para la administración del patrimonio de Pemex Perforación y Servicios, así como en la disposición de los bienes que realice el Director General, conforme a la normativa que emita el Consejo de Administración de Pemex;
-
-XXV. Participar en los procedimientos de selección y evaluación del desempeño de los gerentes de Pemex Perforación y Servicios, con base en lo aprobado por el Consejo de Administración de Pemex y en coordinación con la Dirección Corporativa de Recursos Humanos;
-
-XXVI. Formular las propuestas de requerimientos para la elaboración del programa de capacitación en coordinación con la Dirección Corporativa de Recursos Humanos, así como dar seguimiento a su implementación;
-
-XXVII. Participar en órganos colegiados o grupos de trabajo;
-
-XXVIII. Participar en la integración de la estrategia tecnológica institucional y promover su implantación;
-
-XXIX. Revisar las propuestas de disposiciones y directrices generales en aspectos técnicos que se requieran para las contrataciones de servicios relacionados con el objeto de Pemex Perforación y Servicios;
-
-XXX. Suscribir convenios y contratos y, en su caso, determinar la procedencia de la rescisión, suspensión o terminación de los mismos;
-
-XXXI. Emitir y suscribir evaluaciones técnicas;
-
-XXXII. Dar seguimiento a la sustanciación y resolución de los reclamos, recursos de reconsideración y conciliaciones que deriven de los procedimientos de contratación y de la ejecución de los contratos;
-
-XXXIII. Supervisar y evaluar el funcionamiento y la resolución de los asuntos de su competencia, así como de sus áreas;
-
-XXXIV. Coordinar la elaboración de propuestas de los objetivos, estrategias, metas e indicadores de producción, confiabilidad y mejora;
-
-XXXV. Supervisar la aplicación de las condiciones de seguridad del personal, de los bienes e instalaciones de Pemex Perforación y Servicios, conforme a los estándares internacionales y disposiciones aplicables, así como a las políticas que determine Pemex;
-
-XXXVI. Coadyuvar en el diseño y la implementación de los planes de respuesta a emergencias, programas de prevención de accidentes en derrames de Hidrocarburos, emergencias ambientales, programas de remediación de suelos y aguas y, los demás que en materia de sustentabilidad, seguridad industrial, seguridad operativa y protección al medio ambiente le sean aplicables;
-
-XXXVII. Supervisar la implantación del Sistema de Confiabilidad Operativa para asegurar la eficiencia de la operación y mantenimiento de instalaciones;
-
-XXXVIII. Coordinar la implantación, vigilancia y evaluación del desempeño del sistema de seguridad industrial, salud en el trabajo y protección ambiental, y estándares de desarrollo sustentable establecidos por Pemex y otras disposiciones aplicables;
-
-XXXIX. Emitir, modificar o dejar sin efectos la normativa interna técnica de aplicación en la subdirección a su cargo, cuando ello no implique la intervención de otras instancias;
-
-XL. Proponer al Director General la normativa interna técnica de aplicación obligatoria en Pemex Perforación y Servicios;
-
-XLI. Interpretar, previo acuerdo con el Director General, la normativa interna técnica, en el ámbito de sus funciones;
-
-XLII. Supervisar la atención de los requerimientos de información sobre los resultados de la operación para su evaluación;
-
-XLIII. Participar en la organización, clasificación y conservación de la información, en cumplimiento a los ordenamientos en la materia;
-
-XLIV. Resolver los asuntos que las disposiciones aplicables atribuyan a Pemex Perforación y Servicios, siempre y cuando no sean facultades indelegables del Consejo de Administración o del Director General;
-
-XLV. Solicitar a la Dirección Jurídica de Pemex el otorgamiento y revocación de poderes;
-
-XLVI. Cotejar y expedir constancias de los documentos que obren en los archivos de su área;
-
-XLVII. Delegar funciones y asignar responsabilidades a los servidores públicos de las áreas de su adscripción, salvo aquéllas que sean indelegables, y
-
-XLVIII. Las demás señaladas en otros artículos del presente Estatuto, por el Consejo de Administración, por el Director General, así como en otros ordenamientos jurídicos y demás disposiciones aplicables.
-
-Son indelegables las funciones señaladas en las fracciones II, III, V, VI, VII, VIII, XII, XVII, XVIII, XX, XXV, XXXIX, XL, XLI y XLVII del presente artículo.
+La formación inicial, comprenderá el proceso de preparación teórico-práctico basado en conocimientos sociales y técnicos para capacitar al personal de nuevo ingreso a la Policía Estatal Preventiva, a fin de que desarrollen y adquieran los conocimientos, habilidades y actitudes necesarias para cumplir con las tareas a desempeñar de acuerdo a las funciones y responsabilidades del área operativa a la que aspira a incorporarse.
 
 ###### Artículo 41.
 
-Para la realización de sus actividades, los subdirectores se auxiliarán de las gerencias y demás áreas adscritas a su subdirección.
-
-#### SECCIÓN SEGUNDA. DE LOS GERENTES
+La formación inicial está a cargo del Instituto, quienes aspiren a ingresar se sujetarán a los lineamientos que marque el Programa Rector de Profesionalización y las disposiciones y reglamentaciones internas de la Secretaría y del propio Instituto.
 
 ###### Artículo 42.
 
-Cada uno de los gerentes tendrá, en el ámbito de competencia de su respectiva gerencia, las funciones siguientes:
-
-I. Representar a Pemex Perforación y Servicios, en el ámbito de sus funciones, con facultades para actos de administración, en términos del artículo 2554, segundo párrafo, del Código Civil Federal, y sus correlativos en los códigos civiles de las entidades federativas, así como en aquellos otros asuntos que le asigne o delegue de manera expresa su superior jerárquico;
-
-II. Implementar y aplicar políticas, estrategias, procesos, iniciativas, proyectos, acciones, metodologías, mecanismos y sistemas en materia de Planeación Estratégica Institucional, portafolio y cartera de inversiones, programación operativa, evaluación del desempeño, desarrollo de proyectos de inversión, regulación, precios, tarifas, contraprestaciones, seguridad industrial, salud en el trabajo, protección ambiental, desarrollo sustentable, eficiencia energética, confiabilidad operacional, mantenimiento, medición y balances de Pemex Perforación y Servicios;
-
-III. Elaborar y proponer al subdirector metas, planes y programas para el diseño y definición de las estrategias de Pemex Perforación y Servicios, así como llevar a cabo su implementación;
-
-IV. Participar en la elaboración, definición, seguimiento y evaluación de las iniciativas, programas y proyectos de inversión a su cargo, así como coordinar su ejecución;
-
-V. Verificar la calidad técnica y la aplicación de normas y metodologías en el diseño y, en su caso, ejecución de proyectos;
-
-VI. Cumplir las metas operativas, de negocio y de generación de valor económico establecidas en el Plan de Negocios y los programas operativos y financieros correspondientes;
-
-VII. Definir los indicadores y parámetros críticos de desempeño de las áreas a su cargo y tomar las medidas necesarias para prevenir desviaciones en el cumplimiento de metas;
-
-VIII. Participar en la elaboración de las propuestas del modelo de negocio y estrategias de Pemex Perforación y Servicios, así como ejecutar las aprobadas;
-
-IX. Elaborar y proponer al subdirector la información que deba presentarse para la formulación del Plan de Negocios y la propuesta de programa operativo y financiero anual de trabajo de Pemex;
-
-X. Ejecutar las acciones necesarias para llevar a cabo la planeación, maduración, evaluación y ejecución de proyectos y otras iniciativas de negocio conforme a la estrategia institucional de Pemex;
-
-XI. Apoyar y coordinar la atención y cumplimiento de la ejecución de los acuerdos de los consejos de administración de Pemex y de Pemex Perforación y Servicios y demás decisiones conforme a las disposiciones aplicables;
-
-XII. Implementar los mecanismos de coordinación, control, entrega de información y resultados que en materia de conducción central y dirección estratégica, definan las áreas competentes de Pemex, así como instrumentar las acciones de mejora que se determinen;
-
-XIII. Participar en la implementación del Sistema de Control Interno, promover el fortalecimiento de la cultura de control, así como contribuir a la efectividad de los controles internos institucionales;
-
-XIV. Promover e implementar la ejecución de los acuerdos de las Estructuras de Gobierno para la Mejora de Procesos, así como participar en proyectos, toma de decisiones y ejecución de acciones de forma transversal en Pemex y Entes Participantes, en esta materia;
-
-XV. Supervisar en sus áreas la alineación al MOBAP, y que sus funciones contribuyan a la mejora de procesos de negocio, así como adoptar objetivos en esta materia en los mecanismos de evaluación del desempeño;
-
-XVI. Fomentar que el ejercicio de sus funciones contribuya a la mejora institucional de los procesos de negocio;
-
-XVII. Proponer al subdirector a los enlaces de Pemex Perforación y Servicios ante órganos colegiados e instituciones del sector público y privado;
-
-XVIII. Instrumentar mecanismos de coordinación o colaboración para las diversas áreas de Pemex Perforación y Servicios y, en su caso, entre este último y las áreas de Pemex;
-
-XIX. Proporcionar la información necesaria para la elaboración del anteproyecto de presupuesto de Pemex Perforación y Servicios;
-
-XX. Elaborar los documentos que contengan la información que se someterá a la consideración del Consejo de Administración;
-
-XXI. Elaborar y someter a la consideración del subdirector los requerimientos de programación y de presupuesto de su gerencia y de las áreas adscritas a ésta, conforme a las disposiciones que para este efecto emita Pemex;
-
-XXII. Gestionar las necesidades en materia de infraestructura, equipos, servicios, obras, nuevas inversiones y, en general, de los recursos humanos, materiales, financieros, de Tecnología de Información, Procura y Abastecimiento, y demás apoyo para el cumplimiento de sus funciones;
-
-XXIII. Elaborar las propuestas de directrices y prioridades para el cumplimiento del objeto de Pemex Perforación y Servicios, alineando las actividades al Plan de Negocios;
-
-XXIV. Apoyar en la administración del patrimonio de Pemex Perforación y Servicios, así como en la disposición de los bienes que realice el Director General, conforme a la normativa que emita el Consejo de Administración de Pemex;
-
-XXV. Participar en los procedimientos de selección y evaluación del desempeño del personal adscrito a su área, con base en lo aprobado por el Consejo de Administración de Pemex y en coordinación con la Dirección Corporativa de Recursos Humanos;
-
-XXVI. Elaborar las propuestas de requerimientos para el programa de capacitación, en coordinación con la Dirección Corporativa de Recursos Humanos, así como llevar a cabo su implementación;
-
-XXVII. Participar en órganos colegiados o grupos de trabajo;
-
-XXVIII. Identificar, evaluar y proponer necesidades de innovación y desarrollo tecnológico;
-
-XXIX. Elaborar las propuestas de disposiciones y directrices generales en aspectos técnicos que se requieran para las contrataciones de servicios relacionados con el objeto de Pemex Perforación y Servicios;
-
-XXX. Suscribir convenios y contratos y, en su caso, determinar la procedencia de la rescisión, suspensión o terminación de los mismos;
-
-XXXI. Emitir y suscribir evaluaciones técnicas;
-
-XXXII. Atender la sustanciación y resolución de los reclamos, recurso de reconsideración y conciliaciones que deriven de los procedimientos de contratación y de la ejecución de los contratos;
-
-XXXIII. Evaluar el funcionamiento de su gerencia y de las áreas adscritas a la misma;
-
-XXXIV. Elaborar propuestas de objetivos, estrategias, metas e indicadores de producción, confiabilidad y mejora;
-
-XXXV. Aplicar las condiciones de seguridad del personal, de los bienes e instalaciones de Pemex Perforación y Servicios, conforme a los estándares internacionales y disposiciones aplicables, así como a la normativa que determine Pemex;
-
-XXXVI. Coadyuvar en el diseño y la implementación de los planes de respuesta a emergencias, programas de prevención de accidentes en derrames de hidrocarburos, emergencias ambientales, programas de remediación de suelos y aguas y los demás que en materia de sustentabilidad, seguridad industrial, seguridad operativa y protección al medio ambiente le sean aplicables;
-
-XXXVII. Implantar el Sistema de Confiabilidad Operativa para asegurar la eficiencia de la operación y mantenimiento de instalaciones;
-
-XXXVIII. Implantar el sistema de seguridad industrial, salud en el trabajo y protección ambiental, y estándares de desarrollo sustentable establecidos por Pemex y otras disposiciones aplicables;
-
-XXXIX. Elaborar los proyectos de normativa interna técnica, su modificación, derogación o abrogación, y proponerlos a las instancias competentes;
-
-XL. Coadyuvar en la interpretación de la normativa interna técnica, en el ámbito de sus funciones;
-
-XLI. Informar sobre los resultados de la operación para su evaluación;
-
-XLII. Participar en la organización, clasificación y conservación de la información, en cumplimiento a los ordenamientos en la materia;
-
-XLIII. Resolver los asuntos de su competencia y de las áreas adscritas a su gerencia;
-
-XLIV. Solicitar a la Dirección Jurídica de Pemex el otorgamiento y revocación de poderes;
-
-XLV. Cotejar y expedir constancias de los documentos que obren en los archivos de su gerencia;
-
-XLVI. Delegar funciones y asignar responsabilidades a su personal, salvo aquellas que sean indelegables, y
-
-XLVII. Las demás señaladas en otros artículos del presente Estatuto, por el Consejo de Administración, por el Director General o por su subdirector, según corresponda, así como en otros ordenamientos jurídicos y demás disposiciones aplicables.
-
-Son indelegables las funciones señaladas en las fracciones III, VIII, IX, X, XIV, XVIII, XXV, XXXIX, XL y XLVI del presente artículo.
+La formación inicial tendrá una duración mínima de 6 meses y se desarrollará a través de actividades académicas escolarizadas, impartidas diariamente, la que tendrá validez oficial en toda la República.
 
 ###### Artículo 43.
 
-El personal de Pemex Perforación y Servicios distinto al señalado en los capítulos precedentes de este título y que integra la plantilla de personal de confianza, tendrá a su cargo las funciones previstas en el manual de organización y en la normativa interna aplicable, así como aquellas que, en los términos del presente Estatuto, les sean asignadas o delegadas, de manera expresa, por sus superiores jerárquicos.
+El Instituto, celebrará los convenios necesarios con instituciones educativas, centros de investigación y organismos públicos o privados, para que impartan o desarrollen cualquier actividad educativa que coadyuve a cubrir las necesidades institucionales de formación inicial y/o continua.
 
-En caso de que las actividades que deban desarrollar requieran la representación de Pemex Perforación y Servicios ante terceros, se deberán otorgar los poderes respectivos.
-
-## TÍTULO CUARTO. DE LA ESTRUCTURA ORGÁNICA DE PEMEX PERFORACIÓN Y DE SERVICIOS
+### CAPÍTULO XII. DE LA FORMACIÓN CONTINUA
 
 ###### Artículo 44.
 
-La estructura orgánica básica de Pemex Perforación y Servicios tendrá las áreas siguientes:
+La formación continua, es un proceso permanente y progresivo de formación para desarrollar al máximo las competencias, capacidades y habilidades del personal integrante de la Policía Estatal Preventiva, que comprenderá las etapas siguientes:
 
-I. Dirección General.
+I. Actualización: Programa por medio del cual el personal integrante de las instituciones policiales pone al día los conocimientos y habilidades requeridos para el desempeño de sus funciones y actividades, de acuerdo a su área de servicio;
 
-II. Subdirección de Ingeniería de Pozos y Desarrollo del Negocio.
+II. Promoción: Es el proceso de enseñanza-aprendizaje, mediante el cual se prepara al personal integrante de la Policía Estatal Preventiva, en el conocimiento teórico y práctico de las funciones de la jerarquía inmediata superior a la que ostentan;
 
-1. Gerencia de Estrategias y Planes.
+III. Especialización: Son los Programas mediante los cuales el personal integrante de la Policía Estatal Preventiva, profundiza en una determinada rama del conocimiento policial y de seguridad pública, para desempeñar funciones y actividades que requieren conocimientos, habilidades y actitudes de mayor complejidad. En este rubro quedarán los niveles de especialización técnica y profesional, lo que permitirá obtener jerarquías y títulos académicos; y,
 
-2. Gerencia de Ingeniería de Pozos y Formación Técnica.
-
-3. Gerencia de Soporte Técnico y Administración de Contratos.
-
-III. Subdirección de Operaciones en Intervenciones a Pozos.
-
-1. Gerencia de Perforación y Reparación de Pozos Terrestre.
-
-2. Gerencia de Perforación y Reparación de Pozos Marina.
-
-3. Gerencia de Servicios a Pozos.
-
-4. Gerencia de Mantenimiento de Equipos.
+IV. Alta Dirección: Conjunto de programas educativos de alto nivel teórico, metodológico y técnico orientado a la preparación y desarrollo de competencias, capacidades y habilidades para la planeación, dirección, ejecución, administración y evaluación de los recursos y medios que sustentan las funciones y actividades de la Secretaría.
 
 ###### Artículo 45.
 
-La Subdirección de Ingeniería de Pozos y Desarrollo del Negocio tendrá las funciones siguientes:
-
-I. Coordinar la elaboración y aplicación de análisis técnicos, procedimientos y la ingeniería para las actividades de perforación, terminación, reparación y servicios a pozos;
-
-II. Proponer estrategias y establecer lineamientos para la administración de la tecnología de las actividades de perforación, terminación, reparación y servicios a pozos y de la información técnica operativa;
-
-III. Proponer al Director General la estrategia de planeación, operación y comercialización de Pemex Perforación y Servicios;
-
-IV. Supervisar los procesos de planeación, programación, presupuesto y comercialización de Pemex Perforación y Servicios;
-
-V. Coordinar y evaluar el desarrollo de la gestión de las estrategias de ejecución de los servicios de Pemex Perforación y Servicios, así como su factibilidad técnica, económica y financiera;
-
-VI. Coordinar la evaluación del desempeño técnico, operativo, de seguridad y de confiabilidad de Pemex Perforación y Servicios;
-
-VII. Coordinar la evaluación e instrumentación de proyectos de inversión de equipos e infraestructura de Pemex Perforación y Servicios;
-
-VIII. Coordinar el proceso de formación técnica del personal y tecnológico de la perforación, terminación, reparación y servicios a pozos;
-
-IX. Coordinar la integración de los requerimientos de equipos, materiales y servicios de Pemex Perforación y Servicios, la elaboración del apartado técnico y la gestión de su contratación ante el área competente de Pemex, y
-
-X. Coordinar la administración y el seguimiento del desempeño de los contratos de equipos, materiales y servicios de Pemex Perforación y Servicios, y de los contratistas.
+La formación continua y especializada, tiene como objeto lograr el desempeño profesional del personal integrante del servicio en todas sus categorías, jerarquías o grados, a través de procesos dirigidos a la confirmación y actualización de sus conocimientos, al desarrollo y perfeccionamiento de sus habilidades, destrezas y actitudes necesarias para responder adecuadamente a la demanda social de preservar la seguridad pública, garantizando los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 ###### Artículo 46.
 
-La Gerencia de Estrategias y Planes tendrá las funciones siguientes:
-
-I. Elaborar la propuesta de la estrategia de planeación, operación y comercialización de Pemex Perforación y Servicios;
-
-II. Integrar y evaluar los procesos de planeación, programación, presupuesto y de comercialización de Pemex Perforación y Servicios;
-
-III. Integrar y analizar la información de la evaluación del desempeño de las áreas adscritas a Pemex Perforación y Servicios;
-
-IV. Coordinar la planeación e integrar los requerimientos de equipos, materiales y servicios de Pemex Perforación y Servicios;
-
-V. Evaluar los proyectos para la sustitución, mantenimiento, y modernización de equipos de perforación, reparación y de servicios a pozos e infraestructura, y
-
-VI. Evaluar la factibilidad técnica, económica y financiera de las propuestas presentadas por las áreas y proponer las estrategias de ejecución de los servicios de Pemex Perforación y Servicios.
+Las etapas de formación continua se realizarán a través de actividades académicas, como pueden ser carreras, diplomados, especialidades, cursos, seminarios, talleres, estadías y congresos, entre otros; los cuales se impartirán en el Instituto, así como en otros centros de formación regionales, nacionales e internacionales. Estas actividades tienen el objetivo de concebir la formación con una misma visión nacional integradora y deben recibir la acreditación formal por parte de la autoridad competente.
 
 ###### Artículo 47.
 
-La Gerencia de Ingeniería de Pozos y Formación Técnica tendrá las funciones siguientes:
-
-I. Validar, desarrollar y evaluar los análisis técnicos y la ingeniería de detalle, así como el análisis de costos de las actividades de perforación, terminación, reparación y servicios a pozos;
-
-II. Vigilar la aplicación y actualización de los procedimientos operativos y de seguridad apegándose a los preceptos de la metodología del diseño integral de pozos mediante la visualización, conceptualización, definición o ingeniería de detalle, seguimiento y evaluación;
-
-III. Dar seguimiento y retroalimentación a la ejecución de perforación, terminación, reparación y servicios a pozos bajo estándares de ingeniería;
-
-IV. Elaborar estrategias y establecer lineamientos para la administración de la tecnología de las actividades de perforación, terminación, reparación y servicios a pozos y de la información técnica operativa;
-
-V. Operar y administrar los pozos escuela y la formación técnica del personal de Pemex Perforación y Servicios, y
-
-VI. Proponer la incorporación de tecnologías del negocio y desarrollar el plan tecnológico de Pemex Perforación y Servicios.
+La formación continua será de acuerdo a la estructura curricular definida para todos los niveles jerárquicos de la Carrera Policial.
 
 ###### Artículo 48.
 
-La Gerencia de Soporte Técnico y Administración de Contratos tendrá las funciones siguientes:
+Cuando el resultado de la evaluación de la formación continua de un integrante del servicio no sea aprobatorio, deberá presentarla nuevamente. En ningún caso, ésta podrá realizarse en un período menor a sesenta días naturales y superior a los ciento veinte días transcurridos después de la notificación que se le haga de dicho resultado.
 
-I. Integrar los requerimientos de equipos, materiales y servicios de Pemex Perforación y Servicios;
-
-II. Elaborar el apartado técnico de los modelos de contratación, así como llevar a cabo la evaluación técnica de las propuestas para la contratación y adquisición de equipos, materiales y servicios, que requiera Pemex Perforación y Servicios;
-
-III. Gestionar ante el área competente de Pemex, la contratación que requiera Pemex Perforación y Servicios, coordinando la evaluación técnica;
-
-IV. Supervisar el cumplimiento de los contratos de equipos, materiales y servicios que requiera Pemex Perforación y Servicios;
-
-V. Dar seguimiento físico, financiero, operativo y de seguridad a los contratos de Pemex Perforación y Servicios, y
-
-VI. Dar atención a los requerimientos de acceso a la información y los que soliciten las instancias fiscalizadoras en materia de contratos.
+El Instituto, deberá proporcionarle la capacitación necesaria antes de la siguiente evaluación y la Corporación le dará las facilidades requeridas.
 
 ###### Artículo 49.
 
-La Subdirección de Operaciones en Intervenciones a Pozos tendrá las siguientes funciones:
+El personal integrante del servicio, a través del Instituto, podrá solicitar su ingreso en distintas actividades de formación especializada a desarrollarse en el mismo Instituto, en las Academias Regionales u otras instancias educativas, con el fin de desarrollar su propio perfil profesional y alcanzar a futuro distintas posiciones y promociones, siempre y cuando corresponda a su plan de carrera.
 
-I. Coordinar la aplicación de las estrategias, políticas y lineamientos para la operación y control de las actividades de perforación, terminación, reparación y servicios a pozos de Pemex Perforación y Servicios;
-
-II. Coordinar el establecimiento y actualización de los procedimientos operativos y de seguridad para el desarrollo de las actividades operativas de los equipos de perforación y reparación de pozos, así como las unidades de servicios a pozos de Pemex Perforación y Servicios;
-
-III. Verificar el desempeño técnico, operativo, de confiabilidad y de seguridad de los equipos de perforación y reparación de pozos y unidades de servicios a pozos de Pemex Perforación y Servicios;
-
-IV. Coordinar la operación de las Gerencias de Perforación y Reparación de Pozos Marina y Terrestre, Servicios a Pozos y Mantenimiento de Equipos;
-
-V. Aprobar los planes y programas de perforación, terminación y reparación, servicios a pozos y mantenimiento de equipos;
-
-VI. Coordinar la planeación y programación de la ingeniería del mantenimiento, sustitución y/o modernización de equipos;
-
-VII. Proponer al Director General los proyectos de sustitución y/o modernización de equipos y gestionarlos ante las áreas competentes;
-
-VIII. Establecer directrices para la homologación y actualización de procedimientos, manuales, normas, mejores prácticas y especificaciones técnicas de operación, mantenimiento, de confiabilidad y seguridad de equipos;
-
-IX. Coordinar la participación de las Gerencias de su adscripción en la elaboración de requerimientos técnicos para la contratación y adquisición de equipos, materiales y servicios para la perforación, terminación, reparación, servicios a pozos y mantenimiento de equipos, así como en la supervisión técnica de los contratos;
-
-X. Vigilar y evaluar el desempeño en la administración y operación de los almacenes y control de inventarios en Pemex Perforación y Servicios, y
-
-XI. Coordinar la atención a las contingencias en pozos y equipos, y gestionar los recursos necesarios para tal fin.
+### CAPÍTULO XIII. DE LA CERTIFICACIÓN
 
 ###### Artículo 50.
 
-La Gerencia de Perforación y Reparación de Pozos Terrestre tendrá las funciones siguientes:
-
-I. Elaborar y proponer a la subdirección de su adscripción, los planes y programas de perforación, terminación y reparación de pozos terrestres y lacustres;
-
-II. Llevar a cabo la perforación, terminación y reparación de pozos terrestres y lacustres de acuerdo a los programas autorizados;
-
-III. Administrar los equipos y la infraestructura para la perforación, terminación y reparación de pozos terrestres y lacustres;
-
-IV. Elaborar el programa de suministros para los equipos de perforación, terminación y reparación de pozos terrestres y lacustres, así como verificar su cumplimiento;
-
-V. Elaborar los requerimientos para la contratación y adquisición de equipos materiales y servicios para la perforación, terminación y reparación de pozos terrestres y lacustres;
-
-VI. Verificar el cumplimiento técnico de los contratos en materia de pozos terrestres y lacustres;
-
-VII. Homologar, actualizar y verificar la aplicación de procedimientos operativos y mejores prácticas para la perforación, terminación y reparación de pozos terrestres y lacustres;
-
-VIII. Atender las contingencias asociadas a la perforación, terminación y reparación de pozos terrestres y lacustres y apoyar a las demás gerencias operativas cuando lo requieran, y
-
-IX. Administrar las tripulaciones de equipos terrestres y lacustres y personal de la Gerencia.
+La certificación, es el proceso mediante el cual el personal integrante de las instituciones policiales se somete a evaluaciones periódicas establecidas por el Centro, para comprobar el cumplimiento de los perfiles de personalidad, éticos, socioeconómicos y médicos, en los procedimientos de ingreso, promoción y permanencia.
 
 ###### Artículo 51.
 
-La Gerencia de Perforación y Reparación de Pozos Marina tendrá las funciones siguientes:
-
-I. Elaborar y proponer a la subdirección de su adscripción, los planes y programas de perforación, terminación y reparación de pozos marinos;
-
-II. Llevar a cabo la perforación, terminación y reparación de pozos marinos de acuerdo a los programas autorizados;
-
-III. Administrar los equipos y la infraestructura para la ejecución de los servicios a pozos;
-
-IV. Administrar los equipos y la infraestructura para la perforación, terminación y reparación de pozos marinos;
-
-V. Elaborar el programa de suministros para los equipos de perforación, terminación y reparación de pozos marinos y verificar su cumplimiento;
-
-VI. Elaborar los requerimientos para la contratación y adquisición de equipos, materiales y servicios para la perforación, terminación y reparación de pozos marinos;
-
-VII. Verificar el cumplimiento técnico de los contratos en materia de pozos marinos;
-
-VIII. Homologar, actualizar y verificar la aplicación de procedimientos operativos y mejores prácticas para la perforación, terminación y reparación de pozos marinos;
-
-IX. Atender las contingencias asociadas a la perforación, terminación y reparación de pozos marinos y apoyar a las demás gerencias operativas cuando lo requieran, y
-
-X. Administrar las tripulaciones de equipos marinos y personal de la Gerencia.
+Las evaluaciones de control y confianza y las correspondientes a las técnicas de la función policial, se consideran requisitos elementales de permanencia y forman parte de los requisitos para la obtención del Certificado Único Policial, las primeras deberán ser aplicadas al personal integrante del Sistema, en los términos y condiciones que establezca el Centro, de conformidad a los artículos 40, 41 y 42 de la ley; las correspondientes a las Técnicas de la Función Policial, se aplicarán invariablemente al personal sustantivo por instructores-evaluadores certificados por la autoridad competente y el proceso será dirigido y coordinado por el Instituto, pudiendo establecer los acuerdos correspondientes a efecto de que instructores-evaluadores certificados de otras instituciones de formación policial puedan apoyar en el proceso de evaluación.
 
 ###### Artículo 52.
 
-La Gerencia de Servicios a Pozos tendrá las funciones siguientes:
+De conformidad con el artículo 45 de la ley, las evaluaciones de Control de Confianza, tienen como objetivo evaluar bajo un sólo mecanismo y criterios uniformes al personal en activo y de nuevo ingreso responsable de prevenir la comisión de los delitos, salvaguardar la seguridad e integridad de los bienes y las personas y son:
 
-I. Elaborar y proponer a la subdirección de su adscripción, los planes y programas de servicios a pozos;
+I. Toxicológico;
 
-II. Llevar a cabo las operaciones de servicios a pozos de acuerdo a los programas autorizados;
+II. Médico;
 
-III. Elaborar el programa de suministros para la operación de servicios a pozos y verificar su cumplimiento;
+III. Psicológico;
 
-IV. Elaborar los requerimientos para la contratación y adquisición de equipos, materiales y servicios para los servicios a pozos;
+IV. Poligráfico; y,
 
-V. Verificar el cumplimiento técnico de los contratos en materia de servicios a pozos;
-
-VI. Homologar, actualizar y verificar la aplicación de procedimientos operativos y mejores prácticas de servicios a pozos;
-
-VII. Atender las contingencias asociadas a los servicios a pozos, y apoyar a las demás gerencias operativas, cuando lo requieran, y
-
-VIII. Administrar las tripulaciones de las unidades de servicios a pozos y personal de la Gerencia.
+V. De investigación socioeconómica.
 
 ###### Artículo 53.
 
-La Gerencia de Mantenimiento de Equipos tendrá las funciones siguientes:
+Finalidad de las evaluaciones:
 
-I. Elaborar y proponer al subdirector los planes y programas de mantenimiento, sustitución y modernización de equipos de perforación y de reparación;
+I. Toxicológica. Detectar oportunamente el consumo de sustancias adictivas ilegales o legales sin prescripción médica por parte del evaluado;
 
-II. Ejecutar los programas de mantenimiento de equipos de perforación y reparación;
+II. Médica. Verificar el estado de salud de las personas, detectando enfermedades que puedan poner en riesgo al elemento o a la Institución;
 
-III. Aplicar las directrices para la homologación y actualización de procedimientos, manuales, normas, mejores prácticas y especificaciones técnicas de mantenimiento de confiabilidad y seguridad de equipos;
+III. Psicológica. Detecta las características de personalidad y nivel de rendimiento intelectual;
 
-IV. Administrar los proyectos de sustitución y modernización de equipos de perforación y reparación de pozos;
+IV. Polígrafo. Determina la veracidad de la información proporcionada por la persona a través de los cambios fisiológicos que se presentan ante determinadas preguntas que le son formuladas; y,
 
-V. Elaborar los requerimientos para la contratación y adquisición de equipos, materiales y servicios para el mantenimiento de equipos de perforación y reparación;
-
-VI. Administrar los talleres y centros de servicio de mantenimiento para los equipos de perforación y reparación;
-
-VII. Administrar los almacenes y control de inventarios en Pemex Perforación y Servicios;
-
-VIII. Verificar el cumplimiento técnico de los contratos en materia de adquisición y servicios para el mantenimiento de equipos de perforación y reparación, y
-
-IX. Administrar las tripulaciones de mantenimiento de equipos y personal de la Gerencia.
-
-## TÍTULO QUINTO. DE LA NORMATIVA INTERNA TÉCNICA DE PEMEX PERFORACIÓN Y SERVICIOS
+V. Investigación Socioeconómica. Investiga sus antecedentes, autenticidad de documentos y el entorno socioeconómico en el que se desenvuelve.
 
 ###### Artículo 54.
 
-El Consejo de Administración, el Director General y los subdirectores, emitirán la normativa interna técnica que conforme a sus funciones les corresponda.
+Las evaluaciones de la función policial, tienen como objetivo identificar habilidades y destrezas con que cuenta el personal para desarrollar eficaz y eficientemente su función, determinando si el sustentante es apto para enfrentar situaciones operativas propias de su función.
+
+El resultado de las evaluaciones de Control y Confianza, que sólo podrá emitir el Centro, son los establecidos en el artículo 46 de la ley.
 
 ###### Artículo 55.
 
-La normativa interna técnica de Pemex Perforación y Servicios deberá ajustarse a las disposiciones que respecto al proceso regulatorio emita Pemex.
+Las evaluaciones correspondientes a conocimientos y técnicas de la función policial, serán al menos las siguientes:
 
-Asimismo, la normativa interna técnica deberá incorporarse a los sistemas respectivos para su registro, control y difusión.
+I. Conocimientos generales de la función policial;
 
-## TÍTULO SEXTO. DE LA REPRESENTACIÓN Y SUPLENCIAS EN PEMEX PERFORACIÓN Y SERVICIOS
+II. Computación: Paquetería básica;
+
+III. Acondicionamiento físico y defensa policial;
+
+IV. Operación de equipos de radio-comunicación;
+
+V. Manejo de PR-24;
+
+VI. Armamento y tiro policial;
+
+VII. Conducción del vehículo policial; y,
+
+VIII. Detención y conducción de probables responsables.
 
 ###### Artículo 56.
 
-La representación de Pemex Perforación y Servicios estará a cargo del Director General, subdirectores, gerentes y apoderados, conforme al presente Estatuto.
+Se considera apto para el servicio al personal que como resultado de sus evaluaciones de conocimientos y técnicas de la función policial haya obtenido una calificación aprobatoria y aquellos que no obtuvieran dicha calificación deberán asistir al curso de regularización que para el efecto diseñe el Instituto.
+
+Si una vez concluido el curso de regularización, en su siguiente evaluación la calificación aprobatoria no es alcanzada, se deberá dar parte a la Unidad Interna de Control y Evaluación, establecida en los artículos 79 y 80 de la ley, para que se determinen las medidas conducentes, que podrán ser, entre otras, la separación del servicio.
+
+### CAPÍTULO XIV. DEL INGRESO
 
 ###### Artículo 57.
 
-El Director General, subdirectores y gerentes de Pemex Perforación y Servicios acreditarán su representación con el nombramiento respectivo y las funciones que les corresponden, de conformidad con este Estatuto.
+El ingreso, es el procedimiento de integración de los aspirantes a la estructura institucional y tendrá verificativo al terminar la etapa de formación inicial o capacitación en las academias o institutos de capacitación policial, el periodo de prácticas correspondientes y acreditando el cumplimiento de los requisitos previstos en la ley y el Reglamento.
 
 ###### Artículo 58.
 
-El Director, subdirectores y gerentes jurídicos adscritos a la Dirección Jurídica de Pemex, serán representantes de Pemex Perforación y Servicios, con base en los poderes que se les otorguen.
-
-En toda clase de juicios y procedimientos en que deba intervenir el Director General, incluyendo los de amparo y en materia laboral, será representado por el Director Jurídico de Pemex o, en su caso, por quien éste designe.
+La autoridad competente expedirá el alta administrativa, correspondiente al personal de cada institución de seguridad pública con el grado que les corresponda, constituyéndose en el documento formal que se otorga al integrante de nuevo ingreso;
 
 ###### Artículo 59.
 
-En caso de ausencia temporal del Director General, será suplido por el Subdirector de Ingeniería de Pozos y Desarrollo del Negocio y por el Subdirector de Operaciones en Intervenciones a Pozos, en ese orden.
+El documento de la alta administrativa contendrá como mínimo los datos siguientes:
+
+I. Fecha y lugar de expedición;
+
+II. Nombre completo del integrante de la Policía Estatal Preventiva;
+
+III. Edad, sexo, nacionalidad y estado civil;
+
+IV. Área de adscripción, categoría, jerarquía o grado;
+
+V. Leyenda de la protesta;
+
+VI. Remuneración;
+
+VII. Funciones asignadas; y,
+
+VIII. Nombre y firma del titular de la autoridad competente.
 
 ###### Artículo 60.
 
-El Director General designará por escrito a los servidores públicos que deberán suplir a los subdirectores en los casos de ausencia de éstos.
-
-Los subdirectores de Pemex Perforación y Servicios designarán a los servidores públicos que deban suplir las ausencias de sus gerentes, entre aquellos de jerarquía igual o inmediata inferior a estos últimos.
+La persona integrante deberá protestar el acatamiento y obediencia de la Constitución Política de los Estados Unidos Mexicanos, la del Estado Libre y Soberano de Michoacán de Ocampo, así como a las leyes y reglamentos que de ellas emanen.
 
 ###### Artículo 61.
 
-Los servidores públicos que actúen en suplencia en términos de las disposiciones de este Título y las que de ellas emanen, contarán con las funciones del servidor público al que suplen. En caso de requerirse, se les otorgarán los poderes correspondientes.
+Se hará del conocimiento del integrante, que la falta de cumplimiento de los requisitos previstos en la ley y en el Reglamento serán causa de baja de la Secretaría, tanto como nuevo integrante y en su permanencia. Asimismo, se le entregará el reglamento interior o documento equivalente de la Policía Estatal Preventiva, mediante el cual se le darán a conocer los derechos y obligaciones que adquiere, así como las sanciones a las que se hará acreedor en caso de infringir dicho reglamento.
 
 ###### Artículo 62.
 
-La suplencia no representará un nuevo nombramiento ni tendrá implicación alguna en el tabulador de personal.
+El personal integrante de la Policía Estatal Preventiva en ejercicio de sus funciones, portará una identificación a la vista de la ciudadanía que incluya como mínimo lo datos siguientes:
 
-## TÍTULO SÉPTIMO. DE LA AUDITORÍA INTERNA Y DE LA UNIDAD DE RESPONSABILIDADES EN PEMEX PERFORACIÓN Y SERVICIOS
+I. Número de folio;
+
+II. Fotografía;
+
+III. Nombre;
+
+IV. Institución de Seguridad Pública a la que se encuentra adscrito;
+
+V. Cargo;
+
+VI. Clave única de identificación permanente;
+
+VII. Firma del servidor público;
+
+VIII. Firma del titular de la Secretaría;
+
+IX. Sello de la Institución;
+
+X. Vigencia;
+
+XI. Descripción y matrícula de arma de cargo en caso de su portación;
+
+XII. Grupo sanguíneo; y,
+
+XIII. Número telefónico para el caso de emergencias.
+
+Aquel integrante de la Policía Estatal Preventiva que no porte la identificación anteriormente señalada, será motivo de sanción por parte de la Secretaría.
+
+### CAPÍTULO XV. DE LOS ASIMILADOS
 
 ###### Artículo 63.
 
-El Titular de Auditoría Interna dependiente del Comité de Auditoría del Consejo de Administración de Pemex podrá tener un delegado en Pemex Perforación y Servicios, previa aprobación del Consejo de Administración de Pemex, quien contará con las facultades previstas en la Ley y el Acuerdo de Creación.
+Asimilados, es el procedimiento por medio del cual se regula el ingreso del personal de las fuerzas armadas o de otras instituciones policiales a las filas de la Policía Estatal Preventiva del Estado, a partir de criterios generales que orienten la revalidación del antecedente académico y la experiencia que representa el perfil laboral de un individuo que aspira ingresar a la Carrera Policial.
 
 ###### Artículo 64.
 
-El Titular de la Unidad de Responsabilidades de Pemex podrá contar con un delegado y titulares de las áreas de quejas, denuncias e investigaciones y de responsabilidades en Pemex Perforación y Servicios, en los términos señalados en el Reglamento, el Acuerdo de Creación, así como en las demás disposiciones aplicables.
+El personal de las fuerzas armadas o de otras instituciones policiales, que desea ingresar a las filas de la Policía Estatal Preventiva del Estado, se deberá sujetar al proceso de selección establecido para tal fin.
 
-## TRANSITORIOS
+###### Artículo 65.
 
-PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+Los criterios que se consideran para el proceso de asimilados son:
 
-SEGUNDO. La estructura orgánica autorizada se remitirá, para conocimiento, a la Secretaría de Hacienda y Crédito Público, en términos de la Ley de Petróleos Mexicanos. La implementación de dicha estructura se realizará mediante movimientos compensados, que no impliquen incremento al presupuesto global de los servicios personales o en el número total de plazas que se transferirán de Pemex Exploración y Producción a Pemex Perforación y Servicios.
+I. Nivel Académico: El nivel académico del solicitante deberá corresponder al definido a los niveles de ingreso correspondiente en la Carrera Policial (preparatoria/licenciatura);
 
-TERCERO. Los lineamientos, políticas, bases, criterios y demás disposiciones emitidas con anterioridad a la entrada en vigor del presente Estatuto, por cualquier órgano o área de Petróleos Mexicanos, Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica, continuarán siendo aplicables a Pemex Perforación y Servicios en lo que no se opongan a la Ley de Petróleos Mexicanos, su Reglamento, el Acuerdo de Creación de Pemex Perforación y Servicios, al presente Estatuto Orgánico y demás disposiciones aplicables, hasta en tanto los órganos o áreas referidas determinen su modificación o abrogación.
+II. Jerarquía: El nivel jerárquico que el aspirante a ingresar ostente, podrá ser un referente de la experiencia operativa, pero no un factor determinante para su ubicación dentro del nivel jerárquico policial;
 
-CUARTO. Las referencias a las denominaciones de los organismos públicos descentralizados subsidiarios de Petróleos Mexicanos que se contengan en contratos u otros instrumentos jurídicos que se transfieran a Pemex Perforación y Servicios, se entenderán hechas o conferidas a la empresa productiva del Estado subsidiaria de Petróleos Mexicanos, denominada Pemex Perforación y Servicios.
+III. Antigüedad en servicios afines: En igualdad de circunstancias, tanto en antecedentes como en jerarquía, se deberá favorecer a quien acredite tener mayor experiencia en actividades afines al servicio policial;
 
-QUINTO. Las áreas cuyas funciones se modifican o se crean en virtud de la reorganización corporativa de Petróleos Mexicanos contenidas en el presente Estatuto, deberán realizar y formalizar, según corresponda, cualquier tipo de acto o documento, incluyendo las actas de entrega-recepción, que sean necesarios para los traspasos, transferencias y demás actos que correspondan.
+IV. Antigüedad en las instituciones de procedencia: El aspirante presentará un currículum de desarrollo profesional (hoja de servicios de la institución de procedencia); y,
 
-Sin perjuicio de lo anterior, las áreas referidas deberán realizar las actividades y funciones necesarias con el propósito de dar continuidad a la operación y funcionamiento de Pemex Perforación y Servicios.
+V. Edad: El aspirante no deberá rebasar la edad de retiro prevista en el rango en el que se pretende ingresar.
 
-Se deberán realizar todas las gestiones administrativas para la transferencia de los recursos humanos y materiales, incluyendo la información y documentación, así como los recursos financieros asociados con dicha transferencia, derivadas de la reorganización corporativa de Petróleos Mexicanos.
+### CAPÍTULO XVI. DE LA EVALUACIÓN PARA LA PERMANENCIA Y PROMOCIÓN
 
-SEXTO. Las obligaciones asumidas por Pemex-Exploración y Producción, Pemex-Refinación, Pemex-Gas y Petroquímica Básica y Pemex-Petroquímica y al amparo de los convenios de responsabilidad solidaria suscritos por ellos, para garantizar las obligaciones constitutivas de deuda pública contratadas por Petróleos Mexicanos y, en su caso, otros organismos subsidiarios, así como las operaciones donde dichos organismos subsidiarios han comparecido directamente para tales efectos, continuarán vigentes hasta su conclusión, siempre que Pemex Perforación y Servicios sea su causahabiente directo.
+###### Artículo 66.
 
-El presente Estatuto Orgánico de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos denominada Pemex Perforación y Servicios, fue aprobado por el Consejo de Administración de Pemex Perforación y Servicios, con fundamento en el artículo 12, fracción VI y Transitorio Séptimo del Acuerdo de Creación de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos, denominada Pemex Perforación y Servicios, en sesión de instalación celebrada el día 10 de agosto de 2015, mediante acuerdo número CAEPS-PPS-004/2015.
+La finalidad del Sistema de la Carrera Policial de Permanencia, consiste en garantizar el desarrollo institucional y asegurar la estabilidad en el empleo, con base en un esquema proporcional y equitativo de remuneraciones y prestaciones para los integrantes de las instituciones policiales, así como para:
 
-Ciudad de México, D.F., a 17 de agosto de 2015.- El Director Jurídico de Petróleos Mexicanos, Marco Antonio de la Peña Sánchez.- Rúbrica.
+I. Promover la responsabilidad, honradez, diligencia, eficiencia y eficacia en el desempeño de las funciones y en la óptima utilización de los recursos de las Instituciones; y,
+
+II. Fomentar la lealtad institucional, el sentido de pertenencia y la vocación de servicio, mediante la motivación y el establecimiento de un adecuado sistema de promociones y estímulos, con base en el mérito y la eficiencia, que permita satisfacer las expectativas de desarrollo profesional del personal integrante de las instituciones policiales.
+
+###### Artículo 67.
+
+El personal integrante de la Policía Estatal Preventiva, deberá observar y cumplir con las obligaciones y requisitos para su permanencia contemplados en la ley y las siguientes:
+
+I. Conducirse siempre con dedicación y disciplina, apego al orden jurídico y respeto a los derechos humanos;
+
+II. Prestar auxilio a las personas amenazadas por algún peligro o que hayan sido víctimas de algún delito, así como brindar protección a sus bienes y derechos. Su actuación será congruente, oportuna y proporcional al hecho;
+
+III. Cumplir sus funciones con absoluta imparcialidad, sin discriminar a persona alguna por su raza, religión, sexo, condición económica o social, preferencia sexual, ideología política o por algún otro motivo;
+
+IV. Abstenerse en todo momento y bajo cualquier circunstancia de infligir, tolerar o permitir actos de tortura u otros crueles, inhumanos o degradantes, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra; al tener conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
+
+V. Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que, en ejercicio de sus derechos constitucionales y con carácter pacífico, realice la población;
+
+VI. Desempeñar su función sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente; en particular, se opondrán a cualquier acto de corrupción;
+
+VII. Abstenerse de realizar detención arbitraria de persona alguna cuando no se cumplan los requisitos previstos en los ordenamientos constitucionales y legales aplicables;
+
+VIII. En relación con lo anterior, no deberán en ningún caso detener injustificadamente a ninguna persona en acciones de revisión o vigilancia rutinaria, por denuncias anónimas o por presumir marcado nerviosismo o actitud sospechosa;
+
+IX. Velar por la vida e integridad física de las personas detenidas en tanto se ponen a disposición de la autoridad competente;
+
+X. Participar en operativos de coordinación con otras instituciones de seguridad pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+
+XI. Obedecer las órdenes de los superiores jerárquicos, siempre y cuando sean conforme a derecho. No serán sancionados los integrantes del servicio que se nieguen a cumplir órdenes ilegales;
+
+XII. Preservar el secreto de los asuntos que por razón del desempeño de su función conozcan, con las excepciones que determinen las leyes;
+
+XIII. En el ejercicio de sus funciones deberá actuar con la decisión necesaria, sin demora, cuando de ello dependa evitar un daño grave, inmediato e irreparable; rigiéndose al hacerlo por los principios de congruencia, oportunidad y proporcionalidad en la utilización de la fuerza;
+
+XIV. Utilizar las armas en las situaciones en que exista un riesgo racionalmente grave para su vida, su integridad física o la de terceras personas, o en aquellas circunstancias que puedan suponer un grave riesgo para la seguridad ciudadana y de conformidad con los principios a que se refiere la fracción anterior;
+
+XV. Participar en los procesos de evaluación para la permanencia establecidos en el Reglamento;
+
+XVI. Participar en los programas de profesionalización consistentes en la formación inicial, continua y especializada, sin menoscabo de otras condiciones de desempeño que deba cubrir, en los términos que establezca su nombramiento;
+
+XVII. Conocer la escala jerárquica de la Institución de Seguridad Pública y guardar a los superiores, subordinados e iguales el respeto y la consideración debidos;
+
+XVIII. Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando;
+
+XIX. Portar su identificación oficial, así como los uniformes, insignias y equipo reglamentario, que le ministre la Secretaría, mientras se encuentre en servicio;
+
+XX. Utilizar vehículos oficiales en el desempeño de su servicio, salvo que la situación amerite una acción encubierta;
+
+XXI. Mantener en buen estado el armamento, material, municiones y equipo que se le asigne con motivo de sus funciones, haciendo uso racional de ellos sólo en el desempeño del servicio;
+
+XXII. Preservar las pruebas e indicios de probables hechos delictivos o de faltas administrativas, de forma que no pierdan su calidad probatoria;
+
+XXIII. Registrar en una libreta de memorias todos los datos de importancia que incidan en las actividades que realice;
+
+XXIV. Entregar al superior de quien dependa, un informe escrito de sus actividades en las misiones encomendadas, no importando su índole. Lo ejecutará en la periodicidad que las instrucciones o los manuales operativos señalen. Este informe deberá elaborarse con el apego más estricto a las actividades realizadas y a los hechos ocurridos;
+
+XXV. Remitir a la instancia que corresponda la información recopilada en el cumplimiento de sus misiones o en el desempeño de sus actividades, para su análisis y registro. Asimismo, entregar la información que le sea solicitada por otras áreas de la Corporación, para substanciar procedimientos jurisdiccionales o administrativos;
+
+XXVI. Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de la Secretaría;
+
+XXVII. Abstenerse de disponer de los bienes asegurados en el ejercicio de sus funciones, para beneficio propio o de terceros;
+
+XXVIII. Informar a su superior jerárquico a la brevedad posible, las omisiones, los actos indebidos o aquellos que considere constitutivos de delito, que lleven a cabo sus subordinados o iguales en categoría jerárquica. Tratándose de actos u omisiones de un superior jerárquico deberá informarlo al superior jerárquico de éste;
+
+XXIX. Abstenerse de introducir a las instalaciones de la Secretaría bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo cuando sean producto de detenciones, cateos, aseguramientos u otros similares, y que previamente exista la autorización correspondiente;
+
+XXX. Abstenerse de consumir, dentro o fuera del servicio, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado, salvo los casos en que su consumo sea autorizado mediante prescripción médica, avalada y certificada por los servicios médicos de la Secretaría;
+
+XXXI. Abstenerse de convocar o participar en cualquier acto u omisión que refleje rebeldía o indisciplina en contra del mando o alguna otra autoridad;
+
+XXXII. Ejercer sus funciones y atribuciones en correspondencia con el mando, categoría, jerarquía o grado y cargo que ostente;
+
+XXXIII. Expedir por escrito las órdenes, cuando lo solicite un subalterno, con objeto de salvaguardar la seguridad de éste, por la naturaleza de las mismas. Esta solicitud deberá formularse dentro de la disciplina y subordinación debida;
+
+XXXIV. Abstenerse de emitir órdenes que menoscaben la dignidad de quien las reciba o que sean ilegales;
+
+XXXV. Abstenerse de realizar conductas que desacrediten su persona o la imagen de la Secretaría, dentro o fuera del servicio;
+
+XXXVI. No permitir que personas ajenas a la Secretaría realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos del servicio;
+
+XXXVII. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas y juegos, o prostíbulos u otros centros de este tipo, salvo el caso de que exista orden expresa para el desempeño de funciones o en casos de flagrancia; y,
+
+XXXVIII. Las demás que determinen las disposiciones normativas aplicables.
+
+###### Artículo 68.
+
+El personal integrante de la Policía Estatal Preventiva, podrá separarse voluntariamente de su cargo por la causal ordinaria de la renuncia voluntaria a que se refiere el procedimiento de separación y retiro, y reincorporarse al activo siempre y cuando cumplan con los requisitos establecidos en la ley y en el Reglamento.
+
+###### Artículo 69.
+
+El personal que se haya separado de la Policía Estatal Preventiva podrá reingresar al mismo, siempre y cuando reúna los requisitos siguientes:
+
+I. Que la separación del cargo haya sido por renuncia voluntaria;
+
+II. Que no exista sanción administrativa en firme;
+
+III. Que exista plaza vacante o de nueva creación; y,
+
+IV. Que cumpla con los requisitos establecidos en el procedimiento de selección y que acredite la formación inicial, o en su caso, la formación continua aplicable.
+
+###### Artículo 70.
+
+La evaluación para la permanencia permite valorar en forma individual los aspectos cualitativos y cuantitativos de la actuación del personal integrante del servicio, considerando su conocimiento y cumplimiento de las funciones y metas, en relación con las habilidades, aptitudes, actitudes, capacidades, formación recibida, rendimiento profesional y su adecuación al puesto; mediante evaluaciones de desempeño, las cuales serán obligatorias y periódicas como requisito de permanencia.
+
+Además, la evaluación consistirá en aprobar los exámenes que lleve a efecto el Centro, conforme a lo dispuesto por la Ley General, la ley, este Reglamento y demás disposiciones normativas vigentes.
+
+###### Artículo 71.
+
+La remoción, es la terminación de la relación jurídica entre la Secretaría y el integrante, por haber incurrido en faltas graves establecidas en la Ley General, en la ley y las demás disposiciones normativas aplicables.
+
+La remoción motivada por las causales establecidas en el siguiente artículo, excluye de responsabilidad a la Secretaría.
+
+###### Artículo 72.
+
+La Secretaría, en su normatividad interior establece las causales de remoción, considerando además de ellas las siguientes:
+
+I. No aprobar las evaluaciones aplicadas por el Centro, conforme a la ley y demás disposiciones normativas aplicables;
+
+II. Realizar una acción u omisión tipificada como delito por las leyes aplicables;
+
+III. Faltar a su jornada más de tres veces en un lapso de treinta días sin causa justificada;
+
+IV. Acumular más de ocho inasistencias injustificadas durante un año;
+
+V. Concurrir al trabajo en estado de embriaguez o bajo los efectos de algún narcótico, droga o enervante;
+
+VI. Introducir, poseer, consumir o comerciar bebidas alcohólicas, estupefacientes, psicotrópicos, enervantes, narcóticos o instrumentos cuyo uso pueda afectar la seguridad de la institución;
+
+VII. Abandonar, sin el consentimiento de un superior, el área de servicio asignada;
+
+VIII. Negarse a cumplir un correctivo o sanción disciplinaria impuesta;
+
+IX. Incurrir en faltas de probidad u honradez, o en actos de violencia, amagos, injurias o malos tratos, en contra de sus superiores jerárquicos o compañeros, o contra los familiares de unos u otros, ya sea dentro o fuera de las horas de servicio;
+
+X. Desobedecer sin causa justificada una orden recibida de un superior jerárquico emitida conforme a derecho;
+
+XI. Revelar información relativa a la Secretaría, a su funcionamiento, dispositivos de seguridad o armamento, y en general todo aquello que afecte directamente la seguridad de la institución o la integridad física de cualquier persona;
+
+XII. Destruir, sustraer, ocultar, traspapelar o proporcionar a un tercero intencionalmente, documentos o expedientes de la Secretaría, así como retenerlos o no proporcionar información relacionada con su función cuando se le solicite;
+
+XIII. Sustraer, ocultar o proporcionar a un tercero intencionalmente material, vestuario, equipo, y en general todo aquello propiedad de la Secretaría, de sus compañeros y demás personal de la institución;
+
+XIV. Causar intencionalmente daño o destrucción de material, herramientas, vestuario, equipo, y en general todo aquello propiedad de la Secretaría, de sus compañeros y demás personal de la misma;
+
+XV. Hacer acusaciones de hechos que no pudiera comprobar, en contra de sus superiores jerárquicos, de sus compañeros y demás personal de la Secretaría;
+
+XVI. Manifestar públicamente su inconformidad contra las políticas de la Secretaría;
+
+XVII. Ejercer o facilitar a otros integrantes las funciones fuera del horario en que debe prestar su servicio;
+
+XVIII. Dormirse durante su servicio, afectando directamente a la seguridad de la Secretaría, colocando en situación de riesgo a la integridad física de cualquier persona o cuando esté bajo su responsabilidad la custodia de una persona detenida, sujeta a prisión preventiva o en cumplimiento de una pena de prisión; y,
+
+XIX. Poner en riesgo, por negligencia o imprudencia, la seguridad de la Secretaría y la vida de las personas.
+
+###### Artículo 73.
+
+El personal integrante de la Policía Estatal Preventiva que deje de cumplir con cualquiera de los requisitos de ingreso y permanencia señalados en este Reglamento o en otras disposiciones normativas aplicables, será removido sin que proceda su reinstalación y sin indemnización alguna.
+
+###### Artículo 74.
+
+El personal integrante de la Policía Estatal Preventiva, tendrá derecho de iniciar y realizar la carrera de policía y a obtener ascensos y, no podrá ser privado del derecho de permanecer en el empleo respectivo, salvo en los casos y mediante el procedimiento previsto en este Reglamento.
+
+###### Artículo 75.
+
+La promoción, es el acto mediante el cual se otorga al personal integrante de la Policía Estatal Preventiva, el grado inmediato superior al que ostenten, dentro del orden jerárquico y categorías previstas en los artículos 141, 143, 144, 145 y 146 de la ley.
+
+Las promociones sólo podrán conferirse cuando exista una vacante, previo cumplimiento de los requisitos establecidos por esta ley y las demás disposiciones legales aplicables. Al personal que sea promovido le será expedida la constancia correspondiente a su nuevo grado.
+
+No podrá promoverse a la persona a un grado distinto al inmediato superior, deberá en todo caso permanecer al menos 1 año en el grado para poder concursar al siguiente, siempre y cuando exista la disponibilidad de la plaza y cumplan con los requisitos establecidos en el artículo 151 de la ley.
+
+Para ocupar un grado dentro de la Policía Estatal Preventiva, se deberán reunir los requisitos establecidos por la ley y las disposiciones establecidas en este Reglamento.
+
+Conforme al artículo 126 de la ley, en casos excepcionales, el Secretario, a propuesta del Consejo y en atención a la respectiva hoja de servicios, determinará la promoción del elemento policial a la jerarquía inmediata superior.
+
+###### Artículo 76.
+
+Los ascensos se concederán tomando en cuenta factores de escalafón tales como: eficiencia y acción relevante en el servicio, preparación, antigüedad y los demás que determinen las disposiciones respectivas.
+
+Estos factores de escalafón invariablemente deberán ser revisados, cuando las necesidades del servicio lo requieran, por las autoridades correspondientes, quienes autorizarán los ascensos correspondientes.
+
+La permanencia en cada categoría y jerarquía será la señalada en el Capítulo XVI de este Reglamento, por lo que al término de la permanencia máxima si no ha sido promovida la persona al grado inmediato superior, se deberá justificar plenamente su permanencia en el grado que ostenta, debiendo tomar conocimiento la Comisión de Honor y Justicia para que determine lo conducente conforme a los ordenamientos legales aplicables.
+
+###### Artículo 77.
+
+Las promociones se llevarán a cabo con base a la disponibilidad de plazas o cuando se creen nuevas de conformidad a la planeación del Servicio Profesional de Carrera Policial, será mediante convocatoria abierta que emita el Instituto, bajo las bases mínimas siguientes:
+
+I. Contar con la escolaridad correspondiente a la jerarquía o categoría de ascenso;
+
+II. Haber cumplido con los cursos de formación inicial, continua y especializada que correspondan al grado que ostenta al momento de la promoción;
+
+III. Cumplir con la antigüedad en el servicio para acceder al grado inmediato superior;
+
+IV. Contar con un Kardex limpio;
+
+V. Estar dentro del rango de edad para el ingreso al grado inmediato superior;
+
+VI. Contar con su Certificado Único vigente al momento de la promoción;
+
+VII. Aprobar el curso de inducción para el grado inmediato superior;
+
+VIII. Lo señalado en el artículo 154 fracción VI, de la ley; y,
+
+IX. Las demás que se establezcan en la convocatoria respectiva.
+
+Para el otorgamiento del grado inmediato superior se tomará en cuenta lo señalado en el artículo 154 fracción VII de la ley, las más altas calificaciones obtenidas por el cursante en los procesos de formación inicial, continua y especializada, así como la calificación obtenida en el curso de inducción al grado inmediato superior y al análisis favorable de su Kardex.
+
+###### Artículo 78.
+
+Para garantizar la transparencia del proceso de promoción se deberá sujetar a lo establecido en el Reglamento de la Comisión de Honor y Justicia, quien verificará en todo momento el cumplimiento de los requisitos señalados en este Reglamento y demás normas aplicables.
+
+###### Artículo 79.
+
+La Comisión de Honor y Justicia será competente para conocer la separación del servicio, cuando el policía hubiese sido convocado a tres procesos consecutivos de promoción sin que haya participado o habiendo participado, no hubiese obtenido la jerarquía inmediata superior por causas imputables a él.
+
+###### Artículo 80.
+
+Para efectos del establecimiento de la antigüedad, se estará a lo dispuesto en el artículo 165 de la ley.
+
+### CAPÍTULO XVII. DE LOS RECONOCIMIENTOS, ESTÍMULOS Y RECOMPENSAS
+
+###### Artículo 81.
+
+El personal integrante de la Policía Estatal Preventiva contemplado en la ley, podrá obtener condecoraciones, incentivos y estímulos.
+
+###### Artículo 82.
+
+El personal integrante de la Policía Estatal Preventiva tendrá derecho a las siguientes condecoraciones:
+
+I. Al valor policial;
+
+II. A la perseverancia; y,
+
+III. Al mérito.
+
+En cada caso, se otorgará un estímulo económico adicional, ajustándose a la disponibilidad presupuestal del caso.
+
+###### Artículo 83.
+
+La Condecoración al Valor Policial consiste en medalla y diploma, se conferirá a quienes salven la vida de una o varias personas o realicen las funciones encomendadas por la ley con grave riesgo para su vida o su salud.
+
+###### Artículo 84.
+
+La Condecoración a la Perseverancia consistente en medalla y diploma, se otorgará al personal que haya mantenido un expediente ejemplar y cumpla 10, 15, 20, 25 y 30 años de servicio en la corporación.
+
+###### Artículo 85.
+
+La Condecoración al Mérito se conferirá al personal de la Policía Estatal Preventiva, en los casos siguientes:
+
+I. Al Mérito Académico: Cuando en base al compromiso institucional y personal, logren acreditar nivel académico;
+
+II. Al Mérito Tecnológico: Cuando se invente, diseñe o mejore algún instrumento, aparato, sistema o método de utilidad para la Secretaría o para el país;
+
+III. Al Mérito Ejemplar: Cuando se sobresalga en alguna disciplina científica, cultural, artística o deportiva que enaltezca el prestigio y la dignidad de la policía; y,
+
+IV. Al Mérito Social: Cuando se distinga particularmente en la prestación de servicios en favor de la comunidad que mejoren la imagen de la Secretaría.
+
+###### Artículo 86.
+
+Las características de las condecoraciones y el procedimiento para su otorgamiento serán establecidos en el Reglamento de la Comisión de Honor y Justicia.
+
+###### Artículo 87.
+
+El personal que haya recibido alguna de las condecoraciones, tendrá derecho a participar en el proceso de insaculación, para formar parte de la Comisión de Honor y Justicia.
+
+###### Artículo 88.
+
+Los estímulos y recompensas se ajustarán a lo establecido en el Presupuesto de Egresos y se otorgarán al personal que se haya distinguido por su asistencia, puntualidad, buena conducta, antigüedad, disposición y eficacia en el desempeño de sus funciones y de conformidad a lo establecido en el Reglamento del Consejo de Honor y Justicia.
+
+### CAPÍTULO XVIII. DE LA CONCLUSIÓN DEL SERVICIO
+
+###### Artículo 89.
+
+Es el procedimiento mediante el cual se da por concluido el servicio del policía, dando lugar a la terminación de su nombramiento o la cesación de sus efectos legales.
+
+###### Artículo 90.
+
+La conclusión del servicio, puede darse por las causas siguientes:
+
+I. Separación: Es el incumplimiento a cualquiera de los requisitos de permanencia o cuando en la promoción se presenten las siguientes causas:
+
+a) Remoción: Por incurrir en responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario; y,
+
+b) Baja: Es el acto administrativo que da por concluido el servicio activo del policía por cualquiera de las causas siguientes:
+
+1. Jubilación o retiro;
+
+2. Renuncia; y,
+
+3. Muerte o incapacidad permanente.
+
+### CAPÍTULO XIX. DE LA DISCIPLINA Y JUSTICIA POLICIAL ASPECTOS GENERALES
+
+###### Artículo 91.
+
+Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, el personal integrante de la Policía Estatal Preventiva se sujetará a las obligaciones que se establecen en la ley y demás normatividad jurídica aplicable.
+
+###### Artículo 92.
+
+La disciplina comprende el aprecio de sí mismo, la pulcritud, los buenos modales, el rechazo a los vicios, la puntualidad en el servicio, la exactitud en la obediencia, el escrupuloso respeto a las leyes y reglamentos, así como a los derechos humanos.
+
+La disciplina es la base del funcionamiento y organización de la Policía Estatal Preventiva, por lo que sus integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética.
+
+La disciplina demanda respeto y consideración mutua entre quien ostente un mando y sus subordinados.
+
+###### Artículo 93.
+
+La Secretaría exigirá de sus integrantes el más estricto cumplimiento del deber, a efecto de salvaguardar la integridad y los derechos de las personas, prevenir la comisión de delitos, y preservar las libertades, el orden y la paz pública.
+
+###### Artículo 94.
+
+El régimen disciplinario se ajustará a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, la ley y demás normatividad y ordenamientos legales aplicables y comprenderá los deberes, las correcciones disciplinarias, las sanciones y los procedimientos para su aplicación.
+
+### CAPÍTULO XX. DE LAS SANCIONES
+
+###### Artículo 95.
+
+La aplicación de las sanciones deberá registrarse en el expediente personal del infractor.
+
+La imposición de las sanciones que determinen las autoridades correspondientes se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurra el personal de la Policía Estatal Preventiva, de conformidad con la legislación aplicable.
+
+###### Artículo 96.
+
+Las sanciones aplicables al personal de la Policía Estatal Preventiva por el incumplimiento a alguno de los deberes y en atención a la gravedad de la falta, serán las siguientes:
+
+I. Apercibimiento;
+
+II. Amonestación: mediante la cual, el superior advierte la omisión o falta en el cumplimiento de sus funciones al personal operativo, conminándolo a corregirse; la que será por escrito;
+
+III. Arresto hasta por treinta y seis horas, sin perjuicio del servicio, por faltas graves o por haber acumulado cinco amonestaciones en un año calendario, deberá ordenarse por escrito, especificando motivo y duración del mismo;
+
+IV. Cambio de adscripción;
+
+V. Suspensión temporal de funciones y sueldo; y,
+
+VI. Remoción, entendiéndose por ésta la terminación de los efectos del nombramiento o cese.
+
+### CAPÍTULO XXI. DE LOS CRITERIOS PARA LA IMPOSICIÓN
+
+###### Artículo 97.
+
+Para graduar con equidad la imposición de las sanciones se tomará en consideración los factores siguientes:
+
+I. Gravedad de la infracción;
+
+II. Daños causados a la Institución;
+
+III. Daños infligidos a la ciudadanía;
+
+IV. Antecedentes personales del servicio;
+
+V. Condiciones socioeconómicas del infractor;
+
+VI. Cargo, comisión, categoría jerárquica y antigüedad;
+
+VII. Conducta observada con anterioridad al hecho;
+
+VIII. Circunstancias de ejecución;
+
+IX. Dolo o culpa;
+
+X. Perjuicios originados al servicio;
+
+XI. Daños producidos a otros integrantes;
+
+XII. Daños causados al material y equipo;
+
+XIII. La reincidencia en su comisión; y,
+
+XIV. Grado de instrucción del presunto infractor.
+
+### CAPÍTULO XXII. DE LOS ÓRGANOS DE ADMINISTRACIÓN DE JUSTICIA POLICIAL
+
+###### Artículo 98.
+
+La Secretaría, a fin de lograr el pleno cumplimiento de los principios de legalidad, eficiencia, profesionalismo y honradez del personal de la Policía Estatal Preventiva, contará con los siguientes Órganos de Administración de Justicia Policial:
+
+I. La Comisión de Honor y Justicia; y,
+
+II. La Unidad de Control y Evaluación.
+
+###### Artículo 99.
+
+La Comisión de Honor y Justicia se integrará con lo señalado en la ley.
+
+###### Artículo 100.
+
+La Unidad de Control y Evaluación de la Secretaría, será la encargada de investigar y en su caso, de supervisar el control disciplinario del personal en activo de la Policía Estatal Preventiva, debiendo presentar ante la Comisión de Honor y Justicia los expedientes del personal que haya incurrido en conductas adversas a la mística de servicio que debe regir la institución, incluso de aquellos que hayan sobrepasado la tolerancia con respecto a correctivos disciplinarios y las causas de ellos, conforme al reglamento respectivo.
+
+### CAPÍTULO XXIII. DEL PROCEDIMIENTO DISCIPLINARIO
+
+###### Artículo 101.
+
+El procedimiento disciplinario se llevará por la Comisión de Honor y Justicia y la Unidad de Control y Evaluación de la Secretaría.
+
+###### Artículo 102.
+
+El procedimiento disciplinario se iniciará por solicitud fundada y motivada del titular de la Unidad de Control y Evaluación, encargada de los asuntos, dirigida a la Comisión de Honor y Justicia de la Secretaría, remitiendo para tal efecto el expediente del presunto infractor y el proyecto de resolución del procedimiento para su aprobación.
+
+Los procedimientos a que se refiere el párrafo anterior, deberán realizarse con estricto apego a las disposiciones legales aplicables y observarán en todo momento las formalidades esenciales del procedimiento.
+
+###### Artículo 103.
+
+Las responsabilidades administrativas, civiles y penales en que incurra el personal de la Policía Estatal Preventiva, por incumplimiento a las disposiciones de la ley, serán determinadas y sancionadas conforme a las disposiciones legales aplicables, por las autoridades competentes.
+
+###### Artículo 104.
+
+El procedimiento administrativo disciplinario, será el que determine el Reglamento respectivo, en todo caso, deberá observar las formalidades que para los procedimientos administrativos iniciados establece el Código de Justicia Administrativa del Estado de Michoacán de Ocampo.
+
+###### Artículo 105.
+
+Las medidas disciplinarias para el integrante de la Policía Estatal Preventiva, podrán ser aplicadas por los mandos superiores, la Unidad de Control y Evaluación y la Comisión de Honor y Justicia que correspondan.
+
+### CAPÍTULO XXIV. DEL SISTEMA COMPLEMENTARIO DE SEGURIDAD SOCIAL ASPECTOS GENERALES
+
+###### Artículo 106.
+
+El sistema complementario de prestaciones sociales, busca fortalecer la prestación de servicios de protección de riesgos de salud, sociales y laborales a favor del personal integrante de la Policía Estatal Preventiva del Estado de Michoacán.
+
+###### Artículo 107.
+
+El Estado garantiza al menos las prestaciones sociales previstas en la ley que comprende:
+
+I. Fortalecimiento de seguro de vida e incapacidad;
+
+II. Créditos hipotecarios y de corto plazo;
+
+III. Sistemas de seguros educativos y similares para dependientes de los servidores públicos que fallezcan o que recaigan en incapacidad total o permanente, ello en cumplimiento de sus funciones;
+
+IV. Servicio médico integral;
+
+V. Fondos de ahorro;
+
+VI. Becas educativas; y,
+
+VII. Pago de defunción y, en su caso, ayuda económica a los dependientes de los caídos en servicio. El Estado y los municipios, según corresponda, serán los obligados a otorgar estas prestaciones al personal integrante de las instituciones policiales.
+
+## ARTÍCULOS TRANSITORIOS
+
+Artículo Primero. El Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. De manera progresiva y en un plazo de noventa días, a partir de la entrada en vigor de este Reglamento, los servidores públicos que obtengan el certificado y que satisfagan los requisitos de ingreso y permanencia que establece la Ley General del Sistema Nacional de Seguridad Pública y la ley, ingresarán o serán homologados al servicio civil de carrera, según corresponda en la jerarquía y grado, así como antigüedad y derechos que resulten aplicables, de conformidad al presente Reglamento.
+
+Morelia, Michoacán, a 17 de marzo de 2011.
+
+A T E N T A M E N T E
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+LEONEL GODOY RANGEL
+
+(Firmado)
+
+EL SECRETARIO DE GOBIERNO
+
+FIDEL CALDERÓN TORREBLANCA
+
+(Firmado)
+
+LA SECRETARIA DE FINANZAS Y ADMINISTRACIÓN
+
+MIRELLA GUZMÁN ROSAS
+
+(Firmado)
+
+EL SECRETARIO DE SEGURIDAD PÚBLICA
+
+MANUEL GARCÍA RUIZ
+
+(Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE OCTUBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SERVICIO DE CARRERA POLICIAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento del Servicio Profesional de Carrera Policial del Estado de Michoacán de Ocampo, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha el (sic) 13 de abril de 2011, tomo CLI, cuarta sección, número 47, y se dejan sin efecto las demás disposiciones de carácter administrativo en lo que se opongan al presente Reglamento.
