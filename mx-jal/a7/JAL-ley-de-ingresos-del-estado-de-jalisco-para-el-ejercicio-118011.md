@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-118011"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2016-12-22"
-last_updated: "2016-12-22"
+last_updated: "2017-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "JAL"
 
 > <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL TRANSITORIO PRIMERO DEL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL 1 DE ENERO DE 2017.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE JALISCO, PARA EL EJERCICIO FISCAL 2017
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 5 DE ENERO DE 2017 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 26259/LXI/16 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2016.]</small>
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 22 de diciembre de 2016.
 
