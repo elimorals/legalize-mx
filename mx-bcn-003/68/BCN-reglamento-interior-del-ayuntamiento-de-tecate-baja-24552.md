@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-ayuntamiento-de-tecate-baja-24552"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-01"
-last_updated: "2016-12-09"
+last_updated: "2017-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 6 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 1 de febrero de 2001.
 
@@ -1381,7 +1383,7 @@ C. LIC. ROBERTO RODRÍGUEZ VALENZUELA
 
 SECRETARIO MUNICIPAL
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 2 DE SEPTIEMBRE DE 2005.
 
@@ -1452,3 +1454,19 @@ Cuarto.- La Junta de Gobierno dentro de los 60 días posteriores a la entrada en
 Quinto.- La Administración Pública del Municipio de Tecate por conducto del Presidente Municipal tomará las medidas conducentes con la finalidad de que el SITMUN cuente con los recursos humanos, materiales y financieros que sean necesarios para el inicio de sus actividades.
 
 Sexto: Se derogan todas y cada una de las disposiciones Normativas y Reglamentarias derivadas de Acuerdos y Reglamentos que se opongan a las presentes disposiciones legales.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA INICIATIVA DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE TECATE, BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Baja California.
+
+SEGUNDO.- A partir de la fecha de inicio de vigencia del presente ordenamiento, queda abrogado el Reglamento Interior del Ayuntamiento de Tecate, Baja California, publicado en el Periódico Oficial del Estado No. 5, de fecha 01 de febrero de 2002, Tomo CIX.
+
+Quedan igualmente derogados los acuerdos de cabildo y demás disposiciones que se opongan a lo previsto en el presente Reglamento.
+
+TERCERO.- En un término no mayor de treinta días siguientes a la entrada en vigor del presente Reglamento, el Ayuntamiento emitirá el acuerdo por el que se conformen las nuevas Comisiones del Ayuntamiento.
+
+Entre tanto, las que se hubieren conformado y estuvieren funcionando con anterioridad al inicio de vigencia del presente ordenamiento, subsistirán y resolverán los asuntos que tengan pendientes de conformidad con las disposiciones vigentes en la fecha que se iniciaron. Al momento de conformarse las nuevas comisiones, recibirán los asuntos que se encuentren pendientes de resolver, según la materia que corresponda.
