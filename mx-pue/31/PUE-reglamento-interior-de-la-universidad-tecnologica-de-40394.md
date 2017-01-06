@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-universidad-tecnologica-de-40394"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-07-14"
-last_updated: "2004-07-14"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE HUEJOTZINGO
 
-REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLOGICA DE HUEJOTZINGO
+REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE HUEJOTZINGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 14 de julio de 2004.
 
@@ -31,7 +31,9 @@ ACUERDO del Consejo Directivo de la Universidad Tecnológica de Huejotzingo, que
 
 Al margen un logotipo del Instituto que dice: UTH.
 
-CONSIDERANDO.
+CONSIDERANDO
+
+[...]
 
 En mérito de lo anteriormente expuesto y con fundamento en lo que dispone el artículo 45 de Ley Orgánica de la Administración Pública del Estado de Puebla y en ejercicio de las facultades que le confiere al Consejo Directivo en el artículo 9 fracciones III y IV del Decreto que crea a la Universidad Tecnológica de Huejotzingo, tiene a bien expedir el siguiente:
 
@@ -81,6 +83,10 @@ c. Secretaría Académica:
 
 I) Direcciones de División de Carrera.
 
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+II) Dirección de Área de Idiomas
+
 d. Secretaría de Vinculación;
 
 e. Dirección de Extensión Universitaria;
@@ -91,9 +97,9 @@ g. Subdirección de Planeación y Evaluación;
 
 h. Subdirección de Servicios Escolares;
 
-i. Subdirección de Divulgación y Difusión Universitaria; y
+i. (DEROGADO, P.O. 6 DE ENERO DE 2017), y
 
-j. Subdirección de Servicios Administrativos.
+j. (DEROGADO, P.O. 6 DE ENERO DE 2017)
 
 Los demás servidores públicos adscritos a la estructura administrativa de la Universidad, cualquiera que sea el cargo que ostenten, realizarán las funciones que les correspondan en términos de los respectivos manuales de organización, de procedimientos, de servicios al público y las que les asignen o encomienden el Consejo, Rector, o el superior jerárquico del cual dependan, debiendo coordinar y supervisar directamente los trabajos del personal que les esté subordinado o forme parte del área de la cual sea responsable, de acuerdo con la normatividad aplicable y la disponibilidad presupuestal correspondiente.
 
@@ -163,13 +169,19 @@ VIII.- Acordar con el Rector, como consecuencia de las violaciones de los reglam
 
 IX.- Requerir, previo acuerdo del Rector, a los Secretarios, Directores, Subdirectores, Jefes de Departamento o a cualquier personal de la Universidad, para que comparezca personalmente al desahogo de diligencias administrativas o rinda informes por escrito y, en su caso, aplicar las sanciones que procedan de conformidad con los ordenamientos internos aplicables;
 
-X.- Tramitar, por instrucciones del Rector, ante la Secretaría de Gobernación, las disposiciones reglamentarias de la Universidad que deban ser publicadas en el Periódico Oficial del Estado, así como difundir los acuerdos del Rector, que no se divulguen por este medio;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+X.- Tramitar, por instrucciones del Rector, ante la Secretaría General de Gobierno, las disposiciones reglamentarias de la Universidad que deban ser publicadas en el Periódico Oficial del Estado, así como difundir los acuerdos del Rector, que no se divulguen por este medio;
 
 XI.- Intervenir, en los casos que determine el Rector y en el ámbito de su competencia, en los actos de entrega-recepción de las distintas áreas administrativas de la Universidad;
 
-XII.- Coadyuvar con la Dirección de Administración y Finanzas, en la formulación de las actas administrativas que con motivo de los actos de los servidores públicos adscritos a la Universidad deban suscribirse, remitiéndolas, cuando sea procedente, a la Delegación de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, para los efectos legales correspondientes;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-XIII.- Formar parte del Comité de Adquisiciones, Arrendamientos y Servicios, en el ámbito de su competencia;
+XII.- Coadyuvar con la Dirección de Administración y Finanzas, en la formulación de las actas administrativas que con motivo de los actos de los servidores públicos adscritos a la Universidad deban suscribirse, remitiéndolas, cuando sea procedente, a la Secretaría de la Contraloría, para los efectos legales correspondientes;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XIII.- Formar parte del Comité Interno de Adquisiciones, Arrendamientos y Servicios, en el ámbito de su competencia;
 
 XIV.- Realizar los trámites que sean necesarios para el registro legal de patentes y derechos de autor que tenga la Universidad, manteniendo informado al Rector sobre el desarrollo de dichas actividades;
 
@@ -177,9 +189,17 @@ XV.- Instrumentar, en el ámbito de su competencia, mecanismos para allegarse de
 
 Universidad, dándola a conocer, de ser procedente, a las instancias correspondientes para los efectos a que haya lugar;
 
-XVI.- Coadyuvar, en coordinación con las áreas administrativas correspondientes y en el ámbito de su competencia, con la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública y el Órgano Superior de Fiscalización, en los asuntos relacionados con la Universidad; y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-XVII.- Las demás atribuciones que le encomiende o le delegue el Órgano de Gobierno, el Rector, así como las que le confiera expresamente la normatividad aplicable.
+XVI.- Coadyuvar, en coordinación con las unidades administrativas correspondientes y en el ámbito de su competencia, con la Secretaría de la Contraloría y la Auditoría Superior del Estado, en los asuntos relacionados con la Universidad; y
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XVII.- Colaborar con la Dirección de Administración y Finanzas en la elaboración y actualización de los manuales administrativos de la Universidad y verificar su cumplimiento y difusión;
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XVIII.- Las demás atribuciones que le encomiende o le delegue el órgano de Gobierno, el Rector, así como las que le confiera expresamente la normatividad aplicable.
 
 ### CAPÍTULO IV. DE LA CONTRALORÍA INTERNA
 
@@ -187,7 +207,7 @@ XVII.- Las demás atribuciones que le encomiende o le delegue el Órgano de Gobi
 
 La Contraloría Interna, dependerá directamente del Rector y le corresponden las siguientes atribuciones:
 
-I.- Apoyar a las distintas áreas administrativas de la Universidad, para que solventen las observaciones y recomendaciones. producto de auditorías, revisiones, inspecciones o evaluaciones practicadas por otras instancias fiscalizadoras, con la finalidad de corregir sus deficiencias;
+I.- Apoyar a las distintas áreas administrativas de la Universidad, para que solventen las observaciones y recomendaciones, producto de auditorías, revisiones, inspecciones o evaluaciones practicadas por otras instancias fiscalizadoras, con la finalidad de corregir sus deficiencias;
 
 II.- Recopilar resultados de los indicadores de efectividad, eficiencia y de gestión, generados por las áreas administrativas, sistemas y procesos operativos, a fin de proponer al Rector las acciones que permitan determinar la eficacia de los controles y su congruencia con los objetivos y metas de la Universidad;
 
@@ -221,9 +241,17 @@ IX.- Proponer al Rector el ingreso, licencias, promoción, remoción y rescisió
 
 X.- Cumplir y hacer cumplir los acuerdos del Rector, en el ejercicio de sus funciones;
 
-XI.- Intervenir en la elaboración de los manuales, presupuestos, programas, normas, lineamientos y proyectos de la Universidad, en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-XII.- Las demás atribuciones que le encomiende o le delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
+XI.- Intervenir en la elaboración de los presupuestos, programas, normas, lineamientos y proyectos de la Universidad, en el ámbito de su competencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE ENERO DE 2017)</small>
+
+XII.- Elaborar los manuales de organización, procedimientos y de servicios de la unidad administrativa a su cargo y someterlos a consideración del Director General a través de la Dirección de Administración y Finanzas, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE ENERO DE 2017)</small>
+
+XIII.- Las demás atribuciones que le encomiende o le delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
 
 ### CAPÍTULO VI. DE LA SECRETARÍA ACADÉMICA
 
@@ -253,9 +281,13 @@ X.- Sugerir al Rector, la celebración de convenios que permitan desarrollar los
 
 XI.- Presentar al Rector, propuestas para la ampliación y mejoramiento de espacios físicos y de los servicios educativos de la Universidad, en función al crecimiento de la demanda, y de conformidad con la disponibilidad presupuestal;
 
-XII.- Tramitar, con el apoyo de las áreas administrativas competentes, la titulación de los egresados de la Universidad; y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-XIII.- Las demás atribuciones que le encomiende o le delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
+XII.- Tramitar, con el apoyo de las áreas administrativas competentes, la titulación de los egresados de la Universidad, y
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XIII.- Revisar y proponer al Rector la actualización de programas académicos y de enseñanza-aprendizaje de los idiomas extranjeros.
 
 ### CAPÍTULO VII. DE LA SECRETARÍA DE VINCULACIÓN
 
@@ -277,11 +309,15 @@ VI.- Planear y ejecutar programas de seguimiento de egresados y promover su colo
 
 VII.- Establecer con el sector empresarial, los mecanismos mediante los cuales se proporcionen asesorías permanentes de actualización en el desarrollo de tecnologías industriales, a fin de acrecentar los conocimientos de los estudiantes y el personal académico;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE ENERO DE 2017)</small>
+
 VIII.- Organizar y dirigir las actividades culturales, recreativas y deportivas que deba realizar la Universidad;
 
-IX.- Establecer relaciones con instituciones de los sectores sociales, públicos y privados para apoyar coordinadamente la realización de actividades académicas, culturales y recreativas en la Universidad; y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-X.- Las demás atribuciones que le encomiende o le delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
+IX.- Establecer relaciones con instituciones de los sectores sociales, públicos y privados para apoyar coordinadamente la realización de actividades académicas, culturales y recreativas en la Universidad, y
+
+X.- (DEROGADA, P.O. 6 DE ENERO DE 2017)
 
 ### CAPÍTULO VIII. DE LAS DIRECCIONES
 
@@ -303,31 +339,77 @@ VI.- Supervisar que el personal adscrito a su Dirección, cumpla debidamente las
 
 VII.- Coordinar sus actividades con los titulares de las áreas administrativas de la universidad, para el mejor desempeño de sus funciones;
 
-VIII.- Acordar con el superior jerárquico que corresponda, el ingreso, licencias, promoción, remoción, o rescisión del personal del área a su cargo; y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-IX.- Las demás atribuciones que le encomiende o le delegue el Rector o su superior jerárquico, así como las demás (sic)
+VIII.- Acordar con el superior jerárquico que corresponda, el ingreso, licencias, promoción, remoción, o rescisión del personal del área a su cargo;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+IX.- Participar en representación de la Universidad, en todas aquellas comisiones asignadas, y
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2017)</small>
+
+X.- Las demás atribuciones que le encomiende o le delegue el Rector o su superior jerárquico, así como las demás que expresamente le confiera la normatividad aplicable.
 
 ### CAPÍTULO IX. DE LAS DIRECCIONES DE DIVISIÓN DE CARRERA
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 13.
 
-Los Directores de División de Carrera, dependerán directamente de la Secretaría Académica, correspondiéndole, además de las facultades establecidas en el artículo 12 del presente Reglamento, las siguientes:
+Al frente de cada una de las Direcciones de División de Carrera, estará un titular, quien dependerá jerárquicamente de la Secretaría Académica, correspondiéndole, además de las atribuciones establecidas en el artículo 12 del presente Reglamento, las siguientes:
 
-I.- Asegurar el cumplimiento del modelo académico de la Universidad, del área a su cargo;
+I.- Vigilar se dé cumplimiento al modelo académico de la Universidad, del área de conocimiento a su cargo;
 
 II.- Mantener actualizado el programa académico del área a su cargo;
 
-III.- Elaborar y someter a la consideración del superior jerárquico, proyectos y estudios que propicien el mejoramiento y desarrollo académico y técnico de la Universidad;
+III.- Diseñar y someter a la consideración del superior jerárquico, proyectos y estudios que propicien el mejoramiento y desarrollo académico y técnico de la Universidad;
 
 IV.- Conducir la investigación educativa para sustentar el desarrollo de las actividades académicas de la Universidad;
 
-V.- Proponer a su superior jerárquico, las normas que regulen el proceso educativo inherente al área a su cargo; y
+V.- Proponer a su superior jerárquico, las normas que regulen el proceso educativo inherente al área a su cargo;
 
-VI.- Las demás atribuciones que le encomiende su superior jerárquico, así como las que le confiera expresamente la normatividad aplicable.
+VI.- Realizar estudios sobre las causas del ausentismo, deserción y reprobación de alumnos en el proceso de enseñanza - aprendizaje del idioma extranjero, con la finalidad de implementar acciones para disminuirlos;
+
+VII.- Proponer a su superior jerárquico, la utilización de tecnologías de la información aplicadas al método de enseñanza aprendizaje;
+
+VIII.- Participar en la selección y evaluación del personal académico, y
+
+IX.- Elaborar los Manuales de Organización, Procedimientos y Servicios que correspondan a la unidad administrativa a su cargo, en coordinación con la Dirección de Administración y Finanzas y el Abogado General.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE ENERO DE 2017)</small>
+
+### CAPÍTULO IX BIS. DE LA DIRECCIÓN DE ÁREA DE IDIOMAS
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+ARTÍCULO 13 BIS.- Al frente de la Dirección de Área de Idiomas estará un titular, quien dependerá jerárquicamente de la Secretaría Académica, correspondiéndole, además de las atribuciones establecidas en el artículo 12 del presente Reglamento, las siguientes:
+
+I.- Supervisar se cumpla con los contenidos educativos de idiomas en los programas de la Universidad;
+
+II.- Elaborar y someter a la consideración del superior jerárquico, proyectos y estudios que propicien el mejoramiento y desarrollo académico del área de idiomas de la Universidad.
+
+III.- Vigilar el uso adecuado de los laboratorios de Idiomas;
+
+IV.- Proponer a la Secretaría Académica, las necesidades de capacitación, actualización y desarrollo del personal del área de idiomas;
+
+V.- Participar en la Comisión Dictaminadora de selección y evaluación de personal académico de nuevo ingreso al área de idiomas;
+
+VI.- Apoyar a la Dirección de Extensión Universitaria con actividades académicas en el Programa Permanente de Captación de Alumnos;
+
+VII.- Supervisar el desarrollo del proceso (sic) enseñanza y aprendizaje de los programas de idiomas;
+
+VIII.- Realizar estudios sobre las causas del ausentismo, deserción y reprobación de alumnos en el proceso de enseñanza - aprendizaje del idioma extranjero, con la finalidad de implementar acciones para disminuirlos;
+
+IX.- Investigar en el sector privado e instituciones nacionales y extranjeras sobre equipos, métodos y material de apoyo a la enseñanza, publicaciones y nuevas tecnologías aplicables al área de enseñanza - aprendizaje del idioma extranjero;
+
+X.- Mantener en coordinación con la Subdirección de Servicios Escolares, la actualización del material de enseñanza y apoyo en el aprendizaje relacionados con el área de Idiomas;
+
+XI.- Llevar a cabo la actualización de contenidos del programa de enseñanza-aprendizaje de los idiomas extranjeros, y
+
+XII.- Elaborar los Manuales de Organización, Procedimientos y Servicios de la unidad administrativa a su cargo, en coordinación con la Dirección de Administración y Finanzas y el Abogado General.
 
 ### CAPÍTULO X. DE LA DIRECCIÓN DE EXTENSIÓN UNIVERSITARIA
-
-### CAPÍTULO XI. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS
 
 ###### ARTÍCULO 14.
 
@@ -341,11 +423,35 @@ III.- Planear, organizar, dirigir, integrar y controlar las actividades de fomen
 
 IV.- Establecer los lineamientos por medio de los cuales se den a conocer al estudiante los servicios que se prestan en la Universidad, con apoyo de medios informativos, así como la proyección de las actividades en la comunidad universitaria;
 
-V.- Plantear al Rector, todos los objetivos, políticas, procedimientos, programas, planes y estrategias de los programas culturales, artísticos, deportivos y de fomento a la salud; y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-VI.- Las demás atribuciones que le encomiende o le delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
+V.- Plantear al Rector, todos los objetivos, políticas, procedimientos, programas, planes y estrategias de los programas culturales, artísticos, deportivos y de fomento a la salud;
 
-### CAPÍTULO XII. DE LAS SUBDIRECCIONES
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+VI.- Coordinar la edición y distribución de las publicaciones periódicas y extraordinarias de carácter informativo de la Universidad;
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2017)</small>
+
+VII.- Generar y promover las actividades de difusión de las actividades desarrolladas por las unidades administrativas de la Universidad;
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2017)</small>
+
+VIII.- Promover la comunicación de interés entre la comunidad universitaria;
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2017)</small>
+
+IX.- Elaborar las políticas editoriales institucionales de la Universidad;
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2017)</small>
+
+X.- Elaborar los Manuales de Organización, Procedimientos y Servicios de la unidad administrativa a su cargo, en coordinación con la Dirección de Administración y Finanzas, y
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XI.- Ampliar los canales de comunicación al exterior de la Universidad con la Dirección de Administración y Finanzas y el Abogado General.
+
+### CAPÍTULO XI. DE LA DIRECCIÓN DE ADMINISTRACIÓN Y FINANZAS
 
 ###### ARTÍCULO 15.
 
@@ -375,7 +481,9 @@ XI.- Evaluar la correcta aplicación del presupuesto en las áreas administrativ
 
 XII.- Diseñar e instrumentar sistemas de control presupuestal y contabilidad de las operaciones de la Universidad;
 
-XIII.- Realizar el registro y control de los bienes muebles e inmuebles, que conformen el patrimonio de la Universidad;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XIII.- Realizar el registro y control de los bienes muebles e inmuebles, que conformen el patrimonio de la Universidad; así como coordinar las actividades de mantenimiento preventivo y correctivo de tales bienes;
 
 XIV. Establecer los canales de comunicación y coordinación que deberán observar las áreas administrativas a su cargo, en el desarrollo de las actividades encomendadas;
 
@@ -393,11 +501,31 @@ XX.- Coordinar, en términos de la normatividad aplicable, la elaboración del P
 
 XXI.- Analizar, y en su caso, gestionar las modificaciones presupuestales que proceda aplicar;
 
-XXII.- Participar en la determinación de los costos de operación de los programas que atienda la Universidad; y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-XXIII.- Las demás atribuciones que le encomiende o le delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
+XXII.- Participar en la determinación de los costos de operación de los programas que atienda la Universidad;
 
-### CAPÍTULO XIII. DE LA SUBDIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XXIII.- Proporcionar a las diversas áreas administrativas de la Universidad de los recursos materiales y humanos necesarios para el cumplimiento de sus funciones;
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XXIV.- Aplicar el sistema de evaluación institucional de la Universidad;
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XXV.- Dirigir el funcionamiento adecuado del almacén de la Universidad;
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XXVI.- Exponer propuestas para la ampliación y mejoramiento de espacios físicos y de los servicios educativos de la Universidad, en función al crecimiento de la demanda, y de conformidad con la disponibilidad presupuestal, y
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XXVII.- Procurar el funcionamiento de las tecnologías de la información para el servicio administrativo y académico de la Universidad.
+
+### CAPÍTULO XII. DE LAS SUBDIRECCIONES
 
 ###### ARTÍCULO 16.
 
@@ -413,7 +541,7 @@ IV.- Rendir los informes que le sean requeridos en cualquier momento por su supe
 
 V.- Las demás atribuciones que le encomiende o le delegue el Rector o su superior jerárquico, así como las que le confiera expresamente la normatividad aplicable.
 
-### CAPÍTULO XIV. DE LA SUBDIRECCIÓN DE SERVICIOS ESCOLARES
+### CAPÍTULO XIII. DE LA SUBDIRECCIÓN DE PLANEACIÓN Y EVALUACIÓN
 
 ###### ARTÍCULO 17.
 
@@ -431,11 +559,15 @@ V.- Establecer un sistema estadístico que permita la toma de decisiones estrat�
 
 VI.- Integrar las propuestas de modificaciones a la estructura administrativa de la Universidad y presentarlas a la consideración del Rector;
 
-VII.- Organizar y controlar, en el ámbito de su competencia, las actividades de programación y evaluación presupuestal del área a su cargo; y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-VIII.- Las demás atribuciones que le encomiende o le delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
+VII.- Organizar y controlar, en el ámbito de su competencia, las actividades de programación y evaluación presupuestal del área a su cargo, y
 
-### CAPÍTULO XV. DE LA SUBDIRECCIÓN DE DIVULGACIÓN Y DIFUSIÓN UNIVERSITARIA
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+VIII.- Elaborar los Manuales de Organización, Procedimientos y Servicios de la unidad administrativa a su cargo, en coordinación con la Dirección de Administración y Finanzas y el Abogado General.
+
+### CAPÍTULO XIV. DE LA SUBDIRECCIÓN DE SERVICIOS ESCOLARES
 
 ###### ARTÍCULO 18.
 
@@ -455,75 +587,43 @@ VI.- Realizar el acopio de información estadística generada por movimientos, t
 
 VII.- Promover la permanente actualización del material bibliográfico de la Universidad, sujeto a las necesidades de profesores y alumnos y relacionado con los planes y programas de estudio con que cuenta la Universidad;
 
-VIII.- Apoyar a las demás áreas administrativas de la Universidad, dentro de aquellas actividades relacionadas con el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-IX.- Las demás atribuciones que le encomiende o le delegue el Rector, así como las que le confiera expresamente la normatividad aplicable.
+VIII.- Apoyar a las demás unidades administrativas de la Universidad, dentro de aquellas actividades relacionadas con el ámbito de su competencia, y
 
-### CAPÍTULO XVI. DE LA SUBDIRECCIÓN DE SERVICIOS ADMINISTRATIVOS
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+IX.- Elaborar los Manuales de Organización, Procedimientos y Servicios de la unidad administrativa a su cargo, en coordinación con la Dirección de Administración y Finanzas y el Abogado General.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE ENERO DE 2017)</small>
+
+### CAPÍTULO XV. DE LA SUBDIRECCIÓN DE DIVULGACIÓN Y DIFUSIÓN UNIVERSITARIA
 
 ###### ARTÍCULO 19.
 
-El Subdirector de Divulgación y Difusión Universitaria, dependerá directamente de la Dirección de Extensión Universitaria, correspondiéndole, además de las atribuciones establecidas en el artículo 16 del presente Reglamento, las siguientes:
+(DEROGADO, P.O. 6 DE ENERO DE 2017)
 
-I.- Coordinar y dirigir la edición y distribución de las publicaciones periódicas y extraordinarias de carácter informativo de la Universidad;
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 6 DE ENERO DE 2017)</small>
 
-II.- Generar, promover, ejecutar y evaluar las actividades de diseño y difusión encaminadas al fortalecimiento de la imagen institucional de la Universidad;
-
-III.- Promover la comunicación interuniversitaria que sea de interés para la comunidad;
-
-IV.- Realizar el acopio e integración de la información generada por las actividades relevantes de la comunidad universitaria;
-
-V.- Promover y ampliar los canales de comunicación al interior y al exterior de la Universidad;
-
-VI.- Elaborar y proponer al superior jerárquico, las políticas editoriales institucionales de la Universidad;
-
-VII.- Difundir, de conformidad con los lineamientos que emita su superior jerárquico, los servicios que se prestan en la Universidad, con apoyo de medios informativos, así como la proyección de las actividades en la comunidad universitaria; y
-
-VIII.- Las demás atribuciones que le encomiende su superior jerárquico, así como las que le confiera expresamente la normatividad aplicable.
-
-### CAPÍTULO ÚNICO
+### CAPÍTULO XVI. DE LA SUBDIRECCIÓN DE SERVICIOS ADMINISTRATIVOS
 
 ###### ARTÍCULO 20.
 
-El Subdirector de Servicios Administrativos, dependerá directamente de la Dirección de Administración y Finanzas, correspondiéndole, además de las atribuciones establecidas en el artículo 16 del presente Reglamento, las siguientes:
-
-I.- Aplicar y vigilar la administración y uso de los recursos humanos y materiales asignados a la Universidad;
-
-II.- Controlar las actividades de mantenimiento preventivo y correctivo de los bienes de la Universidad;
-
-III.- Apoyar al superior jerárquico en la planeación, dirección, evaluación y aplicación del programa de adquisición de bienes y servicios de la Universidad;
-
-IV.- Elaborar y proponer al superior jerárquico, el establecimiento de políticas de administración de recursos humanos y materiales de la Universidad;
-
-V.- Aplicar la normatividad contable y financiera a cargo de la Universidad que rigen el uso de recursos financieros y materiales;
-
-VI.- Elaborar la plantilla de personal de la Universidad y someterla a la consideración del superior jerárquico;
-
-VII.- Dotar a las distintas áreas administrativas de la Universidad de los recursos materiales y humanos necesarios para el cumplimiento de sus funciones;
-
-VIII.- Generar y aplicar programas de capacitación para los servidores públicos de la Universidad;
-
-IX.- Elaborar y proponer a su superior jerárquico, los lineamientos generales y asesorar en la elaboración de manuales de organización y de procedimientos de la Universidad y las que correspondan a su área, proponiendo acciones de modernización administrativa para la misma;
-
-X.- Coadyuvar en la aplicación del modelo de evaluación institucional de la Universidad;
-
-XI.- Administrar el funcionamiento adecuado del almacén de la Universidad;
-
-XII.- Controlar y operar el registro de inventarios de bienes muebles e inmuebles de la Universidad, así como informar al Rector o su superior jerárquico de su estado;
-
-XIII.- Presentar a su superior jerárquico, propuestas para la ampliación y mejoramiento de espacios físicos y de los servicios educativos de la Universidad, en función al crecimiento de la demanda, y de conformidad con la disponibilidad presupuestal; y
-
-XIV.- Las demás funciones que le encomiende su superior jerárquico, así como las que le confiera expresamente la normatividad aplicable.
+(DEROGADO, P.O. 6 DE ENERO DE 2017)
 
 ## TÍTULO TERCERO. DE LAS SUPLENCIAS
 
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 21.
 
-Cuando por cualquier motivo no se haya hecho designación para suplir la ausencia temporal de algún servidor público de la Universidad, y mientras no se emita ésta, se aplicarán las siguientes reglas:
+Las ausencias y licencias de los servidores públicos de la Universidad no mayores de quince días hábiles, serán suplidas de la siguiente manera:
 
-I.- El Rector mediante acuerdo, será suplido en aquellas ausencias no mayores a quince días consecutivos por el Funcionario de la Universidad que él designe, sin perjuicio de las facultades que correspondan al Consejo Directivo;
+I.- El Rector por el Abogado General, el Director de Área o el Subdirector que corresponda según el asunto del que se trate en virtud de su competencia, sin perjuicio de las facultades que correspondan al Consejo Directivo para determinar la suplencia del Rector;
 
-II.- Los Secretarios Académicos y de Vinculación, serán suplidos en sus ausencias temporales no mayores a quince días consecutivos, por cualquiera de los Directores de la Universidad que el Rector tenga a bien designar; y
+II.- El Abogado General, los Directores de Área y los Subdirectores serán suplidos por los servidores públicos del nivel jerárquico inmediato inferior que de ellos dependan, en los asuntos de sus respectivas competencias, o en su caso, por quienes determine el Rector, sin perjuicio de las facultades que correspondan al Consejo Directivo, en los términos señalados en la fracción anterior, y
 
 III.- Tratándose de una ausencia definitiva del Rector, éste será suplido por la persona que designe el Consejo Directivo.
 
@@ -538,3 +638,13 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Se derogan todas las disposiciones anteriores que se opongan al presente Reglamento Interior.
 
 Dado en la Cuarta Sesión Extraordinaria del Consejo Directivo de la Universidad Tecnológica de Huejotzingo, a los dieciocho días del mes de junio de dos mil cuatro. Presidente Suplente del Órgano de Gobierno. INGENIERO EUGENIO MIRANDA MEDINA. Vocal Suplente. INGENIERO GUILLERMO GÓMEZ THEUREL. Vocal Suplente. LICENCIADO PEDRO PRECIADO VIEYRA. Vocal Suplente. PROFESOR JESÚS MORALES MORALES. Vocal Suplente. INGENIERO MIGUEL SANTAMARÍA GARCÍA. Vocal Propietario. INGENIERO EDUARDO FARFÁN FAUDÓN. Vocal Suplente. INGENIERO RAFAEL DE LA PAZ RODRÍGUEZ. Comisario Público Suplente. CONTADOR PÚBLICO MARIANO GARCÍA LUNA. Rectora. LICENCIADA EN INFORMÁTICA GUADALUPE MORENO NAVA. Secretario de Actas y Acuerdos. LICENCIADO ÁNGEL ADOLFO PÉREZ DEL VALLE. Rubricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA UNIVERSIDAD TECNOLÓGICA DE HUEJOTZINGO”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones anteriores que se opongan al presente Reglamento Interior.
