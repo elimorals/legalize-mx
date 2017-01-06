@@ -4,7 +4,7 @@ identifier: "LIH"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-08-11"
-last_updated: "2016-12-07"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101925&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ abbreviation: "LIH"
 ---
 # LEY DE INGRESOS SOBRE HIDROCARBUROS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016", PUBLICADO EN EL D.O.F. DE 1 DE ABRIL DE 2016.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017", PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 6 DE ENERO DE 2017.]</small>
 
 LEY DE INGRESOS SOBRE HIDROCARBUROS
 
@@ -788,7 +788,7 @@ Para la determinación de las tasas para el cálculo del derecho a que se refier
 
 ### CAPÍTULO III. DEL DERECHO DE EXPLORACIÓN DE HIDROCARBUROS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016", PUBLICADO EN EL D.O.F. DE 1 DE ABRIL DE 2016.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017", PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 6 DE ENERO DE 2017.]</small>
 
 ###### Artículo 45.
 
@@ -928,7 +928,7 @@ Para los efectos del presente Título, el Asignatario, para evaluar proyectos de
 
 Están obligados al pago del impuesto por la actividad de exploración y extracción de hidrocarburos, los Contratistas y Asignatarios por el Área Contractual y Área de Asignación, respectivamente, definida en el Contrato o Asignación que corresponda.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016", PUBLICADO EN EL D.O.F. DE 1 DE ABRIL DE 2016.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS ACTUALIZADAS DEL PRESENTE ARTÍCULO VÉASE EL "ANEXO 27 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017", PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 6 DE ENERO DE 2017.]</small>
 
 ###### Artículo 55.
 
@@ -1157,3 +1157,7 @@ D.O.F. 7 DE DICIEMBRE DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. Respecto de los montos máximos de deducción por concepto de costos, gastos e inversiones, previstos en los artículos 41, segundo párrafo, fracciones I y II y 42, fracción I, incisos a) y b) de la Ley de Ingresos sobre Hidrocarburos, durante los ejercicios fiscales de 2017 y 2018, continuará aplicando el régimen de transición previsto en el artículo Segundo, fracción VII del Decreto por el que se expide la Ley de Ingresos sobre Hidrocarburos, se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Derechos y de la Ley de Coordinación Fiscal y se expide la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, publicado el 11 de agosto de 2014 en el Diario Oficial de la Federación.
+
+RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 6 DE ENERO DE 2017
+
+> <small>[N. DE E. VÉASE ANEXO 27 PUBLICADO EN EL D.O.F. DE 6 DE ENERO DE 2017, PRIMERA SECCIÓN, PÁGINA 68, EN “ANEXOS 24, 25, 27, 28 Y 29 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, PUBLICADA EL 23 DE DICIEMBRE DE 2016”.]</small>
