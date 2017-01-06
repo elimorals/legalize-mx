@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2016-12-22"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "CAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 100, P.O. 22 DE DICIEMBRE DE 2016, VÉASE TRANSITORIO SEGUNDO DEL PROPIO DECRETO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2017 EN EL PERIÓDICO OFICIAL DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 6 DE ENERO DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -2375,31 +2375,27 @@ V. Charrería 34
 
 En los casos de sucesión testamentaria o intestamentaria, la cesión o transferencia de los derechos de las licencias en materia de bebidas alcohólicas, no causará ninguna cuota.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016)</small>
+(REFORMADO, P.O. 22 DE DICIEMBRE DE 2016) (F. DE E., P.O. 6 DE ENERO DE 2017)
 
 ###### ARTÍCULO 78.
 
-Por la autorización de modificaciones tales como: cambio de domicilio, cambio de giro, arrendamiento, comodato, reposiciones o duplicados de las licencias en materia de bebidas alcohólicas, se causarán y pagarán derechos de acuerdo con el número de veces el valor diario de la Unidad de Medida y Actualización, conforme a la siguiente:
+Por la autorización de modificaciones o adecuaciones y demás movimientos tales como: duplicado de licencia en materia de bebidas alcohólicas, cambio de domicilio, reposiciones, cambio o ampliación de giro, cambio de razón social, arrendamiento y comodato se causarán y pagarán derechos de acuerdo con el número de veces del valor diario de la Unidad de Medida y Actualización, conforme a la siguiente:
 
-T A R I F A
+T A R I F A Unidades de Medida y Actualización
 
-Unidades de Medida y Actualización
+I. Por duplicado de licencia 13
 
-I. Por cambio de domicilio de la licencia 778
+II. Por cambio de domicilio de la licencia 40
 
-II. Por cambio o ampliación de giro
+III. Por reposición de una licencia 40
 
-de la licencia 1.296
+IV. Por cambio o ampliación de giro de la licencia 103
 
-III. Por reposición de una licencia 39
+V. Por cambio de razón social 103
 
-IV. Por duplicado de la licencia 13
+VI. Por arrendamiento anualmente 206
 
-V. Por cambio de razón social 700
-
-VI. Por arrendamiento anualmente 1,296
-
-VII. Por comodato anualmente 1,296
+VII. Por comodato anualmente 206
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
