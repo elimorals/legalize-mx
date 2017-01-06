@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-tribunal-de-lo-contencioso-3349"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-09-30"
-last_updated: "2015-10-02"
+last_updated: "2017-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 30 de septiembre de 1991.
 
@@ -41,13 +41,15 @@ El Tribunal de lo Contencioso Administrativo del Estado de Baja California se ri
 
 El presente ordenamiento tiene por objeto reglamentar la organización y funcionamiento del Tribunal de lo Contencioso Administrativo del Estado.
 
-###### ARTICULO 3º.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
-El Tribunal de lo Contencioso Administrativo se integra por tres Magistrados Propietarios y los Suplentes que sean necesarios para su funcionamiento. Cuenta además con una Secretaría General de Acuerdos y una Unidad de Apoyo Administrativo.
+###### ARTICULO 3°.
 
-Para ejercer sus funciones en Salas, éstas se integran con un Magistrado Propietario, asistido de los Secretarios Auxiliares, Actuarios y demás personal administrativo que requiera el servicio.
+El Tribunal de lo Contencioso Administrativo se integra por tres Magistrados adscritos al Pleno. Cuenta además con una: Secretaría General de Acuerdos, Unidad de Apoyo Administrativo, Unidad de Transparencia, Comité de Transparencia y Acceso a la Información Pública, y Comisión de Responsabilidades y Situación Patrimonial.
 
-La Presencia del Tribunal y la Unidad de Apoyo Administrativo contarán con el personal técnico y administrativo necesarios para el desempeño de sus funciones.
+Para ejercer sus funciones en Salas, éstas se integran con un Magistrado, asistido de Secretarios de Acuerdos, Actuarios y demás personal administrativo que requiera el servicio.
+
+La Presidencia del Tribunal, la Unidad de Apoyo Administrativo y la Unidad de Transparencia, contarán con el personal técnico y administrativo necesarios para el desempeño de sus funciones.
 
 ###### ARTICULO 4º.
 
@@ -81,9 +83,11 @@ Los recursos de revisión serán distribuidos por el Presidente del Tribunal en 
 
 La disposición anterior se observará en lo conducente, en los demás asuntos de la competencia del Pleno.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 11.
 
-En el caso de que uno de los Magistrados no esté de acuerdo con la determinación de la mayoría del Pleno, podrá formular voto particular razonado, mismo que correrá agregado a la resolución correspondiente.
+En el caso de que uno de los Magistrados no esté de acuerdo con la determinación de la mayoría del Pleno, o estándolo sea por razones diferentes, podrá formular voto particular razonado, mismo que correrá agregado a la resolución correspondiente.
 
 ###### ARTICULO 12.
 
@@ -99,9 +103,11 @@ El Magistrado Visitador, cuando practique visitas ordinarias a las Salas, examin
 
 En las visitas extraordinarias sólo se examinarán los documentos y datos relacionados con su objeto.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 14.
 
-El Magistrado Visitador hará constar en el acta de la visita ordinaria la fecha en que se efectúa la misma, el período que comprende, las observaciones sobre el cumplimiento de los plazos y formalidades legales, así como las recomendaciones que se formulen al personal de la Sala respectiva. Cada acta será firmada por el Magistrado Visitador, Magistrado de la Sala visitada y Secretario Auxiliar, quienes conservarán una copia del acta y el original se hará del conocimiento del Pleno. Las indicaciones anteriores se observarán en lo conducente en las actas de las visitas extraordinarias.
+El Magistrado visitador hará constar en el acta de la visita ordinaria la fecha en que se efectúa la misma, el periodo que comprende, las observaciones sobre el cumplimiento de los plazos y las formalidades legales, así como las recomendaciones que se formulen al personal de la Sala respectiva. Cada acta será firmada por el Magistrado visitador, el Magistrado de la Sala visitada, un Secretario de Acuerdos adscrito a ésta última y demás personal que haya participado en la visita. El acta original de la visita se hará del conocimiento del Pleno y se entregará a la Secretaría General de Acuerdos para su resguardo. Las indicaciones anteriores se observarán en lo conducente en las actas de visitas extraordinarias.
 
 ###### ARTICULO 15.
 
@@ -141,13 +147,17 @@ Concluido el plazo de una licencia de personal de confianza, si no se presenta e
 
 ### CAPITULO CUARTO. DE LAS SALAS
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 21.
 
-Cada una de las Salas y oficinas auxiliares llevarán un libro para anotar el estado procesal de los asuntos radicados; un libro de registro de poderes y nombramientos; un libro de correspondencia, y los demás que sean necesarios para la adecuada atención del servicio. Estos libros estarán bajo la responsabilidad del Secretario Auxiliar correspondiente.
+Cada una de las Salas y oficinas auxiliares deberá registrar en el sistema de control de expedientes del tribunal el estado procesal de los asuntos radicados, la correspondencia, poderes y nombramientos y demás datos que sean necesarios para la adecuada atención del servicio.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 22.
 
-Los Magistrados de las Salas informarán oportunamente al Presidente al fin de cada mes y del año, los datos estadísticos de los asuntos de su competencia y las ejecutorias importantes que hubieren emitido. Lo propio informarán los Secretarios Adscritos a las oficinas auxiliares correspondientes, al Magistrado de la Sala respectiva.
+Los Magistrados de las Salas informarán al Presidente al fin de cada mes y año, de las ejecutorias importantes que hubieren emitido.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2015)</small>
 
@@ -159,23 +169,29 @@ El Pleno y las Salas del Tribunal llevarán por duplicado los expedientes de los
 
 DEL PERSONAL DEL TRIBUNAL.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 24.
 
-Son servidores públicos de confianza en el Tribunal, el Secretario General de Acuerdos, los Secretarios Auxiliares, el Jefe de la Unidad Administrativa y los Acuarios.
+Son servidores públicos de confianza en el Tribunal, el Secretario General de Acuerdos, los Secretarios de Acuerdos adscritos a las Salas, los Secretarios de Estudio y Cuenta adscritos al Pleno, el Jefe de la Unidad Administrativa, los Actuarios, el Coordinador de Informática y el de Capacitación Judicial y Técnico Administrativo.
 
 ###### ARTICULO 25.
 
 Corresponde a la Secretaría General de Acuerdos:
 
-I.- Coordinar la prestación del servicio social de los pasantes asignados por la Universidad Autónoma de Baja California.
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+l. Coordinar la prestación del servicio social de los pasantes asignados por las Instituciones de Educación con las que se tenga convenio.
 
 II.- Llevar el turno de los Magistrados de guardia.
 
 III.- Proyectar los informes que deba rendir el Pleno del Tribunal en los juicios de amparo en que éste sea parte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 26.
 
-Corresponde a los Secretarios Auxiliares adscritos a las Salas:
+Corresponde a los Secretarios de Acuerdos adscritos:
 
 I.- Cuidar que los expediente de la Sala de su adscripción sean debidamente foliados, sellados y rubricados.
 
@@ -301,17 +317,25 @@ Los peritos y demás auxiliares que requiera la administración de la justicia a
 
 ### CAPITULO SEXTO. DEL TRAMITE DE LOS ASUNTOS
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 32.
 
-La oficialía de partes central, ubicada en la sede del Tribunal, recibirá las promociones y correspondencia dirigida al Pleno, Presidencia y Primera Sala. Cada oficialía de partes de las Salas o de las Oficinas Auxiliares ubicadas fuera de la ciudad sede del Tribunal recibirá las promociones y correspondencia dirigida a las mismas y, además, actuará como oficialía de partes auxiliar del Pleno, para efectos de la recepción de promociones dirigidas al Pleno o a la Presidencia. Una vez que se registren las promociones y correspondencia en el libro respectivo, por riguroso orden numérico, se turnarán o remitirán como corresponda en el mismo día si las circunstancias lo permiten, sin perjuicio de que en casos urgentes se dé aviso a la Presidencia por vía de telefax para los efectos que procedan.
+La oficialía de partes ubicada en la sede del Tribunal, recibirá las promociones y correspondencia dirigida al Pleno, Presidencia y Primera Sala. Cada oficialía de partes de las salas o de sus oficinas auxiliares ubicadas fuera de la ciudad sede del Tribunal recibirá las promociones y correspondencia dirigida a las mismas y, además, actuará como oficialía de partes auxiliar del Pleno, para efectos de la recepción de promociones dirigidas al Pleno y a la Presidencia. Una vez que se registren las promociones y correspondencia en el sistema de control de expedientes del tribunal, por riguroso orden numérico se turnarán o remitirán como corresponda en el mismo día si las circunstancias lo permiten, sin perjuicio de que en casos urgentes se dé avisto (sic) a la Presidencia vía correo electrónico o por teléfono.
 
-> <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 33.
 
-Cuando la oficialía de partes se encuentre cerrada, sólo el Secretario General de Acuerdos en tratándose de asuntos de Pleno, o los Secretarios Auxiliares de las Salas en asuntos que correspondan a su competencia en razón del territorio previamente determinado por el Pleno, podrán recibir personalmente las promociones correspondientes, aún en su domicilio, siempre que se trate de asuntos de término y se presenten el día de su vencimiento. Estas promociones se registrarán en el libro correspondiente, en la primera hora laborable del día hábil siguiente.
+Cuando la oficialía de partes se encuentre cerrada, las promociones correspondientes, en los asuntos de término y se trate del día de su vencimiento, podrán presentarse en o ante:
+
+I.- Los buzones que instale el Pleno del Tribunal.
+
+II.- El Secretario General de Acuerdos en tratándose de asuntos del Pleno del Tribunal.
+
+III.- Los Secretarios de Acuerdos de las Salas en tratándose de asuntos de las Salas a las que se encuentren adscritos.
+
+El Pleno del Tribunal mediante acuerdo, determinará los supuestos y condiciones en que será aplicable lo dispuesto por este artículo.
 
 ###### ARTICULO 34.
 
@@ -321,27 +345,33 @@ Los abogados autorizados en los expedientes podrán, en auxilio del Tribunal, ha
 
 Los Actuarios de las Salas estarán autorizados para que, en auxilio de cualquiera de las otras Salas y del Pleno, puedan efectuar notificaciones de las resoluciones recaídas en los juicios radicados en las primeras, así como de las resoluciones emitidas por el Pleno, sin necesidad de requisitoria previa, debiendo anotarse en la razón correspondiente que el Actuario practica la notificación en esa capacidad y conforme al presente precepto.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 35.
 
-En horas de atención al público, los particulares podrán hacer promociones por comparecencia en el expediente respectivo ante la fe del Secretario General de Acuerdos o del Secretario Auxiliar de la Sala correspondiente, con excepción de la demanda inicial, ampliación de la demanda e interposición de recursos.
+En horas de atención al público, los particulares podrán hacer promociones por comparecencia en el expediente respectivo ante la fe del Secretario General de Acuerdos o del Secretario de Acuerdos adscrito a la Sala correspondiente, con excepción de la demanda inicial, ampliación de demanda e interposición de recursos.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 36.
 
-El Secretario General de Acuerdos y el Secretario Auxiliar que corresponda, darán cuenta diariamente al Presidente del Tribunal o al Magistrado, según el caso, bajo su más estricta responsabilidad y dentro de las 24 horas hábiles siguientes a la presentación, con todos los escritos y documentos y promociones que formulen los interesados.
+El Secretario General de Acuerdos y el Secretario de Acuerdos adscrito a (sic) Sala que corresponda, darán cuenta diariamente al Presidente del Tribunal o al Magistrado de la Sala, según sea el caso, bajo su más estricta responsabilidad y dentro de las 24 horas hábiles siguientes a la presentación, con todos los escritos, documentos y promociones que formules (sic) los interesados.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 37.
 
-El Secretario General de Acuerdos, Secretario Auxiliares y Actuarios tendrán fe pública en todo lo relativo al ejercicio de sus atribuciones.
+El Secretario General de Acuerdos, Secretarios de Acuerdos adscritos a las salas y los Actuarios tendrán fe pública en todo lo relativo al ejercicio de sus atribuciones.
 
 ###### ARTICULO 38.
 
 Los gobernados y autoridades podrán registrar los poderes notariales o nombramientos, respectivamente, en el libro de control a cargo de cualquiera de las Salas del Tribunal, para el efecto de acreditar su personalidad en los juicios y recursos en que intervengan. Se registrarán de oficio las resoluciones definitivas que los organismos competentes formulen respecto de la elección popular de servidores públicos locales. En caso de duda, la Sala de conocimiento solicitará se le remita certificación del registro respectivo.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 39.
 
-Los originales de los expedientes de los juicios concluidos se conservarán en el archivo interno de cada Sala. Los duplicados de dichos expedientes serán destruidos bajo la supervisión del Magistrado Numerario correspondiente.
+Los originales de los expedientes de los juicios concluidos se conservaran en el archivo interno de cada Sala. Los duplicados de dichos expedientes serán destruidos bajo la supervisión de quien designe el Pleno.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
@@ -395,6 +425,104 @@ IV.- Aprobar los formatos para las declaraciones de situación patrimonial.
 
 V.- Recibir, registrar y resguardar las declaraciones de situación patrimonial de los servidores del Tribunal, por conducto de su Secretario.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE ENERO DE 2017)</small>
+
+### CAPITULO OCTAVO. DEL COMITE DE TRANSPARENCIA Y DE LA UNIDAD DE TRANSPARENCIA
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+###### ARTICULO 45.
+
+El Tribunal contará con un Comité Técnico de Transparencia, el cual será su órgano normativo en materia de Transparencia, acceso a la información pública y protección de datos personales, y se integrará con los Magistrados del Pleno, de entre los cuales se designará anualmente al Presidente, y sesionará las veces que sea necesario para atender los asuntos de su competencia, previa convocatoria formulada por su Presidente, por lo menos con veinticuatro horas de anticipación, o en un término menor, si la naturaleza del caso lo amerita. Para que sus acuerdos sean válidos se requiere por lo menos la aprobación de dos de sus integrantes.
+
+El titular de la Unidad de Transparencia fungirá como Secretario Técnico del Comité de Transparencia.
+
+Las sesiones del Comité de Transparencia serán grabadas en los medios audiovisuales disponibles, los cuales estarán bajo el resguardo del Secretario Técnico a fin de que elabore el acta correspondiente.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+###### ARTICULO 46.
+
+El Comité tendrá las siguientes atribuciones:
+
+I.- Instituir, coordinar y supervisar, en términos de las disposiciones aplicables, las acciones y los procedimientos para asegurar la mayor eficacia en la gestión de las solicitudes en materia de acceso a la información.
+
+II.- Confirmar, modificar o revocar las determinaciones que en materia de ampliación del plazo de respuesta, clasificación de la información y declaración de inexistencia o de incompetencia realicen los titulares de las Áreas del Tribunal.
+
+III.- Ordenar, en su caso, a las áreas competentes que generen la información que derivado de sus facultades, competencias y funciones deban tener en posesión o que previa acreditación de la imposibilidad de su generación, exponga, de forma fundada y motivada, las razones por las cuales, en el caso particular, no ejercieron dichas facultades, competencias o funciones.
+
+IV.- Establecer políticas para facilitar la obtención de información y el ejercicio del derecho de acceso a la información.
+
+V.- Promover la capacitación y actualización de los servidores públicos o integrantes adscritos a la Unidad de Transparencia.
+
+VI.- Establecer programas de capacitación en materia de transparencia, acceso a la información, accesibilidad y protección de datos personales, para todos los servidores públicos o integrantes del Tribunal.
+
+VII.- Recabar los datos necesarios para la elaboración del informe anual.
+
+VIII.- Solicitar y autorizar la ampliación del plazo de reserva de la información a que se refiere el artículo 108 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+IX.- Revisar los procedimientos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información.
+
+X.- Verificar que en el portal del Tribunal se encuentre la información pública a la que se refiere la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+XI.- Evaluar el seguimiento que se dé al trámite de las solicitudes de acceso a la información y protección de datos personales.
+
+XII.- Las demás que se desprendan de la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+###### ARTICULO 47.
+
+La Unidad de Transparencia es el órgano encargado de recabar y difundir las obligaciones de transparencia, recibir y tramitar las solicitudes de acceso a la información pública y protección de datos personales que se formulen y sirve de vínculo entre el Tribunal y los solicitantes.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+###### ARTICULO 48.
+
+El Pleno del Tribunal designará al responsable de la Unidad de Transparencia y a su personal de apoyo administrativo necesarios (sic).
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+###### ARTICULO 49.
+
+La Unidad de Transparencia tendrá las siguientes atribuciones:
+
+I.- Recabar y difundir la información a que se refieren los artículos 81 y 83, fracción VI, de la Ley de Transparencia y Acceso a la Información Pública para el Estado, y propiciar que las áreas correspondientes del Tribunal la actualicen periódicamente, conforme la normatividad aplicable.
+
+II.- Recibir, atender, en su caso prevenir y dar seguimiento, a las solicitudes de acceso a la información.
+
+III.- Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable.
+
+IV.- Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información.
+
+V.- Efectuar las notificaciones a los solicitantes.
+
+VI.- Proponer al Comité de Transparencia los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a la normatividad aplicable.
+
+VII.- Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información.
+
+VIII.- Llevar un registro de las solicitudes de acceso a la información, respuestas, resultados, costos de reproducción y envío.
+
+IX.- Promover e implementar políticas de transparencia proactiva procurando su accesibilidad.
+
+X.- Fomentar la transparencia y accesibilidad al interior del Tribunal.
+
+XI.- Hacer del conocimiento de la instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la Ley de Transparencia y Acceso a la Información Pública para el Estado y en las demás disposiciones aplicables.
+
+XII.- Verificar que las solicitudes de acceso a información pública y de protección de datos personales, no encuadren en los supuestos de improcedencia previstos en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California.
+
+XIII.- Presentar al Comité de Transparencia, de forma trimestral y anualmente, los informes sobre las solicitudes de acceso a información y protección de datos personales que reciba.
+
+XIV.- Observar las disposiciones o acuerdos que emita el Comité de Transparencia, para el acceso a la información y la protección de datos personales.
+
+XV.- Formular los formatos para el acceso a la información pública y protección de datos personales.
+
+XVI.- Elaborar semestralmente, un índice de los expedientes clasificados como reservados.
+
+XVII.- Remitir las solicitudes de acceso a la información pública que no sean de su competencia a los sujetos obligados que puedan poseer la información solicitada.
+
+XVIII.- Las demás que se desprendan de la normatividad aplicable.
+
 TRANSITORIOS:
 
 PRIMERO.- El presente reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -427,7 +555,7 @@ SECRETARIO GENERAL DE ACUERDOS.
 
 Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 P.O. 14 DE OCTUBRE DE 1994.
 
@@ -462,3 +590,11 @@ P.O. 2 DE OCTUBRE DE 2015.
 > <small>[N. DE E. SE TRANSCRIBE EL PUNTO DE “ACUERDO DEL PLENO, QUE REFORMA EL ARTÍCULO 23 DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA”.]</small>
 
 SEGUNDO. La presente reforma surtirá efectos a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL PLENO QUE REFORMA LOS ARTÍCULOS 3, 11, 14, 21, 22, 24, 25, FRACCIÓN I, 26, 32, 33, 35, 36, 37 Y 39 Y SE ADICIONA EL CAPÍTULO OCTAVO, (ARTÍCULOS 45, 46, 47, 48 Y 49) DEL REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Publíquese además en el Boletín del Tribunal y en su página de internet oficial, para su difusión.
