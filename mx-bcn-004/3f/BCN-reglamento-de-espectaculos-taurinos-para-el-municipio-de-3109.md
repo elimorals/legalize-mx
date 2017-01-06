@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-espectaculos-taurinos-para-el-municipio-de-3109"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-03-10"
-last_updated: "1991-03-10"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ESPECTACULOS TAURINOS PARA EL MUNICIPIO DE TIJUANA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el domingo 10 de marzo de 1991.
 
@@ -939,21 +939,23 @@ Si la infracción constituyere además algún delito previsto y castigado por el
 
 La imposición de ls (sic) sanciones a que se refiere el artículo anterior queda a cargo del Juez de Plaza.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### Artículo 90o.
 
-Tratándose de multas, serán en base a los salarios mínimos vigentes en la entidad y se aplicarán como sigue:
+Para la imposición de multas se tendrá como base de cómputo el valor diario de la Unidad de Medida y Actualización determinado por el Instituto Nacional de Estadística y Geografía, en base al Decreto del 27 de enero de 2016, publicado en el Diario Oficial de la Federación, en vigor al día siguiente, y se aplicarán como sigue:
 
-a).- Las multas a las empresas serán de 1 a 1,000 salarios mínimos.
+a) Las multas a las empresas serán de 1 a 1,000 veces el valor diario de la Unidad de Medida y Actualización.
 
-b).- Las multas a los Matadores o Rejoneadores serán de 1 a 500 salarios mínimos.
+b) Las multas a los matadores o rejoneadores serán de 1 a 500 veces el valor diario de la Unidad de Medida y Actualización.
 
-c).- Las multas a los matadores de novillos toros serán de 1 a 25 salarios mínimos.
+c) Las multas a los matadores de novillos toros serán de 1 a 25 veces el valor diario de la Unidad de Medida y Actualización.
 
-d).- Las multas al personal de cuadrillas, de 1 a 10 salarios mínimos.
+d) Las multas al personal de cuadrillas, de 1 a 10 veces el valor diario de la Unidad de Medida y Actualización.
 
-e).- Las multas a los espectadores serán 1 a 50 salarios mínimos.
+e) Las multas a los espectadores serán 1 a 50 veces el valor diario de la Unidad de Medida y Actualización.
 
-f).- Las multas a los ganaderos serán de 1 a 500 salarios mínimos.
+f) Las multas a los ganaderos serán de 1 a 500 veces el valor diario de la Unidad de Medida y Actualización.
 
 El monto de la multa será fijado según la gravedad de la infracción, a criterio del Juez de Plaza, sin embargo en caso de reincidencia, se podrá imponer el máximo de la multa.
 
@@ -1000,3 +1002,9 @@ LIC. CARLOS MARTIN GUTIERREZ
 Secretario del Ayuntamiento
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ENERO DE 2017.
+
+> <small>[N. DE E. EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
