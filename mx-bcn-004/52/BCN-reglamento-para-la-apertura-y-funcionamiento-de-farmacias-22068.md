@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-apertura-y-funcionamiento-de-farmacias-22068
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-08-24"
-last_updated: "2001-08-24"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22068&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA APERTURA Y FUNCIONAMIENTO DE FARMACIAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 24 de agosto de 2001.
 
@@ -72,6 +72,10 @@ INSUMO HOMEOPATA: Establecimientos que se dedica (sic) a la comercialización de
 INSUMO HERBOLARIA O BOTANICA: Establecimiento que se dedica a la comercialización de plantas medicinales.
 
 LICENCIA DE OPERACIÓN: Es el permiso que expide la autoridad municipal de Tijuana para que opere una farmacia dentro de su territorio.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+UNIDAD DE MEDIDA Y ACTUALIZACIÓN: la que se encuentre determinada por el Instituto Nacional de Estadística y Geografía, en base al Decreto del 27 de enero de 2016, publicado en el Diario Oficial de la Federación, en vigor al día siguiente.
 
 ###### ARTÍCULO 4.
 
@@ -305,15 +309,23 @@ d) Clausura definitiva del establecimiento mercantil y cancelación del permiso 
 
 DE LAS SANCIONES: La violación al presente reglamento, dará lugar a la aplicación de las siguientes sanciones:
 
-I. Con multa de 5 a 25 salarios mínimos en el evento de que el infractor incurra en violación a lo establecido en la fracción I del artículo 13, los artículos 16, 17,18, 19 y 20 del reglamento;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-II. Con multa de 25 a 50 salarios mínimos en el evento de que el infractor incurra en violación a lo establecido en los incisos d) e) g) y h), fracción II del artículo 8, las fracciones II, III y IV del artículo 13 del reglamento;
+I. Multa de 5 a 25 veces el valor diario de la Unidad de Medida y Actualización, en el evento de que el infractor incurra en violación a lo establecido en la fracción I del artículo 13, los artículos 16, 17,18, 19 y 20 del reglamento;
 
-III. Con multa de 50 a 150 salarios mínimos en el evento de que el infractor incurra en violación a lo establecido en los incisos a) b) c) y f), fracción II, del artículo 8, párrafo tercero del artículo 19, incisos a), b) y c) del artículo 15 del reglamento;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+II. Multa de 25 a 50 veces el valor diario de la Unidad de Medida y Actualización, en el evento de que el infractor incurra en violación a lo establecido en los incisos d), e), g) y h), de la fracción II, del artículo 8, las fracciones II, III y IV del artículo 13 del reglamento;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+III. Multa de 50 a 150 veces el valor diario de la Unidad de Medida y Actualización, en el evento de que el infractor incurra en violación a lo establecido en los incisos a), b), c) y f), de la fracción II, del artículo 8, párrafo tercero del artículo 19, incisos a), b) y c) del artículo 15 del reglamento;
 
 IV. La violación al artículo 6 se sancionará con clausura definitiva. En el caso de reincidencia en la violación a los incisos a) y c) del artículo 15, procederá la clausura provisional o definitiva a juicio de la autoridad;
 
-V. En el caso de que el solicitante proporcionara información falsa para efectos de obtención de licencia, se hará acreedor a una multa de veinte a setenta salarios mínimos, negándosele la licencia de operación, o revocándose la misma para el caso de haberse otorgado;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+V. En el caso de que el solicitante proporcionara información falsa para efectos de obtención de licencia, se hará acreedor a una multa de veinte a setenta veces el valor diario de la Unidad de Medida y Actualización, negándosele la licencia de operación o revocándose la misma para el caso de haberse otorgado;
 
 VI. En el evento de que por informes oficiales de la Secretaría de Salud o de cualquiera de las autoridades sanitarias del país, se llegase a comprobar la existencia de alguna acción ilícita por parte de cualquiera de los establecimientos a que se refiere el artículo 4o. de este reglamento, que vengan operando en base a licencia expedida por la autoridad municipal, se revocar (sic) en forma definitiva la licencia que hubiere sido conferida a dicho establecimiento.
 
@@ -352,3 +364,9 @@ QUINTO: Se instruye a la Tesorería Municipal para que en el proyecto de Ley de 
 SEXTO: Se instruye a la Comisión de Desarrollo Urbano para que conjuntamente con el Instituto Municipal de Planeación y la Dirección de Administración Urbana emitan la declaratoria de uso de suelo en zonas que se encuentran saturadas de establecimientos de farmacias.
 
 DADO EN LA SALA DE CABILDO DEL H. XVI AYUNTAMIENTO CONSTITUCIONAL DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA, A LOS VEINTE DIAS DEL MES DE JULIO DEL DOS MIL UNO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ENERO DE 2017.
+
+> <small>[N. DE E. EL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS Y REGLAMENTOS EN LOS TÉRMINOS DEL ANEXO UNO QUE INTEGRA EL PRESENTE DICTAMEN, RELATIVOS A LA ADECUACIÓN A LA REGLAMENTACIÓN MUNICIPAL DERIVADAS DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
