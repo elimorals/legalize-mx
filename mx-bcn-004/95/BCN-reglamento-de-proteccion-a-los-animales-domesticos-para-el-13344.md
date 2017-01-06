@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-proteccion-a-los-animales-domesticos-para-el-1334
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-27"
-last_updated: "2011-08-26"
+last_updated: "2017-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13344&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCN"
 ---
 # REGLAMENTO DE PROTECCION A LOS ANIMALES DOMESTICOS PARA EL MUNICIPIO DE TIJUANA, BAJACALIFORNIA -ANTES REGLAMENTO DE LA LEY DE PROTECCION A LOS ANIMALES DOMESTICOS DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA-
 
-> <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2011, SE MODIFICO DE FORMA SUSTANCIAL EL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 26 DE AGOSTO DE 2011, SE MODIFICÓ DE FORMA SUSTANCIAL EL PRESENTE REGLAMENTO.]</small>
 
-REGLAMENTO DE LA LEY DE PROTECCION A LOS ANIMALES DOMESTICOS DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
+REGLAMENTO DE LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 27 de noviembre de 1998.
 
@@ -79,11 +79,17 @@ VI.- Difundir y vigilar que se cumpla con lo establecido en la Ley de Protecció
 
 Las disposiciones de este Reglamento son de orden público y de observancia general.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 4.
 
-Para los efectos del presente Reglamento, cuando en el mismo se haga mención de la ley o del Reglamento, se entenderá por el primero a la Ley de Protección a los Animales Domésticos del Estado de Baja California, y por el segundo, el presente ordenamiento.
+Para los efectos del presente Reglamento, se entenderá por:
+
+I. Ley: Ley de Protección a los Animales Domésticos del Estado de Baja California;
+
+II. Reglamento: el presente ordenamiento, y
+
+III. Unidad de Medida y Actualización.- la que se encuentre determinada por el Instituto Nacional de Estadística y Geografía, en base al Decreto del 27 de enero de 2016, publicado en el Diario oficial de la Federación, en vigor al día siguiente.
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
@@ -91,7 +97,7 @@ Para los efectos del presente Reglamento, cuando en el mismo se haga mención de
 
 Los Particulares, los Colegios de Médicos Veterinarios y las Asociaciones Protectoras de Animales, estarán facultados para denunciar cualquier falta al presente ordenamiento y coadyuvar con la autoridad municipal cuando lo requiera para hacer cumplir este reglamento de acuerdo a los Artículos 4 y 49 de la Ley.
 
-> <small>(REFORMADA EN SU DENOMINACION, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA EN SU DENOMINACIÓN, P.O. 26 DE AGOSTO DE 2011)</small>
 
 DE LOS ALBERGUES Y DEL DEPARTAMENTO DE CONTROL ANIMAL
 
@@ -141,17 +147,25 @@ Contar con el registro y/o expedientes en los cuales conste el control de medica
 
 El patrimonio de los albergues será constituido a través de las cuotas de recuperación recabadas por los servicios de adopciones y esterilizaciones quirúrgicas, además de las aportaciones de particulares y/o Asociaciones Civiles. El Ayuntamiento, a través de la Dirección Municipal de Salud y su Departamento de Control Animal, deberá supervisar las actividades de los albergues, cuando menos una vez al mes.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 8.
 
-Los albergues creados y operados por particulares o asociaciones protectoras de animales, podrán realizar servicios con cuotas de recuperación al público en los siguientes casos:
+Los alberges creados y operados por los particulares o asociaciones protectoras de animales, podrán realizar servicios con cuotas de recuperación al público en los siguientes casos:
 
-a).- Adopciones de 5 hasta 9 salarios mínimos. (Incluye: desparasitación, vacunación básica, y esterilización quirúrgica).
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
-b).- Esterilizaciones quirúrgicas de 2 hasta 9 salarios mínimos.
+a).- Adopciones de 5 hasta 9 veces el valor diario de la Unidad de Medida y Actualización. (incluye: desparasitación, vacunación básica, y esterilización quirúrgica).
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
+b).- Esterilización quirúrgica de 2 hasta 9 veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
 Las campañas de esterilización de animales deberán de realizarse siempre en coordinación con la Dirección Municipal de Salud y en beneficio de la población de escasos recursos.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
 Quedan exceptuados de pago alguno los servicios de vacunación y de atención médico-quirúrgicos, provenientes de insumos provistos por la Dirección Municipal de Salud.
 
@@ -181,27 +195,29 @@ h).- Implementar campañas de esterilización.
 
 i).- Contar con un padrón de los albergues ya sean públicos o privados.
 
-> <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
-ARTICULO 8 TER.- El Departamento de Control Animal aplicara multas y cuotas de recuperación en los siguientes casos:
+ARTICULO 8 TER.- El Departamento de Control Animal, prestará los siguientes servicios:
 
-a).- Multa por captura de 2 hasta 7 salarios mínimos por animal.
+a) Alimentación de animales capturados,
 
-b).- Alimentación por día 1 a 2 salarios mínimos por día.
+b) Tratamiento de ectoparásitos,
 
-c).- Ovario-histerectomía en canidos de 8 salarios mínimos.
+c) Desparasitación general,
 
-d).- Ovario-histerectomía en félidos de 8 salarios mínimos.
+d) Ovario histerectomía en canidos hembras o en félidos hembras,
 
-e).- Orquiectomia en canidos y félidos de 6 salarios mínimos.
+e) Orquiectomía en canidos machos o en félidos machos,
 
-f).- Adopción de animales por particulares 7 salarios mínimos.
+f) Adopción de animales,
 
-g).- Tratamiento de Scabiasis, (sarna) de 1 a 3 salarios mínimos por día.
+g) Tratamiento de Scabiasis, (sarna),
 
-h).- Desparasitación general, de 0.5 a 1.5 salarios mínimos.
+h) Observación clínica de animales agresores post mordedura,
 
-i).- Queda exceptuado de pago el servicio de vacunación antirrábica.
+i) Sacrificio humanitario de animales de compañía, y
+
+j) Recepción de cadáveres caninos o felinos.
 
 DE LAS OBLIGACIONES DE LOS PARTICULARES
 
@@ -259,7 +275,7 @@ Animales de talla grande de 4 a 5 metros cuadrados por animal.
 
 Las actividades de cría y venta de animales deberán de desarrollarse de acuerdo a lo estipulado por el Artículo 6 y 6 bis del presente reglamento. Dichas actividades no podrán ser realizadas en suelos que estén destinados para casa-habitación, industria, comercio o actividades similares, y en ningún caso podrán efectuarse en la vía pública.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE AGOSTO DE 2011)</small>
 
 DE LOS CADÁVERES DE ANIMALES
 
@@ -269,11 +285,11 @@ ARTICULO 12 BIS.- Será responsabilidad del Departamento de Control Animal el tr
 
 Las operaciones de levantamiento y traslado de cadáveres localizados en la vía pública corresponderán a la Dirección de Servicios Públicos Municipales, con el apoyo de las Delegaciones Municipales, quienes deberán trasladarlos al Departamento citado en el párrafo anterior para su disposición final de conformidad con el artículo 52 de la Ley sustantiva de la materia.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 13.
 
-Las Infracciones a la Ley, así como al presente reglamento, serán sancionadas con apercibimiento, multa y/o arresto administrativo hasta por 36 horas y en los casos en que el Juez Municipal así lo determine podrá conmutarse la sanción por trabajo a favor de la Comunidad estableciéndose un día por cada salario mínimo de multa que se aplique. En caso de reincidencia se aplicara la multa máxima en cada sanción y el arresto, los cuales no podrán ser conmutados.
+Las infracciones a la Ley, así como al presente reglamento, serán sancionadas con apercibimiento, multa y/o arresto administrativo hasta por 36 horas y en los casos en que el Juez Municipal así lo determine podrá conmutarse la sanción por trabajo a favor de la Comunidad estableciéndose un día por cada Unidad de Medida y Actualización de multa que se aplique, tomando como base su valor diario. En caso de reincidencia se aplicará la multa máxima en cada sanción y el resto, los cuales no podrán ser conmutados.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
@@ -297,29 +313,29 @@ h) (sic).- Los actos u omisiones carentes de un motivo razonable o legítimo y q
 
 DE LAS SANCIONES
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 14.
 
-Se impondrá multa de 1 a 10 días de salario mínimo vigente a quien incurra en cualquiera de las infracciones previstas en los artículos 15, 20, 29, 31, 34, 37, 51, de la Ley. Así como el artículo 11 bis del presente Reglamento
+Se impondrá multa de 1 a 10 veces el valor diario de la Unidad de Medida y Actualización, a quien incurra en cualquiera de las infracciones previstas en los artículos 15, 20, 29, 31, 34, 37, 51 de la Ley. Así como el artículo 11 bis del presente Reglamento.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 15.
 
-Se impondrá de 4 a 15 días de salario mínimo vigente a quien incurra en cualquiera de las infracciones previstas en los artículos 14, 16, 21, 22, 26, 27, 38, 40, 41, 42, 46, 48, 52, 53, 54 y 55 de la Ley.
+Se impondrá de 4 a 15 veces el valor diario de la Unidad de Medida y Actualización a quien incurra en cualquiera de las infracciones previstas en los artículos 14, 16, 21, 22, 26, 27, 38, 40, 41, 42, 46, 48, 52, 53, 54, y 55 de la Ley.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 16.
 
-Se impondrá multa de 5 a 30 días de salario mínimo vigente a quien incurra en cualquiera de las infracciones previstas en los artículos 6, 7, 13, 14, 17, 18, 19, 23, 24, 25, 30, 32, 33, 35, 43, 44, 47, de la Ley, además de los artículos, 6 bis, 9, 10, 11, 12, 13 bis, del presente Reglamento.
+Se impondrá multa de 5 a 30 veces el valor diario de la Unidad de Medida y Actualización a quien incurra en cualquiera de las infracciones previstas en los artículos 6, 7, 13, 14, 17, 18, 19, 23, 24, 25, 30, 32, 33, 35, 43, 44, 47, de la Ley, además de los artículos, 6 bis, 9, 10, 11, 12, 13 bis, del presente Reglamento.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 17.
 
-Para la imposición de cualquier multa se tendrá como base de cómputo el salario mínimo vigente en la zona geográfica correspondiente al municipio de la ciudad de Tijuana, Baja California.
+Para la imposición de cualquier multa se tendrá como base de cómputo la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
 
@@ -481,7 +497,7 @@ I. Participar activamente en las juntas del Consejo Consultivo, opinando respect
 
 II. Realizar propuestas en los temas inherentes a sus atribuciones.
 
-> <small>(ADICIONADA SU DENOMINACION CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADA SU DENOMINACIÓN CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE AGOSTO DE 2011)</small>
 
 DEL FUNCIONAMIENTO DEL CONSEJO.
 
@@ -565,7 +581,7 @@ Se derogan aquellas disposiciones administrativas que se opongan al presente Reg
 
 Dado en Palacio Municipal a los veinte días del mes de julio de mil novecientos noventa y ocho, en sesión ordinaria por el XV Ayuntamiento de Tijuana, Baja California.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 26 DE AGOSTO DE 2011.
 
@@ -576,3 +592,7 @@ El presente ordenamiento entrará en vigor al día siguiente de su publicación 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
+
+P.O. 6 DE ENERO DE 2017.
+
+> <small>[N. DE E. EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
