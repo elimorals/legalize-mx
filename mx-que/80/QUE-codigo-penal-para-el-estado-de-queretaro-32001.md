@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2016-12-21"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -719,7 +719,7 @@ Si el inculpado no puede otorgar la garantía, ésta será subsituída (sic) por
 
 ###### ARTICULO 68.
 
-El Organo Jurisdiccional fijará la pena dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible; la lesión o puesta en peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad ilícita y la culpabilidad del sujeto.
+El Órgano Jurisdiccional fijará la pena dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible; la lesión o puesta en peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad ilícita y la culpabilidad del sujeto.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2008)</small>
 
@@ -2377,9 +2377,9 @@ Si el agente devuelve al menor o a la persona que no tenga capacidad para compre
 
 ARTICULO 217 BIS.- Al cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado o colateral hasta el cuarto grado o por afinidad hasta el segundo grado, al tutor, curador, al adoptante o al adoptado que haga uso de medios físicos o psicoemocionales, así como la omisión grave contra la integridad física o psíquica de un miembro de su familia, independientemente de que se produzcan o no lesiones, se le impondrán de uno a cuatro años de prisión y se le sujetará a tratamiento psicológico especializado.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
-Cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad o personas con discapacidad, las penas previstas en este artículo se incrementarán hasta en una mitad más.
+Las penas previstas en este artículo se incrementarán hasta en una mitad más de lo ya establecido, cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad, personas con discapacidad o que, por las condiciones de sometimiento a las que se encuentren expuestos, les genere un estado de intimidación que les impida iniciar o continuar la denuncia.
 
 > <small>(REFORMADO, P.O. 12 DE JUNIO DE 2013)</small>
 
@@ -2397,9 +2397,9 @@ ARTICULO 217 QUATER.- En los casos previstos en este Capítulo, el Ministerio P�
 
 ARTICULO 217 QUINTUS.- Los beneficios jurisdiccionales, incluyendo la suspensión a prueba del procedimiento penal y los beneficios penitenciarios a los que conforme a las leyes vigentes tenga derecho el procesado o reo, respectivamente, únicamente se concederán si además de cumplir con los requisitos establecidos acredita haber recibido de manera completa el tratamiento psicológico especializado. Dicho tratamiento se brindará por las instituciones públicas, sociales o privadas que tengan por función dar el tratamiento o esté en condiciones de hacerlo.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
-ARTICULO 217 SEXIES.- Los hechos previstos en este Capítulo se perseguirán por querella, salvo cuando el ofendido sea menor de edad o mayor de sesenta años de edad o persona con discapacidad o que por sus condiciones no esté en aptitud de comprender los alcances de la conducta o resistirse a ella.
+ARTICULO 217 SEXTUS.- Los hechos previstos en este Capítulo se perseguirán de oficio.
 
 ###### ARTICULO 213.
 
@@ -4289,7 +4289,15 @@ Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía que 
 
 P.O. 21 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO".]
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS 217 BIS Y 217 SEXTUS DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
