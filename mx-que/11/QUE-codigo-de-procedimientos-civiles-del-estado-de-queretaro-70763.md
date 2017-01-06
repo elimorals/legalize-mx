@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2016-11-30"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -3039,7 +3039,9 @@ III. Los cobros judiciales de honorarios de profesionistas con título y los de 
 
 IV. La calificación de impedimentos de matrimonio;
 
-V. La constitución necesaria del patrimonio de familia y la oposición de terceros, con interés legítimo, para que se haga esa constitución y, en general, cualquier controversia que de dicho patrimonio se suscitara. No habiendo contienda, todo lo relativo al patrimonio familiar se substanciará en jurisdicción voluntaria;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+V. La constitución necesaria del patrimonio de la familia y la oposición de terceros con interés legítimo, para que se haga esa constitución y, en general, cualquier controversia que de dicho patrimonio se suscitara. No habiendo contienda, todo lo relativo al patrimonio familiar se substanciará ya sea en jurisdicción voluntaria o ante Notario Público;
 
 VI. Las diferencias que surjan entre marido y mujer sobre administración de bienes comunes, educación de hijos, oposición de cónyuges, padres y tutores y, en general, todas las cuestiones familiares que reclamen la intervención judicial;
 
@@ -6944,6 +6946,14 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 P.O. 30 DE NOVIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIO DE LA “LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
