@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2016-11-25"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -593,7 +593,7 @@ II.- Las Comisiones;
 
 III.- Los demás que se consideran necesarios para el cumplimiento de sus atribuciones.
 
-> <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA PUBLICADA EN LA G.P. DE 27 DE AGOSTO DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE CUATRO PÁRRAFOS.</small>
+> <small>[N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA PUBLICADA EN LA G.P. DE 27 DE AGOSTO DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE CUATRO PÁRRAFOS.]</small>
 
 > <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
 
@@ -1007,7 +1007,7 @@ Por acuerdo del Pleno, a propuesta de la Junta de Coordinación Política, se pu
 
 Los comités tienen a su cargo la gestión de tareas específicas, distintas de las asignadas a las comisiones, relativas al funcionamiento del Congreso.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 60.
 
@@ -1017,7 +1017,7 @@ La competencia de las comisiones son las que se derivan de las facultades que al
 
 Corresponde a las diferentes comisiones legislativas las siguientes atribuciones y facultades:
 
-a. Comisión de Desarrollo Económico y Comercio Binacional: corresponde el análisis, dictaminación y proposición de iniciativas de temas derivados de su competencia, así como dar seguimiento a los compromisos del Estado en su relación con la región, la federación y la comunidad internacional; promoverá el estrechamiento de vínculos sociales, políticos, económicos y culturales de la región. Con el Desarrollo de los trabajos legislativos, contribuirá para que el Estado se convierta en una prioridad estratégica de la política nacional e internacional, promoviendo la discusión de temas de interés común, con el fin de diseñar leyes, decretos y acuerdos que promuevan el comercio, la industria, y la competitividad del Estado.
+a. Comisión de Desarrollo Económico y Comercio Binacional: corresponde el análisis, dictaminación y proposición de iniciativas de temas derivados de su competencia, así como dar seguimiento a las políticas de desarrollo empresarial de nuestra región, proponiendo las acciones para fortalecer a los productores locales, promoviendo más inversiones y mayor calidad en los productos, que se reflejen en los salarios de los trabajadores. Con el Desarrollo de los trabajos legislativos, contribuirá para que el Estado se convierta en una prioridad estratégica de la política nacional e internacional, promoviendo la discusión de temas de interés común, con el fin de diseñar leyes, decretos y acuerdos que promuevan el comercio, la industria, y la competitividad del Estado.
 
 b. Comisión de Educación, Cultura, Ciencia y Tecnología: compete el análisis y dictaminación y proposición de iniciativas de ley en materia educativa, así como la formulación de pronunciamientos políticos, el establecimiento de acuerdos, la evaluación de las políticas públicas y la generación de propuestas encaminadas al mejor desempeño del sistema educativo y cultural del Estado; proponer e impulsar todas las iniciativas tendientes a fomentar el desarrollo integral de la ciencia y la tecnología en el Estado, así como revisar y actualizar permanentemente, la legislación vigente para dar respuesta efectiva a los retos y necesidades de la materia.
 
@@ -1035,7 +1035,7 @@ h. Comisión de Seguridad Pública y Protección Civil: tendrá a su cargo el an
 
 i. Comisión de Energía y Recursos Hidráulicos: es responsable del análisis, dictaminación y proposición de iniciativas que le sean turnados por la Mesa Directiva. Sus trabajos estarán encaminados a promover, mediante leyes, acuerdos o pronunciamientos, la solución a la problemática del agua y la suficiencia energética a fin de satisfacer las necesidades humanas, comerciales y agrícolas respecto al abastecimiento del vital líquido.
 
-j. Comisión de Asuntos Fronterizos y Migratorios: corresponde el análisis, dictaminación y proposición de iniciativas de temas derivados de su competencia, así como dar seguimiento a los compromisos del Estado en su relación con la región, la federación y la comunidad internacional; promoverá el estrechamiento de vínculos sociales, políticos, económicos y culturales de la región. Con el Desarrollo de los trabajos legislativos, contribuirá para que el Estado se convierta en una prioridad estratégica de la política nacional e internacional, promoviendo la discusión de temas de interés común, con el fin de diseñar leyes, decretos y acuerdos que promuevan el comercio, la industria, y la competitividad del Estado.
+j. Comisión de Asuntos Fronterizos y Migratorios: corresponde el análisis, dictaminación y proposición de iniciativas de temas derivados de su competencia, así como dar seguimiento a los compromisos del Estado en su relación con la región fronteriza, la federación y la comunidad internacional; promoverá el estrechamiento de vínculos sociales, políticos, económicos y culturales; así como promover las gestiones para la atención de necesidades en materia de asuntos migratorios.
 
 k. Comisión para la Igualdad entre Mujeres, Hombres y Juventud: es responsable del análisis, dictamen y proposición de iniciativas de ley en materia de igualdad. Corresponderá también la revisión y actualización permanente de la legislación estatal con el fin de asegurar y garantizar que se mantengan condiciones de pleno respeto e igualdad de trato y oportunidades entre mujeres, hombres y jóvenes dentro del sistema normativo local.
 
@@ -1539,23 +1539,11 @@ VII.- Las demás que establezca esta Ley y el Reglamento.
 
 El desempeño de las atribuciones y obligaciones de la Unidad de Asuntos Jurídicos estará bajo la vigilancia y control de la Comisión de Gobernación, Legislación y Puntos Constitucionales, correspondiéndole a esta la formulación de la propuesta de nombramiento de su titular ante la Junta de Coordinación Política.
 
-> <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>[N. DE E. EL DECRETO No. 44 PUBLICADO EN EL P.O. 6 DE ENERO DE 2017 DEROGA “LA SECCIÓN CUARTA DENOMINADA DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS DEL CAPÍTULO TERCERO; POR LO QUE DEL ANÁLISIS A DICHO DECRETO SE ADVIERTE QUE ESA SECCIÓN FUE REFORMADA POR DECRETO NO. 19 PUBLICADO EN EL P.O. 25 DE NOVIEMBRE 2016. SE SUGIERE CONSULTAR SU CRONOLOGÍA.]</small>
 
 ###### ARTICULO 83.
 
-La Dirección General de Asuntos Jurídicos es el órgano dependiente y auxiliar del Congreso del Estado cuyo objetivo es asesorar, analizar y emitir opinión jurídica sobre los asuntos legislativos y contenciosos del Congreso del Estado. Estará facultado para dar respuesta y puntual seguimiento a los asuntos de carácter contencioso en los que el Congreso del Estado actúe como parte ante los tribunales.
-
-Será coadyuvante con la Dirección General de Consultoría Legislativa en los asuntos que así determine la Mesa Directiva.
-
-Al frente de la Dirección General de Asuntos Jurídicos del Congreso del Estado, estará como titular un Director General, quien será nombrado y removido por la mayoría calificada de los Diputados integrantes del Pleno del Congreso.
-
-El Director General de Asuntos Jurídicos deberá permanecer en el ejercicio de sus funciones, hasta que sea designado su sucesor.
-
-El Director General de Asuntos Jurídicos será auxiliado por el personal que sea necesario para el adecuado y eficiente desempeño de sus funciones; designará y removerá directamente el personal a su cargo, conforme a las previsiones presupuestales.
-
-El Reglamento Interior fijará los requisitos que deberá reunir el titular de dicho órgano, así como las facultades y obligaciones que correspondan a las unidades y al personal que dependa del mismo.
-
-El desempeño de las atribuciones y obligaciones de la Dirección General de Asuntos Jurídicos, estará bajo la vigilancia y control de la Mesa Directiva del Estado.
+(DEROGADO, P.O. 6 DE ENERO DE 2017)
 
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
@@ -2921,7 +2909,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 
 P.O. 25 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 19 MEDIANTE EL CUAL SE APRUEBAN REFORMAS, CREACIONES Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 19 MEDIANTE EL CUAL SE APRUEBAN REFORMAS, CREACIONES Y ADICIONES A DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 PRIMERO.- Se derogan las disposiciones que contravengan el presente Decreto.
 
@@ -2960,3 +2948,9 @@ OCTAVO.- Las presentes reformas no afectarán los derechos adquiridos y demás p
 NOVENO.- Los actos jurídicos realizados por los Diputados, Órganos de Gobierno, de Trabajo, de Apoyo Parlamentario y Administrativo, así como por la demás estructura del Poder Legislativo durante el lapso de tiempo que transcurra entre la entrada en vigor de las presentes reformas y la designación de los titulares a que se refiere el artículo CUARTO Transitorio del presente Decreto, se considerarán como legalmente válidos, por lo que en tanto, no se realicen las designaciones de los nuevos servidores públicos, las funciones parlamentarias y administrativas, seguirán siendo realizadas por los actuales titulares y conforme a los procedimientos que se venían realizando hasta antes de la entrada en vigor de las presentes reformas.
 
 DÉCIMO.- Las referencias que en lo particular se hagan en leyes y demás disposiciones normativas a la comisión de reformas de Estado o a la Comisión jurisdiccional en lo sucesivo se entenderá hechas a la Comisión de Reforma de Estado y Jurisdiccional a la que hace referencia las presentes reformas.
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 44 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DEL ARTÍCULO 60, LA DEROGACIÓN DE LA SECCIÓN CUARTA DENOMINADA DE LA DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS DEL CAPÍTULO TERCERO Y DEL ARTÍCULO 83 TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- Las presentes reformas deberán publicarse en la Gaceta del Poder Legislativo, y entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
