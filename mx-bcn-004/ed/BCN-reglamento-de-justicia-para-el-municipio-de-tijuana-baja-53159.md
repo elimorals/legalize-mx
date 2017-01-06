@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-justicia-para-el-municipio-de-tijuana-baja-53159"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-12"
-last_updated: "2015-05-29"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE JUSTICIA PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 12 de enero de 2007.
 
@@ -343,9 +343,11 @@ Las resoluciones que se dicten para decidir el recurso de inconformidad, es recu
 
 Cuando el ciudadano sancionado, opte por interponer el recurso de inconformidad, deberá hacerlo dentro del término legal de quince días hábiles, siguientes a la notificación personal del acto administrativo impugnado; en caso de ser necesario, el Juez Municipal tan pronto como lo reciba mandará requerir a la autoridad emisora del acto, un informe justificado, mismo que deberá rendir en un plazo de tres días hábiles improrrogables. Recibido el mismo, se iniciará la tramitación del procedimiento sumarísimo, oral y público a que se refiere el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### Artículo 42.
 
-Si la autoridad emisora del acto, mediante el que se impone multa o sanción, omitiere rendir su informe con justificación en el plazo indicado, el Juez Municipal, girará nuevo requerimiento con apercibimiento de multa de hasta por 30 días de salario mínimo, que en su caso se hará efectiva por conducto de la Tesorería Municipal al funcionario responsable de la omisión, para el efecto de que rinda el informe en el plazo de veinticuatro horas.
+Si la autoridad emisora del acto, mediante el que se impone multa o sanción, omitiere rendir su informe con justificación en el plazo indicado, el Juez Municipal, girará nuevo requerimiento con apercibimiento de multa de hasta por 30 veces el valor diario de la Unidad de Medida y Actualización, en los términos del artículo 66 de este Reglamento, que en su caso se hará efectiva por conducto de la Tesorería Municipal al funcionario responsable de la omisión, para el efecto de que rinda el informe en el plazo de veinticuatro horas.
 
 Si a pesar del requerimiento anterior, la autoridad emisora se abstiene de rendir su informe, el Juez Municipal hará efectivo el apercibimiento de multa girando el oficio correspondiente a la Tesorería Municipal para que opere el descuento vía nómina, y se tendrá por cierta la existencia del acto impugnado continuado (sic) con el trámite del recurso hasta su resolución y se dará vista al Síndico Municipal para que determine lo conducente respecto a la falta de cumplimiento de dicho funcionario.
 
@@ -669,7 +671,9 @@ I. Apercibimiento;
 
 II. Amonestación;
 
-III. Multa hasta por 45 días de salario mínimo general vigente en el Estado;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+III. Multa hasta por 45 veces el valor diario de la Unidad de Medida y Actualización, entendiéndose por ésta aquella que sea determinada por el Instituto Nacional de Estadística y Geografía, en base al Decreto del 27 de enero de 2016, publicado en el Diario oficial de la Federación, en vigor al día siguiente;
 
 IV. Uso de la fuerza pública; y
 
@@ -1624,3 +1628,9 @@ SEGUNDO.- Publíquese en el Periódico Oficial del Estado de Baja California, ó
 P.O. 29 DE MAYO DE 2015.
 
 UNICO.- El presente acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS Y REGLAMENTOS EN LOS TÉRMINOS DEL ANEXO UNO QUE INTEGRA EL PRESENTE DICTAMEN, RELATIVOS A LA ADECUACIÓN A LA REGLAMENTACIÓN MUNICIPAL DERIVADAS DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
