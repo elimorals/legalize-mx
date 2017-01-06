@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-explotacion-de-aparatos-mecanicos-2711"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-04-29"
-last_updated: "1994-04-29"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA EXPLOTACION DE APARATOS MECANICOS, ELECTRONICOS, ELECTROMECANICOS Y MUSICALES EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 29 de abril de 1994.
 
@@ -211,13 +211,17 @@ La determinación o imposición de las sanciones por cualquiera de las infraccio
 
 Las infracciones o faltas al presente reglamento serán sancionadas con amonestación, multa, arresto y en su caso, cancelación de licencia, permiso o autorización de funcionamiento, suspensión o clausura dependiendo de la gravedad de la falta que se cometa.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 20.
 
-Para la imposición de cualquier multa se tomara como base el salario mínimo general vigente en el Municipio de Tijuana, Baja California.
+Para la imposición de cualquier multa se tomará como base para el cómputo el valor diario de la Unidad de Medida y Actualización, determinado el (sic) Instituto Nacional de Estadística y Geografía, al momento de cometerse la infracción, en base al Decreto del 27 de enero de 2016, publicado en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 21.
 
-Se impondrá multa de uno a cincuenta días de salario mínimo vigente a quien incurra en cualquier violación al presente reglamento.
+Se impondrá multa de uno a cincuenta veces el valor diario de la Unidad de Medida y Actualización, a quien incurra en cualquier violación al presente reglamento.
 
 ###### ARTICULO 22.
 
@@ -274,3 +278,9 @@ QUE EL PRESENTE REGLAMENTO PARA LA EXPLOTACION DE APARATOS MECANICOS, ELECTRONIC
 EL SECRETARIO DEL AYUNTAMIENTO
 
 C. LIC. RUBEN ALFONSO FERNANDEZ ACEVES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS Y REGLAMENTOS EN LOS TÉRMINOS DEL ANEXO UNO QUE INTEGRA EL PRESENTE DICTAMEN, RELATIVOS A LA ADECUACIÓN A LA REGLAMENTACIÓN MUNICIPAL DERIVADAS DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.]
