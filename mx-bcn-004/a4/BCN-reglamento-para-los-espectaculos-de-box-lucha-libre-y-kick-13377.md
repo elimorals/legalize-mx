@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-los-espectaculos-de-box-lucha-libre-y-kick-1337
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-28"
-last_updated: "1998-12-28"
+last_updated: "2017-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13377&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LOS ESPECTACULOS DE BOX, LUCHA LIBRE Y KICK BOXING PROFESIONALES PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-REGLAMENTO PARA LOS ESPECTACULOS DE BOX, LUCHA LIBRE Y KICK BOXING PROFESIONALES PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
+REGLAMENTO PARA LOS ESPECTÁCULOS DE BOX, LUCHA LIBRE Y KICK BOXING PROFESIONALES PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 1998.
 
@@ -1251,7 +1251,7 @@ Queda estrictamente prohibido usar guantes quebrados o que tengan relleno defect
 
 ###### ARTICULO 235°.
 
-Las vendas para las manos de los peleadores serán de gasa con una longitud máxima de 9 metros, y con un ancho no mayor de 5 centímetros para cada mano. Se sujetará con tela adhesiva que no podrá tener una longitud mayor de 1.50 metros y un ancho máximo de 4 centímetros para cada mano. La tela adhesiva sólo podrá usarse sobre el dorso de la mano, al rededor de la muñeca y entre los dedos para sujetar el vendaje, quedando prohibido ponérsela sobre los nudillos.
+Las vendas para las manos de los peleadores serán de gasa con una longitud máxima de 9 metros, y con un ancho no mayor de 5 centímetros para cada mano. Se sujetará con tela adhesiva que no podrá tener una longitud mayor de 1.50 metros y un ancho máximo de 4 centímetros para cada mano. La tela adhesiva sólo podrá usarse sobre el dorso de la mano, alrededor de la muñeca y entre los dedos para sujetar el vendaje, quedando prohibido ponérsela sobre los nudillos.
 
 ###### ARTICULO 236°.
 
@@ -1275,7 +1275,9 @@ La Comisión está facultada plenamente para imponer sanciones, a las personas f
 
 I.- Amonestación verbal: Procederá por infracción a las disposiciones que establecen los artículos 4, 17, 18, 35, 42, 43, 60, 65, 66, 71, 77, 81, 86, 96, 135, 139, 182, 175, 189, 263, 267, 297 y aquellos en los que se permite a la Comisión, el uso de su facultad discrecional para aplicarla.
 
-II.- Multa: podrá imponerse a los infractores de 1 a 100 días del salario mínimo diario vigente en el Estado. Procederá por infracción a las disposiciones contenidas en los numerales 4, 17, 18, 35, 42, 43, 50, 60, 65, 66, 77, 81, 82, 86, 94, 95, 96, 117, 119, 127, 135, 139, 175, 182, 189, 263, 267, 297 y aquellos en los que se permite a la Comisión, el uso de su facultad discrecional para aplicarla.
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+II.- Multa: Podrá imponerse a los infractores de 1 a 100 veces el valor diario de la Unidad de Medida y Actualización, por contravención a las disposiciones contenidas en los numerales 4, 17, 18, 35, 42, 43, 50, 60, 65, 66, 77, 81, 82, 86, 94, 95, 96, 117, 119, 127, 135, 139, 175, 182, 189, 263, 267, 297 y aquellos en los que se permite a la Comisión, el uso de su facultad discrecional para aplicarla. La Unidad de Medida y Actualización tendrá el valor que determine por el Instituto Nacional de Estadística y Geografía en base al Decreto del 27 de enero de 2016, publicado en el Diario Oficial de la Federación, en vigor al día siguiente.
 
 III.- Suspensión: Procederá por un plazo de 10 días hasta 1 año, para los infractores de las normas establecidas en los artículos 4, 17, 18, 35, 42, 43, 60, 65, 66, 70, 77, 80, 81, 85, 86, 96, 97, 117, 119, 127, 135, 139, 146, 150, 170, 171, 175, 182, 189, 221, 240, 241, 263, 267, 297, 318 y aquellos artículos en los que se permite a la Comisión, utilizar su atribución discrecional para aplicarla y en los casos que también se amerite la revocación del fallo.
 
@@ -1431,7 +1433,7 @@ No podrá ser cambiada la lucha estelar ni sustituido, alguno de los participant
 
 ###### ARTICULO 263°.
 
-Encaso de que algún luchador por causa de fuerza mayor no se presente a participar en su lucha programada no obstante que esta Comisión haya recibido una notificación por escrito, donde el luchador se comprometía a participar en dicho programa, deberá justificar su ausencia o en caso contrario se hará acreedor a una sanción que determine la propia Comisión.
+En caso de que algún luchador por causa de fuerza mayor no se presente a participar en su lucha programada no obstante que esta Comisión haya recibido una notificación por escrito, donde el luchador se comprometía a participar en dicho programa, deberá justificar su ausencia o en caso contrario se hará acreedor a una sanción que determine la propia Comisión.
 
 ###### ARTICULO 264°.
 
@@ -1878,3 +1880,9 @@ TRANSITORIOS:
 PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 SEGUNDO.- Se abrogan todas las disposiciones administrativas de carácter municipal que se contrapongan al presente reglamento.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ENERO DE 2017.
+
+> <small>[N. DE E. EL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS Y REGLAMENTOS EN LOS TÉRMINOS DEL ANEXO UNO QUE INTEGRA EL PRESENTE DICTAMEN, RELATIVOS A LA ADECUACIÓN A LA REGLAMENTACIÓN MUNICIPAL DERIVADAS DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
