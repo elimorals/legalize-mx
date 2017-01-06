@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-seguridad-en-albercas-y-balnearios-32082"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-06-13"
-last_updated: "2003-06-13"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 ---
 # REGLAMENTO PARA LA SEGURIDAD EN ALBERCAS Y BALNEARIOS PUBLICOS DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-REGLAMENTO PARA LA SEGURIDAD EN ALBERCAS Y BALNEARIOS PUBLICOS DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
+REGLAMENTO PARA LA SEGURIDAD EN ALBERCAS Y BALNEARIOS PÚBLICOS DEL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 13 de junio de 2003.
 
@@ -35,7 +35,7 @@ C E R T I F I C A:
 
 Que en el acta levantada con motivo de la Sesión Ordinaria de Cabildo celebrada el día veintinueve de mayo del dos mil tres, del XVII Ayuntamiento de Tijuana, se encuentra un acuerdo que a la letra dice:
 
-Acta 51.- "..el H. Cuerpo Edilicio aprueba por unanimidad de votos el siguiente punto de acuerdo: UNICO.- Se aprueba el Reglamento para la Seguridad en Albercas y Balnearios del Municipio de Tijuana, Baja California, el cual se anexa al presente acuerdo y se tiene por reproducido como si se insertara a la letra del mismo.- "...
+Acta 51.- "......el H. Cuerpo Edilicio aprueba por unanimidad de votos el siguiente punto de acuerdo: UNICO.- Se aprueba el Reglamento para la Seguridad en Albercas y Balnearios del Municipio de Tijuana, Baja California, el cual se anexa al presente acuerdo y se tiene por reproducido como si se insertara a la letra del mismo.- "...
 
 Para todos los efectos a que haya lugar, se extiende la presente CERTIFICACION, en la ciudad de Tijuana, Baja California, a los treinta días del mes de mayo del dos mil tres.
 
@@ -80,6 +80,10 @@ IX. Salvavidas: Persona que cuenta con la certificación necesaria para ejercer 
 X. Seguridad: Ausencia de peligros basada en señalamientos que garanticen confianza y tranquilidad.
 
 XI. Señalamientos: Descripciones preventivas, informativas y restrictivas, encaminadas a salvaguardar la seguridad de los usuarios de las albercas o balnearios.
+
+> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XII. Unidad de Medida y Actualización: la que se encuentre determinada por el Instituto Nacional de Estadística y Geografía, en base al Decreto del 27 de enero de 2016, publicado en el Diario Oficial de la Federación, en vigor al día siguiente
 
 ### CAPITULO II. De la Autoridad Competente y sus Atribuciones
 
@@ -433,29 +437,41 @@ XVII.- Las demás que establezca el reglamento.
 
 A los infractores de las disposiciones contenidas en el reglamento, independientemente de la responsabilidad civil o penal en que incurran, se les impondrá por primera ocasión, las sanciones de acuerdo a la falta cometida y que podrán ser: multa y en caso de reincidencia, clausura del establecimiento y suspensión o retiro de la certificación para los salvavidas.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### Artículo 46.
 
-Se impondrá multa de 5 a 10 días de salario mínimo general vigente en la entidad, a quien cometa cualquiera de las infracciones contempladas en las fracciones I, III, IV, V y XII del artículo 44 de este reglamento.
+Se impondrá multa de 5 a 10 veces el valor diario de la Unidad de Medida y Actualización, a quien cometa cualquiera de las infracciones contempladas en las fracciones I, III, IV, V y XII del artículo 44 de este reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### Artículo 47.
 
-Se impondrá multa de 10 a 20 días de salario mínimo general vigente en la entidad, a quien cometa cualquiera de las infracciones contenidas en las fracciones II, VI y VII del artículo 44 de este reglamento.
+Se impondrá multa de 10 a 20 veces el valor diario de la Unidad de Medida y Actualización, a quien cometa cualquiera de las infracciones contenidas en las fracciones II, VI y VII del artículo 44 de este reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### Artículo 48.
 
-Se impondrá multa de 20 a 30 días de salario mínimo general vigente en la entidad, a quien cometa cualquiera de las infracciones contenidas en las fracciones VIII, IX, X, XI, XIII y XIV del artículo 44 de este reglamento.
+Se impondrá multa de 20 a 30 veces el valor diario de la Unidad de Medida y Actualización, a quien cometa cualquiera de las infracciones contenidas en las fracciones VIII, IX, X, XI, XIII y XIV del artículo 44 de este reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### Artículo 49.
 
-Se impondrá multa de hasta 10 días de salario mínimo general vigente en la entidad, a quien incumpla lo establecido en el artículo 20 de este reglamento.
+Se impondrá multa de hasta 10 veces el valor diario de la Unidad de Medida y Actualización, a quien incumpla lo establecido en el artículo 20 de este reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### Artículo 50.
 
-Se impondrá multa de hasta 30 días de salario mínimo general vigente en la entidad, a quien incumpla en lo establecido en el artículo 21 de este reglamento.
+Se impondrá multa de hasta 30 veces el valor diario de la Unidad de Medida y Actualización, a quien incumpla en lo establecido en el artículo 21 de este reglamento.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### Artículo 51.
 
-Se impondrá multa de hasta 50 días de salario mínimo general vigente en la entidad, a quien incumpla en lo establecido en cualquiera de los artículos 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 y 43 de este reglamento.
+Se impondrá multa de hasta 50 veces el valor diario de la Unidad de Medida; y Actualización, a quien incumpla en lo establecido en cualquiera de los artículos 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42 y 43 de este reglamento.
 
 ###### Artículo 52.
 
@@ -526,3 +542,9 @@ PRIMERO.- Publíquese el presente Reglamento en el Periódico Oficial, órgano d
 SEGUNDO.- El presente reglamento entrará en vigor pasados 30 días a partir de su publicación, salvaguardando así el derecho del particular, para acondicionar sus instalaciones y servicios de acuerdo a lo establecido por el ordenamiento.
 
 TERCERO.- Se abrogan todas aquellas disposiciones que se opongan al presente.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ENERO DE 2017.
+
+> <small>[N. DE E. EL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS Y REGLAMENTOS EN LOS TÉRMINOS DEL ANEXO UNO QUE INTEGRA EL PRESENTE DICTAMEN, RELATIVOS A LA ADECUACIÓN A LA REGLAMENTACIÓN MUNICIPAL DERIVADAS DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
