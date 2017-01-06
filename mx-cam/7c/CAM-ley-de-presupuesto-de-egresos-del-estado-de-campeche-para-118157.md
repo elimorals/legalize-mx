@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-presupuesto-de-egresos-del-estado-de-campeche-para-11815
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-28"
-last_updated: "2016-12-28"
+last_updated: "2017-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE PRESUPUESTO DE EGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL 2017
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE PRESUPUESTO DE EGRESOS DEL ESTADO DE CAMPECHE PARA EL EJERCICIO FISCAL 2017
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 6 DE ENERO DE 2017.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 28 de diciembre de 2016.
 
@@ -92,6 +92,10 @@ VI. Para incremento salarial del sector educación se integra una reserva de $1,
 Para el caso de adquisiciones de bienes, productos o servicios que requieran las Dependencias que integran la Administración Pública Centralizada, éstas deberán obtener autorización previa de la Secretaría de Administración e Innovación Gubernamental, para efectos de llevar a cabo el control de dichas adquisiciones, cuando impliquen un cargo al gasto etiquetado, con excepción de aquellas adquisiciones que con cargo a ese mismo gasto sean realizadas directamente por las Dependencias ejecutoras de salud y educación, las que únicamente tendrán el deber de informar a la precitada Secretaría de las adquisiciones que realicen trimestralmente para efectos también de control. En materia del gasto etiquetado en el rubro de seguridad pública, la Secretaría de Administración e Innovación Gubernamental podrá realizar las adquisiciones a solicitud de las Dependencias ejecutoras o éstas podrán hacerlas de manera directa cumpliendo con informar trimestralmente de sus adquisiciones a la indicada Secretaría.
 
 Para efectos del párrafo anterior, se entenderá por gasto etiquetado el definido en el artículo 1 fracción XVIII en relación con la fracción XXXVI de la Ley de Disciplina Financiera y Responsabilidad Hacendaria del Estado de Campeche y sus Municipios.
+
+> <small>(F. DE E., P.O. 6 DE ENERO DE 2017)</small>
+
+La información relativa a la aplicación del capítulo 4000 por parte de las Secretarías de Gobierno, de Seguridad Pública y, Protección Civil, así como la Fiscalía General del Estado de Campeche, será considerada como información confidencial. También aplicará este carácter a la contabilidad gubernamental que integra la cuenta pública, exclusivamente durante el tiempo de su consolidación y hasta que concluya su fiscalización por parte de la Auditoría Superior del Estado, la cual quedará liberada de este carácter cuando la precitada autoridad fiscalizadora dé por concluida su revisión.
 
 ###### Artículo 3.
 
@@ -516,3 +520,5 @@ Este Decreto es dado en el Palacio de Gobierno del Estado, en San Francisco de C
 EL GOBERNADOR DEL ESTADO DE CAMPECHE, LIC. RAFAEL ALEJANDRO MORENO CÁRDENAS.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS MIGUEL AYSA GONZÁLEZ.- RÚBRICAS.
 
 [N. DE E VÉASE FORMATOS DE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS EN LA SEGUNDA SECCIÓN DEL P.O. DE 28 DE DICIEMBRE DE 2016, PÁGINA DE LA 16 A LA 418.]
+
+> <small>[N. DE E. VÉASE F. DE E. A LOS FORMATOS Y ANEXOS DE LA LEY DE DISCIPLINA FINANCIERA DE LAS ENTIDADES FEDERATIVAS Y LOS MUNICIPIOS, EN EL P.O. DE 6 DE ENERO DE 2017, PÁGINAS DE LA 5 A LA 8.]</small>
