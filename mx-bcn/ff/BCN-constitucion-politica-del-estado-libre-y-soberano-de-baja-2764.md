@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2016-12-30"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -301,9 +301,9 @@ Sin poner en riesgo la unidad estatal, esta Constitución reconoce y garantiza e
 
 Para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, el Estado y los Municipios establecerán las instituciones y las políticas públicas requeridas para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales tendrán que ser diseñadas y operadas conjuntamente con ellos.
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
-Toda persona tiene el derecho a la práctica del deporte, a la cultura física, al desarrollo urbano sustentable, a la movilidad universal y a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a la salud, el derecho a la igualdad y a la no discriminación, a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
+Toda persona tiene el derecho a la práctica del deporte, a la cultura física, a gozar de un medio ambiente adecuado para su desarrollo y bienestar, asimismo, a la salud, el derecho a la igualdad y a la no discriminación; la libertad de convicciones éticas, conciencia y de religión; a recibir educación pública, obligatoria y gratuita que imparta el Estado, en los niveles preescolar, primaria, secundaria y media superior para desarrollar armónicamente todas las facultades del ser humano y fomentar en él, a la vez, el amor a la Patria, el respeto a los Derechos Humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia. Las autoridades públicas del Estado, harán lo conducente a fin de que se asegure el disfrute de estos derechos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
@@ -367,7 +367,7 @@ V.- Los sujetos obligados deberán preservar sus documentos en archivos administ
 
 VI.- La Ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
-VIl.- La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que disponga la Ley.
+VII.- La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que disponga la Ley.
 
 El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Baja California, es el organismo constitucional autónomo especializado, imparcial y colegiado al que corresponderá garantizar el acceso a la información pública y la protección de datos personales en poder de los sujetos obligados; fomentar la cultura de transparencia y estimular la participación ciudadana; emitir políticas de transparencia proactiva; coadyuvar en la implementación de políticas y mecanismos de gobierno abierto y resolver los recursos de revisión en los términos que establezca la Ley. El Instituto estará dotado de personalidad jurídica y patrimonio propio, contará con plena autonomía técnica, de gestión y de decisión sobre el ejercicio de su presupuesto, así como de determinación de su organización interna.
 
@@ -391,7 +391,7 @@ e.- En caso de que el Gobernador objetara el nombramiento, el Congreso Local rea
 
 f.- En todas las etapas del proceso de nombramiento de Comisionados a cargo del Comité Ciudadano y del Congreso Local, deberán observarse los principios de transparencia y participación ciudadana.
 
-Los Comisionados deberán reunir los requisitos que señalan las fracciones I, V, VI, VIl y VIII del artículo 60 de la Constitución Local. Además poseer en ese momento título profesional con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello y haber realizado por lo menos durante tres años anteriores a su nombramiento, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación relacionadas con la transparencia y acceso a la información pública. En la conformación del Pleno del Instituto deberá atenderse a la equidad de género.
+Los Comisionados deberán reunir los requisitos que señalan las fracciones I, V, VI, VII y VIII del artículo 60 de la Constitución Local. Además poseer en ese momento título profesional con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello y haber realizado por lo menos durante tres años anteriores a su nombramiento, una actividad profesional relacionada con la aplicación, interpretación, elaboración o investigación relacionadas con la transparencia y acceso a la información pública. En la conformación del Pleno del Instituto deberá atenderse a la equidad de género.
 
 Los Comisionados no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
@@ -485,7 +485,7 @@ El Ejecutivo Estatal y los Ayuntamientos, deberán prever en sus Planes de Desar
 
 El Estado en todas sus decisiones y actuaciones, proveerá lo necesario, expedirá leyes y normas en materia de derechos de las niñas, niños y adolescentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2003)</small>
 
 ###### ARTICULO 9.
 
@@ -517,9 +517,11 @@ Los derechos de ciudadanos se pierden y suspenden, respectivamente, en los casos
 
 ### CAPITULO I.. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO ESTATAL Y MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 11.
 
-La forma de Gobierno del Estado es republicana, representativa y popular.
+La forma de Gobierno del Estado es republicana, representativa, democrática, laica y popular.
 
 El Gobierno del Estado se divide, para su ejercicio, en tres poderes: el Legislativo, el Ejecutivo y el Judicial, los cuales actúan separada y libremente, pero cooperando en forma armónica a la realización de los fines del Estado.
 
@@ -3345,7 +3347,7 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Córrase el trámite que señala el Artículo 112, de la Constitución Política del Estado a los Municipios para que emitan su opinión, en los términos de Ley.
 
-P.O. 6 DE OCTUBRE DE 2000.
+P.O. 6 DE OCTUBRE DEL 2000.
 
 PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -4385,6 +4387,22 @@ P.O. 16 DE DICIEMBRE DE 2016.
 
 P.O. 30 DE DICIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 45 MEDIANTE EL CUAL SE INCORPORA LA ADICIÓN DE UN QUINTO PÁRRAFO AL ARTÍCULO 57 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 45 MEDIANTE EL CUAL SE INCORPORA LA ADICIÓN DE UN QUINTO PÁRRAFO AL ARTÍCULO 57 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 12 MEDIANTE EL CUAL SE INCORPORA LA REFORMA AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Remítase al Ejecutivo la presente reforma constitucional para los efectos legales conducentes.
+
+SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 16 MEDIANTE EL CUAL SE INCORPORA LA REFORMA AL PRIMER PÁRRAFO DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
