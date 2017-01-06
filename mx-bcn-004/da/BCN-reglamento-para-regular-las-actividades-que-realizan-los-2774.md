@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-regular-las-actividades-que-realizan-los-2774"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-10-10"
-last_updated: "2016-03-11"
+last_updated: "2017-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA REGULAR LAS ACTIVIDADES QUE REALIZAN LOS COMERCIANTES AMBULANTES, DE PUESTOS FIJOS Y SEMI-FIJOS, Y LOS DE MERCADOS SOBRE RUEDAS PARA EL MUNICIPIO DE TIJUANA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el sábado 10 de octubre de 1992.
 
@@ -553,15 +553,15 @@ IV.- Establecer estrategias, y emitir recomendaciones para la regulacion y contr
 
 ### CAPITULO SEGUNDO (SIC). SANCIONES Y RECURSOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2017)</small>
 
-###### ARTICULO 30.
+###### ARTÍCULO 30°.
 
-La violación al presente Reglamento, dará lugar según la gravedad de la falta, la capacidad Económica, y el giro comercial del infractor a las siguientes sanciones:
+La violación al presente Reglamento dará lugar, según la gravedad de la falta, la capacidad Económica y el giro comercial del infractor, a las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-I. Con multa de 5 a 50 veces el salario diario vigente en la zona a quienes incurran en los supuestos a que se refieren los artículos 13o., 16o., incisos: A, F, J, K, L, M, N, O, P, Q, R, S, T, V, del presente Reglamento, en caso de reincidencia se aplicara una sanción de arresto administrativo hasta por 36 horas, sin perjuicio de la multa que se establece para dicho efecto.
+I. Multa de 5 a 50 veces el valor diario de la Unidad de Medida y Actualización, determinado por el Instituto Nacional de Estadística y Geografía, en base al Decreto del 27 de enero de 2016, publicado en el Diario Oficial de la Federación, a quienes incurran en los supuestos a que se refieren los artículos 13o., 16o., incisos: A, F, J, K, L, M, N, O, P, Q, R, S, T, V, del presente Reglamento, en caso de reincidencia se aplicará una sanción de arresto administrativo hasta por 36 horas, sin perjuicio de la multa que se establece para dicho efecto.
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 2016)</small>
 
@@ -722,3 +722,9 @@ P.O. 11 DE MARZO DE 2016.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA LA MODIFICACIÓN DEL REGLAMENTO PARA REGULAR LAS ACTIVIDADES QUE REALIZAN LOS COMERCIANTES AMBULANTES DE PUESTOS FIJOS Y SEMIFIJOS, Y LOS MERCADOS SOBRE RUEDAS PARA EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA".]
 
 PRIMERO: El presente acuerdo una vez aprobado, entrara en vigor a partir del momento de su publicación en el Periódico Oficial del Estado de Baja California, y se publicara en la Gaceta Municipal, Órgano de difusión del Ayuntamiento de Tijuana, Baja California, para conocimiento de la ciudadanía.
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS Y REGLAMENTOS EN LOS TÉRMINOS DEL ANEXO UNO QUE INTEGRA EL PRESENTE DICTAMEN, RELATIVOS A LA ADECUACIÓN A LA REGLAMENTACIÓN MUNICIPAL DERIVADAS DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
