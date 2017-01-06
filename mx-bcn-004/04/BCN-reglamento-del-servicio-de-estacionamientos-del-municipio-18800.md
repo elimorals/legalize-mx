@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-servicio-de-estacionamientos-del-municipio-18800
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-04"
-last_updated: "2000-12-04"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18800&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DEL SERVICIO DE ESTACIONAMIENTOS DEL MUNICIPIO DE TIJUANA BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en el periódico Oficial del Estado de Baja California, el lunes 4 de diciembre del 2000.
 
@@ -98,6 +98,10 @@ h) Ley de Edificaciones: La Ley de Edificaciones del Estado de Baja California.
 i) Reglamento a la Ley de Edificaciones: Reglamento a la Ley de Edificaciones del Estado de Baja California para el Municipio de Tijuana, Baja California.
 
 j) Reglamento.- El presente reglamento.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+a) (sic) Unidad de Medida y Actualización.- la que se encuentre determinada por el Instituto Nacional de Estadística y Geografía, en base al Decreto del 27 de enero de 2016, publicado en el Diario Oficial de la Federación, en vigor al día siguiente.
 
 ###### ARTICULO 4.
 
@@ -233,7 +237,9 @@ A) REQUISITOS ADMINISTRATIVOS:
 
 5.- Croquis de localización;
 
-6.- Póliza de seguro adecuado a juicio de la autoridad con cobertura de robo total, o siniestro, por una (sic) monto máximo equivalente a 3,958 salarios mínimos vigentes en el Estado;
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
+6.- Póliza de seguro adecuada a juicio de la autoridad con cobertura de robo total, o siniestro, por un monto máximo equivalente a 3,958 veces el valor diario de la Unidad de Medida y Actualización;
 
 7.- Certificado de terminación de obra;
 
@@ -429,11 +435,13 @@ c) Clausura provisional;
 
 d) Clausura definitiva del establecimiento mercantil y cancelación del permiso en su caso.
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 28.
 
-INFRACCIONES Y SANCIONES.- Se aplicará una multa de 1 a 5 días de salario mínimo vigente en el Estado la violación al inciso a) del artículo 19, de 5 a 15, la violación a los incisos b), f) y g) del artículo 19 y primer párrafo del artículo 20, de 15 a 50 la violación de los incisos c), d), e), i) y j) del artículo 19 y segundo párrafo del artículo 20, y de 100 a 400 la violación al artículo 21.
+INFRACCIONES Y SANCIONES.- Se aplicará una multa de 1 a 5 veces el valor diario de la Unidad de Medida y Actualización la violación al inciso a) del artículo 19, de 5 a 15, la violación a los incisos b), f) y g) del artículo 19 y primer párrafo del artículo 20, de 15 a 50 la violación de los incisos c), d), e), i) y j) del artículo 19 y segundo párrafo del artículo 20, y de 100 a 400 la violación al artículo 21.
 
-En el caso de robo de vehículo y que el prestador del servicio no cuente con la póliza de seguro vigente, se cubrirá el costo del mismo hasta por un monto de 3,958 salarios mínimos vigentes en el Estado, sin menoscabo de las sanciones correspondientes.
+En el caso de robo de vehículo y que el prestador del servicio no cuente con la póliza de seguro vigente, se cubrirá el costo del mismo hasta por un monto de 3,958 veces el valor diario de la Unidad de Medida y Actualización, sin menoscabo de las sanciones correspondientes.
 
 ###### ARTICULO 29.
 
@@ -454,3 +462,9 @@ SEGUNDO: Se deroga el Reglamento de Estacionamiento y Guarda de Vehículos para 
 TERCERO.- Se concederá un plazo de noventa días a partir de la fecha de que entre en vigor el presente reglamento para que todos los estacionamientos que estén operando a la fecha, y no lo hayan realizado, exhiban la póliza de seguro a que se refiere el punto 6 del inciso A) del artículo 13.
 
 CUARTO: El presente reglamento formará un capítulo del Reglamento de Actividades Comerciales que al efecto emita el Ayuntamiento.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE ENERO DE 2017.
+
+> <small>[N. DE E. EL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS Y REGLAMENTOS EN LOS TÉRMINOS DEL ANEXO UNO QUE INTEGRA EL PRESENTE DICTAMEN, RELATIVOS A LA ADECUACIÓN A LA REGLAMENTACIÓN MUNICIPAL DERIVADAS DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
