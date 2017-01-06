@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-bienes-y-servicios-del-municipio-de-tijuana-24553
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-03-08"
-last_updated: "2013-12-06"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE BIENES Y SERVICIOS DEL MUNICIPIO DE TIJUANA BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de marzo de 2002.
 
@@ -187,13 +187,13 @@ CONTENIDO DEL EXPEDIENTE TÉCNICO:
 
 8. Cuando el particular solicitante se encuentre constituido como persona moral, deberá acreditar su personalidad a través de poder general expedido por notario público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2017)</small>
 
-Para la enajenación de los bienes una vez autorizada, se procederá conforme lo Siguiente:
+Para la enajenación de los bienes una vez autorizada, se procederá conforme lo siguiente:
 
-> <small>(F. DE E., P.O. 10 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
 
-I.- El Tesorero o funcionario equivalente procederá en subasta pública si el valor de los bienes muebles dictaminado por peritos en la materia excede de 2000 salarios mínimos vigentes en la entidad.
+I.- El Tesorero Municipal o funcionario equivalente procederá en subasta pública si el valor de los bienes muebles, dictaminado por peritos en la materia, excede de 2000 veces el valor diario de la Unidad de Medida y Actualización, entendiéndose por ésta aquella que sea determinada por el Instituto Nacional de Estadística y Geografía, en base al Decreto del 27 de enero de 2016, publicado en el Diario Oficial de la Federación, en vigor al día siguiente.
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2013)</small>
 
@@ -387,7 +387,7 @@ IX. Los seguros y fianzas de concurso y desempeño que, en su caso, sea necesari
 
 Artículo 17 QUATER.- Los participantes inconformes con el otorgamiento de la concesión podrán promover el recurso previsto en el Reglamento de Justicia Municipal o acudir en juicio ante el Tribunal de lo Contencioso Administrativo del Estado de Baja California.
 
-En caso de que los participantes inconformes interporgan algún recurso o medio de defensa legal en contra de la resolución por la que otorgue una concesión, sólo procederá la suspensión de la adjudicación correspondiente siempre que así lo solicite por escrito el recurrente y que garantice mediante fianza los daños y perjuicios que pudieran ocasionarse al Municipio o a terceros, cuyo monto será fijado por la autoridad que conozca del medio de defensa respectivo, cuyo monto nunca será inferior al 20% ni superior al 50% del valor de la propuesta ganadora del proceso de licitación que se este impugnando.
+En caso de que los participantes inconformes interpongan algún recurso o medio de defensa legal en contra de la resolución por la que otorgue una concesión, sólo procederá la suspensión de la adjudicación correspondiente siempre que así lo solicite por escrito el recurrente y que garantice mediante fianza los daños y perjuicios que pudieran ocasionarse al Municipio o a terceros, cuyo monto será fijado por la autoridad que conozca del medio de defensa respectivo, cuyo monto nunca será inferior al 20% ni superior al 50% del valor de la propuesta ganadora del proceso de licitación que se este impugnando.
 
 Sin embargo, el tercero perjudicado dentro del proceso antes referido, podrá otorgar contrafianza equivalente a la que corresponda a la fianza, en cuyo caso quedará sin efectos la suspensión.
 
@@ -506,3 +506,9 @@ SEGUNDO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMEN
 P.O. 6 DE DICIEMBRE DE 2013.
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO ACTUALIZADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL VIGENTE FEDERAL.
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS Y REGLAMENTOS EN LOS TÉRMINOS DEL ANEXO UNO QUE INTEGRA EL PRESENTE DICTAMEN, RELATIVOS A LA ADECUACIÓN A LA REGLAMENTACIÓN MUNICIPAL DERIVADAS DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO".]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
