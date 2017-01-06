@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-la-venta-almacenaje-y-consumo-publico-de-25686"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-03"
-last_updated: "2015-06-12"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de mayo de 2002.
 
@@ -147,7 +147,9 @@ XXVIII.- INSPECTOR: Servidor público que se le ordena practicar visitas domicil
 
 XXIX.- LEY: La Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas del Estado de Baja California;
 
-XXX.- MULTA: Sanción de tipo pecuniaria impuesta por la autoridad por violar un precepto de la Ley y/o de este ordenamiento;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+XXX.- MULTA: Sanción de tipo pecuniaria impuesta por la autoridad por violar un precepto de la Ley y/o de este ordenamiento, misma que tendrá como base de cómputo el valor diario de la Unidad de Medida y Actualización determinado por el Instituto Nacional de Estadística y Geografía, al momento de cometerse la infracción, en base al Decreto del 27 de enero de 2016, publicado en el Diario Oficial de la Federación, en vigor al día siguiente.
 
 XXXI.- OPINION TECNICA: Es el documento expedido por la Dirección de Bebidas Alcohólicas respecto la viabilidad de autorizar un permiso para la explotación de bebidas alcohólicas en el giro que corresponda conforme al presente reglamento cuando se trate de proyectos en proceso, ya sea de construcción, habilitación o remodelación de un local o establecimiento, debidamente autorizados por las autoridades correspondientes;
 
@@ -709,13 +711,13 @@ Recibida la solicitud y demás documentos a que se refiere el Articulo 23, la Di
 
 ###### ARTICULO 26.
 
-Para el caso de la solicitud de permiso para la venta de bebidas alcohólicas en envase abierto en un giro comercial, al momento de realizarse la inspección a la que se refiere el párrafo anterior, deberá colocarse un aviso público visible en el lugar en el que se pretende establecer el giro comercial durante un periodo de 15 días hábiles en los términos del artículo 21 de la Ley, circunstancia que deberá hacerse constar en el acta señalada en el articulo anterior, para el efecto de que la ciudadanía manifieste por escrito lo que a su derecho convenga, en cuanto a la afectación cierta y directa que le pudiera ocasionar el giro comercial solicitado, manifestaciones que deberán ser integradas al expediente respectivo.
+Para el caso de la solicitud de permiso para la venta de bebidas alcohólicas en envase abierto en un giro comercial, al momento de realizarse la inspección a la que se refiere el párrafo anterior, deberá colocarse un aviso público visible en el lugar en el que se pretende establecer el giro comercial durante un periodo de 15 días hábiles en los términos del artículo 21 de la Ley, circunstancia que deberá hacerse constar en el acta señalada en el artículo anterior, para el efecto de que la ciudadanía manifieste por escrito lo que a su derecho convenga, en cuanto a la afectación cierta y directa que le pudiera ocasionar el giro comercial solicitado, manifestaciones que deberán ser integradas al expediente respectivo.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
 ###### ARTICULO 27.
 
-El aviso al que se refiere el articulo anterior correrá a costa del solicitante y deberá contar con cuando menos un metro de ancho por uno y medio de largo, con fondo blanco y letras que contrasten, de cuando menos diez centímetros de altura; debiendo contener la leyenda de que se trata de un Aviso Publico, indicando la fecha de instalación del aviso, con la leyenda "EN ESTE LUGAR SE PRETENDE ABRIR UN GIRO CON VENTA DE BEBIDAS ALCOHOLICAS EN ENVASE ABIERTO", el tipo de giro de que se trata, estableciendo que cualquier inconformidad se deberá presentar por escrito en un plazo no mayor de 15 días hábiles a partir de la fecha en que se fija el aviso, en las oficinas de la Dirección de Bebidas Alcohólicas ubicadas en Palacio Municipal, debiendo acompañar copia y original para cotejo de su credencial de elector.
+El aviso al que se refiere el artículo anterior correrá a costa del solicitante y deberá contar con cuando menos un metro de ancho por uno y medio de largo, con fondo blanco y letras que contrasten, de cuando menos diez centímetros de altura; debiendo contener la leyenda de que se trata de un Aviso Publico, indicando la fecha de instalación del aviso, con la leyenda "EN ESTE LUGAR SE PRETENDE ABRIR UN GIRO CON VENTA DE BEBIDAS ALCOHOLICAS EN ENVASE ABIERTO", el tipo de giro de que se trata, estableciendo que cualquier inconformidad se deberá presentar por escrito en un plazo no mayor de 15 días hábiles a partir de la fecha en que se fija el aviso, en las oficinas de la Dirección de Bebidas Alcohólicas ubicadas en Palacio Municipal, debiendo acompañar copia y original para cotejo de su credencial de elector.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2009)</small>
 
@@ -1461,7 +1463,9 @@ La clausura temporal de actividades mediante clausura directa, procede además d
 
 Si dentro del establecimiento que deba ser clausurado se encuentra mercancía susceptible de descomposición o deterioro, se apercibirá al interesado para que retire esos bienes antes de que se coloquen los sellos de clausura. Si no lo hace se procederá a la clausura, asentando en el acta la negativa del titular.
 
-La imposición de una sanción consistente en la clausura temporal de actividades por violaciones a la Ley o al Reglamento, podrá a petición del infractor ser conmutada por multa que va de cien a mil quinientos días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
+La imposición de una sanción consistente en la clausura temporal de actividades por violaciones a la Ley o al Reglamento, podrá a petición del infractor ser conmutada por multa que va de cien a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 ###### ARTICULO 75.
 
@@ -1707,7 +1711,7 @@ El pago de la revalidación a que se refiere el artículo 40 del presente ordena
 
 ###### ARTICULO SEPTIMO.
 
-Las personas físicas o morales, cuyo trámite se encuentre pendiente a la publicación del presente reglamento se atenderán a las disposiciones contenidas en la Ley para la Venta o Almacenaje de Bebidas Alcohólicas y Alcohol en el Estado de Baja California, publicada en Periódico (sic) Oficial del Estado, de fecha 10 de Agosto de 1981 abrogada en cuanto a los requisitos de obtención del permiso correspondiente, y a la Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas del Estado de Baja California, Publicada en el Periódico Oficial No. 49, de fecha 09 de Noviembre de 2001, Tomo CVIII, y al presente Reglamento vigentes, en cuanto a la obtención o negativa del permiso de que se trate.
+Las personas físicas o morales, cuyo trámite se encuentre pendiente a la publicación del presente reglamento se atenderán a las disposiciones contenidas en la Ley para la Venta o Almacenaje de Bebidas Alcohólicas y Alcohol en el Estado de Baja California, publicada en (sic) Periódico Oficial del Estado, de fecha 10 de Agosto de 1981 abrogada en cuanto a los requisitos de obtención del permiso correspondiente, y a la Ley para la Venta, Almacenaje y Consumo Público de Bebidas Alcohólicas del Estado de Baja California, Publicada en el Periódico Oficial No. 49, de fecha 09 de Noviembre de 2001, Tomo CVIII, y al presente Reglamento vigentes, en cuanto a la obtención o negativa del permiso de que se trate.
 
 Dado en Palacio Municipal a los veinticinco días de abril de dos mil dos en Sesión Ordinaria de Cabildo del XVII Ayuntamiento de Tijuana Baja California.
 
@@ -1817,7 +1821,7 @@ PRIMERO.- EL PRESENTE ACUERDO ENTRARA EN VIGOR AL MOMENTO DE SU APROBACIÓN, MIS
 
 SEGUNDO.- SE DEROGAN TODAS Y CADA UNA DE LAS DISPOSICIONES NORMATIVAS Y REGLAMENTARIAS DERIVADAS DE ACUERDOS Y REGLAMENTOS QUE SE OPONGAN A LAS PRESENTES DISPOSICIONES LEGALES.
 
-TERCERO: UNA VEZ DEBIDAMENTE PUBLICADO EN EL PERIODICO OFICIAL DEL GOBIERNO ESTATAL Y EN LA GACETA MUNICIPAL, NOTIFIQUESE POR MEDIO DE LA SECRETARIA GENERAL DE (SIC) GOBIERNO MUNICIPAL, A LAS DEPENDENCIAS CORRESPONDIENTES DE ESTA ADMINITRACION (SIC), PARA LA IMPLEMENTACION IMEDIATA (SIC) DE LAS REFORMAS APROBADAS.
+TERCERO: UNA VEZ DEBIDAMENTE PUBLICADO EN EL PERIODICO OFICIAL DEL GOBIERNO ESTATAL Y EN LA GACETA MUNICIPAL, NOTIFIQUESE POR MEDIO DE LA SECRETARIA GENERAL DE GOBIERNO MUNICIPAL, A LAS DEPENDENCIAS CORRESPONDIENTES DE ESTA ADMINITRACION (SIC), PARA LA IMPLEMENTACION IMEDIATA (SIC) DE LAS REFORMAS APROBADAS.
 
 P.O. 12 DE JUNIO DE 2015.
 
@@ -1828,3 +1832,7 @@ SEGUNDO.- La presente reforma entrara en vigor al día siguiente al de su public
 TERCERO.- Se derogan todas y cada una de las disposiciones normativas y reglamentarias derivadas de acuerdos y reglamentos que se opongan a las presentes disposiciones legales.
 
 CUARTO.- Una vez debidamente publicado en el Periódico Oficial del Gobierno Estatal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes de esta administración, para la implementación inmediata de las reformas aprobadas.
+
+P.O. 6 DE ENERO DE 2017.
+
+> <small>[N. DE E. EL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS Y REGLAMENTOS EN LOS TÉRMINOS DEL ANEXO UNO QUE INTEGRA EL PRESENTE DICTAMEN, RELATIVOS A LA ADECUACIÓN A LA REGLAMENTACIÓN MUNICIPAL DERIVADAS DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3º. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
