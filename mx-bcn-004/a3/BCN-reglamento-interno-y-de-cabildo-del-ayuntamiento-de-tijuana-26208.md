@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-y-de-cabildo-del-ayuntamiento-de-tijuana-262
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-09-13"
-last_updated: "2016-12-16"
+last_updated: "2017-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO Y DE CABILDO DEL AYUNTAMIENTO DE TIJUANA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 13 de septiembre de 2002.
 
@@ -1415,23 +1415,31 @@ Informes administrativos.- Si antes de que deba rendirse el dictamen se celebr (
 
 ### CAPITULO PRIMERO. DE LAS SANCIONES Y RECURSOS
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 110.
 
-Sanciones a miembros del Cabildo.- Los integrantes que sin causa justificad (sic) dejen de asistir a una sesión de Cabildo serán exhortados por el Presidente Municipal para cumpli (sic) con su función.
+Sanciones a miembros del Cabildo.- Los integrantes que sin causa justificada dejen de asistir a una sesión de Cabildo serán exhortados por el o la titular de la Presidencia Municipal para cumplir con su función.
 
-Si una vez formulada la exhortación se reincidiere en la conducta faltista injustificada, se impondr (sic) una multa equivalente a quince días de salario; si el integrante del Cabildo deja de concurrir a tre (sic) sesiones consecutivas sin causa justificada, será suspendido y se llamará al suplente, notificando a (sic) Congreso del Estado para los efectos de lo dispuesto por el artículo 41, de la Ley del Régimen Municipal para el Estado de Baja California.
+Si una vez formulada la exhortación se reincidiere en la conducta faltista injustificada, se impondrá una multa equivalente a quince veces el valor diario de la Unidad de Medida y Actualización; si la persona integrante del Cabildo deja de concurrir a tres sesiones consecutivas sin causa justificada, será suspendida y se llamará a su suplente, notificando al Congreso del Estado para los efectos de lo dispuesto por el artículo 41, de la Ley del Régimen Municipal para el Estado de Baja California.
 
-Los Regidores que dejen de asistir a las sesiones de Comisiones sin causa justificada a juicio de l (sic) Comisión, se harán acreedores a una multa equivalente a veinte días de salario mínimo vigente, l (sic) cual se descontará de sus dietas a través de la Secretaría de Administración y Finanzas, d (sic) conformidad con las listas de asistencia que remitan los Presidentes de las Comisiones.
+Las Regidoras y Regidores que dejen de asistir a las sesiones de Comisiones sin causa justificada a juicio de la Comisión, se harán acreedores a una multa equivalente a veinte veces el valor diario de la Unidad de Medida y Actualización, la cual se descontará de sus dietas a través de la Tesorería Municipal, de conformidad con las listas de asistencia que remitan los Presidentes o Presidentas de las Comisiones.
 
 ###### ARTICULO 111.
 
 Sanciones a funcionarios de la administración municipal.- Los funcionarios empleados y servidores públicos de la administración municipal que incurran en violaciones a (sic) presente Reglamento serán sancionados en los términos de la Ley de Responsabilidades de lo (sic) Servidores Públicos del Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### ARTICULO 112.
 
-Sanciones a ciudadanos.- Los ciudadanos que incurran en violaciones al present (sic) Reglamento, particularmente durante la celebración de las sesiones de Cabildo, serán sancionado (sic) con multa por el equivalente a tres días de salario mínimo general diario vigente en el Municipio, si (sic) perjuicio de la sanción penal que en su caso corresponda.
+Sanciones a ciudadanos.- Los ciudadanos que incurran en violaciones al presente Reglamento, particularmente durante la celebración de las sesiones de Cabildo, serán sancionados con multa por el equivalente a tres veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de la sanción penal que en su caso corresponda.
 
 Los casos de reincidencia y el procedimiento a que debe sujetarse la imposición de las sancione (sic) previstas por este artículo, serán resueltos en los términos del Bando de Policía y Gobierno y de (sic) Reglamento para la Administración de Justicia en el Municipio.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+ARTICULO 112 BIS.- Para los efectos de este Capítulo la Unidad de Medida y Actualización, tendrá el valor que determine el Instituto Nacional de Estadística y Geografía, en base al Decreto del 27 de enero de 2016, publicado en el Diario Oficial de la Federación, en vigor al día siguiente.
 
 ### CAPITULO SEGUNDO. DE LOS RECURSOS
 
@@ -1630,3 +1638,9 @@ SEGUNDO.- Se derogan las disposiciones reglamentarias y administrativas de cará
 TERCERO.- Los recursos presupuestales y materiales que se encontraban asignados a la Sindicatura Social, deberán pasar a resguardo y asignación de la Sindicatura Procuradora, con el fin de que sean utilizados por las unidades administrativas resultantes de las presentes reformas.
 
 CUARTO.- Una vez publicado en el Periódico Oficial del Gobierno del Estado y en la Gaceta Municipal, notifíquese por medio de la Secretaria de Gobierno Municipal, a las dependencias correspondientes, para la implementación inmediata de las reformas aprobadas.
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS Y REGLAMENTOS EN LOS TÉRMINOS DEL ANEXO UNO QUE INTEGRA EL PRESENTE DICTAMEN, RELATIVOS A LA ADECUACIÓN A LA REGLAMENTACIÓN MUNICIPAL DERIVADAS DE LA DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
