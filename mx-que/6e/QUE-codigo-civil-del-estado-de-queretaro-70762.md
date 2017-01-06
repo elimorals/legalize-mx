@@ -4,7 +4,7 @@ identifier: "QUE-codigo-civil-del-estado-de-queretaro-70762"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2016-11-30"
+last_updated: "2017-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2017.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -4765,7 +4765,9 @@ Del patrimonio de la familia
 
 Son objeto de patrimonio de la familia:
 
-I. La casa habitación de la familia, adquirida en propiedad por el jefe de la familia o por alguno de sus miembros;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+I. La casa habitación de la familia, adquirida en propiedad por cualquiera de sus miembros;
 
 II. En el caso de pequeños propietarios, una parcela cultivable;
 
@@ -4819,9 +4821,15 @@ III. Por el pariente de cualquier grado que suministre alimentos a sus ascendien
 
 IV. Por el tutor, cuando administre bienes pertenecientes a menores o personas incapaces, física o mentalmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ENERO DE 2017)</small>
+
 ###### Artículo 729.
 
-Cuando alguna de las personas antes mencionadas quiera constituir el patrimonio de la familia, lo manifestará por escrito al juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público de la Propiedad y del Comercio, los bienes que van a quedar afectados.
+Cuando alguna de las personas antes mencionadas quiera constituir el patrimonio de la familia, podrá optar por hacerlo judicialmente o ante Notario Público.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+En vía judicial, lo manifestará por escrito al juez de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público de la Propiedad y del Comercio, los bienes que van a quedar afectados.
 
 Además, comprobará lo siguiente:
 
@@ -4833,11 +4841,33 @@ III. La existencia de la familia a cuyo favor se va a constituir el patrimonio. 
 
 IV. Que son propiedad del constituyente, los bienes destinados al patrimonio y que no reportan gravamen fuera de las servidumbres; y
 
-V. Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado para tal efecto. Este valor se comprobará por certificación de la Dirección de Catastro, por factura de casa comercial o a juicio de peritos.
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2017)</small>
+
+V. Que el valor de los bienes que van a constituir el patrimonio no exceda del fijado para tal efecto. Este valor se comprobará por certificación de la Dirección de Catastro, por factura de casa comercial, juicio de peritos o por avalúo de perito autorizado en el Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+###### Artículo 729 Bis.
+
+Cuando se opte por la constitución del patrimonio de la familia ante Notario Público, el interesado acudirá con el fedatario público de su elección, dentro de la demarcación notarial en la que se ubique la casa habitación que formará parte de dicho patrimonio, haciéndole saber con toda precisión y de manera que puedan ser inscritos en el Registro Público de la Propiedad y del Comercio, los bienes que van a quedar afectados.
+
+Además, entregará al Notario los documentos que comprueben lo dispuesto en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 2017)</small>
+
+###### Artículo 729 Ter.
+
+Si se acreditan las condiciones exigidas en el artículo 729, el Notario Público dará trámite a la constitución del patrimonio de la familia y efectuará, por cuenta y a cargo del constituyente, la publicación por una sola vez en dos periódicos locales de mayor circulación en la Entidad, en donde se dé aviso de la constitución del patrimonio de la familia. Realizado lo anterior y pasados diez días hábiles de la publicación, expedirá el testimonio para que con su inscripción se hagan las anotaciones correspondientes en el Registro Público de la Propiedad y del Comercio.
+
+Si de las publicaciones realizadas apareciere algún acreedor del solicitante o tercero jurídicamente interesado que se opusiere a la constitución del patrimonio de la familia, el Notario suspenderá el trámite.
+
+De ocurrir lo anterior, la constitución deberá realizarse necesariamente en la vía judicial.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
 
 ###### Artículo 730.
 
-Si se llenan las condiciones exigidas en el artículo anterior, el juez, previos las (sic) trámites que fije la ley de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público de la Propiedad y del Comercio, así como la publicación, a cargo de quien lo constituya, por una sola vez en dos de los periódicos locales de mayor circulación, del aviso de la aprobación de la constitución referida.
+Satisfechas las condiciones exigidas en el artículo 729, el juez, previos los trámites que fije la ley de la materia, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público de la Propiedad y del Comercio, así como la publicación, a cargo de quien lo constituya, por una sola vez en dos de los periódicos locales de mayor circulación, del aviso de la aprobación de la constitución referida.
 
 ###### Artículo 731.
 
@@ -15893,7 +15923,15 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 
 P.O. 30 DE NOVIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO".]
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 6 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO Y DEL CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
