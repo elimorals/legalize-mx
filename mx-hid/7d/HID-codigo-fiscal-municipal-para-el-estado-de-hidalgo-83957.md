@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-para-el-estado-de-hidalgo-83957"
 country: "mx"
 rank: "codigo"
 publication_date: "2011-11-21"
-last_updated: "2016-12-31"
+last_updated: "2017-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "HID"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE ENERO DE 2017 NO APLICA AL ARTICULADO DEL ARTÍCULO PRIMERO DEL DECRETO 80 PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2016.]</small>
 
 Código publicado en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -2315,7 +2315,7 @@ Las autoridades fiscales podrán decretar el aseguramiento de los bienes o la ne
 
 I.- El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o no se pueda notificar su inicio por haber desaparecido o por ignorarse su domicilio;
 
-II- Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes;
+II.- Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes;
 
 III.- El contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales, a que se (sic) está obligado; y
 
