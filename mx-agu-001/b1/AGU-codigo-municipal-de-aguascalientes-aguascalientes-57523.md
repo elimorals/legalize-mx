@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2016-12-26"
+last_updated: "2017-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2017.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2935,7 +2935,9 @@ V.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la F
 
 VI.- Prevenir y controlar la contaminación atmosférica por fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal;
 
-VII.- Prevenir y controlar la contaminación visual, por ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, provenientes de fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2017)</small>
+
+VII.- Prevenir y controlar la contaminación visual, por ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, provenientes de fuentes fijas que funcionen como establecimientos comerciales o de servicios de competencia municipal; así como aquellas producidas en zonas habitacionales que se generen con motivo de una fuente fija proveniente de una casa habitación;
 
 VIII.- Aplicar las disposiciones jurídicas relativas a la gestión, prevención y control de los efectos sobre el ambiente, ocasionados por el manejo de residuos sólidos urbanos, de conformidad con las leyes Federales, Estatales y demás disposiciones en materia ambiental;
 
@@ -4887,7 +4889,9 @@ II. Analizar y valorar los hechos imputados al detenido, así como los objetos y
 
 III. Determinar, en su caso, si los hechos que se le presentan son constitutivos de una falta administrativa o se presume algún delito.
 
-IV. En su caso, imponer al infractor el arresto, la multa o medida de seguridad que corresponda y vigilar su cumplimiento.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2017)</small>
+
+IV. En su caso, determinar e imponer al infractor el arresto, la multa o medida de seguridad previstas en el presente Código y vigilar su cumplimiento.
 
 V. En caso de que se presuma que los hechos de que tiene conocimiento sean constitutivos de algún delito, el Juez Municipal suspenderá inmediatamente su intervención y pondrá al detenido y los objetos afectos, a disposición de la autoridad competente.
 
@@ -5525,11 +5529,11 @@ APARTADO SEXTO
 
 De las Faltas Contra el Bienestar Colectivo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2017)</small>
 
 ###### ARTÍCULO 342.
 
-Son faltas contra el bienestar colectivo y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de salario mínimo general vigente en el Estado las siguientes:
+Son faltas contra el bienestar colectivo y se sancionarán con arresto de hasta por treinta y seis horas o multa de tres a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
 
 I. Causar escándalo en la vía pública.
 
@@ -5545,7 +5549,7 @@ V. Ocupar un cajón de estacionamiento destinado a personas con discapacidad, si
 
 VI. Alterar el orden, arrojar cojines, líquidos o cualquier objeto, prender fuego o provocar altercados en los espectáculos o en la entrada de ellos.
 
-VII. Producir ruido que por su volumen provoque malestar público con aparatos de sonido.
+VII. (DEROGADA, P.O. 9 DE ENERO DE 2017)
 
 VIII. Ensayar las bandas de guerra o conjuntos musicales en lugares públicos, careciendo del permiso correspondiente o en lugares privados cuando el ruido generado ocasione molestias a los vecinos.
 
@@ -5581,11 +5585,87 @@ XVI. Discriminar de cualquier forma a la niñez, la adolescencia, mujeres, hombr
 
 Para los casos de la fracción XII, se efectuará el reporte correspondiente al Instituto Municipal de la Mujer de Aguascalientes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE ENERO DE 2017)</small>
+
 APARTADO SÉPTIMO
+
+De las Faltas Contra la Convivencia, Respeto y Ambiente Vecinal
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+
+ARTÍCULO 342 BIS.- Son faltas contra la sana convivencia entre vecinos en zonas habitacionales:
+
+I. Producir ruido dentro y fuera de la casa habitación de un propio domicilio que por su volumen provoque malestar público a los vecinos de colonias o fraccionamientos con aparatos de sonido y que éste exceda de los 55 decibeles en un horario de las 06:00 horas a las 21:59 horas.
+
+Se exceptúa de lo anterior, aquel ruido proveniente de fuentes fijas estatuidas en Escuelas con ocasión de ceremonias, festivales y eventos, en las cuales se permitirá la emisión hasta 100 decibeles siempre que no rebasen de cuatro horas dichos eventos.
+
+II. Producir ruido dentro y fuera de la casa habitación de un propio domicilio que por su volumen provoque malestar público a los vecinos del fraccionamiento con aparatos de sonido y que éste exceda de los 50 decibeles en un horario de las 22:00 horas a las 05:59 horas.
+
+Cabe señalar que la sanción correspondiente en caso de reincidencia independientemente se hará efectiva independientemente si la denuncia corresponde a otro hecho distinto por el que se realizó la primera queja e invariablemente si la segunda queja o denuncia la realiza el mismo vecino que denunció o quejó la primera ocasión o persona distinta.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+
+ARTÍCULO 342 TER.- Para acreditar el rebase reglamentario de los decibeles así como la sonoridad del ruido emitido desde el bien inmueble, los elementos de Seguridad Pública en conjunto con los inspectores de la Secretaría de Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes, estarán habilitados y contarán con la autorización de cada Secretaría para efecto de llevar a cabo:
+
+1. Las mediciones de niveles sonoros que se realizarán utilizando sonómetros, sonómetros integradores - promediadores y calibradores sonoros sobre los instrumentos destinados a medir niveles de sonido audible.
+
+2. Las mediciones de vibraciones se realizarán utilizando acelerómetros y analizadores de frecuencia, según los procedimientos establecido reglamentariamente.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+
+ARTÍCULO 342 CUATER.- Bastará la denuncia popular a la Secretaría de Seguridad Pública Municipal así como en la Secretaría de Medio Ambiente y Desarrollo Sustentable para efecto de que los elementos de dichas Secretarías o los inspectores de la Secretaría del Medio Ambiente y Desarrollo Sustentable se constituyan en el domicilio señalado así como aquél del que emana el ruido, a fin de llevar a cabo las mediciones sonoras y de vibración para efecto de acreditar el rebase en los niveles de decibeles permitidos.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+
+ARTÍCULO 342 QUINQUIES.- Sistemas de alarma
+
+1. Los titulares y responsables de sistemas de alarma deberán mantenerlos en perfecto estado de uso y funcionamiento, con el fin de evitar que se autoactiven o activen por causas injustificadas o distintas de las que motivaron su instalación, así como cumplir las normas de funcionamiento de estos mecanismos que reglamentariamente se establezcan.
+
+2. Las fuerzas y cuerpos de seguridad podrán utilizar los medios necesarios para interrumpir las emisiones sonoras o vibraciones de los sistemas de alarma en el caso de que su funcionamiento sea anormal, sin perjuicio de solicitar las autorizaciones judiciales necesarias. Asimismo podrán retirar los vehículos en que se produzca el mal funcionamiento de la alarma, a depósitos destinados a tal efecto, siempre que estén ubicados dentro de zonas habitacionales y exista queja o denuncia popular.
+
+Se aplicará una sanción de $500.00 (Quinientos pesos 00/100 M.N.), para aquellos casos en que el sistema de alarma haya sido activado por falta de mantenimiento por parte del contratante, siempre que éste haya sido denunciado en los términos del artículo anterior.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+
+ARTÍCULO 342 SEXIES.- La facultad inspectora de las actividades sujetas a este Capítulo corresponde a los ayuntamientos a través de la Secretaría del Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes, así como de la Secretaría de Seguridad Pública a través de sus elementos policiacos, y podrán llevar a cabo actuaciones inspectoras preventivas cumpliendo con las siguientes condiciones:
+
+1. La facultad inspectora de las actividades sujetas a este Código corresponde a los integrantes del ayuntamiento, a los inspectores de la Secretaría del Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes, así como de la Secretaría de Seguridad Pública a través de sus elementos policiacos.
+
+Los integrantes del H. Ayuntamiento, así como el Secretario del Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes podrán ordenar la práctica de visitas de inspección o medidas de vigilancia con el objeto de cuidar y prever la generación indebida del ruido a las prescripciones normativas en las zonas habitacionales.
+
+3 (SIC). El personal de la Secretaría del Medio Ambiente y Desarrollo Sustentable que tenga encomendada la función inspectora tendrá la condición de agentes de la autoridad.
+
+4. Los propietarios, poseedores y responsables del bien inmueble habitacional emisor de ruidos y vibraciones deberán facilitar a los inspectores de la Secretaría del Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes el acceso a su domicilio o focos generadores de ruidos y dispondrán del funcionamiento de las fuentes emisoras del ruido a las distintas velocidades, potencias, cargas o marchas que les indiquen los inspectores, pudiendo presenciar la inspección.
+
+5. El personal inspector al percatarse de las fuentes generadoras de ruido electrónicas o humanas, requerirán al propietario, poseedor o responsable del bien inmueble a cumplir con los decibeles permitidos apercibiéndolo que en caso de incumplimiento o reincidencia le serán impuestas las sanciones previstas en el presente Apartado.
+
+6. Si se detecta que la fuente emisora del ruido proviene de una casa habitación la autoridad competente llevará a cabo las acciones previstas por el artículo 342 Septies del presente ordenamiento.
+
+El presente procedimiento se regirá bajo las reglas de procedimiento establecidas por la Ley de Procedimiento Administrativo del Estado de Aguascalientes.
+
+Cabe señalar que el presente procedimiento se instaurará aún y cuando no exista queja o denuncia respecto del bien inmueble inspeccionado; de lo contrario el personal habilitado o autorizado por parte de la Secretaría del Medio Ambiente y Desarrollo Sustentable del Municipio de Aguascalientes dará vista a la Secretaría de Seguridad Pública Municipal para la imposición de sanciones y en su caso arresto del propietario, poseedor o responsable del bien inmueble, una vez practicada la inspección en aquella casa habitación de la cual proviene el ruido.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+
+ARTICULO 342 SEPTIES.- Sanciones por infracción a lo dispuesto por el artículo 342 Bis y 342 Ter, ciñéndose al Orden de prelación que a continuación se describe:
+
+1. Apercibimiento por escrito emitido por la autoridad competente en la que se haga sabedor al infractor; propietario o poseedor del inmueble, de las posibles sanciones y el procedimiento a seguir en caso de continuar infringiendo los supuestos previstos en el artículo 342 Bis y 342 Ter.
+
+2. Trabajo conmutativo consistente en lo previsto por la fracción VII del artículo 3 del Reglamento del Servicio Comunitario del Municipio de Aguascalientes.
+
+3. Multa de $1,500.00 (Un mil quinientos pesos 00/100 M.N.) a $3,500.00 (Tres mil quinientos pesos 00/100 M.N.), cuando se comenta (sic) la infracción establecida en el artículo 342 Bis fracción I de este ordenamiento.
+
+4. Multa de $3,501.00 (Tres mil quinientos un pesos 00/100 M.N.) a $10,000.00 (Diez mil pesos 00/100 M.N.), cuando se comenta la infracción establecida en el artículo 342 Bis fracción I de este ordenamiento.
+
+5. Arresto hasta por 36 horas al responsable de la emisión de ruido.
+
+(REUBICADO [N. DE E. ANTES APARTADO SÉPTIMO ], P.O. 9 DE ENERO DE 2017)
+
+APARTADO OCTAVO
 
 De las Faltas Contra la Integridad de las Personas y sus Bienes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2017)</small>
 
 ###### ARTÍCULO 343.
 
@@ -5601,7 +5681,9 @@ III. Dejar en descuido quien ejerza la guarda y custodia de una persona que pade
 
 IV. Arrojar contra una persona líquidos, polvos u otras sustancias, que puedan mojarla, ensuciarla, mancharla, o causarle malestar.
 
-V. Turbar la tranquilidad de las personas con gritos, música o ruidos aún cuando éstos los provoquen animales domésticos de la pertenencia o bajo el cuidado del que debiendo impedirlo, no lo haga.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2017)</small>
+
+V. Turbar la tranquilidad de las personas dentro de una zona habitacional con gritos, música o ruidos aún cuando éstos los provoquen animales domésticos de la pertenencia o bajo el cuidado del que debiendo impedirlo; no lo haga.
 
 VI. Hacer bromas indecorosas o mortificantes o en cualquier otra forma molestar a una persona mediante el uso del teléfono.
 
@@ -5625,7 +5707,9 @@ XII. Comunicar dolosamente a una o más personas de la imputación que se hace a
 
 XIII. Formular toda clase de expresiones o realización de acciones destinadas a discriminar y manifestar desprecio a otra persona o con el fin de causarle una ofensa, siempre y cuando de ello tengan conocimiento otras personas y se ponga al ofendido en una situación de notable humillación pública.
 
-APARTADO OCTAVO
+(REUBICADO [N. DE E. ANTES APARTADO OCTAVO ], P.O. 9 DE ENERO DE 2017)
+
+APARTADO NOVENO
 
 De las Faltas Contra la Integridad Moral del Individuo
 
@@ -5663,7 +5747,9 @@ VIII. Menospreciar o dar trato diferenciado entre mujeres y hombres, que pueda i
 
 Las personas que incurran en las faltas administrativas contempladas en este capítulo serán sancionadas en los términos precisados en este código.
 
-APARTADO NOVENO
+(REUBICADO [N. DE E. ANTES APARTADO NOVENO ], P.O. 9 DE ENERO DE 2017)
+
+APARTADO DÉCIMO
 
 De la Aplicación de Sanciones
 
@@ -5703,7 +5789,9 @@ Los integrantes operativos de las Direcciones de Policía Preventiva, de Tránsi
 
 Toda persona que tenga una discapacidad, serán sancionados por las faltas que cometan, siempre que su impedimento no haya influido determinantemente sobre su responsabilidad en los hechos, pero el Juez podrá reducir hasta la mitad la sanción que señala este capítulo, si aparecen circunstancias que ameriten dicho tratamiento.
 
-APARTADO DÉCIMO
+(REUBICADO [N. DE E. ANTES APARTADO DÉCIMO ], P.O. 9 DE ENERO DE 2017)
+
+APARTADO DÉCIMO PRIMERO
 
 Complicidad, Concurso y Reincidencia
 
@@ -5729,7 +5817,9 @@ En el caso de reincidencia el Juez Municipal podrá duplicar el máximo de las s
 
 Se considerará reincidente al que haya cometido la misma falta en un lapso menor a un año de ejecutada la primera u otra dentro de la misma clasificación de protección de valores que indica este capítulo.
 
-APARTADO DÉCIMO PRIMERO
+(REUBICADO [N. DE E. ANTES APARTADO DÉCIMO PRIMERO ], P.O. 9 DE ENERO DE 2017)
+
+APARTADO DÉCIMO SEGUNDO
 
 De la Prescripción
 
@@ -7151,7 +7241,7 @@ Cuando la SEMADESU reciba de la autoridad Estatal o Federal un instrumento de ev
 
 ### CAPÍTULO III. De la Prevención y Control de la Contaminación
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2017)</small>
 
 ###### ARTÍCULO 499.
 
@@ -7295,29 +7385,49 @@ ARTÍCULO 503 TER- Las áreas naturales protegidas municipales deberán ser insc
 
 ###### ARTÍCULO 504.
 
-Es facultad del Municipio, a través de la SEMADESU, la prevención y control de la contaminación ambiental originada por residuos sólidos urbanos, emisiones a la atmósfera, ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, generados por establecimientos mercantiles o de servicios, de conformidad con las leyes aplicables.
+Es facultad del Municipio, a través de la SEMADESU, la prevención y control de la contaminación ambiental originada por residuos sólidos urbanos, emisiones a la atmósfera, ruido, vibraciones, energía térmica, energía lumínica, radiaciones electromagnéticas y olores perjudiciales, generados por establecimientos mercantiles, de servicios, o zonas habitacionales; de conformidad con las leyes aplicables.
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 9 DE ENERO DE 2017)</small>
 
 ARTÍCULO 504 BIS.- Para prevenir y controlar la contaminación ambiental en el Municipio, la SEMADESU deberá:
 
-I. Ordenar la aplicación de medidas necesarias para reducir o eliminar las emisiones atmosféricas contaminantes, ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales;
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2017)</small>
+
+I. Ordenar la aplicación de medidas necesarias para reducir o eliminar tanto en zonas comerciales como zonas habitacionales las emisiones atmosféricas contaminantes, ruido, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
 
 II. Requerir la realización de análisis para determinar los niveles de emisión de contaminantes a la atmósfera;
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
 III. Ordenar la instalación de equipos o sistemas de control de emisiones, cuando rebasen los límites máximos permisibles vigentes u ocasionen molestias a la población;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
 
 IV. Informar a las autoridades estatales y federales sobre la existencia de actividades contaminantes a la atmósfera cuando éstas se ubiquen fuera del ámbito de su competencia;
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
 V. Integrar y mantener actualizado el inventario de fuentes fijas presentes en su territorio, incluyendo aquellas de competencia del estado y la federación;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
 
 VI. Vigilar, y en su caso sancionar, que los servicios públicos municipales no originen o produzcan contaminación ambiental, de conformidad con la normatividad ambiental vigente;
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
 VII. Ordenar la reubicación de todo establecimiento comercial o de servicios, que estando ubicado en zonas habitacionales, sea motivo de quejas por parte de la población, mismas que haya podido constatar mediante visitas de campo; en prevención de molestias de este tipo, analizará minuciosamente la información proporcionada por los interesados y en caso de autorizar el funcionamiento de las empresas en cuestión, previo a su funcionamiento, especificará que de ocasionar molestias a la población por emisiones contaminantes a la atmósfera, se cancelará la autorización otorgada y se exigirá su reubicación;
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
 
 VIII. Coordinar con la Dirección Municipal de Protección Civil, Bomberos y Atención a Emergencias Prehospitalarias las medidas preventivas para evitar contingencias ambientales por contaminación al ambiente;
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
+
 IX. Identificar las áreas generadoras de tolvaneras dentro del territorio municipal y establecer programas de control con la participación de la población para tomar las medidas que se consideren convenientes; y
+
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2016)</small>
 
 X. Proponer los convenios necesarios con la Federación y el Estado para el cumplimiento de este artículo.
 
@@ -7658,6 +7768,10 @@ Asimismo, la SEMADESU hará del conocimiento de las autoridades ambientales esta
 ###### ARTÍCULO 531.
 
 La SEMADESU vigilará, con base en las Normas Oficiales Mexicanas y demás lineamientos aplicables, los niveles de ruido que generan los establecimientos mercantiles y de servicios de su competencia.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+
+Asimismo, vigilará las emisiones de ruido que se produzcan en zonas habitacionales ya sea de oficio o a través de la denuncia popular.
 
 ### CAPÍTULO V. De la Educación Ambiental
 
@@ -15779,7 +15893,9 @@ III. La excavación profunda de terrenos;
 
 IV. Los que impliquen la aplicación de excesivas o descompensadas cargas o la transmisión de vibraciones excesivas a las construcciones;
 
-V. Los que produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruidos, trepidaciones, cambios importantes de temperatura, malos olores y otros efectos perjudiciales o molestos para las personas, o que puedan ocasionar daño a las propiedades; y
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2017)</small>
+
+V. Los que produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruidos, trepidaciones, cambios importantes de temperatura, malos olores y otros efectos perjudiciales o molestos para las personas en zonas comerciales o habitacionales, o que puedan ocasionar daño a las propiedades; y
 
 VI. Los demás que se establezcan en la Legislación Federal y Estatal de la materia.
 
@@ -22531,6 +22647,10 @@ b) Usar como combustible residuos peligrosos o cualquier otro residuo no autoriz
 
 c) Hacer caso omiso de las condicionantes establecidas en el permiso ambiental de funcionamiento en materia de ruido, olores y vibraciones cuando la autoridad le haya requerido el cumplimiento en dos ocasiones.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2017)</small>
+
+Tratándose de lo dispuesto en el Apartado Séptimo, Capítulo VIII del Título III del presente Código, bastará que se haya requerido al propietario, poseedor o responsable del inmueble en una sola ocasión para considerarse como grave la conducta.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2013)</small>
 
 ###### ARTÍCULO 1562.
@@ -24292,3 +24412,11 @@ Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opo
 ###### ARTÍCULO TERCERO.
 
 Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de Aguascalientes, deberá ajustarse al período constitucional correspondiente.
+
+P.O. 9 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS AL CÓDIGO MUNICIPAL".]
+
+PRIMERO.- Las modificaciones, adiciones y derogaciones que se establecen en la presente reforma tanto al Código Municipal de Aguascalientes así como al Reglamento de Servicio Comunitario del Municipio de Aguascalientes surtirán efecto y estarán vigentes a partir del 01 de enero de 2017.
+
+SEGUNDO.- Las modificaciones que se hacen al Apartado Séptimo, Capítulo VIII del Título III del Código Municipal de Aguascalientes, serán desincorporadas del presente Código Municipal de Aguascalientes dentro de los 90 días siguientes a la entrada en vigor de la presente reforma, para efecto de elaborar un Reglamento que regule las emisiones de ruido dentro de zonas habitaciones tutelando la sana convivencia vecinal.
