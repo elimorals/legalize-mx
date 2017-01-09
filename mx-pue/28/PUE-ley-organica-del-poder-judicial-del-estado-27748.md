@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-27748"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-12-30"
-last_updated: "2016-04-26"
+last_updated: "2017-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 9 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, CON EXCEPCIÓN DE LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DE FECHA DIECISIETE DE MARZO DE DOS MIL DIECISÉIS.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE ABRIL DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2017.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 30 de diciembre de 2002.
 
@@ -3036,3 +3036,29 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Lo establecido en el presente Decreto, respecto de las causales de retiro y el haber por retiro, le será aplicable únicamente a los Magistrados nombrados con posterioridad a esta reforma.
 
 TERCERO. Queda sin efecto cualquier acto o disposición que se oponga al presente Decreto.
+
+P.O. 9 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley Orgánica del Poder Judicial del Estado, publicada en el Periódico Oficial el treinta de diciembre de dos mil dos y sus reformas, con excepción de lo dispuesto en el artículo Segundo Transitorio del Decreto de fecha diecisiete de marzo de dos mil dieciséis, por el que se reformó la Ley Orgánica del Poder Judicial del Estado.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+CUARTO.- En tanto no sean emitidos los reglamentos y acuerdos respectivos, relacionados con el presente ordenamiento legal, estarán vigentes las disposiciones de la anterior Ley Orgánica abrogada.
+
+QUINTO.- Los reglamentos, acuerdos y demás disposiciones de carácter general dictados por el Pleno, estarán vigentes en lo que no se opongan a la presente Ley y hasta en tanto se expidan los nuevos ordenamientos.
+
+SEXTO.- Por única ocasión, el periodo a que hace referencia el artículo 22 de la presente Ley iniciará el quince de febrero de dos mil diecisiete y concluirá el treinta y uno de diciembre de dos mil veinte. La elección del Presidente se realizará en el mes de febrero del inicio de funciones.
+
+SÉPTIMO.- El Consejo de la Judicatura deberá quedar instalado en un plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor de la presente Ley.
+
+OCTAVO.- Por única ocasión, los Consejeros de la Judicatura durarán en su encargo cinco y cuatro años, conforme lo determine el Tribunal Superior de Justicia funcionando en Pleno.
+
+NOVENO.- Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de la presente Ley, serán concluidos conforme a las disposiciones vigentes a su inicio.
+
+DÉCIMO.- Las unidades administrativas del Poder Judicial del Estado, que actualmente se encuentran funcionando, así como los recursos humanos y materiales que tienen a su cargo, deberán pasar a formar parte de los nuevos órganos que contempla esta Ley, de acuerdo con sus respectivas áreas y competencias.
+
+DÉCIMO PRIMERO.- La estructura orgánica que derive de la presente Ley quedará sujeta a la disponibilidad presupuestal que se establezca en el Presupuesto de Egresos para ejercicios fiscales subsecuentes.
