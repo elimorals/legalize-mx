@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-servicio-comunitario-del-municipio-de-64353"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-03"
-last_updated: "2015-11-16"
+last_updated: "2017-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64353&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE SERVICIO COMUNITARIO DEL MUNICIPIO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2017.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de noviembre de 2008.
 
@@ -89,11 +89,9 @@ IV. Impartición de pláticas, conferencias o talleres en beneficio de la comuni
 
 V. Participación en actividades de carácter artístico, cultural, deportivo, ecológico o turístico que promueva el Municipio, así como aquellas relacionadas con el desarrollo social de la población del Municipio.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE NOVIEMBRE DE 2015)</small>
-
-VI. Participar, en vía pública en la difusión de información vial del Municipio de Aguascalientes, así como asistir a pláticas de los planes y proyectos establecidos en la educación vial impartidos por el Municipio de Aguascalientes.
+VI. Participar, en vía pública en la difusión de información vial o sobre las prácticas de sana convivencia vecinal para los efectos del artículo 342 Bis y 342 Octies del Código Municipal de Aguascalientes, así como asistir a pláticas de los planes y proyectos establecidos en la educación vial impartidos por el Municipio de Aguascalientes.
 
 ### CAPÍTULO SEGUNDO. DEL ACUERDO
 
@@ -208,3 +206,11 @@ TERCERO. El Ayuntamiento asignará los recursos necesarios para que se creen las
 CUARTO. El Ayuntamiento asignará, en el ejercicio presupuestal siguiente, los recursos necesarios a efecto de que a los vehículos propiedad Municipal, que hayan sido adquiridos del 2010 a la fecha, se les realicen las modificaciones necesarias para que cuenten con el dispositivo de manos libres inalámbrico.
 
 QUINTO. El Municipio realizará, a partir de la publicación del presente decreto, una campaña de difusión para dar a conocer a la ciudadanía las modificaciones previstas en el presente dictamen.
+
+P.O. 9 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL CÓDIGO MUNICIPAL”.]
+
+PRIMERO.- Las modificaciones, adiciones y derogaciones que se establecen en la presente reforma tanto al Código Municipal de Aguascalientes así como al Reglamento de Servicio Comunitario del Municipio de Aguascalientes surtirán efecto y estarán vigentes a partir del 01 de enero de 2017.
+
+SEGUNDO.- Las modificaciones que se hacen al Apartado Séptimo, Capítulo VIII del Título III del Código Municipal de Aguascalientes, serán desincorporadas del presente Código Municipal de Aguascalientes dentro de los 90 días siguientes a la entrada en vigor de la presente reforma, para efecto de elaborar un Reglamento que regule las emisiones de ruido dentro de zonas habitaciones (sic) tutelando la sana convivencia vecinal.
