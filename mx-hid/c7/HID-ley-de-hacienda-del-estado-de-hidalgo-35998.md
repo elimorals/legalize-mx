@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-del-estado-de-hidalgo-35998"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2016-12-31"
+last_updated: "2017-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2017 EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE ENERO DE 2017.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2003.
 
@@ -1653,7 +1653,19 @@ P.O. 31 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 81 QUE APRUEBA LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE HIDALGO PARA EL EJERCICIO FISCAL DEL AÑO 2017”].
 
-PRIMERO. La presente Ley entrará en vigor el día primero de enero del año 2017, previa su publicación en el Periódico Oficial del Estado.
+> <small>(F. DE E., P.O. 9 DE ENERO DE 2017)</small>
+
+PRIMERO. Las reformas y adiciones a la presente Ley entrarán en vigor el día primero de enero del año 2017, previa su publicación en el Periódico Oficial del Estado, salvo lo previsto en el artículo 24, donde, como estímulo fiscal para los contribuyentes, y a efecto de no generar un impacto económico que afecte su economía, se aplicará de manera gradual la tasa, año por año, hasta su estabilización en el año 2021, quedando la entrada en vigor de las respectivas tasas por nivel, de la siguiente manera:
+
+MONTOS EJERCICIO
+
+DE HASTA 2017 2018 2019 2020 2021
+
+0.01 500,000.00 1.0% 1.5% 2.0% 2.5% 3.0%
+
+500,000.01 1,000,000.00 2.0% 2.5% 2.75% 3.0% 3.0%
+
+1,000,000.01 en adelante 2.5% 2.7% 2.9% 3.0% 3.0%
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a la presente Ley.
 
