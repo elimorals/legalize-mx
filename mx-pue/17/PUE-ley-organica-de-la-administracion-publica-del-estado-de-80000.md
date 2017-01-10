@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2016-11-22"
+last_updated: "2017-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2017.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -223,9 +223,11 @@ VI. SECRETARÍA DE TURISMO;
 
 VII. SECRETARÍA DE DESARROLLO RURAL, SUSTENTABILIDAD Y ORDENAMIENTO TERRITORIAL;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-VIII. SECRETARÍA DE INFRAESTRUCTURA Y TRANSPORTES;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+VIII. SECRETARÍA DE INFRAESTRUCTURA, MOVILIDAD Y TRANSPORTES;
 
 IX. (DEROGADA, P.O. 6 DE MARZO DE 2015)
 
@@ -351,7 +353,7 @@ Los Titulares de las Dependencias y Entidades del Gobierno del Estado deberán l
 
 A la Secretaría General de Gobierno, corresponde el despacho de los siguientes asuntos:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -359,13 +361,13 @@ I.- Conducir, de acuerdo con los ordenamientos legales aplicables, las relacione
 
 II.- Fungir como Coordinador del Gabinete integrado por los Titulares de las Dependencias y Entidades de la Administración Pública Estatal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 III.- Someter a consideración, y en su caso, firma del Gobernador del Estado, las Iniciativas de leyes y decretos, así como los reglamentos, acuerdos, convenios y demás instrumentos u ordenamientos legales, dando el trámite correspondiente;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -381,7 +383,7 @@ VIII.- Tramitar lo relativo al ejercicio de las facultades que al Titular del Po
 
 IX.- Llevar el registro de autógrafos y legalizar las firmas de los funcionarios estatales, de los Presidentes Municipales, Secretarios y Síndicos de los Ayuntamientos, así como de los demás funcionarios a quienes esté encomendada la fe pública para autenticar los documentos en que intervengan;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -393,7 +395,11 @@ XII.- Coordinar las labores de las Dependencias de la Administración Pública E
 
 XIII.- Llevar a cabo la coordinación de los trabajos que desarrolle el Gabinete, que se consideren necesarios para apoyo de las funciones de gobierno;
 
-XIV.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2015)
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 2017)</small>
+
+XIV.- Presidir el Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las mujeres y la Junta de Gobierno del Instituto Poblano de las Mujeres; así como coordinar, y en su caso ejecutar, por si o a través del Organismo Público Descentralizado sectorizado a la Secretaría, según corresponda, la política, programas y acciones relativos a la cohesión social, a la prevención del delito y a la prevención social de la violencia y de la delincuencia.
 
 XV.- Instrumentar, por acuerdo del Gobernador del Estado, la facultad de expropiación, por causa de utilidad pública, de conformidad con la Legislación relativa vigente;
 
@@ -427,7 +433,7 @@ XXVIII.- Conocer, tramitar y resolver, en términos de las disposiciones legales
 
 XXIX.- Organizar y controlar el Archivo General del Estado, así como el Archivo de Notarías del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -441,7 +447,11 @@ XXXIII.- Fomentar el desarrollo político e intervenir y ejercer las funciones q
 
 XXXIV.- Coordinar con las autoridades de los Gobiernos Federal y Municipales, las políticas y programas en materia de participación ciudadana;
 
-XXXV.- Formular, coordinar y vigilar las políticas de apoyo a la participación de la mujer en los diversos ámbitos de desarrollo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XXXV.- Formular, coordinar y vigilar las políticas de apoyo a la participación de las mujeres en los diversos ámbitos de desarrollo, y la política pública en concordancia con la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra mujeres y niñas;
 
 XXXVI.- Coordinar el desarrollo e impulso de la cultura de la legalidad, así como la promoción de la ética en el servicio público,
 
@@ -449,7 +459,7 @@ XXXVII.- Proveer lo conducente para la valoración de las conductas tipificadas 
 
 XXXVIII.- Tramitar por acuerdo del Gobernador del Estado, las solicitudes de amnistía, indulto, remisión parcial, conmutación, modificación de sanciones y medidas, traslado de reos y beneficios de libertad anticipada, que conforme a la Ley sean tendientes a lograr la rehabilitación y reinserción social de los internos, incluyendo a los adolescentes que hayan cometido conductas tipificadas como delitos por la legislación del Estado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -457,7 +467,7 @@ XXXIX.- Coadyuvar con las instancias competentes, en el control de la radio-comu
 
 XL.- Cumplir y controlar las actividades del Calendario Oficial de Ceremonias Cívicas;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -465,13 +475,13 @@ XLI.- Administrar el Archivo General del Estado; normar y asesorar a las Depende
 
 XLII.- Intervenir en los procedimientos judiciales y administrativos en que la Secretaría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Secretaría en lo relativo a las relaciones laborales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
 XLIII.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -733,13 +743,17 @@ LXII.- Analizar, y en su caso, autorizar las propuestas de modificación de las 
 
 LXIII.- Organizar, dirigir, administrar y supervisar la flota aérea del Gobierno del Estado y los servicios aeroportuarios relacionados con ésta;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-LXIV.- Suscribir mancomunadamente con la Secretaría de Infraestructura y Transportes, tarjetas de circulación de transporte público, mercantil y particular;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+LXIV.- Suscribir mancomunadamente con la Secretaría de Infraestructura, Movilidad y Transportes, tarjetas de circulación de transporte público, mercantil y particular;
 
-LXV.- Establecer, administrar y mantener de manera coordinada con la Secretaría de Infraestructura y Transportes, el registro y control de las concesiones, permisos y autorizaciones que de conformidad con la legislación aplicable en materia de transporte le corresponda otorgar a esta última;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+LXV.- Establecer, administrar y mantener de manera coordinada con la Secretaría de Infraestructura, Movilidad y Transportes, el registro y control de las concesiones, permisos y autorizaciones que de conformidad con la legislación aplicable en materia de transporte le corresponda otorgar a esta última;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -961,7 +975,7 @@ XXIX.- Verificar y supervisar directamente o a través de terceros, que los acto
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
-XXX.- Dar seguimiento a los resultados de las revisiones, inspecciones, evaluaciones y auditorias practicadas en las Dependencias o Entidades de la Administración Pública Estatal en forma directa, por parte de los órganos de control o por conducto de auditores externos, comunicando sus resultados a la Secretaría de Finanzas y Administración, a fin de asegurar que se corrijan las deficiencias detectadas en ellas;
+XXX.- Dar seguimiento a los resultados de las revisiones, inspecciones, evaluaciones y auditorías practicadas en las Dependencias o Entidades de la Administración Pública Estatal en forma directa, por parte de los órganos de control o por conducto de auditores externos, comunicando sus resultados a la Secretaría de Finanzas y Administración, a fin de asegurar que se corrijan las deficiencias detectadas en ellas;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
 
@@ -1501,29 +1515,41 @@ LXI.- Recibir, tramitar y resolver, los procedimientos administrativos, y en su 
 
 LXII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-### CAPÍTULO IX. DE LA SECRETARÍA DE INFRAESTRUCTURA Y TRANSPORTES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2015)</small>
+### CAPÍTULO IX. DE LA SECRETARÍA DE INFRAESTRUCTURA, MOVILIDAD Y TRANSPORTES
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2017)</small>
 
 ###### ARTÍCULO 41.
 
-A la Secretaría de Infraestructura y Transportes, corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Infraestructura, Movilidad y Transportes, corresponde el despacho de los siguientes asuntos:
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-I.- Formular y conducir las políticas generales en materia de obra pública, servicios relacionados con la misma, comunicación y de transporte, así como la parte relativa a obra de los proyectos para prestación de servicios;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+I.- Formular y conducir las políticas generales en materia de obra pública, servicios relacionados con la misma, infraestructura de comunicaciones, movilidad, transporte, presupuesto participativo, así como la parte relativa a obra de los proyectos para prestación de servicios y proyectos de inversión;
 
-II.- Establecer normas y lineamientos generales y específicos en materia de infraestructura de comunicaciones y de transporte, así como de obra pública;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+II.- Establecer normas y lineamientos generales y específicos en materia de infraestructura de comunicaciones, obra pública, movilidad, transporte y presupuesto participativo, dentro del ámbito de su competencia;
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
 III.- Supervisar que en los estudios de vialidad, comunicaciones y transportes en el Estado, se cumplan las disposiciones legales relativas a obra pública;
 
-IV.- Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de obra pública a que deben sujetarse los sectores público, social y privado;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+IV.- Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de obra pública a que deben sujetarse los sectores público y privado;
 
 V.- Construir, rehabilitar o conservar directamente, a través de terceros o en cooperación con las autoridades usufructuarias, los bienes inmuebles de propiedad estatal, de conformidad con la normatividad legal vigente;
 
@@ -1531,7 +1557,11 @@ VI.- Coadyuvar con las autoridades competentes, en la conservación de zonas arq
 
 VII.- Participar en las Comisiones Consultivas de Desarrollo Urbano, Ecología y en las que estén relacionadas con las funciones asignadas a esta Secretaría;
 
-VIII.- Coordinarse con las autoridades Federales, Estatales y Municipales de acuerdo a su competencia, para la aplicación de la normatividad en materia de obra pública;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+VIII.- Coordinarse con las autoridades Federales, Estatales y Municipales de acuerdo a su competencia, para la aplicación de la normatividad en materia de obra pública y presupuesto participativo;
 
 IX.- Regular, promover, planear y ejecutar, directamente o a través de terceros, la obra pública en el Estado, sin perjuicio de las atribuciones conferidas por la ley de la materia a otras Dependencias o Entidades;
 
@@ -1541,25 +1571,33 @@ XI.- Realizar la planeación, dirección, control y evaluación de los Programas
 
 XII.- Ejecutar y aplicar programas y proyectos integrales de carácter regional, subregional o parcial en materia de infraestructura, concertando y coordinando su realización con las diferentes autoridades Federales, Estatales y Municipales que pudieran tener competencia en dichos proyectos;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XIII.- Apoyar a las autoridades Federales y Municipales en la planeación, elaboración y desarrollo de proyectos de Desarrollo Urbano y de transporte en la Entidad;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XIII.- Apoyar a las autoridades Federales y Municipales en la planeación, elaboración y desarrollo de proyectos de desarrollo urbano, movilidad y transporte en la Entidad;
 
 XIV.- Establecer estrategias de desarrollo de infraestructura y todas aquellas que resulten necesarias para su ejecución;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XV.- Proponer al Gobernador del Estado las políticas y programas relativos a transportes y a la infraestructura de comunicaciones en la Entidad, en concordancia con los planes y programas establecidos;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+XV.- Proponer al Gobernador del Estado las políticas y programas relativos a movilidad, transporte, infraestructura de comunicaciones y presupuesto participativo en la Entidad, en concordancia con los planes y programas establecidos;
 
-XVI.- Dirigir, coordinar y controlar la ejecución de los programas de comunicaciones y de transportes en la Entidad, que realice directamente o en forma concertada con la Federación o los municipios;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XVI.- Dirigir, coordinar y controlar la ejecución de los programas de comunicaciones, movilidad, transportes y presupuesto participativo en la Entidad, que realice directamente o en forma concertada con la Federación o los Municipios;
 
 XVII.- Emitir acuerdos, circulares y demás disposiciones en el ámbito de su competencia para la aplicación de las leyes en la materia;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XVIII.- Elaborar los planes, estudios y proyectos, directamente o a través de terceros, en materia de comunicaciones y de transportes, dentro del ámbito de su competencia que le señalen las leyes federales y estatales;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XVIII.- Elaborar los planes, estudios y proyectos, directamente o a través de terceros, en materia de obra pública, infraestructura de comunicaciones, movilidad y transporte, dentro del ámbito de su competencia de conformidad con la legislación y normatividad aplicable;
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -1569,9 +1607,11 @@ XIX.- Realizar las acciones de planeación, programación y presupuestación par
 
 XX.- Establecer normas técnicas para el funcionamiento y operación de los servicios de infraestructura de comunicaciones y de transportes en la Entidad;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXI.- Promover y fomentar la participación de los diversos sectores de la sociedad con el objeto de conocer su problemática en materia de caminos, puentes, comunicaciones y de transporte y servicios auxiliares;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XXI.- Promover y fomentar la participación de los diversos sectores de la sociedad con el objeto de conocer su problemática en materia de obra pública, caminos, puentes, infraestructura de comunicaciones, movilidad, transporte y servicios auxiliares;
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -1585,15 +1625,19 @@ XXIII.- Llevar a cabo las acciones de modernización y ampliación de las obras 
 
 XXIV.- Otorgar, revocar, cancelar, suspender, modificar y dar por terminadas las concesiones, permisos y autorizaciones en materia de administración y explotación de la infraestructura de comunicaciones, de transportes y de los servicios auxiliares, vigilando e inspeccionando su cumplimiento y operación en los términos de las leyes respectivas;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXV.- Celebrar convenios, contratos y demás actos jurídicos, así como emitir los dictámenes y opiniones que procedan con relación a los actos en los que intervengan los prestadores de servicios de comunicaciones o de transportes;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XXV.- Celebrar convenios, contratos y demás actos jurídicos dentro del ámbito de su competencia; así como emitir los dictámenes y opiniones que procedan con relación a los actos en los que intervengan los prestadores de servicios en materia de obra pública, infraestructura de comunicaciones, movilidad y transporte;
 
 XXVI.- Celebrar, previo acuerdo del Titular del Poder Ejecutivo del Estado, convenios con la Federación, Estados y Municipios para cumplir con los objetivos que le atribuyan las diversas disposiciones legales aplicables en la materia;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXVII.- Construir, reconstruir, conservar, mantener y modernizar la infraestructura vial en la Entidad, directamente o a través de terceros, pudiendo coordinarse con los Gobiernos Federal, de Entidades Federativas y con los Municipios del Estado;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XXVII.- Construir, reconstruir, conservar, mantener y modernizar la infraestructura vial en la Entidad, directamente o a través de terceros, pudiendo coordinarse con el Gobierno Federal, Entidades Federativas y Municipios del Estado;
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -1605,9 +1649,11 @@ XXIX.- Fomentar la organización de sociedades cuyo objeto sea la prestación de
 
 XXX.- Vigilar, verificar e inspeccionar el uso adecuado de la infraestructura de comunicaciones de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXXI.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de comunicaciones y de transportes;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XXXI.- Promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de infraestructura de comunicaciones, movilidad y transporte;
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -1633,25 +1679,33 @@ XXXVIII.- Coordinar con la instancia competente, la elaboración del Programa Es
 
 XXXIX.- Vigilar, inspeccionar y controlar el uso adecuado de la infraestructura de transportes en general, de conformidad con las atribuciones conferidas en las leyes, reglamentos y convenios;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XL.- Normar y establecer las políticas y criterios para llevar a cabo directamente o a través de terceros, los estudios y proyectos de ingeniería de tránsito, de transporte público mercantil, así como determinar la instalación y mantenimiento de la señalización en las obras viales del Estado;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2015)</small>
+XL.- Normar y establecer las políticas y criterios para llevar a cabo directamente o a través de terceros, los estudios y proyectos de ingeniería de tránsito y del servicio de transporte, así como determinar la instalación y mantenimiento de la señalización en las obras viales del Estado, en términos de las disposiciones aplicables;
 
-XLI.- Diseñar y establecer las políticas y criterios para el establecimiento de rutas, horarios, itinerarios y tarifas del servicio de transporte autorizando, modificando, cancelando, así como verificar su correcta aplicación;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XLI.- Diseñar y establecer las políticas y criterios para el establecimiento de rutas, horarios, itinerarios y tarifas del servicio de transporte, en el ámbito de su competencia, autorizando, modificando, cancelando y verificando su correcta aplicación;
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
 
 XLII.- Suscribir mancomunadamente con la Secretaría de Finanzas y Administración, tarjetas de circulación de transporte público, mercantil y particular. En los casos de los servicios del transporte público, revisar, y en su caso autorizar, la documentación del solicitante y de ser procedente entregar los documentos previstos en la Ley de la materia, tales como título de concesión, cesión de concesión, tarjetón de concesión, tarjeta de circulación, engomado alfanumérico y placas de circulación, entre otros; así como autorizar y entregar los permisos, placas y tarjetas de circulación y engomado alfanumérico del transporte mercantil previstos en la Ley de la materia;
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XLIII.- Establecer los requisitos que deban satisfacer los particulares y el personal técnico del servicio de transporte, así como expedir las licencias, permisos, concesiones y autorizaciones respectivas;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
+XLIII.- Establecer los requisitos que deban satisfacer los particulares y el personal técnico del servicio de transporte, así como otorgar concesiones y expedir las licencias, permisos y autorizaciones respectivas dentro del ámbito de su competencia que le señale la ley de la materia;
 
-XLIV.- Regular, el servicio de transporte en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XLIV.- Regular el servicio de transporte en sus diversas modalidades, sus servicios conexos y a los prestadores del mismo, dentro del ámbito de su competencia que le señale la ley de la materia;
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2015)</small>
 
@@ -1889,13 +1943,21 @@ V.- Participar en coordinación con las Dependencias y Entidades de la Administr
 
 VI.- Diseñar, concertar, ejecutar y dar seguimiento a los programas sociales en el ámbito rural y urbano de alcance estatal, regional y micro regional para la atención de grupos específicos y sectores marginados. Para estos efectos, podrá coordinarse con los Gobiernos Federal, Estatales y Municipales, y propiciará la participación de los sectores social y privado;
 
-VII.- Promover la equidad de género en las políticas y programas de desarrollo social;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+VII.- Promover la igualdad entre mujeres y hombres en las políticas y programas de desarrollo social;
 
 VIII.- Promover la igualdad de oportunidades de los grupos sociales vulnerables a través de los programas de desarrollo social;
 
 IX.- Apoyar y asesorar a los grupos sociales organizados, en la elaboración de propuestas en materia de desarrollo social;
 
-X.- Diseñar e instrumentar políticas y programas especiales que promuevan el desarrollo de las comunidades indígenas, que fortalezcan su organización y su identidad cultural;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+X.- Diseñar, promover, coordinar, ejecutar e instrumentar políticas y programas especiales que promuevan el desarrollo de las comunidades indígenas, que fortalezcan su organización y su identidad cultural, bajo el marco de la Constitución Federal, Estatal y demás legislación aplicable;
 
 XI.- Fomentar en coordinación con los Municipios, la construcción de obras de infraestructura y equipamiento urbano, para elevar el nivel de vida de la población con mayores necesidades;
 
@@ -1939,17 +2001,35 @@ XXVII.- Intervenir en los procedimientos judiciales y administrativos en que la 
 
 XXVIII.- Recibir, tramitar y resolver los procedimientos administrativos y, en su caso, imponer y aplicar sanciones en los términos de las Leyes, Reglamentos y demás disposiciones legales en materia de su competencia;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-XXIX.- Formular, promover y coordinar la gestión y ejecución de los programas de vivienda en el Estado, y los esquemas, instrumentos y mecanismos de financiamiento e inversión, del sector público y privado, necesarios para su desarrollo;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
+XXIX.- Participar en la definición e implementación de los proyectos, obras y acciones relacionadas con los pueblos y comunidades indígenas, en los tres órdenes de gobierno;
 
-XXX.- Tomar las medidas necesarias para hacer llegar a la población la información referente a los programas de desarrollo social, con la finalidad de garantizar condiciones de equidad para el acceso a los mismos, a todos los potenciales beneficiarios; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-XXXI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+XXX.- Realizar y aplicar las acciones inherentes a las comunidades y pueblos indígenas, de conformidad con la legislación aplicable:
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XXXI.- Formular, promover y coordinar la gestión y ejecución de los programas de vivienda en el Estado, y los esquemas, instrumentos y mecanismos de financiamiento e inversión, del sector público y privado, necesarios para su desarrollo;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XXXII.- Tomar las medidas necesarias para hacer llegar a la población la información referente a los programas de desarrollo social, con la finalidad de garantizar condiciones de equidad para el acceso a los mismos, a todos los potenciales beneficiarios; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 10 DE ENERO DE 2017)</small>
+
+XXXIII.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
 ### CAPÍTULO XVI. DE LA SECRETARÍA DE SEGURIDAD PÚBLICA
 
@@ -2596,3 +2676,41 @@ P.O. 22 DE NOVIEMBRE DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 10 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES X, XXIX, XXX Y XXXI, Y ADICIONA LAS FRACCIONES XXXII Y XXXIII, TODAS DEL ARTÍCULO 47 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de febrero de dos mil diecisiete.
+
+SEGUNDO. El Ejecutivo del Estado dentro del plazo de los treinta días hábiles a partir de la entrada en vigor de este Decreto, realizará las adecuaciones correspondientes al reglamento interior de la Dependencia.
+
+En tanto no se realicen las adecuaciones a que se refiere el párrafo anterior, la Secretaría seguirá aplicando el reglamento vigente en todo aquello que no lo contravenga.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 10 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DEL PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de febrero de dos mil diecisiete.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. Toda referencia que se haga a la Secretaría de Infraestructura y Transportes en cualquier ordenamiento legal o reglamentario, se entenderá realizada a la Secretaría de Infraestructura, Movilidad y Transportes conforme al presente Decreto.
+
+CUARTO. El Ejecutivo del Estado dentro del plazo de los treinta días hábiles a partir de la entrada en vigor de este Decreto, realizará las adecuaciones correspondientes al reglamento interior de la Dependencia.
+
+En tanto no se realicen las adecuaciones a que se refiere el párrafo anterior, la Secretaría seguirá aplicando el reglamento vigente en todo aquello que no lo contravenga.
+
+P.O. 10 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA (SIC) LAS FRACCIONES XIV Y XXXV DEL ARTÍCULO 34, Y LA FRACCIÓN VII DEL ARTÍCULO 47, TODAS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de febrero de dos mil diecisiete.
+
+SEGUNDO. El Ejecutivo del Estado dentro del plazo de los treinta días hábiles a partir de la entrada en vigor de este Decreto, realizará las adecuaciones correspondientes al reglamento interior de la Dependencia.
+
+En tanto no se realicen las adecuaciones a que se refiere el párrafo anterior, la Secretaría seguirá aplicando el Reglamento vigente en todo aquello que no lo contravenga.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
