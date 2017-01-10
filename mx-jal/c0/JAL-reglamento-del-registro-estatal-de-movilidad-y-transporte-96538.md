@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-registro-estatal-de-movilidad-y-transporte-96538
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-09"
-last_updated: "2016-08-09"
+last_updated: "2017-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DEL REGISTRO ESTATAL DE MOVILIDAD Y TRANSPORTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2017.
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2013.
 
@@ -499,25 +499,29 @@ Artículo 25 bis. Para el registro de choferes de transporte de pasajeros bajo d
 
 a) Solicitud de inscripción elaborada a través de formatos y medios electrónicos que para ello dispongan las autoridades competentes en la materia.
 
-b) Acta de nacimiento;
+b) (DEROGADO, P.O. 10 DE ENERO DE 2017)
 
 c) Identificación Oficial con Fotografía; y
 
 d) Licencia de Conducir Vigente acorde a la modalidad del servicio público que se pretenda prestar.
 
-e) Contrato laboral con la empresa de red de transporte o bien con el que contrate sus servicios y en caso de encontrarse prestando sus servicios como chofer, conductor u operador de la unidad con independencia del nombre que se otorgue.
+e) (DEROGADO, P.O. 10 DE ENERO DE 2017)
 
-f) Credenciales o gafetes con fotografía, recibos de nóminas, expedidas por la empresa de redes de transporte;
+f) (DEROGADO, P.O. 10 DE ENERO DE 2017)
 
 g) Comprobante de domicilio con una vigencia no mayor a 90 días;
 
-h) Haber tomado los cursos de capacitación; y
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2017)</small>
+
+h) Haber tomado los cursos de capacitación que le solicite la empresa de redes de transporte o cualquiera de sus empresas relacionadas; y
 
 i) Pago de los derechos correspondientes.
 
 Con la finalidad de mantener actualizada su inscripción en el Registro Estatal los choferes de transporte de pasajeros bajo demanda mediante aplicaciones móviles, deberán seguir con las mismas formalidades enunciadas en fracciones anteriores, a excepción de los documentos de identificación que ya se encuentren agregados al expediente, salvo en el caso de que sufran alguna modificación con posterioridad a la fecha inicial de su registro; debiendo informar de dicha circunstancia al Registro en el plazo no mayor a 15 días hábiles.
 
-Los documentos que se presenten para acreditar el cumplimiento de los anteriores requisitos, estarán sujetos a revisión y comprobación por parte de la autoridad competente, por lo que podrán ser requeridos por la Secretaría a efecto de comprobar su autenticidad; y deberán comparecer dentro de los cinco días hábiles siguientes del envió ante la Secretaría, a efecto de comprobar su autenticidad, así como para su ratificación.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2017)</small>
+
+Los choferes podrán registrarse a través de la empresa de redes de transporte que gestione los servicios de transporte que brinde; requiriéndose para ello, la anuencia por escrito del particular que opte por realizar el registro por conducto de ésta.
 
 ###### Artículo 26.
 
@@ -1300,3 +1304,11 @@ SEGUNDO. El Registro Estatal abrirá un nuevo libro para realizar todas las insc
 TERCERO. La Secretaría emitirá la convocatoria que establezca el calendario y procedimiento para realizar el trámite para el otorgamiento de autorizaciones y registro de empresas de redes de transporte, así como de prestadores y conductores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIGELAG ACU 063/2016 QUE REFORMA DIVERSAS DISPOSICIONES DE LOS REGLAMENTOS DE LA LEY DE MOVILIDAD Y TRANSPORTE Y DEL REGISTRO ESTATAL DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. A partir de la fecha en que entre en vigor el presente acuerdo, se dejan sin efectos las disposiciones que (sic) opongan al mismo.
