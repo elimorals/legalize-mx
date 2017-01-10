@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-movilidad-y-transporte-del-estado-96536
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-09"
-last_updated: "2016-08-09"
+last_updated: "2017-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2017.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Jalisco, el sábado 9 de noviembre de 2013.
 
@@ -1181,13 +1181,11 @@ Las formas de pago electrónico podrán ser tarjetas bancarias, pagos móviles, 
 
 Para ello las empresas de redes de transporte autorizadas deberán acreditar el cumplimiento de las normas de seguridad que establezcan las disposiciones de la materia, conforme a los lineamientos que expida la Secretaría.
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2017)</small>
 
 ###### Artículo 54.
 
-Para garantizar los derechos de los usuarios, la Secretaría mediante la Unidad Administrativa que designe, recibirá las quejas de los usuarios respecto del mal servicio del que pudieran ser objetos y realizará operativos aleatorios, permanentes, itinerantes y discrecionales, para verificar, documentos, vehículos, instalaciones, equipos, sistemas, página web, aplicación móvil y bases de datos de los concesionarios, subrogatarios y permisionarios, o de los que cuenten con alguna autorización para prestar el servicio de transporte público en cualquiera de sus modalidades o servicio conexo, a efecto de que cumplan, con lo estipulado en el contrato de calidad del servicio y lo dispuesto por la Ley y los reglamentos que de ella emanen.
-
-En el caso del servicio que gestionan las empresas de redes de transporte, la Secretaría atenderá las quejas relativas a la prestación del servicio de transporte, no así a las relacionadas con el funcionamiento y soporte virtual de la aplicación móvil o del sistema privado electrónico de pago, las que se rigen por la legislación de la materia.
+Para garantizar los derechos de los usuarios, la Secretaría mediante la Unidad Administrativa que designe, recibirá las quejas de los usuarios respecto del mal servicio del que pudieran ser objeto y realizará operativos aleatorios permanentes, para verificar documentos y vehículos de los concesionarios, subrogatarios, sujetos de autorización y permisionarios, o de los que cuenten con alguna autorización para prestar el servicio de transporte público en cualquiera de sus modalidades o servicio conexo, a efecto de que cumplan, con lo estipulado en el contrato de calidad del servicio y lo dispuesto por la Ley y los reglamentos que de ella emanen.
 
 ###### Artículo 55.
 
@@ -1823,9 +1821,9 @@ g) D1 La licencia de este tipo autoriza conducir maquinaria con rodamiento neum�
 
 h) D2 La licencia de este tipo autoriza conducir vehículos adaptados para prestar servicios de seguridad, emergencia y protección civil; con una edad mínima para obtenerla de veintidós años cumplidos y tener previamente una licencia tipo B+E con mínimo cuatro años de antigüedad; y
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2017)</small>
 
-i) D3 La licencia de este tipo autoriza a conducir vehículos de transporte público de pasajeros bajo demanda mediante aplicaciones móviles, con capacidad de no más de siete pasajeros incluido el conductor; con una edad mínima para obtenerla de veintidós años cumplidos y tener previamente una licencia tipo B+E con mínimo cuatro años de antigüedad.
+i) D3 La licencia de este tipo autoriza a conducir vehículos de transporte público de pasajeros bajo demanda mediante aplicaciones móviles, con capacidad de no más de siete pasajeros incluido el conductor.
 
 ###### Artículo 93.
 
@@ -1897,9 +1895,9 @@ a) Licencia o Permiso vencido del menor o en su caso la Certificación que avale
 
 b) Aprobar el examen físico correspondiente; y
 
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2017)</small>
 
-c) En el caso de Licencias de Transporte Público C1, C1+E, C2, C3, C4, C5, D1, D2 y D3, cumplir con el curso de capacitación de actualización en su modalidad correspondiente.
+c) En el caso de Licencias de Transporte Público C1, C1+E, C2, C3, C4, C5, D1 y D2 cumplir con el curso de capacitación de actualización en su modalidad correspondiente.
 
 ###### Artículo 96.
 
@@ -2813,37 +2811,67 @@ VIII. El engomado vigente correspondiente a las placas de circulación, deberá 
 
 IX. Tratándose de placas de vehículos adaptados para personas con discapacidad; para autos antiguos y de demostración, si el vehículo no cumple las características correspondientes, se equipara a la portación de placas sobre puestas y les serán aplicables las sanciones correspondientes; y
 
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ENERO DE 2017)</small>
 
-X. Tratándose de vehículos utilizados para la modalidad de transporte de pasajeros bajo demanda mediante aplicaciones móviles, además de lo anterior, deberán contar con un transpondedor o etiqueta como mecanismo de identificación por radiofrecuencia para su lectura, con los siguientes datos dinámicos:
+X. Tratándose de vehículos utilizados para la modalidad de transporte de pasajeros bajo demanda mediante aplicaciones móviles la Secretaría les proporcionará un transpondedor o etiqueta como mecanismo de identificación por radiofrecuencia para su lectura, con los siguientes datos dinámicos:
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 a) Empresa de adscripción.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 b) Propietario.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 c) Conductor(es).
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 d) Autorización.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 e) Inscripción en el Registro Estatal.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 f) Póliza de seguro empresa.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 g) Póliza de seguro propietario.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 h) Registro vehicular.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 i) Placas.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 j) Capacidad del vehículo.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 k) Número de serie.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 l) Numero de motor.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 m) Origen.
 
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
 n) Color.
+
+> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
 El transpondedor o etiqueta será proporcionado por la Secretaría y entregado con la autorización.
 
@@ -3369,13 +3397,15 @@ Artículo 218 bis. Para otorgar las autorizaciones para prestar servicios de tra
 
 I. La solicitud por escrito o vía electrónica conforme al procedimiento que establezca la convocatoria que para tal efecto publique la Secretaría en el periódico oficial “El Estado de Jalisco”;
 
-II. Factura original o carta factura con una vigencia máxima de treinta días del o los vehículos;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+II. Tarjeta de circulación;
 
 III. Comprobante de domicilio a nombre de la persona física o jurídica propietaria de la unidad con una vigencia máxima de noventa días;
 
-IV. Fotografías del vehículo de los cuatro lados;
+IV. (DEROGADA, P.O. 10 DE ENERO DE 2017)
 
-V. Acta constitutiva de la persona jurídica, así como la Identificación oficial con fotografía de su representante legal, tratándose de personas físicas deberán presentar su alta ante Hacienda y la identificación de la persona;
+V. (DEROGADA, P.O. 10 DE ENERO DE 2017)
 
 VI. Póliza o constancia de seguro que ampare las coberturas a que se refiere el artículo 158 del presente ordenamiento; así como el comprobante de pago de la prima de seguro que cubra la totalidad de la vigencia de la autorización que solicite.
 
@@ -3385,7 +3415,9 @@ VIII. Tendrán que portar placas del Estado de Jalisco para poder prestar el ser
 
 IX. Pagar los derechos correspondientes.
 
-Los documentos se presenten para acreditar el cumplimiento de los anteriores requisitos, estarán sujetos a revisión y comprobación por parte de la autoridad competente, aún y cuando se hubiese expedido la autorización correspondiente; por lo que podrán ser requeridos por la Secretaría durante la vigencia de la misma, a efecto de comprobar su autenticidad.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2017)</small>
+
+Los prestadores del servicio podrán realizar el trámite a través de la empresa de redes de transporte que gestione los servicios de transporte que brinde; requiriéndose para ello, la anuencia por escrito del particular que opte por realizar el registro por conducto de ésta.
 
 > <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -3411,11 +3443,15 @@ Los permisos o autorizaciones tendrán una vigencia anual; la solicitud de renov
 
 En el caso de las autorizaciones para los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles, al presentar su solicitud de renovación, deberán además acompañar:
 
-I. Constancia emitida por la empresa de redes de transporte donde se establezca que el prestador del servicio ha cumplido con las normas de calidad y operación del servicio;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-II. Constancia emitida por el registro estatal, de la inscripción tanto del vehículo como de sus conductores; y
+I. Constancia electrónica emitida por la empresa de redes de transporte donde se establezca que el prestador del servicio ha cumplido con las normas de calidad y operación del servicio; y
 
-III. Constancia expedida por la Secretaría de la inspección realizada a vehículos y sistemas, donde se asiente que cumple con las disposiciones que prevé la ley y este Reglamento.
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+II. Constancia emitida por el registro estatal, de la inscripción tanto del vehículo como de sus conductores.
+
+III. (DEROGADA, P.O. 10 DE ENERO DE 2017)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -3463,9 +3499,9 @@ V. Cuando se exhiba documentación apócrifa o se proporcionen informes o datos 
 
 VI. Incumplir con las disposiciones y normas de calidad del servicio establecidas por la empresa de redes de transporte a la que el prestador de servicios se encuentran afiliado o registrado, previamente validado por la Secretaría e inscrito en el registro estatal;
 
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-VII. Prestar el servicio de pasajeros bajo demanda mediante aplicaciones móviles a diversos pasajeros que contraten en diferente momento y domicilios, aun cuando su destino sea la misma dirección; y
+VII. Prestar el servicio de pasajeros bajo demanda mediante aplicaciones móviles con las características de otra modalidad de transporte sin que cuenten con autorización, permiso o concesión para ello; y
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -3775,15 +3811,21 @@ h) Equipo de herramientas de primer servicio y extinguidor de polvos universales
 
 i) No está permitida la instalación de parrillas o canastillas sobre la cajuela o capacete para el acomodo de equipaje;
 
-j) Deberán contar con una lámpara sorda de mano y señalamientos de protección del tipo reflejante (triángulos o similares);
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2017)</small>
+
+j) Deberán contar con señalamientos de protección del tipo reflejante (triángulos o similares);
 
 k) Deberán contar con un botiquín de primeros auxilios;
 
-l) Se deberá proveer al vehículo un Sistema de Retención Infantil con las características de acuerdo a lo establecido en la fracción VIII del artículo 71 de la Ley y del artículo 187 de este Reglamento;
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2017)</small>
 
-m) En el parabrisas deberá llevar el holograma expedido por la Secretaría que acredite el cumplimiento de la revista mecánica prevista en el artículo 106 inciso d) y 335 del presente ordenamiento, así como de control de emisiones contaminantes correspondiente;
+l) Deberá llevar el transpondedor expedido por la Secretaría;
 
-n) El servicio se ofertará, contratará y pagará a través de la aplicación móvil que administre la empresa de redes de transporte a la cual se encuentre afiliado o registrado el prestador del servicio;
+m) (DEROGADO, P.O. 10 DE ENERO DE 2017)
+
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2017)</small>
+
+n) El servicio se ofertará y contratará a través de la aplicación móvil que administre la empresa de redes de transporte a la cual se encuentre afiliado o registrado el prestador del servicio;
 
 ñ) No tendrá ruta ni paradas establecidas; la gestión de sus servicios se trazará mediante la aplicación móvil de acuerdo al origen y destino que establezca el usuario del servicio en dicha plataforma: y
 
@@ -4271,9 +4313,13 @@ II. Documento que acredite que es titular de los derechos de propiedad intelectu
 
 III. Comprobante de domicilio fiscal dentro del Estado de Jalisco, a nombre de la persona jurídica con una vigencia máxima de noventa días;
 
-IV. Acta constitutiva de la sociedad mercantil constituida conforme a las leyes mexicanas cuyo objeto social sea el de operar como empresas de redes de transporte o gestionar servicios de transporte mediante una aplicación móvil o plataforma tecnológica a la que se refiere la fracción II del presente artículo; así como las modificaciones a la misma;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-V. Nombre de su representante legal, poder otorgado ante fedatario público con una temporalidad no mayor a cinco años, así como copia de su identificación oficial con fotografía;
+IV. Acta constitutiva de la sociedad mercantil constituida en los términos que establezca la Ley;
+
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
+
+V. Nombre de su representante legal, poder otorgado ante fedatario público, así como copia de su identificación oficial con fotografía;
 
 VI. Pagar los derechos correspondientes;
 
@@ -4287,7 +4333,7 @@ X. Póliza o constancia de seguro que ampare su responsabilidad solidaria en los
 
 XI. Presentar los documentos que le habiliten y le certifiquen en el uso de mecanismos de pago vía electrónica y tarjetas bancarias, así como acreditar el cumplimiento de las disposiciones aplicables en la materia;
 
-XII. Los contratos de adhesión previamente autorizados por la Procuraduría Federal del Consumidor que deban suscribir los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles;
+XII. (DEROGADA, P.O. 10 DE ENERO DE 2017)
 
 XIII. Acreditar el cumplimiento de las normas de seguridad relativas a las formas de pago vía electrónica que establezcan las disposiciones de la materia, conforme a los lineamientos que expida la Secretaría en la convocatoria respectiva.
 
@@ -4295,7 +4341,7 @@ XIII. Acreditar el cumplimiento de las normas de seguridad relativas a las forma
 
 Artículo 307 ter. Además de lo dispuesto por los artículos 83 quáter o 83 quinquies de la Ley, para la renovación de la autorización las empresas de redes de transporte, deberán presentar ante la Secretaría:
 
-I. Los contratos de adhesión con cada uno de los prestadores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles previamente autorizados por la Procuraduría Federal del Consumidor;
+I. (DEROGADA, P.O. 10 DE ENERO DE 2017)
 
 II. Los documentos con los que acredite que conserva los derechos de propiedad o administración de la aplicación móvil con la que presta el servicio;
 
@@ -4303,27 +4349,31 @@ III. Renovar las normas de calidad a que se refiere el artículo anterior y conv
 
 IV. Las bases de datos que contengan la información de los propietarios de vehículos que se encuentren registrados en la aplicación móvil que administren, el número de vehículos que tiene cada uno, así como la información estadística que generen con motivo de la prestación del servicio de transporte conforme al artículo 83 sexies fracción X de la Ley, en el formato que para tal efecto publique la Secretaría en el periódico oficial “El Estado de Jalisco”;
 
-V. Copia certificada de la declaración anual y bimestral presentadas ante la Servicio de Administración Tributaria del ejercicio fiscal anterior a aquél en que se solicita la renovación, misma que deberán hacerse del conocimiento de Secretaría de Planeación, Administración y Finanzas del Estado;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-VI. Constancia de inscripción de su autorización ante el Registro Estatal de Movilidad y Transporte;
+V. Copia certificada de la declaración anual presentadas ante la (sic) Servicio de Administración Tributaria del ejercicio fiscal anterior a aquél en que se solicita la renovación, misma que deberán hacerse del conocimiento de (sic) Secretaría de Planeación, Administración y Finanzas del Estado;
 
-VII. Constancia de inscripción ante el Registro Estatal de Movilidad y Transporte de los vehículos y conductores de los prestadores del transporte de pasajeros bajo demanda a los que otorga el servicio de gestión mediante aplicaciones móviles, así como de cualquier otra modalidad de transporte respecto de la cual gestione sus servicios en los términos de la Ley;
+VI. (DEROGADA, P.O. 10 DE ENERO DE 2017)
+
+VII. (DEROGADA, P.O. 10 DE ENERO DE 2017)
 
 VIII. Comprobante de domicilio fiscal dentro del Estado de Jalisco, a nombre de la persona jurídica con una vigencia máxima de noventa días;
 
 IX. Recibo de pago de los derechos correspondientes que para ello establezca la Ley de Ingresos vigente; y
 
-X. Póliza o constancia de seguro que ampare su responsabilidad solidaria en los términos que establece la Ley respecto de la totalidad de los vehículos que gestionen sus servicios de transporte a través de la plataforma que administren, así como el comprobante de pago de la prima de seguro que cubra la totalidad de la vigencia de la autorización que solicite;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+X. Póliza o constancia de seguro que ampare su responsabilidad solidaria en los términos que establece la Ley respecto de la totalidad de los vehículos que gestionen sus servicios de transporte a través de la plataforma que administren, así como el comprobante de pago de la prima de seguro que cubra la totalidad de la vigencia de la autorización que solicite.
 
-Artículo 307 quater. Las empresas de redes de transporte deberán actualizar el registro de su domicilio fiscal o de sus establecimientos, así como de cualquier otro dato que obre incorporado en el registro estatal, dentro de los 30 días naturales siguientes a que sufran alguna modificación.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2017)</small>
 
-Asimismo, deberá informar en un término de 72 horas máximo, cualquier baja o alta realizada, relativa a propietarios de vehículos, choferes y vehículos afectos a la prestación de servicio.
+Artículo 307 quater. Las empresas de redes de transporte deberán actualizar el registro de su domicilio fiscal o de sus establecimientos, así como de cualquier otro dato que obre incorporado en el registro estatal, dentro de los 30 días hábiles siguientes a que sufran alguna modificación.
 
-> <small>(ADICIONADO, P.O. 9 DE AGOSTO DE 2016)</small>
+Asimismo, deberá informar cualquier baja o alta realizada, relativa a propietarios de vehículos, choferes y vehículos afectos a la prestación de servicio a más tardar 15 quince días con posterioridad a su acontecimiento.
 
-Artículo 307 quinquies. Los sistemas electrónicos de las empresas de redes de transporte utilizados para emitir los comprobantes fiscales a sus usuarios, deberán contar con las características requeridas por el Servicio de Administración Tributaria, por lo anterior de forma bimestral deberán hacer del conocimiento de la Secretaría y de la Secretaría de Planeación, Administración y Finanzas del Estado, las declaraciones señaladas en la fracción V del artículo 307 ter de este Reglamento, mismas que servirán de base para la suscripción del convenio de colaboración señalado en el artículo 83 sexies fracción XIII de la Ley.
+> <small>(REFORMADO, P.O. 10 DE ENERO DE 2017)</small>
+
+Artículo 307 quinquies. Los sistemas electrónicos de las empresas de redes de transporte utilizados para emitir los comprobantes fiscales a sus usuarios, deberán contar con las características requeridas por el Servicio de Administración Tributaria.
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA PUBLICIDAD
 
@@ -5073,13 +5123,11 @@ p) Para los efectos del artículo 191 fracción VII de la Ley se entenderá que 
 
 XXVII. Cobrar la tarifa en los medios no autorizados por la Secretaría o previstos en la concesión, permiso o autorización, según corresponda, así como en Ley, sus reglamentos y normas técnicas aplicables;
 
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 2017)</small>
 
-XXVIII. Cobrar tarifas estandarizadas no autorizadas por la Secretaría o el Titular del Ejecutivo en los términos que establezca la Ley y sus reglamentos;
+XXVIII. Cobrar la tarifa en los medios no autorizados por la Secretaría o previstos en la concesión, permiso o autorización, según corresponda, así como en Ley, sus reglamentos y normas técnicas aplicables;
 
-> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
-
-XXIX. Prestar al mismo tiempo el servicio de pasajeros bajo demanda mediante aplicaciones móviles a diversos usuarios que contraten aun cuando su punto de origen y destino sea la misma dirección;
+XXIX. (DEROGADA, P.O. 10 DE ENERO DE 2017)
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
@@ -5134,3 +5182,11 @@ SEGUNDO. El Registro Estatal abrirá un nuevo libro para realizar todas las insc
 TERCERO. La Secretaría emitirá la convocatoria que establezca el calendario y procedimiento para realizar el trámite para el otorgamiento de autorizaciones y registro de empresas de redes de transporte, así como de prestadores y conductores del servicio de transporte de pasajeros bajo demanda mediante aplicaciones móviles.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DIGELAG ACU 063/2016 QUE REFORMA DIVERSAS DISPOSICIONES DE LOS REGLAMENTOS DE LA LEY DE MOVILIDAD Y TRANSPORTE Y DEL REGISTRO ESTATAL DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. A partir de la fecha en que entre en vigor el presente acuerdo, se dejan sin efectos las disposiciones que (sic) opongan al mismo.
