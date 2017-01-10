@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-sistema-para-el-desarrollo-integral-946
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-10"
-last_updated: "2013-06-10"
+last_updated: "2017-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 10 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de junio de 2013.
 
@@ -596,3 +598,15 @@ Contralora General del Estado Comisario de la Junta de Gobierno
 Profr. Martin González Fiol
 
 Secretario Técnico de la Junta de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 10 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Sistema para el Desarrollo Integral de la Familia en el Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado el día 10 Diez de Junio del 2013 Dos Mil Trece.
+
+TERCERO. Los asuntos pendientes a la entrada en vigor de este Reglamento, que conforme al mismo deben transferirse de un área administrativa a otra, continuarán su trámite y serán resueltos por aquéllas a las que se les haya atribuido la competencia correspondiente.
