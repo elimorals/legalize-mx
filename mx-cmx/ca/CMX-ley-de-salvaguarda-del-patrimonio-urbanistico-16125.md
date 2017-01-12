@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salvaguarda-del-patrimonio-urbanistico-16125"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-13"
-last_updated: "2014-11-28"
+last_updated: "2017-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16125&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-03-14"
 
 LEY DE SALVAGUARDA DEL PATRIMONIO URBANÍSTICO ARQUITECTÓNICO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE ENERO DE 2017.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de abril de 2000.
 
@@ -264,7 +264,9 @@ Un espacio abierto monumental es un medio físico definido en suelo urbano, libr
 
 Los espacios abiertos monumentales, según sus características y usos de origen, pueden ser:
 
-I. (DEROGADA, G.O. 3 DE MAYO DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 12 DE ENERO DE 2017)</small>
+
+I. Albarradón: Dique hecho de piedra, tierra u otros materiales, para control y administración de agua;
 
 II. Atrio: Espacio abierto destinado a uso religioso generalmente adosado a un templo;
 
@@ -321,6 +323,10 @@ VII. Viveros: Viveros de Coyoacán; y
 > <small>(ADICIONADA, G.O. 3 DE MAYO DE 2012)</small>
 
 VIII. Canales: Canal Nacional, Canal de Cuemanco y Canal de Chalco.
+
+> <small>(ADICIONADA, G.O. 12 DE ENERO DE 2017)</small>
+
+IX. Albarradón: Calzada de la Virgen.
 
 ###### Artículo 13.
 
@@ -634,7 +640,7 @@ III. Los beneficios de fomento a la salvaguarda del Patrimonio Urbanístico Arqu
 
 IV. El domicilio y teléfonos del Centro de Información; y
 
-(sic) La demás información que se considere relevante.
+La demás información que se considere relevante.
 
 ###### Artículo 40.
 
@@ -832,7 +838,7 @@ II. Los Programas Delegacionales de Salvaguarda;
 
 III. Los Programas Parciales de Salvaguarda; y
 
-(sic) Los Programas Operativos de Salvaguarda de cada uno de los anteriores.
+Los Programas Operativos de Salvaguarda de cada uno de los anteriores.
 
 ###### Artículo 73.
 
@@ -858,7 +864,7 @@ I. Que la población goce, integre a su vida cotidiana, aproveche y valore el Pa
 
 II. Lograr una relación de armonía y orden entre las zonas de Patrimonio Urbanístico Arquitectónico, espacios abiertos monumentales y monumentos, y todo lo que conforma el resto del asentamiento humano, para mejorar la calidad de vida de la población: y
 
-(sic) Tener claridad en las acciones específicas a realizar y el orden en que conviene hacerlo, según prioridades definidas.
+Tener claridad en las acciones específicas a realizar y el orden en que conviene hacerlo, según prioridades definidas.
 
 ###### Artículo 78.
 
@@ -1297,3 +1303,11 @@ SEGUNDO.- El presente Decreto se tomará como referencia para el diseño e integ
 TERCERO.- Las reformas contenidas en el presente decreto no se aplicarán de manera retroactiva en perjuicio de persona alguna, respecto de las sanciones y multas administrativas, conceptos de pago, montos de referencia y demás supuestos normativos que se hayan generado o impuesto de manera previa a la entrada en vigor del presente decreto.
 
 CUARTO.- Las referencias que se hagan del salario mínimo en las normas locales vigentes, incluso en aquellas pendientes de publicar o de entrar en vigor, se entenderán hechas a la Unidad de Cuenta de la Ciudad de México, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 12 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALVAGUARDA DEL PATRIMONIO URBANÍSTICO ARQUITECTÓNICO DEL DISTRITO FEDERAL".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. Remítase el presente Decreto al Jefe de Gobierno del Distrito Federal, para su respectiva promulgación, refrendo y publicación en la Gaceta Oficial del Distrito Federal.
