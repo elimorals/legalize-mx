@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-hacienda-y-credito-8649
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-09-11"
-last_updated: "2016-06-30"
+last_updated: "2017-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8649&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-09-06"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JUNIO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2017.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1996.
 
@@ -419,13 +419,17 @@ II. Comisión Nacional Bancaria y de Valores;
 
 III. Comisión Nacional de Seguros y Fianzas;
 
-> <small>(REFORMADA, D.O.F. 30 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
 
-IV. Comisión Nacional del Sistema de Ahorro para el Retiro, y
+IV. Comisión Nacional del Sistema de Ahorro para el Retiro;
 
-> <small>(ADICIONADA, D.O.F. 30 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
 
-V. Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales.
+V. Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+VI. Instituto de Administración y Avalúos de Bienes Nacionales.
 
 Las Unidades, las Subprocuradurías, las Subtesorerías y las Direcciones Generales, estarán integradas por los Jefes de Unidad, Subprocuradores, Subtesoreros, Directores Generales, Secretarios Técnicos, Directores Generales Adjuntos, Directores, Subdirectores, Jefes de Departamento, de Oficina, de Sección y de Mesa, por los Coordinadores, Supervisores, Auditores, Ayudantes de Auditor y por los demás servidores públicos que señale este Reglamento, así como por el personal que se requiera para satisfacer las necesidades del servicio.
 
@@ -525,6 +529,10 @@ XXVI. Intervenir en los convenios que celebre el Ejecutivo Federal cuando incluy
 
 XXVII. Designar al Presidente de la Comisión Nacional Bancaria y de Valores, al de la Comisión Nacional de Seguros y Fianzas, al de la Comisión Nacional del Sistema de Ahorro para el Retiro y al de la Comisión Nacional para la Protección y Defensa de los Usuarios de Servicios Financieros; así como conocer las resoluciones y recomendaciones de sus Juntas de Gobierno, en los términos de las disposiciones legales correspondientes;
 
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXVII Bis. Designar al Presidente del Instituto de Administración y Avalúos de Bienes Nacionales;
+
 XXVIII. Recibir en acuerdo a los Subsecretarios, al Oficial Mayor, al Procurador Fiscal de la Federación y al Tesorero de la Federación, para el trámite y resolución de los asuntos de su respectiva competencia;
 
 > <small>(REFORMADA, D.O.F. 10 DE OCTUBRE DE 2012)</small>
@@ -543,9 +551,13 @@ XXXIII. Aprobar las políticas técnicas y administrativas para la mejor organiz
 
 XXXIV. Dictar las reglas de carácter general en las materias competencia de la Secretaría, y
 
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXXV. Determinar la política inmobiliaria de la Administración Pública Federal, incluida la relativa al arrendamiento de inmuebles cuando la Administración Pública Federal tenga el carácter de arrendataria, salvo la que se refiere a playas, zona federal marítimo terrestre, terrenos ganados al mar o cualquier depósito de aguas marítimas, así como la de bienes muebles y de desincorporación de activos de la Administración Pública Federal, y
+
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
-XXXV. Las demás que con carácter de no delegables se establezcan por ley, por reglamento o le confiera el Presidente de la República.
+XXXVI. Las demás que con carácter de no delegables se establezcan por ley, por reglamento o le confiera el Presidente de la República.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -7795,11 +7807,11 @@ El Órgano Interno de Control contará en su estructura con un área administrat
 
 Para la más eficaz atención y el eficiente despacho de los asuntos de su competencia, la Secretaría podrá contar con los órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y a los que se les otorgarán autonomía técnica y facultades ejecutivas para resolver sobre materias específicas dentro del ámbito de competencia que se determine en cada caso, de conformidad con las normas que al efecto establezca el instrumento legal respectivo, el cual deberá ser publicado en el Diario Oficial de la Federación.
 
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2017)</small>
 
 ###### Artículo 98-C.
 
-El Servicio de Administración Tributaria, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro y la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales, tendrán la organización y las atribuciones que establezcan las leyes o, en su caso, los ordenamientos emitidos por el Presidente de la República, por los que fueron creados.
+El Servicio de Administración Tributaria, la Comisión Nacional Bancaria y de Valores, la Comisión Nacional de Seguros y Fianzas, la Comisión Nacional del Sistema de Ahorro para el Retiro, la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales y el Instituto de Administración y Avalúos de Bienes Nacionales tendrán la organización y las atribuciones que les establezcan las disposiciones jurídicas por los que fueron creados.
 
 > <small>(DEROGADO, D.O.F. 10 DE OCTUBRE DE 2012)</small>
 
@@ -8288,3 +8300,15 @@ SEGUNDO.- La Secretaría de Hacienda y Crédito Público, con cargo a su presupu
 TERCERO.- Dentro de los 120 días contados a partir de la entrada en vigor del presente Decreto, el Titular de la Secretaría de Hacienda y Crédito Público someterá a consideración del Titular del Ejecutivo Federal, el proyecto de Reglamento Interior de la Autoridad Federal para el Desarrollo de las Zonas Económicas Especiales.
 
 CUARTO.- La atribución prevista en el artículo 4, fracción XVII, del artículo PRIMERO del presente Decreto, entrará en vigor una vez que las facultades en materia de administración de bienes inmuebles de propiedad federal se transfieran de la Secretaría de la Función Pública a la Secretaría de Hacienda y Crédito Público, en términos de las disposiciones jurídicas aplicables.
+
+D.O.F. 12 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO Y DEL REGLAMENTO DEL INSTITUTO DE ADMINISTRACIÓN Y AVALÚOS DE BIENES NACIONALES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En tanto se expidan las políticas, normas, acuerdos, lineamientos, procedimientos, metodologías, criterios técnicos y demás disposiciones a que se refiere este Decreto, se continuarán aplicando las disposiciones vigentes en lo que no se opongan al Reglamento del Instituto de Administración y Avalúos de Bienes Nacionales.
+
+TERCERO.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto serán resueltos por el servidor público o unidad administrativa que asume la competencia conforme al presente ordenamiento.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
