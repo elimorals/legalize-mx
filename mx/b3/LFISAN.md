@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "2016-11-30"
+last_updated: "2017-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LFISAN"
 ---
 # LEY FEDERAL DEL IMPUESTO SOBRE AUTOMOVILES NUEVOS
 
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE EL "ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017", PUBLICADO EN LA SECCIÓN SEGUNDA DEL D.O.F. DE 12 DE ENERO DE 2017.]</small>
+
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2016.
-
-ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 13 DE ENERO DE 2016.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -176,17 +176,17 @@ No se pagará el impuesto establecido en esta Ley, en los siguientes casos:
 
 I.- En la exportación de automóviles con carácter definitivo, en los términos de la legislación aduanera.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 13 DE ENERO DE 2016.</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DE LA PRESENTE FRACCIÓN VÉASE EL “ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017”, PUBLICADO EN LA SECCIÓN SEGUNDA DEL D.O.F. DE 12 DE ENERO DE 2017.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $222,032.19. En el precio mencionado no se considerará el impuesto al valor agregado.
+II. En la enajenación al consumidor por el fabricante, ensamblador, distribuidor autorizado o comerciante en el ramo de vehículos, cuyo precio de enajenación, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones no exceda de la cantidad de $150,000.00. En el precio mencionado no se considerará el impuesto al valor agregado.
 
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE EL ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2016, D.O.F. DEL 13 DE ENERO DE 2016.</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CANTIDADES ACTUALIZADAS DEL PRESENTE PÁRRAFO VÉASE EL “ANEXO 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017”, PUBLICADO EN LA SECCIÓN SEGUNDA DEL D.O.F. DE 12 DE ENERO DE 2017.]</small>
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2005)</small>
 
-Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $222,032.20 y hasta $281,240.78, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
+Tratándose de automóviles cuyo precio de enajenación se encuentre comprendido entre $150,000.01 y hasta $190,000.00, la exención será del cincuenta por ciento del pago del impuesto que establece esta Ley. Lo dispuesto en este párrafo y en el anterior, también se aplicará a la importación de automóviles.
 
 El precio a que se refiere el párrafo anterior, se actualizará en el mes de enero de cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
 
@@ -2817,3 +2817,7 @@ D.O.F. 30 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL IMPUESTO SOBRE LA RENTA, DE LA LEY DEL IMPUESTO AL VALOR AGREGADO, DEL CÓDIGO FISCAL DE LA FEDERACIÓN Y DE LA LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS”.]
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2017.
+
+RESOLUCIÓN MISCELÁNEA FISCAL DEL D.O.F. 12 DE ENERO DE 2017
+
+> <small>[N. DE E. VÉASE ANEXO 15 PUBLICADO EN EL D.O.F. DE 12 DE ENERO DE 2017, SECCIÓN SEGUNDA, PÁGINAS DE LA 1 A LA 112, EN “ANEXOS 15 DE LA RESOLUCIÓN MISCELÁNEA FISCAL PARA 2017, PUBLICADA EL 23 DE DICIEMBRE DE 2016”.]</small>
