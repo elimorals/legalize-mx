@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-de-administracion-y-avaluos-de-87724"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-14"
-last_updated: "2012-05-14"
+last_updated: "2017-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87724&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2012-05-09"
 
 REGLAMENTO DEL INSTITUTO DE ADMINISTRACIÓN Y AVALÚOS DE BIENES NACIONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2017.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2012.
 
@@ -33,9 +33,11 @@ REGLAMENTO DEL INSTITUTO DE ADMINISTRACIÓN Y AVALÚOS DE BIENES NACIONALES
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 1.
 
-El Instituto de Administración y Avalúos de Bienes Nacionales, es un órgano desconcentrado de la Secretaría de la Función Pública, encargado de ejercer las atribuciones que a esta Dependencia del Ejecutivo Federal le confieren la Ley General de Bienes Nacionales y demás leyes, reglamentos y ordenamientos jurídicos de carácter federal, en materia de planeación, política y administración de inmuebles federales, avalúos, justipreciaciones de rentas; de inventario, registro y catastro del patrimonio inmobiliario federal y paraestatal, así como de la vigilancia, control, protección, adquisición, enajenación y afectación de inmuebles federales competencia de la Secretaría.
+El Instituto de Administración y Avalúos de Bienes Nacionales es un órgano administrativo desconcentrado de la Secretaría de Hacienda y Crédito Público, encargado de ejercer las atribuciones que la Ley General de Bienes Nacionales le confiere a dicha Secretaría, así como aquéllas que expresamente otros ordenamientos le confieran a dicho Instituto.
 
 ###### ARTÍCULO 2.
 
@@ -49,7 +51,9 @@ III. Inmuebles federales competencia de la Secretaría: Los inmuebles federales 
 
 IV. Inmuebles federales a cargo del Instituto: Los inmuebles federales competencia de la Secretaría, que no están destinados al servicio de las instituciones públicas;
 
-V. Inmuebles federales compartidos: Los inmuebles federales competencia de la Secretaría destinados al servicio de diferentes instituciones públicas, con excepción de los casos previstos por las fracciones I y II del artículo 65 de la Ley;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+V. Inmuebles federales compartidos: Los inmuebles federales competencia de la Secretaría que se encuentran ocupados por diversas instituciones públicas de los ámbitos federal, estatal o municipal;
 
 VI. Instituciones destinatarias: Aquéllas a que se refiere la fracción VI del artículo 2 de la Ley;
 
@@ -59,7 +63,9 @@ VIII. Instituto: El Instituto de Administración y Avalúos de Bienes Nacionales
 
 IX. Ley: La Ley General de Bienes Nacionales, y
 
-X. Secretaría: La Secretaría de la Función Pública.
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+X. Secretaría: La Secretaría de Hacienda y Crédito Público.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES Y ORGANIZACIÓN DEL INSTITUTO
 
@@ -69,29 +75,43 @@ X. Secretaría: La Secretaría de la Función Pública.
 
 El Instituto tendrá las siguientes atribuciones:
 
-I. Proponer al Titular de la Secretaría la política inmobiliaria de la Administración Pública Federal, de conformidad con las disposiciones de la Ley y del Plan Nacional de Desarrollo, así como instrumentar la política que, en su caso, sea aprobada;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+I. Proponer al Titular de la Secretaría la política inmobiliaria, la de bienes muebles y desincorporación de activos de la Administración Pública Federal, de conformidad con las disposiciones de la Ley y del Plan Nacional de Desarrollo, así como instrumentar las políticas que, en su caso, sean aprobadas;
 
 II. Proponer al Titular de la Secretaría anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos, lineamientos y demás instrumentos normativos, cuyos preceptos se relacionen con la competencia del Instituto;
 
 III. Realizar la planeación inmobiliaria tendiente a lograr los objetivos de óptimo aprovechamiento y preservación del patrimonio inmobiliario federal y coordinarse con las entidades para alcanzar los mismos efectos respecto de los inmuebles de éstas;
 
-IV. Emitir los avalúos y justipreciaciones de rentas que soliciten las dependencias y entidades, así como todo tipo de trabajos valuatorios a nivel de consultoría que soliciten las instituciones públicas;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
 
-V. Expedir las metodologías, criterios y procedimientos de carácter técnico conforme a los cuales este Instituto, las instituciones de crédito y los especialistas en materia de valuación con cédula profesional expedida por autoridad competente, llevarán a cabo los avalúos que soliciten las dependencias y entidades, en los casos previstos por los artículos 143 y 144 de la Ley, así como aquéllos conforme a los cuales el propio Instituto practicará los servicios valuatorios a nivel de consultoría, sin perjuicio de las atribuciones que en materia de avalúos de bienes muebles correspondan a la Unidad de Normatividad de Contrataciones Públicas de la Secretaría;
+IV. Prestar los servicios valuatorios que le soliciten las dependencias y entidades de la Administración Pública Federal, la Procuraduría General de la República, la Oficina de la Presidencia de la República y empresas productivas del Estado, así como las demás Instituciones Públicas, personas físicas o morales nacionales o extranjeras que requieran servicios valuatorios regulados por el Instituto;
 
-VI. Determinar el valor de los bienes sujetos al régimen de dominio público de la Federación que usen, gocen o aprovechen las personas físicas o morales, cuando lo requiera la Secretaría de Hacienda y Crédito Público, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
 
-VII. Practicar los avalúos necesarios a fin de determinar los valores mínimos de los desechos de bienes muebles que generen las dependencias y entidades, cuando así lo requiera la Unidad de Normatividad de Contrataciones Públicas de la Secretaría;
+V. Expedir las normas, metodologías, criterios y procedimientos, de carácter técnico, conforme a los cuales este Instituto, las instituciones de crédito y los especialistas en materia de valuación con cédula profesional expedida por autoridad competente, llevarán a cabo los avalúos que soliciten las dependencias y entidades de la Administración Pública Federal, la Oficina de la Presidencia de la República y la Procuraduría General de la República, en los casos previstos en el artículo 142 de la Ley, así como aquéllos conforme a los cuales el propio Instituto practicará sus servicios valuatorios;
+
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+VI. Determinar el valor de los bienes sujetos al régimen de dominio público de la Federación que usen, gocen o aprovechen las personas físicas o morales, cuando lo requieran las unidades administrativas competentes de la Secretaría, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+VII. Practicar los servicios valuatorios a fin de determinar los valores mínimos de los desechos de bienes muebles que generen las dependencias y entidades de la Administración Pública Federal, la Oficina de la Presidencia de la República y la Procuraduría General de la República, así como llevar y mantener actualizado el catálogo o registro clasificatorio de dichos bienes muebles, conforme a lo previsto en el artículo 138 de la Ley;
 
 VIII. Poseer, vigilar, conservar, proteger, administrar y controlar por sí mismo o con el apoyo de las instituciones destinatarias que correspondan, los inmuebles federales competencia de la Secretaría, así como dictar las reglas específicas a que deberá sujetarse la vigilancia y aprovechamiento de los mismos;
 
 IX. Tramitar las solicitudes y gestionar acciones de adquisición, enajenación, destino o afectación de los inmuebles federales competencia de la Secretaría y representar a la Federación en la celebración de los contratos que corresponda, a través del servidor público que el propio Instituto designe para tal efecto;
 
-X. Proponer al Titular de la Secretaría la resolución sobre destinos, declaratorias de sujeción al régimen de dominio público de la Federación, desincorporación de dicho régimen y autorización para enajenar inmuebles federales, así como respecto de la desincorporación de ese régimen de inmuebles pertenecientes a organismos descentralizados, y de la reversión de inmuebles federales enajenados a título gratuito. Asimismo, formular y tramitar ante la Unidad de Asuntos Jurídicos de la Secretaría los proyectos de acuerdos y declaratorias correspondientes;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+X. Resolver los asuntos relativos al destino de bienes inmuebles federales, con excepción de las playas marítimas, la zona federal marítimo terrestre y los terrenos ganados al mar; a las declaratorias de sujeción al régimen de dominio público de la Federación; a la desincorporación de dicho régimen y autorización para enajenar inmuebles federales, con excepción de los terrenos nacionales, demasías y los terrenos ganados al mar; la desincorporación de ese régimen de inmuebles pertenecientes a organismos descentralizados, y de la reversión de inmuebles federales enajenados a título gratuito, así como emitir los acuerdos y declaratorias correspondientes;
 
 XI. Llevar el padrón de promotores inmobiliarios para la venta de inmuebles federales competencia de la Secretaría;
 
-XII. Otorgar concesiones y, en su caso, permisos o autorizaciones para el uso y aprovechamiento de los inmuebles federales competencia de la Secretaría, así como declarar la procedencia de su extinción;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XII. Otorgar concesiones y, en su caso, permisos o autorizaciones para el uso y aprovechamiento de los inmuebles federales competencia de la Secretaría, así como declarar la procedencia de su extinción, salvo en los casos en que las disposiciones jurídicas aplicables dispongan que corresponde a otra unidad administrativa u órgano administrativo desconcentrado de la Secretaría;
 
 XIII. Celebrar contratos de arrendamiento, comodato y usufructo sobre inmuebles federales competencia de la Secretaría;
 
@@ -115,15 +135,33 @@ XXII. Suscribir las bases, convenios y acuerdos a que se refiere la fracción XI
 
 XXIII. Llevar el Padrón Nacional de Peritos Valuadores que el propio Instituto requiera en materia de bienes nacionales;
 
-XXIV. Interpretar para efectos administrativos la Ley General de Bienes Nacionales y demás disposiciones legales, reglamentarias y administrativas en las materias de valuación, de inmuebles federales competencia de la Secretaría, de inmuebles pertenecientes a las entidades paraestatales y en lo relativo a los Sistemas de Administración Inmobiliaria Federal y Paraestatal y de Información Inmobiliaria Federal y Paraestatal;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXIV. Interpretar para efectos administrativos las disposiciones que la Ley le confiere a la Secretaría, así como aquéllas previstas en otros ordenamientos que se refieran a las materias competencia de la Secretaría en términos de dicha Ley, con opinión de la Procuraduría Fiscal de la Federación;
 
 XXV. Prestar asesoría a las dependencias y entidades que lo soliciten, en materia de inmuebles federales competencia de la Secretaría;
 
 XXVI. Integrar los expedientes y tramitar los procedimientos administrativos en que deba intervenir la Secretaría, relativos a inmuebles federales que sean de su competencia, de conformidad con la legislación aplicable y emitir o gestionar ante la autoridad competente, la resolución que corresponda;
 
-XXVII. Promover y, en su caso, coadyuvar con las autoridades competentes en la defensa jurídica de los inmuebles federales competencia de la Secretaría, y
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
 
-XXVIII. Las demás que le confiera expresamente el Titular de la Secretaría, las que la Ley otorga a esta dependencia y que el Reglamento de la misma no asigne expresamente a otros servidores públicos o unidades administrativas de la propia Secretaría, así como las de naturaleza análoga o conexa a las previstas en el presente artículo.
+XXVII. Promover y, en su caso, coadyuvar con las autoridades competentes en la defensa jurídica de los inmuebles federales competencia de la Secretaría;
+
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXVIII. Nombrar a los Notarios del Patrimonio Inmobiliario Federal; hacer pública la lista de los mismos; autorizar y revisar sus protocolos especiales relativos al patrimonio inmobiliario federal; habilitar a los Notarios del Patrimonio Inmobiliario Federal y a los notarios públicos de conformidad con la Ley, así como proponer al titular de la Secretaría las normas para regular el nombramiento y remoción de los Notarios del Patrimonio Inmobiliario Federal y su intervención en el otorgamiento de actos relacionados con inmuebles federales y las sanciones que resulten aplicables, las cuales deberán publicarse en el Diario Oficial de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXIX. Emitir las disposiciones jurídicas para la aplicación de la Ley, siempre y cuando no se refieran a las facultades indelegables del titular de la Secretaría o a las atribuciones que dicha Ley otorga a otras dependencias de la Administración Pública Federal;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXX. Imponer las sanciones que correspondan a los notarios públicos y a Notarios del Patrimonio Inmobiliario Federal en términos de la Ley, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXXI. Las demás que le confieran otras disposiciones jurídicas aplicables.
 
 #### Sección II. De la Organización del Instituto
 
@@ -175,11 +213,15 @@ III. Constituir comités internos en los que intervengan varias unidades adminis
 
 IV. Proponer al Titular de la Secretaría normas, lineamientos y políticas de carácter general, que se consideren necesarias para el adecuado cumplimiento de las disposiciones de la competencia del Instituto;
 
-V. Expedir las metodologías, criterios y procedimientos de carácter técnico a que se refiere el artículo 142 de la Ley, conforme a los cuales se practicarán los avalúos, justipreciaciones de rentas y los demás trabajos valuatorios, sin perjuicio de las atribuciones que en materia de avalúos de bienes muebles correspondan a la Unidad de Normatividad de Contrataciones Públicas de la Secretaría;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+V. Expedir las normas, metodologías, criterios y procedimientos de carácter técnico, a que se refiere el artículo 142 de la Ley, conforme a los cuales se practicarán los avalúos, justipreciaciones de rentas y demás servicios valuatorios;
 
 VI. Determinar las medidas para que, en forma programada y con la participación de las instituciones destinatarias, el valor de los inmuebles competencia de la Secretaría se registre en la contabilidad gubernamental;
 
-VII. Proponer al Titular de la Secretaría los criterios que habrán de atenderse, en la determinación de los porcentajes y montos de incremento o reducción a los valores comerciales para los casos previstos en el artículo 147 de la Ley;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+VII. Determinar los porcentajes y montos de incremento o reducción a los valores comerciales para los casos previstos en el artículo 147 de la Ley;
 
 VIII. Proponer al Titular de la Secretaría la política de la Administración Pública Federal en materia de arrendamiento de inmuebles cuando la Federación o las entidades tengan el carácter de arrendatarias, y las disposiciones aplicables en esta materia;
 
@@ -187,11 +229,15 @@ IX. Fijar el importe máximo de rentas por zonas y tipos de inmuebles, a que se 
 
 X. Expedir las reglas para el otorgamiento, revalidación, suspensión y revocación del registro en el Padrón Nacional de Peritos, así como las relativas al Padrón de Promotores Inmobiliarios;
 
-XI. Proponer a la Secretaría de Hacienda y Crédito Público los aranceles para determinar el monto de los aprovechamientos por los servicios que presta el Instituto;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XI. Proponer a las unidades administrativas competentes de la Secretaría los aranceles para determinar el monto de los aprovechamientos de los servicios que presta el Instituto;
 
 XII. Determinar, a propuesta del titular de la Dirección General correspondiente, la forma de pago de honorarios a los peritos registrados en el Padrón Nacional de Peritos por la realización de sus respectivos trabajos;
 
-XIII. Dictar las reglas específicas para la vigilancia y aprovechamiento de los inmuebles federales competencia de la Secretaría, así como proponer al Titular de la Secretaría las disposiciones y el procedimiento para destinar dichos inmuebles al servicio de las instituciones públicas;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XIII. Dictar las reglas específicas para la vigilancia y aprovechamiento de los inmuebles federales competencia de la Secretaría, así como emitir las disposiciones y el procedimiento para destinar dichos inmuebles al servicio de las instituciones públicas;
 
 XIV. Expedir los procedimientos para la integración y actualización del Sistema de Información Inmobiliaria Federal y Paraestatal;
 
@@ -229,9 +275,29 @@ XXX. Instruir la captación, análisis y procesamiento de la información genera
 
 XXXI. Aprobar los programas y actividades de diseño y difusión de la imagen institucional, para garantizar la congruencia del contenido de las comunicaciones y materiales que genere el Instituto con dicha imagen;
 
-XXXII. Ejercer en forma directa cualquiera de las atribuciones que este Reglamento confiere a las unidades administrativas del Instituto, y
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
 
-XXXIII. Las demás que le confiera el Titular de la Secretaría y las que le señalen las disposiciones legales y reglamentarias relativas.
+XXXII. Ejercer en forma directa cualquiera de las atribuciones que este Reglamento confiere a las unidades administrativas del Instituto;
+
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXXIII. Emitir los acuerdos de destino de bienes inmuebles federales, con excepción de las playas marítimas, la zona federal marítimo terrestre y los terrenos ganados al mar; de desincorporación del régimen de dominio público de la Federación y de autorización para enajenar inmuebles federales, con excepción de los terrenos nacionales, demasías y los terrenos ganados al mar; de desincorporación de ese régimen de inmuebles propiedad de organismos descentralizados, así como las declaratorias de sujeción al régimen de dominio público de la Federación y de reversión de inmuebles federales enajenados a título gratuito;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXXIV. Nombrar a los Notarios del Patrimonio Inmobiliario Federal; habilitar a los Notarios del Patrimonio Inmobiliario Federal y notarios públicos de conformidad con la Ley, así como proponer al titular de la Secretaría las normas para regular el nombramiento y remoción de los Notarios del Patrimonio Inmobiliario Federal y su intervención en el otorgamiento de actos relacionados con inmuebles federales y las sanciones que resulten aplicables, las cuales deberán publicarse en el Diario Oficial de la Federación;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXXV. Proponer al Titular de la Secretaría las normas generales a que se sujetará el registro, afectación, disposición final y baja de los bienes muebles al servicio de las dependencias de la Administración Pública Federal, la Procuraduría General de la República y la Oficina de la Presidencia de la República, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXXVI. Las demás que las disposiciones jurídicas le confieran expresamente como indelegables, así como las que con dicho carácter le confiera el Presidente de la República.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2017)</small>
+
+Las atribuciones a que se refieren las fracciones XVIII y XXVI de este artículo se ejercerán también por las unidades administrativas del Instituto conforme a lo previsto en este Reglamento.
 
 ### CAPÍTULO TERCERO. DE LAS UNIDADES ADMINISTRATIVAS DEL INSTITUTO
 
@@ -321,7 +387,9 @@ El Coordinador de Desarrollo Institucional será auxiliado en el ejercicio de su
 
 Corresponden a la Unidad Jurídica las siguientes atribuciones:
 
-I. Interpretar para efectos administrativos la Ley General de Bienes Nacionales y demás disposiciones legales, reglamentarias y administrativas en las materias de valuación, de inmuebles federales competencia de la Secretaría, de inmuebles pertenecientes a las entidades paraestatales y en lo relativo a los Sistemas de Administración y de Información Inmobiliaria Federal y Paraestatal, así como las demás disposiciones jurídicas relativas al ámbito de competencia del Instituto;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+I. Interpretar para efectos administrativos las disposiciones que la Ley le confiere a la Secretaría, así como aquéllas previstas en otros ordenamientos que se refieran a las materias competencia de la Secretaría en términos de dicha Ley, con opinión de la Procuraduría Fiscal de la Federación;
 
 II. Proporcionar a las unidades administrativas del Instituto, así como a las instituciones públicas, la asesoría jurídica que requieran en las materias competencia del Instituto;
 
@@ -347,9 +415,41 @@ XII. Instruir los recursos administrativos que se interpongan contra actos emiti
 
 XIII. Formular los proyectos de informes que requiera la Comisión Nacional de los Derechos Humanos respecto de los actos emitidos por servidores públicos del Instituto;
 
-XIV. Formular o revisar y emitir opinión jurídica respecto del contenido de los proyectos de contratos, convenios, bases y demás actos jurídicos que celebren las diversas áreas y direcciones generales del Instituto, y
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
 
-XV. Sustanciar y resolver, a solicitud de la Dirección General de Administración del Patrimonio Inmobiliario Federal, el procedimiento administrativo de recuperación en los supuestos previstos por el artículo 107 de la Ley, tratándose de inmuebles federales competencia de la Secretaría.
+XIV. Elaborar, revisar y emitir opinión jurídica respecto de los proyectos de contratos, convenios, bases y demás actos jurídicos que celebren las diversas áreas y direcciones generales del Instituto;
+
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XV. Sustanciar y resolver, tratándose de inmuebles federales competencia de la Secretaría y a solicitud de la Dirección General de Administración del Patrimonio Inmobiliario Federal, el procedimiento administrativo de recuperación en los supuestos previstos en el artículo 107 de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XVI. Integrar y hacer pública la lista de los Notarios del Patrimonio Inmobiliario Federal y autorizar y revisar sus protocolos especiales relativos al patrimonio inmobiliario federal, de conformidad con la Ley, así como elaborar y proponer al Presidente del Instituto las normas para regular el nombramiento y remoción de los Notarios del Patrimonio Inmobiliario Federal y su intervención en el otorgamiento de actos relacionados con inmuebles federales;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XVII. Elaborar y proponer al Presidente del Instituto las normas generales a que se sujetará el registro, afectación, disposición final y baja de los bienes muebles al servicio de las dependencias de la Administración Pública Federal, la Procuraduría General de la República y la Oficina de la Presidencia de la República;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XVIII. Imponer las sanciones que correspondan a los notarios públicos y a Notarios del Patrimonio Inmobiliario Federal, en términos de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XIX. Autorizar a las dependencias, la Procuraduría General de la República y a la Oficina de la Presidencia de la República, la venta de bienes muebles sin sujetarse al procedimiento de licitación pública, mediante invitación a cuando menos tres personas o adjudicación directa, cuando se presenten condiciones o circunstancias extraordinarias o imprevisibles o situaciones de emergencia, o no existan por lo menos tres posibles interesados capacitados legalmente para presentar ofertas;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XX. Autorizar a las dependencias, la Procuraduría General de la República y a la Oficina de la Presidencia de la República, la donación de bienes muebles de propiedad federal que estén a su servicio, cuando ya no les sean útiles y el valor de los mismos exceda el monto establecido en el artículo 133 de la Ley;
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXI. Llevar y mantener actualizado el catálogo o registro clasificatorio de los bienes muebles de las dependencias, la Procuraduría General de la República y la Oficina de la Presidencia de la República, con base en la información que éstas le remitan para tal efecto, así como llevar el registro de los avisos de baja respectivos, y
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+XXII. Practicar las visitas de inspección que considere necesarias a las dependencias, la Procuraduría General de la República, la Oficina de la Presidencia de la República y las entidades paraestatales para verificar el control y existencia en almacenes e inventarios de bienes muebles, así como la afectación a los mismos.
 
 El Titular de la Unidad Jurídica será auxiliado en el ejercicio de sus atribuciones por los Directores de Asuntos Contenciosos; y de Consultas, Convenios y Contratos, así como por el personal técnico y administrativo que integre su estructura organizacional y conforme al presupuesto autorizado.
 
@@ -429,7 +529,9 @@ III. Asesorar, capacitar y dar orientación en materia inmobiliaria a las instit
 
 IV. Intervenir, en nombre y representación de la Federación, en la formalización de las adquisiciones de los inmuebles para el servicio de la Secretaría o de varias instituciones públicas y, previa emisión del respectivo acuerdo administrativo, de las enajenaciones o afectaciones de inmuebles federales competencia de la Secretaría;
 
-V. Conocer y revisar desde el punto de vista técnico jurídico, los asuntos relativos a destinos, declaratorias de sujeción al régimen de dominio público de la Federación, desincorporación de dicho régimen y autorización para enajenar inmuebles federales, así como respecto a la desincorporación de ese régimen de inmuebles pertenecientes a organismos descentralizados, y a la reversión de inmuebles federales enajenados a título gratuito. Asimismo, formular y tramitar ante la Unidad de Asuntos Jurídicos de la Secretaría los proyectos de acuerdos y declaratorias correspondientes;
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2017)</small>
+
+V. Conocer y revisar desde el punto de vista técnico jurídico, los asuntos relativos a destinos de bienes inmuebles federales, con excepción de las playas marítimas, la zona federal marítimo terrestre y los terrenos ganados al mar; a las declaratorias de sujeción al régimen de dominio público de la Federación; a la desincorporación de dicho régimen y autorización para enajenar inmuebles federales, con excepción de los terrenos nacionales, demasías y los terrenos ganados al mar; la desincorporación de ese régimen de inmuebles pertenecientes a organismos descentralizados, y a la reversión de inmuebles federales enajenados a título gratuito, así como, someter a consideración del Presidente del Instituto, previa opinión de la Unidad Jurídica, los proyectos de acuerdos y declaratorias correspondientes;
 
 VI. Autorizar los contratos de donación de inmuebles que realicen los gobiernos de los estados, del Distrito Federal, de los municipios o sus respectivas entidades paraestatales, a favor de entidades para la realización de las actividades propias de su objeto, así como los relativos a las enajenaciones de inmuebles que realicen las entidades a favor de personas de escasos recursos para resolver necesidades de vivienda de interés social, a efecto de que dichos contratos adquieran el carácter de instrumento público;
 
@@ -685,15 +787,15 @@ Los Directores Generales, el Coordinador de Desarrollo Institucional, el Titular
 
 #### Sección V. De los Aprovechamientos y Gastos Generados por los Servicios Valuatorios
 
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO 19.
 
-La presentación de una solicitud de servicio valuatorio obliga al solicitante a pagar los aprovechamientos y gastos que origine la realización de trabajos valuatorios, aun en el caso de que éste solicite su suspensión. En este supuesto, los aprovechamientos y gastos serán únicamente los devengados.
+La presentación de una solicitud de servicio valuatorio obliga al promovente a pagar previamente los aprovechamientos y gastos que origine la prestación de los servicios valuatorios, en un plazo no mayor a sesenta días a partir de la presentación de dicha solicitud. En el caso de que éste solicite la suspensión del servicio valuatorio una vez pagados los aprovechamientos y gastos, serán cobrados únicamente los devengados.
 
-Cuando el solicitante sea una dependencia o entidad, la solicitud de avalúo o de justipreciación de renta deberá ser suscrita por el servidor público de la dependencia o entidad que requiera el servicio y por un servidor público del área administrativa competente para autorizar el pago de aprovechamientos y gastos al Instituto.
+Cuando el solicitante sea una dependencia o entidad de la Administración Pública Federal, la solicitud de los servicios valuatorios deberá ser suscrita por el servidor público de dicha dependencia o entidad que requiera el servicio y por un servidor público competente para autorizar el pago de los aprovechamientos y gastos al Instituto.
 
-El Instituto notificará al solicitante la fecha en que el dictamen valuatorio quede a su disposición, así como el importe de los aprovechamientos y gastos causados, de conformidad con las disposiciones fiscales correspondientes.
-
-El solicitante dispondrá de un plazo máximo de treinta días naturales para presentar en el Instituto la respectiva constancia de pago, contado a partir de la fecha en que reciba la notificación mencionada.
+El Instituto notificará al promovente cuando se hayan generado aprovechamientos y gastos adicionales por el servicio valuatorio solicitado originalmente, mismos que deberán cubrirse previamente a la entrega del dictamen valuatorio.
 
 ## TRANSITORIOS
 
@@ -716,3 +818,17 @@ OCTAVO.- El Instituto de Administración y Avalúos de Bienes Nacionales realiza
 NOVENO.- La Dirección General de Administración y Finanzas del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades administrativas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan en los términos de este ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a nueve de mayo de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de la Función Pública, Rafael Morgan Ríos.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO Y DEL REGLAMENTO DEL INSTITUTO DE ADMINISTRACIÓN Y AVALÚOS DE BIENES NACIONALES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En tanto se expidan las políticas, normas, acuerdos, lineamientos, procedimientos, metodologías, criterios técnicos y demás disposiciones a que se refiere este Decreto, se continuarán aplicando las disposiciones vigentes en lo que no se opongan al Reglamento del Instituto de Administración y Avalúos de Bienes Nacionales.
+
+TERCERO.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto serán resueltos por el servidor público o unidad administrativa que asume la competencia conforme al presente ordenamiento.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
