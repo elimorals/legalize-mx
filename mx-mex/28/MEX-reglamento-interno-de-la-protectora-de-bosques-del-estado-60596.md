@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-protectora-de-bosques-del-estado-60596
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2012-04-18"
+last_updated: "2017-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60596&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 12 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERNO DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE ABRIL DE 2012.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DE GOBIERNO DEL 18 DE ABRIL DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el viernes 14 de marzo de 2008.
 
@@ -527,7 +527,7 @@ DIRECTOR GENERAL DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO Y SECRETARIO 
 
 (RUBRICA).
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 G.G. 17 DE ABRIL DE 2012.
 
@@ -536,3 +536,13 @@ PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del G
 SEGUNDO.- Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Acuerdo.
+
+G.G. 12 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Reglamento en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se abroga el Reglamento Interno Publicado en el Periódico Oficial "Gaceta del Gobierno" el 14 de marzo del 2008 y las demás disposiciones de igual o menor jerarquía que se opongan al presente.
