@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-de-la-ley-de-la-defensoria-publica-del-estado-de-112
 country: "mx"
 rank: "reglamento"
 publication_date: "2016-01-19"
-last_updated: "2016-01-19"
+last_updated: "2017-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112416&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de San Luis Potosí, el martes 19 de enero de 2016.
 
@@ -649,6 +649,10 @@ La formación, reconocimiento y permanencia de las Defensoras y Defensores, se d
 
 Las ausencias temporales de la Coordinadora o Coordinador menores de quince días, serán suplidas por la o el Director de Área que designe la Coordinadora o Coordinador. En las ausencias mayores de quince días será suplido por la o el servidor público que designe el Titular del Ejecutivo.
 
+> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2017)</small>
+
+En caso de ausencia definitiva del titular o la titular de la Coordinación General de la Defensoría Pública del Estado, será suplida por la o el Director de Área que el Gobernador del Estado designe como encargado del despacho, con las mismas atribuciones y funciones conferidas al Coordinador General, hasta en tanto el Titular del Ejecutivo del Estado designe al nuevo Coordinador o Coordinadora de dicha entidad.
+
 ###### ARTÍCULO 47.
 
 Las Directoras y Directores de Área, durante sus ausencias temporales menores de quince días, serán suplidos por cualquier otra Directora o Director de Área o por las Defensoras o Defensores que para tal efecto designe la Coordinadora o Coordinador. En las ausencias mayores de quince días, serán suplidos por la o el servidor público que sea designado por la Coordinadora o Coordinador.
@@ -676,3 +680,17 @@ ALEJANDRO LEAL TOVÍAS
 SECRETARIO GENERAL DE GOBIERNO
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO ADMINISTRATIVO QUE REFORMA DISPOSICIONES DEL REGLAMENTO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Gobierno (sic) del Estado "Plan de San Luis".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
