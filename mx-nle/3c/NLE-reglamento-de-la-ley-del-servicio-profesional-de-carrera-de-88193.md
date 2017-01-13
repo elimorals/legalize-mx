@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-del-servicio-profesional-de-carrera-de-881
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-13"
-last_updated: "2016-09-26"
+last_updated: "2017-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2017.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 junio de 2012.
 
@@ -337,9 +337,9 @@ III. Los servidores públicos que presten sus servicios profesionales independie
 
 IV. Los servidores públicos que ocupen los puestos contemplados en los niveles de operación establecidos en el artículo 5 de la Ley que presten sus servicios en forma temporal, en los términos del Reglamento.
 
-Los servidores públicos mencionados en las fracciones I y II deberán cumplir con los requisitos de ingreso a la Auditoría que marca el artículo 19 de la Ley, exceptuando con lo establecido en la fracción IV cuando el perfil del puesto no lo exija, con la fracción VIII y podrán entregar el testimonio establecido en el último párrafo del mencionado artículo sin el requisito que esté certificado ante fedatario público. Para ser seleccionados para su ingreso, estarán exceptuados del examen de conocimientos establecido en la fracción I del artículo 21 de la Ley, cuando el perfil del puesto no lo exija.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
 
-Los servidores públicos mencionados en la fracción I deberán cumplir con todos los requisitos establecidos en el artículo 19 de la Ley, exceptuando sólo con lo establecido en la fracción VIII.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
 
 ### CAPÍTULO II. DEL PROCESO DE PLANEACIÓN DE RECURSOS HUMANOS
 
@@ -415,9 +415,9 @@ d) Renuncia, cese de los efectos del Nombramiento, pensión o jubilación; y
 
 II. Por creación de plazas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
 
-Artículo 33 bis. El Auditor General podrá autorizar el nombramiento temporal hasta por ocho meses para ocupar una vacante del Servicio Profesional de Carrera, sin necesidad de sujetarse al procedimiento de ingreso al Servicio Profesional de Carrera a que se refieren la Ley y el Reglamento, siempre y cuando la persona a quien se designe reúna el perfil del puesto y los requisitos establecidos en el artículo 19 de la Ley, con excepción del enunciado en su fracción VIII. Lo anterior, sin perjuicio de que durante dicho periodo, se lleve a cabo el proceso de ingreso al Servicio Profesional de Carrera para ocupar la vacante en definitiva.
+Artículo 33 bis. El Auditor General podrá autorizar el nombramiento temporal hasta por ocho meses para ocupar una vacante del Servicio Profesional de Carrera, sin necesidad de sujetarse al procedimiento de ingreso al Servicio Profesional de Carrera a que se refieren la Ley y Reglamento, siempre y cuando la persona a quien se designe reúna el perfil del puesto. Lo anterior, sin perjuicio de que durante dicho periodo, se lleve a cabo el proceso de ingreso al Servicio Profesional de Carrera para ocupar la vacante en definitiva.
 
 > <small>(ADICIONADO, P.O. 9 DE MARZO DE 2016)</small>
 
@@ -1142,3 +1142,9 @@ P.O. 26 DE SEPTIEMBRE DE 2016.
 PRIMERO. La presente reforma al Reglamento de la Ley del Servicio Profesional de Carrera de la Auditoría Superior del Estado de Nuevo León entrará en vigor a partir de la fecha de su publicación en Periódico Oficial del Estado.
 
 SEGUNDO. La duración de los nombramientos temporales que hayan sido expedidos con anterioridad a la fecha de entrada en vigor de la presente reforma podrá ampliarse sin exceder a su conclusión el límite de ocho meses que se define en el artículo 33 bis primer párrafo, del Reglamento de la Ley del Servicio Profesional de Carrera de la Auditoría Superior del Estado de Nuevo León.
+
+P.O. 13 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO. Las presentes reformas al Reglamento de la Ley del Servicio Profesional de Carrera de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
