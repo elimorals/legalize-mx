@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-7-de-ingresos-del-gobierno-del-estado-de-121187"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-30"
-last_updated: "2016-12-30"
+last_updated: "2017-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 7 DE INGRESOS DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE PARA EL EJERCICIO FISCAL 2017
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2017 EN EL NÚMERO EXTRAORDINARIO DE LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA]</small>
-
 LEY NÚMERO 7 DE INGRESOS DEL GOBIERNO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE PARA EL EJERCICIO FISCAL 2017
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL NÚMERO EXTRAORNINARIO DE LA GACETA OFICIAL DE 13 DE ENERO DE 2017]</small>
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 30 de diciembre de 2016.
 
@@ -52,6 +52,8 @@ De Ingresos del Gobierno del Estado de Veracruz de Ignacio de la Llave para el E
 Para el Ejercicio Fiscal 2017, el Estado de Veracruz de Ignacio de la Llave percibirá los ingresos por los conceptos señalados en la presente Ley, que se destinarán a cubrir los gastos públicos, en las cantidades estimadas en pesos que a continuación se mencionan:
 
 > <small>[N. DE E. VÉASE TABLA EN LA G.O. DE 30 DE DICIEMBRE DE 2016, PÁGINAS DE LA 3 A LA 8.]</small>
+
+> <small>[N. DE E. VÉASE F. DE E. DE LA TABLA EN LA G.O. DE 13 DE ENERO DE 2017, PÁGINAS DE LA 6 A LA 7.]</small>
 
 Los elementos de las contribuciones, los productos y los aprovechamientos contenidos en la presente Ley, tales como objeto, sujeto, base, tarifa y tratamiento fiscal, están desglosados en la legislación en la materia.
 
