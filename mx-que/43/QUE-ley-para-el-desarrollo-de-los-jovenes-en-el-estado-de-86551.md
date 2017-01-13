@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-desarrollo-de-los-jovenes-en-el-estado-de-86551"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-02"
-last_updated: "2016-12-21"
+last_updated: "2017-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2017.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el viernes 2 de marzo de 2012.
 
@@ -57,49 +57,53 @@ III. Equidad de género, la promoción de la defensa de la igualdad de las mujer
 
 IV. Factores de riesgo y alteraciones del desarrollo, todos aquellos eventos, conductas y situaciones presentes en el entorno de los jóvenes, que incrementan la probabilidad de desarrollar adicciones y la predisposición física, económica o social de sufrir daños, colocándolos en una situación de vulnerabilidad que afecta el desarrollo integral;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-V. Secretaría, la Secretaría de la Juventud;
+V. Joven adolescente, la persona que comprende el rango de edad de doce años cumplidos y menos de dieciocho años de edad;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-VI. Ley, la Ley para el Desarrollo de los Jóvenes en el Estado de Querétaro;
+VI. Joven adulto, la persona que comprenda el rango de edad entre los dieciocho y los veintinueve años de edad;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-VII. Organismo municipal, la dependencia, organismo desconcentrado o entidad paramunicipal con que cuente cada Municipio para el cumplimiento de esta Ley;
+VIl. Jóvenes con discapacidad, aquellos que vivan con alguna deficiencia anatómica, fisiológica o sensorial, de carácter permanente o temporal, que puede ser agravada por el entorno económico y social, que limita su capacidad para ejercer una o más actividades esenciales de la vida cotidiana;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-VIII. Programa, al Programa Estatal para el Desarrollo Integral de la Juventud Queretana;
+VIII. Jóvenes, los jóvenes adolescentes, jóvenes adultos o jóvenes con discapacidad, en relaciones (sic) de la presente Ley;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-IX. SEDIF, al Sistema Estatal para el Desarrollo Integral de la Familia;
+IX. Ley, la Ley para el Desarrollo de los Jóvenes en el Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-X. Sustancias tóxicas, el elemento o compuesto o la mezcla química de ambos que, cuando por cualquier vía de ingreso, ya sea inhalación, ingestión o contacto con la piel o mucosas, causan efectos adversos al organismo, de manera inmediata o mediata, temporal o permanente, tales como adicciones, lesiones funcionales, alteraciones genéticas, teratogénicos, mutagénicas, carcinogénicas o la muerte;
+X. Organismo municipal, la dependencia, organismo desconcentrado o entidad paramunicipal con que cuente cada Municipio independientemente de su denominación para el cumplimiento de esta Ley;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-XI. Psicofísico, la manifestación física de un estímulo psicológico;
+XI. Programa, al Programa Estatal para el Desarrollo Integral de la Juventud Queretana;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-XII. Vulnerabilidad, el conjunto de circunstancias derivadas de los factores personales, familiares, económicos o sociales, que provocan un estado de amenaza en los jóvenes de sufrir daños físicos, psicológicos o emocionales o cualquier otro que impida su desarrollo integral;
+XII. Psicofísico, la manifestación física de un estímulo psicológico;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-XIII. Joven adolescente, la persona que comprende el rango de edad de doce años cumplidos y menos de dieciocho años de edad;
+XIII. Secretaría, la Secretaría de la Juventud;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-XIV. Joven adulto, la persona que comprenda el rango de edad entre los 18 y 29 años de edad cumplidos; y
+XIV. SEDIF, al Sistema Estatal para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-XV. Jóvenes, el joven adolescente y el joven adulto en relación con las disposiciones de la presente Ley.
+XV. Sustancias tóxicas, el elemento o compuesto o la mezcla química de ambos que, cuando por cualquier vía de ingreso, ya sea inhalación, ingestión o contacto con la piel o mucosas, causan efectos adversos al organismo, de manera inmediata o mediata, temporal o permanente, tales como adicciones, lesiones funcionales, alteraciones genéticas, teratogénicos, mutagénicas, carcinogénicas o la muerte; y
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+XVI. Vulnerabilidad, el conjunto de circunstancias derivadas de los factores personales, familiares, económicos o sociales, que provocan un estado de amenaza en los jóvenes de sufrir daños físicos, psicológicos o emocionales o cualquier otro que impida su desarrollo integral.
 
 ###### Artículo 3.
 
@@ -119,9 +123,17 @@ VI. El respeto y reconocimiento a la diversidad de la juventud;
 
 VII. La no discriminación de los jóvenes, cualquiera que sea su condición social, económica, salud, origen étnico, afiliación partidista o religión;
 
-VIII. La participación libre y democrática en la totalidad de los procesos de toma de decisiones que afecten su entorno juvenil; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-IX. El desarrollo de valores democráticos en la juventud, en la promoción, instrumentación y ejecución de programas y acciones tendientes a potenciar la convivencia, la libertad, la igualdad, la tolerancia y la solidaridad.
+VIII. La participación libre y democrática en la totalidad de los procesos de toma de decisiones que afecten su entorno juvenil;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
+
+IX. El desarrollo de valores democráticos en la juventud, en la promoción, instrumentación y ejecución de programas y acciones tendientes a potenciar la convivencia, la libertad, la igualdad, la tolerancia y la solidaridad; y
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+X. La coordinación entre las diferentes entidades y dependencias de la Administración Pública Estatal y Municipal, para fomentar la inserción laboral de los jóvenes con discapacidad y aumentar la conciencia entre la sociedad sobre sus derechos.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -171,9 +183,37 @@ VII. Apoyar el fortalecimiento de las organizaciones juveniles constituidas lega
 
 VIII. Promover la creación de fideicomisos con la participación de los sectores público, social y privado, que apoyen proyectos productivos generados por jóvenes;
 
-IX. Proveer los recursos, medios y lineamientos que permitan el cumplimiento pleno del Programa; y
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-X. Las que determine esta Ley y demás disposiciones aplicables.
+IX. Proveer los recursos, medios y lineamientos que permitan el cumplimiento pleno del Programa;
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
+
+X. Aceptar y reconocer la existencia de las diversas discapacidades de los Jóvenes;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+XI. Ofrecer apoyos educativos y formativos para padres y familias de jóvenes con discapacidad, a fin de aportarles los medios necesarios para que puedan fomentar su desarrollo profesional, educativo y laboral;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+XII. Fomentar, entre los diversos ámbitos laborales públicos y privados, la inserción laboral de jóvenes que sufren alguna discapacidad;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+XIII. Crear convenios de coordinación y colaboración entre los Estados, Municipios, Universidades y Entidades, con la finalidad de que los jóvenes con discapacidad puedan llevar acabo (sic) sus prácticas profesionales;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+XIV. Ofrecer capacitaciones en el ámbito empresarial a jóvenes con discapacidad;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+XV. Crear los programas para la atención de jóvenes con discapacidad, mismos que deberán contemplar los mecanismos necesarios para que puedan bastarse por sí mismos, teniendo como su principal objetivo su participación de forma activa en la comunidad; y
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+XVI. Las que determine esta Ley y demás disposiciones aplicables.
 
 ### Capítulo Tercero. De la Secretaría de la Juventud
 
@@ -257,11 +297,37 @@ III. Difundir de manera oportuna los derechos y obligaciones que contribuyan al 
 
 IV. Establecer en sus presupuestos de egresos correspondientes, partidas para difusión, promoción, fomento, investigación, ejecución, supervisión y evaluación de los planes y programas en materia de juventud del municipio;
 
-> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-V. Procurar la realización de un evento anual denominado "Cabildo de la juventud", el cual tendrá como objetivo el promover la cultura municipal entre los jóvenes; y
+V. Procurar la realización de un evento anual denominado "Cabildo de la juventud", el cual tendrá como objetivo el promover la cultura municipal entre los jóvenes;
 
-VI. Las demás que conforme a esta Ley, reglamentos y acuerdos le correspondan.
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
+
+VI. Aceptar y reconocer la existencia de las diversas discapacidades de los Jóvenes;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+VIl. Ofrecer apoyos educativos y formativos para padres y familias de jóvenes con discapacidad, a fin de aportarles los medios necesarios para que puedan fomentar su desarrollo profesional, educativo y laboral;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+VIII. Fomentar entre los diversos ámbitos laborales públicos y privados la inserción laboral de jóvenes que sufren alguna discapacidad;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+IX. Crear convenios de coordinación y colaboración entre los Estados, Municipios, Universidades y Entidades, con la finalidad llevar acabo (sic) sus prácticas profesionales;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+X. Ofrecer capacitaciones en el ámbito empresarial a jóvenes con discapacidad;
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+XI. Crear los programas para la atención de jóvenes con discapacidad, mismos que deberán contemplar los mecanismos necesarios para que puedan bastarse por sí mismos, teniendo como su principal objetivo su participación de forma activa en la comunidad; y
+
+> <small>(ADICIONADA, P.O. 13 DE ENERO DE 2017)</small>
+
+XII. Las demás que conforme a esta Ley, reglamentos y acuerdos le correspondan.
 
 ## Título Tercero. De los derechos y obligaciones de los jóvenes
 
@@ -540,6 +606,38 @@ Las autoridades estatales, municipales y organismos municipales, deberán crear 
 ###### Artículo 47.
 
 La Legislatura del Estado, en colaboración con instituciones educativas públicas y privadas, participará en la formulación de un programa anual de prestadores de servicio social, mismo que se elaborará durante el mes de enero de cada año. Los jóvenes estudiantes del Estado que lo soliciten, podrán prestar sus servicios en todas las áreas que forman parte de la estructura administrativa de la Legislatura, así como también en las oficinas de los diputados y oficinas de enlace o módulos de atención de estos últimos.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 13 DE ENERO DE 2017)</small>
+
+Sección Decimosexta
+
+De los derechos de los jóvenes con discapacidad
+
+> <small>(ADICIONADO, P.O. 13 DE ENERO DE 2017)</small>
+
+###### Artículo 47 Bis.
+
+Son derechos de los jóvenes con discapacidad, además de los reconocidos en otros ordenamientos legales, los siguientes:
+
+l. Ser tratados de manera igualitaria y con respeto;
+
+II. Tener acceso a las instituciones educativas, culturales deportivas, recreativas y turísticas, en condiciones de accesibilidad;
+
+III. A la igualdad de oportunidades laborales, así como a la capacitación laboral;
+
+IV. A desarrollar plenamente sus aptitudes y a gozar de una vida digna en su desarrollo laboral, cultural, económico y recreativo;
+
+V. A ejercer de manera responsable e informada su sexualidad y libre de prejuicios;
+
+VI. A decidir con responsabilidad el ejercicio de su paternidad y maternidad;
+
+VIl. Ser sujetos y beneficiarios de los programas de desarrollo social y humano y de asistencia social;
+
+VIII. A la accesibilidad, incluyendo el libre desplazamiento en condiciones dignas y seguras en los espacios públicos abiertos y cerrados de cualquier índole;
+
+IX. Contar con un salario digno, conforme a la normatividad de la materia; y
+
+X. Las demás que establezcan las normas jurídicas aplicables a la materia.
 
 ### Capítulo Segundo. De los deberes y obligaciones de los jóvenes
 
@@ -912,6 +1010,14 @@ Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jera
 P.O. 21 DE DICIEMBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 2 Y 4 DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+P.O. 13 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO DE LOS JÓVENES EN EL ESTADO DE QUERÉTARO”.]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
