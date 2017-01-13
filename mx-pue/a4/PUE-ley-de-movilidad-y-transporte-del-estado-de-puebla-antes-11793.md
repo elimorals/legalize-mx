@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-movilidad-y-transporte-del-estado-de-puebla-antes-11793"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-18"
-last_updated: "2015-10-29"
+last_updated: "2017-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2017.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de marzo de 1998.
 
@@ -221,19 +221,23 @@ LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA
 
 La presente Ley es de interés social y de orden público, de observancia general en el Estado de Puebla y tiene por objeto regular todo lo relacionado con el Servicio Público de Transporte, el Servicio Mercantil, los Servicios Auxiliares y el Servicio Ejecutivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 2.
 
-Las autoridades competentes para la interpretación y observación de la presente Ley, sus Reglamentos, y demás disposiciones en la materia, lo son la Secretaría de Infraestructura y Transportes del Estado de Puebla y el Organismo Público Descentralizado, denominado Carreteras de Cuota-Puebla, quienes en todo caso y en el ámbito de sus respectivas competencias, deberán aplicar como criterio fundamental, lo que sea más conveniente para el servicio público y sus usuarios, promoviendo la participación social en la planeación, operación y revisión administrativa del transporte.
+Las autoridades competentes para la interpretación y observación de la presente Ley, sus Reglamentos, y demás disposiciones en la materia, lo son la Secretaría de Infraestructura, Movilidad y Transportes del Estado de Puebla y el Organismo Público Descentralizado denominado Carreteras de Cuota Puebla, quienes en todo caso y en el ámbito de sus respectivas competencias, deberán aplicar como criterio fundamental, lo que sea más conveniente para el servicio público y sus usuarios, promoviendo la participación social en la planeación, operación y revisión administrativa del transporte.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
 La Secretaría, será competente para interpretar, ejercer, observar y aplicar las atribuciones y obligaciones previstas en el artículo 10 y demás disposiciones de la presente Ley y sus Reglamentos, relativas en materia de supervisión, vigilancia y revisión.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Cuando en la presente Ley se refiera a la Secretaría, se entenderá a la Secretaría de Infraestructura y Transportes del Estado de Puebla. Asimismo cuando se haga referencia en esta Ley a Carreteras de Cuota-Puebla, se entenderá al Organismo Público Descentralizado denominado Carreteras de Cuota-Puebla, en términos de su Decreto de creación.
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2017)</small>
+
+Cuando en la presente Ley se refiera a la Secretaría, se entenderá a la Secretaría de Infraestructura, Movilidad y Transportes del Estado de Puebla y cuando se refiera a la Contraloría, se entenderá a la Secretaría de la Contraloría. Asimismo cuando se haga referencia en ésta Ley a Carreteras de Cuota-Puebla, se entenderá al Organismo Público Descentralizado denominado Carreteras de Cuota-Puebla, en términos de su Decreto de creación.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -251,13 +255,23 @@ Son autoridades en materia del transporte, en el ámbito de competencia que corr
 
 I.- El Gobernador del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II.- De la Secretaría de Infraestructura y Transportes del Estado:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
 
-a) El Secretario de Infraestructura y Transportes;
+II.- De la Secretaría de Infraestructura, Movilidad y Transportes del Estado:
 
-b) El Subsecretario de Transportes, y
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
+
+a) El Secretario de Infraestructura, Movilidad y Transportes;
+
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
+
+b) El Subsecretario de Movilidad y Transportes;
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
 
@@ -315,11 +329,13 @@ IV.- Intervenir el Servicio Público de Transporte, con apego a las disposicione
 
 V.- Las demás que le conceda la presente Ley y sus Reglamentos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 6.
 
-El Secretario de Infraestructura y Transportes y el Director General de Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, tendrán las siguientes atribuciones:
+El Secretario de Infraestructura, Movilidad y Transportes y el Director General de Carreteras de Cuota-Puebla, en el ámbito de sus respectivas competencias, tendrán las siguientes atribuciones:
 
 I.- Cumplir y hacer cumplir la presente Ley y sus Reglamentos;
 
@@ -389,11 +405,13 @@ XVI.- Las demás que les otorguen la presente Ley, sus Reglamentos y demás disp
 
 ARTICULO 6 BIS.- (DEROGADO, P.O. 28 DE AGOSTO DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 7.
 
-Carreteras de Cuota-Puebla y el Subsecretario de Transportes, en el ámbito de su respectiva competencia, tendrán las siguientes atribuciones:
+Carreteras de Cuota-Puebla y el Subsecretario (sic) Movilidad y de Transportes, en el ámbito de su respectiva competencia, tendrán las siguientes atribuciones:
 
 I.- Cumplir y hacer cumplir la presente Ley y sus Reglamentos;
 
@@ -973,11 +991,13 @@ Corresponde al Gobierno del Estado a través de la Secretaría y de Carreteras d
 
 Corresponde al Gobierno del Estado a través de la Secretaría, otorgar los permisos o autorizaciones para la prestación de los servicios a que se refiere esta Ley.
 
-> <small>(REFORMADO, P. O. 6 DE MARZO DE 2015)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 2017)</small>
 
 ###### ARTICULO 48.
 
-Concesión del Servicio Público de Transporte, es el acto jurídico por el cual el Secretario de Infraestructura y Transportes del Estado o Carreteras de Cuota-Puebla, en el ámbito de su competencia, otorga a alguna persona física o moral la autorización para la prestación del Servicio Público de Transporte, sus componentes, así como sus Servicios Auxiliares; estableciendo las condiciones y obligaciones a que deberán sujetarse, y condicionando su otorgamiento al cumplimiento de todos los requisitos establecidos en la presente Ley y sus Reglamentos, tomando en cuenta las características del servicio.
+Concesión del Servicio Público de Transporte, es el acto jurídico por el cual el Secretario de Infraestructura Movilidad y Transportes del Estado o Carreteras de Cuota-Puebla, en el ámbito de su competencia, otorga a alguna persona física o moral la autorización para la prestación del Servicio Público de Transporte, sus componentes, así como sus Servicios Auxiliares; estableciendo las condiciones y obligaciones a que deberán sujetarse, y condicionando su otorgamiento al cumplimiento de todos los requisitos establecidos en la presente Ley y sus Reglamentos, tomando en cuenta las características del servicio.
 
 > <small>(REFORMADO, P. O. 6 DE MARZO DE 2015)</small>
 
@@ -1207,7 +1227,11 @@ IV.- Plano de la ruta o zona de que se trate y croquis de las calles comprendida
 
 V.- Proyecto de horarios, frecuencias de paso, itinerarios y demás características propias del servicio de que se trate;
 
-VI.- Carta de inexistencia de antecedentes penales, expedida por la Procuraduría General de Justicia del Estado, o no encontrarse sujeto a proceso penal por delito doloso;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
+
+VI.- Constancia de no antecedentes penales, expedida por la Fiscalía General del Estado, o no encontrarse sujeto a proceso penal por delito doloso;
 
 VII.- Comprobante del depósito de garantía del trámite correspondiente, y
 
@@ -2490,3 +2514,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La Ley de Ingresos del Ejercicio Fiscal que corresponda o el Acuerdo que emita la autoridad fiscal del Estado, determinará las cantidades que se cubrirán por concepto del pago de derechos por la expedición de licencias de carácter permanente a que se refieren las fracciones II, III y IV del artículo 44 de esta Ley.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DEL TRANSPORTE PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día primero de febrero de dos mil diecisiete.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo del Estado dentro del plazo de los treinta días hábiles a partir de la entrada en vigor de este Decreto, realizará las adecuaciones correspondientes al reglamento interior de la Dependencia.
+
+En tanto no se realicen las adecuaciones a que se refiere el párrafo anterior, la Secretaría seguirá aplicando el reglamento vigente en todo aquello que no lo contravenga.
