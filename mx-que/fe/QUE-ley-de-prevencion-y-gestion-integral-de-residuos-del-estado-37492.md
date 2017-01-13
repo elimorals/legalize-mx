@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-374
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-20"
-last_updated: "2013-04-26"
+last_updated: "2017-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro "La Sombra de Arteaga", el 20 de febrero de 2004.
 
@@ -85,9 +85,9 @@ II. Contenedor: Receptáculo destinado al deposito generalmente de forma tempora
 
 III. Eliminación: Acción tendiente a deshacerse de un bien o de un residuo, mediante una forma de tratamiento de cualquier índole, que lo transforme en un material inerte o de su disposición final en celdas de confinamiento;
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-IV. Incineración: Todo tratamiento térmico con o sin la recuperación de calor producido por la combustión, incluyendo pirolisis, gasificación, plasma, coprocesamiento de combustible alterno y cualquier otro proceso que genere dioxinas y furanos como subproductos;
+IV. Incineración: Cualquier proceso para reducir el volumen y descomponer o cambiar la composición física, química o biológica de un residuo sólido, líquido o gaseoso, mediante oxidación térmica, en la cual todos los factores de combustión, como la temperatura, el tiempo de retención y la turbulencia, pueden ser controlados, incluyendo co-procesamiento de combustible alterno y cualquier otro proceso que genere dioxinas y furanos como subproductos, a fin de alcanzar la eficiencia, eficacia y los parámetros ambientales previamente establecidos. Sin incluir la pirolisis, gasificación por plasma y plasma, siempre y cuando sean sometidos a combustión en un ambiente mínimo de oxígeno a fin de que no generen dioxinas o furanos;
 
 V. Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
 
@@ -197,9 +197,11 @@ XVI. El establecimiento de acciones orientadas a recuperar las áreas degradadas
 
 XVII. La participación pública en la formulación de planes, programas y ordenamientos jurídicos relacionados con la gestión integral de los residuos, así como el acceso público a la información sobre todos los aspectos relacionados con ésta;
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-XVIII. Queda prohibida la incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado de Querétaro;
+XVIII. Queda prohibida la incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado de Querétaro; sin incluir la pirólisis, gasificación por plasma y plasma, siempre y cuando sean sometidos a combustión en un ambiente mínimo de oxígeno a fin de que no generen dioxinas o furanos.
+
+Deberán establecerse restricciones al tratamiento térmico de residuos susceptibles de ser valorizados mediante los procesos señalados en el párrafo que antecede, cuando estos estén disponibles, sean ambientalmente eficaces, tecnológica y económicamente factibles;
 
 XIX. Los planes de manejo realizados por los particulares, seguirán, en todo momento, ligados al manejo de residuos sólidos urbanos y de manejo especial, debiendo las autoridades competentes respetarlos aún y cuando los cambios políticos demanden lo contrario; y
 
@@ -633,9 +635,9 @@ IX. El fomento o creación de basureros clandestinos;
 
 X. El depósito o confinamiento de residuos fuera de los sitios destinados para dicho fin, en parques, áreas verdes, áreas de valor ambiental, áreas naturales protegidas, zonas rurales o áreas de conservación ecológica y otros lugares no autorizados;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE ENERO DE 2017)</small>
 
-XI. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado de Querétaro;
+XI. La incineración de residuos sólidos urbanos y de residuos de manejo especial en el Estado de Querétaro, con excepción de la pirólisis, gasificación por plasma y plasma, siempre y cuando sean sometidos a combustión en un ambiente mínimo de oxígeno a fin de que no generen dioxinas o furanos;
 
 XII. La dilución o mezcla de residuos sólidos urbanos o de manejo especial con líquidos para su vertimiento al sistema de alcantarillado, a cualquier cuerpo de agua o sobre suelos con o sin cubierta vegetal;
 
@@ -1284,3 +1286,11 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se abrogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente.
 
 Artículo Tercero. Envíese la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 13 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
