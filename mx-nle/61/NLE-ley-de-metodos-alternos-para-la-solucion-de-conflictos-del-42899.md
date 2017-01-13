@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-metodos-alternos-para-la-solucion-de-conflictos-del-4289
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-14"
-last_updated: "2012-02-01"
+last_updated: "2017-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DE METODOS ALTERNOS PARA LA SOLUCION DE CONFLICTOS DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE MECANISMOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 13 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MÉTODOS ALTERNOS PARA LA SOLUCIÓN DE CONFLICTOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2011.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 1 DE FEBRERO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2017 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de enero de 2005.
 
@@ -510,3 +510,33 @@ Tercero.- Los juicios que se encuentren en trámite pendientes de resolución, c
 P.O. 26 DE DICIEMBRE DE 2011.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 13 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 183. POR EL QUE SE CREA LA LEY DE MECANISMOS ALTERNATIVOS PARA LA SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor el día primero de Enero de 2017.
+
+Segundo.- Se abroga la Ley de Métodos Alternos para la Solución de Conflictos del Estado de Nuevo León, publicada en el Periódico Oficial del Estado en fecha 14 de Enero de 2005.
+
+Tercero.- Se derogan todas las disposiciones que se opongan a la presente ley una vez iniciada la vigencia de este decreto.
+
+Cuarto.- El Instituto de Mecanismos Alternativos para la Solución de Controversias del Poder Judicial del Estado de Nuevo León, sustituirá al Centro Estatal de Métodos Alternos para la Solución de Conflictos manteniendo la misma estructura orgánica, presupuesto, infraestructura, obligaciones y atribuciones previstas en la presente ley y en los demás ordenamientos legales aplicables.
+
+A la fecha de entrada en vigor del presente Decreto, todas las menciones al Centro Estatal de Métodos Alternos para la Solución de Conflictos previstas en las leyes estatales, asi como en cualquier disposición jurídica que emane de ellas, se entenderán referidas al Instituto de Mecanismos Alternativos para la Solución de Controversias del Poder Judicial del Estado de Nuevo León.
+
+Quinto.- El Consejo de la Judicatura del Poder Judicial del Estado deberá expedir el reglamento de la presente Ley, en un plazo no mayor a 90 días contados a partir del inicio de la vigencia de este Decreto.
+
+Sexto.- Los Centros de Métodos Alternos y Prestadores de Servicios de Métodos Alternos que, en los términos de la Ley de Métodos Alternos para Solución de Conflictos del Estado de Nuevo León del 14 de enero de 2005, se encuentren certificados con anterioridad a la entrada en vigor de este decreto, conservarán sus derechos respectivos; llegado el momento de su refrendo, se remplazará, en cada caso, la certificación de prestador de servicios de Mecanismos Alternativos por la de facilitador, y la certificación de Instituto de Mecanismos Alternativos para la Solución de Controversias del Poder Judicial del Estado de Nuevo León, por la respectiva acreditación, en los terminas de la presente Ley. Sin embargo los facilitadores que busquen la certificación especializada en los términos de esta nueva ley, deberán cumplir con los requisitos señalados en el Reglamento, presentando la solicitud respectiva a partir de su entrada en vigor.
+
+Séptimo.- Las certificaciones de Centros de Métodos Alternos expedidas antes de la publicación e inicio de vigencia de esta Ley, y que se encuentren en vigor, extenderán su vigencia a un periodo de tres años contados a partir de la fecha en que se hubieren otorgado, quedando obligados los centros respectivos a realizar los trámites del refrendo, como acreditación, al expirar el plazo respectivo.
+
+Octavo. Los procedimientos tramitados por el Centro Estatal de Métodos Alternos para la Solución de Conflictos en materia penal, continuarán en términos de lo dispuesto en la Ley Nacional de Mecanismos Alternativos para la solución de Controversias en materia Penal, y del Código Nacional de Procedimientos Penales.
+
+Noveno.- El H. Congreso del Estado, tendrá de un plazo de hasta 60 di as, para adecuar la Ley Orgánica del Poder Judicial del Estado de Nuevo León, en lo referente al Instituto.
+
+Décimo.- Los procedimientos de Métodos Alternos cuya tramitación se hubiera iniciado antes de la entrada en vigor de este decreto, proseguirán la misma conforme a la normativa vigente con anterioridad a dicho inicio de vigencia.
+
+Décimo Primero.- El Poder Judicial y el Instituto realizarán las acciones necesarias para cumplir con el principio de expedites una vez que los intervinientes ejerzan el derecho consignado en el artículo 43 de la presente Ley, para lo cual, los procedimientos de Mediación y Conciliación vinculados a un proceso jurisdiccional entrarán en vigor de la siguiente manera:
+
+Los asuntos de materia civil y mercantil a partir del día 1 de enero de 2018, los asuntos de materia familiar a partir del 1 de enero de 2019, los asuntos de materia de menores a partir del 1 de enero de 2020, los asuntos concurrentes, de exhortos, juzgados menores a partir del 1 de enero de 2021.
