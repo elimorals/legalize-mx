@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-419-de-hacienda-del-estado-de-guerrero-117817"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2016-12-27"
+last_updated: "2017-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE GUERRERO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY NÚMERO 419 DE HACIENDA DEL ESTADO DE GUERRERO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE ENERO DE 2017.]</small>
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el martes 27 de diciembre de 2016.
 
@@ -1321,6 +1321,8 @@ Los Servicios que presta la Dirección del Registro Público de la Propiedad, de
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINAS DE LA 56 A LA 58.]</small>
 
+> <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 13 DE ENERO DE 2017, PÁGINAS DE LA 5 A 6.]</small>
+
 Los casos no previstos en este precepto, causarán los derechos señalados al acto que más analogía tenga con el que se consigne en el documento, a juicio de las autoridades del registro.
 
 Las autoridades fiscales estarán facultadas para verificar en cualquier tiempo, mientras no prescriba el crédito fiscal, la veracidad de los documentos que hayan servido de base para el pago de los derechos a que se refieren todas las fracciones de este artículo.
@@ -1343,7 +1345,9 @@ A).- Registro de Nacimiento
 
 (NOTA: EL 31 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 4/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL NUMERAL 1 DEL INCISO A) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-1.- Registro de Nacimiento DE 1 DÍA DE NACIDO HASTA UN AÑO, Gratuito.
+> <small>(F. DE E., P.O. 13 DE ENERO DE 2017)</small>
+
+1.- Registro de Nacimiento DE 1 DÍA DE NACIDO HASTA UN AÑO, así como la expedición de la primera copia certificada de nacimiento. Gratuita.
 
 (NOTA: EL 31 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 4/2017, DECLARÓ LA INVALIDEZ DEL NUMERAL 2 DEL INCISO A) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE NOVIEMBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1417,7 +1421,9 @@ No se causarán los impuestos adicionales a que se refieren los artículos 51 en
 
 12.- Rectificación Administrativa 14.50
 
-13.- Por la expedición de Actas de Registro Civil en kioscos automáticos 1.11
+> <small>(F. DE E., P.O. 13 DE ENERO DE 2017)</small>
+
+13.- Por la expedición de Actas de Registro Civil en kioscos automáticos y del Sistema de Actas en Línea 1.11
 
 14.- Por la Nulidad y Cancelación de Registro de Nacimiento Duplicado 14.50
 
@@ -1631,9 +1637,13 @@ III.- POR LOS PERMISOS QUE SE OTORGUEN PARA EL TRASLADO DE CADÁVERES O RESTOS �
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINA 67.]</small>
 
+> <small>[N. DE E. VÉASE FE DE ERRATAS A LA TABLA EN EL P.O. DE 13 DE ENERO DE 2017, PÁGINAS DE 9 A LA 10.]</small>
+
 IV.- VISITAS DE VERIFICACIÓN, CURSOS DE CAPACITACIÓN, Y AVISO DE FUNCIONAMIENTO SIGUIENTES:
 
 > <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 27 DE DICIEMBRE DE 2016, PÁGINA 68.]</small>
+
+> <small>[N. DE E. VÉASE FE DE ERRATAS A LAS TABLAS EN EL P.O. DE 13 DE ENERO DE 2017, PÁGINAS DE LA 10 A LA 11.]</small>
 
 V.- POR LOS SERVICIOS QUE PRESTA LA AUTORIDAD SANITARIA POR ACTIVIDADES REGULADAS POR LA MISMA, PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS.
 
@@ -3089,7 +3099,9 @@ Cuando se haya suspendido el cobro del impuesto, de acuerdo con lo dispuesto en 
 
 Toda percepción obtenida por el acreedor se considerará aplicada preferentemente a intereses vencidos.
 
-Cuando los pagos efectuados deban aplicarse, de acuerdo con el documento constitutivo de la obligación, parte al capital y parte a intereses, el impuesto sólo se causará sobre estos últimos, observándose en su caso lo dispuesto en el artículo 212.
+> <small>(F. DE E., P.O. 13 DE ENERO DE 2017)</small>
+
+Cuando los pagos efectuados deban aplicarse, de acuerdo con el documento constitutivo de la obligación, parte al capital y parte a intereses, el impuesto sólo se causará sobre estos últimos, observándose en su caso lo dispuesto en el artículo 211.
 
 ###### ARTÍCULO 213.
 
