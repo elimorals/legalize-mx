@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2016-11-12"
+last_updated: "2017-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2017 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 14 DE ENERO DE 2017.]</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -379,11 +379,11 @@ Cuando el Presidente Municipal saliente no acuda a la instalación del nuevo ayu
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016)</small>
+(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2016) (F. DE E., P.O. 14 DE ENERO DE 2017)
 
 ###### ARTÍCULO 40.
 
-Cuando por cualquier circunstancia especial no se verificare la elección de algún Ayuntamiento o se hubiere declarado nula o válida (sic), el Gobernador del Estado hará la designación de un encargado de la Administración Municipal.
+Cuando por cualquier circunstancia especial no se verificare la elección de algún Ayuntamiento o se hubiere declarado nula o no válida, el Gobernador del Estado hará la designación de un encargado de la Administración Municipal.
 
 En aquellos casos en que se ponga en peligro la paz pública o la estabilidad de las instituciones, no se celebrarán nuevas elecciones, esto a juicio del Congreso del Estado, quien lo hará del conocimiento del Titular del Poder Ejecutivo mismo que procederá a proponerle la integración de un Consejo Municipal, en los términos establecidos por la Constitución Local y por esta Ley. Hasta en tanto sea posible la instalación del Consejo, el Titular del Poder Ejecutivo nombrará a un encargado de la Administración Municipal.
 
