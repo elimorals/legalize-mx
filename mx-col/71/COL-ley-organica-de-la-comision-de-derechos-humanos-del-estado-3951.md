@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-comision-de-derechos-humanos-del-estado-3951
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-05-30"
-last_updated: "2014-02-01"
+last_updated: "2017-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2017.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 30 de mayo de 1992.
 
@@ -285,9 +285,9 @@ III.- Dictar las medidas específicas que juzgue convenientes para el mejor dese
 
 IV.- Distribuir y delegar funciones al Visitador y demás servidores de la Comisión;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1994)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 2017)</small>
 
-V.- Rendir un informe anual al Congreso del Estado y al titular del Poder Ejecutivo, sobre las actividades de la Comisión. Dicho informe deberá presentarse el día acordado por el Consejo dentro de la primera quincena del mes de enero de cada año;
+V.- Rendir un informe anual al Congreso del Estado y al titular del Poder Ejecutivo, sobre las actividades de la Comisión. Dicho informe deberá presentarse el día acordado por el Consejo dentro del mes de enero de cada año.
 
 VI.- Celebrar convenios de colaboración con autoridades y organismos de defensa de los derechos humanos, así como con instituciones académicas y asociaciones culturales, para el mejor cumplimiento de sus fines;
 
@@ -631,7 +631,7 @@ Dado en Palacio de Gobierno, a los veintinueve días del mes de mayo de 1992.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
 
 P.O. 15 DE ENERO DE 1994.
 
@@ -658,3 +658,9 @@ P.O. 28 DE FEBRERO DE 2009.
 P.O. 1 DE FEBRERO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 14 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 234 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
