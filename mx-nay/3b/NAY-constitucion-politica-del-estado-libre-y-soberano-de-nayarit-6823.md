@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "2016-10-19"
+last_updated: "2017-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2017.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1707,31 +1707,63 @@ VIII.- Los demás que con base en la Constitución Federal, esta Constitución y
 
 #### SECCIÓN I. Del Ministerio Público
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2017)</small>
 
 ###### Art. 92.
 
-El Ministerio Público es el representante legítimo de los intereses sociales y es una institución con autonomía en términos de ley, que se rige en el ejercicio de sus funciones por los principios de buena fe, certeza, legalidad, objetividad, imparcialidad, eficacia, honradez, profesionalismo y respeto a los derechos humanos.
+El Ministerio Público es el representante legítimo de los intereses sociales y es una institución autónoma, dotado de personalidad jurídica y de patrimonio propio, que se rige en el ejercicio de sus funciones por los principios de buena fe, certeza, legalidad, objetividad, imparcialidad, eficacia, honradez, profesionalismo y respeto a los derechos humanos.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2017)</small>
 
 ###### Art. 93.
 
-Ejerce las funciones de Ministerio Público en el Estado el Fiscal General, quien durará en el cargo siete años pudiendo ser ratificado por única vez por un periodo igual y será el jefe nato de aquél y los agentes que determine la ley.
+Ejerce las funciones de Ministerio Público en el Estado el Fiscal General, quien durará en el cargo nueve años y será el jefe nato de aquél y los agentes que determine la ley.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2017)</small>
 
 ###### Art. 94.
 
-Para ser designado Fiscal General, se necesitan los mismos requisitos que para ser Secretario del Despacho del Poder Ejecutivo, salvo lo previsto para el caso de la profesión, pues en este caso deberá contar invariablemente con título de Licenciado en Derecho.
+El Fiscal General será designado y removido conforme a lo siguiente:
 
-La propuesta y ratificación respectivas, se harán conforme las bases estipuladas en esta Constitución y en las leyes aplicables. El Fiscal General podrá ser removido solamente en términos del Título Octavo de esta Constitución.
+I. A partir de la ausencia definitiva del Fiscal General, el Congreso del Estado contará con veinte días para integrar una lista de al menos diez candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Ejecutivo Estatal.
 
-> <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
+Si el Ejecutivo no recibe la lista en el plazo antes señalado, enviará libremente al Congreso una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
+
+II. Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración del Congreso.
+
+III. El Congreso, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+
+En caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Congreso tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala la fracción I.
+
+Si el Congreso no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+
+IV. El Fiscal General podrá ser removido por el Ejecutivo del Estado por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+
+V. En los recesos del Congreso, la Comisión Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General.
+
+VI. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
+
+El Fiscal General presentará anualmente al Poder Legislativo del Estado un informe de actividades. Comparecerá ante dicho Poder cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2017)</small>
 
 ###### Art. 95.
 
-No podrá ser Fiscal General, quien haya ocupado el cargo de Magistrado del Tribunal Superior de Justicia o Consejero de la Judicatura, durante el año previo al día de la designación.
+Para ser designado Fiscal General se requiere cumplir con los siguientes requisitos:
+
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Tener cuando menos 35 años cumplidos al día de la designación;
+
+III. Poseer al día de la designación con antigüedad mínima de 10 años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente autorizada para ello;
+
+IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación , abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
+
+V. Ser originario del Estado o haber residido en el durante los dos años anteriores al día de la designación, y
+
+VI. No haber sido Secretario de Despacho del Poder Ejecutivo, o haber desempeñado cargo de elección popular, durante el año previo al día de la designación.
+
+VI. No haber ocupado el cargo de Magistrado del Tribunal Superior de Justicia o Consejero de la Judicatura, durante el año previo al día de la designación.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2013)</small>
 
@@ -1755,33 +1787,19 @@ Todas las autoridades del Estado, tienen el deber de facilitar las labores del M
 
 Las facultades y obligaciones del Fiscal General y de los Agentes del Ministerio Público, serán las que se determinen en la ley de la materia.
 
-> <small>(ADICIONADA, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2017)</small>
 
-#### SECCIÓN II. De la Fiscalía Especializada en Combate a la Corrupción
+#### SECCIÓN II. De las Fiscalías Especializadas
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 2017)</small>
 
 ###### Art. 100.
 
-La Fiscalía Especializada en Combate a la Corrupción, será un Órgano autónomo, con personalidad jurídica, patrimonio propio y autonomía presupuestal, en términos de la ley reglamentaria cuyo objeto es investigar y perseguir los hechos que la ley considera como delitos por hechos de corrupción.
+La Fiscalía General contará, al menos, con las Fiscalías Especializadas en materia de delitos electorales y en combate a la corrupción, cuyos titulares serán nombrados y removidos por el Fiscal General.
 
-Para la designación del titular de la Fiscalía Especializada en Combate a la Corrupción, el H. Congreso del Estado emitirá convocatoria para la postulación de candidatos, posteriormente se designará por el voto de las dos terceras partes de los Diputados presentes en la sesión.
+El nombramiento y remoción de los Fiscales Especializados podrá ser objetado por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado; si el Congreso no se pronunciare dentro del plazo de diez días hábiles, se entenderá que no tiene objeción.
 
-Para ser titular de la Fiscalía Especializada en Combate a la Corrupción se requiere cumplir con los siguientes requisitos:
-
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
-
-II.- Tener cuando menos 35 años cumplidos al día de la designación;
-
-III.- Poseer al día de la designación con antigüedad mínima de 10 años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente autorizada para ello;
-
-IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
-
-V.- Ser originario del estado o haber residido en el estado durante los dos años anteriores al día de la designación, y
-
-VI.- No haber sido Secretario de Despacho del Poder Ejecutivo, o haber desempeñado cargo de elección popular, durante el año previo al día de la designación.
-
-El Fiscal Especializado en Combate a la Corrupción durará en su encargo siete años sin posibilidad de ser ratificado.
+Los Fiscales Especializados deberán cubrir los mismos requisitos que para ser Fiscal General y durarán en su encargo ocho años sin posibilidad de ser ratificados.
 
 > <small>(ADICIONADO, P.O. 17 DE MAYO DE 2004)</small>
 
@@ -3880,3 +3898,17 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
 
 Tercero.- En atención al resolutivo quinto de la sentencia emitida respecto de la acción de inconstitucionalidad 55/2016 y una vez concluidos los trámites legislativos correspondientes, remítase el presente decreto a la Suprema Corte de Justicia de la Nación, del Poder Judicial de la Federación, para los efectos conducentes.
+
+P.O. 14 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- El Fiscal General del Estado que se encuentre en funciones al entrar en vigor la autonomía constitucional de la Fiscalía General a que refiere el presente Decreto, seguirá en el cargo por el tiempo, condiciones y prerrogativas previstas en el Decreto de designación, incluyendo el derecho a una eventual ratificación.
+
+Tercero.- Los bienes, recursos materiales y financieros con que actualmente cuenta la Fiscalía General del Estado, pasarán a formar parte de patrimonio del órgano autónomo que se crea mediante el presente Decreto.
+
+Cuarto.- Dentro de los seis meses contados a partir de la entrada en vigencia del presente Decreto se deberá expedir y adecuar la normativa correspondiente, conforme a las previsiones en el mismo contenidas.
+
+Quinto.- Para los efectos previstos por el artículo 131 de la Constitución Política del Estado Libre y Soberano de Nayarit, remítase el presente Decreto a los Ayuntamientos de la Entidad.
