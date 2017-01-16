@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "2017-01-13"
+last_updated: "2017-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # CONSTITUCION POLITICA DEL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2017 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE ENERO DE 2017.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 16 DE ENERO DE 2017.]</small>
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -3767,9 +3767,11 @@ La presente Ley entrará en vigor el día de su publicación en el Boletín Ofic
 
 Se instruye a la Mesa Directiva o a la Diputación Permanente del Congreso del Estado, en su caso, a efecto de que realicen el cómputo respectivo y la remitan al Titular del Poder Ejecutivo para su publicación en el Boletín Oficial del Gobierno del Estado, en caso de resultar aprobada.
 
+> <small>(F. DE E., B.O. 16 DE ENERO DE 2017)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Las reformas a los artículos 33, fracción V, 64, fracciones XIX BIS, XXIV BIS, XXXII y XLIII BIS; 67, inciso G; 70, fracción V, 97, párrafos tercero y sexto, 143, párrafo primero, 143-A, fracción I y II, 143 B, fracción III, párrafo segundo y fracción IV, 144, primer párrafo y fracción I, párrafo segundo y 146, párrafo primero, las adiciones de un segundo párrafo a la fracción XXV del artículo 64; la Sección II del Capítulo II Bis y el artículo 67 BIS, un párrafo séptimo al artículo 97 y la derogación de la fracción XXXII BIS del artículo 64 y la Sección VII del Capítulo II, contenidas en la presente Ley, entrarán en vigor el día 19 de julio del año 2017, previa publicación de la misma en el Boletín Oficial del Gobierno del Estado.
+Las reformas a los artículos 33, fracción V, 64, fracción XXXII BIS; 67, inciso G; 70, fracción V, y 143 B, fracción III, párrafo segundo y fracción IV; las adiciones de un segundo párrafo a la fracción XXV del artículo 64; y la derogación de la fracción XXXII BIS del artículo 64 y la Sección VII del Capítulo II, contenidas en la presente Ley, entrarán en vigor el día 19 de julio del año 2017, previa publicación de la misma en el Boletín Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO TERCERO.
 
