@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2016-02-22"
+last_updated: "2017-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2017.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -899,7 +899,9 @@ Una vez recibido el instrumento de evaluación ambiental, la autoridad competent
 
 La Secretaría notificará, dentro de los 3 días hábiles siguientes a la recepción del instrumento de evaluación, a la autoridad ambiental municipal, que ha recibido la manifestación de impacto ambiental o el informe preventivo respectivo, a fin de que ésta manifieste lo que a su derecho convenga, respecto de obras o actividades de competencia estatal, cuando las mismas pretendan realizarse en el ámbito de su circunscripción territorial.
 
-El Municipio deberá emitir su opinión en un término de 7 días hábiles para el informe preventivo y 12 días hábiles para el manifiesto de impacto ambiental, pasado éste sin que el Municipio haya respondido, se entenderá que no existe objeción respecto de la realización de la obra o actividad.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
+El Municipio deberá emitir su opinión en un término de 10 días hábiles para el informe preventivo y 15 días hábiles para el manifiesto de impacto ambiental, pasado éste sin que el municipio haya respondido, se entenderá que no existe objeción respecto de la realización de la obra o actividad.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3708,3 +3710,15 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos tendrán un plazo de 90 días naturales contados a partir del inicio de vigencia del presente Decreto, para realizar las adecuaciones reglamentarias correspondientes.
+
+P.O. 16 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 37.- SE REFORMA EL ARTÍCULO 38 DE LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
