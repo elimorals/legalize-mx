@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-municipal-del-estado-libre-y-soberano-de-22819"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-05"
-last_updated: "2006-12-29"
+last_updated: "2017-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # CODIGO FISCAL MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CODIGO FISCAL MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
+CÓDIGO FISCAL MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN LA PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN LA PERIÓDICO OFICIAL: 16 DE ENERO DE 2017.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 5 de diciembre de 2001.
 
@@ -947,41 +947,53 @@ Comete el delito de defraudación fiscal, quien haciendo uso de engaños o aprov
 
 El delito de defraudación fiscal se sancionará:
 
-I. Con prisión de seis meses a tres años y multa de cinco a cincuenta días de salario mínimo diario general vigente, si el monto de lo defraudado no excede de cien veces el salario mínimo diario general vigente en el Estado, y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2017)</small>
 
-II. Con prisión de tres a cinco años y multa de cincuenta a doscientos cincuenta días de salario mínimo diario general vigente, si el monto de lo defraudado excede de cien veces el salario mínimo diario general vigente en el Estado.
+I.- Con prisión de seis meses a tres años y multa de cinco a cincuenta Unidades de Medida y Actualización, si el monto de lo defraudado no excede de doscientas Unidades de Medida y Actualización; y
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2017)</small>
+
+II.- Con prisión de tres a cinco años y multa de cincuenta a doscientas cincuenta Unidades de Medida y Actualización, si el monto de lo defraudado excede de cien Unidades de Medida y Actualización.
 
 ###### Artículo 73.
 
 Comete el delito de quebrantamiento de sellos o marcas oficiales, quien sin derecho los altere, destruya o retire, habiendo sido colocados con la finalidad fiscal de identificar o asegurar documentación o establecimientos sujetos a comprobación de obligaciones fiscales; o impida por cualquier medio que se logre el propósito para el que fueron colocados.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
 ###### Artículo 74.
 
-Al que cometa el delito de quebrantamiento de sellos o marcas oficiales, colocados por autoridad fiscal en ejercicio de sus funciones, se le impondrá la pena de un mes a dos años de prisión y multa de cuarenta a ciento veinte veces el salario mínimo diario general vigente en el Estado.
+Al que cometa el delito de quebrantamiento de sellos o marcas oficiales, colocados por autoridad fiscal en ejercicio de sus funciones, se le impondrá la pena de un mes a dos años de prisión y multa de cuarenta a ciento veinte Unidades de Medida y Actualización.
 
 ###### Artículo 75.
 
 Comete el delito de falsificación o uso de medios de control fiscal, quien sin autorización grabe, manufacture, imprima, troquele, altere o forme con fragmentos de aquéllos, las matrices, licencias, punzones, dados, clichés, negativos, engomados, placas o comprobantes de pago que se utilicen como medio de control fiscal; o los use, los ponga en circulación, los venda y a sabiendas de su falsificación, los ostente como pago de contribuciones en perjuicio del fisco municipal.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
 ###### Artículo 76.
 
-El delito de falsificación o uso de medios de control fiscal se sancionará con prisión de seis meses a cinco años y multa de sesenta a ciento ochenta veces el salario mínimo diario general vigente en el Estado.
+El delito de falsificación o uso de medios de control fiscal se sancionará con prisión de seis meses a cinco años y multa de sesenta a ciento ochenta Unidades de Medida y Actualización.
 
 ###### Artículo 77.
 
 Comete el delito de usurpación de funciones fiscales el servidor público o el particular que se ostente como tal, que ordene o practique actos propios de la autoridad fiscal, sin mandamiento escrito o acuerdo delegatorio de facultades emitido por Autoridad competente.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
 ###### Artículo 78.
 
-El delito de usurpación de funciones fiscales, se sancionará con prisión de dos meses a dos años y multa de diez a cien veces el salario mínimo diario general vigente en el Estado.
+El delito de usurpación de funciones fiscales, se sancionará con prisión de dos meses a dos años y multa de diez a cien Unidades de Medida y Actualización.
 
 ###### Artículo 79.
 
 Comete el delito de disposición indebida de bienes, el depositario o interventor designado por la autoridad fiscal que con perjuicio del fisco municipal, disponga para sí o para otro del bien depositado, de sus productos o de las garantías que de cualquier crédito fiscal se hubieren constituido.
 
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
 ###### Artículo 80.
 
-El delito de disposición indebida de bienes, se sancionará con prisión de tres meses a tres años y multa de cinco a veinte días de salario mínimo diario general vigente, si el valor de lo dispuesto no excede de doscientas veces el salario mínimo diario general vigente en el Estado; y si excede de ese monto, se sancionará con prisión de uno a cuatro años y multa de veinte a doscientos días de salario mínimo diario general vigente.
+El delito de disposición indebida de bienes, se sancionará con prisión de tres meses a tres años y multa de cinco a veinte Unidades de Medida y Actualización, si el valor de lo dispuesto no excede de doscientas Unidades de Medida y Actualización; y si excede de ese monto, se sancionará con prisión de uno a cuatro años y multa de veinte a doscientas Unidades de Medida y Actualización.
 
 ## TÍTULO SEXTO. DE LAS NOTIFICACIONES Y DE LA GARANTÍA DEL INTERÉS FISCAL
 
@@ -1011,7 +1023,9 @@ Las notificaciones se podrán hacer en las oficinas de las autoridades fiscales,
 
 Toda notificación personal realizada con quien deba entenderse será legalmente válida, aun cuando no se efectúe en el domicilio respectivo o en las oficinas de las autoridades fiscales.
 
-Si las notificaciones se refieren a requerimiento para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento, la cantidad equivalente a dos salarios mínimos diarios vigentes en el Estado en el momento en que se realice la misma.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
+Si las notificaciones se refieren a requerimiento para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento, la cantidad equivalente a dos Unidades de Medida y Actualización.
 
 Respecto a estos gastos de notificación, la autoridad fiscal los determinará conjuntamente con la propia notificación y se pagarán al cumplir con el requerimiento.
 
@@ -1259,7 +1273,9 @@ El remate deberá ser convocado para una fecha fijada, dentro de los treinta dí
 
 La convocatoria se fijará en el sitio visible y usual de la autoridad ejecutora.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a cien veces el salario mínimo diario vigente en el Estado, la convocatoria se publicará en el periódico de mayor circulación del Municipio dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
+En el caso de que el valor de los bienes exceda de una cantidad equivalente a cien Unidades de Medida y Actualización, la convocatoria se publicará en el periódico de mayor circulación del Municipio dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
 
 ###### Artículo 112.
 
@@ -1323,7 +1339,9 @@ Hecho el pago a que se refiere el párrafo anterior y designado el notario por e
 
 Aun en este caso, el deudor responderá de la evicción y saneamiento del inmueble rematado.
 
-Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad fiscal los ponga a su disposición, en caso de no hacerlo se causarán diariamente derechos por almacenaje a partir del día siguiente, por un importe equivalente al 25% de un salario mínimo general diario vigente en el Estado.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2017)</small>
+
+Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la Autoridad Fiscal los ponga a su disposición, en caso de no hacerlo se causarán diariamente derechos por almacenaje a partir del día siguiente, por un importe equivalente al 25% de una Unidad de Medida y Actualización.
 
 ###### Artículo 123.
 
@@ -1512,3 +1530,11 @@ P.O. 29 DE DICIEMBRE DE 2006.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 16 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL MUNICIPAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
