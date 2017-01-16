@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-corporacion-auxiliar-de-policia-66529
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-11-19"
-last_updated: "2008-11-19"
+last_updated: "2017-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA CORPORACION AUXILIAR DE POLICIA DE PROTECCION CIUDADANA
 
-REGLAMENTO INTERIOR DE LA CORPORACION AUXILIAR DE POLICIA DE PROTECCION CIUDADANA
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA CORPORACIÓN AUXILIAR DE POLICÍA DE PROTECCIÓN CIUDADANA, PUBLICADO EN EL P.O. DE 16 DE ENERO DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+REGLAMENTO INTERIOR DE LA CORPORACIÓN AUXILIAR DE POLICÍA DE PROTECCIÓN CIUDADANA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2017 (ABROGADO).
 
 Reglamento publicado en la Novena Sección del Periódico Oficial del Estado de Puebla, el miércoles 19 de noviembre de 2008.
 
@@ -808,3 +810,15 @@ SEGUNDO.- Se derogan todas las disposiciones reglamentarias dictadas sobre la ma
 TERCERO.- Se abroga el Reglamento Interior de la Corporación Auxiliar de Policía de Protección Ciudadana, de fecha tres de diciembre del año dos mil cuatro, publicado en el Periódico Oficial del Estado.
 
 Aprobado por los miembros de la Honorable Junta de Gobierno del Organismo Público Descentralizado denominado Corporación Auxiliar de Policía de Protección Ciudadana en la Ciudad de Puebla, a 6 de noviembre de 2008.- Director General.- CAPITÁN JORGE ANTONIO MORGADO NAVA.- Rúbrica.- Vicepresidente (Representante).- LICENCIADO MARIO ARTURO DAZA BUENDÍA.- Rúbrica.- Secretario Ejecutivo.- GENERAL MARIO AYÓN RODRÍGUEZ.- Rúbrica.- Secretario Ejecutivo (Suplente).- LICENCIADO ARMANDO TOXQUI QUINTERO.- Rúbrica.- Tesorero.- LICENCIADO JOSÉ LUIS JIMÉNEZ MORALES.- Rúbrica.- Vocal.- LICENCIADO RODOLFO IGOR ARCHUNDIA SIERRA.- Rúbrica.- Vocal.- CORONEL JUAN ELVIRA CAMARENA.- Rúbrica.- Comisario.- LICENCIADO FLAVIO RODRÍGUEZ RAYÓN.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE ENERO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO INTERIOR DE LA CORPORACIÓN AUXILIAR DE POLICÍA DE PROTECCIÓN CIUDADANA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Corporación Auxiliar de Policía de Protección Ciudadana, publicado el diecinueve de noviembre del dos mil ocho en el Periódico Oficial del Estado.
+
+TERCERO. Se dejan sin efecto todas aquellas disposiciones que contravengan lo dispuesto en el presente Reglamento.
